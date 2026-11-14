@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Ejecutivos Nos. 004-2022, 308-2022, 310-2022, 313-2022, 170-2022, 171-2022, 208-2022, 015-2022, 016-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220502-35912-2/download"
 extraido: "2026-11-14"
-huella: "3c59bafe14dc17ea"
+huella: "ffa3018d49ef5827"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 170-2022
@@ -27,9 +27,7 @@ huella: "3c59bafe14dc17ea"
 
 ## Texto
 
-EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

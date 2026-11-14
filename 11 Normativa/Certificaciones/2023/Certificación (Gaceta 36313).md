@@ -11,7 +11,7 @@ paginas: "A. 3 - 20"
 sumario: "Certificación, Resolución No. 691-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230821-36313/download"
 extraido: "2026-11-14"
-huella: "7c5a7967b01c3565"
+huella: "b59004bdaad03d44"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,33 +27,31 @@ huella: "7c5a7967b01c3565"
 
 ## Texto
 
-La infrascrita Secretaria del Directorio a.i. del Banco Central de Honduras, por este medio CERTIFICA el Punto 3.9 del Acta de la Sesión No.4038 del 20 de julio de 2023, la cual contiene el Acuerdo No. 09/2023, que literalmente dice:
+La infrascrita Secretaria del Directorio a.i. del Banco Central de Honduras, por este medio CERTIFICA el Punto 3.9 del Acta de la Sesión No. 4038 del 20 de julio de 2023, la cual contiene el Acuerdo No. 09/2023, que literalmente dice:
 
-«3.9… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente: ACUERDO No.09/2023.- Sesión No. 4038 del 20 de julio de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+«3.9… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente: ACUERDO No. 09/2023.- Sesión No. 4038 del 20 de julio de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
-CONSIDERANDO: Que de conformidad con el Artículo 17 del Decreto Legislativo No.33-2020 del 2 de abril de 2020, publicado en el Diario Oficial “La Gaceta” el 3 de ese mismo mes y año, contentivo de la Ley de Auxilio al Sector Productivo y a los trabajadores ante los efectos de la pandemia provocada por el Covid-19, autorizó al Banco Hondureño para la Producción y la Vivienda (Banhprovi) para que constituya y administre cualquier tipo de Fondos de Garantías.
+CONSIDERANDO: Que de conformidad con el Artículo 17 del Decreto Legislativo No. 33-2020 del 2 de abril de 2020, publicado en el Diario Oficial “La Gaceta” el 3 de ese mismo mes y año, contentivo de la Ley de Auxilio al Sector Productivo y a los trabajadores ante los efectos de la pandemia provocada por el Covid-19, autorizó al Banco Hondureño para la Producción y la Vivienda (Banhprovi) para que constituya y administre cualquier tipo de Fondos de Garantías.
 
-CONSIDERANDO: Que mediante los artículos 2 y 3 del Decreto Legislativo No. 38-2020 del 30 de abril del 2020, publicado en el Diario Oficial “La Gaceta” el 5 de mayo de 2020, el Congreso Nacional instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No.
+CONSIDERANDO: Que mediante los artículos 2 y 3 del Decreto Legislativo No. 38-2020 del 30 de abril del 2020, publicado en el Diario Oficial “La Gaceta” el 5 de mayo de 2020, el Congreso Nacional instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No. 2246, suscrito el 25 de abril 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantías para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los contratos mercantiles que considere necesarios para la correcta administración de los referidos fondos de garantía.
 
-2246, suscrito el 25 de abril 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantías para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los contratos mercantiles que considere necesarios para la correcta administración de los referidos fondos de garantía.
+CONSIDERANDO: Que mediante Resolución No. 173-5/2020 del 20 de mayo de 2020, el Directorio de la Institución autorizó al Presidente y Representante Legal del BCH a suscribir con el Banhprovi el Contrato de Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las Mipymes afectadas por la Pandemia provocada por el Covid-19, el cual se identifica como documento No. 017-2020 de fecha 21 de mayo de 2020; asimismo, el Directorio del BCH mediante Resolución No. 318-10/2020 del 16 de octubre de 2020, autorizó la suscripción del Addéndum a dicho contrato, el cual se encuentra contenido en el documento No. 054-2020 del 4 de febrero de 2021.
 
-CONSIDERANDO: Que mediante Resolución No.173- 5/2020 del 20 de mayo de 2020, el Directorio de la Institución autorizó al Presidente y Representante Legal del BCH a suscribir con el Banhprovi el Contrato de Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las Mipymes afectadas por la Pandemia provocada por el Covid-19, el cual se identifica como documento No.017-2020 de fecha 21 de mayo de 2020; asimismo, el Directorio del BCH mediante Resolución No.318- 10/2020 del 16 de octubre de 2020, autorizó la suscripción del Addéndum a dicho contrato, el cual se encuentra contenido en el documento No.054-2020 del 4 de febrero de 2021.
+CONSIDERANDO: Que el Directorio del BCH, por medio de Resolución No. 194-6/2020 del 11 de junio de 2020, autorizó al Presidente y Representante Legal de la Institución a suscribir con el Banhprovi el Contrato de Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño afectadas por la Pandemia provocada por el Covid-19; contrato contenido en el documento No. 023-2020 del 17 de junio de 2020.
 
-CONSIDERANDO: Que el Directorio del BCH, por medio de Resolución No.194-6/2020 del 11 de junio de 2020, autorizó al Presidente y Representante Legal de la Institución a suscribir con el Banhprovi el Contrato de Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño afectadas por la Pandemia provocada por el Covid-19; contrato contenido en el documento No. 023-2020 del 17 de junio de 2020.
+CONSIDERANDO: Que mediante los artículos 76 y 83 del Decreto Legislativo No. 157-2022 del 12 de enero de 2023, publicado en el Diario Oficial “La Gaceta” en esa misma fecha, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, instruyó a los Presidentes y miembros directivos de las instituciones descentralizadas que representan al Gobierno y a las instituciones financieras estatales para que procedieran a realizar la resolución, revocación o extinción y liquidación de los contratos o convenios de fideicomisos suscritos por las instituciones que representan, con base en el Decreto Ejecutivo No. 029-2019, publicado en el Diario Oficial “La Gaceta” el 23 de noviembre del año 2019.
 
-CONSIDERANDO: Que mediante los artículos 76 y 83 del Decreto Legislativo No. 157-2022 del 12 de enero de 2023, publicado en el Diario Oficial “La Gaceta” en esa misma fecha, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, instruyó a los Presidentes y miembros directivos de las instituciones descentralizadas que representan al Gobierno y a las instituciones financieras estatales para que procedieran a realizar la resolución, revocación o extinción y liquidación de los contratos o convenios de fideicomisos suscritos por las instituciones que representan, con base en el Decreto Ejecutivo No.029-2019, publicado en el Diario Oficial “La Gaceta” el 23 de noviembre del año 2019.
+CONSIDERANDO: Que el Directorio del BCH, a través de Resolución No. 278-7/2023 del 6 de julio de 2023, autorizó a la licenciada Rebeca Patricia Santos Rivera para que, en su condición de Presidenta y Representante Legal del BCH, suscriba con el Banhprovi, el Contrato de Administración del Fondo de Garantía para la Micro, Pequeña y Mediana Empresa (Mipyme), en cumplimiento a lo establecido en el Decreto Legislativo No. 38-2020.
 
-CONSIDERANDO: Que el Directorio del BCH, a través de Resolución No. 278-7/2023 del 6 de julio de 2023, autorizó a la licenciada Rebeca Patricia Santos Rivera para que, en su condición de Presidenta y Representante Legal del BCH, suscriba con el Banhprovi, el Contrato de Administración del Fondo de Garantía para la Micro, Pequeña y Mediana Empresa (Mipyme), en cumplimiento a lo establecido en el Decreto Legislativo No.38-2020.
-
-CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No.03/2023 del 4 de julio de 2023, aprobó el Reglamento del Fondo de Garantía para la Micro, Pequeña y Mediana Empresa (Mipyme) y recomendó a este Directorio su aprobación.
+CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No. 03/2023 del 4 de julio de 2023, aprobó el Reglamento del Fondo de Garantía para la Micro, Pequeña y Mediana Empresa (Mipyme) y recomendó a este Directorio su aprobación.
 
 POR TANTO:
 
 Con fundamento en los artículos 262 y 342 de la Constitución de la República;
 
-2, 6 y 16 de la Ley del Banco Central de Honduras; 2 y 3 del Decreto Legislativo No.38-2020 y 17 del Decreto Legislativo No.33-2020,
+2, 6 y 16 de la Ley del Banco Central de Honduras; 2 y 3 del Decreto Legislativo No. 38-2020 y 17 del Decreto Legislativo No. 33-2020,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -97,7 +95,7 @@ c) BENEFICIARIO O PRESTATARIO: Micro, Pequeña y Mediana Empresas (Mipyme) cuyas
 
 Comercio al por mayor y menor; Transporte; Salud (servicios de salud) y otros servicios de acuerdo al Clasificador Internacional Industrial Uniforme (CIIU).
 
-d) FONDO DE GARANTÍA PARA LA MICRO, PEQUEÑA Y MEDIANA EMPRESA (BCH-FG MIPYME): Instrumento financiero creado por el BCH con recursos patrimoniales, destinados a la emisión de Certificados de Garantía de Cobertura que respaldarán parcialmente los créditos otorgados por la Institución Financiera Intermediaria (IFI) participante, con recursos propios a las Mipyme, fondo creado de conformidad con lo establecido en el Decreto Legislativo No.38-2020 del 30 de abril de 2020.
+d) FONDO DE GARANTÍA PARA LA MICRO, PEQUEÑA Y MEDIANA EMPRESA (BCH-FG MIPYME): Instrumento financiero creado por el BCH con recursos patrimoniales, destinados a la emisión de Certificados de Garantía de Cobertura que respaldarán parcialmente los créditos otorgados por la Institución Financiera Intermediaria (IFI) participante, con recursos propios a las Mipyme, fondo creado de conformidad con lo establecido en el Decreto Legislativo No. 38-2020 del 30 de abril de 2020.
 
 e) CERTIFICADO DE GARANTÍA DE COBERTURA (CGC):
 
@@ -115,9 +113,9 @@ j) EMPRESA DE MAYOR TAMAÑO (EMT): Para efectos de este Reglamento se denominar�
 
 k) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS EMPRESAS DE MAYOR TAMAÑO AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19:
 
-Recursos patrimoniales del BCH destinados a la emisión de CGC que respaldan parcialmente el financiamiento de créditos otorgados por las IFI participantes con recursos propios a las EMT afectadas por la pandemia provocada por el COVID-19; las cuales se encuentran reglamentadas por el BCH mediante el Acuerdo No.15/2021 del 25 de noviembre de 2021.
+Recursos patrimoniales del BCH destinados a la emisión de CGC que respaldan parcialmente el financiamiento de créditos otorgados por las IFI participantes con recursos propios a las EMT afectadas por la pandemia provocada por el COVID-19; las cuales se encuentran reglamentadas por el BCH mediante el Acuerdo No. 15/2021 del 25 de noviembre de 2021.
 
-l) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS MIPYMES AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19: Recursos patrimoniales del BCH destinados a la emisión de CGC que respaldan parcialmente el financiamiento de créditos otorgados por las IFI participantes, con recursos propios a las Mipymes afectadas por la pandemia provocada por el Covid-19; las cuales se encuentran reglamentadas por el BCH mediante el Acuerdo No.14/2021 del 25 de noviembre de 2021.
+l) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS MIPYMES AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19: Recursos patrimoniales del BCH destinados a la emisión de CGC que respaldan parcialmente el financiamiento de créditos otorgados por las IFI participantes, con recursos propios a las Mipymes afectadas por la pandemia provocada por el Covid-19; las cuales se encuentran reglamentadas por el BCH mediante el Acuerdo No. 14/2021 del 25 de noviembre de 2021.
 
 m) INSTITUCIÓN FINANCIERA INTERMEDIARIA (IFI):
 
@@ -643,7 +641,7 @@ Disposiciones Finales
 
 Artículo 37. Absorción de garantías vigentes emitidas con respaldos del BCH-FG MIPYME y/o del BCH-FG EMT Con los recursos constituidos en el Contrato correspondiente que se suscriba entre el BCH y el BANHPROVI para la administración del Fondo de Garantía BCH-FG MIPYME, se respaldarán las garantías que se encuentren vigentes, respaldadas por el Fondo de Garantía para la Reactivación de las Mipyme afectadas por la pandemia provocada por el Covid-19 y/o por el Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño afectadas por la pandemia provocada por el Covid-19.
 
-Los créditos autorizados por la IFI con recursos propios que requieran la emisión de un CGC del Fondo de Garantía para la Reactivación de las Mipyme afectadas por la pandemia provocada por el Covid-19 y/o del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño afectadas por la pandemia provocada por el Covid-19, que hayan sido tramitados en la IFI antes de la entrada en vigencia de este reglamento, así como las solicitudes de garantías que se estén tramitando en el BANHPROVI, se resolverán de acuerdo con las normas establecidas en los reglamentos contenidos en el Acuerdo No.14/2021 del 25 de noviembre de 2021 y en el Acuerdo No.15/2021 del 25 de noviembre de 2021, según corresponda en cada caso.
+Los créditos autorizados por la IFI con recursos propios que requieran la emisión de un CGC del Fondo de Garantía para la Reactivación de las Mipyme afectadas por la pandemia provocada por el Covid-19 y/o del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño afectadas por la pandemia provocada por el Covid-19, que hayan sido tramitados en la IFI antes de la entrada en vigencia de este reglamento, así como las solicitudes de garantías que se estén tramitando en el BANHPROVI, se resolverán de acuerdo con las normas establecidas en los reglamentos contenidos en el Acuerdo No. 14/2021 del 25 de noviembre de 2021 y en el Acuerdo No. 15/2021 del 25 de noviembre de 2021, según corresponda en cada caso.
 
 #### Artículo 38
 

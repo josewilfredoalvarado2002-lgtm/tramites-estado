@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 164-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231007-36353/download"
 extraido: "2026-11-14"
-huella: "23cbd1ab3b3358d0"
+huella: "868da5105035c81c"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 164-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No
 
 POR TANTO: El Secretario de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014;
 
-116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de delegación de firma No. 14- 2022 de fecha ocho de febrero de dos mil veintidós.
+116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de delegación de firma No. 14-2022 de fecha ocho de febrero de dos mil veintidós.
 
 RESUELVE:
 

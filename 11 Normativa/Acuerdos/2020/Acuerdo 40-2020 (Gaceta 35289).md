@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdos Nos. 30- A-2020, 40-2020, 46-2020,47-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200620-35289/download"
 extraido: "2026-11-14"
-huella: "bbea1404e3b4df6a"
+huella: "66fcff8b48f7c10e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 40-2020
@@ -27,7 +27,7 @@ huella: "bbea1404e3b4df6a"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-004-2020.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-004-2020.
 
 ACUERDA:
 

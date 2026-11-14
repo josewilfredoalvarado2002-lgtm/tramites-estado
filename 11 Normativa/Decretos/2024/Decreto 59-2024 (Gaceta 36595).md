@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 59-2024, 61-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240725-36595/download"
 extraido: "2026-11-14"
-huella: "a9adfa69a396832c"
+huella: "6c1bf144a81f2e85"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 59-2024
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 324, 325, 327 y adicionar el Artículo 337-A del CÓDIGO PENAL, contenido en el Decreto 130-2017, del 18 de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, Edición No.34,940, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 324, 325, 327 y adicionar el Artículo 337-A del CÓDIGO PENAL, contenido en el Decreto 130-2017, del 18 de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, Edición No. 34,940, el cual deberá leerse de la manera siguiente:
 
 “ARTÍCULO 324.- CONTAMINACIÓN DEL AIRE, LAS AGUAS O
 

@@ -8,10 +8,10 @@ gaceta_numero: 36153
 gaceta_fecha: "2023-02-11"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36153 (2023-02-11)|La Gaceta 36153]]"
 paginas: "A. 1 - 2"
-sumario: "Decreto No. 148-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2023"
+sumario: "Decreto No. 148-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230211-36153/download"
 extraido: "2026-11-14"
-huella: "494be2c0b004abb1"
+huella: "7ffe7b3a9571e818"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 148-2022
@@ -23,7 +23,7 @@ huella: "494be2c0b004abb1"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36153 (2023-02-11)\|La Gaceta 36153]] del 2023-02-11 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Decreto No. 148-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2023 |
+| Según el sumario de La Gaceta | Decreto No. 148-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2023 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

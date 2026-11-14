@@ -11,7 +11,7 @@ paginas: "A. 67 - 80"
 sumario: "Acuerdos Nos. 0142-ARSA-2025, 0256-ARSA-2025, 0263-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260128-37055/download"
 extraido: "2026-11-09"
-huella: "7681a92a40f627a6"
+huella: "31be701732033b30"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0263-ARSA-2025
@@ -185,7 +185,7 @@ K. ETIQUETADO
 
 Los establecimientos que elaboran harina de maíz para consumo humano y los comercializadores deben aferrarse a las disposiciones establecidas en el REGLAMENTO TÉCNICO CENTROAMERICANO ETIQUETADO GENERAL DE LOS ALIMENTOS PREVIAMENTE ENVASADOS (PREENVASADOS), RTCA ETIQUETADO NUTRICIONAL DE PRODUCTOS ALIMENTICIOS PREENVASADOS PARA CONSUMO HUMANO PARA LA POBLACIÓN A PARTIR DE 3 AÑOS DE EDAD y la Norma General para el Etiquetado de Envases de Alimentos no destinados a la venta al por menor CXS-346-2021, en sus versiones vigentes.
 
-L. MÉTODOS DE ANÁLISIS Y MUESTREO, E N S AY O Y E VA L U A C I Ó N D E L A CONFORMIDAD.
+L. MÉTODOS DE ANÁLISIS Y MUESTREO, E N S AY O Y E VA LUACIÓN DE LA CONFORMIDAD.
 
 12.1 MÉTODOS DE ANÁLISIS FACTOR/DESCRIPCIÓN LÍMITE MÉTODO DE AOAC 923.03 ISO 2171:2023 o en su CENIZA Máx.: 3 % referido al peso en (1990) en su versión vigente g Método ICC 105/1 (para la determinación de la proteína bruta en cereales y productos a base de cereales para alimentos y piensos (Tipo I)). Catalizador selenio/cobre o ISO 1871 (2009) (1975) en su versión vigente.
 
@@ -297,7 +297,7 @@ La evaluación de la conformidad para la harina de maíz nixtamalizado se llevar
 
 Este Reglamento Técnico coincide básicamente (o parcialmente) con:
 
-1. Codex Alimentarius – Norma CODEX STAN 155- 1985.
+1. Codex Alimentarius – Norma CODEX STAN 155-1985.
 
 2. Acuerdo Gubernamental 128-2021 de Guatemala:
 
@@ -319,7 +319,7 @@ Harina de Trigo Fortificada. Especificaciones en su versión vigente.
 
 3. Ley General de Fortificación de Alimentos (Decreto No. 234-2010).
 
-4. Ley de Protección al Consumidor (Decreto No. 24- 2008).
+4. Ley de Protección al Consumidor (Decreto No. 24-2008).
 
 5. Reglamento de Control Sanitario de Alimentos y Bebidas (Acuerdo No. 0632-ARSA-2023).
 
@@ -335,7 +335,7 @@ Buenas Prácticas de Manufactura. Principios Generales en su versión vigente.
 
 10. RTCA Etiquetado Nutricional de Productos Alimenticios Preenvasados para Consumo Humano para la Población a partir de 3 Años de edad en su versión vigente.
 
-11. Norma General para el Etiquetado de Envases de Alimentos no destinados a la venta al por menor CXS- 346-2021.
+11. Norma General para el Etiquetado de Envases de Alimentos no destinados a la venta al por menor CXS-346-2021.
 
 13.3 VIGILANCIA Y VERIFICACIÓN
 

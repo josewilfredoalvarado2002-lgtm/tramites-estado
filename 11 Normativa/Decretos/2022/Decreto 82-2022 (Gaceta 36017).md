@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Decretos Nos. 78-2022, 81-2022, 82-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220901-36017/download"
 extraido: "2026-11-14"
-huella: "48bb83fb357b5261"
+huella: "d16b2691efe2c2f1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 82-2022
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ FEDERACIÓN HONDUREÑA DE MONTAÑA Y ESCALADA
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición al Artículo 3 de la LEY DE PROTECCIÓN DE LA CULTURA FÍSICA Y EL DEPORTE, contenida en Decreto No.203-84, emitido el 29 de Octubre de 1984, publicado en el Diario Oficial “La Gaceta”, en fecha 15 de Noviembre del año 1984, reformado por adición por los Decretos No.98-87 del 17 de Julio de 1987 y publicado en el Diario Oficial “La Gaceta”, en fecha 7 de Agosto del año 1987; 51-93 del 23 de Marzo de 1993 y publicado en el Diario Oficial “La Gaceta”, en fecha 8 de Mayo del año 1993; 57-95 del 14 de Marzo del 1995, publicado en el Diario Oficial “La Gaceta”, en fecha 24 de Mayo del año 1995; 85-2000 del 31 de Mayo del 2000, publicado en fecha 03 de Julio del 2000; 55-2002 del 19 de Marzo del 2002, publicado en el Diario Oficial “La Gaceta”, en fecha 7 de Junio del 2002 y sus posteriores reformas, el cual deberá leerse así:
+ARTÍCULO 2.- Reformar por adición al Artículo 3 de la LEY DE PROTECCIÓN DE LA CULTURA FÍSICA Y EL DEPORTE, contenida en Decreto No. 203-84, emitido el 29 de Octubre de 1984, publicado en el Diario Oficial “La Gaceta”, en fecha 15 de Noviembre del año 1984, reformado por adición por los Decretos No. 98-87 del 17 de Julio de 1987 y publicado en el Diario Oficial “La Gaceta”, en fecha 7 de Agosto del año 1987; 51-93 del 23 de Marzo de 1993 y publicado en el Diario Oficial “La Gaceta”, en fecha 8 de Mayo del año 1993; 57-95 del 14 de Marzo del 1995, publicado en el Diario Oficial “La Gaceta”, en fecha 24 de Mayo del año 1995; 85-2000 del 31 de Mayo del 2000, publicado en fecha 03 de Julio del 2000; 55-2002 del 19 de Marzo del 2002, publicado en el Diario Oficial “La Gaceta”, en fecha 7 de Junio del 2002 y sus posteriores reformas, el cual deberá leerse así:
 
 “ARTÍCULO 3.- La Cultura Física y el Deporte Extraescolar en Honduras… Con los mismos alcances y la misma naturaleza jurídica y orgánica establecidos en el párrafo anterior, se reconoce a la Federación Hondureña de Deportes de Montaña y Escalada (FEHDME), como parte en el control y dirección de la Cultura Física y el Deporte Extraescolar en Honduras”.
 
@@ -67,7 +67,7 @@ ARTÍCULO 3.- La Confederación Deportiva Autónoma de Honduras “CONDEPAH”, 
 
 #### Artículo 4
 
-ARTÍCULO 4.- DISPOSICIÓN TRANSITORIA. La Confederación Deportiva Autónoma de Honduras “CONDEPAH”, podrá de su presupuesto autorizado mediante el Derecho Legislativo No.107-2021, publicado en el Diario Oficial “La Gaceta”, en fecha 17 de Diciembre del año 2021, que contiene el “PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2022” y en sus posteriores reformas; otorgar una asignación presupuestaria a favor de la FEDERACIÓN HONDUREÑA DE DEPORTES DE MONTAÑA Y ESCALADA (FEHDME), a fin que éste pueda ejecutarlo en el presente año, en gastos de materiales, equipos y demás implementos correspondientes al Deporte de Montaña y Escalada.
+ARTÍCULO 4.- DISPOSICIÓN TRANSITORIA. La Confederación Deportiva Autónoma de Honduras “CONDEPAH”, podrá de su presupuesto autorizado mediante el Derecho Legislativo No. 107-2021, publicado en el Diario Oficial “La Gaceta”, en fecha 17 de Diciembre del año 2021, que contiene el “PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2022” y en sus posteriores reformas; otorgar una asignación presupuestaria a favor de la FEDERACIÓN HONDUREÑA DE DEPORTES DE MONTAÑA Y ESCALADA (FEHDME), a fin que éste pueda ejecutarlo en el presente año, en gastos de materiales, equipos y demás implementos correspondientes al Deporte de Montaña y Escalada.
 
 #### Artículo 5
 

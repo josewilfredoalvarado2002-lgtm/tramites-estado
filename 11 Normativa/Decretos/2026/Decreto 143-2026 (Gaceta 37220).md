@@ -11,7 +11,7 @@ paginas: "A. 3 - 14"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "30e92f73b5361e86"
+huella: "2a5b60174dcdc2e7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 143-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 El siguiente:
 
@@ -121,7 +121,7 @@ Proceso Nacional de Regularización Extraordinaria de Inventarios Municipales, e
 
 #### Artículo 5
 
-ARTÍCULO 5.- COMISIÓN MUNICIPAL DE R E G U L A R I Z A C I Ó N – OBJETO, INTEGRACIÓN Y FUNCIONAMIENTO. La Comisión Municipal de Regularización tiene como objetivo principal garantizar la correcta identificación, evaluación, clasificación, documentación y depuración de los bienes muebles inservibles, asegurando que el proceso se realice con transparencia, trazabilidad, respaldo técnico y seguridad jurídica, conforme a lo establecido en el presente Decreto.
+ARTÍCULO 5.- COMISIÓN MUNICIPAL DE REGULARIZACIÓN – OBJETO, INTEGRACIÓN Y FUNCIONAMIENTO. La Comisión Municipal de Regularización tiene como objetivo principal garantizar la correcta identificación, evaluación, clasificación, documentación y depuración de los bienes muebles inservibles, asegurando que el proceso se realice con transparencia, trazabilidad, respaldo técnico y seguridad jurídica, conforme a lo establecido en el presente Decreto.
 
 La Comisión estará integrada obligatoriamente por:
 
@@ -191,11 +191,11 @@ Las actuaciones de la Comisión tendrán plena validez legal siempre que se cump
 
 #### Artículo 6
 
-ARTÍCULO 6.- P R O C E D I M I E N T O
+ARTÍCULO 6.- PROCEDIMIENTO
 
 D E
 
-R E G U L A R I Z A C I Ó N EXTRAORDINARIA – ETAPAS
+REGULARIZACIÓN EXTRAORDINARIA – ETAPAS
 
 Y REQUISITOS. El proceso de Regularización Extraordinaria de Inventarios deberá ejecutarse de manera ordenada, documentada y obligatoria a través de las siguientes etapas:
 
@@ -233,7 +233,7 @@ La declaratoria de inservibilidad deberá estar debidamente justificada con base
 
 \4) Obsolescencia tecnológica.
 
-E TA PA 3 : VA L O R A C I Ó N
+E TA PA 3 : VA LO RACIÓN
 
 ECONÓMICA. La Comisión deberá asignar un valor estimado a cada bien o lote, el cual podrá ser:
 
@@ -393,7 +393,7 @@ DE RESPONSABILIDAD. Los funcionarios municipales no incurrirán en responsabilid
 
 #### Artículo 11
 
-ARTÍCULO 11.- C O N T R O L , A U D I TO R Í A Y FISCALIZACIÓN POSTERIOR.
+ARTÍCULO 11.- CONTROL, AUDI TO R Í A Y FISCALIZACIÓN POSTERIOR.
 
 La fiscalización de los procesos de regularización extraordinaria de bienes inservibles corresponderá al Tribunal Superior de Cuentas (TSC), quien podrá supervisar de manera concurrente las etapas del procedimiento, mediante el Auditor Municipal, con el objetivo de garantizar transparencia sin generar temor a los funcionarios municipales.
 
@@ -433,7 +433,7 @@ La falta de publicación invalidará la etapa correspondiente y generará respon
 
 #### Artículo 13
 
-ARTÍCULO 13.- P L A Z O D E E J E C U C I Ó N
+ARTÍCULO 13.- PLAZO DE EJECUCIÓN
 
 Y O B L I G ATO R I E D A D . L a s municipalidades deberán:
 

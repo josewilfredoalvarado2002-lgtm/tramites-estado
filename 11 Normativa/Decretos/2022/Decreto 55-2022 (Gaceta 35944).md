@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto 55-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220608-35944/download"
 extraido: "2026-11-14"
-huella: "52aad03b94075677"
+huella: "49278021f299452a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 55-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 165 de la Constitución de la República, establece que “La Ley garantiza a los Profesionales en ejercicio de la docencia su estabilidad en el trabajo, un nivel de vida acorde con su elevada misión y una jubilación justa. Se emitirá el correspondiente Estatuto del Docente Hondureño”.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.136-97, de fecha 11 de Septiembre de 1997, fue emitido el Estatuto del Docente Hondureño.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 136-97, de fecha 11 de Septiembre de 1997, fue emitido el Estatuto del Docente Hondureño.
 
 CONSIDERANDO: Que el Artículo 1 del Estatuto del Docente Hondureño establece “El presente Estatuto establece el régimen de administración de personal que tutela la carrera docente en instituciones oficiales, semioficiales y privadas regidas por la Secretaría de Estado en el Despacho de Educación. Tiene como propósito dignificar el ejercicio del Magisterio, garantizar al docente un nivel de vida acorde a su profesión y asegurarle al pueblo hondureño una educación de alta calidad”.
 
@@ -47,15 +47,15 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto Legislativo No.100- 2021 de fecha 18 de Noviembre de 2021, publicado en el Diario Oficial “La Gaceta” No.35,790, en fecha 6 de Diciembre del año 2021.
+ARTÍCULO 1.- Derogar el Decreto Legislativo No. 100-2021 de fecha 18 de Noviembre de 2021, publicado en el Diario Oficial “La Gaceta” No. 35,790, en fecha 6 de Diciembre del año 2021.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Que estando creado mediante Acuerdo Ejecutivo No.008-98 el Proyecto Hondureño de Educación Comunitaria (PROHECO) y para regular los nombramientos de personal en el Proyecto PROHECO, en base al Convenio Presidencial No.01-2022, se instruye y se autoriza a la Secretaría de Estado en el Despacho de Educación para que en coordinación con la Dirección de Servicio Civil, cree un Reglamento Especial que asegure al Docente el ingreso y la permanencia en el Proyecto Hondureño de Educación Comunitaria (PROHECO).
+ARTÍCULO 2.- Que estando creado mediante Acuerdo Ejecutivo No. 008-98 el Proyecto Hondureño de Educación Comunitaria (PROHECO) y para regular los nombramientos de personal en el Proyecto PROHECO, en base al Convenio Presidencial No. 01-2022, se instruye y se autoriza a la Secretaría de Estado en el Despacho de Educación para que en coordinación con la Dirección de Servicio Civil, cree un Reglamento Especial que asegure al Docente el ingreso y la permanencia en el Proyecto Hondureño de Educación Comunitaria (PROHECO).
 
 #### Artículo 3
 

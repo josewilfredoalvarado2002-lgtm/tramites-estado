@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decretos Nos. 36-2021, 92-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211124-35780/download"
 extraido: "2026-11-14"
-huella: "f5381d18c54b1ae9"
+huella: "f4ae3cabd7fe7f9c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 92-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Estado de Honduras tiene la obligación de participar en el Desarrollo Económico y Social mediante la creación e implementación de leyes orientadas a encausar y estimular la economía nacional, beneficiando al mayor número de hondureños, brindándoles oportunidades en igualdad de condiciones para tener acceso al empleo incidiendo en su desarrollo integral como seres humanos.
 
-CONSIDERANDO: Que la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, contenida en el Decreto No.181-2006, de fecha 29 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Enero del 2007, Edición No. 31,199, se concibe como un instrumento legal que, mediante el otorgamiento de incentivos fiscales contenidos en la misma, genere seguridad jurídica y fiscal para la atracción de inversión tanto nacional como extranjera, así como brindar facilidades al comercio e industria nacional e internacional a través del establecimiento de zonas libres comerciales e industriales en todo el territorio de dicho Departamento.
+CONSIDERANDO: Que la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, contenida en el Decreto No. 181-2006, de fecha 29 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Enero del 2007, Edición No. 31,199, se concibe como un instrumento legal que, mediante el otorgamiento de incentivos fiscales contenidos en la misma, genere seguridad jurídica y fiscal para la atracción de inversión tanto nacional como extranjera, así como brindar facilidades al comercio e industria nacional e internacional a través del establecimiento de zonas libres comerciales e industriales en todo el territorio de dicho Departamento.
 
 CONSIDERANDO: Que los incentivos fiscales contenidos en la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, constituyen el hecho generador para la atracción de inversión generado por la Zona Libre Turística, por lo que cualquier distorsión en los parámetros del goce de estos beneficios, puede generar deserción de la inversión y la desmotivación para atraer nuevas inversiones, considerando que Honduras compite con países que en el afán de superarlo han creado leyes con beneficios fiscales que en el tiempo podrían resultar más atractivos que los que actualmente posee el país.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Ampliar por el término de quince (15) años a su terminación, la vigencia de los beneficios e incentivos fiscales que concede la LEY DE LA ZONA LIBRE TURÍSTICA DEL DEPARTAMENTO DE ISLAS DE LA BAHÍA, contenida en el Decreto No. 181-2006, de fecha 29 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Enero del 2007, Edición No.31,199.
+ARTÍCULO 1. Ampliar por el término de quince (15) años a su terminación, la vigencia de los beneficios e incentivos fiscales que concede la LEY DE LA ZONA LIBRE TURÍSTICA DEL DEPARTAMENTO DE ISLAS DE LA BAHÍA, contenida en el Decreto No. 181-2006, de fecha 29 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Enero del 2007, Edición No. 31,199.
 
 La ampliación de los beneficios e incentivos fiscales a que se refiere este Decreto será aplicable únicamente a las empresas que actualmente están adheridas y operan en Zona Libre Turística de Islas de la Bahía ZOLITUR.
 

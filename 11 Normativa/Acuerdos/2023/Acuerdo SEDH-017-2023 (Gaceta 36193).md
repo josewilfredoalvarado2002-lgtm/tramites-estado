@@ -8,10 +8,10 @@ gaceta_numero: 36193
 gaceta_fecha: "2023-03-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)|La Gaceta 36193]]"
 paginas: "A. 2 - 4"
-sumario: "Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023"
+sumario: "Acuerdo Ejecutivo No. 475-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS: Acuerdo No. SEDH-017-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230330-36193/download"
 extraido: "2026-11-14"
-huella: "ca0d3879049612e4"
+huella: "ff1828e5a8a52ca0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEDH-017-2023
@@ -23,7 +23,7 @@ huella: "ca0d3879049612e4"
 | Emisor | Secretaría de Estado en el Despacho de Derechos Humanos |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)\|La Gaceta 36193]] del 2023-03-30 |
 | Páginas | A. 2 - 4 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 475-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS: Acuerdo No. SEDH-017-2023 |
 
 ## Texto
 
@@ -39,9 +39,7 @@ CONSIDERANDO: Que la Gerencia Administrativa de cada Secretaría de Estado es re
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 29-2023 el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización acordó, cancelar por renuncia al ciudadano Edwin Alfonso Cruz Martínez, en el cargo de Gerente Administrativo de la Secretaría de Estado en el Despacho de Derechos Humanos, efectivo a partir del diez (10) de febrero del año dos mil veintitrés (2023).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-334-2022 de fecha dos (02) de mayo del año dos mil veintidós (2022), se nombró a la ciudadana MIRTHA CLAUDINA GUTIERREZ REYES en el cargo de Subsecretaria de Promoción de la Secretaría de Estado en el Despacho de Derechos Humanos.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 334-2022 de fecha dos (02) de mayo del año dos mil veintidós (2022), se nombró a la ciudadana MIRTHA CLAUDINA GUTIERREZ REYES en el cargo de Subsecretaria de Promoción de la Secretaría de Estado en el Despacho de Derechos Humanos.
 
 POR TANTO
 

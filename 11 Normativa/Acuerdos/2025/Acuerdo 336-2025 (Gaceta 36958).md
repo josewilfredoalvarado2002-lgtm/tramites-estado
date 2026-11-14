@@ -11,7 +11,7 @@ paginas: "A. 25 - 28"
 sumario: "Acuerdos Ejecutivos Números 229-2025, 297-2025, 335-2025, 336-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251004-36958/download"
 extraido: "2026-11-09"
-huella: "ee2d482039bf1623"
+huella: "f0d42a58c95957ba"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 336-2025
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdos Nos. 486-2024, 478-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241010-36661/download"
 extraido: "2026-11-14"
-huella: "a4c15cbc2a153992"
+huella: "0b35070eafb6dbf2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 478-2024
@@ -53,7 +53,7 @@ CONSIDERANDO: Que han transcurrido más de treinta
 
 (30) días, de haberse requerido la propuesta extendida por el Comité Central del Partido Nacional de Honduras, donde se designe a la ciudadana HADA ONDINA MEJÍA TABORA, en el cargo de Alcaldesa Municipal del municipio de La Venta, departamento de Francisco Morazán, sin haber obtenido respuesta alguna, por lo cual en aplicación del párrafo segundo del Reglamento de la Ley de Municipalidades, esta Secretaría de Estado procede a elaborar el acuerdo de nombramiento respectivo, tomando en consideración preferente a la ciudadana HADA ONDINA MEJÍA TABORA, en virtud de pertenecer a la organización política del miembro sustituido.
 
-CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, actuando en base al artículo 33 párrafo segundo del Reglamento de la Ley de Municipalidades, resuelve la solicitud que consta en el expediente V-01032024-42, presentada en fecha primero de marzo del año dos mil veinticuatro, para nombrar a la ciudadana HADA ONDINA MEJÍA TABORA con Documento Nacional de Identificación número 1001- 1960-00090, como Alcaldesa Municipal de la Corporación Municipal del municipio de La Venta, departamento de Francisco Morazán, en sustitución del ciudadano JOSÉ ADAN SIERRA CASTRO con Documento Nacional de Identificación número 0808-1956-00051 quien falleció en fecha diez (10) de febrero del año 2024, hecho acreditado mediante acta de defunción 0808-2024-00007, agregada a folio 4, la cual fue puesta en conocimiento mediante sesión ordinaria la que consta en “Acta No 02, de fecha catorce (14) de febrero del año dos mil veinticuatro, tal como se acredita en la certificación de punto de acta, de fecha trece de mayo del año dos mil veinticuatro.
+CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, actuando en base al artículo 33 párrafo segundo del Reglamento de la Ley de Municipalidades, resuelve la solicitud que consta en el expediente V-01032024-42, presentada en fecha primero de marzo del año dos mil veinticuatro, para nombrar a la ciudadana HADA ONDINA MEJÍA TABORA con Documento Nacional de Identificación número 1001-1960-00090, como Alcaldesa Municipal de la Corporación Municipal del municipio de La Venta, departamento de Francisco Morazán, en sustitución del ciudadano JOSÉ ADAN SIERRA CASTRO con Documento Nacional de Identificación número 0808-1956-00051 quien falleció en fecha diez (10) de febrero del año 2024, hecho acreditado mediante acta de defunción 0808-2024-00007, agregada a folio 4, la cual fue puesta en conocimiento mediante sesión ordinaria la que consta en “Acta No 02, de fecha catorce (14) de febrero del año dos mil veinticuatro, tal como se acredita en la certificación de punto de acta, de fecha trece de mayo del año dos mil veinticuatro.
 
 CONSIDERANDO:
 
@@ -79,7 +79,7 @@ Por el cual, el señor Presidente de la República, le delega competencia al se�
 
 ACUERDA
 
-PRIMERO: Nombrar a la ciudadana HADA ONDINA MEJÍA TABORA con Documento Nacional de Identificación número 1001-1960-00090, como Alcaldesa Municipal de la Corporación Municipal del municipio de La Venta, departamento de Francisco Morazán, en sustitución del ciudadano JOSÉ ADAN SIERRA CASTRO con Documento Nacional de Identificación número 0808-1956- 00051, quien falleció en fecha diez (10) de febrero del año 2024, hecho acreditado mediante acta de defunción 0808-2024-00007, agregada a folio 4, la cual fue puesta en conocimiento mediante sesión ordinaria que consta en “Acta No 02, de fecha catorce (14) de febrero del año dos mil veinticuatro, tal como se acredita en la certificación de punto de acta, de fecha trece de mayo del año dos mil veinticuatro.
+PRIMERO: Nombrar a la ciudadana HADA ONDINA MEJÍA TABORA con Documento Nacional de Identificación número 1001-1960-00090, como Alcaldesa Municipal de la Corporación Municipal del municipio de La Venta, departamento de Francisco Morazán, en sustitución del ciudadano JOSÉ ADAN SIERRA CASTRO con Documento Nacional de Identificación número 0808-1956-00051, quien falleció en fecha diez (10) de febrero del año 2024, hecho acreditado mediante acta de defunción 0808-2024-00007, agregada a folio 4, la cual fue puesta en conocimiento mediante sesión ordinaria que consta en “Acta No 02, de fecha catorce (14) de febrero del año dos mil veinticuatro, tal como se acredita en la certificación de punto de acta, de fecha trece de mayo del año dos mil veinticuatro.
 
 SEGUNDO: Instruir al señor Gobernador del departamento de Francisco Morazán para que proceda a la juramentación correspondiente.
 

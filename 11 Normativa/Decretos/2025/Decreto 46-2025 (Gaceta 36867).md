@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Decretos Nos. 31-2025, 46-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250618-36867/download"
 extraido: "2026-11-10"
-huella: "b7e60d1ac19a2d38"
+huella: "29a8cd5bdd5aa96c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 46-2025
@@ -29,9 +29,7 @@ huella: "b7e60d1ac19a2d38"
 
 EL CONGRESO NACIONAL;
 
-CONSIDERANDO: Que el Artículo 22 del Decreto No.
-
-143‑2010 del 11 de Agosto de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Septiembre de 2010, Ley de Promoción de la Alianza Público‑Privada, establece que la Superintendencia de Alianzas Público‑Privada será dirigida y administrada por tres (3) Superintendentes nombrados por el Congreso Nacional de ternas propuestas por el Poder Ejecutivo.
+CONSIDERANDO: Que el Artículo 22 del Decreto No. 143‑2010 del 11 de Agosto de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Septiembre de 2010, Ley de Promoción de la Alianza Público‑Privada, establece que la Superintendencia de Alianzas Público‑Privada será dirigida y administrada por tres (3) Superintendentes nombrados por el Congreso Nacional de ternas propuestas por el Poder Ejecutivo.
 
 CONSIDERANDO: Que uno de los Superintendentes en funciones ha presentado renuncia formal e irrevocable ante este Congreso Nacional, la cual fue aceptada, generando la necesidad de cubrir la vacante conforme al procedimiento legalmente establecido.
 
@@ -45,7 +43,7 @@ DECRETA:
 
 ARTÍCULO 1.- Elegir al ciudadano VÍCTOR
 
-ROLANDO SABILLON SABILLÓN, como Superintendente de la S U P E R I N T E N D E N C I A D E ALIANZAS PÚBLICO-PRIVADA (SAPP), en sustitución del ciudadano JOSÉ ROLANDO SABILLON MUÑOZ, ante la renuncia de éste, por el tiempo que haga falta para cumplir el período para el que fue sido electo el sustituido.
+ROLANDO SABILLON SABILLÓN, como Superintendente de la SUPERINTENDENCIA DE ALIANZAS PÚBLICO-PRIVADA (SAPP), en sustitución del ciudadano JOSÉ ROLANDO SABILLON MUÑOZ, ante la renuncia de éste, por el tiempo que haga falta para cumplir el período para el que fue sido electo el sustituido.
 
 #### Artículo 2
 

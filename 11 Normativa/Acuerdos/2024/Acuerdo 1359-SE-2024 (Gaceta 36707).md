@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "Acuerdo No. 1359-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241205-36707/download"
 extraido: "2026-11-14"
-huella: "28ede9286451997a"
+huella: "d782061e6be41819"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 1359-SE-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en su artículo 163 precept�
 
 CONSIDERANDO: Que según Artículo 23 de la Ley Fundamental de Educación, la Educación Media, tiene como propósito ofrecer la experiencia formativa para incorporarse al mundo del trabajo y/o proseguir estudios en el nivel superior, mediante la adquisición y construcción de conocimientos, habilidades y actitudes relevantes para su vida personal y social: así como para el desarrollo económico, sociocultural, científico y tecnológico del país.
 
-CONSIDERANDO: Que mediante Acuerdo No. 0250-SE- 04, de fecha 22 de enero de 2004, se aprobó las disposiciones descritas en el presente reglamento, regulan y normalizan las Redes Educativas de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 0250-SE-04, de fecha 22 de enero de 2004, se aprobó las disposiciones descritas en el presente reglamento, regulan y normalizan las Redes Educativas de Honduras.
 
 CONSIDERANDO: Que dentro del marco doctrinario de la Escuela Morazánica, el plan de gobierno Bicentenario para Refundar Honduras con la Presidenta Iris Xiomara Castro Sarmiento y el Secretario de Estado en Despacho de Educación Profesor Daniel Enrique Esponda Velásquez, contempla la transformacion curricular del Sistema Educativo a fin de garantizar aprendizajes significativos, socialmente relevantes y culturalmente pertinentes para una vida productiva en general.
 
@@ -43,7 +43,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere la Ley y en aplicación de las disposiciones establecidas en los Artículos: No. 151, 157, 159, 158, 163, 247 y 255 de la Constitución de la República; 1, 28, 29 reformado numeral 2), 36 numerales 1), 8) y 18); 116, 118, 119 y 122 de la Ley General de la Administración Pública; 5, 29, 30 y 31 de la Ley Fundamental de Educación, Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Artículos 7, 8, 9 y 23 del Reglamento General de Educación Media.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar en carácter experimental y en forma progresiva, dicha vigencia será a partir cuando el mismo sea publicado en el Diario Oficial ¨La Gaceta¨ estructurado de la siguiente manera:
 
@@ -53,7 +53,7 @@ TÍTULO I DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-Artículo 1: Las disposiciones descritas en el presente reglamento regulan y normalizan las Redes Educativas de Honduras, legalizadas mediante Acuerdo No.0250-SE-04 con fecha 22 de enero de 2004.
+Artículo 1: Las disposiciones descritas en el presente reglamento regulan y normalizan las Redes Educativas de Honduras, legalizadas mediante Acuerdo No. 0250-SE-04 con fecha 22 de enero de 2004.
 
 CAPÍTULO I DE LA FINALIDAD
 

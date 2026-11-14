@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 14-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250425-36822/download"
 extraido: "2026-11-11"
-huella: "276a240fa0486ef6"
+huella: "0f59fd7b72cd40b8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 14-2025
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 189 de la Constitución de la República, establece que el Poder Legislativo se reunirá en sesiones ordinarias en la capital de la República el veinticinco de Enero de cada año, sin necesidad de convocatoria, y clausurará sus sesiones el Treinta y Uno de Octubre del mismo año.
 
-CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, contenida en el Decreto No.363-2013, del 20 de Enero del 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero del 2014, bajo la Edición No.33,335, establece:
+CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, contenida en el Decreto No. 363-2013, del 20 de Enero del 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero del 2014, bajo la Edición No. 33,335, establece:
 
 “Artículo 55.- El período de sesiones del Congreso Nacional inicia el Veinticinco de Enero de cada año y concluye el Treinta y Uno de Octubre del mismo año. El período de receso de sesiones del Congreso Nacional es desde el Uno de Mayo al Treinta y Uno de Mayo de cada año. Las sesiones podrán prorrogarse por el tiempo que fuere necesario por resolución del Congreso, a iniciativa de uno o más de sus miembros o a solicitud del Poder Ejecutivo.”
 
 CONSIDERANDO: Que la Constitución de la República, así como la Ley Orgánica del Congreso Nacional, se encuentran en armonía en cuanto a que la labor del Poder Legislativo puede prorrogarse por el tiempo que fuese necesario ya sea por la iniciativa de uno o más de sus miembros o a solicitud del Poder Ejecutivo.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.37-2024, del 24 de Abril del 2024 y publicado en el Diario Oficial “La Gaceta”, bajo la Edición No.36,517, el Congreso Nacional aprobó la habilitación de las sesiones legislativas para el mes de Mayo, con el objeto de fomentar una mayor capacidad de respuesta a las necesidades de la nación y así, agilizar el proceso legislativo.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 37-2024, del 24 de Abril del 2024 y publicado en el Diario Oficial “La Gaceta”, bajo la Edición No. 36,517, el Congreso Nacional aprobó la habilitación de las sesiones legislativas para el mes de Mayo, con el objeto de fomentar una mayor capacidad de respuesta a las necesidades de la nación y así, agilizar el proceso legislativo.
 
 CONSIDERANDO: Que la carga de trabajo legislativo con que cuenta el Congreso Nacional es bastante significativa, misma que atiende las necesidades del pueblo hondureño, el cual ha elegido a cada congresista que les representan en este Congreso Nacional y se encuentran comprometidos en realizar con excelencia su labor.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

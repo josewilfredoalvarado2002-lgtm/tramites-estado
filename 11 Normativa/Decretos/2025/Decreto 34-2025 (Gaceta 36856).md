@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Decreto No. 34-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250605-36856/download"
 extraido: "2026-11-10"
-huella: "e237b04ca22e9e57"
+huella: "7279932296247d06"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 34-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 333 de la Constitución de la República establec
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 13, numeral 15), de la Ley de la Comisión Nacional de Bancos y Seguros (CNBS), es su atribución dar trámite a las reclamaciones o quejas que le presenten los usuarios de los servicios prestados por las instituciones supervisadas y ordenar las medidas que resulten pertinentes.
 
-CONSIDERANDO: Que, en la administración legislativa anterior, se aprobó el Decreto Legislativo No.141-2021 del 15 de enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Febrero de 2022, con el cual se reforma el Artículo 36 de la Ley de Tarjetas de Crédito, contenida en el Decreto No.106-2006 del 31 de agosto de 2006, publicado en el Diario Oficial “La Gaceta” de fecha 23 de octubre de 2006, referente al cálculo de intereses sobre saldos no pagados de las tarjetas de crédito, permitiendo a los emisores cobrar intereses sobre el monto total de las deudas a pesar de que el tarjetahabiente hubiese abonado una parte de estas; así como, aplicar los abonos a las transacciones más recientes, en lugar de la más antigua, provocando que los intereses fueran mayores, ya que el cálculo no se realiza con base en el saldo pendiente de pago, sino sobre el saldo total adeudado, sin considerar los abonos o pagos efectuados por estos.
+CONSIDERANDO: Que, en la administración legislativa anterior, se aprobó el Decreto Legislativo No. 141-2021 del 15 de enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Febrero de 2022, con el cual se reforma el Artículo 36 de la Ley de Tarjetas de Crédito, contenida en el Decreto No. 106-2006 del 31 de agosto de 2006, publicado en el Diario Oficial “La Gaceta” de fecha 23 de octubre de 2006, referente al cálculo de intereses sobre saldos no pagados de las tarjetas de crédito, permitiendo a los emisores cobrar intereses sobre el monto total de las deudas a pesar de que el tarjetahabiente hubiese abonado una parte de estas; así como, aplicar los abonos a las transacciones más recientes, en lugar de la más antigua, provocando que los intereses fueran mayores, ya que el cálculo no se realiza con base en el saldo pendiente de pago, sino sobre el saldo total adeudado, sin considerar los abonos o pagos efectuados por estos.
 
 CONSIDERANDO: Que, la Secretaría de Estado en el Despacho de Finanzas en concordancia con la Comisión Nacional de Bancos y Seguros (CNBS), enuncian que de las reformas efectuadas a la Ley se constató que, para el año 2023 de 1,071,923 tarjetahabientes activos, el 47% mantienen deuda por un monto aproximado de L.40,088.80 millones; es decir que, 5 de 10 tarjetahabientes en Honduras están endeudados con la banca, pagando intereses totalmente desproporcionales e inequitativos.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículo 36 y 44 reformados, de la LEY DE TARJETAS DE CRÉDITO, contenida en el Decreto Legislativo No.106-2006, del 31 de Agosto de 2006, publicado en el Diario Oficial “La Gaceta” el 23 de Octubre del 2006, bajo la Edición número 31,135, reformada por: Decreto No.33-2013, del 7 de Marzo de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 5 de Abril de 2013; Decreto No 57-2017 del 20 de Julio de 2017, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Agosto de 2017; Decreto No.39-2018 del 2 de Mayo de 2018, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Junio de 2018; y, Decreto No.141-2021 del 15 de Enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Febrero de 2022, los cuales a partir de la fecha deben leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar los Artículo 36 y 44 reformados, de la LEY DE TARJETAS DE CRÉDITO, contenida en el Decreto Legislativo No. 106-2006, del 31 de Agosto de 2006, publicado en el Diario Oficial “La Gaceta” el 23 de Octubre del 2006, bajo la Edición número 31,135, reformada por: Decreto No. 33-2013, del 7 de Marzo de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 5 de Abril de 2013; Decreto No 57-2017 del 20 de Julio de 2017, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Agosto de 2017; Decreto No. 39-2018 del 2 de Mayo de 2018, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Junio de 2018; y, Decreto No. 141-2021 del 15 de Enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Febrero de 2022, los cuales a partir de la fecha deben leerse de la siguiente manera:
 
 “ARTÍCULO 36.- Cuando el saldo total, conformado por el saldo inicial adeudado más las compras, retiros y otros cargos detallados en el último estado de cuenta, sean totalmente cancelados entre la fecha de corte y la fecha de vencimiento de pago establecida en el mismo, no se debe generar intereses a cargo del tarjetahabiente.
 

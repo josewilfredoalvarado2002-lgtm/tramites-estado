@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdos Ministeriales Nos. 009-2024, 010-2024, 011-2024, 012-2024, 013-2024, 014-2023, 015-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240206-36453/download"
 extraido: "2026-11-14"
-huella: "aaeab6125df229bb"
+huella: "2d90417c8b692cf9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 010-2024
@@ -63,9 +63,7 @@ Excluir del requisito de la notificación MSF a los envíos MSF y mercancías MS
 
 10. Instruir a la Instancia Ejecutiva a revisar y actualizar periódicamente los Anexos de la presente Resolución. 11.
 
-Derogar las Resoluciones de la Instancia Ministerial-UA No.
-
-07-2016, del 15 de diciembre de 2016, No. 14-2017, del 21 de abril de 2017; No. 41-2018, del 7 de septiembre de 2018; la No. 96-2021 del 16 de diciembre de 2021; y la No. 100-2021, del 16 de diciembre de 2021 y sus respectivos Anexos. 12.
+Derogar las Resoluciones de la Instancia Ministerial-UA No. 07-2016, del 15 de diciembre de 2016, No. 14-2017, del 21 de abril de 2017; No. 41-2018, del 7 de septiembre de 2018; la No. 96-2021 del 16 de diciembre de 2021; y la No. 100-2021, del 16 de diciembre de 2021 y sus respectivos Anexos. 12.
 
 La presente Resolución entra en vigor el 7 de diciembre del 2023 y será publicada por los Estados Parte.
 

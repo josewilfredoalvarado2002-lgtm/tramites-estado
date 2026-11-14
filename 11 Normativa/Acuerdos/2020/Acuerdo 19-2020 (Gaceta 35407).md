@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdos Nos. 19/2020, 20/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201023-35407/download"
 extraido: "2026-11-14"
-huella: "7174faf5c738bac0"
+huella: "7170494d9e960db5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 19/2020.- Sesión No. 3859 del 8 de octubre
@@ -29,15 +29,15 @@ huella: "7174faf5c738bac0"
 
 de 2020.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No.149-2013 del 30 de julio de 2013, publicado en el Diario Oficial La Gaceta el 11 de diciembre de 2013, aprobó la Ley sobre Firmas Electrónicas, la cual tiene por objeto reconocer y regular el uso de firmas electrónicas aplicables en todo tipo de información en forma de mensaje de datos, otorgándoles la misma validez y eficacia jurídica que el uso de la firma manuscrita u otra análoga que conlleve la manifestación de la voluntad de los firmantes; asimismo, en el Artículo 5 de la referida ley se autorizó a todas las instituciones públicas descentralizadas la utilización de las firmas electrónicas en los documentos electrónicos en sus relaciones internas, entre ellos y con los particulares.
+CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No. 149-2013 del 30 de julio de 2013, publicado en el Diario Oficial La Gaceta el 11 de diciembre de 2013, aprobó la Ley sobre Firmas Electrónicas, la cual tiene por objeto reconocer y regular el uso de firmas electrónicas aplicables en todo tipo de información en forma de mensaje de datos, otorgándoles la misma validez y eficacia jurídica que el uso de la firma manuscrita u otra análoga que conlleve la manifestación de la voluntad de los firmantes; asimismo, en el Artículo 5 de la referida ley se autorizó a todas las instituciones públicas descentralizadas la utilización de las firmas electrónicas en los documentos electrónicos en sus relaciones internas, entre ellos y con los particulares.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No.41-2014 del 12 de diciembre de 2014, publicado en el Diario Oficial La Gaceta el 21 de mayo de 2015, se aprobó el Reglamento de la Ley sobre Firmas Electrónicas con la finalidad de regular la emisión y uso de las firmas electrónicas generadas bajo la “Infraestructura Oficial de la Firma Electrónica”, comprendiendo las funciones y atribuciones de la Autoridad Administrativa Competente o Autoridad Acreditadora (AAC), el régimen de acreditación y supervisión de las Autoridades Certificadoras o Prestadores de Servicios de Certificación (PSC), así como la emisión y uso de la firma electrónica por parte de las instituciones de la Administración Pública, entre otras, estableciendo además, los mecanismos y procedimientos necesarios para el registro, confidencialidad, seguridad y para lograr la plena aplicación y cumplimiento de la Ley sobre Firmas Electrónicas.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No. 41-2014 del 12 de diciembre de 2014, publicado en el Diario Oficial La Gaceta el 21 de mayo de 2015, se aprobó el Reglamento de la Ley sobre Firmas Electrónicas con la finalidad de regular la emisión y uso de las firmas electrónicas generadas bajo la “Infraestructura Oficial de la Firma Electrónica”, comprendiendo las funciones y atribuciones de la Autoridad Administrativa Competente o Autoridad Acreditadora (AAC), el régimen de acreditación y supervisión de las Autoridades Certificadoras o Prestadores de Servicios de Certificación (PSC), así como la emisión y uso de la firma electrónica por parte de las instituciones de la Administración Pública, entre otras, estableciendo además, los mecanismos y procedimientos necesarios para el registro, confidencialidad, seguridad y para lograr la plena aplicación y cumplimiento de la Ley sobre Firmas Electrónicas.
 
 CONSIDERANDO: Que el 20 de marzo de 2017 el Banco Central de Honduras (BCH) fue acreditado por la Dirección General de Propiedad Intelectual del Instituto de la Propiedad como Autoridad Certificadora o Prestador de Servicios de Certificación
 
 (PSC) por un período de cinco (5) años contados a partir de la fecha precitada, de conformidad con lo establecido en la Ley sobre Firmas Electrónicas.
 
-CONSIDERANDO: Que la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19, aprobada mediante el Decreto Legislativo No.33-2020 del 2 de abril de 2020 y publicado en el Diario Oficial La Gaceta el 3 de abril del presente año, reformó los artículos 7 y 27 de la Ley sobre Firmas Electrónicas, con el fin de permitir la continuidad en el funcionamiento del Estado sin causar niveles de exposición innecesarios entre las personas al Covid-19, habilitando el uso de los certificados electrónicos para firma electrónica avanzada a documentos y mensajes enviados vía correo electrónico.
+CONSIDERANDO: Que la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19, aprobada mediante el Decreto Legislativo No. 33-2020 del 2 de abril de 2020 y publicado en el Diario Oficial La Gaceta el 3 de abril del presente año, reformó los artículos 7 y 27 de la Ley sobre Firmas Electrónicas, con el fin de permitir la continuidad en el funcionamiento del Estado sin causar niveles de exposición innecesarios entre las personas al Covid-19, habilitando el uso de los certificados electrónicos para firma electrónica avanzada a documentos y mensajes enviados vía correo electrónico.
 
 CONSIDERANDO: Que mediante la Resolución No. 362-7/2019 del 31 de julio de 2019 este Directorio aprobó el Reglamento de Firmas Manuscritas Autorizadas del Banco Central de Honduras, el cual regula la asignación, clasificación, administración y ámbito de aplicación de las firmas autorizadas para funcionarios y empleados de esta Institución; sin embargo, esta disposición únicamente regula las firmas manuscritas, motivo por el cual es necesario emitir un nuevo reglamento que contemple el uso de firmas manuscritas así como las electrónicas avanzadas.
 
@@ -49,7 +49,7 @@ Con fundamento en los artículos 6 y 16, literal l) de la Ley del Banco Central 
 
 5, 7 y 27 de la Ley sobre Firmas Electrónicas, reformada mediante la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19 del 2 de abril de 2020 y publicada en el Diario Oficial La Gaceta el 3 de abril del presente año; y en el Reglamento de la Ley sobre Firmas Electrónicas,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -181,7 +181,7 @@ ARTÍCULO 15. AUTORIZACIÓN DE NORMAS. Se faculta al Gerente para que autorice l
 
 #### Artículo 16
 
-ARTÍCULO 16. DEROGATORIA. Derogar la Resolución No.362-7/2019, emitida por el Directorio del Banco Central de Honduras el 31 de julio de 2019, que contiene el Reglamento de Firmas Manuscritas Autorizadas del Banco Central de Honduras.
+ARTÍCULO 16. DEROGATORIA. Derogar la Resolución No. 362-7/2019, emitida por el Directorio del Banco Central de Honduras el 31 de julio de 2019, que contiene el Reglamento de Firmas Manuscritas Autorizadas del Banco Central de Honduras.
 
 #### Artículo 17
 

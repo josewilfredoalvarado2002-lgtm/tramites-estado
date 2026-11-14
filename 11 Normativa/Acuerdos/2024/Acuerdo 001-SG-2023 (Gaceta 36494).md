@@ -11,7 +11,7 @@ paginas: "A. 1 - 104"
 sumario: "Acuerdos STLCC No. 001-SG-2023,004-SG-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240325-36494/download"
 extraido: "2026-11-14"
-huella: "bf1a35286af848a7"
+huella: "de5c763c00ae53ce"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos STLCC No. 001-SG-2023,004-SG-2023
@@ -49,9 +49,7 @@ CONSIDERANDO: Que según lo establecido en el artículo 5, numeral 4 de la Ley O
 
 CONSIDERANDO: En fecha 13 de julio de 2007 mediante Acuerdo Administrativo TSC No 002/2007 del Tribunal Superior de Cuentas se aprueba el Reglamento de creación del Sistema de Control de los Recursos Públicos (SINACORP), que es aplicable a todos los sujetos pasivos de la Ley Orgánica del Tribunal Superior de Cuentas (LOTSC).
 
-CONSIDERANDO: Que el Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No.
-
-35,795 de fecha 11 de Diciembre del 2021, adecuadamente implementado por los servidores públicos, desde las más altas autoridades y directivos es uno de los elementos más eficaces para el logro de los objetivos institucionales con ética, eficiencia, eficacia, economía, transparencia y cuidado del ambiente, así como para prevenir e identificar oportunamente errores, irregularidades y actos de corrupción.
+CONSIDERANDO: Que el Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No. 35,795 de fecha 11 de Diciembre del 2021, adecuadamente implementado por los servidores públicos, desde las más altas autoridades y directivos es uno de los elementos más eficaces para el logro de los objetivos institucionales con ética, eficiencia, eficacia, economía, transparencia y cuidado del ambiente, así como para prevenir e identificar oportunamente errores, irregularidades y actos de corrupción.
 
 CONSIDERANDO: Que el Comité de Control Institucional (COCOIN) es un órgano colegiado de apoyo a la Máxima Autoridad Ejecutiva (MAE) de la Municipalidad, cuyo objetivo principal es contribuir a la eficaz y eficiente implementación, mantenimiento y mejora continua del control interno institucional; siendo para ello una importante instancia de coordinación, asesoramiento, consulta y seguimiento oportuno del control interno.
 
@@ -61,7 +59,7 @@ CONSIDERANDO: Que es necesario la emisión de normas para mejorar los procedimie
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 299-2022 de fecha 07 de abril del 2022, se nombró al ciudadano Ángel Edmundo Orellana Mercado como Secretario de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción, con facultades suficientes para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de sus funciones.
 
-POR TANTO: En uso de las facultades investidas y en aplicación de los artículos 371 de la Constitución de la República de Honduras, Artículo 5 de la Ley Orgánica del Tribunal Superior de Cuenta, Acuerdo Administrativo TSC No 002/2007 del Tribunal Superior de Cuentas, el Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No. 35,795 de fecha 11 de Diciembre del 2021, Decreto Ejecutivo PCM 05-2022, publicado en el Diario Oficial La Gaceta No. 35,892 y Decreto Ejecutivo PCM 26- 2007 publicado en el Diario Oficial La Gaceta No. 31,462.
+POR TANTO: En uso de las facultades investidas y en aplicación de los artículos 371 de la Constitución de la República de Honduras, Artículo 5 de la Ley Orgánica del Tribunal Superior de Cuenta, Acuerdo Administrativo TSC No 002/2007 del Tribunal Superior de Cuentas, el Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No. 35,795 de fecha 11 de Diciembre del 2021, Decreto Ejecutivo PCM 05-2022, publicado en el Diario Oficial La Gaceta No. 35,892 y Decreto Ejecutivo PCM 26-2007 publicado en el Diario Oficial La Gaceta No. 31,462.
 
 ACUERDA:
 
@@ -193,9 +191,7 @@ b. La Ley Orgánica del Tribunal Superior de Cuentas (LOTSC), artículos: 2 (ref
 
 31, que otorga al TSC la facultad de emitir las normas generales de la fiscalización interna y externa; 45 reformado, por el cual el TSC tiene atribuciones para supervisar y evaluar la eficacia del control interno; 46, que establece los objetivos del control interno; 47, que dispone a los sujetos pasivos, aplicar bajo su responsabilidad, sistemas de control interno de acuerdo con las normas generales que emita el Tribunal;
 
-c. El Reglamento General de la Ley Orgánica del Tribunal Superior de Cuentas aprobado mediante Acuerdo Administrativo TSC No. 14/2012 del 4 de septiembre de 2012 y publicado en La Gaceta No.
-
-32.931 del 22 de septiembre de 2012;
+c. El Reglamento General de la Ley Orgánica del Tribunal Superior de Cuentas aprobado mediante Acuerdo Administrativo TSC No. 14/2012 del 4 de septiembre de 2012 y publicado en La Gaceta No. 32.931 del 22 de septiembre de 2012;
 
 d. El Acuerdo Administrativo TSC No. 002/2007 del 6 de julio de 2007, que contiene el Reglamento del Sistema Nacional de Control de los Recursos Públicos (SINACORP); y,
 

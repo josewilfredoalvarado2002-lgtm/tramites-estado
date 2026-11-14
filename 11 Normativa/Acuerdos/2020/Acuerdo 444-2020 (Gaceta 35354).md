@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200826-35354/download"
 extraido: "2026-11-14"
-huella: "afbe1579db6a7b37"
+huella: "8a1cc947a641d8ad"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 444-2020
@@ -31,9 +31,9 @@ Tegucigalpa, Municipio del Distrito Central, 21 de agosto de 2020 EL PRESIDENTE 
 
 CONSIDERANDO: Que el Presidente de la República tiene dentro de sus facultades constitucionales emitir, entre otro tipo de actos administrativos, acuerdos y decretos conforme a la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo No.13-2018 de fecha 27 de enero de 2018, fue nombrado Presidente del Banco Central de Honduras, el ciudadano WILFREDO RAFAEL CERRATO RODRÍGUEZ.
+CONSIDERANDO: Que mediante Acuerdo No. 13-2018 de fecha 27 de enero de 2018, fue nombrado Presidente del Banco Central de Honduras, el ciudadano WILFREDO RAFAEL CERRATO RODRÍGUEZ.
 
-CONSIDERANDO: Que mediante Acuerdo No.86-2020 de fecha 20 de agosto de 2020, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARCO ANTONIO MIDENCE MILLA.
+CONSIDERANDO: Que mediante Acuerdo No. 86-2020 de fecha 20 de agosto de 2020, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARCO ANTONIO MIDENCE MILLA.
 
 CONSIDERANDO: Que es necesario e indispensable para el Gobierno de la República de Honduras, formalizar las designaciones correspondientes de los Representantes a Gobernadores ante los Organismos Financieros Internacionales tales como el FONDO MONETARIO INTERNACIONAL (FMI) y sus respectivas Agencias.
 
@@ -57,7 +57,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 RICARDO LEONEL CARDONA LÓPEZ
 
-Secretario Privado y Jefe del Gabinete Presidencial Acuerdo No.009-2018 ROXANA MELANI RODRIGUEZ Subsecretaria de Finanzas y Presupuesto _______
+Secretario Privado y Jefe del Gabinete Presidencial Acuerdo No. 009-2018 ROXANA MELANI RODRIGUEZ Subsecretaria de Finanzas y Presupuesto _______
 
 ## Fuente
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 183-2026, 189-2026, 192-2026, 195-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260923-37253/download"
 extraido: "2026-11-09"
-huella: "d71fe4f5e349be54"
+huella: "f8fea8420a78538f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 183-2026
@@ -29,7 +29,7 @@ huella: "d71fe4f5e349be54"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No.170-2016, establece que la exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No. 170-2016, establece que la exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que las organizaciones sin fines de lucro que desarrollan programas sociales en favor de la niñez cumplen una función de interés público, al contribuir con espacios de cuidado, atención, acompañamiento y apoyo institucional para niñas y niños atendidos por guarderías infantiles y salas cunas.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar y autorizar a favor de la F U N D A C I Ó N A M I G O S D E GUARDERÍAS INFANTILES Y SALAS CUNAS DE SAN PEDRO SULA, RTN No.0501900377887, identificada en la documentación de donación como FUNDACIÓN AMIGOS DE GUARDERÍAS INFANTILES, el pago del Impuesto Sobre Venta, derechos arancelarios, tasas, sobretasas, cargos, recargos, gravámenes aduaneros, impuestos de importación y demás tributos aplicables a la importación, internación, tránsito, despacho, nacionalización, liberación, recepción y entrega de los bienes donados por el Banco Interamericano de Desarrollo (BID), inicialmente consistentes en cien (100) computadoras portátiles usadas, marca Dell, modelo Latitude 7410, cuyos números de serie constan en el Certificado de Donación de fecha 10 de Junio de 2026, incluyendo cargadores, adaptadores, accesorios, componentes, periféricos, empaques y demás elementos complementarios, conexos, adicionales, sustitutos o necesarios para su recepción, traslado, funcionamiento y uso institucional.
+ARTÍCULO 1.- Exonerar y autorizar a favor de la FUNDACIÓN AMIGOS DE GUARDERÍAS INFANTILES Y SALAS CUNAS DE SAN PEDRO SULA, RTN No. 0501900377887, identificada en la documentación de donación como FUNDACIÓN AMIGOS DE GUARDERÍAS INFANTILES, el pago del Impuesto Sobre Venta, derechos arancelarios, tasas, sobretasas, cargos, recargos, gravámenes aduaneros, impuestos de importación y demás tributos aplicables a la importación, internación, tránsito, despacho, nacionalización, liberación, recepción y entrega de los bienes donados por el Banco Interamericano de Desarrollo (BID), inicialmente consistentes en cien (100) computadoras portátiles usadas, marca Dell, modelo Latitude 7410, cuyos números de serie constan en el Certificado de Donación de fecha 10 de Junio de 2026, incluyendo cargadores, adaptadores, accesorios, componentes, periféricos, empaques y demás elementos complementarios, conexos, adicionales, sustitutos o necesarios para su recepción, traslado, funcionamiento y uso institucional.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 30 - 32"
 sumario: "Acuerdos Nos. SAG-015-2026, SAG-016-2026, SAG-017-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "fc7762b055b002e0"
+huella: "cdb582d58f7c6d6b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-016-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la ejecución del Programa “Bono Tecnológico Productivo”,
 
 CONSIDERANDO: Que el Decreto No. 04-2025 publicado en el Diario Oficial La Gaceta el 06 de febrero del 2025, con el número 36,759, Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejecución Fiscal 2025, específicamente en la ejecución del Presupuesto por Institución y Categoría Programática, todas las Fuentes y dentro del Programa de Seguridad Alimentaria y Nutricional (Programa 23) se establece en AC/OBRA 004 Bono Tecnológico Productivo, con una asignación presupuestaria de L. 1,000,000,000.00 (UN MIL MILLONES DE LEMPIRAS EXACTOS).
 
-CONSIDERANDO: Que en fecha veintiséis (26) de diciembre del dos mil veinticinco (2025), fue firmada la Adenda No.2 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Tecnológico Productivo año 2025”, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de UN MIL SETECIENTOS SIETE MILLONES DE LEMPIRAS (L. 1,707,000,000.00), más El monto del
+CONSIDERANDO: Que en fecha veintiséis (26) de diciembre del dos mil veinticinco (2025), fue firmada la Adenda No. 2 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Tecnológico Productivo año 2025”, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de UN MIL SETECIENTOS SIETE MILLONES DE LEMPIRAS (L. 1,707,000,000.00), más El monto del
 
 L. 22,200,000.00 proviene de la generación de interés de la cuenta abierta para el manejo de fondos de esta carta de entendimiento, de los cuales representan L. 19,614.007.26, los intereses generados al 31 de octubre del año 2025 y el resto
 

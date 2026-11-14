@@ -11,7 +11,7 @@ paginas: "A. 7"
 sumario: "Acuerdos Ejecutivos números 448-2020,449-2020, 451-2020, 452-2020Acuerdo número 453-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200831-35358/download"
 extraido: "2026-11-14"
-huella: "dba6d1cc371ca2aa"
+huella: "5862cb5522dca60d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 448-2020
@@ -47,7 +47,7 @@ ARTÍCULO 1: Autorizar al Licenciado MARCO ANTONIO MIDENCE MILLA, en su condici�
 
 #### Artículo 2
 
-ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No.265-2020 de fecha 14 de julio de 2020.
+ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No. 265-2020 de fecha 14 de julio de 2020.
 
 #### Artículo 3
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdos Ministeriales Nos. 084-2022, 085-2022, 087-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220917-36030/download"
 extraido: "2026-11-14"
-huella: "e6658f9eefe7b5d8"
+huella: "d4639ae7a3db76f0"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 087-2022
@@ -35,17 +35,13 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 222-92 de fecha 10 de diciemb
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de la balanza de pagos; o a deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización de mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio”.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial Número 086-2019 publicado en el Diario Oficial La Gaceta el 23 de septiembre de 2019 y vigente a partir del día siguiente de su publicación, se estableció modificar temporal y excepcionalmente los Derechos Arancelarios de Importación (DAI), de conformidad con el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, para los incisos arancelarios 8203.10.10.00 y 8203.10.90.00, medida que fue prorrogada mediante los Acuerdos Ministeriales No.
+CONSIDERANDO: Que mediante Acuerdo Ministerial Número 086-2019 publicado en el Diario Oficial La Gaceta el 23 de septiembre de 2019 y vigente a partir del día siguiente de su publicación, se estableció modificar temporal y excepcionalmente los Derechos Arancelarios de Importación (DAI), de conformidad con el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, para los incisos arancelarios 8203.10.10.00 y 8203.10.90.00, medida que fue prorrogada mediante los Acuerdos Ministeriales No. 158-2020 publicado en el Diario Oficial La Gaceta el 28 de agosto de 2020 y No. 149-2021 publicado en el Diario Oficial La Gaceta el 12 de agosto de 2021.
 
-158-2020 publicado en el Diario Oficial La Gaceta el 28 de agosto de 2020 y No. 149-2021 publicado en el Diario Oficial La Gaceta el 12 de agosto de 2021.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que en fecha 27 de junio 2022, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de la rama de producción nacional para que se prorrogue por un (1) año más, la Medida de Salvaguardia para el producto denominado limas planas, para metal y otras, contenida en el Acuerdo Ministerial No. 086-2019, publicado en el Diario Oficial La Gaceta el 23 de septiembre de 2019 y que fue prorrogado mediante los Acuerdos Ministeriales No. 158-2020 publicado en el Diario Oficial La Gaceta el 28 de agosto de 2020 y No. 149-2021 publicado en el Diario Oficial La Gaceta el 12 de agosto de 2021.
 
-CONSIDERANDO: Que en fecha 27 de junio 2022, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de la rama de producción nacional para que se prorrogue por un (1) año más, la Medida de Salvaguardia para el producto denominado limas planas, para metal y otras, contenida en el Acuerdo Ministerial No. 086-2019, publicado en el Diario Oficial La Gaceta el 23 de septiembre de 2019 y que fue prorrogado mediante los Acuerdos Ministeriales No.
-
-158-2020 publicado en el Diario Oficial La Gaceta el 28 de agosto de 2020 y No. 149-2021 publicado en el Diario Oficial La Gaceta el 12 de agosto de 2021.
-
-CONSIDERANDO: Que de conformidad el procedimiento establecido en el Artículo 12 del Acuerdo Ministerial No. 005- 2021, la Secretaría Técnica con la información que obra en el expediente, así como información solicitada a las diferentes instituciones, procedió a elaborar el informe técnico, que fue sometido a aprobación ante la Comisión Ad Hoc en fecha 12 de septiembre de 2022, quienes revisaron y aprobaron el informe citado, en el cual se establece que según el análisis realizado y de conformidad a los instrumentos jurídicos aplicables en materia de salvaguardia, es procedente prorrogar por un (1) año más la salvaguardia unilateral, con el fin que la rama de producción nacional se recupere del daño causado por el aumento súbito de las importaciones.
+CONSIDERANDO: Que de conformidad el procedimiento establecido en el Artículo 12 del Acuerdo Ministerial No. 005-2021, la Secretaría Técnica con la información que obra en el expediente, así como información solicitada a las diferentes instituciones, procedió a elaborar el informe técnico, que fue sometido a aprobación ante la Comisión Ad Hoc en fecha 12 de septiembre de 2022, quienes revisaron y aprobaron el informe citado, en el cual se establece que según el análisis realizado y de conformidad a los instrumentos jurídicos aplicables en materia de salvaguardia, es procedente prorrogar por un (1) año más la salvaguardia unilateral, con el fin que la rama de producción nacional se recupere del daño causado por el aumento súbito de las importaciones.
 
 POR TANTO:
 
@@ -55,9 +51,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en el uso de su
 
 ACUERDA:
 
-PRIMERO: Prorrogar el Acuerdo Número 086-2019, mismo que fue prorrogado mediante los Acuerdos Ministeriales No.
-
-158-2020 y No. 149-2021, por el plazo de 1 (un) año contado a partir del veintiséis (26) de septiembre del año dos mil veintidós (2022), al veintiséis (26) de septiembre del año dos mil veintitrés (2023), con el objetivo de modificar temporal y excepcionalmente el Derecho Arancelario a la Importación (DAI), de conformidad con el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, para los incisos arancelarios abajo descritos:
+PRIMERO: Prorrogar el Acuerdo Número 086-2019, mismo que fue prorrogado mediante los Acuerdos Ministeriales No. 158-2020 y No. 149-2021, por el plazo de 1 (un) año contado a partir del veintiséis (26) de septiembre del año dos mil veintidós (2022), al veintiséis (26) de septiembre del año dos mil veintitrés (2023), con el objetivo de modificar temporal y excepcionalmente el Derecho Arancelario a la Importación (DAI), de conformidad con el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, para los incisos arancelarios abajo descritos:
 
 SEGUNDO: Los Derechos Arancelarios a la Importación
 

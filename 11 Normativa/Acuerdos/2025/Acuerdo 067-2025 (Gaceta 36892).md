@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Ministeriales Nos. 064-2025,065-2025, 066-2025, 067-2025, 068-2025, 069-2025, 070-2025, 071-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250717-36892/download"
 extraido: "2026-11-09"
-huella: "ec08b4413093fad9"
+huella: "33dd8b53d0e77ae5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 067-2025
@@ -41,9 +41,7 @@ CONSIDERANDO: Que mediante la Resolución Instancia Ministerial-UA No. 23-2017, 
 
 CONSIDERANDO: Que en el Acuerdo de la Instancia Ministerial-UA No. 06-2021, del 16 de diciembre de 2021, se establecieron directrices para asegurar la realización de los trabajos necesarios para la implementación operativa en El Salvador del Proceso de Integración Profunda.
 
-CONSIDERANDO: Que como parte de los trabajos de la implementación operativa en El Salvador del Proceso de Integración Profunda, las autoridades competentes de los Estados Parte han alcanzado consenso para implementar, entre dichos países, las medidas sanitarias y fitosanitarias reguladas en la Resolución de Instancia Ministerial-UA No.
-
-23-2017, de 16 de junio de 2017, con la finalidad de proteger la salud humana, animal y vegetal.
+CONSIDERANDO: Que como parte de los trabajos de la implementación operativa en El Salvador del Proceso de Integración Profunda, las autoridades competentes de los Estados Parte han alcanzado consenso para implementar, entre dichos países, las medidas sanitarias y fitosanitarias reguladas en la Resolución de Instancia Ministerial-UA No. 23-2017, de 16 de junio de 2017, con la finalidad de proteger la salud humana, animal y vegetal.
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 

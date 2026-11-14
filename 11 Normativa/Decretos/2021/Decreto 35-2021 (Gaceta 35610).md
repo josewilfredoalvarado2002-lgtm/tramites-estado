@@ -11,7 +11,7 @@ paginas: "A. 1 - 148"
 sumario: "Decreto No. 35-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210526-35610/download"
 extraido: "2026-11-14"
-huella: "90b2f7fb65200f42"
+huella: "935b8e7467e75893"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que corresponden al Congreso Nacional, la potestad constitucional 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 LA SIGUIENTE, LEY ELECTORAL DE HONDURAS
 
@@ -145,7 +145,7 @@ CAPÍTULO I ORGANISMOS ELECTORALES
 
 #### Artículo 6
 
-ARTÍCULO 6.- C O N S E J O N A C I O N A L ELECTORAL.
+ARTÍCULO 6.- CONSEJO NACIONAL ELECTORAL.
 
 El Consejo Nacional Electoral (CNE) es el órgano especial, autónomo e independiente, sin relaciones de subordinación a los Poderes del Estado, creado en la Constitución de la República, con competencia exclusiva para efectuar los actos y procedimientos administrativos y técnicos de las elecciones internas, primarias, generales, plebiscito y referéndum o consultas ciudadanas.
 
@@ -181,7 +181,7 @@ NACIONAL ELECTORAL. Son objetivos del Consejo Nacional Electoral (CNE), los sigu
 
 #### Artículo 9
 
-ARTÍCULO 9.- R E Q U I S I T O S PA R A S E R
+ARTÍCULO 9.- REQUISITOS PA R A S E R
 
 CONSEJERO. Para ser miembro integrante del Consejo Nacional Electoral
 
@@ -253,7 +253,7 @@ Son deberes y derechos de los consejeros propietarios los siguientes:
 
 #### Artículo 15
 
-ARTÍCULO 15.- P R O H I B I C I O N E S A L O S
+ARTÍCULO 15.- PROHIBICIONES A LOS
 
 CONSEJEROS. Los Consejeros no pueden:
 
@@ -383,7 +383,7 @@ a) Organizar, dirigir, administrar y supervisar los procesos electorales;
 
 b) Convocar a elecciones primarias y generales;
 
-c) Emitir los reglamentos necesarios para los procesos electorales, en todo lo concerniente a la campaña y propaganda electoral, l a s m a n i f e s t a c i o n e s y concentraciones en lugares públicos, encuestas y sondeos de opinión, así como de los centros de información electoral y voto en el exterior;
+c) Emitir los reglamentos necesarios para los procesos electorales, en todo lo concerniente a la campaña y propaganda electoral, las manifestaciones y concentraciones en lugares públicos, encuestas y sondeos de opinión, así como de los centros de información electoral y voto en el exterior;
 
 d) Aprobar el cronograma electoral para cada proceso, plan integral de atención a la discapacidad y los planes de seguridad electoral;
 
@@ -555,7 +555,7 @@ ARTÍCULO 32.- ORGANISMOS ELECTORALES. Son organismos electorales los siguientes
 
 #### Artículo 33
 
-ARTÍCULO 33.- R E Q U I S I T O S PA R A S E R MIEMBRO DE LOS ORGANISMOS ELECTORALES.
+ARTÍCULO 33.- REQUISITOS PA R A S E R MIEMBRO DE LOS ORGANISMOS ELECTORALES.
 
 Los miembros de los Organismos Electorales nombrados y acreditados por el Consejo Nacional Electoral.
 
@@ -619,7 +619,7 @@ En todo caso, el interesado debe acreditar fehacientemente la causal que invoque
 
 #### Artículo 39
 
-ARTÍCULO 39.- CAUSAS POR LAS QUE CESAN EN SUS FUNCIONES LOS MIEMBROS D E L O S O R G A N I S M O S ELECTORALES. Los miembros de los organismos electorales cesarán en sus funciones por las causas siguientes:
+ARTÍCULO 39.- CAUSAS POR LAS QUE CESAN EN SUS FUNCIONES LOS MIEMBROS DE LOS ORGANISMOS ELECTORALES. Los miembros de los organismos electorales cesarán en sus funciones por las causas siguientes:
 
 \1) Fallecimiento del funcionario;
 
@@ -771,7 +771,7 @@ CAPÍTULO VII CONSEJO CONSULTIVO ELECTORAL
 
 #### Artículo 55
 
-ARTÍCULO 55.- C O N S E J O C O N S U LT I V O
+ARTÍCULO 55.- CONSEJO CON SU LT I V O
 
 ELECTORAL. El Consejo Consultivo Electoral es una instancia de consulta y colaboración con el Consejo Nacional Electoral (CNE), que tiene dentro de sus facultades la observación de los procesos electorales y la canalización de denuncias y reclamos; para tales efectos debe ser convocado a sesiones por el Consejo Nacional Electoral (CNE).
 
@@ -801,7 +801,7 @@ CAPÍTULO VIII INSTITUTO NACIONAL DE FORMACIÓN POLÍTICO-ELECTORAL
 
 #### Artículo 59
 
-ARTÍCULO 59.- INSTITUTO NACIONAL DE F O R M A C I Ó N P O L Í T I C O - ELECTORAL. El Instituto Nacional de Formación Político-Electoral es un órgano técnico, educativo, dependiente del Consejo Nacional Electoral (CNE), cuya función principal es la de formular y ejecutar programas de educación, formación y capacitación, dirigidos a los miembros y simpatizantes de los partidos políticos, miembros de los organismos electorales y a la ciudadanía en general, para la capacitación electoral y promoción de los valores democráticos y la participación cívica política.
+ARTÍCULO 59.- INSTITUTO NACIONAL DE FORMACIÓN POLÍTICO - ELECTORAL. El Instituto Nacional de Formación Político-Electoral es un órgano técnico, educativo, dependiente del Consejo Nacional Electoral (CNE), cuya función principal es la de formular y ejecutar programas de educación, formación y capacitación, dirigidos a los miembros y simpatizantes de los partidos políticos, miembros de los organismos electorales y a la ciudadanía en general, para la capacitación electoral y promoción de los valores democráticos y la participación cívica política.
 
 #### Artículo 60
 
@@ -1047,7 +1047,7 @@ CAPÍTULO I SISTEMAS POLITICOS
 
 #### Artículo 76
 
-ARTÍCULO 76.- P R I N C I P I O D E S I M P L E MAYORIA Y REPRESENTACIÓN PROPORCIONAL. Se debe aplicar los principios de simple mayoría en las elecciones uninominales y el de representación proporcional en las elecciones plurinominales, de conformidad con lo dispuesto en el
+ARTÍCULO 76.- PRINCIPIO DE SIMPLE MAYORIA Y REPRESENTACIÓN PROPORCIONAL. Se debe aplicar los principios de simple mayoría en las elecciones uninominales y el de representación proporcional en las elecciones plurinominales, de conformidad con lo dispuesto en el
 
 Artículo 6 de la presente Ley.
 
@@ -1163,7 +1163,7 @@ El Consejo Nacional Electoral (CNE) debe aprobar dicha división tomando en cons
 
 #### Artículo 90
 
-ARTÍCULO 90.- S E C T O R G E O G R Á F I C O
+ARTÍCULO 90.- SECTOR GEOGRÁFICO
 
 ELECTORAL. El sector geográfico electoral es una extensión territorial definida por el Consejo Nacional Electoral (CNE), en la que se agrupan uno o más poblados dentro de un municipio, para hacer efectivo el ejercicio del sufragio de los ciudadanos en un lugar cercano a su residencia, constituyéndose éste como su domicilio electoral y que debe cumplir con las características siguientes:
 
@@ -1191,7 +1191,7 @@ El Consejo Nacional Electoral (CNE), mediante resolución del Pleno, debe crear 
 
 #### Artículo 92
 
-ARTÍCULO 92.- ACTUALIZACIÓN DE LA DIVISIÓN P O L Í T I C A G E O G R Á F I C A ELECTORAL. La actualización de la División Política Geográfica Electoral es permanente, sin embargo, dicha actualización debe suspenderse desde noventa (90) días calendario antes de la fecha de la celebración de los procesos electorales en general, y reanudarse el día siguiente de la declaratoria de los resultados. Durante el período de suspensión podrá actualizarse la División Política Geográfica Electoral cuando concurra alguna circunstancia de las descritas en los numerales 3) y 4) del Artículo anterior. Dicha actualización debe ser acordada por unanimidad de votos del Consejo Nacional Electoral (CNE). En este caso se debe informar de inmediato a los partidos políticos participantes y a los ciudadanos en general, mediante avisos en medios de comunicación social. El Consejo Nacional Electoral (CNE), debe informar periódicamente a los partidos políticos y a las candidaturas independientes cuando corresponda, de las actualizaciones que realice a la División Política Geográfica Electoral.
+ARTÍCULO 92.- ACTUALIZACIÓN DE LA DIVISIÓN POLÍTICA GEOGRÁFICA ELECTORAL. La actualización de la División Política Geográfica Electoral es permanente, sin embargo, dicha actualización debe suspenderse desde noventa (90) días calendario antes de la fecha de la celebración de los procesos electorales en general, y reanudarse el día siguiente de la declaratoria de los resultados. Durante el período de suspensión podrá actualizarse la División Política Geográfica Electoral cuando concurra alguna circunstancia de las descritas en los numerales 3) y 4) del Artículo anterior. Dicha actualización debe ser acordada por unanimidad de votos del Consejo Nacional Electoral (CNE). En este caso se debe informar de inmediato a los partidos políticos participantes y a los ciudadanos en general, mediante avisos en medios de comunicación social. El Consejo Nacional Electoral (CNE), debe informar periódicamente a los partidos políticos y a las candidaturas independientes cuando corresponda, de las actualizaciones que realice a la División Política Geográfica Electoral.
 
 #### Artículo 93
 
@@ -1211,7 +1211,7 @@ ARTÍCULO 95.- VOTO DOMICILIARIO. Voto domiciliario es la modalidad que permite 
 
 #### Artículo 96
 
-ARTÍCULO 96.- O B L I G A C I Ó N DE ACT UA-
+ARTÍCULO 96.- OBLIGACIÓN DE ACT UA-
 
 LIZACIÓN DOMICILIARIA. Todo ciudadano que cambie de residencia tiene la obligación de solicitar ante el Registrador Civil Municipal o en la oficina autorizada por el Consejo Nacional Electoral (CNE) de su nueva residencia, su actualización domiciliaria y la asignación de un nuevo centro de votación, respetando el procedimiento que señala esta Ley.
 
@@ -1239,7 +1239,7 @@ Para determinar que la solicitud de actualización domiciliaria es o no proceden
 
 #### Artículo 99
 
-ARTÍCULO 99.- P R O C E D I M I E N T O
+ARTÍCULO 99.- PROCEDIMIENTO
 
 D E
 
@@ -1255,9 +1255,9 @@ Se prohíbe realizar actualizaciones de domicilio de oficio. El funcionario o em
 
 #### Artículo 100
 
-ARTÍCULO 100.- PLAZO PARA ACTUALIZACIÓN D O M I C I L I A R I A .
+ARTÍCULO 100.- PLAZO PARA ACTUALIZACIÓN DOMICILIARIA .
 
-I N C O R P O R A C I Ó N
+INCORPORACIÓN
 
 D E ACTUALIZACIONES. Las solicitudes de actualización domiciliaria presentadas hasta quince (15) días antes de la convocatoria a elecciones primarias y generales deben ser incorporadas al listado general de electores una vez aprobadas. La lista de las solicitudes de actualización domiciliaria incorporadas y denegadas debe publicarse en la página web del Consejo Nacional Electoral (CNE).
 
@@ -1413,7 +1413,7 @@ PARTIDOS POLÍTICOS. Son deberes comunes de los partidos políticos, los siguien
 
 \6) Cumplir con lo establecido en el
 
-Artículo 17 de Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos contenido en el Decreto No.137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No.34,242; y,
+Artículo 17 de Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos contenido en el Decreto No. 137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No. 34,242; y,
 
 \7) Los demás deberes que establece esta Ley y sus Reglamentos.
 
@@ -1517,7 +1517,7 @@ ARTÍCULO 120.- ESTATUTOS. Los partidos políticos son libres de introducir sus 
 
 #### Artículo 121
 
-ARTÍCULO 121.- P R O G R A M A D E A C C I Ó N
+ARTÍCULO 121.- PROGRAMA DE ACCIÓN
 
 POLÍTICA. El programa de acción política debe determinar las medidas para:
 
@@ -1559,7 +1559,7 @@ ARTÍCULO 123.- ÓRGANOS PARTIDARIOS. Cada Partido político debe tener como mí
 
 #### Artículo 124
 
-ARTÍCULO 124.- P R O C E D I M I E N T O
+ARTÍCULO 124.- PROCEDIMIENTO
 
 D E
 
@@ -1623,7 +1623,7 @@ Reunidos los requisitos para su inscripción, el Consejo Nacional Electoral (CNE
 
 #### Artículo 129
 
-ARTÍCULO 129.- R E C U R S O S C O N T R A L A
+ARTÍCULO 129.- RECURSOS CONTRA LA
 
 RESOLUCIÓN QUE DENIEGA LA
 
@@ -1817,7 +1817,7 @@ Previo a conformar la nómina de ciudadanos que respaldan la solicitud de inscri
 
 #### Artículo 154
 
-ARTÍCULO 154.- R E Q U I S I T O S P A R A L A I N S C R I P C I Ó N D E U N A CANDIDATURA INDEPENDIENTE.
+ARTÍCULO 154.- REQUISITOS PARA LA INSCRIPCIÓN DE UNA CANDIDATURA INDEPENDIENTE.
 
 Para obtener la inscripción de una Candidatura Independiente, ésta se debe solicitar al Consejo Nacional Electoral
 
@@ -1843,7 +1843,7 @@ Para obtener la inscripción de una Candidatura Independiente, ésta se debe sol
 
 #### Artículo 155
 
-ARTÍCULO 155.- A N Á L I S I S , R E V I S I Ó N D E REQUISITOS Y RESOLUCIÓN.
+ARTÍCULO 155.- ANÁLISIS, REVISIÓN DE REQUISITOS Y RESOLUCIÓN.
 
 Recibida la solicitud de inscripción de una Candidatura Independiente, el Consejo Nacional Electoral (CNE), debe corroborar en el Censo Nacional Electoral, la existencia y la vigencia de los derechos políticos de los ciudadanos que se postulan y hacer el examen para calificar si los documentos que se adjuntan a la solicitud cumplen con los requisitos de Ley.
 
@@ -1863,11 +1863,11 @@ Reunidos los requisitos formales para su inscripción, el Consejo Nacional Elect
 
 #### Artículo 156
 
-ARTÍCULO 156.- R E C U R S O S C O N T R A L A S RESOLUCIONES DEFINITIVAS EN MATERIA DE INSCRIPCIÓN DE CANDIDATURAS INDEPENDIENTES. Contra las resoluciones emitidas por El Consejo Nacional Electoral (CNE) cabe el recurso de reposición. Contra la resolución del recurso de reposición se debe interponer el recurso de apelación que debe ser interpuesto dentro de los tres (3) días hábiles siguientes a la notificación de dicha resolución ante el Tribunal de Justicia Electoral
+ARTÍCULO 156.- RECURSOS CONTRA LAS RESOLUCIONES DEFINITIVAS EN MATERIA DE INSCRIPCIÓN DE CANDIDATURAS INDEPENDIENTES. Contra las resoluciones emitidas por El Consejo Nacional Electoral (CNE) cabe el recurso de reposición. Contra la resolución del recurso de reposición se debe interponer el recurso de apelación que debe ser interpuesto dentro de los tres (3) días hábiles siguientes a la notificación de dicha resolución ante el Tribunal de Justicia Electoral
 
 #### Artículo 157
 
-ARTÍCULO 157.- O T R A S D I S P O S I C I O N E S APLICABLES A CANDIDATURAS INDEPENDIENTES. Son aplicables a las Candidaturas Independientes las disposiciones relativas a la prohibición de aceptar fondos no autorizados, registro y notificación de aportaciones, depósitos de fondos, aportaciones privadas para campañas electorales, sistemas contables, estados financieros, rendición de cuentas y derechos a espacios publicitarios en medios de comunicación estatal de acuerdo a la Ley de Financiamiento, Fiscalización y Transparencia de Partidos Políticos y Candidatos.
+ARTÍCULO 157.- OTRAS DISPOSICIONES APLICABLES A CANDIDATURAS INDEPENDIENTES. Son aplicables a las Candidaturas Independientes las disposiciones relativas a la prohibición de aceptar fondos no autorizados, registro y notificación de aportaciones, depósitos de fondos, aportaciones privadas para campañas electorales, sistemas contables, estados financieros, rendición de cuentas y derechos a espacios publicitarios en medios de comunicación estatal de acuerdo a la Ley de Financiamiento, Fiscalización y Transparencia de Partidos Políticos y Candidatos.
 
 #### Artículo 158
 
@@ -1969,7 +1969,7 @@ ARTÍCULO 168.- LLAMAMIENTO. Seis (6) meses de la fecha de celebración de las e
 
 #### Artículo 169
 
-ARTÍCULO 169.- R E Q U I S I T O S D E L O S MOVIMIENTOS INTERNOS A NIVEL NACIONAL. Los ciudadanos miembros de los partidos políticos que deseen participar en un proceso de elección partidaria deben presentar en los plazos señalados en el Artículo anterior, ante la autoridad central del respectivo partido político, una solicitud conteniendo:
+ARTÍCULO 169.- REQUISITOS DE LOS MOVIMIENTOS INTERNOS A NIVEL NACIONAL. Los ciudadanos miembros de los partidos políticos que deseen participar en un proceso de elección partidaria deben presentar en los plazos señalados en el Artículo anterior, ante la autoridad central del respectivo partido político, una solicitud conteniendo:
 
 \1) Nombre, insignia o emblema del movimiento interno que pretenden inscribir; y,
 
@@ -1999,7 +1999,7 @@ En caso de impugnación, ésta se debe tramitar en audiencia de conciliación en
 
 #### Artículo 172
 
-ARTÍCULO 172.- C O M I S I Ó N N A C I O N A L
+ARTÍCULO 172.- COMISIÓN NACIONAL
 
 ELECTORAL. La Comisión Nacional Electoral es el órgano partidario encargado de la realización, organización, dirección y control de las elecciones internas.
 
@@ -2009,7 +2009,7 @@ Si la Comisión Nacional Electoral quedare constituida por un número par, la au
 
 #### Artículo 173
 
-ARTÍCULO 173.- C O M I S I O N E S D E PA R TA - MENTALES Y MUNICIPALES.
+ARTÍCULO 173.- COMISIONES DE PA R TA - MENTALES Y MUNICIPALES.
 
 La Comisión Nacional Electoral del respectivo partido debe organizar una Comisión Departamental Electoral en cada Departamento del Estado y una Comisión Municipal Electoral en cada Municipio en donde se lleven a cabo las elecciones, con representación igualitaria de los Movimientos Internos legalmente inscritos. Si las comisiones quedasen constituidas por número par, se debe designar un miembro más escogido alternativamente de las propuestas de los mismos movimientos inscritos. Las atribuciones de estas Comisiones deben ser especificadas en el Reglamento que se dicte al efecto.
 
@@ -2043,7 +2043,7 @@ CAPÍTULO II ELECCIONES PRIMARIAS
 
 #### Artículo 177
 
-ARTÍCULO 177.- O B L I G A T O R I E D A D
+ARTÍCULO 177.- OBLIGATORIEDAD
 
 D E ELECCIONES PRIMARIAS. Siempre que exista más de un movimiento interno en contienda, los partidos políticos están obligados a practicar elecciones primarias para la escogencia de sus candidatos (as) a cargos de elección popular mediante voto directo y secreto de sus afiliados.
 
@@ -2053,7 +2053,7 @@ ARTÍCULO 178.- DIRECCIÓN, ORGANIZACIÓN Y FINANCIAMIENTO DE ELECCIONES PRIMARI
 
 #### Artículo 179
 
-ARTÍCULO 179.- L I S TA D O S A C A R G O S D E
+ARTÍCULO 179.- L I S TA DOS A CARGOS DE
 
 ELECCIÓN POPULAR. El Consejo Nacional Electoral (CNE) debe entregar a los Partidos Políticos los listados de los cargos de elección popular a elegir, a nivel nacional, departamental y municipal, ocho (8) meses antes de la celebración de las elecciones primarias, para que éstos lo hagan del conocimiento de los movimientos internos. Los cargos de elección popular son:
 
@@ -2079,7 +2079,7 @@ ARTÍCULO 182.- REQUISITOS PARA LA INSCRIPCIÓN DE MOVIMIENTOS INTERNOS PARA ELE
 
 #### Artículo 183
 
-ARTÍCULO 183.- R E Q U I S I T O S PA R A S E R CANDIDATOS A CARGOS DE E L E C C I Ó N P O P U L A R E N ELECCIONES PRIMARIAS. Para ser candidatos a cargos de elección popular en elecciones primarias se debe observar lo dispuesto en la Constitución de la República y en la Ley de Municipalidades y de Régimen Político, en el Tratado Constitutivo del Parlamento Centroamericano y lo dispuesto en la presente Ley; tanto para lo relativo a condiciones de elegibilidad como a las inhabilidades reguladas por dichos cuerpos legales.
+ARTÍCULO 183.- REQUISITOS PA R A S E R CANDIDATOS A CARGOS DE ELECCIÓN POPULAR EN ELECCIONES PRIMARIAS. Para ser candidatos a cargos de elección popular en elecciones primarias se debe observar lo dispuesto en la Constitución de la República y en la Ley de Municipalidades y de Régimen Político, en el Tratado Constitutivo del Parlamento Centroamericano y lo dispuesto en la presente Ley; tanto para lo relativo a condiciones de elegibilidad como a las inhabilidades reguladas por dichos cuerpos legales.
 
 Para ser Presidente o Designado a la Presidencia de la República se requiere:
 
@@ -2155,7 +2155,7 @@ ARTÍCULO 187.- INFORME DE NO HABER RECIBIDO SOLICITUD DE INSCRIPCIÓN DE MOVIMI
 
 #### Artículo 188
 
-ARTÍCULO 188.- S O L I C I T U D D I R E C TA D E INSCRIPCIÓN AL CONSEJO NACIONAL ELECTORAL. Si la autoridad central, vencido el plazo señalado en esta Ley, no hubiese enviado la solicitud, documentos e informes de algún movimiento al Consejo Nacional Electoral (CNE), el movimiento interno dentro de los tres (3) días calendario siguientes puede solicitar directamente su inscripción a dicho Consejo, presentando la copia sellada de la documentación y de las nóminas de candidatos a cargos de elección popular presentada ante la autoridad central del partido político.
+ARTÍCULO 188.- SOLICITUD DIREC TA D E INSCRIPCIÓN AL CONSEJO NACIONAL ELECTORAL. Si la autoridad central, vencido el plazo señalado en esta Ley, no hubiese enviado la solicitud, documentos e informes de algún movimiento al Consejo Nacional Electoral (CNE), el movimiento interno dentro de los tres (3) días calendario siguientes puede solicitar directamente su inscripción a dicho Consejo, presentando la copia sellada de la documentación y de las nóminas de candidatos a cargos de elección popular presentada ante la autoridad central del partido político.
 
 El Consejo Nacional Electoral (CNE) requerirá a la autoridad central del partido político, la remisión inmediata de la documentación original y resolverá lo procedente dentro de los cinco (5) días calendario siguiente a la fecha de presentación de la solicitud.
 
@@ -2183,7 +2183,7 @@ En este caso, los movimientos políticos internos conservarán el derecho de acr
 
 #### Artículo 192
 
-ARTÍCULO 192.- CONDICIONES DE LA ALIANZA E N T R E M O V I M I E N T O S INTERNOS.
+ARTÍCULO 192.- CONDICIONES DE LA ALIANZA ENTRE MOVIMIENTOS INTERNOS.
 
 A fin de asegurar la libertad de los movimientos internos de los partidos políticos, de lograr acuerdos y alianzas que permitan llevar nóminas o candidatos en común en todos los niveles electivos, garantizando la participación en igualdad de condiciones y el derecho del ciudadano a ser postulado por más de un movimiento interno, se establecen las regulaciones siguientes:
 
@@ -2293,7 +2293,7 @@ RECURSOS. Contra los resultados de las votaciones y de la declaratoria de elecci
 
 #### Artículo 207
 
-ARTÍCULO 207.- D I S O L U C I Ó N
+ARTÍCULO 207.- DISOLUCIÓN
 
 D E
 
@@ -2479,7 +2479,7 @@ ELECTORAL. Durante el período de propaganda electoral, los partidos políticos,
 
 #### Artículo 225
 
-ARTÍCULO 225.- M E D I O S Q U E P U E D E N UTILIZARSE EN LA PROPAGANDA ELECTORAL. Dentro del período de propaganda electoral, pueden utilizarse entre otros, medios escritos, imágenes, fotografía, video, dibujos, caricaturas u otra similar, grabaciones y spots difundidos, exhibidos o distribuidos a través de:
+ARTÍCULO 225.- MEDIOS QUE PUEDEN UTILIZARSE EN LA PROPAGANDA ELECTORAL. Dentro del período de propaganda electoral, pueden utilizarse entre otros, medios escritos, imágenes, fotografía, video, dibujos, caricaturas u otra similar, grabaciones y spots difundidos, exhibidos o distribuidos a través de:
 
 \1) Letreros, carteles, pancartas, vallas publicitarias y banderas;
 
@@ -2577,7 +2577,7 @@ DE COMUNICACIÓN. El Consejo Nacional Electoral (CNE) puede celebrar convenios c
 
 #### Artículo 231
 
-ARTÍCULO 231.- C O L A B O R A C I Ó N D E L O S MEDIOS DE COMUNICACIÓN CON EL CONSEJO NACIONAL ELECTORAL. Los medios de comunicación radiales, escritos y televisivos, públicos y privados, deben colaborar de manera especial con el Consejo Nacional Electoral (CNE), dentro de las setenta y dos (72) horas antes de la realización de las elecciones, a fin de orientar a la ciudadanía hacia su mejor participación en el proceso electoral.
+ARTÍCULO 231.- COLABORACIÓN DE LOS MEDIOS DE COMUNICACIÓN CON EL CONSEJO NACIONAL ELECTORAL. Los medios de comunicación radiales, escritos y televisivos, públicos y privados, deben colaborar de manera especial con el Consejo Nacional Electoral (CNE), dentro de las setenta y dos (72) horas antes de la realización de las elecciones, a fin de orientar a la ciudadanía hacia su mejor participación en el proceso electoral.
 
 #### Artículo 232
 
@@ -2589,7 +2589,7 @@ Quedan exceptuadas de la prohibición anterior las campañas de información de 
 
 #### Artículo 233
 
-ARTÍCULO 233.- PROHIBICIONES A FUNCION A R I O S Y E M P L E A D O S PÚBLICOS. SANCIÓN. Queda prohibido a los funcionarios y empleados públicos:
+ARTÍCULO 233.- PROHIBICIONES A FUNCION A RIOS Y EMPLEADOS PÚBLICOS. SANCIÓN. Queda prohibido a los funcionarios y empleados públicos:
 
 \1) Asistir a reuniones de carácter político durante los días y horas hábiles;
 
@@ -2663,7 +2663,7 @@ ARTÍCULO 238.- AUTORIZACIÓN PARA REALIZAR ENCUESTAS Y SONDEOS DE OPINIÓN. Una
 
 #### Artículo 239
 
-ARTÍCULO 239.- I D E N T I F I C A C I Ó N PA R A PUBLICACIÓN DE ENCUESTAS.
+ARTÍCULO 239.- IDENTIFICACIÓN PA R A PUBLICACIÓN DE ENCUESTAS.
 
 Para ser publicadas las encuestas o sondeos de opinión que realicen las empresas autorizadas para ello, deberán llevar el número de la resolución en la cual fueron autorizadas por el Consejo Nacional Electoral (CNE). La copia de toda encuesta o sondeo de opinión debe ser entregada al Consejo el siguiente día de su publicación.
 
@@ -2703,11 +2703,11 @@ Cuando la autorización fuere otorgada por el Consejo Municipal Electoral, ésta
 
 #### Artículo 243
 
-ARTÍCULO 243.- A U T O R I Z A C I Ó N
+ARTÍCULO 243.- AUTORIZACIÓN
 
 D E
 
-R E U N I O N E S P O L Í T I C A S SIMULTÁNEAS EN DISTINTOS SECTORES POBLACIONALES O TERRITORIALES. El Consejo Nacional Electoral (CNE) representado por Consejos Municipales Electorales, pueden autorizar la celebración de dos
+REUNIONES POLÍTICAS SIMULTÁNEAS EN DISTINTOS SECTORES POBLACIONALES O TERRITORIALES. El Consejo Nacional Electoral (CNE) representado por Consejos Municipales Electorales, pueden autorizar la celebración de dos
 
 (2) o más eventos públicos a distintos partidos políticos, movimientos internos, alianzas de partidos políticos, y candidaturas independientes, dentro del término municipal, siempre y cuando se desarrollen en distintos sectores poblacionales y territoriales, para evitar la conflictividad política y no comprometer la seguridad, la libre movilidad de los participantes y de la ciudadanía en general.
 
@@ -2791,7 +2791,7 @@ Para los efectos de esta Ley se consideran documentos electorales:
 
 10. Las Papeletas Electorales;
 
-11. D o c u m e n t o N a c i o n a l d e Identificación (DNI); y,
+11. Documento Nacional de Identificación (DNI); y,
 
 12. Las nóminas de candidatos a cargos de elección popular.
 
@@ -2973,7 +2973,7 @@ El escrutinio en las Juntas Receptoras de Votos es obligatoriamente público, cu
 
 2. Permanecer a una distancia no menor de cuatro (4) metros de la Junta Receptora de Votos, siempre y cuando se respete la visibilidad y audición del público hacia el escrutinio;
 
-3. A b s t e n e r s e d e h a c e r proselitismo de cualquier tipo, y;
+3. Abstenerse de hacer proselitismo de cualquier tipo, y;
 
 4. Abstenerse de expresarse en contra de las Autoridades Electorales.
 
@@ -2995,7 +2995,7 @@ ARTÍCULO 268.- DISPOSICIONES ESPECIALES PARA EL ESCRUTINIO DE LAS JUNTAS RECEPT
 
 #### Artículo 269
 
-ARTÍCULO 269.- ESCRUTINIO EN LA JUNTA R E C E P T O R A D E V O T O S EN EL NIVEL ELECTIVO PRESIDENCIAL El escrutinio de los votos que se hayan depositado en la urna correspondiente al nivel electivo Presidencial, se debe practicar de la manera siguiente:
+ARTÍCULO 269.- ESCRUTINIO EN LA JUNTA RECEPTORA DE VOTOS EN EL NIVEL ELECTIVO PRESIDENCIAL El escrutinio de los votos que se hayan depositado en la urna correspondiente al nivel electivo Presidencial, se debe practicar de la manera siguiente:
 
 1. El secretario de la Junta, en presencia de los demás miembros, debe proceder a consignar en el balance general del formato de conteo del escrutinio presidencial, la cantidad de papeletas recibidas según acta de apertura;
 
@@ -3013,7 +3013,7 @@ Los votos escrutados, se deben colocar en legajos de válidos, blancos y nulos e
 
 5. A continuación, el secretario debe levantar el acta de cierre, en el formato oficial perteneciente a la Junta Receptora de Votos, que debe contener los datos preimpresos del Departamento, Municipio, centro de votación, sector electoral y numero correlativo, número de Junta, procediendo a transcribir del formato de conteo de votos del nivel presidencial al acta de cierre en las secciones y casillas correspondientes:
 
-a. Hora de inicio y de f i n a l i z a c i ó n d e l escrutinio del nivel electivo presidencial;
+a. Hora de inicio y de finalización del escrutinio del nivel electivo presidencial;
 
 b. El total, en números y en letras de las papeletas recibidas y de las no utilizadas o sobrantes;
 
@@ -3021,7 +3021,7 @@ c. El total, en números y en letras de ciudadanos que ejercieron el sufragio, e
 
 d. El total, en números y en letras de miembros de la Junta que ejercieron el sufragio;
 
-e. L a c a n t i d a d , e n números y en letras de los votos válidos obtenidos por cada uno de los candidatos de los partidos políticos, alianzas y candidaturas independientes; y,
+e. La cantidad, e n números y en letras de los votos válidos obtenidos por cada uno de los candidatos de los partidos políticos, alianzas y candidaturas independientes; y,
 
 f. El total de votos blancos y el total de votos nulos, ambos totales en números y en letras;
 
@@ -3053,7 +3053,7 @@ De igual manera, sumar las marcas que le corresponden a cada candidato a Diputad
 
 5. A continuación, el secretario debe levantar el acta de cierre, en el formato oficial perteneciente a la Junta Receptora de Votos, que debe contener los datos preimpresos del Departamento, Municipio, centro de votación, sector electoral y número de Junta procediendo a transcribir del formato de conteo de marcas del nivel de Diputados al Congreso Nacional al acta de cierre en las secciones y casillas correspondientes:
 
-a. Hora de inicio y de f i n a l i z a c i ó n d e l escrutinio del nivel electivo de Diputados al Congreso Nacional;
+a. Hora de inicio y de finalización del escrutinio del nivel electivo de Diputados al Congreso Nacional;
 
 b. El total de votantes, en números, que resulte de sumar los datos consignados en el formato de conteo de marcas de Diputados que corresponden a los ciudadanos que ejercieron el sufragio en el cuaderno de votación y los de los miembros de la Junta que ejercieron el sufragio;
 
@@ -3087,7 +3087,7 @@ Se denomina papeleta electoral y el elector expresa en ella su voluntad por medi
 
 #### Artículo 273
 
-ARTÍCULO 273.- CALIFICACIÓN DEL VOTO EN LOS NIVELES ELECTIVOS P R E S I D E N C I A L , D E CORPORACIÓN MUNICIPAL Y DIPUTADOS UNINOMINALES AL CONGRESO NACIONAL En el nivel Presidencial, de Corporación Municipal y de Diputados uninominales al Congreso Nacional, los votos se califican así:
+ARTÍCULO 273.- CALIFICACIÓN DEL VOTO EN LOS NIVELES ELECTIVOS PRESIDENCIAL, D E CORPORACIÓN MUNICIPAL Y DIPUTADOS UNINOMINALES AL CONGRESO NACIONAL En el nivel Presidencial, de Corporación Municipal y de Diputados uninominales al Congreso Nacional, los votos se califican así:
 
 1. Voto válido, es aquel en el cual el elector votó solo por una fórmula Presidencial, de Corporación Municipal y/o de Diputados uninominales al Congreso Nacional, en su caso, dentro de cualquier área del recuadro que corresponda al partido o candidatura independiente; en caso que el voto abarque más de un recuadro, el voto será atribuido al candidato en cuyo recuadro aparezca la mayor parte del mismo.
 
@@ -3151,7 +3151,7 @@ Una vez concluido el escrutinio en el nivel Presidencial, la Junta Receptora de 
 
 #### Artículo 279
 
-ARTÍCULO 279.- DIVULGACIÓN DE RESULTADOS P R E L I M I N A R E S D E L O S ESCRUTINIOS El Consejo Nacional Electoral (CNE), el día de las elecciones, a más tardar tres horas después de haberse cerrado la votación, en sesión pública del Pleno de Consejeros, debe iniciar la divulgación de los resultados preliminares de los escrutinios de las Juntas Receptoras de Votos, y continuar la divulgación en forma periódica. A tales efectos, el Consejo Nacional Electoral (CNE), por consenso, y seis meses antes de las elecciones generales, debe aprobar los medios y lineamientos en materia de divulgación de resultados preliminares.
+ARTÍCULO 279.- DIVULGACIÓN DE RESULTADOS PRELIMINARES DE LOS ESCRUTINIOS El Consejo Nacional Electoral (CNE), el día de las elecciones, a más tardar tres horas después de haberse cerrado la votación, en sesión pública del Pleno de Consejeros, debe iniciar la divulgación de los resultados preliminares de los escrutinios de las Juntas Receptoras de Votos, y continuar la divulgación en forma periódica. A tales efectos, el Consejo Nacional Electoral (CNE), por consenso, y seis meses antes de las elecciones generales, debe aprobar los medios y lineamientos en materia de divulgación de resultados preliminares.
 
 En la divulgación de resultados preliminares del nivel presidencial, el Consejo Nacional Electoral (CNE) debe expresar claramente cuál es el porcentaje de actas y votos que está divulgando y debe advertir sobre el porcentaje pendiente de divulgar por cada departamento, en forma numérica y gráfica.
 
@@ -3197,7 +3197,7 @@ CAPÍTULO III DECLARATORIA DE ELECCIONES GENERALES
 
 #### Artículo 284
 
-ARTÍCULO 284.- P L A Z O Y P U B L I C A C I Ó N PARA LA DECLARATORIA DE ELECCIONES GENERALES El Consejo Nacional Electoral (CNE) debe hacer la declaratoria de elecciones a más tardar treinta (30) días calendarios después de efectuadas las elecciones y ordenar al día siguiente, su publicación en el Diario Oficial “La Gaceta” comunicándole a los Poderes del Estado y a las organizaciones Políticas que participaron en las elecciones generales. La comunicación se debe hacer mediante certificación íntegra del acta del escrutinio general; a cada ciudadano electo se le debe extender su respectiva credencial.
+ARTÍCULO 284.- PLAZO Y PUBLICACIÓN PARA LA DECLARATORIA DE ELECCIONES GENERALES El Consejo Nacional Electoral (CNE) debe hacer la declaratoria de elecciones a más tardar treinta (30) días calendarios después de efectuadas las elecciones y ordenar al día siguiente, su publicación en el Diario Oficial “La Gaceta” comunicándole a los Poderes del Estado y a las organizaciones Políticas que participaron en las elecciones generales. La comunicación se debe hacer mediante certificación íntegra del acta del escrutinio general; a cada ciudadano electo se le debe extender su respectiva credencial.
 
 #### Artículo 285
 
@@ -3205,7 +3205,7 @@ ARTÍCULO 285.- DECLARATORIA DE ELECCIÓN DE LA FÓRMULA PRESIDENCIAL Para la el
 
 #### Artículo 286
 
-ARTÍCULO 286.- DECLARATORIA DE ELECCIÓN D E L O S D I P U TA D O S A L CONGRESO NACIONAL La declaratoria de elección de Diputados al Congreso Nacional se debe efectuar aplicando el procedimiento siguiente:
+ARTÍCULO 286.- DECLARATORIA DE ELECCIÓN D E L O S D I P U TA DOS AL CONGRESO NACIONAL La declaratoria de elección de Diputados al Congreso Nacional se debe efectuar aplicando el procedimiento siguiente:
 
 1. En cada Partido político, Alianza, o Candidatura Independiente, se debe establecer el orden de precedencia conforme a las marcas obtenidas por cada candidato en forma individual, ocupando el primer lugar dentro de la planilla correspondiente el que haya obtenido la mayor cantidad de marcas y así sucesivamente en el orden descendente hasta completar la cantidad de cargos;
 
@@ -3227,7 +3227,7 @@ Verificadas las elecciones generales, el Consejo Nacional Electoral (CNE) establ
 
 #### Artículo 288
 
-ARTÍCULO 288.- D E C L A R A T O R I A
+ARTÍCULO 288.- DECLARATORIA
 
 D E
 
@@ -3265,7 +3265,7 @@ Las elecciones primarias y generales a que se refiere la presente ley se deben p
 
 #### Artículo 291
 
-ARTÍCULO 291.- DISEÑO E IMPRESIÓN DE DOCUMENTOS Y MATERIALES P A R A L O S P R O C E S O S ELECTORALES Para cada proceso electoral el Consejo Nacional Electoral (CNE) conforme a lo establecido en la Ley debe ordenar el diseño e impresión de la documentación necesaria en la cantidad, formas y con las previsiones de seguridad que se requieran.
+ARTÍCULO 291.- DISEÑO E IMPRESIÓN DE DOCUMENTOS Y MATERIALES PARA LOS PROCESOS ELECTORALES Para cada proceso electoral el Consejo Nacional Electoral (CNE) conforme a lo establecido en la Ley debe ordenar el diseño e impresión de la documentación necesaria en la cantidad, formas y con las previsiones de seguridad que se requieran.
 
 El Consejo Nacional Electoral (CNE) regulará en el Reglamento respectivo todo lo relativo a dicha forma, diseño e impresión. Los documentos de los procesos electorales tienen el carácter de documentos públicos.
 
@@ -3333,7 +3333,7 @@ ARTÍCULO 297.- ACCIÓN DE NULIDAD DE ACTOS EJECUTADOS POR LA JUNTA RECEPTORA Se
 
 2. Instalación de la Junta Receptora de Votos sin el quórum exigido por la Ley;
 
-3. H a b e r i m p e d i d o indebidamente a los electores, el ejercicio del derecho al voto;
+3. Haber impedido indebidamente a los electores, el ejercicio del derecho al voto;
 
 4. Violación de la secretividad del voto;
 
@@ -3345,7 +3345,7 @@ ARTÍCULO 297.- ACCIÓN DE NULIDAD DE ACTOS EJECUTADOS POR LA JUNTA RECEPTORA Se
 
 #### Artículo 298
 
-ARTÍCULO 298.- A C C I Ó N D E N U L I D A D ADMINISTRATIVA DE LOS ESCRUTINIOS PRACTICADOS POR LAS JUNTAS RECEPTORAS DE VOTOS Se puede interponer ante el Consejo Nacional Electoral (CNE), acción de nulidad administrativa contra los escrutinios practicados por las Junta Receptora de Votos, en los siguientes casos:
+ARTÍCULO 298.- ACCIÓN DE NULIDAD ADMINISTRATIVA DE LOS ESCRUTINIOS PRACTICADOS POR LAS JUNTAS RECEPTORAS DE VOTOS Se puede interponer ante el Consejo Nacional Electoral (CNE), acción de nulidad administrativa contra los escrutinios practicados por las Junta Receptora de Votos, en los siguientes casos:
 
 1. Que se haya realizado el escrutinio en local diferente al determinado por el Consejo Nacional Electoral (CNE), para la Junta Receptora de Votos;
 
@@ -3365,7 +3365,7 @@ Las acciones de nulidad administrativa deben interponerse dentro de los cinco
 
 #### Artículo 300
 
-ARTÍCULO 300.- INADMISIBLIDAD DE LAS A C C I O N E S D E N U L I D A D ADMINISTRATIVA No son admisibles y se deben declarar sin lugar de plano y sin ulterior recurso las acciones de nulidad administrativa interpuestas ante el Consejo Nacional Electoral (CNE), que no se funden en las causales establecidas por esta Ley.
+ARTÍCULO 300.- INADMISIBLIDAD DE LAS ACCIONES DE NULIDAD ADMINISTRATIVA No son admisibles y se deben declarar sin lugar de plano y sin ulterior recurso las acciones de nulidad administrativa interpuestas ante el Consejo Nacional Electoral (CNE), que no se funden en las causales establecidas por esta Ley.
 
 Los partidos políticos, sus movimientos internos, sus alianzas, candidatos o candidaturas independientes o ciudadanos, según sea el caso, no pueden invocar en su favor ninguna acción, causas de nulidad, hechos o circunstancia que ellos mismos dolosamente hayan provocado.
 
@@ -3463,7 +3463,7 @@ CAPÍTULO I DISPOSICIONES TRANSITORIAS
 
 #### Artículo 314
 
-ARTÍCULO 314.- D E L P E R S O N A L D E L A INSTITUCIÓN
+ARTÍCULO 314.- DEL PERSONAL DE LA INSTITUCIÓN
 
 Se faculta al Consejo Nacional Electoral
 
@@ -3471,15 +3471,15 @@ Se faculta al Consejo Nacional Electoral
 
 #### Artículo 315
 
-ARTÍCULO 315.- A D E C U A C I Ó N D E L O S ESTATUTOS DE LOS PARTIDOS POLÍTICOS A ESTA LEY. Dentro de un plazo de un (1) año contado a partir de la fecha de vigencia de esta ley, los partidos políticos deben adecuar su Declaración de principios, Estatutos y Programas de Acción Política, a lo establecido en la presente ley.
+ARTÍCULO 315.- ADECUACIÓN DE LOS ESTATUTOS DE LOS PARTIDOS POLÍTICOS A ESTA LEY. Dentro de un plazo de un (1) año contado a partir de la fecha de vigencia de esta ley, los partidos políticos deben adecuar su Declaración de principios, Estatutos y Programas de Acción Política, a lo establecido en la presente ley.
 
 #### Artículo 316
 
-ARTÍCULO 316.- C O L A B O R A C I Ó N
+ARTÍCULO 316.- COLABORACIÓN
 
 D E
 
-L A S I N S T I T U C I O N E S ESTATALES Y LOS MEDIOS DE COMUNICACIÓN CON E L C O N S E J O N A C I O N A L ELECTORAL. Los Poderes Públicos, sus dependencias y todas las instituciones del Estado incluyendo las Municipalidades deben colaborar con el Consejo Nacional Electoral (CNE) para el cometido de sus funciones y el desarrollo de los Procesos en forma gratuita. Los medios de comunicación, radiales, escritos y televisivos, públicos y privados, deben colaborar de manera especial con el Consejo Nacional Electoral (CNE), dentro de las setenta y dos (72) horas antes de la realización de las elecciones, a fin de orientar a la ciudadanía hacia su mejor participación en el proceso electoral.
+LAS INSTITUCIONES ESTATALES Y LOS MEDIOS DE COMUNICACIÓN CON EL CONSEJO NACIONAL ELECTORAL. Los Poderes Públicos, sus dependencias y todas las instituciones del Estado incluyendo las Municipalidades deben colaborar con el Consejo Nacional Electoral (CNE) para el cometido de sus funciones y el desarrollo de los Procesos en forma gratuita. Los medios de comunicación, radiales, escritos y televisivos, públicos y privados, deben colaborar de manera especial con el Consejo Nacional Electoral (CNE), dentro de las setenta y dos (72) horas antes de la realización de las elecciones, a fin de orientar a la ciudadanía hacia su mejor participación en el proceso electoral.
 
 #### Artículo 317
 
@@ -3561,7 +3561,7 @@ ARTÍCULO 327.- DEROGACIONES
 
 La presente ley deroga la Ley Electoral y de las Organizaciones Políticas, contenida en el Decreto Legislativo No. 44-2004 de fecha 1 de Abril de 2004, y publicado en el Diario Oficial “La Gaceta”, Edición No. 30,390, de fecha 15 de Mayo de 2004, y todas sus reformas.
 
-Se deroga parcialmente el Decreto No. 71-2019, de fecha 15 de Agosto de 2019, publicado en el Diario Oficial “La Gaceta” Edición No.35,027, de fecha 20 de Agosto de 2019, contentivo de la Ley Especial para La Selección y el Nombramiento de Autoridades Electorales. Atribuciones, Competencias y Prohibiciones, en lo que se refiere al Consejo Nacional Electoral (CNE), en todos aquellos artículos que regulan aspectos que se opongan o se han incorporado en la presente ley. Asimismo, quedan derogadas todas las leyes, normas y disposiciones que se opongan a la presente ley.
+Se deroga parcialmente el Decreto No. 71-2019, de fecha 15 de Agosto de 2019, publicado en el Diario Oficial “La Gaceta” Edición No. 35,027, de fecha 20 de Agosto de 2019, contentivo de la Ley Especial para La Selección y el Nombramiento de Autoridades Electorales. Atribuciones, Competencias y Prohibiciones, en lo que se refiere al Consejo Nacional Electoral (CNE), en todos aquellos artículos que regulan aspectos que se opongan o se han incorporado en la presente ley. Asimismo, quedan derogadas todas las leyes, normas y disposiciones que se opongan a la presente ley.
 
 #### Artículo 328
 

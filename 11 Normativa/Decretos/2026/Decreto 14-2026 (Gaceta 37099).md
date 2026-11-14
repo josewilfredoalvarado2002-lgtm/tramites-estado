@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 14-2026, 19-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260320-37099/download"
 extraido: "2026-11-09"
-huella: "ff7f76c156c8b6e8"
+huella: "bffcf70dae21a73b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 14-2026
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto No.55-2025, de fecha 20 de agosto de 2025, contentivo del Decreto que asignaba fondos públicos a la Secretaría de Estado en el Despacho de Salud (SESAL), para cubrir costos operativos asociados a los traslados aéreos de pacientes en zonas de difícil acceso geográfico, publicado en el Diario Oficial “La Gaceta” de fecha 22 de enero de 2026, Edición No. 37,050.
+ARTÍCULO 1.- Derogar el Decreto No. 55-2025, de fecha 20 de agosto de 2025, contentivo del Decreto que asignaba fondos públicos a la Secretaría de Estado en el Despacho de Salud (SESAL), para cubrir costos operativos asociados a los traslados aéreos de pacientes en zonas de difícil acceso geográfico, publicado en el Diario Oficial “La Gaceta” de fecha 22 de enero de 2026, Edición No. 37,050.
 
 #### Artículo 2
 

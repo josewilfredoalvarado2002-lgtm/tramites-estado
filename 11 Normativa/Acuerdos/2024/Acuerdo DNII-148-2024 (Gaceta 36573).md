@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. DNII-148-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240701-36573/download"
 extraido: "2026-11-14"
-huella: "79838a49fc7d05e4"
+huella: "867b9c0f2d7a7ca6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DNII-148-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la labor de investigación e inteligencia, en materia de Segur
 
 CONSIDERANDO: Que mediante Decreto Legislativo 211-2012, publicado en el Diario Oficial La Gaceta el 15 de abril del 2013, se estableció la creación de la Dirección Nacional de Investigación e Inteligencia (DNII), mismo que nace como el ente encargado de las actividades de investigación e inteligencia estratégica, con el fin de proteger los derechos y libertades de los ciudadanos y residentes en el país, prevenir y contrarrestar amenazas internas o externas contra el orden constitucional, a través de sus diferentes unidades.
 
-CONSIDERANDO: Que la Dirección Nacional de Investigación e Inteligencia (DNII) en el ejercicio de sus atribuciones mediante Acuerdo No. DNII-008- 2014 de fecha 11 de julio del año 2014, creo la División de Seguridad Aeroportuaria, siendo Ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto del 2014, en el que a partir de su vigencia y por razones de interés y seguridad nacional asume a través de la División de Seguridad Aeroportuaria (DSA), las competencias y atribuciones que en materia de seguridad fueron otorgadas a la Dirección General de Aeronáutica Civil (DGAC) ahora Agencia Hondureña de Aeronáutica Civil (AHAC).
+CONSIDERANDO: Que la Dirección Nacional de Investigación e Inteligencia (DNII) en el ejercicio de sus atribuciones mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio del año 2014, creo la División de Seguridad Aeroportuaria, siendo Ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto del 2014, en el que a partir de su vigencia y por razones de interés y seguridad nacional asume a través de la División de Seguridad Aeroportuaria (DSA), las competencias y atribuciones que en materia de seguridad fueron otorgadas a la Dirección General de Aeronáutica Civil (DGAC) ahora Agencia Hondureña de Aeronáutica Civil (AHAC).
 
 CONSIDERANDO: Que la Seguridad Aeroportuaria tiene como objetivo fundamental salvaguardar personas e instalaciones para proporcionar protección contra los actos de interferencia ilícita a la que puede estar sujeta la aviación civil; siendo un deber general coadyuvar a que los órganos competentes del Estado hagan una efectiva labor en el caso de violencia a las disposiciones que regulan la aeronavegación, constituyéndose de interés nacional la aplicación de las recomendaciones en materia de seguridad aeroportuaria establecidas en los Tratados y Convenios Internacionales que el Estado de Honduras ha suscrito, ratificado y adherido.
 

@@ -11,7 +11,7 @@ paginas: "A. 33 - 36"
 sumario: "Decretos Nos. 113-2021, 124-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211227-35807/download"
 extraido: "2026-11-14"
-huella: "e35beb9c220ca1b7"
+huella: "9624842dcd78c509"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 124-2021
@@ -37,17 +37,17 @@ CONSIDERANDO: Que de conformidad al Artículo 59 de la Constitución de la Repú
 
 Artículo 87 señala que “Las cárceles son establecimientos de seguridad y defensa social. Se procurará en ellas la rehabilitación del recluido y su preparación para el trabajo”, y cuando las mismas dejan de cumplir esa función se hace necesario que el Estado intervenga y tome las medidas necesarias que permitan mejorar la gestión penitenciaria del país.
 
-CONSIDERANDO: Que ante la ineficiencia del Sistema Penitenciario Nacional en el cumplimiento de su rol de reeducador para la reinserción social de los privados de libertad, el Gobierno de la República tuvo a bien mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” en fecha 16 de Diciembre del año 2019, Edición No.35,125, declara Estado de Emergencia en el Sistema Penitenciario Nacional, con el propósito de acelerar el fortalecimiento y asegurar la mejora de un nuevo Sistema de Gestión Penitenciaria; nombrando para tal efecto una Comisión Interventora integrada en pleno por la Fuerza de Seguridad Interinstitucional Nacional (FUSINA), creada mediante Resolución del Consejo Nacional de Defensa y Seguridad No.020-2014 de fecha 24 de Febrero de 2014, quien asumió todas las competencias legales, establecidas en la Ley General de la Administración Pública y las especiales que rigen esta materia para el cumplimiento de sus fines, en apego a los estándares en materia de derechos humanos y materia de niñez y adolescencia.
+CONSIDERANDO: Que ante la ineficiencia del Sistema Penitenciario Nacional en el cumplimiento de su rol de reeducador para la reinserción social de los privados de libertad, el Gobierno de la República tuvo a bien mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” en fecha 16 de Diciembre del año 2019, Edición No. 35,125, declara Estado de Emergencia en el Sistema Penitenciario Nacional, con el propósito de acelerar el fortalecimiento y asegurar la mejora de un nuevo Sistema de Gestión Penitenciaria; nombrando para tal efecto una Comisión Interventora integrada en pleno por la Fuerza de Seguridad Interinstitucional Nacional (FUSINA), creada mediante Resolución del Consejo Nacional de Defensa y Seguridad No. 020-2014 de fecha 24 de Febrero de 2014, quien asumió todas las competencias legales, establecidas en la Ley General de la Administración Pública y las especiales que rigen esta materia para el cumplimiento de sus fines, en apego a los estándares en materia de derechos humanos y materia de niñez y adolescencia.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar hasta el veintiocho (28) de Febrero del año Dos Mil Veintidós (2022), la intervención del Sistema Penitenciario Nacional y el Instituto Nacional para la Atención de Menores Infractores, acto administrativo que ha venido siendo ejecutado por la Comisión Interventora integrada en pleno por la Fuerza de Seguridad Interinstitucional Nacional (FUSINA), creada mediante Resolución del Consejo Nacional de Defensa y Seguridad No.020-2014.
+ARTÍCULO 1.- Prorrogar hasta el veintiocho (28) de Febrero del año Dos Mil Veintidós (2022), la intervención del Sistema Penitenciario Nacional y el Instituto Nacional para la Atención de Menores Infractores, acto administrativo que ha venido siendo ejecutado por la Comisión Interventora integrada en pleno por la Fuerza de Seguridad Interinstitucional Nacional (FUSINA), creada mediante Resolución del Consejo Nacional de Defensa y Seguridad No. 020-2014.
 
 Queda entendido que, la intervención quedará suprimida, así como las facultades de órgano superior que han sido dotadas a la Comisión Interventora sobre el Sistema Penitenciario Nacional, en la fecha antes descrita.
 
@@ -57,9 +57,9 @@ ARTÍCULO 2.- Reasignar la totalidad de los fondos a que hace relación el Artí
 
 \7) Literales del a) al d) inclusive, del Decreto Ejecutivo Número PCM-068- 2019, reformado en el Artículo 2 del Decreto Ejecutivo Número PCM-102- 2020 publicado en el Diario Oficial La Gaceta de fecha treinta y uno de Diciembre de Dos Mil Veintiuno (2021), para la terminación de diseño, construcción y equipamiento del Centro Penitenciario Regional de San Pedro Sula ubicado en La Acequia, Quimistán, Santa Bárbara.
 
-Instruir al Gabinete de Prevención, Seguridad y Defensa, la transferencia de excedentes financieros posibles a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto No.199-2011, para la terminación de diseño, construcción y equipamiento del proyecto precitado en el párrafo anterior.
+Instruir al Gabinete de Prevención, Seguridad y Defensa, la transferencia de excedentes financieros posibles a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto No. 199-2011, para la terminación de diseño, construcción y equipamiento del proyecto precitado en el párrafo anterior.
 
-Instruir a la Secretaría de Estado en el Despacho de Finanzas, transferir a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto No.199-2011, las asignaciones presupuestarias y/o financieras necesarias para complementar el financiamiento para la culminación de este Proyecto.
+Instruir a la Secretaría de Estado en el Despacho de Finanzas, transferir a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto No. 199-2011, las asignaciones presupuestarias y/o financieras necesarias para complementar el financiamiento para la culminación de este Proyecto.
 
 #### Artículo 3
 

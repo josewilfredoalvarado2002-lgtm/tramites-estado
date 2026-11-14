@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ejecutivo Número 02-2023, Decreto Ejecutivo PCM 05-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230125-36138/download"
 extraido: "2026-11-14"
-huella: "d81441d4be8c6538"
+huella: "8c6b3486e106d1f6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 02-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad con el artículo 103 de la Constitución de la 
 
 CONSIDERANDO: Que de conformidad con el artículo 106, párrafo primero de la Constitución de la República, nadie puede ser privado de su propiedad, sino por causa de necesidad o interés público calificados por la Ley o por resolución fundada en ley, sin que medie previa indemnización justipreciada.
 
-CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), y el Gobierno de la República de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron el Convenio de Donación No Reembolsable No. 2160590, mediante el cual el Gobierno de Honduras se compromete a la adquisición de tierras para la Construcción del Proyecto de “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope”.
+CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), y el Gobierno de la República de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron el Convenio de Donación No Reembolsable No. 2160590, mediante el cual el Gobierno de Honduras se compromete a la adquisición de tierras para la Construcción del Proyecto de “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope”.
 
 CONSIDERANDO: Que el Decreto Ejecutivo Número PCM 05-2022 de fecha seis (6) de abril de 2022, publicado en el Diario Oficial “La Gaceta” Edición No. 35,892, establece en su artículo 21 numeral 14), suprimir la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP).
 
@@ -49,21 +49,21 @@ Asimismo, en el artículo 7 del cuerpo legal precitado, se crea la Secretaría d
 
 CONSIDERANDO: Que el Decreto Ejecutivo Número PCM 11-2022 de fecha 3 de mayo de 2022, publicado en el Diario Oficial “La Gaceta” Edición No. 35,913, establece en su artículo 4 que, con el objeto de continuar el normal desarrollo de los programas y proyectos ejecutados por las Secretarías de Estado suprimidas, estas mantendrán su carácter de organismos ejecutores de los respectivos proyectos que están en ejecución, debiendo realizar las actividades operativas y administrativas de los mismos, hasta que los programas y proyectos sean trasladados de manera ordenada, eficaz, eficiente y en debida forma a las instituciones públicas que correspondan.
 
-CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), se encuentra ejecutando el Proyecto de “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope”, ubicado en el Municipio de Nacaome, departamento de Valle, para lo cual es indispensable la adquisición de los terrenos adyacentes a dicho Proyecto, para poder construir dicho Puente.
+CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), se encuentra ejecutando el Proyecto de “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope”, ubicado en el Municipio de Nacaome, departamento de Valle, para lo cual es indispensable la adquisición de los terrenos adyacentes a dicho Proyecto, para poder construir dicho Puente.
 
 CONSIDERANDO: Que la inversión en infraestructura pública es un pilar esencial de la economía nacional, fundamental para el crecimiento económico y la competitividad a nivelo internacional. Asimismo, la construcción es la industria que reporta la mayor generación de empleo, y frente a las secuelas de una crisis financiera internacional, ahora transformada en recesión económica global, la generación de empleo es indispensable para evitar mayores daños en las condiciones socioeconómicas de la población.
 
 CONSIDERANDO: Que la Dirección Nacional de Bienes del Estado, mediante Resoluciones de fecha catorce (14) de noviembre del año 2022, y resolución de fecha veintidós
 
-(22) de diciembre de 2022, declara favorable el proceso de indemnización a favor de los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, afectados por la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope”.
+(22) de diciembre de 2022, declara favorable el proceso de indemnización a favor de los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, afectados por la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope”.
 
 POR TANTO:
 
-En aplicación de lo dispuesto en los artículos 103,106, 245 numerales 11) y 19), 228 de la Constitución de la República; artículos 11, 29, 33, 36 y 116 de la Ley General de Administración Pública; artículo 19 numeral 3 de la Ley para Optimizar la Administración Pública; artículos 15, 16, 17, 18, 19 y 20 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública contenida en Decreto Legislativo No. 58-11; artículo 126 de la Ley de Propiedad contenida en Decreto Legislativo No. 82- 2004; artículos 37, 43 y 47 de la Ley de Propiedad; Artículo 2 de la Ley de Contratación del Estado; artículo 2 numerales 1 y 2 de la Ley de Simplificación Administrativa; artículos 7 y 21 numeral 14) del Decreto Ejecutivo Número PCM 05-2022; artículo 3 reformado, inciso a) de la Ley de Impuesto sobre tradición de inmuebles; Acuerdo No. CD-IP-018-2021 del Instituto de la Propiedad; artículo 7 de la Ley de la Dirección Nacional de Bienes del Estado; artículo 71 del Reglamento de Organización y Funcionamiento de la Dirección Nacional de Bienes del Estado; y demás aplicables.
+En aplicación de lo dispuesto en los artículos 103,106, 245 numerales 11) y 19), 228 de la Constitución de la República; artículos 11, 29, 33, 36 y 116 de la Ley General de Administración Pública; artículo 19 numeral 3 de la Ley para Optimizar la Administración Pública; artículos 15, 16, 17, 18, 19 y 20 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública contenida en Decreto Legislativo No. 58-11; artículo 126 de la Ley de Propiedad contenida en Decreto Legislativo No. 82-2004; artículos 37, 43 y 47 de la Ley de Propiedad; Artículo 2 de la Ley de Contratación del Estado; artículo 2 numerales 1 y 2 de la Ley de Simplificación Administrativa; artículos 7 y 21 numeral 14) del Decreto Ejecutivo Número PCM 05-2022; artículo 3 reformado, inciso a) de la Ley de Impuesto sobre tradición de inmuebles; Acuerdo No. CD-IP-018-2021 del Instituto de la Propiedad; artículo 7 de la Ley de la Dirección Nacional de Bienes del Estado; artículo 71 del Reglamento de Organización y Funcionamiento de la Dirección Nacional de Bienes del Estado; y demás aplicables.
 
 ACUERDA:
 
-PRIMERO: Autorizar al Procurador General de la República, para que en nombre y representación del Estado de Honduras, comparezca ante Notario Público, junto con los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, a formalizar la Escritura Pública correspondiente, a efecto de proceder a otorgar el Traspaso de Dominio a favor del Estado de Honduras, de los inmuebles ubicados en el Municipio de Nacaome, departamento de Valle, mismos que serán afectados debido la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope”, los cuales los describen a continuación:
+PRIMERO: Autorizar al Procurador General de la República, para que en nombre y representación del Estado de Honduras, comparezca ante Notario Público, junto con los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, a formalizar la Escritura Pública correspondiente, a efecto de proceder a otorgar el Traspaso de Dominio a favor del Estado de Honduras, de los inmuebles ubicados en el Municipio de Nacaome, departamento de Valle, mismos que serán afectados debido la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope”, los cuales los describen a continuación:
 
 No.
 
@@ -73,29 +73,29 @@ DNI AREA
 
 No.
 
-(M2) ente Número de Valor por Valor por Valor a Indemniz asiento inscrito en el Instituto de la Terreno Mejoras (Lps) (Lps) ar (Lps) Número de antecedente 14, Tomo 309 /matrícula 0002019794- 00000, asiento número 1 Propiedad.
+(M2) ente Número de Valor por Valor por Valor a Indemniz asiento inscrito en el Instituto de la Terreno Mejoras (Lps) (Lps) ar (Lps) Número de antecedente 14, Tomo 309 /matrícula 0002019794-00000, asiento número 1 Propiedad.
 
-1701- 1988- 00835 91.56 61,064.11 No hay mejoras 2 PGN- 003-T 92.79 61,891.10 No hay mejoras Carmen Jackeline Núñez García 1701- 1981- 05921 2,835,258.1 8 3,260,483.
+1701-1988-00835 91.56 61,064.11 No hay mejoras 2 PGN-003-T 92.79 61,891.10 No hay mejoras Carmen Jackeline Núñez García 1701-1981-05921 2,835,258.1 8 3,260,483.
 
-34 593.9 2 425,225.16 Pedro Pablo Núñez Zambrano 1701- 1971- 00477 636,705.5 3 388.8 4 259,404.12 377,301.41 5 PGNMaría Cleotilde Ortíz Ortíz 0611- 1944- 00098 4,773,358.6 6 5,025,321.
+34 593.9 2 425,225.16 Pedro Pablo Núñez Zambrano 1701-1971-00477 636,705.5 3 388.8 4 259,404.12 377,301.41 5 PGNMaría Cleotilde Ortíz Ortíz 0611-1944-00098 4,773,358.6 6 5,025,321.
 
 56 378.2 3 251,962.89 6
 
 PGN-
 
-Carlos Humberto Peña Aguilar 1701- 1965- 00281 2,188 .37 012- NT José Antonio Mejía Rodríguez 1706- 1970- 00346 1,569,352.9 4 2,287,645.1 0 3,856,998.
+Carlos Humberto Peña Aguilar 1701-1965-00281 2,188 .37 012- NT José Antonio Mejía Rodríguez 1706-1970-00346 1,569,352.9 4 2,287,645.1 0 3,856,998.
 
-04 Matrícula 0002029312- 00000, asiento número 2, /matrícula 0002052791- 00000, asiento número 2 301,305.3 7 443.9 5 301,305.37 No hay mejoras
+04 Matrícula 0002029312-00000, asiento número 2, /matrícula 0002052791-00000, asiento número 2 301,305.3 7 443.9 5 301,305.37 No hay mejoras
 
-SEGUNDO: Autorizar el Pago por la cantidad de Trece Millones Doscientos Tres Mil Setecientos Sesenta y Nueve Lempiras con cinco centavos (L 13,203,769.05), a favor de los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, por los inmuebles afectados debido a la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope”, de conformidad a los Informes de Avalúo emitidos por la Comisión de Avalúo nombrada para tal efecto y las Resoluciones emitidas por la Dirección Nacional de Bienes del Estado.
+SEGUNDO: Autorizar el Pago por la cantidad de Trece Millones Doscientos Tres Mil Setecientos Sesenta y Nueve Lempiras con cinco centavos (L 13,203,769.05), a favor de los señores OSCAR RENÉ OLIVA MARTÍNEZ, CARMEN JACKELINE NÚÑEZ GARCÍA y PEDRO PABLO NÚÑEZ ZAMBRANO, CARMEN JACKELINE NÚÑEZ GARCÍA, PEDRO PABLO NÚÑEZ ZAMBRANO, MARÍA CLEOTILDE ORTÍZ ORTÍZ, CARLOS HUMBERTO PEÑA AGUILAR, JOSÉ ANTONIO MEJÍA RODRÍGUEZ, por los inmuebles afectados debido a la ejecución del Proyecto de “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope”, de conformidad a los Informes de Avalúo emitidos por la Comisión de Avalúo nombrada para tal efecto y las Resoluciones emitidas por la Dirección Nacional de Bienes del Estado.
 
 TERCERO: El Pago en mención, previo otorgamiento y registro de la Escritura de Tradición de Dominio a favor del Estado de Honduras, lo hará la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con cargo a la estructura presupuestaria siguiente: Institución 0411, Gerencia Administrativa 002, Unidad Ejecutora 010, Programa 13, Sub-Programa 00, Proyecto 001, Actividad u Obra 002, Fuente 11, Organización 01, Objeto de Gasto 41120.
 
 CUARTO: Se autoriza e instruye al Instituto de la Propiedad (IP), a simplificar el procedimiento de inscripción de las Escrituras de los referidos inmuebles a favor del Estado de Honduras.
 
-QUINTO: Con la finalidad de simplificar el proceso de inscripción de los bienes inmuebles a favor del Estado de Honduras y de conformidad con las leyes en la materia, se exime de: 1) El pago del Impuesto de Tradición del Inmueble, conforme a lo dispuesto en el artículo 3 reformado, inciso a) de la Ley de Impuestos sobre Tradición de Inmuebles, así como cualquier otro tipo de impuestos, tasas de gravamen y formalidades para su registro, por ser inmuebles escriturados a favor del Estado; 2) El pago de la Tasa Registral de conformidad al Acuerdo No. CD-IP-018-2021 y las consideraciones de interés público del proyecto “Reconstrucción del Puente en la Carretera Nacional No.1, Puente Guacirope”, ubicado en el municipio de Nacaome, departamento de Valle; 3) Cualquier otro trámite administrativo para llevar a cabo las presentes diligencias en el presente caso.
+QUINTO: Con la finalidad de simplificar el proceso de inscripción de los bienes inmuebles a favor del Estado de Honduras y de conformidad con las leyes en la materia, se exime de: 1) El pago del Impuesto de Tradición del Inmueble, conforme a lo dispuesto en el artículo 3 reformado, inciso a) de la Ley de Impuestos sobre Tradición de Inmuebles, así como cualquier otro tipo de impuestos, tasas de gravamen y formalidades para su registro, por ser inmuebles escriturados a favor del Estado; 2) El pago de la Tasa Registral de conformidad al Acuerdo No. CD-IP-018-2021 y las consideraciones de interés público del proyecto “Reconstrucción del Puente en la Carretera Nacional No. 1, Puente Guacirope”, ubicado en el municipio de Nacaome, departamento de Valle; 3) Cualquier otro trámite administrativo para llevar a cabo las presentes diligencias en el presente caso.
 
-SEXTO: La totalidad de los honorarios notariales y gastos en que se incurra por la escrituración de los inmuebles señalados anteriormente correrán por cuenta del Proyecto “Reconstrucción del Puente en la Carretera Nacional No.1, Puente Guacirope”.
+SEXTO: La totalidad de los honorarios notariales y gastos en que se incurra por la escrituración de los inmuebles señalados anteriormente correrán por cuenta del Proyecto “Reconstrucción del Puente en la Carretera Nacional No. 1, Puente Guacirope”.
 
 SÉPTIMO: El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial “La Gaceta”.
 
@@ -131,7 +131,7 @@ CONSIDERANDO: Que producto de la mala administración, la falta de cumplimiento 
 
 CONSIDERANDO: Que las condiciones que motivaron dicha Declaratoria ESTADO DE EMERGENCIA ALIMENTARIA siguen vigentes, por lo que resulta necesario, para garantizar la seguridad alimentaria y nutricional de las familias en condiciones de pobreza y pobreza extrema, prorrogar dicha Declaratoria por el año 2023.
 
-POR TANTO, En aplicación de los artículos 59, 235, 245, 252 y 347 de la Constitución de la República; artículo 11, 116 y 117 de la Ley General de Administración Pública; artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Decreto Ejecutivo número PCM 04-2022; Decreto Ejecutivo número PCM 10- 2022; y demás aplicables.
+POR TANTO, En aplicación de los artículos 59, 235, 245, 252 y 347 de la Constitución de la República; artículo 11, 116 y 117 de la Ley General de Administración Pública; artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Decreto Ejecutivo número PCM 04-2022; Decreto Ejecutivo número PCM 10-2022; y demás aplicables.
 
 DECRETA:
 

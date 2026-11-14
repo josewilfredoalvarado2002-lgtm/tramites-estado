@@ -8,10 +8,10 @@ gaceta_numero: 36599
 gaceta_fecha: "2024-07-30"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)|La Gaceta 36599]]"
 paginas: "A. 21 - 24"
-sumario: "Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024"
+sumario: "Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240730-36599/download"
 extraido: "2026-11-14"
-huella: "30d7b48929437b2f"
+huella: "4b379933c472827f"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 389-2024
@@ -23,7 +23,7 @@ huella: "30d7b48929437b2f"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)\|La Gaceta 36599]] del 2024-07-30 |
 | Páginas | A. 21 - 24 |
-| Según el sumario de La Gaceta | Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024 |
+| Según el sumario de La Gaceta | Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024 |
 
 ## Texto
 
@@ -35,7 +35,7 @@ A ese efecto, el artículo 116 de la Ley General de la Administración Pública,
 
 CONSIDERANDO: Que el artículo 248 de la Constitución de la República en su párrafo primero establece, que los decretos, reglamentos, acuerdos, órdenes y providencias de la Presidenta de la República, deberán ser autorizadas por los Secretarios de Estado en sus respectivos ramos o por los Subsecretarios en su caso. Sin estos requisitos no tendrá fuerza legal.
 
-CONSIDERANDO: Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+CONSIDERANDO: Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secr
 
 CONSIDERANDO: Que el objetivo general de desarrollo de esta operación es aumentar la rendición de cuentas por parte del Gobierno de Honduras, al cual contribuirán los objetivos de desarrollo específicos de incrementar: (i) la transparencia pública; (ii) la eficacia de las políticas de integridad pública; y, (iii) la eficiencia en los sistemas de control.
 
-CONSIDERANDO: Que el Decreto No.17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
+CONSIDERANDO: Que el Decreto No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
 
 POR TANTO:
 

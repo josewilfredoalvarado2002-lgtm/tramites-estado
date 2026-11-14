@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos Ejecutivos Nos. 223-2024,224-2024, 225-2024Decreto Ejecutivo Número PCM 37-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241127-36700/download"
 extraido: "2026-11-14"
-huella: "597bb575651513d7"
+huella: "e2f7e9c341d3033c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 224-2024
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos: 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo No. PCM 33- 2024, publicado en el Diario Oficial La Gaceta, en fecha 5 de noviembre de 2024, edición número 36,681.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo No. PCM 33-2024, publicado en el Diario Oficial La Gaceta, en fecha 5 de noviembre de 2024, edición número 36,681.
 
 ACUERDA
 

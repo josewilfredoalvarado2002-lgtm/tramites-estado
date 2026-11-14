@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-115-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201111-35426/download"
 extraido: "2026-11-14"
-huella: "cded367e5e5d8184"
+huella: "5497f1176c362364"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-115-2020
@@ -49,13 +49,13 @@ En aplicación de los Artículos 59, 245 numerales 2, 11 y 35, 248, 252, 321 y 3
 
 Artículos 7, 11, 17, 18, 22 numerales 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013;
 
-Decretos Ejecutivos Números: PCM-084-2020, PCM-109- 2020 y PCM-112-2020.
+Decretos Ejecutivos Números: PCM-084-2020, PCM-109-2020 y PCM-112-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 3 y 4 del Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decreto Ejecutivo Número PCM-112- 2020, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 3 y 4 del Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decreto Ejecutivo Número PCM-112-2020, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 3.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a gestionar reorientar y asignar los recursos que se identifiquen entre las distintas instituciones de Gobierno, así como de los recursos externos disponibles y los que se gestionen a través de las Secretarías de Estado autorizadas para tal efecto, con el propósito de atender los efectos de las fuertes lluvias que se pronostican por la Tormenta Tropical y posible formación de Huracán “ETA”. El financiamiento requerido para el Estado de la Emergencia, podrá ser de los recursos autorizados y gestionados por medio de los Decretos Legislativos Nos. 33-2020 y 92-2020. La Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO) en el marco de SINAGER, comunicará a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), las instituciones que ejecutarán estos recursos y las intervenciones que estarán realizando. Las instituciones designadas deberán presentar la solicitud de recursos, así como el plan de ejecución ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 

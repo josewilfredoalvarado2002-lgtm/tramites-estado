@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210702-35645/download"
 extraido: "2026-11-14"
-huella: "9a092594f3e468e1"
+huella: "c61c837537116644"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,9 +31,7 @@ Secretaría de Estado en el Despacho de Energía
 
 ACUERDO SEN-011-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA:
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
 
 CONSIDERANDO: Que el artículo 2 del Decreto Ejecutivo No. PCM-007-2020 del 30 de diciembre de 2020 designa a la Secretaría de Estado en el Despacho de Energía como Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas en la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad.
 
@@ -43,9 +41,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: Que la competencia es irrenunciable y se ejercerá por los órganos que la tengan atribuida por Ley, pudiendo el superior delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
-CONSIDERANDO: Que mediante ACUERDO No.
-
-44-2021 se nombra al ciudadano ALDO RAYNIERI VILLAFRANCA CASTRO en el cargo de SubSecretario de Estado en el Despacho de Hidrocarburos, dependiente de la Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante ACUERDO No. 44-2021 se nombra al ciudadano ALDO RAYNIERI VILLAFRANCA CASTRO en el cargo de SubSecretario de Estado en el Despacho de Hidrocarburos, dependiente de la Secretaría de Estado en el Despacho de Energía.
 
 POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36, 116 y 118 de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -69,9 +65,7 @@ Secretaría de Estado en el Despacho de Energía
 
 ACUERDO SEN-012-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA:
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-023-2021 del 27 de mayo de 2021, publicado en el Diario Oficial La Gaceta Edición No, 35,617 en fecha 3 de junio de 2021, se establece en su artículo 8 que la Secretaría de Estado en el Despacho de Energía presidirá el Comité de Apoyo creado bajo el Decreto Ejecutivo No.PCM-062-2017 que dispone la creación del Fondo para la Renovación del Parque de Cilindros, publicado en el Diario Oficial La Gaceta el 29 de septiembre de 2017. Para los efectos de su funcionamiento el Comité de Apoyo estará conformado a partir de la vigencia de dicho Decreto por tres miembros: Un representante de la Secretaría de Estado en el Despacho de Energía (SEN), un representante de la Comisión de Gas Licuado del Petróleo (GLP), un representante de las Empresas Envasadoras de Gas Licuado del Petróleo.
 
@@ -79,9 +73,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: Que la competencia es irrenunciable y se ejercerá por los órganos que la tengan atribuida por Ley, pudiendo el superior delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
-CONSIDERANDO: Que mediante ACUERDO No.
-
-44-2021 se nombra al ciudadano ALDO RAYNIERI VILLAFRANCA CASTRO en el cargo de Subsecretario de Estado en el Despacho de Hidrocarburos, dependiente de la Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante ACUERDO No. 44-2021 se nombra al ciudadano ALDO RAYNIERI VILLAFRANCA CASTRO en el cargo de Subsecretario de Estado en el Despacho de Hidrocarburos, dependiente de la Secretaría de Estado en el Despacho de Energía.
 
 POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36, 116 y 118 de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -103,9 +95,7 @@ Secretaría de Estado en el Despacho de Energía
 
 ACUERDO SEN-014-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA:
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley y en consecuencia el conocimiento y resolución de los asuntos del ramo.
 

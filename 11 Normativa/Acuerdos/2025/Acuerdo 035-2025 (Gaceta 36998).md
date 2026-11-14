@@ -11,7 +11,7 @@ paginas: "A. 7 - 13"
 sumario: "Acuerdos Nos. 030-2025, 035-2025, 036-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251120-36998/download"
 extraido: "2026-11-09"
-huella: "f95173afa70c5e40"
+huella: "54a9494b0450604e"
 ---
 <!-- portal:inicio -->
 # ACUERDO 035-2025
@@ -73,9 +73,7 @@ CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANU
 
 CONSIDERANDO: Que el Departamento de Cuencas Hidrográficas y Ambiente, en conjunto con la Asistencia Legal de la Dirección Ejecutiva, han emitido dictamen favorable para la continuidad del proceso de declaratoria de veintiséis
 
-(26) Microcuencas en la Región Forestal de Comayagua, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-007-2025.
+(26) Microcuencas en la Región Forestal de Comayagua, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-007-2025.
 
 POR TANTO:
 
@@ -89,13 +87,11 @@ PRIMERO: Declarar Zona de Protección Forestal las microcuencas abastecedoras de
 
 SEGUNDO: Tener por declarada las siguientes microcuencas:
 
-Coordenadas WGS- 84 Municipio Depto.
+Coordenadas WGS-84 Municipio Depto.
 
 Familias Área (ha) Subcuenca Cuenca X Y 1 Portillo de la Mora 416630 4593449 Comayagua, Ajuterique Comayagua 20 25.216923 Selguapa Ulúa 2 Tontolar 412245 1599224 Comayagua Comayagua 28 17.856067 Selguapa Ulúa 3 San Antonio de la Cuesta 440804 1608581 Comayagua, San Jerónimo Comayagua 430 311.337321 Selguapa Ulúa 4 San Andrés 440000 1641500 La Libertdad, Ojos de Agua Comayagua 68 28.586279 Humuya -Media Ulúa 5 Zacatalito 440900 1636400 La Libertdad Comayagua 33 55.620966 Humuya -Baja Ulúa 6 Vallecillos 440408 1627660 San Jerónimo, La Libertdad Comayagua 110 52.870699 Humuya -Media Ulúa 7 San Jerónimo 426396 1616598 San Jerónimo Comayagua 675 466.421306 Humuya -Media Ulúa 8 Quebrada Arriba 464183 1647639 San José del Potrero Comayagua 134 217.048676 Sulaco Ulúa 9 Quebrada Honda 468537 1641069 San José del Potrero Comayagua 202 343.843762 Grande de agua caliente/Sulaco Ulúa 10 El Pacayal 415397 1593185 Comayagua, Ajuterique Comayagua 18 70.062685 Humuya alta/Selguapa Ulúa 11 Matazanos 406891 1599665 Comayagua Comayagua 36 10.569116 Selguapa Ulúa 12 Matazanos 2 407487 159982 Comayagua Comayagua 36 16.458277 Selguapa Ulúa 13 Buena Vista 410058 159838 Comayagua Comayagua 44 48.275697 Selguapa Ulúa 14 Montañuela 412048 1599380 Comayagua Comayagua 50 22.866303 Selguapa Ulúa 15 El Roblito 432854 1607223 Comayagua Comayagua 30 9.815491 Humuya-Media Ulúa 16 Agua Zarca 450878 1592371 Comayagua Comayagua 32 6.794758 Humuya-Alta Ulúa 17 El Sitio 2 466936 1603646 Comayagua Comayagua 20 10.026983 Humuya-Media Ulúa 18 Casa de Piedra 436200 1655300 La Libertad Comayagua 48 36701802 Sulaco Ulúa 19 Cuesta del Neo 440786 1638526 La Libertad Comayagua 163 10.010812 Humuya -Baja Ulúa 20 Los Laureles 439464 1631504 La Libertad Comayagua 730 148.933224 Humuya -Baja Ulúa 21 Las Aradas Sinaí 443847 1609224 Comayagua Comayagua 108 235.102736 Tuliapa Ulúa 22 Ocotes Caídos 443871 1613461 San Jerónimo Comayagua 190 307.842615 Tuliapa Ulúa Bo. El Porvenir, Fátima 435991 1645343 Las Lajas Comayagua 80 34.946719 Sulaco Ulúa 24 Las Arenas 430165 1646817 La Lajas Comayagua 36 2.166845 Humuya-Abajo Ulúa 25 Las Piñas 432434 1646278 La Lajas Comayagua 55 12.493821 Humuya-Abajo Ulúa 26 Nueva Concepción 434812 1649774 La Lajas Comayagua 100 7.199305 Humuya-Abajo Ulúa Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
 
-Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-007-2025.
+Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-007-2025.
 
 TERCERO: De conformidad con el artículo 123 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, en estas zonas de protección hídrica se prohíbe cortar, dañar, quemar o destruir árboles, arbustos y los bosques en general. Igualmente, se prohíbe la construcción de cualquier tipo de infraestructura, la ejecución de actividades agrícolas o pecuarias y todas aquellas otras que pongan en riesgo los fines perseguidos.
 

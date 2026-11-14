@@ -11,7 +11,7 @@ paginas: "A. 19 - 26"
 sumario: "Decretos Nos. 122-2026, 130-2026, 131-2026, 133-2026, 134-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260701-37182/download"
 extraido: "2026-11-09"
-huella: "b9ca03557eec23be"
+huella: "0c877dda38d6db2a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 133-2026
@@ -49,9 +49,9 @@ CONSIDERANDO: Que los artículos 356, 357, 358 y 359 de la Constitución de la R
 
 CONSIDERANDO: Que la Ley Orgánica del Presupuesto regula los subsistemas de Administración Financiera del Sector Público, incluyendo inversión pública y crédito público; y que, conforme al Artículo 58, la Dirección General de Inversiones Públicas de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) es el órgano técnico coordinador del Programa de Inversión Pública, mientras que el Artículo 64 regula el Subsistema de Crédito Público para la gestión de recursos financieros internos y externos de carácter reembolsable.
 
-CONSIDERANDO: Que conforme a los artículos 1, 2 y 3 de la Ley de Crédito Público, Decreto No.111-90 de fecha 10 de Enero de 1991, el crédito público comprende la aptitud del Estado y sus instituciones para obtener recursos financieros extraordinarios con carácter reembolsable, provenientes del exterior o del ahorro interno; que dichas operaciones tienen por objeto obtener recursos en condiciones favorables para financiar proyectos de justificado beneficio económico y social; y que se encuentran sujetas a dicha Ley, entre otros, el Gobierno Central, las Instituciones Descentralizadas y las Municipalidades.
+CONSIDERANDO: Que conforme a los artículos 1, 2 y 3 de la Ley de Crédito Público, Decreto No. 111-90 de fecha 10 de Enero de 1991, el crédito público comprende la aptitud del Estado y sus instituciones para obtener recursos financieros extraordinarios con carácter reembolsable, provenientes del exterior o del ahorro interno; que dichas operaciones tienen por objeto obtener recursos en condiciones favorables para financiar proyectos de justificado beneficio económico y social; y que se encuentran sujetas a dicha Ley, entre otros, el Gobierno Central, las Instituciones Descentralizadas y las Municipalidades.
 
-CONSIDERANDO: Que conforme a los artículos 1, 2, 3, 5, 21, 22, 23, 2 4 y 27 de la Ley de Responsabilidad Fiscal, Decreto No.25-2016 de fecha 4 de Mayo del 2016, la gestión de las finanzas públicas debe observar criterios de sostenibilidad de la deuda, responsabilidad, prudencia, transparencia fiscal y consistencia presupuestaria, siendo aplicable al Sector Público No Financiero, incluyendo la incorporación gradual de las municipalidades al balance fiscal, bajo el seguimiento de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que conforme a los artículos 1, 2, 3, 5, 21, 22, 23, 2 4 y 27 de la Ley de Responsabilidad Fiscal, Decreto No. 25-2016 de fecha 4 de Mayo del 2016, la gestión de las finanzas públicas debe observar criterios de sostenibilidad de la deuda, responsabilidad, prudencia, transparencia fiscal y consistencia presupuestaria, siendo aplicable al Sector Público No Financiero, incluyendo la incorporación gradual de las municipalidades al balance fiscal, bajo el seguimiento de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que la ejecución de los proyectos financiados con los recursos provenientes del préstamo deberá observar los requisitos técnicos, financieros, presupuestarios, ambientales y administrativos aplicables, incluyendo, cuando corresponda, los estudios de pre-inversión, diseños, presupuestos, cronogramas de ejecución, registros o aprobaciones en el Sistema Nacional de Inversión Pública de Honduras (SNIPH), licencias ambientales y certificaciones de disponibilidad de los terrenos requeridos.
 
@@ -63,7 +63,7 @@ CONSIDERANDO: Que resulta procedente autorizar a la Municipalidad de Villanueva,
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -105,7 +105,7 @@ ARTÍCULO 4.- La Municipalidad de Villanueva, Departamento de Cortés, queda obl
 
 #### Artículo 5
 
-ARTÍCULO 5.- Los recursos provenientes del financiamiento a u t o r i z a d o d e b e r á n d e s t i n a r s e exclusivamente a la ejecución de los proyectos descritos en el presente Decreto.
+ARTÍCULO 5.- Los recursos provenientes del financiamiento autorizado deberán destinarse exclusivamente a la ejecución de los proyectos descritos en el presente Decreto.
 
 Queda prohibida su utilización para gasto corriente, pago de salarios, dietas, viáticos, publicidad institucional, gastos de representación, adquisición de bienes no vinculados directamente con los proyectos autorizados, pago de obligaciones distintas a las derivadas del presente financiamiento o cualquier otro destino ajeno a la cartera de proyectos aprobada.
 

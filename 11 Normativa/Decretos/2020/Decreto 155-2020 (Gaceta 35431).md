@@ -11,7 +11,7 @@ paginas: "A. 7 - 11"
 sumario: "Decreto No. 155-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201116-35431/download"
 extraido: "2026-11-14"
-huella: "8c32f4baf644a326"
+huella: "868cc4b855855e25"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 155-2020
@@ -33,15 +33,15 @@ CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estad
 
 CONSIDERANDO: Que la Constitución de la República establece, en el marco de sus garantías, derechos individuales y sociales, los siguientes: La protección de la salud y acceso a los servicios de salud, la seguridad social y la protección de todos los grupos de la población en condiciones de vulnerabilidad.
 
-CONSIDERANDO: Que en virtud de la presencia en nuestro país de la COVID-19 y el dengue, el Gobierno de la República mediante Decreto Ejecutivo Número PCM-005- 2020 publicado en el Diario Oficial “La Gaceta” No.35,171 en fecha 10 de Febrero de 2020, declaró Estado de Emergencia Sanitaria en todo el territorio nacional; en el Artículo 1 del mismo se establece la necesidad de “Fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (2019-nCoV)”. Dicho Decreto fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020.
+CONSIDERANDO: Que en virtud de la presencia en nuestro país de la COVID-19 y el dengue, el Gobierno de la República mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” No. 35,171 en fecha 10 de Febrero de 2020, declaró Estado de Emergencia Sanitaria en todo el territorio nacional; en el Artículo 1 del mismo se establece la necesidad de “Fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (2019-nCoV)”. Dicho Decreto fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020.
 
-CONSIDERANDO: Que el Consejo de Secretarios de Estado decretó mediante Decreto Ejecutivo Número PCM-109- 2020, reformado mediante PCM-112-2020, emergencia por el ingreso del fenómeno natural “Tormenta Tropical ETA”.
+CONSIDERANDO: Que el Consejo de Secretarios de Estado decretó mediante Decreto Ejecutivo Número PCM-109-2020, reformado mediante PCM-112-2020, emergencia por el ingreso del fenómeno natural “Tormenta Tropical ETA”.
 
 CONSIDERANDO: Que es de apremiante necesidad que las diferentes instituciones de la administración pública Centralizada, Descentralizada y Desconcentrada, incluyendo los gobiernos locales cooperen y articulen esfuerzos para hacer frente tanto a la actual Emergencia Sanitaria y Humanitaria por causa de la Pandemia COVID-19, como a la Emergencia Declarada para hacer frente a la actual crisis dejada por la “Tormenta Tropical ETA” y otros fenómenos climáticos adversos que pudieran afectar al país.
 
 CONSIDERANDO: Que los gobiernos municipales en el marco de la Ley de Municipalidades y la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), cuentan con los mecanismos de organización y toma de decisiones municipales para la atención de las emergencias, denominados Comité de Emergencia Municipal (CODEM) responsables de coordinar todas las acciones orientadas a la prevención, atención y recuperación de las emergencias o desastres suscitadas en término municipal.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.93-2020 de fecha 16 de Julio de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 7 de Septiembre de 2020, Edición No.35,365, el Congreso Nacional, autorizó a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD); en virtud de la Emergencia Nacional decretada, a efectuar el registro de los formularios de gasto (F01’s) en el Sistema de Administración Financiera Integrada (SIAFI) correspondientes a la transferencia ordinaria del segundo trimestre del año Dos Mil Veinte (2020) a las Corporaciones Municipales.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 93-2020 de fecha 16 de Julio de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 7 de Septiembre de 2020, Edición No. 35,365, el Congreso Nacional, autorizó a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD); en virtud de la Emergencia Nacional decretada, a efectuar el registro de los formularios de gasto (F01’s) en el Sistema de Administración Financiera Integrada (SIAFI) correspondientes a la transferencia ordinaria del segundo trimestre del año Dos Mil Veinte (2020) a las Corporaciones Municipales.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

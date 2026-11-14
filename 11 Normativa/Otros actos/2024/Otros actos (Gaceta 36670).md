@@ -2,19 +2,19 @@
 tipo: "norma"
 tipo_acto: "Otro acto"
 numero: "No consta en la fuente"
-titulo: "Según el sumario de La Gaceta: Acuerdos Nos. 044-2024, 045-2024PROCURADURÍA GENERAL DE LA REPÚBLICAResumen del Informe No. 451/21"
+titulo: "Según el sumario de La Gaceta: Acuerdos Nos. 044-2024, 045-2024; PROCURADURÍA GENERAL DE LA REPÚBLICA: Resumen del Informe No. 451/21"
 emisor: "INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
 gaceta_numero: 36670
 gaceta_fecha: "2024-10-23"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36670 (2024-10-23)|La Gaceta 36670]]"
 paginas: "A. 1 - 12"
-sumario: "Acuerdos Nos. 044-2024, 045-2024PROCURADURÍA GENERAL DE LA REPÚBLICAResumen del Informe No. 451/21"
+sumario: "Acuerdos Nos. 044-2024, 045-2024; PROCURADURÍA GENERAL DE LA REPÚBLICA: Resumen del Informe No. 451/21"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241023-36670/download"
 extraido: "2026-11-14"
-huella: "e08e3f24ef27d8df"
+huella: "6e2bb3f0f9d25570"
 ---
 <!-- portal:inicio -->
-# Según el sumario de La Gaceta: Acuerdos Nos. 044-2024, 045-2024PROCURADURÍA GENERAL DE LA REPÚBLICAResumen del Informe No. 451/21
+# Según el sumario de La Gaceta: Acuerdos Nos. 044-2024, 045-2024; PROCURADURÍA GENERAL DE LA REPÚBLICA: Resumen del Informe No. 451/21
 
 | Dato | Valor |
 | --- | --- |
@@ -23,7 +23,7 @@ huella: "e08e3f24ef27d8df"
 | Emisor | INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36670 (2024-10-23)\|La Gaceta 36670]] del 2024-10-23 |
 | Páginas | A. 1 - 12 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 044-2024, 045-2024PROCURADURÍA GENERAL DE LA REPÚBLICAResumen del Informe No. 451/21 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 044-2024, 045-2024; PROCURADURÍA GENERAL DE LA REPÚBLICA: Resumen del Informe No. 451/21 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO (07): Que el objetivo General del Plan de Manejo es contribuir a la
 
 CONSIDERANDO (08): Que es atribución del ICF aprobar los planes de manejo para la conservación, protección, aprovechamiento racional y sostenible de las áreas forestales, áreas protegidas y vida silvestre, así como en su reglamento general.
 
-CONSIDERANDO (09): Que según Dictamen Técnico DAP- 171-2023, emitido por el Departamento de Áreas Protegidas, dictamina que el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Port Royal 2024-2035.
+CONSIDERANDO (09): Que según Dictamen Técnico DAP-171-2023, emitido por el Departamento de Áreas Protegidas, dictamina que el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Port Royal 2024-2035.
 
 POR TANTO
 
@@ -79,7 +79,7 @@ Dado en la ciudad de Comayagüela, municipio del Distrito Central a los 06 días
 
 ING. LUIS EDGARDO SOLIZ LOBO DIRECTOR EJECUTIVO ICF ABG. DANIA MARIA RAMIREZ NAJERA SECRETARIA GENERAL ICF Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) ACUERDO No.-045-2024 EL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF), EN EL USO DE LAS FACULTADES Y ATRIBUCIONES QUE LA CONSTITUCIÓN Y LA LEY LE CONFIERE “PLAN DE MANEJO REFUGIO DE VIDA SILVESTRE TURTLE HARBOUR”
 
-CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98- 2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), las facultades de Manejo y Administración de la Áreas Protegidas y Vida Silvestre del país.
+CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98-2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), las facultades de Manejo y Administración de la Áreas Protegidas y Vida Silvestre del país.
 
 CONSIDERANDO: Que el marco jurídico forestal vigente determina que se declara de prioridad nacional y de interés general el manejo racional y sostenible de los recursos forestales, áreas protegidas y vida silvestre que se realizará de manera compatible con la conservación de los ecosistemas, la biodiversidad, los recursos genéticos y la reducción de la vulnerabilidad ambiental y antropológica.
 
@@ -95,7 +95,7 @@ CONSIDERANDO: Que el objetivo General del Plan de Manejo es mantener y conservar
 
 CONSIDERANDO: Que es atribución del ICF aprobar los planes de manejo para la conservación, protección, aprovechamiento racional y sostenible de las áreas forestales y protegidas y vida silvestre.
 
-CONSIDERANDO: Que según Dictamen Técnico DAP- 106-2024, emitido por el: Departamento de Áreas Protegidas, dictamina: que el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Port Royal 2024-2035.
+CONSIDERANDO: Que según Dictamen Técnico DAP-106-2024, emitido por el: Departamento de Áreas Protegidas, dictamina: que el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Port Royal 2024-2035.
 
 POR TANTO:
 

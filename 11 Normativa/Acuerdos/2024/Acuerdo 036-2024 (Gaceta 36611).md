@@ -11,7 +11,7 @@ paginas: "A. 9 - 18"
 sumario: "Acuerdo No. 036-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240813-36611/download"
 extraido: "2026-11-14"
-huella: "33c5a865a1382663"
+huella: "e98bee89f5378ba1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 036-2024
@@ -55,7 +55,7 @@ Artículos 186, 187, 188, 191 y 402 del Reglamento General de la Ley Forestal, �
 
 ACUERDA:
 
-PRIMERO: Se derogan en su totalidad los siguientes Acuerdos Institucionales: 1) 030-2013, de fecha 17 de mayo del año 2013 y publicado en el Diario Oficial La Gaceta el 30 de mayo del 2013 (Gaceta No. 33,137) y su respectivo adendum de fecha 18 de abril del año 2018 y publicada en el Diario Oficial La Gaceta el 08 de mayo del 2018. 2) No. 018 -2015, de fecha 03 de agosto del 2015 y publicado en el Diario Oficial La Gaceta el 12 de agosto del 2015 (Gaceta No. 33, 806). 3) 036- 2017, de fecha 15 de diciembre del año 2017 y publicado en el Diario Oficial La Gaceta el 22 de febrero del año 2018, (Gaceta No. No. 34,575). 4) No. 011-2020 de fecha 27 de julio del 2020; 5) No. 035-2022 de fecha 17 de octubre del 2022.
+PRIMERO: Se derogan en su totalidad los siguientes Acuerdos Institucionales: 1) 030-2013, de fecha 17 de mayo del año 2013 y publicado en el Diario Oficial La Gaceta el 30 de mayo del 2013 (Gaceta No. 33,137) y su respectivo adendum de fecha 18 de abril del año 2018 y publicada en el Diario Oficial La Gaceta el 08 de mayo del 2018. 2) No. 018 -2015, de fecha 03 de agosto del 2015 y publicado en el Diario Oficial La Gaceta el 12 de agosto del 2015 (Gaceta No. 33, 806). 3) 036-2017, de fecha 15 de diciembre del año 2017 y publicado en el Diario Oficial La Gaceta el 22 de febrero del año 2018, (Gaceta No. No. 34,575). 4) No. 011-2020 de fecha 27 de julio del 2020; 5) No. 035-2022 de fecha 17 de octubre del 2022.
 
 SEGUNDO: Aprobar el “PROCEDIMIENTO PARA
 
@@ -241,9 +241,7 @@ b) unidades administrativas con caminos y bacadillas.
 
 10. Fotografías que ilustren y respalden la situación del área/ árboles afectada, con referencia geográfica y fecha.
 
-11. Certificación Íntegra de Asiento con notas marginales, con fecha de expedición no mayor a tres meses (terrenos privados y ejidales). En el caso de fuerza mayor o caso fortuito, se aplicará la disposición contenida en el numeral quinto, Requisitos Legales: inciso 3, del Acuerdo No.
-
-011-2020.
+11. Certificación Íntegra de Asiento con notas marginales, con fecha de expedición no mayor a tres meses (terrenos privados y ejidales). En el caso de fuerza mayor o caso fortuito, se aplicará la disposición contenida en el numeral quinto, Requisitos Legales: inciso 3, del Acuerdo No. 011-2020.
 
 12. Copia de Licencia ambiental (Operativa y/o funcional) y la copia de las medidas de mitigación ambiental, cuando aplique.
 

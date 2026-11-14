@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos números 023-SP-2020, 024-SP-2020, 025-SP-2020, Acuerdo Ejecutivo número 025-A-SP-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201120-35435/download"
 extraido: "2026-11-14"
-huella: "cb7f44c740ed2331"
+huella: "d51b794e3befb3d1"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 024-SP-2020
@@ -27,7 +27,7 @@ huella: "cb7f44c740ed2331"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

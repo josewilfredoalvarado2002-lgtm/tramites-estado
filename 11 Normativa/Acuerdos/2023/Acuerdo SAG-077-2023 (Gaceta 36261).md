@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Nos. SAG-067-2023, SAG-077-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230622-36261/download"
 extraido: "2026-11-14"
-huella: "23edb3077d3bda6f"
+huella: "442eb6eb5763d2e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-077-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que en el Numeral 12, del Acuerdo Ejecutivo No. SAG-125-2022, esta
 
 “La relación de compra/importación de maíz blanco (1005.90.30.00.) será por un (1) quintal de maíz blanco comprado a nivel nacional derecho a importar dos (2) quintal de maíz blanco (1x2 QQ), esta relación estará vigente para el período comprendido del 28 de enero de 2022 al 31 agosto de 2023…”
 
-CONSIDERANDO: En el marco del Acuerdo No. SAG- 125-2023, se solicitó a la Secretaría de Desarrollo Económico (SDE), establecer un Contingente de Importación de Maíz Blanco por Incumplimiento de Contratos, tomando en consideración las recomendaciones de la Comisión de Supervisión del referido convenio, tomando como base el Informe de Incumplimientos de Contratos presentado por la Empresa AGROBOLSA (Ente Contralor), y autorizado por las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), mediante Acuerdo No.SAG-067-2023 de fecha 27 de marzo de 2023. Asimismo, en el referido informe contempla que las compras realizadas del 01 de enero al 10 de marzo de 2023, por la cantidad de 148,859.48 quintales corresponden al segundo corte, dichas compras serán revisadas y autorizadas tal como lo establece el Acuerdo SAG-125-2022; dicha resolución consta en el Acta No.078-2023, misma que fue aprobada en la reunión celebrada el 10 de marzo de 2023, con la Comisión de Supervisión del referido Convenio.
+CONSIDERANDO: En el marco del Acuerdo No. SAG-125-2023, se solicitó a la Secretaría de Desarrollo Económico (SDE), establecer un Contingente de Importación de Maíz Blanco por Incumplimiento de Contratos, tomando en consideración las recomendaciones de la Comisión de Supervisión del referido convenio, tomando como base el Informe de Incumplimientos de Contratos presentado por la Empresa AGROBOLSA (Ente Contralor), y autorizado por las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), mediante Acuerdo No.SAG-067-2023 de fecha 27 de marzo de 2023. Asimismo, en el referido informe contempla que las compras realizadas del 01 de enero al 10 de marzo de 2023, por la cantidad de 148,859.48 quintales corresponden al segundo corte, dichas compras serán revisadas y autorizadas tal como lo establece el Acuerdo SAG-125-2022; dicha resolución consta en el Acta No. 078-2023, misma que fue aprobada en la reunión celebrada el 10 de marzo de 2023, con la Comisión de Supervisión del referido Convenio.
 
 CONSIDERANDO: Que en fecha 24 de abril de 2023, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco del período comprendido del 01 de enero al 10 de marzo de 2023 del Segundo Corte de la Cosecha 2022-2023, realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión Supra mencionada.
 
@@ -51,7 +51,7 @@ PRIMERO: En el marco del Convenio para las Negociaciones de una Alianza Estraté
 
 Importaciones de Maiz Blanco / Compras de Maiz del 01 de enero al 10 de marzo de 2023 /Cosecha Nacional 2022-2023 Maiz comprado Cosecha Nacional/QQ 1 08019995108424 DEMAHSA 64,654.49 129,308.98 5,865.36 2 05019995107041 IMSA 42,378.29 84,756.58 3,844.49 3 08019007068256 MATURAVE 41,826.70 83,653.40 3,794.46 TOTAL 148,859.48 297,718.96 13,504.31
 
-SEGUNDO: En el caso de la Empresa ALBECASA, según el Informe de Compras del Segundo Corte de la Cosecha 2022- 2023, no realizó ninguna compra, por consiguiente, no gozará del derecho de importar maíz blanco en este corte.
+SEGUNDO: En el caso de la Empresa ALBECASA, según el Informe de Compras del Segundo Corte de la Cosecha 2022-2023, no realizó ninguna compra, por consiguiente, no gozará del derecho de importar maíz blanco en este corte.
 
 TERCERO: Las empresas nominadas en el Ordinal Primero, podrán realizar la importación del volumen asignado de maíz blanco de manera total o parcial a su conveniencia, para lo cual deberán presentar la solicitud de los Certificados de Importación correspondientes ante la Secretaría General de la Secretaría de Desarrollo Económico (SDE).
 

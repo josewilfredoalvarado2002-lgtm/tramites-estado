@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo CREE-15-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220308-35867/download"
 extraido: "2026-11-14"
-huella: "15e5370f4cb1bc8b"
+huella: "ad5e386b3527fbcf"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-15-2022
@@ -71,7 +71,7 @@ CONSIDERANDO:
 
 Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, con el objeto, entre otros, de regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 

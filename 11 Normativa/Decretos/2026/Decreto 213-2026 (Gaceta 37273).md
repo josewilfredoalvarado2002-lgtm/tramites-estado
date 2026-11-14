@@ -8,10 +8,10 @@ gaceta_numero: 37273
 gaceta_fecha: "2026-10-19"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)|La Gaceta 37273]]"
 paginas: "A. 12 - 17"
-sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026"
+sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261019-37273/download"
 extraido: "2026-11-09"
-huella: "42a9e54d5d072781"
+huella: "93a05cce31b6dfc3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 213-2026
@@ -23,7 +23,7 @@ huella: "42a9e54d5d072781"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)\|La Gaceta 37273]] del 2026-10-19 |
 | Páginas | A. 12 - 17 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el fortalecimiento de las capacidades de gestión de los gobie
 
 CONSIDERANDO: Que la documentación presentada para sustentar la adquisición identifica de cuatro (4) vehículos automotores destinados a las actividades institucionales de la Asociación de Municipios de Honduras (AMHON), consistentes en tres (3) vehículos Toyota Hilux 4x4 doble cabina, año 2026, y un vehículo Toyota Station Wagon Land Cruiser Prado 4x4, año 2027, cuyas características, números de preforma, lotes, números de motor y serie/VIN se individualizan expresamente en el presente Decreto.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, Decreto No.170-2016, establece que la exoneración es la dispensa total o parcial del pago de una obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación· individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN); y que el Artículo 19 del mismo Código exige que las leyes que otorguen exoneraciones determinen con claridad el objetivo, los sujetos beneficiarios, los requisitos formales y materiales, el plazo o término del beneficio y los tributos dispensados.
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, Decreto No. 170-2016, establece que la exoneración es la dispensa total o parcial del pago de una obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación· individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN); y que el Artículo 19 del mismo Código exige que las leyes que otorguen exoneraciones determinen con claridad el objetivo, los sujetos beneficiarios, los requisitos formales y materiales, el plazo o término del beneficio y los tributos dispensados.
 
 CONSIDERANDO: Que de conformidad con el Artículo 19 del Código Tributario, las medidas de beneficio tributario deben encontrarse delimitadas y permitir la cuantificación de su impacto; y que, tratándose de instituciones no lucrativas, la normativa contempla la presentación de un informe técnico, correspondiendo a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) emitir la opinión técnica que proceda y realizar la tramitación administrativa individual del beneficio.
 

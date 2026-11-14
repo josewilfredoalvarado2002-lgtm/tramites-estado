@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Acuerdo No. 004-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230913-36333/download"
 extraido: "2026-11-14"
-huella: "cd3d1f6138a0a49a"
+huella: "3ff5323038db3d27"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 004-2023
@@ -29,9 +29,7 @@ huella: "cd3d1f6138a0a49a"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que de conformidad con el artículo 14 de la Ley Forestal, el (ICF) es un ente desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determina la Ley, la que ejerce con independencia técnica, administrativa y financiera, actuando como el Ente Ejecutor de la política nacional de conservación y desarrollo forestal, áreas protegidas y vida silvestre.
 
@@ -119,7 +117,7 @@ TERCERO: El presente Acuerdo es de vigencia y ejecución inmediata y deberá ser
 
 Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los veintitrés (23) días del mes de marzo del año dos mil veintitrés (2023).
 
-LUIS EDGARDO SOLIZ LOBO DIRECTOR EJECUTIVO ICF DANIA MARIA RAMÍREZ NÁJERA SECRETARÍA GENERAL ICF Avance Próxima Edición A c u e r d a: Primero: Crear y organizar un Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, que integre los órganos jurisdiccionales con competencia nacional que conocen de todos los delitos y procesos señalados en el Decreto No 247-2010, de fecha 15 de enero de 2011, el Decreto No 89-2016 y el Decreto No 102-2017, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal” y sus reformas.
+LUIS EDGARDO SOLIZ LOBO DIRECTOR EJECUTIVO ICF DANIA MARIA RAMÍREZ NÁJERA SECRETARÍA GENERAL ICF Avance Próxima Edición Acuerda: Primero: Crear y organizar un Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, que integre los órganos jurisdiccionales con competencia nacional que conocen de todos los delitos y procesos señalados en el Decreto No 247-2010, de fecha 15 de enero de 2011, el Decreto No 89-2016 y el Decreto No 102-2017, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal” y sus reformas.
 
 CENTROS DE DISTRIBUCIÓN:
 

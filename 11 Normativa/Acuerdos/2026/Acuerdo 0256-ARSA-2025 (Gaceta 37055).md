@@ -11,7 +11,7 @@ paginas: "A. 17 - 67"
 sumario: "Acuerdos Nos. 0142-ARSA-2025, 0256-ARSA-2025, 0263-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260128-37055/download"
 extraido: "2026-11-09"
-huella: "fc6cbefd9fb4b7d4"
+huella: "5fa6319fd03f40f9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0256-ARSA-2025
@@ -57,9 +57,7 @@ AGENCIA DE REGULACIÓN SANITARIA, en uso de las facultades que está investida 
 
 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 1, 4 y 225, del Código de Salud; 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario;
 
-1, 2, 3 inciso a) b), e) i), j), k) y l), 4, 5, 8, 9 y 10 del PCM No.
-
-032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria; Herramienta Mundial de la OMS para la Evaluación de los Sistemas Regulatorios Nacionales de Productos Médicos.
+1, 2, 3 inciso a) b), e) i), j), k) y l), 4, 5, 8, 9 y 10 del PCM No. 032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria; Herramienta Mundial de la OMS para la Evaluación de los Sistemas Regulatorios Nacionales de Productos Médicos.
 
 ACUERDA:
 
@@ -699,7 +697,7 @@ Artículo 37. Para solicitar Licencia Sanitaria nueva para Sitio de Investigaci�
 
 1. Llenado del Formulario para LICENCIA
 
-SANITARIA NUEVA PARA SITIO DE INVESTIGACIÓN DE ENSAYOS CLÍNICOS DE DISPOSITIVOS M É D I C O S Y P R O D U C T O S FARMACÉUTICOS, en la página oficial de la ARSA www.arsa.gob.hn.
+SANITARIA NUEVA PARA SITIO DE INVESTIGACIÓN DE ENSAYOS CLÍNICOS DE DISPOSITIVOS MÉDICOS Y PRODUCTOS FARMACÉUTICOS, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Declaración jurada para licencia sanitaria para sitio de investigación según formato establecido por la Agencia de Regulación Sanitaria.
 
@@ -933,7 +931,7 @@ Artículo 46. De la Autorización de Ensayos de Ensayos Clínicos para productos
 
 Los interesados en solicitar Autorización de Ensayos de Investigación Clínica de productos farmacéuticos deberán presentar la siguiente documentación:
 
-1. L l e n a d o d e l F o r m u l a r i o p a r a AUTORIZACIÓN SANITARIA PARA ENSAYO CLÍNICO DE PRODUCTOS FARMACEÚTICOS, en la página oficial de la ARSA www.arsa.gob.hn.
+1. Llenado del Formulario para AUTORIZACIÓN SANITARIA PARA ENSAYO CLÍNICO DE PRODUCTOS FARMACEÚTICOS, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Declaración jurada para autorización sanitaria para ensayo clínico de producto farmacéutico según formato establecido por la Agencia de Regulación Sanitaria.
 
@@ -1023,7 +1021,7 @@ Artículo 47. De la vigencia y renovación de la Autorización Sanitaria para co
 
 La Autorización de un ensayo de investigación clínica se otorga por el plazo de dos (2) años prorrogable por el mismo período de tiempo, presentando los siguientes requisitos:
 
-1. Llenado del Formulario para RENOVACIÓN DE AUTORIZACIÓN SANITARIA PA R A E N S AY O C L Í N I C O D E INVESTIGACIÓN CLÍNICA, en la página oficial de la ARSA www.arsa.gob.hn.
+1. Llenado del Formulario para RENOVACIÓN DE AUTORIZACIÓN SANITARIA PA R A E N S AY O CLÍNICO DE INVESTIGACIÓN CLÍNICA, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Declaración jurada de renovación de autorización sanitaria para ensayo clínico según formato establecido por la Agencia de Regulación Sanitaria.
 
@@ -1471,7 +1469,7 @@ CAPÍTULO II DE LA IMPORTACIÓN Y EXPORTACIÓN DE PRODUCTOS Y MUESTRAS BIOLÓGIC
 
 Artículo 86. Los productos en investigación (productos farmacéuticos o dispositivos médicos) que se utilizarán en fase de investigación clínica, deben solicitar autorización especial de importación, de conformidad con los siguientes requisitos:
 
-1. L l e n a d o d e l F o r m u l a r i o p a r a AUTORIZACIÓN ESPECIAL DE IMPORTACIÓN DE PRODUCTOS EN INVESTIGACIÓN CLÍNICA, en la página oficial de la ARSA www.arsa.gob.hn.
+1. Llenado del Formulario para AUTORIZACIÓN ESPECIAL DE IMPORTACIÓN DE PRODUCTOS EN INVESTIGACIÓN CLÍNICA, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Poder otorgado al profesional del derecho cuando la solicitud sea presentada por un apoderado legal, autenticado o debidamente legalizado.
 
@@ -1489,7 +1487,7 @@ AUTORIZACIÓN ESPECIAL DE IMPORTACIÓN DE PRODUCTOS EN INVESTIGACIÓN CLÍNICA D
 
 Artículo 87. Para solicitar la exportación de muestras biológicas, se debe presentar la siguiente documentación:
 
-1. L l e n a d o d e l F o r m u l a r i o p a r a AUTORIZACIÓN ESPECIAL DE EXPORTACIÓN DE MUESTRAS BIOLÓGICAS, en la página oficial de la ARSA www.arsa.gob.hn.
+1. Llenado del Formulario para AUTORIZACIÓN ESPECIAL DE EXPORTACIÓN DE MUESTRAS BIOLÓGICAS, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Poder otorgado al profesional del derecho y carnet de colegiación vigente, cuando la solicitud sea presentada por un apoderado legal, autenticado o debidamente legalizado.
 
@@ -1513,7 +1511,7 @@ DÍAS DE RESOLUCIÓN AUTORIZACIÓN ESPECIAL DE EXPORTACIÓN
 
 Artículo 88. Para solicitar la exportación de productos de investigación, se debe presentar la siguiente documentación:
 
-1. L l e n a d o d e l F o r m u l a r i o p a r a AUTORIZACIÓN ESPECIAL DE EXPORTACIÓN DE PRODUCTOS DE INVESTIGACIÓN, en la página oficial de la ARSA www.arsa.gob.hn.
+1. Llenado del Formulario para AUTORIZACIÓN ESPECIAL DE EXPORTACIÓN DE PRODUCTOS DE INVESTIGACIÓN, en la página oficial de la ARSA www.arsa.gob.hn.
 
 2. Poder otorgado al profesional del derecho y carnet de colegiación vigente, cuando la solicitud sea presentada por un apoderado legal, autenticado o debidamente legalizado.
 

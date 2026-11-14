@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-048-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210429-35586/download"
 extraido: "2026-11-14"
-huella: "412c086a60cc4722"
+huella: "52f33e96a7b55208"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-048-2021
@@ -41,9 +41,7 @@ CONSIDERANDO: Que para acelerar la ejecución de proyectos de infraestructura qu
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59 y 245 numerales 2), 11) y 45) de la Constitución de la República;
 
-Artículos 4, 11, 14 numeral 1), 17, 22 numerales 9) y 12), 28, 30, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No.
-
-266-2013; Decretos Legislativos Nos.: 97-2018, 181-2018, 161-2020; y, Decretos Ejecutivos Números: PCM-056-2018 y PCM-006-2021.
+Artículos 4, 11, 14 numeral 1), 17, 22 numerales 9) y 12), 28, 30, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decretos Legislativos Nos.: 97-2018, 181-2018, 161-2020; y, Decretos Ejecutivos Números: PCM-056-2018 y PCM-006-2021.
 
 DECRETA:
 

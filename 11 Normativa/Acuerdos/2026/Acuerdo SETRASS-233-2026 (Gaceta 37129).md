@@ -11,7 +11,7 @@ paginas: "A. 21 - 28"
 sumario: "Acuerdo No. SETRASS-233-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260429-37129/download"
 extraido: "2026-11-09"
-huella: "e76111a4dbcad77c"
+huella: "c124f5fcf2133aa2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-233-2026
@@ -41,13 +41,13 @@ CONSIDERANDO (5): Que mediante Acuerdo Número SETRASS 101-2026, de fecha 17 de 
 
 CONSIDERANDO (6): Que mediante Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, se nombra al ciudadano FERNANDO PUERTO CASTRO como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
 
-CONSIDERANDO (7): Que la inflación oficial interanual registrada por el Banco Central de Honduras (BCH) al mes de diciembre del año dos mil veinticinco (2025), alcanzó el porcentaje de 4.98%, siendo superior a los porcentajes de ajuste acordados para el año dos mil veinticuatro (2024), de 5.5% en la categoría de 1 a 10 trabajadores, de 5.50% de 11 a 50 trabajadores, de 6.5% de 51 a 150 trabajadores y de 7.00% de 151 trabajadores en adelante, plasmados en el Acuerdo Ejecutivo No. SETRASS-109-2024 publicado en el Diario Oficial La Gaceta No.36,491 del 21 de marzo del 2024.
+CONSIDERANDO (7): Que la inflación oficial interanual registrada por el Banco Central de Honduras (BCH) al mes de diciembre del año dos mil veinticinco (2025), alcanzó el porcentaje de 4.98%, siendo superior a los porcentajes de ajuste acordados para el año dos mil veinticuatro (2024), de 5.5% en la categoría de 1 a 10 trabajadores, de 5.50% de 11 a 50 trabajadores, de 6.5% de 51 a 150 trabajadores y de 7.00% de 151 trabajadores en adelante, plasmados en el Acuerdo Ejecutivo No. SETRASS-109-2024 publicado en el Diario Oficial La Gaceta No. 36,491 del 21 de marzo del 2024.
 
 CONSIDERANDO (8): Que de conformidad con la Ley del Salario Mínimo y su Reglamento, las Comisiones de Salario Mínimo, integradas de forma tripartita por representantes del sector trabajador, empleador y público, tienen a su cargo la elaboración del informe técnico y del proyecto de Acuerdo de fijación o revisión del salario mínimo, el cual es remitido a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social para su análisis y posterior elevación al Poder Ejecutivo, correspondiendo finalmente a este último la emisión del Acuerdo que deberá ser publicado en el Diario Oficial “La Gaceta”.
 
 POR TANTO: En uso de sus facultades y en aplicación de lo dispuesto en los artículos 128 numeral 5) y 235, 245 numeral 42), 246, 247, 248 y 255 de la Constitución de la República;
 
-317, 381, 382 y 383 del Código de Trabajo; 1, 2, 15 y 30 de la Ley de Salario Mínimo 29 numeral 19), 36, 117, 118 y 119 de la Ley General de la Administración Pública, 24, 28, 29 y 30 del Reglamento de las Comisiones de Salario Mínimo, 25 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, SETRASS-109-2024 publicado en el Diario Oficial La Gaceta No.36,491 del 21 de marzo del 2024, Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, Acuerdo Número SETRASS 101-2026, de fecha 17 de febrero de 2026.
+317, 381, 382 y 383 del Código de Trabajo; 1, 2, 15 y 30 de la Ley de Salario Mínimo 29 numeral 19), 36, 117, 118 y 119 de la Ley General de la Administración Pública, 24, 28, 29 y 30 del Reglamento de las Comisiones de Salario Mínimo, 25 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, SETRASS-109-2024 publicado en el Diario Oficial La Gaceta No. 36,491 del 21 de marzo del 2024, Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, Acuerdo Número SETRASS 101-2026, de fecha 17 de febrero de 2026.
 
 ACUERDA:
 
@@ -83,9 +83,7 @@ Artículo 6.- La Dirección General de Salarios y la Dirección General de Inspe
 
 #### Artículo 7
 
-Artículo 7.- Quedan excluidos de este Acuerdo los Trabajadores del Sector Textil Maquilador Hondureño y demás Empresas de Zona Libre en virtud del Acuerdo No.
-
-SETRASS-109-2024 suscrito en fecha veintisiete (27) de febrero del año dos mil veinticuatro (2024), actualmente vigente para este rubro hasta el 31 de diciembre de 2026.
+Artículo 7.- Quedan excluidos de este Acuerdo los Trabajadores del Sector Textil Maquilador Hondureño y demás Empresas de Zona Libre en virtud del Acuerdo No. SETRASS-109-2024 suscrito en fecha veintisiete (27) de febrero del año dos mil veinticuatro (2024), actualmente vigente para este rubro hasta el 31 de diciembre de 2026.
 
 #### Artículo 8
 

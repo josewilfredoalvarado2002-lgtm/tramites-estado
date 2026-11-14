@@ -11,7 +11,7 @@ paginas: "A. 9 - 15"
 sumario: "Acuerdo No. PRS-03-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231116-36385/download"
 extraido: "2026-11-14"
-huella: "e9bff96f23d33841"
+huella: "f95d2c39617b5e2c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. PRS-03-2023
@@ -47,9 +47,9 @@ CONSIDERANDO: Que el Artículo 118 de la Ley General de Administración Pública
 
 CONSIDERANDO: Que el Artículo 122 de la Ley General de Administración Pública señala lo siguiente: Los Acuerdos, Resoluciones y Providencias serán firmadas por el titular del órgano que los emite y autorizados por el funcionario que indiquen las disposiciones legales.
 
-CONSIDERANDO: Que mediante el artículo 1 del PCM- 08-2022 se crea el Programa de la Red Solidaria, que ejecuta proyectos asignados o pre diseñados por la Secretaría de Estado en el Despacho de Desarrollo Social, de las acciones tendientes a mejorar de manera progresiva las condiciones de vida y acceso a mecanismos de protección social de hogares que viven en condiciones de pobreza y pobreza extrema, cuenta con autonomía técnica, financiera y administrativa, en calidad de ente desconcentrado y autónomo, encargado del diseño, ejecución, supervisión, administración de proyectos sociales y los que le sean asignados, como resultado de la formalización de contratos, convenios, acuerdos de financiamiento externos, donaciones, convenios interinstitucionales o designación directa de los órganos de decisión por el Gobierno de la República de Honduras.
+CONSIDERANDO: Que mediante el artículo 1 del PCM-08-2022 se crea el Programa de la Red Solidaria, que ejecuta proyectos asignados o pre diseñados por la Secretaría de Estado en el Despacho de Desarrollo Social, de las acciones tendientes a mejorar de manera progresiva las condiciones de vida y acceso a mecanismos de protección social de hogares que viven en condiciones de pobreza y pobreza extrema, cuenta con autonomía técnica, financiera y administrativa, en calidad de ente desconcentrado y autónomo, encargado del diseño, ejecución, supervisión, administración de proyectos sociales y los que le sean asignados, como resultado de la formalización de contratos, convenios, acuerdos de financiamiento externos, donaciones, convenios interinstitucionales o designación directa de los órganos de decisión por el Gobierno de la República de Honduras.
 
-CONSIDERANDO: Que sigue citando el Decreto PCM- 08-2022 en su artículo 12 numeral 11, y establece como una de las funciones del Programa de la Red Solidaria, ejecutar los programas y proyectos designados para el desarrollo de la inclusión social en el país, basándose en principios de transparencia, objetividad, inclusión y eficiencia.
+CONSIDERANDO: Que sigue citando el Decreto PCM-08-2022 en su artículo 12 numeral 11, y establece como una de las funciones del Programa de la Red Solidaria, ejecutar los programas y proyectos designados para el desarrollo de la inclusión social en el país, basándose en principios de transparencia, objetividad, inclusión y eficiencia.
 
 CONSIDERANDO: Que el Artículo 12 del Decreto Ejecutivo PCM-05-2022 establece que el Programa de la Red Solidaria, ejecuta inversiones en las áreas de salud, educación, infraestructura social básica y proyectos productivos, para las familias que viven en condiciones de pobreza y pobreza extrema focalizadas por Observatorio de Desarrollo Social (ODS).
 

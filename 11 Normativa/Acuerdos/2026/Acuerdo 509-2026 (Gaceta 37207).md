@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "Acuerdo Número 509-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260730-37207/download"
 extraido: "2026-11-09"
-huella: "a0fa516ab7dadef7"
+huella: "3f324e50a6e106c5"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 509-2026
@@ -83,7 +83,7 @@ Que mediante Acuerdo Ejecutivo No. 004-2026 de fecha 27 de enero de 2026, el se�
 
 POR TANTO:
 
-En aplicación a lo establecido en los siguientes artículos: 245, 246, 247, 248, 321 y 323 de la Constitución de la República de Honduras; 7, 29, 33, 36 numerales 8 y 19, 43, 45, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 4 , 5, 19, 24, 25 y 121 de la Ley de Procedimiento Administrativo y sus reformas; 4, 5 y 17 de la Ley Orgánica de Presupuesto y sus reformas; 17, 24 párrafo segundo y 60 numeral 1) del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97 y sus reformas; Decreto Ejecutivo PCM-017-2011; 31 del Decreto Ejecutivo PCM- 004-2026; y, demás normativa legal aplicable.
+En aplicación a lo establecido en los siguientes artículos: 245, 246, 247, 248, 321 y 323 de la Constitución de la República de Honduras; 7, 29, 33, 36 numerales 8 y 19, 43, 45, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 4, 5, 19, 24, 25 y 121 de la Ley de Procedimiento Administrativo y sus reformas; 4, 5 y 17 de la Ley Orgánica de Presupuesto y sus reformas; 17, 24 párrafo segundo y 60 numeral 1) del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97 y sus reformas; Decreto Ejecutivo PCM-017-2011; 31 del Decreto Ejecutivo PCM-004-2026; y, demás normativa legal aplicable.
 
 ACUERDA:
 

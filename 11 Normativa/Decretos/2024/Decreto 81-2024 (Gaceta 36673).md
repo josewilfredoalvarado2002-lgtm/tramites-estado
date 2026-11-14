@@ -8,10 +8,10 @@ gaceta_numero: 36673
 gaceta_fecha: "2024-10-26"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)|La Gaceta 36673]]"
 paginas: "A. 13 - 14"
-sumario: "Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024PODER LEGISLATIVODecreto No. 81-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONALAcuerdo Ejecutivo No. 005-DGAJTC-2024"
+sumario: "Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024; PODER LEGISLATIVO: Decreto No. 81-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL: Acuerdo Ejecutivo No. 005-DGAJTC-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241026-36673/download"
 extraido: "2026-11-14"
-huella: "85488a173f49dd12"
+huella: "5ba854d93ef78f8d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 81-2024
@@ -23,7 +23,7 @@ huella: "85488a173f49dd12"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)\|La Gaceta 36673]] del 2024-10-26 |
 | Páginas | A. 13 - 14 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024PODER LEGISLATIVODecreto No. 81-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONALAcuerdo Ejecutivo No. 005-DGAJTC-2024 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024; PODER LEGISLATIVO: Decreto No. 81-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL: Acuerdo Ejecutivo No. 005-DGAJTC-2024 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto Legislativo No.86- 2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 4 de Junio del año 2013, Edición No. 33,141, contentivo de la LEY DEL PROGRAMA VOLUNTARIO DE RESCATE, PROMOCIÓN Y FOMENTO DEL SECTOR DE LAS COMUNICACIONES.
+ARTÍCULO 1.- Derogar el Decreto Legislativo No. 86-2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 4 de Junio del año 2013, Edición No. 33,141, contentivo de la LEY DEL PROGRAMA VOLUNTARIO DE RESCATE, PROMOCIÓN Y FOMENTO DEL SECTOR DE LAS COMUNICACIONES.
 
 #### Artículo 2
 

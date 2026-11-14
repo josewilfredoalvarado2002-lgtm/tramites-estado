@@ -11,7 +11,7 @@ paginas: "A. 1 - 248"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260713-37192-2/download"
 extraido: "2026-11-09"
-huella: "6aed5d52b9b43040"
+huella: "f8acb72117b8cec6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 132-2026
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -69,7 +69,7 @@ EL CONTRATISTA: AMPLUS INGENIERIA S.A. DE C.V. (AMPLUS INGENIERIA).
 
 EL SUPERVISOR DE OBRAS:
 
-Firma Consultora q u e a s i g n e l a Dirección de Control y Seguimiento.
+Firma Consultora que asigne la Dirección de Control y Seguimiento.
 
 FINANCIAMIENTO:
 
@@ -77,9 +77,7 @@ Fondos Municipales.
 
 2. Los siguientes documentos constituyen parte integral del presente Contrato, corren adjunto a este y serán leídos e interpretados en forma conjunta con el:
 
-a) Contratación mediante el acuerdo de emergencia emitido por la Corporación Municipal del Distrito Central con No.
-
-032-2024.
+a) Contratación mediante el acuerdo de emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
 b) Las Condiciones Generales del Contrato.
 
@@ -155,9 +153,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO, DECRETO No.
-
-4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA: “CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -757,7 +753,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -813,7 +809,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 * DV = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira :
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira:
 
 US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
@@ -865,7 +861,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira :
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira:
 
 US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
@@ -1261,9 +1257,9 @@ PRESUPUESTO DE OBRA LPUNO-004-AMDC-043-2025
 
 Financiado con Fondos Municipales
 
-PROYECTO :
+PROYECTO:
 
-CONSERVACION DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVES DE RECICLADO DE PAVIMENTO ASFALTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACION DE NUEVA CARPETA EN UN SOLO PASO ASF-REC-0002 UBICADO EN :
+CONSERVACION DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVES DE RECICLADO DE PAVIMENTO ASFALTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACION DE NUEVA CARPETA EN UN SOLO PASO ASF-REC-0002 UBICADO EN:
 
 Municipio del Distrito Central, Francisco Morazán Item DESCRIPCIÓN Amplus Ingeniería, S.A. de C.V.
 
@@ -1285,19 +1281,13 @@ m. 50,227.50 L 120.45 L 6,049,902.38 A.9 Flecha con pintura termoplástica en un
 
 2. “CONTRATO
 
-No.
-
-0822/GLA/AMDC/2025.-
+No. 0822/GLA/AMDC/2025.-
 
 CÓDIGO No.EME-0009 Estabilización de talud mediante la conformación de bermas y control de escorrentías superficiales col. Villa nueva, sector 7B, Tegucigalpa M.D.C.” Por un monto de TREINTA Y SIETE MILLONES NOVECIENTOS SIETE MIL CUATROCIENTOS SETENTA Y TRES LEMPIRAS CON OCHENTA Y OCHO CENTAVOS. (L.37,907,473.88).
 
-Unidad 150.00 L 24,374.84 L 3,656,226.00 Sub Total L 279,162,392.27 Administración Delegada (5%) L 13,958,119.61 Cláusula Escalatoria (2%) L 5,583,247.85 TOTAL L 298,703,759.73 CONTRATO No. 0822/GLA/AMDC/2025.- CÓDIGO No. EME-0009 “ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA M.D.C.” LICITACIÓN PÚBLICA NACIONAL LPN No. CDE-015-AMDC-098-2024 Contratación mediante el acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No.
+Unidad 150.00 L 24,374.84 L 3,656,226.00 Sub Total L 279,162,392.27 Administración Delegada (5%) L 13,958,119.61 Cláusula Escalatoria (2%) L 5,583,247.85 TOTAL L 298,703,759.73 CONTRATO No. 0822/GLA/AMDC/2025.- CÓDIGO No. EME-0009 “ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA M.D.C.” LICITACIÓN PÚBLICA NACIONAL LPN No. CDE-015-AMDC-098-2024 Contratación mediante el acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
-032-2024.
-
-Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y la señora TANIA YARLENE MURILLO LANZA, de Nacionalidad hondureña, Mayor de edad, Documento Nacional de Identificación No.
-
-0801-1976-03641 del domicilio de Tegucigalpa, M.D.C., en su condición de Gerente General, de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 198 de fecha 07 de Mayo del año 2010; Autorizado por el Abogado y Notario Carlos Alfonso Castro Martínez e inscrito bajo el No. 5874, Matrícula: 2514871 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien para los efectos de este contrato se denominará EL CONTRATISTA. Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de el se deriven, convienen en suscribir el presente Contrato para el proyecto denominado “ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA M.D.C.”.- CÓDIGO No. EME-0009 Contratación Directa de Emergencia No. CDE-015-AMDC-098-2024.
+Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y la señora TANIA YARLENE MURILLO LANZA, de Nacionalidad hondureña, Mayor de edad, Documento Nacional de Identificación No. 0801-1976-03641 del domicilio de Tegucigalpa, M.D.C., en su condición de Gerente General, de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 198 de fecha 07 de Mayo del año 2010; Autorizado por el Abogado y Notario Carlos Alfonso Castro Martínez e inscrito bajo el No. 5874, Matrícula: 2514871 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien para los efectos de este contrato se denominará EL CONTRATISTA. Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de el se deriven, convienen en suscribir el presente Contrato para el proyecto denominado “ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA M.D.C.”.- CÓDIGO No. EME-0009 Contratación Directa de Emergencia No. CDE-015-AMDC-098-2024.
 
 Contrato que se regirá por las cláusulas y condiciones legales siguientes:
 
@@ -1411,9 +1401,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO, DECRETO No.
-
-4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLAUSULA DÉCIMA TERCERA: «CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -1951,7 +1939,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -2009,7 +1997,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira :
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira:
 
 US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
@@ -2063,7 +2051,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -2459,7 +2447,7 @@ GENERALES DEL PROYECTO
 
 CONTRATO No. 3391/GLA/AMDC/2025.-CÓDIGO
 
-№ ASF-REC-0003 “SUPERVISIÓN DE CONSERVACIÓN DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVÉS DE RECICLADO DE PAVIMENTO ASFÁLTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACIÓN DE NUEVA CARPETA EN UN SOLO PASO” Concurso Público Nacional CPuNO-004-AMDC-044-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001- GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y MANUEL ENRIQUE FLORES PEÑALBA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1970- 03820 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada GEOCONSULT, S.A DE C.V., Representación que se acredita mediante Instrumento Público N° 26 de fecha 04 de agosto del año 2008; Autorizado por el Abogado y Notario Marco Vinicio Zuniga Medrano e inscrito bajo N° 89, Tomo N° 710 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE CONSERVACIÓN DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVÉS DE RECICLADO DE PAVIMENTO ASFÁLTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACIÓN DE NUEVA CARPETA EN UN SOLO PASO”.- Concurso Público Nacional No. CPuNO-004-AMDC-044-2025; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+№ ASF-REC-0003 “SUPERVISIÓN DE CONSERVACIÓN DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVÉS DE RECICLADO DE PAVIMENTO ASFÁLTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACIÓN DE NUEVA CARPETA EN UN SOLO PASO” Concurso Público Nacional CPuNO-004-AMDC-044-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001- GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y MANUEL ENRIQUE FLORES PEÑALBA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1970-03820 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada GEOCONSULT, S.A DE C.V., Representación que se acredita mediante Instrumento Público N° 26 de fecha 04 de agosto del año 2008; Autorizado por el Abogado y Notario Marco Vinicio Zuniga Medrano e inscrito bajo N° 89, Tomo N° 710 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE CONSERVACIÓN DE LA RED VIAL DEL MUNICIPIO DEL DISTRITO CENTRAL A TRAVÉS DE RECICLADO DE PAVIMENTO ASFÁLTICO EN SITIO POR MEDIO DE AIRE CALIENTE Y COLOCACIÓN DE NUEVA CARPETA EN UN SOLO PASO”.- Concurso Público Nacional No. CPuNO-004-AMDC-044-2025; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -2509,7 +2497,7 @@ A la inhabilitación para contratar con el Estado, sin perjuicio de las responsa
 
 CLÁUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarara de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagara al Órgano Contratante por daños y perjuicios. ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -2857,7 +2845,7 @@ El CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras. La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de Incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -3179,11 +3167,11 @@ La A.M.D.C., de acuerdo a lo establecido en el Artículo 120 de las Disposicione
 
 7. Ingeniero de Costos y Presupuesto (no será evaluado)
 
-8. Ingeniero Especialista Ambiental Fotografías No.1 Actividad: Vista del Bulevar Centroamérica frente a Reasa Fecha:
+8. Ingeniero Especialista Ambiental Fotografías No. 1 Actividad: Vista del Bulevar Centroamérica frente a Reasa Fecha:
 
-06/2025 No.2 Actividad: Vista del Bulevar en la Colonia Miraflores Fecha:
+06/2025 No. 2 Actividad: Vista del Bulevar en la Colonia Miraflores Fecha:
 
-06/2025 No.3 Actividad: Vista de los baches en las calles que se requiere No.4 Actividad: Vista de las calles dañadas Fecha:
+06/2025 No. 3 Actividad: Vista de los baches en las calles que se requiere No. 4 Actividad: Vista de las calles dañadas Fecha:
 
 06/2025
 
@@ -3193,11 +3181,9 @@ IV. Croquis de Ubicación Principales Bulevares, Calles y Avenidas en las Ciudad
 
 CONTRATO No. 1646/GLA/AMDC/2025.-
 
-CODIGO № EME-0012 “SUPERVISIÓN DE LAS OBRAS DE ESTABILIZACIÓN Y CONTROL DE ESCORRENTÍAS DE AGUAS SUPERFICIALES Y SUBTERRÁNEAS EN COLONIAS GUILLÉN Y NUEVA SANTA ROSA” Contratación Directa de Emergencia CDE-012-AMDC-095-2024 Mediante el acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No.
+CODIGO № EME-0012 “SUPERVISIÓN DE LAS OBRAS DE ESTABILIZACIÓN Y CONTROL DE ESCORRENTÍAS DE AGUAS SUPERFICIALES Y SUBTERRÁNEAS EN COLONIAS GUILLÉN Y NUEVA SANTA ROSA” Contratación Directa de Emergencia CDE-012-AMDC-095-2024 Mediante el acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
-032-2024.
-
-Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001- GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ROBERTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Cononsultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LAS OBRAS DE ESTABILIZACIÓN Y CONTROL DE ESCORRENTÍAS DE AGUAS SUPERFICIALES Y SUBTERRÁNEAS EN COLONIAS GUILLÉN Y NUEVA SANTA ROSA”.- Contratación Directa de Emergencia No CDE-012-AMDC-095-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001- GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ROBERTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Cononsultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LAS OBRAS DE ESTABILIZACIÓN Y CONTROL DE ESCORRENTÍAS DE AGUAS SUPERFICIALES Y SUBTERRÁNEAS EN COLONIAS GUILLÉN Y NUEVA SANTA ROSA”.- Contratación Directa de Emergencia No CDE-012-AMDC-095-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -3251,7 +3237,7 @@ i. A la inhabilitación para contratar con el Estado, sin perjuicio de las respo
 
 CLAUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO., DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarara de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -3587,7 +3573,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras.- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C., siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -3649,7 +3635,7 @@ CROQUIS DE UBICACIÓN
 
 Coordenadas UTM: 479884.18 m E, 1560318.69 m N
 
-1.4 Fotografías No.1 Actividad: Trabajos de campo realizados en la zona de No.2 Actividad: Ubicación de Inclinómetros en la zona de estudio, No.3 Actividad: Líneas de Perfiles topográficos, Col. Guillen No.4 Actividad: Se observa la actualidad de la zona del deslizamiento en las Col La Guillen y Col. Nueva Santa Rosa.
+1.4 Fotografías No. 1 Actividad: Trabajos de campo realizados en la zona de No. 2 Actividad: Ubicación de Inclinómetros en la zona de estudio, No. 3 Actividad: Líneas de Perfiles topográficos, Col. Guillen No. 4 Actividad: Se observa la actualidad de la zona del deslizamiento en las Col La Guillen y Col. Nueva Santa Rosa.
 
 1.5 Objetivos Generales del Proyecto Construcción de obras de contramedida para la estabilización del deslizamiento.
 
@@ -4043,9 +4029,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO, DECRETO No.
-
-4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA: «CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -4575,7 +4559,7 @@ CGC 1.1 (q) El Contratante es La Alcaldía Municipal del Distrito Central El rep
 
 CGC 1.1 (bb) La Fecha de Inicio es máximo diez (10) días después de la orden de inicio.
 
-CGC 1.1 (ff) En base a lo expuesto en los estudios realizados por los especialistas de JICA, las obras están enfocadas a la estabilización de los diferentes bloques de deslizamiento en las colonias Guillen (LG-1, LG-2) que son los bloques de mayor magnitud y Nueva Santa Rosa con bloques deslizamientos de menor magnitud (NSR-1, NSR- 2, NSR-3), (Ver Anexo).
+CGC 1.1 (ff) En base a lo expuesto en los estudios realizados por los especialistas de JICA, las obras están enfocadas a la estabilización de los diferentes bloques de deslizamiento en las colonias Guillen (LG-1, LG-2) que son los bloques de mayor magnitud y Nueva Santa Rosa con bloques deslizamientos de menor magnitud (NSR-1, NSR-2, NSR-3), (Ver Anexo).
 
 Las obras para ejecutar son: x Control de aguas subterráneas, con el objetivo de drenar el agua subterránea el cual es el principal desencadenante de los bloques de deslizamientos, mediante la perforación de drenajes horizontales. x Control de aguas superficiales, con el objetivo de drenar el agua superficial dentro de los bloques y evitar la infiltración detrás del escarpe mediante la construcción de cunetas y canales de diferentes secciones hidráulicas. x Muros de retención, con el objetivo de retener la parte inferior de los diferentes bloques de deslizamiento mediante la instalación de muros de gaviones con permeabilidad para drenar el agua de los bloques de deslizamiento y que sean flexibles contra la deformación.
 
@@ -4663,7 +4647,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -4719,7 +4703,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 * DV = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira :
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira:
 
 US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
@@ -4771,7 +4755,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira :
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira:
 
 US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 

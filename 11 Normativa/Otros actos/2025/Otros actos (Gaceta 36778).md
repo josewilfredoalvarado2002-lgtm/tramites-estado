@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250228-36778/download"
 extraido: "2026-11-12"
-huella: "6634f802d25162d7"
+huella: "8c221085d32bbff8"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,13 +35,9 @@ CONSIDERANDO: Que la Constitución de la República establece que la titularidad
 
 CONSIDERANDO: Que la Ley General de la Administración Pública dispone que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada y en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros (artículo 11).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2015 publicado en el Diario Oficial “La Gaceta” en fecha 07 de septiembre de 2015, edición número 3,828, se creó el Sistema Nacional de Emergencia Nueve, Uno, Uno (911), como un servicio público y de seguridad nacional, bajo la coordinación jerárquica del Consejo Nacional de Defensa y Seguridad (artículo 1).
 
-58-2015 publicado en el Diario Oficial “La Gaceta” en fecha 07 de septiembre de 2015, edición número 3,828, se creó el Sistema Nacional de Emergencia Nueve, Uno, Uno (911), como un servicio público y de seguridad nacional, bajo la coordinación jerárquica del Consejo Nacional de Defensa y Seguridad (artículo 1).
-
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-49-2021 publicado en el Diario Oficial “La Gaceta” en fecha 02 de agosto de 2021, edición número 35,675, se adscribió la Dirección Nacional del Sistema Nacional de Emergencia Nueve, Uno, Uno (911), a la Secretaría de Estado en el Despacho de la Presidencia (artículo 1).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 49-2021 publicado en el Diario Oficial “La Gaceta” en fecha 02 de agosto de 2021, edición número 35,675, se adscribió la Dirección Nacional del Sistema Nacional de Emergencia Nueve, Uno, Uno (911), a la Secretaría de Estado en el Despacho de la Presidencia (artículo 1).
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que el Poder Ejecutivo puede intervenir total o parcialmente, todos los entes, órganos o unidades de la Administración Pública que operen con pérdidas, no cumplan con sus funciones o no presten adecuadamente los servicios por los cuales fueron creados. De proceder la intervención, estará a cargo de una Comisión Interventora que se encargará de la administración de la entidad, órgano o unidad intervenida y realizará una evaluación de la misma, con la Asesoría del Tribunal Superior de Cuentas; dicha Comisión Interventora tiene las facultades que les correspondan a los administradores de las mismas ejerciendo su representación legal y tendrá las potestades necesarias para establecer las recomendaciones oportunas, que permitan a los Poderes del Estado tomar las acciones pertinentes y oportunas, en el ámbito de sus atribuciones constitucionales (artículos 98, 99 y 100).
 
@@ -57,7 +53,7 @@ CONSIDERANDO: Que ante la grave situación de inseguridad en el país, la Presid
 
 CONSIDERANDO: Que debido a la complejidad de la situación institucional, resulta necesario prorrogar el plazo de intervención de la Dirección Nacional del Sistema Nacional de Emergencia nueve, uno, uno (911), con el objeto de garantizar la finalización de algunos procesos administrativos, legales y financieros dentro del plan de trabajo de la Comisión.
 
-POR TANTO, En uso de las facultades legales establecidas en los artículos 235, 245 numerales 2 y 11 de la Constitución de la República; artículos 11, 98, 99, 100, 116, 117 y 119 de la Ley General de la Administración Pública; Decreto Legislativo No. 58- 2015; Decreto Legislativo No. 49-2021; Decretos Ejecutivos número PCM 11-2023; PCM 07-2024; PCM 08-2025; y, demás aplicables.
+POR TANTO, En uso de las facultades legales establecidas en los artículos 235, 245 numerales 2 y 11 de la Constitución de la República; artículos 11, 98, 99, 100, 116, 117 y 119 de la Ley General de la Administración Pública; Decreto Legislativo No. 58-2015; Decreto Legislativo No. 49-2021; Decretos Ejecutivos número PCM 11-2023; PCM 07-2024; PCM 08-2025; y, demás aplicables.
 
 DECRETA:
 

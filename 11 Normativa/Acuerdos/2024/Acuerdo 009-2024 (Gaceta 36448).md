@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Números 005-2024, 006-2024, 007-2024, 008-2024, 009-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240131-36448/download"
 extraido: "2026-11-14"
-huella: "fb6def0c9726ea26"
+huella: "4a033b4c9e94b02c"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 009-2024
@@ -35,7 +35,7 @@ Que la Presidenta de la República, tiene a su cargo la suprema dirección y coo
 
 CONSIDERANDO:
 
-Que mediante Acuerdo Ejecutivo No.10-2024 de fecha 3 de enero de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARLON DAVID OCHOA MARTÍNEZ.
+Que mediante Acuerdo Ejecutivo No. 10-2024 de fecha 3 de enero de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARLON DAVID OCHOA MARTÍNEZ.
 
 CONSIDERANDO:
 

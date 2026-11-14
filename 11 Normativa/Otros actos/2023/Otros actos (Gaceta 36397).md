@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdos Ejecutivos C.G. Nos. 034-2023, 035-2023, Acuerdos C.G. No. 036-2023, 037-2023, 038-2023, 039-2023, 040-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231130-36397/download"
 extraido: "2026-11-14"
-huella: "605b9d6ed3e1ca48"
+huella: "e33a2e1ffbcf0e9d"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Ejecutivos C.G. Nos. 034-2023, 035-2023, Acuerdos C.G. No. 036-2023, 037-2023, 038-2023, 039-2023, 040-2023
@@ -123,9 +123,7 @@ POR TANTO
 
 En aplicación a los Artículos 245 numerales 11 y 36, 274 y 290 de la Constitución de la República; Artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas;
 
-Artículo 57 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta N°.
-
-006-2023, emitida en fecha 25 de octubre de 2023 y Dictamen D=239(C-1)2023 de fecha 26 de octubre de 2023.
+Artículo 57 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta N°. 006-2023, emitida en fecha 25 de octubre de 2023 y Dictamen D=239(C-1)2023 de fecha 26 de octubre de 2023.
 
 ACUERDA
 
@@ -1439,7 +1437,7 @@ CONSIDERANDO: Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armada
 
 “REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS: … a) Haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, mediante Acta Nº. 07-2023 de fecha 27 de octubre de 2023, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado JOSE MANUEL ZELAYA ROSALES, para que por su medio proponga a la señora Presidenta Constitucional de la República I R I S X I O M A R A C A S T R O SARMIENTO, confiera el Ascenso al grado de Sub Teniente o su equivalente de las Armas, Cuerpos y Servicios, a doscientos veintiséis (226), Alféreces y Guardiamarinas egresados de las diferentes Academias Militares de nuestras Fuerzas Armadas, en vista de que cumplen con los requisitos exigidos por las Leyes y Reglamentos Militares.
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, mediante Acta Nº. 07-2023 de fecha 27 de octubre de 2023, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado JOSE MANUEL ZELAYA ROSALES, para que por su medio proponga a la señora Presidenta Constitucional de la República IRIS XIOMARA CASTRO SARMIENTO, confiera el Ascenso al grado de Sub Teniente o su equivalente de las Armas, Cuerpos y Servicios, a doscientos veintiséis (226), Alféreces y Guardiamarinas egresados de las diferentes Academias Militares de nuestras Fuerzas Armadas, en vista de que cumplen con los requisitos exigidos por las Leyes y Reglamentos Militares.
 
 POR TANTO;
 

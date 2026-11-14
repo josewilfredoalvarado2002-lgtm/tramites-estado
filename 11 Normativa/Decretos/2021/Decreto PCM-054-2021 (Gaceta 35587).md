@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-054-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210430-35587/download"
 extraido: "2026-11-14"
-huella: "86f2d5cccecc3590"
+huella: "24c4bbd519c6e075"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-054-2021
@@ -41,7 +41,7 @@ El Presidente de la República en el ejercicio de sus funciones, podrá actuar p
 
 CONSIDERANDO: Que debido a la restricción de algunas de las Garantías Constitucionales y en consecuencia, de la suspensión del funcionamiento del servicio de transporte público, establecida mediante Decreto Ejecutivo Número PCM-021-2020, publicado en fecha 16 de marzo del año 2020 en “La Gaceta” Diario Oficial de la República de Honduras, en su Edición No. 35,201, a causa de la Emergencia Humanitaria y Sanitaria decretada por la Pandemia de la COVID-19, resulta necesaria la reactivación del Transporte Público Terrestre de Personas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-046-2021, publicado en el Diario Oficial “La Gaceta” de fecha 20 de abril de 2021, en su Edición No.35,577, se aprobó el PROYECTO DE REACTIVACIÓN DEL FUNCIONAMIENTO DEL SERVICIO DE TRANSPORTE TERRESTRE PÚBLICO DE PASAJEROS, por medio del cual se otorgará un BENEFICIO EXCEPCIONAL dirigido para todos aquellos Concesionarios del Transporte que se han visto afectados por la suspensión del mismo a causa de la Emergencia Humanitaria y Sanitaria decretada por la Pandemia de la COVID-19 y que no han recibido pagos o no se les completaron oportunamente en concepto de descuento en combustible aprobado mediante Decreto Ejecutivo Número PCM-065-2018.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-046-2021, publicado en el Diario Oficial “La Gaceta” de fecha 20 de abril de 2021, en su Edición No. 35,577, se aprobó el PROYECTO DE REACTIVACIÓN DEL FUNCIONAMIENTO DEL SERVICIO DE TRANSPORTE TERRESTRE PÚBLICO DE PASAJEROS, por medio del cual se otorgará un BENEFICIO EXCEPCIONAL dirigido para todos aquellos Concesionarios del Transporte que se han visto afectados por la suspensión del mismo a causa de la Emergencia Humanitaria y Sanitaria decretada por la Pandemia de la COVID-19 y que no han recibido pagos o no se les completaron oportunamente en concepto de descuento en combustible aprobado mediante Decreto Ejecutivo Número PCM-065-2018.
 
 CONSIDERANDO: Que los Artículos 2 literal b), 3 y 4 del Decreto Ejecutivo Número PCM-046-2021 del PROYECTO DE REACTIVACIÓN DEL FUNCIONAMIENTO DEL SERVICIO DE TRANSPORTE TERRESTRE PÚBLICO DE PASAJEROS, requieren una reforma que aporte mayor claridad y efectividad en el otorgamiento de este nuevo beneficio gubernamental en favor del transporte terrestre público de pasajeros, adaptando este nuevo beneficio económico de conformidad al tipo específico de unidades vehiculares y sus capacidades que en la práctica operan en el país, sin que estas mejores categorizaciones de tipología vehicular de conformidad a sus reales capacidades de pasajeros, represente alteración en cuanto al beneficio económico originalmente asignado.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240806-36605/download"
 extraido: "2026-11-14"
-huella: "d69ec2f9728f6ffc"
+huella: "6738955ace38cb80"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -49,7 +49,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 031-2014 publicado en e
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 063-2014 publicado en el Diario Oficial “La Gaceta” en fecha 29 de septiembre del 2014, edición número 33,543 se reformaron los artículos 1, 4 y 5 del Decreto Ejecutivo número PCM 031-2014 publicado en el Diario Oficial “La Gaceta” en fecha 2 de julio del 2014, reformas que contienen la creación del Instituto Nacional de Migración (INM), atribuciones del Director del Instituto, así como su operación, administración y funcionamiento (artículos 1, 4 y 5).
 
-POR TANTO, En uso de las facultades contenidas en los artículos 35, 59, 235, 245 numerales 2) y 11) de la Constitución de la República; artículos 11, 12, 33, 116, 117 y 119 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 031- 2014 del 30 de junio de 2014, reformado mediante Decreto Ejecutivo número PCM 063-2014; artículo 8, numeral 20) de la Ley de Migración y Extranjería contenida en el Decreto Legislativo No.208-2003; y, demás aplicable.
+POR TANTO, En uso de las facultades contenidas en los artículos 35, 59, 235, 245 numerales 2) y 11) de la Constitución de la República; artículos 11, 12, 33, 116, 117 y 119 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 031-2014 del 30 de junio de 2014, reformado mediante Decreto Ejecutivo número PCM 063-2014; artículo 8, numeral 20) de la Ley de Migración y Extranjería contenida en el Decreto Legislativo No. 208-2003; y, demás aplicable.
 
 DECRETA:
 

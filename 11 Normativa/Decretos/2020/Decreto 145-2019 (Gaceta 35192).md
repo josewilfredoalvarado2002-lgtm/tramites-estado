@@ -8,10 +8,10 @@ gaceta_numero: 35192
 gaceta_fecha: "2020-03-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)|La Gaceta 35192]]"
 paginas: "A. 7 - 17"
-sumario: "Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019"
+sumario: "Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200305-35192/download"
 extraido: "2026-11-14"
-huella: "1e7569d229b26f88"
+huella: "33905368777c0b6f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 145-2019
@@ -23,7 +23,7 @@ huella: "1e7569d229b26f88"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)\|La Gaceta 35192]] del 2020-03-05 |
 | Páginas | A. 7 - 17 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019 |
 
 ## Texto
 
@@ -49,13 +49,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Reformar los artículos: 2; 5 numeral 6); 8; 16 numeral 1); 25; 30; 32; 38; 41; 42; 43; 44 párrafo primero; 45 numeral 9); 50; 51; 53; 57; 59; 60; 72; 75; 77; 79; 80; 85: 86;
 
-89; 95; 100; 101; 103; 105; y, 106, así como la denominación de la Sección Segunda del Capítulo II, del Título IV de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS, contenida en el Decreto No.10-2002-E, de fecha 5 de diciembre de 2002, los cuales se deben leer de la manera siguiente:
+89; 95; 100; 101; 103; 105; y, 106, así como la denominación de la Sección Segunda del Capítulo II, del Título IV de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS, contenida en el Decreto No. 10-2002-E, de fecha 5 de diciembre de 2002, los cuales se deben leer de la manera siguiente:
 
 #### Artículo 2
 
@@ -329,7 +329,7 @@ FISCALIZACIONES. Concluida una intervención fiscalizadora, sus resultados se co
 
 Los afectados pueden ejercer el término de prueba, el cual es de veinte (20) días hábiles comunes para la proposición y evacuación de los medios probatorios.
 
-A RT Í C U L O 8 6 . - R E S O L U C I Ó N D E L A S
+A RT Í C U L O 8 6 . - RESOLUCIÓN DE LAS
 
 FISCALIZACIONES. Expirado el plazo de la Impugnación o agotado el término probatorio señalado en el Artículo anterior y una vez emitidos los dictámenes correspondientes; el Pleno del Tribunal dentro del término de noventa (90) días hábiles, debe dictar la Resolución Definitiva, en la que debe confirmar o desvanece la responsabilidad o reparo contenida en el Pliego.
 
@@ -357,7 +357,7 @@ Cuando la notificación deba realizarse en el extranjero, se debe efectuar por c
 
 ARTÍCULO 95.- ACCIÓN CIVIL. Firme que sea la resolución, que tiene el carácter de título ejecutivo, el Tribunal debe proceder a trasladar el respectivo expediente a la Procuraduría General de la República (PGR), para que inicie las acciones civiles que sean procedentes. Se debe cobrar el interés legal que se aplique en el Sistema Financiero Nacional, hasta el momento del pago efectuado por el sujeto con responsabilidad civil y desde la fecha en que la resolución se tornó ejecutoriada.
 
-A RT Í C U L O 1 0 0 . - R E S P O N S A B I L I D A D E S
+A RT Í C U L O 1 0 0 . - RESPONSABILIDADES
 
 ADMINISTRATIVAS. Sin perjuicio de la responsabilidad civil o penal a que hubiere lugar, deben incurrir en responsabilidad administrativa, los servidores públicos o particulares que realicen las infracciones siguientes:
 

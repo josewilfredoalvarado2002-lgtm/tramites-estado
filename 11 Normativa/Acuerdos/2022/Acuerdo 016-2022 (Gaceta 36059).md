@@ -11,7 +11,7 @@ paginas: "A. 30 - 32"
 sumario: "Acuerdo No. 016-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "d3f8f20d93194ba8"
+huella: "2f74da0312c8278d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 016-2022
@@ -37,9 +37,7 @@ CONSIDERANDO: Que la participación coordinada del sector privado y social, en e
 
 CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre, establece como uno de los principios básicos la obtención de bienes y servicios ambientales que se deriven del manejo sostenible de los recursos forestales y de las áreas protegidas y de la vida silvestre.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-50-2017 se aprobó el contrato de Préstamo No. 3878/BL- 110, suscrito el 24 de abril de 2017 y publicado en el Diario Oficial La Gaceta en.fecha 07 de agosto de 2017, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario, del financiamiento de hasta un monto de Veinticinco Millones de Dólares de los Estados Unidos de América (US$ 25,000,000.00), fondos destinados a financiar la ejecución de Proyecto Manejo Sostenible de Bosques, Asimismo, el 24 de noviembre del 2020 fue suscrito entre el Gobierno de Honduras y el BID el Contrato de Préstamo 4926/GN-HO y el Convenio Financiero GRT/ GN-17771-HO, los cuales suman la cantidad de Treinta y cinco Millones de Dólares de los Estados Unidos de América (US$ 35,000,000.00), fondos destinados a financiar la ejecución del Programa de Restauración de Bosques Resilientes al Clima y Silvicultura para la Sostembilidad de los Servicios Ecosistémicos relacionados con el agua, mediante contrato de préstamo suscrito el 24 de noviembre del 2020 respectivamente.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 50-2017 se aprobó el contrato de Préstamo No. 3878/BL-110, suscrito el 24 de abril de 2017 y publicado en el Diario Oficial La Gaceta en.fecha 07 de agosto de 2017, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario, del financiamiento de hasta un monto de Veinticinco Millones de Dólares de los Estados Unidos de América (US$ 25,000,000.00), fondos destinados a financiar la ejecución de Proyecto Manejo Sostenible de Bosques, Asimismo, el 24 de noviembre del 2020 fue suscrito entre el Gobierno de Honduras y el BID el Contrato de Préstamo 4926/GN-HO y el Convenio Financiero GRT/ GN-17771-HO, los cuales suman la cantidad de Treinta y cinco Millones de Dólares de los Estados Unidos de América (US$ 35,000,000.00), fondos destinados a financiar la ejecución del Programa de Restauración de Bosques Resilientes al Clima y Silvicultura para la Sostembilidad de los Servicios Ecosistémicos relacionados con el agua, mediante contrato de préstamo suscrito el 24 de noviembre del 2020 respectivamente.
 
 CONSIDERANDO: Que el Gobierno de Honduras a través AEPAS-H con el apoyo técnico del ICF se encuentran ejecutando operaciones simultáneas para la implementación de un Mecanismo de Incentivos para la Restauración de Bosques Privados de Pino afectados por la plaga del gorgojo en Honduras para un área de 17,144 hectáreas, el cual tiene como objetivo el restaurar y proteger las áreas con fines ecosistémicos o productivos ubicados en bosques privados de pino afectados por la plaga del gorgojo en los departamentos de: Francisco Morazán, Comayagua, El Paraíso, Olancho, Yoro, Cortés y Choluteca.
 
@@ -47,7 +45,7 @@ CONSIDERANDO: Que obra agregada al documento de los Lineamientos para la elabora
 
 POR TANTO:
 
-El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que le confiere la Ley y en aplicación de los artículos 340 tercer párrafo de la Constitución de República; artículos; 1, 116, 118, 119 y 122, de la Ley General de Administración Pública; artículos 1, 2, 3, 5, 6, 11, 17, 18, 20, 35, 39, 43, 45, 47, 48, 49, 68, 72, 73, 132, 136, 138, 139, 148, 149, 151, 208 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98- 2007): y artículos 1, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo.
+El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que le confiere la Ley y en aplicación de los artículos 340 tercer párrafo de la Constitución de República; artículos; 1, 116, 118, 119 y 122, de la Ley General de Administración Pública; artículos 1, 2, 3, 5, 6, 11, 17, 18, 20, 35, 39, 43, 45, 47, 48, 49, 68, 72, 73, 132, 136, 138, 139, 148, 149, 151, 208 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98-2007): y artículos 1, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

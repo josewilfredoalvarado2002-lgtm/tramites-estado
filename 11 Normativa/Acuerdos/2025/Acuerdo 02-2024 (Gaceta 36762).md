@@ -11,7 +11,7 @@ paginas: "A. 1 - 25"
 sumario: "Acuerdo No. 02/2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250210-36762/download"
 extraido: "2026-11-13"
-huella: "fc53c8283415605b"
+huella: "7cc912e522470ac2"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 02/2024
@@ -27,31 +27,31 @@ huella: "fc53c8283415605b"
 
 ## Texto
 
-La infrascrita Secretaria del Directorio a.i. del Banco Central de Honduras, por este medio CERTIFICA el Punto No.3.7 del Acta de la Sesión No.4125 del 27 de diciembre de 2024, el cual contiene el Acuerdo No.02/2024, que literalmente dice:
+La infrascrita Secretaria del Directorio a.i. del Banco Central de Honduras, por este medio CERTIFICA el Punto No. 3.7 del Acta de la Sesión No. 4125 del 27 de diciembre de 2024, el cual contiene el Acuerdo No. 02/2024, que literalmente dice:
 
 «3.7… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente:
 
-ACUERDO No.02/2024.- Sesión No.4125 del 27 de diciembre de 2024.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+ACUERDO No. 02/2024.- Sesión No. 4125 del 27 de diciembre de 2024.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que la Constitución de la República y la Ley del Banco Central de Honduras establecen que le corresponde al Banco Central de Honduras (BCH) formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país y organizar y reglamentar el funcionamiento del sistema de pagos de conformidad con las disposiciones legales vigentes.
 
 CONSIDERANDO:
 
-Que el Directorio del BCH, mediante Acuerdo No.04/2021 del 20 de mayo de 2021, reformó el Reglamento de Negociación de Valores Gubernamentales.
+Que el Directorio del BCH, mediante Acuerdo No. 04/2021 del 20 de mayo de 2021, reformó el Reglamento de Negociación de Valores Gubernamentales.
 
 CONSIDERANDO:
 
-Que la Comisión de Operaciones de Mercado Abierto (COMA), según Acta de Sesión Ordinaria No.213/26-12- 2024 celebrada el 26 de diciembre de 2024, aprobó por unanimidad de votos las modificaciones al Reglamento de Negociación de Valores con el propósito de realizar subastas de reporto de valores.
+Que la Comisión de Operaciones de Mercado Abierto (COMA), según Acta de Sesión Ordinaria No. 213/26-12-2024 celebrada el 26 de diciembre de 2024, aprobó por unanimidad de votos las modificaciones al Reglamento de Negociación de Valores con el propósito de realizar subastas de reporto de valores.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 2, 6, 16, incisos a), b) y m) y 43 de la Ley del Banco Central de Honduras y 32 de la Ley de Procedimiento Administrativo,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los artículos 22 y 36 del Reglamento de Negociación de Valores Gubernamentales, contenidos en el Acuerdo No.04/2021 emitido por este Directorio el 20 de mayo de 2021, los cuales en adelante se leerán de la manera siguiente:
+Modificar los artículos 22 y 36 del Reglamento de Negociación de Valores Gubernamentales, contenidos en el Acuerdo No. 04/2021 emitido por este Directorio el 20 de mayo de 2021, los cuales en adelante se leerán de la manera siguiente:
 
 “ARTÍCULO 22.
 
@@ -151,7 +151,7 @@ Ofertas a Tasa de Interés Fija (Precio Fijo): Cuando los inversionistas ofrecen
 
 Ofertas a Tasa de Interés Múltiple (Precio Múltiple): Cuando los inversionistas ofrecen el monto a negociar y la tasa de interés o el precio que desean obtener en la transacción.
 
-P e r m u t a d e Va l o re s :
+Permuta de Va l o re s:
 
 Negociación en la cual los inversionistas intercambian valores con el emisor, antes de su vencimiento, por otros con distintas condiciones financieras.
 

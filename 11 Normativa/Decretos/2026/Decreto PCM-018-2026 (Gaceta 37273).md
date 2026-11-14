@@ -8,7 +8,7 @@ gaceta_numero: 37273
 gaceta_fecha: "2026-10-19"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)|La Gaceta 37273]]"
 paginas: "A. 1 - 11"
-sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026"
+sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261019-37273/download"
 extraido: "2026-11-09"
 huella: "004ff198730455a9"
@@ -23,7 +23,7 @@ huella: "004ff198730455a9"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)\|La Gaceta 37273]] del 2026-10-19 |
 | Páginas | A. 1 - 11 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026 |
 
 ## Texto
 

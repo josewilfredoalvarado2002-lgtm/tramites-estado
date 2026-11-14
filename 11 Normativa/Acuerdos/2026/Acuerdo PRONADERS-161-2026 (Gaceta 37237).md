@@ -11,7 +11,7 @@ paginas: "A. 18 - 24"
 sumario: "Acuerdo Ejecutivo No. PRONADERS-161-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260903-37237/download"
 extraido: "2026-11-09"
-huella: "bbd8c80c5c0cc876"
+huella: "af158b82a3202ce7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. PRONADERS-161-2026
@@ -53,9 +53,7 @@ CONSIDERANDO (8): Que en observancia de las disposiciones del Marco Rector del C
 
 CONSIDERANDO (9): Que es de interés público que los recursos destinados a la atención de las necesidades prioritarias de la población en situación de pobreza y vulnerabilidad sean otorgados mediante procedimientos transparentes, equitativos, objetivos y expeditos, sustentados en criterios técnicos y socioeconómicos, con mecanismos adecuados de seguimiento, comprobación y liquidación, en cumplimiento de la normativa nacional aplicable.
 
-CONSIDERANDO (10): Que el Artículo 169 de las Disposiciones Generales del Presupuesto de Ingresos y Egresos de la República, Decreto Legislativo No.
-
-62-2026, correspondiente al Ejercicio Fiscal 2026, Reformulado, establece que las ayudas sociales a favor de terceros, consignadas en el grupo de Transferencias (50000) a través de las instituciones públicas, deben ser aprobadas mediante un reglamento interno, en el cual se determine y especifique el tipo de ayuda a otorgar, los beneficiarios, los requisitos aplicables, los valores mínimos y máximos de las ayudas de acuerdo con las circunstancias del beneficiario y los mecanismos de liquidación correspondientes; por lo que resulta necesario establecer el presente Reglamento como instrumento normativo para regular la ejecución de los Fondos de Ayuda Social de PRONADERS, en observancia de dicha disposición.
+CONSIDERANDO (10): Que el Artículo 169 de las Disposiciones Generales del Presupuesto de Ingresos y Egresos de la República, Decreto Legislativo No. 62-2026, correspondiente al Ejercicio Fiscal 2026, Reformulado, establece que las ayudas sociales a favor de terceros, consignadas en el grupo de Transferencias (50000) a través de las instituciones públicas, deben ser aprobadas mediante un reglamento interno, en el cual se determine y especifique el tipo de ayuda a otorgar, los beneficiarios, los requisitos aplicables, los valores mínimos y máximos de las ayudas de acuerdo con las circunstancias del beneficiario y los mecanismos de liquidación correspondientes; por lo que resulta necesario establecer el presente Reglamento como instrumento normativo para regular la ejecución de los Fondos de Ayuda Social de PRONADERS, en observancia de dicha disposición.
 
 POR TANTO: En aplicación a lo que establecen los artículos 1, 59, 255, 321 de la Constitución de la República; 7, 33, 116, 118 y 119 de la Ley General de la Administración Pública y Decreto 137-2011 de la Ley del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS).
 

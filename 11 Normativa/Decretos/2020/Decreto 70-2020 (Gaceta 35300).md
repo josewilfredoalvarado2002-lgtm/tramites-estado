@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decretos Nos. 16-2020, 70-2020, 74-2020, 76-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200701-35300/download"
 extraido: "2026-11-14"
-huella: "10e4ceaa4817d79c"
+huella: "d7ac8342d7c70d03"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 70-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el derogado Artículo 117 de la Ley del Registro Nacional de l
 
 “Exoneración. El Registro Nacional de las Personas (RNP) queda exonerado del pago de toda clase de impuesto, tasas, sobretasas, derechos consulares, tanto nacionales como municipales, en todos los actos y contratos que realice o celebre, así como los bienes y servicios que adquiera”.
 
-CONSIDERANDO: Que el referido Artículo 117 de la Ley del Registro Nacional de las Personas (RNP) fue derogado mediante Decreto No.278-2013 de fecha 21 de Diciembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 30 de Diciembre de 2013, contentivo de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; sin embargo, al ser el Registro Nacional de las Personas (RNP), parte integral del Estado, estaría utilizando fondos del Estado, asignados a la institución a través del Presupuesto General de Ingresos y Egresos de la República, para pagar impuestos al mismo Estado a través del Servicio de Administración de Rentas (SAR), por lo que, el sacrificio fiscal por exoneración de impuestos, en este caso sería nulo para el Estado de Honduras y el Registro Nacional de las Personas (RNP), se encuentra en un proceso de reestructuración histórica y de suma importancia para la sociedad hondureña que requiere la adopción de dicha medida.
+CONSIDERANDO: Que el referido Artículo 117 de la Ley del Registro Nacional de las Personas (RNP) fue derogado mediante Decreto No. 278-2013 de fecha 21 de Diciembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 30 de Diciembre de 2013, contentivo de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; sin embargo, al ser el Registro Nacional de las Personas (RNP), parte integral del Estado, estaría utilizando fondos del Estado, asignados a la institución a través del Presupuesto General de Ingresos y Egresos de la República, para pagar impuestos al mismo Estado a través del Servicio de Administración de Rentas (SAR), por lo que, el sacrificio fiscal por exoneración de impuestos, en este caso sería nulo para el Estado de Honduras y el Registro Nacional de las Personas (RNP), se encuentra en un proceso de reestructuración histórica y de suma importancia para la sociedad hondureña que requiere la adopción de dicha medida.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

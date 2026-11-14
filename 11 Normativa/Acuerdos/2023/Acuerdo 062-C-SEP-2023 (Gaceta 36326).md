@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Números 062-C-SEP-2023, 114-SEP-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230905-36326/download"
 extraido: "2026-11-14"
-huella: "91d06692627eade0"
+huella: "7c0bfbd33dad1c98"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 062-C-SEP-2023
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 15 de mayo de 2023
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA, En uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo Número 3-2022, de fecha veintisiete de enero del año dos mil veintidós (27.01.2022).
 
-A C U E R D A:
+ACUERDA:
 
 1. Delegar en la ciudadana HEIDY WALESKA BARAHONA ALACHÁN, a partir del 15 de mayo del presente año, quien funge como Asesor de Asuntos Administrativos, Financieros y Legales de esta Secretaría de Estado, las funciones de Directora de la Dirección de Políticas Públicas y Atención a la Sociedad Civil, creada mediante Acuerdo Número 061- SEP-2023; funciones que serán adicionales al cargo que desempeña, sin percibir mayor remuneración, sino la presupuestada para la plaza en la cual fue nombrada.
 

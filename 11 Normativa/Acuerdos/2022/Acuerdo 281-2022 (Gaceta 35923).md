@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Ejecutivos Nos. 277-2022, 278-2022, 279-2022, 280-2022, 281-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220514-35923/download"
 extraido: "2026-11-14"
-huella: "4ce9e93d4f3e7930"
+huella: "0ef82d28b882976e"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 281-2022
@@ -29,7 +29,7 @@ huella: "4ce9e93d4f3e7930"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05- 2022.
+En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05-2022.
 
 ACUERDA:
 

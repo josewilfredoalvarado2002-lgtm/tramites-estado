@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Decretos Nos. 40-2024, 46-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240606-36553/download"
 extraido: "2026-11-14"
-huella: "55d4c7e83550b4d5"
+huella: "f3324e9e034fa463"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 40-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es importante que el Estado de Honduras cuente con datos confi
 
 CONSIDERANDO: Que es fundamental asegurar la representación continua de la sociedad civil en el Comité Nacional de Prevención contra la Tortura, Tratos Crueles o Inhumanos o Degradantes, incluso en los casos en que no se haya realizado oportunamente la elección de un nuevo representante en asamblea; y que esta medida se alinea con la recomendación emitida por el Comité contra la Tortura por lo tanto, se reconoce la importancia de esta reforma como una acción positiva que contribuye a la continuidad y eficacia del Comité Nacional en su labor de Prevención de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, asegurando así la participación activa y sostenida de la sociedad civil en este mecanismo.
 
-CONSIDERANDO: Que el Subcomité para la Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes (SPT), en el año 2013, enfatizó la importancia de cumplir a cabalidad con su mandato de acuerdo con el Artículo 19.c del Protocolo Facultativo y el Artículo 13, párrafo 9), del Decreto No.136-2008, recomendando la formulación proactiva de propuestas y observaciones acerca de la legislación vigente o de los Proyectos de Ley en el área de prevención de la tortura y otros malos tratos; y que, para lograr este objetivo, es necesario contar con una estrategia que permita identificar prioridades y hacer seguimiento de las observaciones que se realicen; por tanto, se reconoce la necesidad de fortalecer la legislación nacional en materia de prevención de la tortura y otros tratos o penas crueles, inhumanos o degradantes, asegurando la adecuación y armonización con los estándares internacionales y las recomendaciones de los órganos de tratados.
+CONSIDERANDO: Que el Subcomité para la Prevención de la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes (SPT), en el año 2013, enfatizó la importancia de cumplir a cabalidad con su mandato de acuerdo con el Artículo 19.c del Protocolo Facultativo y el Artículo 13, párrafo 9), del Decreto No. 136-2008, recomendando la formulación proactiva de propuestas y observaciones acerca de la legislación vigente o de los Proyectos de Ley en el área de prevención de la tortura y otros malos tratos; y que, para lograr este objetivo, es necesario contar con una estrategia que permita identificar prioridades y hacer seguimiento de las observaciones que se realicen; por tanto, se reconoce la necesidad de fortalecer la legislación nacional en materia de prevención de la tortura y otros tratos o penas crueles, inhumanos o degradantes, asegurando la adecuación y armonización con los estándares internacionales y las recomendaciones de los órganos de tratados.
 
 CONSIDERANDO: Que, de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 ARTÍCULO 1. -
 
-Reformar el Artículo 41 del Decreto Legislativo No.18-2017 del 30 de Mayo de 2017, publicado en el Diario Oficial “La Gaceta” No. 34,463 en fecha 10 de Octubre de 2017, contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, el que a partir de la vigencia de este Decreto deberá leerse de la manera siguiente:
+Reformar el Artículo 41 del Decreto Legislativo No. 18-2017 del 30 de Mayo de 2017, publicado en el Diario Oficial “La Gaceta” No. 34,463 en fecha 10 de Octubre de 2017, contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, el que a partir de la vigencia de este Decreto deberá leerse de la manera siguiente:
 
 “ARTÍCULO 41.- USO…
 
@@ -59,9 +59,9 @@ El… Reglamentariamente… Adicionalmente la Policía Nacional de oficio o cuan
 
 ARTÍCULO 2. -
 
-Reformar por adición del Decreto Legislativo No.18-2017, del 30 de Mayo de 2017, publicado en el Diario Oficial “La Gaceta” No.34,463 en fecha 10 de Octubre del 2017, contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, adicionando el Artículo 95-A, el que a partir de la vigencia de este Decreto deberá leerse en adelante así:
+Reformar por adición del Decreto Legislativo No. 18-2017, del 30 de Mayo de 2017, publicado en el Diario Oficial “La Gaceta” No. 34,463 en fecha 10 de Octubre del 2017, contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, adicionando el Artículo 95-A, el que a partir de la vigencia de este Decreto deberá leerse en adelante así:
 
-“ARTÍCULO 95-A.- Los Organismos q u e i n t e g r e n e l S i s t e m a d e Educación Policial deberán impartir obligatoriamente cursos y capacitaciones dirigidos a los miembros de la carrera policial, que observan los lineamientos siguientes:
+“ARTÍCULO 95-A.- Los Organismos que integren el Sistema de Educación Policial deberán impartir obligatoriamente cursos y capacitaciones dirigidos a los miembros de la carrera policial, que observan los lineamientos siguientes:
 
 \1) Programas de formación obligatoria que aseguren que todos los miembros y funcionarios de la carrera de la Policía Nacional conozcan plenamente las disposiciones de la Convención Contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, así como otras convenciones internacionales, protocolos y leyes relacionadas en cuanto a la Atención, Prevención y Lucha Contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
 
@@ -73,13 +73,13 @@ Reformar por adición del Decreto Legislativo No.18-2017, del 30 de Mayo de 2017
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar por adición del Decreto Legislativo No.69-2017, del 22 de Agosto de 2017, publicado en el Diario Oficial “La Gaceta” No.34,463 de fecha 10 de Octubre de 2017, contentivo de la “LEY DE LA CARRERA POLICIAL”, adicionando el Artículo 116-A, el que a partir de este Decreto debe leerse de la manera siguiente:
+ARTÍCULO 3.- Reformar por adición del Decreto Legislativo No. 69-2017, del 22 de Agosto de 2017, publicado en el Diario Oficial “La Gaceta” No. 34,463 de fecha 10 de Octubre de 2017, contentivo de la “LEY DE LA CARRERA POLICIAL”, adicionando el Artículo 116-A, el que a partir de este Decreto debe leerse de la manera siguiente:
 
 “ARTÍCULO 116-A.- Sobre el Registro de Detenidos. El Libro de Control de Detenidos deberá contener información detallada y actualizada sobre cada persona detenida y las circunstancias de su detención u otra que se considere relevante.”
 
 #### Artículo 4
 
-ARTÍCULO 4.- Reformar el Artículo 8 del Decreto No.136-2008, del 1 Octubre de 2008, publicado en el Diario Oficial “La Gaceta”, en fecha 5 de Diciembre de 2008, contentivo de la “LEY DEL MECANISMO NACIONAL DE PREVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES”, el que a partir de este Decreto se debe leer de la manera siguiente:
+ARTÍCULO 4.- Reformar el Artículo 8 del Decreto No. 136-2008, del 1 Octubre de 2008, publicado en el Diario Oficial “La Gaceta”, en fecha 5 de Diciembre de 2008, contentivo de la “LEY DEL MECANISMO NACIONAL DE PREVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES”, el que a partir de este Decreto se debe leer de la manera siguiente:
 
 “ARTÍCULO 8.- INTEGRACIÓN…
 

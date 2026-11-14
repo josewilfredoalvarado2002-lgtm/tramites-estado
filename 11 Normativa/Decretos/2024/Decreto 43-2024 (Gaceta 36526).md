@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 43-2024, 18-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240506-36526/download"
 extraido: "2026-11-14"
-huella: "5c51c6b689aa9b35"
+huella: "7f96e4f23923547b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2024
@@ -69,7 +69,7 @@ El plazo de treinta (30) días calendario antes señalados, no aplicará para la
 
 #### Artículo 2
 
-ARTÍCULO 2.- Interpretar el Artículo 1 del Decreto Legislativo No. 62-2023 de fecha 16 de Enero del 2024, publicado en el Diario Oficial “La Gaceta” en fecha 18 de Enero del 2024, Edición No.36,437; contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, DEL EJERCICIO FISCAL 2024, en relación al Artículo 4 de la Constitución de la República;
+ARTÍCULO 2.- Interpretar el Artículo 1 del Decreto Legislativo No. 62-2023 de fecha 16 de Enero del 2024, publicado en el Diario Oficial “La Gaceta” en fecha 18 de Enero del 2024, Edición No. 36,437; contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, DEL EJERCICIO FISCAL 2024, en relación al Artículo 4 de la Constitución de la República;
 
 Artículo 1 numeral 1), 2) segundo párrafo, 109 y 116 de la LEY ORGÁNICA DE PRESUPUESTO, en el sentido que, no aplica al Poder Legislativo y al Poder Judicial, las normas relacionadas a los controles de bienes nacionales, compras, adquisiciones, contrataciones y remanentes presupuestarios no ejecutados de ejercicios fiscales de años anteriores, ya que están sujetos a sus normas internas y ejecutados mediante sistemas especiales y sus propios instrumentos técnico-operativos acordes a la normativa vigente, por ser poderes independientes, mismos que deben tener un régimen especial de control interno, en observancia del principio Constitucional de separación de Poderes, sin perjuicio de su complementariedad.
 

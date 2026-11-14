@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 49-2021, 173-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210802-35675/download"
 extraido: "2026-11-14"
-huella: "8afb4e47b0751401"
+huella: "a6e7b9801e41cbc9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2021
@@ -29,9 +29,9 @@ huella: "8afb4e47b0751401"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que en el Artículo 1 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), contenida en Decreto No.58-2015, se crea el Sistema Nacional de Emergencias Nueve, Uno, Uno (911), como servicio público y de seguridad nacional, responsable de la atención de las llamadas de EMERGENCIAS, dirigidas al número de teléfono único Nueve, Uno, Uno (911), realizadas por cualquier persona desde cualquier parte del territorio nacional que requiera seguridad, atención sanitaria, extinción de incendios, salvamento o protección civil, procurando en definitiva dar respuesta inmediata, coordinada y de calidad y, que se maneje una fuente de información y de valor consolidada. El Sistema Nacional de Emergencias Nueve, Uno, Uno (911), debe a su vez facilitar la gestión de los recursos y unificar las comunicaciones de radio sobre una misma plataforma para todas las instituciones integrantes de este sistema, a través de un centro único de operaciones de emergencias y seguridad, para efectos administrativos y presupuestarios.
+CONSIDERANDO: Que en el Artículo 1 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), contenida en Decreto No. 58-2015, se crea el Sistema Nacional de Emergencias Nueve, Uno, Uno (911), como servicio público y de seguridad nacional, responsable de la atención de las llamadas de EMERGENCIAS, dirigidas al número de teléfono único Nueve, Uno, Uno (911), realizadas por cualquier persona desde cualquier parte del territorio nacional que requiera seguridad, atención sanitaria, extinción de incendios, salvamento o protección civil, procurando en definitiva dar respuesta inmediata, coordinada y de calidad y, que se maneje una fuente de información y de valor consolidada. El Sistema Nacional de Emergencias Nueve, Uno, Uno (911), debe a su vez facilitar la gestión de los recursos y unificar las comunicaciones de radio sobre una misma plataforma para todas las instituciones integrantes de este sistema, a través de un centro único de operaciones de emergencias y seguridad, para efectos administrativos y presupuestarios.
 
-CONSIDERANDO: Que mediante el Decreto No.266-2013, en la necesidad de dotar a la administración centralizada y descentralizada de mecanismos más ágiles para responder a los requerimientos de los administrados, se creó la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
+CONSIDERANDO: Que mediante el Decreto No. 266-2013, en la necesidad de dotar a la administración centralizada y descentralizada de mecanismos más ágiles para responder a los requerimientos de los administrados, se creó la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
 
 CONSIDERANDO: Que el Gobierno de la República se ha desempeñado en la ejecución de los Planes Nacionales de Desarrollo para elevar el nivel de vida a los habitantes y asegurarles su bienestar económico y social.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 7, 8, 17 y 18 de la LEY DEL SISTEMA NACIONAL DE EMERGENCIAS NUEVE, UNO, UNO (911), contenida en el Decreto No.58- 2015, de fecha 21 de Mayo del año 2015, publicado en fecha 7 de Septiembre del 2015, en el Diario Oficial “La Gaceta”, Edición No.33,828, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 7, 8, 17 y 18 de la LEY DEL SISTEMA NACIONAL DE EMERGENCIAS NUEVE, UNO, UNO (911), contenida en el Decreto No. 58-2015, de fecha 21 de Mayo del año 2015, publicado en fecha 7 de Septiembre del 2015, en el Diario Oficial “La Gaceta”, Edición No. 33,828, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 7.- Créase la Dirección Nacional de Emergencia Nueve, Uno, Uno, (911), adscrita a Secretaría de Estado en el Despacho de la Presidencia y cuyas funciones son las siguientes:
 
@@ -87,7 +87,7 @@ ARTÍCULO 1.- Reformar los artículos 7, 8, 17 y 18 de la LEY DEL SISTEMA NACION
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar el Artículo 6 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), contenida en el Decreto No.58-2015 publicado en fecha 7 de Septiembre del 2015, en el Diario Oficial “La Gaceta”, Edición No.33, 828.
+ARTÍCULO 2.- Derogar el Artículo 6 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), contenida en el Decreto No. 58-2015 publicado en fecha 7 de Septiembre del 2015, en el Diario Oficial “La Gaceta”, Edición No. 33, 828.
 
 #### Artículo 3
 

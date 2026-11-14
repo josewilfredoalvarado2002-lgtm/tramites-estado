@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240802-36602/download"
 extraido: "2026-11-14"
-huella: "2f522d8b0eb8aad8"
+huella: "73a4cfc8af71be9d"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el inmueble donde se construirá el “Hospital de Traumatolog
 
 CONSIDERANDO: Que el inmueble identificado para la construcción del “Hospital del Sur”, consta en el Instrumento Público número 74 de fecha 18 de noviembre de 2013, inscrito con Matrícula número 1455883, asiento 1, tomo 2010 en el Registro de la Propiedad Inmueble de la ciudad de Choluteca, a favor de la Secretaría de Estado en el Despacho de Salud (SESAL), con un área de CINCUENTA Y CINCO MIL SETECIENTOS SETENTA Y SIETE PUNTO OCHENTA Y NUEVE METROS CUADRADOS (55,777.89Mts2), equivalentes a OCHENTA MIL VARAS CUADRADAS (80,000.00 Vrs2) correspondiente a OCHO MANZANAS (8.00Mz). El Instrumento Público contiene una cláusula en la que se estableció un plazo de 5 años para la construcción del Hospital del Sur, venciendo el plazo en fecha 10 de diciembre de 2018.
 
-CONSIDERANDO: Que el Banco Interamericano de Desarrollo (BID), mediante Solicitud de Propuesta No. BID- 4713-GESALUD-SP-02-2023 en el contrato de consultoría para diseño del Hospital de Traumatología de la ciudad de San Pedro Sula, requiere que el terreno esté a nombre de la Secretaría de Estado en el Despacho de Salud (SESAL).
+CONSIDERANDO: Que el Banco Interamericano de Desarrollo (BID), mediante Solicitud de Propuesta No. BID-4713-GESALUD-SP-02-2023 en el contrato de consultoría para diseño del Hospital de Traumatología de la ciudad de San Pedro Sula, requiere que el terreno esté a nombre de la Secretaría de Estado en el Despacho de Salud (SESAL).
 
 CONSIDERANDO: Que no se han ejecutado actos de riguroso dominio, razón por la cual la Empresa COBIRSE, S.A. DE C.V., como donante del bien inmueble, ratifica su anuencia a la donación a favor de la Secretaría de Estado en el Despacho de Salud (SESAL). Esto se formaliza mediante una notificación de ampliación del plazo ya concedido, por un período de 2 años contados a partir de la firma de la escritura pública de modificación y/o ampliación del plazo, para la construcción del nuevo Hospital del Sur.
 

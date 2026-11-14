@@ -11,7 +11,7 @@ paginas: "A. 8 - 11"
 sumario: "Acuerdos OPCE Nos. 017-2026, 0182026, 019-2026, 020-2026, 021-2026, 022-2026, 023-2026, 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "a89b5cff6cfdeaf3"
+huella: "c10c21c629d9ed2e"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 019-2026
@@ -55,11 +55,11 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el Acuerdo No.02-2026 (COMIECOCXIII); que “… ACUERDA: 1. Aprobar la actualización de la Hoja de Ruta para la Incorporación de Panamá al Subsistema de Integración Económica Centroamericana, en la forma que aparece en el Anexo de este Acuerdo y que forma parte integral del mismo. 2. Lo no modificado por la actualización de la hoja de Ruta aprobada en el numeral 1 de este Acuerdo, se regirá por lo dispuesto en la Hoja de Ruta aprobada en el Acuerdo No. 01-2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, en la medida de lo aplicable. 3.
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el Acuerdo No. 02-2026 (COMIECOCXIII); que “… ACUERDA: 1. Aprobar la actualización de la Hoja de Ruta para la Incorporación de Panamá al Subsistema de Integración Económica Centroamericana, en la forma que aparece en el Anexo de este Acuerdo y que forma parte integral del mismo. 2. Lo no modificado por la actualización de la hoja de Ruta aprobada en el numeral 1 de este Acuerdo, se regirá por lo dispuesto en la Hoja de Ruta aprobada en el Acuerdo No. 01-2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, en la medida de lo aplicable. 3.
 
 El presente Acuerdo Entrará en vigor a partir de esta fecha y será publicado por los Estados Parte…”
 
-SEGUNDO: El texto integrado del Acuerdo No.02-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado del Acuerdo No. 02-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial “La Gaceta” y en la página web de la Oficina Presidencial de Comercio Exterior.
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 20"
 sumario: "Acuerdos Nos. 277-SE-2020, 0281-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200707-35306-2/download"
 extraido: "2026-11-14"
-huella: "e38f4a097630300d"
+huella: "53b11c592f13c925"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0281-SE-2020
@@ -113,7 +113,7 @@ Consideraciones Generales
 
 Para el Nivel de Educación de Prebásica
 
-1. Durante el tiempo que se prolongue la suspensión de clases presenciales, cada Director de centro educativo deberá establecer un mecanismo de comunicación con los docentes, con el padre de familia, tutor o encargado para garantizar que el educando continúe el desarrollo del proceso enseñanza- aprendizaje en su casa utilizando las diferentes estrategias de atención no presencial.
+1. Durante el tiempo que se prolongue la suspensión de clases presenciales, cada Director de centro educativo deberá establecer un mecanismo de comunicación con los docentes, con el padre de familia, tutor o encargado para garantizar que el educando continúe el desarrollo del proceso enseñanza-aprendizaje en su casa utilizando las diferentes estrategias de atención no presencial.
 
 2. Cada Director de centro educativo a través de sus docentes enviará a los padres de familia, tutores, encargados un calendario de la entrega del portafolio de las asignaciones de cada docente. A la vez, cada padre de familia, tutor o encargado deberá hacer llegar al docente un portafolio (carpeta) con la evidencia de todas las actividades desarrolladas por el educando durante el tiempo de suspensión de las clases presenciales.
 

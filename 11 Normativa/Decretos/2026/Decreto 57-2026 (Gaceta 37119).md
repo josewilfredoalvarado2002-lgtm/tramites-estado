@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Decretos Nos. 54-2026, 57-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260417-37119/download"
 extraido: "2026-11-09"
-huella: "e1aee50eb8bd111c"
+huella: "cddb23d51fb2b578"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 57-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Comisión para la Defensa y Promoción de la Competencia, es un Órgano Estatal de alta relevancia para estimular la libre competencia, proteger los derechos de los consumidores y propiciar un clima de armonía, equidad y justicia entre los factores de producción
 
-CONSIDERANDO: Que de conformidad con el Decreto No.357-2005 de fecha 16 de Diciembre de 2005, los Comisionados de la Comisión para la Defensa y Promoción de la Competencia ejercen sus funciones por un período de siete
+CONSIDERANDO: Que de conformidad con el Decreto No. 357-2005 de fecha 16 de Diciembre de 2005, los Comisionados de la Comisión para la Defensa y Promoción de la Competencia ejercen sus funciones por un período de siete
 
 (7) años, correspondiendo al Congreso Nacional la elección de sus sustitutos
 
@@ -41,13 +41,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No.24-2022 de fecha 23 de Marzo del año 2022, mediante el cual se eligieron los Comisionados de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No. 24-2022 de fecha 23 de Marzo del año 2022, mediante el cual se eligieron los Comisionados de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, el cual deberá leerse de la manera siguiente:
 
-“ARTÍCULO 1.- Elíjanse a los ciudadanos: ANALINA MONTES HAWIT, SUYEN EMPERATRIZ MUÑOZ RIVERA Y ERICK M A U R I C I O R O D R Í G U E Z GAVARRETE, por su orden, como Presidenta, Vicepresidenta y Miembro de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, por el término que haga falta para completar el período 2022-2029.
+“ARTÍCULO 1.- Elíjanse a los ciudadanos: ANALINA MONTES HAWIT, SUYEN EMPERATRIZ MUÑOZ RIVERA Y ERICK MAURICIO RODRÍGUEZ GAVARRETE, por su orden, como Presidenta, Vicepresidenta y Miembro de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, por el término que haga falta para completar el período 2022-2029.
 
 #### Artículo 2
 

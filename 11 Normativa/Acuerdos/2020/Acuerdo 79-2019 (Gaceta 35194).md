@@ -8,10 +8,10 @@ gaceta_numero: 35194
 gaceta_fecha: "2020-03-07"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)|La Gaceta 35194]]"
 paginas: "A. 59 - 60"
-sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019"
+sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35194/download"
 extraido: "2026-11-14"
-huella: "f9d62bf2808b46b5"
+huella: "9b076ee97de8d009"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 79-2019
@@ -23,11 +23,11 @@ huella: "f9d62bf2808b46b5"
 | Emisor | Secretaría de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)\|La Gaceta 35194]] del 2020-03-07 |
 | Páginas | A. 59 - 60 |
-| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019 |
+| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019 |
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

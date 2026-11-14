@@ -8,7 +8,7 @@ gaceta_numero: 36277
 gaceta_fecha: "2023-07-10"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36277 (2023-07-10)|La Gaceta 36277]]"
 paginas: "A. 1"
-sumario: "Acuerdos Ejecutivos Nos. 149-2023, 151-2023, 435-2022SECRETARÍA DE ESTADO EN EL DESPACHO DEDESARROLLO ECONÓMICO Acuerdo Ministerial Número 062-2023"
+sumario: "Acuerdos Ejecutivos Nos. 149-2023, 151-2023, 435-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DEDESARROLLO ECONÓMICO Acuerdo Ministerial Número 062-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230710-36277/download"
 extraido: "2026-11-14"
 huella: "86636d0613a7e1ea"
@@ -23,7 +23,7 @@ huella: "86636d0613a7e1ea"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36277 (2023-07-10)\|La Gaceta 36277]] del 2023-07-10 |
 | Páginas | A. 1 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 149-2023, 151-2023, 435-2022SECRETARÍA DE ESTADO EN EL DESPACHO DEDESARROLLO ECONÓMICO Acuerdo Ministerial Número 062-2023 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 149-2023, 151-2023, 435-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DEDESARROLLO ECONÓMICO Acuerdo Ministerial Número 062-2023 |
 
 ## Texto
 

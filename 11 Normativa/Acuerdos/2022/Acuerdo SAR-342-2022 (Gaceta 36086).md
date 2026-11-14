@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo número SAR-342-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221125-36086/download"
 extraido: "2026-11-14"
-huella: "cac3e812c0dc8675"
+huella: "a89f6477adeb7c8f"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-342-2022
@@ -31,9 +31,7 @@ Tegucigalpa, M.D.C., 3 de noviembre de 2022 EL DIRECTOR EJECUTIVO DEL SERVICIO D
 
 CONSIDERANDO: Que el artículo 351 de la Constitución de la República establece que el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que mediante el artículo 195 del Decreto Legislativo No. 170-2016 de fecha 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” No.
-
-34,224 en fecha 28 de diciembre del 2016, que contiene el Código Tributario, se crea la Administración Tributaria como una entidad desconcentrada adscrita a la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia y responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional, denominándose por el Presidente de la República Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que mediante el artículo 195 del Decreto Legislativo No. 170-2016 de fecha 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” No. 34,224 en fecha 28 de diciembre del 2016, que contiene el Código Tributario, se crea la Administración Tributaria como una entidad desconcentrada adscrita a la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia y responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional, denominándose por el Presidente de la República Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que de conformidad con el numeral 1 del artículo 197 del Decreto precedente, el SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), estará a cargo de un(a) Director(a) Ejecutivo(a), con rango Ministerial nombrado por el Presidente de la República, quien será responsable de definir y ejecutar las políticas, estratégicas, planes y programas administrativos, metas y resultados, conforme a las políticas económicas, fiscales y tributarias del Estado.
 
@@ -41,11 +39,9 @@ CONSIDERANDO: Que el Artículo 198 del Código Tributario establece entre otras 
 
 CONSIDERANDO: Que el Artículo 199 del Código Tributario establece entre otras atribuciones de la Dirección Ejecutiva del Servicio de Administración de Rentas (SAR), “... 1) Ejercer la representación legal y administración general, dirección y manejo de la institución; ... 6) Aprobar los acuerdos que contengan las normas internas de la institución, ... ; 13) Las demás funciones que le confieran el presente Código y las leyes aplicables”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de febrero del 2022, se nombró al suscrito como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-23-2022 de fecha 27 de enero del 2022 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de febrero del 2022, se nombró al suscrito como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
-
-CONSIDERANDO: Que mediante Acuerdo Número SAR- 479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 17 de diciembre del 2018, se aprobó la Política de Gestión de Riesgo del Servicio de Administración de Rentas y por ende se creó el Comité de Gestión de Riesgos.
+CONSIDERANDO: Que mediante Acuerdo Número SAR-479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 17 de diciembre del 2018, se aprobó la Política de Gestión de Riesgo del Servicio de Administración de Rentas y por ende se creó el Comité de Gestión de Riesgos.
 
 CONSIDERANDO: Que el Comité de Riesgos del Servicio de Administración de Rentas es el órgano directivo que establece la gobernanza y directrices para cada una de las etapas a lo largo de la aplicación del modelo de gestión de riesgos.
 

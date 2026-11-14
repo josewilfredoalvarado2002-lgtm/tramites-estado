@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. 023-2024, 024-2024,025-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240627-36571/download"
 extraido: "2026-11-14"
-huella: "93720568fa6dc5fe"
+huella: "deae2215469ea1a1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 024-2024
@@ -29,9 +29,7 @@ huella: "93720568fa6dc5fe"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que el ICF es el encargado de diseñar, formular, coordinar, dar seguimiento, ejecutar y evaluar las políticas relacionadas con el Sector Forestal, Áreas Protegidas y Vida Silvestre, siendo este la autoridad estatal encargada de la administración forestal del país.
 

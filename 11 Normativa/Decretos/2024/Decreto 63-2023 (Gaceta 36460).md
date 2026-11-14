@@ -11,7 +11,7 @@ paginas: "A. 6 - 15"
 sumario: "Decretos Nos. 59-2023, 63-2023, 5-2024, 6-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240214-36460/download"
 extraido: "2026-11-14"
-huella: "63ed1b8b4d5ea872"
+huella: "0a55e47e849402d0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 63-2023
@@ -63,9 +63,7 @@ e) Comandante General de las Fuerzas; f) Director de Estado Mayor de Coordinaci�
 
 d) Auditor Jurídico Militar de las Fuerzas Armadas; y, e) Comandante General de Fuerza”.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 25 de Octubre del año 2023, mediante Acta Especial No.
-
-006-2023, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado JOSÉ MANUEL ZELAYA ROSALES, para que por su digno medio solicite a la señora Presidenta Constitucional de la República, señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso en los grados de Mayor, Teniente Coronel y Coronel o su equivalente de las Armas seleccionados, Cuerpos y Servicios a los señores Oficiales de las Fuerzas Armadas de Honduras seleccionados, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 25 de Octubre del año 2023, mediante Acta Especial No. 006-2023, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado JOSÉ MANUEL ZELAYA ROSALES, para que por su digno medio solicite a la señora Presidenta Constitucional de la República, señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso en los grados de Mayor, Teniente Coronel y Coronel o su equivalente de las Armas seleccionados, Cuerpos y Servicios a los señores Oficiales de las Fuerzas Armadas de Honduras seleccionados, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
 
 CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada los días 14 y 15 de Diciembre del año 2023, mediante Acta Especial No. 012-2023 y No. 013-2023, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado JOSÉ MANUEL ZELAYA ROSALES, para que por su digno medio solicite a la señora Presidenta Constitucional de la República, señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso al Grado de General de División o su equivalente a un (1) General de Brigada y a cinco (5) Coroneles de las Armas seleccionados, a Generales de Brigadas o su equivalente, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
 
@@ -73,7 +71,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -89,7 +87,7 @@ ARTÍCULO 2.- ASCENDER al Grado de Mayor en el Arma de Aviación y del Servicio 
 
 ROSO PEÑA; y,
 
-3. CAPITÁN DE SANIDAD M E R C Y A L E J A N D R A ORELLANA AVILA.
+3. CAPITÁN DE SANIDAD MERCY ALEJANDRA ORELLANA AVILA.
 
 #### Artículo 3
 
@@ -141,7 +139,7 @@ ARTÍCULO 9.- ASCENDER al Grado de Capitán de Navío o su equivalente de las Ar
 
 ARTÍCULO 10.- ASCENDER al Grado de Capitán de Navío o su equivalente de las Armas, Cuerpos y Servicios a un (1) señor Oficial con el Grado de Capitán de Fragata o su equivalente de las Armas, Cuerpos y Servicios, que se nomina en estricto orden de precedencia:
 
-1. CAPITÁN DE FRAGATA DEL CUERPO GENERAL G I L B E R T O M O R A L E S RAMOS DEMN.
+1. CAPITÁN DE FRAGATA DEL CUERPO GENERAL GILBERTO MORALES RAMOS DEMN.
 
 #### Artículo 11
 

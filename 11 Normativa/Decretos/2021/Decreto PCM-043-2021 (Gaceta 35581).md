@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números PCM-043-2021, 044-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210424-35581/download"
 extraido: "2026-11-14"
-huella: "7370f5a1a3fcc2f0"
+huella: "a87f81df04a836ae"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-043-2021
@@ -47,7 +47,7 @@ CAPÍTULO XX: CLÁUSULA ESPECIAL: DE LAS OBLIGACIONES ADICIONALES DEL CONTRATO D
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, reformado mediante Decreto Ejecutivo Número PCM-016-2020, publicado en el Diario Oficial La Gaceta en fecha 6 de marzo de 2020, Edición No. 35,193, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, en todo el territorio nacional, con el propósito de continuar fortaleciendo las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por el Coronavirus denominado COVID-19.
 
-Posteriormente, mediante Decreto Ejecutivo Número PCM- 021-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de marzo del año 2020, se estableció la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República; el Decreto Ejecutivo antes referido fue reformado por los Decretos Ejecutivos Nos: PCM-022-2020, PCM-023-2020, PCM-026- 2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048- 2020, PCM-052-2020, PCM-053-2020, PCM-056-2020; las restricciones a las Garantías Constitucionales antes descritas, continúan vigentes en el País desde el lunes 16 de marzo 2020.
+Posteriormente, mediante Decreto Ejecutivo Número PCM-021-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de marzo del año 2020, se estableció la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República; el Decreto Ejecutivo antes referido fue reformado por los Decretos Ejecutivos Nos: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020; las restricciones a las Garantías Constitucionales antes descritas, continúan vigentes en el País desde el lunes 16 de marzo 2020.
 
 CONSIDERANDO: Que, debido a la situación económica generada por la crisis Humanitaria y Sanitaria y natural sufrida durante el año 2020, es importante tomar acciones conducentes a apoyar a los hondureños.
 

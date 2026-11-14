@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdos Nos. 0214-SE-2024, 0434-SE-2024, 0435-SE-2024, 0464-SE-2024, 0747-SE-2024, 0748-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "579bd12dab87cd2f"
+huella: "9abcb5a2f8bdfb68"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0214-SE-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el artículo 51 de la Constitución de la República estipula 
 
 CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de Educación, autorizar, organizar, dirigir y supervisar la Educación en todos los Niveles del Sistema Educativo Nacional.
 
-CONSIDERANDO: Que según Acuerdo No. 0097- EP- 96, de fecha 05 de enero de 1996, se establece la Educación Básica de Nueve Grados, organizada en tres Ciclos de tres grados cada uno, con objetivos, perfiles y currícula definidos.
+CONSIDERANDO: Que según Acuerdo No. 0097- EP-96, de fecha 05 de enero de 1996, se establece la Educación Básica de Nueve Grados, organizada en tres Ciclos de tres grados cada uno, con objetivos, perfiles y currícula definidos.
 
 CONSIDERANDO: Que el Estado preservará y estimulará las culturas nativas, así como las expresiones del folklore nacional, el arte popular y las actividades artesanales.
 
@@ -53,7 +53,7 @@ En uso de las facultades que le confiere la Ley y en aplicación de las disposic
 
 No. 151, 157,159, 158, 163, 247 y 255 de la Constitución de la República; 1, 28, 29 reformado numeral 2), 36 numerales 1), 8) y 18); 116, 118, 119 y 122 de la Ley General de la Administración Pública; 5, 27, 29, 30 y 31 de la Ley Fundamental de Educación, Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Artículos 7, 8, 9 y 22 del Reglamento General de Educación Básica. Acuerdo 1377-SE-2014.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar a partir del 01 de febrero del año 2024, el PLAN DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LA MODALIDAD DE EDUCACIÓN BÁSICA (I, II Y III CICLO) CON ORIENTACIÓN EN MÚSICA, con un enfoque integrador en el área de Educación Musical, por áreas curriculares y campos de conocimiento, con un sistema de evaluación anual a través de cuatro parciales, con una duración de tres años cada ciclo y desarrollado en jornada exclusiva, quedando estructurado de la siguiente manera:
 

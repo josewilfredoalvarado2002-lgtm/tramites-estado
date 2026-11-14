@@ -11,7 +11,7 @@ paginas: "A. 25 - 28"
 sumario: "Decreto No. 150-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250927-36953/download"
 extraido: "2026-11-09"
-huella: "33db8432f0a405c7"
+huella: "350718507b48472b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 150-2022
@@ -73,11 +73,7 @@ CONSIDERANDO (3): Que la Ley de Procedimiento Administrativo en su artículo 4 e
 
 CONSIDERANDO (4): Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo en el artículo 40 establece que “La Unidad de Servicios Legales, es coordinada por la secretaría general, a la que corresponde apoyar y asistir a las diferentes dependencias de la Secretaría de Estado sobre asuntos legales, emitiendo opiniones y dictámenes, preparando proyectos de convenios, contratos, iniciativas de ley o reglamentos, así como prestando servicios de representación legal y procuración cuando corresponda”.
 
-CONSIDERSNDO (5): Que es una facultad atribuida al señor Subsecretario de Estado en el Despacho de Defensa Nacional, la de emitir los acuerdos y resoluciones de su competencia, en virtud que según el Acuerdo Ejecutivo No.
-
-074-2025, la señora Presidenta Constitucional de la República acordó ampliar el Acuerdo Ejecutivo No. 063-2025, mediante el cual se ratificó el Acuerdo S.D.N. No.
-
-167-2024, de fecha catorce (14) de septiembre del año dos mil veinticuatro (2024), donde se le delegó la atribución de firmar documentos como ser ACUERDOS, en tal sentido, se determina que es a dicha superioridad a quien le corresponde la firma del mismo.
+CONSIDERSNDO (5): Que es una facultad atribuida al señor Subsecretario de Estado en el Despacho de Defensa Nacional, la de emitir los acuerdos y resoluciones de su competencia, en virtud que según el Acuerdo Ejecutivo No. 074-2025, la señora Presidenta Constitucional de la República acordó ampliar el Acuerdo Ejecutivo No. 063-2025, mediante el cual se ratificó el Acuerdo S.D.N. No. 167-2024, de fecha catorce (14) de septiembre del año dos mil veinticuatro (2024), donde se le delegó la atribución de firmar documentos como ser ACUERDOS, en tal sentido, se determina que es a dicha superioridad a quien le corresponde la firma del mismo.
 
 CONSIDERANDO (6): Que el Abogado Arnaldo Alejandro Rodríguez Montero fue nombrado como Director Legal de la Secretaría de Estado en el Despacho de Defensa Nacional, mediante Acuerdo No. 049-2024 de fecha 28 de mayo del 2024.
 

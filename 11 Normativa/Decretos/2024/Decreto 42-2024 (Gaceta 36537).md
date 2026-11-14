@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 41-2024, 42-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240518-36537/download"
 extraido: "2026-11-14"
-huella: "408930ec233c8a81"
+huella: "c42dea963c7f5002"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 42-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Nos. 353-2021, 354-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210525-35609/download"
 extraido: "2026-11-14"
-huella: "108217fe148c6319"
+huella: "6ac4a5e4f57deee1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 353-2021
@@ -45,15 +45,13 @@ CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Ad
 
 CONSIDERANDO: Que mediante Acuerdo No. 332-2020, de fecha 04 de mayo del año 2021, se delegó en la Abogada TERESA MARÍA GODOY ROMERO, como Jefa Interina de la Coordinación de Oficinas Regionales, a partir del miércoles 05 de mayo al viernes 21 de mayo del 2021.
 
-CONSIDERANDO: Que mediante Memorándum RRHH- 218-2021 de fecha 18 de mayo de 2021, la Jefatura de Recursos Humanos, solicita a Secretaría General la ampliación de la vigencia del Acuerdo de Delegación otorgado a favor de la Abogada TERESA MARÍA GODOY ROMERO, como Jefa Interina de la Coordinación de Oficinas Regionales.
+CONSIDERANDO: Que mediante Memorándum RRHH-218-2021 de fecha 18 de mayo de 2021, la Jefatura de Recursos Humanos, solicita a Secretaría General la ampliación de la vigencia del Acuerdo de Delegación otorgado a favor de la Abogada TERESA MARÍA GODOY ROMERO, como Jefa Interina de la Coordinación de Oficinas Regionales.
 
 CONSIDERANDO: Que, con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos, es necesario delegar las funciones en la Jefatura antes mencionada.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No.
-
-64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585- 2015 y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No. 64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015 y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
 
 ACUERDA:
 

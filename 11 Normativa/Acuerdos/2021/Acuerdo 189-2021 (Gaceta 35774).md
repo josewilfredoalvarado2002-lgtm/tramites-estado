@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. 189-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211117-35774/download"
 extraido: "2026-11-14"
-huella: "9739cfdf8099487e"
+huella: "e8e83f017228a0ac"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 189-2021
@@ -37,15 +37,13 @@ Emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos q
 
 CONSIDERANDO: Que mediante Decreto 8-2020, publicado en el Diario Oficial La Gaceta en fecha 14 de febrero del año 2020 se reforma la Ley de Zonas Libres estableciendo en su Artículo 2 párrafo final, que previa autorización de la Secretaría de Estado en el Despacho de Desarrollo Económico, se pueden instalar Empresas sin goce de beneficio, cuya actividad sea la de prestar servicios al personal de las Empresas que operen dentro de la Zona Libre.
 
-CONSIDERANDO: Que el Artículo 22 del Acuerdo No.
-
-041- 2020 publicado en fecha 10 de mayo del año 2020, contentivo de Reglamento de la Ley de Zonas Libres, establece: “La Secretaría de Estado en el Despacho de Desarrollo Económico autorizará a las personas naturales o jurídicas que previo a la solicitud correspondiente se instalen en el área restringida, sin goce de beneficios fiscales, para apoyo de las empresas acogidas al régimen, así como a su persona laborante, mediante diferentes servicios.
+CONSIDERANDO: Que el Artículo 22 del Acuerdo No. 041-2020 publicado en fecha 10 de mayo del año 2020, contentivo de Reglamento de la Ley de Zonas Libres, establece: “La Secretaría de Estado en el Despacho de Desarrollo Económico autorizará a las personas naturales o jurídicas que previo a la solicitud correspondiente se instalen en el área restringida, sin goce de beneficios fiscales, para apoyo de las empresas acogidas al régimen, así como a su persona laborante, mediante diferentes servicios.
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, comunicará a la Administración Aduanera de Honduras y al Servicio de Administración de Rentas las autorizaciones a que se refiere este
 
 Artículo, así como el cierre de operaciones de las empresas en relación.”
 
-CONSIDERANDO: Que conforme Artículo 22 del Acuerdo No. 041- 2020, las empresas a que se refiere el párrafo anterior, deben de notificar a la Secretaría de Desarrollo Económico dentro de los 30 días siguientes a la fecha del cierre; de lo contrario quedan sujeta a las sanciones que para estos casos contiene el Código Tributario. la Operadora u Operadora Usuaria será responsable de notificar ante la Secretaría de Estado en el Despacho de Desarrollo Económico de las empresas que se instalen sin goce de beneficio, para dar apoyo mediante la prestación de servicio al personal laborante en el área restringida de la Zona Libre, dentro de los 15 días siguiente a la suscripción del contrato de arrendamiento.
+CONSIDERANDO: Que conforme Artículo 22 del Acuerdo No. 041-2020, las empresas a que se refiere el párrafo anterior, deben de notificar a la Secretaría de Desarrollo Económico dentro de los 30 días siguientes a la fecha del cierre; de lo contrario quedan sujeta a las sanciones que para estos casos contiene el Código Tributario. la Operadora u Operadora Usuaria será responsable de notificar ante la Secretaría de Estado en el Despacho de Desarrollo Económico de las empresas que se instalen sin goce de beneficio, para dar apoyo mediante la prestación de servicio al personal laborante en el área restringida de la Zona Libre, dentro de los 15 días siguiente a la suscripción del contrato de arrendamiento.
 
 CONSIDERANDO: Que es necesario establecer el procedimiento para las disposiciones contenidas en la Ley y el Reglamento de Zonas Libres, en lo referente a la instalación de una Empresa sin goce de beneficios, cuya actividad sea la de prestar servicios al personal laborante de las empresas que operan dentro de la Zona Libre.
 
@@ -53,9 +51,9 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los Artículos 247, 255 y 321 Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública y sus reformas;
 
-56 y 87 de la Ley de Procedimiento Administrativo; 24 y 26 numeral 10 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Artículo 2 de la Ley de Zonas Libres reformado con el Decreto Legislativo Número 8-2020 publicado el 14 de febrero de 2020; y, el Artículo 22 del Acuerdo Ejecutivo No.41-2020 publicado en fecha 10 de mayo del año 2020.
+56 y 87 de la Ley de Procedimiento Administrativo; 24 y 26 numeral 10 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Artículo 2 de la Ley de Zonas Libres reformado con el Decreto Legislativo Número 8-2020 publicado el 14 de febrero de 2020; y, el Artículo 22 del Acuerdo Ejecutivo No. 41-2020 publicado en fecha 10 de mayo del año 2020.
 
-A C U E R D A:
+ACUERDA:
 
 Aprobar el siguiente:
 
@@ -69,7 +67,7 @@ ARTÍCULO 1. OBJETO. El presente Acuerdo Ministerial tiene como objeto establece
 
 #### Artículo 2
 
-ARTÍCULO 2.- AMBITO DE APLICACIÓN. Las normas contenidas en el presente Acuerdo son de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Artículo 2 de la Ley de Zonas Libres reformada por el Decreto No. 8-2020 publicado el 14 de febrero de 2020 y el Artículo 22 del Acuerdo Ejecutivo No. 041- 2020 publicado en fecha 10 de mayo del año 2020, contentivo del Reglamento de la Ley de Zonas Libres.
+ARTÍCULO 2.- AMBITO DE APLICACIÓN. Las normas contenidas en el presente Acuerdo son de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Artículo 2 de la Ley de Zonas Libres reformada por el Decreto No. 8-2020 publicado el 14 de febrero de 2020 y el Artículo 22 del Acuerdo Ejecutivo No. 041-2020 publicado en fecha 10 de mayo del año 2020, contentivo del Reglamento de la Ley de Zonas Libres.
 
 TÍTULO II DEL PROCEDIMIENTO DE AUTORIZACIÓN DE LAS EMPRESAS SIN GOCE DE BENEFICIO QUE SE INSTALEN EN LAS ZONAS LIBRES
 
@@ -161,7 +159,7 @@ COMUNIQUESE Y PUBLIQUESE.
 
 MARIA ANTONIA RIVERA
 
-Encargada de la Secretaría de Estado en el Despacho de Desarrollo Económico CESAR ANDRES VERDE ZÚNIGA Encargado de la Secretaría General Acuerdo Ministerial de Delegación No.172-2021 Dirección de Niñez, Adolescencia y Familia DINAF
+Encargada de la Secretaría de Estado en el Despacho de Desarrollo Económico CESAR ANDRES VERDE ZÚNIGA Encargado de la Secretaría General Acuerdo Ministerial de Delegación No. 172-2021 Dirección de Niñez, Adolescencia y Familia DINAF
 
 ## Fuente
 

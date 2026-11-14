@@ -8,10 +8,10 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
-huella: "e533ae4a00668bca"
+huella: "74deea27f21b0089"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 045-2020
@@ -23,7 +23,7 @@ huella: "e533ae4a00668bca"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 
@@ -75,7 +75,7 @@ Dado en Tegucigalpa, municipio del Distrito Central, a los nueve (09) días del 
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACIÓN DE GOBIERNO, POR DELEGACIÓN DEL PRESIDENTE DE LA REPÚBLICA Acuerdo Ejecutivo No.043-2020 EBAL JAÍR DIAZ LUPIAN SECRETARIO DE ESTADO EN EL DESPACHO DE LA SECRETARÍA DE LA PRESIDENCIA
+CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACIÓN DE GOBIERNO, POR DELEGACIÓN DEL PRESIDENTE DE LA REPÚBLICA Acuerdo Ejecutivo No. 043-2020 EBAL JAÍR DIAZ LUPIAN SECRETARIO DE ESTADO EN EL DESPACHO DE LA SECRETARÍA DE LA PRESIDENCIA
 
 ## Fuente
 

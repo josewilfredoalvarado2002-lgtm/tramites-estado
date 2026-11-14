@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos Ejecutivos Nos. 197-2022, 196-A-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220913-36027/download"
 extraido: "2026-11-14"
-huella: "52bf86203ecd4864"
+huella: "f0e626571fe7bc14"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 196-A-2022
@@ -27,9 +27,7 @@ huella: "52bf86203ecd4864"
 
 ## Texto
 
-EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022, y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022, y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

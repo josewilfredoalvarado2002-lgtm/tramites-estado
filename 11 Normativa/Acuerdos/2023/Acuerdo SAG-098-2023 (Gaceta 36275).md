@@ -8,7 +8,7 @@ gaceta_numero: 36275
 gaceta_fecha: "2023-07-07"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)|La Gaceta 36275]]"
 paginas: "A. 21 - 24"
-sumario: "Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023"
+sumario: "Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230707-36275/download"
 extraido: "2026-11-14"
 huella: "f4c39306932afb11"
@@ -23,7 +23,7 @@ huella: "f4c39306932afb11"
 | Emisor | Secretaría de Estado en el Despacho de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)\|La Gaceta 36275]] del 2023-07-07 |
 | Páginas | A. 21 - 24 |
-| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023 |
 
 ## Texto
 

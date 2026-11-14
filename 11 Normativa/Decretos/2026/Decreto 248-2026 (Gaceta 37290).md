@@ -11,7 +11,7 @@ paginas: "A. 26 - 28"
 sumario: "Decreto No. 236-2026, 237-2026, 2382026, 239-2026, 240-2026, 241-2026, 2422026, 243-2026, 248-2026, 249-2026, 2512026, 265-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "9b7321a4d24ca60b"
+huella: "92e4fbc87560fa24"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 248-2026
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se ordena a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) incorporación en el Presupuesto General de Ingresos y Egresos de la República, correspondiente al Ejercicio Fiscal 2026, de una asignación total de DIESCISÉIS M I L L O N E S D E L E M P I R A S (L.16,000,000.00), destinada a financiar los siguientes proyectos en el Departamento de El Paraíso:
+ARTÍCULO 1.- Se ordena a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) incorporación en el Presupuesto General de Ingresos y Egresos de la República, correspondiente al Ejercicio Fiscal 2026, de una asignación total de DIESCISÉIS MILLONES DE LEMPIRAS (L.16,000,000.00), destinada a financiar los siguientes proyectos en el Departamento de El Paraíso:
 
 \1) PROYECTO PAVIMENTO HIDRÁULICO BARRIO EL GUANACASTE, MUNICIPIO DE EL PARAÍSO: TRES MILLONES NOVECIENTOS MIL LEMPIRAS (L.3,900,000.00);
 

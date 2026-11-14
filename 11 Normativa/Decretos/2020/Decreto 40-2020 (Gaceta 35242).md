@@ -8,10 +8,10 @@ gaceta_numero: 35242
 gaceta_fecha: "2020-05-04"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)|La Gaceta 35242]]"
 paginas: "A. 1 - 4"
-sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020"
+sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200504-35242-2/download"
 extraido: "2026-11-14"
-huella: "2406cfa638bb0e28"
+huella: "4542d81f23e4ed09"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 40-2020
@@ -23,7 +23,7 @@ huella: "2406cfa638bb0e28"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)\|La Gaceta 35242]] del 2020-05-04 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece que la persona humana es el fin supremo de la sociedad y del Estado y determina el derecho a la vida y la protección de la salud con la obligación de promoverla y respetarla.
 
-CONSIDERANDO: Que en el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No.33-2020 de fecha 2 de abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No.35,217.
+CONSIDERANDO: Que en el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No. 33-2020 de fecha 2 de abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No. 35,217.
 
 CONSIDERANDO: Que la propagación de la Pandemia del COVID-19 (Coronavirus) en el país ha puesto en precario el mundo del trabajo en todos los sectores productivos del país, por lo que es imperativo que en las medidas contenidas en la recién aprobada Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, se incluyan y se adopten medidas y acciones orientadas a garantizar la estabilidad en los puestos de trabajo, así como la sostenibilidad productiva de las empresas del Sector Turismo.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 27, del Decreto No.33-2020 de fecha 2 de abril, 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No.35,217, que se refiere a la Aportación Solidaria Temporal para los Trabajadores, el cual de ahora en adelante debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 27, del Decreto No. 33-2020 de fecha 2 de abril, 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No. 35,217, que se refiere a la Aportación Solidaria Temporal para los Trabajadores, el cual de ahora en adelante debe leerse de la manera siguiente:
 
 “ARTÍCULO 27.- APORTACIÓN SOLIDARIA TEMPORAL PARA LOS
 
@@ -69,7 +69,7 @@ En todos los casos…”
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Decreto No.33-2020 de fecha 2 de abril 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No.35,217, adicionando los Artículos 7-A, 7-B, 27-A, 27-B, 27-C, 27-D y 27-E, los cuales contienen Mecanismos de Alivio para la Industria del Sector Turismo, mismos que deben leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar por adición el Decreto No. 33-2020 de fecha 2 de abril 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de abril del año 2020, en la Edición No. 35,217, adicionando los Artículos 7-A, 7-B, 27-A, 27-B, 27-C, 27-D y 27-E, los cuales contienen Mecanismos de Alivio para la Industria del Sector Turismo, mismos que deben leerse de la manera siguiente:
 
 “ARTÍCULO 7-A.- Por esta única vez se autoriza a que el período de suspensión de los contratos de trabajo como causal para la terminación de los mismos, a que se refiere el Artículo 111 numeral 8 del Código de Trabajo, se establezca un límite máximo de ciento ochenta (180) días, exclusivamente para el Sector Turismo; que por la naturaleza de su operación no se podría activar inmediatamente después que haya pasado el período de la Emergencia por el COVID-19”.
 
@@ -81,7 +81,7 @@ DE OPERACIONES: Las empresas que sean autorizadas por el Poder Ejecutivo a react
 
 En el caso de las empresas del Sector de Turismo afiliadas al Régimen de Aportaciones Privadas (RAP), el mecanismo será aplicable a través de dicha Institución hasta por un período de tres (3) meses según lo dispuesto en la presente Ley y de extenderse el período de suspensión conforme al numeral 1 del Artículo 27 del presente Decreto; el resto de la aportación solidaria deberá realizarse según lo dispuesto en el numeral 3 del mismo Artículo”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 2 7 - B . -
 

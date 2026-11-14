@@ -11,7 +11,7 @@ paginas: "A. 66 - 68"
 sumario: "Acuerdo Ministerial No. 0011-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250228-36778/download"
 extraido: "2026-11-12"
-huella: "74cb3526645b581a"
+huella: "09acff35cc63b16e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 011-2025
@@ -43,7 +43,7 @@ CONSIDERANDO: Que, para cumplir con su mandato de presencia a nivel nacional y c
 
 POR TANTO:
 
-El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) en uso de sus facultades y con fundamentado en los artículos 1, 127, 247 de la Constitución de la República; Artículos 1, 14, 10, 17, 18 (numerales 1, 2, 3, 26 y 27), de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículo 11 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre ; 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
+El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) en uso de sus facultades y con fundamentado en los artículos 1, 127, 247 de la Constitución de la República; Artículos 1, 14, 10, 17, 18 (numerales 1, 2, 3, 26 y 27), de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículo 11 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
 
 Artículos 1, 2, 3 de la Ley de Simplificación Administrativa, 27 y 40 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 

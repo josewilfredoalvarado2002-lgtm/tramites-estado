@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Decretos Nos. 65-2020, 67-2020, 72-2020, 97-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200812-35341/download"
 extraido: "2026-11-14"
-huella: "45a187eac7e38644"
+huella: "aeb836ce31c2da80"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 67-2020
@@ -35,9 +35,7 @@ CONSIDERANDO: Que el Instituto Hondureño de Geología y Minas “INHGEOMIN” h
 
 CONSIDERANDO: Que la Autoridad Minera, es la obligada a velar por el cumplimiento de los derechos y obligaciones que corresponden a todos los concesionarios, en los procesos administrativos de las solicitudes, otorgamientos de los derechos mineros, permisos, denuncias, inspección, control, vigilancia, monitoreo y otras relacionadas a la implementación de buenas Prácticas y los Estándares Internacionales en la explotación de los recursos minerales y la protección al medio ambiente y a la salud y por ende el personal por contrato es de mucha importancia para realizar las actividades diversas que corresponden a nuestra función institucional.
 
-CONSIDERANDO: Que el Artículo 123 del Decreto No.
-
-171- 2019 de fecha 12 de diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de diciembre de 2019, Edición No.35,137, contentivo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República 2020, establece que la contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República.
+CONSIDERANDO: Que el Artículo 123 del Decreto No. 171-2019 de fecha 12 de diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de diciembre de 2019, Edición No. 35,137, contentivo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República 2020, establece que la contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República.
 
 CONSIDERANDO: Que como consecuencia de la pandemia del Coronavirus (COVID –19), se han provocado imprevistos y graves alteraciones a la normalidad de la economía, por lo que resulta de suma importancia ejecutar e implementar acciones que tiendan a proteger y garantizar el empleo existente en el país como derecho humano, debido a que, por medio de éste, los trabajadores obtienen su salario que resulta en la mayoría de los casos, su principal fuente de sustento.
 
@@ -49,7 +47,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

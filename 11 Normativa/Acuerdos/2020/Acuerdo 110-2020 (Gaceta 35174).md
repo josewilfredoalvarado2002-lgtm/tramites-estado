@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 110-2020, 112-2020, 030-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200213-35174/download"
 extraido: "2026-11-14"
-huella: "fd18d507793b5502"
+huella: "c066361b50786769"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 110-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en la Ley de procedimiento Adm
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 

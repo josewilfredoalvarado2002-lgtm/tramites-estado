@@ -8,10 +8,10 @@ gaceta_numero: 35255
 gaceta_fecha: "2020-05-17"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35255 (2020-05-17)|La Gaceta 35255]]"
 paginas: "A. 1 - 8"
-sumario: "Decreto Ejecutivo número PCM-045-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0154-SE-2020"
+sumario: "Decreto Ejecutivo número PCM-045-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0154-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200517-35255-2/download"
 extraido: "2026-11-14"
-huella: "f76c3f5934dd9994"
+huella: "f53fda0018b7bdec"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-045-2020
@@ -23,7 +23,7 @@ huella: "f76c3f5934dd9994"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35255 (2020-05-17)\|La Gaceta 35255]] del 2020-05-17 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-045-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0154-SE-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-045-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0154-SE-2020 |
 
 ## Texto
 
@@ -33,9 +33,7 @@ PODER EJECUTIVO
 
 Decreto Ejecutivo número PCM-045-2020 A. 1 - 8 SECRETARÍA DE EDUCACIÓN Acuerdo No. 0154-SE-2020 A. 9 - 12 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-042-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo diez (10) de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo Número PCM-021-2020, reformado y ratificados por el Congreso Nacional, en todas y cada una de sus partes mediante Decreto Legislativo No.
-
-32-2020 y Decreto Legislativo No. 42-2020.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-042-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo diez (10) de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo Número PCM-021-2020, reformado y ratificados por el Congreso Nacional, en todas y cada una de sus partes mediante Decreto Legislativo No. 32-2020 y Decreto Legislativo No. 42-2020.
 
 CONSIDERANDO: Que el Consejo de Secretarios de Estado, presidido por el Presidente de la República, ha desarrollado Mesas de Trabajo para analizar el impacto de todas las medidas aprobadas en el ámbito sanitario, para salvar vidas ante la Pandemia de Coronavirus, análisis de decisiones en el ámbito económico y las medidas de seguridad para resguardar a la población.
 
@@ -47,9 +45,7 @@ CONSIDERANDO: Que después de nueve (9) semanas con el virus en el país, se per
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No.
-
-32-2020; Decreto Legislativo No. 40-2020; Decreto Ejecutivo Número PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020 y PCM 042-2020.
+En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Legislativo No. 40-2020; Decreto Ejecutivo Número PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020 y PCM 042-2020.
 
 DECRETA:
 
@@ -159,7 +155,7 @@ ARTÍCULO 4.- OBLIGACIÓN DE APLICACIÓN DE PROTOCOLOS DE BIOSEGURIDAD EN LA INS
 
 ARTÍCULO 5.- HABILITACIÓN DE DÍAS Y HORAS
 
-INHABILES PARA EL TELETRABAJO: Se habilitan días y horas inhábiles a las Instituciones Públicas para que puedan realizar Teletrabajo o por medios electrónicos, amparado en el Decreto Legislativo No.33-2020, en el Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su
+INHABILES PARA EL TELETRABAJO: Se habilitan días y horas inhábiles a las Instituciones Públicas para que puedan realizar Teletrabajo o por medios electrónicos, amparado en el Decreto Legislativo No. 33-2020, en el Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su
 
 #### Artículo 27
 

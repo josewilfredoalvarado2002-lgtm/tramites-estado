@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 63-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210605-35619/download"
 extraido: "2026-11-14"
-huella: "884e9fb476f8bc53"
+huella: "09fbe8f557bd8bf4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 63-2019
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Autorizar a la Procuraduría General de la República (PGR), comparezca ante Notario Público hacer formal traspaso de un lote de terreno con una extensión de 30 manzanas (30 Mnz), con Asiento No.573, páginas 572 a la 574, del Tomo VIII, lote de terreno denominado “San Marcos”, a favor de la MUNICIPALIDAD DE DANLÍ, DEPARTAMENTO DE EL PARAÍSO. Dicho terreno está inscrito a favor del Estado de Honduras.
+ARTÍCULO 1.- Autorizar a la Procuraduría General de la República (PGR), comparezca ante Notario Público hacer formal traspaso de un lote de terreno con una extensión de 30 manzanas (30 Mnz), con Asiento No. 573, páginas 572 a la 574, del Tomo VIII, lote de terreno denominado “San Marcos”, a favor de la MUNICIPALIDAD DE DANLÍ, DEPARTAMENTO DE EL PARAÍSO. Dicho terreno está inscrito a favor del Estado de Honduras.
 
 #### Artículo 2
 

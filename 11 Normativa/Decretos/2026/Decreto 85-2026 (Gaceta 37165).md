@@ -11,7 +11,7 @@ paginas: "A. 1 - 169"
 sumario: "Decreto No. 85-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/gaceta-11-de-junio-2026-37-165-completa-1/download"
 extraido: "2026-11-09"
-huella: "4376cde430da4f38"
+huella: "d4ac9b8c88f7785c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 85-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -51,9 +51,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes los contratos suscritos 
 
 – CALLE LOS ALCALDES (SALIDA A LEPATERIQUE); EN EL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN” CONCURSO PÚBLICO NACIONAL No. CPuNO-007-AMDC-079-2023 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor ROBERTO ARISTIDES ANDINO BARAHONA, hondureño y de éste domicilio, Documento Nacional de Identificación número 0801-1950-00603, en su condición de Representante Legal de la Empresa ASOCIACIÓN DE CONSULTORES EN INGENIERÍA S. DE R.L., Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017;
 
-Autorizado por el Abogado y Notario Elda Gisela Molina Villanueva e inscrito bajo el No.
-
-39168, Tomo: 69877 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P.;
+Autorizado por el Abogado y Notario Elda Gisela Molina Villanueva e inscrito bajo el No. 39168, Tomo: 69877 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P.;
 
 Empresa legalmente Constituida mediante Testimonio de Escritura Pública N° 49 de fecha 21 de enero del año 1991, autorizado por el Abogado y Notario Alberto Hilian García e inscrita bajo el número 99, Tomo: 116 del Registro Mercantil de San Pedro Sula., quien en lo sucesivo y para efectos de esta Modificación No. 2 se denominará “EL CONSULTOR” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 2 al Contrato para el proyecto denominado “ESTUDIOS, DISEÑOS FINALES Y SUPERVISIÓN PARA LA AMPLIACIÓN DE LA INTERSECCIÓN ANILLO PERIFÉRICO – CALLE LOS ALCALDES (SALIDA A LEPATERIQUE); EN EL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN”.- Concurso Público Nacional No. CPuNO-007-AMDC-079-2023.- CÓDIGO No. 3358; de acuerdo a los términos siguiente:
 
@@ -79,9 +77,7 @@ CONSIDERANDO #4: Que en fecha cuatro
 
 (04) de julio del año dos mil veinticinco (2025), se suscribió la Modificación N° 1 al Contrato original mediante el cual se realizó una ampliación de Plazo y Monto contractual de supervisión por un valor de seis millones ciento sesenta y ocho mil ochocientos cincuenta y seis lempiras con 42/100 (L. 6,168,856.42) equivalente a 24.98% del monto de la etapa II (Supervisión de la Construcción) y un Plazo de 195 días adicionales; en Consecuencia, el monto acumulado es de Treinta y Seis Millones Cuatrocientos Diecinueve mil Quinientos Treinta lempiras con 41/100 (L. 36,419,530.41) y el plazo de ejecución total de Quinientos Sesenta (560) días calendario, estableciendo como nueva fecha de finalización el 23 de enero de 2026.
 
-CONSIDERANDO#5: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha doce (12) de enero del año dos mil veintiséis (2026), solicitud de Modificación No. 2 al CONTRATO No. 1810/GLA/AMDC/2023.- CÓDIGO No.
-
-3358 del “ESTUDIOS, DISEÑOS FINALES
+CONSIDERANDO#5: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha doce (12) de enero del año dos mil veintiséis (2026), solicitud de Modificación No. 2 al CONTRATO No. 1810/GLA/AMDC/2023.- CÓDIGO No. 3358 del “ESTUDIOS, DISEÑOS FINALES
 
 Y SUPERVISIÓN PARA LA AMPLIACIÓN DE LA INTERSECCION ANILLO PERIFÉRICO – CALLE LOS ALCALDES (SALIDA A LEPATERIQUE); EN EL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN”, la cual contempla ampliación de plazo contractual en 108 días, alcanzando un plazo acumulado de 668 días, con nueva fecha de finalización el 13 de mayo de 2026, así mismo el incremento del monto contractual en L. 7,847,033.72 equivalente al 25.43% de la Etapa II “Supervisión de la Construcción” estableciendo un monto Total de Treinta y ocho millones setecientos ocho mil novecientos seis Lempiras con 91/100 (L. 38,708,906.91).
 
@@ -95,15 +91,15 @@ DE R.L. Dicha modificación fue revisada y aprobada por la Unidad Ejecutora medi
 
 La presente Modificación No. 02 para el contrato de Supervisión, se emite en función del incremento de tiempo en la ejecución del proyecto en un plazo de 78 días al Contrato de Construcción el cual finaliza el 28 de abril de 2026, por lo que, a fin de dar seguimiento a los trabajos ejecutados por el Contratista, es necesario ampliar el plazo del Contrato de Supervisión, tiempo que se considera necesario para realizar las actividades pendientes del proyecto.
 
-Con el afán de prever contratiempos que afecten de manera critica el desenvolvimiento de las actividades del proyecto, en el análisis presentado por la supervisión se detalla la justificación de esta modificación No.2 al contrato.
+Con el afán de prever contratiempos que afecten de manera critica el desenvolvimiento de las actividades del proyecto, en el análisis presentado por la supervisión se detalla la justificación de esta modificación No. 2 al contrato.
 
-Por esta razón se emite la Modificación No.2 para asegurar que se realicen los trabajos planificados y garantizar la finalización del proyecto con la calidad requerida en su totalidad.
+Por esta razón se emite la Modificación No. 2 para asegurar que se realicen los trabajos planificados y garantizar la finalización del proyecto con la calidad requerida en su totalidad.
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, toma como base el informe especial de esta modificación presentado por la supervisión, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No.125 de la Ley de Contratación del Estado y el artículo 187 del reglamento respectivamente conformidad con las Condiciones Generales del Contrato, Numeral 11 (modificación), numeral 14 (Prorroga de plazos), numeral 15 (pagos), numeral 29 (modificación del contrato), numeral 35 (pagos al consultor) numeral 36 (precio del contrato), numeral 38 (condiciones relativas a los pagos) y de conformidad Condiciones especiales del contrato, numeral 13, numeral 14, numeral 15.
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, toma como base el informe especial de esta modificación presentado por la supervisión, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No. 125 de la Ley de Contratación del Estado y el artículo 187 del reglamento respectivamente conformidad con las Condiciones Generales del Contrato, Numeral 11 (modificación), numeral 14 (Prorroga de plazos), numeral 15 (pagos), numeral 29 (modificación del contrato), numeral 35 (pagos al consultor) numeral 36 (precio del contrato), numeral 38 (condiciones relativas a los pagos) y de conformidad Condiciones especiales del contrato, numeral 13, numeral 14, numeral 15.
 
-En virtud de lo anteriormente expuesto, y considerando que la fecha de culminación contractual está establecida para el 23 de enero de 2026, y que la modificación No.2 al contrato de construcción impacta de forma directa en el Plazo de Ejecución, mediante el presente documento se solicita la ampliación del Plazo de ejecución por 108 días calendario.
+En virtud de lo anteriormente expuesto, y considerando que la fecha de culminación contractual está establecida para el 23 de enero de 2026, y que la modificación No. 2 al contrato de construcción impacta de forma directa en el Plazo de Ejecución, mediante el presente documento se solicita la ampliación del Plazo de ejecución por 108 días calendario.
 
 Tomando en cuenta lo anterior, se solicita una modificación al monto contractual de siete millones ochocientos cuarenta y siete mil treinta y tres lempiras con 72/100 (L. 7,847,033.72), que equivale al 25.43% del monto de la etapa II (Supervisión de la Construcción).
 
@@ -117,7 +113,7 @@ Debido a la modificación del plazo de ejecución para el contratista, se detall
 
 1.1.1 Gerente de proyecto: El Gerente de Proyectos según Contrato de Servicios de Consultoría se consideró a tiempo parcial para
 
-7.64 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06- 2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 2.10 hombre / mes de tiempo, para totalizar
+7.64 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 2.10 hombre / mes de tiempo, para totalizar
 
 9.74 Hombre / mes en esta Modificación.
 
@@ -127,7 +123,7 @@ Entre las obligaciones del Gerente de Proyecto están: Será el representante de
 
 1.1.3 Ingeniero Asistente: El tiempo considerado para el Ingeniero Asistente según Contrato de Servicios de Consultoría fue de
 
-30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06- 2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
+30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
 
 37.70 Hombre / mes en esta Modificación; teniendo entre sus obligaciones las siguientes actividades: Trabajar conjuntamente con el Ingeniero Residente, supervisar todas las actividades relacionadas con la ejecución del Proyecto, llevando el control físico – financiero del proyecto, considerar la asignación de topógrafos, inspectores y laboratoristas para la supervisión de la construcción, mantener un sistema de control de calidad y resumen estadístico del Proyecto, por medio de programas modernos de computación, etc.
 
@@ -165,7 +161,7 @@ Personal Administrativo Auxiliar y otros 1.2.1 Administrador: El tiempo consider
 
 1.2.2 Secretaria: El tiempo considerado para la secretaria según Contrato de Servicios de Consultoría fue de 12.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 3.60 hombre / mes de tiempo, para totalizar 16.10 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: apoyar al Administrador del Proyecto en las labores administrativas del mismo.
 
-1.2.3 Dibujante AutoCAD: El tiempo considerado para el Dibujante de AutoCAD según Contrato de Servicios de Consultoría fue de 12.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25- 06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 3.60 hombre / mes de tiempo, para totalizar
+1.2.3 Dibujante AutoCAD: El tiempo considerado para el Dibujante de AutoCAD según Contrato de Servicios de Consultoría fue de 12.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 3.60 hombre / mes de tiempo, para totalizar
 
 16.10 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: elaborar los planos y esquemas de los rediseños y nuevos diseños para el Contratista, llevar en control gráfico del avance del proyecto, preparar los esquemas que se adjunten en los informes y elaborar planos según construido.
 
@@ -175,7 +171,7 @@ Personal Administrativo Auxiliar y otros 1.2.1 Administrador: El tiempo consider
 
 22.10 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: efectuar todos los ensayos de laboratorio que le indique el Ingeniero Residente, hacer todas las pruebas especificadas para determinar la calidad o resistencia de los materiales, en base a lo cual el Ingeniero Residente definirá si el proyecto está siendo ejecutado de acuerdo a las especificaciones del contrato, llevar un control diario de los resultados de laboratorio, hacer observaciones a los resultados de laboratorio.
 
-1.2.5 Ayudantes de Laboratorio: El tiempo considerado para el Ayudante de Laboratorio según Contrato de Servicios de Consultoría fue de 30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25- 06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
+1.2.5 Ayudantes de Laboratorio: El tiempo considerado para el Ayudante de Laboratorio según Contrato de Servicios de Consultoría fue de 30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
 
 37.70 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: apoyar al laboratorista del proyecto en todo lo que requiera.
 
@@ -187,7 +183,7 @@ Personal Administrativo Auxiliar y otros 1.2.1 Administrador: El tiempo consider
 
 1.2.9 Motoristas: El tiempo considerado para el Motorista según Contrato de Servicios de Consultoría fue de 30.00 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar 37.20 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: responsable de la movilización del personal de campo del proyecto.
 
-1.2.10 Ayudantes de Topografía: El tiempo considerado para el Ayudante de Topografía según Contrato de Servicios de Consultoría fue de 30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25- 06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
+1.2.10 Ayudantes de Topografía: El tiempo considerado para el Ayudante de Topografía según Contrato de Servicios de Consultoría fue de 30.50 hombre / mes; sin embargo, el tiempo que durará la ejecución de las obras, según el programa de trabajo del Contratista, el cual inició a partir de su orden de inicio (25-06-2024), tendrá una duración adicional de 78 días. Por lo anterior se considera un incremento por 7.20 hombre / mes de tiempo, para totalizar
 
 37.70 Hombre / mes en esta Modificación y ejecutará las siguientes labores en el proyecto: apoyar al topógrafo del proyecto en todo lo que requiera.
 
@@ -271,7 +267,7 @@ HONORARIOS/ UTILIDAD
 
 Equivalente al 10% al monto acumulado de los renglones: PERSONAL, BENEFICIOS SOCIALES y GASTOS GENERALES.
 
-Lo anteriormente expuesto y que la modificación No.2 al contrato de supervisión impactan de manera directa en el monto del contrato, de manera que, a través de este documento, se solicita los siguientes montos:
+Lo anteriormente expuesto y que la modificación No. 2 al contrato de supervisión impactan de manera directa en el monto del contrato, de manera que, a través de este documento, se solicita los siguientes montos:
 
 Concepto Monto Monto Total del Contrato
 
@@ -309,7 +305,7 @@ L. 1,265,360.04 cada uno contra entrega de informes mensuales de avance aprobado
 
 Reteniéndose en cada pago el 12.5% sobre el valor de los honorarios o utilidad por deducción por Ley del ISR, al menos que presenten mensualmente junto con la factura el respectivo de haber realizado los pagos a cuenta, y el 10% sobre el valor de los honorarios o utilidad por concepto de garantía adicional de cumplimiento de contrato, devolviéndose el valor de este último al obtener el finiquito.
 
-La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración ampliar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en los ARTÍCULOS 121, 122, 123 y 125 de dicha Ley y ARTÍCULO 202 y 203 del reglamento de la Ley de Contratación del Estado de dicha Ley y de conformidad con las Condiciones Generales del Contrato, Numeral 11 (modificación), numeral 14 (Prorroga de plazos), numeral 15 (pagos), numeral 29 (modificación del contrato), numeral 35 (pagos al consultor) numeral 36 (precio del contrato),numeral 38 (condiciones relativas a los pagos) y de conformidad Condiciones especiales del contrato, numeral 13, numeral 14, numeral 15. De ser aprobada la solicitud de ampliación de tiempo de ciento ocho (108) días calendarios adicionales, el proyecto estaría finalizando el 13 de mayo de 2026, fecha en que el contratista deberá completar todas las actividades de la obra, requiriendo la aprobación del Congreso Nacional al incrementar el 25% del monto contractual y el tiempo de esta administración. De acuerdo al análisis técnico realizado por la supervisión de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha modificación No.2 en la ampliación de plazo y monto del Contrato No. 1810/GLA/AMDC/2023, LPN No CPuNO-007-AMDC-079-2023, Código 3358, correspondiente al proyecto:
+La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración ampliar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en los ARTÍCULOS 121, 122, 123 y 125 de dicha Ley y ARTÍCULO 202 y 203 del reglamento de la Ley de Contratación del Estado de dicha Ley y de conformidad con las Condiciones Generales del Contrato, Numeral 11 (modificación), numeral 14 (Prorroga de plazos), numeral 15 (pagos), numeral 29 (modificación del contrato), numeral 35 (pagos al consultor) numeral 36 (precio del contrato),numeral 38 (condiciones relativas a los pagos) y de conformidad Condiciones especiales del contrato, numeral 13, numeral 14, numeral 15. De ser aprobada la solicitud de ampliación de tiempo de ciento ocho (108) días calendarios adicionales, el proyecto estaría finalizando el 13 de mayo de 2026, fecha en que el contratista deberá completar todas las actividades de la obra, requiriendo la aprobación del Congreso Nacional al incrementar el 25% del monto contractual y el tiempo de esta administración. De acuerdo al análisis técnico realizado por la supervisión de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha modificación No. 2 en la ampliación de plazo y monto del Contrato No. 1810/GLA/AMDC/2023, LPN No CPuNO-007-AMDC-079-2023, Código 3358, correspondiente al proyecto:
 
 “Estudios, Diseños Finales y Supervisión para la Ampliación de la Intersección Anillo Periférico-Calle Los alcaldes (Salida a Lepaterique); en el Municipio del Distrito Central, Departamento de Francisco Morazán”.
 
@@ -383,7 +379,7 @@ El monto total del Contrato en Lempiras es de CUARENTA Y CUATRO MILLONES DOSCIEN
 
 SÉPTIMA: Así mismo el Contratista deberá ampliar la Garantía de Cumplimiento en cuanto al monto y Tiempo del Contrato en tres (3) meses después de la nueva fecha de Terminación del contrato.
 
-OCTAVA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+OCTAVA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 2 en Dos Ejemplares Originales de conformidad con las Leyes de la República de Honduras, a los Veinte (20) días del mes de Enero del año dos mil veintiséis (2026).
 
@@ -395,13 +391,11 @@ Apendice “C1” N° Descripción Unidad Cantidad Precio Unitario I PERSONAL 1 
 
 - Geotecnia Hombres/mes 9.6 L 65,000.00 L 624,000.00 1.1.8 Ingeniero Especialista en Seguridad Vial/Laboral Hombres/mes 9.6 L 45,000.00 L 432,000.00 1.1.9 Ingeniero Eléctrico Hombres/mes 9.6 L 65,000.00 L 624,000.00 1.1.10 Especialista Ambiental Hombres/mes 8.3 L 65,000.00 L 539,500.00 Sub-total 1 L 7,571,600.00 2 Personal Administrativo Auxiliar y Otros 1.2.1 Administrador Hombres/mes 16.1 L 25,000.00 L 402,500.00 1.2.2 Secretaria Hombres/mes 16.1 L 17,000.00 L 273,700.00 1.2.3 Dibujante AutoCAD Hombres/mes 16.1 L 25,000.00 L 402,500.00 1.2.4 Laboratoristas Hombres/mes 22.6 L 25,000.00 L 565,000.00 1.2.5 Ayudantes de Laboratorio Hombres/mes 38.2 L 15,000.00 L 573,000.00 1.2.6 Inspectores de Campo Hombres/mes 68.4 L 20,000.00 L 1,368,000.00 1.2.7 Topógrafos Hombres/mes 21.6 L 25,000.00 L 540,000.00 1.2.8 Cadeneros Hombres/mes 37.2 L 15,000.00 L 558,000.00 1.2.9 Motoristas Hombres/mes 37.2 L 15,000.00 L 558,000.00 1.2.10 Ayudantes de Topografía Hombres/mes 37.7 L 13,500.00 L 508,950.00 1.2.11 Tiempo extra personal de campo (25%) % 25% L 5,073,450.00 L 1,268,362.50 Sub-total 2 L 7,018,012.50 Sub-Total I L 14,589,612.50 II BENEFICIOS SOCIALES 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) % 46.23% L14,589,612.50 L 6,744,777.86 Sub-Total II L6,744,777.86 III COSTOS OPERATIVOS 3.1.1 Materiales de Oficina y de Dibujo Mes 21.6 L 20,000.00 L 432,000.00 3.1.2 Reproducción de documentos Mes 21.6 L 25,000.00 L 540,000.00 3.1.3 Informes Mes 21.6 L 25,000.00 L 540,000.00 3.1.4 Alquiler de Oficina y Viviendas Mes 21.6 L 25,000.00 L 540,000.00 3.1.5 Servicios Públicos Mes 21.6 L 15,000.00 L 324,000.00 3.1.6 Comunicaciones Mes 21.6 L 15,000.00 L 324,000.00 3.1.7 Uso de Vehículos Mes 102 L 30,000.00 L 3,060,000.00 3.1.8 Uso de Equipo de Topografía Mes 21.6 L 20,000.00 L 432,000.00 3.1.9 Uso de Equipo de Computo Mes 21.6 L 20,000.00 L 432,000.00 3.1.10 Uso de Equipo de Laboratorio Mes 21.6 L 20,000.00 L 432,000.00 Sub-Total III L 7,056,000.00 IV GASTOS GENERALES 4.1 30% de (I+II) % 30% L21,334,390.36 L 6,400,317.11 Sub-Total IV L 6,400,317.11 V MANEJO DE GASTOS DIRECTOS 5.1 10% de III % 10% L7,056,000.00 L 705,600.00 Sub-Total V L 705,600.00 VI HONORARIOS 6.1 10% de (I+II+IV) % 10% L27,734,707.47 L 2,773,470.75 Sub-Total VI L 2,773,470.75 GRAN TOTAL L 38,269,778.22 RESUMEN I PERSONAL L 14,589,612.50 II BENEFICIOS SOCIALES L 6,744,777.86 III COSTOS OPERATIVOS L 7,056,000.00 IV GASTOS GENERALES L 6,400,317.11 V MANEJO DE GASTOS DIRECTOS L 705,600.00 VI HONORARIOS L 2,773,470.75 GRAN TOTAL L 38,269,778.22 Formulario No. 5 Detalles de costos (Sobre 2”) Etapa II: Supervisión de la Construcción N° Descripción Contrato Original Unidad Cantidad Precio Unitario I PERSONAL 1 Remuneraciones Personales 1.1 Arquitecto Hombres/mes 1 L 55,000.00 L 55,000.00 1.2 Ingeniero Especialista Estructural Hombres/mes 1 L 65,000.00 L 65,000.00 1.3 Ingeniero Especialista en Costos Hombres/mes 1 L 65,000.00 L 65,000.00 Sub-total 1 L 185,000.00 2 Personal Administrativo Auxiliar y Otros 2.1 Dibujante AutoCAD Hombres/mes 1 L 25,000.00 L 25,000.00 Sub-total 2 L 25,000.00 Sub-Total I L 210,000.00 II BENEFICIOS SOCIALES 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) % 46.23% L210,000.00 L 97,083.00 Sub-Total II L97,083.00 III COSTOS OPERATIVOS 3.1.1 Materiales de Oficina y de Dibujo Mes 0 L 20,000.00 L - 3.1.2 Reproducción de documentos Mes 0 L 25,000.00 L - 3.1.3 Informes Mes 0 L 25,000.00 L - 3.1.4 Alquiler de Oficina y Viviendas Mes 0 L 25,000.00 L - 3.1.5 Servicios Públicos Mes 0 L 15,000.00 L - 3.1.6 Comunicaciones Mes 0 L 15,000.00 L - 3.1.7 Uso de Vehículos Mes 0 L 30,000.00 L - 3.1.8 Uso de Equipo de Topografía Mes 0 L 20,000.00 L - 3.1.9 Uso de Equipo de Computo Mes 0 L 20,000.00 L - 3.1.10 Uso de Equipo de Laboratorio Mes 0 L 20,000.00 L - 3.1.11 Rediseño Paiasajista Mes 0 L - L - Sub-Total III L - IV GASTOS GENERALES 4.1 30% de (I+II) % 30% L 307,083.00 L 92,124.90 Sub-Total IV L 92,124.90 V MANEJO DE GASTOS DIRECTOS 5.1 10% de III % 10% L0.00 L - Sub-Total V L - VI HONORARIOS 6.1 10% de (I+II+IV) % 10% L399,207.90 L 39,920.79 Sub-Total VI L 39,920.79 GRAN TOTAL L 439,128.69 RESUMEN I PERSONAL L 210,000.00 II BENEFICIOS SOCIALES L 97,083.00 III COSTOS OPERATIVOS L - IV GASTOS GENERALES L 92,124.90 V MANEJO DE GASTOS DIRECTOS L - VI HONORARIOS L 39,920.79 GRAN TOTAL L 439,128.69
 
-2. “CONTRATO No.3142/GLA/AMDC/2024.- Obras para el Sostenimiento de la Red Vial del Distrito Central para el Lote: Dist. No. 1.
+2. “CONTRATO No. 3142/GLA/AMDC/2024.- Obras para el Sostenimiento de la Red Vial del Distrito Central para el Lote: Dist. No. 1.
 
 “Centro Histórico”; Código No. Dist.- U-0001 por un monto de cincuenta y nueve millones setecientos ochenta mil trescientos once con cincuenta y siete centavos (L.59,780,311.57) Lempiras…” CONTRATO No. 3142/GLA/ AMDC/2024.-CÓDIGO No. DIST-U-0001 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE:
 
-DISTRITO No. 1 “CENTRO HISTÓRICO”; CÓDIGO No.
-
-DIST-U-0001
+DISTRITO No. 1 “CENTRO HISTÓRICO”; CÓDIGO No. DIST-U-0001
 
 LPuNO-006-AMDC-041-2024 ________________________________ Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de este Contrato se denominará EL CONTRATANTE y el señor OSCAR ORLANDO CALONA HERRERA, de Nacionalidad hondureña, mayor de edad, con Documento Nacional de Identificación No. 0801-1957-05310, en su condición de Gerente General de la sociedad mercantil denominada INGENIEROS CALONA DE HONDURAS, S. DE R.L. de C.V. (INCAH), Representación que se acredita mediante Instrumento Público No. 369 de fecha 25 de Julio del año 2024; Autorizado por el Abogado y Notario Lydia María Torres Madariaga e inscrito bajo el No. 92232, Matrícula: 69093 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado I.P. Registro Mercantil, Sociedad Constituida mediante Instrumento Público No. 16, de fecha 06 de abril del año 1987, Autorizado por el Abogado y Notario Ramón Alfredo Silva Ortega e inscrito bajo el No. 98, Tomo: 195 del Registro de Comerciantes Sociales de Francisco Morazán, quien para los efectos de este contrato se denominará EL CONTRATISTA.
 
@@ -419,7 +413,7 @@ EL SUPERVISOR:
 
 Firma Consultora
 
-DE OBRAS: q u e a s i g n e l a Dirección de Control y Seguimiento FINANCIAMIENTO: Fondos Municipales
+DE OBRAS: que asigne la Dirección de Control y Seguimiento FINANCIAMIENTO: Fondos Municipales
 
 2. Los siguientes documentos constituyen parte integral del presente Contrato, corren adjunto a este y serán leídos e interpretados en forma conjunta con el:
 
@@ -445,7 +439,7 @@ REQUERIDO. EL CONTRATISTA con elementos suficientes que suministrará por su cue
 
 Descripción de la propuesta Distrito Centro Histórico (Distrito No. 1):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.1 Centro Histórico, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 1 Centro Histórico, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -465,11 +459,11 @@ CONTRATISTA se obliga a construir la obra contratada con apego estricto a los do
 
 ORDEN DE INICIO: Sera la fecha indicada por la Dirección de Control y Seguimiento.
 
-C L Á U S U L A C U A R T A :
+CLÁUSULA CUARTA:
 
 E L CONTRATANTE se obliga a pagar a EL CONTRATISTA por la construcción de las obras recibidas a su satisfacción de acuerdo con los términos y exigencias de este Contrato, a los precios unitarios de su propuesta, y a hacer efectivas las sumas que resulten pagaderas.
 
-C L Á U S U L A Q U I N TA: C OS TOS
+CLÁUSULA QUIN TA: C OS TOS
 
 UNITARIOS. - EL CONTRATISTA se obliga a llevar a cabo la ejecución del proyecto de acuerdo a las cantidades y precios unitarios que se encuentran en el apéndice “B” de este contrato.
 
@@ -481,7 +475,7 @@ Se podrá otorgar a EL CONTRATISTA el quince por ciento (15%) del monto del cont
 
 a) Garantía de Cumplimiento de Contrato, equivalente al quince por ciento (15%) del monto del contrato, con una duración de tres meses adicionales al plazo previsto para la terminación del contrato, contado a partir de la orden de inicio del contrato, b) Garantía de Anticipo: Previa entrega del anticipo EL CONTRATISTA deberá presentar una garantía por el equivalente al 100% del monto del anticipo, una duración de un mes adicional al plazo previsto para la terminación del contrato, contado a partir de la orden de inicio del contrato. c) Garantía de Calidad de Obra: Una vez efectuada la recepción final de las obras, y realizada la liquidación final del contrato, EL CONTRATISTA, sustituirá la garantía de cumplimiento de contrato, por una garantía de Calidad de Obra, equivalente al cinco por ciento (5%) del monto final de la obra y con una duración de doce (12) meses contado a partir de la fecha del Acta de Recepción Definitiva de la obra.- Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar en la República de Honduras y deberá contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la Alcaldía Municipal del Distrito Central, con la simple presentación de una nota de incumplimiento”. De cada pago que se haga a EL CONTRATISTA en concepto de estimación de obra se le retendrá a) El quince por ciento (15%) de cada estimación por concepto de devolución de anticipo hasta complementar el cien por ciento (100%) del anticipo. En la última estimación se deducirá el saldo pendiente de dicho anticipo; b) Se le deducirá a EL CONTRATISTA las retenciones del Impuesto Sobre la Renta de acuerdo a los establecido en las Leyes de la República de Honduras, en caso contrario, EL CONTRATISTA deberá acreditar ante EL CONTRATANTE, el correspondiente pago a cuenta por concepto de Impuesto Sobre la Renta de acuerdo a lo estipulado en la Ley, mediante Constancia emitida por el Sistema de Administración de Rentas (SAR).
 
-C L Á U S U L A S É P T I M A :
+CLÁUSULA SÉPTIMA:
 
 RECONOCIMIENTO DE MAYORES
 
@@ -517,11 +511,11 @@ CLÁUSULA RECORTE PRESUPUES-
 
 TARIO., DECRETO No. 62-2023, Art.
 
-No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA:
 
-“ C L Á U S U L A A N T I F R A U D E Y
+“ CLÁUSULA ANTIFRAUDE Y
 
 PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligada a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
 
@@ -553,15 +547,13 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa a los Veintiséis días del mes de Diciembre del año 2024.
 
-Por y en nombre del Contratante Firmado: (f.s) J O R G E A L E J A N D R O A L D A N A BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) OSCAR ORLANDO CALONA HERRERA Representante Legal de la Empresa INGENIEROS CALONA DE HONDURAS, S. DE R.L. DE C.V.
+Por y en nombre del Contratante Firmado: (f.s) JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) OSCAR ORLANDO CALONA HERRERA Representante Legal de la Empresa INGENIEROS CALONA DE HONDURAS, S. DE R.L. DE C.V.
 
 R.T.N. No. 08019995293533
 
 3. “CONTRATO No. 3140/GLA/AMDC/2024.- Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central para el lote Distrito No. 2 Laureles Norte por un monto de setenta y cuatro millones novecientos veintinueve mil setecientos dieciocho con treinta y un centavos (L. 74,929,718.31) Lempiras…” CONTRATO No. 3140/GLA/ AMDC/2024.- CÓDIGO No. DIST-U-0002 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE:
 
-DISTRITO No. 2 “LAURELES/ NORTE”; CÓDIGO No. DIST-U-0002 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801- 1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de este Contrato se denominará EL CONTRATANTE y el señor CESAR SAUL BRAN BARAHONA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No.
-
-0501-1976-08235 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada SERVICIOS Y REPRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN, S.
+DISTRITO No. 2 “LAURELES/ NORTE”; CÓDIGO No. DIST-U-0002 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de este Contrato se denominará EL CONTRATANTE y el señor CESAR SAUL BRAN BARAHONA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0501-1976-08235 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada SERVICIOS Y REPRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN, S.
 
 DE R.L. DE C.V. (SERPIC, S. de R.L. de C.V.), Representación que se acredita mediante Instrumento Público N° 285 de fecha 21 de Septiembre del año 2016; Autorizado por el Abogado y Notario Vilma Gladys Guevara Espinal e inscrito bajo el N° 36471, Matrícula:
 
@@ -579,7 +571,7 @@ DE R.L. DE C.V.
 
 Firma Consultora
 
-DE OBRAS q u e a s i g n e l a Dirección de Control y Seguimiento.
+DE OBRAS que asigne la Dirección de Control y Seguimiento.
 
 FINANCIAMIENTO: Fondos Municipales
 
@@ -607,7 +599,7 @@ REQUERIDO. EL CONTRATISTA con elementos suficientes que suministrará por su cue
 
 Descripción de la propuesta Distrito Laureles/ Norte (Distrito No. 2):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.2 Laureles/Norte, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 2 Laureles/Norte, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -627,7 +619,7 @@ CONTRATISTA se obliga a construir la obra contratada con apego estricto a los do
 
 ORDEN DE INICIO: Sera la fecha indicada por la Dirección de Control y Seguimiento.
 
-C L Á U S U L A C U A R T A :
+CLÁUSULA CUARTA:
 
 E L CONTRATANTE se obliga a pagar a EL CONTRATISTA por la construcción de las obras recibidas a su satisfacción de acuerdo con los términos y exigencias de este Contrato, a los precios unitarios de su propuesta, y a hacer efectivas las sumas que resulten pagaderas.
 
@@ -675,11 +667,11 @@ CLÁUSULA RECORTE PRESUPUES-
 
 TARIO., DECRETO No. 62-2023, Art.
 
-No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA:
 
-“ C L Á U S U L A A N T I F R A U D E Y
+“ CLÁUSULA ANTIFRAUDE Y
 
 PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligada a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
 
@@ -711,13 +703,13 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa a los Veintisiete días del mes de Diciembre del año 2024.
 
-Por y en nombre del Contratante Firmado: (f.s) J O R G E A L E J A N D R O A L D A N A BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) CESAR SAUL BRAN BARAHONA Representante Legal de la Empresa SERVICIOS Y REPRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN, S.
+Por y en nombre del Contratante Firmado: (f.s) JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) CESAR SAUL BRAN BARAHONA Representante Legal de la Empresa SERVICIOS Y REPRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN, S.
 
 DE R.L. DE C.V. (SERPIC, S. de R.L. de C.V.), R.T.N. No. 08019998380760
 
 4. “CONTRATO No. 0001/GLA/AMDC/2025.- Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Distrito 3: “21 de octubre/Norte”.- por un monto de cincuenta y cuatro millones quinientos sesenta y cinco mil quinientos treinta y cinco lempiras con treinta y un centavos (L.54,565,535.31)…” CONTRATO No. 0001/GLA/ AMDC/2025.- CÓDIGO No. DIST-U-0003 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE:
 
-DISTRITO No. 3 “21 DE OCTUBRE / NORTE”; CÓDIGO No. DIST-U-0003 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de este Contrato se denominará EL CONTRATANTE y el señor GERARDO ENRIQUE SANABRIA FLORES, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0301-1971- 00798 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada EQUIPOS DE CONSTRUCCIÓN, S.A. DE C.V.
+DISTRITO No. 3 “21 DE OCTUBRE / NORTE”; CÓDIGO No. DIST-U-0003 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de este Contrato se denominará EL CONTRATANTE y el señor GERARDO ENRIQUE SANABRIA FLORES, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0301-1971-00798 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada EQUIPOS DE CONSTRUCCIÓN, S.A. DE C.V.
 
 (CONSRUCTORA ECO), Representación que se acredita mediante Instrumento Público No. 11 de fecha 11 de Octubre del año 2024; Autorizado por el Abogado y Notario Carlos Torres López e inscrito bajo el N° 93711, Matrícula: 75650 del Registro Mercantil de Francisco Morazán, quien para los efectos de este contrato se denominará EL CONTRATISTA. Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de él se deriven, convienen en suscribir el presente Contrato para el proyecto denominado “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 3 “21 DE OCTUBRE/ NORTE”, con CÓDIGO No. DIST-U-0003” Licitación Pública Nacional No. LPuNO-006- AMDC-041-2024. Contrato que se regirá por las cláusulas y condiciones legales siguientes:
 
@@ -753,11 +745,9 @@ CLÁUSULA SEGUNDA: TRABAJO
 
 REQUERIDO. EL CONTRATISTA con elementos suficientes que suministrará por su cuenta y riesgo, se obliga a realizar para EL CONTRATANTE los siguientes trabajos:
 
-Descripción de la propuesta Distrito 21 de Octubre/ Norte (Distrito No.
+Descripción de la propuesta Distrito 21 de Octubre/ Norte (Distrito No. 3):
 
-3):
-
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.3 21 de octubre/ Norte, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 3 21 de octubre/ Norte, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -777,7 +767,7 @@ CONTRATISTA se obliga a construir la obra contratada con apego estricto a los do
 
 ORDEN DE INICIO: Sera la fecha indicada por la Dirección de Control y Seguimiento.
 
-C L Á U S U L A C U A R T A :
+CLÁUSULA CUARTA:
 
 E L CONTRATANTE se obliga a pagar a EL CONTRATISTA por la construcción de las obras recibidas a su satisfacción de acuerdo con los términos y exigencias de este Contrato, a los precios unitarios de su propuesta, y a hacer efectivas las sumas que resulten pagaderas.
 
@@ -819,13 +809,13 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA:
 
-C L Á U S U L A R E C O R T E
+CLÁUSULA RECORTE
 
-PRESUPUESTARIO., DECRETO No. 62- 2023, Art. No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO., DECRETO No. 62-2023, Art. No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA:
 
-“ C L Á U S U L A A N T I F R A U D E Y
+“ CLÁUSULA ANTIFRAUDE Y
 
 PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligada a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
 
@@ -855,7 +845,7 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 4. No usar el tráfico de influencias con el fin de obtener un beneficio o ventaja indebida para el instigador del acto o para cualquier otra persona.” EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa a los Trece días del mes de Enero del año 2025.
 
-Por y en nombre del Contratante Firmado: (f.s.) J O R G E A L E J A N D R O A L D A N A BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) GERARDO ENRIQUE SANABRIA FLORES Representante Legal de la Empresa EQUIPOS DE CONSTRUCCIÓN, S.A.
+Por y en nombre del Contratante Firmado: (f.s.) JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) GERARDO ENRIQUE SANABRIA FLORES Representante Legal de la Empresa EQUIPOS DE CONSTRUCCIÓN, S.A.
 
 DE C.V. (CONSRUCTORA ECO), RTN: 08019000233084
 
@@ -867,9 +857,7 @@ DISTRITO No. 4 “TONCONTÍN/ SUR”;
 
 CÓDIGO No. DIST-U-0004 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor IVIS GERMAN LOPEZ AYESTAS, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00823 y de este domicilio, quien actúa en su condición de Representante Legal de la Sociedad Mercantil denominada NACIONAL DE INGENIEROS ELECTROMECANICA, S.A DE C.V., Representación que se acredita mediante Instrumento Público No. 28 de fecha 21 de septiembre del año 2007; autorizado por el Abogado y Notario Oscar Bernardo Medina Cruz, e inscrito bajo el N° 10163, Matrícula:
 
-68829 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 4 “TONCONTÍN/ SUR”, con CÓDIGO No.
-
-DIST-U-0004” Licitación Pública Nacional No. LPuNO-006-AMDC-041-2024; de acuerdo a los términos siguiente:
+68829 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 4 “TONCONTÍN/ SUR”, con CÓDIGO No. DIST-U-0004” Licitación Pública Nacional No. LPuNO-006-AMDC-041-2024; de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -881,7 +869,7 @@ CONSIDERANDO #1: Que la Alcaldía Municipal del Distrito Central suscribió el C
 
 CONSIDERANDO #2: Que la fecha de orden de inicio del proyecto fue el ocho (08) de abril del año dos mil veinticinco (2025) y con fecha de finalización el dos (02) de enero del año dos mil veintiséis (2026).
 
-CONSIDERANDO #3: Que en fecha veintitrés (23) de junio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, informe de Modificación No.1 de Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 4 “TONCONTÍN/ SUR”, con CÓDIGO No. DIST-U-0004”, en base a los siguientes criterios: 1. Logística de la zona, 2. Facilidad de movimiento de maquinaria, 3. Precios de la zona. Las áreas a intervenir serán las siguientes, según el mapa de los términos en referencia:
+CONSIDERANDO #3: Que en fecha veintitrés (23) de junio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, informe de Modificación No. 1 de Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 4 “TONCONTÍN/ SUR”, con CÓDIGO No. DIST-U-0004”, en base a los siguientes criterios: 1. Logística de la zona, 2. Facilidad de movimiento de maquinaria, 3. Precios de la zona. Las áreas a intervenir serán las siguientes, según el mapa de los términos en referencia:
 
 1. Distrito 4, Toncontín/Sur (área según TDR:
 
@@ -897,15 +885,15 @@ Algunos de los problemas que se observan con mayor frecuencia, son diseños no a
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, se hace la solicitud formal para modificar el alcance establecido en la formulación original del proyecto, conforme a lo dispuesto en la CGC 1.1 (y) de las Condiciones Especiales del Contrato “Distrito Toncontín/Sur (Distrito No.4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte Sur de Comayagüela”, se modificará la cláusula del contrato que deberá leerse de la siguiente manera:
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, se hace la solicitud formal para modificar el alcance establecido en la formulación original del proyecto, conforme a lo dispuesto en la CGC 1.1 (y) de las Condiciones Especiales del Contrato “Distrito Toncontín/Sur (Distrito No. 4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte Sur de Comayagüela”, se modificará la cláusula del contrato que deberá leerse de la siguiente manera:
 
-CGC 1.1 (y) “Distrito Toncontín/Sur (Distrito No.4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte Sur de Comayagüela, incorporando al área del Distrito No.4, 7.45 km2, correspondiente a las Colonias: Loarque, Río Grande, María Auxiliadora, San Sebastián, El Recreo, Reynel Funez, Santa Rosa y Altos de Santa Rosa; Las áreas anteriores son parte del Distrito No.7 “Kennedy/Este” (5.54 km2) y 1.91 km2 que no estaba asignado dentro de los Distritos Urbanos.
+CGC 1.1 (y) “Distrito Toncontín/Sur (Distrito No. 4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte Sur de Comayagüela, incorporando al área del Distrito No. 4, 7.45 km2, correspondiente a las Colonias: Loarque, Río Grande, María Auxiliadora, San Sebastián, El Recreo, Reynel Funez, Santa Rosa y Altos de Santa Rosa; Las áreas anteriores son parte del Distrito No. 7 “Kennedy/Este” (5.54 km2) y 1.91 km2 que no estaba asignado dentro de los Distritos Urbanos.
 
 9 REAJUSTE DEL ALCANCE DEL CONTRATO
 
-El contrato “Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote Distrito No.4 “Toncontín/Sur”;
+El contrato “Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote Distrito No. 4 “Toncontín/Sur”;
 
-Código No. DIST-U-0004, después de 3 meses de ejecución y de un avance promedio del 30.32% del contrato de Construcción, en donde las necesidades de mejoramiento de las vías principales de la ciudad, especialmente en el sector de Comayagüela, en la cual la proporción de calles de concreto es mayor a las de asfalto, así como ya existe apertura para la reparación de las dos arterias principales de la ciudad (Blv. FFAA y Anillo Periférico) que ya comienzan a presentar daños en su superficie de rodadura en ciertos puntos y tramos, pero que por los diferentes alcances contractuales no incluye ciertas áreas que pueden cubrir los contratistas por la cercanía, logística y equidad de las cantidades de obra, especialmente en la actividad de suministro de mezcla asfáltica para bacheo. Se vió la necesidad de redistribuir el área para el Distrito No.4, con el objetivo AREA TOTAL NUEVA D4: 42.65 KM2 AREA TOTAL NUEVA D7: 23.06 KM2 de optimizar la eficiencia o capacidad de ejecución según las características y solicitudes de la Comuna Capitalina.
+Código No. DIST-U-0004, después de 3 meses de ejecución y de un avance promedio del 30.32% del contrato de Construcción, en donde las necesidades de mejoramiento de las vías principales de la ciudad, especialmente en el sector de Comayagüela, en la cual la proporción de calles de concreto es mayor a las de asfalto, así como ya existe apertura para la reparación de las dos arterias principales de la ciudad (Blv. FFAA y Anillo Periférico) que ya comienzan a presentar daños en su superficie de rodadura en ciertos puntos y tramos, pero que por los diferentes alcances contractuales no incluye ciertas áreas que pueden cubrir los contratistas por la cercanía, logística y equidad de las cantidades de obra, especialmente en la actividad de suministro de mezcla asfáltica para bacheo. Se vió la necesidad de redistribuir el área para el Distrito No. 4, con el objetivo AREA TOTAL NUEVA D4: 42.65 KM2 AREA TOTAL NUEVA D7: 23.06 KM2 de optimizar la eficiencia o capacidad de ejecución según las características y solicitudes de la Comuna Capitalina.
 
 Siendo así, a continuación, se describe brevemente el cambio a los alcances de las áreas correspondientes a cada distrito, sin afectar la funcionalidad de las obras ejecutadas y programadas de cada uno de ellos:
 
@@ -925,15 +913,11 @@ En conjunto, estos factores justifican técnicamente la necesidad de mejorar la 
 
 La presente justificación para la Modificación del contrato de Construcción, se fundamenta en causas objetivas, documentadas y alineadas con el marco técnico y administrativo vigente, y tiene como propósito garantizar la transparencia y trazabilidad del proceso de cierre del proyecto, sin modificar los montos contractuales y manteniendo el plazo original de los mismos.
 
-La presente solicitud de modificación se enmarca dentro de las disposiciones legales pertinentes, siendo competencia del CONTRATANTE modificar los Contratos de Obra Pública de acuerdo con lo establecido en la Ley de Contratación del Estado, especialmente en los Artículos 119 y 121 de la Ley de Contratación del Estado, y de conformidad a la Cláusula del Contrato No.
-
-53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico y la participación activa en la búsqueda de soluciones para los desafíos inherentes a la construcción, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No.1 del Contrato No. 0003/GLA/AMDC/2025, LPuNO-006-AMDC-041-2024, Código No.
-
-DIST-U-0004, correspondiente al proyecto:
+La presente solicitud de modificación se enmarca dentro de las disposiciones legales pertinentes, siendo competencia del CONTRATANTE modificar los Contratos de Obra Pública de acuerdo con lo establecido en la Ley de Contratación del Estado, especialmente en los Artículos 119 y 121 de la Ley de Contratación del Estado, y de conformidad a la Cláusula del Contrato No. 53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico y la participación activa en la búsqueda de soluciones para los desafíos inherentes a la construcción, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No. 1 del Contrato No. 0003/GLA/AMDC/2025, LPuNO-006-AMDC-041-2024, Código No. DIST-U-0004, correspondiente al proyecto:
 
 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL, PARA EL LOTE:
 
-DISTRITO No.4 “TONCONTÍN/SUR”.
+DISTRITO No. 4 “TONCONTÍN/SUR”.
 
 CONSIDERANDO #6: Fundamentamos esta solicitud presentada por el consultor en los artículos 119 numerales 2, 121, de la Ley de Contratación del Estado, 202, 203 del Reglamento de la Ley de Contratación del Estado y lo indicado en la Cláusula 53 (Terminación de la Obras), Apartado 53.2 de las Condiciones Generales del Contrato.
 
@@ -945,13 +929,13 @@ PRIMERA: Se modifica el Cláusula CGC 1.1
 
 (y) de las Condiciones Especiales del Contrato: la cual deberá leerse de la siguiente manera:
 
-CGC 1.1 (y) “Distrito Toncontin/Sur (Distrito No.4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte sur de Comayagüela, incorporando al área del Distrito No.4, 7.45 km2, correspondiente a las Colonias: Loarque, Río Grande, María Auxiliadora, San Sebastián, El Recreo, Reynel Funez, Santa Rosa y Altos de Santa Rosa; Las áreas anteriores son parte del Distrito No.7 “Kennedy/Este” (5.54 km2) y 1.91 km2 que no estaba asignado dentro de los Distritos Urbanos.
+CGC 1.1 (y) “Distrito Toncontin/Sur (Distrito No. 4): El proyecto está delimitado entre el Río Guacerique y el Río Choluteca parte sur de Comayagüela, incorporando al área del Distrito No. 4, 7.45 km2, correspondiente a las Colonias: Loarque, Río Grande, María Auxiliadora, San Sebastián, El Recreo, Reynel Funez, Santa Rosa y Altos de Santa Rosa; Las áreas anteriores son parte del Distrito No. 7 “Kennedy/Este” (5.54 km2) y 1.91 km2 que no estaba asignado dentro de los Distritos Urbanos.
 
 SEGUNDA: Se modifica el Cláusula CGC 1.1 (ff) de las Condiciones Especiales del Contrato: la cual deberá leerse de la siguiente manera:
 
 CGC 1.1 (ff) Descripción de la propuesta Distrito Toncontin/ Sur (Distrito No. 4):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.4 Toncontín/Sur, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 4 Toncontín/Sur, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -967,15 +951,13 @@ En el caso de encontrar tuberías dañadas estas se deberán de sustituir por lo
 
 “El contratante junto con la supervisión, podrá ordenar al contratista trabajos de rehabilitación o pavimentación de calles en otras zonas de ambas ciudades, que por prioridad se requieran atender”.
 
-TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la presente Modificación No. 1 de conformidad con las Leyes de la República de Honduras, a los Dos (02) días del mes de julio del año dos mil veinticinco (2025) (f.s) Jorge Alejandro Aldana Bardales Alcalde Municipal EL CONTRATANTE (f.s) Ivis German Lopez Ayestas Nacional de Ingenieros Electromecánica, S.A. de C.V.
 
 RTN: 08019002265548 EL CONTRATISTA
 
-6. “CONTRATO No. 0109/GLA/AMDC/2025.- Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Distrito No.
-
-5 Florencia/Este; por un monto de cincuenta y cuatro millones novecientos ochenta mil novecientos noventa y dos lempiras con setenta y cuatro centavos (L. 54,980,992.74) Lempiras… CONTRATO No. 0109/GLA/AMDC/ 2025.- CÓDIGO No. DIST-U-0005 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE:
+6. “CONTRATO No. 0109/GLA/AMDC/2025.- Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Distrito No. 5 Florencia/Este; por un monto de cincuenta y cuatro millones novecientos ochenta mil novecientos noventa y dos lempiras con setenta y cuatro centavos (L. 54,980,992.74) Lempiras… CONTRATO No. 0109/GLA/AMDC/ 2025.- CÓDIGO No. DIST-U-0005 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE:
 
 DISTRITO No. 5 “FLORENCIA/ ESTE”;
 
@@ -1013,7 +995,7 @@ REQUERIDO. EL CONTRATISTA con elementos suficientes que suministrará por su cue
 
 Descripción de la propuesta Distrito Florencia/ Este (Distrito No. 5):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.5 Florencia/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 5 Florencia/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -1033,11 +1015,11 @@ CONTRATISTA se obliga a construir la obra contratada con apego estricto a los do
 
 ORDEN DE INICIO: Sera la fecha indicada por la Dirección de Control y Seguimiento.
 
-C L Á U S U L A C U A R T A :
+CLÁUSULA CUARTA:
 
 E L CONTRATANTE se obliga a pagar a EL CONTRATISTA por la construcción de las obras recibidas a su satisfacción de acuerdo con los términos y exigencias de este Contrato, a los precios unitarios de su propuesta, y a hacer efectivas las sumas que resulten pagaderas.
 
-C L Á U S U L A Q U I N TA: C OS TOS
+CLÁUSULA QUIN TA: C OS TOS
 
 UNITARIOS. - EL CONTRATISTA se obliga a llevar a cabo la ejecución del proyecto de acuerdo a las cantidades y precios unitarios que se encuentran en el apéndice “B” de este contrato.
 
@@ -1085,11 +1067,11 @@ CLÁUSULA RECORTE PRESUPUES-
 
 TARIO., DECRETO No. 4-2024, Art.
 
-No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA:
 
-“ C L Á U S U L A A N T I F R A U D E Y
+“ CLÁUSULA ANTIFRAUDE Y
 
 PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligada a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
 
@@ -1121,7 +1103,7 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa a los Trece días del mes de Febrero del año 2025.
 
-Por y en nombre del Contratante Firmado: (f.s) J O R G E A L E J A N D R O A L D A N A BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) JOZIEL HAZEL ZUNIGA CANALES Representante Legal de la Empresa CONSTRUCTORA J&L, S. DE R.L.
+Por y en nombre del Contratante Firmado: (f.s) JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: (f.s) JOZIEL HAZEL ZUNIGA CANALES Representante Legal de la Empresa CONSTRUCTORA J&L, S. DE R.L.
 
 RTN: 08019013609310
 
@@ -1137,7 +1119,7 @@ DISTRITO No. 6 “VILLA NUEVA/ ESTE”; CÓDIGO No. DIST-U-0006 LPuNO-006-AMDC-0
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
-1.- EL CONTRATANTE: Alcaldía Municipal del Distrito Central 2.- EL CONTRATISTA: NACIONAL DE I N G E N I E R O S ELECTROMECANICA, S.A DE C.V.
+1.- EL CONTRATANTE: Alcaldía Municipal del Distrito Central 2.- EL CONTRATISTA: NACIONAL DE INGENIEROS ELECTROMECANICA, S.A DE C.V.
 
 3.- UNIDAD
 
@@ -1151,7 +1133,7 @@ CONSIDERANDO #2: Que la fecha de orden de inicio del proyecto fue el ocho (08) d
 
 CONSIDERANDO #3: Que en fecha Veinte
 
-(20) de junio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, informe de Modificación No.1 de Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 6 “VILLA NUEVA/ ESTE”, con CÓDIGO No. DIST-U-0006”, en base a los siguientes criterios: 1. Logística de la zona, 2. Facilidad de movimiento de maquinaria, 3. Precios de la zona. Las áreas a intercambiar serián las siguientes, según el mapa de los términos en referencia: 1. Distrito 6, Villanueva/Este (área según TDR: 25.00 km2), se propone incorporar 0.67 km2 provenientes del Distrito 5 correspondientes al sector de la Residencial El Trapiche, con el objetivo de optimizar la distribución territorial y mejorar la cobertura operativa dentro del marco del proyecto de sostenimiento vial, Área Total Nueva D6:
+(20) de junio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, informe de Modificación No. 1 de Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 6 “VILLA NUEVA/ ESTE”, con CÓDIGO No. DIST-U-0006”, en base a los siguientes criterios: 1. Logística de la zona, 2. Facilidad de movimiento de maquinaria, 3. Precios de la zona. Las áreas a intercambiar serián las siguientes, según el mapa de los términos en referencia: 1. Distrito 6, Villanueva/Este (área según TDR: 25.00 km2), se propone incorporar 0.67 km2 provenientes del Distrito 5 correspondientes al sector de la Residencial El Trapiche, con el objetivo de optimizar la distribución territorial y mejorar la cobertura operativa dentro del marco del proyecto de sostenimiento vial, Área Total Nueva D6:
 
 25.67 km2,
 
@@ -1165,29 +1147,29 @@ Para llevar a cabo estas mejoras y desarrollar nuevas alternativas de administra
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, se hace la solicitud formal para modificar el alcance establecido en la formulación original del proyecto, conforme a lo dispuesto en la CGC 1.1 (y) de las Condiciones Especiales del Contrato “Distrito Villa Nueva/Este (Distrito No.6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa”, se modificará la cláusula del contrato que deberá leerse de la siguiente manera:
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, se hace la solicitud formal para modificar el alcance establecido en la formulación original del proyecto, conforme a lo dispuesto en la CGC 1.1 (y) de las Condiciones Especiales del Contrato “Distrito Villa Nueva/Este (Distrito No. 6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa”, se modificará la cláusula del contrato que deberá leerse de la siguiente manera:
 
-CGC 1.1 (y) “Distrito Villa Nueva/Este (Distrito No.6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa, incorporando al área del Distrito No.6,
+CGC 1.1 (y) “Distrito Villa Nueva/Este (Distrito No. 6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa, incorporando al área del Distrito No. 6,
 
-0.67 km2, correspondiente al sector de la Residencial El Trapiche, el cual es parte del Distrito No.5 “Florencia/Este”.
+0.67 km2, correspondiente al sector de la Residencial El Trapiche, el cual es parte del Distrito No. 5 “Florencia/Este”.
 
 9 REAJUSTE DEL ALCANCE DEL CONTRATO
 
-El contrato “Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote Distrito No.6 “Villa Nueva/Este”; Código No. DIST-U-0006, después de 3 meses de ejecución, el proyecto presenta un avance físico promedio del 41.00% del contrato de construcción. Las actividades se desarrollan en el Distrito 6 del Municipio del Distrito Central, donde se ha identificado la necesidad de mejorar y mantener las vías principales, debido al progresivo deterioro de la superficie de rodadura y a la coexistencia de calles de concreto y asfalto dentro de la zona.
+El contrato “Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote Distrito No. 6 “Villa Nueva/Este”; Código No. DIST-U-0006, después de 3 meses de ejecución, el proyecto presenta un avance físico promedio del 41.00% del contrato de construcción. Las actividades se desarrollan en el Distrito 6 del Municipio del Distrito Central, donde se ha identificado la necesidad de mejorar y mantener las vías principales, debido al progresivo deterioro de la superficie de rodadura y a la coexistencia de calles de concreto y asfalto dentro de la zona.
 
-Actualmente, se ha autorizado la intervención de varios sectores prioritarios dentro del Distrito No.6, entre ellos la Colonia San Ignacio con trabajos de bacheo, Loma Linda Sur con bacheo, y el Bulevar Santa Cristina, donde se ejecutaron labores de bacheo y colocación de Microcarpeta Asfáltica. No obstante, debido a los diferentes alcances contractuales, algunas áreas específicas no se encuentran contempladas dentro de las intervenciones directas de los contratos vigentes.
+Actualmente, se ha autorizado la intervención de varios sectores prioritarios dentro del Distrito No. 6, entre ellos la Colonia San Ignacio con trabajos de bacheo, Loma Linda Sur con bacheo, y el Bulevar Santa Cristina, donde se ejecutaron labores de bacheo y colocación de Microcarpeta Asfáltica. No obstante, debido a los diferentes alcances contractuales, algunas áreas específicas no se encuentran contempladas dentro de las intervenciones directas de los contratos vigentes.
 
 Tal es el caso de la solicitud de AMDC sobre considerar la ejecución del tramo correspondiente a la Residencial El Trapiche, con actividades de restitución de losas dislocadas de concreto hidráulico. Sin embargo, dicho sector pertenece a otro distrito, por lo que su atención se coordinará de acuerdo con los límites administrativos y contractuales establecidos, evitando interferencias o duplicidades en la ejecución.
 
-Por tal motivo, se determinó la necesidad de redistribuir las áreas de trabajo asignadas dentro del Distrito No.6, con el objetivo de optimizar la eficiencia operativa y la capacidad de ejecución de los contratistas, aprovechando su proximidad geográfica, la logística disponible y garantizando una distribución equitativa de las cantidades de obra, principalmente en las actividades relacionadas con el suministro y aplicación de mezcla asfáltica para bacheo.
+Por tal motivo, se determinó la necesidad de redistribuir las áreas de trabajo asignadas dentro del Distrito No. 6, con el objetivo de optimizar la eficiencia operativa y la capacidad de ejecución de los contratistas, aprovechando su proximidad geográfica, la logística disponible y garantizando una distribución equitativa de las cantidades de obra, principalmente en las actividades relacionadas con el suministro y aplicación de mezcla asfáltica para bacheo.
 
-En consecuencia, se detalla la modificación de los alcances y áreas de intervención correspondientes al Distrito No.6, sin afectar la funcionalidad, programación ni calidad de las obras ya ejecutadas o en proceso de ejecución:
+En consecuencia, se detalla la modificación de los alcances y áreas de intervención correspondientes al Distrito No. 6, sin afectar la funcionalidad, programación ni calidad de las obras ya ejecutadas o en proceso de ejecución:
 
 1. Distrito No. 6, Villa Nueva/Este (área según ÁREA TOTAL NUEVA D6: 25.67 KM2 TDR: 25.00 km²): Se propone incorporar
 
-0.67 km² provenientes del Distrito No.5 “Florencia/Este”. correspondientes al sector de la Residencial El Trapiche, con el objetivo de optimizar la distribución territorial y mejorar la cobertura operativa dentro del marco del proyecto de sostenimiento vial.
+0.67 km² provenientes del Distrito No. 5 “Florencia/Este”. correspondientes al sector de la Residencial El Trapiche, con el objetivo de optimizar la distribución territorial y mejorar la cobertura operativa dentro del marco del proyecto de sostenimiento vial.
 
-La inclusión de dicha área permitirá atender de manera más eficiente las necesidades de mantenimiento y restitución de losas dislocadas en dicho sector, aprovechando la cercanía logística y la disponibilidad de los contratistas asignados al Distrito No.6, Villa Nueva/Este. (Ver croquis adjunto) Se decidió ampliar el área de intervención del Distrito No.6 debido a la gran cantidad de frentes activos en el Distrito No.5, el cual está cumpliendo satisfactoriamente con todas las exigencias establecidas. No obstante, para optimizar la capacidad de respuesta y atender de manera más eficiente las necesidades de la ciudad, se procedió a modificar la delimitación del área, incorporando una nueva zona al Distrito No.6. Esta medida permitirá coordinar de manera conjunta los trabajos entre ambos distritos, asegurando una atención más rápida y oportuna, mejor cobertura de las intervenciones programadas y un uso más eficiente de los contratistas y recursos disponibles, garantizando así la funcionalidad continua y la seguridad de la red vial.
+La inclusión de dicha área permitirá atender de manera más eficiente las necesidades de mantenimiento y restitución de losas dislocadas en dicho sector, aprovechando la cercanía logística y la disponibilidad de los contratistas asignados al Distrito No. 6, Villa Nueva/Este. (Ver croquis adjunto) Se decidió ampliar el área de intervención del Distrito No. 6 debido a la gran cantidad de frentes activos en el Distrito No. 5, el cual está cumpliendo satisfactoriamente con todas las exigencias establecidas. No obstante, para optimizar la capacidad de respuesta y atender de manera más eficiente las necesidades de la ciudad, se procedió a modificar la delimitación del área, incorporando una nueva zona al Distrito No. 6. Esta medida permitirá coordinar de manera conjunta los trabajos entre ambos distritos, asegurando una atención más rápida y oportuna, mejor cobertura de las intervenciones programadas y un uso más eficiente de los contratistas y recursos disponibles, garantizando así la funcionalidad continua y la seguridad de la red vial.
 
 Asimismo, al acercarse el período de invierno, el cual según pronósticos meteorológicos de Sistema de Alerta Temprana de COPECO, se espera un período copioso de lluvias en la zona central del país, que, sumado a la vulnerabilidad y a la poca infraestructura en buenas condiciones existente de la ciudad, se ve la necesidad de ampliar el área de alcance de las obras de emergencia que puedan suceder, con el objetivo de tener más cobertura y disponibilidad de los contratistas.
 
@@ -1199,13 +1181,11 @@ La presente justificación para la Modificación del contrato de Construcción, 
 
 La presente solicitud de modificación se enmarca dentro de las disposiciones legales pertinentes, siendo competencia del CONTRATANTE modificar los Contratos de Obra Pública de acuerdo con lo establecido en la Ley de Contratación del Estado, especialmente en los
 
-Artículos 119 y 121 de la Ley de Contratación del Estado, y de conformidad a la Cláusula del Contrato No. 53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico y la participación activa en la búsqueda de soluciones para los desafíos inherentes a la construcción, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No.1 del Contrato No. 0004/GLA/AMDC/2025, LPuNO-006-AMDC-041-2024, Código No.
-
-DIST-U-0006, correspondiente al proyecto:
+Artículos 119 y 121 de la Ley de Contratación del Estado, y de conformidad a la Cláusula del Contrato No. 53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico y la participación activa en la búsqueda de soluciones para los desafíos inherentes a la construcción, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No. 1 del Contrato No. 0004/GLA/AMDC/2025, LPuNO-006-AMDC-041-2024, Código No. DIST-U-0006, correspondiente al proyecto:
 
 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL, PARA EL LOTE:
 
-DISTRITO No.6 “VILLA NUEVA/ESTE”.
+DISTRITO No. 6 “VILLA NUEVA/ESTE”.
 
 CONSIDERANDO #6: Fundamentamos esta solicitud presentada por el consultor en los artículos 119 numerales 2, 121, de la Ley de Contratación del Estado, 202, 203 del Reglamento de la Ley de Contratación del Estado y lo indicado en la Cláusula 53 (Terminación de la Obras), Apartado 53.2 de las Condiciones Generales del Contrato.
 
@@ -1217,15 +1197,15 @@ PRIMERA: Se modifica el Cláusula CGC 1.1
 
 (y) de las Condiciones Especiales del Contrato: la cual deberá leerse de la siguiente manera:
 
-CGC 1.1 (y) “Distrito Villa Nueva/Este (Distrito No.6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa, incorporando al área del Distrito No.6,
+CGC 1.1 (y) “Distrito Villa Nueva/Este (Distrito No. 6): El proyecto está contemplado en la parte Centro – Este de Tegucigalpa, incorporando al área del Distrito No. 6,
 
-0.67 km2, correspondiente al sector de la Residencial El Trapiche, el cual es parte del Distrito No.5 “Florencia/Este”.
+0.67 km2, correspondiente al sector de la Residencial El Trapiche, el cual es parte del Distrito No. 5 “Florencia/Este”.
 
 SEGUNDA: Se modifica el Cláusula CGC 1.1 (ff) de las Condiciones Especiales del Contrato: la cual deberá leerse de la siguiente manera:
 
 CGC 1.1 (ff) Descripción de la propuesta Distrito Villa Nueva/ Este (Distrito No. 6):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.6 Villa Nueva/este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 6 Villa Nueva/este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -1241,7 +1221,7 @@ En el caso de encontrar tuberías dañadas estas se deberán de sustituir por lo
 
 “El contratante junto con la supervisión, podrá ordenar al contratista trabajos de rehabilitación o pavimentación de calles en otras zonas de ambas ciudades, que por prioridad se requieran atender”.
 
-TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la presente Modificación No. 1 de conformidad con las Leyes de la República de Honduras, a los cuatro (04) días del mes de julio del año dos mil veinticinco (2025).
 
@@ -1249,7 +1229,7 @@ EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la pr
 
 RTN: 08019002265548 EL CONTRATISTA
 
-8. “CONTRATO No. 3139/GLA/AMDC/2024.- Obras para el sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote: Distrito No.7: Kennedy/Este, por un monto de Setenta y nueve millones seiscientos setenta y siete mil doscientos ochenta y seis lempiras con cincuenta y un centavos.
+8. “CONTRATO No. 3139/GLA/AMDC/2024.- Obras para el sostenimiento de la Red Vial en el Municipio del Distrito Central, para el Lote: Distrito No. 7: Kennedy/Este, por un monto de Setenta y nueve millones seiscientos setenta y siete mil doscientos ochenta y seis lempiras con cincuenta y un centavos.
 
 (L. 79,677,286.51)….”
 
@@ -1259,9 +1239,7 @@ CONTRATO No. 3139/GLA/AMDC/2024.- CÓDIGO No. DIST-U-0007 “OBRAS PARA EL SOSTE
 
 DISTRITO No. 7 “KENNEDY/ ESTE”;
 
-CÓDIGO No. DIST-U-0007 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor JORGE RAFAEL CARTAGENA HERNANDEZ, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación 0801-1977-05569, en su condición de Gerente General de la sociedad mercantil SERVICIOS DE INGENIERÍA PARA TELECOMUNICACIONES, ELECTRICIDAD Y CONSTRUCCIÓN, S.A. (SINTEC)., condición que acredita mediante Testimonio de Escritura Pública No. 321 de fecha 28 del mes de octubre del año 2015 Autorizado por el Abogado y Notario Alfredo Banegas Cruz, e inscrito bajo el número 31422, Matrícula: 2512699 del Registro Mercantil de Francisco Morazán, Centro Asociado IP, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con CÓDIGO No.
-
-DIST-U-0007” Licitación Pública Nacional No. LPuNO-006-AMDC-041-2024; de acuerdo a los términos siguiente:
+CÓDIGO No. DIST-U-0007 LPuNO-006-AMDC-041-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor JORGE RAFAEL CARTAGENA HERNANDEZ, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación 0801-1977-05569, en su condición de Gerente General de la sociedad mercantil SERVICIOS DE INGENIERÍA PARA TELECOMUNICACIONES, ELECTRICIDAD Y CONSTRUCCIÓN, S.A. (SINTEC)., condición que acredita mediante Testimonio de Escritura Pública No. 321 de fecha 28 del mes de octubre del año 2015 Autorizado por el Abogado y Notario Alfredo Banegas Cruz, e inscrito bajo el número 31422, Matrícula: 2512699 del Registro Mercantil de Francisco Morazán, Centro Asociado IP, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con CÓDIGO No. DIST-U-0007” Licitación Pública Nacional No. LPuNO-006-AMDC-041-2024; de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -1271,13 +1249,11 @@ CONSIDERANDO #1: Que la Alcaldía Municipal del Distrito Central suscribió el C
 
 CONSIDERANDO #2: Que la fecha de orden de inicio del proyecto fue el ocho (08) de abril del año dos mil veinticinco (2025) y con fecha de finalización el Dos (02) de enero del año dos mil veintiséis (2026).
 
-CONSIDERANDO #3: Que en fecha Veintiséis (26) de junio del año dos mil veinticinco (2025), la empresa contratada para la ejecución del proyecto remitió a la supervisión solicitud de Modificación No 1 del Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con Código No.
-
-DIST-U-0007 la cual no sufre ninguna alteración en el monto ni el plazo del contrato, pero si una redistribución de las cantidades de obra e incorporar nuevas actividades debido al alcance del proyecto en referencia.
+CONSIDERANDO #3: Que en fecha Veintiséis (26) de junio del año dos mil veinticinco (2025), la empresa contratada para la ejecución del proyecto remitió a la supervisión solicitud de Modificación No 1 del Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con Código No. DIST-U-0007 la cual no sufre ninguna alteración en el monto ni el plazo del contrato, pero si una redistribución de las cantidades de obra e incorporar nuevas actividades debido al alcance del proyecto en referencia.
 
 CONSIDERANDO #4: Que en fecha Siete
 
-(07) de julio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, Informe de solicitud de Modificación No.1 del Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con Código No. DIST-U-0007, en la cual se realiza un reordenamiento interno de las cantidades de obra, sin alterar el monto contractual. en conclusión, de acuerdo con el análisis técnico de cada una de las actividades de la readecuación de las cantidades de obra, las cuales se detallan en el presente informe, esta Supervisión dictamina Procedente la aprobación de la Modificación No. 1
+(07) de julio del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, Informe de solicitud de Modificación No. 1 del Proyecto “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, con Código No. DIST-U-0007, en la cual se realiza un reordenamiento interno de las cantidades de obra, sin alterar el monto contractual. en conclusión, de acuerdo con el análisis técnico de cada una de las actividades de la readecuación de las cantidades de obra, las cuales se detallan en el presente informe, esta Supervisión dictamina Procedente la aprobación de la Modificación No. 1
 
 CONSIDERANDO #5: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Alcance del Proyecto Contractual del CONTRATO No. 3139/GLA/AMDC/2024.- CÓDIGO No. DIST-U-0007 “OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” PARA EL LOTE DISTRITO 7 “KENNEDY/ ESTE”, suscrito entre la Alcaldía Municipal del Distrito Central y la empresa SERVICIOS DE INGENIERÍA PARA TELECOMUNICACIONES, ELECTRICIDAD Y CONSTRUCCIÓN, S.A. (SINTEC). Dicha modificación fue revisada y aprobada por la Unidad Ejecutora mediante Resumen Ejecutivo de fecha treinta
 
@@ -1285,9 +1261,7 @@ CONSIDERANDO #5: Que la Dirección de Control y Seguimiento remite solicitud de 
 
 Durante la ejecución del contrato No. 3139/ GLA/AMDC/2024, denominado “Obras para el Sostenimiento de la Red Vial en el municipio del Distrito Central”, correspondiente al Lote:
 
-Distrito No. 7 “Kennedy/Este”; Código No.
-
-DIST-U-0007, se ha identificado la necesidad de ajustar el alcance del contrato en función de los requerimientos técnicos de los sitios priorizados, derivados de evaluaciones en campo y de las solicitudes recurrentes de intervención.
+Distrito No. 7 “Kennedy/Este”; Código No. DIST-U-0007, se ha identificado la necesidad de ajustar el alcance del contrato en función de los requerimientos técnicos de los sitios priorizados, derivados de evaluaciones en campo y de las solicitudes recurrentes de intervención.
 
 Como resultado de dicho análisis, se determinó la atención prioritaria de los siguientes tramos:
 
@@ -1333,9 +1307,7 @@ Esta redistribución permitirá ejecutar los trabajos conforme al nivel de urgen
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, luego de analizar el programa de ejecución de las obras, los alcances del proyecto y las necesidades generales de la ciudad, considerando las contingencias derivadas de la vulnerabilidad del sector de Tegucigalpa, particularmente por la saturación de los suelos y el período de lluvias intensas pronosticado por COPECO para los próximos meses, concluye que resulta imperativa la modificación del contrato No.
-
-3139/GLA/AMDC/2024.
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, luego de analizar el programa de ejecución de las obras, los alcances del proyecto y las necesidades generales de la ciudad, considerando las contingencias derivadas de la vulnerabilidad del sector de Tegucigalpa, particularmente por la saturación de los suelos y el período de lluvias intensas pronosticado por COPECO para los próximos meses, concluye que resulta imperativa la modificación del contrato No. 3139/GLA/AMDC/2024.
 
 Dicha modificación tiene como finalidad ampliar la cobertura del alcance operativo del contratista Servicios de Ingeniería para Telecomunicaciones, Electricidad y Construcción, S.A. (SINTEC), permitiendo una atención más oportuna y eficiente de las solicitudes de la ciudadanía, sin desatender el programa de intervención originalmente estimado.
 
@@ -1473,11 +1445,7 @@ ARTÍCULOS 121, 122, 123 de dicha ley y ARTÍCULO 202 y 203 del reglamento de la
 
 “El contratante junto con la supervisión, podrá ordenar al contratista trabajos de rehabilitación o pavimentación de calles en otras zonas de ambas ciudades, que por prioridad se requieran atender”.
 
-De acuerdo al análisis técnico realizado al contrato, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No.1 en Alcance de proyecto del Contrato No.
-
-3139/GLA/AMDC/2024, LPuNO-006- AMDC-041-2024, Código DIST-U-0007, correspondiente al proyecto: “Obras para el Sostenimiento de la Red Vial en el municipio del Distrito Central” Para el Lote: Distrito No.
-
-7 “Kennedy/Este”; Código No. DIST-U-0007.
+De acuerdo al análisis técnico realizado al contrato, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No. 1 en Alcance de proyecto del Contrato No. 3139/GLA/AMDC/2024, LPuNO-006- AMDC-041-2024, Código DIST-U-0007, correspondiente al proyecto: “Obras para el Sostenimiento de la Red Vial en el municipio del Distrito Central” Para el Lote: Distrito No. 7 “Kennedy/Este”; Código No. DIST-U-0007.
 
 CONSIDERANDO #6: Fundamentamos esta solicitud presentada por el consultor en los artículos 119 numerales 2, 121, 122, 123 de la Ley de Contratación del Estado, 187, 202, 203 del Reglamento de la Ley de Contratación del Estado y lo indicado en los Inciso 39 (Variaciones), Apartado 39.2.de las Condiciones Generales del Contrato.
 
@@ -1489,7 +1457,7 @@ PRIMERA: Se modifica la Cláusula Segunda del Contrato Original: la cual deberá
 
 Descripción de la propuesta Distrito Kennedy/ Este (Distrito No. 7):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.7 Kennedy/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 7 Kennedy/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -1509,7 +1477,7 @@ SEGUNDA: Se modifica la Cláusula CGC 1.1(ff) de las Condiciones Especiales del 
 
 CGC 1.1 (ff) Descripción de la propuesta Distrito Kennedy/ Este (Distrito No. 7):
 
-Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No.7 Kennedy/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
+Este proyecto está encaminado a la rehabilitación de calles y avenidas de la red vial en el Distrito No. 7 Kennedy/Este, donde se propone rehabilitar las calles principales y secundarias, además de otras calles en barrios y colonias que componen este distrito.
 
 Dicha rehabilitación comprende una mejora previa a las calles de pavimento asfáltico mediante bacheo y sello de grietas, para las calles de concreto hidráulico se hará demolición y reposición de las pastillas dañadas donde se requiera.
 
@@ -1525,37 +1493,31 @@ En el caso de encontrar tuberías dañadas estas se deberán de sustituir por lo
 
 “El contratante junto con la supervisión, podrá ordenar al contratista trabajos de rehabilitación o pavimentación de calles en otras zonas de ambas ciudades, que por prioridad se requieran atender”.
 
-TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la presente Modificación No. 1 de conformidad con las Leyes de la República de Honduras, a los treinta (30) días del mes de Julio del año dos mil veinticinco (2025).
 
 (f.s) Jorge Alejandro Aldana Bardales Alcalde Municipal EL CONTRATANTE (f.s) Jorge Rafael Cartagena Hernández Servicios de Ingeniería para Telecomunicaciones, Electricidad y Construcción, S.A. (SINTEC) R.T.N. No. 08019013611847 EL CONTRATISTA
 
-9. “CONTRATO No. 3145/GLA/AMDC/2024.- Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Lote 1: Distrito. No.1. Centro Histórico; Distrito No2. Laureles/Norte por un monto de veinticuatro millones trescientos noventa y ocho mil cuatrocientos noventa y ocho lempiras con cuarenta y un centavos.
+9. “CONTRATO No. 3145/GLA/AMDC/2024.- Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Lote 1: Distrito. No. 1. Centro Histórico; Distrito No2. Laureles/Norte por un monto de veinticuatro millones trescientos noventa y ocho mil cuatrocientos noventa y ocho lempiras con cuarenta y un centavos.
 
 (L. 24,398,498.41)….”
 
 MODIFICACIÓN № 1
 
-CONTRATO No. 3145/GLA/ AMDC/2024.-CÓDIGO No. DIST-U-0008 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1: DIST. No. 1 “CENTRO HISTÓRICO”; DIST. No. 2 “LAURELES/ NORTE”; DIST. No. 4 “TONCONTÍN/ SUR”; CÓDIGO No.
-
-DIST-U-0008
+CONTRATO No. 3145/GLA/ AMDC/2024.-CÓDIGO No. DIST-U-0008 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1: DIST. No. 1 “CENTRO HISTÓRICO”; DIST. No. 2 “LAURELES/ NORTE”; DIST. No. 4 “TONCONTÍN/ SUR”; CÓDIGO No. DIST-U-0008
 
 Concurso Público Nacional CPuNO-005-AMDC-043-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor PEDRO EDMUNDO PINEDA COBOS, de nacionalidad hondureña y de este domicilio con Documento Nacional de Identificación número 1301-1947-00059 quien actúa con Poder Especial de Representación, de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V.
 
 (TECNISA), condición que acredita mediante Testimonio de Escritura Pública Número 208 de fecha 17 de Septiembre de 2019, Autorizado por el Abogado y Notario Wilfredo Flores Valladares e Inscrita bajo el Número:
 
-566131, Matrícula: 68218 del Registro de la Propiedad Mercantil de Francisco Morazán, Centro Asociado IP; Constituida legalmente mediante Testimonio de Escritura Pública No.
-
-44 de fecha 11 de Septiembre del año 1976, autorizada por el Abogado y Notario Aníbal E. Quiñones e inscrita con el número 91, del Tomo: 99 “b” del Registro de Comerciante Social de Tegucigalpa., quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONSULTOR” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1:
+566131, Matrícula: 68218 del Registro de la Propiedad Mercantil de Francisco Morazán, Centro Asociado IP; Constituida legalmente mediante Testimonio de Escritura Pública No. 44 de fecha 11 de Septiembre del año 1976, autorizada por el Abogado y Notario Aníbal E. Quiñones e inscrita con el número 91, del Tomo: 99 “b” del Registro de Comerciante Social de Tegucigalpa., quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONSULTOR” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1:
 
 DIST. No. 1 “CENTRO HISTÓRICO”;
 
 DIST. No. 2 “LAURELES/ NORTE”; DIST.
 
-No. 4 “TONCONTÍN/ SUR”; CÓDIGO No.
-
-DIST-U-0008.- Concurso Público Nacional No CPuNO-005-AMDC-043-2024.- de acuerdo a los términos siguiente:
+No. 4 “TONCONTÍN/ SUR”; CÓDIGO No. DIST-U-0008.- Concurso Público Nacional No CPuNO-005-AMDC-043-2024.- de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -1583,17 +1545,11 @@ No. 4 “TONCONTÍN/ SUR”. La emisión de la presente modificación no modific
 
 L. 24,398,498.41 y la fecha de finalización de la Supervisión de obra para el 17 de enero de 2026.
 
-CONSIDERANDO#4: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Forma de Pago Contractual del CONTRATO No.
-
-3145/GLA/AMDC/2024.- CÓDIGO No.
-
-DIST-U-0008 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1: DIST.
+CONSIDERANDO#4: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Forma de Pago Contractual del CONTRATO No. 3145/GLA/AMDC/2024.- CÓDIGO No. DIST-U-0008 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL” LOTE 1: DIST.
 
 No. 1 “CENTRO HISTÓRICO”; DIST.
 
-No. 2 “LAURELES/ NORTE”; DIST. No.
-
-4 “TONCONTÍN/ SUR”. Suscrito entre la Alcaldía Municipal del Distrito Central y la empresa TÉCNICA DE INGENIERÍA, S.A.
+No. 2 “LAURELES/ NORTE”; DIST. No. 4 “TONCONTÍN/ SUR”. Suscrito entre la Alcaldía Municipal del Distrito Central y la empresa TÉCNICA DE INGENIERÍA, S.A.
 
 DE C.V. (TECNISA), Dicha modificación fue revisada y aprobada por la Unidad Ejecutora mediante Resumen Ejecutivo de fecha veinticinco (25) de julio del año dos mil veinticinco (2025) y memorándum AMDCDCS-0873-2025; por lo que esta modificación al contrato está debidamente justificada y soportada conforme a lo siguiente:
 
@@ -1781,7 +1737,7 @@ Distrito 1: “Centro Histórico”
 
 • 1 Informe Final con un valor de L 739,612.07 DICTAMEN La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración modificar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en el artículo 121 de la Ley de Contratación del Estado, así como en los artículos 202 al 206 de su reglamento. Asimismo, se encuentra en conformidad con las Condiciones Generales del Contrato, Numeral 15 “Pagos”; Numeral 29 “Modificación del Contrato”, y las Condiciones Especiales del Contrato Inciso C “Informes y Otra Documentación” numeral 4 “forma de pago”.
 
-De ser aprobada la presente solicitud de modificación se mantiene el monto contractual de L 24,398,498.41 y se podrá administrar la supervisión de los distritos de forma independiente. Por todo lo anterior se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No.1 en adecuar la forma de pago separándola por Distritos, sin afectar el monto del contrato No. 3145/GLA/AMDC/2024, CPuNO-005- AMDC-043-2024, Código DIST-U-0008, correspondiente al proyecto: “Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central”, Lote 1: Dist. No. 1 “Centro Histórico”;
+De ser aprobada la presente solicitud de modificación se mantiene el monto contractual de L 24,398,498.41 y se podrá administrar la supervisión de los distritos de forma independiente. Por todo lo anterior se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No. 1 en adecuar la forma de pago separándola por Distritos, sin afectar el monto del contrato No. 3145/GLA/AMDC/2024, CPuNO-005- AMDC-043-2024, Código DIST-U-0008, correspondiente al proyecto: “Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central”, Lote 1: Dist. No. 1 “Centro Histórico”;
 
 Dist. No. 2: “Laureles/Norte”; Dist. No. 4 “Toncontín/Sur”.
 
@@ -1817,7 +1773,7 @@ Distrito 1: “Centro Histórico”
 
 SEGUNDA: Se modifica el Apendice C, Oferta Negociada según se adjunta a la presente modificación No. 1, que de ahora en adelante se llamará Apendice “C1.”.
 
-TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+TERCERA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 1 En Dos Ejemplares Originales de conformidad con las Leyes de la República de Honduras, a los veinticinco (25) días del mes de Julio del año dos mil veinticinco (2025).
 
@@ -1825,7 +1781,7 @@ EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 1 En 
 
 (TECNISA) RTN: 08019999400270 EL CONSULTOR
 
-10. “ CONTRATO No. 3129/GLA/AMDC/2024.- Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Lote 2: Distrito No.3 “21 de Octubre/ Norte”, Distrito No.5 “Florencia/Este, Distrito No.6 “Villa Nueva/Este”, Distrito No.7 “Kennedy/Este, por un monto de veintisiete millones quinientos noventa y siete mil cuarenta lempiras con veinticuatro centavos.
+10. “ CONTRATO No. 3129/GLA/AMDC/2024.- Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central, Lote 2: Distrito No. 3 “21 de Octubre/ Norte”, Distrito No. 5 “Florencia/Este, Distrito No. 6 “Villa Nueva/Este”, Distrito No. 7 “Kennedy/Este, por un monto de veintisiete millones quinientos noventa y siete mil cuarenta lempiras con veinticuatro centavos.
 
 (L. 27,597,040.24)…”
 
@@ -1839,9 +1795,7 @@ DIST. No. 5 “FLORENCIA/ ESTE”; DIST.
 
 No. 6 “VILLA NUEVA/ ESTE”; DIST.
 
-No. 7 “KENNEDY/ ESTE”; CÓDIGO No.
-
-DIST-U-0009.- Concurso Público Nacional No CPuNO-005-AMDC-043-2024.- de acuerdo a los términos siguiente:
+No. 7 “KENNEDY/ ESTE”; CÓDIGO No. DIST-U-0009.- Concurso Público Nacional No CPuNO-005-AMDC-043-2024.- de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -1861,21 +1815,13 @@ CONSIDERANDO #2: Que la fecha de orden de inicio del proyecto fue el veinticuatr
 
 CONSIDERANDO #3: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha veintiocho
 
-(28) de julio del año dos mil veinticinco (2025), solicitud de Modificación No. 1 al CONTRATO No. 3129/GLA/AMDC/2024.- CÓDIGO No.
-
-DIST-U-0009 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL”, LOTE 2: DIST.
+(28) de julio del año dos mil veinticinco (2025), solicitud de Modificación No. 1 al CONTRATO No. 3129/GLA/AMDC/2024.- CÓDIGO No. DIST-U-0009 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL”, LOTE 2: DIST.
 
 No. 3 “21 DE OCTUBRE/ NORTE”; DIST.
 
-No. 5 “FLORENCIA/ ESTE”; DIST. No.
+No. 5 “FLORENCIA/ ESTE”; DIST. No. 6 “VILLA NUEVA/ ESTE”; DIST. No. 7 “KENNEDY/ ESTE”. En la cual se solicita aprobación de forma de pago.
 
-6 “VILLA NUEVA/ ESTE”; DIST. No. 7 “KENNEDY/ ESTE”. En la cual se solicita aprobación de forma de pago.
-
-CONSIDERANDO#4: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Forma de Pago Contractual del CONTRATO No.
-
-3129/GLA/AMDC/2024.- CODIGO No.
-
-DIST-U-0009 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL”, LOTE 2:
+CONSIDERANDO#4: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Forma de Pago Contractual del CONTRATO No. 3129/GLA/AMDC/2024.- CODIGO No. DIST-U-0009 “SUPERVISIÓN DE LAS OBRAS PARA EL SOSTENIMIENTO DE LA RED VIAL EN EL MUNICIPIO DEL DISTRITO CENTRAL”, LOTE 2:
 
 DIST. No. 3 “21 DE OCTUBRE/ NORTE”;
 
@@ -2005,7 +1951,7 @@ Distrito 3: “21 de octubre/Norte”
 
 • 6 Informes Mensuales con un valor de L 821, 938.82
 
-• 1 Informe Final con un valor de L 867, 602.06 DICTAMEN La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración modificar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en el artículo 121 de la Ley de Contratación del Estado, así como en los artículos 202 al 206 de su reglamento. Asimismo, se encuentra en conformidad con las Condiciones Generales del Contrato, Numeral 29 “Modificación del Contrato”, Numeral 35 “Pagos al Consultor” y las Condiciones Especiales del Contrato Numeral 13 “Pagos al Consultor” De ser aprobada la presente solicitud de modificación se mantiene el monto contractual de L 27, 597, 040.24 y se podrá administrar la supervisión de los distritos de forma independiente. Por todo lo anterior se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No.1 en adecuar la forma de pago separándola por Distritos, sin afectar el monto del contrato No. 3129/GLA/AMDC/2024, CPuNO-005- AMDC-043-2024, Código DIST-U-0009, correspondiente al proyecto: “Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central”, Lote 2: Dist. No. 3 “21 de octubre/Norte”;
+• 1 Informe Final con un valor de L 867, 602.06 DICTAMEN La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración modificar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en el artículo 121 de la Ley de Contratación del Estado, así como en los artículos 202 al 206 de su reglamento. Asimismo, se encuentra en conformidad con las Condiciones Generales del Contrato, Numeral 29 “Modificación del Contrato”, Numeral 35 “Pagos al Consultor” y las Condiciones Especiales del Contrato Numeral 13 “Pagos al Consultor” De ser aprobada la presente solicitud de modificación se mantiene el monto contractual de L 27, 597, 040.24 y se podrá administrar la supervisión de los distritos de forma independiente. Por todo lo anterior se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No. 1 en adecuar la forma de pago separándola por Distritos, sin afectar el monto del contrato No. 3129/GLA/AMDC/2024, CPuNO-005- AMDC-043-2024, Código DIST-U-0009, correspondiente al proyecto: “Supervisión de las Obras para el Sostenimiento de la Red Vial en el Municipio del Distrito Central”, Lote 2: Dist. No. 3 “21 de octubre/Norte”;
 
 Dist. No. 5: “Florencia/Este”; Dist. No. 6 “Villa Nueva/Este”; Dist. No. 7. “Kennedy/ Este”
 
@@ -2039,7 +1985,7 @@ Distrito 3: “21 de octubre/Norte”
 
 • 1 Informe Final con un valor de L 867, 602.06 Reteniéndose en cada pago el 12.5% sobre el valor de los honorarios o utilidad por deducción por ley del ISR, al menos que presenten los comprobantes de haber realizado los pagos a cuenta, y el 10% sobre el valor de los honorarios o utilidad por concepto de garantía adicional de cumplimiento de contrato, devolviéndose el valor de este último al obtener el finiquito.
 
-SEGUNDA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEGUNDA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 1 En Dos Ejemplares Originales de conformidad con las Leyes de la República de Honduras, a los Treinta (30) días del mes de Julio del año dos mil veinticinco (2025).
 
@@ -2055,7 +2001,7 @@ EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 1 En 
 
 MODIFICACIÓN № 2
 
-CONTRATO No. 2641/GLA/ AMDC/2023.- CÓDIGO No. 3380-A “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA-BULEVAR SUYAPA (TUNEL GIRO A LA IZQUIERDA)” LPuNO-011-AMDC-106-2023 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con documento nacional de identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor EMERSON REINALDO TURCIOS TABORA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0406-1974- 00085 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CONSTRUCTORA CODELCO, S.A. DE C.V. (CODELCO), R.T.N. N° 08019009203344, Representación que se acredita mediante instrumento público N°. 15 de fecha 01 de febrero de 2008, autorizada por la notario Lilian Gabriela Ávila Bier con numero de matricula 2501053 e inscrito bajo el N° 256, del Registro Mercantil de Francisco Morazán. Centro Asociado I.P., Mediante Testimonio de Escritura Publica No. 127 de fecha 25 de marzo del año 2025 de CESIÓN DE CONTRATO, Autorizada por el Abogado y Notario Arturo Morales Fúnez., a Favor de la Señora TANIA YARLENE MURILLO LANZA de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0801-1976-03641 y de este domicilio, quien actúa en su condición de Única Socia y Representante Legal de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., quien en lo sucesivo y para efectos de esta Modificación No. 2 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 2 al Contrato para el proyecto denominado “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA- BULEVAR SUYAPA (TUNEL GIRO A LA IZQUIERDA)”, con CÓDIGO No. 3380-A, LPuNO-011- AMDC-106-2023; de acuerdo a los términos siguiente:
+CONTRATO No. 2641/GLA/ AMDC/2023.- CÓDIGO No. 3380-A “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA-BULEVAR SUYAPA (TUNEL GIRO A LA IZQUIERDA)” LPuNO-011-AMDC-106-2023 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con documento nacional de identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor EMERSON REINALDO TURCIOS TABORA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0406-1974-00085 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CONSTRUCTORA CODELCO, S.A. DE C.V. (CODELCO), R.T.N. N° 08019009203344, Representación que se acredita mediante instrumento público N°. 15 de fecha 01 de febrero de 2008, autorizada por la notario Lilian Gabriela Ávila Bier con numero de matricula 2501053 e inscrito bajo el N° 256, del Registro Mercantil de Francisco Morazán. Centro Asociado I.P., Mediante Testimonio de Escritura Publica No. 127 de fecha 25 de marzo del año 2025 de CESIÓN DE CONTRATO, Autorizada por el Abogado y Notario Arturo Morales Fúnez., a Favor de la Señora TANIA YARLENE MURILLO LANZA de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0801-1976-03641 y de este domicilio, quien actúa en su condición de Única Socia y Representante Legal de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., quien en lo sucesivo y para efectos de esta Modificación No. 2 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 2 al Contrato para el proyecto denominado “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA- BULEVAR SUYAPA (TUNEL GIRO A LA IZQUIERDA)”, con CÓDIGO No. 3380-A, LPuNO-011- AMDC-106-2023; de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -2099,7 +2045,7 @@ CONSIDERANDO #8: Que en fecha Trece
 
 (13) de noviembre del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, Informe de solicitud de Modificación No. 2 al CONTRATO No. 2641/ GLA/AMDC/2023.- CODIGO No. 3380-A, en la cual ha sido revisada y analizada por esta supervisión, contempla un incremento, al monto contractual de L. 16,383,602.30 lo que representa un 42.33% adicional, alcanzando así un monto total acumulado de Sesenta y un millones sesenta y dos mil seiscientos setenta y cinco Lempiras con 51/100 (L. 61,062,675.51). Asimismo, se aprueba una ampliación del plazo contractual en 144 días calendario, estableciendo un tiempo total acumulado de 444 días. Estas adecuaciones permitirán dar continuidad a las obras iniciadas y facilitar su conclusión en los plazos establecidos, en tal sentido esta supervisión aprueba técnicamente los cambios aquí presentados.
 
-CONSIDERANDO #9: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 2 por Ampliación de Tiempo y Monto Contractual del CONTRATO No. 2641/GLA/AMDC/2023.- CÓDIGO No. 3380-A “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN R E S I D E N C I A L F L O R E N C I A - BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”, suscrito entre la Alcaldía Municipal del Distrito Central y la empresa A&V INGENIEROS, S. DE R.L. Dicha modificación fue revisada y aprobada por la Unidad Ejecutora mediante Resumen Ejecutivo de fecha Dieciocho (18) de noviembre del año dos mil veinticinco (2025) y memorándum AMDC-DCS-1430-2025; por lo que esta modificación al contrato está debidamente justificada y soportada conforme a lo siguiente:
+CONSIDERANDO #9: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 2 por Ampliación de Tiempo y Monto Contractual del CONTRATO No. 2641/GLA/AMDC/2023.- CÓDIGO No. 3380-A “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA - BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”, suscrito entre la Alcaldía Municipal del Distrito Central y la empresa A&V INGENIEROS, S. DE R.L. Dicha modificación fue revisada y aprobada por la Unidad Ejecutora mediante Resumen Ejecutivo de fecha Dieciocho (18) de noviembre del año dos mil veinticinco (2025) y memorándum AMDC-DCS-1430-2025; por lo que esta modificación al contrato está debidamente justificada y soportada conforme a lo siguiente:
 
 El proyecto “Construcción de la Solución Vial Intersección Residencial Florencia
 
@@ -2111,7 +2057,7 @@ Esta modificación tiene como objetivo garantizar la funcionalidad integral del 
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No.125 de la Ley de Contratación del Estado y el artículo 187 del reglamento de la Ley de Contratación del Estado respectivamente, de conformidad con las Condiciones Especiales del Contrato, Inciso B (Control de Plazos), Numeral 28 (Prórroga de la fecha Prevista de Terminación) Apartado
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No. 125 de la Ley de Contratación del Estado y el artículo 187 del reglamento de la Ley de Contratación del Estado respectivamente, de conformidad con las Condiciones Especiales del Contrato, Inciso B (Control de Plazos), Numeral 28 (Prórroga de la fecha Prevista de Terminación) Apartado
 
 28.1 (El Contratante deberá Prorrogar la Fecha Prevista de Terminación), Inciso D (Control de Costos), Numeral 39 (Variaciones) Apartado
 
@@ -2119,7 +2065,7 @@ Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevisto
 
 Tomando en cuenta lo anterior, y en base al análisis entre las partes (Contratante, Contratista y Supervisor) y los parámetros de calidad establecidos en las especificaciones técnicas, se considera que solo se requieren 144 días calendario para la culminación de las actividades del proyecto, finalizando así el 12 de abril del 2026, y una modificación al monto contractual de Dieciséis millones trescientos ochenta y tres mil seiscientos dos Lempiras con 30/100 Centavos (L16,383,602.30), que equivale al 42.33% del monto original.
 
-En vista que el incremento del monto es mayor al 25% y que la fecha de finalización del contrato según la Modificación No.2 traspasa el período de Gobierno, este requerirá aprobación por parte del Congreso Nacional, para su continuidad.
+En vista que el incremento del monto es mayor al 25% y que la fecha de finalización del contrato según la Modificación No. 2 traspasa el período de Gobierno, este requerirá aprobación por parte del Congreso Nacional, para su continuidad.
 
 A continuación, se presentan los causales y su justificación:
 
@@ -2191,9 +2137,7 @@ Este ajuste económico refleja la incorporación de nuevas actividades, el redis
 
 La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración ampliar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en los ARTÍCULOS 121, 122, 123 y 125 de dicha ley y ARTÍCULO 202 y 203 del Reglamento de la Ley de Contratación del Estado de dicha ley y de conformidad con las Condiciones Generales del Contrato, Inciso B (Control de Plazos) Numeral 28 (Prórroga de la fecha Prevista de Terminación) Apartado
 
-28.1 (El Contratante deberá Prorrogar la Fecha Prevista de Terminación), Inciso D (Control de Costos), Numeral 39 (Variaciones), Apartado 39.2. De ser aprobada la solicitud de ampliación de tiempo de ciento cuarenta y cuatro (144) días calendario adicionales, el proyecto estaría finalizando el 12 de abril del 2026, fecha en que el contratista deberá completar todas las actividades de obra y de conformidad a la Cláusula del Contrato No.
-
-53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha modificación No.2 en Tiempo y Monto del Contrato No.2641/GLA/ AMDC/2023, LPuNO-011-AMDC-106-2023, Código 3380-A, correspondiente al proyecto:
+28.1 (El Contratante deberá Prorrogar la Fecha Prevista de Terminación), Inciso D (Control de Costos), Numeral 39 (Variaciones), Apartado 39.2. De ser aprobada la solicitud de ampliación de tiempo de ciento cuarenta y cuatro (144) días calendario adicionales, el proyecto estaría finalizando el 12 de abril del 2026, fecha en que el contratista deberá completar todas las actividades de obra y de conformidad a la Cláusula del Contrato No. 53.2 de las Condiciones Generales de Contrato, donde señala lo siguiente: “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad.” De acuerdo al análisis técnico de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha modificación No. 2 en Tiempo y Monto del Contrato No. 2641/GLA/ AMDC/2023, LPuNO-011-AMDC-106-2023, Código 3380-A, correspondiente al proyecto:
 
 “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”.
 
@@ -2221,7 +2165,7 @@ TERCERA: Se modifica El Presupuesto de la Obra Apendice B1 del Contrato Original
 
 (3) meses después de la nueva fecha de Terminación del contrato.
 
-QUINTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+QUINTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la presente Modificación No. 2 de conformidad con las Leyes de la República de Honduras, a los Dieciocho (18) días del mes de Noviembre del año dos mil veinticinco (2025) (f.s) Jorge Alejandro Aldana Bardales Alcalde Municipal EL CONTRATANTE (f.s) Tania Yarlene Murillo Lanza A&V Ingenieros, S. de R.L.
 
@@ -2247,7 +2191,7 @@ EL.1.4 Suministro e instalación de transformador tipo poste, 15Kva, monofasico.
 
 EL.1.6 Suministro e instalación de red de tierra, con cable de cobre desnudo #2, con varilla de aterrizaje #6 AWG 5/8" x 8' acero cobrizado y soldadura exotermica para las uniones y derivaciones EL.1.7 unidad 1.00 L28,680.00 L28,680.00 unidad 1.00 L87,135.52 L87,135.52 m 250.00 L317.44 L79,360.00 unidad 1.00 L18,402.00 L18,402.00 SUB TOTAL ILUMINACIÓN TUNEL L823,983.20 EL.2 POSTES Suministro e instalación de poste de concreto, 45Fts, 2,000 Lbs, incluye base de concreto EL.2.1 Suministro e instalación de poste de concreto, 45Fts, 3,000 Lbs, incluye base de concreto EL.2.2 unidad 3.00 L75,180.00 L225,540.00 unidad 0.00 L82,140.00 L0.00 SUB TOTAL POSTES L225,540.00 EL.3 ESTRUCTURAS PRIMARIAS Suministro e instalación de estructura primaria A-III-1 para cable 1/0 EL.3.1 Suministro e instalación de estructura primaria A-III-4 para cable 1/0 ACSR EL.3.2 Suministro e instalación de estructura primaria A-III-6 para cable 1/0 ACSR EL.3.3 Suministro e instalación de estructura primaria A-III-9 para cable 1/0 ACSR EL.3.4 unidad 1.00 L9,247.20 L9,247.20 unidad 5.00 L9,012.60 L45,063.00 unidad 0.00 L15,610.80 L0.00 unidad 1.00 L25,129.20 L25,129.20 SUB TOTAL ESTRUCTURAS PRIMARIAS L79,439.40 EL.4 ESTRUCTURAS SECUNDARIAS EL.4.1 Suministro e instalación de estructura neutro, B-I-1 unidad 1.00 L739.80 L739.80 estructura neutro, B-I-4 unidad 5.00 L796.20 L3,981.00 estructura neutro, B-I-6 unidad 1.00 L1,926.60 L1,926.60 estructura neutro, B-I-9 unidad 1.00 L1,989.60 L1,989.60 SUB TOTAL ESTRUCTURAS SECUNDARIAS L8,637.00 EL.5 CABLES PRIMARIOS Y SECUNDARIOS EL.5.1 Suministro e instalación de 3 fases de cable primario 1/0 ACSR m 122.00 L441.12 L53,816.64 neutro 1/0 ACSR m 0.00 L122.24 L0.00 piloto #2 WP m 0.00 L90.89 L0.00 SUB TOTAL CABLES PRIMARIOS Y SECUNDARIOS L53,816.64 EL.6 RETENIDAS EL.6.1 Suministro e instalación de retenida sencilla R-01 unidad 3.00 L5,207.40 L15,622.20 SUB TOTAL RETENIDAS L15,622.20 EL.7 VARIOS Suministro e instalación de luminaria Led, instalada en poste de concreto, con brazo mediano, 240V, 120W, IP65 EL.7.1 EL.7.2 Suministro e Instalación de unidad 0.00 L19,761.60 L0.00 Aterrizaje de Neutro CT-N unidad 5.00 L2,490.00 L12,450.00 EL.7.3 Reubicación de luminarias existentes unidad 4.00 L5,040.00 L20,160.00 SUB TOTAL VARIOS L32,610.00 EL.8 RECUPERACIONES Recuperación y traslado de postes a plantel AMDC. Incluye desmontaje de luminarias y estructuras.
 
-EL.8.1 Recuperación de cable primario 1/0 ACSR 3 fases + #2 ACSR + HP#2 TWG EL.8.2 EL.8.3 Reubicación de cable primario unidad 11.00 L7,182.00 L79,002.00 m 130.00 L342.56 L44,532.80 3Fases 556 + N#3/0 ACSR m 0.00 L212.63 L0.00 EL.8.4 Desmontaje de retenida existente unidad 6.00 L1,575.00 L9,450.00 SUB TOTAL RECUPERACIONES L132,984.80 EL.9 ACTIVIDADES NUEVAS DE INSTALACIONES ELECTRICAS EL.9.1 Desinstalacion De Estructura A-III-1 unidad 2.00 L4,401.90 L8,803.80 EL.9.2 Desinstalacion De Estructura A-III-4 unidad 1.00 L4,401.90 L4,401.90 EL.9.3 Desinstalacion De Estructura A-III- 5v unidad 1.00 L4,401.90 L4,401.90 EL.9.4 Desinstalacion De Estructura B-I-3 unidad 3.00 L2,098.96 L6,296.88 EL.9.5 Desinstalacion De Estructura B-I-4 unidad 2.00 L2,098.96 L4,197.92 EL.9.6 Desinstalacion De Estructura B-II-1 unidad 2.00 L2,775.34 L5,550.68 EL.9.7 Desinstalacion De Estructura B-II-4 unidad 2.00 L2,775.34 L5,550.68 Devolucion de Estructuras y Postes desinstalados en proyecto al almacen de la ENEE EL.9.8 EL.9.9 Reubicacion De Transformador De 1 flete 3.00 L28,635.30 L85,905.90 Kva unidad 1.00 L12,043.80 L12,043.80 15 Kva unidad 1.00 L19,111.20 L19,111.20 EL.9.11 EL.9.12 Desinstalacion De Estructura 3CS-2 unidad 1.00 L26,850.00 L26,850.00 Cuchillas Cortacircuito unidad 2.00 L2,415.42 L4,830.84 #2WP 1 N#3/0 ACSR ml 191.00 L845.16 L161,425.56 EL.9.14 Poste De Concreto De 40 Pies A/R 2000lbf (Incluye Suministro E Instalacion) EL.9.15 EL.9.16 Estructura A-III-1v (Incluye unidad 1.00 L112,994.70 L112,994.70 unidad 2.00 L81,598.72 L163,197.44 Suministro E Instalacion) unidad 2.00 L11,156.22 L22,312.44 Suministro E Instalacion) unidad 2.00 L19,221.70 L38,443.40 Suministro E Instalacion) unidad 2.00 L22,808.11 L45,616.22 Suministro E Instalacion) unidad 1.00 L22,061.71 L22,061.71 Suministro E Instalacion) unidad 1.00 L25,365.41 L25,365.41 EL.9.21 Estructura B-I-7 (Incluye Suministro E Instalacion) unidad 1.00 L1,711.36 L1,711.36 Suministro E Instalacion) unidad 4.00 L2,528.27 L10,113.08 Suministro E Instalacion) unidad 2.00 L2,813.87 L5,627.74 Suministro E Instalacion) unidad 1.00 L2,813.87 L2,813.87 Cortacircuito unidad 3.00 L6,774.60 L20,323.80 EL.9.26 Cable 2F#1/0 Wp +N #2 Acsr +HP#2 WP (Incluye Suministro E Instalacion) EL.9.27 Trabajos En Acometida Comercial (Hotel Florencia), en segundo despeje. ml 154.00 L1,361.24 L209,630.96 ml 242.00 L1,258.91 L304,656.22 unidad 1.00 L38,777.40 L38,777.40 EL.9.29 Corte De Puentes, Poste En La Mediana A Ser Desmontado unidad 3.00 L12,597.76 L37,793.28 en Restaurador unidad 1.00 L59,317.20 L59,317.20 40 Pies para Retenida Aérea unidad 2.00 L28,197.90 L56,395.80 #1/0 WP + 1N #2 ACSR ml 242.00 L342.56 L82,899.52 EL.9.33 EL.9.34 Trabajos En Acometida Comercial ml 40.00 L467.47 L18,698.80 (Hotel Florencia) en Tercer Despeje unidad 1.00 L18,503.04 L18,503.04 unidad 28.00 L3,393.37 L95,014.36 SUB TOTAL ACTIVIDADES NUEVAS DE INSTALACIONES SUB TOTAL "IE" L3,114,272.05 D SEÑALIZACIÓN VIAL Línea intermitente de pintura termoplástica blanca para división de carriles de 0.15m D.1 m 264.00 L99.62 L26,299.68 D.2 Línea continua de pintura termoplástica amarilla de 0.15 m m 1,910.49 L99.62 L190,323.01 D.3 Flecha de una dirección de pintura termoplástica blanca unidad 20.00 L590.26 L11,805.20 Paso peatonal de pintura termoplástica blanca de 0.50mx2.00m unidad 17.00 L425.30 L7,230.10 D.5 Suministro e instalación de boyas con reflectivo grado diamantado, Incluye epoxico D.6 m 90.00 L866.63 L77,996.70 unidad 31.00 L706.88 L21,913.28 D.7 Suministro e instalación de vialetas con reflectivo grado diamantado unidad 331.00 L88.88 L29,419.28 D.8 Rotulo de dirección tipo bandera ( 1 columnas + viga + 3 rótulos) toda la estructura galvanizada y papel grado diamantado tipo XI (fondo, contorno y letras) D.9 Rotulo de altura maxima sujeto a estructura de tunel toda la estructura galvanizada y papel grado diamantado tipo XI (fondo, contorno y letras) D.10 Rótulos de señales preventivas (galvanizados y papel grado diamantado tipo XI (fondo, contorno, imagen y letras) D.11 unidad 4.00 L2,278.88 L9,115.52 unidad 1.00 L64,800.00 L64,800.00 unidad 1.00 L19,854.00 L19,854.00 unidad 9.00 L4,312.50 L38,812.50 SUBTOTAL "D" L497,569.27 F ACTIVIDADES NUEVAS F.1 Estabilización Mecánica con Geomalla Triaxial y Geotextil m2 2312.46 L775.64 L1,793,636.48 F.2 Geotextil y filtros para muros de concreto armado e=30cm, 2 capas de geotextil y grava de 3/4 F3 Drenaje en parte posterior de la pantalla de concreto lanzado (incluye geotextil no tejido, grava y tubería de PVC de 6” perforado) F.4 m2 1099.86 L4,980.00 L5,477,302.80 m2 172.38 L682.33 L117,620.05 m2 931.00 L339.40 L315,981.40 F.5 Estampado De Cortinas De Concreto En Paso a Desnivel Vehicular Con m2 931.00 L1,392.00 L1,295,952.00 Piedra En Polvo Simulacion De Enchape Piedra Amontonada, Con Matriz Uniforme No Selectivo.
+EL.8.1 Recuperación de cable primario 1/0 ACSR 3 fases + #2 ACSR + HP#2 TWG EL.8.2 EL.8.3 Reubicación de cable primario unidad 11.00 L7,182.00 L79,002.00 m 130.00 L342.56 L44,532.80 3Fases 556 + N#3/0 ACSR m 0.00 L212.63 L0.00 EL.8.4 Desmontaje de retenida existente unidad 6.00 L1,575.00 L9,450.00 SUB TOTAL RECUPERACIONES L132,984.80 EL.9 ACTIVIDADES NUEVAS DE INSTALACIONES ELECTRICAS EL.9.1 Desinstalacion De Estructura A-III-1 unidad 2.00 L4,401.90 L8,803.80 EL.9.2 Desinstalacion De Estructura A-III-4 unidad 1.00 L4,401.90 L4,401.90 EL.9.3 Desinstalacion De Estructura A-III-5v unidad 1.00 L4,401.90 L4,401.90 EL.9.4 Desinstalacion De Estructura B-I-3 unidad 3.00 L2,098.96 L6,296.88 EL.9.5 Desinstalacion De Estructura B-I-4 unidad 2.00 L2,098.96 L4,197.92 EL.9.6 Desinstalacion De Estructura B-II-1 unidad 2.00 L2,775.34 L5,550.68 EL.9.7 Desinstalacion De Estructura B-II-4 unidad 2.00 L2,775.34 L5,550.68 Devolucion de Estructuras y Postes desinstalados en proyecto al almacen de la ENEE EL.9.8 EL.9.9 Reubicacion De Transformador De 1 flete 3.00 L28,635.30 L85,905.90 Kva unidad 1.00 L12,043.80 L12,043.80 15 Kva unidad 1.00 L19,111.20 L19,111.20 EL.9.11 EL.9.12 Desinstalacion De Estructura 3CS-2 unidad 1.00 L26,850.00 L26,850.00 Cuchillas Cortacircuito unidad 2.00 L2,415.42 L4,830.84 #2WP 1 N#3/0 ACSR ml 191.00 L845.16 L161,425.56 EL.9.14 Poste De Concreto De 40 Pies A/R 2000lbf (Incluye Suministro E Instalacion) EL.9.15 EL.9.16 Estructura A-III-1v (Incluye unidad 1.00 L112,994.70 L112,994.70 unidad 2.00 L81,598.72 L163,197.44 Suministro E Instalacion) unidad 2.00 L11,156.22 L22,312.44 Suministro E Instalacion) unidad 2.00 L19,221.70 L38,443.40 Suministro E Instalacion) unidad 2.00 L22,808.11 L45,616.22 Suministro E Instalacion) unidad 1.00 L22,061.71 L22,061.71 Suministro E Instalacion) unidad 1.00 L25,365.41 L25,365.41 EL.9.21 Estructura B-I-7 (Incluye Suministro E Instalacion) unidad 1.00 L1,711.36 L1,711.36 Suministro E Instalacion) unidad 4.00 L2,528.27 L10,113.08 Suministro E Instalacion) unidad 2.00 L2,813.87 L5,627.74 Suministro E Instalacion) unidad 1.00 L2,813.87 L2,813.87 Cortacircuito unidad 3.00 L6,774.60 L20,323.80 EL.9.26 Cable 2F#1/0 Wp +N #2 Acsr +HP#2 WP (Incluye Suministro E Instalacion) EL.9.27 Trabajos En Acometida Comercial (Hotel Florencia), en segundo despeje. ml 154.00 L1,361.24 L209,630.96 ml 242.00 L1,258.91 L304,656.22 unidad 1.00 L38,777.40 L38,777.40 EL.9.29 Corte De Puentes, Poste En La Mediana A Ser Desmontado unidad 3.00 L12,597.76 L37,793.28 en Restaurador unidad 1.00 L59,317.20 L59,317.20 40 Pies para Retenida Aérea unidad 2.00 L28,197.90 L56,395.80 #1/0 WP + 1N #2 ACSR ml 242.00 L342.56 L82,899.52 EL.9.33 EL.9.34 Trabajos En Acometida Comercial ml 40.00 L467.47 L18,698.80 (Hotel Florencia) en Tercer Despeje unidad 1.00 L18,503.04 L18,503.04 unidad 28.00 L3,393.37 L95,014.36 SUB TOTAL ACTIVIDADES NUEVAS DE INSTALACIONES SUB TOTAL "IE" L3,114,272.05 D SEÑALIZACIÓN VIAL Línea intermitente de pintura termoplástica blanca para división de carriles de 0.15m D.1 m 264.00 L99.62 L26,299.68 D.2 Línea continua de pintura termoplástica amarilla de 0.15 m m 1,910.49 L99.62 L190,323.01 D.3 Flecha de una dirección de pintura termoplástica blanca unidad 20.00 L590.26 L11,805.20 Paso peatonal de pintura termoplástica blanca de 0.50mx2.00m unidad 17.00 L425.30 L7,230.10 D.5 Suministro e instalación de boyas con reflectivo grado diamantado, Incluye epoxico D.6 m 90.00 L866.63 L77,996.70 unidad 31.00 L706.88 L21,913.28 D.7 Suministro e instalación de vialetas con reflectivo grado diamantado unidad 331.00 L88.88 L29,419.28 D.8 Rotulo de dirección tipo bandera ( 1 columnas + viga + 3 rótulos) toda la estructura galvanizada y papel grado diamantado tipo XI (fondo, contorno y letras) D.9 Rotulo de altura maxima sujeto a estructura de tunel toda la estructura galvanizada y papel grado diamantado tipo XI (fondo, contorno y letras) D.10 Rótulos de señales preventivas (galvanizados y papel grado diamantado tipo XI (fondo, contorno, imagen y letras) D.11 unidad 4.00 L2,278.88 L9,115.52 unidad 1.00 L64,800.00 L64,800.00 unidad 1.00 L19,854.00 L19,854.00 unidad 9.00 L4,312.50 L38,812.50 SUBTOTAL "D" L497,569.27 F ACTIVIDADES NUEVAS F.1 Estabilización Mecánica con Geomalla Triaxial y Geotextil m2 2312.46 L775.64 L1,793,636.48 F.2 Geotextil y filtros para muros de concreto armado e=30cm, 2 capas de geotextil y grava de 3/4 F3 Drenaje en parte posterior de la pantalla de concreto lanzado (incluye geotextil no tejido, grava y tubería de PVC de 6” perforado) F.4 m2 1099.86 L4,980.00 L5,477,302.80 m2 172.38 L682.33 L117,620.05 m2 931.00 L339.40 L315,981.40 F.5 Estampado De Cortinas De Concreto En Paso a Desnivel Vehicular Con m2 931.00 L1,392.00 L1,295,952.00 Piedra En Polvo Simulacion De Enchape Piedra Amontonada, Con Matriz Uniforme No Selectivo.
 
 SUBTOTAL
 
@@ -2275,7 +2219,7 @@ L61,062,675.51
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
-1.- EL CONTRATANTE: Alcaldía Municipal del Distrito Central 2.- EL CONSULTOR: CONSORCIO T É C N I C A D E INGENIERÍA, S.A.
+1.- EL CONTRATANTE: Alcaldía Municipal del Distrito Central 2.- EL CONSULTOR: CONSORCIO TÉCNICA DE INGENIERÍA, S.A.
 
 DE C.V. – DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (TECNISADICOMA).
 
@@ -2307,7 +2251,7 @@ CONSIDERANDO #6: Que en fecha Siete
 
 CONSIDERANDO#7: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha Diecisiete
 
-(17) de noviembre del año dos mil veinticinco (2025), solicitud de Modificación No. 2 del Contrato No. 2635/GLA/AMDC/2023 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN R E S I D E N C I A L , F L O R E N C I A - BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”.- CÓDIGO No. 3380-B, la cual incrementa el monto contractual en un 60%, equivalente a L. 6,274,709.76 para alcanzar un monto acumulado de Diecinueve millones trescientos cuarenta y dos mil novecientos sesenta y cuatro Lempiras con 87/100 (L. 19,342,964.87), Asimismo, se solicita un incremento en el tiempo contractual de 144 días, en consecuencia, el plazo de ejecución es de 474 días, estableciendo como nueva fecha de finalización el 28 de abril del 2026, esto permitirá concluir el proyecto a satisfacción de la AMDC y por ende en la población en general.
+(17) de noviembre del año dos mil veinticinco (2025), solicitud de Modificación No. 2 del Contrato No. 2635/GLA/AMDC/2023 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL, FLORENCIA - BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”.- CÓDIGO No. 3380-B, la cual incrementa el monto contractual en un 60%, equivalente a L. 6,274,709.76 para alcanzar un monto acumulado de Diecinueve millones trescientos cuarenta y dos mil novecientos sesenta y cuatro Lempiras con 87/100 (L. 19,342,964.87), Asimismo, se solicita un incremento en el tiempo contractual de 144 días, en consecuencia, el plazo de ejecución es de 474 días, estableciendo como nueva fecha de finalización el 28 de abril del 2026, esto permitirá concluir el proyecto a satisfacción de la AMDC y por ende en la población en general.
 
 CONSIDERANDO#8: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 2 por Ampliación de tiempo y Monto contractual, del CONTRATO No. 2635/GLA/AMDC/2023.- CÓDIGO No. 3380-B “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL, FLORENCIA-BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”, Firmado entre la Alcaldía Municipal del Distrito Central y el CONSORCIO TÉCNICA DE INGENIERÍA, S.A. – DISEÑO, CONSTRUCCION Y MEDIO AMBIENTE S. DE R.L. (TECNISADICOMA), Dicha modificación fue revisada y aprobada por la Unidad Ejecutora mediante Resumen Ejecutivo de fecha Veintiuno (21) de noviembre del año dos mil veinticinco (2025) y memorándum AMDC-DCS-1489-2025; por lo que esta modificación al contrato está debidamente justificada y soportada conforme a lo siguiente:
 
@@ -2321,7 +2265,7 @@ Esta modificación tiene como objetivo garantizar la funcionalidad integral del 
 
 CAUSALES DE LA JUSTIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No.125 de la Ley de Contratación del Estado y el artículo 187 del reglamento de la Ley de Contratación del Estado respectivamente, de conformidad con las Condiciones Especiales del Contrato, Inciso B (Control de Plazos), Numeral 28 (Prorroga de la fecha Prevista de Terminación) Apartado
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevistos suscitados a lo largo del proyecto, detallando los causales que dieron lugar a la presente, incurriendo en un incremento en el plazo y monto contractual de conformidad a lo establecido en el artículo No. 125 de la Ley de Contratación del Estado y el artículo 187 del reglamento de la Ley de Contratación del Estado respectivamente, de conformidad con las Condiciones Especiales del Contrato, Inciso B (Control de Plazos), Numeral 28 (Prorroga de la fecha Prevista de Terminación) Apartado
 
 28.1 (El Contratante deberá Prorrogar la Fecha Prevista de Terminación), Inciso D (Control de Costos), Numeral 39 (Variaciones) Apartado
 
@@ -2329,7 +2273,7 @@ Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado los diferentes imprevisto
 
 Tomando en cuenta lo anterior, y en base al análisis entre las partes (Contratante, Contratista y Supervisor) y los parámetros de calidad establecidos en las especificaciones técnicas, se considera que solo se requieren 144 días calendario (4.8 meses) para la culminación de las actividades del contrato de supervisión, finalizando así el 28 de abril del 2026, y una modificación al monto contractual de Seis millones doscientos setenta y cuatro mil setecientos nueve Lempiras con 76/100 Centavos (L.6,274,709.76), que equivale al 60.00% del monto original.
 
-En vista que el incremento del monto es mayor al 25% y que la fecha de finalización del contrato según la Modificación No.2 traspasa el período de Gobierno, este requerirá aprobación por parte del Congreso Nacional, para su continuidad.
+En vista que el incremento del monto es mayor al 25% y que la fecha de finalización del contrato según la Modificación No. 2 traspasa el período de Gobierno, este requerirá aprobación por parte del Congreso Nacional, para su continuidad.
 
 ✔ MODIFICACIÓN AL CONTRATO DE CONSTRUCCIÓN
 
@@ -2403,15 +2347,13 @@ Este ajuste económico refleja la incorporación de nuevas actividades, el redis
 
 De acuerdo a las justificaciones presentadas y aprobadas para la modificación Nº2 del Contratista, se describe posteriormente las justificaciones de ampliación del contrato del Supervisor:
 
-✔ MODIFICACIÓN No.2 AL CONTRATO
+✔ MODIFICACIÓN No. 2 AL CONTRATO
 
 DE SUPERVISIÓN
 
-Toda la planificación de la obra se estableció a manera de satisfacer el nuevo alcance que se ha concebido para el proyecto que incluye modificaciones en todos los apartados del contrato. Su objetivo principal es atender y completar satisfactoriamente las actividades iniciadas e incluir las nuevas actividades, para ello es preciso emitir la presente Modificación de Contrato de supervisión No.2.
+Toda la planificación de la obra se estableció a manera de satisfacer el nuevo alcance que se ha concebido para el proyecto que incluye modificaciones en todos los apartados del contrato. Su objetivo principal es atender y completar satisfactoriamente las actividades iniciadas e incluir las nuevas actividades, para ello es preciso emitir la presente Modificación de Contrato de supervisión No. 2.
 
-Es así, que habiendo aprobado la ampliación de ciento cuarenta y cuatro (144) días calendario mediante una modificación No.2 al contrato de construcción No.2641/ GLA/AMDC/2023, CÓDIGO No.
-
-3380-A, LPuNO-011-AMDC-106-2023, “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”, y con la finalidad de que el Proyecto cumpla con todas las especificaciones, normas de seguridad, funcionalidad y calidad establecidas para el mismo y de conformidad con el propietario, se realizó la emisión de la Modificación de Contrato No. 2 de supervisión, que modifica el tiempo contractual adicionando 144 días.
+Es así, que habiendo aprobado la ampliación de ciento cuarenta y cuatro (144) días calendario mediante una modificación No. 2 al contrato de construcción No. 2641/ GLA/AMDC/2023, CÓDIGO No. 3380-A, LPuNO-011-AMDC-106-2023, “CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”, y con la finalidad de que el Proyecto cumpla con todas las especificaciones, normas de seguridad, funcionalidad y calidad establecidas para el mismo y de conformidad con el propietario, se realizó la emisión de la Modificación de Contrato No. 2 de supervisión, que modifica el tiempo contractual adicionando 144 días.
 
 En consecuencia, el plazo de ejecución total es de 474 días, estableciendo como nueva fecha de finalización el 28 de abril del 2026. En vista de lo explicado anteriormente, realizando un análisis técnico y habiendo tenido una participación en las soluciones de todas las dificultades inherentes a todo tipo de construcción, esta Supervisión solicita la aprobación de la Modificación de Contrato No. 2 al contrato de supervisión No. 2635/ GLA/AMDC/2023, CODIGO No. 3380- B, de manera que se pueda continuar con el Proyecto de “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)” CUADRO RESUMEN DE SOLICITUD DE AMPLIACIÓN DE TIEMPO No.
 
@@ -2425,7 +2367,7 @@ TOTAL
 
 RESUMEN DE SUPERVISIÓN
 
-1. Ampliación de tiempo y monto En la presente Modificación No.2 del contrato se solicita una ampliación de tiempo de 144 días y de monto que asciende a L.6,274,709.76 resultando en incremento del 60.00% al Contrato No. 2635/GLA/AMDC/2023-Código No.3380-B “Supervisión de la Construcción de la Solución Vial Intersección Residencial Florencia-Bulevar Suyapa (Túnel Giro a la Izquierda)”.
+1. Ampliación de tiempo y monto En la presente Modificación No. 2 del contrato se solicita una ampliación de tiempo de 144 días y de monto que asciende a L.6,274,709.76 resultando en incremento del 60.00% al Contrato No. 2635/GLA/AMDC/2023-Código No. 3380-B “Supervisión de la Construcción de la Solución Vial Intersección Residencial Florencia-Bulevar Suyapa (Túnel Giro a la Izquierda)”.
 
 2. Justificación de solicitud de ampliación de costos de la Supervisión En base a lo previamente expuesto, a continuación, se justifica la solicitud de tiempo del personal como sigue:
 
@@ -2501,7 +2443,7 @@ Durante este periodo, ha brindado apoyo fundamental en la redacción de los info
 
 ● Asimismo, es imprescindible considerar la ampliación de los Gastos Directos incurridos por la firma Consultora correspondientes a la Supervisión del Proyecto, como ser servicios públicos de oficina, papelería y gastos de reproducción, comunicaciones, uso de vehículos, uso de equipo de oficina y cómputo, servicios de laboratorio, servicios de Topografía (Estación Total) y gastos misceláneos.
 
-En la Modificación No.2 se incrementa el monto contractual en Seis millones doscientos setenta y cuatro mil setecientos nueve Lempiras con 76/100 centavos (L.6,274,709.76) que equivale al 60.00% del monto original, obteniendo un monto acumulado de Diecinueve millones trescientos cuarenta y dos mil novecientos sesenta y cuatro Lempiras con 87/100 centavos (L.19,342,964.87); aunado a lo anterior, en la presente Modificación de contrato, se incrementan 144 días al plazo contractual, siendo el tiempo de ejecución total de 474 días, con nueva fecha de finalización 28 de abril del 2026.
+En la Modificación No. 2 se incrementa el monto contractual en Seis millones doscientos setenta y cuatro mil setecientos nueve Lempiras con 76/100 centavos (L.6,274,709.76) que equivale al 60.00% del monto original, obteniendo un monto acumulado de Diecinueve millones trescientos cuarenta y dos mil novecientos sesenta y cuatro Lempiras con 87/100 centavos (L.19,342,964.87); aunado a lo anterior, en la presente Modificación de contrato, se incrementan 144 días al plazo contractual, siendo el tiempo de ejecución total de 474 días, con nueva fecha de finalización 28 de abril del 2026.
 
 Tomando como base lo anterior, es importante resaltar que el cálculo de prestaciones adicionales por el Servicio de Consultoría se hace en base a los rendimientos propuestos de manera contractual, así mismo se toma en cuenta lo descrito en el Contrato firmado por ambas partes específicamente en el documento de Condiciones Generales del Contrato (CGC):
 
@@ -2511,7 +2453,7 @@ El Consultor - salvo que otra cosa se hubiere acordado en las Condiciones Especi
 
 La presente solicitud de modificación está dentro del marco legal dado que es potestad de la Administración ampliar los contratos de Obra Pública, con apego a lo que indica la Ley de Contratación del Estado, particularmente lo señalado en los ARTÍCULOS 121, 122, 123 y 125 de dicha ley y ARTÍCULO 202 y 203 del Reglamento de la Ley de Contratación del Estado de dicha ley y, de conformidad con las Condiciones Generales del Contrato, Numeral 11, apartado 11.1 (Modificación), Numeral 14, apartado 14.1 (Prórroga de Plazos) Numeral 29, apartado 29.1 (Modificación de contrato).
 
-Según la Modificación No.1 al contrato de supervisión el numeral 13 Pagos al Consultor (Cláusula 35 de las CGC), se leía de la siguiente forma:
+Según la Modificación No. 1 al contrato de supervisión el numeral 13 Pagos al Consultor (Cláusula 35 de las CGC), se leía de la siguiente forma:
 
 Al consultor se realizarán los siguientes pagos:
 
@@ -2521,13 +2463,13 @@ Forma de pago: Los pagos se harán en moneda nacional: Lempiras.
 
 ● Pagos periódicos: Siete pagos correspondientes al Doce por ciento (12%) del valor del contrato contra entrega y aprobación de Informes de Avance.
 
-● Según valor de Modificación No.1
+● Según valor de Modificación No. 1
 
 - Tres pagos de Ochocientos setenta mil ciento treinta y cinco Lempiras con 17/100 centavos (L. 870,135.17) contra entrega y aprobación de los informes de avance No.8, No.9 y No.10 para los meses de septiembre 2025, octubre 2025 y del 01 al 19 de noviembre del 2025, entregado en el mes correspondiente.
 
 ● Pago final: Ocho por ciento (8.00%) del valor del contrato contra entrega y aprobación del Informe Final, por parte de las autoridades de la AMDC.
 
-El numeral 13 Pagos al Consultor (Cláusula 35 de las CGC) según la Modificación No.2 al contrato de supervisión, deberá leerse:
+El numeral 13 Pagos al Consultor (Cláusula 35 de las CGC) según la Modificación No. 2 al contrato de supervisión, deberá leerse:
 
 Al consultor se le realizarán los siguientes pagos:
 
@@ -2535,17 +2477,17 @@ Al consultor se le realizarán los siguientes pagos:
 
 ● Pagos periódicos: Siete pagos correspondientes al Doce por ciento (12%) del valor del contrato contra entrega y aprobación de Informes de Avance.
 
-● Según valor de Modificación No.1
+● Según valor de Modificación No. 1
 
 - Tres pagos de Ochocientos setenta mil ciento treinta y cinco Lempiras con 17/100 centavos (L. 870,135.17) contra entrega y aprobación de los informes de avance No.8, No.9 y No.10 para los meses del 01 al 30 de septiembre 2025, 01 al 31 de octubre de 2025 y del 01 al 30 de noviembre del 2025 respectivamente, entregado en el mes correspondiente.
 
-● Según valor de Modificación No.2 ­ Cuatro pagos de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 95/100 centavos (L.1,254,941.95) contra entrega y aprobación de los informes de avance No.11, 12, 13 y 14 para los meses del 01 al 31 de diciembre 2025, 01 al 31 de enero 2026, 01 al 28 de febrero 2026 y del 01 al 31 de marzo 2026 respectivamente, entregados en el mes correspondiente.
+● Según valor de Modificación No. 2 ­ Cuatro pagos de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 95/100 centavos (L.1,254,941.95) contra entrega y aprobación de los informes de avance No. 11, 12, 13 y 14 para los meses del 01 al 31 de diciembre 2025, 01 al 31 de enero 2026, 01 al 28 de febrero 2026 y del 01 al 31 de marzo 2026 respectivamente, entregados en el mes correspondiente.
 
-­ Un pago de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 96/100 centavos (L.1,254,941.96) contra entrega y aprobación del informe de avance No.15 para el período del 01 al 12 de abril del 2026; entregado en el mes correspondiente.
+­ Un pago de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 96/100 centavos (L.1,254,941.96) contra entrega y aprobación del informe de avance No. 15 para el período del 01 al 12 de abril del 2026; entregado en el mes correspondiente.
 
 ● Pago final: Ocho por ciento (8.00%) del valor del contrato contra entrega y aprobación del Informe Final, por parte de las autoridades de la AMDC.
 
-De acuerdo al análisis técnico se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No.2 en Tiempo y Monto del Contrato No. 2635/GLA/AMDC/2023, Concurso Público Nacional No. CPuNO- 012-AMDC-107-2023, Código 3380-B, correspondiente al proyecto: “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”.
+De acuerdo al análisis técnico se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No. 2 en Tiempo y Monto del Contrato No. 2635/GLA/AMDC/2023, Concurso Público Nacional No. CPuNO- 012-AMDC-107-2023, Código 3380-B, correspondiente al proyecto: “SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA SOLUCIÓN VIAL INTERSECCIÓN RESIDENCIAL FLORENCIA – BULEVAR SUYAPA (TÚNEL GIRO A LA IZQUIERDA)”.
 
 CONSIDERANDO #9: Que del análisis que llevó a cabo la Dirección de Control y Seguimiento y el supervisor, se recomienda incrementar el monto y plazo de ejecución del contrato.
 
@@ -2583,13 +2525,13 @@ CUARTA: Se modifica el numeral 13. Pagos al Consultor (Cláusula 35 de las CGC) 
 
 ● Pagos periódicos: Siete pagos correspondientes al Doce por ciento (12%) del valor del contrato contra entrega y aprobación de Informes de Avance.
 
-● Según valor de Modificación No.1
+● Según valor de Modificación No. 1
 
 - Tres pagos de Ochocientos setenta mil ciento treinta y cinco Lempiras con 17/100 centavos (L. 870,135.17) contra entrega y aprobación de los informes de avance No.8, No.9 y No.10 para los meses del 01 al 30 de septiembre 2025, 01 al 31 de octubre de 2025 y del 01 al 30 de noviembre del 2025 respectivamente, entregado en el mes correspondiente.
 
-● Según valor de Modificación No.2 ­ Cuatro pagos de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 95/100 centavos (L.1,254,941.95) contra entrega y aprobación de los informes de avance No.11, 12, 13 y 14 para los meses del 01 al 31 de diciembre 2025, 01 al 31 de enero 2026, 01 al 28 de febrero 2026 y del 01 al 31 de marzo 2026 respectivamente, entregados en el mes correspondiente.
+● Según valor de Modificación No. 2 ­ Cuatro pagos de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 95/100 centavos (L.1,254,941.95) contra entrega y aprobación de los informes de avance No. 11, 12, 13 y 14 para los meses del 01 al 31 de diciembre 2025, 01 al 31 de enero 2026, 01 al 28 de febrero 2026 y del 01 al 31 de marzo 2026 respectivamente, entregados en el mes correspondiente.
 
-­ Un pago de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 96/100 centavos (L.1,254,941.96) contra entrega y aprobación del informe de avance No.15 para el período del 01 al 12 de abril del 2026; entregado en el mes correspondiente.
+­ Un pago de Un millón doscientos cincuenta y cuatro mil novecientos cuarenta y un Lempiras con 96/100 centavos (L.1,254,941.96) contra entrega y aprobación del informe de avance No. 15 para el período del 01 al 12 de abril del 2026; entregado en el mes correspondiente.
 
 ● Pago final: Ocho por ciento (8.00%) del valor del contrato contra entrega y aprobación del Informe Final, por parte de las autoridades de la AMDC.
 

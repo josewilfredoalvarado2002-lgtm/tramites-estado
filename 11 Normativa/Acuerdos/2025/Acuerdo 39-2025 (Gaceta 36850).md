@@ -11,7 +11,7 @@ paginas: "A. 171 - 184"
 sumario: "Certificación, Acuerdo No. 39-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250529-36850/download"
 extraido: "2026-11-10"
-huella: "ab8b8defc974c7fd"
+huella: "5a795e806498625b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 39-2025
@@ -27,7 +27,7 @@ huella: "ab8b8defc974c7fd"
 
 ## Texto
 
-La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad en el punto VII (Asuntos Electorales) numeral uno (01) del Acta Número 32-2025, correspondiente a la Sesión Ordinaria , celebrada por el Pleno de este Órgano Electoral el día jueves veintinueve (29) de mayo del año dos mil veinticinco (2025), que literalmente dice:
+La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad en el punto VII (Asuntos Electorales) numeral uno (01) del Acta Número 32-2025, correspondiente a la Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día jueves veintinueve (29) de mayo del año dos mil veinticinco (2025), que literalmente dice:
 
 “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: ACUERDO No. 39-2025.
 

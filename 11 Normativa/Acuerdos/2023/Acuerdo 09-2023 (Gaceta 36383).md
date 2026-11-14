@@ -11,7 +11,7 @@ paginas: "A. 1 - 34"
 sumario: "Acuerdos Nos. 09-2023, 020-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231114-36383/download"
 extraido: "2026-11-14"
-huella: "e57b3ef0f70ec1a9"
+huella: "6fb7f9706ac90b29"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 09-2023
@@ -101,7 +101,7 @@ Para los efectos de aplicación del presente procedimiento se establecen las abr
 
 ADJUDICATARIO: Es la persona natural o jurídica a quien se le otorga el derecho de usufructo para el aprovechamiento del o los productos y subproductos forestales ofertados al menos puesto en la bacadilla y que se encuentran dentro del área nacional forestal asignada.
 
-BOSQUE: Es una asociación vegetal natural o plantada, en cualquier etapa del ciclo natural de vida , dominada por árboles y arbustos o una combinación de ellos de cualquier tamaño con una cobertura del dosel mayor a diez por ciento (10%), que con o sin manejo, es capaz de producir madera, otros productos forestales, bienes y servicios ambientales, ejercer influencias sobre el régimen de aguas, el suelo, el clima y proveer hábitat para la vida silvestre, o bien con una densidad mínima de un mil doscientos (1,200) plantas por hectárea.
+BOSQUE: Es una asociación vegetal natural o plantada, en cualquier etapa del ciclo natural de vida, dominada por árboles y arbustos o una combinación de ellos de cualquier tamaño con una cobertura del dosel mayor a diez por ciento (10%), que con o sin manejo, es capaz de producir madera, otros productos forestales, bienes y servicios ambientales, ejercer influencias sobre el régimen de aguas, el suelo, el clima y proveer hábitat para la vida silvestre, o bien con una densidad mínima de un mil doscientos (1,200) plantas por hectárea.
 
 BOSQUE NACIONAL: Son áreas forestales cuya propiedad pertenece y es administrada por el Estado, en cuyas áreas el ICF mantiene vigentes CMFC y/o CU, los cuales son suscritos con comunidades y Organizaciones Agroforestales debidamente registradas en el Sistema Social Forestal.
 

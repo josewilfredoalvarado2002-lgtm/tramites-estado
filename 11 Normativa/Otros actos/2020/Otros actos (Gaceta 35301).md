@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Decreto Número 78-2020; Acuerdo CREE-073; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200702-35301/download"
 extraido: "2026-11-14"
-huella: "b2329098ff9d2787"
+huella: "d8561949ab0279ba"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Número 78-2020; Acuerdo CREE-073; AVANCE
@@ -27,13 +27,13 @@ huella: "b2329098ff9d2787"
 
 ## Texto
 
-DECRETO NÚMERO 78- 2020 EL CONGRESO NACIONAL,
+DECRETO NÚMERO 78-2020 EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 59 de la Constitución de la República de Honduras establece que, “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla”.
 
 CONSIDERANDO: Que la nacionalidad es el vínculo jurídico y político que relaciona a los hondureños con el Estado de Honduras y que representa además la relación espiritual y cultural que los unifica por lazos de tradición, intereses y aspiraciones comunes.
 
-CONSIDERANDO: Que Honduras cuenta con una Ley de Protección de los Hondureños Migrantes y sus Familiares, aprobada mediante Decreto No.106-2013, de fecha 10 de Junio de 2013 y publicada el 15 de Febrero de 2014 en el Diario Oficial “La Gaceta”, Edición No.33,356 en cuyo Artículo 1, numeral 6), se establece como uno de sus objetos: velar especialmente por extender la acción protectora del Estado de Honduras a los hondureños en el exterior que se encuentren en situación de calamidad.
+CONSIDERANDO: Que Honduras cuenta con una Ley de Protección de los Hondureños Migrantes y sus Familiares, aprobada mediante Decreto No. 106-2013, de fecha 10 de Junio de 2013 y publicada el 15 de Febrero de 2014 en el Diario Oficial “La Gaceta”, Edición No. 33,356 en cuyo Artículo 1, numeral 6), se establece como uno de sus objetos: velar especialmente por extender la acción protectora del Estado de Honduras a los hondureños en el exterior que se encuentren en situación de calamidad.
 
 CONSIDERANDO: Que a partir de diversas manifestaciones y solicitudes de apoyo, la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional procedió a realizar un estudio socioeconómico de las personas que efectivamente se encuentran en situación de calamidad en España y que requieren de un vuelo humanitario y ha identificado hasta ahora doscientos cuarenta y cuatro (244) personas, para lo cual se requieren 300,000 Euros, lo que equivale a OCHO MILLONES CUATROCIENTOS MIL LEMPIRAS (L.8,400,000.00).
 
@@ -43,13 +43,13 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 ARTÍCULO1.- Crear una partida presupuestaria por la cantidad de OCHO MILLONES CUATROCIENTOS MIL LEMPIRAS (L.8,400,000.00), en el Presupuesto General de Ingresos y Egresos de la República, Período Fiscal 2020, a favor de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, misma que servirá única y exclusivamente para la repatriación de compatriotas hondureños que residen en España y que actualmente, según el análisis realizado por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, se encuentran en situación de calamidad en España, debido a los efectos ocasionados por la pandemia del COVID-19.
 
 La Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional y la Secretaría de Estado en el Despacho de Finanzas (SEFIN) deben hacer los arreglos pertinentes para el cumplimiento del presente Decreto.
 
-La contratación de los vuelos se realizará de manera directa de conformidad con el Acuerdo de Emergencia No.005-2020 de fecha 10 de Febrero de 2020.
+La contratación de los vuelos se realizará de manera directa de conformidad con el Acuerdo de Emergencia No. 005-2020 de fecha 10 de Febrero de 2020.
 
 #### Artículo 2
 
@@ -81,7 +81,7 @@ CONSIDERANDO
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

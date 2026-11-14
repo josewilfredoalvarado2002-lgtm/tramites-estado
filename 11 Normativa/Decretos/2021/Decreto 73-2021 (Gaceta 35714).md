@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Decretos Nos. 73-2021, 75-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210910-35714/download"
 extraido: "2026-11-14"
-huella: "858df2e28e227f9b"
+huella: "83999731cd8b285d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 73-2021
@@ -49,7 +49,7 @@ CONSIDERANDO: Que a la fecha los Proyectos que conllevan la ADMINISTRACIÓN, ENL
 
 CONSIDERANDO: Que estos Proyectos han constituido la base fundamental para combatir y reducir la criminalidad, reforzar la seguridad en las ciudades en que se implementan, así como brindar un servicio directo a la población en situaciones de emergencia, situaciones que no hubieran sido posibles si no es por la implementación de cámaras de videovigilancia, sensores inteligentes de detección, líneas telefónicas de emergencia y equipamiento de respuesta ciudadana que a la fecha abarcan a más de tres (3) Millones de ciudadanos en las diferentes ciudades en que se ha implementado; asimismo es un instrumento de apoyo a los operadores de justicia para la investigación y castigo del crimen, convirtiendo este servicio en una actividad que por su propia naturaleza adquiere el carácter de servicio público permanente e ininterrumpido, ya que, busca la seguridad y protección social, circunstancias que constituyen una obligación del Estado al tenor de lo establecido en el Artículo 61 de la Constitución de la República, que manda: “La Constitución garantiza a los hondureños y extranjeros residentes en el país, el derecho a la inviolabilidad de la vida, la seguridad individual, a la libertad, a la igualdad ante la ley y a la propiedad”; razón por la cual, resulta imperativo para la seguridad y protección social, mantener la ejecución de estos Proyectos en las ciudades en las que se está implementando, así como ampliarlas a otras ciudades y zonas del País. Para lograr los propósitos antes señalados es importante dotar al SISTEMA NACIONAL DE EMERGENCIA NUEVE, UNO, UNO (911) de los instrumentos legales que permitan sin ningún obstáculo, trámite o requisito, garantizar la continuidad e ininterrupción del “PROYECTO PARA EL FORTALECIMIENTO DEL SECTOR DE SEGURIDAD PÚBLICA EN HONDURAS” y sus ampliaciones a otras ciudades y zonas del País.
 
-CONSIDERANDO: Que mediante Decreto No.58-2015, publicado en el Diario Oficial “La Gaceta” en fecha 7 de Septiembre del año 2015, Edición No.33,828, en su Artículo 1 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), establece que: “Créase el Sistema Nacional de Emergencias Nueve, Uno, Uno (911), como servicio público y de seguridad nacional, responsable de la atención de las llamadas de EMERGENCIAS dirigidas al número de teléfono único Nueve, Uno, Uno (911), realizadas por cualquier persona desde cualquier parte del territorio nacional que requiera seguridad, atención sanitaria, extinción de incendios, salvamento o protección civil, procurando en definitiva dar respuesta inmediata, coordinada y de calidad y, que se maneje una fuente de información y de valor consolidada. El Sistema Nacional de Emergencias Nueve, Uno, Uno (911), debe a su vez facilitar la gestión de los recursos y unificar las comunicaciones de radio sobre una misma plataforma para todas las instituciones integrantes de este Sistema, a través de un Centro Único de Operaciones de Emergencias y Seguridad, para efectos administrativos y presupuestarios”.
+CONSIDERANDO: Que mediante Decreto No. 58-2015, publicado en el Diario Oficial “La Gaceta” en fecha 7 de Septiembre del año 2015, Edición No. 33,828, en su Artículo 1 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911), establece que: “Créase el Sistema Nacional de Emergencias Nueve, Uno, Uno (911), como servicio público y de seguridad nacional, responsable de la atención de las llamadas de EMERGENCIAS dirigidas al número de teléfono único Nueve, Uno, Uno (911), realizadas por cualquier persona desde cualquier parte del territorio nacional que requiera seguridad, atención sanitaria, extinción de incendios, salvamento o protección civil, procurando en definitiva dar respuesta inmediata, coordinada y de calidad y, que se maneje una fuente de información y de valor consolidada. El Sistema Nacional de Emergencias Nueve, Uno, Uno (911), debe a su vez facilitar la gestión de los recursos y unificar las comunicaciones de radio sobre una misma plataforma para todas las instituciones integrantes de este Sistema, a través de un Centro Único de Operaciones de Emergencias y Seguridad, para efectos administrativos y presupuestarios”.
 
 CONSIDERANDO: Que al tenor de lo establecido en el
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

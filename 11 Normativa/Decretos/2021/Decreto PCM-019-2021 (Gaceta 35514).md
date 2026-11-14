@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-019-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210212-35514/download"
 extraido: "2026-11-14"
-huella: "9718e716427281c2"
+huella: "fca648ce0fa2269a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-019-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Estado de Honduras es alta parte contratante del Pacto Inte
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2 y 11 de la Constitución de la República, le corresponde al Presidente de la República, dirigir la Política General del Estado y representarlo, emitir Acuerdos, Decretos y expedir Reglamentos y Resoluciones conforme a la Ley.
 
-CONSIDERANDO: Que de conformidad con el Artículo 6 párrafo tercero de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266- 2013, Presidente de la República debe tomar las medidas que sean necesarias para lograr que los planes, políticas, proyectos y programas se cumplan, para lo cual debe crear o modificar las instancias de conducción estratégica que estime necesarias y, cuando corresponda, pueda auxiliarse en los organismos de derecho privado pertinentes para alcanzar los objetivos del plan de nación y los planes estratégicos que de él se deriven, así como la continuidad de las políticas, proyectos y programas que son de obligatorio cumplimiento para los gobiernos sucesivos.
+CONSIDERANDO: Que de conformidad con el Artículo 6 párrafo tercero de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, Presidente de la República debe tomar las medidas que sean necesarias para lograr que los planes, políticas, proyectos y programas se cumplan, para lo cual debe crear o modificar las instancias de conducción estratégica que estime necesarias y, cuando corresponda, pueda auxiliarse en los organismos de derecho privado pertinentes para alcanzar los objetivos del plan de nación y los planes estratégicos que de él se deriven, así como la continuidad de las políticas, proyectos y programas que son de obligatorio cumplimiento para los gobiernos sucesivos.
 
 CONSIDERANDO: Que de acuerdo a lo que establece el
 
@@ -45,9 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 14 numeral 1) y penúltimo pá
 
 CONSIDERANDO: Que de conformidad con el Artículo 117 de la Ley General de la Administración Pública se emitirán por Decreto los actos que de conformidad con la Constitución de la Repúblicas, las leyes secundarias o los reglamentos sean privativos del Presidente de la República o deban ser dictados en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-142-2020 publicado en el Diario Oficial “La Gaceta” de fecha 28 de diciembre de 2020, Edición No.
-
-35,471, se creó el “Programa de Vivienda Social Subsidiada y No Subsidiada”, como un programa temporal bajo la codirección de la Secretaría de Estado en el Despacho de Finanzas y la Comisión Nacional de Vivienda y Asentamientos Humanos (CONVIVIENDA) con la finalidad de asegurar la construcción, reconstrucción, autoconstrucción, mejora de viviendas y el otorgamiento de subsidios y terrenos para las personas cuyas viviendas fueron destruidas y/o dañadas por el curso de las tormentas tropicales “ETA” e “IOTA”; así como para aquellas personas que habitan en zonas de vulnerabilidad y riesgo en todo el país.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-142-2020 publicado en el Diario Oficial “La Gaceta” de fecha 28 de diciembre de 2020, Edición No. 35,471, se creó el “Programa de Vivienda Social Subsidiada y No Subsidiada”, como un programa temporal bajo la codirección de la Secretaría de Estado en el Despacho de Finanzas y la Comisión Nacional de Vivienda y Asentamientos Humanos (CONVIVIENDA) con la finalidad de asegurar la construcción, reconstrucción, autoconstrucción, mejora de viviendas y el otorgamiento de subsidios y terrenos para las personas cuyas viviendas fueron destruidas y/o dañadas por el curso de las tormentas tropicales “ETA” e “IOTA”; así como para aquellas personas que habitan en zonas de vulnerabilidad y riesgo en todo el país.
 
 CONSIDERANDO: Que conforme a la Cláusula Octavo del Contrato de Fideicomiso “SISTEMA TECNOLÓGICO Y LOGÍSITICO PARA LA ADMINISTRACIÓN DE LOS DERECHOS DE PROPIEDAD EN LA REPÚBLICA DE HONDURAS” la adscripción de programas, plataformas y proyectos se puede realizar por el Instituto de la Propiedad, por el Poder Ejecutivo o por adscripción mediante convenios que suscriba directamente la Unidad Coordinadora de Proyectos
 

@@ -8,7 +8,7 @@ gaceta_numero: 36193
 gaceta_fecha: "2023-03-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)|La Gaceta 36193]]"
 paginas: "A. 1"
-sumario: "Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023"
+sumario: "Acuerdo Ejecutivo No. 475-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS: Acuerdo No. SEDH-017-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230330-36193/download"
 extraido: "2026-11-14"
 huella: "40d5baae0ba30cc0"
@@ -23,7 +23,7 @@ huella: "40d5baae0ba30cc0"
 | Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36193 (2023-03-30)\|La Gaceta 36193]] del 2023-03-30 |
 | Páginas | A. 1 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 475-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOSAcuerdo No. SEDH-017-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 475-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS: Acuerdo No. SEDH-017-2023 |
 
 ## Texto
 

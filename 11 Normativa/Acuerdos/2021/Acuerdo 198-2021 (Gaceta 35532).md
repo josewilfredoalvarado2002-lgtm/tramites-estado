@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo número 198-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210302-35532/download"
 extraido: "2026-11-14"
-huella: "c9b5c4a040c1ca7c"
+huella: "a234d7ccd9850fc8"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 198-2021
@@ -33,9 +33,9 @@ CONSIDERANDO: Que el Presidente de la República tiene dentro de sus facultades 
 
 Artículos 116 y 118 de la Ley General de la Administración Pública.
 
-CONSIDERANDO: Que mediante Decreto No.33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+CONSIDERANDO: Que mediante Decreto No. 33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
-CONSIDERANDO: Que mediante Decreto No.92-2020 de fecha 16 de julio de 2020, publicado en el Diario Oficial La Gaceta el 27 de julio de 2020, dados los efectos derivados de la pandemia del COVID-19, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que del monto autorizado en el Artículo 8 del Decreto No.33- 2020, pueda destinar recursos para el financiamiento del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 y 2021, así como otros requerimientos ineludibles que fueran necesarios para cubrir el déficit fiscal.
+CONSIDERANDO: Que mediante Decreto No. 92-2020 de fecha 16 de julio de 2020, publicado en el Diario Oficial La Gaceta el 27 de julio de 2020, dados los efectos derivados de la pandemia del COVID-19, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que del monto autorizado en el Artículo 8 del Decreto No. 33-2020, pueda destinar recursos para el financiamiento del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 y 2021, así como otros requerimientos ineludibles que fueran necesarios para cubrir el déficit fiscal.
 
 CONSIDERANDO: Que en fecha 02 de noviembre de 2020 mediante Decreto Ejecutivo No.PCM-109-2020, publicado en el Diario Oficial La Gaceta el 02 de noviembre de 2020, y sus reformas, se declaró Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por las Tormentas Tropicales “ETA” y “IOTA”, asimismo en el Artículo 3 se establece que el financiamiento requerido para el Estado de Emergencia, podrá ser de los recursos autorizados y gestionados por medio de los Decretos Legislativos 33-2020 y 92-2020.
 

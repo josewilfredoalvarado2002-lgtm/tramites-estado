@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200310-35196/download"
 extraido: "2026-11-14"
-huella: "45ade20dd41480b1"
+huella: "0d5848ea6dfbbcc1"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,11 +27,9 @@ huella: "45ade20dd41480b1"
 
 ## Texto
 
-La infrascrita, Secretaria General a Nivel Nacional de la Administración Aduanera de Honduras, certifica el ACUERDO No. ADUANAS-022-2020 de fecha 20 de febrero del 2020, que literalmente dice: “ACUERDO No.
+La infrascrita, Secretaria General a Nivel Nacional de la Administración Aduanera de Honduras, certifica el ACUERDO No. ADUANAS-022-2020 de fecha 20 de febrero del 2020, que literalmente dice: “ACUERDO No. ADUANAS-022-2020 ADMINISTRACIÓN ADUANERA
 
-ADUANAS-022-2020 ADMINISTRACIÓN ADUANERA
-
-DE HONDURAS, Tegucigalpa, M.D.C., 20 de febrero del año 2020.- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM059-2019 del veintisiete (27) de septiembre del año dos mil diecinueve (2019), publicado en el Diario Oficial La Gaceta en fecha treinta (30) de septiembre del año dos mil diecinueve (2019,) el Presidente Constitucional en Consejo de Secretarios de Estado, Suprimir y liquidar a más tardar el treinta y uno (31) de diciembre de dos mil diecinueve (2019) a la Dirección Adjunta de Rentas Aduaneras (DARA).- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 anteriormente mencionado, se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170- 2016, cuya denominación será Administración Aduanera de Honduras, en consecuencia, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero (1) de enero de dos mil veinte (2020).- CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.- CONSIDERANDO: Que el Director Ejecutivo tiene plena potestad para delegar las funciones en los funcionarios competentes, aprobar los acuerdos que contengan las normas internas de la institución, seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo a las normas aplicables.- CONSIDERANDO:
+DE HONDURAS, Tegucigalpa, M.D.C., 20 de febrero del año 2020.- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM059-2019 del veintisiete (27) de septiembre del año dos mil diecinueve (2019), publicado en el Diario Oficial La Gaceta en fecha treinta (30) de septiembre del año dos mil diecinueve (2019,) el Presidente Constitucional en Consejo de Secretarios de Estado, Suprimir y liquidar a más tardar el treinta y uno (31) de diciembre de dos mil diecinueve (2019) a la Dirección Adjunta de Rentas Aduaneras (DARA).- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 anteriormente mencionado, se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, en consecuencia, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero (1) de enero de dos mil veinte (2020).- CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.- CONSIDERANDO: Que el Director Ejecutivo tiene plena potestad para delegar las funciones en los funcionarios competentes, aprobar los acuerdos que contengan las normas internas de la institución, seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo a las normas aplicables.- CONSIDERANDO:
 
 Que de conformidad al artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo, el superior podrá delegar funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la administración de que forma parte el superior y el inferior.- CONSIDERANDO:
 

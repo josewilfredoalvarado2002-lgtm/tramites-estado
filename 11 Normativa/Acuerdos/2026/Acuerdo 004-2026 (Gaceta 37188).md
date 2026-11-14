@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdos Nos. 004-2026, 005-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260708-37188/download"
 extraido: "2026-11-09"
-huella: "4c996d44f2720611"
+huella: "100a6570e9617f41"
 ---
 <!-- portal:inicio -->
 # ACUERDO No 004-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que son atribuciones y deberes de los Secretarios de Estados, emit
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-006-2026, publicado en el Diario Oficial “La Gaceta”, en fecha 11 de marzo del 2026, se crea la Oficina Presidencial de Comercio Exterior (OPCE), como el ente desconcentrado de la Presidencia de la República, responsable de la formulación y evaluación de la política de comercio exterior y la administración general del régimen de comercio exterior, así como coordinar y ejecutar acciones vinculadas a la facilitación y administración del comercio internacional, en coordinación con las instituciones competentes.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 006-2026 establece que la Oficina Presidencial de Comercio Exterior estará a cargo de un Comisionado Presidencial con rango de Secretario de Estado que reportará directamente al Presidente de la República.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-006-2026 establece que la Oficina Presidencial de Comercio Exterior estará a cargo de un Comisionado Presidencial con rango de Secretario de Estado que reportará directamente al Presidente de la República.
 
 CONSIDERANDO: Que los entes preventivos de las emergencias nacionales han advertido de la severidad de los fenómenos climatológicos en el presente ciclo, con impactos en la agricultura y la ganadería, que creará distorsiones en el abastecimiento de bienes de consumo primario entre ellos granos básicos.
 
@@ -45,9 +45,9 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 001-2026, publicado en el D
 
 (DAI) de cero por ciento (0%), con vigencia hasta el 31 de diciembre de 2026, el cual se podrá importar de cualquier procedencia.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo Número 001- 2026, establece en el Ordinal Segundo, que la asignación del contingente arancelario de arroz granza se hará en base a los porcentajes de compra nacional de arroz granza reportada, expresados en toneladas métricas de la cosecha nacional producida en el año 2025. Asimismo, en el Ordinal Tercero instruye a la Oficina Presidencia de Comercio Exterior (OPCE) y la Secretaría en los Despachos de Agricultura y Ganadería (SAG) que emitan los Acuerdos Ministeriales conforme a sus competencias.
+CONSIDERANDO: Que el Acuerdo Ejecutivo Número 001-2026, establece en el Ordinal Segundo, que la asignación del contingente arancelario de arroz granza se hará en base a los porcentajes de compra nacional de arroz granza reportada, expresados en toneladas métricas de la cosecha nacional producida en el año 2025. Asimismo, en el Ordinal Tercero instruye a la Oficina Presidencia de Comercio Exterior (OPCE) y la Secretaría en los Despachos de Agricultura y Ganadería (SAG) que emitan los Acuerdos Ministeriales conforme a sus competencias.
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería emitió el Acuerdo Ministerial No. SAG-213- 2026 de fecha 15 de junio de 2026, por medio del cual se realizó la asignación de un contingente arancelario de arroz granza, clasificado en el inciso arancelario 1006.10.90.00 del Arancel Centroamericano de Importación (ACI), por Sesenta Mil (60,000) Tonelada Métricas (TM), de conformidad a lo establecido en el Ordinal Segundo, del Acuerdo Ejecutivo Número 001-2026. A continuación, se detalla la distribución en base al porcentaje de arroz comprado:
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería emitió el Acuerdo Ministerial No. SAG-213-2026 de fecha 15 de junio de 2026, por medio del cual se realizó la asignación de un contingente arancelario de arroz granza, clasificado en el inciso arancelario 1006.10.90.00 del Arancel Centroamericano de Importación (ACI), por Sesenta Mil (60,000) Tonelada Métricas (TM), de conformidad a lo establecido en el Ordinal Segundo, del Acuerdo Ejecutivo Número 001-2026. A continuación, se detalla la distribución en base al porcentaje de arroz comprado:
 
 IMPORTACIóN
 
@@ -85,7 +85,7 @@ ACUERDA:
 
 PRIMERO: En observancia y aplicación del Ordinal Primero del Acuerdo Ejecutivo Número 001-2026 de fecha 01 de junio de 2026, se establece un contingente arancelario de arroz granza, clasificado en el inciso arancelario 1006.10.90.00 del Arancel Centroamericano de Importación (ACI), por sesenta mil Tonelada Métricas (60,000 TM), con un Derecho Arancelario a la Importación (DAI) de cero por ciento (0%), cuya vigencia será hasta el 31 de diciembre de 2026, el cual se podrá importar de cualquier procedencia.
 
-SEGUNDO: Asignar el contingente arancelario de arroz granza según lo establecido en el Acuerdo Ejecutivo No. 001- 2026 de fecha 05 junio de 2026 y Acuerdo No. SAG-213-2026 de fecha 15 de junio de 2026 de la forma siguiente:
+SEGUNDO: Asignar el contingente arancelario de arroz granza según lo establecido en el Acuerdo Ejecutivo No. 001-2026 de fecha 05 junio de 2026 y Acuerdo No. SAG-213-2026 de fecha 15 de junio de 2026 de la forma siguiente:
 
 No.
 
@@ -175,9 +175,7 @@ b) Carta de poder debidamente autenticada;
 
 c) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-d) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+d) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 e) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

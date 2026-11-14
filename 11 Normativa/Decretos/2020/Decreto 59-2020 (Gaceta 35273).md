@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decretos Nos. 19-2020, 59-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200604-35273/download"
 extraido: "2026-11-14"
-huella: "92370fbd9ba71920"
+huella: "de2a01b8b81c2c46"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 59-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ d) Las donaciones… Los pagos por los conceptos …”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 14 de la LEY DEL EQUILIBRIO FINANCIERO Y LA PROTECCIÓN SOCIAL, contenida en el Decreto No. 194-2002, de fecha 15 de Mayo de 2002 y publicado en el Diario Oficial “La Gaceta”, de fecha 5 de Junio de 2002, Edición No.29,799, el que debe leerse de la forma siguiente:
+ARTÍCULO 2.- Reformar el Artículo 14 de la LEY DEL EQUILIBRIO FINANCIERO Y LA PROTECCIÓN SOCIAL, contenida en el Decreto No. 194-2002, de fecha 15 de Mayo de 2002 y publicado en el Diario Oficial “La Gaceta”, de fecha 5 de Junio de 2002, Edición No. 29,799, el que debe leerse de la forma siguiente:
 
 “ARTÍCULO 14.- Las personas mayores de sesenta y cinco (65) años, con una renta bruta hasta de TRESCIENTOS CINCUENTA MIL LEMPIRAS (L. 350,000.00), quedan exentos del pago de este impuesto a partir de la vigencia del presente Decreto, sin necesidad de presentar comprobante alguno ni someterse a procedimientos administrativos autorizantes o trámite adicional ante el Sistema de Administración de Rentas del Estado; pudiendo los contribuyentes aplicar el beneficio de exención de pleno derecho, a partir del período fiscal en que cumplan los sesenta y cinco (65) años de vida.
 
@@ -71,7 +71,7 @@ La Administración Tributaria de oficio debe velar por el cumplimiento del benef
 
 Para la aplicación de esta disposición quedan excluidos de la renta bruta, los intereses y ganancias de capital que están sujetos a impuestos de conformidad con los
 
-Artículos 10 párrafo segundo de la Ley de Impuesto Sobre la Renta (ISR); y, 9 de la Ley de Simplificación Tributaria, contenida en el Decreto No.110-93 del 20 de Julio de 1993.
+Artículos 10 párrafo segundo de la Ley de Impuesto Sobre la Renta (ISR); y, 9 de la Ley de Simplificación Tributaria, contenida en el Decreto No. 110-93 del 20 de Julio de 1993.
 
 En el caso que, a las personas naturales beneficiarias de esta exoneración, hubieren sufrido retenciones en los ingresos que perciban por concepto de sueldos o salarios u horarios profesionales, dichas retenciones se les devolverán siguiendo el procedimiento que establezca la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 

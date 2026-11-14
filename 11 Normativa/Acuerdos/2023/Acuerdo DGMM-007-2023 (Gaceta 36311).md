@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo No. DGMM/007-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230818-36311/download"
 extraido: "2026-11-14"
-huella: "ab217c23057ebe13"
+huella: "caa838be5dbd00a8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGMM/007-2023
@@ -57,9 +57,7 @@ ACUERDA:
 
 #### Artículo 1
 
-Artículo 1.- Reformar el Acuerdo DGMM No. 018/2015 de fecha 15 de mayo de 2015, donde se aprueba el nuevo Organigrama de la Dirección General de la Marina Mercante, el Acuerdo DGMM No. 02-2017 de fecha 12 de enero de 2017, mediante el cual se crea el Departamento de Análisis y Control Marítimo (ACMA) y el Acuerdo DGMM No.
-
-012/2018 de fecha 4 de junio de 2018, todos publicados en el Diario Oficial “La Gaceta”; por consiguiente, apruébese el nuevo Organigrama de la Dirección General de la Marina Mercante, el cual se adjunta como Anexo al presente Acuerdo.
+Artículo 1.- Reformar el Acuerdo DGMM No. 018/2015 de fecha 15 de mayo de 2015, donde se aprueba el nuevo Organigrama de la Dirección General de la Marina Mercante, el Acuerdo DGMM No. 02-2017 de fecha 12 de enero de 2017, mediante el cual se crea el Departamento de Análisis y Control Marítimo (ACMA) y el Acuerdo DGMM No. 012/2018 de fecha 4 de junio de 2018, todos publicados en el Diario Oficial “La Gaceta”; por consiguiente, apruébese el nuevo Organigrama de la Dirección General de la Marina Mercante, el cual se adjunta como Anexo al presente Acuerdo.
 
 #### Artículo 2
 

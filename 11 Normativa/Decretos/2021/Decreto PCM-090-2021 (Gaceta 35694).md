@@ -11,7 +11,7 @@ paginas: "A. 7 - 11"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210821-35694/download"
 extraido: "2026-11-14"
-huella: "565a27cdb456b5fd"
+huella: "b2c9b5725fec2f96"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-090-2021
@@ -51,9 +51,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el ya citado Contrato de 
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 19 y 45, 248, 252, 321, 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
-
-266-2013; Decreto Legislativo Número 307-2013, Decreto Ejecutivo Número PCM-062-2013; y, Decreto Ejecutivo Número PCM-049-2018.
+En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 19 y 45, 248, 252, 321, 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decreto Legislativo Número 307-2013, Decreto Ejecutivo Número PCM-062-2013; y, Decreto Ejecutivo Número PCM-049-2018.
 
 DECRETA:
 

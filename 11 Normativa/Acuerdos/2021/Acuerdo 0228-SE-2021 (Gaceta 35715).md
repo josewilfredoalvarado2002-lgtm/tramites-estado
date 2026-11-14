@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ministerial No. 0228-SE-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210911-35715/download"
 extraido: "2026-11-14"
-huella: "3ac826aca3f3d91b"
+huella: "a720724d4c12068c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 0228-SE-2021
@@ -273,7 +273,7 @@ Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los catorce
 
 COMUNÍQUESE Y PUBLÍQUE ING. ARNALDO BUESO HERNÁNDEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN ABG. LILIA CAROLINA PINEDA MILLA SECRETARIA GENERAL Avance Próxima Edición
 
-DECRETA: ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM- 095-2021, publicado en el Diario Oficial “La Gaceta” en fecha cinco (05) de septiembre del 2021 Edición No.35,709. Dicha restricción será efectiva por un plazo de siete (07) días a partir del lunes Trece (13) hasta el domingo Diecinueve (19) de septiembre del 2021.
+DECRETA: ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM-095-2021, publicado en el Diario Oficial “La Gaceta” en fecha cinco (05) de septiembre del 2021 Edición No. 35,709. Dicha restricción será efectiva por un plazo de siete (07) días a partir del lunes Trece (13) hasta el domingo Diecinueve (19) de septiembre del 2021.
 
 CENTROS DE DISTRIBUCIÓN:
 

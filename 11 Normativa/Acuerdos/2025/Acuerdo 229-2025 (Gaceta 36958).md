@@ -11,7 +11,7 @@ paginas: "A. 13 - 20"
 sumario: "Acuerdos Ejecutivos Números 229-2025, 297-2025, 335-2025, 336-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251004-36958/download"
 extraido: "2026-11-09"
-huella: "96c598b6c0c59b3f"
+huella: "b27b9b81273bbc34"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 229-2025
@@ -57,7 +57,7 @@ Honduras ha realizado acciones orientadas a establecer las condiciones para cump
 
 CONSIDERANDO: Que el Plan Nacional de Desarrollo Económico y Social incluye, entre sus ejes estratégicos, la sostenibilidad ambiental y el cambio climático, y establece la necesidad de movilizar financiamiento para proyectos que apoyen estos ejes.
 
-CONSIDERANDO: Que mediante el Acuerdo No. 637- 2024 de fecha 12 de septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 18 de noviembre de 2024 se aprobó el Marco de Referencia de Bonos Temáticos Verdes, Sociales y Sostenibles de la República de Honduras, vinculado a los Objetivos de Desarrollo Sostenible (ODS), que tiene como objetivo orientar fondos hacia inversiones o gastos verdes y sociales que contribuyan con la reducción de la pobreza, y la promoción de la acción por el clima.
+CONSIDERANDO: Que mediante el Acuerdo No. 637-2024 de fecha 12 de septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 18 de noviembre de 2024 se aprobó el Marco de Referencia de Bonos Temáticos Verdes, Sociales y Sostenibles de la República de Honduras, vinculado a los Objetivos de Desarrollo Sostenible (ODS), que tiene como objetivo orientar fondos hacia inversiones o gastos verdes y sociales que contribuyan con la reducción de la pobreza, y la promoción de la acción por el clima.
 
 CONSIDERANDO: Que para todos los bonos emitidos bajo el Marco de Referencia de Bonos Temáticos Verdes, Sociales y Sostenibles, y en alineación con los estándares y buenas prácticas indicadas en los Principios de Bonos Verdes 2021 (GBP), los Principios de Bonos Sociales 2023 (SBP) y la Guía de Bonos Sostenibles 2021 (SBG) establecidos por la Asociación Internacional de Mercados de Capitales (ICMA, por su sigla en inglés), el Gobierno de Honduras se compromete a proporcionar a los inversionistas un Reporte de Colocación, Asociación y Desempeño de los Gastos Verdes y Sociales Elegibles, así como un Reporte de Resultados e Impacto. La Secretaría de Finanzas (SEFIN) publicará los reportes en su página web, un año después de la emisión y de forma anual hasta verificar que se asocie el monto neto recibido por la emisión.
 

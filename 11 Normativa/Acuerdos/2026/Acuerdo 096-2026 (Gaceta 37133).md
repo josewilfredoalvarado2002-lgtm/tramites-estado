@@ -11,7 +11,7 @@ paginas: "A. 17 - 36"
 sumario: "Acuerdo SAG-108-2026,Acuerdo Ejecutivo Número 096-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260505-37133/download"
 extraido: "2026-11-09"
-huella: "c49cd580f50ce07c"
+huella: "b1fb7e88bf75af90"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 096-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que en fecha 15 de abril de 2026, se suscribió el nuevo Convenio 
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No.129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas.
+En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No. 129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas.
 
 ACUERDA:
 
@@ -197,7 +197,7 @@ El sistema de muestreo del maíz blanco se hará al azar, usando el bastón como
 
 Este muestreo se hará en presencia del Productor o el representante del Productor.
 
-Forma parte del presente Convenio el procedimiento de muestreo del maíz blanco, el cual se adjunta como anexo No.1.
+Forma parte del presente Convenio el procedimiento de muestreo del maíz blanco, el cual se adjunta como anexo No. 1.
 
 10. DEL CONTROL, VERIFICACIÓN, SUPERVISIÓN Y GEORREFERENCIACIÓN DE ÁREA PARA LA COMERCIALIZACIÓN.
 
@@ -415,7 +415,7 @@ Una vez introducida se abren los alvéolos y la probeta se mueve hacia arriba y 
 
 4. Los puntos a muestrear dependerán de la capacidad del vehículo tendrá la siguiente relación:
 
-CAMIONES DE 5 A 10 TM (110 a 220 qq) , 4 PUNTOS EN ZIGZAG X X X X CAMIONES DE 10 A 25 TM EN ADELANTE (220 QQ A 550 QQ O MAS) 8 PUNTOS EN ZIGZAG X X X X X X X X
+CAMIONES DE 5 A 10 TM (110 a 220 qq), 4 PUNTOS EN ZIGZAG XXXX CAMIONES DE 10 A 25 TM EN ADELANTE (220 QQ A 550 QQ O MAS) 8 PUNTOS EN ZIGZAG XXXX XXXX
 
 5. Una vez determinadas las muestras cuyo tamaño mínimo en suma no debe ser menor de 2 kilos (4.4 Lb) se procede a su homogenización a través del cuarteo manual o con un equipo especial llamado Boerner para reducir su tamaño a 250 gr.
 

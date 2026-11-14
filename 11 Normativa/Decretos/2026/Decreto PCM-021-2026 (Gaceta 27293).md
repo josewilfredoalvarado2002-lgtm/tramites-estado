@@ -11,7 +11,7 @@ paginas: "A. 17 - 24"
 sumario: "Decretos Ejecutivos Nos. PCM-019-2026, PCM-021-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261112-27293/download"
 extraido: "2026-11-13"
-huella: "0c8ef5c33dedf309"
+huella: "00f6fed26ec4f758"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-021-2026
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de conformidad al Numeral 4 del
 
 Artículo 14 de la Ley General de la Administración Pública, el Presidente de la República por Decreto en Consejo de Secretarios de Estado puede emitir, dentro de la Administración Centralizada, las normas requeridas para reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-143-2010 de fecha once (11) de agosto del año dos mil diez (2010) y publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de septiembre de dos mil diez (2010), se aprobó la Ley de Promoción de la Alianza Publico-Privada.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 143-2010 de fecha once (11) de agosto del año dos mil diez (2010) y publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de septiembre de dos mil diez (2010), se aprobó la Ley de Promoción de la Alianza Publico-Privada.
 
 CONSIDERANDO: Que es un deber del Estado generar las condiciones para atraer la inversión nacional y extranjera, creando los instrumentos necesarios que garanticen las inversiones y el desarrollo del país.
 
@@ -47,9 +45,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-064-2019, publicado el 
 
 POR TANTO;
 
-En aplicación de los Artículos 245 Numerales 2 y 11, 321 y 323 de la Constitución de la República; 3, 4, 11, 13, 14 Numeral 4, 22 Numeral 3, 45, 116, 117, 119 de la Ley General de la Administración Pública reformada mediante Decreto Legislativo Número 266-2013; y, Decreto Legislativo No.
-
-143-2010.
+En aplicación de los Artículos 245 Numerales 2 y 11, 321 y 323 de la Constitución de la República; 3, 4, 11, 13, 14 Numeral 4, 22 Numeral 3, 45, 116, 117, 119 de la Ley General de la Administración Pública reformada mediante Decreto Legislativo Número 266-2013; y, Decreto Legislativo No. 143-2010.
 
 DECRETA:
 

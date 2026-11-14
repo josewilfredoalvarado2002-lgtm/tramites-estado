@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250509-36833/download"
 extraido: "2026-11-11"
-huella: "7d6a1fee5486e15d"
+huella: "706b19bd3ac2e4ad"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ Resultando
 
 3. Que mediante el Acuerdo CREE-06-2025 de fecha veintisiete (27) de enero de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) aprobó el costo de servicio y la estructura tarifaria transitoria que la Empresa Nacional de Energía Eléctrica (ENEE) aplicaría a sus usuarios finales en la Isla de Guanaja.
 
-4. Que mediante el acuerda SEGUNDO del Acuerdo CREE- 06-2025 la Comisión Reguladora de Energía Eléctrica (CREE) indicó lo siguiente: “Instruir a la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE), para que proceda a requerir al Represente Legal de la Secretaría de Energía la propuesta de fórmula de ajuste a la estructura tarifaria transitoria que se aprueba mediante el presente acto administrativo, la cual deberá de ser presentada dentro de un plazo de quince (15) días hábiles contados a partir del día siguiente a la notificación del presente Acto Administrativo”.
+4. Que mediante el acuerda SEGUNDO del Acuerdo CREE-06-2025 la Comisión Reguladora de Energía Eléctrica (CREE) indicó lo siguiente: “Instruir a la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE), para que proceda a requerir al Represente Legal de la Secretaría de Energía la propuesta de fórmula de ajuste a la estructura tarifaria transitoria que se aprueba mediante el presente acto administrativo, la cual deberá de ser presentada dentro de un plazo de quince (15) días hábiles contados a partir del día siguiente a la notificación del presente Acto Administrativo”.
 
 5. En fecha seis (06) de marzo de dos mil veinticinco (2025) la ENEE en su calidad de operador del municipio de Guanaja presentó el Oficio GD-086-03-2025 contentivo del procedimiento de ajuste trimestral para la tarifa del municipio de Guanaja.
 

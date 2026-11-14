@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "Acuerdo No. 07/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220503-35913/download"
 extraido: "2026-11-14"
-huella: "81bf0368e87d5848"
+huella: "f4a1f87f5e9c763c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.07/2022.- Sesión No.3964 del 7 de abril
@@ -33,13 +33,13 @@ CONSIDERANDO: Que la Constitución de la República de Honduras, establece que e
 
 CONSIDERANDO: Que según lo establecen los artículos 55 y 56 de la Ley del BCH, éste ejercerá las funciones de banquero, agente fiscal y consejero económico-financiero del Estado, por lo que todos los fondos de la Hacienda Pública, inclusive de las Tesorerías Especiales, así como, los fondos distritales, municipales y demás dependencias del Estado deben ser depositados en el BCH.
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto Legislativo No.56-2019 del 10 de julio de 2019, publicado en el Diario Oficial “La Gaceta” el 20 de febrero de 2020, aprobó la Ley del Heroico y Benemérito Cuerpo de Bomberos de Honduras, la cual tiene por objeto regular la organización y funciones de dicha Institución en el territorio nacional, el cual es de interés público, de servicio a la población y seguridad nacional.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto Legislativo No. 56-2019 del 10 de julio de 2019, publicado en el Diario Oficial “La Gaceta” el 20 de febrero de 2020, aprobó la Ley del Heroico y Benemérito Cuerpo de Bomberos de Honduras, la cual tiene por objeto regular la organización y funciones de dicha Institución en el territorio nacional, el cual es de interés público, de servicio a la población y seguridad nacional.
 
 CONSIDERANDO: Que de conformidad con el Artículo 75 de dicha Ley, el patrimonio del Heroico y Benemérito Cuerpo de Bomberos de Honduras estará conformado, entre otros, por lo que establece el numeral 4) del mismo, el cual se refiere a los ingresos que éste perciba por concepto de la tasa del cinco por ciento (5%) de contribución obligatoria sobre el valor de las primas netas cobradas de seguro contra incendios y líneas aliadas, disponiendo además que, es deber de las empresas aseguradoras recaudar esta tasa de los asegurados, valores que deben ser depositados en el BCH en la cuenta especial del Heroico y Benemérito Cuerpo de Bomberos de Honduras, destinada para este fin.
 
 CONSIDERANDO: Que la referida Ley señala que el BCH debe contabilizar en partidas separadas los ingresos que perciba por concepto de la tasa del cinco por ciento (5%) de contribución obligatoria sobre el valor de las primas netas cobradas de seguro contra incendios y líneas aliadas; adicionalmente, establece que este ingreso debe ser destinado únicamente para la adquisición de equipos, infraestructura, materiales y repuestos.
 
-CONSIDERANDO: Que de conformidad con lo dispuesto en el citado Artículo 75 del Decreto Legislativo No.56-2019, los fondos que maneje el BCH deben ser objeto de una regulación, aprobada por el mismo Banco.
+CONSIDERANDO: Que de conformidad con lo dispuesto en el citado Artículo 75 del Decreto Legislativo No. 56-2019, los fondos que maneje el BCH deben ser objeto de una regulación, aprobada por el mismo Banco.
 
 CONSIDERANDO: Que para implementar lo establecido en el Artículo 75, numeral 4 párrafos segundo y tercero del Decreto antes referido, ameritó un análisis integral, exhaustivo y complejo de los departamentos de Sistema de Pagos y de Contaduría de esta Institución, para que el BCH pudiera establecer la forma más idónea para aplicar dicha disposición legal.
 
@@ -53,7 +53,7 @@ Con fundamento en los artículos 1, 2, 55 y 56 de la Ley del Banco Central de Ho
 
 2, 4 y 5 de la Ley de Instituciones de Seguros y Reaseguros; 75 y 78 de la Ley del Heroico y Benemérito Cuerpo de Bomberos de Honduras y oída la opinión de la Subgerencia de Operaciones,
 
-A C U E R D A
+ACUERDA
 
 I.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Certificación, Resolución No. 1551-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260129-37056/download"
 extraido: "2026-11-09"
-huella: "4558adf46ca87dec"
+huella: "befb02ddbac818ef"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1551-2024
@@ -501,7 +501,7 @@ A. Aspectos Generales
 
 #### Artículo 68
 
-Artículo 68.- El patrimonio de la Junta de Agua se compondrá de : a) El producto de las tarifas, derechos de conexión y otros cargos autorizados por la Asamblea de Delegados, así como las multas que se apliquen y los intereses que se generen;
+Artículo 68.- El patrimonio de la Junta de Agua se compondrá de: a) El producto de las tarifas, derechos de conexión y otros cargos autorizados por la Asamblea de Delegados, así como las multas que se apliquen y los intereses que se generen;
 
 b) Las subvenciones y aportes fiscales o municipales que le sean asignados; c) Las donaciones, legados o herencias que acepte; d) Las aportaciones que reciba de organismos oficiales o de cooperación para el cumplimiento de sus fines; e) Los préstamos que contrate para el cumplimiento de su planificación; f) Las obras e instalaciones del sistema de agua potable concesionada por la Municipalidad para su administración, operación y mantenimiento de las misma; y, g) Los bienes muebles o inmuebles que adquiera para el cumplimiento de sus fines; h) Todas las ampliaciones de redes que se ejecuten y/o los bienes y elementos que se incorporen, con los recursos provenientes de la explotación del Servicio o de cuotas extraordinarias.
 

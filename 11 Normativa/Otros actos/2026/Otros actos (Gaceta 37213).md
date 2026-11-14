@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo CREE-63-2026; Reglamento"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260806-37213/download"
 extraido: "2026-11-09"
-huella: "55e099fbb0280290"
+huella: "ec429478eb81171e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-63-2026; Reglamento
@@ -49,11 +49,9 @@ CUARTO: Que en fecha cinco (05) de enero de dos mil veintiséis (2026), se publi
 
 QUINTO: Que en fecha catorce (14) de enero de dos mil veintiséis (2026), la Secretaría de Energía (SEN), remitió a esta Comisión el oficio 019-2026-SEN-DM-DGEREE, por el cual expusieron, entre varias cuestiones relativas al Acuerdo CREE-160-2025, las aristas que se citan a continuación:
 
-“El opinar y en consecuencia instruir a la Administración Pública sobre “Aclaración” es un acto de interpretación que la Comisión Reguladora de Energía Eléctrica realiza invadiendo las funciones que constitucionalmente corresponden al Congreso Nacional. En particular, el Acuerdo CREE- 160-2025 introduce criterios interpretativos, validaciones técnicas y alcances vinculados a la aplicación de incentivos fiscales y requisitos habilitantes, materias que corresponden a la formulación, conducción e interpretación de la Política Energética Nacional, función que la ley asigna de manera exclusiva a esta Secretaría de Estado, en coordinación con la Secretaría de Finanzas y demás instituciones competentes.
+“El opinar y en consecuencia instruir a la Administración Pública sobre “Aclaración” es un acto de interpretación que la Comisión Reguladora de Energía Eléctrica realiza invadiendo las funciones que constitucionalmente corresponden al Congreso Nacional. En particular, el Acuerdo CREE-160-2025 introduce criterios interpretativos, validaciones técnicas y alcances vinculados a la aplicación de incentivos fiscales y requisitos habilitantes, materias que corresponden a la formulación, conducción e interpretación de la Política Energética Nacional, función que la ley asigna de manera exclusiva a esta Secretaría de Estado, en coordinación con la Secretaría de Finanzas y demás instituciones competentes.
 
-En ese sentido, el acto administrativo excede el ámbito de las funciones regulatorias propias establecidas en el Decreto No.
-
-404-2013 y sus reformas de la CREE”.
+En ese sentido, el acto administrativo excede el ámbito de las funciones regulatorias propias establecidas en el Decreto No. 404-2013 y sus reformas de la CREE”.
 
 SEXTO: Que en fecha veintisiete (27) de julio de dos mil veintiséis (2026) la Dirección de Asesoría Jurídica emitió el dictamen legal número DAJ-DL-060-2026 mediante el cual recomendó declarar la nulidad de pleno derecho de la totalidad del Acuerdo CREE-160-2025.
 
@@ -73,13 +71,13 @@ Que las competencias de la Comisión Reguladora de Energía Eléctrica (CREE), c
 
 Que el artículo 40, literal b), de la Ley de Procedimiento Administrativo dispone que los órganos de la Administración no podrán, mediante actos de carácter general, regular, salvo autorización expresa de una Ley, materias que sean de la exclusiva competencia del Poder Legislativo; y el artículo 34, literal e), de la misma Ley establece que son nulos de pleno derecho los actos administrativos de carácter general que infrinjan los límites señalados a la potestad reglamentaria en el citado artículo 40.
 
-Que el artículo 119 de la Ley de Procedimiento Administrativo, reformado por el artículo 2 del Decreto Legislativo No. 266- 2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014, dispone que la declaración de nulidad de los actos enumerados en el artículo 34 se hará de oficio y en cualquier momento por el órgano que dictó el acto o por el superior, sin que se requiera dictamen previo de la Procuraduría General de la República.
+Que el artículo 119 de la Ley de Procedimiento Administrativo, reformado por el artículo 2 del Decreto Legislativo No. 266-2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014, dispone que la declaración de nulidad de los actos enumerados en el artículo 34 se hará de oficio y en cualquier momento por el órgano que dictó el acto o por el superior, sin que se requiera dictamen previo de la Procuraduría General de la República.
 
 Que el artículo 12 del Código Tributario ordena que las leyes tributarias y aduaneras se interpreten siempre en forma estricta, sin que sea admisible la analogía para extender más allá de sus términos estrictos el ámbito de las exenciones y exoneraciones.
 
-Que mediante el Dictamen Legal DAJ-DL-060-2026 la Dirección de Asesoría Jurídica constató que el Acuerdo CREE- 160-2025 constituye, en su conjunto, una “aclaración” con carácter general de un Decreto Legislativo en materia fiscal, función que el artículo 205, numeral 1, de la Constitución de la República reserva al Congreso Nacional; ese vicio de origen es predicable de todos los numerales del Acuerdo, con independencia de su contenido individual, y configura por sí solo el supuesto de nulidad de pleno derecho previsto en el artículo 34, literal e), en relación con el artículo 40, literal b), de la Ley de Procedimiento Administrativo.
+Que mediante el Dictamen Legal DAJ-DL-060-2026 la Dirección de Asesoría Jurídica constató que el Acuerdo CREE-160-2025 constituye, en su conjunto, una “aclaración” con carácter general de un Decreto Legislativo en materia fiscal, función que el artículo 205, numeral 1, de la Constitución de la República reserva al Congreso Nacional; ese vicio de origen es predicable de todos los numerales del Acuerdo, con independencia de su contenido individual, y configura por sí solo el supuesto de nulidad de pleno derecho previsto en el artículo 34, literal e), en relación con el artículo 40, literal b), de la Ley de Procedimiento Administrativo.
 
-Que, adicionalmente, del cotejo textual del Acuerdo CREE- 160-2025 contra el Decreto Legislativo No. 70-2007, reformado por el Decreto Legislativo No. 138-2013, se constató que el acuerda PRIMERO, el artículo 27, párrafos segundo y tercero, de la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables únicamente reconoce a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA) como autoridad certificadora para acreditar los requisitos que habilitan el goce de los incentivos fiscales, tanto en la etapa de estudio (Certificación de Resolución de Permiso de Estudio de Factibilidad) como en las etapas posteriores (Licencia o Contrato de Operación), por lo tanto la CREE no tiene la potestad de aclarar o interpretar el Decreto No. 70-2007 y su reforma.
+Que, adicionalmente, del cotejo textual del Acuerdo CREE-160-2025 contra el Decreto Legislativo No. 70-2007, reformado por el Decreto Legislativo No. 138-2013, se constató que el acuerda PRIMERO, el artículo 27, párrafos segundo y tercero, de la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables únicamente reconoce a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA) como autoridad certificadora para acreditar los requisitos que habilitan el goce de los incentivos fiscales, tanto en la etapa de estudio (Certificación de Resolución de Permiso de Estudio de Factibilidad) como en las etapas posteriores (Licencia o Contrato de Operación), por lo tanto la CREE no tiene la potestad de aclarar o interpretar el Decreto No. 70-2007 y su reforma.
 
 Que en el acuerda SEGUNDO, la declaración de que dentro de los servicios exonerados se incluyen, “entre otros, seguros de todo tipo y servicios de seguridad física de las instalaciones”, se reitera que esta comisión no tiene facultades para interpretar sobre los alcances o límites de disposiciones de carácter fiscal, por lo que, en dicho sentido, se debe atender lo que dice expresamente la norma, a ello se añade que el acuerda
 
@@ -543,7 +541,7 @@ Total (Lempiras) Total (Lempiras) x2 Puerto Cortés San Pedro Sula 57 114 513.00
 
 Nota 1: Para las ciudades no incluidas en la tabla se aplicará la tasa de kilometraje oficial publicada por la Secretaría de Obras Públicas, Transporte y Vivienda (SOPTRAVI). Los cálculos se harán en base a L. 4.50 por kilómetro recorrido para los vehículos de gasolina y L. 4.15 por kilómetro recorrido para los vehículos diesel.
 
-Nota 2: La Tabla de Kilometraje está pendiente de revisión para su actualización , previo análisis Financiero, que deberá basarse en los índices de inflación, depreciación de vehículo, costos de mantenimiento y de combustible.
+Nota 2: La Tabla de Kilometraje está pendiente de revisión para su actualización, previo análisis Financiero, que deberá basarse en los índices de inflación, depreciación de vehículo, costos de mantenimiento y de combustible.
 
 Avance Próxima Edición Pendiente Próxima Edición CENTROS DE DISTRIBUCIÓN:
 

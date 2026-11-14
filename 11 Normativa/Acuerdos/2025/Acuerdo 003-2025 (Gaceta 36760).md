@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Nos. 001-2025, ICF-002-2025,003-2025, 004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250207-36760/download"
 extraido: "2026-11-13"
-huella: "32a1a4dae05eae6f"
+huella: "6d47957c792c0aba"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que, para cumplir con los objetivos de la simplificación, se hace
 
 CONSIDERANDO: Que, la competencia es irrenunciable y será ejercitada por los órganos que la tengan atribuida por Ley, sin embargo, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior. No obstante, la responsabilidad que se derive de la emisión de los actos será imputable al órgano delegado.
 
-CONSIDERANDO: Que, mediante Acción de Personal No.001-2025 de fecha seis (6) de enero del año dos mil veinticinco (2025), se nombró al ciudadano RODOLFO ANTONIO ZAMORA GALEAS, en el cargo de SECRETARIO GENERAL de este Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
+CONSIDERANDO: Que, mediante Acción de Personal No. 001-2025 de fecha seis (6) de enero del año dos mil veinticinco (2025), se nombró al ciudadano RODOLFO ANTONIO ZAMORA GALEAS, en el cargo de SECRETARIO GENERAL de este Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
 
 POR TANTO:
 
@@ -49,11 +49,11 @@ La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo For
 
 ACUERDA:
 
-PRIMERO: El Abogado RODOLFO ANTONIO ZAMORA GALEAS, ejercerá la titularidad del cargo de SECRETARIO GENERAL, del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), a partir del seis (06) de enero del año dos mil veinticinco (2025), conforme a la Acción de Personal No.001-2025, teniendo las funciones establecidas en el artículo 27 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo comprendido en el Decreto Ejecutivo No. PCM- 008-97 publicado en el Diario Oficial La Gaceta el 7 de Junio de 1997 y las demás inherentes al cargo.
+PRIMERO: El Abogado RODOLFO ANTONIO ZAMORA GALEAS, ejercerá la titularidad del cargo de SECRETARIO GENERAL, del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), a partir del seis (06) de enero del año dos mil veinticinco (2025), conforme a la Acción de Personal No. 001-2025, teniendo las funciones establecidas en el artículo 27 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo comprendido en el Decreto Ejecutivo No. PCM-008-97 publicado en el Diario Oficial La Gaceta el 7 de Junio de 1997 y las demás inherentes al cargo.
 
 SEGUNDO: Delegar, en el Abogado RODOLFO ANTONIO ZAMORA GALEAS, la facultad de autorizar con su sola firma y sello las providencias de impulso procesal o de mero trámite, las de admisión, apertura de pruebas, alegaciones y sus cierres, de caducidad de la instancia cuando conste en el expediente de mérito, las que tengan por transcurrido el plazo otorgado y su respectivo archivo, siguiendo siempre el procedimiento establecido en la Ley de Procedimiento Administrativo y otras que a consideración del Director Ejecutivo estime conveniente. Exceptuándose aquellas que resuelvan recursos y las demás que reconozcan o limiten derechos de los particulares. Asimismo, se ratifican las facultades establecidas en el Acuerdo 022-2024 de fecha veintiuno 21 de mayo del dos mil veinticuatro (2024).
 
-TERCERO: Delegar, en el Abogado RODOLFO ANTONIO ZAMORA GALEAS, la facultad de juramentar en representación de la Dirección Ejecutiva el acto de tomar la Promesa Constitucional respecto a los Técnicos Forestal Calificado en cumplimiento al artículo 12 del Acuerdo 039- 2022.
+TERCERO: Delegar, en el Abogado RODOLFO ANTONIO ZAMORA GALEAS, la facultad de juramentar en representación de la Dirección Ejecutiva el acto de tomar la Promesa Constitucional respecto a los Técnicos Forestal Calificado en cumplimiento al artículo 12 del Acuerdo 039-2022.
 
 CUARTO: El presente Acuerdo entra en vigencia a partir de su firma, siendo de ejecución inmediata en virtud de ser acciones de cumplimiento de conformidad con el mandato de Ley. Por lo que se haga de conocimiento a todos los Departamentos, Unidades, Oficinas Regionales y Locales del ICF.
 

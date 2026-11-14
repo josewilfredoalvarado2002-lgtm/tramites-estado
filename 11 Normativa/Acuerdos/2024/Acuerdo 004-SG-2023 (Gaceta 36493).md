@@ -11,7 +11,7 @@ paginas: "A. 87 - 132"
 sumario: "Acuerdos STLCC No. 001-SG-2023,004-SG-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240323-36493/download"
 extraido: "2026-11-14"
-huella: "d701aff53737dc9f"
+huella: "3134ef986f0a2d99"
 ---
 <!-- portal:inicio -->
 # ACUERDO STLCC No. 004-SG-2023
@@ -65,9 +65,9 @@ CONSIDERANDO: Que se debe reconocer la importancia de establecer mecanismos de c
 
 CONSIDERANDO: Que es necesario señalar las bases para la elaboración, presentación y actualización de los manuales de procedimientos, unificando y estandarizando criterios de contenido que permitan la realización de las funciones de dirección, coordinación y evaluación administrativa a través de la sistematización de las actividades, la identificación de los procesos y la definición del método para efectuarlas, a fin de que se comprenda con mayor facilidad y claridad el trabajo a ejecutar.
 
-CONSIDERANDO: Que para proporcionar un único instrumento técnico- administrativo que norme la documentación de los procedimientos y procesos con uniformidad de contenido y presentación, que permita optimizar el cumplimiento de las atribuciones en las instituciones y el funcionamiento de las unidades administrativas la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI) y la Dirección General de Modernización Administrativa (DGMA), elaboraron la GUÍA METODOLÓGICA PARA LA ELABORACIÓN DEL MANUAL DE PROCEDIMIENTOS EN EL SECTOR PÚBLICO, con el propósito que sea implementado en las instituciones del sector público.
+CONSIDERANDO: Que para proporcionar un único instrumento técnico-administrativo que norme la documentación de los procedimientos y procesos con uniformidad de contenido y presentación, que permita optimizar el cumplimiento de las atribuciones en las instituciones y el funcionamiento de las unidades administrativas la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI) y la Dirección General de Modernización Administrativa (DGMA), elaboraron la GUÍA METODOLÓGICA PARA LA ELABORACIÓN DEL MANUAL DE PROCEDIMIENTOS EN EL SECTOR PÚBLICO, con el propósito que sea implementado en las instituciones del sector público.
 
-POR TANTO: En uso de las facultades de que esta investida y en aplicación de los artículos 222 y 247 de la Constitución de la República de Honduras, Decreto Ejecutivo PCM-05- 2022, creación de la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC), Decreto Ejecutivo No.26-2007, creación de la Oficina Nacional de Desarrollo Integral del Control Interno de las Instituciones Públicas (ONADICI); 36 numeral 8 del Decreto Legislativo No.146-86, Ley General de la Administración Pública, 3 del Decreto Legislativo No.152-87, Ley de Procedimiento Administrativo, Decreto Ejecutivo No.225-2002, Ley de Simplificación Administrativa, 39 del Decreto Ejecutivo PCM-008-97 Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 100 y 242 de la Modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022; Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No 35,795.
+POR TANTO: En uso de las facultades de que esta investida y en aplicación de los artículos 222 y 247 de la Constitución de la República de Honduras, Decreto Ejecutivo PCM-05-2022, creación de la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC), Decreto Ejecutivo No. 26-2007, creación de la Oficina Nacional de Desarrollo Integral del Control Interno de las Instituciones Públicas (ONADICI); 36 numeral 8 del Decreto Legislativo No. 146-86, Ley General de la Administración Pública, 3 del Decreto Legislativo No. 152-87, Ley de Procedimiento Administrativo, Decreto Ejecutivo No. 225-2002, Ley de Simplificación Administrativa, 39 del Decreto Ejecutivo PCM-008-97 Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 100 y 242 de la Modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022; Marco Rector de Control Interno Institucional de los Recursos Públicos (MARCI), actualizado mediante la publicación en el Diario Oficial La Gaceta No 35,795.
 
 ACUERDA:
 
@@ -167,7 +167,7 @@ Dirección Gral. de Transparencia y prevención de la Corrupción, STLCC Miembro
 
 7. ANEXOS ............................................................................................................................................... 44
 
-8. CONTROL DE CAMBIOS .................................................................................................................. 58 INTRODUCCIÓN El Plan Estratégico de Gobierno (PEG) 2022-2026 se constituye partiendo del “Plan de Gobierno para Refundar Honduras 2022- 2026”, que servirá de herramienta de planificación de mediano plazo para avanzar en el cumplimiento de los objetivos de desarrollo de largo plazo, así como en la implementación de la Agenda Nacional 2030 para los Objetivos de Desarrollo Sostenible (AN-ODS).
+8. CONTROL DE CAMBIOS .................................................................................................................. 58 INTRODUCCIÓN El Plan Estratégico de Gobierno (PEG) 2022-2026 se constituye partiendo del “Plan de Gobierno para Refundar Honduras 2022-2026”, que servirá de herramienta de planificación de mediano plazo para avanzar en el cumplimiento de los objetivos de desarrollo de largo plazo, así como en la implementación de la Agenda Nacional 2030 para los Objetivos de Desarrollo Sostenible (AN-ODS).
 
 Este instrumento de planificación reconoce la necesidad de refundar Honduras, partiendo de la premisa de que, si bien, la estabilidad del entorno macroeconómico es un elemento relevante para generar desarrollo, esta debe ir acompañada de reformas estructurales en el sector público y sus entidades de modo que permitan optimizar los recursos financieros, humanos y de infraestructura con los que cuentan; por tanto, los esfuerzos en proyectos o acciones de mejora continua, deben orientarse a generar valor y un mayor impacto en los usuarios, procurando hacer efectiva la transparencia en los servicios que brinda el Estado y combatir la corrupción por medio de mecanismos especiales, convirtiendo al ciudadano en protagonista y gestor de su interacción con el Estado.
 
@@ -237,27 +237,27 @@ PROPÓSITO
 
 • Decreto Ejecutivo PCM-008-97, Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
-• Decreto Legislativo No.14-2002, Ley Orgánica del Tribunal Superior de Cuentas.
+• Decreto Legislativo No. 14-2002, Ley Orgánica del Tribunal Superior de Cuentas.
 
-• Decreto Ejecutivo No.26-2007, Ley de Creación de la Oficina Nacional de Desarrollo Integral del Control Interno de las Instituciones Públicas (ONADICI).
+• Decreto Ejecutivo No. 26-2007, Ley de Creación de la Oficina Nacional de Desarrollo Integral del Control Interno de las Instituciones Públicas (ONADICI).
 
-• Acuerdo Administrativo TSC No.02/2021, Marco Rector del Control Interno Institucional de los Recursos Públicos (MARCI).
+• Acuerdo Administrativo TSC No. 02/2021, Marco Rector del Control Interno Institucional de los Recursos Públicos (MARCI).
 
-• Decreto Legislativo No.146-86, Ley General de la Administración Pública.
+• Decreto Legislativo No. 146-86, Ley General de la Administración Pública.
 
-• Decreto Legislativo No.152-87, Ley de Procedimiento Administrativo.
+• Decreto Legislativo No. 152-87, Ley de Procedimiento Administrativo.
 
-• Decreto Ejecutivo No.225-2002, Ley de Simplificación Administrativa.
+• Decreto Ejecutivo No. 225-2002, Ley de Simplificación Administrativa.
 
-• Decreto Legislativo No.170-2006, Ley de Transparencia y Acceso a la Información Pública y su Reglamento. Acuerdo SE-014-2014.
+• Decreto Legislativo No. 170-2006, Ley de Transparencia y Acceso a la Información Pública y su Reglamento. Acuerdo SE-014-2014.
 
-• Decreto Legislativo No.263-2013, Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
+• Decreto Legislativo No. 263-2013, Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
 
 • Decreto Legislativo No. 286-2009, Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras.
 
 • Decreto Legislativo No. 266-2013, Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
 
-• Decreto Legislativo No.30-2022 del 08 de abril del 2022, Modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022.
+• Decreto Legislativo No. 30-2022 del 08 de abril del 2022, Modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022.
 
 • Guías de Implementación de las Normas de Control Interno Institucional /ONADICI /2018.
 
@@ -533,7 +533,7 @@ Una vez firmado se devuelve a la Unidad de Modernización de la institución y �
 
 Una vez validado y autorizado el manual de procedimientos, la Unidad de Comunicación Institucional será la encargada de distribuir el mismo entre las áreas involucradas, con el propósito que los funcionarios lo tengan a su disposición, conozcan el documento y lo utilicen en la práctica. Así también, la versión electrónica del documento podrá ser descargado de la página web institucional, con el fin de proveer a la ciudadanía libre acceso a la información organizacional de la institución.
 
-3 . 9 R E V I S I Ó N , A C T U A L I Z A C I Ó N Y ALMACENAMIENTO DEL MANUAL El manual de procedimientos será objeto de revisiones periódicas y, por lo tanto, deben ser flexibles a los cambios que se produzcan en la institución, para ello, se deberá mantener un registro de las modificaciones y actualizaciones de los mismos, con el fin de que se mantengan apegados a la realidad institucional, debiendo coordinar con la Dirección General de Modernización Administrativa de la STLCC, para su almacenamiento en el Repositorio de Modernización de esa Secretaría.
+3 . 9 REVISIÓN, ACTUALIZACIÓN Y ALMACENAMIENTO DEL MANUAL El manual de procedimientos será objeto de revisiones periódicas y, por lo tanto, deben ser flexibles a los cambios que se produzcan en la institución, para ello, se deberá mantener un registro de las modificaciones y actualizaciones de los mismos, con el fin de que se mantengan apegados a la realidad institucional, debiendo coordinar con la Dirección General de Modernización Administrativa de la STLCC, para su almacenamiento en el Repositorio de Modernización de esa Secretaría.
 
 4. ELABORACIÓN Y DOCUMENTACIÓN DEL MANUAL DE PROCEDIMIENTOS
 
@@ -617,7 +617,7 @@ En esta sección del documento, se deberá incluir la siguiente información pro
 
 \6) Alcance o ámbito de competencia.
 
-4 . 7 J U S T I F I C A C I Ó N D E L M A N U A L D E PROCEDIMIENTOS La justificación debe constar al menos de 2 párrafos, su contenido debe ser breve.
+4 . 7 JUSTIFICACIÓN DEL MANUAL DE PROCEDIMIENTOS La justificación debe constar al menos de 2 párrafos, su contenido debe ser breve.
 
 En esta sección del documento, se redacta la razón o justificación por la cual se amerita la elaboración del manual de procedimientos, ésta debe convencer al lector describiendo su importancia desde cuatro aspectos:
 
@@ -791,15 +791,15 @@ Se identificarán los puestos de trabajo que intervienen en el procedimiento, en
 
 Para su redacción se utilizará la siguiente tabla.
 
-Área Puesto de Trabajo Responsabilidad X X X X X 4.12.10 Insumos del Procedimiento En esta sección del documento se especificará la lista de documentos, formatos, plantillas, formularios, talonarios, manuales, políticas, herramientas, etc. que sean necesarios para ejecutar las actividades del procedimiento.
+Área Puesto de Trabajo Responsabilidad XXXXX 4.12.10 Insumos del Procedimiento En esta sección del documento se especificará la lista de documentos, formatos, plantillas, formularios, talonarios, manuales, políticas, herramientas, etc. que sean necesarios para ejecutar las actividades del procedimiento.
 
 Para su redacción se utilizará la siguiente tabla.
 
-Código Insumos Lugar de Guarda Tiempo de Guarda X X X X Es importante tomar en cuenta, que en caso que un insumo no sea desechado después de haber sido utilizado en la ejecución del procedimiento, se debe especificar el lugar donde se archivará, así como también, el período de tiempo que deberá permanecer archivado.
+Código Insumos Lugar de Guarda Tiempo de Guarda XXXX Es importante tomar en cuenta, que en caso que un insumo no sea desechado después de haber sido utilizado en la ejecución del procedimiento, se debe especificar el lugar donde se archivará, así como también, el período de tiempo que deberá permanecer archivado.
 
 4.12.11 Productos o Resultados del Procedimiento En los productos o resultados del procedimiento se debe especificar el listado de productos a obtener al final del procedimiento, por ejemplo: informes, formatos, documentos, etc. Para su redacción se utilizará la siguiente tabla.
 
-Código Productos Lugar de Guarda Tiempo de Guarda X X X X Es importante tomar en cuenta, que se debe especificar el lugar donde se archivarán los productos del procedimiento, así como también, el período de tiempo que deberán permanecer archivados.
+Código Productos Lugar de Guarda Tiempo de Guarda XXXX Es importante tomar en cuenta, que se debe especificar el lugar donde se archivarán los productos del procedimiento, así como también, el período de tiempo que deberán permanecer archivados.
 
 4.12.12 Definición de Glosario de Términos, Siglas y Abreviaturas Esta sección del documento consiste en definir la terminología técnica o siglas utilizadas en el procedimiento. Los términos o conceptos deben redactarse por separado a las siglas, ambas secciones deben ser presentadas en orden alfabético.
 

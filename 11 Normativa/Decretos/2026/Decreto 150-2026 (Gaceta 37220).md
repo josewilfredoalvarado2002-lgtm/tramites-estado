@@ -11,7 +11,7 @@ paginas: "A. 25 - 27"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "71e449d24745eac6"
+huella: "c7ff7eba67f7e832"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 150-2026
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 9, 11, 14 y adicionar el Artículo 12-A, del Decreto No.136-2008 contentivo de la LEY DEL MECANISMO NACIONAL DE PREVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 9, 11, 14 y adicionar el Artículo 12-A, del Decreto No. 136-2008 contentivo de la LEY DEL MECANISMO NACIONAL DE PREVENCIÓN CONTRA LA TORTURA Y OTROS TRATOS CRUELES, INHUMANOS O DEGRADANTES, el cual deberá leerse de la manera siguiente:
 
 “ARTÍCULO 9.- FUNCIONAMIENTO DEL COMITÉ
 

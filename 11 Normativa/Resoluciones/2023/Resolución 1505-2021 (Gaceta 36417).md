@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1505-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231223-36417/download"
 extraido: "2026-11-14"
-huella: "fa0d55b63397c7b1"
+huella: "6f9720616c81fa9a"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1505-2021
@@ -53,9 +53,7 @@ OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -135,7 +133,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y Saneamiento, estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género ; y estará en funciones por un período de dos años y podrá ser nombrada por un período más en forma consecutiva, ejercerán los cargos ad-honores, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a);
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y Saneamiento, estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un período más en forma consecutiva, ejercerán los cargos ad-honores, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a);
 
 3.- Secretario(a) .- 4.- Un Tesorero(a).5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
 

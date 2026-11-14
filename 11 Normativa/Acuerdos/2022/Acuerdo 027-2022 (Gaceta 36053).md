@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 027-2022, 035-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221017-36053/download"
 extraido: "2026-11-14"
-huella: "918aa9cf955d1226"
+huella: "023f87b61a559b82"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 027-2022
@@ -39,13 +39,11 @@ CONSIDERANDO: Que para cumplir con los objetivos de la simplificación, se hace 
 
 CONSIDERANDO: Que la competencia es irrenunciable y ejercitada por los órganos que la tengan atribuida por Ley, sin embargo, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
-CONSIDERANDO: Que mediante Acción de Personal No.
-
-244 de fecha veintisiete (27) de junio del 2022, se nombró a la ciudadana DANIA MARIA RAMIREZ NAJERA, en el cargo de SECRETARIA GENERAL de este Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
+CONSIDERANDO: Que mediante Acción de Personal No. 244 de fecha veintisiete (27) de junio del 2022, se nombró a la ciudadana DANIA MARIA RAMIREZ NAJERA, en el cargo de SECRETARIA GENERAL de este Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
 
 POR TANTO
 
-La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 1, 2, 3, 4 y 5 de la Ley de Procedimientos Administrativos, artículos 1 y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No. 98- 2007) y artículos 27 y 28 del Reglamento de Organización, Funcionamiento y Competencias de Poder Ejecutivo.
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 1, 2, 3, 4 y 5 de la Ley de Procedimientos Administrativos, artículos 1 y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) y artículos 27 y 28 del Reglamento de Organización, Funcionamiento y Competencias de Poder Ejecutivo.
 
 ACUERDA
 

@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "09db258abe8f229a"
+huella: "59bdc4c6515f861f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 228-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que, de conformidad con el Artículo 205, Atribución 1) de la Con
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

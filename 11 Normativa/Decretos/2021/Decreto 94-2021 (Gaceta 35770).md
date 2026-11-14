@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Decreto No. 94-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211112-35770/download"
 extraido: "2026-11-14"
-huella: "3d76c676baaaf39e"
+huella: "9afa71e07763420c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 94-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Ley Electoral define el Sistema de Elección aplicable en e
 
 CONSIDERANDO: Que los partidos políticos son una necesidad social, por medio de los cuales se canalizan las aspiraciones democráticas de la población, en procura del bienestar público.
 
-CONSIDERANDO: Que con la finalidad de contar con un instrumento legal que, sistemáticamente, permita mayor transparencia y fiscalización de los ingresos y egresos de los recursos públicos de los partidos políticos y sus movimientos internos, sus candidatos, candidaturas independientes y alianzas entre partidos políticos, mediante Decreto No.137- 2016, este Poder del Estado aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, la cual fue publicada en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en su Edición No.34,242.
+CONSIDERANDO: Que con la finalidad de contar con un instrumento legal que, sistemáticamente, permita mayor transparencia y fiscalización de los ingresos y egresos de los recursos públicos de los partidos políticos y sus movimientos internos, sus candidatos, candidaturas independientes y alianzas entre partidos políticos, mediante Decreto No. 137-2016, este Poder del Estado aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, la cual fue publicada en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en su Edición No. 34,242.
 
 CONSIDERANDO: Que conforme a las disposiciones establecidas en la citada Ley, la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, puede ejecutar mecanismos de control y vigilancia establecidos en la Ley, que permiten conocer con claridad cuál es el origen y el monto de los recursos económicos con los que operan, así como la forma en que lo gastan; sin embargo, a cuatro (4) años de su vigencia, se han identificado que no existe claridad en la forma de presentación de los informe financieros lo que, aunado a nuestra situación de país, ha limitado a muchos candidatos, movimientos internos y partidos políticos que se presentaron en el proceso electoral primario del año 2021, la presentación de los mismos, y que derivado de la aplicación de sanciones se puede dar una restricción a la participación en las próximas elecciones generales limitándose con ello los procesos democráticos del país.
 
@@ -47,13 +47,13 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar de forma transitoria a los candidatos, movimientos internos y partidos políticos de la aplicación de multas, sanciones establecidas en la LEY DE FINANCIAMIENTO, T R A N S P A R E N C I A Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, y cualquier tipo de responsabilidad legal, derivada de la no presentación en tiempo y forma del Informe Financiero de Liquidación de Fondos conteniendo el Balance General y el Estado de Resultados certificados y auditados de los ingresos y egresos con el detalle del origen y destino de los fondos administrados e informes financieros referidos en dicha Ley, ante la Unidad de Financiamiento, Transparencia y Fiscalización, siempre y cuando los mismos procedan a presentar los informes de referencia en el término de un mes calendario contado a partir de la vigencia del presente Decreto.
+ARTÍCULO 1.- Exonerar de forma transitoria a los candidatos, movimientos internos y partidos políticos de la aplicación de multas, sanciones establecidas en la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, y cualquier tipo de responsabilidad legal, derivada de la no presentación en tiempo y forma del Informe Financiero de Liquidación de Fondos conteniendo el Balance General y el Estado de Resultados certificados y auditados de los ingresos y egresos con el detalle del origen y destino de los fondos administrados e informes financieros referidos en dicha Ley, ante la Unidad de Financiamiento, Transparencia y Fiscalización, siempre y cuando los mismos procedan a presentar los informes de referencia en el término de un mes calendario contado a partir de la vigencia del presente Decreto.
 
 Las personas naturales o jurídicas obligadas por Ley que no presenten el Informe Financiero de Liquidación de Fondos conteniendo el Balance General y el Estado de Resultados certificados y auditados de los ingresos y egresos con el detalle del origen y destino de los fondos administrados e informes financieros, ante la Unidad de Financiamiento, Transparencia y Fiscalización, en el término establecido en el párrafo precedente quedan sujetos a la aplicación de multas y sanciones de Ley correspondiente.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 56 numeral 1) de la LEY DE FINANCIAMIENTO, T R A N S P A R E N C I A Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, contenida en el Decreto No.137-2016, de fecha 2 de noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en la Edición No.34,242, y sus reformas, el cual debe leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar el Artículo 56 numeral 1) de la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, contenida en el Decreto No. 137-2016, de fecha 2 de noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en la Edición No. 34,242, y sus reformas, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 56.- SANCIONES…:
 

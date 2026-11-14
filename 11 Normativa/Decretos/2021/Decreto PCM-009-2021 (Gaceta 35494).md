@@ -11,7 +11,7 @@ paginas: "A. 6 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210122-35494/download"
 extraido: "2026-11-14"
-huella: "0b102be7616b6ac6"
+huella: "fd65dea438354170"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-009-2021
@@ -33,9 +33,7 @@ CONSIDERANDO: Que según el Artículo 245 numerales 2 y 11 de la Constitución d
 
 CONSIDERANDO: Que el Artículo 11 de la Ley General de la Administración Pública, contempla que el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No.
-
-266- 2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
 
 CONSIDERANDO: Que la economía hondureña ha sido fuertemente impactada por los devastadores efectos de la pandemia del Coronavirus (COVID-19) y para contrarrestar sus implicaciones se aprobaron los Decretos Legislativos Números 031-2020, 033-2020 y sus reformas, sumados los daños y pérdidas causados por las tormentas tropicales ETA e IOTA.
 
@@ -45,7 +43,7 @@ CONSIDERANDO: Que se estima que la economía se contraiga nueve punto cinco por 
 
 CONSIDERANDO: Que el sector más afectado en términos económicos por las tormentas tropicales ETA e IOTA fue el sector agropecuario, que de acuerdo con las estimaciones preliminares la afectación de la agricultura fue de un 32% del total del PIB para 2020, afectando de forma particular los cultivos de banano y palma africana, actividades que representan aproximadamente el 58% del total de la agricultura; focalizándose estos daños en los departamentos de la zona Norte (Cortés, Colón, Atlántida y Yoro), así como los departamentos de Santa Bárbara y El Paraíso.
 
-CONSIDERANDO: Que la Comisión Fiduciaria del Banco Central de Honduras (COFID) en sesión No.01/2020, determinó autorizar la creación de un Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras.
+CONSIDERANDO: Que la Comisión Fiduciaria del Banco Central de Honduras (COFID) en sesión No. 01/2020, determinó autorizar la creación de un Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras.
 
 CONSIDERANDO: Que el Gobierno de la República, tiene como uno de sus objetivos elevar la productividad, contrarrestar los efectos del cambio climático y tecnificar la agricultura para garantizar la seguridad alimentaria del país y la exportación de productos agrícolas bajo las mejores prácticas de producción.
 
@@ -53,7 +51,7 @@ CONSIDERANDO: Que en el mes de febrero del año 2020, el Gobierno de la Repúbli
 
 CONSIDERANDO: Que la afectación del sector agropecuario está generando una crisis sin precedentes, por lo cual el Gobierno de la República con el propósito de contribuir a la reactivación económica, ha identificado la necesidad de disminuir la tasa de interés del “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras” a un cinco por ciento (5%) únicamente durante el año 2021, con el objetivo de rehabilitar, reactivar, tecnificar y mejorar la eficiencia de la cadenas de valor del sector, requiriendo de parte de la Administración Central recursos para el complemento de la tasa de interés equivalentes al tres punto siete por ciento (3.7%) durante la vigencia de los créditos que se otorguen durante el año 2021 de acuerdo al diseño del producto.
 
-POR TANTO, En aplicación de las disposiciones establecidas en los artículos 235, 245 numerales 2, 11, 20, 30 y 32, 321 y 323 de la Constitución de la República; 11, 22, 116 y 117 de la Ley General de la Administración Pública; 37 de la Ley Orgánica del Presupuesto; Decretos Ejecutivos números PCM-109- 2020, PCM-112-2020, PCM-116-2020 y PCM-147-2020.
+POR TANTO, En aplicación de las disposiciones establecidas en los artículos 235, 245 numerales 2, 11, 20, 30 y 32, 321 y 323 de la Constitución de la República; 11, 22, 116 y 117 de la Ley General de la Administración Pública; 37 de la Ley Orgánica del Presupuesto; Decretos Ejecutivos números PCM-109-2020, PCM-112-2020, PCM-116-2020 y PCM-147-2020.
 
 DECRETA:
 

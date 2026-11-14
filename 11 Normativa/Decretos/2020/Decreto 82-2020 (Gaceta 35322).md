@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Legislativos Nos. 82-2020, 84-2020, 90-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200723-35322/download"
 extraido: "2026-11-14"
-huella: "80b9a9322349dcee"
+huella: "0aa7877617c1f97a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 82-2020
@@ -29,7 +29,7 @@ huella: "80b9a9322349dcee"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.903 emitido por la Junta Militar de Gobierno en Consejo de Ministros con fecha 24 de Marzo de 1980, se creó el Banco Nacional de Desarrollo Agrícola (BANADESA) como una Institución Autónoma de duración indefinida y personería jurídica propia, cuyo objetivo es el de canalizar sus recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas.
+CONSIDERANDO: Que mediante Decreto No. 903 emitido por la Junta Militar de Gobierno en Consejo de Ministros con fecha 24 de Marzo de 1980, se creó el Banco Nacional de Desarrollo Agrícola (BANADESA) como una Institución Autónoma de duración indefinida y personería jurídica propia, cuyo objetivo es el de canalizar sus recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas.
 
 CONSIDERANDO: Qué el Banco Nacional de Desarrollo Agrícola (BANADESA) que es la única Institución Financiera de Desarrollo de Primer Piso con que cuenta el Estado de Honduras, para impulsar la reactivación del Sector Agropecuario y que la misma a pesar de todo los problemas financieros que ha atravesado ha logrado cubrir los objetivos, para el cual fue creado, pero es imperativo fortalecimiento económico, saneamiento de sus cuentas, bajo un esquema que garantice la eficiencia, transparencia y sostenibilidad de la Institución.
 
@@ -51,13 +51,11 @@ CONSIDERANDO: Que los Productores en los últimos años por problemas mencionado
 
 Debido a lo antes mencionado el Estado ha visto la necesidad de reactivar el sector agrícola a través de la (restitución jurídica financiera) de las Unidades Productivas rematadas y en proceso judicial remate, apoyando a los productores con readecuación y refinanciamiento de créditos con el objetivo de incentivar al sector agrícola, para que el mismo no se deprima y aumente la producción nacional, logrando la autosostenibilidad, generación de empleo y mejoramiento en la exportación de algunos productos agropecuarios, así como buscar disminuir las importaciones de granos básicos, lo cual provocaría una fuga de Divisas.
 
-CONSIDERANDO: Que en base a la RESOLUCIÓN No.
+CONSIDERANDO: Que en base a la RESOLUCIÓN No. 499/ 04 - 05 - 2004 del 4 de Mayo del 2004, la Comisión Nacional de Bancos y Seguros (CNBS), NORMAS PARA EL CÁLCULO, CONTABILIZACIÓN, SUSPENSIÓN, Y REVERSIÓN DE INTERESES EN CUENTAS DE RESULTADO, establece que los intereses regulares se deben manejar o contabilizar control en cuentas de orden, a medida que paguen se registrarán directamente ingreso tal como lo establecen las normas de la Comisión Nacional de Bancos y Seguros.
 
-499/ 04 - 05 - 2004 del 4 de Mayo del 2004, la Comisión Nacional de Bancos y Seguros (CNBS), NORMAS PARA EL CÁLCULO, CONTABILIZACIÓN, SUSPENSIÓN, Y REVERSIÓN DE INTERESES EN CUENTAS DE RESULTADO, establece que los intereses regulares se deben manejar o contabilizar control en cuentas de orden, a medida que paguen se registrarán directamente ingreso tal como lo establecen las normas de la Comisión Nacional de Bancos y Seguros.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 102-2007 del 9 de Octubre del 2007, publicado en el Diario Oficial “ La Gaceta “ el 21 de Noviembre de 2007, se autorizó al Banco Nacional de Desarrollo Agrícola (BANADESA) a iniciar el proceso de readecuación de las deudas de productores que mantengan saldos vencidos con el Banco Nacional de Desarrollo Agrícola (BANADESA) en la cartera de fondos propios y la cartera de Fideicomisos al 31 de Enero de 2006 a un plazo de veinte (20) años y una tasa del cinco por ciento (5%) anual, capitalizando únicamente los intereses regulares y moratorios si los hubieran de los dos (2) últimos años, el saldo de intereses mayores a dos (2) años serán dispensados por el Banco Nacional de Desarrollo Agrícola (BANADESA).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.102-2007 del 9 de Octubre del 2007, publicado en el Diario Oficial “ La Gaceta “ el 21 de Noviembre de 2007, se autorizó al Banco Nacional de Desarrollo Agrícola (BANADESA) a iniciar el proceso de readecuación de las deudas de productores que mantengan saldos vencidos con el Banco Nacional de Desarrollo Agrícola (BANADESA) en la cartera de fondos propios y la cartera de Fideicomisos al 31 de Enero de 2006 a un plazo de veinte (20) años y una tasa del cinco por ciento (5%) anual, capitalizando únicamente los intereses regulares y moratorios si los hubieran de los dos (2) últimos años, el saldo de intereses mayores a dos (2) años serán dispensados por el Banco Nacional de Desarrollo Agrícola (BANADESA).
-
-Asimismo, el Decreto Legislativo No.104-2012 del 12 de Septiembre de 2012, publicado en el Diario Oficial “La Gaceta” el 11 de Marzo de 2013, buscaba el mismo fin que el Decreto antes mencionado y considerando que el Estado de Honduras y las autoridades de BANADESA no tuvieron el impacto deseado, debido a que los beneficiarios de los mismos en su mayoría no readecuar con sus deudas y que es imperativo que el Banco sanee sus Estados Financieros, mediante técnicas financieras que conlleven a una administración sana.
+Asimismo, el Decreto Legislativo No. 104-2012 del 12 de Septiembre de 2012, publicado en el Diario Oficial “La Gaceta” el 11 de Marzo de 2013, buscaba el mismo fin que el Decreto antes mencionado y considerando que el Estado de Honduras y las autoridades de BANADESA no tuvieron el impacto deseado, debido a que los beneficiarios de los mismos en su mayoría no readecuar con sus deudas y que es imperativo que el Banco sanee sus Estados Financieros, mediante técnicas financieras que conlleven a una administración sana.
 
 CONSIDERANDO: Que la política de Apoyo al Sector Agropecuario adoptada por el Gobierno de la República a iniciativa del excelentísimo señor Presidente de la República, contempla otorgar facilidades a los productores a nivel nacional para que puedan readecuar sus deudas a tasas bajas y con plazos adecuados sus posibilidades con el único fin de reactivar las áreas productivas.
 
@@ -65,7 +63,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

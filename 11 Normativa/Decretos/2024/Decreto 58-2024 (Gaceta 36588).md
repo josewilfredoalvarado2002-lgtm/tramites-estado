@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto No. 58-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240717-36588-2/download"
 extraido: "2026-11-14"
-huella: "3df49ac8ae9ffb24"
+huella: "e0e46b17f01b51a6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 58-2024
@@ -43,15 +43,15 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar en todas y cada una de sus partes el Decreto Legislativo No.334- 2013, del 17 de Enero del año 2014 y publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero de 2014, en la Edición número 33,336.
+ARTÍCULO 1.- Derogar en todas y cada una de sus partes el Decreto Legislativo No. 334-2013, del 17 de Enero del año 2014 y publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero de 2014, en la Edición número 33,336.
 
 #### Artículo 2
 
-ARTÍCULO 2.- A partir de la vigencia del presente Decreto, se restablecen los límites de la reserva y áreas productoras de agua en la Cordillera de El Merendón afectadas por el Decreto No.334-2013 relacionado al Artículo procedente debiéndose aplicar de manera íntegra los límites siguientes:
+ARTÍCULO 2.- A partir de la vigencia del presente Decreto, se restablecen los límites de la reserva y áreas productoras de agua en la Cordillera de El Merendón afectadas por el Decreto No. 334-2013 relacionado al Artículo procedente debiéndose aplicar de manera íntegra los límites siguientes:
 
 1. Área de Producción de Agua de San Pedro Sula, Límites Partiendo de la carretera que de San Pedro Sula conduce al Cerro de La Virtud a la altura de la Cota 200 y siguiendo esta misma Cota con rumbo Nor-Oeste hasta 200 metros de Nor-Este de la intercepción de dicha Cota (200) con la quebrada llamada de Palmeras y siguiendo desde este punto rumbo N. 16°00 O. hasta alcanzar la Cota 400, se sigue rumbo Norte por la Cota 400, aproximadamente 300 metros de donde se toma rumbo N. 10°00 E, hasta la intercepción con la Quebrada de Santa Anita, 150 metros aguas abajo de la represa “Juan Lindo”. De aquí se sigue rumbo N. 60°00’ O. hasta alcanzar la Cota 400, cambia rumbo N. 50°00’ E, hasta llegar al Río Santa Ana, 150 metros aguas abajo de la Presa del mismo nombre, tomando desde ese punto rumbo N. 50°00’ E. y cruzando el Río Santa Ana se alcanza nuevamente la Cota 200. A partir de este punto y por la misma Cota 200 se toma rumbo N. 70°00’ E. hasta alcanzar la Aldea Zapotal del Norte (Campo de Balompié), de este punto la línea prosigue con rumbo N.
 
@@ -85,7 +85,7 @@ Siguiendo de este punto rumbo N.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Se ordena al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA) y a las Municipalidades involucradas para que procedan a tomar las medidas para la restauración de las áreas afectadas durante la vigencia del Decreto Legislativo No.334-2013.
+ARTÍCULO 3.- Se ordena al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA) y a las Municipalidades involucradas para que procedan a tomar las medidas para la restauración de las áreas afectadas durante la vigencia del Decreto Legislativo No. 334-2013.
 
 #### Artículo 4
 

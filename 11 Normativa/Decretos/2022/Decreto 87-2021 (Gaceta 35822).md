@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 87-2021, 134-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220114-35822/download"
 extraido: "2026-11-14"
-huella: "dd091375586c3e20"
+huella: "4a43c2d69fbb7d4e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 87-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 205 de la Constitución de la República, Atribuc
 
 CONSIDERANDO: Que el Estado de Honduras ha ratificado los Convenios de Ginebra de 1949, que establecen la obligación de reconocer y apoyar en los países a las Sociedades Nacional de la Cruz Roja y Media Luna Roja.
 
-CONSIDERANDO: Que la Cruz Roja Hondureña fue fundada el 24 de Septiembre de 1937 como una Asociación Humanitaria de carácter privado, sin fines de lucro, que cuenta con personería jurídica otorgada mediante Acuerdo No.475 del 6 de Octubre de 1937 y se rige por las disposiciones constitucionales y legales vigentes en el País, siendo su mandato legal actuar como auxiliar de los poderes públicos.
+CONSIDERANDO: Que la Cruz Roja Hondureña fue fundada el 24 de Septiembre de 1937 como una Asociación Humanitaria de carácter privado, sin fines de lucro, que cuenta con personería jurídica otorgada mediante Acuerdo No. 475 del 6 de Octubre de 1937 y se rige por las disposiciones constitucionales y legales vigentes en el País, siendo su mandato legal actuar como auxiliar de los poderes públicos.
 
 CONSIDERANDO: Que, en virtud de la ratificación de los Convenios de Ginebra de 1949, es una obligación del Estado apoyar las acciones que realiza la Cruz Roja Hondureña a favor de los más vulnerables, pudiendo realizarse por medio de exoneraciones, facilidades aduaneras, tributarias y provisión de recursos financieros para el desarrollo de capacidades y de la acción humanitaria.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

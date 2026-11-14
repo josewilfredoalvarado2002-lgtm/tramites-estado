@@ -11,7 +11,7 @@ paginas: "A. 11 - 13"
 sumario: "Acuerdo No. 645-2024, Acuerdo Ejecutivo Número 673-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241202-36704/download"
 extraido: "2026-11-14"
-huella: "dad3545bcd2746de"
+huella: "21673d289d5107aa"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 673-2024
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 

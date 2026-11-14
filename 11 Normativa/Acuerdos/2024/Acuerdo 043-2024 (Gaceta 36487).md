@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "e1b115b2bcabdbf2"
+huella: "d58a206439d1e540"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 043-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el COMIECO se puede reunir de manera virtual, en cuyo caso, la
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 5 de diciembre de 2023, emitió el ACUERDO No. 02- 2023 (COMIECO-CV); mediante el cual acuerda entre otros:
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 5 de diciembre de 2023, emitió el ACUERDO No. 02-2023 (COMIECO-CV); mediante el cual acuerda entre otros:
 
 Aprobar la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad, con Énfasis en la Gestión Coordinada de Fronteras (ECFCC) -2023”, en la forma que aparece en el Anexo del Acuerdo y que forma parte integral del mismo, que actualiza la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad con énfasis en Gestión Coordinada de Fronteras”, aprobada en el Acuerdo No. 01-2015 (COMIECO-LXXIII), del 22 de octubre de 2015.
 
@@ -59,7 +59,7 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el ACUERDO No. 02- 2023 (COMIECO-CV); que ACUERDA: 1. Aprobar la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad, con Énfasis en la Gestión Coordinada de Fronteras (ECFCC) -2023”, en la forma que aparece en el Anexo del presente Acuerdo y que forma parte integral del mismo, que actualiza la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad con énfasis en Gestión Coordinada de Fronteras”, aprobada en el Acuerdo No. 01-2015 (COMIECO-LXXIII), del 22 de octubre de 2015.
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el ACUERDO No. 02-2023 (COMIECO-CV); que ACUERDA: 1. Aprobar la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad, con Énfasis en la Gestión Coordinada de Fronteras (ECFCC) -2023”, en la forma que aparece en el Anexo del presente Acuerdo y que forma parte integral del mismo, que actualiza la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad con énfasis en Gestión Coordinada de Fronteras”, aprobada en el Acuerdo No. 01-2015 (COMIECO-LXXIII), del 22 de octubre de 2015.
 
 2. El Grupo Técnico de Facilitación del Comercio (GTFC), integrado por representantes de los Ministerios encargados de la Integración Económica Centroamericana y los Servicios Aduaneros de los Estados Parte, será la instancia técnica para el seguimiento de la implementación de la ECFCC-2023 aprobada en este Acuerdo, regirá su funcionamiento por la normativa regional aplicable y se coordinará con todas las autoridades correspondientes para tratar los asuntos de sus competencias, contemplados en la Estrategia mencionada. 3.
 

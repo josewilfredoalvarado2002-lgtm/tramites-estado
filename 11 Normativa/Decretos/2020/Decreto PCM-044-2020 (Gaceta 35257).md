@@ -8,10 +8,10 @@ gaceta_numero: 35257
 gaceta_fecha: "2020-05-19"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35257 (2020-05-19)|La Gaceta 35257]]"
 paginas: "A. 4 - 8"
-sumario: "Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020PODER EJECUTIVODecreto Ejecutivo número PCM-044-2020"
+sumario: "Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-044-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200519-35257-2/download"
 extraido: "2026-11-14"
-huella: "3ad0cb00356c17e2"
+huella: "184421577b092662"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-044-2020
@@ -23,7 +23,7 @@ huella: "3ad0cb00356c17e2"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35257 (2020-05-19)\|La Gaceta 35257]] del 2020-05-19 |
 | Páginas | A. 4 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020PODER EJECUTIVODecreto Ejecutivo número PCM-044-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-044-2020 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo establecido en el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada y Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266- 2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar, la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
+CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar, la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
 CONSIDERANDO: Que la actual crisis causada por el virus COVID-19, obliga a tomar medidas que impulsen la automatización de procesos y transformación digital del Estado de Honduras, con el fin de crear mecanismos que permitan a los ciudadanos poder acceder a los servicios del Gobierno sin tener que acudir personalmente a las oficinas públicas, causando aglomeraciones y exposiciones innecesarias.
 
@@ -119,7 +119,7 @@ Lo no previsto en los Artículos 2 y 3 del presente Decreto en cuanto al funcion
 
 ARTÍCULO 4.- La Presidencia de la República debe de realizar una reprogramación del Presupuesto aprobado en el Ejercicio Fiscal 2020, así como los subsiguientes ejercicios fiscales, recursos que serán asignados para el funcionamiento del Despacho de Prioridades Presidenciales e Innovación Pública.
 
-En caso que fueran requeridos fondos adicionales, se debe de presentar ante la Secretaría de Estado en el Despacho de Finanzas, el presupuesto con el plan de actividades con objetivos medibles y de impacto en la modernización y reforma del Estado y que a su vez conlleven al cumplimiento de lo establecido en el presente decreto. Lo anterior en el marco de la Disciplina Presupuestaria y la aplicación del Decreto Ejecutivo número PCM- 020-2020.
+En caso que fueran requeridos fondos adicionales, se debe de presentar ante la Secretaría de Estado en el Despacho de Finanzas, el presupuesto con el plan de actividades con objetivos medibles y de impacto en la modernización y reforma del Estado y que a su vez conlleven al cumplimiento de lo establecido en el presente decreto. Lo anterior en el marco de la Disciplina Presupuestaria y la aplicación del Decreto Ejecutivo número PCM-020-2020.
 
 Asimismo, el recurso humano, mobiliario, equipos, materiales y plataformas tecnológicas que se ha venido utilizando para el funcionamiento de la Oficina de Cumplimiento de Asuntos Presidenciales pasarán a formar parte del Despacho de Prioridades Presidenciales e Innovación Pública.
 

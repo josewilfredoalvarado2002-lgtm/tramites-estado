@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decretos Ejecutivos Números PCM 01-2024, PCM 05-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240205-36452/download"
 extraido: "2026-11-14"
-huella: "7db97ddd0b3dcca7"
+huella: "eaa81c8d5808d26b"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 01-2024, PCM 05-2024
@@ -109,19 +109,17 @@ CONSIDERANDO: Que la Constitución de la República establece que la Presidenta 
 
 CONSIDERANDO: Que la Ley General de la Administración Pública, establece que la Presidenta de la República tiene a su cargo la Suprema Dirección y Coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros (artículo 11).
 
-CONSIDERANDO: Que el Estado de Honduras y el Gobierno de la República del Japón a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron un primer Convenio de Donación No Reembolsable en fecha 26 de marzo del año 2021, según Acuerdo de Donación No.
-
-2060570, mediante el cual ambas partes se comprometieron al diseño y compromiso de adquisición de tierras para la Construcción y Supervisión de el Proyecto de Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope.
+CONSIDERANDO: Que el Estado de Honduras y el Gobierno de la República del Japón a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron un primer Convenio de Donación No Reembolsable en fecha 26 de marzo del año 2021, según Acuerdo de Donación No. 2060570, mediante el cual ambas partes se comprometieron al diseño y compromiso de adquisición de tierras para la Construcción y Supervisión de el Proyecto de Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope.
 
 Asimismo, se suscribió un segundo Convenio de Donación No Reembolsable en fecha 28 de febrero del año 2022, para, según Acuerdo de Donación No. 2160590, mediante el cual el Gobierno de la República de Honduras se compromete a la adquisición de tierras para la construcción de dicho Proyecto.
 
-CONSIDERANDO: Que en fecha dos (2) de septiembre del año dos mil veintidós (2022) el Estado de Honduras a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y la Empresa Constructora HAZAMA ANDO CORPORATION, suscribieron el Contrato para el Proyecto Reconstrucción del Puente Guacirope en la Carretera Nacional No.1, localizado en el municipio de Nacaome, departamento de Valle.
+CONSIDERANDO: Que en fecha dos (2) de septiembre del año dos mil veintidós (2022) el Estado de Honduras a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y la Empresa Constructora HAZAMA ANDO CORPORATION, suscribieron el Contrato para el Proyecto Reconstrucción del Puente Guacirope en la Carretera Nacional No. 1, localizado en el municipio de Nacaome, departamento de Valle.
 
-CONSIDERANDO: Que como parte del compromiso de donación mediante Acuerdo No Reembolsable No. 2060570 por medio del Gobierno de Japón a través del Agencia de Cooperación Internacional del Japón (JICA), la Empresa Oriental Consultants Global Co., inicia con el diseño para el Proyecto de Reconstrucción del Puente en la Carretera Nacional No.1 Puente Guacirope.
+CONSIDERANDO: Que como parte del compromiso de donación mediante Acuerdo No Reembolsable No. 2060570 por medio del Gobierno de Japón a través del Agencia de Cooperación Internacional del Japón (JICA), la Empresa Oriental Consultants Global Co., inicia con el diseño para el Proyecto de Reconstrucción del Puente en la Carretera Nacional No. 1 Puente Guacirope.
 
 CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado de Infraestructura y Transporte (SIT), está ejecutando el Proyecto denominado “Reconstrucción del Puente sobre el Río Guacirope, en el municipio de Nacaome, departamento de Valle”, para lo cual es necesario que la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), adquiera los terrenos necesarios para la construcción de dicho proyecto.
 
-CONSIDERANDO: Que en fecha 30 de marzo del año 2022 se emite la Nota de Prioridad DGIP-027-2022, para el proyecto Reconstrucción Puente en Carretera Nacional No.1 Puente Guacirope, localizado en el municipio de Nacaome, departamento de Valle, el cual será financiado mediante Fondos No Rembolsables de la Agencia de Cooperación Internacional del Japón (JICA) y la contraparte nacional será aportada por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), de acuerdo con el siguiente detalle:
+CONSIDERANDO: Que en fecha 30 de marzo del año 2022 se emite la Nota de Prioridad DGIP-027-2022, para el proyecto Reconstrucción Puente en Carretera Nacional No. 1 Puente Guacirope, localizado en el municipio de Nacaome, departamento de Valle, el cual será financiado mediante Fondos No Rembolsables de la Agencia de Cooperación Internacional del Japón (JICA) y la contraparte nacional será aportada por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), de acuerdo con el siguiente detalle:
 
 Acuerdo No.
 
@@ -137,7 +135,7 @@ Naturaleza Jurídica del Predio: Ejidal. 2. Se encuentra dentro del título “N
 
 CONSIDERANDO: Que la Constitución de la República establece que el Estado de Honduras reconoce, fomenta y garantiza la existencia de la propiedad privada en su más amplio concepto de función social y sin más limitaciones que aquellas que por motivos de necesidad o de interés público establezca la Ley. Asimismo, establece que nadie puede ser privado de su propiedad sino por causa de necesidad o interés público calificados por la Ley o por resolución fundada en Ley, sin que medie previa indemnización justipreciada (artículos 103 y 106).
 
-CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) en cumplimiento con las obligaciones del receptor establecidas en el Anexo 4 del Acuerdo de Donación No.2160590, procedió con la conformación de la Comisión de Avalúo en el marco del proceso para la adquisición de las tierras necesarias para la construcción del proyecto, conforme a lo establecido en la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública (Ley Fast Track) y se procedió a asegurar el presupuesto necesario para implementar el proceso de adquisición de tierras y /o mejoras.
+CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) en cumplimiento con las obligaciones del receptor establecidas en el Anexo 4 del Acuerdo de Donación No. 2160590, procedió con la conformación de la Comisión de Avalúo en el marco del proceso para la adquisición de las tierras necesarias para la construcción del proyecto, conforme a lo establecido en la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública (Ley Fast Track) y se procedió a asegurar el presupuesto necesario para implementar el proceso de adquisición de tierras y /o mejoras.
 
 CONSIDERANDO: Que la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública establece que los terrenos de propiedad privada que se requieran para las obras de infraestructura pasarán al dominio estatal ejidal o de la entidad descentralizada en su caso mediante sesión, compraventa, compensación o expropiación forzosa. Asimismo, establece que cuando no puedan adquirirse los bienes requeridos para la ejecución de las obras públicas, derivado del rechazo del afectado a recibir el justiprecio ofrecido, la respectiva Unidad Ejecutora está facultada para solicitar al Consejo de Ministros la Declaración de Expropiación Forzosa del bien inmueble (artículos 15 y 17).
 
@@ -153,9 +151,9 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Declarar la Expropiación Forzosa, por causa de necesidad o interés público, del bien inmueble requerido para realizar la Construcción del Proyecto Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope, localizado en el Municipio de Nacaome, Departamento de Valle, que se detalla a continuación:
+ARTÍCULO 1. Declarar la Expropiación Forzosa, por causa de necesidad o interés público, del bien inmueble requerido para realizar la Construcción del Proyecto Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope, localizado en el Municipio de Nacaome, Departamento de Valle, que se detalla a continuación:
 
-Lote comprendido por un área de SETECIENTOS CINCO PUNTO NOVENTA Y DOS METROS CUADRADOS (705.92)m2, perteneciente al Lote No. 2, registrado bajo el nombre del señor Félix Gutiérrez Molina, mismo que consta en la Escritura Pública número tres (3), inscrita en el Registro de la Propiedad bajo el número 91 tomo 104 del libro Registro de la Propiedad Inmueble de Hipotecas y Anotaciones Preventivas de la Circunscripción Registral del Municipio de Nacaome, Departamento de Valle, con matrícula 0002084732- 00000, Asiento 1, con las Colindancias siguientes: al Norte con la señora Lizeth Ortiz; al Sur con el Derecho de vía y la Carretera Panamericana CA-1 de por medio con ocupante desconocido; al Este con los señores Félix Gutiérrez y Pedro Pablo Núñez Zambrano; y al Oeste con la Calle de por medio con Natividad Ortiz, Aida Sánchez, Santiago Gutiérrez, y Cleotilde Ortiz Ortiz.
+Lote comprendido por un área de SETECIENTOS CINCO PUNTO NOVENTA Y DOS METROS CUADRADOS (705.92)m2, perteneciente al Lote No. 2, registrado bajo el nombre del señor Félix Gutiérrez Molina, mismo que consta en la Escritura Pública número tres (3), inscrita en el Registro de la Propiedad bajo el número 91 tomo 104 del libro Registro de la Propiedad Inmueble de Hipotecas y Anotaciones Preventivas de la Circunscripción Registral del Municipio de Nacaome, Departamento de Valle, con matrícula 0002084732-00000, Asiento 1, con las Colindancias siguientes: al Norte con la señora Lizeth Ortiz; al Sur con el Derecho de vía y la Carretera Panamericana CA-1 de por medio con ocupante desconocido; al Este con los señores Félix Gutiérrez y Pedro Pablo Núñez Zambrano; y al Oeste con la Calle de por medio con Natividad Ortiz, Aida Sánchez, Santiago Gutiérrez, y Cleotilde Ortiz Ortiz.
 
 #### Artículo 2
 
@@ -169,9 +167,7 @@ ARTÍCULO 3. El pago en mención, previo otorgamiento y registro de la Escritura
 
 ARTÍCULO 4. Consignar, para el pago de la indemnización por la expropiación forzosa, los datos de la persona cuyo bien inmueble ha sido objeto de investigación técnica y jurídica por parte de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), tal como se detalla a continuación:
 
-Caso Para Expropiar No.
-
-1 “Reconstrucción Puente en Carretera Nacional No.1, Puente Guacirope” Código PGN-008-VNT Estación 00+307.98 Nombre Félix Gutiérrez Molina DNI 1708-1984-00024 Área (𝒎𝒎𝒎𝒎𝟐𝟐𝟐𝟐) 705.92 Área (𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝟐𝟐𝟐𝟐) 1012.51 Valor por 𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝟐𝟐𝟐𝟐 453.18 Existentes Valoraciones de Instalaciones Valoración Terreno L458,849.28 Valoración Mejoras L1,316,796.35 Valoración Total L1,789,145.63
+Caso Para Expropiar No. 1 “Reconstrucción Puente en Carretera Nacional No. 1, Puente Guacirope” Código PGN-008-VNT Estación 00+307.98 Nombre Félix Gutiérrez Molina DNI 1708-1984-00024 Área (𝒎𝒎𝒎𝒎𝟐𝟐𝟐𝟐) 705.92 Área (𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝟐𝟐𝟐𝟐) 1012.51 Valor por 𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝒗𝟐𝟐𝟐𝟐 453.18 Existentes Valoraciones de Instalaciones Valoración Terreno L458,849.28 Valoración Mejoras L1,316,796.35 Valoración Total L1,789,145.63
 
 #### Artículo 5
 
@@ -181,7 +177,7 @@ La totalidad de los honorarios notariales y gastos en que incurra por la escritu
 
 #### Artículo 6
 
-ARTÍCULO 6. Autorizar el pago hasta por UN MILLÓN SETECIENTOS OCHENTA Y NUEVE MIL CIENTO CUARENTA Y CINCO PUNTO SESENTA Y TRES LEMPIRAS (L 1,789,145.63) a favor del señor FÉLIX GUTIÉRREZ MOLINA, por el inmueble afectado debido a la Ejecución del Proyecto “Reconstrucción Puente en Carretera Nacional No.1 Puente Guacirope, localizado en el Municipio de Nacaome, Departamento de Valle”, de conformidad a lo establecido en el Informe de Inspección bajo el código PGN-008-VNT registrado con el nombre de Félix Gutiérrez Molina; asimismo, de conformidad al Avalúo de fecha 7 de Septiembre de 2023, emitido por la Comisión Evaluadora y los derechos que conforme a Ley corresponde según la naturaleza del bien inmueble.
+ARTÍCULO 6. Autorizar el pago hasta por UN MILLÓN SETECIENTOS OCHENTA Y NUEVE MIL CIENTO CUARENTA Y CINCO PUNTO SESENTA Y TRES LEMPIRAS (L 1,789,145.63) a favor del señor FÉLIX GUTIÉRREZ MOLINA, por el inmueble afectado debido a la Ejecución del Proyecto “Reconstrucción Puente en Carretera Nacional No. 1 Puente Guacirope, localizado en el Municipio de Nacaome, Departamento de Valle”, de conformidad a lo establecido en el Informe de Inspección bajo el código PGN-008-VNT registrado con el nombre de Félix Gutiérrez Molina; asimismo, de conformidad al Avalúo de fecha 7 de Septiembre de 2023, emitido por la Comisión Evaluadora y los derechos que conforme a Ley corresponde según la naturaleza del bien inmueble.
 
 #### Artículo 7
 

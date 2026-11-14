@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Resolución de Pleno No. 1-2021, Decreto No. 14-2021, Decreto No. 27-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "1413a1a82b181e81"
+huella: "4ae5bd1d7b931441"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN DE PLENO No. 1-2021
@@ -29,7 +29,7 @@ huella: "1413a1a82b181e81"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.18-2021, de fecha 29 de abril del 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de abril del 2021, en la Edición No.35,587, se aprobaron las reformas de varios artículos del Decreto No. 182-2020, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021, en el cual luego de su publicación se identificó que contiene un error por una acción involuntaria en el Artículo 160, cuya denominación de Artículo y el texto “LAS ASIGNACIONES ...” correspondiente al primer párrafo del mismo, no fueron agregados en el Decreto publicado y al no agregarse dicho contenido, el texto perteneciente al Artículo 160 queda incorporado en la reforma del Artículo 150, error que resulta evidente puesto que en la citada reforma cuando se hace referencia a los artículos objeto de reforma en el Decreto aparece la reforma del Artículo 160 pero en la descripción de los artículos no aparece el mismo porque al no agregar la palabra “ARTÍCULO 160.- LAS ASIGNACIONES...” el texto de éste pasó a formar parte de la reforma del Artículo anterior a éste, siendo éste el Artículo 150.
+CONSIDERANDO: Que mediante Decreto No. 18-2021, de fecha 29 de abril del 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de abril del 2021, en la Edición No. 35,587, se aprobaron las reformas de varios artículos del Decreto No. 182-2020, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021, en el cual luego de su publicación se identificó que contiene un error por una acción involuntaria en el Artículo 160, cuya denominación de Artículo y el texto “LAS ASIGNACIONES ...” correspondiente al primer párrafo del mismo, no fueron agregados en el Decreto publicado y al no agregarse dicho contenido, el texto perteneciente al Artículo 160 queda incorporado en la reforma del Artículo 150, error que resulta evidente puesto que en la citada reforma cuando se hace referencia a los artículos objeto de reforma en el Decreto aparece la reforma del Artículo 160 pero en la descripción de los artículos no aparece el mismo porque al no agregar la palabra “ARTÍCULO 160.- LAS ASIGNACIONES...” el texto de éste pasó a formar parte de la reforma del Artículo anterior a éste, siendo éste el Artículo 150.
 
 CONSIDERANDO: Que, para garantizar el cumplimiento de lo aprobado por el Pleno, se hace necesario autorizar la subsanación del error en la publicación del Decreto No. 18-2021, mediante una Resolución ordenando la corrección del mismo, separando el contenido de lo publicado en el Artículo 150 que corresponde al Artículo 160 y consignar la denominación del
 
@@ -45,7 +45,7 @@ RESUELVE:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Corregir el error dado en la publicación del Decreto No. 18-2021 de fecha 29 de abril del 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de abril del 2021, Edición No.35,587, contentivo de reformar varios artículos al PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021, misma que consiste en separar el contenido del Artículo 150 y agregar la palabra “ARTICULO 160.- LAS ASIGNACIONES...” ya que expresamente no se agregó en dicho Decreto y al no agregarse tal frase, el precepto que contiene el Artículo 160 queda dentro de la reforma del Artículo anterior, siendo éste el Artículo 150, por tal razón dicho error involuntario debe ser enmendado en el sentido siguiente:
+ARTÍCULO 1.- Corregir el error dado en la publicación del Decreto No. 18-2021 de fecha 29 de abril del 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de abril del 2021, Edición No. 35,587, contentivo de reformar varios artículos al PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021, misma que consiste en separar el contenido del Artículo 150 y agregar la palabra “ARTICULO 160.- LAS ASIGNACIONES...” ya que expresamente no se agregó en dicho Decreto y al no agregarse tal frase, el precepto que contiene el Artículo 160 queda dentro de la reforma del Artículo anterior, siendo éste el Artículo 150, por tal razón dicho error involuntario debe ser enmendado en el sentido siguiente:
 
 “ARTÍCULO 150.- Con base a lo establecido...
 

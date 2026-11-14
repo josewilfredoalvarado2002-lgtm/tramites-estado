@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "Decreto Ejecutivo número PCM-098-2021, PCM-123-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211120-35777/download"
 extraido: "2026-11-14"
-huella: "97decbde3d2278f7"
+huella: "efba08b0d9cafec3"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-123-2021
@@ -47,9 +47,7 @@ CONSIDERANDO: Que el Gobierno de la República reconoce que se debe coadyuvar, m
 
 CONSIDERANDO: Que la situación y efectos a nivel mundial sobre cambio climático ha desencadenado situaciones adversas que vuelven complejo el desarrollo, la producción sostenible y continua en el País, sumado a que la Pandemia de la COVID-19 que impera aún en nuestro territorio ha frenado considerablemente las acciones y tareas para anticipar los problemas climatológicos para así producir los recursos financieros necesarios que generen los servicios que permitan avizorar de manera previa la información justa y oportuna para que llegue a toda la población.
 
-CONSIDERANDO: Que a través del Decreto Legislativo No.
-
-286-2009, publicado en el Diario Oficial “La Gaceta” en fecha 2 de febrero del 2010 Edición No. 32,129, se emitió la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras. Tiene como objetivo aprobar la Visión de País al año 2038 y el Plan de Nación al año 2022, para la planeación del desarrollo económico, social y político, establecido en el Artículo 329 de la Constitución de la República. En el cual su tercer objetivo a largo plazo establece la aspiración de contar con un País productivo que aprovecha sosteniblemente sus recursos naturales al tiempo que reduce la vulnerabilidad ambiental, incluyendo factores climáticos.
+CONSIDERANDO: Que a través del Decreto Legislativo No. 286-2009, publicado en el Diario Oficial “La Gaceta” en fecha 2 de febrero del 2010 Edición No. 32,129, se emitió la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras. Tiene como objetivo aprobar la Visión de País al año 2038 y el Plan de Nación al año 2022, para la planeación del desarrollo económico, social y político, establecido en el Artículo 329 de la Constitución de la República. En el cual su tercer objetivo a largo plazo establece la aspiración de contar con un País productivo que aprovecha sosteniblemente sus recursos naturales al tiempo que reduce la vulnerabilidad ambiental, incluyendo factores climáticos.
 
 CONSIDERANDO: Que mediante el Decreto N° 104-93, contentivo de la Ley General del Ambiente, publicado en el Diario Oficial “La Gaceta” en fecha 30 de junio de 1993, se creó la Secretaría de Estado en el Despacho de Ambiente, ahora Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (MiAmbiente+). En el Artículo 10 literalmente señala: “Créase la Secretaría de Estado en el Despacho del Ambiente, responsable de: Cumplir y hacer cumplir la legislación ambiental de Honduras; de la formulación y coordinación global de las políticas nacionales sobre el ambiente; velar porque se cumplan esas políticas; y, de la coordinación institucional pública y privada en materia ambiental. Esta Secretaría de Estado contará con un Consejo Consultivo Nacional del Ambiente, conformado por representantes del Sector Público y Privado, quienes participarán Ad honorem en las sesiones que se celebren; un Comité Técnico Asesor; y, una Procuraduría del Ambiente”.
 
@@ -63,7 +61,7 @@ CONSIDERANDO: Que el Plan Nacional de Adaptación al Cambio Climático de Hondur
 
 POR TANTO;
 
-En aplicación de los Artículos 145, 245 numerales 1, 2, 11 y 29; 252 y 340 de la Constitución de la República; Artículos 11, 14 numeral 1), 17, 18, 20, 22 numerales 9) y 12), 25, 36 numerales 2, 4 y 21, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decretos Legislativos: No.104-93, No.26-95, No.286-2009 y No.118-2016; Artículos 1,3,7, 9, 10 y 11 de la Ley General del Ambiente.
+En aplicación de los Artículos 145, 245 numerales 1, 2, 11 y 29; 252 y 340 de la Constitución de la República; Artículos 11, 14 numeral 1), 17, 18, 20, 22 numerales 9) y 12), 25, 36 numerales 2, 4 y 21, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decretos Legislativos: No. 104-93, No. 26-95, No. 286-2009 y No. 118-2016; Artículos 1,3,7, 9, 10 y 11 de la Ley General del Ambiente.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo Ejecutivo Número 137-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250314-36790/download"
 extraido: "2026-11-12"
-huella: "fb6d51fe184fb7ed"
+huella: "1ba24b1f71ba3d33"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 137-2024
@@ -35,13 +35,13 @@ CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de 
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Secretaría de Agricultura y Ganadería, fomentar la eficiencia en el campo de la producción y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país; y, es la Secretaría de Estado en el Despacho de Desarrollo Económico la Institución encargada de dirigir la Política Comercial de Honduras.
 
-CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo No. SAG- 125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
+CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
 
 CONSIDERANDO: Que en fecha 23 de julio de 2024, la Comisión de Supervisión del referido convenio, aprueba y firma el Addendum Número Dos al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), que corresponde a la Cosecha Nacional 2024-2025; asegurando la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano, la compra de la producción de maíz blanco, en apoyo a los Productores, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No.129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG- 125-2022.
+En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No. 129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG-125-2022.
 
 ACUERDA:
 
@@ -303,23 +303,23 @@ COMUNÍQUESE Y PUBLÍQUESE, LIC. IRIS XIOMARA CASTRO SARMIENTO Presidenta Consti
 
 CONSIDERANDO (01): Que la Constitución de la República en su artículo 245 numerales 2) y 25) establece que la Presidenta tiene a su cargo la Administración General del Estado, encontrandose entre sus atribuciones conferir condecoraciones conforme a Ley”.
 
-CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 párrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
+CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 párrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
 
 CONSIDERANDO (03): Que la Ley Constitutiva de las Fuerzas Armadas en su artículo 200 párrafo primero establece que se otorgarán condecoraciones y distinciones militares, a los miembros de las Fuerzas Armadas, a militares de naciones amigas y a personas e instituciones civiles, nacionales o extranjeras, en reconocimiento a actos heroicos, servicios distinguidos y méritos relevantes.
 
 CONSIDERANDO (04): Que la Ley Constitutiva de las Fuerzas Armadas en su artículo 201 establece que las condecoraciones y distinciones militares serán otorgadas de conformidad con lo establecido en el Reglamento respectivo.
 
-CONSIDERANDO (05): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en su artículo 1 literal
+CONSIDERANDO (05): Que el Reglamento de Condecoraciones y Distinciones Militares en su artículo 1 literal
 
-a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos m e r i t o r i o s , c r é a n s e l a s Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
+a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos meritorios, créanse las Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (06): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares, en su artículo 7 establece que la Condecoración Medalla “GRAN CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Comandante General de las Fuerzas Armadas, Jefe del Estado Mayor Conjunto, Cargos Análogos Civiles, Nacionales y Extranjeros, titulares o Presidentes de los Poderes del Estado, así como de las diferentes iglesias.
+CONSIDERANDO (06): Que el Reglamento de Condecoraciones y Distinciones Militares, en su artículo 7 establece que la Condecoración Medalla “GRAN CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Comandante General de las Fuerzas Armadas, Jefe del Estado Mayor Conjunto, Cargos Análogos Civiles, Nacionales y Extranjeros, titulares o Presidentes de los Poderes del Estado, así como de las diferentes iglesias.
 
-CONSIDERANDO (07): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en el artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes:
+CONSIDERANDO (07): Que el Reglamento de Condecoraciones y Distinciones Militares en el artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes:
 
 \1) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (08): Que en fecha 16 de octubre del 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 014- 2024 otorgr la condecoración;
+CONSIDERANDO (08): Que en fecha 16 de octubre del 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 014-2024 otorgr la condecoración;
 
 Medalla “GRAN CRUZ DE LAS FUERZAS ARMADAS”, a la señora Secretaria de Estado en el Despacho de Defensa Nacional Abogada RIXI MONCADA GODOY, quien con su gestión ha contribuido en forma notable al logro de los intereses y objetivos nacionales en las Fuerzas Armadas y reúne los requisitos exigidos por el Reglamento de Condecoraciones y Distinciones Militares.
 
@@ -343,21 +343,21 @@ IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA DE HOND
 
 CONSIDERANDO (01): Que la Constitución de la República en su artículo 245 numerales 2) y 25) establece que la Presidenta tiene a su cargo la Administración General del Estado, encontrandose entre sus atribuciones conferir condecoraciones conforme a Ley.
 
-CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 parrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
+CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 parrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
 
 CONSIDERANDO (03): Que la Ley Constitutiva de las Fuerzas Armadas en su artículo 200 párrafo primero establece que se otorgarán condecoraciones y distinciones militares, a los miembros de las Fuerzas Armadas, a militares de naciones amigas y a personas e instituciones civiles, nacionales o extranjeras, en reconocimiento a actos heroicos, servicios distinguidos y méritos relevantes.
 
 CONSIDERANDO (04): Que la Ley Constitutiva de las Fuerzas Armadas en su artículo 201 establece que las condecoraciones y distinciones militares serán otorgadas de conformidad con lo establecido en el Reglamento respectivo.
 
-CONSIDERANDO (05): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en su artículo 1 literal
+CONSIDERANDO (05): Que el Reglamento de Condecoraciones y Distinciones Militares en su artículo 1 literal
 
-a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos m e r i t o r i o s , c r é a n s e l a s Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
+a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos meritorios, créanse las Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (06): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares, en su artículo 8 establece que “La Condecoración Medalla “CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Los Directores del Estado Mayor Conjunto, Comandantes Generales de las Fuerzas, Jefes de Estado Mayor de Fuerzas, Secretarios de Estado, Presidentes de Asociaciones Obreras y Campesinas, Rectores de Centros de Educación Superior, Agregados de Defensa y Análogos de Países amigos, que hayan contribuido a acrecentar las relaciones entre las Fuerzas Armadas y las Instalaciones que representen, de igual manera se reconocerá a través de esta Condecoración aquellas actividades realizadas en beneficio de la Nación.
+CONSIDERANDO (06): Que el Reglamento de Condecoraciones y Distinciones Militares, en su artículo 8 establece que “La Condecoración Medalla “CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Los Directores del Estado Mayor Conjunto, Comandantes Generales de las Fuerzas, Jefes de Estado Mayor de Fuerzas, Secretarios de Estado, Presidentes de Asociaciones Obreras y Campesinas, Rectores de Centros de Educación Superior, Agregados de Defensa y Análogos de Países amigos, que hayan contribuido a acrecentar las relaciones entre las Fuerzas Armadas y las Instalaciones que representen, de igual manera se reconocerá a través de esta Condecoración aquellas actividades realizadas en beneficio de la Nación.
 
-CONSIDERANDO (07): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en su artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes: 2) MEDALLA “CRUZ DE LAS FF.AA.”.
+CONSIDERANDO (07): Que el Reglamento de Condecoraciones y Distinciones Militares en su artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes: 2) MEDALLA “CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (08): Que en fecha 16 de octubre de 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 014- 2024, otorgar la condecoración;
+CONSIDERANDO (08): Que en fecha 16 de octubre de 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 014-2024, otorgar la condecoración;
 
 MEDALLA “CRUZ DE LAS
 
@@ -367,7 +367,7 @@ CONSIDERANDO (09): Que en fecha 05 de diciembre del 2024, la Dirección de Recur
 
 POR TANTO:
 
-En aplicación a los artículos 245 numerales 2) y 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal a), 8, 45 inciso a) numeral 2), del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 014- 2024, emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas y Dictamen D=229(C-1)2024, emitido por la Dirección de Recursos Humanos (C-1).
+En aplicación a los artículos 245 numerales 2) y 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal a), 8, 45 inciso a) numeral 2), del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 014-2024, emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas y Dictamen D=229(C-1)2024, emitido por la Dirección de Recursos Humanos (C-1).
 
 ACUERDA:
 

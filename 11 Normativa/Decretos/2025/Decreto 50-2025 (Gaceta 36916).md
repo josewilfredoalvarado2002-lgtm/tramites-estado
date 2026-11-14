@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 49-2025, 50-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250814-36916/download"
 extraido: "2026-11-09"
-huella: "791a632237254b5a"
+huella: "f48d62c48d978403"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 50-2025
@@ -31,11 +31,11 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Atribución 19) del Artículo 205 de la Constitución de la República establece la potestad del Congreso Nacional de: “Aprobar o improbar los contratos que lleven involucradas exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos al siguiente período de Gobierno”.
 
-CONSIDERANDO: Que el Decreto No.170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, contentivo del Código Tributario vigente, establece en el Artículo 11, numeral 2, literalmente el concepto de "PRINCIPIO DE LEGALIDAD”, el cual establece que: "Compete exclusivamente al Congreso Nacional a través de las leyes tributarias y aduaneros” y, por consiguiente, no puede ser objeto de la potestad reglamentaria: “2) Otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier clase de beneficio tributario o aduanero".
+CONSIDERANDO: Que el Decreto No. 170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, contentivo del Código Tributario vigente, establece en el Artículo 11, numeral 2, literalmente el concepto de "PRINCIPIO DE LEGALIDAD”, el cual establece que: "Compete exclusivamente al Congreso Nacional a través de las leyes tributarias y aduaneros” y, por consiguiente, no puede ser objeto de la potestad reglamentaria: “2) Otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier clase de beneficio tributario o aduanero".
 
 CONSIDERANDO: Que el Artículo 17 del Código Tributario establece que: “La exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
-CONSIDERANDO: Que el Artículo 117 del Decreto No.62- 2004 del 11 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, contentivo de la Ley del Registro Nacional de las Personas, de fecha 15 de Mayo de 2004 establece:
+CONSIDERANDO: Que el Artículo 117 del Decreto No. 62-2004 del 11 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, contentivo de la Ley del Registro Nacional de las Personas, de fecha 15 de Mayo de 2004 establece:
 
 “Exoneración. El Registro Nacional de las Personas (RNP), queda exonerado del pago de toda clase de impuestos, tasas, sobretasas y derechos consulares, tanto nacionales como municipales, en todos los actos y contratos que realice o celebre, así como sobre los bienes y servicios que adquiera.”
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar al REGISTRO NACIONAL DE LAS PERSONAS (RNP), del Impuesto Sobre Venta (I.S.V.), tasas, sobretasas, impuestos arancelarios, aduaneros, derechos arancelarios y gravámenes de importación, así como de cualquier otro tipo de impuesto, sobre el proceso de contratación directa para la adquisición de SETECIENTOS CINCUENTA MIL (750,000) tarjetas blancas sin personalizar, en policarbonato blanco, sin chip, marca Thales, modelo 01195407 y en formato ID- 1, insumo urgente e indispensable para la emisión del Documento Nacional de Identificación (DNI).
+ARTÍCULO 1.- Exonerar al REGISTRO NACIONAL DE LAS PERSONAS (RNP), del Impuesto Sobre Venta (I.S.V.), tasas, sobretasas, impuestos arancelarios, aduaneros, derechos arancelarios y gravámenes de importación, así como de cualquier otro tipo de impuesto, sobre el proceso de contratación directa para la adquisición de SETECIENTOS CINCUENTA MIL (750,000) tarjetas blancas sin personalizar, en policarbonato blanco, sin chip, marca Thales, modelo 01195407 y en formato ID-1, insumo urgente e indispensable para la emisión del Documento Nacional de Identificación (DNI).
 
 #### Artículo 2
 

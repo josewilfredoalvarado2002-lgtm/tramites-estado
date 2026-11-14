@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "ff9dd990ce0a207c"
+huella: "16c0ea96e6bb00cc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 205-2026
@@ -41,9 +41,9 @@ CONSIDERANDO: Que el 29 de Septiembre de 2011, la Corporación Municipal del Dis
 
 (30) Maravillas de Honduras.
 
-CONSIDERANDO: Que mediante Decreto No.165-94 el Congreso Nacional declaró el Cerro Juana Laínez como Parque Estudiantil a perpetuidad, reconociendo su valor histórico y su importancia ornamental, constituyéndose en antecedente legislativo directo del espacio en el cual se encuentra ubicado el Monumento a la Paz.
+CONSIDERANDO: Que mediante Decreto No. 165-94 el Congreso Nacional declaró el Cerro Juana Laínez como Parque Estudiantil a perpetuidad, reconociendo su valor histórico y su importancia ornamental, constituyéndose en antecedente legislativo directo del espacio en el cual se encuentra ubicado el Monumento a la Paz.
 
-CONSIDERANDO: Que, posteriormente, mediante el Decreto Legislativo No.173-2006 el Estado de Honduras autorizó a la Fundación Ecológica de Tegucigalpa (FET) la administración del Parque Estudiantil Cerro Juana Laínez por un período de noventa (90) años, gestión que ha permitido su recuperación, mantenimiento y conservación.
+CONSIDERANDO: Que, posteriormente, mediante el Decreto Legislativo No. 173-2006 el Estado de Honduras autorizó a la Fundación Ecológica de Tegucigalpa (FET) la administración del Parque Estudiantil Cerro Juana Laínez por un período de noventa (90) años, gestión que ha permitido su recuperación, mantenimiento y conservación.
 
 CONSIDERANDO: Que resulta necesario otorgar al Monumento a la Paz un régimen especial de protección que garantice su conservación, restauración y transmisión a las futuras generaciones, mediante su declaratoria como Monumento Nacional y su reconocimiento como bien inmueble integrante del Patrimonio Cultural de la Nación.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +67,7 @@ CONSERVACIÓN. Toda intervención, modificación, remodelación, restauración o
 
 #### Artículo 3
 
-ARTÍCULO 3.- La presente Declaratoria recae exclusivamente sobre el Monumento a la Paz y no modifica la condición jurídica, delimitación, dominio ni régimen de administración del Parque Estudiantil Cerro Juana Laínez, establecidos en los Decretos Legislativos No.165-94 y 173- 2006 y demás normativa aplicable.
+ARTÍCULO 3.- La presente Declaratoria recae exclusivamente sobre el Monumento a la Paz y no modifica la condición jurídica, delimitación, dominio ni régimen de administración del Parque Estudiantil Cerro Juana Laínez, establecidos en los Decretos Legislativos No. 165-94 y 173-2006 y demás normativa aplicable.
 
 #### Artículo 4
 

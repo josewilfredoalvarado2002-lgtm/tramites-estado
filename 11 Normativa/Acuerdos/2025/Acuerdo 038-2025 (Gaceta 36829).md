@@ -11,7 +11,7 @@ paginas: "A. 3 - 14"
 sumario: "Acuerdos Nos. 019-2025, 038-2025,066-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250505-36829/download"
 extraido: "2026-11-11"
-huella: "947d1a3e829d0697"
+huella: "ef7a6030efbfe7a0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 038-2025
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Secretaría de Transparencia y Lucha Contra la Corrupción 
 
 CONSIDERANDO: Que el Marco Rector de Control Interno Institucional de los Recursos Públicos emitido por el Tribunal Superior de Cuentas, Guías de Implementación de Control Interno emitidas por la Oficina Nacional de Desarrollo Integral de Control Interno, establecen lo contenido en el presente reglamento.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.5063-2021 de fecha 12 de noviembre del año 2021 y publicado el 19 de enero del año 2022 en el Diario Oficial La Gaceta, aprobó lo contentivo del Reglamento del Comité del Control Interno de la Secretaría de Estado en el Despacho de Salud.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 5063-2021 de fecha 12 de noviembre del año 2021 y publicado el 19 de enero del año 2022 en el Diario Oficial La Gaceta, aprobó lo contentivo del Reglamento del Comité del Control Interno de la Secretaría de Estado en el Despacho de Salud.
 
 POR TANTO: En uso de las facultades de que está investido y en aplicación de los artículos: 145, 149, 222 y 245 numeral
 

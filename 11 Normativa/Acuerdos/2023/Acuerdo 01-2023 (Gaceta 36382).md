@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdo Ejecutivo No. 01-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231113-36382/download"
 extraido: "2026-11-14"
-huella: "5c8dc28b92407af6"
+huella: "a491fb9ce8cc7fe8"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 01-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad al Artículo 11 de la Ley General de la Adminis
 
 CONSIDERANDO: El Artículo 37 numeral 2), de la Ley Orgánica del Presupuesto, señala que la competencia para autorizar transferencias entre asignaciones presupuestarias aprobadas para cada Ejercicio Fiscal, prescribe que corresponde al Presidente de la República autorizar las transferencias de fondos presupuestarios entre Secretarías de Estado, Instituciones Descentralizadas y entre ambas.
 
-CONSIDERANDO: Que el Decreto Legislativo No.157- 2022, que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2023, en el artículo 42 establece que con el propósito de operativizar los traslados autorizados por la Presidenta de la República de acuerdo con lo establecido en el artículo 37 numeral 2 de la Ley Orgánica del Presupuesto, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que ejecute las operaciones necesarias a fin de hacer efectivos dichos traslados.
+CONSIDERANDO: Que el Decreto Legislativo No. 157-2022, que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2023, en el artículo 42 establece que con el propósito de operativizar los traslados autorizados por la Presidenta de la República de acuerdo con lo establecido en el artículo 37 numeral 2 de la Ley Orgánica del Presupuesto, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que ejecute las operaciones necesarias a fin de hacer efectivos dichos traslados.
 
 CONSIDERANDO: Que el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) es una institución descentralizada, creada mediante el Decreto Legislativo No. 91 emitido el 26 de abril de 1961, como un organismo autónomo de servicio público.
 
@@ -55,7 +55,7 @@ POR TANTO, En uso de las facultades de que está investida y en aplicación de l
 
 37 numeral 2) y 38 de la Ley Orgánica del Presupuesto;
 
-42 del Decreto Legislativo No.157-2022 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el Ejercicio Fiscal del año 2023; Decreto Legislativo No. 91 emitido el 26 de abril de 1961; 16, 48 y 53 del Decreto Legislativo No. 118 - 2003 contentivo de la Ley Marco del Sector Agua Potable y Saneamiento; 60 del Acuerdo No. 006 del año 2004, emitido por la Secretaría de Estado en el Despacho de Salud que contiene el Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento.
+42 del Decreto Legislativo No. 157-2022 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el Ejercicio Fiscal del año 2023; Decreto Legislativo No. 91 emitido el 26 de abril de 1961; 16, 48 y 53 del Decreto Legislativo No. 118 - 2003 contentivo de la Ley Marco del Sector Agua Potable y Saneamiento; 60 del Acuerdo No. 006 del año 2004, emitido por la Secretaría de Estado en el Despacho de Salud que contiene el Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 12 - 15"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211231-35811/download"
 extraido: "2026-11-14"
-huella: "f6aa440666870818"
+huella: "4942d59a9398566b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-142-2021
@@ -41,7 +41,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar la vigencia hasta el veintiséis (26) de enero del año dos mil veintidós (2022) de las Comisiones Interventoras del Instituto Hondureño de Seguridad Social (IHSS); el Hospital Escuela Universitario (HEU); la Empresa Nacional de Energía Eléctrica (ENEE); el Hospital Mario Catarino Rivas; y, la Empresa de Correos de Honduras (HONDUCOR), creadas mediante Decretos Ejecutivos PCM Número 011-2014; 78-2018; 067-2019; 003-2020; y, 010- 2021, respectivamente.
+ARTÍCULO 1.- Prorrogar la vigencia hasta el veintiséis (26) de enero del año dos mil veintidós (2022) de las Comisiones Interventoras del Instituto Hondureño de Seguridad Social (IHSS); el Hospital Escuela Universitario (HEU); la Empresa Nacional de Energía Eléctrica (ENEE); el Hospital Mario Catarino Rivas; y, la Empresa de Correos de Honduras (HONDUCOR), creadas mediante Decretos Ejecutivos PCM Número 011-2014; 78-2018; 067-2019; 003-2020; y, 010-2021, respectivamente.
 
 #### Artículo 2
 

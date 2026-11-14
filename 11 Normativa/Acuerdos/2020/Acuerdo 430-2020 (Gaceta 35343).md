@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo Ejecutivo número 266-2020, Acuerdo número 430-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200814-35343/download"
 extraido: "2026-11-14"
-huella: "96f024c926974ffb"
+huella: "b43d3f8302c20b95"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 430-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Artículo 368 de la Constitución de la República señala 
 
 CONSIDERANDO: Que el Artículo 36, segundo párrafo de la Ley Orgánica de Presupuesto autoriza a la Secretaria de Estado en el Despacho de Finanzas como excepción, para que, incorpore al Presupuesto vigente los recursos externos provenientes de donaciones y de los convenios de préstamo previamente aprobados por el Poder Legislativo.
 
-CONSIDERANDO: Que el Artículo 26 de las Disposiciones Generales de Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020 establece: Sin perjuicio de lo establecido en el Acuerdo No.1341 contentivo de las Normas de Subsistema de Presupuesto, Artículo 24 y con el propósito de Agilizar las Modificaciones Presupuestarias, se utilizará en todos los casos el Formulario de Modificación FMP- 05 denominado “Documentos de Modificación Presupuestaria” generado por el Sistema de Administración Financiera Integrada (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna o de un (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna o de un Dictamen emitido por la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que el Artículo 26 de las Disposiciones Generales de Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020 establece: Sin perjuicio de lo establecido en el Acuerdo No. 1341 contentivo de las Normas de Subsistema de Presupuesto, Artículo 24 y con el propósito de Agilizar las Modificaciones Presupuestarias, se utilizará en todos los casos el Formulario de Modificación FMP-05 denominado “Documentos de Modificación Presupuestaria” generado por el Sistema de Administración Financiera Integrada (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna o de un (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna (SIAFI) el cual tendrá el mismo efecto de una Resolución Interna o de un Dictamen emitido por la Secretaría de Estado en el Despacho de Finanzas.
 
 POR TANTO
 

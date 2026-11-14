@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Acuerdos Ministeriales Nos. 104-2020, 105-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200704-35303/download"
 extraido: "2026-11-14"
-huella: "11dc584021d1ba1e"
+huella: "14087624ebefc1a9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 105-2020
@@ -79,19 +79,15 @@ Secretaria General Administración Aduanera de Honduras CERTIFICACIÓN No. ADUAN
 
 “ACUERDO
 
-No.
+No. ADUANASDE-037-2020.- ADMINISTRACIÓN ADUANERA
 
-ADUANASDE-037-2020.- ADMINISTRACIÓN ADUANERA
-
-DE HONDURAS. Tegucigalpa, M.D.C., 15 de junio del 2020.- CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No.
-
-170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República.
+DE HONDURAS. Tegucigalpa, M.D.C., 15 de junio del 2020.- CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República.
 
 CONSIDERANDO:
 
 Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
 
-CONSIDERANDO: Que mediante Acuerdo No.579- 2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que conforme al artículo 14 del Código Tributario, los plazos legales y reglamentarios se cuentan hasta la medianoche del día correspondiente y en su inciso 29 los plazos establecidos por días se cuentan únicamente los días hábiles administrativos, salvo disposición legal en contrario o habilitación decretada de oficio o a petición de interesados por el órgano competente.
 
@@ -105,7 +101,7 @@ CONSIDERANDO: Que para lograr un mayor control preventivo de contagio de Covid19
 
 POR TANTO:
 
-En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los artículos 255, 321, 323 y 351 de la Constitución de la República; 29 del CAUCA; 642 del Reglamento del Código Uniforme Aduanero (RECAUCA); 14, 15, 81 numerales 1) y 3), 195, 198 y 199 del Código Tributario Decreto 170- 2016; Decreto Ejecutivo PCM-021-2020, de fecha 15 de marzo de 2020; Decreto Ejecutivo PCM-033-2020, de fecha 18 de abril de 2020; Decreto Ejecutivo PCM- 36-2020 del 25 de abril del 2020, y PCM-040-2020 del 2 de mayo del 2020; PCM-045-2020; PCM-48-2020 artículos 45, 116, 45, 116, 118 y 122 de la Ley General de la Administración Pública, Comunicado emitido por la Secretaría de Gobernación, Justicia y Descentralización de fecha 16 de junio del 2020 y demás disposiciones legales aplicables.
+En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los artículos 255, 321, 323 y 351 de la Constitución de la República; 29 del CAUCA; 642 del Reglamento del Código Uniforme Aduanero (RECAUCA); 14, 15, 81 numerales 1) y 3), 195, 198 y 199 del Código Tributario Decreto 170-2016; Decreto Ejecutivo PCM-021-2020, de fecha 15 de marzo de 2020; Decreto Ejecutivo PCM-033-2020, de fecha 18 de abril de 2020; Decreto Ejecutivo PCM-36-2020 del 25 de abril del 2020, y PCM-040-2020 del 2 de mayo del 2020; PCM-045-2020; PCM-48-2020 artículos 45, 116, 45, 116, 118 y 122 de la Ley General de la Administración Pública, Comunicado emitido por la Secretaría de Gobernación, Justicia y Descentralización de fecha 16 de junio del 2020 y demás disposiciones legales aplicables.
 
 ACUERDA:
 

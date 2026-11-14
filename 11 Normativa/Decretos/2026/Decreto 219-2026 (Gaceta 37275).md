@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Decretos Nos. 216-2026, 219-2026, 220-2026, 221-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261022-37275/download"
 extraido: "2026-11-09"
-huella: "c0c336aefcac0365"
+huella: "8bebeece61499c6e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 219-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la trayectoria y servicios prestados por el ciudadano JESÚS E
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

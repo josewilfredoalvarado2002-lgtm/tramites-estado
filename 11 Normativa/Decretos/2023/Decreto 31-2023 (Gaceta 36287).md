@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Decreto No. 19-2023, 31-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230721-36287/download"
 extraido: "2026-11-14"
-huella: "6125cbaaefc6f422"
+huella: "caa34fe7e75afa16"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 31-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

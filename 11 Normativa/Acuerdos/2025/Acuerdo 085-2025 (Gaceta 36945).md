@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdos Nos. 077-2025, 082-2025,084-2025, 085-2025, 086-2025, 087-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250918-36945/download"
 extraido: "2026-11-09"
-huella: "27a07a394fd732a0"
+huella: "69809659bd07a107"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 085-2025
@@ -29,7 +29,7 @@ huella: "27a07a394fd732a0"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que la Ley Forestal en el artículo 18 numeral 1, señala que el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), tiene las atribuciones de administrar el ICF y ejercer la representación legal del mismo.
 
@@ -43,7 +43,7 @@ El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Fores
 
 ACUERDA:
 
-PRIMERO: Delegar en la Jefe Regional del Valle de Agua del Instituto Nacional de Conservación Forestal de Áreas Protegidas y Vida Silvestre, al Ingeniero José Luis Ramos Zelaya, con Documento Nacional de Identificación 0101- 1978-02956, las facultades necesarias para suscribir, en nombre del Director Ejecutivo Luis Edgardo Soliz Lobo, los contratos para la ejecución y construcción del edificio de la Oficina de la Región Forestal del Valle de Aguán en la Ciudad de Olanchito, departamento Yoro, así como la suscripción de contrato de bienes, servicios y/o suministros relacionados con dicho proyecto, en el marco del Programa Interinstitucional de Reforestación y Protección de Cuencas, Sub-Cuencas Hidrográficas y Lechos de Ríos “Padre Andrés Tamayo”.
+PRIMERO: Delegar en la Jefe Regional del Valle de Agua del Instituto Nacional de Conservación Forestal de Áreas Protegidas y Vida Silvestre, al Ingeniero José Luis Ramos Zelaya, con Documento Nacional de Identificación 0101-1978-02956, las facultades necesarias para suscribir, en nombre del Director Ejecutivo Luis Edgardo Soliz Lobo, los contratos para la ejecución y construcción del edificio de la Oficina de la Región Forestal del Valle de Aguán en la Ciudad de Olanchito, departamento Yoro, así como la suscripción de contrato de bienes, servicios y/o suministros relacionados con dicho proyecto, en el marco del Programa Interinstitucional de Reforestación y Protección de Cuencas, Sub-Cuencas Hidrográficas y Lechos de Ríos “Padre Andrés Tamayo”.
 
 También podrá firmar órdenes de inicio, órdenes de cambio, adendas, actas de recepción provisional o definitiva, rescisión de contratos, afectación y liberación de garantías y todo documento relacionado en la ejecución del proyecto.
 
@@ -51,7 +51,7 @@ SEGUNDO: Se instruye a la Jefatura Regional del Valle de Aguán, para que dé se
 
 TERCERO: El delegado es responsable de la función delegada y presentará al finalizar el periodo de delegación un informe detallado de los actos emitidos y ejecutados.
 
-CUARTO: Dejar sin valor ni efecto el Acuerdo No. 006- 2025, de fecha 28 de enero del año 2025, a partir de la firma del presente Acuerdo.
+CUARTO: Dejar sin valor ni efecto el Acuerdo No. 006-2025, de fecha 28 de enero del año 2025, a partir de la firma del presente Acuerdo.
 
 QUINTO: El presente Acuerdo de Delegación, tendrá vigencia a partir de su firma y hasta la finalización de las obras o la rescisión y/o terminación del contrato de obra, bienes, servicios y/o suministros en relación; debiendo publicarse en el Diario Oficial La Gaceta, el portal de transparencia y en la página web del ICF. COMUNÍQUESE y PUBLÍQUESE.
 

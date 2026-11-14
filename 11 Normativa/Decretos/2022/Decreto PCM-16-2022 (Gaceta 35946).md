@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Decreto Ejecutivo número PCM-16-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220610-35946/download"
 extraido: "2026-11-14"
-huella: "622f2a140239f333"
+huella: "1bc7a21dd0d31131"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-16-2022
@@ -55,7 +55,7 @@ CONSIDERANDO: Que la Ley de Contratación del Estado que se podrá realizar la c
 
 POR TANTO, En aplicación de los Artículos 59, 65, 142, 145, 235, 245 numerales 2, 11, 29 y 45; 248 y 252 de la Constitución de la República; Artículos 11, 22 numerales 5, 10 y 13, 116, 117 y 119 de la Ley General de la Administración Pública; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Decreto Ejecutivo Número PCM 07-2022 y demás aplicables.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

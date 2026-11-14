@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decreto No. 38-2022, 26-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220428-35909/download"
 extraido: "2026-11-14"
-huella: "5bc81bbf6c20aaff"
+huella: "5d5ff477b382ed02"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 26-2022
@@ -31,11 +31,11 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad al Artículo 328 de la Constitución de la República, “El sistema económico de Honduras se fundamenta en principios de eficiencia en la producción y justicia social en la distribución de la riqueza y el ingreso nacional, así como en la coexistencia armónica de los factores de la producción que hagan posible la dignificación del trabajo como fuente principal de la riqueza y como medio de realización de la persona humana”.
 
-CONSIDERANDO: Que el Decreto Legislativo No.96- 2021 emitido el 14 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Octubre del año 2021, Edición No.35,749, establece de manera excepcional y como medida económica extraordinaria que el costo del flete marítimo, para propósitos del cálculo del valor en aduana de las mercancías, se determinará con base al veinticinco por ciento (25%) del valor consignado en el Documento de Transporte (Bill of Lading - B/L).
+CONSIDERANDO: Que el Decreto Legislativo No. 96-2021 emitido el 14 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Octubre del año 2021, Edición No. 35,749, establece de manera excepcional y como medida económica extraordinaria que el costo del flete marítimo, para propósitos del cálculo del valor en aduana de las mercancías, se determinará con base al veinticinco por ciento (25%) del valor consignado en el Documento de Transporte (Bill of Lading - B/L).
 
-CONSIDERANDO: Que la emisión del Decreto Legislativo No.96-2021 se justificó en su momento por los elevados costos de importación derivados de los costos de los fletes marítimos en el marco del fenómeno denominado “crisis de los contenedores”, y cuya implicación perjudicaba de manera importante a las personas naturales y jurídicas involucradas en los procesos de importación de mercancías y a la población en general.
+CONSIDERANDO: Que la emisión del Decreto Legislativo No. 96-2021 se justificó en su momento por los elevados costos de importación derivados de los costos de los fletes marítimos en el marco del fenómeno denominado “crisis de los contenedores”, y cuya implicación perjudicaba de manera importante a las personas naturales y jurídicas involucradas en los procesos de importación de mercancías y a la población en general.
 
-CONSIDERANDO: Que las circunstancias que impulsaron la aprobación del Decreto Legislativo No.96-2021 persisten, lo que hace necesario ampliar la vigencia del referido Decreto, hasta el 30 de Junio del año 2022, como una medida para el equilibrio en los costos de importación.
+CONSIDERANDO: Que las circunstancias que impulsaron la aprobación del Decreto Legislativo No. 96-2021 persisten, lo que hace necesario ampliar la vigencia del referido Decreto, hasta el 30 de Junio del año 2022, como una medida para el equilibrio en los costos de importación.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ampliar hasta el 30 de junio del Año 2022 la vigencia del Decreto Legislativo No.96-2021, emitido el 14 de octubre de 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de octubre del año 2021, Edición No.35,749, contentivo de medidas económicas extraordinarias sobre el costo del FLETE MARÍTIMO.
+ARTÍCULO 1.- Ampliar hasta el 30 de junio del Año 2022 la vigencia del Decreto Legislativo No. 96-2021, emitido el 14 de octubre de 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de octubre del año 2021, Edición No. 35,749, contentivo de medidas económicas extraordinarias sobre el costo del FLETE MARÍTIMO.
 
 #### Artículo 2
 

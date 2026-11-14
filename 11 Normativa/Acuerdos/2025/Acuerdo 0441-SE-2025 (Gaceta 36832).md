@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdos Nos. 0441-SE-2025,0442-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250508-36832/download"
 extraido: "2026-11-11"
-huella: "8f7ebf0d689d2f95"
+huella: "b0b5966893d227ee"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0441-SE-2025
@@ -121,7 +121,7 @@ DÉCIMO NOVENO: Es competencia de las Direcciones Departamentales de Educación 
 
 Todos los docentes en servicio estricto, directiva y técnica docentes que se nombren en las Escuelas Normales Bilingües se desempeñarán en una jornada exclusiva- que constará de un tiempo completo de 36 horas y hasta un medio tiempo adicional de 18 horas. Estas últimas serán desempeñadas en las actividades coprogramáticas enunciadas en el numeral uno de este Acuerdo.
 
-VIGÉSIMO: Que los docentes en servicio estricto que formen parte de las estructuras presupuestarias aprobadas en las Escuelas Normales Bilingües para el período 2023- 2025 desempeñarán 36 horas. En el caso de que los docentes queden con jornada de tiempo parcial, se completarán a 36 horas con actividades coprogramáticas o sea jornada de tiempo completo, esto aplica específicamente para aquellas especialidades que su malla curricular no se ajuste a 36 horas frente a educandos en su especialidad y podrá impartir en jornada contraria, hasta un máximo de 18 horas interinas hasta cumplir el requisito de antigüedad para su nombramiento en permanencia.
+VIGÉSIMO: Que los docentes en servicio estricto que formen parte de las estructuras presupuestarias aprobadas en las Escuelas Normales Bilingües para el período 2023-2025 desempeñarán 36 horas. En el caso de que los docentes queden con jornada de tiempo parcial, se completarán a 36 horas con actividades coprogramáticas o sea jornada de tiempo completo, esto aplica específicamente para aquellas especialidades que su malla curricular no se ajuste a 36 horas frente a educandos en su especialidad y podrá impartir en jornada contraria, hasta un máximo de 18 horas interinas hasta cumplir el requisito de antigüedad para su nombramiento en permanencia.
 
 VIGÉSIMO PRIMERO: La Secretaría de Educación en coordinación con la Secretaría de Finanzas creará las estructuras presupuestarias requeridas acorde a la demanda educativa de las Escuelas Normales Bilingües.
 

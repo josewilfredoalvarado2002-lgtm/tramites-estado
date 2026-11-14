@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos de Declaratoria zona de Protección Forestal DE-DCHA-015-2022, 016-2022, 017-2022, 018-2022, 019-2022, 020-2022, 021-2022, 022-2022, 023-2022, 024-2022, 025-2022, 026-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220905-36020/download"
 extraido: "2026-11-14"
-huella: "8f7ba2a258f80c0c"
+huella: "41bc1dc8cf525866"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos de Declaratoria zona de Protección Forestal DE-DCHA-015-2022, 016-2022, 017-2022, 018-2022, 019-2022, 020-2022, 021-2022, 022-2022, 023-2022, 024-2022, 025-2022, 026-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección Las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -109,7 +109,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No. 134-90, artícu
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98- 2007; y, los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98-2007; y, los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -157,7 +157,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones y capitulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -181,7 +181,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No. 134-90, artícu
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -205,7 +205,7 @@ CONSIDERANDO: Que, según la Ley de Municipalidades, Decreto No. 134-90, artícu
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -229,7 +229,7 @@ CONSIDERANDO: Que según la Ley de Municipalidades, Decreto No. 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección, las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -253,7 +253,7 @@ CONSIDERANDO: Que según la Ley de Municipalidades, Decreto No. 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -277,7 +277,7 @@ CONSIDERANDO: Que según la Ley de Municipalidades, Decreto No. 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 
@@ -301,7 +301,7 @@ CONSIDERANDO: Que según la Ley de Municipalidades, Decreto No. 134-90, artícul
 
 CONSIDERANDO: Que según la Ley Forestal, Áreas Protegidas y Vida Silvestre, capítulo IV artículo 124, se declaran como Zonas de Protección las Microcuencas que abastecen o podrían abastecer de agua a poblaciones y capítulo II artículo 64, la declaración de un área forestal como área protegida no prejuzga ninguna condición de dominio o posesión, pero sujeta a quienes tienen derechos de propiedad con dominio pleno, posesión, uso o usufructo a las restricciones, limitaciones y obligaciones que fueren necesarias para alcanzar los fines de utilidad pública que motivan su declaración.
 
-POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98- 2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+POR TANTO: Esta Dirección Ejecutiva en uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120, 121, 122, 123, 124, 125 del capítulo IV sobre “Conservación y Protección de Suelos y Aguas” de la Ley Forestal, Áreas Protegidas y Vida Silvestre Decreto 98-2007; y los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 

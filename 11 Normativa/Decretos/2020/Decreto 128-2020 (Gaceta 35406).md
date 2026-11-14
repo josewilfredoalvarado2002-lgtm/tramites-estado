@@ -8,10 +8,10 @@ gaceta_numero: 35406
 gaceta_fecha: "2020-10-22"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35406 (2020-10-22)|La Gaceta 35406]]"
 paginas: "A. 3 - 4"
-sumario: "Decreto No. 124-2020, 128-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0332-SE-2020"
+sumario: "Decreto No. 124-2020, 128-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0332-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201022-35406/download"
 extraido: "2026-11-14"
-huella: "8b11bd976c768ae5"
+huella: "7173af9aaf01c95c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 128-2020
@@ -23,13 +23,13 @@ huella: "8b11bd976c768ae5"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35406 (2020-10-22)\|La Gaceta 35406]] del 2020-10-22 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Decreto No. 124-2020, 128-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0332-SE-2020 |
+| Según el sumario de La Gaceta | Decreto No. 124-2020, 128-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0332-SE-2020 |
 
 ## Texto
 
 EL CONGRESO NACIONAL:
 
-CONSIDERANDO: Que mediante Decreto No.53-2015, de fecha 29 de Abril del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de Abril del 2015, Edición No. 33,717, el Congreso Nacional, decretó que están exentas del pago del Impuesto Sobre la Renta y sus colaterales, entendiéndose por tales el Impuesto al Activo Neto y la Aportación Solidaria temporal las Cooperativas legalmente establecidas y reconocidas por el Consejo Nacional de Cooperativas (CONSUCOOP). Este Decreto, fue reformado mediante Decreto No 92-2015, de fecha 8 de Septiembre del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 14 de Noviembre del mismo año, Edición No.33,883.
+CONSIDERANDO: Que mediante Decreto No. 53-2015, de fecha 29 de Abril del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de Abril del 2015, Edición No. 33,717, el Congreso Nacional, decretó que están exentas del pago del Impuesto Sobre la Renta y sus colaterales, entendiéndose por tales el Impuesto al Activo Neto y la Aportación Solidaria temporal las Cooperativas legalmente establecidas y reconocidas por el Consejo Nacional de Cooperativas (CONSUCOOP). Este Decreto, fue reformado mediante Decreto No 92-2015, de fecha 8 de Septiembre del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 14 de Noviembre del mismo año, Edición No. 33,883.
 
 CONSIDERANDO: Que el Artículo 16 numerales 1) y 2) del Decreto No. 170-2016 publicado en fecha 18 de Diciembre de 2016 que contiene del Código Tributario, establece:
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Interpretar el Artículo 3 del Decreto No.53- 2015, publicado en el Diario Oficial “La Gaceta”, en fecha 29 de Abril del 2015, en la Edición No.33,717, y sus reformas, en el sentido de que las Cooperativas exentas del pago del Impuesto Sobre la Renta, Impuesto al Activo Neto y la Aportación Solidaria, no deben realizar el trámite de inscripción en el Registro de exonerados que para tal efecto lleva la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Dirección General de Control de Franquicias Aduaneras, en virtud de tratarse de una exención y no de una exoneración.
+ARTÍCULO 1. Interpretar el Artículo 3 del Decreto No. 53-2015, publicado en el Diario Oficial “La Gaceta”, en fecha 29 de Abril del 2015, en la Edición No. 33,717, y sus reformas, en el sentido de que las Cooperativas exentas del pago del Impuesto Sobre la Renta, Impuesto al Activo Neto y la Aportación Solidaria, no deben realizar el trámite de inscripción en el Registro de exonerados que para tal efecto lleva la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Dirección General de Control de Franquicias Aduaneras, en virtud de tratarse de una exención y no de una exoneración.
 
 #### Artículo 2
 

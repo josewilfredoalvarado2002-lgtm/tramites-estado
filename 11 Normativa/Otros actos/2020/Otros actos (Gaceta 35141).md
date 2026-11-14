@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200106-35141/download"
 extraido: "2026-11-14"
-huella: "4dced1fba8b32d4d"
+huella: "90d0c0884f8169a6"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,7 +33,7 @@ ACUERDONÚMERO: 623-2019
 
 Tegucigalpa, M.D.C., 24 de diciembre de 2019 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo No. 497- 2019, de fecha 26 de agosto del 2019, se aprobaron las Normas para el Cierre Contable del Ejercicio Fiscal 2019 y modificaciones realizadas mediante Acuerdos números 591, 606, 606-A y 620/2019, que concluye el 31 de diciembre del 2019 y Disposiciones Operativas de cumplimiento obligatorio para el Sector Público.
+CONSIDERANDO: Que mediante Acuerdo No. 497-2019, de fecha 26 de agosto del 2019, se aprobaron las Normas para el Cierre Contable del Ejercicio Fiscal 2019 y modificaciones realizadas mediante Acuerdos números 591, 606, 606-A y 620/2019, que concluye el 31 de diciembre del 2019 y Disposiciones Operativas de cumplimiento obligatorio para el Sector Público.
 
 CONSIDERANDO: Que de conformidad a la Programación Mensual de Gastos, todas las Instituciones deben realizar la Ejecución Presupuestaria en tiempo y forma.
 

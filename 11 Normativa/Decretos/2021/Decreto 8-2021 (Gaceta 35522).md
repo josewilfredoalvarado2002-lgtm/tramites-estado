@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 8-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210220-35522/download"
 extraido: "2026-11-14"
-huella: "dd6a894b8fff3b25"
+huella: "c99844fbef2c0f93"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 8-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en el contexto de la Pandemia de la COVID-19, Honduras ha sido
 
 CONSIDERANDO: Que en la Ley de Vacunas de la República de Honduras, aprobada mediante Decreto Legislativo No. 288-2013, Edición No. 33,389 de fecha 13 de enero del año 2014 y publicada en el Diario Oficial “La Gaceta” de fecha 26 de marzo del año 2014, se creó el Consejo Consultivo Nacional de Inmunizaciones (CCNI), como órgano de consulta y asesoramiento en las políticas de inmunización, el cual viene funcionando con carácter permanente, autónomo, multidisciplinario, donde se analizan, discuten y recomiendan las políticas a seguir en materia de inmunizaciones, promoviendo y apoyando las acciones de prevención, control, eliminación y erradicación en el territorio nacional, de las enfermedades que pueden evitarse, mediante la administración de vacunas, por lo tanto no se requiere crear otro órgano asesor.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.162-2020, publicado en el Diario Oficial “La Gaceta” No. 35,452 de fecha 7 de diciembre del año 2020, se aprobó la Ley de Vacuna Gratuita para Todos Contra el COVID-19, mediante la cual se garantiza el acceso gratuito y universal a la vacuna contra el virus SARS-COV-2 que produce la enfermedad COVID-19.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 162-2020, publicado en el Diario Oficial “La Gaceta” No. 35,452 de fecha 7 de diciembre del año 2020, se aprobó la Ley de Vacuna Gratuita para Todos Contra el COVID-19, mediante la cual se garantiza el acceso gratuito y universal a la vacuna contra el virus SARS-COV-2 que produce la enfermedad COVID-19.
 
 CONSIDERANDO: Que se vuelve de carácter imperativo buscar de forma inmediata otros mecanismos que fortalezcan la adquisición pronta de vacunas contra el virus SARS-COV-2 que produce la enfermedad COVID-19, primando la vida humana del pueblo hondureño, las cuales se deben adquirir con la debida transparencia.
 
@@ -69,7 +69,7 @@ Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL) y al Inst
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar el Artículo 9 de la LEY DE VACUNA GRATUITA PARA TODOS CONTRA EL COVID-19, contenida en Decreto Legislativo No.162-2020, de fecha 3 de diciembre del 2020 y publicado en el Diario Oficial “La Gaceta” No. 35,452 de fecha 7 de diciembre del año 2020, reformado mediante Decreto Legislativo No. 193- 2020, con fecha 21 de enero del 2021 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,505 publicado en fecha 3 de febrero del 2021.
+ARTÍCULO 2.- Derogar el Artículo 9 de la LEY DE VACUNA GRATUITA PARA TODOS CONTRA EL COVID-19, contenida en Decreto Legislativo No. 162-2020, de fecha 3 de diciembre del 2020 y publicado en el Diario Oficial “La Gaceta” No. 35,452 de fecha 7 de diciembre del año 2020, reformado mediante Decreto Legislativo No. 193-2020, con fecha 21 de enero del 2021 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,505 publicado en fecha 3 de febrero del 2021.
 
 #### Artículo 3
 

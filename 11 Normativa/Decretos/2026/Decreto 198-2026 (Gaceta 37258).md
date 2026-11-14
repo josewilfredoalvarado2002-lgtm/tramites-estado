@@ -11,7 +11,7 @@ paginas: "A. 1 - 88"
 sumario: "Decreto 198-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260929-37258/download"
 extraido: "2026-11-09"
-huella: "4a5640a8a32f4c0d"
+huella: "5199abd732d639a3"
 ---
 <!-- portal:inicio -->
 # DECRETO 198-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -61,7 +61,7 @@ A partir de la entrada en vigencia de la presente Ley, la tarifa aplicada por la
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar los artículos 1, 3, 5, 9, 10, 11, 13, 15, 18, 19, 24 y 27 del Decreto No.404-2013 de fecha 20 de enero del año 2014, publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo del año 2014 y sus reformas, contentivo de la “LEY GENERAL DE LA INDUSTRIA ELÉCTRICA”, los cuales en adelante se leerán así:
+ARTÍCULO 2.- Reformar los artículos 1, 3, 5, 9, 10, 11, 13, 15, 18, 19, 24 y 27 del Decreto No. 404-2013 de fecha 20 de enero del año 2014, publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo del año 2014 y sus reformas, contentivo de la “LEY GENERAL DE LA INDUSTRIA ELÉCTRICA”, los cuales en adelante se leerán así:
 
 “ARTÍCULO 1.- OBJETO DE LA
 
@@ -71,7 +71,7 @@ OBJETO…
 
 I.
 
-L a s a c t i v i d a d e s d e g e n e r a c i ó n , a l m a c e n a m i e n t o , t r a n s m i s i ó n , d i s t r i b u c i ó n y comercialización en el territorio de l a R e p ú b l i c a d e Honduras;
+Las actividades de generación, almacenamiento, transmisión, distribución y comercialización en el territorio de la República de Honduras;
 
 II. …
 
@@ -79,7 +79,7 @@ III. …
 
 IV.
 
-El establecimiento de las condiciones de mercado, técnicas, a d m i n i s t r a t i v a s , e c o n ó m i c a s y regulatorias necesarias para promover el desarrollo de una i n f r a e s t r u c t u r a eléctrica, en generación, transmisión y distrib u c i ó n q u e s e a eficiente, moderna y competitiva, capaz de garantizar la seguridad, c o n f i a b i l i d a d y s o s t e n i b i l i d a d del suministro de energia eléctrica, c o n t r i b u y e n d o a l c r e c i m i e n t o económico, la atracción de inversiones, la generación de empleo, el desarrollo equilibrado de las regiones y el mejoramiento de la calidad de vida de la población hondureña.
+El establecimiento de las condiciones de mercado, técnicas, administrativas, económicas y regulatorias necesarias para promover el desarrollo de una infraestructura eléctrica, en generación, transmisión y distrib u ción que sea eficiente, moderna y competitiva, capaz de garantizar la seguridad, confiabilidad y sostenibilidad del suministro de energia eléctrica, contribuyendo al crecimiento económico, la atracción de inversiones, la generación de empleo, el desarrollo equilibrado de las regiones y el mejoramiento de la calidad de vida de la población hondureña.
 
 B.……………….
 
@@ -89,19 +89,19 @@ D……………….
 
 E. Son objetivos específicos de la Ley:
 
-a) E s t a b l e c e r l a s condiciones para suplir la demanda eléctrica del país al mínimo costo económico;
+a) Establecerlas condiciones para suplir la demanda eléctrica del país al mínimo costo económico;
 
-b) Promover la operación económica, segura y c o n f i a b l e d e l sistema eléctrico y el uso eficiente de la electricidad por parte de los usuarios;
+b) Promover la operación económica, segura y confiable del sistema eléctrico y el uso eficiente de la electricidad por parte de los usuarios;
 
-c) R a c i o n a l i z a r l a utilización de los recursos de energía eléctrica del país;
+c) Racionalizar la utilización de los recursos de energía eléctrica del país;
 
-d) Proteger los derechos d e l o s u s u a r i o s , i n c l u y e n d o l a aplicación de criterios de igualdad y equidad de tal manera que consumidores de una misma categoría sean tratados de la misma manera;
+d) Proteger los derechos de los usuarios, incluyendo la aplicación de criterios de igualdad y equidad de tal manera que consumidores de una misma categoría sean tratados de la misma manera;
 
 e) Asegurar el cumplim i e n t o d e l a s obligaciones de los usuarios;
 
 f) Impedir prácticas desleales o abuso de posición dominante en el mercado y regular aquellas actividades cuya naturaleza impida o restrinja la libre competencia;
 
-g) P r o m o v e r l a c o m p e t i t i v i d a d de los mercados de producción y demanda de electricidad para asegurar el suministro a largo plazo; y,
+g) Promover la competitividad de los mercados de producción y demanda de electricidad para asegurar el suministro a largo plazo; y,
 
 h) Alentar la realización de inversiones privadas en las actividades reguladas por la presente Ley.” “ARTÍCULO 3.- LA COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. Créase la Comisión Reguladora de Energía Eléctrica (CREE), como una entidad desconcentrada de la Presidencia de la República, con independencia funcional, presupuestaria, financiera y facultades administrativas suficientes para asegurar la capacidad técnica y financiera necesaria para el cumplimiento de sus objetivos. La integración y funcionamiento de la Comisión Reguladora de Energía Eléctrica (CREE), se sujetará a lo dispuesto en el presente Artículo.
 
@@ -121,7 +121,7 @@ II. Sentencia penal condenatoria firme;
 
 III. Falta grave en su conducta, probidad o incumplimiento grave de los deberes del cargo; y,
 
-IV. C o n f l i c t o d e i n t e r é s sobreviniente que afecte s u i n d e p e n d e n c i a o imparcialidad no resuelto en plazo razonable de acuerdo con las reglas aplicables a la institución El procedimiento de remoción debe garantizar, como mínimo, notificación escrita de la causal invocada, acceso al expediente, plazo razonable para presentar descargos y medios de prueba, audiencia ante la Junta Nominadora y decisión motivada por parte de la Junta Nominadora.
+IV. Conflicto de interés sobreviniente que afecte su independencia o imparcialidad no resuelto en plazo razonable de acuerdo con las reglas aplicables a la institución El procedimiento de remoción debe garantizar, como mínimo, notificación escrita de la causal invocada, acceso al expediente, plazo razonable para presentar descargos y medios de prueba, audiencia ante la Junta Nominadora y decisión motivada por parte de la Junta Nominadora.
 
 El reglamento desarrollará el procedimiento para remoción, los plazos y actuaciones procedimentales, sin ampliar las causales de remoción establecidas en esta Ley.
 
@@ -149,11 +149,11 @@ III. Contar con experiencia profesional mayor a quince
 
 IV. No ser miembro de juntas directivas, empleado o funcionario de empresas supervisadas por la CREE o de empresas relacionadas con aquellas, requisito que deberá cumplirse con anticipación de tres (3) meses antes de asumir el cargo;
 
-V. N o t e n e r c u e n t a s o responsabilidades pendientes con el Estado; y,
+V. No tener cuentas o responsabilidades pendientes con el Estado; y,
 
 VI. Estar en el pleno goce de sus derechos civiles y políticos.
 
-C. I N T E G R A C I Ó N D E L A JUNTA NOMINADORA Y PROCEDIMIENTO PARA LA EVALUACIÓN Y SELECCIÓN DE LOS COMISIONADOS. La Junta Nominadora será integrada por:
+C. INTEGRACIÓN DE LA JUNTA NOMINADORA Y PROCEDIMIENTO PARA LA EVALUACIÓN Y SELECCIÓN DE LOS COMISIONADOS. La Junta Nominadora será integrada por:
 
 I. Una persona designada por la Secretaría de Estado en el Despacho de Energía (SEN);
 
@@ -231,11 +231,11 @@ G. RESOLUCIONES DE LA CREE Y MEDIOS DE IMPUGNACIÓN.
 
 Las resoluciones de la Comisión Reguladora de Energía Eléctrica (CREE) son adoptadas por mayoría. Los comisionados desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 
-Contra las resoluciones adoptadas por la Comisión Reguladora de Energía Eléctrica (CREE), en el ejercicio de sus funciones procederá el recurso de reposición ante la propia Comisión, el cual le pondrá fin a la vía administrativa. Agotada la vía administrativa queda expedita la vía ante la Jurisdicción de lo Contencioso Administrativo para la revisión judicial de la resolución impugnada.” “ARTÍCULO 5.- EMPRESAS D E G E N E R A C I Ó N Y D E C O M E R C I A L I Z A C I Ó N .
+Contra las resoluciones adoptadas por la Comisión Reguladora de Energía Eléctrica (CREE), en el ejercicio de sus funciones procederá el recurso de reposición ante la propia Comisión, el cual le pondrá fin a la vía administrativa. Agotada la vía administrativa queda expedita la vía ante la Jurisdicción de lo Contencioso Administrativo para la revisión judicial de la resolución impugnada.” “ARTÍCULO 5.- EMPRESAS DE GENERACIÓN Y DE COMERCIALIZACIÓN .
 
 Las empresas generadoras y comercializadoras deberán inscribirse en el Registro Público de Empresas del Sector Eléctrico CREE, suministrando toda la información que se les pida en el formulario de inscripción. Cada vez que se produzcan cambios en las características de las instalaciones o de su operación, las empresas deberán notificar a la Comisión Reguladora de Energía Eléctrica (CREE), para los fines de la actualización de su inscripción en el registro antes referido.
 
-Las Empresas generadoras… Para todas las empresas…” “ARTÍCULO 9.- OPERADOR DEL SISTEMA Y DEL MERCADO E L É C T R I C O N A C I O N A L , INTEGRACIÓN Y FUNCIONES.
+Las Empresas generadoras… Para todas las empresas…” “ARTÍCULO 9.- OPERADOR DEL SISTEMA Y DEL MERCADO ELÉCTRICO NACIONAL, INTEGRACIÓN Y FUNCIONES.
 
 La operación del sistema eléctrico y la administración del mercado eléctrico son actividades de interés público y nacional. Para garantizar independencia, eficiencia, transparencia, continuidad y neutralidad competitiva, dichas funciones serán ejercidas por el Operador del Sistema y del Mercado (OSM), que se sujetará a lo dispuesto en el presente Artículo.
 
@@ -251,11 +251,11 @@ Su organización, composición, funciones y atribuciones se regirán por la pres
 
 Para su puesta en operación, contará con el apoyo de todo organismo público y entidades privadas para la obtención de los documentos fiscales de identificación, permisos, licencias, apertura de cuentas bancarias para la administración de sus fondos y demás autorizaciones o actos necesarios para su adecuado funcionamiento.
 
-B. F I N A N C I A M I E N T O . E l presupuesto del Operador del Sistema y del Mercado será financiado por medio de un cargo por operación del sistema fijado por la Comisión Reguladora de Energía Eléctrica (CREE). El cargo se calculará considerando el presupuesto anual aprobado de conformidad con la reglamentación.
+B. FINANCIAMIENTO . E l presupuesto del Operador del Sistema y del Mercado será financiado por medio de un cargo por operación del sistema fijado por la Comisión Reguladora de Energía Eléctrica (CREE). El cargo se calculará considerando el presupuesto anual aprobado de conformidad con la reglamentación.
 
 Las empresas distribuidoras del Sistema Interconectado Nacional y Consumidores Calificados tienen la obligación de pagar el cargo del Operador del Sistema y del Mercado. El cargo correspondiente a las empresas distribuidoras será trasladado a las tarifas de distribución final de energía eléctrica. El Reglamento de la Ley establecerá el procedimiento para la fijación, recaudación y pago del cargo por operación del sistema.
 
-C. DIRECCIÓN GENERAL, R E P R E S E N T A C I Ó N Y ADMINISTRACIÓN DEL OPERADOR DEL SISTEMA Y MERCADO. La dirección general del Operador del Sistema y del Mercado está a cargo de una Junta Directiva compuesta por diez (10) directores. A la Junta Directiva le corresponderá la representación legal de la entidad, que será ejercida por medio de su presidente.
+C. DIRECCIÓN GENERAL, REPRESENTACIÓN Y ADMINISTRACIÓN DEL OPERADOR DEL SISTEMA Y MERCADO. La dirección general del Operador del Sistema y del Mercado está a cargo de una Junta Directiva compuesta por diez (10) directores. A la Junta Directiva le corresponderá la representación legal de la entidad, que será ejercida por medio de su presidente.
 
 La Junta Directiva ejercerá las funciones de dirección general, aprobación de políticas internas, organización institucional, presupuesto, reglamentos internos, nombramiento y supervisión del director ejecutivo, y demás atribuciones que le correspondan conforme a esta Ley y su reglamento interno.
 
@@ -331,7 +331,7 @@ Y AUDITORÍA. La Junta Directiva del Operador del Sistema y del Mercado presenta
 
 El Operador del Sistema y del Mercado (OSM) adoptará un sistema de planificación y administración financiera plurianual conforme al cual elaborará su proyecto de presupuesto anual. La metodología de revisión y aprobación del presupuesto del OSM deberá respetar la independencia económica y función al de la entidad, limitando la intervención de la Comisión Reguladora de Energía Eléctrica (CREE) a la verificación de la razonabilidad, eficiencia, transparencia y suficiencia de los recursos requeridos, sin sustituir ni interferir innecesariamente en las decisiones internas de gestión técnica, administrativa o presupuestaria del Operador del Sistema y del Mercado (OSM).
 
-L a J u n t a D i re c t i v a p o d r á , excepcionalmente y en forma debidamente justificada, solicitar a la Comisión Reguladora de Energía Eléctrica (CREE) un refuerzo presupuestario, que se reflejará en un ajuste en el cargo por operación necesario para financiar este complemento.
+L a J u n t a D i re ctiva podrá, excepcionalmente y en forma debidamente justificada, solicitar a la Comisión Reguladora de Energía Eléctrica (CREE) un refuerzo presupuestario, que se reflejará en un ajuste en el cargo por operación necesario para financiar este complemento.
 
 Para la fiscalización y el control del manejo de sus fondos y patrimonio, el Operador del Sistema y del Mercado
 
@@ -445,7 +445,7 @@ Aprobar su reglamento interno y demás reglamentos para su administración y fun
 
 Las demás que le correspondan en virtud de esta Ley y el Tratado Marco del Mercado Eléctrico de América Central, sus protocolos y el Reglamento del Marcado Eléctrico Regional (MER).
 
-N. P R O C E D I M I E N T O
+N. PROCEDIMIENTO
 
 D E
 
@@ -487,7 +487,7 @@ Las empresas que operen Sistemas de Almacenamiento de Energía independientes (s
 
 Los pagos de capacidad para centrales generadoras y sistemas de almacenamiento deberán efectuarse en base a su disponibilidad certificada, la cual podrá ser comprobada a solicitud del propietario mediante pruebas y registros operativos, independientemente de la aplicación del despacho económico.
 
-A. C O M E R C I A L I Z A C I Ó N D E
+A. COMERCIALIZACIÓN DE
 
 ELECTRICIDAD. Por medio de las redes de transmisión y/o distribución, las empresas comercializadoras podrán vender energía y otros productos a consumidores calificados y otros agentes del mercado, incluyendo la realización de transacciones regionales o intercambios internacionales de energía en los términos establecidos en la ley y los acuerdos y tratados internacionales vigentes. Las empresas comercializadoras no podrán estar vinculadas con la empresa de distribución de electricidad de los consumidores que abastecen.
 
@@ -623,9 +623,9 @@ De no pactarse dichas condiciones, serán aplicables las disposiciones de la Ley
 
 #### Artículo 3
 
-ARTÍCULO 3.- T R A N S F O R M A C I Ó N D E L A EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE).
+ARTÍCULO 3.- TRANSFORMACIÓN DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE).
 
-A. T R A N S F O R M A C I Ó N
+A. TRANSFORMACIÓN
 
 Y
 
@@ -635,7 +635,7 @@ EMPRESAS SUBSIDIARIAS. Se ordena la transformación y escisión de la Empresa Na
 
 A ese efecto, la Empresa Nacional de Energía Eléctrica (ENEE) deberá transformarse y escindirse en una o más sociedades de generación, de distribución y de transmisión, las cuales serán propiedad del Estado a través de la Empresa Nacional de Energía Eléctrica (ENEE) como empresa matriz. Se entiende por escisión, para efectos del presente Decreto, la reorganización societaria mediante la cual la Empresa Nacional de Energía Eléctrica (ENEE) separa jurídica, operativa, administrativa, financiera y contablemente las actividades de generación, transmisión y distribución, manteniendo a la Empresa Nacional de Energía Eléctrica (ENEE) Matriz la titularidad de los bienes y activos que le transfiera el Estado y asignándolos a las sociedades subsidiarias únicamente para su administración, operación, mantenimiento y custodia, mediante la suscripción de Contratos de Administración, sin transferencia de dominio.
 
-Constitúyase a la actual Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) descrita en el Decreto No.48, de fecha 27 de febrero de 1957 y sus reformas, contentiva de “LEY CONSTITUTIVA DE LA EMPRESA N A C I O N A L D E E N E R G Í A ELÉCTRICA”, como la nueva Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz.
+Constitúyase a la actual Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) descrita en el Decreto No. 48, de fecha 27 de febrero de 1957 y sus reformas, contentiva de “LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA”, como la nueva Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz.
 
 A tal fin, se instruye a la Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) a determinar los activos de infraestructura correspondientes a cada unidad de negocio de las actividades de generación, transmisión y distribución de energía eléctrica, los cuales permanecerán bajo la titularidad de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz y serán asignados a las empresas subsidiarias mediante Contratos de Administración para su administración, operación, mantenimiento y custodia, sin transferencia de dominio; así como a determinar los pasivos, personal, cuentas por cobrar, demás derechos de crédito y contratos correspondientes a cada unidad de negocio y disponer su transferencia a las empresas subsidiarias creadas, con absoluto respeto de los derechos laborales de los trabajadores.
 
@@ -655,9 +655,9 @@ Se constituirán como sociedades mercantiles anónimas unipersonales, con autono
 
 • Empresa Nacional de Energía Eléctrica Generación, Sociedad Anónima Unipersonal;
 
-• Empresa Nacional de Energía Eléctrica Transmisión, S o c i e d a d A n ó n i m a Unipersonal; y,
+• Empresa Nacional de Energía Eléctrica Transmisión, Sociedad Anónima Unipersonal; y,
 
-• Empresa Nacional de Energía Eléctrica Distribución, S o c i e d a d A n ó n i m a Unipersonal, la que podrá dividirse o crear subsidiarias por regiones en el país.
+• Empresa Nacional de Energía Eléctrica Distribución, Sociedad Anónima Unipersonal, la que podrá dividirse o crear subsidiarias por regiones en el país.
 
 b) Capital social. El capital social inicial de cada sociedad será de CIENTO CINCUENTA MILLONES DE LEMPIRAS (L.150,000,000.00), íntegramente suscrito y pagado por la Empresa Nacional de Energía Eléctrica (ENEE) Matriz, en su condición de accionista única. El número, clase y valor nominal de las acciones se determinarán en el respectivo acto constitutivo;
 
@@ -681,7 +681,7 @@ EXENCIÓN. Se exime a la Empresa Nacional de Energía Eléctrica (ENEE) y a las 
 
 D.
 
-A U T O R I Z A C I Ó N
+AUTORIZACIÓN
 
 D E
 
@@ -751,7 +751,7 @@ La exoneración establecida en el presente artículo es de carácter exclusivo p
 
 H.
 
-C O N T R ATO I N I C I A L . S e autoriza a las empresas subsidiarias de distribución y de generación de energía eléctrica resultantes del proceso de reestructuración de la Empresa Nacional de Energía Eléctrica (ENEE) a celebrar un contrato o contratos iniciales de cobertura de energía y potencia provenientes de las centrales de generación propiedad de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz asignadas para su administración y operación a la empresa subsidiaria de generación, por un plazo máximo de diez (10) años.
+CONTR ATO INICIAL . S e autoriza a las empresas subsidiarias de distribución y de generación de energía eléctrica resultantes del proceso de reestructuración de la Empresa Nacional de Energía Eléctrica (ENEE) a celebrar un contrato o contratos iniciales de cobertura de energía y potencia provenientes de las centrales de generación propiedad de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz asignadas para su administración y operación a la empresa subsidiaria de generación, por un plazo máximo de diez (10) años.
 
 El precio de dichos contratos será determinado por la Comisión Reguladora de Energía Eléctrica (CREE) con base en estudios técnicos de costos eficientes que consideren, como mínimo, los costos eficientes de operación y mantenimiento, las inversiones necesarias para asegurar la disponibilidad, seguridad y continuidad del abastecimiento y una remuneración razonable del capital reconocido.
 
@@ -785,7 +785,7 @@ La acción auditora del Tribunal Superior de Cuentas (TSC) consistirá en la rea
 
 Las auditorías operativas y de regularidad contable serán realizadas por los servicios de auditoría interna de las empresas subsidiarias, bajo la supervisión del Comité de Auditoría de la Junta Directiva de la Empresa Nacional de Energía Eléctrica Matriz (ENEE) y por la auditoría externa independiente anual que se establece en este Artículo.
 
-Las empresas subsidiarias estarán sujetas a auditoría externa independiente anual realizada por una firma especializada del más alto estándar disponible en el país. En la contratación de estas auditorías externas, se incluirá la obligación de la firma auditora de observar las normas de auditoría emitidas por el Tribunal Superior de Cuentas (TSC), de acuerdo con lo establecido en el Artículo 49 de la Ley Orgánica del Tribunal Superior de Cuentas, Decreto No.10-2002-E.
+Las empresas subsidiarias estarán sujetas a auditoría externa independiente anual realizada por una firma especializada del más alto estándar disponible en el país. En la contratación de estas auditorías externas, se incluirá la obligación de la firma auditora de observar las normas de auditoría emitidas por el Tribunal Superior de Cuentas (TSC), de acuerdo con lo establecido en el Artículo 49 de la Ley Orgánica del Tribunal Superior de Cuentas, Decreto No. 10-2002-E.
 
 Lo dispuesto en el presente artículo se entiende sin perjuicio del control y fiscalización posterior que corresponde al Tribunal Superior de Cuentas (TSC), conforme a la Constitución de la República y su Ley Orgánica.
 
@@ -809,7 +809,7 @@ Podrán igualmente emitir bonos, obligaciones o cualesquiera otros títulos valo
 
 ARTÍCULO 7.- PRESUPUESTO Y CONTABILIDAD DE LAS EMPRESAS SUBSIDIARIAS.
 
-A. P R E S U P U E S T O D E L A S EMPRESAS SUBSIDIARIAS.
+A. PRESUPUESTO DE LAS EMPRESAS SUBSIDIARIAS.
 
 La Empresa Nacional de Energía Eléctrica matriz coordinará el proceso presupuestario de las empresas subsidiarias. El consejo de administración de cada empresa subsidiaria aprobará su anteproyecto de presupuesto conforme a su plan de negocios, debiendo la Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) Matriz enviar a la Secretaría de Estado en los Despachos de Finanzas (SEFIN) un proyecto de presupuesto consolidado que identifique los agregados presupuestarios de gastos y de inversión de cada empresa.
 
@@ -821,7 +821,7 @@ LAS SUBSIDIARIAS. La Secretaría de Estado en los Despachos de Finanzas (SEFIN) 
 
 La revisión de los presupuestos de las empresas subsidiarias por la Secretaría de Estado en los Despachos de Finanzas (SEFIN) y el Poder Ejecutivo recaerán sobre los agregados presupuestarios.
 
-C. I N C O R P O R A C I Ó N D E L PROYECTO DE PRESUPUESTO AL PRESUPUESTO GENERAL Y REMISIÓN AL CONGRESO NACIONAL. Los proyectos de presupuesto, acompañados del análisis de impacto fiscal de la Secretaría de Estado en los Despachos de Finanzas (SEFIN), serán incorporados al proyecto de Presupuesto General de Ingresos y Egresos de la República, con los ajustes que resulten de dicho análisis, para su presentación ante el Congreso Nacional, ajustándose al calendario de formulación presupuestaria publicado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+C. INCORPORACIÓN DEL PROYECTO DE PRESUPUESTO AL PRESUPUESTO GENERAL Y REMISIÓN AL CONGRESO NACIONAL. Los proyectos de presupuesto, acompañados del análisis de impacto fiscal de la Secretaría de Estado en los Despachos de Finanzas (SEFIN), serán incorporados al proyecto de Presupuesto General de Ingresos y Egresos de la República, con los ajustes que resulten de dicho análisis, para su presentación ante el Congreso Nacional, ajustándose al calendario de formulación presupuestaria publicado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 D. MODIFICACIONES PRESUPU-
 
@@ -833,7 +833,7 @@ Las modificaciones que requieran aportaciones con cargo al Presupuesto General d
 
 E. D É F I C I T O P E R AT I VO D E ENEE DISTRIBUCIÓN. ENEE Distribución deberá incluir en su presupuesto anual, de manera separada y técnicamente sustentada, el déficit operativo proyectado derivado de las pérdidas de energía no reconocidas en el pliego tarifario vigente, así como el impacto de subsidios, tarifas sociales, congelamientos, exoneraciones u otros beneficios tarifarios que resulten aplicables.
 
-ENEE Distribución será responsable de adoptar las medidas financieras, c o m e r c i a l e s , o p e r a t i v a s y administrativas necesarias para cubrir y reducir progresivamente dicho déficit.
+ENEE Distribución será responsable de adoptar las medidas financieras, comerciales, operativas y administrativas necesarias para cubrir y reducir progresivamente dicho déficit.
 
 Cuando el Estado establezca expresamente subsidios, tarifas sociales u otros beneficios que requieran compensación presupuestaria, estos deberán contar previamente con la correspondiente autorización legal, fuente de financiamiento y asignación presupuestaria, de conformidad con la disponibilidad fiscal y el Marco Fiscal de Mediano Plazo.
 
@@ -845,7 +845,7 @@ G. RESPONSABILIDAD Y AUTO-
 
 NOMÍA FINANCIERA. La Empresa Nacional de Energía Eléctrica (ENEE) y sus empresas subsidiarias conservarán su autonomía operativa, comercial, financiera y contractual y, en consecuencia, serán responsables de las obligaciones y compromisos que contraigan en el ejercicio de dicha autonomía.
 
-La ejecución de sentencias en la que se determine responsabilidad se hará bajo el mecanismo previsto y establecido en la Ley de reactivación económica y desarrollo humano contentiva en el Decreto No.17-2026, la reforma a la Ley Orgánica del Presupuesto Decreto No.70-2026 y las Disposiciones Generales del Presupuesto Vigente.
+La ejecución de sentencias en la que se determine responsabilidad se hará bajo el mecanismo previsto y establecido en la Ley de reactivación económica y desarrollo humano contentiva en el Decreto No. 17-2026, la reforma a la Ley Orgánica del Presupuesto Decreto No. 70-2026 y las Disposiciones Generales del Presupuesto Vigente.
 
 H. AUTONOMÍA OPERATIVA Y
 
@@ -891,9 +891,9 @@ E. PROTOCOLO DE PRUEBAS. Los promotores cuyos proyectos piloto hayan obtenido un
 
 F. RESPONSABILIDAD. En el marco del banco de pruebas regulatorio, el promotor actuará a su riesgo y responderá por los daños que se produzcan como consecuencia de las pruebas por incumplimiento de sus términos y condiciones o por fallas técnicas o humanas durante el desarrollo de las pruebas que fueran de su responsabilidad.
 
-G. R E G L A M E N TA C I Ó N D E LOS BANCOS DE PRUEBA
+G. R E G L A M E N TA CIÓN DE LOS BANCOS DE PRUEBA
 
-REGULATORIOS. El reglamento que expida la Comisión Reguladora de Energía Eléctrica (CREE) d e s a r r o l l a r á l o s e s t á n d a r e s particulares de la participación de las partes interesadas, los acuerdos de adscripción de los participantes y el régimen de funcionamiento del banco de pruebas regulatorio, incluyendo sus procedimientos de convocatoria y aprobación, mecanismos de monitoreo, terminación anticipada, cese, penalidades, responsabilidades, garantías y evaluación de resultados.
+REGULATORIOS. El reglamento que expida la Comisión Reguladora de Energía Eléctrica (CREE) desarrollará los estándares particulares de la participación de las partes interesadas, los acuerdos de adscripción de los participantes y el régimen de funcionamiento del banco de pruebas regulatorio, incluyendo sus procedimientos de convocatoria y aprobación, mecanismos de monitoreo, terminación anticipada, cese, penalidades, responsabilidades, garantías y evaluación de resultados.
 
 En los términos y condiciones para la realización de las pruebas, establecidos en la forma que estipule el reglamento, no se podrá prever en ningún caso que el Estado deba resarcir al promotor de las pérdidas patrimoniales resultantes de su participación en el banco de pruebas regulatorio.
 
@@ -903,7 +903,7 @@ Al concluir el período de pruebas, la CREE emitirá un informe público de eval
 
 #### Artículo 9
 
-ARTÍCULO 9.- FACULTADES DE INTERVENCIÓN AL PROGRAMA NACIONAL DE REDUCCIÓN DE PÉRDIDAS. Se instruye a la Empresa Nacional de Energía Eléctrica (ENEE), para que bajo las directrices y coordinación del Poder Ejecutivo intervenga, evalúe, adopte las medidas necesarias y fije plazo de finalización del Programa Nacional para la Reducción de Pérdidas autorizado mediante el Decreto Legislativo No.46- 2022, con base en lo que establece la Ley General de la Administración Pública. El informe resultante de la evaluación deberá publicarse y ponerse a disposición del público a través de los medios oficiales de comunicación de la Empresa Nacional de Energía Eléctrica (ENEE).
+ARTÍCULO 9.- FACULTADES DE INTERVENCIÓN AL PROGRAMA NACIONAL DE REDUCCIÓN DE PÉRDIDAS. Se instruye a la Empresa Nacional de Energía Eléctrica (ENEE), para que bajo las directrices y coordinación del Poder Ejecutivo intervenga, evalúe, adopte las medidas necesarias y fije plazo de finalización del Programa Nacional para la Reducción de Pérdidas autorizado mediante el Decreto Legislativo No. 46-2022, con base en lo que establece la Ley General de la Administración Pública. El informe resultante de la evaluación deberá publicarse y ponerse a disposición del público a través de los medios oficiales de comunicación de la Empresa Nacional de Energía Eléctrica (ENEE).
 
 #### Artículo 10
 
@@ -923,7 +923,7 @@ El Operador del Sistema y del Mercado
 
 (OSM) asumirá las obligaciones, pasivos y contingencias directamente vinculadas con los bienes, contratos, relaciones jurídicas y funciones transferidas, conforme al inventario y balance de transferencia aprobado por la Comisión Reguladora de Energía Eléctrica (CREE). Los pasivos no vinculados directamente con la operación del sistema eléctrico nacional y la administración del mercado eléctrico, así como los pasivos contingentes, litigiosos o no determinados a la fecha de transferencia, continuarán sujetos al proceso de liquidación del ODS, sin perjuicio de las reservas, garantías o mecanismos de cobertura que autorice la CREE para proteger derechos de acreedores, trabajadores y terceros legítimamente interesados.
 
-C. T R A N S F E R E N C I A
+C. TRANSFERENCIA
 
 Y
 
@@ -947,7 +947,7 @@ Una vez en funciones, la Junta Directiva del Operador del Sistema y del Mercado
 
 #### Artículo 11
 
-ARTÍCULO 11.- COMITÉ DE CONDUCCIÓN Y U N I D A D T É C N I C A D E I M P L E M E N T A C I Ó N Y SEGUIMIENTO DE LA REFORMA DEL SUBSECTOR ELÉCTRICO.
+ARTÍCULO 11.- COMITÉ DE CONDUCCIÓN Y UNIDAD TÉCNICA DE IMPLEMENTACIÓN Y SEGUIMIENTO DE LA REFORMA DEL SUBSECTOR ELÉCTRICO.
 
 A. COMITÉ DE CONDUCCIÓN.
 
@@ -983,17 +983,17 @@ G. PUBLICIDAD Y RESERVA.
 
 La Unidad Técnica elaborará informes internos de seguimiento con la periodicidad que establezca el reglamento y publicará informes trimestrales de avance en los sitios web oficiales de la Secretaría de Estado en el Despacho de la Presidencia y de la Secretaría de Estado en el Despacho de Energía (SEN), sin perjuicio de la información que deba mantenerse reservada conforme a la Ley;
 
-H. F I N A N C I A M I E N T O Y R E G L A M E N T A C I Ó N .
+H. FINANCIAMIENTO Y REGLAMENTACIÓN .
 
 Los gastos necesarios para el funcionamiento del Comité de Conducción y de la Unidad Técnica serán financiados con cargo al presupuesto de la Secretaría de Estado en el Despacho de la Presidencia, sin perjuicio de la cooperación técnica o financiera que pueda gestionarse conforme a la Ley;
 
-E l R e g l a m e n t o p a r a e l funcionamiento del Comité de Conducción y de la Unidad Técnica deberá ser emitido por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de la Presidencia, en un plazo no mayor a cuarenta y cinco (45) días hábiles contados a partir de la entrada en vigencia del presente decreto, y deberá desarrollar la organización, integración, perfiles técnicos, régimen de conflictos de interés, deberes de confidencialidad, mecanismos de coordinación, procedimientos de seguimiento, recursos, plazos internos, forma de cierre y demás aspectos necesarios para el funcionamiento del Comité de Conducción y de la Unidad Técnica;
+El Reglamento para el funcionamiento del Comité de Conducción y de la Unidad Técnica deberá ser emitido por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de la Presidencia, en un plazo no mayor a cuarenta y cinco (45) días hábiles contados a partir de la entrada en vigencia del presente decreto, y deberá desarrollar la organización, integración, perfiles técnicos, régimen de conflictos de interés, deberes de confidencialidad, mecanismos de coordinación, procedimientos de seguimiento, recursos, plazos internos, forma de cierre y demás aspectos necesarios para el funcionamiento del Comité de Conducción y de la Unidad Técnica;
 
 H. EXTINCIÓN. El Comité de Conducción y la Unidad Técnica se extinguirán de pleno derecho una vez cumplida la hoja de ruta integral de implementación aprobada conforme a este artículo, sin perjuicio de los mecanismos ordinarios de seguimiento, control, fiscalización y rendición de cuentas que correspondan a las instituciones competentes.
 
 #### Artículo 12
 
-ARTÍCULO 12.- RESPETO AL DERECHO DE SINDICACIÓN Y NEGOCIACIÓN COLECTIVA, PRESERVACIÓN DE DERECHOS ADQUIRIDOS D E R I V A D O S D E L A CONTRATACIÓN COLECTIVA.
+ARTÍCULO 12.- RESPETO AL DERECHO DE SINDICACIÓN Y NEGOCIACIÓN COLECTIVA, PRESERVACIÓN DE DERECHOS ADQUIRIDOS DERIVADOS DE LA CONTRATACIÓN COLECTIVA.
 
 En observancia a lo establecido en el
 
@@ -1005,7 +1005,7 @@ Para el cumplimiento de lo anterior, tanto la Empresa Nacional de Energía Eléc
 
 #### Artículo 13
 
-ARTÍCULO 13.- CONTINUIDAD DEL FONDO DE PRESTACIONES SOCIALES D E L O S E M P L E A D O S PERMANENTES DE LA ENEE. En lo que respecta al Fondo de Prestaciones Sociales de los Empleados Permanentes de la Empresa Nacional de Energía Eléctrica (FPS-ENEE), siendo que el mismo ha venido funcionando como un sistema previsional de naturaleza contributiva, para efectos de determinar el otorgamiento de su personería jurídica, se instruye a la Empresa Nacional de Energía Eléctrica (ENEE) Matriz para que en coordinación con la Comisión Nacional de Bancos y Seguros (CNBS), presenten ante el Congreso Nacional, en un plazo no mayor de doce (12) meses contados a partir de la entrada en vigencia del presente Decreto, un informe que incluya, como mínimo lo siguiente:
+ARTÍCULO 13.- CONTINUIDAD DEL FONDO DE PRESTACIONES SOCIALES DE LOS EMPLEADOS PERMANENTES DE LA ENEE. En lo que respecta al Fondo de Prestaciones Sociales de los Empleados Permanentes de la Empresa Nacional de Energía Eléctrica (FPS-ENEE), siendo que el mismo ha venido funcionando como un sistema previsional de naturaleza contributiva, para efectos de determinar el otorgamiento de su personería jurídica, se instruye a la Empresa Nacional de Energía Eléctrica (ENEE) Matriz para que en coordinación con la Comisión Nacional de Bancos y Seguros (CNBS), presenten ante el Congreso Nacional, en un plazo no mayor de doce (12) meses contados a partir de la entrada en vigencia del presente Decreto, un informe que incluya, como mínimo lo siguiente:
 
 a) Un estudio actuarial actualizado del Fondo;
 
@@ -1015,7 +1015,7 @@ c) Las observaciones y recomendaciones necesarias para la verificación de la fa
 
 #### Artículo 14
 
-ARTÍCULO 14.- S E G U R I D A D N A C I O N A L P R O T E C C I Ó N E S P E C I A L DE LAS TIERRAS PARA LOS PROYECTOS DE ENERGÍA. Se declara de orden público, interés nacional, prioridad estratégica nacional todas las tierras destinadas a proyectos de generación, almacenamiento, transmisión y distribución de energía eléctrica, en cualquiera que sea la fuente para su producción, así como las servidumbres, acceso e inmuebles donde se encuentren ubicadas las instalaciones, obras y demás infraestructuras auxiliares indispensables para la prestación del servicio de energía eléctrica.
+ARTÍCULO 14.- SEGURIDAD NACIONAL PROTECCIÓN ESPECIAL DE LAS TIERRAS PARA LOS PROYECTOS DE ENERGÍA. Se declara de orden público, interés nacional, prioridad estratégica nacional todas las tierras destinadas a proyectos de generación, almacenamiento, transmisión y distribución de energía eléctrica, en cualquiera que sea la fuente para su producción, así como las servidumbres, acceso e inmuebles donde se encuentren ubicadas las instalaciones, obras y demás infraestructuras auxiliares indispensables para la prestación del servicio de energía eléctrica.
 
 #### Artículo 15
 
@@ -1029,7 +1029,7 @@ La Empresa Nacional de Energía Eléctrica (ENEE) suscribirá convenios obligato
 
 #### Artículo 16
 
-ARTÍCULO 16.- D E S C A R G A R A C T I V O S INSERVIBLES E IRREPARABLES DE LA EMPRESA NACIONAL DE ENERGIA ELÉCTRICA (ENEE).
+ARTÍCULO 16.- DESCARGAR ACTIVOS INSERVIBLES E IRREPARABLES DE LA EMPRESA NACIONAL DE ENERGIA ELÉCTRICA (ENEE).
 
 La Empresa Nacional de Energía Eléctrica (ENEE) podrá descargar de sus registros internos y en Bienes Nacionales, aquellos bienes muebles, equipos, maquinaria, materiales, vehículos, herramientas, repuestos o demás activos que, por su estado físico, obsolescencia tecnológica, desgaste, destrucción parcial o total, falta de utilidad operativa o imposibilidad técnica o económica de reparación, hayan dejado de ser aptos para el cumplimiento de sus fines institucionales.
 
@@ -1055,7 +1055,7 @@ Los costos de tales contratos podrán transferirse a las tarifas únicamente dur
 
 Dichos contratos podrán ser renovados, prorrogados o extendidos, con la aprobación del Congreso Nacional, previa homologación al marco legal y regulatorio vigente y en mejores condiciones de precio para la Empresa Nacional de Energía Eléctrica (ENEE).
 
-B. M O D I F I C A C I O N E S D E
+B. MODIFICACIONES DE
 
 MUTUO ACUERDO. Se faculta a la Empresa Nacional de Energía Eléctrica (ENEE), de mutuo acuerdo con las empresas generadoras, a efectuar las modificaciones que pudieran ser necesarias en los contratos suscritos previo a la entrada en vigencia del presente decreto, en caso de que el nuevo esquema contenido en el presente decreto afectara la efectividad de los mismos, previa no objeción expresa de la Comisión Reguladora de Energía Eléctrica (CREE);
 
@@ -1089,13 +1089,11 @@ I. A partir de la entrada en vigencia de este decreto, toda referencia al Centro
 
 J. El Poder Ejecutivo, mediante Decreto aprobado en Consejo de Secretarios de Estado, a propuesta de la Secretaría de Estado en el Despacho de Energía (SEN) y con dictamen favorable de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) sobre su financiamiento, podrá establecer subsidios explícitos al pago del servicio eléctrico. Los subsidios podrán beneficiar a usuarios residenciales de bajos ingresos o en situación de vulnerabilidad socioeconómica, micro y pequeñas empresas u otras categorías de usuarios definidas con base en criterios objetivos de política social, productiva o de interés público. El Decreto respectivo establecerá sus beneficiarios, criterios de elegibilidad, vigencia, fuente de financiamiento y modalidad de aplicación. Los subsidios se aplicarán de manera separada y explícita sobre la factura del usuario beneficiario, tomando como base las tarifas aprobadas por la Comisión Reguladora de Energía Eléctrica (CREE), sin modificar su cálculo ni trasladar su costo a otros usuarios. Su aplicación no podrá cargar a una categoría de usuarios costos atribuibles a otra, ni afectar la suficiencia de ingresos de las empresas distribuidoras. El financiamiento de los subsidios será obligación del Estado y deberá provenir de asignaciones expresas del Presupuesto General de Ingresos y Egresos de la República u otra fuente fiscal aprobada por SEFIN.
 
-Ningún subsidio podrá aplicarse sin fuente de financiamiento y disponibilidad presupuestaria; y, K. D u r a n t e e l p r o c e s o d e transformación y escisión de la Empresa Nacional de Energía Eléctrica (ENEE) y sus subsidiarias, el Comité de Conducción de la Reforma del Subsector Eléctrico debe presentar informes de los avances y resultados de forma trimestral a la Comisión Ordinaria de Energía del Congreso Nacional de la República de Honduras.
+Ningún subsidio podrá aplicarse sin fuente de financiamiento y disponibilidad presupuestaria; y, K. Durante el proceso de transformación y escisión de la Empresa Nacional de Energía Eléctrica (ENEE) y sus subsidiarias, el Comité de Conducción de la Reforma del Subsector Eléctrico debe presentar informes de los avances y resultados de forma trimestral a la Comisión Ordinaria de Energía del Congreso Nacional de la República de Honduras.
 
 #### Artículo 18
 
-ARTÍCULO 18.- Reformar el Artículo 7 del Decreto No.
-
-48-1957, reformado por el Decreto No.755-1979 de fecha 23 de abril de 1979, publicado en el Diario Oficial “La Gaceta” No.22,813 del 30 de mayo de 1979, contentivo de la “LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA”, el cual en adelante se leerá así:
+ARTÍCULO 18.- Reformar el Artículo 7 del Decreto No. 48-1957, reformado por el Decreto No. 755-1979 de fecha 23 de abril de 1979, publicado en el Diario Oficial “La Gaceta” No. 22,813 del 30 de mayo de 1979, contentivo de la “LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA”, el cual en adelante se leerá así:
 
 #### Artículo 7
 
@@ -1279,11 +1277,11 @@ Vencido el plazo de tres (3) meses, la Empresa Distribuidora o la Empresa Nacion
 
 #### Artículo 32
 
-ARTÍCULO 32.- R E G I S T R O N A C I O N A L
+ARTÍCULO 32.- REGISTRO NACIONAL
 
 D E
 
-C U M P L I M I E N T O , CONSTANCIA DE SOLVENCIA E INTEROPERABILIDAD.
+CUMPLIMIENTO, CONSTANCIA DE SOLVENCIA E INTEROPERABILIDAD.
 
 Créase el Registro Nacional de Cumplimiento del Servicio Eléctrico, administrado por la Empresa Nacional de Energía Eléctrica (ENEE), en el que se inscribirán las obligaciones firmes derivadas de hurto o fraude eléctrico, manipulación de equipos de medición y demás conductas previstas en esta Ley, una vez concluido el procedimiento respectivo y garantizado el derecho de defensa del interesado.
 
@@ -1323,21 +1321,21 @@ ARTICULO 35.- Se ordena a la Empresa Nacional de Energía Eléctrica (ENEE) para
 
 #### Artículo 36
 
-ARTÍCULO 36.- D E R O G A C I Ó N
+ARTÍCULO 36.- DEROGACIÓN
 
 D E DISPOSICIONES. Se establecen la derogatoria de las disposiciones legales siguientes:
 
-a) Los artículos 1, 2, 3, 4, 5, 6, 10, 11, 12, 13, 14, 15, 16, 17 y 18 del Decreto No.46-2022 contentivo de la LEY ESPECIAL PARA GARANTIZAR EL SERVICIO DE LA ENERGÍA ELÉCTRICA COMO UN BIEN PÚBLICO DE SEGURIDAD NACIONAL Y UN DERECHO HUMANO DE NATURALEZA ECONÓMICA Y SOCIAL, publicado en el Diario Oficial “La Gaceta” en fecha 16 de mayo del 2022;
+a) Los artículos 1, 2, 3, 4, 5, 6, 10, 11, 12, 13, 14, 15, 16, 17 y 18 del Decreto No. 46-2022 contentivo de la LEY ESPECIAL PARA GARANTIZAR EL SERVICIO DE LA ENERGÍA ELÉCTRICA COMO UN BIEN PÚBLICO DE SEGURIDAD NACIONAL Y UN DERECHO HUMANO DE NATURALEZA ECONÓMICA Y SOCIAL, publicado en el Diario Oficial “La Gaceta” en fecha 16 de mayo del 2022;
 
 b) Una vez que adquiera plena eficacia la escisión de la Empresa Nacional de Energía Eléctrica (ENEE) ordenada conforme al
 
-Artículo 2 literal A de este Decreto, quedarán plenamente derogados los literales a), b) y d) del Artículo 2, numerales 1), 2), 4), 5), 6) y 7) del Artículo 3, numerales 1) y 4) de los artículo 16, 17, 18, 19 y 21 de la LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE) contenida en el Decreto No.48, del 27 de febrero de 1957 contentivo de la LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA y toda otra disposición que se oponga a lo dispuesto en este Decreto;
+Artículo 2 literal A de este Decreto, quedarán plenamente derogados los literales a), b) y d) del Artículo 2, numerales 1), 2), 4), 5), 6) y 7) del Artículo 3, numerales 1) y 4) de los artículo 16, 17, 18, 19 y 21 de la LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE) contenida en el Decreto No. 48, del 27 de febrero de 1957 contentivo de la LEY CONSTITUTIVA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA y toda otra disposición que se oponga a lo dispuesto en este Decreto;
 
 c) Los artículos 28 y 29 de la LEY
 
 GENERAL DE LA INDUSTRIA
 
-ELÉCTRICA, Decreto No.404- 2013, publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo de 2014; y,
+ELÉCTRICA, Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo de 2014; y,
 
 d) Todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
 

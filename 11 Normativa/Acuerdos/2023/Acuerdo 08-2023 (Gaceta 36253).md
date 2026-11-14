@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 08/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230613-36253/download"
 extraido: "2026-11-14"
-huella: "c5848d16541584ed"
+huella: "8f5be9f41ef4e23c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 08/2023
@@ -27,7 +27,7 @@ huella: "c5848d16541584ed"
 
 ## Texto
 
-ACUERDO No.08/2023.- Sesión No.4029 del 25 de mayo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+ACUERDO No. 08/2023.- Sesión No. 4029 del 25 de mayo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de conformidad con lo dispuesto en el Artículo 17 de la Ley de Transparencia y Acceso a la Información Pública, la clasificación de información reservada procede cuando el daño que puede producirse es mayor que el interés público de conocer la misma o cuando la divulgación de la información ponga en riesgo o perjudique la seguridad del Estado o la estabilidad económica, financiera o monetaria del país.
 
@@ -45,7 +45,7 @@ Con fundamento en los artículos 255 de la Constitución de la República; 32 de
 
 6 y 16 de la Ley del Banco Central de Honduras; 3, numeral 6), 17, 18 y 19 de la Ley de Transparencia y Acceso a la Información Pública; 27 del Reglamento de la Ley de Transparencia y Acceso a la Información Pública y en las resoluciones No.SO-341-2021 y No.SO-228-2022 emitidas el 8 de septiembre de 2021 y 1 de junio de 2022, respectivamente, por el Instituto de Acceso a la Información Pública,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -131,7 +131,7 @@ III.
 
 El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial “La Gaceta”.
 
-… Firmas.- REBECA P. SANTOS, PRESIDENTE.- MIGUEL DARIO RAMOS LOBO, VICEPRESIDENTE.- RINA MARÍA OLIVA BRIZIO, DIRECTORA.- G U S T A V O A D O L F O F O N S E C A D U B Ó N , SECRETARIO».
+… Firmas.- REBECA P. SANTOS, PRESIDENTE.- MIGUEL DARIO RAMOS LOBO, VICEPRESIDENTE.- RINA MARÍA OLIVA BRIZIO, DIRECTORA.- GUSTAVO ADOLFO FONSECA DUBÓN, SECRETARIO».
 
 Y para los fines pertinentes, se extiende la presente Certificación en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veinticinco días del mes de mayo de dos mil veintitrés.
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Acuerdos Números 139-2026, 415-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260804-37211/download"
 extraido: "2026-11-09"
-huella: "59d05dd49d7282d3"
+huella: "8d0e1e43eb030fbf"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 415-2026
@@ -67,7 +67,7 @@ ACUERDA:
 
 PRIMERO:
 
-N O M B R A R e n e l C O N S E J O DIRECTIVO de la EMPRESA NACIONAL PORTUARIA (ENP) a los ciudadanos MARÍA ANTONIA RIVERA ROSALES, con Documento Nacional de Identificación Número 0501-1966-08470, en el cargo de Propietaria y HELUI GUADALUPE CASTILLO HUNG, con Documento Nacional de Identificación Número 0801-1976-06478, en el cargo de Suplente, como representantes del Consejo Nacional de Logística (CNL).
+NOMBRAR en el CONSEJO DIRECTIVO de la EMPRESA NACIONAL PORTUARIA (ENP) a los ciudadanos MARÍA ANTONIA RIVERA ROSALES, con Documento Nacional de Identificación Número 0501-1966-08470, en el cargo de Propietaria y HELUI GUADALUPE CASTILLO HUNG, con Documento Nacional de Identificación Número 0801-1976-06478, en el cargo de Suplente, como representantes del Consejo Nacional de Logística (CNL).
 
 SEGUNDO:
 

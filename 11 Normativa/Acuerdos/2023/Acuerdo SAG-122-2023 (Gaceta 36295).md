@@ -8,10 +8,10 @@ gaceta_numero: 36295
 gaceta_fecha: "2023-07-31"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36295 (2023-07-31)|La Gaceta 36295]]"
 paginas: "A. 10 - 12"
-sumario: "Resolución No. 2-2023PODER JUDICIALAcuerdo No. CSJ-6-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUDAcuerdo No. 1777-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIAAcuerdo No. SAG- 122-2023"
+sumario: "Resolución No. 2-2023; PODER JUDICIAL: Acuerdo No. CSJ-6-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD: Acuerdo No. 1777-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA: Acuerdo No. SAG- 122-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230731-36295/download"
 extraido: "2026-11-14"
-huella: "e72b245704ca5248"
+huella: "9046b0fb71198e0f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-122-2023
@@ -23,7 +23,7 @@ huella: "e72b245704ca5248"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36295 (2023-07-31)\|La Gaceta 36295]] del 2023-07-31 |
 | Páginas | A. 10 - 12 |
-| Según el sumario de La Gaceta | Resolución No. 2-2023PODER JUDICIALAcuerdo No. CSJ-6-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUDAcuerdo No. 1777-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIAAcuerdo No. SAG- 122-2023 |
+| Según el sumario de La Gaceta | Resolución No. 2-2023; PODER JUDICIAL: Acuerdo No. CSJ-6-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD: Acuerdo No. 1777-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA: Acuerdo No. SAG- 122-2023 |
 
 ## Texto
 
@@ -51,7 +51,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No. 042- 2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de agosto del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de agosto del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
 
 SEGUNDO: Las empresas nominadas en el Ordinal Primero, podrán realizar la importación del volumen asignado de Cebolla de manera total o parcial, para lo cual deberán presentar la solicitud de las Licencias de Importación ante la Dirección General de Integración Económica y Política Comercial de la Secretaría de Desarrollo Económico.
 

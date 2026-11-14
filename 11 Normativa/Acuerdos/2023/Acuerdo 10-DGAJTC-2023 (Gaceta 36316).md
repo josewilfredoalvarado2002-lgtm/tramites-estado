@@ -11,7 +11,7 @@ paginas: "A. 10 - 14"
 sumario: "Acuerdos Ejecutivos Nos. 09-DGAJTC-2023, 10-DGAJTC-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230824-36316/download"
 extraido: "2026-11-14"
-huella: "fac86908f5f0e838"
+huella: "c642bdd282fcfe58"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 10-DGAJTC-2023
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el artículo 245 numeral 13 de la Constitución de la Repúbli
 
 CONSIDERANDO: Que en fecha 22 de febrero de 2023, la República de Honduras suscribe con el Reino de España el convenio en materia de regulación de las condiciones de entrada y permanencia de cooperantes, voluntarios/as y becarios de nacionalidad no hondureña vinculados/as a la cooperación española y sus familiares.
 
-CONSIDERANDO: que el Convenio entre Honduras y el Reino de España sobre regulación de las condiciones de entrada y permanencia de cooperantes, voluntarios/as y becarios/as de nacionalidad no hondureña vinculados/as a la cooperación española y sus familiares en su a Artículo 6 , numeral 6.1 y 6.2, se establecen las disposiciones sobre las prórrogas solicitadas durante la tramitación del expediente de permiso especial de permanencia o de residencia temporal, así como que los cooperantes no estarán obligados a salir del territorio hondureño o de los territorios CA4, para continuar con su permanencia legal en Honduras.
+CONSIDERANDO: que el Convenio entre Honduras y el Reino de España sobre regulación de las condiciones de entrada y permanencia de cooperantes, voluntarios/as y becarios/as de nacionalidad no hondureña vinculados/as a la cooperación española y sus familiares en su a Artículo 6, numeral 6.1 y 6.2, se establecen las disposiciones sobre las prórrogas solicitadas durante la tramitación del expediente de permiso especial de permanencia o de residencia temporal, así como que los cooperantes no estarán obligados a salir del territorio hondureño o de los territorios CA4, para continuar con su permanencia legal en Honduras.
 
 POR TANTO:
 

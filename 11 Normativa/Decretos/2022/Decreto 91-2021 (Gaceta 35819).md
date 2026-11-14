@@ -11,7 +11,7 @@ paginas: "A. 31 - 32"
 sumario: "Decreto No. 91-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220111-35819/download"
 extraido: "2026-11-14"
-huella: "479ec2358fe19b19"
+huella: "158f5d6721c49a73"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 91-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República, establece en su Artículo 189 que, “El Poder Legislativo “Se reunirá en Sesiones Ordinarias, en la Capital de la República el Veinticinco de Enero de cada año, sin necesidad de convocatoria, y clausurará sus sesiones el Treinta y Uno de Octubre del mismo año”.
 
-CONSIDERANDO: Que el Artículo 55 de la Ley Orgánica del Poder Legislativo, contenida en el Decreto No.363-2013, del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, Edición No.33,335, establece que “El período de sesiones del Congreso Nacional inicia el Veinticinco de Enero de cada año y concluye el Treinta y Uno de Octubre del mismo año”.
+CONSIDERANDO: Que el Artículo 55 de la Ley Orgánica del Poder Legislativo, contenida en el Decreto No. 363-2013, del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, Edición No. 33,335, establece que “El período de sesiones del Congreso Nacional inicia el Veinticinco de Enero de cada año y concluye el Treinta y Uno de Octubre del mismo año”.
 
 CONSIDERANDO: Que tanto en el segundo párrafo del
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- H a b i l i t a r , c o n C A R Á C T E R TRANSITORIO, las Sesiones Ordinarias del Congreso Nacional, desde el Primero de Noviembre de 2021 hasta el Veinte de Enero de 2022.
+ARTÍCULO 1.- Habilitar, con CARÁCTER TRANSITORIO, las Sesiones Ordinarias del Congreso Nacional, desde el Primero de Noviembre de 2021 hasta el Veinte de Enero de 2022.
 
 #### Artículo 2
 

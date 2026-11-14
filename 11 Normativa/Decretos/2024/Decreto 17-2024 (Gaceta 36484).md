@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 15-2024, 17-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240313-36484/download"
 extraido: "2026-11-14"
-huella: "ac7ff8243cb0e2c5"
+huella: "e26a69867ad59685"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 17-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 
 
 CONSIDERANDO: Que es menester que el Estado de Honduras adopte medidas legislativas para cumplir las recomendaciones en materia ambiental, como la sugerida en el Examen Periódico Universal (EPU) que recomendó al Estado de Honduras seguir dando prioridad a los esfuerzos encaminados al reconocimiento y la protección de los periodistas y los defensores de los Derechos Humanos.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2022 del 27 de Mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Junio de 2022, se elevó a la luchadora social y ambientalista hondureña BERTHA ISABEL CÁCERES FLORES a la Categoría de Heroína Nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2022 del 27 de Mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Junio de 2022, se elevó a la luchadora social y ambientalista hondureña BERTHA ISABEL CÁCERES FLORES a la Categoría de Heroína Nacional.
 
 CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

@@ -8,10 +8,10 @@ gaceta_numero: 35243
 gaceta_fecha: "2020-05-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35243 (2020-05-05)|La Gaceta 35243]]"
 paginas: "A. 1 - 4"
-sumario: "Decreto Ejecutivo número PCM-037-2020PODER LEGISLATIVODecretos Nos. 38-2020, 41-2020"
+sumario: "Decreto Ejecutivo número PCM-037-2020; PODER LEGISLATIVO: Decretos Nos. 38-2020, 41-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200505-35243-2/download"
 extraido: "2026-11-14"
-huella: "d2f15a06f4c21bbf"
+huella: "139a92ce7a9b14d9"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-037-2020
@@ -23,7 +23,7 @@ huella: "d2f15a06f4c21bbf"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35243 (2020-05-05)\|La Gaceta 35243]] del 2020-05-05 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-037-2020PODER LEGISLATIVODecretos Nos. 38-2020, 41-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-037-2020; PODER LEGISLATIVO: Decretos Nos. 38-2020, 41-2020 |
 
 ## Texto
 
@@ -43,9 +43,7 @@ CONSIDERANDO: Que conforme a la Constitución de la República el Presidente de 
 
 CONSIDERANDO: Que debido a las medidas de suspensión de garantías constitucionales adoptadas por el Poder Ejecutivo para lograr el aislamiento social y contener la propagación del COVID-19, con lo que la actividad económica se ha visto afectada, se vuelve imperativo garantizar a las familias hondureñas la seguridad alimentaria.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-030-2020, publicado el 9 de abril del 2020, en el Diario Oficial “La Gaceta” en la Edición No.
-
-35,222, SE DECLARA PRIORIDAD NACIONAL EL APOYO AL SECTOR PRODUCTOR DE ALIMENTOS Y AGROINDUSTRIA ALIMENTARIA, SE DECRETAN MEDIDAS PARA ASEGURAR LA SOBERANÍA Y SEGURIDAD ALIMENTARIA.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-030-2020, publicado el 9 de abril del 2020, en el Diario Oficial “La Gaceta” en la Edición No. 35,222, SE DECLARA PRIORIDAD NACIONAL EL APOYO AL SECTOR PRODUCTOR DE ALIMENTOS Y AGROINDUSTRIA ALIMENTARIA, SE DECRETAN MEDIDAS PARA ASEGURAR LA SOBERANÍA Y SEGURIDAD ALIMENTARIA.
 
 POR TANTO, En uso de las facultades contenidas en el artículos 59, 145, 245 numerales 11), 20), 23) y 29), 321, 323, 328, 347 de la Constitución de la República; artículos 11, 22 numeral 5), 116 y 119 de la Ley General de la Administración Pública y su reforma; Decreto Legislativo No. 33-2020; Decreto Ejecutivo número PCM-005-2020 y sus reformas realizadas en virtud de los Decretos Ejecutivos número PCM-016-2020, PCM-022-2020, PCM-023-2020; Decreto Ejecutivo Número PCM-030-2020.
 
@@ -53,9 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 2 y 24 del Decreto Ejecutivo Número PCM-030-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de abril del 2020, Edición No.
-
-35,222, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 2 y 24 del Decreto Ejecutivo Número PCM-030-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de abril del 2020, Edición No. 35,222, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 2.- Para implementar de forma inmediata las acciones que deriven de la presente declaratoria de prioridad nacional y de interés público, se instruye a las instituciones del Poder Ejecutivo, en el marco de sus atribuciones y competencias legales, a intervenir de manera efectiva a través de políticas públicas orientadas al fomento de la producción masiva de alimentos, para lo cual promoverán la implementación de técnicas de innovación y tecnificación en el sector agropecuario, autorizándolas a tomar las medidas necesarias y urgentes para lograr el objetivo establecido en el presente Decreto.
 

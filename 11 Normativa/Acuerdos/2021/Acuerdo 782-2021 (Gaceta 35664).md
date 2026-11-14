@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 782-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210722-35664/download"
 extraido: "2026-11-14"
-huella: "fcf9c5a1dddda00e"
+huella: "87ce10ca54f52e51"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 782-2021
@@ -49,7 +49,7 @@ CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Recursos Naturale
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (MiAmbiente), establecerá relaciones y mecanismos de colaboración con organizaciones no gubernamentales nacionales e internacionales que laboren en asuntos de ambiente.
 
-CONSIDERANDO: Que según Decreto Legislativo 266- 2013, establece en el artículo 29, que es competencia de la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (Mi Ambiente), lo concerniente a formulación, coordinación, ejecución y evaluación de las políticas relacionadas con la protección y aprovechamiento de los recursos hídricos, las fuentes nuevas y renovables de energía, la generación, transmisión y distribución de energía, la actividad minera y a la exploración y explotación de hidrocarburos, las políticas relacionadas con el ambiente, los ecosistemas, el sistema nacional de áreas naturales protegidas y parques nacionales y la protección de la flora y fauna, así como los servicios de Investigación y control de la contaminación en todas sus formas
+CONSIDERANDO: Que según Decreto Legislativo 266-2013, establece en el artículo 29, que es competencia de la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (Mi Ambiente), lo concerniente a formulación, coordinación, ejecución y evaluación de las políticas relacionadas con la protección y aprovechamiento de los recursos hídricos, las fuentes nuevas y renovables de energía, la generación, transmisión y distribución de energía, la actividad minera y a la exploración y explotación de hidrocarburos, las políticas relacionadas con el ambiente, los ecosistemas, el sistema nacional de áreas naturales protegidas y parques nacionales y la protección de la flora y fauna, así como los servicios de Investigación y control de la contaminación en todas sus formas
 
 CONSIDERANDO: Que, con el objeto de optimizar y administrar los recursos financieros captados por Mi Ambiente, para ejecutar programas y proyectos de interés nacional y de competencia de esta Secretaría, es necesario crear una instancia que coordine las operaciones administrativas, financieras, logísticas, de comunicaciones y de asesoría técnica y legal, para los Proyectos a implementarse por MIAMBIENTE, con el apoyo de las agencias de cooperación internacional.
 

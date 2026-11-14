@@ -8,7 +8,7 @@ gaceta_numero: 36975
 gaceta_fecha: "2025-10-24"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36975 (2025-10-24)|La Gaceta 36975]]"
 paginas: "A. 1 - 3"
-sumario: "Decreto No. 57-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 105-2025"
+sumario: "Decreto No. 57-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 105-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251024-36975/download"
 extraido: "2026-11-09"
 huella: "0257f4abe36c603f"
@@ -23,7 +23,7 @@ huella: "0257f4abe36c603f"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36975 (2025-10-24)\|La Gaceta 36975]] del 2025-10-24 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Decreto No. 57-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 105-2025 |
+| Según el sumario de La Gaceta | Decreto No. 57-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 105-2025 |
 
 ## Texto
 

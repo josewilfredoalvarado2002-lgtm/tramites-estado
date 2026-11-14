@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Acuerdo Número 020-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240624-36568/download"
 extraido: "2026-11-14"
-huella: "66a69579a703d748"
+huella: "20f762a71daa6ec1"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 020-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad lo establecido en el párrafo segundo del artí
 
 CONSIDERANDO: Que de conformidad con el párrafo primero del artículo 167 de la Ley Forestal, para el cumplimiento del mandato relacionado en el considerando anterior, la Ley establece que los técnicos del ICF, en el ejercicio de sus funciones, sin previo aviso, podrán practicar inspecciones, auditoras técnicas, tomar fotografías, filmados, requerir la exhibición de documentos que amparen los Planes de Manejo u Operativos, libros de registro u otras acciones afines que se relacionen directamente.
 
-CONSIDERANDO: Que de conformidad con el Decreto 22- 2024, aunado a lo establecido en segundo párrafo del Artículo 166 de la Ley Forestal, Áreas Protegidas y Vida Silvestre y artículo 494 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre, el ICF, debe emitir el Reglamento Especial para el determinar el procedimiento de Faltas y Sanciones Forestales Administrativas.
+CONSIDERANDO: Que de conformidad con el Decreto 22-2024, aunado a lo establecido en segundo párrafo del Artículo 166 de la Ley Forestal, Áreas Protegidas y Vida Silvestre y artículo 494 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre, el ICF, debe emitir el Reglamento Especial para el determinar el procedimiento de Faltas y Sanciones Forestales Administrativas.
 
 CONSIDERANDO: Que de conformidad con el artículo 118 de la Ley General de la Administración Pública, se emitirán por Acuerdo los actos de carácter general que se dicten en el ejercicio de las potestades reglamentarias, cuya motivación estará precedida por la designación de la autoridad que los emite y seguida por la formula “ACUERDA”.
 
@@ -431,7 +431,7 @@ Artículo 16.- La Región Forestal conformará el expediente con su respectivo n
 
 2. Procedimiento Ordinario
 
-D E L P R O C E D I M I E N T O A B R E V I A D O O SIMPLIFICADO
+DEL PROCEDIMIENTO ABREVIADO O SIMPLIFICADO
 
 #### Artículo 17
 

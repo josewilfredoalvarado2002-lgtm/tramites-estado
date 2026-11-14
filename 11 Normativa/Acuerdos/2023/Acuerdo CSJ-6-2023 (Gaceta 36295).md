@@ -8,10 +8,10 @@ gaceta_numero: 36295
 gaceta_fecha: "2023-07-31"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36295 (2023-07-31)|La Gaceta 36295]]"
 paginas: "A. 3 - 4"
-sumario: "Resolución No. 2-2023PODER JUDICIALAcuerdo No. CSJ-6-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUDAcuerdo No. 1777-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIAAcuerdo No. SAG- 122-2023"
+sumario: "Resolución No. 2-2023; PODER JUDICIAL: Acuerdo No. CSJ-6-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD: Acuerdo No. 1777-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA: Acuerdo No. SAG- 122-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230731-36295/download"
 extraido: "2026-11-14"
-huella: "217da1def814d6cc"
+huella: "9402c7eb031b8a00"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-6-2023
@@ -23,7 +23,7 @@ huella: "217da1def814d6cc"
 | Emisor | Poder Judicial |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36295 (2023-07-31)\|La Gaceta 36295]] del 2023-07-31 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Resolución No. 2-2023PODER JUDICIALAcuerdo No. CSJ-6-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUDAcuerdo No. 1777-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIAAcuerdo No. SAG- 122-2023 |
+| Según el sumario de La Gaceta | Resolución No. 2-2023; PODER JUDICIAL: Acuerdo No. CSJ-6-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD: Acuerdo No. 1777-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA: Acuerdo No. SAG- 122-2023 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ Considerando (7): Que todas las personas tienen derecho a obtener la tutela efec
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos: 313 numeral 1 de la Constitución de la República, reformado mediante Decreto Legislativo No. 282-2010, ratificado mediante Decreto Legislativo No. 5-2011; y, 3 transitorio de los Decretos mencionados:
 
-A c u e r d a Primero: Para no afectar el ordenamiento del sistema penitenciario que realizan la Policía Militar del Orden Público y el Instituto Nacional Penitenciario, en el marco de la emergencia del Sistema Penitenciario Nacional, se ordena a los Tribunales de Sentencia y Juzgados de Letras en materia penal de todo el país, que durante la semana del veintiséis al treinta de junio del presente año, se abstengan de realizar juicios orales y públicos o audiencias en las que se requiere la presencia del imputado(a), cuando en dichas causas las personas privadas de libertad se encuentren recluidos en los centros penitenciarios nacionales siguientes: 1) Centro Penitenciario de Támara, Francisco Morazán; 2) Centro Penitenciario El Porvenir “Siria”, Francisco Morazán; 3) Centro Penitenciario La Tolva, ubicado en Morocelí, El Paraíso; 4) Centro Penitenciario El Pozo, ubicado en Ilama, Santa Bárbara; y, 5) Penitenciaría Nacional Femenina de Adaptación Social, ubicada en Támara, Francisco Morazán.
+Acuerda Primero: Para no afectar el ordenamiento del sistema penitenciario que realizan la Policía Militar del Orden Público y el Instituto Nacional Penitenciario, en el marco de la emergencia del Sistema Penitenciario Nacional, se ordena a los Tribunales de Sentencia y Juzgados de Letras en materia penal de todo el país, que durante la semana del veintiséis al treinta de junio del presente año, se abstengan de realizar juicios orales y públicos o audiencias en las que se requiere la presencia del imputado(a), cuando en dichas causas las personas privadas de libertad se encuentren recluidos en los centros penitenciarios nacionales siguientes: 1) Centro Penitenciario de Támara, Francisco Morazán; 2) Centro Penitenciario El Porvenir “Siria”, Francisco Morazán; 3) Centro Penitenciario La Tolva, ubicado en Morocelí, El Paraíso; 4) Centro Penitenciario El Pozo, ubicado en Ilama, Santa Bárbara; y, 5) Penitenciaría Nacional Femenina de Adaptación Social, ubicada en Támara, Francisco Morazán.
 
 Se exceptúa aquellas causas en que la prisión preventiva está próxima a su vencimiento, en cuyo caso sí se deberá realizar el juicio o la audiencia que ya esté señalada.
 

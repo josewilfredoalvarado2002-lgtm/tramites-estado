@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ministeriales Nos. 084-2022, 085-2022, 087-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220917-36030/download"
 extraido: "2026-11-14"
-huella: "b467ee9223f8ac0f"
+huella: "ddc51506debc729f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 085-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que en fecha 12 de julio de 2022, las empresas de la Industria de 
 
 CONSIDERANDO: Que en fecha 31 de agosto de 2022, se reunió la Comisión de Supervisión del referido Convenio, en donde se presentó el informe del análisis técnico realizado por la SDE y SAG, basado en el referido análisis y las recomendaciones de la Comisión Supra mencionada, se autorizó un contingente de importación de maíz blanco por desabasto por la cantidad de treinta y tres mil toneladas métricas (33,000.00 TM), cuya asignación es en base de las compras de la producción nacional de la cosecha 2021-2022, realizadas por las empresas de la Industria de la Harinas de Maíz Blanco y Alimentos para Consumo Humano.
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería (SAG) mediante Oficio No. SAG-1201-2022 de fecha 08 de septiembre de 2022 remitió el Acuerdo No. SAG- 238-2022 del 05 de septiembre de 2022, en el cual solicita a la Secretaría de Desarrollo Económico establecer un Contingente de Importación por Desabasto de Maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por un volumen de treinta y tres mil toneladas métricas (33,000 TM).
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería (SAG) mediante Oficio No. SAG-1201-2022 de fecha 08 de septiembre de 2022 remitió el Acuerdo No. SAG-238-2022 del 05 de septiembre de 2022, en el cual solicita a la Secretaría de Desarrollo Económico establecer un Contingente de Importación por Desabasto de Maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por un volumen de treinta y tres mil toneladas métricas (33,000 TM).
 
 POR TANTO:
 
@@ -49,7 +49,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de desabasto de maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de treinta y tres mil toneladas métricas (33,000 TM), con un DAI del cero por ciento (0%), con una vigencia a partir de la fecha de suscripción del presente Acuerdo hasta el 31 de diciembre de 2022, en aplicación del Acuerdo No. SAG-238- 2022, del 05 de septiembre de 2022, emitido por la Secretaría de Agricultura y Ganadería (SAG), el contingente de desabasto de maíz blanco se distribuirá de la siguiente forma:
+PRIMERO: Aperturar un contingente de desabasto de maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de treinta y tres mil toneladas métricas (33,000 TM), con un DAI del cero por ciento (0%), con una vigencia a partir de la fecha de suscripción del presente Acuerdo hasta el 31 de diciembre de 2022, en aplicación del Acuerdo No. SAG-238-2022, del 05 de septiembre de 2022, emitido por la Secretaría de Agricultura y Ganadería (SAG), el contingente de desabasto de maíz blanco se distribuirá de la siguiente forma:
 
 SEGUNDO: Para la emisión de los certificados del contingente de importación, las empresas nominadas en el Ordinal Primero del presente Acuerdo, deberán presentar la solicitud correspondiente ante la Secretaría General de la Secretaría de Desarrollo Económico, de conformidad a los requisitos y procedimientos de Ley: a) Identificación del solicitante conforme a su Registro Tributario Nacional (R.T.N.) y fotocopia del mismo, incluyendo una breve descripción de la actividad económica; b) Fotocopia de la Tarjeta de Identidad y registro de comerciante individual en el caso de persona natural; c) Fotocopia de la Escritura de constitución, en el caso de persona jurídica; d) Carta de poder debidamente autenticada; e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes; f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013; g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos; h) Todas las copias deben de estar debidamente autenticadas; i) Toda solicitud debe presentar una copia en formato digital (CD o USB).
 

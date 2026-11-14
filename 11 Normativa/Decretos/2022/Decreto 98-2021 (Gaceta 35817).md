@@ -11,7 +11,7 @@ paginas: "A. 1 - 76"
 sumario: "Decreto No. 98-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220108-35817/download"
 extraido: "2026-11-14"
-huella: "c212bd26a8ea75c6"
+huella: "05d625134bcc97c8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 98-2021
@@ -29,11 +29,11 @@ huella: "c212bd26a8ea75c6"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público del 28 de marzo de 2010, publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010, Edición No.32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público del 28 de marzo de 2010, publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010, Edición No. 32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2287 Tramo A suscrito el 4 de noviembre de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de NUEVE MILLONES SEISCIENTOS TREINTA Y UN MIL TRESCIENTOS SESENTA Y OCHO DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 27/100 (US$9,631,368.27), recursos destinados a financiar la ejecución del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE VEHICULAR MARÍTIMO COYOLITO - AMAPALA”, se ampara en el
+CONSIDERANDO: Que el Contrato de Préstamo No. 2287 Tramo A suscrito el 4 de noviembre de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de NUEVE MILLONES SEISCIENTOS TREINTA Y UN MIL TRESCIENTOS SESENTA Y OCHO DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 27/100 (US$9,631,368.27), recursos destinados a financiar la ejecución del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE VEHICULAR MARÍTIMO COYOLITO - AMAPALA”, se ampara en el
 
-Artículo 70 del Decreto No.17-2010.
+Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el objetivo del Proyecto es impulsar el desarrollo económico y social de la zona de injerencia del Proyecto de CONSTRUCCIÓN DEL PUENTE VEHICULAR MARÍTIMO COYOLITO – AMAPALA, aunado a la sostenibilidad ambiental de la zona y del país en general, incrementando la competitividad y mejorando las condiciones del acceso a mercados (comercio de exportaciones e importaciones extra regionales).
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO DE PRÉSTAMO No.2287 TRAMO A, SUSCRITO ENTRE EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario, del Financiamiento de hasta un monto de NUEVE MILLONES SEISCIENTOS TREINTA Y UN MIL TRESCIENTOS SESENTA Y OCHO DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 27/100 (US$ 9,631,368.27), recursos destinados a financiar la ejecución del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE VEHICULAR MARÍTIMO COYOLITOAMAPALA”, que literalmente se lee de la manera siguiente:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO DE PRÉSTAMO No. 2287 TRAMO A, SUSCRITO ENTRE EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario, del Financiamiento de hasta un monto de NUEVE MILLONES SEISCIENTOS TREINTA Y UN MIL TRESCIENTOS SESENTA Y OCHO DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 27/100 (US$ 9,631,368.27), recursos destinados a financiar la ejecución del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE VEHICULAR MARÍTIMO COYOLITOAMAPALA”, que literalmente se lee de la manera siguiente:
 
 “COMPARECENCIA DE LAS PARTES…”.
 
@@ -327,7 +327,7 @@ COMPARECENCIA DE LAS PARTES
 
 En la ciudad de Tegucigalpa, República de Honduras, el día cuatro del mes de noviembre del año dos mil veintiuno; DE UNA PARTE: EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por la señora Andrea Nicolle Kafati Sarmiento, mayor de edad, soltera, Ingeniera Industrial, de nacionalidad hondureña y del domicilio de Tegucigalpa, M.D.C., con Tarjeta de Identidad No. 0703-1989-01308, actuando en su condición de Representante del BCIE quien acredita su representación mediante Testimonio de Escritura Pública número 09 de fecha 11 de febrero de 2021 de Poder General otorgada a su favor por el Presidente Ejecutivo en Funciones del BCIE, formalizado en esta ciudad de Tegucigalpa, ante los oficios de la Notario Edith María López Rivera e inscrito bajo el No. 35, Tomo 300 del Registro Especial de Poderes DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES ABOG. THELMA LETICIA NEDA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
 
-Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL del Instituto de la Propiedad del Departamento de Francisco Morazán con fecha diecinueve (19) de Febrero de 2021,teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Roxana Melani Rodríguez Alvarado, mayor de edad, casada, hondureña, Ingeniera Industrial , con Tarjeta de Identidad No.0704-1983-00356, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas por Ley, de la República de Honduras. Ambas, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL del Instituto de la Propiedad del Departamento de Francisco Morazán con fecha diecinueve (19) de Febrero de 2021,teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Roxana Melani Rodríguez Alvarado, mayor de edad, casada, hondureña, Ingeniera Industrial, con Tarjeta de Identidad No. 0704-1983-00356, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas por Ley, de la República de Honduras. Ambas, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -949,7 +949,7 @@ Se consideran como buenos y válidos cualesquiera saldos a cargo del Prestatario
 
 En caso de reclamación judicial o en cualquier otro en que sea necesario justificar las cantidades que el Prestatario le adeuda al BCIE, se acreditarán las mismas mediante la correspondiente certificación expedida por el Contador del BCIE de acuerdo con su contabilidad, la que será suficiente y tendrá a los efectos de este Contrato de Préstamo, el carácter de documento fehaciente.
 
-A RT Í C U L O 1 4 . - O T R A S D I S P O S I C I O N E S APLICABLES.
+A RT Í C U L O 1 4 . - OTRAS DISPOSICIONES APLICABLES.
 
 Sección 14.01 De Origen de los Bienes y Servicios.
 
@@ -1123,7 +1123,7 @@ No. ABA:
 
 No. de cuenta en el banco intermediario:
 
-Nombre :
+Nombre:
 
 Direcció n
 
@@ -1183,7 +1183,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -1195,7 +1195,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 
@@ -1507,7 +1507,7 @@ Según han sido utilizados en la Sección I, las siguientes definiciones tendrá
 
 (b) El Ajuste del Reemplazo del Índice de Referencia, bajo el entendido, que si el BCIE y el Prestatario no han logrado una determinación con respecto a lo previamente expuesto en 30 días calendario contados a partir de las negociaciones de este numeral (3), entonces;
 
-(4) En cualquier fecha de determinación, una tasa anual equivalente a la suma de: (a) el cálculo mayor de: (i) la Federal Funds Rate en esa fecha más 1%; y, (ii) la tasa por año en efecto y anunciada públicamente por Citibank, N.A. en efecto en ese día, más, (b) el margen de ese día/ ABR , bajo el entendido que cualquiera de las Partes ABR4 puede solicitar en cualquier momento después del día 45 de cualquier determinación referente a esta cláusula (4) que las partes realicen una nueva determinación de Índice de Referencia de Reemplazo relacionado con las cláusulas (1), (2), (3) y (4) de este término definido;
+(4) En cualquier fecha de determinación, una tasa anual equivalente a la suma de: (a) el cálculo mayor de: (i) la Federal Funds Rate en esa fecha más 1%; y, (ii) la tasa por año en efecto y anunciada públicamente por Citibank, N.A. en efecto en ese día, más, (b) el margen de ese día/ ABR, bajo el entendido que cualquiera de las Partes ABR4 puede solicitar en cualquier momento después del día 45 de cualquier determinación referente a esta cláusula (4) que las partes realicen una nueva determinación de Índice de Referencia de Reemplazo relacionado con las cláusulas (1), (2), (3) y (4) de este término definido;
 
 Bajo el entendido que, en el caso de los numerales (1) y (2) anteriores, dicha tasa, o las tasas subyacentes compuestas, o detalladas en la plataforma o cualquier servicio de información que publique dicha tasa o tasas periódicamente como sea seleccionado por el BCIE, en el marco de su razonable discreción. Si el Índice de Referencia de Reemplazo de acuerdo con lo determinado según el criterio de los numerales (1), (2), (3) o (4) antes mencionadas, resultan menores a cero, el Índice de Referencia de Reemplazo será de cero para los fines de este contrato.
 

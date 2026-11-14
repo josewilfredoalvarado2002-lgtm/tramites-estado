@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 45-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260119-37047/download"
 extraido: "2026-11-09"
-huella: "0add2c361e219fcf"
+huella: "89e9ce372e3dc3ab"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 45-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República establece en sus artículos:
 
 CONSIDERANDO: Que el adulto mayor ha perdido capacidad económica, ya que su volumen productivo se ve disminuido al llegar a dicha edad, calificada en el mundo entero, por eso es necesario adecuar el marco normativo con disposiciones legales que tengan como finalidad, fomentar y tutelar el desarrollo integral requerido para el bienestar del estilo y calidad de vida del adulto mayor, garantizando el pleno ejercicio de sus derechos.
 
-CONSIDERANDO: Que la Ley Integral de Protección al Adulto Mayor y Jubilados, contenida en el Decreto No. 199- 2006 del 15 de Enero de 2007, publicado en el Diario Oficial “La Gaceta” de fecha 21 de Julio de 2007, reformado por el Decreto No.59-2023 del 22 de Agosto de 2023, publicado en el Diario Oficial “La Gaceta” de fecha 14 de Febrero de 2024, tiene como finalidad fomentar y tutelar el desarrollo integral del adulto mayor y jubilados, garantizando el ejercicio de sus derechos, estableciendo mecanismos para el beneficio y reconocimiento de los derechos de las personas de edad avanzada. Siendo compromiso histórico del Estado la obligación de hacer menos gravable la vida de los adultos mayores y jubilados, como una forma de compensar los esfuerzos realizados por ellos durante su edad productiva.
+CONSIDERANDO: Que la Ley Integral de Protección al Adulto Mayor y Jubilados, contenida en el Decreto No. 199-2006 del 15 de Enero de 2007, publicado en el Diario Oficial “La Gaceta” de fecha 21 de Julio de 2007, reformado por el Decreto No. 59-2023 del 22 de Agosto de 2023, publicado en el Diario Oficial “La Gaceta” de fecha 14 de Febrero de 2024, tiene como finalidad fomentar y tutelar el desarrollo integral del adulto mayor y jubilados, garantizando el ejercicio de sus derechos, estableciendo mecanismos para el beneficio y reconocimiento de los derechos de las personas de edad avanzada. Siendo compromiso histórico del Estado la obligación de hacer menos gravable la vida de los adultos mayores y jubilados, como una forma de compensar los esfuerzos realizados por ellos durante su edad productiva.
 
 CONSIDERANDO: Que los descuentos otorgados a los adultos mayores y jubilados tienen un impacto directo en su capacidad adquisitiva e influyen positivamente en la salud y bienestar general, debido a que se facilita el acceso a bienes y servicios esenciales como ser medicamentos, atención médica, transporte, servicios públicos y actividades recreativas que les permiten llevar a cabo el envejecimiento activo, saludable y en mejores condiciones. Es por ello, que todas las entidades, instituciones y comercios privados están obligados a otorgar los beneficios a los adultos mayores y jubilados categorizados en la legislación nacional y deben proceder con celeridad, sin excusas ni obstáculos a reconocer el derecho y beneficio en forma total y sin discriminación alguna, sujetándose a la sanción en el caso de no cumplimiento o descalificación, por consiguiente la obligatoriedad de los descuentos ya establecidos y los contenidos en este Decreto no solamente son de obligatorio cumplimiento, sino también parte de la estrategia integral para brindar mejor calidad de vida a los adultos mayores y jubilados.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdos Nos. 379-2022, 473-2022Acuerdos Ejecutivos Nos. 472-2022, 475-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221107-36070/download"
 extraido: "2026-11-14"
-huella: "e784db458c6c42c6"
+huella: "88e7377786a364cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 379-2022
@@ -33,9 +33,7 @@ CONSIDERANDO (1): Que el artículo 246 de la Constitución de la República esta
 
 CONSIDERANDO (2): Que el Estado de Honduras no contaba con un registro estadístico de los pasivos contingentes generados por algunas fuentes de riesgo fiscal y de los posibles impactos negativos que pudiera generarle a las finanzas públicas, por lo que mediante Decreto Legislativo No. 115-2014 se creó la Unidad de Contingencias Fiscales para identificar, cuantificar y valorar los pasivos contingentes provenientes de riesgos fiscales relacionados con Proyectos de Alianza Público- Privado, Demandas Judiciales en contra del Estado, Endeudamiento Municipal, Endeudamiento de las Empresas Públicas y Garantías y Avales otorgados por el Estado de Honduras.
 
-CONSIDERANDO (3): Que la Unidad de Contingencias Fiscales entró en funcionamiento desde el año 2016 y mediante Acuerdo No. 547-2015, publicado en el Diario Oficial La Gaceta Nº.
-
-33,890 de fecha 23 de noviembre de 2015, se aprobó el Reglamento de Funcionamiento de la Unidad de Contingencias Fiscales.
+CONSIDERANDO (3): Que la Unidad de Contingencias Fiscales entró en funcionamiento desde el año 2016 y mediante Acuerdo No. 547-2015, publicado en el Diario Oficial La Gaceta Nº. 33,890 de fecha 23 de noviembre de 2015, se aprobó el Reglamento de Funcionamiento de la Unidad de Contingencias Fiscales.
 
 CONSIDERANDO (4): Que el artículo 11 del Decreto Legislativo No. 143-2010, publicado en el Diario Oficial La Gaceta en fecha 16 de septiembre de 2010, crea la Comisión para la Promoción de la Alianza Público Privado (COALIANZA), la cual fue suprimida mediante Decreto Ejecutivo número PCM 064-2019.
 
@@ -229,7 +227,7 @@ e. Realizar proyecciones de la Cuenta Financiera anual de los proyectos de Alian
 
 f. Actualizar mensualmente la base de datos relacionada con proyectos de Alianza Público Privada.
 
-g. Elaborar trimestralmente estadísticas relacionadas con los Proyectos de Alianza Público Privada (Saldos de Deuda y cuenta financiera APP conforme al MEFP- 2014 del FMI, y otros que se consideren), para su posterior publicación.
+g. Elaborar trimestralmente estadísticas relacionadas con los Proyectos de Alianza Público Privada (Saldos de Deuda y cuenta financiera APP conforme al MEFP-2014 del FMI, y otros que se consideren), para su posterior publicación.
 
 h. Elaborar el informe Anual de Proyectos de Alianza Público Privada para su posterior publicación.
 
@@ -299,7 +297,7 @@ Artículo 15.- Base de datos para el manejo de las demandas judiciales. La Unida
 
 #### Artículo 16
 
-Artículo 16.- Derogatoria. Derogar el Acuerdo No. 547- 2015, publicado en el Diario Oficial La Gaceta Nº 33,890 de fecha 23 de noviembre de 2015, contentivo del Reglamento de la Unidad de Contingencias Fiscales.
+Artículo 16.- Derogatoria. Derogar el Acuerdo No. 547-2015, publicado en el Diario Oficial La Gaceta Nº 33,890 de fecha 23 de noviembre de 2015, contentivo del Reglamento de la Unidad de Contingencias Fiscales.
 
 Área de Riesgos Específicos Jefe de Riesgos Específicos Especialista en Riesgos Especialista en Riesgos Especialista en Riesgos
 

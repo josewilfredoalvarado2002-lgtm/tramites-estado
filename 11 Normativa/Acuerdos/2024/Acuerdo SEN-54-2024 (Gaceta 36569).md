@@ -11,7 +11,7 @@ paginas: "A. 11"
 sumario: "Acuerdos Nos. SEN-114-2023,SEN-120-2023, SEN-136-2023, SEN-01-2024, SEN-03-2024, SEN-17-2024, SEN-037-2024, SEN-38-2024, SEN-51-2024, SEN-54-2024, SEN-57-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240625-36569/download"
 extraido: "2026-11-14"
-huella: "fe87c746fff64e51"
+huella: "6216a97ba0cbd424"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-54-2024
@@ -27,9 +27,7 @@ huella: "fe87c746fff64e51"
 
 ## Texto
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA.- EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD, en el ejercicio de sus facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115- 2022 del 12 de agosto de 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No.
-
-8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
+SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA.- EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD, en el ejercicio de sus facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto de 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 

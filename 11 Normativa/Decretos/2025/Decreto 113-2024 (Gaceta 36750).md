@@ -11,7 +11,7 @@ paginas: "A. 29 - 31"
 sumario: "Decretos Nos. 97-2024, 100-2024, 101-2024, 111-2024, 112-2024, 113-2024, 115-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250127-36750/download"
 extraido: "2026-11-13"
-huella: "731b18576cbb396e"
+huella: "eb0ce260f1f9d9b3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 113-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

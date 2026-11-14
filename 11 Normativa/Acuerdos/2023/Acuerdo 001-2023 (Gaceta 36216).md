@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo 001-2023, 002-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230429-36216/download"
 extraido: "2026-11-14"
-huella: "901c1e7a45d1b8db"
+huella: "3954a1f9192550ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 001-2023
@@ -43,11 +43,11 @@ Proponer al Presidente de la República el otorgamiento de todos los grados de l
 
 CONSIDERANDO:
 
-Que mediante Acuerdo Número 0268-2019 de fecha 06 de febrero del 2019, se autorizó a favor de los Agentes de Investigación: Gerson Ulises García Carbajal y Mary Antonia Tejeda Guzmán, beca para realizar su formación académica en el Curso de Formación de Oficial de Investigación-Investigador Policial Promoción 2019- 2022, en la Escuela de Investigaciones Policiales de la Policía de Investigación de la República de Chile (PDI) “Presidente Arturo Alessandri Palma”, a realizarse en la República de Chile por un periodo de cuatro (4) años a partir del 17 de febrero del 2019 hasta el año 2022.
+Que mediante Acuerdo Número 0268-2019 de fecha 06 de febrero del 2019, se autorizó a favor de los Agentes de Investigación: Gerson Ulises García Carbajal y Mary Antonia Tejeda Guzmán, beca para realizar su formación académica en el Curso de Formación de Oficial de Investigación-Investigador Policial Promoción 2019-2022, en la Escuela de Investigaciones Policiales de la Policía de Investigación de la República de Chile (PDI) “Presidente Arturo Alessandri Palma”, a realizarse en la República de Chile por un periodo de cuatro (4) años a partir del 17 de febrero del 2019 hasta el año 2022.
 
 CONSIDERANDO:
 
-Que el Artículo 40 de la Ley de la Carrera Policial d i c e : “ P R O C E S O D E INCORPORACIÓN. Los hondureños que realicen su formación y/o capacitación en escuelas o centros de formación policial en el extranjero, deben superar el proceso de evaluación, selección y admisión, de acuerdo a los parámetros establecidos, para tal fin. Los títulos otorgados en el extranjero deben ser incorporados mediante el proceso establecido en el reglamento, elaborado por la Dirección Nacional de Educación Policial (DNEP)”.
+Que el Artículo 40 de la Ley de la Carrera Policial dice: “ PROCESO DE INCORPORACIÓN. Los hondureños que realicen su formación y/o capacitación en escuelas o centros de formación policial en el extranjero, deben superar el proceso de evaluación, selección y admisión, de acuerdo a los parámetros establecidos, para tal fin. Los títulos otorgados en el extranjero deben ser incorporados mediante el proceso establecido en el reglamento, elaborado por la Dirección Nacional de Educación Policial (DNEP)”.
 
 CONSIDERANDO:
 
@@ -61,7 +61,7 @@ Los grados deben ser otorgados en estricto orden jerárquico, sin obviar ninguno
 
 CONSIDERANDO:
 
-Que mediante Resolución DEP-No. 007-2022 de fecha 30 de diciembre del 2022, la Dirección de Educación Policial resolvió convalidar la Formación de OFICIAL DE POLICÍA-INVESTIGADOR POLICIAL, obtenida por los ciudadanos Gerson Ulises García Carbajal, con DNI 0801-1994-08069 y Mary Antonia Tejeda Guzmán, con DNI 1201-1992-00822, formación realizada en la Institución Educativa de la República de Chile, Escuela de Investigaciones Policiales “Arturo Alessandri Palma” de la Policía de Investigaciones de Chile, formación integral de cuatro (4) años (2019- 2022), donde obtuvieron el Título respectivo, declarándolo apto para ser propuestos al Ascenso del grado jerárquico de Sub-Inspector de Policía en la Categoría de Oficiales Regulares de la Policía Nacional de Honduras, en virtud de estar debidamente acreditada su formación profesional policial, mediante el Título obtenido en la Escuela de Investigaciones Policiales “Arturo Alessandri Palma” de la Policía de Investigaciones de Chile.
+Que mediante Resolución DEP-No. 007-2022 de fecha 30 de diciembre del 2022, la Dirección de Educación Policial resolvió convalidar la Formación de OFICIAL DE POLICÍA-INVESTIGADOR POLICIAL, obtenida por los ciudadanos Gerson Ulises García Carbajal, con DNI 0801-1994-08069 y Mary Antonia Tejeda Guzmán, con DNI 1201-1992-00822, formación realizada en la Institución Educativa de la República de Chile, Escuela de Investigaciones Policiales “Arturo Alessandri Palma” de la Policía de Investigaciones de Chile, formación integral de cuatro (4) años (2019-2022), donde obtuvieron el Título respectivo, declarándolo apto para ser propuestos al Ascenso del grado jerárquico de Sub-Inspector de Policía en la Categoría de Oficiales Regulares de la Policía Nacional de Honduras, en virtud de estar debidamente acreditada su formación profesional policial, mediante el Título obtenido en la Escuela de Investigaciones Policiales “Arturo Alessandri Palma” de la Policía de Investigaciones de Chile.
 
 POR TANTO;
 

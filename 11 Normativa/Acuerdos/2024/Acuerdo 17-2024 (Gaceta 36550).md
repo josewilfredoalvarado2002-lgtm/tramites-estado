@@ -11,7 +11,7 @@ paginas: "A. 1 - 40"
 sumario: "INSTITUTO HONDUREÑO DE GEOLOGÍA Y MINAS “INHGEOMIN”Acuerdo INHGEOMIN No. 17/2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240603-36550/download"
 extraido: "2026-11-14"
-huella: "c50e36b5b876bb15"
+huella: "357d4aa56256c29c"
 ---
 <!-- portal:inicio -->
 # ACUERDO INHGEOMIN No. 17/2024
@@ -31,11 +31,9 @@ INSTITUTO HONDUREÑO DE GEOLOGÍA Y MINAS
 
 “INHGEOMIN”. - Tegucigalpa Municipio del Distrito Central, veinte de mayo del dos mil veinticuatro.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 238 – 2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta el 2 de abril del año 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042 – 2013 de fecha 2 de agosto del año 2013 publicado en el Diario Oficial La Gaceta, el 4 de septiembre del año 2013, se aprobó el Reglamento de la Ley General de Minería, creando a su vez el Instituto Hondureño de Geología y Minas “INHGEOMIN”, como la Autoridad Minera a nivel nacional facultada para regular la actividad minera, otorgar derechos mineros, fiscalizar su ejercicio, consolidar su Registro, manteniendo una base de datos actualizada de los recursos minerales en el país accesible a los interesados; correspondiéndole asimismo certificar la calidad y cantidad de los recursos minerales previo a su exportación a través de las diferentes Aduanas del País, que sirva de base para el cálculo de los impuestos nacionales y municipales.
 
-238 – 2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta el 2 de abril del año 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042 – 2013 de fecha 2 de agosto del año 2013 publicado en el Diario Oficial La Gaceta, el 4 de septiembre del año 2013, se aprobó el Reglamento de la Ley General de Minería, creando a su vez el Instituto Hondureño de Geología y Minas “INHGEOMIN”, como la Autoridad Minera a nivel nacional facultada para regular la actividad minera, otorgar derechos mineros, fiscalizar su ejercicio, consolidar su Registro, manteniendo una base de datos actualizada de los recursos minerales en el país accesible a los interesados; correspondiéndole asimismo certificar la calidad y cantidad de los recursos minerales previo a su exportación a través de las diferentes Aduanas del País, que sirva de base para el cálculo de los impuestos nacionales y municipales.
-
-CONSIDERANDO: Que mediante ACUERDO No. 126- 2023, La Presidenta Constitucional de la República, nombró al ciudadano CARLOS MAURICIO MARADIAGA ROBLES, en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas, efectivo a partir del ocho de mayo del año dos mil veintitrés.
+CONSIDERANDO: Que mediante ACUERDO No. 126-2023, La Presidenta Constitucional de la República, nombró al ciudadano CARLOS MAURICIO MARADIAGA ROBLES, en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas, efectivo a partir del ocho de mayo del año dos mil veintitrés.
 
 CONSIDERANDO: Que el Artículo 99 inciso k), de la Ley General de Minería, establece que es atribución del Instituto Hondureño de Geología y Minas “INHGEOMIN”, elaborar el Reglamento del Régimen de la Carrera Minera.
 
@@ -1079,7 +1077,7 @@ CAPITULO II. SEGURIDAD EN MISIONES OFICIALES
 
 ARTÍCULO 92.- Las giras de trabajo considerarán horarios de movilización que procuren prevenir, reducir o eliminar los riesgos profesionales y siempre que sea posible se recomienda los siguientes:
 
-i. Salidas de la sede institucional 6:00 AM- 9:00 AM. ii.
+i. Salidas de la sede institucional 6:00 AM-9:00 AM. ii.
 
 Ingreso a la sede institucional máximo 6:00 PM; de tal forma que el día de trabajo deberá ser aprovechado como mínimo en sus ocho (8) horas. iii. En cada gira de trabajo, habrá un responsable técnico (no el motorista) que se encargará de coordinar la hora de salida, ruta a seguir y hora de regreso. iv.
 
@@ -1171,7 +1169,7 @@ Que la Pesquería de Langosta Espinosa (Panulirus argus) se clasifica según el 
 
 Ambos métodos de captura poseen regulaciones específicas para el cumplimiento de una pesquería responsable.
 
-CONSIDERANDO (10): Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS-577- 2020), establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana a los buzos que trabajan en esta pesquería.
+CONSIDERANDO (10): Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS-577-2020), establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana a los buzos que trabajan en esta pesquería.
 
 POR TANTO:
 

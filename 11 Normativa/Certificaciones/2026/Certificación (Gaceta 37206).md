@@ -11,7 +11,7 @@ paginas: "A. 8 - 32"
 sumario: "Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260729-37206/download"
 extraido: "2026-11-09"
-huella: "75d406b1cbe19f4b"
+huella: "fc62d34e50f915f3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "75d406b1cbe19f4b"
 
 El infrascrito, Secretario de la Junta Directiva del Insituto Hondureño de Seguridad Social (IHSS), SAIR ABIMELEC BERRIOS ORDOÑEZ, por este medio CERTIFICA: La Resolución Nº SOJD-IHSS-016-2026-XI de fecha veinticinco
 
-(25) de junio del año dos mil veintiséis (2026), emitida por la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), la cual establece literalmente: “SOJD-IHSS-016- 2026-XI Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS). En la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los veinticinco (25) días del mes de junio del año dos mil veintiséis (2026), VISTO: Para dictar Resolución respecto al “Reglamento para el uso manejo de la flota vehicular propiedad del Instituto Hondureño de Seguridad Social IHSS”. CONSIDERANDO (01): Que, de conformidad con el artículo 59 de la Constitución de la República, “La persona humana es el fin supremo de la sociedad y del Estado.
+(25) de junio del año dos mil veintiséis (2026), emitida por la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), la cual establece literalmente: “SOJD-IHSS-016-2026-XI Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS). En la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los veinticinco (25) días del mes de junio del año dos mil veintiséis (2026), VISTO: Para dictar Resolución respecto al “Reglamento para el uso manejo de la flota vehicular propiedad del Instituto Hondureño de Seguridad Social IHSS”. CONSIDERANDO (01): Que, de conformidad con el artículo 59 de la Constitución de la República, “La persona humana es el fin supremo de la sociedad y del Estado.
 
 Todos tienen la obligación de respetarla y protegerla ...”; en ese mismo sentido, el artículo 65 de este mismo cuerpo legal, expresa que “el derecho a la vida es inviolable”, por su parte, en el artículo 145 constitucional, se establece que: “Se reconoce el derecho a la protección de la salud. Es deber de todos participar en la promoción y preservación de la salud personal y de la comunidad...”. CONSIDERANDO (02):
 
@@ -43,9 +43,7 @@ Que, de conformidad al artículo 5 de la Ley General de la Administración Públ
 
 CONSIDERANDO (09): Que, la Junta Directiva del Instituto Hondureño de Seguridad Social constituye la máxima autoridad de dirección institucional, responsable de la adopción de decisiones estratégicas, administrativas, financieras y normativas que inciden directamente en la gestión del sistema de seguridad social. CONSIDERANDO (10): Que, mediante memorando No. 100-SGMSG-2026 de la Subgerencia de Mantenimiento y Servicios Generales se acredita la aprobación del Reglamento para el Uso, Manejo y Control de la Flota Vehicular Propiedad del IHSS.
 
-CONSIDERANDO (11): Que, mediante memorando No.
-
-3144-GAYF-2026 de fecha dieciséis (16) de marzo del año dos mil veintiséis (2026) la Gerencia Administrativa y Financiera da por aprobado el Reglamento para el Uso, Manejo y Control de la Flota Vehicular Propiedad del IHSS. CONSIDERANDO (12): Que, mediante memorando No. 830-UAL-2026 de fecha veinte (20) de marzo del año dos mil veintiséis (2026), se acredita díctamen legal el cual recomienda lo siguiente: “...
+CONSIDERANDO (11): Que, mediante memorando No. 3144-GAYF-2026 de fecha dieciséis (16) de marzo del año dos mil veintiséis (2026) la Gerencia Administrativa y Financiera da por aprobado el Reglamento para el Uso, Manejo y Control de la Flota Vehicular Propiedad del IHSS. CONSIDERANDO (12): Que, mediante memorando No. 830-UAL-2026 de fecha veinte (20) de marzo del año dos mil veintiséis (2026), se acredita díctamen legal el cual recomienda lo siguiente: “...
 
 ÚNICO: Que, ES PROCEDENTE que la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), emita el acuerdo mediante el cual se apruebe el “Reglamento para el Uso, Manejo y Control de la Flota Vehicular Propiedad del IHSS” de conformidad a lo establecido en los artículos 8, 10,20 numeral 7) de la Ley del Seguro Social; acto que se perfeccionará por medio de la emisión del “Acuerdo” que pudiere corresponder; en vista que al ser revisado y analizado no contraviene con la normativa legal del pais”.
 
@@ -197,7 +195,7 @@ ARTÍCULO 12: CUSTODIA DE LOS VEHÍCULOS. Los motoristas, serán responsables de
 
 El vehículo permanecerá siempre en poder del Motorista y bajo su responsabilidad. Al término de la jornada de trabajo o de la gira de trabajo, los vehículos se guardarán en los parqueos del Instituto. En horas no laborables el vigilante de turno anotará en el “Libro de Novedades”, la hora de entrada o salida de los vehículos y solicitará que el Motorista presente el pase de salida proporcionado por parte de la Subgerencia de Mantenimiento y Servicios Generales o del Departamento de Mantenimiento y Servicios Generales así mismo deberá registrar su nombre y firma.
 
-A RT Í C U L O 1 3 : A B A S T E C I M I E N T O D E
+A RT Í C U L O 1 3 : ABASTECIMIENTO DE
 
 COMBUSTIBLES Y LUBRICANTES. Se establecerá un control de consumo de combustible con referencia hecha al rendimiento de kilómetros por galón de acuerdo a cada tipo de vehículo. Para fines de abastecimiento se utilizará el formulario “orden de combustibles y lubricantes”, mismo que será entregado por los Encargados de Transporte.
 
@@ -249,7 +247,7 @@ ARTÍCULO 19: MEDIDAS DE SEGURIDAD. Todo Motorista y Personal que se conduzca en
 
  Respetar las reglas en cuanto al número de pasajeros y ocupantes así como al peso de equipaje y bienes, tal como lo indica el fabricante y la legislación nacional.
 
- Conducir los vehículos a velocidad moderada (60- 80 Km/h), seguir las indicaciones, instrucciones o reglamentos de la Dirección Nacional de Vialidad y Transporte.
+ Conducir los vehículos a velocidad moderada (60-80 Km/h), seguir las indicaciones, instrucciones o reglamentos de la Dirección Nacional de Vialidad y Transporte.
 
  No fumar dentro del vehículo.
 

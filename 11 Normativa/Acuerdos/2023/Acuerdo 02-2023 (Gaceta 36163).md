@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Nos. 02/2023, 03/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230223-36163/download"
 extraido: "2026-11-14"
-huella: "7bf918bda6e31e4a"
+huella: "12462d5191e2c51f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 02/2023
@@ -35,17 +35,17 @@ Artículo 342 de la Constitución de la República y en los artículos 2 y 6 de 
 
 CONSIDERANDO: Que en el marco del plan de modernización operacional de la política cambiaria y de la estrategia de desarrollo del Mercado Organizado de Divisas, desde junio de 2021, el BCH culminó con el proceso gradual de liberalización del 100% de la entrega de divisas por parte de los agentes cambiarios al BCH, trasladando de esta forma la atención de la demanda de divisas del sector privado de la economía a los agentes cambiarios.
 
-CONSIDERANDO: Que mediante Acuerdo No.06/2021 del 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual fue reformado mediante acuerdos número 16/2021, 04/2022 y 9/2022, del 9 de diciembre de 2021, 5 de marzo de 2022 y 2 de junio de 2022, todos emitidos por el Directorio del Banco Central de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 06/2021 del 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual fue reformado mediante acuerdos número 16/2021, 04/2022 y 9/2022, del 9 de diciembre de 2021, 5 de marzo de 2022 y 2 de junio de 2022, todos emitidos por el Directorio del Banco Central de Honduras.
 
-CONSIDERANDO: Que de acuerdo con la propuesta de la Subgerencia Técnica y la Subgerencia de Estudios Económicos referente a la dinamización en el Mercado Interbancario de Divisas (MID), el Comité de Divisas en Sesión Ordinaria No.01/2023 del 7 de febrero de 2023, de manera unánime aprobó someter a consideración del Directorio pagar una comisión por los traslados que los agentes cambiarios realizan a BCH por los excesos al límite de tenencia de divisas.
+CONSIDERANDO: Que de acuerdo con la propuesta de la Subgerencia Técnica y la Subgerencia de Estudios Económicos referente a la dinamización en el Mercado Interbancario de Divisas (MID), el Comité de Divisas en Sesión Ordinaria No. 01/2023 del 7 de febrero de 2023, de manera unánime aprobó someter a consideración del Directorio pagar una comisión por los traslados que los agentes cambiarios realizan a BCH por los excesos al límite de tenencia de divisas.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República;
 
-54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 

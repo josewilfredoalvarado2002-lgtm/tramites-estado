@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Resolución No. 6-2026-PLENO/CN"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260603-37158/download"
 extraido: "2026-11-09"
-huella: "a347474215e1b051"
+huella: "bc505188aac76f83"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 6-2026-PLENO/CN
@@ -39,7 +39,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- DECLARATORIA DE CONGRESO A B I E RTO Y P R I N C I P I O S UNIVERSALES. Declarar al Congreso Nacional de Honduras como una Institución de Puertas Abiertas, adoptando formalmente los principios universales de Parlamento Abierto: Transparencia y Acceso a la Información, Rendición de Cuentas, Participación Ciudadana y Ética Legislativa.
+ARTÍCULO 1.- DECLARATORIA DE CONGRESO A B I E RTO Y PRINCIPIOS UNIVERSALES. Declarar al Congreso Nacional de Honduras como una Institución de Puertas Abiertas, adoptando formalmente los principios universales de Parlamento Abierto: Transparencia y Acceso a la Información, Rendición de Cuentas, Participación Ciudadana y Ética Legislativa.
 
 #### Artículo 2
 
@@ -55,7 +55,7 @@ Implementación y mantenimiento de un portal digital oficial moderno que garanti
 
 \3) OFICINA DE ATENCIÓN
 
-C I U D A D A N A : C o n u n sistema bidireccional físico y digital para recibir sugerencias y recomendaciones del pueblo;
+CIUDADANA: Con un sistema bidireccional físico y digital para recibir sugerencias y recomendaciones del pueblo;
 
 \4) PROGRAMA “UN CONGRESO DE PUERTAS ABIERTAS:
 
@@ -67,7 +67,7 @@ FUTURO”: Se abren de forma permanente las puertas del Congreso Nacional para q
 
 D E
 
-T R A N S P A R E N C I A Y VEEDURÍA INSTITUCIONAL:
+TRANSPARENCIA Y VEEDURÍA INSTITUCIONAL:
 
 Ejecución irrestricta del Convenio de Transparencia y Veeduría suscrito con el Tribunal Superior de Cuentas (TSC), para auditar permanentemente el desempeño administrativo y financiero del Congreso;
 
@@ -123,7 +123,7 @@ La Junta Directiva asume el reto y el compromiso ineludible de diseñar, adoptar
 
 #### Artículo 6
 
-ARTÍCULO 6.- M Á X I M A P U B L I C I D A D E IDENTIDAD INSTITUCIONAL:
+ARTÍCULO 6.- MÁXIMA PUBLICIDAD E IDENTIDAD INSTITUCIONAL:
 
 Todas las acciones derivadas de esta Declaratoria son de dominio público.
 

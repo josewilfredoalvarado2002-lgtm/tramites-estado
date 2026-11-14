@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. SAG-045-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250502-36827/download"
 extraido: "2026-11-11"
-huella: "f49ffe147f9b32ae"
+huella: "a5c180d64e555348"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-045-2025
@@ -69,7 +69,7 @@ LAURA ELENA SUAZO TORRES
 
 Secretaria de Estado en los Despachos de Agricultura y Ganadería ROGER EMILIO MEDINA ORELLANA Secretario General Avance Próxima Edición
 
-A C U E R D A: PRIMERO: Honduras en cumplimiento de los compromisos asumidos como Estado Parte en el proceso de implementación del Reglamento Sanitario Internacional en el TÍTULO IV- PUNTOS DE ENTRADA Honduras define que se designen los siguientes Puntos de Entrada aéreo, marítimo y terrestre.
+ACUERDA: PRIMERO: Honduras en cumplimiento de los compromisos asumidos como Estado Parte en el proceso de implementación del Reglamento Sanitario Internacional en el TÍTULO IV- PUNTOS DE ENTRADA Honduras define que se designen los siguientes Puntos de Entrada aéreo, marítimo y terrestre.
 
 CENTROS DE DISTRIBUCIÓN:
 

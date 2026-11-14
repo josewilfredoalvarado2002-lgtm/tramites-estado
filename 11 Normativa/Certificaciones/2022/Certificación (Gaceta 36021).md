@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220906-36021/download"
 extraido: "2026-11-14"
-huella: "0b5b8a1f99fc6864"
+huella: "94f38b2e3f445615"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,11 +27,7 @@ huella: "0b5b8a1f99fc6864"
 
 ## Texto
 
-El infrascrito, Secretario de actas del Consejo Directivo del Instituto de la Propiedad, delegado mediante Acuerdo No. CD-IP-007-2022, CERTIFICA el ACUERDO adoptado en la Sesión Ordinaria de Consejo Directivo No.
-
-006-2022, el cual literalmente dice: “ACUERDO No.
-
-CD-IP-010-2022. INSTITUTO DE LA PROPIEDAD, CONSEJO DIRECTIVO. Tegucigalpa, municipio del Distrito Central, a los diez (10) días de agosto del dos mil veintidós (2022). CONSIDERANDO: Que mediante artículo cuatro (4) del Decreto 82-2004 del veintiocho (28) de mayo del dos mil cuatro (2004) se crea el Instituto de la Propiedad como un ente desconcentrado de la Presidencia de la República, atribuyéndole personalidad jurídica y patrimonio propio y funcionando con independencia técnica, administrativa y financiera. CONSIDERANDO:
+El infrascrito, Secretario de actas del Consejo Directivo del Instituto de la Propiedad, delegado mediante Acuerdo No. CD-IP-007-2022, CERTIFICA el ACUERDO adoptado en la Sesión Ordinaria de Consejo Directivo No. 006-2022, el cual literalmente dice: “ACUERDO No. CD-IP-010-2022. INSTITUTO DE LA PROPIEDAD, CONSEJO DIRECTIVO. Tegucigalpa, municipio del Distrito Central, a los diez (10) días de agosto del dos mil veintidós (2022). CONSIDERANDO: Que mediante artículo cuatro (4) del Decreto 82-2004 del veintiocho (28) de mayo del dos mil cuatro (2004) se crea el Instituto de la Propiedad como un ente desconcentrado de la Presidencia de la República, atribuyéndole personalidad jurídica y patrimonio propio y funcionando con independencia técnica, administrativa y financiera. CONSIDERANDO:
 
 Que la independencia técnica y administrativa que tiene el Instituto de la Propiedad le permite regular internamente todo lo relativo al desarrollo de sus actividades propias, por medio de la emisión de reglamentos, acuerdos, manuales, instructivos u otras disposiciones debidamente autorizadas que establezcan procedimientos o lineamientos técnicos, facultad normativa que le asiste al Consejo Directivo conforme lo establecido en el artículo 10 de la Ley de Propiedad y su Reglamento. CONSIDERANDO: Que el Instituto de la Propiedad en cumplimiento de la Ley de Propiedad, gestiona en forma permanente el desarrollo de un sistema integrado de información de la propiedad que, refleje la ejecución de procedimientos que aseguren la constitución, reconocimiento, transmisión, transferencia, modificación, gravamen y cancelación de los derechos de propiedad sujetos a registro, para fortalecer y otorgar seguridad jurídica, así como la creación de mecanismos rápidos y eficaces para la solución de conflictos relativos a la propiedad; y consecuentemente desarrollar políticas nacionales de propiedad que permitan el acceso a la misma por partes de todos los sectores de la sociedad y el desarrollo de la inversión nacional y extranjera. CONSIDERANDO:
 

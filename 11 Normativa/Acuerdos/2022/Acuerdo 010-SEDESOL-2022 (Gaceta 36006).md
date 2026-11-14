@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdo Ministerial No. 010-SEDESOL-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220819-36006/download"
 extraido: "2026-11-14"
-huella: "31a31d4c7ea249c3"
+huella: "eba77d4c6f99caa1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL 010-SEDESOL-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la actual administración plantea como una de sus metas priori
 
 Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL los diversos procesos de la sociedad, con el fin de que cuenten con mejores índices de desarrollo humano mediante la mejora en las condiciones de vida de sus hogares.
 
-CONSIDERANDO: Que a través del Decreto Legislativo No.102-2013 el Soberano Congreso Nacional al amparo del Artículo 76 del Decreto No.160-2005 contentivo de la Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad, amplía la asignación presupuestaria asignada al Presupuesto General de Ingresos y Egresos de la República, para atender las necesidades de diferentes centros que trabajan en el sector de personas con discapacidad, según Resolución No. 235 emitida por la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que a través del Decreto Legislativo No. 102-2013 el Soberano Congreso Nacional al amparo del Artículo 76 del Decreto No. 160-2005 contentivo de la Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad, amplía la asignación presupuestaria asignada al Presupuesto General de Ingresos y Egresos de la República, para atender las necesidades de diferentes centros que trabajan en el sector de personas con discapacidad, según Resolución No. 235 emitida por la Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2022 se suprime la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS) y se crea la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL) con el mandato de instituir las políticas sociales de la Honduras solidaria, incluyente y libre de violencia.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que los actos de la Administración Pública sujetos al Derecho Ad
 
 POR TANTO:
 
-En cumplimiento a lo establecido en el Artículo 246 de la Constitución de la República, en el ejercicio de las atribuciones que le confieren los Artículos, 30, 33 y 36 numerales 2) y 8) de la Ley General de la Administración Pública y en consecución con el Acuerdo Ejecutivo No.305-2022 de su nombramiento.
+En cumplimiento a lo establecido en el Artículo 246 de la Constitución de la República, en el ejercicio de las atribuciones que le confieren los Artículos, 30, 33 y 36 numerales 2) y 8) de la Ley General de la Administración Pública y en consecución con el Acuerdo Ejecutivo No. 305-2022 de su nombramiento.
 
 ACUERDA:
 

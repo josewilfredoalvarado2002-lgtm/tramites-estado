@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Nos. SEN-107-2026, SEN-112-2026, SEN-113-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260907-37240/download"
 extraido: "2026-11-09"
-huella: "4a5bc20464965da5"
+huella: "77aa0a237beac3e0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-107-2026
@@ -35,9 +35,7 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 AVANCE
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que, conforme a lo establecido en la parte conducente del artículo 30 de la Ley de Procedimiento Administrativo, la Administración podrá suspender de oficio la ejecución y los efectos de un acto administrativo cuando lo estime pertinente, a fin de evitar perjuicios graves al interesado que sean de difícil o imposible reparación.
 

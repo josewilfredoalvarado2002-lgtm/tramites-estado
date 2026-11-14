@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-131-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211221-35803/download"
 extraido: "2026-11-14"
-huella: "cf98749a5c7093e0"
+huella: "304e28c927c9ed38"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-131-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: mediante Decreto Ejecutivo Número PCM-082-2021, publicado en el D
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 12, 19 y 45, 255, 321 y 323 de la Constitución de la República; Artículos 7, 11, 12, 13, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266- 2013; Artículos 1, 3, 5, 7, 23, 24, 32, 33, 38, 51 y 63 numeral 6) y párrafo final de la Ley de Contratación del Estado; Artículo 37 numeral 2 de la Ley Orgánica de Presupuesto; Decreto Legislativo No. 170-2006 contentivo de la Ley de Transparencia y Acceso a la Información Pública; y, Decretos Ejecutivos Números: PCM-014-2018 y PCM- 082-2021.
+En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 12, 19 y 45, 255, 321 y 323 de la Constitución de la República; Artículos 7, 11, 12, 13, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Artículos 1, 3, 5, 7, 23, 24, 32, 33, 38, 51 y 63 numeral 6) y párrafo final de la Ley de Contratación del Estado; Artículo 37 numeral 2 de la Ley Orgánica de Presupuesto; Decreto Legislativo No. 170-2006 contentivo de la Ley de Transparencia y Acceso a la Información Pública; y, Decretos Ejecutivos Números: PCM-014-2018 y PCM-082-2021.
 
 DECRETA:
 

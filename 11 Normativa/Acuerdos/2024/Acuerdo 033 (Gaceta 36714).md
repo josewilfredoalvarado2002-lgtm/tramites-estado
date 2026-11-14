@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Certificaciones, Acuerdos Nos. 032, 033"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241213-36714/download"
 extraido: "2026-11-14"
-huella: "93878322bf34d46a"
+huella: "9b5fc1487fc1074b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 033
@@ -29,7 +29,7 @@ huella: "93878322bf34d46a"
 
 EL INFRASCRITO, SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA EL ACUERDO N°. 033 CONTENIDO EN EL ACTA ORDINARIA No. 016 DE FECHA ONCE DE JULIO DEL AÑO DOS MIL VEINTICUATRO, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO N°.033.- CONSIDERANDO: Que la Municipalidad es el órgano gobierno que tiene como finalidad principal la administración del Municipio y existe para lograr el bienestar de sus habitantes, promover su desarrollo integral y preservar el medio ambiente.
+“ACUERDO N°. 033.- CONSIDERANDO: Que la Municipalidad es el órgano gobierno que tiene como finalidad principal la administración del Municipio y existe para lograr el bienestar de sus habitantes, promover su desarrollo integral y preservar el medio ambiente.
 
 CONSIDERANDO: Que corresponde a la Corporación Municipal la declaratoria de emergencia o calamidad pública en su jurisdicción, cuando fuere necesario y ordenar las medidas convenientes.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. CSJ-03-2021, 04-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210918-35721/download"
 extraido: "2026-11-14"
-huella: "14f237f462936926"
+huella: "eb9050cb9a5a33fa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-03-2021
@@ -45,7 +45,7 @@ Que el artículo 2 del Código del Notariado, establece que el Notariado es la I
 
 Segundo. Solidez en la gestión. Que, para mejorar los servicios que brinda el Poder Judicial, es necesaria una eficaz y eficiente gestión del talento humano y una adecuada administración de los recursos materiales, financieros y tecnológicos con que cuenta este Poder del Estado.
 
-Tercero. Mejora en la organización judicial. Que el Pleno de la Corte Suprema de Justicia, consciente de lo anterior, aprobó el Plan Estratégico Institucional 2017-2021, cuyo Eje Temático No.1, “Estructura Orgánica Eficiente”, el cual está destinado a la reflexión, propuesta, en su caso y ejecución de acciones orientadas a la mejora de la organización judicial; y en ese sentido, estima necesario contar con una Sede Regional de la Contraloría del Notariado, a fin de descentralizar la gestión administrativa, para agilizar los procesos del Poder Judicial.
+Tercero. Mejora en la organización judicial. Que el Pleno de la Corte Suprema de Justicia, consciente de lo anterior, aprobó el Plan Estratégico Institucional 2017-2021, cuyo Eje Temático No. 1, “Estructura Orgánica Eficiente”, el cual está destinado a la reflexión, propuesta, en su caso y ejecución de acciones orientadas a la mejora de la organización judicial; y en ese sentido, estima necesario contar con una Sede Regional de la Contraloría del Notariado, a fin de descentralizar la gestión administrativa, para agilizar los procesos del Poder Judicial.
 
 Cuarto. Rol de la Contraloría del Notariado. Que el artículo 74 del Código del Notariado, establece que la Contraloría del Notariado es el órgano ejecutivo dependiente de la Corte Suprema de Justicia, que tiene a su cargo la orientación, dirección, inspección y vigilancia del ejercicio de la función notarial.
 
@@ -55,9 +55,9 @@ Sexto. Descentralización administrativa. Que de conformidad al artículo 75 del
 
 También señala el Reglamento de Organización Interna y Funcionamiento de la Contraloría de Notariado en su artículo 16, que la dirección de la Contraloría estará a cargo de uno de sus miembros designado(a) por la Corte Suprema de Justicia y tiene entre sus funciones dirigir y coordinar las diferentes dependencias de la Contraloría y realizar la distribución de funciones y tareas.
 
-P a r t e D i s p o s i t i v a La Corte Suprema de Justicia, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias;
+Parte Dispositiva La Corte Suprema de Justicia, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A c u e r d a Primero. Aprobar la organización y establecimiento de la Oficina Regional de la Contraloría del Notariado en la ciudad de San Pedro Sula, departamento de Cortés, la cual deberá contar con un(a) Delegado(a) Regional y demás personal profesional, técnico, administrativo, de oficina y de servicios generales que se estime necesario para su debido funcionamiento, quienes ejecutarán sus labores atendiendo las directrices e instrucciones que emita la Corte Suprema de Justicia, a través de la Contraloría del Notariado.
+Acuerda Primero. Aprobar la organización y establecimiento de la Oficina Regional de la Contraloría del Notariado en la ciudad de San Pedro Sula, departamento de Cortés, la cual deberá contar con un(a) Delegado(a) Regional y demás personal profesional, técnico, administrativo, de oficina y de servicios generales que se estime necesario para su debido funcionamiento, quienes ejecutarán sus labores atendiendo las directrices e instrucciones que emita la Corte Suprema de Justicia, a través de la Contraloría del Notariado.
 
 Segundo: La Corte Suprema de Justicia, previa propuesta por parte de la Dirección de Administración de Personal, elaborará el perfil para el cargo de Delegado(a) de la Contraloría del Notariado y nombrará a la persona que lo desempeñará. Que la Dirección de Administración de Personal elabore el perfil para el cargo de Secretario(a) Regional de la Contraloría del Notariado y los incorpore al Manual de Clasificación de Puestos del Poder Judicial; así como del personal necesario para esa oficina regional, si no existiera en el Manual señalado. Esta Dirección también deberá incorporar el perfil del Delegado de la Contraloría.
 

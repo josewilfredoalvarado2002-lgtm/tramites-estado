@@ -8,7 +8,7 @@ gaceta_numero: 36188
 gaceta_fecha: "2023-03-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)|La Gaceta 36188]]"
 paginas: "A. 1"
-sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023"
+sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230324-36188/download"
 extraido: "2026-11-14"
 huella: "450050a7fe0f091f"
@@ -23,7 +23,7 @@ huella: "450050a7fe0f091f"
 | Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)\|La Gaceta 36188]] del 2023-03-24 |
 | Páginas | A. 1 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023 |
 
 ## Texto
 

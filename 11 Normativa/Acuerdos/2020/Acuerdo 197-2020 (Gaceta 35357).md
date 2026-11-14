@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdo Ministerial número 197-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200829-35357/download"
 extraido: "2026-11-14"
-huella: "c61604da097bc4de"
+huella: "d79be54d04484534"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 197-2020
@@ -53,9 +53,9 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 028- 2020, de fecha 30 de marzo de 2020, a fin de permitir las exportaciones de frijol rojo bajo las fracciones arancelarias 0713.32.00.00 y 0713.33.40.00 del Arancel Centroamericano de Importación (ACI), previo autorización de la Secretaría de Desarrollo Económico y en consulta con la Secretaría de Agricultura y Ganadería sobre las condiciones de abastecimiento y Oferta Nacional, siempre que el solicitante demuestre que tiene contrato de compra venta en firma con clientes en el extranjero o documento equivalente.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 028-2020, de fecha 30 de marzo de 2020, a fin de permitir las exportaciones de frijol rojo bajo las fracciones arancelarias 0713.32.00.00 y 0713.33.40.00 del Arancel Centroamericano de Importación (ACI), previo autorización de la Secretaría de Desarrollo Económico y en consulta con la Secretaría de Agricultura y Ganadería sobre las condiciones de abastecimiento y Oferta Nacional, siempre que el solicitante demuestre que tiene contrato de compra venta en firma con clientes en el extranjero o documento equivalente.
 
-SEGUNDO: El interesado a realizar la exportación de frijol debe de ingresar la solicitud vía online al correo secretariageneralteg@sde.gob.hn, presentando la siguiente documentación : 1) Solicitud mediante Apoderado Legal, dirigida a la Secretaría de Desarrollo Económico especificando las generales de la empresa, indicando la cantidad en quintales y fecha probable de exportación, 2) Carta Poder debidamente Autenticada, 3) Contrato de compra venta en firma con clientes en el extranjero o documento equivalente; 4) Pago de T.G.R-1 por L. 200.
+SEGUNDO: El interesado a realizar la exportación de frijol debe de ingresar la solicitud vía online al correo secretariageneralteg@sde.gob.hn, presentando la siguiente documentación: 1) Solicitud mediante Apoderado Legal, dirigida a la Secretaría de Desarrollo Económico especificando las generales de la empresa, indicando la cantidad en quintales y fecha probable de exportación, 2) Carta Poder debidamente Autenticada, 3) Contrato de compra venta en firma con clientes en el extranjero o documento equivalente; 4) Pago de T.G.R-1 por L. 200.
 
 En caso que sean empresas nuevas deben de adicionar a la solicitud los siguientes documentos: Escritura de Constitución de Sociedad y fotocopia de R.T.N.
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 11"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "801e9db73ca14f16"
+huella: "61d4c5897b64e7e4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-119-2020
@@ -37,7 +37,7 @@ Prestación de Servicios Educativos, Número de Puesto 3610, Grupo-Nivel 01-04, 
 
 SEGUNDO: El reintegro antes descrito, se genera a petición de la ciudadana Evelyn Elizabeth Peralta Fuentes, efectivo a partir del 16 de marzo de 2020, según nota de solicitud de reintegro de fecha 10 de febrero de 2020.
 
-TERCERO: La Licencia no Remunerada fue aprobada mediante acción de personal N°. 075-2019 y acuerdo STSS- 226-2019 con fecha de efectividad a partir del 20 de mayo de 2019 al 19 de mayo de 2020 inclusive.
+TERCERO: La Licencia no Remunerada fue aprobada mediante acción de personal N°. 075-2019 y acuerdo STSS-226-2019 con fecha de efectividad a partir del 20 de mayo de 2019 al 19 de mayo de 2020 inclusive.
 
 CUARTO: El presente Acuerdo debe publicarse en el Diario Oficial “La Gaceta”. COMUNÍQUESE Y PUBLÍQUESE.
 

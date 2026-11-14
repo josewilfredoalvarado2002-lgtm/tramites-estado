@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200122-35155/download"
 extraido: "2026-11-14"
-huella: "0fe8d8bb40247397"
+huella: "bb89f30071709406"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -33,7 +33,7 @@ RESOLUCIÓN No. 537-2019. SECRETARÍA DE
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, diecinueve de marzo de dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de enero del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-09012019- 13 por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de apoderado legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LLANO DE LA CRUZ, con domicilio en el municipio de Santiago de Puringla, departamento de La Paz, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de enero del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-09012019-13 por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de apoderado legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LLANO DE LA CRUZ, con domicilio en el municipio de Santiago de Puringla, departamento de La Paz, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO, en fecha nueve de enero del dos mil diecinueve, compareció ante esta Secretaría de Estado, el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de apoderado legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LLANO DE LA CRUZ, con domicilio en el municipio de Santiago de Puringla, departamento de La Paz, a solicitar la Personalidad Jurídica a favor de su representada.
 

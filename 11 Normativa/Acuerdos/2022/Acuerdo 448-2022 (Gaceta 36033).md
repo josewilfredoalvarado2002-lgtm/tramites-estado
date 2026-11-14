@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 448-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220921-36033/download"
 extraido: "2026-11-14"
-huella: "4c8fb7cae447035d"
+huella: "159d6bf55c0ccc26"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 448-2022
@@ -59,9 +59,7 @@ POR TANTO:
 
 En uso de las facultades de que está investida la Secretaría de Finanzas y en aplicación de los artículos 246, 247 y 255 de la Constitución de la República; 95 del Decreto Legislativo No. 83-2004 contentivo de la Ley Orgánica del Presupuesto;
 
-29 numeral 3, 33, 36 numeral 8, 116, 118 numeral 2 y 122 de la Ley de Administración Pública, Decreto Legislativo No.
-
-274-2010 y Decreto Ejecutivo PCM 047-2015.
+29 numeral 3, 33, 36 numeral 8, 116, 118 numeral 2 y 122 de la Ley de Administración Pública, Decreto Legislativo No. 274-2010 y Decreto Ejecutivo PCM 047-2015.
 
 ACUERDA:
 

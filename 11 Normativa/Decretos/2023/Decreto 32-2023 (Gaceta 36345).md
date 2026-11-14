@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Decretos Legislativos Nos. 32-2023,33-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230928-36345/download"
 extraido: "2026-11-14"
-huella: "a7c5ba7c4e63cffd"
+huella: "d8005dbf1e5afbbc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 32-2023
@@ -29,7 +29,7 @@ huella: "a7c5ba7c4e63cffd"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que la Asociación Nacional de Anestesistas de Honduras (A.N.A.H.) está legalmente constituida desde el 19 de julio de 1977 con Resolución No.108-97, publicado en el Diario Oficial “La Gaceta” el 16 de agosto de 1997.
+CONSIDERANDO: Que la Asociación Nacional de Anestesistas de Honduras (A.N.A.H.) está legalmente constituida desde el 19 de julio de 1977 con Resolución No. 108-97, publicado en el Diario Oficial “La Gaceta” el 16 de agosto de 1997.
 
 CONSIDERANDO: Que los Técnicos Anestesistas son un pilar importante para que se lleve a cabo una operación médica en feliz término para beneficio de la población hondureña.
 

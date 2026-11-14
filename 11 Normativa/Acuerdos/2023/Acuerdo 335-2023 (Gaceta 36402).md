@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Ejecutivos Números 310-2023, 335-2023, 336-2023, 361-2023, 362-2023, 365-2023, 366-2023, Acuerdo Número 385-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231206-36402/download"
 extraido: "2026-11-14"
-huella: "97d53c545b86f6dc"
+huella: "99c6760066fa21a7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 335-2023
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 

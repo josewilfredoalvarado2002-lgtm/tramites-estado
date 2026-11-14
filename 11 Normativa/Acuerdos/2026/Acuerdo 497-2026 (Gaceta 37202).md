@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ejecutivo Número 497-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260724-37202/download"
 extraido: "2026-11-09"
-huella: "1e6c76d42cd72c89"
+huella: "86b82b99a52557eb"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 497-2026
@@ -39,13 +39,13 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
 CONSIDERANDO:
 
-Que el Decreto No.62-2026 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales vigentes, en su artículo 36 párrafo tercero establece que el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) está autorizado a suscribir empréstitos en el marco de los techos de endeudamiento establecidos en la Política de Endeudamiento Público y en línea con el Marco MacroFiscal de Mediano Plazo (MMFMP), debiendo ser remitidos al Congreso Nacional para su posterior aprobación.
+Que el Decreto No. 62-2026 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales vigentes, en su artículo 36 párrafo tercero establece que el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) está autorizado a suscribir empréstitos en el marco de los techos de endeudamiento establecidos en la Política de Endeudamiento Público y en línea con el Marco MacroFiscal de Mediano Plazo (MMFMP), debiendo ser remitidos al Congreso Nacional para su posterior aprobación.
 
 CONSIDERANDO:
 
@@ -247,7 +247,7 @@ DÉCIMO
 
 SÉPTIMO:
 
-La renovación de las licencias de pesca correspondientes a la temporada 2026- 2027 estará sujeta al cumplimiento de los requisitos establecidos en el Acuerdo Ministerial de Requisitos SAG No. 108- 2026 de fecha 23 abril del año 2026 el cual regula los procedimientos aplicables en la materia. Para efectos de hacer efectiva dicha renovación, todas las embarcaciones deberán acreditar el cumplimiento de sus obligaciones contributivas ante el Estado de Honduras, mediante la presentación del comprobante de pago del canon contributivo de pesca que valide que no hay deudas pendientes. La falta de este pago dejará en suspenso el proceso de licenciamiento, sin perjuicio de los procesos administrativos que pudieran derivarse del incumplimiento.
+La renovación de las licencias de pesca correspondientes a la temporada 2026-2027 estará sujeta al cumplimiento de los requisitos establecidos en el Acuerdo Ministerial de Requisitos SAG No. 108-2026 de fecha 23 abril del año 2026 el cual regula los procedimientos aplicables en la materia. Para efectos de hacer efectiva dicha renovación, todas las embarcaciones deberán acreditar el cumplimiento de sus obligaciones contributivas ante el Estado de Honduras, mediante la presentación del comprobante de pago del canon contributivo de pesca que valide que no hay deudas pendientes. La falta de este pago dejará en suspenso el proceso de licenciamiento, sin perjuicio de los procesos administrativos que pudieran derivarse del incumplimiento.
 
 DÉCIMO
 
@@ -259,7 +259,7 @@ DÉCIMO
 
 NOVENO:
 
-Se deroga en todas y cada una de sus partes el Acuerdo Ministerial No. SAG- 113- 2025 de fecha 21 de agosto del año 2025.
+Se deroga en todas y cada una de sus partes el Acuerdo Ministerial No. SAG-113-2025 de fecha 21 de agosto del año 2025.
 
 VIGÉSIMO:
 

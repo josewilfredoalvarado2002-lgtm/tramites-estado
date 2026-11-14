@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 484-2022, Acuerdo Ejecutivo Número 488-2022, Acuerdos Números 272-2022, 273-2022, 531-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221223-36110/download"
 extraido: "2026-11-14"
-huella: "a0d7d75fce261e0c"
+huella: "9c5f9c4e8d603de4"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 272-2022
@@ -29,9 +29,7 @@ huella: "a0d7d75fce261e0c"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 

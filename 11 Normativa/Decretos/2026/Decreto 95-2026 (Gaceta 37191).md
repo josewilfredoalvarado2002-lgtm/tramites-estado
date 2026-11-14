@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Nos. 95-2026, 136-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260711-37191/download"
 extraido: "2026-11-09"
-huella: "9ab8feda4aea8c45"
+huella: "591f60dbb22ffb78"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 95-2026
@@ -63,13 +63,11 @@ CONSIDERANDO: Que la Subdirección Nacional de Seguridad e Inteligencia del Inst
 
 CONSIDERANDO: Que la Comisión Administradora del Contrato del Instituto Nacional Penitenciario (INP), en fecha dieciocho (18) de Diciembre de Dos Mil Veinticinco (2025), emitió el Informe de Recomendación de Solicitud de Modificación al Contrato No. SG-010-B/S-CISPN-2025, recomendando modificar la cláusula de plazo mediante adenda, ampliar la garantía de cumplimiento y observar el procedimiento establecido en la Circular SEP-16-2025, al verificarse que la ampliación trasciende el período de gobierno.
 
-CONSIDERANDO: Que mediante Dictamen Legal No.
+CONSIDERANDO: Que mediante Dictamen Legal No. 606-USL-INP-2025, la Unidad de Servicios Legales del Instituto Nacional Penitenciario (INP) concluyó que resulta jurídicamente procedente conceder la ampliación del plazo contractual solicitada, como mecanismo necesario para permitir la culminación del objeto del contrato, sin que ello implique exoneración de responsabilidad al contratista por el incumplimiento del plazo originalmente pactado.
 
-606-USL-INP-2025, la Unidad de Servicios Legales del Instituto Nacional Penitenciario (INP) concluyó que resulta jurídicamente procedente conceder la ampliación del plazo contractual solicitada, como mecanismo necesario para permitir la culminación del objeto del contrato, sin que ello implique exoneración de responsabilidad al contratista por el incumplimiento del plazo originalmente pactado.
+CONSIDERANDO: Que la Comisión Interventora del Sistema Penitenciario Nacional, mediante Resolución No. 079- SG-F-CISPN-2025 de fecha veintitrés (23) de Diciembre de Dos Mil Veinticinco (2025), declaró con lugar la ampliación del plazo solicitada, autorizó la modificación contractual por razones de interés público mediante adenda, impuso la aplicación de multas conforme a la Ley de Contratación del Estado y ordenó el cumplimiento del procedimiento establecido en la Circular SEP-16-2025 y en el Artículo 51 del Decreto No. 4-2025.
 
-CONSIDERANDO: Que la Comisión Interventora del Sistema Penitenciario Nacional, mediante Resolución No.079- SG-F-CISPN-2025 de fecha veintitrés (23) de Diciembre de Dos Mil Veinticinco (2025), declaró con lugar la ampliación del plazo solicitada, autorizó la modificación contractual por razones de interés público mediante adenda, impuso la aplicación de multas conforme a la Ley de Contratación del Estado y ordenó el cumplimiento del procedimiento establecido en la Circular SEP-16-2025 y en el Artículo 51 del Decreto No.4-2025.
-
-CONSIDERANDO: Que el Decreto No.4-2025, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2025, establece en su Artículo 51 que los contratos y sus modificaciones cuyos efectos se extiendan más allá del período de gobierno deberán ser sometidos a la aprobación o ratificación del Honorable Congreso Nacional.
+CONSIDERANDO: Que el Decreto No. 4-2025, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2025, establece en su Artículo 51 que los contratos y sus modificaciones cuyos efectos se extiendan más allá del período de gobierno deberán ser sometidos a la aprobación o ratificación del Honorable Congreso Nacional.
 
 CONSIDERANDO: Que la Circular No. SEP-16-2025 de fecha veinticuatro (24) de Octubre de Dos Mil Veinticinco (25), emitida por la Secretaría de Estado en el Despacho de la Presidencia, instruye a las instituciones del Poder Ejecutivo a remitir para su aprobación los contratos y modificaciones contractuales que trasciendan el período de gobierno, debidamente integrados conforme a su instructivo anexo.
 
@@ -83,17 +81,17 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes la ADENDA NÚMERO 1 DE LA AMPLIACIÓN DE PLAZO al Contrato No. SG- 010-B/S-CISPN-2025, suscrito entre el INSTITUTO NACIONAL PENITENCIARIO y la Sociedad Mercantil INVERSIONES SALAM, S.
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes la ADENDA NÚMERO 1 DE LA AMPLIACIÓN DE PLAZO al Contrato No. SG-010-B/S-CISPN-2025, suscrito entre el INSTITUTO NACIONAL PENITENCIARIO y la Sociedad Mercantil INVERSIONES SALAM, S.
 
 DE R.L. DE C.V., mediante la cual se amplía el plazo de ejecución contractual hasta el quince (15) de Marzo de Dos Mil Veintiséis (2026), cuyo texto literal se transcribirá a continuación:
 
-“ A D E N D U M N o . 1 D E L A
+“ ADENDUM No . 1 DE LA
 
-AMPLIACIÓN DE PLAZOS PARCIALES AL SUMINISTRO E INSTALACIÓN DE ESCÁNERES CORPORALES DE RAYOS-X, ESCÁNERES DE OBJETOS DE RAYOS-X y ESCÁNERES PORTÁTILES DE RAYOS-X PARA DIFERENTES CENTROS PENITENCIARIOS A NIVEL N A C I O N A L ” F U E N T E D E FINANCIAMIENTO: FONDOS NACIONALES.- Nosotros JOSÉ MIGUEL MEJÍA MEDINA, mayor de edad, casado, con el grado de General de Brigada, de las Fuerzas Armadas de Honduras, hondureño, con Documento Nacional de Identificación Número 0703-1970-00020, y de este domicilio, actuando en su condición de Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, nombrado mediante Acuerdo Ejecutivo Presidencial No. 106-2025 de fecha treinta (30) de Julio del año Dos Mil Veinticinco (2025) quien en adelante EL CONTRATANTE y el señor JORGE NICOLAS SANSUR ALÁM, mayor de edad, casado, hondureño, de este domicilio, con Documento Nacional de Identificación número 0801-1988- 19585, quien actúa en calidad de representante legal de la empresa INVERSIONES SALAM S. DE R.L., Sociedad con Registro Tributario Nacional 08019003250140, constituida mediante Instrumento Público No. 419, en la Ciudad de Tegucigalpa Municipio del Distrito Central, Departamento de Francisco Morazán, inscrita con número de asiento No.12 Tomo 537 de fecha veintinueve (29) de Mayo del año dos mil tres (2003), ante los oficios del notario FRANCISCO ALVAREZ SAMBULÁ, del Registro de la Propiedad Mercantil de Francisco Morazán; con facultades suficientes otorgadas mediante Poder General de Administración y Representación en el Instrumento Público No.605 en la Ciudad de Tegucigalpa Municipio del Distrito Central, Departamento de Francisco Morazán, Matrículo 77787 de fecha diez (10) de Septiembre del año dos mil dieciocho (2018), ante los oficios del notario ANA LUZ ARGUETA DE GUILBERT, inscrito en el Registro Mercantil de Francisco Morazán, en lo sucesivo y para los efectos del presente contrato denominado “EL PROVEEDOR”, hemos convenido en celebrar el presente ADENDUM DE AMPLIACIÓN DE PLAZOS PARCIALES al Contrato de Suministro, que se regirá por los términos siguientes:
+AMPLIACIÓN DE PLAZOS PARCIALES AL SUMINISTRO E INSTALACIÓN DE ESCÁNERES CORPORALES DE RAYOS-X, ESCÁNERES DE OBJETOS DE RAYOS-X y ESCÁNERES PORTÁTILES DE RAYOS-X PARA DIFERENTES CENTROS PENITENCIARIOS A NIVEL NACIONAL ” FUENTE DE FINANCIAMIENTO: FONDOS NACIONALES.- Nosotros JOSÉ MIGUEL MEJÍA MEDINA, mayor de edad, casado, con el grado de General de Brigada, de las Fuerzas Armadas de Honduras, hondureño, con Documento Nacional de Identificación Número 0703-1970-00020, y de este domicilio, actuando en su condición de Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, nombrado mediante Acuerdo Ejecutivo Presidencial No. 106-2025 de fecha treinta (30) de Julio del año Dos Mil Veinticinco (2025) quien en adelante EL CONTRATANTE y el señor JORGE NICOLAS SANSUR ALÁM, mayor de edad, casado, hondureño, de este domicilio, con Documento Nacional de Identificación número 0801-1988-19585, quien actúa en calidad de representante legal de la empresa INVERSIONES SALAM S. DE R.L., Sociedad con Registro Tributario Nacional 08019003250140, constituida mediante Instrumento Público No. 419, en la Ciudad de Tegucigalpa Municipio del Distrito Central, Departamento de Francisco Morazán, inscrita con número de asiento No. 12 Tomo 537 de fecha veintinueve (29) de Mayo del año dos mil tres (2003), ante los oficios del notario FRANCISCO ALVAREZ SAMBULÁ, del Registro de la Propiedad Mercantil de Francisco Morazán; con facultades suficientes otorgadas mediante Poder General de Administración y Representación en el Instrumento Público No. 605 en la Ciudad de Tegucigalpa Municipio del Distrito Central, Departamento de Francisco Morazán, Matrículo 77787 de fecha diez (10) de Septiembre del año dos mil dieciocho (2018), ante los oficios del notario ANA LUZ ARGUETA DE GUILBERT, inscrito en el Registro Mercantil de Francisco Morazán, en lo sucesivo y para los efectos del presente contrato denominado “EL PROVEEDOR”, hemos convenido en celebrar el presente ADENDUM DE AMPLIACIÓN DE PLAZOS PARCIALES al Contrato de Suministro, que se regirá por los términos siguientes:
 
 PRIMERO: El 19 de Noviembre del año 2025 las partes suscribimos Contrato de Suministro para el:
 

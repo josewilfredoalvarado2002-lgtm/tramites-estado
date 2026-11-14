@@ -11,7 +11,7 @@ paginas: "A. 12 - 15"
 sumario: "Acuerdo OPCE No. 067-2026 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261001-37260/download"
 extraido: "2026-11-09"
-huella: "67e48223cb3bb6b0"
+huella: "6665d8dc695464d0"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 067-2026
@@ -39,33 +39,25 @@ CONSIDERANDO: Que de conformidad a la Constitución de la República, la producc
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre la República Dominicana- Centroamérica y Estados Unidos (RD-CAFTA), fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
-16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que el Artículo 2 del Acuerdo No. 013-2016 del 04 de febrero de 2016 establece que para el año 2016 y consecutivos, se reservará el cinco por ciento (5%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), para aquellas personas naturales y jurídicas que por primera vez soliciten se les asigne una proporción del contingente arancelario de importación de maíz blanco establecido en el párrafo 13 del Apéndice I de las Notas Generales de la Lista Arancelaria de la República de Honduras al Anexo 3.3 del RD-CAFTA y que no hayan participado en la asignación del 95%.
 
-CONSIDERANDO: Que el Artículo 2 del Acuerdo No.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 106-2025, publicado en el Diario Oficial “La Gaceta” el 30 de octubre de 2025, la Secretaría de Desarrollo Económico, aperturó para el periodo del 01 de enero al 31 de diciembre de 2026, los contingentes arancelarios de importación en el marco del Tratado de Libre Comercio entre República Dominicana – Centroamérica y Estados Unidos de América (RD-CAFTA).
 
-013-2016 del 04 de febrero de 2016 establece que para el año 2016 y consecutivos, se reservará el cinco por ciento (5%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), para aquellas personas naturales y jurídicas que por primera vez soliciten se les asigne una proporción del contingente arancelario de importación de maíz blanco establecido en el párrafo 13 del Apéndice I de las Notas Generales de la Lista Arancelaria de la República de Honduras al Anexo 3.3 del RD-CAFTA y que no hayan participado en la asignación del 95%.
-
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.
-
-106-2025, publicado en el Diario Oficial “La Gaceta” el 30 de octubre de 2025, la Secretaría de Desarrollo Económico, aperturó para el periodo del 01 de enero al 31 de diciembre de 2026, los contingentes arancelarios de importación en el marco del Tratado de Libre Comercio entre República Dominicana – Centroamérica y Estados Unidos de América (RD-CAFTA).
-
-CONSIDERANDO: Que el Acuerdo Ministerial No. 106- 2025 el contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), es de 32,660 TM, reservando el cinco por ciento (5%) de dicho contingente por la cantidad de 1,633.00 TM, para los importadores que soliciten por primera vez.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 106-2025 el contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), es de 32,660 TM, reservando el cinco por ciento (5%) de dicho contingente por la cantidad de 1,633.00 TM, para los importadores que soliciten por primera vez.
 
 CONSIDERANDO: Que el noventa y cinco por ciento (95%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), asciende a 32,660.00 TM, de las cuales 31,026.98 TM, se asignaron a través de la Resolución No. 004-2026 de fecha 15 de enero del 2026.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-006-2026, publicado en el Diario Oficial “La Gaceta”, en fecha 11 de marzo del 2026, se creó la Oficina Presidencial de Comercio Exterior (OPCE), como ente desconcentrado de la Presidencia de la República, responsable de la formulación y evaluación de la política de comercio exterior y la administración general del régimen de comercio exterior.
 
-CONSIDERANDO: Que la administración del Tratado de Libre Comercio RD-CAFTA era competencia de la Secretaría de Desarrollo Económico (SDE), sin embargo, por sucesión corresponde a la Oficina Presidencial de Comercio Exterior (OPCE), de conformidad con el Decreto Ejecutivo No. PCM- 006-2026 publicado en el Diario Oficial “La Gaceta” el 11 de marzo de 2026, que la designa como la entidad responsable de la política y administración del comercio exterior. Asimismo, el Acuerdo Ejecutivo No. 017-2026 formalizó la transferencia de las funciones y competencias de la Dirección General de Integración Económica y Política Comercial (DGIEPC) y la Dirección General de Administración y Negociación de Tratados (DGANT) a la OPCE, por lo que la administración del Tratado recae en dicha institución.
+CONSIDERANDO: Que la administración del Tratado de Libre Comercio RD-CAFTA era competencia de la Secretaría de Desarrollo Económico (SDE), sin embargo, por sucesión corresponde a la Oficina Presidencial de Comercio Exterior (OPCE), de conformidad con el Decreto Ejecutivo No. PCM-006-2026 publicado en el Diario Oficial “La Gaceta” el 11 de marzo de 2026, que la designa como la entidad responsable de la política y administración del comercio exterior. Asimismo, el Acuerdo Ejecutivo No. 017-2026 formalizó la transferencia de las funciones y competencias de la Dirección General de Integración Económica y Política Comercial (DGIEPC) y la Dirección General de Administración y Negociación de Tratados (DGANT) a la OPCE, por lo que la administración del Tratado recae en dicha institución.
 
 CONSIDERANDO: Que es competencias la Oficina Presidencial de Comercio Exterior es el ente competente para garantizar las condiciones establecidas para la importación de los contingentes arancelarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana- Centroamérica y los Estados Unidos RD-CAFTA; incluyendo, aquellas relacionadas con los volúmenes de los contingentes a importar y los incisos arancelarios que conforman estos contingentes.
 
 POR TANTO:
 
-La Oficina Presidencial de Comercio Exterior en uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Decreto Ejecutivo No.
-
-PCM-006-2026 y Acuerdo No. 106-2025.
+La Oficina Presidencial de Comercio Exterior en uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Decreto Ejecutivo No. PCM-006-2026 y Acuerdo No. 106-2025.
 
 ACUERDA:
 

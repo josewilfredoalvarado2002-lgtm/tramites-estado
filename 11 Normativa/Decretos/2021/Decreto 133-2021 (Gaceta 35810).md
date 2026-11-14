@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "Decreto No. 133-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211230-35810/download"
 extraido: "2026-11-14"
-huella: "ab50a35118cde132"
+huella: "603c3f2878576e5c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 133-2021
@@ -29,7 +29,7 @@ huella: "ab50a35118cde132"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decretos Legislativos No.29-2020 y 33-2020 en su Artículo 39, y sus reformas, se aprobaron las medidas decretadas para la no sujeción al pago del Impuesto Sobre Ventas, Derechos Arancelarios y demás impuestos a la Importación, en la compra local e importación de insumos de bioseguridad, equipo médico necesario para atender la emergencia sanitaria ocasionada por el COVID-19.
+CONSIDERANDO: Que mediante Decretos Legislativos No. 29-2020 y 33-2020 en su Artículo 39, y sus reformas, se aprobaron las medidas decretadas para la no sujeción al pago del Impuesto Sobre Ventas, Derechos Arancelarios y demás impuestos a la Importación, en la compra local e importación de insumos de bioseguridad, equipo médico necesario para atender la emergencia sanitaria ocasionada por el COVID-19.
 
 CONSIDERANDO: Que actualmente a nivel mundial se presentan nuevos brotes de la última variación del virus llamada “Ómicron”, lo cual hace imperativo la extensión de vigencia de los decretos descritos en el considerando anterior.
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar hasta el 31 de Diciembre de 2022, la vigencia del Decreto Legislativo No.29-2020 del 12 de Marzo de 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 12 de Marzo de 2020, en la Edición No.35,198, y el Artículo 39 del Decreto Legislativo No.33-2020 y sus reformas, de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril de 2020, en la Edición No.35,217, todo esto con la finalidad de mantener las medidas de prevención del contagio, así como la adquisición del equipamiento médico para el tratamiento de la enfermedad del COVID-19 y sus variantes, así como el fortalecimiento del sistema de salud en general.
+ARTÍCULO 1.- Prorrogar hasta el 31 de Diciembre de 2022, la vigencia del Decreto Legislativo No. 29-2020 del 12 de Marzo de 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 12 de Marzo de 2020, en la Edición No. 35,198, y el Artículo 39 del Decreto Legislativo No. 33-2020 y sus reformas, de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril de 2020, en la Edición No. 35,217, todo esto con la finalidad de mantener las medidas de prevención del contagio, así como la adquisición del equipamiento médico para el tratamiento de la enfermedad del COVID-19 y sus variantes, así como el fortalecimiento del sistema de salud en general.
 
 #### Artículo 2
 
@@ -57,7 +57,7 @@ Por Tanto: Ejecútese.
 
 Tegucigalpa, M.D.C., 24 de diciembre de 2021.
 
-JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA ABRAHAM ALVARENGA URBINA CNE Consejo Nacional Electoral CERTIFICACION 2679-2021. El Infrascrito, Secretario General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN en el PUNTO UNICO (Asunto Declaratoria de Elecciones Generales 2021 en el Nivel Electivo de Diputados al Congreso Nacional de la República y Corporaciones Municipales) del Acta Número 77-2021, correspondiente a la Sesión Extraordinaria, celebrada por el Pleno de este Organismo Electoral el día lunes martes veintiocho (28) de diciembre de dos mil veintiuno (2021), reanudada el día jueves treinta (30) del mismo mes y año, que literalmente dice: “DECLARATORIA DE ELECCIONES GENERALES 2021 EN EL NIVEL ELECTIVO DE DIPUTADOS AL CONGRESO DE LA REPÚBLICA Y CORPORACIONES MUNICIPALES BAJO ACUERDO No. 23-2021 DEL PLENO DE CONSEJEROS. El Pleno de Consejeros. En virtud de haber realizado la verificación y conteo de 66 maletas electorales del departamento de Francisco Morazán, y 643 Maletas Electorales del departamento de Colón, a través de las Juntas Especiales de Verificación y Recuento, en cumplimiento de las Resoluciones dictadas a través del Proyecto de Acciones Administrativas y como resultado de los reclamos efectuados por los candidatos y Diputados para Departamento de: COLON Propietarios candidatas a cargos de elección popular, ciudadanos: Dixon Davadyd Álvarez Ortiz, candidato a cuarto diputado por el departamento de Colón, por el Partido Nacional de Honduras, bajo el expediente 133-2021; Ghisell Padilla Pelayo, candidata a tercer diputada por el departamento de Colón por el Partido Nacional de Honduras, bajo los expedientes 193 y 291- 2021; Tibdeo Ricardo Elencoff Martínez, candidato a primer diputado por el departamento de Colón, por el Partido Liberal de Honduras bajo el Expediente 198-2021 y Pablo Ramón Soto Bonilla, candidato a primer diputado por el departamento de Colón del Partido Libertad y Refundación (Libre), bajo el Expediente 246-2021; concluye la integración en el nivel de Diputados al Congreso Nacional de la República, en los Departamentos indicados, es decir Colón y Francisco Morazán. POR TANTO: El Pleno de Consejeros, por mayoría de votos, con el voto en contra del Consejero Aguirre, en el caso del recuento efectuado en el Departamento de Colón:
+JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA ABRAHAM ALVARENGA URBINA CNE Consejo Nacional Electoral CERTIFICACION 2679-2021. El Infrascrito, Secretario General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN en el PUNTO UNICO (Asunto Declaratoria de Elecciones Generales 2021 en el Nivel Electivo de Diputados al Congreso Nacional de la República y Corporaciones Municipales) del Acta Número 77-2021, correspondiente a la Sesión Extraordinaria, celebrada por el Pleno de este Organismo Electoral el día lunes martes veintiocho (28) de diciembre de dos mil veintiuno (2021), reanudada el día jueves treinta (30) del mismo mes y año, que literalmente dice: “DECLARATORIA DE ELECCIONES GENERALES 2021 EN EL NIVEL ELECTIVO DE DIPUTADOS AL CONGRESO DE LA REPÚBLICA Y CORPORACIONES MUNICIPALES BAJO ACUERDO No. 23-2021 DEL PLENO DE CONSEJEROS. El Pleno de Consejeros. En virtud de haber realizado la verificación y conteo de 66 maletas electorales del departamento de Francisco Morazán, y 643 Maletas Electorales del departamento de Colón, a través de las Juntas Especiales de Verificación y Recuento, en cumplimiento de las Resoluciones dictadas a través del Proyecto de Acciones Administrativas y como resultado de los reclamos efectuados por los candidatos y Diputados para Departamento de: COLON Propietarios candidatas a cargos de elección popular, ciudadanos: Dixon Davadyd Álvarez Ortiz, candidato a cuarto diputado por el departamento de Colón, por el Partido Nacional de Honduras, bajo el expediente 133-2021; Ghisell Padilla Pelayo, candidata a tercer diputada por el departamento de Colón por el Partido Nacional de Honduras, bajo los expedientes 193 y 291-2021; Tibdeo Ricardo Elencoff Martínez, candidato a primer diputado por el departamento de Colón, por el Partido Liberal de Honduras bajo el Expediente 198-2021 y Pablo Ramón Soto Bonilla, candidato a primer diputado por el departamento de Colón del Partido Libertad y Refundación (Libre), bajo el Expediente 246-2021; concluye la integración en el nivel de Diputados al Congreso Nacional de la República, en los Departamentos indicados, es decir Colón y Francisco Morazán. POR TANTO: El Pleno de Consejeros, por mayoría de votos, con el voto en contra del Consejero Aguirre, en el caso del recuento efectuado en el Departamento de Colón:
 
 RESUELVE: PRIMERO: Declarar electos en el cargo de DIPUTADOS PROPIETARIOS al Congreso Nacional de la República de Honduras con sus respectivos Suplentes, en los Departamentos de Colón y Francisco Morazán, por un período de cuatro (4) años, que se inicia el veintiuno (21) de enero del año dos mil veintidós (2022) y finaliza el veintiuno
 

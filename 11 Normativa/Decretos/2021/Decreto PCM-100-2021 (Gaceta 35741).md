@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo Número PCM-100-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211008-35741/download"
 extraido: "2026-11-14"
-huella: "12e08ee0f58b48ab"
+huella: "7ea7dea0ab734e9a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-100-2021
@@ -49,9 +49,7 @@ CONSIDERANDO: Que el Estado reconoce, garantiza y fomenta las libertades de cons
 
 CONSIDERANDO: Que es necesario facilitar y garantizar el suministro, almacenamientos y distribución de los combustibles derivados del petróleo y a la vez perfeccionar y actualizar los precios, que asegure que todos los habitantes del país paguen precios competitivos.
 
-POR TANTO, En uso de las facultades legales y en aplicación de los Artículos 245 numerales 1, 2, 11 y 45, 252, 255 y demás aplicables de la Constitución de la República; Artículos 7, 11, 22 numerales 6), 9) y 12), 14 numeral 1) 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo No. 266-2013; Decreto Legislativo No.
-
-94, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 1983; Decreto Legislativo No. 24-2008, publicado en el Diario Oficial “La Gaceta” en fecha 7 de julio del año 2008; Decreto Ejecutivo Número PCM-30-2006, publicado en el Diario Oficial “La Gaceta” en fecha 01 de septiembre de 2006; Decreto Ejecutivo Número PCM-02-2007, publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2007;
+POR TANTO, En uso de las facultades legales y en aplicación de los Artículos 245 numerales 1, 2, 11 y 45, 252, 255 y demás aplicables de la Constitución de la República; Artículos 7, 11, 22 numerales 6), 9) y 12), 14 numeral 1) 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo No. 266-2013; Decreto Legislativo No. 94, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 1983; Decreto Legislativo No. 24-2008, publicado en el Diario Oficial “La Gaceta” en fecha 7 de julio del año 2008; Decreto Ejecutivo Número PCM-30-2006, publicado en el Diario Oficial “La Gaceta” en fecha 01 de septiembre de 2006; Decreto Ejecutivo Número PCM-02-2007, publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2007;
 
 Decreto Ejecutivo Número PCM-048-2017 publicado en el Diario Oficial “La Gaceta” en fecha 07 de agosto de 2017;
 

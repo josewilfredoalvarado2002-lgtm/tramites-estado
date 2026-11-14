@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220104-35813/download"
 extraido: "2026-11-14"
-huella: "79c1c7a8b1d766f0"
+huella: "039e01d219e010a0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-058-2021
@@ -29,7 +29,7 @@ huella: "79c1c7a8b1d766f0"
 
 Tegucigalpa, M.D.C., 22 de diciembre, 2021
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-059-2019 publicado en fecha 30 de septiembre del 2019, se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170- 2016, a partir del 01 de enero del 2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-059-2019 publicado en fecha 30 de septiembre del 2019, se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, a partir del 01 de enero del 2020.
 
 CONSIDERANDO: Que mediante Acuerdo No. 579-2019 de fecha 14 de noviembre de 2019 el Secretario Privado y Jefe de Gabinete Presidencial conforme a las facultades delegadas por el Presidente de la República mediante Acuerdo Ejecutivo No. 009-2018 de fecha 27 de enero del 2018, acordó nombrar al ciudadano Juan José Vides Mejía en el cargo de Director Ejecutivo de la Administración Aduanera de Honduras, de conformidad a las atribuciones y facultades señaladas en el PCM-059-2019, para ejercer dichas funciones a partir de la entrada en vigencia de la Administración Aduanera de Honduras.
 
@@ -39,13 +39,11 @@ CONSIDERANDO: Que de conformidad al artículo 4, párrafo segundo de la Ley de P
 
 CONSIDERANDO: Que la Ley de Simplificación Administrativa tiene como objetivos específicos en el Artículo 2, el de clarificar y disminuir en lo posible jerarquías o líneas de responsabilidad entre quienes, de conformidad con la ley, intervienen en la prestación de servicios con facultades de autorizar, controlar y operar, para que no se demore ni entorpezca la toma de decisiones y reducir la multiplicidad de unidades ejecutoras de servicios administrativos y de apoyo.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-040-2020, el Director Ejecutivo de la Administración Aduanera de Honduras delega las facultades y atribuciones del Director Ejecutivo establecidas en el artículo 199 del Decreto 170-2016 que contiene el Código Tributario vigente, en su respectivo ámbito de competencias, a la Abogada DORIS ALICIA MADRID LEZAMA, nombrada en el cargo de SUBDIRECTORA DE LA ADMINISTRACIÓN ADUANERA DE HONDURAS, mediante ACUERDO No.
-
-580-2019, de fecha 14 de noviembre de 2019, de manera temporal durante la ausencia del Director Ejecutivo por motivos de salud o de viaje.
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-040-2020, el Director Ejecutivo de la Administración Aduanera de Honduras delega las facultades y atribuciones del Director Ejecutivo establecidas en el artículo 199 del Decreto 170-2016 que contiene el Código Tributario vigente, en su respectivo ámbito de competencias, a la Abogada DORIS ALICIA MADRID LEZAMA, nombrada en el cargo de SUBDIRECTORA DE LA ADMINISTRACIÓN ADUANERA DE HONDURAS, mediante ACUERDO No. 580-2019, de fecha 14 de noviembre de 2019, de manera temporal durante la ausencia del Director Ejecutivo por motivos de salud o de viaje.
 
 POR TANTO
 
-En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 059-2019.
+En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-059-2019.
 
 La Directora Ejecutiva, por Ley de la Administración Adua­ nera de Honduras en pleno uso de sus facultades,
 

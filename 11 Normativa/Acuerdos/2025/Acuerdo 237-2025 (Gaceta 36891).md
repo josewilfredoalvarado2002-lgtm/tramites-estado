@@ -11,7 +11,7 @@ paginas: "A. 5 - 44"
 sumario: "Acuerdo No. 237-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250716-36891/download"
 extraido: "2026-11-09"
-huella: "b27dcda82275a6a5"
+huella: "fc7e1f09325aceca"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 237-2025
@@ -43,7 +43,7 @@ CONSIDERANDO (6): Que la Secretaría de Estado en el Despacho de Finanzas (SEFIN
 
 CONSIDERANDO (7): Que en la elaboración del presupuesto para el ejercicio fiscal 2026 continuará encaminada al cumplimiento de las prioridades del Gobierno de Honduras, haciendo uso de la técnica de Presupuesto Base Cero, lo que implica un cambio de enfoque en el gasto público, orientado a financiar las prioridades anuales o multianuales con resultados directos en favor de la población y dentro de un marco de sostenibilidad fiscal de mediano plazo, para lo cual las instituciones de la administración pública (centralizada y descentralizada) deben revisar todos los programas presupuestarios asegurándose que las intervenciones públicas estén visibilizadas en la estructura programática definida.
 
-CONSIDERANDO (8): Que el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2026-2029, fue aprobado por la Presidenta de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM 17-2025, de fecha 29 de abril de 2025 y publicado en el Diario Oficial La Gaceta No.36826 de fecha 30 de abril de 2025; siendo éste el documento que muestra la gradualidad en el cumplimiento de la Ley de Responsabilidad Fiscal (LRF), lo que permitirá retornar al proceso de consolidación fiscal y mantener niveles prudentes de endeudamiento, además de orientar las decisiones estratégicas de la política económica y fiscal especialmente en la formulación del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2026.
+CONSIDERANDO (8): Que el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2026-2029, fue aprobado por la Presidenta de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM 17-2025, de fecha 29 de abril de 2025 y publicado en el Diario Oficial La Gaceta No. 36826 de fecha 30 de abril de 2025; siendo éste el documento que muestra la gradualidad en el cumplimiento de la Ley de Responsabilidad Fiscal (LRF), lo que permitirá retornar al proceso de consolidación fiscal y mantener niveles prudentes de endeudamiento, además de orientar las decisiones estratégicas de la política económica y fiscal especialmente en la formulación del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2026.
 
 CONSIDERANDO (9): Que con el objetivo de superar limitaciones y consolidar un Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2026, capaz de contribuir al logro de los propósitos y la planificación estratégica del Estado, con el apoyo de la Secretaría de Estado en el Despacho de Planificación Estratégica (SPE), la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), la Oficina Normativa de Contrataciones y Adquisiciones del Estado (ONCAE) y la Administración Nacional de Servicio Civil (ANSEC), se han desarrollado lineamientos generales y específicos de política presupuestaria que permitirán a las instituciones del Sector Público identificar de manera adecuada las intervenciones más eficientes y eficaces, para así contribuir al mejoramiento de la calidad del gasto público, articulando las necesidades del gasto con los objetivos de planificación de las instituciones y el logro de resultados en favor de la población hondureña.
 
@@ -217,7 +217,7 @@ b) Inflación (variación porcentual interanual del IPC) se estima en un rango d
 
 c) Tipo de cambio promedio proyectado a valores actuales por dólar: Se proyecta una depreciación anual no mayor al 2.0% para el período 2026-2029.
 
-Las metas fiscales para la Administración Central (AC) y para el Sector Público No Financiero (SPNF) se establecen en el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2026- 20294, aprobado el 29 de abril de 2025 mediante Decreto Ejecutivo PCM-17-2025 y publicado en el Diario Oficial La Gaceta No. 36,826 de fecha 30 de abril de 2025 y son las siguientes:
+Las metas fiscales para la Administración Central (AC) y para el Sector Público No Financiero (SPNF) se establecen en el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2026-20294, aprobado el 29 de abril de 2025 mediante Decreto Ejecutivo PCM-17-2025 y publicado en el Diario Oficial La Gaceta No. 36,826 de fecha 30 de abril de 2025 y son las siguientes:
 
 Metas Fiscales para la Administración Central (AC) 2026 Millones de Porcentaje del Descripción Lempiras PIB Ingresos Totales 203,547.9 18.4% d/c Ingresos Tributarios 187,937.2 17.0% Gastos Totales 233,447.2 21.1% Gastos Corrientes 195,570.7 17.7% d/c Salarios 85.676.5 7.7% Gasto de Capital 37,876.5 3.4% Déﬁcit de la AC 29,899.3 2.7% Fuente: Dirección General de PolíƟca Macro ﬁscal – SEFIN *d/c = de los cuales 4 Ver Anexo C, Balance del Sector Público No Financiero 2026-2029 y Cuenta Financiera Administración Central 2026-2029.
 
@@ -611,7 +611,7 @@ f) Subsanar los estados financieros y establecer un plan de monitoreo y seguimie
 
 #### Artículo 12
 
-ARTÍCULO 12. Transparencia Presupuestaria y Rendición de Cuentas.- Con el objeto de lograr una mayor transparencia presupuestaria y rendición de cuentas, bajo el marco normativo del artículo 66 del Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República (Acuerdo No. 124-2025, 3 de marzo de 2025) en cumplimiento del artículo 308 del Decreto Legislativo No.4-2025, la Secretaría de Estado en el Despacho de Finanzas, pondrá a disposición de la población en forma digital en el sitio Web institucional documentos presupuestarios clave que faciliten la participación ciudadana en el monitoreo, seguimiento y evaluación de los asuntos presupuestarios.
+ARTÍCULO 12. Transparencia Presupuestaria y Rendición de Cuentas.- Con el objeto de lograr una mayor transparencia presupuestaria y rendición de cuentas, bajo el marco normativo del artículo 66 del Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República (Acuerdo No. 124-2025, 3 de marzo de 2025) en cumplimiento del artículo 308 del Decreto Legislativo No. 4-2025, la Secretaría de Estado en el Despacho de Finanzas, pondrá a disposición de la población en forma digital en el sitio Web institucional documentos presupuestarios clave que faciliten la participación ciudadana en el monitoreo, seguimiento y evaluación de los asuntos presupuestarios.
 
 Dichos documentos se preparan de acuerdo con el marco legal vigente y las buenas prácticas internacionales, por lo que, las diferentes instituciones del sector público que sean requeridas para proporcionar información deberán entregar oportunamente dichos insumos que servirán para la elaboración de los documentos presupuestarios clave que debe preparar la SEFIN.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200323-35207/download"
 extraido: "2026-11-14"
-huella: "d4cf7c562aee907d"
+huella: "814453d496e8f0e8"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "d4cf7c562aee907d"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, certifica la resolución que literalmente dice: RESOLUCIÓN No. 2089-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintinueve de octubre del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha trece de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-13062019- 450, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAPIQUILARES DE LA NIEVE, con domicilio en la Comunidad de Tapiquilares de la Nieve, municipio de San Antonio de Cortés, departamento de Cortés; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha trece de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-13062019-450, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAPIQUILARES DE LA NIEVE, con domicilio en la Comunidad de Tapiquilares de la Nieve, municipio de San Antonio de Cortés, departamento de Cortés; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -57,9 +57,7 @@ OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -151,7 +149,7 @@ DE LA JUNTA DIRECTIVA
 
 ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.
 
-Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente (a) . 2.- Un Vicepresidente(a) ;
+Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente (a) . 2.- Un Vicepresidente(a);
 
 3.- Secretario(a) . 4.- Un Tesorero(a) . 5.- Un Fiscal, 6.- Un Vocal primero, y; 7.- Un Vocal segundo.
 
@@ -247,7 +245,7 @@ ARTÍCULO 32.- Los presentes Estatutos entrarán en vigencia luego de ser aproba
 
 SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAPIQUILARES DE LA NIEVE, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
-TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAPIQUILARES DE LA NIEVE, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS) , los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los organos Estatales constituidos para verificar la transparencia de los mismos.
+TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAPIQUILARES DE LA NIEVE, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los organos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO: La JUNTA ADMINISTRADORA DE AGUA
 

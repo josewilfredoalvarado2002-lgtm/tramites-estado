@@ -11,7 +11,7 @@ paginas: "A. 8 - 14"
 sumario: "Acuerdos números 257-2020, 258-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200626-35295/download"
 extraido: "2026-11-14"
-huella: "6803e15655185b62"
+huella: "a009e47c62d8c84f"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 257-2020
@@ -29,17 +29,17 @@ huella: "6803e15655185b62"
 
 Tegucigalpa, M.D.C., 26 de junio de 2020 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.143-2010 contentivo de la Ley de Promoción de Alianza Público Privada, indica en su Artículo 1 que dicha Ley tiene como finalidad gestionar y regular los procesos de contratación que permitan la participación público-privada en la ejecución, desarrollo y administración de obras y servicios públicos, potenciando la capacidad de inversión en el país a fin de lograr el desarrollo integral de la población.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 143-2010 contentivo de la Ley de Promoción de Alianza Público Privada, indica en su Artículo 1 que dicha Ley tiene como finalidad gestionar y regular los procesos de contratación que permitan la participación público-privada en la ejecución, desarrollo y administración de obras y servicios públicos, potenciando la capacidad de inversión en el país a fin de lograr el desarrollo integral de la población.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-064-2019, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre de 2019, ordena suprimir y liquidar la Comisión para la Promoción de la Alianza Público- Privada (COALIANZA).
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 064-2019 establece la necesidad de una nueva generación de proyectos bajo el modelo de Alianza Público-Privada (APP), dando a los Concedentes un papel preponderante en la preparación, estructuración, contratación, seguimiento y control de los proyectos a lo largo de la vigencia del contrato APP.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-064-2019 establece la necesidad de una nueva generación de proyectos bajo el modelo de Alianza Público-Privada (APP), dando a los Concedentes un papel preponderante en la preparación, estructuración, contratación, seguimiento y control de los proyectos a lo largo de la vigencia del contrato APP.
 
 CONSIDERANDO: Que el Artículo 6 del Decreto Ejecutivo antes referido establece que todas las funciones y atribuciones que le corresponde a COALIANZA serán reasignadas por el Consejo Superior de APP, a partir de la vigencia del presente Decreto y en un plazo máximo de seis (6) meses, tomando como base el informe presentado por el órgano responsable de la transición.
 
 CONSIDERANDO: Que el Artículo 7 del mismo Decreto Ejecutivo crea el Consejo Superior para la Alianza Público Privada, en adelante “El Consejo Superior APP”, como el órgano de máxima autoridad del Sistema y ejercerá su coordinación. Su naturaleza es la de un órgano colegiado mixto e intersectorial de alto nivel y de carácter estratégico, deliberativo y vinculante para el diseño y la formulación de políticas, estrategias, planes, programas y proyectos bajo la modalidad de alianzas público privadas, para el desarrollo económico y mejoramiento de la competitividad del País.
 
-CONSIDERANDO: Que mediante Artículo 15 del PCM-064- 2019 se crea la Unidad Técnica Especializada en Proyectos bajo el modelo de Alianza Público Privada, en adelante Unidad Técnica en Proyectos APP (UTEP-APP), la cual tendrá a su cargo la identificación, evaluación, selección, definición, estructuración y adjudicación de los proyectos que según el Consejo Superior de APP califiquen para desarrollarse bajo el modelo de Alianza Público Privada, para lo cual deberá contar con la participación del Concedente. La Unidad estará adscrita a la Secretaría de Finanzas debiendo para tal fin, dicha Secretaría de Estado asignar los recursos para el funcionamiento de la misma.
+CONSIDERANDO: Que mediante Artículo 15 del PCM-064-2019 se crea la Unidad Técnica Especializada en Proyectos bajo el modelo de Alianza Público Privada, en adelante Unidad Técnica en Proyectos APP (UTEP-APP), la cual tendrá a su cargo la identificación, evaluación, selección, definición, estructuración y adjudicación de los proyectos que según el Consejo Superior de APP califiquen para desarrollarse bajo el modelo de Alianza Público Privada, para lo cual deberá contar con la participación del Concedente. La Unidad estará adscrita a la Secretaría de Finanzas debiendo para tal fin, dicha Secretaría de Estado asignar los recursos para el funcionamiento de la misma.
 
 CONSIDERANDO: Que el Artículo 15 del PCM-064-2019, párrafo final, establece que la estructura orgánica de la UTEPAPP se establecerá en un Reglamento, el cual deberá emitirse en un plazo máximo de sesenta (60) días contados a partir de la vigencia del presente Decreto.
 

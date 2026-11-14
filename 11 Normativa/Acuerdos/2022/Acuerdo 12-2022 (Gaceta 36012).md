@@ -11,7 +11,7 @@ paginas: "A. 1 - 23"
 sumario: "Acuerdos Nos. 12/2022, 13/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220826-36012/download"
 extraido: "2026-11-14"
-huella: "3fb8078c2f5472b6"
+huella: "b8ac1292064efe3a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.12/2022.- Sesión No.3984 del 18 de agosto
@@ -31,9 +31,9 @@ de 2022.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que conforme con la Constitución de la República y la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país, la cual será determinada por su Directorio, quien tiene entre sus atribuciones propiciar en el ámbito de su competencia, el sano desarrollo del sistema financiero, así como velar por la estabilidad de los sistemas financieros del país.
 
-CONSIDERANDO: Que actualmente el BCH, mediante el “Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico” (INDEL), contenido en el Acuerdo No.02/2016 del 21 de abril de 2016, emitido por este Directorio, regula la autorización y funcionamiento de las instituciones no bancarias, privadas y públicas que realicen transferencias y operaciones de pago de bienes y servicios mediante el uso de dispositivos móviles, con recursos de sus usuarios, transformados en dinero electrónico, en el territorio nacional, con el fin de promover la inclusión financiera entre las personas de escasos recursos o limitados ingresos de las zonas urbanas y rurales del país.
+CONSIDERANDO: Que actualmente el BCH, mediante el “Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico” (INDEL), contenido en el Acuerdo No. 02/2016 del 21 de abril de 2016, emitido por este Directorio, regula la autorización y funcionamiento de las instituciones no bancarias, privadas y públicas que realicen transferencias y operaciones de pago de bienes y servicios mediante el uso de dispositivos móviles, con recursos de sus usuarios, transformados en dinero electrónico, en el territorio nacional, con el fin de promover la inclusión financiera entre las personas de escasos recursos o limitados ingresos de las zonas urbanas y rurales del país.
 
-CONSIDERANDO: Que el Decreto Legislativo No.83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021, tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente, por lo que con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
+CONSIDERANDO: Que el Decreto Legislativo No. 83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021, tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente, por lo que con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
 
 CONSIDERANDO: Que las tecnologías financieras permiten la inclusión de nuevos actores en las operaciones de pago de bienes y servicios mediante el uso de dispositivos electrónicos o sistemas informáticos, por lo que se debe aprobar una nueva reglamentación para los productos ofrecidos y los requisitos que deben cumplir las personas jurídicas, nacionales y extranjeras que ofrezcan servicios de pagos y transferencias utilizando dinero electrónico.
 
@@ -45,9 +45,9 @@ POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República;
 
-6 y 16, incisos a) y f) de la Ley del Banco Central de Honduras y en el Decreto Legislativo No.83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021,
+6 y 16, incisos a) y f) de la Ley del Banco Central de Honduras y en el Decreto Legislativo No. 83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -633,17 +633,17 @@ Finalizado el plazo antes mencionado, el BCH ordenará el cese de operaciones de
 
 #### Artículo 43
 
-Artículo 43.- De las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico Autorizadas. Las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico que fueron autorizadas para operar por el BCH, conforme a lo establecido en el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, aprobado mediante Acuerdo No.01/2016, emitido por el Directorio del BCH el 11 de febrero de 2016 y publicado en el Diario Oficial “La Gaceta” el 24 de febrero de 2016, reformado mediante Acuerdo No.02/2016, aprobado por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016, a partir de la publicación del presente Reglamento serán reconocidas como Instituciones No Bancarias de Dinero Electrónico, de conformidad con el presente Reglamento y quedarán sujetas al mismo.
+Artículo 43.- De las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico Autorizadas. Las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico que fueron autorizadas para operar por el BCH, conforme a lo establecido en el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, aprobado mediante Acuerdo No. 01/2016, emitido por el Directorio del BCH el 11 de febrero de 2016 y publicado en el Diario Oficial “La Gaceta” el 24 de febrero de 2016, reformado mediante Acuerdo No. 02/2016, aprobado por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016, a partir de la publicación del presente Reglamento serán reconocidas como Instituciones No Bancarias de Dinero Electrónico, de conformidad con el presente Reglamento y quedarán sujetas al mismo.
 
 Para los documentos que han sido autorizados por el BCH y la CNBS para las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, el término “INDEL” se debe entender como Institución No Bancaria de Dinero Electrónico, de conformidad con lo establecido en el presente Reglamento.
 
 #### Artículo 44
 
-Artículo 44.- Transitoriedad. Aquellos procesos administrativos que se encuentren en trámite antes de la entrada en vigencia del presente Reglamento se resolverán de acuerdo con las normas establecidas en el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, contenido en el Acuerdo No.02/2016, aprobado por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016.
+Artículo 44.- Transitoriedad. Aquellos procesos administrativos que se encuentren en trámite antes de la entrada en vigencia del presente Reglamento se resolverán de acuerdo con las normas establecidas en el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, contenido en el Acuerdo No. 02/2016, aprobado por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016.
 
 #### Artículo 45
 
-Artículo 45.- Derogatoria. Salvo para los efectos de lo establecido en el Artículo precedente, se deroga, a partir de la publicación del presente Reglamento en el Diario Oficial “La Gaceta”, el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, contenido en el Acuerdo No.01/2016, emitido por el Directorio del BCH el 11 de febrero de 2016 y publicado en el Diario Oficial “La Gaceta” el 24 de febrero de 2016, reformado mediante Acuerdo No.02/2016, emitido por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016.
+Artículo 45.- Derogatoria. Salvo para los efectos de lo establecido en el Artículo precedente, se deroga, a partir de la publicación del presente Reglamento en el Diario Oficial “La Gaceta”, el Reglamento para la Autorización y Funcionamiento de las Instituciones no Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, contenido en el Acuerdo No. 01/2016, emitido por el Directorio del BCH el 11 de febrero de 2016 y publicado en el Diario Oficial “La Gaceta” el 24 de febrero de 2016, reformado mediante Acuerdo No. 02/2016, emitido por el Directorio del BCH el 21 de abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 30 de abril de 2016.
 
 #### Artículo 46
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SAG-046-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230314-36179/download"
 extraido: "2026-11-14"
-huella: "8dc0180caeebbe63"
+huella: "0fbcd7f078712a29"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAG-046-2023
@@ -105,13 +105,13 @@ DÉCIMO:
 
 Se declara como periodo de veda para la captura de medusa bola de cañón Stomolophus meleagris el periodo comprendido desde las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta (30) de junio del año dos mil veintitrés (2023).
 
-DÉCIMO PRIMERO: Los jefes e inspectores de las oficinas Regionales de la Dirección General de Pesca y Acuicultura ( D I G E P E S C A ) d e b e r á n inspeccionar obligatoriamente las plantas procesadoras y empacadoras de mariscos y levantar el respectivo inventario de producto pesquero almacenado en sus depósitos y cuartos fríos durante la última semana de febrero y la primera semana de marzo con el apoyo del personal delegado por el Director(a) de la Dirección General de Pesca y Acuicultura (DIGEPESCA), el cual será remitido a la Unidad de Estadísticas y al Departamento de Control y Fiscalización.
+DÉCIMO PRIMERO: Los jefes e inspectores de las oficinas Regionales de la Dirección General de Pesca y Acuicultura ( DIGEPESCA ) deberán inspeccionar obligatoriamente las plantas procesadoras y empacadoras de mariscos y levantar el respectivo inventario de producto pesquero almacenado en sus depósitos y cuartos fríos durante la última semana de febrero y la primera semana de marzo con el apoyo del personal delegado por el Director(a) de la Dirección General de Pesca y Acuicultura (DIGEPESCA), el cual será remitido a la Unidad de Estadísticas y al Departamento de Control y Fiscalización.
 
 DÉCIMO SEGUNDO: Los productos pesqueros bajo inventario y reportados al terminar la temporada de pesca e iniciado el periodo de veda podrán ser comercializados. De ser producto no inventariado, se considerará como pesca ilegal y se aplicará la sanción administrativa correspondiente conforme a la Ley General de Pesca y Acuicultura, a excepción de especies de escama no incluidas en el periodo de veda.
 
 DÉCIMO TERCERO: Una vez concluida la temporada de pesca, los Jefes e Inspectores de las Oficinas Regionales de la Dirección General de Pesca y Acuicultura (DIGEPESCA) deberán levantar durante el mes de marzo, las respectivas actas de inspección de toda la flota pesquera nacional y embarcaciones industriales y artesanales que participaron en el Protocolo de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar en el Caribe de Honduras en la temporada 2022-2023, con el propósito de realizar un inventario de todas las embarcaciones, verificando que las mismas estén en los respectivos puertos con el apoyo de Marina Mercante y la Fuerza Naval.- Las embarcaciones que incumplan lo dispuesto en el presente acuerdo serán sancionadas conforme a la Ley General de Pesca y Acuicultura.
 
-DÉCIMO CUARTO: El incumplimiento a los periodos de veda dará lugar a la suspensión de la licencia de pesca respectiva (artículo 76) y a la aplicación de las sanciones administrativas señaladas en el artículo 107 de la Ley de Pesca y Acuicultura (Decreto No. 106- 2015).
+DÉCIMO CUARTO: El incumplimiento a los periodos de veda dará lugar a la suspensión de la licencia de pesca respectiva (artículo 76) y a la aplicación de las sanciones administrativas señaladas en el artículo 107 de la Ley de Pesca y Acuicultura (Decreto No. 106-2015).
 
 DÉCIMO QUINTO: Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial No. SAG 071-2022.
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Setur No. 005-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220311-35870/download"
 extraido: "2026-11-14"
-huella: "4b5a7fad2de020cc"
+huella: "6b8ec90870f11bd2"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETUR No. 005-2022
@@ -37,23 +37,17 @@ CONSIDERANDO: Que, los Secretarios de Estado serán sustituidos por Ministerio d
 
 CONSIDERANDO: Que, los Secretarios de Estado pueden delegar atribuciones en los Subsecretarios y Secretarios Generales.
 
-CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No.32-2022 de fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública, en la en la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA, en el cargo de Secretaria de Estado en el Despacho de Turismo y Presidenta Ejecutiva del Instituto Hondureño de Turismo
+CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No. 32-2022 de fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública, en la en la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA, en el cargo de Secretaria de Estado en el Despacho de Turismo y Presidenta Ejecutiva del Instituto Hondureño de Turismo
 
-CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No.
-
-02-2018 de fecha veintidós (22) de junio del año dos mil dieciocho (2018), se nombra a la ciudadana ANALESKY FONSECA TREJO en el cargo de Secretaria General de la Secretaría General de Estado en el Despacho Turismo, cargo que desempeña AD HONOREM.
+CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No. 02-2018 de fecha veintidós (22) de junio del año dos mil dieciocho (2018), se nombra a la ciudadana ANALESKY FONSECA TREJO en el cargo de Secretaria General de la Secretaría General de Estado en el Despacho Turismo, cargo que desempeña AD HONOREM.
 
 CONSIDERANDO: Que, mediante Acuerdo Ejecutivo Número 084-A2015 de fecha tres (03) de agosto del año dos mil quince (2015), se nombró a la ciudadana ANALESKY FONSECA TREJO, como Secretaria General del Instituto Hondureño de Turismo
 
-CONSIDERANDO: Que, mediante Acuerdo SETUR No.
-
-006-2018 de fecha diecisiete (17) de septiembre del año dos mil dieciocho (2018), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO ,en el cargo de Director Legal en la Secretaría General de Estado en el Despacho de Turismo, cargo que desempeña AD HONOREM.
+CONSIDERANDO: Que, mediante Acuerdo SETUR No. 006-2018 de fecha diecisiete (17) de septiembre del año dos mil dieciocho (2018), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO,en el cargo de Director Legal en la Secretaría General de Estado en el Despacho de Turismo, cargo que desempeña AD HONOREM.
 
 CONSIDERANDO: Que, mediante Acuerdo Ejecutivo Número 022-2016 de fecha dieciséis (16) de febrero del año dos mil dieciséis (2016), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO, en el cargo de Director Legal del Instituto Hondureño de Turismo.
 
-CONSIDERANDO: Que, mediante Memorándum No.
-
-067-PE-IHT -2022, de fecha 22 de febrero del año 2022 se le comunica a la ciudadana ANALESKY FONSECA TREJO, Secretaria General de la Secretaría de Estado en el Despacho de Turismo (SETUR) cargo que desempeña Ad honorem y Secretaría General del Instituto Hondureño de Turismo, que tiene pendiente de gozar de 15 días de vacaciones y se le notifica que deberé de gozar de las mismas en el período comprendido del lunes 28 de febrero al 21 de marzo del año dos mil veintidós.
+CONSIDERANDO: Que, mediante Memorándum No. 067-PE-IHT -2022, de fecha 22 de febrero del año 2022 se le comunica a la ciudadana ANALESKY FONSECA TREJO, Secretaria General de la Secretaría de Estado en el Despacho de Turismo (SETUR) cargo que desempeña Ad honorem y Secretaría General del Instituto Hondureño de Turismo, que tiene pendiente de gozar de 15 días de vacaciones y se le notifica que deberé de gozar de las mismas en el período comprendido del lunes 28 de febrero al 21 de marzo del año dos mil veintidós.
 
 CONSIDERANDO: Que, conforme a ley en ausencia temporal de la Secretaria General es necesario la delegación de firma para atender todas las actuaciones derivadas de su cargo en la Secretaría General de la Secretaría de Estado en el Despacho de Turismo y del Instituto Hondureño de Turismo.
 

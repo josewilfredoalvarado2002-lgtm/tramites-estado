@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Decreto Ejecutivo Número 014-2026Acuerdo Ejecutivo No. 035-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260525-37150/download"
 extraido: "2026-11-09"
-huella: "48a7ed869e1ef0bd"
+huella: "623c76290896399a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 035-DP-2026
@@ -41,11 +41,9 @@ CONSIDERANDO (4): Que mediante Decreto Ejecutivo PCM 03-2018, la Presidencia de 
 
 CONSIDERANDO (5): Que el artículo 3 del Reglamento de Organización, funcionamiento y Competencias del Poder Ejecutivo en su párrafo sexto, dispone que “los órganos de la Administración Pública, incluyendo las Instituciones Autónomas, coordinarán sus actividades por sectores atendiendo los fines y objetivos establecidos en las políticas nacionales, con el objeto de evitar interferencias o la pérdida de recursos y asegurar la eficiencia y eficacia en la actividad administrativa” extremo que se aleja de la situación actual en la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT).
 
-CONSIDERANDO (6): Que en fecha uno (1) de junio de 2022 la Presidenta Constitucional de la República de Honduras Iris Xiomara Castro Sarmiento juramentó de manera interina a la ciudadana SUA MADAI MARTÍNEZ IBARRA, publicado en el Diario Oficial La Gaceta número 36,076 del 14 de noviembre del 2022, cancelando a la ciudadana ROSA ISABEL COREA AGUILAR, quién había sido nombrada en fecha nueve (9) de marzo de 2021, efectivo a partir del 01 de mayo de 2021; mediante Acuerdo Ejecutivo número SEDH- 003-2021, mediante Acuerdo Ejecutivo número 359-A-2022 de fecha 01 de junio de 2022.
+CONSIDERANDO (6): Que en fecha uno (1) de junio de 2022 la Presidenta Constitucional de la República de Honduras Iris Xiomara Castro Sarmiento juramentó de manera interina a la ciudadana SUA MADAI MARTÍNEZ IBARRA, publicado en el Diario Oficial La Gaceta número 36,076 del 14 de noviembre del 2022, cancelando a la ciudadana ROSA ISABEL COREA AGUILAR, quién había sido nombrada en fecha nueve (9) de marzo de 2021, efectivo a partir del 01 de mayo de 2021; mediante Acuerdo Ejecutivo número SEDH-003-2021, mediante Acuerdo Ejecutivo número 359-A-2022 de fecha 01 de junio de 2022.
 
-CONSIDERANDO (7): Que mediante Resolución No.
-
-002-2023, contenida en el Punto Único del Acta de Sesión Extraordinaria de Junta Directiva No. 001-2023, de fecha dieciséis (16) de agosto de dos mil veintitrés (2023), fue nombrada la ciudadana SUA MADAI MARTÍNEZ IBARRA, en el cargo de Secretaria Ejecutiva de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas de Honduras (CICESCT).
+CONSIDERANDO (7): Que mediante Resolución No. 002-2023, contenida en el Punto Único del Acta de Sesión Extraordinaria de Junta Directiva No. 001-2023, de fecha dieciséis (16) de agosto de dos mil veintitrés (2023), fue nombrada la ciudadana SUA MADAI MARTÍNEZ IBARRA, en el cargo de Secretaria Ejecutiva de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas de Honduras (CICESCT).
 
 CONSIDERANDO (8): Que el Presidente de la República como máxima autoridad nacional, tiene la facultad de organizar, dirigir y reestructurar sus órganos y dependencias conforme al interés público, asegurando el adecuado funcionamiento institucional y la eficiencia en la prestación del servicio de la Administración Pública.
 

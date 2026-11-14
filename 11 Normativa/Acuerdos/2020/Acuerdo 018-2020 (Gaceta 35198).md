@@ -8,10 +8,10 @@ gaceta_numero: 35198
 gaceta_fecha: "2020-03-12"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)|La Gaceta 35198]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020"
+sumario: "Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200312-35198/download"
 extraido: "2026-11-14"
-huella: "1ba0fa65e5904750"
+huella: "eaf2d6278c44fe5d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 018-2020
@@ -23,7 +23,7 @@ huella: "1ba0fa65e5904750"
 | Emisor | SECRETARÍA DE DESARROLLO ECONÓMICO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)\|La Gaceta 35198]] del 2020-03-12 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad con el artículo 72 de la Ley de Protección al
 
 CONSIDERANDO: Que en el Artículo 73 de la Ley de Protección al Consumidor establece; las causas para la determinación del precio máximo de venta, la autoridad de aplicación deberá determinar el precio, tarifa o margen máximo de comercialización o la modificación de estos, en los casos siguientes: cuando se trate de caso fortuito o fuerza mayor que derive en emergencia, desastre o situación de calamidad sea sectorial, regional o nacional declarada por la autoridad competente y que genere acaparamiento, especulación, desabastecimiento o se niegue la venta de los bienes enunciados con la finalidad de provocar el alza de sus precios o cualquier otro perjuicio económico al consumidor.
 
-CONSIDERANDO: Que esta Secretaria de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas: acordó establecer una Determinación en el precio máximo de venta de estos productos, debido a la emergencia sanitaria declarada mediante Decreto Ejecutivo Numero PCM- 005-2020 y que los mismos puedan ser usados por nuestra población sin ser violentados sus derechos.
+CONSIDERANDO: Que esta Secretaria de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas: acordó establecer una Determinación en el precio máximo de venta de estos productos, debido a la emergencia sanitaria declarada mediante Decreto Ejecutivo Numero PCM-005-2020 y que los mismos puedan ser usados por nuestra población sin ser violentados sus derechos.
 
 POR TANTO:
 

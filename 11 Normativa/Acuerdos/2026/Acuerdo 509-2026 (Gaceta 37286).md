@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ministerial No. 509-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261104-37286/download"
 extraido: "2026-11-12"
-huella: "afe1225b4fd53f60"
+huella: "d9659526599b3413"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 509-2026
@@ -55,9 +55,7 @@ CONSIDERANDO: Que el Estado de Honduras asigna recursos públicos destinados a g
 
 CONSIDERANDO: Que el Presupuesto General de Ingresos y Egresos de la República contempla disposiciones orientadas a garantizar la sostenibilidad financiera y operativa de la infraestructura hidráulica asociada a la Represa JCV y al sistema regional de abastecimiento de agua potable, sin perjuicio de las competencias administrativas, técnicas y operativas que corresponden a la SERNA en materia de administración y operación de las PTAP vinculadas al Programa Nacaome.
 
-CONSIDERANDO: Que en el marco del Proyecto de Seguridad Hídrica (Proyecto) en el Corredor Seco de Honduras, financiado mediante cooperación internacional a través del convenio de financiamiento otorgado por la Asociación Internacional de Fomento al Gobierno de Honduras de fecha 8 de marzo de 2021, Crédito No.
-
-6680-HN y ratificado mediante el Artículo 3 del Decreto Legislativo 10-2021 del 22 de abril de 2021, publicado en el Diario Oficial La Gaceta el 5 de mayo de ese mismo año (en adelante, el “Convenio de Financiamiento”), constituye un mecanismo de fortalecimiento institucional y técnico orientado a rehabilitar y modernizar la PTAP de Nacaome y la PTAP de Pespire, contribuyendo a mejorar la eficiencia operativa, sostenibilidad y calidad del agua brindada por las municipalidades a los usuarios.
+CONSIDERANDO: Que en el marco del Proyecto de Seguridad Hídrica (Proyecto) en el Corredor Seco de Honduras, financiado mediante cooperación internacional a través del convenio de financiamiento otorgado por la Asociación Internacional de Fomento al Gobierno de Honduras de fecha 8 de marzo de 2021, Crédito No. 6680-HN y ratificado mediante el Artículo 3 del Decreto Legislativo 10-2021 del 22 de abril de 2021, publicado en el Diario Oficial La Gaceta el 5 de mayo de ese mismo año (en adelante, el “Convenio de Financiamiento”), constituye un mecanismo de fortalecimiento institucional y técnico orientado a rehabilitar y modernizar la PTAP de Nacaome y la PTAP de Pespire, contribuyendo a mejorar la eficiencia operativa, sostenibilidad y calidad del agua brindada por las municipalidades a los usuarios.
 
 CONSIDERANDO: Que las municipalidades, en el marco de las atribuciones conferidas por la Ley de Municipalidades en materia de servicios públicos y participación comunitaria, constituyen actores fundamentales para fortalecer los mecanismos de coordinación, apoyo territorial y corresponsabilidad institucional relacionados con la sostenibilidad operativa de las PTAP, sin que ello implique sustitución o delegación de las competencias técnicas, administrativas y operativas que corresponden a la SERNA como ente administrador del Programa Nacaome.
 

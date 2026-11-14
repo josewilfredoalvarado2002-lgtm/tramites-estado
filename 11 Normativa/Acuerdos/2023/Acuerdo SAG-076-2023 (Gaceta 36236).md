@@ -8,10 +8,10 @@ gaceta_numero: 36236
 gaceta_fecha: "2023-05-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)|La Gaceta 36236]]"
 paginas: "A. 4"
-sumario: "Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023"
+sumario: "Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230524-36236/download"
 extraido: "2026-11-14"
-huella: "d8cd3c143fee104c"
+huella: "135afdefab59c814"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-076-2023
@@ -23,7 +23,7 @@ huella: "d8cd3c143fee104c"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)\|La Gaceta 36236]] del 2023-05-24 |
 | Páginas | A. 4 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, Ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No.55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, durante el período comprendido del 27 de Abril al 01 de Mayo del dos mil veintitrés (2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, Ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, durante el período comprendido del 27 de Abril al 01 de Mayo del dos mil veintitrés (2023).
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

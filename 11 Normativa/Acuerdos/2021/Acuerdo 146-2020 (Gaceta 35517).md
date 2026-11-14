@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos Nos. 188-A-2018, 146-2020Resolución No. 1878-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210215-35517/download"
 extraido: "2026-11-14"
-huella: "471fe3aa9ecd7d97"
+huella: "95b74f21f2c50eaf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 146-2020
@@ -27,7 +27,7 @@ huella: "471fe3aa9ecd7d97"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación, de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Legislativo No. 27- 2020.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación, de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Legislativo No. 27-2020.
 
 ACUERDA:
 

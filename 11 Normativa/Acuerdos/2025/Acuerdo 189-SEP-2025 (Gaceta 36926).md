@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo Número 189-SEP-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250826-36926/download"
 extraido: "2026-11-09"
-huella: "657a2275c8117827"
+huella: "b0341c18c85ccb65"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 189-SEP-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 103-1993, se crea el Institut
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 014-2018 se crea la Secretaría de Estado en el Despacho de Turismo, la cual tiene a su cargo la formulación, dirección, ejecución, promoción, estimulación y evaluación de las políticas y actividades relativas al Turismo, como actividad económica que impulse el desarrollo del país, por medio de la conservación, protección y aprovechamiento racional de los recursos turísticos nacionales (artículo 1).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 011-2014, se determina declarar al Sector Turismo como un Sector Prioritario para el desarrollo social y económico del país, constituyendo esta Declaratoria como una Política de Estado e integrando la misma, como parte de la más relevante Agenda del Gobierno.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-011-2014, se determina declarar al Sector Turismo como un Sector Prioritario para el desarrollo social y económico del país, constituyendo esta Declaratoria como una Política de Estado e integrando la misma, como parte de la más relevante Agenda del Gobierno.
 
 CONSIDERANDO: Que en fecha nueve (09) de mayo del año dos mil veinticuatro (2024) se suscribió Convenio Marco de Cooperación Interinstitucional entre la Secretaría de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS), Fondo Hondureño de Inversión Social (FHIS) y el Instituto Hondureño de Turismo (IHT) con el objeto de garantizar un crecimiento sostenible, soberano y equitativo del turismo, que contribuya al buen vivir de las comunidades locales.
 

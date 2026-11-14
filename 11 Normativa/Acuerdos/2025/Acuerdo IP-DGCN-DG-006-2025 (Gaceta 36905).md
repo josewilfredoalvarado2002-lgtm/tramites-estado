@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo No. IP-DGCN-DG-006-2025, Comunicado, Acuerdo No. IP-DGCN DG-007-2025, Comunicado"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250801-36905/download"
 extraido: "2026-11-09"
-huella: "12e909cec45d8043"
+huella: "a2c331211b09578c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. IP-DGCN-DG-006-2025
@@ -69,9 +69,7 @@ CÚMPLASE
 
 Edgard Raúl Valladares Andino Director General del Catastro Nacional Jessica Stefania Borjas Bueso Secretaria General de la Dirección del Catastro Nacional Instituto de la Propiedad COMUNICADO DIRECCIÓN GENERAL DEL CATASTRO NACIONAL El Instituto de la Propiedad, a través de la Dirección General del Catastro Nacional, al público en general INFORMA: Que habiéndose vencido el plazo de la Vista Pública Administrativa establecido en el artículo No. 64 de la Ley de Propiedad, que establece el periodo de 30 días, para que los propietarios(as), ocupantes y tenedores(as) de terrenos que se encontraban dentro del área que comprende las colonias La Venecia, El Manzanal, Las Vegas del Carrizal y La Canaán, ubicadas en el municipio del Distrito Central, departamento de Francisco Morazán, pudieran haber acudido a las mesas de consulta a solicitar las correcciones incurridas por errores u omisiones de la información publicada al momento del levantamiento del Catastro; por lo que se da por agotado el proceso de validación del levantamiento Catastro Registral.
 
-En tal sentido la Dirección General del Catastro Nacional, DECLARA: “Zona Catastrada” las colonias La Venecia, El Manzanal, Las Vegas del Carrizal y La Canaán, ubicadas en el municipio del Distrito Central, departamento de Francisco Morazán; en cumplimiento del Artículo No.
-
-67 de la Ley de Propiedad; el cual establece que: “Una vez realizada la Vista Pública Administrativa y agotado el proceso de validación del levantamiento Catastro Registral de una zona catastral, el Instituto de la Propiedad (IP) procederá a declarar la zona como “Zona Catastrada”.
+En tal sentido la Dirección General del Catastro Nacional, DECLARA: “Zona Catastrada” las colonias La Venecia, El Manzanal, Las Vegas del Carrizal y La Canaán, ubicadas en el municipio del Distrito Central, departamento de Francisco Morazán; en cumplimiento del Artículo No. 67 de la Ley de Propiedad; el cual establece que: “Una vez realizada la Vista Pública Administrativa y agotado el proceso de validación del levantamiento Catastro Registral de una zona catastral, el Instituto de la Propiedad (IP) procederá a declarar la zona como “Zona Catastrada”.
 
 Para los predios catastrados regulares se abrirá el folio real correspondiente.
 

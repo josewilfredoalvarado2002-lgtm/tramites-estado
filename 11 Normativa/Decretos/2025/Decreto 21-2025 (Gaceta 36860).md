@@ -11,7 +11,7 @@ paginas: "A. 137 - 156"
 sumario: "Decretos Nos. 19-2025, 21-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250610-36860/download"
 extraido: "2026-11-10"
-huella: "d4a0b19c17749ff2"
+huella: "08b7273a9d7beaf4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 21-2025
@@ -29,7 +29,7 @@ huella: "d4a0b19c17749ff2"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, contenida en el Decreto No.17-2010 del 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 22 de Abril de 2010, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, contenida en el Decreto No. 17-2010 del 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 22 de Abril de 2010, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el Gobierno de la República, mediante la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), gestiona el sistema de infraestructura en la red vial oficial y obras públicas secundarias, facilitando la conectividad nacional y regional, mediante el cumplimiento de estándares de calidad y transparencia, en beneficio de la población hondureña.
 
@@ -49,7 +49,7 @@ Artículo, que establece: “Aprobar e improbar los contratos que lleven involuc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -97,7 +97,7 @@ Facsímil: (504)2237-4142. Correo electrónico: dgcp@sefin.gob.hn. 6.03. A los e
 
 Facsímil: 1-202-477-6391. Correo electrónico: mkerf@worldbank.org. ACORDADO a la fecha de la firma. REPÚBLICA DE HONDURAS. Por ________________F y S_________________ Representante autorizado. Nombre:
 
-C H R I S T I A N D U A R T E . T í t u l o :
+CHRISTIAN DUARTE . Título:
 
 SECRETARIO DE FINANZAS. Fecha: 18
 

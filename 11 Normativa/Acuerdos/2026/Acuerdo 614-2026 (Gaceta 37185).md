@@ -11,7 +11,7 @@ paginas: "A. 9 - 14"
 sumario: "Acuerdos Seds Números 613-2026, 614-2026, 615-2026, 709-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260704-37185/download"
 extraido: "2026-11-09"
-huella: "59598d63be8135ad"
+huella: "620e6ad162aa7556"
 ---
 <!-- portal:inicio -->
 # ACUERDO SEDS NÚMERO 614-2026
@@ -55,7 +55,7 @@ POLICIAL. Es un órgano superior encargado de asesorar a la Dirección General d
 
 CONSIDERANDO: Artículo 78 del Reglamento General de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional establece lo siguiente: "Artículo 78. CREACIÓN DE NUEVAS UNIDADES. Los Directores Nacionales cuando la exigencia lo demande, pueden proponer al Director General la creación o modificación de unidades administrativas y operativas de sus Direcciones. El Director General debe elevar la propuesta ante el Secretario de Estado en el Despacho de Seguridad, quién luego de evaluarlas y previo dictamen técnico del Directorio Estratégico, puede aprobar mediante Acuerdo dicha propuesta".
 
-CONSIDERANDO: Que mediante Recomendación Técnica DGPN-DEP No. 013- 2026, emitida por el Directorio Estratégico Policial, en fecha 21 de abril del año 2026, aprueba la creación de un Centro Integrado de Gestión del Conocimiento dependiente del Instituto Policial de Estudios Estratégicos.
+CONSIDERANDO: Que mediante Recomendación Técnica DGPN-DEP No. 013-2026, emitida por el Directorio Estratégico Policial, en fecha 21 de abril del año 2026, aprueba la creación de un Centro Integrado de Gestión del Conocimiento dependiente del Instituto Policial de Estudios Estratégicos.
 
 CONSIDERANDO: Que a nivel mundial existe la necesidad de crear, desarrollar, fortalecer centros o dependencias capaces de generar conocimiento, que diluyan la incertidumbre y permitan la toma de decisiones informadas, que combinen conocimiento científico, operacional y empírico de manera integral.
 

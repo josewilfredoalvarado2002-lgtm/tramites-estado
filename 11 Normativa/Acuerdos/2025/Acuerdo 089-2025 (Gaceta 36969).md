@@ -11,7 +11,7 @@ paginas: "A. 25 - 64"
 sumario: "Acuerdos Nos. 016-2025, 079-2025, 083-2025, 089-2025, 097-2025, Acuerdos Institucionales Nos. ICF-091-2025, 092-2025, DE-DCHA-017-2025, DE-DCHA-031-2025, DE-DCHA-032-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251016-36969-2/download"
 extraido: "2026-11-09"
-huella: "6f00b48fdb2c468e"
+huella: "26082c5f0318c398"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 089-2025
@@ -37,17 +37,15 @@ CONSIDERANDO: Que el marco jurídico forestal vigente declara de prioridad nacio
 
 CONSIDERANDO: Que el plan de manejo constituye un instrumento técnico, legal y operativo, que define objetivos, estrategias y normas para el uso de los recursos naturales de un área protegida, así como la programación de inversiones, mecanismos de participación, alianzas estratégicas y acciones para enfrentar amenazas prioritarias, todo enmarcado en procesos de consulta y legislación vigente.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-075-2010, publicado en el Diario Oficial La Gaceta No. 32,273 el 26 de julio de 2016, se declaró el Parque Nacional Marino Islas de la Bahía como parte del Sistema Nacional de Áreas Protegidas y Vida Silvestre de Honduras, con el objetivo de proteger la integridad ecológica de sus ecosistemas marinos y promover un uso racional, educativo, científico, espiritual y recreativo, compatible con la conservación ambiental y cultural.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 075-2010, publicado en el Diario Oficial La Gaceta No. 32,273 el 26 de julio de 2016, se declaró el Parque Nacional Marino Islas de la Bahía como parte del Sistema Nacional de Áreas Protegidas y Vida Silvestre de Honduras, con el objetivo de proteger la integridad ecológica de sus ecosistemas marinos y promover un uso racional, educativo, científico, espiritual y recreativo, compatible con la conservación ambiental y cultural.
 
 CONSIDERANDO: Que el objetivo general del Plan de Manejo del Parque Nacional Marino Islas de la Bahía es contribuir a la conservación y uso sostenible de sus recursos naturales, mediante lineamientos técnico-legales y mecanismos de gestión participativa, inclusiva y coordinada, que garanticen una distribución equitativa de beneficios y el bienestar de las comunidades locales.
 
-CONSIDERANDO: Que mediante Acuerdo ICF No. 047- 2024 se aprobó el Plan de Manejo del Parque Nacional Marino Islas de la Bahía con una vigencia de doce (12) años, como instrumento orientador de la gestión del territorio, definiendo objetos de conservación, lineamientos de uso y acciones de mitigación frente a amenazas identificadas.
+CONSIDERANDO: Que mediante Acuerdo ICF No. 047-2024 se aprobó el Plan de Manejo del Parque Nacional Marino Islas de la Bahía con una vigencia de doce (12) años, como instrumento orientador de la gestión del territorio, definiendo objetos de conservación, lineamientos de uso y acciones de mitigación frente a amenazas identificadas.
 
 CONSIDERANDO: Que el referido plan establece como objetos de conservación ecosistemas y especies clave Arrecife de coral, Lagunas Costeras, Playas, Manglares, Praderas de pastos marinos, Arrecifes emergentes, Tiburón Ballena, Sitios de desove y agregación de peces; y reconoce los principales bienes y servicios ecosistémicos, así como las amenazas que afectan la integridad del área, incluyendo daño arrecifal por actividad de navegación, desarrollo inmobiliario, relleno para construcción, desarrollo infraestructura del sector turismo, infraestructura marítima, operación en la navegación, efluentes domésticos, industrial y turismo, residuos sólidos, expendios de combustibles, efluentes de embarcaciones, operación de áreas para el mantenimiento de embarcaciones, efluentes agrícolas, recolección recursos biológicos, pesca comercial (sobrepesca), tala de bosque de mangle, especies invasoras y el sargazo.
 
-CONSIDERANDO: Que en fecha 20 de mayo de 2025, la Sala de lo Constitucional de la Corte Suprema de Justicia dictó la suspensión provisional del Acuerdo ICF No. 047- 2024, como medida cautelar derivada de recursos de amparo presentados por municipalidades y organizaciones locales, en virtud de observaciones al componente normativo del Plan de Manejo.
+CONSIDERANDO: Que en fecha 20 de mayo de 2025, la Sala de lo Constitucional de la Corte Suprema de Justicia dictó la suspensión provisional del Acuerdo ICF No. 047-2024, como medida cautelar derivada de recursos de amparo presentados por municipalidades y organizaciones locales, en virtud de observaciones al componente normativo del Plan de Manejo.
 
 CONSIDERANDO: Que el 3 de julio de 2025, se realizó los acercamientos de los compromisos entre las partes involucradas en el proceso, en el documento denominado Acuerdo de Conciliación Extrajudicial entre el ICF, la Comunidad de Afrodescendientes Negros de Habla Inglesa (a través del Comité Herencia Afrodescendiente), la Cámara de Comercio e Industrias de Islas de la Bahía y los gobiernos locales, estableciendo compromisos para la revisión activa y propositiva del componente normativo del plan.
 
@@ -63,7 +61,7 @@ La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo For
 
 ACUERDA:
 
-PRIMERO: Derogar el Acuerdo 047-2024 publicado el 31 de octubre del 2024, en el Diario Oficial La Gaceta (No.36,677) contentivo de la aprobación del “PLAN DE MANEJO DEL PARQUE NACIONAL MARINO ISLAS DE LA BAHÍA”, localizado en la jurisdicción de los MUNICIPIOS DE ÚTILA, GUANAJA, ROATÁN Y SANTOS GUARDIOLA, DEL DEPARTAMENTO DE ISLAS DE LA BAHÍA.
+PRIMERO: Derogar el Acuerdo 047-2024 publicado el 31 de octubre del 2024, en el Diario Oficial La Gaceta (No. 36,677) contentivo de la aprobación del “PLAN DE MANEJO DEL PARQUE NACIONAL MARINO ISLAS DE LA BAHÍA”, localizado en la jurisdicción de los MUNICIPIOS DE ÚTILA, GUANAJA, ROATÁN Y SANTOS GUARDIOLA, DEL DEPARTAMENTO DE ISLAS DE LA BAHÍA.
 
 SEGUNDO: Aprobar el “PLAN DE MANEJO DEL
 
@@ -191,7 +189,7 @@ Zona espacial Zona de uso Área (ha) Definición 18,547.57 Zona donde se pueden 
 
 1,856.74 Zona donde se permitido el uso regulado de los recursos marinos quedando restringida la pesca artesanal, industrial y la acuicultura 31,436.29 Zona donde se permite el uso regulado de los recursos marinos y será propicia para el crecimiento y desarrollo económico de las comunidades 593.67 Áreas destinadas a la recuperación de poblaciones de peces y otros recursos.
 
-594,400.34 Es el área perimetral de doce (12) millas náuticas contiguo al límite externo de la Zona Especial Marina (60 metros de profundidad), en el cual se pueden realizar prácticas permitidas según la normativa, exceptuando la pesca industrial 343.45 Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No.002-2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía.
+594,400.34 Es el área perimetral de doce (12) millas náuticas contiguo al límite externo de la Zona Especial Marina (60 metros de profundidad), en el cual se pueden realizar prácticas permitidas según la normativa, exceptuando la pesca industrial 343.45 Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No. 002-2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía.
 
 Fuente: Decreto Legislativo No. 75-2010.
 
@@ -201,7 +199,7 @@ Nota: Esta zonificación y Subzonificación fue establecida en el Decreto Legisl
 
 ZONA COSTERA
 
-Descripción: Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No.002- 2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía
+Descripción: Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No. 002-2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía
 
 1. Normas relativas a estructuras, obras y extracción de materiales 1.1 No se podrán construir más de dos (2) muelles de uso público o privado por playa. En otro tipo de línea costera la construcción de estos muelles será aprobada bajo criterios técnicos y las regulaciones establecidas por las autoridades competentes. Para tal efecto, las municipalidades establecerán las regulaciones específicas en sus territorios.
 
@@ -445,7 +443,7 @@ En las áreas que se encuentran fuera de la subzona de recuperación pesquera �
 
 8.2.
 
-Se permite la pesca recreacional y turística mediante el empleo del arte caña- carrete y línea de mano, con el debido carnet de licencia de pesca emitida por DIGEPESCA, a 50 metros (164 pies) mínimo de distancia de formaciones coralinas más cercanas con la posterior liberación de especies de interés para la conservación.
+Se permite la pesca recreacional y turística mediante el empleo del arte caña-carrete y línea de mano, con el debido carnet de licencia de pesca emitida por DIGEPESCA, a 50 metros (164 pies) mínimo de distancia de formaciones coralinas más cercanas con la posterior liberación de especies de interés para la conservación.
 
 8.3.
 
@@ -1349,7 +1347,7 @@ Objetivo estratégico 16: Desarrollar la sensibilización en la población sobre
 
 La implementación del Plan de Manejo se desarrollará mediante siete programas: Recursos Naturales, Educación Ambiental, Investigación y Monitoreo, Protección, Uso Público, Desarrollo Comunitario, Administrativo y Financiero, durante los próximos doce años. Se considera en el año sexto la evaluación intermedia de las acciones ya ejecutadas y así mismo dar paso a una valoración y actualización de las estrategias.
 
-CUARTO: Realizar las evaluaciones de efectividad de manejo en el área protegida, cada dos años siendo este el principal insumo para la elaboración de planes operativos bianuales que se elaboren en el Área Protegida, de conformidad al numeral décimo primero del Acuerdo No.040-2012.
+CUARTO: Realizar las evaluaciones de efectividad de manejo en el área protegida, cada dos años siendo este el principal insumo para la elaboración de planes operativos bianuales que se elaboren en el Área Protegida, de conformidad al numeral décimo primero del Acuerdo No. 040-2012.
 
 QUINTO: La vigencia del Plan de Manejo del Área Protegida del Parque Nacional Marino Islas de la Bahía será del año 2025-2034, la normativa establecida en este plan mantendrá su vigencia de forma indefinida, hasta que se lleve a cabo un nuevo proceso de revisión y ajuste, conforme a lo que se establezca en el proceso de gestión adaptativa del área protegida. No obstante, podrá realizarse una revisión intermedia, conforme a lo dispuesto en el Acuerdo No. 040-2012.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210225-35527-2/download"
 extraido: "2026-11-14"
-huella: "e80283e4a98b2b44"
+huella: "281d48d2b1270529"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.03/2021.- Sesión No.3884 del 18 de
@@ -31,11 +31,11 @@ febrero de 2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
-CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios así como las que efectúe el sector público, se aplicará el Acuerdo No.08/2019 del 23 de diciembre de 2019, que contiene el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, por medio del Acuerdo No.02/2021 del 14 de enero de 2021, el Directorio del BCH modificó la Normativa Complementaria de dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
+CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios así como las que efectúe el sector público, se aplicará el Acuerdo No. 08/2019 del 23 de diciembre de 2019, que contiene el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, por medio del Acuerdo No. 02/2021 del 14 de enero de 2021, el Directorio del BCH modificó la Normativa Complementaria de dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
-CONSIDERANDO: Que conforme a la propuesta del Departamento Internacional con­ tenida en el memorándum INTL- 369/2021 del 21 de enero de 2021, el Comité de Divisas, mediante Acta de la Sesión No.01/2021 celebrada de manera virtual el 22 de enero de 2021, estuvo de acuerdo a someter a consideración del Directorio la reducción del requerimiento de en­ trega de divisas de las casas de cam­ bio al BCH en un 10%, por lo que las mismas tendrían que trasladar el 90.0% de sus compras de divisas a sus clientes del sector privado al BCH, vigente a partir del 1 de marzo de 2021.
+CONSIDERANDO: Que conforme a la propuesta del Departamento Internacional con­ tenida en el memorándum INTL-369/2021 del 21 de enero de 2021, el Comité de Divisas, mediante Acta de la Sesión No. 01/2021 celebrada de manera virtual el 22 de enero de 2021, estuvo de acuerdo a someter a consideración del Directorio la reducción del requerimiento de en­ trega de divisas de las casas de cam­ bio al BCH en un 10%, por lo que las mismas tendrían que trasladar el 90.0% de sus compras de divisas a sus clientes del sector privado al BCH, vigente a partir del 1 de marzo de 2021.
 
-CONSIDERANDO: Que oídas las propuestas presentadas por el Departamento Internacional, contenidas en el memorándum INTL- 370/2021 del 5 de febrero de 2021, el Comité de Divisas, mediante Acta de la Sesión No.02/2021 celebrada de manera virtual el 10 de febrero de 2021, estuvo de acuerdo someter a consideración del Directorio la reducción de un 10% adicional en el requerimiento de entrega de divisas de los bancos al BCH, quedando dicho requerimiento de entrega en un 20% al BCH y un 80% para que los bancos lo utilicen en la atención de la demanda de divisas por montos menores o iguales a US$1.0 millón, de igual forma, las ofertas en la subasta de divisas se presentarían por montos mayores a US$1.0 millón.
+CONSIDERANDO: Que oídas las propuestas presentadas por el Departamento Internacional, contenidas en el memorándum INTL-370/2021 del 5 de febrero de 2021, el Comité de Divisas, mediante Acta de la Sesión No. 02/2021 celebrada de manera virtual el 10 de febrero de 2021, estuvo de acuerdo someter a consideración del Directorio la reducción de un 10% adicional en el requerimiento de entrega de divisas de los bancos al BCH, quedando dicho requerimiento de entrega en un 20% al BCH y un 80% para que los bancos lo utilicen en la atención de la demanda de divisas por montos menores o iguales a US$1.0 millón, de igual forma, las ofertas en la subasta de divisas se presentarían por montos mayores a US$1.0 millón.
 
 POR TANTO:
 
@@ -43,11 +43,11 @@ Con fundamento en los artículos 342 de la Constitución de la República; 2, 6,
 
 46, numerales 11) y 12) de la Ley del Sistema Financiero; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los numerales 1.2, 1.3, 3.2, 3.3, 4.1, 5.1 y 8.2 del Acuerdo No.02/2021, contentivo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán así:
+Modificar los numerales 1.2, 1.3, 3.2, 3.3, 4.1, 5.1 y 8.2 del Acuerdo No. 02/2021, contentivo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán así:
 
 “1.2. Los bancos y las casas de cambios que adquieran divisas de sus clientes del sector privado deberán transferir el 20% y 90%, respectivamente, de las mismas al BCH a más tardar el siguiente día hábil de su compra.
 
@@ -253,7 +253,7 @@ El monto máximo por cada oferta de compra de divisas será de quinientos mil d�
 
 Si un participante en el MID ingresa una oferta de compra o de venta de divisas, no podrá ingresar una nueva oferta mientras la anterior esté pendiente de calce.
 
-5. I N G R E S O S D E D I V I S A S P O R ACTIVIDADES NO CAMBIARIAS Y POR MOVIMIENTO DE CAPITAL Y FINANCIEROS DEL SECTOR BANCARIO De conformidad a lo dispuesto en el Artículo 32 del Reglamento, se establece lo siguiente:
+5. INGRESOS DE DIVISAS POR ACTIVIDADES NO CAMBIARIAS Y POR MOVIMIENTO DE CAPITAL Y FINANCIEROS DEL SECTOR BANCARIO De conformidad a lo dispuesto en el Artículo 32 del Reglamento, se establece lo siguiente:
 
 5.1. El ingreso de divisas por actividades no cambiarias, registrado por agente cambiario podrá ser utilizado para lo siguiente:
 
@@ -357,7 +357,7 @@ Los agentes cambiarios que incumplan en el traslado de estas divisas, en los té
 
 8.5. Los límites máximos de tenencia de divisas que se establecen para las nuevas instituciones que sean autorizadas a partir de la vigencia de esta resolución serán de quinientos mil dólares de los EUA (US$500,000.00) para los bancos y de cien mil dólares de los EUA (US$100,000.00) para las casas de cambio.
 
-9. R E P O R T E S E I N F O R M A C I Ó N ADICIONAL
+9. REPORTE SE INFORMACIÓN ADICIONAL
 
 Acorde con lo dispuesto en los artículos 8 y 33 del Reglamento, se establece lo siguiente:
 
@@ -405,7 +405,7 @@ CONSIDERANDO (5): Que el Poder Ejecutivo en el marco de la Emergencia Nacional a
 
 CONSIDERANDO (6): Que la declaración de días inhábiles fue extendida con fecha veintitrés (23) días del mes de marzo del dos mil veinte (2020) mediante comunicado que literalmente establece “La Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización COMUNICA: a todas las dependencias del gobierno central y descentralizados y la población en general lo siguiente: en aras de salvaguardar la salud y la vida de la población en el marco de esta emergencia nacional como prevención ante el COVID-19, continuarán suspendidas las labores diarias de trabajo presenciales a partir del lunes veintitrés (23) al veintisiete (27) de marzo del año dos mil veinte (20);… en cuanto a los términos y plazos para hacer uso de los recursos legales, se mantendrán en suspenso, empezando a correr nuevamente los términos legales a partir del primer día hábil.
 
-CONSIDERANDO (7): Que mediante Decreto PCM-030- 2020 de fecha nueve (09) de abril del dos mil veinte (2020) se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
+CONSIDERANDO (7): Que mediante Decreto PCM-030-2020 de fecha nueve (09) de abril del dos mil veinte (2020) se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
 
 CONSIDERANDO (8): Que el Reglamento del Programa Avícola Nacional en su artículo 86 establece que “Las unidades de producción avícola que a la fecha de la publicación del presente Acuerdo hubieren ingresado solicitud de inscripción o estén operando y no cumplan las disposiciones establecidas en el presente Reglamento podrán solicitar su inscripción o renovación de inscripción sometiéndose a estándares altos de bioseguridad, con un mínimo de calificación de noventa
 
@@ -419,11 +419,11 @@ CONSIDERANDO (10): Que además de las restricciones a la circulación expuestas 
 
 POR TANTO
 
-La Dirección General del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA) en uso de sus facultades que la ley le confiere y en aplicación de los artículos 1, 80, 145, 146, 321 de la Constitución de la República; 1, 3, 19, 54, 56, 60, 72 párrafo segundo, 83, 84, 87 y 88 de la Ley de Procedimiento Administrativo; 116, 120 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo 005- 2020 de fecha diez (10) de febrero del dos mil veinte (2020);
+La Dirección General del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA) en uso de sus facultades que la ley le confiere y en aplicación de los artículos 1, 80, 145, 146, 321 de la Constitución de la República; 1, 3, 19, 54, 56, 60, 72 párrafo segundo, 83, 84, 87 y 88 de la Ley de Procedimiento Administrativo; 116, 120 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo 005-2020 de fecha diez (10) de febrero del dos mil veinte (2020);
 
 Decreto PCM-021-2020 de fecha quince (15) de marzo del dos mil veinte (2020); Decretos Ejecutivos PCM-022-2020 publicado en el Diario Oficial La Gaceta número 35, 212 en fecha veintiocho (28) de marzo del dos mil veinte (2020), y PCM-028-2020 de fecha cuatro (04) de abril del dos mil veinte (2020); Decreto PCM-030-2020 de fecha de abril del dos mil veinte (2020) publicado en el Diario Oficial La Gaceta el nueve
 
-(09) de abril del dos mil veinte (2020), Decreto PCM-073- 2020 de fecha veintiocho (28) de julio del 2020; artículos 1, 4 y 5 del PCM-015-2020, publicado en el Diario Oficial La Gaceta en fecha 3 de septiembre del año 2020.
+(09) de abril del dos mil veinte (2020), Decreto PCM-073-2020 de fecha veintiocho (28) de julio del 2020; artículos 1, 4 y 5 del PCM-015-2020, publicado en el Diario Oficial La Gaceta en fecha 3 de septiembre del año 2020.
 
 ACUERDA
 

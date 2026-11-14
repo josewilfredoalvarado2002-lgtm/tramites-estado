@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230217-36158/download"
 extraido: "2026-11-14"
-huella: "b7cd01a9a9795995"
+huella: "d772c3672d7f5fb2"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "b7cd01a9a9795995"
 
 ## Texto
 
-El suscrito, Primer Secretario del Congreso Nacional CERTIFICA: Que de conformidad con los artículos 314 y 315 y demás aplicables de la Constitución de la República, y en el ejercicio de la potestad soberana depositada por el Pueblo Hondureño en este Poder del Estado y en la interpretación de altos principios, tales como: la democracia, la imparcialidad de la justicia, la transparencia y la participación ciudadana, este Poder del Estado ha realizado un proceso de elección de ciudadanas y ciudadanos que integran la Corte Suprema de Justicia para el período 2023-2030, misma que está contenida en el Punto No.19, del Acta No.2, del dieciséis
+El suscrito, Primer Secretario del Congreso Nacional CERTIFICA: Que de conformidad con los artículos 314 y 315 y demás aplicables de la Constitución de la República, y en el ejercicio de la potestad soberana depositada por el Pueblo Hondureño en este Poder del Estado y en la interpretación de altos principios, tales como: la democracia, la imparcialidad de la justicia, la transparencia y la participación ciudadana, este Poder del Estado ha realizado un proceso de elección de ciudadanas y ciudadanos que integran la Corte Suprema de Justicia para el período 2023-2030, misma que está contenida en el Punto No. 19, del Acta No. 2, del dieciséis
 
 (16) de Febrero de Dos Mil Veintitrés, que literalmente dice:
 

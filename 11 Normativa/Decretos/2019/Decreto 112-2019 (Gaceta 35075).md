@@ -11,7 +11,7 @@ paginas: "A. 40 - 42"
 sumario: "Decretos Nos. 111-2019, 112-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20191017-35075/download"
 extraido: "2026-11-14"
-huella: "d48756e0bcf4aae9"
+huella: "49416c12b56a0189"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 112-2019
@@ -53,7 +53,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO;
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -8,10 +8,10 @@ gaceta_numero: 35396
 gaceta_fecha: "2020-10-10"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35396 (2020-10-10)|La Gaceta 35396]]"
 paginas: "A. 1 - 4"
-sumario: "Decreto No. 134-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTEAcuerdo No. 06-2020"
+sumario: "Decreto No. 134-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTE: Acuerdo No. 06-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201010-35396/download"
 extraido: "2026-11-14"
-huella: "68594314aaa7c9c7"
+huella: "92053911ab08822e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 134-2020
@@ -23,7 +23,7 @@ huella: "68594314aaa7c9c7"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35396 (2020-10-10)\|La Gaceta 35396]] del 2020-10-10 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Decreto No. 134-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTEAcuerdo No. 06-2020 |
+| Según el sumario de La Gaceta | Decreto No. 134-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTE: Acuerdo No. 06-2020 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

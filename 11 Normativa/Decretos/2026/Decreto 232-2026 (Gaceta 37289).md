@@ -11,7 +11,7 @@ paginas: "A. 13 - 15"
 sumario: "Decretos Nos. 222-2026, 223-2026, 2282026, 229-2026, 231-2026, 232-2026, 2332026, 256-2026, 269-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "a73228cbc3f5e1aa"
+huella: "f5b30f6b7138743a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 232-2026
@@ -33,13 +33,13 @@ CONSIDERANDO: Que el Artículo 294 de la Constitución de la República de Hondu
 
 CONSIDERANDO: Que el Artículo 298 de la Constitución de la República de Honduras dispone que, en el ejercicio de sus funciones privativas y siempre que no contraríen las leyes, las corporaciones municipales serán independientes de los Poderes del Estado y responderán por los abusos que cometan, sin perjuicio de la responsabilidad administrativa.
 
-CONSIDERANDO: Que el Artículo 12 de la Ley de Municipalidades, contenida en el Decreto No.134-90 y sus reformas, establece que la autonomía municipal comprende la libre administración y la adopción de decisiones propias dentro de la Ley, así como la elaboración, aprobación, ejecución y administración de su presupuesto y la planificación, organización y administración de los servicios públicos municipales.
+CONSIDERANDO: Que el Artículo 12 de la Ley de Municipalidades, contenida en el Decreto No. 134-90 y sus reformas, establece que la autonomía municipal comprende la libre administración y la adopción de decisiones propias dentro de la Ley, así como la elaboración, aprobación, ejecución y administración de su presupuesto y la planificación, organización y administración de los servicios públicos municipales.
 
 CONSIDERANDO: Que la Municipalidad de El Triunfo, Departamento de Choluteca, desarrolla actividades de prestación de servicios públicos, ejecución y supervisión de proyectos, atención de comunidades y demás labores administrativas y operativas propias de la gestión local, para cuyo cumplimiento requiere medios logísticos adecuados.
 
 CONSIDERANDO: Que la adquisición de un vehículo automotor destinado a uso institucional puede facilitar el desplazamiento del personal municipal para realizar actividades de supervisión, inspección, seguimiento de proyectos y atención de las comunidades, fortaleciendo la capacidad de respuesta del Gobierno Local.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No.170-2016 y sus reformas, establece que: “La exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”; y que el Artículo 19 del mismo Código exige que la Ley precise el objetivo y alcance del beneficio.
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No. 170-2016 y sus reformas, establece que: “La exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”; y que el Artículo 19 del mismo Código exige que la Ley precise el objetivo y alcance del beneficio.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdo Ejecutivo número 181-2022Decreto Ejecutivo PCM-02-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220317-35875/download"
 extraido: "2026-11-14"
-huella: "872caa974d1fe0e9"
+huella: "97dff24be7d9347a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 181-2022
@@ -83,7 +83,7 @@ ARTÍCULO 1. Instruir a la Secretaría de Estado en el Despacho de Finanzas (SEF
 
 #### Artículo 2
 
-ARTÍCULO 2. Instruir a la Empresa Nacional de Energía Eléctrica (ENEE) para trasladar la diferencia del subsidio equivalente al cuarenta por ciento (40%), a los clientes no residenciales, exceptuando los clientes comerciales integrados a la red de baja tensión con consumos iguales o inferiores a 3000 kWh (micro, pequeña y medianas empresas que apliquen de conformidad con lo dispuesto en el Decreto Legislativo 02- 2022, publicado en el Diario Oficial La Gaceta el 11 de febrero de 2022. La ENEE en conjunto con la Secretaría de Energía
+ARTÍCULO 2. Instruir a la Empresa Nacional de Energía Eléctrica (ENEE) para trasladar la diferencia del subsidio equivalente al cuarenta por ciento (40%), a los clientes no residenciales, exceptuando los clientes comerciales integrados a la red de baja tensión con consumos iguales o inferiores a 3000 kWh (micro, pequeña y medianas empresas que apliquen de conformidad con lo dispuesto en el Decreto Legislativo 02-2022, publicado en el Diario Oficial La Gaceta el 11 de febrero de 2022. La ENEE en conjunto con la Secretaría de Energía
 
 (SEN) y el Centro Nacional de Información del Sector Social (CENISS) deberán iniciar el proceso de profundización de la focalización de dicho subsidio para que el mismo sea recibido por las familias que de ingresos precarios categorizadas como en pobreza extrema.
 

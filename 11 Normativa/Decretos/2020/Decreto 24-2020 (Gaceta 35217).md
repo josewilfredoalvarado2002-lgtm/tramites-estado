@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 24-2020, 32-2020, 33-2020,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200403-35217/download"
 extraido: "2026-11-14"
-huella: "1e4d11a1d587e2fe"
+huella: "58184164baaade87"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 24-2020
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que en la Plataforma de Acción de Beijing acordado por los Estados, establece el compromiso de “Crear, sobre la base de un sólido compromiso político, un mecanismo nacional cuando no exista y fortalecer, según proceda, los mecanismos nacionales existentes para el adelanto de la mujer en las instancias más altas de gobierno que sea posible; el mecanismo debería tener mandatos y atribuciones claramente definidos; la disponibilidad de recursos suficientes, la capacidad y competencia para influir en cuestiones de políticas, formular y examinar la legislación serían elementos decisivos; entre otras cosas, debe realizar un análisis de políticas y llevar a cabo funciones de fomento, comunicación, coordinación y vigilancia de la aplicación”.
 
-CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 7 de la Ley del Instituto Nacional de la Mujer (INAM), contenida en el Decreto No.232-98 de fecha 29 de Agosto de 1998 y publicado en el Diario Oficial “La Gaceta” el 11 de Febrero de 1999, Edición No. 28,798, le corresponde a dicho Instituto formular, desarrollar, promover y coordinar la ejecución y el seguimiento de la Política Nacional de la Mujer y la integración de la misma al desarrollo sostenible, así como los planes de acción que la operativicen.
+CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 7 de la Ley del Instituto Nacional de la Mujer (INAM), contenida en el Decreto No. 232-98 de fecha 29 de Agosto de 1998 y publicado en el Diario Oficial “La Gaceta” el 11 de Febrero de 1999, Edición No. 28,798, le corresponde a dicho Instituto formular, desarrollar, promover y coordinar la ejecución y el seguimiento de la Política Nacional de la Mujer y la integración de la misma al desarrollo sostenible, así como los planes de acción que la operativicen.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo en Consejo de Ministros No.PCM-028-2010 del 6 de Julio de 2010 se aprobó la Política Nacional de la Mujer – II Plan de Igualdad y Equidad de Género, basado en el enfoque de Género y Derechos Humanos entorno a la promoción, protección, garantía y restitución de los Derechos Humanos de las Mujeres, en el cual se instruye a todas las dependencias de la Administración Pública, a coordinar esfuerzos y asignar recursos técnicos y financieros y a prestar toda la colaboración necesaria para la consecución exitosa de los objetivos de dicha Política.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

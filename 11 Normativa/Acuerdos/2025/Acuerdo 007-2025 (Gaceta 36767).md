@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. 005-2025, 006-2025,007-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250215-36767/download"
 extraido: "2026-11-13"
-huella: "0b99c486748c63e4"
+huella: "e02fcdb835833fbd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 007-2025
@@ -29,7 +29,7 @@ huella: "0b99c486748c63e4"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.98-2007) contentivo de la Ley Forestal, se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal, se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), está a cargo de un Director Ejecutivo nombrado por el Presidente de la República, con rango de Secretario de Estado y con participación en el Consejo de Ministros.
 
@@ -55,7 +55,7 @@ Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los veintio
 
 ING. LUIS EDGARDO SOLIZ LOBO DIRECTOR EJECUTIVO ICF ABG. RODOLFO ANTONIO ZAMORA GALEAS SECRETARIO GENERAL ICF Avance Próxima Edición
 
-DECRETA ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.2342, suscrito el 17 de Diciembre de 2024, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta TRESCIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$300,000,000.00), recursos destinados a la ejecución del “PROYECTO DE CONSTRUCCIÓN DE LA PRESA MULTIPROPÓSITO EL TABLÓN, ETAPA I” CENTROS DE DISTRIBUCIÓN:
+DECRETA ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 2342, suscrito el 17 de Diciembre de 2024, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta TRESCIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$300,000,000.00), recursos destinados a la ejecución del “PROYECTO DE CONSTRUCCIÓN DE LA PRESA MULTIPROPÓSITO EL TABLÓN, ETAPA I” CENTROS DE DISTRIBUCIÓN:
 
 TEGUCIGALPA
 

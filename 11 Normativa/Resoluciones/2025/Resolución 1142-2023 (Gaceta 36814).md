@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1142-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250411-36814/download"
 extraido: "2026-11-11"
-huella: "f6b12befdf24a9d3"
+huella: "b58e51a6de6839dc"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1142-2023
@@ -31,9 +31,7 @@ El Suscrito Oficial Jurídico de Secretaría General, de la Secretaría de Estad
 
 CERTIFICA:
 
-La Resolución que literalmente dice: "RESOLUCIÓN No.
-
-1142-2023. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, veintiséis de junio del año dos mil veintitrés.
+La Resolución que literalmente dice: "RESOLUCIÓN No. 1142-2023. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, veintiséis de junio del año dos mil veintitrés.
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diecinueve de junio del año dos mil catorce, misma que corre a Expediente No. PJ-19062014-1258, por la Abogada KARLA MARIA VALLADARES COELLO, personándose posteriormente el Abogado EDWIN C.
 

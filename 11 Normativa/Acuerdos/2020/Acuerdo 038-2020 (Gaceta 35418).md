@@ -11,7 +11,7 @@ paginas: "A. 13"
 sumario: "Acuerdos Nos. 006-2019, 038-2020, 039-2020, 034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201103-35418/download"
 extraido: "2026-11-14"
-huella: "c1ee71d05d9588cd"
+huella: "a64371d0673f1760"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 038-2020
@@ -27,9 +27,9 @@ huella: "c1ee71d05d9588cd"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
 
-1. Nombrar al ciudadano: YARO JOSUÉ CÁCERES TERUEL, quien posee la Identidad número 0801- 1990-01285, como Director Interino de la Dirección de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario, quien asume todas las funciones correspondientes al puesto, a partir del día jueves veintidós (22) de octubre del año dos mil veinte (2020).
+1. Nombrar al ciudadano: YARO JOSUÉ CÁCERES TERUEL, quien posee la Identidad número 0801-1990-01285, como Director Interino de la Dirección de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario, quien asume todas las funciones correspondientes al puesto, a partir del día jueves veintidós (22) de octubre del año dos mil veinte (2020).
 
 2. Hacer la transcripción del presente Acuerdo.
 

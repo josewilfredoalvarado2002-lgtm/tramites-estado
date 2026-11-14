@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdo Ejecutivo No. 473-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221128-36088/download"
 extraido: "2026-11-14"
-huella: "8a03f4d8cea46e8b"
+huella: "bcb7fa1a21830ef0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 473-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que dentro de las atribuciones que corresponden a las Secretarías
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM No. 27-2014 de fecha 4 de junio del 2014, la Dirección de Niñez, Adolescencia y Familia, siendo ratificado en el artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
-CONSIDERANDO: Que con fecha 7 de marzo de 2022, la Presidenta de la República, IRIS XIOMARA CASTRO SARMIENTO, emitió el Acuerdo Ejecutivo No. 163- 2022, se nombró al SECRETARIO GENERAL DE LA DIRECCION DE NIÑEZ, ADOLESCENCIA Y FAMILIA (DINAF).
+CONSIDERANDO: Que con fecha 7 de marzo de 2022, la Presidenta de la República, IRIS XIOMARA CASTRO SARMIENTO, emitió el Acuerdo Ejecutivo No. 163-2022, se nombró al SECRETARIO GENERAL DE LA DIRECCION DE NIÑEZ, ADOLESCENCIA Y FAMILIA (DINAF).
 
 5- Sustituir temporalmente a la Directora Ejecutiva cuando sé requiera; y, 6- Las demás que le sean asignadas.
 

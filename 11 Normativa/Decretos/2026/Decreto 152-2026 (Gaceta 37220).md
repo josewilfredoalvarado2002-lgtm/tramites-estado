@@ -11,7 +11,7 @@ paginas: "A. 28 - 48"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "026111fc8f60c2c1"
+huella: "0c933aa0cf84b50f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 152-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 numeral 1) de la Constituc
 
 CONSIDERANDO: Que de conformidad al Artículo 205 atribución 30) de la Constitución de la República, es potestad del Congreso Nacional: Aprobar o improbar los Tratados Internacionales que el Poder Ejecutivo haya celebrado.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

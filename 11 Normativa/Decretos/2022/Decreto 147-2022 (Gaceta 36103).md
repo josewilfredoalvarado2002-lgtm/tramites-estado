@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 147-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221215-36103/download"
 extraido: "2026-11-14"
-huella: "53d5744a5001d869"
+huella: "dc5d241823ed5508"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 147-2022
@@ -51,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en el marco de la disciplina presupuestaria, para que identifique, incorpore, asigne o reoriente recursos del Presupuesto General de la República, por la cantidad de TRESCIENTOS SEIS MILLONES CIENTO DIEZ MIL SETECIENTOS OCHENTA Y NUEVE LEMPIRAS C O N S E S E N TA Y N U E V E CENTAVOS (L.306,110,789.69), para el pago de los salarios adeudados a los empleados de la Empresa Hondureña de Telecomunicaciones (HONDUTEL) correspondiente a los meses de agosto, septiembre, octubre, noviembre, diciembre, decimotercer mes, decimocuarto mes y sus colaterales del presente Ejercicio Fiscal del año 2022.
+ARTÍCULO 1.- Se faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en el marco de la disciplina presupuestaria, para que identifique, incorpore, asigne o reoriente recursos del Presupuesto General de la República, por la cantidad de TRESCIENTOS SEIS MILLONES CIENTO DIEZ MIL SETECIENTOS OCHENTA Y NUEVE LEMPIRAS C O N S E S E N TA Y NUEVE CENTAVOS (L.306,110,789.69), para el pago de los salarios adeudados a los empleados de la Empresa Hondureña de Telecomunicaciones (HONDUTEL) correspondiente a los meses de agosto, septiembre, octubre, noviembre, diciembre, decimotercer mes, decimocuarto mes y sus colaterales del presente Ejercicio Fiscal del año 2022.
 
 La ejecución presupuestaria serán transferencias corrientes de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a la Empresa Hondureña de Telecomunicaciones (HONDUTEL) a la cuenta que HONDUTEL designe.
 
@@ -61,7 +61,7 @@ ARTÍCULO 2.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas 
 
 #### Artículo 3
 
-ARTÍCULO 3.- L a E m p r e s a H o n d u r e ñ a d e Telecomunicaciones (HONDUTEL) deberá reducir su masa laboral hasta en un cincuenta por ciento (50%) durante los próximos tres (3) años, mediante la implementación de los planes del retiro voluntario y evitando contrataciones de personal innecesarias. Asimismo, la Empresa hará una revisión de su estructura salarial y la adecuará a la situación financiera de la Empresa.
+ARTÍCULO 3.- La Empresa Hondureña de Telecomunicaciones (HONDUTEL) deberá reducir su masa laboral hasta en un cincuenta por ciento (50%) durante los próximos tres (3) años, mediante la implementación de los planes del retiro voluntario y evitando contrataciones de personal innecesarias. Asimismo, la Empresa hará una revisión de su estructura salarial y la adecuará a la situación financiera de la Empresa.
 
 #### Artículo 4
 

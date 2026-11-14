@@ -11,7 +11,7 @@ paginas: "A. 19 - 22"
 sumario: "Acuerdos Ejecutivos Números 310-2023, 335-2023, 336-2023, 361-2023, 362-2023, 365-2023, 366-2023, Acuerdo Número 385-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231206-36402/download"
 extraido: "2026-11-14"
-huella: "1ce37c8abf63cd4b"
+huella: "8881d3ed7f49efd1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 366-2023
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -59,7 +59,7 @@ Que la zona Sur del país cuenta con un edificio de 80 años de vida, con áreas
 
 CONSIDERANDO:
 
-Que mediante Decreto No.48-2012 de fecha 17 de abril de 2012 y publicado en el Diario Oficial La Gaceta No.32,828 del 24 de mayo de 2012, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No.HND-4, suscrito el 16 de febrero de 2012 entre el Export - Import Bank de Corea y el Gobierno de la República de Honduras, por un monto de hasta Treinta y Tres Millones Veintidós Mil Dólares de los Estados Unidos de América (US$33,022,000.00), fondos destinados a financiar la ejecución del Proyecto Construcción del Hospital Regional del Sur en Choluteca, y pasados más de diez años de la suscripción del Contrato de Préstamo del cual solo se desembolsó el 4% de los recursos financieros contratados, el hospital nunca fue construido y aunque el Congreso Nacional autorizó la ampliación del período de desembolso y ejecución del mismo, no fue posible materializarlo.
+Que mediante Decreto No. 48-2012 de fecha 17 de abril de 2012 y publicado en el Diario Oficial La Gaceta No. 32,828 del 24 de mayo de 2012, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No.HND-4, suscrito el 16 de febrero de 2012 entre el Export - Import Bank de Corea y el Gobierno de la República de Honduras, por un monto de hasta Treinta y Tres Millones Veintidós Mil Dólares de los Estados Unidos de América (US$33,022,000.00), fondos destinados a financiar la ejecución del Proyecto Construcción del Hospital Regional del Sur en Choluteca, y pasados más de diez años de la suscripción del Contrato de Préstamo del cual solo se desembolsó el 4% de los recursos financieros contratados, el hospital nunca fue construido y aunque el Congreso Nacional autorizó la ampliación del período de desembolso y ejecución del mismo, no fue posible materializarlo.
 
 CONSIDERANDO:
 

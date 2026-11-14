@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Decreto Ejecutivo número PCM-134-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211210-35794/download"
 extraido: "2026-11-14"
-huella: "1beca8005a3bbd33"
+huella: "839d5a3776db8318"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-134-2021
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de conformidad a la CIRCULAR N°. CGG-1180-2021 que establece 
 
 POR TANTO;
 
-En uso de las facultades contenida en los artículos 59, 245 numerales 11, 20, 29, 39 y 45, 248, 252, 321 y 323 de la Constitución de la Republica; Artículos 7, 11, 17, 18, 20, 22 numerales 5), 9) y 12) de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo Número.
-
-266-2013; Decreto Ejecutivo Número PCM-033-2018, reformado mediante Decreto Ejecutivo PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM- 016-2020, PCM 023-2020 y Decreto Ejecutivo Número PCM 146-2020.
+En uso de las facultades contenida en los artículos 59, 245 numerales 11, 20, 29, 39 y 45, 248, 252, 321 y 323 de la Constitución de la Republica; Artículos 7, 11, 17, 18, 20, 22 numerales 5), 9) y 12) de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo Número. 266-2013; Decreto Ejecutivo Número PCM-033-2018, reformado mediante Decreto Ejecutivo PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM-016-2020, PCM 023-2020 y Decreto Ejecutivo Número PCM 146-2020.
 
 DECRETA:
 

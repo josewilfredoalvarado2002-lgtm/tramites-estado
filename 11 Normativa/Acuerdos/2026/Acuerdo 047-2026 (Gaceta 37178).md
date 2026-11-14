@@ -11,7 +11,7 @@ paginas: "A. 60 - 144"
 sumario: "Acuerdo SDN No. 046-2026, SDN No. 047-2026, SDN No. 050-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260626-37178/download"
 extraido: "2026-11-09"
-huella: "a7610f55d74af6f9"
+huella: "2873585d64ea2490"
 ---
 <!-- portal:inicio -->
 # ACUERDO SDN No. 047-2026
@@ -465,7 +465,7 @@ Las siguientes normas deberán ser cumplidas por los Estudiantes, para consagrar
 
 Fotografías, vídeos, audios y documentos, que involucren las actividades de formación, instalaciones, portando el uniforme y/o equipo de la Escuela.
 
-A RT Í C U L O 2 1 . - C O M P O RTA M I E N TO Y RESTRICCIONES DE LOS ESTUDIANTES.
+A RT Í C U L O 2 1 . - COMPO RTA MI EN TO Y RESTRICCIONES DE LOS ESTUDIANTES.
 
 1. Aulas
 
@@ -1577,7 +1577,7 @@ ARTÍCULO 53.- En caso que se presente un problema con un examen que el Oficial 
 
 ARTÍCULO 54.- Los exámenes y pruebas se contestarán con lápiz tinta color negro, los calcos deben presentarse con marcador negro o colores convencionales. Una vez finalizado el examen el estudiante deberá revisarlo y entregarlo junto con toda la documentación relacionada con el mismo; debiendo salir y permanecer en silencio hasta la finalización total del tiempo asignado para tal efecto.
 
-A RT Í C U L O 5 5 . - D E L M A N E J O D E L A S CALIFICACIONES:
+A RT Í C U L O 5 5 . - DEL MANEJO DE LAS CALIFICACIONES:
 
 En el momento que el instructor entregue al Departamento/ División/Sección Académica, los exámenes, también deberá entregar el cuadro de calificaciones que contenga los puntos acumulativos obtenidos en las pruebas, trabajos, exposiciones entre otros.
 
@@ -1709,7 +1709,7 @@ ARTÍCULO 75.- EVALUACIÓN DE CURSOS MILITARES ESPECIALIZADOS:
 
 La pérdida de cursos militares especializados dentro de la formación militar por causas imputables al estudiante constituirá una falta grave y será sancionado con arresto.
 
-A R T Í C U L O 7 6 . - R E G U L A C I O N E S D E ENTRENAMIENTO Y DE LA EVALUACIÓN DEL ADIESTRAMIENTO EN EL TRABAJO:
+ARTÍCULO 7 6 . - REGULACIONES DE ENTRENAMIENTO Y DE LA EVALUACIÓN DEL ADIESTRAMIENTO EN EL TRABAJO:
 
 Serán conforme al régimen, estándares y exigencias establecidas según el Instructivo del Proceso de Adiestramiento en el Trabajo (AET) de las Escuelas de Formación de Suboficiales de las Fuerzas Armadas.
 

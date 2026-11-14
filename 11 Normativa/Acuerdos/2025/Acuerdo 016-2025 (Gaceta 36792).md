@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Número 016-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250317-36792/download"
 extraido: "2026-11-12"
-huella: "2bee1ab262b802f5"
+huella: "860e29cd367fd4c8"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 016-2025
@@ -39,9 +39,9 @@ CONSIDERANDO: Que el lanzamiento del proceso de negociación se llevó a cabo en
 
 CONSIDERANDO: Que durante el proceso de negociación y posterior implementación del Tratado de Libre Comercio con China, se generará información que por su naturaleza debe ser considerada como reservada, en virtud a la necesidad de salvaguardar los interéses económicos nacionales, ya que su difusión acarrearía, entre otros, el debilitamiento de las estrategias nacionales de negociación.
 
-CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública aprobada por el Congreso Nacional mediante Decreto No.170-2006 del 24 de noviembre de 2006, y su Reglamento, señala como uno de sus objetivos la garantía de protección de la información clasificada como reservada por resoluciones de instituciones del sector público.
+CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública aprobada por el Congreso Nacional mediante Decreto No. 170-2006 del 24 de noviembre de 2006, y su Reglamento, señala como uno de sus objetivos la garantía de protección de la información clasificada como reservada por resoluciones de instituciones del sector público.
 
-CONSIDERANDO: Que mediante resolución No. SO-259- 2024 EXP 008-2023-CI SEC, emitida por el Instituto de Acceso a la Información Pública, en relación a la clasificación de Información Pública como Reservada, en donde resolvió declarar Parcialmente Con Lugar, la solicitud de clasificación de Información Pública estipulando como reservada única y exclusivamente la información relacionada, durante el tiempo que dure las negociaciones del Tratado de Libre Comercio con China, haciendo énfasis que la Reserva sea única y exclusivamente en la información que sea entregada al Estado de Honduras por otros Estados con el carácter de Confidencial y que dicha Información no sea contraria a la Constitución de la República y los Tratados Internacionales vigentes, durante el tiempo que duren las negociaciones internacionales tal y como lo determina el artículo 17 numeral 5) de la Ley de Transparencia y Acceso a la Información Pública.
+CONSIDERANDO: Que mediante resolución No. SO-259-2024 EXP 008-2023-CI SEC, emitida por el Instituto de Acceso a la Información Pública, en relación a la clasificación de Información Pública como Reservada, en donde resolvió declarar Parcialmente Con Lugar, la solicitud de clasificación de Información Pública estipulando como reservada única y exclusivamente la información relacionada, durante el tiempo que dure las negociaciones del Tratado de Libre Comercio con China, haciendo énfasis que la Reserva sea única y exclusivamente en la información que sea entregada al Estado de Honduras por otros Estados con el carácter de Confidencial y que dicha Información no sea contraria a la Constitución de la República y los Tratados Internacionales vigentes, durante el tiempo que duren las negociaciones internacionales tal y como lo determina el artículo 17 numeral 5) de la Ley de Transparencia y Acceso a la Información Pública.
 
 CONSIDERANDO: Que de conformidad con el Artículo 17 numeral 5) de la precitada Ley, la conducción de las negociaciones y las relaciones internacionales puede ser declarada información reservada.
 

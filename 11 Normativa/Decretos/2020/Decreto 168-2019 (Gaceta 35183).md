@@ -11,7 +11,7 @@ paginas: "A. 13 - 20"
 sumario: "Decreto No. 168-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200224-35183/download"
 extraido: "2026-11-14"
-huella: "5df32cafdebe14b5"
+huella: "dbea3f4c8fe8eb8e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 168-2019
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República, establece en su Artículo 351 que “El sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente”.
 
-CONSIDERANDO: Que mediante Decreto No.170- 2016 de fecha 15 de diciembre del 2016 y publicado en el Diario Oficial “La Gaceta” el 28 de diciembre de 2016, contentivo del Código Tributario, el cual entró en vigencia a partir del 1 de enero de 2017.
+CONSIDERANDO: Que mediante Decreto No. 170-2016 de fecha 15 de diciembre del 2016 y publicado en el Diario Oficial “La Gaceta” el 28 de diciembre de 2016, contentivo del Código Tributario, el cual entró en vigencia a partir del 1 de enero de 2017.
 
 CONSIDERANDO: Que para colaborar con la población a aminorar el costo del cumplimiento de sus obligaciones tributarias, sin que ello implique evadir el pago de las mismas y al mismo tiempo lograr una recaudación más efectiva de los impuestos, es necesario implementar mecanismos que incentiven a la población al pago de sus obligaciones principales, liberándolo del pago de sanciones pecuniarias por el incumplimiento o cumplimiento tardío de sus obligaciones.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +67,7 @@ El beneficio de amnistía comprenderá los supuestos siguientes:
 
 #### Artículo 2
 
-ARTÍCULO 2.- AMNISTÍA INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS).- Ampliar los efectos y vigencia de lo dispuesto en los Decretos No.112-2016 del 16 de agosto del 2016, Decreto No.82-2017 del 27 de septiembre de 2017 y del Artículo 2 del Decreto No.129-2017 del 16 de Enero del 2018, Decreto No.51-2018 del 7 de junio del 2018 y Artículo 253 del Decreto No.180-2018 del 13 de diciembre de 2018, referentes a autorizar al Instituto Hondureño de Seguridad Social (IHSS) a establecer amnistía en el pago de recargos, multas e intereses en las deudas originadas por la falta de pago de los aportes patronales y de trabajadores a dicho Instituto, dejados de enterar por parte de los patronos obligados del sector público y privado; por un período adicional dentro de la vigencia del presente Decreto.
+ARTÍCULO 2.- AMNISTÍA INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS).- Ampliar los efectos y vigencia de lo dispuesto en los Decretos No. 112-2016 del 16 de agosto del 2016, Decreto No. 82-2017 del 27 de septiembre de 2017 y del Artículo 2 del Decreto No. 129-2017 del 16 de Enero del 2018, Decreto No. 51-2018 del 7 de junio del 2018 y Artículo 253 del Decreto No. 180-2018 del 13 de diciembre de 2018, referentes a autorizar al Instituto Hondureño de Seguridad Social (IHSS) a establecer amnistía en el pago de recargos, multas e intereses en las deudas originadas por la falta de pago de los aportes patronales y de trabajadores a dicho Instituto, dejados de enterar por parte de los patronos obligados del sector público y privado; por un período adicional dentro de la vigencia del presente Decreto.
 
 Las condiciones y plazo de pago en el caso de documentación de la deuda pueden ser hasta por un máximo de cinco (5) años contados a partir de la fecha de suscripción del compromiso el que se determinará por la condición financiera y naturaleza de la Empresa o Institución suscribiente y conforme a la reglamentación establecida por el Instituto Hondureño de Seguridad Social (IHSS).
 
@@ -103,7 +103,7 @@ Posteriormente a la nacionalización, el vehículo debe inscribirse o actualizar
 
 #### Artículo 5
 
-ARTÍCULO 5.- Interpretar el Artículo 5 del Decreto No.112-2017 del 27 de Septiembre de 2017, en el sentido de que la facultad otorgada en el referido
+ARTÍCULO 5.- Interpretar el Artículo 5 del Decreto No. 112-2017 del 27 de Septiembre de 2017, en el sentido de que la facultad otorgada en el referido
 
 Artículo para un Comité Técnico también comprende para todos los Comités Técnicos de los Fideicomisos de Alianza Público-Privada en los cuales el Instituto de la Propiedad (IP) es o sea Fideicomitente o Fideicomisario.
 

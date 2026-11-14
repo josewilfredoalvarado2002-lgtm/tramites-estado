@@ -8,10 +8,10 @@ gaceta_numero: 35392
 gaceta_fecha: "2020-10-06"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)|La Gaceta 35392]]"
 paginas: "A. 18 - 20"
-sumario: "Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020"
+sumario: "Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201006-35392/download"
 extraido: "2026-11-14"
-huella: "752bbccffa514281"
+huella: "5e768321c1710e4b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 043-2020
@@ -23,7 +23,7 @@ huella: "752bbccffa514281"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)\|La Gaceta 35392]] del 2020-10-06 |
 | Páginas | A. 18 - 20 |
-| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020 |
 
 ## Texto
 
@@ -53,13 +53,11 @@ Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 
-PRIMERO: Revocar, a partir de la fecha del presente Acuerdo, la delegación de funciones conferidas a la Subsecretaria de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, mediante Acuerdo Ejecutivo No 023- 2018 de fecha 16 de abril de 2018 y publicado en el Diario Oficial La Gaceta en fecha 20 de abril de 2018.
+PRIMERO: Revocar, a partir de la fecha del presente Acuerdo, la delegación de funciones conferidas a la Subsecretaria de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, mediante Acuerdo Ejecutivo No 023-2018 de fecha 16 de abril de 2018 y publicado en el Diario Oficial La Gaceta en fecha 20 de abril de 2018.
 
 SEGUNDO: Delegar a partir del 01 de octubre de 2020, en CARLOS ALBERTO MADERO ERAZO, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos; f) Modificaciones Presupuestarias; y, g) Otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
-TERCERO: Se exceptúa de esta delegación la potestad de firmar los Acuerdos relacionados con movimientos de personal de la Administración Pública, contratados bajo diversas modalidades, en virtud que mediante Acuerdo Ejecutivo No.
-
-009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 30 de enero de 2018, le fue delegada la firma para sancionar estos Acuerdos, al Secretario Privado y Jefe del Gabinete Presidencial con rango de Secretario de Estado, RICARDO LEONEL CARDONA LÓPEZ.
+TERCERO: Se exceptúa de esta delegación la potestad de firmar los Acuerdos relacionados con movimientos de personal de la Administración Pública, contratados bajo diversas modalidades, en virtud que mediante Acuerdo Ejecutivo No. 009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 30 de enero de 2018, le fue delegada la firma para sancionar estos Acuerdos, al Secretario Privado y Jefe del Gabinete Presidencial con rango de Secretario de Estado, RICARDO LEONEL CARDONA LÓPEZ.
 
 CUARTO: Los actos administrativos que se emitan en cumplimiento del presente Acuerdo Ejecutivo, deben tramitarse y autorizarse de conformidad con las Leyes respectivas.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdan; Fe de Errata"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231205-36401/download"
 extraido: "2026-11-14"
-huella: "6de16e40d13f04b2"
+huella: "b346476072aac264"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdan; Fe de Errata
@@ -247,9 +247,7 @@ Artículo “…Donde ΔFm es el desvío de potencia firme del agente productor�
 
 a) “…𝑃𝑃𝑗𝑗𝑗𝑗 es la cantidad de potencia firme comprada por el agente…”
 
-Artículo “…Pjm es la cantidad de potencia firme comprada por el agente…” 24, subsección
-
-a)
+Artículo “…Pjm es la cantidad de potencia firme comprada por el agente…” 24, subsección a)
 
 ## Fuente
 

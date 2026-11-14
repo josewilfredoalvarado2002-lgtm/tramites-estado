@@ -11,7 +11,7 @@ paginas: "A. 1 - 100"
 sumario: "Decreto No. 122-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221115-36077/download"
 extraido: "2026-11-14"
-huella: "da687bdef8d1b02b"
+huella: "2f85f782f79cc371"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 122-2022
@@ -29,7 +29,7 @@ huella: "da687bdef8d1b02b"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenios correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenios correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el Gobierno de la República ha expuesto la crítica situación de las finanzas públicas recibidas después de trece (13) años del Golpe de Estado Militar y la instauración del régimen que destruyó la endeble institucionalidad y ocasionó perjuicios económicos y sociales de gran magnitud, como el endeudamiento, la corrupción y el empobrecimiento del Pueblo, sumado al entorno internacional de profundos desafíos por subsecuentes choques económicos de las crisis cíclicas del sistema; pandemias y desastres naturales provocados por el cambio climático; y concretamente el conflicto bélico en Europa que afecta los precios de los combustibles y la producción de alimentos a nivel mundial, aspectos exógenos que generan inflación (sesenta y cinco por ciento (65%) de ella importada) y afectan directamente nuestras finanzas y al Pueblo Hondureño.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Central Hidroeléctrica Francisco Morazán (CHFM) contribuy
 
 La alta participación de Energía Renovable Variable altera el suministro de los servicios auxiliares que son fundamentales para mantener la calidad del servicio. El incremento de variabilidad en el Sistema Nacional Interconectado requiere de mayor utilización de plantas de generación convenciones para balancear la potencia del Sistema Eléctrico Nacional por su rápido tiempo de respuesta. En Honduras la Central Hidroeléctrica Francisco Morazán (CHFM) brinda estos servicios, de igual manera, tiene un rol fundamental en el aporte de márgenes de reserva firme, que alternativamente deben ser cubiertos por centrales térmicas costosas e ineficientes, lo cual incrementa el costo promedio de generación.
 
-CONSIDERANDO: Que los Contratos de Préstamo No.5132/BL-HO y No.5133/TC-HO suscritos el 13 de Septiembre de 2022, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de Un Millón Seiscientos Mil Dólares de los Estados Unidos de América (US$.1,600,000.00) que podrá provenir de dos (2) tipos de recursos, el primero corresponde al tipo de Capital Ordinario Regular por un monto de Quinientos Sesenta Mil Dólares de los Estados Unidos de América (US$.560,000.00), con una amortización máxima de veinticinco (25) años, un período de gracia de cinco punto cinco (5.5) años y con una tasa de interés basada en London Interbank Offered Rate (LIBOR) más el margen aplicable para préstamos del CO (Capital Ordinario) regular del Banco, y un segundo tipo de recurso a cargo del Capital Ordinario Concesional de Un Mil Cuarenta Millones de Dólares de los Estados Unidos de América (US$.1,040,000,000.00), que será amortizado mediante un pago único a un máximo de cuarenta (40) años y una tasa de interés del cero punto veinticinco por ciento (0.25%) anual, y del financiamiento de Dieciséis Millones Cuatrocientos Mil Dólares de los Estados Unidos de América (US$.16,400,000.00) que podrá provenir de los recursos del Clean Tecnology Fund o el Fondo Fiduciario Para Una Tecnología Limpia, con una amortización de cuarenta (40) años, período de gracia de diez punto cinco (10.5) años y una tasa de interés de cero punto veinticinco por ciento (0.25%) anual, para un total entre los dos (2) Contratos de Préstamo de Dieciocho Millones de Dólares de los Estados Unidos de América (US$.18,000,000.00), lo que demuestra que las condiciones de este crédito son favorables a las finanzas públicas del Estado de Honduras, dichos recursos destinados a la ejecución del Programa “Renovación de la Central Hidroeléctrica Francisco Morazán para Facilitar la Integración de Energías Renovables”.
+CONSIDERANDO: Que los Contratos de Préstamo No. 5132/BL-HO y No. 5133/TC-HO suscritos el 13 de Septiembre de 2022, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de Un Millón Seiscientos Mil Dólares de los Estados Unidos de América (US$.1,600,000.00) que podrá provenir de dos (2) tipos de recursos, el primero corresponde al tipo de Capital Ordinario Regular por un monto de Quinientos Sesenta Mil Dólares de los Estados Unidos de América (US$.560,000.00), con una amortización máxima de veinticinco (25) años, un período de gracia de cinco punto cinco (5.5) años y con una tasa de interés basada en London Interbank Offered Rate (LIBOR) más el margen aplicable para préstamos del CO (Capital Ordinario) regular del Banco, y un segundo tipo de recurso a cargo del Capital Ordinario Concesional de Un Mil Cuarenta Millones de Dólares de los Estados Unidos de América (US$.1,040,000,000.00), que será amortizado mediante un pago único a un máximo de cuarenta (40) años y una tasa de interés del cero punto veinticinco por ciento (0.25%) anual, y del financiamiento de Dieciséis Millones Cuatrocientos Mil Dólares de los Estados Unidos de América (US$.16,400,000.00) que podrá provenir de los recursos del Clean Tecnology Fund o el Fondo Fiduciario Para Una Tecnología Limpia, con una amortización de cuarenta (40) años, período de gracia de diez punto cinco (10.5) años y una tasa de interés de cero punto veinticinco por ciento (0.25%) anual, para un total entre los dos (2) Contratos de Préstamo de Dieciocho Millones de Dólares de los Estados Unidos de América (US$.18,000,000.00), lo que demuestra que las condiciones de este crédito son favorables a las finanzas públicas del Estado de Honduras, dichos recursos destinados a la ejecución del Programa “Renovación de la Central Hidroeléctrica Francisco Morazán para Facilitar la Integración de Energías Renovables”.
 
 CONSIDERANDO: Que el objetivo del Programa es mejorar y recuperar el papel de la Central Hidroeléctrica Francisco Morazán (CHFM) - El Cajón como un activo efectivo para proporcionar flexibilidad e integración de la Energía Renovable Variable (ERV) al Sistema Eléctrico de Honduras.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19) y 36) de
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.5132/BLHO, suscrito el 13 de Septiembre del año 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de UN MILLÓN SEISCIENTOS MIL DÓLARES AMERICANOS (US$.1,600,000.00), recursos destinados a la ejecución DEL PROGRAMA “RENOVACIÓN DE LA CENTRAL HIDROELÉCTRICA FRANCISCO MORAZÁN PARA FACILITAR LA INTEGRACIÓN DE ENERGÍAS RENOVABLES”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 5132/BLHO, suscrito el 13 de Septiembre del año 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de UN MILLÓN SEISCIENTOS MIL DÓLARES AMERICANOS (US$.1,600,000.00), recursos destinados a la ejecución DEL PROGRAMA “RENOVACIÓN DE LA CENTRAL HIDROELÉCTRICA FRANCISCO MORAZÁN PARA FACILITAR LA INTEGRACIÓN DE ENERGÍAS RENOVABLES”, que literalmente dice:
 
 “CONTRATO DE PRÉSTAMO No. 5132/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Renovación de la Central Hidroeléctrica Francisco Morazán para Facilitar la Integración de Energías Renovables 13 de Septiembre de 2022 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 13 de septiembre de 2022.
 
@@ -599,7 +599,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -1287,7 +1287,7 @@ ARTÍCULO 11.03. Lugar de los pagos. Todo pago deberá efectuarse en la oficina 
 
 ARTÍCULO 11.04. Cesión de derechos. (a) El Banco podrá ceder a otras instituciones públicas o privadas, a título de participaciones, los derechos correspondientes a las obligaciones pecuniarias del Prestatario provenientes de este Contrato. El Banco notificará inmediatamente al Prestatario sobre cada cesión.
 
-(b) E l B a n c o p o d r á ceder participaciones en relación con saldos desembolsados o saldos que estén pendientes de desembolso en el momento de celebrarse el acuerdo de participación.
+(b) El Banco podrá ceder participaciones en relación con saldos desembolsados o saldos que estén pendientes de desembolso en el momento de celebrarse el acuerdo de participación.
 
 (c) El Banco podrá, con la previa conformidad del Prestatario y del Garante, si lo hubiere, ceder, en todo o en parte, el saldo no desembolsado del Préstamo a otras instituciones públicas o privadas. A tales efectos, la parte sujeta a cesión será denominada en términos de un número fijo de unidades de la Moneda de Aprobación o de unidades de Dólares. Igualmente, y previa conformidad del Prestatario, y del Garante, si lo hubiere, el Banco podrá establecer para dicha parte sujeta a cesión, una tasa de interés diferente a la establecida en el presente Contrato.
 
@@ -1395,7 +1395,7 @@ Ejecución 4.01 El Organismo Ejecutor será la ENEE, quién tendrá la responsab
 
 #### Artículo 2
 
-ARTÍCULO 2.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.5133/TCHO, suscrito el 13 de Septiembre del año 2022, entre EL BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de DIECISÉIS MILLONES CUATROCIENTOS MIL DÓLARES AMERICANOS (US$.16,400,000.00), recursos destinados a la ejecución del Programa “RENOVACIÓN DE LA CENTRAL HIDROELÉCTRICA FRANCISCO MORAZÁN PARA FACILITAR LA INTEGRACIÓN DE ENERGÍAS RENOVABLES”, que literalmente dice:
+ARTÍCULO 2.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 5133/TCHO, suscrito el 13 de Septiembre del año 2022, entre EL BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de DIECISÉIS MILLONES CUATROCIENTOS MIL DÓLARES AMERICANOS (US$.16,400,000.00), recursos destinados a la ejecución del Programa “RENOVACIÓN DE LA CENTRAL HIDROELÉCTRICA FRANCISCO MORAZÁN PARA FACILITAR LA INTEGRACIÓN DE ENERGÍAS RENOVABLES”, que literalmente dice:
 
 “CONTRATO DE PRÉSTAMO No. 5133/TC-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO en su calidad de entidad implementadora del Fondo Fiduciario para una Tecnología Limpia (CTF) Renovación de la Central Hidroeléctrica Francisco Morazán para Facilitar la Integración de Energías Renovables 13 de Septiembre de 2022 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre LA REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y EL BANCO INTERAMERICANO DE DESARROLLO, en su calidad de entidad implementadora del Fondo Fiduciario para una Tecnología Limpia (CTF), en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 13 de septiembre de 2022.
 

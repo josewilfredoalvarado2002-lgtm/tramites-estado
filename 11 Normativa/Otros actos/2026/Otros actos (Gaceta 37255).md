@@ -11,7 +11,7 @@ paginas: "A. 1 - 52"
 sumario: "Reglamento Interno de Trabajo"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260925-37255/download"
 extraido: "2026-11-09"
-huella: "a51066cd946e5b01"
+huella: "67a86e890c9d9e3a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Reglamento Interno de Trabajo
@@ -1683,7 +1683,7 @@ Artículo 174. Las normas contenidas en el presente Reglamento, no afectan los d
 
 Artículo 175. No producen ningún efecto las normas contenidas en el presente Reglamento, que desmejoren las condiciones laborales o de servicio para los trabajadores que establezcan las leyes o el contrato individual de trabajo. En todo caso prevalecerán aquellas que fueren más favorables para el trabajador.
 
-A r t í c u l o 1 7 6 . S O B R E S U E L D O Ú N I C O EXTRAORDINARIO. Por única vez y de forma extraordinaria, al momento de la aprobación de la reforma del artículo 80, de este Reglamento, el Pleno de Comisionados podrá autorizar el pago de un SOBRESUELDO ÚNICO EXTRAORDINARIO a los trabajadores permanentes del PATRONO, como reconocimiento por su permanencia en la institución.
+Artículo 1 7 6 . SOBRESUELDO ÚNICO EXTRAORDINARIO. Por única vez y de forma extraordinaria, al momento de la aprobación de la reforma del artículo 80, de este Reglamento, el Pleno de Comisionados podrá autorizar el pago de un SOBRESUELDO ÚNICO EXTRAORDINARIO a los trabajadores permanentes del PATRONO, como reconocimiento por su permanencia en la institución.
 
 El cálculo del monto de este bono lo realizará el Pleno de Comisionados de forma discrecional, tomando en cuenta la disponibilidad presupuestaria.
 
@@ -1697,7 +1697,7 @@ Artículo 178. Para efectuar cualquier cambio, modificación o derogatoria del p
 
 SEGUNDO: Sin perjuicio de lo anterior, se hace del conocimiento al solicitante que no producirán ningún efecto, las disposiciones del Reglamento Interno de Trabajo que desmejoren las condiciones del trabajador en relación con lo establecido en las leyes de trabajo, contratos individuales, pactos o convenciones colectivas, los cuales sustituyen las disposiciones del Reglamento de Trabajo, en cuanto fueren más favorables al trabajador. Del mismo modo se le hace saber, que no puede imponer a sus trabajadores sanciones no previstas en el reglamento, en pacto, convención colectiva o en el contrato individual de trabajo. -TERCERO: Para los efectos de control interno, una vez que quede firme la presente resolución de Aprobación y registro del Reglamento Interno de Trabajo, de la Sociedad Mercantil “COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA”, del domicilio de la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, en donde tendrá su oficina principal pudiendo abrir sucursales y otras agencias en el resto del país y fuera del país.- Que el Departamento de Reglamentos de Trabajo, proceda al archivo y custodia de las presentes diligencias. CUARTO: Extender a los interesados transcripción íntegra de la presente resolución.
 
-Firma según Nombramiento No. STSS-103-2026 del 18 de febrero de 2026 y según Acuerdo por Delegación No. STSS- 532-2024 de fecha 28 de agosto de 2024.- NOTIFIQUESE.
+Firma según Nombramiento No. STSS-103-2026 del 18 de febrero de 2026 y según Acuerdo por Delegación No. STSS-532-2024 de fecha 28 de agosto de 2024.- NOTIFIQUESE.
 
 - (F y S). – ABG. ALFREDO ERNESTO PONCE
 

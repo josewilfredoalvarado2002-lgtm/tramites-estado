@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdos Nos. SAG-020-2025, SAG-022-2025, SAG-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250430-36826/download"
 extraido: "2026-11-11"
-huella: "9376add4806c541f"
+huella: "eb3d4ea2188b44ed"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-044-2025
@@ -35,9 +35,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras, establece que l
 
 CONSIDERANDO: Que según Acuerdo Ejecutivo Número 11-2022 de fecha 27 de enero del año 2022, se nombró a la ciudadana LAURA ELENA SUAZO TORRES, en el cargo de Secretaria de Estado en los Despachos de la Secretaría de Agricultura y Ganadería.
 
-CONSIDERANDO: Que según Acuerdo Ministerial No.
-
-SAG-020-2025 de fecha 01 de Abril del 2025, se delega en el ciudadano JOSE ANGEL ACOSTA ZAVALA, Subsecretario de Estado en el Despacho de Ganadería, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, durante el período comprendido del dos (02) al seis (06) de abril del dos mil veinticinco (2025).
+CONSIDERANDO: Que según Acuerdo Ministerial No. SAG-020-2025 de fecha 01 de Abril del 2025, se delega en el ciudadano JOSE ANGEL ACOSTA ZAVALA, Subsecretario de Estado en el Despacho de Ganadería, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, durante el período comprendido del dos (02) al seis (06) de abril del dos mil veinticinco (2025).
 
 CONSIDERANDO: Que el Artículo 123 de la Ley General de la Administración Pública, literalmente reza: “En defecto de disposición expresa, el titular de un órgano, en caso de ausencia o impedimento legal será sustituido por el subalterno más elevado en grado, y en caso de paridad de grado, por el funcionario con más antigüedad en el servicio, en su defecto, por el funcionario que ostente el título profesional superior”.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Acuerdo Ejecutivo número 050-2020,Acuerdo Ejecutivo No. SEN-014-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201210-35455/download"
 extraido: "2026-11-14"
-huella: "07a58c5c639ffccc"
+huella: "1136e6a6bacd3b79"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 050-2020
@@ -31,7 +31,7 @@ EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA:
 
 CONSIDERANDO: Que el artículo 337 de la Constitución de la República establece que la industria y el comercio en pequeña escala constituyen un patrimonio de los hondureños.
 
-CONSIDERANDO: Que mediante el Decreto No. PCM 034- 2019 de fecha 18 de julio de 2019, se crea el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República, con personalidad jurídica, independencia técnica, administrativa y financiera, como el ente responsable de la aplicación de la normativa de la micro, pequeña y mediana empresa, desarrollo del emprendimiento, de las empresas del Sector Social de la Economía y la innovación, así como los programas financieros de acceso al financiamiento asociados a estos sectores.
+CONSIDERANDO: Que mediante el Decreto No. PCM 034-2019 de fecha 18 de julio de 2019, se crea el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República, con personalidad jurídica, independencia técnica, administrativa y financiera, como el ente responsable de la aplicación de la normativa de la micro, pequeña y mediana empresa, desarrollo del emprendimiento, de las empresas del Sector Social de la Economía y la innovación, así como los programas financieros de acceso al financiamiento asociados a estos sectores.
 
 CONSIDERANDO: Que el artículo 7 del Decreto Legislativo No. 031-2020 que contiene la Ley de Aceleración Económica y de Protección Social ante los efectos de Coronavirus COVID-19, ordena al Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE) a crear el catálogo de productos y/o servicios y su reglamento para fomentar la participación de los emprendedores, organismos del sector social de la economía y la micro, pequeña y mediana empresa en las compras del Estado.
 
@@ -43,9 +43,7 @@ CONSIDERANDO: Que la implementación de un Catálogo de Productos y/o Servicios 
 
 CONSIDERANDO: Que es de suma importancia la creación del reglamento de catálogo de productos y/o servicios de acuerdo a las disposiciones del artículo 7 del Decreto Legislativo que contiene la Ley de Aceleración Económica y de Protección Social ante los efectos de Coronavirus COVID-19, así como el desarrollo de una herramienta electrónica que permita a los diferentes órganos que componen la administración pública, comprar directamente a emprendedores, sector social de la economía y micro, pequeñas y medianas empresas en un proceso transparente, público, y eficiente donde todo el ciclo de contratación se agilice, logrando incentivar la economía y el fortalecimiento a la producción local.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°.
-
-043-2020 de fecha 6 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de Reglamentos, Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado, autorizar al Procurador General de la República para ejecutar facultades de expresa mención en las demandas promovidas contra el Estado de Honduras, Gastos de Representación de Funcionarios, Préstamos, Modificaciones Presupuestarias y otros actos administrativos que deba firmar por Ley el Presidente de la República.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 043-2020 de fecha 6 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de Reglamentos, Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado, autorizar al Procurador General de la República para ejecutar facultades de expresa mención en las demandas promovidas contra el Estado de Honduras, Gastos de Representación de Funcionarios, Préstamos, Modificaciones Presupuestarias y otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
 POR TANTO: El Presidente Constitucional de la República, en el uso de las facultades que la ley le confiere y en aplicación de los artículos: 245 numeral 11 y 337 de la Constitución de la República; 1 y 7 de la Ley Especial de Aceleración Económica y Protección Social ante los efectos de Coronavirus COVID-19; 3 y 25 de la Ley para el Fomento y Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;
 

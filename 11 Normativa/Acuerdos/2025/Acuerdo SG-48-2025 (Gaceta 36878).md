@@ -11,7 +11,7 @@ paginas: "A. 20 - 24"
 sumario: "INSTITUTO HONDUREÑO DE GEOLOGÍA Y MINAS “INHGEOMIN”Acuerdo INHGEOMIN No. SG-48-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250701-36878/download"
 extraido: "2026-11-10"
-huella: "5831cbaa423e27c9"
+huella: "935e60e95b507c9e"
 ---
 <!-- portal:inicio -->
 # ACUERDO INHGEOMIN No. SG-48-2025
@@ -43,11 +43,9 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que la Ley de Procedimiento Administrativo en sus Artículos 1, 2 y 3 establece que la actuación administrativa se someterá a los principios de eficiencia, economía, celeridad y eficacia, buscando la simplificación de los trámites y la mejor atención al interés público.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 238-2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta el 2 de abril del año 2013, se aprobó la Ley General de Minería, la cual en su Artículo 3 define al Instituto Hondureño de Geología y Minas “INHGEOMIN” como el órgano técnico-administrativo especializado del Estado, con independencia técnica, funcional, administrativa y presupuestaria, encargado de la aplicación y cumplimiento de dicha Ley y su Reglamento.
 
-238-2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta el 2 de abril del año 2013, se aprobó la Ley General de Minería, la cual en su Artículo 3 define al Instituto Hondureño de Geología y Minas “INHGEOMIN” como el órgano técnico-administrativo especializado del Estado, con independencia técnica, funcional, administrativa y presupuestaria, encargado de la aplicación y cumplimiento de dicha Ley y su Reglamento.
-
-CONSIDERANDO: Que el Reglamento de la Ley General de Minería, aprobado mediante Acuerdo Ejecutivo No. 042- 2013 de fecha 2 de agosto del año 2013 y publicado en el Diario Oficial La Gaceta el 4 de septiembre del año 2013, establece en su Artículo 5, inciso 1), que el Director Ejecutivo del INHGEOMIN, además de las atribuciones establecidas en el Artículo 101 de la Ley General de Minería, puede crear, cuando lo estime conveniente y cuente con disponibilidad presupuestaria, otras Unidades Administrativas, Técnicas y Operativas para cumplir con la Ley General de Minería y el Reglamento de la misma.
+CONSIDERANDO: Que el Reglamento de la Ley General de Minería, aprobado mediante Acuerdo Ejecutivo No. 042-2013 de fecha 2 de agosto del año 2013 y publicado en el Diario Oficial La Gaceta el 4 de septiembre del año 2013, establece en su Artículo 5, inciso 1), que el Director Ejecutivo del INHGEOMIN, además de las atribuciones establecidas en el Artículo 101 de la Ley General de Minería, puede crear, cuando lo estime conveniente y cuente con disponibilidad presupuestaria, otras Unidades Administrativas, Técnicas y Operativas para cumplir con la Ley General de Minería y el Reglamento de la misma.
 
 CONSIDERANDO: Que el Instituto Hondureño de Geología y Minas “INHGEOMIN” es la entidad responsable de la gestión de los recursos minerales de Honduras, con la misión de promover el aprovechamiento sostenible de los mismos, realizando funciones de investigación geológica, concesión de derechos mineros, fiscalización de operaciones y protección ambiental.
 

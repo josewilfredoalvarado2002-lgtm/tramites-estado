@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 56-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210906-35710/download"
 extraido: "2026-11-14"
-huella: "4124cd5b802464b8"
+huella: "bc632f361c6dd0d8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que una de las actividades económicas que han desarrollado y reac
 
 CONSIDERANDO: Que la Municipalidad de Danlí, requiere de la adquisición de un lote de maquinaria conformada por una Retroexcavadora, un Tractor sobre Orugas, una Motoniveladora, un Rodillo Compactador de Tambor Liso, dos Volquetas y un Vehículo Cisterna, para mejorar las condiciones de las diferentes vías de comunicación de su cobertura, facilitando a la población local el traslado de un lugar a otro de sus materias primas, productos terminados, entre otros.
 
-CONSIDERANDO: Que la Municipalidad de Danlí cuenta con el Dictamen No.03-2021 facilitado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en donde declara la capacidad de endeudamiento de la Municipalidad de Danlí, Departamento de El Paraíso, para hacer frente a la adquisición del lote de la Maquinaria requerida para la habilitación de las vías de acceso.
+CONSIDERANDO: Que la Municipalidad de Danlí cuenta con el Dictamen No. 03-2021 facilitado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en donde declara la capacidad de endeudamiento de la Municipalidad de Danlí, Departamento de El Paraíso, para hacer frente a la adquisición del lote de la Maquinaria requerida para la habilitación de las vías de acceso.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar a la MUNICIPALIDAD DE DANLÍ, EN EL DEPARTAMENTO DE EL PARAÍSO, el endeudamiento correspondiente a un monto de V E I N T I S I E T E M I L L O N E S OCHOCIENTOS MIL LEMPIRAS (L.27,800,000.00), que serán orientados única y exclusivamente a la adquisición de maquinaria y equipo pesado, que se utilizarán para realizar obras de infraestructura, para dar respuesta a las necesidades de la población local y sus alrededores, mejorando sus condiciones.
+ARTÍCULO 1.- Aprobar a la MUNICIPALIDAD DE DANLÍ, EN EL DEPARTAMENTO DE EL PARAÍSO, el endeudamiento correspondiente a un monto de VEINTISIETE MILLONES OCHOCIENTOS MIL LEMPIRAS (L.27,800,000.00), que serán orientados única y exclusivamente a la adquisición de maquinaria y equipo pesado, que se utilizarán para realizar obras de infraestructura, para dar respuesta a las necesidades de la población local y sus alrededores, mejorando sus condiciones.
 
 #### Artículo 2
 

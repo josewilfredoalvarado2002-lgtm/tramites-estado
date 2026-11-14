@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 82-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211022-35752/download"
 extraido: "2026-11-14"
-huella: "8c5b92c71c2e400a"
+huella: "b5b29b7002d29795"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 82-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 59 de la Constitución de la República establece
 
 CONSIDERANDO: Que el derecho a una vivienda digna se encuentra reconocido en el Artículo 178 de la Constitución de la República; derecho fundamental que también forma parte de los compromisos reconocidos en los Tratados y Convenios de Derechos Humanos suscritos por el Estado de Honduras.
 
-CONSIDERANDO: Que mediante Decreto No.173-2019 de fecha veintitrés (23) de enero del año dos mil veinte (2020) fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, mismo que fue publicado en el Diario Oficial “La Gaceta” el dieciocho (18) de febrero del año dos mil veinte (2020), edición No.35,178.
+CONSIDERANDO: Que mediante Decreto No. 173-2019 de fecha veintitrés (23) de enero del año dos mil veinte (2020) fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, mismo que fue publicado en el Diario Oficial “La Gaceta” el dieciocho (18) de febrero del año dos mil veinte (2020), edición No. 35,178.
 
 CONSIDERANDO: Que mediante el Decreto Legislativo que creó la Ley Marco de Vivienda y Asentamientos Humanos, se derogó la Ley del Fondo Social para la Vivienda, determinándose la liquidación del Fondo Social para la Vivienda (FOSOVI).
 
@@ -55,11 +55,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 43 y 46 del Decreto No.173-2019 de fecha 23 de Enero del año 2020, publicado en el Diario Oficial “La Gaceta” en fecha 18 de febrero del año 2020, Edición No.35,178, contentivo de la LEY MARCO DE VIVIENDA Y ASENTAMIENTOS HUMANOS, los cuales deben leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar los artículos 43 y 46 del Decreto No. 173-2019 de fecha 23 de Enero del año 2020, publicado en el Diario Oficial “La Gaceta” en fecha 18 de febrero del año 2020, Edición No. 35,178, contentivo de la LEY MARCO DE VIVIENDA Y ASENTAMIENTOS HUMANOS, los cuales deben leerse de la siguiente manera:
 
 “ARTÍCULO 43.- LIQUIDACIÓN DEL FONDO SOCIAL PARA LA
 
-VIVIENDA (FOSOVI). Facultase al Poder Ejecutivo para que determine las condiciones en que se debe liquidar el Fondo Social para la Vivienda (FOSOVI), creado mediante Decreto No.167-1991 de fecha 30 de octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de diciembre de 1991, edición No.26,619.
+VIVIENDA (FOSOVI). Facultase al Poder Ejecutivo para que determine las condiciones en que se debe liquidar el Fondo Social para la Vivienda (FOSOVI), creado mediante Decreto No. 167-1991 de fecha 30 de octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de diciembre de 1991, edición No. 26,619.
 
 Los bienes y derechos que resulten del proceso de liquidación deben pasar a formar parte del patrimonio de la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos, específicamente al Fondo Hondureño de la Vivienda (FONHVIVIENDA).
 
@@ -79,7 +79,7 @@ FOSOVI”.
 
 “ARTÍCULO 46.- DEROGATORIAS.
 
-Se deroga expresamente el Decreto No.167-1991 de fecha 30 de octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de diciembre de 1991, edición No.26,619, contentivo de la LEY DEL FONDO SOCIAL PARA LA VIVIENDA (FOSOVI), Decreto No.348- 2002 de fecha 24 de octubre de 2002, publicado en el Diario Oficial “La Gaceta” el 19 de noviembre de 2002, edición No.29,939, contentivo de la autorización del bono para financiamiento de la Vivienda (FONAPROVI) 2002; y, el Decreto No.93-2015, de fecha 8 de septiembre de 2015, publicado en el Diario Oficial “La Gaceta” el 23 de enero de 2016, contentivo de la LEY DE BENEFICIOS PARA PROYECTOS DE CONSTRUCCIÓN DE VIVIENDA SOCIAL”.
+Se deroga expresamente el Decreto No. 167-1991 de fecha 30 de octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de diciembre de 1991, edición No. 26,619, contentivo de la LEY DEL FONDO SOCIAL PARA LA VIVIENDA (FOSOVI), Decreto No. 348-2002 de fecha 24 de octubre de 2002, publicado en el Diario Oficial “La Gaceta” el 19 de noviembre de 2002, edición No. 29,939, contentivo de la autorización del bono para financiamiento de la Vivienda (FONAPROVI) 2002; y, el Decreto No. 93-2015, de fecha 8 de septiembre de 2015, publicado en el Diario Oficial “La Gaceta” el 23 de enero de 2016, contentivo de la LEY DE BENEFICIOS PARA PROYECTOS DE CONSTRUCCIÓN DE VIVIENDA SOCIAL”.
 
 #### Artículo 2
 

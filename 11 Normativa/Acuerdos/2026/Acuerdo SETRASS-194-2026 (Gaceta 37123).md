@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo No. SETRASS-194-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260422-37123/download"
 extraido: "2026-11-09"
-huella: "cf1ef9ba376bb9ac"
+huella: "d5e03e7f6edeb728"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-194-2026
@@ -29,7 +29,7 @@ huella: "cf1ef9ba376bb9ac"
 
 EL SECRETARIO DE ESTADO DE LA SECRETARÍA DE TRABAJO Y SEGURIDAD SOCIAL Tegucigalpa, M. D. C., 23 de marzo de 2026
 
-CONSIDERANDO (1): Que, mediante Acuerdo Ejecutivo No.029-2026 de fecha 27 de enero de 2026, se nombra al ciudadano FERNANDO PUERTO CASTRO como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
+CONSIDERANDO (1): Que, mediante Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, se nombra al ciudadano FERNANDO PUERTO CASTRO como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
 
 CONSIDERANDO (2): Que, el artículo 36 de la Ley General de la Administración Pública, en su numeral 1, establece que corresponde a los Secretarios de Estado, como atribuciones y deberes comunes, orientar, dirigir, coordinar, supervisar y controlar las actividades de sus respectivos despachos, sin perjuicio de las competencias que la Constitución de la República y las leyes confieran a otros órganos del Estado.
 
@@ -49,17 +49,11 @@ CONSIDERANDO (9): Que, en el Artículo 1 del Decreto Ejecutivo número PCM 22-20
 
 CONSIDERANDO (10): Que en el Artículo 5 del Decreto Ejecutivo número PCM 22-2024 se decreta "Se autoriza e instruye a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (SETRASS), para proceder en calidad de Comisión Liquidadora del Programa Presidencial de Empleo "Con Chamba Vivís Mejor" y los proyectos de empleo que lo conformaron, con atribuciones plenas en lo conducente a la liquidación del personal pago de pasivo y deudas, disposición de los bienes y activos; quedando dicha comisión expresamente facultada para asumir todas las competencias y atribuciones que correspondían al Programa Presidencial de Empleo "Con Chamba Vivís Mejor" y los proyectos de empleo que lo conformaron, a efecto exclusivo de su liquidación, para lo cual puede requerir el auxilio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), así como de otras instituciones del Estado si fuere necesario, de acuerdo a la Ley Al concluir la liquidación, se deberá presentar un informe a la Presidencia de la República sobre las operaciones realizadas y hallazgos encontrados".
 
-CONSIDERANDO (11): Que, en fecha quince (15) de octubre de dos mil veinticuatro (2024), esta Secretaría de Estado, mediante Acuerdo SETRASS No. 570- 2024, procedió a nombrar a los miembros de la Comisión Liquidadora del Programa Presidencial, en cumplimiento del Decreto previamente citado y en ejercicio de las facultades en él delegadas. Asimismo, mediante Acuerdo No.
+CONSIDERANDO (11): Que, en fecha quince (15) de octubre de dos mil veinticuatro (2024), esta Secretaría de Estado, mediante Acuerdo SETRASS No. 570-2024, procedió a nombrar a los miembros de la Comisión Liquidadora del Programa Presidencial, en cumplimiento del Decreto previamente citado y en ejercicio de las facultades en él delegadas. Asimismo, mediante Acuerdo No. SETRASS-124-2025 de fecha siete (7) de mayo de dos mil veinticinco (2025), se dispuso la designación de un nuevo integrante de la Comisión Liquidadora, en sustitución de uno de sus miembros.
 
-SETRASS-124-2025 de fecha siete (7) de mayo de dos mil veinticinco (2025), se dispuso la designación de un nuevo integrante de la Comisión Liquidadora, en sustitución de uno de sus miembros.
+CONSIDERANDO (12): Que, en fechas diecinueve (19) y veinte (20) de enero del año dos mil veintiséis (2026) los miembros de la Comisión Liquidadora presentaron formal renuncia al nombramiento otorgado mediante Acuerdo SETRASS No. 570-2024 y mediante Acuerdo No. SETRASS-124-2025.
 
-CONSIDERANDO (12): Que, en fechas diecinueve (19) y veinte (20) de enero del año dos mil veintiséis (2026) los miembros de la Comisión Liquidadora presentaron formal renuncia al nombramiento otorgado mediante Acuerdo SETRASS No. 570-2024 y mediante Acuerdo No.
-
-SETRASS-124-2025.
-
-CONSIDERANDO (13): Que, en fecha veintidós (22) de enero de dos mil veintiséis (2026), esta Secretaría de Estado, mediante Acuerdo N° SETRASS-026-2026, aceptó la renuncia presentada por los miembros de la Comisión Liquidadora, dejando SIN VALOR NI EFECTO el Acuerdo SETRASS No. 570-2024 de fecha quince (15) de octubre de dos mil veinticuatro (2024) y el Acuerdo No.
-
-SETRASS-124-2025 de fecha siete (7) de mayo de dos mil veinticinco (2025), a partir del veintitrés (23) de enero de 2026.
+CONSIDERANDO (13): Que, en fecha veintidós (22) de enero de dos mil veintiséis (2026), esta Secretaría de Estado, mediante Acuerdo N° SETRASS-026-2026, aceptó la renuncia presentada por los miembros de la Comisión Liquidadora, dejando SIN VALOR NI EFECTO el Acuerdo SETRASS No. 570-2024 de fecha quince (15) de octubre de dos mil veinticuatro (2024) y el Acuerdo No. SETRASS-124-2025 de fecha siete (7) de mayo de dos mil veinticinco (2025), a partir del veintitrés (23) de enero de 2026.
 
 CONSIDERANDO (14): Que, mediante Memorándum SETRASS-GA-0138-2026 de fecha diecisiete (17) de marzo de dos mil veintiséis (2026) la Gerencia Administrativa de esta Secretaría de Estado, solicitó al Despacho Ministerial la reintegración formal de los miembros de la Comisión Liquidadora que han venido participando en el proceso de liquidación en virtud del conocimiento acumulado y los avances ya alcanzados para el cumplimiento del Decreto Ejecutivo número PCM 22-2024, el cual, se encuentra en la etapa final del proceso.
 
@@ -81,7 +75,7 @@ CONSIDERANDO (16): Que, mediante Memorándum SETRASS-0147-2026 de fecha veintitr
 
 POR TANTO:
 
-En aplicación a los artículos 247 de la Constitución de la República, 11, 12, 28, 33, 36 numeral 8, 10 y 11; 116, 118, 119 y 122 de la Ley General de la Administración Pública, 3, 4, y 5 de la Ley de Procedimiento Administrativo, 5 numeral 6 del Reglamento de la Ley de Servicio Civil, Decreto Ejecutivo PCM 04-2014; Decreto Ejecutivo número PCM- 039-2019; Decreto Ejecutivo número PCM 22-2024.
+En aplicación a los artículos 247 de la Constitución de la República, 11, 12, 28, 33, 36 numeral 8, 10 y 11; 116, 118, 119 y 122 de la Ley General de la Administración Pública, 3, 4, y 5 de la Ley de Procedimiento Administrativo, 5 numeral 6 del Reglamento de la Ley de Servicio Civil, Decreto Ejecutivo PCM 04-2014; Decreto Ejecutivo número PCM-039-2019; Decreto Ejecutivo número PCM 22-2024.
 
 ACUERDA:
 

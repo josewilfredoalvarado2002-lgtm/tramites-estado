@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ministerial No. 037-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250527-36848/download"
 extraido: "2026-11-10"
-huella: "688c14fee656d7c8"
+huella: "775be006a4e90a23"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 037-2025
@@ -53,7 +53,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: Establecer un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 85,265.99 TM su equivalente a 85,265,990.00 KG con un DAI del cero por ciento (0%), en aplicación del Acuerdo No. SAG-045-2025 de fecha 07 de abril de 2025, correspondiente al primer corte de maíz blanco de la cosecha nacional 2024-2025, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG- 125-2022 y Acuerdo Ejecutivo No. 137-2024), conforme se detalla a continuación:
+PRIMERO: Establecer un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 85,265.99 TM su equivalente a 85,265,990.00 KG con un DAI del cero por ciento (0%), en aplicación del Acuerdo No. SAG-045-2025 de fecha 07 de abril de 2025, correspondiente al primer corte de maíz blanco de la cosecha nacional 2024-2025, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG-125-2022 y Acuerdo Ejecutivo No. 137-2024), conforme se detalla a continuación:
 
 VOLUMEN
 
@@ -99,9 +99,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, Teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 
@@ -157,9 +155,7 @@ La motivación de estos actos estará precedida por la designación de la autori
 
 \119) párrafo segundo: Los Decretos, así como Acuerdos del Presidente de la República y de los Secretarios de Estado, serán publicados en el Diario Oficial La Gaceta. Artículo 122) Los Acuerdos, Resoluciones y Providencias serán firmadas por el titular del órgano que los emite y autorizados por el funcionario que indiquen las disposiciones legales.
 
-CONSIDERANDO: Que mediante ACUERDO-DNII-No.
-
-028-2022, publicado en Diario Oficial La Gaceta el treinta (30) de octubre del año 2024 se creó la División de Asuntos Antinarcóticos y Lavado de Activos (DIVALA) como una división especializada, con un nivel de competencia, coordinación y gestión técnico, científico y operativo, orientada en el campo interinstitucional que corresponde conjuntamente, a los desafíos y retos del fenómeno de las drogas.
+CONSIDERANDO: Que mediante ACUERDO-DNII-No. 028-2022, publicado en Diario Oficial La Gaceta el treinta (30) de octubre del año 2024 se creó la División de Asuntos Antinarcóticos y Lavado de Activos (DIVALA) como una división especializada, con un nivel de competencia, coordinación y gestión técnico, científico y operativo, orientada en el campo interinstitucional que corresponde conjuntamente, a los desafíos y retos del fenómeno de las drogas.
 
 POR TANTO:
 

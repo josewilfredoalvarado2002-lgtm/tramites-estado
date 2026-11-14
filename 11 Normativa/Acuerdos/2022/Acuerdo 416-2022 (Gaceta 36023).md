@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdos Ejecutivos números 380-2022, 386-2022, 393-2022, 394-2022, 416-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220908-36023/download"
 extraido: "2026-11-14"
-huella: "c6dc67fc8ff319c6"
+huella: "b4cd9f7b3a40fbd3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 416-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el artículo 248 de la Constitución de la República en su p�
 
 CONSIDERANDO: Que el Gobierno de la República ha expuesto la crítica situación en que recibió las finanzas públicas transcurridos 13 años del golpe de Estado que ocasionó perjuicios económicos y sociales de gran magnitud, como el endeudamiento, la corrupción y el empobrecimiento del pueblo, sumado al entorno internacional de profundos desafíos por subsecuentes choques económicos, la pandemia COVID-19 y los desastres naturales provocados por el cambio climático particularmente los huracanes ETA e IOTA, así como el conflicto bélico en Europa que afecta los precios de los combustibles y la producción de alimentos a nivel mundial, aspectos exógenos que generan inflación (65% de ella importada) y afectan directamente las finanzas públicas.
 
-CONSIDERANDO: Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación. Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública, en consonancia con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
+CONSIDERANDO: Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación. Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública, en consonancia con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
 
 CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir un Contrato de Préstamo con el Banco Interamericano de Desarrollo
 

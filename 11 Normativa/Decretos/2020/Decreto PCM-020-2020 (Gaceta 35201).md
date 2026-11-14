@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200316-35201/download"
 extraido: "2026-11-14"
-huella: "9e9d6288451a93fe"
+huella: "3f767eb7fd5df004"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-020-2020
@@ -45,11 +45,7 @@ CONSIDERANDO: Que el Gobierno de la República en aras de continuar realizando e
 
 POR TANTO:
 
-En el uso de las facultades de que está investido y en aplicación de los artículos: 245 numerales 1, 5 y 11 de la Constitución de la República; 11, 17, 22, 116, 117 y 119 de la Ley General de la Administración Pública; 29 y 39 de la Ley Orgánica del Presupuesto; Decreto Legislativo No.
-
-171-2019 contentivo de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República, ejercicio fiscal 2020 y su reforma mediante Decreto Legislativo No.
-
-007-2020; Decreto Legislativo No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público; Decreto No. 219-2003 Ley de Racionalización de las Finanzas Públicas y Decreto Ejecutivo número PCM-005-2020.
+En el uso de las facultades de que está investido y en aplicación de los artículos: 245 numerales 1, 5 y 11 de la Constitución de la República; 11, 17, 22, 116, 117 y 119 de la Ley General de la Administración Pública; 29 y 39 de la Ley Orgánica del Presupuesto; Decreto Legislativo No. 171-2019 contentivo de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República, ejercicio fiscal 2020 y su reforma mediante Decreto Legislativo No. 007-2020; Decreto Legislativo No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público; Decreto No. 219-2003 Ley de Racionalización de las Finanzas Públicas y Decreto Ejecutivo número PCM-005-2020.
 
 DECRETA:
 

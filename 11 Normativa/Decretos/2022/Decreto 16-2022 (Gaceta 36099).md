@@ -11,7 +11,7 @@ paginas: "A. 1 - 100"
 sumario: "Decreto No. 16-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221210-36099/download"
 extraido: "2026-11-14"
-huella: "46d5b514e9fd775e"
+huella: "03bc9c616a83b64b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 16-2022
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado, debiendo crearse las condiciones necesarias para su desarrollo integral.
 
-CONSIDERANDO: Que el contrato No.1471/GLA/ AMDC/2021.- CODIGO No.2807, ¨ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL¨, fue debidamente suscrito entre la Municipalidad del Distrito Central y la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., prolonga sus efectos al siguiente Período de Gobierno, habiendo sido analizado y avalado por la nueva administración municipal y conocido por la honorable Corporación Municipal.
+CONSIDERANDO: Que el contrato No. 1471/GLA/ AMDC/2021.- CODIGO No. 2807, ¨ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL¨, fue debidamente suscrito entre la Municipalidad del Distrito Central y la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., prolonga sus efectos al siguiente Período de Gobierno, habiendo sido analizado y avalado por la nueva administración municipal y conocido por la honorable Corporación Municipal.
 
-CONSIDERANDO: Que el contrato No.0860/GLCSI/ AMDC/2019.- Servicios de Consultoría para el apoyo de la implementación del Programa “Adaptación al Cambio Climático en Zonas Urbanas en América Central. Componente Honduras”. No. PR-001-AMDC/KFW-2018, de fecha Trece
+CONSIDERANDO: Que el contrato No. 0860/GLCSI/ AMDC/2019.- Servicios de Consultoría para el apoyo de la implementación del Programa “Adaptación al Cambio Climático en Zonas Urbanas en América Central. Componente Honduras”. No. PR-001-AMDC/KFW-2018, de fecha Trece
 
 (13) de Junio del año 2019, suscrito entre la Municipalidad del Distrito Central y Leonel Antonio Portillo Euceda, como representante de Fichtner Water & Transportation GmbH, de fecha trece (13) días del mes de Junio del año 2019, prolonga sus efectos al siguiente Período de Gobierno, habiendo sido analizado y avalado por la nueva administración municipal y conocido por la honorable Corporación Municipal.
 
@@ -41,17 +41,17 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 19) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el Contrato No.1471/GLA/AMDC/2021.
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el Contrato No. 1471/GLA/AMDC/2021.
 
-CODIGO No.2807, ¨ESTUDIO
+CODIGO No. 2807, ¨ESTUDIO
 
 Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL¨, suscrito a los 29 días del mes de Diciembre de 2021, entre la Municipalidad del Distrito Central por medio del Señor Alcalde del Distrito Central NASRY JUAN ASFURA ZABLAH y el señor PEDRO EDMUNDO PINEDA COBOS, en su condición de representante de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., que literalmente dice:
 
-CONTRATO No. 1471/GLA/AMDC/2021.-CODIGO № 2807 “ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAÍDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL.” CONCURSO PRIVADO NACIONAL No. CPrNO-06- AMDC-56-2021 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801- 1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación Acta N° 004 - GDFM - 2018 de fecha Diecinueve (19) de Enero del dos mil Dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y PEDRO EDMUNDO PINEDA COBOS, de nacionalidad hondureña y de este domicilio con tarjeta de Identidad número 1301-1947- 00059 quien actúa con Poder Especial de Representación, de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., condición que acredita mediante Testimonio de Escritura Publica Número 208 de fecha 17 de Septiembre de 2019, Autorizado por el Abogado y Notario Wilfredo Flores Valladares e Inscrita bajo el Numero: 566131, Matrícula:
+CONTRATO No. 1471/GLA/AMDC/2021.-CODIGO № 2807 “ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAÍDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL.” CONCURSO PRIVADO NACIONAL No. CPrNO-06- AMDC-56-2021 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación Acta N° 004 - GDFM - 2018 de fecha Diecinueve (19) de Enero del dos mil Dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y PEDRO EDMUNDO PINEDA COBOS, de nacionalidad hondureña y de este domicilio con tarjeta de Identidad número 1301-1947-00059 quien actúa con Poder Especial de Representación, de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., condición que acredita mediante Testimonio de Escritura Publica Número 208 de fecha 17 de Septiembre de 2019, Autorizado por el Abogado y Notario Wilfredo Flores Valladares e Inscrita bajo el Numero: 566131, Matrícula:
 
 68218 del Registro de la Propiedad Mercantil de Francisco Morazán, Centro Asociado IP; Constituida legalmente mediante Testimonio de Escritura Pública No. 44 de fecha 11 de Septiembre del año 1976, autorizada por el Abogado y Notario Aníbal E. Quiñonez e inscrita con el número 91, del Tomo: 99 “b” del Registro de Comerciante Social de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute el contrato “ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTOS Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL.”, CON CÓDIGO N° 2807”, Concurso Privado Nacional No.CPrNO-06-AMDC-56-2021; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras para el Control de Deslizamiento y Caída de Rocas en diferentes puntos del Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
 
@@ -91,7 +91,7 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará lugar:
 
 A la inhabilitación para contratar con el Estado, sin perjuicio de las responsabilidades que pudieren deducírseles. ii. A la aplicación al trabajador, ejecutivo, representante, socio, asociado o apoderado que haya incumplido esta Cláusula, de las sanciones o medidas disciplinarias derivadas del régimen laboral y, en su caso entablar las acciones legales que correspondan. b. De parte del Contratante: i. A la eliminación definitiva del (Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad) de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar. En fe de lo anterior, las partes manifiestan, la aceptación de los compromisos adoptados en el presente documento, bajo el entendido que esta Declaración forma parte integral del Contrato, firmando voluntariamente para constancia.
 
-9.- CLÁUSULA RECORTE PRESUPUESTARIO, DECRETO No.182-2020, Art. No.78 DGP para el año 2021, En caso de recorte presupuestario de fondos nacionales que se efectúe por razón de la situación económica y financiera del país, la estimación de la percepción de ingresos menores a los gastos proyectados y en caso de necesidades imprevistas o de emergencia, podrá dar lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que al pago correspondiente a las obras o servicios ya ejecutados a la fecha de vigencia de la rescisión o resolución del contrato.
+9.- CLÁUSULA RECORTE PRESUPUESTARIO, DECRETO No. 182-2020, Art. No. 78 DGP para el año 2021, En caso de recorte presupuestario de fondos nacionales que se efectúe por razón de la situación económica y financiera del país, la estimación de la percepción de ingresos menores a los gastos proyectados y en caso de necesidades imprevistas o de emergencia, podrá dar lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que al pago correspondiente a las obras o servicios ya ejecutados a la fecha de vigencia de la rescisión o resolución del contrato.
 
 9.- CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B de la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
 
@@ -403,7 +403,7 @@ Las garantías, deberán contener la cláusula siguiente: “Esta Garantía ser�
 
 La Garantía será presentada por El Consultor adjudicado diez
 
-(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -733,7 +733,7 @@ ARTÍCULO 2.- Aprobar en todas y cada una de sus partes, CONTRATO No. 0860/GLCSI
 
 No. PR-001-AMDC/KFW-2018, suscrito en fecha 13 de ju­ nio del año 2019, entre la Municipalidad del Distrito Central por medio del señor Alcalde del Distrito Central NASRY JUAN ASFURA ZABLAH y LEONEL ANTONIO POR­ TILLO EUCEDA, como representante de Fichtner Water & Transportation GmbH, que literalmente dice:
 
-CONTRATO No. 0860/GLCSI/AMDC/2019 Servicios de Consultoría para el apoyo de la implementación del Programa “Adaptación al Cambio Climático en Zonas Urbanas en América Central Componente Honduras No. PR-001-AMDC/KFW-2018 de fecha Trece (13) de Junio del año 2019 Celebrado entre Alcaldía Municipal del Distrito Central de Honduras (“AMDC”) en adelante, el «Contratante» y Fichtner Water & Transportation GmbH (Registro Tributario Nacional: 08019019098185) en adelante, los «Consultores» Programa “Adaptación Urbana al Cambio Climático en Centro América – Componente Honduras” BMZ No.2014 67 745 ÍNDICE Apartado Página PREÁMBULO PLIEGO DE CONDICIONES GENERALES § 1 DISPOSICIONES GENERALES § 2 EL CONTRATANTE § 3 LOS CONSULTORES § 4 COMIENZO, FINALIZACIÓN, MODIFICACIÓN Y TERMINACIÓN DE LOS SERVICIOS § 5 REMUNERACIÓN § 6 RESPONSABILIDAD § 7 SEGUROS § 8 CONFLICTOS Y ARBITRAJES PLIEGO DE CONDICIONES PARTICULARES LISTA DE ANEXOS Preámbulo El Contratante está interesado en la prestación de servicios de consultoría para el Programa descrito en el Pliego de Condiciones Particulares. Los Consultores han presentado una oferta técnica y una oferta financiera para estos servicios. A la luz de lo anterior, las Partes acuerdan lo siguiente:
+CONTRATO No. 0860/GLCSI/AMDC/2019 Servicios de Consultoría para el apoyo de la implementación del Programa “Adaptación al Cambio Climático en Zonas Urbanas en América Central Componente Honduras No. PR-001-AMDC/KFW-2018 de fecha Trece (13) de Junio del año 2019 Celebrado entre Alcaldía Municipal del Distrito Central de Honduras (“AMDC”) en adelante, el «Contratante» y Fichtner Water & Transportation GmbH (Registro Tributario Nacional: 08019019098185) en adelante, los «Consultores» Programa “Adaptación Urbana al Cambio Climático en Centro América – Componente Honduras” BMZ No. 2014 67 745 ÍNDICE Apartado Página PREÁMBULO PLIEGO DE CONDICIONES GENERALES § 1 DISPOSICIONES GENERALES § 2 EL CONTRATANTE § 3 LOS CONSULTORES § 4 COMIENZO, FINALIZACIÓN, MODIFICACIÓN Y TERMINACIÓN DE LOS SERVICIOS § 5 REMUNERACIÓN § 6 RESPONSABILIDAD § 7 SEGUROS § 8 CONFLICTOS Y ARBITRAJES PLIEGO DE CONDICIONES PARTICULARES LISTA DE ANEXOS Preámbulo El Contratante está interesado en la prestación de servicios de consultoría para el Programa descrito en el Pliego de Condiciones Particulares. Los Consultores han presentado una oferta técnica y una oferta financiera para estos servicios. A la luz de lo anterior, las Partes acuerdan lo siguiente:
 
 Pliego de Condiciones Generales § 1 Disposiciones generales 1.1 DEFINICIONES Los términos y expresiones utilizados en el presente Contrato tendrán el significado que les es asignado a continuación, siempre y cuando del contexto no se desprenda que se les asigna un significado distinto.
 
@@ -873,7 +873,7 @@ CONFIDENCIALIDAD Y
 
 1.12.2 Quedan excluidas de la obligación descrita aquellas informaciones
 
-a. de las que el receptor pueda demostrar que ya tenía conocimiento en el momento de celebración del Contrato o que le hayan sido reveladas posteriormente por terceros sin mediar una vulneración de un acuerdo de confidencialidad, disposiciones legales u órdenes de autoridades; o ,
+a. de las que el receptor pueda demostrar que ya tenía conocimiento en el momento de celebración del Contrato o que le hayan sido reveladas posteriormente por terceros sin mediar una vulneración de un acuerdo de confidencialidad, disposiciones legales u órdenes de autoridades; o,
 
 b. que en el momento de celebración del Contrato sean de dominio público o que posteriormente lleguen a formar parte del dominio público, siempre que esto no suponga un incumplimiento del presente Contrato.
 
@@ -953,7 +953,7 @@ APOYO
 
 (e) la obtención del permiso de introducción de moneda extranjera que precisen los Consultores para la prestación de los servicios contractuales y su personal extranjero para uso personal;
 
-(f) la obtención de un permiso para la exportación de los recursos abonados por el Contratante a los Consultores en virtud del presente Contrato; y ,
+(f) la obtención de un permiso para la exportación de los recursos abonados por el Contratante a los Consultores en virtud del presente Contrato; y,
 
 (g) la concesión del acceso a otras organizaciones a fin de que los Consultores obtengan las informaciones requeridas.
 

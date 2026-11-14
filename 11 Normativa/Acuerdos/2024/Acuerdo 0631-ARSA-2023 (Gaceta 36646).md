@@ -11,7 +11,7 @@ paginas: "A. 1 - 76"
 sumario: "Acuerdo No. 0631-ARSA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240921-36646/download"
 extraido: "2026-11-14"
-huella: "e5909b3c13a72582"
+huella: "0f21284d085e2bab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0631-ARSA-2023
@@ -45,7 +45,7 @@ CONSIDERANDO: Que los actos de carácter general se dictarán en el ejercicio de
 
 POR TANTO:
 
-La suscrita Comisionada Presidente de la Agencia de Regulación Sanitaria (ARSA), en el ejercicio de las facultades que le confiere la ley y en aplicación de los artículos 1, 59, 145, 146 y 147 de la Constitución de la República; 1, 2, 5, 7, 8, 9, 12 y 14 del PCM 32-2017; 1, 2, 5, 6, 7, 9 y 12 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria; 1, 4, 58, 69, 133, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 1478, 148, 149, 150, 152, 153, 154, 222, 223, 224 , 225, 236 y 240 del Código de Salud; 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo.
+La suscrita Comisionada Presidente de la Agencia de Regulación Sanitaria (ARSA), en el ejercicio de las facultades que le confiere la ley y en aplicación de los artículos 1, 59, 145, 146 y 147 de la Constitución de la República; 1, 2, 5, 7, 8, 9, 12 y 14 del PCM 32-2017; 1, 2, 5, 6, 7, 9 y 12 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria; 1, 4, 58, 69, 133, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 1478, 148, 149, 150, 152, 153, 154, 222, 223, 224, 225, 236 y 240 del Código de Salud; 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 
@@ -569,7 +569,7 @@ Artículo 17. Para solicitar una nueva Licencia Sanitaria para establecimientos 
 
 1. Solicitud titulada: “SE SOLICITA
 
-NUEVA LICENCIA SANITARIA PARA ESTABLECIMIENTO DE DISPOSITIVOS MÉDICOS Y OTROS D I S P O S I T I V O S D E I N T E R É S SANITARIO” la cual deberá incluir como mínimo los siguientes datos:
+NUEVA LICENCIA SANITARIA PARA ESTABLECIMIENTO DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá incluir como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Agencia de Regulación Sanitaria.
 
@@ -689,7 +689,7 @@ PARA LA RENOVACIÓN DE LICENCIAS SANITARIAS PARA ESTABLECIMIENTOS DE DISPOSITIVO
 
 1. Solicitud titulada “SE SOLICITA
 
-R E N O V A C I Ó N D E L I C E N C I A S A N I T A R I A P A R A E S T A B L E - CIMIENTOS DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
+RENOVACIÓN DE LICENCIA SANITARIA PARA ESTABLE - CIMIENTOS DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Agencia de Regulación Sanitaria.
 
@@ -735,7 +735,7 @@ II. PARA RENOVACIÓN DE LICENCIA SANITARIA PARA TRANSPORTE DE DISPOSITIVOS MÉDI
 
 1. Solicitud titulada “SE SOLICITA
 
-R E N O V A C I Ó N D E L I C E N C I A SANITARIA PARA TRANSPORTE DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
+RENOVACIÓN DE LICENCIA SANITARIA PARA TRANSPORTE DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Agencia de Regulación Sanitaria.
 
@@ -873,7 +873,7 @@ Artículo 24. En el caso de modificaciones de licencias sanitarias de transporte
 
 1. Solicitud titulada: “SE SOLICITA
 
-MODIFICACIÓN DE LICENCIA SANITARIA DE TRANSPORTE DE DISPOSITIVOS MÉDICOS Y OTROS D I S P O S I T I V O S D E I N T E R É S SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
+MODIFICACIÓN DE LICENCIA SANITARIA DE TRANSPORTE DE DISPOSITIVOS MÉDICOS Y OTROS DISPOSITIVOS DE INTERÉS SANITARIO” la cual deberá de incluir como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Agencia de Regulación Sanitaria.
 
@@ -1019,7 +1019,7 @@ e. Datos de la empresa que será distribuidora dentro del territorio nacional:
 
 i. Nombre. ii. Dirección exacta. iii. Correo electrónico. iv. Número de teléfono.
 
-v. Número de Licencia Sanitaria vigente. vi. Nombre del representante legal del distribuidor. vii. E n c a s o d e t e n e r l a exclusividad de representación o distribución, presentar el documento que lo acredite como tal.
+v. Número de Licencia Sanitaria vigente. vi. Nombre del representante legal del distribuidor. vii. En caso detener la exclusividad de representación o distribución, presentar el documento que lo acredite como tal.
 
 f. Nombre comercial del dispositivo médico (nombre que aparece en la etiqueta).
 
@@ -1401,7 +1401,7 @@ Artículo 45. Para los dispositivos médicos clasificados dentro de la CLASE IIB
 
 1. Los requisitos establecidos en los artículos 43 y 44 del presente Reglamento.
 
-2. ISO correspondiente al Dispositivo Médico en su versión vigente; ISO 13485, ISO 10993- 1, ISO 14155 NTC, ISO 14155, ISO 6872 u otra norma ISO acorde al tipo específico de dispositivo médico.
+2. ISO correspondiente al Dispositivo Médico en su versión vigente; ISO 13485, ISO 10993-1, ISO 14155 NTC, ISO 14155, ISO 6872 u otra norma ISO acorde al tipo específico de dispositivo médico.
 
 #### Artículo 46
 
@@ -1937,7 +1937,7 @@ Para solicitar la modificación de la autorización sanitaria de dispositivos m�
 
 En caso de que el dispositivo de interés sanitario sufra un cambio durante la vigencia de la autorización sanitaria mencionada anteriormente, podrá someter MODIFICACIÓN DE LA AUTORIZACIÓN SANITARIA la cual deberá incluir como mínimo los siguientes datos:
 
-1. Solicitud dirigida a la Agencia de Regulación Sanitaria titulada, “SE SOLICITA MODIFICACIÓN DE L A A U T O R I Z A C I Ó N D E L O S DISPOSITIVOS DE USO EXCLUSIVO PARA INVESTIGACIÓN, FORENSE Y PRODUCTOS PARA EL CONTROL DE CALIDAD DE ALIMENTOS, AGUA DE CONSUMO HUMANO, AGUA DE USO EN LABORATORIOS CLÍNICOS, FISICOQUÍMICOS, FARMACÉUTICOS Y MICROBIOLÓGICOS”, firmada y sellada, el cual deberá incluir como mínimo los siguientes datos:
+1. Solicitud dirigida a la Agencia de Regulación Sanitaria titulada, “SE SOLICITA MODIFICACIÓN DE LA AUTORIZACIÓN DE LOS DISPOSITIVOS DE USO EXCLUSIVO PARA INVESTIGACIÓN, FORENSE Y PRODUCTOS PARA EL CONTROL DE CALIDAD DE ALIMENTOS, AGUA DE CONSUMO HUMANO, AGUA DE USO EN LABORATORIOS CLÍNICOS, FISICOQUÍMICOS, FARMACÉUTICOS Y MICROBIOLÓGICOS”, firmada y sellada, el cual deberá incluir como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Agencia de Regulación Sanitaria (ARSA)
 
@@ -2131,7 +2131,7 @@ i. Confirmación de que el equipo objeto de adquisición no se encuentra en fase
 
 b. Indicaciones y Usos del Equipo Biomédico:
 
-i. E s p e c i f i c a c i ó n d e l a s indicaciones y los usos previstos para el equipo biomédico.
+i. Especificación de las indicaciones y los usos previstos para el equipo biomédico.
 
 c. Capacidad para Suministrar Insumos, Partes, Repuestos y Servicio de Mantenimiento:
 
@@ -2547,7 +2547,7 @@ a. Nombre del dispositivo, finalidad de uso, número de lote, cantidad por lote,
 
 b. Los requisitos que aplican para equipo biomédico: modelo, serie, manuales de operación y mantenimiento.
 
-c. Declarar si el producto requiere c o n d i c i o n e s e s p e c i a l e s d e almacenamiento, transporte, por ejemplo: cadena de frío, estibaje, temperatura, humedad, embalaje especial, etc.
+c. Declarar si el producto requiere condiciones especiales de almacenamiento, transporte, por ejemplo: cadena de frío, estibaje, temperatura, humedad, embalaje especial, etc.
 
 7. Carta de aceptación de la donación, en papel membretado, firmada y sellada por el representante legal de la institución receptora de la donación.
 

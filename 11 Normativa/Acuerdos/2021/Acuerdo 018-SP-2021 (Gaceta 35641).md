@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos números 018-SP-2021, 019-SP-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210628-35641/download"
 extraido: "2026-11-14"
-huella: "d07ad6c92f308135"
+huella: "b156656cc12b4c51"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 018-SP-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que mediante Acuerdo Número 034- SP-2018, de fecha 20 de agosto d
 
 POR TANTO;
 
-A C U E R D A:
+ACUERDA:
 
 1. Cancelar a la ciudadana MIRIAN CAROLINA MELÉNDEZ, en el cargo de Gerente Administrativo (Puesto Excluido), a partir del 21 de mayo del presente año, en la Estructura Presupuestaria siguiente: Programa:
 

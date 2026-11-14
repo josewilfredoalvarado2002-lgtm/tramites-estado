@@ -8,7 +8,7 @@ gaceta_numero: 35198
 gaceta_fecha: "2020-03-12"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)|La Gaceta 35198]]"
 paginas: "A. 4 - 6"
-sumario: "Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020"
+sumario: "Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200312-35198/download"
 extraido: "2026-11-14"
 huella: "7a201dc31f0d5cbf"
@@ -23,7 +23,7 @@ huella: "7a201dc31f0d5cbf"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)\|La Gaceta 35198]] del 2020-03-12 |
 | Páginas | A. 4 - 6 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020 |
 
 ## Texto
 

@@ -11,7 +11,7 @@ paginas: "A. 16"
 sumario: "Acuerdos Ejecutivos números 239-2020, 240-2020, 251-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200611-35280/download"
 extraido: "2026-11-14"
-huella: "59ef0e8599d592e7"
+huella: "8aa43899a910b4ce"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 251-2020
@@ -39,7 +39,7 @@ Que en fecha 10 de febrero de 2020 el Gobierno de la República de Honduras medi
 
 CONSIDERANDO:
 
-Que mediante Decreto No.33-2020 de fecha 2 de abril de 2020 y publicado en el Diario Oficial La Gaceta del 3 de abril de 2020 se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+Que mediante Decreto No. 33-2020 de fecha 2 de abril de 2020 y publicado en el Diario Oficial La Gaceta del 3 de abril de 2020 se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
 CONSIDERANDO:
 

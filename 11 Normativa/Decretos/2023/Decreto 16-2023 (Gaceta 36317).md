@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 16-2023, 51-2023, 53-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230825-36317/download"
 extraido: "2026-11-14"
-huella: "046b30ad040e00b1"
+huella: "79941082972692ae"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 16-2023
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 174 de la Constitución de la República establec
 
 CONSIDERANDO: Que el derecho de asociación está amparado en el Artículo 16 de la Convención Americana de los Derechos Humanos, el cual establece que: “Todas las personas tienen derecho a asociarse libremente con fines ideológicos, religiosos, políticos, económicos, laborales, sociales, culturales, deportivos o de cualquiera otra índole”.
 
-CONSIDERANDO: Que conforme al derecho de Asociación que reconoce el Artículo 78 de la Constitución de la República y cumpliendo lo establecido en la Ley de Protección de la Cultura Física y el Deporte, contenida en el Decreto Legislativo No.203-84 de fecha 29 de Octubre de 1984, publicado en fecha 15 de Noviembre de 1984, toda persona o grupo de personas tiene el derecho de formar sus propias federaciones nacionales para planificar, dirigir y ejercitar, así como controlar técnica, administrativa y económicamente a nivel nacional, cada disciplina deportiva.
+CONSIDERANDO: Que conforme al derecho de Asociación que reconoce el Artículo 78 de la Constitución de la República y cumpliendo lo establecido en la Ley de Protección de la Cultura Física y el Deporte, contenida en el Decreto Legislativo No. 203-84 de fecha 29 de Octubre de 1984, publicado en fecha 15 de Noviembre de 1984, toda persona o grupo de personas tiene el derecho de formar sus propias federaciones nacionales para planificar, dirigir y ejercitar, así como controlar técnica, administrativa y económicamente a nivel nacional, cada disciplina deportiva.
 
 CONSIDERANDO: Que es deber del Estado fomentar y respaldar la práctica de diversas disciplinas deportivas, no sólo las ya existentes, sino que también nuevas opciones en pro de favorecer a todas las generaciones, con el fortalecimiento de condiciones que coadyuven al bienestar físico y mental de la población, así como en la formación de valores y la cohesión social.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -51,7 +51,7 @@ ARTÍCULO 1.- Aprobar la creación de la FEDERACIÓN HONDUREÑA DE POLE SPORT & 
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Artículo 3 de la Ley de Protección de la Cultura Física y el Deporte, contenida en el Decreto Legislativo No.203-84 de fecha 29 de Octubre de 1984, publicado en fecha 15 de Noviembre del año 1984; reformado por adición por los siguientes Decretos Legislativos: 98-87 de fecha 6 de Julio del año 1987, publicado en fecha 7 de Agosto del año 1987; 51-93 de fecha 23 de Marzo del año 1993, publicado en fecha 8 de Mayo del año 1993; 57-95 publicado en fecha 24 de Mayo del año 1995; 85-2000, publicado en fecha 3 de Julio del 2000;
+ARTÍCULO 2.- Reformar por adición el Artículo 3 de la Ley de Protección de la Cultura Física y el Deporte, contenida en el Decreto Legislativo No. 203-84 de fecha 29 de Octubre de 1984, publicado en fecha 15 de Noviembre del año 1984; reformado por adición por los siguientes Decretos Legislativos: 98-87 de fecha 6 de Julio del año 1987, publicado en fecha 7 de Agosto del año 1987; 51-93 de fecha 23 de Marzo del año 1993, publicado en fecha 8 de Mayo del año 1993; 57-95 publicado en fecha 24 de Mayo del año 1995; 85-2000, publicado en fecha 3 de Julio del 2000;
 
 55-2002 de fecha 19 de Marzo del año 2002, publicado en fecha 7 de Junio del año 2002; 82-2022 de fecha 10 de Agosto del año 2022, publicado en fecha 1 de Septiembre del año 2022 y sus posteriores reformas, el cual deberá leerse así:
 

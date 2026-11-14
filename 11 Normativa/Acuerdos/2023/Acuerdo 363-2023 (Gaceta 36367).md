@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Número 363-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231026-36367/download"
 extraido: "2026-11-14"
-huella: "14aef0517d1bbe46"
+huella: "f503688fed5cde02"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 363-2023
@@ -45,7 +45,7 @@ En uso de las facultades y en la aplicación de los artículos 235, 245 numerale
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano JULIO CESAR ESCOTO BORJAS, con Documento Nacional de identificación No. 0501-1944- 00356, en el cargo de Director del Banco Central de Honduras (BCH), a partir del 11 de septiembre de 2023.
+PRIMERO: Nombrar al ciudadano JULIO CESAR ESCOTO BORJAS, con Documento Nacional de identificación No. 0501-1944-00356, en el cargo de Director del Banco Central de Honduras (BCH), a partir del 11 de septiembre de 2023.
 
 SEGUNDO: Al nombrado se le asignará el sueldo que para dichos funcionarios está presupuestado en la institución para la cual prestará sus servicios.
 

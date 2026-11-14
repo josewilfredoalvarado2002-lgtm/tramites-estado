@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221111-36074/download"
 extraido: "2026-11-14"
-huella: "a2ab4fb039707e67"
+huella: "c07b852a3e65a0f5"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el Artículo 12 de las Disposiciones Generales del Presupuesto
 
 Artículo 119 de la Ley Orgánica del Presupuesto.
 
-CONSIDERANDO: Que en fecha 06 de octubre de 2017, fue publicado en el Diario Oficial La Gaceta el Acuerdo S.D.N. No.008-2017, el cual contiene el Reglamento para la Administración de Fondos Propios de la Universidad de Defensa de Honduras vigente.
+CONSIDERANDO: Que en fecha 06 de octubre de 2017, fue publicado en el Diario Oficial La Gaceta el Acuerdo S.D.N. No. 008-2017, el cual contiene el Reglamento para la Administración de Fondos Propios de la Universidad de Defensa de Honduras vigente.
 
 CONSIDERANDO: Que es necesario la actualización del referido instrumento reglamentario, que regula la utilización de los recursos propios de la Universidad de Defensa de Honduras.
 

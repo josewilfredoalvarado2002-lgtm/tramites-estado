@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Decretos Nos. 11-2021, 15-2021, 19-2021, 28-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210518-35602/download"
 extraido: "2026-11-14"
-huella: "e3f27626fbf0099c"
+huella: "6ac01ed40d1efd9d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 15-2021
@@ -29,7 +29,7 @@ huella: "e3f27626fbf0099c"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que habiéndose instrumentado un sistema de sesiones de carácter virtual, aprobado mediante Resolución No.1-2020 del 2 de Abril del 2020, publicado en el Diario Oficial “La Gaceta” el 3 de Abril de 2020, Edición No.35,217, permitió al Congreso Nacional desempeñar sus funciones en la presente emergencia, cumpliendo con el más alto objetivo de dar respuesta a la realidad imperante a la que se está enfrentando todo el pueblo hondureño.
+CONSIDERANDO: Que habiéndose instrumentado un sistema de sesiones de carácter virtual, aprobado mediante Resolución No. 1-2020 del 2 de Abril del 2020, publicado en el Diario Oficial “La Gaceta” el 3 de Abril de 2020, Edición No. 35,217, permitió al Congreso Nacional desempeñar sus funciones en la presente emergencia, cumpliendo con el más alto objetivo de dar respuesta a la realidad imperante a la que se está enfrentando todo el pueblo hondureño.
 
 CONSIDERANDO: Que el funcionamiento del Congreso Nacional resulta absolutamente esencial para el normal desarrollo de la vida constitucional, especialmente ante situaciones de emergencia, las que deben ser tratadas dentro del Estado de Derecho.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- En vista de que continúa vigente la Emergencia Nacional producida por la Pandemia del COVID-19, se habilita del 1 hasta el 31 de Mayo del año 2021 como Período Ordinario para celebrar Sesiones del Congreso Nacional, dichas fechas están contempladas como el período de receso, en el Artículo 55, párrafo segundo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No.363-2013, de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 22 de Enero de 2014, Edición No.33,335.
+ARTÍCULO 1.- En vista de que continúa vigente la Emergencia Nacional producida por la Pandemia del COVID-19, se habilita del 1 hasta el 31 de Mayo del año 2021 como Período Ordinario para celebrar Sesiones del Congreso Nacional, dichas fechas están contempladas como el período de receso, en el Artículo 55, párrafo segundo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No. 363-2013, de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 22 de Enero de 2014, Edición No. 33,335.
 
 #### Artículo 2
 

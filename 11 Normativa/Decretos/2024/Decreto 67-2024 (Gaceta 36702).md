@@ -11,7 +11,7 @@ paginas: "A. 10 - 36"
 sumario: "Decreto No. 67-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241129-36702/download"
 extraido: "2026-11-14"
-huella: "590e8e0cd2e22b95"
+huella: "505da2cc3f48bcdf"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 67-2024
@@ -33,23 +33,23 @@ CONSIDERANDO: Que es deber del Estado promover el desarrollo económico y social
 
 CONSIDERANDO: Que el Protocolo Facultativo del Pacto Internacional de Derechos Económicos, Sociales y Culturales, fue ratificado por Honduras el 16 de enero del año 2018 y hace suyos los principios universales de este instrumento internacional, para adoptar las medidas de la asistencia y la cooperación especialmente económicas y técnicas con la finalidad de que todos los pueblos tengan el derecho de libre determinación, estableciendo libremente su condición política y proveyendo asimismo al desarrollo económico, social y cultural de sus Estados miembros.
 
-CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para el bien común, el desarrollo de los municipios y la autonomía local para dar respuesta oportuna a las necesidades de sus habitantes. En tal sentido, la Ley de Municipalidades, contenida en el Decreto No.134-90 del 29 de octubre de 1990, atribuye a las municipalidades el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, su mantenimiento y administración; así como, la construcción de vías públicas por sí o en colaboración con otras entidades.
+CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para el bien común, el desarrollo de los municipios y la autonomía local para dar respuesta oportuna a las necesidades de sus habitantes. En tal sentido, la Ley de Municipalidades, contenida en el Decreto No. 134-90 del 29 de octubre de 1990, atribuye a las municipalidades el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, su mantenimiento y administración; así como, la construcción de vías públicas por sí o en colaboración con otras entidades.
 
 CONSIDERANDO: Que las exoneraciones contenidas en este Decreto representan un ahorro económico que reflejará un impacto positivo al permitir contar con equipo de maquinaria pesada que vendrá a beneficiar directamente a la población hondureña, permitiendo el flujo de la actividad económica en cada uno de los municipios beneficiados, en pro de ejercer las acciones que el desarrollo humano y bienestar económico de su población local, las cuales son esenciales para el desarrollo y el bien común de sus habitantes.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No.170-2016, del 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de diciembre de 2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No. 170-2016, del 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de diciembre de 2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Exonerar a la MUNICIPALIDAD DE SAN MANUEL, DEPARTAMENTO DE CORTÉS, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de la maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-1.- Factura Proforma No.2309-24
+1.- Factura Proforma No. 2309-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -67,7 +67,7 @@ Precio $95,000.00 L2,709,400.00
 
 ARTÍCULO 2.- Exonerar a la MUNICIPALIDAD DE OCOTEPEQUE, DEPARTAMENTO DE OCOTEPEQUE, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2310-24
+A.- Factura Proforma No. 2310-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -77,7 +77,7 @@ RETROEXCAVADORA
 
 Marca John Deere Modelo 310P Color Amarillo nueva Cabina Abierta Motor Tech 4045TBZ01 turboalimentado Cilindrada 4.5l (276 pulg.3) Potencia máxima neta 68KW (91 hp) a 2 000 rpm Aumento neto del par motor 29% Tren de Potencia Transmisión 4 velocidades Transmisión total PowerShift TM Diferenciales Eje MFWD Abierto-Estándar Control de tracción automático con deslizamiento limitado Eje trasero Freno accionado por pedal, acción hidráulicamente 100% de traba mecánica. Dirección (ISO 5010) Dirección asistida hidrostática y dirección de emergencia.
 
-Precio $95,000.00 L2,709,400.00 B.- Factura Proforma CAMOSA No.230000016-2024CAM:
+Precio $95,000.00 L2,709,400.00 B.- Factura Proforma CAMOSA No. 230000016-2024CAM:
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -95,7 +95,7 @@ L. 2,395,680.00
 
 ARTÍCULO 3.- Exonerar a la MUNICIPALIDAD DE SINUAPA, DEPARTAMENTO DE OCOTEPEQUE, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2311-24
+A.- Factura Proforma No. 2311-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -107,7 +107,7 @@ Marca John Deere Modelo 310P Color Amarillo nueva Cabina Abierta Motor Tech 4045
 
 Dirección (ISO 5010) Dirección asistida hidrostática y dirección de emergencia.
 
-Precio $95,000.00 L2,709,400.00 B.- Factura Proforma No.2317-24 ELEMENTOS DESCRIPCIÓN Maquinaria Pesada MOTONIVELADORA SOBRE ORUGAS Marca John Deere Modelo 620P Motor Fabricante y modelo Power Normas de emisiones fuera de carretera Cilindros 6 Tech Plus de 6,8l Tier 3 de la EPA / Etapa III A de la UE Cilindrada 6,8l (414 in3) Potencia del motor Par máximo neto 915 N m (675 lb-ft) Reserva de Par neto 46% Aspiración turbo alimentada con enfriador de aire de carga Lubricación Filtro enroscable y enfriador integral de caudal completo Tren de Potencia Transmisión directa John Deere, PowerShift Plus TM, cambio sobre la marcha modulado, cambio de Marcha Basado en los Eventos (EBS), pedal de avance gradual.
+Precio $95,000.00 L2,709,400.00 B.- Factura Proforma No. 2317-24 ELEMENTOS DESCRIPCIÓN Maquinaria Pesada MOTONIVELADORA SOBRE ORUGAS Marca John Deere Modelo 620P Motor Fabricante y modelo Power Normas de emisiones fuera de carretera Cilindros 6 Tech Plus de 6,8l Tier 3 de la EPA / Etapa III A de la UE Cilindrada 6,8l (414 in3) Potencia del motor Par máximo neto 915 N m (675 lb-ft) Reserva de Par neto 46% Aspiración turbo alimentada con enfriador de aire de carga Lubricación Filtro enroscable y enfriador integral de caudal completo Tren de Potencia Transmisión directa John Deere, PowerShift Plus TM, cambio sobre la marcha modulado, cambio de Marcha Basado en los Eventos (EBS), pedal de avance gradual.
 
 Total costo:
 
@@ -117,7 +117,7 @@ $285,000.00 L8,128,200.00
 
 ARTÍCULO 4.- Exonerar a la MUNICIPALIDAD DE CONCEPCIÓN, DEPARTAMENTO DE OCOTEPEQUE, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2318-24
+A.- Factura Proforma No. 2318-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -133,7 +133,7 @@ Total costo $285,000.00 L8,128,200.00
 
 ARTÍCULO 5.- Exonerar a la MUNICIPALIDAD DE SENSENTI, DEPARTAMENTO DE OCOTEPEQUE, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2319-24
+A.- Factura Proforma No. 2319-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -151,7 +151,7 @@ $285,000.00 L8,128,200.00
 
 ARTÍCULO 6.- Exonerar a la MUNICIPALIDAD DE LUCERNA, DEPARTAMENTO DE OCOTEPEQUE, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2320-24
+A.- Factura Proforma No. 2320-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -169,7 +169,7 @@ $285,000.00 L8,128,200.00
 
 ARTÍCULO 7.- Exonerar a la MUNICIPALIDAD DE PUERTO LEMPIRA, DEPARTAMENTO DE GRACIAS A DIOS, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2328-24
+A.- Factura Proforma No. 2328-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -185,7 +185,7 @@ $44,000.00 L1,254,880.00
 
 ARTÍCULO 8.- Exonerar a la MUNICIPALIDAD DE LA CAMPA, DEPARTAMENTO DE LEMPIRA, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma No.2321-24
+A.- Factura Proforma No. 2321-24
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -203,7 +203,7 @@ $285,000.00 L8,128,200.00
 
 ARTÍCULO 9.- Exonerar a la MUNICIPALIDAD DE QUIMISTÁN, DEPARTAMENTO DE SANTA BÁRBARA, del Impuesto Sobre Venta (I.S.V.), derechos arancelarios y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de maquinaria pesada para su uso exclusivo en jurisdicción del municipio, la que tiene las siguientes características:
 
-A.- Factura Proforma de CAMOSA No.230000012-2024CAM:
+A.- Factura Proforma de CAMOSA No. 230000012-2024CAM:
 
 ELEMENTOS DESCRIPCIÓN
 
@@ -211,7 +211,7 @@ Vehículo Tipo
 
 CAMION CISTERNA PARA
 
-Marca UD Año 2024 AGUA de 2,500 galones Modelo Croner PKE 4x2 Rigid Color Blanco Cabina Sleeper Cab (CAP-SLP) Motor GH8E-250HP, turbo intercooler (D8A250) Otras Especificaciones Freno de Motor Engine Compression and Eje trasero / relación diferencial Exhaust Engine brake Axle with single reduction (RSS1132B / RAT 4,33:1) Distancia entre ejes 5,500 mm Suspensión Delantera (Tipo / capacitad) Parabolic (FST-PAR) 6,500 Kg Suspensión trasera (Tipo / capacidad) Leaf (RSSLEAF) 11 Kg Tanque de combustible (Material / capacidad) 170 litros (Left) Llanta / Neumático 11 R22.5 Garantía 1 año sin límite de recorrido más un año ó 200.000 km para tren de fuerza Precio L2,110,480.00 B.- Factura Proforma No.2326-24 ELEMENTOS DESCRIPCIÓN Maquinaria tipo RODILLO COMPACTADOR Marca Bomag Modelo BW212D-5 NUEVO Descripción -Deutz BF4M 2012 C, de 4 Características de Conducción cilindros -Desempeño 132 hp a 2300 rpm -Enfriado por agua -Velocidad (1) 0-6 km/h
+Marca UD Año 2024 AGUA de 2,500 galones Modelo Croner PKE 4x2 Rigid Color Blanco Cabina Sleeper Cab (CAP-SLP) Motor GH8E-250HP, turbo intercooler (D8A250) Otras Especificaciones Freno de Motor Engine Compression and Eje trasero / relación diferencial Exhaust Engine brake Axle with single reduction (RSS1132B / RAT 4,33:1) Distancia entre ejes 5,500 mm Suspensión Delantera (Tipo / capacitad) Parabolic (FST-PAR) 6,500 Kg Suspensión trasera (Tipo / capacidad) Leaf (RSSLEAF) 11 Kg Tanque de combustible (Material / capacidad) 170 litros (Left) Llanta / Neumático 11 R22.5 Garantía 1 año sin límite de recorrido más un año ó 200.000 km para tren de fuerza Precio L2,110,480.00 B.- Factura Proforma No. 2326-24 ELEMENTOS DESCRIPCIÓN Maquinaria tipo RODILLO COMPACTADOR Marca Bomag Modelo BW212D-5 NUEVO Descripción -Deutz BF4M 2012 C, de 4 Características de Conducción cilindros -Desempeño 132 hp a 2300 rpm -Enfriado por agua -Velocidad (1) 0-6 km/h
 
 - Velocidad (2) 0-10 km/h Tambor y Ruedas -Ancho del tambor 2,130 mm -diámetro del tambor 1,500 mm -Ruedas 23.1-26/12PR Sistema Vibratorio -Frecuencia 30/36HZ -Amplitud 1.8/0.95 mm -Fuerza centrífuga 236/125 kn Total costo $100,000.00 L2,852,000.00
 

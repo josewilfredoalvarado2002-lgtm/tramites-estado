@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Decretos Nos. 147-2020, 149-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201114-35429/download"
 extraido: "2026-11-14"
-huella: "0996979e40931cf5"
+huella: "33faad6792b098db"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 147-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -141,7 +141,7 @@ b. Los procedimientos que se describen en la presente Ley serán efectivas únic
 
 \4) Finalización del período de recuperación inicial. Con base a la evaluación actualizada de necesidades y otros informes técnicos especializados, en consulta con los agentes que prestan asistencia y COPECO el titular del Poder Ejecutivo declarará la finalización del período de recuperación inicial, debiendo tomar en consideración el impacto que ésta tendrá sobre las actividades de recuperación inicial en curso.
 
-A lo largo del proceso la “Cruz R o j a H o n d u re ñ a ” p o d r á solicitar en cualquier momento la asistencia de los componentes del movimiento internacional de la Cruz Roja y de la Media Luna Roja para complementar su trabajo de socorro y recuperación en caso de desastre, mientras que el sistema de la Organización de las Naciones Unidas podrá solicitar en cualquier momento la asistencia de las agencias especializadas para complementar su trabajo de socorro y recuperación en caso de desastre.
+A lo largo del proceso la “Cruz Roja Hondu re ñ a ” podrá solicitar en cualquier momento la asistencia de los componentes del movimiento internacional de la Cruz Roja y de la Media Luna Roja para complementar su trabajo de socorro y recuperación en caso de desastre, mientras que el sistema de la Organización de las Naciones Unidas podrá solicitar en cualquier momento la asistencia de las agencias especializadas para complementar su trabajo de socorro y recuperación en caso de desastre.
 
 CAPÍTULO II COORDINACÓN DE LA ASISTENCIA HUMANITARIA Y FACILIDADES
 
@@ -205,17 +205,17 @@ CAPÍTULO III DISPOSICIONES TRANSITORIAS RELACIONADAS CON LA TORMENTA TROPICAL E
 
 ARTÍCULO 8.- EXCEPCIONES EN EL MARCO DE
 
-LA TORMENTA ETA. En aplicación al Decreto No.278-2013, Artículo 2 numeral
+LA TORMENTA ETA. En aplicación al Decreto No. 278-2013, Artículo 2 numeral
 
 \21) que contiene la Ley de Ordenamiento, Finanzas Pública, Control de las Exoneraciones y Medidas Anti-Evasión; en el cual ya se establece la exoneración del pago de impuestos de las donaciones; para tal efecto, para atender la emergencia provocada por la Tormenta Tropical ETA, se autoriza a la Administración Aduanera de Honduras a exceptuar el pago de los costos indirectos como ser: Tasas, Servicio de Transmisión de Datos, Pago por Almacenamiento y demás conexos; se establece un plazo de diez (10) días hábiles para el almacenamiento en las importaciones de donaciones provenientes del extranjero y Zonas Libres. Así también, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a exceptuar el cobro del TGR1 estipulado en el Decreto No.113-2011; y, se autoriza al Servicio Nacional de Sanidad e Inocuidad Agroalimentaria a exceptuar los costos de las tasas por servicios; la exoneración establecida en el presente Artículo tendrá una duración hasta el 28 de Febrero del 2021.
 
 #### Artículo 9
 
-ARTÍCULO 9.- EXCEPCIÓN DE PRESENTAR LA SOLVENCIA TRIBUTARIA ESTABLECIDA EN EL TRÁMITE DE LAS FRANQUICIAS ADUANERAS PARA LAS IMPORTACIONES DE ASISTENCIA HUMANITARIA. Se exceptúa al Estado de Honduras, las Asociaciones sin Fines de Lucros, Iglesias y Municipalidades de presentar la solvencia tributaria establecida en el Artículo 28 del Decreto No.113- 2011 de fecha 28 de Junio de 2011 y publicado en el Diario Oficial “La Gaceta”, Edición No.35,562 del 8 de Julio de 2011 y el Artículo 21 del Decreto No.170-2016 de fecha 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016, Edición 34,224, en el trámite de todas las franquicias aduaneras para las importaciones en concepto de donaciones para la asistencia humanitaria relacionadas con la emergencia y los efectos provocados por la Tormenta Tropical ETA.
+ARTÍCULO 9.- EXCEPCIÓN DE PRESENTAR LA SOLVENCIA TRIBUTARIA ESTABLECIDA EN EL TRÁMITE DE LAS FRANQUICIAS ADUANERAS PARA LAS IMPORTACIONES DE ASISTENCIA HUMANITARIA. Se exceptúa al Estado de Honduras, las Asociaciones sin Fines de Lucros, Iglesias y Municipalidades de presentar la solvencia tributaria establecida en el Artículo 28 del Decreto No. 113-2011 de fecha 28 de Junio de 2011 y publicado en el Diario Oficial “La Gaceta”, Edición No. 35,562 del 8 de Julio de 2011 y el Artículo 21 del Decreto No. 170-2016 de fecha 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016, Edición 34,224, en el trámite de todas las franquicias aduaneras para las importaciones en concepto de donaciones para la asistencia humanitaria relacionadas con la emergencia y los efectos provocados por la Tormenta Tropical ETA.
 
 #### Artículo 10
 
-ARTÍCULO 10.- EXCEPCIÓN DE INSCRIPCIÓN EN EL REGISTRO DE EXONERADOS E IMPLEMENTACIÓN DE FORMULARIO. Se autoriza a la Secretaría de Estado en el Despacho de Finanzas a exceptuar durante la vigencia del presente Decreto hasta el 28 de Febrero del 2021, al Estado de Honduras, las asociaciones sin fines de lucros, Iglesias y Municipalidades, a que cumplan con los requisitos de inscripción en el Registro de Exonerados establecido en el Artículo 21 numeral 2) del Código Tributario y el Carné de Asistencia Humanitaria establecido en el Acuerdo No.0295 publicado en el Diario Oficial “La Gaceta” el 17 de Mayo del 2008.
+ARTÍCULO 10.- EXCEPCIÓN DE INSCRIPCIÓN EN EL REGISTRO DE EXONERADOS E IMPLEMENTACIÓN DE FORMULARIO. Se autoriza a la Secretaría de Estado en el Despacho de Finanzas a exceptuar durante la vigencia del presente Decreto hasta el 28 de Febrero del 2021, al Estado de Honduras, las asociaciones sin fines de lucros, Iglesias y Municipalidades, a que cumplan con los requisitos de inscripción en el Registro de Exonerados establecido en el Artículo 21 numeral 2) del Código Tributario y el Carné de Asistencia Humanitaria establecido en el Acuerdo No. 0295 publicado en el Diario Oficial “La Gaceta” el 17 de Mayo del 2008.
 
 Asimismo, se autoriza a la misma institución a crear e implementar un formulario para la emisión de la Franquicia Aduanera que dispense del pago de los impuestos de importación al momento de ingreso en el territorio nacional de las donaciones en concepto de asistencia humanitaria en consecuencia de los daños provocados por la Tormenta ETA.
 

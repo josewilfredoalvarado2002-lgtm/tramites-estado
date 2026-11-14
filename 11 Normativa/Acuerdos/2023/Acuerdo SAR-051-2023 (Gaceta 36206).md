@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. SAR-051-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230418-36206/download"
 extraido: "2026-11-14"
-huella: "4fe11e533524b8a8"
+huella: "0616bcfa680ec7fa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-051-2023
@@ -39,9 +39,7 @@ CONSIDERANDO: Que el Artículo 198 del Código Tributario, establece como atribu
 
 CONSIDERANDO: Que el Artículo 131 del Código Tributario establece que: “1) La Administración Tributaria y la Administración Aduanera, en el ámbito de sus competencias, de oficio, en el mes de febrero de cada año, deben proceder a descargar de la cuenta corriente de los obligados tributarios, los créditos tributarios firmes a favor del Estado, cuyo monto sea igual o inferior a un (1) salario mínimo promedio vigente...”.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No.
-
-STSS-308-2022 de fecha 6 de abril del 2022 en su artículo 5, la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social fijó el salario mínimo que regiría en todo el país a partir del 01 de enero del año 2022, con un promedio de ONCE MIL DOSCIENTOS SETENTA Y OCHO LEMPIRAS CON SETENTA Y CINCO CENTAVOS (L11,278.75); mismo que a la fecha de emisión del presente Acuerdo constituye el salario mínimo promedio vigente.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No. STSS-308-2022 de fecha 6 de abril del 2022 en su artículo 5, la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social fijó el salario mínimo que regiría en todo el país a partir del 01 de enero del año 2022, con un promedio de ONCE MIL DOSCIENTOS SETENTA Y OCHO LEMPIRAS CON SETENTA Y CINCO CENTAVOS (L11,278.75); mismo que a la fecha de emisión del presente Acuerdo constituye el salario mínimo promedio vigente.
 
 CONSIDERANDO: Que, en aras de una gestión efectiva, y en aplicación de las normas legales antes citadas, es procedente descargar de la cuenta corriente de los obligados tributarios administrados por el Servicio de Administración de Rentas, todos los créditos tributarios firmes a favor del Estado cuyo monto acumulado no excede el valor descrito en el considerando anterior en razón de su costo beneficio. En consecuencia, debe instruirse a las unidades correspondientes a que procedan con el descargo de dichos créditos a favor del Estado según detalle consignado en el Anexo A del presente Acuerdo; dicho descargo se hará sin perjuicio de la facultad que tiene esta Institución de verificar las declaraciones y del derecho que tiene el obligado tributario de rectificar las mismas.
 
@@ -61,7 +59,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 se nombra al ciudadano MARLON DAVID OCHOA MARTÍNEZ, como Director Ejecutivo del Servicio de Administración de Rentas, con rango ministerial, con las facultades de emitir y ejecutar actos administrativos de conformidad con la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.435-2022 de fecha 09 de septiembre de 2022, se nombra a la abogada NIDIA SARAHI BERRIOS MARTÍNEZ, como Secretaria General del Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombra a la abogada NIDIA SARAHI BERRIOS MARTÍNEZ, como Secretaria General del Servicio de Administración de Rentas.
 
 POR TANTO:
 

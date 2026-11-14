@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdos Nos. 69-2021, 71-2021, 73-2021, 74-2021, 78-2021, 80-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210626-35639/download"
 extraido: "2026-11-14"
-huella: "82920dba1845cdb2"
+huella: "86b61b0079fa11ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 74-2021
@@ -27,7 +27,7 @@ huella: "82920dba1845cdb2"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

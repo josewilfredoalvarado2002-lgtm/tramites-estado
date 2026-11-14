@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "SISTEMA NACIONAL DE EMERGENCIAS 911Acuerdos Nos. 001-2026, 002-2026, 004-2026, 005-2026, de Delegación 006-2026, 007-2026, de Delegación 008-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261026-37278/download"
 extraido: "2026-11-09"
-huella: "619dcabc7d36906c"
+huella: "f948b4fdf5ce76e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2026
@@ -29,9 +29,7 @@ huella: "619dcabc7d36906c"
 
 SISTEMA NACIONAL DE EMERGENCIAS NUEVE, UNO, UNO (911), A TRAVÉS DE SU DIRECCIÓN NACIONAL.
 
-CONSIDERANDO: Que la Ley del Sistema Nacional de Emergencias 911, creada mediante Decreto Legislativo No.
-
-58-2015, publicado en el Diario Oficial La Gaceta, es una entidad de derecho público, de carácter permanente, con personalidad jurídica y patrimonio propio, con autonomía administrativa y financiera, adscrita a Secretaría de Estado en el Despacho de la Presidencia.
+CONSIDERANDO: Que la Ley del Sistema Nacional de Emergencias 911, creada mediante Decreto Legislativo No. 58-2015, publicado en el Diario Oficial La Gaceta, es una entidad de derecho público, de carácter permanente, con personalidad jurídica y patrimonio propio, con autonomía administrativa y financiera, adscrita a Secretaría de Estado en el Despacho de la Presidencia.
 
 CONSIDERANDO: Que la Ley del Sistema Nacional de Emergencias 911, establece que la finalidad de Dirección Nacional de Emergencia, Nueve, Uno, Uno, (911) es brindar un servicio público y de seguridad nacional.
 

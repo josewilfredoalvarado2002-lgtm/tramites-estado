@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Acuerdos Ejecutivos números 468-2020, 469-2020, 470-2020, 471-2020, Acuerdonúmero 480-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201116-35431/download"
 extraido: "2026-11-14"
-huella: "4e60ec29b84db289"
+huella: "4bf7d4fdddf9c774"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 480-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Memorando DM- 093-2020 de fecha 27 de Octubre de 2020, el Despacho Ministerial, solicitó a esta Secretaría General la emisión del Acuerdo de Delegación de atribuciones como Secretaria de Estado en el Despacho de Finanzas, por Ley en la Ingeniera ROXANA MELANI RODRÍGUEZ ALVARADO, Subsecretaria de Finanzas y Presupuesto, por el periodo comprendido del treinta (30) de octubre al tres (03) de noviembre, de dos mil veinte (2020), debido a que el Abogado MARCO ANTONIO MIDENCE MILLA, Secretario de Estado en el Despacho de Finanzas, siguiendo instrucciones giradas por la Casa Presidencial, sostendrá reuniones en la Ciudad de Miami, estado de Florida de Estados Unidos de Norte América.
+CONSIDERANDO: Que mediante Memorando DM-093-2020 de fecha 27 de Octubre de 2020, el Despacho Ministerial, solicitó a esta Secretaría General la emisión del Acuerdo de Delegación de atribuciones como Secretaria de Estado en el Despacho de Finanzas, por Ley en la Ingeniera ROXANA MELANI RODRÍGUEZ ALVARADO, Subsecretaria de Finanzas y Presupuesto, por el periodo comprendido del treinta (30) de octubre al tres (03) de noviembre, de dos mil veinte (2020), debido a que el Abogado MARCO ANTONIO MIDENCE MILLA, Secretario de Estado en el Despacho de Finanzas, siguiendo instrucciones giradas por la Casa Presidencial, sostendrá reuniones en la Ciudad de Miami, estado de Florida de Estados Unidos de Norte América.
 
 POR TANTO
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo número 266-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210427-35584/download"
 extraido: "2026-11-14"
-huella: "fc7f841f3f2f3992"
+huella: "aaaff2283aa0256a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 266-2021
@@ -39,9 +39,9 @@ CONSIDERANDO: Que la Constitución de la República establece que el Presidente 
 
 CONSIDERANDO: Que el Artículo 15 reformado de la Ley General de la Administración Pública establece que el Presidente de la República puede auxiliarse de un funcionario del más alto rango de las Secretarías de Estado para coordinar todo lo relativo a la conducción estratégica de la Administración Pública.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.266-2013 del 16 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” en fecha veintitrés de enero del dos mil catorce, se reforma el Artículo 29 de la Ley General de la Administración Pública definiendo a la Secretaría de Estado en el Despacho de Finanzas, como el Ente del Estado encargado de la Formulación, Coordinación, Ejecución y Evaluación de las políticas relacionadas con las finanzas públicas.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 266-2013 del 16 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” en fecha veintitrés de enero del dos mil catorce, se reforma el Artículo 29 de la Ley General de la Administración Pública definiendo a la Secretaría de Estado en el Despacho de Finanzas, como el Ente del Estado encargado de la Formulación, Coordinación, Ejecución y Evaluación de las políticas relacionadas con las finanzas públicas.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.182-2020 se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2021, dentro del cual se autorizaba financiamiento mediante la emisión del Bono Soberano por valor de L.14,986,980,000.00 (CATORCE MIL NOVECIENTOS OCHENTA Y SEIS MILLONES NOVECIENTOS OCHENTA MIL LEMPIRAS EXACTOS), colocación prevista para el primer trimestre del año 2021 y que a la fecha no se ha concretado.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 182-2020 se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2021, dentro del cual se autorizaba financiamiento mediante la emisión del Bono Soberano por valor de L.14,986,980,000.00 (CATORCE MIL NOVECIENTOS OCHENTA Y SEIS MILLONES NOVECIENTOS OCHENTA MIL LEMPIRAS EXACTOS), colocación prevista para el primer trimestre del año 2021 y que a la fecha no se ha concretado.
 
 CONSIDERANDO: Que en el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, existen asignaciones prioritarias y de alto impacto social por la cuantía de L.3,945,000,000.00 que están siendo financiadas con recursos de fuente 21 Crédito Externo, Organismo Financiador 266 The Bank of New York Mellon y que dado lo expuesto en el considerando anterior, no se cuenta con la disponibilidad financiera para la ejecución de dichas asignaciones, por lo que es necesario realizar una operación de traslado presupuestario a fin de atender de manera oportuna las necesidades de las instituciones financiadas con estos recursos.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que se estima procedente realizar traslados entre Instituciones de
 
 CONSIDERANDO: Que es potestad del Presidente de la República amparado en la Ley Orgánica del Presupuesto y Normas Técnicas del Subsistema de Presupuesto, autorizar las transferencias de fondos presupuestarios entre Secretarías de Estado, Instituciones Desconcentradas e Instituciones Descentralizadas, con el fin de optimizar los recursos presupuestarios y obtener una ejecución eficiente y efectiva de las Entidades Estatales en el marco del cumplimiento de las responsabilidades ineludibles del Estado.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 publicado el 6 de octubre de fecha 2020, el Presidente de la República delegó en el Licenciado Carlos Alberto Madero Erazo, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de la Administración Pública sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a: a)..b) c).. d).. e) f)Modificaciones Presupuestarias...
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado el 6 de octubre de fecha 2020, el Presidente de la República delegó en el Licenciado Carlos Alberto Madero Erazo, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de la Administración Pública sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a: a)..b) c).. d).. e) f)Modificaciones Presupuestarias...
 
 POR TANTO:
 

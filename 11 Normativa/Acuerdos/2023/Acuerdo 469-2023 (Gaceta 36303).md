@@ -11,7 +11,7 @@ paginas: "A. 29 - 31"
 sumario: "Acuerdo No. 469-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230809-36303/download"
 extraido: "2026-11-14"
-huella: "5613f0007ff625d9"
+huella: "afaa87deec1b0245"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 469-2023
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estad
 
 CONSIDERANDO: Que la Ley de Simplificación Administrativa en su artículo 3 instituye que: Todo órgano del Estado tiene la obligación de realizar, permanentemente, diagnósticos y análisis sobre los diferentes trámites y procedimientos administrativos que deban seguirse en sus dependencias, a fin de diseñar medidas de simplificación las cuales deberán ser adoptadas de acuerdo a los objetivos de dicha Ley.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial La Gaceta el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de Mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013- 2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de Septiembre del año 2020, como una Entidad Desconcentrada de la Agencia de Regulación Sanitaria en el Despacho de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias con competencia a nivel nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial La Gaceta el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de Mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013-2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de Septiembre del año 2020, como una Entidad Desconcentrada de la Agencia de Regulación Sanitaria en el Despacho de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias con competencia a nivel nacional.
 
 CONSIDERANDO: Que el Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario, en su Capítulo X, Artículo 241 sitúa que:
 

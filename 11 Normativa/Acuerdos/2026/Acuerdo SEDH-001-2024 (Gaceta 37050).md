@@ -11,7 +11,7 @@ paginas: "A. 28 - 30"
 sumario: "Acuerdos Ejecutivos Nos. SEDH-001-2024, SEDH-002-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260122-37050/download"
 extraido: "2026-11-09"
-huella: "a199d87be6c57a6f"
+huella: "f3a54fba69448f4d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SEDH-001-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el presente caso versa sobre la presunta responsabilidad inter
 
 CONSIDERANDO: Que la Comisión Interamericana de Derechos Humanos (CIDH), recibió la petición presentada por la Organización Fraternal Negra Hondureña (OFRANEH), el 29 de octubre de 2003 y aprobó el informe de admisibilidad No. 39/07 del 24 de julio de 2007. Asimismo, el informe de fondo No. 394/20 el 31 de diciembre de 2020, concluye que el Estado de Honduras es responsable por la violación de los derechos de integridad personal, garantías judiciales, libertad de expresión, propiedad privada, derechos políticos, protección judicial y desarrollo progresivo consagrados en los artículos 5.1, 8.1, 13.1, 21.1, 23.1, 25.1 y 26 relacionados con el artículo 1.1 y 2 todos de la Convención Americana sobre los Derechos Humanos (CADH).
 
-CONSIDERANDO: Que el 16 de noviembre de 2023, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH-28- 2023 – Caso Comunidad Garífuna Cayos Cochinos y sus miembros vs Honduras.
+CONSIDERANDO: Que el 16 de noviembre de 2023, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH-28-2023 – Caso Comunidad Garífuna Cayos Cochinos y sus miembros vs Honduras.
 
 CONSIDERANDO: Que luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, se ha concluido que resulta conveniente para el Estado de Honduras contar con el Acuerdo Ejecutivo mediante el cual se otorguen a la Procuradoría General de la República (PGR), las facultades de expresa mención de desistir, absorber posiciones, renunciar de los recursos o términos legales, conciliar, transigir y aprobar convenios, de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que se pueda hacer uso de las referidas facultades durante el litigio del caso “Comunidad Garífuna Cayos Cochinos y sus miembros vs Honduras” ante la Corte Interamericana de Derechos Humanos.
 

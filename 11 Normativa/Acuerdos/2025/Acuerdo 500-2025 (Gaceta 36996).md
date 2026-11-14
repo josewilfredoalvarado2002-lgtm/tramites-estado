@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Acuerdo Ministerial No. 500-2025Acuerdo Ejecutivo No. 143-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251118-36996/download"
 extraido: "2026-11-09"
-huella: "59a67b1258f868ac"
+huella: "24a6cbbd9245b073"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 500-2025
@@ -29,9 +29,7 @@ huella: "59a67b1258f868ac"
 
 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN
 
-CONSIDERANDO: Que, el Decreto Legislativo N°. 155- 94 crea el Foro Nacional de Convergencia, (FONAC por sus siglas), mismo que, mediante Decreto Legislativo N°.
-
-286-2009, se le define como la instancia de “verificación y seguimiento independiente del cumplimiento de la Visión de País y el Plan de Nación”.
+CONSIDERANDO: Que, el Decreto Legislativo N°. 155-94 crea el Foro Nacional de Convergencia, (FONAC por sus siglas), mismo que, mediante Decreto Legislativo N°. 286-2009, se le define como la instancia de “verificación y seguimiento independiente del cumplimiento de la Visión de País y el Plan de Nación”.
 
 CONSIDERANDO: Que, el artículo 2 de la Ley del Foro Nacional de Convergencia, reformado mediante Decreto Legislativo 166-2019, dispone que la asamblea del “Foro Nacional de Convergencia (FONAC), estará integrada por los titulares o en su defecto por quien deleguen las diferentes organizaciones sociales, gremiales o políticas, que ostentando personalidad jurídica sean designadas por el Presidente de la República”.
 
@@ -53,7 +51,7 @@ ACUERDA:
 
 PRIMERO: Designar como representantes, ante la asamblea del Foro Nacional de Convergencia (FONAC), a las organizaciones siguientes:
 
-1. C o l e g i o d e P e d a g o g o s d e H o n d u r a s , COLPEDAGOGOSH por sus siglas;
+1. Colegio de Pedagogos de Honduras, COLPEDAGOGOSH por sus siglas;
 
 2. Primer Colegio Profesional Hondureño de Maestros, PRICPHMA por sus siglas;
 

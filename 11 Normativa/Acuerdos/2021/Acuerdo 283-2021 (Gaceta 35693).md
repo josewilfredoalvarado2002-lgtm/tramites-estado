@@ -11,7 +11,7 @@ paginas: "A. 4 - 20"
 sumario: "Acuerdo número 283-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210820-35693/download"
 extraido: "2026-11-14"
-huella: "029869712c890f94"
+huella: "708a4ac7d29e4a15"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 283-2021
@@ -35,9 +35,9 @@ CONSIDERANDO: Que en el Decreto Legislativo 149-2013 establece la Ley Sobre Firm
 
 CONSIDERANDO:Que en la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), fomenta la Utilización de la Firma Electrónica por el Estado tal como lo establece el Artículo 5.- “Se autoriza a los Poderes Legislativo, Ejecutivo y Judicial, al Tribunal Superior de Cuentas, así como a todas las instituciones públicas descentralizadas y entes públicos no estatales y cualquier dependencia del sector público, para la utilización de las firmas electrónicas en los documentos electrónicos en sus relaciones internas, entre ellos y con los particulares”.
 
-CONSIDERANDO: Que el Decreto Legislativo 033- 2020 publicado en La Gaceta No.35,217 del 03 de abril del 2020, en la Sección Octava, artículo 38 establece que con el fin de permitir la continuidad del Estado y de las entidades privadas que prestan servicios esenciales para la sostenibilidad de la economía nacional sin causar niveles de exposición innecesarios entre las personas, deben tomarse las siguientes medidas:
+CONSIDERANDO: Que el Decreto Legislativo 033-2020 publicado en La Gaceta No. 35,217 del 03 de abril del 2020, en la Sección Octava, artículo 38 establece que con el fin de permitir la continuidad del Estado y de las entidades privadas que prestan servicios esenciales para la sostenibilidad de la economía nacional sin causar niveles de exposición innecesarios entre las personas, deben tomarse las siguientes medidas:
 
-A) Reformar los artículos 7 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013), los cuales se deberán leer así:
+A) Reformar los artículos 7 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), los cuales se deberán leer así:
 
 “ARTÍCULO 7.- REQUERIMIENTO DE FIRMA
 
@@ -45,7 +45,7 @@ ELECTRÓNICA AVANZADA. La firma electrónica avanzada será siempre de aplicaci�
 
 \3) Sistemas de doble factor; 4) Sistemas biométricos incluyendo medios fotográficos; 5) Otros que puedan ir desarrollándose según el avance de las tecnologías.
 
-CONSIDERANDO: Que el Decreto Legislativo 033- 2020 publicado en La Gaceta No. 35,217 el 03 de abril del 2020, en la Sección Octava artículo 38 reforma el ARTÍCULO 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013), los cuales se deberán leer así:
+CONSIDERANDO: Que el Decreto Legislativo 033-2020 publicado en La Gaceta No. 35,217 el 03 de abril del 2020, en la Sección Octava artículo 38 reforma el ARTÍCULO 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), los cuales se deberán leer así:
 
 RECONOCIMIENTO DE IDENTIDADES, FIRMAS ELECTRÓNICAS Y CERTIFICADOS EXTRANJEROS.
 
@@ -65,7 +65,7 @@ CONSIDERANDO: Que conforme al Acuerdo Ministerial No. 485-2020 publicado en La G
 
 POR TANTO:
 
-En uso de las facultades contenidas en los artículos 59, 247, 255 de la Constitución de la República; 33, 36 numeral 1, 6, 8 y artículos 118 y 119 de la Ley General de la Administración Pública; 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo 33-2020, Decreto Ejecutivo PCM-005-2020, Decreto Ejecutivo PCM-016- 2020.
+En uso de las facultades contenidas en los artículos 59, 247, 255 de la Constitución de la República; 33, 36 numeral 1, 6, 8 y artículos 118 y 119 de la Ley General de la Administración Pública; 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo 33-2020, Decreto Ejecutivo PCM-005-2020, Decreto Ejecutivo PCM-016-2020.
 
 ACUERDA:
 
@@ -119,7 +119,7 @@ VII.
 
 VIII.
 
-“ F I R M A E L E C T R Ó N I C A EQUIVALENTE, FIEL CA-SEFIN”:
+“ FIRMA ELECTRÓNICA EQUIVALENTE, FIEL CA-SEFIN”:
 
 Aquella certificada por un prestador local en SEFIN a través del Agente Certificador, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que desconozca la integridad del documento y su autoría, la cual se usará para procesos internos de SEFIN.
 
@@ -183,7 +183,7 @@ La SEFIN a través de la Secretaría General emitirá las Circulares correspondi
 
 #### Artículo 4
 
-Artículo 4. Lo que no contemple el Reglamento A falta de disposición expresa en el presente Reglamento, se atenderá lo dispuesto en: la Ley Sobre Firmas Electrónicas (Decreto No.149-2013), el Reglamento de Ley sobre Firmas Electrónicas Acuerdo Ejecutivo 41- 2014, Decreto Legislativo 033-2020 publicado en La Gaceta el 03 de abril del 2020, Decreto Ejecutivo PCM 086-2020 y las normativas aplicables.
+Artículo 4. Lo que no contemple el Reglamento A falta de disposición expresa en el presente Reglamento, se atenderá lo dispuesto en: la Ley Sobre Firmas Electrónicas (Decreto No. 149-2013), el Reglamento de Ley sobre Firmas Electrónicas Acuerdo Ejecutivo 41-2014, Decreto Legislativo 033-2020 publicado en La Gaceta el 03 de abril del 2020, Decreto Ejecutivo PCM 086-2020 y las normativas aplicables.
 
 #### Artículo 5
 
@@ -235,7 +235,7 @@ Los usuarios deberán dar cumplimiento a lo expuesto en el presente Reglamento, 
 
 Artículo 10. Uso de la FIEL Los documentos podrán ser firmados con la FIEL por los usuarios que así lo requieran, ya sea para el ejercicio de sus atribuciones y/o fines institucionales; de igual forma podrá ser utilizada en los mensajes de datos; así como en aquellos actos o actuaciones electrónicas que se realicen a través de los sistemas y servicios informáticos.
 
-Los documentos y mensajes de datos que cuenten con la FIEL producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor jurídico-administrativo que las disposiciones correspondientes les otorgan a éstos, según lo indicado en la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013) y sus reformas.
+Los documentos y mensajes de datos que cuenten con la FIEL producirán los mismos efectos que los presentados con firma autógrafa y, en consecuencia, tendrán el mismo valor jurídico-administrativo que las disposiciones correspondientes les otorgan a éstos, según lo indicado en la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013) y sus reformas.
 
 #### Artículo 11
 

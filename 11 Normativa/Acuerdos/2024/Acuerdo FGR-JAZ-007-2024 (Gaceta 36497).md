@@ -11,7 +11,7 @@ paginas: "A. 56 - 58"
 sumario: "Acuerdos Nos. FGR-JAZ-003-2024, FGR-JAZ-004-2024, FGR-JAZ-006-2024, FGR-JAZ-007-2024, FGR-JAZ-008-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240401-36497/download"
 extraido: "2026-11-14"
-huella: "877756cb041d2a51"
+huella: "c95eb5ae47a2d47e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-JAZ-007-2024
@@ -29,9 +29,7 @@ huella: "877756cb041d2a51"
 
 FISCALÍA GENERAL DE LA REPÚBLICA
 
-JOHEL ANTONIO ZELAYA ALVAREZ, Fiscal General de la República, en ejercicio de las facultades que el Honorable Congreso Nacional le confirió mediante Decreto N°. 21-2024; con fundamento en los artículos; 1, 5, 15, 18, 38, 40 No.
-
-1, 59, 62, 63, 64, 68, 70, 76, 78, 80, 81, 82, 88, 89, 90, 94, 95, 127, 128, 129, 130, 232, 233, 320, 321, 323, 324, 326 y demás aplicables de la Constitución de la República; 1, 2, 3, 5, 8, 11, 12, 13, 16, 17, 24, 26, 41, 42, 43, 44, 70, 71, 74 y demás aplicables de la Ley del Ministerio Público; 1 y demás aplicables del Estatuto de la Carrera del Ministerio Público;
+JOHEL ANTONIO ZELAYA ALVAREZ, Fiscal General de la República, en ejercicio de las facultades que el Honorable Congreso Nacional le confirió mediante Decreto N°. 21-2024; con fundamento en los artículos; 1, 5, 15, 18, 38, 40 No. 1, 59, 62, 63, 64, 68, 70, 76, 78, 80, 81, 82, 88, 89, 90, 94, 95, 127, 128, 129, 130, 232, 233, 320, 321, 323, 324, 326 y demás aplicables de la Constitución de la República; 1, 2, 3, 5, 8, 11, 12, 13, 16, 17, 24, 26, 41, 42, 43, 44, 70, 71, 74 y demás aplicables de la Ley del Ministerio Público; 1 y demás aplicables del Estatuto de la Carrera del Ministerio Público;
 
 1,3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 17, 20, 25, 26, 33, 34, 35, 41 y demás aplicables del Reglamento Especial de Organización y Funcionamiento de la Agencia Técnica de Investigación Criminal; 118 de la Ley General de la Administración Pública.
 

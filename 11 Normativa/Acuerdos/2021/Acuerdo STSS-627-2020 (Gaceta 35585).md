@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Nos. STSS-618-2020, STSS619-2020, STSS-620-2020, STSS-6212020, STSS-622-2020, STSS-623-2020, STSS-624-2020, STSS-627-2020, STSS 124-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210428-35585/download"
 extraido: "2026-11-14"
-huella: "de799d0b407e23db"
+huella: "4686d20dfe1d96f0"
 ---
 <!-- portal:inicio -->
 # ACUERDO N°. STSS-627-2020
@@ -33,7 +33,7 @@ ACUERDA:
 
 PRIMERO: Cancelar por Renuncia del ciudadano José Luis Escoto Maradiaga, en el puesto de Conductor de Automóviles I, Institución 130 Secretaría de Trabajo y Seguridad Social, Programa; 001 Actividades Centrales, Unidad Ejecutora; 002 Unidades de Apoyo, Subprograma;
 
-00, Actividad/Obra 002, Unidad; Servicios Administrativos y Contables, Número de Puesto; 0820, Grupo-Nivel; 01- 02, Sueldo Mensual Lps.12,510.00 (Doce Mil Quinientos Diez Lempiras Exactos), Acción de Personal N°. 062- 2020, aprobada por la Dirección General de Servicio Civil, Efectividad: 02 de mayo de 2020.
+00, Actividad/Obra 002, Unidad; Servicios Administrativos y Contables, Número de Puesto; 0820, Grupo-Nivel; 01-02, Sueldo Mensual Lps.12,510.00 (Doce Mil Quinientos Diez Lempiras Exactos), Acción de Personal N°. 062-2020, aprobada por la Dirección General de Servicio Civil, Efectividad: 02 de mayo de 2020.
 
 SEGUNDO: Agradecer al ciudadano José Luis Escoto Maradiaga, por los servicios prestados a la Institución.
 

@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdo No. SAG-079-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230525-36237/download"
 extraido: "2026-11-14"
-huella: "eb02c7f34d41b0b1"
+huella: "c09f80c40c43d14b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-079-2023
@@ -45,7 +45,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado, por Ley, durante el período comprendido del 06 al 13 de mayo del dos mil veintitrés (2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado, por Ley, durante el período comprendido del 06 al 13 de mayo del dos mil veintitrés (2023).
 
 SEGUNDO: El presente acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

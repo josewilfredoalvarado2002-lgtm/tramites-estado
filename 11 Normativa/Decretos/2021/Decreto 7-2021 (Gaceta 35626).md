@@ -11,7 +11,7 @@ paginas: "A. 10 - 16"
 sumario: "Decreto No. 7-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210612-35626/download"
 extraido: "2026-11-14"
-huella: "74f093408bab873b"
+huella: "7babeab113ad6a5f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 7-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 59 de la Constitución de la República de Hondur
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 145 establece que: “Se reconoce el Derecho a la Protección de la Salud. Es deber de todos participar en la promoción y preservación de la salud personal y de la comunidad. El Estado conservará el medio ambiente adecuado para proteger la salud de las personas”.
 
-CONSIDERANDO: Que el Artículo 3 párrafo primero de la Ley General de la Administración Pública, reformado mediante Decreto No.266-2013 publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero de 2014, señala que: “La creación, modificación o supresión de los Órganos de la Administración Pública incluyendo las Desconcentradas y las Instituciones Descentralizadas, solamente se puede hacer previa definición del fin público a satisfacer cuando se acredite su factibilidad económica, administrativa, considerando el costo de su funcionamiento, el rendimiento especializado o el ahorro previsto”.
+CONSIDERANDO: Que el Artículo 3 párrafo primero de la Ley General de la Administración Pública, reformado mediante Decreto No. 266-2013 publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero de 2014, señala que: “La creación, modificación o supresión de los Órganos de la Administración Pública incluyendo las Desconcentradas y las Instituciones Descentralizadas, solamente se puede hacer previa definición del fin público a satisfacer cuando se acredite su factibilidad económica, administrativa, considerando el costo de su funcionamiento, el rendimiento especializado o el ahorro previsto”.
 
 CONSIDERANDO: Que el Artículo 4 de la precitada Ley, establece lo siguiente: “La creación, modificación, o suspensión de las Secretarías de Estado o de los Organismos o Entidades Desconcentradas, solamente puede ser hecha por el Presidente de la República en Consejo de Secretarios de Estado”.
 
@@ -123,7 +123,7 @@ ARTÍCULO 7.- La Agencia de Regulación Sanitaria (ARSA) tiene las atribuciones 
 
 #### Artículo 8
 
-ARTÍCULO 8.- Se ratifica que las funciones de la Dirección General de Normalización y de la Dirección General de Vigilancia del Marco Normativo que, en su momento, fueron dependientes de la Subsecretaría de Regulación de la Secretaría de Estado en el Despacho de Salud (SESAL), creadas mediante Decreto Ejecutivo Número PCM- 061-2013 publicado en el Diario Oficial de la República “La Gaceta” del 29 de Enero del año 2014 que reforma los Artículos 67, 68 y 69 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, en lo relacionado con formular y actualizar el marco normativo sanitario; así como interpretar, aplicar, vigilar, fiscalizar y controlar el cumplimiento de la normativa legal, técnica y administrativa que garantice el cumplimiento de los estándares de la calidad establecido para los proveedores de bienes y servicios de interés sanitario o para los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población, respectivamente serán asumidas por la Agencia de Regulación Sanitaria (ARSA).
+ARTÍCULO 8.- Se ratifica que las funciones de la Dirección General de Normalización y de la Dirección General de Vigilancia del Marco Normativo que, en su momento, fueron dependientes de la Subsecretaría de Regulación de la Secretaría de Estado en el Despacho de Salud (SESAL), creadas mediante Decreto Ejecutivo Número PCM-061-2013 publicado en el Diario Oficial de la República “La Gaceta” del 29 de Enero del año 2014 que reforma los Artículos 67, 68 y 69 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, en lo relacionado con formular y actualizar el marco normativo sanitario; así como interpretar, aplicar, vigilar, fiscalizar y controlar el cumplimiento de la normativa legal, técnica y administrativa que garantice el cumplimiento de los estándares de la calidad establecido para los proveedores de bienes y servicios de interés sanitario o para los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población, respectivamente serán asumidas por la Agencia de Regulación Sanitaria (ARSA).
 
 #### Artículo 9
 
@@ -155,7 +155,7 @@ ARTÍCULO 13.- Las acciones previstas en la presente Ley y demás que de ésta s
 
 #### Artículo 14
 
-ARTÍCULO 14.- Para la resolución de cuestiones no previstas expresamente en esta Ley, serán de aplicación supletoria los principios generales del procedimiento a d m i n i s t r a t i v o , C o n v e n i o s Internacionales que Honduras haya suscrito, en su defecto, las normas del Código Procesal Civil y de otras ramas jurídicas que sean aplicables según su naturaleza y fines.
+ARTÍCULO 14.- Para la resolución de cuestiones no previstas expresamente en esta Ley, serán de aplicación supletoria los principios generales del procedimiento administrativo, Convenios Internacionales que Honduras haya suscrito, en su defecto, las normas del Código Procesal Civil y de otras ramas jurídicas que sean aplicables según su naturaleza y fines.
 
 #### Artículo 15
 

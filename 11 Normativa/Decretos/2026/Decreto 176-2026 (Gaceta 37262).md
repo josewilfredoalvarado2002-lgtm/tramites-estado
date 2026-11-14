@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Nos. 176-2026, 178-2026,185-2026, 188-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261005-37262/download"
 extraido: "2026-11-09"
-huella: "a7a23cebdb40c0e4"
+huella: "60eef8c21342e36b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 176-2026
@@ -33,9 +33,9 @@ CONSIDERANDO: Que la Constitución de la República de Honduras establece que la
 
 CONSIDERANDO: Que corresponde al Congreso Nacional, de conformidad con la Constitución de la República de Honduras, aprobar el Presupuesto General de Ingresos y Egresos de la República y establecer las disposiciones necesarias para su adecuada ejecución.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.17-2026, publicado en el Diario Oficial “La Gaceta” No. 37,081 de fecha 27 de febrero de 2026, se aprobó la Ley de Reactivación Económica y Desarrollo Humano, estableciendo un régimen extraordinario, excepcional y temporal de medidas en materia fiscal y financiera, orientadas a restablecer el equilibrio de las finanzas públicas, promover el crecimiento económico sostenible, el desarrollo humano y el fortalecimiento institucional del Estado.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 17-2026, publicado en el Diario Oficial “La Gaceta” No. 37,081 de fecha 27 de febrero de 2026, se aprobó la Ley de Reactivación Económica y Desarrollo Humano, estableciendo un régimen extraordinario, excepcional y temporal de medidas en materia fiscal y financiera, orientadas a restablecer el equilibrio de las finanzas públicas, promover el crecimiento económico sostenible, el desarrollo humano y el fortalecimiento institucional del Estado.
 
-CONSIDERANDO: Que el Artículo 5 del Decreto Legislativo No.17-2026 establece mecanismos extraordinarios de solución de controversias mediante conciliaciones y acuerdos que involucren al Estado, sujetándolos al cumplimiento de requisitos legales, presupuestarios, financieros y jurídicos, así como a la participación de la Procuraduría General de la República (PGR).
+CONSIDERANDO: Que el Artículo 5 del Decreto Legislativo No. 17-2026 establece mecanismos extraordinarios de solución de controversias mediante conciliaciones y acuerdos que involucren al Estado, sujetándolos al cumplimiento de requisitos legales, presupuestarios, financieros y jurídicos, así como a la participación de la Procuraduría General de la República (PGR).
 
 CONSIDERANDO: Que los Programas Vida Mejor, Mejores Familias, Gestores del Bono Diez Mil, Guías de Familia, en sus estructuras de coordinación, supervisión, gestión, acompañamiento y promoción social, así como la estructura del Programa de Protección Civil, constituyeron políticas públicas orientadas a mejorar las condiciones de vida de familias en situación de pobreza, pobreza extrema y vulnerabilidad social, mediante acciones de protección, asistencia, acompañamiento y desarrollo social a nivel nacional.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -59,17 +59,17 @@ LEY ESPECIAL PARA LA ASIGNACIÓN PRESUPUESTARIA DESTINADA AL CUMPLIMIENTO DE OBL
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO: El presente Decreto tiene por objeto establecer un régimen especial, extraordinario y temporal para autorizar disponibilidad, modificación, asignación, incorporación, habilitación y ejecución presupuestaria de recursos públicos destinados al cumplimiento de las obligaciones económicas que resulten de los procesos de conciliación relacionados con las personas que hayan prestado servicios en el marco de los Programas: Vida Mejor, Mejores Familias, Gestores del Bono Diez Mil, Guías de Familia, en sus estructuras de coordinación, supervisión, gestión, acompañamiento y promoción social de los mismos, así como la estructura del Programa Protección Civil. Las acciones/obligaciones comprendidas en el presente Decreto deberán ser determinadas, individualizadas y reconocidas conforme al procedimiento establecido en el Artículo 5 del Decreto Legislativo No.17-2026 y demás normativa aplicable.
+ARTÍCULO 1.- OBJETO: El presente Decreto tiene por objeto establecer un régimen especial, extraordinario y temporal para autorizar disponibilidad, modificación, asignación, incorporación, habilitación y ejecución presupuestaria de recursos públicos destinados al cumplimiento de las obligaciones económicas que resulten de los procesos de conciliación relacionados con las personas que hayan prestado servicios en el marco de los Programas: Vida Mejor, Mejores Familias, Gestores del Bono Diez Mil, Guías de Familia, en sus estructuras de coordinación, supervisión, gestión, acompañamiento y promoción social de los mismos, así como la estructura del Programa Protección Civil. Las acciones/obligaciones comprendidas en el presente Decreto deberán ser determinadas, individualizadas y reconocidas conforme al procedimiento establecido en el Artículo 5 del Decreto Legislativo No. 17-2026 y demás normativa aplicable.
 
 #### Artículo 2
 
-ARTÍCULO 2.- I N C O R P O R A C I Ó N
+ARTÍCULO 2.- INCORPORACIÓN
 
 Y
 
 H A B I L I TA C I Ó N P R E S U -
 
-PUESTARIA: Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, dentro del ámbito de sus competencias y de conformidad con la legislación presupuestaria, financiera y fiscal aplicable, realice las operaciones necesarias para identificar la disponibilidad presupuestaria y proceder a realizar la modificación, asignación, incorporación, habilitación, ejecución presupuestaria y financiera para el cumplimiento de las obligaciones que nazcan o sean derivadas de los procesos de conciliación que se suscriban en el marco del Decreto No.17-2026. Los recursos no podrán ser destinados a una finalidad distinta de la establecida en el presente Decreto.
+PUESTARIA: Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, dentro del ámbito de sus competencias y de conformidad con la legislación presupuestaria, financiera y fiscal aplicable, realice las operaciones necesarias para identificar la disponibilidad presupuestaria y proceder a realizar la modificación, asignación, incorporación, habilitación, ejecución presupuestaria y financiera para el cumplimiento de las obligaciones que nazcan o sean derivadas de los procesos de conciliación que se suscriban en el marco del Decreto No. 17-2026. Los recursos no podrán ser destinados a una finalidad distinta de la establecida en el presente Decreto.
 
 #### Artículo 3
 
@@ -119,7 +119,7 @@ Los pagos derivados de los acuerdos conciliatorios comprendidos en el presente D
 
 #### Artículo 6
 
-ARTÍCULO 6.- N O R E S P O N S A B I L I D A D
+ARTÍCULO 6.- NO RESPONSABILIDAD
 
 PERSONAL NI SOLIDARIA: Los funcionarios y empleados públicos que, dentro del ámbito de sus respectivas competencias, intervengan en los actos administrativos que den origen, sustento, aprobación, formalización, trámite, autorización o ejecución de los acuerdos de conciliación y pagos realizados al amparo del presente Decreto, no serán responsables en forma personal ni solidaria por las obligaciones económicas reconocidas en dichos acuerdos, por tratarse de obligaciones a cargo del Estado.
 
@@ -129,7 +129,7 @@ ARTÍCULO 7.- NATURALEZA ESPECIAL Y
 
 TEMPORAL: Las disposiciones contenidas en el presente Decreto tienen carácter excepcional, extraordinario y temporal, y serán aplicables exclusivamente a las obligaciones pactadas entre las partes.
 
-En todo aquello que no se encuentre expresamente regulado en el presente Decreto continuarán siendo aplicables las disposiciones y vigencia del Decreto Legislativo No.17-2026 y demás normativa presupuestaria, financiera, administrativa y procesal correspondiente.
+En todo aquello que no se encuentre expresamente regulado en el presente Decreto continuarán siendo aplicables las disposiciones y vigencia del Decreto Legislativo No. 17-2026 y demás normativa presupuestaria, financiera, administrativa y procesal correspondiente.
 
 #### Artículo 8
 

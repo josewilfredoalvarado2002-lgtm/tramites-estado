@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdos Ministeriales Nos. 236-2020, 237-2020, (Acuerdo 239-2020), 240-2020, 241-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210102-35475/download"
 extraido: "2026-11-14"
-huella: "b3fc4250dfb4f54f"
+huella: "87899316267d2eb8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 237-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública los Secr
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que los Subsecretarios de Estado por un acto de delegación del Señor Secretario de Estado del ramo podrán conocer y resolver sobre asuntos determinados o específicos.
 
-CONSIDERANDO: Que mediante Acuerdo No. 126- 2019 del 18 de noviembre del año 2019, el Presidente Constitucional de la República en uso de sus facultades de que se encuentra investido nombró al ciudadano DAVID ANTONIO ALVARADO HERNANDEZ, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
+CONSIDERANDO: Que mediante Acuerdo No. 126-2019 del 18 de noviembre del año 2019, el Presidente Constitucional de la República en uso de sus facultades de que se encuentra investido nombró al ciudadano DAVID ANTONIO ALVARADO HERNANDEZ, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
 
 POR TANTO.
 

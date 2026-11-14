@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Decretos Nos. 3-2024, 4-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240223-36468/download"
 extraido: "2026-11-14"
-huella: "6b718ba2c08fc484"
+huella: "c2f51675d42bd054"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 3-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la cobertura de vacunas a niños cayó de un noventa (90%) en 
 
 CONSIDERANDO: Que el Plan de Gobierno de la Presidenta Xiomara Castro propone redefinir el Sector Salud en Honduras, estableciendo la preeminencia del sector público, que se dedicará a la prevención como mecanismo para garantizar la salud de la población, fortaleciendo la atención primaria, manteniendo actividades de prevención de la enfermedad de manera constante y renovando la infraestructura actual, así como la creación de una red nacional de salud pública, accesible a toda la población, con especial énfasis en los niños y niñas, mujeres y adultos mayores.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.7142-HN, suscrito el 20 de octubre de 2023, entre la Asociación Internacional de Fomento (AIF) y el Gobierno de la República de Honduras, hasta por un monto de Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), destinado a financiar la ejecución del Proyecto Servicios Esenciales de Salud y Preparación ante Emergencias, tiene como objetivos: (i) Mejorar la utilización de los servicios de salud reproductiva e infantil en las regiones prioritarias, (ii) Fortalecer las capacidades del Sistema de salud pública para la preparación ante emergencias y (iii) En casos de una Crisis o Emergencias Elegible, responder de manera rápida y efectiva a la misma.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 7142-HN, suscrito el 20 de octubre de 2023, entre la Asociación Internacional de Fomento (AIF) y el Gobierno de la República de Honduras, hasta por un monto de Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), destinado a financiar la ejecución del Proyecto Servicios Esenciales de Salud y Preparación ante Emergencias, tiene como objetivos: (i) Mejorar la utilización de los servicios de salud reproductiva e infantil en las regiones prioritarias, (ii) Fortalecer las capacidades del Sistema de salud pública para la preparación ante emergencias y (iii) En casos de una Crisis o Emergencias Elegible, responder de manera rápida y efectiva a la misma.
 
 CONSIDERANDO: Que el Proyecto antes relacionado busca reducir las diferencias en los índices de mortalidad de embarazadas, los elevados niveles de embarazo en adolescentes, las interrupciones en la prestación de servicios esenciales de salud materno-infantil, en especial las vacunaciones, asimismo, fortalecer la capacidad de preparación y respuesta del sistema de salud ante la ocurrencia de desastres naturales y otras emergencias sanitarias, dada la vulnerabilidad de nuestro país y se estima apoyar a los departamentos de: Gracias a Dios, Comayagua, El Paraíso, Olancho, Yoro, Santa Bárbara. Colón, Intibucá, Copán, Choluteca, Atlántida, Islas de la Bahía y Lempira, que presentan la mayor carga de morbilidad; las beneficiarias directas del proyecto se estiman en 3 millones de mujeres en edad fértil y 600,000 adolescentes de entre 15 y 19 años.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19 y 36 de l
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

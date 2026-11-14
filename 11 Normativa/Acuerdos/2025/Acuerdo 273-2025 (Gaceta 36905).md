@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ejecutivo Número 273-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250801-36905/download"
 extraido: "2026-11-09"
-huella: "10307dd61474f415"
+huella: "02958b601233d276"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 273-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la Suprema Di
 
 CONSIDERANDO: Que el artículo 248 de la Constitución de la República en su párrafo primero establece, que los decretos, reglamentos, acuerdos, órdenes y providencias de la Presidenta de la República, deberán ser autorizadas por los Secretarios de Estado en sus respectivos ramos o por los Subsecretarios en su caso. Sin estos requisitos no tendrá fuerza legal.
 
-CONSIDERANDO: Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
+CONSIDERANDO: Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
 Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública, en consonancia con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
 

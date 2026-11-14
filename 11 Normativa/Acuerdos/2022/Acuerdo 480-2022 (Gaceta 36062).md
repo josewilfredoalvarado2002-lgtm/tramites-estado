@@ -11,7 +11,7 @@ paginas: "A. 29 - 44"
 sumario: "Acuerdo No. 480-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221028-36062/download"
 extraido: "2026-11-14"
-huella: "82ebdc717a9a8444"
+huella: "6e813768988067b8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 480-2022
@@ -195,7 +195,7 @@ Artículo 23.- La devolución de fondos correspondientes a ejecución de gastos 
 
 #### Artículo 24
 
-Artículo 24.- Las Instituciones de la Administración Central que no operan los fondos recibidos a través de la Cuenta Única del Tesoro (CUT) de SIAFI, deben tener registradas todas las transacciones de ingresos y gastos correspondiente a fondos propios, donaciones y créditos fiscales, a más tardar el 30 de diciembre de 2022, utilizando el mecanismo de registro de ejecución de ingresos y gastos correspondientes. Asimismo, las instituciones que están aplicando lo dispuesto en los Decretos No.26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo, Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones y otros que se aprueben en el transcurso del ejercicio 2022, deben realizar la regularización en el SIAFI, siguiendo los procedimientos establecidos, a más tardar el 30 de diciembre de 2022.
+Artículo 24.- Las Instituciones de la Administración Central que no operan los fondos recibidos a través de la Cuenta Única del Tesoro (CUT) de SIAFI, deben tener registradas todas las transacciones de ingresos y gastos correspondiente a fondos propios, donaciones y créditos fiscales, a más tardar el 30 de diciembre de 2022, utilizando el mecanismo de registro de ejecución de ingresos y gastos correspondientes. Asimismo, las instituciones que están aplicando lo dispuesto en los Decretos No. 26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo, Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones y otros que se aprueben en el transcurso del ejercicio 2022, deben realizar la regularización en el SIAFI, siguiendo los procedimientos establecidos, a más tardar el 30 de diciembre de 2022.
 
 #### Artículo 25
 
@@ -227,7 +227,7 @@ CAPÍTULO VIII RENDICIÓN DE ANTICIPOS
 
 Artículo 29.- Todos los anticipos de fondos otorgados a las Instituciones del Sector Público a liquidar, deben estar registrados en el SIAFI a través de un formulario de gastos (F-07) de cambio de imputación a más tardar el 30 de diciembre de 2022, con excepción de los anticipos entregados a empresas que desarrollan proyectos de inversión que trascienden el ejercicio fiscal, los cuales serán liquidados de acuerdo con el avance de la obra. De existir remanentes de estos fondos deben reintegrarlos en la cuenta de origen a más tardar el 26 de diciembre de 2022.
 
-Los documentos de gastos de operación contable (OPC) que hayan sido autorizados conforme lo establecido en el procedimiento “PRO-003 Registro de Fideicomisos en SIAFI” aprobado a lo interno de la Secretaría de Estado en el Despacho de Finanzas, deben ser regularizados en el SIAFI a través de un formulario de gasto (F-07) de cambio de imputación a más tardar el 30 de diciembre de 2022. Todos los documentos de gastos de operación contable (OPC) que queden pendientes, deben convertirse como parte del proceso de cierre; sin embargo, dichos documentos estarán sujetos a futuras revisiones o auditorías como parte del proceso de liquidación con base en el PCM 09-2022, que regula la “Rescisión y liquidación de los contratos o convenios de fideicomisos”, el Decreto Legislativo No. 66-2022 que contiene la “Derogación de los Contratos de Fideicomisos” y el Reglamento aprobado mediante Acuerdo Ejecutivo No.349-2022, publicado en el Diario Oficial La Gaceta número 35,957 de fecha 23 de junio de 2022.
+Los documentos de gastos de operación contable (OPC) que hayan sido autorizados conforme lo establecido en el procedimiento “PRO-003 Registro de Fideicomisos en SIAFI” aprobado a lo interno de la Secretaría de Estado en el Despacho de Finanzas, deben ser regularizados en el SIAFI a través de un formulario de gasto (F-07) de cambio de imputación a más tardar el 30 de diciembre de 2022. Todos los documentos de gastos de operación contable (OPC) que queden pendientes, deben convertirse como parte del proceso de cierre; sin embargo, dichos documentos estarán sujetos a futuras revisiones o auditorías como parte del proceso de liquidación con base en el PCM 09-2022, que regula la “Rescisión y liquidación de los contratos o convenios de fideicomisos”, el Decreto Legislativo No. 66-2022 que contiene la “Derogación de los Contratos de Fideicomisos” y el Reglamento aprobado mediante Acuerdo Ejecutivo No. 349-2022, publicado en el Diario Oficial La Gaceta número 35,957 de fecha 23 de junio de 2022.
 
 #### Artículo 30
 
@@ -495,7 +495,7 @@ Artículo 66.- En cumplimiento de lo previsto por el artículo 230 de las Dispos
 
 Artículo 67.- La Contaduría General de la República elaborará y remitirá al Tribunal Superior de Cuentas a más tardar el 31 de marzo de 2023, un Informe detallado de los incumplimientos de plazos establecidos en la presente normativa, por cada institución.
 
-SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2022, dará lugar a las sanciones establecidas en la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 de la Ley Orgánica del Presupuesto y artículo 5 del Decreto Legislativo No.107-2021 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022.
+SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2022, dará lugar a las sanciones establecidas en la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 de la Ley Orgánica del Presupuesto y artículo 5 del Decreto Legislativo No. 107-2021 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022.
 
 TERCERO: El presente Acuerdo es de cumplimiento obligatorio y entrará en vigencia a partir del 28 de octubre de 2022, debiendo publicarse en el Diario Oficial La Gaceta.
 

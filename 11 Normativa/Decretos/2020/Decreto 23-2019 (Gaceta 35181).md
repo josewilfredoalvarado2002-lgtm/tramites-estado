@@ -11,7 +11,7 @@ paginas: "A. 1 - 56"
 sumario: "Decreto No. 23-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200221-35181/download"
 extraido: "2026-11-14"
-huella: "fe192ecbcdf8c5a6"
+huella: "c79d0e275416a67a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2019
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 numeral 19 de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -43,7 +43,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO PARA LOS SER
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO E INCLUSIÓN SOCIAL.
 
-CONTRATO No.001/SSIS/BM/FC/5603/5294/4774- 2017. Este CONTRATO (en adelante denominado el “Contrato”) está celebrado el 10 de julio de 2017, entre, por una parte, la Subsecretaría de Integración Social (SSIS), a través del Financiamiento Adicional para el Programa Bono Vida Mejor, que en adelante se denominará “EL CONTRATANTE”, representado por Zoila Patricia Cruz Cerrato, mayor de edad, ingeniero, nombrada mediante Acuerdos Ejecutivos número 051- 2014 y 051-A-2014 de fecha 10 de febrero de 2014, emitido por el Presidente Constitucional de la República, actuando en su condición de Subsecretaría de Integración Social y Representante Legal y, por la otra, Roberto Enrique Morales Urquía, Socio y Representante Legal de la Firma PricewaterhouseCoopers Interamerica, S. de R. L. (PwC Honduras) (en adelante denominado (El “CONSULTOR”).
+CONTRATO No. 001/SSIS/BM/FC/5603/5294/4774-2017. Este CONTRATO (en adelante denominado el “Contrato”) está celebrado el 10 de julio de 2017, entre, por una parte, la Subsecretaría de Integración Social (SSIS), a través del Financiamiento Adicional para el Programa Bono Vida Mejor, que en adelante se denominará “EL CONTRATANTE”, representado por Zoila Patricia Cruz Cerrato, mayor de edad, ingeniero, nombrada mediante Acuerdos Ejecutivos número 051-2014 y 051-A-2014 de fecha 10 de febrero de 2014, emitido por el Presidente Constitucional de la República, actuando en su condición de Subsecretaría de Integración Social y Representante Legal y, por la otra, Roberto Enrique Morales Urquía, Socio y Representante Legal de la Firma PricewaterhouseCoopers Interamerica, S. de R. L. (PwC Honduras) (en adelante denominado (El “CONSULTOR”).
 
 CONSIDERANDO
 
@@ -141,7 +141,7 @@ Si se determina que algún empleado del Contratista ha participado en actividade
 
 1.9.1 Definiciones El Banco define, para efectos de esta disposición, las siguientes expresiones: “práctica corrupta” significa el ofrecimiento, suministro, aceptación o solicitud, directa o indirectamente, de cualquier cosa de valor con el fin de influir impropiamente en la actuación de otra persona1;
 
-“práctica fraudulenta” significa cualquiera actuación u omisión, incluyendo una tergiversación de los hechos que, astuta o descuidadamente, desorienta o intenta desorientar a otra persona con el fin de obtener un beneficio financiero o de otra índole, o para evitar una obligación2 ;
+“práctica fraudulenta” significa cualquiera actuación u omisión, incluyendo una tergiversación de los hechos que, astuta o descuidadamente, desorienta o intenta desorientar a otra persona con el fin de obtener un beneficio financiero o de otra índole, o para evitar una obligación2;
 
 I.
 
@@ -303,7 +303,7 @@ Honduras) Trescientos M I S V
 
 IV. Apéndices
 
-APÉNDICE A – DESCRIPCIÓN DE LOS SERVICIOS S E RV I C I O S D E A U D I T O R Í A E X T E R N A FINANCIERA Y REVISIÓN DE CUMPLIMIENTO SOBRE LAS TRANSFERENCIAS MONETARIAS CONDICIONADAS PARA EL PROGRAMA BONO VIDA MEJOR, CONVENIOS DE CRÉDITO IDA 5603- HN, 5294-HN Y 4774-HN, CORRESPONDIENTES AL AÑO 2017.
+APÉNDICE A – DESCRIPCIÓN DE LOS SERVICIOS S E RV ICI OSDE AUDITORÍA EXTERNA FINANCIERA Y REVISIÓN DE CUMPLIMIENTO SOBRE LAS TRANSFERENCIAS MONETARIAS CONDICIONADAS PARA EL PROGRAMA BONO VIDA MEJOR, CONVENIOS DE CRÉDITO IDA 5603- HN, 5294-HN Y 4774-HN, CORRESPONDIENTES AL AÑO 2017.
 
 Período:
 
@@ -369,7 +369,7 @@ El crédito cuenta con una disponibilidad de contrapartida proporcionada por el 
 
 IDA-5603-HN
 
-Cifras en USD Para la ejecución de la disponibilidad de fondos de la parte B del Proyecto se realizarán dos entregas de Transferencias Monetarias Condicionadas (TMC) en el año 2017, programadas para la Primera Entrega de TMC en los departamentos de: Atlántida, Colón, Comayagua, Cortés, La Paz, Ocotepeque, Olancho y Yoro con un total de 68,615 de hogares beneficiarios, equivalente a un monto de pago de USD 8.205,154.00 con emisión de planilla programada para el 31 de Marzo de 2017 y Segunda Entrega de TMC en los departamentos de Atlántida, Colón, Comayagua, Cortés, Gracias a Dios, La Paz, Olancho y Yoro con un total de 79,871 hogares beneficiarios, equivalente a un monto de pago de USD 10.562,195.00 con emisión de planilla para el mes de Julio de 2017, mayor detalle en los Anexos No.1 A y 1 B.
+Cifras en USD Para la ejecución de la disponibilidad de fondos de la parte B del Proyecto se realizarán dos entregas de Transferencias Monetarias Condicionadas (TMC) en el año 2017, programadas para la Primera Entrega de TMC en los departamentos de: Atlántida, Colón, Comayagua, Cortés, La Paz, Ocotepeque, Olancho y Yoro con un total de 68,615 de hogares beneficiarios, equivalente a un monto de pago de USD 8.205,154.00 con emisión de planilla programada para el 31 de Marzo de 2017 y Segunda Entrega de TMC en los departamentos de Atlántida, Colón, Comayagua, Cortés, Gracias a Dios, La Paz, Olancho y Yoro con un total de 79,871 hogares beneficiarios, equivalente a un monto de pago de USD 10.562,195.00 con emisión de planilla para el mes de Julio de 2017, mayor detalle en los Anexos No. 1 A y 1 B.
 
 ADMINISTRACIÓN Y USO DE LOS FONDOS CUENTAS DESIGNADAS IDA-4774-HN Los fondos provenientes del Crédito son manejados en dos diferentes Cuentas Designadas (CD`s). La CD-C se usará para gastos de la Parte B (pagos de las Transferencias Monetarias Condicionadas) y la CD-B se usará para gastos Parte A2 y A3 del proyecto.
 
@@ -657,7 +657,7 @@ ANTONIO CÉSAR RIVERA CALLEJAS PRESIDENTE JOSÉ TOMÁS ZAMBRANO MOLINA SECRETARI
 
 Por Tanto: Ejecútese.
 
-Tegucigalpa , M.D.C., 20 de diciembre de 2019.
+Tegucigalpa, M.D.C., 20 de diciembre de 2019.
 
 JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO E INCLUSIÓN SOCIAL MIGUEL ZUNIGA ________ La EMPRESA NACIONAL DE ARTES GRÁFICAS le ofrece los siguientes servicios:
 

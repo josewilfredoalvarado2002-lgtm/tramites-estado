@@ -11,7 +11,7 @@ paginas: "A. 4 - 40"
 sumario: "Acuerdo No. 245-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251127-37004/download"
 extraido: "2026-11-09"
-huella: "afd742de26c2ef6b"
+huella: "ef6dbec03dffbbb2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 245-2025
@@ -47,9 +47,7 @@ CONSIDERANDO (7): Que el artículo 36 numeral 8) de la Ley General de la Adminis
 
 CONSIDERANDO (8): Que de acuerdo con lo establecido en el artículo 41 de la Ley de Procedimiento Administrativo, corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la ley.
 
-CONSIDERANDO (9): Que la Ley de Responsabilidad Fiscal (LRF) fue aprobada mediante Decreto Legislativo No.
-
-25-2016, de fecha 7 de abril de 2016 y publicada en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, con el objeto de establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizando la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal, en virtud de que en años anteriores se venían registrando déficit fiscales históricamente altos e insostenibles en el tiempo para el Sector Público No Financiero (SPNF).
+CONSIDERANDO (9): Que la Ley de Responsabilidad Fiscal (LRF) fue aprobada mediante Decreto Legislativo No. 25-2016, de fecha 7 de abril de 2016 y publicada en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, con el objeto de establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizando la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal, en virtud de que en años anteriores se venían registrando déficit fiscales históricamente altos e insostenibles en el tiempo para el Sector Público No Financiero (SPNF).
 
 CONSIDERANDO (10): Que el artículo 28 de la Ley de Responsabilidad Fiscal establece que la Secretaría de Estado en el Despacho de Finanzas (SEFIN), debe emitir las disposiciones reglamentarias que sean necesarias para la aplicación de dicha Ley. En virtud de lo anterior, mediante Acuerdo No. 288-2016 del 19 de julio de 2016 y publicado en el Diario Oficial “La Gaceta” el 3 de agosto de 2016, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) aprobó el Reglamento de la Ley de Responsabilidad Fiscal (LRF).
 
@@ -75,7 +73,7 @@ En uso de las facultades que establecen los artículos siguientes:
 
 235, 245 numerales 1 y 11, 246, 247, 255 y 351 de la Constitución de la República; 29 numeral 3), 33, 36 numeral 8), 116, 117 y 118 de la Ley General de la Administración Pública contenida en el Decreto Legislativo No. 146-86;
 
-41 de la Ley de Procedimiento Administrativo contenida en el Decreto Legislativo No. 152-87; 28 de la Ley de Responsabilidad Fiscal contenida en el Decreto Legislativo No. 25- 2016; y, demás normativa legal aplicable
+41 de la Ley de Procedimiento Administrativo contenida en el Decreto Legislativo No. 152-87; 28 de la Ley de Responsabilidad Fiscal contenida en el Decreto Legislativo No. 25-2016; y, demás normativa legal aplicable
 
 ACUERDA:
 
@@ -189,7 +187,7 @@ Es un número que resume las variaciones de los precios de una canasta de bienes
 
 \40) LEY DE RESPONSABILIDAD FISCAL (LRF):
 
-Aprobada mediante Decreto Legislativo No.25-2016 de fecha 7 de abril de 2016.
+Aprobada mediante Decreto Legislativo No. 25-2016 de fecha 7 de abril de 2016.
 
 \41) MARCO MACRO FISCAL DE MEDIANO PLAZO
 
@@ -355,7 +353,7 @@ La opinión técnica anterior debe contener:
 
 En todos los hechos extraordinarios anteriores, se solicitará cláusula de excepción cuando afecten en forma significativa la economía nacional, definida como un daño igual o mayor al equivalente de uno por ciento (1.0%) del Producto Interno Bruto (PIB) nominal anual.
 
-El Poder Ejecutivo deberá solicitar al Poder Legislativo la aprobación de la suspensión de cualquiera de las reglas señaladas en el Artículo No.3 de la Ley de Responsabilidad Fiscal. Dicha solicitud debe contener lo siguiente:
+El Poder Ejecutivo deberá solicitar al Poder Legislativo la aprobación de la suspensión de cualquiera de las reglas señaladas en el Artículo No. 3 de la Ley de Responsabilidad Fiscal. Dicha solicitud debe contener lo siguiente:
 
 1. Los límites numéricos del endeudamiento neto del SPNF y gasto corriente primario nominal del sector presupuestario máximos a aplicarse en el período de suspensión de las reglas macrofiscales. Lo anterior, se detallará en los lineamientos y guía metodológica de la Ley de Responsabilidad Fiscal.
 
@@ -455,7 +453,7 @@ Lo anterior, se basará en la información disponible a la fecha obtenida de ent
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Acuerdo No. 288- 2016 del 19 de julio de 2016, que contiene el Reglamento de la Ley de Responsabilidad Fiscal, publicado en el Diario Oficial “La Gaceta” el 3 de agosto del 2016, Edición No. 34,102, en el sentido de adicionar los artículos 17-A, 17-B, 17-C, los que deben leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar por adición el Acuerdo No. 288-2016 del 19 de julio de 2016, que contiene el Reglamento de la Ley de Responsabilidad Fiscal, publicado en el Diario Oficial “La Gaceta” el 3 de agosto del 2016, Edición No. 34,102, en el sentido de adicionar los artículos 17-A, 17-B, 17-C, los que deben leerse de la manera siguiente:
 
 “ARTÍCULO 17-A.- Sistematización. La SEFIN presidirá y coordinará la Mesa Única Interinstitucional de Exenciones, Exoneraciones y Franquicias Aduaneras denominada como “Mesa de Exoneraciones” creada mediante Decreto Ejecutivo PCM-052-2013, para dilucidar los temas que surjan debido a la implementación e intercambio permanente de la información vinculadas en el tema de exenciones y exoneraciones fiscales.
 
@@ -513,7 +511,7 @@ ARTÍCULO 4.- Período de Transición. La SEFIN continuará compilando y publica
 
 #### Artículo 5
 
-ARTÍCULO 5.- Derogar el artículo 20 del Acuerdo No. 288- 2016 del 19 de julio de 2016, que contiene el Reglamento de la Ley de Responsabilidad Fiscal, publicado en el Diario Oficial “La Gaceta” el 3 de agosto del 2016, Edición No. 34,102.
+ARTÍCULO 5.- Derogar el artículo 20 del Acuerdo No. 288-2016 del 19 de julio de 2016, que contiene el Reglamento de la Ley de Responsabilidad Fiscal, publicado en el Diario Oficial “La Gaceta” el 3 de agosto del 2016, Edición No. 34,102.
 
 #### Artículo 6
 
@@ -613,7 +611,7 @@ m) Malla Móvil: Barrera removible que permite la separación física temporal e
 
 n) Mercancías Peligrosas: Sustancias o productos que, por su composición, naturaleza o propiedades físico-químicas, representan un riesgo para la salud, el ambiente o la seguridad pública.
 
-o) Mini Dock : Rampa niveladora mecánica instalada en el borde de un andén de carga, que permite compensar la diferencia de altura entre el piso del andén y la plataforma del vehículo de transporte, facilitando así la carga y descarga segura de mercancías.
+o) Mini Dock: Rampa niveladora mecánica instalada en el borde de un andén de carga, que permite compensar la diferencia de altura entre el piso del andén y la plataforma del vehículo de transporte, facilitando así la carga y descarga segura de mercancías.
 
 p) Patio: Área exterior pavimentada destinada a operaciones logísticas a cielo abierto, como el almacenamiento de vehículos, contenedores o mercancías de gran volumen.
 

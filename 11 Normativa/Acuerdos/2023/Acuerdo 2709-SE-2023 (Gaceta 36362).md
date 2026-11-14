@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Acuerdo No. 2709-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231019-36362/download"
 extraido: "2026-11-14"
-huella: "3e1e8bb604544a3c"
+huella: "9853168a45d02f75"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 2709-SE-2023
@@ -55,7 +55,7 @@ Artículo 2 de la Ley de Descentralización del Estado de Honduras; Decreto Ejec
 
 ACUERDA:
 
-PRIMERO: Aprobar el REGLAMENTO DEL DECRETO EJECUTIVO PCM 34- 2023 DEL CONVENIO MARCO DE COOPERACIÓN INTERINSTITUCIONAL ENTRE LA PRESIDENCIA DE REPÚBLICA DE HONDURAS Y LA ASOCIACIÓN DE MUNICIPIOS DE HONDURAS (AMHON), PARA LA REPARACIÓN Y RECONSTRUCCIÓN DE POR LO MENOS DOCE
+PRIMERO: Aprobar el REGLAMENTO DEL DECRETO EJECUTIVO PCM 34-2023 DEL CONVENIO MARCO DE COOPERACIÓN INTERINSTITUCIONAL ENTRE LA PRESIDENCIA DE REPÚBLICA DE HONDURAS Y LA ASOCIACIÓN DE MUNICIPIOS DE HONDURAS (AMHON), PARA LA REPARACIÓN Y RECONSTRUCCIÓN DE POR LO MENOS DOCE
 
 (12) MIL CENTROS EDUCATIVOS, conforme a lo previsto en el Decreto Ejecutivo Número PCM 34-2023, publicado en fecha dos (2) de agosto del año dos mil veintitrés (2023), en el Diario Oficial La Gaceta Número 36,297, que literalmente dice:
 

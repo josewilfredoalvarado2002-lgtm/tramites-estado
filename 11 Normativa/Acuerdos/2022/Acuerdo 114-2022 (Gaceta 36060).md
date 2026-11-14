@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministerial No. 114-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221026-36060/download"
 extraido: "2026-11-14"
-huella: "2b5622aae8f52bc1"
+huella: "84b71130be4f5b84"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 114-2022
@@ -49,9 +49,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las a
 
 ACUERDA:
 
-PRIMERO: Hacer del conocimiento público para su observancia, la Resolución Instancia Ministerial-UA No.
-
-105-2022; que RESUELVE: 1. Modificar, por sustitución total, el Reglamento Técnico, RT 65.06.01:18, de Bioseguridad de Organismos Vivos Modificados para Uso Agropecuario, aprobado mediante la Resolución de la Instancia Ministerial- UA No. 60-2019, del 15 de marzo de 2019, en la forma en que aparece en el Anexo de la presente Resolución y que forma parte integral de la misma. 2. Derogar la totalidad de la Resolución de la Instancia Ministerial-UA No. 60-2019, del 15 de marzo de 2019. 3. La presente Resolución entrará en vigor el 19 de febrero de 2023 y será publicada por los Estados Parte.
+PRIMERO: Hacer del conocimiento público para su observancia, la Resolución Instancia Ministerial-UA No. 105-2022; que RESUELVE: 1. Modificar, por sustitución total, el Reglamento Técnico, RT 65.06.01:18, de Bioseguridad de Organismos Vivos Modificados para Uso Agropecuario, aprobado mediante la Resolución de la Instancia Ministerial- UA No. 60-2019, del 15 de marzo de 2019, en la forma en que aparece en el Anexo de la presente Resolución y que forma parte integral de la misma. 2. Derogar la totalidad de la Resolución de la Instancia Ministerial-UA No. 60-2019, del 15 de marzo de 2019. 3. La presente Resolución entrará en vigor el 19 de febrero de 2023 y será publicada por los Estados Parte.
 
 SEGUNDO: Ordenar que para hacer del conocimiento público y observancia en general, el Acuerdo aquí nominada, debe ser publicada en la página web de la Secretaría de Estado en el Despacho de Desarrollo Económico, www.sde.gob.hn.
 

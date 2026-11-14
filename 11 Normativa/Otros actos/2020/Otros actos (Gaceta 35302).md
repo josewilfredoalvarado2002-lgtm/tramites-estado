@@ -11,7 +11,7 @@ paginas: "A. 1 - 144"
 sumario: "Acuerdos CREE-074, CREE-075, CREE-076, CREE-077"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200703-35302/download"
 extraido: "2026-11-14"
-huella: "3c25e02eec15fd55"
+huella: "ff5cfa7faab6332f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-074, CREE-075, CREE-076, CREE-077
@@ -35,7 +35,7 @@ RESULTANDO
 
 Que desde el año 2019 la Comisión Reguladora de Energía Eléctrica ha llevado a cabo un proceso de revisión integral para la mejora del Reglamento de la Ley General de la Industria Eléctrica, aprobado mediante Resolución CREE-009 de fecha 11 de noviembre de 2015 y publicado en fecha 18 de noviembre de ese mismo año en el Diario Oficial “La Gaceta”.
 
-Que durante el período de tiempo comprendido entre el 8 y el 30 de abril de 2020 se llevó a cabo la consulta pública denominada “Incorporación de elementos normativos relacionados a Consumidores Calificados y Comercializadores en el Reglamento de la Ley General de la Industria Eléctrica y el Reglamento de Operación del Sistema y Administración del Mercado Mayorista”, y que por medio de esta consulta, además Sección A Decretos y Acuerdos COMISIÓN REGULADORA DE ENERGIA ELÉCTRICA CREE Acuerdos CREE-074, CREE-075, CREE-076, CREE-077 A. 1- 144 de la modificación de varios artículos del Reglamento a la Ley General de la Industria Eléctrica, se propuso la modificación del Artículo 6, 7 y 8 del Reglamento de Operación del Sistema y Administración del Mercado Mayorista.
+Que durante el período de tiempo comprendido entre el 8 y el 30 de abril de 2020 se llevó a cabo la consulta pública denominada “Incorporación de elementos normativos relacionados a Consumidores Calificados y Comercializadores en el Reglamento de la Ley General de la Industria Eléctrica y el Reglamento de Operación del Sistema y Administración del Mercado Mayorista”, y que por medio de esta consulta, además Sección A Decretos y Acuerdos COMISIÓN REGULADORA DE ENERGIA ELÉCTRICA CREE Acuerdos CREE-074, CREE-075, CREE-076, CREE-077 A. 1-144 de la modificación de varios artículos del Reglamento a la Ley General de la Industria Eléctrica, se propuso la modificación del Artículo 6, 7 y 8 del Reglamento de Operación del Sistema y Administración del Mercado Mayorista.
 
 Que como resultado de este proceso de consulta pública se identificó oportunidades de mejora en el Reglamento de la Ley General de la Industria Eléctrica con el fin de introducir los siguientes elementos regulatorios: la impugnación y recursos sobre las decisiones del ODS; el procedimiento para exigir información; el Procedimiento Sancionatorio; los usuarios autoproductores; las Empresas Comercializadoras; al mecanismo de licitación para la expansión de la red de transmisión y la regulación de las licitaciones públicas internacionales para la compra de energía y potencia firme.
 
@@ -49,7 +49,7 @@ CONSIDERANDO
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -1533,9 +1533,7 @@ Que a partir del uno de junio de 2019 el Operador del Sistema
 
 Que el Operador del Sistema tiene la función de la supervisión y el control de las operaciones del Sistema Interconectado Nacional (SIN) y el resto de sus funciones en coordinación con las empresas y operadores del sistema eléctrico regional, bajo los principios de transparencia, objetividad, independencia y eficiencia económica.
 
-Que en fecha 28 de enero de 2020, mediante oficio No.
-
-DE-ODS-012-I-2020, la Dirección Ejecutiva del ODS remitió el “Informe del proceso de las normas técnicas de Servicios Complementarios, Programación de la Operación y de Mantenimientos”, en el que, entre otros hechos, se hace constar que los borradores de la “Norma Técnica de Programación de la Operación” y la “Norma Técnica de Mantenimientos” fueron socializadas por medio de una presentación el día 4 de diciembre del 2019 ante el Comité de Agentes, agentes privados del sector eléctrico, la Empresa Nacional de Energía Eléctrica, la Secretaría de Energía y la Comisión Reguladora de Energía Eléctrica, y que el proceso permaneció abierto a consultas hasta el día 20 de diciembre de 2019, y que este proceso de socialización fue documentados por medio del informe precitado, y la tabla con los comentarios y sugerencias recibidos sobre la propuesta de “Norma Técnica de Mantenimientos”.
+Que en fecha 28 de enero de 2020, mediante oficio No. DE-ODS-012-I-2020, la Dirección Ejecutiva del ODS remitió el “Informe del proceso de las normas técnicas de Servicios Complementarios, Programación de la Operación y de Mantenimientos”, en el que, entre otros hechos, se hace constar que los borradores de la “Norma Técnica de Programación de la Operación” y la “Norma Técnica de Mantenimientos” fueron socializadas por medio de una presentación el día 4 de diciembre del 2019 ante el Comité de Agentes, agentes privados del sector eléctrico, la Empresa Nacional de Energía Eléctrica, la Secretaría de Energía y la Comisión Reguladora de Energía Eléctrica, y que el proceso permaneció abierto a consultas hasta el día 20 de diciembre de 2019, y que este proceso de socialización fue documentados por medio del informe precitado, y la tabla con los comentarios y sugerencias recibidos sobre la propuesta de “Norma Técnica de Mantenimientos”.
 
 Que la Comisión Reguladora de Energía Eléctrica recibió el oficio número DE/ODS 45-III-2020 en fecha 2 de marzo de 2020, mediante el cual la Dirección Ejecutiva del Operador del Sistema remitió la Norma Técnica de Mantenimientos junto al documento en el que constan las interrogantes y observaciones realizadas por los miembros del Comité de Agentes, así como las respuestas que al efecto fueron emitidas por la Dirección Ejecutiva.
 
@@ -1547,7 +1545,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -2083,7 +2081,7 @@ Al finalizar las tareas de mantenimiento o un Despeje, el equipo o instalación 
 
 El ODS podrá establecer un protocolo con el procedimiento de detalle sobre la coordinación de maniobras en tareas de mantenimiento. La coordinación deberá ser realizada priorizando y buscando garantizar que en cada maniobra se cumplen los requisitos de orden técnico y de seguridad para el personal y las instalaciones.
 
-11 S U P E R V I S I Ó N Y E VA L U A C I Ó N D E CUMPLIMIENTO
+11 SUPERVISIÓN Y E VA LUACIÓN DE CUMPLIMIENTO
 
 11.1 Responsabilidad del ODS El ODS tiene la responsabilidad de supervisar el cumplimiento de las Empresas Generadoras, Empresas Transmisoras y Empresas Distribuidoras con las obligaciones y procedimientos de mantenimiento en esta Norma Técnica.
 
@@ -2161,9 +2159,7 @@ Adicionalmente, el Operador del Sistema tiene la función de la supervisión y e
 
 Que la Comisión Reguladora de Energía Eléctrica recibió oficio No. DE/ODS 09-I-2020 en fecha 24 de enero de 2020, mediante el cual la Dirección Ejecutiva del Operador del Sistema remitió la Norma Técnica de Programación de la Operación y el documento en el que constan las interrogantes y observaciones realizadas por los miembros del Comité de Agentes, así como las respuestas que al efecto fueron emitidas por la Dirección Ejecutiva.
 
-Que en fecha 28 de enero de 2020, mediante oficio No.
-
-DE-ODS-012-I-2020, la Dirección Ejecutiva del ODS remitió el “Informe del proceso de las normas técnicas de Servicios Complementarios, Programación de la Operación y de Mantenimientos”, en el que, entre otros hechos, se hace constar que los borradores de la “Norma Técnica de Programación de la Operación” y la “Norma Técnica de Mantenimientos” fueron socializadas por medio de una presentación el día 4 de diciembre del 2019 ante el Comité de Agentes, agentes privados del sector eléctrico, la Empresa Nacional de Energía Eléctrica, la Secretaría de Energía y la Comisión Reguladora de Energía Eléctrica, y que el proceso permaneció abierto a consultas hasta el día 20 de diciembre de 2019, y que este proceso de socialización fue documentados por medio del informe precitado, y la tabla con los comentarios y sugerencias recibidos sobre la propuesta de “Norma Técnica de Programación de la Operación”.
+Que en fecha 28 de enero de 2020, mediante oficio No. DE-ODS-012-I-2020, la Dirección Ejecutiva del ODS remitió el “Informe del proceso de las normas técnicas de Servicios Complementarios, Programación de la Operación y de Mantenimientos”, en el que, entre otros hechos, se hace constar que los borradores de la “Norma Técnica de Programación de la Operación” y la “Norma Técnica de Mantenimientos” fueron socializadas por medio de una presentación el día 4 de diciembre del 2019 ante el Comité de Agentes, agentes privados del sector eléctrico, la Empresa Nacional de Energía Eléctrica, la Secretaría de Energía y la Comisión Reguladora de Energía Eléctrica, y que el proceso permaneció abierto a consultas hasta el día 20 de diciembre de 2019, y que este proceso de socialización fue documentados por medio del informe precitado, y la tabla con los comentarios y sugerencias recibidos sobre la propuesta de “Norma Técnica de Programación de la Operación”.
 
 Que la propuesta de Norma Técnica de Programación de la Operación ha sido revisada por las áreas técnicas y la Dirección de Asuntos Jurídicos, las cuales propusieron modificaciones en el documento con el fin de ajustarlo a la regulación vigente.
 
@@ -2173,7 +2169,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -3239,7 +3235,7 @@ El ODS analizará para cada Congestión registrada en el mes, sus causas y las m
 
 (60) días hábiles el ODS preparará el Informe de Operación Anual resumiendo los principales resultados y condiciones registradas durante el año cubriendo un contenido similar al Informe de Operación Mensual.
 
-1 4 S U P E R V I S I Ó N Y E VA L U A C I Ó N D E CUMPLIMIENTO
+1 4 SUPERVISIÓN Y E VA LUACIÓN DE CUMPLIMIENTO
 
 14.1 Responsabilidad del ODS El ODS tiene la responsabilidad de supervisar el cumplimiento de los Coordinados con las obligaciones y procedimientos que establece esta Norma Técnica.
 

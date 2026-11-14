@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdo Ejecutivo No. 189-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220512-35921/download"
 extraido: "2026-11-14"
-huella: "f5062e19c30103c4"
+huella: "1869ab782064d90c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 189-2022
@@ -51,7 +51,7 @@ COMUNÍQUESE Y PÚBLIQUESE
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 11 días del mes de marzo del año 2022.
 
-IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA RODOLFO PASTOR DE MARÍA CAMPOS SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA ________ Congreso Nacional FE DE ERRATA En el Diario Oficial “La Gaceta”, Edición No.35,902, de fecha 21 de Abril del 2022, específicamente en la publicación del Decreto No.32-2022 aprobado el día 21 de Abril de 2022, misma que contiene la DEROGACIÓN DE LAS REFORMAS CONSTITUCIONALES QUE EN SU MOMENTO FUERON APROBADAS PARA IMPLEMENTAR LAS ZONAS DE EMPLEO Y DESARROLLO ECONÓMICO ZEDE y por un error involuntario, en el Considerando Sexto del referido Decreto, se omitieron palabras y frases, los cuales deben ser enmendados con la correcta literalidad de dicho Considerando, en la forma siguiente:
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA RODOLFO PASTOR DE MARÍA CAMPOS SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA ________ Congreso Nacional FE DE ERRATA En el Diario Oficial “La Gaceta”, Edición No. 35,902, de fecha 21 de Abril del 2022, específicamente en la publicación del Decreto No. 32-2022 aprobado el día 21 de Abril de 2022, misma que contiene la DEROGACIÓN DE LAS REFORMAS CONSTITUCIONALES QUE EN SU MOMENTO FUERON APROBADAS PARA IMPLEMENTAR LAS ZONAS DE EMPLEO Y DESARROLLO ECONÓMICO ZEDE y por un error involuntario, en el Considerando Sexto del referido Decreto, se omitieron palabras y frases, los cuales deben ser enmendados con la correcta literalidad de dicho Considerando, en la forma siguiente:
 
 En la página “4 A”, segunda Columna del Diario Oficial "La Gaceta", el Considerando Sexto debe leerse de la manera siguiente:
 

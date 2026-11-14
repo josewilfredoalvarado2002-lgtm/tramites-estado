@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Nos. 110-A-2021, 110-B-2021, 110-C-2021, 111-A-2021, 111-B-2021, 111-C-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220104-35813/download"
 extraido: "2026-11-14"
-huella: "7ff78151b1b37ba9"
+huella: "8eafc67dd4234439"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 110-B-2021
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 ACUERDA:
 
-PRIMERO: Cancelar al ciudadano FRANCIS RAFAEL CONTRERAS RIVERA del cargo de Comisionado de la Agencia de Regulación Sanitaria(ARSA) , a quien se le rinden las gracias por los servicios prestados.
+PRIMERO: Cancelar al ciudadano FRANCIS RAFAEL CONTRERAS RIVERA del cargo de Comisionado de la Agencia de Regulación Sanitaria(ARSA), a quien se le rinden las gracias por los servicios prestados.
 
 SEGUNDO: El presente acuerdo es efectivo a partir de su fecha y debe publicarse en “La Gaceta” el Diario Oficial de la República.
 

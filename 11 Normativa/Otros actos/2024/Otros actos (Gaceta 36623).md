@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos S.D.N. Nos. 145-2024 y 146-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240827-36623/download"
 extraido: "2026-11-14"
-huella: "ab00f220930e9fd8"
+huella: "4be3e379aaff271b"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos S.D.N. Nos. 145-2024 y 146-2024
@@ -29,9 +29,7 @@ huella: "ab00f220930e9fd8"
 
 Secretaría de Estado en el Despacho de Defensa Nacional ACUERDO S.D.N. No. 145-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL
 
-CONSIDERANDO (1): Qué, el Abogado José Manuel Zelaya Rosales fue nombrado como Secretario de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No.
-
-13-2022 de fecha 27 de enero del 2022 por la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas.
+CONSIDERANDO (1): Qué, el Abogado José Manuel Zelaya Rosales fue nombrado como Secretario de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No. 13-2022 de fecha 27 de enero del 2022 por la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas.
 
 CONSIDERANDO (2): Qué, la Constitución de la República en el artículo 247 establece que "Los Secretarios de Estado son colaboradores del Presidente de la República, en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia".
 
@@ -61,9 +59,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 Abogado José Manuel Zelaya Rosales Secretario de Estado en el Despacho de Defensa Nacional Abogada Elena Michelle Vallecillo Fuentes Secretaria General de la Secretaría de Estado en el Despacho de Defensa Nacional ____________ Secretaría de Estado en el Despacho de Defensa Nacional ACUERDO S.D.N. No. 146-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL
 
-CONSIDERANDO (1): Qué, la Abogada Elena Michelle Vallecillo Fuentes fue nombrada como Secretaria General de la Secretaría de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No.
-
-68-2023 de fecha 01 de marzo del 2023 por la señora Presidenta Constitucional de la República y el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO (1): Qué, la Abogada Elena Michelle Vallecillo Fuentes fue nombrada como Secretaria General de la Secretaría de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No. 68-2023 de fecha 01 de marzo del 2023 por la señora Presidenta Constitucional de la República y el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 CONSIDERANDO (2): Qué, la Ley General de la Administración Pública en el artículo 123 establece que “En defecto de disposición expresa, el titular de un órgano, en caso de ausencia o impedimento legal será sustituido por el subalterno más elevado en grado y en caso de paridad en grado, por el funcionario con más antigüedad en el servicio, en su defecto, por el funcionario que ostente el título profesional superior’’.
 

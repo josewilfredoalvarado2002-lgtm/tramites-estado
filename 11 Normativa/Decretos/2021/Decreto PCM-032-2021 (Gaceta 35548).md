@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Ejecutivos números PCM-032-2021, 033-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210319-35548/download"
 extraido: "2026-11-14"
-huella: "e9acd26f15259295"
+huella: "bab3cddd61213fd4"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-032-2021
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Poder Ejecutivo mediante Decreto Ejecutivo Número PCM-062-
 
 CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 307-2013 publicado en el Diario Oficial “La Gaceta” del 12 de mayo de 2014, aprobó el Contrato de Fideicomiso para la Administración del Proyecto “Centro Cívico Gubernamental”, celebrado entre el Estado de Honduras por medio de la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) y Banco LAFISE (Honduras), S.A., ratificando y aprobando la instrucción dada por el Poder Ejecutivo para que las instituciones que se adhieran al fideicomiso creado realicen las reservas presupuestarias correspondientes al pago de arrendamientos de los edificios; para que la Secretaría de Estado en el Despacho de Finanzas efectúe las transferencias de las partidas presupuestarias, presentes y futuras, de los gastos de arrendamiento, gastos de operación, seguridad, limpieza, mantenimiento y otros, al Fideicomiso aprobado; y, además, la autorización para que el mismo Poder Ejecutivo y la Procuraduría General de la República efectúen el traspaso dominical y/o incorporación de los bienes inmuebles que identifique y documente la Dirección General de Bienes Nacionales de la Secretaría de Estado en el Despacho de Finanzas, incorporándose al patrimonio del Fideicomiso según el Decreto Ejecutivo referido en el considerando anterior; siendo esta Asociación Pública Privada única en su modalidad entre las todas las formas de participación público privada aprobadas y vigentes a la fecha.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 165- 2015 se reforma el Artículo 2 del Decreto Legislativo No.
-
-307-2013 y que en una de sus partes establece, que cualquier institución del sector público, incluyendo las que no se encuentran adscritas a ningún Poder del Estado en particular, pueden incorporarse al proyecto denominado “Centro Cívico Gubernamental”, sin más trámite que la solicitud que deben dirigir al Fiduciario y suscribir el acta de incorporación del presupuesto correspondiente de la institución al Fideicomiso, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
+CONSIDERANDO: Que mediante Decreto Legislativo 165-2015 se reforma el Artículo 2 del Decreto Legislativo No. 307-2013 y que en una de sus partes establece, que cualquier institución del sector público, incluyendo las que no se encuentran adscritas a ningún Poder del Estado en particular, pueden incorporarse al proyecto denominado “Centro Cívico Gubernamental”, sin más trámite que la solicitud que deben dirigir al Fiduciario y suscribir el acta de incorporación del presupuesto correspondiente de la institución al Fideicomiso, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
 CONSIDERANDO: Que en fecha 01 de febrero del 2016 se adjudicó el Contrato de Alianza Público Privada para la prestación de los Servicios y el “DISEÑO, FINANCIAMIENTO, DEMOLICIÓN, CONSTRUCCIÓN, EQUIPAMIENTO, OPERACIÓN, EXPLOTACIÓN Y MANTENIMIENTO DE LAS INSTALACIONES DEL CENTRO CÍVICO GUBERNAMENTAL”, al Inversionista Operador Privado GIA+A. S.A de C.V., finalizando la suscripción del mismo el 15 de agosto del 2016, el cual establece en su Cláusula 19.5 Fondo de Reserva para el Pago de la Contraprestación que la Secretaría de Finanzas respaldara el pago mensual por la Contraprestación solicitada por el Inversionista Operador Privado en su Oferta Económica así como facilitar el Financiamiento del Proyecto y considerar el pago íntegro, oportuno y efectivo de los pagos mensuales netos.
 
@@ -127,7 +125,7 @@ ARTÍCULO 1.- De conformidad… Instituciones Participantes que continuarán for
 
 26. Instituto Nacional de Estadística;
 
-27. Instituto Hondureño para la Prevención d e l A l c o h o l i s m o , D r o g a d i c c i ó n Farmacodependencia;
+27. Instituto Hondureño para la Prevención del Alcoholismo, Drogadicción Farmacodependencia;
 
 28. Instituto Nacional de la Mujer;
 

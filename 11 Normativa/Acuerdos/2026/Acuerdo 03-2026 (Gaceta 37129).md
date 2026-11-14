@@ -8,10 +8,10 @@ gaceta_numero: 37129
 gaceta_fecha: "2026-04-29"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37129 (2026-04-29)|La Gaceta 37129]]"
 paginas: "A. 17 - 20"
-sumario: "Primer AvisoCONSEJO NACIONAL ELECTORAL CNECertificación, Acuerdo No. 03-2026"
+sumario: "Primer AvisoCONSEJO NACIONAL ELECTORAL CNE: Certificación, Acuerdo No. 03-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260429-37129/download"
 extraido: "2026-11-09"
-huella: "493d54fde0633124"
+huella: "ca1d1d71e465d5ee"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 03-2026
@@ -23,7 +23,7 @@ huella: "493d54fde0633124"
 | Emisor | Consejo Nacional Electoral CNE |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37129 (2026-04-29)\|La Gaceta 37129]] del 2026-04-29 |
 | Páginas | A. 17 - 20 |
-| Según el sumario de La Gaceta | Primer AvisoCONSEJO NACIONAL ELECTORAL CNECertificación, Acuerdo No. 03-2026 |
+| Según el sumario de La Gaceta | Primer AvisoCONSEJO NACIONAL ELECTORAL CNE: Certificación, Acuerdo No. 03-2026 |
 
 ## Texto
 
@@ -57,7 +57,7 @@ TOTALES
 
 970 25 6 0 1,001
 
-CONSIDERANDO (7): Que, mediante Resolución No. 47- 2026 de fecha seis (6) de abril de dos mil veintiséis (2026), el Pleno de Consejeros resolvió que la integración de la Corporación Municipal de Guanaja, Departamento de Islas de la Bahía, conservaría las posiciones de sus regidurías a partir de la posición número dos (2), por lo que en este caso la primera regiduría corresponde al Partido Nacional de Honduras y a partir de la regiduría dos (2) se mantienen las posiciones tal como fueron publicadas mediante la Declaratoria de Elecciones Generales. Nivel Electivo de Diputados y Diputadas Propietarios(as) y Suplentes al Congreso Nacional de la República y Miembros de Corporaciones Municipales, que corre agregada al Acta Extraordinaria número 62-2025, en su punto uno (1) contenida en la Certificación 3055-2025.
+CONSIDERANDO (7): Que, mediante Resolución No. 47-2026 de fecha seis (6) de abril de dos mil veintiséis (2026), el Pleno de Consejeros resolvió que la integración de la Corporación Municipal de Guanaja, Departamento de Islas de la Bahía, conservaría las posiciones de sus regidurías a partir de la posición número dos (2), por lo que en este caso la primera regiduría corresponde al Partido Nacional de Honduras y a partir de la regiduría dos (2) se mantienen las posiciones tal como fueron publicadas mediante la Declaratoria de Elecciones Generales. Nivel Electivo de Diputados y Diputadas Propietarios(as) y Suplentes al Congreso Nacional de la República y Miembros de Corporaciones Municipales, que corre agregada al Acta Extraordinaria número 62-2025, en su punto uno (1) contenida en la Certificación 3055-2025.
 
 CONSIDERANDO (8): Que, el Consejo Nacional Electoral debe hacer la declaratoria de los ciudadanos y ciudadanas que resulten electos en el Cargo, en su caso, a más tardar diez (10) días calendario después de practicada la elección y proveerá lo pertinente para que dicha declaratoria o rectificación, se publique en el Diario Oficial La Gaceta y que se entreguen las respectivas credenciales, según lo establecido en el artículo número 16, del Reglamento Especial para la Repetición de las Elecciones en el nivel electivo de Corporación Municipal del Municipio de Guanaja, Departamento de Islas de la Bahía, para el período 2026-2030.
 

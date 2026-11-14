@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdos Ministeriales Nos. 099-2022, 100-2022, 101-2022, 102-2022, 103-2022, 104-2022, 105-2022, 106-2022, 107-2022, 108-2022, 112-2022, 113-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "9fb390c57d0d4981"
+huella: "1791e2bf4b4d7ed4"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 103-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que para efectos de importación de maíz blanco clasificado en el
 
 CONSIDERANDO: Que la importación del arroz granza 1006.10.90.00, del Arancel Centroamericano de Importación (ACI), en el marco del contingente por Desabasto deberán contar con un certificado de importación válida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo del Decreto Ejecutivo PCM-007-2012.
 
-CONSIDERANDO: Que la importación de leche entera en polvo, leche en polvo descremada, leche en polvo íntegra, grasa butírica y otros derivados de la leche en el marco del contingente por Desabasto deberán contar con un certificado de importación válida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo del Acuerdo No. SAG- 007-2022.
+CONSIDERANDO: Que la importación de leche entera en polvo, leche en polvo descremada, leche en polvo íntegra, grasa butírica y otros derivados de la leche en el marco del contingente por Desabasto deberán contar con un certificado de importación válida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo del Acuerdo No. SAG-007-2022.
 
 CONSIDERANDO: Que la importación de cualquier producto, en el marco del contingente por Desabasto deberán contar con un certificado de importación válida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo Decreto Número 222-92 u otro Acuerdo emitido por la Secretaría de Estado en los Despachos de Agricultura y Ganadería.
 

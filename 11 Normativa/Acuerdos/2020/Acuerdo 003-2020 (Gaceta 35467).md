@@ -11,7 +11,7 @@ paginas: "A. 18 - 24"
 sumario: "Acuerdo Ejecutivo No. 003-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201222-35467/download"
 extraido: "2026-11-14"
-huella: "1c89dc8744e2f5ab"
+huella: "18b8402859f9b6bc"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 003-2020
@@ -29,11 +29,9 @@ huella: "1c89dc8744e2f5ab"
 
 Tegucigalpa, M.D.C. 17 de diciembre del 2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que, mediante Decreto PCM 005- 2020, publicado en el Diario Oficial “La Gaceta” No. 35,171 del 10 de febrero de 2020, se declara Estado de Emergencia Sanitaria en todo el territorio nacional a raíz de la pandemia del Coronavirus (COVID-19), siendo catalogado como una emergencia de salud pública de importancia a nivel nacional e internacional; a raíz de esta declaratoria el Estado de Honduras tiene la obligación de salvaguardar la salud de la población hondureña.
+CONSIDERANDO: Que, mediante Decreto PCM 005-2020, publicado en el Diario Oficial “La Gaceta” No. 35,171 del 10 de febrero de 2020, se declara Estado de Emergencia Sanitaria en todo el territorio nacional a raíz de la pandemia del Coronavirus (COVID-19), siendo catalogado como una emergencia de salud pública de importancia a nivel nacional e internacional; a raíz de esta declaratoria el Estado de Honduras tiene la obligación de salvaguardar la salud de la población hondureña.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-047-2020, publicado en el Diario Oficial “La Gaceta” el 01 de junio del año 2020, en el cual se autorizó al Poder Ejecutivo a emitir los acuerdos de nombramiento correspondientes al personal bajo la modalidad de contrato médico, sanitario, asistencial y de apoyo que haya participado de forma efectiva durante la emergencia del COVID-19.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 047-2020, publicado en el Diario Oficial “La Gaceta” el 01 de junio del año 2020, en el cual se autorizó al Poder Ejecutivo a emitir los acuerdos de nombramiento correspondientes al personal bajo la modalidad de contrato médico, sanitario, asistencial y de apoyo que haya participado de forma efectiva durante la emergencia del COVID-19.
 
 CONSIDERANDO: Que, para el cumplimiento del Decreto legislativo 047-2020 es necesario la implementación de un proceso expedito que considere criterios técnicos para tal fin.
 
@@ -47,9 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 118 numeral 2 de la Ley Genera
 
 CONSIDERANDO: Que el Artículo 41 de la Ley de Procedimiento Administrativo establece que corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°.
-
-043-2020 de fecha 6 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de reglamentos, contrataciones de bienes y servicios mediante la modalidad de contratación directa según los supuestos establecidos en la Ley de Contratación del Estado, autorizar al Procurador General de la República para ejecutar facultades de expresa mención en las demandas promovidas contra el Estado de Honduras, gastos de representación de funcionarios, préstamos, modificaciones presupuestarias y otros actos administrativos que deba firmar por Ley el Presidente de la República.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 043-2020 de fecha 6 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de reglamentos, contrataciones de bienes y servicios mediante la modalidad de contratación directa según los supuestos establecidos en la Ley de Contratación del Estado, autorizar al Procurador General de la República para ejecutar facultades de expresa mención en las demandas promovidas contra el Estado de Honduras, gastos de representación de funcionarios, préstamos, modificaciones presupuestarias y otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
 POR TANTO:
 
@@ -67,9 +63,7 @@ Artículo 1. El presente Reglamento tiene como finalidad la regulación del proc
 
 #### Artículo 2
 
-Artículo 2. El presente Reglamento establece las condiciones de selección y nombramiento del personal que forma parte de las instituciones prestadoras del servicio de la salud dependientes del Gobierno Central y que han venido desempeñándose en las diferentes áreas en primera línea durante la emergencia sanitaria nacional decretada, específicamente detalladas en el Decreto Legislativo No.
-
-47-2020, como ser la Secretaría de Estado en el Despacho de Salud (SESAL), TELEMEDICINA y demás instituciones del Gobierno de la República prestadoras de dicho servicio, incluyendo al Sistema Nacional de Emergencia (911), la Secretaría de Estado en los Despachos de Gestión de Riesgo y Contingencias Nacionales (COPECO) y los que forman parte del Proyecto “CODIGO VERDE MÁS”.
+Artículo 2. El presente Reglamento establece las condiciones de selección y nombramiento del personal que forma parte de las instituciones prestadoras del servicio de la salud dependientes del Gobierno Central y que han venido desempeñándose en las diferentes áreas en primera línea durante la emergencia sanitaria nacional decretada, específicamente detalladas en el Decreto Legislativo No. 47-2020, como ser la Secretaría de Estado en el Despacho de Salud (SESAL), TELEMEDICINA y demás instituciones del Gobierno de la República prestadoras de dicho servicio, incluyendo al Sistema Nacional de Emergencia (911), la Secretaría de Estado en los Despachos de Gestión de Riesgo y Contingencias Nacionales (COPECO) y los que forman parte del Proyecto “CODIGO VERDE MÁS”.
 
 #### Artículo 3
 
@@ -179,13 +173,13 @@ CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACIÓN
 
 CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 059-2019 se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170- 2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
 
-CONSIDERANDO: Que mediante Acuerdo No.579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 199 numeral 2); 6) y 8) establece entre otras, las atribuciones del Director Ejecutivo de la Administración Aduanera, como ser: Aprobar las políticas institucionales, aprobar los acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones; así como los relacionados con la implementación de los reglamentos de la materia tributaria y aduanera, según corresponda; y, elaborar el presupuesto anual dentro del techo presupuestario asignado y remitirlo a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para su incorporación en el Presupuesto General de Ingresos y Egresos de la República.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprueba el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras.
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprueba el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que de conformidad al Artículo 63 del Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; se determina que la Administración Aduanera conforme a la disponibilidad presupuestaria podrá otorgar un bono de incentivos por mejor desempeño de cumplimiento de metas de recaudación tomando en consideración todos aquellos aspectos que considere necesario la máxima autoridad de la institución.
 
@@ -195,7 +189,7 @@ CONSIDERANDO: Que con base en los estudios económicos referidos, la Administrac
 
 POR TANTO:
 
-En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos 128, 129 y 321 de la Constitución de la República; 195, 197 y 199 del Código Tributario; Decreto 170-2016; 116 y 118 de Ley General de la Administración Pública; 63 Régimen de Carrera de los Funcionarios y Servidores de la Carrera Administrativa Aduanera; Decreto Ejecutivo PCM-059-2019; Decreto Ejecutivo PCM-109-2020; Decreto Ejecutivo PCM- 112-2020; Decreto Ejecutivo PCM-116-2020; Acuerdo ADUANAS-005-2020.
+En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos 128, 129 y 321 de la Constitución de la República; 195, 197 y 199 del Código Tributario; Decreto 170-2016; 116 y 118 de Ley General de la Administración Pública; 63 Régimen de Carrera de los Funcionarios y Servidores de la Carrera Administrativa Aduanera; Decreto Ejecutivo PCM-059-2019; Decreto Ejecutivo PCM-109-2020; Decreto Ejecutivo PCM-112-2020; Decreto Ejecutivo PCM-116-2020; Acuerdo ADUANAS-005-2020.
 
 ACUERDA:
 

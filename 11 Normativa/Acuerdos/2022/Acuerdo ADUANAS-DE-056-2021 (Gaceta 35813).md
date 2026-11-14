@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Nos. ADUANAS-DE-056-2021, 057-2021, 058-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220104-35813/download"
 extraido: "2026-11-14"
-huella: "c49002233370a799"
+huella: "525d183f32049b48"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-056-2021
@@ -39,13 +39,11 @@ CONSIDERANDO: Que de conformidad al artículo 4, párrafo segundo de la Ley de P
 
 CONSIDERANDO: Que la Ley de Simplificación Administrativa tiene como objetivos específicos en el Artículo 2, el de clarificar y disminuir en lo posible jerarquías o líneas de responsabilidad entre quienes, de conformidad con la ley, intervienen en la prestación de servicios con facultades de autorizar, controlar y operar, para que no se demore ni entorpezca la toma de decisiones y reducir la multiplicidad de unidades ejecutoras de servicios administrativos y de apoyo.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-040-2020, el Director Ejecutivo de la Administración Aduanera de Honduras delega las facultades y atribuciones del Director Ejecutivo establecidas en el artículo 199 del Decreto 170-2016 que contiene el Código Tributario vigente, en su respectivo ámbito de competencias, a la Abogada DORIS ALICIA MADRID LEZAMA, nombrada en el cargo de SUBDIRECTORA DE LA ADMINISTRACIÓN ADUANERA DE HONDURAS, mediante ACUERDO No.
-
-580-2019, de fecha 14 de noviembre de 2019, de manera temporal durante la ausencia del Director Ejecutivo por motivos de salud o de viaje.
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-040-2020, el Director Ejecutivo de la Administración Aduanera de Honduras delega las facultades y atribuciones del Director Ejecutivo establecidas en el artículo 199 del Decreto 170-2016 que contiene el Código Tributario vigente, en su respectivo ámbito de competencias, a la Abogada DORIS ALICIA MADRID LEZAMA, nombrada en el cargo de SUBDIRECTORA DE LA ADMINISTRACIÓN ADUANERA DE HONDURAS, mediante ACUERDO No. 580-2019, de fecha 14 de noviembre de 2019, de manera temporal durante la ausencia del Director Ejecutivo por motivos de salud o de viaje.
 
 POR TANTO
 
-En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 059-2019.
+En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-059-2019.
 
 La Directora Ejecutiva, por Ley de la Administración Aduanera de Honduras en pleno uso de sus facultades,
 

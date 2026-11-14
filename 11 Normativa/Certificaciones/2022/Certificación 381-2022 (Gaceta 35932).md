@@ -11,7 +11,7 @@ paginas: "A. 37 - 44"
 sumario: "Certificación 381-2022 del AcuerdoNo. 02-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220525-35932/download"
 extraido: "2026-11-14"
-huella: "478f35363d9da7dd"
+huella: "10ec03238c7339f7"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN 381-2022
@@ -27,7 +27,7 @@ huella: "478f35363d9da7dd"
 
 ## Texto
 
-La infrascrita, Secretaria General por Ley del Consejo Nacional Electoral por este medio. CERTIFICA. La RESOLUCIÓN tomada por unanimidad, en el punto VII (Asunto Declaratoria de Elecciones en el Nivel Electivo de Corporación Municipal de Duyure, Departamento de Choluteca y en el Municipio de Wampusirpi, Departamento de Gracias a Dios; Rectificación de la Declaratoria de Elecciones en el Municipio de San Lucas, Departamento de El Paraíso) numeral uno (01) del Acta Número 17- 2022, correspondiente a la Sesión celebrada por el Pleno de este Organismo Electoral el día martes veinticuatro (24) de mayo de dos mil veintidós (2022), que literalmente dice: “El Pleno de Consejeros, emite el Acuerdo siguiente: ACUERDO No. 02-2022 DECLARATORIA DE ELECCIONES EN EL NIVEL ELECTIVO DE CORPORACIÓN MUNICIPAL DE DUYURE, DEPARTAMENTO DE CHOLUTECA Y EN EL MUNICIPIO DE WAMPUSIRPI, DEPARTAMENTO DE GRACIAS A DIOS; RECTIFICACIÓN DE LA DECLARATORIA DE ELECCIONES EN EL MUNICIPIO DE SAN LUCAS, DEPARTAMENTO DE EL PARAÍSO, CELEBRADAS EL DOMINGO QUINCE (15) DE MAYO DE DOS MIL VEINTIDÓS (2022).
+La infrascrita, Secretaria General por Ley del Consejo Nacional Electoral por este medio. CERTIFICA. La RESOLUCIÓN tomada por unanimidad, en el punto VII (Asunto Declaratoria de Elecciones en el Nivel Electivo de Corporación Municipal de Duyure, Departamento de Choluteca y en el Municipio de Wampusirpi, Departamento de Gracias a Dios; Rectificación de la Declaratoria de Elecciones en el Municipio de San Lucas, Departamento de El Paraíso) numeral uno (01) del Acta Número 17-2022, correspondiente a la Sesión celebrada por el Pleno de este Organismo Electoral el día martes veinticuatro (24) de mayo de dos mil veintidós (2022), que literalmente dice: “El Pleno de Consejeros, emite el Acuerdo siguiente: ACUERDO No. 02-2022 DECLARATORIA DE ELECCIONES EN EL NIVEL ELECTIVO DE CORPORACIÓN MUNICIPAL DE DUYURE, DEPARTAMENTO DE CHOLUTECA Y EN EL MUNICIPIO DE WAMPUSIRPI, DEPARTAMENTO DE GRACIAS A DIOS; RECTIFICACIÓN DE LA DECLARATORIA DE ELECCIONES EN EL MUNICIPIO DE SAN LUCAS, DEPARTAMENTO DE EL PARAÍSO, CELEBRADAS EL DOMINGO QUINCE (15) DE MAYO DE DOS MIL VEINTIDÓS (2022).
 
 El Pleno del Consejo Nacional Electoral, en el marco de sus atribuciones establecidas expresamente en el artículo 21 de la Ley Electoral de Honduras, para hacer la integración y declaratoria de los candidatos y candidatas electas.
 
@@ -97,7 +97,7 @@ EL CONSEJO NACIONAL ELECTORAL, en uso de sus facultades y en aplicación de los 
 
 ACUERDA:
 
-Por mayoría de votos con el Voto Razonado del Consejero Presidente Kelvin Aguirre quien se pronuncia en los mismos términos de las Resoluciones No. 1241-2021 y No. CNE-SG- 71-2021-EG de la Corporación Municipal en el Municipio de Duyure, Departamento de Choluteca, así como la Resolución No. 06-2022, y el Auto Motivado Resolutivo de fecha seis de abril de dos mil veintidós; de la Corporación Municipal del Municipio de San Lucas, Departamento de El Paraíso, Emitir la Declaratoria de Elecciones en dichos Municipios. Por Unanimidad de Votos, Emitir la Declaratoria de Elecciones en el Nivel Electivo de Corporación Municipal en el Municipio Wampusirpi, Departamento Gracias a Dios, para el período 2022-2026, de la manera siguiente:
+Por mayoría de votos con el Voto Razonado del Consejero Presidente Kelvin Aguirre quien se pronuncia en los mismos términos de las Resoluciones No. 1241-2021 y No. CNE-SG-71-2021-EG de la Corporación Municipal en el Municipio de Duyure, Departamento de Choluteca, así como la Resolución No. 06-2022, y el Auto Motivado Resolutivo de fecha seis de abril de dos mil veintidós; de la Corporación Municipal del Municipio de San Lucas, Departamento de El Paraíso, Emitir la Declaratoria de Elecciones en dichos Municipios. Por Unanimidad de Votos, Emitir la Declaratoria de Elecciones en el Nivel Electivo de Corporación Municipal en el Municipio Wampusirpi, Departamento Gracias a Dios, para el período 2022-2026, de la manera siguiente:
 
 PRIMERO: Declarar electos en el cargo de Miembros de la Corporación Municipal del Municipio de Duyure, Departamento de Choluteca, a los ciudadanos siguientes:
 

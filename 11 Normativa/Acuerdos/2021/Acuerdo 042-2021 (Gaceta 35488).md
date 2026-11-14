@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210115-35488/download"
 extraido: "2026-11-14"
-huella: "e3476496f4d87d1b"
+huella: "1e257b62198d4dbc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 042-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que con el objeto de agilizar la administración Pública los Secr
 
 CONSIDERANDO: Que la ley General de la Administración Pública establece que los Subsecretarios de Estado por un acto de delegación del señor Secretario de Estado del rarno podrán conocer y resolver sobre asuntos determinados o específicos.
 
-CONSIDERANDO: Que mediante Acuerdo No. 126- 2019 del 18 de noviembre del año 2019, el Presidente Constitucional de la República en uso de sus facultades de que se encuentra investido nombró al Ciudadano DAVID ANTONIO ALVARADO HERNÁNDEZ, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
+CONSIDERANDO: Que mediante Acuerdo No. 126-2019 del 18 de noviembre del año 2019, el Presidente Constitucional de la República en uso de sus facultades de que se encuentra investido nombró al Ciudadano DAVID ANTONIO ALVARADO HERNÁNDEZ, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
 
 POR TANTO.
 

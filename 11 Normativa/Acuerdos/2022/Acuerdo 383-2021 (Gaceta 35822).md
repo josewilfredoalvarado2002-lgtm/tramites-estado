@@ -11,7 +11,7 @@ paginas: "A. 13"
 sumario: "Acuerdos Nos. 383-2021, 384-2021, 385-2021, 434-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220114-35822/download"
 extraido: "2026-11-14"
-huella: "f8d5d9652288f22f"
+huella: "1a61543cf94b4e18"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 383-2021
@@ -27,7 +27,7 @@ huella: "f8d5d9652288f22f"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presi­ dente de la República mediante Acuerdo Ejecutivo No. 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los Artículos 235 y 245 atribuciones 5 y 11 de la Constitu­ ción de la República, 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presi­ dente de la República mediante Acuerdo Ejecutivo No. 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los Artículos 235 y 245 atribuciones 5 y 11 de la Constitu­ ción de la República, 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

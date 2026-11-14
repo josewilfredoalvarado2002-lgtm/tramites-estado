@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251217-37021/download"
 extraido: "2026-11-09"
-huella: "08929eff9b178793"
+huella: "b017f4b31317f29c"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -47,7 +47,7 @@ El Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas 
 
 ACUERDA
 
-PRIMERO: 1) Derogar el Acuerdo 029-2022, publicado en el Diario Oficial La Gaceta No.36,000 con fecha 12 de agosto del año 2022; 2) Derogar la Adenda No.1 del Acuerdo 029- 2022 publicada en el Diario Oficial La Gaceta No. 36,071 en fecha 8 de noviembre del año dos mil veintidós.
+PRIMERO: 1) Derogar el Acuerdo 029-2022, publicado en el Diario Oficial La Gaceta No. 36,000 con fecha 12 de agosto del año 2022; 2) Derogar la Adenda No. 1 del Acuerdo 029-2022 publicada en el Diario Oficial La Gaceta No. 36,071 en fecha 8 de noviembre del año dos mil veintidós.
 
 SEGUNDO: Aprobar y oficializar en todas y cada una de sus partes el “REGLAMENTO PARA LA APROBACIÓN Y EMISIÓN DE LICENCIAS NO COMERCIALES, PARA EL APROVECHAMIENTO FORESTAL CON FINES DE USO DOMÉSTICO”, que literalmente dice:
 

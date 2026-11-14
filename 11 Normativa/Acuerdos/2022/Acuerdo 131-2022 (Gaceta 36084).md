@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 131-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221123-36084/download"
 extraido: "2026-11-14"
-huella: "ddd2c7fb38c25c89"
+huella: "41ccb554d56dc96d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 131-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que es competencia de los Secretarios de Estado, emitir los acuerd
 
 CONSIDERANDO: Que dentro de las competencias establecidas en el Artículo 36 de la Ley General de la Administración Pública, los Secretarios de Estado pueden delegar en los funcionarios y empleados, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos, la firma de ciertos documentos.
 
-CONSIDERANDO: Que para efectos de exportación de maíz comprendidas en las fracciones arancelarias 1005.90.20.00 y 1005.90.30.00 los exportadores deberán contar con licencia de exportación valida y vigente, emitida por la Subsecretaría de Integración Económica y Comercio Exterior de la Secretaría de Estado en el Despacho de Desarrollo Económico y sus dependencias abajo descritas, la cual será solicitada con todos los requisitos establecidos en el Acuerdo Ministerial No. 127- 2022 del 09 de noviembre de 2022.
+CONSIDERANDO: Que para efectos de exportación de maíz comprendidas en las fracciones arancelarias 1005.90.20.00 y 1005.90.30.00 los exportadores deberán contar con licencia de exportación valida y vigente, emitida por la Subsecretaría de Integración Económica y Comercio Exterior de la Secretaría de Estado en el Despacho de Desarrollo Económico y sus dependencias abajo descritas, la cual será solicitada con todos los requisitos establecidos en el Acuerdo Ministerial No. 127-2022 del 09 de noviembre de 2022.
 
 POR TANTO:
 

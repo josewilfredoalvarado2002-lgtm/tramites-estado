@@ -11,7 +11,7 @@ paginas: "A. 54 - 56"
 sumario: "Acuerdos Nos. 070-2025, 071-2025, 073-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250819-36920/download"
 extraido: "2026-11-09"
-huella: "e3370207a41aaf78"
+huella: "e7e2fef434a6bc33"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 073-2025
@@ -43,7 +43,7 @@ CONSIDERANDO: Que, para cumplir con su mandato de presencia a nivel nacional y c
 
 POR TANTO:
 
-El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) en uso de sus facultades y con fundamentado en los artículos 1, 127, 247 de la Constitución de la República; Artículos 1, 14, 10, 17, 18 (numerales 1, 2, 3, 26 y 27), de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículo 11 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre ; 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
+El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) en uso de sus facultades y con fundamentado en los artículos 1, 127, 247 de la Constitución de la República; Artículos 1, 14, 10, 17, 18 (numerales 1, 2, 3, 26 y 27), de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículo 11 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; 122 de la Ley General de la Administración Pública; artículos 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
 
 Artículos 1, 2, 3 de la Ley de Simplificación Administrativa.
 

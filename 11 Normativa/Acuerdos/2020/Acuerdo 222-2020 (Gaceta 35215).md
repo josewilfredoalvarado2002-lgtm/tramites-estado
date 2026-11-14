@@ -11,7 +11,7 @@ paginas: "A. 1 - 71"
 sumario: "Acuerdos Nos. 222-2020, 231-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200401-35215/download"
 extraido: "2026-11-14"
-huella: "4e7af9d9caafdfcb"
+huella: "bfa24130a4358b7f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 222-2020
@@ -33,13 +33,13 @@ CONSIDERANDO: Que el Artículo 247 de la Constitución de la República, estable
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 351, establece que el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el Artículo 15 literal e) de la Ley del Impuesto Sobre Ventas, contenida en el Decreto No. 24 del 20 de diciembre de 1963 reformado mediante el Decreto No.119-2016 publicado en el Diario Oficial “La Gaceta” el 25 de agosto de 2016, establece que están exentos del pago del Impuesto Sobre Ventas, la materia prima y herramientas para la producción agrícola, agroindustrial, especies mayores y menores, avícolas y peces; productos farmacéuticos para uso veterinario, fertilizantes, abono, fungicidas, herbicidas, insecticidas, pesticidas, raticidas y demás antirroedores; animales vivos; medios de reproducción animal; semilla y material vegetativo para la siembra y propagación sexual y asexual; materia prima para la elaboración de alimentos balanceados y los alimentos balanceados en su presentación final, exceptuando los destinados para mascotas.
+CONSIDERANDO: Que el Artículo 15 literal e) de la Ley del Impuesto Sobre Ventas, contenida en el Decreto No. 24 del 20 de diciembre de 1963 reformado mediante el Decreto No. 119-2016 publicado en el Diario Oficial “La Gaceta” el 25 de agosto de 2016, establece que están exentos del pago del Impuesto Sobre Ventas, la materia prima y herramientas para la producción agrícola, agroindustrial, especies mayores y menores, avícolas y peces; productos farmacéuticos para uso veterinario, fertilizantes, abono, fungicidas, herbicidas, insecticidas, pesticidas, raticidas y demás antirroedores; animales vivos; medios de reproducción animal; semilla y material vegetativo para la siembra y propagación sexual y asexual; materia prima para la elaboración de alimentos balanceados y los alimentos balanceados en su presentación final, exceptuando los destinados para mascotas.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No.119- 2016 publicado en el Diario Oficial “La Gaceta” el 25 de agosto de 2016, establece que se exonera del pago del Impuesto Sobre Ventas a la persona natural o jurídica en la importación o compra local de maquinaria, equipo y sus implementos, sus accesorios y repuestos, equipos y materiales de riego, sistema de riego para agricultura, material de limpieza industrial, empaque y envases, que intervienen directamente en el producto agroindustrial final comercializable, incluyendo los que se utilicen en la producción agroindustrial, especies mayores y menores como ser bovinos, porcinos, acuícolas, avícolas y de peces, de acuerdo con la capacidad económica del obligado tributario.
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 119-2016 publicado en el Diario Oficial “La Gaceta” el 25 de agosto de 2016, establece que se exonera del pago del Impuesto Sobre Ventas a la persona natural o jurídica en la importación o compra local de maquinaria, equipo y sus implementos, sus accesorios y repuestos, equipos y materiales de riego, sistema de riego para agricultura, material de limpieza industrial, empaque y envases, que intervienen directamente en el producto agroindustrial final comercializable, incluyendo los que se utilicen en la producción agroindustrial, especies mayores y menores como ser bovinos, porcinos, acuícolas, avícolas y de peces, de acuerdo con la capacidad económica del obligado tributario.
 
-CONSIDERANDO: Que el Artículo 5 del Decreto No.119- 2016 publicado en el Diario Oficial “La Gaceta” de fecha 25 de agosto de 2016, ordena a la Secretaría de Estado en el Despacho de Finanzas, para que en coordinación con la Administración Tributaria, elabore las instrucciones técnicas tributarias aduaneras correspondientes en la aplicación del Artículo 15 de la Ley del Impuesto Sobre Ventas y sus reformas, dentro de los sesenta (60) días hábiles siguientes a la fecha de publicación del Decreto en referencia.
+CONSIDERANDO: Que el Artículo 5 del Decreto No. 119-2016 publicado en el Diario Oficial “La Gaceta” de fecha 25 de agosto de 2016, ordena a la Secretaría de Estado en el Despacho de Finanzas, para que en coordinación con la Administración Tributaria, elabore las instrucciones técnicas tributarias aduaneras correspondientes en la aplicación del Artículo 15 de la Ley del Impuesto Sobre Ventas y sus reformas, dentro de los sesenta (60) días hábiles siguientes a la fecha de publicación del Decreto en referencia.
 
-CONSIDERANDO: Que el Artículo 28 de la Ley de Eficiencia en los Ingresos y el Gasto Público contenida en el Decreto No.113-2011 publicado en el Diario Oficial La Gaceta el 08 de julio de 2011, en el Artículo 28 primer párrafo establece que la Secretaría de Estado en el Despacho de Finanzas conforme a Ley autorizará, las exoneraciones, exenciones y otras franquicias fiscales otorgadas por leyes especiales presentes y futuras previo dictamen facultativo de las Secretarías de Estados y otras entidades competentes sin que estos dictámenes u opiniones tengan carácter de vinculante.
+CONSIDERANDO: Que el Artículo 28 de la Ley de Eficiencia en los Ingresos y el Gasto Público contenida en el Decreto No. 113-2011 publicado en el Diario Oficial La Gaceta el 08 de julio de 2011, en el Artículo 28 primer párrafo establece que la Secretaría de Estado en el Despacho de Finanzas conforme a Ley autorizará, las exoneraciones, exenciones y otras franquicias fiscales otorgadas por leyes especiales presentes y futuras previo dictamen facultativo de las Secretarías de Estados y otras entidades competentes sin que estos dictámenes u opiniones tengan carácter de vinculante.
 
 CONSIDERANDO: Que de conformidad con el Artículo 18 numeral 3 del Decreto 170-2016 publicado en el Diario Oficial La Gaceta el 28 de diciembre de 2016 y vigente a partir del 1 de enero de 2017, contentivo del Código Tributario, establece que las exenciones y exoneraciones contenidas en leyes especiales se deben regir por el marco jurídico que las regula.
 
@@ -49,13 +49,13 @@ CONSIDERANDO: Que de conformidad al Numeral 15 del Artículo 29 de la Ley de Adm
 
 POR TANTO
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 16, 17, 18, 19 y 20 del Código Tributario; Artículos 15 literal e) de la Ley del Impuesto Sobre Ventas y sus reformas; Artículo 1, 2 y 5 del Decreto No.119-2016 y su Fe de Errata; Artículo 24 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Artículo 15 de la Ley de Responsabilidad Fiscal; Artículo 2 del Reglamento de la Ley de Responsabilidad Fiscal; Artículo 28 de la Ley de Eficiencia en los Ingresos y el Gasto Público; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas y los Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas.
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 16, 17, 18, 19 y 20 del Código Tributario; Artículos 15 literal e) de la Ley del Impuesto Sobre Ventas y sus reformas; Artículo 1, 2 y 5 del Decreto No. 119-2016 y su Fe de Errata; Artículo 24 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Artículo 15 de la Ley de Responsabilidad Fiscal; Artículo 2 del Reglamento de la Ley de Responsabilidad Fiscal; Artículo 28 de la Ley de Eficiencia en los Ingresos y el Gasto Público; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas y los Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas.
 
 ACUERDA:
 
 INSTRUCTIVO TRIBUTARIO ADUANERO PARA
 
-LA APLICACIÓN DEL DECRETO No.119-2016
+LA APLICACIÓN DEL DECRETO No. 119-2016
 
 TÍTULO I DISPOSICIONES GENERALES
 
@@ -63,7 +63,7 @@ CAPÍTULO ÚNICO DEL OBJETO Y AMBITO DE APLICACIÓN
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO: El presente Instructivo Tributario Aduanero tiene por objeto desarrollar las disposiciones contenidas en el Decreto No.119-2016 publicado en el Diario Oficial “La Gaceta” del 25 de agosto del 2016 y su Fe de Errata publicada en el Diario Oficial “La Gaceta” el 02 de septiembre del 2016, el cual contiene:
+ARTÍCULO 1.- OBJETO: El presente Instructivo Tributario Aduanero tiene por objeto desarrollar las disposiciones contenidas en el Decreto No. 119-2016 publicado en el Diario Oficial “La Gaceta” del 25 de agosto del 2016 y su Fe de Errata publicada en el Diario Oficial “La Gaceta” el 02 de septiembre del 2016, el cual contiene:
 
 a) Disposiciones aplicables a la reforma del Artículo 15 literal e) de la Ley del Impuesto Sobre Ventas; y,
 
@@ -71,7 +71,7 @@ b) Disposiciones aplicables a la Exoneración del Impuesto Sobre Ventas para el 
 
 #### Artículo 2
 
-ARTÍCULO 2.- AMBITO DE APLICACIÓN: Las normas contenidas en el presente Instructivo son de orden público, observancia obligatoria y de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones regulados en el Decreto No.119-2016 y su Fe de Errata.
+ARTÍCULO 2.- AMBITO DE APLICACIÓN: Las normas contenidas en el presente Instructivo son de orden público, observancia obligatoria y de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones regulados en el Decreto No. 119-2016 y su Fe de Errata.
 
 TÍTULO II DISPOSICIONES APLICABLES AL ARTÍCULO 15, LITERAL e) DE LA LEY DEL IMPUESTO SOBRE VENTAS
 
@@ -189,7 +189,7 @@ CAPÍTULO II DISPOSICIONES APLICABLES A LAS PERSONAS NATURALES
 
 ARTÍCULO 4.- COMERCIANTES INDIVIDUALES:
 
-Para efectos de la aplicación de las disposiciones contenidas en el presente instructivo se debe considerar a los Comerciantes Individuales como “Personas Naturales”, conforme a lo establecido en el Artículo 29 de la Ley del Impuesto Sobre Ventas y el Artículo 1 del Decreto No.135-99 publicado en el Diario Oficial La Gaceta de fecha 08 de octubre de 1999.
+Para efectos de la aplicación de las disposiciones contenidas en el presente instructivo se debe considerar a los Comerciantes Individuales como “Personas Naturales”, conforme a lo establecido en el Artículo 29 de la Ley del Impuesto Sobre Ventas y el Artículo 1 del Decreto No. 135-99 publicado en el Diario Oficial La Gaceta de fecha 08 de octubre de 1999.
 
 #### Artículo 5
 
@@ -197,7 +197,7 @@ ARTÍCULO 5.- EXCEPCIÓN REGISTRO DE
 
 EXONERADOS: Las personas naturales para gozar del beneficio de exención NO DEBEN INSCRIBIRSE en el Registro de Exonerados que administra la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Control de Franquicias Aduaneras.
 
-CAPÍTULO III DISPOSICIONES APLICABLES A LAS PERSONAS JURÍDICAS A R T Í C U L O 6 . - R E Q U I S I T O S E N L A S IMPORTACIONES: En las importaciones de los bienes exentos las personas jurídicas deben presentar la documentación conforme a la legislación aduanera aplicable o cualquier otro documento que de conformidad a Ley se debe cumplir.
+CAPÍTULO III DISPOSICIONES APLICABLES A LAS PERSONAS JURÍDICAS ARTÍCULO 6 . - REQUISITOS EN LAS IMPORTACIONES: En las importaciones de los bienes exentos las personas jurídicas deben presentar la documentación conforme a la legislación aduanera aplicable o cualquier otro documento que de conformidad a Ley se debe cumplir.
 
 #### Artículo 7
 
@@ -247,15 +247,15 @@ ARTÍCULO 19.- OBLIGACIONES CONEXAS: La exención tributaria o aduanera no exime
 
 TÍTULO III DIPOSICIONES APLICABLES A LAS EXONERACIONES DEL ARTÍCULO 2 DEL
 
-DECRETO No.119-2016
+DECRETO No. 119-2016
 
 CAPÍTULO I DE LAS DEFINICIONES APLICABLES AL
 
-ARTÍCULO 2 DEL DECRETO No.119-2016
+ARTÍCULO 2 DEL DECRETO No. 119-2016
 
 #### Artículo 20
 
-ARTÍCULO 20.- DEFINICIONES: Para la aplicación de la exoneración del pago del Impuesto Sobre Ventas de bienes en la importación o compra local establecida en el Artículo 2 del Decreto No.119-2016 publicado en el Diario Oficial La Gaceta en fecha 25 de agosto de 2016, se definen los términos siguientes:
+ARTÍCULO 20.- DEFINICIONES: Para la aplicación de la exoneración del pago del Impuesto Sobre Ventas de bienes en la importación o compra local establecida en el Artículo 2 del Decreto No. 119-2016 publicado en el Diario Oficial La Gaceta en fecha 25 de agosto de 2016, se definen los términos siguientes:
 
 1. ACCESORIOS: Son aquellos elementos que forman parte complementaria del sistema de funcionamiento de una máquina permitiéndole desarrollar su función determinada, teniendo el mismo que ser compatible por medio de una conexión electrónica, mecánica o manual.
 
@@ -419,21 +419,21 @@ ARTÍCULO 33.- MATERIAL DE EMPAQUE Y ENVASES. Se exonera a las personas naturale
 
 ARTÍCULO 34.- EXONERACIÓN DE OTROS BIENES.
 
-Los bienes que no estén descritos en los listados expresados en el presente capítulo, y que conforme a lo establecido en el Artículo 2 del Decreto No.119-2016 corresponde una exoneración, dicho beneficio será reconocido conforme a las pre-certificaciones de bienes emitidas por la Secretaría de Agricultura y Ganadería (SAG) para el sector agroindustrial.
+Los bienes que no estén descritos en los listados expresados en el presente capítulo, y que conforme a lo establecido en el Artículo 2 del Decreto No. 119-2016 corresponde una exoneración, dicho beneficio será reconocido conforme a las pre-certificaciones de bienes emitidas por la Secretaría de Agricultura y Ganadería (SAG) para el sector agroindustrial.
 
 CAPÍTULO V DOCUMENTACIÓN EN LAS TRANSACCIONES Y MEDIO DE CONTROL
 
 #### Artículo 35
 
-ARTÍCULO 35.- COMPROBANTE FISCAL: La venta de bienes a personas exoneradas conforme el Artículo 2 del Decreto No.119-2016 debe documentarse con una “factura” de conformidad a lo establecido en el Reglamento de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas y sus reformas, sin el cobro del Impuesto Sobre Ventas por tratarse de una venta exonerada del pago de dicho Impuesto.
+ARTÍCULO 35.- COMPROBANTE FISCAL: La venta de bienes a personas exoneradas conforme el Artículo 2 del Decreto No. 119-2016 debe documentarse con una “factura” de conformidad a lo establecido en el Reglamento de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas y sus reformas, sin el cobro del Impuesto Sobre Ventas por tratarse de una venta exonerada del pago de dicho Impuesto.
 
 #### Artículo 36
 
-ARTÍCULO 36.- PROHIBICIÓN: Los comercializadores de bienes en el mercado nacional únicamente podrán vender sin el cobro de Impuesto Sobre Ventas a personas legalmente exoneradas conforme al Artículo 2 del Decreto No.119-2016, condición que verificarán con el Número Identificativo que emite la Secretaría de Agricultura y Ganadería (SAG) en el caso de las personas naturales y la Constancia del Registro de Exonerados en el caso de las personas jurídicas.
+ARTÍCULO 36.- PROHIBICIÓN: Los comercializadores de bienes en el mercado nacional únicamente podrán vender sin el cobro de Impuesto Sobre Ventas a personas legalmente exoneradas conforme al Artículo 2 del Decreto No. 119-2016, condición que verificarán con el Número Identificativo que emite la Secretaría de Agricultura y Ganadería (SAG) en el caso de las personas naturales y la Constancia del Registro de Exonerados en el caso de las personas jurídicas.
 
 #### Artículo 37
 
-ARTÍCULO 37.- INFORME: Los importadores y comercializadores de bienes en el mercado nacional que vendan sin el cobro de Impuesto Sobre Ventas a personas legalmente exoneradas conforme al Artículo 2 del Decreto No.119-2016, dentro de los primeros diez (10) días después de finalizar cada trimestre, deben presentar ante la Dirección General de Control de Franquicias Aduaneras (DGCFA) dependencia de la Secretaría de Estado en el Despacho de Finanzas un informe detallando lo siguiente:
+ARTÍCULO 37.- INFORME: Los importadores y comercializadores de bienes en el mercado nacional que vendan sin el cobro de Impuesto Sobre Ventas a personas legalmente exoneradas conforme al Artículo 2 del Decreto No. 119-2016, dentro de los primeros diez (10) días después de finalizar cada trimestre, deben presentar ante la Dirección General de Control de Franquicias Aduaneras (DGCFA) dependencia de la Secretaría de Estado en el Despacho de Finanzas un informe detallando lo siguiente:
 
 1. Número de la Declaración Única Centroamericana (DUCA) u otro documento aduanero equivalente;
 
@@ -473,7 +473,7 @@ TÍTULO IV DISPOSICIONES FINALES
 
 #### Artículo 44
 
-ARTÍCULO 44.- DEROGACIONES. Se derogan las instrucciones técnicas, tributarias y aduaneras relacionadas con la aplicación del Decreto No.119-2016 y su fe de errata contenidas en el Acuerdo No. 440-2016 publicado en el Diario Oficial La Gaceta el 11 de octubre de 2016, Acuerdo No. 469-A-2016 publicado en el Diario Oficial La Gaceta el 02 de noviembre de 2016, Acuerdo No. 490-2016 publicado en el Diario Oficial La Gaceta el 21 de noviembre de 2016, Acuerdo 700-2017 publicado en el Diario Oficial La Gaceta el 04 de enero de 2018, 01-2017 publicado en el Diario Oficial La Gaceta del 18 de enero de 2017, Acuerdo No.28-2017 publicado en el Diario Oficial La Gaceta el 06 de febrero de 2017, Acuerdo No. 257-A-2019 publicado en el Diario Oficial La Gaceta el 27 de abril de 2019.
+ARTÍCULO 44.- DEROGACIONES. Se derogan las instrucciones técnicas, tributarias y aduaneras relacionadas con la aplicación del Decreto No. 119-2016 y su fe de errata contenidas en el Acuerdo No. 440-2016 publicado en el Diario Oficial La Gaceta el 11 de octubre de 2016, Acuerdo No. 469-A-2016 publicado en el Diario Oficial La Gaceta el 02 de noviembre de 2016, Acuerdo No. 490-2016 publicado en el Diario Oficial La Gaceta el 21 de noviembre de 2016, Acuerdo 700-2017 publicado en el Diario Oficial La Gaceta el 04 de enero de 2018, 01-2017 publicado en el Diario Oficial La Gaceta del 18 de enero de 2017, Acuerdo No. 28-2017 publicado en el Diario Oficial La Gaceta el 06 de febrero de 2017, Acuerdo No. 257-A-2019 publicado en el Diario Oficial La Gaceta el 27 de abril de 2019.
 
 #### Artículo 45
 

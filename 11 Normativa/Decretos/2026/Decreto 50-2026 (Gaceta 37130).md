@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Decretos Nos. 50-2026, 68-2026, Resolución No. 3-2026-PLENO/CN, Fe de Errata"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260430-37130/download"
 extraido: "2026-11-09"
-huella: "e00165aa394ee38a"
+huella: "14c798597377101f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 50-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 333 de la Constitución de la República dispone también que la intervención del Estado en la economía tendrá por base el interés público y social y por límite el derecho y libertades reconocidas en la Constitución.
 
-CONSIDERANDO: Que mediante Decreto No.46-2022, publicado el 16 de mayo del 2022, el Estado de Honduras declara el servicio de la energía eléctrica como un bien público de seguridad nacional y un derecho humano de naturaleza económica y social.
+CONSIDERANDO: Que mediante Decreto No. 46-2022, publicado el 16 de mayo del 2022, el Estado de Honduras declara el servicio de la energía eléctrica como un bien público de seguridad nacional y un derecho humano de naturaleza económica y social.
 
 CONSIDERANDO: Que el suministro eléctrico es un servicio esencial para el desarrollo de una vida digna en la sociedad actual y para el desarrollo del país, lo cual implica que se debe garantizar su suministro, calidad, continuidad y su seguridad. Es deber del Estado tomar todas aquellas medidas que están encaminadas a asegurar el bienestar del pueblo, la economía de la nación y la continuidad de los servicios públicos.
 

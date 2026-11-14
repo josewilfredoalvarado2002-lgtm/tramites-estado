@@ -11,7 +11,7 @@ paginas: "A. 19 - 24"
 sumario: "Acuerdo Ministerial No. 118-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210602-35616/download"
 extraido: "2026-11-14"
-huella: "71ba20e38d730cd9"
+huella: "0ea19c0dfc5c20bf"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 118-2021
@@ -63,7 +63,7 @@ QUINTO: De conformidad a lo establecido en el Artículo 34 del Reglamento de Org
 
 SEXTO: Todo lo relacionado a contrataciones, traslados, licencias remuneradas y no remuneradas, ascensos, nombramientos, despidos y demás acciones relacionadas al manejo de personal debe ser aprobado en forma expresa por la Máxima Autoridad de la Secretaría de Estado en el Despacho de Desarrollo Económico.
 
-SÉPTIMO: Dejar sin valor y efecto el Acuerdo Ministerial No.060-2021 de fecha diez (10) de marzo del año dos mil veintiuno (2021).
+SÉPTIMO: Dejar sin valor y efecto el Acuerdo Ministerial No. 060-2021 de fecha diez (10) de marzo del año dos mil veintiuno (2021).
 
 OCTAVO: El presente Acuerdo entrará en vigor el día de su aprobación y deberá publicarse en el Diario Oficial “LA GACETA”.
 

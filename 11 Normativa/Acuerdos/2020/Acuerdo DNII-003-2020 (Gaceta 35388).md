@@ -8,10 +8,10 @@ gaceta_numero: 35388
 gaceta_fecha: "2020-10-01"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35388 (2020-10-01)|La Gaceta 35388]]"
 paginas: "A. 10 - 12"
-sumario: "Decreto No. 112-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIAAcuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020"
+sumario: "Decreto No. 112-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIA: Acuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201001-35388/download"
 extraido: "2026-11-14"
-huella: "f0e1036431bedd42"
+huella: "1a2ee897952ed182"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DNII-003-2020
@@ -23,7 +23,7 @@ huella: "f0e1036431bedd42"
 | Emisor | Dirección Nacional de Investigación e Inteligencia División de Seguridad Aeroportuaria |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35388 (2020-10-01)\|La Gaceta 35388]] del 2020-10-01 |
 | Páginas | A. 10 - 12 |
-| Según el sumario de La Gaceta | Decreto No. 112-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIAAcuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020 |
+| Según el sumario de La Gaceta | Decreto No. 112-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIA: Acuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020 |
 
 ## Texto
 
@@ -35,9 +35,7 @@ Que la Dirección Nacional de Investigación e Inteligencia, tiene como objeto d
 
 CONSIDERANDO:
 
-Que el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No.
-
-PCM-053-2014 de fecha veintidós
+Que el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha veintidós
 
 (22) de agosto de dos mil catorce (2014), publicado en “La Gaceta”, Diario Oficial de la República el días veinticinco (25) de agosto de dos mil catorce (2014), ratificó el Acuerdo No. DNII-008-2014 emitido por la Dirección Nacional de Investigación e Inteligencia (DNII) mediante el cual se creó la División de Seguridad Aeroportuaria (DSA) cuya misión es realizar operaciones especiales de vigilancia, control, inspección, registro e interdicción, con el propósito de identificar y combatir la comisión de delitos en las actividades aeroportuarias, así como, prevenir actos de interferencia ilícita e irregularidades en los procesos de la aviación civil nacional e internacional con el fin de neutralizar sus efectos sobre la seguridad del Estado y de las personas dentro del irrestricto respecto a la Ley y los Derechos Humanos.
 
@@ -47,7 +45,7 @@ Que el Estado de Honduras ha suscrito y ratificado el Convenio de Aviación Civi
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No. DNII- 002-2017 de fecha quince (15) de junio de dos mil diecisiete (2017), esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho (08) de junio de dos mil diecisiete (2017).
+Que mediante Acuerdo No. DNII-002-2017 de fecha quince (15) de junio de dos mil diecisiete (2017), esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho (08) de junio de dos mil diecisiete (2017).
 
 CONSIDERANDO:
 

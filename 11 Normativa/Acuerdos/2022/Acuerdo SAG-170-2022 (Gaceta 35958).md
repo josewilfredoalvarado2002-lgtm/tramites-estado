@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Nos. SAG-170-2022, 171-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220624-35958/download"
 extraido: "2026-11-14"
-huella: "aa4adcf65dfb036c"
+huella: "bf344c2095e330d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-170-2022
@@ -33,13 +33,11 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficie
 
 CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos entre la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), La Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), El Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo No.
-
-SAG-125-2022, establece en el Ordinal Segundo que en atención al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional, ratificado en el Ordinal Primero del presente Acto Administrativo, las compras a los productores nacionales realizadas por la Industria que corresponden al periodo de compra del primero
+CONSIDERANDO: Que el Acuerdo Ejecutivo No. SAG-125-2022, establece en el Ordinal Segundo que en atención al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional, ratificado en el Ordinal Primero del presente Acto Administrativo, las compras a los productores nacionales realizadas por la Industria que corresponden al periodo de compra del primero
 
 (01) de enero al treinta (30) de abril del año dos mil veintidós (2022), se considerarán validad para efecto de la emisión de los Certificados de Importación por parte de las instituciones de Gobierno competentes.
 
-CONSIDERANDO: Que el Numeral 1, Párrafo Segundo del Literal a), del Acuerdo Ejecutivo No. SAG-125-2022, determina: “A fin de dar continuidad con el proceso de compra del Ciclo Agrícola 2021-2022, serán incluidas en el Segundo Corte para efecto de las importaciones las compras efectuadas del 01 al 27 de enero de 2022, manteniendo las condiciones de la relación de compra/importación y precio, determinados en el Acuerdo Ejecutivo No.117-2020”. Asimismo, en el Numeral 12, del referido Acuerdo expresa: “La relación de compra/ importación de maíz blanco (1005.90.30.00.) será por un (1) quintal de maíz blanco comprado a nivel nacional derecho a importar dos (2) quintal de maíz blanco (1x2 QQ), esta relación estará vigente para el periodo comprendido del 28 de enero de 2022 al 31 agosto de 2023…”.
+CONSIDERANDO: Que el Numeral 1, Párrafo Segundo del Literal a), del Acuerdo Ejecutivo No. SAG-125-2022, determina: “A fin de dar continuidad con el proceso de compra del Ciclo Agrícola 2021-2022, serán incluidas en el Segundo Corte para efecto de las importaciones las compras efectuadas del 01 al 27 de enero de 2022, manteniendo las condiciones de la relación de compra/importación y precio, determinados en el Acuerdo Ejecutivo No. 117-2020”. Asimismo, en el Numeral 12, del referido Acuerdo expresa: “La relación de compra/ importación de maíz blanco (1005.90.30.00.) será por un (1) quintal de maíz blanco comprado a nivel nacional derecho a importar dos (2) quintal de maíz blanco (1x2 QQ), esta relación estará vigente para el periodo comprendido del 28 de enero de 2022 al 31 agosto de 2023…”.
 
 CONSIDERANDO: Que en la reunión sostenida el día 27 de mayo de 2022, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco de la cosecha 2021-2022 (Segundo Corte), que comprende las compras del 01 de Enero al 30 de abril del 2022, realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión de Supervisión del referido Convenio.
 

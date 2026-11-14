@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo de Delegación No. 001-PROASOL-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240127-36445/download"
 extraido: "2026-11-14"
-huella: "2907cd1cc67ac5c4"
+huella: "37a58d948d230ab6"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 001-PROASOL-2022
@@ -53,19 +53,19 @@ No obstante, la responsabilidad que se derivare de la emisión de los actos, ser
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-020-2022 en su Artículo 1 se crea el Programa de Acción Solidaria (PROASOL) como ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), con autonomía técnica-administrativa y financiera que tiene como mandato la atención social a personas encontradas en grupos vulnerables tales como: La niñez vulnerable en edad escolar, las personas en condición de indigencia viviendo en la calle, los migrantes retornados de manera forzada, las personas con discapacidad, los adultos mayores vulnerables, los desplazados y afectados por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc.; las personas con adicción a cualquier tipo de droga, las personas discriminadas y/o sin acceso a atención médica por adolecer enfermedades de efectos crónicos o contagiosos, los desplazados o víctimas de delitos producto de la violencia, personas discriminadas por pertenecer a la comunidad LGBTIQ+, las minorías étnicas discriminadas por tener raíces de pueblos originarios o afrodescendientes, los defensores de Derechos de Humanos y otros designados por la Política Pública de Protección Social del país.
 
-CONSIDERANDO: Que mediante Acuerdo No.004- PROASOL-2023, de fecha diecinueve (19) de julio del año dos mil veintitrés (2023), debidamente publicado en el Diario Oficial La Gaceta se aprueba la Estructura Organizativa del Programa de Acción Solidaria (PROASOL) en el cual se establecen las Atribuciones y Funciones de la Subdireccion Ejecutiva.
+CONSIDERANDO: Que mediante Acuerdo No. 004- PROASOL-2023, de fecha diecinueve (19) de julio del año dos mil veintitrés (2023), debidamente publicado en el Diario Oficial La Gaceta se aprueba la Estructura Organizativa del Programa de Acción Solidaria (PROASOL) en el cual se establecen las Atribuciones y Funciones de la Subdireccion Ejecutiva.
 
-CONSIDERANDO: Que en el Artículo 8 del Decreto Ejecutivo Número PCM-20-2022 de fecha 10 de agosto del dos mil veintidós, se adscribe al Programa de Acción Solidaria (PROASOL) en aplicación al Artículo 2 del Decreto Legislativo No.125-2016, del Programa Nacional de Alimentación Escolar en calidad de programa dependiente de la Secretaría de Estado en el Despacho de Desarrollo Social.
+CONSIDERANDO: Que en el Artículo 8 del Decreto Ejecutivo Número PCM-20-2022 de fecha 10 de agosto del dos mil veintidós, se adscribe al Programa de Acción Solidaria (PROASOL) en aplicación al Artículo 2 del Decreto Legislativo No. 125-2016, del Programa Nacional de Alimentación Escolar en calidad de programa dependiente de la Secretaría de Estado en el Despacho de Desarrollo Social.
 
 POR TANTO:
 
 En uso de las facultades que está investida y en aplicación de los Artículos 321 de la Constitución de la República;
 
-5,7,41,43,116 y 118 numeral 1 de la Ley General de la Administración Pública; Artículos 4, 5 y de la Ley de Procedimiento Administrativo; Artículos 1, 8 del Decreto Ejecutivo Número PCM-020-2022, Artículo 7 del Acuerdo No.004-PROASOL-2023 de fecha diecinueve de julio del año dos mil veintitrés.
+5,7,41,43,116 y 118 numeral 1 de la Ley General de la Administración Pública; Artículos 4, 5 y de la Ley de Procedimiento Administrativo; Artículos 1, 8 del Decreto Ejecutivo Número PCM-020-2022, Artículo 7 del Acuerdo No. 004-PROASOL-2023 de fecha diecinueve de julio del año dos mil veintitrés.
 
 ACUERDA:
 
-PRIMERO: Delegar en la ciudadana XENIA MARIA PINEDA RIVAS en su condición de SUBDIRECTORA del Programa de Accion Social (PROASOL) lo siguiente: 1. La Operatividad en la toma de decisiones y firma administrativas en las actuaciones del Programa Nacional de Alimentacion Escolar; 2. La Supervisición de proyectos específicos relacionados con el Programa Nacional de Alimentación Escolar, realizando los informes correspondientes en cada visita y enviando copia de los mismos a la Direccion Ejecutiva de PROASOL; 3. La gestión de recursos que esta comprendida dentro de los límites presupuestarios establecidos como ser: Firma de Autorización de Viáticos para el personal del Programa Nacional de Alimentacion Escolar, Autorizaciones para combustible para su personal de campo dentro de los límites establecidos, de acuerdo al presupuesto asignado y demás regulaciones vigentes; y , 4. Brindar los informes que correspondan de las activades realizadas conforme a las las atribuciones y funciones atribuidas mediante el Acuerdo No.004-PROASOL-2023, de fecha diecinueve de julio del año dos mil veintitré, y las delegadas en el presente acuerdo;
+PRIMERO: Delegar en la ciudadana XENIA MARIA PINEDA RIVAS en su condición de SUBDIRECTORA del Programa de Accion Social (PROASOL) lo siguiente: 1. La Operatividad en la toma de decisiones y firma administrativas en las actuaciones del Programa Nacional de Alimentacion Escolar; 2. La Supervisición de proyectos específicos relacionados con el Programa Nacional de Alimentación Escolar, realizando los informes correspondientes en cada visita y enviando copia de los mismos a la Direccion Ejecutiva de PROASOL; 3. La gestión de recursos que esta comprendida dentro de los límites presupuestarios establecidos como ser: Firma de Autorización de Viáticos para el personal del Programa Nacional de Alimentacion Escolar, Autorizaciones para combustible para su personal de campo dentro de los límites establecidos, de acuerdo al presupuesto asignado y demás regulaciones vigentes; y, 4. Brindar los informes que correspondan de las activades realizadas conforme a las las atribuciones y funciones atribuidas mediante el Acuerdo No. 004-PROASOL-2023, de fecha diecinueve de julio del año dos mil veintitré, y las delegadas en el presente acuerdo;
 
 5. La gestión de compra de suministros de bienes y servicios relacionados con el Programa Nacional de Alimentación Escolar y Gestión de Donaciones; 6. Será responsable del buen uso y manejo de la administración de los fondos en la compra de suministros, autorización de viáticos, autorizaciones de combustible, previendo la buena administración en el presupuesto del Programa de Alimentacion Escolar.
 
@@ -73,7 +73,7 @@ SEGUNDO: Las actuaciones delegadas comprenderán única y exclusivamente los gru
 
 TERCERO: El delegado es responsable ante la delegante y autoridades fiscalizadoras de las funciones delegadas y presentará al finalizar la delegación un informe detallado de los actos ejecutados.
 
-CUARTO: El órgano delegado será responsable de realizar sus actos bajo el espíritu estricto de la legalidad y emitir informes mensuales de la actividades asignadas mediante el Acuerdo No.004-PROASOL-2023 y delegadas en el presenteste Acuerdo por la Dirección Ejecutiva de PROASOL, así mismo deberá presentar informes de la liquidación final de los desembolsos ejecutados cada trimestre, al igual presentar informes de rendición de cuentas trimestales y anuales que corresponde en base a ley.
+CUARTO: El órgano delegado será responsable de realizar sus actos bajo el espíritu estricto de la legalidad y emitir informes mensuales de la actividades asignadas mediante el Acuerdo No. 004-PROASOL-2023 y delegadas en el presenteste Acuerdo por la Dirección Ejecutiva de PROASOL, así mismo deberá presentar informes de la liquidación final de los desembolsos ejecutados cada trimestre, al igual presentar informes de rendición de cuentas trimestales y anuales que corresponde en base a ley.
 
 QUINTO: Los actos delegados sin perjuicio de la responsabilidad administrativa civil o penal que hubiera lugar durante su gestión, quedando eximido de toda responsabilidad la Máxima Autoridad que demuestre que al momento de la autorización, bajo su decisión en el principio de confianza
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ministerial No. 077-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250802-36906/download"
 extraido: "2026-11-09"
-huella: "313f3de0443414a1"
+huella: "c244e369f1237c6a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 077-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Arancel Centroamericano de Importación (ACI) es el instrum
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de la balanza de pagos; o a deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización de mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio”.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial La Gaceta el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial La Gaceta el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que la Comisión Ad-Hoc se reunió el 14 de julio del 2025, a fin de aprobar el Informe Técnico sobre la solicitud de eliminar la medida de salvaguardia aplicada a los productos laminados planos, mediante el Acuerdo 127-2018 y Acuerdo No. 036-2019, medida que incrementó de 0% al 25%, del 10% al 15% y del 15% al 25% el Derecho Arancelario a la Importación (DAI), de los productos laminados planos de hierro o acero sin alear y de los demás aceros aleados.
 
@@ -57,9 +57,7 @@ CONSIDERANDO: Que es interés del Estado hondureño fomentar un entorno de merca
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico en el uso de sus facultades y en aplicación de los Artículos 247, 255, 321, 331 y 333 de la Constitución de la República; Artículo 36 numeral 8, Artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; Artículo 21 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) del Decreto Ejecutivo PCM-008-97, contentivo del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y sus reformas; Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, Acuerdo No.
-
-005-2021.
+La Secretaría de Estado en el Despacho de Desarrollo Económico en el uso de sus facultades y en aplicación de los Artículos 247, 255, 321, 331 y 333 de la Constitución de la República; Artículo 36 numeral 8, Artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; Artículo 21 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) del Decreto Ejecutivo PCM-008-97, contentivo del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y sus reformas; Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, Acuerdo No. 005-2021.
 
 ACUERDA:
 
@@ -179,11 +177,9 @@ Instituto Hondureño de Geología y Minas
 
 ACUERDO INHGEOMIN SG-65-2025 INSTITUTO HONDUREÑO DE GEOLOGIA Y MINAS “INHGEOMIN”. Tegucigalpa, municipio del Distrito Central, veintidós de julio del año dos mil veinticinco.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 238-2012, de fecha 23 de enero de 2013, publicado en el Diario Oficial “La Gaceta” Edición No. 33,088 de fecha 2 de abril de 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013, de fecha 2 de agosto del 2013 y publicado en Diario Oficial “La Gaceta” edición No. 33,220 de fecha 4 de septiembre de 2014, se aprobó el Reglamento de la Ley General de Minería.
 
-238-2012, de fecha 23 de enero de 2013, publicado en el Diario Oficial “La Gaceta” Edición No. 33,088 de fecha 2 de abril de 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013, de fecha 2 de agosto del 2013 y publicado en Diario Oficial “La Gaceta” edición No. 33,220 de fecha 4 de septiembre de 2014, se aprobó el Reglamento de la Ley General de Minería.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.088-B-2018 de fecha 22 de diciembre de 2018, publicado en el Diario Oficial “La Gaceta” Edición No. 34,931 de fecha 29 de abril de 2019, se aprobó El Reglamento Especial para la Minería Artesanal y Pequeña Minería (MAPE). La actividad de la Minería Artesanal y Pequeña Minería (MAPE). Representa un importante impulso al crecimiento económico en las comunidades por lo que es necesario organizar, legalizar y fortalecer esta actividad con las orientaciones suficientes a través de buenas, sanas y responsables prácticas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 088-B-2018 de fecha 22 de diciembre de 2018, publicado en el Diario Oficial “La Gaceta” Edición No. 34,931 de fecha 29 de abril de 2019, se aprobó El Reglamento Especial para la Minería Artesanal y Pequeña Minería (MAPE). La actividad de la Minería Artesanal y Pequeña Minería (MAPE). Representa un importante impulso al crecimiento económico en las comunidades por lo que es necesario organizar, legalizar y fortalecer esta actividad con las orientaciones suficientes a través de buenas, sanas y responsables prácticas.
 
 CONSIDERANDO: Que el Instituto Hondureño de Geología y Minas (INHGEOMIN), como entidad desconcentrada del Estado, es el órgano rector en materia de regulación, fomento, administración técnica y control de la actividad minera en el país, conforme lo establecido en la Ley General de Minería, su Reglamento y demás normativa aplicable.
 

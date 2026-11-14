@@ -11,7 +11,7 @@ paginas: "A. 21 - 23"
 sumario: "Acuerdo No. SEN-165-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261022-37275/download"
 extraido: "2026-11-09"
-huella: "87e8a038c26edce5"
+huella: "df6a84ca32e17b52"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-165-2026
@@ -37,21 +37,17 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo 30-2006 del 01 de septiembre de 200
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, se estableció el “Sistema de Precios de Paridad de Importación” como el mecanismo automático para determinar los Precios Máximos de Venta al Consumidor Final de los Combustibles Derivados del Petróleo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como la institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos para su correcta regulación en atención al interés público y seguridad nacional; ampliándose dichas facultades mediante Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta en fecha 31 de diciembre de 2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como la institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos para su correcta regulación en atención al interés público y seguridad nacional; ampliándose dichas facultades mediante Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta en fecha 31 de diciembre de 2020.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-100-2021, publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, se reforma el Artículo 10 del Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, estableciendo lo siguiente “El gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del “Sistema de Precios de Paridad de Importación cuando lo considere oportuno o conveniente, asimismo, la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país.”
 
 CONSIDERANDO: Que mediante Acuerdo SEN-026-2019 publicado en La Gaceta el 24 de octubre de 2019, la Secretaría de Energía en el ejercicio de su competencia acuerda modificar el Artículo 7 literal b) del Decreto Ejecutivo No. PCM-02-2007 del 13 de enero de 2007, que regula en los términos que en el mismo se establecen la tarifa aplicable al flete terrestre, en atención al costo por kilómetros de ida y regreso a las diferentes localidades del país.
 
-POR TANTO, En aplicación de los artículos: 246, 247, 248, 255 y 321 de la Constitución de la República; 36 numerales 1, 2, 5, 8 y 116, 118 numeral 2 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-02-2007 publicado en el Diario Oficial La Gaceta el 20 de enero de 2007; Decreto Ejecutivo Número PCM-048-2017, publicado en fecha 7 de agosto del año 2017; Decreto Ejecutivo Número PCM- 007-2020, publicado en fecha 7 de abril del año 2020 en el Diario Oficial La Gaceta; Decreto Ejecutivo PCM-100-2021, publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021; Acuerdo No. SEN-026-2019, publicado en el Diario Oficial La Gaceta el 24 de octubre de 2019 y demás aplicables.
+POR TANTO, En aplicación de los artículos: 246, 247, 248, 255 y 321 de la Constitución de la República; 36 numerales 1, 2, 5, 8 y 116, 118 numeral 2 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-02-2007 publicado en el Diario Oficial La Gaceta el 20 de enero de 2007; Decreto Ejecutivo Número PCM-048-2017, publicado en fecha 7 de agosto del año 2017; Decreto Ejecutivo Número PCM-007-2020, publicado en fecha 7 de abril del año 2020 en el Diario Oficial La Gaceta; Decreto Ejecutivo PCM-100-2021, publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021; Acuerdo No. SEN-026-2019, publicado en el Diario Oficial La Gaceta el 24 de octubre de 2019 y demás aplicables.
 
 ACUERDA:
 
-PRIMERO: Conforme a la facultad otorgada a esta Secretaría de Estado mediante Decreto Ejecutivo PCM-100-2021, publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, Modificar el ordinal PRIMERO del Acuerdo No.
-
-SEN-026-2019 publicado en el Diario Oficial La Gaceta Edición No. 35,080 en fecha 24 de octubre de 2019 de la siguiente forma:
+PRIMERO: Conforme a la facultad otorgada a esta Secretaría de Estado mediante Decreto Ejecutivo PCM-100-2021, publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, Modificar el ordinal PRIMERO del Acuerdo No. SEN-026-2019 publicado en el Diario Oficial La Gaceta Edición No. 35,080 en fecha 24 de octubre de 2019 de la siguiente forma:
 
 “Artículo 7.- El precio del Consumidor Final: Se obtiene sumando al Precio Máximo de Venta al Distribuidor Mayorista, los márgenes de comercialización que corresponden a los miembros de la cadena de suministro, en la forma siguiente:
 

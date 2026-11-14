@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. DGRP-DG-IP-029-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210830-35703/download"
 extraido: "2026-11-14"
-huella: "ee66520fd4bf5b37"
+huella: "b42a347de5b064ab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-DG-IP-029-2021
@@ -57,7 +57,7 @@ CONSIDERANDO: Que producto del PROYECTO CATASTRO- TITULACIÓN que actualmente es
 
 “Delegar en la Dirección General de Regularización Predial del Instituto de la Propiedad, la facultad de ejecución, supervisión, control de calidad, aprobación, validación de sitios, desarrollo de Vistas Públicas Administrativas, así como efectuar las declaratorias oficiales y definitivas de zonas catastradas de los asentamientos humanos que sean beneficiados con los procesos de levantamientos catastrales y desarrollo de mesas de regularización en el marco del PROYECTO CATASTRO-TITULACION (…).
 
-CONSIDERANDO: Que en consonancia con el acápite anterior y de conformidad a lo establecido en los artículos 64 y 67 de la Ley de la Propiedad, emitida por el Congreso Nacional según Decreto 82-2004 y en apego a lo establecido en el Artículo 55 reformado de la Ley de Propiedad mediante Decreto Número 390- 2013, la Dirección General de Regularización Predial del Instituto de la Propiedad, convocó a Vistas Públicas Administrativas, en un periodo comprendido 27 de mayo al 25 de junio del 2021.
+CONSIDERANDO: Que en consonancia con el acápite anterior y de conformidad a lo establecido en los artículos 64 y 67 de la Ley de la Propiedad, emitida por el Congreso Nacional según Decreto 82-2004 y en apego a lo establecido en el Artículo 55 reformado de la Ley de Propiedad mediante Decreto Número 390-2013, la Dirección General de Regularización Predial del Instituto de la Propiedad, convocó a Vistas Públicas Administrativas, en un periodo comprendido 27 de mayo al 25 de junio del 2021.
 
 CONSIDERANDO: Que se cumplió con la Convocatoria a Vistas Públicas Administrativas, publicada en fecha 26 de mayo del 2021, en el Diario Oficial La Gaceta Número 35,610 según lo estipulado en el Artículo 64, de la Ley de Propiedad.
 

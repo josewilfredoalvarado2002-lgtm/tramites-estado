@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo número SAR-233-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221020-36056/download"
 extraido: "2026-11-14"
-huella: "e396c6fd8b30e8b6"
+huella: "055df1175e4ceb55"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-233-2022
@@ -29,11 +29,7 @@ huella: "e396c6fd8b30e8b6"
 
 Tegucigalpa, M.D.C., 15 de agosto de 2022 EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)
 
-CONSIDERANDO: Que el artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como Servicio de Administración de Rentas (SAR), mediante acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como Servicio de Administración de Rentas (SAR), mediante acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que de conformidad al numeral
 
@@ -41,11 +37,9 @@ CONSIDERANDO: Que de conformidad al numeral
 
 CONSIDERANDO: Que el Artículo 198 de la supra citada norma establece entre otras atribuciones del Servicio de Administración de Rentas (SAR), 1)…, 3) Crear planes y programas de gestión administrativa acorde con los lineamientos de la política económica y metas de recaudación anuales acordadas; …, 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria, de conformidad con el presente Código.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo SAR-547- 2019 de fecha 18 de diciembre de 2019 se delegó en la ciudadana ALEXANDRA KARINA RIVERA MEJÍA, en su condición de Experta de Secretaría General del Servicio de Administración de Rentas, las facultades inherentes a la Secretaría General de esta institución.
+CONSIDERANDO: Que mediante Acuerdo SAR-547-2019 de fecha 18 de diciembre de 2019 se delegó en la ciudadana ALEXANDRA KARINA RIVERA MEJÍA, en su condición de Experta de Secretaría General del Servicio de Administración de Rentas, las facultades inherentes a la Secretaría General de esta institución.
 
 CONSIDERANDO: Que los órganos administrativos desarrollarán sus actividades sujetándose a la jerarquía normativa establecida en el artículo 7 de la Ley General de la Administración Pública y con arreglo a las normas de la economía, celeridad y eficacia, a fin de lograr una pronta y efectiva satisfacción del interés general.
 
@@ -55,7 +49,7 @@ CONSIDERANDO: Que los órganos administrativos desarrollarán sus actividades su
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 116 determina que, los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones y Providencias.
 
-POR TANTO: En el uso de las facultades que la Ley le confiere y en aplicación a lo establecido en los Artículos 109, 321 y 351 de la Constitución de la República; 195, 197, 198 y 199 del Código Tributario; 7, 116, 118, 122 de la Ley General de Administración Pública; 19 y 30 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo 01-2017; Acuerdo SAR 1220-2017; Acuerdo Ejecutivo No. 23-2022; Acuerdo SAR- 547-2019 y demás disposiciones legales aplicables.
+POR TANTO: En el uso de las facultades que la Ley le confiere y en aplicación a lo establecido en los Artículos 109, 321 y 351 de la Constitución de la República; 195, 197, 198 y 199 del Código Tributario; 7, 116, 118, 122 de la Ley General de Administración Pública; 19 y 30 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo 01-2017; Acuerdo SAR 1220-2017; Acuerdo Ejecutivo No. 23-2022; Acuerdo SAR-547-2019 y demás disposiciones legales aplicables.
 
 ACUERDA
 

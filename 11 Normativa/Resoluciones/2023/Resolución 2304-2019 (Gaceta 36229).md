@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 2304-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230516-36229/download"
 extraido: "2026-11-14"
-huella: "0cc0eedc33d99358"
+huella: "b9e7082391c445b7"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2304-2019
@@ -33,7 +33,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 “RESOLUCIÓN No. 2304-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN”. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintisiete de noviembre del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha doce de septiembre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ- 12092019-790, por el Abogado JESTEN JOSUE SILVA RODRÍGUEZ, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL TABLADO, con domicilio en la Comunidad de El Tablado, municipio de Pespire, departamento de Choluteca; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha doce de septiembre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-12092019-790, por el Abogado JESTEN JOSUE SILVA RODRÍGUEZ, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL TABLADO, con domicilio en la Comunidad de El Tablado, municipio de Pespire, departamento de Choluteca; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

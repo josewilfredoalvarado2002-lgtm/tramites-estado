@@ -11,7 +11,7 @@ paginas: "A. 4 - 9"
 sumario: "Acuerdos Nos. 605-2021, 606-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210901-35705/download"
 extraido: "2026-11-14"
-huella: "b9a63b0cd7aec3ad"
+huella: "f295c0e5fb08e2f3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 606-2021
@@ -67,7 +67,7 @@ Directora Ejecutiva
 
 AMIRA MARTÍNEZ MOLINA
 
-Secretaria General Universidad Nacional Autónoma de Honduras ACTA No. 358 SESIÓN ORDINARIA CONSEJO DE EDUCACIÓN SUPERIOR Viernes 23 de julio de 2021 ACUERDO No.4537-358-2021. El Consejo de Educación Superior. CONSIDERANDO: Que el Reglamento para la Aprobación y Desarrollo de Estudios de Grado y Posgrado en Convenio con Universidades Extranjeras, fue aprobado por el Consejo de Educación Superior, mediante acuerdo No. 2994-289-2015, de fecha 13 de febrero de 2015.
+Secretaria General Universidad Nacional Autónoma de Honduras ACTA No. 358 SESIÓN ORDINARIA CONSEJO DE EDUCACIÓN SUPERIOR Viernes 23 de julio de 2021 ACUERDO No. 4537-358-2021. El Consejo de Educación Superior. CONSIDERANDO: Que el Reglamento para la Aprobación y Desarrollo de Estudios de Grado y Posgrado en Convenio con Universidades Extranjeras, fue aprobado por el Consejo de Educación Superior, mediante acuerdo No. 2994-289-2015, de fecha 13 de febrero de 2015.
 
 CONSIDERANDO: Que se ha conocido la propuesta de reformas al Reglamento para la Aprobación y Desarrollo de Estudios de Grado y Posgrado en Convenio con Universidades Extranjeras, presentado por el Dr.
 
@@ -181,7 +181,7 @@ MSc. LOURDES ROSARIO MURCIA CARBAJAL
 
 SECRETARIA CONSEJO DE EDUCACIÓN SUPERIOR
 
-Universidad Nacional Autónoma de Honduras ACTA No. 358 SESIÓN ORDINARIA CONSEJO DE EDUCACIÓN SUPERIOR Viernes 23 de julio de 2021 ACUERDO No.4538-358-2021. El Consejo de Educación Superior. CONSIDERANDO: Que el Reglamento de la Educación a Distancia en el Nivel Superior de Honduras, fue aprobado mediante Acuerdo No. 2852-279-2014 por el Consejo de Educación Superior. CONSIDERANDO:
+Universidad Nacional Autónoma de Honduras ACTA No. 358 SESIÓN ORDINARIA CONSEJO DE EDUCACIÓN SUPERIOR Viernes 23 de julio de 2021 ACUERDO No. 4538-358-2021. El Consejo de Educación Superior. CONSIDERANDO: Que el Reglamento de la Educación a Distancia en el Nivel Superior de Honduras, fue aprobado mediante Acuerdo No. 2852-279-2014 por el Consejo de Educación Superior. CONSIDERANDO:
 
 Que se ha conocido la propuesta de reformas al Reglamento de la Educación a Distancia en el Nivel Superior de Honduras, presentada por el Dr. Armando Euceda, Miembro Propietario del Consejo de Educación Superior y Director de la Dirección de Estudios de Postgrado de la Universidad Nacional Autónoma de Honduras (UNAH).
 

@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Decreto Ejecutivo No. 008-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211218-35801/download"
 extraido: "2026-11-14"
-huella: "1b2a7665fde36f67"
+huella: "0059240aee805385"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO No. 008-2021
@@ -51,9 +51,7 @@ En razón de ello y atendiendo los principios de igualdad ante la Ley se emitió
 
 CONSIDERANDO: Que de conformidad al artículo 22 numeral 9 de la Ley General de la Administración Pública, el Presidente de la República mediante Decreto en Consejo de Ministros podrá conocer y resolver los asuntos que sometan a su consideración dentro de la esfera de sus atribuciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 01 de octubre de 2020 fue nombrado el Ingeniero CARLOS ALBERTO MADERO ERAZO como Secretario de Estado en el Despacho de Coordinación General de Gobierno, así mismo se le otorga la potestad de firmar los Acuerdos Ejecutivos que correspondan al Presidente de la República.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 01 de octubre de 2020 fue nombrado el Ingeniero CARLOS ALBERTO MADERO ERAZO como Secretario de Estado en el Despacho de Coordinación General de Gobierno, así mismo se le otorga la potestad de firmar los Acuerdos Ejecutivos que correspondan al Presidente de la República.
 
 POR TANTO:
 
@@ -61,7 +59,7 @@ En aplicación de los Artículos 274, 245, 127 y 60 de la Constitución de la Re
 
 DECRETA:
 
-PRIMERO: Derogar el Decreto Ejecutivo Número 023- 2018 de fecha once (11) de diciembre del año 2018.
+PRIMERO: Derogar el Decreto Ejecutivo Número 023-2018 de fecha once (11) de diciembre del año 2018.
 
 SEGUNDO: El Presidente Constitucional de la Republica de Honduras Concede a través de la Secretaría de Estado en el Despacho de Defensa Nacional, a aquellos miembros de las Fuerzas Armadas que al momento de causar baja, se encuentren en servicio activo y que estén acogidos a la estructura de preexistentes del Régimen de Riesgos Especiales
 

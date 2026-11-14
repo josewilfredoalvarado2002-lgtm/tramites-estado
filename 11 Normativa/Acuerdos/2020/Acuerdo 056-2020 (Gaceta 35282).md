@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministeriale No. 056-2020, Acuerdo No. 058-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200613-35282/download"
 extraido: "2026-11-14"
-huella: "8135bbbe5300f5eb"
+huella: "7565e24affccb930"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 056-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que en fecha 21 de enero del año 2015, se emitió el Acuerdo Mini
 
 CONSIDERANDO: Que el artículo 3 del Acuerdo Ministerial No. 009-2015, establece que para efecto de la importación de cebollas comprendidas en las partidas arancelarias 0703.10.11; 0703.10.12; 0703.10.13 y 0703.10.19 del ACI, los importadores deberán contar con una licencia de importación emitida por la Secretaría de Desarrollo Económico por intermedio de la Dirección General de Integración Económica y Política Comercial.
 
-CONSIDERANDO: Que el artículo 2 del Decreto No. 251- 2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico, es la institución responsable de la administración de las Licencias de Importación.
+CONSIDERANDO: Que el artículo 2 del Decreto No. 251-2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico, es la institución responsable de la administración de las Licencias de Importación.
 
 CONSIDERANDO: Que en fecha 24 de agosto de 2019 fue publicado en el Diario Oficial “LA GACETA”, el Decreto Ejecutivo No. PCM-045-2019, contentivo de las medidas de simplificación administrativa, con el propósito que procedan sin dilación alguna a emitir permisos, licencias, certificaciones, constancias y demás actos administrativos que pongan fin al procedimiento administrativo en los plazos legalmente establecidos.
 

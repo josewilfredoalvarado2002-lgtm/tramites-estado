@@ -11,7 +11,7 @@ paginas: "A. 1 - 36"
 sumario: "Acuerdo Ministerial No. 056-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250611-36861/download"
 extraido: "2026-11-10"
-huella: "6f20f8ef36d73ef0"
+huella: "da8d6162d98ebb62"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 056-SEDESOL-2025
@@ -227,7 +227,7 @@ Unidad de Ventanilla Única.
 
 Unidad de Archivo.
 
-QUINTO. - El Nivel de Apoyo estará integrado de conformidad con las demás dependencias señaladas en el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, de acuerdo con el Decreto Ejecutivo No. PCM- 008-97 con las siguientes Unidades:
+QUINTO. - El Nivel de Apoyo estará integrado de conformidad con las demás dependencias señaladas en el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, de acuerdo con el Decreto Ejecutivo No. PCM-008-97 con las siguientes Unidades:
 
 1. Gerencia Administrativa.
 
@@ -511,9 +511,7 @@ i. Coordinar con la Secretaría de Estado en los Despachos de Gobernación, Just
 
 j. Regular, registrar, validar y dar seguimiento a los programas y proyectos ejecutados por Organizaciones No Gubernamentales de Desarrollo (ONGDs), nacionales o internacionales, empresas privadas, iglesias y asociaciones en el Marco de Desarrollo y Protección Social.
 
-k. Regular, registrar, validar y dar seguimiento a los programas y proyectos ejecutados por Organizaciones No Gubernamentales de Desarrollo (ONGDs), nacionales o internacionales, Juntas Administradoras de Agua (JAA), y Municipalidades que soliciten aplicar el Decreto No.
-
-50-2010.
+k. Regular, registrar, validar y dar seguimiento a los programas y proyectos ejecutados por Organizaciones No Gubernamentales de Desarrollo (ONGDs), nacionales o internacionales, Juntas Administradoras de Agua (JAA), y Municipalidades que soliciten aplicar el Decreto No. 50-2010.
 
 l. Emitir dictamen de viabilidad técnico de los programas y proyectos en el Marco de Desarrollo y Protección Social ejecutados por Organizaciones No Gubernamentales de Desarrollo (ONGDs), nacionales o internacionales, Juntas Administradoras de Agua (JAA), empresas privadas, asociaciones, iglesias y Municipalidades.
 
@@ -843,7 +841,7 @@ Las siguientes Unidades Administrativas están a cargo directo de la Gerencia Ad
 
 4. Unidad de Pre-Intervención
 
-2. Unidad de Planeamiento y Evaluación de Gestión La Unidad de Planeamiento y Evaluación de la Gestión (UPEG), conforme con el Artículo No. 38, Decreto Ejecutivo PCM-008- 97, publicado en La Gaceta del 07-06-1997, establece como atribuciones y funciones: Coordinar, organizar y dirigir las directrices sobre políticas de desarrollo y protección social de los procesos de planificación de la institución:
+2. Unidad de Planeamiento y Evaluación de Gestión La Unidad de Planeamiento y Evaluación de la Gestión (UPEG), conforme con el Artículo No. 38, Decreto Ejecutivo PCM-008-97, publicado en La Gaceta del 07-06-1997, establece como atribuciones y funciones: Coordinar, organizar y dirigir las directrices sobre políticas de desarrollo y protección social de los procesos de planificación de la institución:
 
 a. Asesorar en forma permanente a la Máxima Autoridad Institucional (MAI) sobre aspectos de planeación estratégica, diseño y evaluación de indicadores y presupuesto orientado a resultados.
 

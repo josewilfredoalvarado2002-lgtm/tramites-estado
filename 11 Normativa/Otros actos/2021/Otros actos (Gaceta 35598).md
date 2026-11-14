@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Acuerdo Ejecutivo número 003-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210513-35598/download"
 extraido: "2026-11-14"
-huella: "8b4dec59f84245b4"
+huella: "45ee303fe226d1a9"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Ejecutivo número 003-2020
@@ -157,7 +157,7 @@ MUESTRA COMPUESTA: Muestra conformada por dos o más muestras puntuales que se h
 
 • MUESTRA COMPUESTA SIMPLE: Cuando l a s muestras puntuales empleadas para hacerla se combinan en proporciones iguales.
 
-• MUESTRA COMPUESTA PONDERADA :
+• MUESTRA COMPUESTA PONDERADA:
 
 Cuando las proporciones d e las muestras puntuales reflejan las variaciones en los caudales o intervalos de tiempo en los cuales éstas se toman.
 
@@ -227,7 +227,7 @@ b) Secretaría de Salud (SESAL)
 
 c) Receptores Sensibles (RS)
 
-S ECCI Ó N S EGUNDA CO MP ETENCI AS , OBLIGACIONES
+S ECCI Ó N S EGUNDA CO MP ETENCI AS, OBLIGACIONES
 
 #### Artículo 6
 
@@ -1181,7 +1181,7 @@ En caso de detectar anomalías, el Inspector:
 
 4. De encontrar, tras la realización de las inspecciones que establece el anterior Artículo, que un sistema de tratamiento excede los límites volumétricos de descarga de las aguas residuales, tal cual establecidos en la licencia de descarga, el Inspector:
 
-i. Notificará al Ente Regulado a t r a v é s d e l a p e r s o n a a cargo de la operación de los sistemas de tratamiento, por escrito, la anomalía encontrada y solicitará que éste, o a quien competa en el Ente Regulado a que proceda a solicitar una modificación de la licencia de descarga en lo atinente a los volúmenes máximos permisibles de descarga, siempre y cuando el incremento en los volúmenes de dichas descargas no comprometan la eficiente operación del sistema de tratamiento. ii. De encontrar que el incremento en los caudales descargados es tal que la calidad final de las aguas residuales vertidas no satisface las normas de descarga, procederá a emitir por escrito al Ente Regulado una notificación de violación de las condiciones de descarga, estando por tanto el Ente Regulado sujeto a las sanciones establecidas en este Reglamento y demás del marco legal pertinente.
+i. Notificará al Ente Regulado a través de la persona a cargo de la operación de los sistemas de tratamiento, por escrito, la anomalía encontrada y solicitará que éste, o a quien competa en el Ente Regulado a que proceda a solicitar una modificación de la licencia de descarga en lo atinente a los volúmenes máximos permisibles de descarga, siempre y cuando el incremento en los volúmenes de dichas descargas no comprometan la eficiente operación del sistema de tratamiento. ii. De encontrar que el incremento en los caudales descargados es tal que la calidad final de las aguas residuales vertidas no satisface las normas de descarga, procederá a emitir por escrito al Ente Regulado una notificación de violación de las condiciones de descarga, estando por tanto el Ente Regulado sujeto a las sanciones establecidas en este Reglamento y demás del marco legal pertinente.
 
 La copia de la notificación de violación de las condiciones de descarga se ajuntará al reporte de inspección que el Inspector presentará a la Autoridad Competente para que ésta actúe conforme.
 

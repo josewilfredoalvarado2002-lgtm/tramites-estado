@@ -11,7 +11,7 @@ paginas: "A. 29 - 32"
 sumario: "Decretos Nos. 113-2021, 124-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211227-35807/download"
 extraido: "2026-11-14"
-huella: "00946af5db419374"
+huella: "df5f49978471910d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 113-2021
@@ -65,7 +65,7 @@ Adicionalmente que proceda a realizar estudios necesarios para la implementació
 
 ARTÍCULO 4.- CONTRATO DE CAMIONES Y
 
-MOTORES. Una vez concluido el Contrato de Servicio de inspección de Seguridad de la Carga de Contenedores en Puerto Cortés, suscrito entre la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y la Empresa Camiones y el operador actual, contenido en el Decreto Legislativo No.190-2004, el 31 de Diciembre del 2021, el equipo Rayos Gamma pasa a ser parte de los bienes de la Empresa Nacional Portuaria (ENP).
+MOTORES. Una vez concluido el Contrato de Servicio de inspección de Seguridad de la Carga de Contenedores en Puerto Cortés, suscrito entre la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y la Empresa Camiones y el operador actual, contenido en el Decreto Legislativo No. 190-2004, el 31 de Diciembre del 2021, el equipo Rayos Gamma pasa a ser parte de los bienes de la Empresa Nacional Portuaria (ENP).
 
 Una vez finalizado el proceso de Licitación para Adquisición de Equipo, Ejecución y Administración del Sistema Integral de Inspección Aduanal no Intrusivo para la Aduana de Puerto Cortés, la Administración Aduanera de Honduras queda facultada para que mediante Adenda al Contrato firmada por la autoridad superior competente, el operador actual, pueda continuar brindando el servicio por el tiempo que fuere estrictamente necesario hasta un máximo de seis
 

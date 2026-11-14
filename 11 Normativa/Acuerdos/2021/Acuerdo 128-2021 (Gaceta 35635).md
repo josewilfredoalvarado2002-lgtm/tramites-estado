@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "No. 128-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210622-35635/download"
 extraido: "2026-11-14"
-huella: "fdeef6dd81ff83d8"
+huella: "bac5bb9a470a1250"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 128-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería, mediante OFICIO-SA
 
 CONSIDERANDO: De conformidad con lo establecido en el artículo 4 del Decreto Ejecutivo PCM-007-2012, la asignación del contingente de desabasto de arroz granza se hará en base a los porcentajes de compra nacional de la cosecha nacional anterior (2020).
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Tercero del Acuerdo No. SAG- 101-2021, que las empresas ARROZ Y DERIVADOS, S.A., UNION GUAYMAS, BENEFICIO GUAYAPE, ARROCERA ELENITA GUZMAN, HONDURICE, BEPROAGRO Y ARROPAC, no se incluye en la distribución del contingente de desabasto de arroz granza para el año 2021, en vista que no realizaron compras de arroz granza nacional durante la cosecha 2020, según informe emitido por AGROBOLSA; por consiguiente, no cumplieron con lo establecido en el Artículo 4 del Decreto Ejecutivo PCM-007-2012.
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Tercero del Acuerdo No. SAG-101-2021, que las empresas ARROZ Y DERIVADOS, S.A., UNION GUAYMAS, BENEFICIO GUAYAPE, ARROCERA ELENITA GUZMAN, HONDURICE, BEPROAGRO Y ARROPAC, no se incluye en la distribución del contingente de desabasto de arroz granza para el año 2021, en vista que no realizaron compras de arroz granza nacional durante la cosecha 2020, según informe emitido por AGROBOLSA; por consiguiente, no cumplieron con lo establecido en el Artículo 4 del Decreto Ejecutivo PCM-007-2012.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo Económico, Administra los Contingentes de tal manera que se permita la utilización total de los contingentes de importación para asegurar el abastecimiento adecuado de bienes de primera necesidad.
 

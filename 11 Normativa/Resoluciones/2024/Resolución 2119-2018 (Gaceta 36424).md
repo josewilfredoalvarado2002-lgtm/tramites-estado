@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 2119-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240103-36424/download"
 extraido: "2026-11-14"
-huella: "e234d064f43f5915"
+huella: "bdedbc39aa3d80f3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2119-2018
@@ -49,13 +49,11 @@ QUINTO: La Ley Marco del Sector de Agua potable y Saneamiento en su artículo 18
 
 SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA VICTORIA, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
 
-SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No.
-
-2009-2018 de fecha veinte de diciembre del año dos mil dieciocho, se pronunció en el sentido de: “...DICTAMEN FAVORABLE en relación a la petición planteada, recomendando conceder lo solicitado, por ser procedente el otorgamiento de Personalidad Jurídica a favor de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA VICTORIA.
+SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No. 2009-2018 de fecha veinte de diciembre del año dos mil dieciocho, se pronunció en el sentido de: “...DICTAMEN FAVORABLE en relación a la petición planteada, recomendando conceder lo solicitado, por ser procedente el otorgamiento de Personalidad Jurídica a favor de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA VICTORIA.
 
 OCTAVO: Que de acuerdo a lo establecido en los artículos 10, 14 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA VICTORIA, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA VICTORIA, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la Republica y las Leyes.
 
-NOVENO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+NOVENO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 

@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Decreto No. 37-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240424-36517/download"
 extraido: "2026-11-14"
-huella: "e100b6ab168f6b20"
+huella: "d6eabad6d3f8d652"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 37-2024
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad al Artículo 189 de la Constitución de la República de Honduras, el Congreso Nacional se reunirá en sesiones ordinarias en la capital de la República el veinticinco de enero de cada año, sin necesidad de convocatoria y clausurará sus sesiones el treinta y uno de Octubre del mismo año.
 
-CONSIDERANDO: Que la Ley Orgánica del Poder Legislativo, contenida en el Decreto No.363-2013, del 20 de Enero de 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la edición No.33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el veinticinco de Enero de cada año y concluye el treinta y uno de octubre del mismo año, cuyo período de receso de sesiones del Congreso Nacional es desde el uno de Mayo al treinta y uno de Mayo de cada año.
+CONSIDERANDO: Que la Ley Orgánica del Poder Legislativo, contenida en el Decreto No. 363-2013, del 20 de Enero de 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la edición No. 33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el veinticinco de Enero de cada año y concluye el treinta y uno de octubre del mismo año, cuyo período de receso de sesiones del Congreso Nacional es desde el uno de Mayo al treinta y uno de Mayo de cada año.
 
 CONSIDERANDO: Que la Constitución de la República, así como la Ley Orgánica del Poder Legislativo, se encuentran en armonía en cuanto al período de sesiones y esta última en su
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Acuerdo No. 04/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220317-35875/download"
 extraido: "2026-11-14"
-huella: "3da6c1ef0a39fbbd"
+huella: "9fdc9664a8b09c6f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.04/2022.- Sesión No.3959 (Extraordinaria)
@@ -31,11 +31,11 @@ del 5 de marzo de 2022.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
-CONSIDERANDO: Que mediante Acuerdo No.16/2021 emitido por el Directorio del Banco Central de Honduras el 9 de diciembre de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
+CONSIDERANDO: Que mediante Acuerdo No. 16/2021 emitido por el Directorio del Banco Central de Honduras el 9 de diciembre de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
 CONSIDERANDO: Que conforme con el plan de modernización del marco operacional de la política monetaria y cambiaria orientada hacia la implementación gradual de un esquema de Metas de Inflación (MI), el BCH, estableció una hoja de ruta que contiene las actividades a realizar encaminadas hacia el logro de dicho objetivo.
 
-CONSIDERANDO: Que vista la propuesta de los D e p a r t a m e n t o s d e A n á l i s i s Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No.12/2022 celebrada el 5 de marzo de 2022, el referido Comité decidió someter a consideración de este Directorio, un cambio en la forma de cálculo del Tipo de Cambio de Referencia (TCR) consistente en que el Tipo de Cambio Promedio Ponderado resultante al cierre del evento de negociación del Mercado Interbancario de Divisas del día (TCPP MID) sea el nuevo TCR.
+CONSIDERANDO: Que vista la propuesta de los Departamentos de Análisis Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No. 12/2022 celebrada el 5 de marzo de 2022, el referido Comité decidió someter a consideración de este Directorio, un cambio en la forma de cálculo del Tipo de Cambio de Referencia (TCR) consistente en que el Tipo de Cambio Promedio Ponderado resultante al cierre del evento de negociación del Mercado Interbancario de Divisas del día (TCPP MID) sea el nuevo TCR.
 
 CONSIDERANDO:
 
@@ -45,9 +45,9 @@ POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública;
 
-2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 

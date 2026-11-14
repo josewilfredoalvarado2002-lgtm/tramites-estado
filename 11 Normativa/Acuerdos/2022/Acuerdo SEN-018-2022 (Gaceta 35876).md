@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo No. SEN-018-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220318-35876/download"
 extraido: "2026-11-14"
-huella: "423def8816663b32"
+huella: "cc5a868623552287"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-018-2022
@@ -29,21 +29,15 @@ huella: "423def8816663b32"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia, debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 84-22 de fecha 10 de febrero de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Doctor ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía (SEN).
 
-84-22 de fecha 10 de febrero de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Doctor ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía (SEN).
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-149-2022 de fecha 02 de marzo de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Ingeniero TOMÁS ANTONIO RODRÍGUEZ SÁNCHEZ, como Sub Secretario de Estado en el Despacho de Energía Renovable y Electricidad, dependiente de la Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 149-2022 de fecha 02 de marzo de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Ingeniero TOMÁS ANTONIO RODRÍGUEZ SÁNCHEZ, como Sub Secretario de Estado en el Despacho de Energía Renovable y Electricidad, dependiente de la Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que a efecto de impulsar las actuaciones de la Secretaría de Energía en sus obligaciones frente a los particulares y hacia otros órganos de la Administración Pública, bajo los principios de economía procesal, celeridad y eficacia, procurando la respuesta oportuna a las peticiones que se formulan en el marco de las disposiciones legales aplicables y del respeto de las garantías de petición y del debido proceso, y ante las responsabilidades propias del Secretario de Estado, es oportuno delegar en el Sub Secretario de Estado Ingeniero TOMÁS ANTONIO RODRÍGUEZ SÁNCHEZ, funciones específicas que corresponden al titular de esta Secretaría.
 

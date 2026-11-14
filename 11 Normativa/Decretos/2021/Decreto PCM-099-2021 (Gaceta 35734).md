@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Ejecutivos números PCM-099-2021, PCM-103-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211001-35734/download"
 extraido: "2026-11-14"
-huella: "9f51a611903301cd"
+huella: "60173b8cc11d8839"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-099-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Estado de Honduras ha promovido las Alianzas Público Priva
 
 CONSIDERANDO: Que es de interés nacional alcanzar niveles óptimos de los Servicios Aeroportuarios del País y en tal sentido el Estado de Honduras debe garantizar la seguridad, regularidad y eficiencia dentro de la actividad de la aviación civil desarrollada en el País.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo Número PCM-016-2016, publicado en el Diario Oficial “La Gaceta” en fecha diecisiete (17) de marzo del años dos mil dieciséis (2016) Edición No. 33,987, autorizó a la Comisión para la Promoción de la Alianza Público- Privada (COALIANZA) y a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) para la suscripción del “CONTRATO DE CONCESIÓN DISEÑO, CONSTRUCCIÓN, FINANCIAMIENTO, O P E R A C I Ó N Y M A N T E N I M I E N TO D E L AEROPUERTO INTERNACIONAL DE PALMEROLA DE LA REPÚBLICA DE HONDURAS CON SUS RESPECTIVOS ANEXOS ”, acto celebrado en fecha treinta y uno (31) de marzo del año dos mil dieciséis (2016); remitiéndolo posteriormente al Congreso Nacional de la República, siendo aprobado mediante Decreto Legislativo No. 71-2016, publicado en el Diario Oficial “La Gaceta” Edición No. 34,060, en fecha quince (15) de junio de dos mil dieciséis (2016).
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo Número PCM-016-2016, publicado en el Diario Oficial “La Gaceta” en fecha diecisiete (17) de marzo del años dos mil dieciséis (2016) Edición No. 33,987, autorizó a la Comisión para la Promoción de la Alianza Público- Privada (COALIANZA) y a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) para la suscripción del “CONTRATO DE CONCESIÓN DISEÑO, CONSTRUCCIÓN, FINANCIAMIENTO, OPERACIÓN Y MANTENIMIEN TO D E L AEROPUERTO INTERNACIONAL DE PALMEROLA DE LA REPÚBLICA DE HONDURAS CON SUS RESPECTIVOS ANEXOS ”, acto celebrado en fecha treinta y uno (31) de marzo del año dos mil dieciséis (2016); remitiéndolo posteriormente al Congreso Nacional de la República, siendo aprobado mediante Decreto Legislativo No. 71-2016, publicado en el Diario Oficial “La Gaceta” Edición No. 34,060, en fecha quince (15) de junio de dos mil dieciséis (2016).
 
 CONSIDERANDO: Que de acuerdo a lo establecido en el Decreto Legislativo No. 159-2019 de fecha siete (07) de diciembre de dos mil diecinueve (2019), publicado en el Diario Oficial “La Gaceta” Edición No. 35,118, en la Cláusula 4.1 del presente Contrato. V. 8.38 EL CONCEDENTE autoriza al Concesionario Palmerola International Airport, S.A., de acuerdo al Estudio Técnico y Financiero de Viabilidad del Aeropuerto de Toncontin que ha realizado, la operación y el mantenimiento del Aeropuerto Toncontin para vuelos nacionales e internacionales y demás áreas afectadas en iguales o mejores condiciones y de acuerdo a los términos y condiciones establecidos en este Contrato, así como su mantenimiento hasta que entre en operaciones aeroportuarias el Aeropuerto Internacional de Palmerola.
 

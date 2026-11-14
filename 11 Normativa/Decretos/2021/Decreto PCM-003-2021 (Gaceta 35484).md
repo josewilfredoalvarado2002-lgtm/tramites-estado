@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210111-35484/download"
 extraido: "2026-11-14"
-huella: "0d5128992fc3df5e"
+huella: "02464772f459bcde"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-003-2021
@@ -41,9 +41,7 @@ c) La exploración y explotación de los yacimientos de hidrocarburos sólidos, 
 
 CONSIDERANDO: Que el Decreto Legislativo No. 94 del 28 de abril de 1983, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 1983, faculta al Poder Ejecutivo para revisar la estructura de los precios de los combustibles derivados del petróleo, conforme a las variaciones de estos en el mercado internacional y otras variables internas y externas, con el objeto de facilitar el suministro, almacenamiento y distribución de los productos derivados del petróleo.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-018-2006 publicado en el Diario Oficial “La Gaceta” en fecha 23 de febrero de 2006, se delegó a la Secretaría de Estado de Industria y Comercio (Actualmente Secretaría de Estado en el Despacho de Energía, la potestad de revisar la estructura de precios de los combustibles derivados del petróleo y fijar los precios máximos de venta de dichos productos indispensables para las actividades económicas del País con el Sistema de Precios Paridad de Importación.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 018-2006 publicado en el Diario Oficial “La Gaceta” en fecha 23 de febrero de 2006, se delegó a la Secretaría de Estado de Industria y Comercio (Actualmente Secretaría de Estado en el Despacho de Energía, la potestad de revisar la estructura de precios de los combustibles derivados del petróleo y fijar los precios máximos de venta de dichos productos indispensables para las actividades económicas del País con el Sistema de Precios Paridad de Importación.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo 30-2006, publicado en el Diario Oficial “La Gaceta” en fecha 01 de septiembre de 2006, Edición No. 31,095, se declaran los derivados del petróleo productos estratégicos y esenciales para la seguridad nacional, así como vitales para el desarrollo económico y social del país.
 
@@ -57,7 +55,7 @@ CONSIDERANDO: Que debido a la crisis humanitaria y sanitaria decretada en marzo 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-120-2020, publicado en el Diario Oficial “La Gaceta” en fecha 1 de diciembre de 2020, Edición No. 35,446 se declaró situación de calamidad pública nacional por el estado de emergencia en el País en virtud de los efectos destructivos causados por el paso de las tormentas tropicales ETA y IOTA sumados a la crisis sanitaria y humanitaria causado por virus COVID-19, instruyéndose a las Secretaría de Estado en el ámbito de sus competencias priorizar la ejecución inmediata de planes, programas y proyectos atinentes a atender la situación de calamidad pública nacional.
 
-POR TANTO, En aplicación de los Artículo 245, numerales 1, 2, 11, 35 y 45, 252, 255, 321 y 323 y demás aplicables de la Constitución de la República; Artículos 11, 22 numeral 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266-2013; Artículo 8 del Decreto Legislativo No. 94 de fecha 28 de abril de 1983, publicado en el Diario Oficial “La Gaceta” el 18 de mayo de 1983; Artículo 10 del Decreto Ejecutivo Número PCM-02- 2007, publicado en el Diario Oficial “La Gaceta” el 20 de enero de 2007; Decreto Ejecutivo Número PCM-048-2017 publicado en el Diario Oficial La Gaceta el 07 de agosto de 2017; y, Artículo 1 del Acuerdo Ejecutivo No. 016-2008 del 09 de abril del año 2008.
+POR TANTO, En aplicación de los Artículo 245, numerales 1, 2, 11, 35 y 45, 252, 255, 321 y 323 y demás aplicables de la Constitución de la República; Artículos 11, 22 numeral 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266-2013; Artículo 8 del Decreto Legislativo No. 94 de fecha 28 de abril de 1983, publicado en el Diario Oficial “La Gaceta” el 18 de mayo de 1983; Artículo 10 del Decreto Ejecutivo Número PCM-02-2007, publicado en el Diario Oficial “La Gaceta” el 20 de enero de 2007; Decreto Ejecutivo Número PCM-048-2017 publicado en el Diario Oficial La Gaceta el 07 de agosto de 2017; y, Artículo 1 del Acuerdo Ejecutivo No. 016-2008 del 09 de abril del año 2008.
 
 DECRETA:
 

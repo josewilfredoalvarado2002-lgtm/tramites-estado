@@ -8,10 +8,10 @@ gaceta_numero: 35392
 gaceta_fecha: "2020-10-06"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)|La Gaceta 35392]]"
 paginas: "A. 1 - 14"
-sumario: "Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020"
+sumario: "Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201006-35392/download"
 extraido: "2026-11-14"
-huella: "720205fb66db8792"
+huella: "6690523b19b0d028"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 131-2020
@@ -23,7 +23,7 @@ huella: "720205fb66db8792"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)\|La Gaceta 35392]] del 2020-10-06 |
 | Páginas | A. 1 - 14 |
-| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020 |
 
 ## Texto
 
@@ -31,19 +31,19 @@ El Congreso Nacional:
 
 CONSIDERANDO: Que la Constitución de la República, establece que la persona humana es el fin supremo de la sociedad y es función del Estado, promover y facilitar el acceso a los servicios públicos, relacionados a la salud, a fin de mejorar condiciones sanitarias y la calidad de vida de las personas.
 
-CONSIDERANDO: Que el Artículo 143 del Decreto No.171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, mismo que fue reformado por el Poder Legislativo mediante Decreto No.7-2020, establece que los ahorros en las asignaciones de sueldos básicos Personal Permanente, derivados de la cancelación de plazas, creación de plazas por fusión, plazas vacantes transitoriamente, plazas que devengan un sueldo menor que lo presupuestado, o por la cancelación de personal supernumerario en el Sector Público, no deben emplearse para aumentos de sueldos, ajustes, nivelaciones, y/o nombramiento de personal ni ser transferidos para otro fin; excepto para:
+CONSIDERANDO: Que el Artículo 143 del Decreto No. 171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, mismo que fue reformado por el Poder Legislativo mediante Decreto No. 7-2020, establece que los ahorros en las asignaciones de sueldos básicos Personal Permanente, derivados de la cancelación de plazas, creación de plazas por fusión, plazas vacantes transitoriamente, plazas que devengan un sueldo menor que lo presupuestado, o por la cancelación de personal supernumerario en el Sector Público, no deben emplearse para aumentos de sueldos, ajustes, nivelaciones, y/o nombramiento de personal ni ser transferidos para otro fin; excepto para:
 
 …a), b), c), d), e), f), g) Ajuste salarial negociado para los empleados públicos.
 
-CONSIDERANDO: Que el Artículo 123 del Decreto No.171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, establece que “La contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República. Con el fin de regular estas asignaciones se prohíben las ampliaciones por modificaciones presupuestarias para este subgrupo del gasto, con excepción de los ajustes por salario mínimo siempre y cuando la institución cuente con la disponibilidad presupuestaria, reintegros por orden judicial y salarios caídos; así como, los casos excepcionales para el Sector Salud, cuando por la naturaleza de sus funciones se requiera la contratación de personal médico para el normal funcionamiento mientras se concluye el proceso de concurso (Objeto 12910 Contratos Especiales)”.
+CONSIDERANDO: Que el Artículo 123 del Decreto No. 171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, establece que “La contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República. Con el fin de regular estas asignaciones se prohíben las ampliaciones por modificaciones presupuestarias para este subgrupo del gasto, con excepción de los ajustes por salario mínimo siempre y cuando la institución cuente con la disponibilidad presupuestaria, reintegros por orden judicial y salarios caídos; así como, los casos excepcionales para el Sector Salud, cuando por la naturaleza de sus funciones se requiera la contratación de personal médico para el normal funcionamiento mientras se concluye el proceso de concurso (Objeto 12910 Contratos Especiales)”.
 
 CONSIDERANDO: Que el Presidente de la República mediante Decreto Ejecutivo No.PCM-020-2020, aprobó una serie de medidas fiscales en el marco del Estado de Emergencia Sanitaria, que incluyen entre otras la reorientación de recursos consignados actualmente en el Presupuesto General de Ingresos y Egresos de la República, del Ejercicio Fiscal 2020, para cubrir los insumos, materiales, suministros y todos los gastos necesarios para hacer frente a la emergencia declarada.
 
-CONSIDERANDO: Que según el Decreto No.33-2020, en el
+CONSIDERANDO: Que según el Decreto No. 33-2020, en el
 
 Artículo 9, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), crear las partidas presupuestarias de ingresos y gastos necesarios en el Presupuesto General de Ingresos y Egresos de la República para el registro de las operaciones derivadas de la aplicación del presente Decreto y en cada ejercicio fiscal durante la vigencia de las obligaciones.
 
-CONSIDERANDO: Que el Artículo 157 del Decreto No.171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, mismo que fue reformado por el Poder Legislativo mediante Decreto No.7-2020 establece que las asignaciones destinadas para el pago de la contribución patronal a los Institutos antes indicados no pueden ser transferidas para otro propósito, salvo que se identifiquen ahorros en estas asignaciones, los mismos pueden ser orientados a financiar lo establecido en el numeral
+CONSIDERANDO: Que el Artículo 157 del Decreto No. 171-2019 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, Capítulo X. DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS, mismo que fue reformado por el Poder Legislativo mediante Decreto No. 7-2020 establece que las asignaciones destinadas para el pago de la contribución patronal a los Institutos antes indicados no pueden ser transferidas para otro propósito, salvo que se identifiquen ahorros en estas asignaciones, los mismos pueden ser orientados a financiar lo establecido en el numeral
 
 \2) del Artículo 143 de esta Ley.
 
@@ -59,7 +59,7 @@ e) Incremento del Índice de Precios al Consumidor (IPC) de 4.08% a los Trabajad
 
 h) Incremento del IPC 4.08% y el 3.50% del bienal a los médicos, del personal que labora en esta Secretaría de Salud,
 
-i) Incremento a la base de los Cirujanos Dentistas según Decreto Legislativo No.148-2019 de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre de 2020, Edición No.35,129.
+i) Incremento a la base de los Cirujanos Dentistas según Decreto Legislativo No. 148-2019 de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre de 2020, Edición No. 35,129.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 atribuciones 1) y 32) de la Constitución de la República, son potestades del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes; y la aprobación anual del Presupuesto General de Ingresos y Egresos de la República, tomando como base el proyecto que remite el Poder Ejecutivo, debidamente desglosado y resolver sobre su modificación.
 
@@ -73,7 +73,7 @@ ARTÍCULO 1.- Se Autoriza a la Secretaría de Estado en el Despacho de Salud a u
 
 d) Ajuste al salario variable e) Incremento del Índice de Precios al Consumidor (IPC) de 4.08% a los Trabajadores Sociales del Personal de la Secretaría Salud y Hospital Escuela, f) Incremento del Índice de Precios al Consumidor (IPC) para el año 2019 de 4.22% a la base salarial tal como lo establece la Ley del Estatuto del Personal Profesional de Enfermería de la siguiente forma: 2.11% a partir del mes de julio del año 2020 y el 2.11% restante a partir del mes de julio del año 2021,
 
-g) Pago de deuda al personal permanente correspondiente al año 2019, h) incremento del IPC 4.08% y el 3.50% del bienal a los médicos, del personal que labora en esta Secretaría de Salud, i) Incremento a la base de los Cirujanos Dentistas según Decreto Legislativo No.148-2019 de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre de 2020, Edición No.35,129.
+g) Pago de deuda al personal permanente correspondiente al año 2019, h) incremento del IPC 4.08% y el 3.50% del bienal a los médicos, del personal que labora en esta Secretaría de Salud, i) Incremento a la base de los Cirujanos Dentistas según Decreto Legislativo No. 148-2019 de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre de 2020, Edición No. 35,129.
 
 #### Artículo 2
 

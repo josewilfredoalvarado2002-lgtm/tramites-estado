@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ministeriales Nos. 072-2025,073-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250722-36896/download"
 extraido: "2026-11-09"
-huella: "a382b112ea34a81b"
+huella: "ca1d9d2bc9d82cef"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 072-2025
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el Artículo 36 numeral 12 de la Ley General de la Administrac
 
 CONSIDERANDO: Que el día 1º de enero del año 1995 entró oficialmente en funciones la Organización Mundial de Comercio (O.M.C.), la que en virtud de decisión de las Partes Contratantes, sustituye al GATT de 1947 en todos sus derechos, privilegios y obligaciones.
 
-CONSIDERANDO: Que mediante Acuerdo No.161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
+CONSIDERANDO: Que mediante Acuerdo No. 161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
 
 CONSIDERANDO: Que mediante Comunicación Interna GA- No. 002-2025 de fecha seis (06) de enero del año dos mil veinticinco (2025), emitida por la Abogada Mary Delmi Hernández, encargada de la Gerencia Administrativa de esta Secretaría de Estado, solicitó la elaboración de Acuerdo de Gastos de Representación y Funcionamiento en el exterior al Representante de la Organización Mundial del Comercio (OMC), en Ginebra, Suiza para el funcionamiento operativo, por un monto de $ 13,500.00 dólares americanos mensuales durante el periodo de enero a diciembre del año 2025.
 
@@ -53,11 +53,11 @@ Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numer
 
 \3) y 122 de la Ley General de la Administración Pública;
 
-Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994, publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No. 177-94 de fecha 25 de febrero de 1995, publicado en el Diario Oficial “La Gaceta” edición No. 27, 3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No.161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998, Decreto Legislativo No. 04-2025 de las Disposiciones Generales del Presupuesto para el año 2025.
+Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994, publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No. 177-94 de fecha 25 de febrero de 1995, publicado en el Diario Oficial “La Gaceta” edición No. 27, 3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No. 161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998, Decreto Legislativo No. 04-2025 de las Disposiciones Generales del Presupuesto para el año 2025.
 
 ACUERDA:
 
-PRIMERO: Modificar el numeral primero del Acuerdo Ministerial No.003-2025 de fecha siete (07) de enero del año dos mil veinticinco (2025), el cual deberá leerse de la siguiente manera:
+PRIMERO: Modificar el numeral primero del Acuerdo Ministerial No. 003-2025 de fecha siete (07) de enero del año dos mil veinticinco (2025), el cual deberá leerse de la siguiente manera:
 
 “PRIMERO: Autorizar a la Gerencia Administrativa de esta Secretaría de Estado, para que proceda a pagar mensualmente los GASTOS DE REPRESENTACIÓN Y FUNCIONAMIENTO EN EL EXTERIOR, al Representante de la Organización Mundial del Comercio
 

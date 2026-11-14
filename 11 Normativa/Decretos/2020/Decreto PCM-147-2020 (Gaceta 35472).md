@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201229-35472/download"
 extraido: "2026-11-14"
-huella: "8f55d1a2af30593a"
+huella: "12fd59e9451ad47a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-147-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de noviembre de 2020, Edición No. 35,417, reformado mediante Decretos Ejecutivos Números: PCM- 112-2020, PCM-115-2020 y PCM-116-2020; se declarando Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por las Tormentas Tropicales “ETA” e “IOTA”, las cuales han causado graves daños a la infraestructura vial del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de noviembre de 2020, Edición No. 35,417, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020; se declarando Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por las Tormentas Tropicales “ETA” e “IOTA”, las cuales han causado graves daños a la infraestructura vial del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
 
 CONSIDERANDO: Que los daños causados por las Tormentas Tropicales “ETA” e “IOTA” en la infraestructura vial, puentes y al Sector Productivo del País han sido innumerables y los mimos sólo han podido ser cuantificados, días posteriores al paso de ambas Tormentas Tropicales, los cuales llevan un tiempo indeterminado calcular sus daños directos e indirectos a la economía nacional. Por lo tanto, atender los mismos, conllevan un periodo de tiempo no calculable por los inmensos daños causados a nivel nacional.
 
@@ -47,13 +47,13 @@ En aplicación de las disposiciones establecidas en los
 
 Artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29, 35 y 45, Artículos 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013;
 
-Artículo 93 de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, emitido mediante Decreto Legislativo No. 171-2019; Decretos Ejecutivos Números: PCM-109-2020, PCM-112-2020, PCM- 115-2020 y PCM-116-2020.
+Artículo 93 de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, emitido mediante Decreto Legislativo No. 171-2019; Decretos Ejecutivos Números: PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar la vigencia de la declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” , hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha dos (2) de noviembre de 2020, reformado mediante Decretos Ejecutivos Números: PCM- 112-2020, PCM-115-2020 y PCM-116-2020.
+ARTÍCULO 1.- Prorrogar la vigencia de la declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” , hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha dos (2) de noviembre de 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 7"
 sumario: "Certificaciones de los Acuerdos Nos. 041-2021, 042-2021, 043-2021, 001-2022, 002-2022, 005-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220316-35874/download"
 extraido: "2026-11-14"
-huella: "fa28147b9fa417e8"
+huella: "f7c06cdd4d92398d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "fa28147b9fa417e8"
 
 La infrascrita, Secretaria General de la Agencia de Regulación Sanitaria, CERTIFICA: El Acuerdo que literalmente dice:
 
-ACUERDO No. 043-2021. El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo no. 110-C-2021, de fecha 30 de septiembre del año 2021, Art. 4, 5, 118 de la Ley de Procedimiento Administrativo. ACUERDA: 1. Cancelar el nombramiento de la ciudadana: Abogada DILCIA ANABEL MEDINA ESPINO, quien posee la identidad número 0615- 1985-01171, del puesto de SECRETARIA GENERAL a partir del 31 de diciembre del presente año. II. Rendir un agradecimiento a la abogada Medina Espino por los servicios prestados a esta Agencia de Regulación Sanitaria. III. Hacer la transcripción del presente Acuerdo. COMUNÍQUESE Y PUBLÍQUESE. - Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los dieciséis (16) días del mes de diciembre del año dos mil veintiuno. (F y S) DR. FRANCIS RAFAEL CONTRERAS RIVERA, Comisionado Presidente ARSA. ABG. DILCIA ANABEL MEDINA E., Secretaria General ARSA.
+ACUERDO No. 043-2021. El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo no. 110-C-2021, de fecha 30 de septiembre del año 2021, Art. 4, 5, 118 de la Ley de Procedimiento Administrativo. ACUERDA: 1. Cancelar el nombramiento de la ciudadana: Abogada DILCIA ANABEL MEDINA ESPINO, quien posee la identidad número 0615-1985-01171, del puesto de SECRETARIA GENERAL a partir del 31 de diciembre del presente año. II. Rendir un agradecimiento a la abogada Medina Espino por los servicios prestados a esta Agencia de Regulación Sanitaria. III. Hacer la transcripción del presente Acuerdo. COMUNÍQUESE Y PUBLÍQUESE. - Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los dieciséis (16) días del mes de diciembre del año dos mil veintiuno. (F y S) DR. FRANCIS RAFAEL CONTRERAS RIVERA, Comisionado Presidente ARSA. ABG. DILCIA ANABEL MEDINA E., Secretaria General ARSA.
 
 Extendida por la Agencia de Regulación Sanitaria (ARSA), en la ciudad de Comayagüela, municipio del Distrito Central a los dieciséis (16) días del mes de diciembre del año dos mil veintiuno.
 

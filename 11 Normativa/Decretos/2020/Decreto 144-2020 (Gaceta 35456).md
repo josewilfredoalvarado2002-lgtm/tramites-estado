@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 144-2020, 153-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201211-35456/download"
 extraido: "2026-11-14"
-huella: "bfc90aca1c1a9129"
+huella: "bcef660a3e394d29"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 144-2020
@@ -33,9 +33,9 @@ CONSIDERANDO: Que la Constitución de la República establece, en el marco de su
 
 CONSIDERANDO: Que el planeta se ha visto afectado por el virus Covid-19 afectando a los países en sus sistemas sanitarios y vida de su población, colateralmente ha habido un efecto adverso en las distintas economías a nivel mundial, situación de la que Honduras no es la excepción ya que debido a la medidas extraordinarias adoptadas para prevenir y evitar la propagación del Covid-19 en el país, se hizo necesario el cierre temporal de la economía generándose una disminución de empleos y por defecto iliquidez financiera en las familias, impactando ello en las proyecciones tributarias y expectativas de percepción de recursos del gobierno central y de los gobiernos locales, disminuyendo consecuentemente la capacidad de generación de ingresos tanto a nivel nacional como local y de los cuales depende la ejecución del presupuesto de egresos para la satisfacción de necesidades de la población en general.
 
-CONSIDERANDO: Que el Decreto No.171-2019, contiene el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, el cual en sus Artículos 192, 193 y 194 desarrollan el proceso de transferencias que el gobierno central a través de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización realiza a las Corporaciones Municipales, asimismo esa normativa indica la distribución de la misma.
+CONSIDERANDO: Que el Decreto No. 171-2019, contiene el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, el cual en sus Artículos 192, 193 y 194 desarrollan el proceso de transferencias que el gobierno central a través de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización realiza a las Corporaciones Municipales, asimismo esa normativa indica la distribución de la misma.
 
-CONSIDERANDO: Que el Artículo 98 inciso 6 del Decreto No.134-90 contentivo de la Ley de Municipalidades establece la normativa por rango para determinar el techo máximo de gastos de funcionamiento a los cuales la Administración Municipal puede aplicar.
+CONSIDERANDO: Que el Artículo 98 inciso 6 del Decreto No. 134-90 contentivo de la Ley de Municipalidades establece la normativa por rango para determinar el techo máximo de gastos de funcionamiento a los cuales la Administración Municipal puede aplicar.
 
 CONSIDERANDO: Que en la actualidad en los Municipios, a causa de la pandemia por Covid-19 no ha sido posible la percepción de Ingresos corrientes suficientes para cubrir gastos corrientes, debido a la baja recaudación de Ingresos Propios en las municipalidades, derivado del cierre temporal de los negocios que son los mayores generadores de Tributos Municipales lo que hace necesario la ampliación de recursos para gastos administrativos que permitan a las alcaldías municipales hacer frente al pago de los colaboradores y otros gastos u obligaciones propios de cada Municipalidad, que son necesarios para su normal funcionamiento.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 192 numeral 7) del Decreto No.171-2019 de fecha 12 de Diciembre del año 2019, publicado en el Diario Oficial “La Gaceta” Edición No.35,137 de fecha 31 de Diciembre del año 2019, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2020, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 192 numeral 7) del Decreto No. 171-2019 de fecha 12 de Diciembre del año 2019, publicado en el Diario Oficial “La Gaceta” Edición No. 35,137 de fecha 31 de Diciembre del año 2019, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2020, el cual debe leerse de la manera siguiente:
 
 #### Artículo 192
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 0158-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250227-36777/download"
 extraido: "2026-11-12"
-huella: "2afe2b4439594321"
+huella: "01ef1da9f90021e0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0158-SE-2025
@@ -183,7 +183,7 @@ SÉPTIMO: El presente Acuerdo entrará en vigencia a partir de su publicación e
 
 Transcribir el presente Acuerdo a las Direcciones Departamentales de Educación, Direcciones Municipales / Distritales de Educación y Direcciones de Centros Educativos, para los fines legales consiguientes.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 PROFESOR DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO ABG. EDWIN EMILIO OLIVA SECRETARIO GENERAL
 

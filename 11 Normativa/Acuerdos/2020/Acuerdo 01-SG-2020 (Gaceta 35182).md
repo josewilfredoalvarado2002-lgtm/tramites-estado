@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ejecutivo No. 01-SG-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200222-35182/download"
 extraido: "2026-11-14"
-huella: "9a5d2f998543ca00"
+huella: "5e241f8f7dd47cf1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 01-SG-2020
@@ -45,9 +45,9 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Acuerdo Ejecutivo númer
 
 POR TANTO
 
-En el uso de las facultades de que está investido y en aplicación de los artículos: 247 y 255 de la Constitución de la República; 33,36 numerales 1), 6) y 8); 116, 118, 119, 122 de la Ley General de la Administración Pública; 23, 24, 25 ,26 de la Ley de Procedimiento Administrativo; y 30 de la Ley de Protección de los Hondureños Migrantes y sus Familiares; Decreto Legislativo 266-2013; y Acuerdo Ejecutivo número 023-2018 de la Presidencia de la República, publicado en el Diario Oficial “La Gaceta” en fecha veinte (20) de abril del año dos mil dieciocho (2018).
+En el uso de las facultades de que está investido y en aplicación de los artículos: 247 y 255 de la Constitución de la República; 33,36 numerales 1), 6) y 8); 116, 118, 119, 122 de la Ley General de la Administración Pública; 23, 24, 25,26 de la Ley de Procedimiento Administrativo; y 30 de la Ley de Protección de los Hondureños Migrantes y sus Familiares; Decreto Legislativo 266-2013; y Acuerdo Ejecutivo número 023-2018 de la Presidencia de la República, publicado en el Diario Oficial “La Gaceta” en fecha veinte (20) de abril del año dos mil dieciocho (2018).
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar el Reglamento General de la Ley de Protección de los Hondureños Migrantes y sus Familiares el que se transcribe literalmente a continuación, para los efectos legales correspondientes:
 
@@ -179,15 +179,15 @@ CAPÍTULO III DE LA DIRECCIÓN GENERAL DE PROTECCIÓN AL HONDUREÑO MIGRANTE
 
 #### Artículo 10
 
-Artículo 10: La Dirección General de Protección al Hondureño Migrante es el encargado de dirigir, coordinar y controlar las políticas y acciones de protección consular y reinserción al hondureño migrante , teniendo a su cargo:
+Artículo 10: La Dirección General de Protección al Hondureño Migrante es el encargado de dirigir, coordinar y controlar las políticas y acciones de protección consular y reinserción al hondureño migrante, teniendo a su cargo:
 
-A) Oficina de Protección al Hondureño Migrante (OPROHM); y, B) Oficina de Atención al Migrante Retornado (OFAMIR) ;
+A) Oficina de Protección al Hondureño Migrante (OPROHM); y, B) Oficina de Atención al Migrante Retornado (OFAMIR);
 
 Así mismo es la Secretaría Técnica del CONAPROHM (Según PCM 070-2017).
 
 #### Artículo 11
 
-Artículo 11: FUNCIONES OPROHM Las estipuladas en el Artículo 80 del Acuerdo No. 01-SG- 2018, publicado en La Gaceta No. 34,738:
+Artículo 11: FUNCIONES OPROHM Las estipuladas en el Artículo 80 del Acuerdo No. 01-SG-2018, publicado en La Gaceta No. 34,738:
 
 1. Coordinar y dar seguimiento a los diferentes procesos de asistencia y de protección a los hondureños en el exterior, sean personas naturales o jurídicas que realicen las oficinas consulares directamente o por medio de sus agencias adscritas ante las autoridades del Estado receptor;
 
@@ -215,7 +215,7 @@ Artículo 11: FUNCIONES OPROHM Las estipuladas en el Artículo 80 del Acuerdo No
 
 Artículo 12: FUNCIONES DE OFAMIR.
 
-Las estipuladas en el Artículo 81 del Acuerdo No. 01-SG- 2018, publicado en La Gaceta No. 34,738:
+Las estipuladas en el Artículo 81 del Acuerdo No. 01-SG-2018, publicado en La Gaceta No. 34,738:
 
 \1) Ejecutar las políticas de asistencia a los compatriotas retornados para su recibimiento, reinserción social y laboral;
 
@@ -559,7 +559,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintitr
 
 COMUNÍQUESE Y PUBLÍQUESE MARTHA VICENTA DOBLADO ANDARA
 
-Secretaria de Coordinación General de Gobierno, por Ley, Por Delegación, Acuerdo No.023-2018 LISANDRO ROSALES BANEGAS Secretario de Estado Administración Aduanera de Honduras ACUERDO ADUANAS-DE-No. 021-2020 Tegucigalpa, M.D.C, 05 de febrero del 2020 ADMINISTRACIÓN ADUANERA DE HONDURAS
+Secretaria de Coordinación General de Gobierno, por Ley, Por Delegación, Acuerdo No. 023-2018 LISANDRO ROSALES BANEGAS Secretario de Estado Administración Aduanera de Honduras ACUERDO ADUANAS-DE-No. 021-2020 Tegucigalpa, M.D.C, 05 de febrero del 2020 ADMINISTRACIÓN ADUANERA DE HONDURAS
 
 CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República.
 
@@ -571,7 +571,7 @@ CONSIDERANDO: Que conforme a lo establecido en el
 
 Artículo 205 numeral 1 del Código Tributario autorizó a la Administración Aduanera para que realicen los ajustes a sus procedimientos, sistemas, registros y demás aplicativos, para que se adecúen a las disposiciones del nuevo Código Tributario, facultando al Presidente de la República en Consejo de Secretarios de Estado, para disponer de las partidas y recursos para cumplir con dicho objetivo.
 
-CONSIDERANDO: Que el Decreto Ejecutivo PCM-059- 2019 de fecha treinta (30) de septiembre del año dos mil diecinueve (2019), en su Artículo 2 señala que a partir del uno
+CONSIDERANDO: Que el Decreto Ejecutivo PCM-059-2019 de fecha treinta (30) de septiembre del año dos mil diecinueve (2019), en su Artículo 2 señala que a partir del uno
 
 (01) de enero de dos mil veinte (2020), se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras.
 
@@ -585,7 +585,7 @@ Con fundamento en los artículos 321 de la Constitución de la República; 116, 
 
 ACUERDA:
 
-Modificar la Escala Salarial aprobada mediante Acuerdo ADUANAS-DE-No.015-2020 de fecha 20 de enero del 2020, la cual deberá leerse de la siguiente manera:
+Modificar la Escala Salarial aprobada mediante Acuerdo ADUANAS-DE-No. 015-2020 de fecha 20 de enero del 2020, la cual deberá leerse de la siguiente manera:
 
 ´
 

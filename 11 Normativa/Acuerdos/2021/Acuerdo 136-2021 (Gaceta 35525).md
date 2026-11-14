@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. 134-2021, 135-2021, 136-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210223-35525/download"
 extraido: "2026-11-14"
-huella: "165ad073db2e02a3"
+huella: "e46de64126648df1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 136-2021
@@ -61,7 +61,7 @@ En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 1
 
 ACUERDA:
 
-PRIMERO: Delegar en la Licenciada ANA GABRIELA MOLINA SANTOS, con Identidad No.1503-1967-00990, las funciones de Especialista en Gestión de Conocimiento de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia, específicamente lo siguiente: 1) Responsable de liderar la generación de productos de comunicación y de gestión de conocimiento, así como de su divulgación a nivel nacional;
+PRIMERO: Delegar en la Licenciada ANA GABRIELA MOLINA SANTOS, con Identidad No. 1503-1967-00990, las funciones de Especialista en Gestión de Conocimiento de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia, específicamente lo siguiente: 1) Responsable de liderar la generación de productos de comunicación y de gestión de conocimiento, así como de su divulgación a nivel nacional;
 
 \2) Apoyar a facilitar el flujo de la información y de las comunicaciones entre los distintos niveles territoriales del Sistema Integral de Garantía de Derechos de Niñez y Adolescencia, en un trabajo articulado con las entidades que hacen parte del referido Sistema.
 

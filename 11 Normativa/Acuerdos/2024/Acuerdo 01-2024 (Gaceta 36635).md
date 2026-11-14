@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. 01/2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240909-36635/download"
 extraido: "2026-11-14"
-huella: "e20f59397a083b39"
+huella: "996999083a9756f0"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No.01/2024
@@ -27,27 +27,27 @@ huella: "e20f59397a083b39"
 
 ## Texto
 
-El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto No.3.4 ASUNTOS DE LA GERENCIA del Acta de la Sesión No.4105 del 8 de agosto de 2024, el cual contiene el Acuerdo No.01/2024, que literalmente dice: «3.4… Leído el correspondiente proyecto de resolución y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente:
+El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto No. 3.4 ASUNTOS DE LA GERENCIA del Acta de la Sesión No. 4105 del 8 de agosto de 2024, el cual contiene el Acuerdo No. 01/2024, que literalmente dice: «3.4… Leído el correspondiente proyecto de resolución y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente:
 
-ACUERDO No.01/2024- Sesión No.4105 del 8 de agosto de 2024.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+ACUERDO No. 01/2024- Sesión No. 4105 del 8 de agosto de 2024.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que conforme con el Artículo 242 de la Constitución de la República y los artículos 2 y 16, literales a) y f) de la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país, la cual será determinada por su Directorio, quien tiene entre sus atribuciones propiciar en el ámbito de su competencia, el sano desarrollo del sistema financiero, así como velar por la estabilidad de los sistemas financieros del país.
 
-CONSIDERANDO: Que actualmente el BCH, mediante el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico (INDEL), contenido en el Acuerdo No.12/2022 del dieciocho
+CONSIDERANDO: Que actualmente el BCH, mediante el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico (INDEL), contenido en el Acuerdo No. 12/2022 del dieciocho
 
 (18) de agosto de dos mil veintidós (2022), publicado en el Diario Oficial La Gaceta el veintiséis (26) de agosto de dos mil veintidós (2022) y emitido por este Directorio, regula la organización, operación y funcionamiento que deben observar las personas jurídicas que brinden, en el territorio nacional, servicios de pagos y transferencias utilizando dinero electrónico.
 
-CONSIDERANDO: Que el Decreto Legislativo No.83- 2021 del siete (7) de septiembre de dos mil veintiuno (2021), publicado en el Diario Oficial La Gaceta el veintiocho (28) de octubre de dos mil veintiuno (2021), tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente, por lo que con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
+CONSIDERANDO: Que el Decreto Legislativo No. 83-2021 del siete (7) de septiembre de dos mil veintiuno (2021), publicado en el Diario Oficial La Gaceta el veintiocho (28) de octubre de dos mil veintiuno (2021), tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente, por lo que con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
 
 CONSIDERANDO: Que el BCH realizó una revisión integral del referido Reglamento con la finalidad de incluir medidas que coadyuven a evitar la utilización de billeteras electrónicas como medios para la ejecución de extorsiones y secuestros; al igual que, maximizar los beneficios de la innovación financiera provistos por las Instituciones no Bancarias de Dinero Electrónico (INDEL).
 
-CONSIDERANDO: Que la Gerencia, mediante memorándum SP-2472/2024 del cinco (5) de agosto de dos mil veinticuatro (2024), con base en el memorándum SP-2471/2024 del cinco (5) de agosto de dos mil veinticuatro (2024) de la Subgerencia de Operaciones, y en la opinión del Departamento de Sistema de Pagos, contenida en el memorándum SP- 2470/2024 del cinco (5) de agosto de dos mil veinticuatro (2024), recomienda a este Directorio reformar el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico.
+CONSIDERANDO: Que la Gerencia, mediante memorándum SP-2472/2024 del cinco (5) de agosto de dos mil veinticuatro (2024), con base en el memorándum SP-2471/2024 del cinco (5) de agosto de dos mil veinticuatro (2024) de la Subgerencia de Operaciones, y en la opinión del Departamento de Sistema de Pagos, contenida en el memorándum SP-2470/2024 del cinco (5) de agosto de dos mil veinticuatro (2024), recomienda a este Directorio reformar el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico.
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 6 y 16, literales a) y f) de la Ley del Banco Central de Honduras y en el Decreto Legislativo No.83-2021 del 7 de septiembre de dos mil veintiuno (2021), publicado en el Diario Oficial “La Gaceta” el veintiocho (28) de octubre de dos mil veintiuno (2021),
+Con fundamento en los artículos 342 de la Constitución de la República; 6 y 16, literales a) y f) de la Ley del Banco Central de Honduras y en el Decreto Legislativo No. 83-2021 del 7 de septiembre de dos mil veintiuno (2021), publicado en el Diario Oficial “La Gaceta” el veintiocho (28) de octubre de dos mil veintiuno (2021),
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -667,11 +667,11 @@ Finalizado el plazo antes mencionado, el BCH ordenará el cese de operaciones co
 
 #### Artículo 43
 
-Artículo 43.- Transitoriedad. Aquellos procesos administrativos que se encuentren en trámite de autorización antes de la entrada en vigencia del presente Reglamento se resolverán de acuerdo con las normas establecidas en el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico, contenido en el Acuerdo No.12/2022, aprobado por el Directorio del BCH el 18 de agosto de 2022 y publicado en el Diario Oficial “La Gaceta” el 26 de agosto de 2022.
+Artículo 43.- Transitoriedad. Aquellos procesos administrativos que se encuentren en trámite de autorización antes de la entrada en vigencia del presente Reglamento se resolverán de acuerdo con las normas establecidas en el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico, contenido en el Acuerdo No. 12/2022, aprobado por el Directorio del BCH el 18 de agosto de 2022 y publicado en el Diario Oficial “La Gaceta” el 26 de agosto de 2022.
 
 #### Artículo 44
 
-Artículo 44.- Derogatoria. Se deroga, a partir de la publicación del presente Reglamento en el Diario Oficial “La Gaceta”, el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico, contenido en el Acuerdo No.12/2022, emitido por el Directorio del BCH el 18 de agosto de 2022 y publicado en el Diario Oficial “La Gaceta” el 26 de agosto de 2022.
+Artículo 44.- Derogatoria. Se deroga, a partir de la publicación del presente Reglamento en el Diario Oficial “La Gaceta”, el Reglamento para los Servicios de Pago y Transferencia Utilizando Dinero Electrónico, contenido en el Acuerdo No. 12/2022, emitido por el Directorio del BCH el 18 de agosto de 2022 y publicado en el Diario Oficial “La Gaceta” el 26 de agosto de 2022.
 
 #### Artículo 45
 
@@ -679,7 +679,7 @@ Artículo 45.- Casos No Previstos. Los casos no previstos en el presente Reglame
 
 II.
 
-Derogar el Acuerdo No.12/2022, emitido por el Directorio del Banco Central de Honduras el dieciocho (18) de agosto de dos mil veintidós (2022).
+Derogar el Acuerdo No. 12/2022, emitido por el Directorio del Banco Central de Honduras el dieciocho (18) de agosto de dos mil veintidós (2022).
 
 III.
 

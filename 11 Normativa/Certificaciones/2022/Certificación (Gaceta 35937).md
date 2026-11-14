@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220531-35937/download"
 extraido: "2026-11-14"
-huella: "4c3c44c949237c55"
+huella: "d43599b4a7349306"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "4c3c44c949237c55"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 1924-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, diecisiete de septiembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha trece de septiembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-13092021- 650 por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SAN JOSE DE MIRAMAR, MUNICIPIO DE CABAÑAS, DEPARTAMENTO DE COPÁN, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha trece de septiembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-13092021-650 por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SAN JOSE DE MIRAMAR, MUNICIPIO DE CABAÑAS, DEPARTAMENTO DE COPÁN, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -63,9 +63,7 @@ OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -207,7 +205,7 @@ ARTÍCULO 28: Los programas, proyectos o actividades que la Junta ejecute no ir�
 
 SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SAN JOSE DE MIRAMAR, MUNICIPIO DE CABAÑAS, DEPARTAMENTO DE COPÁN, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
-TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SAN JOSE DE MIRAMAR, MUNICIPIO DE CABAÑAS, DEPARTAMENTO DE COPÁN, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS) , los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
+TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SAN JOSE DE MIRAMAR, MUNICIPIO DE CABAÑAS, DEPARTAMENTO DE COPÁN, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO: La JUNTA ADMINISTRADORA DE AGUA
 

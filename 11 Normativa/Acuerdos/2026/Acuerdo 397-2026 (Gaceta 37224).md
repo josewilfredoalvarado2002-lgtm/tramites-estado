@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Número 397-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260819-37224/download"
 extraido: "2026-11-09"
-huella: "d96a9ec5e40920ac"
+huella: "c5fc3b8632b13202"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 397-2026
@@ -41,11 +41,9 @@ CONSIDERANDO (5): Que la Ley Orgánica de Presupuesto en los artículos 76 y 82 
 
 CONSIDERANDO (6): Que la Ley Orgánica del Presupuesto establece en el artículo 90 que la Tesorería General de la República podrá emitir títulos y valores para cubrir insuficiencias estacionales de caja, debiendo ser reembolsados durante el mismo ejercicio fiscal en que se emitan. De superarse este lapso, sin ser reembolsados, se transformarán en deuda pública, encargándose de su formalización la Dirección General de Crédito Público. La emisión de títulos valores de corto plazo para atender insuficiencias estacionales de caja, deberá ser coordinada con el Banco Central de Honduras, para fines de la política monetaria.
 
-CONSIDERANDO (7): Que mediante Acuerdo No.129- 2026 del 4 de febrero de 2026, emitido por la Secretaría de Estado en el Despacho de Finanzas para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, aprobado mediante Decreto Legislativo No.
+CONSIDERANDO (7): Que mediante Acuerdo No. 129-2026 del 4 de febrero de 2026, emitido por la Secretaría de Estado en el Despacho de Finanzas para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, aprobado mediante Decreto Legislativo No. 4-2025, anteriormente vigente para el Ejercicio Fiscal 2025, autorizó hasta un máximo de VEINTISIETE MIL QUINIENTOS NOVENTA Y NUEVE MILLONES SEISCIENTOS SIETE MIL SETECIENTOS NOVENTA Y SEIS LEMPIRAS EXACTOS (L27,599,607,796.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
 
-4-2025, anteriormente vigente para el Ejercicio Fiscal 2025, autorizó hasta un máximo de VEINTISIETE MIL QUINIENTOS NOVENTA Y NUEVE MILLONES SEISCIENTOS SIETE MIL SETECIENTOS NOVENTA Y SEIS LEMPIRAS EXACTOS (L27,599,607,796.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
-
-CONSIDERANDO (8): Que mediante Decreto Legislativo No.62-2026 del 21 de abril de 2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, el cual establece hasta un máximo de TREINTA MIL NOVECIENTOS OCHENTA Y CINCO MILLONES CIENTO TREINTA Y OCHO MIL SETENTA Y TRES LEMPIRAS EXACTOS (L30,985,138,073.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
+CONSIDERANDO (8): Que mediante Decreto Legislativo No. 62-2026 del 21 de abril de 2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, el cual establece hasta un máximo de TREINTA MIL NOVECIENTOS OCHENTA Y CINCO MILLONES CIENTO TREINTA Y OCHO MIL SETENTA Y TRES LEMPIRAS EXACTOS (L30,985,138,073.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
 
 CONSIDERANDO (9): Que el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, establece en los artículos 40 y 248 la negociación de valores se regirá por el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018, publicado en el Diario oficial "La Gaceta" el 12 de marzo de 2018 y que autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar operaciones de gestión de pasivos, con el propósito de mitigar riesgos financieros y/o mejorar el perfil de vencimiento de la cartera de la deuda pública.
 
@@ -55,13 +53,13 @@ CONSIDERANDO (10): Que el artículo 289 del Presupuesto General de Ingresos y Eg
 
 POR TANTO:
 
-El Secretario de Estado en el Despacho de Finanzas, en uso de las facultades de que está investido y en aplicación a lo establecido en los artículos siguiente: 246, 247, 248, 321, 323 y 368 de la Constitución de la República de Honduras contenido en el Decreto No. 131; 7, 33, 36 numerales 8) y 19), 116, 118, 119 y 122 de la Ley General de la Administración Pública contenido en el Decreto Legislativo No. 146-86 ; 29, 64, 65, 66, 67, 76, 77, 82 numeral 5) y 90 de la Ley Orgánica del Presupuesto contenida en el Decreto Legislativo No. 83- 2004; 1, 7, 39, 40, 174, 248 y 289 del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, contenido en el Decreto Legislativo No. 62-2026; 5 del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras contenido en el Acuerdo Ejecutivo No.301-2018; 16, 17 y 60 numeral 4) del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM- 008-97 y sus reformas; y, demás normativa legal aplicable.
+El Secretario de Estado en el Despacho de Finanzas, en uso de las facultades de que está investido y en aplicación a lo establecido en los artículos siguiente: 246, 247, 248, 321, 323 y 368 de la Constitución de la República de Honduras contenido en el Decreto No. 131; 7, 33, 36 numerales 8) y 19), 116, 118, 119 y 122 de la Ley General de la Administración Pública contenido en el Decreto Legislativo No. 146-86; 29, 64, 65, 66, 67, 76, 77, 82 numeral 5) y 90 de la Ley Orgánica del Presupuesto contenida en el Decreto Legislativo No. 83-2004; 1, 7, 39, 40, 174, 248 y 289 del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, contenido en el Decreto Legislativo No. 62-2026; 5 del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras contenido en el Acuerdo Ejecutivo No. 301-2018; 16, 17 y 60 numeral 4) del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97 y sus reformas; y, demás normativa legal aplicable.
 
 ACUERDA:
 
 PRIMERO: Reformar los artículos PRIMERO y
 
-SEGUNDO del Acuerdo No.129-2026 de fecha 4 de febrero del año 2026, los cuales se leerán de la siguiente forma:
+SEGUNDO del Acuerdo No. 129-2026 de fecha 4 de febrero del año 2026, los cuales se leerán de la siguiente forma:
 
 PRIMERO: Para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Reformulado, Ejercicio Fiscal 2026, se autoriza en el artículo 7 hasta un máximo de TREINTA MIL NOVECIENTOS OCHENTA Y CINCO MILLONES CIENTO TREINTA Y OCHO MIL SETENTA Y TRES LEMPIRAS EXACTOS (L30,985,138,073.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
 

@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdos Nos. 006-2019, 038-2020, 039-2020, 034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201103-35418/download"
 extraido: "2026-11-14"
-huella: "ab2864dba7b1967a"
+huella: "9ebcee05162abc63"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 006-2019
@@ -27,7 +27,7 @@ huella: "ab2864dba7b1967a"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
 
 1. Instruir a: los Directores de las Direcciones de Alimentos y Bebidas, Dispositivos Médicos y Otros Dispositivos de Interés Sanitario, Productos Farmacéuticos y Otros de Interés Sanitario y Vigilancia y Fiscalización que, a partir de la fecha todo informe técnico emitido, debe estar firmado por el técnico responsable y por el Director, según corresponda.
 

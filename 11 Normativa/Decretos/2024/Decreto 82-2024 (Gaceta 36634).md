@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 82-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240908-36634/download"
 extraido: "2026-11-14"
-huella: "c4fb4a6549b87cd3"
+huella: "bdd8437e5e97174b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 82-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Convención Americana de Derechos Humanos (CADH), concurre 
 
 CONSIDERANDO: Que el Artículo 51 reformado de la Constitución de la República, crea el Consejo Nacional Electoral (CNE), autónomo e independiente sin relación de subordinación con los Poderes del Estado, de seguridad nacional, con personalidad jurídica, jurisdicción y competencia en toda la República.
 
-CONSIDERANDO: Que la Ley Electoral de Honduras, contenida en el Decreto No.35-2021 del 25 de Mayo de 2021, publicado en el Diario Oficial “La Gaceta” de fecha 26 de Mayo de 2021, en su Artículo 21, establece las atribuciones del Consejo Nacional Electoral (CNE) en cuanto a su organización y funcionamiento. En el literal f) de dicho Artículo, se especifica que el Consejo Nacional Electoral (CNE) tiene la facultad de elaborar los presupuestos especiales para las elecciones primarias y las elecciones generales, los cuales deben ser remitidos al Congreso Nacional para su aprobación.
+CONSIDERANDO: Que la Ley Electoral de Honduras, contenida en el Decreto No. 35-2021 del 25 de Mayo de 2021, publicado en el Diario Oficial “La Gaceta” de fecha 26 de Mayo de 2021, en su Artículo 21, establece las atribuciones del Consejo Nacional Electoral (CNE) en cuanto a su organización y funcionamiento. En el literal f) de dicho Artículo, se especifica que el Consejo Nacional Electoral (CNE) tiene la facultad de elaborar los presupuestos especiales para las elecciones primarias y las elecciones generales, los cuales deben ser remitidos al Congreso Nacional para su aprobación.
 
 CONSIDERANDO: Que dicho cuerpo normativo, en su Artículo 259 numeral 15) de la Ley Electoral de Honduras, establece que el material electoral a utilizarse en los procesos electorales debe contener, la maleta que incluya los documentos electorales, documentos auxiliares y materiales necesarios para llevar a cabo la votación y el escrutinio, dentro de los cuales se encuentra un lector de huellas dactilares.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

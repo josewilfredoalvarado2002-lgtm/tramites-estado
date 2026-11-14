@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. STSS-001-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210115-35488/download"
 extraido: "2026-11-14"
-huella: "6cb5c18e5a0f7c4d"
+huella: "e84b4316b5f4dc34"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-001-2021
@@ -39,13 +39,13 @@ CONSIDERANDO: El Gobierno de la República por medio del Decreto Ejecutivo PCM-0
 
 CONSIDERANDO: Que el PCM-001-2021 de fecha 03 de enero de 2021, en su artículo 3, en el cual se exceptúa a esta Secretaría de Estado de las restricciones de las garantías constituciones a los Funcionarios y Empleados de la Secretaría de Trabajo y Seguridad Social, aplicando las medidas estrictas de bioseguridad emitidas por el Sistema Nacional de Gestión de Riesgos (SINAGER).
 
-CONSIDERANDO: En el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No.33-2020 de fecha 2 de abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” de fecha 3 de abril del año 2020. En el cual condicionaba la presentación de las suspensiones de contratos de trabajo hasta que culminara la vigencia de la emergencia Nacional Sanitaria; por lo que, se llevó una propuesta de reforma al seno del Consejo Económico y Social
+CONSIDERANDO: En el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No. 33-2020 de fecha 2 de abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” de fecha 3 de abril del año 2020. En el cual condicionaba la presentación de las suspensiones de contratos de trabajo hasta que culminara la vigencia de la emergencia Nacional Sanitaria; por lo que, se llevó una propuesta de reforma al seno del Consejo Económico y Social
 
 (CES) del precitado Decreto Legislativo, siendo aprobado por el Congreso Nacional de la República mediante Decreto Legislativo No. 178-2020, autorizando a esta Secretaría de Estado a habilitar los días y plazos correspondientes.
 
 POR TANTO
 
-En aplicación de los artículos 59, 127, 138, 247, 255 y 321 de la Constitución de la República; 7, 28, 29 numeral 8, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública; y, 3, 16, 23 y 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Legislativo No.33-2020 y 178-2020, Decretos Ejecutivos Número PCM-005-2020, PCM-021- 2020, PCM-045-2020, PCM-146-2020 y PCM-001-2021.
+En aplicación de los artículos 59, 127, 138, 247, 255 y 321 de la Constitución de la República; 7, 28, 29 numeral 8, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública; y, 3, 16, 23 y 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Legislativo No. 33-2020 y 178-2020, Decretos Ejecutivos Número PCM-005-2020, PCM-021-2020, PCM-045-2020, PCM-146-2020 y PCM-001-2021.
 
 ACUERDA:
 

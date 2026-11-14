@@ -8,10 +8,10 @@ gaceta_numero: 35262
 gaceta_fecha: "2020-05-24"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35262 (2020-05-24)|La Gaceta 35262]]"
 paginas: "A. 9 - 32"
-sumario: "Decreto Ejecutivo número PCM-046-2020, 047-2020SECRETARÍA DE FINANZASAcuerdo No. 241-2020"
+sumario: "Decreto Ejecutivo número PCM-046-2020, 047-2020; SECRETARÍA DE FINANZAS: Acuerdo No. 241-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200524-35262-2/download"
 extraido: "2026-11-14"
-huella: "70710244bb8cfb19"
+huella: "6bc3a3e83b329e62"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 241-2020
@@ -23,7 +23,7 @@ huella: "70710244bb8cfb19"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35262 (2020-05-24)\|La Gaceta 35262]] del 2020-05-24 |
 | Páginas | A. 9 - 32 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-046-2020, 047-2020SECRETARÍA DE FINANZASAcuerdo No. 241-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-046-2020, 047-2020; SECRETARÍA DE FINANZAS: Acuerdo No. 241-2020 |
 
 ## Texto
 
@@ -39,15 +39,15 @@ CONSIDERANDO: Que la Constitución de la República en el Artículo No. 351, est
 
 CONSIDERANDO: Que mediante Decreto No. 33-2020 publicado en el Diario Oficial La Gaceta en fecha 03 de abril de 2020, en su Artículo 39 se estableció la No Sujeción al pago del Impuesto Sobre Ventas y Derechos Arancelarios a la importación de materias primas, maquinaria, insumos, equipos, repuestos, accesorios y material de empaque necesarios para la manufactura de insumos médicos, así como los antisépticos y desinfectantes que sirven de protección para atender la emergencia sanitaria y combatir los efectos de riesgo de infección por coronavirus.
 
-CONSIDERANDO: Que mediante Decreto No. 43-2020 publicado en el Diario Oficial La Gaceta en fecha 04 de mayo de 2020, se reforma el Artículo 39 del Decreto No.33-2020 de la Ley del Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19, publicada en fecha 03 de abril del año 2020, haciendo una ampliación de la no sujeción a los insumos y equipo médico.
+CONSIDERANDO: Que mediante Decreto No. 43-2020 publicado en el Diario Oficial La Gaceta en fecha 04 de mayo de 2020, se reforma el Artículo 39 del Decreto No. 33-2020 de la Ley del Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19, publicada en fecha 03 de abril del año 2020, haciendo una ampliación de la no sujeción a los insumos y equipo médico.
 
-CONSIDERANDO: Que el Decreto No.29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, establece la no sujeción del Impuesto Sobre Ventas e Impuesto Producción y Consumo en la compra local e importaciones de medicamentos, por lo que se hace necesario adicionar los listados de medicamentos para atender la emergencia sanitaria y combatir los efectos de probable riesgo de infección por coronavirus.
+CONSIDERANDO: Que el Decreto No. 29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, establece la no sujeción del Impuesto Sobre Ventas e Impuesto Producción y Consumo en la compra local e importaciones de medicamentos, por lo que se hace necesario adicionar los listados de medicamentos para atender la emergencia sanitaria y combatir los efectos de probable riesgo de infección por coronavirus.
 
 CONSIDERANDO: Que en el Artículo 104 numeral 3) del Código Tributario establece el supuesto de no sujeción se produce cuando el hecho realizado por el obligado tributario no se encuentra comprendido en el presupuesto legal que da origen a la obligación tributaria y aduanera.
 
 CONSIDERANDO: Que de conformidad al numeral 15 del Artículo 29 de la Ley de la Administración Pública y sus reformas, a la Secretaría de Estado en el Despacho de Finanzas, le compete entre otros todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas.
 
-CONSIDERANDO: Que el Artículo 1 del Decreto No.43- 2020 publicado en el Diario Oficial La Gaceta en fecha 04 de mayo de 2020, establece que la Secretaría de Estado en el Despacho de Finanzas en coordinación con la Administración Aduanera, deben emitir el instructivo técnico tributario respectivo para la aplicación de lo dispuesto en el artículo.
+CONSIDERANDO: Que el Artículo 1 del Decreto No. 43-2020 publicado en el Diario Oficial La Gaceta en fecha 04 de mayo de 2020, establece que la Secretaría de Estado en el Despacho de Finanzas en coordinación con la Administración Aduanera, deben emitir el instructivo técnico tributario respectivo para la aplicación de lo dispuesto en el artículo.
 
 CONSIDERANDO: Que en el Artículo 1 del Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial La Gaceta en fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (2019-nCoV).
 
@@ -57,9 +57,9 @@ CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización
 
 POR TANTO
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 59, 255 y 351 de la Constitución de la República; Artículos 104 numeral 3 del Código Tributario; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; 24, 25, 26 y 32, 33 de la Ley de Procedimiento Administrativo y sus reformas; 39 del Decreto No.33-2020 Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19;
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 59, 255 y 351 de la Constitución de la República; Artículos 104 numeral 3 del Código Tributario; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; 24, 25, 26 y 32, 33 de la Ley de Procedimiento Administrativo y sus reformas; 39 del Decreto No. 33-2020 Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19;
 
-Decreto Legislativo No.43-2020; Decreto Ejecutivo Número PCM-005-2020; Decreto Ejecutivo PCM 008-97 reformado mediante Decreto PCM 35-2015; Acuerdo 232-2020 de fecha 08 de abril del 2020.
+Decreto Legislativo No. 43-2020; Decreto Ejecutivo Número PCM-005-2020; Decreto Ejecutivo PCM 008-97 reformado mediante Decreto PCM 35-2015; Acuerdo 232-2020 de fecha 08 de abril del 2020.
 
 ACUERDA:
 
@@ -73,7 +73,7 @@ CAPÍTULO ÚNICO DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO.- El presente Instructivo Técnico Tributario Aduanero tiene por objeto desarrollar el contenido del Artículo 1 del Decreto No.43-2020, publicado en el Diario Oficial La Gaceta de fecha 04 de mayo del 2020, contentivo de la reforma del Artículo 39 de la Ley de Auxilio al Sector Productivo y a Los Trabajadores ante los Efectos de la Pandemia Provocada por Covid-19.
+ARTÍCULO 1.- OBJETO.- El presente Instructivo Técnico Tributario Aduanero tiene por objeto desarrollar el contenido del Artículo 1 del Decreto No. 43-2020, publicado en el Diario Oficial La Gaceta de fecha 04 de mayo del 2020, contentivo de la reforma del Artículo 39 de la Ley de Auxilio al Sector Productivo y a Los Trabajadores ante los Efectos de la Pandemia Provocada por Covid-19.
 
 Así como adicionar los listados de medicamentos autorizados con el Decreto 29-2020 publicado en el Diario Oficial La Gaceta de fecha 12 de marzo del 2020 y efectuar reformas en el Acuerdo 232-2020 de fecha 08 de abril del 2020.
 
@@ -131,7 +131,7 @@ ARTÍCULO 6.- A QUÉ BIENES APLICA LA NO
 
 SUJECIÓN.- A los insumos, equipo médico, así como las materias primas, maquinaria, insumos, equipos, repuestos, accesorios y material de empaque necesarios para la manufactura de insumos médicos, los antisépticos y desinfectantes que sirven de protección para atender la emergencia sanitaria y combatir los efectos del riesgo de infección por coronavirus.
 
-CAPÍTULO II DE LAS IMPORTACIONES Y COMPRAS LOCALES A R T Í C U L O 7 . - R E Q U I S I T O S E N L A S IMPORTACIONES.- Las personas naturales o jurídicas, incluyendo las personas incorporadas al Régimen de Zonas Libres deberán presentar:
+CAPÍTULO II DE LAS IMPORTACIONES Y COMPRAS LOCALES ARTÍCULO 7 . - REQUISITOS EN LAS IMPORTACIONES.- Las personas naturales o jurídicas, incluyendo las personas incorporadas al Régimen de Zonas Libres deberán presentar:
 
 a) Documentación conforme a la legislación aduanera vigente; y,
 
@@ -195,7 +195,7 @@ Conforme a lo establecido en la Ley del Impuesto Sobre Ventas en su literal b) L
 
 #### Artículo 17
 
-ARTÍCULO 17.- MEDICAMENTOS.- De conformidad a lo señalado en el Artículo anterior y en aplicación al Artículo 1 del Decreto No.29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, que establece que están No sujetos al pago de Impuesto Sobre Ventas e Impuesto de Producción y Consumo en los medicamentos para atender la emergencia sanitaria y combatir los efectos del probable riesgo de infección por coronavirus, se adiciona al Acuerdo 227-2020 publicado en el Diario Oficial La Gaceta el 20 de marzo del 2020 la siguiente lista de medicamentos, la cual no es limitativa:
+ARTÍCULO 17.- MEDICAMENTOS.- De conformidad a lo señalado en el Artículo anterior y en aplicación al Artículo 1 del Decreto No. 29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, que establece que están No sujetos al pago de Impuesto Sobre Ventas e Impuesto de Producción y Consumo en los medicamentos para atender la emergencia sanitaria y combatir los efectos del probable riesgo de infección por coronavirus, se adiciona al Acuerdo 227-2020 publicado en el Diario Oficial La Gaceta el 20 de marzo del 2020 la siguiente lista de medicamentos, la cual no es limitativa:
 
 #### Artículo 18
 
@@ -249,7 +249,7 @@ Las disposiciones contenidas en el presente instructivo tendrán una duración h
 
 #### Artículo 28
 
-ARTÍCULO 28.- ACTUALIZACIÓN.- La Secretaría de Estado en el Despacho de Finanzas en coordinación con la Administración Aduanera y Agencia de Regulación Sanitaria (ARSA) y el Sistema Nacional de Gestión de Riesgo (SINAGER) en caso de surgir nuevos requerimientos de insumos o equipos médicos necesarios para atender la emergencia sanitaria y combatir los efectos de riesgo de infección por coronavirus actualizará los listados en estricto apego a lo establecido en el Artículo 39 del Decreto No.33- 2020 y sus reformas.
+ARTÍCULO 28.- ACTUALIZACIÓN.- La Secretaría de Estado en el Despacho de Finanzas en coordinación con la Administración Aduanera y Agencia de Regulación Sanitaria (ARSA) y el Sistema Nacional de Gestión de Riesgo (SINAGER) en caso de surgir nuevos requerimientos de insumos o equipos médicos necesarios para atender la emergencia sanitaria y combatir los efectos de riesgo de infección por coronavirus actualizará los listados en estricto apego a lo establecido en el Artículo 39 del Decreto No. 33-2020 y sus reformas.
 
 #### Artículo 29
 

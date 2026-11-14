@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250628-36876/download"
 extraido: "2026-11-10"
-huella: "c0fe21fb3850226a"
+huella: "ac68628f176c9013"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -93,13 +93,13 @@ RESTAURACIÓN PESQUERA se podrán considerar de manera prioritaria más no limit
 
 1. Áreas identificadas como críticas para la reproducción, crianza y alimentación de especies de escama y otras de interés ecológico.​
 
-2. En dichas zonas, la prohibición de actividades pesqueras podrá ser temporal o permanente, según lo determinen los estudios técnicos y l a s n e c e s i d a d e s d e conservación y/o manejo sostenible.
+2. En dichas zonas, la prohibición de actividades pesqueras podrá ser temporal o permanente, según lo determinen los estudios técnicos y las necesidades de conservación y/o manejo sostenible.
 
 3. La DIGEPESCA, en coordinación con otras Instituciones pertinentes, garantizará la adecuada divulgación de las Áreas de Restauración Pesquera para el conocimiento de las comunidades pesqueras y el público en general, garantizando la no obstaculización y movilidad marítima.
 
-4. S e i m p l e m e n t a r á n programas de monitoreo y evaluación para medir la efectividad de las Áreas de No Pesca en la recuperación de las poblaciones de especies y la salud del ecosistema marino. Dichos monitoreos, serán el sustento técnico para la verificación de la eficacia de la medida.
+4. Se implementarán programas de monitoreo y evaluación para medir la efectividad de las Áreas de No Pesca en la recuperación de las poblaciones de especies y la salud del ecosistema marino. Dichos monitoreos, serán el sustento técnico para la verificación de la eficacia de la medida.
 
-C o n s e c u e n t e m e n t e , los resultados de este monitoreo, determinará si la medida será temporal o definitiva.
+Consecuentemente, los resultados de este monitoreo, determinará si la medida será temporal o definitiva.
 
 SÉPTIMO:
 
@@ -123,11 +123,11 @@ Se mantiene la veda indefinida para las especies de peces loro (Fam. Scaridae) y
 
 1. Familia Scaridade (peces loro):
 
-a) S c a r u s c o e l e s t i n u s (Medianoche)
+a) Scarus coelestinus (Medianoche)
 
 b) Scarus coeruleus (Azul)
 
-c) S c a r u s g u a c a m a i a (Guacamaya)
+c) Scarus guacamaia (Guacamaya)
 
 d) Scarus iseri (Rayado)
 
@@ -143,13 +143,13 @@ i) Sparisoma chrysopterum (Cola Roja)
 
 j) Sparisoma rubripinne (Cola Amarilla)
 
-k) S p a r i s o m a v i r i d e (Semáforo)
+k) Sparisoma viride (Semáforo)
 
 2. Familia Acanthuridae (peces cirujanos):
 
 a) Acanthurus coeruleus (Cirujano azul)
 
-b) A c a n t h u r u s t r a c t u s (Cirujano pardo)
+b) Acanthurus tractus (Cirujano pardo)
 
 c) Acanthurus chirurgus (Cirujano rayado).
 

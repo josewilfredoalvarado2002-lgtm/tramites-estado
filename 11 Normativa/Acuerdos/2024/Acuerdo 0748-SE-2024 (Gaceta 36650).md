@@ -11,7 +11,7 @@ paginas: "A. 27 - 51"
 sumario: "Acuerdos Nos. 0214-SE-2024, 0434-SE-2024, 0435-SE-2024, 0464-SE-2024, 0747-SE-2024, 0748-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "a4ed9dd833fb3255"
+huella: "b4dcd0a7b245ec76"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0748-SE-2024
@@ -379,7 +379,7 @@ Se lee en el Acuerdo de creación:
 
 Bachillerato Técnico Profesional en Mecánica de Aviación Bachillerato Técnico Profesional en Control de Calidad y Producción Bachillerato Técnico Profesional en Marítimo y Portuario
 
-SEXTO: Dados los indicadores de baja matrícula reportados por los institutos que ofertan el Bachillerato en Ciencias y Técnicas Acuícolas (Escuela Agrícola “Luis Landa” Nacaome, Valle) y el Bachillerato Técnico Profesional en Agricultura con orientación en Café (Instituto “Luis Ernesto Espinal” La Lima, El Paraíso e Instituto “Adán Bonilla Arellano” Florida, La Paz), han iniciado un proceso de desgaste a partir del año 2024 , utilizando las mismas estructuras presupuestarias e iniciaron el proceso de ampliación de las carreras de la siguiente manera: Bachillerato Técnico Profesional en Agroindustria en la Escuela Agrícola “Luis Landa” y el Bachillerato Técnico Profesional en Innovación y Desarrollo Agroforestal en los Centros de Educación Media “Luis Ernesto Espinal” y “Adán Bonilla Arellano”.
+SEXTO: Dados los indicadores de baja matrícula reportados por los institutos que ofertan el Bachillerato en Ciencias y Técnicas Acuícolas (Escuela Agrícola “Luis Landa” Nacaome, Valle) y el Bachillerato Técnico Profesional en Agricultura con orientación en Café (Instituto “Luis Ernesto Espinal” La Lima, El Paraíso e Instituto “Adán Bonilla Arellano” Florida, La Paz), han iniciado un proceso de desgaste a partir del año 2024, utilizando las mismas estructuras presupuestarias e iniciaron el proceso de ampliación de las carreras de la siguiente manera: Bachillerato Técnico Profesional en Agroindustria en la Escuela Agrícola “Luis Landa” y el Bachillerato Técnico Profesional en Innovación y Desarrollo Agroforestal en los Centros de Educación Media “Luis Ernesto Espinal” y “Adán Bonilla Arellano”.
 
 SÉPTIMO: El Bachillerato en Ecología y Medio Ambiente, en sus indicadores de matrícula, ha reflejado en sus últimos años baja demanda educativa, por lo cual se realizará el análisis para su conversión o actualización curricular.
 
@@ -397,9 +397,7 @@ DUODÉCIMO: Se garantiza a los docentes su estabilidad laboral y el respeto de l
 
 DÉCIMO TERCERO: Lo no previsto en el presente Acuerdo será resuelto por la Secretaría de Educación a través de la Dirección General de Currículo y Evaluación, de conformidad con las Leyes y Reglamentos vigentes.
 
-DÉCIMO CUARTO: El presente Acuerdo deroga el Acuerdo No.
-
-0166-SE-2023 de fecha 16 de febrero de 2023 en lo referente a los Bachilleratos Técnico Profesionales.
+DÉCIMO CUARTO: El presente Acuerdo deroga el Acuerdo No. 0166-SE-2023 de fecha 16 de febrero de 2023 en lo referente a los Bachilleratos Técnico Profesionales.
 
 DÉCIMO QUINTO: El presente Acuerdo valida el funcionamiento de los Planes de Estudio Anual de los Bachilleratos Técnico Profesionales, en los Centros Educativos Gubernamentales y No Gubernamentales autorizados, los cuales se rigen bajo los preceptos de la Constitución de la República, las Leyes y Reglamentos Educativos, así como las disposiciones emanadas por esta Secretaría de Estado.
 

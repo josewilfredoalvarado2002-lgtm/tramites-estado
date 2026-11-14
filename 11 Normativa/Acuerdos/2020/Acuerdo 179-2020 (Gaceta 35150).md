@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. 179-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200116-35150/download"
 extraido: "2026-11-14"
-huella: "4e11e787b0ca56ff"
+huella: "553fce34b1c78af9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 179-2020
@@ -29,7 +29,7 @@ huella: "4e11e787b0ca56ff"
 
 Tegucigalpa, M.D.C., 13 de enero de 2020 LA SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.12-2018 de fecha veintisiete de 2018, el Presidente Constitucional de la República nombró a la Licenciada ROCIO IZABEL TABORA MORALES Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 12-2018 de fecha veintisiete de 2018, el Presidente Constitucional de la República nombró a la Licenciada ROCIO IZABEL TABORA MORALES Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado, emitir Acuerdos, Resoluciones y Providencias en los asuntos de su competencia y en aquellos que les delegue el Presidente de la República y que la firma de esos actos será autorizada por el Secretario General Respectivo.
 
@@ -49,7 +49,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- DELEGAR en la ciudadana ROXANA MELANI RODRIGUEZ ALVARADO, nombrada mediante Acuerdo No.162-2018 de fecha 16 de mayo de 2018, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, como titular de la Secretaría de Estado en el Despacho de Finanzas, en la Comisión Administradora de la Zona Libre Turística del departamento de Islas de la Bahía y como SUPLENTE a la ciudadana ADA LORENA GODOY RAMIREZ, quien se desempeña como Subdirectora General de la Dirección General de Política Tributaria.
+ARTÍCULO 1.- DELEGAR en la ciudadana ROXANA MELANI RODRIGUEZ ALVARADO, nombrada mediante Acuerdo No. 162-2018 de fecha 16 de mayo de 2018, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, como titular de la Secretaría de Estado en el Despacho de Finanzas, en la Comisión Administradora de la Zona Libre Turística del departamento de Islas de la Bahía y como SUPLENTE a la ciudadana ADA LORENA GODOY RAMIREZ, quien se desempeña como Subdirectora General de la Dirección General de Política Tributaria.
 
 #### Artículo 2
 
@@ -57,9 +57,7 @@ ARTÍCULO 2.- Delegarle también en la ciudadana ROXANA MELANI RODRIGUEZ ALVARAD
 
 #### Artículo 3
 
-ARTÍCULO 3.- Dejar sin valor ni efecto el Acuerdo No.
-
-301-2019 de fecha 09 de mayo de 2019.
+ARTÍCULO 3.- Dejar sin valor ni efecto el Acuerdo No. 301-2019 de fecha 09 de mayo de 2019.
 
 #### Artículo 4
 

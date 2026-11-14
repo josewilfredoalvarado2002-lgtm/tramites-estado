@@ -11,7 +11,7 @@ paginas: "A. 7 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210319-35548/download"
 extraido: "2026-11-14"
-huella: "85e0ae65e87f6f04"
+huella: "bc103f35c50da794"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-033-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad al Artículo 245 numeral 11 de la Constitución
 
 CONSIDERANDO: Que con fundamento a lo establecido en los Artículos 11 y 17 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de diciembre del dos mil veinte (2020) Edición No. 35,472, el Consejo de Secretarios de Estado prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el treinta y uno (31) de diciembre del veintiuno (2021), decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha diez (10) de febrero del dos mil veinte (2020), Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023- 2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de diciembre del dos mil veinte (2020) Edición No. 35,472, el Consejo de Secretarios de Estado prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el treinta y uno (31) de diciembre del veintiuno (2021), decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha diez (10) de febrero del dos mil veinte (2020), Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
 
 CONSIDERANDO: Que según información epidemiológica publicada por la Secretaría de Estado en el Despacho de Salud al quince (15) de marzo de dos mil veinte y uno (2021), se reportó un número importante de contagios por la Pandemia de COVID-19 que ascienden a: 178,925 casos, 68,725 personas recuperadas y 4,360 fallecidos a nivel nacional, por lo que se impone la necesidad de ampliar hasta el treinta y uno (31) de diciembre del dos mil veinte (2021) la utilización y habilitación de un Centro de Triaje y Vacunación para la atención de pacientes sospechosos o diagnosticados con COVID-19 en el edificio identificado como Cuerpo Bajo “D”, en el Complejo Centro Cívico Gubernamental en el marco de la Emergencia Sanitaria COVID-19.
 

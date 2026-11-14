@@ -11,7 +11,7 @@ paginas: "A. 24 - 28"
 sumario: "Decreto No. 180-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201228-35471/download"
 extraido: "2026-11-14"
-huella: "bdafbf7560419606"
+huella: "b549c6470e98075d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 180-2020
@@ -33,11 +33,11 @@ CONSIDERANDO: Que Honduras es un Estado de Derecho, el cual, conforme al Artícu
 
 CONSIDERANDO: Que a través de la recaudación de los tributos el Estado obtiene ingresos para cubrir el gasto público reflejado en obras públicas de salud, educación, seguridad, infraestructura, vivienda, entre otros, de beneficio para todos los cuidados residentes en el País.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.170-2016 publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, entró en vigencia el Código Tributario, a partir del 1 de Enero de 2017, el cual contiene las normas que rigen las relaciones entre el Estado a través de la Administración Tributaria o la Administración Aduanera y los Obligados Tributarios.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 170-2016 publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, entró en vigencia el Código Tributario, a partir del 1 de Enero de 2017, el cual contiene las normas que rigen las relaciones entre el Estado a través de la Administración Tributaria o la Administración Aduanera y los Obligados Tributarios.
 
 CONSIDERANDO: Que se establece la necesidad de adaptar las actuaciones en materia tributaria a las nuevas disponibilidades tecnológicas que vienen adoptando las Administraciones Tributarias como parte de sus procesos de modernización.
 
-CONSIDERANDO: Que el Código Procesal Civil aprobado mediante Decreto Legislativo No.211-2006 así como la reciente reforma a los artículos 87 y 88 de la Ley de Procedimiento Administrativo mediante Decreto Legislativo No.266-2013, han instituido la notificación de las actuaciones a través de medios electrónicos, volviendo más eficiente y eficaz el accionar tanto de los órganos judiciales como de las instituciones del Poder Ejecutivo.
+CONSIDERANDO: Que el Código Procesal Civil aprobado mediante Decreto Legislativo No. 211-2006 así como la reciente reforma a los artículos 87 y 88 de la Ley de Procedimiento Administrativo mediante Decreto Legislativo No. 266-2013, han instituido la notificación de las actuaciones a través de medios electrónicos, volviendo más eficiente y eficaz el accionar tanto de los órganos judiciales como de las instituciones del Poder Ejecutivo.
 
 CONSIDERANDO: Que el Estado de Honduras ha adoptado la política de gobierno electrónico mediante la cual, se pretende mejorar cualitativamente los servicios que se ofrecen a la población a fin de aumentar la eficiencia y eficacia de la gestión pública e incrementar sustantivamente la transparencia.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 88, 89, 90, 91 y 93 del CÓDIGO TRIBUTARIO, contenido en el Decreto Legislativo No.170-2016 publicado en el Diario Oficial “La Gaceta” en fecha 28 de Diciembre de 2016, los que se leerán así:
+ARTÍCULO 1.- Reformar los artículos 88, 89, 90, 91 y 93 del CÓDIGO TRIBUTARIO, contenido en el Decreto Legislativo No. 170-2016 publicado en el Diario Oficial “La Gaceta” en fecha 28 de Diciembre de 2016, los que se leerán así:
 
 “ARTÍCULO 88.- NOTIFICACIONES.
 
@@ -93,7 +93,7 @@ TELE-MÁTICOS.
 
 \1) La Secretaría de Estado en el Despacho de Finanzas (SEFIN), Superinten-dencia Tributaria Aduanera, la Adminis-tración Tributaria y la Administración Aduanera, según corresponda, pueden efectuar las notificaciones por sistemas de comunicación electrónicos o telemáticos, incluyendo el buzón electrónico a través del Portal de la Administración Tributaria, identificando plenamente al remitente y destinatario de la notificación;
 
-Para estos efectos, las referidas instituciones deben realizar la notificación bajo una de las modalidades de firma electrónica incluyendo la firma equivalente de conformidad a lo establecido en la Ley de Firma Electrónica y sus reformas en el Decreto No.33-2020, así como en los reglamentos correspondientes;
+Para estos efectos, las referidas instituciones deben realizar la notificación bajo una de las modalidades de firma electrónica incluyendo la firma equivalente de conformidad a lo establecido en la Ley de Firma Electrónica y sus reformas en el Decreto No. 33-2020, así como en los reglamentos correspondientes;
 
 \2) Las notificaciones practicadas por sistemas de comunicación electrónicos o telemáticos tienen los mismos efectos legales que las realizadas personalmente y deben ser realizadas por el titular de la Secretaría General o por las personas a quien expresamente, mediante Acuerdo, se le hayan delegado esas funciones, debiendo consignarse así en el acto de la notificación por vía electrónica o telemática;
 

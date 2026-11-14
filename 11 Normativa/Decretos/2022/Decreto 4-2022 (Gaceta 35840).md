@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Decreto No. 4-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220204-35840/download"
 extraido: "2026-11-14"
-huella: "fbbebdef143013d8"
+huella: "d48d4d28f688dec2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 4-2022
@@ -45,7 +45,7 @@ Serán juzgados, según esta misma Constitución y las leyes expedidas en confor
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente, LEY PARA LA RECONSTRUCCIÓN DEL ESTADO CONSTITUCIONAL DE DERECHO Y PARA QUE LOS HECHOS NO SE REPITAN
 
@@ -53,7 +53,7 @@ CAPÍTULO I DE LA CONDENA AL GOLPE DE ESTADO DEL 28 DE JUNIO DEL AÑO 2009
 
 #### Artículo 1
 
-ARTÍCULO 1.- DEROGACIÓN DEL DECRETO LEGISLATIVO NO.141-2009 Y RECHAZAR EL GOLPE DE ESTADO. Derogar el Decreto Legislativo No.141-2009 de separación del Presidente Constitucional de la República de Honduras José Manuel Zelaya Rosales, aprobado el domingo 28 de Junio del 2009 y publicado en el Diario Oficial “La Gaceta” 31,950 del día Miércoles 1 de Julio de 2009, por ser un Decreto Ilegal por no estar facultado este Poder del Estado para separar al Presidente de la República a quien no se le ha comprobado ningún delito hasta la fecha en memoria de las víctimas, para que los hechos no se repitan. Rechazar el Golpe de Estado perpetrado el 28 de Junio de 2009, por constituir un hecho ilícito internacional de conformidad con la sentencia dictada el 5 de Octubre del 2015 por la Corte Interamericana de Derechos Humanos, por el cual la Asamblea General de la Organización de los Estados Americanos (OEA), en aplicación del Artículo 21 de la Carta Democrática y 9 de la Carta de la Organización de los Estados Americanos (OEA) suspendió el derecho de Honduras a participar en dicha organización.
+ARTÍCULO 1.- DEROGACIÓN DEL DECRETO LEGISLATIVO NO.141-2009 Y RECHAZAR EL GOLPE DE ESTADO. Derogar el Decreto Legislativo No. 141-2009 de separación del Presidente Constitucional de la República de Honduras José Manuel Zelaya Rosales, aprobado el domingo 28 de Junio del 2009 y publicado en el Diario Oficial “La Gaceta” 31,950 del día Miércoles 1 de Julio de 2009, por ser un Decreto Ilegal por no estar facultado este Poder del Estado para separar al Presidente de la República a quien no se le ha comprobado ningún delito hasta la fecha en memoria de las víctimas, para que los hechos no se repitan. Rechazar el Golpe de Estado perpetrado el 28 de Junio de 2009, por constituir un hecho ilícito internacional de conformidad con la sentencia dictada el 5 de Octubre del 2015 por la Corte Interamericana de Derechos Humanos, por el cual la Asamblea General de la Organización de los Estados Americanos (OEA), en aplicación del Artículo 21 de la Carta Democrática y 9 de la Carta de la Organización de los Estados Americanos (OEA) suspendió el derecho de Honduras a participar en dicha organización.
 
 #### Artículo 2
 
@@ -137,7 +137,7 @@ Artículos 370, 371, 372, 373, 373A, Capítulo VII
 
 Artículo 374 y 375, Capítulo VIII, Artículo 376, Título XII, Capítulo III, 331, 332 A, Capítulo V,
 
-Artículo 335, Capítulo VII, Artículos 337, 338, 339, 340, 341 y 342, Capítulo IX Artículos 343 y 344, Título VII, Capítulo I Artículos 217, 218 y 219, Capítulo IV Artículo 227, 228 y 229, Capítulo IX, 254, Capítulo X, Artículos 256 y 257, Título VI, Capítulo I Artículo193 del Código Penal , Artículo 62 de la Ley Orgánica del Tribunal Superior de Cuentas y Artículos 172, 176, 179 y 186 de la Ley Forestal, cuyas causas se encuentren en cualquiera de las etapas del proceso penal.
+Artículo 335, Capítulo VII, Artículos 337, 338, 339, 340, 341 y 342, Capítulo IX Artículos 343 y 344, Título VII, Capítulo I Artículos 217, 218 y 219, Capítulo IV Artículo 227, 228 y 229, Capítulo IX, 254, Capítulo X, Artículos 256 y 257, Título VI, Capítulo I Artículo193 del Código Penal, Artículo 62 de la Ley Orgánica del Tribunal Superior de Cuentas y Artículos 172, 176, 179 y 186 de la Ley Forestal, cuyas causas se encuentren en cualquiera de las etapas del proceso penal.
 
 \2) Con la vigencia del Código Penal contenido en el Decreto No.130-2017 de fecha 18 de Enero de 2018, esta amnistía incluye los delitos contemplados en los artículos siguientes: En el Título II Capítulo II, Artículo 183 y 184; Título III Capítulo II Artículos 199 y 200; Título VIII Capítulo I Artículo 235, 236, 237 y 238, Capítulo II Artículo 245, 246 y 248; Título XX Capítulo II Artículo 360 Capítulo VIII Artículo 378, 379 y 380, Capítulo IX artículo 381, 382, 283; Título XXVI Capítulo III Sección I Artículo 456, 458, 460, Sección II 461 y 452 Capítulo IV Artículo 473; Título XXIX Capítulo I Artículo 532 y 535, Sección II Artículo 541, Sección III Delitos
 

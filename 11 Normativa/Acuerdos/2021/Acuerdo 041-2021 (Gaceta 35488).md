@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdos Ministeriales Nos. 041-2021, 042-202"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210115-35488/download"
 extraido: "2026-11-14"
-huella: "85f67e6738d72eda"
+huella: "875f6561c68f3f8b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 041-2021
@@ -47,7 +47,7 @@ ACUERDA:
 
 PRIMERO: Delegar funcionalmente como encargada de la Subgerencia de Recursos Humanos a la Licenciada ISIS PAOLA RODRIGUEZ BETANCOURTH, dicha delegación comprende la firma de todo lo relacionado con el desempeño de su cargo.
 
-SEGUNDO: Dejar sin valor y efecto el Acuerdo No. 099- 2020, en el que se nombró funcionalmente al Licenciado EDWYN ROLANDO LAINEZ, en el puesto de encargado de la Subgerencia de Recursos Humanos.
+SEGUNDO: Dejar sin valor y efecto el Acuerdo No. 099-2020, en el que se nombró funcionalmente al Licenciado EDWYN ROLANDO LAINEZ, en el puesto de encargado de la Subgerencia de Recursos Humanos.
 
 TERCERO: El presente Acuerdo es efectivo a partir del 12 de enero del año 2021 y deberá ser publicado en el Diario Oficial La Gaceta.
 

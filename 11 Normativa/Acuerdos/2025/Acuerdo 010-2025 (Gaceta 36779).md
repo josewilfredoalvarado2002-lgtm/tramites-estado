@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 010-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250301-36779/download"
 extraido: "2026-11-12"
-huella: "70d868a9c495925d"
+huella: "0bb1421a912c1648"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 010-2025
@@ -47,7 +47,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus atribuciones en aplicación de los Artículos 246, 247 255 y 321 de la Constitución de la República; 28, 29, 36, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Reformar el numeral segundo del Acuerdo Ministerial No. 003-2025 de fecha siete (07) de enero del año dos mil veinticinco (2025), el cual deberá leerse así: Los fondos necesarios para el pago de Gastos de Representación en el exterior serán pagados del Presupuesto de esta Secretaría de Estado, por el Programa 12, Actividad 04, Objetos 14200 Gastos de Representación en el Exterior.
 

@@ -11,7 +11,7 @@ paginas: "A. 5"
 sumario: "Acuerdos Ejecutivos Nos. 107-2023,110-2023, 114-2023, 119-2023, 124-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230920-36338/download"
 extraido: "2026-11-14"
-huella: "3982a7c2083b75b9"
+huella: "b88501d31656ffc7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 124-2023
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 16-2023 de fecha 11 de abril del año 2023.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-16-2023 de fecha 11 de abril del año 2023.
 
 ACUERDA
 

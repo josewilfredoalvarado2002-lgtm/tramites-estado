@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ministerial No. 045-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260622-37174/download"
 extraido: "2026-11-09"
-huella: "a57b4d591e78a2f2"
+huella: "a8716ee0adce8c51"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 045-2026
@@ -39,9 +39,7 @@ CONSIDERANDO: El superior podrá delegar el ejercicio de sus funciones para asun
 
 CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para este en materia procedimental.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-080-2023 de fecha 06 de noviembre del 2023, se nombró a la ciudadana FANNY RUBÍ RAMOS BARDALES, en el puesto de Planificador Presupuestario V, de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 080-2023 de fecha 06 de noviembre del 2023, se nombró a la ciudadana FANNY RUBÍ RAMOS BARDALES, en el puesto de Planificador Presupuestario V, de esta Secretaría de Estado.
 
 CONSIDERANDO: Que en fecha ocho (08) de mayo del año dos mil veintiséis (2026), esta Secretaría General recibió Comunicación Interna GA-091-2026 por parte de la Abogada Mary Delmi Hernández Sánchez, Gerente Administrativo mediante la cual solicita Acuerdo de Delegación a favor de la Licenciada FANNY RUBÍ RAMOS BARDALES, quien se desempeña como Planificador Presupuestario V, para que realice las funciones como encargada de la Subgerencia de Presupuesto, a partir del once (11) de mayo del año dos mil veintiséis (2026).
 

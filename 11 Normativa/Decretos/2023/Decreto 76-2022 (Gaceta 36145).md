@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 76-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230202-36145/download"
 extraido: "2026-11-14"
-huella: "dde9b2ef9fbe9804"
+huella: "8fdb85aee297f829"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 76-2022
@@ -29,23 +29,23 @@ huella: "dde9b2ef9fbe9804"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que de conformidad al Artículo 17 de la Ley de Municipalidades, contenido en el Decreto No.134-90 de fecha 29 de Octubre de 1990, los municipios para su mejor administración se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos y las ciudades en colonias y barrios.
+CONSIDERANDO: Que de conformidad al Artículo 17 de la Ley de Municipalidades, contenido en el Decreto No. 134-90 de fecha 29 de Octubre de 1990, los municipios para su mejor administración se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos y las ciudades en colonias y barrios.
 
 CONSIDERANDO: Que el Municipio de Cantarranas, del departamento de Francisco Morazán, posee un importante valor histórico y cultural, lo que lo convierte en patrimonio de especial importancia.
 
 CONSIDERANDO: Que conforman Patrimonio Cultural de la Nación, los bienes culturales que poseen especialmente valor por su importancia histórica y antropológica.
 
-CONSIDERANDO: Que los bienes culturales constituyen uno de los fundamentos de la cultura de los pueblos y que adquiere su verdadero valor cuando se conocen con precisión su origen, historia y contexto y se divulgan para el conocimiento de la población, son de fundamentos para proteger por parte del Instituto Hondureño de Antropología e Historia (IHAH), las disposiciones de los artículos 172 y 173 de la Constitución de la República de Honduras y la Ley para la Protección del Patrimonio Cultural de la Nación, Decreto Legislativo No.220-97 de fecha 17 de Diciembre de 1997.
+CONSIDERANDO: Que los bienes culturales constituyen uno de los fundamentos de la cultura de los pueblos y que adquiere su verdadero valor cuando se conocen con precisión su origen, historia y contexto y se divulgan para el conocimiento de la población, son de fundamentos para proteger por parte del Instituto Hondureño de Antropología e Historia (IHAH), las disposiciones de los artículos 172 y 173 de la Constitución de la República de Honduras y la Ley para la Protección del Patrimonio Cultural de la Nación, Decreto Legislativo No. 220-97 de fecha 17 de Diciembre de 1997.
 
-CONSIDERANDO: Que el Municipio de Cantarranas cuenta con un dictamen favorable, Expediente No.025- SGP-2020, Informe Técnico de Valoración del Centro Histórico del Municipio.
+CONSIDERANDO: Que el Municipio de Cantarranas cuenta con un dictamen favorable, Expediente No. 025- SGP-2020, Informe Técnico de Valoración del Centro Histórico del Municipio.
 
-CONSIDERANDO: Que el Instituto Hondureño de Antropología e Historia (IHAH), mediante la Resolución No.007-G-2021, de fecha 28 de Mayo del 2021 autorizó a la Corporación Municipal de Cantarranas, la declaratoria del Centro Histórico del Municipio.
+CONSIDERANDO: Que el Instituto Hondureño de Antropología e Historia (IHAH), mediante la Resolución No. 007-G-2021, de fecha 28 de Mayo del 2021 autorizó a la Corporación Municipal de Cantarranas, la declaratoria del Centro Histórico del Municipio.
 
 CONSIDERANDO: Que la Constitución de la República, en su Artículo 205 Atribución 1 establece que es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

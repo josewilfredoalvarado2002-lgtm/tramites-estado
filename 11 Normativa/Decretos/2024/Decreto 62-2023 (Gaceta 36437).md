@@ -11,7 +11,7 @@ paginas: "A. 1 - 156"
 sumario: "Decreto No. 62-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240118-36437/download"
 extraido: "2026-11-14"
-huella: "b2bcecf79f687907"
+huella: "29400a0484083982"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 62-2023
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 El siguiente:
 
@@ -173,21 +173,19 @@ Institución Porcentaje Asignado Procedencia de los ingresos Criterio/Base Legal
 
 Los ingresos que perciba por concepto de los servicios que preste.
 
-Ley de Creación Decreto No.84-2001 artículo 11 Patrimonio de CENET, numeral 3 Fondos provenientes de la venta de servicios técnicos a instituciones y organización de desarrollo, así como las rentas y productos de sus bienes. Acuerdo No.0042-PE-04 Reglamento para la Administración de Recursos Propios.
+Ley de Creación Decreto No. 84-2001 artículo 11 Patrimonio de CENET, numeral 3 Fondos provenientes de la venta de servicios técnicos a instituciones y organización de desarrollo, así como las rentas y productos de sus bienes. Acuerdo No. 0042-PE-04 Reglamento para la Administración de Recursos Propios.
 
 Los ingresos que perciba por concepto de los servicios que preste Los ingresos que perciba por concepto de los servicios que preste Los ingresos que perciba por concepto de los servicios que preste Los ingresos de los valores que cobren por venta de Papel Especial Notarial y los demás servicios que prestan como Emisión de Constancias de antecedentes, Servicio de auténticas y tasas varias (tramite de citaciones, notificaciones, requerimientos, entre otros).
 
-Los ingresos que perciba por concepto de los servicios prestados Decreto Legislativo No.294-93 Ley de Creación del Cuerpo de Bomberos de Honduras Capítulo VIII artículo 40 y Decreto No.
-
-134-90 Ley de Municipalidades, artículo 83 Servicio de Bomberos.
+Los ingresos que perciba por concepto de los servicios prestados Decreto Legislativo No. 294-93 Ley de Creación del Cuerpo de Bomberos de Honduras Capítulo VIII artículo 40 y Decreto No. 134-90 Ley de Municipalidades, artículo 83 Servicio de Bomberos.
 
 Los ingresos de los valores que cobren de la Tasa Municipal.
 
-Ley Orgánica de la Marina Mercante Decreto No. 167-94 y su reforma según Decreto No.200-97, del 31 de enero de 1998, Gaceta No.28,478 establece en el artículo 84.-Las tasas a que este Capítulo se refiere se pagarán en la Tesorería General de la República o en la institución bancaria que aquella haya autorizado para el efecto.
+Ley Orgánica de la Marina Mercante Decreto No. 167-94 y su reforma según Decreto No. 200-97, del 31 de enero de 1998, Gaceta No. 28,478 establece en el artículo 84.-Las tasas a que este Capítulo se refiere se pagarán en la Tesorería General de la República o en la institución bancaria que aquella haya autorizado para el efecto.
 
 Los ingresos que por la inscripción en el Registro de Buques y por la emisión de la Patente de Navegación recaude en el exterior, así como cualquier otro ingreso propio que genere.
 
-Los ingresos que perciba por concepto de los servicios que preste Decreto Legislativo No.404-2013, artículo 3 literal G. y el Decreto Legislativo No.61-2020, artículo 3.
+Los ingresos que perciba por concepto de los servicios que preste Decreto Legislativo No. 404-2013, artículo 3 literal G. y el Decreto Legislativo No. 61-2020, artículo 3.
 
 Los ingresos que perciba por concepto de los servicios que preste Los ingresos que perciba del aporte por regulación de la suscripción de Contratos de Participación Público Privada No.
 
@@ -195,17 +193,17 @@ Institución Porcentaje Asignado Procedencia de los ingresos Criterio/Base Legal
 
 Los ingresos de los valores que perciban a través de los establecimientos oficiales de Educación.
 
-Instituto Nacional de desarrollo y Conservación Forestal, Áreas Protegidas y Vida Silvestre (ICF) Ley Forestal, Áreas protegida y Vida Silvestre Decreto No.156- 2007, Articulo 32 Todos los Ingresos que genere el instituto, sea por actividades propias o eventuales deben depositarse a la cuenta que la Tesorería General de la República mantiene en el Banco Central de Honduras.
+Instituto Nacional de desarrollo y Conservación Forestal, Áreas Protegidas y Vida Silvestre (ICF) Ley Forestal, Áreas protegida y Vida Silvestre Decreto No. 156-2007, Articulo 32 Todos los Ingresos que genere el instituto, sea por actividades propias o eventuales deben depositarse a la cuenta que la Tesorería General de la República mantiene en el Banco Central de Honduras.
 
 Ingresos provenientes de las distintas actividades que realizan sus dependencias.
 
 Ingresos provenientes del cobro de los servicios de supervisión, vigilancia y asesoramiento, recaudados por los prestadores de Agua Potable y Saneamiento.
 
-Con base a lo establecido en Articulo 133 Decreto Legislativo No.101-2018 Ingresos que reciba por concepto de registro de armas.
+Con base a lo establecido en Articulo 133 Decreto Legislativo No. 101-2018 Ingresos que reciba por concepto de registro de armas.
 
 Los ingresos que perciban la Industria Militar de las Fuerzas Armadas (IMFFAA), el Hospital Militar, la Universidad de Defensa de Honduras; Los ingresos de la Unidad de Venta de Servicios Aeronáuticos de la Fuerza Aérea Hondureña (UVESAFAH).
 
-Decreto Ejecutivo No. PCM-042-2017, publicado el 5 de agosto de 2017, Gaceta No. 34,409 y el Decreto Legislativo. No.29- 2011 Ley Sistema Nacional de Calidad Ingresos Propios generados por el Sistema Nacional de Calidad Ingresos que se perciben por Concepto de Matrícula Consular e Ingresos provenientes de las distintas actividades que realizan sus dependencias, incluye la implementación de las apostillas electrónicas.
+Decreto Ejecutivo No. PCM-042-2017, publicado el 5 de agosto de 2017, Gaceta No. 34,409 y el Decreto Legislativo. No. 29-2011 Ley Sistema Nacional de Calidad Ingresos Propios generados por el Sistema Nacional de Calidad Ingresos que se perciben por Concepto de Matrícula Consular e Ingresos provenientes de las distintas actividades que realizan sus dependencias, incluye la implementación de las apostillas electrónicas.
 
 Ingresos que perciba el PPICPU a través de los cobros que realiza por Presentaciones artísticas, Venta de Productos artísticos, Donaciones, entre otros.
 
@@ -215,9 +213,9 @@ Ingresos que perciba por servicios prestados y serán reconocidos a través de l
 
 No.
 
-Institución Porcentaje Asignado Procedencia de los ingresos Criterio/Base Legal Servicios Prestados) y Acuerdo SEN 159- 2022 del 28 de noviembre del 2022 De los ingresos que genere los Programas de DIGEPESCA y PRONAGRI, por arrendamiento de tierras para cultivo de camarón, licencias de comercialización, pesca deportiva, venta de alevines, multas de la Ley de pesca, licencias para pesca artesanal, prestación de servicios de laboratorio, entre otros.
+Institución Porcentaje Asignado Procedencia de los ingresos Criterio/Base Legal Servicios Prestados) y Acuerdo SEN 159-2022 del 28 de noviembre del 2022 De los ingresos que genere los Programas de DIGEPESCA y PRONAGRI, por arrendamiento de tierras para cultivo de camarón, licencias de comercialización, pesca deportiva, venta de alevines, multas de la Ley de pesca, licencias para pesca artesanal, prestación de servicios de laboratorio, entre otros.
 
-De los ingresos que se generan por los depósitos de las empresas en concepto de canon operacional por el servicio de vigilancia y supervisión aduanera que brinda esta Institución a las Empresas acogidas a regímenes especiales, almacenes de depósito, depósitos temporales, y otros recursos que sean percibidos por actividades propias, eventuales o emanadas de leyes vigentes, como ser los ingresos percibidos en el sistema Bancario Nacional autorizado por concepto de Intereses por Depósitos en Garantía generados en las instituciones Bancarias de sistema. y transferidos a la cuenta receptora de la Tesorería General de la República y de igual forma lo concerniente a los ingresos establecidos según los artículos 50 y 51 del Decreto No.17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial La Gaceta el 9 de abril de 2010, Edición No.32,183.
+De los ingresos que se generan por los depósitos de las empresas en concepto de canon operacional por el servicio de vigilancia y supervisión aduanera que brinda esta Institución a las Empresas acogidas a regímenes especiales, almacenes de depósito, depósitos temporales, y otros recursos que sean percibidos por actividades propias, eventuales o emanadas de leyes vigentes, como ser los ingresos percibidos en el sistema Bancario Nacional autorizado por concepto de Intereses por Depósitos en Garantía generados en las instituciones Bancarias de sistema. y transferidos a la cuenta receptora de la Tesorería General de la República y de igual forma lo concerniente a los ingresos establecidos según los artículos 50 y 51 del Decreto No. 17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial La Gaceta el 9 de abril de 2010, Edición No. 32,183.
 
 Ingresos que perciba por servicios prestados y serán reconocidos a través de los depósitos efectuados con el TGR-1 y validados la DGP de la Secretaría de Finanzas.
 
@@ -243,7 +241,7 @@ Para la utilización de estos recursos, la Secretaría de Defensa, presentará a
 
 Ingresos provenientes de las distintas actividades que realizan sus dependencias.
 
-LEY ORGÁNICA DE LA PGR Decreto No.74, artículo 7.- Las funciones de la Procuraduría General de la República son autónomas, salvo en los casos que, conforme a la ley, debe atender instrucciones especiales. El Presupuesto de la Procuraduría General de la República y sus dependencias figurarán en una sección especial del Presupuesto General de la República.
+LEY ORGÁNICA DE LA PGR Decreto No. 74, artículo 7.- Las funciones de la Procuraduría General de la República son autónomas, salvo en los casos que, conforme a la ley, debe atender instrucciones especiales. El Presupuesto de la Procuraduría General de la República y sus dependencias figurarán en una sección especial del Presupuesto General de la República.
 
 Ingresos provenientes de las distintas actividades que realizan sus dependencias.
 
@@ -275,7 +273,7 @@ ARTÍCULO 11.- Los ingresos que perciba la Procuraduría General de la Repúblic
 
 Artículo 9 de esta Ley.
 
-La distribución de los ingresos se efectuará de acuerdo con lo previsto en el Artículo 34 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, contenida en el Decreto No. 278- 2013 del 21 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, es decir, hasta el 10.0% para la PGR y hasta el 10.0% para el Tribunal Superior de Cuentas (TSC).
+La distribución de los ingresos se efectuará de acuerdo con lo previsto en el Artículo 34 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, contenida en el Decreto No. 278-2013 del 21 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, es decir, hasta el 10.0% para la PGR y hasta el 10.0% para el Tribunal Superior de Cuentas (TSC).
 
 Los ingresos que se perciban por la intervención de la Procuraduría General de la República (PGR), a solicitud de otras Instituciones, deben depositarse en la Cuenta Única de la Tesorería General de la República y se les otorgará hasta el diez por ciento (10%) de tales ingresos.
 
@@ -301,7 +299,7 @@ Los recursos se destinarán a cubrir los gastos de mantenimiento y operación de
 
 #### Artículo 15
 
-ARTÍCULO 15.- Los fondos recaudados por las empresas hoteleras, las arrendadoras de vehículos para fines turísticos y las operadoras de turismo en concepto del cuatro por ciento (4%) por servicios turísticos, de acuerdo con lo establecido por el Artículo 43 de la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, contenida en del Decreto Legislativo No.131-98 del 30 de abril de 1998, publicado en el Diario Oficial “La Gaceta” de fecha 20 de mayo de 1998; deben ser depositados por las empresas en la Tesorería General de la República o en la agencia recaudadora autorizada para tal fin. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) transferirá a la Secretaría de Estado en el Despacho de Turismo, para que esta a su vez transfiera dichos recursos al Instituto Hondureño de Turismo (IHT), para la promoción y fomento del turismo e impulsar y fomentar el auto sostenimiento de dicho Instituto.
+ARTÍCULO 15.- Los fondos recaudados por las empresas hoteleras, las arrendadoras de vehículos para fines turísticos y las operadoras de turismo en concepto del cuatro por ciento (4%) por servicios turísticos, de acuerdo con lo establecido por el Artículo 43 de la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, contenida en del Decreto Legislativo No. 131-98 del 30 de abril de 1998, publicado en el Diario Oficial “La Gaceta” de fecha 20 de mayo de 1998; deben ser depositados por las empresas en la Tesorería General de la República o en la agencia recaudadora autorizada para tal fin. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) transferirá a la Secretaría de Estado en el Despacho de Turismo, para que esta a su vez transfiera dichos recursos al Instituto Hondureño de Turismo (IHT), para la promoción y fomento del turismo e impulsar y fomentar el auto sostenimiento de dicho Instituto.
 
 Del cuatro por ciento (4%) se destinará el uno por ciento (1%) a la creación de un fondo para la promoción de proyectos turísticos municipales.
 
@@ -497,7 +495,7 @@ ARTÍCULO 34.- Los distintos rubros de recursos, cualquiera que sea su fuente de
 
 La Secretaría de Estado en el Despacho de Finanzas (SEFIN) podrá contratar títulos de deuda y préstamos de fuente interna a externa y viceversa, o de organismos financieros; siempre que no exceda el monto total de endeudamiento autorizado en la presente Ley. Las operaciones se registrarán a través de una modificación presupuestaria.
 
-Los recursos de Cooperaciones no Reembolsables y Reembolsables depositados en las cuentas y libretas operativas, son de carácter fungible para efectos de la ejecución y podrán generar espacio fiscal entre la administración c e n t r a l y l a a d m i n i s t r a c i ó n descentralizada.
+Los recursos de Cooperaciones no Reembolsables y Reembolsables depositados en las cuentas y libretas operativas, son de carácter fungible para efectos de la ejecución y podrán generar espacio fiscal entre la administración central y la administración descentralizada.
 
 #### Artículo 35
 
@@ -517,7 +515,7 @@ La Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dire
 
 #### Artículo 38
 
-ARTÍCULO 38.- La negociación de valores se regirá por el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No.301-2018 del 5 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de marzo de 2018.
+ARTÍCULO 38.- La negociación de valores se regirá por el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de marzo de 2018.
 
 #### Artículo 39
 
@@ -537,7 +535,7 @@ Las Municipalidades, Instituciones Descentralizadas y Autónomas deben presentar
 
 #### Artículo 41
 
-ARTÍCULO 41.- Se autoriza a la Empresa Nacional de Energía Eléctrica (ENEE) para realizar las colocaciones de los saldos disponibles del endeudamiento ya autorizado, mediante Decreto Legislativo No.157-2022.
+ARTÍCULO 41.- Se autoriza a la Empresa Nacional de Energía Eléctrica (ENEE) para realizar las colocaciones de los saldos disponibles del endeudamiento ya autorizado, mediante Decreto Legislativo No. 157-2022.
 
 Asimismo, la ENEE podrá emitir nuevos títulos y valores, contratar préstamos, líneas de crédito u otro mecanismo financiero legalmente viable hasta por un monto de DOS MIL MILLONES DE LEMPIRAS (L2,000,000,000.00).
 
@@ -649,7 +647,7 @@ ARTÍCULO 57.- Las instituciones del Estado no podrán afectar fondos provenient
 
 #### Artículo 58
 
-ARTÍCULO 58.- E f e c t u a d a s l a s d e d u c c i o n e s correspondientes, se aplicará la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No.80-2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 7 de Junio de 2013, para el pago de los sueldos del personal diplomático, consular y cualquiera otra persona que ostente un cargo de representación en el exterior.
+ARTÍCULO 58.- Efectuadas las deducciones correspondientes, se aplicará la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No. 80-2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 7 de Junio de 2013, para el pago de los sueldos del personal diplomático, consular y cualquiera otra persona que ostente un cargo de representación en el exterior.
 
 Cualquier cargo adicional que se genere por diferencial cambiario o comisiones bancarias por la transferencia, deberá ser cubierto con su propio presupuesto. En ningún caso, dichos cargos se adicionarán al salario integral del empleado o funcionario.
 
@@ -855,13 +853,13 @@ b. Conmoción interna o calamidad pública;
 
 c. Pago de prestaciones laborales y/o cesantías;
 
-d. Ajuste por pago de derechos a d q u i r i d o s ( c o l a t e r a l e s establecidos en la contratación colectiva o reglamentación interna);
+d. Ajuste por pago de derechos adquiridos ( colaterales establecidos en la contratación colectiva o reglamentación interna);
 
 e. Pago de Sentencias por Demandas Laborales ordenado judicialmente, en los casos que no se cuente con otra fuente de financiamiento;
 
-f. Cubrir Salario Mínimo de una nueva negociación o en caso de que éste no haya sido ajustado en el año 2023 de acuerdo con lo establecido en el artículo 172 del Decreto Legislativo No. 157- 2022, contentivo del ejercicio fiscal 2023;
+f. Cubrir Salario Mínimo de una nueva negociación o en caso de que éste no haya sido ajustado en el año 2023 de acuerdo con lo establecido en el artículo 172 del Decreto Legislativo No. 157-2022, contentivo del ejercicio fiscal 2023;
 
-g. R e v a l o r i z a c i ó n d e l o s quinquenios en caso de que no hayan sido cubiertos en el año 2023 de acuerdo con lo establecido en el artículo 160 del Decreto Legislativo No. 157- 2022, contentivo del ejercicio fiscal 2023;
+g. Revalorización de los quinquenios en caso de que no hayan sido cubiertos en el año 2023 de acuerdo con lo establecido en el artículo 160 del Decreto Legislativo No. 157-2022, contentivo del ejercicio fiscal 2023;
 
 h. Cubrir las indemnizaciones establecidas en la Ley Constitutiva de las Fuerzas Armadas, conforme al Decreto No. 189 del 15 de julio de 1959, contentivo del Código del Trabajo y los reconocimientos por los servicios prestados a la Patria, equivalente al monto que resultare al aplicar el auxilio de cesantía, incluyendo el personal asignado al Programa 01 Actividades Centrales, de la Secretaría de Estado en el Despacho de Defensa Nacional; y,
 
@@ -883,7 +881,7 @@ ARTÍCULO 94.- El procedimiento a seguir para el cálculo de las horas extraordi
 
 #### Artículo 95
 
-ARTÍCULO 95.- Se reconoce el pago del tiempo extraordinario al personal de Servicio de Tránsito Aéreo (Controladores Aéreos) y de Servicios de Información Aeronáutica (Plan de Vuelo), dependientes de la Agencia Hondureña de Aeronáutica Civil; motoristas asignados a la máxima autoridad institucional; personal de Seguridad, Transporte y Emisión, así como personal de la Tesorería del Banco Central de Honduras (BCH), que realizan misiones oficiales de traslado de valores del Banco; personal del BCH que labora para la Encuesta Nacional de Ingresos y Egresos de los Hogares (ENIGH) y el Banco Nacional de Desarrollo Agrícola, respecto a las labores de custodia, traslado y manejo de valores, sin perjuicio de lo dispuesto en el artículo 31 numeral 1), inciso c) de la Ley de Equidad Tributaria, contenida en el Decreto No.51-2003 de fecha 3 de abril de 2003, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Abril de 2003.
+ARTÍCULO 95.- Se reconoce el pago del tiempo extraordinario al personal de Servicio de Tránsito Aéreo (Controladores Aéreos) y de Servicios de Información Aeronáutica (Plan de Vuelo), dependientes de la Agencia Hondureña de Aeronáutica Civil; motoristas asignados a la máxima autoridad institucional; personal de Seguridad, Transporte y Emisión, así como personal de la Tesorería del Banco Central de Honduras (BCH), que realizan misiones oficiales de traslado de valores del Banco; personal del BCH que labora para la Encuesta Nacional de Ingresos y Egresos de los Hogares (ENIGH) y el Banco Nacional de Desarrollo Agrícola, respecto a las labores de custodia, traslado y manejo de valores, sin perjuicio de lo dispuesto en el artículo 31 numeral 1), inciso c) de la Ley de Equidad Tributaria, contenida en el Decreto No. 51-2003 de fecha 3 de abril de 2003, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Abril de 2003.
 
 #### Artículo 96
 
@@ -961,7 +959,7 @@ ARTÍCULO 102.- Autorizar con base en las recomendaciones de la Oficina Normativ
 
 \6) El Titular de la Institución debe remitir al Tribunal Superior de Cuentas (TSC), todos los contratos que suscriba bajo la modalidad del proceso especial para efectos de auditoría.
 
-En lo no previsto se aplicará la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y su Reglamento. Este procedimiento se aplicará únicamente a procesos con cuantía superior a SEISCIENTOS MIL LEMPIRAS (L600,000.00).
+En lo no previsto se aplicará la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y su Reglamento. Este procedimiento se aplicará únicamente a procesos con cuantía superior a SEISCIENTOS MIL LEMPIRAS (L600,000.00).
 
 #### Artículo 103
 
@@ -971,13 +969,13 @@ Umbrales y Modalidades de Contratación
 
 #### Artículo 104
 
-ARTÍCULO 104.- En cumplimiento de lo dispuesto por el Artículo 360 de la Constitución de la República y el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
+ARTÍCULO 104.- En cumplimiento de lo dispuesto por el Artículo 360 de la Constitución de la República y el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
 
 No.
 
 Tipo de Contratos Monto exigible en Lempiras Modalidad de Contratación L3,000,000.01 en adelante Licitación Pública L1,500,000.01 a L3,000,000.00 Licitación Privada 1 Contratos de Obras Públicas L500,000.01 a L1,500,000.00 Tres (3) Cotizaciones válidas L100,000.01 a L500,000.00 Dos (2) Cotizaciones válidas L0.01 a L100,000.00 Una (1) Cotización válida L1,250,000.01 en adelante Concurso Público L350,000.01 a L1,250.000.00 Concurso Privado 2 Contratos de Consultorías Compra Menor con un mínimo de L200,000.01 a L350.000.00 L0.01 a L200,000.00 Compra Menor con un mínimo de una (1) Propuesta Técnica y económica válida L1,000,000.01 en adelante Licitación Pública L300,000.01 a L1,000,000,00 Licitación Privada L100,000.01 a L300,000.00 Compra Menor con un mínimo de L50,000.01 a L100,000.00 Compra Menor con un mínimo de L0.01 a L50,000.00 Compra Menor con un mínimo de El monto de los contratos que el Estado suscriba incluye el pago de los impuestos excepto las exoneraciones establecidas en normativa nacional o internacional.
 
-En cumplimiento del Artículo 37 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, no será necesaria la inscripción en el registro de proveedores y contratistas cuando se trate de contratos que su cuantía no requiera de licitación o concurso.
+En cumplimiento del Artículo 37 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, no será necesaria la inscripción en el registro de proveedores y contratistas cuando se trate de contratos que su cuantía no requiera de licitación o concurso.
 
 #### Artículo 105
 
@@ -989,9 +987,7 @@ La inobservancia de los techos de contratación, según el sistema en el que se 
 
 #### Artículo 106
 
-ARTÍCULO 106.- Las cotizaciones a las que hace referencia este artículo deben ser de proveedores no relacionados entre sí, de acuerdo con lo establecido en el Decreto No.
-
-232-2011 del 8 de Diciembre de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Diciembre de 2011, Artículo 3, numeral 3), de la Ley de Regulación de Precios de Transferencias que define los casos de partes relacionadas o vinculadas. En el documento de cotización deben constar los datos generales del proveedor, así como el número del Registro Tributario Nacional (RTN).
+ARTÍCULO 106.- Las cotizaciones a las que hace referencia este artículo deben ser de proveedores no relacionados entre sí, de acuerdo con lo establecido en el Decreto No. 232-2011 del 8 de Diciembre de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Diciembre de 2011, Artículo 3, numeral 3), de la Ley de Regulación de Precios de Transferencias que define los casos de partes relacionadas o vinculadas. En el documento de cotización deben constar los datos generales del proveedor, así como el número del Registro Tributario Nacional (RTN).
 
 #### Artículo 107
 
@@ -1003,15 +999,13 @@ ARTÍCULO 108.- En cumplimiento del Artículo 4 de la Ley de Transparencia y Acc
 
 #### Artículo 109
 
-ARTÍCULO 109.- Los procesos para la contratación de arrendamiento de bienes inmuebles se sujetarán a las disposiciones contenidas en la Ley de Inquilinato, de acuerdo con lo dispuesto por el artículo 360 párrafo segundo de la Constitución de la República y 2 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que manda una regulación especial en cuanto a su preparación, adjudicación o formalización, sin perjuicio de las solemnidades o requisitos de forma que para la validez de dichos contratos exigiere el Derecho Privado.
+ARTÍCULO 109.- Los procesos para la contratación de arrendamiento de bienes inmuebles se sujetarán a las disposiciones contenidas en la Ley de Inquilinato, de acuerdo con lo dispuesto por el artículo 360 párrafo segundo de la Constitución de la República y 2 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que manda una regulación especial en cuanto a su preparación, adjudicación o formalización, sin perjuicio de las solemnidades o requisitos de forma que para la validez de dichos contratos exigiere el Derecho Privado.
 
 No obstante, el contratante deberá asegurarse de cumplir con los principios de publicidad, transparencia, igualdad y libre competencia en el proceso de selección, y debe a su vez documentar el proceso en un expediente administrativo que estará sujeto a la auditoría de los entes contralores del Estado. Esta contratación, no formará parte del Plan Anual de Compras y Contrataciones (PACC).
 
 #### Artículo 110
 
-ARTÍCULO 110.- Para dar cumplimiento a los planes de defensa nacional y en aplicación de las leyes y reglamentos que rigen a las Fuerzas Armadas, la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA), está autorizada para ejecutar sus asignaciones presupuestarias, bajo descentralización operativa, según Acuerdo SDN No.
-
-006-2018. Este mecanismo de gestión aplica a los objetos de gasto de alimentos y bebidas para personas, combustibles y lubricantes, grasas y aceites, bienes materiales y servicios para el sistema de sanidad militar; y repuestos accesorios y servicios para el equipo militar.
+ARTÍCULO 110.- Para dar cumplimiento a los planes de defensa nacional y en aplicación de las leyes y reglamentos que rigen a las Fuerzas Armadas, la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA), está autorizada para ejecutar sus asignaciones presupuestarias, bajo descentralización operativa, según Acuerdo SDN No. 006-2018. Este mecanismo de gestión aplica a los objetos de gasto de alimentos y bebidas para personas, combustibles y lubricantes, grasas y aceites, bienes materiales y servicios para el sistema de sanidad militar; y repuestos accesorios y servicios para el equipo militar.
 
 Los responsables del proceso de compras y contrataciones deben acompañar evidencia que el fin de las actividades es la urgencia de la contratación.
 
@@ -1031,15 +1025,15 @@ Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Seguridad, ef
 
 ARTÍCULO 112.- Todas las instituciones del Estado, en los procesos de adquisición de bienes y servicios, deben otorgar la preferencia a proveedores locales, emprendedores, micro, pequeña y mediana empresa; y organizaciones del sector social de la economía; debiendo acreditar la ubicación geográfica en el expediente administrativo y en sus liquidaciones de gasto mensual.
 
-La contratación directa únicamente podrá realizarse en los casos y con las condiciones previstas por la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001.
+La contratación directa únicamente podrá realizarse en los casos y con las condiciones previstas por la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001.
 
 #### Artículo 113
 
-ARTÍCULO 113.- El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, se sancionará con multa equivalente a cero punto treinta y seis por ciento (0.36%), por cada día de retraso, en relación con el monto total del saldo del contrato. El Pliego de Condiciones y el Contrato de Construcción y Supervisión de Obras Públicas, debe contener la cláusula sancionatoria. Esta misma disposición se debe aplicar también a las compras realizadas mediante catálogo electrónico y los contratos de bienes y servicios que celebren las Instituciones del Sector Público.
+ARTÍCULO 113.- El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, se sancionará con multa equivalente a cero punto treinta y seis por ciento (0.36%), por cada día de retraso, en relación con el monto total del saldo del contrato. El Pliego de Condiciones y el Contrato de Construcción y Supervisión de Obras Públicas, debe contener la cláusula sancionatoria. Esta misma disposición se debe aplicar también a las compras realizadas mediante catálogo electrónico y los contratos de bienes y servicios que celebren las Instituciones del Sector Público.
 
 #### Artículo 114
 
-ARTÍCULO 114.- Los pagos por anticipo de fondos únicamente se autorizarán para contratos de obra pública y no deben exceder del veinte por ciento (20%) del monto total del contrato, de conformidad con lo establecido por la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001. A los contratistas extranjeros se les puede otorgar anticipo, únicamente cuando los proyectos sean financiados como mínimo en un ochenta por ciento (80%) con fondos externos.
+ARTÍCULO 114.- Los pagos por anticipo de fondos únicamente se autorizarán para contratos de obra pública y no deben exceder del veinte por ciento (20%) del monto total del contrato, de conformidad con lo establecido por la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001. A los contratistas extranjeros se les puede otorgar anticipo, únicamente cuando los proyectos sean financiados como mínimo en un ochenta por ciento (80%) con fondos externos.
 
 #### Artículo 115
 
@@ -1051,7 +1045,7 @@ Lo dispuesto en este Artículo debe consignarse obligatoriamente en los pliegos 
 
 ARTÍCULO 116.- Las adquisiciones realizadas a través de los catálogos electrónicos, independientemente de su monto, se harán mediante la emisión de una orden de compra directa, la cual será generada en el módulo Catálogo Electrónico que se encuentra en el Sistema Nacional de Compras y Contrataciones HONDUCOMPRAS. Se autoriza a la Oficina Normativa de Contrataciones y Adquisiciones del Estado (ONCAE) para emitir lineamientos que permitan generar mayor oportunidad de competencia dentro del catálogo, para aquellas adquisiciones que debido a su monto puedan brindar mayores beneficios de ahorro para el Estado.
 
-Las compras de bienes o servicios que se ejecuten fuera del Sistema N a c i o n a l d e C o m p r a s y Contrataciones HONDUCOMPRAS, independientemente de su monto, serán nulas si se constata que tales bienes y servicios están disponibles en el catálogo electrónico.
+Las compras de bienes o servicios que se ejecuten fuera del Sistema Nacional de Compras y Contrataciones HONDUCOMPRAS, independientemente de su monto, serán nulas si se constata que tales bienes y servicios están disponibles en el catálogo electrónico.
 
 En la Circular de Habilitación se detallarán los motivos para solicitar una Autorización de Compra por fuera del Catálogo de los productos que están detallados en la misma. Los usuarios del catálogo electrónico estarán obligados a generar una pre-orden de compra previo a la generación de la orden de compra oficial, con el propósito de verificar la existencia del producto por parte del proveedor u otros motivos que imposibiliten la selección de éste.
 
@@ -1075,7 +1069,7 @@ El Instituto de Acceso a la Información Pública (IAIP) verificará la publicac
 
 #### Artículo 119
 
-ARTÍCULO 119.- La coordinación de la elaboración, publicación, ejecución y modificación del PACC es responsabilidad del Gerente Administrativo, o su equivalente y de la máxima autoridad de la institución, conforme lo establecido por el Artículo 5 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001. Para este propósito la Oficina Normativa de Contrataciones y Adquisiciones del Estado (ONCAE) brindará los lineamientos específicos.
+ARTÍCULO 119.- La coordinación de la elaboración, publicación, ejecución y modificación del PACC es responsabilidad del Gerente Administrativo, o su equivalente y de la máxima autoridad de la institución, conforme lo establecido por el Artículo 5 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001. Para este propósito la Oficina Normativa de Contrataciones y Adquisiciones del Estado (ONCAE) brindará los lineamientos específicos.
 
 Los Planes Anuales de Compras y Contrataciones (PACC), actualizados deben ser publicados por las instituciones en el sistema HONDUCOMPRAS y el Portal de Transparencia de las Instituciones, transcurridos treinta
 
@@ -1101,7 +1095,7 @@ ARTÍCULO 121.- La Oficina Normativa de Contrataciones y Adquisiciones del Estad
 
 #### Artículo 122
 
-ARTÍCULO 122.- Toda contratación directa amparada en un decreto de emergencia, deberá realizarse conforme lo establece la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y su Reglamento, y de acuerdo con los lineamientos que emita la ONCAE.
+ARTÍCULO 122.- Toda contratación directa amparada en un decreto de emergencia, deberá realizarse conforme lo establece la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y su Reglamento, y de acuerdo con los lineamientos que emita la ONCAE.
 
 Los procesos deben publicarse en HONDUCOMPRAS desde la etapa de elaboración hasta la formalización del Contrato, una vez que haya sido firmado.
 
@@ -1109,7 +1103,7 @@ Los procesos deben publicarse en HONDUCOMPRAS desde la etapa de elaboración has
 
 ARTÍCULO 123.- La Mesa de Resolución de Disputas
 
-(MRD) regulada en el artículo 3-A de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, es una instancia de resolución de conflictos, integrada por una a tres (3) personas designadas en el Contrato.
+(MRD) regulada en el artículo 3-A de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, es una instancia de resolución de conflictos, integrada por una a tres (3) personas designadas en el Contrato.
 
 Para contratos con monto inicial de contratación igual o superior a los CINCUENTA MILLONES DE LEMPIRAS (L50,000,000.00), las partes contratantes deben nombrar conjuntamente una Mesa de Resolución de Disputas (MRD) en la fecha establecida en el contrato.
 
@@ -1141,7 +1135,7 @@ ARTÍCULO 127.- En el proceso de ejecución presupuestaria, las instituciones de
 
 #### Artículo 128
 
-ARTÍCULO 128.- Los contratos de inversión pública sujetos a la Ley de Contratación del Estado, contenida en el Decreto No.74- 2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 o, Ley de Compras Eficientes, contenida en el Decreto No.36-2013 del 21 de marzo de 2013, publicada en el Diario Oficial “La Gaceta” del 5 de Agosto de 2014, a través de Medios Electrónicos, que sean suscritos por la Administración Pública, así como sus modificaciones, deben ser registrados en el Sistema HONDUCOMPRAS, a más tardar treinta
+ARTÍCULO 128.- Los contratos de inversión pública sujetos a la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 o, Ley de Compras Eficientes, contenida en el Decreto No. 36-2013 del 21 de marzo de 2013, publicada en el Diario Oficial “La Gaceta” del 5 de Agosto de 2014, a través de Medios Electrónicos, que sean suscritos por la Administración Pública, así como sus modificaciones, deben ser registrados en el Sistema HONDUCOMPRAS, a más tardar treinta
 
 (30) días después de la suscripción.
 
@@ -1157,7 +1151,7 @@ Viajes y Pasajes Aéreos
 
 #### Artículo 131
 
-ARTÍCULO 131.- Todas las instituciones públicas centralizadas, incluidas las Unidades Ejecutoras de Proyectos y Programas, deben aplicar el Reglamento de Viáticos y Otros Gastos de Viaje para Funcionarios y Empleados del Poder Ejecutivo, aprobado mediante Acuerdo Ejecutivo No.0696 de fecha 27 de Octubre de 2008.
+ARTÍCULO 131.- Todas las instituciones públicas centralizadas, incluidas las Unidades Ejecutoras de Proyectos y Programas, deben aplicar el Reglamento de Viáticos y Otros Gastos de Viaje para Funcionarios y Empleados del Poder Ejecutivo, aprobado mediante Acuerdo Ejecutivo No. 0696 de fecha 27 de Octubre de 2008.
 
 El incumplimiento de esta disposición dará lugar a la aplicación del Artículo 4 de esta Ley.
 
@@ -1211,7 +1205,7 @@ Los Titulares y Gerentes Administrativos o autoridad delegada, que incumpla esta
 
 #### Artículo 139
 
-ARTÍCULO 139.- Las Empresas Públicas a que se refiere el Artículo 53 de la Ley General de la Administración Pública, contenida en el Decreto No. 146-86 del 27 de Octubre de 1986, publicado en el Diario Oficial “La Gaceta” número 25,088 de fecha 29 de Noviembre de 1986, para determinar el Impuesto Sobre la Renta del presente Ejercicio Fiscal, no estarán sujetas a lo dispuesto en el artículo 22-A y sus reformas contenidas en la Ley del Impuesto Sobre la Renta, contenida en el Decreto No.25 del 20 de Diciembre de 1963, si no por lo dispuesto en el
+ARTÍCULO 139.- Las Empresas Públicas a que se refiere el Artículo 53 de la Ley General de la Administración Pública, contenida en el Decreto No. 146-86 del 27 de Octubre de 1986, publicado en el Diario Oficial “La Gaceta” número 25,088 de fecha 29 de Noviembre de 1986, para determinar el Impuesto Sobre la Renta del presente Ejercicio Fiscal, no estarán sujetas a lo dispuesto en el artículo 22-A y sus reformas contenidas en la Ley del Impuesto Sobre la Renta, contenida en el Decreto No. 25 del 20 de Diciembre de 1963, si no por lo dispuesto en el
 
 Artículo 22 de dicha Ley. Asimismo, las Empresas Públicas para el presente Ejercicio Fiscal, no estarán sujetas a los Pagos a Cuenta que determina el
 
@@ -1293,7 +1287,7 @@ El Gerente Administrativo y el subgerente de presupuesto o su equivalente en las
 
 ARTÍCULO 152.- Se instruye a todas las instituciones públicas realizar una revisión de los medidores de energía eléctrica, agua y líneas telefónicas a fin de determinar que los valores cobrados correspondan efectivamente a su institución. Cualquier pago que se realice indebidamente es responsabilidad del Gerente Administrativo o quien realice esta función en la institución.
 
-L a E m p r e s a H o n d u r e ñ a d e Telecomunicaciones (HONDUTEL), el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA), la Empresa Nacional de Energía Eléctrica (ENEE), quedan obligadas a suministrar a los poderes, órganos constitucionales e instituciones usuarias del Estado, el detalle del cobro de los servicios prestados durante el período que comprenden los respectivos avisos de pago. Asimismo, deben realizar los créditos correspondientes en los avisos de cobro, cuando el Estado haya utilizado el mecanismo de compensación para saldar deudas entre las prestadoras de servicios públicos y las instituciones públicas. En caso de que no haya acuerdo entre las instituciones para ejecutar el mecanismo de compensación, se debe aplicar el principio de la no simultaneidad de las prestaciones u obligaciones, por lo que cada una de las instituciones es responsable de realizar en tiempo y forma los pagos correspondientes.
+La Empresa Hondureña de Telecomunicaciones (HONDUTEL), el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA), la Empresa Nacional de Energía Eléctrica (ENEE), quedan obligadas a suministrar a los poderes, órganos constitucionales e instituciones usuarias del Estado, el detalle del cobro de los servicios prestados durante el período que comprenden los respectivos avisos de pago. Asimismo, deben realizar los créditos correspondientes en los avisos de cobro, cuando el Estado haya utilizado el mecanismo de compensación para saldar deudas entre las prestadoras de servicios públicos y las instituciones públicas. En caso de que no haya acuerdo entre las instituciones para ejecutar el mecanismo de compensación, se debe aplicar el principio de la no simultaneidad de las prestaciones u obligaciones, por lo que cada una de las instituciones es responsable de realizar en tiempo y forma los pagos correspondientes.
 
 #### Artículo 153
 
@@ -1325,7 +1319,7 @@ La contratación de profesionales del Derecho como consultores externos debe efe
 
 #### Artículo 157
 
-ARTÍCULO 157.- La capacidad de los contratistas, aptitud para contratar e inhabilidades contenidas en los artículos 15 y 16 de la Ley de Contratación del Estado contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, se aplicarán a todos los contratos que celebre la Administración Pública, independientemente de su modalidad.
+ARTÍCULO 157.- La capacidad de los contratistas, aptitud para contratar e inhabilidades contenidas en los artículos 15 y 16 de la Ley de Contratación del Estado contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, se aplicarán a todos los contratos que celebre la Administración Pública, independientemente de su modalidad.
 
 #### Artículo 158
 
@@ -1367,13 +1361,13 @@ ARTÍCULO 161.- Se autoriza a la Secretaría de Estado en los Despachos de Relac
 
 #### Artículo 162
 
-ARTÍCULO 162.- El proceso de adquisición de Seguros que realicen los Poderes del Estado, órganos constitucionales, Gobierno Central, Desconcentrado y Descentralizado, debe enmarcarse en la Ley de Contratación del Estado, contenida en el Decreto No.74- 2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y las regulaciones emitidas por la Comisión Nacional de Bancos y Seguros (CNBS).
+ARTÍCULO 162.- El proceso de adquisición de Seguros que realicen los Poderes del Estado, órganos constitucionales, Gobierno Central, Desconcentrado y Descentralizado, debe enmarcarse en la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001 y las regulaciones emitidas por la Comisión Nacional de Bancos y Seguros (CNBS).
 
 En cumplimiento de lo establecido por el Artículo 99 de la Ley de Instituciones de Seguros y Reaseguros, contenida en el Decreto No. 22-2001 del 2 de Abril de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 11 de Agosto de 2001, se prohíbe a los Institutos Públicos de Previsión Social, la contratación directa de Seguros y Fianzas a través de agentes, corredores o sociedades de corretaje, sobre los bienes de su propiedad y los relacionados con su cartera crediticia.
 
 #### Artículo 163
 
-ARTÍCULO 163.- Se faculta a las Secretarías de Estado, instituciones Desconcentradas y Descentralizadas para que contraten con cargo a su respectivo presupuesto, fianzas individuales de fidelidad a favor de cada una de las personas naturales que administren bienes y recursos públicos, para proteger los fondos y bienes del Estado, determinando los montos de dichas fianzas con base en la Ley del Tribunal Superior de Cuentas, contenida en el Decreto No.14-2002-E del 5 de Diciembre de 2002, publicado en el Diario Oficial “La Gaceta” de fecha 20 de Enero de 2003 y el Artículo 126 de su Reglamento.
+ARTÍCULO 163.- Se faculta a las Secretarías de Estado, instituciones Desconcentradas y Descentralizadas para que contraten con cargo a su respectivo presupuesto, fianzas individuales de fidelidad a favor de cada una de las personas naturales que administren bienes y recursos públicos, para proteger los fondos y bienes del Estado, determinando los montos de dichas fianzas con base en la Ley del Tribunal Superior de Cuentas, contenida en el Decreto No. 14-2002-E del 5 de Diciembre de 2002, publicado en el Diario Oficial “La Gaceta” de fecha 20 de Enero de 2003 y el Artículo 126 de su Reglamento.
 
 En el contrato de seguro se estipulará que el asegurador cobrará a los funcionarios y empleados públicos afianzados, los pagos hechos a favor del Estado como consecuencia del uso indebido y la infidelidad en el manejo de los bienes públicos. Las acciones de cobro que efectúen tanto el Estado como la compañía aseguradora, deben realizarse de conformidad con los informes que rindan las unidades de Auditoría Interna de cada institución y/o el Tribunal Superior de Cuentas (TSC).
 
@@ -1393,11 +1387,11 @@ ARTÍCULO 165.- Se prohíbe el uso de vehículos oficiales en horas y días inh�
 
 ARTÍCULO 166.- Todos los vehículos propiedad del Estado asignados a las distintas Secretarías de Estado, Desconcentradas, Descentralizadas y las Municipalidades, deben estar debidamente identificados con la Bandera Nacional y el emblema o logotipo de la institución a la cual pertenecen, salvo autorización otorgada por el Tribunal Superior de Cuentas (TSC).
 
-Se exceptúan de esta disposición las siguientes instituciones: Corte Suprema de Justicia (CSJ), Ministerio Público (MP), Policía Nacional (PN), Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA) y la Dirección Nacional de Investigación e Inteligencia (DNII) en amparo a la Ley de Protección Especial de Funcionarios y Exfuncionarios en Riesgo Extraordinario, contenida en el Decreto Legislativo No.323-2013 del 15 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” de fecha 1 de Julio de 2014.
+Se exceptúan de esta disposición las siguientes instituciones: Corte Suprema de Justicia (CSJ), Ministerio Público (MP), Policía Nacional (PN), Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA) y la Dirección Nacional de Investigación e Inteligencia (DNII) en amparo a la Ley de Protección Especial de Funcionarios y Exfuncionarios en Riesgo Extraordinario, contenida en el Decreto Legislativo No. 323-2013 del 15 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” de fecha 1 de Julio de 2014.
 
 #### Artículo 167
 
-ARTÍCULO 167.- La compra de combustibles no se sujetará a las modalidades de contratación previstas por el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, en virtud de que los precios son establecidos a través de una fórmula aprobada por el Gobierno de la República, por lo cual, la compra de combustibles no forma parte del Plan Anual de Compras y Contrataciones (PACC).
+ARTÍCULO 167.- La compra de combustibles no se sujetará a las modalidades de contratación previstas por el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, en virtud de que los precios son establecidos a través de una fórmula aprobada por el Gobierno de la República, por lo cual, la compra de combustibles no forma parte del Plan Anual de Compras y Contrataciones (PACC).
 
 #### Artículo 168
 
@@ -1587,7 +1581,7 @@ ARTÍCULO 195.- Las instituciones del Estado deben publicar en su página WEB, a
 
 #### Artículo 196
 
-ARTÍCULO 196.- Se autoriza al Patronato Nacional de la Infancia (PANI) a transferir a la Administración Central y depositar en la Tesorería General de la República, un monto mínimo de CUATROCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L450,000,000.00), para el Ejercicio Fiscal 2024, recursos procedentes del Convenio de Cooperación entre el Gobierno de Honduras y el Gobierno de Canadá, aprobado mediante Decreto Legislativo No.183-2011 del 12 de Octubre de 2011, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2011 y sus reformas.
+ARTÍCULO 196.- Se autoriza al Patronato Nacional de la Infancia (PANI) a transferir a la Administración Central y depositar en la Tesorería General de la República, un monto mínimo de CUATROCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L450,000,000.00), para el Ejercicio Fiscal 2024, recursos procedentes del Convenio de Cooperación entre el Gobierno de Honduras y el Gobierno de Canadá, aprobado mediante Decreto Legislativo No. 183-2011 del 12 de Octubre de 2011, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2011 y sus reformas.
 
 De los recursos que transfiera el PANI se financiarán los presupuestos siguientes:
 
@@ -1647,7 +1641,7 @@ El incumplimiento de estos pagos se sancionará de acuerdo con lo dispuesto por 
 
 #### Artículo 200
 
-ARTÍCULO 200.- Para efectos de establecer, reforzar y financiar un mecanismo de coordinación nacional para la operatividad de la Ley Especial para el Control del Tabaco y su reglamento y reforma contenida en el Decreto No.92-2010 de fecha 10 de junio de 2010, cada año se le asignará al Instituto Hondureño para la prevención del Alcoholismo Drogadicción y Farmacodependencia (IHADFA), una partida presupuestaria adicional al presupuesto aprobado, no menor de Diez Millones de Lempiras (L10,000,000.00), la que será incrementada en los siguientes ejercicios fiscales conforme a la disponibilidad financiera.
+ARTÍCULO 200.- Para efectos de establecer, reforzar y financiar un mecanismo de coordinación nacional para la operatividad de la Ley Especial para el Control del Tabaco y su reglamento y reforma contenida en el Decreto No. 92-2010 de fecha 10 de junio de 2010, cada año se le asignará al Instituto Hondureño para la prevención del Alcoholismo Drogadicción y Farmacodependencia (IHADFA), una partida presupuestaria adicional al presupuesto aprobado, no menor de Diez Millones de Lempiras (L10,000,000.00), la que será incrementada en los siguientes ejercicios fiscales conforme a la disponibilidad financiera.
 
 Estos recursos serán utilizados en parte para la apertura del Centro Nacional de Tratamiento de Adicciones de Honduras (CENATRAH 24/7), centro de salud mental que beneficiará a la población que sufre de adicciones y prestará servicio las veinticuatro (24) horas del día a pacientes adictos a las drogas.
 
@@ -1665,7 +1659,7 @@ El último desembolso debe ser liquidado a más tardar dos (2) meses de finaliza
 
 #### Artículo 202
 
-ARTÍCULO 202.- De los saldos disponibles que se trasladaron a la Tesorería General de la República provenientes de la liquidación que se realizó del Fideicomiso de Tasa de Seguridad Poblacional derogado mediante Decreto Legislativo No.66- 2022, del 27 de mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 15 de junio de 2022 y de cualquier otro ingreso tributario, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), asignará para su administración a la Secretaría de Estado en el Despacho de Asuntos de la Mujer los siguientes valores: Cincuenta Millones de Lempiras (L 50,000,000.00) para las ampliaciones de cobertura y funcionamiento como Secretaría de Estado, Treinta Millones de Lempiras (L30,000,000.00) para la construcción, equipamiento y mantenimiento de Casas Refugio para las mujeres sobrevivientes de violencia doméstica y gastos de funcionamiento de las ya existentes y Veinte Millones de Lempiras (L20,000,000.00) para acciones de prevención de violencia hacia las mujeres, alcanzando un total de Cien Millones de Lempiras (L100,000,000.00) adicionales al valor del techo asignado.
+ARTÍCULO 202.- De los saldos disponibles que se trasladaron a la Tesorería General de la República provenientes de la liquidación que se realizó del Fideicomiso de Tasa de Seguridad Poblacional derogado mediante Decreto Legislativo No. 66-2022, del 27 de mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 15 de junio de 2022 y de cualquier otro ingreso tributario, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), asignará para su administración a la Secretaría de Estado en el Despacho de Asuntos de la Mujer los siguientes valores: Cincuenta Millones de Lempiras (L 50,000,000.00) para las ampliaciones de cobertura y funcionamiento como Secretaría de Estado, Treinta Millones de Lempiras (L30,000,000.00) para la construcción, equipamiento y mantenimiento de Casas Refugio para las mujeres sobrevivientes de violencia doméstica y gastos de funcionamiento de las ya existentes y Veinte Millones de Lempiras (L20,000,000.00) para acciones de prevención de violencia hacia las mujeres, alcanzando un total de Cien Millones de Lempiras (L100,000,000.00) adicionales al valor del techo asignado.
 
 #### Artículo 203
 
@@ -1789,7 +1783,7 @@ No obstante, lo anterior, las personas naturales o jurídicas residentes en el p
 
 #### Artículo 212
 
-ARTÍCULO 212.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para realizar las colocaciones de los saldos disponibles de la emisión de títulos y valores de la deuda pública, establecida en el Artículo 1 del Decreto Legislativo No.157-2022 contentivo del Presupuesto de Ingresos para la Administración Central Ejercicio Fiscal 2023.
+ARTÍCULO 212.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para realizar las colocaciones de los saldos disponibles de la emisión de títulos y valores de la deuda pública, establecida en el Artículo 1 del Decreto Legislativo No. 157-2022 contentivo del Presupuesto de Ingresos para la Administración Central Ejercicio Fiscal 2023.
 
 Los recursos captados por este concepto serán destinados en casos de ser necesario, para financiar las prioridades de gobierno contenidas en el presupuesto del presente ejercicio fiscal.
 
@@ -1867,7 +1861,7 @@ En casos excepcionales y previa opinión de la Comisión Nacional de Bancos y Se
 
 #### Artículo 224
 
-ARTÍCULO 224.- Los excedentes y el superávit que reflejen los Institutos Públicos de Previsión y Seguridad Social, podrán ser utilizados para inversiones financieras de compra de títulos valores, letras de la Tesorería General de la República y Banco Central de Honduras (BCH), depósito a plazo, compra de acciones y cualquier otro instrumento tipificado en el Reglamento de Inversiones de los Fondos Públicos de Pensiones, así como los límites establecidos por instrumento en el mismo Reglamento contenido en el Acta No.1148 de la Comisión Nacional de Bancos y Seguros (CNBS), publicada en el Diario Oficial La Gaceta No. 34,418 del 16 de agosto de 2017.
+ARTÍCULO 224.- Los excedentes y el superávit que reflejen los Institutos Públicos de Previsión y Seguridad Social, podrán ser utilizados para inversiones financieras de compra de títulos valores, letras de la Tesorería General de la República y Banco Central de Honduras (BCH), depósito a plazo, compra de acciones y cualquier otro instrumento tipificado en el Reglamento de Inversiones de los Fondos Públicos de Pensiones, así como los límites establecidos por instrumento en el mismo Reglamento contenido en el Acta No. 1148 de la Comisión Nacional de Bancos y Seguros (CNBS), publicada en el Diario Oficial La Gaceta No. 34,418 del 16 de agosto de 2017.
 
 #### Artículo 225
 
@@ -1875,13 +1869,13 @@ ARTÍCULO 225.- Los Institutos Públicos de Previsión y Seguridad Social, deben
 
 #### Artículo 226
 
-ARTÍCULO 226.- Los funcionarios que utilicen seguridad personal con fondos públicos deben limitarse a un máximo de tres (3) personas. Se exceptúa de esta disposición lo dispuesto en el Decreto Legislativo No.323-2013 del 15 de Enero de 2014, que contienen la Ley de Protección Especial de Funcionarios y Exfuncionarios en Riesgo Extraordinario.
+ARTÍCULO 226.- Los funcionarios que utilicen seguridad personal con fondos públicos deben limitarse a un máximo de tres (3) personas. Se exceptúa de esta disposición lo dispuesto en el Decreto Legislativo No. 323-2013 del 15 de Enero de 2014, que contienen la Ley de Protección Especial de Funcionarios y Exfuncionarios en Riesgo Extraordinario.
 
 #### Artículo 227
 
 ARTÍCULO 227.- Sin perjuicio de lo establecido en el
 
-Artículo 31, numeral 2), letra c) de la Ley de Equidad Tributaria, contenida en el Decreto No.51-2003 del 3 de Abril de 2003, publicado en el Diario Oficial “La Gaceta” del 10 de Abril de 2003, el Reglamento de las presentes normas debe determinar a qué otros funcionarios se les reconoce el pago del servicio de telefonía celular, así como los límites máximos mensuales autorizados.
+Artículo 31, numeral 2), letra c) de la Ley de Equidad Tributaria, contenida en el Decreto No. 51-2003 del 3 de Abril de 2003, publicado en el Diario Oficial “La Gaceta” del 10 de Abril de 2003, el Reglamento de las presentes normas debe determinar a qué otros funcionarios se les reconoce el pago del servicio de telefonía celular, así como los límites máximos mensuales autorizados.
 
 Cuando el funcionario responsable del uso del Servicio de Celular exceda el consumo autorizado, la administración de cada institución debe realizar la deducción de su respectivo salario mensual.
 
@@ -1911,7 +1905,7 @@ La Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dire
 
 ARTÍCULO 230.- Las Modificaciones Presupuestarias se tramitarán en todos los casos mediante el FMP-05 “Documento de Modificación Presupuestaria” generado por el Sistema de Administración Financiera Integrada (SIAFI), el cual tendrá el mismo efecto de una Resolución Interna o de un Dictamen emitido por la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
-Únicamente para Modificaciones P r e s u p u e s t a r i a s d e s a l a r i o s , modificaciones de estructuras de puestos en la Administración Central, operaciones relacionadas con la institución Servicios Financieros de la Administración Central
+Únicamente para Modificaciones Presupuestarias de salarios, modificaciones de estructuras de puestos en la Administración Central, operaciones relacionadas con la institución Servicios Financieros de la Administración Central
 
 (449) y la Incorporación de recursos del Tesoro Nacional (Fuente 11) en la Administración Central, se elaborará Resolución Interna a través de la Dirección General de Presupuesto.
 
@@ -2063,7 +2057,7 @@ Las Instituciones Descentralizadas que realicen las acciones administrativas ant
 
 #### Artículo 249
 
-ARTÍCULO 249.- Las modificaciones de la Administración C e n t r a l , D e s c o n c e n t r a d a y Descentralizada que sean autorizadas, deben actualizarse en el Anexo Desglosado de Sueldos y Salarios o su equivalente. Si se encuentra en proceso cualquier modificación de estructura de personal relacionada con plazas vigentes o por crear, en tanto no se haya finalizado y aplicado en el Anexo Desglosado de Sueldos y Salarios de la Institución, no se podrán ocupar las plazas, por lo que la efectividad del nombramiento se producirá con fecha posterior a la finalización del proceso.
+ARTÍCULO 249.- Las modificaciones de la Administración Central, Desconcentrada y Descentralizada que sean autorizadas, deben actualizarse en el Anexo Desglosado de Sueldos y Salarios o su equivalente. Si se encuentra en proceso cualquier modificación de estructura de personal relacionada con plazas vigentes o por crear, en tanto no se haya finalizado y aplicado en el Anexo Desglosado de Sueldos y Salarios de la Institución, no se podrán ocupar las plazas, por lo que la efectividad del nombramiento se producirá con fecha posterior a la finalización del proceso.
 
 Una vez emitida la resolución que autoriza la modificación a la estructura de puestos, si no se concluye el acto administrativo de la acción de personal en el mismo año fiscal, se podrá continuar con el trámite en la apertura del siguiente año, utilizando la resolución emitida por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en el ejercicio fiscal anterior.
 
@@ -2207,7 +2201,7 @@ Las instituciones, programas y proyectos deben presentar en el término de cinco
 
 #### Artículo 267
 
-ARTÍCULO 267.- Con el propósito de dar cumplimiento a lo dispuesto en el Decreto Legislativo No.25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016, que contiene la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016 y el Acuerdo No.288 que contiene el Reglamento de la misma, todas las instituciones del Estado deben remitir trimestralmente, dentro de los primeros quince (15) días del mes siguiente de finalizado el trimestre; la Matriz de Identificación de Procesos Judiciales en formato Excel o el que para tal fin sea designado por la Unidad de Contingencias Fiscales (UCF). La información debe ser entregada por cualquier medio disponible en formato digital, conteniendo el total de las demandas Judiciales en proceso, y de las demandas con sentencia firme en ejecución.
+ARTÍCULO 267.- Con el propósito de dar cumplimiento a lo dispuesto en el Decreto Legislativo No. 25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016, que contiene la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016 y el Acuerdo No. 288 que contiene el Reglamento de la misma, todas las instituciones del Estado deben remitir trimestralmente, dentro de los primeros quince (15) días del mes siguiente de finalizado el trimestre; la Matriz de Identificación de Procesos Judiciales en formato Excel o el que para tal fin sea designado por la Unidad de Contingencias Fiscales (UCF). La información debe ser entregada por cualquier medio disponible en formato digital, conteniendo el total de las demandas Judiciales en proceso, y de las demandas con sentencia firme en ejecución.
 
 La Unidad de Contingencias Fiscales dependiente de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), establecerá los canales de comunicación con todas las instituciones del sector público, para la solicitud de la información necesaria, definiendo a su vez los criterios técnicos que permitan la construcción de una base de datos histórica y estandarizada para la estimación y cuantificación del pasivo contingente por demandas judiciales de acuerdo con la metodología de valoración de riesgos fiscales.
 
@@ -2215,7 +2209,7 @@ Las instituciones que omitan el cumplimiento de esta norma quedan sujetas a la a
 
 #### Artículo 268
 
-ARTÍCULO 268.- En cumplimiento de la Ley de Responsabilidad Fiscal, contenida en el Decreto Legislativo No.25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016, todas las instituciones del Sector Descentralizado deben remitir a la Dirección General de Política Macro Fiscal (DGPMF) de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dentro de los primeros diez
+ARTÍCULO 268.- En cumplimiento de la Ley de Responsabilidad Fiscal, contenida en el Decreto Legislativo No. 25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016, todas las instituciones del Sector Descentralizado deben remitir a la Dirección General de Política Macro Fiscal (DGPMF) de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dentro de los primeros diez
 
 (10) días después de finalizado cada mes; el informe mensual sobre su ejecución presupuestaria y balanza de sumas y saldos en el formato del Plan Único de Cuentas de la Contaduría General de la República.
 
@@ -2311,7 +2305,7 @@ ARTÍCULO 280.- En cumplimiento de la Ley de Responsabilidad Fiscal, contenida e
 
 \2) El Plan Anual de Inversiones, con el fin de conocer los proyectos que están ejecutando.
 
-La información será incorporada a l i n f o r m e t r i m e s t r a l s o b r e Municipalidades, bajo responsabilidad de la Dirección General de Instituciones Descentralizadas (DGID), que también debe elaborar la Cuenta Financiera de las Municipalidades, siguiendo la metodología que se utiliza para la Cuenta Financiera del Sector Público no Financiero (SPNF).
+La información será incorporada al informe trimestral sobre Municipalidades, bajo responsabilidad de la Dirección General de Instituciones Descentralizadas (DGID), que también debe elaborar la Cuenta Financiera de las Municipalidades, siguiendo la metodología que se utiliza para la Cuenta Financiera del Sector Público no Financiero (SPNF).
 
 De igual forma, las Municipalidades que han implementado el Sistema de Administración Municipal Integrado (SAMI) con el apoyo de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), deben reportar las cifras de ejecución presupuestaria.
 
@@ -2401,7 +2395,7 @@ La formulación de los planes será gradual, de acuerdo con las capacidades de C
 
 #### Artículo 290
 
-ARTÍCULO 290.- T o d a s l a s M u n i c i p a l i d a d e s , Mancomunidades y Empresas Municipales, deben presentar al Tribunal Superior de Cuentas (TSC) a más tardar el 30 de abril de 2024, lo siguiente:
+ARTÍCULO 290.- Todas las Municipalidades, Mancomunidades y Empresas Municipales, deben presentar al Tribunal Superior de Cuentas (TSC) a más tardar el 30 de abril de 2024, lo siguiente:
 
 \1) Las Municipalidades:
 
@@ -2413,7 +2407,7 @@ Adicionalmente, deben adjuntar la certificación de Punto de Acta de la Corporac
 
 \2) Las Mancomunidades:
 
-El informe de rendición de cuentas anual acumulado, en forma física y electrónica, generado del Subsistema de RENDICIÓN M A N C O M U N I D A D , y l a Certificación del punto de Acta aprobado por la Junta Directiva y copia íntegra del libro de actas.
+El informe de rendición de cuentas anual acumulado, en forma física y electrónica, generado del Subsistema de RENDICIÓN MANCOMUNIDAD, y l a Certificación del punto de Acta aprobado por la Junta Directiva y copia íntegra del libro de actas.
 
 Se prohíbe a las municipalidades, transferir fondos a las mancomunidades que no presenten su rendición de cuentas en el Subsistema RMANCOMUNIDAD.
 
@@ -2437,9 +2431,7 @@ ARTÍCULO 291.- En el marco del Sistema Nacional de Planificación para el Desar
 
 #### Artículo 292
 
-ARTÍCULO 292.- Para el presente Ejercicio Fiscal se ordena dejar en suspenso el Decreto No.
-
-368-2005, referente a las transferencias monetarias adicionales a favor de las Municipalidades del Distrito Central y San Pedro Sula.
+ARTÍCULO 292.- Para el presente Ejercicio Fiscal se ordena dejar en suspenso el Decreto No. 368-2005, referente a las transferencias monetarias adicionales a favor de las Municipalidades del Distrito Central y San Pedro Sula.
 
 CAPÍTULO IX DISPOSICIONES VARIAS
 
@@ -2497,9 +2489,7 @@ ARTÍCULO 300.- Se autoriza a la Secretaría de Estado en el Despacho de Finanza
 
 #### Artículo 301
 
-ARTÍCULO 301.- Dejar en suspenso el Artículo 7 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto No.58-2011 del 18 de mayo de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 13 de Julio de 2011, en virtud de que se deben cumplir los criterios de la programación financiera contenida en el Acuerdo Ejecutivo No.
-
-217-2014 de las Normas Técnicas del Subsistema de Tesorería General de la República (TGR) artículos 16, 17 y 18.
+ARTÍCULO 301.- Dejar en suspenso el Artículo 7 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto No. 58-2011 del 18 de mayo de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 13 de Julio de 2011, en virtud de que se deben cumplir los criterios de la programación financiera contenida en el Acuerdo Ejecutivo No. 217-2014 de las Normas Técnicas del Subsistema de Tesorería General de la República (TGR) artículos 16, 17 y 18.
 
 #### Artículo 302
 
@@ -2567,7 +2557,7 @@ Artículo 51 de la Ley Orgánica del Presupuesto y las Normas Técnicas del Subs
 
 #### Artículo 311
 
-ARTÍCULO 311.- De conformidad con lo establecido en el Decreto Legislativo No.297-2013 del 13 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Noviembre de 2014, contentivo de la Ley de Cambio Climático y considerando su objetivo de establecer los principios y regulaciones necesarias para la planificación, prevención y responder de manera adecuada, coordinada y sostenida a los impactos que genera el cambio climático en el país; todas las Instituciones del Sector Público deben considerar dentro de sus presupuestos, iniciativas relacionadas a la mitigación, adaptación y resiliencia climática, orientadas a la adopción de medidas que aporten al cumplimiento de la Contribución Nacional Determinada, presentada ante la Convención Marco de las Naciones Unidas para el Cambio Climático. Estas acciones deben ser reportadas bajo los lineamientos que emita la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+ARTÍCULO 311.- De conformidad con lo establecido en el Decreto Legislativo No. 297-2013 del 13 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” de fecha 10 de Noviembre de 2014, contentivo de la Ley de Cambio Climático y considerando su objetivo de establecer los principios y regulaciones necesarias para la planificación, prevención y responder de manera adecuada, coordinada y sostenida a los impactos que genera el cambio climático en el país; todas las Instituciones del Sector Público deben considerar dentro de sus presupuestos, iniciativas relacionadas a la mitigación, adaptación y resiliencia climática, orientadas a la adopción de medidas que aporten al cumplimiento de la Contribución Nacional Determinada, presentada ante la Convención Marco de las Naciones Unidas para el Cambio Climático. Estas acciones deben ser reportadas bajo los lineamientos que emita la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 #### Artículo 312
 
@@ -2581,7 +2571,7 @@ ARTÍCULO 313.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN) podr
 
 ARTÍCULO 314.- Se autoriza a la Empresa Nacional de Energía Eléctrica (ENEE) para realizar las gestiones que sean necesarias, incluida la reorientación del presupuesto y la obtención de crédito interno o externo, para atender las obligaciones de pago de prestaciones laborales y compra de energía para reventa e inversiones.
 
-La emisión del Dictamen establecido por el Artículo 36 del Decreto Legislativo No.83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial La Gaceta de fecha 21 de junio del 2004, contentivo de la Ley Orgánica de Presupuesto, así como el dictamen establecido por el Artículo 41 de esta ley, no serán requeridos a la Empresa Nacional de Energía Eléctrica (ENEE).
+La emisión del Dictamen establecido por el Artículo 36 del Decreto Legislativo No. 83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial La Gaceta de fecha 21 de junio del 2004, contentivo de la Ley Orgánica de Presupuesto, así como el dictamen establecido por el Artículo 41 de esta ley, no serán requeridos a la Empresa Nacional de Energía Eléctrica (ENEE).
 
 #### Artículo 315
 
@@ -2627,7 +2617,7 @@ Desde la Mesa Municipal de Presupuesto Sensible a Género se elaborará el Plan 
 
 ARTÍCULO 322.- Las Instituciones Descentralizadas y Desconcentradas operando fuera del Sistema de Administración Financiera Integrada (SIAFI), enviarán a la Dirección Nacional de Bienes del Estado (DNBE) a más tardar el 30 de Enero del año 2024, el inventario de bienes de uso y consumo existentes al 31 de Diciembre del Ejercicio Fiscal 2023, así como un detalle de las pérdidas de estos inventarios.
 
-Para garantizar el cumplimiento de lo establecido por el Artículo 6 del Decreto Legislativo No.274-2010 del 13 de Enero de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Marzo de 2011, sobre la creación y función de la Dirección Nacional de Bienes del Estado (DNBE); y el Artículo 7 del Decreto Ejecutivo No.PCM-047-2015, la responsabilidad sobre los bienes muebles e inmuebles que forman parte del inventario o han sido consignados a cada institución o dependencia del sector público, corresponde a los titulares de las gerencias administrativas o departamentos de administración de las mismas instituciones o dependencias del sector público.
+Para garantizar el cumplimiento de lo establecido por el Artículo 6 del Decreto Legislativo No. 274-2010 del 13 de Enero de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Marzo de 2011, sobre la creación y función de la Dirección Nacional de Bienes del Estado (DNBE); y el Artículo 7 del Decreto Ejecutivo No.PCM-047-2015, la responsabilidad sobre los bienes muebles e inmuebles que forman parte del inventario o han sido consignados a cada institución o dependencia del sector público, corresponde a los titulares de las gerencias administrativas o departamentos de administración de las mismas instituciones o dependencias del sector público.
 
 #### Artículo 323
 
@@ -2649,7 +2639,7 @@ ARTÍCULO 325.- Los honorarios y gastos por conflictos contractuales que sean re
 
 #### Artículo 326
 
-ARTÍCULO 326.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a contratar firmas auditoras categoría A o B según el Registro de Auditores Externos (RAE) de la Comisión Nacional de Bancos y Seguros (CNBS), para que procedan a auditar los fondos públicos administrados por los fideicomisos, que fueron derogados mediante el Decreto Ejecutivo PCM-09-2022, Decreto Legislativo No.66-2022 y No. 157- 2022, publicados en el Diario Oficial “La Gaceta” de fecha 15 de junio del 2022, Gaceta No. 35,950; 10 de mayo de 2022, Gaceta No. 35,919; 12 de enero de 2023, Gaceta No. 36127 respectivamente. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) debe identificar los recursos presupuestarios para financiar dichas auditorías.
+ARTÍCULO 326.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a contratar firmas auditoras categoría A o B según el Registro de Auditores Externos (RAE) de la Comisión Nacional de Bancos y Seguros (CNBS), para que procedan a auditar los fondos públicos administrados por los fideicomisos, que fueron derogados mediante el Decreto Ejecutivo PCM-09-2022, Decreto Legislativo No. 66-2022 y No. 157-2022, publicados en el Diario Oficial “La Gaceta” de fecha 15 de junio del 2022, Gaceta No. 35,950; 10 de mayo de 2022, Gaceta No. 35,919; 12 de enero de 2023, Gaceta No. 36127 respectivamente. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) debe identificar los recursos presupuestarios para financiar dichas auditorías.
 
 #### Artículo 327
 
@@ -2677,15 +2667,13 @@ ARTÍCULO 329.- Todos los concesionarios quedan obligados a presentar a más tar
 
 #### Artículo 330
 
-ARTÍCULO 330.- Interpretar el numeral 3 del Artículo 4 del Decreto Legislativo No.25-2016 que contiene la Ley de Responsabilidad Fiscal contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016, a través del cual se establece, que se debe regresar en el año 2023 al uno por ciento (1%) del Producto Interno Bruto como meta de techo anual para el déficit fiscal del balance global del Sector Público No Financiero (SPNF), después de la aplicación de una cláusula de excepción de la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016.
+ARTÍCULO 330.- Interpretar el numeral 3 del Artículo 4 del Decreto Legislativo No. 25-2016 que contiene la Ley de Responsabilidad Fiscal contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016, a través del cual se establece, que se debe regresar en el año 2023 al uno por ciento (1%) del Producto Interno Bruto como meta de techo anual para el déficit fiscal del balance global del Sector Público No Financiero (SPNF), después de la aplicación de una cláusula de excepción de la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016.
 
-La interpretación se realiza en el sentido de considerar que una vez que fue aprobada la nueva meta de déficit fiscal del Sector Público No Financiero (SPNF) en el marco de la cláusula de excepción activada por Decreto Legislativo No.
-
-27-2021 de fecha 14 de mayo de 2021, a partir de ese resultado se debe ir bajando el déficit fiscal en cero punto cinco por ciento (0.5%) por año como mínimo, hasta alcanzar el uno por ciento (1.0%) con relación al PIB como se estable en el artículo 3 de la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016.
+La interpretación se realiza en el sentido de considerar que una vez que fue aprobada la nueva meta de déficit fiscal del Sector Público No Financiero (SPNF) en el marco de la cláusula de excepción activada por Decreto Legislativo No. 27-2021 de fecha 14 de mayo de 2021, a partir de ese resultado se debe ir bajando el déficit fiscal en cero punto cinco por ciento (0.5%) por año como mínimo, hasta alcanzar el uno por ciento (1.0%) con relación al PIB como se estable en el artículo 3 de la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016.
 
 #### Artículo 331
 
-ARTÍCULO 331.- Reformar el Artículo 2 del Decreto Legislativo No.27-2021, aprobado el 14 de mayo de 2021 y publicado en el Diario Oficial La Gaceta No.35,599 el 14 de mayo de 2021, mediante el cual se aprobó la ampliación por dos (2) años (2022 y 2023) de las REGLAS PLURIANUALES DE DESEMPEÑO FISCAL PARA EL SECTOR PÚBLICO NO FINANCIERO (SPNF), el cual deberá leerse de la manera siguiente:
+ARTÍCULO 331.- Reformar el Artículo 2 del Decreto Legislativo No. 27-2021, aprobado el 14 de mayo de 2021 y publicado en el Diario Oficial La Gaceta No. 35,599 el 14 de mayo de 2021, mediante el cual se aprobó la ampliación por dos (2) años (2022 y 2023) de las REGLAS PLURIANUALES DE DESEMPEÑO FISCAL PARA EL SECTOR PÚBLICO NO FINANCIERO (SPNF), el cual deberá leerse de la manera siguiente:
 
 “Durante el período de suspensión de las Reglas Plurianuales de Desempeño Fiscal, se establece un techo anual para el déficit del balance global del Sector Público No Financiero (SPNF), que no podrá ser mayor al tres punto nueve por ciento (3.9%) del Producto Interno Bruto (PIB) para el año 2024 y se irá reduciendo al menos cero punto cinco (0.5%) anualmente hasta regresar al uno por ciento (1.0%) del Producto Interno Bruto (PIB) como lo establece el artículo 3, numeral 1), inciso a) de la Ley de Responsabilidad Fiscal, contenida en el Decreto 25-2016 del 7 de Abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Mayo de 2016 . El déficit del SPNF de tres punto nueve por ciento (3.9%) del Producto Interno Bruto (PIB), incluye un espacio fiscal de inversión pública que permitirá incorporar en la ejecución presupuestaria de 2024, los proyectos prioritarios que forman parte del Plan de Gobierno Bicentenario para la refundación de la patria; con un enfoque de cambio climático hacia la conservación de la vida, los derechos humanos y el ambiente, así como la inversión social dirigida a atender la población de mayor vulnerabilidad.
 
@@ -2693,7 +2681,7 @@ Durante el período de suspensión de las Reglas Plurianuales de Desempeño Fisc
 
 #### Artículo 332
 
-ARTÍCULO 332.- L a s S e c r e t a r í a s d e E s t a d o , Descentralizadas o Desconcentradas, el Poder Legislativo, Poder Judicial y organismos constitucionales, deben exigir como requisito documental para cumplir las obligaciones económicas que derivan de los contratos con proveedores de bienes y servicios, obra pública, consultoría o servicios profesionales, el Documento Fiscal según lo establecido en el Reglamento de Régimen de Facturación, otros documentos fiscales y registro fiscal de imprenta.
+ARTÍCULO 332.- Las Secretarías de Estado, Descentralizadas o Desconcentradas, el Poder Legislativo, Poder Judicial y organismos constitucionales, deben exigir como requisito documental para cumplir las obligaciones económicas que derivan de los contratos con proveedores de bienes y servicios, obra pública, consultoría o servicios profesionales, el Documento Fiscal según lo establecido en el Reglamento de Régimen de Facturación, otros documentos fiscales y registro fiscal de imprenta.
 
 Las gerencias administrativas o las unidades que realicen esta función según la estructura organizacional de cada Institución deben verificar que el documento fiscal relacionado en el párrafo anterior sea válido y debidamente autorizado por la Administración Tributaria.
 
@@ -2731,13 +2719,13 @@ El Banco Nacional de Desarrollo Agrícola (BANADESA), será el responsable de la
 
 #### Artículo 338
 
-ARTÍCULO 338.- Se autoriza una asignación presupuestaria de hasta NOVECIENTOS C I N C U E N T A M I L L O N E S D E L E M P I R A S E X A C T O S (L950,000,000.00) para el desarrollo de infraestructura menor y obras sociales a petición y en beneficio de las Comunidades, Patronatos, Asociaciones, Alcaldías, Juntas de Agua, Cajas Rurales, entre otros; así como para el otorgamiento de becas de estudio en todos los niveles educativos. Las obras de infraestructura menor, sociales, becas y canchas deportivas se gestionarán a través del Fondo Hondureño de Inversión Social (FHIS), la Secretaría de Infraestructura y Transporte (SIT), Secretaría de Desarrollo Social (SEDESOL), Secretaría de Gobernación, Justicia y Descentralización (SGJD), Instituto de Crédito Educativo (EDUCREDITO), Fondo Social de Desarrollo Eléctrico (FOSODE) y la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR).
+ARTÍCULO 338.- Se autoriza una asignación presupuestaria de hasta NOVECIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L950,000,000.00) para el desarrollo de infraestructura menor y obras sociales a petición y en beneficio de las Comunidades, Patronatos, Asociaciones, Alcaldías, Juntas de Agua, Cajas Rurales, entre otros; así como para el otorgamiento de becas de estudio en todos los niveles educativos. Las obras de infraestructura menor, sociales, becas y canchas deportivas se gestionarán a través del Fondo Hondureño de Inversión Social (FHIS), la Secretaría de Infraestructura y Transporte (SIT), Secretaría de Desarrollo Social (SEDESOL), Secretaría de Gobernación, Justicia y Descentralización (SGJD), Instituto de Crédito Educativo (EDUCREDITO), Fondo Social de Desarrollo Eléctrico (FOSODE) y la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR).
 
 Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que de conformidad con la Ley Orgánica del Presupuesto y la normativa que regula el Sistema de Administración Financiera Integrado SIAFI, realice las operaciones necesarias, previa solicitud de las instituciones referidas.
 
 #### Artículo 339
 
-ARTÍCULO 339.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas a realizar las operaciones financieras y presupuestarias necesarias en el Presupuesto General de Ingresos y Egresos de la República, ejercicio fiscal 2024, para la identificación y asignación de recursos presupuestarios por la cantidad de CIENTO CINCUENTA M I L L O N E S D E L E M P I R A S EXACTOS (L150,000,000.00), que deben ser acreditados a la Secretaría de Estado en el Despacho de Derechos Humanos para el funcionamiento del Fondo para la Atención y Protección de las Personas Desplazadas Forzadamente creado mediante el Artículo 29 del Decreto Legislativo 154-2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial La Gaceta número 36,184 el 20 de Marzo del 2023, contentivo de la Ley para la Prevención, Atención y Protección de las Personas Desplazadas Internamente.
+ARTÍCULO 339.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas a realizar las operaciones financieras y presupuestarias necesarias en el Presupuesto General de Ingresos y Egresos de la República, ejercicio fiscal 2024, para la identificación y asignación de recursos presupuestarios por la cantidad de CIENTO CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L150,000,000.00), que deben ser acreditados a la Secretaría de Estado en el Despacho de Derechos Humanos para el funcionamiento del Fondo para la Atención y Protección de las Personas Desplazadas Forzadamente creado mediante el Artículo 29 del Decreto Legislativo 154-2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial La Gaceta número 36,184 el 20 de Marzo del 2023, contentivo de la Ley para la Prevención, Atención y Protección de las Personas Desplazadas Internamente.
 
 #### Artículo 340
 

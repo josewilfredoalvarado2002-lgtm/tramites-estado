@@ -11,7 +11,7 @@ paginas: "A. 6 - 10"
 sumario: "Acuerdos Institucionales Nos. ICF-109-2025, ICF-110-2025, Acuerdo No. 128-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251219-37023/download"
 extraido: "2026-11-09"
-huella: "e147a2073904d544"
+huella: "a1aea6a0bcb1e44b"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-110-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de las microcuencas denominadas: Aguas de San Fernando, El Ceibo, El Pulun, Las Nieves, Quebrada El Pital, Quebrada La Pita y La Sisimetera, las cuales se localizan en la jurisdicción de los municipios de Santa Rita, San Jose de Colinas, Trinidad, Ilama, Arada y San Pedro Zacapa, departamento de Santa Bárbara.
 

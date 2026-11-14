@@ -11,7 +11,7 @@ paginas: "A. 22 - 32"
 sumario: "Acuerdo Número 403-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260717-37196/download"
 extraido: "2026-11-09"
-huella: "058dd501700be558"
+huella: "6cde56db5b652942"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 403-2026
@@ -39,7 +39,7 @@ CONSIDERANDO (3):
 
 Que el artículo 255 de la Constitución de la República establece que los actos administrativos de cualquier órgano del Estado que deban producir efectos jurídicos de carácter general serán publicados en el Diario Oficial “La Gaceta” y su validez se regulará conforme a lo dispuesto en la Constitución, para la vigencia de una ley.
 
-CONSIDERANDO (4): Que el artículo 351 de la C o n s t i t u c i ó n d e l a República, específicamente en lo referente al Régimen Financiero establece que el Sistema Tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
+CONSIDERANDO (4): Que el artículo 351 de la Constitución de la República, específicamente en lo referente al Régimen Financiero establece que el Sistema Tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
 CONSIDERANDO (5):
 
@@ -49,7 +49,7 @@ CONSIDERANDO (6): Que el artículo 36 numeral
 
 \8) de la Ley General de la Administración Pública establece que son atribuciones y deberes comunes de los Secretarios de Estado, emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que les delegue el Presidente de la República y cuidar de su ejecución.
 
-CONSIDERANDO (7): Que la Ley de Responsabilidad Fiscal fue aprobada mediante Decreto Legislativo No. 25- 2016, de fecha 7 de abril de 2016 y publicada en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, con el objeto de establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
+CONSIDERANDO (7): Que la Ley de Responsabilidad Fiscal fue aprobada mediante Decreto Legislativo No. 25-2016, de fecha 7 de abril de 2016 y publicada en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, con el objeto de establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
 
 POR TANTO:
 

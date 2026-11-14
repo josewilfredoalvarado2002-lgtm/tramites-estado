@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Decretos Nos. 50-2022, 61-2022, 66-2022, 67-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220615-35950/download"
 extraido: "2026-11-14"
-huella: "ef2c4b0401b9874b"
+huella: "60c5ed73e6577b8c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 50-2022
@@ -29,7 +29,7 @@ huella: "ef2c4b0401b9874b"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que de conformidad al Artículo 17 de la Ley de Municipalidades, contenida en el Decreto No.134- 90 de fecha 29 de octubre de 1990, los municipios para su mejor administración se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos y las ciudades en colonias y barrios.
+CONSIDERANDO: Que de conformidad al Artículo 17 de la Ley de Municipalidades, contenida en el Decreto No. 134-90 de fecha 29 de octubre de 1990, los municipios para su mejor administración se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos y las ciudades en colonias y barrios.
 
 CONSIDERANDO: Que el municipio de Manto, del departamento de Olancho, posee un importante valor histórico y cultural, lo que le convierte en patrimonio de especial importancia.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 156-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201128-35443/download"
 extraido: "2026-11-14"
-huella: "88c9f4af7b5910db"
+huella: "15f4fbdf8e764a25"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 156-2020
@@ -55,11 +55,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Autorizar al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), asignar el presupuesto al Consejo Nacional Electoral (CNE) para el Proceso Electoral Primario y General a realizarse en el año 2021, por un monto de hasta MIL SETECIENTOS S E S E N TA M I L L O N E S D E LEMPIRAS (L.1,760,000,000.00), los cuales serán asignados de acuerdo a lo siguiente: Hasta TRESCIENTOS C U A R E N TA Y C U AT R O MILLONES DE LEMPIRAS EXACTOS (L.344,000,000.00) en el Ejercicio Fiscal 2020 y hasta MIL CUATROCIENTOS DIECISÉIS MILLONES DE LEMPIRAS (L.1,416,000,000.00) en el Ejercicio Fiscal 2021. Los montos que no se lleguen a ejecutar durante el Ejercicio Fiscal 2020, serán trasladados de manera automática para el Ejercicio Fiscal 2021, mediante la ampliación del presupuesto previsto.
+ARTÍCULO 1.- Autorizar al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), asignar el presupuesto al Consejo Nacional Electoral (CNE) para el Proceso Electoral Primario y General a realizarse en el año 2021, por un monto de hasta MIL SETECIENTOS S E S E N TA MILLONES DE LEMPIRAS (L.1,760,000,000.00), los cuales serán asignados de acuerdo a lo siguiente: Hasta TRESCIENTOS C U A R E N TA Y C U AT R O MILLONES DE LEMPIRAS EXACTOS (L.344,000,000.00) en el Ejercicio Fiscal 2020 y hasta MIL CUATROCIENTOS DIECISÉIS MILLONES DE LEMPIRAS (L.1,416,000,000.00) en el Ejercicio Fiscal 2021. Los montos que no se lleguen a ejecutar durante el Ejercicio Fiscal 2020, serán trasladados de manera automática para el Ejercicio Fiscal 2021, mediante la ampliación del presupuesto previsto.
 
 Por lo anterior se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), pueda realizar todas las operaciones presupuestarias necesarias a fin de otorgar la asignación del presupuesto al Consejo Nacional Electoral (CNE) a que hace referencia el párrafo anterior. Para la autorización de recursos a ejecutarse en el año 2020 se hará de fondos autorizado según
 
-Artículo 2 del Decreto No.92-2020, o en su defecto con recursos nacionales producto de reducciones aplicadas a las instituciones, incluyendo gastos de capital que puedan financiar gasto corriente de acuerdo a las asignaciones presupuestarias requeridas por el Consejo Nacional Electoral (CNE).
+Artículo 2 del Decreto No. 92-2020, o en su defecto con recursos nacionales producto de reducciones aplicadas a las instituciones, incluyendo gastos de capital que puedan financiar gasto corriente de acuerdo a las asignaciones presupuestarias requeridas por el Consejo Nacional Electoral (CNE).
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200728-35327/download"
 extraido: "2026-11-14"
-huella: "4b695f0a340d4b2c"
+huella: "46ea9ee50388aae4"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -29,7 +29,7 @@ huella: "4b695f0a340d4b2c"
 
 Poder Ejecutivo
 
-DECRETO EJECUTIVO NÚMERO PCM- 073-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+DECRETO EJECUTIVO NÚMERO PCM-073-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2 y 11 de la Constitución de la República, le corresponde al Presidente de la República entre otras Atribuciones, dirigir la Política General del Estado y representarlo, emitir Acuerdos, Decretos, expedir Reglamentos y Resoluciones conforme a la Ley.
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-072-2020, publicado en el Diario Oficial “La Gaceta” en fecha 26 de julio del 2020, Edición No. 35,325 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) días, efectivo a partir del veintisiete (27) de julio del presente año, hasta el dos (02) de agosto del año 2020, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020, PCM-059-2020, mismos que han sido ratificados por el Congreso Nacional, PCM-063-2020, PCM-068-2020.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-072-2020, publicado en el Diario Oficial “La Gaceta” en fecha 26 de julio del 2020, Edición No. 35,325 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) días, efectivo a partir del veintisiete (27) de julio del presente año, hasta el dos (02) de agosto del año 2020, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, mismos que han sido ratificados por el Congreso Nacional, PCM-063-2020, PCM-068-2020.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-045-2020, en su Artículo 7, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255, se crea la Instancia Multisectorial con la participación de las Instituciones del Gobierno de la República y la Sociedad hondureña. La cual tiene como propósito hacer propuestas integrales al Sistema Nacional de Gestión de Riesgos (SINAGER) sobre la gestión de la Pandemia COVID-19, los planes de apertura inteligente de las actividades vitales para la sociedad hondureña como la actividad económica, religiosa, educativa, recreativa y otras.
 
@@ -47,9 +47,7 @@ CONSIDERANDO: Que se define como Fase 1 del Plan Nacional para Reapertura Gradua
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013;
 
-Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 155-2015, Decreto Legislativo No. 103-2018, Decreto Legislativo No. 33-2020; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020, Decreto Legislativo No.
-
-86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059- 2020, PCM-061-2020, PCM-063-2020, PCM-068-2020 y PCM-072-2020.
+Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 155-2015, Decreto Legislativo No. 103-2018, Decreto Legislativo No. 33-2020; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020, Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020 y PCM-072-2020.
 
 DECRETA:
 
@@ -203,7 +201,7 @@ Para la aplicación de medidas diferenciadas por región o departamento, el Sist
 
 #### Artículo 5
 
-ARTÍCULO 5.- Derogar el Decreto Ejecutivo número PCM- 072-2020, publicado en el Diario Oficial “La Gaceta” en fecha 26 de julio del 2020, Edición No. 35,325.
+ARTÍCULO 5.- Derogar el Decreto Ejecutivo número PCM-072-2020, publicado en el Diario Oficial “La Gaceta” en fecha 26 de julio del 2020, Edición No. 35,325.
 
 #### Artículo 6
 

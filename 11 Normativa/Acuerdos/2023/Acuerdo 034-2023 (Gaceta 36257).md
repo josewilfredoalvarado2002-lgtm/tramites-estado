@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdos Ministeriales Nos. 034-2023, 040-2023, 055-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230617-36257/download"
 extraido: "2026-11-14"
-huella: "e9147227eccf0002"
+huella: "2d8155e572fd18da"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 034-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de D
 
 CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos entre la Industria de Harinas de Maíz Blanco y Alimentos para consumo (DEMAHSA, IMSA, MATURAVE, ALBECASA), la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República, la Secretaría de Agricultura y Ganadería (SAG) y la Secretaría de Desarrollo Económico (SDE) elevado a Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022.
 
-CONSIDERANDO: Que en el Acuerdo No. SAG-125- 2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022, se establece en el Numeral 2 literal b), los siguiente: “En el caso de las empresas de Industria de Harinas de Maíz y Alimentos para Consumo Humano al primer Corte de las compras establecidas en el Literal e), del numeral 13 del presente Convenio, se constata que no recibió el grano contratado por las siguientes causales: mala calidad del grano, por no lograr los rendimientos proyectados, inestabilidad de precio en el mercado nacional, alto costos de insumos y fertilizantes, dichos contratos servirán de sustento para realizar el Análisis de Incumplimiento de Contratos, para la apertura de un Contingente de Importación al cero (0%) porciento de Arancel…”. Asimismo, en el literal d) del precitado Numeral, expresa: “…El Ente Contralor debe presentar el Informe de Incumplimiento de Contratos a la Comisión de Supervisión para su revisión y recomendaciones.
+CONSIDERANDO: Que en el Acuerdo No. SAG-125-2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022, se establece en el Numeral 2 literal b), los siguiente: “En el caso de las empresas de Industria de Harinas de Maíz y Alimentos para Consumo Humano al primer Corte de las compras establecidas en el Literal e), del numeral 13 del presente Convenio, se constata que no recibió el grano contratado por las siguientes causales: mala calidad del grano, por no lograr los rendimientos proyectados, inestabilidad de precio en el mercado nacional, alto costos de insumos y fertilizantes, dichos contratos servirán de sustento para realizar el Análisis de Incumplimiento de Contratos, para la apertura de un Contingente de Importación al cero (0%) porciento de Arancel…”. Asimismo, en el literal d) del precitado Numeral, expresa: “…El Ente Contralor debe presentar el Informe de Incumplimiento de Contratos a la Comisión de Supervisión para su revisión y recomendaciones.
 
 Dicho Informe servirá de sustento técnico para que la SAG y SDE aprueben y autoricen el Contingente de Importación de maíz blanco por incumplimiento de contratos. La asignación del contingente debe ser conforme a la cantidad incumplida en relación al compromiso de compra de cada empresa, más la relación de importación vigente del requisito desempeño que dejo de percibir la empresa…”.
 
@@ -51,9 +51,7 @@ CONSIDERANDO: Que en el Ordinal segundo del Acuerdo SAG-067-2023 de fecha 27 de 
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los artículos 255 de la Constitución de la República; 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No.
-
-SAG-0125-2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022; Acuerdo No. SAG-067-2023 de fecha 27 de marzo de 2023.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los artículos 255 de la Constitución de la República; 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No. SAG-0125-2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022; Acuerdo No. SAG-067-2023 de fecha 27 de marzo de 2023.
 
 ACUERDA:
 

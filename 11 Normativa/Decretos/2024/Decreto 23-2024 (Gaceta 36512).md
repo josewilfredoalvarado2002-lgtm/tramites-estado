@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 23-2024, 29-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240418-36512/download"
 extraido: "2026-11-14"
-huella: "01cffa0e26e8a246"
+huella: "ffc0e6dcbab69bfe"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Artículo 205, Atribución 1) de la Constitución de la Rep
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

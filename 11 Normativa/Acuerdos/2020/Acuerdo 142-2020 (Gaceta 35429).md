@@ -11,7 +11,7 @@ paginas: "A. 16 - 20"
 sumario: "Acuerdo No. 142-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201114-35429/download"
 extraido: "2026-11-14"
-huella: "a9e73b40efb75d9d"
+huella: "7ad44351882c1cac"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 142-2020
@@ -27,7 +27,7 @@ huella: "a9e73b40efb75d9d"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto No.155-2015.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto No. 155-2015.
 
 ACUERDA:
 
@@ -77,7 +77,7 @@ RESULTANDO:
 
 Que la Ley General de la Industria Eléctrica establece que la Comisión Reguladora de Energía Eléctrica (CREE) determinará por vía reglamentaria la metodología para calcular el precio de referencia de la potencia para remunerar a las centrales generadoras por las ventas al mercado de oportunidad resultantes por las diferencias entre la capacidad firme del sistema eléctrico y la capacidad firme que las empresas distribuidoras, comercializadoras y consumidores calificados hayan cubierto con sus contratos.
 
-Que desde que se aprobó la Norma Técnica del Mercado Eléctrico de Oportunidad mediante la Resolución CREE- 075 publicada en el Diario Oficial “La Gaceta” el 7 de junio de 2018, la CREE estableció un precio de referencia de la potencia de 8.78 USD/kW-mes, y que dicho precio se ha mantenido en el Acuerdo CREE-072 que revocó la norma anteriormente citada y aprobó la Norma Técnica del Mercado Eléctrico de Oportunidad vigente.
+Que desde que se aprobó la Norma Técnica del Mercado Eléctrico de Oportunidad mediante la Resolución CREE-075 publicada en el Diario Oficial “La Gaceta” el 7 de junio de 2018, la CREE estableció un precio de referencia de la potencia de 8.78 USD/kW-mes, y que dicho precio se ha mantenido en el Acuerdo CREE-072 que revocó la norma anteriormente citada y aprobó la Norma Técnica del Mercado Eléctrico de Oportunidad vigente.
 
 Que la insuficiencia en la capacidad de generación en el Sistema Interconectado Nacional resulta en cortes de servicio eléctrico por déficit de suministro de potencia en varias zonas del país, y que esto demuestra que la señal de precios del mercado de oportunidad, en particular el precio de referencia de potencia, no es suficiente para incentivar la instalación y operación de centrales generadoras que suministren la potencia necesaria para aliviar o eliminar la situación de insuficiencia que sufre el Sistema Interconectado Nacional, y que es necesario que el precio de referencia de potencia refleje las condiciones actuales de insuficiencia de capacidad de generación.
 
@@ -99,7 +99,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, es función de la Comisión Reguladora de Energía Eléctrica la de expedir las regulaciones y reglamentos necesarios para la mejor aplicación de la Ley y el adecuado funcionamiento del subsector eléctrico.
 

@@ -11,7 +11,7 @@ paginas: "A. 16 - 19"
 sumario: "Decretos Nos. 122-2026, 130-2026, 131-2026, 133-2026, 134-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260701-37182/download"
 extraido: "2026-11-09"
-huella: "04d2811683bac516"
+huella: "d2a33c27d9615e78"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 131-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

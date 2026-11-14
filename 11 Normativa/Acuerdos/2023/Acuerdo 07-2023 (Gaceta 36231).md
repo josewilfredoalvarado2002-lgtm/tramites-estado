@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 07/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230518-36231/download"
 extraido: "2026-11-14"
-huella: "f33955cacf030cd0"
+huella: "d04029e4b668bed4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 07/2023
@@ -27,7 +27,7 @@ huella: "f33955cacf030cd0"
 
 ## Texto
 
-Sesión No.4026 (Extraordinaria) del 10 de mayo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+Sesión No. 4026 (Extraordinaria) del 10 de mayo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 342 de la Constitución de la República, el Estado, por medio del Banco Central de Honduras (BCH), tendrá a su cargo la formulación y desarrollo de la política monetaria, crediticia y cambiaria del país, debidamente coordinada con la política económica planificada, por lo que el BCH, según el Artículo 2 de su Ley Constitutiva, tiene por objeto velar por el mantenimiento del valor interno y externo de la moneda nacional y propiciar el normal funcionamiento del sistema de pagos, con tal fin formulará, desarrollará y ejecutará la política monetaria, crediticia y cambiaria del país.
 
@@ -37,15 +37,15 @@ CONSIDERANDO: Que de acuerdo con los artículos 6 y 16 de la Ley del BCH, le cor
 
 CONSIDERANDO: Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de los mercados financieros y de la economía en general, por lo que es conveniente dictar normas orientadas a propiciar una adecuada operación de tales sistemas, de manera que se asegure el cumplimiento de los principios y estándares internacionales.
 
-CONSIDERANDO: Que mediante Acuerdo No.08/2021 del 1 de julio de 2021, el Directorio del BCH reformó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), con el objeto establecer las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
+CONSIDERANDO: Que mediante Acuerdo No. 08/2021 del 1 de julio de 2021, el Directorio del BCH reformó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), con el objeto establecer las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
 
 CONSIDERANDO: Que el Artículo 12 del citado Reglamento requiere que, para otorgar plena eficacia jurídica a los cheques truncados en la CCECH, la transmisión electrónica de imágenes por parte de las instituciones participantes debe ser autorizada mediante firma electrónica avanzada, según lo establecido en la Ley del Sistema Financiero, Ley Sobre Firmas Electrónicas, su Reglamento y demás legislación que rige la materia.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo No.05/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó que se realice en tres (3) etapas el proceso de implementación del truncamiento de cheques, estableciendo como valores máximos para cada una de ellas, los montos siguientes:
+CONSIDERANDO: Que de conformidad con el Acuerdo No. 05/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó que se realice en tres (3) etapas el proceso de implementación del truncamiento de cheques, estableciendo como valores máximos para cada una de ellas, los montos siguientes:
 
-CONSIDERANDO: Que la primera etapa del truncamiento inició el 1 de octubre de 2020 y la segunda etapa el 1 de abril de 2021, la cual se extendió al 1 de abril de 2022 y posteriormente hasta el 30 de septiembre de 2022, conforme lo establecido en los Acuerdos No.13/2021 y No.06/2022 del 27 de septiembre de 2021 y 31 de marzo de 2022, respectivamente.
+CONSIDERANDO: Que la primera etapa del truncamiento inició el 1 de octubre de 2020 y la segunda etapa el 1 de abril de 2021, la cual se extendió al 1 de abril de 2022 y posteriormente hasta el 30 de septiembre de 2022, conforme lo establecido en los Acuerdos No. 13/2021 y No. 06/2022 del 27 de septiembre de 2021 y 31 de marzo de 2022, respectivamente.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo No.15/2022 del 22 de septiembre de 2022, el Directorio del BCH acordó implementar a partir del 1 de octubre de 2022 el truncamiento total de los cheques compensados en la CCECH.
+CONSIDERANDO: Que de conformidad con el Acuerdo No. 15/2022 del 22 de septiembre de 2022, el Directorio del BCH acordó implementar a partir del 1 de octubre de 2022 el truncamiento total de los cheques compensados en la CCECH.
 
 CONSIDERANDO: Que el Centro de Procesamiento Interbancario, S.A.
 
@@ -59,11 +59,11 @@ POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República;
 
-1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana aprobado mediante Decreto Legislativo No.134-2008 del 1 de octubre de 2008 y publicado en el Diario Oficial «La Gaceta» el 27 de noviembre de 2008; 2, 6, 16, incisos
+1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana aprobado mediante Decreto Legislativo No. 134-2008 del 1 de octubre de 2008 y publicado en el Diario Oficial «La Gaceta» el 27 de noviembre de 2008; 2, 6, 16, incisos
 
 a) y b) y 54 de la Ley del Banco Central de Honduras; 1, 2, 3, 10, 19, 20 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores; 10, 11, 12, 32 y 34 del Reglamento para la Cámara de Compensación Electrónica de Cheques y vista la opinión del Departamento de Sistema de Pagos,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 

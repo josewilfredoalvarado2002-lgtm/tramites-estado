@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo Número PCM-136-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211229-35809/download"
 extraido: "2026-11-14"
-huella: "f2f877f519ca5244"
+huella: "b87648f05e0eb368"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-136-2021
@@ -45,7 +45,7 @@ POR TANTO, En uso de las facultades legales establecidas en los Artículos 5, 24
 
 Decreto Legislativo No. 16-2017; Decreto Ejecutivo Número PCM-006-2014; Decreto Ejecutivo Número PCM-009-2018 reformado por el Decreto Ejecutivo Número PCM-025-2018;
 
-Decreto Ejecutivo Número PCM-071-2020; Decreto Ejecutivo Número PCM-080-2020, Decreto Ejecutivo Número PCM- 152-2020; y, Acuerdos Ejecutivos Números 031-2005, 079- 2020 y 95-2021.
+Decreto Ejecutivo Número PCM-071-2020; Decreto Ejecutivo Número PCM-080-2020, Decreto Ejecutivo Número PCM-152-2020; y, Acuerdos Ejecutivos Números 031-2005, 079-2020 y 95-2021.
 
 DECRETA:
 

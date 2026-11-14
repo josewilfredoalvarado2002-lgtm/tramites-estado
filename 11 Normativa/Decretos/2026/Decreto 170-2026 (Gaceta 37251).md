@@ -11,7 +11,7 @@ paginas: "A. 20 - 22"
 sumario: "Decreto No. 165-2026, 169-2026, 170-2026, 171-2026, 172-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260921-37251/download"
 extraido: "2026-11-09"
-huella: "8ae2b781b63ee26d"
+huella: "5475080b36dfb91d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 170-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribucion 1) de la Consti
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

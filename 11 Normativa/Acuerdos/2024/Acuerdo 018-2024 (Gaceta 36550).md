@@ -8,10 +8,10 @@ gaceta_numero: 36550
 gaceta_fecha: "2024-06-03"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36550 (2024-06-03)|La Gaceta 36550]]"
 paginas: "A. 41 - 43"
-sumario: "Acuerdo No. 018-2024MUNICIPALIDAD DE DANLÍAcuerdo No. 073-2024"
+sumario: "Acuerdo No. 018-2024; MUNICIPALIDAD DE DANLÍ: Acuerdo No. 073-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240603-36550/download"
 extraido: "2026-11-14"
-huella: "bf2000e7244393c1"
+huella: "a98136e246a441ea"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 018-2024
@@ -23,15 +23,13 @@ huella: "bf2000e7244393c1"
 | Emisor | Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36550 (2024-06-03)\|La Gaceta 36550]] del 2024-06-03 |
 | Páginas | A. 41 - 43 |
-| Según el sumario de La Gaceta | Acuerdo No. 018-2024MUNICIPALIDAD DE DANLÍAcuerdo No. 073-2024 |
+| Según el sumario de La Gaceta | Acuerdo No. 018-2024; MUNICIPALIDAD DE DANLÍ: Acuerdo No. 073-2024 |
 
 ## Texto
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que de conformidad con el artículo 14 de la Ley Forestal, el (ICF) es un ente desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determina la Ley, la que ejerce con independencia técnica, administrativa y financiera, actuando como el Ente Ejecutor de la política nacional de conservación y desarrollo forestal, áreas protegidas y vida silvestre.
 

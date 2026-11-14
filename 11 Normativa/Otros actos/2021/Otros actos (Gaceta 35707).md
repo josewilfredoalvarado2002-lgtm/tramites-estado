@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210903-35707/download"
 extraido: "2026-11-14"
-huella: "2b00edb6d85be98c"
+huella: "b349d771fe3b4de7"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,9 +31,7 @@ Secretaría de Estado en el Despacho de Energía
 
 ACUERDO SEN-013-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA:
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
 
 CONSIDERANDO: Que el artículo 1 del Decreto Ejecutivo No. PCM-007-2020 del 30 de diciembre de 2020 designa a la Secretaría de Estado en el Despacho de Energía (SEN) como entidad responsable del desarrollo, regulación y control de la investigación, exploración y explotación de los yacimientos de hidrocarburos y demás sustancias asociadas, así como de las actividades de transformación o refinación, transporte por oleoductos o gasoductos comercialización y almacenamiento de las sustancias explotadas.
 
@@ -79,19 +77,13 @@ Secretaría de Estado en el Despacho de Energía
 
 ACUERDO SEN-024-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA (SEN)
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía, como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, y conforme a dicho Decreto se dispone que la Comisión Administradora de la Compra-Venta y Comercialización del Petróleo y todos sus derivados (CAP) queda suprimida de la Secretaría de Estado en el Despacho de Desarrollo Económico
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía, como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, y conforme a dicho Decreto se dispone que la Comisión Administradora de la Compra-Venta y Comercialización del Petróleo y todos sus derivados (CAP) queda suprimida de la Secretaría de Estado en el Despacho de Desarrollo Económico
 
 (SDE) y adscrita a la Secretaría de Estado en el Despacho de Energía (SEN).
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 02-2007 de fecha 13 de enero del 2007, publicado en fecha 20 de enero de 2007, en el Diario Oficial La Gaceta, establece el Sistema de Precios de Paridad de Importación como el mecanismo automático para determinar los precios de venta al consumidor final de los combustibles derivados del petróleo y en su Artículo 10 autoriza a la Secretaría de Estado en los Despachos de Industria y Comercio (Actualmente Secretaría de Estado en el Despacho de Energía), revisar y modificar cada una de las variables del Sistema de Precios Paridad de Importación cuando lo considere oportuno o conveniente.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-02-2007 de fecha 13 de enero del 2007, publicado en fecha 20 de enero de 2007, en el Diario Oficial La Gaceta, establece el Sistema de Precios de Paridad de Importación como el mecanismo automático para determinar los precios de venta al consumidor final de los combustibles derivados del petróleo y en su Artículo 10 autoriza a la Secretaría de Estado en los Despachos de Industria y Comercio (Actualmente Secretaría de Estado en el Despacho de Energía), revisar y modificar cada una de las variables del Sistema de Precios Paridad de Importación cuando lo considere oportuno o conveniente.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-07-2020 de fecha 31 de diciembre del año 2020, se designa a la Secretaría de Estado en el Despacho de Energía, como: a) la Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, asimismo, con lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad; y, b) Institución responsable en todo lo relativo al fomento, promoción, producción, comercialización, distribución y almacenaje de los biocombustibles, asumiendo las atribuciones en dicha materia desarrolladas en la Ley para la Producción y Consumo de Biocombustibles, contenida en el Decreto Legislativo No.
-
-144-2007 publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2007 y sus reformas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-07-2020 de fecha 31 de diciembre del año 2020, se designa a la Secretaría de Estado en el Despacho de Energía, como: a) la Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, asimismo, con lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad; y, b) Institución responsable en todo lo relativo al fomento, promoción, producción, comercialización, distribución y almacenaje de los biocombustibles, asumiendo las atribuciones en dicha materia desarrolladas en la Ley para la Producción y Consumo de Biocombustibles, contenida en el Decreto Legislativo No. 144-2007 publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2007 y sus reformas.
 
 CONSIDERANDO: Que mediante Decreto Legislativo Número 94-83, publicado en fecha 18 de mayo del año 1983, en el Diario Oficial La Gaceta, se creó la Comisión Administradora de la Compra-Venta y Comercialización del Petróleo y todos sus derivados (CAP); asimismo con el Acuerdo Ejecutivo 25-2007, se publica el Reglamento de Aplicación del Decreto No 94-83, publicado en fecha 18 de mayo del año 1983, en el Diario Oficial La Gaceta.
 
@@ -99,11 +91,11 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado conducir los asuntos d
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Acuerdo No. 21-SEN- 2019, de fecha 2 de agosto del año 2019, el Secretario de Estado en el Despacho de Energía, designó en el ciudadano Gustavo Enrique Moncada Izaguirre las funciones inherentes a la Secretaria Ejecutiva de la Comisión Administradora de la Compra-Venta y Comercialización del Petróleo y todos sus derivados (CAP).
+CONSIDERANDO: Que mediante Acuerdo No. 21-SEN-2019, de fecha 2 de agosto del año 2019, el Secretario de Estado en el Despacho de Energía, designó en el ciudadano Gustavo Enrique Moncada Izaguirre las funciones inherentes a la Secretaria Ejecutiva de la Comisión Administradora de la Compra-Venta y Comercialización del Petróleo y todos sus derivados (CAP).
 
 CONSIDERANDO: Que la ciudadana Lilian Alejandra Morazán Calix, funge en el cargo de Jefa de Comercialización de Derivados del Petróleo en la Dirección de Comercialización de Hidrocarburos, de esta Secretaría de Estado.
 
-POR TANTO: En uso de las facultades que está investido, y en aplicación de los artículos 247, 248, 255, 321 de la Constitución de la República; 5, 33, 36 numeral 8, 116, 118 número 1, 119, 122 de la Ley General de la Administración Pública; 3, 4, 5, 19, 21, 27 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048- 2017; 16, 17, 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+POR TANTO: En uso de las facultades que está investido, y en aplicación de los artículos 247, 248, 255, 321 de la Constitución de la República; 5, 33, 36 numeral 8, 116, 118 número 1, 119, 122 de la Ley General de la Administración Pública; 3, 4, 5, 19, 21, 27 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017; 16, 17, 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA
 

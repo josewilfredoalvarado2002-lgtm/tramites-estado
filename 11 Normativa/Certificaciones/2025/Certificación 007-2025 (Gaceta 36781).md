@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo SAG-06-2025, Certificación No. 007-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250304-36781/download"
 extraido: "2026-11-12"
-huella: "93c4a7abe8ce809c"
+huella: "31ae6142b3f3805b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN No. 007-2025
@@ -33,7 +33,7 @@ Que la Secretaría de Estado en los Despachos de Agricultura y Ganadería a trav
 
 Se declara periodo de veda para la pesquería de Langosta Espinosa (Panulirus argus), bajo los métodos de pesca (nasabuzo) a partir de las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta (30) de junio del 2025.
 
-Los armadores o capitanes de embarcaciones langosteras al finalizar el periodo de pesca y previo al atraque de los barcos en puerto o bases de operación, deberán notificar 48 horas antes de su llegada al inspector de pesca a fin de que este proceda a realizar el inventario de los aparejos de pesca que vengan a bordo, verificando el cumplimiento del Acuerdo Ministerial SAG-105-2024 y el Reglamento Regional OSP- 02-09.- SEGUNDO Se declara periodo de veda para la pesquería de camarón blanco (Litopenaeus schmitti), camarón café (Farfantepenaeus aztecus) y camarón rosado (Farfantepenaeus duorarum) a partir de las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta
+Los armadores o capitanes de embarcaciones langosteras al finalizar el periodo de pesca y previo al atraque de los barcos en puerto o bases de operación, deberán notificar 48 horas antes de su llegada al inspector de pesca a fin de que este proceda a realizar el inventario de los aparejos de pesca que vengan a bordo, verificando el cumplimiento del Acuerdo Ministerial SAG-105-2024 y el Reglamento Regional OSP-02-09.- SEGUNDO Se declara periodo de veda para la pesquería de camarón blanco (Litopenaeus schmitti), camarón café (Farfantepenaeus aztecus) y camarón rosado (Farfantepenaeus duorarum) a partir de las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta
 
 (30) de junio del 2025. La fecha de apertura de la actividad pesquera quedará condicionada a los resultados obtenidos de los muestreos que determinen la talla comercial. El procedimiento para la realización de dichos muestreos estará contenido en el Protocolo de Muestreos para la verificación de talla comercial de camarón de arrastre de la DIGEPESCA.
 

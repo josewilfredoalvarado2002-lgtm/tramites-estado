@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdo Ejecutivo No. SEDH-003-2024}"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250312-36788/download"
 extraido: "2026-11-12"
-huella: "8d97de7faa22b6f9"
+huella: "85ab31b838e68dd2"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SEDH-003-2024
@@ -63,7 +63,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Autorizar a la Procuraduría General de la República (PGR), en su condición de representante legal del Estado de Honduras ante la Comisión Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos, para que ejerza las facultades de expresa mención de desistir, absorber posiciones, renunciar de los recursos o los términos legales, conciliar, transigir y aprobar convenios, contempladas en el artículo 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, a fin de que las mismas puedan ser ejercidas en el momento procesal oportuno, en vista de la complejidad del asunto y las particularidades de los hechos alegados en el caso “Caso Zelaya vs. Honduras” (CDH-6- 2024), actualmente ante la Corte Interamericana de Derechos Humanos.
+ARTÍCULO 1. Autorizar a la Procuraduría General de la República (PGR), en su condición de representante legal del Estado de Honduras ante la Comisión Interamericana de Derechos Humanos y la Corte Interamericana de Derechos Humanos, para que ejerza las facultades de expresa mención de desistir, absorber posiciones, renunciar de los recursos o los términos legales, conciliar, transigir y aprobar convenios, contempladas en el artículo 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, a fin de que las mismas puedan ser ejercidas en el momento procesal oportuno, en vista de la complejidad del asunto y las particularidades de los hechos alegados en el caso “Caso Zelaya vs. Honduras” (CDH-6-2024), actualmente ante la Corte Interamericana de Derechos Humanos.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 52-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250901-36931/download"
 extraido: "2026-11-09"
-huella: "4ff47ea879259efb"
+huella: "a645b468ea1328fa"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 52-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 132 establec
 
 CONSIDERANDO: Que de conformidad al Artículo 332 de la Constitución de la República, el Estado por razones de orden público e interés social, se reserva el ejercicio de determinadas industrias básicas, explotaciones y servicios de interés público, dictando medidas y leyes económicas, fiscales y de seguridad pública, para encausar, estimular, supervisar, orientar y suplir la iniciativa privada, con fundamento en una política económica racional y planificada, teniendo base en el interés público y social y por límite los derechos y libertades reconocidos por la Constitución de la República.
 
-CONSIDERANDO: Que la Ley de Transporte Terrestre de Honduras, contenida en el Decreto No.155-2015 del 7 de diciembre de 2015, publicada en el Diario Oficial “La Gaceta” de fecha 30 de marzo de 2016, en su Artículo 1 establece que dicha Ley “Es de orden público, tiene por objeto establecer la estructura administrativa y funcional de los organismos competentes para su aplicación, asimismo regular la forma, condiciones y requisitos necesarios a que debe estar sujeta la prestación del servicio público y especial de transporte terrestre de personas, carga o mercancías”.
+CONSIDERANDO: Que la Ley de Transporte Terrestre de Honduras, contenida en el Decreto No. 155-2015 del 7 de diciembre de 2015, publicada en el Diario Oficial “La Gaceta” de fecha 30 de marzo de 2016, en su Artículo 1 establece que dicha Ley “Es de orden público, tiene por objeto establecer la estructura administrativa y funcional de los organismos competentes para su aplicación, asimismo regular la forma, condiciones y requisitos necesarios a que debe estar sujeta la prestación del servicio público y especial de transporte terrestre de personas, carga o mercancías”.
 
 CONSIDERANDO: Que es necesario establecer una amnistía para los concesionarios y transportistas del servicio de transporte público y especial de personas y carga que no hayan cumplido con sus obligaciones formales y materiales con el Estado de Honduras, permitiéndoles regularizar su situación mediante el pago de un (1) solo período de vigencia vencido y el correspondiente a la nueva renovación, sumando un total de dos (2) períodos de vigencia del certificado de operación o permiso especial.
 
@@ -41,13 +41,13 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Se autoriza al Instituto Hondureño del Transporte Terrestre (IHTT), a emitir los certificados de operación y permisos especiales para todas las modalidades del Servicio de Transporte Terrestre Público y Especial de Personas y Carga.
 
-En consecuencia, no le son aplicables los requisitos y prohibiciones establecidos en el Artículo 23 de la Ley de Transporte Terrestre de Honduras, contenida en el Decreto No.155-2015 del 7 de Diciembre de 2015, publicada en el Diario Oficial “La Gaceta” de fecha 30 de Marzo de 2015, así como las condiciones del párrafo final del Artículo 48 de la misma Ley, que exigen que la unidad que ingresa a brindar el servicio sea menos antigua y esté en mejores condiciones que la que sustituye.
+En consecuencia, no le son aplicables los requisitos y prohibiciones establecidos en el Artículo 23 de la Ley de Transporte Terrestre de Honduras, contenida en el Decreto No. 155-2015 del 7 de Diciembre de 2015, publicada en el Diario Oficial “La Gaceta” de fecha 30 de Marzo de 2015, así como las condiciones del párrafo final del Artículo 48 de la misma Ley, que exigen que la unidad que ingresa a brindar el servicio sea menos antigua y esté en mejores condiciones que la que sustituye.
 
 #### Artículo 2
 

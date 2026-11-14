@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Decretos Nos. 73-2021, 75-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210910-35714/download"
 extraido: "2026-11-14"
-huella: "174afb2be24a4e2f"
+huella: "b249ba3ebf8ef0b1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 75-2021
@@ -45,13 +45,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Interpretar el párrafo segundo del
 
-Artículo 5 del Decreto Legislativo No.8-2020 de fecha 11 de Febrero de 2020 publicado en el Diario Oficial “La Gaceta” de fecha 14 de Febrero de 2020, en la Edición No.35,175, en el sentido que cuando dicha disposición señala que “Para asegurar el goce efectivo de los beneficios establecidos en el presente Decreto, todos los procesos o solicitudes iniciados previo a la vigencia del mismo y que aún no cuentan con resolución, deben adecuar su procedimiento y sustanciación a lo establecido en el presente Decreto”, se refiere a todos aquellos procesos iniciados o solicitudes realizadas ante cualquier ente gubernamental, previo a la vigencia de este Decreto y que aún no cuentan con resolución firme, deben adecuar su proceso de tramitación a lo establecido en el Decreto Legislativo No.8-2020, y asegurar de esta manera el goce efectivo de los beneficios contenidos en el mismo.
+Artículo 5 del Decreto Legislativo No. 8-2020 de fecha 11 de Febrero de 2020 publicado en el Diario Oficial “La Gaceta” de fecha 14 de Febrero de 2020, en la Edición No. 35,175, en el sentido que cuando dicha disposición señala que “Para asegurar el goce efectivo de los beneficios establecidos en el presente Decreto, todos los procesos o solicitudes iniciados previo a la vigencia del mismo y que aún no cuentan con resolución, deben adecuar su procedimiento y sustanciación a lo establecido en el presente Decreto”, se refiere a todos aquellos procesos iniciados o solicitudes realizadas ante cualquier ente gubernamental, previo a la vigencia de este Decreto y que aún no cuentan con resolución firme, deben adecuar su proceso de tramitación a lo establecido en el Decreto Legislativo No. 8-2020, y asegurar de esta manera el goce efectivo de los beneficios contenidos en el mismo.
 
 #### Artículo 2
 

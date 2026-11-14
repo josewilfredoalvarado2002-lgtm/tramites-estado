@@ -11,7 +11,7 @@ paginas: "A. 25 - 48"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240224-36469/download"
 extraido: "2026-11-14"
-huella: "8a41eb3a434b6fd6"
+huella: "2155b90d38563f5e"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -47,9 +47,9 @@ POR TANTO: Esta Dirección General de Cinematografía en uso de las facultades q
 
 ACUERDA: PRIMERO: Dar por aprobado el
 
-M A N U A L B Á S I C O D E S O L I C I T U D E S
+MANUAL BÁSICO DE SOLICITUDES
 
-ADMINISTRATIVAS, versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS DE LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No.1. Versión 1.0
+ADMINISTRATIVAS, versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS DE LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No. 1. Versión 1.0
 
 1. Introducción Este manual está diseñado para brindar a las personas interesadas en la industria cinematográfica una guía detallada sobre los procedimientos y requisitos necesarios para presentar solicitudes ante la Dirección General de Cinematografía coincida bajo su marca como IHCINE.
 
@@ -585,7 +585,7 @@ Tegucigalpa, M.D.C., ________ de ___________ del año 2024.
 
 _____________________ Firma y Nombre del solicitante DNI del solicitante Formato de solicitud para Persona Jurídica SE SOLICITA APOYO PARA REALIZAR (Detallar el nombre de la actividad/lo que se solicita) .SE ADJUNTAN DOCUMENTOS.
 
-Sr. MANUEL ANTONIO VILLA CRUZ Director General Dirección General de Cinematografía Yo, (nombre completo), mayor de edad, Productor de Cine, con Documento de Nacional de Identidad (número completo), con domicilio en (Barrio, colonia, aldea) ciudad de (nombre completo), del departamento de (colocar nombre correcto), número de teléfono fijo y móvil, correo electrónico. actuando en mi condición de (Representante Legal, de la S o c i e d a d Mercantil / ONG/ etc), personería jurídica número
+Sr. MANUEL ANTONIO VILLA CRUZ Director General Dirección General de Cinematografía Yo, (nombre completo), mayor de edad, Productor de Cine, con Documento de Nacional de Identidad (número completo), con domicilio en (Barrio, colonia, aldea) ciudad de (nombre completo), del departamento de (colocar nombre correcto), número de teléfono fijo y móvil, correo electrónico. actuando en mi condición de (Representante Legal, de la Sociedad Mercantil / ONG/ etc), personería jurídica número
 
 (XX) otorgada por (notario, Gobernación o quien corresponda) de fecha (xx- del mes xx del año xx) con el debido respeto comparezco ante Usted a solicitar apoyo para (Detallar el nombre de la actividad); para tal efecto se detalla la siguiente información y se acompañan los siguientes documentos:
 

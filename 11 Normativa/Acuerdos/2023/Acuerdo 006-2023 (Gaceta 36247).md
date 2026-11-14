@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ministerial 006-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230606-36247/download"
 extraido: "2026-11-14"
-huella: "1d7b76292984667e"
+huella: "64f398397378bb75"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL 006-2023
@@ -225,7 +225,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece que el
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que los órganos o entidades desconcentradas se crearán, modificarán, fusionarán o suprimirán mediante Decreto de la Presidenta de la República en Consejo de Secretarios de Estado (artículo 45).
 
-CONSIDERANDO: Que mediante Decreto No.404-2013 publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo de 2014, edición número 35,274, fue aprobada la Ley General de la Industria Eléctrica; reformada mediante los Decretos Legislativos números 61-2020, 02-2022 y 46-2022, publicados en el Diario Oficial “La Gaceta” No. 35,274 del 05 de mayo del año 2020; No. 35,846 del 11 de febrero del año 2022; y No. 35,924 del 16 de mayo del año 2022, respectivamente.
+CONSIDERANDO: Que mediante Decreto No. 404-2013 publicado en el Diario Oficial “La Gaceta” en fecha 20 de mayo de 2014, edición número 35,274, fue aprobada la Ley General de la Industria Eléctrica; reformada mediante los Decretos Legislativos números 61-2020, 02-2022 y 46-2022, publicados en el Diario Oficial “La Gaceta” No. 35,274 del 05 de mayo del año 2020; No. 35,846 del 11 de febrero del año 2022; y No. 35,924 del 16 de mayo del año 2022, respectivamente.
 
 CONSIDERANDO: Que la precitada Ley tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras (artículo 1).
 

@@ -8,10 +8,10 @@ gaceta_numero: 35195
 gaceta_fecha: "2020-03-07"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35195 (2020-03-07)|La Gaceta 35195]]"
 paginas: "A. 1 - 10"
-sumario: "Acuerdo número 08SECRETARÍA DE FINANZASAcuerdos Ejecutivos números 193-2020, 196-2020"
+sumario: "Acuerdo número 08; SECRETARÍA DE FINANZAS: Acuerdos Ejecutivos números 193-2020, 196-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35195/download"
 extraido: "2026-11-14"
-huella: "0ad7b950044b1ba5"
+huella: "91576bc6317ba7b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 08
@@ -23,15 +23,15 @@ huella: "0ad7b950044b1ba5"
 | Emisor | COLEGIO PROFESIONAL SUPERACIÓN MAGISTERIAL HONDUREÑO - COLPROSUMAH |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35195 (2020-03-07)\|La Gaceta 35195]] del 2020-03-07 |
 | Páginas | A. 1 - 10 |
-| Según el sumario de La Gaceta | Acuerdo número 08SECRETARÍA DE FINANZASAcuerdos Ejecutivos números 193-2020, 196-2020 |
+| Según el sumario de La Gaceta | Acuerdo número 08; SECRETARÍA DE FINANZAS: Acuerdos Ejecutivos números 193-2020, 196-2020 |
 
 ## Texto
 
 El XLIX Congreso Ordinario del COLPROSUMAH “Profesora María Concepción Agurcia Sosa”, en uso de las facultades que las leyes le confieren emite el siguiente Acuerdo:
 
-CONSIDERANDO: Que de conformidad con el artículo veintidós (22) literal d) del Decreto Legislativo número 78- 97 que contiene la Ley del Colegio Profesional Superación Magisterial, el Congreso del Colegio Profesional Superación Magisterial como máxima autoridad está facultada a aprobar los reglamentos internos de la organización.
+CONSIDERANDO: Que de conformidad con el artículo veintidós (22) literal d) del Decreto Legislativo número 78-97 que contiene la Ley del Colegio Profesional Superación Magisterial, el Congreso del Colegio Profesional Superación Magisterial como máxima autoridad está facultada a aprobar los reglamentos internos de la organización.
 
-CONSIDERANDO: Que la creación del Fondo de Auxilio Mutuo Profesor “Leovigildo Pineda Cardona” del Colegio Profesional Superación Magisterial, se encuentra en el artículo treinta y cinco del Decreto Legislativo número 78- 97 que contiene la Ley del Colegio Profesional Superación Magisterial.
+CONSIDERANDO: Que la creación del Fondo de Auxilio Mutuo Profesor “Leovigildo Pineda Cardona” del Colegio Profesional Superación Magisterial, se encuentra en el artículo treinta y cinco del Decreto Legislativo número 78-97 que contiene la Ley del Colegio Profesional Superación Magisterial.
 
 CONSIDERANDO: Que de conformidad al artículo treinta y siete del Decreto Legislativo número 78-97 que contiene la Ley del Colegio Profesional Superación Magisterial, el funcionamiento del Fondo de Auxilio Mutuo Profesor “Leovigildo Pineda Cardona” se regulará por su Reglamento Especial.
 
@@ -79,7 +79,7 @@ l) INDEMNIZACIÓN POR MUERTE: Valor monetario determinado por sueldos base, que 
 
 m) SEGURO DE SOBREVIVENCIA: Valor monetario, que El FONDO entrega en vida al Afiliado, cuando cumple 58 años de edad, el Beneficio de Sobrevivencia se deduce del beneficio de Indemnización por muerte.
 
-n) PA G O D E L E Q U I VA L E N T E D E L A SOBREVIVENCIA: Es el pago del veinte por ciento (20%) de la Indemnización por Muerte a los afiliados que cumplieron sesenta (60) años antes del mes de febrero del año mil novecientos noventa y ocho (1998).
+n) PA G O D E L E Q U I VA LENTE DE LA SOBREVIVENCIA: Es el pago del veinte por ciento (20%) de la Indemnización por Muerte a los afiliados que cumplieron sesenta (60) años antes del mes de febrero del año mil novecientos noventa y ocho (1998).
 
 o) FIDEICOMISO: Contrato de Fideicomiso de Administración suscrito por el COLPROSUMAH con una Institución Financiera legalmente autorizada y supervisada por la Comisión Nacional de Bancos y Seguros.
 

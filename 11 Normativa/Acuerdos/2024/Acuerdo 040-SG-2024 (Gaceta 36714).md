@@ -11,7 +11,7 @@ paginas: "A. 1 - 21"
 sumario: "Acuerdo Ministerial STLCC No. 040-SG-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241213-36714/download"
 extraido: "2026-11-14"
-huella: "80266a6c5d5562f5"
+huella: "b2413aa6172d25bd"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL STLCC No. 040-SG-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 
 
 \8) Emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución. La firma de los Secretarios de Estado en estos actos, será autorizada por los respectivos Secretarios Generales…”.
 
-CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC) fue creada mediante Decreto Ejecutivo PCM 05- 2022, que tiene la finalidad de prevenir y combatir el flagelo de la corrupción en el ejercicio de la función pública y privada en apego a las directrices de la Presidencia de la República, en su agenda gubernamental, mediante el diseño, promoción, coordinación, supervisión y evaluación de las políticas, estrategias y programas anticorrupción, los que deberán fomentar la transparencia y las prácticas del buen gobierno.
+CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC) fue creada mediante Decreto Ejecutivo PCM 05-2022, que tiene la finalidad de prevenir y combatir el flagelo de la corrupción en el ejercicio de la función pública y privada en apego a las directrices de la Presidencia de la República, en su agenda gubernamental, mediante el diseño, promoción, coordinación, supervisión y evaluación de las políticas, estrategias y programas anticorrupción, los que deberán fomentar la transparencia y las prácticas del buen gobierno.
 
 CONSIDERANDO: Que, mediante ACUERDO EJECUTIVO NO.90-2024 de fecha doce (12) de marzo del dos mil veinticuatro (2024), se nombró al ciudadano SERGIO VLADIMIR COELLO DIÁZ, como Secretario de Estado en los Despacho de Transparencia y Lucha Contra la Corrupción.
 
@@ -53,9 +53,9 @@ CONSIDERANDO: Que los actos administrativos de cualquier órgano del Estado que 
 
 POR TANTO:
 
-En uso de las facultades de que esta investida y en aplicación de los artículos 245, 247, 248, 256 y 257 de la Constitución de la República de Honduras; Decreto Ejecutivo PCM 05- 2022, creación de la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC);
+En uso de las facultades de que esta investida y en aplicación de los artículos 245, 247, 248, 256 y 257 de la Constitución de la República de Honduras; Decreto Ejecutivo PCM 05-2022, creación de la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC);
 
-1 del Decreto Ejecutivo PCM 39-2023, creación de la Administración Nacional de Servicio Civil; 36 numeral 8, 116 y 118 de la Ley General de la Administración Pública; 32 de la Ley de Procedimiento Administrativo; 7 numeral 14 de la Ley de Servicio Civil; 206, 207 y 210 del Reglamento de la Ley de Servicio Civil; 101 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 87-W del Decreto Ejecutivo PCM-23- 2023 contentivo de Reformas al Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+1 del Decreto Ejecutivo PCM 39-2023, creación de la Administración Nacional de Servicio Civil; 36 numeral 8, 116 y 118 de la Ley General de la Administración Pública; 32 de la Ley de Procedimiento Administrativo; 7 numeral 14 de la Ley de Servicio Civil; 206, 207 y 210 del Reglamento de la Ley de Servicio Civil; 101 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 87-W del Decreto Ejecutivo PCM-23-2023 contentivo de Reformas al Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 2621-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230307-36173/download"
 extraido: "2026-11-14"
-huella: "069254e79ae3581a"
+huella: "1e29bdfb28d5c365"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2621-2021
@@ -29,11 +29,11 @@ huella: "069254e79ae3581a"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 2621-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinte de diciembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ- 25062019-506, por la Abogada CINTHIA CARELIA DIAZ RIVERA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS DELICIAS, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, con domicilio en la Comunidad de Las Delicias, municipio de San Sebastián, departamento de Lempira; contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-25062019-506, por la Abogada CINTHIA CARELIA DIAZ RIVERA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS DELICIAS, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, con domicilio en la Comunidad de Las Delicias, municipio de San Sebastián, departamento de Lempira; contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
-En fecha veinticinco de junio del año dos mil diecinueve, compareció ante esta esta Secretaría de Estado, la Abogada CINTHIA CARELIA DIAZ RIVERA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS DELICIAS, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, con domicilio en ,la Comunidad de Las Delicias, Municipio de San Sebastián, Departamento de Lempira, a solicitar la Personalidad Jurídica a favor de su representada.
+En fecha veinticinco de junio del año dos mil diecinueve, compareció ante esta esta Secretaría de Estado, la Abogada CINTHIA CARELIA DIAZ RIVERA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS DELICIAS, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, con domicilio en,la Comunidad de Las Delicias, Municipio de San Sebastián, Departamento de Lempira, a solicitar la Personalidad Jurídica a favor de su representada.
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 

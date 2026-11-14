@@ -11,7 +11,7 @@ paginas: "A. 55 - 60"
 sumario: "Acuerdo Ejecutivo No. 0254"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210817-35690/download"
 extraido: "2026-11-14"
-huella: "536c09b37ef3674a"
+huella: "232a81b147cdede1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 0254
@@ -35,21 +35,17 @@ CONSIDERANDO: Que el Artículo 11 de la Ley General de la Administración Públi
 
 CONSIDERANDO: Que el Artículo 29 numeral 13 de la Ley General de la Administración Pública, establece que “La Secretaría de Estado en los Despachos de Obras Públicas, Transporte, Vivienda y Empresas Públicas ahora Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), tiene las competencias fundamentales, en lo concerniente a la Formulación, Coordinación, Ejecución y Evaluación de las Políticas relacionadas con la Vivienda, las Obras de Infraestructura Pública, el Sistema Vial, Urbanístico y del Transporte, los asuntos concernientes a las empresas públicas, así como el régimen concesionario de obras públicas”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-0218 de fecha catorce (14) de abril del año dos mil veintiuno (2021), se estable en su numeral PRIMERO: Trasladar del Presupuesto General de Ingresos y Egresos de la República Ejercicio Fiscal 2021, de varias asignaciones presupuestarias, la cantidad de Un Millón Setecientos Un Mil Novecientos Setenta y Ocho Lempiras Exactos (L. 1, 701,978.00).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 0218 de fecha catorce (14) de abril del año dos mil veintiuno (2021), se estable en su numeral PRIMERO: Trasladar del Presupuesto General de Ingresos y Egresos de la República Ejercicio Fiscal 2021, de varias asignaciones presupuestarias, la cantidad de Un Millón Setecientos Un Mil Novecientos Setenta y Ocho Lempiras Exactos (L. 1, 701,978.00).
 
 CONSIDERANDO: Que dichos fondos son para realizar el traslado de las plazas con su estructura presupuestaria a la Agencia Hondureña de Aeronáutica Civil (A.H.A.C.) de los empleados que se encuentran nombrados en la Secretaría de Infraestructura y Servicios Públicos (INSEP), y que actualmente están prestando sus servicios profesionales en calidad de préstamo en dicha Agencia.
 
-CONSIDERANDO: Que en el Acuerdo Ejecutivo No.
-
-0218 de fecha catorce (14) de abril del año dos mil veintiuno (2021), no se incorporó el aumento de los quinquenios que tienen derecho los servidores públicos por la antigüedad después de cada cinco años de laborar con el Estado de Honduras, por lo que se hace necesario dejar sin valor ni efecto el Acuerdo Ejecutivo antes relacionado, e incorporar en el presente acuerdo el aumento de los quinquenios de dichos servidores públicos.
+CONSIDERANDO: Que en el Acuerdo Ejecutivo No. 0218 de fecha catorce (14) de abril del año dos mil veintiuno (2021), no se incorporó el aumento de los quinquenios que tienen derecho los servidores públicos por la antigüedad después de cada cinco años de laborar con el Estado de Honduras, por lo que se hace necesario dejar sin valor ni efecto el Acuerdo Ejecutivo antes relacionado, e incorporar en el presente acuerdo el aumento de los quinquenios de dichos servidores públicos.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 043-2020 de fecha uno de (01) de Octubre del año dos mil veinte (2020), publicado en el Diario Oficial La Gaceta el seis (06) de Octubre del año dos mil veinte (2020) en su edición No. 35,392, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, Revocó a partir de la fecha del presente Acuerdo, la delegación de funciones conferidas a la Subsecretaria de Coordinación General de Gobierno Martha Vicenta Doblado Andara, mediante Acuerdo Ejecutivo No. 023-2018 de fecha 16 de abril de 2018 y publicado en el Diario Oficial La Gaceta en fecha 20 de abril de 2018 y Delega a partir del 01 de octubre del año 2020, en CARLOS ALBERTO MADERO ERAZO, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos; f) Modificaciones Presupuestarias; y, g) Otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
 POR TANTO:
 
-En uso de las facultades de que está investido y en aplicación de los Artículos 245 numerales 11 y 19 de la Constitución de la República; Artículo 1, 5, 11, 29 numeral 13, 116 , 118 y 119 de la Ley General de la Administración Pública; Artícu­ lo 37 Numeral 2 de la Ley Orgánica del Presupuesto; Artícu­ los 35 y 36 de la Ley de Servicio Civil y Acuerdo Ejecutivo Número 043-2020 de fecha uno de (01) de Octubre del año dos mil veinte (2020).
+En uso de las facultades de que está investido y en aplicación de los Artículos 245 numerales 11 y 19 de la Constitución de la República; Artículo 1, 5, 11, 29 numeral 13, 116, 118 y 119 de la Ley General de la Administración Pública; Artícu­ lo 37 Numeral 2 de la Ley Orgánica del Presupuesto; Artícu­ los 35 y 36 de la Ley de Servicio Civil y Acuerdo Ejecutivo Número 043-2020 de fecha uno de (01) de Octubre del año dos mil veinte (2020).
 
 ACUERDA:
 
@@ -211,7 +207,7 @@ Dado en Casa Presidencial, en la Ciudad de Tegucigalpa. municipio del Distrito C
 
 COMUNÍQUESE Y PUBLÍQUESE:
 
-CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No.043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP) _________ La EMPRESA NACIONAL DE ARTES GRÁFICAS le ofrece los siguientes servicios:
+CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No. 043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP) _________ La EMPRESA NACIONAL DE ARTES GRÁFICAS le ofrece los siguientes servicios:
 
 24 17
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Nos. 605-2022, 606-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220817-36004/download"
 extraido: "2026-11-14"
-huella: "645b0b1009f2912c"
+huella: "2315f31deb011dac"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 606-2022
@@ -31,9 +31,7 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALI
 
 CONSIDERANDO: Que la Constitución de la República, establece en su Artículo 303 que la justicia se imparte por magistrados y jueces independientes, únicamente sometidos a la Constitución y las leyes, lo que es congruente con la Convención Americana sobre Derechos Humanos (Artículo 8.1) y el Pacto Internacional de Derechos Civiles y Políticos (Artículo 14), que reconocen como un derecho humano justificable, que toda causa sea sometida ante jueces y tribunales independientes, imparciales y establecidos previamente.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-74-2022, publicado en el Diario Oficial La Gaceta, en fecha 20 de julio del 2022, el Congreso de la República procedió a emitir la “Ley Especial de Organización y Funcionamiento de la Junta Nominadora para la proposición de candidatos a Magistrados de la Corte Suprema de Justicia”.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 74-2022, publicado en el Diario Oficial La Gaceta, en fecha 20 de julio del 2022, el Congreso de la República procedió a emitir la “Ley Especial de Organización y Funcionamiento de la Junta Nominadora para la proposición de candidatos a Magistrados de la Corte Suprema de Justicia”.
 
 CONSIDERANDO: Que el Decreto Legislativo No. 74-2022, tiene por objeto regular la organización y funcionamiento de la Junta Nominadora para la Proposición de Candidaturas a Magistrados y Magistradas de la Corte Suprema de Justicia; así como el correspondiente procedimiento de selección, conforme a los parámetros establecidos en la Constitución de la República, los tratados internacionales y demás instrumentos adoptados por el Estado de Honduras que se refieran a la independencia judicial y a la función de la judicatura.
 

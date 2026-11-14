@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo No. SCGG-00153-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210722-35664/download"
 extraido: "2026-11-14"
-huella: "4c0023f5e5d3c9b8"
+huella: "0b33948364b10af0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SCGG-00153-2021
@@ -33,9 +33,7 @@ Tegucigalpa, M.D.C., 08 de julio, 2021
 
 CONSIDERANDO: Que bajo el artículo 29 del Decreto Legislativo 266-2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014, se crea la Secretaría de Coordinación General de Gobierno.
 
-CONSIDERANDO: Que bajo Acuerdo Ejecutivo No.
-
-107-2020 de fecha 30 de septiembre de 2020, se nombra al ciudadano CARLOS ALBERTO MADERO ERAZO como Secretario de Estado Coordinador General de Gobierno.
+CONSIDERANDO: Que bajo Acuerdo Ejecutivo No. 107-2020 de fecha 30 de septiembre de 2020, se nombra al ciudadano CARLOS ALBERTO MADERO ERAZO como Secretario de Estado Coordinador General de Gobierno.
 
 CONSIDERANDO: Que el Artículo 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, describe que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley, que les corresponde, asimismo, el conocimiento y resolución de los asuntos del Ramo, de conformidad con la Ley, pudiendo delegar en los Subsecretarios, Secretario General y Directores Generales el ejercicio de atribuciones específicas.
 
@@ -51,7 +49,7 @@ CONSIDERANDO: Que bajo el Acuerdo Ministerial No.SCGG-00150-2015, de fecha cator
 
 CONSIDERANDO: Que en el Acuerdo Ministerial No.SCGG-00150-2015, Capítulo III, Organización, concretamente en el Artículo 9, se describe la organización interna de la Secretaría de Coordinación General de Gobierno (SCGG) y dentro de esta organización se menciona la División de Validación y Verificación.
 
-POR TANTO, En aplicación de los Artículos 29 del Decreto Legislativo 266-2013, Artículo 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, 36 de la Ley General de la Administración Pública, Artículos 4 y 5 de la Ley de Procedimiento Administrativo y el Acuerdo Ministerial No.00150-2015.
+POR TANTO, En aplicación de los Artículos 29 del Decreto Legislativo 266-2013, Artículo 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, 36 de la Ley General de la Administración Pública, Artículos 4 y 5 de la Ley de Procedimiento Administrativo y el Acuerdo Ministerial No. 00150-2015.
 
 ACUERDA:
 
@@ -91,11 +89,11 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 001-A-2017 de fecha 02 de e
 
 CONSIDERANDO: Que el Artículo 199 numeral 6) del Código Tributario, establece las atribuciones de la Directora Ejecutiva del Servicio de Administración de Rentas, siendo una de ellas la de aprobar políticas institucionales, acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulen la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones.
 
-CONSIDERANDO: Que mediante Acuerdo SAR-002- 2017 se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando las siguientes unidades:
+CONSIDERANDO: Que mediante Acuerdo SAR-002-2017 se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando las siguientes unidades:
 
 Dirección Nacional, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes San Pedro Sula, Dirección Regional Centro Sur, Dirección Noroccidental, Dirección Regional Nor Oriental, Direcciones Departamentales y Oficinas Tributarias, estableciendo para cada una sus sedes y jurisdicciones.
 
-CONSIDERANDO: Que el Acuerdo SAR-002-2017 de la Estructura Organizacional del Servicio de Administración de Rentas ha tenido modificaciones aprobadas mediante los acuerdos número SAR-125-2018 de fecha 14 de marzo de 2018, SAR-190-2018 de fecha 27 de abril de 2018, SAR- 222-2019 de fecha 03 de junio de 2019 y mediante Acuerdo No. SAR-18-2019 de fecha 07 de enero de 2019 se elevó la categoría de la Oficina Tributaria con sede en El Progreso, Departamento de Yoro a Dirección Departamental.
+CONSIDERANDO: Que el Acuerdo SAR-002-2017 de la Estructura Organizacional del Servicio de Administración de Rentas ha tenido modificaciones aprobadas mediante los acuerdos número SAR-125-2018 de fecha 14 de marzo de 2018, SAR-190-2018 de fecha 27 de abril de 2018, SAR-222-2019 de fecha 03 de junio de 2019 y mediante Acuerdo No. SAR-18-2019 de fecha 07 de enero de 2019 se elevó la categoría de la Oficina Tributaria con sede en El Progreso, Departamento de Yoro a Dirección Departamental.
 
 CONSIDERANDO: Que luego de realizar una evaluación institucional, de las estructuras de la Dirección Nacional, Direcciones Regionales y Direcciones de Grandes Contribuyentes del Servicio de Administración de Rentas (SAR), es necesario realizar los ajustes organizacionales para mejorar la distribución, organización y delimitar las responsabilidades institucionales, con el propósito de lograr un funcionamiento óptimo de la institución.
 
@@ -109,7 +107,7 @@ DEPARTAMENTO DE AUDITORÍA INTERNA DIRECCIÓN NACIONAL DE CUMPLIMIENTO TRIBUTARI
 
 POR TANTO
 
-En uso de las facultades que la Ley le confiere y en aplicación de lo establecido los artículos 321, 323 y 351 de la Constitución de la República; Artículos 195, 197 y 199 del Código Tributario; Artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículo 30 de la Ley de Procedimiento Administrativo; Acuerdo No. SAR-002- 2017; Acuerdo SAR-222-2019;
+En uso de las facultades que la Ley le confiere y en aplicación de lo establecido los artículos 321, 323 y 351 de la Constitución de la República; Artículos 195, 197 y 199 del Código Tributario; Artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículo 30 de la Ley de Procedimiento Administrativo; Acuerdo No. SAR-002-2017; Acuerdo SAR-222-2019;
 
 ACUERDA:
 

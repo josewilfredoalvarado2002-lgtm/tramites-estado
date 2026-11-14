@@ -11,7 +11,7 @@ paginas: "A. 521 - 543"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260629-37180/download"
 extraido: "2026-11-09"
-huella: "753efa9906f64562"
+huella: "963b25a0f34d46ad"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 12-2024
@@ -315,7 +315,7 @@ Cláusula 22.
 
 Suspensión temporal 22.1 Si, de conformidad con la Cláusula 21 de este Contrato, se determina que el caso fortuito o evento de fuerza mayor impide la continuación de las actividades del Contrato, las Partes suspenderán la ejecución de dichas actividades y ampliarán el plazo de ejecución por el tiempo de suspensión requerido, mediante la suscripción de un acta que exprese por escrito las causales de tal decisión, el estado del Contrato en cuanto a su desarrollo y la duración estimada de la suspensión.
 
-En tal caso, se adoptarán las medidas de conservación que se consideren pertinentes, y si es el caso, se convendrán a través de una enmienda al contrato los costos de la suspensión y la forma de pago. Vencido el término de la suspensión, las Partes suscribirán un acta de reanudación del Contrato. En caso de suspensión temporal, el Contrato seguirá vigente. p p , g g Cláusula 23.
+En tal caso, se adoptarán las medidas de conservación que se consideren pertinentes, y si es el caso, se convendrán a través de una enmienda al contrato los costos de la suspensión y la forma de pago. Vencido el término de la suspensión, las Partes suscribirán un acta de reanudación del Contrato. En caso de suspensión temporal, el Contrato seguirá vigente. p p, g g Cláusula 23.
 
 Solución de controversias 23.1 Toda diferencia, controversia o reclamación que surja de este Contrato o en relación con el mismo o con su incumplimiento, rescisión o invalidez y que las Partes no puedan solucionar en forma amigable deberá someterse a mecanismos de solución alternativa de conflictos antes de proceder la vía legal correspondiente.
 

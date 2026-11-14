@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. ADUANAS-DE-007-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210707-35649/download"
 extraido: "2026-11-14"
-huella: "f8c9a4f516b51754"
+huella: "48df56c9cbfcda3c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-007-2021
@@ -35,13 +35,11 @@ CONSIDERANDO: Que mediante el Artículo 195 del Código Tributario Decreto 170-2
 
 CONSIDERANDO: Que el Artículo 198 numeral 12) del Código Tributario, Decreto 170-2016 establece que podrá Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley;
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-059-2019 publicado en el Diario Oficial La Gaceta el 30 de septiembre de 2019, en su artículo 2 consigna que a partir del 1 de enero de 2020 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No.
-
-170-2016, cuya denominación será Administración Aduanera de Honduras.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-059-2019 publicado en el Diario Oficial La Gaceta el 30 de septiembre de 2019, en su artículo 2 consigna que a partir del 1 de enero de 2020 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras.
 
 POR TANTO:
 
-La Administración Aduanera de Honduras, en uso de las facultades que la Ley confiere y en aplicación de los Artículos 351 de la Constitución de la República; 9 numeral 2), 58 numeral 4), 195 y 198 numeral 12) del Código Tributario, Decreto 170-2016; Decreto Ejecutivo Número PCM-059- 2019.
+La Administración Aduanera de Honduras, en uso de las facultades que la Ley confiere y en aplicación de los Artículos 351 de la Constitución de la República; 9 numeral 2), 58 numeral 4), 195 y 198 numeral 12) del Código Tributario, Decreto 170-2016; Decreto Ejecutivo Número PCM-059-2019.
 
 ACUERDA:
 
@@ -211,15 +209,11 @@ El presente acuerdo entrará en vigor a partir de la fecha de su publicación. P
 
 JUAN JOSE VIDES MEJIA
 
-Director Ejecutivo Administración Aduanera de Honduras ABG. SANDRA PATRICIA FLORES LOPEZ Secretaria General Nacional Administración Aduanera de Honduras CERTIFICACIÓN No. ADUANAS-SGN-052 -2021 La infrascrita, Secretaria General Nacional de la Administración Aduanera de Honduras, CERTIFICA el Acuerdo No.
-
-ADUANAS-DE-007-2021 de fecha veintitrés de febrero que literalmente dice:“ACUERDO No. ADUANASDE-007-2021. Tegucigalpa, M.D.C., 23 de febrero 2021.
+Director Ejecutivo Administración Aduanera de Honduras ABG. SANDRA PATRICIA FLORES LOPEZ Secretaria General Nacional Administración Aduanera de Honduras CERTIFICACIÓN No. ADUANAS-SGN-052 -2021 La infrascrita, Secretaria General Nacional de la Administración Aduanera de Honduras, CERTIFICA el Acuerdo No. ADUANAS-DE-007-2021 de fecha veintitrés de febrero que literalmente dice:“ACUERDO No. ADUANASDE-007-2021. Tegucigalpa, M.D.C., 23 de febrero 2021.
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el sistema tributario se rige por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente. CONSIDERANDO: Que mediante el Artículo 195 del Código Tributario Decreto 170-2016, se crea la Administración Aduanera como una institución desconcentrada de la Presidencia de la República, con autonomía técnica, administrativa y de seguridad nacional, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros; CONSIDERANDO:
 
-Que el Artículo 198 numeral 12) del Código Tributario, Decreto 170-2016 establece que podrá Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-059-2019 publicado en el Diario Oficial La Gaceta el 30 de septiembre de 2019, en su artículo 2 consigna que a partir del 1 de enero de 2020 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No.
-
-170-2016, cuya denominación será Administración Aduanera de Honduras. POR TANTO: La Administración Aduanera de Honduras, en uso de las facultades que la Ley confiere y en aplicación de los Artículos 351 de la Constitución de la República; 9 numeral 2), 58 numeral 4), 195 y 198 numeral 12) del Código Tributario, Decreto 170-2016; Decreto Ejecutivo Número PCM-059-2019.
+Que el Artículo 198 numeral 12) del Código Tributario, Decreto 170-2016 establece que podrá Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-059-2019 publicado en el Diario Oficial La Gaceta el 30 de septiembre de 2019, en su artículo 2 consigna que a partir del 1 de enero de 2020 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras. POR TANTO: La Administración Aduanera de Honduras, en uso de las facultades que la Ley confiere y en aplicación de los Artículos 351 de la Constitución de la República; 9 numeral 2), 58 numeral 4), 195 y 198 numeral 12) del Código Tributario, Decreto 170-2016; Decreto Ejecutivo Número PCM-059-2019.
 
 ACUERDA:
 
@@ -323,7 +317,7 @@ ARTÍCULO 11. DE LAS ACTAS Y ACUERDOS. De todas las sesiones se levantará un ac
 
 ARTÍCULO 12. SESIONES. El Comité de Apoyo Técnico Legal se reunirá de forma ordinaria una vez al mes y extraordinariamente cuando lo solicite las áreas técnicas u operativas para solventar casos de emergencia. Se convocarán sesiones virtuales cuando sobrevengan situaciones de fuerza mayor o caso fortuito que deban solucionarse inmediatamente, podrán realizarse sesiones virtuales mediante herramientas digitales disponibles de convocar mediante correo electrónico a los integrantes.
 
-A R T Í C U L O 1 3 . E L A B O R A C I Ó N D E L
+ARTÍCULO 1 3 . ELABORACIÓN DEL
 
 PROCEDIMIENTO. Una ves conformado el Comité de Apoyo Técnico Legal, en su primera sesión, elaborará un prodecimiento expedito y eficiente para la emisión y difusión de su criterio en un plazo de sesenta (60) días hábiles contados a partir del día siguiente de la celebración de la primera sesión.
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 13"
 sumario: "Acuerdos Nos. 0214-SE-2024, 0434-SE-2024, 0435-SE-2024, 0464-SE-2024, 0747-SE-2024, 0748-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "ac72ac1b879a5c5f"
+huella: "5e2b37c7a88365e0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0434-SE-2024
@@ -61,7 +61,7 @@ CONSIDERANDO (14): Que para la emisión de acuerdos de los Docentes que laboran 
 
 POR TANTO:
 
-En uso de las facultades que le confieren los Artículos 151, 156, 157 y 158 de la Constitución de la República, Artículo 36, numerales 1 y 8 de la Ley General de la Administración Pública, Artículos 11, 13, 56, 77 y 78 la Ley Fundamental de Educación en su artículo 1, 5, 11 y los Acuerdo No. 0126-EP- 2002 y el Acuerdo 1819-EP-92 del 21 de diciembre de 1992.
+En uso de las facultades que le confieren los Artículos 151, 156, 157 y 158 de la Constitución de la República, Artículo 36, numerales 1 y 8 de la Ley General de la Administración Pública, Artículos 11, 13, 56, 77 y 78 la Ley Fundamental de Educación en su artículo 1, 5, 11 y los Acuerdo No. 0126-EP-2002 y el Acuerdo 1819-EP-92 del 21 de diciembre de 1992.
 
 ACUERDA:
 

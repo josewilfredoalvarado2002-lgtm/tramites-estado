@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "Acuerdos números 01-2021, 02-2021, 03-2021,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210524-35608/download"
 extraido: "2026-11-14"
-huella: "0849015f0dae93fa"
+huella: "52180e41ab592418"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 01-2021
@@ -47,9 +47,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-102-2020 de fecha 31 de
 
 POR TANTO:
 
-Que en el uso de sus facultades y en aplicación de los Artículos 87, 246, 247 y 255 de la Constitución de la República; 5 y 117 de la Ley General de la Administración Pública, reformados mediante Decreto No. 266-2013, 7, 11,numeral 3), artículos 16 numeral 2, 4, 13,17, reformado de la Ley del Sistema Penitenciario Nacional, 43, 118, de la Ley General de Administración Pública, artículo 4 de la Ley para Optimizar la Administración Pública, mejorar los servicios a la Ciudadanía y Fortalecimiento de la Transparencia, Decreto Ejecutivo No.
-
-PCM-008-97 de fecha 02 de junio de 1997 y demás aplicables,
+Que en el uso de sus facultades y en aplicación de los Artículos 87, 246, 247 y 255 de la Constitución de la República; 5 y 117 de la Ley General de la Administración Pública, reformados mediante Decreto No. 266-2013, 7, 11,numeral 3), artículos 16 numeral 2, 4, 13,17, reformado de la Ley del Sistema Penitenciario Nacional, 43, 118, de la Ley General de Administración Pública, artículo 4 de la Ley para Optimizar la Administración Pública, mejorar los servicios a la Ciudadanía y Fortalecimiento de la Transparencia, Decreto Ejecutivo No. PCM-008-97 de fecha 02 de junio de 1997 y demás aplicables,
 
 Artículos 3, 92 del Código de Trabajo, 38, Ley de Servicio Civil, 159 del Reglamento de la Ley de Servicio Civil.
 

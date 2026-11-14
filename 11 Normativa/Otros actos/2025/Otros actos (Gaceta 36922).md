@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250821-36922/download"
 extraido: "2026-11-09"
-huella: "79d82d7940893624"
+huella: "f1079b6e88c878c7"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -41,13 +41,13 @@ CONSIDERANDO: Que el artículo 116 de la ley previamente citada establece que: �
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-020-2025 publicado en el Diario Oficial La Gaceta de fecha 20 de junio del 2025 se instruyó de forma expresa a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (Copeco) en colaboración con la Dirección Nacional de Viabilidad y Transporte (DNVT) atender el estado de calamidad por el incremento de los accidente y muertes de conductores de motocicletas con el objeto de preservar la vida e integridad corporal de las personas que se movilizan por medio de motocicletas, triciclos u otros medios motorizados de dos (2) o tres (3) ruedas.
 
-CONSIDERANDO: Que el artículo número 4 del PCM- 020-2025 manda a: “Proceda por la vía reglamentaria y en atención a criterios objetivos a determinar los requisitos para ser beneficiario del equipo de protección, así como los parámetros legales y técnicos del mismo y los procedimientos de control y entrega”.
+CONSIDERANDO: Que el artículo número 4 del PCM-020-2025 manda a: “Proceda por la vía reglamentaria y en atención a criterios objetivos a determinar los requisitos para ser beneficiario del equipo de protección, así como los parámetros legales y técnicos del mismo y los procedimientos de control y entrega”.
 
 CONSIDERANDO: Que el cuerpo legal del PCM-020-2025 establece de manera expresa establece cuales son los accesorios de seguridad que serán objeto de compra, definiendo también de manera expresa las edades y los departamentos de donde serán seleccionados los beneficiarios.
 
-CONSIDERANDO: Que la Secretaría de Seguridad, por medio de Oficio SEDS-No.0946-2025 de fecha 15 de mayo de 2025 remitió a Copeco dictamen técnico y legal sobre los accesorios de seguridad obligatorios y recomendados.
+CONSIDERANDO: Que la Secretaría de Seguridad, por medio de Oficio SEDS-No. 0946-2025 de fecha 15 de mayo de 2025 remitió a Copeco dictamen técnico y legal sobre los accesorios de seguridad obligatorios y recomendados.
 
-Siendo confirmado mediante Oficio SEDS-No.1346-2025 las características técnicas de los cascos y los chalecos.
+Siendo confirmado mediante Oficio SEDS-No. 1346-2025 las características técnicas de los cascos y los chalecos.
 
 POR TANTO
 
@@ -67,7 +67,7 @@ ARTÍCULO 1. Objeto: El presente reglamento tiene como objeto definir los criter
 
 #### Artículo 2
 
-ARTÍCULO 2. Ámbito de aplicación: Las normas contenidas en el presente Reglamento serán de exclusiva aplicación para el cumplimiento hechos, actos y situaciones regulados mediante el Decreto Ejecutivo Número PCM-020- 2025.
+ARTÍCULO 2. Ámbito de aplicación: Las normas contenidas en el presente Reglamento serán de exclusiva aplicación para el cumplimiento hechos, actos y situaciones regulados mediante el Decreto Ejecutivo Número PCM-020-2025.
 
 #### Artículo 3
 
@@ -101,7 +101,7 @@ ARTÍCULO 5. Parámetros legales: La Convención de Naciones Unidas sobre la Cir
 
 #### Artículo 6
 
-ARTÍCULO 6. Parámetros técnicos. Los parámetros técnicos emitidos por la Dirección Nacional de Viabilidad y Transporte (DNVT) mediante Oficio SEDS-No.1346-2025 establecen que los cascos deben contar con una Certificación ECE 22.06 y que los Chalecos Reflectivos deben ser de un color amarillo fluorescente.
+ARTÍCULO 6. Parámetros técnicos. Los parámetros técnicos emitidos por la Dirección Nacional de Viabilidad y Transporte (DNVT) mediante Oficio SEDS-No. 1346-2025 establecen que los cascos deben contar con una Certificación ECE 22.06 y que los Chalecos Reflectivos deben ser de un color amarillo fluorescente.
 
 #### Artículo 7
 

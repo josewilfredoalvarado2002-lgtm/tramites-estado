@@ -11,7 +11,7 @@ paginas: "A. 22 - 44"
 sumario: "Acuerdo Ejecutivo número 027-SP-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201231-35474/download"
 extraido: "2026-11-14"
-huella: "159c336629fc7455"
+huella: "2ba185504c5e23ac"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 027-SP-2020
@@ -655,7 +655,7 @@ Que de acuerdo con los análisis realizados por el Operador del Sistema (ODS) el
 
 Que la revisión de los costos reales de compra de energía de la ENEE entre los meses de septiembre a noviembre de 2020 muestra que estos fueron menores que los costos previstos para el mismo periodo en un monto de USD 15,476,109.44, el cual debe ser restado de la previsión de costo de compra de energía del primer trimestre del año 2021, resultando en un costo equivalente de compra de energía de 109.07 USD/ MWh para el primer trimestre de 2021.
 
-Que las proyecciones de precio de combustibles utilizadas para el cálculo del costo base de generación para el año 2021 se sustentaron en proyecciones del Short Term Energy Outlook publicado por la Administración de Información Energética de los Estados Unidos el 8 de diciembre de 2020, resultando en un precio proyectado promedio anual de USD 36.87 por barril para el combustible HFO No.6 con un contenido de 3% de azufre y de USD 0.8910 por galón para el combustible diésel durante el 2021.
+Que las proyecciones de precio de combustibles utilizadas para el cálculo del costo base de generación para el año 2021 se sustentaron en proyecciones del Short Term Energy Outlook publicado por la Administración de Información Energética de los Estados Unidos el 8 de diciembre de 2020, resultando en un precio proyectado promedio anual de USD 36.87 por barril para el combustible HFO No. 6 con un contenido de 3% de azufre y de USD 0.8910 por galón para el combustible diésel durante el 2021.
 
 Que el tipo de cambio utilizado para el ajuste que se aplicará a partir de enero de 2021 es de 24.27 lempiras por dólar, el cual es menor al valor que sirvió de referencia para establecer el anterior ajuste.
 
@@ -669,7 +669,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 

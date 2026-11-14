@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo Ministerial No. 054-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210304-35534/download"
 extraido: "2026-11-14"
-huella: "f6e25558571d69b9"
+huella: "8673827620329eec"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 054-2021
@@ -163,7 +163,7 @@ ARTÍCULO 12.- CATEGORÍAS DE EMPLEADOS: El personal de la Secretaría de Desarr
 
 Directores Generales; Subdirectores Generales. DE CONFIANZA: persona natural que desempeñen funciones de manera temporal o permanente dirigidas u orientadas al Secretario de Estado y los Subsecretarios como son: Secretaria, Asistentes, Asesores, Motoristas que los transportan personalmente, Personal de Seguridad, Aseadoras y Conserjes.
 
-2 . E M P L E A D O S R E G U L A R E S O
+2 . EMPLEADOS REGULARES O
 
 PERMANENTES: Todas aquellas personas que hayan sido nombradas de conformidad a las disposiciones de la Ley de Servicio Civil y su Reglamento, por medio de un Acuerdo otorgado por el Poder Ejecutivo, y que haya aprobado satisfactoriamente su periodo de prueba para ocupar un puesto con carácter permanente, el cual deberá figurar en el anexo desglosado de la Secretaría presentado a la Dirección de Presupuesto General de Ingresos y Egresos de la República de la Secretaría de Finanzas.
 
@@ -1053,7 +1053,7 @@ ARTÍCULO 109.- El presente Reglamento Interno es de obligatorio cumplimiento de
 
 #### Artículo 110
 
-ARTÍCULO 110.- El presente Reglamento Interno deroga el Reglamento Interno contenido en el Acuerdo Ministerial No.380-2014 de fecha 28 de noviembre del 2014.
+ARTÍCULO 110.- El presente Reglamento Interno deroga el Reglamento Interno contenido en el Acuerdo Ministerial No. 380-2014 de fecha 28 de noviembre del 2014.
 
 #### Artículo 111
 

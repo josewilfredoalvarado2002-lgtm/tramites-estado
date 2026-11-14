@@ -8,10 +8,10 @@ gaceta_numero: 35248
 gaceta_fecha: "2020-05-10"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35248 (2020-05-10)|La Gaceta 35248]]"
 paginas: "A. 1 - 6"
-sumario: "Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo No. 41-2020"
+sumario: "Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo No. 41-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200510-35248-2/download"
 extraido: "2026-11-14"
-huella: "aa318dc9cf00d98b"
+huella: "87cbc725bfe154ac"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-041-2020
@@ -23,7 +23,7 @@ huella: "aa318dc9cf00d98b"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35248 (2020-05-10)\|La Gaceta 35248]] del 2020-05-10 |
 | Páginas | A. 1 - 6 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo No. 41-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo No. 41-2020 |
 
 ## Texto
 
@@ -51,11 +51,7 @@ CONSIDERANDO: Que la emergencia causada por la pandemia por el COVID-19 ha hecho
 
 CONSIDERANDO: Que como consecuencia de la crisis actual es de prioridad y necesidad nacional de interés público estratégico, asegurar que el país cuente con reservas suficientes de alimentos para hacer frente a la emergencia humanitaria y sanitaria que afecta la nación priorizando mantener las cadenas productivas y de distribución de alimentos activas en todo momento, lo cual debe ser sostenible en el tiempo para paliar los efectos posteriores a la crisis.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-030-2020, publicado el 9 de abril del 2020, en el Diario Oficial “La Gaceta” en la edición No.
-
-35,222, SE DECLARA PRIORIDAD NACIONAL EL APOYO AL SECTOR PRODUCTOR DE ALIMENTOS Y AGROINDUSTRIA ALIMENTARIA, SE DECRETAN MEDIDAS PARA ASEGURAR LA SOBERANÍA Y SEGURIDAD ALIMENTARIA, reformado mediante Decreto Ejecutivo Número PCM-037-2020 publicado el 5 de mayo del 2020, en el Diario Oficial “La Gaceta” en la edición No.
-
-35,243.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-030-2020, publicado el 9 de abril del 2020, en el Diario Oficial “La Gaceta” en la edición No. 35,222, SE DECLARA PRIORIDAD NACIONAL EL APOYO AL SECTOR PRODUCTOR DE ALIMENTOS Y AGROINDUSTRIA ALIMENTARIA, SE DECRETAN MEDIDAS PARA ASEGURAR LA SOBERANÍA Y SEGURIDAD ALIMENTARIA, reformado mediante Decreto Ejecutivo Número PCM-037-2020 publicado el 5 de mayo del 2020, en el Diario Oficial “La Gaceta” en la edición No. 35,243.
 
 POR TANTO, En uso de las facultades contenidas en los artículos 59, 145, 245 numerales 11), 20), 23) y 29), 321, 323, 328, 332 y 347 de la Constitución de la República; artículos 11, 22 numeral 5), 116 y 119 de la Ley General de la Administración Pública y su reforma; Decreto Legislativo No. 33-2020; Decreto Ejecutivo número PCM-005-2020 y sus reformas realizadas en virtud de los Decretos Ejecutivos números PCM-016-2020;
 

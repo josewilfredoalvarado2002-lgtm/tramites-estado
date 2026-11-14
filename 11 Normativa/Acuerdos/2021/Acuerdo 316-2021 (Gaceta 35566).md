@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 316-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210409-35566/download"
 extraido: "2026-11-14"
-huella: "6c7e0d19c7e72106"
+huella: "d0bc96d53b20672f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 316-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución manda como obligación del Poder Ejecutivo ad
 
 CONSIDERANDO: Que la Secretaria de Salud, como ente Rector del Sistema Nacional de Salud, deviene en la obligación de coordinar, alinear y armonizar los recursos financieros de las diferentes fuentes de financiamiento del sistema de salud, con la prioridades y objetivos nacionales, enmarcado con criterios de equidad den la financiación, asignación y distribución de los mismos.
 
-CONSIDERANDO: Que para hacer realidad las garantías y el ejercicio de los derechos sociales de salud, se aprobó mediante Decreto Legislativo No. 52-2020 de fecha 23 de abril de 2020, el Acuerdo de Financiamiento No.6626-HN, suscrito entre Banco Mundial (BM) y el Gobierno de la República a través de la Secretaría de Finanzas, denominado Proyecto de Respuesta a Emergencias Honduras COVID-19, con el fin de destinar recursos financieros para el fortalecimiento de la respuesta de la Secretaría de Salud ante la Pandemia COVID-19 y la mejora de la salud hondureña.
+CONSIDERANDO: Que para hacer realidad las garantías y el ejercicio de los derechos sociales de salud, se aprobó mediante Decreto Legislativo No. 52-2020 de fecha 23 de abril de 2020, el Acuerdo de Financiamiento No. 6626-HN, suscrito entre Banco Mundial (BM) y el Gobierno de la República a través de la Secretaría de Finanzas, denominado Proyecto de Respuesta a Emergencias Honduras COVID-19, con el fin de destinar recursos financieros para el fortalecimiento de la respuesta de la Secretaría de Salud ante la Pandemia COVID-19 y la mejora de la salud hondureña.
 
 CONSIDERANDO: Que tal y como se establece en el Acuerdo relacionado, para la administración y aumentar la eficiencia en la ejecución de los proyectos financiados con fondos del Banco Mundial, estos se ejecutarán a través de una unidad ejecutora especial administrada a través de una coordinación dependiente del Despacho de la Secretaría de Salud.
 
@@ -201,7 +201,7 @@ DECIMO: Todos los procedimientos estarán descritos en un Manual Operativo elabo
 
 DECIMO PRIMERO: El presente Acuerdo entrará en vigencia a partir de su publicación en el “Diario Oficial La Gaceta”.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 LICENCIADA ALBA CONSUELO FLORES FERRUFINO SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD ABOGADA SARA DEL CARMEN ALVAREZ SANCHEZ SECRETARIA GENERAL
 

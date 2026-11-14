@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. SAG-068-2025, SAG-069-2025, SAG-070-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250613-36863/download"
 extraido: "2026-11-10"
-huella: "a009c127a035006d"
+huella: "9fffee9cf6655387"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-068-2025
@@ -73,11 +73,7 @@ PRODUCTORES”, está dirigido a mejorar los ingresos de las familias cafetalera
 
 CONSIDERANDO:
 
-Que mediante Decreto No.
-
-4-2025 de fecha 06 de febrero del 2025, se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2025, mediante el cual se aprueba el Presupuesto de la Secretaria de Estado en los Despachos de la Secretaría de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 23 y Actividad Obra No.
-
-003, TRESCIENTOS CINCUENTA MILLONES
+Que mediante Decreto No. 4-2025 de fecha 06 de febrero del 2025, se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2025, mediante el cual se aprueba el Presupuesto de la Secretaria de Estado en los Despachos de la Secretaría de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 23 y Actividad Obra No. 003, TRESCIENTOS CINCUENTA MILLONES
 
 DE LEMPIRAS (L.350,000,000.00), destinados a la Ejecución del PROGRAMA “BONO CAFETALERO PARA LA FERTILIZACIÓN EN APOYO A PEQUEÑOS Y MEDIANOS PRODUCTORES”.
 

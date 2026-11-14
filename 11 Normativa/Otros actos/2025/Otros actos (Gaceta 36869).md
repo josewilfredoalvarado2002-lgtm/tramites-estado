@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250620-36869/download"
 extraido: "2026-11-10"
-huella: "ce4a337633745dc9"
+huella: "624feb0afe830f2d"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -75,7 +75,7 @@ En uso de las facultades de que está investida y en aplicación de los artícul
 
 7 y 16 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. Artículos: 2, 3, 7 literal ch), 9, 11 y 13 del Decreto Legislativo 9-90 E). Artículo 99 numeral 21) del Decreto Legislativo PCM-051-2019.
 
-Artículo 27 del Decreto Legislativo 107-2019. Así como las disposiciones contenidas en el Decreto Legislativo PCM-051- 2019 y demás aplicables.
+Artículo 27 del Decreto Legislativo 107-2019. Así como las disposiciones contenidas en el Decreto Legislativo PCM-051-2019 y demás aplicables.
 
 DECRETA:
 

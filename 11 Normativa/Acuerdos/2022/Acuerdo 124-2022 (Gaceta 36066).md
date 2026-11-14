@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 124-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221102-36066/download"
 extraido: "2026-11-14"
-huella: "a2fe7bd41d656927"
+huella: "d7806e17d2c91994"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 124-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficie
 
 CONSIDERANDO: Que para abastecer el mercado nacional es necesario complementar la oferta de cebolla con importaciones a efecto de evitar desabastecimiento y alza injustificada de los precios a los consumidores, siendo de sus atribuciones y competencia de Secretaría de Agricultura y Ganadería velar por un adecuado abastecimiento de productos esenciales para el consumo nacional.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No.009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
+CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
 
 (ACI) requiere la emisión de una licencia de importación emitida por esta Secretaría de Estado, siendo uno de los requisitos para la emisión de dichas licencias automáticas.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que en fecha 09 de febrero del 2022 fue publicado en el Diario Ofi
 
 CONSIDERANDO: Que el Programa Nacional de Desarrollo Agroalimentario PRONAGRO, en fecha 24 de octubre del 2022, emitió Dictamen Técnico sobre la asignación de importación de cebolla para el mes de noviembre del 2022, en base a los Acuerdos y Compromisos definidos en Reunión del Comité Nacional de la Cadena Hortícola del rubro de la cebolla, celebrada en fecha 19 julio de 2022.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG- 280-2022 de fecha 24 de octubre de 2022 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de noviembre del año 2022; clasificadas en los incisos arancelarios 0703.10.11.00;
+CONSIDERANDO: Que mediante Acuerdo No. SAG-280-2022 de fecha 24 de octubre de 2022 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de noviembre del año 2022; clasificadas en los incisos arancelarios 0703.10.11.00;
 
 0703.10.12.00 y 0703.10.13.00 del Arancel Centroamericano de Importación (ACI).
 
@@ -179,19 +179,19 @@ TOTAL KILOGRAMOS
 
 1,852,320.00
 
-SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No.009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la ventanilla de la Secretaría General de esta Secretaría de Estado o por medio de correo solicitud.licencia.cebolla@ sde.gob.hn. Las licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
+SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la ventanilla de la Secretaría General de esta Secretaría de Estado o por medio de correo solicitud.licencia.cebolla@ sde.gob.hn. Las licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
 
 TERCERO: Para aquellos importadores que no cuentan con el Número de Registro supra indicado, la solicitud deberá ser presentada ante la Secretaría General de esta Secretaría de Estado para que se realice el correspondiente registro del solicitante.
 
 CUARTO: El retiro de la Constancia de Número de Registro de Importador de Cebolla (NRIC) y/o licencia de importación de cebolla será por medio de la ventanilla de la Secretaría General de esta Secretaría de Estado.
 
-QUINTO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No.009-2015.
+QUINTO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No. 009-2015.
 
 SEXTO: Para los efectos de este Acuerdo son aplicables los
 
-Artículos 4, 5 y 8 del Acuerdo Ministerial No.009-2015.
+Artículos 4, 5 y 8 del Acuerdo Ministerial No. 009-2015.
 
-SEPTIMO: De conformidad al artículo 6 del Acuerdo Ministerial No.009-2015, sobre las prórrogas de vigencia de las licencias de importación de cebolla, estas se emitirán en base al Artículo 44 de la Ley del Procedimiento Administrativo. Las solicitudes se deberán realizar por medio de apoderado legal, ante la Secretaría General de esta Secretaría de Estado, dicha solicitud deberá ser acompañada por la siguiente documentación:
+SEPTIMO: De conformidad al artículo 6 del Acuerdo Ministerial No. 009-2015, sobre las prórrogas de vigencia de las licencias de importación de cebolla, estas se emitirán en base al Artículo 44 de la Ley del Procedimiento Administrativo. Las solicitudes se deberán realizar por medio de apoderado legal, ante la Secretaría General de esta Secretaría de Estado, dicha solicitud deberá ser acompañada por la siguiente documentación:
 
 a) La licencia de importación original.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. 07-2020, 39-2020, 43-2020,44-2020, 51-2020, 54-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200806-35335/download"
 extraido: "2026-11-14"
-huella: "17f32afd8eeba662"
+huella: "82ec8e8ff6e2a5f5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 07-2020
@@ -73,7 +73,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintiún (21) días del mes de abril del año dos mil veinte (2020).
 
-RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NAJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA _______ Secretaría de Gobernación, Justicia y Descentralización ACUERDO No. 44 -2020 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO RICARDO ALFREDO MONTES NAJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA _______ Secretaría de Gobernación, Justicia y Descentralización ACUERDO No. 44 -2020 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 
@@ -107,7 +107,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veinte (20) días del mes de mayo del año dos mil veinte (2020).
 
-JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA RICARDO ALFREDO MONTES NAJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA _______ Secretaría de Gobernación, Justicia y Descentralización ACUERDO No. 54 -2020 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA RICARDO ALFREDO MONTES NAJERA SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA _______ Secretaría de Gobernación, Justicia y Descentralización ACUERDO No. 54 -2020 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

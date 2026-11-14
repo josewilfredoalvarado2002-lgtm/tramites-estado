@@ -11,7 +11,7 @@ paginas: "A. 7 - 14"
 sumario: "Decretos Nos. 50-2026, 68-2026, Resolución No. 3-2026-PLENO/CN, Fe de Errata"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260430-37130/download"
 extraido: "2026-11-09"
-huella: "22e5eca44c222213"
+huella: "dc6fb76c0a6cd005"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 3-2026-PLENO/CN
@@ -67,7 +67,7 @@ FE DE ERRATA
 
 En La Gaceta No. 37,093 de fecha 13 de Marzo del 2026, específicamente en la publicación del Decreto No. 30-2026 de fecha 11 de Marzo de 2026, misma que contiene la elección del ciudadano EDUARDO ENRIQUE FUENTES CÁLIX, para ocupar el Cargo de Comisionado de la Unidad de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, en sustitución del ciudadano EMILIO ENRIQUE HERNÁNDEZ HÉRCULES, para ocupar el cargo por el período de tiempo que le restaba al sustituido, previo haber prestado la Promesa de Ley correspondiente, el cual por un error involuntario en dicho Decreto se escribió mal el mes de aprobación "Once de Febrero de Dos Mil Veintiséis", siendo lo correcto "Once de Marzo de Dos Mil Veintiséis, el cual debe leerse de la manera siguiente:
 
-En la Segunda Columna del Diario Oficial "La Gaceta", página 2-A del Decreto No.30-2026, debe leerse de la forma siguiente:
+En la Segunda Columna del Diario Oficial "La Gaceta", página 2-A del Decreto No. 30-2026, debe leerse de la forma siguiente:
 
 "Dado en la Ciudad de Tegucigalpa, Municipio del Distrito Central, en el Salón de Sesiones del Congreso Nacional, a los Once días del mes de Marzo de Dos Mil Veintiséis".
 
@@ -83,7 +83,7 @@ Resultando:
 
 I.
 
-Que mediante Decreto No. 404-2013, publicado en el Diario Oficial La Gaceta el veinte (20) de mayo de dos mil catorce (2014), fue aprobada la Ley General de la Industria Eléctrica (LGIE); la cual fue reformada mediante Decretos Legislativos 61- 2020, 02-2022 y 46-2022.
+Que mediante Decreto No. 404-2013, publicado en el Diario Oficial La Gaceta el veinte (20) de mayo de dos mil catorce (2014), fue aprobada la Ley General de la Industria Eléctrica (LGIE); la cual fue reformada mediante Decretos Legislativos 61-2020, 02-2022 y 46-2022.
 
 II.
 
@@ -97,7 +97,7 @@ En consecuencia, el veinticuatro (24) de julio de dos mil veintitrés (2023) est
 
 IV.
 
-Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante el Acuerdo CREE-99-2025, publicado en el Diario Oficial "La Gaceta" en fecha quince (15) de agosto de dos mil veinticinco (2025), realizó entre otras cosas, lo siguiente: i. Revocar en toda y cada una de sus partes el Acuerdo CREE- 028, publicado en el Diario Oficial La Gaceta el trece (13) de enero de dos mil veinte (2020) y el Acuerdo CREE-099, publicado en el Diario Oficial La Gaceta el dieciocho (18) de diciembre de dos mil veinte (2020); y, ii. Aprobar en todas y cada una de sus partes el Reglamento del Servicio Eléctrico de Distribución.
+Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante el Acuerdo CREE-99-2025, publicado en el Diario Oficial "La Gaceta" en fecha quince (15) de agosto de dos mil veinticinco (2025), realizó entre otras cosas, lo siguiente: i. Revocar en toda y cada una de sus partes el Acuerdo CREE-028, publicado en el Diario Oficial La Gaceta el trece (13) de enero de dos mil veinte (2020) y el Acuerdo CREE-099, publicado en el Diario Oficial La Gaceta el dieciocho (18) de diciembre de dos mil veinte (2020); y, ii. Aprobar en todas y cada una de sus partes el Reglamento del Servicio Eléctrico de Distribución.
 
 V.
 
@@ -109,7 +109,7 @@ Que mediante el Acuerdo CREE-141-2025, publicado en el Diario Oficial "La Gaceta
 
 VII.
 
-Que en fecha veintiocho (28) de abril de dos mil veintiséis (2026), la Empresa Nacional de Energía Eléctrica (ENEE), en atención a la disposición regulatoria contenida en el Reglamento del Servicio Eléctrico de Distribución, aprobado mediante el Acuerdo CREE-099-2025 a través del cual la Comisión Reguladora de Energía Eléctrica (CREE) modificó el plazo de pago para los usuarios de las Empresas Distribuidoras de quince (15) a veintiocho (28) días, presentó el oficio número GG- 267-04-2026, acompañado de la documentación de soporte correspondiente, mediante el cual manifestó lo siguiente: "(...) Aunque el acuerdo se publicó oficialmente en agosto, la medida se anunció y comenzó a socializarse de manera intensiva a finales de octubre de 2025, debido a que la Empresa Nacional de Energía Eléctrica (ENEE) requirió dicho periodo de transición para actualizar su normativa comercial interna y sus sistemas de facturación, previo a la implementación del nuevo plazo. Por lo anterior, se solicita a la CREE dejar sin efecto la ampliación del plazo para el pago, en virtud de que esta medida debilita gravemente el flujo de caja de la Empresa y limita su capacidad para cumplir con sus compromisos financieros de corto plazo".
+Que en fecha veintiocho (28) de abril de dos mil veintiséis (2026), la Empresa Nacional de Energía Eléctrica (ENEE), en atención a la disposición regulatoria contenida en el Reglamento del Servicio Eléctrico de Distribución, aprobado mediante el Acuerdo CREE-099-2025 a través del cual la Comisión Reguladora de Energía Eléctrica (CREE) modificó el plazo de pago para los usuarios de las Empresas Distribuidoras de quince (15) a veintiocho (28) días, presentó el oficio número GG-267-04-2026, acompañado de la documentación de soporte correspondiente, mediante el cual manifestó lo siguiente: "(...) Aunque el acuerdo se publicó oficialmente en agosto, la medida se anunció y comenzó a socializarse de manera intensiva a finales de octubre de 2025, debido a que la Empresa Nacional de Energía Eléctrica (ENEE) requirió dicho periodo de transición para actualizar su normativa comercial interna y sus sistemas de facturación, previo a la implementación del nuevo plazo. Por lo anterior, se solicita a la CREE dejar sin efecto la ampliación del plazo para el pago, en virtud de que esta medida debilita gravemente el flujo de caja de la Empresa y limita su capacidad para cumplir con sus compromisos financieros de corto plazo".
 
 VIII.
 
@@ -161,7 +161,7 @@ La Comisión Reguladora de Energía Eléctrica (CREE) en uso de sus facultades y
 
 Acuerda:
 
-PRIMERO: Aprobar la modificación del artículo 66 del Reglamento del Servicio Eléctrico de Distribución aprobado mediante el Acuerdo CREE-99-2025, publicado en el Diario Oficial "La Gaceta" en fecha quince (15) de agosto de dos mil veinticinco (2025) y reformado mediante el Acuerdo CREE- 141-2025, publicado en el Diario Oficial "La Gaceta" en fecha treinta y uno (31) de diciembre de dos mil veinticinco (2025), artículo que ahora en adelante se leerá de la manera siguiente:
+PRIMERO: Aprobar la modificación del artículo 66 del Reglamento del Servicio Eléctrico de Distribución aprobado mediante el Acuerdo CREE-99-2025, publicado en el Diario Oficial "La Gaceta" en fecha quince (15) de agosto de dos mil veinticinco (2025) y reformado mediante el Acuerdo CREE-141-2025, publicado en el Diario Oficial "La Gaceta" en fecha treinta y uno (31) de diciembre de dos mil veinticinco (2025), artículo que ahora en adelante se leerá de la manera siguiente:
 
 "Artículo 66. Plazo para el Pago.
 

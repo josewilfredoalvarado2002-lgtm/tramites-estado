@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos Nos. 138-2019, 140-2019, 151-2019, 152-2019, 34-A-2020, 34-B-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200528-35266-2/download"
 extraido: "2026-11-14"
-huella: "29352c38e944fcfe"
+huella: "003dedf637a3ad31"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 140-2019
@@ -27,7 +27,7 @@ huella: "29352c38e944fcfe"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-068- 2019.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-068-2019.
 
 ACUERDA:
 

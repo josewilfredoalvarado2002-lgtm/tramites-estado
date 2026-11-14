@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "a7e6d0e95f75272c"
+huella: "7df870f6f8fa4e9e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 218-2026
@@ -39,7 +39,7 @@ CONSIDERANDO: Que, de conformidad con el Artículo 205, Atribución 1), de la Co
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230809-36303/download"
 extraido: "2026-11-14"
-huella: "895ca35c76894ad2"
+huella: "ac2afdd630ff793a"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,9 +33,7 @@ CONSIDERANDO: Que la Constitución de la República establece que la titularidad
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros (artículo 11).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-126-1968 publicado en el Diario Oficial “La Gaceta” de fecha 6 de marzo del 1968, edición número 19,411, se aprobó la Ley de Servicio Civil, la cual tiene por finalidad establecer un sistema nacional de administración personal en el servicio público regulando las relaciones entre los servidores públicos y el Estado. Asimismo, se creó la Dirección General de Servicio Civil, para la aplicación de la Ley del Servicio Civil y su Reglamento (artículos 1 y 5).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 126-1968 publicado en el Diario Oficial “La Gaceta” de fecha 6 de marzo del 1968, edición número 19,411, se aprobó la Ley de Servicio Civil, la cual tiene por finalidad establecer un sistema nacional de administración personal en el servicio público regulando las relaciones entre los servidores públicos y el Estado. Asimismo, se creó la Dirección General de Servicio Civil, para la aplicación de la Ley del Servicio Civil y su Reglamento (artículos 1 y 5).
 
 CONSIDERANDO: Que la Constitución de la República, dispone que el Régimen de Servicio Civil regula las relaciones de empleo y función pública que se establecen entre el Estado y sus servidores/as; fundamentados en principios de idoneidad, eficiencia y honestidad y que para lograrlo, la administración de personal debe estar sometida a métodos científicos basados en un sistema de méritos (artículo 256).
 

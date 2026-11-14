@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Acuerdos Ministeriales Nos. 175-2021, 176-2021, 177-2021, 178-2021, 179-2021, 180-2021."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211029-35758/download"
 extraido: "2026-11-14"
-huella: "4548b57e4144cce5"
+huella: "30c1eadc36e5fc53"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 177-2021
@@ -31,9 +31,7 @@ LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre República Dominicana, Centroamérica y los Estados Unidos (RD-CAFTA) fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No.3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
 CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para los productos importados bajo contingentes al amparo del Tratado de Libre Comercio RDCAFTA, los importadores deberán contar con un certificado de importación válido y vigente, emitido por la Secretaría de Desarrollo Económico, por el volumen máximo ahí establecido.
 
@@ -81,15 +79,13 @@ SEXTO: Para las mercancías de leche en polvo, mantequilla, queso, helados y otr
 
 SÉPTIMO: Para la importación de leche en polvo, mantequilla, queso, helados y otros productos lácteos, deberán solicitar en la Secretaría de Desarrollo Económico el Registro de Importador de Productos Lácteos (NRIPL) y posteriormente la correspondiente licencia de importación de productos lácteos para cada importación que se realice, de conformidad con el Acuerdo No. A-024-2009 del 24 de septiembre de 2009 y Acuerdo No. 41-2009 del 18 de noviembre de 2009.
 
-OCTAVO: La asignación de arroz pilado y maíz blanco para el año 2022 será distribuido de la siguiente manera: el 95% correspondiente a las empresas históricas y el 5% restante para las empresas nuevas se asignará en el proceso de reasignación de conformidad al Acuerdo No. 013-2016 y Acuerdo No.
-
-014-2016.
+OCTAVO: La asignación de arroz pilado y maíz blanco para el año 2022 será distribuido de la siguiente manera: el 95% correspondiente a las empresas históricas y el 5% restante para las empresas nuevas se asignará en el proceso de reasignación de conformidad al Acuerdo No. 013-2016 y Acuerdo No. 014-2016.
 
 NOVENO: Los importadores beneficiados con una cuota de contingente de importación de arroz granza, arroz pilado y maíz blanco se les entregará un certificado de importación que tendrá vigencia del 01 de enero hasta el 31 de diciembre del año 2022, por lo que deberán tomar las previsiones necesarias para que los productos al amparo de los certificados de importación ingresen al país dentro del periodo de vigencia de los mismos.
 
 DECIMO: El retiro de los certificados deberá hacerse en la ventanilla de Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo Económico, por medio de un apoderado legal debidamente acreditado.
 
-DECIMO PRIMERO: Para efectos del Artículo 19 literal b) del Acuerdo Ejecutivo No.16-2006 del 20 de marzo del 2006, esta Secretaría de Estado se reserva el derecho de hacer ajustes a todas las personas naturales o jurídicas a quienes se les hubiere asignado un certificado una vez que se compruebe en la base de datos SARAH, la no utilización de los Certificados de Importación emitidos para el año 2021.
+DECIMO PRIMERO: Para efectos del Artículo 19 literal b) del Acuerdo Ejecutivo No. 16-2006 del 20 de marzo del 2006, esta Secretaría de Estado se reserva el derecho de hacer ajustes a todas las personas naturales o jurídicas a quienes se les hubiere asignado un certificado una vez que se compruebe en la base de datos SARAH, la no utilización de los Certificados de Importación emitidos para el año 2021.
 
 DECIMO SEGUNDO: Proceder a la publicación del aviso mediante el cual se pone a disposición de los agentes económicos interesados, los contingentes de importación para el año 2022 detallados en el ordinal primero, en dos diarios de circulación nacional.
 

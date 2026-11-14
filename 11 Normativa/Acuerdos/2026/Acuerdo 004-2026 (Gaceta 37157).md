@@ -11,7 +11,7 @@ paginas: "A. 11 - 18"
 sumario: "Acuerdo No.004-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260602-37157/download"
 extraido: "2026-11-09"
-huella: "48ab401efceae16e"
+huella: "172f7f502a59b888"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 004-2026
@@ -35,7 +35,7 @@ CONSIDERANDO (2): Que la Ley del Sistema Penitenciario Nacional en su artículo 
 
 CONSIDERANDO (3): Que el Artículo 8 numeral 3) de la Ley del Sistema Penitenciario Nacional establece: Que corresponde al Instituto Nacional Penitenciario; velar por la seguridad, atención, custodia, asistencia médica, educativa, laboral u otros servicios inherentes a los fines de esta ley y numeral 12) garantizar la seguridad del personal que labora en el Sistema Penitenciario Nacional (INP); numeral 13 organizar los cuerpos de seguridad, equipos técnicos y administrativos necesarios para el cumplimiento de los fines de esta ley y otras relacionadas con la actividad Penitenciaria.
 
-CONSIDERANDO (4): Que mediante Acuerdo No. 165- 2025 de fecha doce (12) de enero del año dos mil veintiseis (2026) se ha nombrado al ciudadano OTHONIEL GROSS CASTILLO, en el cargo de Comisionado Presidente del Sistema Penitenciario Nacional emitido por la Presidenta de la República de Honduras, con vigencia del uno (01) al veintiséis (26) del mes de enero del año dos mil veintiséis (2026), publicado en La Gaceta bajo número 37,041 de fecha doce (12) de enero del año dos mil veintiséis (2026).
+CONSIDERANDO (4): Que mediante Acuerdo No. 165-2025 de fecha doce (12) de enero del año dos mil veintiseis (2026) se ha nombrado al ciudadano OTHONIEL GROSS CASTILLO, en el cargo de Comisionado Presidente del Sistema Penitenciario Nacional emitido por la Presidenta de la República de Honduras, con vigencia del uno (01) al veintiséis (26) del mes de enero del año dos mil veintiséis (2026), publicado en La Gaceta bajo número 37,041 de fecha doce (12) de enero del año dos mil veintiséis (2026).
 
 CONSIDERANDO (5): Que mediante Decreto Ejecutivo No. 03-2026 de fecha seis (06) de febrero del año dos mil veintiséis (2026); ordenó prorrogar hasta el treinta (30) de abril del año dos mil veintiséis (2026), los nombramientos y la vigencia de los Acuerdos Ejecutivos 165-2025, 166-2025 y 167-2025, todas fechas treinta y uno (31) de diciembre del año dos mil veinticinco (2025).
 
@@ -67,7 +67,7 @@ CONSIDERANDO (15): Que los PRINCIPIOS
 
 GLOBALES SOBRE SEGURIDAD NACIONAL Y EL DERECHO A LA INFORMACIÓN (“PRINCIPIOS DE TSHWANE”), determinan que los Estados tienen el derecho legítimo de clasificar cierta información, incluso por razones de seguridad nacional, y destacando que encontrar un punto de equilibrio adecuado entre la divulgación y la clasificación de información resulta indispensable para una sociedad democrática y su seguridad, progreso, desarrollo y bienestar, así como para el pleno goce de los derechos humanos y las libertades fundamentales; pero que resulta imperativo, para que las personas puedan monitorear la conducta de su gobierno y participar plenamente en una sociedad democrática.
 
-CONSIDERANDO (16): Que, el artículo 20 de los L I N E A M I E N TO S G E N E R A L E S PA R A L A CLASIFICACIÓN Y DESCLASIFICACIÓN COMO RESERVADA, DE LA INFORMACIÓN QUE TIENEN O GENERAN LAS INSTITUCIONES OBLIGADAS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, literalmente establece lo siguiente: “El periodo máximo de reserva será de diez años; los titulares de las Instituciones Obligadas procurarán determinar que el plazo de reserva sea el estrictamente necesario durante el cual subsistan las causas que dieron origen al trámite de clasificación. Para establecer dicho periodo, los titulares de las Instituciones Obligadas tomarán en cuenta las circunstancias de modo, tiempo y lugar relacionadas con la información al momento de su clasificación”.
+CONSIDERANDO (16): Que, el artículo 20 de los LINEA MI EN TO S G E N E R A L E S PA R A L A CLASIFICACIÓN Y DESCLASIFICACIÓN COMO RESERVADA, DE LA INFORMACIÓN QUE TIENEN O GENERAN LAS INSTITUCIONES OBLIGADAS POR LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, literalmente establece lo siguiente: “El periodo máximo de reserva será de diez años; los titulares de las Instituciones Obligadas procurarán determinar que el plazo de reserva sea el estrictamente necesario durante el cual subsistan las causas que dieron origen al trámite de clasificación. Para establecer dicho periodo, los titulares de las Instituciones Obligadas tomarán en cuenta las circunstancias de modo, tiempo y lugar relacionadas con la información al momento de su clasificación”.
 
 CONSIDERANDO (17): De conformidad con el artículo 6 numeral 16) del CÓDIGO DE CONDUCTA ÉTICA DEL SERVIDOR PÚBLICO, los servidores públicos se encuentran obligados a ajustar su conducta al derecho que tienen los ciudadanos a ser informados sobre su actuación.
 
@@ -75,9 +75,7 @@ CONSIDERANDO (18): Que conforme el artículo 21 de los lineamientos Generales pa
 
 CONSIDERANDO (19): Que mediante Acuerdo 03-2022 de fecha 24 de mayo el año 2022, el Director Nacional del Instituto Nacional Penitenciario, remitió al Instituto de Acceso de Información Pública la clasificación de la información como reservada, por ser una institución en materia de Seguridad que resguarda y custodia personas privadas de libertad.
 
-CONSIDERANDO (20): Que mediante Resolución No.
-
-SO-669-2023 de fecha 09 de noviembre del año 2023, el Instituto de Acceso a la Información Pública, resolvió declarar parcialmente con lugar la solicitud de CLASIFICACIÓN DE INFORMACIÓN PÚBLICA COMO RESERVADA, presentado por el Comisionado de Policia Otoniel Castillo Lemus, quien actuaba como Director del Instituto Nacional Penitenciario (INP), considerando que la Ley de Transparencia y Acceso a la Información Pública y su Reglamento otorga dicha facultad al Instituto de Acceso a la Información Pública (IAIP) y clasificar como reservada la información contenida en el Acuerdo No. 03-2022……..
+CONSIDERANDO (20): Que mediante Resolución No. SO-669-2023 de fecha 09 de noviembre del año 2023, el Instituto de Acceso a la Información Pública, resolvió declarar parcialmente con lugar la solicitud de CLASIFICACIÓN DE INFORMACIÓN PÚBLICA COMO RESERVADA, presentado por el Comisionado de Policia Otoniel Castillo Lemus, quien actuaba como Director del Instituto Nacional Penitenciario (INP), considerando que la Ley de Transparencia y Acceso a la Información Pública y su Reglamento otorga dicha facultad al Instituto de Acceso a la Información Pública (IAIP) y clasificar como reservada la información contenida en el Acuerdo No. 03-2022……..
 
 POR TANTO;
 
@@ -85,7 +83,7 @@ El Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario
 
 17,18,19,25,27,28,29,30,31 y 32 de la Ley de Transparencia y Acceso a la Información Pública, 26, 27 del Reglamento de la Ley de Transparencia y Acceso a la Información Pública;
 
-Decreto Ejecutivo número PCM-068-2019 de fecha 16 de diciembre del 2019; Decreto Legislativo Número 165-2025, de fecha 12 de enero del año 2025 y Decreto Ejecutivo 03- 2026 de fecha 06 de febrero del año 2026.
+Decreto Ejecutivo número PCM-068-2019 de fecha 16 de diciembre del 2019; Decreto Legislativo Número 165-2025, de fecha 12 de enero del año 2025 y Decreto Ejecutivo 03-2026 de fecha 06 de febrero del año 2026.
 
 ACUERDA:
 

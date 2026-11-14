@@ -11,7 +11,7 @@ paginas: "A. 141 - 144"
 sumario: "Decretos Nos. 57-2022, 136-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221221-36108/download"
 extraido: "2026-11-14"
-huella: "9b0431b81a422963"
+huella: "cbcd17dbddbb5b95"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 136-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Consejo Nacional Electoral (CNE), es el órgano especial, a
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 47 establece que los partidos políticos legalmente inscritos son instituciones de derecho público, cuya existencia y libre funcionamiento garantiza esta constitución y la ley para lograr la efectiva participación política de los ciudadanos.
 
-CONSIDERANDO: Que mediante Decreto No.35-2021 del 25 de Mayo del 2021 y publicado en el Diario Oficial “La Gaceta” el 26 de Mayo de 2021, Edición 35, 610, se aprobó la Ley Electoral de Honduras, cuya finalidad es la organización y funcionamiento de los órganos electorales de conformidad a la Constitución de la República.
+CONSIDERANDO: Que mediante Decreto No. 35-2021 del 25 de Mayo del 2021 y publicado en el Diario Oficial “La Gaceta” el 26 de Mayo de 2021, Edición 35, 610, se aprobó la Ley Electoral de Honduras, cuya finalidad es la organización y funcionamiento de los órganos electorales de conformidad a la Constitución de la República.
 
 CONSIDERANDO: Que según las disposiciones legales contenidas en la Ley Electoral de Honduras son instrumentos normativos de los Partidos Políticos: La Declaración de Principios, Estatutos, Programa de Acción Política y Política de Equidad de Género.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 80-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210917-35720/download"
 extraido: "2026-11-14"
-huella: "5e15335075cadb4f"
+huella: "f6778f5b76d953e6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 80-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el uso malicioso, malintencionado o irresponsable de la Inform
 
 CONSIDERANDO: Que se entiende por Información Reservada la información pública clasificada como tal por la Ley de Transparencia y Acceso a la Información Pública, clasificada como de acceso restringido por otras leyes y por resoluciones particulares de las instituciones del Sector Público.
 
-CONSIDERANDO: Que la Comisión Interamericana de Derechos Humanos (CIDH) se ha pronunciado mediante el acápite “V literal “a” de la Resolución No.1-2021 respecto a la reserva de información en el sentido que: "Al invocar la existencia de una causal de reserva debe aplicarse la "prueba de daño" y con ella acreditar por escrito: i) Que la divulgación de la información puede generar un daño real, demostrable e identificable; ii) Que no hay un medio menos lesivo que la aplicación de la reserva; iii) Que el riesgo del perjuicio que supondría la divulgación de la información supera el interés público de que ésta se difunda; iv) Que la limitación se adecúa al principio de proporcionalidad y representa el medio menos restrictivo disponible para evitar el perjuicio; v) La concurrencia de los requisitos de temporalidad, legalidad y razonabilidad”.
+CONSIDERANDO: Que la Comisión Interamericana de Derechos Humanos (CIDH) se ha pronunciado mediante el acápite “V literal “a” de la Resolución No. 1-2021 respecto a la reserva de información en el sentido que: "Al invocar la existencia de una causal de reserva debe aplicarse la "prueba de daño" y con ella acreditar por escrito: i) Que la divulgación de la información puede generar un daño real, demostrable e identificable; ii) Que no hay un medio menos lesivo que la aplicación de la reserva; iii) Que el riesgo del perjuicio que supondría la divulgación de la información supera el interés público de que ésta se difunda; iv) Que la limitación se adecúa al principio de proporcionalidad y representa el medio menos restrictivo disponible para evitar el perjuicio; v) La concurrencia de los requisitos de temporalidad, legalidad y razonabilidad”.
 
 CONSIDERANDO: Que la Reserva de Información es una potestad del Estado de Honduras que debe realizarse de acuerdo al Ordenamiento Interno y tomando en cuenta los criterios y disposiciones con vigencia internacional emitidas por organismos internacionales como la Comisión Interamericana de Derechos Humanos (CIDH).
 

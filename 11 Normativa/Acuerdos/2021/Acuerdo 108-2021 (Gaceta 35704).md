@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Acuerdo No. 108-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210831-35704/download"
 extraido: "2026-11-14"
-huella: "906fd1343d01a159"
+huella: "9a766f2c8f02bd96"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 108-2021
@@ -33,15 +33,13 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: Que con elobjeto de agilizar la Aministración Pública los Secretarios de Estado podrán delegar en los funcionarios, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos mediante la firma de ciertos actos administrativos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-136-2019 de fecha veintiséis (26 de diciembre del año dos mil diecinueve (2019) se nombró a la ciudadana MARCELA LAITANO BARAHONA, en el cargo de Secretaria General de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 136-2019 de fecha veintiséis (26 de diciembre del año dos mil diecinueve (2019) se nombró a la ciudadana MARCELA LAITANO BARAHONA, en el cargo de Secretaria General de esta Secretaría de Estado.
 
 POR TANTO
 
 En uso de sus atribuciones y en aplicaciones de los
 
-Artículos 36, numeral 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM- 008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112-2020.
+Artículos 36, numeral 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112-2020.
 
 ACUERDA
 

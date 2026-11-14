@@ -8,10 +8,10 @@ gaceta_numero: 35212
 gaceta_fecha: "2020-03-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)|La Gaceta 35212]]"
 paginas: "A. 13 - 14"
-sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
+sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200327-35212/download"
 extraido: "2026-11-14"
-huella: "71758e8e1f905e2a"
+huella: "61cd580657b377b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 017-2020
@@ -23,7 +23,7 @@ huella: "71758e8e1f905e2a"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)\|La Gaceta 35212]] del 2020-03-27 |
 | Páginas | A. 13 - 14 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
 
 ## Texto
 
@@ -41,9 +41,9 @@ CONSIDERANDO: Que el Artículo 118 de la Ley General de la Administración Públ
 
 CONSIDERANDO: Que el Artículo 122 de la Ley General de la Administración Pública establece: Los Acuerdos, Resoluciones y Providencias serán firmadas por el titular del órgano que los emite y autorizados por el funcionario que indiquen las disposiciones legales.
 
-CONSIDERANDO: Que mediante Decreto Número 180- 87 publicado en La Gaceta el 10 de diciembre del año de 1987 se creó el CENTRO DE TRÁMITES DE LAS EXPORTACIONES (CENTREX) dependiente de la Secretaría de Desarrollo Económico-PROHONDURAS con la finalidad de centralizar la ejecución de todos los trámites relativos a la exportaciones que realizan cada una de las instituciones o dependencias del Estado a través de Delegaciones que fueron nombradas para tal efecto (Banco Central de Honduras (BCH), Dirección Ejecutiva de Ingresos (DEI), Secretaría de Agricultura y Ganadería (SAG) - Servicio Nacional de Sanidad Agropecuaria (SENASA), Organismo Regional de Sanidad Agropecuaria (OIRSA), Secretaría de Salud (SESAL), Instituto Hondureño de Geología y Minas (INHGEOMIN) y la Secretaría de Estado en el Despacho de Desarrollo Económico (SDE) – PROHONDURAS).
+CONSIDERANDO: Que mediante Decreto Número 180-87 publicado en La Gaceta el 10 de diciembre del año de 1987 se creó el CENTRO DE TRÁMITES DE LAS EXPORTACIONES (CENTREX) dependiente de la Secretaría de Desarrollo Económico-PROHONDURAS con la finalidad de centralizar la ejecución de todos los trámites relativos a la exportaciones que realizan cada una de las instituciones o dependencias del Estado a través de Delegaciones que fueron nombradas para tal efecto (Banco Central de Honduras (BCH), Dirección Ejecutiva de Ingresos (DEI), Secretaría de Agricultura y Ganadería (SAG) - Servicio Nacional de Sanidad Agropecuaria (SENASA), Organismo Regional de Sanidad Agropecuaria (OIRSA), Secretaría de Salud (SESAL), Instituto Hondureño de Geología y Minas (INHGEOMIN) y la Secretaría de Estado en el Despacho de Desarrollo Económico (SDE) – PROHONDURAS).
 
-CONSIDERANDO: Que mediante Memorando SIECEM012-2020 de fecha 3 de marzo del año 2020 emitido por el Subsecretario de Integración Económica y Comercio Exterior de esta Secretaría de Estado, dirigido a la Secretaria General de esta Secretaría de Estado solicitando: Acuerdo traslado de funciones a CENTREX; remitido a la Unidad de Servicios Legales de esta Secretaría de Estado la que emitió Dictamen Legal No.104-2020 de fecha 4 de marzo del año 2020, en el cual dictaminó que se dé Traslado de funciones al CENTRO DE TRÁMITES DE LAS EXPORTACIONES (CENTREX). En vista que el Decreto 180-87 le da la facultad de centralizar la ejecución de todos los trámites relativos a las exportaciones.
+CONSIDERANDO: Que mediante Memorando SIECEM012-2020 de fecha 3 de marzo del año 2020 emitido por el Subsecretario de Integración Económica y Comercio Exterior de esta Secretaría de Estado, dirigido a la Secretaria General de esta Secretaría de Estado solicitando: Acuerdo traslado de funciones a CENTREX; remitido a la Unidad de Servicios Legales de esta Secretaría de Estado la que emitió Dictamen Legal No. 104-2020 de fecha 4 de marzo del año 2020, en el cual dictaminó que se dé Traslado de funciones al CENTRO DE TRÁMITES DE LAS EXPORTACIONES (CENTREX). En vista que el Decreto 180-87 le da la facultad de centralizar la ejecución de todos los trámites relativos a las exportaciones.
 
 POR TANTO:
 

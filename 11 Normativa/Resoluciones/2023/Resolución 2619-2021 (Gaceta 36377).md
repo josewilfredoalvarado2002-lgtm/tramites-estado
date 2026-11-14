@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Certificación, Resolución No. 2619-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231107-36377/download"
 extraido: "2026-11-14"
-huella: "9b9a31ee6ddd0440"
+huella: "481cd62a6a0cbc47"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2619-2021
@@ -27,7 +27,7 @@ huella: "9b9a31ee6ddd0440"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No.2619-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
+El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 2619-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
 
 Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinte de diciembre del año dos mil veintiuno.
 
@@ -115,7 +115,7 @@ ARTÍCULO 8.- Son derechos de los miembros: a) ambas clases de miembros tienen d
 
 #### Artículo 9
 
-ARTÍCULO 9. Son obligaciones de los miembros (usuarios directivos): a.- Conectarse en el acueducto y al sistema de saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las reuniones d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de las partes del sistema. f.-Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.- Mantener limpio los solares , pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+ARTÍCULO 9. Son obligaciones de los miembros (usuarios directivos): a.- Conectarse en el acueducto y al sistema de saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las reuniones d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de las partes del sistema. f.-Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.- Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPÍTULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS, JUNTA DIRECTIVA, COMITÉ DE APOYO
 
@@ -133,7 +133,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua, Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a) ; 3.- Secretario(a) .- 4.- Un Tesorero(a).5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua, Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
 
 #### Artículo 13
 
@@ -279,7 +279,7 @@ Que conforme con la Constitución de la República de Honduras, los Tratados Int
 
 Que mediante la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social, el Estado de Honduras declaró en emergencia nacional el subsector eléctrico.
 
-Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE) el Estado supervisará la operación del subsector eléctrico a través de la Comisión Reguladora de Energía Eléctrica (CREE).
 

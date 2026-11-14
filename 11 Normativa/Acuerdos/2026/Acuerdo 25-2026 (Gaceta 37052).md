@@ -11,7 +11,7 @@ paginas: "A. 53 - 54"
 sumario: "Acuerdo No. 25-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "f4b2ca0fc1381109"
+huella: "94a3eea5e7f7d50b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 25-2026
@@ -45,9 +45,7 @@ POR TANTO;
 
 En uso de sus atribuciones y en aplicaciones de los Artículos:
 
-59 y 149 de la Constitución de la República; 29, 30, 33, 36 numerales 8, 116, 118, 122 y 123 de la Ley General de la Administración Pública; 4, 5, 27 y 30 de la Ley de Procedimiento Administrativo, Decreto Legislativo No. 87- 2021 de fecha 14 de enero del 2022; Decreto Legislativo No.
-
-24-2016 de fecha 18 de noviembre del 2016.
+59 y 149 de la Constitución de la República; 29, 30, 33, 36 numerales 8, 116, 118, 122 y 123 de la Ley General de la Administración Pública; 4, 5, 27 y 30 de la Ley de Procedimiento Administrativo, Decreto Legislativo No. 87-2021 de fecha 14 de enero del 2022; Decreto Legislativo No. 24-2016 de fecha 18 de noviembre del 2016.
 
 ACUERDA:
 

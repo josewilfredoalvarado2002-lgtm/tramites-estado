@@ -11,7 +11,7 @@ paginas: "A. 36 - 37"
 sumario: "Acuerdo No. 001-SG-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "d9e5d947a471ec6a"
+huella: "f4df35aca8b362db"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-SG-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que mediante Acuerdo N.003-SG-2023, de la Secretaría de Relacione
 
 CONSIDERANDO: Que en dicho Acuerdo se establece que los titulares de pasaportes ordinarios deberán presentar adicionalmente a su documento oficial de viaje, el Certificado de Antecedentes Penales, en la delegación migratoria por la cual realicen su ingreso a la República de Honduras, quedando exentos de este requisito los titulares de pasaportes diplomáticos, oficiales y de servicio, así como los que viajen en tránsito.
 
-CONSIDERANDO: Que mediante la Resolución DJUR-655- 11-2023-LSS-JM, de fecha 30 de noviembre del 2023, de la Dirección General de Migración y Extranjería, el Gobierno de la República de Costa Rica estableció que a los ciudadanos hondureños que cuentan con algunas excepciones, no les será exigido el Certificado de Antecedentes Policiales.
+CONSIDERANDO: Que mediante la Resolución DJUR-655-11-2023-LSS-JM, de fecha 30 de noviembre del 2023, de la Dirección General de Migración y Extranjería, el Gobierno de la República de Costa Rica estableció que a los ciudadanos hondureños que cuentan con algunas excepciones, no les será exigido el Certificado de Antecedentes Policiales.
 
 CONSIDERANDO: Que el turismo constituye un pilar del desarrollo económico y social de Honduras, promoviendo la generación de empleo, conforme al Plan de Gobierno vigente.
 

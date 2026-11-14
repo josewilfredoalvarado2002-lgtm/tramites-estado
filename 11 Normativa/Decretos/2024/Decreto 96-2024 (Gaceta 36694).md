@@ -11,7 +11,7 @@ paginas: "A. 1 - 80"
 sumario: "Decreto No. 96-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241120-36694/download"
 extraido: "2026-11-14"
-huella: "3abda6e4bcb8089c"
+huella: "b6d905ac3dce23cf"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 96-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 1 de la Constitución de la República establece 
 
 CONSIDERANDO: Que la zona del Valle de Sula fue la más impactada por las tormentas tropicales ETA e IOTA en 2020 y Julia en 2022. Las inundaciones asociadas a las tormentas afectan de forma indirecta siendo que se dan interrupciones de servicios básicos y perjuicios a las actividades económicas a toda la población de los municipios situados en el Valle de Sula y de forma directa a cincuenta y tres mil (53,000) viviendas, en las que residen unos ciento sesenta mil (160,000) habitantes, en el área inundable.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5875/ BL-HO, suscrito el 4 de Septiembre de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del “Programa para Incrementar la Resiliencia ante Inundaciones del Valle de Sula en Honduras”, tiene como objetivo incrementar la resiliencia ante inundaciones que afectan a familias vulnerables en el Valle de Sula en Honduras, hasta por un monto de Veinte Millones de Dólares de los Estados Unidos de América (US$20,000,000.00).
+CONSIDERANDO: Que el Contrato de Préstamo No. 5875/ BL-HO, suscrito el 4 de Septiembre de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del “Programa para Incrementar la Resiliencia ante Inundaciones del Valle de Sula en Honduras”, tiene como objetivo incrementar la resiliencia ante inundaciones que afectan a familias vulnerables en el Valle de Sula en Honduras, hasta por un monto de Veinte Millones de Dólares de los Estados Unidos de América (US$20,000,000.00).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 19) de la Constitución de la República, corresponde al Congreso Nacional aprobar o improbar los contratos que lleven involucrados exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos el siguiente período de Gobierno de la República.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -49,7 +49,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO
 
 ¨SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
-CONTRATO DE PRÉSTAMO No.5875/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Programa para Incrementar la Resiliencia ante Inundaciones del Valle de Sula en Honduras 4 de Septiembre de 2024 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 4 de septiembre de 2024.
+CONTRATO DE PRÉSTAMO No. 5875/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Programa para Incrementar la Resiliencia ante Inundaciones del Valle de Sula en Honduras 4 de Septiembre de 2024 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 4 de septiembre de 2024.
 
 CAPÍTULO I
 
@@ -665,7 +665,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -675,7 +675,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 113. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 
@@ -1417,7 +1417,7 @@ ARTÍCULO 8.01. Suspensión de desembolsos. El Banco, mediante notificación al 
 
 #### Artículo 8
 
-ARTÍCULO 8.02. V e n c i m i e n t o a n t i c i p a d o o cancelaciones de montos no desembolsados. (a) El Banco, mediante notificación al Prestatario, podrá declarar vencida y pagadera de inmediato una parte o la totalidad del Préstamo, con los intereses, comisiones y cualesquiera otros cargos devengados hasta la fecha del pago y podrá cancelar la parte no desembolsada del Préstamo, si:
+ARTÍCULO 8.02. Vencimiento anticipado o cancelaciones de montos no desembolsados. (a) El Banco, mediante notificación al Prestatario, podrá declarar vencida y pagadera de inmediato una parte o la totalidad del Préstamo, con los intereses, comisiones y cualesquiera otros cargos devengados hasta la fecha del pago y podrá cancelar la parte no desembolsada del Préstamo, si:
 
 (i) alguna de las circunstancias previstas en los incisos (a), (b), (c) y (d) del
 

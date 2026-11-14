@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 672-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231028-36369/download"
 extraido: "2026-11-14"
-huella: "9d8f10259b867489"
+huella: "54de659e62b00852"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 672-2023
@@ -53,9 +53,7 @@ CAPÍTULO I CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se constituye la organización cuya denominación será “Junta Administradora de Agua Potable y Saneamiento de la Comunidad de Crucitas No.
-
-2, Municipio de El Negrito, Departamento de Yoro”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la Comunidad de Crucitas No. 2, municipio de El Negrito, departamento de Yoro.
+ARTÍCULO 1.- Se constituye la organización cuya denominación será “Junta Administradora de Agua Potable y Saneamiento de la Comunidad de Crucitas No. 2, Municipio de El Negrito, Departamento de Yoro”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la Comunidad de Crucitas No. 2, municipio de El Negrito, departamento de Yoro.
 
 #### Artículo 2
 

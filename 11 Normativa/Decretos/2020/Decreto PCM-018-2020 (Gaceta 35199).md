@@ -8,10 +8,10 @@ gaceta_numero: 35199
 gaceta_fecha: "2020-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)|La Gaceta 35199]]"
 paginas: "A. 6 - 9"
-sumario: "Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020"
+sumario: "Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200313-35199/download"
 extraido: "2026-11-14"
-huella: "e74eda6dff4765bb"
+huella: "640886116cfce14b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-018-2020
@@ -23,7 +23,7 @@ huella: "e74eda6dff4765bb"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)\|La Gaceta 35199]] del 2020-03-13 |
 | Páginas | A. 6 - 9 |
-| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020 |
+| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad al Artículo 245 numerales 2 y 11 de la Constit
 
 CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado, consecuentemente, todos tenemos la obligación de respetarla y protegerla de tal manera que la Constitución de la República consagra el derecho a la protección de la salud de la población hondureña, la cual es una condicionante del derecho a la vida, igualmente garantiza el derecho a la protección y promoción de la salud, como un derecho social para adoptar las medidas necesarias, para proteger y promover la salud de los habitantes en general.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 005-2020 de fecha 10 de febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
 
 CONSIDERANDO: Que en aplicación a lo establecido en el Reglamento Sanitario Internacional, emitido por la Organización Mundial de la Salud (OMS), la Secretaría de Estado en el Despacho de Salud, a través del laboratorio Nacional de Virología, empleó los protocolos correspondientes y confirmó, mediante examen de laboratorio, los dos primeros casos de COVID-19 en el territorio hondureño.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que ante la inminente propagación del coronavirus (COVID-19), en 
 
 POR TANTO;
 
-En aplicación de las disposiciones establecidas en los Artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29, 45, artículos 248, y 321 de la Constitución de la República; Artículos 11, 17, 18, 22 incisos, 9), 29 numeral 5), 116, 117, 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; y, Artículo 67 numeral 1 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Ejecutivo PCM- 005-2020.
+En aplicación de las disposiciones establecidas en los Artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29, 45, artículos 248, y 321 de la Constitución de la República; Artículos 11, 17, 18, 22 incisos, 9), 29 numeral 5), 116, 117, 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; y, Artículo 67 numeral 1 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Ejecutivo PCM-005-2020.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 101-2017"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210901-35705/download"
 extraido: "2026-11-14"
-huella: "859d9d6dd508f20e"
+huella: "a6a9f604327ed033"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 101-2017
@@ -39,7 +39,7 @@ AVANCE
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

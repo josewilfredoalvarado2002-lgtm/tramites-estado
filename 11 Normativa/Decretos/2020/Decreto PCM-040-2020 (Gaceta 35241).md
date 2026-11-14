@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-040-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200503-35241-2/download"
 extraido: "2026-11-14"
-huella: "a01859f1243c7665"
+huella: "a4463bd415ede208"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-040-2020
@@ -31,7 +31,7 @@ EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTAD
 
 CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-036-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo 26 de abril del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020 y el último precitado.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-036-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo 26 de abril del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020 y el último precitado.
 
 CONSIDERANDO: Que la información epidemiológica servirá para actualizar el diagnóstico y divulgar el conocimiento de la situación de salud de la comunidad, con el fin de promover la reducción y la prevención de las enfermedades. En Honduras el total de casos confirmados a la fecha por la Pandemia de Covid-19, asciende a 1,010 casos y 76 fallecidos a nivel nacional, por lo cual es necesario continuar tomando las medidas pertinentes, a fin de contener la propagación de este virus en el resto de la población hondureña.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que mediante el incremento de las pruebas (PCR-RT) que se realizan
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM- 033-2020 y PCM-036-2020.
+En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020 y PCM-036-2020.
 
 DECRETA:
 
@@ -47,7 +47,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del domingo 03 de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023- 2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020 y PCM-036-2020.
+Prorrogar por siete (7) días, efectivo a partir del domingo 03 de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020 y PCM-036-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
@@ -103,7 +103,7 @@ ARTÍCULO 3.- Ratificar la exclusión de la restricción establecida en el Artic
 
 \6) Dirección Nacional de Niñez, Adolescencia y Familia (DINAF), personal autorizado por la Directora de la Institución.
 
-Reiterando que se habilitan asimismo, días y horas hábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo No.33-2020, Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su
+Reiterando que se habilitan asimismo, días y horas hábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo No. 33-2020, Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su
 
 #### Artículo 27
 

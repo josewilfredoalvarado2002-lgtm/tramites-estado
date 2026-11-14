@@ -11,7 +11,7 @@ paginas: "A. 113 - 200"
 sumario: "Decretos Nos. 119-2026, 123-2026, 124-2026, 125-2026, 140-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "425a721a0773c4f5"
+huella: "2f342921c4c78204"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 140-2026
@@ -47,9 +47,9 @@ CONSIDERANDO: Que en fecha 9 de Enero del 2023 mediante Comunicación DGCP-FE-24
 
 (BID) el cambio de Organismo Ejecutor del Proyecto de Transformación Digital para una mayor Competitividad de forma que sea la Dirección de Gestión por Resultados (DIGER) quien ejecute dicho Proyecto.
 
-CONSIDERANDO: Que en fecha 14 de Febrero de 2023 se firmó el Contrato Modificatorio No. 1 al Contrato de Préstamo No.4942/BL-HO, entre la República de Honduras y el Banco Interamericano de Desarrollo (BID), mediante el cual en su Artículo primero estipula que se modifica la Cláusula 4.02 de las Estipulaciones Especiales del Contrato de Préstamo No.4942/BL-HO por lo que el organismo ejecutor del Proyecto de Transformación Digital para una mayor competitividad será la Dirección de Gestión por Resultados (DIGER) y en el Artículo noveno estipula que la vigencia del contrato modificatorio entra en vigor a partir de la fecha de su suscripción siendo el día 14 de Febrero 2023.
+CONSIDERANDO: Que en fecha 14 de Febrero de 2023 se firmó el Contrato Modificatorio No. 1 al Contrato de Préstamo No. 4942/BL-HO, entre la República de Honduras y el Banco Interamericano de Desarrollo (BID), mediante el cual en su Artículo primero estipula que se modifica la Cláusula 4.02 de las Estipulaciones Especiales del Contrato de Préstamo No. 4942/BL-HO por lo que el organismo ejecutor del Proyecto de Transformación Digital para una mayor competitividad será la Dirección de Gestión por Resultados (DIGER) y en el Artículo noveno estipula que la vigencia del contrato modificatorio entra en vigor a partir de la fecha de su suscripción siendo el día 14 de Febrero 2023.
 
-CONSIDERANDO: Que en fecha 16 de Mayo del 2025, mediante Oficio DGCP-FEMS-321/2025, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), solicita en nombre y representación de la República de Honduras, la No Objeción a la ampliación de plazo de ejecución del Contrato de Préstamo No.4942/BL-HO; hasta el 30 de Julio 2028.-Así mismo el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista, remitió Oficio OCID/CHO- 700/2025 de fecha 21 de Mayo del 2025, a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), respuesta al Oficio DGCP-FEMS-321/2025, manifestando su No Objeción a la ampliación del plazo hasta el 30 de Julio 2028 del Contrato de Préstamo No.4942/BL-HO (operación HO-L 1202) tal como fue solicitada.
+CONSIDERANDO: Que en fecha 16 de Mayo del 2025, mediante Oficio DGCP-FEMS-321/2025, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), solicita en nombre y representación de la República de Honduras, la No Objeción a la ampliación de plazo de ejecución del Contrato de Préstamo No. 4942/BL-HO; hasta el 30 de Julio 2028.-Así mismo el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista, remitió Oficio OCID/CHO-700/2025 de fecha 21 de Mayo del 2025, a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), respuesta al Oficio DGCP-FEMS-321/2025, manifestando su No Objeción a la ampliación del plazo hasta el 30 de Julio 2028 del Contrato de Préstamo No. 4942/BL-HO (operación HO-L 1202) tal como fue solicitada.
 
 CONSIDERANDO: Que en atención a que el Proyecto es financiado con fondos del Banco Interamericano de Desarrollo (BID), el proceso de contratación respectivo se rigió por las Políticas para la Adquisición de Bienes y Obras Financiadas por dicho organismo (GN-2349-15), conforme a lo establecido en la Ley de Contratación del Estado, que otorga prevalencia a las disposiciones de los convenios con organismos de financiamiento externo.
 
@@ -69,7 +69,7 @@ CONSIDERANDO: Que de conformidad a lo establecido a el Artículo 205 Atribución
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 34 - 40"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220430-35911/download"
 extraido: "2026-11-14"
-huella: "a952d2b083e0e9c3"
+huella: "9e65e94022373bc0"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -53,13 +53,11 @@ SEXTO: Que la Asociación de servicio comunal, denominada JUNTA ADMINISTRADORA D
 
 SÉPTIMO: Que de acuerdo a lo establecido en su artículo 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL EDEN, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL EDEN, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tatar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002- 2002 fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación a los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación a los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 

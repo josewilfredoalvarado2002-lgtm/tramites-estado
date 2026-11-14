@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdos Nos. 128-2020, 129-2020, 130-2020, 131-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201126-35441/download"
 extraido: "2026-11-14"
-huella: "970451a051fcb82c"
+huella: "e332cff09c3752b6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 131-2020
@@ -51,11 +51,11 @@ RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL
 
 CONSIDERANDO (1): Que mediante Decreto Ejecutivo 005-2020, de fecha 10 de febrero de 2020, se declaró estado de emergencia sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por Coronavirus (COVID-19).
 
-CONSIDERANDO (2): Que mediante Decreto PCM-021- 2020 de fecha quince de marzo de dos mil veinte se restringen por un plazo de siete días a partir de la publicación del Decreto, a nivel nacional las garantías constitucionales establecidas en los artículos 69, 71, 72, 78, 81, 84, 93, 99 y 103 de la Constitución de la República.
+CONSIDERANDO (2): Que mediante Decreto PCM-021-2020 de fecha quince de marzo de dos mil veinte se restringen por un plazo de siete días a partir de la publicación del Decreto, a nivel nacional las garantías constitucionales establecidas en los artículos 69, 71, 72, 78, 81, 84, 93, 99 y 103 de la Constitución de la República.
 
 CONSIDERANDO (3): Que el precitado Decreto en su artículo 2, se ordena el cierre de todas las fronteras aéreas, terrestres y marítimas en el territorio nacional, con las excepciones del caso.
 
-CONSIDERANDO (4): Que mediante Decreto PCM- 030- 2020 de fecha 09 de abril del 2020 se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
+CONSIDERANDO (4): Que mediante Decreto PCM-030-2020 de fecha 09 de abril del 2020 se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
 
 CONSIDERANDO (5): Que mediante comunicado de fecha 16 de marzo del 2020 la Secretaría de Gobernación, Justicia y Descentralización “COMUNICA: a todas las Dependencias del Gobierno Central y Descentralizadas y la Población en general lo siguiente: Ante la emergencia nacional como prevención ante el COVID-19, se realizó la suspensión de labores en dichas Dependencias a partir del lunes dieciséis
 

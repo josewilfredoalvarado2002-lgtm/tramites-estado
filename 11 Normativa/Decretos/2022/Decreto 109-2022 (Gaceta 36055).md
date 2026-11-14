@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 109-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221019-36055/download"
 extraido: "2026-11-14"
-huella: "d40ec3fae4758369"
+huella: "0c75e1c25c5cadfa"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 109-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República, en su Artículo 189, establece que “el Poder Legislativo se reunirá en Sesiones Ordinarias, en la Capital de la República el veinticinco de enero de cada año, sin necesidad de convocatoria y clausurará sus sesiones el treinta y uno de octubre del mismo año”, estando comprendido legalmente tal período de tiempo para el desarrollo de la actividad legislativa.
 
-CONSIDERANDO: Que el Artículo 55 de la Ley Orgánica del Poder Legislativo, contenida en el Decreto No.363-2013, del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, el 22 de enero de 2014, Edición No.33,335, establece que “El período de sesiones del Congreso Nacional inicia el veinticinco de enero de cada año y concluye el treinta y uno de octubre del mismo año”.
+CONSIDERANDO: Que el Artículo 55 de la Ley Orgánica del Poder Legislativo, contenida en el Decreto No. 363-2013, del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, el 22 de enero de 2014, Edición No. 33,335, establece que “El período de sesiones del Congreso Nacional inicia el veinticinco de enero de cada año y concluye el treinta y uno de octubre del mismo año”.
 
 CONSIDERANDO: Que, tanto en el segundo párrafo del
 

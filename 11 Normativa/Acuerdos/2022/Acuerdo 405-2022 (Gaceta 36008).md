@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo número 405-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220822-36008/download"
 extraido: "2026-11-14"
-huella: "2958754012dc7f20"
+huella: "845b54045edc2135"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 405-2022
@@ -41,7 +41,7 @@ CONSIDERANDO (5): Que la delegación de funciones se, entiende posible siempre y
 
 CONSIDERANDO (6): Que mediante Decreto Ejecutivo PCM-017-2011, del veintidós (22) de marzo del año dos mil once (2011), se creó la Dirección General de Control de Franquicias Aduaneras, responsable de conocer y registrar los asuntos relacionados con todas las exenciones y exoneraciones fiscales que se deban otorgar conforme a los convenios, tratados internacionales y las leyes vigentes, sin perjuicio de las atribuciones que por ley corresponde a cada Secretaría de Estado; y estará adscrita a la Subsecretaría de Finanzas y Presupuesto.
 
-CONSIDERANDO (7): Que mediante Acuerdo Ejecutivo No.388-2022, de fecha doce (12) de julio del año dos mil veintidós (2022), se nombró a la ciudadana SUAM CELESTE LOPEZ LI, en el cargo de Asesor Legal de la Dirección General de Control de Franquicias Aduaneras de la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO (7): Que mediante Acuerdo Ejecutivo No. 388-2022, de fecha doce (12) de julio del año dos mil veintidós (2022), se nombró a la ciudadana SUAM CELESTE LOPEZ LI, en el cargo de Asesor Legal de la Dirección General de Control de Franquicias Aduaneras de la Secretaría de Estado en el Despacho de Finanzas.
 
 POR TANTO:
 

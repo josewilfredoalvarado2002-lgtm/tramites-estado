@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200724-35323-2/download"
 extraido: "2026-11-14"
-huella: "f7548c4316e40013"
+huella: "e7a2298cfadae7c0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-071-2020
@@ -39,13 +39,11 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo 101 y 102, reformados por el Decreto Legislativo No. 266-2013, también indican que: Dentro del plazo que señala el Poder Ejecutivo, la Comisión Interventora rendirá su informe de evaluación en el que se recomendarán las medidas que se estimen adecuadas para mejorar la situación administrativa y financiera de la entidad intervenida. El Poder Ejecutivo a la vista del informe de la Comisión Interventora, dictará las decisiones que sean necesarias, deduciendo la responsabilidad a que haya lugar…
 
-CONSIDERANDO: Que mediante Acuerdo No. 031- 2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230-2005; consecuentemente mediante Decreto Legislativo No. 233-2005 publicado en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio. Posteriormente y mediante Decreto Ejecutivo Número PCM-006-2014 de fecha 06 de marzo del 2014, publicado el 10 de abril del 2014 y de conformidad al
+CONSIDERANDO: Que mediante Acuerdo No. 031-2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230-2005; consecuentemente mediante Decreto Legislativo No. 233-2005 publicado en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio. Posteriormente y mediante Decreto Ejecutivo Número PCM-006-2014 de fecha 06 de marzo del 2014, publicado el 10 de abril del 2014 y de conformidad al
 
 Artículo 3, la Cuenta del Desafío del Milenio Honduras (por sus siglas en inglés, MCA-Honduras), adquiere el nombre de Inversión Estratégica de Honduras (INVEST-H).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No. 16-2017, publicado en el Diario Oficial “La Gaceta” en fecha 30 de junio de 2017, en el Artículo 1 se amplía de forma indefinida la Ley Del Desafío De La Cuenta Del Milenio (MCA-Honduras) y en el párrafo segundo adscribe a Inversión Estratégica de Honduras (INVEST-H) a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno. Consecuentemente mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” el 23 de marzo del 2018 Edición No.
-
-34,600 en su Artículo 1, párrafo segundo, se indica que MCA-Honduras/INVEST-H (Programa Cuenta del Milenio) pasa a ser coordinada y no adscrita a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno teniendo independencia funcional y administrativa de conformidad a sus Leyes respectivas.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 16-2017, publicado en el Diario Oficial “La Gaceta” en fecha 30 de junio de 2017, en el Artículo 1 se amplía de forma indefinida la Ley Del Desafío De La Cuenta Del Milenio (MCA-Honduras) y en el párrafo segundo adscribe a Inversión Estratégica de Honduras (INVEST-H) a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno. Consecuentemente mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” el 23 de marzo del 2018 Edición No. 34,600 en su Artículo 1, párrafo segundo, se indica que MCA-Honduras/INVEST-H (Programa Cuenta del Milenio) pasa a ser coordinada y no adscrita a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno teniendo independencia funcional y administrativa de conformidad a sus Leyes respectivas.
 
 CONSIDERANDO: Que la Sociedad Civil, ha venido acompañando la gestión acertada que durante estos años realizó Inversión Estratégica de Honduras (INVEST-H), desempeñado con mucho empeño y dedicación su papel de veedora en las diferentes acciones requeridas producto de la Pandemia del COVID-19.
 

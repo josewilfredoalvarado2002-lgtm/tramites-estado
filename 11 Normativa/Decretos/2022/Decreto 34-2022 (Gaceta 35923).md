@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto No. 34-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220514-35923/download"
 extraido: "2026-11-14"
-huella: "ddc24d45da518dbc"
+huella: "e710593a78a4567e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 34-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad al Artículo 43-B de la Constitución de la Rep
 
 CONSIDERANDO: Que el Registro Nacional de las Personas (RNP) llevó a cabo la implementación y ejecución del PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE), el cual tiene por objeto contribuir a la modernización de la identificación ciudadana, mediante la emisión del nuevo Documento Nacional de Identificación (DNI), a través de la creación de un nuevo registro digital biométrico de personas y de la producción de nuevos documentos nacionales de identificación, contribuyendo a que se genere confianza por parte de la sociedad hondureña y eficiencia en la función registral.
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.101-2021, del 18 de noviembre del 2021 y publicado en fecha 19 de noviembre del mismo año en el Diario Oficial “La Gaceta” en la edición No. 35,776, se aprobó ampliar la vigencia de la actual Tarjeta de Identidad hasta el 31 de diciembre del 2021, por lo tanto a partir de la fecha el único documente válido y legal de Identificación será el Documento Nacional de Identificación (DNI).
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 101-2021, del 18 de noviembre del 2021 y publicado en fecha 19 de noviembre del mismo año en el Diario Oficial “La Gaceta” en la edición No. 35,776, se aprobó ampliar la vigencia de la actual Tarjeta de Identidad hasta el 31 de diciembre del 2021, por lo tanto a partir de la fecha el único documente válido y legal de Identificación será el Documento Nacional de Identificación (DNI).
 
 CONSIDERANDO: Que el proceso de enrolamiento para la emisión del nuevo Documento Nacicional de Identificación
 
@@ -59,7 +59,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, en el Salón d
 
 LUIS ROLANDO REDONDO GUIFARRO PRESIDENTE CARLOS ARMANDO ZELAYA ROSALES SECRETARIO LUZ ANGELICA SMITH MEJÍA SECRETARIA Al Poder Ejecutivo
 
-Por Tanto: Ejecútese Tegucigalpa, M.D.C., 10 de mayo de 2022 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN TOMÁS EDUARDO VAQUERO MORRIS Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM- 13-2022 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+Por Tanto: Ejecútese Tegucigalpa, M.D.C., 10 de mayo de 2022 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN TOMÁS EDUARDO VAQUERO MORRIS Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM-13-2022 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que la Constitución de la República establece que la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del pueblo la Presidenta de la República, correspondiéndole dirigir la Política General del Estado y representarlo, así como emitir acuerdos y decretos conforme a ley, adoptar las medidas de promoción, prevención, recuperación y rehabilitación de la salud de los habitantes (artículos 235 y 245 numerales 2, 11 y 29).
 
@@ -85,11 +85,11 @@ POR TANTO, En aplicación de los Artículos 59, 65, 145, 235, 245 numerales 2, 1
 
 Artículos 11, 22 numerales 5, 10 y 13; 116, 117 y 119 de la Ley General de la Administración Pública; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. En virtud de la Declaración del ESTADO DE EMERGENCIA SANITARIA en todo el territorio nacional por el año 2022 , aprobada mediante Decreto Ejecutivo PCM 07-2022, se instruye y se faculta al Instituto Hondureño de Seguridad Social (IHSS) a realizar la contratación directa de los medicamentos y materiales médicos quirúrgicos que requiera para poder hacerle frente al ESTADO DE EMERGENCIA SANITARIA, garantizando su manejo de manera transparente y con veeduría social.
+ARTÍCULO 1. En virtud de la Declaración del ESTADO DE EMERGENCIA SANITARIA en todo el territorio nacional por el año 2022, aprobada mediante Decreto Ejecutivo PCM 07-2022, se instruye y se faculta al Instituto Hondureño de Seguridad Social (IHSS) a realizar la contratación directa de los medicamentos y materiales médicos quirúrgicos que requiera para poder hacerle frente al ESTADO DE EMERGENCIA SANITARIA, garantizando su manejo de manera transparente y con veeduría social.
 
 Dichas contrataciones directas deberán realizarse de acuerdo a la disponibilidad presupuestaria que maneja dicha Institución y de acuerdo a las Disposiciones Generales del Presupuesto de Ingresos y Egresos de la República para el Ejercicio Fiscal 2022. El manejo y ejecución de estos fondos estará a cargo de la Dirección Ejecutiva del IHSS, quien deberá informar de la misma a la Junta Directiva, pudiendo realizar las operaciones presupuestarias necesarias derivadas de la aplicación del presente Decreto.
 

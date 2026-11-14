@@ -11,7 +11,7 @@ paginas: "A. 85 - 88"
 sumario: "Acuerdo Ministerial No. 770-2021 Acuerdo No. 780-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210708-35650/download"
 extraido: "2026-11-14"
-huella: "fe452ece968b1b7e"
+huella: "7bad39b3a3984ba8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 780-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 4 del Reglamento de Organizaci
 
 CONSIDERANDO: Que para cumplir con los objetivos de dicha eficacia, agilidad y simplificación, es necesario delegar las funciones de la Subgerencia de Presupuesto en un funcionario con perfil para ello.
 
-CONSIDERANDO: Que mediante Memorando SGRH- 0555-2021 de fecha 01 de julio del 2021, se solicitó a Secretaría General Acuerdo de Delegación a favor de la Licenciada LETICIA NOHEMY ACEITUNO RIVERA, quien estará a cargo de la Subgerencia de Presupuesto, a partir del 01 de Julio del 2021.
+CONSIDERANDO: Que mediante Memorando SGRH-0555-2021 de fecha 01 de julio del 2021, se solicitó a Secretaría General Acuerdo de Delegación a favor de la Licenciada LETICIA NOHEMY ACEITUNO RIVERA, quien estará a cargo de la Subgerencia de Presupuesto, a partir del 01 de Julio del 2021.
 
 POR TANTO:
 

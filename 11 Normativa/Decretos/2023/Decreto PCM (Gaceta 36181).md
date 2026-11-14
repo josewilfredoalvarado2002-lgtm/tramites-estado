@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 12-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230316-36181/download"
 extraido: "2026-11-14"
-huella: "ad5977a58b0f9ecf"
+huella: "c133a5e1c0a15330"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 12-2023
@@ -43,9 +43,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece que el
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que los órganos o entidades desconcentradas se crearán, modificarán, fusionarán o suprimirán mediante Decreto de la Presidenta de la República en Consejo de Secretarios de Estado (artículo 45).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-155-2015 publicado en el Diario Oficial “La Gaceta” en fecha 30 de marzo de 2016, edición número 33,995, se aprobó la “Ley de Transporte Terrestre de Honduras”, mediante la cual se creó el INSTITUTO HONDUREÑO DE TRANSPORTE TERRESTRE (IHTT), como una entidad desconcentrada de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (artículo 4).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 155-2015 publicado en el Diario Oficial “La Gaceta” en fecha 30 de marzo de 2016, edición número 33,995, se aprobó la “Ley de Transporte Terrestre de Honduras”, mediante la cual se creó el INSTITUTO HONDUREÑO DE TRANSPORTE TERRESTRE (IHTT), como una entidad desconcentrada de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (artículo 4).
 
 CONSIDERANDO: Que la “Ley de Transporte Terrestre de Honduras” establece que el IHTT será dirigido por una Comisión Directiva que estará integrada por tres (3) comisionados. Asimismo, dispone que los comisionados duran en su cargo tres (3) años, nombrados y removidos con causa justificada por la Presidencia de la República. Los relacionados tres (3) comisionados deben tener conocimiento especializado o experiencia, en cualquiera de los campos siguientes: 1) Comisionado especialista en el rubro; 2) Comisionado especialista en administración; y, 3) Comisionado especialista en finanzas. La presidencia debe ser rotativa cada año por decisión de la Presidenta de la República (artículo 8).
 
@@ -53,7 +51,7 @@ CONSIDERANDO: Que la “Ley de Transporte Terrestre de Honduras” dispone que l
 
 CONSIDERANDO: Que para garantizar la eficacia, eficiencia y estabilidad del Sistema de Transporte Terrestre, resulta necesario y procedente que la Presidencia de la Comisión Directiva del Instituto Hondureño de Transporte Terrestre (IHTT), sea ejercida por el Comisionado que sea electo en el seno de la misma y que el mismo ejerza dicho cargo por el mismo periodo de su nombramiento como Comisionado.
 
-POR TANTO, En uso de las facultades contenidas en los artículos 1, 235, 245 numerales 2) y 11) de la Constitución de la República; artículos 4, 11, 14 numeral 4), 22 numeral 3) de la Ley General de la Administración Pública; Decreto Legislativo No. 155- 2015; artículos 4, 8 y 10 de la Ley de Transporte Terrestre de Honduras; y demás aplicables.
+POR TANTO, En uso de las facultades contenidas en los artículos 1, 235, 245 numerales 2) y 11) de la Constitución de la República; artículos 4, 11, 14 numeral 4), 22 numeral 3) de la Ley General de la Administración Pública; Decreto Legislativo No. 155-2015; artículos 4, 8 y 10 de la Ley de Transporte Terrestre de Honduras; y demás aplicables.
 
 DECRETA:
 

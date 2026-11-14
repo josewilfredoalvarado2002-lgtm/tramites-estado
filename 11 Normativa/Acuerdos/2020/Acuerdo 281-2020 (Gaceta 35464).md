@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. 273-2020, 276-2020, 278-2020, 280-2020, 281-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201219-35464/download"
 extraido: "2026-11-14"
-huella: "b4ad2f47fff814e0"
+huella: "18e8ccc612490e0d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 281-2020
@@ -53,7 +53,7 @@ Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 
-PRIMERO: Delegar en el Abogado YERAL JAVIER ROQUE NÚÑEZ, con Identidad No. 0801- 1993-01018, Oficial Jurídico I del Programa de Consolidación Familiar, las funciones temporales siguientes: 1) Apoyar a la Jefatura del Programa de Consolidación Familiar; 2) Tomar las audiencias de Manifestación de Consentimiento de Adopciones y Sustanciación; 3) Firma de Providencias en ausencias del o la Titular del Programa de Consolidación Familiar; 4) Revisión de Informes Confidenciales solicitados por los Juzgados de Familia; 5) Dar impulso a los procesos legales que realiza el Programa de Consolidación Familiar; 6) Redacción del Acta de Comité de Asignaciones, a partir del 25 de noviembre de 2020.
+PRIMERO: Delegar en el Abogado YERAL JAVIER ROQUE NÚÑEZ, con Identidad No. 0801-1993-01018, Oficial Jurídico I del Programa de Consolidación Familiar, las funciones temporales siguientes: 1) Apoyar a la Jefatura del Programa de Consolidación Familiar; 2) Tomar las audiencias de Manifestación de Consentimiento de Adopciones y Sustanciación; 3) Firma de Providencias en ausencias del o la Titular del Programa de Consolidación Familiar; 4) Revisión de Informes Confidenciales solicitados por los Juzgados de Familia; 5) Dar impulso a los procesos legales que realiza el Programa de Consolidación Familiar; 6) Redacción del Acta de Comité de Asignaciones, a partir del 25 de noviembre de 2020.
 
 SEGUNDO: El Abogado YERAL JAVIER ROQUE NÚÑEZ, será responsable por el ejercicio de la facultad de firma que le ha sido delegada.
 

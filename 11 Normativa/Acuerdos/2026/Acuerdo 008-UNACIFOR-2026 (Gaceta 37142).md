@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Certificación, Acuerdo Nº 008-UNACIFOR-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260515-37142/download"
 extraido: "2026-11-09"
-huella: "9904a07b109edd4c"
+huella: "1bd4691822ac0173"
 ---
 <!-- portal:inicio -->
 # ACUERDO N° 008-UNACIFOR-2026
@@ -39,9 +39,7 @@ CONSIDERANDO: Que, el artículo 5 de la Ley de Educación Superior establece tex
 
 CONSIDERANDO: Que la Universidad Nacional de Ciencias Forestales (UNACIFOR), conforme a sus fines institucionales establecidos en el Artículo 9 de la Norma Académica, reconoce su responsabilidad de contribuir a la solución de los problemas del país mediante la investigación, la vinculación con la sociedad y la gestión del conocimiento; que estos procesos constituyen pilares esenciales para el desarrollo científico, tecnológico y ambiental del sector forestal y de áreas afines; y que, en cumplimiento de su misión, la UNACIFOR debe garantizar mecanismos, lineamientos y estructuras normativas que promuevan investigaciones de calidad orientadas al bienestar social y al desarrollo sostenible de la nación.
 
-CONSIDERANDO: Que el Consejo Directivo Universitario (CDU), de conformidad con lo establecido en el Artículo 16, literal o) del Estatuto de la Universidad Nacional de Ciencias Forestales (UNACIFOR), publicado en La Gaceta No.
-
-34,017 del 26 de abril de 2016, es el órgano competente para aprobar el Reglamento General del Estatuto, el Reglamento Interno de Trabajo y los demás instrumentos jurídicos que rigen la vida institucional; y que, en virtud de dicha atribución normativa, corresponde al CDU emitir, aprobar y actualizar los reglamentos y políticas que orientan la investigación científica universitaria, asegurando su armonía con la legislación de educación superior vigente y con los objetivos estratégicos institucionales.
+CONSIDERANDO: Que el Consejo Directivo Universitario (CDU), de conformidad con lo establecido en el Artículo 16, literal o) del Estatuto de la Universidad Nacional de Ciencias Forestales (UNACIFOR), publicado en La Gaceta No. 34,017 del 26 de abril de 2016, es el órgano competente para aprobar el Reglamento General del Estatuto, el Reglamento Interno de Trabajo y los demás instrumentos jurídicos que rigen la vida institucional; y que, en virtud de dicha atribución normativa, corresponde al CDU emitir, aprobar y actualizar los reglamentos y políticas que orientan la investigación científica universitaria, asegurando su armonía con la legislación de educación superior vigente y con los objetivos estratégicos institucionales.
 
 CONSIDERANDO: Que la Universidad Nacional de Ciencias Forestales (UNACIFOR), conforme a lo establecido en el Artículo 21 de la Norma Académica, reconoce a la investigación como una función esencial para la creación de nuevos conocimientos científicos, el desarrollo y la adopción de tecnologías con altos estándares de calidad; que dicha función fortalece la articulación entre la docencia y la vinculación universidad-sociedad en todos los niveles de formación; y que, para garantizar la pertinencia, coordinación y eficiencia de los procesos de investigación institucional, se requiere contar con lineamientos normativos que orienten su adecuada organización, promoción y ejecución en beneficio del avance académico, científico y tecnológico del país.
 
@@ -69,7 +67,7 @@ PRIMERO: Emitir y aprobar el Reglamento siguiente:
 
 CAPÍTULO I........................................................................7 PROPÓSITOS, DEFINICIONES Y DISPOSICIONES GENERALES........................................................................7
 
-SECCIÓN II. DEFINICIONES.......................................8 S E C C I Ó N I I I . D E S U S D I S P O S I C I O N E S GENERALES..................................................................10
+SECCIÓN II. DEFINICIONES.......................................8 SECCIÓN III . DE SUS DISPOSICIONES GENERALES..................................................................10
 
 CAPÍTULO II......................................................................12 CONVOCATORIAS DE INVESTIGACIÓN DE UNACIFOR........................................................................12
 
@@ -207,7 +205,7 @@ Es un mecanismo jurídico financiero donde la UNACIFOR asigna recursos económic
 
 23. Recursos para la Investigación: Asignación económica otorgada a un investigador, grupo de investigación, docente con el propósito de ejecutar un proyecto de investigación aprobado bajo las bases de la convocatoria.
 
-24. Investigación Conjunta: Se entenderá por investigaciones conjuntas entre miembros del Sistema Nacional de Investigación Forestal, Áreas Protegidas y Vida Silvestre (SINFOR), aquellas iniciativas científicas, tecnológicas o de innovación desarrolladas de manera coordinada y colaborativa exclusivamente entre las instituciones que integran formalmente dicho Sistema, conforme a lo establecido en la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98- 2007) y su reglamento.
+24. Investigación Conjunta: Se entenderá por investigaciones conjuntas entre miembros del Sistema Nacional de Investigación Forestal, Áreas Protegidas y Vida Silvestre (SINFOR), aquellas iniciativas científicas, tecnológicas o de innovación desarrolladas de manera coordinada y colaborativa exclusivamente entre las instituciones que integran formalmente dicho Sistema, conforme a lo establecido en la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) y su reglamento.
 
 25. Jefe de Proyectos de Investigación. El Jefe de Proyectos de Investigación es la instancia técnica-administrativa responsable de coordinar, supervisar y dar seguimiento integral a los proyectos financiados en el marco de las convocatorias de fondos concursables de la Universidad Nacional de Ciencias Forestales. Es el funcionario encargado de garantizar que los proyectos aprobados se ejecuten conforme a los objetivos técnicos, cronogramas, presupuestos autorizados y normativa institucional vigente, asegurando la adecuada articulación entre los investigadores responsables y las dependencias administrativas correspondientes.
 

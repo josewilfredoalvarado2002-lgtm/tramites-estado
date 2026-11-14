@@ -11,7 +11,7 @@ paginas: "A. 15 - 21"
 sumario: "Acuerdos Seds Números 613-2026, 614-2026, 615-2026, 709-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260704-37185/download"
 extraido: "2026-11-09"
-huella: "fa388b9999b97b13"
+huella: "76e062d0175706f7"
 ---
 <!-- portal:inicio -->
 # ACUERDO SEDS NÚMERO 615-2026
@@ -93,7 +93,7 @@ Los Directores Nacionales cuando la exigencia lo demande, pueden proponer al Dir
 
 CONSIDERANDO:
 
-Que mediante Recomendación Técnica DGPN-DEP No. 012- 2026, emitida por el Directorio Estratégico Policial, en fecha 21 de abril del año 2026, aprueba la creación del SISTEMA DE CARRERA DOCENTE DE LA DIRECCIÓN DE EDUCACIÓN POLICIAL, dependiente de la Universidad Nacional de la Policía de Honduras.
+Que mediante Recomendación Técnica DGPN-DEP No. 012-2026, emitida por el Directorio Estratégico Policial, en fecha 21 de abril del año 2026, aprueba la creación del SISTEMA DE CARRERA DOCENTE DE LA DIRECCIÓN DE EDUCACIÓN POLICIAL, dependiente de la Universidad Nacional de la Policía de Honduras.
 
 CONSIDERANDO:
 

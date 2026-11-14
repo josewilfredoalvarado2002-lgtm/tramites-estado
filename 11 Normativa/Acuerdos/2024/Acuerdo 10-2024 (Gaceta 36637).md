@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 10-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240911-36637/download"
 extraido: "2026-11-14"
-huella: "2f0eab453935421e"
+huella: "2914c70e2b3211c1"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 10-2024
@@ -27,7 +27,7 @@ huella: "2f0eab453935421e"
 
 ## Texto
 
-La Infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN tomada por unanimidad en el punto V.2 (Asuntos Ordinarios) numeral uno (01) del Acta Número 27- 2024, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día martes veintisiete (27) de agosto del año dos mil veinticuatro (2024), que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: “ACUERDO No. 10-2024.
+La Infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN tomada por unanimidad en el punto V.2 (Asuntos Ordinarios) numeral uno (01) del Acta Número 27-2024, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día martes veintisiete (27) de agosto del año dos mil veinticuatro (2024), que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: “ACUERDO No. 10-2024.
 
 ACUERDO DE URGENCIA PARA LA ADQUISICIÓN
 

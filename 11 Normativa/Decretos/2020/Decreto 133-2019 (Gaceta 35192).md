@@ -8,10 +8,10 @@ gaceta_numero: 35192
 gaceta_fecha: "2020-03-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)|La Gaceta 35192]]"
 paginas: "A. 5 - 6"
-sumario: "Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019"
+sumario: "Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200305-35192/download"
 extraido: "2026-11-14"
-huella: "afde7b6515050ba7"
+huella: "bff6c62bd75d36ae"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 133-2019
@@ -23,7 +23,7 @@ huella: "afde7b6515050ba7"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)\|La Gaceta 35192]] del 2020-03-05 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019 |
 
 ## Texto
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

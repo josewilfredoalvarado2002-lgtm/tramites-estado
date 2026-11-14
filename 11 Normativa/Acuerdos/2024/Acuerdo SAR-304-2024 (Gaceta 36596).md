@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número SAR-304-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240726-36596/download"
 extraido: "2026-11-14"
-huella: "aab02818c04361fd"
+huella: "ec6f89aca271eac9"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-304-2024
@@ -33,13 +33,9 @@ CONSIDERANDO: Que mediante el Artículo 195 del Decreto Legislativo número 170-
 
 CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las atribuciones de la Administración Tributaria: 1)…; 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; 13)…; y 15) Cualquier otra facultad o atribución que establezca la Ley, en sus respectivas competencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 

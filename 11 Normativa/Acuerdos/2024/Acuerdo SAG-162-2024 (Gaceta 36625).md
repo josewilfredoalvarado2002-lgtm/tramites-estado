@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. SAG-162-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240829-36625/download"
 extraido: "2026-11-14"
-huella: "fb75164703a5a1ed"
+huella: "e5e74c82fc4638cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-162-2024
@@ -45,7 +45,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Decreto Ejecutivo PCM-007- 2012, se solicita a la Secretaría de Desarrollo Económico, establecer un Contingente por Desabasto de Arroz Granza por Diez Mil Quinientas Cuatro Punto Cincuenta y Cuatro Toneladas Métricas (10,504.54 TM), clasificado en el inciso arancelario SAC.1006.10.90.00, con Derecho Arancelario a la Importación (DAI), del cero por ciento (0%), con una vigencia comprendida del 28 de agosto al 31 de diciembre del 2024.
+PRIMERO: En el marco del Decreto Ejecutivo PCM-007-2012, se solicita a la Secretaría de Desarrollo Económico, establecer un Contingente por Desabasto de Arroz Granza por Diez Mil Quinientas Cuatro Punto Cincuenta y Cuatro Toneladas Métricas (10,504.54 TM), clasificado en el inciso arancelario SAC.1006.10.90.00, con Derecho Arancelario a la Importación (DAI), del cero por ciento (0%), con una vigencia comprendida del 28 de agosto al 31 de diciembre del 2024.
 
 SEGUNDO: De conformidad con lo establecido en el artículo 4 del Decreto Ejecutivo PCM-007-2012, la asignación del Contingente por Desabasto se hará con los porcentajes de compra nacional de la producción del año anterior (2023), siendo los beneficiarios:
 

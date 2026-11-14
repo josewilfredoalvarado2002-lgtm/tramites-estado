@@ -11,7 +11,7 @@ paginas: "A. 10 - 13"
 sumario: "Decreto No. 236-2026, 237-2026, 2382026, 239-2026, 240-2026, 241-2026, 2422026, 243-2026, 248-2026, 249-2026, 2512026, 265-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "26d1d7553d8bde49"
+huella: "58b53612bbc9ed5f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 239-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ ARTÍCULO 2.- Se Ordena al Programa Nacional de Desarrollo Rural y Urbano Sosten
 
 #### Artículo 3
 
-ARTÍCULO 3.- Se Ordena al Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS), dentro del ámbito de sus competencias, para que realice las gestiones técnicas, administrativas y financieras necesarias para la planificación y ejecución del Proyecto de CONSTRUCCIÓN DE UNA CAJA PUENTE EN LA ALDEA NAGUARA, MUNICIPIO DE MOROCELÍ, DEPARTAMENTO DE EL PARAÍSO, POR UN MONTO DE DOS MILLONES D E L E M P I R A S E X A C T O S (L.2,000,000.00), incluyendo las obras complementarias necesarias para su adecuado funcionamiento, conforme a los estudios técnicos correspondientes, la normativa aplicable y la disponibilidad presupuestaria.
+ARTÍCULO 3.- Se Ordena al Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS), dentro del ámbito de sus competencias, para que realice las gestiones técnicas, administrativas y financieras necesarias para la planificación y ejecución del Proyecto de CONSTRUCCIÓN DE UNA CAJA PUENTE EN LA ALDEA NAGUARA, MUNICIPIO DE MOROCELÍ, DEPARTAMENTO DE EL PARAÍSO, POR UN MONTO DE DOS MILLONES DE LEMPIRAS EXACTOS (L.2,000,000.00), incluyendo las obras complementarias necesarias para su adecuado funcionamiento, conforme a los estudios técnicos correspondientes, la normativa aplicable y la disponibilidad presupuestaria.
 
 #### Artículo 4
 
@@ -69,7 +69,7 @@ ARTÍCULO 5.- Incorporar en el Presupuesto General de Ingresos y Egresos de la R
 
 \1) Sistema de Alcantarillado Sanitario en el casco urbano del Municipio de San Lucas, Departamento de El Paraíso:
 
-CUATRO MILLONES DE L E M P I R A S E X A C TO S
+CUATRO MILLONES DE LEMPIRAS EXAC TO S
 
 (L. 4,000,000.00);
 
@@ -79,7 +79,7 @@ CUATRO MILLONES DE L E M P I R A S E X A C TO S
 
 \4) Engramillado de la Cancha de Fútbol San Antonio, Municipio de San Antonio de Flores, Departamento de El Paraíso:
 
-CUATRO MILLONES DE L E M P I R A S E X A C T O S
+CUATRO MILLONES DE LEMPIRAS EXACTOS
 
 (L. 4,000,000.00);
 

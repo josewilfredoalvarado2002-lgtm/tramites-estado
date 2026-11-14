@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Decreto No. 96-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211018-35749/download"
 extraido: "2026-11-14"
-huella: "42f8c9529b9496e0"
+huella: "fd05c919bbd5ab1d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 96-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

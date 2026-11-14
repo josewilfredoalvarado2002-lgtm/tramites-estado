@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230802-36297/download"
 extraido: "2026-11-14"
-huella: "f2d43986b71957f7"
+huella: "409c3545790418d7"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -155,13 +155,9 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 10-2022, publicado en e
 
 CONSIDERANDO: Que el panorama nacional en el año 2023 no es aliciente para la producción nacional, por lo que conlleva a tomar medidas que garanticen la seguridad alimentaria nacional en los granos básicos que son indispensables en la dieta de las familias hondureñas.
 
-CONSIDERANDO: Que el Reglamento de Comercialización de Productos Agrícolas en su reforma mediante Acuerdo No.
+CONSIDERANDO: Que el Reglamento de Comercialización de Productos Agrícolas en su reforma mediante Acuerdo No. 972-2010 de fecha 11 de noviembre del 2010, publicado en el Diario Oficial “La Gaceta” el 10 de marzo del 2011 en su edición número 32,463 establece que el Instituto Hondureño de Mercadeo Agrícola (IHMA), está facultado para comprar por vía directa, a precio de mercado vigente, la reserva estratégica de granos básicos del Estado; y en caso de escasez del producto en el mercado nacional deberá proceder a la importación de los granos básicos, con el propósito de garantizar un abastecimiento adecuado al consumidor nacional (artículo 16 y 18).
 
-972-2010 de fecha 11 de noviembre del 2010, publicado en el Diario Oficial “La Gaceta” el 10 de marzo del 2011 en su edición número 32,463 establece que el Instituto Hondureño de Mercadeo Agrícola (IHMA), está facultado para comprar por vía directa, a precio de mercado vigente, la reserva estratégica de granos básicos del Estado; y en caso de escasez del producto en el mercado nacional deberá proceder a la importación de los granos básicos, con el propósito de garantizar un abastecimiento adecuado al consumidor nacional (artículo 16 y 18).
-
-CONSIDERANDO: Que el Reglamento de Comercialización de Productos Agrícolas, en su reforma mediante Acuerdo No.
-
-972-2010 de fecha 11 de noviembre del 2010, publicado en el Diario Oficial “La Gaceta” el 10 de marzo del 2011 en su edición número 32,463, establece que los mecanismos para activar las ventas de la reserva estratégica son: 1) Debido al comportamiento de mercado por cada periodo de baja producción; y, 2) En una declaración de estado de emergencia de un organismo competente del Estado, como consecuencia de desastres naturales o de otras causas de fuerza mayor no predecibles que ocasionen escasez, viéndose suspendido el abastecimiento de granos básicos (artículo 21).
+CONSIDERANDO: Que el Reglamento de Comercialización de Productos Agrícolas, en su reforma mediante Acuerdo No. 972-2010 de fecha 11 de noviembre del 2010, publicado en el Diario Oficial “La Gaceta” el 10 de marzo del 2011 en su edición número 32,463, establece que los mecanismos para activar las ventas de la reserva estratégica son: 1) Debido al comportamiento de mercado por cada periodo de baja producción; y, 2) En una declaración de estado de emergencia de un organismo competente del Estado, como consecuencia de desastres naturales o de otras causas de fuerza mayor no predecibles que ocasionen escasez, viéndose suspendido el abastecimiento de granos básicos (artículo 21).
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-008-2014 de fecha 6 de marzo del 2014, publicado en el Diario Oficial “La Gaceta” el 12 de mayo del 2014 en su edición número 33, 424, se autorizó al Instituto Hondureño de Mercadeo Agrícola (IHMA), para que por la vía directa compre nacional y/o internacionalmente frijol a precio de mercado con el objeto de abastecer y suplir las necesidades alimentarias de la población hondureña (artículo 1). En tal sentido, resulta imperativo garantizar el abastecimiento de granos básicos, como ser el maíz, el cual también es esencial en la dieta de la sociedad hondureña.
 

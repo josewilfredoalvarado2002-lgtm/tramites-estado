@@ -11,7 +11,7 @@ paginas: "A. 17 - 44"
 sumario: "Acuerdo No. SAR-125-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download"
 extraido: "2026-11-14"
-huella: "50c6d1ef23ece85a"
+huella: "1aa1bd2452490dd9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-125-2022
@@ -57,7 +57,7 @@ CONSIDERANDO (11): Que el numeral 14 del Artículo 198 del Código Tributario fa
 
 CONSIDERANDO (12): Que la Administración Tributaria tiene las facultades legales y las herramientas tecnológicas para hacer cumplir la obligación formal de presentar las declaraciones juradas de tributos, manifestaciones informativas e informes, por medios electrónicos, informáticos y telemáticos, y para permitir el pago de los tributos y sus accesorios por los mismos medios en los plazos establecidos en la normativa vigente.
 
-CONSIDERANDO (13): Que mediante el Acuerdo SAR- 002-2017 efectivo a partir del 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando la Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, las Direcciones de Grandes Contribuyentes, Direcciones Departamentales y Oficinas Tributarias, estableciéndoles sus sedes y jurisdicciones; dicha estructura organizativa ha sido modificada por los Acuerdos SAR-125-2018, SAR-190-2018, SAR-18-2019, SAR-222-2019, SAR-182-2021 y SAR- 354- 2021.
+CONSIDERANDO (13): Que mediante el Acuerdo SAR-002-2017 efectivo a partir del 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando la Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, las Direcciones de Grandes Contribuyentes, Direcciones Departamentales y Oficinas Tributarias, estableciéndoles sus sedes y jurisdicciones; dicha estructura organizativa ha sido modificada por los Acuerdos SAR-125-2018, SAR-190-2018, SAR-18-2019, SAR-222-2019, SAR-182-2021 y SAR-354-2021.
 
 CONSIDERANDO (14): Que el numeral 12 del Artículo 198 del Código Tributario establece como atribución de la Administración Tributaria aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria, de conformidad con el Código Tributario y la Ley.
 

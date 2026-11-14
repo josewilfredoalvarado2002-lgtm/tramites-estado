@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200524-35262-2/download"
 extraido: "2026-11-14"
-huella: "0fd7106ef59bb6cd"
+huella: "7f1aca8635be1a43"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-047-2020
@@ -41,7 +41,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM- 005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM- 033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020 y PCM-045-2020.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020 y PCM-045-2020.
 
 DECRETA:
 

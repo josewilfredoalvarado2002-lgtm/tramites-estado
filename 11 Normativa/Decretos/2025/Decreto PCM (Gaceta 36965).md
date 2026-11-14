@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 29-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251012-36965/download"
 extraido: "2026-11-09"
-huella: "7103b50da57dd7bf"
+huella: "5071f93bfd9692b5"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 29-2025
@@ -45,7 +45,7 @@ CONSIDERANDO (4): Que, el Poder Ejecutivo se encuentra constituido por: La Presi
 
 CONSIDERANDO (5): Que, con la finalidad de prevenir y disminuir los riesgos de potenciales desastres, fue emitida la Ley del Sistema Nacional de Riesgos (SINAGER), misma que se encuentra contenida en el Decreto 151-2009, la cual fue publicada en el Diario Oficial La Gaceta 32,098 de fecha 26 de diciembre de 2009 en cuyos artículos: 5 párrafo segundo, 6 párrafo final y 42, en relación con los artículos: 2 y 7 literal ch) de la Ley de Contingencias Nacionales se legitima a la Comisión Permanente de Contingencias (COPECO) para solicitar al Poder Ejecutivo la declaración de situación de emergencia.
 
-CONSIDERANDO (6): Que mediante el artículo 3 del Decreto 9-90 E el cual fue publicado en el Diario Oficial La Gaceta número 26,348 de fecha 25 de enero de 1991 fue creada la Comisión Permanente de Contingencias (COPECO), misma que, fue elevada al rango de Secretaría de Estado por medio del Decreto Ejecutivo PCM-057- 2019, el cual fue publicado en el Diario Oficial La Gaceta número 35,047 de fecha 12 de septiembre de 2019.
+CONSIDERANDO (6): Que mediante el artículo 3 del Decreto 9-90 E el cual fue publicado en el Diario Oficial La Gaceta número 26,348 de fecha 25 de enero de 1991 fue creada la Comisión Permanente de Contingencias (COPECO), misma que, fue elevada al rango de Secretaría de Estado por medio del Decreto Ejecutivo PCM-057-2019, el cual fue publicado en el Diario Oficial La Gaceta número 35,047 de fecha 12 de septiembre de 2019.
 
 CONSIDERANDO (7): Que de conformidad a lo señalado por el artículo 245 numerales; 19) y 45), así como por el artículo 360 Constitucional en relación con los artículos:
 

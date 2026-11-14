@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Acuerdos Nos. 07-2025, 045-2025, 48-2025, 49-2025, 90-2025, 91-2025, 92-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250308-36785/download"
 extraido: "2026-11-12"
-huella: "7c9495f2284a51a9"
+huella: "d31f61f14f61dea8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 92-2025
@@ -47,7 +47,7 @@ En aplicación de los artículos: 7, 36 numeral 8), 116, 118, 119 y 122 de la Le
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 406- 2024, publicado en el Diario Oficial La Gaceta en fecha 20 de julio de 2024, edición No. 36,591.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 406-2024, publicado en el Diario Oficial La Gaceta en fecha 20 de julio de 2024, edición No. 36,591.
 
 SEGUNDO: Delegar en la ciudadana Iris Georgina Anariba Castillo, Encargada de la Unidad de Atención al Ciudadano de esta Secretaría de Estado, la facultad de firmar las siguientes funciones:
 

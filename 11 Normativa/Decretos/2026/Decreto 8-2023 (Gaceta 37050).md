@@ -11,7 +11,7 @@ paginas: "A. 4 - 9"
 sumario: "Decretos Nos. 8-2023, 7-2025, 29-2025, 48-2025, 55-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260122-37050/download"
 extraido: "2026-11-09"
-huella: "99b3a8df69b64a64"
+huella: "5192a21ee1b764a4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 8-2023
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Convención Iberoamericana de Derechos de los Jóvenes reco
 
 Artículo 23 el derecho a la educación sexual como fuente de desarrollo personal, afectividad y expresión comunicativa, así como la información relativa a la reproducción y sus consecuencias, así mismo el Consenso de Montevideo sobre Población y Desarrollo (I Conferencia Regional sobre Población y Desarrollo de América Latina y Caribe realizada en Montevideo del 12-15 de Agosto de 2013) se acuerda asegurar la efectiva implementación de programas de educación integral de prevención al embarazo adolescente en Honduras, reconociendo la afectividad, desde la primera infancia, respetando la autonomía progresiva del niño y de la niña y las decisiones informadas de adolescentes y jóvenes sobre su sexualidad, con enfoque participativo, intercultural, de género y de derechos humanos.
 
-CONSIDERANDO: Que la Ley Marco para el Desarrollo Integral de la Juventud, contenida en el Decreto No.260-2005 del 1 de Septiembre de 2005, publicada en el Diario Oficial “La Gaceta” de fecha 16 de Enero de 2006, numeral 7 del
+CONSIDERANDO: Que la Ley Marco para el Desarrollo Integral de la Juventud, contenida en el Decreto No. 260-2005 del 1 de Septiembre de 2005, publicada en el Diario Oficial “La Gaceta” de fecha 16 de Enero de 2006, numeral 7 del
 
 Artículo 13, establece el derecho de las personas jóvenes a la atención integral de su salud; así como, en su numeral 1, a recibir educación y orientación sobre la misma, así mismo el Artículo 23 en sus numerales 1) y 2) de la Convención Iberoamericana de los Derechos de los Jóvenes, establece que los Estados reconocen que el derecho a la educación también comprende el derecho a la educación sexual como fuente de desarrollo personal, efectividad y expresión comunicativa, así como la información relativa la reproducción y sus consecuencias. La educación sexual se impartirá en todos los niveles educativos y fomentará una conducta responsable en el ejercicio de la sexualidad, orientada a su plena aceptación e identidad, así como a la prevención de las enfermedades de transmisión sexual.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 

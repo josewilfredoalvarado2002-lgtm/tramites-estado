@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdo No. 0095-ARSA-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240321-36491/download"
 extraido: "2026-11-14"
-huella: "ba6afa949bec7bb9"
+huella: "22026dd930d1285a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0095-ARSA-2024
@@ -31,7 +31,7 @@ huella: "ba6afa949bec7bb9"
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801- 1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar;
+PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801-1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar;
 
 Certificados, Licencias, Registros, Modificaciones, Correcciones, Sustancias Controladas y todo lo relacionado con la competencia de la Comisionada Presidenta, a excepción de lo delegado en Acuerdo No. 028-2022, desde el día Lunes 11 de marzo al viernes 22 de marzo del año 2024.
 

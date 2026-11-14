@@ -11,7 +11,7 @@ paginas: "A. 6 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230905-36326/download"
 extraido: "2026-11-14"
-huella: "37e8721f2e69a52d"
+huella: "ef79255f945b503e"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,9 +27,9 @@ huella: "37e8721f2e69a52d"
 
 ## Texto
 
-El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto No.2 del Acta de la Sesión No.4044 (Extraordinaria) del 24 de agosto de 2023, el cual contiene el Acuerdo No.10/2023, que literalmente dice:
+El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto No. 2 del Acta de la Sesión No. 4044 (Extraordinaria) del 24 de agosto de 2023, el cual contiene el Acuerdo No. 10/2023, que literalmente dice:
 
-«2… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente: ACUERDO No.10/2023.- Sesión No.4044 (Extraordinaria) del 24 de agosto de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+«2… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente: ACUERDO No. 10/2023.- Sesión No. 4044 (Extraordinaria) del 24 de agosto de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de acuerdo con el Artículo 342 de la Constitución de la República, el Estado por medio del Banco Central de Honduras (BCH), tendrá a su cargo la formulación y desarrollo de la política monetaria, crediticia y cambiaria del país, debidamente coordinada con la política económica planificada.
 
@@ -41,13 +41,13 @@ CONSIDERANDO:
 
 Que de acuerdo con el comportamiento del mercado de divisas, principalmente la demanda de divisas en subasta el equipo técnico recomendó al comité de divisas modificar el monto máximo permitido para postura de oferta de divisas de las Personas Naturales.
 
-CONSIDERANDO: Que en base a la recomendación del equipo técnico del BCH, discutida en el seno de la sesión extraordinaria No.05/2023 del Comité de Divisas celebrada el 24 de agosto de 2023, por unanimidad de votos se decidió someter a consideración del Directorio del BCH la propuesta de modificar el monto máximo a demandar en la subasta de divisas por las Personas Naturales
+CONSIDERANDO: Que en base a la recomendación del equipo técnico del BCH, discutida en el seno de la sesión extraordinaria No. 05/2023 del Comité de Divisas celebrada el 24 de agosto de 2023, por unanimidad de votos se decidió someter a consideración del Directorio del BCH la propuesta de modificar el monto máximo a demandar en la subasta de divisas por las Personas Naturales
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República, 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16 incisos a), f), l), n) y v) y 29 y 32 de la Ley del Banco Central de Honduras; 46 numerales 11) y 12) de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+Con fundamento en los artículos 342 de la Constitución de la República, 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16 incisos a), f), l), n) y v) y 29 y 32 de la Ley del Banco Central de Honduras; 46 numerales 11) y 12) de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -261,7 +261,7 @@ Instruir a la Secretaría del Directorio para que comunique este acuerdo a la Co
 
 IV.
 
-Derogar el Acuerdo No.06/2023 del 10 de abril de 2023, mediante el cual se aprobó la Normativa complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
+Derogar el Acuerdo No. 06/2023 del 10 de abril de 2023, mediante el cual se aprobó la Normativa complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
 V.
 

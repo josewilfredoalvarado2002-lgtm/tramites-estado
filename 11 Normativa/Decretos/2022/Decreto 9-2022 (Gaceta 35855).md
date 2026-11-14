@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "Decreto No. 9-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220222-35855/download"
 extraido: "2026-11-14"
-huella: "d4d075d7aa79eeb8"
+huella: "4bc264bfcf533c74"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 9-2022
@@ -29,11 +29,11 @@ huella: "d4d075d7aa79eeb8"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de marzo de 2010, publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de marzo de 2010, publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el 28 de septiembre de 2021 se suscribió el Canje de Notas que refleja el entendimiento alcanzado entre el Gobierno del Japón y el Gobierno de la República de Honduras, representado por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, concerniente al préstamo otorgado con miras a promover la estabilización económica y los esfuerzos para el desarrollo de la República de Honduras hasta por un monto de 11,011,000,000.00 de yenes japoneses.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.HO-C2 suscrito el 15 de octubre de 2021, entre la Agencia de Cooperación Internacional del Japón (JICA), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Once Mil Once Millones de Yenes Japoneses (¥11,011,000,000.00), recursos destinados a financiar la ejecución del Programa “Préstamo de Apoyo a Emergencias para Respuesta a la Crisis COVID-19”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Contrato de Préstamo No.HO-C2 suscrito el 15 de octubre de 2021, entre la Agencia de Cooperación Internacional del Japón (JICA), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Once Mil Once Millones de Yenes Japoneses (¥11,011,000,000.00), recursos destinados a financiar la ejecución del Programa “Préstamo de Apoyo a Emergencias para Respuesta a la Crisis COVID-19”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el objetivo del Programa es mejorar el sector de transporte y logística de cargas de la República de Honduras para beneficios en la competitividad y la integración regional a través de la reforma normativa e institucional y el planeamiento y facilitación del comercio, para de ese modo contribuir a promover la estabilización económica y los esfuerzos de desarrollo de la República de Honduras.
 
@@ -157,7 +157,7 @@ Sección 6. Avisos y Solicitudes Las siguientes direcciones se especifican a los
 
 Para JICA Dirección postal:
 
-A G E N C I A D E C O O P E R A C I Ó N INTERNACIONAL DE JAPÓN OFICINA DE JICA HONDURAS Octavo Nivel, Edificio Corporativo “777”, Colonia Las Lomas del Guijarro Sur, Tegucigalpa M.D.C.;
+AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN OFICINA DE JICA HONDURAS Octavo Nivel, Edificio Corporativo “777”, Colonia Las Lomas del Guijarro Sur, Tegucigalpa M.D.C.;
 
 Honduras, Centro América A/A: Representante Residente Para el Prestatario Dirección postal:
 
@@ -187,7 +187,7 @@ En lo que respecta al Préstamo extendido por la AGENCIA DE COOPERACIÓN INTERNA
 
 He considerado y examinado, entre otras cosas, los siguientes documentos:
 
-(a) El Canje de notas entre el Gobierno de _______ y el Gobierno de Japón, con fecha ;
+(a) El Canje de notas entre el Gobierno de _______ y el Gobierno de Japón, con fecha;
 
 (b) El Contrato de Préstamo;
 

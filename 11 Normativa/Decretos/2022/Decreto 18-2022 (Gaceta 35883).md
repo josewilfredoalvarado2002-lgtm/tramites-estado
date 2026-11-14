@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 18-2022, 19-2022, 20-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220326-35883/download"
 extraido: "2026-11-14"
-huella: "c0fab981d2cf18d1"
+huella: "bbb0bc7d8b07d8bb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 18-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que es necesario actualizar el marco jurídico del Tribunal Superi
 
 CONSIDERANDO: Que para que el Tribunal Superior de Cuentas (TSC) logre un efectivo cumplimiento de sus atribuciones es necesario reformar su Ley Orgánica, a efecto de armonizar sus preceptos con la Constitución de la República, la Convención Interamericana contra la Corrupción, los demás convenios suscritos por Honduras al efecto y otras leyes aplicables.
 
-CONSIDERANDO: Que la actualización de la normativa del Tribunal Superior de Cuentas (TSC), debe realizarse en apego a la visión del nuevo gobierno en lo referente al combate de la corrupción y a la exigencia de organismos cooperantes y la comunidad internacional; retornando al Poder Ejecutivo sus facultades relacionadas a la selección, designación y destitución del Auditor Interno y Personal Auxiliar de las unidades de Auditoría Interna de las instituciones, como complemento de la Fiscalización a posteriori, que fueron modificados mediante el Decreto No.145-2019, de fecha 4 de Diciembre del 2019.
+CONSIDERANDO: Que la actualización de la normativa del Tribunal Superior de Cuentas (TSC), debe realizarse en apego a la visión del nuevo gobierno en lo referente al combate de la corrupción y a la exigencia de organismos cooperantes y la comunidad internacional; retornando al Poder Ejecutivo sus facultades relacionadas a la selección, designación y destitución del Auditor Interno y Personal Auxiliar de las unidades de Auditoría Interna de las instituciones, como complemento de la Fiscalización a posteriori, que fueron modificados mediante el Decreto No. 145-2019, de fecha 4 de Diciembre del 2019.
 
 CONSIDERANDO: Que, en aras de la trasparencia y de la rendición de cuentas, no debe impedirse el acceso del Tribunal Superior de Cuentas (TSC), los órganos judiciales y los demás Órganos del Estado, a los registros pertinentes, siempre que cumplan con el procedimiento respectivo.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 77 y 106, de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS (TSC), contenida en el Decreto No.10-2002-E, de fecha 5 de Diciembre del 2002, reformados mediante Decreto No.145- 2019, de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020, en la Edición No.35,192, los que en adelante deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 77 y 106, de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS (TSC), contenida en el Decreto No. 10-2002-E, de fecha 5 de Diciembre del 2002, reformados mediante Decreto No. 145-2019, de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020, en la Edición No. 35,192, los que en adelante deberán leerse de la manera siguiente:
 
 “ARTÍCULO 77.- ACCESO A LOS
 
@@ -61,15 +61,11 @@ El Tribunal queda facultado para emitir normas generales sobre las auditorías i
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar el Artículo 2 del Decreto No.145-2019, de fecha 4 de diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020 en la edición No.
-
-35,192.
+ARTÍCULO 2.- Derogar el Artículo 2 del Decreto No. 145-2019, de fecha 4 de diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020 en la edición No. 35,192.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Los auditores internos y personal auxiliar nombrado al amparo del Decreto No.145-2019, de fecha 4 de diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de marzo del 2020 en la edición No.
-
-35,192, a que se refiere el Artículo 106 de la Ley del Tribunal Superior de Cuentas, deben ser sometidos a un proceso de evaluación por cada una de la instituciones del Estado de que se trate, a efecto de verificar el buen desempeño de sus funciones, el cumplimiento de los requisitos de capacidad e idoneidad, así como las competencias profesionales acordes al desempeño de su cargo y las necesidades institucionales; los auditores internos y personal auxiliar que no reúna los requisitos o no apruebe la evaluación de desempeño o las pruebas de conocimiento, deben ser cancelado de forma inmediata de sus cargos, debiendo la Institución correspondiente proceder en el marco de la legislación aplicable al pago de los derechos laborales, sin responsabilidad para la autoridad a quien competa la cancelación.
+ARTÍCULO 3.- Los auditores internos y personal auxiliar nombrado al amparo del Decreto No. 145-2019, de fecha 4 de diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de marzo del 2020 en la edición No. 35,192, a que se refiere el Artículo 106 de la Ley del Tribunal Superior de Cuentas, deben ser sometidos a un proceso de evaluación por cada una de la instituciones del Estado de que se trate, a efecto de verificar el buen desempeño de sus funciones, el cumplimiento de los requisitos de capacidad e idoneidad, así como las competencias profesionales acordes al desempeño de su cargo y las necesidades institucionales; los auditores internos y personal auxiliar que no reúna los requisitos o no apruebe la evaluación de desempeño o las pruebas de conocimiento, deben ser cancelado de forma inmediata de sus cargos, debiendo la Institución correspondiente proceder en el marco de la legislación aplicable al pago de los derechos laborales, sin responsabilidad para la autoridad a quien competa la cancelación.
 
 El proceso de evaluación establecido en primer párrafo del presente Artículo debe realizarse priorizando los auditores internos y personal auxiliar nombrados entre la fecha de publicación del presente Decreto y el tercer trimestre del año 2021.
 

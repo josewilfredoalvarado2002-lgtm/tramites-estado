@@ -11,7 +11,7 @@ paginas: "A. 68 - 76"
 sumario: "Decretos Nos. 162-2026, 163-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260811-37217/download"
 extraido: "2026-11-09"
-huella: "c4c73438ff334447"
+huella: "bf7c9be3a0ee4de5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 163-2026
@@ -35,17 +35,17 @@ CONSIDERANDO: Que el país enfrenta un entorno macroeconómico desafiante, marca
 
 CONSIDERANDO: Que para abordar los temas previamente mencionados el Gobierno de la República de Honduras, ha preparado con el apoyo de la Asociación Internacional de Fomento (AIF) el Financiamiento Suplementario para el Primer Financiamiento para Políticas de Desarrollo sobre Transparencia y Sostenibilidad Fiscal y Climática, con el propósito de contribuir a cerrar las brechas de financiamiento fiscal y externo generadas por el impacto económico derivado del incremento en los precios internacionales de la energía y preservar la continuidad del programa de reformas estructurales impulsado por el Gobierno. Lo anterior se logrará mediante la adopción de medidas temporales orientadas a mitigar los impactos sociales y económicos derivados del aumento en los precios internacionales de los combustibles y la energía, incluyendo mecanismos de estabilización de precios de combustibles y gas licuado de petróleo (GLP), subsidios focalizados en el sector eléctrico, programas de apoyo social y medidas de eficiencia energética, con el propósito de preservar la estabilidad macroeconómica y proteger a la población hondureña.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.80480-HN suscrito el 16 de junio de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta Ciento Veinticinco Millones de Dólares de los Estados Unidos de América (USD125,000,000.00), para la ejecución del “Financiamiento Suplementario para el Primer Financiamiento para Políticas de Desarrollo sobre Transparencia y Sostenibilidad Fiscal y Climática”.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 80480-HN suscrito el 16 de junio de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta Ciento Veinticinco Millones de Dólares de los Estados Unidos de América (USD125,000,000.00), para la ejecución del “Financiamiento Suplementario para el Primer Financiamiento para Políticas de Desarrollo sobre Transparencia y Sostenibilidad Fiscal y Climática”.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribuciones 1), 19) y 36) de la Constitución de la República de Honduras corresponde al Congreso Nacional, entre otros, crear, decretar, interpretar, reformar y derogar las leyes; asimismo, aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes EL ACUERDO DE FINANCIAMIENTO NO.80480-HN, suscrito el 16 de junio de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta CIENTO VEINTICINCO M I L L O N E S D E D Ó L A R E S DE LOS ESTADOS UNIDOS DE AMÉRICA (USD.125,000,000.00), recursos destinados a la ejecución del Programa “FINANCIAMIENTO SUPLEMENTARIO PARA EL PRIMER FINANCIAMIENTO P A R A P O L Í T I C A S D E DESARROLLO TRANSPARENCIA Y SOSTENIBILIDAD FISCAL Y CLIMÁTICA”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes EL ACUERDO DE FINANCIAMIENTO NO.80480-HN, suscrito el 16 de junio de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta CIENTO VEINTICINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (USD.125,000,000.00), recursos destinados a la ejecución del Programa “FINANCIAMIENTO SUPLEMENTARIO PARA EL PRIMER FINANCIAMIENTO PARA POLÍTICAS DE DESARROLLO TRANSPARENCIA Y SOSTENIBILIDAD FISCAL Y CLIMÁTICA”, que literalmente dice:
 
 “NÚMERO DE CRÉDITO 80480-
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 126-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220203-35839/download"
 extraido: "2026-11-14"
-huella: "cc23207b27f6e182"
+huella: "243b9c54c251c1e6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 126-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que conforme al Artículo 328 de la Constitución de la República
 
 CONSIDERANDO: Que conforme al Artículo 351 de la Constitución de la República, el Sistema Tributario se rige por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el Artículo 144 del Decreto No.170- 2016 establece que por la prescripción se extinguen los derechos y acciones de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), la Administración Tributaria, la Administración Aduanera y del obligado tributario, cuando no los ejerciten dentro del plazo legalmente señalado y es efectiva cuando transcurra el plazo contenido en este Código y la responsabilidad y la acción del obligado tributario para solicitar la devolución o repetición por tributos y accesorios, así como las acciones y facultades del Estado para verificar, comprobar, fiscalizar, investigar, practicar diligencias y exámenes, determinar y exigir el pago de las obligaciones previstas en este Código, prescriben en forma definitiva por el transcurso de Cuatro (4) años en el caso de obligaciones de importación, exportación o cualquier otra relativa a operaciones comprendidas dentro de los regímenes aduaneros.
+CONSIDERANDO: Que el Artículo 144 del Decreto No. 170-2016 establece que por la prescripción se extinguen los derechos y acciones de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), la Administración Tributaria, la Administración Aduanera y del obligado tributario, cuando no los ejerciten dentro del plazo legalmente señalado y es efectiva cuando transcurra el plazo contenido en este Código y la responsabilidad y la acción del obligado tributario para solicitar la devolución o repetición por tributos y accesorios, así como las acciones y facultades del Estado para verificar, comprobar, fiscalizar, investigar, practicar diligencias y exámenes, determinar y exigir el pago de las obligaciones previstas en este Código, prescriben en forma definitiva por el transcurso de Cuatro (4) años en el caso de obligaciones de importación, exportación o cualquier otra relativa a operaciones comprendidas dentro de los regímenes aduaneros.
 
 CONSIDERANDO: Que el Artículo 89 del Código Aduanero Uniforme Centroamericano (CAUCA), establece el concepto de regímenes aduaneros: Se entenderá por Regímenes Aduaneros, las diferentes destinaciones a que puedan someterse las mercancías que se encuentran bajo control aduanero, de acuerdo con los términos de la declaración presentada ante la Autoridad Aduanera.
 
@@ -79,7 +79,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico queda obligada 
 
 #### Artículo 4
 
-ARTÍCULO 4.- Se ordena al Servicio de Administración Rentas (SAR), para que sin más trámite emita sellos definitivos de finiquito fiscal en las solicitudes de regularización presentadas por los Obligados Tributarios amparados en el Decreto No.32-2017 de fecha 28 de Junio de Dos Mil Diecisiete (2017), Decreto No.93-2017 de fecha 29 de Septiembre de Dos Mil Diecisiete (2017) y el Decreto No.129-2017 de fecha 2 de Mayo del Dos Mil Dieciocho (2018).
+ARTÍCULO 4.- Se ordena al Servicio de Administración Rentas (SAR), para que sin más trámite emita sellos definitivos de finiquito fiscal en las solicitudes de regularización presentadas por los Obligados Tributarios amparados en el Decreto No. 32-2017 de fecha 28 de Junio de Dos Mil Diecisiete (2017), Decreto No. 93-2017 de fecha 29 de Septiembre de Dos Mil Diecisiete (2017) y el Decreto No. 129-2017 de fecha 2 de Mayo del Dos Mil Dieciocho (2018).
 
 #### Artículo 5
 

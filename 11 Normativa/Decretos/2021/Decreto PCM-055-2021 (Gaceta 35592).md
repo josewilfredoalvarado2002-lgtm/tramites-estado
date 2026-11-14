@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Decreto Ejecutivo número PCM-055-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210507-35592/download"
 extraido: "2026-11-14"
-huella: "08cf610ac52d8630"
+huella: "ae88470dc2dbd4fa"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-055-2021
@@ -43,9 +43,7 @@ CONSIDERANDO: Que la Ley del Instituto Nacional de Previsión del Magisterio, en
 
 CONSIDERANDO: Que el óptimo funcionamiento del INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), constituye un elemento estabilizador del sistema financiero nacional, es por ello urgente la generación de un sistema de gestión calidad que garantice procesos y procedimientos eficientes, optimizar el uso de recursos, mejorar la logística, modernizar las prácticas de la Institución y diversificación de sus inversiones.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-044-2021, publicado en el Diario Oficial “La Gaceta” en fecha 24 de abril del 2021, Edición No.
-
-35,581, se intervino el INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), por razones de interés público.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-044-2021, publicado en el Diario Oficial “La Gaceta” en fecha 24 de abril del 2021, Edición No. 35,581, se intervino el INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), por razones de interés público.
 
 POR TANTO;
 

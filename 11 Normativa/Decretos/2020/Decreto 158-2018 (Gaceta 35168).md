@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Decretos Nos. 79-2018, 158-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200206-35168/download"
 extraido: "2026-11-14"
-huella: "b3cd0b112e7829d6"
+huella: "5b8578b2628a014b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 158-2018
@@ -39,7 +39,7 @@ Crear, decretar, interpretar, reformar y derogar las leyes, según el Artículo 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -75,7 +75,7 @@ ACUERDO MINISTERIAL NÚMERO-007-2020 LA SECRETARIA DE ESTADO EN EL DESPACHO DE D
 
 CONSIDERANDO: Que la conducción de las negociaciones comerciales con eficiencia, ética y responsabilidad constituye un presupuesto básico de la Secretaría de Desarrollo Económico, de forma que se garantice el éxito de la negociación y la misma se traduzca en un beneficio para los diversos sectores de servicios e inversión.
 
-CONSIDERANDO: Que el 27 de junio de 2018, en la ciudad de San José, Costa Rica, los Viceministros de Integración Económica Centroamericana, con fundamento en las disposiciones contenidas en el Acuerdo No. 01- 2013 (COMIECO- LXV), las disposiciones aplicables del Tratado sobre Inversión y Comercio de Servicios (TICS) y sus Protocolos, y para dar cumplimiento a lo establecido en el Protocolo de Incorporación de la República de Panamá al Subsistema de Integración Económica del Sistema de la Integración Centroamericana, instruyeron al Grupo Técnico de Servicios (GTSI) a iniciar los trabajos preparatorios para renegociar el TICS y sus Protocolos en los aspectos que sean necesarios para atender las sensibilidades e intereses de todos los países.
+CONSIDERANDO: Que el 27 de junio de 2018, en la ciudad de San José, Costa Rica, los Viceministros de Integración Económica Centroamericana, con fundamento en las disposiciones contenidas en el Acuerdo No. 01-2013 (COMIECO- LXV), las disposiciones aplicables del Tratado sobre Inversión y Comercio de Servicios (TICS) y sus Protocolos, y para dar cumplimiento a lo establecido en el Protocolo de Incorporación de la República de Panamá al Subsistema de Integración Económica del Sistema de la Integración Centroamericana, instruyeron al Grupo Técnico de Servicios (GTSI) a iniciar los trabajos preparatorios para renegociar el TICS y sus Protocolos en los aspectos que sean necesarios para atender las sensibilidades e intereses de todos los países.
 
 CONSIDERANDO: Que las Partes han cumplido con el mandato dado por parte de los Viceministros de Integración Económica Centroamericana, al haber presentado al foro de Directores de Integración Económica el documento que contiene las disposiciones del TICS y sus Protocolos que requieren una renegociación, para atender las sensibilidades e intereses que los países han identificado y aquellas que puedan surgir posteriormente.
 
@@ -83,7 +83,7 @@ CONSIDERANDO: Que el 23 de octubre de 2018, en la ciudad de San Salvador, El Sal
 
 CONSIDERANDO: Que durante el proceso de negociación y posterior implementación del Tratado Sobre Inversión y Comercio de Servicios e Inversión (TICS), se generará información que por su naturaleza debe ser considerada como reservada, ya que su difusión acarrearía, entre otros, el debilitamiento de las estrategias nacionales de negociación comercial y revelaría estrategias de negociación no sólo de Honduras sino también de los demás Estados Centroamericanos participantes.
 
-CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública aprobada por el Congreso Nacional mediante Decreto No.170-2006 del 24 de noviembre de 2006, señala como uno de sus objetivos la garantía de protección de la información clasificada como reservada por resoluciones de instituciones del sector público.
+CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública aprobada por el Congreso Nacional mediante Decreto No. 170-2006 del 24 de noviembre de 2006, señala como uno de sus objetivos la garantía de protección de la información clasificada como reservada por resoluciones de instituciones del sector público.
 
 CONSIDERANDO: Que de conformidad con el Artículo 17 numeral 5 de la precitada Ley, la conducción de las negociaciones y las relaciones internacionales puede ser declarada como información reservada.
 

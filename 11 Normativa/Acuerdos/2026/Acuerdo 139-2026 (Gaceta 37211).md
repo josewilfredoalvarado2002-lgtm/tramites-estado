@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Números 139-2026, 415-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260804-37211/download"
 extraido: "2026-11-09"
-huella: "13e3fe3a64d4d8ca"
+huella: "4efa8bd7a01cb263"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 139-2026
@@ -53,9 +53,7 @@ Que los miembros de la Junta Directiva de la Empresa Nacional de Portuaria (ENP)
 
 CONSIDERANDO (5):
 
-Que mediante Oficio No.
-
-080-02-26-DE de fecha 12 de febrero del año 2026, el Consejo Hondureño de la Empresa Privada (COHEP), notifica al Abogado Emilio Hernández Hércules, Secretario de Estado en el Despacho de Finanzas, la decisión de delegar a los ciudadanos Ilse Adriana Osorio Velásquez en el cargo de Propietaria y Elmer Reniery Flores Flores, en el cargo de Suplente, en representación del Consejo Hondureño de la Empresa Privada (COHEP), ante el Consejo Directivo de la Empresa Nacional Portuaria (ENP).
+Que mediante Oficio No. 080-02-26-DE de fecha 12 de febrero del año 2026, el Consejo Hondureño de la Empresa Privada (COHEP), notifica al Abogado Emilio Hernández Hércules, Secretario de Estado en el Despacho de Finanzas, la decisión de delegar a los ciudadanos Ilse Adriana Osorio Velásquez en el cargo de Propietaria y Elmer Reniery Flores Flores, en el cargo de Suplente, en representación del Consejo Hondureño de la Empresa Privada (COHEP), ante el Consejo Directivo de la Empresa Nacional Portuaria (ENP).
 
 CONSIDERANDO (6):
 
@@ -69,7 +67,7 @@ ACUERDA:
 
 PRIMERO:
 
-N O M B R A R e n e l C O N S E J O DIRECTIVO de la EMPRESA NACIONAL PORTUARIA (ENP) a los Ciudadanos ILSE ADRIANA OSORIO VELÁSQUEZ con Documento Nacional de Identificación 0801-1975- 05298, en el cargo de Propietaria y E L M E R R E N I E RY F L O R E S FLORES con Documento Nacional de Identificación 0610-1995-00108, en el cargo de Suplente, como representantes del Consejo Hondureño de la Empresa Privada (COHEP).
+NOMBRAR en el CONSEJO DIRECTIVO de la EMPRESA NACIONAL PORTUARIA (ENP) a los Ciudadanos ILSE ADRIANA OSORIO VELÁSQUEZ con Documento Nacional de Identificación 0801-1975-05298, en el cargo de Propietaria y ELMER RENIE RY FLORES FLORES con Documento Nacional de Identificación 0610-1995-00108, en el cargo de Suplente, como representantes del Consejo Hondureño de la Empresa Privada (COHEP).
 
 SEGUNDO:
 

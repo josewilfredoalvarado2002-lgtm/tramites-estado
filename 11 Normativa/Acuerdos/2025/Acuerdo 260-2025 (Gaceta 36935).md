@@ -11,7 +11,7 @@ paginas: "A. 10 - 11"
 sumario: "Acuerdos Ejecutivos Nos. 74-A-2025,114-2025, 124-2025, 130-2025Acuerdo Ministerial No. 260-2025,Acuerdo No. 311-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250905-36935/download"
 extraido: "2026-11-09"
-huella: "b0ca512d0f8bd425"
+huella: "631ec72bd094f9ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 260-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que, con el objeto de agilizar los procesos en la Administración 
 
 CONSIDERANDO: Que, mediante Acuerdo Ministerial No. 282-2024, publicado en el Diario Oficial La Gaceta, en fecha 26 de junio del 2024 (No. 36,570), se delegó a la ciudadana HEIDY WALESKA BARAHONA ALACHÁN, Subsecretaria de Justicia de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, la facultad de firmar Acuerdos, demás actos y trámites administrativos, cuyo conocimiento corresponde a esta Secretaría de Estado.
 
-CONSIDERANDO: Que, es procedente emitir un Acuerdo Ministerial que legitime y facilite la utilización de la firma por medio de facsímil de la ciudadana HEIDY WALESKA BARAHONA ALACHÁN , para que surta efecto jurídico en ciertos actos administrativos de esta Secretaría de Estado, pues son este contexto, un equivalente funcional de la firma manuscrita.
+CONSIDERANDO: Que, es procedente emitir un Acuerdo Ministerial que legitime y facilite la utilización de la firma por medio de facsímil de la ciudadana HEIDY WALESKA BARAHONA ALACHÁN, para que surta efecto jurídico en ciertos actos administrativos de esta Secretaría de Estado, pues son este contexto, un equivalente funcional de la firma manuscrita.
 
 POR TANTO:
 

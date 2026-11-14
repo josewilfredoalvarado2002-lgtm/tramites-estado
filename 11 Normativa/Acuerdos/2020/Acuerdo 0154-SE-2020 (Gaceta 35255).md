@@ -8,10 +8,10 @@ gaceta_numero: 35255
 gaceta_fecha: "2020-05-17"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35255 (2020-05-17)|La Gaceta 35255]]"
 paginas: "A. 9 - 12"
-sumario: "Decreto Ejecutivo número PCM-045-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0154-SE-2020"
+sumario: "Decreto Ejecutivo número PCM-045-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0154-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200517-35255-2/download"
 extraido: "2026-11-14"
-huella: "0ef3cc5053d5ee10"
+huella: "ef1be5024f58dfb5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0154-SE-2020
@@ -23,7 +23,7 @@ huella: "0ef3cc5053d5ee10"
 | Emisor | Secretaría de Educación |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35255 (2020-05-17)\|La Gaceta 35255]] del 2020-05-17 |
 | Páginas | A. 9 - 12 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-045-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0154-SE-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-045-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0154-SE-2020 |
 
 ## Texto
 
@@ -51,7 +51,7 @@ La Secretaría de Estado en el Despacho de Educación en uso de las facultades q
 
 ACUERDA:
 
-PRIMERO: Aprobar de cumplimiento obligatorio, los Lineamientos de Emergencia para la Evaluación de los Aprendizajes para la Finalización del Año Escolar 2019- 2020, en los Centros Educativos No Gubernamentales con Calendario Escolar de Septiembre a Junio, en la forma siguiente:
+PRIMERO: Aprobar de cumplimiento obligatorio, los Lineamientos de Emergencia para la Evaluación de los Aprendizajes para la Finalización del Año Escolar 2019-2020, en los Centros Educativos No Gubernamentales con Calendario Escolar de Septiembre a Junio, en la forma siguiente:
 
 NIVEL DE EDUCACIÓN PRE BÁSICA:
 

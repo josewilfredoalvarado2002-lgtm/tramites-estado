@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. SEN-80-2025, SEN-84-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251009-36962/download"
 extraido: "2026-11-09"
-huella: "627532249d5e55cf"
+huella: "016cb5478b2766f4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-80-2025
@@ -31,7 +31,7 @@ SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA.
 
 EL SUBSECRETARIO DE ESTADO EN EL DESPACHO
 
-DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 30, 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM- 048-2017.
+DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 30, 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-048-2017.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos, emitiendo para el efecto los Acuerdos y Resoluciones que correspondan al ámbito de su competencia.
 

@@ -8,10 +8,10 @@ gaceta_numero: 36660
 gaceta_fecha: "2024-10-09"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36660 (2024-10-09)|La Gaceta 36660]]"
 paginas: "A. 15 - 16"
-sumario: "Acuerdo Ejecutivo No. 187-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024"
+sumario: "Acuerdo Ejecutivo No. 187-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241009-36660/download"
 extraido: "2026-11-14"
-huella: "0777879b5bb919cb"
+huella: "e95e0e090864aa5b"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 633-2024
@@ -23,7 +23,7 @@ huella: "0777879b5bb919cb"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36660 (2024-10-09)\|La Gaceta 36660]] del 2024-10-09 |
 | Páginas | A. 15 - 16 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 187-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 187-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, y en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros. A ese efecto, el artículo 116 de la Ley General de la Administración Pública, establece que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.201-2024 de fecha 11 de septiembre de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 201-2024 de fecha 11 de septiembre de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ.
 
 CONSIDERANDO: Que es necesario e indispensable para el Gobierno de la República de Honduras, formalizar la designación como Miembro en el Directorio ante los Organismos Financieros Internacionales tales como el BANCO DE DESARROLLO DE AMERICA LATINA Y EL CARIBE (CAF).
 

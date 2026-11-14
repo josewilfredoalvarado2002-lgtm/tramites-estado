@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251105-36985/download"
 extraido: "2026-11-09"
-huella: "f5a5d21a94958509"
+huella: "c7d537495bb98646"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,11 +27,11 @@ huella: "f5a5d21a94958509"
 
 ## Texto
 
-El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 001-17-07- 2025, aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 373/2025, celebrada en fecha diecisiete (17) días del mes de julio del dos mil veinticinco (2025), el cual literalmente dice:
+El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 001-17-07-2025, aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 373/2025, celebrada en fecha diecisiete (17) días del mes de julio del dos mil veinticinco (2025), el cual literalmente dice:
 
 “ACUERDO No. J.D. 001-17-07 -2025
 
-C O N S E J O N A C I O N A L S U P E R V I S O R D E COOPERATIVAS CONSUCOOP.- JUNTA DIRECTIVA.- Tegucigalpa, municipio del Distrito Central, a los diecisiete
+CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP.- JUNTA DIRECTIVA.- Tegucigalpa, municipio del Distrito Central, a los diecisiete
 
 (17) días del mes de julio del dos mil veinticinco (2025).
 
@@ -41,7 +41,7 @@ CONSIDERANDO 2: Que el artículo 90 de la Ley de Cooperativas de Honduras, estab
 
 j) manifiesta que es función de la Confederación Hondureña de Cooperativas (CHC) fomentar la educación del Modelo Cooperativo Nacional, a través del Instituto de Investigación y Formación Cooperativa (IFC), en coordinación con los organismos de integración de acuerdo a su especialización; y que el artículo 173 del Reglamento de la Ley de Cooperativas de Honduras establece las atribuciones del IFC, dentro de las que contempla: “… e) Brindar la capacitación a las Cooperativas en temas de doctrina, fortalecimiento de los cuerpos directivos y mejoramiento personal; f) Certificar y acreditar los planes de capacitación y formación de las cooperativas, en lo relacionado a los afiliados que aspiran a ser directivos; …”
 
-CONSIDERANDO 3: Que el artículo 93 de la Ley de Cooperativas de Honduras reformada mediante el Decreto No.174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación. Y a su vez de acuerdo con el artículo 96 numeral
+CONSIDERANDO 3: Que el artículo 93 de la Ley de Cooperativas de Honduras reformada mediante el Decreto No. 174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación. Y a su vez de acuerdo con el artículo 96 numeral
 
 \11) que establece que debe dictar normas que aseguren el cumplimiento y práctica de los principios del buen Gobierno Cooperativo, con el fin de que las cooperativas logren sus objetivos estratégicos y se garantice la confianza de sus afiliados y del público en general.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240531-36548/download"
 extraido: "2026-11-14"
-huella: "2c4ddec04e2c1a35"
+huella: "552c249dc409a1c7"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -55,15 +55,11 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 82-2004 publicado en el Diari
 
 CONSIDERANDO: Que desde el año 2015 hasta el año 2022, el Instituto de la Propiedad (IP) dejó de transferir las recaudaciones a la Cuenta Única del Tesoro (CUT) por un monto de aproximadamente DIECINUEVE MIL MILLONES DE LEMPIRAS EXACTOS (L 19,000.000.00), operando fuera del Presupuesto General de Ingresos y Egresos de la República, como ente externo a la Administración Pública, transgrediendo de esa manera la normativa constitucional y legal, mediante la creación de fideicomisos que administraban fondos públicos, pero estaban ubicados en la banca privada.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-11-2020 publicado en el Diario Oficial “La Gaceta” en fecha 7 de marzo de 2020, edición número 35,194, se creó la Unidad Coordinadora de Proyectos (UCP), adscrita al Fidecomiso para la Administración del Proyecto “Sistema Tecnológico y Logístico para la Administración de los Derechos de Propiedad en la República de Honduras (Fideicomiso SITECIP)”, la cual implementó procesos y mecanismos directos de contratación conforme a sus propios manuales y al margen de la Ley de Contratación del Estado. La UCP fue responsable de la ejecución de proyectos fallidos como el de casas contenedores Lomas del Diamante, mismo que se encuentra bajo investigación de parte del Ministerio Público.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 11-2020 publicado en el Diario Oficial “La Gaceta” en fecha 7 de marzo de 2020, edición número 35,194, se creó la Unidad Coordinadora de Proyectos (UCP), adscrita al Fidecomiso para la Administración del Proyecto “Sistema Tecnológico y Logístico para la Administración de los Derechos de Propiedad en la República de Honduras (Fideicomiso SITECIP)”, la cual implementó procesos y mecanismos directos de contratación conforme a sus propios manuales y al margen de la Ley de Contratación del Estado. La UCP fue responsable de la ejecución de proyectos fallidos como el de casas contenedores Lomas del Diamante, mismo que se encuentra bajo investigación de parte del Ministerio Público.
 
 CONSIDERANDO: Que el Fideicomiso SITEC-IP fue creado bajo la finalidad de “Lograr la transformación digital del Instituto de la Propiedad”, pero el mismo fue desviado para otros fines, como supuestas obras sociales, compras de estufas, de insumos para salones de belleza, de freidoras, de máquinas para asar pollos, para pavimentación de calles, construcción o acondicionamiento de canchas deportivas, construcción de viviendas, e incluso desviado a otros fideicomisos como el FINA 2.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-66-2022 publicado en el Diario Oficial “La Gaceta” en fecha 15 de junio de 2022, edición número 35,950, en su numeral
+CONSIDERANDO: Que mediante Decreto Legislativo No. 66-2022 publicado en el Diario Oficial “La Gaceta” en fecha 15 de junio de 2022, edición número 35,950, en su numeral
 
 \16) fue derogado el Decreto Legislativo No.11-2020 publicado en el Diario Oficial “La Gaceta” en fecha 7 de marzo de 2020, que contenía la creación de la “Fusión de Fideicomiso SITECInstituto de la Propiedad” por lo cual a partir de aquella fecha de derogación no podía ejecutarse ninguna acción en el marco del Fideicomiso.
 
@@ -79,7 +75,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece que el
 
 CONSIDERANDO: Que para la realización de las tareas correspondientes al objetivo del presente Decreto, es necesario el nombramiento de personas idóneas de reconocida integridad, civismo, profesionalismo y competencia en el cumplimiento de sus funciones, llamadas a integrar una Comisión Interventora que actúe bajo los principios de transparencia, eficiencia y racionalidad.
 
-POR TANTO, En uso de las facultades legales establecidas en los artículos 235, 245 numerales 2, 11 y 19; 355 y 363 de la Constitución de la República; artículos 11, 29, 98, 99, 100 de la Ley General de la Administración Pública; artículos 1,033, 1035 y 1036 del Código de Comercio; Decretos Legislativos Número 82- 2004; 11-2020 y 66-2022; y demás aplicables.
+POR TANTO, En uso de las facultades legales establecidas en los artículos 235, 245 numerales 2, 11 y 19; 355 y 363 de la Constitución de la República; artículos 11, 29, 98, 99, 100 de la Ley General de la Administración Pública; artículos 1,033, 1035 y 1036 del Código de Comercio; Decretos Legislativos Número 82-2004; 11-2020 y 66-2022; y demás aplicables.
 
 DECRETA:
 
@@ -139,21 +135,19 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Formular con respecto de los asuntos de su competencia, los proyectos de Leyes, reglamentos y demás actos del Presidente de la República”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional. Ampliándose dicha facultad mediante Decreto Ejecutivo PCM-007-2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional. Ampliándose dicha facultad mediante Decreto Ejecutivo PCM-007-2020.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-100-2021 publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, se reforma el Artículo 10 del Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, estableciendo lo siguiente “El gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del “Sistema de Precios de Paridad de Importación”, cuando lo considere oportuno o conveniente, asimismo, la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, se estableció el “Sistema de Precios de Paridad de Importación” como el mecanismo automático para determinar los Precios Máximos de Venta al Consumidor Final de los Combustibles Derivados del Petróleo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, se estableció el “Sistema de Precios de Paridad de Importación” como el mecanismo automático para determinar los Precios Máximos de Venta al Consumidor Final de los Combustibles Derivados del Petróleo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-085-2016 publicado en el Diario Oficial La Gaceta el 26 de noviembre del 2016, Modificar parcialmente el Artículo 2, literal a) del Decreto Ejecutivo Número PCM- 02-2007, del 13 de enero del 2007, en el sentido de establecer los precios y la fórmula para la Gasolina Superior Sin Plomo y Gasolina Regular Sin Plomo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-085-2016 publicado en el Diario Oficial La Gaceta el 26 de noviembre del 2016, Modificar parcialmente el Artículo 2, literal a) del Decreto Ejecutivo Número PCM-02-2007, del 13 de enero del 2007, en el sentido de establecer los precios y la fórmula para la Gasolina Superior Sin Plomo y Gasolina Regular Sin Plomo.
 
 CONSIDERANDO: Que de acuerdo con el bienestar de la colectividad nacional el Estado por medio del Poder Ejecutivo ha normado los mecanismos necesarios para estabilizar precios del Gas Licuado del Petróleo y los Combustibles Líquidos; y el diferencial resultante ser cancelado en concepto de subsidio.
 
 POR TANTO:
 
-En aplicación de los artículos: 247, 248 de la Constitución de la República; 36 numerales 1, 5, 8, 116, 118, 122 de la Ley General de la Administración Pública; Artículos 3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. Decreto No. 3-2022; Decreto Ejecutivo Número PCM- 02-2007; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo Número PCM-007-2020; Decreto Ejecutivo Número PCM-085-2016; Decreto Ejecutivo PCM-062-2017;
+En aplicación de los artículos: 247, 248 de la Constitución de la República; 36 numerales 1, 5, 8, 116, 118, 122 de la Ley General de la Administración Pública; Artículos 3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. Decreto No. 3-2022; Decreto Ejecutivo Número PCM-02-2007; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo Número PCM-007-2020; Decreto Ejecutivo Número PCM-085-2016; Decreto Ejecutivo PCM-062-2017;
 
 Decreto Ejecutivo PCM-100-2021; Acuerdo No. 041-2017 y demás aplicables.
 
@@ -161,9 +155,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Incluir dentro del Sistema Precios Paridad de Importación, establecido mediante Decreto Ejecutivo No.
-
-PCM-02-2007, Gaceta No. 31,2007 de fecha 20 de enero del 2007, y sus modificaciones, un nuevo combustible para venta al público en estaciones de servicio, denominado: Gasolina Superior sin Plomo de 97 RON mínimo (o Gasolina sin Plomo de 97 RON mínimo).
+ARTÍCULO 1.- Incluir dentro del Sistema Precios Paridad de Importación, establecido mediante Decreto Ejecutivo No. PCM-02-2007, Gaceta No. 31,2007 de fecha 20 de enero del 2007, y sus modificaciones, un nuevo combustible para venta al público en estaciones de servicio, denominado: Gasolina Superior sin Plomo de 97 RON mínimo (o Gasolina sin Plomo de 97 RON mínimo).
 
 #### Artículo 2
 
@@ -171,7 +163,7 @@ ARTÍCULO 2.- Este nuevo combustible cumplirá con todos los procedimientos indi
 
 #### Artículo 3
 
-ARTÍCULO 3.- Para este nuevo combustible se modifica parcialmente el Artículo 1 del Decreto Ejecutivo PCM-085- 2016, Gaceta No. 34,197 de fecha 26 de noviembre del 2016, el cual se leerá de la siguiente forma:
+ARTÍCULO 3.- Para este nuevo combustible se modifica parcialmente el Artículo 1 del Decreto Ejecutivo PCM-085-2016, Gaceta No. 34,197 de fecha 26 de noviembre del 2016, el cual se leerá de la siguiente forma:
 
 Modificar parcialmente el Artículo 2, literal a) del Decreto Ejecutivo Número PCM-02-2007, del 13 de enero del 2007, el cual se leerá así: a) Gasolina Superior sin Plomo, cuyo precio FOB de referencia para la Costa Atlántica y Costa Pacífica en centavos de US$ dólar por galón, será el promedio de veintidós (22) días de precios medios entre valores “high” y “low” publicados diariamente por Platts para los mercados de la Costa del Golfo de los Estados Unidos de América (USGC) Waterborne, de la Gasolina “Unleaded 93 non supplemental”, y Gasolina Regular “Unleaded 87 non supplemental”, basado en la siguiente fórmula:
 
@@ -185,7 +177,7 @@ UNLEADED 93+ [1/6 (UNLEADED 87 - UNLEADED
 
 Valores en centavos en US$ por galón.
 
-La anterior modificación no implica la derogatoria de las reformas que haya sufrido Decreto Ejecutivo Número PCM- 02-2007, del 13 de enero del 2007, en tanto no se le opongan.
+La anterior modificación no implica la derogatoria de las reformas que haya sufrido Decreto Ejecutivo Número PCM-02-2007, del 13 de enero del 2007, en tanto no se le opongan.
 
 #### Artículo 4
 

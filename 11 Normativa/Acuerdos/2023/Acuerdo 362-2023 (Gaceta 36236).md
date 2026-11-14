@@ -8,7 +8,7 @@ gaceta_numero: 36236
 gaceta_fecha: "2023-05-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)|La Gaceta 36236]]"
 paginas: "A. 2 - 3"
-sumario: "Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023"
+sumario: "Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230524-36236/download"
 extraido: "2026-11-14"
 huella: "3e67fe9d34d5c9d5"
@@ -23,7 +23,7 @@ huella: "3e67fe9d34d5c9d5"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)\|La Gaceta 36236]] del 2023-05-24 |
 | Páginas | A. 2 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023 |
 
 ## Texto
 

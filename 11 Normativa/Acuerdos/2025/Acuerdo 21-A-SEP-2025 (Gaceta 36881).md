@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo No. 21-A-SEP-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250704-36881/download"
 extraido: "2026-11-10"
-huella: "acdb7140fcb85867"
+huella: "77ddd9e9307443d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 21-A-SEP-2025
@@ -33,11 +33,9 @@ CONSIDERANDO:
 
 Que, la Ley General de la Administración Pública en su artículo 11 establece que la Presidencia de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, de la cual el Instituto Nacional de Estadística (INE) forma parte.
 
-CONSIDERANDO: Que, el Instituto Nacional de Estadística (INE), fue creado mediante el Decreto Legislativo No.
+CONSIDERANDO: Que, el Instituto Nacional de Estadística (INE), fue creado mediante el Decreto Legislativo No. 86-2000, con el objeto de realizar mediciones estadísticas sobre el comportamiento de las principales variables macro y microeconómicos y sociales del país y para lograr sus objetivos, así como, el cumplimiento de sus atribuciones y funciones, cuenta con una estructura organizativa encabezada por un Consejo Directivo, que es presidido por la Secretaría de Estado en el Despacho de la Presidencia, e integrado por otras Secretarías de Estado y por la Dirección Ejecutiva del Instituto, quien actúa como Secretario.
 
-86-2000, con el objeto de realizar mediciones estadísticas sobre el comportamiento de las principales variables macro y microeconómicos y sociales del país y para lograr sus objetivos, así como, el cumplimiento de sus atribuciones y funciones, cuenta con una estructura organizativa encabezada por un Consejo Directivo, que es presidido por la Secretaría de Estado en el Despacho de la Presidencia, e integrado por otras Secretarías de Estado y por la Dirección Ejecutiva del Instituto, quien actúa como Secretario.
-
-CONSIDERANDO: Que, en el sistema público o gubernamental los auditores internos, están supeditados a las regulaciones estipuladas por el Tribunal Superior de Cuentas (TSC) y la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI) y particularmente, en lo que se refiere a su periodo en funciones, los cargos serán por el periodo de cinco años, pudiendo ser ratificados por otro periodo igual, esto al tenor de lo estipulado en el artículo 8 del Reglamento de Auditoría Interna, emitido mediante el Acuerdo Administrativo TSC No.005/2008.
+CONSIDERANDO: Que, en el sistema público o gubernamental los auditores internos, están supeditados a las regulaciones estipuladas por el Tribunal Superior de Cuentas (TSC) y la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI) y particularmente, en lo que se refiere a su periodo en funciones, los cargos serán por el periodo de cinco años, pudiendo ser ratificados por otro periodo igual, esto al tenor de lo estipulado en el artículo 8 del Reglamento de Auditoría Interna, emitido mediante el Acuerdo Administrativo TSC No. 005/2008.
 
 CONSIDERANDO: Que, en cuanto al salario de los auditores internos en las Instituciones Públicas, este será determinado por la máxima autoridad ejecutiva de cada entidad, en coordinación con la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI) y conforme a las disposiciones del Manual de Clasificación de Puestos y Salarios aplicable a cada institución, en este caso, gestión que deberá realizar el Director Ejecutivo del Instituto Nacional de Estadística (INE).
 

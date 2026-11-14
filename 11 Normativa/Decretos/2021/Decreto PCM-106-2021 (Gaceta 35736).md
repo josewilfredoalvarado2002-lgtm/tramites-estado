@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-106-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211003-35736/download"
 extraido: "2026-11-14"
-huella: "b669cbdde02511a2"
+huella: "a1667f1665cc3197"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-106-2021
@@ -51,7 +51,7 @@ Convención Americana Sobre Derechos Humanos: Artículo 27; Pacto Internacional 
 
 #### Artículo 4
 
-Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33- 2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020 y Decreto Ejecutivo número PCM-104-2021.
+Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020 y Decreto Ejecutivo número PCM-104-2021.
 
 DECRETA:
 
@@ -59,7 +59,7 @@ DECRETA:
 
 ARTÍCULO 1.- Reformar el artículo 1 en su párrafo primero, y el artículo 5 del Decreto Ejecutivo Número PCM-104-2021, publicado en el Diario Oficial “La Gaceta” de fecha 26 de septiembre del 2021, Edición N° 35,729, los cuales deben leerse de la manera siguiente:
 
-“ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM-102-2021, publicado en el Diario Oficial “La Gaceta” en fecha diecinueve (19) de septiembre del 2021, Edición No.35,722. Dicha restricción será efectiva por un plazo de cuatro (04) días a partir del lunes veintisiete (27) de septiembre hasta el jueves treinta (30) de septiembre del 2021.
+“ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM-102-2021, publicado en el Diario Oficial “La Gaceta” en fecha diecinueve (19) de septiembre del 2021, Edición No. 35,722. Dicha restricción será efectiva por un plazo de cuatro (04) días a partir del lunes veintisiete (27) de septiembre hasta el jueves treinta (30) de septiembre del 2021.
 
 Como la ….
 

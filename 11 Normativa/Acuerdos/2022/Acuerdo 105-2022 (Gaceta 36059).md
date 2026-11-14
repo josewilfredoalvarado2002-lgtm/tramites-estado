@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Acuerdos Ministeriales Nos. 099-2022, 100-2022, 101-2022, 102-2022, 103-2022, 104-2022, 105-2022, 106-2022, 107-2022, 108-2022, 112-2022, 113-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "e6a046f641ebd5e6"
+huella: "683584bcb5c93ea2"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 105-2022
@@ -29,7 +29,7 @@ huella: "e6a046f641ebd5e6"
 
 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO
 
-CONSIDERANDO: Que mediante Decreto No. 266- 2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio, (hoy denominada Secretaría de Estado en el Despacho de Desarrollo Económico).
+CONSIDERANDO: Que mediante Decreto No. 266-2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio, (hoy denominada Secretaría de Estado en el Despacho de Desarrollo Económico).
 
 CONSIDERANDO: Que corresponde a los Secretaríos de Estado las atribuciones comunes previstas en el Artículo 36 de la Ley General de la Administración Pública el conocimiento y resolución de los asuntos del ramo, pudiendo delegar el conocimiento de atribuciones específicas en los Subsecretarios, Secretarios Generales, y Directores Generales.
 

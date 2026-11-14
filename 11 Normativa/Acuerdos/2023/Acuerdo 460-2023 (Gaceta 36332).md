@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdos Ejecutivos Nos. 131-2023, 153-2023, 154-2023, 156-2023, 161-2023, 162-2023, 163-2023, 164-2023, 168-2023, 172-2023, 177-2023, 179-2023, Acuerdo No. 546-2023, 547-2023, 460-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230912-36332/download"
 extraido: "2026-11-14"
-huella: "9319c0de6971e9b6"
+huella: "d85218c992f15a02"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 460-2023
@@ -31,7 +31,7 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALI
 
 CONSIDERANDO: Que nuestro marco legal vigente expresamente determina que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias, dictados por el órgano competente.
 
-CONSIDERANDO: Que mediante Acuerdo No. 204- 2023, publicado en el Diario Oficial La Gaceta, en fecha 18 de febrero del año 2023, edición No. 36,159, se delegó en el ciudadano RODOLFO ARTURO HERNÁNDEZ ZAVALA, Auditor Interno I, como encargado de la Unidad de Auditoría Interna de esta Secretaría de Estado, con vigencia del 13 de febrero al 31 de mayo del año 2023.
+CONSIDERANDO: Que mediante Acuerdo No. 204-2023, publicado en el Diario Oficial La Gaceta, en fecha 18 de febrero del año 2023, edición No. 36,159, se delegó en el ciudadano RODOLFO ARTURO HERNÁNDEZ ZAVALA, Auditor Interno I, como encargado de la Unidad de Auditoría Interna de esta Secretaría de Estado, con vigencia del 13 de febrero al 31 de mayo del año 2023.
 
 CONSIDERANDO: Que con el objeto de no paralizar las actividades en la Unidad de Auditoría Interna, es necesario ampliar la vigencia del Acuerdo No. 204-2023.
 
@@ -41,7 +41,7 @@ En aplicación de los artículos 246, 247 y 321 y 323 de la Constitución de la 
 
 ACUERDA:
 
-PRIMERO: Ampliar la vigencia del Acuerdo No. 204- 2023, publicado en el Diario Oficial La Gaceta, en fecha 18 de febrero del año 2023, edición No. 36,159, que contiene la delegación en el ciudadano RODOLFO ARTURO HERNÁNDEZ ZAVALA, como encargado de la Unidad de Auditoría Interna de esta Secretaría de Estado, del 31 de mayo del 2023 hasta que sea nombrado(a) el titular de esa Unidad.
+PRIMERO: Ampliar la vigencia del Acuerdo No. 204-2023, publicado en el Diario Oficial La Gaceta, en fecha 18 de febrero del año 2023, edición No. 36,159, que contiene la delegación en el ciudadano RODOLFO ARTURO HERNÁNDEZ ZAVALA, como encargado de la Unidad de Auditoría Interna de esta Secretaría de Estado, del 31 de mayo del 2023 hasta que sea nombrado(a) el titular de esa Unidad.
 
 SEGUNDO: El ciudadano Hernández Zavala, será responsable por el ejercicio de la facultad de funciones que le ha sido delegada.
 

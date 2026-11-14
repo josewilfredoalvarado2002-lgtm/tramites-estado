@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220103-35812/download"
 extraido: "2026-11-14"
-huella: "ece33a2120e8260d"
+huella: "872b41ef9927fdff"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-103-2021
@@ -29,9 +29,7 @@ huella: "ece33a2120e8260d"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
@@ -45,9 +43,7 @@ POR TANTO: En usos de las facultades de que está investido y en aplicación de 
 
 ACUERDA:
 
-PRIMERO: Delegar en la Ingeniera XIOMARA PINTO AVILA en el período comprendido del veintisiete (27) de diciembre de dos mil veintiuno (2021) al seis (06) de enero de dos mil veintidós (2022), las funciones, potestades y atribuciones, comprendidas en los artículos 29 y 30 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contenido en Decreto Ejecutivo No.
-
-PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio de 1997).
+PRIMERO: Delegar en la Ingeniera XIOMARA PINTO AVILA en el período comprendido del veintisiete (27) de diciembre de dos mil veintiuno (2021) al seis (06) de enero de dos mil veintidós (2022), las funciones, potestades y atribuciones, comprendidas en los artículos 29 y 30 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contenido en Decreto Ejecutivo No. PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio de 1997).
 
 SEGUNDO: Delegar asimismo durante el período antes indicado a la Ingeniera XIOMARA PINTO AVILA, las funciones, potestades, atribuciones y responsabilidades que corresponden a la Dirección General de Energía Renovable y Eficiencia Energética. En virtud de esta delegación y durante su vigencia, la delegada efectuará la coordinación de trabajo con el recurso humano asignado a la Dirección General de Energía Renovable y Eficiencia Energética (DGEREE).
 

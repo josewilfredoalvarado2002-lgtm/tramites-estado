@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 278-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260117-37046/download"
 extraido: "2026-11-09"
-huella: "61ab45ff199d58e0"
+huella: "c32234966f6c026a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 278-2025
@@ -55,11 +55,9 @@ CONSIDERANDO: Que de conformidad a lo establecido en la Ley sobre Normas de Cont
 
 Esta Ley establece los principios generales aplicables en esta materia, como ser las Normas Internacionales de Información Financiera (NIIF´s), así como las Normas Internacionales de Auditoria (NIA´s). Lo anterior, respalda la creación del Plan Estratégico de Convergencia de las Normas de Contabilidad para el Sector Público (NICSP) a las Normas de Contabilidad al Sector Público de Honduras (NCASPH).
 
-CONSIDERANDO: Que la Resolución No. JTNCA 073- 12/2024 de fecha 12 de diciembre del año 2024 emitida por la Junta Técnica de Normas de Contabilidad y Auditoría (JUNTEC), ordena en su parte dispositiva establecer la implementación de las Normas de Contabilidad para el Sector Público (NICSP), a través de las Normas Contables Aplicadas al Sector Público en Honduras (NCASPH), en las Instituciones del Sector Público, a excepción de las Empresas del Sector Público que deben adoptar NIIF y entes regulados por la Comisión Nacional de Bancos y Seguros (CNBS), quienes aplican su propio marco regulatorio. Asimismo, que la Contaduría General de la República elaborará un marco contable denominado Normas de Contabilidad Aplicadas al Sector Público en Honduras (NCASPH) con la finalidad de facilitar el proceso de implementación por convergencia a las Normas Internacionales de Contabilidad para el Sector Público (NICSP).
+CONSIDERANDO: Que la Resolución No. JTNCA 073-12/2024 de fecha 12 de diciembre del año 2024 emitida por la Junta Técnica de Normas de Contabilidad y Auditoría (JUNTEC), ordena en su parte dispositiva establecer la implementación de las Normas de Contabilidad para el Sector Público (NICSP), a través de las Normas Contables Aplicadas al Sector Público en Honduras (NCASPH), en las Instituciones del Sector Público, a excepción de las Empresas del Sector Público que deben adoptar NIIF y entes regulados por la Comisión Nacional de Bancos y Seguros (CNBS), quienes aplican su propio marco regulatorio. Asimismo, que la Contaduría General de la República elaborará un marco contable denominado Normas de Contabilidad Aplicadas al Sector Público en Honduras (NCASPH) con la finalidad de facilitar el proceso de implementación por convergencia a las Normas Internacionales de Contabilidad para el Sector Público (NICSP).
 
-CONSIDERANDO: Que la Junta Técnica de Normas de Contabilidad y Auditoría (JUNTEC), aprobó el Plan Estratégico de convergencia hacia las Normas Internacionales de Contabilidad para el Sector Público (NICSP) a través de las Normas de Contabilidad Aplicadas al Sector Público de Honduras (NCASPH), mediante Resolución JTNCA No.029- 05-2025 de fecha 29 de mayo de 2025, dando cumplimiento a la Recomendación No. 4 del Informe de Auditoría No.
-
-001-2024 VDP del Tribunal Superior de Cuentas (TSC).
+CONSIDERANDO: Que la Junta Técnica de Normas de Contabilidad y Auditoría (JUNTEC), aprobó el Plan Estratégico de convergencia hacia las Normas Internacionales de Contabilidad para el Sector Público (NICSP) a través de las Normas de Contabilidad Aplicadas al Sector Público de Honduras (NCASPH), mediante Resolución JTNCA No. 029-05-2025 de fecha 29 de mayo de 2025, dando cumplimiento a la Recomendación No. 4 del Informe de Auditoría No. 001-2024 VDP del Tribunal Superior de Cuentas (TSC).
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdo No. SAG-060-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210508-35593/download"
 extraido: "2026-11-14"
-huella: "c677fad26e69945c"
+huella: "758b7c5e46667f74"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-060-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que en fecha 18 de Diciembre del 2017, fue suscrito el Acuerdo de 
 
 A/S).
 
-CONSIDERANDO: Que en fecha 14 de Diciembre 2018 se suscribe Adenda No. 1 al Contrato Comercial de Suministro, Obras y Servicios Conexos No. SAG-001- 2013 para Proyecto de Transformación en la Ribera del Río Aguán.
+CONSIDERANDO: Que en fecha 14 de Diciembre 2018 se suscribe Adenda No. 1 al Contrato Comercial de Suministro, Obras y Servicios Conexos No. SAG-001-2013 para Proyecto de Transformación en la Ribera del Río Aguán.
 
 CONSIDERANDO: Que 22 de Julio del 2019 se suscribe Adenda No. 2 al Contrato Comercial de Suministro, Obras y Servicios Conexos No. SAG-001-2013 para Proyecto de Transformación en la Ribera del Río Aguán.
 
@@ -401,13 +401,13 @@ ANEXOS
 
 2. BOLETA DE IDENTIFICACIÓN DE ÁREAS POTENCIALES PARA EL DESARROLLO DEL PROYECTO
 
-3. C O M P R O B A N T E D E L PA G O D E CONTRAPARTIDA
+3. COMPROBANTE DEL PA G O D E CONTRAPARTIDA
 
 4. CONVENIO DE DONACION CONDICIONADA PARA ADQUISICION DE EQUIPO DE RIEGO
 
 5. ACTA DE ENTREGA Y RECEPCIÓN DE EQUIPO
 
-6. C O N S TA N C I A D E I N S TA L A C I O N , FUNCIONAMIENTO Y CAPACITACIÓN EN EL USO, MANEJO, MANTENIMIENTO Y OPERACIÓN DEL EQUIPO DE RIEGO
+6. CONS TA N C I A D E I N S TA LA CION, FUNCIONAMIENTO Y CAPACITACIÓN EN EL USO, MANEJO, MANTENIMIENTO Y OPERACIÓN DEL EQUIPO DE RIEGO
 
 7. CONDICIONES ESPECIALES DE PAGO DE CONTRAPARTIDA FICHA DE SOLICITUD DE SISTEMA DE RIEGO DEL PROYECTO DE TRANSFORMACIÓN EN REGADÍO EN LA RIBERA DEL RÍO AGUAN.
 
@@ -473,7 +473,7 @@ Cultivo Existente: _______________________ Cultivo a Implementar: ______________
 
 (SAG) Y EL PRODUCTOR BENEFICIARIO (PB).
 
-Nosotros: MAURICIO GUEVARA PINTO, mayor de edad, casado, Ingeniero Agrónomo, hondureño, con Tarjeta de Identidad Número 0801-1969-01452 y de este domicilio, actuando en su condición de Secretario de Estado en los Despachos de la Secretaría de Agricultura y Ganadería (SAG), nombrado mediante Acuerdo del Poder Ejecutivo No. 156- 2018 de fecha 02 de mayo de 2018, quien para efectos de este Convenio se denominará como LA SAG y xxxxxx, mayor de edad, ESTADO CIVIL, hondureño, PROFESIÓN, Tarjeta de Identidad Número, Registro Tributario Nacional Número, y con domicilio en el lugar denominado _________, quien en adelante se dominará como el Productor Beneficiario (PB), ambos en pleno goce de sus facultades civiles, convenimos celebrar el presente Convenio de Donación condicionada para la adquisición de equipo de riego mediante el Proyecto de Transformación en Regadío en la Ribera del Río Aguán, aprobado mediante Decreto No.XXX-20XX y conforme a las Cláusulas y Condiciones siguientes:
+Nosotros: MAURICIO GUEVARA PINTO, mayor de edad, casado, Ingeniero Agrónomo, hondureño, con Tarjeta de Identidad Número 0801-1969-01452 y de este domicilio, actuando en su condición de Secretario de Estado en los Despachos de la Secretaría de Agricultura y Ganadería (SAG), nombrado mediante Acuerdo del Poder Ejecutivo No. 156-2018 de fecha 02 de mayo de 2018, quien para efectos de este Convenio se denominará como LA SAG y xxxxxx, mayor de edad, ESTADO CIVIL, hondureño, PROFESIÓN, Tarjeta de Identidad Número, Registro Tributario Nacional Número, y con domicilio en el lugar denominado _________, quien en adelante se dominará como el Productor Beneficiario (PB), ambos en pleno goce de sus facultades civiles, convenimos celebrar el presente Convenio de Donación condicionada para la adquisición de equipo de riego mediante el Proyecto de Transformación en Regadío en la Ribera del Río Aguán, aprobado mediante Decreto No.XXX-20XX y conforme a las Cláusulas y Condiciones siguientes:
 
 CLÁUSULA PRIMERA: ANTECEDENTES
 
@@ -485,7 +485,7 @@ CLÁUSULA SEGUNDA: OBJETO DEL CONVENIO
 
 El presente convenio tiene como objeto proporcionar al productor beneficiario un sistema de riego condicionado mediante el Proyecto de Transformación en Regadío en la Rivera del Río Aguán, para un módulo de 10 hectáreas de terreno, que incluye lo siguiente:
 
-“Suministro de Unidad de Riego de 10 Ha con Cañones Viajeros para Agua Superficial” 1 MOTOBOMBA 8.5 BAR – 36M3/H MTB KOHLER BKC- 013-AP/D MR65 - 3/3C KDI1903 2000RPM BOMBA CAPRARI MULTICELULAR MEC-MR65 - 3/3CE KIT ROMELQUE NO HOMOLOGADO MTB 1500 TEJADILLO DE PROTECCION CHASIS 1300 KIT DEPOSITO 400 LITROS FILTRO COMPLETO DECANTADOR PRELINE 270 SIN SENSOR KIT CEBADO AUTOMATICO BOMBA GASES ESCAPE CUADRO DIGITAL IL – IPC MANUAL+ AUTOMATICO KIT PARADA BAJA PRESION BOMBA AGUA KIT PARADA ALTA PRESION BOMBA AGUA Características:
+“Suministro de Unidad de Riego de 10 Ha con Cañones Viajeros para Agua Superficial” 1 MOTOBOMBA 8.5 BAR – 36M3/H MTB KOHLER BKC-013-AP/D MR65 - 3/3C KDI1903 2000RPM BOMBA CAPRARI MULTICELULAR MEC-MR65 - 3/3CE KIT ROMELQUE NO HOMOLOGADO MTB 1500 TEJADILLO DE PROTECCION CHASIS 1300 KIT DEPOSITO 400 LITROS FILTRO COMPLETO DECANTADOR PRELINE 270 SIN SENSOR KIT CEBADO AUTOMATICO BOMBA GASES ESCAPE CUADRO DIGITAL IL – IPC MANUAL+ AUTOMATICO KIT PARADA BAJA PRESION BOMBA AGUA KIT PARADA ALTA PRESION BOMBA AGUA Características:
 
 -
 
@@ -779,7 +779,7 @@ NOMBRE COMPLETO DEL BENEFICIARIO
 
 Secretario de Estado en los Despachos de la Secretaría de Agricultura y Ganadería (SAG) ID: XXXX-XXXX-XXXXX Productor Beneficiario ACTA DE ENTREGA Y RECEPCIÓN DE EQUIPO, PROYECTO DE TRANSFORMACIÓN EN REGADÍO EN LA RIBERA DEL RÍO AGUAN Lugar de Entrega:
 
-________________________________________________________________________________ Nombre del Beneficiario/Grupo:__________________________________________________________________ Entrega de equipo #:_____________________ “ENTREGA DE UNIDAD DE RIEGO DE 10 HA CON CAÑONES VIAJEROS PARA AGUA SUPERFICIAL”  1 MOTOBOMBA 8.5 BAR – 36M3/H, MÁS SUS COMPLEMENTOS: _______________ Número de serie de la Motobomba: ________________________________________ MTB KOHLER BKC- 013-AP/D MR65 - 3/3C KDI1903 2000RPM BOMBA CAPRARI MULTICELULAR MEC-MR65 - 3/3CE KIT ROMELQUE NO HOMOLOGADO MTB 1500 TEJADILLO DE PROTECCION CHASIS 1300 KIT DEPOSITO 400 LITROS FILTRO COMPLETO DECANTADOR PRELINE 270 SIN SENSOR KIT CEBADO AUTOMATICO BOMBA GASES ESCAPE CUADRO DIGITAL IL – IPC MANUAL+ AUTOMATICO KIT PARADA BAJA PRESION BOMBA AGUA KIT PARADA ALTA PRESION BOMBA AGUA Características:
+________________________________________________________________________________ Nombre del Beneficiario/Grupo:__________________________________________________________________ Entrega de equipo #:_____________________ “ENTREGA DE UNIDAD DE RIEGO DE 10 HA CON CAÑONES VIAJEROS PARA AGUA SUPERFICIAL”  1 MOTOBOMBA 8.5 BAR – 36M3/H, MÁS SUS COMPLEMENTOS: _______________ Número de serie de la Motobomba: ________________________________________ MTB KOHLER BKC-013-AP/D MR65 - 3/3C KDI1903 2000RPM BOMBA CAPRARI MULTICELULAR MEC-MR65 - 3/3CE KIT ROMELQUE NO HOMOLOGADO MTB 1500 TEJADILLO DE PROTECCION CHASIS 1300 KIT DEPOSITO 400 LITROS FILTRO COMPLETO DECANTADOR PRELINE 270 SIN SENSOR KIT CEBADO AUTOMATICO BOMBA GASES ESCAPE CUADRO DIGITAL IL – IPC MANUAL+ AUTOMATICO KIT PARADA BAJA PRESION BOMBA AGUA KIT PARADA ALTA PRESION BOMBA AGUA Características:
 
 -
 

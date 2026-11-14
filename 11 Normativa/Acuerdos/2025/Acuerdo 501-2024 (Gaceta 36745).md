@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos SETRASS No. 501-2024, 568-2024, 569-2024, 573-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250121-36745/download"
 extraido: "2026-11-13"
-huella: "34688e8d0594697f"
+huella: "ef14036b8da0c778"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETRASS No. 501-2024
@@ -29,7 +29,7 @@ huella: "34688e8d0594697f"
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL.
 
-CONSIDERANDO (1): Que el Decreto Legislativo No. 178- 2016 publicado en el Diario Oficial “La Gaceta Núm. 34,290, de fecha quince (15) de marzo del año dos mil diecisiete (2017), aprueba la Ley de Inspección de Trabajo la cual, tiene por objeto regular el Sistema Integrado de Inspección de Trabajo y de Seguridad Social; promover, vigilar y garantizar que patronos y trabajadores cumplan y respeten todas las disposiciones legales relativas al trabajo, previsión social, normas laborales, seguridad y salud en el trabajo y las relativas a la seguridad social.
+CONSIDERANDO (1): Que el Decreto Legislativo No. 178-2016 publicado en el Diario Oficial “La Gaceta Núm. 34,290, de fecha quince (15) de marzo del año dos mil diecisiete (2017), aprueba la Ley de Inspección de Trabajo la cual, tiene por objeto regular el Sistema Integrado de Inspección de Trabajo y de Seguridad Social; promover, vigilar y garantizar que patronos y trabajadores cumplan y respeten todas las disposiciones legales relativas al trabajo, previsión social, normas laborales, seguridad y salud en el trabajo y las relativas a la seguridad social.
 
 CONSIDERANDO (2): Que mediante Acuerdo SETRASS No. 625-2023 publicado en el Diario Oficial “La Gaceta” No. 36,438, de fecha diecinueve (19) de enero del año dos mil veinticuatro (2024), se acordó “Aprobar el Sistema Hondureño de Casos Laborales (SIHCAL), como una herramienta de apoyo a los Servicios que presta la Secretaría de Trabajo y Seguridad Social (SETRASS), para la vinculación, registro y documentación electrónica del Sistema Simplificado Nacional de Patronos y Empleadores (RNSP) y otorgar a los Patronos y/o Centros de Trabajo un plazo de seis (6) meses a partir de la publicación del presente Acuerdo para proceder a la Inscripción en el Sistema de Registro Nacional Simplificado de Patronos en la página web https://empleadores.trabajo.gob.hn/”.
 
@@ -49,7 +49,7 @@ En uso de las facultades otorgadas mediante Acuerdo Ejecutivo No. 168-2024 de fe
 
 ACUERDA
 
-PRIMERO: Extender por tres (3) meses el plazo establecido en el Acuerdo SETRASS No.625-2023. Esta prórroga vence el veinte (20) de octubre de dos mil veinticuatro (2024), para proceder a la Inscripción en el Sistema de Registro Nacional Simplificado de Patronos, con el objetivo de brindar la oportunidad a quienes no se han registrado en el sistema y puedan realizar el proceso y adjuntar la documentación correspondiente.
+PRIMERO: Extender por tres (3) meses el plazo establecido en el Acuerdo SETRASS No. 625-2023. Esta prórroga vence el veinte (20) de octubre de dos mil veinticuatro (2024), para proceder a la Inscripción en el Sistema de Registro Nacional Simplificado de Patronos, con el objetivo de brindar la oportunidad a quienes no se han registrado en el sistema y puedan realizar el proceso y adjuntar la documentación correspondiente.
 
 SEGUNDO: Incrementar los espacios presenciales y virtuales para capacitar a los empleadores en el proceso de inscripción al Sistema de Registro Nacional Simplificado de Patronos.
 

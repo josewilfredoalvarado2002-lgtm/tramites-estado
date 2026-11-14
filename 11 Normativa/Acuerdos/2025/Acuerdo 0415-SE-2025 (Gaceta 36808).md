@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 0415-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250404-36808/download"
 extraido: "2026-11-11"
-huella: "11aa8ccef20a5fda"
+huella: "42d2621ef76c3dc8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0415-SE-2025
@@ -41,13 +41,13 @@ CONSIDERANDO: Que según Acuerdo No. 1378-SE-2014.
 
 Artículo 5, inciso “c”, de la Ley Fundamental de Educación se debe capacitar a los docentes, para atender a los educandos que planteen otros tipos de demanda educativa: entre otra enseñanza de idiomas.
 
-CONSIDERANDO: Que según Acuerdo No. 0707-SE- 2022. Artículo No. 88 del Reglamento Interno de la Junta Nacional y de las Juntas Departamentales de Selección, los Docentes egresados de Lenguas Extranjeras con Orientación Francés, de la Universidad Autónoma de Honduras (UNAH), se nombrarán mediante concurso específico.
+CONSIDERANDO: Que según Acuerdo No. 0707-SE-2022. Artículo No. 88 del Reglamento Interno de la Junta Nacional y de las Juntas Departamentales de Selección, los Docentes egresados de Lenguas Extranjeras con Orientación Francés, de la Universidad Autónoma de Honduras (UNAH), se nombrarán mediante concurso específico.
 
 CONSIDERANDO: Que los centros educativos podrán ser monolingües, bilingües o multilingües y desarrollando estándares curriculares oficiales conforme la norma establecida por la Secretaría de Estado en el Despacho de Educación en el idioma de su preferencia; entre ellos el idioma inglés y francés.
 
 POR TANTO:
 
-En aplicación de los artículos 80, 151, 173 de la Constitución de la República, Acuerdo No. 1364-SE-2014. Artículo 16, inciso “f”, Acuerdo No. 1378-SE-2014. Artículo 5, inciso “c”, de la Ley Fundamental de Educación, Acuerdo No. 0707-SE- 2022, Artículo 88 del Reglamento Interno de la Junta Nacional y de las Juntas Departamentales de Selección. Artículo 36, numerales 1 y 8 de la Ley General de la Administración Pública y 72 de la Ley de Procedimiento Administrativo.
+En aplicación de los artículos 80, 151, 173 de la Constitución de la República, Acuerdo No. 1364-SE-2014. Artículo 16, inciso “f”, Acuerdo No. 1378-SE-2014. Artículo 5, inciso “c”, de la Ley Fundamental de Educación, Acuerdo No. 0707-SE-2022, Artículo 88 del Reglamento Interno de la Junta Nacional y de las Juntas Departamentales de Selección. Artículo 36, numerales 1 y 8 de la Ley General de la Administración Pública y 72 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 584"
 sumario: "Decreto No. 156-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260917-37248/download"
 extraido: "2026-11-09"
-huella: "42a9f53a0e1e2229"
+huella: "c79bcbf380a0f375"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 156-2026
@@ -51,13 +51,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Aprobar en todas y cada una de sus partes los siguientes Contratos, suscritos por la Alcaldía Municipal del Distrito Central (AMDC):
 
-1. C O N T R ATO N o . 1 6 4 7 / G L A / AMDC/2025.-CODIGO № EME-0014 “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO M E D I A N T E E L C O N T R O L INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” CDE-017-AMDC-100-2024; por un monto total de UN MILLÓN QUINIENTOS SESENTA MIL NOVECIENTOS CINCUENTA Y UN LEMPIRAS CON 87/100 (L.
+1. CONTR ATO N o . 1 6 4 7 / G L A / AMDC/2025.-CODIGO № EME-0014 “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” CDE-017-AMDC-100-2024; por un monto total de UN MILLÓN QUINIENTOS SESENTA MIL NOVECIENTOS CINCUENTA Y UN LEMPIRAS CON 87/100 (L.
 
 1,560,951.87), suscrito el 21 de mayo del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, ASOCIACIÓN DE CONSULTORES EN INGENIERIA, S. DE R.L. (A.C.I., S. DE R.L.); denominado el consultor.
 
@@ -65,15 +65,13 @@ Que literalmente dice:
 
 CONTRATO No. 1647/GLA/AMDC/2025.-
 
-CÓDIGO № EME-0014 “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” Contratación Directa de Emergencia CDE-017-AMDC-100-2024 Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No.
-
-032-2024.
+CÓDIGO № EME-0014 “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” Contratación Directa de Emergencia CDE-017-AMDC-100-2024 Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
 Este contrato se celebra entre:
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Numero 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM- 2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801- 1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERIA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.”.- Contratación Directa de Emergencia No. CDE-017-AMDC-100-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Numero 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERIA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.”.- Contratación Directa de Emergencia No. CDE-017-AMDC-100-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -123,7 +121,7 @@ CLÁUSULA SÉPTIMA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L , E Q U I D A D , T O L E R A N C I A , IMPARCIALIDAD Y DISCRECIÓN C O N L A I N F O R M A C I Ó N CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias: entendiendo estas como aquellas en las que denoten, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intención de alcanzar un propósito inadecuado, incluyendo influenciar en forma inapropiada las acciones de la otra parte. 4.- Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos del Contrato y dejamos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato.
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias: entendiendo estas como aquellas en las que denoten, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intención de alcanzar un propósito inadecuado, incluyendo influenciar en forma inapropiada las acciones de la otra parte. 4.- Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos del Contrato y dejamos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato.
 
 5.- Mantener la debida confidencialidad sobre toda la información a que se tenga acceso por razón del Contrato, y no proporcionarla ni divulgarla a terceros y a su vez, abstenernos de utilizarla para fines distintos. 6.- Aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que se incurra. 7.- Denunciar en forma oportuna ante las autoridades correspondientes cualquier hecho o acto irregular cometido por nuestros empleados o trabajadores, socios o asociados, del cual se tenga un indicio razonable y que pudiese ser constitutivo de responsabilidad civil y/o penal. Lo anterior se extiende a los subcontratistas con los cuales el Contratista o Consultor contrate, así como a los socios, asociados, ejecutivos y trabajadores de aquellos.
 
@@ -131,13 +129,11 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará Lugar:
 
 b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.-
 
-CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA
 
-PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
+PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
 
 \1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
@@ -489,7 +485,7 @@ Las garantías, deberán contener la cláusula siguiente: “Esta Garantía ser�
 
 La Garantía será presentada por el Consultor adjudicado diez
 
-(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -573,13 +569,13 @@ FINAL CANALIZACION
 
 Sector las Jucas, Barrio Morazán.
 
-478321.64 m E 1558786.32 m N No.1 Actividad: Vista aguas debajo de la canalización existente, fotografía tomada desde el puente peatonal a reconstruir.
+478321.64 m E 1558786.32 m N No. 1 Actividad: Vista aguas debajo de la canalización existente, fotografía tomada desde el puente peatonal a reconstruir.
 
-No.2 Actividad: Vista aguas abajo donde finaliza el tramo de canal a reconstruir, en la Quebrada Orejona, Barrio Morazán, Sector Las Jucas.
+No. 2 Actividad: Vista aguas abajo donde finaliza el tramo de canal a reconstruir, en la Quebrada Orejona, Barrio Morazán, Sector Las Jucas.
 
-No.3 Actividad: Vista del tramo de gradas a rehabilitar con la finalidad de mejorar la accesibilidad y rutas de evacuación en este sector en caso de alguna eventualidad meteorológica.
+No. 3 Actividad: Vista del tramo de gradas a rehabilitar con la finalidad de mejorar la accesibilidad y rutas de evacuación en este sector en caso de alguna eventualidad meteorológica.
 
-No.4 Actividad: Vista aguas arriba de la Quebrada La Orejona, de la zona de canalización a intervenir en el punto de inicio.
+No. 4 Actividad: Vista aguas arriba de la Quebrada La Orejona, de la zona de canalización a intervenir en el punto de inicio.
 
 1.5 Objetivos Generales del Proyecto
 
@@ -871,7 +867,7 @@ Artículo 72 de la Ley del Contratación del Estado cobrará una multa equivalen
 
 Gerente de Proyectos, Ingeniero Civil o Arquitecto Ingeniero Residente, Ingeniero Civil Ingeniero Especialista Estructural Ingeniero Especialista en Hidrología Ingeniero Ambiental Detalle del personal asignado al servicio (Apéndice “B”) Nombre Formación Profesional Ingeniero Civil MBA Project Managemesnt Post Grado en Mantenimiento de Esther Aleman Carreteras Mantenimiento de Carreteras Experiencia en Cargo Asignado en su Área (años) el Servicio 39 Gerente de Proyecto Alfredo Berlios Ingeniero Civil 16 Ingeniero Residente Ingeniero Civil Maestria en Ingeniera Cindy Flores Estructural Ingeniero Civil Post Grado en Hidrologia Eddy Nelson Larios Licenciado en Biologia Master en Planificacion y Saulo Romero Desarrollo Turistico 17 Ingeniero Especialista Estructural 43 Ingeniero Especialista en Hidrologia 26 Ingeniero Especialista Ambiental APENDICE C Oferta económica Negociada Formulario No. 5 Detalles de costos (Sobre 2”) ““SUPERVISIÓN DE LAS OBRAS HIDRAULICAS DE ADAPTACION URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZAN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” (Con Código N° EME-0014) N° Descripción Unidad Cantidad Precio Unitario I PERSONAL 1 Remuneraciones Personales 1.1.1 Gerente o director de Proyecto Hombres/mes 5 L 40,000.00 L 200,000.00 1.1.2 Ingeniero Residente Hombres/mes 4 L 40,000.00 L 160,000.00 1.1.3 Ingeniero Especialista Estructural Hombres/mes 2 L 40,000.00 L 80,000.00 1.1.4 ngeniero Especialista en Hidrologia Hombres/mes 2 L 40,000.00 L 80,000.00 1.1.5 Ingeniero Especialista Ambiental Hombres/mes 4 L 40,000.00 L 160,000.00 Sub-total 1 2 Personal Administrativo Auxiliar y Otros L 680,000.00 1.2.1 Administrador Hombres/mes 0.25 L 20,000.00 L 5,000.00 1.2.2 Secretaria Hombres/mes 0.25 L 17,000.00 L 4,250.00 1.2.3 Dibujante AutoCAD Calculista Hombres/mes 0.25 L 20,000.00 L 5,000.00 1.2.4 Motorista Hombres/mes 0.25 L 17,000.00 L 4,250.00 1.2.5 Topógrafo Hombres/mes 0.25 L 25,000.00 L 6,250.00 1.2.6 Cadeneros Hombres/mes 0.25 L 16,000.00 L 4,000.00 1.2.7 Tiempo extra personal de campo (25%) % 25% L 14,500.00 L 3,625.00 Sub-total 2 Sub-Total I L 32,375.00 L 712,375.00 II 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) % 46.23% L712,375.00 L 329,330.96 L329,330.96 III 3.1.1 Servicios públicos de oficina Mes 4 L 2,000.00 L 8,000.00 3.1.2 Papelería y gastos de reproducción Mes 4 L 2,000.00 L 8,000.00 3.1.3 Comunicaciones Mes 3 L 2,000.00 L 6,000.00 3.1.4 Alquiler o depreciación de Oficina Mes 4 L 8,000.00 L 32,000.00 3.1.5 Uso de vehículo Mes 4 L 25,000.00 L 100,000.00 3.1.6 Laboratorio (Sondeos, Densidades, Proctor Std, Granulometría, Resistencia a Compresión) Mes 0.5 L 20,000.00 L 10,000.00 3.1.7 Equipo de topografía Mes 0.5 L 10,000.00 L 5,000.00 L 169,000.00 IV 4.1 20% de (I+II) % 20% L 1,041,705.96 L 208,341.19 L 208,341.19 V 5.1 10% de III % 10% L169,000.00 L 16,900.00 L 16,900.00 VI 6.1 10% de (I+II+IV) % 10% L1,250,047.15 L 125,004.72 L 125,004.72 L 1,560,951.87 GRAN TOTAL
 
-2. LA MODIFICACIÓN No. 1 del C O N T R ATO N o . 1 4 4 8 / G L A / AMDC/2024.- CÓDIGO No. PROD-001 “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA” LPN No. LPuNO- 001-AMDC-019-2024; por un monto total de OCHENTA Y UN MILLONES OCHOCIENTOS NOVENTA Y OCHO MIL NOVENTA Y CINCO LEMPIRAS CON 87/100 (L 81,898,095.87), suscrito el 06 de enero del año 2026, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, HIDALGO E HIDALGO, S.A. DE C.V.; denominado el Contratista. Que literalmente dice:
+2. LA MODIFICACIÓN No. 1 del CONTR ATO N o . 1 4 4 8 / G L A / AMDC/2024.- CÓDIGO No. PROD-001 “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA” LPN No. LPuNO- 001-AMDC-019-2024; por un monto total de OCHENTA Y UN MILLONES OCHOCIENTOS NOVENTA Y OCHO MIL NOVENTA Y CINCO LEMPIRAS CON 87/100 (L 81,898,095.87), suscrito el 06 de enero del año 2026, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, HIDALGO E HIDALGO, S.A. DE C.V.; denominado el Contratista. Que literalmente dice:
 
 MODIFICACIÓN № 1
 
@@ -887,7 +883,7 @@ LPN No. LPuNO-001-
 
 AMDC-019-2024
 
-Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM- 2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor MARCO ALFREDO ALBAN CRESPO, de Nacionalidad Ecuatoriana Mayor de edad, con Pasaporte Número A9557431 quien actúa en su condición de Representante Legal de la sociedad mercantil denominada HIDALGO E HIDALGO, S.A. DE C.V., condición que se acredita mediante Instrumento Público No.318 de fecha 05 de Julio del año 2024; autorizado por el Abogado y Notario Vilma Galdys Guevara Espinal e inscrito bajo el No.91752, Matrícula No.2529184 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado al IP, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA”, con Código No. PROD-001 Licitación Pública Nacional LPN No. LPuNO- 001-AMDC-019-2024., de acuerdo a los términos siguiente:
+Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor MARCO ALFREDO ALBAN CRESPO, de Nacionalidad Ecuatoriana Mayor de edad, con Pasaporte Número A9557431 quien actúa en su condición de Representante Legal de la sociedad mercantil denominada HIDALGO E HIDALGO, S.A. DE C.V., condición que se acredita mediante Instrumento Público No. 318 de fecha 05 de Julio del año 2024; autorizado por el Abogado y Notario Vilma Galdys Guevara Espinal e inscrito bajo el No. 91752, Matrícula No. 2529184 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado al IP, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA”, con Código No. PROD-001 Licitación Pública Nacional LPN No. LPuNO- 001-AMDC-019-2024., de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -903,21 +899,17 @@ DE C.V.
 
 3.- UNIDAD EJECUTORA: Dirección de Control y Seguimiento 4.- FINANCIAMIENTO:
 
-Fondos Municipales C O N S I D E R A N D O # 1 : Q u e la Alcaldía Municipal del Distrito Central suscribió el CONTRATO No. 1448/GLA/AMDC/2024, con fecha Veintidós (22) de mayo del año dos mil veinticuatro (2024), entre el señor Alcalde Municipal del Distrito Central y la Empresa HIDALGO E HIDALGO, S.A. DE C.V., por un monto de SESENTA Y CINCO MILLONES SEISCIENTOS OCHENTA Y DOS MIL DOSCIENTOS CINCUENTA Y DOS LEMPIRAS CON 52/100 (L. 65,682.252.52), y en un plazo de ejecución de trescientos (300) días calendario.
+Fondos Municipales CONSIDERANDO # 1 : Q u e la Alcaldía Municipal del Distrito Central suscribió el CONTRATO No. 1448/GLA/AMDC/2024, con fecha Veintidós (22) de mayo del año dos mil veinticuatro (2024), entre el señor Alcalde Municipal del Distrito Central y la Empresa HIDALGO E HIDALGO, S.A. DE C.V., por un monto de SESENTA Y CINCO MILLONES SEISCIENTOS OCHENTA Y DOS MIL DOSCIENTOS CINCUENTA Y DOS LEMPIRAS CON 52/100 (L. 65,682.252.52), y en un plazo de ejecución de trescientos (300) días calendario.
 
 CONSIDERANDO #2: Que la fecha de orden de inicio del proyecto fue el Cinco (05) de agosto del año dos mil veinticuatro (2024) y con fecha de finalización el Uno (01) de junio del año dos mil veinticinco (2025).
 
 CONSIDERANDO#3: Que se emitió Acta de Suspensión temporal No. 1 en fecha Cinco (05) de mayo del año dos mil veinticinco (2025), por los siguientes motivos: 1.- Durante el proceso de construcción del proyecto se ha detectado zonas en las que las condiciones del terreno natural generan velocidades muy altas en el flujo de la escorrentía causada al llover. Esto produce erosión en varios puntos del proyecto, lo cual repercute en la sedimentación anticipada de las obras hidráulicas de drenaje a lo largo del proyecto, haciendo que estas se acolmaten. La pérdida de capacidad del sistema existente de drenaje pluviales, genera daños en los taludes de relleno de la carretera, 2.- Se requiere tomar en consideración toda la información técnica recopilada y con esta realizar una revisión del estado actual del sistema con las condiciones observadas y diseñar las obras complementarias necesarias para lograr el correcto funcionamiento del sistema, protegiendo las obras terminadas e incrementando la capacidad de funcionamiento del sistema existente, incluyendo las alcantarillas necesarias, obras de canalización, obras de protección contra erosión, así como disipadores de energía en donde sean requeridos para reducir lo más posible la erocion.3.- Considerando que es necesario realizar una optimización al diseño original, se procede con la suspensión del proyecto con el fin de lograr este objetivo así complementar el proyecto original con obras que le aseguren el correcto funcionamiento a la carretera y sus obras de protección contra la escorrentía no controlada. Por lo tanto, se justifica la suspensión temporal No. 1 del proyecto “Solución de pavimentación desde el Tablón hacia Azacualpa” con el objeto realizar la optimización del diseño original, integrando las soluciones técnicas necesarias para el adecuado manejo hidráulico y la protección de la carretera.
 
-CONSIDERANDO #4: Que en fecha Cinco (05) de enero del año Dos mil veintiséis (2026) se emitió Acta de Reinicio, Una vez realizada la evaluación técnica detallada de las condiciones hidráulicas y geotécnicas del proyecto, y con base a la información recopilada durante el periodo de suspensión temporal, se han desarrollado y aprobado las soluciones técnicas necesarias para mitigar los problemas identificados relacionados con la escorrentía no controlada, la erosión y la sedimentación en las obras de drenaje. Estas mejoras han sido formalmente incorporadas al contrato mediante la Modificación No.
-
-1, la cual contempla la optimización del diseño original y la ejecución de obras complementarias clave, tales como la estabilización de la subrasante con cemento, la ampliación y sustitución de tuberías de drenaje pluvial, la construcción de estructuras de protección como muros. Cabezales y disipadores de energía, la instalación de cunetas, así como el suministro y colocación de guardavías tipo HG como medida preventiva para el mejorar la seguridad de los tramos con mayor riesgo de la carretera, garantizando la funcionalidad a largo plazo de la infraestructura vial.
+CONSIDERANDO #4: Que en fecha Cinco (05) de enero del año Dos mil veintiséis (2026) se emitió Acta de Reinicio, Una vez realizada la evaluación técnica detallada de las condiciones hidráulicas y geotécnicas del proyecto, y con base a la información recopilada durante el periodo de suspensión temporal, se han desarrollado y aprobado las soluciones técnicas necesarias para mitigar los problemas identificados relacionados con la escorrentía no controlada, la erosión y la sedimentación en las obras de drenaje. Estas mejoras han sido formalmente incorporadas al contrato mediante la Modificación No. 1, la cual contempla la optimización del diseño original y la ejecución de obras complementarias clave, tales como la estabilización de la subrasante con cemento, la ampliación y sustitución de tuberías de drenaje pluvial, la construcción de estructuras de protección como muros. Cabezales y disipadores de energía, la instalación de cunetas, así como el suministro y colocación de guardavías tipo HG como medida preventiva para el mejorar la seguridad de los tramos con mayor riesgo de la carretera, garantizando la funcionalidad a largo plazo de la infraestructura vial.
 
 Por lo tanto, se justifica el reinicio de las actividades del proyecto “Solución de pavimentación desde el Tablón hacia Azacualpa”, al haberse atendido las causas que motivaron la suspensión.
 
-CONSIDERANDO #5: Que en fecha Veintisiete (27) de octubre del año dos mil veinticinco (2025), la empresa contratada para la ejecución del Proyecto presentó solicitud de Modificación No. 1 al CONTRATO No. 1448/ CLA/AMDC/2024.- Código No.
-
-PROD-001, Proyecto “SOLUCIÓN
+CONSIDERANDO #5: Que en fecha Veintisiete (27) de octubre del año dos mil veinticinco (2025), la empresa contratada para la ejecución del Proyecto presentó solicitud de Modificación No. 1 al CONTRATO No. 1448/ CLA/AMDC/2024.- Código No. PROD-001, Proyecto “SOLUCIÓN
 
 DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA”.
 
@@ -925,15 +917,13 @@ Por lo que remiten presupuesto correspondiente a la modificación No. 1 para apr
 
 CONSIDERANDO #6: Que la Supervisión remitió a la Dirección de Control y Seguimiento en fecha Cinco
 
-(05) de enero del año dos mil veintiséis (2026), solicitud de Modificación No.1 de Proyecto “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA”, con CÓDIGO No. PROD-001, al contrato de construcción, cuyo propósito es disminuir y/o aumentar las cantidades de obra en las actividades originalmente contratadas e incorporar nuevas actividades adicionales en orden de mejorar la integridad del proyecto.
+(05) de enero del año dos mil veintiséis (2026), solicitud de Modificación No. 1 de Proyecto “SOLUCIÓN DE PAVIMENTACIÓN DESDE EL TABLÓN HACIA AZACUALPA”, con CÓDIGO No. PROD-001, al contrato de construcción, cuyo propósito es disminuir y/o aumentar las cantidades de obra en las actividades originalmente contratadas e incorporar nuevas actividades adicionales en orden de mejorar la integridad del proyecto.
 
 Además, se presenta un cuadro resumen de la modificación, memoria de cálculo, justificación geológica en las que se basan ciertas decisiones y la justificación necesaria para validar esta modificación considerando siempre la calidad proyecto. se considera un total en la modificación de L. 16,215,843.35, agregados a los
 
 L. 65,682,252.52 del Monto contractual, teniendo un Total de ochenta y un millones ochocientos noventa y ocho mil noventa y cinco Lempiras con 87/100 (L. 81,898,095.87), considerando un Tiempo Total de 167 días agregados al contrato de construcción, con reinicio el 5 de enero del 2026 y finalizando en fecha 17 de julio del 2026.
 
-CONSIDERANDO #7: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Ampliación de Monto y Tiempo Contractual del CONTRATO No.
-
-1448/GLA/AMDC/2024.- CÓDIGO
+CONSIDERANDO #7: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Ampliación de Monto y Tiempo Contractual del CONTRATO No. 1448/GLA/AMDC/2024.- CÓDIGO
 
 No. PROD-001 “SOLUCIÓN DE
 
@@ -981,9 +971,7 @@ La presente solicitud de modificación se encuentra dentro del marco legal aplic
 
 De aprobarse la solicitud, se autoriza un incremento al monto contractual por la suma de DIECISÉIS MILLONES DOSCIENTOS QUINCE MIL OCHOCIENTOS CUARENTA Y TRES LEMPIRAS CON 35/100 (L. 16,215,843.35), equivalente al 24.69 % del monto original, resultando un nuevo monto contractual de OCHENTA Y UN MILLONES OCHOCIENTOS NOVENTA Y OCHO MIL NOVENTA Y CINCO LEMPIRAS CON 87/100 (L 81,898,095.87), así como una ampliación del plazo contractual de ciento sesenta y siete (167) días calendario, estableciendo como nueva fecha de terminación del proyecto el 17 de julio de 2026, fecha y monto en los cuales el contratista deberá completar la totalidad de las actividades de obra, de conformidad con la Cláusula 53.2 de las Condiciones Generales del Contrato.
 
-En virtud del análisis técnico realizado, se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No. 1 en tiempo y monto del Contrato No.
-
-1448/GLA/AMDC/2024 – CÓDIGO
+En virtud del análisis técnico realizado, se DICTAMINA que es PROCEDENTE la aprobación de la Modificación No. 1 en tiempo y monto del Contrato No. 1448/GLA/AMDC/2024 – CÓDIGO
 
 No. PROD-001 “SOLUCIÓN DE
 
@@ -1019,7 +1007,7 @@ TRES MILLONES CUARENTA MIL OCHOCIENTOS CUARENTA Y CINCO LEMPIRAS CON 02/100 (L. 
 
 CUARTA: Así mismo el Contratista deberá ampliar la Garantía de Cumplimiento de Contrato en relación al monto y plazo, tres (3) meses después de la nueva fecha de Terminación del contrato.
 
-QUINTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+QUINTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos la presente Modificación No. 1 en Dos Ejemplares Originales de conformidad con las Leyes de la República de Honduras, a los seis (06) días del mes de enero del año dos mil veintiséis (2026).
 
@@ -1185,7 +1173,7 @@ Este contrato se celebra entre:
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM- 2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801- 1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERIA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LA ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA, M.D.C.”.- Contratación Directa de Emergencia No. CDE-014-AMDC-097-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERIA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; Autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LA ESTABILIZACIÓN DE TALUD MEDIANTE LA CONFORMACIÓN DE BERMAS Y CONTROL DE ESCORRENTÍAS SUPERFICIALES COL. VILLA NUEVA, SECTOR 7B, TEGUCIGALPA, M.D.C.”.- Contratación Directa de Emergencia No. CDE-014-AMDC-097-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -1231,7 +1219,7 @@ CLÁUSULA SÉPTIMA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L , E Q U I D A D , T O L E R A N C I A , IMPARCIALIDAD Y DISCRECIÓN C O N L A I N F O R M A C I Ó N CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias: entendiendo estas como aquellas en las que denoten, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intención de alcanzar un propósito inadecuado, incluyendo influenciar en forma inapropiada las acciones de la otra parte. 4.- Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos del Contrato y dejamos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato.
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias: entendiendo estas como aquellas en las que denoten, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intención de alcanzar un propósito inadecuado, incluyendo influenciar en forma inapropiada las acciones de la otra parte. 4.- Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos del Contrato y dejamos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato.
 
 5.- Mantener la debida confidencialidad sobre toda la información a que se tenga acceso por razón del Contrato, y no proporcionarla ni divulgarla a terceros y a su vez, abstenernos de utilizarla para fines distintos. 6.- Aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que se incurra. 7.- Denunciar en forma oportuna ante las autoridades correspondientes cualquier hecho o acto irregular cometido por nuestros empleados o trabajadores, socios o asociados, del cual se tenga un indicio razonable y que pudiese ser constitutivo de responsabilidad civil y/o penal. Lo anterior se extiende a los subcontratistas con los cuales el Contratista o Consultor contrate, así como a los socios, asociados, ejecutivos y trabajadores de aquellos.
 
@@ -1239,13 +1227,11 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará Lugar:
 
 b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.
 
-CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA
 
-PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
+PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
 
 \1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
@@ -1629,7 +1615,7 @@ Las garantías, deberán contener la cláusula siguiente: “Esta Garantía ser�
 
 La Garantía será presentada por el Consultor adjudicado diez
 
-(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+(10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -1699,15 +1685,15 @@ Las descargas de las aguas lluvias, residuales y grises de las viviendas aledañ
 
 Tomando en consideración lo anterior las obras finalmente propuestas por la AMDC, para estos sectores tienen como objetivo proteger y evitar la evolución de los fenómenos erosivos que perjudiquen al talud, laderas y las viviendas construidas de esta manera evitar el colapso de sus viviendas y mejorar sus condiciones de vida.
 
-Croquis de ubicación Coordenadas UTM: 482924.00 m E, 1553985.00 m N PUNTO REFERENCIA DE UBICACIÓN 1 FLANCO IZQUIERDO, PARTE BAJA 482766.79 m E 1554100.99 m N 2 FLANCO IZQUIERDO, PARTE MEDIA 482858.61 m E 1554121.93 m N 3 FLANCO IZQUIERDO, PARTE ALTA 482955.01 m E 1554107.03 m N 4 PARTE MEDIA 482989.36 m E 1554094.64 m N 5 PARTE ALTA 483057.88 m E 1554120.23 m N 6 PARTE ALTA 483107.61 m E 1554073.04 m N 7 PARTE ALTA 483110.82 m E 1554044.64 m N 8 PARTE MEDIA, FLANCO DERECHO 483052.09 m E 1553975.10 m N 9 PARTE BAJA, FLANCO IZQUIERDO 482934.83 m E DANLI 482875.7 PARTE BAJA, NIEVEL DE LA CALLE, SALIDA A 2 m E 1 m N Fotografías No.1 Actividad: Tomando muestra de suelo en el Escarpe Fecha:
+Croquis de ubicación Coordenadas UTM: 482924.00 m E, 1553985.00 m N PUNTO REFERENCIA DE UBICACIÓN 1 FLANCO IZQUIERDO, PARTE BAJA 482766.79 m E 1554100.99 m N 2 FLANCO IZQUIERDO, PARTE MEDIA 482858.61 m E 1554121.93 m N 3 FLANCO IZQUIERDO, PARTE ALTA 482955.01 m E 1554107.03 m N 4 PARTE MEDIA 482989.36 m E 1554094.64 m N 5 PARTE ALTA 483057.88 m E 1554120.23 m N 6 PARTE ALTA 483107.61 m E 1554073.04 m N 7 PARTE ALTA 483110.82 m E 1554044.64 m N 8 PARTE MEDIA, FLANCO DERECHO 483052.09 m E 1553975.10 m N 9 PARTE BAJA, FLANCO IZQUIERDO 482934.83 m E DANLI 482875.7 PARTE BAJA, NIEVEL DE LA CALLE, SALIDA A 2 m E 1 m N Fotografías No. 1 Actividad: Tomando muestra de suelo en el Escarpe Fecha:
 
-10/2024 No.4 Actividad: Se observa la presencia de humedad por escorrentías superficiales que saturan y erosionan el talud, acelerando el desprendimiento de bloques.
+10/2024 No. 4 Actividad: Se observa la presencia de humedad por escorrentías superficiales que saturan y erosionan el talud, acelerando el desprendimiento de bloques.
 
-No.5 Actividad: Se observa la presencia de humedad por escorrentías superficiales que saturan y erosionan el talud, acelerando el desprendimiento de bloques.
+No. 5 Actividad: Se observa la presencia de humedad por escorrentías superficiales que saturan y erosionan el talud, acelerando el desprendimiento de bloques.
 
-No.6 Actividad: Se observa el terraplén de contrapeso terminado, como obra preventiva de mitigación por la eventual caída de algún bloque.
+No. 6 Actividad: Se observa el terraplén de contrapeso terminado, como obra preventiva de mitigación por la eventual caída de algún bloque.
 
-No.7 Actividad: Se observa la construcción de la obra preventiva ejecutada por La empresa COSUMO, GeoConsult la cual servirá de contrapeso por el posible desprendimiento de bloques, de la parte alta No.8 Actividad: Se observa la escollera/enrocado de contrapeso terminada, como obra preventiva de mitigación por la eventual caída de algún bloque Objetivos Generales del Proyecto
+No. 7 Actividad: Se observa la construcción de la obra preventiva ejecutada por La empresa COSUMO, GeoConsult la cual servirá de contrapeso por el posible desprendimiento de bloques, de la parte alta No. 8 Actividad: Se observa la escollera/enrocado de contrapeso terminada, como obra preventiva de mitigación por la eventual caída de algún bloque Objetivos Generales del Proyecto
 
 • Estabilizar el talud mediante la conformación de bermas y la impermeabilización con concreto lanzado.
 
@@ -2013,19 +1999,15 @@ Detalle del personal asignado al servicio (Apéndice “B”) Nombre Formación 
 
 No. 1105/GLA/AMDC/2025.-
 
-C Ó D I G O : T E C H O - 0 0 0 4 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA” LPN No.
+CÓDIGO: TECHO - 0 0 0 4 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA” LPN No.
 
 LPuNO-017-AMDC-109-2024; por un monto total de CUARENTA Y UN MILLONES NOVECIENTOS TREINTA Y UN MIL DOSCIENTOS NOVENTA Y TRES LEMPIRAS CON 03/100 (41,931,293.03), suscrito el 8 de septiembre del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, A&V INGENIEROS, S. DE R.L.; denominado el contratista. Que literalmente dice:
 
 MODIFICACIÓN № 1
 
-CONTRATO No.
+CONTRATO No. 1105/GLA/AMDC/2025.- CÓDIGO: TECHO-0004 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA” LICITACIÓN PÚBLICA NACIONAL LPN No.
 
-1105/GLA/AMDC/2025.- CÓDIGO: TECHO-0004 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA” LICITACIÓN PÚBLICA NACIONAL LPN No.
-
-LPuNO-017-AMDC-109-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM- 2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y la señora TANIA YARLENE MURILLO LANZA, de Nacionalidad hondureña, Mayor de edad, Documento Nacional de Identificación No. 0801-1976-03641 del domicilio de Tegucigalpa, M.D.C., en su condición de Gerente General, de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 198 de fecha 07 de Mayo del año 2010; Autorizado por el Abogado y Notario Carlos Alfonso Castro Martínez e inscrito bajo el No.
-
-5874, Matrícula: 2514871 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA”.- CÓDIGO No. TECHO-0004 Licitación Pública Nacional No. LPuNO-017- AMDC-109-2024; de acuerdo a los términos siguiente:
+LPuNO-017-AMDC-109-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y la señora TANIA YARLENE MURILLO LANZA, de Nacionalidad hondureña, Mayor de edad, Documento Nacional de Identificación No. 0801-1976-03641 del domicilio de Tegucigalpa, M.D.C., en su condición de Gerente General, de la Sociedad Mercantil denominada A&V INGENIEROS, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 198 de fecha 07 de Mayo del año 2010; Autorizado por el Abogado y Notario Carlos Alfonso Castro Martínez e inscrito bajo el No. 5874, Matrícula: 2514871 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P, quien en lo sucesivo y para efectos de esta Modificación No. 1 se denominará “EL CONTRATISTA” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 1 al Contrato para el proyecto denominado “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA”.- CÓDIGO No. TECHO-0004 Licitación Pública Nacional No. LPuNO-017- AMDC-109-2024; de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -2053,13 +2035,11 @@ CONSIDERANDO #3: Que en fecha Cinco (05) de septiembre del año dos mil veintici
 
 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA”, la presente solicitud se fundamenta en la necesidad de ajustar el contrato a la demanda real identificada en campo en los territorios intervenidos, considerando las condiciones particulares y la configuración de cada vivienda beneficiaria; en este sentido y atendiendo la dinámica de intervención observada, se requiere ampliar las áreas de intervención por encima de 72m2 cuando sea estrictamente necesario, en función de los requerimientos técnicos y las necesidades reales de las viviendas intervenidas. Este ajuste permite garantizar la funcionalidad y continuidad constructiva de las soluciones implementadas, evitando intervenciones parciales que comprometan el desempeño, la protección y el objetivo social del proyecto.
 
-CONSIDERANDO #4: Que en fecha Ocho (08) de septiembre del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, Informe de solicitud de Modificación No.1 del Proyecto “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA”, con Código No. TECHO-0004., en la cual se realiza un reordenamiento interno de las cantidades de obra ejecutadas y programadas, requiriendo la disminución del monto el –L. 324.31 equivalente a (-0.01%), por lo cual el nuevo monto en la Modificación No. 1 del Proyecto es de
+CONSIDERANDO #4: Que en fecha Ocho (08) de septiembre del año dos mil veinticinco (2025), la Supervisión remitió a la Dirección de Control y Seguimiento, Informe de solicitud de Modificación No. 1 del Proyecto “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL: MARGEN OESTE DEL RÍO CHOLUTECA”, con Código No. TECHO-0004., en la cual se realiza un reordenamiento interno de las cantidades de obra ejecutadas y programadas, requiriendo la disminución del monto el –L. 324.31 equivalente a (-0.01%), por lo cual el nuevo monto en la Modificación No. 1 del Proyecto es de
 
 L. 41,931,293.03.
 
-CONSIDERANDO #5: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Disminución del Monto y cambio de Especificación Técnica del CONTRATO No. 1105/ GLA/AMDC/2025.- CÓDIGO No.
-
-TECHO-0004 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL:
+CONSIDERANDO #5: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 1 por Disminución del Monto y cambio de Especificación Técnica del CONTRATO No. 1105/ GLA/AMDC/2025.- CÓDIGO No. TECHO-0004 “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL:
 
 MARGEN OESTE DEL RÍO
 
@@ -2097,7 +2077,7 @@ b) En concordancia con lo anterior, se deja constancia que la presente Modificac
 
 c) A continuación, se muestra el cuadro resumen de los montos de obra ejecutada, levantada y evaluada y obra requerida para el presente contrato:
 
-Cuadro Resumen Cuadro de Obra Ejecutada 14,742,251.73 Obra Levantada y Evaluada 27,189,041.29 Sub Total 41,931,293.02 Monto del Contrato Original + Orden de Cambio No.1 41,931,617.34 Diferencia
+Cuadro Resumen Cuadro de Obra Ejecutada 14,742,251.73 Obra Levantada y Evaluada 27,189,041.29 Sub Total 41,931,293.02 Monto del Contrato Original + Orden de Cambio No. 1 41,931,617.34 Diferencia
 
 - L. 324.31 Tabla 1. Cuadro Resumen
 
@@ -2119,9 +2099,7 @@ Esta actividad se incrementa en un 63.47% debido a la suma de las cantidades de 
 
 • D.2 3 Sum/Inst. De Canaleta Doble 2 X 4 Pulg Esta actividad se incrementa en 91.04% debido a la incorporación de nuevas longitudes de obra identificadas en el levantamiento, evaluación y proyección de campo, asociadas directamente al incremento de metrajes de cubierta a ejecutar (Actividad D.1) y a las condiciones reales de las viviendas intervenidas.
 
-En particular, las tipologías verificadas —principalmente en zonas rurales— presentan mayores desarrollos de techo (corredores, galeras y ampliaciones laterales), así como encuentros y remates (medianeras, traslapes y empalmes) que demandan mayor rigidización y continuidad en los elementos de apoyo, requiriendo la instalación de canaleta doble 2×4” para garantizar estabilidad, correcta transmisión de cargas y un desempeño seguro del sistema de techado frente a viento y lluvia. Por lo anterior, a la cantidad correspondiente 1,730.00 ml se le incorpora en la Modificación No.
-
-1 una cantidad adicional de 1,575.00 ml generando así un nuevo valor total acumulado de 3,305.00 ml. Este ajuste se integra además dentro del reordenamiento interno de las cantidades ejecutadas y programadas, asegurando consistencia técnica entre partidas vinculadas y trazabilidad en la medición y pago conforme a la realidad verificada en sitio.
+En particular, las tipologías verificadas —principalmente en zonas rurales— presentan mayores desarrollos de techo (corredores, galeras y ampliaciones laterales), así como encuentros y remates (medianeras, traslapes y empalmes) que demandan mayor rigidización y continuidad en los elementos de apoyo, requiriendo la instalación de canaleta doble 2×4” para garantizar estabilidad, correcta transmisión de cargas y un desempeño seguro del sistema de techado frente a viento y lluvia. Por lo anterior, a la cantidad correspondiente 1,730.00 ml se le incorpora en la Modificación No. 1 una cantidad adicional de 1,575.00 ml generando así un nuevo valor total acumulado de 3,305.00 ml. Este ajuste se integra además dentro del reordenamiento interno de las cantidades ejecutadas y programadas, asegurando consistencia técnica entre partidas vinculadas y trazabilidad en la medición y pago conforme a la realidad verificada en sitio.
 
 Precio Unitario No.
 
@@ -2141,9 +2119,7 @@ Esta actividad disminuye en 78.57% como resultado del reordenamiento interno de 
 
 Por lo anterior, a la cantidad correspondiente de 9,374.40 m², se le aplica en la Modificación No. 1 una disminución de 7,365.60 m² generando así un nuevo valor total acumulado de 2,008.80 m². Esta disminución garantiza que la medición y pago reflejen únicamente las cantidades efectivamente necesarias conforme a la solución técnica adoptada y a la realidad verificada en sitio.
 
-• A.4– Suministro e Instalación de Lámina Aluzinc Cal. 26 Esta actividad disminuye en 78.57% como resultado del reordenamiento interno de las cantidades de obra ejecutadas y programadas, sustentado en los levantamientos y verificaciones de campo. Dicha revisión permitió establecer que la provisión de lámina Aluzinc Cal. 26, considerada como suministro asociado a las modalidades de cubierta originalmente previstas (A.2 y A.3), debe ajustarse a la solución de techado efectivamente requerida en sitio, evitando duplicidades y cantidades excedentes derivadas del cambio en la configuración de cubierta adoptada en la Modificación No.
-
-1. En consecuencia, al reorientarse los metrajes hacia las partidas de cubierta que responden al alcance real del proyecto, la demanda de lámina Aluzinc Cal. 26 disminuye proporcionalmente, manteniendo consistencia técnica entre suministros y actividades de instalación. Por lo anterior, a la cantidad de 9,374.40 m² se le aplica en la Modificación No. 1 una disminución de 7,365.60 m², generando así un nuevo valor total acumulado de 2,008.80 m².
+• A.4– Suministro e Instalación de Lámina Aluzinc Cal. 26 Esta actividad disminuye en 78.57% como resultado del reordenamiento interno de las cantidades de obra ejecutadas y programadas, sustentado en los levantamientos y verificaciones de campo. Dicha revisión permitió establecer que la provisión de lámina Aluzinc Cal. 26, considerada como suministro asociado a las modalidades de cubierta originalmente previstas (A.2 y A.3), debe ajustarse a la solución de techado efectivamente requerida en sitio, evitando duplicidades y cantidades excedentes derivadas del cambio en la configuración de cubierta adoptada en la Modificación No. 1. En consecuencia, al reorientarse los metrajes hacia las partidas de cubierta que responden al alcance real del proyecto, la demanda de lámina Aluzinc Cal. 26 disminuye proporcionalmente, manteniendo consistencia técnica entre suministros y actividades de instalación. Por lo anterior, a la cantidad de 9,374.40 m² se le aplica en la Modificación No. 1 una disminución de 7,365.60 m², generando así un nuevo valor total acumulado de 2,008.80 m².
 
 Esta disminución asegura que la medición y pago reflejen únicamente las cantidades realmente necesarias conforme a la realidad verificada en campo y al esquema de intervención regularizado.
 
@@ -2197,7 +2173,7 @@ L. 16,944,072.58
 
 89 Actividades Nuevas (D) 0.00 Monto Modificación de Contrato Actividades que disminuyen (C).
 
-No.1 (E).
+No. 1 (E).
 
 Nuevo Monto del Proyecto (A+E)
 
@@ -2253,9 +2229,9 @@ A fin de dar continuidad a la ejecución del proyecto “CONSTRUCCIÓN DE TECHOS
 
 La modificación se sustenta en la solicitud de la empresa ejecutora y consultora quienes han realizado inspecciones recientes que evidencian tipologías reales —principalmente rurales y con colindancias o ampliaciones adosadas— que demandan mayores desarrollos de cubierta para asegurar una solución integral, hermética y segura; por ello, se mantiene 72 m² como referencia base y se habilitan casos mayores bajo un procedimiento regulado, con aprobación previa y escrita de la Gerencia de Mejoramiento de Vivienda, respaldada por levantamiento métrico, evidencia fotográfica, justificación técnica y validación de la Supervisión. De manera complementaria, se incorpora un reordenamiento interno de cantidades ejecutadas y programadas para ajustar las partidas a la demanda real de intervención.
 
-En esta Modificacion#1 la supervisión realizó la redistribución de cantidades, lo que generó la disminución del monto contractual, la reducción de monto ha sido en - L. 324.31 (0.001%), siendo el nuevo valor del contrato de construcción por un monto de CUARENTA Y UN MILLONES NOVECIENTOS TREINTA Y UN MIL DOSCIENTOS NOVENTA Y TRES LEMPIRAS CON 03/100 (41,931,293.03), también ha sido necesario la modificación del contrato en las especificaciones técnicas y condiciones de cumplimiento” en la actividad A2. Para esta nueva modificación al contrato, no será necesaria una ampliación de tiempo contractual , se mantienen 240 días La presente solicitud de aprobación de la Modificación No. 1, está dentro del Marco Legal dado que es potestad de EL CONTRATANTE modificar los Contratos de Obra Pública con apego a lo que indica la Ley de Contratación del Estado particularmente lo señalado en los Artículos 119 (2), 121, 122 ,123 de dicha Ley y en los artículos 202 y 203 del Reglamento, además de lo indicado en la Cláusula No. 39.1, todas las Variaciones deberán incluirse en los programas actualizados que presente el contratista y deberán ser autorizadas por escrito al contratante.
+En esta Modificacion#1 la supervisión realizó la redistribución de cantidades, lo que generó la disminución del monto contractual, la reducción de monto ha sido en - L. 324.31 (0.001%), siendo el nuevo valor del contrato de construcción por un monto de CUARENTA Y UN MILLONES NOVECIENTOS TREINTA Y UN MIL DOSCIENTOS NOVENTA Y TRES LEMPIRAS CON 03/100 (41,931,293.03), también ha sido necesario la modificación del contrato en las especificaciones técnicas y condiciones de cumplimiento” en la actividad A2. Para esta nueva modificación al contrato, no será necesaria una ampliación de tiempo contractual, se mantienen 240 días La presente solicitud de aprobación de la Modificación No. 1, está dentro del Marco Legal dado que es potestad de EL CONTRATANTE modificar los Contratos de Obra Pública con apego a lo que indica la Ley de Contratación del Estado particularmente lo señalado en los Artículos 119 (2), 121, 122,123 de dicha Ley y en los artículos 202 y 203 del Reglamento, además de lo indicado en la Cláusula No. 39.1, todas las Variaciones deberán incluirse en los programas actualizados que presente el contratista y deberán ser autorizadas por escrito al contratante.
 
-De acuerdo al análisis técnico de cada una de las actividades a readecuar explicadas anteriormente esta dirección dictamina que técnicamente es PROCEDENTE la emisión de la Modificación No.1, del proyecto “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO, EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL:
+De acuerdo al análisis técnico de cada una de las actividades a readecuar explicadas anteriormente esta dirección dictamina que técnicamente es PROCEDENTE la emisión de la Modificación No. 1, del proyecto “CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO, EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL:
 
 MARGEN OESTE DEL RÍO CHOLUTECA CÓDIGO TECHO
 
@@ -2289,7 +2265,7 @@ CLÁUSULA SEXTA: MONTO DEL CONTRATO Y FORMA DE PAGO, GARANTÍAS Y RETENCIONES.
 
 Monto: El monto de éste Contrato asciende en la suma de: CUARENTA Y UN MILLONES NOVECIENTOS TREINTA Y UN MIL DOSCIENTOS NOVENTA Y TRES LEMPIRAS CON 03/100 (41,931,293.03), que se pagarán mediante estimaciones mensuales de acuerdo al avance de la obra. Forma de Pago: Se podrá otorgar a EL CONTRATISTA el quince por ciento (15%)….
 
-TERCERA: Se modifica el Desglose de Presupuesto de Ofertas según se adjunta a la presente modificación No. 1, que de ahora en adelante se llamará Cuadro de Obra Contratada CUARTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.1 al Contrato, continúan en vigencia con su pleno valor y efecto.
+TERCERA: Se modifica el Desglose de Presupuesto de Ofertas según se adjunta a la presente modificación No. 1, que de ahora en adelante se llamará Cuadro de Obra Contratada CUARTA: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 1 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 EN TESTIMONIO de lo cual las partes firmamos en Dos Ejemplares Originales, la presente Modificación No. 1 de conformidad con las Leyes de la República de Honduras, a los Ocho
 
@@ -2301,13 +2277,11 @@ Jorge Alejandro Aldana Bardales Alcalde Municipal EL CONTRATANTE _____________F 
 
 RTN No: 08019010292759
 
-EL CONTRATISTA CUADRO DE OBRA CONTRATADA DIRECCIÓN DE CONTROL Y SEGUIMIENTO - ALCALDIA MUNICIPAL DEL DISTRITO CENTRAL PROYECTO: CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL ,MARGEN OESTE DEL RÍO CHOLUTECA, CÓDIGO: TECHO-0004 CONTRATO No.1105/GLA/AMDC/2025 Propietario: ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL (A.M.D.C) Contratista: A&V INGENIEROS , S. DE R.L.
+EL CONTRATISTA CUADRO DE OBRA CONTRATADA DIRECCIÓN DE CONTROL Y SEGUIMIENTO - ALCALDIA MUNICIPAL DEL DISTRITO CENTRAL PROYECTO: CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL,MARGEN OESTE DEL RÍO CHOLUTECA, CÓDIGO: TECHO-0004 CONTRATO No. 1105/GLA/AMDC/2025 Propietario: ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL (A.M.D.C) Contratista: A&V INGENIEROS, S. DE R.L.
 
-Supervisión: Diseño Construcción y Medio Ambiente S. de R. L (DICOMA) OBRA CONTRATADA ITEM CONCEPTO UNIDAD PRECIO UNITARIO CANTIDAD TOTAL CAMBIO DE TECHO A.1 DESMONTAJE DE TECHO EXISTENTE m2 L 113.58 35,106.40 L 3,987,384.91 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 26 Y ESTRUCTURA DE CANALETA GALVANIZADA DE 2X4" A.2 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 26 Y ESTRUCTURA CON PALOS DE MADERA DE 2"X4" Y CLAVADORES TRANSVERSALES DE 2"X1" A.3 m2 L 1,050.15 2,008.80 L 2,109,541.32 m2 L 833.60 2,008.80 L 1,674,535.68 A.4 SUM/INST DE LAMINA ALUZINC CAL 26 m2 L 395.59 2,008.80 L 794,661.20 A.5 PICADO Y RESANE DE PARED POR INSTALACION DE TECHO m L 213.30 3,162.00 L 674,454.60 TOTAL CAMBIO DE TECHO L 9,240,577.71 INSTALACIÒN DE FIRMES B.1 EXCAVACION DE MATERIAL COMUN m3 L 238.56 405.00 L 96,616.80 B.2 RELLENO DE MATERIAL SELECTO E=0.10M m3 L 900.22 270.00 L 243,059.40 B.3 FIRME DE CONCRETO DE 3,000 PSI E=0.05M m3 L 6,907.41 135.00 L 932,500.35 TOTAL INSTALACIÒN DE FIRMES L 1,272,176.55 GENERALES C.1 ROTULO MOVIL DEL PROYECTO unidad L 6,095.43 4.00 L 24,381.72 C.2 ROTULO FIJO DEL PROYECTO unidad L 6,369.08 5.00 L 31,845.40 TOTAL GENERALES L 56,227.12 ORDEN DE CAMBIO NO.1 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 28 Y ESTRUCTURA DE CANALETA GALVANIZADA DE 2X4" D.1 m2 L 1,018.77 29,080.00 L 29,625,831.60 D.2 SUM/INST DE CANALETA DOBLE 2 X 4 PULG ml L 525.41 3,305.00 L 1,736,480.05 TOTAL CAMBIO DE TECHO L 31,362,311.65 A TOTAL NETO CONSTRUCCIÓN L 41,931,293.03 5 CONTRATO No. 2557/GLA/ AMDC/2025.- CÓDIGO No. INFRA- 0034N “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO Y MEJORAS DE CANCHA MULTIUSOS EN COLONIA BRISAS DE OLANCHO” No. LPrNO-034-AMDC-104-2024, por un monto total de: DOS MILLONES NOVECIENTOS NOVENTA Y CUATRO MIL QUINIENTOS SESENTA Y SIETE LEMPIRAS CON 47/100, (L. 2,994,567.47), suscrito el 19 de septiembre del año 2025, entre la Municipalidad del Distrito Central (AMDC), denominado el contratante y la Sociedad Mercantil, SISTEMAS DE CONSTRUCCIÓN, S DE R.L, denominado El Contratista. Que literalmente dice:
+Supervisión: Diseño Construcción y Medio Ambiente S. de R. L (DICOMA) OBRA CONTRATADA ITEM CONCEPTO UNIDAD PRECIO UNITARIO CANTIDAD TOTAL CAMBIO DE TECHO A.1 DESMONTAJE DE TECHO EXISTENTE m2 L 113.58 35,106.40 L 3,987,384.91 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 26 Y ESTRUCTURA DE CANALETA GALVANIZADA DE 2X4" A.2 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 26 Y ESTRUCTURA CON PALOS DE MADERA DE 2"X4" Y CLAVADORES TRANSVERSALES DE 2"X1" A.3 m2 L 1,050.15 2,008.80 L 2,109,541.32 m2 L 833.60 2,008.80 L 1,674,535.68 A.4 SUM/INST DE LAMINA ALUZINC CAL 26 m2 L 395.59 2,008.80 L 794,661.20 A.5 PICADO Y RESANE DE PARED POR INSTALACION DE TECHO m L 213.30 3,162.00 L 674,454.60 TOTAL CAMBIO DE TECHO L 9,240,577.71 INSTALACIÒN DE FIRMES B.1 EXCAVACION DE MATERIAL COMUN m3 L 238.56 405.00 L 96,616.80 B.2 RELLENO DE MATERIAL SELECTO E=0.10M m3 L 900.22 270.00 L 243,059.40 B.3 FIRME DE CONCRETO DE 3,000 PSI E=0.05M m3 L 6,907.41 135.00 L 932,500.35 TOTAL INSTALACIÒN DE FIRMES L 1,272,176.55 GENERALES C.1 ROTULO MOVIL DEL PROYECTO unidad L 6,095.43 4.00 L 24,381.72 C.2 ROTULO FIJO DEL PROYECTO unidad L 6,369.08 5.00 L 31,845.40 TOTAL GENERALES L 56,227.12 ORDEN DE CAMBIO NO.1 SUM/INST DE CUBIERTA DE TECHO CON LAMINA ALUZINC CAL 28 Y ESTRUCTURA DE CANALETA GALVANIZADA DE 2X4" D.1 m2 L 1,018.77 29,080.00 L 29,625,831.60 D.2 SUM/INST DE CANALETA DOBLE 2 X 4 PULG ml L 525.41 3,305.00 L 1,736,480.05 TOTAL CAMBIO DE TECHO L 31,362,311.65 A TOTAL NETO CONSTRUCCIÓN L 41,931,293.03 5 CONTRATO No. 2557/GLA/ AMDC/2025.- CÓDIGO No. INFRA-0034N “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO Y MEJORAS DE CANCHA MULTIUSOS EN COLONIA BRISAS DE OLANCHO” No. LPrNO-034-AMDC-104-2024, por un monto total de: DOS MILLONES NOVECIENTOS NOVENTA Y CUATRO MIL QUINIENTOS SESENTA Y SIETE LEMPIRAS CON 47/100, (L. 2,994,567.47), suscrito el 19 de septiembre del año 2025, entre la Municipalidad del Distrito Central (AMDC), denominado el contratante y la Sociedad Mercantil, SISTEMAS DE CONSTRUCCIÓN, S DE R.L, denominado El Contratista. Que literalmente dice:
 
-CONTRATO No.
-
-2557/GLA/AMDC/2025.-
+CONTRATO No. 2557/GLA/AMDC/2025.-
 
 CÓDIGO No. INFRA-0034N
 
@@ -2315,7 +2289,7 @@ CÓDIGO No. INFRA-0034N
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801- 1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ARIEL ORESTES ROVELO GODOY, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación número 0801- 1977-01948, en su condición de Gerente General de la Sociedad Mercantil SISTEMAS DE CONSTRUCCIÓN, S DE R.L., condición que acredita mediante Testimonio de Escritura Pública No. 50 de fecha 20 del mes de noviembre del año 2017, autorizada por el Abogado y Notario Douglas Moises Ramirez Avilez e inscrito bajo el número 43665, matrícula: 2524348 del Registro Mercantil del Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO Y MEJORAS D E C A N C H A M U LT I U S O S E N C O L O N I A B R I S A S D E OLANCHO”., CÓDIGO No. INFRA- 0034N- Licitación Privada Nacional No LPrNO-034-AMDC-104-2024.- en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ARIEL ORESTES ROVELO GODOY, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación número 0801-1977-01948, en su condición de Gerente General de la Sociedad Mercantil SISTEMAS DE CONSTRUCCIÓN, S DE R.L., condición que acredita mediante Testimonio de Escritura Pública No. 50 de fecha 20 del mes de noviembre del año 2017, autorizada por el Abogado y Notario Douglas Moises Ramirez Avilez e inscrito bajo el número 43665, matrícula: 2524348 del Registro Mercantil del Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO Y MEJORAS D E C A N C H A M U LT I U S O S E N C O L O N I A B R I S A S D E OLANCHO”., CÓDIGO No. INFRA-0034N- Licitación Privada Nacional No LPrNO-034-AMDC-104-2024.- en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: Las palabras y expresiones utilizadas en este Contrato, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato.
 
@@ -2367,7 +2341,7 @@ CLÁUSULA SEXTA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las Leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L , E Q U I D A D , T O L E R A N C I A , IMPARCIALIDAD Y DISCRECIÓN C O N L A I N F O R M A C I Ó N CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias:
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las Leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas: entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias:
 
 Entendiendo estas como aquellas en las que denoten, sugieran o demuestren que existe un acuerdo malicioso entre dos o más partes o entre una de las partes y uno o varios terceros, realizado con la intención de alcanzar un propósito inadecuado, incluyendo influenciar en forma inapropiada las acciones de la otra parte. 4.- Revisar y verificar toda la información que deba ser presentada a través de terceros a la otra parte, para efectos del Contrato y dejamos manifestado que durante el proceso de contratación o adquisición causa de este Contrato, la información intercambiada fue debidamente revisada y verificada, por lo que ambas partes asumen y asumirán la responsabilidad por el suministro de información inconsistente, imprecisa o que no corresponda a la realidad, para efectos de este Contrato.
 
@@ -2377,13 +2351,11 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará Lugar:
 
 b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.
 
-CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA OCTAVA: CLÁUSULA
 
-PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
+PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
 
 \1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
@@ -2429,7 +2401,7 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa el día diecinueve del mes de septiembre del año 2025.
 
-Por y en nombre del Contratante Firmado: __________F Y S___________ JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: __________F Y S___________ ARIEL ORESTES ROVELO GODOY Representante Legal de la Sociedad M e r c a n t i l S I S T E M A S D E CONSTRUCCIÓN, S DE R.L. R.T.N.
+Por y en nombre del Contratante Firmado: __________F Y S___________ JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: __________F Y S___________ ARIEL ORESTES ROVELO GODOY Representante Legal de la Sociedad Mercantil SISTEMAS DE CONSTRUCCIÓN, S DE R.L. R.T.N.
 
 No. 08019012454175
 
@@ -3181,7 +3153,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste:(Precio actual - Precio oferta) /FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira :
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira:
 
 US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
 
@@ -3271,7 +3243,7 @@ REQUISITOS EMPRESA CONSTRUCTORA (ANTICIPO)
 
 A.El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de anticipo, indicando nombre del proyecto, N° de contrato, código y monto. Dirigido al Director de Control y Seguimiento.
 
@@ -3283,7 +3255,7 @@ A. Recibo de cobro normal en hoja membretada del contratista, el recibo debe pre
 
 3.- Información contractual y fianzas bancarias:
 
-A. Fotocopia del contrato B. Fotocopia de Fianza de Anticipo C. F o t o c o p i a d e F i a n z a d e Cumplimiento 4.- Información general:
+A. Fotocopia del contrato B. Fotocopia de Fianza de Anticipo C. Fotocopia de Fianza de Cumplimiento 4.- Información general:
 
 A. COPIA del Documento Nacional de Identificación (DNI) del representante legal.
 
@@ -3311,7 +3283,7 @@ B. Informe Preliminar del proyecto para la estimación N°1.
 
 C. Informe del uso del anticipo (Cuando aplique, ver numeral N°6 de los requisitos).
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de estimación, indicando nombre del proyecto, N° de contrato, código, periodo y monto.
 
@@ -3329,7 +3301,7 @@ D. Estado financiero y físico del proyecto E. Memoria de cálculo.
 
 F. Resumen fotográfico firmado y sellado por el supervisor (En físico mínimo 8 fotografías a color) G. Fotografía del RÓTULO DEL PROYECTO instalado en todas las estimaciones.
 
-H. C r o n o g r a m a a c t u a l i z a d o mensualmente (Utilizando el programa Microsoft Project)
+H. Cronograma actualizado mensualmente (Utilizando el programa Microsoft Project)
 
 I. Cambios realizados en la estructura presupuestaria del proyecto. (Órdenes de cambio con su respectiva justificación de orden de cambio).
 
@@ -3351,7 +3323,7 @@ B. Fotocopia de orden de inicio. (se deberá notificar por escrito a la Direcci�
 
 C. Fotocopia de Fianza de Anticipo (Vigente) o nota de Renuncia al Anticipo cuando aplique, dirigido al Director de control y seguimiento.
 
-D. F o t o c o p i a d e F i a n z a d e Cumplimiento. (Vigente) E. Fotocopia de fianza de calidad de obra (Último pago).
+D. Fotocopia de Fianza de Cumplimiento. (Vigente) E. Fotocopia de fianza de calidad de obra (Último pago).
 
 4.- Información general A. Copia del Documento Nacional de Identificación (DNI) del representante legal.
 
@@ -3675,7 +3647,7 @@ DESCRIPCIÓN DE LA ACTIVIDAD
 
 Este trabajo consistirá en el cortado de juntas longitudinales y transversales con una separación entre 1.50 m a 1.75 m o haciendo coincidir con las juntas existentes. La operación de cortado se debe realizar entre 4 y 6 horas después de colocado el concreto a una profundidad de un tercio (1/3) del espesor de la losa; el corte se hará con equipo mecánico y deberá tener 1/8” de espesor.
 
-C O N S I D E R A C I O N E S D E L CÁLCULO DEL ANÁLISIS DE COSTO Se considera el uso de cortadora con disco segmentado de diamante de un 1/8” de espesor.
+CONSIDERACIONES DEL CÁLCULO DEL ANÁLISIS DE COSTO Se considera el uso de cortadora con disco segmentado de diamante de un 1/8” de espesor.
 
 CRITERIOS DE MEDICIÓN Y PAGO
 
@@ -3717,7 +3689,7 @@ La cantidad a pagarse será el número de metros cuadrados medidos en la obra la
 
 Dichos precios y pagos constituirán la compensación total por el suministro de materiales, transporte y colocación, así como por la mano de obra, equipo, herramientas y operaciones conexas en la ejecución de los trabajos descritos en toda la especificación.
 
-B . 2 L I M P I E Z A D E P O S T E S , TRAVESAÑOS Y ESTRUCTURA DE GRADERÍAS METÁLICOS Unidad: unidad DESCRIPCIÓN DE LA ACTIVIDAD La actividad consiste en la limpieza y preparación de la superficie metálica de las porterías que tienen un diámetro de 2” a 3” y postes de luz de 4” a 6” por medio de la utilización de mano de obra no calificada y herramienta menor.
+B . 2 LIMPIEZA DE POSTES, TRAVESAÑOS Y ESTRUCTURA DE GRADERÍAS METÁLICOS Unidad: unidad DESCRIPCIÓN DE LA ACTIVIDAD La actividad consiste en la limpieza y preparación de la superficie metálica de las porterías que tienen un diámetro de 2” a 3” y postes de luz de 4” a 6” por medio de la utilización de mano de obra no calificada y herramienta menor.
 
 Se utilizará cepillo de alambre, lija y las herramientas necesarias para que la superficie quede lista para la aplicación de la pintura.
 
@@ -3761,7 +3733,7 @@ La cantidad a pagarse por Limpieza de paredes con cepillo de Alambre será el n�
 
 Estos precios y pagos constituirán la compensación total por suministro de obra, equipo, herramientas, materiales y operaciones conexas en la ejecución de los trabajos descritos en esta especificación.
 
-B.5 SUMINISTRO E INSTALACIÓN M A L L A C I C L Ó N E N T U B O EXISTENTE Unidad: m² DESCRIPCIÓN DE LA ACTIVIDAD La actividad consiste en la fabricación de cerco de malla ciclón de 6 pies de alto.
+B.5 SUMINISTRO E INSTALACIÓN MALLA CICLÓN EN TUBO EXISTENTE Unidad: m² DESCRIPCIÓN DE LA ACTIVIDAD La actividad consiste en la fabricación de cerco de malla ciclón de 6 pies de alto.
 
 También debe colocarse varilla de 1/4” soldada a los tubos existentes para fijar verticalmente la malla. La parte inferior de la malla se sujetará empotrándola en la solera de remate de la pared de bloque, en los cercos tipos para cancha multiusos.
 
@@ -3793,7 +3765,7 @@ La cantidad a pagarse será el número de metros lineales, de trabajos ordenados
 
 Se pagará al precio del contrato estipulado en el ítem correspondiente, dichos precios y pagos constituirán la compensación total por suministro de materiales, transporte, colocación, así como por mano de obra, equipo, herramientas y operaciones conexas en la ejecución de los trabajos descritos en toda la especificación.
 
-B.7 PINTURA DE ACEITE PARA E S T R U C T U R A M E T Á L I C A (INCLUYE ANTICORROSIVO) Unidad: m² DESCRIPCIÓN DE LA ACTIVIDAD Este trabajo consistirá en la aplicación de anticorrosivo en la estructura metálica existente del techo, postes de luz y travesaño de portería. El contratista deberá seguir las instrucciones del fabricante de la pintura en cuanto a mezclas, cuidados y aplicación de esta. No se deberá permitir la mezcla entre diferentes tonalidades de pintura, colocar 4 capas siendo 2 de base y 2 de color, el color final debe designarlo el supervisor. Todas las superficies deben estar limpias, secas y libres de todo tipo de polvo, aceite, partículas finas sueltas, florescencia, hongos, contaminantes químicos, etc. Para asegurar una eficiente limpieza y adherencia de la pintura las paredes se tratarán con lija. Se colocarán como mínimo dos manos de pintura anticorrosiva sobre cada superficie y una de aceite, aplicadas con compresor y pistola, debiendo las superficies presentar absoluta uniformidad sin trazos ni manchas.
+B.7 PINTURA DE ACEITE PARA ESTRUCTURA METÁLICA (INCLUYE ANTICORROSIVO) Unidad: m² DESCRIPCIÓN DE LA ACTIVIDAD Este trabajo consistirá en la aplicación de anticorrosivo en la estructura metálica existente del techo, postes de luz y travesaño de portería. El contratista deberá seguir las instrucciones del fabricante de la pintura en cuanto a mezclas, cuidados y aplicación de esta. No se deberá permitir la mezcla entre diferentes tonalidades de pintura, colocar 4 capas siendo 2 de base y 2 de color, el color final debe designarlo el supervisor. Todas las superficies deben estar limpias, secas y libres de todo tipo de polvo, aceite, partículas finas sueltas, florescencia, hongos, contaminantes químicos, etc. Para asegurar una eficiente limpieza y adherencia de la pintura las paredes se tratarán con lija. Se colocarán como mínimo dos manos de pintura anticorrosiva sobre cada superficie y una de aceite, aplicadas con compresor y pistola, debiendo las superficies presentar absoluta uniformidad sin trazos ni manchas.
 
 CRITERIOS DEL ANÁLISIS DEL COSTO
 
@@ -3877,39 +3849,39 @@ DESCRIPCIÓN DE LA ACTIVIDAD:
 
 La actividad consiste en el suministro y aplicación de pintura acrílica tipo vial con ancho de 10 centímetros para marcaje de las líneas sobre el firme existente que servirá para delimitar las áreas de juego de la cancha multiusos.
 
-Pintura Sin Agregado de Microesferas Pigmentos totales en peso : mín 50% Sólidos del Vehículo : mín 38% s/VehTot.
+Pintura Sin Agregado de Microesferas Pigmentos totales en peso: mín 50% Sólidos del Vehículo: mín 38% s/VehTot.
 
-Color de la Pintura :
+Color de la Pintura:
 
 Según Normas DNV o IRAM Peso específico en Kg/1 :
 
 1,44+/-0,03 Viscosidad (en UK) :
 
-80+/-3 Resistencia al Agua :
+80+/-3 Resistencia al Agua:
 
-Cumple Resistencia Infinita :
+Cumple Resistencia Infinita:
 
-Cumple (en Diluyente específico) Formación de Capa :
+Cumple (en Diluyente específico) Formación de Capa:
 
-No presenta Resistencia a la Abrasión en Litros (0,6 mm) : mín 80 (método ASTM D-968, Abrasivo: Aloxite) Sangrado :
+No presenta Resistencia a la Abrasión en Litros (0,6 mm) : mín 80 (método ASTM D-968, Abrasivo: Aloxite) Sangrado:
 
-No presenta Flexibilidad :
+No presenta Flexibilidad:
 
 Cumple Envejecimiento Acelerado (Ensayo W-O-M) ASTM G23-81-1 : min 600 hgs.
 
-Colofonia y derivados :
+Colofonia y derivados:
 
-No contiene (según ASTM D542-60a) Brillo (ASTM D-523) : máx 20 Secado al tacto (600 mic) : máx 20 minutos Pintura con Agregado de Microesferas Amarilla Sólidos en volumen : mín 50% Peso específico en Kg/lt :
+No contiene (según ASTM D542-60a) Brillo (ASTM D-523) : máx 20 Secado al tacto (600 mic) : máx 20 minutos Pintura con Agregado de Microesferas Amarilla Sólidos en volumen: mín 50% Peso específico en Kg/lt:
 
 1,55+/-0,05 Viscosidad (en UK) :
 
 75 a 95 Tiempo de Secado:
 
-a. Condiciones ambientales :
+a. Condiciones ambientales:
 
 HRA máx 85% Temp. De aire 10 a 40ºC Temp. Del pavimento máx 40 ºC
 
-b. Espesor húmedo :
+b. Espesor húmedo:
 
 600 micrones
 
@@ -3919,9 +3891,9 @@ c. Microesferas a incorp. :
 
 A 25 ºC y bajo las condiciones (b) y (c), se obtienen los siguientes tiempos de secado:
 
-Seco al tacto : máx. 15 min.
+Seco al tacto: máx. 15 min.
 
-Liberación al tránsito : máx. 25 min.
+Liberación al tránsito: máx. 25 min.
 
 Este tiempo varía según el espesor y la temperatura ambiente.
 
@@ -3951,7 +3923,7 @@ DESCRIPCIÓN DE LA ACTIVIDAD A REALIZAR:
 
 Este trabajo consistirá en la limpieza final de la obra ejecutada, se procederá a retirar los materiales de desperdicio tales como madera, sobrantes de acero, concreto, arena, basura y otros que puedan afectar el ambiente y obstruir los cauces de ríos y/o quebradas. Los desperdicios deberán acarrearse al botadero municipal.
 
-C O N S I D E R A C I O N E S D E L CÁLCULO DEL ANÁLISIS DE COSTO:
+CONSIDERACIONES DEL CÁLCULO DEL ANÁLISIS DE COSTO:
 
 Requiere mano de obra no calificada (peón) y herramienta menor. Esta actividad incluye el acarreo de material de desperdicio al botadero municipal.
 
@@ -4159,7 +4131,7 @@ Remitirse al Reglamento General de Medidas Preventivas de Accidentes de Trabajo 
 
 12. Arnés y Eslingas Toda eslinga debe de contar con el sistema de absorción de impacto y sus ganchos de anclaje deben estar en buen estado.
 
-Fichas de Equipo de Protección Personal básico (EPP). Deberán incluir y señalizarse de la siguiente manera Equipo/ Especificación Ilustración 1 Chalecos Uso obligatorio de logos y capotes Uso obligatorio de logos 2 Cascos (parte frontal y trasera) Stickers a utilizarse en chalecos, capotes y cascos Fichas de rótulos de señalización vertical que será obligatorio su uso durante la construcción del proyecto No Equipo/dispositivo Ilustración 1 Hombres trabajando Zanja abierta 2 Desvío a la derecha 3 Desvío a la izquierda 4 Inicio de la obra Velocidad máxima 6 Cruce de peatón 7 Doble vía 8 Carga suspendida 9 Maquinaria trabajando 10 11 Riesgo eléctrico RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS CROQUIS DE UBICACIÓN Colonia Brisas de Olancho Pavimentación Concreto Hidráulico Incluye Cancha Multiusos COORDENADAS UTM P AVIMENTACIÓN CONCRETO HIDRÁULICO TRAMO 1 INICIO FINAL 475240.00 m E 1559314.00 m N 475370.00 m E 1559457.00 m N CANCHA MULTIUSOS 475244.00 m E 1559340.00 m N PRESUPUESTO DE OBRA LPrNO-034-AMDC-104-2024 PROYECTO :
+Fichas de Equipo de Protección Personal básico (EPP). Deberán incluir y señalizarse de la siguiente manera Equipo/ Especificación Ilustración 1 Chalecos Uso obligatorio de logos y capotes Uso obligatorio de logos 2 Cascos (parte frontal y trasera) Stickers a utilizarse en chalecos, capotes y cascos Fichas de rótulos de señalización vertical que será obligatorio su uso durante la construcción del proyecto No Equipo/dispositivo Ilustración 1 Hombres trabajando Zanja abierta 2 Desvío a la derecha 3 Desvío a la izquierda 4 Inicio de la obra Velocidad máxima 6 Cruce de peatón 7 Doble vía 8 Carga suspendida 9 Maquinaria trabajando 10 11 Riesgo eléctrico RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS CROQUIS DE UBICACIÓN Colonia Brisas de Olancho Pavimentación Concreto Hidráulico Incluye Cancha Multiusos COORDENADAS UTM P AVIMENTACIÓN CONCRETO HIDRÁULICO TRAMO 1 INICIO FINAL 475240.00 m E 1559314.00 m N 475370.00 m E 1559457.00 m N CANCHA MULTIUSOS 475244.00 m E 1559340.00 m N PRESUPUESTO DE OBRA LPrNO-034-AMDC-104-2024 PROYECTO:
 
 PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO Y MEJORAS DE CANCHA MULTIUSOS EN COLONIA BRISAS DE OLANCHO INFRA-0034N N° DESCRIPCIÓN Sistemas de Construcción, S. de R.L.
 
@@ -4195,7 +4167,7 @@ RÓTULO DE PROYECTO unidad 1.00 27,145.00 27,145.00 C.2 LIMPIEZA FINAL DEL PROYE
 
 6. CONTRATO No. 1649/GLA/
 
-AMDC/2025.- CÓDIGO № EME-0016 “SUPERVISIÓN PARA LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO M E D I A N T E E L C O N T R O L INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/ VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” CDE-018- AMDC-101-2024, por un monto total de: UN MILLÓN OCHOCIENTOS N O V E N TA Y N U E V E M I L QUINIENTOS CUARENTA Y NUEVE LEMPIRAS CON 61/100 (L. 1,899,549.61), suscrito el 21 de mayo del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.) denominado El Consultor.
+AMDC/2025.- CÓDIGO № EME-0016 “SUPERVISIÓN PARA LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/ VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” CDE-018- AMDC-101-2024, por un monto total de: UN MILLÓN OCHOCIENTOS N O V E N TA Y N U E V E M I L QUINIENTOS CUARENTA Y NUEVE LEMPIRAS CON 61/100 (L. 1,899,549.61), suscrito el 21 de mayo del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.) denominado El Consultor.
 
 Que literalmente dice:
 
@@ -4207,7 +4179,7 @@ Este contrato se celebra entre:
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM- 2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801- 1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN PARA LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, T E G U C I G A L PA , M . D . C . ” . - Contratación Directa de Emergencia No CDE-018-AMDC-101-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” p o r u n a p a r t e y R O B E RTO ARISTIDES ANDINO BARAHONA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 0801-1950-00603 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada ASOCIACIÓN DE CONSULTORES EN INGENIERÍA, S. DE R.L. (A.C.I., S. DE R.L.), Representación que se acredita mediante Instrumento Público No. 17 de fecha 01 de marzo del año 2017; autorizado por el Abogado y Notario Elda Guisela Molina Villanueva e inscrito bajo No. 39168, Matrícula No. 69877 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN PARA LAS OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, T E G U C I G A L PA, M . D . C . ” . - Contratación Directa de Emergencia No CDE-018-AMDC-101-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -4233,7 +4205,7 @@ CLÁUSULA SÉPTIMA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L , E Q U I D A D , T O L E R A N C I A , IMPARCIALIDAD Y DISCRECIÓN C O N L A I N F O R M A C I Ó N CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas:
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A LTA D C O N T R A C T U A L, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar: a) Prácticas Corruptivas:
 
 Entendiendo estas como aquellas en la que se ofrece dar, recibir, o solicitar directa o indirectamente, cualquier cosa de valor para influenciar las acciones de la otra parte; b) Prácticas Colusorias:
 
@@ -4245,13 +4217,11 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará Lugar:
 
 b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.
 
-CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+CLÁUSULA OCTAVA: CLÁUSULA RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA
 
-PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
+PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente:
 
 \1) A mantener el más alto nivel de Lealtad y Cumplimiento contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
@@ -4611,7 +4581,7 @@ Reteniéndose en cada pago el 12.5% sobre el valor de los honorarios o utilidad 
 
 EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución del estudio la siguiente garantía: a) Garantía de Cumplimiento de Contrato: Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras. La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -4675,25 +4645,25 @@ Las Colonias Villa Delmy, La Canaán, Barrio El Rincón por el Sector de Acceso 
 
 Para efectos de ubicación, la zona del proyecto se ubica en las coordenadas UTM: 480529 m E; 1559992 m N.
 
-1.4 Fotografías No.1 Actividad: Ubicación de tubería existente de 42 pulgadas.
+1.4 Fotografías No. 1 Actividad: Ubicación de tubería existente de 42 pulgadas.
 
 .
 
-02/2024 No.2 Actividad: Entrada Alcantarilla 42 pulgadas Existente Fecha:
+02/2024 No. 2 Actividad: Entrada Alcantarilla 42 pulgadas Existente Fecha:
 
-02/2024 No.4 Actividad: Ubicación de tubería existente de 36 No.3 Actividad: Embaulado Existente por debajo de la ferretería AL, sección de 3.0 m x 1.5 m. pulgadas.
-
-Fecha:
-
-02/2024 No.5 Actividad: Entrada de tubería existente de 36 pulgadas.
+02/2024 No. 4 Actividad: Ubicación de tubería existente de 36 No. 3 Actividad: Embaulado Existente por debajo de la ferretería AL, sección de 3.0 m x 1.5 m. pulgadas.
 
 Fecha:
 
-No.6 Actividad: Levantamiento Topográfico Fecha:
+02/2024 No. 5 Actividad: Entrada de tubería existente de 36 pulgadas.
 
-02/2024 No.7 Actividad: Prueba Suelos Prospección con DCP Fecha:
+Fecha:
 
-02/2024 No.8 Actividad: Prueba de suelos Prospección con DCP Fecha:
+No. 6 Actividad: Levantamiento Topográfico Fecha:
+
+02/2024 No. 7 Actividad: Prueba Suelos Prospección con DCP Fecha:
+
+02/2024 No. 8 Actividad: Prueba de suelos Prospección con DCP Fecha:
 
 02/2024
 
@@ -4725,7 +4695,7 @@ Crematorio Municipal
 
 2.1 Cantidades de Obra Estimada
 
-PROYECTO: ESTUDIOS, DISEÑOS Y SUPERVISIÓN DE LAS INVERSIONES EN MEDIDAS ESTRUCTURALES DEL PROGRAMA DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO EN CENTRO AMÉRICA-COMPONENTE HONDURAS “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN / VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” Código: EME-0016 PRECIO MONTO ITEM DESCRIPCIÓN UNIDAD CANTIDAD A ACTIVIDADES GENERALES (L) A.1 Desvío del Cauce global 1.00 A.2 Limpieza del Cauce m2 148.48 A.3 Reubicación del Sistema de Agua Potable ml 8.80 A.4 Reubicación del Sistema de Aguas Lluvias ml 8.80 A.5 Reubicación del Sistema de Aguas Negras ml 8.80 Sub-Total A B CONSTRUCCIÓN DE CAJA No.1 SIMPLE DE 3.50X2.00 m. (Calle Principal) B.1 Trazado y Marcado ml 23.00 B.2 Demolición de elementos de Concreto/Mampostería m3 33.43 B.3 Excavación Material Tipo II m3 233.13 B.4 Excavación de Material Tipo III m3 37.82 B.5 Entibados para Protección de Taludes m2 104.61 B.6 Acarreo de Material de Desperdicio m3 91.31 B.7 Relleno y Compactado con Material Selecto (Incluye Acarreo) m3 23.54 B.8 Emplantillado con Concreto Ciclopeo, e=0.40m m3 5.18 B.9 Encofrado de Elementos de Concreto m2 244.71 B.10 Acero de Refuerzo para Caja, incluye Banqueta y Pretil Kg 11,117.00 B.11 Concreto Hidráulico para Caja, incluye Banqueta y Pretil m3 95.90 B.12 Desencofrado de Elementos de Concreto m2 244.71 B.13 Filtro Colector de Grava, incluye Tubería PVC 8" ml 37.36 B.14 Construcción de Muro de Contención h=3.65m ml 5.79 B.15 Conformación de Calle m2 18.68 B.16 Relleno y Compactado para Sub Base m3 3.74 B.17 Pavimento de Concreto 280Kg/cm2 m2 18.68 B.18 Cortado de Losas ml 18.00 B.19 Bordillo de Concreto ml 10.40 B.20 Pintura para Señalización m2 60.51 B.21 Construcción de Muro Perimetral global 1.00 B.22 Instalación de Porton Existente global 1.00 Sub-Total B C CONSTRUCCIÓN DE CAJA No.2 SIMPLE DE 3.00X2.00 m. (Plantel Los Cobras) C.1 Trazado y Marcado ml 35.00 C.2 Demolición de elementos de Concreto/Mampostería m3 32.51 C.3 Excavación Material Tipo II m3 113.60 C.4 Excavación de Material Tipo III m3 50.82 C.5 Entibados para Protección de Taludes m2 135.52 C.6 Acarreo de Material de Desperdicio m3 59.08 C.7 Relleno y Compactado con Material Selecto (Incluye Acarreo) m3 31.22 C.8 Encofrado de Elementos de Concreto m2 304.92 C.9 Acero de Refuerzo para Caja, incluye Banqueta y Pretil Kg 10,562.72 C.10 Concreto Hidráulico para Caja, incluye Banqueta y Pretil m3 226.84 C.11 Desencofrado de Elementos de Concreto m2 304.92 C.12 Filtro Colector de Grava, incluye Tubería PVC 8" ml 58.14 Sub-Total C D CUMPLIMIENTO DE GESTIÓN AMBIENTAL Y SOCIAL DEL PROYECTO D.1 Rótulo del Proyecto global 1.00 D.2 Limpieza General global 1.00 D.3 Señalización de Seguridad y Pasos peatonales Provisionales global 1.00 Servicio de Higiene, Salud, Bioseguridad, Control de D.4 Contingencia global 1.00 D.5 Equipo de Protección Personal y Seguridad Ocupacional global 1.00 D.6 Manejo de Residuos y Contaminantes global 1.00 D.7 Riego de Agua para Control de Polvo en el Aire global 1.00 Gestión de la Implementación Ambiental y Social, Informes y D.8 Capacitaciones.
+PROYECTO: ESTUDIOS, DISEÑOS Y SUPERVISIÓN DE LAS INVERSIONES EN MEDIDAS ESTRUCTURALES DEL PROGRAMA DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO EN CENTRO AMÉRICA-COMPONENTE HONDURAS “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN / VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” Código: EME-0016 PRECIO MONTO ITEM DESCRIPCIÓN UNIDAD CANTIDAD A ACTIVIDADES GENERALES (L) A.1 Desvío del Cauce global 1.00 A.2 Limpieza del Cauce m2 148.48 A.3 Reubicación del Sistema de Agua Potable ml 8.80 A.4 Reubicación del Sistema de Aguas Lluvias ml 8.80 A.5 Reubicación del Sistema de Aguas Negras ml 8.80 Sub-Total A B CONSTRUCCIÓN DE CAJA No. 1 SIMPLE DE 3.50X2.00 m. (Calle Principal) B.1 Trazado y Marcado ml 23.00 B.2 Demolición de elementos de Concreto/Mampostería m3 33.43 B.3 Excavación Material Tipo II m3 233.13 B.4 Excavación de Material Tipo III m3 37.82 B.5 Entibados para Protección de Taludes m2 104.61 B.6 Acarreo de Material de Desperdicio m3 91.31 B.7 Relleno y Compactado con Material Selecto (Incluye Acarreo) m3 23.54 B.8 Emplantillado con Concreto Ciclopeo, e=0.40m m3 5.18 B.9 Encofrado de Elementos de Concreto m2 244.71 B.10 Acero de Refuerzo para Caja, incluye Banqueta y Pretil Kg 11,117.00 B.11 Concreto Hidráulico para Caja, incluye Banqueta y Pretil m3 95.90 B.12 Desencofrado de Elementos de Concreto m2 244.71 B.13 Filtro Colector de Grava, incluye Tubería PVC 8" ml 37.36 B.14 Construcción de Muro de Contención h=3.65m ml 5.79 B.15 Conformación de Calle m2 18.68 B.16 Relleno y Compactado para Sub Base m3 3.74 B.17 Pavimento de Concreto 280Kg/cm2 m2 18.68 B.18 Cortado de Losas ml 18.00 B.19 Bordillo de Concreto ml 10.40 B.20 Pintura para Señalización m2 60.51 B.21 Construcción de Muro Perimetral global 1.00 B.22 Instalación de Porton Existente global 1.00 Sub-Total B C CONSTRUCCIÓN DE CAJA No. 2 SIMPLE DE 3.00X2.00 m. (Plantel Los Cobras) C.1 Trazado y Marcado ml 35.00 C.2 Demolición de elementos de Concreto/Mampostería m3 32.51 C.3 Excavación Material Tipo II m3 113.60 C.4 Excavación de Material Tipo III m3 50.82 C.5 Entibados para Protección de Taludes m2 135.52 C.6 Acarreo de Material de Desperdicio m3 59.08 C.7 Relleno y Compactado con Material Selecto (Incluye Acarreo) m3 31.22 C.8 Encofrado de Elementos de Concreto m2 304.92 C.9 Acero de Refuerzo para Caja, incluye Banqueta y Pretil Kg 10,562.72 C.10 Concreto Hidráulico para Caja, incluye Banqueta y Pretil m3 226.84 C.11 Desencofrado de Elementos de Concreto m2 304.92 C.12 Filtro Colector de Grava, incluye Tubería PVC 8" ml 58.14 Sub-Total C D CUMPLIMIENTO DE GESTIÓN AMBIENTAL Y SOCIAL DEL PROYECTO D.1 Rótulo del Proyecto global 1.00 D.2 Limpieza General global 1.00 D.3 Señalización de Seguridad y Pasos peatonales Provisionales global 1.00 Servicio de Higiene, Salud, Bioseguridad, Control de D.4 Contingencia global 1.00 D.5 Equipo de Protección Personal y Seguridad Ocupacional global 1.00 D.6 Manejo de Residuos y Contaminantes global 1.00 D.7 Riego de Agua para Control de Polvo en el Aire global 1.00 Gestión de la Implementación Ambiental y Social, Informes y D.8 Capacitaciones.
 
 Sub-Total D
 
@@ -4791,7 +4761,7 @@ Por lo anterior, la Firma Consultora deberá ejecutar, pero no limitarse, a las 
 
 11. La Firma Consultora deberá evaluar permanentemente al personal asignado al proyecto tanto del contratista como el propio, para proceder a reemplazar o solicitar al contratista la sustitución de cualquier persona que no cumpla satisfactoriamente con la labor encomendada.
 
-12. Asegurarse que, en cada momento de la ejecución de las obras, los Contratistas dispongan de los recursos humanos y logísticos necesarios, que sean en número y condición operativa suficientes para alcanzar los rendimientos p r o g r a m a d o s , a c o r d e a l cronograma de ejecución de cada obra en estricto cumplimiento del tiempo de contrato. Verificar que la metodología de trabajo propuesta por el contratista para la realización de todas las tareas, proponiendo alternativas si las hubiera para la mejora de la ejecución de los procesos. Velar por que se cumplan los requisitos de idoneidad y experiencia con el fin de que las obras se ejecuten de acuerdo con los planos y especificaciones técnicas aprobadas, empleando los materiales y el equipo de la mejor calidad.
+12. Asegurarse que, en cada momento de la ejecución de las obras, los Contratistas dispongan de los recursos humanos y logísticos necesarios, que sean en número y condición operativa suficientes para alcanzar los rendimientos programados, acorde al cronograma de ejecución de cada obra en estricto cumplimiento del tiempo de contrato. Verificar que la metodología de trabajo propuesta por el contratista para la realización de todas las tareas, proponiendo alternativas si las hubiera para la mejora de la ejecución de los procesos. Velar por que se cumplan los requisitos de idoneidad y experiencia con el fin de que las obras se ejecuten de acuerdo con los planos y especificaciones técnicas aprobadas, empleando los materiales y el equipo de la mejor calidad.
 
 13. Verificará diariamente el adecuado funcionamiento del equipo del contratista en el proyecto y de la calidad de los operadores, teniendo la facultad de reemplazar la máquina o el operador de la misma. Deberá comunicar a la AMDC, de darse el caso que el constructor no mantenga un buen ritmo de trabajo, que pudiera retrasar la oportuna culminación de las obras, y además deberá hacer las recomendaciones necesarias para corregir esta situación.
 
@@ -4979,7 +4949,7 @@ La A.M.D.C. de acuerdo a lo establecido en el Artículo 120 de las Disposiciones
 
 PERSONAL TÉCNICO CLAVE
 
-Gerente de Proyectos, Ingeniero Civil o Arquitecto Ingeniero Residente, Ingeniero Civil Ingeniero asistente, Ingeniero Civil Ingeniero Ambiental Detalle del personal asignado al servicio (Apéndice “B”) Nombre Formación Profesional Ingeniero Civil MBA Project Managemesnt Esther Aleman Post Grado en Mantenimiento de Carreteras Ingeniero Civil Experiencia en Cargo Asignado en su Área (años) el Servicio 39 Gerente de Proyecto Post grado mantenimiento y Explotacion de Mario Quan 15 Ingeniero Residente carreteras (Jefe CAEX) Maester Administracion de Proyectos Abogado Emmy Corrales Ingeniero Civil Bany Lizeth Anduray Licenciado en Biologia Cañada 13 Ingeniero Asistente 14 Ingeniero Especialista Ambiental APENDICE C Oferta Económica Negociada Detalles de costos (Sobre 2”) “Supervisión para las Obras Hidráulicas de Adaptación Urbana al Cambio Climático Mediante el Control Integrado de Inundaciones en la Calle Modesto Rodas, Sector entrada Col. Canaán/Villa Delmy (Plantel de los Cobras) / Barrio El Rincón, Tegucigalpa, MD.C.” (Con Código N° EME-0016) N° Descripción Unidad Cantidad Precio Unitario I PERSONAL 1 Remuneraciones Personales 1.1.1 Gerente de Proyecto Hombres/mes 7 L 35,000.00 L 245,000.00 1.1.2 Ingeniero Residente Hombres/mes 6 L 35,000.00 L 210,000.00 1.1.4 ngeniero Asistente Hombres/mes 6 L 35,000.00 L 210,000.00 1.1.5 Ingeniero Especialista Ambiental Hombres/mes 6 L 35,000.00 L 210,000.00 Sub-total 1 2 Personal Administrativo Auxiliar y Otros L 875,000.00 1.2.1 Administrador Hombres/mes 0.2 L 20,000.00 L 4,000.00 1.2.2 Secretaria Hombres/mes 0.2 L 17,000.00 L 3,400.00 1.2.3 Dibujante AutoCAD Calculista Hombres/mes 0.2 L 20,000.00 L 4,000.00 1.2.4 Motorista Hombres/mes 0.2 L 17,000.00 L 3,400.00 1.2.5 Topógrafo Hombres/mes 0.2 L 25,000.00 L 5,000.00 1.2.6 Cadeneros Hombres/mes 0.2 L 16,000.00 L 3,200.00 1.2.7 Tiempo extra personal de campo (25%) % 25% L 11,600.00 L 2,900.00 Sub-total 2 Sub-Total I II BENEFICIOS SOCIALES L 25,900.00 L 900,900.00 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) % 46.23% L900,900.00 L 416,486.07 Sub-Total II III COSTOS OPERATIVOS L416,486.07 3.1.1 Servicios públicos de oficina Mes 7 L 2,000.00 L 14,000.00 3.1.2 Papelería y gastos de reproducción Mes 7 L 2,000.00 L 14,000.00 3.1.3 Comunicaciones Mes 7 L 2,000.00 L 14,000.00 3.1.4 Alquiler o depreciación de Oficina Mes 7 L 7,000.00 L 49,000.00 3.1.5 Uso de vehículo Mes 1 L 25,000.00 L 25,000.00 3.1.6 Laboratorio (Sondeos, Densidades, Proctor Std, Granulometría, Resistencia a Compresión) Mes 1 L 20,000.00 L 20,000.00 3.1.7 Equipo de topografía Mes 1 L 10,000.00 L 10,000.00 Sub-Total III IV GASTOS GENERALES L 146,000.00 4.1 20% de (I+II) % 20% L 1,317,386.07 L 263,477.21 Sub-Total IV V MANEJO DE GASTOS DIRECTOS L 263,477.21 5.1 10% de III % 10% L146,000.00 L 14,600.00 Sub-Total V VI HONORARIOS L 14,600.00 6.1 10% de (I+II+IV) % 10% L1,580,863.28 L 158,086.33 Sub-Total VI L 158,086.33 L 1,899,549.61 GRAN TOTAL 7 CONTRATO No. 1653/GLA/ AMDC/2025.- CÓDIGO No. SEM- 001-202 “CASA REFUGIO” LPN No. LPuNO-001-AMDC-002-2025, p o r u n m o n t o t o t a l d e :
+Gerente de Proyectos, Ingeniero Civil o Arquitecto Ingeniero Residente, Ingeniero Civil Ingeniero asistente, Ingeniero Civil Ingeniero Ambiental Detalle del personal asignado al servicio (Apéndice “B”) Nombre Formación Profesional Ingeniero Civil MBA Project Managemesnt Esther Aleman Post Grado en Mantenimiento de Carreteras Ingeniero Civil Experiencia en Cargo Asignado en su Área (años) el Servicio 39 Gerente de Proyecto Post grado mantenimiento y Explotacion de Mario Quan 15 Ingeniero Residente carreteras (Jefe CAEX) Maester Administracion de Proyectos Abogado Emmy Corrales Ingeniero Civil Bany Lizeth Anduray Licenciado en Biologia Cañada 13 Ingeniero Asistente 14 Ingeniero Especialista Ambiental APENDICE C Oferta Económica Negociada Detalles de costos (Sobre 2”) “Supervisión para las Obras Hidráulicas de Adaptación Urbana al Cambio Climático Mediante el Control Integrado de Inundaciones en la Calle Modesto Rodas, Sector entrada Col. Canaán/Villa Delmy (Plantel de los Cobras) / Barrio El Rincón, Tegucigalpa, MD.C.” (Con Código N° EME-0016) N° Descripción Unidad Cantidad Precio Unitario I PERSONAL 1 Remuneraciones Personales 1.1.1 Gerente de Proyecto Hombres/mes 7 L 35,000.00 L 245,000.00 1.1.2 Ingeniero Residente Hombres/mes 6 L 35,000.00 L 210,000.00 1.1.4 ngeniero Asistente Hombres/mes 6 L 35,000.00 L 210,000.00 1.1.5 Ingeniero Especialista Ambiental Hombres/mes 6 L 35,000.00 L 210,000.00 Sub-total 1 2 Personal Administrativo Auxiliar y Otros L 875,000.00 1.2.1 Administrador Hombres/mes 0.2 L 20,000.00 L 4,000.00 1.2.2 Secretaria Hombres/mes 0.2 L 17,000.00 L 3,400.00 1.2.3 Dibujante AutoCAD Calculista Hombres/mes 0.2 L 20,000.00 L 4,000.00 1.2.4 Motorista Hombres/mes 0.2 L 17,000.00 L 3,400.00 1.2.5 Topógrafo Hombres/mes 0.2 L 25,000.00 L 5,000.00 1.2.6 Cadeneros Hombres/mes 0.2 L 16,000.00 L 3,200.00 1.2.7 Tiempo extra personal de campo (25%) % 25% L 11,600.00 L 2,900.00 Sub-total 2 Sub-Total I II BENEFICIOS SOCIALES L 25,900.00 L 900,900.00 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) % 46.23% L900,900.00 L 416,486.07 Sub-Total II III COSTOS OPERATIVOS L416,486.07 3.1.1 Servicios públicos de oficina Mes 7 L 2,000.00 L 14,000.00 3.1.2 Papelería y gastos de reproducción Mes 7 L 2,000.00 L 14,000.00 3.1.3 Comunicaciones Mes 7 L 2,000.00 L 14,000.00 3.1.4 Alquiler o depreciación de Oficina Mes 7 L 7,000.00 L 49,000.00 3.1.5 Uso de vehículo Mes 1 L 25,000.00 L 25,000.00 3.1.6 Laboratorio (Sondeos, Densidades, Proctor Std, Granulometría, Resistencia a Compresión) Mes 1 L 20,000.00 L 20,000.00 3.1.7 Equipo de topografía Mes 1 L 10,000.00 L 10,000.00 Sub-Total III IV GASTOS GENERALES L 146,000.00 4.1 20% de (I+II) % 20% L 1,317,386.07 L 263,477.21 Sub-Total IV V MANEJO DE GASTOS DIRECTOS L 263,477.21 5.1 10% de III % 10% L146,000.00 L 14,600.00 Sub-Total V VI HONORARIOS L 14,600.00 6.1 10% de (I+II+IV) % 10% L1,580,863.28 L 158,086.33 Sub-Total VI L 158,086.33 L 1,899,549.61 GRAN TOTAL 7 CONTRATO No. 1653/GLA/ AMDC/2025.- CÓDIGO No. SEM-001-202 “CASA REFUGIO” LPN No. LPuNO-001-AMDC-002-2025, por un monto total de:
 
 TREINTA Y UN MILLONES SETECIENTOS CUARENTA Y UN MIL CATORCE LEMPIRAS CON 20/100 (L. 31,741,014.20), suscrito el 24 de junio del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CONSTRUCTORA MAC, S DE R.L., denominado El Contratista. Que literalmente dice:
 
@@ -4995,11 +4965,11 @@ LPN No. LPuNO-001-
 
 AMDC-002-2025
 
-Financiado con fondos del Convenio suscrito entre la Secretaría de la Mujer (SEMUJER) y la Alcaldía Municipal del Distrito Central Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y el señor JOSIAS AZAEL ZUNIGA CANALES, de nacionalidad hondureña, mayor de edad, Documento Nacional de Identificación No. 0510-1983-01354 del domicilio de Tegucigalpa, M.D.C., quien actúa en su condición de Gerente General de la Sociedad Mercantil CONSTRUCTORA MAC, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 265 de fecha 14 de Marzo del año 2024;
+Financiado con fondos del Convenio suscrito entre la Secretaría de la Mujer (SEMUJER) y la Alcaldía Municipal del Distrito Central Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y el señor JOSIAS AZAEL ZUNIGA CANALES, de nacionalidad hondureña, mayor de edad, Documento Nacional de Identificación No. 0510-1983-01354 del domicilio de Tegucigalpa, M.D.C., quien actúa en su condición de Gerente General de la Sociedad Mercantil CONSTRUCTORA MAC, S. DE R.L., Representación que se acredita mediante Instrumento Público No. 265 de fecha 14 de Marzo del año 2024;
 
 Autorizado por el Abogado y Notario Guillermo Enrique Osorio e inscrito bajo el No. 89687, Matrícula: 2530531 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado I.P., quien para los efectos de este contrato se denominará EL CONTRATISTA.
 
-Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de él se deriven, convienen en suscribir el presente Contrato para el proyecto denominado “CASA REFUGIO”.- CÓDIGO No. SEM- 001-2025.
+Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de él se deriven, convienen en suscribir el presente Contrato para el proyecto denominado “CASA REFUGIO”.- CÓDIGO No. SEM-001-2025.
 
 Contrato que se regirá por las cláusulas y condiciones legales siguientes:
 
@@ -5029,7 +4999,7 @@ c) Las Especificaciones y Condiciones de Cumplimiento.
 
 d) El Formulario de Oferta y la Lista de Actividades y Cantidades y Fichas de Precios Unitarios presentados por el Contratista en su Oferta.
 
-e) L a N o t i f i c a c i ó n d e l Contratante al Contratista, de que se le ha adjudicado el Contrato.
+e) La Notificación del Contratante al Contratista, de que se le ha adjudicado el Contrato.
 
 f) Los Planos del proyecto.
 
@@ -5059,7 +5029,7 @@ EL CONTRATISTA, se obliga a construir la obra contratada con apego estricto a lo
 
 Será la fecha indicada por la Dirección de Control y Seguimiento.
 
-C L Á U S U L A C U A R T A : E L
+CLÁUSULA CUARTA: E L
 
 CONTRATANTE se obliga a pagar a EL CONTRATISTA por la construcción de las obras recibidas a su satisfacción de acuerdo con los términos y exigencias de este Contrato, a los precios unitarios de su propuesta, y a hacer efectivas las sumas que resulten pagaderas.
 
@@ -5067,7 +5037,7 @@ CLÁUSULA QUINTA: COSTOS UNITARIOS. - EL CONTRATISTA se obliga a llevar a cabo l
 
 CLÁUSULA SEXTA: MONTO DEL CONTRATO Y FORMA DE PAGO, GARANTÍAS Y RETENCIONES.
 
-M o n t o : E l m o n t o d e é s t e Contrato asciende en la suma de: TREINTA Y UN MILLONES SETECIENTOS CUARENTA Y UN MIL CATORCE LEMPIRAS CON 20/100 (L. 31,741,014.20), que se pagarán mediante estimaciones mensuales de acuerdo al avance de la obra. En el monto se incluye:
+Monto: El monto de éste Contrato asciende en la suma de: TREINTA Y UN MILLONES SETECIENTOS CUARENTA Y UN MIL CATORCE LEMPIRAS CON 20/100 (L. 31,741,014.20), que se pagarán mediante estimaciones mensuales de acuerdo al avance de la obra. En el monto se incluye:
 
 UN MILLON DOSCIENTOS VEINTE MIL OCHOCIENTOS OCHO LEMPIRAS CON 24/100 (L. 1,220,808.24), por concepto de Administración Delegada, éste se pagará únicamente si es necesario y con la aprobación de la Supervisión de obra. Forma de Pago: Se podrá otorgar a EL CONTRATISTA el quince por ciento (15%) del monto del contrato en calidad de Anticipo, previa presentación de una garantía de anticipo equivalente al cien por ciento (100%) del monto del anticipo.
 
@@ -5079,29 +5049,27 @@ b) Garantía de Anticipo: Previa entrega del anticipo EL CONTRATISTA deberá pre
 
 c) Garantía de Calidad de Obra: Una vez efectuada la recepción final de las obras, y realizada la liquidación final del contrato, EL CONTRATISTA, sustituirá la garantía de cumplimiento de contrato, por una garantía de Calidad de Obra, equivalente al cinco por ciento (5%) del monto final de la obra y con una duración de doce (12) meses contado a partir de la fecha del Acta de Recepción Definitiva de la obra.- Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar en la República de Honduras y deberá contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la Alcaldía Municipal del Distrito Central, con la simple presentación de una nota de incumplimiento”. De cada pago que se haga a EL CONTRATISTA en concepto de estimación de obra se le retendrá a) El quince por ciento (15%) de cada estimación por concepto de devolución de anticipo hasta complementar el cien por ciento (100%) del anticipo. En la última estimación se deducirá el saldo pendiente de dicho anticipo; b) Se le deducirá a EL CONTRATISTA las retenciones del Impuesto Sobre la Renta de acuerdo a los establecido en las leyes de la República de Honduras, en caso contrario, EL CONTRATISTA deberá acreditar ante EL CONTRATANTE, el correspondiente pago a cuenta por concepto de Impuesto Sobre la Renta de acuerdo a lo estipulado en la Ley, mediante Constancia emitida por el Sistema de Administración de Rentas (SAR).
 
-C L Á U S U L A S É P T I M A :
+CLÁUSULA SÉPTIMA:
 
-R E C O N O C I M I E N T O D E
+RECONOCIMIENTO DE
 
 MAYORES COSTOS. - Los precios estarán sujetos al ajuste derivado de la aplicación del procedimiento para el reconocimiento de mayores costos mediante la fórmula polinómica que se describe en las Condiciones Generales del Contrato.
 
-CLÁUSULA OCTAVA: MULTA De acuerdo al Decreto Legislativo No.
-
-4-2025, Disposiciones Generales del Presupuesto para el año vigente, Art.
+CLÁUSULA OCTAVA: MULTA De acuerdo al Decreto Legislativo No. 4-2025, Disposiciones Generales del Presupuesto para el año vigente, Art.
 
 N° 120, la multa diaria aplicable se fija en cero punto treinta y seis por ciento (0.36%) por cada día de retraso, en relación con el monto total del saldo del contrato. El Pliego de Condiciones y el Contrato de Construcción y Supervisión de Obras Públicas, debe contener la cláusula sancionatoria.
 
 Esta misma disposición se debe aplicar también a las compras realizadas mediante catálogo electrónico y los contratos de bienes y servicios que celebren las Instituciones del Sector Público.
 
-C L Á U S U L A N O V E N A : E L
+CLÁUSULA NOVENA: E L
 
-C O N T R A T I S T A t e n d r á l a obligación de inscribir en la Cámara Hondureña de la Industria de la Construcción (CHICO) el presente Contrato, de igual forma deberá acreditar ante la Dirección de Control y Seguimiento de la A.M.D.C., de EL CONTRATANTE dicha inscripción para dar cumplimiento a lo establecido en el Art. 35 de la Ley de Contratación del Estado.
+CONTRATISTA tendrá la obligación de inscribir en la Cámara Hondureña de la Industria de la Construcción (CHICO) el presente Contrato, de igual forma deberá acreditar ante la Dirección de Control y Seguimiento de la A.M.D.C., de EL CONTRATANTE dicha inscripción para dar cumplimiento a lo establecido en el Art. 35 de la Ley de Contratación del Estado.
 
 CLÁUSULA DÉCIMA: CLÁUSULA
 
 DE INTEGRIDAD: Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente: 1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y D I S C R E C I Ó N C O N L A INFORMACIÓN CONFIDENCIAL Q U E M A N E J A M O S , ABSTENIENDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2. Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidas en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente: 1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIENDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2. Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidas en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia. 3.
 
 Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado y trabajador, socio o asociado, autorizado o no, realizará:
 
@@ -5129,11 +5097,11 @@ a) Al contratista la administración declarará de oficio y hará efectiva la ga
 
 CLÁUSULA DÉCIMA SEGUNDA:
 
-C L Á U S U L A R E C O R T E PRESUPUESTARIO., DECRETO
+CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO
 
-No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
-C L Á U S U L A D É C I M A T E R C E R A : “ C L Á U S U L A ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligado a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
+CLÁUSULA DÉCIMA TERCERA: “ CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN: El proveedor, contratista o consultor está obligado a observar las más estrictas normas legales durante el proceso de ejecución del contrato, de conformidad a lo siguiente:
 
 1. A efecto de la presente cláusula, se definen las siguientes expresiones:
 
@@ -5763,7 +5731,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -5821,7 +5789,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira : US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
 * Una vez que la ONCAE realice las validaciones del caso, la Divisa como Indicador de Alza podrá sustituirse íntegramente por el Índice de Repuestos (IR) que en un futuro se emita en el Boletín de la CHICO o mediante las respectivas Certificaciones de Precios, como un valor más representativo de las variaciones que en el mercado local experimentan los Repuestos, llantas, partes y otros conceptos afines al Equipo y Maquinaria, empleada en la ejecución de las obras.
 
@@ -5869,7 +5837,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -5959,7 +5927,7 @@ El número máximo de días es de cuarenta y dos (42); consistente con la CGC 57
 
 APENDICE “A” OTRAS OBLIGACIONES DEL CONTRATISTA
 
-I. P R O C E D I M I E N T O P A R A ELABORAR EL PROGRAMA DE TRABAJO En consistencia con la Cláusula CEC 27, el Programa de trabajo que elabore el Contratista, debe contener por lo menos los aspectos siguientes:
+I. PROCEDIMIENTO PARA ELABORAR EL PROGRAMA DE TRABAJO En consistencia con la Cláusula CEC 27, el Programa de trabajo que elabore el Contratista, debe contener por lo menos los aspectos siguientes:
 
 1. El sistema de programación debe estar basado en el método CPM (Critical Path Method), con indicación de ruta crítica, utilizando para ello el Ms Project o similar.
 
@@ -6069,7 +6037,7 @@ d. Los resultados de la constatación del retiro de las instalaciones del lugar 
 
 e. Los resultados de la constatación relacionada con la terminación de los trabajos que estuvieran incompletos.
 
-f. Visto bueno de las empresas d e s e r v i c i o s p ú b l i c o s correspondiente, en el caso de obras de Redes.
+f. Visto bueno de las empresas de servicios públicos correspondiente, en el caso de obras de Redes.
 
 g. O de las cantidades de obra finales ejecutadas con el respectivo monto final.
 
@@ -6087,7 +6055,7 @@ En consistencia con la Cláusula CEC 23, el uso frecuente de la bitácora es obl
 
 La custodia de la bitácora corresponde al Supervisor y siempre debe estar disponible para las partes involucradas en el Proyecto. Le corresponde al Supervisor hacer el cierre de la Bitácora cuando finalice el Proyecto.
 
-V I I I . O B L I G A C I Ó N D E L CONTRATISTA DE COMUNICAR SOBRE CUALQUIER ERROR E N L O S D O C U M E N T O S CONTRACTUALES El Contratista está obligado a informar al Supervisor y a la Dirección de Control y Seguimiento de la AMDC de cualquier error que encuentre en los documentos, planos o especificaciones o cualquier hecho o circunstancia que pueda afectar la calidad, tiempo o costo de los trabajos a ser ejecutados bajo el contrato, con el propósito de tomar oportunamente las medidas correctivas que correspondan. La comunicación debe hacerla a más tardar dentro de los cinco (5) días hábiles a partir de la fecha en que haga el descubrimiento. El incumplimiento de esta obligación por parte del Contratista lo hará responsable de los perjuicios que se generen en su contra o en contra del Contratante.
+VIII . OBLIGACIÓN DEL CONTRATISTA DE COMUNICAR SOBRE CUALQUIER ERROR EN LOS DOCUMENTOS CONTRACTUALES El Contratista está obligado a informar al Supervisor y a la Dirección de Control y Seguimiento de la AMDC de cualquier error que encuentre en los documentos, planos o especificaciones o cualquier hecho o circunstancia que pueda afectar la calidad, tiempo o costo de los trabajos a ser ejecutados bajo el contrato, con el propósito de tomar oportunamente las medidas correctivas que correspondan. La comunicación debe hacerla a más tardar dentro de los cinco (5) días hábiles a partir de la fecha en que haga el descubrimiento. El incumplimiento de esta obligación por parte del Contratista lo hará responsable de los perjuicios que se generen en su contra o en contra del Contratante.
 
 IX. ÓRDENES DE CAMBIO (VARIACIONES)
 
@@ -6117,7 +6085,7 @@ k. Copias de Bitácora.
 
 l. Nota de aprobación de la supervisión.
 
-X. PROCEDIMIENTO PARA M O D I F I C A C I Ó N
+X. PROCEDIMIENTO PARA MODIFICACIÓN
 
 D E
 
@@ -6171,7 +6139,7 @@ a. Fotocopia del contrato.
 
 b. Fotocopia de Fianza de Anticipo
 
-c. F o t o c o p i a d e F i a n z a d e Cumplimiento.
+c. Fotocopia de Fianza de Cumplimiento.
 
 4. Información general: a.Copia del Documento Nacional de Identificación del representante legal.
 
@@ -6191,7 +6159,7 @@ h. Constancia de inscripción de proyecto en la Cámara Hondureña de la Industr
 
 (CHICO). ORIGINAL primer pago o anticipo y en las subsiguientes estimaciones se adjuntará copia.
 
-XII. REQUISITOS EMPRESA C O N S T R U C T O R A ESTIMACIONES En el marco de la Cláusula CEC 42, los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser encuadernada con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+XII. REQUISITOS EMPRESA CONSTRUCTORA ESTIMACIONES En el marco de la Cláusula CEC 42, los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser encuadernada con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1. Solicitud para trámite de estimación, indicando nombre del proyecto, N° de contrato, código, periodo y monto. Dirigido al Director de Control y Seguimiento.
 
@@ -6213,7 +6181,7 @@ g. Informe técnico del proyecto de la supervisión.
 
 h. Hojas de Bitácora (color Amarillas)
 
-i. C r o n o g r a m a a c t u a l i z a d o mensualmente.
+i. Cronograma actualizado mensualmente.
 
 j. Cambios realizados en la estructura presupuestaria del proyecto.
 
@@ -6235,7 +6203,7 @@ d. Fotocopia de fianza de calidad de obra (Último pago).
 
 3. Información general:
 
-a. C o p i a d e l D o c u m e n t o Nacional de Identificación del representante legal.
+a. Copia del Documento Nacional de Identificación del representante legal.
 
 b. Copia de solvencia Municipal del representante legal.
 
@@ -6253,13 +6221,13 @@ h. Constancia de inscripción de proyecto en la cámara Hondureña de la Industr
 
 ORIGINAL primer pago o anticipo y en las subsiguientes estimaciones se adjuntará copia.
 
-Apéndice B LPuNO-001-AMDC-002-2025 Financiado con Fondos del convenio suscrito entre la Secretaría de la Mujer (SEMUJER) y la Alcaldía Municipal del Distrito Central PROYECTO :
+Apéndice B LPuNO-001-AMDC-002-2025 Financiado con Fondos del convenio suscrito entre la Secretaría de la Mujer (SEMUJER) y la Alcaldía Municipal del Distrito Central PROYECTO:
 
 “CASA REFUGIO”
 
 Código No. SEM-001-2025
 
-UBICADO EN :
+UBICADO EN:
 
 Municipio del Distrito Central, Francisco Morazán Item DESCRIPCIÓN Constructora MAC, S. de R.L.
 
@@ -6403,11 +6371,9 @@ MODIFICACIÓN № 2
 
 CONTRATO No. 2290/GLA/
 
-AMDC/2024.-CÓDIGO № -REPRESA-001 “ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2 Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central No.
+AMDC/2024.-CÓDIGO № -REPRESA-001 “ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2 Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central No. 14 del Acta Extraordinaria No. 007 de fecha 22 de marzo del año 2024 CONTRATACIÓN DIRECTA DE EMERGENCIA No. CDE-003-AMDC-037-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor MANUEL ENRIQUE FLORES PEÑALBA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0801-1970-03820 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada GEOCONSULT, S.A. DE C.V., Representación que se acredita mediante Instrumento Público N° 26 de fecha 04 de agosto del año 2008;
 
-14 del Acta Extraordinaria No. 007 de fecha 22 de marzo del año 2024 CONTRATACIÓN DIRECTA DE EMERGENCIA No. CDE-003-AMDC-037-2024 Nosotros, JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número 001-GDFM- 2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos Legales de esta Modificación se denominará EL CONTRATANTE y el señor MANUEL ENRIQUE FLORES PEÑALBA, de nacionalidad hondureña, Mayor de edad, portador del Documento Nacional de Identificación No. 0801- 1970-03820 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada GEOCONSULT, S.A. DE C.V., Representación que se acredita mediante Instrumento Público N° 26 de fecha 04 de agosto del año 2008;
-
-Autorizado por el Abogado y Notario Marco Vinicio Zuniga Medrano e inscrito bajo N° 89, Tomo N° 710 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de esta Modificación No. 2 se denominará “EL CONSULTOR” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 2 al Contrato para el proyecto d e n o m i n a d o  A S I S T E N C I A TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2.- Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central No. 14 del Acta Extraordinaria No. 007 de fecha 22 de marzo del año 2024.- Contratación Directa de Emergencia No. CDE- 003-AMDC-037-2024.- CÓDIGO No. REPRESA-001; de acuerdo a los términos siguiente:
+Autorizado por el Abogado y Notario Marco Vinicio Zuniga Medrano e inscrito bajo N° 89, Tomo N° 710 del Registro Mercantil de Francisco Morazán Centro Asociado I.P., quien en lo sucesivo y para efectos de esta Modificación No. 2 se denominará “EL CONSULTOR” por la otra parte; por cuanto hemos acordado celebrar la presente Modificación No. 2 al Contrato para el proyecto denominado  ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2.- Mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central No. 14 del Acta Extraordinaria No. 007 de fecha 22 de marzo del año 2024.- Contratación Directa de Emergencia No. CDE-003-AMDC-037-2024.- CÓDIGO No. REPRESA-001; de acuerdo a los términos siguiente:
 
 DEFINICIONES.- Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -6425,9 +6391,7 @@ DE C.V.
 
 Fondos Municipales
 
-CONSIDERANDO #1: Que la Alcaldía Municipal del Distrito Central suscribió el CONTRATO No. 2290/ GLA/AMDC/2024.- CÓDIGO No.
-
-REPRESA-001, con fecha Treinta
+CONSIDERANDO #1: Que la Alcaldía Municipal del Distrito Central suscribió el CONTRATO No. 2290/ GLA/AMDC/2024.- CÓDIGO No. REPRESA-001, con fecha Treinta
 
 (30) del mes de Agosto del año dos mil veinticuatro (2024), entre el señor Alcalde Municipal del Distrito Central y la Empresa GEOCONSULT, S.A. DE C.V., por un monto de QUINIENTOS TREINTA Y NUEVE MILLONES CUATROCIENTOS SETENTA MIL CIENTO CUARENTA Y OCHO LEMPIRAS CON 19/100 (L. 539,470,148.19), y en un plazo de ejecución de mil ochenta (1080) días calendario.
 
@@ -6445,9 +6409,7 @@ En particular, se han identificado dos familias que se oponen al proyecto y que 
 
 Esta pausa permitirá continuar con las gestiones pendientes, fortalecer los vínculos de comunicación con la población y garantizar las condiciones adecuadas para retomar las actividades con el respaldo necesario.
 
-CONSIDERANDO #5: Que se emitió Acta de Reinicio en fecha Veinte (20) de octubre del año dos mil veinticinco (2025), el Proyecto se reinició formalmente por lo siguiente: a) El reinicio del proyecto Fase 1 se justifica por la necesidad de atender compromisos institucionales, técnicos y social clave que surgieron durante la suspensión temporal No.
-
-1, su reactivación permitirá fortalecer la coordinación intermunicipal y avanzar en la elaboración del Plan de Reasentamiento Involuntario
+CONSIDERANDO #5: Que se emitió Acta de Reinicio en fecha Veinte (20) de octubre del año dos mil veinticinco (2025), el Proyecto se reinició formalmente por lo siguiente: a) El reinicio del proyecto Fase 1 se justifica por la necesidad de atender compromisos institucionales, técnicos y social clave que surgieron durante la suspensión temporal No. 1, su reactivación permitirá fortalecer la coordinación intermunicipal y avanzar en la elaboración del Plan de Reasentamiento Involuntario
 
 (PRI) y del Estudio de evaluación de Impacto Ambiental y Social (EEIAS), componentes esenciales para la continuidad y cumplimiento de los objetivos del proyecto. Durante el periodo de suspensión se desarrollaron gestiones orientadas a superar las limitaciones que motivaron la pausa en la ejecución, a partir de dichos avances, se identifican los siguientes motivos que fundamentan el reinicio de las actividades contractuales: 1.
 
@@ -6461,19 +6423,13 @@ Esta asistencia Integral asegurará el cumplimiento de los términos contractual
 
 1. En conjunto, estos factores hacen necesario la readecuación del proyecto a fin garantizar la continuidad técnica, Institucional y Social de las gestiones, y asegurar el desarrollo ordenado y eficiente de las actividades establecidas en la Fase 1.
 
-CONSIDERANDO #6: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha Diez (10) de noviembre del año dos mil veinticinco (2025), Informe de Modificación No.2 en relación con el CONTRATO No.
-
-2290/GLA/AMDC/2024.- CÓDIGO
+CONSIDERANDO #6: Que la Empresa Supervisora contratada remitió a la Dirección de Control y Seguimiento en fecha Diez (10) de noviembre del año dos mil veinticinco (2025), Informe de Modificación No. 2 en relación con el CONTRATO No. 2290/GLA/AMDC/2024.- CÓDIGO
 
 No. REPRESA-001 “ASISTENCIA
 
 TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2.
 
-CONSIDERANDO #7: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No.
-
-2 por Ampliación de Monto y Tiempo Contractual de el CONTRATO No.
-
-2290/GLA/AMDC/2024.- CÓDIGO
+CONSIDERANDO #7: Que la Dirección de Control y Seguimiento remite solicitud de Modificación No. 2 por Ampliación de Monto y Tiempo Contractual de el CONTRATO No. 2290/GLA/AMDC/2024.- CÓDIGO
 
 No. REPRESA-001.- ASISTENCIA
 
@@ -6483,7 +6439,7 @@ La ciudad ha experimentado un crecimiento acelerado, principalmente por la inmig
 
 Las fuentes de suministro actuales solo satisfacen parcialmente la demanda, especialmente durante la época seca, lo que obliga a aplicar racionamientos severos que en algunos sectores limitan el servicio a un día por semana, afectando principalmente a los barrios periféricos. Ante esta situación, la administración municipal de Tegucigalpa, con apoyo del Gobierno Central, prioriza incrementar la oferta de agua mediante el Proyecto Jiniguare, que contempla la captación del río Ojojona y la construcción de un nuevo embalse. Este proyecto beneficiará a unas 300,000 personas del sector suroeste de la ciudad, incrementando la oferta media de agua en un 19% y la capacidad total de almacenamiento en un 26%, contribuyendo a atender la demanda actual y futura.
 
-Situación por la cual la AMDC suscribió el contrato No. 2290/ GLA/AMDC/2024, “ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE J I N I G U A R E Y S U S O B R A S CONEXAS, FASE 2”, en fecha 30 de agosto de 2024, el cual, durante su ejecución, requirió la suscripción de la Modificación No. 1 el 05 febrero de 2025, mediante la cual se ampliaron los alcances en cuanto a monto y plazo contractual.
+Situación por la cual la AMDC suscribió el contrato No. 2290/ GLA/AMDC/2024, “ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2”, en fecha 30 de agosto de 2024, el cual, durante su ejecución, requirió la suscripción de la Modificación No. 1 el 05 febrero de 2025, mediante la cual se ampliaron los alcances en cuanto a monto y plazo contractual.
 
 Asimismo, debido a la falta de formalización de los convenios intermunicipales necesarios, las limitaciones en el acceso a información técnica y logística, y las dificultades de carácter social que impidieron el avance adecuado en la recopilación de insumos para la elaboración del Plan de Reasentamiento Involuntario
 
@@ -6493,7 +6449,7 @@ Posteriormente, como resultado de los avances alcanzados durante el período de 
 
 CAUSALES DE LA JUSTIFICACIÓN DE MODIFICACIÓN:
 
-Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado las diferentes situaciones a lo largo del proyecto y nuevos requerimientos de trabajos, detallando las causales que dieron lugar a la presente, incurriendo en un incremento en el plazo contractual de conformidad a los artículos 121, 122, 123 y 125 de la Ley de Contratación del Estado, en las cuales se establece en el artículo 122 de la ley que cuando las variaciones acumuladas superen el 10% del Precio Inicial del Contrato se formalizarán mediante modificación del contrato y en el artículo 125 de la ley que cuando mediare causa justificada prevista contractualmente , el contratista podrá solicitar la modificación de los plazos de entrega de las prestaciones objeto del contrato.
+Esta DIRECCIÓN DE CONTROL Y SEGUIMIENTO, ha estudiado las diferentes situaciones a lo largo del proyecto y nuevos requerimientos de trabajos, detallando las causales que dieron lugar a la presente, incurriendo en un incremento en el plazo contractual de conformidad a los artículos 121, 122, 123 y 125 de la Ley de Contratación del Estado, en las cuales se establece en el artículo 122 de la ley que cuando las variaciones acumuladas superen el 10% del Precio Inicial del Contrato se formalizarán mediante modificación del contrato y en el artículo 125 de la ley que cuando mediare causa justificada prevista contractualmente, el contratista podrá solicitar la modificación de los plazos de entrega de las prestaciones objeto del contrato.
 
 A continuación, se presentan los causales y su justificación:
 
@@ -6537,9 +6493,7 @@ ARTÍCULOS 121, 122, 123 y 125 de dicha ley y ARTÍCULO 202 y 203 del Reglamento
 
 De ser aprobada la solicitud de ampliación de tiempo de sesenta
 
-(60) días calendario adicionales, el proyecto estaría finalizando el 22 de marzo del 2026; además, con una ampliación de L 3,893,351.43 (28.86% del monto contractual); para un nuevo monto total de la Fase 1 de L 20,726,689.37. Fecha y monto en que la Supervisión deberá completar todas las actividades de obra “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad”. De acuerdo al análisis técnico de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No.
-
-2 en Tiempo y Monto del Contrato No.
+(60) días calendario adicionales, el proyecto estaría finalizando el 22 de marzo del 2026; además, con una ampliación de L 3,893,351.43 (28.86% del monto contractual); para un nuevo monto total de la Fase 1 de L 20,726,689.37. Fecha y monto en que la Supervisión deberá completar todas las actividades de obra “Entiéndase por terminación sustancial la conclusión de la obra de acuerdo con los planos, especificaciones y demás documentos contractuales, de manera que, luego de las comprobaciones que procedan, pueda ser recibida definitivamente y puesta en servicio, atendiendo su finalidad”. De acuerdo al análisis técnico de cada una de las actividades contractuales modificadas, se DICTAMINA que es PROCEDENTE la aprobación de dicha Modificación No. 2 en Tiempo y Monto del Contrato No.
 
 Contrato No. 2290/GLA/AMDC/2024 –Código No.-REPRESA-001, para el proyecto “ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS POR LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 1 Y SERVICIOS DE SUPERVISIÓN DEL DISEÑO Y LA CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS, FASE 2”.
 
@@ -6569,7 +6523,7 @@ Se asume dentro de estos plazos que la prestación de los servicios se ajustará
 
 SEGUNDA: Se modifica la Cláusula Sexta del Contrato de que deberá leerse de la siguiente manera: CLÁUSULA SEXTA: El monto del contrato asciende a la cantidad para la FASE I: Asistencia Técnica para el estudio de impacto ambiental y diseño de plan de reasentamiento involuntario causados por la construcción de las obras del embalse Jiniguare y sus obras conexas por un monto de: Veinte millones setecientos veintiséis mil seiscientos ochenta y nueve lempiras con 37/100 (L. 20,726,689.37) y para la FASE II:
 
-Servicios de supervisión del diseño y la construcción de las obras del embalse Jiniguare y sus obras conexas por un monto de: Quinientos veinticinco millones novecientos ochenta mil setecientos noventa lempiras con 52/100 (L. 525,980,790.52), M o n t o T o t a l N e g o c i a d o d e QUINIENTOS CUARENTA Y SEIS MILLONES SETECIENTOS SIETE MIL CUATROCIENTOS SETENTA Y NUEVE LEMPIRAS CON 89/100 (L. 546,707,479.89) EL CONSULTOR se obliga a llevar a cabo todos los trabajos de la consultoría y cumplir con todos los objetivos de la misma con el monto establecido en el presente contrato, sin embargo, para efectos de trabajos adicionales que solicite el Contratante se utilizará los costos unitarios establecidos en la tabla abajo descrita:
+Servicios de supervisión del diseño y la construcción de las obras del embalse Jiniguare y sus obras conexas por un monto de: Quinientos veinticinco millones novecientos ochenta mil setecientos noventa lempiras con 52/100 (L. 525,980,790.52), Monto Total Negociado de QUINIENTOS CUARENTA Y SEIS MILLONES SETECIENTOS SIETE MIL CUATROCIENTOS SETENTA Y NUEVE LEMPIRAS CON 89/100 (L. 546,707,479.89) EL CONSULTOR se obliga a llevar a cabo todos los trabajos de la consultoría y cumplir con todos los objetivos de la misma con el monto establecido en el presente contrato, sin embargo, para efectos de trabajos adicionales que solicite el Contratante se utilizará los costos unitarios establecidos en la tabla abajo descrita:
 
 (ver cuadro de Detalles del Costo anexo).
 
@@ -6607,7 +6561,7 @@ Pagos Periódicos de Modificación No. 1: Tres pagos periódicos de L 1,114,660.
 
 Pagos Periódicos de Modificación N o .
 
-2 : D o s p a g o s p e r i ó d i c o s d e L 1,946,675.72 (Un millón novecientos cuarenta y seis mil seiscientos setenta y cinco lempiras con 72/100) cada uno. Contra entrega y aprobación de Informes Mensuales de Avance.
+2 : Dos pagos periódicos deL 1,946,675.72 (Un millón novecientos cuarenta y seis mil seiscientos setenta y cinco lempiras con 72/100) cada uno. Contra entrega y aprobación de Informes Mensuales de Avance.
 
 Pago Final: Diez por ciento (10%) del valor de los servicios de Fase 1 (contrato original). Contra entrega y aprobación de Informe Final por parte de las autoridades de la AMDC.
 
@@ -6627,9 +6581,7 @@ F Y S
 
 _______________________________________ Jorge Alejandro Aldana Bardales Alcalde Municipal EL CONTRATANTE F Y S ______________________________________ Manuel Enrique Flores Peñalba GEOCONSULT, S.A. de C.V.
 
-RTN: 08019001213132 EL CONSULTOR PRESUPUESTO PARA LOS SERVICIOS DE FASE 1 SEGÚN MODIFICACION 2 ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS(Fase1) / CÓDIGO No.
-
-REPRESA-001 GEOCONSULT S.A. DE C.V.
+RTN: 08019001213132 EL CONSULTOR PRESUPUESTO PARA LOS SERVICIOS DE FASE 1 SEGÚN MODIFICACION 2 ASISTENCIA TÉCNICA PARA EL ESTUDIO DE IMPACTO AMBIENTAL Y DISEÑO DE PLAN DE REASENTAMIENTO INVOLUNTARIO CAUSADOS CONSTRUCCIÓN DE LAS OBRAS DEL EMBALSE JINIGUARE Y SUS OBRAS CONEXAS(Fase1) / CÓDIGO No. REPRESA-001 GEOCONSULT S.A. DE C.V.
 
 Monto Inicial + Mod. 1 + Mod.2 No.
 
@@ -6637,7 +6589,7 @@ Descripción Unidad Precio Unitario
 
 LPS
 
-I Personal 1 Personal directivo y de apoyo técnico I.1.1 Gerente de Proyecto Hombre/mes 31,500.00 7.00 1,091,475.00 2 Personal especialista para la Asistencia Técnica para el Estudio de Impacto Ambiental I.2.1 Especialista Ambiental Líder Hombre/mes 24,000.00 8.00 950,400.00 I.2.2 Especialista Ambiental Asistente Hombre/mes 22,000.00 9.00 980,100.00 I.2.3 Abogado Ambiental Hombre/mes 8,800.00 6.00 653,400.00 3 Personal especialista para el Diseño del Plan de Reasentamiento I.3.1 Líder de Equipo Hombre/mes 22,000.00 8.00 871,200.00 I.3.2 Especialista en Gestión Social Hombre/mes 19,500.00 11.00 1,061,775.00 I.3.3 Especialista en Valoración de Bienes Hombre/mes 7,800.00 4.00 386,100.00 Subtotal 5,994,450.00 4 Personal Técnico Auxiliar I.4.1 Asistentes en Gestión Social Hombre/mes 12,000.00 15.00 445,500.00 I.4.2 Encuestadores Hombre/mes 17,000.00 28.00 589,050.00 I.4.3 Técnico en Sistemas de Información Geográfica Hombre/mes 24,000.00 21.00 623,700.00 I.4.4 Técnico Analista de Datos Hombre/mes 6,000.00 6.00 178,200.00 I.4.5 Motoristas Hombre/mes 3,900.00 9.00 173,745.00 Subtotal 2,010,195.00 5 Personal Administrativo I.5.1 Administrador Hombre/mes 3,450.00 3.00 85,387.50 I.5.2 Contador Hombre/mes 1,700.00 4.00 84,150.00 I.5.3 Secretaria Hombre/mes 2,250.00 3.00 55,687.50 I.5.4 Motorista Oficina Hombre/mes 1,950.00 3.00 48,262.50 Subtotal 273,487.50 Subtotal de I 8,278,132.50 II Beneficios Sociales Beneficios Sociales (46.23% sobre la suma de 1+2+3+4+5) 46.23% 3,826,980.66 Subtotal de II 3,826,980.66 III Costos Operativos 3.01 Vehiculo mes 5,750.00 9.00 256,162.50 3.02 Cuadrilla de Topografía mes 17,500.00 7.00 606,375.00 3.03 Elaboración de Informes Unidad 1,750.00 10.00 86,625.00 3.04 Oficina Mes 3,250.00 9.00 144,787.50 3.05 Licencias de Software de Ofimática y Datos Mes 4,000.00 6.00 118,800.00 3.06 Comunicación y telefonía Mes 2,500.00 8.00 99,000.00 3.07 Publicaciones y medios Mes 6,000.00 7.00 207,900.00 3.08 Entrenamiento a personal encuestador e impulsadores Global 2,500.00 1.00 61,875.00 3.09 Logística para Eventos de Socialización y Participación Comunitaria Mes 22,500.00 9.00 1,002,375.00 3.10 Levantamiento LiDAR del Área de Influencia Global 65,000.00 1.00 1,608,750.00 3.11 Módulo de Capacitación y Trabajo de Campo para Diagnóstico Sociocultural en Pueblos Indígenas Global 123,659.09 1.00 123,659.09 SubTotal de III 4,316,309.09 IV Gastos Generales 4.1 20% de (I+II) 20% 2,421,022.63 SubTotal de IV 2,421,022.63 V Manejo de Costos Directos 5.1 10% de III 10% 431,630.91 SubTotal de V 431,630.91 VI Honorarios 6.1 10% de (I+II+IV) 10% 1,452,613.58 SubTotal de VI 1,452,613.58 GRAN TOTAL 20,726,689.37 9 CONTRATO No. 3301/GLA/ AMDC/2025.- CÓDIGO No. FEXGOB-0002 “PERFORACIÓN DE POZO ALDEA SAN JUAN DEL RANCHO” No. COT- 001-AMDC-033-2025, por un monto total de: UN MILLÓN TRESCIENTOS CUARENTA Y UN MIL QUINIENTOS LEMPIRAS CON 00/100, (L1,341,500.00)., suscrito el 22 de octubre del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CIMSA, S.
+I Personal 1 Personal directivo y de apoyo técnico I.1.1 Gerente de Proyecto Hombre/mes 31,500.00 7.00 1,091,475.00 2 Personal especialista para la Asistencia Técnica para el Estudio de Impacto Ambiental I.2.1 Especialista Ambiental Líder Hombre/mes 24,000.00 8.00 950,400.00 I.2.2 Especialista Ambiental Asistente Hombre/mes 22,000.00 9.00 980,100.00 I.2.3 Abogado Ambiental Hombre/mes 8,800.00 6.00 653,400.00 3 Personal especialista para el Diseño del Plan de Reasentamiento I.3.1 Líder de Equipo Hombre/mes 22,000.00 8.00 871,200.00 I.3.2 Especialista en Gestión Social Hombre/mes 19,500.00 11.00 1,061,775.00 I.3.3 Especialista en Valoración de Bienes Hombre/mes 7,800.00 4.00 386,100.00 Subtotal 5,994,450.00 4 Personal Técnico Auxiliar I.4.1 Asistentes en Gestión Social Hombre/mes 12,000.00 15.00 445,500.00 I.4.2 Encuestadores Hombre/mes 17,000.00 28.00 589,050.00 I.4.3 Técnico en Sistemas de Información Geográfica Hombre/mes 24,000.00 21.00 623,700.00 I.4.4 Técnico Analista de Datos Hombre/mes 6,000.00 6.00 178,200.00 I.4.5 Motoristas Hombre/mes 3,900.00 9.00 173,745.00 Subtotal 2,010,195.00 5 Personal Administrativo I.5.1 Administrador Hombre/mes 3,450.00 3.00 85,387.50 I.5.2 Contador Hombre/mes 1,700.00 4.00 84,150.00 I.5.3 Secretaria Hombre/mes 2,250.00 3.00 55,687.50 I.5.4 Motorista Oficina Hombre/mes 1,950.00 3.00 48,262.50 Subtotal 273,487.50 Subtotal de I 8,278,132.50 II Beneficios Sociales Beneficios Sociales (46.23% sobre la suma de 1+2+3+4+5) 46.23% 3,826,980.66 Subtotal de II 3,826,980.66 III Costos Operativos 3.01 Vehiculo mes 5,750.00 9.00 256,162.50 3.02 Cuadrilla de Topografía mes 17,500.00 7.00 606,375.00 3.03 Elaboración de Informes Unidad 1,750.00 10.00 86,625.00 3.04 Oficina Mes 3,250.00 9.00 144,787.50 3.05 Licencias de Software de Ofimática y Datos Mes 4,000.00 6.00 118,800.00 3.06 Comunicación y telefonía Mes 2,500.00 8.00 99,000.00 3.07 Publicaciones y medios Mes 6,000.00 7.00 207,900.00 3.08 Entrenamiento a personal encuestador e impulsadores Global 2,500.00 1.00 61,875.00 3.09 Logística para Eventos de Socialización y Participación Comunitaria Mes 22,500.00 9.00 1,002,375.00 3.10 Levantamiento LiDAR del Área de Influencia Global 65,000.00 1.00 1,608,750.00 3.11 Módulo de Capacitación y Trabajo de Campo para Diagnóstico Sociocultural en Pueblos Indígenas Global 123,659.09 1.00 123,659.09 SubTotal de III 4,316,309.09 IV Gastos Generales 4.1 20% de (I+II) 20% 2,421,022.63 SubTotal de IV 2,421,022.63 V Manejo de Costos Directos 5.1 10% de III 10% 431,630.91 SubTotal de V 431,630.91 VI Honorarios 6.1 10% de (I+II+IV) 10% 1,452,613.58 SubTotal de VI 1,452,613.58 GRAN TOTAL 20,726,689.37 9 CONTRATO No. 3301/GLA/ AMDC/2025.- CÓDIGO No. FEXGOB-0002 “PERFORACIÓN DE POZO ALDEA SAN JUAN DEL RANCHO” No. COT-001-AMDC-033-2025, por un monto total de: UN MILLÓN TRESCIENTOS CUARENTA Y UN MIL QUINIENTOS LEMPIRAS CON 00/100, (L1,341,500.00)., suscrito el 22 de octubre del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CIMSA, S.
 
 DE R.L. DE C.V., denominado El Contratista. Que literalmente dice:
 
@@ -6645,11 +6597,9 @@ CONTRATO No. 3301/GLA/ AMDC/2025.- CÓDIGO No. FEXGOB-0002 “PERFORACIÓN DE PO
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y KELVIN ERNESTO TURCIOS FLORES, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación 0801-1987- 17482, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CIMSA, S. DE R.L. DE C.V., Representación que se acredita mediante Instrumento Público No. 53 de fecha 27 de Marzo del año 2014; autorizado por el Abogado y Notario Salvador Navarrete Melchem e inscrito bajo el No. 21883, Matrícula:
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y KELVIN ERNESTO TURCIOS FLORES, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación 0801-1987-17482, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CIMSA, S. DE R.L. DE C.V., Representación que se acredita mediante Instrumento Público No. 53 de fecha 27 de Marzo del año 2014; autorizado por el Abogado y Notario Salvador Navarrete Melchem e inscrito bajo el No. 21883, Matrícula:
 
-2536094 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PERFORACIÓN DE POZO ALDEA SAN JUAN DEL RANCHO”, CÓDIGO No.
-
-FEX-GOB-0002.- Cotización No COT-001-AMDC-033-2025.- en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+2536094 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PERFORACIÓN DE POZO ALDEA SAN JUAN DEL RANCHO”, CÓDIGO No. FEX-GOB-0002.- Cotización No COT-001-AMDC-033-2025.- en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -6667,7 +6617,7 @@ a. Las Condiciones Generales del Contrato,
 
 b. Las Condiciones Especiales del Contrato,
 
-c. L a s E s p e c i f i c a c i o n e s y Condiciones de Cumplimiento,
+c. Las Especificaciones y Condiciones de Cumplimiento,
 
 d. El Formulario de Oferta, la Lista de Actividades y Cantidades, y las Fichas de Precios Unitarios presentados por el Contratista en su Oferta,
 
@@ -6681,7 +6631,7 @@ h. Garantías,
 
 i. Modificaciones al documento base si las hubieren.
 
-C L Á U S U L A T E R C E R A : E l Contratista por este medio se obliga a desarrollar la obra contratada con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo de Ciento veinte (120) días calendario.
+CLÁUSULA TERCERA: E l Contratista por este medio se obliga a desarrollar la obra contratada con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo de Ciento veinte (120) días calendario.
 
 CLÁUSULA CUARTA: El Contratante por este medio se compromete a pagar al contratista como retribución por la ejecución y terminación de las Obras y la subsanación de los defectos el precio del contrato o aquellas sumas que resulten pagaderas bajo las disposiciones del contrato en el plazo y en la forma establecidas en este y de acuerdo al cumplimiento de requisitos para la ejecución del pago.
 
@@ -6691,7 +6641,7 @@ CLÁUSULA SEXTA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, L E A L T A D C O N T R A C T U A L , E Q U I D A D , T O L E R A N C I A , IMPARCIALIDAD Y DISCRECIÓN C O N L A I N F O R M A C I Ó N CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
 
 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar:
 
@@ -6707,13 +6657,11 @@ b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o 
 
 CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE PRESUPUESTARIO.
 
-DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA OCTAVA: CLÁUSULA
 
-PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
+PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
 a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagara al Órgano Contratante por daños y perjuicios, ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido.
 
@@ -7521,7 +7469,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste:(Precio actual - Precio oferta) /FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira :
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira:
 
 US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
 
@@ -7611,7 +7559,7 @@ REQUISITOS EMPRESA CONSTRUCTORA (ANTICIPO)
 
 A. El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°. 13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de anticipo, indicando nombre del proyecto, N°. de contrato, código y monto. Dirigido al Director de Control y Seguimiento.
 
@@ -7657,7 +7605,7 @@ B. Informe Preliminar del proyecto para la estimación N°. 1.
 
 C. Informe del uso del anticipo (Cuando aplique, ver numeral N°. 6 de los requisitos).
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de estimación, indicando nombre del proyecto, N°. de contrato, código, periodo y monto.
 
@@ -7679,7 +7627,7 @@ F. Resumen fotográfico firmado y sellado por el supervisor (En físico mínimo 
 
 G. Fotografía del RÓTULO DEL PROYECTO instalado en todas las estimaciones.
 
-H. C r o n o g r a m a a c t u a l i z a d o mensualmente (Utilizando el programa Microsoft Project).
+H. Cronograma actualizado mensualmente (Utilizando el programa Microsoft Project).
 
 I.
 
@@ -7817,7 +7765,7 @@ Conteniendo cada una de las siguientes etapas:
 
 • Prueba de recuperación hasta alcanzar el 90% del abatimiento, 12 horas
 
-• Informe con Resultados, gráficas, p a r á m e t r o s h i d r á u l i c o s y recomendaciones para una explotación eficiente CRITERIOS DE MEDICIÓN Y PAGO El pago correspondiente a esta actividad se efectuará tras la finalización al 100% de la actividad con el informe con los resultados y recomendaciones (2 Copias), en conformidad con los requisitos establecidos.
+• Informe con Resultados, gráficas, parámetros hidráulicos y recomendaciones para una explotación eficiente CRITERIOS DE MEDICIÓN Y PAGO El pago correspondiente a esta actividad se efectuará tras la finalización al 100% de la actividad con el informe con los resultados y recomendaciones (2 Copias), en conformidad con los requisitos establecidos.
 
 El pago de esta actividad será la plena compensación por el suministro de todos los materiales, maquinaria, equipo, herramientas y mano de obra y demás trabajos imprevistos para poder ejecutar correctamente esta actividad.
 
@@ -7831,7 +7779,7 @@ Deberá contener las siguientes actividades:
 
 • Suministro e instalación de bomba y motor sumergible 5 HP Suministro e instalación de panel de control
 
-• I n s t a l a c i ó n d e t r e n d e descarga Instalación de equipo eléctrosumergible.
+• Instalación de tren de descarga Instalación de equipo eléctrosumergible.
 
 • Conexión eléctrica a alumbrado público
 
@@ -7893,7 +7841,7 @@ Fichas de Equipo de Protección Personal básico (EPP). Deberán incluir y seña
 
 14°05'03"N 87°03'49"W 1,103 m
 
-PRESUPUESTO DE OBRA COT-001-AMDC-033-2025 PROYECTO :
+PRESUPUESTO DE OBRA COT-001-AMDC-033-2025 PROYECTO:
 
 PERFORACIÓN DE POZO DE LA ALDEA SAN JUAN DEL RANCHO FEX-GOB-0002 Item DESCRIPCIÓN CIMSA, S. de R.L. de C.V.
 
@@ -7903,7 +7851,7 @@ Precio Precio Total Unidad Unitario Cantidad Evaluado Lempiras Lempiras 1 Estudi
 
 1.00 375,000.00 375,000.00 5 Caseta de Bombeo Global 1.00 98,000.00 98,000.00 6 Rotulo Movil del Proyecto Unidad 1.00 10,000.00 10,000.00 7 Rotulo Fijo del Proyecto Unidad 1.00 10,000.00 10,000.00 TOTAL DEL PROYECTO 1,341,500.00 10 CONTRATO No. 2476/GLA/ AMDC/2025.- CÓDIGO No. FEXGOB-0003 “CONFORMACIÓN Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA”.
 
-No. LPrNO-018-AMDC-034-2025, por un monto total de: DOS MILLONES NOVECIENTOS SETENTA Y NUEVE MIL NOVECIENTOS CINCUENTA Y TRES LEMPIRAS CON 68/100, (L. 2,979,953.68), suscrito el 22 de agosto del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CONSTRUCCIONES Y C O N S U L T O R Í A S P R O F E S I O N A L E S D E INGENIERÍA, S. DE R.L. (CCP INGENIERÍA), denominado El Contratista. Que literalmente dice:
+No. LPrNO-018-AMDC-034-2025, por un monto total de: DOS MILLONES NOVECIENTOS SETENTA Y NUEVE MIL NOVECIENTOS CINCUENTA Y TRES LEMPIRAS CON 68/100, (L. 2,979,953.68), suscrito el 22 de agosto del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CONSTRUCCIONES Y CONSULTORÍAS PROFESIONALES DE INGENIERÍA, S. DE R.L. (CCP INGENIERÍA), denominado El Contratista. Que literalmente dice:
 
 CONTRATO No. 2476/GLA/ AMDC/2025.- CÓDIGO No. FEXGOB-0003 “CONFORMACIÓN Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA”.
 
@@ -7913,7 +7861,7 @@ No. LPrNO-018-AMDC-034-2025 Este contrato se celebra entre:
 
 JORGE ALEJANDRO ALDANA
 
-BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y BRENDA MARCELA BARAHONA PINEL, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación 0801-1991- 06247, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CONSTRUCCIONES Y CONSULTORÍAS PROFESIONALES DE INGENIERÍA, S. DE R.L. (CCP INGENIERÍA), Representación que se acredita mediante Instrumento Público No. 225 de fecha 18 de Agosto del año 2021;
+BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001- GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y BRENDA MARCELA BARAHONA PINEL, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación 0801-1991-06247, quien actúa en su condición de Representante de la Sociedad Mercantil denominada CONSTRUCCIONES Y CONSULTORÍAS PROFESIONALES DE INGENIERÍA, S. DE R.L. (CCP INGENIERÍA), Representación que se acredita mediante Instrumento Público No. 225 de fecha 18 de Agosto del año 2021;
 
 Autorizado por el Abogado y Notario Vanessa Lizette Velásquez Lanza e inscrito bajo el N°. 68534, Matrícula:
 
@@ -7939,7 +7887,7 @@ a. Las Condiciones Generales del Contrato,
 
 b. Las Condiciones Especiales del Contrato,
 
-c. L a s E s p e c i f i c a c i o n e s y Condiciones de Cumplimiento
+c. Las Especificaciones y Condiciones de Cumplimiento
 
 d. El Formulario de Oferta, la Lista de Actividades y Cantidades, y las Fichas de Precios Unitarios presentados por el Contratista en su Oferta.
 
@@ -7951,17 +7899,17 @@ g. Orden de Inicio
 
 h. Garantías
 
-i. Modificaciones al documento base si las hubieren C L Á U S U L A T E R C E R A : E l Contratista por este medio se obliga a desarrollar la obra contratada con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo de noventa (90) días calendario.
+i. Modificaciones al documento base si las hubieren CLÁUSULA TERCERA: E l Contratista por este medio se obliga a desarrollar la obra contratada con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo de noventa (90) días calendario.
 
 CLÁUSULA CUARTA: El Contratante por este medio se compromete a pagar al contratista como retribución por la ejecución y terminación de las Obras y la subsanación de los defectos el precio del contrato o aquellas sumas que resulten pagaderas bajo las disposiciones del contrato en el plazo y en la forma establecidas en este y de acuerdo al cumplimiento de requisitos para la ejecución del pago.
 
-C L Á U S U L A Q U I N T A : E l monto del contrato asciende a la cantidad de DOS MILLONES NOVECIENTOS SETENTA Y NUEVE MIL NOVECIENTOS CINCUENTA Y TRES LEMPIRAS CON 68/100, (L. 2, 979,953.68).
+CLÁUSULA QUINTA: E l monto del contrato asciende a la cantidad de DOS MILLONES NOVECIENTOS SETENTA Y NUEVE MIL NOVECIENTOS CINCUENTA Y TRES LEMPIRAS CON 68/100, (L. 2, 979,953.68).
 
 CLÁUSULA SEXTA: CLÁUSULA
 
 DE INTEGRIDAD. Las Partes, en cumplimiento a lo establecido en el
 
-Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y D I S C R E C I Ó N C O N L A INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
+Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1.- Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA. 2.- Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
 
 3.- Que durante la ejecución del Contrato ninguna persona que actúe debidamente autorizada en nuestro nombre y representación y que ningún empleado o trabajador, socio o asociado, autorizado o no, realizar:
 
@@ -7975,13 +7923,11 @@ El incumplimiento de cualquiera de los enunciados de esta cláusula dará Lugar:
 
 b. De parte del Contratante: i. A la eliminación definitiva (del Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar.
 
-CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA OCTAVA: CLÁUSULA
 
-PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No.
-
-266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
+PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
 a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagara al Órgano Contratante por daños y perjuicios. ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido.
 
@@ -8019,7 +7965,7 @@ Asimismo, el proveedor, contratista o consultor, se adhiere, conoce, acepta y se
 
 EN TESTIMONIO de lo cual las partes han suscrito el presente Contrato en Dos Ejemplares Originales de conformidad con la Ley de Contratación del Estado de la República de Honduras, en la Ciudad de Tegucigalpa, a los veintidós días del mes de agosto del año 2025.
 
-Por y en nombre del Contratante Firmado: ______________F Y S_________ JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: _______________F Y S________ BRENDA MARCELA BARAHONA PINEL Representante Legal de la Sociedad Mercantil C O N S T R U C C I O N E S Y C O N S U L T O R Í A S PROFESIONALES DE INGENIERÍA, S. DE R.L. (CCP INGENIERÍA) R.T.N. No. 08019015752317 CONDICIONES GENERALES DEL CONTRATO A. DISPOSICIONES GENERALES
+Por y en nombre del Contratante Firmado: ______________F Y S_________ JORGE ALEJANDRO ALDANA BARDALES Alcalde Municipal del Distrito Central Por y en nombre del Contratista Firmado: _______________F Y S________ BRENDA MARCELA BARAHONA PINEL Representante Legal de la Sociedad Mercantil CONSTRUCCIONES Y CONSULTORÍAS PROFESIONALES DE INGENIERÍA, S. DE R.L. (CCP INGENIERÍA) R.T.N. No. 08019015752317 CONDICIONES GENERALES DEL CONTRATO A. DISPOSICIONES GENERALES
 
 1. Definiciones 1.1 Las palabras y expresiones definidas aparecen en negrillas (a) El Conciliador es la persona nombrada en forma conjunta por el Contratante y el Contratista o en su defecto, por la Autoridad Nominadora de conformidad con la cláusula
 
@@ -8759,7 +8705,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste:(Precio actual - Precio oferta) /FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira :
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira:
 
 US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2%) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
 
@@ -8849,7 +8795,7 @@ REQUISITOS EMPRESA CONSTRUCTORA (ANTICIPO)
 
 A. El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de anticipo, indicando nombre del proyecto, N° de contrato, código y monto. Dirigido al Director de Control y Seguimiento.
 
@@ -8895,7 +8841,7 @@ B. Informe Preliminar del proyecto para la estimación N°1.
 
 C. Informe del uso del anticipo (Cuando aplique, ver numeral N°6 de los requisitos).
 
-Los contratistas deben respetar el orden y los requisitos de todos d o c u m e n t o s e n u m e r a d o s a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
+Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fásteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
 1.- Solicitud para trámite de estimación, indicando nombre del proyecto, N° de contrato, código, periodo y monto.
 
@@ -8915,7 +8861,7 @@ F. Resumen fotográfico firmado y sellado por el supervisor (En físico mínimo 
 
 G. Fotografía del RÓTULO DEL PROYECTO instalado en todas las estimaciones.
 
-H. C r o n o g r a m a a c t u a l i z a d o mensualmente (Utilizando el programa Microsoft Project)
+H. Cronograma actualizado mensualmente (Utilizando el programa Microsoft Project)
 
 I. Cambios realizados en la estructura presupuestaria del proyecto.
 
@@ -9031,7 +8977,7 @@ CRITERIOS DE MEDICIÓN Y PAGO
 
 Esta actividad será medida por kilómetro efectivamente limpiado en ambos lados y el pago será la compensación plena por todo el equipo, mano de obra, herramientas, señalamiento preventivo de zona de trabajo y cualquier otro imprevisto necesario para poder realizar correctamente la actividad. Se realizará pagó por Kilometro terminado.
 
-A 2 . C O N F O R M A C I O N D E CARRETERAS
+A 2 . CONFORMACION DE CARRETERAS
 
 Unidad: m
 
@@ -9081,9 +9027,7 @@ El material de balasto se colocará en todos aquellos tramos donde se haya perdi
 
 Todo el material sobrante se debe retirar para evitar que se obstruyan las cunetas y demás obras de drenaje menor Materiales El balasto debe ser de calidad uniforme, no podrá contener sustancias vegetales, perjudiciales o extrañas, El material debe tener un peso unitario suelto, no menor de 1730 kg/ m método: AI\ SHTO-T-99. El tamaño máximo de agregado grueso del balasto en ningún caso debe ser mayor de 75 milímetros.
 
-La granulometría del material debe cumplir con la Tabla 2.1, determinado por el método AA-SH-TO.: Tamiz No.
-
-40 (0.425 mm), debe tener un límite líquido no mayor de 35, determinado por AASHTO T-89 y un -índice de plasticidad entre 5 y 11, determinado por el método AASHTO T-90.
+La granulometría del material debe cumplir con la Tabla 2.1, determinado por el método AA-SH-TO.: Tamiz No. 40 (0.425 mm), debe tener un límite líquido no mayor de 35, determinado por AASHTO T-89 y un -índice de plasticidad entre 5 y 11, determinado por el método AASHTO T-90.
 
 Tabla A.2.1 Granulometría del Balastado Tamiz % que pasa 75 mm (3") 100 50 mm (2") 90-100 No .4-(4u5 mm) 30 - 70 No. 200 (0.075 mm) 8-20 Tanto las fuentes de materiales (sitios de préstamo), como los procedimientos y equipos usados para la explotación de estos materiales, deben ser aprobados por el supervisor. Sin embargo, considerando que los materiales provenientes de un banco son por lo general variables, la Aprobación de un banco de estos materiales provenientes de un banco son por lo general variables, a la aprobación de un banco no constituye una aceptación definitiva de los materiales provenientes del mismo.
 
@@ -9131,7 +9075,7 @@ Retirar dispositivos de seguridad en orden inverso a como fueron colocadas.
 
 CRITERIOS DE MEDICIÓN Y PAGO
 
-E s t e m a t e r i a l s e r á m e d i d o geométricamente por metro cúbico de material colocado y compactado. La medición será realizada de igual manera si se utiliza material mezclado de dos o más sitios.
+Este material será medido geométricamente por metro cúbico de material colocado y compactado. La medición será realizada de igual manera si se utiliza material mezclado de dos o más sitios.
 
 Para el cálculo del volumen a pagar, la dimensión longitudinal debe ser la realmente cubierta por la capa de balasto la dimensión transversal debe ser el ancho de la calzada (corona), de acuerdo a la sección- aprobada por la supervisión, medida previo a la colocación del material, más el derrame 3:1; el espesor será el colocado y ordenado por la supervisión. Una vez terminado el proceso de afinamiento, se comprobará si la dimensión transversal y el espesor del material efectivamente colocado corresponden los ordenados; en caso que las dimensiones colocadas sean menores a las ordenadas por el supervisor, se procederá a hacer el ajuste en las cantidades de obra a pagar, y este pago constituirá plena compensación por cortar, cargar, acarreo, colocar, mezclar, humedecer, conformar, compactar y afinar el balasto; así como la limpieza, chapeo, destronque y descapote en los bancos de préstamo de donde se obtenga el material por toda la mano de obra, equipo, herramientas, señalamiento preventivo de la zona de trabajo y demás imprevistos necesarios para completar este concepto, tal como se indica en esta especificación.
 
@@ -9201,7 +9145,7 @@ RECOMENDACIONES.
 
 • En actividades donde sea mayormente afectado el tráfico, dejar siempre un carril habilitado, evitar trabajos fuertes en los carriles donde aplique las horas pico (6:00 am- 9:00 am en carriles de ida y 3:00 pm-9:00 pm en carriles de regreso). En caso que el trabajo sea necesario de realizar, coordinar con la Gerencia de Movilidad Urbana en primera instancia y luego con la policía de tránsito.
 
-S O B R E L A M O V I L I D A D PEATONAL INTERNA Y EXTERNA.
+SOBRE LA MOVILIDAD PEATONAL INTERNA Y EXTERNA.
 
 Movilidad externa.
 
@@ -9385,13 +9329,13 @@ Será de color naranja, a utilizar en las delimitaciones de las excavaciones con
 
 Cinta de color amarilla con letras negras, en mayúscula con la leyenda de “PRECAUCIÓN” será utilizadas para las delimitaciones de excavaciones menores, bultos de materiales, centros de acopio de materiales.
 
-EJEMPLO DE LOGOS OBLIGATORIOS PARA DISPOSITIVOS DE SEGURIDAD VIAL RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS No.1 Actividad: Inicio del Balastado Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No.2 Actividad: Vemos el deterioro de la calle.
+EJEMPLO DE LOGOS OBLIGATORIOS PARA DISPOSITIVOS DE SEGURIDAD VIAL RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS No. 1 Actividad: Inicio del Balastado Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No. 2 Actividad: Vemos el deterioro de la calle.
 
-Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No.3 Actividad: Podemos observar la parte que el balastado será parcial o solo en puntos críticos Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No.4 Actividad: Podemos observar la parte que el balastado será solo en puntos críticos Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 CROQUIS DE UBICACIÓN Aldea Quebrada Onda CONFORMACIÓN Y BALASTADO Coordenadas UTM:
+Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No. 3 Actividad: Podemos observar la parte que el balastado será parcial o solo en puntos críticos Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 No. 4 Actividad: Podemos observar la parte que el balastado será solo en puntos críticos Proyecto: “CONFORMACION Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA” 07/2024 CROQUIS DE UBICACIÓN Aldea Quebrada Onda CONFORMACIÓN Y BALASTADO Coordenadas UTM:
 
 N
 
-PAVIMENTACIÓN CONCRETO HIDRÁULICO TRAMO 1 INCLUYE ACERA INICIO FINAL 464217.00 m E 1569695.00 m N 465710.00 m E 1571314.00 m N PRESUPUESTO DE OBRA LPRNO-018-AMDC-034-2025 PROYECTO :
+PAVIMENTACIÓN CONCRETO HIDRÁULICO TRAMO 1 INCLUYE ACERA INICIO FINAL 464217.00 m E 1569695.00 m N 465710.00 m E 1571314.00 m N PRESUPUESTO DE OBRA LPRNO-018-AMDC-034-2025 PROYECTO:
 
 CONFORMACIÓN Y BALASTADO, ACCESO ALDEA QUEBRADA ONDA FEX-GOB-0003 Item DESCRIPCIÓN Construcciones y Consultorías Profesionales de Ingeniería, S. de R.L. (CCP INGENIERÍA) Precio Precio Unitario Lempiras Total Evaluado Lempiras Unidad Cantidad CONFORMACIÓN Y BALASTADO A.1 LIMPIEZA DEL DERECHO DE VIA km 6.10 6,048.00 36,892.80 A.2 CONFORMACION DE CARRETERAS m 6,100.00 78.16 476,776.00 A.3 BALASTADO m3 2,688.00 909.76 2,445,434.88 SUB TOTAL 2,959,103.68 GENERALES DEL PROYECTO B.1 ROTULO MOVIL DEL PROYECTO Unidad 1.00 6,390.00 6,390.00 B. 2 ROTULO FIJO DEL PROYECTO Unidad 1.00 14,460.00 14,460.00 SUB TOTAL 20,850.00 TOTAL DEL PROYECTO 2,979,953.68
 

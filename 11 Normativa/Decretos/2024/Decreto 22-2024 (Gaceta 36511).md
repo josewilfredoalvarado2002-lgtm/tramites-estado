@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 22-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240417-36511/download"
 extraido: "2026-11-14"
-huella: "71815840add8ea63"
+huella: "3f1b6a7b8ad2a5b4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 22-2024
@@ -107,7 +107,7 @@ ARTÍCULO 1.- Reformar los artículos 18, numeral 7) y adicionarle el numeral 28
 
 \28) Imponer multas pecuniarias y sanciones administrativas, por la Comisión de Faltas en Áreas Forestales, Áreas Protegidas y de Vida Silvestre”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 1 9 4 . -
 

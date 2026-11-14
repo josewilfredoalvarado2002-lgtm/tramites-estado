@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-004-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200206-35168/download"
 extraido: "2026-11-14"
-huella: "510b94b43ad15a80"
+huella: "0163be15f051f4fe"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-004-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que es atribución del Presidente de la República emitir acuerdos
 
 POR TANTO, En el uso de las facultades contenidas en los Artículos:
 
-245, numeral 2), 11), 18, 19) y 35), 252, 321 y 323 de la Constitución de la República; Artículos 3, 4 ,7,11,17,18, 20, 22, 116,117 y 119 de la Ley General de la Administración Pública.
+245, numeral 2), 11), 18, 19) y 35), 252, 321 y 323 de la Constitución de la República; Artículos 3, 4,7,11,17,18, 20, 22, 116,117 y 119 de la Ley General de la Administración Pública.
 
 DECRETA:
 
@@ -269,7 +269,7 @@ Préstamo No. 3878/BL-HO;
 
 c) Programa para el Mejoramiento de Salud Materno Neonatal, cuyo Organismo Ejecutor es la Secretaría de Salud. Préstamo No. 4619/BL-HO;
 
-d) Proyecto del Fondo Verde del Clima. Préstamo No. HO- 1201 HO-G1252;
+d) Proyecto del Fondo Verde del Clima. Préstamo No. HO-1201 HO-G1252;
 
 e) Transformación Digital para una Mayor Competitividad.
 

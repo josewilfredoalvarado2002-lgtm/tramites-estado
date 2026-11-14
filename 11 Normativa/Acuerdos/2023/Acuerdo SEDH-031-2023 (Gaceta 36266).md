@@ -11,7 +11,7 @@ paginas: "A. 16 - 44"
 sumario: "Acuerdo Ministerial No. SEDH-031-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230627-36266/download"
 extraido: "2026-11-14"
-huella: "4310730e794a3712"
+huella: "03373ac0284476b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SEDH-031-2023
@@ -365,7 +365,7 @@ Los bienes, suministros, servicios, estipendios y otros consistirán en lo sigui
 
 24. Todos aquellos procesos que, por su naturaleza, no pueden enmarcarse en la Ley de Contratación del Estado.
 
-A R T Í C U L O 8 . P R O C E D I M I E N T O D E IMPLEMENTACIÓN El proceso para la adquisición de bienes, suministros, servicios y obras públicas, así como el otorgamiento de estipendios y otros, debidamente sustentado es el siguiente:
+ARTÍCULO 8 . PROCEDIMIENTO DE IMPLEMENTACIÓN El proceso para la adquisición de bienes, suministros, servicios y obras públicas, así como el otorgamiento de estipendios y otros, debidamente sustentado es el siguiente:
 
 1. Otorgamiento de la medida de prevención o protección vía procedimiento extraordinario, a través de la Dirección General del Sistema de Protección, o vía procedimiento ordinario, a través de medidas deliberadas, dictaminadas y constatadas en acta de Comité Técnico del Mecanismo de Protección.
 

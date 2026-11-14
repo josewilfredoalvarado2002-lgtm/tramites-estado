@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Ministeriales Nos. 085-2024, 086-2024, 087-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240701-36575/download"
 extraido: "2026-11-14"
-huella: "981f563a00bc4ac3"
+huella: "b94361d5eb91fadb"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 087-2024
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que según los artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No.
-
-475-2023 (COMIECO-EX), del 5 de junio de 2023, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 97.01.81:22 Productos Eléctricos. Refrigeradores y Congeladores Electrodomésticos. Especificaciones de Eficiencia Energética y se dispuso que entraría en vigor para la República de El Salvador, el 5 de diciembre de 2023 y para las Repúblicas de Costa Rica, Guatemala, Honduras, Nicaragua y Panamá, el 5 de junio de 2024.
+CONSIDERANDO: Que mediante la Resolución No. 475-2023 (COMIECO-EX), del 5 de junio de 2023, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 97.01.81:22 Productos Eléctricos. Refrigeradores y Congeladores Electrodomésticos. Especificaciones de Eficiencia Energética y se dispuso que entraría en vigor para la República de El Salvador, el 5 de diciembre de 2023 y para las Repúblicas de Costa Rica, Guatemala, Honduras, Nicaragua y Panamá, el 5 de junio de 2024.
 
 CONSIDERANDO: Que los Estados Parte han identificado la necesidad de ampliar la fecha de entrada en vigor para Costa Rica, Nicaragua y Guatemala, a fin de asegurar una correcta implementación del RTCA 97.01.81:22 Productos Eléctricos. Refrigeradores y Congeladores Electrodomésticos.
 

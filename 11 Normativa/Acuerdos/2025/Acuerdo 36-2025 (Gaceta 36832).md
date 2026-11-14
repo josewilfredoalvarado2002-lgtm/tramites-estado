@@ -11,7 +11,7 @@ paginas: "A. 27 - 29"
 sumario: "Certificaciones, Acuerdos Nos. 35-2025,36-2025, 37-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250508-36832/download"
 extraido: "2026-11-11"
-huella: "a24b6e3473864540"
+huella: "e9ce22823008f049"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 36-2025
@@ -55,7 +55,7 @@ k) y numeral 4) literal d), 193 y 207 de la Ley Electoral de Honduras; por unani
 
 ACUERDA:
 
-PRIMERO: DISOLVER los movimientos internos del Partido Nacional de Honduras denominados “Papi a la Orden”, “Rescate y Transformación”, “Renovación Unidad Nacionalista (RUN)”; y, “Avanza por la Justicia y la Unidad”, inscritos mediante Resoluciones 06-2024, 07- 2024, 08-2024 y 09-2024, todas del acta número 24-2024, de fecha diecinueve (19) de diciembre de dos mil veinticuatro (2024), de conformidad al artículo 207 de la Ley Electoral de Honduras. SEGUNDO: Procédase a su liquidación, siendo los candidatos de la fórmula presidencial postulados por cada movimiento, responsables solidarios de cualquier obligación en que hayan incurrido con motivo de su existencia, funcionamiento y pueden ser demandados a título personal.
+PRIMERO: DISOLVER los movimientos internos del Partido Nacional de Honduras denominados “Papi a la Orden”, “Rescate y Transformación”, “Renovación Unidad Nacionalista (RUN)”; y, “Avanza por la Justicia y la Unidad”, inscritos mediante Resoluciones 06-2024, 07-2024, 08-2024 y 09-2024, todas del acta número 24-2024, de fecha diecinueve (19) de diciembre de dos mil veinticuatro (2024), de conformidad al artículo 207 de la Ley Electoral de Honduras. SEGUNDO: Procédase a su liquidación, siendo los candidatos de la fórmula presidencial postulados por cada movimiento, responsables solidarios de cualquier obligación en que hayan incurrido con motivo de su existencia, funcionamiento y pueden ser demandados a título personal.
 
 TERCERO: El presente Acuerdo es de ejecución inmediata.
 

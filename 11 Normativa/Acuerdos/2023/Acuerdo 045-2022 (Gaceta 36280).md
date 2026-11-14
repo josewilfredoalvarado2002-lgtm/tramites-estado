@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. 043-2022, 045-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230713-36280/download"
 extraido: "2026-11-14"
-huella: "3bbb866ff29ccb01"
+huella: "904bbd5133a49b61"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 045-2022
@@ -51,9 +51,7 @@ CONSIDERANDO: Que la ciudadana abogada DANIA MARIA RAMIREZ NAJERA, funge en el c
 
 POR TANTO
 
-La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 246, 247 y 321 de la Constitución de la República;33, 36 numeral 19), 116 y 118 de la Ley General de la Administration Pública; 3, 4 y 5 de la Ley de Procedimiento Administrativo, artículos 1, y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No.
-
-98-2007), y artículos y 27 numeral 10 del Reglamento de Organización, Funcionamiento y competencias del Poder Ejecutivo.
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 246, 247 y 321 de la Constitución de la República;33, 36 numeral 19), 116 y 118 de la Ley General de la Administration Pública; 3, 4 y 5 de la Ley de Procedimiento Administrativo, artículos 1, y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), y artículos y 27 numeral 10 del Reglamento de Organización, Funcionamiento y competencias del Poder Ejecutivo.
 
 ACUERDA
 

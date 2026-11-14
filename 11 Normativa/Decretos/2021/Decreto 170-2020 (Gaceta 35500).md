@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 170-2020, 2-2021, 3-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210128-35500/download"
 extraido: "2026-11-14"
-huella: "fb8ca8061cba192c"
+huella: "eed438c9d24d9ac1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 170-2020
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que es deber del Estado de Honduras promover la atracción y generación de la inversión, tanto nacional como extranjera, estableciendo las condiciones jurídicas apropiadas para que la misma se traslade en desarrollo económico y otros beneficios a favor de la población del país.
 
-CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 40 de la Ley para la Promoción y Protección de las Inversiones, reformado mediante Decreto No.284-2013, contentivo de la Ley para la Generación de Empleo, Fomento a la Iniciativa Empresarial, Formalización de Negocios y Protección a los Derechos de los Inversionistas: “Las inversiones calificadas como proyectos de interés nacional están sujetas a la aplicación de un procedimiento acelerado de inversión. Previo a la declaratoria del Consejo Nacional de Inversiones o Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) según corresponda, debe realizar un análisis económico y de viabilidad del proyecto para lo cual debe emitir un dictamen con la respectiva recomendación. Dicha recomendación debe ser trasladada al Poder Ejecutivo para que el Presidente de la República en Consejo de Secretarios de Estado o en un Gabinete Sectorial Especial, si lo estima conveniente, emita un Decreto Ejecutivo conteniendo de la declaración de interés nacional y un Certificado de Incorporación y Viabilidad de Operación. Esa certificación hace las veces de todos los permisos o licencias requeridos por la legislación hondureña para desarrollar el proyecto.
+CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 40 de la Ley para la Promoción y Protección de las Inversiones, reformado mediante Decreto No. 284-2013, contentivo de la Ley para la Generación de Empleo, Fomento a la Iniciativa Empresarial, Formalización de Negocios y Protección a los Derechos de los Inversionistas: “Las inversiones calificadas como proyectos de interés nacional están sujetas a la aplicación de un procedimiento acelerado de inversión. Previo a la declaratoria del Consejo Nacional de Inversiones o Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) según corresponda, debe realizar un análisis económico y de viabilidad del proyecto para lo cual debe emitir un dictamen con la respectiva recomendación. Dicha recomendación debe ser trasladada al Poder Ejecutivo para que el Presidente de la República en Consejo de Secretarios de Estado o en un Gabinete Sectorial Especial, si lo estima conveniente, emita un Decreto Ejecutivo conteniendo de la declaración de interés nacional y un Certificado de Incorporación y Viabilidad de Operación. Esa certificación hace las veces de todos los permisos o licencias requeridos por la legislación hondureña para desarrollar el proyecto.
 
 CONSIDERANDO: Que la Empresa Nacional Portuaria (ENP), mediante Resolución emitida el 28 de Noviembre del año DOS MIL DIECINUEVE (2019), manifiestó que el Proyecto de la construcción de una “TERMINAL MARÍTIMA PORTUARIA DE CRUCEROS, BUQUES MERCANTES Y CABOTAJE EN EL PUERTO DE OMOA”, no interfiere con las rutas de navegación existentes por ser una nueva facilidad marítima.
 

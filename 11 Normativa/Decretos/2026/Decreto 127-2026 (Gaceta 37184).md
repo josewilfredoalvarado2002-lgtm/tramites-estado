@@ -11,7 +11,7 @@ paginas: "A. 1 - 72"
 sumario: "Decreto No. 127-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260703-37184/download"
 extraido: "2026-11-09"
-huella: "08866a0b812e211e"
+huella: "6367adf63ba87359"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 127-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -109,13 +109,13 @@ Condición jurídica que faculta a una persona jurídica a acceder a la informac
 
 \11) PATRIMONIO AUTÓNOMO:
 
-E s a q u e l p a t r i m o n i o administrado por una Sociedad Administradora de Fondos, una Sociedad Titularizadora o un Fiduciario. Dicho patrimonio no goza de personería jurídica, es independiente y autónomo, tanto jurídicamente como contablemente del patrimonio de quien lo administra, de quien lo constituye y de cualquier otra persona que pudiera tener interés en la operación para la cual fue creado.
+Es aquel patrimonio administrado por una Sociedad Administradora de Fondos, una Sociedad Titularizadora o un Fiduciario. Dicho patrimonio no goza de personería jurídica, es independiente y autónomo, tanto jurídicamente como contablemente del patrimonio de quien lo administra, de quien lo constituye y de cualquier otra persona que pudiera tener interés en la operación para la cual fue creado.
 
 \12) PATRIMONIO SEPARADO
 
 D E
 
-P R O C E S O
+PROCESO
 
 D E TITULARIZACIÓN: Es un Patrimonio Autónomo que se constituye en una sociedad titularizadora mediante la expedición del contrato de compraventa y luego el Acta de Emisión y el Prospecto de Emisión de los valores de titularización.
 
@@ -179,7 +179,7 @@ CAPÍTULO I CREACIÓN Y GESTIÓN DEL REGISTRO
 
 #### Artículo 8
 
-ARTÍCULO 8.- CREACIÓN DEL REGISTRO C E N T R A L I Z A D O
+ARTÍCULO 8.- CREACIÓN DEL REGISTRO CENTRALIZADO
 
 D E
 
@@ -205,7 +205,7 @@ CAPÍTULO II OBLIGACIONES DE REGISTRO, SUMINISTRO Y MANTENIMIENTO DE INFORMACIÓ
 
 #### Artículo 11
 
-ARTÍCULO 11.- O B L I G A C I O N E S D E L A S P E R S O N A S J U R Í D I C A S Y ESTRUCTURAS JURÍDICAS. Las personas jurídicas y estructuras jurídicas señaladas en el Artículo 4 de la presente Ley, tienen las siguientes obligaciones:
+ARTÍCULO 11.- OBLIGACIONES DE LAS PERSONAS JURÍDICAS Y ESTRUCTURAS JURÍDICAS. Las personas jurídicas y estructuras jurídicas señaladas en el Artículo 4 de la presente Ley, tienen las siguientes obligaciones:
 
 \1) Inscribirse en el Registro Centralizado de Beneficiarios Finales (RCBF);
 
@@ -219,7 +219,7 @@ Cuando una persona jurídica o estructura jurídica deje de existir, sea disuelt
 
 #### Artículo 12
 
-ARTÍCULO 12.- INFORMACIÓN QUE SE DEBE SUMINISTRAR AL REGISTRO C E N T R A L I Z A D O D E BENEFICIARIOS FINALES (RCBF).
+ARTÍCULO 12.- INFORMACIÓN QUE SE DEBE SUMINISTRAR AL REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF).
 
 Las personas obligadas a suministrar información al Registro Centralizado de Beneficiarios Finales (RCBF) deberán indicar lo siguiente, respecto de cada uno de sus beneficiarios finales, según sea el caso:
 
@@ -263,7 +263,7 @@ DE INFORMACIÓN. El responsable del suministro de información al Registro Centr
 
 #### Artículo 14
 
-ARTÍCULO 14.- MECANISMOS DE OBTENCIÓN Y C O N S E R VA C I Ó N D E INFORMACIÓN. Para asegurar el acceso y disponibilidad de la información de los Beneficiarios Finales, las personas jurídicas y estructuras jurídicas mencionadas en el Artículo 4 de la presente Ley, deben adoptar mecanismos que permitan obtener y conservar información sobre la identificación de sus beneficiarios finales, los que deben permitir como mínimo lo siguiente:
+ARTÍCULO 14.- MECANISMOS DE OBTENCIÓN Y CON SER VA CIÓN DE INFORMACIÓN. Para asegurar el acceso y disponibilidad de la información de los Beneficiarios Finales, las personas jurídicas y estructuras jurídicas mencionadas en el Artículo 4 de la presente Ley, deben adoptar mecanismos que permitan obtener y conservar información sobre la identificación de sus beneficiarios finales, los que deben permitir como mínimo lo siguiente:
 
 \1) Identificar y validar adecuadamente los datos del beneficiario final, a través de documentos, datos e información adecuada y confiable de manera sustentada, así como los mecanismos a través de los cuales ejercen como beneficiario final;
 
@@ -273,7 +273,7 @@ ARTÍCULO 14.- MECANISMOS DE OBTENCIÓN Y C O N S E R VA C I Ó N D E INFORMACI�
 
 #### Artículo 15
 
-ARTÍCULO 15.- M A N T E N I M I E N T O
+ARTÍCULO 15.- MANTENIMIENTO
 
 D E
 
@@ -287,7 +287,7 @@ En caso de liquidación de una persona jurídica o la extinción de un fideicomi
 
 #### Artículo 16
 
-ARTÍCULO 16.- DERECHOS DE LAS PERSONAS D E S I G N A D A S C O M O BENEFICIARIOS FINALES EN EL REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Las personas que hayan sido designadas como beneficiarios finales tienen los derechos siguientes:
+ARTÍCULO 16.- DERECHOS DE LAS PERSONAS DESIGNADAS COMO BENEFICIARIOS FINALES EN EL REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Las personas que hayan sido designadas como beneficiarios finales tienen los derechos siguientes:
 
 \1) Que se les suministre, la información referida a su persona que esté contenida en el Registro;
 
@@ -299,19 +299,19 @@ ARTÍCULO 16.- DERECHOS DE LAS PERSONAS D E S I G N A D A S C O M O BENEFICIARIO
 
 #### Artículo 17
 
-ARTÍCULO 17.- C O N S U L T A S O B R E L A I N F O R M A C I Ó N D E L REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Con el fin de permitir la depuración de información inexacta en el Registro Centralizado de Beneficiarios Finales (RCBF) y garantizar los derechos de los ciudadanos, la Comisión Nacional de Bancos y Seguros (CNBS) facilitará la consulta de manera que cualquier persona natural pueda conocer si fue incluido o no en este Registro Centralizado de Beneficiarios Finales (RCBF).
+ARTÍCULO 17.- CONSULTA SOBRE LA INFORMACIÓN DEL REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Con el fin de permitir la depuración de información inexacta en el Registro Centralizado de Beneficiarios Finales (RCBF) y garantizar los derechos de los ciudadanos, la Comisión Nacional de Bancos y Seguros (CNBS) facilitará la consulta de manera que cualquier persona natural pueda conocer si fue incluido o no en este Registro Centralizado de Beneficiarios Finales (RCBF).
 
 CAPÍTULO III PLAZOS Y ACTUALIZACIÓN DE INFORMACIÓN
 
 #### Artículo 18
 
-ARTÍCULO 18.- PLAZO PARA EL REGISTRO C E N T R A L I Z A D O D E L O S BENEFICIARIOS FINALES. Las personas mencionadas en el Artículo 4 de esta Ley, deberán inscribir en el Registro Centralizado de Beneficiarios Finales (RCBF) la información requerida, dentro del plazo de cuatro (4) meses contados a partir de la fecha en que dicho Registro entre en funcionamiento, por medio de la Declaración Jurada de Registro Centralizado de Beneficiario Final, conforme al formato establecido por la por la Comisión Nacional de Bancos y Seguros (CNBS).
+ARTÍCULO 18.- PLAZO PARA EL REGISTRO CENTRALIZADO DE LOS BENEFICIARIOS FINALES. Las personas mencionadas en el Artículo 4 de esta Ley, deberán inscribir en el Registro Centralizado de Beneficiarios Finales (RCBF) la información requerida, dentro del plazo de cuatro (4) meses contados a partir de la fecha en que dicho Registro entre en funcionamiento, por medio de la Declaración Jurada de Registro Centralizado de Beneficiario Final, conforme al formato establecido por la por la Comisión Nacional de Bancos y Seguros (CNBS).
 
 Las personas jurídicas y estructuras jurídicas o similares nuevas que se creen, luego del plazo máximo a que refiere el párrafo anterior, deberán inscribir la información requerida en la presente Ley, a más tardar dentro del mes siguiente a su creación.
 
 #### Artículo 19
 
-ARTÍCULO 19.- ACTUALIZACIÓN DE LA I N F O R M A C I Ó N D E L REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Las personas jurídicas y estructuras jurídicas mencionadas en el
+ARTÍCULO 19.- ACTUALIZACIÓN DE LA INFORMACIÓN DEL REGISTRO CENTRALIZADO DE BENEFICIARIOS FINALES (RCBF). Las personas jurídicas y estructuras jurídicas mencionadas en el
 
 Artículo 4 de la presente Ley, deberán actualizar anualmente a más tardar el treinta (30) de Mayo, la información contenida en su declaración jurada ante en el Registro Centralizado de Beneficiarios Finales (RCBF). En caso de no haberse producido cambios en la información de sus beneficiarios finales, deberán informar dicha circunstancia por el medio que establezca la (CNBS), sin que ello implique la presentación de una nueva declaración jurada.
 
@@ -431,7 +431,7 @@ CAPÍTULO ÚNICO REFORMAS, ADECUACIÓN Y REGLAMENTACIÓN
 
 ARTÍCULO 30.- REFORMA DEL CÓDIGO DE
 
-COMERCIO. Reformar los Artículos 113, 117, 132, 136, 137, 141, 159, 254 y 342 del Decreto No.73 de 1950 y sus reformas, contentivo del CÓDIGO DE COMERCIO, los cuales, en adelante se leerán así:
+COMERCIO. Reformar los Artículos 113, 117, 132, 136, 137, 141, 159, 254 y 342 del Decreto No. 73 de 1950 y sus reformas, contentivo del CÓDIGO DE COMERCIO, los cuales, en adelante se leerán así:
 
 “ARTÍCULO 113. Las Acciones serán con Múltiplos de Cien Lempiras (L.100.00) hacia arriba.
 
@@ -503,7 +503,7 @@ Si transcurrieren...”
 
 ARTÍCULO 31.- REFORMA DE LA LEY DE
 
-MERCADO DE VALORES. Reformar el Artículo, 203 numeral 3) del Decreto Legislativo No.8-2001, publicado en el Diario Oficial “La Gaceta” en fecha 9 de Junio de 2001, contentivo de la LEY DE MERCADO DE VALORES, el cual en adelante se leerá así:
+MERCADO DE VALORES. Reformar el Artículo, 203 numeral 3) del Decreto Legislativo No. 8-2001, publicado en el Diario Oficial “La Gaceta” en fecha 9 de Junio de 2001, contentivo de la LEY DE MERCADO DE VALORES, el cual en adelante se leerá así:
 
 #### Artículo 203
 
@@ -615,7 +615,7 @@ PARTE DISPOSITIVA
 
 EL Pleno de Magistradas y Magistrados, en observancia de la normativa jurídica antes indicada, y en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A C U E R D A
+ACUERDA
 
 PRIMERO. Aprobar, para el año fiscal 2026, un incremento salarial para todos los servidores regulares del Poder Judicial equivalente al 7%, con efectividad a partir del 1 de julio de 2026.
 
@@ -799,7 +799,7 @@ INCORPORACIONES AL PACC 2026 PROCESO MONTO SUMINISTRO E INSTALACIÓN DE GENERADO
 
 L. 4,000,000.00
 
-S U M I N I S T RO, I N S TA L AC I Ó N Y O B R A S COMPLEMENTARIAS PARA LA FINALIZACIÓN DEL EDIFICIO JUDICIAL DE SANTA ROSA DE COPÁN, COPÁN REMODELACIÓN DE OFICINAS MONITOREO, ARCHIVO DE PERSONAL, Y ARCHIVO DE LA CONTRALORIA EN EL EDIFICIO PRINCIPAL DE TEGUCIGALPA C O N S T R U C C I Ó N D E O F I B O D E G A , REMODELACIONES VARIAS Y CAMBIO DE UNIDADES DE AIRE ACONDICIONADO DAÑADAS EN EL PALACIO JUDICIAL DE SAN PEDRO SULA, CORTÉS INCREMENTO EN OBRAS DE REMODELACIONES VARIAS EN ÁREAS DE MAGISTRADOS Y COCINETA DE PRESIDENCIA (POR DEMOLICIÓN DE PAREDES DE BLOQUE, CIELO FALSO Y PISO) INCREMENTO EN REPARACIONES GENERALES DEL EDIFICIO JUDICIAL DE NACAOME, DEPARTAMENTO DE VALLE (AMPLIACIÓN TRIBUNAL DE SENTENCIA Y CONSTRUCCIÓN DE BODEGA Y OFICINA DE ADMINISTRACIÓN)
+S U M I N I S T RO, I N S TA L AC I Ó N Y O B R A S COMPLEMENTARIAS PARA LA FINALIZACIÓN DEL EDIFICIO JUDICIAL DE SANTA ROSA DE COPÁN, COPÁN REMODELACIÓN DE OFICINAS MONITOREO, ARCHIVO DE PERSONAL, Y ARCHIVO DE LA CONTRALORIA EN EL EDIFICIO PRINCIPAL DE TEGUCIGALPA CONSTRUCCIÓN DE OFIBODEGA, REMODELACIONES VARIAS Y CAMBIO DE UNIDADES DE AIRE ACONDICIONADO DAÑADAS EN EL PALACIO JUDICIAL DE SAN PEDRO SULA, CORTÉS INCREMENTO EN OBRAS DE REMODELACIONES VARIAS EN ÁREAS DE MAGISTRADOS Y COCINETA DE PRESIDENCIA (POR DEMOLICIÓN DE PAREDES DE BLOQUE, CIELO FALSO Y PISO) INCREMENTO EN REPARACIONES GENERALES DEL EDIFICIO JUDICIAL DE NACAOME, DEPARTAMENTO DE VALLE (AMPLIACIÓN TRIBUNAL DE SENTENCIA Y CONSTRUCCIÓN DE BODEGA Y OFICINA DE ADMINISTRACIÓN)
 
 L. 4,531,231.36
 
@@ -1681,9 +1681,9 @@ IRIS BERNARDA CASTELLANOS ALVARADO
 
 Secretaria General Secretaría en los Despachos de Recursos Naturales y Ambiente ADENDA ADENDA MODIFICATORIA A LA CONTRATA DE APROVECHAMIENTO DE AGUAS NACIONALES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA DEL PROYECTO HIDROELÉCTRICO RÍO FRÍO FASE I, II Y III ENTRE LA SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE Y LA SOCIEDAD MERCANTIL SESECAPA ENERGY COMPANY, S.A. DE C.V.
 
-Nosotros, JOSE ANTONIO GALDAMES FUENTES, mayor de edad, casado, hondureño, Ingeniero Forestal, de este domicilio, con Tarjeta de Identidad Numero 0101-1971-01238, actuando en carácter de Secretario de Estado en los Despachos de Recursos Naturales y Ambiente, según Acuerdo de Nombramiento No.025-2014 de fecha 29 de enero del año dos mil catorce y en adelante identificado como "LA SECRETARÍA" y ANTONIO NATIVIDAD COLINDRES ROSALES, mayor de edad, casado, hondureño, Doctor en Negocios, con domicilio en la Ciudad de San Pedro Sula, Departamento de Cortés, en tránsito por esta Ciudad, interviniendo en nombre y representación de la Sociedad SESECAPA ENERGY COMPANY, S.A.
+Nosotros, JOSE ANTONIO GALDAMES FUENTES, mayor de edad, casado, hondureño, Ingeniero Forestal, de este domicilio, con Tarjeta de Identidad Numero 0101-1971-01238, actuando en carácter de Secretario de Estado en los Despachos de Recursos Naturales y Ambiente, según Acuerdo de Nombramiento No. 025-2014 de fecha 29 de enero del año dos mil catorce y en adelante identificado como "LA SECRETARÍA" y ANTONIO NATIVIDAD COLINDRES ROSALES, mayor de edad, casado, hondureño, Doctor en Negocios, con domicilio en la Ciudad de San Pedro Sula, Departamento de Cortés, en tránsito por esta Ciudad, interviniendo en nombre y representación de la Sociedad SESECAPA ENERGY COMPANY, S.A.
 
-DE C.V., Sociedad inscrita bajo el número 42, del Tomo 615 del Registro Mercantil Francisco Morazán, Centro Asociado I.P., Libro de Comerciantes Sociales, en calidad de Gerente General y en lo sucesivo denominado "EL CONTRATISTA", quienes encontrándose en el goce de sus derechos civiles y en el uso de sus atribuciones y por haberlo así convenido, celebran la "ADENDA MODIFICATORIA A LA CONTRATA DE APROVECHAMIENTO DE AGUAS NACIONALES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA DEL PROYECTO HIDROELÉCTRICO RÍO FRÍO FASE I, II y III.", suscrito entre las partes en fecha 18 de julio del 2014, aprobado mediante Decreto Legislativo No.134-2009.
+DE C.V., Sociedad inscrita bajo el número 42, del Tomo 615 del Registro Mercantil Francisco Morazán, Centro Asociado I.P., Libro de Comerciantes Sociales, en calidad de Gerente General y en lo sucesivo denominado "EL CONTRATISTA", quienes encontrándose en el goce de sus derechos civiles y en el uso de sus atribuciones y por haberlo así convenido, celebran la "ADENDA MODIFICATORIA A LA CONTRATA DE APROVECHAMIENTO DE AGUAS NACIONALES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA DEL PROYECTO HIDROELÉCTRICO RÍO FRÍO FASE I, II y III.", suscrito entre las partes en fecha 18 de julio del 2014, aprobado mediante Decreto Legislativo No. 134-2009.
 
 Antecedentes:
 
@@ -1703,7 +1703,7 @@ A. DE C. V", ES DECIR FACTIBLE
 
 QUE PROCEDA LA Solicitud de Ampliación de Plazo de vigencia de Contrata de Aprovechamiento de Aguas Nacionales para Producción de Energía, del Proyecto HIDROELÉCTRICO RÍO FRÍO FASE I, II Y III.
 
-4. En Resolución No.0610-2015 de fecha diez de Julio del año dos mil quince, se declaró CON LUGAR, la solicitud de Ampliación de Plazo de Vigencia de la Contrata de Aprovechamiento de Aguas Nacionales para Generación de Energía Eléctrica de quince (15) años a Veinticinco
+4. En Resolución No. 0610-2015 de fecha diez de Julio del año dos mil quince, se declaró CON LUGAR, la solicitud de Ampliación de Plazo de Vigencia de la Contrata de Aprovechamiento de Aguas Nacionales para Generación de Energía Eléctrica de quince (15) años a Veinticinco
 
 (25) años.
 

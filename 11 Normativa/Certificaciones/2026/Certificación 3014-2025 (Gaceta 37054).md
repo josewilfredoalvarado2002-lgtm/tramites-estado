@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Certificaciones Nos. 3014-2025, 3055-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260127-37054/download"
 extraido: "2026-11-09"
-huella: "2c83b4e521f0fee6"
+huella: "474ffa0718be4a6b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN 3014-2025
@@ -27,7 +27,7 @@ huella: "2c83b4e521f0fee6"
 
 ## Texto
 
-El infrascrito Pleno de Consejeros del CNE por este medio CERTIFICA la Declaratoria Elecciones Generales. Nivel Presidencial, Designados a la Presidencia de la República y Diputados al Parlamento Centroamericano PARLACEN, correspondiente a las Elecciones Generales, celebradas el 30 de noviembre de 2025 y que deberá correr agregada al acta extraordinaria número 60-2025, del Pleno de este Órgano Electoral realizada el día 24 de diciembre de 2025, numeral uno (1) Asunto: Declaratoria Elecciones Generales en el nivel Presidencial, que literalmente dice: “El Pleno de Consejeros, en cumplimiento de la Constitución de la República, artículo 283, 284 y demás relacionados de la Ley Electoral de Honduras, emiten, dan lectura y suscriben el documento siguiente: DECLARATORIA DE ELECCIONES GENERALES 2025. NIVEL ELECTIVO PRESIDENCIAL, DESIGNADOS A LA PRESIDENCIA DE LA REPÚBLICA Y D I P U T A D O S A L P A R L A M E N T O CENTROAMERICANO PARLACEN. EL CNE.-
+El infrascrito Pleno de Consejeros del CNE por este medio CERTIFICA la Declaratoria Elecciones Generales. Nivel Presidencial, Designados a la Presidencia de la República y Diputados al Parlamento Centroamericano PARLACEN, correspondiente a las Elecciones Generales, celebradas el 30 de noviembre de 2025 y que deberá correr agregada al acta extraordinaria número 60-2025, del Pleno de este Órgano Electoral realizada el día 24 de diciembre de 2025, numeral uno (1) Asunto: Declaratoria Elecciones Generales en el nivel Presidencial, que literalmente dice: “El Pleno de Consejeros, en cumplimiento de la Constitución de la República, artículo 283, 284 y demás relacionados de la Ley Electoral de Honduras, emiten, dan lectura y suscriben el documento siguiente: DECLARATORIA DE ELECCIONES GENERALES 2025. NIVEL ELECTIVO PRESIDENCIAL, DESIGNADOS A LA PRESIDENCIA DE LA REPÚBLICA Y DIPUTADOS AL PARLAMENTO CENTROAMERICANO PARLACEN. EL CNE.-
 
 CONSIDERANDO (1): Que el Consejo Nacional Electoral
 

@@ -11,7 +11,7 @@ paginas: "A. 5"
 sumario: "Acuerdo No. 33-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210906-35710/download"
 extraido: "2026-11-14"
-huella: "792b11d395c6d42e"
+huella: "151debc5cf6b979e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 33-2021
@@ -31,13 +31,13 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-071-2020, publicado en el Diario Oficial “La Gaceta” de fecha 24 de julio de 2020, edición No. 35,323 se crea la Comisión Interventora de Inversión Estratégica de Honduras (INVEST-H).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.79-2020 de fecha veinticuatro (24) de julio del año dos mil veinte (2020), se nombró al ciudadano JOSE GUSTAVO BOQUIN SUAREZ, como miembro ante la Comisión Interventora de la Inversión Estratégica de Honduras (INVEST-H).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 79-2020 de fecha veinticuatro (24) de julio del año dos mil veinte (2020), se nombró al ciudadano JOSE GUSTAVO BOQUIN SUAREZ, como miembro ante la Comisión Interventora de la Inversión Estratégica de Honduras (INVEST-H).
 
 CONSIDERANDO: Que el Comisionado Interventor JOSE GUSTAVO BOQUIN SUAREZ, se encuentra con incapacidad médica.
 
 POR TANTO;
 
-En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-071- 2020.
+En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-071-2020.
 
 ACUERDA:
 

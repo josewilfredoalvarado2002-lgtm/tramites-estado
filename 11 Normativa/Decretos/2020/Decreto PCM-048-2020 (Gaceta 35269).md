@@ -8,10 +8,10 @@ gaceta_numero: 35269
 gaceta_fecha: "2020-05-31"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35269 (2020-05-31)|La Gaceta 35269]]"
 paginas: "A. 1 - 4"
-sumario: "Decreto Ejecutivo número PCM-048-2020SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020"
+sumario: "Decreto Ejecutivo número PCM-048-2020; SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200531-35269-2/download"
 extraido: "2026-11-14"
-huella: "2422e2298b32af90"
+huella: "e2a374484b443b20"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-048-2020
@@ -23,7 +23,7 @@ huella: "2422e2298b32af90"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35269 (2020-05-31)\|La Gaceta 35269]] del 2020-05-31 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-048-2020SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-048-2020; SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020 |
 
 ## Texto
 
@@ -49,7 +49,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM- 005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM- 033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020 y PCM-047-2020.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020 y PCM-047-2020.
 
 DECRETA:
 

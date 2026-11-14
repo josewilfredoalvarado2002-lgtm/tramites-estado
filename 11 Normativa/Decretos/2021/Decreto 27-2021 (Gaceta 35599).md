@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Resolución de Pleno No. 1-2021, Decreto No. 14-2021, Decreto No. 27-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "0f537cb087212934"
+huella: "f43cda93538e7078"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 27-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 Atribución 9) de la Constitución de la República, el Presidente de la República tiene dentro de sus atribuciones “Participar en la formación de las leyes presentando proyectos al Congreso Nacional por medio de los Secretarios de Estado”.
 
-CONSIDERANDO: Que mediante Decreto No.25-2016 del 7 de Abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016 se aprobó la Ley de Responsabilidad Fiscal (LRF) que tiene como objeto, establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
+CONSIDERANDO: Que mediante Decreto No. 25-2016 del 7 de Abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016 se aprobó la Ley de Responsabilidad Fiscal (LRF) que tiene como objeto, establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
 
 CONSIDERANDO: Que el Artículo 3 de la Ley de Responsabilidad Fiscal (LRF), establece Reglas Plurianuales de Desempeño Fiscal y el Artículo 4 de dicha Ley establece Reglas de Excepción de la Ley de Responsabilidad Fiscal
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que el Artículo 3 de la Ley de Responsabilidad Fiscal (LRF), esta
 
 Artículo 3 de la Ley de Responsabilidad Fiscal (LRF).
 
-CONSIDERANDO: Que mediante Decreto No.55-2020, publicado en el Diario Oficial “La Gaceta” el 21 de Mayo del 2020 se aprobó la suspensión por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No.25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
+CONSIDERANDO: Que mediante Decreto No. 55-2020, publicado en el Diario Oficial “La Gaceta” el 21 de Mayo del 2020 se aprobó la suspensión por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No. 25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
 
-CONSIDERANDO: Que mediante Decreto No.148-2020, publicado en el Diario Oficial “La Gaceta” el 17 de Noviembre del 2020 se reformó la suspensión por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No.25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
+CONSIDERANDO: Que mediante Decreto No. 148-2020, publicado en el Diario Oficial “La Gaceta” el 17 de Noviembre del 2020 se reformó la suspensión por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No. 25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
 
-CONSIDERANDO: Que mediante Decreto No.177-2020, publicado en el Diario Oficial “La Gaceta” el 22 de Diciembre del 2020 se reformó para el año 2020 la suspensión de las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No.25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
+CONSIDERANDO: Que mediante Decreto No. 177-2020, publicado en el Diario Oficial “La Gaceta” el 22 de Diciembre del 2020 se reformó para el año 2020 la suspensión de las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No. 25-2016 que contiene de la LEY DE RESPONSABILIDAD FISCAL (LRF).
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020 publicado en el Diario Oficial “La Gaceta” en fecha 2 de Noviembre del 2020 y sus reformas se declara Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las tormentas tropicales “Eta” e “Iota”.
 
@@ -57,11 +57,9 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Suspender por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No.25-2016 de fecha 7 de Abril del 2016 y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016, Edición No.34,024, que contiene de LA LEY DE RESPONSABILIDAD FISCAL (LRF).
+ARTÍCULO 1.- Suspender por dos (2) años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1), del Artículo 3, del Decreto No. 25-2016 de fecha 7 de Abril del 2016 y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016, Edición No. 34,024, que contiene de LA LEY DE RESPONSABILIDAD FISCAL (LRF).
 
-Esta suspensión se fundamenta en las reglas de excepción establecidas en el Artículo 4, numeral 1), de la Ley de Responsabilidad Fiscal (LRF) y en la declaración de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las tormentas tropicales “Eta” e “Iota” contenida en el Decreto Ejecutivo No.
-
-PCM-109-2020 y sus reformas.
+Esta suspensión se fundamenta en las reglas de excepción establecidas en el Artículo 4, numeral 1), de la Ley de Responsabilidad Fiscal (LRF) y en la declaración de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las tormentas tropicales “Eta” e “Iota” contenida en el Decreto Ejecutivo No. PCM-109-2020 y sus reformas.
 
 #### Artículo 2
 
@@ -75,7 +73,7 @@ Asimismo, durante el período de suspensión de las Reglas Plurianuales de Desem
 
 Artículo 3, numeral 1), inciso b) de la Ley de Responsabilidad Fiscal (LRF)”.
 
-Los techos anuales establecidos en el Decreto No.148-2020 de fecha 12 de Noviembre de 2020 y publicado en el Diario Oficial “La Gaceta” el 17 de Noviembre de 2020, Edición No.35,432, para los ejercicios fiscales 2021 y 2022 se actualizarán con lo establecido en el presente Decreto.
+Los techos anuales establecidos en el Decreto No. 148-2020 de fecha 12 de Noviembre de 2020 y publicado en el Diario Oficial “La Gaceta” el 17 de Noviembre de 2020, Edición No. 35,432, para los ejercicios fiscales 2021 y 2022 se actualizarán con lo establecido en el presente Decreto.
 
 #### Artículo 3
 

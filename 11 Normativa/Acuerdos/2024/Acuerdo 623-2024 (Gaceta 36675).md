@@ -8,10 +8,10 @@ gaceta_numero: 36675
 gaceta_fecha: "2024-10-29"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36675 (2024-10-29)|La Gaceta 36675]]"
 paginas: "A. 1 - 11"
-sumario: "Acuerdo Ejecutivo Número 623-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAAcuerdo Ministerial SEN-110-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdo Ministerial No. 950-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0489-ARSA-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTREAcuerdo No. 046-2024"
+sumario: "Acuerdo Ejecutivo Número 623-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA: Acuerdo Ministerial SEN-110-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdo Ministerial No. 950-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0489-ARSA-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE: Acuerdo No. 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241029-36675/download"
 extraido: "2026-11-14"
-huella: "5adb86d55c97daf4"
+huella: "f484a1467b50242c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 623-2024
@@ -23,7 +23,7 @@ huella: "5adb86d55c97daf4"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36675 (2024-10-29)\|La Gaceta 36675]] del 2024-10-29 |
 | Páginas | A. 1 - 11 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 623-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAAcuerdo Ministerial SEN-110-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdo Ministerial No. 950-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0489-ARSA-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTREAcuerdo No. 046-2024 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 623-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA: Acuerdo Ministerial SEN-110-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdo Ministerial No. 950-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0489-ARSA-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE: Acuerdo No. 046-2024 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, emitió e
 
 496-2018, la cual en su parte resolutiva expresa textualmente lo siguiente: “Declarar CON LUGAR la solicitud presentada por la Abogada IRMA AMELIA CERRATO MARTINEZ, en su condición ya expresada, en virtud de estar acreditado en las presentes diligencias que el señor VALENTIN MEJIA DIAZ JOSE, ya no se desempeña en el cargo de Aforador de Adunas II en La Ceiba, departamento de Atlántida, por lo tanto puede ser liberada la fianza hipotecaria otorgada para garantizar sus funciones en dicho cargo.- Así mismo acredita que no tiene cuentas pendientes con el Estado de Honduras En Consecuencia: PRIMERO: Autorizar la liberación de la Hipoteca por la cantidad de Diez Mil Lempiras exactos (L.10,000.00), que fue constituida a favor del Estado de Honduras, para garantizar al señor VALENTIN MEJIA DIAZ, en el cargo Aforador de Aduanas II en La Ceiba, departamento de Atlántida, inscrito el gravamen bajo Matrícula a folio Real NÚMERO 722787 Asiento 2 del Registro de Hipotecas, en el Instituto de la Propiedad de la ciudad de Olanchito, departamento de Yoro, de un bien inmueble que se describe así: Declara que el área superficial del solar es de DOS MIL QUINIENTOS NOVENTA Y DOS METROS CUADRADOS y que limita al Norte, con propiedad de Hilda Fúnez de Puerto Calle de por medio; al Sur, con solar de Alfonzo Urcina Delicourt; al Este, con solar de Octavio Núñez Reyes, avenida de por medio; y, al Oeste, con solar de Juan Ramón Fúnez Herrera; con mejoras consistentes en: Una casa de Habitación construcción de bloque, techo de zinc, piso de cemento, con dos cuartos, sala comedor, cocina, luz eléctrica, agua potable, pozo séptico, que mide ocho metros de frente por once metros de largo, cercado el solar con alambre de púa a tres hilos, hay además un anexo de bloques de tres metros de frente por seis de ancho, techo de zinc.- Toda la casa tiene puertas y ventanas de madera de color .- Estimo el valor de solar y Mejoras en la suma de veinticinco mil lempiras (Lps.25,000.00); inscrita las mejoras al margen del asiento No. 05 del Tomo XXIV del Registro de la Propiedad de la ciudad de Olanchito, departamento de Yoro .- SEGUNDO: Que se inicie el trámite para la emisión del Acuerdo Ejecutivo que la señora Presidenta de la República, si así lo decide, autorice al señor Procurador General de la República a comparecer ante Notario Público a firmar la correspondiente Acta de Liberación de Hipoteca a efecto de liberar el bien inmueble aquí descrito, quedando bajo la responsabilidad del peticionario los honorarios notariales del acta de liberación de hipoteca y cualquier gasto o impuesto por la inscripción registral…..”.
 
-CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, emitió en fecha veintiocho de octubre del año dos mil diecinueve, la Resolución Número A.L. 627- 2019 la cual en su parte resolutiva establece lo siguiente:
+CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, emitió en fecha veintiocho de octubre del año dos mil diecinueve, la Resolución Número A.L. 627-2019 la cual en su parte resolutiva establece lo siguiente:
 
 “PRIMERO: Rectificar la parte Resolutiva de la Resolución A.L. 496-2018 de fecha treinta de octubre del dos mil dieciocho, emitida por esta Secretaría de Estado, en el Único sentido en el nombre del señor VALENTIN MEJIA DIAZ.-
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que la señora ELISA TURCIOS SALGADO también conocida como ELISA 
 
 POR TANTO:
 
-En uso de las facultades de que está investido el Poder Ejecutivo y en aplicación de los siguientes artículos: 228, 235, 245 numeral 2) y 11), 247 de la Constitución de la República de Honduras; artículos 116, 118 y 122 de la Ley General de la Administración Pública; artículo 19 numeral 3) de la Ley Orgánica de la Procuraduría General de la República; artículos 4 numeral 2) y 8 del Decreto Ejecutivo número PCM 047- 2015; y demás aplicables.
+En uso de las facultades de que está investido el Poder Ejecutivo y en aplicación de los siguientes artículos: 228, 235, 245 numeral 2) y 11), 247 de la Constitución de la República de Honduras; artículos 116, 118 y 122 de la Ley General de la Administración Pública; artículo 19 numeral 3) de la Ley Orgánica de la Procuraduría General de la República; artículos 4 numeral 2) y 8 del Decreto Ejecutivo número PCM 047-2015; y demás aplicables.
 
 ACUERDA:
 
@@ -95,15 +95,13 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Formular con respecto de los asuntos de su competencia, los proyectos de Leyes, reglamentos y demás actos del Presidente de la República”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que Honduras es un Estado Miembro del Sistema de Integración Centroamericana creado por el Protocolo de Tegucigalpa del 13 de diciembre de 1991, así como del Tratado General de Integración Económica Centroamericana del 13 de diciembre de 1960 y reformado por el Protocolo de Guatemala del 23 de octubre de 1993.
 
 CONSIDERANDO: Que de conformidad con lo establecido en los Artículos 38,39 y 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala), modificado por la Enmienda del 27 de febrero de 2002, el Consejo de Ministros de Integración Económica (COMIECO), tiene bajo su competencia los asuntos de la Integración Económica Centroamericana y, como tal, corresponde aprobar los actos administrativos del Subsistema Económico.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 05 de junio de 2023, adoptó la Resolución No. 475- 2023 (COMIECO-EX); en la que se RESUELVE: 1.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 05 de junio de 2023, adoptó la Resolución No. 475-2023 (COMIECO-EX); en la que se RESUELVE: 1.
 
 Aprobar el Reglamento Técnico Centroamericano RTCA 97.01.81:22 Productos Eléctricos. Refrigeradores y Congeladores Electrodomésticos. Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de dicha Resolución y que forma parte integrante de la misma.
 
@@ -155,7 +153,7 @@ Refrigerador electrodoméstico: Aparato de volumen y equipos adecuados para uso 
 
 #### Artículo 4
 
-ARTÍCULO 4.- DOCUMENTOS REQUERIDOS P A R A E M P R E S A S I M P O R T A D O R A S Y COMERCIALIZADORAS DE REFRIGERADORES Y CONGELADORES ELECTRODOMÉSTICOS NUEVOS: Las Empresas importadoras y comercializadoras deben presentar lo siguiente:
+ARTÍCULO 4.- DOCUMENTOS REQUERIDOS PARA EMPRESAS IMPORTADORAS Y COMERCIALIZADORAS DE REFRIGERADORES Y CONGELADORES ELECTRODOMÉSTICOS NUEVOS: Las Empresas importadoras y comercializadoras deben presentar lo siguiente:
 
 a) Presentar la solicitud de acuerdo a lo establecido en el artículo 61 de la Ley de Procedimiento Administrativo.
 

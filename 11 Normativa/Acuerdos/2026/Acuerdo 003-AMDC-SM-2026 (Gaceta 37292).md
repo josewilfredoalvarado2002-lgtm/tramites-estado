@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Acuerdos Nos. 001-AMDC-DM-2026, 002-AMDC-DM-2026, 003-AMDC-DM-2026, 004-AMDC-DM-2026, 005-AMDC-DM-2026, 006-AMDC-DM-2026, 012-AMDC-DM-2026, 013-AMDC-DM-2026, 001-AMDC-SM-2026, 002-AMDC-SM-2026, 003-AMDC-SM-2026, 001-AMDC-UGA-2026, 001-AMDC-GMU-2026Certificaciones de los Acuerdos Nos. 035-2026, 057-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261111-37292/download"
 extraido: "2026-11-13"
-huella: "b2037d1f1677beef"
+huella: "4e17385befd20842"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-AMDC-SM-2026
@@ -29,9 +29,7 @@ huella: "b2037d1f1677beef"
 
 EL SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL,
 
-CONSIDERANDO: Que el Abogado CESAR ANTONIO PINTO PACHECO, fue nombrado por la Corporación Municipal del Distrito Central, como Secretario Municipal según Acuerdo No. 002, emitido en su Sesión Ordinaria No.
-
-003-2026 celebrada en fecha veintiséis de enero del año dos mil veintiséis.
+CONSIDERANDO: Que el Abogado CESAR ANTONIO PINTO PACHECO, fue nombrado por la Corporación Municipal del Distrito Central, como Secretario Municipal según Acuerdo No. 002, emitido en su Sesión Ordinaria No. 003-2026 celebrada en fecha veintiséis de enero del año dos mil veintiséis.
 
 CONSIDERANDO: Que, de conformidad con el artículo 51 de la Ley de Municipalidades, dentro de los deberes del Secretario Municipal están desempeñar todos los actos que son atinentes a su cargo.
 

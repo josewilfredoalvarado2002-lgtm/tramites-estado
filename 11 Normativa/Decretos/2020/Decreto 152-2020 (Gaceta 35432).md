@@ -11,7 +11,7 @@ paginas: "A. 49 - 92"
 sumario: "Decretos Nos. 148-2020, 151-2020, 152-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201117-35432/download"
 extraido: "2026-11-14"
-huella: "288d8ff0b1f135c0"
+huella: "88a11c60d0c11f2b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 152-2020
@@ -29,7 +29,7 @@ huella: "288d8ff0b1f135c0"
 
 El CONGRESO NACIONAL;
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5069/ BL-HO suscrito el 31 de Agosto de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA Y SEIS MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$76,200,000.00), recursos destinados a financiar la ejecución del “Programa de Emergencia para la Sostenibilidad Macroeconómica y Fiscal”.
+CONSIDERANDO: Que el Contrato de Préstamo No. 5069/ BL-HO suscrito el 31 de Agosto de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA Y SEIS MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$76,200,000.00), recursos destinados a financiar la ejecución del “Programa de Emergencia para la Sostenibilidad Macroeconómica y Fiscal”.
 
 CONSIDERANDO: Que el objetivo del Programa de Emergencia para la Sostenibilidad Macroeconómica y Fiscal es apoyar en la preservación de la estabilidad macroeconómica, por medio del apoyo a las políticas que el Prestatario está implementando en el país, para enfrentar la Pandemia del COVID-19, mitigar su impacto sobre los hogares vulnerables y promover políticas de sostenibilidad fiscal y la estabilidad monetaria y financiera del país.
 
@@ -41,7 +41,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.5069/BL-HO, suscrito el 31 de Agosto de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA Y SEIS MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$76,200,000.00), recursos destinados a financiar la ejecución del “Programa de Emergencia para la Sostenibilidad Macroeconómica y Fiscal” que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 5069/BL-HO, suscrito el 31 de Agosto de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA Y SEIS MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$76,200,000.00), recursos destinados a financiar la ejecución del “Programa de Emergencia para la Sostenibilidad Macroeconómica y Fiscal” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -613,7 +613,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 77. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 

@@ -11,7 +11,7 @@ paginas: "A. 26 - 33"
 sumario: "Decreto No. 165-2026, 169-2026, 170-2026, 171-2026, 172-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260921-37251/download"
 extraido: "2026-11-09"
-huella: "68180327af444424"
+huella: "0a205e98bd4d4e20"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 172-2026
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -61,7 +61,7 @@ ARTÍCULO 2.- Todo operador de servicios públicos de telecomunicaciones poseedo
 
 #### Artículo 3
 
-ARTÍCULO 3.- Los operadores que mantengan saldos insolutos correspondientes al Ejercicio Fiscal del año 2025, así como los saldos acumulados hasta el 23 de Abril del 2026, es decir los meses previos a la aprobación del Decreto Legislativo No.062-2026 contentivo del Presupuesto General de Ingresos y Egresos de la República de Honduras, para el Ejercicio Fiscal 2026, quedarán obligados únicamente al pago del monto principal, que resulte del cálculo sobre la base de la tasa del uno por ciento (1%) de los ingresos brutos mensuales del operador reportados en el período adeudado, quedando condonado de pleno derecho el diferencial de cero punto cinco por ciento (0.5%), correspondiente a la diferencia entre la tasa vigente para dicho ejercicio (1.5%) y la tasa de liquidación establecida mediante este Decreto (1%). Queda entendido que se aplica amnistía sobre la totalidad de las multas, intereses moratorios, recargos por mora y/o el interés compensatorio que corresponda por estos conceptos a la totalidad del uno punto cinco por ciento (1.5%) sobre el que hayan sido calculados con anterioridad por la Comisión Nacional de Telecomunicaciones (CONATEL).
+ARTÍCULO 3.- Los operadores que mantengan saldos insolutos correspondientes al Ejercicio Fiscal del año 2025, así como los saldos acumulados hasta el 23 de Abril del 2026, es decir los meses previos a la aprobación del Decreto Legislativo No. 062-2026 contentivo del Presupuesto General de Ingresos y Egresos de la República de Honduras, para el Ejercicio Fiscal 2026, quedarán obligados únicamente al pago del monto principal, que resulte del cálculo sobre la base de la tasa del uno por ciento (1%) de los ingresos brutos mensuales del operador reportados en el período adeudado, quedando condonado de pleno derecho el diferencial de cero punto cinco por ciento (0.5%), correspondiente a la diferencia entre la tasa vigente para dicho ejercicio (1.5%) y la tasa de liquidación establecida mediante este Decreto (1%). Queda entendido que se aplica amnistía sobre la totalidad de las multas, intereses moratorios, recargos por mora y/o el interés compensatorio que corresponda por estos conceptos a la totalidad del uno punto cinco por ciento (1.5%) sobre el que hayan sido calculados con anterioridad por la Comisión Nacional de Telecomunicaciones (CONATEL).
 
 También esta amnistía se aplicará a cualquier otra sanción pecuniaria y/o accesoria generada por el incumplimiento de esta obligación.
 
@@ -73,7 +73,7 @@ Artículo 24 de las Disposiciones Generales del Presupuesto General de Ingresos 
 
 #### Artículo 5
 
-ARTÍCULO 5.- L a C o m i s i ó n N a c i o n a l d e Telecomunicaciones (CONATEL), con la finalidad de garantizar la función regulatoria del Estado, impulsará el proceso nacional de regularización, legalización y ordenamiento de los servicios públicos de telecomunicaciones conforme a su Ley Marco, propiciando condiciones de competencia leal entre los prestadores de dichos servicios de conformidad a las disposiciones siguientes:
+ARTÍCULO 5.- La Comisión Nacional de Telecomunicaciones (CONATEL), con la finalidad de garantizar la función regulatoria del Estado, impulsará el proceso nacional de regularización, legalización y ordenamiento de los servicios públicos de telecomunicaciones conforme a su Ley Marco, propiciando condiciones de competencia leal entre los prestadores de dichos servicios de conformidad a las disposiciones siguientes:
 
 \1) Toda persona natural o jurídica que, a la fecha de entrada en vigencia del presente Decreto, se encuentre prestando servicios públicos de telecomunicaciones sin contar con el título habilitante vigente, regulado por la Comisión Nacional de Telecomunicaciones (CONATEL), podrá acogerse al presente proceso de regularización, legalización y ordenamiento siempre que sea técnica y legalmente factible.
 
@@ -109,7 +109,7 @@ Asimismo, como beneficio adicional de esta amnistía, se establece una tasa de i
 
 \3) En todo caso, los operadores de servicios de telecomunicaciones con obligaciones vencidas podrán presentarse a pagar la totalidad de su deuda, o suscribir el arreglo de pago correspondiente, gozando de los beneficios del presente Decreto.
 
-Transcurrida la vigencia del presente Decreto sin que los operadores de telecomunicaciones con obligaciones e c o n ó m i c a s p e n d i e n t e s d e cumplimiento de pago o que estén en condición de ilegalidad que no se hayan acogido al presente Decreto, perderán su oportunidad y no podrán reclamar sus beneficios, en consecuencia la Comisión Nacional de Telecomunicaciones (CONATEL) procederá a efectuar las acciones de cobro y/o acciones sancionatorias conforme a la Ley Marco del Sector de Telecomunicaciones y su Reglamento General y demás Leyes aplicables.
+Transcurrida la vigencia del presente Decreto sin que los operadores de telecomunicaciones con obligaciones económicas pendientes de cumplimiento de pago o que estén en condición de ilegalidad que no se hayan acogido al presente Decreto, perderán su oportunidad y no podrán reclamar sus beneficios, en consecuencia la Comisión Nacional de Telecomunicaciones (CONATEL) procederá a efectuar las acciones de cobro y/o acciones sancionatorias conforme a la Ley Marco del Sector de Telecomunicaciones y su Reglamento General y demás Leyes aplicables.
 
 #### Artículo 9
 

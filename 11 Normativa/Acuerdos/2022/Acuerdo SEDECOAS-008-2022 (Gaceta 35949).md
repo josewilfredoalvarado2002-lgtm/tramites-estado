@@ -11,7 +11,7 @@ paginas: "A. 19 - 28"
 sumario: "Acuerdo de Nombramiento No. SEDECOAS-05-2022, Acuerdos Nos. SEDECOAS-006-2022,012-2022, 014-2022Acuerdos de Cancelación Nos.SEDECOAS-007-2022, 009-2022, 011-2022, Acuerdos de Delegación Nos. SEDECOAS-008-2022, 013-2022, 015-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220614-35949/download"
 extraido: "2026-11-14"
-huella: "0e15592816d783ec"
+huella: "a1a3f81e205d4cef"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. SEDECOAS-008-2022
@@ -133,7 +133,7 @@ CONSIDERANDO: Que el Director Ejecutivo con rango de Secretario de Estado del FO
 
 POR TANTO
 
-En el ejercicio de las atribuciones que la ley le confiere y en aplicación de lo establecido en los artículos 80, 129 y 321 de la constitución de la República, artículos 1, 5, 6, 11, 31, 115, 118, 119 y 122 de la Ley General de la Administración Pública; artículos 1, 2, 4, 5, 6 y 7 de la Ley de Procedimiento Administrativo y artículo 11 y 12 del; Artículo 15 del Decreto Legislativo No. 222-2010; Decreto Ejecutivo No. PCM-013- 2017; artículos 1 y 2 del Decreto Ejecutivo número PCM- 056-2019.
+En el ejercicio de las atribuciones que la ley le confiere y en aplicación de lo establecido en los artículos 80, 129 y 321 de la constitución de la República, artículos 1, 5, 6, 11, 31, 115, 118, 119 y 122 de la Ley General de la Administración Pública; artículos 1, 2, 4, 5, 6 y 7 de la Ley de Procedimiento Administrativo y artículo 11 y 12 del; Artículo 15 del Decreto Legislativo No. 222-2010; Decreto Ejecutivo No. PCM-013-2017; artículos 1 y 2 del Decreto Ejecutivo número PCM-056-2019.
 
 ACUERDA
 

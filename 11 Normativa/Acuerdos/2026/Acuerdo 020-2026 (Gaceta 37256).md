@@ -11,7 +11,7 @@ paginas: "A. 11 - 13"
 sumario: "Acuerdos OPCE Nos. 017-2026, 0182026, 019-2026, 020-2026, 021-2026, 022-2026, 023-2026, 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "f447b7304d6fc6a9"
+huella: "0fff3b1ff45a50c9"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 020-2026
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad con los Artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con los Artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No.
-
-280-2022 (COMIECO-LXII), del 14 de mayo de 2012, se aprobó para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua, el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados).
+CONSIDERANDO: Que mediante la Resolución No. 280-2022 (COMIECO-LXII), del 14 de mayo de 2012, se aprobó para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua, el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados).
 
 CONSIDERANDO: Que las autoridades competentes de los Estados Parte han alcanzado consenso para incluir en el numeral 9.1.6, del RTCA mencionado, una nota que establece que la etiqueta complementaria, puede ser coloca por el fabricante, importador o distribuidor.
 
@@ -57,13 +55,11 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones incorporando en Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No.
-
-499-2026 (COMIECO-CXIII); que en la parte resolutiva “… RESUELVE: 1. Modificar el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado por la Resolución No. 280-2012 (COMIECO-LXII), del 14 de mayo de 2012, incorporando en el numeral 9.1.6, la Nota siguiente: “Nota 1. La etiqueta complementaria puede ser colocada por el fabricante, importador o distribuidor”.
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones incorporando en Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 499-2026 (COMIECO-CXIII); que en la parte resolutiva “… RESUELVE: 1. Modificar el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado por la Resolución No. 280-2012 (COMIECO-LXII), del 14 de mayo de 2012, incorporando en el numeral 9.1.6, la Nota siguiente: “Nota 1. La etiqueta complementaria puede ser colocada por el fabricante, importador o distribuidor”.
 
 2. La presente resolución entrar en vigor el 26 de febrero de 2027 y será publicada por los Estados Parte. 3. No obstante lo establecido en el numeral anterior, la presente Resolución no entrará en vigor para la República de Panamá, hasta que el consejo apruebe el acto administrativo correspondiente…”.
 
-SEGUNDO: El texto integrado de la Resolución No. 499- 2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado de la Resolución No. 499-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial “La Gaceta” y en la página web de la Oficina Presidencial de Comercio Exterior.
 

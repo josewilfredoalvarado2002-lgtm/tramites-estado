@@ -8,10 +8,10 @@ gaceta_numero: 35189
 gaceta_fecha: "2020-03-02"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35189 (2020-03-02)|La Gaceta 35189]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo No. 11-2020SECRETARÍA DE FINANZASAcuerdo número: 212-2020, 213-2020"
+sumario: "Acuerdo No. 11-2020; SECRETARÍA DE FINANZAS: Acuerdo número: 212-2020, 213-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200302-35189/download"
 extraido: "2026-11-14"
-huella: "2300e6a9bfa905fc"
+huella: "84bf58557dd62712"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 11-2020
@@ -23,7 +23,7 @@ huella: "2300e6a9bfa905fc"
 | Emisor | Secretaría de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35189 (2020-03-02)\|La Gaceta 35189]] del 2020-03-02 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo No. 11-2020SECRETARÍA DE FINANZASAcuerdo número: 212-2020, 213-2020 |
+| Según el sumario de La Gaceta | Acuerdo No. 11-2020; SECRETARÍA DE FINANZAS: Acuerdo número: 212-2020, 213-2020 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 023-2018 de fecha dieciséi
 
 POR TANTO:
 
-En uso de las facultades establecidas en los Artículos: 59, 228, 245 numerales 1), 2) y 11), 321 y 323 de la Constitución de la República; 11, 28 116, 118, 119 y 122 de la Ley General de la Administración Pública; 19 de la Ley Orgánica de la Procuraduría General de la República; Acuerdo No. 21- 2016 de fecha 03 de marzo del 2016, modificado mediante Acuerdo No. 101-2017 de fecha 29 de diciembre del año 2017, Acuerdo Ejecutivo número 023-2018 de fecha 16 de abril del año dos mil dieciocho.
+En uso de las facultades establecidas en los Artículos: 59, 228, 245 numerales 1), 2) y 11), 321 y 323 de la Constitución de la República; 11, 28 116, 118, 119 y 122 de la Ley General de la Administración Pública; 19 de la Ley Orgánica de la Procuraduría General de la República; Acuerdo No. 21-2016 de fecha 03 de marzo del 2016, modificado mediante Acuerdo No. 101-2017 de fecha 29 de diciembre del año 2017, Acuerdo Ejecutivo número 023-2018 de fecha 16 de abril del año dos mil dieciocho.
 
 ACUERDA:
 

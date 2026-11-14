@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-085-2021Acuerdo Ejecutivo número 033-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210816-35689/download"
 extraido: "2026-11-14"
-huella: "70f31ae2ad02903d"
+huella: "caf7c39f4e76ab4c"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-085-2021
@@ -45,11 +45,11 @@ CONSIDERANDO: Que la Ley General de Aguas, contenida en el Decreto Legislativo N
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-043-2016, publicado en el Diario Oficial “La Gaceta” de fecha 5 de septiembre de 2016 Edición No. 34,130, se autorizó a la Secretaría de Estado en los Despachos de Energía, Recursos Naturales, Ambiente y Minas (MI AMBIENTE) ahora Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente, para que a través de la Dirección General de Recursos Hídricos, sea la responsable de ejecutar las Políticas del Sector Hídrico, por un plazo de dieciocho (18) meses, prorrogables, mientras se institucionaliza la Autoridad del Agua, entidad que a la fecha ha venido ejerciendo las atribuciones correspondientes al Sector Hídrico.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-073-2018, publicado en el Diario Oficial “La Gaceta” de fecha 14 de diciembre de 2018 Edición No.34,820, se autorizó a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (MIAMBIENTE+), para que continúe ejecutando las Políticas del Sector Hídrico por un periodo de veinticuatro (24) meses y se estableció que en este plazo la presente Secretaría de Estado elaboraría los instrumentos normativos requeridos para la operación de la Autoridad del Agua de conformidad con la Ley General de Aguas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-073-2018, publicado en el Diario Oficial “La Gaceta” de fecha 14 de diciembre de 2018 Edición No. 34,820, se autorizó a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (MIAMBIENTE+), para que continúe ejecutando las Políticas del Sector Hídrico por un periodo de veinticuatro (24) meses y se estableció que en este plazo la presente Secretaría de Estado elaboraría los instrumentos normativos requeridos para la operación de la Autoridad del Agua de conformidad con la Ley General de Aguas.
 
 POR TANTO, En uso de las facultades y en aplicación de los Artículos: 59, 245 numerales 2 y 11, 252 de la Constitución de la República;
 
-Objetivo 6 de la Agenda 2030 adoptada en la Asamblea General de las Naciones Unidas en 2015, denominada “Agua Limpia y Saneamiento”; Artículos 11, 17, 22 numeral 9) y 12), 33, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266- 2013; Artículo 1 de la Ley General del Ambiente; Artículos 2 y 10 del Decreto Legislativo No. 181-2009; Decretos Ejecutivos Números: PCM-043-2016 y PCM-073-2018;
+Objetivo 6 de la Agenda 2030 adoptada en la Asamblea General de las Naciones Unidas en 2015, denominada “Agua Limpia y Saneamiento”; Artículos 11, 17, 22 numeral 9) y 12), 33, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 1 de la Ley General del Ambiente; Artículos 2 y 10 del Decreto Legislativo No. 181-2009; Decretos Ejecutivos Números: PCM-043-2016 y PCM-073-2018;
 
 Artículos 3,10,11 y 13 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 

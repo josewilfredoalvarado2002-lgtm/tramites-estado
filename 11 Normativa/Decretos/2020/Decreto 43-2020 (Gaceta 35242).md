@@ -8,10 +8,10 @@ gaceta_numero: 35242
 gaceta_fecha: "2020-05-04"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)|La Gaceta 35242]]"
 paginas: "A. 21 - 23"
-sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020"
+sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200504-35242-2/download"
 extraido: "2026-11-14"
-huella: "6d289df5a37212e5"
+huella: "80890634531957f6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2020
@@ -23,7 +23,7 @@ huella: "6d289df5a37212e5"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)\|La Gaceta 35242]] del 2020-05-04 |
 | Páginas | A. 21 - 23 |
-| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020 |
 
 ## Texto
 
@@ -37,17 +37,17 @@ CONSIDERANDO: En el marco de la pandemia declarada por el COVID-19, se requiere 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 de fecha 10 de Febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
 
-CONSIDERANDO: Que mediante Decreto No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a Los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, de fecha 2 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril del 2020, se reformó el Artículo 27 Ley Sobre Firmas Electrónicas, contenida en Decreto No.149-2013, sin embargo se ha presentado la necesidad de corregir algunas inconsistencias en relación a la efectividad probatoria de algunos documentos bancarios o mercantiles cuando estos se contengan en imágenes electrónicas, especialmente en relación a las disposiciones contenidas en el inciso i) de dicho Artículo.
+CONSIDERANDO: Que mediante Decreto No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a Los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, de fecha 2 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril del 2020, se reformó el Artículo 27 Ley Sobre Firmas Electrónicas, contenida en Decreto No. 149-2013, sin embargo se ha presentado la necesidad de corregir algunas inconsistencias en relación a la efectividad probatoria de algunos documentos bancarios o mercantiles cuando estos se contengan en imágenes electrónicas, especialmente en relación a las disposiciones contenidas en el inciso i) de dicho Artículo.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 39 del Decreto No.33-2020, contentivo de la LEY DE AUXILIO AL SECTOR P R O D U C T I V O Y A L O S TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, de fecha 2 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril del año 2020, Edición No.35,217, el que debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 39 del Decreto No. 33-2020, contentivo de la LEY DE AUXILIO AL SECTOR P R O D U C T I V O Y A L O S TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, de fecha 2 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril del año 2020, Edición No. 35,217, el que debe leerse de la manera siguiente:
 
 “ARTÍCULO 39. Las personas naturales y jurídicas, incluyendo las incorporadas en el Régimen de las Zonas Libres no están sujetas al pago del Impuesto Sobre Ventas, Derechos Arancelarios y demás impuestos a la Importación, en la compra local e importación de insumos, equipo médico, así como las materias primas, maquinaria, insumos, equipos, repuestos, accesorios y material de empaque necesarios para la manufactura de insumos médicos, los antisépticos y desinfectantes que sirven de protección para atender la emergencia sanitaria y combatir los efectos del riesgo de infección por coronavirus.
 
@@ -67,7 +67,7 @@ Las disposiciones contenidas en el presente Artículo tendrán una duración has
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el inciso i) del Artículo 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS, contenida en Decreto No.149-2013, de fecha 30 de Julio de 2013, reformado mediante Decreto No.33-2020, de fecha 02 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril, 2020, Edición No. 35,217, el cual debe leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar el inciso i) del Artículo 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS, contenida en Decreto No. 149-2013, de fecha 30 de Julio de 2013, reformado mediante Decreto No. 33-2020, de fecha 02 de Abril de 2020, publicada en el Diario Oficial “La Gaceta” en fecha 3 de Abril, 2020, Edición No. 35,217, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 27. RECONOCIMIENTO DE IDENTIDADES, FIRMAS ELECTRÓNICAS Y CERTIFICADOS EXTRANJEROS.
 

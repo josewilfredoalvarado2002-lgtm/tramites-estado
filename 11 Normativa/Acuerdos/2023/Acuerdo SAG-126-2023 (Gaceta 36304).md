@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdos Nos. SAG-125-2023, SAG-126-2023, SAG-127-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230810-36304/download"
 extraido: "2026-11-14"
-huella: "f2f9d528d851c0c8"
+huella: "f745bf1fa5cb477f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-126-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance
 
 Por consiguiente, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) realizará arduos e incansables esfuerzos para mitigar los daños irreversibles y sin precedentes que los fenómenos naturales han ocasionado al Sector Cafetalero, dejando a la población hondureña en un estado de total vulnerabilidad e inseguridad alimentaria, en virtud de las cuantiosas pérdidas sufridas producto de los cambios climáticos.
 
-CONSIDERANDO: Que mediante Decreto No.157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 004, Doscientos Cincuenta Millones de Lempiras (L.250,000,000.00) destinados a la Ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”.
+CONSIDERANDO: Que mediante Decreto No. 157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 004, Doscientos Cincuenta Millones de Lempiras (L.250,000,000.00) destinados a la Ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”.
 
 CONSIDERANDO: El Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores” está dirigido a mejorar los ingresos de las familias cafetaleras pequeñas y medianas, mejorando la productividad por área, con el apoyo de un bono especial para la fertilización de las fincas de café, y acompañamiento a los mismos, mediante asistencia técnica y capacitación, para el año 2023.
 

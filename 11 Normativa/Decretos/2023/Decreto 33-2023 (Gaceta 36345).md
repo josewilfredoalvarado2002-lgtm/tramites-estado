@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decretos Legislativos Nos. 32-2023,33-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230928-36345/download"
 extraido: "2026-11-14"
-huella: "9af3fc7d68586f61"
+huella: "9b33002297fe1f59"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 33-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Técnico Especialista en Instrumentación Quirúrgica, es u
 
 CONSIDERANDO: Que debido a la gestión histórica de la Asociación Nacional de Técnicos Instrumentistas Quirúrgicos de Honduras (ASONATIQH), quienes en el año 1997 surgen como primera Junta Directiva de Enfermeras Instrumentistas con el propósito de identificar y separar las funciones específicas diferentes a las del Auxiliar en Enfermería por las necesidades y abusos los jefes inmediatos para dirigirse y asignar las funciones de trabajo en los quirófanos, fue entonces cuando se inicia un trabajo de visión futurista y poder tener una representación en la labor de Auxiliar en Enfermería III y dar a conocer las necesidades básicas y conquistas de trabajo que se realizan en quirófano.
 
-CONSIDERANDO: En el año 1998 se crea la primera personería jurídica dándose a conocer el 16 de Diciembre de 1998 con Resolución No.270-98, la cual se constituyó con la finalidad sin fines de lucro como una organización social especialmente en la rama de la salud de los Hospitales del Estado a nivel nacional buscando el interés beneficioso con el personal instrumentista, para el que comanda la intervención quirúrgica y para el paciente.
+CONSIDERANDO: En el año 1998 se crea la primera personería jurídica dándose a conocer el 16 de Diciembre de 1998 con Resolución No. 270-98, la cual se constituyó con la finalidad sin fines de lucro como una organización social especialmente en la rama de la salud de los Hospitales del Estado a nivel nacional buscando el interés beneficioso con el personal instrumentista, para el que comanda la intervención quirúrgica y para el paciente.
 
 CONSIDERANDO: Que como profesionales Instrumentistas Quirúrgicos es meritorio que gocen ese día especial como ser el 18 de Abril de cada año, como día nacional sin goce de asueto en todo el facultativo médico de la realización de las operaciones quirúrgicas. De esta manera celebran su profesión, la cual la dignifica cada día para engrandecer su profesión y a nuestra patria.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución 1569-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260725-37203/download"
 extraido: "2026-11-09"
-huella: "d95dd233dcc128f5"
+huella: "86d2d63d1141c56e"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN 1569-2025
@@ -31,7 +31,7 @@ El suscrito, encargado de la Unidad de Atención al Ciudadano de Secretaría Gen
 
 CERTIFICA: La Resolución que literalmente dice:
 
-"RESOLUCIÓN No. 1569-2025. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, veintiocho de noviembre del año dos mil veinticinco. VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintitrés de julio del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-23072025- 377, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LOS CAFETALES, MUNICIPIO DE VICTORIA, DEPARTAMENTO DE YORO, la cual se encuentra domiciliada en la Comunidad de Los Cafetales, Municipio, de Victoria, Departamento de Yoro, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURIDICA Y APROBACIÓN DE ESTATUTOS.
+"RESOLUCIÓN No. 1569-2025. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, veintiocho de noviembre del año dos mil veinticinco. VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintitrés de julio del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-23072025-377, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LOS CAFETALES, MUNICIPIO DE VICTORIA, DEPARTAMENTO DE YORO, la cual se encuentra domiciliada en la Comunidad de Los Cafetales, Municipio, de Victoria, Departamento de Yoro, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURIDICA Y APROBACIÓN DE ESTATUTOS.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

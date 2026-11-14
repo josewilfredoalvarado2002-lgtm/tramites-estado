@@ -11,7 +11,7 @@ paginas: "A. 43 - 44"
 sumario: "Acuerdos Ejecutivos Nos. 279-2026, 280-2026, 281-2026, 282-2026, 286-2026, 287-2026, 288-2026, 289-2026, 295-2026, 296-2026, 297-2026, 298-2026, 299-2026, 300-2026, 303-2026, 304-2026, 305-2026, 306-2026, 308-2026, 309-2026, 310-2026, 316-2026, 317-2026, 320-2026, 322-2026, 323-2026, 324-2026, 325-2026, 331-2026, 332-2026, 333-2026, 334-2026, 335-2026, 336-2026, 337-2026, 338-2026, 343-2026, 346-2026, 347-2026, 348-2026, 349-2026, 350-2026, 351-2026, 353-2026, 354-2026, 355-2026, 356-2026, 359-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260817-37222/download"
 extraido: "2026-11-09"
-huella: "fda0a09226148f4e"
+huella: "76d63588cced611a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 353-2026
@@ -33,7 +33,7 @@ En el uso de sus atribuciones y en aplicación de los artículos 235 y 245 numer
 
 ACUERDA
 
-PRIMERO: Modificar el Acuerdo de Nombramiento No. 056- 2026 de fecha veintinueve (29) de enero de dos mil veintiséis (2026) de la ciudadana LEANA REBECA MARTINEZ CACERES, en el cargo de Subsecretaria de Obras Públicas de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), quien a partir de esta fecha desempeñara dicho cargo Ad-Honorem.
+PRIMERO: Modificar el Acuerdo de Nombramiento No. 056-2026 de fecha veintinueve (29) de enero de dos mil veintiséis (2026) de la ciudadana LEANA REBECA MARTINEZ CACERES, en el cargo de Subsecretaria de Obras Públicas de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), quien a partir de esta fecha desempeñara dicho cargo Ad-Honorem.
 
 SEGUNDO: La ciudadana MARTINEZ CACERES, tomará posesión de su cargo inmediatamente después que preste la promesa de Ley contenida en el artículo 322 de la Constitución de la República: “Prometo ser fiel a la República, cumplir y hacer cumplir la Constitución y las Leyes”.
 

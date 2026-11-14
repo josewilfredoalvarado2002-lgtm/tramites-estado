@@ -11,7 +11,7 @@ paginas: "A. 4 - 16"
 sumario: "Decretos Nos. 77-2020, 79-2020, 81-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200627-35296/download"
 extraido: "2026-11-14"
-huella: "8e004650393f1f5b"
+huella: "1c4682af63bff221"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2020
@@ -61,7 +61,7 @@ Artículo 1 del Decreto No. 33-2020 que contiene la LEY DEL AUXILIO AL SECTOR PR
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar el Artículo 3 del Decreto No.33-2020, de fecha 2 de Abril del año 2020, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del 2020, en la Edición No. 35,217, que contiene la LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, el que debe leerse de la manera siguiente:
+ARTÍCULO 3.- Reformar el Artículo 3 del Decreto No. 33-2020, de fecha 2 de Abril del año 2020, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del 2020, en la Edición No. 35,217, que contiene la LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, el que debe leerse de la manera siguiente:
 
 “ARTÍCULO 3. Las cuotas de los Pagos a Cuenta del Impuesto Sobre la Renta (ISR) correspondientes al período fiscal 2020 deben de calcularse sobre el setenta y cinco por ciento (75%) del monto del Impuesto Sobre la Renta (ISR) determinado en el período fiscal 2019, y las fechas de pago de las tres (3) primeras cuotas, y se prorrogan de la siguiente forma:
 
@@ -91,7 +91,7 @@ Por Tanto: Ejecútese.
 
 Tegucigalpa, M.D.C., 27 de junio de 2020.
 
-JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA EBAL JAIR DIAZ LUPIAN Poder Legislativo DECRETO No. 81- 2020 EL CONGRESO NACIONAL,
+JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA EBAL JAIR DIAZ LUPIAN Poder Legislativo DECRETO No. 81-2020 EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 59 de la Constitución de la República establece que “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable…”, asimismo nuestra carta fundamental establece como mandato constitucional que se reconoce el derecho a la salud, que es deber de todos participar en la promoción y preservación de la salud personal y de la comunidad, derecho que también está consagrado en diversos instrumentos internacionales de los cuales Honduras es signataria.
 
@@ -109,7 +109,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -149,7 +149,7 @@ ARTÍCULO 6.- SUPERVISIÓN. La Secretaría de Estado en los Despachos de Trabajo
 
 #### Artículo 7
 
-ARTÍCULO 7.- SANCIÓN. La Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), en aplicación del Decreto No. 178- 2016, que contiene la LEY DE INSPECCIÓN DEL TRABAJO, será la institución encargada de inspeccionar y sancionar a las instituciones públicas y privadas que infrinjan la normativa en materia de prevención sobre higiene y seguridad que contiene la presente Ley.
+ARTÍCULO 7.- SANCIÓN. La Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), en aplicación del Decreto No. 178-2016, que contiene la LEY DE INSPECCIÓN DEL TRABAJO, será la institución encargada de inspeccionar y sancionar a las instituciones públicas y privadas que infrinjan la normativa en materia de prevención sobre higiene y seguridad que contiene la presente Ley.
 
 #### Artículo 8
 
@@ -193,7 +193,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el cinco de (5) de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el cinco de (5) de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

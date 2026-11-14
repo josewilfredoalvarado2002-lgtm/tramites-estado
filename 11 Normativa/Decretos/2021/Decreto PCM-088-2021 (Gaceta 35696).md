@@ -11,7 +11,7 @@ paginas: "A. 6 - 10"
 sumario: "Decreto Ejecutivo número PCM-083-2021Decreto Ejecutivo número PCM-088-2021Acuerdo Ejecutivo número 022-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210823-35696/download"
 extraido: "2026-11-14"
-huella: "5103f049d523f97c"
+huella: "a2c2fb18aa07999a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-088-2021
@@ -43,13 +43,11 @@ CONSIDERANDO: Que el 14 de enero de 2020 se procedió a suscribir el “Plan de 
 
 CONSIDERANDO: Que en fecha 24 de junio de 2021 se suscribió “Memorándum de Entendimiento entre el Ministerio de Relaciones Exteriores y Cooperación Internacional de la República de Honduras y MASHAV - la Agencia Israelí de Cooperación Internacional para el Desarrollo del Ministerio de Relaciones Exteriores en Cooperación Técnica”, cuyo objetivo es el intercambio de conocimiento y buenas prácticas que contribuyan al desarrollo económico y social de Honduras, por medio de la implementación de programas y proyectos destinados a la asistencia técnica en materia de Agricultura, Gestión de Recursos Hídricos, Salud, Educación, así como mecanismos de transferencia de conocimiento para el desarrollo de la innovación y en general en otras áreas que sean de mutuo interés avance y crecimiento de ambas naciones.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-067-2021 de fecha 20 de junio de 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de junio de 2021 se ratifica el Sector Agropecuario como prioridad nacional y de interés público, para lo cual autoriza al Comité Técnico del Fideicomiso para la Reactivación del Sector Agroalimentario de Honduras (FIRSA), realizar las gestiones que considere necesarias para la implementación y desarrollo de programas y proyectos estratégicos, orientados a garantizar la seguridad alimentaria del pueblo hondureño.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-067-2021 de fecha 20 de junio de 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de junio de 2021 se ratifica el Sector Agropecuario como prioridad nacional y de interés público, para lo cual autoriza al Comité Técnico del Fideicomiso para la Reactivación del Sector Agroalimentario de Honduras (FIRSA), realizar las gestiones que considere necesarias para la implementación y desarrollo de programas y proyectos estratégicos, orientados a garantizar la seguridad alimentaria del pueblo hondureño.
 
 CONSIDERANDO: Que el Estado de Honduras es parte suscriptora del Pacto Internacional de Derechos Económicos, Sociales y Culturales, el cual en su Artículo 11 reconoce el derecho fundamental de toda persona a estar protegida contra el hambre y manda a que los estados parte adoptarán individualmente y mediante la cooperación internacional, las medidas, incluidos los programas concretos, que se necesitan para mejorar los métodos de producción, conservación y distribución de alimentos mediante la plena utilización de los conocimientos técnicos y científicos, así como la divulgación de principios sobre nutrición y el perfeccionamiento o la reforma de los regímenes agrarios de modo que se logren la explotación y la utilización más eficaces de las riquezas naturales.
 
-POR TANTO, En uso de las facultades contenidas en los Artículos 21, 245 numerales 2,11, 12, 13 y 32 Artículos 248 y 360 de la Constitución de la República; Artículos 11 y 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 33-2020; Decretos Ejecutivos No. PCM- 017-2014. PCM-005-2020, PCM-030-2020, PCM-146-2020, PCM-147-2020 y PCM-067-2021.
+POR TANTO, En uso de las facultades contenidas en los Artículos 21, 245 numerales 2,11, 12, 13 y 32 Artículos 248 y 360 de la Constitución de la República; Artículos 11 y 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 33-2020; Decretos Ejecutivos No. PCM-017-2014. PCM-005-2020, PCM-030-2020, PCM-146-2020, PCM-147-2020 y PCM-067-2021.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 23"
 sumario: "Decreto No. 28-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240429-36521/download"
 extraido: "2026-11-14"
-huella: "026e489e5e3ed6ec"
+huella: "c585c3218c11d283"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 28-2024
@@ -55,7 +55,7 @@ CAPÍTULO I OBJETO DE LA LEY, ALCANCE, PRINCIPIOS Y DERECHOS PROTEGIDOS
 
 #### Artículo 1
 
-ARTÍCULO 1.- O B J E T O Y Á M B I T O D E
+ARTÍCULO 1.- OBJETO Y ÁMBITO DE
 
 APLICACIÓN DE LA LEY. La presente Ley tiene por objeto la creación, reconocimiento, sostenibilidad financiera y funcionamiento de las Casas Refugio en Honduras, para la atención de las mujeres víctimas-sobrevivientes de cualquier tipo de violencia o mujeres que se encuentren en riesgo por una condición especial de vulnerabilidad, como ser: Migrante, migrante retornada, refugiada, desplazada, víctima de trata u otras circunstancias análogas.
 
@@ -95,7 +95,7 @@ La atención integral adaptada a las necesidades de las sobrevivientes debe ser 
 
 \7) Principio de Confidencialidad:
 
-Orientado a mantener el anonimato de las mujeres, su historia de vida, condiciones de violencia e información en general. Las a u t o r i d a d e s c o m p e t e n t e s involucradas deberán preservar el anonimato de la ubicación de las Casas Refugio, incluso con las mismas sobrevivientes. Además, se garantizará el anonimato y privacidad de las mujeres acogidas, así como de sus hijos e hijas.
+Orientado a mantener el anonimato de las mujeres, su historia de vida, condiciones de violencia e información en general. Las autoridades competentes involucradas deberán preservar el anonimato de la ubicación de las Casas Refugio, incluso con las mismas sobrevivientes. Además, se garantizará el anonimato y privacidad de las mujeres acogidas, así como de sus hijos e hijas.
 
 El consentimiento informado de la víctima se considerará como fundamental para resguardar su confidencialidad.
 
@@ -333,7 +333,7 @@ ARTÍCULO 12.- INTEGRACIÓN DE LA COMISIÓN ESPECIAL DE CASAS REFUGIO DE HONDURA
 
 #### Artículo 13
 
-ARTÍCULO 13.- PA RT I C I PA C I Ó N D E L A S ORGANIZACIONES DE MUJERES.
+ARTÍCULO 13.- PA RT I C I PA CIÓN DE LAS ORGANIZACIONES DE MUJERES.
 
 Con el fin de garantizar la participación de las organizaciones de mujeres en la Comisión Especial de Casas Refugio de Honduras, integrarán esta instancia, de manera permanente, seis
 

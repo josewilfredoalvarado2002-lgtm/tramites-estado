@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Jurisdiccional No. TJE-01-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210405-35562/download"
 extraido: "2026-11-14"
-huella: "4a37e54b7b2c6c87"
+huella: "cf602b96f4467769"
 ---
 <!-- portal:inicio -->
 # ACUERDO JURISDICCIONAL No. TJE-01-2021
@@ -167,7 +167,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmi­ sión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independen­ cia de criterio y bajo su exclusiva responsabilidad.
 

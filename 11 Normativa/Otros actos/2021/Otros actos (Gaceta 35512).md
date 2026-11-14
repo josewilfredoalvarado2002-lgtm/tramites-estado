@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo SAR-No. 291-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210210-35512/download"
 extraido: "2026-11-14"
-huella: "00ab126d74472573"
+huella: "c86f7ee19a8573aa"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAR-No. 291-2020
@@ -39,11 +39,11 @@ CONSIDERANDO: Que el Artículo 199 numeral 6) del Código Tributario, establece 
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 001-A-2017 se nombró a la suscrita en el cargo de Directora Ejecutiva del Servicio de Administración de Rentas con rango Ministerial y facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-003- 2017 de fecha 03 de enero del 2017 se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo No. SAR-003-2017 de fecha 03 de enero del 2017 se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
 
 CONSIDERANDO: Que las normas y medidas establecidas en dicho Régimen deben ser adecuadas conforme a las necesidades actuales de la Institución y los colaboradores, en aras de una mejor gestión y desarrollo del talento humano.
 
-CONSIDERANDO: Que mediante oficio No. CGG-853- 2020 de fecha 15 de octubre 2020 el Secretario de Estado en el Despacho de Coordinación General de Gobierno, establece que del análisis del Acuerdo 003-2017 contentivo del “Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas”, la Dirección Ejecutiva del Servicio de Administración de Rentas tiene por ley la atribución de aprobar su régimen laboral y por ende también la de realizar modificaciones que estime pertinentes para una adecuada Administración del Talento Humano.
+CONSIDERANDO: Que mediante oficio No. CGG-853-2020 de fecha 15 de octubre 2020 el Secretario de Estado en el Despacho de Coordinación General de Gobierno, establece que del análisis del Acuerdo 003-2017 contentivo del “Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas”, la Dirección Ejecutiva del Servicio de Administración de Rentas tiene por ley la atribución de aprobar su régimen laboral y por ende también la de realizar modificaciones que estime pertinentes para una adecuada Administración del Talento Humano.
 
 CONSIDERANDO: Que los colaboradores del Servicio de Administración de Rentas constituyen el elemento más valioso de la Administración Tributaria, mediante el cual se alcanzan los objetivos institucionales, en apego a los valores éticos y morales, procurando que mediante su reglamentación se instituya una carrera administrativa que permita lograr una adecuada administración del personal, una eficiente gestión y un constante desarrollo institucional.
 

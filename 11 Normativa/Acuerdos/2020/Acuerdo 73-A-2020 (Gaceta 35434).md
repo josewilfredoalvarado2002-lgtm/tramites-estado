@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 73-A-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201119-35434/download"
 extraido: "2026-11-14"
-huella: "70a0893280b74bcf"
+huella: "39cd31e4c7f67a69"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 73-A-2020
@@ -61,7 +61,7 @@ En uso de las facultades que está investido y en aplicación de los Artículos 
 
 28, 29 numeral 2 reformado, 30, 33, 36 numerales 1, 2, 8 y 12; 116, 118 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo, 16, 17, 23, 24 y 25 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 87 de la Ley Orgánica de Presupuesto; 2 del Decreto Legislativo número 7-2020;
 
-Acuerdo No.21-2016 de fecha tres (03) de marzo del año dos mil dieciséis (2016), modificado mediante Acuerdo No. 101- 2017 de fecha veintinueve (29) de diciembre del año dos mil diecisiete (2017).
+Acuerdo No. 21-2016 de fecha tres (03) de marzo del año dos mil dieciséis (2016), modificado mediante Acuerdo No. 101-2017 de fecha veintinueve (29) de diciembre del año dos mil diecisiete (2017).
 
 ACUERDA:
 

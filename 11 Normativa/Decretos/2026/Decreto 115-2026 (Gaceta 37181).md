@@ -11,7 +11,7 @@ paginas: "A. 39 - 44"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "ff7f9395366b79cf"
+huella: "b938dec724747f24"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 115-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que corresponde al Congreso Nacional autorizar la asignación de r
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 
@@ -87,7 +87,7 @@ Por Tanto: Ejecútese.
 
 Tegucigalpa, M.D.C., 12 de junio de 2026 NASRY JUAN ASFURA ZABLAH PRESIDENTE DE LA REPÚBLICA SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA Instituto Nacional de Migración ACUERDO EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE MIGRACIÓN, EN EL USO DE SUS FACULTADES DE QUE ESTÁ INVESTIDO Y EN APLICACIÓN A LOS DECRETOS EJECUTIVOS PCM 031-2014 Y PCM 063-2014
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-031-2014, mediante el cual se crea EL INSTITUTO NACIONAL DE MIGRACIÓN, suprimiéndose la Dirección General de Migración y Extranjería. Y en fecha 27 de septiembre de 2014, mediante Decreto Ejecutivo PCM- 063-2014, se reforman los artículos 1, 4 y 5 del Decreto Ejecutivo PCM-031-2014, publicado en el Diario Oficial "La Gaceta", en fecha 29 de septiembre de 2014, como ente desconcentrado de la Secretaría de Gobernación, Justicia y Descentralización con personalidad jurídica propia, independencia administrativa, laboral, funcional financiera.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-031-2014, mediante el cual se crea EL INSTITUTO NACIONAL DE MIGRACIÓN, suprimiéndose la Dirección General de Migración y Extranjería. Y en fecha 27 de septiembre de 2014, mediante Decreto Ejecutivo PCM-063-2014, se reforman los artículos 1, 4 y 5 del Decreto Ejecutivo PCM-031-2014, publicado en el Diario Oficial "La Gaceta", en fecha 29 de septiembre de 2014, como ente desconcentrado de la Secretaría de Gobernación, Justicia y Descentralización con personalidad jurídica propia, independencia administrativa, laboral, funcional financiera.
 
 CONSIDERANDO: Que el artículo 3 del Decreto Ejecutivo PCM-031-2014 de fecha 30 de junio de 2014, manda que, el Instituto Nacional de Migración (INM), será dirigido por un Director Ejecutivo, nombrado por el Presidente de la República.
 

@@ -11,7 +11,7 @@ paginas: "A. 6 - 19"
 sumario: "Decreto No. 165-2026, 169-2026, 170-2026, 171-2026, 172-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260921-37251/download"
 extraido: "2026-11-09"
-huella: "5f7669cca64641b0"
+huella: "db8adc65bd6b9ee9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 169-2026
@@ -43,13 +43,13 @@ CONSIDERANDO: Que el Artículo 205, Atribución 30), de la Constitución de la R
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Acuerdo Ejecutivo No.18-DGAJT-C de fecha veintiséis (26) de Mayo de 2025, suscrito por el Gobierno de la República a través de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional (SRECI), mismo que contiene el “ACUERDO POR EL QUE SE CREA LA FUNDACIÓN INTERNACIONAL UE-ALC”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Acuerdo Ejecutivo No. 18-DGAJT-C de fecha veintiséis (26) de Mayo de 2025, suscrito por el Gobierno de la República a través de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional (SRECI), mismo que contiene el “ACUERDO POR EL QUE SE CREA LA FUNDACIÓN INTERNACIONAL UE-ALC”, que literalmente dice:
 
-“ACUERDO EJECUTIVO No.18-
+“ACUERDO EJECUTIVO No. 18-
 
 DGAJTC-2026, TEGUCIGALPA, M.D.C., 26 DE MAYO DE 2026. EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA. CONSIDERANDO: Que el Artículo 15 de la Constitución de la República establece:
 
@@ -57,9 +57,9 @@ DGAJTC-2026, TEGUCIGALPA, M.D.C., 26 DE MAYO DE 2026. EL PRESIDENTE CONSTITUCION
 
 Corresponde al Congreso Nacional las atribuciones siguientes: Aprobar o improbar los Tratados Internacionales que el Poder Ejecutivo haya celebrado.
 
-CONSIDERANDO: Que la Fundación EU-ALC fue establecida en el año 2010 por los Jefes de Estado y de Gobierno de los países miembros de la comunidad de Estados Latinoamericanos y Caribeños (CELAC) y de la Unión Europea (UE), como de parte del proceso de asociación birregional. La CELAC, conformada por 33 Estados de América Latina y el Caribe, constituye la contraparte regional de la UE en dicho proceso. La Fundación EU-ALC tiene como finalidad facilitar el diálogo político, la cooperación y el entendimiento mutuo entre ambas regiones, promoviendo iniciativas en áreas claves como la investigación, la innovación, el comercio y e l d e s a r r o l l o s o s t e n i b l e .
+CONSIDERANDO: Que la Fundación EU-ALC fue establecida en el año 2010 por los Jefes de Estado y de Gobierno de los países miembros de la comunidad de Estados Latinoamericanos y Caribeños (CELAC) y de la Unión Europea (UE), como de parte del proceso de asociación birregional. La CELAC, conformada por 33 Estados de América Latina y el Caribe, constituye la contraparte regional de la UE en dicho proceso. La Fundación EU-ALC tiene como finalidad facilitar el diálogo político, la cooperación y el entendimiento mutuo entre ambas regiones, promoviendo iniciativas en áreas claves como la investigación, la innovación, el comercio y el desarrollo sostenible .
 
-CONSIDERANDO: Que La Fundación UE-ALC es una Organización I n t e r n a c i o n a l d e c a r á c t e r intergubernamental establecida al amparo del Derecho Internacional Público.
+CONSIDERANDO: Que La Fundación UE-ALC es una Organización Internacional de carácter intergubernamental establecida al amparo del Derecho Internacional Público.
 
 CONSIDERANDO: Que dicho Acuerdo tiene como finalidad fortalecer los procedimientos de asociación birregional, fomentar el conocimiento y el entendimiento mutuo entre la UE-CELAC a través de la participación y las aportaciones de la Sociedad Civil y otros agentes. POR TANTO: En aplicación de los artículos 15, 16, 17, 18, 205 numeral 30, 245 numeral 1, 11, 13, 255 y 321 de la Constitución de la República de Honduras; 7, 29, numeral 6, 116, 117 y 119 y 122 de la Ley General de la Administración Pública y sus reformas, la Convención de Viena sobre el Derecho de los Tratados (1969): Artículos 2.1.b), 11, 15, 16, 24, 26, 77. ACUERDA: PRIMERO:
 
@@ -71,7 +71,7 @@ UE‑ALC”. Las Partes en el presente Acuerdo, RECORDANDO la asociación estrat
 
 RECORDANDO la creación en 2011 de una fundación de transición en la República Federal de Alemania, que concluirá sus actividades y será disuelta cuando entre en vigor el Acuerdo Internacional Constitutivo de la Fundación UE‑ALC;
 
-REITERANDO la necesidad de crear una organización internacional de carácter intergubernamental sujeta al Derecho internacional público, mediante un «Acuerdo Internacional Constitutivo de la Fundación UE‑ALC» sobre la base del mandato adoptado en una reunión ministerial en paralelo a la VI Cumbre UE‑ALC de Madrid, que contribuye al fortalecimiento de las obligaciones e x i s t e n t e s e n t r e l o s E s t a d o s Latinoamericanos y Caribeños, la UE y los Estados Miembros de la UE; HAN ACORDADO LO SIGUIENTE:
+REITERANDO la necesidad de crear una organización internacional de carácter intergubernamental sujeta al Derecho internacional público, mediante un «Acuerdo Internacional Constitutivo de la Fundación UE‑ALC» sobre la base del mandato adoptado en una reunión ministerial en paralelo a la VI Cumbre UE‑ALC de Madrid, que contribuye al fortalecimiento de las obligaciones existentes entre los Estados Latinoamericanos y Caribeños, la UE y los Estados Miembros de la UE; HAN ACORDADO LO SIGUIENTE:
 
 #### Artículo 1
 
@@ -91,7 +91,7 @@ Criterios para las actividades. 1. Con el fin de alcanzar los objetivos establec
 
 Para ello, cada Miembro podrá identificar a las instituciones y organizaciones pertinentes que trabajan para reforzar el diálogo birregional a nivel nacional; c) añadir valor a las iniciativas existentes;
 
-d) dar visibilidad a la asociación, en particular centrándose en acciones con efecto multiplicador. 2. Cuando proponga o participe en actividades, la Fundación UE‑ALC estará enfocada a las acciones, tendrá carácter dinámico y estará orientada a los resultados. ARTÍCULO 7. Actividades de la Fundación. 1. Con el fin de alcanzar los objetivos establecidos en el Artículo 5, la Fundación UE‑ALC desempeñará, entre otras, las siguientes actividades: a) fomentar el debate, mediante la organización de seminarios, conferencias, talleres, grupos de reflexión, cursos, e x p o s i c i o n e s , p u b l i c a c i o n e s , presentaciones, formación profesional, intercambio de buenas prácticas y conocimientos especiales; b) Fomentar y apoyar eventos relacionados con los temas que se abordan en las Cumbres UE‑CELAC y también con las prioridades en las reuniones de Altos Funcionarios; c) poner en marcha tanto programas de sensibilización como iniciativas a nivel birregional, incluyendo intercambios en los ámbitos prioritarios identificados; d) fomentar estudios sobre cuestiones planteadas por ambas regiones; e) lograr y ofrecer nuevas oportunidades de contacto teniendo en cuenta, en particular, a las personas o entidades que no estén familiarizadas con la asociación birregional UE‑CELAC; f) crear una plataforma en internet o elaborar una publicación electrónica. 2. La Fundación UE‑ALC podrá emprender iniciativas en estrecha colaboración con entidades públicas y privadas, las instituciones de la UE, instituciones internacionales y regionales, los Estados Latinoamericanos y Caribeños y los Estados Miembros de la UE.
+d) dar visibilidad a la asociación, en particular centrándose en acciones con efecto multiplicador. 2. Cuando proponga o participe en actividades, la Fundación UE‑ALC estará enfocada a las acciones, tendrá carácter dinámico y estará orientada a los resultados. ARTÍCULO 7. Actividades de la Fundación. 1. Con el fin de alcanzar los objetivos establecidos en el Artículo 5, la Fundación UE‑ALC desempeñará, entre otras, las siguientes actividades: a) fomentar el debate, mediante la organización de seminarios, conferencias, talleres, grupos de reflexión, cursos, exposiciones, publicaciones, presentaciones, formación profesional, intercambio de buenas prácticas y conocimientos especiales; b) Fomentar y apoyar eventos relacionados con los temas que se abordan en las Cumbres UE‑CELAC y también con las prioridades en las reuniones de Altos Funcionarios; c) poner en marcha tanto programas de sensibilización como iniciativas a nivel birregional, incluyendo intercambios en los ámbitos prioritarios identificados; d) fomentar estudios sobre cuestiones planteadas por ambas regiones; e) lograr y ofrecer nuevas oportunidades de contacto teniendo en cuenta, en particular, a las personas o entidades que no estén familiarizadas con la asociación birregional UE‑CELAC; f) crear una plataforma en internet o elaborar una publicación electrónica. 2. La Fundación UE‑ALC podrá emprender iniciativas en estrecha colaboración con entidades públicas y privadas, las instituciones de la UE, instituciones internacionales y regionales, los Estados Latinoamericanos y Caribeños y los Estados Miembros de la UE.
 
 #### Artículo 8
 
@@ -159,7 +159,7 @@ Cualquier controversia que pudiera surgir entre las Partes relativa a la aplicac
 
 #### Artículo 23
 
-ARTÍCULO 23. Modificaciones. 1. El presente Acuerdo podrá ser modificado a iniciativa del Consejo Directivo de la Fundación UE‑ALC, o a petición de cualquiera de las Partes. Las propuestas de modificación se remitirán al depositario, que las notificará a todas las Partes para su consideración y negociación. 2. Las modificaciones se aprobarán por consenso y entrarán en vigor treinta días tras la fecha de recepción por el depositario de la última notificación, indicando que se han completado todas las formalidades necesarias a tal fin. 3. El depositario notificará a todas las Partes la entrada en v i g o r d e l a s m o d i f i c a c i o n e s .
+ARTÍCULO 23. Modificaciones. 1. El presente Acuerdo podrá ser modificado a iniciativa del Consejo Directivo de la Fundación UE‑ALC, o a petición de cualquiera de las Partes. Las propuestas de modificación se remitirán al depositario, que las notificará a todas las Partes para su consideración y negociación. 2. Las modificaciones se aprobarán por consenso y entrarán en vigor treinta días tras la fecha de recepción por el depositario de la última notificación, indicando que se han completado todas las formalidades necesarias a tal fin. 3. El depositario notificará a todas las Partes la entrada en vigor de las modificaciones .
 
 #### Artículo 24
 

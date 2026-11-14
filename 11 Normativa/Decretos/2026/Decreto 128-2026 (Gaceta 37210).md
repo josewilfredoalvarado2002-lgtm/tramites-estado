@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto 128-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260803-37210/download"
 extraido: "2026-11-09"
-huella: "7884d4b09fa12caf"
+huella: "d31a92b7d9a999d0"
 ---
 <!-- portal:inicio -->
 # DECRETO 128-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Estado de Honduras es parte de la Convención Americana sob
 
 CONSIDERANDO: Que la Constitución de la República reconoce en sus artículos 59, 213, 339, 340, 347 y 377 a la persona humana como fin supremo de la sociedad y del Estado, establece el derecho humano a la alimentación sin discriminación, y obliga al Estado a priorizar la producción agropecuaria, promover el desarrollo económico mediante el fortalecimiento de la producción nacional, el acceso al crédito productivo y el impulso del sector agrícola, como instrumento esencial para el bienestar social, la generación de empleo y el pleno desarrollo de la persona humana.
 
-CONSIDERANDO: Que el Banco Nacional de Desarrollo Agrícola (BANADESA), creado mediante Decreto No.903 del año 1980, es la única institución financiera de desarrollo del Estado dedicada al financiamiento de la producción agrícola y actividades relacionadas; forma parte del Sistema Financiero Nacional y requiere fortalecimiento institucional, saneamiento de su cartera, suficiencia de capital y reservas conforme a las exigencias de la Comisión Nacional de Bancos y Seguros (CNBS), a fin de cumplir eficientemente su rol en el impulso del sector agropecuario, que representa el trece por ciento (13%) del Producto Interno Bruto (PIB), el treinta y cinco punto seis por ciento (35.6%) de las exportaciones y genera el treinta y cinco por ciento (35%) del empleo de la Población Económicamente Activa (PEA).
+CONSIDERANDO: Que el Banco Nacional de Desarrollo Agrícola (BANADESA), creado mediante Decreto No. 903 del año 1980, es la única institución financiera de desarrollo del Estado dedicada al financiamiento de la producción agrícola y actividades relacionadas; forma parte del Sistema Financiero Nacional y requiere fortalecimiento institucional, saneamiento de su cartera, suficiencia de capital y reservas conforme a las exigencias de la Comisión Nacional de Bancos y Seguros (CNBS), a fin de cumplir eficientemente su rol en el impulso del sector agropecuario, que representa el trece por ciento (13%) del Producto Interno Bruto (PIB), el treinta y cinco punto seis por ciento (35.6%) de las exportaciones y genera el treinta y cinco por ciento (35%) del empleo de la Población Económicamente Activa (PEA).
 
 CONSIDERANDO: Que el sector agropecuario ha sido gravemente afectado desde 1998 hasta la fecha por fenómenos climáticos (Huracán Mitch, ETA, IOTA, SARA, sequías, etc.), la pandemia de COVID-19, el conflicto Rusia-Ucrania y otros factores externos que han impactado la capacidad productiva y de pago de los productores; lo anterior ha generado una elevada cartera en mora en el Banco Nacional de Desarrollo Agrícola (BANADESA), limitando la reactivación productiva a pesar de los esfuerzos previos de alivio como los Decretos No. 47-2018, 101-2020, 195-2019 y la Circular CNBS 006/2023, los cuales no se aplicaron de manera completa ni permanente.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La Siguiente:
 
@@ -51,7 +51,7 @@ LEY DE ALIVIO FINANCIERO AL PRODUCTOR DEL AGRO
 
 #### Artículo 1
 
-ARTÍCULO 1.- A U T O R I Z A C I Ó N P A R A L A R E A D E C U A C I Ó N Y R E F I N A N C I A M I E N T O CREDITICIO. Se autoriza al Banco Nacional de Desarrollo Agrícola (BANADESA) y al Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE) para que implementen programas extraordinarios de readecuación y refinanciamiento de las obligaciones crediticias en mora o vencidas de los siguientes sectores y bajo las fechas de corte indicadas en la forma siguiente:
+ARTÍCULO 1.- AUTORIZACIÓN PARA LA READECUACIÓN Y REFINANCIAMIENTO CREDITICIO. Se autoriza al Banco Nacional de Desarrollo Agrícola (BANADESA) y al Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE) para que implementen programas extraordinarios de readecuación y refinanciamiento de las obligaciones crediticias en mora o vencidas de los siguientes sectores y bajo las fechas de corte indicadas en la forma siguiente:
 
 \1) Productores del Sector Agropecuario y Empresas Asociativas Campesinas de Producción del Sector Reformado, al 31 de diciembre de 2023; y,
 
@@ -89,7 +89,7 @@ Una vez cumplido dicho requisito, las readecuaciones se efectuarán bajo las con
 
 #### Artículo 4
 
-ARTÍCULO 4.- T R A N S F E R E N C I A
+ARTÍCULO 4.- TRANSFERENCIA
 
 D E
 
@@ -157,7 +157,7 @@ El ejercicio de este derecho preferente se sujetará a las siguientes condicione
 
 #### Artículo 12
 
-ARTÍCULO 12.- S E G U R O A G R O P E C U A R I O OBLIGATORIO Y SUBSIDIO DE PRIMAS. Para la aprobación de nuevos créditos en el Banco Nacional de Desarrollo Agrícola (BANADESA) y el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), será requisito obligatorio que el productor contrate un seguro agropecuario que cubra el cien por ciento (100%) del área financiada cuando no se disponga de sistema de riego; en caso de contar con dicho sistema, la contratación será opcional. El Gobierno de la República, a través de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), podrá subsidiar el ochenta por ciento (80%) del valor de la prima del seguro agropecuario, sujeto a la disponibilidad presupuestaria existente.
+ARTÍCULO 12.- SEGURO AGROPECUARIO OBLIGATORIO Y SUBSIDIO DE PRIMAS. Para la aprobación de nuevos créditos en el Banco Nacional de Desarrollo Agrícola (BANADESA) y el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), será requisito obligatorio que el productor contrate un seguro agropecuario que cubra el cien por ciento (100%) del área financiada cuando no se disponga de sistema de riego; en caso de contar con dicho sistema, la contratación será opcional. El Gobierno de la República, a través de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), podrá subsidiar el ochenta por ciento (80%) del valor de la prima del seguro agropecuario, sujeto a la disponibilidad presupuestaria existente.
 
 Para estos efectos, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) destinará un monto máximo anual de CIEN MILLONES DE LEMPIRAS (L.100,000,000.00), sin que la aplicación del presente Decreto genere obligaciones financieras adicionales para el Estado por encima de dicho techo presupuestario.
 

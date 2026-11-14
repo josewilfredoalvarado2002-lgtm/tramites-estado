@@ -11,7 +11,7 @@ paginas: "A. 8 - 40"
 sumario: "Decreto No. 85-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241128-36701/download"
 extraido: "2026-11-14"
-huella: "35806ec6271a2e6e"
+huella: "e034f9312e0a83f8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 85-2024
@@ -281,13 +281,13 @@ CAPÍTULO III PROCEDIMIENTO PARA LA SELECCIÓN Y NOMBRAMIENTO DE LOS MAGISTRADOS
 
 #### Artículo 17
 
-ARTÍCULO 17.- N O M B R A M I E N T O D E L A
+ARTÍCULO 17.- NOMBRAMIENTO DE LA
 
 COMISIÓN. La Presidencia del Congreso Nacional, debe nombrar una Comisión Especial, integrada por diputados de todas las bancadas representadas en ese Poder del Estado, con la finalidad única de convocar públicamente, recibir propuestas, evaluar y seleccionar, de acuerdo con lo establecido en la Constitución de la República y la presente Ley, las hojas de vida de los candidatos para ocupar el cargo de Magistrado del Tribunal de Justicia Electoral (TJE), de la forma siguiente: Tres (3) Magistrados propietarios y dos (2) suplentes para la integración del Tribunal de Justicia Electoral (TJE).
 
 #### Artículo 18
 
-ARTÍCULO 18.- O R G A N I Z A C I Ó N D E L A
+ARTÍCULO 18.- ORGANIZACIÓN DE LA
 
 COMISIÓN. Para el desempeño de sus funciones, la Comisión Especial relacionada en el Artículo precedente, designará de entre sus miembros, un Presidente y dos (2) Secretarios. Sus actuaciones deben constar en Acta y las decisiones requieren mayoría simple.
 
@@ -415,7 +415,7 @@ ARTÍCULO 26.- DERECHOS. Los Magistrados tienen los derechos siguientes:
 
 #### Artículo 27
 
-ARTÍCULO 27.- O B L I G A C I O N E S . S o n obligaciones de los Magistrados Propietarios:
+ARTÍCULO 27.- OBLIGACIONES . S o n obligaciones de los Magistrados Propietarios:
 
 \1) Resolver en el orden de su procedencia, los asuntos sometidos a su conocimiento;
 
@@ -797,7 +797,7 @@ ARTÍCULO 68.- SUBSANACIÓN. Cuando el escrito no reúna los requisitos establec
 
 #### Artículo 69
 
-ARTÍCULO 69.- I N A D M I S I Ó N O S O B R E -
+ARTÍCULO 69.- INADMISIÓN O SOBRE -
 
 SEIMIENTO DEL RECURSO. Las causas de inadmisión o sobreseimiento del recurso deben examinarse y decretarse de oficio por el Tribunal de Justicia Electoral (TJE).
 
@@ -827,7 +827,7 @@ Una vez presentado el recurso, el Tribunal de Justicia Electoral (TJE) debe requ
 
 #### Artículo 72
 
-ARTÍCULO 72.- C O N T E S T A C I Ó N D E L O S
+ARTÍCULO 72.- CONTESTACIÓN DE LOS
 
 AGRAVIOS. En el auto de admisión del recurso, el Tribunal de Justicia Electoral (TJE) debe conceder a la otra parte el término de Tres (3) días hábiles, para que conteste los agravios y acompañe los documentos probatorios de la cuestión de fondo, en el caso que proceda.
 
@@ -941,7 +941,7 @@ Para llevar a cabo el Recuento Jurisdiccional, el Tribunal de Justicia Electoral
 
 #### Artículo 83
 
-ARTÍCULO 83.- P R O C E D I M I E N T O P A R A
+ARTÍCULO 83.- PROCEDIMIENTO PARA
 
 EL RECUENTO. El Recuento Jurisdiccional está sujeto al procedimiento siguiente:
 
@@ -1047,7 +1047,7 @@ TÍTULO TERCERO DISPOSICIONES FINALES
 
 #### Artículo 90
 
-ARTÍCULO 90.- R E F O R M A S . R e f o r m a r e l numeral 9) del Artículo 10 de la LEY DE FINANCIAMIENTO, T R A N S P A R E N C I A Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, contenida en el Decreto Legislativo No.137-2016, de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, Edición No.34,242, el cual en adelante se leerá de la forma siguiente:
+ARTÍCULO 90.- REFORMAS . Reformar el numeral 9) del Artículo 10 de la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, contenida en el Decreto Legislativo No. 137-2016, de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, Edición No. 34,242, el cual en adelante se leerá de la forma siguiente:
 
 “ARTÍCULO 10.
 
@@ -1065,7 +1065,7 @@ UNIDAD. La Unidad tiene las atribuciones siguientes:
 
 #### Artículo 91
 
-ARTÍCULO 91.- DEROGATORIAS. Se deroga parcialmente el Decreto No.71-2019, de fecha 15 de Agosto de 2019, publicado en el Diario Oficial “La Gaceta” Edición No.35,027, de fecha 20 de Agosto de 2019, contentivo de la LEY ESPECIAL PARA LA SELECCIÓN Y EL NOMBRAMIENTO DE AUTORIDADES ELECTORALES.
+ARTÍCULO 91.- DEROGATORIAS. Se deroga parcialmente el Decreto No. 71-2019, de fecha 15 de Agosto de 2019, publicado en el Diario Oficial “La Gaceta” Edición No. 35,027, de fecha 20 de Agosto de 2019, contentivo de la LEY ESPECIAL PARA LA SELECCIÓN Y EL NOMBRAMIENTO DE AUTORIDADES ELECTORALES.
 
 ATRIBUCIONES, COMPETEN-
 

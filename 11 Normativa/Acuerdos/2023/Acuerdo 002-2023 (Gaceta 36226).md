@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICFDE-DCHA-001-2023, DE-DCHA-002-2023, DE-DCHA-003-2023, DE-DCHA-004-2023,DE-DCHA-005-2023, DE-DCHA-006-2023, Acuerdo No. 002-2023, Acuerdo Número -005-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230512-36226/download"
 extraido: "2026-11-14"
-huella: "12768e7c6cb9ad40"
+huella: "42488bb1dffa82c5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 002-2023
@@ -29,9 +29,7 @@ huella: "12768e7c6cb9ad40"
 
 LA DIRECCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.-
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.-
 
 CONSIDERANDO: Que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre es el ente encargado de administrar el recurso forestal público para garantizar su manejo racional y sostenible; regulando y controlando el recurso natural privado para garantizar la sostenibilidad ambiental.
 
@@ -43,9 +41,7 @@ POR TANTO
 
 La Dirección Ejecutiva del ICF en uso de las facultades que la Ley le confiere y con fundamento en los artículos 80, 321 y 328, 330, 331, 332 y 333 de la Constitución de la República; artículos 17, numerales 1, 2, 3 y 4; 18 numerales 3, 6, 7, 17 y 22; 68, 70, 71, 72, 74 y 89 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto No. 98-2007; artículos 169, 172, 173, 174, 176, 177, 178, 179, 180, 181, 182, 183 y 184 del Reglamento General de la Ley Forestal.
 
-Áreas Protegidas y Vida Silvestre, Acuerdo Ejecutivo No.
-
-031-2010; artículos 1, 2, 7 y 118 de la Ley General de la Administración Pública; artículos 1, 2, 5 y 7 del Decreto 255-02 (Ley de Simplificación Administrativa).
+Áreas Protegidas y Vida Silvestre, Acuerdo Ejecutivo No. 031-2010; artículos 1, 2, 7 y 118 de la Ley General de la Administración Pública; artículos 1, 2, 5 y 7 del Decreto 255-02 (Ley de Simplificación Administrativa).
 
 ACUERDA:
 

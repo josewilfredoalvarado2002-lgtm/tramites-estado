@@ -8,10 +8,10 @@ gaceta_numero: 37281
 gaceta_fecha: "2026-10-29"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37281 (2026-10-29)|La Gaceta 37281]]"
 paginas: "A. 6 - 7"
-sumario: "Decretos Nos. 230-2026, 234-2026UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFORCertificación"
+sumario: "Decretos Nos. 230-2026, 234-2026; UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFOR: Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261029-37281/download"
 extraido: "2026-11-09"
-huella: "fa2445b64be5a7bd"
+huella: "3453202fed067819"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 234-2026
@@ -23,7 +23,7 @@ huella: "fa2445b64be5a7bd"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37281 (2026-10-29)\|La Gaceta 37281]] del 2026-10-29 |
 | Páginas | A. 6 - 7 |
-| Según el sumario de La Gaceta | Decretos Nos. 230-2026, 234-2026UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFORCertificación |
+| Según el sumario de La Gaceta | Decretos Nos. 230-2026, 234-2026; UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFOR: Certificación |
 
 ## Texto
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el Congreso Móvil en la Ciudad de Danlí, Departamento de El 
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 1) y 2) de la Constitución de la República de Honduras, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes, así como convocar, suspender y cerrar sus sesiones.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

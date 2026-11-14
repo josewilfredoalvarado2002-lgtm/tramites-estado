@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdo No. SETRASS-369-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230815-36308/download"
 extraido: "2026-11-14"
-huella: "eaaba9423778e3f2"
+huella: "5d146fce40581870"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-369-2023
@@ -39,7 +39,7 @@ CONSIDERANDO (3): Que el Convenio No. 81 sobre la Inspección del Trabajo, dispo
 
 El sistema de inspección estará encargado de velar por el cumplimiento de las disposiciones legales relativas a las condiciones de trabajo y a la protección de los trabajadores en el ejercicio de su profesión, tales como las disposiciones sobre horas de trabajo, salarios, seguridad, higiene y bienestar, empleo de menores y demás disposiciones afines, en la medida en que los inspectores del trabajo estén encargados de velar por el cumplimiento de dichas disposiciones ... >>.
 
-CONSIDERANDO (4): Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No.178-2016 que contiene la Ley de Inspección del Trabajo y el Acuerdo STSS-350-2019 del Reglamento de la Ley de Inspección General del Trabajo, por medio de la Dirección General de Inspección de Trabajo.
+CONSIDERANDO (4): Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No. 178-2016 que contiene la Ley de Inspección del Trabajo y el Acuerdo STSS-350-2019 del Reglamento de la Ley de Inspección General del Trabajo, por medio de la Dirección General de Inspección de Trabajo.
 
 CONSIDERANDO (5): Que la Ley de Inspección de Trabajo, dispone que la autoridad del trabajo está facultada para realizar inspecciones y supervisiones de Trabajo, así como para Certificar el cumplimiento de la normativa laboral de parte de un patrono.
 

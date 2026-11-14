@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo 002-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240215-36461/download"
 extraido: "2026-11-14"
-huella: "20b952b5824f52fe"
+huella: "ffc5ebb3e0d5f377"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 002-2024
@@ -127,7 +127,7 @@ Les corresponde, asimismo, el conocimiento y resolución de los asuntos del Ramo
 
 CONSIDERANDO (20):
 
-Qué, en fecha 13 de abril del año 2023, fue creado el Acuerdo Ejecutivo No. 008- 2023, en el cual se realiza la Delegación al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado José Manuel Zelaya Rosales, con la atribución y potestad de autorizar la modalidad de Contratación Directa en base a los casos establecidos en la Ley de Contratación del Estado y su Reglamento, para las Fuerzas Armadas de Honduras en todas sus fuerzas (Fuerza Ejército, Fuerza Aérea y Fuerza Naval), para el año 2023.
+Qué, en fecha 13 de abril del año 2023, fue creado el Acuerdo Ejecutivo No. 008-2023, en el cual se realiza la Delegación al señor Secretario de Estado en el Despacho de Defensa Nacional, Abogado José Manuel Zelaya Rosales, con la atribución y potestad de autorizar la modalidad de Contratación Directa en base a los casos establecidos en la Ley de Contratación del Estado y su Reglamento, para las Fuerzas Armadas de Honduras en todas sus fuerzas (Fuerza Ejército, Fuerza Aérea y Fuerza Naval), para el año 2023.
 
 POR TANTO:
 

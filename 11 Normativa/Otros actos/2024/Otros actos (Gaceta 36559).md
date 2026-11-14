@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240613-36559/download"
 extraido: "2026-11-14"
-huella: "772916e2e6a28959"
+huella: "fed15cb4c1f22c8b"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -73,7 +73,7 @@ Que de conformidad con el Procedimiento para Consulta Pública la Comisión Regu
 
 Que en la Reunión Extraordinaria CREE-Ex-29-2024 del 24 de mayo de 2024 el Directorio de Comisionados acordó emitir el presente acuerdo.
 
-Por tanto La Comisión Reguladora de Energía Eléctrica (CREE) en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A Romano III y literal B , 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por mayoría de votos de los Comisionados presentes.
+Por tanto La Comisión Reguladora de Energía Eléctrica (CREE) en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A Romano III y literal B, 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por mayoría de votos de los Comisionados presentes.
 
 Acuerda
 

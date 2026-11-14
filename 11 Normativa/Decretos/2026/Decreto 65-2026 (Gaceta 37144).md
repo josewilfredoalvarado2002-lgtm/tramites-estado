@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 65-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260518-37144/download"
 extraido: "2026-11-09"
-huella: "e3e776ea1ccf0c12"
+huella: "1174fb3383ad1e6b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 65-2026
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribuci
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

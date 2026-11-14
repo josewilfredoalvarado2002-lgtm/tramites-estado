@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. CSJ-01-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260309-37089/download"
 extraido: "2026-11-09"
-huella: "217e5ab537efc94e"
+huella: "828a6baf17e6b942"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-01-2026
@@ -47,7 +47,7 @@ PARTE DISPOSITIVA
 
 El Pleno de la Corte Suprema de Justicia por unanimidad de votos, en uso de sus facultades constitucionales, legales y reglamentarias,
 
-A C U E R D A
+ACUERDA
 
 PRIMERO. Emitir el Reglamento de la Escuela Judicial de Honduras “Francisco Salomón Jiménez Castro”, cuyo texto literal se consigna a continuación:
 

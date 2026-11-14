@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdo CREE No. 36-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250425-36822/download"
 extraido: "2026-11-11"
-huella: "22a81b10f9cf6829"
+huella: "c9eea81e87e6cb33"
 ---
 <!-- portal:inicio -->
 # ACUERDO CREE 36-2025
@@ -85,7 +85,7 @@ Que en la Reunión Extraordinaria CREE-Ex-12-2025 del ocho
 
 (08) de abril de dos mil veinticinco (2025), el Directorio de Comisionados acordó emitir el presente acuerdo.
 
-Por tanto La Comisión Reguladora de Energía Eléctrica (CREE), en uso de sus facultades y de conformidad con lo establecido en los artículos 331 y 332 de la Constitución de la República de Honduras, artículos 1, literal A Romano III y literal B , 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 1, 2 y 3 de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y social, artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por mayoría de votos de los Comisionados presentes.
+Por tanto La Comisión Reguladora de Energía Eléctrica (CREE), en uso de sus facultades y de conformidad con lo establecido en los artículos 331 y 332 de la Constitución de la República de Honduras, artículos 1, literal A Romano III y literal B, 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 1, 2 y 3 de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y social, artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por mayoría de votos de los Comisionados presentes.
 
 Acuerda
 

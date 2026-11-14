@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220104-35813/download"
 extraido: "2026-11-14"
-huella: "49a5e72a6175a82f"
+huella: "590d2c62dfe0c77e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-057-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que mediante Acuerdo ADUANASDE-040-2020, el Director Ejecutivo de 
 
 POR TANTO
 
-En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 059-2019.
+En aplicación de los artículos 321, 323 y 324 de la Constitución de la República de Honduras, artículo 159, 195, 197 y 199 Decreto No. 170-2016 contentivo del Código Tributario, artículos 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-059-2019.
 
 La Directora Ejecutiva, por Ley de la Administración Adua­ nera de Honduras en pleno uso de sus facultades,
 

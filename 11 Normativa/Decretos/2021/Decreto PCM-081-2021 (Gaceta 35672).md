@@ -11,7 +11,7 @@ paginas: "A. 54 - 58"
 sumario: "Decreto Ejecutivo número PCM-081-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210730-35672/download"
 extraido: "2026-11-14"
-huella: "239e76439d00b58b"
+huella: "39ec9dace6bbc07f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-081-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo con lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 9) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, el Consejo de Secretarios de Estado tiene entre otras, las atribuciones de “Conocer y resolver los asuntos que le someta el Presidente de la República y las demás que le confieren la Constitución de la República y las Leyes.
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 9) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene entre otras, las atribuciones de “Conocer y resolver los asuntos que le someta el Presidente de la República y las demás que le confieren la Constitución de la República y las Leyes.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta”, edición No. 35,171 de fecha diez (10) de febrero del año dos mil veinte (2020), reformado por los Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, el Presidente Constitucional de la República en Consejo de Secretarios de Estado, declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, en el Sistema de Salud Pública Nacional, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus conocido como COVID-19; la referida Declaratoria de Emergencia según Decreto Ejecutivo Número PCM-146-2020 publicado en el Diario Oficial “La Gaceta”, edición No. 35,472 de fecha 29 de diciembre del 2020, fue prorrogada su vigencia hasta el treinta y uno (31) de diciembre del año dos mil veintiuno (2021).
 
@@ -45,9 +45,7 @@ CONSIDERANDO: Que el 22 de febrero del año 2021 inició el proceso de vacunaci�
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 59, 245 numerales 11, 20, 29, 39 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7,11,17,18, 20, 22 numerales 5), 9) y 12) de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo No.
-
-266-2013; Decretos Ejecutivos Números: PCM-033-2018, reformado mediante Decreto Ejecutivo Número PCM-044- 2019; Decreto Ejecutivo PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM-016-2020, PCM-023- 2020 y Decreto Ejecutivo Número PCM-146-2020.
+En uso de las facultades contenidas en los Artículos 59, 245 numerales 11, 20, 29, 39 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7,11,17,18, 20, 22 numerales 5), 9) y 12) de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decretos Ejecutivos Números: PCM-033-2018, reformado mediante Decreto Ejecutivo Número PCM-044-2019; Decreto Ejecutivo PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM-016-2020, PCM-023-2020 y Decreto Ejecutivo Número PCM-146-2020.
 
 DECRETA:
 

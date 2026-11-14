@@ -11,7 +11,7 @@ paginas: "A. 2 - 12"
 sumario: "Acuerdo Ministerial No. 033-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250714-36889/download"
 extraido: "2026-11-09"
-huella: "4d2aff8e6a52c4bc"
+huella: "27bbb9a756d42032"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 033-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 
 
 CONSIDERANDO: Que la Ley de Procedimiento Administrativo en sus artículos 19, 23 y 24 contempla que los órganos administrativos desarrollarán su actividad, sujetándose a la jerarquía normativa establecida en el artículo 7 de la Ley General de la Administración Pública, debiendo seguir las normas de economía, celeridad y eficacia para lograr una pronta y efectiva satisfacción del interés general, asimismo, los actos de la administración pública se producirán por escrito, indicando la autoridad que los emite y su fecha y serán dictados por el órgano competente, respetando los procedimientos previstos en el ordenamiento jurídico.
 
-CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), fue creada mediante DECRETO EJECUTIVO NÚMERO PCM- 41-2023, es el ente responsable de la rectoría, formulación, coordinación, gestión, monitoreo y evaluación de la política pública y la normativa de la garantía y la protección integral de los derechos de la niñez, adolescencia y familia, así como de los programas y servicios especializados en la materia.
+CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), fue creada mediante DECRETO EJECUTIVO NÚMERO PCM-41-2023, es el ente responsable de la rectoría, formulación, coordinación, gestión, monitoreo y evaluación de la política pública y la normativa de la garantía y la protección integral de los derechos de la niñez, adolescencia y familia, así como de los programas y servicios especializados en la materia.
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), tiene entre sus competencias y atribuciones, monitorear el presupuesto y la inversión pública destinada a la niñez, adolescencia y familia en Honduras, emitiendo recomendaciones para que ese gasto sea eficaz y eficiente; establecer y evaluar los estándares de calidad de operación de las instituciones que presten servicios dirigidos al cuidado y protección de los NNA, así como transferir los recursos financieros a los organismos responsables de la ejecución directa de programas de cuidado alternativo entre otros servicios necesarios para la protección de la niñez y cualquier otra que legalmente le corresponda o le sea delegada por la Presidencia de la República.
 
@@ -361,9 +361,7 @@ b) Cuadro de ejecución presupuestaria del mes que presenta liquidación.
 
 c) Tres (3) cotizaciones sobre compras arriba de diez mil lempiras (L.10,000.00).
 
-d) Facturas CAI originales (sin enmiendas, tachaduras, ni borrones), deben ser totalmente legibles y con sus requisitos legales tal como lo indica el Acuerdo No.
-
-189-2014 Reglamento del Régimen de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas y la Ley del Equilibrio Financiero.
+d) Facturas CAI originales (sin enmiendas, tachaduras, ni borrones), deben ser totalmente legibles y con sus requisitos legales tal como lo indica el Acuerdo No. 189-2014 Reglamento del Régimen de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas y la Ley del Equilibrio Financiero.
 
 e) Detalle de los cheques o pagos por transferencias emitidos, (casos que aplique).
 

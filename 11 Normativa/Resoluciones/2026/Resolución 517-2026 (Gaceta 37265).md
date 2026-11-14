@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución No. 517-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261008-37265/download"
 extraido: "2026-11-09"
-huella: "bf0103b1d62d9800"
+huella: "df7216f8391e3d56"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 517-2026
@@ -37,7 +37,7 @@ ESTADO EN LOS DESPACHOS DE GOBERNACIÓN
 
 JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, diecisiete de julio del año dos mil veintiséis.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de diciembre del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-08122025- 607 por el abogado OSCAR ALEJANDRO HELLER GIRÓN, quien actúa en su condición de Apoderado Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA RESIDENCIAL LA ARBOLEDA", la cual se encuentra domiciliada en la Residencial La Arboleda, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, República de Honduras; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de diciembre del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-08122025-607 por el abogado OSCAR ALEJANDRO HELLER GIRÓN, quien actúa en su condición de Apoderado Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA RESIDENCIAL LA ARBOLEDA", la cual se encuentra domiciliada en la Residencial La Arboleda, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, República de Honduras; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

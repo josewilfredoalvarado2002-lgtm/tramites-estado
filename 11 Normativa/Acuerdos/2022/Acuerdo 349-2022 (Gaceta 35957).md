@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Acuerdo Ejecutivo No. 349-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220623-35957/download"
 extraido: "2026-11-14"
-huella: "d61723edc85beac4"
+huella: "3192711d8b0af5b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 349-2022
@@ -29,7 +29,7 @@ huella: "d61723edc85beac4"
 
 Tegucigalpa, municipio del Distrito Central, 25 de mayo de 2022 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO (1): Que mediante Decreto Legislativo No. 107-2021 de fecha 10 de diciembre de 2021, publicado en el Diario Oficial La Gaceta No. 35,800 del 17 de diciembre de 2021, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2022, incluyendo las Disposiciones Generales del Presupuesto que regularán la ejecución del mismo, asimismo, dichas Disposiciones fueron reformadas mediante los Decretos Legislativos No.142-2021 de fecha 15 de enero del 2022, publicado en el Diario Oficial La Gaceta No. 35,824 el 17 de enero del 2022 y Decreto Legislativo No. 19-2022, de fecha 17 de marzo del 2022, publicado en el Diario Oficial La Gaceta No. 35,883 el 26 de marzo del 2022.
+CONSIDERANDO (1): Que mediante Decreto Legislativo No. 107-2021 de fecha 10 de diciembre de 2021, publicado en el Diario Oficial La Gaceta No. 35,800 del 17 de diciembre de 2021, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2022, incluyendo las Disposiciones Generales del Presupuesto que regularán la ejecución del mismo, asimismo, dichas Disposiciones fueron reformadas mediante los Decretos Legislativos No. 142-2021 de fecha 15 de enero del 2022, publicado en el Diario Oficial La Gaceta No. 35,824 el 17 de enero del 2022 y Decreto Legislativo No. 19-2022, de fecha 17 de marzo del 2022, publicado en el Diario Oficial La Gaceta No. 35,883 el 26 de marzo del 2022.
 
 CONSIDERANDO (2): Que mediante Decreto Legislativo No. 30-2022 de fecha 8 de abril de 2022, publicado en el Diario Oficial La Gaceta No. 35,894 de la misma fecha, se aprobó la Modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2022.
 
@@ -73,7 +73,7 @@ Sin perjuicio de lo establecido en el Artículo 47 de la Ley General de la Admin
 
 Instituciones Descentralizadas no empresariales, Instituciones de Seguridad Social, Universidades Nacionales, Empresas Públicas e Instituciones Financieras bancarias y no bancarias.
 
-8. A S I G N A C I O N E S D E A M P L I A C I Ó N
+8. ASIGNACIONES DE AMPLIACIÓN
 
 AUTOMÁTICA: Son aquellas asignaciones presupuestarias que pueden ser ampliadas con el producto de los ingresos propios, eventuales o emanadas de leyes vigentes que perciban las dependencias autorizadas para operar con este sistema.
 
@@ -195,7 +195,7 @@ De los Ingresos.
 
 #### Artículo 11
 
-Artículo 11.- Para dar cumplimiento a lo referido en el Artículo 21 de la Ley, las distintas dependencias usarán el Recibo oficial de pago para la captación de ingresos gubernamentales TGR- 1 electrónico, ya sea utilizando directamente la plataforma TGR-1 electrónico a disposición del ciudadano o a través de los sistemas de recaudación propios institucionales que generaran automáticamente el TGR-1 electrónico a través de interfaces, dichos valores se depositarán en las instituciones del sistema bancario nacional autorizadas directamente por los ciudadanos.
+Artículo 11.- Para dar cumplimiento a lo referido en el Artículo 21 de la Ley, las distintas dependencias usarán el Recibo oficial de pago para la captación de ingresos gubernamentales TGR-1 electrónico, ya sea utilizando directamente la plataforma TGR-1 electrónico a disposición del ciudadano o a través de los sistemas de recaudación propios institucionales que generaran automáticamente el TGR-1 electrónico a través de interfaces, dichos valores se depositarán en las instituciones del sistema bancario nacional autorizadas directamente por los ciudadanos.
 
 La excepción indicada en el párrafo tercero del Artículo 21, se refiere únicamente a los ingresos generados por las actividades propias, eventuales o emanadas de Leyes Vigentes para las instituciones y los porcentajes detallados en la tabla de dicho
 
@@ -247,7 +247,7 @@ Del Control de Fideicomisos y Alianzas Público Privada (APP)
 
 Artículo 16.- Con el fin de cumplir con lo establecido en el primer párrafo del Artículo 70 de esta Ley, BANADESA enviará a la Secretaría de Finanzas informes del avance de las liquidaciones de los Convenios de Administración y/o Contratos de Fideicomiso que a la fecha hayan finalizado su vigencia o se evidencie de forma indubitable que no tuvieron operación alguna, dichos informes se remitirán al 30 de junio y al 30 de septiembre 2022.
 
-La Dirección de Fideicomisos deberá dar el seguimiento al proceso de liquidación de los contratos o convenios de fideicomisos, de conformidad con lo dispuesto en el PCM No.029-2019 contentivo de la Ley de creación de dicha Dirección, así como, el PCM No.09-2022 y Decreto Legislativo No.066-2022 referidos a la cancelación de diversos fideicomisos.
+La Dirección de Fideicomisos deberá dar el seguimiento al proceso de liquidación de los contratos o convenios de fideicomisos, de conformidad con lo dispuesto en el PCM No. 029-2019 contentivo de la Ley de creación de dicha Dirección, así como, el PCM No. 09-2022 y Decreto Legislativo No. 066-2022 referidos a la cancelación de diversos fideicomisos.
 
 De los Contratos de la Administración Pública.
 
@@ -361,7 +361,7 @@ De la Inversión Pública
 
 Artículo 30.- En relación a la emisión del Dictamen de Certificación de Alineamiento Estratégico de nuevos programas o proyectos por parte de la Secretaría de Estado en el Despacho de Planificación Estratégica establecido en el
 
-Artículo 101, toda solicitud de Certificado se hará mediante Oficio de la institución solicitante dirigida a la Secretaría de Estado en el Despacho de Planificación Estratégica , y este debe ir acompañado del perfil del programa y/o proyecto, el cuál después de ser analizado y constatada la información se emitirá la Certificación en el lapso de 10 días hábiles; de lo contrario los técnicos de la Secretaría de Estado en el Despacho de Planificación Estratégica comunicarán a la institución solicitante sobre la información faltante, hasta obtener respuesta con la información completa, a partir de esta fecha se contará el tiempo de los 10 días hábiles.
+Artículo 101, toda solicitud de Certificado se hará mediante Oficio de la institución solicitante dirigida a la Secretaría de Estado en el Despacho de Planificación Estratégica, y este debe ir acompañado del perfil del programa y/o proyecto, el cuál después de ser analizado y constatada la información se emitirá la Certificación en el lapso de 10 días hábiles; de lo contrario los técnicos de la Secretaría de Estado en el Despacho de Planificación Estratégica comunicarán a la institución solicitante sobre la información faltante, hasta obtener respuesta con la información completa, a partir de esta fecha se contará el tiempo de los 10 días hábiles.
 
 #### Artículo 31
 
@@ -697,7 +697,7 @@ COMUNIQUESE Y PUBLIQUESE:
 
 XIOMARA CASTRO SARMIENTO
 
-Presidenta Constitucional de la República RIXI MONCADA GODOY Secretaria de Estado en el Despacho de Finanzas Acuerdo Ejecutivo No.07-2022 Instituto Nacional de Previsión del Magisterio REGLAMENTO DE PRESTAMOS DEL INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO
+Presidenta Constitucional de la República RIXI MONCADA GODOY Secretaria de Estado en el Despacho de Finanzas Acuerdo Ejecutivo No. 07-2022 Instituto Nacional de Previsión del Magisterio REGLAMENTO DE PRESTAMOS DEL INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO
 
 TITULO I CREACIÓN Y OBJETIVOS DEL REGLAMENTO
 

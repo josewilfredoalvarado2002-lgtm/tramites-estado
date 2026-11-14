@@ -8,10 +8,10 @@ gaceta_numero: 36666
 gaceta_fecha: "2024-10-17"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)|La Gaceta 36666]]"
 paginas: "A. 1 - 7"
-sumario: "Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
+sumario: "Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241017-36666/download"
 extraido: "2026-11-14"
-huella: "72fb7e360fa095a1"
+huella: "ed70557895cb9744"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 88-2024
@@ -23,7 +23,7 @@ huella: "72fb7e360fa095a1"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)\|La Gaceta 36666]] del 2024-10-17 |
 | Páginas | A. 1 - 7 |
-| Según el sumario de La Gaceta | Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
+| Según el sumario de La Gaceta | Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 132 establec
 
 CONSIDERANDO: Que el Artículo 332 de la Constitución de la República establece que el Estado por razones de orden público e interés social, se reserva el ejercicio de determinadas industrias básicas, explotaciones y servicios de interés público, dictando medidas y leyes económicas, fiscales y de seguridad pública, para encausar, estimular, supervisar, orientar y suplir la iniciativa privada, con fundamento en una política económica racional y planificada, teniendo como base el interés público y social y por límite los derechos y libertades reconocidos por la Constitución de la República.
 
-CONSIDERANDO: Que la Ley de Transporte Terrestre, contenida en el Decreto No.155-2015 de fecha 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta”, Edición número 33,995 del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario. Asimismo, establece que las tarifas del transporte terrestre deben cubrir la totalidad de los costos reales en condiciones normales de productividad y eficacia, permitir la amortización adecuada y un razonable beneficio empresarial, asimismo habilita al Poder Ejecutivo para fijar mecanismos económicos para mantener los costos de las tarifas en la medida que las condiciones económicas lo permiten.
+CONSIDERANDO: Que la Ley de Transporte Terrestre, contenida en el Decreto No. 155-2015 de fecha 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta”, Edición número 33,995 del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario. Asimismo, establece que las tarifas del transporte terrestre deben cubrir la totalidad de los costos reales en condiciones normales de productividad y eficacia, permitir la amortización adecuada y un razonable beneficio empresarial, asimismo habilita al Poder Ejecutivo para fijar mecanismos económicos para mantener los costos de las tarifas en la medida que las condiciones económicas lo permiten.
 
 CONSIDERANDO: Que el Artículo 11 numeral 5) de la Ley de Transporte Terrestre de Honduras atribuye a la Comisión Directiva del Transporte Terrestre la facultad de aprobar, modificar y regular las tarifas del Transporte Público y que el
 
@@ -41,13 +41,13 @@ Artículo 66, párrafo tercero del mismo cuerpo legal establece que, “La tarif
 
 CONSIDERANDO: Que el Gobierno de la República en fecha 12 de Abril del año 2022, suscribió un Acuerdo con el Sector de Transporte Público de Personas en la modalidad de Bus Urbano, acordando otorgar una compensación económica provisional por pasajero transportado, a razón de Tres Lempiras (L.3.00) por pasajero, hasta un máximo de Mil Ochenta Lempiras (L.1,080.00) por día trabajado por vehículo, con el propósito de aliviar los costos de operación y beneficiar a todos los usuarios de este servicio, evitando incrementos en la tarifa.
 
-CONSIDERANDO: Que este Acuerdo conllevó la aprobación del Decreto Legislativo No.78-2022, del 3 de Agosto de 2022 y publicado en el Diario Oficial “La Gaceta”, Edición número 36,017 en fecha 1 de Septiembre de 2022, con vigencia determinada del 12 de Abril al 11 de Octubre de 2022 incluyendo la prórroga de tres (3) meses. Mismo que fue ampliado mediante Decreto Legislativo No.40-2023, de fecha 1 de Junio de 2023 y publicado en el Diario Oficial “La Gaceta”, Edición número 36,243 en fecha 1 de Junio de 2023, con vigencia determinada hasta el 31 de Diciembre de 2023 y el presupuesto vigente para el año 2024 mediante Decreto Legislativo No.62-2023, del 16 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2024, Edición número 36,437 que contiene el Presupuesto contentivo para el año 2024, en el cual se incluyó un monto de DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS (L.250,000,000.00) para la compensación económica del sector transporte.
+CONSIDERANDO: Que este Acuerdo conllevó la aprobación del Decreto Legislativo No. 78-2022, del 3 de Agosto de 2022 y publicado en el Diario Oficial “La Gaceta”, Edición número 36,017 en fecha 1 de Septiembre de 2022, con vigencia determinada del 12 de Abril al 11 de Octubre de 2022 incluyendo la prórroga de tres (3) meses. Mismo que fue ampliado mediante Decreto Legislativo No. 40-2023, de fecha 1 de Junio de 2023 y publicado en el Diario Oficial “La Gaceta”, Edición número 36,243 en fecha 1 de Junio de 2023, con vigencia determinada hasta el 31 de Diciembre de 2023 y el presupuesto vigente para el año 2024 mediante Decreto Legislativo No. 62-2023, del 16 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2024, Edición número 36,437 que contiene el Presupuesto contentivo para el año 2024, en el cual se incluyó un monto de DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS (L.250,000,000.00) para la compensación económica del sector transporte.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +67,7 @@ Los concesionarios beneficiarios de la compensación deben cumplir los compromis
 
 #### Artículo 3
 
-ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar y proveer los fondos requeridos con base en el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, en el marco del Decreto Legislativo No.62-2023, del 16 de enero de 2024, publicado en el Diario Oficial “La Gaceta” en fecha 18 de enero de dos mil veinticuatro, en su Edición número 36,437.
+ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar y proveer los fondos requeridos con base en el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, en el marco del Decreto Legislativo No. 62-2023, del 16 de enero de 2024, publicado en el Diario Oficial “La Gaceta” en fecha 18 de enero de dos mil veinticuatro, en su Edición número 36,437.
 
 #### Artículo 4
 
@@ -107,7 +107,7 @@ ARTÍCULO 10.- Los concesionarios del servicio de transporte público de persona
 
 #### Artículo 11
 
-ARTÍCULO 11.- Se autoriza al Instituto Hondureño de Transporte Terrestre (IHTT), atender los reclamos de los concesionarios del transporte público que fueron pagados en el marco del Decreto Legislativo No.78-2022 de fecha 3 de agosto del 2022 y publicado en el Diario Oficial “La Gaceta” Edición número 36,017 en fecha 1 de septiembre de 2022, con base en las hojas de verificación, consecuentemente los subsiguientes meses de pago de acuerdo con las hojas de verificación y ticket respectivo de las unidades de transporte que fue verificada su operación y pagarlos cuando corresponda con el presupuesto asignado en el marco del presente Decreto.
+ARTÍCULO 11.- Se autoriza al Instituto Hondureño de Transporte Terrestre (IHTT), atender los reclamos de los concesionarios del transporte público que fueron pagados en el marco del Decreto Legislativo No. 78-2022 de fecha 3 de agosto del 2022 y publicado en el Diario Oficial “La Gaceta” Edición número 36,017 en fecha 1 de septiembre de 2022, con base en las hojas de verificación, consecuentemente los subsiguientes meses de pago de acuerdo con las hojas de verificación y ticket respectivo de las unidades de transporte que fue verificada su operación y pagarlos cuando corresponda con el presupuesto asignado en el marco del presente Decreto.
 
 #### Artículo 12
 

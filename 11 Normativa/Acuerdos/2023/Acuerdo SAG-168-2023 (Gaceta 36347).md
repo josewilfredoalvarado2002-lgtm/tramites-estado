@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Nos. SAG-167-2023, SAG-168-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230930-36347/download"
 extraido: "2026-11-14"
-huella: "e7ca0555face9976"
+huella: "b958608806c41701"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-168-2023
@@ -47,7 +47,7 @@ Acuerdo Ejecutivo No. SAG-125-2022.
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ejecutivo No. SAG- 125-2022, se solicita a la Secretaría de Desarrollo Económico establecer un Contingente de Importación de Maíz Blanco por Desabasto, por la Cantidad de Once Mil Novecientas Sesenta y Cuatro Punto Noventa Toneladas Métricas (11,964.90 TM), clasificado en la partida arancelaria SAC.1005.90.30.00, con un DAI del cero por ciento (0%), con una vigencia comprendida del 11 de septiembre al 31 de diciembre de 2023, cuya asignación es con base a las compras de la producción nacional de la cosecha 2022-2023, realizadas por las empresas de la Industria de las Harinas de Maíz Blanco y Alimento para Consumo Humano. A continuación, se detalla las empresas beneficiarias y la cantidad que les corresponde:
+PRIMERO: En el marco del Acuerdo Ejecutivo No. SAG-125-2022, se solicita a la Secretaría de Desarrollo Económico establecer un Contingente de Importación de Maíz Blanco por Desabasto, por la Cantidad de Once Mil Novecientas Sesenta y Cuatro Punto Noventa Toneladas Métricas (11,964.90 TM), clasificado en la partida arancelaria SAC.1005.90.30.00, con un DAI del cero por ciento (0%), con una vigencia comprendida del 11 de septiembre al 31 de diciembre de 2023, cuya asignación es con base a las compras de la producción nacional de la cosecha 2022-2023, realizadas por las empresas de la Industria de las Harinas de Maíz Blanco y Alimento para Consumo Humano. A continuación, se detalla las empresas beneficiarias y la cantidad que les corresponde:
 
 DESABASTO TM COMPRAS DE MAIZ BLANCO PRODUCCION NACIONAL 2022-2023 No.
 

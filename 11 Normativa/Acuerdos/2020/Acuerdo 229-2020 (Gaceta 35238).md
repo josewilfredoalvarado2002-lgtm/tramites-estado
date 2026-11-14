@@ -11,7 +11,7 @@ paginas: "A. 28 - 32"
 sumario: "Acuerdos Ejecutivos números 205-2020, 226-2020, 229-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200429-35238/download"
 extraido: "2026-11-14"
-huella: "2a8e4f4b6d973db9"
+huella: "8fa28aebc9197da6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 229-2020
@@ -53,7 +53,7 @@ ARTÍCULO 1: Autorizar a la Licenciada ROCÍO IZABEL TÁBORA MORALES, en su cond
 
 #### Artículo 2
 
-ARTÍCULO 2: Una vez suscrito el Contrato Préstamo mencionado en el Artículo 1 del presente Acuerdo Ejecutivo, la Secretaría de Estado en el Despacho de Finanzas en atención a lo establecido en Artículo 75 del Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, informará al Congreso Nacional en forma inmediata, sobre este acto. Así mismo, la Secretaría de Estado en el Despacho de Finanzas deberá remitir dicho Contrato Préstamo a la Empresa Nacional de Artes Gráficas (ENAG) para su correspondiente publicación en el Diario Oficial “La Gaceta”.
+ARTÍCULO 2: Una vez suscrito el Contrato Préstamo mencionado en el Artículo 1 del presente Acuerdo Ejecutivo, la Secretaría de Estado en el Despacho de Finanzas en atención a lo establecido en Artículo 75 del Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, informará al Congreso Nacional en forma inmediata, sobre este acto. Así mismo, la Secretaría de Estado en el Despacho de Finanzas deberá remitir dicho Contrato Préstamo a la Empresa Nacional de Artes Gráficas (ENAG) para su correspondiente publicación en el Diario Oficial “La Gaceta”.
 
 #### Artículo 3
 

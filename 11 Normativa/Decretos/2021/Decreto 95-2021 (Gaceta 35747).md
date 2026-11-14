@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 95-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211015-35747/download"
 extraido: "2026-11-14"
-huella: "4f63aa049664b045"
+huella: "4b1b7c9ed4535ea4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 95-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que las características geográficas y demográficas de nuestro p
 
 CONSIDERANDO: Que, no obstante, los grandes avances del Proyecto denominado IDENTIFÍCATE, un pequeño sector de la población no cuenta con su Documento Nacional de Identidad (DNI), por lo cual es necesario garantizar el derecho a la identidad de estos hondureños ampliando por un mes la vigencia de la actual Tarjeta de Identidad.
 
-CONSIDERANDO: Que debido al nuevo procedimiento de Identificación que se ha emprendido a nivel nacional, la validez de la actual Tarjeta de Identidad se encuentra establecida hasta el 15 de Octubre del 2021, según el Decreto No.62-2021 del 5 de Agosto del 2021, publicado en el Diario Oficial “La Gaceta” el 10 de Agosto del 2021, Edición No.35,683; del mandato que deja a gran parte de la población desamparada hasta esta fecha, teniendo presente que hasta el momento esta población no cuenta con el nuevo Documento Nacional de Identificación
+CONSIDERANDO: Que debido al nuevo procedimiento de Identificación que se ha emprendido a nivel nacional, la validez de la actual Tarjeta de Identidad se encuentra establecida hasta el 15 de Octubre del 2021, según el Decreto No. 62-2021 del 5 de Agosto del 2021, publicado en el Diario Oficial “La Gaceta” el 10 de Agosto del 2021, Edición No. 35,683; del mandato que deja a gran parte de la población desamparada hasta esta fecha, teniendo presente que hasta el momento esta población no cuenta con el nuevo Documento Nacional de Identificación
 
 (DNI) y al dejar de estar en vigencia la identidad actual, la población en mención queda totalmente desprotegida.
 

@@ -11,7 +11,7 @@ paginas: "A. 27 - 28"
 sumario: "Acuerdos Nos. 008-2020, 044-2020, 045-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201230-35473/download"
 extraido: "2026-11-14"
-huella: "868e3cfc331fe4fc"
+huella: "ccdc38e5d1dbccfd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 045-2020
@@ -27,7 +27,7 @@ huella: "868e3cfc331fe4fc"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

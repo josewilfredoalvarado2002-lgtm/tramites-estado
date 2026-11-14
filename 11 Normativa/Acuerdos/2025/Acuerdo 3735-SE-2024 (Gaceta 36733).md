@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. 3735-SE-2024, 4235-SE-2024, 4655-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250107-36733/download"
 extraido: "2026-11-13"
-huella: "f96ce73c7592a656"
+huella: "a72064acfade5961"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 3735-SE-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el Plan de Gobierno para Refundar Honduras 2022-2023, indica c
 
 CONSIDERANDO: Que la aplicación del Programa Matrícula Gratis proveerá a los Centros Educativos administrados por la Secretaría Estado en el Despacho de Educación, los recursos financieros para su normal funcionamiento, con el propósito de mejorar las condiciones básicas, infraestructura y la calidad educativa.
 
-CONSIDERANDO: Que según Acuerdo Ministerial N°.1905- SE-2022, de fecha treinta (30) de noviembre del año dos mil veintidós (2022), se autorizó la reactivación y ejecución de la Matrícula Gratis en los niveles de Prebásica, Básica y Media del Sistema Educativo Nacional.
+CONSIDERANDO: Que según Acuerdo Ministerial N°. 1905- SE-2022, de fecha treinta (30) de noviembre del año dos mil veintidós (2022), se autorizó la reactivación y ejecución de la Matrícula Gratis en los niveles de Prebásica, Básica y Media del Sistema Educativo Nacional.
 
 CONSIDERANDO: Que mediante Acuerdo 1801-SE-2022 de fecha veintitrés (23) de noviembre del año dos mil veintidós (2022), se aprobó el Reglamento de Administración de Recursos Financieros del Programa Matrícula Gratis.
 

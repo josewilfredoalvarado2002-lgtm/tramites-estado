@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos Números PCM-145-2020, 150-2020, 151-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201230-35473/download"
 extraido: "2026-11-14"
-huella: "72b4c7c4c1fe3ab4"
+huella: "90f55adfc6181c13"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-145-2020
@@ -59,11 +59,9 @@ La Unidad tendrá por objetivo facilitar, gestionar, apoyar, agilizar, dar segui
 
 ARTÍCULO 2.- La Unidad Técnica del Concedente del Proyecto “Centro Cívico Gubernamental” (UCCG) tendrá a su cargo las funciones siguientes:
 
-1. Apoyar y facilitar el cumplimiento de las funciones y obligaciones que tiene la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en el Decreto Ejecutivo Número PCM-062-2013, publicado en el Diario Oficial “La Gaceta” en fecha 26 de diciembre del 2013 Edición No.33,313, aprobado en el “CONTRATO DE FIDEICOMISO PARA LA ADMINISTRACIÓN DEL PROYECTO “CENTRO CIVICO GUBERNAMENTAL”, suscrito entre la Comisión para la promoción de la Alianza Público Privada (COALIANZA) y el Banco LAFISE (HONDURAS), S.A.;
+1. Apoyar y facilitar el cumplimiento de las funciones y obligaciones que tiene la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en el Decreto Ejecutivo Número PCM-062-2013, publicado en el Diario Oficial “La Gaceta” en fecha 26 de diciembre del 2013 Edición No. 33,313, aprobado en el “CONTRATO DE FIDEICOMISO PARA LA ADMINISTRACIÓN DEL PROYECTO “CENTRO CIVICO GUBERNAMENTAL”, suscrito entre la Comisión para la promoción de la Alianza Público Privada (COALIANZA) y el Banco LAFISE (HONDURAS), S.A.;
 
-2. Gestionar ante las autoridades la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y sus dependencias las transferencias de las partidas presupuestarias presentes y futuras al Fideicomiso en cumplimiento de las obligaciones establecidas en el Decreto Ejecutivo Número PCM-062-2013 anterior, así como del Decreto Ejecutivo Número PCM-001-2015 publicado en el Diario Oficial “La Gaceta” en fecha 7 de enero de 2015, Edición No.
-
-33,625 y otros que se creen para contribuir con el buen funcionamiento, operatividad y ejecución del Proyecto;
+2. Gestionar ante las autoridades la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y sus dependencias las transferencias de las partidas presupuestarias presentes y futuras al Fideicomiso en cumplimiento de las obligaciones establecidas en el Decreto Ejecutivo Número PCM-062-2013 anterior, así como del Decreto Ejecutivo Número PCM-001-2015 publicado en el Diario Oficial “La Gaceta” en fecha 7 de enero de 2015, Edición No. 33,625 y otros que se creen para contribuir con el buen funcionamiento, operatividad y ejecución del Proyecto;
 
 3. Apoyar el cumplimiento de las obligaciones que tiene la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en su rol de Concedente y Miembro de la Contratante en el “CONTRATO DE ALIANZA PÚBLICO PRIVADA PARA LA PRESTACIÓN DE SERVICIOS Y EL DISEÑO, FINANCIAMIENTO, DEMOLICIÓN, CONSTRUCCIÓN, EQUIPAMIENTO, PROVISIÓN DEL MOBILIARIO, OPERACIÓN, EXPLOTACIÓN Y MANTENIMIENTO DE LAS INSTALACIONES, RELACIONADOS CON EL CENTRO CÍVICO GUBERNAMENTAL, EN EL MUNICIPIO DEL DISTRITO CENTRAL DE LA REPUBLICA DE HONDURAS”, suscrito entre el Gobierno de la República de Honduras y el Inversionista Operador Privado (IOP), el 15 de agosto del 2016;
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Decreto Ejecutivo número PCM-060-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210531-35614/download"
 extraido: "2026-11-14"
-huella: "003a41e034c10562"
+huella: "b7fa308cd5dcdfbd"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-060-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Ley de Responsabilidad Fiscal contenida en el Decreto Legis
 
 CONSIDERANDO: Que en el Artículo 6 del Decreto Legislativo No. 25-2016 se crea el Comité Interinstitucional integrado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Secretaría de Estado en el Despacho de Coordinación General de Gobierno (SCGG) y el Banco Central de Honduras (BCH), para la elaboración e implementación del Marco Macro Fiscal de Mediano Plazo.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.18-2021 publicado en el Diario Oficial “La Gaceta” en fecha 30 de abril del 2021 el Congreso Nacional de la República aprobó la ampliación de la fecha de aprobación del Marco Macro Fiscal de Mediano Plazo (MMFMP) para el último día hábil del mes de mayo de 2021.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 18-2021 publicado en el Diario Oficial “La Gaceta” en fecha 30 de abril del 2021 el Congreso Nacional de la República aprobó la ampliación de la fecha de aprobación del Marco Macro Fiscal de Mediano Plazo (MMFMP) para el último día hábil del mes de mayo de 2021.
 
 CONSIDERANDO: Que en fecha 13 de mayo de 2021 mediante Decreto Legislativo No. 27-2021, se aprobó, la Autorización para activar la Cláusula de Excepción de las Reglas Fiscales de la Ley de Responsabilidad Fiscal, que suspende por un máximo de dos años las Reglas Plurianuales de Desempeño Fiscal para el Sector Público No Financiero (SPNF) establecidas en el inciso a) y b) numeral 1) del Artículo 3 del Decreto Legislativo No. 25-2016 que contiene de la Ley de Responsabilidad Fiscal.
 
@@ -107,7 +107,7 @@ CONSIDERANDO: Que es el interés de todos los sectores involucrados en la cadena
 
 POR TANTO: En uso de sus facultades y en aplicación de los
 
-Artículos 340 de la Constitución de la República; 36 numeral 8), 116, 118, 119 Numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimiento Administrativo; Decreto Legislativo 30-95 de ratificación del Convenio sobre Diversidad Biológica, Decreto Legislativo 26-95 de ratificación del Convenio Marco de las Naciones Unidas para el Cambio Climático, Decreto Legislativo 35- 97 de ratificación del Convenio sobre la Lucha Contra la Desertificación y Sequía Grave y otras leyes conexas.
+Artículos 340 de la Constitución de la República; 36 numeral 8), 116, 118, 119 Numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimiento Administrativo; Decreto Legislativo 30-95 de ratificación del Convenio sobre Diversidad Biológica, Decreto Legislativo 26-95 de ratificación del Convenio Marco de las Naciones Unidas para el Cambio Climático, Decreto Legislativo 35-97 de ratificación del Convenio sobre la Lucha Contra la Desertificación y Sequía Grave y otras leyes conexas.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Acuerdos SETUR No. 002-2024, 011-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241209-36710/download"
 extraido: "2026-11-14"
-huella: "a4a504fa724c540f"
+huella: "c1573d59c0907437"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETUR No. 011-2024
@@ -75,7 +75,7 @@ CONSIDERANDO (5):
 
 Que el Reglamento de Condecoraciones y Distinciones Militares en su artículo 1 literal
 
-b) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y m i l i t a r e s d e n a c i o n e s amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos meritorios, créanse las Condecoraciones y Distinciones Militares: b) MEDALLA “CRUZ DE LAS FF.AA.”.
+b) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos meritorios, créanse las Condecoraciones y Distinciones Militares: b) MEDALLA “CRUZ DE LAS FF.AA.”.
 
 CONSIDERANDO (6):
 
@@ -87,9 +87,9 @@ CONSIDERANDO (8): Que en fecha 30 de septiembre del 2024, el Consejo General de 
 
 Medalla “CRUZ DE LAS
 
-FUERZAS ARMADAS”, al General de Brigada LUIS ALFREDO SALAZAR MARTÍNEZ y al Comisionado OSCAR ERNESTO BEITIA C Á C E R E S , p o r h a b e r contribuido en forma notable a estrechar los vínculos de amistad y desarrollo cultural entre las Fuerzas Armadas de Honduras, las Fuerzas Armadas de Guatemala y el Ministerio de Seguridad Pública de Panamá.
+FUERZAS ARMADAS”, al General de Brigada LUIS ALFREDO SALAZAR MARTÍNEZ y al Comisionado OSCAR ERNESTO BEITIA CÁCERES, por haber contribuido en forma notable a estrechar los vínculos de amistad y desarrollo cultural entre las Fuerzas Armadas de Honduras, las Fuerzas Armadas de Guatemala y el Ministerio de Seguridad Pública de Panamá.
 
-CONSIDERANDO (9): Que en fecha 08 de octubre del año 2024, la Dirección de Recursos Humanos del Estado Mayor Conjunto (C-1), emitió DICTAMEN D=153(C-1)2024 en el cual recomendó otorgar la condecoración; Medalla “CRUZ DE LAS FUERZAS ARMADAS” al General de Brigada LUIS ALFREDO SALAZAR MARTÍNEZ y al Comisionado OSCAR E R N E S T O B E I T I A CÁCERES.
+CONSIDERANDO (9): Que en fecha 08 de octubre del año 2024, la Dirección de Recursos Humanos del Estado Mayor Conjunto (C-1), emitió DICTAMEN D=153(C-1)2024 en el cual recomendó otorgar la condecoración; Medalla “CRUZ DE LAS FUERZAS ARMADAS” al General de Brigada LUIS ALFREDO SALAZAR MARTÍNEZ y al Comisionado OSCAR ERNESTO BEITIA CÁCERES.
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ejecutivos Nos. 012-DP-2026, 013-DP-2026, 017-DP-2026, 019-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260213-37069/download"
 extraido: "2026-11-09"
-huella: "094fc8f5f573cdc7"
+huella: "52f2421ef55f9f1c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 012-DP-2026
@@ -41,9 +41,7 @@ CONSIDERANDO: Que el Artículo 4 y 5, respectivamente, de la Ley de Procedimient
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, bajo la autoridad y dirección del Presidente de e la República, es responsable de proponer, orientar, coordinar, supervisar, formular y ejecutar la Política Exterior de Honduras y administrar el Servicio Diplomático y Consular de la República.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-003-2026 de fecha veintisiete (27) de enero del año dos mil veintiséis (2026), se nombró a la ciudadana MIREYA DEL CARMEN AGÜERO TREJO en el cargo de Secretaria de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 003-2026 de fecha veintisiete (27) de enero del año dos mil veintiséis (2026), se nombró a la ciudadana MIREYA DEL CARMEN AGÜERO TREJO en el cargo de Secretaria de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional.
 
 POR TANTO;
 

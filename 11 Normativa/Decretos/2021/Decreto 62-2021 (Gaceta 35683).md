@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decretos Nos. 61-2021, 62-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210810-35683/download"
 extraido: "2026-11-14"
-huella: "3632435699c5e87a"
+huella: "b154d32bea6fdae2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 62-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 44 establece
 
 CONSIDERANDO: Que, mediante los procesos electorales, se hace realidad el ejercicio de la soberanía política del pueblo para elegir por medio del voto a los funcionarios que integrarán los cuerpos de Gobierno Legislativo, Ejecutivo, de las Corporaciones Municipales y otras instancias derivadas que determinan la función pública.
 
-CONSIDERANDO: Que mediante Decreto No.35-2021, del 25 de Mayo del año 2021 y publicado en el Diario Oficial “La Gaceta” el 26 de Mayo del año 2021, Edición No. 35,610, se aprobó la nueva Ley Electoral de Honduras, la cual tiene como finalidad la organización y funcionamiento de los órganos electorales, que de conformidad con la Constitución de la República, tienen la atribución de organizar y dirigir los procesos electorales, mediante los cuales los ciudadanos eligen dentro de los candidatos a cargos de elección popular los de su preferencia; autorizar la creación de los partidos políticos; realizar las consultas populares con el propósito de fortalecer el Estado de Derecho, mediante los mecanismos de la democracia representativa, participativa y funcional, promoviendo la educación, la formación y la capacitación ciudadana, propiciando su libre, amplia y cívica participación en los procesos electorales, que deben ser transparentes, honestos y justos, respetando la voluntad soberana de los electores.
+CONSIDERANDO: Que mediante Decreto No. 35-2021, del 25 de Mayo del año 2021 y publicado en el Diario Oficial “La Gaceta” el 26 de Mayo del año 2021, Edición No. 35,610, se aprobó la nueva Ley Electoral de Honduras, la cual tiene como finalidad la organización y funcionamiento de los órganos electorales, que de conformidad con la Constitución de la República, tienen la atribución de organizar y dirigir los procesos electorales, mediante los cuales los ciudadanos eligen dentro de los candidatos a cargos de elección popular los de su preferencia; autorizar la creación de los partidos políticos; realizar las consultas populares con el propósito de fortalecer el Estado de Derecho, mediante los mecanismos de la democracia representativa, participativa y funcional, promoviendo la educación, la formación y la capacitación ciudadana, propiciando su libre, amplia y cívica participación en los procesos electorales, que deben ser transparentes, honestos y justos, respetando la voluntad soberana de los electores.
 
 CONSIDERANDO: Que la nueva Ley Electoral de Honduras, surgió como respuesta a la necesidad de recuperar la confianza de la sociedad hondureña en la democracia, sin embargo, la misma contiene ciertas omisiones que fueron pasadas por alto al momento de su discusión y aprobación y que deben quedar plasmadas e incorporadas de forma precisa en la Ley, a fin de contar con reglas claras que permitan el desarrollo de un proceso electoral transparente, y así evitar situaciones que puedan generar conflictos el día de las elecciones.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 33, 46, 47, 48, 107, 160, 241, 250, 254 y 261 de la LEY ELECTORAL DE HONDURAS, creada mediante Decreto No.35-2021, publicado en el Diario Oficial “La Gaceta”, Edición No.35,610, del 26 de Mayo de 2021, los cuales de ahora en adelante se deben leer de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 33, 46, 47, 48, 107, 160, 241, 250, 254 y 261 de la LEY ELECTORAL DE HONDURAS, creada mediante Decreto No. 35-2021, publicado en el Diario Oficial “La Gaceta”, Edición No. 35,610, del 26 de Mayo de 2021, los cuales de ahora en adelante se deben leer de la manera siguiente:
 
 “ARTÍCULO 33.- REQUISITOS PARA SER MIEMBRO DE LOS ORGANISMOS ELECTORALES.
 

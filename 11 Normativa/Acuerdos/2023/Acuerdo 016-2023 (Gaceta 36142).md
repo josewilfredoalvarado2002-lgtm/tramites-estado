@@ -8,10 +8,10 @@ gaceta_numero: 36142
 gaceta_fecha: "2023-01-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)|La Gaceta 36142]]"
 paginas: "A. 10 - 12"
-sumario: "Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
+sumario: "Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230130-36142/download"
 extraido: "2026-11-14"
-huella: "fe62d15b107f019f"
+huella: "b9fe4fc8a9797024"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 016-2023
@@ -23,7 +23,7 @@ huella: "fe62d15b107f019f"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)\|La Gaceta 36142]] del 2023-01-30 |
 | Páginas | A. 10 - 12 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
 
 ## Texto
 
@@ -53,9 +53,7 @@ CONSIDERANDO: En virtud que la responsabilidad de la administración de los fond
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que le confiere el Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numeral 1), 8), 116, 118, 119, numeral 3) y 122 de la Ley General de la Administración Pública; 221 numeral 1) del Decreto Legislativo No. 107-2021 de las Disposiciones Generales del Presupuesto para el año 2023, Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994 publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No. 177-94 de fecha 25 de febrero de 1995 publicado en el Diario Oficial “La Gaceta” edición No. 27,3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No.161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998, Acuerdo Ministerial No. 008-2018 de fecha 17 de enero del 2018, Acuerdo Ministerial No. 007-2019 de fecha 16 de enero del 2019, Acuerdo Ministerial No. 003-2020 de fecha 15 de enero del 2020 y Acuerdo Ministerial No. 003- 2021 de fecha 5 de enero del 2021, Acuerdo Ministerial No.
-
-063-2022, publicado en el Diario Oficial La Gaceta en fecha 28 de julio del 2022.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que le confiere el Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numeral 1), 8), 116, 118, 119, numeral 3) y 122 de la Ley General de la Administración Pública; 221 numeral 1) del Decreto Legislativo No. 107-2021 de las Disposiciones Generales del Presupuesto para el año 2023, Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994 publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No. 177-94 de fecha 25 de febrero de 1995 publicado en el Diario Oficial “La Gaceta” edición No. 27,3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No. 161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998, Acuerdo Ministerial No. 008-2018 de fecha 17 de enero del 2018, Acuerdo Ministerial No. 007-2019 de fecha 16 de enero del 2019, Acuerdo Ministerial No. 003-2020 de fecha 15 de enero del 2020 y Acuerdo Ministerial No. 003-2021 de fecha 5 de enero del 2021, Acuerdo Ministerial No. 063-2022, publicado en el Diario Oficial La Gaceta en fecha 28 de julio del 2022.
 
 ACUERDA:
 

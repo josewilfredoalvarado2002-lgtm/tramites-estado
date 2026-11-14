@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 355-2022, 633-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231017-36360/download"
 extraido: "2026-11-14"
-huella: "c0fdb1510ff0a2dc"
+huella: "92bb951a04dbad2a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 355-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece que los Subsecretarios de Estado por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos y sustituirlo en caso de ausencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-54-2022 de fecha 1 de febrero del año dos mil veintidós (2022), se nombró al ciudadano SERGIO VLADIMIR COELLO DÍAZ, en el cargo de Subsecretario de Estado en el Despacho de Gobernación y Descentralización.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 54-2022 de fecha 1 de febrero del año dos mil veintidós (2022), se nombró al ciudadano SERGIO VLADIMIR COELLO DÍAZ, en el cargo de Subsecretario de Estado en el Despacho de Gobernación y Descentralización.
 
 POR TANTO:
 

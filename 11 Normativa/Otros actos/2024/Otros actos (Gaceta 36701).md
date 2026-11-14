@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241128-36701/download"
 extraido: "2026-11-14"
-huella: "4ed39e0d31de4fdf"
+huella: "255183ba6a78c543"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -49,7 +49,7 @@ CONSIDERANDO: Que el modelo privatizador impuesto por la narcodictadura a travé
 
 CONSIDERANDO: Que desde el año 2010 hasta el año 2021 la Empresa Nacional de Energía Eléctrica (ENEE) recibió CINCUENTA Y OCHO MIL MILLONES DE LEMPIRAS (L58,000,000,000.00) en préstamos; y, DOSCIENTOS SETENTA MILLONES DE LEMPIRAS (L270,000,000.00) en donaciones; sin embargo, a pesar de haber recibido tal cantidad de recursos para mejorar sus condiciones, la ENEE registró en el año 2022 una deuda total de SETENTA Y CINCO MIL SEISCIENTOS MILLONES DE LEMPIRAS (L.75,600,000,000.00) y un déficit operativo de SIETE MIL MILLONES DE LEMPIRAS (L.7,000,000,000.00), teniendo la nueva administración que asumir esta pesada carga financiera.
 
-CONSIDERANDO: Que el Decreto Legislativo No.46- 2022 emitido el 12 de mayo de 2022, publicado en el Diario Oficial “La Gaceta” No. 35,924 de fecha 16 de mayo de 2022, contentivo de la “Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social”, plantea el rescate de la ENEE de un profundo proceso de privatización y consecuentemente, una ambiciosa cartera de inversiones y acciones para sanear sus finanzas y cerrar las brechas operativas, que permitan ampliar la cobertura y mejorar el servicio, sobre todo a los más pobres.
+CONSIDERANDO: Que el Decreto Legislativo No. 46-2022 emitido el 12 de mayo de 2022, publicado en el Diario Oficial “La Gaceta” No. 35,924 de fecha 16 de mayo de 2022, contentivo de la “Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social”, plantea el rescate de la ENEE de un profundo proceso de privatización y consecuentemente, una ambiciosa cartera de inversiones y acciones para sanear sus finanzas y cerrar las brechas operativas, que permitan ampliar la cobertura y mejorar el servicio, sobre todo a los más pobres.
 
 CONSIDERANDO: Que con el fin de mejorar los esfuerzos y armonizar las políticas y acciones que realiza la Empresa Nacional de Energía Eléctrica (ENEE) en materia de financiamiento, inversiones y planificación, es necesario la creación de un Comité Interinstitucional con actores claves del Sector Público que acompañen y apoyen a la Empresa Estatal, como ser: Secretaría de Estado en el Despacho de Finanzas (SEFIN); el Banco Central de Honduras (BCH); la Secretaría de Estado en el Despacho de Energía (SEN); la Comisión Nacional de Bancos y Seguros (CNBS); y, la Secretaría de Estado en el Despacho de la Presidencia (SEP).
 

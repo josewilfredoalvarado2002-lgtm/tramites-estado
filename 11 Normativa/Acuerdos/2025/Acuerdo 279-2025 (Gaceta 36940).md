@@ -11,7 +11,7 @@ paginas: "A. 5 - 24"
 sumario: "Acuerdo No. 279-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250911-36940/download"
 extraido: "2026-11-09"
-huella: "c5e35a9658e91259"
+huella: "962a2f7b03f14162"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 279-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el artículo 255 de la Constitución de la República, estable
 
 POR TANTO:
 
-En uso de las facultades de que está investida la Secretaría de Finanzas y en aplicación de los artículos 246, 247 y 255 de la Constitución de la República; 1, 2, 89, 95, 96 numeral 3), 99, 100, 102 y 122 del Decreto Legislativo No. 83- 2004, contentivo de la Ley Orgánica del Presupuesto; 29, 36 numeral 8), 116, 118 numeral 2); 122 de la Ley General de la Administración Pública; 236, 237 y 281 del Decreto Legislativo No. 4-2025, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2025; 1 y 31 del Acuerdo No. 1087 que contiene las Normas Técnicas del Subsistema de Contabilidad Gubernamental.
+En uso de las facultades de que está investida la Secretaría de Finanzas y en aplicación de los artículos 246, 247 y 255 de la Constitución de la República; 1, 2, 89, 95, 96 numeral 3), 99, 100, 102 y 122 del Decreto Legislativo No. 83-2004, contentivo de la Ley Orgánica del Presupuesto; 29, 36 numeral 8), 116, 118 numeral 2); 122 de la Ley General de la Administración Pública; 236, 237 y 281 del Decreto Legislativo No. 4-2025, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2025; 1 y 31 del Acuerdo No. 1087 que contiene las Normas Técnicas del Subsistema de Contabilidad Gubernamental.
 
 ACUERDA:
 
@@ -57,7 +57,7 @@ CAPÍTULO I EJECUCIÓN PRESUPUESTARIA MODIFICACIONES PRESUPUESTARIAS
 
 #### Artículo 1
 
-Artículo 1.- Las solicitudes de modificaciones presupuestarias que requieren de autorización por la Secretaría de Finanzas (SEFIN), deben ser remitidas por el titular de cada institución a la máxima autoridad de la SEFIN, con las justificaciones correspondientes. Estas solicitudes deben enviarse en formato físico a más tardar el 14 de noviembre de 2025 y en formato digital, con el sello de recibido del Despacho Ministerial de SEFIN, a través del correo electrónico gestionmod_ presupuestarias@sefin.gob.hn, las cuales deben estar debidamente registradas en el sistema, en cumplimiento de los artículos 236 y 237 del Decreto Legislativo No.4-2025, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2025 y artículo 24 de las Normas Técnicas del Subsistema de Presupuesto. Las solicitudes antes indicadas deberán ser autorizadas por la SEFIN en el SIAFI a más tardar el 26 de diciembre de 2025.
+Artículo 1.- Las solicitudes de modificaciones presupuestarias que requieren de autorización por la Secretaría de Finanzas (SEFIN), deben ser remitidas por el titular de cada institución a la máxima autoridad de la SEFIN, con las justificaciones correspondientes. Estas solicitudes deben enviarse en formato físico a más tardar el 14 de noviembre de 2025 y en formato digital, con el sello de recibido del Despacho Ministerial de SEFIN, a través del correo electrónico gestionmod_ presupuestarias@sefin.gob.hn, las cuales deben estar debidamente registradas en el sistema, en cumplimiento de los artículos 236 y 237 del Decreto Legislativo No. 4-2025, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2025 y artículo 24 de las Normas Técnicas del Subsistema de Presupuesto. Las solicitudes antes indicadas deberán ser autorizadas por la SEFIN en el SIAFI a más tardar el 26 de diciembre de 2025.
 
 El 26 de diciembre de 2025, es la fecha límite para que las instituciones del Sector Público registren en el Sistema de Administración Financiera Integrada (SIAFI), las modificaciones presupuestarias relacionadas a traslados internos conforme a lo establecido en el artículo 25 de las Normas Técnicas del Subsistema de Presupuesto.
 
@@ -387,7 +387,7 @@ Artículo 50.- El Servicio de Administración de Rentas (SAR) debe informar a m�
 
 4. Saldos acumulados pendientes de aplicar a favor del Obligado Tributario mediante notas de crédito (Cuentas Impositivas por Pagar), del ejercicio anterior y del actual, así como el listado detallando los números de los asientos manuales registrados y aprobados en el Sistema de Administración Financiera Integrada (SIAFI) al 31 de diciembre de 2025.
 
-5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante Resolución de la Secretaría de Estado en el Despacho de Finanzas y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación del Decreto Legislativo No. 26- 2013 referente a Notas de Crédito Fiscal, Decreto Legislativo No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo y otros que se aprueben en el transcurso del Ejercicio Fiscal 2025. El informe debe detallar el número de decreto, tipo de impuesto y monto aplicado.
+5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante Resolución de la Secretaría de Estado en el Despacho de Finanzas y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación del Decreto Legislativo No. 26-2013 referente a Notas de Crédito Fiscal, Decreto Legislativo No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo y otros que se aprueben en el transcurso del Ejercicio Fiscal 2025. El informe debe detallar el número de decreto, tipo de impuesto y monto aplicado.
 
 6. Información sobre el inventario de las demandas incoadas a favor y en contra del Estado de Honduras que contenga descripción del tipo de demanda y monto.
 

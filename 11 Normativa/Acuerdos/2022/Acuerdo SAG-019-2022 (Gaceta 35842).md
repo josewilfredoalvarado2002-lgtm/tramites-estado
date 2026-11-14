@@ -11,7 +11,7 @@ paginas: "A. 9 - 20"
 sumario: "Acuerdo No. SAG-019-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220207-35842/download"
 extraido: "2026-11-14"
-huella: "f98ef1c813e0f71a"
+huella: "28e8cb52aede7d3e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-019-2022
@@ -29,19 +29,13 @@ huella: "f98ef1c813e0f71a"
 
 Tegucigalpa, M.D.C., 17 de enero del año 2022 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 
-CONSIDERANDO: Que en fecha 10 de febrero del año 2021 esta Secretaría de Estado mediante el Acuerdo No.
+CONSIDERANDO: Que en fecha 10 de febrero del año 2021 esta Secretaría de Estado mediante el Acuerdo No. SAG-043-2021 creó la Plataforma Nacional de Ganadería Sostenible (PNGS) como una estructura de gobernanza nacional y coordinación entre las instituciones públicas y privadas con competencias asociadas al sector ganadero, que impulsen la toma de decisiones y políticas de Estado con base a principios y criterios técnicos y científicos orientados a una ganadería sostenible en sus pilares de desarrollo social, económico y ambiental.
 
-SAG-043-2021 creó la Plataforma Nacional de Ganadería Sostenible (PNGS) como una estructura de gobernanza nacional y coordinación entre las instituciones públicas y privadas con competencias asociadas al sector ganadero, que impulsen la toma de decisiones y políticas de Estado con base a principios y criterios técnicos y científicos orientados a una ganadería sostenible en sus pilares de desarrollo social, económico y ambiental.
+CONSIDERANDO: Que el artículo 10 del Acuerdo No. SAG-043-2021 manda a reglamentar la operación de la Plataforma Nacional de Ganadería Sostenible (PNGS) para su correcto funcionamiento.
 
-CONSIDERANDO: Que el artículo 10 del Acuerdo No.
+CONSIDERANDO: Que el artículo 7 del Acuerdo No. SAG-043-2021 instruye a la Plataforma Nacional de Ganadería Sostenible (PNGS) al nombramiento de un Comité de Seguimiento de la Administración Técnica y Financiera de los proyectos que logre gestionar y para ello, se deberá reglamentar la organización y funcionamiento de dicho Comité.
 
-SAG-043-2021 manda a reglamentar la operación de la Plataforma Nacional de Ganadería Sostenible (PNGS) para su correcto funcionamiento.
-
-CONSIDERANDO: Que el artículo 7 del Acuerdo No.
-
-SAG-043-2021 instruye a la Plataforma Nacional de Ganadería Sostenible (PNGS) al nombramiento de un Comité de Seguimiento de la Administración Técnica y Financiera de los proyectos que logre gestionar y para ello, se deberá reglamentar la organización y funcionamiento de dicho Comité.
-
-POR TANTO: En uso de sus facultades y en aplicación de los artículos 340 de la Constitución de la República; 36 numeral 8), 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimiento Administrativo, Decreto Legislativo 30-95 de ratificación del Convenio sobre Diversidad Biológica; Decreto Legislativo 26-95 de ratificación del Convenio Marco de las Naciones Unidas para el Cambio Climático, Decreto Legislativo 35- 97 de ratificación del Convenio sobre la Lucha contra la Desertificación y Sequía Grave y otras normas conexas.
+POR TANTO: En uso de sus facultades y en aplicación de los artículos 340 de la Constitución de la República; 36 numeral 8), 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimiento Administrativo, Decreto Legislativo 30-95 de ratificación del Convenio sobre Diversidad Biológica; Decreto Legislativo 26-95 de ratificación del Convenio Marco de las Naciones Unidas para el Cambio Climático, Decreto Legislativo 35-97 de ratificación del Convenio sobre la Lucha contra la Desertificación y Sequía Grave y otras normas conexas.
 
 ACUERDA:
 

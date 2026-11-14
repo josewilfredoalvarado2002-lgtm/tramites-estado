@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 2-2023, Magistrados de la Corte Suprema de Justicia"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230217-36158/download"
 extraido: "2026-11-14"
-huella: "093b284875fad49d"
+huella: "50534af30f91aa85"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 2-2023
@@ -41,7 +41,7 @@ Todo método utilizado para la selección de personal judicial garantizará que 
 
 En la selección de los jueces, no se hará discriminación alguna por motivo de raza, color, sexo, religión, opinión política o de otra índole, origen nacional o social, posición económica, nacimiento o condición; el requisito de que los postulantes a cargos judiciales sean nacionales del país de que se trate no se considerará discriminatorio”; y los Principios de Bangalore sobre la conducta judicial aprobados en Julio del 2006 por el Consejo Económico y Social de las Naciones Unidas, señalan como valor primero la “Independencia” como un requisito previo del principio de legalidad y una garantía fundamental de la existencia de un juicio justo…”
 
-CONSIDERANDO: Que, en consonancia con lo expresado en los considerandos precedentes, en un hito histórico, este Congreso Nacional aprobó mediante Decreto No.74-2022 la Ley Especial de Organización y Funcionamiento de la Junta Nominadora para la Proposición de Candidatos a Magistrados de la Corte Suprema de Justicia, la que permitió presentar en un proceso sin precedentes, la nómina de candidatos a Magistrados para la elección de la Corte Suprema de Justicia, Período 2023-2030.
+CONSIDERANDO: Que, en consonancia con lo expresado en los considerandos precedentes, en un hito histórico, este Congreso Nacional aprobó mediante Decreto No. 74-2022 la Ley Especial de Organización y Funcionamiento de la Junta Nominadora para la Proposición de Candidatos a Magistrados de la Corte Suprema de Justicia, la que permitió presentar en un proceso sin precedentes, la nómina de candidatos a Magistrados para la elección de la Corte Suprema de Justicia, Período 2023-2030.
 
 CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la República, establece que es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo 0002"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220611-35947/download"
 extraido: "2026-11-14"
-huella: "f91ca7d98f31a36d"
+huella: "29f0c7e684766eaf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0002
@@ -49,13 +49,13 @@ POR TANTO:
 
 En uso de las facultades de que está investido y en aplicación de los Artículos 1, 18, 247 de la Constitución de la República; 1, 5 y 6 del Convenio Internacional Constitutivo de la Fundación para el Desarrollo de la Vivienda Social Urbana y Rural (FUNDEVI), publicado en el Diario Oficial La Gaceta el 13 de diciembre de 2001, mediante Decreto Legislativo 188-2001, 36 numerales 8 y 19, 116 y 118 numeral 1 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo;
 
-24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo número PCM-05-2022 publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022 y el Acuerdo Ejecutivo No. 290- 2022, de fech 07 de abril del 2022.
+24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo número PCM-05-2022 publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022 y el Acuerdo Ejecutivo No. 290-2022, de fech 07 de abril del 2022.
 
 ACUERDA:
 
 PRIMERO: Delegar en la ciudadana IRIS MARIEL BUDDE GARCIA, Secretaria General de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), la Presidencia de la Junta Directiva de la Fundación para el Desarrollo de la Vivienda Social Urbana y Rural (FUNDEVI), la cual deberá de ejercer a partir de esta fecha.
 
-SEGUNDO: Los términos y condiciones establecidos en el Convenio Internacional Constitutivo de la Fundación para el Desarrollo de la Vivienda Social Urbana y Rural (FUNDEVI), publicado en el Diario Oficial La Gaceta el 13 de diciembre de 2001, mediante Decreto Legislativo 188- 2002, deberán ser acatados y cumplidos a cabalidad.
+SEGUNDO: Los términos y condiciones establecidos en el Convenio Internacional Constitutivo de la Fundación para el Desarrollo de la Vivienda Social Urbana y Rural (FUNDEVI), publicado en el Diario Oficial La Gaceta el 13 de diciembre de 2001, mediante Decreto Legislativo 188-2002, deberán ser acatados y cumplidos a cabalidad.
 
 TERCERO: Dejar sin valor y efecto el Acuerdo 1243 de fecha 29 de noviembre de 2018, emitido por esta Secretaría de Estado y publicado en el Diario Oficial La Gaceta, el 8 de diciembre de 2018.
 

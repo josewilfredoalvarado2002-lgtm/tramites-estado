@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto No. 85-2016"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211019-35750/download"
 extraido: "2026-11-14"
-huella: "8946020f03584f62"
+huella: "ec218bab78212858"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 85-2016
@@ -67,7 +67,7 @@ Es el proceso mediante el cual se transfiere total o parcialmente, a los municip
 
 #### Artículo 3
 
-ARTÍCULO 3.- O T R A S M O D A L I D A D E S D E
+ARTÍCULO 3.- OTRAS MODALIDADES DE
 
 INTERVENCIÓN.- Las disposiciones de la presente Ley, no desconocen lo establecido en otras leyes en materia de desconcentración, descentralización, concesionamiento, delegación y tercerización, contando con la debida coordinación con los Gobiernos Locales; previa socialización y aprobación de la comunidad en cabildos abiertos, sin perjuicio del derecho preferente que la presente Ley le otorga a los Municipios.
 
@@ -95,9 +95,9 @@ Secretaría de Derechos Humanos, Justicia, Gobernación y Descentralización (SD
 
 #### Artículo 5
 
-ARTÍCULO 5.- O B J E T I V O S
+ARTÍCULO 5.- OBJETIVOS
 
-D E L A
+DE LA
 
 DESCENTRALIZACIÓN.- Para los efectos de la presente Ley, los objetivos de la descentralización son los siguientes:
 
@@ -201,7 +201,7 @@ v. La administración de los bienes nacionales fiscales; vi. La explotación o c
 
 c) La regulación, control y supervisión de:
 
-i. El transporte aéreo y marítimo; ii. El transporte terrestre operado internacionalmente, entre departamentos y entre municipios; iii. E l r é g i m e n e c o n ó m i c o establecido en la Constitución de la República;
+i. El transporte aéreo y marítimo; ii. El transporte terrestre operado internacionalmente, entre departamentos y entre municipios; iii. El régimen económico establecido en la Constitución de la República;
 
 d) La normatividad de los símbolos patrios y feriados nacionales;
 
@@ -283,13 +283,13 @@ Si ello no fuese posible, el organismo receptor previa consulta con representant
 
 #### Artículo 17
 
-ARTÍCULO 17.- I N A F E C T A B I L I D A D D E L
+ARTÍCULO 17.- INAFECTABILIDAD DEL
 
 PATRIMONIO DESCENTRALIZADO. Con el fin de garantizar la continuidad de la prestación de los servicios públicos descentralizados, los bienes afectos a la misma y los recursos provenientes de la transferencia por competencias descentralizadas, así como los ingresos que genere por dicha prestación, son un patrimonio separado del resto de los bienes y pasivos del municipio y no pueden gravarse como garantía, ni ser objeto de medidas cautelares o de remate.
 
 #### Artículo 18
 
-ARTÍCULO 18.- I N C U M P L I M I E N T O D E L ORGANISMO DESCENTRALIZADOR. SOLUCIÓN DE CONTROVERSIAS. Si una vez efectuada la transferencia de competencias, funciones o servicios, los organismos descentralizadores incumplieren su obligación de hacer el pago de la transferencia por competencias descentralizadas en las fechas establecidas en el documento de traspaso de competencias, los municipios tienen derecho, por sí o por medio de la Asociación de Municipios de Honduras (AMHON), a presentar el reclamo administrativo correspondiente y, una vez agotada la vía administrativa, debe someter el asunto a los procedimientos de conciliación y arbitraje de derecho técnico y de igualdad que se establecen en la Ley respectiva, bajo el mismo procedimiento se debe resolver las demás controversias.
+ARTÍCULO 18.- INCUMPLIMIENTO DEL ORGANISMO DESCENTRALIZADOR. SOLUCIÓN DE CONTROVERSIAS. Si una vez efectuada la transferencia de competencias, funciones o servicios, los organismos descentralizadores incumplieren su obligación de hacer el pago de la transferencia por competencias descentralizadas en las fechas establecidas en el documento de traspaso de competencias, los municipios tienen derecho, por sí o por medio de la Asociación de Municipios de Honduras (AMHON), a presentar el reclamo administrativo correspondiente y, una vez agotada la vía administrativa, debe someter el asunto a los procedimientos de conciliación y arbitraje de derecho técnico y de igualdad que se establecen en la Ley respectiva, bajo el mismo procedimiento se debe resolver las demás controversias.
 
 CAPÍTULO IV PARTICIPACIÓN Y CONTROL SOCIAL DE LA DESCENTRALIZACIÓN
 
@@ -403,7 +403,7 @@ DESCENTRALIZACIÓN (FCD).- Créase el Foro Consultivo para la Descentralización
 
 #### Artículo 26
 
-ARTÍCULO 26.- D I R E C C I Ó N G E N E R A L D E DESCENTRALIZACIÓN DEL ESTADO DE HONDURAS.- Créase la Dirección General de Descentralización del Estado de Honduras (DGDEH), dependiente de la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización (SDHJGD) y dirigida por un Director Ejecutivo (a) nombrado por el Titular de dicha Secretaría de Estado cuya naturaleza es de un órgano ejecutor de las políticas que emanen de la Comisión Especial de Descentralización del Estado (CEDE).
+ARTÍCULO 26.- DIRECCIÓN GENERAL DE DESCENTRALIZACIÓN DEL ESTADO DE HONDURAS.- Créase la Dirección General de Descentralización del Estado de Honduras (DGDEH), dependiente de la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización (SDHJGD) y dirigida por un Director Ejecutivo (a) nombrado por el Titular de dicha Secretaría de Estado cuya naturaleza es de un órgano ejecutor de las políticas que emanen de la Comisión Especial de Descentralización del Estado (CEDE).
 
 #### Artículo 27
 

@@ -8,10 +8,10 @@ gaceta_numero: 35242
 gaceta_fecha: "2020-05-04"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)|La Gaceta 35242]]"
 paginas: "A. 27 - 30"
-sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020"
+sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200504-35242-2/download"
 extraido: "2026-11-14"
-huella: "c6b383995ab1753f"
+huella: "2e3bee16add39c50"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 45-2020
@@ -23,7 +23,7 @@ huella: "c6b383995ab1753f"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)\|La Gaceta 35242]] del 2020-05-04 |
 | Páginas | A. 27 - 30 |
-| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020 |
 
 ## Texto
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO;
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- En vista de la Emergencia Nacional producida por la Pandemia del COVID-19, se habilita del 2 hasta el 31 de Mayo del año 2020 como período ordinario para celebrar sesiones, el que está establecido como el período de receso en el Artículo 55, párrafo segundo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No.363-2013, de fecha 20 de enero de 2014.
+ARTÍCULO 1.- En vista de la Emergencia Nacional producida por la Pandemia del COVID-19, se habilita del 2 hasta el 31 de Mayo del año 2020 como período ordinario para celebrar sesiones, el que está establecido como el período de receso en el Artículo 55, párrafo segundo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No. 363-2013, de fecha 20 de enero de 2014.
 
 Posponer el receso del 1 de Mayo al 31 de mayo, hasta que la Junta Directiva del Congreso Nacional lo estime conveniente.
 
@@ -69,13 +69,13 @@ CONSIDERANDO (3): Que mediante Decreto Ejecutivo 005-2020, de fecha 10 de febrer
 
 CONSIDERANDO (4): El Sistema de Vigilancia Epidemiológica de la Secretaría de Estado en los Despachos de Salud, por medio del Laboratorio Nacional de Virología confirmó casos de COVID-19 y se hacen necesarias medidas extraordinarias para la contención a nivel nacional de la propagación del virus y mitigar los impactos negativos de la salud de las personas y salvar vidas.
 
-CONSIDERANDO (5): Que mediante Decreto PCM-021- 2020 de fecha quince de marzo de dos mil veinte quedaron restringidas por un plazo de siete días a partir de la publicación del Decreto, a nivel nacional las garantías constitucionales establecidas en los artículos 69, 71, 72, 78, 81, 84, 93,99, y 103 de la Constitución de la República, medidas que han sido ratificadas mediante Decretos Ejecutivos PCM-022-2020 publicado en el Diario Oficial La Gaceta número 35,206 en fecha 21 de marzo de 2020; PCM-026-2020, publicado en el Diario Oficial La Gaceta número 35,212 en fecha 28 de marzo de 2020 y PCM-028-2020 de fecha 4 de abril de 2020.
+CONSIDERANDO (5): Que mediante Decreto PCM-021-2020 de fecha quince de marzo de dos mil veinte quedaron restringidas por un plazo de siete días a partir de la publicación del Decreto, a nivel nacional las garantías constitucionales establecidas en los artículos 69, 71, 72, 78, 81, 84, 93,99, y 103 de la Constitución de la República, medidas que han sido ratificadas mediante Decretos Ejecutivos PCM-022-2020 publicado en el Diario Oficial La Gaceta número 35,206 en fecha 21 de marzo de 2020; PCM-026-2020, publicado en el Diario Oficial La Gaceta número 35,212 en fecha 28 de marzo de 2020 y PCM-028-2020 de fecha 4 de abril de 2020.
 
 CONSIDERANDO (6): Que la Subsecretaría de Estado en el Despacho de Justicia, en fecha 23 de marzo de 2020, emitió comunicado en el que instruye que en aras de salvaguardar la salud y la vida de la población, en el marco de esta emergencia nacional como prevención ante el COVID-19, continuarán suspendidas las labores diarias de trabajo presenciales a partir del lunes veintitrés de marzo al viernes veintisiete de marzo de 2020, cuando fuere necesario cada jefe inmediato podrá asignarles funciones a través de teletrabajo o medios electrónicos.
 
 CONSIDERANDO (7): Que el gobierno de la República emitió Comunicado de fecha 15 de marzo de 2020, en el que exceptúa de dicha disposición a los empleados públicos y altos funcionarios necesarios para atender la emergencia, así como la Industria agroalimentaria, Industria agropecuaria, labores agrícolas de recolección y empresas de agroquímicos, por tratarse de labores de vital importancia como ser la seguridad alimentaria del país.
 
-CONSIDERANDO (8): Que mediante Decreto PCM-030- 2020 de fecha de abril de dos mil veinte, publicado en el Diario Oficial La Gaceta el 9 de abril de dos mil veinte, se instruye al Servicio Nacional de Sanidad Animal (SENASA), como institución encargada de otorgar al sector agroalimentario las certificaciones, registro, permiso de operaciones y otros trámites, que debe simplificar y digitalizar su otorgamiento en un plazo máximo de quince (15) días hábiles. Mientras dure el periodo de restricción de garantías constitucionales, los productores pueden presentar solicitud de permiso o licencia con una garantía de cumplimiento de las normas aplicables, esta garantía de cumplimiento será fijada por cada institución ya sea como declaración jurada u otra de forma expedita.
+CONSIDERANDO (8): Que mediante Decreto PCM-030-2020 de fecha de abril de dos mil veinte, publicado en el Diario Oficial La Gaceta el 9 de abril de dos mil veinte, se instruye al Servicio Nacional de Sanidad Animal (SENASA), como institución encargada de otorgar al sector agroalimentario las certificaciones, registro, permiso de operaciones y otros trámites, que debe simplificar y digitalizar su otorgamiento en un plazo máximo de quince (15) días hábiles. Mientras dure el periodo de restricción de garantías constitucionales, los productores pueden presentar solicitud de permiso o licencia con una garantía de cumplimiento de las normas aplicables, esta garantía de cumplimiento será fijada por cada institución ya sea como declaración jurada u otra de forma expedita.
 
 CONSIDERANDO (9): Que el Departamento de Asesoría Legal del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), tomando en consideración los argumentos jurídicos que anteceden RECOMIENDA: Que se debe APROBAR UN PROCEDIMIENTO ESPECIAL PARA EL REGISTRO Y APROBACION TEMPORAL DE ESTABLECIMIENTOS Y PRODUCTOS SUJETOS DE REGISTRO DE LAS AREAS DE INOCUIDAD AGROALIMENTARIA, SANIDAD VEGETEAL Y SALUD ANIMAL DEL SENASA, comprendidos del diecisiete de abril 2020 y hasta 90 días consecutivos transcurridos desde la suspensión de las medidas restrictivas de circulación.
 
@@ -123,7 +123,7 @@ SEPTIMO: Las tasas por servicios de aprobación, registro o renovación de regis
 
 OCTAVO: Esta aprobación puede ser extendida en caso que la alerta sanitaria sea también extendida por el Gobierno de Honduras.
 
-NOVENO: Se deroga el Acuerdo SENASA No. 004-2020 y Acuerdo SENASA No.005-2020.
+NOVENO: Se deroga el Acuerdo SENASA No. 004-2020 y Acuerdo SENASA No. 005-2020.
 
 DECIMO: El presente Acuerdo será efectivo a partir de su publicación en el Diario Oficial La Gaceta.
 

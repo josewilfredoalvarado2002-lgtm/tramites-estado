@@ -11,7 +11,7 @@ paginas: "A. 21 - 36"
 sumario: "Acuerdo No. 129-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251227-37029/download"
 extraido: "2026-11-09"
-huella: "856217ca97a2c040"
+huella: "3404278e78b2e297"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 129-2025
@@ -55,9 +55,7 @@ CONSIDERANDO: Que, el ICF en cumplimiento de sus facultades y responsabilidades 
 
 CONSIDERANDO: Que, el artículo 49 de la LFAPVS 156-2007 sobre “administración de terrenos forestales privados” determina que Corresponde a sus propietarios la administración de los terrenos privados de vocación forestal, así como las obligaciones de protección, reforestación y beneficios derivados de su manejo y aprovechamiento, de conformidad con la presente Ley”. En el caso de las comunidades indígenas donde prevalece el derecho colectivo de propiedad intercomunitaria, es necesaria que los mecanismos de decisión para el acceso y uso colectivo de los recursos sea participativa y transparente desde el punto de vista de derechos como pueblos indígenas.
 
-CONSIDERANDO: Que, el ICF emitió el Acuerdo N°.
-
-026A-2013, aprobado en fecha veintiséis (26) de septiembre del año dos mil trece, mediante el cual se aprobó la “ESTRATEGIA NACIONAL DE LA FORESTERÍA COMUNITARIA (ENFC)”, publicado en el Diario Oficial La Gaceta en fecha uno (1) de noviembre del año dos mil trece.
+CONSIDERANDO: Que, el ICF emitió el Acuerdo N°. 026A-2013, aprobado en fecha veintiséis (26) de septiembre del año dos mil trece, mediante el cual se aprobó la “ESTRATEGIA NACIONAL DE LA FORESTERÍA COMUNITARIA (ENFC)”, publicado en el Diario Oficial La Gaceta en fecha uno (1) de noviembre del año dos mil trece.
 
 CONSIDERANDO: Que, el ICF, a solicitud de los principales actores del Sistema Social Forestal, inició el proceso de Normas técnicas y administrativas para el Manejo Forestal Comunitario en territorios privados intercomunitarios de pueblos indígenas.
 

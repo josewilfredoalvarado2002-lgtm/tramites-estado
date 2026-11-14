@@ -8,10 +8,10 @@ gaceta_numero: 35263
 gaceta_fecha: "2020-05-25"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35263 (2020-05-25)|La Gaceta 35263]]"
 paginas: "A. 6 - 12"
-sumario: "Decreto No. 54-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0049-SE-2020COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREEAcuerdo CREE-051"
+sumario: "Decreto No. 54-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0049-SE-2020; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREE: Acuerdo CREE-051"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200525-35263-2/download"
 extraido: "2026-11-14"
-huella: "baccf16d6f577d9a"
+huella: "e2deefd85f87b481"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0049-SE-2020
@@ -23,7 +23,7 @@ huella: "baccf16d6f577d9a"
 | Emisor | Secretaría de Educación |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35263 (2020-05-25)\|La Gaceta 35263]] del 2020-05-25 |
 | Páginas | A. 6 - 12 |
-| Según el sumario de La Gaceta | Decreto No. 54-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0049-SE-2020COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREEAcuerdo CREE-051 |
+| Según el sumario de La Gaceta | Decreto No. 54-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0049-SE-2020; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREE: Acuerdo CREE-051 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO:
 
 Que la Ley Fundamental de Educación, garantiza el Derecho humano a la Educación, estableciendo principios, garantías, fines y lineamientos generales, definiendo la estructura del sistema Nacional de Educación, las atribuciones y obligaciones del Estado, los derechos, deberes y responsabilidades de los empleados y funcionarios, así como de los docentes y personas naturales y jurídicas de la sociedad en la función educadora y tomando en cuenta dentro de sus obligaciones y responsabilidades la Secretaría de Estado en el Despacho de Educación, que la función educadora está obligada a respetar las Leyes, Acuedos y Decretos que rigen el país.
 
-CONSIDERANDO: Que mediante Acuerdo No.0501- SE-2018, fue aprobado la creación y puesta en vigencia el GOBIERNO ESTUDIANTIL, a regir en los Centros Educativos a Nivel Nacional, basados en la Convención de los Derechos del Niño, que garantiza el derecho de los niños, niñas y adolescentes a expresarse libremente, así como en la Constitución de la República, el Código de la Niñez y Adolescencia que en su Capítulo III estipula el derecho de la niñez a la dignidad, libertad, a la opinión y a la educación, de igual manera tienen derecho a buscar, recibir y dar información, a organizarse y a participar en los quehaceres de la función del gobierno en todo el país, viéndose plasmado en su participación a través del sistema de gobierno estudiantil, donde los educandos eligen los miembros de las Juntas del Gobierno Estudiantil, que han de regír a cada centro educativo, organizándose a través de Comités.
+CONSIDERANDO: Que mediante Acuerdo No. 0501- SE-2018, fue aprobado la creación y puesta en vigencia el GOBIERNO ESTUDIANTIL, a regir en los Centros Educativos a Nivel Nacional, basados en la Convención de los Derechos del Niño, que garantiza el derecho de los niños, niñas y adolescentes a expresarse libremente, así como en la Constitución de la República, el Código de la Niñez y Adolescencia que en su Capítulo III estipula el derecho de la niñez a la dignidad, libertad, a la opinión y a la educación, de igual manera tienen derecho a buscar, recibir y dar información, a organizarse y a participar en los quehaceres de la función del gobierno en todo el país, viéndose plasmado en su participación a través del sistema de gobierno estudiantil, donde los educandos eligen los miembros de las Juntas del Gobierno Estudiantil, que han de regír a cada centro educativo, organizándose a través de Comités.
 
 CONSIDERANDO: Que el gobierno estudiantil es representativo, para ser la voz de todos los alumnos y alumnas, debiéndose adoptar sus actividades a las condiciones de cada centro educativo, en base a recursos, necesidades y demandas en el nivel medio por lo que surge la necesidad de crear la figura de Embajador, además del Presidente y demás miembros integrados a través de comités estudiantiles.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que amparados en la ley de transparencia y acceso a la informació
 
 POR TANTO:
 
-En uso de las facultades de que está investido y en aplicación de los Artículos 1, 2, 15, 19, 38, 245 # 11 y 12, 151, 153, 213, 246, 247, 248, de la Constitución de la República; 1, 13, 14 numerales 1, 2, 4, 6, 9,13, 15, 27 inciso 2, 34, 106, de la Ley Fundamental de Educación; 1, 5, 6, 7, 36 de la Ley General de la Administración Pública; Acuerdo No.0501-SE-2018.
+En uso de las facultades de que está investido y en aplicación de los Artículos 1, 2, 15, 19, 38, 245 # 11 y 12, 151, 153, 213, 246, 247, 248, de la Constitución de la República; 1, 13, 14 numerales 1, 2, 4, 6, 9,13, 15, 27 inciso 2, 34, 106, de la Ley Fundamental de Educación; 1, 5, 6, 7, 36 de la Ley General de la Administración Pública; Acuerdo No. 0501-SE-2018.
 
 ACUERDA: PRIMERO: Aprobar:
 
@@ -65,7 +65,7 @@ ING. ARNALDO BUESO HERNÁNDEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN 
 
 LIBROS FOLLETOS TRIFOLIOS FORMAS CONTINUAS AFICHES FACTURAS TARJETAS DE PRESENTACIÓN CARÁTULAS DE ESCRITURAS CALENDARIOS EMPASTES DE LIBROS REVISTAS.
 
-Comisión Reguladora de Energía Eléctrica CREE ACUERDO CREE- 051 Comisión Reguladora de Energía Eléctrica. Tegucigalpa, Municipio de Distrito Central, a los veinticuatro días de abril de dos mil veinte.
+Comisión Reguladora de Energía Eléctrica CREE ACUERDO CREE-051 Comisión Reguladora de Energía Eléctrica. Tegucigalpa, Municipio de Distrito Central, a los veinticuatro días de abril de dos mil veinte.
 
 Resultando Que la Comisión Reguladora de Energía Eléctrica ha venido trabajando desde el año anterior con la “Asociación Operador del Sistema Eléctrico Nacional” (ODS)en la definición del presupuesto que la CREE debe aprobarle para su funcionamiento y que si bien se avanzó de manera importante en los primeros meses de este año, la situación que ha ocasionado la aparición de la pandemia del COVID-19 y su efecto en las actividades económicas, llevaron a que la CREE solicitara al ODS una revisión al presupuesto remitido a fin de que este se alineara con la realidad que se espera en los próximos meses.
 
@@ -75,11 +75,11 @@ Que como resultado de esta interacción entre ambas entidades, la CREE recibió 
 
 a) El pago total a la Empresa Nacional de Energía Eléctrica (ENEE) por concepto de los servicios que presta el Centro Nacional de Despacho (CND) se reduce de L 59,874,329.24 a L 22,494,434.52. El informe que incluye el detalle de los ajustes del presupuesto inicialmente presentado por el ODS menciona que considerando los aspectos contemplados en el Convenio ENEE-ODS se estima un costo de aproximadamente L22.5 millones.
 
-b) El Acuerdo de la Junta Directiva del ODS 04-07-IV- 2020 autoriza el aumento del valor presupuestado para la elaboración de la Norma Técnica de Liquidaciones (NT-LL) por un total de USD 28,433.00, cantidad que corresponde a valores no ejecutados para el desarrollo de las consultorías de las normas técnicas del mercado eléctrico en el 2019. Esto con el fin de adjudicar el contrato para la elaboración de la NT-LL a la empresa Estudios Energéticos Consultores, S.A., por un total de USD 64,933.00.
+b) El Acuerdo de la Junta Directiva del ODS 04-07-IV-2020 autoriza el aumento del valor presupuestado para la elaboración de la Norma Técnica de Liquidaciones (NT-LL) por un total de USD 28,433.00, cantidad que corresponde a valores no ejecutados para el desarrollo de las consultorías de las normas técnicas del mercado eléctrico en el 2019. Esto con el fin de adjudicar el contrato para la elaboración de la NT-LL a la empresa Estudios Energéticos Consultores, S.A., por un total de USD 64,933.00.
 
 c) El Anexo No. 01-08-IV-2020 que es parte del presupuesto que remitió el ODS, hace referencia a que se elimina el Sistema de Medición Comercial (SIMEC) considerando que, con el presupuesto asignado en el 2019 para la elaboración de las normas técnicas, se logra cubrir los gastos adicionales de acuerdo con la oferta presentada por la empresa adjudicataria en el concurso para el desarrollo de la consultoría del SIMEC.
 
-Que también es de hacer notar que en el oficio CREE 049- 2020 se solicitó al ODS informe y detalle de la ejecución presupuestaria 2019 y los estados financieros internos; sin embargo, aún no se ha presentado la información solicitada.
+Que también es de hacer notar que en el oficio CREE 049-2020 se solicitó al ODS informe y detalle de la ejecución presupuestaria 2019 y los estados financieros internos; sin embargo, aún no se ha presentado la información solicitada.
 
 Que de conformidad con la regulación vigente, el presupuesto del ODS debe ser cargado a la demanda y que la CREE debe ajustar próximamente las tarifas que aplica la ENEE a sus clientes, se hace necesario llevar a cabo la aprobación del presupuesto del ODS con ciertas disposiciones que aseguren la eficiencia del uso de estos recursos por parte del ODS y que cualquier monto que no fuera ejecutado del presupuesto del 2019 sea considerado en el presupuesto del 2020.
 

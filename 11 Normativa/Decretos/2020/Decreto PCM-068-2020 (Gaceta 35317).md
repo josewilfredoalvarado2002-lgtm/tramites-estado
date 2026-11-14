@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo Número PCM-068-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200718-35317-2/download"
 extraido: "2026-11-14"
-huella: "815182a98ffc4a2e"
+huella: "7b98688a4c2c9049"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-068-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-063-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio del 2020, Edición No. 35,311 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo Número PCM-068-2020 A. 1 - 4 días, efectivo a partir del trece (13) de julio del presente año, hasta el diecinueve (19) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020, PCM-059-2020 y PCM-063-2020, mismos que han sido ratificados por el Congreso Nacional.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-063-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio del 2020, Edición No. 35,311 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo Número PCM-068-2020 A. 1 - 4 días, efectivo a partir del trece (13) de julio del presente año, hasta el diecinueve (19) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020 y PCM-063-2020, mismos que han sido ratificados por el Congreso Nacional.
 
 CONSIDERANDO: Que según la información epidemiológica en Honduras al 18 de julio del 2020, se reportó un número importante de contagios por la Pandemia de COVID-19 que asciende a: 32,793 casos, 3,661 personas recuperadas y 891 fallecidos a nivel nacional, por lo que se hace necesario continuar con las medidas de Restricción de Garantías Constitucionales que contribuyan a contrarrestar el inminente peligro de contagio, reforzando las medidas adoptadas que incluye la apertura de más Triajes a nivel nacional, a fin de atender de manera expedita a quienes presenten síntomas relacionados con el virus, brindado el tratamiento ambulatorio requerido y remitiendo aquellos pacientes que así lo demanden a los principales hospitales del país.
 
@@ -45,7 +45,7 @@ POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78,
 
 Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números:
 
-PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033- 2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020, PCM-059-2020, PCM-061-2020 y PCM-063-2020.
+PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020 y PCM-063-2020.
 
 DECRETA:
 
@@ -53,7 +53,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del veinte (20) de julio del presente año, hasta el veintiséis (26) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059- 2020 y PCM-063-2020.
+Prorrogar por siete (7) días, efectivo a partir del veinte (20) de julio del presente año, hasta el veintiséis (26) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020 y PCM-063-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187 numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 

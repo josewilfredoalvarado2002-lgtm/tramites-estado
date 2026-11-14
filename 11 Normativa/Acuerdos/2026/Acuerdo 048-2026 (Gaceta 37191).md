@@ -11,7 +11,7 @@ paginas: "A. 20 - 24"
 sumario: "Acuerdos Ministeriales No. 048-2026, 053-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260711-37191/download"
 extraido: "2026-11-09"
-huella: "9c0df037eb23aca0"
+huella: "4b6a8924965cf46f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 048-2026
@@ -73,7 +73,7 @@ BENEFICIO DE GRANOS MATURAVE, S.A.
 
 ALIMENTOS Y BEBIDAS DE CENTROAMÉRICA, S.A. DE C.V.
 
-Maíz comprado Derecho a Importación Importar Autorizada Cosecha Nacional Relación Priemer Corte /TM VOLUMEN KILOGRAMOS Según Convenio 2025- 2026/QQ /QQ 506,741.57 912,134.83 41,373.75 41,373,750.00 198,943.74 358,098.73 16,243.09 16,243,090.00 77,689.90 139,841.82 6,343.12 6,343,120.00 64,376.21 115,877.18 5,256.10 5,256,100.00 TOTAL 847,751.42 1,525.952.56 69,216.06 69,216,060.00
+Maíz comprado Derecho a Importación Importar Autorizada Cosecha Nacional Relación Priemer Corte /TM VOLUMEN KILOGRAMOS Según Convenio 2025-2026/QQ /QQ 506,741.57 912,134.83 41,373.75 41,373,750.00 198,943.74 358,098.73 16,243.09 16,243,090.00 77,689.90 139,841.82 6,343.12 6,343,120.00 64,376.21 115,877.18 5,256.10 5,256,100.00 TOTAL 847,751.42 1,525.952.56 69,216.06 69,216,060.00
 
 CONSIDERANDO: Que es deber del Estado mantener la sucesión competencial y conservar la plena validez y eficacia legal para la emisión de actos administrativos durante el periodo de transición de la OPCE.
 
@@ -129,9 +129,7 @@ d) Carta Poder debidamente autenticada;
 
 e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos.
 

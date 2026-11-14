@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo Ejecutivo 036-DP-2026Acuerdo Ejecutivo Número 001-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260605-37160/download"
 extraido: "2026-11-09"
-huella: "024759b887f8c846"
+huella: "af07fb2675b93de9"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-2026
@@ -73,7 +73,7 @@ Presidente Constitucional de la República de Honduras MOISÉS ABRAHAM MOLINA GU
 
 CONSIDERANDO: Que el 24 de octubre de 2023, representantes de las Repúblicas de Honduras y Costa Rica firmaron en la Ciudad de San José, República de Costa Rica, el Acuerdo Binacional de Suspensión de Visas.
 
-CONSIDERANDO: Que mediante la Resolución DJUR-655- 11-2023-LSS-JM, de fecha 30 de noviembre del 2023, de la Dirección General de Migración y Extranjería, el Gobierno de la República de Costa Rica estableció que a los ciudadanos hondureños que cuentan con algunas excepciones, no les será exigido el Certificado de Antecedentes Policiales.
+CONSIDERANDO: Que mediante la Resolución DJUR-655-11-2023-LSS-JM, de fecha 30 de noviembre del 2023, de la Dirección General de Migración y Extranjería, el Gobierno de la República de Costa Rica estableció que a los ciudadanos hondureños que cuentan con algunas excepciones, no les será exigido el Certificado de Antecedentes Policiales.
 
 CONSIDERANDO: Que en aplicación al principio de reciprocidad internacional el Gobierno de la República de Honduras ha dispuesto suprimir la exigencia del Requisito de Antecedentes Penales para los ciudadanos costarricenses que ingresen a territorio nacional, conforme a las disposiciones establecidas en el presente Acuerdo.
 

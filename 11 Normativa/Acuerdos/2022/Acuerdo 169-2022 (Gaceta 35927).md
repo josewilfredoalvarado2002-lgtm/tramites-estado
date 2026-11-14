@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No. 169-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220519-35927/download"
 extraido: "2026-11-14"
-huella: "f35d11fffd698445"
+huella: "a26d6648eaff55ee"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 169-2022
@@ -57,9 +57,7 @@ CAPÍTULO I OBJETO Y AMBITO DE APLICACIÓN
 
 #### Artículo 1
 
-Artículo 1: El presente Reglamento se emite en cumplimiento de lo establecido en el Decreto Legislativo No.57-2019 de fecha 28 de agosto de 2019, publicado en el Diario Oficial La Gaceta el 26 de octubre de 2021, que contiene la reforma de los Artículos 3, 123 y 126 del Decreto Legislativo No.
-
-247-2011 de la Ley del Instituto Nacional de Previsión del Magisterio (INPREMA) y el cual tiene como objetivo la reglamentación del Beneficio de Suma Adicional Anticipada de las Sesenta (60) Rentas Mensuales.
+Artículo 1: El presente Reglamento se emite en cumplimiento de lo establecido en el Decreto Legislativo No. 57-2019 de fecha 28 de agosto de 2019, publicado en el Diario Oficial La Gaceta el 26 de octubre de 2021, que contiene la reforma de los Artículos 3, 123 y 126 del Decreto Legislativo No. 247-2011 de la Ley del Instituto Nacional de Previsión del Magisterio (INPREMA) y el cual tiene como objetivo la reglamentación del Beneficio de Suma Adicional Anticipada de las Sesenta (60) Rentas Mensuales.
 
 #### Artículo 2
 
@@ -69,7 +67,7 @@ a) Beneficiarios: Toda persona o personas que directa o indirectamente reciban b
 
 b) Beneficiarios o Herederos Legales: La persona o personas que hayan de percibir de conformidad a la Ley, el correspondiente beneficio por fallecimiento del participante.
 
-c) Beneficio de Suma Adicional o BSA: Beneficio de Suma Adicional Anticipada de las Sesenta (60) Rentas Mensuales a los Docentes Jubilados y Pensionados por Invalidez del INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), conforme lo reformado mediante Decreto Legislativo No.57-2019.
+c) Beneficio de Suma Adicional o BSA: Beneficio de Suma Adicional Anticipada de las Sesenta (60) Rentas Mensuales a los Docentes Jubilados y Pensionados por Invalidez del INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), conforme lo reformado mediante Decreto Legislativo No. 57-2019.
 
 d) Comisión: La Comisión Nacional de Bancos y Seguros, conocida por sus siglas CNBS.
 
@@ -77,7 +75,7 @@ e) Instituto: Instituto Nacional de Previsión del Magisterio, conocido por sus 
 
 f) Ley: Ley del INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA).
 
-g) Jubilado: Participante del Sistema al que le fue otorgado el Beneficio de Jubilación Voluntaria mediante el Decreto No.1026-1980.
+g) Jubilado: Participante del Sistema al que le fue otorgado el Beneficio de Jubilación Voluntaria mediante el Decreto No. 1026-1980.
 
 h) Pagos Periódicos: Corresponde al número de pagos anuales referidos en la "Tabla de Gradualidad del Número de Pagos Anuales del Beneficio de Suma Adicional".
 
@@ -91,7 +89,7 @@ l) Reglamento del Beneficio de Suma Adicional o Reglamento de BSA: Reglamento pa
 
 #### Artículo 3
 
-Artículo 3: De conformidad a lo establecido en el Decreto Legislativo No.57-2019, que entró en vigencia mediante su publicación en el Diario Oficial La Gaceta en fecha 26 de octubre de 2021, los Jubilados y Pensionados podrán solicitar la anticipación del Beneficio de Suma Adicional de conformidad a lo establecido en el presente Reglamento.
+Artículo 3: De conformidad a lo establecido en el Decreto Legislativo No. 57-2019, que entró en vigencia mediante su publicación en el Diario Oficial La Gaceta en fecha 26 de octubre de 2021, los Jubilados y Pensionados podrán solicitar la anticipación del Beneficio de Suma Adicional de conformidad a lo establecido en el presente Reglamento.
 
 #### Artículo 4
 

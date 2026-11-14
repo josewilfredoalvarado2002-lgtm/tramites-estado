@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ministerial SEN-75-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200104-35140/download"
 extraido: "2026-11-14"
-huella: "7ef126ccd141576e"
+huella: "5dd7e68433688783"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Ministerial SEN-75-2019
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar su ejecución. La firma de los Secretarios de Estado en estos casos será autorizada por los respectivos secretarios”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo 048- 2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017, se creó la Secretaría de Estado en el Despacho de Energía (SEN), como institución rectora del sector energético nacional y de integración energética regional e internacional.
+CONSIDERANDO: Que mediante Decreto Ejecutivo 048-2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017, se creó la Secretaría de Estado en el Despacho de Energía (SEN), como institución rectora del sector energético nacional y de integración energética regional e internacional.
 
 CONSIDERANDO: Que el Reglamento Interno de Trabajo, son normas obligatorias que determinan las condiciones a las que debe sujetarse el patrono y sus trabajadores en la prestación del servicio.
 
@@ -149,7 +149,7 @@ ARTÍCULO No. 16.- Sin perjuicio de lo dispuesto en la Ley de Servicio Civil y s
 
 8. Hacer uso de las redes sociales o cualquier medio de comunicación a fin de emitir comentarios o expresiones que atenten contra la imagen institucional;
 
-ARTÍCULO No.17.- Sin perjuicio de lo dispuesto en la Ley de Servicio Civil y su Reglamento, se consideran faltas menos graves:
+ARTÍCULO No. 17.- Sin perjuicio de lo dispuesto en la Ley de Servicio Civil y su Reglamento, se consideran faltas menos graves:
 
 1. Incurrir en tres (3), faltas leves que den lugar a igual número de amonestaciones, en un periodo de tres (3), meses;
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 001-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210308-35538/download"
 extraido: "2026-11-14"
-huella: "fed98a3fc8ef6465"
+huella: "3b94678a730b2764"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2021
@@ -81,11 +81,9 @@ DECIMO PRIMERO: Los jefes e inspectores de las Regionales de la DIGEPESCA deber�
 
 DECIMO SEGUNDO: Los productos pesqueros bajo inventario y reportados al terminar la termporada de pesca e iniciado el periodo de veda, podrán ser comercializados, de ser producto no inventariado se considerará como pesca ilegal, a excepción de escama que no tiene periodo de veda.
 
-DECIMO TERCERO: Una vez concluida la temporada de pesca los jefes e inspectores de las Regionales de la DIGEPESCA deberán levantar durante el mes de marzo las respectivas actas de inspección de toda la Flota Pesquera Nacional y embarcaciones industriales participantes en el Protocolo de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar en el Caribe de Honduras temporada 2020- 2021, con el propósito de realizar un inventario de todas las embarcaciones industriales, verificando que estén en los respectivos puertos; las embarcaciones artesanales que participan de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar deberán estar en puerto el 30 de abril del presente año, las embarcaciones que incumplan lo dispuesto se procederá conforme a la Ley General de Pesca y Acuicultura.
+DECIMO TERCERO: Una vez concluida la temporada de pesca los jefes e inspectores de las Regionales de la DIGEPESCA deberán levantar durante el mes de marzo las respectivas actas de inspección de toda la Flota Pesquera Nacional y embarcaciones industriales participantes en el Protocolo de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar en el Caribe de Honduras temporada 2020-2021, con el propósito de realizar un inventario de todas las embarcaciones industriales, verificando que estén en los respectivos puertos; las embarcaciones artesanales que participan de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar deberán estar en puerto el 30 de abril del presente año, las embarcaciones que incumplan lo dispuesto se procederá conforme a la Ley General de Pesca y Acuicultura.
 
-DECIMO CUARTO: El incumplimiento a los periodos de veda dará lugar a la suspensión de la licencia de pesca repectiva, artículo 76 de la Ley de Pesca y las sanciones administrativas señaladas en el artículo 107 (Decreto No.
-
-106-2015)
+DECIMO CUARTO: El incumplimiento a los periodos de veda dará lugar a la suspensión de la licencia de pesca repectiva, artículo 76 de la Ley de Pesca y las sanciones administrativas señaladas en el artículo 107 (Decreto No. 106-2015)
 
 DECIMO QUINTO: Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial No. 032-2020.
 

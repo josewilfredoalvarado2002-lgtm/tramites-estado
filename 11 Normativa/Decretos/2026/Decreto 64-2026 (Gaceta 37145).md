@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 64-2026, 66-2026, 67-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260519-37145/download"
 extraido: "2026-11-09"
-huella: "0d36ab6879f159fc"
+huella: "3532323664afe062"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 64-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -63,13 +63,13 @@ ARTÍCULO 3.- Se autoriza a la CORPORACIÓN MUNICIPAL DE EL PROGRESO, DEPARTAMEN
 
 #### Artículo 4
 
-ARTÍCULO 4.- Se autoriza a la CORPORACIÓN MUNICIPAL DE EL PROGRESO, DEPARTAMENTO DE YORO, para lograr agilidad en el proceso de contratación a implementar el procedimiento establecido en el Decreto No.58-2011 que contiene la Ley Especial de Simplificación de los Procedimientos de Inversión e Infraestructura Pública de fecha 13 de Julio del año 2011 o en su defecto por las normas establecidas en la Ley de Contratación del Estado.
+ARTÍCULO 4.- Se autoriza a la CORPORACIÓN MUNICIPAL DE EL PROGRESO, DEPARTAMENTO DE YORO, para lograr agilidad en el proceso de contratación a implementar el procedimiento establecido en el Decreto No. 58-2011 que contiene la Ley Especial de Simplificación de los Procedimientos de Inversión e Infraestructura Pública de fecha 13 de Julio del año 2011 o en su defecto por las normas establecidas en la Ley de Contratación del Estado.
 
 #### Artículo 5
 
 ARTÍCULO 5.- Se autoriza a la CORPORACIÓN MUNICIPAL DE EL PROGRESO, DEPARTAMENTO DE YORO, para suscribir la prórroga del Contrato:
 
-PARA EL SUMINISTRO DE SERVICIOS DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS DE ORIGEN URBANO PARA EL MUNICIPIO DE EL PROGRESO, DEPARTAMENTO DE YORO. No.11-2024, SUSCRITO ENTRE LA MUNICIPALIDAD DE EL PROGRESO, YORO Y SOLUCIONES AMBIENTALES ATLÁNTIDA, S.A. de CV (SAA), el cual si excede el período de gobierno deberá ser aprobado por este Congreso Nacional para su entrada en vigencia.
+PARA EL SUMINISTRO DE SERVICIOS DE RECOLECCIÓN Y TRANSPORTE DE RESIDUOS SÓLIDOS DE ORIGEN URBANO PARA EL MUNICIPIO DE EL PROGRESO, DEPARTAMENTO DE YORO. No. 11-2024, SUSCRITO ENTRE LA MUNICIPALIDAD DE EL PROGRESO, YORO Y SOLUCIONES AMBIENTALES ATLÁNTIDA, S.A. de CV (SAA), el cual si excede el período de gobierno deberá ser aprobado por este Congreso Nacional para su entrada en vigencia.
 
 #### Artículo 6
 

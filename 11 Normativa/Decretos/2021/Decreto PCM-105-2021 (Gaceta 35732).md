@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-105-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210929-35732/download"
 extraido: "2026-11-14"
-huella: "887acf3ac5afae1e"
+huella: "2c64142f04e7ccb0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-105-2021
@@ -43,19 +43,17 @@ CONSIDERANDO: Que de conformidad con la Ley de Contratación del Estado en su A
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020 Edición No. 35,171 y sus reformas, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por coronavirus (COVID-19).
 
-CONSIDERANDO: Que por los efectos de las fuertes lluvias que se pronosticaron por la Tormenta Tropical “ETA” provocaron enormes daños a la infraestructura vial y productiva del País, configurándose en una nueva crisis humanitaria, declarándose Estado de Emergencia a Nivel Nacional mediante Decreto Ejecutivo Número PCM-109- 2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020 Edición No. 35,417.
+CONSIDERANDO: Que por los efectos de las fuertes lluvias que se pronosticaron por la Tormenta Tropical “ETA” provocaron enormes daños a la infraestructura vial y productiva del País, configurándose en una nueva crisis humanitaria, declarándose Estado de Emergencia a Nivel Nacional mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020 Edición No. 35,417.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, mediante Decreto Ejecutivo Número PCM-120-2020, publicado en el Diario Oficial “La Gaceta”, en fecha 01 de diciembre del 2020 Edición No.
-
-35,446, se declaró situación de calamidad publica nacional por el estado de emergencia en el País, en vista de los efectos destructivos causados por el paso de las Tormentas Tropicales “ETA” e “IOTA”, sumados a la crisis sanitaria y humanitaria causado por el COVID-19.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, mediante Decreto Ejecutivo Número PCM-120-2020, publicado en el Diario Oficial “La Gaceta”, en fecha 01 de diciembre del 2020 Edición No. 35,446, se declaró situación de calamidad publica nacional por el estado de emergencia en el País, en vista de los efectos destructivos causados por el paso de las Tormentas Tropicales “ETA” e “IOTA”, sumados a la crisis sanitaria y humanitaria causado por el COVID-19.
 
 CONSIDERANDO: Que dada la emergencia por la crisis humanitaria y sanitaria derivada por el COVID-19 y las Tormentas Tropicales anteriormente enunciadas, la situación socioeconómica del País se ha agudizado para la población en general, en especial en los servicios de energía eléctrica, el gas licuado de petróleo y el precio de los combustibles, haciéndose imperativo la adopción de medidas inmediatas para ayudar a la recuperación económica y la mitigación del impacto en los consumidores.
 
 CONSIDERANDO: Que ante la crisis provocada por las emergencias nacionales, es deber ineludible del Presidente de la República, en Consejo de Secretarios de Estado, tomar las acciones necesarias para el beneficio de la población.
 
-POR TANTO, En aplicación de los Artículos 245 numerales 2, 11, 19, 29 y 35, 248 y 252 de la Constitución de la República; Artículos 22 numerales 6), 9) y 12), 116,117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266- 2013; Artículo 9 de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-005-2020, PCM-016-2020, PCM-023-2020, PCM-109-2020 y PCM- 120-2020.
+POR TANTO, En aplicación de los Artículos 245 numerales 2, 11, 19, 29 y 35, 248 y 252 de la Constitución de la República; Artículos 22 numerales 6), 9) y 12), 116,117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266-2013; Artículo 9 de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-005-2020, PCM-016-2020, PCM-023-2020, PCM-109-2020 y PCM-120-2020.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

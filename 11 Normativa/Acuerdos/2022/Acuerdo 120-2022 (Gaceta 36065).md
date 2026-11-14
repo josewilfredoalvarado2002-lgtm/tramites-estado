@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Ministeriales Nos. 115-2022, 116-2022, 117-2022, 118-2022, 119-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221101-36065/download"
 extraido: "2026-11-14"
-huella: "47221ea10dc02cd0"
+huella: "e8b88d9a68196d2c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 120-2022
@@ -35,11 +35,11 @@ CONSIDERANDO: Que con fecha 26 de julio de 2013, el Consejo de la Unión Europea
 
 CONSIDERANDO: Que en el Artículo 2 del Decreto No. 210-2012, se establece que la Secretaría de Estado en el Despacho de Desarrollo Económico, es la Institución responsable de la administración e implementación de la parte IV (Comercio), sus anexos, apéndices, declaraciones y protocolo de cooperación cultural contenida en el Acuerdo de Asociación.
 
-CONSIDERANDO: Que mediante Acuerdo No.119-2006 del 11 de mayo del 2006, se designó a la Dirección General de Integración Económica y Política Comercial como la Unidad Especializada para la asignación y administración de contingentes.
+CONSIDERANDO: Que mediante Acuerdo No. 119-2006 del 11 de mayo del 2006, se designó a la Dirección General de Integración Económica y Política Comercial como la Unidad Especializada para la asignación y administración de contingentes.
 
 CONSIDERANDO: Que en el marco del Acuerdo de Asociación, las Partes se otorgaron entre sí contingentes aplicables a la importación de mercancías, para lo que, de conformidad con las disposiciones aplicables se hace necesario definir los controles para el ingreso a Honduras de tales contingentes.
 
-CONSIDERANDO: Que mediante Resolución No. 315- 2013 (COMIECO EX) de fecha 05 de julio del 2013, se aprobó el Reglamento Centroamericano para Administración de los Contingentes Regionales del Acuerdo de Asociación.
+CONSIDERANDO: Que mediante Resolución No. 315-2013 (COMIECO EX) de fecha 05 de julio del 2013, se aprobó el Reglamento Centroamericano para Administración de los Contingentes Regionales del Acuerdo de Asociación.
 
 CONSIDERANDO: Que en el apéndice 1 al Anexo I del Acuerdo de Asociación, se establecen los contingentes arancelarios de importación otorgados por las Repúblicas de la Parte Centroamericana para los productos originarios procedentes de la Unión Europea.
 

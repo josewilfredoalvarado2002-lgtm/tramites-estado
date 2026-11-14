@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1056-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260131-37058/download"
 extraido: "2026-11-09"
-huella: "d27ffd36b0e18bbe"
+huella: "0249617da03db5ad"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1056-2025
@@ -35,7 +35,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, Municipio del Distrito Central, departamento de Francisco Morazán, once de julio del año dos mil veinticinco.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diecisiete de diciembre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ- 17122024-705, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal De LA JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE ALDEA TOMATIN, TRES CANDILES Y TRUJILLITO, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZÁN”, la cual se encuentra domiciliada en la Aldea Tomatin, Tres Candiles y Trujillito, Municipio de Cantarranas, departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diecisiete de diciembre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-17122024-705, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal De LA JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE ALDEA TOMATIN, TRES CANDILES Y TRUJILLITO, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZÁN”, la cual se encuentra domiciliada en la Aldea Tomatin, Tres Candiles y Trujillito, Municipio de Cantarranas, departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 CONSIDERANDO: Que el peticionario acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica a favor de su representada.
 

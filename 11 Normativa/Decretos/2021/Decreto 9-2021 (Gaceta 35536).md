@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 9-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210306-35536/download"
 extraido: "2026-11-14"
-huella: "16b14333df0f4cf6"
+huella: "17f41e53806e0c68"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 9-2021
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el numeral 5), del Artículo 4, del Decreto No.188-2020 de fecha 7 de Enero del 2021, publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del 2021, Edición No.35,506, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el numeral 5), del Artículo 4, del Decreto No. 188-2020 de fecha 7 de Enero del 2021, publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del 2021, Edición No. 35,506, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 4.- AMNISTÍA
 

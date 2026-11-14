@@ -11,7 +11,7 @@ paginas: "A. 12 - 14"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "dd190206541c7ba7"
+huella: "70cf39a563842718"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-054-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 5 del Decreto Ejecutivo PCM-048-20
 
 I) Subsecretaría de Energía Renovable y Electricidad y sus Direcciones Generales; II) Subsecretaría de Hidrocarburos y sus Direcciones Generales.
 
-POR TANTO, En aplicación a los artículos 246, 321 de la Constitución de la República; 34, 36 numerales 1 y 8, 37, 118, 122 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 404- 2013; Decreto Ejecutivo PCM-048-2017; Decreto Ejecutivo PCM-007-2020.
+POR TANTO, En aplicación a los artículos 246, 321 de la Constitución de la República; 34, 36 numerales 1 y 8, 37, 118, 122 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 404-2013; Decreto Ejecutivo PCM-048-2017; Decreto Ejecutivo PCM-007-2020.
 
 ACUERDA
 

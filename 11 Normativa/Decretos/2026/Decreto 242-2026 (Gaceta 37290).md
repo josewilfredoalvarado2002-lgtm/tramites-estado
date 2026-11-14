@@ -11,7 +11,7 @@ paginas: "A. 21 - 23"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "8f3bd570d83c5b76"
+huella: "67fa767880c70b7e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 242-2026
@@ -43,7 +43,7 @@ Artículo 213 reconoce la Iniciativa de Ley de los Diputados.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

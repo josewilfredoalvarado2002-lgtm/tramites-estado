@@ -11,7 +11,7 @@ paginas: "A. 20 - 28"
 sumario: "Acuerdos OPCE Nos. 017-2026, 0182026, 019-2026, 020-2026, 021-2026, 022-2026, 023-2026, 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "52adac8139925059"
+huella: "557f8dfb2c077cff"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 024-2026
@@ -37,7 +37,7 @@ Artículos 38, 39 y 55 del Protocolo al Tratado General de Integración Económi
 
 CONSIDERANDO: Que de acuerdo con los Artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No. 419- 2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas.
+CONSIDERANDO: Que mediante la Resolución No. 419-2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas.
 
 Aditivos Alimentarios, el cual entró en vigor el 5 de junio de 2020.
 
@@ -67,13 +67,11 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 503- 2026 (COMIECO-EX); que en la parte resolutiva “...
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 503-2026 (COMIECO-EX); que en la parte resolutiva “...
 
 RESUELVE: 1. Autorizar una prórroga de seis (6) meses adicionales, es decir, hasta el 15 de enero de 2027, al plazo originalmente previsto en el numeral 2 de la Resolución No. 497-2025 (COMIECO-CXI), del 26 de junio de 2025, especificamente para agotar las existencias de las etiquetas, en los alimentos que indiquen que contienen el aditivo Eritrosina (Rojo 3). Las demás disposiciones contenidas en el numeral 2 antes citado de dicha Resolución, mantienen su vigencia a partir del 15 de julio de 2026. 2. La presente Resolución entra en vigor a partir de esta fecha y será publicada por los Estados Parte...”
 
-SEGUNDO: El texto integrado de la Resolución No.
-
-503-2026 (COMIECO-EX) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado de la Resolución No. 503-2026 (COMIECO-EX) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial "La Gaceta" y en la página web de la Oficina Presidencial de Comercio Exterior.
 

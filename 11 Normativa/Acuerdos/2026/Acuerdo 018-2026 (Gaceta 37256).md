@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "abb27faa86c44b9c"
+huella: "068c434a46fa87af"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 018-2026
@@ -53,9 +53,9 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el Acuerdo No. 01-2026 (COMIECOCXIII); que “… ACUERDA: 1. Aprobar el Procedimiento para la Revisión y Solución de Preocupaciones Comerciales Intrarregionales en la forma que aparece en el Anexo del presente Acuerdo, 2. Derogar el Acuerdo No.01-2011 (COMIECO-LX), del 27 de julio de 2011. 3. El presente Acuerdo entrará en vigor el 26 de febrero de 2027 y será publicado por los Estados Parte…”
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante el Acuerdo No. 01-2026 (COMIECOCXIII); que “… ACUERDA: 1. Aprobar el Procedimiento para la Revisión y Solución de Preocupaciones Comerciales Intrarregionales en la forma que aparece en el Anexo del presente Acuerdo, 2. Derogar el Acuerdo No. 01-2011 (COMIECO-LX), del 27 de julio de 2011. 3. El presente Acuerdo entrará en vigor el 26 de febrero de 2027 y será publicado por los Estados Parte…”
 
-SEGUNDO: El texto integrado del Acuerdo No.01-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado del Acuerdo No. 01-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial “La Gaceta” y en la página web de la Oficina Presidencial de Comercio Exterior.
 

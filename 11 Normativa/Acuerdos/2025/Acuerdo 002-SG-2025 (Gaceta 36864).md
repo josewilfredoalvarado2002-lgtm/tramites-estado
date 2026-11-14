@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. 001-SG-2025, 002-SG-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250614-36864/download"
 extraido: "2026-11-10"
-huella: "18bb5c753df4bc96"
+huella: "99dae15f3d64c411"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 002-SG-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que para desarrollar los proyectos que donará el Gobierno de la R
 
 CONSIDERANDO: Que la emisión de Visas Consulares para el ingreso al territorio nacional, corresponde a las Representaciones Diplomáticas y Consulares de Honduras en el exterior autorizadas para ello, de conformidad con las disposiciones emitidas por la Secretaría de Relaciones Exteriores y Cooperación Internacional.
 
-CONSIDERANDO: Que mediante Acuerdo No.001/ DGAC/2010 de fecha 2 de agosto de 2016, se aprobó el cambio de Categoría de visa para los nacionales de la República Popular China, de Categoría “C” a Categoría “B”, que se regula mediante el Acuerdo No.009-SG-2016.
+CONSIDERANDO: Que mediante Acuerdo No. 001/ DGAC/2010 de fecha 2 de agosto de 2016, se aprobó el cambio de Categoría de visa para los nacionales de la República Popular China, de Categoría “C” a Categoría “B”, que se regula mediante el Acuerdo No. 009-SG-2016.
 
 CONSIDERANDO: Que es necesario definir el proceso para la emisión de Visas Consulares para el ingreso al territorio nacional para los nacionales de la República Popular China, que formen parte del personal que viajará a realizar proyectos que desarrollará el Gobierno de la República Popular China en Honduras.
 
@@ -79,7 +79,7 @@ Datos y documentos que deberán aportarse:
 
 1.- Formulario de aplicación de visa consular 2.- Fotografía tamaño pasaporte 3.- Pasaporte con vigencia no menor a 6 meses 4.- Carta de responsabilidad de la empresa contratante Quedan excluidos los demás requisitos que establece el
 
-Artículo 7 del Acuerdo No.009-SG-2016 de fecha 2 de agosto del 2016, publicado en La Gaceta 34,119 de fecha 23 de agosto de 2016.
+Artículo 7 del Acuerdo No. 009-SG-2016 de fecha 2 de agosto del 2016, publicado en La Gaceta 34,119 de fecha 23 de agosto de 2016.
 
 #### Artículo 3
 

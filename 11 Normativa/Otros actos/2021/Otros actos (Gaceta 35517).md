@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210215-35517/download"
 extraido: "2026-11-14"
-huella: "de8812f1fe236f67"
+huella: "1f62b0a58cb20e7b"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ Secretaría de Gobernación, Justicia y
 
 EL SECRETARIO PRIVADO Y JEFE DE GABINETE DE ESTADO
 
-En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículo 65 del Reglamento de la Ley para la Promoción y Protección de Inversiones.
+En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículo 65 del Reglamento de la Ley para la Promoción y Protección de Inversiones.
 
 ACUERDA:
 

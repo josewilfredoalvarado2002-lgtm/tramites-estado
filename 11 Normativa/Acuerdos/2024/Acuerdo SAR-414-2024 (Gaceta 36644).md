@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. SAR-414-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240919-36644/download"
 extraido: "2026-11-14"
-huella: "f4d4f9748a129ccd"
+huella: "778a5af1182d0a00"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-414-2024
@@ -39,17 +39,15 @@ CONSIDERANDO: Que el Artículo 199 numeral 6) del Código Tributario, establece 
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 se nombró al Suscrito en el cargo de Director Ejecutivo del Servicio de Administración de Rentas con rango Ministerial y facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-003- 2017, de fecha tres (03) de enero del dos mil diecisiete (2017), se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo No. SAR-003-2017, de fecha tres (03) de enero del dos mil diecisiete (2017), se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-291- 2020 de fecha cuatro (04) de diciembre de dos mil veinte (2020), se aprobó las reformas al Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo No. SAR-291-2020 de fecha cuatro (04) de diciembre de dos mil veinte (2020), se aprobó las reformas al Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
 
-CONSIDERANDO: Para la aprobación del Acuerdo No.
-
-SAR-291-2020, el Servicio de Administración de Rentas recibió el oficio No. CGG-853-2020 de fecha quince (15) de octubre dos mil veinte (2020), emitido por el Secretario de Estado en el Despacho de Coordinación General de Gobierno, en el cual establece que del análisis del Acuerdo 003-2017 contentivo del “Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas”, la Dirección Ejecutiva del Servicio de Administración de Rentas tiene por ley la atribución de aprobar su régimen laboral y por ende también la de realizar modificaciones que estime pertinentes para una adecuada Administración del Talento Humano.
+CONSIDERANDO: Para la aprobación del Acuerdo No. SAR-291-2020, el Servicio de Administración de Rentas recibió el oficio No. CGG-853-2020 de fecha quince (15) de octubre dos mil veinte (2020), emitido por el Secretario de Estado en el Despacho de Coordinación General de Gobierno, en el cual establece que del análisis del Acuerdo 003-2017 contentivo del “Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas”, la Dirección Ejecutiva del Servicio de Administración de Rentas tiene por ley la atribución de aprobar su régimen laboral y por ende también la de realizar modificaciones que estime pertinentes para una adecuada Administración del Talento Humano.
 
 CONSIDERANDO: Que las normas y medidas establecidas en dicho Régimen deben ser adecuadas conforme a las necesidades actuales de la institución y de los colaboradores, en aras de una mejor gestión y desarrollo del talento humano.
 
-CONSIDERANDO: Que en el año dos mil veintitrés (2023), el Servicio de Administración de Renta aprobó su Plan Estratégico Institucional (PEI) para el período 2023- 2026. En su objetivo estratégico del eje transversal dos (2), se estableció como tal el garantizar un entorno de trabajo saludable y respetuoso de los derechos laborales de los(as) y los(as) trabajadores(as). En tal sentido, esta Administración Tributaria reconoce la necesidad de adecuar la normativa que regula sus relaciones laborales con sus empleados, a fin de reducir las brechas y condiciones que impiden un adecuado desarrollo de las funciones laborales.
+CONSIDERANDO: Que en el año dos mil veintitrés (2023), el Servicio de Administración de Renta aprobó su Plan Estratégico Institucional (PEI) para el período 2023-2026. En su objetivo estratégico del eje transversal dos (2), se estableció como tal el garantizar un entorno de trabajo saludable y respetuoso de los derechos laborales de los(as) y los(as) trabajadores(as). En tal sentido, esta Administración Tributaria reconoce la necesidad de adecuar la normativa que regula sus relaciones laborales con sus empleados, a fin de reducir las brechas y condiciones que impiden un adecuado desarrollo de las funciones laborales.
 
 CONSIDERANDO: Que los empleados del Servicio de Administración de Rentas constituyen el elemento más valioso de la Administración Tributaria, mediante el cual se alcanzan los objetivos institucionales, en apego a los valores éticos y morales, procurando que mediante su reglamentación se instituya una carrera administrativa que permita lograr una adecuada administración del personal, una eficiente gestión y un constante desarrollo institucional.
 
@@ -63,7 +61,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1. REFORMAR los artículos 6, 12, 14, 17, 20, 22, 23, 26, 29, 33, 48, 50, 53, 55, 59, 62, 62-A, 62-C, 65, 67, 69, 70, 75, 76, 77, 84, 86, 87, 90, 91, 92 y 100 del Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas, contenido en el Acuerdo No. SAR- 003-2017 de fecha tres (3) de enero del dos mil diecisiete y reformado por el Acuerdo No. 291-2020 de fecha cuatro (4) de diciembre de dos mil veinte (2020), los cuales se deberán leer de la forma siguiente:
+ARTÍCULO 1. REFORMAR los artículos 6, 12, 14, 17, 20, 22, 23, 26, 29, 33, 48, 50, 53, 55, 59, 62, 62-A, 62-C, 65, 67, 69, 70, 75, 76, 77, 84, 86, 87, 90, 91, 92 y 100 del Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas, contenido en el Acuerdo No. SAR-003-2017 de fecha tres (3) de enero del dos mil diecisiete y reformado por el Acuerdo No. 291-2020 de fecha cuatro (4) de diciembre de dos mil veinte (2020), los cuales se deberán leer de la forma siguiente:
 
 #### Artículo 6
 

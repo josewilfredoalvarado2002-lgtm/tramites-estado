@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Acuerdos Nos. 673-2021, 674-2021, 675-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211111-35769/download"
 extraido: "2026-11-14"
-huella: "944443c9fd828764"
+huella: "66e98651e7d99666"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 675-2021
@@ -41,9 +41,7 @@ CONSIDERANDO: Que, con el objeto de no paralizar el normal funcionamiento de los
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en el Diario Oficial La Gaceta el 16 de julio del 2021 ; 4 y 5 del Acuerdo No.
-
-64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585- 2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en el Diario Oficial La Gaceta el 16 de julio del 2021; 4 y 5 del Acuerdo No. 64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
 
 ACUERDA:
 

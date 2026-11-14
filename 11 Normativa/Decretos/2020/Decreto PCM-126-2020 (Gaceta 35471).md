@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Ejecutivos números. PCM-126- 2020, 139-2020, 140-2020, 142-2020,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201228-35471/download"
 extraido: "2026-11-14"
-huella: "928dcae790fbb566"
+huella: "f1f2b46cc595a621"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-126-2020
@@ -59,7 +59,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 1, 2 literales a) y d), 4, 7 literal b), 11 y 12 del Decreto Ejecutivo Número PCM- 065-2019, publicado en el Diario Oficial “La Gaceta” en fecha 8 de enero del 2020, Edición No. 35,143; los cuales deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 1, 2 literales a) y d), 4, 7 literal b), 11 y 12 del Decreto Ejecutivo Número PCM-065-2019, publicado en el Diario Oficial “La Gaceta” en fecha 8 de enero del 2020, Edición No. 35,143; los cuales deberán leerse de la manera siguiente:
 
 #### Artículo 1
 

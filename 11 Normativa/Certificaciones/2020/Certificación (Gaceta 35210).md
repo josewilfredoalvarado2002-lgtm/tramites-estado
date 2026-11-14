@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200326-35210/download"
 extraido: "2026-11-14"
-huella: "e465b354580c1c95"
+huella: "a2c872dfbc5f282f"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "e465b354580c1c95"
 
 ## Texto
 
-El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, certifica la resolución que literalmente dice: RESOLUCIÓN No. 2115- 2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, treinta y uno de octubre del dos mil diecinueve.
+El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, certifica la resolución que literalmente dice: RESOLUCIÓN No. 2115-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, treinta y uno de octubre del dos mil diecinueve.
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintisiete de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-27062019-513, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LUMINAPA, con domicilio en el municipio de Langue, departamento de Valle; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
@@ -57,9 +57,7 @@ DECISIÓN
 
 POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS
 
-DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266- 2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -127,7 +125,7 @@ ARTÍCULO 11.- Son funciones de la Asamblea de Usuarios: a.- Elegir o distribuir
 
 #### Artículo 12
 
-ARTÍCULO 12.- DE LA JUNTA DIRECTIVA. Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente(a). 2.- Un Vice-presidente(a) ; 3.- Secretario(a). 4.- Un Tesorero(a) . 5.- Un Fiscal, 6. - Un Vocal primero; y, 7. Un Vocal segundo.
+ARTÍCULO 12.- DE LA JUNTA DIRECTIVA. Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente(a). 2.- Un Vice-presidente(a); 3.- Secretario(a). 4.- Un Tesorero(a) . 5.- Un Fiscal, 6. - Un Vocal primero; y, 7. Un Vocal segundo.
 
 #### Artículo 13
 

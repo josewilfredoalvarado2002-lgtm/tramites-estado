@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decreto Ejecutivo Número 01-2024Acuerdo Ejecutivo Número 004-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240226-36470/download"
 extraido: "2026-11-14"
-huella: "abb0c19ec100eaeb"
+huella: "00bd27e2a98fda23"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 004-2024
@@ -37,9 +37,7 @@ CONSIDERANDO: Que la Ley del Régimen de Aportaciones Privadas (RAP), crea un Co
 
 POR TANTO:
 
-En uso de las facultades de que está investida y en aplicación del artículo 245 numerales 1, 11 y 45 de la Constitución de la República; artículos 1, 2, 7, 11, 16, 28, 29, 116 y 119 de la Ley General de la Administración Pública; artículo 5, 6, 7 numeral 3, 8, 9, 11 y 22 del Decreto Legislativo No.
-
-107-2013, denominado Ley del Régimen de Aportaciones Privadas (RAP); Artículos 7, 8 y 9 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo.
+En uso de las facultades de que está investida y en aplicación del artículo 245 numerales 1, 11 y 45 de la Constitución de la República; artículos 1, 2, 7, 11, 16, 28, 29, 116 y 119 de la Ley General de la Administración Pública; artículo 5, 6, 7 numeral 3, 8, 9, 11 y 22 del Decreto Legislativo No. 107-2013, denominado Ley del Régimen de Aportaciones Privadas (RAP); Artículos 7, 8 y 9 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo.
 
 ACUERDA:
 

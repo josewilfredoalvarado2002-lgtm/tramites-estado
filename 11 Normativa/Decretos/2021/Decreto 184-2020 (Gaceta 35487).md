@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 184-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210114-35487/download"
 extraido: "2026-11-14"
-huella: "e1ae13f93267a8c0"
+huella: "69f1828e42eb1eaa"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 184-2020
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República establece que la persona humana es el fin supremo de la sociedad y es función del Estado, promover y facilitar el acceso a los servicios públicos, relacionados a la salud, a fin de mejorar condiciones sanitarias y la calidad de vida de las personas.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.107-2010, de fecha 29 de Julio de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Agosto de 2010, en su Edición No.32,296 se aprobó la Ley de Ingresos Complementarios en Zonas Rurales y Urbano Marginales.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 107-2010, de fecha 29 de Julio de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Agosto de 2010, en su Edición No. 32,296 se aprobó la Ley de Ingresos Complementarios en Zonas Rurales y Urbano Marginales.
 
 CONSIDERANDO: Que la Ley de Ingresos Complementarios en Zonas Rurales y Urbano Marginales tiene como propósito declarar de prioridad nacional la complementación de ingresos de la población de las zonas rurales y urbano-marginales del país, mediante la ejecución de proyectos que propicien la mejora en sus condiciones de vida; la mejora de las bases de recursos naturales en las zonas beneficiadas; y conservación del medio ambiente y la reducción de la vulnerabilidad a los desastres naturales, la mejora a la seguridad alimentaria, la creación de nuevas capacidades y el desarrollo económico sostenible en las comunidades, con el ulterior propósito de proteger y mejorar el nivel de ingresos de las personas.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 4, 8 y 10 del Decreto Legislativo No.107- 2010, de fecha 29 de Julio del año 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Agosto de 2010, en su Edición No.32,296 que contiene la LEY DE INGRESOS COMPLEMENTARIOS EN ZONAS RURALES Y URBANO MARGINALES, los cuales deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 4, 8 y 10 del Decreto Legislativo No. 107-2010, de fecha 29 de Julio del año 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Agosto de 2010, en su Edición No. 32,296 que contiene la LEY DE INGRESOS COMPLEMENTARIOS EN ZONAS RURALES Y URBANO MARGINALES, los cuales deberán leerse de la manera siguiente:
 
 “ARTÍCULO 4.- Con el propósito de garantizar a un miembro de cada hogar, ingresos complementarios por lo menos ciento veinte (120) dias del año, en las comunidades rurales y urbanas más empobrecidas del país, desarrollando labores sociales en los proyectos que se lleven a cabo al amparo de esta normativa, conforme los criterios de elegibilidad determinados por el Ente Regulador a que se refiere los artículos 2 y 3 de la presente Ley, dando prioridad a los criterios establecidos en el Artículo 12; la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social (SEDIS) coordinará la ejecución de los proyectos con entidades del Gobierno Central, entes desconcentrados y autónomos, municipalidades, mancomunidades de municipios, pobladores, empresas constructoras, contratistas individuales, empresas consultoras o consultores individuales, así como Organizaciones No Gubernamentales, Asociaciones Civiles”.
 

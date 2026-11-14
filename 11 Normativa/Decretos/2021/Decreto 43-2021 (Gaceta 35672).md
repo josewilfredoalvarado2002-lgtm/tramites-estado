@@ -11,7 +11,7 @@ paginas: "A. 1 - 53"
 sumario: "Decreto No. 43-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210730-35672/download"
 extraido: "2026-11-14"
-huella: "4f0f6eaddac30170"
+huella: "6a2a660a8658624e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2021
@@ -29,7 +29,7 @@ huella: "4f0f6eaddac30170"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Contrato de Préstamo No.4942/ BL-HO suscrito el 17 de Marzo de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Cuarenta y Cuatro Millones Setecientos Mil Dólares de los Estados Unidos de América (US$44,700,000.00), está destinado a financiar la ejecución del “PROYECTO DE TRANSFORMACIÓN DIGITAL PARA UNA MAYOR COMPETITIVIDAD”.
+CONSIDERANDO: Que el Contrato de Préstamo No. 4942/ BL-HO suscrito el 17 de Marzo de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Cuarenta y Cuatro Millones Setecientos Mil Dólares de los Estados Unidos de América (US$44,700,000.00), está destinado a financiar la ejecución del “PROYECTO DE TRANSFORMACIÓN DIGITAL PARA UNA MAYOR COMPETITIVIDAD”.
 
 CONSIDERANDO: Que el objetivo del PROYECTO DE TRANSFORMACIÓN DIGITAL PARA UNA MAYOR COMPETITIVIDAD es contribuir al aumento de la competitividad de Honduras a través de la transformación digital.
 
@@ -43,11 +43,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.4942/BLHO, suscrito el 17 de Marzo de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CUATRO MILLONES SETECIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$44,700,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE TRANSFORMACIÓN DIGITAL PARA UNA MAYOR COMPETITIVIDAD”, así como el Anexo Único de dicho contrato, que literalmente dicen:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 4942/BLHO, suscrito el 17 de Marzo de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CUATRO MILLONES SETECIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$44,700,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE TRANSFORMACIÓN DIGITAL PARA UNA MAYOR COMPETITIVIDAD”, así como el Anexo Único de dicho contrato, que literalmente dicen:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
-FINANZAS. CONTRATO DE PRÉSTAMO No.4942/BLHO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Proyecto de Transformación Digital para una Mayor Competitividad 17 de marzo de 2021.
+FINANZAS. CONTRATO DE PRÉSTAMO No. 4942/BLHO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Proyecto de Transformación Digital para una Mayor Competitividad 17 de marzo de 2021.
 
 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES
 
@@ -593,7 +593,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 86. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 

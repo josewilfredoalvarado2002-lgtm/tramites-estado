@@ -11,7 +11,7 @@ paginas: "A. 3 - 22"
 sumario: "Acuerdo No. 002-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210611-35625/download"
 extraido: "2026-11-14"
-huella: "2a03fedf27cd7adb"
+huella: "c66c660b97ecee45"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 002-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto L
 
 CONSIDERANDO: Que el ICF, ha suscrito Contrato de Manejo Forestal Comunitario (CMFC) con Comunidades y Organizaciones Agroforestales, las cuales forman parte del Sistema Social Forestal (SSF) y representan los derechos e intereses de los pobladores que viven dentro o alrededor del Bosque Nacional y que ha efecto de generar beneficios formulan e implementan el respectivo Plan de Manejo Forestal (PM) y Plan Operativo Anual (POA).
 
-CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 009- 2011, en fecha15 de marzo del 2011, publicado en el Diario Oficial La Gaceta, en fecha 6 de septiembre del año 2011, mediante el cual se aprueba el “MANUAL DE NORMAS TÉCNICAS PARA LA IMPLEMENTACIÓN Y SEGUIMIENTO DE PROCESO DE ASIGNACIÓN DE ÁREAS FORESTALES CON FINES DE APLICACIÓN DE LA FORESTERÍA COMUNITARIA EN BOSQUES PÚBLICOS HONDUREÑOS”, estableciéndose en éste el numeral 8 denominado “Mecanismos de transparencia en los procesos de comercialización de productos forestales”.
+CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 009-2011, en fecha15 de marzo del 2011, publicado en el Diario Oficial La Gaceta, en fecha 6 de septiembre del año 2011, mediante el cual se aprueba el “MANUAL DE NORMAS TÉCNICAS PARA LA IMPLEMENTACIÓN Y SEGUIMIENTO DE PROCESO DE ASIGNACIÓN DE ÁREAS FORESTALES CON FINES DE APLICACIÓN DE LA FORESTERÍA COMUNITARIA EN BOSQUES PÚBLICOS HONDUREÑOS”, estableciéndose en éste el numeral 8 denominado “Mecanismos de transparencia en los procesos de comercialización de productos forestales”.
 
 CONSIDERANDO: Que el Acuerdo N°. 009-2011, establece que debido a la complejidad en la cadena de producción, transformación y comercialización de productos y subproductos forestales es necesario establecer los mecanismos de control para que la Organización Comunitaria tenga la seguridad de recibir el mayor margen de utilidad que el mercado esté en posibilidad de ofrecerle.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que el Acuerdo N°. 009-2011, define el procedimiento de suscripci
 
 CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 026A-2013, el cual se aprobó en fecha veintiséis de septiembre del año dos mil trece, denominado “ESTRATEGIA NACIONAL DE FORESTERÍA COMUNITARIA (ENFC)”, publicado en el Diario Oficial La Gaceta en fecha uno de noviembre del año dos mil trece.
 
-CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 023- 2018, el cual se aprobó en fecha veinticuatro de agosto del año dos mil dieciocho, denominado “PROCEDIMIENTO PARA LA COMERCIALIZACION DE MADERA DE PINO EN LOS BOSQUES NACIONALES ASIGNADOS” publicado en el Diario Oficial La Gaceta en fecha treinta de junio del año dos mil veinte.
+CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 023-2018, el cual se aprobó en fecha veinticuatro de agosto del año dos mil dieciocho, denominado “PROCEDIMIENTO PARA LA COMERCIALIZACION DE MADERA DE PINO EN LOS BOSQUES NACIONALES ASIGNADOS” publicado en el Diario Oficial La Gaceta en fecha treinta de junio del año dos mil veinte.
 
 CONSIDERANDO: Que el personal técnico y legal del ICF a solicitud de la Federación de Productores Agroforestales de Honduras (FEPROAH) y la Federación Hondureña de Cooperativas Agroforestales (FEHCAFOR), se reunieron de manera conjunta, en fecha 21 de enero de 2020; revisaron y acordaron realizar las enmiendas necesarias al Acuerdo N°. 023-2018, “PROCEDIMIENTO PARA LA COMERCIALIZACION DE MADERA DE PINO EN LOS BOSQUES NACIONALES ASIGNADOS”.
 
@@ -71,7 +71,7 @@ PRIMERO: Derogar el Acuerdo N°. 023-2018 emitido en fecha veinticuatro de agost
 
 SEGUNDO: Aprobar el presente Acuerdo
 
-002-2021, “PROCEDIMIENTO PARA LA COMERCIALIZACIÓN DE LA MADERA DE PINO DE BOSQUE NACIONAL, ASIGNADO A LAS ORGANIZACIONES AGROFORESTALES, BEN E FI C I A R I A S D E LA FOR E S T ER I A COMUNITARIA”, en todas y cada una de sus partes, el cual es de obligatorio cumplimiento por parte de cada uno de los beneficiarios que implementan la Estrategia Nacional de Forestería Comunitaria (ENFC) y que cuentan con Contrato de Manejo Forestal Comunitario (CMFC) y/o Convenio de Usufructo (CU), Planes de Manejo Forestal y Planes Operativos Anuales, debidamente aprobados y vigentes, el cual literalmente establece:
+002-2021, “PROCEDIMIENTO PARA LA COMERCIALIZACIÓN DE LA MADERA DE PINO DE BOSQUE NACIONAL, ASIGNADO A LAS ORGANIZACIONES AGROFORESTALES, BEN E FI CIARIAS DE LA FOR E S T ER I A COMUNITARIA”, en todas y cada una de sus partes, el cual es de obligatorio cumplimiento por parte de cada uno de los beneficiarios que implementan la Estrategia Nacional de Forestería Comunitaria (ENFC) y que cuentan con Contrato de Manejo Forestal Comunitario (CMFC) y/o Convenio de Usufructo (CU), Planes de Manejo Forestal y Planes Operativos Anuales, debidamente aprobados y vigentes, el cual literalmente establece:
 
 #### Artículo 1
 
@@ -93,7 +93,7 @@ Para los efectos de aplicación del presente procedimiento se establecen las abr
 
 ADJUDICATARIO: Es la persona natural o jurídica a quien se le otorga el derecho del aprovechamiento del o los productos y sub productos forestales ofertados.
 
-BOSQUE: Es una asociación vegetal natural o plantada, en cualquier etapa del ciclo natural de vida , dominada por árboles y arbustos o una combinación de ellos de cualquier tamaño con una cobertura del dos el mayor a diez por ciento (10%), que con o sin manejo, es capaz de producir madera, otros productos forestales, bienes y servicios ambientales, ejercer influencias sobre el régimen de aguas, el suelo, el clima y proveer hábitat para la vida silvestre, o bien con una densidad mínima de un mil doscientos (1,200) plantas por hectárea.
+BOSQUE: Es una asociación vegetal natural o plantada, en cualquier etapa del ciclo natural de vida, dominada por árboles y arbustos o una combinación de ellos de cualquier tamaño con una cobertura del dos el mayor a diez por ciento (10%), que con o sin manejo, es capaz de producir madera, otros productos forestales, bienes y servicios ambientales, ejercer influencias sobre el régimen de aguas, el suelo, el clima y proveer hábitat para la vida silvestre, o bien con una densidad mínima de un mil doscientos (1,200) plantas por hectárea.
 
 BOSQUE NACIONAL: Son áreas forestales cuya propiedad pertenece y es administrada por el Estado, en cuyas áreas el ICF mantiene vigentes CMFC y/o CU, los cuales son suscritos con comunidades y Organizaciones Agroforestales.
 
@@ -105,7 +105,7 @@ CONSEJO DE DESARROLLO COMUNITARIO O
 
 PATRONATO: Responsable de impulsar, en representación de la comunidad la agenda de desarrollo comunitario (infraestructura, salud, educación, seguridad alimentaria, etc.). Representa a una comunidad, está conformado por una junta directiva integrada por personas de la comunidad que han sido electas por la asamblea comunitaria y con la presencia de un delegado de la municipalidad. Dicho Consejo o Patronato se encuentra debidamente registrado en la municipalidad de la jurisdicción a la que pertenece la ubicación del área nacional asignada y es firmante del CMFC ante el ICF.
 
-C O N S E J O I N T E R C O M U N I TA R I O D E
+CONSEJO INTER COMUNI TA R I O D E
 
 DESARROLLO: Estructura organizativa que representa a varias comunidades, está integrado por los representantes legales de un Patronato que poseen personería jurídica o no.
 
@@ -113,7 +113,7 @@ La representación es realizada por las personas más idóneas que nombra en asa
 
 CONTRATISTA: Persona natural o jurídica, debidamente inscrita en el ICF; con facultades para realizar actividades u operaciones forestales de aprovechamiento de la madera.
 
-C O N T R AT O D E M A N E J O F O R E S TA L
+CONTR AT O D E M A N E J O F O R E S TA L
 
 COMUNITARIO: Es todo contrato suscrito entre el ICF y una o más comunidades con personalidad jurídica propia, incluyendo organizaciones agroforestales, grupos étnicos, empresas forestales campesinas y comunidades organizadas asentadas en área forestal nacional, en el que se establecen las responsabilidades, obligaciones y derecho de las partes.
 

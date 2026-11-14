@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1104-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231216-36411/download"
 extraido: "2026-11-14"
-huella: "997b75c208e79342"
+huella: "caeb217e2b30ddc2"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1104-2023
@@ -27,9 +27,9 @@ huella: "997b75c208e79342"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 1104- 2023. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiuno de junio del año dos mil veintitrés.
+El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 1104-2023. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiuno de junio del año dos mil veintitrés.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de mayo del año dos mil veintitrés, misma que corre a Expediente No. PJ- 09052023-287, por la Abogada LOURDES MARGARITA GARCÍA FONSECA, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CONSOLACIÓN, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA”, con domicilio en la comunidad Consolación del municipio de Lepaera, departamento de Lempira, hecho que se acredita mediante carta poder de fecha veintitrés de marzo del año dos mil veintitrés, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos, favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de mayo del año dos mil veintitrés, misma que corre a Expediente No. PJ-09052023-287, por la Abogada LOURDES MARGARITA GARCÍA FONSECA, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CONSOLACIÓN, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA”, con domicilio en la comunidad Consolación del municipio de Lepaera, departamento de Lempira, hecho que se acredita mediante carta poder de fecha veintitrés de marzo del año dos mil veintitrés, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos, favor de su representada.
 
 CONSIDERANDO: Que la peticionaria acompañó a su solicitud los Documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

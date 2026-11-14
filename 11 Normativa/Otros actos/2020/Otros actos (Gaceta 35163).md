@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos números: 626-2019, 189-2020; Acuerdos CREE-031, 032,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200131-35163/download"
 extraido: "2026-11-14"
-huella: "dfc65ba3c710ac08"
+huella: "0275da0eaa91a917"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos números: 626-2019, 189-2020; Acuerdos CREE-031, 032,
@@ -167,7 +167,7 @@ Las centrales generadoras que operan en el Mercado de Oportunidad han enfrentado
 
 Aún con la entrada en funciones del ODS, las referidas centrales generadoras continúan inyectando energía eléctrica a la red a fin de contribuir a minimizar situaciones de déficit y contribuyendo al manteniendo la calidad del suministro a los usuarios en sus zonas de influencia.
 
-Uno de los principales aspectos que ha afectado la operatividad del Mercado de Oportunidad se relaciona al incumplimiento por parte de la ENEE de los requisitos necesarios establecidos en la regulación para su actuación dentro del ámbito del Mercado de Oportunidad, incumplimientos que se derivan del mantenimiento por parte de la ENEE de una estructura integrada verticalmente. A fin de sobrellevar este incumplimiento, la CREE mediante Resolución CREE- 154 estableció la habilitación de esta empresa únicamente como agente distribuidor, siempre y cuando cumpla con los requisitos de participación establecidos en el marco normativo vigente para realizar transacciones en el MEO.
+Uno de los principales aspectos que ha afectado la operatividad del Mercado de Oportunidad se relaciona al incumplimiento por parte de la ENEE de los requisitos necesarios establecidos en la regulación para su actuación dentro del ámbito del Mercado de Oportunidad, incumplimientos que se derivan del mantenimiento por parte de la ENEE de una estructura integrada verticalmente. A fin de sobrellevar este incumplimiento, la CREE mediante Resolución CREE-154 estableció la habilitación de esta empresa únicamente como agente distribuidor, siempre y cuando cumpla con los requisitos de participación establecidos en el marco normativo vigente para realizar transacciones en el MEO.
 
 Las acciones que se han llevado en el ámbito del Mercado de Oportunidad han mostrado tanto el ROM como la NTMEO requieren de ajustes a fin de hacer operativo el Mercado de Oportunidad. Por otro lado, de conformidad con lo establecido en la Resolución CREE-75 la vigencia de la Norma Técnica del Mercado Eléctrico de Oportunidad fue extendida hasta el treinta y uno (31) de diciembre de 2019 y dado que este mercado se considera fundamental para mantener la continuidad del suministro y las condiciones de calidad en las zonas de influencias de las centrales que operan en el mismo, se requiere que la CREE emita disposiciones que contribuyan al mejor funcionamiento del Mercado de Oportunidad y por ende, a mantener la continuidad y la calidad del servicio eléctrico.
 

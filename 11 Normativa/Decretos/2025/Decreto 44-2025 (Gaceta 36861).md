@@ -11,7 +11,7 @@ paginas: "A. 39 - 43"
 sumario: "Decretos Nos. 150-2022, 44-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250611-36861/download"
 extraido: "2026-11-10"
-huella: "0e725a24da840c2c"
+huella: "172c131039126cc6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 44-2025
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad a la Constitución de la República en sus Artículos: 59 establece que, “La persona humana, es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable…” y en el 328 que, “El sistema económico de Honduras se fundamenta en principios de eficiencia en la producción y justicia social en la distribución de la riqueza y el ingreso nacional, así como en la coexistencia armónica de los factores de la producción que hagan posible la dignificación del trabajo como fuente principal de la riqueza y como medio de realización de la persona humana”.
 
-CONSIDERANDO: Que el Código Tributario contenido el Decreto No.70-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016. En su Artículo 2, numeral 4), establece que: “La amnistía es un beneficio que se concede por Ley a los deudores tributarios, que tiene por objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria”, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
+CONSIDERANDO: Que el Código Tributario contenido el Decreto No. 70-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016. En su Artículo 2, numeral 4), establece que: “La amnistía es un beneficio que se concede por Ley a los deudores tributarios, que tiene por objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria”, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
 
 CONSIDERANDO: Que existen saldos contenidos en multas impuestas por órganos de la Administración Pública y en las municipalidades mismos que constituyen la obligación principal, sobre la cual se han generado penalidades contentivas de intereses y recargos, cuyo cumplimiento, alcanzaría la finalidad perseguida por las amnistías concedidas en este Decreto.
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- A M N I S T Í A T R I B U T A R I A
+ARTÍCULO 1.- AMNISTÍA TRIBUTARIA
 
 MUNICIPAL. Se concede el beneficio de AMNISTÍA en todas las municipalidades del país hasta el 30 de Septiembre del 2025, para el pago de intereses, multas y recargos causadas por la mora que vía administrativa o judicial esté acumulada al 31 de Diciembre de 2024, en el pago de todos los impuestos municipales, tasas y contribuciones, a las personas naturales o jurídicas, para que puedan enterar el pago de sus obligaciones tributarias, libres de intereses por mora, multas, cargos y recargos, en el período de vigencia del presente Decreto de Amnistía Tributaria Municipal, de conformidad con lo establecido en el mismo, se autoriza a las municipalidades para que dentro del período de vigencia de este Artículo puedan establecer los planes de pago, siempre que no sean mayores de Un (1) año.
 
@@ -53,7 +53,7 @@ ARTÍCULO 2.- AMNISTÍA PARA EL INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS).
 
 #### Artículo 3
 
-ARTÍCULO 3.- A M N I S T Í A E N E R G É T I C A .
+ARTÍCULO 3.- AMNISTÍA ENERGÉTICA .
 
 Conceder el beneficio de AMNISTÍA de multas, recargos e intereses, así como obligaciones accesorias pendientes de pago con la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE) adeudadas hasta el 31 de Diciembre de 2024. Las personas naturales o jurídicas que deseen acogerse a esta amnistía deben realizar el pago de los valores correspondientes de energía eléctrica sin la aplicación de recargos, multas e intereses en el tiempo comprendido entre la vigencia del presente Decreto hasta el 30 de Septiembre del año 2025. Para gozar del beneficio podrán suscribirse convenios de pago al amparo de la amnistía consignada en el presente Artículo con la vigencia y plazos que se determinen en el mismo.
 
@@ -65,7 +65,7 @@ ARTÍCULO 4.- AMNISTÍA VEHICULAR. Se concede el beneficio de AMNISTÍA a partir
 
 #### Artículo 5
 
-ARTÍCULO 5.- A M N I S T Í A E M P R E S A H O N D U R E Ñ A D E T E L E C O M U N I C A C I O N E S (HONDUTEL). Se concede el beneficio de amnistía a partir de la entrada en vigencia del presente Decreto hasta el 30 de Septiembre del año 2025, en el cual las personas naturales, jurídicas y todas las instituciones de la Administración Pública que mantienen obligaciones de pago pendientes con la EMPRESA HONDUREÑA DE TELECOMUNICACIONES (HONDUTEL) puedan:
+ARTÍCULO 5.- AMNISTÍA EMPRESA HONDUREÑA DE TELECOMUNICACIONES (HONDUTEL). Se concede el beneficio de amnistía a partir de la entrada en vigencia del presente Decreto hasta el 30 de Septiembre del año 2025, en el cual las personas naturales, jurídicas y todas las instituciones de la Administración Pública que mantienen obligaciones de pago pendientes con la EMPRESA HONDUREÑA DE TELECOMUNICACIONES (HONDUTEL) puedan:
 
 \1) Realizar el pago de los montos adeudados por los servicios que la Empresa brinda sin la aplicación de sanciones de multas, recargos o intereses;
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "3dd10bdac939891a"
+huella: "e8a5b8faf0963445"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-345-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencia d
 
 CONSIDERANDO: Que la Constitución de la República y la Ley General de Administración Pública, señalan que el Secretario de Estado podrá delegar temporalmente en los Subsecretarios de Estado, el ejercicio específico de funciones por efectos de oportunidad y conveniencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°.
-
-117-2022 de fecha veintitrés (23) de febrero del año dos mil veintidós (2022), se nombró al ciudadano Emilson Tobías Motiño Rodriguez, en el cargo de Sub Secretario de Estado en el Despacho de Relaciones Laborales.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 117-2022 de fecha veintitrés (23) de febrero del año dos mil veintidós (2022), se nombró al ciudadano Emilson Tobías Motiño Rodriguez, en el cargo de Sub Secretario de Estado en el Despacho de Relaciones Laborales.
 
 CONSIDERANDO: Que la Ciudadana Lesly Sarahí Cerna, en su condición de Secretaria de Estado, por motivos de viaje oficial fuera del país, la obliga a ausentarse del despacho desde el día seis (06) de junio al trece (13) de junio del año dos mil veintidós (2022).
 

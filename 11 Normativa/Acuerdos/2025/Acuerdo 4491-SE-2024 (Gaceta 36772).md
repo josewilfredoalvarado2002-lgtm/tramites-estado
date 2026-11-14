@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. 4491-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250221-36772/download"
 extraido: "2026-11-12"
-huella: "2769e3e133c8fc61"
+huella: "685a0a6b93c7fbeb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 4491-SE-2024
@@ -39,21 +39,15 @@ CONSIDERANDO: Que según el Reglamento de Educación Media, artículo 6, la Educ
 
 CONSIDERANDO: Que según el Reglamento de Educación Media, artículo 7, para ingresar a la Educación Media es requisito haber aprobado la Educación Básica.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo No. 1371-SE- 2014, artículo 7, del Reglamento de las diferentes Modalidades Educativas Alternativas para Jóvenes y Adultos, establece que los programas de educación para jóvenes y adultos, en la educación formal y no formal, podrán adoptar diferentes formas de entrega, entre ellas la Educación virtual y se regirá por el Acuerdo y Reglamento específico.
+CONSIDERANDO: Que el Acuerdo Ejecutivo No. 1371-SE-2014, artículo 7, del Reglamento de las diferentes Modalidades Educativas Alternativas para Jóvenes y Adultos, establece que los programas de educación para jóvenes y adultos, en la educación formal y no formal, podrán adoptar diferentes formas de entrega, entre ellas la Educación virtual y se regirá por el Acuerdo y Reglamento específico.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo No.
+CONSIDERANDO: Que el Acuerdo Ejecutivo No. 1371-SE-2014, artículo 13, establece que la Educación Virtual, posibilita procesos de aprendizaje y transmisión de conocimientos a cualquier persona joven o adulta que está interesada en educarse con autonomía y autorresponsabilidad, sin tener que trasladarse a un lugar determinado ni ajustarse a un horario específico.
 
-1371-SE-2014, artículo 13, establece que la Educación Virtual, posibilita procesos de aprendizaje y transmisión de conocimientos a cualquier persona joven o adulta que está interesada en educarse con autonomía y autorresponsabilidad, sin tener que trasladarse a un lugar determinado ni ajustarse a un horario específico.
-
-CONSIDERANDO: Que en el Acuerdo Ejecutivo 1361-SE- 2014 dice en su artículo 20, los Centros educativos virtuales son aquellos en que todo el proceso de aprendizaje se realiza mediante sistemas o formatos digitales. Los aprendizajes están sujetos a la certificación de calidad de conformidad con la Ley de Evaluación, Acreditación y Certificación y Equidad de Educación.
+CONSIDERANDO: Que en el Acuerdo Ejecutivo 1361-SE-2014 dice en su artículo 20, los Centros educativos virtuales son aquellos en que todo el proceso de aprendizaje se realiza mediante sistemas o formatos digitales. Los aprendizajes están sujetos a la certificación de calidad de conformidad con la Ley de Evaluación, Acreditación y Certificación y Equidad de Educación.
 
 POR TANTO:
 
-En uso de las facultades que le confiere la Ley y en aplicación de las disposiciones establecidas en los Artículos: N°.
-
-80, 151, 157,158, 159, 247 y 255 de la Constitución de la República; 1, 28, 29 reformado numeral 2), 36 numerales 1), 8) y 18); 116, 118, 119 y 122 de la Ley General de la Administración Pública; 5, 23, 27,29, 30 y 31 de la Ley Fundamental de Educación, Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Artículos 6,7 del Reglamento General de Educación Media. Artículo 7, 13. Del Acuerdo Ejecutivo No.
-
-1371-SE-2014. Del Reglamento de las diferentes Modalidades Educativas Alternativas para Jóvenes y Adultos. Acuerdo Ejecutivo No. 1361-SE-2014. Artículo 20. Del Reglamento de Centros Educativos.
+En uso de las facultades que le confiere la Ley y en aplicación de las disposiciones establecidas en los Artículos: N°. 80, 151, 157,158, 159, 247 y 255 de la Constitución de la República; 1, 28, 29 reformado numeral 2), 36 numerales 1), 8) y 18); 116, 118, 119 y 122 de la Ley General de la Administración Pública; 5, 23, 27,29, 30 y 31 de la Ley Fundamental de Educación, Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Artículos 6,7 del Reglamento General de Educación Media. Artículo 7, 13. Del Acuerdo Ejecutivo No. 1371-SE-2014. Del Reglamento de las diferentes Modalidades Educativas Alternativas para Jóvenes y Adultos. Acuerdo Ejecutivo No. 1361-SE-2014. Artículo 20. Del Reglamento de Centros Educativos.
 
 ACUERDA:
 

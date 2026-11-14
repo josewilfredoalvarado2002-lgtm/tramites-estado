@@ -8,10 +8,10 @@ gaceta_numero: 36659
 gaceta_fecha: "2024-10-08"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36659 (2024-10-08)|La Gaceta 36659]]"
 paginas: "A. 14 - 16"
-sumario: "Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo S.D.N. No. 167-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024PROGRAMA DE LA RED SOLIDARIAAcuerdo No. PRS-013-2024"
+sumario: "Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo S.D.N. No. 167-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024; PROGRAMA DE LA RED SOLIDARIA: Acuerdo No. PRS-013-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241008-36659/download"
 extraido: "2026-11-14"
-huella: "23a34ebbf1fe3175"
+huella: "5a278c850d81064d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. PRS-013-2024
@@ -23,13 +23,13 @@ huella: "23a34ebbf1fe3175"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36659 (2024-10-08)\|La Gaceta 36659]] del 2024-10-08 |
 | Páginas | A. 14 - 16 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo S.D.N. No. 167-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024PROGRAMA DE LA RED SOLIDARIAAcuerdo No. PRS-013-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo S.D.N. No. 167-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024; PROGRAMA DE LA RED SOLIDARIA: Acuerdo No. PRS-013-2024 |
 
 ## Texto
 
 EL DIRECTOR EJECUTIVO DEL PROGRAMA DE LA RED SOLIDARIA
 
-CONSIDERANDO: Que mediante Acuerdo número PRS- 03-2023 de fecha dos (02) de agosto del año dos mil veintitrés (2023) fue aprobado por el Director Ejecutivo Ad-Honorem del Programa de la Red Solidaria el Reglamento de Becas Solidarias.
+CONSIDERANDO: Que mediante Acuerdo número PRS-03-2023 de fecha dos (02) de agosto del año dos mil veintitrés (2023) fue aprobado por el Director Ejecutivo Ad-Honorem del Programa de la Red Solidaria el Reglamento de Becas Solidarias.
 
 CONSIDERANDO: Que la población escolar en condición de pobreza y pobreza extrema registrada por el Observatorio de Desarrollo Social (ODS) en la base de datos SIRBHO (2024), asciende a 315,844 niños, niñas y jóvenes matriculados en centros educativos gubernamentales en las aldeas focalizadas de la Red Solidaria.
 
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el gobierno de la Presidenta Iris Xiomara Castro restituye los
 
 CONSIDERANDO: Que las cifras descritas en el los considerandos anteriores destacan la necesidad urgente de desarrollar estrategias de protección de la trayectoria educativa. En la mayoría de los hogares focalizados, hay más de un menor en edad escolar (en promedio entre 3 y 4), y las familias no pueden cubrir los costos educativos de todos ellos. Como resultado, al menos uno de estos menores queda excluido de su derecho a la educación, es necesario reformar el acápite segundo de la sección denominado Acuerda y el artículo 5 del Acuerdo número PRS-03-2023 Reglamento de Becas Solidarias, en lo referente a los fondos, incluyendo monto y cobertura de las becas.
 
-CONSIDERANDO: Que para la reforma del Acuerdo No.
-
-PRS-03-2023 Reglamento de Becas Solidarias, se emitieron los correspondientes dictámenes técnicos financieros, los cuales determinan la procedencia del presente acto administrativo.
+CONSIDERANDO: Que para la reforma del Acuerdo No. PRS-03-2023 Reglamento de Becas Solidarias, se emitieron los correspondientes dictámenes técnicos financieros, los cuales determinan la procedencia del presente acto administrativo.
 
 POR TANTO: En uso de las facultades de que está investido y en aplicación de los artículos 1, 59, 151 y 153 de la Constitución de la República; 7, 43, 116, 118 numeral 2) y 122 de la Ley General de la Administración Pública; 42 de la Ley de Procedimiento Administrativo; 12 del Decreto Ejecutivo número PCM 05-2022; 1, 12 numeral 11) y 31 numeral 3) del Decreto Ejecutivo número PCM 08-2022.
 
@@ -51,7 +49,7 @@ PRIMERO: Reformar el acápite SEGUNDO de la sección denominado ACUERDA del Acue
 
 Este fondo está destinado a otorgar treinta mil becas (30,000) en 2023 y 50,000 becas a partir de 2024, con la finalidad de promover la permanencia y avance exitoso de la trayectoria escolar de educandos de Educación Básica I-II y III ciclo (1ero a 9no grado) y Educación Media (10mo, 11mo y 12mo) del componente formal del Sistema Educativo Nacional y que se encuentren en condición de pobreza y pobreza extrema residentes en aldeas focalizadas por la Red Solidaria”.
 
-SEGUNDO: Reformar el artículo 5 del Acuerdo número PRS- 03-2023, contenido en el Reglamento de Becas Solidarias del Programa de la Red Solidaria, de fecha dos (02) de agosto del año dos mil veintitrés y publicado en el Diario Oficial La Gaceta, el dieciséis de noviembre del año dos mil veintitrés (2023), el que se leerá de la siguiente forma:
+SEGUNDO: Reformar el artículo 5 del Acuerdo número PRS-03-2023, contenido en el Reglamento de Becas Solidarias del Programa de la Red Solidaria, de fecha dos (02) de agosto del año dos mil veintitrés y publicado en el Diario Oficial La Gaceta, el dieciséis de noviembre del año dos mil veintitrés (2023), el que se leerá de la siguiente forma:
 
 “Artículo 5.- Monto: La Beca Solidaria se otorgará por un monto de L2,000, en 2023, en atención a la disponibilidad presupuestaria y a partir del 2024, se incrementará el monto a L5,000, acreditado en un solo pago, a la madre, padre, tutor o encargado del menor beneficiado; de acuerdo con la programación realizada por el Eje de Educación del Programa de la Red Solidaria”.
 

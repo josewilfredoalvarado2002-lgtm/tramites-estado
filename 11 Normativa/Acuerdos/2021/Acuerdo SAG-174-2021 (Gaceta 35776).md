@@ -11,7 +11,7 @@ paginas: "A. 1 - 19"
 sumario: "Acuerdo No. SAG-174-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211119-35776/download"
 extraido: "2026-11-14"
-huella: "a0f8f7d2e42406ce"
+huella: "82c1414e962e1772"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-174-2021
@@ -295,7 +295,7 @@ A. Políticas, herramientas e instrumentos que fortalezcan el sector apícola ho
 
 Capital Humano, 4. Tecnología Apícola y Mercadeo y 5. Reglamentación, Normalización y Evaluación de la Conformidad.
 
-• Elaboración los POA Cosechas: 2020-2021 y 2021- 2022.
+• Elaboración los POA Cosechas: 2020-2021 y 2021-2022.
 
 • Elaborar Reglamento del CNCA.
 
@@ -377,7 +377,7 @@ CLÁUSULA SEXTA PLAN DE ACCIÓN Y CRONOGRAMA 2020-2022
 
 Las acciones aquí establecidas son de carácter dinámico, sujetas a acuerdos específicos futuros que con base en evaluaciones objetivas los desarrollen, amplíen, modifiquen, sustituyan o complementen de la manera que mejor convenga al logro de los propósitos establecidos.
 
-Proceso de inscripción para la exoneración de impuesto a apicultores X X X X X X PRONAGRO Socialización e implementación de Normas Técnicas (Miel, Polen y Propóleo) y reglamentos de SENASA Creación de la Unidad Apícola para vigilancia y de enfermedades, programas sanitarios Elaboración, aprobación y socialización del Plan de Implementación del Sistema Nacional de Rastreabilidad o Trazabilidad Apícola Elaboración de los Manuales de Procedimientos del SINAR - API1 Diseño y adaptación de la plataforma SARB (Sistema Armonizado de Rastreabilidad Bovina) para el rubro apícola.
+Proceso de inscripción para la exoneración de impuesto a apicultores XXX XXX PRONAGRO Socialización e implementación de Normas Técnicas (Miel, Polen y Propóleo) y reglamentos de SENASA Creación de la Unidad Apícola para vigilancia y de enfermedades, programas sanitarios Elaboración, aprobación y socialización del Plan de Implementación del Sistema Nacional de Rastreabilidad o Trazabilidad Apícola Elaboración de los Manuales de Procedimientos del SINAR - API1 Diseño y adaptación de la plataforma SARB (Sistema Armonizado de Rastreabilidad Bovina) para el rubro apícola.
 
 X X X
 
@@ -393,15 +393,15 @@ X X
 
 OIRSA-SENASA
 
-SENASA, UNEAPIHL y Proveedores X X X X X Elaborar un Programa de muestreo a nivel nacional de plagas y enfermedades apícolas, de acuerdo a las directrices o lineamientos internacionales de la Organización Mundial de Sanidad Animal (OIE) Implementar las pruebas de análisis que exigen los mercados internacionales, principalmente los residuos de plaguicidas y medicamentos veterinarios.
+SENASA, UNEAPIHL y Proveedores XXXXX Elaborar un Programa de muestreo a nivel nacional de plagas y enfermedades apícolas, de acuerdo a las directrices o lineamientos internacionales de la Organización Mundial de Sanidad Animal (OIE) Implementar las pruebas de análisis que exigen los mercados internacionales, principalmente los residuos de plaguicidas y medicamentos veterinarios.
 
 Reglamentar la protección del bosque y la delimitación de propiedades con plantas de interés apícola a través de ordenanzas municipales Incidir en la Comisión de Agricultura del Congreso Nacional para promulgar leyes que protejan a las abejas.
 
-X X SENASA y UNEAPIHL X X X X
+X X SENASA y UNEAPIHL XXXX
 
 SENASA-LANAR
 
-Alcaldías Municipales, X X X X X X programas y proyectos apícolas Comité Nacional de la X X X X X X Cadena Apícola
+Alcaldías Municipales, XXX XXX programas y proyectos apícolas Comité Nacional de la XXX XXX Cadena Apícola
 
 CLÁUSULA SÉPTIMA COMPROMISO DE LAS PARTES
 

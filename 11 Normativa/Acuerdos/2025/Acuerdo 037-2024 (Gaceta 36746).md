@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 037-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250122-36746/download"
 extraido: "2026-11-13"
-huella: "7e5e98bb9985bdc7"
+huella: "84d0fe8c1eaa75e9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 037-2024
@@ -29,7 +29,7 @@ huella: "7e5e98bb9985bdc7"
 
 INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-“ E S T R A T E G I A N A C I O N A L P A R A L A CONSERVACIÓN Y APROVECHAMIENTO DE LA VIDA SILVESTRE, PROMOCIONANDO ALTERNATIVAS PARA LA GENERACIÓN DE EMPLEOS (ENCOAVIS)”
+“ ESTRATEGIA NACIONAL PARA LA CONSERVACIÓN Y APROVECHAMIENTO DE LA VIDA SILVESTRE, PROMOCIONANDO ALTERNATIVAS PARA LA GENERACIÓN DE EMPLEOS (ENCOAVIS)”
 
 CONSIDERANDO(01): Que, el Departamento de Vida Silvestre mediante Memorándum ICF-DVS-171-2024 de fecha once (11) de junio del dos mil veinticuatro (2024) y Memorándum ICF-DVS-175-2024 recibido en fecha doce
 
@@ -51,7 +51,7 @@ Género e Inclusión, Cambio Climático y Gobernanza.
 
 CONSIDERANDO(04):Que, LA “ESTRATEGIA
 
-N A C I O N A L P A R A L A C O N S E R V A C I Ó N Y A P R O V E C H A M I E N T O D E L A V I D A SILVESTRE,PROMOCIONANDO ALTERNATIVAS PARA LA GENERACIÓN DE EMPLEOS (ENCOAVIS)”, también contempla objetivos estratégicos, sus resultados y metas estratégicas, siendo los siguientes: Objetivo Estratégico 1 (OE1): Reducir la presión sobre la vida silvestre, aprovechándola de manera sostenible; Objetivo Estratégico 2 (OE2): Fortalecer la gestión y el manejo técnico administrativo de la vida silvestre; Objetivo Estratégico 3 (OE3): Promover las condiciones favorables para la generación de oportunidades de empleo verde; Objetivo Estratégico 4 (OE4): Contribuir al mejor conocimiento y valoración de la vida silvestre entre los usuarios y la población en general. Cada uno de estos objetivos, contienen metas estratégicas de cumplimiento.
+NACIONAL PARA LA CONSERVACIÓN Y APROVECHAMIENTO DE LA VIDA SILVESTRE,PROMOCIONANDO ALTERNATIVAS PARA LA GENERACIÓN DE EMPLEOS (ENCOAVIS)”, también contempla objetivos estratégicos, sus resultados y metas estratégicas, siendo los siguientes: Objetivo Estratégico 1 (OE1): Reducir la presión sobre la vida silvestre, aprovechándola de manera sostenible; Objetivo Estratégico 2 (OE2): Fortalecer la gestión y el manejo técnico administrativo de la vida silvestre; Objetivo Estratégico 3 (OE3): Promover las condiciones favorables para la generación de oportunidades de empleo verde; Objetivo Estratégico 4 (OE4): Contribuir al mejor conocimiento y valoración de la vida silvestre entre los usuarios y la población en general. Cada uno de estos objetivos, contienen metas estratégicas de cumplimiento.
 
 Que, en cuanto a sus anexos corre adjunto el formato de “Instrumento de Recolección de Información a Nivel de Actores”, el cual es aplicable al Anexo N°2 contentivo en las listas del Mapeo referente a Actores y Proyectos vinculados con la conservación, aprovechamiento y protección de la vida silvestre y que están generando empleo. En ese sentido, los actores identificados se clasifican de la siguiente manera: a) Según el tipo de Institución/Actor: Instituciones públicas, municipales y locales; Instituciones Privadas y Organizaciones No Gubernamentales y Actores Individuales.
 

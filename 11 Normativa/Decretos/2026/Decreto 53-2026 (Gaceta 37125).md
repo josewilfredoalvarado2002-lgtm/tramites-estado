@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Decretos Nos. 53-2026, 61-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260424-37125/download"
 extraido: "2026-11-09"
-huella: "e62ac7484190e9cb"
+huella: "74c88a97574f2d0c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 53-2026
@@ -69,7 +69,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

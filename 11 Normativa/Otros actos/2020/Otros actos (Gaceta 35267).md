@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SEN-008-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200529-35267-2/download"
 extraido: "2026-11-14"
-huella: "439de949f572d910"
+huella: "694157adf6cd9bc1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SEN-008-2020
@@ -35,15 +35,15 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que el Decreto Legislativo No. 94 publicado en el Diario Oficial La Gaceta el 18 de mayo de 1983, faculta a la Comisión Administradora del Petróleo, para determinar los procedimientos y mecanismos que faciliten el suministro, almacenamiento y distribución de todos los productos derivados del petróleo.
 
-CONSIDERANDO: Que mediante Decreto No. 144- 2007 publicado el 31 de diciembre de 2007, se designa a la Secretaría de Estado en los Despachos de Industria y Comercio (SIC), para la aplicación en todo lo relativo al fomento, promoción, comercialización, distribución y almacenaje de los biocombustibles, creándose para tal efecto la Unidad Técnica de Biocombustibles (UTB), adscrita a dicha Secretaría.
+CONSIDERANDO: Que mediante Decreto No. 144-2007 publicado el 31 de diciembre de 2007, se designa a la Secretaría de Estado en los Despachos de Industria y Comercio (SIC), para la aplicación en todo lo relativo al fomento, promoción, comercialización, distribución y almacenaje de los biocombustibles, creándose para tal efecto la Unidad Técnica de Biocombustibles (UTB), adscrita a dicha Secretaría.
 
 CONSIDERANDO: Que mediante Acuerdo 45-2008 publicado en el Diario Oficial La Gaceta el 13 de febrero de 2009, se establece que para gozar de los beneficios otorgados por la Ley para Producción y Consumo de Biocombustibles, la Unidad Técnica de Biocombustibles
 
-(UTB) debe realizar las inspecciones y auditorías entre otros, a los beneficiarios de los incentivos otorgados por la Ley , para verificar el buen uso de los mismos y las condiciones para seguir gozando de ellos.
+(UTB) debe realizar las inspecciones y auditorías entre otros, a los beneficiarios de los incentivos otorgados por la Ley, para verificar el buen uso de los mismos y las condiciones para seguir gozando de ellos.
 
-CONSIDERANDO: Que mediante Decreto PCM- 048-2017 publicado el 07 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía (SEN), como la institución rectora del sector energético nacional y de la integración energética regional e internacional, a cargo de las estrategias y políticas del sector energético y dentro de éste, del control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos. Estableciendo dicho decreto que la Comisión Administradora del Petróleo y todos sus Derivados (CAP) y la Unidad Técnica de Biocombustibles (UTB), quedan suprimidas como parte de la Secretaría de Desarrollo Económico y pasan a ser parte de la Secretaría de Energía.
+CONSIDERANDO: Que mediante Decreto PCM-048-2017 publicado el 07 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía (SEN), como la institución rectora del sector energético nacional y de la integración energética regional e internacional, a cargo de las estrategias y políticas del sector energético y dentro de éste, del control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos. Estableciendo dicho decreto que la Comisión Administradora del Petróleo y todos sus Derivados (CAP) y la Unidad Técnica de Biocombustibles (UTB), quedan suprimidas como parte de la Secretaría de Desarrollo Económico y pasan a ser parte de la Secretaría de Energía.
 
-CONSIDERANDO: Que mediante Acuerdo SEN-001- 2020 publicado en el Diario Oficial La Gaceta el 29 de enero de 2020, señala que la Secretaría de Estado en el Despacho de Energía por medio de la Comisión Administradora del Petróleo y todos sus Derivados (CAP), es la institución competente para autorizar registros, permisos de instalación, ampliación, operación y comercialización a toda persona natural o jurídica que almacene o realice actos de comercio relacionados con Hidrocarburos.
+CONSIDERANDO: Que mediante Acuerdo SEN-001-2020 publicado en el Diario Oficial La Gaceta el 29 de enero de 2020, señala que la Secretaría de Estado en el Despacho de Energía por medio de la Comisión Administradora del Petróleo y todos sus Derivados (CAP), es la institución competente para autorizar registros, permisos de instalación, ampliación, operación y comercialización a toda persona natural o jurídica que almacene o realice actos de comercio relacionados con Hidrocarburos.
 
 CONSIDERANDO: Que mediante Decreto No. 33-2020 publicado en el Diario Oficial La Gaceta el 03 de abril de 2020, se establece la simplificación administrativa en la implementación de mecanismos de comercio, autorización a la importación de materias primas e insumos en zonas libres con el fin de permitir la continuidad del Estado.
 
@@ -57,9 +57,7 @@ En aplicación de los Artículos 245 párrafo primero numerales 11 y 30, 247 y 2
 
 Decreto Legislativo No. 94 de fecha 28 de abril de 1983 publicado en el Diario Oficial La Gaceta el 18 de mayo de 1983; Acuerdo Ejecutivo No. 25-2007 publicado en el Diario Oficial La Gaceta el 09 de noviembre de 2007;
 
-Acuerdo Ejecutivo 47-2009 publicado el 17 de octubre de 2009; Acuerdo Ejecutivo 48-2009 publicado el 17 de octubre de 2009; Acuerdo 45-2008 publicado en el Diario Oficial La Gaceta el 13 de febrero de 2009; Decreto Ejecutivo número PCM 048-2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017; Acuerdo SEN-002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019; Acuerdo SEN-001-2020 publicado el 29 de enero de 2020; Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020; Decreto Legislativo No.
-
-33-2020 publicado en el Diario Oficial La Gaceta el 03 de abril de 2020; y demás aplicables.
+Acuerdo Ejecutivo 47-2009 publicado el 17 de octubre de 2009; Acuerdo Ejecutivo 48-2009 publicado el 17 de octubre de 2009; Acuerdo 45-2008 publicado en el Diario Oficial La Gaceta el 13 de febrero de 2009; Decreto Ejecutivo número PCM 048-2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017; Acuerdo SEN-002-2019 publicado en el Diario Oficial La Gaceta el 10 de abril de 2019; Acuerdo SEN-001-2020 publicado el 29 de enero de 2020; Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020; Decreto Legislativo No. 33-2020 publicado en el Diario Oficial La Gaceta el 03 de abril de 2020; y demás aplicables.
 
 ACUERDA:
 
@@ -75,7 +73,7 @@ Para tal efecto y en consideración a que los interesados no puedan presentar to
 
 1. Aquellos Agentes Operadores que al momento de la entrada en vigencia del presente Acuerdo cuenten con la Resolución de Autorización del Registro de Importadores, Reexportadores y Distribuidores de Productos Derivados del Petróleo y Gas Licuado del Petróleo, Envasadores de Gas Licuado del Petróleo y Bombas de Patio o Depósitos para Consumo Propio autorizado por la Secretaría de Estado en el Despacho de Energía a través de la Comisión Administradora del Petróleo bajo el Acuerdo Ejecutivo 48-2009 publicado el 17 de octubre de 2009, dicha resolución contará como un permiso de Operación y Comercialización.
 
-2. Medida Transitoria: Aquellos Agentes Operadores que al momento de la entrada en vigencia del presente acuerdo, hayan ingresado ante la Secretaría de Estado en el Despacho de Energía (SEN) solicitud para registros de la figura, permiso de instalación, permiso de operación y comercialización, permisos especiales e inscripciones, siendo éstas ingresados en base a el Acuerdo Ejecutivo 48-2009 publicado el 17 de octubre de 2009 o al Acuerdo SEN-001- 2020 publicado el 29 de enero de 2020, podrán solicitar una Constancia de Inicio de Trámite, la cual contará como un Permiso Provisional y será suficiente para acreditar ante empresas u otras instituciones la inscripción ante la Secretaría de Energía.
+2. Medida Transitoria: Aquellos Agentes Operadores que al momento de la entrada en vigencia del presente acuerdo, hayan ingresado ante la Secretaría de Estado en el Despacho de Energía (SEN) solicitud para registros de la figura, permiso de instalación, permiso de operación y comercialización, permisos especiales e inscripciones, siendo éstas ingresados en base a el Acuerdo Ejecutivo 48-2009 publicado el 17 de octubre de 2009 o al Acuerdo SEN-001-2020 publicado el 29 de enero de 2020, podrán solicitar una Constancia de Inicio de Trámite, la cual contará como un Permiso Provisional y será suficiente para acreditar ante empresas u otras instituciones la inscripción ante la Secretaría de Energía.
 
 3. Medida Transitoria: Aquellos Agentes Operadores que al momento de la entrada en vigencia del presente acuerdo, no hayan ingresado ante la Secretaría de Estado en el Despacho de Energía
 

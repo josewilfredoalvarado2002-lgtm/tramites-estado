@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Ejecutivos números PCM- 072-2021, 080-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210813-35686/download"
 extraido: "2026-11-14"
-huella: "2dc5054355443056"
+huella: "e1a0643e9e546ad0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-072-2021
@@ -39,9 +39,9 @@ Artículo 11 de la Ley General de la Administración Pública, el Presidente de 
 
 CONSIDERANDO: Que el Artículo 14 numeral 4 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, establece que el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada las normas requeridas para reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,417, reformado por los Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM- 116-2020, en virtud del cual se declara Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del País a nivel nacional. Misma que tendrá vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
+CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,417, reformado por los Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020, en virtud del cual se declara Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del País a nivel nacional. Misma que tendrá vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
 
-CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-147-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del año 2020, Edición No. 35,472, se prorroga la vigencia de la declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”, hasta el treinta y uno (31) de diciembre del año dos mil veintiuno (2021), decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109- 2020, reformado mediante los Decretos Ejecutivos números:
+CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-147-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del año 2020, Edición No. 35,472, se prorroga la vigencia de la declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”, hasta el treinta y uno (31) de diciembre del año dos mil veintiuno (2021), decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109-2020, reformado mediante los Decretos Ejecutivos números:
 
 PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
@@ -61,7 +61,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 245 numerales 2, 11 y 45, 248, 252, 255, 321 y 323 de la Constitución de la República; Artículos 11, 14 numeral 4), 17, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 286-2009;
 
-Decreto Ejecutivo Número PCM- 109-2020, reformado por los Decretos Ejecutivos Números: PCM-112-2020, PCM-115- 2020 y PCM-116-2020; Artículo 12 del Decreto Ejecutivo Número PCM-141-2020; Decreto Ejecutivo Número PCM- 147-2020 y Decreto Ejecutivo Número PCM-007-2021.
+Decreto Ejecutivo Número PCM-109-2020, reformado por los Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020; Artículo 12 del Decreto Ejecutivo Número PCM-141-2020; Decreto Ejecutivo Número PCM-147-2020 y Decreto Ejecutivo Número PCM-007-2021.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 0687-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230803-36298/download"
 extraido: "2026-11-14"
-huella: "84b8a1385c274f41"
+huella: "90f73ec1392f4972"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0687-SE-2023
@@ -45,7 +45,7 @@ ACUERDA
 
 #### Artículo 1-
 
-Artículo 1-. Reformar los artículos: 15, inciso a) y b) del Capítulo IV DE LAS BECAS A EDUCANDOS; y 22 del Capítulo VI BECAS ESPECIFICAS O DIFERENCIADAS del Reglamento de Becas, contenida en el Acuerdo No.0573-SE-2022, de fecha 17 de junio de 2022, los cuales se deben leer de la manera siguiente:
+Artículo 1-. Reformar los artículos: 15, inciso a) y b) del Capítulo IV DE LAS BECAS A EDUCANDOS; y 22 del Capítulo VI BECAS ESPECIFICAS O DIFERENCIADAS del Reglamento de Becas, contenida en el Acuerdo No. 0573-SE-2022, de fecha 17 de junio de 2022, los cuales se deben leer de la manera siguiente:
 
 CAPITULO IV DE LAS BECAS A EDUCANDOS
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución número 168-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200121-35154/download"
 extraido: "2026-11-14"
-huella: "36d57c23abc34fd7"
+huella: "8b136abb737293d4"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Resolución número 168-2019
@@ -27,7 +27,7 @@ huella: "36d57c23abc34fd7"
 
 ## Texto
 
-Secretaría de Gobernación, Justicia y Descentralización C E R T I F I C A C I Ó N El infrascrito, Secretario General de la Secretaría de Estado de Gobernación, Justicia y Descentralización. CERTIFICA:
+Secretaría de Gobernación, Justicia y Descentralización CERTIFICACIÓN El infrascrito, Secretario General de la Secretaría de Estado de Gobernación, Justicia y Descentralización. CERTIFICA:
 
 La Resolución que literalmente dice: “RESOLUCIÓN No. 168-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, 28 de enero de 2019.
 
@@ -49,7 +49,7 @@ QUINTO: La Ley Marco del Sector de Agua Potable y Saneamiento en su artículo 18
 
 SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL HIGUITO, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
 
-SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No.165-2019 de fecha 28 de enero del año 2019, se pronunció en el sentido de: “…Que en virtud de ser procedente la petición formulada por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL HIGUITO, salvo mejor criterio, se dicte resolución, concediendo la PERSONALIDAD JURIDICA a favor de su representada, de generales expresadas en el preámbulo de esta solicitud…”.
+SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No. 165-2019 de fecha 28 de enero del año 2019, se pronunció en el sentido de: “…Que en virtud de ser procedente la petición formulada por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL HIGUITO, salvo mejor criterio, se dicte resolución, concediendo la PERSONALIDAD JURIDICA a favor de su representada, de generales expresadas en el preámbulo de esta solicitud…”.
 
 OCTAVO: Que de acuerdo a lo establecido en los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE EL HIGUITO, la Asamblea General, es la máxima autoridad de la junta y expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad.
 

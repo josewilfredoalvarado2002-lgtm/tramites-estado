@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdo No. 14-2022, 15-2022, 198-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220604-35941/download"
 extraido: "2026-11-14"
-huella: "3173d9202010fa6b"
+huella: "53e7af7181f84db1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 15-2022
@@ -37,9 +37,7 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, establece que corresponde a los Secretario de Estado, el conocimiento y resolución de los asuntos del ramo, pudiendo delegar en los Subsecretarios, Secretarios Generales y Directores Generales el ejercicio de atribuciones específicas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-2-2022 de fecha 27 de enero de 2022, se nombró al ciudadano CELSO DONADIN ALVARADO HERNANDEZ, como Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 2-2022 de fecha 27 de enero de 2022, se nombró al ciudadano CELSO DONADIN ALVARADO HERNANDEZ, como Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 POR TANTO;
 

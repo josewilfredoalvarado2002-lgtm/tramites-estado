@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Acuerdo No. 015-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210127-35499/download"
 extraido: "2026-11-14"
-huella: "3d64d745eafc0847"
+huella: "bf8344a4db1c47dd"
 ---
 <!-- portal:inicio -->
 # ACUERDO 015-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: El Acuerdo N°. 009-2011, mediante el cual se aprueba el Manual de
 
 CONSIDERANDO: El Acuerdo 026-A-2013, mediante el cual se aprueba la ENFC, establece entre uno de sus ejes estratégicos el Manejo Integral del Bosque, el CMFC determina los derechos, obligaciones y prohibiciones de las comunidades organizadas beneficiarias del SSF y establece la seguridad jurídica de la inversión, tenencia y regularización en el área forestal asignada. El incumplimiento del manejo y protección, así como lo estipulado en el CMFC serán sancionados de acuerdo a lo establecido en la Ley Forestal y su Reglamento.
 
-CONSIDERANDO: Que el Contrato de Manejo Forestal Comunitario (CMFC), es el mecanismo establecido por el ICF, en el marco de la implementación de la Ley Forestal, Áreas Protegidas y Vida Silvestre y su Reglamento y la normativa técnica que se implementa a través del Acuerdo 009-2011, el Acuerdo 026 A-2013 y el Acuerdo 023- 2018. En este, se establecen las obligaciones, derechos y prohibiciones de la organización comunitaria, entre alguna de ellas se incluye: Cumplir las leyes generales y específicas, sus reglamentos y las disposiciones administrativas vigentes emitidas por ICF y lo establecido en la ENFC; diseñar e implementar en coordinación con el ICF, los mecanismos que permitan transparentar todas las actividades administrativas, productivas y de comercialización de los productos provenientes del área comunitaria; de igual forma debe de eficientar la cadena de producción, procurando el mayor valor agregado y el mejor precio nacional o internacional.
+CONSIDERANDO: Que el Contrato de Manejo Forestal Comunitario (CMFC), es el mecanismo establecido por el ICF, en el marco de la implementación de la Ley Forestal, Áreas Protegidas y Vida Silvestre y su Reglamento y la normativa técnica que se implementa a través del Acuerdo 009-2011, el Acuerdo 026 A-2013 y el Acuerdo 023-2018. En este, se establecen las obligaciones, derechos y prohibiciones de la organización comunitaria, entre alguna de ellas se incluye: Cumplir las leyes generales y específicas, sus reglamentos y las disposiciones administrativas vigentes emitidas por ICF y lo establecido en la ENFC; diseñar e implementar en coordinación con el ICF, los mecanismos que permitan transparentar todas las actividades administrativas, productivas y de comercialización de los productos provenientes del área comunitaria; de igual forma debe de eficientar la cadena de producción, procurando el mayor valor agregado y el mejor precio nacional o internacional.
 
 CONSIDERANDO: El SSF y su ENFC permite que las Organizaciones Agroforestales puedan comercializar los productos forestales que genera el bosque, en este caso la madera de pino; implementando procesos transparentes con el acompañamiento de la Asistencia Técnica del ICF, para poder efectuar el proceso de la comercialización ante personas interesadas en la compra de la misma, basado en el precio base de referencia con base al precio del mercado actual de la madera.
 
@@ -55,7 +55,7 @@ POR TANTO:
 
 La Dirección Ejecutiva en uso de las atribuciones que le confiere el artículo 340 de la Constitución de la República,
 
-Artículos 1, 2, 3, 11, 18, 19, 48, 70, 72, 77, 78, 90, 91, 96, 126, 127, 128, 129, 130, 131,y 132 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto Legislativo N°. 98- 2007); Artículos 1, 2 ,3, 4, 6, 7, 8, 9, 96, 97, 99, 100, 131, 133, 134, 135, 136, 137, 138, 139, 152, 153, 154, 156, 166, 169, 170,172, 173, 183, 184,189,192, 195, 196,197, 200, 458 al 464 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Acuerdo Ejecutivo N°. 31-2010).
+Artículos 1, 2, 3, 11, 18, 19, 48, 70, 72, 77, 78, 90, 91, 96, 126, 127, 128, 129, 130, 131,y 132 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto Legislativo N°. 98-2007); Artículos 1, 2,3, 4, 6, 7, 8, 9, 96, 97, 99, 100, 131, 133, 134, 135, 136, 137, 138, 139, 152, 153, 154, 156, 166, 169, 170,172, 173, 183, 184,189,192, 195, 196,197, 200, 458 al 464 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Acuerdo Ejecutivo N°. 31-2010).
 
 ACUERDA:
 

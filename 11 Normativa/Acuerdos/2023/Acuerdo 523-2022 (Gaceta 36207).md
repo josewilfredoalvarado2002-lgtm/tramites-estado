@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Números 014-2023, 119-2023 Acuerdos Ejecutivos Números 523-2022, 524-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230419-36207/download"
 extraido: "2026-11-14"
-huella: "8fda331dd07c0414"
+huella: "a9c76716c61378e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 523-2022
@@ -43,7 +43,7 @@ Que el Gobierno de la República ha expuesto la crítica situación en que recib
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004, que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004, que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -65,7 +65,7 @@ CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secr
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
+Que el Decreto Legislativo No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decretos Ejecutivos Nos. PCM-019-2026, PCM-021-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261112-27293/download"
 extraido: "2026-11-13"
-huella: "ab461768f95c78fc"
+huella: "6dac4feadfbae88e"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-019-2026
@@ -49,7 +49,7 @@ CONSIDERANDO: Que resulta necesario sustituir dicho Comité por una única Comis
 
 CONSIDERANDO: Que, conforme al diagnóstico conjunto de la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA), el Instituto de Conservación Forestal, Áreas Protegidas y Vida Silvestre (ICF) y la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA), contenido en los informes técnicos, dictámenes o comunicaciones oficiales establece la identificación de los puntos críticos que requieren intervención, las necesidades operacionales y los costos estimados para implementar medidas inmediatas de vigilancia, protección y recuperación de la Reserva del Hombre y la Biosfera del Río Plátano, así como los requerimientos de personal, movilización, equipamiento, comunicaciones, abastecimiento y funcionamiento de los destacamentos necesarios para su ejecución.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 41- 2011, publicado en “La Gaceta” de fecha 27 de junio de 2011, autoriza la creación de la Unidad Especializada en Materia de Ecosistema y Ambiente; y, el Acuerdo S.D.N.
+CONSIDERANDO: Que el Decreto Legislativo No. 41-2011, publicado en “La Gaceta” de fecha 27 de junio de 2011, autoriza la creación de la Unidad Especializada en Materia de Ecosistema y Ambiente; y, el Acuerdo S.D.N.
 
 No. 049-2025, de 20 de marzo de 2025, publicado en “La Gaceta” de fecha 7 de abril de 2025, aprueba su reglamento de funcionamiento y establece la denominación de “Comando de Apoyo al Manejo de Ecosistemas y Ambiente”, por sus siglas CAMEA, dependiente de la Jefatura del Estado Mayor Conjunto.
 
@@ -63,7 +63,7 @@ CONSIDERANDO: Que la emergencia debe distinguirse del programa de recuperación 
 
 POR TANTO;
 
-En aplicación de los Artículos 245, Numerales 2, 11, 19 y 20, 252, 274, 321, 340, 346, 355, 360, 363 y 364 de la Constitución de la República; 7, 11, 106 a 115, 116, 117 y 119 de la Ley General de la Administración Pública; 32 de la Ley de Procedimiento Administrativo; 9, 10, 11 y 63, Numeral 1, de la Ley de Contratación del Estado y 169, 170 y 171 de su Reglamento; la Ley General del Ambiente; la Ley Forestal, Áreas Protegidas y Vida Silvestre y sus reformas; la Ley Orgánica del Presupuesto y sus reformas; el Decreto Legislativo No. 62-2026 y las disposiciones presupuestarias aplicables a cada ejercicio fiscal; el Decreto Ley No. 977- 80; los Decretos Legislativos Nos. 170-97 y 41-2011; y, el Acuerdo S.D.N. No. 049-2025.
+En aplicación de los Artículos 245, Numerales 2, 11, 19 y 20, 252, 274, 321, 340, 346, 355, 360, 363 y 364 de la Constitución de la República; 7, 11, 106 a 115, 116, 117 y 119 de la Ley General de la Administración Pública; 32 de la Ley de Procedimiento Administrativo; 9, 10, 11 y 63, Numeral 1, de la Ley de Contratación del Estado y 169, 170 y 171 de su Reglamento; la Ley General del Ambiente; la Ley Forestal, Áreas Protegidas y Vida Silvestre y sus reformas; la Ley Orgánica del Presupuesto y sus reformas; el Decreto Legislativo No. 62-2026 y las disposiciones presupuestarias aplicables a cada ejercicio fiscal; el Decreto Ley No. 977-80; los Decretos Legislativos Nos. 170-97 y 41-2011; y, el Acuerdo S.D.N. No. 049-2025.
 
 DECRETA:
 
@@ -99,7 +99,7 @@ INTERVENCIÓN. ICF y SERNA, con apoyo de SEDENA, identificarán los sitios crít
 
 ARTÍCULO 5.- COMISIÓN INTERINSTITUCIONAL.
 
-Créase la Comisión Interinstitucional para la Atención de la Emergencia Ambiental y la Protección Permanente de la Reserva del Hombre y la Biosfera del Río Plátano, en adelante LA COMISIÓN, como único órgano de coordinación interinstitucional que sustituye al Comité Técnico Ad Hoc creado y regulado por el Decreto Ejecutivo Número PCM-010- 2011 publicado en “La Gaceta” de fecha 22 de marzo de 2011 y, el Decreto Ejecutivo Número PCM-006-2013 publicado en “La Gaceta” de fecha 15 de marzo de 2013.
+Créase la Comisión Interinstitucional para la Atención de la Emergencia Ambiental y la Protección Permanente de la Reserva del Hombre y la Biosfera del Río Plátano, en adelante LA COMISIÓN, como único órgano de coordinación interinstitucional que sustituye al Comité Técnico Ad Hoc creado y regulado por el Decreto Ejecutivo Número PCM-010-2011 publicado en “La Gaceta” de fecha 22 de marzo de 2011 y, el Decreto Ejecutivo Número PCM-006-2013 publicado en “La Gaceta” de fecha 15 de marzo de 2013.
 
 LA COMISIÓN la integrarán la SERNA, que la presidirá;
 
@@ -269,11 +269,11 @@ La finalización de la emergencia extingue la habilitación excepcional para nue
 
 ARTÍCULO 21.- DEROGACIONES NORMATIVAS.
 
-Deróguense en su totalidad el Decreto Ejecutivo Número PCM-010-2011 publicado en “La Gaceta” de fecha 22 de marzo de 2011 y, el Decreto Ejecutivo Número PCM-006- 2013 publicado en “La Gaceta” de fecha 15 de marzo de 2013.
+Deróguense en su totalidad el Decreto Ejecutivo Número PCM-010-2011 publicado en “La Gaceta” de fecha 22 de marzo de 2011 y, el Decreto Ejecutivo Número PCM-006-2013 publicado en “La Gaceta” de fecha 15 de marzo de 2013.
 
 En consecuencia, queda suprimido el Comité Técnico Ad Hoc de carácter permanente previsto en dichas disposiciones y, sus funciones de coordinación y gestión serán asumidas por LA COMISIÓN en el ámbito establecido en este Decreto Ejecutivo.
 
-La derogación no reduce la protección de la Reserva, ni de las demás zonas de especial atención válidamente establecidas, cuya prioridad se mantiene por el Artículo 2 del presente Decreto Ejecutivo; no afecta los Decretos Legislativos de creación y delimitación de la Reserva, la Ley Forestal, Áreas Protegidas y Vida Silvestre, el Decreto Legislativo No. 41- 2011, el Acuerdo S.D.N. No. 049-2025, las competencias legales de los Consejos Consultivos Forestales, Áreas Protegidas y Vida Silvestre, creados mediante Artículo 21 y demás de la Ley Forestal, Áreas Protegidas y Vida Silvestre, entre ellos, el Consejo Consultivo Nacional Forestal Áreas Protegidas y Vida Silvestre (COCONAFOR) o las obligaciones internacionales del Estado.
+La derogación no reduce la protección de la Reserva, ni de las demás zonas de especial atención válidamente establecidas, cuya prioridad se mantiene por el Artículo 2 del presente Decreto Ejecutivo; no afecta los Decretos Legislativos de creación y delimitación de la Reserva, la Ley Forestal, Áreas Protegidas y Vida Silvestre, el Decreto Legislativo No. 41-2011, el Acuerdo S.D.N. No. 049-2025, las competencias legales de los Consejos Consultivos Forestales, Áreas Protegidas y Vida Silvestre, creados mediante Artículo 21 y demás de la Ley Forestal, Áreas Protegidas y Vida Silvestre, entre ellos, el Consejo Consultivo Nacional Forestal Áreas Protegidas y Vida Silvestre (COCONAFOR) o las obligaciones internacionales del Estado.
 
 LA COMISIÓN coordinará la continuidad de la atención de las otras zonas comprendidas en el régimen anterior con las autoridades competentes, bajo la normativa ordinaria y sin extender la emergencia. Los instrumentos internos del Comité Técnico Ad Hoc dejan de aplicarse como reglas de funcionamiento de dicho órgano suprimido; las autoridades que los emitieron deberán adecuarlos o dejarlos expresamente sin efecto en lo pertinente.
 

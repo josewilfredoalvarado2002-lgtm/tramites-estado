@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Ministeriales Nos. 206-2020, 207-2020, 208-2020, 209-2020, 210-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201028-35412/download"
 extraido: "2026-11-14"
-huella: "60370fa288226248"
+huella: "a4cd8b09e45a5e43"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 206-2020
@@ -31,9 +31,7 @@ LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre República Dominicana, Centroamérica y los Estados Unidos (RD-CAFTA) fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No.3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
 CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para los productos importados bajo contingentes al amparo del Tratado de Libre Comercio RDCAFTA, los importadores deberán contar con un certificado de importación válido y vigente, emitido por la Secretaría de Desarrollo Económico, por el volumen máximo ahí establecido.
 
@@ -43,9 +41,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, con fundamento
 
 Artículo 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo; Artículos 1, 2, 4, 6, 8, 9, 11, 12, literal
 
-a) y b) del 13, 15, 18, 19, 20 y 23 del Acuerdo Ejecutivo No.
-
-16-2006 de fecha 20 de marzo del 2006 y su reforma mediante Acuerdo Ejecutivo No. 126-2011 y Ordinales Primero, Segundo y Tercero del Acuerdo Ejecutivo No. 119-2006 del 11 de mayo del 2006.
+a) y b) del 13, 15, 18, 19, 20 y 23 del Acuerdo Ejecutivo No. 16-2006 de fecha 20 de marzo del 2006 y su reforma mediante Acuerdo Ejecutivo No. 126-2011 y Ordinales Primero, Segundo y Tercero del Acuerdo Ejecutivo No. 119-2006 del 11 de mayo del 2006.
 
 ACUERDA:
 
@@ -87,7 +83,7 @@ OCTAVO: Los importadores beneficiados con una cuota de contingente de importaci�
 
 NOVENO: El retiro de los certificados deberá hacerse en la ventanilla de la Dirección General de Integración Económica y Política Comercial / Dirección General de Administración y Negociación de Tratados, por medio de un apoderado legal debidamente acreditado.
 
-DECIMO: Para efectos del Artículo 19 literal b) del Acuerdo Ejecutivo No.16-2006 del 20 de marzo del 2006, esta Secretaría de Estado se reserva el derecho de hacer ajustes a todas las personas naturales o jurídicas a quienes se les hubiere asignado un certificado una vez que se compruebe en la base de datos SARAH-DARA, la no utilización de los Certificados de Importación emitidos para el año 2020.
+DECIMO: Para efectos del Artículo 19 literal b) del Acuerdo Ejecutivo No. 16-2006 del 20 de marzo del 2006, esta Secretaría de Estado se reserva el derecho de hacer ajustes a todas las personas naturales o jurídicas a quienes se les hubiere asignado un certificado una vez que se compruebe en la base de datos SARAH-DARA, la no utilización de los Certificados de Importación emitidos para el año 2020.
 
 DECIMO PRIMERO: Proceder a la publicación del aviso mediante el cual se pone a disposición de los agentes económicos interesados, los contingentes de importación para el año 2021 detallados en el ordinal primero, en dos diarios de circulación nacional.
 

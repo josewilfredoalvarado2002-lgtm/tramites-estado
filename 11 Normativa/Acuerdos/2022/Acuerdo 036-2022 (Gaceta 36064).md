@@ -11,7 +11,7 @@ paginas: "A. 9 - 56"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221031-36064/download"
 extraido: "2026-11-14"
-huella: "a388a07a89e48e1a"
+huella: "b86c86651f7cfe60"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 036-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Constitución de la República establece que, los Secretari
 
 CONSIDERANDO: Que las transferencias Monetarias condicionadas han probado ser un mecanismo efectivo en el combate de la pobreza y pobreza extrema, para dar a las familias identificadas mejores condiciones de vida en los ejes de Protección Social, Salud, Educación, Infraestructura social, fortalecimiento humano y oportunidad de ingresos compensando desigualdades que afectan a los más desprotegidos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 05-2022 en su Artículo Número 21, numeral 13 se suprime el Programa Vida Mejor que tenía dentro de sus componentes las Transferencias Monetarias Condicionadas TMC en sus dominios Rural y Urbano.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-05-2022 en su Artículo Número 21, numeral 13 se suprime el Programa Vida Mejor que tenía dentro de sus componentes las Transferencias Monetarias Condicionadas TMC en sus dominios Rural y Urbano.
 
 CONSIDERANDO: Que el Artículo 11 del Decreto Ejecutivo PCM-05-2022, establece la Creación de la Secretaría de Estado en el Despacho de Desarrollo Social como la encargada de instituir las políticas sociales de la Honduras solidaria, incluyente, sin discriminación de ningún tipo y libre de violencia.
 
@@ -1491,9 +1491,7 @@ El PRS es la instancia responsable de la integración, operación, validación y
 
 #### Artículo 157
 
-ARTÍCULO 157.-Disposición Especial – Normativa en periodo de elecciones. De acuerdo a la establecido en el Decreto No 44-2004 contentivo de la Ley Electoral y de las Organizaciones Políticas y sus reformas, así como lo establecido en Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos (Decreto No.
-
-137-2016), no se podrán realizar convocatorias a operativos de entrega, ni entregar TMC en los cuarenta y cinco (45) días calendarios previos a la práctica de elecciones internas o primarias y generales; así mismo, no se podrán realizar campañas de comunicación y/o publicitarias, ni procesos de levantamiento de información socioeconómica de hogares (Fichas Socioeconómica Única, FSU) del PRS.
+ARTÍCULO 157.-Disposición Especial – Normativa en periodo de elecciones. De acuerdo a la establecido en el Decreto No 44-2004 contentivo de la Ley Electoral y de las Organizaciones Políticas y sus reformas, así como lo establecido en Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos (Decreto No. 137-2016), no se podrán realizar convocatorias a operativos de entrega, ni entregar TMC en los cuarenta y cinco (45) días calendarios previos a la práctica de elecciones internas o primarias y generales; así mismo, no se podrán realizar campañas de comunicación y/o publicitarias, ni procesos de levantamiento de información socioeconómica de hogares (Fichas Socioeconómica Única, FSU) del PRS.
 
 De igual forma, si en el ejercicio de sus funciones, el PRS identifica conductas o hechos que pudieran ser constitutivos de delito o faltas, deberá informarlo y si es procedente, denunciarlo ante las autoridades competentes.
 

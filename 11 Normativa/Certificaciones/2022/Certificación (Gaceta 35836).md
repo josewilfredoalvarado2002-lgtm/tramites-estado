@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220131-35836/download"
 extraido: "2026-11-14"
-huella: "907384c6fddeea1f"
+huella: "08244e05cb276c67"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "907384c6fddeea1f"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No 971-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinte de mayo del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha tres de febrero del año dos mil veintiuno, la cual corre agregada al expediente administrativo NO. PJ- 03022021-75 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de apoderada legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA EL ACHIOTE, MUNICIPIO DE SIGUATEPEQUE, DEPARTAMENTO DE COMAYAGUA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha tres de febrero del año dos mil veintiuno, la cual corre agregada al expediente administrativo NO. PJ-03022021-75 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de apoderada legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA EL ACHIOTE, MUNICIPIO DE SIGUATEPEQUE, DEPARTAMENTO DE COMAYAGUA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -55,9 +55,7 @@ OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -93,13 +91,13 @@ ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular y normal e
 
 #### Artículo 5
 
-ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema.- c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamientoe.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente:1) obtención del área de la microcuenca por medio de la compra , firma de convenios con dueños de terreno
+ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema.- c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamientoe.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente:1) obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno
 
 \2) mejorando la infraestructura 3) construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la población use y maneje el agua adecuadamente y evitando el desperdicio del agua. g.- Gestionar la asistencia técnica de SANAA necesaria para mantener adecuadamente el sistema. -h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento básicos. j.-Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
 
 #### Artículo 6
 
-ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a : 1) Capacidad de pago 2) Número de familia por vivienda 3) Número de llaves adicionales
+ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: 1) Capacidad de pago 2) Número de familia por vivienda 3) Número de llaves adicionales
 
 \4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
 
@@ -117,7 +115,7 @@ f) recibir avisos oportunamente de las interrupciones programadas del servicio, 
 
 #### Artículo 9
 
-ARTÍCULO 9.- Son obligaciones de los miembros(usuarios directivos): a) Conectarse en el acueducto y al sistema de saneamiento. b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura c- Asistir puntualmente a las reuniones. d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g. Mantener limpio los solares , pilas , letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa, dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+ARTÍCULO 9.- Son obligaciones de los miembros(usuarios directivos): a) Conectarse en el acueducto y al sistema de saneamiento. b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura c- Asistir puntualmente a las reuniones. d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g. Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa, dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPÍTULO IV DE LOS ORGANOS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS, JUNTA DIRECTIVAS COMITE DE APOYO
 
@@ -135,7 +133,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y , 7.- Un vocal segundo.
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un vocal segundo.
 
 #### Artículo 13
 
@@ -165,7 +163,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 18
 
-ARTÍCULO 18.- La Junta Directiva de la Junta Administradora de Agua estará formada por : a) Presidente b) Vicepresidente,
+ARTÍCULO 18.- La Junta Directiva de la Junta Administradora de Agua estará formada por: a) Presidente b) Vicepresidente,
 
 c) Secretario, d) Tesorero, e) Un fiscal, f) Vocal Primero, g) Vocal segundo,
 

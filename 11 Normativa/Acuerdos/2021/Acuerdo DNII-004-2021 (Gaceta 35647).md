@@ -11,7 +11,7 @@ paginas: "A. 10 - 13"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210705-35647/download"
 extraido: "2026-11-14"
-huella: "9f8bba0c320046ad"
+huella: "4443b4a379e6ec87"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DNII-004-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Es
 
 CONSIDERANDO. Que el Estado de Honduras ha suscrito y ratificado el Convenio de Aviación Civil Internacional y sus Anexos, dentro de los cuales se encuentra el Anexo 17 que incorpora las normas y medidas de protección de la aviación civil internacional contra los actos de interferencia ilícita prescribiendo que cada Estado contratante se asegurará que la carga y el correo se sometan a controles de seguridad apropiados, comprendida la inspección, cuando sea factible, antes de cargarlo en una aeronave que realice operaciones de transporte aéreo comercial.
 
-CONSIDERANDO: Que mediante Acuerdo No. DNII- 002-2017 de fecha quince de junio del año en curso, esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho de junio de dos mil diecisiete.
+CONSIDERANDO: Que mediante Acuerdo No. DNII-002-2017 de fecha quince de junio del año en curso, esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho de junio de dos mil diecisiete.
 
 CONSIDERANDO: Que el PROGRAMA NACIONAL
 

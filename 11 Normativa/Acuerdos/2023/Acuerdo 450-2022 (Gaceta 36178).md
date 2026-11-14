@@ -8,7 +8,7 @@ gaceta_numero: 36178
 gaceta_fecha: "2023-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36178 (2023-03-13)|La Gaceta 36178]]"
 paginas: "A. 1"
-sumario: "Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 023-2023"
+sumario: "Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 023-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230313-36178/download"
 extraido: "2026-11-14"
 huella: "03b5d7fc78b782b4"
@@ -23,7 +23,7 @@ huella: "03b5d7fc78b782b4"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36178 (2023-03-13)\|La Gaceta 36178]] del 2023-03-13 |
 | Páginas | A. 1 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 023-2023 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 023-2023 |
 
 ## Texto
 

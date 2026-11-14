@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Acuerdo No. DGRP-DG-IP-003-2025, CD-IP-015-2019, DGRP-DG-IP-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250605-36856/download"
 extraido: "2026-11-10"
-huella: "913ff9f73940d434"
+huella: "5d896a08d5067b26"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CD-IP-015-2019
@@ -29,9 +29,7 @@ huella: "913ff9f73940d434"
 
 COMUNICADO
 
-El Instituto de la Propiedad a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No.
-
-CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA:
+El Instituto de la Propiedad a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No. CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA:
 
 Que habiéndose vencido el plazo de la Vista Pública Administrativa establecido en el Artículo No. 64 de la Ley de Propiedad, equivalente a 30 días, para que los propietarios(as), ocupantes y tenedores(as) de terrenos que se encuentran dentro del área que comprenden las comunidades siguientes:
 

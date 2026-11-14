@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Números SAR-07-2024, SAR-26-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240212-36458/download"
 extraido: "2026-11-14"
-huella: "314fc448d6f00e39"
+huella: "e6f66d4366b673c6"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-07-2024
@@ -57,7 +57,7 @@ CONSIDERANDO: Que el Artículo 116 de la Ley General de la Administración Públ
 
 POR TANTO:
 
-La Dirección Ejecutiva del Servicio de Administración de Rentas en el uso de las facultades que la Ley le confiere y en aplicación de los siguientes Artículos: 255, 321 y 351 de la Constitución de la República de Honduras; 9 numeral 2), 10, 15, 29, 30, 47, 56, 196, 197, 198 y 199 del Código Tributario contenido en el Decreto Legislativo No. 170-2016; 1 y 22 de la Ley del Impuesto Sobre la Renta; 116, 118 y 123 de la Ley General de la Administración Pública; 1 y 22 de la Ley del Impuesto Sobre la Renta; Acuerdo Ejecutivo número 001- 2017; y, demás normativa legal aplicable.
+La Dirección Ejecutiva del Servicio de Administración de Rentas en el uso de las facultades que la Ley le confiere y en aplicación de los siguientes Artículos: 255, 321 y 351 de la Constitución de la República de Honduras; 9 numeral 2), 10, 15, 29, 30, 47, 56, 196, 197, 198 y 199 del Código Tributario contenido en el Decreto Legislativo No. 170-2016; 1 y 22 de la Ley del Impuesto Sobre la Renta; 116, 118 y 123 de la Ley General de la Administración Pública; 1 y 22 de la Ley del Impuesto Sobre la Renta; Acuerdo Ejecutivo número 001-2017; y, demás normativa legal aplicable.
 
 ACUERDA:
 

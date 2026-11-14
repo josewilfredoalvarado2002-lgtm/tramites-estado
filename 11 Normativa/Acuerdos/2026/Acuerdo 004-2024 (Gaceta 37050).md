@@ -11,7 +11,7 @@ paginas: "A. 33 - 36"
 sumario: "Acuerdo Ejecutivo No. 004-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260122-37050/download"
 extraido: "2026-11-09"
-huella: "24802fd9edae9ed6"
+huella: "ff25e0bdf11b7859"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 004-2024
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO:
 
-Que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración P ú b l i c a C e n t r a l i z a d a y Descentralizada, la administración general del Estado y, por ende, dirigir la política económica y financiera del mismo, pudiendo actuar por si o en Consejo de Ministros.
+Que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, la administración general del Estado y, por ende, dirigir la política económica y financiera del mismo, pudiendo actuar por si o en Consejo de Ministros.
 
 CONSIDERANDO:
 
@@ -55,9 +55,7 @@ PRIMERO de la RESOLUCIÓN referida, se Autoriza a la Secretaría de Estado en el
 
 POR TANTO:
 
-La Presidenta Constitucional de la República de Honduras, en uso de las facultades de que está investida y en aplicación de los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y RESOLUCIÓN No.
-
-DNDE-102-2024 de fecha 24 de julio del 2024, emitida por la Dirección Nacional de Bienes del Estado.
+La Presidenta Constitucional de la República de Honduras, en uso de las facultades de que está investida y en aplicación de los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y RESOLUCIÓN No. DNDE-102-2024 de fecha 24 de julio del 2024, emitida por la Dirección Nacional de Bienes del Estado.
 
 ACUERDA:
 
@@ -65,11 +63,11 @@ ACUERDA:
 
 ARTÍCULO 1: Autorizar a la PROCURADURÍA GENERAL DE LA REPÚBLICA, para que comparezca ante Notario Público y suscriba en nombre del Estado de Honduras, junto con la señora LEDA MARIA VIDES BERLIOZ, conocida registralmente también como LEDA MARIA VIDES BERLIOZ DE CHANG, un Instrumento Público de Compraventa del inmueble ubicado en la colonia Palmira, Jurisdicción del Municipio del Distrito Central, identificado como FRACCION DE LOTES Número Ocho y Nueve (8 y 9), el cual tiene una extensión superficial Según Testimonio de la Escritura Pública Número Cinco (05) de fecha Veintinueve de febrero del año dos mil dieciséis (2016), de Seiscientos Cincuenta y Tres Punto Cero Seis Varas Cuadradas (653.06 V2), inscrito a su favor bajo número matrícula:
 
-Seiscientos Sesenta y Tres Mil Trescientos Noventa y Tres (663393) del Instituto de la Propiedad, Oficina Registral de Francisco Morazán y según Constancia de Catastral número DGCN-BF-1355-2023/EXP- 1355-2023-CR, emitida por el Instituto de la Propiedad, establece que dicho inmueble tiene un área de Cuatrocientos Cincuenta y uno punto Ochenta y uno Metros Cuadrados (451.81 m2) equivalentes a Seiscientos Cuarenta y Ocho Punto Cero Tres Varas Cuadradas (648.03 vrs2). Por un monto de CINCO MILLONES O C H O C I E N T O S S E S E N T A Y DOS MIL CUATROCIENTOS DIECISÉIS LEMPIRAS CON 80/100 (L.5,862,416.80), con fondos provenientes del presupuesto correspondiente al Ejercicio Fiscal del año 2023, afectando la estructura presupuestaria siguiente:
+Seiscientos Sesenta y Tres Mil Trescientos Noventa y Tres (663393) del Instituto de la Propiedad, Oficina Registral de Francisco Morazán y según Constancia de Catastral número DGCN-BF-1355-2023/EXP-1355-2023-CR, emitida por el Instituto de la Propiedad, establece que dicho inmueble tiene un área de Cuatrocientos Cincuenta y uno punto Ochenta y uno Metros Cuadrados (451.81 m2) equivalentes a Seiscientos Cuarenta y Ocho Punto Cero Tres Varas Cuadradas (648.03 vrs2). Por un monto de CINCO MILLONES OCHOCIENTOS SESENTA Y DOS MIL CUATROCIENTOS DIECISÉIS LEMPIRAS CON 80/100 (L.5,862,416.80), con fondos provenientes del presupuesto correspondiente al Ejercicio Fiscal del año 2023, afectando la estructura presupuestaria siguiente:
 
 Institución: 0070, GA: 001 Gerencia Central, UE: 034, Fondo Operativo de la Policía Nacional-Tasa de Seguridad Poblacional, Pr: 03, Actividades de Direcciones de la Policía Nacional; Spr:
 
-0, Py: 0, Obra: 3 Directorio Estratégico Policial, Grupo Gasto: 400 Bienes Capitalizables 41210 Edificios y Locales, por la cantidad de CINCO MILLONES O C H O C I E N T O S S E S E N T A Y DOS MIL CUATROCIENTOS DIECISÉIS LEMPIRAS CON 80/100, (L.5,862,416.80); a fin de que se efectúe la Tradición del Dominio a favor de la Secretaría de Estado en el Despacho de Seguridad.
+0, Py: 0, Obra: 3 Directorio Estratégico Policial, Grupo Gasto: 400 Bienes Capitalizables 41210 Edificios y Locales, por la cantidad de CINCO MILLONES OCHOCIENTOS SESENTA Y DOS MIL CUATROCIENTOS DIECISÉIS LEMPIRAS CON 80/100, (L.5,862,416.80); a fin de que se efectúe la Tradición del Dominio a favor de la Secretaría de Estado en el Despacho de Seguridad.
 
 #### Artículo 2
 

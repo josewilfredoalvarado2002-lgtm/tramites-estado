@@ -11,7 +11,7 @@ paginas: "A. 34 - 36"
 sumario: "Acuerdos Ejecutivos Nos. 074-2023, 75-2023, 76-2023, Acuerdo No. 0092023,Acuerdo Número 124-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230323-36187/download"
 extraido: "2026-11-14"
-huella: "927c4decc20d9dac"
+huella: "017cf10fdc5e44f3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 76-2023
@@ -43,7 +43,7 @@ Que el Gobierno de la República ha expuesto la crítica situación en que recib
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -59,11 +59,11 @@ CONSIDERANDO:
 
 Que Honduras es uno de los países que presenta mayor criticidad al relacionar cambio climático y seguridad hídrica, debido a, entre otros aspectos, su débil compromiso país para la adaptación al cambio climático (si bien agua es un sector prioritario en sus Contribuciones Nacionales Determinadas (NDCs) y a la amenaza climática, fuertemente influenciada por la variabilidad natural interanual y por décadas, la Oscilación Norte-Sur del Atlántico, entre otros factores climáticos y geográficos. Para el año 2030 se estima una reducción de precipitación oscilará entre 3% y 4%, y un aumento de temperatura que oscilará entre 0.21C y 0.5, impactando principalmente el centro y la vertiente pacífica del país afectando particularmente a sus comunidades rurales y a su capital, Tegucigalpa.
 
-CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir el contrato de Préstamo No.5284/BLHO con el Banco Interamericano de Desarrollo (BID), para la ejecución del “Programa de Agua Potable y Saneamiento en Honduras”, a través del cual se espera: (i) incrementar el acceso y mejorar la calidad de los servicios de agua potable y saneamiento con un enfoque de seguridad hídrica en zonas urbanas y rurales; y, (ii) fortalecer las entidades sectoriales para mejorar la gestión y la sostenibilidad de la prestación del servicio teniendo en cuenta los impactos del cambio climático sobre las fuentes y la infraestructura que garantiza el suministro de agua.
+CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir el contrato de Préstamo No. 5284/BLHO con el Banco Interamericano de Desarrollo (BID), para la ejecución del “Programa de Agua Potable y Saneamiento en Honduras”, a través del cual se espera: (i) incrementar el acceso y mejorar la calidad de los servicios de agua potable y saneamiento con un enfoque de seguridad hídrica en zonas urbanas y rurales; y, (ii) fortalecer las entidades sectoriales para mejorar la gestión y la sostenibilidad de la prestación del servicio teniendo en cuenta los impactos del cambio climático sobre las fuentes y la infraestructura que garantiza el suministro de agua.
 
 CONSIDERANDO:
 
-Que el Decreto No.17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
+Que el Decreto No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
 
 POR TANTO:
 
@@ -73,7 +73,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Autorizar a la Abogada RIXI RAMONA MONCADA GODOY, en su condición de Secretaria de Estado en el Despacho de Finanzas, para que en nombre y representación del Gobierno de la República de Honduras pueda suscribir el Contrato de Préstamo No.5284/BL-HO con el Banco Interamericano de Desarrollo (BID), hasta por un monto de Cuarenta y Cinco Millones de Dólares de los Estados Unidos de América (US$45,000,000.00), recursos destinados para la ejecución del “Programa de Agua Potable y Saneamiento en Honduras”.
+ARTÍCULO 1.- Autorizar a la Abogada RIXI RAMONA MONCADA GODOY, en su condición de Secretaria de Estado en el Despacho de Finanzas, para que en nombre y representación del Gobierno de la República de Honduras pueda suscribir el Contrato de Préstamo No. 5284/BL-HO con el Banco Interamericano de Desarrollo (BID), hasta por un monto de Cuarenta y Cinco Millones de Dólares de los Estados Unidos de América (US$45,000,000.00), recursos destinados para la ejecución del “Programa de Agua Potable y Saneamiento en Honduras”.
 
 #### Artículo 2
 

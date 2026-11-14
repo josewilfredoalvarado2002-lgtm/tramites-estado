@@ -11,7 +11,7 @@ paginas: "A. 19 - 23"
 sumario: "Decretos Nos. 17-2020, 37-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200429-35238/download"
 extraido: "2026-11-14"
-huella: "386e963d18a57147"
+huella: "ba46fb2ea14e32c4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 37-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que es responsabilidad de los gobiernos nacionales y municipales v
 
 CONSIDERANDO: Que es impostergable proceder a facilitar a la municipalidad de San Pedro Sula, el acceso a recursos municipales que puedan ser destinados para apoyar las operaciones municipales en su funcionamiento y lucha durante esta emergencia nacional decretada a raíz de la pandemia mundial del COVID-19.
 
-CONSIDERANDO: Que en la actualidad la Municipalidad de San Pedro Sula cuenta en sus cuentas corrientes con fondos producto del préstamo autorizado por el Decreto No.198-2018 de fecha 24 de enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 11 de febrero de 2019, Edición No.34,868, los cuales están destinados a obras de infraestructura y debido a la crisis generada por el COVID-19 es necesario hacer una readecuación temporal del destino de los mismos para hacer frente a la misma.
+CONSIDERANDO: Que en la actualidad la Municipalidad de San Pedro Sula cuenta en sus cuentas corrientes con fondos producto del préstamo autorizado por el Decreto No. 198-2018 de fecha 24 de enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 11 de febrero de 2019, Edición No. 34,868, los cuales están destinados a obras de infraestructura y debido a la crisis generada por el COVID-19 es necesario hacer una readecuación temporal del destino de los mismos para hacer frente a la misma.
 
 CONSIDERANDO: Que corresponde al Congreso Nacional aprobar o improbar los contratos que conlleven involucradas exenciones, incentivos y concesiones fiscales o cualquier otro contrato que haya que producir o prolongar sus efectos más allá del periodo de gobierno.
 
@@ -53,13 +53,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 2 del Decreto No.
-
-198-2018, de fecha 24 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 11 de Febrero de 2019, Edición No.34,868, el cual de ahora en adelante debe leerse de a la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 2 del Decreto No. 198-2018, de fecha 24 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 11 de Febrero de 2019, Edición No. 34,868, el cual de ahora en adelante debe leerse de a la manera siguiente:
 
 “ARTÍCULO 2.- Los fondos deben ser utilizados para la readecuación de la deuda en el monto de fondos, hasta por Mil Cuatrocientos Millones de Lempiras (L.1,400,000,000.00) que permitan la reducción de intereses y consolidación de la deuda en mejores condiciones y términos de los actuales, el remante Mil Seiscientos Millones de Lempiras (L.1,600,000,000.00) serán utilizados para financiar Obras de Infraestructura licitadas según la Ley de Contratación del Estado y según las reglas y los montos establecidos en el Presupuesto General de Ingresos y Egresos de la República para cada Ejercicio Fiscal, o Proyectos Sociales autorizados por la Corporación Municipal e incluidos y priorizados en el Plan Maestro de Desarrollo Municipal de San Pedro Sula.
 
@@ -85,13 +83,13 @@ ARTÍCULO 2.- Se autoriza a la Corporación Municipal de San Pedro Sula, Departa
 
 #### Artículo 3
 
-ARTÍCULO 3. Reformar el Artículo 209 del Decreto No. 171-2019, de fecha 12 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, Edición No.35,137, que contiene el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, el cual debe leerse de la manera siguiente:
+ARTÍCULO 3. Reformar el Artículo 209 del Decreto No. 171-2019, de fecha 12 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, Edición No. 35,137, que contiene el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 209.- Autorizar a las municipalidades y/o Mancomunidades, para que realicen la compra, para uso exclusivo de la municipalidad, en estado usado, pero en buenas condiciones de funcionamiento, de maquinaria o equipo pesado de cualquier índole, ambulancias y equipo médico, tanques o carros repartidores de agua conocidos como “pipa de agua” y perforadoras de pozos, siempre y cuando su estado de depreciación por uso no exceda de 12 años. Dichas compras no pueden ser transferidas bajo cualquier título, y los procesos de adquisición deben ser acompañado como veedor por el Comisionado Municipal de transparencia.
 
 ARTÌCULO 4.-
 
-Autorizar a las municipalidades que puedan negociar y obtener recursos económicos provenientes de préstamos del Sistema Financiero Nacional o de cualquier entidad de crédito internacional que opere legalmente en Honduras, bajo las mejores condiciones, hasta por una suma igual al porcentaje correspondiente al treinta cinco por ciento (35%) del monto pendiente de desembolso de las trasferencias del Presupuesto General de Ingresos y Egresos de la República para el presente ejercicio fiscal, conforme a lo establecido en el numeral 1 del párrafo cuarto, del Artículo 192 de las disposiciones de presupuesto para el presente ejercicio fiscal contenidas en Decreto No.171-2019, fecha 12 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, Edición No.35,137, para hacer frente a la crisis sanitaria, social y económica generada por el COVID-19.
+Autorizar a las municipalidades que puedan negociar y obtener recursos económicos provenientes de préstamos del Sistema Financiero Nacional o de cualquier entidad de crédito internacional que opere legalmente en Honduras, bajo las mejores condiciones, hasta por una suma igual al porcentaje correspondiente al treinta cinco por ciento (35%) del monto pendiente de desembolso de las trasferencias del Presupuesto General de Ingresos y Egresos de la República para el presente ejercicio fiscal, conforme a lo establecido en el numeral 1 del párrafo cuarto, del Artículo 192 de las disposiciones de presupuesto para el presente ejercicio fiscal contenidas en Decreto No. 171-2019, fecha 12 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, Edición No. 35,137, para hacer frente a la crisis sanitaria, social y económica generada por el COVID-19.
 
 ARTÌCULO 5.- El presente Decreto entra en vigencia a partir del día de su publicación en el Diario Oficial “La Gaceta”.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. SCGG-00434-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220103-35812/download"
 extraido: "2026-11-14"
-huella: "ee1b78f3ee926b7e"
+huella: "077db144c03a0a6b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SCGG-00434-2021
@@ -33,7 +33,7 @@ Tegucigalpa, M. D. C. 20 de diciembre, 2021
 
 CONSIDERANDO: Que bajo el artículo 29 del Decreto Legislativo 266-2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014, se crea la Secretaría de Coordinación General de Gobierno.
 
-CONSIDERANDO: Que bajo Acuerdo Ejecutivo No.107- 2020 de fecha 30 de septiembre de 2020, se nombra al ciudadano CARLOS ALBERTO MADERO ERAZO como Secretario de Estado Coordinador General de Gobierno.
+CONSIDERANDO: Que bajo Acuerdo Ejecutivo No. 107-2020 de fecha 30 de septiembre de 2020, se nombra al ciudadano CARLOS ALBERTO MADERO ERAZO como Secretario de Estado Coordinador General de Gobierno.
 
 CONSIDERANDO: Que las Gerencias Administrativas de cada Secretaría de Estado son las responsables de la administración presupuestaria, la administración de los recursos humanos y la administración de materiales y servicios generales, incluyendo las funciones de compras y suministros y de administración y custodia de los bienes a su cargo.
 
@@ -49,13 +49,13 @@ CONSIDERANDO: Que mediante el Acuerdo Ministerial No. SCGG-00259-2020 de fecha 0
 
 POR TANTO:
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículos 37 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización y Funcionamiento y Competencia del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículos 37 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización y Funcionamiento y Competencia del Poder Ejecutivo,
 
 Artículos 6, 35 y 37; numeral 3 de la Ley Orgánica del Presupuesto.
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor ni Efecto a partir del quince (15 de diciembre del 2021, el Acuerdo No. SCGG-00259- 2020 de fecha siete (07) de diciembre del 2020 mediante el cual se delegan las funciones a la ciudadana Norma Vides Berlioz como la firma de las cuentas bancarias que mantiene esta Secretaría de Estado en las diferentes Instituciones del Sistema Financiero Nacional Público y Privado, así como la firma de las Modificaciones Presupuestarias Internas.
+PRIMERO: Dejar sin valor ni Efecto a partir del quince (15 de diciembre del 2021, el Acuerdo No. SCGG-00259-2020 de fecha siete (07) de diciembre del 2020 mediante el cual se delegan las funciones a la ciudadana Norma Vides Berlioz como la firma de las cuentas bancarias que mantiene esta Secretaría de Estado en las diferentes Instituciones del Sistema Financiero Nacional Público y Privado, así como la firma de las Modificaciones Presupuestarias Internas.
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y tendrá vigencia legal.
 

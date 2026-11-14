@@ -11,7 +11,7 @@ paginas: "A. 1 - 29"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200214-35175/download"
 extraido: "2026-11-14"
-huella: "856dd7d381766970"
+huella: "2c4c37061cc51520"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el recurso humano de la Administración Aduanera constituye el
 
 CONSIDERANDO: Que la Administración Aduanera deberá establecer y aplicar su propio Reglamento del Régimen de la Carrera Administrativa Aduanera, que permita la permanencia en el servicio del recurso humano capacitado y que demuestre honestidad e idoneidad en el desempeño de su cargo.
 
-CONSIDERANDO: Que de conformidad al Decreto 170- 2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
+CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
 
 POR TANTO:
 

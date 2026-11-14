@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decreto No. 57-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230831-36322/download"
 extraido: "2026-11-14"
-huella: "6139ba0196665b4f"
+huella: "5249438cb1dc450c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 57-2023
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 1 establece “Honduras es un Estado de Derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, siendo el fin supremo del Estado, la persona humana”.
 
-CONSIDERANDO: Que la Visión de País de 2010- 2038 tiene cuatro (4) objetivos nacionales que marcan el horizonte hacia el cual debemos trasladarnos como nación, encontrándose dentro de los objetivos nacionales, el objetivo dos (02) de una Honduras que se desarrolla en democracia, con seguridad y sin violencia, para que la población cuente con los reconocimientos efectivos de sus derechos y acceso a un sistema de justicia integrado, efectivo, expedito y a un entorno seguro con niveles reducidos de criminalidad; y como objetivo cuarto (4), contar con un Estado moderno transparente, responsable, eficiente y competitivo, teniendo como descripción, contar con un gobierno moderno y eficiente y funcionarios públicos con formación integral y continua, promoviendo el profesionalismo de los funcionarios públicos.
+CONSIDERANDO: Que la Visión de País de 2010-2038 tiene cuatro (4) objetivos nacionales que marcan el horizonte hacia el cual debemos trasladarnos como nación, encontrándose dentro de los objetivos nacionales, el objetivo dos (02) de una Honduras que se desarrolla en democracia, con seguridad y sin violencia, para que la población cuente con los reconocimientos efectivos de sus derechos y acceso a un sistema de justicia integrado, efectivo, expedito y a un entorno seguro con niveles reducidos de criminalidad; y como objetivo cuarto (4), contar con un Estado moderno transparente, responsable, eficiente y competitivo, teniendo como descripción, contar con un gobierno moderno y eficiente y funcionarios públicos con formación integral y continua, promoviendo el profesionalismo de los funcionarios públicos.
 
 CONSIDERANDO: Que la Declaración Internacional sobre los Datos Genéticos Humanos, recomienda a los Estados partes establecer como objetivos velar por el respeto a la dignidad humana y la protección de los derechos humanos y las libertades fundamentales en la recolección, el tratamiento, la utilización y la conservación de los datos genéticos humanos, los datos proteómicos humanos y las muestras biológicas de las que esos datos provengan, el que son denominadas como “muestras biológicas”, atendiendo a los imperativos de igualdad, justicia y solidaridad y a la vez prestando la debida consideración a la libertad de pensamiento y de expresión, comprendida la libertad de investigación; establecer los principios por los que deberían guiarse los Estados para elaborar sus legislaciones y políticas sobre dichos temas.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 

@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decretos Nos. 143-2019, 108-2020, 1832020, 187-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210127-35499/download"
 extraido: "2026-11-14"
-huella: "921d434fadae80da"
+huella: "d70a29cf59085c65"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 187-2020
@@ -29,13 +29,13 @@ huella: "921d434fadae80da"
 
 El CONGRESO NACIONAL;
 
-CONSIDERANDO: Que mediante Decreto No.200-2018, del 24 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 28 de Enero del 2019, Edición No.34,856, se reformaron los artículos 51 al 53 de la Constitución de la República, orientados al fortalecimiento de las instituciones electorales creando el Consejo Nacional Electoral y el Tribunal de Justicia Electoral, con la finalidad de separar las funciones administrativas, técnicas, logísticas y jurisdiccionales.
+CONSIDERANDO: Que mediante Decreto No. 200-2018, del 24 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 28 de Enero del 2019, Edición No. 34,856, se reformaron los artículos 51 al 53 de la Constitución de la República, orientados al fortalecimiento de las instituciones electorales creando el Consejo Nacional Electoral y el Tribunal de Justicia Electoral, con la finalidad de separar las funciones administrativas, técnicas, logísticas y jurisdiccionales.
 
-CONSIDERANDO: Que los artículos 53 de la Constitución de la República y 17 del Decreto No.71-2019 de fecha 15 de Agosto de 2019, y publicado en el Diario Oficial “La Gaceta” el 20 de Agosto de 2019, Edición No.35,027, expresa que el Tribunal de Justicia Electoral, es la máxima autoridad en materia de justicia electoral, tiene carácter autónomo e independiente, sin relaciones de subordinación con los poderes del Estado, funciona de manera permanente, con plena jurisdicción y competencia en todo el territorio del Estado.
+CONSIDERANDO: Que los artículos 53 de la Constitución de la República y 17 del Decreto No. 71-2019 de fecha 15 de Agosto de 2019, y publicado en el Diario Oficial “La Gaceta” el 20 de Agosto de 2019, Edición No. 35,027, expresa que el Tribunal de Justicia Electoral, es la máxima autoridad en materia de justicia electoral, tiene carácter autónomo e independiente, sin relaciones de subordinación con los poderes del Estado, funciona de manera permanente, con plena jurisdicción y competencia en todo el territorio del Estado.
 
 CONSIDERANDO: Que no existe en la actualidad la Ley que regule la manera de impartir Justicia en materia electoral, por lo que, el Tribunal de Justicia Electoral, ha aplicado de manera supletoria la Ley de Procedimiento Administrativo y en lo no previsto en ésta por mandato legal el Código Procesal Civil, ambos instrumentos jurídicos de naturaleza rogatoria que no permiten resolver los recursos electorales con celeridad.
 
-CONSIDERANDO: Que la Ley Especial para la Selección y el Nombramiento de Autoridades Electorales, Atribuciones, Competencias y Prohibiciones, contenida en el Decreto No.71-2019 de fecha 15 de Agosto de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Agosto de 2019, Edición No.35,027, establece la atribución del Pleno de Magistrados del Tribunal de Justicia Electoral (TJE) para aprobar reglamentos y manuales administrativos, no así reglamentos o manuales jurisdiccionales.
+CONSIDERANDO: Que la Ley Especial para la Selección y el Nombramiento de Autoridades Electorales, Atribuciones, Competencias y Prohibiciones, contenida en el Decreto No. 71-2019 de fecha 15 de Agosto de 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Agosto de 2019, Edición No. 35,027, establece la atribución del Pleno de Magistrados del Tribunal de Justicia Electoral (TJE) para aprobar reglamentos y manuales administrativos, no así reglamentos o manuales jurisdiccionales.
 
 CONSIDERANDO: Que encontrándose pendiente la aprobación de la Ley Procesal Electoral que regulará las competencias específicas del Tribunal de Justicia Electoral, además de que el Consejo Nacional Electoral convocó a elecciones internas y primarias de los partidos políticos, es necesario dotar al Pleno de Magistrados del Tribunal de Justicia Electoral, de las facultades necesarias para que emitan reglamentos, manuales jurisdiccionales, así como autos acordados que consideren necesarios para la presentación, tramitación y resolución pronta y expedita de los recursos que ante él se presenten.
 

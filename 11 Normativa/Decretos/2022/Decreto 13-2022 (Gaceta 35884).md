@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decretos Nos. 11-2022, 13-2022, 14-2022, 17-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220328-35884/download"
 extraido: "2026-11-14"
-huella: "0d5542356f672bf6"
+huella: "0832abaaf9834e91"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 13-2022
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 31 - 32"
 sumario: "Decreto No. 138-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200129-35161/download"
 extraido: "2026-11-14"
-huella: "60a133e5891b8f2f"
+huella: "ad39abd7eedb2dce"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 138-2019
@@ -33,13 +33,13 @@ CONSIDERANDO: Que la Municipalidad de Goascorán, Departamento de Valle, en el a
 
 CONSIDERANDO: Que la asignación de recursos para cubrir estas demandas y reclamos administrativos afectan directamente el accionar de la Alcaldía Municipal de Goascorán, reduciendo significativamente la posibilidad de desarrollar y ejecutar proyectos para satisfacer necesidades de la población y dinamizar la economía y desarrollo de este municipio.
 
-CONSIDERANDO: Que la Corporación Municipal de Goascorán del Departamento de Valle, el día 23 de Marzo del año 2019, según consta en el punto No.8 del Acta No.36 resolvió autorizar al Alcalde Municipal, para proceder a realizar gestiones para solicitar un préstamo con una institución bancaria por la cantidad de Quince Millones de Lempiras (L.15,000,000.00) para honrar el pago de demandas laborales que afronta dicha municipalidad.
+CONSIDERANDO: Que la Corporación Municipal de Goascorán del Departamento de Valle, el día 23 de Marzo del año 2019, según consta en el punto No. 8 del Acta No. 36 resolvió autorizar al Alcalde Municipal, para proceder a realizar gestiones para solicitar un préstamo con una institución bancaria por la cantidad de Quince Millones de Lempiras (L.15,000,000.00) para honrar el pago de demandas laborales que afronta dicha municipalidad.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 19) de la Constitución de la República, es potestad del Congreso Nacional: aprobar o improbar los contratos que lleven involucradas exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos al siguiente período de gobierno de la Republica, respectivamente.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

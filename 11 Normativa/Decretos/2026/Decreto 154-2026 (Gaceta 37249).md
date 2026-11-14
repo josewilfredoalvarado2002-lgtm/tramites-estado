@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Decretos Nos. 101-2026, 121-2026, 154-2026, 157-2026, 158-2026, 159-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260918-37249/download"
 extraido: "2026-11-09"
-huella: "1a927f936e9b03ca"
+huella: "e0b2403e0537f88b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 154-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

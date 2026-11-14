@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdos C.G. Nos. 011-2025, 013-2025, 016-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260114-37043/download"
 extraido: "2026-11-09"
-huella: "74ea7d686014a1c3"
+huella: "6488216c2526714d"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.G. Nos. 011-2025, 013-2025, 016-2025
@@ -35,7 +35,7 @@ CONSIDERANDO (02): Que la Constitución de la República en el artículo 247 est
 
 CONSIDERANDO (03): Que la Constitución de la República en el párrafo primero de su artículo 274 establece que:
 
-“Las Fuerzas Armadas estarán sujetas a las disposiciones de su ley constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección d e l a m b i e n t e , v i a l i d a d , comunicaciones, sanidad y reforma agraria”.
+“Las Fuerzas Armadas estarán sujetas a las disposiciones de su ley constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
 
 CONSIDERANDO (04): Que la Constitución de la República en su artículo 290 establece que: “Los grados militares sólo se adquieren por riguroso ascenso de acuerdo con la ley respectiva. Los militares no podrán ser privados de sus grados, honores y pensiones en otra forma que la fijada por la Ley.
 
@@ -73,7 +73,7 @@ Ascenso al Grado de Capitán o su equivalente: 1) Haber prestado cinco (5) años
 
 \3) Haber aprobado el curso de capacitación correspondiente a su grado. 4) Haber prestado el 75% de su tiempo de servicio en el grado, ejerciendo funciones propias de su arma, cuerpo o servicio”.
 
-CONSIDERANDO (15): Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día treinta y uno (31) de octubre del año dos mil veinticinco (2025), mediante Acta No. 006-2025, determinó solicitar a la señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado O R L A N D O E N R I Q U E GARNER ORDÓNEZ, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas, IRIS XIOMARA CASTRO SARMIENTO, confiera el ascenso al Grado de Capitán o su Equivalente de las Armas, Cuerpos y Servicios a ochenta y seis (86) señores Oficiales con el Grado de Teniente o su Equivalente de las Armas, Cuerpos y Servicios, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
+CONSIDERANDO (15): Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día treinta y uno (31) de octubre del año dos mil veinticinco (2025), mediante Acta No. 006-2025, determinó solicitar a la señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO ENRIQUE GARNER ORDÓNEZ, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas, IRIS XIOMARA CASTRO SARMIENTO, confiera el ascenso al Grado de Capitán o su Equivalente de las Armas, Cuerpos y Servicios a ochenta y seis (86) señores Oficiales con el Grado de Teniente o su Equivalente de las Armas, Cuerpos y Servicios, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
 
 CONSIDERANDO (16): Que en fecha tres (03) de noviembre del dos mil veinticinco (2025), la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, emitió Dictamen D=175(C-1)2025 en el cual se recomienda ascender a partir del once (11) de diciembre del año dos mil veinticinco (2025), al grado de Capitán o su equivalente de las Armas, Cuerpos y Servicios a ochenta y seis (86) Oficiales con el grado de Teniente o su equivalente de las Armas, Cuerpos y Servicios.
 
@@ -347,7 +347,7 @@ CONSIDERANDO (15):
 
 Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día treinta y uno
 
-(31) de octubre del año dos mil veinticinco (2025), mediante Acta No. 006-2025, resolvió solicitar al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que, por su digno medio, solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas, IRIS X I O M A R A C A S T R O SARMIENTO, confiera el ascenso al Grado de Capitán en el Arma de Infantería al Teniente de Infantería KEVYN JOEL VARGAS BANEGAS, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
+(31) de octubre del año dos mil veinticinco (2025), mediante Acta No. 006-2025, resolvió solicitar al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que, por su digno medio, solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas, IRIS XIOMARA CASTRO SARMIENTO, confiera el ascenso al Grado de Capitán en el Arma de Infantería al Teniente de Infantería KEVYN JOEL VARGAS BANEGAS, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
 
 CONSIDERANDO (16):
 
@@ -437,7 +437,7 @@ Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, mediante Act
 
 CONSIDERANDO (14):
 
-Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=218(C-1) 2025 de fecha 03 de noviembre del año 2025, RECOMIENDA al Señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO E N R I Q U E G A R N E R ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir a partir del 11 de diciembre del año 2025, al grado de Alférez de Fragata del Cuerpo de Ingeniería Naval al Guardiamarina DANIEL ABRAHAM MEJÍA REYES, graduado en el extranjero y reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre del año 2021, por haber ingresado a la Academia Naval de Honduras el 14 de enero del año 2018.
+Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=218(C-1) 2025 de fecha 03 de noviembre del año 2025, RECOMIENDA al Señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir a partir del 11 de diciembre del año 2025, al grado de Alférez de Fragata del Cuerpo de Ingeniería Naval al Guardiamarina DANIEL ABRAHAM MEJÍA REYES, graduado en el extranjero y reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre del año 2021, por haber ingresado a la Academia Naval de Honduras el 14 de enero del año 2018.
 
 POR TANTO
 

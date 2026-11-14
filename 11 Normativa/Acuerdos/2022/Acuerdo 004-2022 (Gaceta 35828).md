@@ -11,7 +11,7 @@ paginas: "A. 14 - 20"
 sumario: "Acuerdo Ministerial No. 004-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220121-35828/download"
 extraido: "2026-11-14"
-huella: "890d2eab77295e7f"
+huella: "6866dfe2861851c3"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 004-2022
@@ -37,9 +37,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo conforme
 
 CONSIDERANDO: Que de conformidad en lo establecido en los Artículos 30 y 33 de la Ley General de la Administración Pública así como lo estatuido en el Artículo 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, el Secretario de Estado puede delegar en lo subsecretarios de Estado, Secretario General y Directores Generales el ejercicio de atribuciones específicas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-118-2021 de fecha 25 de mayo de 2021 se aprobó el cuadro de participaciones en consejos directivos, juntas directivas, comisiones y/o comités de las entidades gubernamentales.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 118-2021 de fecha 25 de mayo de 2021 se aprobó el cuadro de participaciones en consejos directivos, juntas directivas, comisiones y/o comités de las entidades gubernamentales.
 
 POR TANTO:
 
@@ -107,11 +105,11 @@ VIII. Que el Reglamento para el Cálculo de Tarifas Provisionales en sus artícu
 
 IX.
 
-Que sobre la base del análisis formulado en el dictamen técnico y legal intitulado “Dictamen sobre la revocación del literal H de la Resolución CREE- 019” emitido por las Unidades de Fiscalización, Tarifas y Dirección de Asuntos Jurídicos, en el que se concluye que este literal H tuvo por objeto ser aplicado como una medida gradual y transitoria en la aplicación del pliego tarifario aprobado mediante dicha resolución y que, para normalizar esta situación, la ENEE debe implementar medidas correctivas y actualizar sus prácticas actuales mediante la aplicación y cumplimiento del pliego tarifario vigente; esta Comisión considera necesario revisar las reglas o regulaciones especiales que se dictaron en aplicación del pliego tarifario vigente y ejercer acciones de requerimiento, a fin de aportar claridad y armonía con la regulación emitida y para que la ENEE aplique la categoría tarifaria correspondiente a cada usuario según su patrón de consumo y nivel de tensión.
+Que sobre la base del análisis formulado en el dictamen técnico y legal intitulado “Dictamen sobre la revocación del literal H de la Resolución CREE-019” emitido por las Unidades de Fiscalización, Tarifas y Dirección de Asuntos Jurídicos, en el que se concluye que este literal H tuvo por objeto ser aplicado como una medida gradual y transitoria en la aplicación del pliego tarifario aprobado mediante dicha resolución y que, para normalizar esta situación, la ENEE debe implementar medidas correctivas y actualizar sus prácticas actuales mediante la aplicación y cumplimiento del pliego tarifario vigente; esta Comisión considera necesario revisar las reglas o regulaciones especiales que se dictaron en aplicación del pliego tarifario vigente y ejercer acciones de requerimiento, a fin de aportar claridad y armonía con la regulación emitida y para que la ENEE aplique la categoría tarifaria correspondiente a cada usuario según su patrón de consumo y nivel de tensión.
 
 X.
 
-Que lo dispuesto en el literal H de la Resolución CREE- 019 se consideró como una medida de gradualidad en la aplicación del pliego tarifario aprobado mediante dicho acuerdo, pero que ante la solicitud de la ENEE hecha por medio del Oficio CIENEE-1019-2021, es necesario revocar el literal H de la Resolución CREE- 019 para que las tarifas de todos los usuarios reflejen el costo del suministro del servicio eléctrico en función del nivel de tensión correspondiente.
+Que lo dispuesto en el literal H de la Resolución CREE-019 se consideró como una medida de gradualidad en la aplicación del pliego tarifario aprobado mediante dicho acuerdo, pero que ante la solicitud de la ENEE hecha por medio del Oficio CIENEE-1019-2021, es necesario revocar el literal H de la Resolución CREE-019 para que las tarifas de todos los usuarios reflejen el costo del suministro del servicio eléctrico en función del nivel de tensión correspondiente.
 
 CONSIDERANDO:
 
@@ -143,7 +141,7 @@ La CREE, en uso de sus facultades y de conformidad con lo establecido en el art�
 
 ACUERDA
 
-PRIMERO: Revocar el literal H) de la Resolución CREE- 019 emitida por la CREE y publicada en el Diario Oficial La Gaceta en fecha 31 de mayo del 2016.
+PRIMERO: Revocar el literal H) de la Resolución CREE-019 emitida por la CREE y publicada en el Diario Oficial La Gaceta en fecha 31 de mayo del 2016.
 
 La presente revocación surtirá sus efectos a partir del mes siguiente al que la ENEE haya logrado comunicar el efecto del presente acuerdo a los usuarios comprendidos en el literal H) de la Resolución CREE-019 y haya implementado los cambios necesarios en su sistema comercial. En caso de que la ENEE no logre ni implemente lo anterior en el mes de marzo de 2022, la revocación, en todo caso, surtirá sus efectos a partir de abril de 2022.
 

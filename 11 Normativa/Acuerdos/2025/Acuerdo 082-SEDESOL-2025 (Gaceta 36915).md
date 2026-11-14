@@ -11,7 +11,7 @@ paginas: "A. 11 - 15"
 sumario: "Acuerdos Ministeriales Nos. 003-A-SEDESOL-2025, 082-SEDESOL-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250813-36915/download"
 extraido: "2026-11-09"
-huella: "190445ad100f18a4"
+huella: "cb4f93e9bfeb0e99"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 082-SEDESOL-2025
@@ -147,7 +147,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 LIC. MIRTHA CLAUDINA GUTIERREZ
 
-Secretaria de Estado en el Despacho de Desarrollo Social por Ley Acuerdo Ejecutivo de Delegación No.97-2025 de fecha 9 de julio del 2025.
+Secretaria de Estado en el Despacho de Desarrollo Social por Ley Acuerdo Ejecutivo de Delegación No. 97-2025 de fecha 9 de julio del 2025.
 
 RUSSLAN YUPANKY ESPINAL SÁNCHEZ SECRETARIO GENERAL SECRETARÍA DE DESARROLLO SOCIAL (SEDESOL)
 

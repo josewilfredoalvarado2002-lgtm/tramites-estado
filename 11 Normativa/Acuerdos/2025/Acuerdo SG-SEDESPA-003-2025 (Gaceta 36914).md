@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdos Nos. DM-SEDESPA-01-2025, SG-SEDESPA-001-2025,SG-SEDESPA-002-2025,SG-SEDESPA-003-2025,SG-SEDESPA-021-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250812-36914/download"
 extraido: "2026-11-09"
-huella: "a1605fd1f0662af3"
+huella: "39f2d709579af009"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-003-2025
@@ -45,7 +45,7 @@ CONSIDERANDO (07): Que el Artículo 176 del Reglamento de la Ley de Servicio Civ
 
 POR TANTO
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 

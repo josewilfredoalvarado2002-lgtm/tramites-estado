@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. PCSJ-40-2024,PCSJ-41-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241129-36702/download"
 extraido: "2026-11-14"
-huella: "80c5c5be991c72e8"
+huella: "ca17ce51dcc583b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. PCSJ-40-2024
@@ -49,7 +49,7 @@ Séptimo. El actual contexto de demanda ciudadana por una justicia más accesibl
 
 Octavo. Que el Poder Judicial en su Plan Estratégico Institucional 2023-2027, prioriza como eje transversal la Calidad en la Gestión, bajo la incorporación de prácticas que promuevan la transparencia, la rendición de cuentas, la participación ciudadana y el acceso a la información, como pilares fundamentales para fortalecer la confianza pública en el sistema de justicia. Por ello, resulta indispensable contar con una Unidad, que garantice la adecuada implementación y sostenibilidad de esta iniciativa y que cuente con el fortalecimiento estructural en su organización interna, es por ello que resulta necesario reestructurar la actual Unidad de Gestión de Calidad (UGECA), integrando los principios de Justicia Abierta en su misión y funciones.
 
-Noveno. El 22 de octubre de 2024, la Licenciada María José Laitano, Directora de Planificación, Presupuesto y Financiamiento, remitió a esta Presidencia, mediante Oficio DPPF No.958-2024, el Modelo de Despachos Judiciales Abiertos desarrollado con apoyo del Proyecto Justicia Efectiva de USAID, expresando que ha sido revisado y validado por la Mesa Técnica de Justicia Abierta y personal de los Despachos Judiciales pilotos en los que se implementa el Modelo.
+Noveno. El 22 de octubre de 2024, la Licenciada María José Laitano, Directora de Planificación, Presupuesto y Financiamiento, remitió a esta Presidencia, mediante Oficio DPPF No. 958-2024, el Modelo de Despachos Judiciales Abiertos desarrollado con apoyo del Proyecto Justicia Efectiva de USAID, expresando que ha sido revisado y validado por la Mesa Técnica de Justicia Abierta y personal de los Despachos Judiciales pilotos en los que se implementa el Modelo.
 
 Décimo. El artículo 307 de la Constitución de la República establece que la Ley, sin menoscabo de la independencia de los jueces y magistrados, disponga lo necesario, a fin de asegurar el correcto y normal funcionamiento de los tribunales de justicia, proveyendo los medios eficaces para atender sus necesidades funcionales y administrativas, así como la organización de los servicios auxiliares.
 
@@ -61,7 +61,7 @@ Decimotercero. Con la abrogación de la Ley del Consejo de la Judicatura y la Ca
 
 Parte Dispositiva Esta Presidencia de la Corte Suprema de Justicia, en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A C U E R D A
+ACUERDA
 
 Primero. Aprobar el Modelo de Despachos Judiciales Abiertos, como un modelo de administración con una perspectiva de justicia centrada en las personas, basado en los pilares de la Justicia Abierta, que promueven la transparencia y rendición de cuentas, los datos abiertos, la participación y colaboración en los procesos judiciales.
 

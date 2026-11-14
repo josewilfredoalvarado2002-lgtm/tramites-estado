@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Decretos Ejecutivos Nos. PCM 24-2025, PCM 25-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250816-36918/download"
 extraido: "2026-11-09"
-huella: "0a3c9b1c2012e21a"
+huella: "f1684235d75971c9"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Nos. PCM 24-2025, PCM 25-2025
@@ -173,7 +173,7 @@ CONSIDERANDO (10): Que los distintos países de América Latina aún afrontan la
 
 POR TANTO, En uso de las facultades contenidas en los artículos: 1, 35, 59, 235, 245 numerales: 2) y 11), 246 y 247 de la Constitución de la República; artículos: 10, 11, 36 numeral 1), 116, 117 y 118 de la Ley General de la Administración Pública. Artículos:
 
-7 y 16 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. Decreto Ejecutivo PCM- 08-2025 y demás aplicables.
+7 y 16 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. Decreto Ejecutivo PCM-08-2025 y demás aplicables.
 
 DECRETA:
 

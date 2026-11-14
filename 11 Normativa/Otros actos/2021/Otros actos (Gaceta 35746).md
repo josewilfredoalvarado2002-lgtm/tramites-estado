@@ -11,7 +11,7 @@ paginas: "A. 1 - 40"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211014-35746/download"
 extraido: "2026-11-14"
-huella: "eae84390f94730f3"
+huella: "8d74106d98ca4914"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -807,7 +807,7 @@ CAPÍTULO II TIPOS DE OBSERVADORES ELECTORALES
 
 Artículo 5. Para los efectos del presente Reglamento, se definen dos tipos de observadores: Nacionales e Internacionales.
 
-a) O B S E R VA D O R E S E L E C T O R A L E S NACIONALES: Se consideran observadores electorales nacionales las personas naturales respaldadas por una organización de carácter civil, que soliciten tal condición al Consejo Nacional Electoral y le sea aprobado mediante Resolución. Los Observadores electorales que estén habilitados para ejercer el sufragio, lo harán en la Junta Receptora de Votos que les corresponde de acuerdo con el Censo Nacional Electoral y cumpliendo los requisitos exigidos por la ley; sin embargo, no podrán realizar acciones de observación en la JRV que ejerzan el sufragio.
+a) O B S E R VA DORES ELECTORALES NACIONALES: Se consideran observadores electorales nacionales las personas naturales respaldadas por una organización de carácter civil, que soliciten tal condición al Consejo Nacional Electoral y le sea aprobado mediante Resolución. Los Observadores electorales que estén habilitados para ejercer el sufragio, lo harán en la Junta Receptora de Votos que les corresponde de acuerdo con el Censo Nacional Electoral y cumpliendo los requisitos exigidos por la ley; sin embargo, no podrán realizar acciones de observación en la JRV que ejerzan el sufragio.
 
 Podrán ser también observadores nacionales, aquellas personas o instituciones dedicadas a la promoción de la democracia, incluidas organizaciones de derechos humanos con experiencia en la temática de observación electoral que lo soliciten y obtengan la aprobación del Consejo Nacional Electoral.
 
@@ -1067,7 +1067,7 @@ Consejo Nacional Electoral
 
 CNE
 
-CERTIFICACIÓN 1455-2021, ACUERDO No. 17-2021 El infrascrito, Secretario General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN tomada por unanimidad, en el XI (Asunto Proyecto Capacitación Electoral), inciso (c) del Acta Número 50- 2021, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día viernes diez (10) de septiembre del dos mil veintiuno (2021), que literalmente dice: “ACUERDO No. 17-2021, REGLAMENTO DEL INSTITUTO NACIONAL DE FORMACIÓN POLITICOELECTORAL.
+CERTIFICACIÓN 1455-2021, ACUERDO No. 17-2021 El infrascrito, Secretario General del Consejo Nacional Electoral por este medio CERTIFICA la RESOLUCIÓN tomada por unanimidad, en el XI (Asunto Proyecto Capacitación Electoral), inciso (c) del Acta Número 50-2021, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día viernes diez (10) de septiembre del dos mil veintiuno (2021), que literalmente dice: “ACUERDO No. 17-2021, REGLAMENTO DEL INSTITUTO NACIONAL DE FORMACIÓN POLITICOELECTORAL.
 
 EL CONSEJO NACIONAL ELECTORAL,
 
@@ -1327,7 +1327,7 @@ El Coordinador/a Académico depende del Subdirector/a del INFPE y tiene las atri
 
 12. Diseñar las metodologías y materiales didácticos sobre cultura democrática, participación ciudadana y educación cívica, con énfasis en derechos humanos, especialmente los derechos civiles y políticos y enfoque de género.
 
-13. Realizar la programación de los cursos y talleres en diferentes modalidades, que sirvan para el desarrollo político- electoral.
+13. Realizar la programación de los cursos y talleres en diferentes modalidades, que sirvan para el desarrollo político-electoral.
 
 14. Llevar el control del desarrollo de las actividades de formación y capacitación programadas, así como los criterios de evaluación y acreditación.
 

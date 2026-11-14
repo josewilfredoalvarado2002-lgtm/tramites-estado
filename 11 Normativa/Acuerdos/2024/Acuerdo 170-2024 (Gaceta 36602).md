@@ -11,7 +11,7 @@ paginas: "A. 9 - 20"
 sumario: "Acuerdo Ejecutivo No. 170-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240802-36602/download"
 extraido: "2026-11-14"
-huella: "f7df6c5c0589293f"
+huella: "90ea19fa56e671ef"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 170-2024
@@ -199,7 +199,7 @@ ARTÍCULO 11.- USOS DEL FONDO. - El fondo de caja chica deberá utilizarse únic
 
 1. TRANSPORTE: Servicio de taxi o bus en el área urbana para servidores públicos, empleados o particulares.
 
-2. A C C E S O R I O S M E N O R E S P A R A
+2. ACCESORIOS MENORES PARA
 
 REPARACIONES: Accesorios y repuestos varios cuyo valor no exceda al autorizado en este reglamento.
 

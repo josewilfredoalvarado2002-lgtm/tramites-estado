@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1215-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250415-36816/download"
 extraido: "2026-11-11"
-huella: "0f889677b3817791"
+huella: "1c371a35d1382b73"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1215-2024
@@ -33,7 +33,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 “RESOLUCIÓN No. 1215-2024. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, once de septiembre del año dos mil veinticuatro.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintinueve de diciembre del año dos mil veintitrés, misma que corre a expediente administrativo No. PJ- 29122023-810 por la Abogada ROSA ISBELA SANTOS AGUILAR, personándose posteriormente la Abogada JOHANNA ELIZABETH PALACIOS DIAZ quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL BARRIO EL WAY DEL MUNICIPIO DE INTIBUCÁ, DEPARTAMENTO DE INTIBUCÁ”, la cual se encuentra domiciliada en el Barrio El Way del municipio de Intibucá, departamento de Intibucá; contraída a solicitar que se le conceda la PERSONALIDAD JURIDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintinueve de diciembre del año dos mil veintitrés, misma que corre a expediente administrativo No. PJ-29122023-810 por la Abogada ROSA ISBELA SANTOS AGUILAR, personándose posteriormente la Abogada JOHANNA ELIZABETH PALACIOS DIAZ quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL BARRIO EL WAY DEL MUNICIPIO DE INTIBUCÁ, DEPARTAMENTO DE INTIBUCÁ”, la cual se encuentra domiciliada en el Barrio El Way del municipio de Intibucá, departamento de Intibucá; contraída a solicitar que se le conceda la PERSONALIDAD JURIDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 
@@ -61,7 +61,7 @@ CAPÍTULO I CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
 
 ARTÍCULO 1.- Se constituye la organización cuya denominación será Junta Administradora de Agua Potable y Saneamiento y se reconocerá con las siglas siguientes:
 
-JAAS del barrio El Way del municipio de Intibucá, departamento de Intibucá como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de dicha comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento , Reglamento de Juntas Administradoras de Agua, Código de Salud, Ley General del Ambiente y demás Leyes aplicables, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes del barrio El Way.
+JAAS del barrio El Way del municipio de Intibucá, departamento de Intibucá como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de dicha comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, Reglamento de Juntas Administradoras de Agua, Código de Salud, Ley General del Ambiente y demás Leyes aplicables, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes del barrio El Way.
 
 #### Artículo 2
 
@@ -175,7 +175,7 @@ ARTÍCULO 22.- Son atribuciones del TESORERO: Por ser el encargado de manejar fo
 
 #### Artículo 23
 
-ARTÍCULO 23.- Son atribuciones del FISCAL: a.- Es el encargado de fiscalizar los fondos de la organización. b.- Supervisar y coordinar la administración de los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema.- c.- Comunicar a los miembros de la Junta Directiva de cualquier anomalía que se encuentre en la administración de los fondos o bienes de la Junta. - d.- Llevar el control y practicar las auditorías que sean necesarias para obtener una administración transparente de los bienes de la organización.- e.- Coordinar el comité de vigilancia.- f.- Nombrar los delegados de vigilancia y someterlos a ratificación ante los directivos.- g.- Llevar el inventario de los bienes de la junta.- h.- Cargarles los bienes de la junta a las personas que los tienen en su poder para uso o custodia y descargárselos cuando esto ya no los tengan esto se deberá hacer por medio con una nota donde se explica el estado ,el uso en que se utilizara el bien de la junta en un libro único donde firmara el que recibe el bien y el fiscal que lo entrega.
+ARTÍCULO 23.- Son atribuciones del FISCAL: a.- Es el encargado de fiscalizar los fondos de la organización. b.- Supervisar y coordinar la administración de los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema.- c.- Comunicar a los miembros de la Junta Directiva de cualquier anomalía que se encuentre en la administración de los fondos o bienes de la Junta. - d.- Llevar el control y practicar las auditorías que sean necesarias para obtener una administración transparente de los bienes de la organización.- e.- Coordinar el comité de vigilancia.- f.- Nombrar los delegados de vigilancia y someterlos a ratificación ante los directivos.- g.- Llevar el inventario de los bienes de la junta.- h.- Cargarles los bienes de la junta a las personas que los tienen en su poder para uso o custodia y descargárselos cuando esto ya no los tengan esto se deberá hacer por medio con una nota donde se explica el estado,el uso en que se utilizara el bien de la junta en un libro único donde firmara el que recibe el bien y el fiscal que lo entrega.
 
 #### Artículo 24
 

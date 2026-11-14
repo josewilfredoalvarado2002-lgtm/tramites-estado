@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ministerial No. 036-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240611-36557/download"
 extraido: "2026-11-14"
-huella: "baaacfa3d5502e73"
+huella: "0b59637d03e1ee04"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 036-2023
@@ -65,9 +65,7 @@ CONSIDERANDO: Que en fecha trece (13) de octubre del año dos mil veintitrés (2
 
 IV. REQUERIMIENTOS Y/O RECOMENDACIONES: Se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto agregue al expediente a la brevedad posible, la siguiente documentación: Copia de Resolución de autorización de explotación de Banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte
 
-(SIT) MEDIANTE ACUERDO ministerial, establecido en LA LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA, de acuerdo a lo instituido en los artículos No.
-
-24, No. 25, y No. 26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del Banco de Material Seco y Aluvial. Pruebas de laboratorio del Banco Aluvial Rivera.
+(SIT) MEDIANTE ACUERDO ministerial, establecido en LA LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA, de acuerdo a lo instituido en los artículos No. 24, No. 25, y No. 26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del Banco de Material Seco y Aluvial. Pruebas de laboratorio del Banco Aluvial Rivera.
 
 Bitácora de volumen de material extraído debidamente firmada y sellada por la empresa ejecutora del proyecto y supervisión, una vez inicien las labores de explotación.
 

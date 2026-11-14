@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo número 001-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200123-35156/download"
 extraido: "2026-11-14"
-huella: "a95f20204b7aa727"
+huella: "fce4db29383e0716"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2020
@@ -27,7 +27,7 @@ huella: "a95f20204b7aa727"
 
 ## Texto
 
-CONSIDERANDO: Que de conformidad con el Artículo No.11 inciso a) del Reglamento del Fondo de Previsión Social de los Notarios es potestad de la Junta Directiva del Fondo de los Notarios, la aprobación de los Reglamentos y sus reformas.
+CONSIDERANDO: Que de conformidad con el Artículo No. 11 inciso a) del Reglamento del Fondo de Previsión Social de los Notarios es potestad de la Junta Directiva del Fondo de los Notarios, la aprobación de los Reglamentos y sus reformas.
 
 CONSIDERANDO: Que la Asamblea General Ordinaria de la Unión de Notarios de Honduras celebrada el dos (02) de octubre de dos mil diecinueve (2019) recomendó a la Junta Directiva del Fondo de Previsión Social de los Notarios que previo estudio técnico actuarial, apruebe reducir el requisito de edad de 65 a 60 años para el otorgamiento del Beneficio de Sobrevivencia a los Notario, manteniéndose los demás requisitos establecidos en el Reglamento, asimismo que sea el Fondo de Previsión quien de conformidad al dictamen actuarial determine si la reducción debe hacerse de una vez o progresivamente, de acuerdo a los recursos que se vayan generando.
 

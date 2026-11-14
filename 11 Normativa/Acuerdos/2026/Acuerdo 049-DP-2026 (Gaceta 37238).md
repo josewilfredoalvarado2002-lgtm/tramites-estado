@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ejecutivo Número 049-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260904-37238/download"
 extraido: "2026-11-09"
-huella: "a7e6e47e95310233"
+huella: "45e0f9df192704f0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 049-DP-2026
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Artículo 41 reformado de la Ley de Procedimiento Administr
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-034-2019 se creó el SERVICIO NACIONAL DE EMPRENDIMIENTO Y DE PEQUEÑOS NEGOCIOS (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República; y que, conforme al Artículo 6, Literal e) del mismo Decreto Ejecutivo, el Director Ejecutivo de SENPRENDE se encuentra facultado para aprobar reglamentos internos únicamente para la operación interna de la institución, facultad que no alcanza a la regulación de obligaciones dirigidas a Organismos Ejecutores Externos, Instituciones Financieras Intermediarias y beneficiarias ajenas a la estructura institucional, por lo que la emisión del presente Reglamento, al producir efectos sobre dichos terceros conforme a su Artículo 2, corresponde al Presidente de la República en ejercicio de la potestad reglamentaria a que se refiere el Considerando Primero de este Acuerdo.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-110-2015, de fecha 24 de noviembre de 2015, publicado en el Diario Oficial "La Gaceta" el 14 de marzo de 2016, se aprobó la Ley para el Programa Nacional de Crédito Solidario para la Mujer Rural, conocido como Programa CREDIMUJER, orientado a vincular positivamente políticas crediticias solidarias con las mujeres rurales organizadas, en atención a su contribución a la prosperidad, la seguridad y la soberanía alimentaria del país.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 110-2015, de fecha 24 de noviembre de 2015, publicado en el Diario Oficial "La Gaceta" el 14 de marzo de 2016, se aprobó la Ley para el Programa Nacional de Crédito Solidario para la Mujer Rural, conocido como Programa CREDIMUJER, orientado a vincular positivamente políticas crediticias solidarias con las mujeres rurales organizadas, en atención a su contribución a la prosperidad, la seguridad y la soberanía alimentaria del país.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-034-2019, Artículo 8, el Programa CREDIMUJER, ejecutado hasta entonces por la Secretaría de Estado en el Despacho de Desarrollo Económico, fue adscrito al SERVICIO NACIONAL DE EMPRENDIMIENTO Y DE PEQUEÑOS NEGOCIOS (SENPRENDE), operando una subrogación institucional por la cual SENPRENDE asumió las competencias y responsabilidades normativas que el Decreto Legislativo No. 110-2015 y el Acuerdo Ejecutivo No. 014-2018 atribuían a su institución ejecutora de origen, incluyendo la elaboración del Reglamento de Crédito del Programa.
 
@@ -47,13 +45,13 @@ CONSIDERANDO: Que conforme al Artículo 170 de las Disposiciones Generales del P
 
 Artículos 4,7 y 13, numerales 1) y 2), del Acuerdo Ejecutivo No. 014-2018.
 
-CONSIDERANDO: Que en virtud de lo anterior, promover ante la Presidencia de la República la emisión del presente Reglamento corresponde a SENPRENDE en sustitución de la Secretaría de Estado en el Despacho de Desarrollo Económico y del esquema fiduciario originalmente previstos en el Artículo 8 del Decreto Legislativo No. 110-2015 y en el numeral 3) del Artículo 13 del Acuerdo Ejecutivo No. 014- 2018.
+CONSIDERANDO: Que en virtud de lo anterior, promover ante la Presidencia de la República la emisión del presente Reglamento corresponde a SENPRENDE en sustitución de la Secretaría de Estado en el Despacho de Desarrollo Económico y del esquema fiduciario originalmente previstos en el Artículo 8 del Decreto Legislativo No. 110-2015 y en el numeral 3) del Artículo 13 del Acuerdo Ejecutivo No. 014-2018.
 
 CONSIDERANDO: Que resulta procedente emitir el presente Reglamento de Crédito del PROGRAMA NACIONAL DE CRÉDITO SOLIDARIO PARA LA MUJER RURAL (CREDIMUJER), como instrumento normativo autónomo y autosuficiente que desarrolla, conforme al Artículo 8 del Decreto Legislativo No. 110-2015, las operaciones de colocación de los recursos del Programa, sus modalidades y las garantías aplicables entre sus beneficiarias y el régimen de responsabilidades correspondiente.
 
 POR TANTO;
 
-En uso de las facultades de que está investido y en aplicación de los Artículos 245 Numerales 2) y 11), 247 y 248 de la Constitución de la República; 11, 116 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 110-2015; Decreto Ejecutivo PCM-034-2019; Acuerdo Ejecutivo No. 014- 2018; y, demás disposiciones legales aplicables.
+En uso de las facultades de que está investido y en aplicación de los Artículos 245 Numerales 2) y 11), 247 y 248 de la Constitución de la República; 11, 116 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 110-2015; Decreto Ejecutivo PCM-034-2019; Acuerdo Ejecutivo No. 014-2018; y, demás disposiciones legales aplicables.
 
 ACUERDA:
 
@@ -67,7 +65,7 @@ CAPÍTULO I DISPOSICIONES GENERALES
 
 Artículo 1. Objeto.
 
-El presente Reglamento tiene por objeto desarrollar las disposiciones específicas aplicables a las operaciones de crédito del PROGRAMA NACIONAL DE CRÉDITO SOLIDARIO PARA LA MUJER RURAL (CREDIMUJER), regulando su ejecución, las modalidades de operación de crédito, el otorgamiento, las garantías, la administración, seguimiento y la recuperación del financiamiento y las responsabilidades derivadas del financiamiento conforme al Decreto Legislativo No. 110- 2015 y al Acuerdo Ejecutivo No. 014-2018.
+El presente Reglamento tiene por objeto desarrollar las disposiciones específicas aplicables a las operaciones de crédito del PROGRAMA NACIONAL DE CRÉDITO SOLIDARIO PARA LA MUJER RURAL (CREDIMUJER), regulando su ejecución, las modalidades de operación de crédito, el otorgamiento, las garantías, la administración, seguimiento y la recuperación del financiamiento y las responsabilidades derivadas del financiamiento conforme al Decreto Legislativo No. 110-2015 y al Acuerdo Ejecutivo No. 014-2018.
 
 #### Artículo 2
 
@@ -79,17 +77,13 @@ Las disposiciones del presente Reglamento son de observancia obligatoria para SE
 
 Artículo 3. Integración normativa.
 
-El presente Reglamento se interpretará y aplicará de manera armónica con lo dispuesto en el Decreto Legislativo No.
-
-110-2015, el Acuerdo Ejecutivo No. 014-2018, conforme al siguiente orden de prelación: La Ley del Programa; su Reglamento; y, en lo específicamente regulado, el presente Reglamento.
+El presente Reglamento se interpretará y aplicará de manera armónica con lo dispuesto en el Decreto Legislativo No. 110-2015, el Acuerdo Ejecutivo No. 014-2018, conforme al siguiente orden de prelación: La Ley del Programa; su Reglamento; y, en lo específicamente regulado, el presente Reglamento.
 
 #### Artículo 4
 
 Artículo 4. Sucesión institucional y coordinación interinstitucional.
 
-En su condición de institución sucesora del Programa CREDIMUJER conforme al Artículo 8 del Decreto Ejecutivo PCM-034-2019, corresponde a SENPRENDE ejercer las competencias que el Decreto Legislativo No.
-
-110-2015 y el Acuerdo Ejecutivo No. 014-2018 atribuían a la Secretaría de Estado en el Despacho de Desarrollo Económico, incluyendo la elaboración y actualización del presente Reglamento.
+En su condición de institución sucesora del Programa CREDIMUJER conforme al Artículo 8 del Decreto Ejecutivo PCM-034-2019, corresponde a SENPRENDE ejercer las competencias que el Decreto Legislativo No. 110-2015 y el Acuerdo Ejecutivo No. 014-2018 atribuían a la Secretaría de Estado en el Despacho de Desarrollo Económico, incluyendo la elaboración y actualización del presente Reglamento.
 
 El Programa CREDIMUJER se ejecuta con recursos del presupuesto institucional de SENPRENDE, conforme a la estructura presupuestaria vigente para el Fondo de CREDIMUJER, sin perjuicio de los aportes que, conforme a la normativa presupuestaria aplicable, destine el Banco Nacional de Desarrollo Agrícola (BANADESA) para el fortalecimiento del fondo de programas de crédito para mujeres. En atención a la modalidad de ejecución presupuestaria vigente, los recursos asignados al Programa serán administrados directamente por SENPRENDE conforme a la normativa presupuestaria, financiera y contable aplicable. En consecuencia, las referencias contenidas en el Decreto Legislativo No. 110-2015 y en el Acuerdo Ejecutivo No. 014-2018 al Fideicomiso del Programa, a su Contrato de Constitución y a la Institución Fiduciaria se entenderán sustituidas.
 
@@ -129,9 +123,7 @@ CAPÍTULO II BENEFICIARIAS Y REQUISITOS DE ACCESO
 
 Artículo 8. Beneficiarias del Programa.
 
-Serán beneficiarias del Programa CREDIMUJER las mujeres rurales organizadas conforme a las formas de organización reconocidas en el presente Reglamento, que cumplan las condiciones establecidas en el Decreto Legislativo No. 110-2015, el Acuerdo Ejecutivo No.
-
-014-2018 y el presente Reglamento, y que desarrollen o pretendan desarrollar actividades productivas, comerciales o de servicios susceptibles de financiamiento.
+Serán beneficiarias del Programa CREDIMUJER las mujeres rurales organizadas conforme a las formas de organización reconocidas en el presente Reglamento, que cumplan las condiciones establecidas en el Decreto Legislativo No. 110-2015, el Acuerdo Ejecutivo No. 014-2018 y el presente Reglamento, y que desarrollen o pretendan desarrollar actividades productivas, comerciales o de servicios susceptibles de financiamiento.
 
 La identificación, selección y priorización de las beneficiarias corresponderá a SENPRENDE o al Organismo Ejecutor Externo o Institución Financiera Intermediaria responsable, según la modalidad de ejecución adoptada, conforme a los criterios de focalización, elegibilidad y disponibilidad de recursos que se establezcan en los instrumentos técnicos aplicables.
 
@@ -361,7 +353,7 @@ Las modificaciones a los instrumentos complementarios no afectarán la validez d
 
 Artículo 24. Casos no previstos.
 
-Los casos no previstos en el presente Reglamento que se susciten durante la ejecución de las operaciones de crédito del Programa CREDIMUJER serán resueltos por la instancia competente de SENPRENDE, dentro del ámbito de sus atribuciones, conforme al Decreto Legislativo No. 110- 2015; y, al Acuerdo Ejecutivo No. 014-2018, observando los principios de legalidad, objetividad y protección de los recursos públicos.
+Los casos no previstos en el presente Reglamento que se susciten durante la ejecución de las operaciones de crédito del Programa CREDIMUJER serán resueltos por la instancia competente de SENPRENDE, dentro del ámbito de sus atribuciones, conforme al Decreto Legislativo No. 110-2015; y, al Acuerdo Ejecutivo No. 014-2018, observando los principios de legalidad, objetividad y protección de los recursos públicos.
 
 #### Artículo 25
 

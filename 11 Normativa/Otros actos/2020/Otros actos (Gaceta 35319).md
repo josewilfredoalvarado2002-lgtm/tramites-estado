@@ -11,7 +11,7 @@ paginas: "A. 1 - 52"
 sumario: "Acuerdos CREE - 079, CREE-080, CREE-081; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200720-35319/download"
 extraido: "2026-11-14"
-huella: "8187c7bceb952474"
+huella: "c9073c19c0f9483f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE - 079, CREE-080, CREE-081; AVANCE
@@ -37,7 +37,7 @@ RESULTANDO:
 
 Que en fecha 30 de junio de 2020, el Directorio de Comisionados de la Comisión Reguladora de Energía Eléctrica realizó la Reunión Extraordinaria CREE-Ex.-077-2020 en la cual acordó emitir, entre otros, los acuerdos CREE-073, CREE-074 y CREE-075, con los que aprobó elementos regulatorios y normativos necesarios para el funcionamiento del Mercado Eléctrico Nacional.
 
-Que la Comisión Reguladora de Energía Eléctrica publicó en el Diario Oficial “La Gaceta” el Acuerdo CREE-073 en fecha 02 de julio de 2020, No.35,301 y en fecha 03 de julio No.35,302 los acuerdos CREE-074 y 075, en los cuales, por un error material, se consignó el “30 de mayo de 2020” como fecha de realización de la reunión extraordinaria CREE-Ex.-077.
+Que la Comisión Reguladora de Energía Eléctrica publicó en el Diario Oficial “La Gaceta” el Acuerdo CREE-073 en fecha 02 de julio de 2020, No. 35,301 y en fecha 03 de julio No. 35,302 los acuerdos CREE-074 y 075, en los cuales, por un error material, se consignó el “30 de mayo de 2020” como fecha de realización de la reunión extraordinaria CREE-Ex.-077.
 
 Sección A Decretos y Acuerdos
 
@@ -49,7 +49,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -67,7 +67,7 @@ La CREE, en uso de sus facultades y de conformidad con lo establecido en los Art
 
 ACUERDA
 
-PRIMERO: Enmendar los Acuerdos CREE-073, CREE- 074 y CREE-075 en el único sentido de consignar en cada uno de los actos administrativos donde se relacionó la fecha del acta de la Reunión Extraordinaria la que en cada acto administrativo se leerá de la siguiente manera:
+PRIMERO: Enmendar los Acuerdos CREE-073, CREE-074 y CREE-075 en el único sentido de consignar en cada uno de los actos administrativos donde se relacionó la fecha del acta de la Reunión Extraordinaria la que en cada acto administrativo se leerá de la siguiente manera:
 
 “Que en la Reunión Extraordinaria CREE-Ex-077-2020 del 30 de junio de 2020, el Directorio de Comisionados acordó emitir el presente acuerdo”.
 
@@ -107,7 +107,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -985,7 +985,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -1609,7 +1609,7 @@ b) Posdespacho: el balance se calculará como la suma de la energía comprada en
 
 Ante una condición prevista de déficit, por falta de generación por restricciones de transmisión o por CCSDM a los efectos del cálculo del balance se utilizará la energía comprada a los Agentes Productores y la energía vendida (prevista o real según corresponda) a los Consumidores Calificados.
 
-13 DISPOSICIONES TRANSITORIAS PARA LA A D M I N I S T R A C I Ó N D E C O N T R A T O S PREEXISTENTES.
+13 DISPOSICIONES TRANSITORIAS PARA LA ADMINISTRACIÓN DE CONTRATOS PREEXISTENTES.
 
 Los Contratos Preexistentes continuarán sin cambio alguno hasta el vencimiento de su plazo, cuando terminarán. A efecto de que el ODS administre los mismos dentro de la operación del mercado, se atenderán las reglas siguientes:
 

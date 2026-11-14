@@ -8,10 +8,10 @@ gaceta_numero: 37154
 gaceta_fecha: "2026-05-29"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37154 (2026-05-29)|La Gaceta 37154]]"
 paginas: "A. 350 - 352"
-sumario: "Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026PODER LEGISLATIVODecretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo C.G. No. 002-2026INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
+sumario: "Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026; PODER LEGISLATIVO: Decretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo C.G. No. 002-2026; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260529-37154/download"
 extraido: "2026-11-09"
-huella: "4fb6ebd707717892"
+huella: "bf7ea5876e0cf7b2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 80-2026
@@ -23,13 +23,13 @@ huella: "4fb6ebd707717892"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37154 (2026-05-29)\|La Gaceta 37154]] del 2026-05-29 |
 | Páginas | A. 350 - 352 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026PODER LEGISLATIVODecretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo C.G. No. 002-2026INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) |
+| Según el sumario de La Gaceta | Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026; PODER LEGISLATIVO: Decretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo C.G. No. 002-2026; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) |
 
 ## Texto
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Estado de Honduras ha ratificado la Convención sobre los Derechos de las Personas con Discapacidad a través del Decreto Legislativo No.129-2007, a partir de la cual se obliga a armonizar su legislación y las políticas públicas con el modelo de discapacidad basado en los derechos humanos.
+CONSIDERANDO: Que el Estado de Honduras ha ratificado la Convención sobre los Derechos de las Personas con Discapacidad a través del Decreto Legislativo No. 129-2007, a partir de la cual se obliga a armonizar su legislación y las políticas públicas con el modelo de discapacidad basado en los derechos humanos.
 
 CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 59 establece que: “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable”, asimismo, el Artículo 60 establece que: “Todas las personas tienen los mismos derechos sin discriminación por razones de raza, religión, sexo, color, posición social o cualquier otra condición, asegurando la libertad y la justicia como base del reconocimiento pleno de la dignidad humana con iguales y mismos derechos en toda la sociedad”.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

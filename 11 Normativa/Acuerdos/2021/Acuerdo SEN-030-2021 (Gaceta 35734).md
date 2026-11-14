@@ -11,7 +11,7 @@ paginas: "A. 13 - 20"
 sumario: "Acuerdo Ejecutivo No. SEN-030-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211001-35734/download"
 extraido: "2026-11-14"
-huella: "117cc7a6fd1a8338"
+huella: "1dd5778094267a05"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SEN-030-2021
@@ -29,21 +29,19 @@ huella: "117cc7a6fd1a8338"
 
 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que el Artículo 2 y 3 del Decreto Legislativo No.171-2019 contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, autorizó a la Empresa Nacional de Energía Eléctrica para adquirir un nuevo endeudamiento con Fuente 13 – Crédito Interno, hasta por un monto de TRES MIL TRESCIENTOS NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L3,394,300,000.00).
+CONSIDERANDO: Que el Artículo 2 y 3 del Decreto Legislativo No. 171-2019 contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, autorizó a la Empresa Nacional de Energía Eléctrica para adquirir un nuevo endeudamiento con Fuente 13 – Crédito Interno, hasta por un monto de TRES MIL TRESCIENTOS NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L3,394,300,000.00).
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.SEN-014-2020 del 3 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” el 10 de diciembre de 2020, se aprobó el Reglamento de las Características, Términos y Condiciones de la Emisión denominada “Valores Gubernamentales de la Empresa Nacional de Energía Eléctrica (VGE)” por un monto de hasta TRES MIL TRESCIENTOS NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L3,394,300,000.00).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.171-2020 del 17 de diciembre de 2020, el Congreso Nacional autorizó a la Empresa Nacional de Energía Eléctrica (ENEE) a adquirir nuevo endeudamiento por un monto de hasta DOS MIL SETECIENTOS MILLONES DE LEMPIRAS EXACTOS (L2,700,000,000.00) o su equivalente en Dólares en las condiciones financieras que se obtengan al momento de su negociación, destinados para cubrir obligaciones financieras adquiridas por dicha Empresa.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 171-2020 del 17 de diciembre de 2020, el Congreso Nacional autorizó a la Empresa Nacional de Energía Eléctrica (ENEE) a adquirir nuevo endeudamiento por un monto de hasta DOS MIL SETECIENTOS MILLONES DE LEMPIRAS EXACTOS (L2,700,000,000.00) o su equivalente en Dólares en las condiciones financieras que se obtengan al momento de su negociación, destinados para cubrir obligaciones financieras adquiridas por dicha Empresa.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-SEN-029-2020 emitido por la Secretaría de Estado en el Despacho de Energía del 28 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en esa misma fecha, se reformó el Artículo 1 del Reglamento de las Características, Términos y Condiciones de la Emisión denominada “Valores Gubernamentales de la Empresa Nacional de Energía Eléctrica (VGE)” por un monto hasta de SEIS MIL NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L6,094,300,000.00), del cual existe un remante disponible por UN MIL OCHOCIENTOS OCHENTA Y SEIS MILLONES DE LEMPIRAS EXACTOS (L1,886,000,000.00).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. SEN-029-2020 emitido por la Secretaría de Estado en el Despacho de Energía del 28 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en esa misma fecha, se reformó el Artículo 1 del Reglamento de las Características, Términos y Condiciones de la Emisión denominada “Valores Gubernamentales de la Empresa Nacional de Energía Eléctrica (VGE)” por un monto hasta de SEIS MIL NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L6,094,300,000.00), del cual existe un remante disponible por UN MIL OCHOCIENTOS OCHENTA Y SEIS MILLONES DE LEMPIRAS EXACTOS (L1,886,000,000.00).
 
 CONSIDERANDO: Que el Artículo 174 del Decreto Legislativo No. 182-2020 del 22 de diciembre de 2020 contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, reformado con Decreto Legislativo No. 18-2021 del 29 de abril de 2021 autorizó a la Empresa Nacional de Energía Eléctrica (ENEE) para realizar las colocaciones de los saldos disponibles de la emisión de títulos valores de la deuda pública, autorizadas en los artículos 2 y 3 del Decreto No. 171-2019, así como el endeudamiento autorizado en el Decreto No. 171-2020. Los recursos captados por este concepto serán destinados para financiar la deuda flotante de la ENEE al cierre del Ejercicio Fiscal 2020. Asimismo autoriza a la ENEE para realizar operaciones de gestiones de pasivos de las obligaciones vigentes, con el propósito de minimizar el riesgo y mejorar el perfil del portafolio de deuda, señalando además que las operaciones de gestión de pasivos que realice la ENEE no contarán contra el techo presupuestario de endeudamiento autorizado para el año 2021, y podrán realizarlo a través de operaciones de permuta, refinanciamiento, rescate anticipado de títulos, contrataciones de préstamos u otros mecanismos financieros y legamente viable, pudiendo acceder el mercado doméstico e internacional.
 
-CONSIDERANDO: Que mediante el Artículo 2 del Decreto Legislativo No.59-2021 del 20 de julio de 2021, publicado en el Diario Oficial “La Gaceta” el 26 de julio de 2021, se autorizó a la Empresa Nacional de Energía Eléctrica (ENEE), para adquirir nuevo endeudamiento hasta por un monto de NUEVE MIL MILLONES DE LEMPIRAS EXACTOS (L9,000,000,000.00) o su equivalente en dólares de los Estados Unidos de América (EUA). Asimismo, estableció que este nuevo endeudamiento y los saldos disponibles de la emisión de títulos y valores de la deuda pública autorizadas en los Artículos 2 y 3 del Decreto Legislativo No. 171-2019, asimismo como el endeudamiento autorizado en el Decreto Legislativo No. 171-2020, contarán con Garantía Soberana del Estado de Honduras, con base a lo establecido en el Artículo 78 de la Ley Orgánica del Presupuesto.
+CONSIDERANDO: Que mediante el Artículo 2 del Decreto Legislativo No. 59-2021 del 20 de julio de 2021, publicado en el Diario Oficial “La Gaceta” el 26 de julio de 2021, se autorizó a la Empresa Nacional de Energía Eléctrica (ENEE), para adquirir nuevo endeudamiento hasta por un monto de NUEVE MIL MILLONES DE LEMPIRAS EXACTOS (L9,000,000,000.00) o su equivalente en dólares de los Estados Unidos de América (EUA). Asimismo, estableció que este nuevo endeudamiento y los saldos disponibles de la emisión de títulos y valores de la deuda pública autorizadas en los Artículos 2 y 3 del Decreto Legislativo No. 171-2019, asimismo como el endeudamiento autorizado en el Decreto Legislativo No. 171-2020, contarán con Garantía Soberana del Estado de Honduras, con base a lo establecido en el Artículo 78 de la Ley Orgánica del Presupuesto.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No.043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre de 2020, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Estado de Coordinación General de Gobierno, Ingeniero Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de la Administración Pública, son potestad del Presidente Constitucional de la República.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No. 043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre de 2020, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Estado de Coordinación General de Gobierno, Ingeniero Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de la Administración Pública, son potestad del Presidente Constitucional de la República.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 41 de la Ley de Procedimiento Administrativo, corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
@@ -55,7 +53,7 @@ Artículos 245, numeral 11) de la Constitución de la República;
 
 116 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; 55 y 57 de la Ley del Banco Central de Honduras; 7 de la Ley de Mercado de Valores; 65 numeral 4) de la Ley Orgánica del Presupuesto;
 
-174 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021; 1 del Decreto Legislativo No.171-2020 y 2 del Decreto Legislativo No.59-2021.
+174 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021; 1 del Decreto Legislativo No. 171-2020 y 2 del Decreto Legislativo No. 59-2021.
 
 ACUERDA:
 
@@ -65,9 +63,7 @@ REGLAMENTO DE LAS CARACTERÍSTICAS, TÉRMINOS Y CONDICIONES DE LA EMISIÓN DENOM
 
 #### Artículo 1
 
-Artículo 1.- Se reglamenta la emisión de valores gubernamentales denominada “VALORES GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)” hasta por un monto de NUEVE MIL MILLONES DE LEMPIRAS EXACTOS (L9,000,000,000.00) destinado a cubrir obligaciones financieras por la Empresa Nacional de Energía Eléctrica (ENEE), correspondientes al pago de facturas a generadores de energía eléctrica, con el fin de garantizar la continuidad del servicio eléctrico, según lo autorizado en los Artículos 2 del Decreto Legislativo No.
-
-59-2021.
+Artículo 1.- Se reglamenta la emisión de valores gubernamentales denominada “VALORES GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)” hasta por un monto de NUEVE MIL MILLONES DE LEMPIRAS EXACTOS (L9,000,000,000.00) destinado a cubrir obligaciones financieras por la Empresa Nacional de Energía Eléctrica (ENEE), correspondientes al pago de facturas a generadores de energía eléctrica, con el fin de garantizar la continuidad del servicio eléctrico, según lo autorizado en los Artículos 2 del Decreto Legislativo No. 59-2021.
 
 La formalización de esta emisión se realizará mediante Acta suscrita por el titular de la Empresa Nacional de Energía Eléctrica (ENEE), el Presidente del Banco Central de Honduras (BCH) y el titular de la Secretaría de Estado en el Despacho de Finanzas.
 
@@ -85,7 +81,7 @@ Los valores gubernamentales podrán emitirse en moneda nacional, dólares de los
 
 El monto mínimo de cada operación de colocación en el mercado primario será de CIEN MIL LEMPIRAS EXACTOS (L100,000.00) y en múltiplos de UN MIL LEMPIRAS EXACTOS (L1,000.00) para montos superiores en la emisión de valores en moneda nacional y de DIEZ MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$10,000.00) y en múltiplos de UN MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$1,000.00), para montos superiores en la emisión de valores en dólares de los Estados Unidos de América y denominados en dólares de los Estados Unidos de América.
 
-Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No.301- 2018 del 5 de marzo de 2018.
+Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018.
 
 La tasa de descuento o de rendimiento para determinar el precio de corte a aceptar para cada una de las sub-emisiones, será fijada por la Empresa Nacional de Energía Eléctrica, a través de su Gerencia.
 
@@ -159,7 +155,7 @@ b) Cubrir los costos por la comisión de administración que se pagará al Banco
 
 Artículo 14.- El Banco Central de Honduras efectuará automáticamente los créditos a la cuenta que autorice la Empresa Nacional de Energía Eléctrica por el producto de las colocaciones o los cargos por el pago de comisiones, intereses y amortizaciones de capital, si a la fecha de los pagos respectivos, la Empresa Nacional de Energía Eléctrica no ha efectuado las transferencias de los fondos necesarios al Banco Central de Honduras.
 
-El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 2 del Decreto Legislativo No.59- 2021, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica.
+El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 2 del Decreto Legislativo No. 59-2021, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica.
 
 #### Artículo 15
 
@@ -183,7 +179,7 @@ Artículo 18.- En lo no previsto en el presente Acuerdo, se estará sujeto al Re
 
 SEGUNDO: Reformar los Artículos 1, 3 y 14 del Acuerdo Ejecutivo No.SEN-014-2020 del 3 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” el 10 de diciembre de 2020, contentivo del Reglamento de las Características, Términos y Condiciones de la Emisión denominada “Valores Gubernamentales de la Empresa Nacional de Energía Eléctrica (ENEE), el cual se leerá de la siguiente forma:
 
-“Artículo 1.- Se reglamenta la emisión de valores g u b e r n a m e n t a l e s d e n o m i n a d a “ VA L O R E S GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)”, hasta por un monto de SEIS MIL NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L6,094,300,000.00) para el financiamiento de las obligaciones financieras de la Empresa Nacional de Energía Eléctrica (ENEE) según lo autorizado en los Artículos 2 del Decreto Legislativo No.151-2019 del 4 de diciembre de 2019, 2, 3 y 169 del Decreto Legislativo No.171-2019 del 12 de diciembre de 2019, 1 del Decreto Legislativo No.171-2020 del 17 de diciembre de 2020, 174 del Decreto Legislativo No.182-2020 del 22 de diciembre de 2020 y 2 del Decreto Legislativo No.59-2021 del 20 de julio de 2021”. El monto será utilizado para el financiamiento de las obligaciones de la ENEE correspondientes al pago de facturas a generadores de energía eléctrica”.
+“Artículo 1.- Se reglamenta la emisión de valores gubernamentales denominada “ VA L O R E S GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)”, hasta por un monto de SEIS MIL NOVENTA Y CUATRO MILLONES TRESCIENTOS MIL LEMPIRAS EXACTOS (L6,094,300,000.00) para el financiamiento de las obligaciones financieras de la Empresa Nacional de Energía Eléctrica (ENEE) según lo autorizado en los Artículos 2 del Decreto Legislativo No. 151-2019 del 4 de diciembre de 2019, 2, 3 y 169 del Decreto Legislativo No. 171-2019 del 12 de diciembre de 2019, 1 del Decreto Legislativo No. 171-2020 del 17 de diciembre de 2020, 174 del Decreto Legislativo No. 182-2020 del 22 de diciembre de 2020 y 2 del Decreto Legislativo No. 59-2021 del 20 de julio de 2021”. El monto será utilizado para el financiamiento de las obligaciones de la ENEE correspondientes al pago de facturas a generadores de energía eléctrica”.
 
 “Artículo 3.- Los valores gubernamentales de la presente emisión, tendrán las características siguientes:
 
@@ -191,17 +187,17 @@ Los valores gubernamentales podrán emitirse en moneda nacional, dólares de los
 
 El monto mínimo de cada operación de colocación en el mercado primario será de CIEN MIL LEMPIRAS EXACTOS (L100,000.00) y en múltiplos de UN MIL LEMPIRAS EXACTOS (L1,000.00) para montos superiores en la emisión de valores en moneda nacional y de DIEZ MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$10,000.00) y en múltiplos de UN MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$1,000.00), para montos superiores en la emisión de valores en dólares de los Estados Unidos de América y denominados en dólares de los Estados Unidos de América.
 
-Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No.301- 2018 del 5 de marzo de 2018.
+Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018.
 
 La tasa de descuento o de rendimiento para determinar el precio de corte a aceptar para cada una de las sub-emisiones, será fijada por la Empresa Nacional de Energía Eléctrica, a través de su Gerencia.
 
 Los valores gubernamentales se identificarán mediante un Código ISIN asignado por la Comisión Nacional de Bancos y Seguros (CNBS). La fecha de emisión será la fecha que defina la Empresa Nacional de Energía Eléctrica de cada una de las sub-emisiones y podrán ser colocados de una sola vez o mediante el mecanismo de emisión por tramos o plazos al vencimiento.
 
-Asimismo, Empresa Nacional de Energía Eléctrica podrá utilizar los Códigos ISIN autorizados mediante Resolución GPU No.649/17-12-2020, siempre que dichas emisiones cuenten con las mismas características relacionadas al Código ISIN”.
+Asimismo, Empresa Nacional de Energía Eléctrica podrá utilizar los Códigos ISIN autorizados mediante Resolución GPU No. 649/17-12-2020, siempre que dichas emisiones cuenten con las mismas características relacionadas al Código ISIN”.
 
 “Artículo 14.- El Banco Central de Honduras efectuará automáticamente los créditos a la cuenta que autorice la Empresa Nacional de Energía Eléctrica por el producto de las colocaciones o los cargos por el pago de comisiones, intereses y amortizaciones de capital, si a la fecha de los pagos respectivos, la Empresa Nacional de Energía Eléctrica no ha efectuado las transferencias de los fondos necesarios al Banco Central de Honduras.
 
-El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 2 del Decreto Legislativo No.151-2019 y 2 del Decreto Legislativo No. 59-2021, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica”.
+El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 2 del Decreto Legislativo No. 151-2019 y 2 del Decreto Legislativo No. 59-2021, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica”.
 
 TERCERO: El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial “La Gaceta”.
 

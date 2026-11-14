@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ministerial No. SAG-178-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251227-37029/download"
 extraido: "2026-11-09"
-huella: "9d34e9c231e98f02"
+huella: "53ebda00dc07d5a1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SAG-178-2025
@@ -285,7 +285,7 @@ SÉPTIMO:
 
 Los pescadores buzos que participen en la actividad de pesca de caracol deberán contar y presentar al momento del zarpe de la embarcación, la siguiente documentación:
 
-1. Carné de pescador buzo extendido por la DIGEPESCA (el incumplimiento de esta disposición dará lugar a la apertura del proceso a d m i n i s t r a t i v o q u e corresponda, conforme a la Ley de Pesca y Acuicultura y demás normativa derivada).
+1. Carné de pescador buzo extendido por la DIGEPESCA (el incumplimiento de esta disposición dará lugar a la apertura del proceso administrativo que corresponda, conforme a la Ley de Pesca y Acuicultura y demás normativa derivada).
 
 2. Certificado de Buceo Seguro (extendido por el INFOP).
 
@@ -293,7 +293,7 @@ VIGÉSIMO
 
 OCTAVO:
 
-La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557- 20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Rosado (Aliger gigas) dentro de nuestra ZEE.
+La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557-20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Rosado (Aliger gigas) dentro de nuestra ZEE.
 
 VIGÉSIMO
 
@@ -359,7 +359,7 @@ TRIGÉSIMO
 
 SÉPTIMO:
 
-T o d a s l a s d i s p o s i c i o n e s establecidas en el presente Acuerdo son de cumplimiento obligatorio. La DIGEPESCA evaluará el comportamiento de las embarcaciones pesqueras por cada uno de los viajes de pesca, y si se encontrará alguna inconsistencia o acciones que contravengan las disposiciones regulatorias del presente acuerdo y a la Ley General de Pesca y Acuicultura, se realizará el procedimiento administrativo de manera inmediata, a fin de que se puedan tomar acciones adecuadas en el manejo de las actividades ilícitas si fuera el caso, incluyendo el decomiso de los productos provenientes de pesca ilegal.
+Todas las disposiciones establecidas en el presente Acuerdo son de cumplimiento obligatorio. La DIGEPESCA evaluará el comportamiento de las embarcaciones pesqueras por cada uno de los viajes de pesca, y si se encontrará alguna inconsistencia o acciones que contravengan las disposiciones regulatorias del presente acuerdo y a la Ley General de Pesca y Acuicultura, se realizará el procedimiento administrativo de manera inmediata, a fin de que se puedan tomar acciones adecuadas en el manejo de las actividades ilícitas si fuera el caso, incluyendo el decomiso de los productos provenientes de pesca ilegal.
 
 TRIGÉSIMO
 

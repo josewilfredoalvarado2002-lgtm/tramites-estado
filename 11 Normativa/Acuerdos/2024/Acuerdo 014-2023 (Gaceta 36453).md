@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Acuerdos Ministeriales Nos. 009-2024, 010-2024, 011-2024, 012-2024, 013-2024, 014-2023, 015-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240206-36453/download"
 extraido: "2026-11-14"
-huella: "60031c7c0b7f4b7f"
+huella: "2a2d746ede5bb046"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 014-2023
@@ -53,7 +53,7 @@ PRIMERO: Publicar de conformidad a lo establecido en el
 
 Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por la Instancia Ministerial de la Unión Aduanera entre la República de El Salvador, la República de Guatemala y la República de Honduras mediante la Resolución Instancia Ministerial - UA No. 116-2023; que RESUELVE: 1. Aprobar el listado de “Mercancías con condición sanitaria diferenciada para insumos agropecuarios” que están exceptuadas de libre circulación entre las Repúblicas de El Salvador, Guatemala y Honduras, en la forma en la que aparece en el Anexo de la presente Resolución y que forma parte integrante de la misma.
 
-2. No obstante lo indicado en el numeral 1 de esta Resolución, el listado al que se refiere dicho numeral entrará en vigor cuando la Instancia Ministerial adopte el acto administrativo correspondiente, en cuyo caso quedará derogada la Resolución de la Instancia Ministerial de la Unión Aduanera No. 98- 2021, del 16 de diciembre de 2021 y su Anexo. 3. La presente Resolución entra en vigor a partir de la presente fecha y será publicada por los Estados Parte.
+2. No obstante lo indicado en el numeral 1 de esta Resolución, el listado al que se refiere dicho numeral entrará en vigor cuando la Instancia Ministerial adopte el acto administrativo correspondiente, en cuyo caso quedará derogada la Resolución de la Instancia Ministerial de la Unión Aduanera No. 98-2021, del 16 de diciembre de 2021 y su Anexo. 3. La presente Resolución entra en vigor a partir de la presente fecha y será publicada por los Estados Parte.
 
 SEGUNDO: Ordenar que, para hacer del conocimiento público, la Resolución aquí nominada, deba ser publicada en la página Web Oficial de la Secretaría de Estado en el Despacho de Desarrollo Económico, www.sde.gob.hn
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdo número 041-2022, Acuerdo Ministerial No. 043-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220602-35939/download"
 extraido: "2026-11-14"
-huella: "612910ad567d91bd"
+huella: "e241bc99e18dc20b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO 043-2022
@@ -49,7 +49,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las 
 
 ACUERDA:
 
-PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No. 02- 2022; que RESUELVE: 1. Modificar la Hoja de Ruta para la implementación operativa en El Salvador del Proceso de integración Profunda, aprobada por el Acuerdo de la Instancia Ministerial-UA No. 06-2021, del 16 de diciembre de 2021, en la forma en que aparece en el Anexo del presente Acuerdo.
+PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No. 02-2022; que RESUELVE: 1. Modificar la Hoja de Ruta para la implementación operativa en El Salvador del Proceso de integración Profunda, aprobada por el Acuerdo de la Instancia Ministerial-UA No. 06-2021, del 16 de diciembre de 2021, en la forma en que aparece en el Anexo del presente Acuerdo.
 
 2. El presente Acuerdo entra en vigor a partir de esta fecha y será publicado por los Estados Parte.
 

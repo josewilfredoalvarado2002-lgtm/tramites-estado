@@ -8,7 +8,7 @@ gaceta_numero: 36153
 gaceta_fecha: "2023-02-11"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36153 (2023-02-11)|La Gaceta 36153]]"
 paginas: "A. 3 - 4"
-sumario: "Decreto No. 148-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2023"
+sumario: "Decreto No. 148-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230211-36153/download"
 extraido: "2026-11-14"
 huella: "db7715b4b31aeb86"
@@ -23,7 +23,7 @@ huella: "db7715b4b31aeb86"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36153 (2023-02-11)\|La Gaceta 36153]] del 2023-02-11 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Decreto No. 148-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2023 |
+| Según el sumario de La Gaceta | Decreto No. 148-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2023 |
 
 ## Texto
 

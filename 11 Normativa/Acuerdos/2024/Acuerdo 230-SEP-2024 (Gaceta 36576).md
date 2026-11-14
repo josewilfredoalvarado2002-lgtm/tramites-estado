@@ -11,7 +11,7 @@ paginas: "A. 1 - 21"
 sumario: "Acuerdo Número 230-SEP-2024, Acuerdo Ejecutivo No. 156-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240703-36576/download"
 extraido: "2026-11-14"
-huella: "75e35cf24999ebe9"
+huella: "0159920005f5bb2c"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 230-SEP-2024
@@ -141,7 +141,7 @@ Capítulo I. Términos y Definiciones
 
 2. Acoso sexual: Comentarios, insinuaciones, gestos o comportamientos sexuales no deseados que crean un ambiente laboral incómodo, intimidante o degradante para la persona afectada.
 
-2 Fuentes: Guillermo Cabanellas de Torres, Diccionario Jurídico Elemental, 2006. Código Penal de Honduras, aprobado mediante el de­ creto 130-2017 de fecha 18 de enero de 2018 y publicado en el Diario Oficial La Gaceta No. 34,940 de fecha 10 de mayo de 2019, firmado por el Poder Ejecutivo con fecha 31 de enero de 2019. Ley de Servicio Civil aprobado mediante el Decreto No. 126 de 1968. Reglamento de la Ley de Servicio Civil aprobado mediante Acuerdo Ejecutivo No. A-018- 2009. Reglamento para la Integración y Funcionamiento de los Comités de Probidad y Ética Pública, reformado mediante Pleno Administrativo del Tribunal Superior de Cuentas No. 08/2015, publicado en el Diario Oficial La Gaceta No. 33,908 de fecha 14 de diciembre del 2015. Código Procesal Civil aprobado mediante Decreto No. 211-2006 publicado en el Diario Oficial La Gaceta No. 31,313 de fecha 26 de mayo de 2007. Ley Contra la Violencia Doméstica aprobado mediante Decreto No. 132-97 publicado en el Diario Oficial La Gaceta No. 28,414 de fecha 15 de no­ viembre de 1997. Ley General de la Administración Pública, publicado en el Diario Oficial La Gaceta No. 25,088 del 29 de noviembre de 1986.
+2 Fuentes: Guillermo Cabanellas de Torres, Diccionario Jurídico Elemental, 2006. Código Penal de Honduras, aprobado mediante el de­ creto 130-2017 de fecha 18 de enero de 2018 y publicado en el Diario Oficial La Gaceta No. 34,940 de fecha 10 de mayo de 2019, firmado por el Poder Ejecutivo con fecha 31 de enero de 2019. Ley de Servicio Civil aprobado mediante el Decreto No. 126 de 1968. Reglamento de la Ley de Servicio Civil aprobado mediante Acuerdo Ejecutivo No. A-018-2009. Reglamento para la Integración y Funcionamiento de los Comités de Probidad y Ética Pública, reformado mediante Pleno Administrativo del Tribunal Superior de Cuentas No. 08/2015, publicado en el Diario Oficial La Gaceta No. 33,908 de fecha 14 de diciembre del 2015. Código Procesal Civil aprobado mediante Decreto No. 211-2006 publicado en el Diario Oficial La Gaceta No. 31,313 de fecha 26 de mayo de 2007. Ley Contra la Violencia Doméstica aprobado mediante Decreto No. 132-97 publicado en el Diario Oficial La Gaceta No. 28,414 de fecha 15 de no­ viembre de 1997. Ley General de la Administración Pública, publicado en el Diario Oficial La Gaceta No. 25,088 del 29 de noviembre de 1986.
 
 Diccionario de la Real Academia Española (2023).
 
@@ -403,7 +403,7 @@ Capítulo III. Responsabilidades y competencias de los canales de denuncia para 
 
 1.4 Es el encargado de realizar las convocatorias a la Unidad de Género y a Dirección Legal para las revisiones al Buzón Violeta, que se realizarán cada 15 días calendario, dicha convocatoria deberá contener, fecha, hora y lugar, que se realizará el proceso de revisión de denuncias en casos de acoso sexual interpuestas mediante el Buzón Violeta.
 
-5 Reglamento de la Ley de Servicio Civil, Acuerdo No. A-018- 2009, publicado en el Diario Oficial La Gaceta No.32,012 del 11 de septiembre de 2009.
+5 Reglamento de la Ley de Servicio Civil, Acuerdo No. A-018-2009, publicado en el Diario Oficial La Gaceta No. 32,012 del 11 de septiembre de 2009.
 
 1.5 La Sub-Gerencia de Recursos Humanos designará a una persona profesional de la psicología para atender, acompañar y dar seguimiento a la denuncia por parte de la persona servidora o funcionaria pública.
 

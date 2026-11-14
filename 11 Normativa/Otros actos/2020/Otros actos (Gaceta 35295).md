@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200626-35295/download"
 extraido: "2026-11-14"
-huella: "6a3840184c14a67d"
+huella: "c719e919f035d7b6"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -29,7 +29,7 @@ huella: "6a3840184c14a67d"
 
 Inclusión Social
 
-ACUERDO MINISTERIAL NÚMERO 029 -SEDIS- 2020 EL SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO E INCLUSIÓN SOCIAL
+ACUERDO MINISTERIAL NÚMERO 029 -SEDIS-2020 EL SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO E INCLUSIÓN SOCIAL
 
 CONSIDERANDO: Que la Constitución de la República establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
@@ -53,7 +53,7 @@ POR TANTO, El Secretario de Estado en el Despacho de Desarrollo e Inclusión Soc
 
 ACUERDA:
 
-P R I M E R O : R e f o r m a r e l “ M A N U A L D E PROCEDIMIENTOS OPERATIVOS DEL PROGRAMA DE ACOMPAÑAMIENTO Y FORTALECIMIENTO SOCIAL EN SU COMPONENTE GUÍAS DE FAMILIA COORDINADO POR LA DIRECCIÓN DE ACOMPAÑAMIENTO Y FORTALECIMIENTO SOCIAL”, en los acápites siguientes, mismos que se reforman y leerán así:
+PRIMERO: Reformar el “ MANUAL DE PROCEDIMIENTOS OPERATIVOS DEL PROGRAMA DE ACOMPAÑAMIENTO Y FORTALECIMIENTO SOCIAL EN SU COMPONENTE GUÍAS DE FAMILIA COORDINADO POR LA DIRECCIÓN DE ACOMPAÑAMIENTO Y FORTALECIMIENTO SOCIAL”, en los acápites siguientes, mismos que se reforman y leerán así:
 
 “ESTRUCTURA ORGANIZACIÓN DE LA DIRECCION
 

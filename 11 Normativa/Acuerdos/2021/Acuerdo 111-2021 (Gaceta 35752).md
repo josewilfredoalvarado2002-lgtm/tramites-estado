@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Nos. 109-2021, 110-2021, 111-2021, 112-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211022-35752/download"
 extraido: "2026-11-14"
-huella: "5d03903aa280604c"
+huella: "c19e2575195ccc29"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 111-2021
@@ -31,17 +31,13 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-032-2017, publicado en el Diario Oficial “La Gaceta” de fecha 19 de mayo de 2017, edición No. 34,342 se crea la Agencia de Regulación Sanitaria (ARSA).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-132-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombró a la ciudadana EVELIN YOHANA HERNANDEZ MEJÍA, en el cargo Comisionada de la Agencia de Regulación Sanitaria (ARSA).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 132-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombró a la ciudadana EVELIN YOHANA HERNANDEZ MEJÍA, en el cargo Comisionada de la Agencia de Regulación Sanitaria (ARSA).
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 7-2021, publicado en el Diario Oficial “La Gaceta” de fecha 12 de junio de 2021, edición No. 35,626 se ratifica la creación de la Agencia de Regulación Sanitaria (ARSA).
 
 POR TANTO;
 
-En uso de las facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No.
-
-09-2018 de fecha 27 de enero de 2018 y en aplicación de los
+En uso de las facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No. 09-2018 de fecha 27 de enero de 2018 y en aplicación de los
 
 Artículos 235 y 245 atribución 11 de la Constitución de la República; 11, 13, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto No. 7-2021.
 

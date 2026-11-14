@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo número SEDGRCNC-001-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200122-35155/download"
 extraido: "2026-11-14"
-huella: "3a662ca4c0c79898"
+huella: "17c908e52e4e6e5d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEDGRCNC-001-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que es facultad propia del Secretario de Estado en los Despachos d
 
 CONSIDERANDO: Que para una mejor coordinación y ejecución de las diferentes actividades que se llevan a cabo en la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, es necesario delegar en una autoridad, determinadas acciones; quien verificará y firmará lo relativo a Planillas de pago, cheques y todo documento concerniente como ser oficios, memorándum, contratos, convenio, acuerdos y cartas de entendimiento a fin de agilizar los procesos de personal y tener un mejoramiento administrativo, volviendo expedita la gestión de la administración pública.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Delegar al Subcomisionado Nacional de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales COPECO, al señor CARLOS ANTONIO CORDERO SUAREZ con Tarjeta de Identidad No. 0801-1948-02421, la potestad exclusiva de firma de Planillas de pago, cheques y todo documento relacionado al funcionamiento de la institución como ser oficios, memorándum, contratos, convenios, acuerdos y cartas de entendimiento.
 
@@ -45,7 +45,7 @@ TERCERO: Todos los actos administrativos que se emitan en cumplimiento del prese
 
 CUARTO: El presente acuerdo será de ejecución inmediata y deberá ser publicado en el Diario Oficial La Gaceta, tendrá una vigencia del periodo comprendido del 02 de enero del 2020 al 31 de diciembre del 2020.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 GABRIEL ALFREDO RUBI PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTION DE RIESGO Y CONTINGENCIAS NACIONALES COPECO ABOGADO MAURICIO ALEXANDER LAGOS SECRETARIO GENERAL INTERINO COPECO _____
 

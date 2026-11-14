@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. 071-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210302-35532/download"
 extraido: "2026-11-14"
-huella: "bbaf8f1328bfe03f"
+huella: "8d6588969ef3c0be"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 071-2021
@@ -75,7 +75,7 @@ TERCERO: La Dirección General de Vigilancia del Marco Normativo emitirá un reg
 
 CUARTO: El presente Acuerdo entrará en vigencia a partir de esta fecha y deberá ser publicado en el Diario Oficial La Gaceta.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 LICENCIADA ALBA CONSUELO FLORES FERRUFINO SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD ABOGADA SARA DEL CARMEN ALVAREZ SANCHEZ SECRETARIA GENERAL
 

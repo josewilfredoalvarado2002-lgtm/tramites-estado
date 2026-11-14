@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. SAG-180-2026, SAG-181-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260530-37155/download"
 extraido: "2026-11-09"
-huella: "4d46b82816a9803d"
+huella: "3589821028b3befa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-180-2026
@@ -35,11 +35,11 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Se
 
 CONSIDERANDO: Que son atribuciones y deberes de los Secretarios de Estados, emitir los acuerdos y resoluciones en AVANCE los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución.
 
-CONSIDERANDO: Que en fecha 15 de abril de 2026, se suscribió el nuevo Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República la Secretaría de Agricultura y Ganadería (SAG) y la Oficina Presidencial de Comercio Exterior (OPCE), elevado Acuerdo Ejecutivo Número 096- 2026, publicado en el Diario Oficial “La Gaceta” en fecha 05 de mayo de 2026.
+CONSIDERANDO: Que en fecha 15 de abril de 2026, se suscribió el nuevo Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República la Secretaría de Agricultura y Ganadería (SAG) y la Oficina Presidencial de Comercio Exterior (OPCE), elevado Acuerdo Ejecutivo Número 096-2026, publicado en el Diario Oficial “La Gaceta” en fecha 05 de mayo de 2026.
 
 CONSIDERANDO: Que el Literal b) del Numeral 1, del Acuerdo Ejecutivo Número 096-2026, establece lo siguiente:
 
-“A fin de dar continuidad con el proceso de la compra de la producción nacional del maíz del Ciclo Agrícola 2025- 2026, las compras realizadas del 01 de septiembre al 31 de diciembre de 2025 (primer corte), serán revisadas y validadas por la Comisión de Supervisión del presente Convenio, para efecto de las importaciones correspondientes, tomando como base el Informe de Compras de Maíz que presente el Ente Contralor, manteniendo las condiciones de la relación de compra/importación, establecida en el Numeral 12, del Acuerdo Ejecutivo Número 118-2025”.
+“A fin de dar continuidad con el proceso de la compra de la producción nacional del maíz del Ciclo Agrícola 2025-2026, las compras realizadas del 01 de septiembre al 31 de diciembre de 2025 (primer corte), serán revisadas y validadas por la Comisión de Supervisión del presente Convenio, para efecto de las importaciones correspondientes, tomando como base el Informe de Compras de Maíz que presente el Ente Contralor, manteniendo las condiciones de la relación de compra/importación, establecida en el Numeral 12, del Acuerdo Ejecutivo Número 118-2025”.
 
 CONSIDERANDO: Que en el Primer Párrafo del Numeral 12, del Acuerdo Ejecutivo Número 096-2026, expresa lo siguiente: “La relación de compra/importación de maíz blanco (1005.90.30.00.) será por un (1) quintal de maíz blanco comprado a nivel nacional derecho a importar Uno Punto Ocho de Quintal de Maíz Blanco (1x1.8 QQ), esta relación estará vigente para el Ciclo Agrícola 2025-2026 (primera y postrera). El Gobierno de la República, revisará la relación de compra/importación para cada Ciclo Agrícola”.
 

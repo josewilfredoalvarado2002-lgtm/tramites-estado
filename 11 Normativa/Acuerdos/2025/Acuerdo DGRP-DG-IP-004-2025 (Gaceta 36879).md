@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo No. DGRP-DG-IP-004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250702-36879/download"
 extraido: "2026-11-10"
-huella: "258164581293c936"
+huella: "7992d7eef2ee7a77"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-DG-IP-004-2025
@@ -65,9 +65,7 @@ En cumplimiento a los deberes y atribuciones señalados en los artículos 321 de
 
 \9) 10), 55,60, 61, 62 y 67 y los Artículos 2, 15, 179, 181 literal
 
-e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No.
-
-CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
+e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No. CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
 
 ACUERDA:
 
@@ -81,9 +79,7 @@ TERCERO: Este Acuerdo deberá publicarse en el Diario Oficial La Gaceta y en un 
 
 CUARTO: El presente Acuerdo entrará en vigencia el día de su publicación en el Diario Oficial La Gaceta. -NOTIFÍQUESE Y CÚMPLASE.
 
-DANIEL EDUARDO RIVERA UMAÑA DIRECTOR GENERAL DE REGULARIZACIÓN PREDIAL Instituto de la Propiedad COMUNICADO El Instituto de la Propiedad, a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No.
-
-CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA: que habiéndose vencido el plazo de la Vista Pública Administrativa establecido en el Artículo No. 64 de la Ley de Propiedad, equivalente a 30 días, para que los propietarios(as), ocupantes y tenedores(as) de terrenos que se encuentran dentro del área que comprenden las comunidades siguientes:
+DANIEL EDUARDO RIVERA UMAÑA DIRECTOR GENERAL DE REGULARIZACIÓN PREDIAL Instituto de la Propiedad COMUNICADO El Instituto de la Propiedad, a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No. CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA: que habiéndose vencido el plazo de la Vista Pública Administrativa establecido en el Artículo No. 64 de la Ley de Propiedad, equivalente a 30 días, para que los propietarios(as), ocupantes y tenedores(as) de terrenos que se encuentran dentro del área que comprenden las comunidades siguientes:
 
 Asentamiento humano Departamento Municipio Aldea Caserío Lempira Lepaera Lepaera Lepaera Pudieran haber acudido a las mesas de consulta a solicitar las correcciones incurridas por errores u omisiones al momento del levantamiento del catastro; por lo que se da por agotado el proceso de validación del levantamiento catastro registral.
 

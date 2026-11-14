@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250617-36866/download"
 extraido: "2026-11-10"
-huella: "e66e02aeff2d39d6"
+huella: "bbd8c51dbc1a9682"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ Secretaría de Estado en el Despacho de Defensa Nacional ACUERDO C.G. No. 006-20
 
 CONSIDERANDO (01): Que la Constitución de la República en su Artículo 245 establece las atribuciones del Presidente de la República, dentro de las cuales se hace referencia específica en el numeral “36) Conferir grados militares desde Subteniente hasta Capitán, inclusive”.
 
-CONSIDERANDO (02): Que la Constitución de la República en su Artículo 274 párrafo primero establece que “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás AVANCE instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección d e l a m b i e n t e , v i a l i d a d , comunicaciones, sanidad y reforma agraria”.
+CONSIDERANDO (02): Que la Constitución de la República en su Artículo 274 párrafo primero establece que “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás AVANCE instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
 
 CONSIDERANDO (03): Que la Constitución de la República en su Artículo 290 establece que “Los grados militares sólo se adquieren por riguroso ascenso de acuerdo con la Ley respectiva. Los militares no podrán ser privados de sus grados, honores y pensiones en otra forma que la fijada por la Ley.
 
@@ -63,7 +63,7 @@ CONSIDERANDO (11): Que el Reglamento de Ascenso para Oficiales de las Fuerzas Ar
 
 CONSIDERANDO (12): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 10 establece los requisitos para ser declarados aptos para el ascenso a oficiales de las armas, cuerpos y servicios, dentro de los cuales se hace referencia específica en el inciso “a) Ascenso al Grado de Subteniente o su equivalente: Haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
-CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 12 establece que “SON REQUISITOS COMUNES P A R A A S C E N S O D E LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas.
+CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 12 establece que “SON REQUISITOS COMUNES PARA ASCENSO DE LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas.
 
 c) Condición moral puesta de manifiesto, por el carácter y buena conducta militar. d) Aptitud intelectual, espíritu militar y competencia para el desempeño en el grado inmediato superior. e) No estar sometido a juicio en el que se haya dictado auto de prisión, ni haber sido condenado por delito alguno en el año anterior a su promoción.
 
@@ -79,9 +79,7 @@ CONSIDERANDO (15): Que la Dirección de Recursos Humanos (C-1) del Estado Mayor 
 
 POR TANTO
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 inciso a) y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No.
-
-003-2025 de fecha 05 de febrero del año 2025 emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=031(C-1) 2025 de fecha 19 de febrero del año 2025 emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 inciso a) y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No. 003-2025 de fecha 05 de febrero del año 2025 emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=031(C-1) 2025 de fecha 19 de febrero del año 2025 emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
 
 ACUERDA
 
@@ -99,7 +97,7 @@ IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA ABOGADA
 
 CONSIDERANDO (01): Que la Constitución de la República en su Artículo 245 establece las atribuciones del Presidente de la República, dentro de las cuales se hace referencia específica en el numeral “36) Conferir grados militares desde Subteniente hasta Capitán, inclusive”.
 
-CONSIDERANDO (02): Que la Constitución de la República en su artículo 274 párrafo primero establece que “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
+CONSIDERANDO (02): Que la Constitución de la República en su artículo 274 párrafo primero establece que “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
 
 CONSIDERANDO (03): Que la Constitución de la República en su artículo 290 establece que “Los grados militares sólo se adquieren por riguroso ascenso de acuerdo con la Ley respectiva. Los militares no podrán ser privados de sus grados, honores y pensiones en otra forma que la fijada por la Ley.
 
@@ -129,7 +127,7 @@ CONSIDERANDO (11): Que el Reglamento de Ascenso para Oficiales de las Fuerzas Ar
 
 CONSIDERANDO (12): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 10 establece los requisitos para ser declarados aptos para el ascenso a oficiales de las armas, cuerpos y servicios, dentro de los cuales se hace referencia específica en el inciso “a) Ascenso al Grado de Subteniente o su equivalente: Haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
-CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 12 establece que “SON REQUISITOS COMUNES P A R A A S C E N S O D E LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas.
+CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras en su artículo 12 establece que “SON REQUISITOS COMUNES PARA ASCENSO DE LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas.
 
 c) Condición moral puesta de manifiesto, por el carácter y buena conducta militar. d) Aptitud intelectual, espíritu militar y competencia para el desempeño en el grado inmediato superior. e) No estar sometido a juicio en el que se haya dictado auto de prisión, ni haber sido condenado por delito alguno en el año anterior a su promoción.
 

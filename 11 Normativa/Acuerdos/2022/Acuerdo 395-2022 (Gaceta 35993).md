@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Acuerdo Ejecutivo Número 395-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220804-35993/download"
 extraido: "2026-11-14"
-huella: "f935a7610001dcca"
+huella: "66285f3eb45b4ad1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 395-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de acuerdo con lo previsto por el artículo 116 de la Ley Gene
 
 CONSIDERANDO: Que el Congreso de la República mediante Decreto Legislativo 66-2022, publicado en el Diario Oficial La Gaceta No. 35,950 el 15 de junio de 2022, derogó artículos y Decretos Legislativos a través de los cuales le autorizó a organismos de la administración pública, la creación de contratos de fideicomiso para administrar bienes y recursos del Estado e instruyó a las Secretarías de Estado e Instituciones Desconcentradas; a los Presidentes y miembros directivos de las instituciones descentralizadas que representan al Gobierno y a las instituciones financieras estatales, a realizar la rescisión y liquidación de los contratos o convenios de fideicomisos y transferir a la Cuenta Única de la Tesorería General dependiente de la Secretaría de Finanzas, las disponibilidades inmediatas, inversiones en títulos valores en el país o en el exterior, así como los rendimientos financieros. Asimismo, otorgó a la Secretaría de Finanzas la facultad expresa para reglamentar la ejecución de la Ley, fijando como plazo sesenta días calendario
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.322-2013 publicado en el Diario Oficial La Gaceta el 31 de enero del 2014, el Congreso de la República, autorizó al Comité Técnico del Fideicomiso del Fondo de Protección y Seguridad Poblacional, adquirir con instituciones del Sistema Financiero Nacional o Financiamiento Internacional, obligaciones que serían garantizadas con las aportaciones que percibiera el Comité y dentro de las cuales el Fideicomiso mantiene obligaciones financieras hasta el año 2029.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 322-2013 publicado en el Diario Oficial La Gaceta el 31 de enero del 2014, el Congreso de la República, autorizó al Comité Técnico del Fideicomiso del Fondo de Protección y Seguridad Poblacional, adquirir con instituciones del Sistema Financiero Nacional o Financiamiento Internacional, obligaciones que serían garantizadas con las aportaciones que percibiera el Comité y dentro de las cuales el Fideicomiso mantiene obligaciones financieras hasta el año 2029.
 
 Información que era considerada secreta amparada en el Decreto Legislativo No. 418-2013, publicado en el Diario Oficial La Gaceta el 7 de marzo de 2014, contentivo de la Ley para la Clasificación de Documentos Públicos relacionados con la Seguridad y Defensa Nacional.
 

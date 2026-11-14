@@ -11,7 +11,7 @@ paginas: "A. 5 - 24"
 sumario: "Acuerdo Ejecutivo No. 74-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250618-36867/download"
 extraido: "2026-11-10"
-huella: "4a91432845eb5296"
+huella: "016ed82ed1728d59"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 74-2025
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO (1): Que dentro de las atribuciones previstas en la Constitución de la República, la Presidenta de la República, ejerce el mando en Jefe de las Fuerzas Armadas en su carácter de Comandante General y adoptar las medidas necesarias para la defensa de la República.
 
-CONSIDERANDO (2): Que la Ley General de la A d m i n i s t r a c i ó n P ú b l i c a dispone que la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, y en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
+CONSIDERANDO (2): Que la Ley General de la Administración Pública dispone que la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, y en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
 CONSIDERANDO (3): Que el Capítulo VII, de las Secretarías de Estado, taxativamente en el artículo 246 de la Constitución de la República detalla, que las Secretarías de Estado son órganos de la Administración General del país y dependen directamente del Presidente de la República.
 
@@ -41,7 +41,7 @@ CONSIDERANDO (5): Que el artículo 4 de la Ley de Procedimiento Administrativo, 
 
 CONSIDERANDO (6): Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece que el Presidente de la República tiene a su cargo la suprema administración general del Estado, ejerciendo las facultades previstas en la Constitución de la República y las leyes. Los Designados a la Presidencia cumplen las tareas que les encomiende el Presidente de la República (artículo 7).
 
-CONSIDERANDO (7): Q u e e l R e g l a m e n t o d e Organización, Funcionamiento y Competencias del Poder Ejecutivo en el artículo 9 establece las atribuciones que corresponden al Presidente de la República, dentro de las cuales se hace referencia específica al numeral “2) Asumir temporalmente las funciones de cualquiera de las Secretarías de Estado, en caso de ausencia o de impedimento legal de su titular o de sus sustitutos legales, o encargar estas funciones, en esos mismos casos, al Secretario de Estado que designe”.
+CONSIDERANDO (7): Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo en el artículo 9 establece las atribuciones que corresponden al Presidente de la República, dentro de las cuales se hace referencia específica al numeral “2) Asumir temporalmente las funciones de cualquiera de las Secretarías de Estado, en caso de ausencia o de impedimento legal de su titular o de sus sustitutos legales, o encargar estas funciones, en esos mismos casos, al Secretario de Estado que designe”.
 
 CONSIDERANDO (8): Que la Ley de Procedimiento Administrativo en el artículo 4 establece que “Sin perjuicio de lo dispuesto en el artículo anterior, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior. En defecto de disposición legal, el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al Ramo de la Administración de que forman parte el superior y el inferior”.
 
@@ -101,9 +101,7 @@ CONSIDERANDO: Que corresponde al SENASA planificar y ejecutar acciones para ejer
 
 CONSIDERANDO: Que el país debe adecuar la aplicación de la legislación fitosanitaria y zoosanitaria a los acuerdos regionales e internacionales firmados entre los Gobiernos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
 CONSIDERANDO: Que es necesario para Honduras establecer los procedimientos y requisitos, que permitan que las personas que utilizan embalajes de madera para el comercio internacional de bienes y mercancías, cumplan con la normativa internacional vigente en materia fitosanitaria.
 
@@ -169,7 +167,7 @@ Marca: Sello oficial que se aplica al embalaje de madera y que es reconocido por
 
 Medida fitosanitaria: Los tratamientos establecidos en la NIMF-15 “Reglamentación del Embalaje de Madera Utilizado en el Comercio Internacional”, que tienen el propósito de reducir la introducción y/o diseminación de plagas cuarentenarias asociadas al embalaje de madera.
 
-NIMF No.15. Norma Internacional de Medidas Fitosanitarias No. 15, denominada “Reglamentación del Embalaje de Madera Utilizado en el Comercio Internacional”, aprobada y publicada por la Convención Internacional de Protección Fitosanitaria de la FAO.
+NIMF No. 15. Norma Internacional de Medidas Fitosanitarias No. 15, denominada “Reglamentación del Embalaje de Madera Utilizado en el Comercio Internacional”, aprobada y publicada por la Convención Internacional de Protección Fitosanitaria de la FAO.
 
 ONPF: Organización Nacional de Protección Fitosanitaria.
 
@@ -583,9 +581,7 @@ SENASA 001-2023.
 
 #### Artículo 10
 
-Artículo 10. DEROGACIONES: El presente reglamento deroga el Reglamento para Embalaje de Madera utilizado en el Comercio Internacional, contenido en el Acuerdo Ejecutivo No. 487-2005, publicado en el Diario Oficial La Gaceta No.
-
-30,825 del 15 de octubre del 2005 y el Acuerdo SAG 45-2016 publicado en La Gaceta No. 33,950 de fecha 3 de febrero de 2016.
+Artículo 10. DEROGACIONES: El presente reglamento deroga el Reglamento para Embalaje de Madera utilizado en el Comercio Internacional, contenido en el Acuerdo Ejecutivo No. 487-2005, publicado en el Diario Oficial La Gaceta No. 30,825 del 15 de octubre del 2005 y el Acuerdo SAG 45-2016 publicado en La Gaceta No. 33,950 de fecha 3 de febrero de 2016.
 
 SEGUNDO: El presente Acuerdo entrará en vigencia de forma inmediata y deberá publicarse en el Diario Oficial “LA GACETA”.
 

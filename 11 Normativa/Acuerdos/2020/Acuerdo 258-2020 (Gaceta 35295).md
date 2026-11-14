@@ -11,7 +11,7 @@ paginas: "A. 15 - 76"
 sumario: "Acuerdos números 257-2020, 258-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200626-35295/download"
 extraido: "2026-11-14"
-huella: "74f8ad75a3b49ab8"
+huella: "0ad7729d04f85e29"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 258-2020
@@ -29,7 +29,7 @@ huella: "74f8ad75a3b49ab8"
 
 Tegucigalpa, M.D.C., 26 de junio de 2020 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.143-2010 contentivo de la Ley de Promoción de Alianza Público Privada y su reforma mediante Decreto Legislativo 115-2014 al Artículo 18 indica que los proyectos a ser incorporados bajo la modalidad público-privado deben contar con el análisis de viabilidad correspondiente para asegurar su ejecución y también debe registrarse en el Sistema Nacional de Inversión Pública de Honduras (SNIPH), así mismo contar con dictamen de autorización emitido por parte de la Unidad de Contingencias Fiscales (UCF) de la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 143-2010 contentivo de la Ley de Promoción de Alianza Público Privada y su reforma mediante Decreto Legislativo 115-2014 al Artículo 18 indica que los proyectos a ser incorporados bajo la modalidad público-privado deben contar con el análisis de viabilidad correspondiente para asegurar su ejecución y también debe registrarse en el Sistema Nacional de Inversión Pública de Honduras (SNIPH), así mismo contar con dictamen de autorización emitido por parte de la Unidad de Contingencias Fiscales (UCF) de la Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que mediante PCM-064-2019, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre de 2019 ordena suprimir y liquidar, la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA).
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el Consejo Superior para la Alianza Público Privada mediante 
 
 POR TANTO:
 
-En aplicación de los Artículos 245 de la Constitución de la República; 36 numeral 1 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública y Artículo 15 del PCM- 064-2019.
+En aplicación de los Artículos 245 de la Constitución de la República; 36 numeral 1 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública y Artículo 15 del PCM-064-2019.
 
 ACUERDA:
 
@@ -151,7 +151,7 @@ Estudio de Prefactibilidad que incluya:
 
 − Evaluación de necesidades de identificación y selección de alternativas.
 
-− Análisis técnico del proyecto y estimación de principales magnitudes, con su justificación: o C A P E X , O P E X , DEMANDA/INGRESOS − Avance del Impacto Ambiental y Social.
+− Análisis técnico del proyecto y estimación de principales magnitudes, con su justificación: o CAPEX, OPEX, DEMANDA/INGRESOS − Avance del Impacto Ambiental y Social.
 
 − Evaluación de la Rentabilidad social preliminar (Análisis Costo- Beneficio o Costo Eficiencia).
 
@@ -937,7 +937,7 @@ Pero hay principios comunes que subyacen al enfoque de “Project Finance”. Al
 
 • Por lo general, se estipula para un nuevo proyecto en lugar de un negocio establecido y también tiene capacidad de refinanciar un Project Finance.
 
-• Existe una alta proporción de deuda a capital, una deuda de un Project Finance puede rondar el 70- 95% de la inversión total.
+• Existe una alta proporción de deuda a capital, una deuda de un Project Finance puede rondar el 70-95% de la inversión total.
 
 • No hay garantías de los inversores en la empresa del proyecto o solo garantías limitadas.
 

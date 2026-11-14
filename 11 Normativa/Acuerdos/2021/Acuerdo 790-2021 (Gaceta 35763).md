@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdos Ejecutivos números 378-2021, 788-2021, 790-2021, 808-2021, 809-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211104-35763/download"
 extraido: "2026-11-14"
-huella: "09fe93ec4cdb1506"
+huella: "a127a8a0ecf29453"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 790-2021
@@ -61,7 +61,7 @@ CONSIDERANDO: Que el artículo 19 de la Ley Orgánica de la Procuraduría Genera
 
 Comparecer en representación del Estado, conforme a las instrucciones del Poder Ejecutivo, y al otorgamiento de los actos o contratos en que estuviere interesada la Nación…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 
@@ -71,9 +71,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Autorizar al titular de la Procuraduría General de la República, para que en nombre y representación del Gobierno de la República de Honduras, proceda a acudir ante notario público a otorgar la correspondiente escritura pública de liberación de gravamen de un bien inmueble que se identifica como: lote de terreno ubicado en la colonia “El Pedregal de San José” de la ciudad de Comayagüela, Distrito Central, del plano respectivo con el numero veintinueve (29), Bloque 15, mismo que fue adjudicado por la Junta Directiva del Instituto de la Vivienda según consta en el Testimonio de Escritura Públicas No.
-
-44 de fecha veintinueve de mayo de 1985, autorizada por el notario Leo Valladares Lanza, mismo que se inscribió bajo el asiento No. 53 del Tomo 915 del Registro de la Propiedad, Hipotecas y Anotaciones Preventivas de Francisco Morazán.
+ARTÍCULO 1: Autorizar al titular de la Procuraduría General de la República, para que en nombre y representación del Gobierno de la República de Honduras, proceda a acudir ante notario público a otorgar la correspondiente escritura pública de liberación de gravamen de un bien inmueble que se identifica como: lote de terreno ubicado en la colonia “El Pedregal de San José” de la ciudad de Comayagüela, Distrito Central, del plano respectivo con el numero veintinueve (29), Bloque 15, mismo que fue adjudicado por la Junta Directiva del Instituto de la Vivienda según consta en el Testimonio de Escritura Públicas No. 44 de fecha veintinueve de mayo de 1985, autorizada por el notario Leo Valladares Lanza, mismo que se inscribió bajo el asiento No. 53 del Tomo 915 del Registro de la Propiedad, Hipotecas y Anotaciones Preventivas de Francisco Morazán.
 
 #### Artículo 2
 

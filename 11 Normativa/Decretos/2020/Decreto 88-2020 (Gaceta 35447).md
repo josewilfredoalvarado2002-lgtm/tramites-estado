@@ -11,7 +11,7 @@ paginas: "A. 57 - 104"
 sumario: "Decretos Nos. 87-2020, 88-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201202-35447/download"
 extraido: "2026-11-14"
-huella: "cdd21d3026135d75"
+huella: "169cabf91bacc10a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 88-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 19) de la Con
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -161,9 +161,7 @@ DE SUMINISTRO DE POTENCIA FIRME Y ENERGÍA ASOCIADA DE 70 MW SUSCRITO ENTRE LA E
 
 (LUFUSSA) GENERALES DE LOS FIRMANTES
 
-Nosotros, la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE), organismo autónomo del Estado de Honduras, creado mediante Decreto Ley N°. 48 del 20 de febrero de 1957, representado en este acto por el señor JESÚS ARTURO MEJÍA ARITA, mayor de edad, casado, ingeniero industrial, hondureño, con Identidad N° 0801-1972-03315 y de este domicilio, quien actúa en su carácter de gerente general de la Empresa Nacional de Energía Eléctrica (ENEE), la cual tiene el RTN número 0801 900 324 3825, nombrado según Acuerdo N° 02-JD-EX01-2016 punto 3 del acta JDEX-01-2016 de la sesión extraordinaria celebrada por la Junta Directiva de la empresa el 14 de abril del 2016, con facultades suficientes para firmar este contrato según Resolución N°. 07- JD-1137-2017 emitida en el punto 3, inciso 3.2 del acta N°.
-
-JD-1137-2017 de la sesión ordinaria celebrada el veintisiete
+Nosotros, la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE), organismo autónomo del Estado de Honduras, creado mediante Decreto Ley N°. 48 del 20 de febrero de 1957, representado en este acto por el señor JESÚS ARTURO MEJÍA ARITA, mayor de edad, casado, ingeniero industrial, hondureño, con Identidad N° 0801-1972-03315 y de este domicilio, quien actúa en su carácter de gerente general de la Empresa Nacional de Energía Eléctrica (ENEE), la cual tiene el RTN número 0801 900 324 3825, nombrado según Acuerdo N° 02-JD-EX01-2016 punto 3 del acta JDEX-01-2016 de la sesión extraordinaria celebrada por la Junta Directiva de la empresa el 14 de abril del 2016, con facultades suficientes para firmar este contrato según Resolución N°. 07- JD-1137-2017 emitida en el punto 3, inciso 3.2 del acta N°. JD-1137-2017 de la sesión ordinaria celebrada el veintisiete
 
 (27) de diciembre del dos mil diecisiete (2017), quien de aquí en adelante se denominará EL COMPRADOR y/o la ENEE; y HERNÁN CASTRO SIERRA, mayor de edad, casado, hondureño, con Identidad N° 0808-1946-00079, ingeniero en Electrotecnia, de este domicilio, en mi condición de gerente general y representante legal de la EMPRESA LUZ Y FUERZA SAN LORENZO, S.A. DE C.V., (LUFUSSA), la cual tiene el RTN número 0801 900 226 7065 y está inscrita en el asiento 3 del tomo 10 del Registro de Comerciantes Sociales de Francisco Morazán, condición y facultades que acredito mediante los instrumentos públicos inscritos en los asientos 85 del tomo 26 del Registro de la Propiedad de Choluteca, departamento de Choluteca y asiento 77 del tomo 125 del Registro de Comerciantes Sociales de Francisco Morazán, la cual se denominará el VENDEDOR y, en conjunto, serán conocidas como las Partes; hemos decidido suscribir este contrato, el cual se regirá de conformidad con las cláusulas siguientes:
 
@@ -213,9 +211,7 @@ EL COMPRADOR pagará al VENDEDOR los cargos de potencia por la Capacidad Firme C
 
 CLÁUSULA CUARTA: DECLARACIONES
 
-Y GARANTÍAS: I) Declaraciones y Garantías del VENDEDOR: EL VENDEDOR por medio de este Contrato declara y garantiza lo siguiente: a) Que es una sociedad legalmente establecida y autorizada para ejercer el comercio en Honduras y que tiene autoridad para asumir y cumplir sus obligaciones de acuerdo con este Contrato. Este Contrato será debidamente ejecutado por EL VENDEDOR y no viola disposición alguna de cualquier acuerdo u orden judicial de la cual es parte o a la cual está obligada. b) Obtendrá todas las autorizaciones y cumplirá con todos los requisitos legales para la ejecución, entrega y vigencia de este Contrato, en la manera y en el tiempo que definan las Leyes Aplicables. c) Que el presente Contrato constituye una obligación legal, válida y ejecutable del VENDEDOR de conformidad con sus términos. d) Que no hay litigio alguno o condenación pendiente o probable contra el VENDEDOR o base alguna que la pueda afectar adversamente para cumplir con las obligaciones establecidas para ella en este Contrato. e) Que el Contrato de Operación aprobado según el Decreto N°.
-
-178-2003 publicado en La Gaceta para la Planta servirá de igual manera para asegurar el cumplimiento de este Contrato.
+Y GARANTÍAS: I) Declaraciones y Garantías del VENDEDOR: EL VENDEDOR por medio de este Contrato declara y garantiza lo siguiente: a) Que es una sociedad legalmente establecida y autorizada para ejercer el comercio en Honduras y que tiene autoridad para asumir y cumplir sus obligaciones de acuerdo con este Contrato. Este Contrato será debidamente ejecutado por EL VENDEDOR y no viola disposición alguna de cualquier acuerdo u orden judicial de la cual es parte o a la cual está obligada. b) Obtendrá todas las autorizaciones y cumplirá con todos los requisitos legales para la ejecución, entrega y vigencia de este Contrato, en la manera y en el tiempo que definan las Leyes Aplicables. c) Que el presente Contrato constituye una obligación legal, válida y ejecutable del VENDEDOR de conformidad con sus términos. d) Que no hay litigio alguno o condenación pendiente o probable contra el VENDEDOR o base alguna que la pueda afectar adversamente para cumplir con las obligaciones establecidas para ella en este Contrato. e) Que el Contrato de Operación aprobado según el Decreto N°. 178-2003 publicado en La Gaceta para la Planta servirá de igual manera para asegurar el cumplimiento de este Contrato.
 
 II) Declaraciones y Garantías del COMPRADOR. El COMPRADOR declara y garantiza lo siguiente. a) Que es una institución autónoma del Estado, debidamente organizada y válidamente existente y acreditada de acuerdo con las leyes de Honduras y tiene autoridad para asumir y cumplir sus obligaciones de acuerdo con este Contrato. b) Que este Contrato será debidamente cumplido y no viola disposición alguna de cualquier acuerdo u orden judicial de la cual es parte o a la cual EL COMPRADOR está obligado. c) Que este Contrato constituye una obligación legal, válida y ejecutable de conformidad con sus términos. d) Que este Contrato y las obligaciones del COMPRADOR, incluidas en el mismo, son válidas y exigibles de acuerdo con sus términos. e) Que no existe litigio alguno o condenación pendiente o probable contra EL COMPRADOR o base alguna para que ello pueda afectar adversamente la habilidad para cumplir con las obligaciones establecidas en este Contrato. III) Declaraciones y Garantías del VENDEDOR y el COMPRADOR: EL VENDEDOR y EL COMPRADOR declaran y garantizan que todos los documentos e información preparados por EL VENDEDOR o por terceros y para éste serán en todo momento propiedad exclusiva del VENDEDOR, aun si EL VENDEDOR entrega el original o copia de tal documento o información al COMPRADOR, y podrán ser usados sólo para los efectos de este Contrato y la ley o para cualquier fin que autorice por escrito EL VENDEDOR. Se entiende también que los documentos e información preparados por EL COMPRADOR o por terceros para EL COMPRADOR, a cuenta de éste en relación con la Planta, permanecerán siempre propiedad exclusiva del COMPRADOR, aunque haya entregado el original o copia de tal documento o información al VENDEDOR y podrán ser usados sólo para los efectos de este Contrato y la ley o para cualquier fin que autorice por escrito EL COMPRADOR. Estas declaraciones y garantías tienen la misma fuerza legal que las otras cláusulas o disposiciones que comprenden este contrato.
 
@@ -353,7 +349,7 @@ CLÁUSULA DÉCIMA OCTAVA: PROCEDIMIENTOS Y FÓRMULAS DE PRECIOS:
 
 CONTRACTUAL: EL COMPRADOR utilizará, para efectos de pago al VENDEDOR, la siguiente fórmula, la cual, por considerarse exentos y exonerados, no incluye impuestos del combustible, ni los otros consignados en la Cláusula Vigésimo Primera de este Contrato:
 
-CVEnmax= CVCi (USD/kWh) * FOBn-1/FOBi + CVO&Mn (USD/kWh) Donde: n: Mes del suministro de energía eléctrica CVCi: Es el Cargo Variable de Combustible ofertado por el VENDEDOR como parte de la Licitación Nro. LPI-100- 009/2017, el cual asciende a 0.07720 USD/kWh y que fue calculado según el precio de referencia FOBi fijado para este Contrato, es decir, el correspondiente al mes de febrero del 2017 (47.8453 USD/bbl del promedio ponderado de los precios altos y bajos correspondientes a ese mes, del Precio Promedio Mensual FOB para el NY/Boston Fuel Oil Nro. 6, 3 % S max, con Código PUAAX00 reportado en la publicación de Platts McGraw Hill Companies de S&P U.S.
+CVEnmax= CVCi (USD/kWh) * FOBn-1/FOBi + CVO&Mn (USD/kWh) Donde: n: Mes del suministro de energía eléctrica CVCi: Es el Cargo Variable de Combustible ofertado por el VENDEDOR como parte de la Licitación Nro. LPI-100-009/2017, el cual asciende a 0.07720 USD/kWh y que fue calculado según el precio de referencia FOBi fijado para este Contrato, es decir, el correspondiente al mes de febrero del 2017 (47.8453 USD/bbl del promedio ponderado de los precios altos y bajos correspondientes a ese mes, del Precio Promedio Mensual FOB para el NY/Boston Fuel Oil Nro. 6, 3 % S max, con Código PUAAX00 reportado en la publicación de Platts McGraw Hill Companies de S&P U.S.
 
 Marketscan S&P Global Platts, para el mes inmediato anterior al del suministro de energía eléctrica). En caso de que esta referencia desapareciera del S&P Platts, se utilizará cualquier otra referencia sustituta y equivalente que acuerden las Partes a través del Comité Operativo.
 
@@ -845,7 +841,7 @@ El sistema interno de combustible consta de los siguientes equipos:
 
 - Inyector de combustible en cada cilindro - Válvula reguladora de presión de combustible.
 
-2.1.1.- Sistema de Combustible Ligero No.2 (LFO por sus siglas en inglés, Diesel).
+2.1.1.- Sistema de Combustible Ligero No. 2 (LFO por sus siglas en inglés, Diesel).
 
 El sistema estará compuesto de:
 
@@ -1171,7 +1167,7 @@ ACCESORIOS
 
 • Materiales y accesorios necesarios para la implementación de todas las obras civiles y electromecánicas requeridas para la instalación de estos equipos.
 
-6 . - E D I F I C I O S Y O B R A S C I V I L E S Y ELECTROMECANICAS CONEXAS.
+6 . - EDIFICIOS Y OBRAS CIVILES Y ELECTROMECANICAS CONEXAS.
 
 Edificios Equipos, materiales y accesorios necesarios como ser, sin limitarse a: estructuras, láminas, puertas, llamadores, anclajes, iluminación, sistema contra incendio, tubería, conductos, escaleras fijas y móviles, herrajes, sistemas de aire acondicionado (evaporadores, compresores, tuberías, conductos, materiales de aislamiento, gases), sistemas de seguridad, pinturas, epóxicos, materiales anticorrosivos, materiales y accesorios necesarios para la implementación de todas las obras civiles y electromecánicas requeridas, para la aplicación en:
 

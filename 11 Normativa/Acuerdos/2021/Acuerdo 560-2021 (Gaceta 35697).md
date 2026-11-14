@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdo Ejecutivo número 560-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210824-35697/download"
 extraido: "2026-11-14"
-huella: "3ab436391a253eb0"
+huella: "5a214bcd503f0fdb"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 560-2021
@@ -57,7 +57,7 @@ C) Autenticar y certificar toda la documentación relacionada con los expediente
 
 SEGUNDO: Sin perjuicio de lo dispuesto en el artículo primero inciso a del presente Acuerdo Ejecutivo, se delega de igual manera en la ciudadana Martha Daniela Sabillón Castellón, la facultad y atribución de notificar conforme a los artículos 87 y 88, párrafo primero de la Ley de Procedimiento Administrativo, las resoluciones y providencias que emita esta Secretaría de Estado.
 
-TERCERO: Revocar a partir de la fecha, el acuerdo de delegación No.230-2020 de fecha 30 de marzo de 2020 emitido a favor del ciudadano Ben Hur López García, relacionadas con atribuciones del Secretario General de la Secretaría de Estado en el Despacho de Finanzas.
+TERCERO: Revocar a partir de la fecha, el acuerdo de delegación No. 230-2020 de fecha 30 de marzo de 2020 emitido a favor del ciudadano Ben Hur López García, relacionadas con atribuciones del Secretario General de la Secretaría de Estado en el Despacho de Finanzas.
 
 CUARTO: Hacer las transcripciones de Ley.
 

@@ -11,7 +11,7 @@ paginas: "A. 25 - 32"
 sumario: "Acuerdo Ejecutivo No. 854-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241217-36717/download"
 extraido: "2026-11-14"
-huella: "fa2e4cea92fa66d3"
+huella: "24b75ffa7a958ea7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 854-2024
@@ -53,7 +53,7 @@ CONSIDERANDO: Que la Ley Orgánica del Presupuesto establece que corresponde a l
 
 CONSIDERANDO: Que el Decreto Legislativo Número 62-2023, que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2024, en su Artículo 237 prescribe que, con el propósito de operativizar los traslados presupuestarios entre instituciones, autorizados por la Presidenta de la República mediante Acuerdo Ejecutivo y con base en lo establecido en el Artículo 37 numeral 2 de la Ley Orgánica del Presupuesto y Artículo 23 de las Normas Técnicas del Subsistema de Presupuesto, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que ejecute las operaciones presupuestarias y financieras requeridas.
 
-POR TANTO, En uso de las facultades de que está investida y en aplicación de lo prescrito en los Artículos 235, 245 numerales 2), 11) y 19) de la Constitución de la República; 11 y 116 de la Ley General de la Administración Pública; 37 numeral 2) de la Ley Orgánica del Presupuesto; Decreto Legislativo No. 120- 93; artículo 237 del Decreto Legislativo No.62-2023 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal del año 2024; y demás aplicables.
+POR TANTO, En uso de las facultades de que está investida y en aplicación de lo prescrito en los Artículos 235, 245 numerales 2), 11) y 19) de la Constitución de la República; 11 y 116 de la Ley General de la Administración Pública; 37 numeral 2) de la Ley Orgánica del Presupuesto; Decreto Legislativo No. 120-93; artículo 237 del Decreto Legislativo No. 62-2023 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal del año 2024; y demás aplicables.
 
 ACUERDA:
 

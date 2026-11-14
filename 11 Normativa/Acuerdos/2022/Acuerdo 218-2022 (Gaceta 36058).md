@@ -11,7 +11,7 @@ paginas: "A. 29 - 38"
 sumario: "Acuerdos Nos. SAG-192-2022, 196-2022, 203-2022, 206-2022, 207-2022, 213-2022, 214-2022, A-217-2022, A-218-2022, Acuerdos Nos. SAG-219-2022, 220-2022, 221-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221024-36058/download"
 extraido: "2026-11-14"
-huella: "eb0c5dc8774f55e1"
+huella: "999187977f12b962"
 ---
 <!-- portal:inicio -->
 # ACUERDO 218-2022
@@ -37,13 +37,13 @@ CONSIDERANDO (3): Que la Secretaría de Estado en los Despachos de Agricultura y
 
 CONSIDERANDO (4): Que Honduras en el año 1985, ratificó la Convención sobre el Comercio Internacional de Especies Amenazadas de la Fauna y Flora Silvestre (CITES). Por lo tanto, al estar la especie de caracol gigante (Strombus gigas) enlistada en el apéndice II de la CITES; su comercialización debe cumplir con regulaciones especiales para su aprovechamiento, exportación y tránsito internacional.
 
-CONSIDERANDO (5): Que el Acuerdo Ejecutivo SSTS- 557-2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras, establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y la vida humana.
+CONSIDERANDO (5): Que el Acuerdo Ejecutivo SSTS-557-2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras, establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y la vida humana.
 
 CONSIDERANDO (6): Que corresponde a la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), a través de la Dirección General de Pesca y Acuicultura (DIGEPESCA), investigar mediante estudios que contribuyan a conocer el comportamiento de las especies hidrobiológicas, asimismo su distribución geográfica, abundancia, densidad poblacional, métodos y artes de pesca, así como otras investigaciones y estudios que contribuyan a la formulación de medidas técnicas para la correcta administración y conservación de las especies hidrobiológicas.
 
 CONSIDERANDO (7): Que es importante establecer una normativa de carácter legal y técnico, de estricto cumplimiento que contribuirá al uso sostenible de las poblaciones Caracol gigante (Strombus gigas) del Caribe de Honduras, basado en un enfoque ecosistémico sustentado por programas que proporcionen información para la toma de decisiones y la administración adecuada de esta pesquería.
 
-CONSIDERANDO (8): Que la temporada de veda de Caracol gigante (Strombus gigas) finalizó a las 23:59 del 30 de junio del 2022, Numeral Cuarto del Acuerdo No. 071- 2022 de fecha 16 de febrero del 2022, la Dirección General de Pesca y Acuicultura mediante nota DGPA-411-2022 envía a la Dirección General de la Marina Mercante un listado de 14 embarcaciones en la actividad de Caracol para efectos de zarpe; siendo que las solicitudes de renovación de licencias de las 14 embarcaciones se encuentran en trámite.
+CONSIDERANDO (8): Que la temporada de veda de Caracol gigante (Strombus gigas) finalizó a las 23:59 del 30 de junio del 2022, Numeral Cuarto del Acuerdo No. 071-2022 de fecha 16 de febrero del 2022, la Dirección General de Pesca y Acuicultura mediante nota DGPA-411-2022 envía a la Dirección General de la Marina Mercante un listado de 14 embarcaciones en la actividad de Caracol para efectos de zarpe; siendo que las solicitudes de renovación de licencias de las 14 embarcaciones se encuentran en trámite.
 
 POR TANTO
 

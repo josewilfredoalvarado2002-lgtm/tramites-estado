@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 49-2026, 84-2026, 86-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260522-37148/download"
 extraido: "2026-11-09"
-huella: "b5d2dbc8686e80f2"
+huella: "58978a6bca3bc84e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2026
@@ -33,17 +33,17 @@ CONSIDERANDO: Que el Instituto Franciscano para la Capacitación del No Vidente 
 
 CONSIDERANDO: Que en un acto altruista el Instituto Franciscano para la Rehabilitación del No Vidente (INFRACNOVI), es una Organización sin fines de lucro que colabora con el Estado en acciones de protección a personas vulnerables, facilitando de esta manera la responsabilidad del Estado al brindar protección social.
 
-CONSIDERANDO: Que mediante Decreto No.102-2013 de fecha 28 de octubre de 2013 se aprobó en este Congreso Nacional, una partida presupuestaria canalizando sus pagos por medio de la Secretaría de Estado en los Despachos del Interior y Población, después de algún tiempo, por efecto de una reestructuración, las funciones de protección social fueron asignadas a la Secretaría de Estado en el Despacho de Desarrollo Social, pero no le fue transferida la partida presupuestaria correspondiente al Instituto Franciscano para la Capacitación del No Vidente (INFRACNOVI), dejando este de recibir en varios años los beneficios del Decreto referido.
+CONSIDERANDO: Que mediante Decreto No. 102-2013 de fecha 28 de octubre de 2013 se aprobó en este Congreso Nacional, una partida presupuestaria canalizando sus pagos por medio de la Secretaría de Estado en los Despachos del Interior y Población, después de algún tiempo, por efecto de una reestructuración, las funciones de protección social fueron asignadas a la Secretaría de Estado en el Despacho de Desarrollo Social, pero no le fue transferida la partida presupuestaria correspondiente al Instituto Franciscano para la Capacitación del No Vidente (INFRACNOVI), dejando este de recibir en varios años los beneficios del Decreto referido.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se ordena a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), proceder a reestablecer la vigencia de los beneficios de una partida presupuestaria al “INSTITUTO FRANCISCANO PARA LA REHABILITACIÓN DEL NO VIDENTE (INFRACNOVI)”, establecido en el Decreto No.102-2013 de fecha 28 de octubre de 2013 como apoyo fiscal del Estado a favor de la citada Institución y que por reestructuración, las funciones de protección social fueron asignadas a la Secretaría de Estado en el Despacho de Desarrollo Social; así mismo proceder a su ampliación por un monto de DOS MILLONES DE LEMPIRAS (L.2,000,000.00), los cuales deben ser incorporados al Presupuesto General de Ingresos y Egresos de la República, correspondiente al Ejercicio Fiscal 2026 y a los períodos fiscales subsiguientes, siendo canalizados a través de la Secretaría de Estado en el Despacho de Desarrollo Social.
+ARTÍCULO 1.- Se ordena a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), proceder a reestablecer la vigencia de los beneficios de una partida presupuestaria al “INSTITUTO FRANCISCANO PARA LA REHABILITACIÓN DEL NO VIDENTE (INFRACNOVI)”, establecido en el Decreto No. 102-2013 de fecha 28 de octubre de 2013 como apoyo fiscal del Estado a favor de la citada Institución y que por reestructuración, las funciones de protección social fueron asignadas a la Secretaría de Estado en el Despacho de Desarrollo Social; así mismo proceder a su ampliación por un monto de DOS MILLONES DE LEMPIRAS (L.2,000,000.00), los cuales deben ser incorporados al Presupuesto General de Ingresos y Egresos de la República, correspondiente al Ejercicio Fiscal 2026 y a los períodos fiscales subsiguientes, siendo canalizados a través de la Secretaría de Estado en el Despacho de Desarrollo Social.
 
 #### Artículo 2
 

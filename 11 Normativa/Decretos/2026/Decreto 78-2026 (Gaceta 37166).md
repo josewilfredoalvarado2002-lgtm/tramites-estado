@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Nos. 78-2026, 90-2026, 91-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "6be5491795482929"
+huella: "6ba33b139f479b57"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 78-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 59 de la Constitución de la República de Hondur
 
 CONSIDERANDO: Que otorgar amnistías a los obligados tributarios es legislar en favor de los sectores productivos y de la población en general a fin de que éstos tengan un alivio económico en sus finanzas y les permita ponerse al día con sus pagos sin la imposición de multas, recargos o intereses, lo que representa un incentivo de pago para los contribuyentes y una fuente de ingresos para el Estado.
 
-CONSIDERANDO: Que bajo el Decreto No. 44-2025 de fecha 3 de junio de 2025 y publicado en el Diario Oficial “La Gaceta” No. 36,861, en fecha 11 de junio de 2025, se establece el paquete de amnistías en el pago de intereses, multas y recargos derivados de impuestos, tasas o contribuciones con diferentes instituciones estatales y las municipalidades del país: (AMNISTÍA TRIBUTARIA MUNICIPAL, AMNISTÍA ENERGÉTICA, AMNISTÍA VEHICULAR, AMNISTÍA HONDUTEL, AMNISTÍA SANAA). Se deroga el Artículo 7 del Decreto No.7-2026 de fecha 4 de febrero del año 2026, publicado en el Diario Oficial “La Gaceta” en fecha 13 de febrero del año 2026.
+CONSIDERANDO: Que bajo el Decreto No. 44-2025 de fecha 3 de junio de 2025 y publicado en el Diario Oficial “La Gaceta” No. 36,861, en fecha 11 de junio de 2025, se establece el paquete de amnistías en el pago de intereses, multas y recargos derivados de impuestos, tasas o contribuciones con diferentes instituciones estatales y las municipalidades del país: (AMNISTÍA TRIBUTARIA MUNICIPAL, AMNISTÍA ENERGÉTICA, AMNISTÍA VEHICULAR, AMNISTÍA HONDUTEL, AMNISTÍA SANAA). Se deroga el Artículo 7 del Decreto No. 7-2026 de fecha 4 de febrero del año 2026, publicado en el Diario Oficial “La Gaceta” en fecha 13 de febrero del año 2026.
 
 CONSIDERANDO: Que el Sistema Tributario del país comprende primordialmente el Sistema de Caja Única, pero igualmente permite que algunas instituciones del sector público perciban recursos mediante sus propias tesorerías o sistemas.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

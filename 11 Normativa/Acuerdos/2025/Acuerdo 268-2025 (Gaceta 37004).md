@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo Número 268-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251127-37004/download"
 extraido: "2026-11-09"
-huella: "f47b094bdb177c85"
+huella: "c5fb8fa233694a17"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 268-2025
@@ -61,7 +61,7 @@ TERCERO: Contra esta resolución procede el Recurso de Reposición, el cual debe
 
 POR TANTO, En uso de las facultades de que está investida y en aplicación de los artículos: 228, 235, 245 numerales: 2), 11), 19) y 45), 246 y 247 de la Constitución de la República. Artículos:
 
-10, 36 numeral 1), 116, 117 y 118 de la Ley General de la Administración Pública Artículo 19 numeral 3) de la Ley Orgánica de la Procuraduría General de la República. Artículo 92 párrafo primero del Código del Notariado. Artículos: 7 y 16 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. Decreto Ejecutivo PCM- 047-2015 y demás aplicables.
+10, 36 numeral 1), 116, 117 y 118 de la Ley General de la Administración Pública Artículo 19 numeral 3) de la Ley Orgánica de la Procuraduría General de la República. Artículo 92 párrafo primero del Código del Notariado. Artículos: 7 y 16 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. Decreto Ejecutivo PCM-047-2015 y demás aplicables.
 
 ACUERDA:
 

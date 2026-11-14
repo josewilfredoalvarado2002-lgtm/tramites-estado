@@ -11,7 +11,7 @@ paginas: "A. 7 - 16"
 sumario: "Acuerdos SEN-118-2023, SEN-132-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240110-36430/download"
 extraido: "2026-11-14"
-huella: "0225176c1d06af28"
+huella: "2e5fce51c5151298"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-132-2023
@@ -35,9 +35,7 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que el Artículo 3 del Decreto Legislativo Número 138-2013, reforma el artículo 27 de la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, contenida en el Decreto No. 70-2007 y que en párrafo cuarto establece: “Los equipos y materiales utilizados para las instalaciones de los Sistemas de Energía Solar como la solar fotovoltaica y solar térmica, que se utiliza para uso rural, residencial e industrial y/o autoconsumo o generación de energía, estarán exonerados del pago de impuestos y/o aranceles de importación, incluyendo el Impuesto Sobre Ventas. Las empresas suplidoras de estos sistemas o equipos deben, para el trámite de dichas exoneraciones, acreditar la respectiva inscripción en el registro que para tal efecto lleve la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA)”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional, asimismo está a cargo de las políticas relacionadas con el desarrollo integral y sostenible del sector energético. Asumiendo a partir de su creación la competencia de autorizar el registro señalado en el considerando precedente.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional, asimismo está a cargo de las políticas relacionadas con el desarrollo integral y sostenible del sector energético. Asumiendo a partir de su creación la competencia de autorizar el registro señalado en el considerando precedente.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 

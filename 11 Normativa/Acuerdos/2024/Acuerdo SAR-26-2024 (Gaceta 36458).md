@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Números SAR-07-2024, SAR-26-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240212-36458/download"
 extraido: "2026-11-14"
-huella: "62305c962a2d29f5"
+huella: "ae4be5add7716c76"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-26-2024
@@ -31,19 +31,15 @@ Tegucigalpa, M. D.C., 1 de febrero del 2024 EL DIRECTOR EJECUTIVO DEL SERVICIO D
 
 CONSIDERANDO: Que el Decreto Legislativo número 170-2016 de fecha quince de diciembre del dos mil dieciséis, que contiene el Código Tributario, se crea la Administración Tributaria como una entidad Desconcentrada, adscrita a la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional, denominándose SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-23-2024 se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con Rango de Secretario de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con Rango de Secretario de Estado.
 
 CONSIDERANDO: Que según lo establecido en el Artículo 199 del Decreto Legislativo número 170-2016 es atribución del Director Ejecutivo seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo con las normas legales aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas.
 
-435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo número SAR-003-2017 de fecha 03 de enero del 2017 y publicado en el Diario Oficial La Gaceta el 18 de marzo de 2017, se aprueba el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas; el cual, rige la relación laboral entre el SAR, sus empleados y funcionarios.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 003-2017 de fecha 03 de enero del 2017 y publicado en el Diario Oficial La Gaceta el 18 de marzo de 2017, se aprueba el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas; el cual, rige la relación laboral entre el SAR, sus empleados y funcionarios.
-
-CONSIDERANDO: Que mediante Acuerdo número SAR- 291-2020 de fecha 04 de diciembre del 2020, se reformó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo número SAR-291-2020 de fecha 04 de diciembre del 2020, se reformó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
 
 CONSIDERANDO: Que de acuerdo a lo establecido en el
 

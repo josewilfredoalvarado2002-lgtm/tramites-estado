@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos Nos. 261-2022, 262-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220507-35917/download"
 extraido: "2026-11-14"
-huella: "70e4022114b9fa6a"
+huella: "ed864ae4d9f0bfad"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 261-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en el artículo 9, numeral 3, del Regl
 
 POR TANTO:
 
-En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022, y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022, y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

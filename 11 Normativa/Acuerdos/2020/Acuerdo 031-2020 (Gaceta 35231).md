@@ -11,7 +11,7 @@ paginas: "A. 9 - 11"
 sumario: "Acuerdo Ministerial No. 029-2020Acuerdo Ministerial número 031-2020, 032-2020, 034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200421-35231/download"
 extraido: "2026-11-14"
-huella: "955d98a2658012cb"
+huella: "9f978c2f90fc32a5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 031-2020
@@ -35,15 +35,11 @@ CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de D
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Agricultura y Ganadería en fecha 19 de septiembre del año 2018 emitió el Acuerdo N°. 180-2018, mediante el cual se acuerda el procedimiento para determinar y establecer el volumen de desabasto de leche en polvo entera, leche en polvo descremada y grasa butírica. Asimismo, crea la Comisión de Seguimiento del Contingente de Importación por desabasto de leche en polvo entera, leche en polvo descremada y grasa butírica la cual conocerá el volumen de desabasto determinado por la Secretaría de Agricultura y Ganadería y la Secretaría de Desarrollo Económico, respectivamente y hará recomendaciones pertinentes según sea el caso sobre el volumen del desabasto y la vigencia del mismo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo N°.
-
-PCM-005-2020, publicado en el Diario Oficial La Gaceta en fecha 10 de febrero de 2020 y modificado mediante Decreto Ejecutivo N°. PCM-016-2020, publicado en el Diario Oficial La Gaceta el 06 de mazo de 2020, determinan Estado de Emergencia Sanitaria en todo el territorio nacional, debido al COVID 19.
+CONSIDERANDO: Que mediante Decreto Ejecutivo N°. PCM-005-2020, publicado en el Diario Oficial La Gaceta en fecha 10 de febrero de 2020 y modificado mediante Decreto Ejecutivo N°. PCM-016-2020, publicado en el Diario Oficial La Gaceta el 06 de mazo de 2020, determinan Estado de Emergencia Sanitaria en todo el territorio nacional, debido al COVID 19.
 
 CONSIDERANDO: Que en fecha 12 de febrero de 2020, la Asociación Hondureña de Procesadores de leche (APROLECHE), presentó solicitud para la apertura de un Contingente de Desabasto de Leche en Polvo Descremada y Leche íntegra en Polvo para cubrir las necesidades de la industria procesadora de lácteos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo N°.
-
-PCM-025-2020, publicado en el Diario Oficial La Gaceta en fecha 28 de marzo de 2020, en el artículo 4, literal B) numeral 9, establece que corresponde a la Secretaría de Agricultura y Ganadería garantizar el abastecimiento de los alimentos que componen la cadena productiva.
+CONSIDERANDO: Que mediante Decreto Ejecutivo N°. PCM-025-2020, publicado en el Diario Oficial La Gaceta en fecha 28 de marzo de 2020, en el artículo 4, literal B) numeral 9, establece que corresponde a la Secretaría de Agricultura y Ganadería garantizar el abastecimiento de los alimentos que componen la cadena productiva.
 
 CONSIDERANDO: Que en fecha 2 de abril del año 2020, la Secretaría de Desarrollo Económico y la Secretaría de Agricultura y Ganadería, según lo establecido en el Acuerdo N°. 180-2018, procedieron a realizar el análisis de la situación de mercado a efecto de aportar elementos técnicos sobre la solicitud en referencia, mediante el análisis técnico realizado en base a los instrumentos jurídicos aplicables, la producción nacional, inventarios físicos existentes, volúmenes de contingentes vigentes y la demanda nacional estimada de leche en polvo descremada y leche íntegra en polvo.
 
@@ -63,9 +59,7 @@ CONSIDERANDO: Que es necesario se establezcan las disposiciones para la administ
 
 POR TANTO:
 
-En aplicación de los artículos 255 y 347 de la Constitución de la República, 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública, 54 del Decreto Ejecutivo No. 08- 97, literal a) contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Acuerdo A-024-2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009, Acuerdo SAG N°. 180-2018, Decreto Ejecutivo N°.
-
-PCM-005-2020, modificado mediante Decreto Ejecutivo N°. PCM-016-2020, Decreto Ejecutivo N°. PCM-025-2020 y Acuerdo SAG N°. 055-2020.
+En aplicación de los artículos 255 y 347 de la Constitución de la República, 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública, 54 del Decreto Ejecutivo No. 08-97, literal a) contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Acuerdo A-024-2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009, Acuerdo SAG N°. 180-2018, Decreto Ejecutivo N°. PCM-005-2020, modificado mediante Decreto Ejecutivo N°. PCM-016-2020, Decreto Ejecutivo N°. PCM-025-2020 y Acuerdo SAG N°. 055-2020.
 
 ACUERDA:
 

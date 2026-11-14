@@ -11,7 +11,7 @@ paginas: "A. 26"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "5e19f8f466935b06"
+huella: "00b4b9536896a291"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-565-2020
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DEL GABINETE PRESIDENCIAL CON RANGO DE SECRETARIO D
 
 ACUERDA:
 
-PRIMERO: Nombrar a la ciudadana Marta Nubia Díaz Reyes, en el puesto de Trabajador de Servicios de Alimentos, Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 014 Atención Integral de Niños Hijos de Trabajadores(as), Unidad Ejecutora 006, Centros de Cuidado Infantil, Sub Programa 00, Actividad/Obra 002, Versión 01, Unidad; Prestación de Servicios de Alimentación y Nutrición, Número de Puesto 3990, Grupo-Nivel 01-03, Sueldo Mensual Lps. 13,739.00 (Trece Mil Setecientos Treinta y Nueve Lempiras Exactos), Acción de Personal N°. 016- 2020, aprobada por la Dirección General de Servicio Civil, Efectividad: Cuando Tome Posesión de su Cargo.
+PRIMERO: Nombrar a la ciudadana Marta Nubia Díaz Reyes, en el puesto de Trabajador de Servicios de Alimentos, Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 014 Atención Integral de Niños Hijos de Trabajadores(as), Unidad Ejecutora 006, Centros de Cuidado Infantil, Sub Programa 00, Actividad/Obra 002, Versión 01, Unidad; Prestación de Servicios de Alimentación y Nutrición, Número de Puesto 3990, Grupo-Nivel 01-03, Sueldo Mensual Lps. 13,739.00 (Trece Mil Setecientos Treinta y Nueve Lempiras Exactos), Acción de Personal N°. 016-2020, aprobada por la Dirección General de Servicio Civil, Efectividad: Cuando Tome Posesión de su Cargo.
 
 SEGUNDO: La permanencia en el cargo, está sujeta a evaluación por resultados en los términos establecidos por la Presidencia de la República.
 

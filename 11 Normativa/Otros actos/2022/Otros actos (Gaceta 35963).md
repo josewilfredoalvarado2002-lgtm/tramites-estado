@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220630-35963/download"
 extraido: "2026-11-14"
-huella: "0b2baebb7c1201ce"
+huella: "b27c1d64b29b3c71"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -81,7 +81,7 @@ Que mediante oficio número CREE-099-2022 la CREE comunicó a la ENEE sobre la i
 
 XII.
 
-Que en fecha 30 de junio de 2022 la ENEE presentó ante la CREE el oficio número GGENEE-473-06-2022 mediante el cual informó que ha previsto diferir el ajuste completo que se indicó en el oficio CREE-099- 2022 para el período de julio a septiembre de 2022 en los términos siguientes: “1. El monto a diferir será de USD 97,243,153.56; 2. El monto se diferirá al siguiente período trimestral; 3. El tipo de cambio L24.573/USD; 4. El interés trimestral a utilizar será de 1.8283% y 5. El monto total acumulado es de USD 97,243,153.56 ya que no se aplicará en este período trimestral”.
+Que en fecha 30 de junio de 2022 la ENEE presentó ante la CREE el oficio número GGENEE-473-06-2022 mediante el cual informó que ha previsto diferir el ajuste completo que se indicó en el oficio CREE-099-2022 para el período de julio a septiembre de 2022 en los términos siguientes: “1. El monto a diferir será de USD 97,243,153.56; 2. El monto se diferirá al siguiente período trimestral; 3. El tipo de cambio L24.573/USD; 4. El interés trimestral a utilizar será de 1.8283% y 5. El monto total acumulado es de USD 97,243,153.56 ya que no se aplicará en este período trimestral”.
 
 XIII. Que en fecha 30 de junio de 2022 la Unidad de Tarifas emitió el Informe de Ajuste Tarifario para el trimestre de julio a septiembre de 2022, en el que se detallan los análisis llevados a cabo para determinar el ajuste a las tarifas para usuarios de la ENEE que debe de aplicarse a partir de julio de 2022.
 
@@ -99,7 +99,7 @@ XVII. Que como consecuencia de la solicitud de la ENEE presentada por medio del 
 
 CONSIDERANDO:
 
-Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la CREE.
 

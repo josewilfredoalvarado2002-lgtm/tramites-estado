@@ -11,7 +11,7 @@ paginas: "A. 46 - 48"
 sumario: "Acuerdo Ministerial No. 069-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240521-36539/download"
 extraido: "2026-11-14"
-huella: "a480e82039d0bb79"
+huella: "2251fbd46aea9222"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 069-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que los Subsecretarios de Estado por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver sobre asuntos determinados o específicos.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM- 086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que en fecha 02 de noviembre de 2022, la Secretaría de Desarrollo Económico puso a disposición la plataforma SOL (Servicios al Ciudadano en Línea) para trámites 100% digitales de alta calidad, con acceso a servicios electrónicos y con mecanismos de seguridad a través de la implementación de firma electrónica, código QR, entre otros.
 
@@ -53,15 +53,11 @@ POR TANTO
 
 El Secretario de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investido y de conformidad con los Artículos 59, 247, 255, y 321 de la Constitución de la República; 33, 36 numeral 1, 6, 8 y
 
-Artículo 118 y 119 de la Ley General de la Administración Pública; Artículos 23, 24 del Reglamento de Organización, funcionamiento del Poder Ejecutivo; Decreto Legislativo 149- 2013 contentivo de la Ley sobre firmas electrónicas, Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento sobre el Gobierno Electrónico, Acuerdo Ministerial No. 020-2023, publicado en el Diario Oficial “La Gaceta” el 16 de febrero de 2023, reformado mediante el Acuerdo Ministerial No.
-
-104-2023, publicado en el Diario Oficial “La Gaceta” el 30 de octubre de 2023, Acuerdo Ministerial No. 021-2023, publicado en el Diario Oficial “La Gaceta” el 16 de febrero de 2023, reformado mediante el Acuerdo Ministerial No.
-
-055-2023, publicado en el Diario Oficial “La Gaceta” el 17 de junio de 2023.
+Artículo 118 y 119 de la Ley General de la Administración Pública; Artículos 23, 24 del Reglamento de Organización, funcionamiento del Poder Ejecutivo; Decreto Legislativo 149-2013 contentivo de la Ley sobre firmas electrónicas, Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento sobre el Gobierno Electrónico, Acuerdo Ministerial No. 020-2023, publicado en el Diario Oficial “La Gaceta” el 16 de febrero de 2023, reformado mediante el Acuerdo Ministerial No. 104-2023, publicado en el Diario Oficial “La Gaceta” el 30 de octubre de 2023, Acuerdo Ministerial No. 021-2023, publicado en el Diario Oficial “La Gaceta” el 16 de febrero de 2023, reformado mediante el Acuerdo Ministerial No. 055-2023, publicado en el Diario Oficial “La Gaceta” el 17 de junio de 2023.
 
 ACUERDA:
 
-PRIMERO: Implementar la plataforma de Servicios al Ciudadano en Línea (SOL), para los trámites de emisión de Licencias de Importación de Arroz de conformidad al Acuerdo Ministerial No. 020-2023 y Acuerdo Ministerial No. 104- 2023, así como para las Licencias de Importación de Carne de Pollo, establecida en el Acuerdo Ministerial No. 021-2023 y Acuerdo Ministerial No. 055-2023, con la finalidad de hacer más fluida, expedita la interconexión e interoperabilidad entre la ciudadanía y con otras instituciones públicas en los procesos de emisión de licencias de importación.
+PRIMERO: Implementar la plataforma de Servicios al Ciudadano en Línea (SOL), para los trámites de emisión de Licencias de Importación de Arroz de conformidad al Acuerdo Ministerial No. 020-2023 y Acuerdo Ministerial No. 104-2023, así como para las Licencias de Importación de Carne de Pollo, establecida en el Acuerdo Ministerial No. 021-2023 y Acuerdo Ministerial No. 055-2023, con la finalidad de hacer más fluida, expedita la interconexión e interoperabilidad entre la ciudadanía y con otras instituciones públicas en los procesos de emisión de licencias de importación.
 
 SEGUNDO: La firma electrónica de las Licencias de Importación de Arroz y Licencias de Importación de Carne de Pollo, será realizada por el Director(a), Subdirector(a) de la Dirección General de Integración Económica y Política Comercial o Coordinador(a) de la Unidad de Contingentes y Licencias Arancelarias.
 

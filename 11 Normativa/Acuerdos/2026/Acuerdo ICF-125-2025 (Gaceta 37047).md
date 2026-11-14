@@ -11,7 +11,7 @@ paginas: "A. 30 - 33"
 sumario: "Acuerdos Institucionales Nos. ICF-111-2025, ICF-112-2025, 114-2025, ICF-115-2025, ICF-118-2025, ICF-123-2025, ICF-125-2025, ICF-127-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260119-37047/download"
 extraido: "2026-11-09"
-huella: "138ad5033ec48094"
+huella: "2c25f6ea0f7c372d"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-125-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la Ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la Ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de la “Microcuenca Ilsa y La Reina”, ubicada en jurisdicción del municipio de Santa Cruz de Yojoa, departamento de Cortés, presentada por el Presidente de la Junta Administradora de Agua y el Presidente del Patronato Pro-Mejoramiento de la Comunidad de La Escribana, del municipio de Santa Cruz de Yojoa, departamento de Cortés, así como por las señoras; Eva Argentina Hernández Cardona y Daisy Erlinda Barahona Cardona, en condición de propietarias.
 

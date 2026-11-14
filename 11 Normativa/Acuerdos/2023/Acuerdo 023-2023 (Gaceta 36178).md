@@ -8,10 +8,10 @@ gaceta_numero: 36178
 gaceta_fecha: "2023-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36178 (2023-03-13)|La Gaceta 36178]]"
 paginas: "A. 3 - 4"
-sumario: "Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 023-2023"
+sumario: "Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 023-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230313-36178/download"
 extraido: "2026-11-14"
-huella: "8e5857af23130636"
+huella: "3d5d0494b61786d0"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 023-2023
@@ -23,7 +23,7 @@ huella: "8e5857af23130636"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36178 (2023-03-13)\|La Gaceta 36178]] del 2023-03-13 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 023-2023 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 450-2022, 455-2022, 456-2022; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 023-2023 |
 
 ## Texto
 
@@ -41,9 +41,7 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para éste en materia procedimental.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-329-1992 de fecha 01 de septiembre de 1992, se nombró a la ciudadana MARÍA EMELINDA LARA, quien se desempeña en el puesto de Directora de la Dirección General de Sectores Productivos de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 329-1992 de fecha 01 de septiembre de 1992, se nombró a la ciudadana MARÍA EMELINDA LARA, quien se desempeña en el puesto de Directora de la Dirección General de Sectores Productivos de esta Secretaría de Estado.
 
 POR TANTO:
 

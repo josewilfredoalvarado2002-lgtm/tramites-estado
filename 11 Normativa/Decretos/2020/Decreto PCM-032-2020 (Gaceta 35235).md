@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Ejecutivos númerosPCM-032-2020,035-2020, 036-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "9b672d9b811ec6b2"
+huella: "531284f117dab249"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-032-2020
@@ -33,23 +33,17 @@ CONSIDERANDO: Que de conformidad a los numerales 2 y 11 del Artículo 245 de la 
 
 CONSIDERANDO: Que de acuerdo con el Artículo 11 de la Ley General de la Administración Pública, contenida en el Decreto Legislativo No. 146-86, de fecha 27 de octubre de 1986 y sus reformas, el Presidente de la República de Honduras tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que en fecha 4 de mayo de 2016 fue publicado en el Diario Oficial “La Gaceta” el Decreto No.
+CONSIDERANDO: Que en fecha 4 de mayo de 2016 fue publicado en el Diario Oficial “La Gaceta” el Decreto No. 25-2016 aprobado el 7 de abril del 2016, contentivo de la Ley de Responsabilidad Fiscal (LRF), el cual tiene como objetivo establecer los lineamientos para una mejor gestión de las finanzas públicas, asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
 
-25-2016 aprobado el 7 de abril del 2016, contentivo de la Ley de Responsabilidad Fiscal (LRF), el cual tiene como objetivo establecer los lineamientos para una mejor gestión de las finanzas públicas, asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
-
-CONSIDERANDO: Que el Artículo 6 del Decreto No.
-
-25-2016 establece la creación del Comité Interinstitucional integrado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Secretaría de Estado en el Despacho de Coordinación General de Gobierno (SCGG) y el Banco Central de Honduras (BCH), para la elaboración e implementación del Marco Macro Fiscal de Mediano Plazo.
+CONSIDERANDO: Que el Artículo 6 del Decreto No. 25-2016 establece la creación del Comité Interinstitucional integrado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Secretaría de Estado en el Despacho de Coordinación General de Gobierno (SCGG) y el Banco Central de Honduras (BCH), para la elaboración e implementación del Marco Macro Fiscal de Mediano Plazo.
 
 CONSIDERANDO: Que en fecha 28 de marzo del 2020, el Comité Interinstitucional aprobó el proyecto de Marco Macro Fiscal de Mediano Plazo (MMFMP 2021-2024).
 
-CONSIDERANDO: Que el Artículo 7 del Decreto No. 25- 2016 establece que la Secretaría de Estado en el Despacho de Finanzas (SEFIN), debe remitir al Banco Central de Honduras (BCH), a más tardar el 15 de abril de cada año, el proyecto de Marco Macro Fiscal de Mediano Plazo, a efecto de que emita, dentro de los siguientes diez (10) días calendario, opinión técnica sobre dicho Marco y su compatibilidad con las previsiones de balanza de pagos y de reservas internacionales netas y con su política monetaria. Para tal efecto el Banco Central de Honduras (BCH) debe remitir los indicadores del cierre del año anterior a más tardar el 15 de febrero de cada año a la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que el Artículo 7 del Decreto No. 25-2016 establece que la Secretaría de Estado en el Despacho de Finanzas (SEFIN), debe remitir al Banco Central de Honduras (BCH), a más tardar el 15 de abril de cada año, el proyecto de Marco Macro Fiscal de Mediano Plazo, a efecto de que emita, dentro de los siguientes diez (10) días calendario, opinión técnica sobre dicho Marco y su compatibilidad con las previsiones de balanza de pagos y de reservas internacionales netas y con su política monetaria. Para tal efecto el Banco Central de Honduras (BCH) debe remitir los indicadores del cierre del año anterior a más tardar el 15 de febrero de cada año a la Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que en fecha 8 de abril del 2020, el BCH remitió a la SEFIN la opinión técnica sobre dicho Marco y su compatibilidad con las previsiones de balanza de pagos y de reservas internacionales netas y con su política monetaria.
 
-CONSIDERANDO: Que el Artículo 8 del Decreto No.
-
-25-2016 establece que el Marco Macro Fiscal de Mediano Plazo debe ser aprobado por el Presidente de la República en Consejo de Secretarios de Estado, el último día hábil del mes de abril de cada año y debe ser publicado íntegramente, junto con el Informe del Banco Central de Honduras (BCH) dentro de los 2 (dos) días hábiles siguientes en los medios electrónicos de los que disponga y debe ser remitido para su publicación correspondiente en el Diario Oficial “La Gaceta”.
+CONSIDERANDO: Que el Artículo 8 del Decreto No. 25-2016 establece que el Marco Macro Fiscal de Mediano Plazo debe ser aprobado por el Presidente de la República en Consejo de Secretarios de Estado, el último día hábil del mes de abril de cada año y debe ser publicado íntegramente, junto con el Informe del Banco Central de Honduras (BCH) dentro de los 2 (dos) días hábiles siguientes en los medios electrónicos de los que disponga y debe ser remitido para su publicación correspondiente en el Diario Oficial “La Gaceta”.
 
 POR TANTO:
 

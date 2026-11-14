@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdos C.G. Nos. 041-2023, 042-2023, 043-2023, 044-2023, 045-2023, 046-2023, 047-2023, 048-2023, 049-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231213-36408/download"
 extraido: "2026-11-14"
-huella: "eb7bbbfcc4b44af4"
+huella: "2de9a01615680bb9"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.G. Nos. 041-2023, 042-2023, 043-2023, 044-2023, 045-2023, 046-2023, 047-2023, 048-2023, 049-2023
@@ -89,7 +89,7 @@ b) establece: “La Medalla “AL MERITO I CLASE”, será otorgada:
 
 b) Los miembros de las Fuerzas Armadas de naciones amigas cuyos actos relevantes y excepcionales contribuyan en forma notable a estrechar los vínculos de confraternidad entre las Fuerzas Armadas de su país y las nuestras, o se hayan destacado en campañas humanitarias nacionales, o en el desenvolvimiento cultural de las Fuerzas Armadas”.
 
-CONSIDERANDO: Que el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, Resolvió mediante Acta No. 007- 2023 de fecha 26 de octubre del 2023 y orden del día No. 010-2023, propone otorgar la Condecoración “MEDALLA AL MÉRITO I CLASE”, a veinticinco (25) señores Oficiales, por haber contribuido en forma notable a estrechar los vínculos de amistad y desenvolvimiento cultural de las Fuerzas Armadas de su respectivo país y el nuestro.
+CONSIDERANDO: Que el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, Resolvió mediante Acta No. 007-2023 de fecha 26 de octubre del 2023 y orden del día No. 010-2023, propone otorgar la Condecoración “MEDALLA AL MÉRITO I CLASE”, a veinticinco (25) señores Oficiales, por haber contribuido en forma notable a estrechar los vínculos de amistad y desenvolvimiento cultural de las Fuerzas Armadas de su respectivo país y el nuestro.
 
 CONSIDERANDO: Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=271(C-1) 2023 de fecha tres (03) de noviembre del dos mil veintitrés (2023), DICTAMINO OTORGAR la Condecoración “MEDALLA AL MÉRITO I CLASE”, a partir del once (11) de diciembre de dos mil veintitrés (2023), a veinticinco
 
@@ -181,7 +181,7 @@ Que el Consejo General de Condecoraciones y Distinciones Militares de las Fuerza
 
 POR TANTO:
 
-En aplicación a los artículos 245 y 274 de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 8 del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 007- 2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023, Orden del Día No. 010-2023: Dictamen D=270(C-1)2023 de la Dirección de Recursos Humanos (C-
+En aplicación a los artículos 245 y 274 de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 8 del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 007-2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023, Orden del Día No. 010-2023: Dictamen D=270(C-1)2023 de la Dirección de Recursos Humanos (C-
 
 \1) y demás leyes aplicables.
 
@@ -211,7 +211,7 @@ CONSIDERANDO: Que el Consejo General de Condecoraciones y Distinciones Militares
 
 POR TANTO:
 
-En aplicación a los artículos 245 y 274 de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 8 del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 007- 2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023: Orden del Día No. 010-2023; Dictamen D=283(C-1)2023 de la Dirección de Recursos Humanos (C-1) y demás leyes aplicables.
+En aplicación a los artículos 245 y 274 de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 8 del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 007-2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023: Orden del Día No. 010-2023; Dictamen D=283(C-1)2023 de la Dirección de Recursos Humanos (C-1) y demás leyes aplicables.
 
 ACUERDA:
 
@@ -241,9 +241,7 @@ CONSTDERANDO: Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conju
 
 POR TANTO:
 
-En aplicación a los artículos 245 numeral 25) y 274 a de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 13 y 15 literal b) del Reglamento de Condecoraciones y Distinciones Militares; Acta No.
-
-007 -2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023; Orden del Día No. 010-2023; Dictamen D=272(C-1)2023 de la Dirección de Recursos Humanos (C-1) y demás leyes aplicables.
+En aplicación a los artículos 245 numeral 25) y 274 a de la Constitución de la República; artículo 200 de la Ley Constitutiva de las Fuerzas Armadas; artículo 13 y 15 literal b) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 007 -2023 del Consejo General de Condecoraciones y Distinciones de las Fuerzas Armadas de Honduras emitida en fecha 26 de octubre del 2023; Orden del Día No. 010-2023; Dictamen D=272(C-1)2023 de la Dirección de Recursos Humanos (C-1) y demás leyes aplicables.
 
 ACUERDA:
 
@@ -297,7 +295,7 @@ CONSIDERANDO: Que, según el Reglamento de Condecoraciones y Distinciones Milita
 
 CONSIDERANDO: Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto DICTAMINÓ Otorgar al Condecoración “MEDALLA A LA PATRIA”, a partir del 11 de diciembredel 2023, al Teniente de Navío Póstumo JOSUE ISMAEL ROMERO ANARIBA y al Jefe Primero Póstumo WILMER JEOVANY MUÑOZ BANEGAS.
 
-CONSIDERANDO: Que el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, Resolvió mediante Acta No. 007- 2023 de fecha 26 de octubre del 2023, Otorgar la Condecoración “MEDALLA A LA PATRIA”, al Teniente de Navío Póstumo JOSUE ISMAEL ROMERO ANARIBA y al Jefe Primero Póstumo WILMER JEOVANY MUÑOZ BANEGAS, en viste de reunir los requisitos exigidos en el Reglamento de Condecoraciones y Distinciones Militares Vigentes.
+CONSIDERANDO: Que el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, Resolvió mediante Acta No. 007-2023 de fecha 26 de octubre del 2023, Otorgar la Condecoración “MEDALLA A LA PATRIA”, al Teniente de Navío Póstumo JOSUE ISMAEL ROMERO ANARIBA y al Jefe Primero Póstumo WILMER JEOVANY MUÑOZ BANEGAS, en viste de reunir los requisitos exigidos en el Reglamento de Condecoraciones y Distinciones Militares Vigentes.
 
 POR TANTO:
 

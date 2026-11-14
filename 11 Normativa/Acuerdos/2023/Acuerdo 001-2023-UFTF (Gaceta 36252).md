@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 001-2023-UFTF"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230612-36252/download"
 extraido: "2026-11-14"
-huella: "0f25ddd91dfe3e18"
+huella: "8b05988891baf4c6"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. 001-2023-UFTF
@@ -35,9 +35,9 @@ CONSIDERANDO: Que El Consejo Nacional Electoral es un órgano con rango constitu
 
 CONSIDERANDO: Que la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos es un ente adscrito al Consejo Nacional Electoral, la cual cuenta con autonomía técnica, operativa, funcional y de gestión presupuestaria en los términos aplicables a la materia y que es responsable en relación a los Sujetos Obligados de la Legal afectación del financiamiento público y privado para actividades específicas y de procesos electorales, la máxima publicidad de los recursos financieros, la vigilancia y control de ingresos y egresos, su puntual rendición de cuentas, de la fiscalización de los recursos provenientes del financiamiento público, privado y de la documentación correspondiente; y las demás contenidas en la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos.
 
-CONSIDERANDO: Que en fecha 17 de enero de 2018, el Abogado Kelvin Fabricio Aguirre Córdoba en su condición de Comisionado Coordinador de la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, periodo 2018, solicito ante el Instituto de Acceso a la Información Pública la aprobación del Acuerdo No.001- 2018 denominado "Acuerdo de clasificación de Información Reservada"
+CONSIDERANDO: Que en fecha 17 de enero de 2018, el Abogado Kelvin Fabricio Aguirre Córdoba en su condición de Comisionado Coordinador de la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, periodo 2018, solicito ante el Instituto de Acceso a la Información Pública la aprobación del Acuerdo No. 001-2018 denominado "Acuerdo de clasificación de Información Reservada"
 
-CONSIDERANDO: Que el Instituto de Acceso a la Información Pública mediante Resolución No, SO- 086-2018 RESUELVE: PRIMERO: CON LUGAR PARCIALMENTE a la solicitud de APROBACIÓN DEL
+CONSIDERANDO: Que el Instituto de Acceso a la Información Pública mediante Resolución No, SO-086-2018 RESUELVE: PRIMERO: CON LUGAR PARCIALMENTE a la solicitud de APROBACIÓN DEL
 
 ACUERDO CLASIFICACIÓN DE INFORMACIÓN
 
@@ -65,7 +65,7 @@ Dado en la ciudad de Tegucigalpa a los treinta (30) días del mes de mayo de dos
 
 JAVIER FRANCO NÚÑEZ COMISIONADO COORDINADOR GERMAN ESPINAL ZÚNIGA COMISIONADO Avance Próxima Edición
 
-A C U E R D A: I. Declarar y clasificar como reservada la información siguiente: 1. El detalle de información por empresa, proveniente de las declaraciones sobre exportaciones autorizadas e ingreso de divisas incluyendo la repatriación de divisas de zonas libres.
+ACUERDA: I. Declarar y clasificar como reservada la información siguiente: 1. El detalle de información por empresa, proveniente de las declaraciones sobre exportaciones autorizadas e ingreso de divisas incluyendo la repatriación de divisas de zonas libres.
 
 CENTROS DE DISTRIBUCIÓN:
 

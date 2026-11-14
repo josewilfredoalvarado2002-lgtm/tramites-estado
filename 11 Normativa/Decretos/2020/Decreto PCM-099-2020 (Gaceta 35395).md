@@ -8,10 +8,10 @@ gaceta_numero: 35395
 gaceta_fecha: "2020-10-09"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)|La Gaceta 35395]]"
 paginas: "A. 13 - 16"
-sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
+sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201009-35395/download"
 extraido: "2026-11-14"
-huella: "4edda17b35a0d04b"
+huella: "22bb3f24345d0b98"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-099-2020
@@ -23,7 +23,7 @@ huella: "4edda17b35a0d04b"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)\|La Gaceta 35395]] del 2020-10-09 |
 | Páginas | A. 13 - 16 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
 
 ## Texto
 
@@ -47,7 +47,7 @@ POR TANTO:
 
 En uso de las facultades legales establecidas en los Artículos:
 
-62, 245 numerales 2, 11, 19, 20, 30, 45, artículo 329 y demás aplicables de la Constitución de la República; 7, 11, 18, 19, 22 numerales 9) y 12), 117, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266- 2013; y, Decretos Ejecutivos Números: PCM-005-2020, PCM- 016-2020, PCM-023-2020, PCM-045-2020.
+62, 245 numerales 2, 11, 19, 20, 30, 45, artículo 329 y demás aplicables de la Constitución de la República; 7, 11, 18, 19, 22 numerales 9) y 12), 117, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-005-2020, PCM-016-2020, PCM-023-2020, PCM-045-2020.
 
 DECRETA:
 

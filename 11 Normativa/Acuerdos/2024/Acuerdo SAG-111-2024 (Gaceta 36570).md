@@ -11,7 +11,7 @@ paginas: "A. 9 - 11"
 sumario: "Acuerdo No. SAG-111-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240626-36570/download"
 extraido: "2026-11-14"
-huella: "544e478ca8981289"
+huella: "d087c60bfa75e1c6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-111-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el objeto general de la Ley de Simplificación Administrativa 
 
 CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance, el derecho a la seguridad alimentaria del pueblo hondureño, en virtud de lo cual resulta indispensable tomar medidas de carácter extraordinario; por consiguiente, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) realizará arduos e incansables esfuerzos para mitigar los daños irreversibles y sin precedentes que los fenómenos naturales han ocasionado al Sector Cafetalero, dejando a la población hondureña en un estado de total vulnerabilidad e inseguridad alimentaria, en virtud de las cuantiosas pérdidas sufridas producto de los cambios climáticos.
 
-CONSIDERANDO: Que el Programa Bono Cafetalero para la fertilización en apoyo a pequeños y medianos caficultores, se faculta mediante la priorización del sector agroalimentario adscrito en la política del sector agroalimentario 2023- 2043, así como en el PCM-04-2022, que declara al sector agropecuario como prioridad nacional y de interés público.
+CONSIDERANDO: Que el Programa Bono Cafetalero para la fertilización en apoyo a pequeños y medianos caficultores, se faculta mediante la priorización del sector agroalimentario adscrito en la política del sector agroalimentario 2023-2043, así como en el PCM-04-2022, que declara al sector agropecuario como prioridad nacional y de interés público.
 
 CONSIDERANDO: Que mediante Decreto No. 62-2023 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2024, mediante el cual, se aprueba el Presupuesto de la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el cual, se incorporaron dentro del Programa No. 23 y Actividad Obra No. 003, DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L. 250,000,000.00), destinados a la ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”, año 2024.
 

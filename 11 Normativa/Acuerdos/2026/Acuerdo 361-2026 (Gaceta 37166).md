@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdo Números 280-2026, 319-2026, 325-2026, 361-2026, 362-2026, 365-2026, 396-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "9615a10ba63202fd"
+huella: "d121f1aa7b6faf1d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 361-2026
@@ -55,7 +55,7 @@ Que la delegación de funciones se entiende posible siempre y cuando se dirija d
 
 CONSIDERANDO (7):
 
-Que mediante Acuerdo Ejecutivo Número 063-2026 de fecha 02 de febrero del año 2026, el señor Presidente Constitucional de la República nombró al ciudadano C A R L O S R O B E R T O RECONCO RAMÍREZ, en el cargo de Tesorero General de la República.
+Que mediante Acuerdo Ejecutivo Número 063-2026 de fecha 02 de febrero del año 2026, el señor Presidente Constitucional de la República nombró al ciudadano CARLOS ROBERTO RECONCO RAMÍREZ, en el cargo de Tesorero General de la República.
 
 CONSIDERANDO (8):
 
@@ -69,7 +69,7 @@ POR TANTO:
 
 En uso de las facultades que está investido y en aplicación de los siguientes artículos: 321 de la Constitución de la República;
 
-33, 36 numeral 8 y 19, 116, 118 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 19, 27 y 121 de la Ley de Procedimiento Administrativo; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM- 008-97; y, Decreto Legislativo Número 70-2026.
+33, 36 numeral 8 y 19, 116, 118 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 19, 27 y 121 de la Ley de Procedimiento Administrativo; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97; y, Decreto Legislativo Número 70-2026.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 24"
 sumario: "Decretos Nos. 40-2024, 46-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240606-36553/download"
 extraido: "2026-11-14"
-huella: "0480367414908960"
+huella: "7b812432424bd3b4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 46-2024
@@ -153,13 +153,11 @@ CONSIDERANDO (09):
 
 Qué, el Reglamento de Ascenso para Oficiales en el literal a) de su artículo 10 establece específicamente:
 
-“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A O F I C I A L E S D E L A S ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
+“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
 CONSIDERANDO (10):
 
-Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No.
-
-002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Ingeniería a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Honduras “General Francisco Morazán” el 13 de enero de 2019, a favor del Alférez Josué Ricardo Montalván Moreno, quien curso satisfactoriamente su formación como oficial en la Escuela Militar “Capitán General Gerardo Barrios” de la República de El Salvador, obteniendo un promedio final de ochenta punto setenta y cuatro por ciento (80.74%).
+Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No. 002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Ingeniería a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Honduras “General Francisco Morazán” el 13 de enero de 2019, a favor del Alférez Josué Ricardo Montalván Moreno, quien curso satisfactoriamente su formación como oficial en la Escuela Militar “Capitán General Gerardo Barrios” de la República de El Salvador, obteniendo un promedio final de ochenta punto setenta y cuatro por ciento (80.74%).
 
 CONSIDERANDO (11):
 
@@ -167,9 +165,7 @@ Qué, en fecha 6 de febrero del año 2024, la Dirección de Recursos Humanos del
 
 POR TANTO;
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No.
-
-002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=012(C-1)2024 de fecha 6 de febrero de 2024.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No. 002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=012(C-1)2024 de fecha 6 de febrero de 2024.
 
 ACUERDA;
 
@@ -231,13 +227,11 @@ CONSIDERANDO (09):
 
 Qué, el Reglamento de Ascenso para Oficiales en el literal a) de su artículo 10 establece específicamente:
 
-“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A O F I C I A L E S D E L A S ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
+“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
 CONSIDERANDO (10):
 
-Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No.
-
-002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Aviación a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Aviación el 13 de enero de 2019, a favor del Alférez Denis Humberto Alvarado Leonardo, quien curso satisfactoriamente su formación como oficial en la Academia Militar de Aviación de la República de Brasil, obteniendo un promedio final de noventa punto cincuenta y dos por ciento (90.52%).
+Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No. 002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Aviación a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Aviación el 13 de enero de 2019, a favor del Alférez Denis Humberto Alvarado Leonardo, quien curso satisfactoriamente su formación como oficial en la Academia Militar de Aviación de la República de Brasil, obteniendo un promedio final de noventa punto cincuenta y dos por ciento (90.52%).
 
 CONSIDERANDO (11):
 
@@ -245,9 +239,7 @@ Qué, en fecha 6 de febrero del año 2024, la Dirección de Recursos Humanos del
 
 POR TANTO;
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No.
-
-002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=013(C-1)2024 de fecha 6 de febrero de 2024.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No. 002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=013(C-1)2024 de fecha 6 de febrero de 2024.
 
 ACUERDA:
 
@@ -313,13 +305,11 @@ CONSIDERANDO (09):
 
 Qué, el Reglamento de Ascenso para Oficiales en el literal a) de su artículo 10 establece específicamente:
 
-“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A O F I C I A L E S D E L A S ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
+“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
 CONSIDERANDO (10):
 
-Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No.
-
-002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Abastecimiento a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Aviación el 13 de enero de 2019, a favor del Alférez Jair Eliseo Euceda Iscoa, quien curso satisfactoriamente su formación como oficial en la Academia Militar de Aviación de la República de Colombia, obteniendo un promedio final de ochenta y seis punto treinta y cinco por ciento (86.35%).
+Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No. 002-2024 de fecha 29 de enero de 2024, resolvió aprobar el ascenso al grado de Subteniente de Abastecimiento a partir del 01 de enero del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2022, por haber ingresado a la Academia Militar de Aviación el 13 de enero de 2019, a favor del Alférez Jair Eliseo Euceda Iscoa, quien curso satisfactoriamente su formación como oficial en la Academia Militar de Aviación de la República de Colombia, obteniendo un promedio final de ochenta y seis punto treinta y cinco por ciento (86.35%).
 
 CONSIDERANDO (11):
 
@@ -327,9 +317,7 @@ Qué, en fecha 6 de febrero del año 2024, la Dirección de Recursos Humanos del
 
 POR TANTO;
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No.
-
-002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=014(C-1)2024 de fecha 6 de febrero de 2024.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No. 002-2024 emitida en fecha 29 de enero de 2024 y Dictamen D=014(C-1)2024 de fecha 6 de febrero de 2024.
 
 ACUERDA:
 
@@ -389,21 +377,17 @@ CONSIDERANDO (09):
 
 Qué, el Reglamento de Ascenso para Oficiales en el literal a) de su artículo 10 establece específicamente:
 
-“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A O F I C I A L E S D E L A S ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
+“REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS, en su literal “a” establece: Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
 CONSIDERANDO (10):
 
-Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No.
-
-003-2024 de fecha 25 de marzo de 2024, resolvió aprobar el ascenso al grado de Alférez de Fragata del Cuerpo General a partir del 01 de marzo del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2021, por haber ingresado a la Academia Naval de Honduras el 06 de enero de 2018, a favor del Guardiamarina Ricardo Ramón Trochez Meza, quien curso satisfactoriamente su formación como oficial en la Academia Naval Vicealmirante Cesar A. de Windt Lavandier de la República Dominicana, obteniendo un promedio final de noventa y dos punto cero seis por ciento (92.06%).
+Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No. 003-2024 de fecha 25 de marzo de 2024, resolvió aprobar el ascenso al grado de Alférez de Fragata del Cuerpo General a partir del 01 de marzo del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2021, por haber ingresado a la Academia Naval de Honduras el 06 de enero de 2018, a favor del Guardiamarina Ricardo Ramón Trochez Meza, quien curso satisfactoriamente su formación como oficial en la Academia Naval Vicealmirante Cesar A. de Windt Lavandier de la República Dominicana, obteniendo un promedio final de noventa y dos punto cero seis por ciento (92.06%).
 
 CONSIDERANDO (11): Qué, en fecha 26 de marzo del año 2024, la Dirección de Recursos Humanos del Estado Mayor Conjunto (C- 1), emitió DICTAMEN D=060(C-1)2024 en el cual recomendó ascender a partir del 01 de marzo del 2024, al grado de Alférez de Fragata del Cuerpo General al Guardiamarina Ricardo Ramón Trochez Meza, graduado en el extranjero y reconocerle, antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2021, por haber ingresado a la Academia Naval de Honduras el 06 de enero de 2018.
 
 POR TANTO;
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No.
-
-003-2024 emitida en fecha 25 de marzo de 2024 y Dictamen D=060(C-1)2024 de fecha 26 de marzo de 2024.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 56 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta No. 003-2024 emitida en fecha 25 de marzo de 2024 y Dictamen D=060(C-1)2024 de fecha 26 de marzo de 2024.
 
 ACUERDA:
 

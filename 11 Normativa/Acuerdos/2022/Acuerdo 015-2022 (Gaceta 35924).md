@@ -11,7 +11,7 @@ paginas: "A. 7 - 11"
 sumario: "Acuerdo No. 004-2022, 015-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220516-35924/download"
 extraido: "2026-11-14"
-huella: "7cc2895205140703"
+huella: "813e5553b86ccfcc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 015-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Asesoría Legal, adscrita a la Secretaría General, ha revi
 
 POR TANTO:
 
-La Dirección Ejecutiva en uso de sus facultades y en aplicación de los artículos 340 341 de la Constitución de la República; artículos 1, 116, 118, 119 y 122 de la Ley General de Administración Pública; artículos 1, 2, 3, 4, 6, 9, 11, 17, 18, 45, 49, 68, 69, 70, 71, 72, 73, 74, 75, 89, 113, 120, 121, 122, 123, 124, 125, 134, 135 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98- 2007); artículos 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190 y 191 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículos 1, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo y demás aplicables.
+La Dirección Ejecutiva en uso de sus facultades y en aplicación de los artículos 340 341 de la Constitución de la República; artículos 1, 116, 118, 119 y 122 de la Ley General de Administración Pública; artículos 1, 2, 3, 4, 6, 9, 11, 17, 18, 45, 49, 68, 69, 70, 71, 72, 73, 74, 75, 89, 113, 120, 121, 122, 123, 124, 125, 134, 135 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98-2007); artículos 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190 y 191 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; artículos 1, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo y demás aplicables.
 
 ACUERDA:
 

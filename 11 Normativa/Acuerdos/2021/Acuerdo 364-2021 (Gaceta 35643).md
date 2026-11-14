@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Acuerdo Ejecutivo número 364-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210630-35643/download"
 extraido: "2026-11-14"
-huella: "e0b7e509d25d5651"
+huella: "2e90eb112fd1fc51"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 364-2021
@@ -39,9 +39,7 @@ CONSIDERANDO: Que la Constitución de la República establece que el Presidente 
 
 CONSIDERANDO: Que el Artículo 15 reformado de la Ley General de la Administración Pública establece que el Presidente de la República puede auxiliarse de un funcionario del más alto rango de las Secretarías de Estado para coordinar todo lo relativo a la conducción estratégica de la Administración Pública.
 
-CONSIDERANDO: Que mediante Decreto Legislativo N°.
-
-266-2013 del 16 de diciembre, 2013, publicado en el Diario Oficial La Gaceta el 23 de enero, 2014, se reforma el Artículo 29 de la Ley General de la Administración Pública, definiendo a la Secretaría de Estado en el Despacho de Finanzas, como el Ente del Estado encargado de la Formulación, Coordinación, Ejecución y Evaluación de las políticas relacionadas con las finanzas públicas.
+CONSIDERANDO: Que mediante Decreto Legislativo N°. 266-2013 del 16 de diciembre, 2013, publicado en el Diario Oficial La Gaceta el 23 de enero, 2014, se reforma el Artículo 29 de la Ley General de la Administración Pública, definiendo a la Secretaría de Estado en el Despacho de Finanzas, como el Ente del Estado encargado de la Formulación, Coordinación, Ejecución y Evaluación de las políticas relacionadas con las finanzas públicas.
 
 CONSIDERANDO: Que mediante Decreto Legislativo N°. 182-2020 se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2021, dentro del cual se encuentran asignados TRES MIL TRESCIENTOS CUARENTA Y CINCO MILLONES QUINIENTOS VEINTE MIL CUATROCIENTOS OCHENTA LEMPIRAS EXACTOS (L3,345,520,480.00) en el Presupuesto de la Secretaría de Estado en el Despacho de Salud con la Fuente de Financiamiento 21 – Crédito Externo, Organismo Financiador 172 – Banco Centroamericano de Integración Económica / BCIE, recursos que corresponden al financiamiento de la Segunda Operación de Política de Desarrollo del Sector Energía, misma que se encuentra en proceso de negociación con el BCIE, en el cual es requerido que las instituciones gubernamentales ligadas al Sector Energía den cumplimiento a una serie de indicadores que permitan la aprobación de la operación por el Directorio de dicho Organismo Internacional, planificada para julio, 2021.
 
@@ -55,7 +53,7 @@ POR TANTO:
 
 En aplicación de los Artículos 245 numerales 11, 19 y 30 de la Constitución de la República, 11, 15, 29, 116, 117 y 119 de la Ley General de la Administración Pública, 35 y 37 numeral 2 reformado de la Ley Orgánica del Presupuesto, 23, 24, Literal
 
-a) numeral 5 de las Normas Técnicas del Subsistema de Presupuesto vigentes, 35 y 81 del Decreto Legislativo 182- 2020.
+a) numeral 5 de las Normas Técnicas del Subsistema de Presupuesto vigentes, 35 y 81 del Decreto Legislativo 182-2020.
 
 ACUERDA:
 

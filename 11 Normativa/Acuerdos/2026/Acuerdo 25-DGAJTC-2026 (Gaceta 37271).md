@@ -8,10 +8,10 @@ gaceta_numero: 37271
 gaceta_fecha: "2026-10-16"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)|La Gaceta 37271]]"
 paginas: "A. 44 - 57"
-sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026"
+sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261016-37271/download"
 extraido: "2026-11-09"
-huella: "525283b3973cc762"
+huella: "b5d15c40db48cdc5"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 25-DGAJTC-2026
@@ -23,7 +23,7 @@ huella: "525283b3973cc762"
 | Emisor | Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)\|La Gaceta 37271]] del 2026-10-16 |
 | Páginas | A. 44 - 57 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026 |
 
 ## Texto
 
@@ -151,7 +151,7 @@ COMUNÍQUESE Y PUBLÍQUESE
 
 Nasry Juan Asfura Zablah Presidente de la República Mireya Agüero Secretaria de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) ACUERDO No. J.D. 001-11-09-2026 11 DE SEPTIEMBRE DE 2026 LA JUNTA DIRECTIVA DEL CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)
 
-CONSIDERANDO (1): Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decreto No.174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación.
+CONSIDERANDO (1): Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decreto No. 174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación.
 
 CONSIDERANDO (2): Que el artículo 99 de la Ley de Cooperativas de Honduras, establece las atribuciones que tiene Junta Directiva del CONSUCOOP, entre las cuales se encuentra “aprobar las políticas, reglamentos y normativas que se emitan.”
 
@@ -461,9 +461,7 @@ Artículo 29: Lo no previsto en el presente Reglamento, será resuelto por la Di
 
 #### Artículo 30
 
-Artículo 30: Dejar sin valor ni efecto Reglamento de Viáticos y Gastos de Viaje, aprodado en Sesión de Junta Directiva No.
-
-267/2016.
+Artículo 30: Dejar sin valor ni efecto Reglamento de Viáticos y Gastos de Viaje, aprodado en Sesión de Junta Directiva No. 267/2016.
 
 #### Artículo 31
 

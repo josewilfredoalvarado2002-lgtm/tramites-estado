@@ -11,7 +11,7 @@ paginas: "A. 12 - 24"
 sumario: "Acuerdo SEDS Número 643-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250508-36832/download"
 extraido: "2026-11-11"
-huella: "0613caca2a659296"
+huella: "6968008f798c11e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO SEDS NÚMERO 643-2025
@@ -87,17 +87,17 @@ Que el Artículo 95 de la Ley Orgánica de la Secretaría de Estado en el Despac
 
 CONSIDERANDO:
 
-Que mediante ACUERDO EJECUTIVO No.1363-SE-2014 de fecha 22 de agosto del año 2013, publicado en el Diario Oficial “La Gaceta” en fecha 17 de septiembre del año 2014, publicación No.33,533, se creó el REGLAMENTO D E I N S T I T U C I O N E S D E E D U C A C I Ó N N O G U B E R N A M E N T A L E S , establecido como marco normativo para asistir el derecho que tiene toda persona natural o jurídica para fundar centros educativos y para asegurar a los padres de familia, el derecho a escoger el tipo de educación que deseen para sus hijos, por lo que el Estado estableció esta normativa para que las Instituciones de Educación No Gubernamentales, brinden una educación de calidad, permanente e inclusiva para todos los educandos, mismas que colaboran con el Estado en su función esencial de desarrollar una educación de calidad con equidad permanente e inclusiva.
+Que mediante ACUERDO EJECUTIVO No. 1363-SE-2014 de fecha 22 de agosto del año 2013, publicado en el Diario Oficial “La Gaceta” en fecha 17 de septiembre del año 2014, publicación No. 33,533, se creó el REGLAMENTO DE INSTITUCIONES DE EDUCACIÓN NO GUBERNAMENTALES, establecido como marco normativo para asistir el derecho que tiene toda persona natural o jurídica para fundar centros educativos y para asegurar a los padres de familia, el derecho a escoger el tipo de educación que deseen para sus hijos, por lo que el Estado estableció esta normativa para que las Instituciones de Educación No Gubernamentales, brinden una educación de calidad, permanente e inclusiva para todos los educandos, mismas que colaboran con el Estado en su función esencial de desarrollar una educación de calidad con equidad permanente e inclusiva.
 
 CONSIDERANDO:
 
-Q u e e l R E G L A M E N T O D E
+Que el REGLAMENTO DE
 
-I N S T I T U C I O N E S
+INSTITUCIONES
 
 D E
 
-E D U C A C I Ó N
+EDUCACIÓN
 
 N O GUBERNAMENTALES, en sus
 
@@ -125,19 +125,19 @@ Que la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y d
 
 CONSIDERANDO:
 
-Q u e m e d i a n t e A C T A D E
+Que mediante ACTA DE
 
 SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL NÚMERO 037-2025 de fecha 10 de abril del Año 2025, el Directorio Estratégico de la Policía Nacional de Honduras, discutió, analizó ampliamente y por Unanimidad de Votos determinan que se proponga la creación del “LICEO POLICIAL”, con fundamento en la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras (Decreto 18-2017), Artículos 47 numerales 3, 7, 9, Artículo 54 párrafo primero y Artículo 57 numerales 1, 4, 5, 6 y 12.
 
 CONSIDERANDO:
 
-Que mediante DICTAMEN TÉCNICO DGPN-DEP No.037- 2025 de fecha 10 de abril del año 2025, el Directorio Estratégico P o l i c i a l , D I C T A M I N Ó :
+Que mediante DICTAMEN TÉCNICO DGPN-DEP No. 037-2025 de fecha 10 de abril del año 2025, el Directorio Estratégico Policial, DICTAMINÓ:
 
 Proponer la Creación del “LICEO POLICIAL”, como una Dependencia de la Dirección de Educación Policial (DEP) con la finalidad de brindar una educación de calidad, incorporando un enfoque integral a los hijos de los miembros de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional, incorporando también un enfoque integral que fortalezcan tanto las competencias académicas y lingüísticas de los estudiantes, basada en disciplina, valores y principios cívicos, formando ciudadanos íntegros con vocación de servicio y capacidad para contribuir al desarrollo de Honduras.
 
 CONSIDERANDO:
 
-Que la Unidad de Servicios Legales de la Secretaría de Estado en el Despacho de Seguridad, mediante DICTAMEN LEGAL SEDS-USL-No.200-2025 de fecha 11 de abril del Año 2025, Dictaminó la Procedencia de la Creación del LICEO POLICIAL, como dependencia del Sistema de Educación Policial/Dirección de Educación Policial (DEP) de la Dirección General de la Policía Nacional, con la finalidad de brindar a los hijos del personal de la Secretaría de Estado en el Despacho de Seguridad e hijos de los miembros de la Policía Nacional de Honduras activos y de los que fallecieron durante el servicio, una educación bilingüe de excelencia, basada en disciplina, valores y principios cívicos, formando ciudadanos íntegros con vocación de servicio y capacidad para contribuir al desarrollo de Honduras, en virtud que conforme lo contenido en el MEMORANDUM SEDSNo.0652-2025, el Secretario de Estado en el Despacho de Seguridad, instruyó que se continúe con el trámite que corresponde conforme a Ley y en consonancia a lo establecido en el ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL y DICTAMEN TÉCNICO DGPN-DEP donde se Dictaminó la Procedencia para la creación del “LICEO POLICIAL”, con la finalidad de brindar un servicio educativo en los niveles:
+Que la Unidad de Servicios Legales de la Secretaría de Estado en el Despacho de Seguridad, mediante DICTAMEN LEGAL SEDS-USL-No. 200-2025 de fecha 11 de abril del Año 2025, Dictaminó la Procedencia de la Creación del LICEO POLICIAL, como dependencia del Sistema de Educación Policial/Dirección de Educación Policial (DEP) de la Dirección General de la Policía Nacional, con la finalidad de brindar a los hijos del personal de la Secretaría de Estado en el Despacho de Seguridad e hijos de los miembros de la Policía Nacional de Honduras activos y de los que fallecieron durante el servicio, una educación bilingüe de excelencia, basada en disciplina, valores y principios cívicos, formando ciudadanos íntegros con vocación de servicio y capacidad para contribuir al desarrollo de Honduras, en virtud que conforme lo contenido en el MEMORANDUM SEDSNo.0652-2025, el Secretario de Estado en el Despacho de Seguridad, instruyó que se continúe con el trámite que corresponde conforme a Ley y en consonancia a lo establecido en el ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL y DICTAMEN TÉCNICO DGPN-DEP donde se Dictaminó la Procedencia para la creación del “LICEO POLICIAL”, con la finalidad de brindar un servicio educativo en los niveles:
 
 Pre-Básica, Básica y Media.
 
@@ -151,7 +151,7 @@ El Secretario de Estado en el Despacho de Seguridad, en nombre del Estado de Hon
 
 Artículos 7, 29 numeral 4), Artículo 36 numerales 1), 8),
 
-Artículos 116, 118, 119, 120 y 122 de la Ley General de la Administración Pública; Artículos 19, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo; Artículos 1, 4, 7 numerales 1), 4), 5), 7), 19) y 20), Artículos 23, 44, 54, 57 y 95 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras; Artículo 11 numeral 11 de la Ley de la Carrera Policial; Artículos 9, 26, 28, 78 y 103 del Reglamento General de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y la Policía Nacional de Honduras; REGLAMENTO DE INSTITUCIONES NO GUBERNAMENTALES (ACUERDO EJECUTIVO No.1363-SE-2014), ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL NÚMERO 037-2025 de fecha 10 de abril del Año 2025, DICTAMEN TÉCNICO DGPN-DEP No.037-2025 de fecha 10 de abril del año 2025, emitidos por el Directorio Estratégico Policial y DICTAMEN LEGAL SEDS-USL-No.200-2025 de fecha 11 de Abril del Año 2025, emitido por la Unidad de Servicios Legales de la SEDS.
+Artículos 116, 118, 119, 120 y 122 de la Ley General de la Administración Pública; Artículos 19, 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo; Artículos 1, 4, 7 numerales 1), 4), 5), 7), 19) y 20), Artículos 23, 44, 54, 57 y 95 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras; Artículo 11 numeral 11 de la Ley de la Carrera Policial; Artículos 9, 26, 28, 78 y 103 del Reglamento General de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y la Policía Nacional de Honduras; REGLAMENTO DE INSTITUCIONES NO GUBERNAMENTALES (ACUERDO EJECUTIVO No. 1363-SE-2014), ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL NÚMERO 037-2025 de fecha 10 de abril del Año 2025, DICTAMEN TÉCNICO DGPN-DEP No. 037-2025 de fecha 10 de abril del año 2025, emitidos por el Directorio Estratégico Policial y DICTAMEN LEGAL SEDS-USL-No. 200-2025 de fecha 11 de Abril del Año 2025, emitido por la Unidad de Servicios Legales de la SEDS.
 
 ACUERDA
 
@@ -159,9 +159,9 @@ PRIMERO:
 
 CREAR el LICEO POLICIAL, como una dependencia del Sistema de Educación Policial/Dirección de Educación Policial
 
-(DEP) de la Dirección General de la Policía Nacional de Honduras (DGPN); con la finalidad de brindar a los hijos del personal de la Secretaría de Estado en el Despacho de Seguridad e hijos de los miembros de la Policía Nacional de Honduras activos y de los que fallecieron durante el servicio, una educación bilingüe de excelencia, basada en disciplina, valores y principios cívicos, formando ciudadanos íntegros con vocación de servicio y capacidad para contribuir al desarrollo de Honduras, en los Niveles de Educación Pre Básica, Básica y Media; en consonancia a la propuesta contenida en el ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL NÚMERO 037- 2025 y DICTAMEN TÉCNICO DGPNDEP No.037-2025 de fecha 10 de abril del año 2025 y DICTAMEN LEGAL SEDSUSL-No.200-2025 de fecha 11 de Abril del Año 2025 donde se Dictaminó sobre la Procedencia de la Creación del “LICEO POLICIAL”.
+(DEP) de la Dirección General de la Policía Nacional de Honduras (DGPN); con la finalidad de brindar a los hijos del personal de la Secretaría de Estado en el Despacho de Seguridad e hijos de los miembros de la Policía Nacional de Honduras activos y de los que fallecieron durante el servicio, una educación bilingüe de excelencia, basada en disciplina, valores y principios cívicos, formando ciudadanos íntegros con vocación de servicio y capacidad para contribuir al desarrollo de Honduras, en los Niveles de Educación Pre Básica, Básica y Media; en consonancia a la propuesta contenida en el ACTA DE SESIÓN DEL DIRECTORIO ESTRATÉGICO DE LA POLICÍA NACIONAL NÚMERO 037-2025 y DICTAMEN TÉCNICO DGPNDEP No. 037-2025 de fecha 10 de abril del año 2025 y DICTAMEN LEGAL SEDSUSL-No. 200-2025 de fecha 11 de Abril del Año 2025 donde se Dictaminó sobre la Procedencia de la Creación del “LICEO POLICIAL”.
 
-SEGUNDO: I N S T R U I R a l a G E R E N C I A ADMINISTRATIVA de la Secretaría de Estado en el Despacho de Seguridad para que a través de la Sub Gerencia de Presupuesto, IDENTIFIQUE y REALICE la Asignación Presupuestaria, para sufragar los gastos de funcionamiento y erogaciones generales del “LICEO POLICIAL”, para cada ejercicio fiscal, conforme a la Disponibilidad Presupuestaria asignada a la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras.
+SEGUNDO: INSTRUIR a la GERENCIA ADMINISTRATIVA de la Secretaría de Estado en el Despacho de Seguridad para que a través de la Sub Gerencia de Presupuesto, IDENTIFIQUE y REALICE la Asignación Presupuestaria, para sufragar los gastos de funcionamiento y erogaciones generales del “LICEO POLICIAL”, para cada ejercicio fiscal, conforme a la Disponibilidad Presupuestaria asignada a la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras.
 
 TERCERO:
 
@@ -193,13 +193,11 @@ CONSIDERANDO (07): Que la Ley Constitutiva de las Fuerzas Armadas en su artícul
 
 CONSIDERANDO (8): Que el Decreto No. 142-2013 y Decreto No. 67-2018, regulan la compensación económica que se otorga a los Reservistas por sus servicios prestados a la patria, que cumplen los requisitos que establece el Reglamento de la Reserva de las Fuerzas Armadas de Honduras y sus reformas.
 
-CONSIDERANDO (09): Que el Acuerdo S.D.N. No.
-
-021-2019 del Reglamento de la Reserva de las Fuerzas Armadas de Honduras tiene por objeto, regular el registro, control de personal, organización, compensación económica, entrenamiento, equipamiento, movilización y el empleo de las Reservas Militares, con el propósito de potenciar las capacidades reales de las Fuerzas Armadas, manteniendo una fuerza disuasiva, confiable y motivada.
+CONSIDERANDO (09): Que el Acuerdo S.D.N. No. 021-2019 del Reglamento de la Reserva de las Fuerzas Armadas de Honduras tiene por objeto, regular el registro, control de personal, organización, compensación económica, entrenamiento, equipamiento, movilización y el empleo de las Reservas Militares, con el propósito de potenciar las capacidades reales de las Fuerzas Armadas, manteniendo una fuerza disuasiva, confiable y motivada.
 
 POR TANTO:
 
-La señora Secretaria de Estado en el Despacho de Defensa Nacional, en uso de las facultades consignadas en los artículos 246, 248 párrafo primero y 274 párrafo primero de la Constitución de la República, artículos 36 numeral 6), de la Ley General de la Administración Pública; artículos 14, 15, 16, 17 y 128 numeral 2), de la Ley Constitutiva de las Fuerzas Armadas; Decreto No. 142-2013 publicado en el Diario Oficial La Gaceta en fecha 30 de enero de 2014 y Decreto No. 67- 2018 publicado en el Diario Oficial La Gaceta en fecha 15 de diciembre de 2018.
+La señora Secretaria de Estado en el Despacho de Defensa Nacional, en uso de las facultades consignadas en los artículos 246, 248 párrafo primero y 274 párrafo primero de la Constitución de la República, artículos 36 numeral 6), de la Ley General de la Administración Pública; artículos 14, 15, 16, 17 y 128 numeral 2), de la Ley Constitutiva de las Fuerzas Armadas; Decreto No. 142-2013 publicado en el Diario Oficial La Gaceta en fecha 30 de enero de 2014 y Decreto No. 67-2018 publicado en el Diario Oficial La Gaceta en fecha 15 de diciembre de 2018.
 
 ACUERDA:
 

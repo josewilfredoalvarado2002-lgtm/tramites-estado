@@ -11,7 +11,7 @@ paginas: "A. 4 - 9"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "73f07a849dbdddfb"
+huella: "3837b9f61e2d2c7b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 202-2026
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribuci
 
 POR TANTO:
 
-D E C R E TA :
+D E C R E TA:
 
 #### Artículo 1
 
@@ -89,7 +89,7 @@ Queda prohibida su utilización para fines particulares, así como su enajenaci�
 
 #### Artículo 4
 
-ARTÍCULO 4.- F O R M A L I Z A C I Ó N D E L A
+ARTÍCULO 4.- FORMALIZACIÓN DE LA
 
 TRADICIÓN. La Procuraduría General de la República (PGR), en coordinación con la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (SERNA), el Instituto de la Propiedad (IP) y la Municipalidad de Goascorán, realizarán todas las actuaciones administrativas, técnicas, catastrales, registrales y legales necesarias para formalizar la tradición de dominio ordenada en el Artículo 1 del presente Decreto.
 

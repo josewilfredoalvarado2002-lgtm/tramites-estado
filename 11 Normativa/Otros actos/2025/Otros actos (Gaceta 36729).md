@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decretos Ejecutivos NúmerosPCM 01-2025, PCM 02-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250102-36729/download"
 extraido: "2026-11-14"
-huella: "5bf6312c46b16e1f"
+huella: "ea91c054c87aa4f0"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos NúmerosPCM 01-2025, PCM 02-2025
@@ -49,7 +49,7 @@ POR TANTO, En aplicación de los artículos 235, 245 numerales 2), 11), 19) y 20
 
 Decreto Ejecutivo N° 05-2023; y demás aplicables.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

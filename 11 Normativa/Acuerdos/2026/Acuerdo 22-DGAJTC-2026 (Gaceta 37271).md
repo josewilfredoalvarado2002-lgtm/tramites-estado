@@ -8,7 +8,7 @@ gaceta_numero: 37271
 gaceta_fecha: "2026-10-16"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)|La Gaceta 37271]]"
 paginas: "A. 1 - 4"
-sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026"
+sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261016-37271/download"
 extraido: "2026-11-09"
 huella: "f6e54f021bfe4ae3"
@@ -23,7 +23,7 @@ huella: "f6e54f021bfe4ae3"
 | Emisor | Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)\|La Gaceta 37271]] del 2026-10-16 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026 |
 
 ## Texto
 

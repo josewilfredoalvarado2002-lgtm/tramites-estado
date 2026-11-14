@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200613-35282/download"
 extraido: "2026-11-14"
-huella: "951526ababb23b63"
+huella: "6010aa5c49e86ef1"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -53,7 +53,7 @@ PRIMERO: DELEGAR en la Licenciada Jania Ramírez Uclés, en su condición de Dir
 
 Así mismo se DELEGAN, únicamente en caso de ausencia de la Licenciada Jania Uclés, las funciones antes mencionadas en el Licenciado Jacobo Jose Herrera, quien se desempeña como Subdirector de esa Dirección.
 
-SEGUNDO: Dejar sin valor ni efecto el Acuerdo No. 503- 2019 de fecha 30 de agosto de 2020.
+SEGUNDO: Dejar sin valor ni efecto el Acuerdo No. 503-2019 de fecha 30 de agosto de 2020.
 
 TERCERO: Los delegados son responsables de las funciones encomendadas.
 

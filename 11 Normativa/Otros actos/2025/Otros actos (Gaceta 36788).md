@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250312-36788/download"
 extraido: "2026-11-12"
-huella: "f56d5b323faf01d1"
+huella: "97ebc9f4b868cbb9"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,7 +33,7 @@ CONSIDERANDO (01): Que la Constitución de la República en su artículo 247 est
 
 CONSIDERANDO (02): Que la Constitución de la República en su artículo 272 primer párrafo establece “Las Fuerzas Armadas de Honduras, son una Institución Nacional de carácter permanente, esencialmente profesional, apolítica, obediente y no deliberante”.
 
-CONSIDERANDO (03): Que la Constitución de la República en su artículo 274 párrafo primero establece “Las Fuerzas Armadas estarán sujetas a las disposiciones de su ley constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
+CONSIDERANDO (03): Que la Constitución de la República en su artículo 274 párrafo primero establece “Las Fuerzas Armadas estarán sujetas a las disposiciones de su ley constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
 
 CONSIDERANDO (04): Que la Ley General de la Administración Pública en su artículo 36 establece atribuciones y deberes comunes a los Secretarios de Estado, dentro de los cuales se hace referencia especifica en el numeral “1) Orientar, dirigir, coordinar, supervisar y controlar las actividades de sus respectivos despachos, sin perjuicio de las atribuciones que la Constitución y las Leyes confieran a otros órganos”.
 

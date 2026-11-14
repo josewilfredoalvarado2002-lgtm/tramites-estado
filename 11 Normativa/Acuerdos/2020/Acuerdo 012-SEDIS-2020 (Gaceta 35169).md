@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200207-35169/download"
 extraido: "2026-11-14"
-huella: "3c8fe8523d6275f0"
+huella: "0ff24189f6b22da1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 012-SEDIS-2020
@@ -57,7 +57,7 @@ a) Dar a conocer el sistema bajo el cual se efectúan los procedimientos adminis
 
 b) Dar a conocer a los usuarios y responsables de los procedimientos administrativos, financieros y de control interno, para cada operación que se efectúe.
 
-A r t í c u l o 2 . - O B J E T I VO S D E L S I S T E M A ADMINISTRATIVO
+Artículo 2 . - O B J E T I VO S D E L S I S T E M A ADMINISTRATIVO
 
 \1) Generar la mayor seguridad y razonabilidad posible en el empleo de los fondos, a través de sistemas de control permanentes y una supervisión constante, que permitan su administración en forma eficiente, eficaz y de conformidad con los objetivos propuestos.
 
@@ -99,7 +99,7 @@ a) Proyectos de Desarrollo Productivos (Generación de fuentes de empleo y desar
 
 b) Proyectos de Desarrollo Social (Gastos de logística a miembros de organización AMHBLI, vinculados a la CIAPEB, en tránsito por la ciudad de Tegucigalpa, M.D.C., una vez justificada y coordinada; gastos fúnebres por muertos a causa de las secuelas del accidente de descompresión, específicamente buzos con discapacidad afiliados a AMHBLI; gastos médicos, compra de medicamentos especializados y equipo de Movilidad Asistido.)
 
-c) Apoyo a programas, proyectos y actividades de forma integral dentro del mandato descrito por el PCM- 003 2012, vinculados al proceso de la solución de la problemática de la pesca por buceo.
+c) Apoyo a programas, proyectos y actividades de forma integral dentro del mandato descrito por el PCM-003 2012, vinculados al proceso de la solución de la problemática de la pesca por buceo.
 
 CAPÍTULO II NORMAS Y LEYES
 

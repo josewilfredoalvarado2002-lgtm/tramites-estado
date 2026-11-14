@@ -11,7 +11,7 @@ paginas: "A. 21 - 28"
 sumario: "Acuerdo Ministerial No. 104-2023Acuerdo Ministerial No. 110-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231030-36370/download"
 extraido: "2026-11-14"
-huella: "9b2fdb5ab314aa13"
+huella: "5e330160c925ae6c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 110-2023
@@ -43,15 +43,13 @@ CONSIDERANDO: Que en el Párrafo Segundo del Numeral 12, del Acuerdo ejecutivo N
 
 “La Industria de Harina de Maíz Blanco de Alimentos para Consumo Humano, podrán realizar sus importaciones de maíz blanco para consumo humano a partir del 20 enero al 31 de diciembre de cada año, a su conveniencia, de conformidad a las fechas establecidas en el numeral 13, literal e), del presente Convenio, con un arancel preferencial del cero por ciento (0%), el cual deberá ser solicitado a la Secretaría de Desarrollo Económico (SDE), conforme a lo establecido en el Acuerdo Ministerial que emita la Secretaría de Agricultura y Ganadería, siendo requisito indispensable que haya previamente efectuado la compra de maíz blanco a los productores nacionales, conforme a la relación de compra indicadas en el Párrafo Uno de este mismo Numeral”.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG-067- 2023 de fecha 27 de marzo de 2023 se aprobó el contingente de importación por incumplimiento de contratos, siendo la empresa ALBECASA la única que no fue beneficiada con dicho contingente ya que, esta empresa tenía las áreas georreferenciadas para la cosecha de postrera tardía, contando con esta producción con la cual completaba el 100% de su compromiso mínimo de compra para el ciclo 2022-2023.
+CONSIDERANDO: Que mediante Acuerdo No. SAG-067-2023 de fecha 27 de marzo de 2023 se aprobó el contingente de importación por incumplimiento de contratos, siendo la empresa ALBECASA la única que no fue beneficiada con dicho contingente ya que, esta empresa tenía las áreas georreferenciadas para la cosecha de postrera tardía, contando con esta producción con la cual completaba el 100% de su compromiso mínimo de compra para el ciclo 2022-2023.
 
-CONSIDERANDO: Que en fecha 06 de junio de 2023, se reunió la Comisión de Supervisión del referido Convenio, las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco) en donde se resolvió lo siguiente: “La Comisión de Supervisión aprueba la solicitud presentada por la empresa ALBECASA, de considerarse para el tercer corte las compras de maíz que saldrán del área georreferenciadas de Lepaguare y Choloma de la cosecha de postrera del ciclo 2022-2023, mismas que fueron georreferenciadas y reportadas por SOLAB (Ente Georreferenciador)”; Resolución que consta en el Acta No.
-
-080-2023.
+CONSIDERANDO: Que en fecha 06 de junio de 2023, se reunió la Comisión de Supervisión del referido Convenio, las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco) en donde se resolvió lo siguiente: “La Comisión de Supervisión aprueba la solicitud presentada por la empresa ALBECASA, de considerarse para el tercer corte las compras de maíz que saldrán del área georreferenciadas de Lepaguare y Choloma de la cosecha de postrera del ciclo 2022-2023, mismas que fueron georreferenciadas y reportadas por SOLAB (Ente Georreferenciador)”; Resolución que consta en el Acta No. 080-2023.
 
 CONSIDERANDO: Que en fecha 07 de septiembre de 2023, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco del periodo comprendido del 01 de mayo al 31 de agosto de 2023 del Tercer Corte de la cosecha 2022-2023, realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión Supra Mencionada.
 
-CONSIDERANDO: Que en el Ordinal Segundo del Acuerdo No. SAG-167-2023, publicado en el Diario Oficial La “GACETA” en fecha 30 de septiembre del 2023, establece que las empresas DEMAHSA, IMSA y MATURAVE, según informe de compras del Tercer Corte de la Cosecha 2022- 2023, no se les considerará ninguna compra en este corte, para efecto de importaciones, ya que las mismas fueron beneficiadas con el contingente de importación de maíz blanco por incumplimiento de contratos.
+CONSIDERANDO: Que en el Ordinal Segundo del Acuerdo No. SAG-167-2023, publicado en el Diario Oficial La “GACETA” en fecha 30 de septiembre del 2023, establece que las empresas DEMAHSA, IMSA y MATURAVE, según informe de compras del Tercer Corte de la Cosecha 2022-2023, no se les considerará ninguna compra en este corte, para efecto de importaciones, ya que las mismas fueron beneficiadas con el contingente de importación de maíz blanco por incumplimiento de contratos.
 
 POR TANTO:
 
@@ -59,7 +57,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 3,220.45 TM su equivalente a 3,220,450.00 KG con un DAI del cero por ciento (0%), con una vigencia comprendida hasta el 31 de diciembre de 2023, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-167-2023 publicado en el Diario Oficial “La GACETA” en fecha 30 de septiembre del 2023, correspondiente al tercer corte de maíz blanco de la cosecha nacional 2022-2023, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125- 2022), conforme se detalla a continuación:
+PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 3,220.45 TM su equivalente a 3,220,450.00 KG con un DAI del cero por ciento (0%), con una vigencia comprendida hasta el 31 de diciembre de 2023, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-167-2023 publicado en el Diario Oficial “La GACETA” en fecha 30 de septiembre del 2023, correspondiente al tercer corte de maíz blanco de la cosecha nacional 2022-2023, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022), conforme se detalla a continuación:
 
 No.
 
@@ -85,9 +83,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, Teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo Oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

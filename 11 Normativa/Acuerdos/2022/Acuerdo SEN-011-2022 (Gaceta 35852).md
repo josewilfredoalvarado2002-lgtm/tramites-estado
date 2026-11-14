@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. SEN-011-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220218-35852/download"
 extraido: "2026-11-14"
-huella: "b41803f645c63135"
+huella: "5e5b8cdfa749670b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-011-2022
@@ -29,17 +29,13 @@ huella: "b41803f645c63135"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia, debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-84-22 de fecha 10 de febrero de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al ciudadano ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 84-22 de fecha 10 de febrero de 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al ciudadano ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que se encuentra pendiente el proceso de nombramiento de Sub-Gerente de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. 08/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210712-35654/download"
 extraido: "2026-11-14"
-huella: "018940600334749f"
+huella: "bc1ca8a382e2e105"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 08/2021.- Sesión No. 3909 del 1 de julio
@@ -33,13 +33,13 @@ CONSIDERANDO: Que conforme con la Constitución de la República, la Ley del Ban
 
 CONSIDERANDO: Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de los mercados financieros y de la economía en general, por lo que, es conveniente dictar normas orientadas a propiciar una adecuada operación de tales sistemas, de manera que se asegure el cumplimiento de los principios y estándares internacionales.
 
-CONSIDERANDO: Que mediante Acuerdo No.04/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH).
+CONSIDERANDO: Que mediante Acuerdo No. 04/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH).
 
 CONSIDERANDO: Que la Asociación Hondureña de Instituciones Bancarias (Ahiba) ha presentado al BCH una propuesta de reforma puntual al Reglamento de la CCECH, a fin de eliminar el requisito de estampar manualmente la frase “cancelado por compensación” en los cheques transmitidos ya que, con la incorporación de la firma electrónica en el proceso de la CCECH, derivado de la implementación del truncamiento de cheques, se atiende esta disposición.
 
 CONSIDERANDO: Que el Departamento de Sistema de Pagos realizó una revisión integral del referido Reglamento con el objetivo de analizar otros aspectos que podrían ser sujetos a modificaciones, determinando que en línea con la propuesta de la Ahiba también deben reformarse los artículos 4, 14 y 17 que disponen los requisitos de los cheques presentados en la CCECH, el proceso de reclamo para los cheques pagados que hayan sido truncados y los criterios de devolución de cheques, respectivamente.
 
-CONSIDERANDO: Que la Gerencia, oída la opinión del Departamento de Sistema de Pagos, mediante memorándum SP- 1850/2021, ha recomendado a este Directorio reformar los artículos 4, 9, 14 y 17 del Reglamento para la Cámara de Compensación Electrónica de Cheques.
+CONSIDERANDO: Que la Gerencia, oída la opinión del Departamento de Sistema de Pagos, mediante memorándum SP-1850/2021, ha recomendado a este Directorio reformar los artículos 4, 9, 14 y 17 del Reglamento para la Cámara de Compensación Electrónica de Cheques.
 
 POR TANTO:
 
@@ -49,11 +49,11 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 2, 6, 16, literales b) y f) y 54 de la Ley del Banco Central de Honduras; 10, 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores y oída la opinión de la Subgerencia de Operaciones de esta Institución,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Reformar los artículos 4, 9, 14 y 17 del Reglamento para la Cámara de Compensación Electrónica de Cheques, contenida en el Acuerdo No.04/2020, emitido por el Directorio del Banco Central de Honduras el 15 de mayo de 2020, por lo anterior, en lo sucesivo los artículos 4, 9 ,14 y 17 se leerán así:
+Reformar los artículos 4, 9, 14 y 17 del Reglamento para la Cámara de Compensación Electrónica de Cheques, contenida en el Acuerdo No. 04/2020, emitido por el Directorio del Banco Central de Honduras el 15 de mayo de 2020, por lo anterior, en lo sucesivo los artículos 4, 9,14 y 17 se leerán así:
 
 “ARTÍCULO 4. Requisitos de los Cheques. Los cheques presentados en la CCECH deben estar elaborados y codificados de conformidad con las Normas para la Estandarización del Formato de Cheques a Utilizar por el Sistema Bancario Hondureño”.
 
@@ -125,7 +125,7 @@ Banco Central de Honduras (BCH): Institución encargada de organizar, reglamenta
 
 2.3.
 
-Cámara de Compensación Electrónica de Cheques ( C C E C H ) : S i s t e m a autorizado por el BCH para efectos de llevar a cabo la compensación, liquidación y truncamiento de cheques entre las instituciones participantes.
+Cámara de Compensación Electrónica de Cheques ( CCECH ) : Sistema autorizado por el BCH para efectos de llevar a cabo la compensación, liquidación y truncamiento de cheques entre las instituciones participantes.
 
 2.4. Centros de Intercambio Físico de Cheques: Oficinas donde en un horario definido se hacen los intercambios físicos de cheques.
 
@@ -133,7 +133,7 @@ Cámara de Compensación Electrónica de Cheques ( C C E C H ) : S i s t e m a a
 
 Comisión Nacional de Bancos y Seguros (CNBS):
 
-Entidad que supervisa las actividades financieras, de seguros, previsionales, d e v a l o r e s y d e m á s relacionadas con el manejo, aprovechamiento e inversión de los recursos públicos, a la cual, entre otras atribuciones, le corresponde vigilar que éstas cuenten con niveles de patrimonio adecuado para salvaguardar su solvencia y con sistemas de prevención de lavado de activos y financiamiento al terrorismo, así como con buenas prácticas que permitan una adecuada gestión de los riesgos inherentes a las actividades que realizan las instituciones supervisadas.
+Entidad que supervisa las actividades financieras, de seguros, previsionales, de valores y demás relacionadas con el manejo, aprovechamiento e inversión de los recursos públicos, a la cual, entre otras atribuciones, le corresponde vigilar que éstas cuenten con niveles de patrimonio adecuado para salvaguardar su solvencia y con sistemas de prevención de lavado de activos y financiamiento al terrorismo, así como con buenas prácticas que permitan una adecuada gestión de los riesgos inherentes a las actividades que realizan las instituciones supervisadas.
 
 2.6.
 
@@ -145,7 +145,7 @@ Firma Electrónica: Los datos en forma electrónica consignados en un mensaje de
 
 2.8.
 
-F i r m a E l e c t r ó n i c a Av a n z a d a : A q u e l l a certificada por un prestador acreditado, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que se desconozca la integridad del documento y su autoría.
+Firma Electrónica Av a n z a d a: Aquella certificada por un prestador acreditado, que ha sido creada usando medios que el titular mantiene bajo su exclusivo control, de manera que se vincule únicamente al mismo y a los datos a los que se refiere, permitiendo la detección posterior de cualquier modificación, verificando la identidad del titular e impidiendo que se desconozca la integridad del documento y su autoría.
 
 2.9.
 
@@ -191,7 +191,7 @@ Administrar, controlar, procesar y compensar los cheques transmitidos a través 
 
 Elaborar los procedimientos operativos de la CCECH, los cuales deben cumplir con lo dispuesto en el presente Reglamento y serán autorizados por el BCH y dados a conocer a la CNBS y a todas las instituciones participantes.
 
-6.3. Certificar que los equipos utilizados para la transmisión d e i m á g e n e s d e l o s cheques cumplan con las características mínimas establecidas según el Artículo 5 del presente Reglamento.
+6.3. Certificar que los equipos utilizados para la transmisión de imágenes de los cheques cumplan con las características mínimas establecidas según el Artículo 5 del presente Reglamento.
 
 6.4.
 
@@ -203,7 +203,7 @@ Proporcionar al BCH las posiciones netas del proceso de compensación para la li
 
 6.6.
 
-M a n t e n e r p r iv a c i d a d y confidencialidad de la información que se canalice a través de la CCECH.
+M a n t e n e r p r iv a cidad y confidencialidad de la información que se canalice a través de la CCECH.
 
 6.7.
 
@@ -217,7 +217,7 @@ Establecer planes de contingencia que incluyan contar con un centro de procesami
 
 Establecer los controles necesarios a efectos de documentar los casos de adulteraciones o falsificación de cheques.
 
-6.10. Notificar al BCH y a la CNBS los incumplimientos e n q u e i n c u r r a n l a s instituciones participantes y que contravengan las disposiciones del presente Reglamento, a más tardar el día hábil siguiente de la presentación de los hechos.
+6.10. Notificar al BCH y a la CNBS los incumplimientos en que incurran las instituciones participantes y que contravengan las disposiciones del presente Reglamento, a más tardar el día hábil siguiente de la presentación de los hechos.
 
 6.11. Cualquier otra función que a juicio del BCH resulte necesaria.
 
@@ -347,9 +347,9 @@ Las razones de devolución o rechazo de cheques presentados a compensación se c
 
 2. Firmas incorrectas o incompletas.
 
-3. C h e q u e e x p e d i d o incorrectamente.
+3. Cheque expedido incorrectamente.
 
-4. C h e q u e e n d o s a d o incorrectamente.
+4. Cheque endosado incorrectamente.
 
 5. Cheque adulterado o falsificado.
 
@@ -439,11 +439,11 @@ ARTÍCULO 28. Clasificación de Infracciones del Administrador. Para efectos del
 
 28.1 Infracciones Leves 28.1.1. Presentar retrasos en la información solicitada por la CNBS y el BCH para los propósitos de supervisión y vigilancia.
 
-28.1.2. Presentar problemas o fallas técnicas que afecten su capacidad de interconexión, s e g u r i d a d d e procesamiento de l a i n f o r m a ci ó n , c o n t i n g e n c i a , elecomunicaciones o e l n o r m a l funcionamiento de la CCECH.
+28.1.2. Presentar problemas o fallas técnicas que afecten su capacidad de interconexión, seguridad de procesamiento de la informa ci ó n, contingencia, elecomunicaciones o el normal funcionamiento de la CCECH.
 
 28.2 Infracciones Graves 28.2.1. Realizar cambios en sus procedimientos operativos sin contar con la autorización del BCH.
 
-28.2.2. No proporcionar al BCH las posiciones netas del proceso de compensación, c o n f o r m e a l horario establecido por el BCH para la liquidación final en las cuentas de depósito de las instituciones participantes.
+28.2.2. No proporcionar al BCH las posiciones netas del proceso de compensación, conforme al horario establecido por el BCH para la liquidación final en las cuentas de depósito de las instituciones participantes.
 
 28.2.3. Reincidir en faltas leves tres (3) veces en un período de seis (6) meses consecutivos.
 
@@ -459,13 +459,13 @@ ARTÍCULO 29. Clasificación de Infracciones de las Instituciones Participantes.
 
 Para efectos del presente Reglamento las infracciones cometidas por las instituciones participantes en la CCECH se clasificarán de la siguiente manera:
 
-29.1 Infracciones Leves 29.1.1. Presentar problemas o fallas técnicas que afecten su c a p a c i d a d d e interconexión, s e g u r i d a d d e procesamiento de la información, c o n t i n g e n c i a , elecomunicaciones o e l n o r m a l funcionamiento de la CCECH.
+29.1 Infracciones Leves 29.1.1. Presentar problemas o fallas técnicas que afecten su capacidad de interconexión, seguridad de procesamiento de la información, contingencia, elecomunicaciones o el normal funcionamiento de la CCECH.
 
-29.1.2. Retrasos en la remisión de la i n f o r m a c i ó n solicitada por la CNBS y el BCH para los propósitos de supervisión y vigilancia.
+29.1.2. Retrasos en la remisión de la información solicitada por la CNBS y el BCH para los propósitos de supervisión y vigilancia.
 
-29.2 Infracciones Graves 29.2.1. Incumplir los procesos operativos y demás d i s p o s i c i o n e s administrativas q u e e m i t a e l Administrador de la CCECH.
+29.2 Infracciones Graves 29.2.1. Incumplir los procesos operativos y demás disposiciones administrativas que emita el Administrador de la CCECH.
 
-29.2.2. No realizar las v e r i f i c a c i o n e s necesarias a fin de garantizar que los cheques transmitidos cumplan con lo establecido en las Normas para la Estandarización del Formato de Cheques a Utilizar por el Sistema Bancario Hondureño.
+29.2.2. No realizar las verificaciones necesarias a fin de garantizar que los cheques transmitidos cumplan con lo establecido en las Normas para la Estandarización del Formato de Cheques a Utilizar por el Sistema Bancario Hondureño.
 
 29.2.3. No realizar la acreditación de fondos a sus clientes de acuerdo con lo establecido en el
 
@@ -473,11 +473,11 @@ Artículo 15, numeral
 
 15.5 del presente Reglamento.
 
-29.2.4. No realizar la cancelación de las cuentas de los cuentahabientes de acuerdo con lo dispuesto en el Artículo 20 d e l p r e s e n t e Reglamento.
+29.2.4. No realizar la cancelación de las cuentas de los cuentahabientes de acuerdo con lo dispuesto en el Artículo 20 del presente Reglamento.
 
 29.2.5. Reincidir en faltas leves tres (3) veces en un período de seis (6) meses consecutivos.
 
-29.3 Infracciones Muy Graves 29.3.1. Exponer a riesgos o p e r a t i v o s y financieros que causen pérdidas o perjudiquen a otras instituciones participantes y a terceros.
+29.3 Infracciones Muy Graves 29.3.1. Exponer a riesgos operativos y financieros que causen pérdidas o perjudiquen a otras instituciones participantes y a terceros.
 
 29.3.2. No contar con los fondos suficientes para cumplir con la liquidación de las operaciones realizadas a través de la CCECH.
 
@@ -511,11 +511,11 @@ ARTÍCULO 34. Mientras se inicia el proceso de truncamiento de los cheques y has
 
 Los cheques no truncados serán intercambiados el día hábil siguiente a la fecha de presentación a compensación, en el horario que establezca el BCH por medio de la Gerencia, para lo cual deben acompañarse de un detalle indicando el número de institución participante, número de sucursal o agencia, número de lote, monto y cantidad de los cheques que se entregan a cada institución participante.
 
-34.2 R e v i s i ó n F í s i c a d e Cheques no Truncados:
+34.2 Revisión Física de Cheques no Truncados:
 
-Los cheques intercambiados que en la revisión física p r e s e n t e n i n d i c i o s racionales de alteraciones o falsificaciones deben ser devueltos a la institución participante presentadora a más tardar a las 12:00 m. del día siguiente hábil a la fecha de presentación en la CCECH. El banco del librador deberá informar al Administrador de la CCECH en lo concerniente a este tema.
+Los cheques intercambiados que en la revisión física presenten indicios racionales de alteraciones o falsificaciones deben ser devueltos a la institución participante presentadora a más tardar a las 12:00 m. del día siguiente hábil a la fecha de presentación en la CCECH. El banco del librador deberá informar al Administrador de la CCECH en lo concerniente a este tema.
 
-34.3 Centros de Intercambio Físico de Cheques no Truncados. En Tegucigalpa l o s c h e q u e s s e r á n intercambiados en las oficinas de la Asociación Hondureña de Instituciones Bancarias (AHIBA); en San Pedro Sula, La Ceiba y Choluteca el intercambio se hará en las oficinas del BCH; no obstante, pueden establecerse otros lugares para el intercambio físico de cheques previamente acordados por el Administrador de la CCECH y las instituciones participantes.
+34.3 Centros de Intercambio Físico de Cheques no Truncados. En Tegucigalpa los cheques serán intercambiados en las oficinas de la Asociación Hondureña de Instituciones Bancarias (AHIBA); en San Pedro Sula, La Ceiba y Choluteca el intercambio se hará en las oficinas del BCH; no obstante, pueden establecerse otros lugares para el intercambio físico de cheques previamente acordados por el Administrador de la CCECH y las instituciones participantes.
 
 El Administrador de la CCECH debe designar su representante en los centros de intercambio físico de cheques, quien presenciará el evento y velará por que se cumpla con el procedimiento y los horarios establecidos.
 

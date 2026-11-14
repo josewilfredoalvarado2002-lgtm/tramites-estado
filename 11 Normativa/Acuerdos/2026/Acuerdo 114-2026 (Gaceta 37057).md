@@ -11,7 +11,7 @@ paginas: "A. 119"
 sumario: "Acuerdos No. 111-2026, 112-2026, 114-2026, 562-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260130-37057/download"
 extraido: "2026-11-09"
-huella: "7513af8904cc846c"
+huella: "4424c91b480e1899"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 114-2026
@@ -33,9 +33,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Secretarios de Estado podrá delegar en los funcionarios, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos mediante la firma de ciertos documentos jurídicos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-02-2022 de fecha 27 de enero de 2022, se nombró al ciudadano CELSO DONADÍN ALVARADO HERNÁNDEZ, como Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 02-2022 de fecha 27 de enero de 2022, se nombró al ciudadano CELSO DONADÍN ALVARADO HERNÁNDEZ, como Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo Número 586-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240918-36643/download"
 extraido: "2026-11-14"
-huella: "f439612f0dfd7727"
+huella: "de12dbdcf9477590"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 586-2024
@@ -29,13 +29,9 @@ huella: "f439612f0dfd7727"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 10-2024 de fecha 3 de enero del 2024, la señora Presidenta Constitucional de la República nombró al ciudadano MARLON DAVID OCHOA MARTÍNEZ, en el cargo de Secretario de Estado en el Despacho de Finanzas.
 
-10-2024 de fecha 3 de enero del 2024, la señora Presidenta Constitucional de la República nombró al ciudadano M A R L O N D A V I D O C H O A MARTÍNEZ, en el cargo de Secretario de Estado en el Despacho de Finanzas.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-97-2024 de fecha 1 de abril del 2024, la señora Presidenta Constitucional de la República nombró al ciudadano GERSSON ORLANDO SIERRA PORTILLO, en el cargo de Secretario General de la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 97-2024 de fecha 1 de abril del 2024, la señora Presidenta Constitucional de la República nombró al ciudadano GERSSON ORLANDO SIERRA PORTILLO, en el cargo de Secretario General de la Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que el artículo 33 de la Ley General de la Administración Pública establece que: “Los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia”.
 
@@ -53,7 +49,7 @@ CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuan
 
 CONSIDERANDO: Que el ciudadano LESTER
 
-H U M B E R T O S E V I L L A
+HUMBERTO SEVILLA
 
 MARTÍNEZ, se desempeña como Oficial Jurídico I en la Secretaría General, de la Secretaría de Estado en el Despacho de Finanzas.
 
@@ -71,9 +67,7 @@ ACUERDA:
 
 PRIMERO: DELEGAR en el ciudadano LESTER HUMBERTO SEVILLA MARTÍNEZ, Oficial Jurídico I en la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas, las facultades legales de suscribir en la en la Dirección General de Control de Franquicias Aduaneras (DGCFA), los actos administrativos y documentos siguientes:
 
-A) Realizar y refrendar las notificaciones en la forma prevista por el Código Tributario contenido en el Decreto No.
-
-170-2016 y la Ley de Procedimiento Administrativo, las Resoluciones y providencias dándolas por válidas con su sola firma;
+A) Realizar y refrendar las notificaciones en la forma prevista por el Código Tributario contenido en el Decreto No. 170-2016 y la Ley de Procedimiento Administrativo, las Resoluciones y providencias dándolas por válidas con su sola firma;
 
 B) Cotejar los documentos originales que acompañan los peticionarios, a fin de dar fe de su autenticidad; y, C) Autenticar y certificar toda la documentación relacionada con los expedientes y procesos que pertenecen a la Dirección General de Control de Franquicias Aduaneras.
 

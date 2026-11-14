@@ -11,7 +11,7 @@ paginas: "A. 4 - 52"
 sumario: "Acuerdo No. 2514-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250924-36950/download"
 extraido: "2026-11-09"
-huella: "a430e47a9da3cd3e"
+huella: "f747861b89e69821"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 2514-SE-2025
@@ -29,9 +29,9 @@ huella: "a430e47a9da3cd3e"
 
 Tegucigalpa, M.D.C., 08 de agosto de 2025 EL SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN
 
-CONSIDERANDO: Que mediante Acuerdo No. 0166-SE- 2023, de fecha 16 de febrero, la Secretaría de Estado en el Despacho de Educación implementó la adecuación de los planes de estudio, migrando de una modalidad de promoción semestral a una modalidad de promoción anual, oficializando los cambios en la Malla Curricular para el Décimo Grado a partir del 01 de febrero de 2023.
+CONSIDERANDO: Que mediante Acuerdo No. 0166-SE-2023, de fecha 16 de febrero, la Secretaría de Estado en el Despacho de Educación implementó la adecuación de los planes de estudio, migrando de una modalidad de promoción semestral a una modalidad de promoción anual, oficializando los cambios en la Malla Curricular para el Décimo Grado a partir del 01 de febrero de 2023.
 
-CONSIDERANDO: Que mediante Acuerdo No. 0748-SE- 2024, de fecha 14 de mayo de 2024, la Secretaría de Estado en el Despacho de Educación, aprobó el Plan de Estudio anual del BACHILLERATO TÉCNICO PROFESIONAL (BTP) con sus diferentes orientaciones para los grados de Décimo y Undécimo.
+CONSIDERANDO: Que mediante Acuerdo No. 0748-SE-2024, de fecha 14 de mayo de 2024, la Secretaría de Estado en el Despacho de Educación, aprobó el Plan de Estudio anual del BACHILLERATO TÉCNICO PROFESIONAL (BTP) con sus diferentes orientaciones para los grados de Décimo y Undécimo.
 
 CONSIDERANDO: Que el presente Acuerdo de ampliación, describe el BACHILLERATO TÉCNICO PROFESIONAL
 
@@ -47,17 +47,17 @@ AMPLIAR EN CUANTO A:
 
 A.- El Espacio Curricular de Francés en el Décimo Grado del PLAN DE ESTUDIO Y PROGRAMAS CURRICULARES DEL BACHILLERATO TÉCNICO PROFESIONAL, en las orientaciones y en los centros educativos que la Secretaría de Estado en el Despacho de Educación designe.
 
-B.- El Duodécimo grado en los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, autorizadas mediante los Acuerdo No.0166-SE-2022 y 0748-SE-2024.
+B.- El Duodécimo grado en los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, autorizadas mediante los Acuerdo No. 0166-SE-2022 y 0748-SE-2024.
 
 C.- La jornada extendida en el Plan de Estudio de Bachillerato Técnico Profesional, de las modalidades que corresponden al SECTOR INDUSTRIAL, REFORMADOS A PARTIR DEL AÑO 2024, con los grados de décimo, undécimo y duodécimo, con una carga horaria de 40 horas semanales.
 
-D.- Describir la jornada extendida al plan de estudio de Bachillerato Técnico Profesional en Mecánica de Aviación, mencionado en el Acuerdo No. 0748-SE-2024 (Décimo y Undécimo grado) y Bachillerato en Ciencias y Humanidades con Orientación en Música, mencionado en el Acuerdo No.0166-SE-2022, (Décimo grado).
+D.- Describir la jornada extendida al plan de estudio de Bachillerato Técnico Profesional en Mecánica de Aviación, mencionado en el Acuerdo No. 0748-SE-2024 (Décimo y Undécimo grado) y Bachillerato en Ciencias y Humanidades con Orientación en Música, mencionado en el Acuerdo No. 0166-SE-2022, (Décimo grado).
 
 E.- Reformar el Plan de Estudio de Bachillerato Técnico Profesional en Procesamiento Agroalimentario y el Plan de Estudio de Bachillerato Técnico Profesional en Administración y Logística Militar.
 
 F.- Crear el Plan de Estudio de Bachillerato Técnico Profesional en Ciencias Técnicas Navales.
 
-MEDIANTE EL CUAL SE AUTORIZÓ: La aprobación de los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, a través de; Acuerdo No.0166-SE-2022, el Décimo grado y con Acuerdo No. 0748-SE-2024 el Undécimo grado. (Para ver la descripción de los planes de estudio ingresar a la página de la Secretaría de Estado en el Despacho de Educación).
+MEDIANTE EL CUAL SE AUTORIZÓ: La aprobación de los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, a través de; Acuerdo No. 0166-SE-2022, el Décimo grado y con Acuerdo No. 0748-SE-2024 el Undécimo grado. (Para ver la descripción de los planes de estudio ingresar a la página de la Secretaría de Estado en el Despacho de Educación).
 
 PRIMERO: El Espacio Curricular de Francés en el Décimo Grado del PLAN DE ESTUDIO Y PROGRAMAS CURRICULARES DEL BACHILLERATO TÉCNICO PROFESIONAL, en las orientaciones y en los centros educativos que la Secretaría de Estado en el Despacho de Educación designe.
 
@@ -73,7 +73,7 @@ Espacio Curricular Horas Semanales (45min/hora) Horas Anuales (horas semanales x
 
 \40) 1 Matemática 5 200 2 Español 5 200 3 Física 4 160 4 Química 4 160 5 Biología 3 120 6 Historia de Honduras 3 120 7 Sociología 3 120 8 Inglés 3 120 9 Informática 2 80 10 Fundamentos de Psicología 2 80 11 Educación Física y Deportes 2 80 12 Francés 2 80 Total de horas 38 horas 1520 horas
 
-SEGUNDO: Descripción del Duodécimo grado en los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, autorizadas mediante los Acuerdo No.0166-SE-2022 Y 0748-SE-2024, detallándolos de la siguiente manera.
+SEGUNDO: Descripción del Duodécimo grado en los PLANES DE ESTUDIOS Y PROGRAMAS CURRICULARES DE LAS MODALIDADES DE EDUCACIÓN MEDIA, autorizadas mediante los Acuerdo No. 0166-SE-2022 Y 0748-SE-2024, detallándolos de la siguiente manera.
 
 1.Bachillerato Técnico Profesional Bomberil DUODÉCIMO GRADO No.
 
@@ -205,7 +205,7 @@ Espacio Curricular semanales x 40) 1 Matemática 3 120 2 Español 3 120 3 Físic
 
 Espacio Curricular semanales x 40) 1 Gestión Industrial y Habilidades para la Vida 4 160 2 Acondicionadores de Aire del Automóvil 12 480 3 Automatización de los Sistemas RAC 8 320 4 Cuartos Fríos 12 480 JORNADA EXCLUSIVA 5 Transporte Refrigerado 4 160 Total de Horas Semanales 40 horas de 45 min/semana 1600 horas
 
-CUARTO: Descripción de la jornada extendida al plan de estudio de Bachillerato Técnico Profesional en Mecánica de Aviación, mencionado en el Acuerdo No. 0748-SE-2024 (Décimo y Undécimo grado) y Bachillerato en Ciencias y Humanidades con Orientación en Música, mencionado en el Acuerdo No.0166-SE-2022, (Décimo grado), detallándolos a continuación.
+CUARTO: Descripción de la jornada extendida al plan de estudio de Bachillerato Técnico Profesional en Mecánica de Aviación, mencionado en el Acuerdo No. 0748-SE-2024 (Décimo y Undécimo grado) y Bachillerato en Ciencias y Humanidades con Orientación en Música, mencionado en el Acuerdo No. 0166-SE-2022, (Décimo grado), detallándolos a continuación.
 
 33.- Bachillerato Técnico Profesional en Mecánica de Aviación JORNADA EXTENDIDA DÉCIMO GRADO No.
 
@@ -373,17 +373,11 @@ SEGUNDO: La relación de medida del polígono de la microcuenca sujeto a declara
 
 69.00 metros se llega hasta el PUNTO No. 3, Coordenadas X= 724047.00, Y= 1734946.00; siguiendo el rumbo (N 73º 46’ 3.53” E), y recorriendo una distancia de 82.28 metros se llega hasta el PUNTO No. 4, Coordenadas X= 724126.00, Y= 1734915.00; siguiendo el rumbo (N 37º 52’ 29.94” E), y recorriendo una distancia de 68.41 metros se llega hasta el PUNTO No. 5, Coordenadas X= 724168.00, Y= 1734869.00; siguiendo el rumbo (N 8º 31’ 50.75” E), y recorriendo una distancia de 101.12 metros se llega hasta el PUNTO No. 6, Coordenadas X= 724183.00, Y= 1734805.00; siguiendo el rumbo (N 0º 20’ 57.69” E), y recorriendo una distancia de
 
-164.00 metros se llega hasta el PUNTO No. 7, Coordenadas X= 724184.00, Y= 1734684.00; siguiendo el rumbo (N 5º 24’ 42.72” W), y recorriendo una distancia de 286.28 metros se llega hasta el PUNTO No. 8, Coordenadas X= 724157.00, Y= 1734592.00; siguiendo el rumbo (N 0º 27’ 21.32” W), y recorriendo una distancia de 377.01 metros se llega hasta el PUNTO No. 9, Coordenadas X= 724154.00, Y= 1734477.00; siguiendo el rumbo (N 1º 9’ 51.79” E), y recorriendo una distancia de 492.10 metros se llega hasta el PUNTO No.
+164.00 metros se llega hasta el PUNTO No. 7, Coordenadas X= 724184.00, Y= 1734684.00; siguiendo el rumbo (N 5º 24’ 42.72” W), y recorriendo una distancia de 286.28 metros se llega hasta el PUNTO No. 8, Coordenadas X= 724157.00, Y= 1734592.00; siguiendo el rumbo (N 0º 27’ 21.32” W), y recorriendo una distancia de 377.01 metros se llega hasta el PUNTO No. 9, Coordenadas X= 724154.00, Y= 1734477.00; siguiendo el rumbo (N 1º 9’ 51.79” E), y recorriendo una distancia de 492.10 metros se llega hasta el PUNTO No. 10, Coordenadas X= 724164.00, Y= 1734422.00; siguiendo el rumbo (N 1º 40’ 31.62” E), y recorriendo una distancia de
 
-10, Coordenadas X= 724164.00, Y= 1734422.00; siguiendo el rumbo (N 1º 40’ 31.62” E), y recorriendo una distancia de
+547.23 metros se llega hasta el PUNTO No. 11, Coordenadas X= 724180.00, Y= 1734233.00; siguiendo el rumbo (N 2º 38’ 41.76” E), y recorriendo una distancia de 736.78 metros se llega hasta el PUNTO No. 12, Coordenadas X= 724214.00, Y= 1734053.00; siguiendo el rumbo (N 7º 1’ 30.80” W), y recorriendo una distancia de 922.93 metros se llega hasta el PUNTO No. 13, Coordenadas X= 724101.12, Y= 1733966.71; siguiendo el rumbo (N 7º 39’ 25.39” W), y recorriendo una distancia de 1,011.31 metros se llega hasta el PUNTO No. 14, Coordenadas X= 723966.37, Y= 1733984.76; siguiendo el rumbo (N 9º 35’ 47.42” W), y recorriendo una distancia de
 
-547.23 metros se llega hasta el PUNTO No. 11, Coordenadas X= 724180.00, Y= 1734233.00; siguiendo el rumbo (N 2º 38’ 41.76” E), y recorriendo una distancia de 736.78 metros se llega hasta el PUNTO No. 12, Coordenadas X= 724214.00, Y= 1734053.00; siguiendo el rumbo (N 7º 1’ 30.80” W), y recorriendo una distancia de 922.93 metros se llega hasta el PUNTO No. 13, Coordenadas X= 724101.12, Y= 1733966.71; siguiendo el rumbo (N 7º 39’ 25.39” W), y recorriendo una distancia de 1,011.31 metros se llega hasta el PUNTO No.
-
-14, Coordenadas X= 723966.37, Y= 1733984.76; siguiendo el rumbo (N 9º 35’ 47.42” W), y recorriendo una distancia de
-
-998.21 metros se llega hasta el PUNTO No. 15, Coordenadas X= 723799.96, Y= 1733982.99; siguiendo el rumbo (N 4º 17’ 22.87” W), y recorriendo una distancia de 988.78 metros se llega hasta el PUNTO No. 16, Coordenadas X= 723726.00, Y= 1734094.00; siguiendo el rumbo (N 0º 43’ 12.90” E), y recorriendo una distancia de 875.07 metros se llega hasta el PUNTO No. 17, Coordenadas X= 723737.00, Y= 1734297.00; siguiendo el rumbo (N 0º 46’ 2.30” E), y recorriendo una distancia de 672.06 metros se llega hasta el PUNTO No.
-
-18, Coordenadas X= 723746.00, Y= 1734386.00; siguiendo el rumbo (N 1º 40’ 12.87” E), y recorriendo una distancia de
+998.21 metros se llega hasta el PUNTO No. 15, Coordenadas X= 723799.96, Y= 1733982.99; siguiendo el rumbo (N 4º 17’ 22.87” W), y recorriendo una distancia de 988.78 metros se llega hasta el PUNTO No. 16, Coordenadas X= 723726.00, Y= 1734094.00; siguiendo el rumbo (N 0º 43’ 12.90” E), y recorriendo una distancia de 875.07 metros se llega hasta el PUNTO No. 17, Coordenadas X= 723737.00, Y= 1734297.00; siguiendo el rumbo (N 0º 46’ 2.30” E), y recorriendo una distancia de 672.06 metros se llega hasta el PUNTO No. 18, Coordenadas X= 723746.00, Y= 1734386.00; siguiendo el rumbo (N 1º 40’ 12.87” E), y recorriendo una distancia de
 
 583.25 metros se llega hasta el PUNTO No. 19, Coordenadas X= 723763.00, Y= 1734492.00; siguiendo el rumbo (N 0º 36’ 2.02” E), y recorriendo una distancia de 477.03 metros se llega hasta el PUNTO No. 20, Coordenadas X= 723768.00, Y= 1734570.00; siguiendo el rumbo (N 7º 33’ 59.12” W), y recorriendo una distancia de 402.50 metros se llega hasta el PUNTO No. 21, Coordenadas X= 723715.00, Y= 1734690.00; siguiendo el rumbo (N 4º 54’ 59.63” W), y recorriendo una distancia de 280.03 metros se llega hasta el PUNTO No. 22, Coordenadas X= 723691.00, Y= 1734786.00; siguiendo el rumbo (N 6º 14’ 13.48” W), y recorriendo una distancia de
 

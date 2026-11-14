@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Nos. 1629-SE-2025, 1696-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250602-36853/download"
 extraido: "2026-11-10"
-huella: "c4a84f2129af811b"
+huella: "1a24477ebc614557"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 1696-SE-2025
@@ -61,11 +61,11 @@ Primer Tercer Grado 0-1 1-2 2-3 3-4 4-5 5-6 1 A 3 AÑOS DE EDAD 3 A 6 AÑOS DE E
 
 5. Que el Reglamento de la Ley Fundamental de Educación, en su artículo 41 establece que la culminación del año obligatorio de la Educación Prebásica, confiere al educando el derecho a ingresar al primer grado del primer ciclo de la Educación Básica.
 
-6. La Dirección General de Gestión del Talento Humano, de esta Secretaría de Estado en el Despacho de Educación dotará de las estructuras presupuestarias requeridas según la estructura mínima descrita para el nivel de Educación Prebásica (I y II Ciclo ), tal como se cita en el Acuerdo No. 1361-SE- 2014, Artículo 28, contratando personal de las siguientes áreas: Docentes de Inglés, Educación Especial, Educación Preescolar (Prebásica), Seguridad Alimentaria, egresados de la Universidad Pedagógica Nacional Francisco Morazán (UPNFM) y Pedagogos, Psicólogos, Médicos y Enfermeras egresados de la Universidad Nacional Autónoma de Honduras (UNAH) y personal regido por el Régimen de Servicio Civil.
+6. La Dirección General de Gestión del Talento Humano, de esta Secretaría de Estado en el Despacho de Educación dotará de las estructuras presupuestarias requeridas según la estructura mínima descrita para el nivel de Educación Prebásica (I y II Ciclo ), tal como se cita en el Acuerdo No. 1361-SE-2014, Artículo 28, contratando personal de las siguientes áreas: Docentes de Inglés, Educación Especial, Educación Preescolar (Prebásica), Seguridad Alimentaria, egresados de la Universidad Pedagógica Nacional Francisco Morazán (UPNFM) y Pedagogos, Psicólogos, Médicos y Enfermeras egresados de la Universidad Nacional Autónoma de Honduras (UNAH) y personal regido por el Régimen de Servicio Civil.
 
 Mismas que se ejecutarán de forma gradual y según el número de educandos y si las estructuras corresponden a otros centros educativos, se debe gestionar la permanencia de las mismas a través de la transferencia, para asegurar la continuidad del nivel en los centros educativos donde se aperture.
 
-7. El personal que sea contratado para el Centro de Atención Integral para la Primera Infancia (CAIPI), se someterá a Concurso Específico para el nombramiento pertinente, para el centro y nivel en donde necesite, tal como se establece en el artículo 32 segundo párrafo del Acuerdo No.0707-SE-2022.
+7. El personal que sea contratado para el Centro de Atención Integral para la Primera Infancia (CAIPI), se someterá a Concurso Específico para el nombramiento pertinente, para el centro y nivel en donde necesite, tal como se establece en el artículo 32 segundo párrafo del Acuerdo No. 0707-SE-2022.
 
 8. Que la Dirección General de Currículo y Evaluación a través de la Subdirección General de Educación Prebásica brindará los servicios técnicos pedagógicos correspondientes al (I y II Ciclo de Educación Prebásica), asimismo el Centro de Atención Integral para la Primera Infancia (CAIPI) dependerá presupuestariamente de la Dirección General de Servicios Educativos, además brindará seguimiento y monitoreo administrativo.
 
@@ -73,7 +73,7 @@ Mismas que se ejecutarán de forma gradual y según el número de educandos y si
 
 10. Transcribir el presente Acuerdo a la Dirección General de la Gestión de Talento Humano, Dirección General de Currículo y Evaluación y Subdirección General de Educación Prebásica, Dirección General de Servicios Educativos, Subdirección de Programas Sociales y beneficios al Educando, a las Direcciones Departamentales de Educación respectiva y al Director(a) del Centro de Atención Integral para la Primera Infancia (CAIPI) para los fines legales consiguientes.
 
-11. El presente Acuerdo Deroga el Acuerdo No.1440-SE-2024 de fecha 04 de septiembre de 2024 y entrará en vigencia el día de su aprobación, debiendo publicarse en el Diario Oficial “La Gaceta”.
+11. El presente Acuerdo Deroga el Acuerdo No. 1440-SE-2024 de fecha 04 de septiembre de 2024 y entrará en vigencia el día de su aprobación, debiendo publicarse en el Diario Oficial “La Gaceta”.
 
 COMUNÍQUESE Y PUBLÍQUESE:
 

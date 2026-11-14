@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ejecutivo Número 001-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240912-36638/download"
 extraido: "2026-11-14"
-huella: "b87dcfd1f62a5552"
+huella: "4823f790c109d344"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-2024
@@ -89,13 +89,13 @@ CONSIDERANDO: Que el Código Tributario en su Artículo 197 inciso 2) establece 
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 199 numeral 6) señala que; son atribuciones de la Dirección Ejecutiva de la Administración Aduanera; aprobar los acuerdos que contengan las normas internas de la Institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones; así como los relacionados con la implementación de los reglamentos de la materia tributaria y aduanera, según corresponda.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprobó el Régimen de la Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; teniendo por finalidad regular la relación de prestación de servicios entre la Administración Aduanera de Honduras y sus Funcionarios y Servidores; y, como objetivo, incrementar la eficiencia administrativa, técnica y operativa de esta, mediante la relación de trabajo establecidas en el presente régimen.
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprobó el Régimen de la Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; teniendo por finalidad regular la relación de prestación de servicios entre la Administración Aduanera de Honduras y sus Funcionarios y Servidores; y, como objetivo, incrementar la eficiencia administrativa, técnica y operativa de esta, mediante la relación de trabajo establecidas en el presente régimen.
 
 CONSIDERANDO: Que las Direcciones Nacionales de Estrategia y Administración Financiera y de Operaciones Aduaneras; formaban parte de la Estructura Organizacional de la Administración Aduanera, considerándose sus Directores(as), como empleados de confianza, de acuerdo lo disponía el artículo 6 del acuerdo supra relacionado.
 
 CONSIDERANDO: Que mediante los Acuerdos ADUANASDE-025-2021 y ADUANAS-DE-010-2022 de fechas nueve
 
-(09) de septiembre del 2021 y cuatro (04) de marzo del 2022 respectivamente, se reformaron los artículos 5 y 6 del Acuerdo ADUANAS-DE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020).
+(09) de septiembre del 2021 y cuatro (04) de marzo del 2022 respectivamente, se reformaron los artículos 5 y 6 del Acuerdo ADUANAS-DE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020).
 
 CONSIDERANDO: Que, con la finalidad de reducir la burocracia, mediante la eliminación de procedimientos Administrativos que puedan ralentizar los procesos aduaneros y permitir una toma de decisiones más rápida y efectiva, crucial en un entorno dinámico como el comercio internacional; se suprimieron las Direcciones Nacionales de Estrategia y Administración Financiera y de Operaciones Aduaneras, liberando recurso financieros y humanos para ser distribuidos en áreas críticas y estratégicas como la inteligencia aduanera y la gestión de riesgos, que impactan directamente en la eficiencia operativa y esenciales para un control efectivo y la facilitación del comercio en un entorno globalizado.
 
@@ -109,7 +109,7 @@ La Administración Aduanera de Honduras, en uso de las facultades que la Ley le 
 
 ACUERDA:
 
-PRIMERO: Reformar el artículo 5 del Acuerdo ADUANASDE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020) y sus reformas; el cual debe leerse así: “Artículo 5.
+PRIMERO: Reformar el artículo 5 del Acuerdo ADUANASDE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020) y sus reformas; el cual debe leerse así: “Artículo 5.
 
 Se excluyen de la aplicación de este régimen, en cuanto a la estabilidad en sus cargos por considerarse de confianza y ser de libre nombramiento y remoción, funcionarios y servidores siguientes:
 

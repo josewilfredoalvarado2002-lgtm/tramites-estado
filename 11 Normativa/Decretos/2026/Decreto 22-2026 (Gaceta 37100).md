@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 22-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260321-37100/download"
 extraido: "2026-11-09"
-huella: "12d4f8ee4b6310b7"
+huella: "05ebd80f2a0ef511"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 22-2026
@@ -45,15 +45,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Reformar por adición el numeral 28) del
 
-Artículo 99 de la LEY DE TRÁNSITO, contenida en Decreto No.205-2005 de fecha 3 de Enero de 2006 y publicado en el Diario Oficial “La Gaceta” No.
-
-30,892, el cual se leerá de la manera siguiente.
+Artículo 99 de la LEY DE TRÁNSITO, contenida en Decreto No. 205-2005 de fecha 3 de Enero de 2006 y publicado en el Diario Oficial “La Gaceta” No. 30,892, el cual se leerá de la manera siguiente.
 
 “ARTÍCULO 99.- SON INFRACCIONES
 
@@ -89,7 +87,7 @@ NASRY JUAN ASFURA ZABLAH PRESIDENTE DE LA REPÚBLICA SECRETARÍA DE ESTADO EN EL
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.6018/BL-HO, suscrito el 11 de febrero de 2026, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00).
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 6018/BL-HO, suscrito el 11 de febrero de 2026, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00).
 
 CENTROS DE DISTRIBUCIÓN:
 

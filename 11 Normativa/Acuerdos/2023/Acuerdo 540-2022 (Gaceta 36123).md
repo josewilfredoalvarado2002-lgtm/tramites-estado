@@ -8,7 +8,7 @@ gaceta_numero: 36123
 gaceta_fecha: "2023-01-07"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36123 (2023-01-07)|La Gaceta 36123]]"
 paginas: "A. 11 - 12"
-sumario: "Acuerdo Ejecutivo No. 333-2022, Decreto Ejecutivo Número PCM 02-2023 PODER LEGISLATIVODecreto No. 115-2022SECRETARÍA DE FINANZASAcuerdo Número 540-2022"
+sumario: "Acuerdo Ejecutivo No. 333-2022, Decreto Ejecutivo Número PCM 02-2023 PODER LEGISLATIVO: Decreto No. 115-2022; SECRETARÍA DE FINANZAS: Acuerdo Número 540-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230107-36123-2/download"
 extraido: "2026-11-14"
 huella: "adae3f1568f3537a"
@@ -23,7 +23,7 @@ huella: "adae3f1568f3537a"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36123 (2023-01-07)\|La Gaceta 36123]] del 2023-01-07 |
 | Páginas | A. 11 - 12 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 333-2022, Decreto Ejecutivo Número PCM 02-2023 PODER LEGISLATIVODecreto No. 115-2022SECRETARÍA DE FINANZASAcuerdo Número 540-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 333-2022, Decreto Ejecutivo Número PCM 02-2023 PODER LEGISLATIVO: Decreto No. 115-2022; SECRETARÍA DE FINANZAS: Acuerdo Número 540-2022 |
 
 ## Texto
 

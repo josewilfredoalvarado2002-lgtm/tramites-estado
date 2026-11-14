@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 79-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260514-37141/download"
 extraido: "2026-11-09"
-huella: "de2c0168b94d63c6"
+huella: "da94e1c3b097586d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2026
@@ -39,13 +39,13 @@ CONSIDERANDO: Que la Ley de Personal para los Miembros de las Fuerzas Armadas de
 
 CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas de Honduras, órgano técnico competente, mediante las Actas Nos. 001-2026, 003-2026, 004-2026 y 005-2026, analizó, evaluó, aprobó, ratificó y elevó a las autoridades superiores las propuestas de ascenso a los grados de General de División, General de Brigada, Coronel o su equivalente, Teniente Coronel o su equivalente y Mayor o su equivalente, respecto de aquellos oficiales que demostraron haber cumplido estrictamente con todos los requisitos legales y reglamentarios vigentes.
 
-CONSIDERANDO: Que mediante Oficio No. SEP-173- 2026 de fecha 7 de Abril de 2026, la Secretaría de Estado en el Despacho de la Presidencia de la República remitió formalmente al Congreso Nacional la recomendación del Proceso de Ascensos de Oficiales de las Fuerzas Armadas correspondiente al año 2025, acompañada de los expedientes completos de los candidatos propuestos. En dicha comunicación se dejó constancia de que los oficiales fueron debidamente evaluados y calificados conforme a la normativa institucional, cumpliendo con los requisitos de mérito, capacidad, antigüedad, aptitud y conducta profesional exigidos.
+CONSIDERANDO: Que mediante Oficio No. SEP-173-2026 de fecha 7 de Abril de 2026, la Secretaría de Estado en el Despacho de la Presidencia de la República remitió formalmente al Congreso Nacional la recomendación del Proceso de Ascensos de Oficiales de las Fuerzas Armadas correspondiente al año 2025, acompañada de los expedientes completos de los candidatos propuestos. En dicha comunicación se dejó constancia de que los oficiales fueron debidamente evaluados y calificados conforme a la normativa institucional, cumpliendo con los requisitos de mérito, capacidad, antigüedad, aptitud y conducta profesional exigidos.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -213,7 +213,7 @@ ALEJANDRO RAMÍREZ REYES.
 
 \2) Capitán de Aviación, ÁNGELO
 
-F A V I A N O M E N J I V A R LAGOS.
+FAVIAN O MENJIVAR LAGOS.
 
 \3) Capitán de Ingeniería, ROLDEM
 
@@ -221,7 +221,7 @@ LETHELIER MORALES ACOSTA.
 
 \4) Capitán de Infantería, LUIS
 
-M A N U E L T O R R E S CASTILLO.
+MANUEL TORRES CASTILLO.
 
 \5) Capitán de Infantería, JUAN
 
@@ -229,7 +229,7 @@ PABLO PAVÓN BACA.
 
 \6) Capitán de Ingeniería, WILMER
 
-A L E X I S P E R D O M O BARDALES.
+ALEXIS PERDOMO BARDALES.
 
 \7) Capitán de Fuerzas Especiales, DEIBY ROQUE AYESTAS OLIVERA.
 
@@ -245,7 +245,7 @@ NOÉ COREA MUNGUÍA.
 
 \11) Capitán de Infantería, SERGIO
 
-R O L A N D O J O A Q U Í N SANABRIA.
+ROLANDO JOAQUÍN SANABRIA.
 
 \12) Teniente de Navío del Cuerpo General, MILTON ANTONIO MARTÍNEZ MENDOZA.
 
@@ -267,11 +267,11 @@ FERNANDO PAZ POSADAS.
 
 \19) Capitán de Infantería, ORLIN
 
-A D Á N M A L D O N A D O YÁNEZ.
+ADÁN MALDONADO YÁNEZ.
 
 \20) Capitán de Infantería, DARLYN
 
-N A T A N A E L F L O R E S OSORTO.
+NATANAEL FLORES OSORTO.
 
 \21) Capitán de Seguridad de Instalaciones Aéreas, GUSTAVO ADOLFO ÁVILA NÚÑEZ.
 
@@ -287,7 +287,7 @@ OSMIN PORTILLO DÍAZ.
 
 \26) Capitán de Infantería, JERSON
 
-J O S U É M A N Z A N A R E S HERNÁNDEZ.
+JOSUÉ MANZANARES HERNÁNDEZ.
 
 \27) Capitán de Artillería, WILMER
 
@@ -317,7 +317,7 @@ ORLANDO SANTOS SOLÍZ.
 
 \36) Capitán de Artillería, LUIS
 
-G A B R I E L B A R A H O N A AMADOR.
+GABRIEL BARAHONA AMADOR.
 
 \37) Capitán de Mantenimiento de Aviones, RUDI WILIAN LARA RODRÍGUEZ.
 
@@ -369,7 +369,7 @@ GILBERTO MELÉNDEZ ERAZO.
 
 \54) Capitán de Infantería, JORGE
 
-E D U A R D O A L B E R T O HERNÁNDEZ MONTAÑOLA.
+EDUARDO ALBERTO HERNÁNDEZ MONTAÑOLA.
 
 \55) Capitán de Comunicaciones, GUILLERMO ROBERTO PÉREZ DUBÓN.
 
@@ -397,7 +397,7 @@ OMAR CRUZ HERNÁNDEZ.
 
 \63) Capitán de Infantería, JUAN
 
-C A R L O S R O D R Í G U E Z PEÑA.
+CARLOS RODRÍGUEZ PEÑA.
 
 \64) C a p i t á n d e I n f a n t e r í a , GUSTAVO ANTONIO TREJO NAVARRO.
 
@@ -405,7 +405,7 @@ C A R L O S R O D R Í G U E Z PEÑA.
 
 \66) Capitán de Artillería, NOÉ
 
-E D G A R D O A M A Y A GARCÍA.
+EDGARDO AMAYA GARCÍA.
 
 \67) C a p i t á n d e I n f a n t e r í a , JUAN ANTONIO AMAYA RAMÍREZ.
 
@@ -429,15 +429,15 @@ ARTÍCULO 7.- ASCENDER a partir de la fecha del GRADO DE CORONEL O SU EQUIVALENT
 
 \4) Coronel de Caballería, MARCO
 
-A L E X A N D E R L A N Z A AVILA.
+ALEXANDER LANZA AVILA.
 
 \5) Coronel de Infantería, WALTER
 
-D A N I L O H E R N Á N D E Z CARVAJAL.
+DANILO HERNÁNDEZ CARVAJAL.
 
 \6) Coronel de Ingeniería, LUIS
 
-A L O N Z O R O S A L E S CARDOZA.
+ALONZO ROSALES CARDOZA.
 
 \7) Coronel de Ingeniería, MIGUEL
 

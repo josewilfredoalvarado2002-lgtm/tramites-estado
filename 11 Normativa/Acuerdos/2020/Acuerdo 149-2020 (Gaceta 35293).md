@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo Ministerial No. 149-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200624-35293/download"
 extraido: "2026-11-14"
-huella: "e312fb7256b6a8ea"
+huella: "d91f8f996c921d24"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 149-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo, PCM-021-2020, de fecha 15 de marzo
 
 CONSIDERANDO: Que en fecha 16 de marzo del 2020, la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización emitió Comunicado, mediante el cual se establece que los días comprendidos dentro del Estado de Excepción decretado a raíz de la emergencia nacional ante el COVID-19, se declaran INHÁBILES para los efectos, plazos, actuaciones y términos legales que la Ley establece, los cuales quedan suspendidos empezando a correr nuevamente los términos legales a partir del primer día hábil.
 
-CONSIDERANDO: Que según Decreto Ejecutivo PCM- 045-2020, de fecha 17 de mayo del 2020, se decretó restricción gradual de garantías constitucionales para reforzar el distanciamiento social y para evitar la propagación de la pandemia COVID-19, y se estableció que no estarán sujetos a las restricciones de las garantías constitucionales los funcionarios y empleados de algunas instituciones del Estado, siendo una de ellas el Instituto Nacional de Migración, quienes abrirán atención a la ciudadanía para aquellas solicitudes indispensables y necesarias para el funcionamiento de las actividades esenciales de la sociedad hondureña, su apertura será gradual y con la aplicación estricta de Protocolos de Bioseguridad previamente autorizados por la Comisión que coordina la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social, con el propósito de proteger la salud de los empleados y los ciudadanos que requieren de servicios de manera excepcional.
+CONSIDERANDO: Que según Decreto Ejecutivo PCM-045-2020, de fecha 17 de mayo del 2020, se decretó restricción gradual de garantías constitucionales para reforzar el distanciamiento social y para evitar la propagación de la pandemia COVID-19, y se estableció que no estarán sujetos a las restricciones de las garantías constitucionales los funcionarios y empleados de algunas instituciones del Estado, siendo una de ellas el Instituto Nacional de Migración, quienes abrirán atención a la ciudadanía para aquellas solicitudes indispensables y necesarias para el funcionamiento de las actividades esenciales de la sociedad hondureña, su apertura será gradual y con la aplicación estricta de Protocolos de Bioseguridad previamente autorizados por la Comisión que coordina la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social, con el propósito de proteger la salud de los empleados y los ciudadanos que requieren de servicios de manera excepcional.
 
 CONSIDERANDO: Los extranjeros están obligados desde su ingreso al territorio nacional a respetar las autoridades y a cumplir las leyes; y que los extranjeros gozan de los mismos derechos civiles de los hondureños con las restricciones que por razones calificadas de orden público, seguridad, interés o conveniencia social establecen las leyes.
 
@@ -65,11 +65,11 @@ En uso de las facultades que le confiere la ley y en aplicación de los artícul
 
 Acuerdo número 61-2019; 4, literal h), del Decreto Ejecutivo PCM-031-2014 y PCM-005-2020, Decreto Legislativo 032-2020; PCM-005-2020, de fecha 10 de febrero del año 2020; PCM-018-2020, de fecha 13 de marzo del año 2020;
 
-PCM-019-2020, de fecha 12 de marzo del año 2020; PCM- 020-2020, de fecha 12 de marzo del año 2020; artículo 2 numerales 1), 3) y 6) del PCM-021-2020, de fecha 15 de marzo del año 2020; Decreto Ejecutivo PCM-045-2020, de fecha 17 de mayo del 2020 y demás disposiciones legales que en derecho correspondan.
+PCM-019-2020, de fecha 12 de marzo del año 2020; PCM-020-2020, de fecha 12 de marzo del año 2020; artículo 2 numerales 1), 3) y 6) del PCM-021-2020, de fecha 15 de marzo del año 2020; Decreto Ejecutivo PCM-045-2020, de fecha 17 de mayo del 2020 y demás disposiciones legales que en derecho correspondan.
 
 ACUERDA:
 
-PRIMERO: De manera excepcional extender los plazos a los extranjeros que se encuentran en el país bajo permanencia legal autorizada, debido a la emergencia nacional establecida mediante Decreto Ejecutivo No. PCM-021-2020 de fecha 15 de marzo de 2020 por razones de la pandemia COVID-19, que ordenó el cierre de las oficinas públicas a partir del 16 de marzo de 2020 y Decreto Ejecutivo PCM- 045-2020 que ordena la apertura gradual e inteligente de la institución. Dichos plazos se entienden extendidos de acuerdo a las siguientes categorías:
+PRIMERO: De manera excepcional extender los plazos a los extranjeros que se encuentran en el país bajo permanencia legal autorizada, debido a la emergencia nacional establecida mediante Decreto Ejecutivo No. PCM-021-2020 de fecha 15 de marzo de 2020 por razones de la pandemia COVID-19, que ordenó el cierre de las oficinas públicas a partir del 16 de marzo de 2020 y Decreto Ejecutivo PCM-045-2020 que ordena la apertura gradual e inteligente de la institución. Dichos plazos se entienden extendidos de acuerdo a las siguientes categorías:
 
 1. Turismo, oficiales, negocios y otros extranjeros no residentes: Se prorroga automáticamente su estadía en el país por el plazo de treinta (30) días hábiles adicionales al plazo inicial otorgado, contados a partir de la fecha de publicación del presente Acuerdo, en cuyo caso únicamente deberán de presentarse ante el punto de control migratorio y registrar su salida del país. Caso contrario los extranjeros podrán optar a solicitar una prórroga de estadía, conforme al artículo 117 del Reglamento de la Ley de Migración y Extranjería. De no solicitar prórroga e incurrir en sobre estadía deberá abandonar el país sujeto a las multas correspondientes. Se exceptúan los trabajadores transfronterizos y tripulantes de transporte internacional.
 

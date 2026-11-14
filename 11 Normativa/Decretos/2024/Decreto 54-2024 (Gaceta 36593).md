@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 54-2024, 56-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240723-36593/download"
 extraido: "2026-11-14"
-huella: "0f6c3ececb2c3454"
+huella: "f390283b01ff9c9a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 54-2024
@@ -29,7 +29,7 @@ huella: "0f6c3ececb2c3454"
 
 EL CONGRESO NACIONAL;
 
-CONSIDERANDO: Que mediante Decreto No.106-2013, del 10 de Junio de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Febrero de 2014; se aprobó la Ley de Protección de los Hondureños Migrantes y sus Familiares a fin de atender a más de un millón de hondureños que viven en el exterior y que es obligación del Estado de Honduras, protegerlos de acuerdo con la Constitución de la República, los tratados, convenios, la costumbre internacional y las leyes.
+CONSIDERANDO: Que mediante Decreto No. 106-2013, del 10 de Junio de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Febrero de 2014; se aprobó la Ley de Protección de los Hondureños Migrantes y sus Familiares a fin de atender a más de un millón de hondureños que viven en el exterior y que es obligación del Estado de Honduras, protegerlos de acuerdo con la Constitución de la República, los tratados, convenios, la costumbre internacional y las leyes.
 
 CONSIDERANDO: Que, para atender al hondureño migrante retornado, se creó en el Artículo 29 de la Ley de Protección de los Hondureños Migrantes y sus Familiares, el Fondo de Solidaridad con el Migrante Hondureño (FOSMIH).
 
@@ -51,7 +51,7 @@ ARTÍCULO .1- Reformar el Artículo 29 de la LEY DE PROTECCIÓN DE LOS HONDUREÑ
 
 CAPÍTULO III relativo al FONDO
 
-DE SOLIDARIDAD CON EL MIGRANTE HONDUREÑO, contenido del Decreto No.106 2013 del 10 de Junio de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Febrero de 2014, reformado mediante Decreto N.15-2015, del 25 de Febrero de 2015, publicado en el Diario Oficial “La Gaceta” del 19 de Marzo del 2015, el cual en adelante se leerá de la manera siguiente:
+DE SOLIDARIDAD CON EL MIGRANTE HONDUREÑO, contenido del Decreto No. 106 2013 del 10 de Junio de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Febrero de 2014, reformado mediante Decreto N.15-2015, del 25 de Febrero de 2015, publicado en el Diario Oficial “La Gaceta” del 19 de Marzo del 2015, el cual en adelante se leerá de la manera siguiente:
 
 “ARTÍCULO 29. FONDO ĐE SOLIDARIDAD CON EL MIGRANTE
 

@@ -11,7 +11,7 @@ paginas: "A. 12 - 28"
 sumario: "Decretos Nos. 18-2026, 20-2026, 23-2026, 24-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260306-37087/download"
 extraido: "2026-11-09"
-huella: "5fb097d2eee7e18f"
+huella: "1cd0dc2c38e1a10c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que Honduras es signataria de tratados internacionales como la Con
 
 CONSIDERANDO: Que el empoderamiento de las mujeres, la inclusión de las personas con discapacidad y el desarrollo de los pueblos indígenas y afrodescendientes constituyen los pilares fundamentales para garantizar la justicia social, la reducción de desigualdades y el fortalecimiento de la democracia.
 
-CONSIDERANDO: Que a través del Contrato de Préstamo No.16404 PL, suscrito el 1 de Julio 2025, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del Programa de Igualdad de Género e Inclusión Social, tiene como objetivo reconocer y apoyar políticas, cambios regulatorios y reformas institucionales para el empoderamiento de las mujeres, la inclusión de las personas con discapacidad y el desarrollo de los indígenas y afrodescendientes.
+CONSIDERANDO: Que a través del Contrato de Préstamo No. 16404 PL, suscrito el 1 de Julio 2025, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del Programa de Igualdad de Género e Inclusión Social, tiene como objetivo reconocer y apoyar políticas, cambios regulatorios y reformas institucionales para el empoderamiento de las mujeres, la inclusión de las personas con discapacidad y el desarrollo de los indígenas y afrodescendientes.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, numerales 1), 19) y 36) de la Constitución de la República corresponde al Congreso Nacional, entre otros, crear, decretar, interpretar, reformar y derogar las leyes; asimismo, aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
@@ -45,9 +45,9 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO DE PRÉSTAMO No.16404PL, suscrito el 1 de Julio de 2025, entre en Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta por un monto de CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$50,000,000.00), recursos destinados a la ejecución del PROGRAMA DE IGUALDAD DE GÉNERO E INCLUSIÓN SOCIAL, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO DE PRÉSTAMO No. 16404PL, suscrito el 1 de Julio de 2025, entre en Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta por un monto de CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$50,000,000.00), recursos destinados a la ejecución del PROGRAMA DE IGUALDAD DE GÉNERO E INCLUSIÓN SOCIAL, que literalmente dice:
 
-“PRÉSTAMO No.16404PL
+“PRÉSTAMO No. 16404PL
 
 PROGRAMA DE IGUALDAD DE GÉNERO E INCLUSIÓN SOCIAL
 
@@ -275,7 +275,7 @@ La iniciativa también establece lineamientos para la protección de derechos te
 
 (vi) Acción Previa 15: Programa “Nuestras Raíces”: Lanzamiento del Programa “Nuestras Raíces” con fecha 1 de agosto de 2022. El Programa aborda la exclusión histórica de las comunidades indígenas y afro-hondureñas promoviendo su desarrollo social, económico y cultural. El Programa se centra en áreas clave para apoyar a estas comunidades, incluyendo la participación ciudadana, la protección del patrimonio cultural y la educación intercultural que honra el conocimiento ancestral. Hace énfasis en programas de capacitación y desarrollo de capacidades, mejora de infraestructura y servicios básicos, seguridad alimentaria e iniciativas para la expresión cultural y el desarrollo socioeconómico.
 
-(vii) Acción Previa 16: Coordinación Nacional de los Pueblos Indígenas y Afro-Hondureños (CONAPOA): Creación de CONAPOA conforme al Artículo 7 del PCM No.19- 2022 de fecha 11 de agosto de 2022. Como órgano especializado adscrito a SEDESOL, CONAPOA tiene como objetivo promover la inclusión, el empoderamiento y la participación de las comunidades indígenas y afrodescendientes en las estrategias de desarrollo nacional. La institución fortalecerá la coordinación entre el gobierno y la sociedad civil, asegurando que las voces de los pueblos indígenas y afrodescendientes sean integradas en las políticas públicas.
+(vii) Acción Previa 16: Coordinación Nacional de los Pueblos Indígenas y Afro-Hondureños (CONAPOA): Creación de CONAPOA conforme al Artículo 7 del PCM No. 19-2022 de fecha 11 de agosto de 2022. Como órgano especializado adscrito a SEDESOL, CONAPOA tiene como objetivo promover la inclusión, el empoderamiento y la participación de las comunidades indígenas y afrodescendientes en las estrategias de desarrollo nacional. La institución fortalecerá la coordinación entre el gobierno y la sociedad civil, asegurando que las voces de los pueblos indígenas y afrodescendientes sean integradas en las políticas públicas.
 
 * * *
 

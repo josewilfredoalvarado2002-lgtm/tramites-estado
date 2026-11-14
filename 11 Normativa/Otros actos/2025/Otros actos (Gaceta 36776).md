@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdos DNII Nos. 012-2025, 013-2025, 014-2025, 015-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250226-36776/download"
 extraido: "2026-11-12"
-huella: "0928bc0875fbc27a"
+huella: "2ff518544607fbce"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos DNII Nos. 012-2025, 013-2025, 014-2025, 015-2025
@@ -55,9 +55,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 CONSIDERANDO: Que el Artículo 119 párrafo último de la Ley General de la Administración Pública establece: “Los Decretos, así como los Acuerdos del Presidente de la República y de los Secretarios de Estado, serán publicados en el Diario Oficial “La Gaceta”.
 
-CONSIDERANDO: Que mediante Acuerdo No. DNII- 008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No.
-
-PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
+CONSIDERANDO: Que mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
 
 CONSIDERANDO: Que en el artículo 5 de la Ley de Seguridad de la Aviación Civil de Honduras versa: “Son entes reguladores en materia de Seguridad de la Aviación Civil: 1)…; 2)…; 3) La División de Seguridad Aeroportuaria (DSA).”; artículo 6 numeral 18 “PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC)”: Es el documento de Seguridad de la Aviación Civil dirigido a la aplicación de las normas y los métodos recomendados del Anexo diecisiete (17) “SEGURIDAD” del Convenio sobre Aviación Civil Internacional, así como las disposiciones relativas a la seguridad de la Aviación civil, que contiene los anexos, otros documentos y convenios relacionados en materia de Seguridad de la Aviación Civil.
 
@@ -89,9 +87,7 @@ Todo acto que ejecuten fuera de la Ley es nulo e implica responsabilidad”;
 
 CONSIDERANDO: Que, mediante Decreto No. 211-2012, que aprueba la Ley de Inteligencia Nacional, se establece el marco jurídico que regula los principios, la organización, la coordinación, el control y demás disposiciones de la Dirección Nacional de Investigación e Inteligencia (DNII), la cual tendrá como objeto desarrollar actividades de investigación e inteligencia para proteger los derechos y libertades de los ciudadanos y residentes en el país, prevenir y contrarrestar amenazas internas o externas contra el orden constitucional.
 
-CONSIDERANDO: Que, conforme el Artículo 3 de la Ley de Inteligencia Nacional (Decreto No.
-
-211-2012), la Dirección Nacional de Investigación e Inteligencia operará como un ente desconcentrado del Consejo Nacional de Defensa y Seguridad y gozará de independencia funcional, administrativa y presupuestaria. La Dirección Nacional de Investigación e Inteligencia emitirá el estatuto, reglamentos, manuales, código de ética e instructivos que fueren necesarios para la aplicación de dicha Ley, aprobándolos mediante el acto administrativo interno que corresponda.
+CONSIDERANDO: Que, conforme el Artículo 3 de la Ley de Inteligencia Nacional (Decreto No. 211-2012), la Dirección Nacional de Investigación e Inteligencia operará como un ente desconcentrado del Consejo Nacional de Defensa y Seguridad y gozará de independencia funcional, administrativa y presupuestaria. La Dirección Nacional de Investigación e Inteligencia emitirá el estatuto, reglamentos, manuales, código de ética e instructivos que fueren necesarios para la aplicación de dicha Ley, aprobándolos mediante el acto administrativo interno que corresponda.
 
 CONSIDERANDO: Que, la Ley de Inteligencia Nacional establece en su Artículo 11, que la Representación Legal de la Dirección Nacional de Investigación e Inteligencia (DNII), le corresponde al Director Nacional y en su ausencia al Director Nacional Adjunto.
 
@@ -107,9 +103,7 @@ Artículo 116 de la Ley General de la Administración Pública.
 
 CONSIDERANDO: Que, el Artículo 119 párrafo último de la Ley General de la Administración Pública establece: “Los Decretos, así como los Acuerdos del Presidente de la República y de los Secretarios de Estado, serán publicados en el Diario Oficial “La Gaceta”.
 
-CONSIDERANDO: Que, mediante Acuerdo No. DNII-008- 2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No.
-
-PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
+CONSIDERANDO: Que, mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
 
 CONSIDERANDO: Que, en el Artículo 5 de la Ley de Seguridad de la Aviación Civil de Honduras versa: “Son entes reguladores en materia de Seguridad de la Aviación Civil: 1)…; 2)…; 3) La División de Seguridad Aeroportuaria (DSA)”. Artículo 6, numeral 18 “PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC)”: Es el documento de Seguridad de la Aviación Civil dirigido a la aplicación de las normas y los métodos recomendados del Anexo diecisiete (17) “SEGURIDAD” del Convenio sobre Aviación Civil Internacional, así como las disposiciones relativas a la seguridad de la Aviación civil, que contiene los anexos, otros documentos y convenios relacionados en materia de Seguridad de la Aviación Civil.
 
@@ -141,9 +135,7 @@ CONSIDERANDO: Que de conformidad al Artículo 6 de la Ley Especial del Consejo N
 
 CONSIDERANDO: Que mediante Decreto No. 211-2012, que aprueba la Ley de Inteligencia Nacional, se establece el marco jurídico que regula los principios, la organización, la coordinación, el control y demás disposiciones de la Dirección Nacional de Investigación e Inteligencia (DNII), la cual tendrá como objeto desarrollar actividades de investigación e inteligencia para proteger los derechos y libertades de los ciudadanos y residentes en el país, prevenir y contrarrestar amenazas internas o externas contra el orden constitucional.
 
-CONSIDERANDO: Que conforme el Artículo 3 de la Ley de Inteligencia Nacional (Decreto No.
-
-211-2012), la Dirección Nacional de Investigación e Inteligencia operará como un ente desconcentrado del Consejo Nacional de Defensa y Seguridad y gozará de independencia funcional, administrativa y presupuestaria. La Dirección Nacional de Investigación e Inteligencia emitirá el estatuto, reglamentos, manuales, código de ética e instructivos que fueren necesarios para la aplicación de dicha Ley, aprobándolos mediante el acto administrativo interno que corresponda.
+CONSIDERANDO: Que conforme el Artículo 3 de la Ley de Inteligencia Nacional (Decreto No. 211-2012), la Dirección Nacional de Investigación e Inteligencia operará como un ente desconcentrado del Consejo Nacional de Defensa y Seguridad y gozará de independencia funcional, administrativa y presupuestaria. La Dirección Nacional de Investigación e Inteligencia emitirá el estatuto, reglamentos, manuales, código de ética e instructivos que fueren necesarios para la aplicación de dicha Ley, aprobándolos mediante el acto administrativo interno que corresponda.
 
 CONSIDERANDO: Que la Ley de Inteligencia Nacional establece en su Artículo 11 que la Representación Legal de la Dirección Nacional de Investigación e Inteligencia (DNII), le corresponde al Director Nacional y en su ausencia al Director Nacional Adjunto.
 
@@ -159,7 +151,7 @@ Artículo 116 de la Ley General de la Administración Pública.
 
 CONSIDERANDO: Que el Artículo 119 párrafo último de la Ley General de la Administración Pública establece: “Los Decretos, así como los Acuerdos del Presidente de la República y de los Secretarios de Estado, serán publicados en el Diario Oficial “La Gaceta”.
 
-CONSIDERANDO: Que mediante Acuerdo No. DNII- 008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053- 2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
+CONSIDERANDO: Que mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
 
 CONSIDERANDO: Que en el artículo 5 de la Ley de Seguridad de la Aviación Civil de Honduras versa: “Son entes reguladores en materia de Seguridad de la Aviación Civil: 1)…; 2)…; 3) La División de Seguridad Aeroportuaria (DSA).”; artículo 6 numeral 18 “PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC)”: Es el documento de Seguridad de la Aviación Civil dirigido a la aplicación de las normas y los métodos recomendados del Anexo diecisiete
 
@@ -185,9 +177,7 @@ TERCERO: El Presente Acuerdo entra en vigencia a partir de la fecha de su public
 
 RAÚL MEJÍA ERAZO DIRECTOR NACIONAL DE INVESTIGACIÓN E INTELIGENCIA ALEX JAVIER BORJAS LAÍNEZ SECRETARIO GENERAL DNII Dirección Nacional de Investigación e Inteligencia ACUERDO DNII-No. 015-2025 Tegucigalpa, M.D.C., 10 de febrero 2025
 
-CONSIDERANDO: En aplicación del Artículo 287 de la Constitución de la República, se creó el Consejo Nacional de Defensa y Seguridad, ordenando al mismo tiempo que se emitiera una Ley Especial que regulará su funcionamiento, misma que fue creada por el Congreso Nacional mediante el Decreto No.
-
-239-2011.
+CONSIDERANDO: En aplicación del Artículo 287 de la Constitución de la República, se creó el Consejo Nacional de Defensa y Seguridad, ordenando al mismo tiempo que se emitiera una Ley Especial que regulará su funcionamiento, misma que fue creada por el Congreso Nacional mediante el Decreto No. 239-2011.
 
 CONSIDERANDO: Que la Constitución de la República establece que: “Los servidores del Estado no tienen más facultades que las que expresamente les confiere la Ley. Todo acto que ejecuten fuera de la Ley es nulo e implica responsabilidad”.“Los funcionarios son depositarios de la autoridad, responsables legalmente por su conducta oficial, sujetos a la Ley y jamás superiores a ella”. De conformidad con los artículos 321 y
 
@@ -211,7 +201,7 @@ Artículo 116 de la Ley General de la Administración Pública.
 
 CONSIDERANDO: Que el Artículo 119 párrafo último de la Ley General de la Administración Pública establece: “Los Decretos, así como los Acuerdos del Presidente de la República y de los Secretarios de Estado, serán publicados en el Diario Oficial “La Gaceta”.
 
-CONSIDERANDO: Que mediante Acuerdo No. DNII- 008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
+CONSIDERANDO: Que mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio del año 2014, se creó la División de Seguridad Aeroportuaria (DSA), siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial La Gaceta, el 25 de agosto del 2014.
 
 CONSIDERANDO: Que en el artículo 5 de la Ley de Seguridad de la Aviación Civil de Honduras versa: “Son entes reguladores en materia de Seguridad de la Aviación Civil: 1)…; 2)…; 3) La División de Seguridad Aeroportuaria (DSA)”; artículo 6 numeral 18 “PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC)”: Es el documento de Seguridad de la Aviación Civil dirigido a la aplicación de las normas y los métodos recomendados del Anexo diecisiete (17) “SEGURIDAD” del Convenio sobre Aviación Civil Internacional, así como las disposiciones relativas a la seguridad de la Aviación civil, que contiene los anexos, otros documentos y convenios relacionados en materia de Seguridad de la Aviación Civil.
 

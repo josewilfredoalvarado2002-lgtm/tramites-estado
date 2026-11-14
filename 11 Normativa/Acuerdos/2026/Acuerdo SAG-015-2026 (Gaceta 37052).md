@@ -11,7 +11,7 @@ paginas: "A. 27 - 29"
 sumario: "Acuerdos Nos. SAG-015-2026, SAG-016-2026, SAG-017-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "766a05a4311d7f3c"
+huella: "aa4bf18fef9813b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-015-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el Instituto Interamericano de Cooperación para la Agricultur
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Agricultura y Ganadería fue facultada para la implementación y ejecución del Programa “Bono Ganadero” que se ejecutará durante el ejercicio fiscal 2025, apoyándose en el Instituto Interamericano de Cooperación para la Agricultura (IICA) para la administración de los fondos, por un monto de hasta CIEN MILLONES DE LEMPIRAS EXACTOS (L.100,000,000.00), el cual incluye el equivalente al 5% (cinco por ciento) que se otorgará al IICA por concepto de Recuperación de Costos Indirectos (RCI).- Dichos fondos serán destinados para proporcionar asistencia técnica integral, capacitaciones especializadas e incentivos para la generación de alimento, manejo de pasturas y mejoramiento genético.
 
-CONSIDERANDO: Que en fecha nueve (09) de diciembre del dos mil veinticinco (2025) fue firmada la Adenda No.2 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Ganadero año 2025”, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de TRESCIENTOS SETENTA Y CUATRO MILLONES QUINIENTOS MIL LEMPIRAS EXACTOS (L.374,500,000.00), que se transferirán al IICA para su administración.
+CONSIDERANDO: Que en fecha nueve (09) de diciembre del dos mil veinticinco (2025) fue firmada la Adenda No. 2 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Ganadero año 2025”, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de TRESCIENTOS SETENTA Y CUATRO MILLONES QUINIENTOS MIL LEMPIRAS EXACTOS (L.374,500,000.00), que se transferirán al IICA para su administración.
 
 POR TANTO:
 

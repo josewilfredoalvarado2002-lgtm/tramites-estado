@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Nos. 400-2021, 401-2021, 402-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210629-35642/download"
 extraido: "2026-11-14"
-huella: "e465653929181d25"
+huella: "f8fe5e032474f4fa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 400-2021
@@ -31,9 +31,7 @@ LA DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA (DINAF)
 
 CONSIDERANDO: Que nuestro marco legal vigente expresamente determina que los actos administrativos adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-020-2019 emitido por el Presidente de la República en Consejo de Ministros, en fecha 3 de junio del año 2019, publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-020-2019 emitido por el Presidente de la República en Consejo de Ministros, en fecha 3 de junio del año 2019, publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
 
 CONSIDERANDO: Que el mismo marco legal dispone en su artículo 5 numeral 1, la Secretaría Ejecutiva del Consejo Nacional de Niñez y Adolescencia, será ejercida por la Dirección de Niñez, Adolescencia y Familia (DINAF), como ente responsable de rectorar las políticas y normativas en materia de niñez, adolescencia y familia.
 
@@ -49,13 +47,13 @@ CONSIDERANDO: Que, de conformidad a lo establecido en la Ley de Procedimiento Ad
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 
 PRIMERO:
 
-Dejar sin valor y efecto, a partir del 24 de junio del año 2021, el Acuerdo No. 134- 2021 de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No. 35,525), en el cual se delegó en el Abogado JOSÉ LUCINDO HERRERA, las funciones de Especialista en Niñez y en Adolescencia ante la Secretaría Ejecutiva del Consejo Nacional de Niñez y Adolescencia.
+Dejar sin valor y efecto, a partir del 24 de junio del año 2021, el Acuerdo No. 134-2021 de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No. 35,525), en el cual se delegó en el Abogado JOSÉ LUCINDO HERRERA, las funciones de Especialista en Niñez y en Adolescencia ante la Secretaría Ejecutiva del Consejo Nacional de Niñez y Adolescencia.
 
 SEGUNDO:
 

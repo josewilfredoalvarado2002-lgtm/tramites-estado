@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Acuerdos Ministeriales Nos. 205-2021, 002-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220110-35818/download"
 extraido: "2026-11-14"
-huella: "618586a6731603c3"
+huella: "530dfc56d3b14b88"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 205-2021
@@ -41,7 +41,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad a los Artículos 247 y 321 de la Constitución de la República; 7, 29 Numeral 7, 36 Numeral 8, 118 y 119 de la Ley General de Administración Pública; 4, 5 y 44 de la Ley de Procedimiento Administrativo; 24 y 26 numeral 10, 54 del Reglamento de Organización y Funcionamiento y Competencia del Poder Ejecutivo.
 
-A C U E R D A:
+ACUERDA:
 
 Aprobar el siguiente:
 

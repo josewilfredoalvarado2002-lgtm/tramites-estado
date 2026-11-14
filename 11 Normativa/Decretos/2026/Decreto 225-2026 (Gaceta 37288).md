@@ -11,7 +11,7 @@ paginas: "A. 20 - 54"
 sumario: "Decretos Nos. 224-2026, 225-2026, 261-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261106-37288/download"
 extraido: "2026-11-09"
-huella: "b41e3a21f63cd868"
+huella: "9141a49411fc3a7f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 225-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que Honduras enfrenta importantes retos socioeconómicos y fiscale
 
 CONSIDERANDO: Que para abordar los temas previamente mencionados el Gobierno de la República de Honduras ha preparado con el apoyo de la ASOCIACIÓN INTERNACIONAL DE FOMENTO (AIF) el Programa “Finanzas Públicas Inteligentes: Gestión del gasto público basada en datos para lograr mayor eficiencia utilizando el enfoque programático de varias etapas Segunda Etapa Optimización de la Gestión de las Finanzas Públicas en Honduras”, cuyo objetivo es mejorar la eficiencia, la eficacia y la rendición de cuentas de la gestión de las finanzas públicas, mediante una combinación de evaluación técnica, selección estratégica de indicadores, seguimiento riguroso y aprendizaje adaptativo, todo dentro del marco Programa de GASTO PÚBLICO Y RENDICIÓN DE CUENTAS (PEFA).
 
-CONSIDERANDO: Que los Acuerdos de Financiamiento No.7933-HN y No.7934-HN suscritos el cuatro (4) de agosto de dos mil veintiséis (2026), entre la ASOCIACIÓN INTERNACIONAL DE FOMENTO (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por montos de hasta DIECIOCHO MILLONES DE DÓLARES DE LOS ESTADO UNIDOS DE AMÉRICA (US$18,000,000.00) y VEINTIDÓS MILLONES DE DÓLARES DE LOS ESTADO UNIDOS DE AMÉRICA (US$22,000,000.00) los cuales suman un financiamiento total de CUARENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$40,000,000.00); dichos recursos estarán destinados a la ejecución del Programa “Finanzas Públicas Inteligentes: Gestión del gasto público basada en datos para lograr mayor eficiencia utilizando el enfoque programático de varias etapas Segunda Etapa Optimización de la Gestión de las Finanzas Públicas en Honduras”.
+CONSIDERANDO: Que los Acuerdos de Financiamiento No. 7933-HN y No. 7934-HN suscritos el cuatro (4) de agosto de dos mil veintiséis (2026), entre la ASOCIACIÓN INTERNACIONAL DE FOMENTO (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por montos de hasta DIECIOCHO MILLONES DE DÓLARES DE LOS ESTADO UNIDOS DE AMÉRICA (US$18,000,000.00) y VEINTIDÓS MILLONES DE DÓLARES DE LOS ESTADO UNIDOS DE AMÉRICA (US$22,000,000.00) los cuales suman un financiamiento total de CUARENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$40,000,000.00); dichos recursos estarán destinados a la ejecución del Programa “Finanzas Públicas Inteligentes: Gestión del gasto público basada en datos para lograr mayor eficiencia utilizando el enfoque programático de varias etapas Segunda Etapa Optimización de la Gestión de las Finanzas Públicas en Honduras”.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19) y 36) de la Constitución de la República corresponde al Congreso Nacional: Aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -51,7 +51,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes:
 
 1. ACUERDO DE FINANCIAMIENTO
 
-No.7933-HN, suscrito el 4 de agosto de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista, y el Gobierno de la República de Honduras, en su condición de Prestatario, por un monto de hasta VEINTIDÓS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$22,000,000.00), recursos destinados a la ejecución del Programa “FINANZAS PÚBLICAS INTELIGENTES: GESTIÓN DEL GASTO PÚBLICO BASADA EN DATOS PARA LOGRAR MAYOR EFICIENCIA UTILIZANDO EL ENFOQUE PROGRAMÁTICO DE VARIAS ETAPAS, SEGUNDA ETAPA: OPTIMIZACIÓN DE LA GESTIÓN DE LAS FINANZAS PÚBLICAS EN HONDURAS”, que literalmente dice.
+No. 7933-HN, suscrito el 4 de agosto de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista, y el Gobierno de la República de Honduras, en su condición de Prestatario, por un monto de hasta VEINTIDÓS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$22,000,000.00), recursos destinados a la ejecución del Programa “FINANZAS PÚBLICAS INTELIGENTES: GESTIÓN DEL GASTO PÚBLICO BASADA EN DATOS PARA LOGRAR MAYOR EFICIENCIA UTILIZANDO EL ENFOQUE PROGRAMÁTICO DE VARIAS ETAPAS, SEGUNDA ETAPA: OPTIMIZACIÓN DE LA GESTIÓN DE LAS FINANZAS PÚBLICAS EN HONDURAS”, que literalmente dice.
 
 “Acuerdo de Financiamiento (Finanzas Públicas Inteligentes: Gestión del gasto público basada en datos para lograr mayor eficiencia utilizando el enfoque programático de varias etapas Segunda etapa Optimización de la gestión de las finanzas públicas en Honduras) entre REPÚBLICA DE HONDURAS y ASOCIACIÓN INTERNACIONAL DE FOMENTO. ACUERDO DE FINANCIAMIENTO. CONVENIO fechado en la Fecha de Firma entre la REPÚBLICA DE HONDURAS (el “Receptor”) y la ASOCIACIÓN INTERNACIONAL DE FOMENTO (la “Asociación”) con el propósito de ayudar a financiar el proyecto descrito en el Anexo 1 de este Acuerdo (el “Proyecto”). Por el presente, el Receptor y la Asociación acuerdan lo siguiente:
 
@@ -75,7 +75,7 @@ VIGOR; TERMINACIÓN. 5.01. Las Condiciones Adicionales para la Entrada en Vigor 
 
 (MOP) que resulte satisfactorio para la Asociación; y, b) El Acuerdo de Financiamiento SML se ha ejecutado y entregado y se han cumplido todas las condiciones precedentes a su entrada en vigor o al derecho del Receptor de efectuar retiros en virtud de dicho Acuerdo (salvo la entrada en vigor del presente Acuerdo). 5.02. El plazo para la entrada en vigor es a los ciento ochenta
 
-(180) días de la fecha de la firma. 5.03. A los efectos de la sección 10.05 b) de las Condiciones Generales, la fecha en que terminarán las obligaciones del Receptor en virtud de este Acuerdo (distintas de las obligaciones de pago) es a los veinte (20) años de la fecha de la firma. ARTÍCULO V I — R E P R E S E N TA N T E ;
+(180) días de la fecha de la firma. 5.03. A los efectos de la sección 10.05 b) de las Condiciones Generales, la fecha en que terminarán las obligaciones del Receptor en virtud de este Acuerdo (distintas de las obligaciones de pago) es a los veinte (20) años de la fecha de la firma. ARTÍCULO V I — REPRESEN TA N T E;
 
 DIRECCIONES. 6.01. El representante del Receptor es el Ministro de Finanzas (Secretario de Estado en el Despacho de Finanzas). 6.02. A los fines de la sección
 
@@ -159,7 +159,7 @@ Segunda parte. Optimizar las tecnologías de la información que respaldan la GF
 
 Parte 3. Fortalecer la gestión de la seguridad de la información y la continuidad de las actividades.
 
-3.1 D e s a r r o l l a r u n S i s t e m a d e G e s t i ó n d e Seguridad de la Información, basado en el ISO 27000, para alcanzar un escenario de riesgo empresarial tolerable mediante: Entre otros:
+3.1 Desarrollar un Sistema de Gestión de Seguridad de la Información, basado en el ISO 27000, para alcanzar un escenario de riesgo empresarial tolerable mediante: Entre otros:
 
 (a) Revisar y fortalecer la actual Política de Seguridad de la Información;
 
@@ -383,7 +383,7 @@ Una persona identificable es aquella que puede identificarse por medios razonabl
 
 42. “Capacitaciones” significa los costos razonables, según haya sido aprobada por la Asociación, de las capacitaciones y los talleres realizados en el marco del Proyecto, incluidos los costos de matrícula, viajes y viáticos de los participantes en la capacitación y los talleres, los costos asociados con la obtención de los servicios de capacitadores y oradores de los talleres, el alquiler de las instalaciones de capacitación y talleres, la preparación y reproducción de materiales de capacitación y talleres. Viajes de estudio y otros costos directamente relacionados con la preparación e implementación de cursos y talleres de capacitación (excluidos los bienes y servicios de consultores)”.
 
-2. ACUERDO DE FINANCIAMIENTO No.7934- HN, suscrito el 4 de Agosto de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista, y el Gobierno de la República de Honduras, en su condición de Prestatario, por un monto de hasta DIECIOCHO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$18,000,000.00), recursos destinados a la ejecución del Programa “FINANZAS PÚBLICAS INTELIGENTES: GESTIÓN DEL GASTO PÚBLICO BASADA EN DATOS PARA LOGRAR MAYOR EFICIENCIA UTILIZANDO EL ENFOQUE PROGRAMÁTICO DE VARIAS ETAPAS, SEGUNDA ETAPA: OPTIMIZACIÓN DE LA GESTIÓN DE LAS FINANZAS PÚBLICAS EN HONDURAS”, que literalmente dice.
+2. ACUERDO DE FINANCIAMIENTO No. 7934- HN, suscrito el 4 de Agosto de 2026, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista, y el Gobierno de la República de Honduras, en su condición de Prestatario, por un monto de hasta DIECIOCHO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$18,000,000.00), recursos destinados a la ejecución del Programa “FINANZAS PÚBLICAS INTELIGENTES: GESTIÓN DEL GASTO PÚBLICO BASADA EN DATOS PARA LOGRAR MAYOR EFICIENCIA UTILIZANDO EL ENFOQUE PROGRAMÁTICO DE VARIAS ETAPAS, SEGUNDA ETAPA: OPTIMIZACIÓN DE LA GESTIÓN DE LAS FINANZAS PÚBLICAS EN HONDURAS”, que literalmente dice.
 
 “Acuerdo de Financiamiento (Finanzas Públicas Inteligentes:
 

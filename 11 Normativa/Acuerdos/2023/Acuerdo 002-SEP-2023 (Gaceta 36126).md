@@ -8,10 +8,10 @@ gaceta_numero: 36126
 gaceta_fecha: "2023-01-11"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36126 (2023-01-11)|La Gaceta 36126]]"
 paginas: "A. 1 - 4"
-sumario: "Acuerdo Ejecutivo Número 002-SEP-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2022, 906-2022"
+sumario: "Acuerdo Ejecutivo Número 002-SEP-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2022, 906-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230111-36126/download"
 extraido: "2026-11-14"
-huella: "37d99d9652d9f35c"
+huella: "c4f856fa617b91d2"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 002-SEP-2023
@@ -23,7 +23,7 @@ huella: "37d99d9652d9f35c"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36126 (2023-01-11)\|La Gaceta 36126]] del 2023-01-11 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 002-SEP-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2022, 906-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 002-SEP-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2022, 906-2022 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República establece que las Secretarí
 
 CONSIDERANDO: Que entre las atribuciones comunes a los Secretarios de Estado está emitir Acuerdos en los asuntos de su competencia y cuidar de su ejecución2.
 
-CONSIDERANDO: Que los Secretarios de Estado serán sustituidos por Ministerio de Ley, en su ausencia, cuando 1 Artículos 246 y 247 del Decreto Legislativo No. 131-82 de fecha 11 de enero de 1982, publicado en el Diario Oficial "La Gaceta" No.23,612 en fecha 20 de enero de 1982, que contiene la Constitución de la Re­ pública. - Artículos 28 y 33 del Decreto Legislativo 146-86 de fecha 27/29 de octubre de 1986, publicado en el Diario Oficial “La Gaceta” No. 25,088 de fecha 29 de noviembre de 1986, que contiene la Ley General de la Administración Pública.
+CONSIDERANDO: Que los Secretarios de Estado serán sustituidos por Ministerio de Ley, en su ausencia, cuando 1 Artículos 246 y 247 del Decreto Legislativo No. 131-82 de fecha 11 de enero de 1982, publicado en el Diario Oficial "La Gaceta" No. 23,612 en fecha 20 de enero de 1982, que contiene la Constitución de la Re­ pública. - Artículos 28 y 33 del Decreto Legislativo 146-86 de fecha 27/29 de octubre de 1986, publicado en el Diario Oficial “La Gaceta” No. 25,088 de fecha 29 de noviembre de 1986, que contiene la Ley General de la Administración Pública.
 
 2 Artículo 36 numeral 8 del Decreto Legislativo 146-86 de fecha 27/29 de octubre de 1986, publicado en el Diario Oficial “La Gaceta” No. 25,088 de fecha 29 de noviembre de 1986, que contiene la Ley General de la Administración Pública. estén cumpliendo funciones especiales designadas por el Presidente, o cuando estén inhabilitados para conocer de un asunto determinado, por el Subsecretario respectivo. Si hubiere más de un Subsecretario, el Secretario de Estado determinará el orden en que lo sustituirán3.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de sus funcion
 
 CONSIDERANDO: Que el acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el 3 lbid Artículo 34.
 
-4 Artículo 4 del Decreto Legislativo No. 152-87 de fecha 28 de septiembre de 1987, publicado en el Diario Oficial "La Gaceta" No.25,391 en fecha 1 de diciembre de 1987, vigente a partir del 1 de enero del año 1988, que contiene la Ley de Procedimiento Administrativo. órgano delegado, podrá contener instrucciones obligatorias para éste en materia procedimental. En los actos dictados por delegación, se expresará esta circunstancia y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos será imputable al órgano delegado5.
+4 Artículo 4 del Decreto Legislativo No. 152-87 de fecha 28 de septiembre de 1987, publicado en el Diario Oficial "La Gaceta" No. 25,391 en fecha 1 de diciembre de 1987, vigente a partir del 1 de enero del año 1988, que contiene la Ley de Procedimiento Administrativo. órgano delegado, podrá contener instrucciones obligatorias para éste en materia procedimental. En los actos dictados por delegación, se expresará esta circunstancia y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos será imputable al órgano delegado5.
 
 CONSIDERANDO:
 
@@ -49,7 +49,7 @@ Que el Sistema Nacional de Emergencias Nueve, Uno, Uno (911) se crea como un ser
 
 CONSIDERANDO: Que mediante el Decreto Legislativo 49-2021, se crea la Dirección Nacional de Emergencia 5 Ibid Artículo 5.
 
-6 Artículos 1 y 7 del Decreto Legislativo No. 58-2015 de fecha 21 de mayo del 2015, publicado en el Diario Oficial “La Gaceta” No.33,828 de fecha 07 de septiembre del 2015.
+6 Artículos 1 y 7 del Decreto Legislativo No. 58-2015 de fecha 21 de mayo del 2015, publicado en el Diario Oficial “La Gaceta” No. 33,828 de fecha 07 de septiembre del 2015.
 
 Nueve, Uno, Uno (911), adscrita a la Secretaría de Estado en el Despacho de la Presidencia7.
 
@@ -59,15 +59,13 @@ CONSIDERANDO: Que la delegación de atribuciones y facultades, implica observar 
 
 8 Acuerdo Ejecutivo No. 140-2022 publicado en el Diario Oficial "La Gaceta" No. 35,899 de fecha dieciocho de abril del año dos mil veintidós (18.04.2022).
 
-9 Numeral 3 del artículo 7 del Acuerdo Ejecutivo No. 003-2021 publicado en el Diario Oficial "La Gaceta" No.
-
-35,784 de fecha veintinueve de noviembre del año dos mil veintiuno (29.11.2021), que contiene el Reglamen­ to Interno de Personal de la Dirección Nacional del Sistema Nacional de Emergencias Nueve, Uno, Uno (911). se les exijan; por lo tanto, el órgano delegado en el ejercicio de las facultades que se le otorgan debe estar a lo dispuesto en la Constitución de la República, ya que los servidores del Estado, como depositarios de la autoridad, responsables de nuestra conducta oficial, sujetos a la Ley y jamás superiores a ella, no tenemos más facultades que las que expresamente nos confiere la ley, todo acto que se ejecute fuera de la ley es nulo y acarrea responsabilidad civil, administrativa o penal10.
+9 Numeral 3 del artículo 7 del Acuerdo Ejecutivo No. 003-2021 publicado en el Diario Oficial "La Gaceta" No. 35,784 de fecha veintinueve de noviembre del año dos mil veintiuno (29.11.2021), que contiene el Reglamen­ to Interno de Personal de la Dirección Nacional del Sistema Nacional de Emergencias Nueve, Uno, Uno (911). se les exijan; por lo tanto, el órgano delegado en el ejercicio de las facultades que se le otorgan debe estar a lo dispuesto en la Constitución de la República, ya que los servidores del Estado, como depositarios de la autoridad, responsables de nuestra conducta oficial, sujetos a la Ley y jamás superiores a ella, no tenemos más facultades que las que expresamente nos confiere la ley, todo acto que se ejecute fuera de la ley es nulo y acarrea responsabilidad civil, administrativa o penal10.
 
 CONSIDERANDO: Que los actos de los órganos de la Administración Pública adoptan la forma de Decretos, Acuerdos, Resoluciones o Providencias; se emiten por Acuerdo las decisiones de carácter particular que se tomen fuera de los procedimientos en que los particulares intervengan como parte interesada y los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria, los cuales deben ser publicados en el Diario Oficial “La Gaceta”11.
 
 POR TANTO:
 
-La Secretaria de Estado, por Ley en el Despacho de la Secretaría de Estado en el Despacho de la Presidencia, en uso de las facultades legales que la Ley y su Acuerdo de Nombramiento No.80-2022 de fecha diez de febrero del año dos mil veintidós (2022), publicado en el Diario Oficial “La Gaceta” No. 35,889 de fecha dos (02) en abril del año dos mil veintidós 2022, le confiere y en aplicación de los artículos 246, 247, 321, 322, 323, 324, 325, 326 y 327 de la Constitución de la República; Artículos 28, 33, 34, 36#8, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; artículos 1 y 7 del Decreto Legislativo 58- 2015; y, artículo 1 del Decreto Legislativo 49-2021.
+La Secretaria de Estado, por Ley en el Despacho de la Secretaría de Estado en el Despacho de la Presidencia, en uso de las facultades legales que la Ley y su Acuerdo de Nombramiento No. 80-2022 de fecha diez de febrero del año dos mil veintidós (2022), publicado en el Diario Oficial “La Gaceta” No. 35,889 de fecha dos (02) en abril del año dos mil veintidós 2022, le confiere y en aplicación de los artículos 246, 247, 321, 322, 323, 324, 325, 326 y 327 de la Constitución de la República; Artículos 28, 33, 34, 36#8, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; artículos 1 y 7 del Decreto Legislativo 58-2015; y, artículo 1 del Decreto Legislativo 49-2021.
 
 10 -Op, cit. #1 artículos 321, 322, 323, 324, 325, 326 y 327 Constitución de la República.
 

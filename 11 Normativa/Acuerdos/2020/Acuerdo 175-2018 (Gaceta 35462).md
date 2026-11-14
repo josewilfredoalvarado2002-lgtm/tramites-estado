@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdo No. 175-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201217-35462/download"
 extraido: "2026-11-14"
-huella: "3285cd606fb43db6"
+huella: "7f5963054b69a762"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 175-2018
@@ -33,7 +33,7 @@ CONSIDERANDO: Que mediante Acuerdo No. 107-A- 2014 de fecha uno (01) de octubre 
 
 POR TANTO;
 
-En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM-009- 2018, Artículo 26.
+En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM-009-2018, Artículo 26.
 
 ACUERDA:
 

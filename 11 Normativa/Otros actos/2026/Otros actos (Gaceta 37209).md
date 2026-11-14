@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-66-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260801-37209/download"
 extraido: "2026-11-09"
-huella: "92ea8e929d06f406"
+huella: "cee247480e95780c"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-66-2026
@@ -129,7 +129,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 HÉCTOR LUIS CORRALES AGÜERO MIGUEL ANGEL FIGUEROA RIVERA LEONARDO ENRIQUE DERAS VÁSQUEZ Avance Próxima Edición
 
-D E C R E T A: La Siguiente:
+DECRETA: La Siguiente:
 
 LEY DE ALIVIO FINANCIERO AL PRODUCTOR DEL AGRO .
 

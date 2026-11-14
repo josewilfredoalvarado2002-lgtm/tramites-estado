@@ -11,7 +11,7 @@ paginas: "A. 3 - 11"
 sumario: "Acuerdo No. 021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230906-36327/download"
 extraido: "2026-11-14"
-huella: "adda6f1e4e699c3e"
+huella: "4d364bf452d53662"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 021
@@ -27,9 +27,9 @@ huella: "adda6f1e4e699c3e"
 
 ## Texto
 
-Tegucigalpa, M.D.C., SECRETARÍA MUNICIPAL CERTIFICACIÓN EL INFRASCRITO SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO N°.021 CONTENIDO EN EL ACTA N°.016 DE FECHA CATORCE DE AGOSTO DEL AÑO DOS MIL VEINTITRÉS, EL CUAL LITERALMENTE DICE:
+Tegucigalpa, M.D.C., SECRETARÍA MUNICIPAL CERTIFICACIÓN EL INFRASCRITO SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO N°. 021 CONTENIDO EN EL ACTA N°. 016 DE FECHA CATORCE DE AGOSTO DEL AÑO DOS MIL VEINTITRÉS, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO N°.021.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo del Distrito Central y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos locales de conformidad con la Ley de Municipalidades.
+“ACUERDO N°. 021.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo del Distrito Central y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos locales de conformidad con la Ley de Municipalidades.
 
 CONSIDERANDO: Que la ciudad capital históricamente ha sido abatida por numerosos fenómenos de origen natural y socio-naturales, que han ocasionado situaciones de emergencia y desastres, principalmente por la combinación de las condiciones de amenaza y exposición generada con el uso inadecuado del territorio, carencia de normativas orientadas a ello, falta de planificación, y la poca capacidad municipal para realizar análisis técnicos-científicos del territorio.
 

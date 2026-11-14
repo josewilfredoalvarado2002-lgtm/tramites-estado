@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdo de DelegaciónNo. 01-PROASOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250301-36779/download"
 extraido: "2026-11-12"
-huella: "77f257a1f0ee27cb"
+huella: "a6f540f5882f4681"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 01-PROASOL-2025
@@ -47,11 +47,11 @@ CONSIDERANDO: Que el artículo 130 del Reglamento de la Ley de Servicio Civil, e
 
 CONSIDERANDO: Que mediante Memorándum SGRHPROASOL-No. 41-2025 de fecha veintitrés (23) de enero del año dos mil veinticinco (2025) la Licenciada Gina Esperanza Alvarado Guifarro, quien ostenta el cargo de Subgerente de Recursos Humanos del Programa de Acción Solidaria (PROASOL), notifica a la Licenciada Olga Lydia Díaz Meléndez, Directora Ejecutiva del Programa de Acción Solidaria (PROASOL), que el periodo de Incapacidad por Maternidad dará inicio a partir del ocho (08) de febrero, según Certificado de Incapacidad emitido por el Instituto Hondureño de Seguridad Social (IHSS) de fecha dieciocho (18) de enero del presente año.
 
-CONSIDERANDO: Que mediante Memorándum DEPROASOL-No.013-2025 de fecha veintisiete (27) de enero del año dos mil veinticinco (2025), la Licenciada Olga Lydia Díaz, Directora Ejecutiva del Programa de Acción Solidaria (PROASOL) da el Visto Bueno para que la Servidora Pública KEYLEN PAMELA SEVILLA GÁLVEZ asuma las responsabilidades inherentes al cargo de la Subgerencia de Recursos Humanos.
+CONSIDERANDO: Que mediante Memorándum DEPROASOL-No. 013-2025 de fecha veintisiete (27) de enero del año dos mil veinticinco (2025), la Licenciada Olga Lydia Díaz, Directora Ejecutiva del Programa de Acción Solidaria (PROASOL) da el Visto Bueno para que la Servidora Pública KEYLEN PAMELA SEVILLA GÁLVEZ asuma las responsabilidades inherentes al cargo de la Subgerencia de Recursos Humanos.
 
 CONSIDERANDO: Que Secretaría General a través del Memorándum SG-032-PROASOL-2025 de fecha treinta y uno
 
-(31) de enero del año dos mil veinticinco (2025) da tramite a lo solicitado en Memorándum DE-PROASOL-No.013-2025 de fecha veintisiete (27) de enero del año dos mil veinticinco (2025) por Dirección Ejecutiva y solicita a las unidades de Gerencia Administrativa, Departamento de Asesoría Legal y Subgerencia de Recursos Humanos ampliar la documentación de respaldo.
+(31) de enero del año dos mil veinticinco (2025) da tramite a lo solicitado en Memorándum DE-PROASOL-No. 013-2025 de fecha veintisiete (27) de enero del año dos mil veinticinco (2025) por Dirección Ejecutiva y solicita a las unidades de Gerencia Administrativa, Departamento de Asesoría Legal y Subgerencia de Recursos Humanos ampliar la documentación de respaldo.
 
 CONSIDERANDO: Que mediante Memorándum SGRHPROASOL-No. 64-2025 del dos (02) de febrero del año dos mil veinticinco (2025) la Licenciada Gina Esperanza Alvarado Guifarro, Subgerente de Recursos Humanos, informa a su superior jerárquico la Licenciada Alma Lorena Díaz, Gerente Administrativo del Programa de Acción Solidaria, la Delegación de Funciones de la Servidora Pública KEYLEN PAMELA SEVILLA GÁLVEZ, la cual debe formalizarse a través de un Acuerdo de Delegación de Funciones con el objetivo de garantizar la continuidad operativa de la Subgerencia de Recursos Humanos durante el periodo de ausencia, asegurando el cumplimiento de las responsabilidades institucionales y permitiendo que las gestiones administrativas y operativas continúen desarrollándose con normalidad.
 
@@ -75,9 +75,7 @@ SEGUNDO.- Las atribuciones delegadas será efectivas a partir del ocho (08) de f
 
 Debiendo cumplir todos los lineamientos e instrucciones que para ese efecto le señale la autoridad delegante e informarle por escrito una vez concluidas las facultades y funciones delegadas sobre los actos administrativos que haya autorizado.
 
-TERCERO.- El órgano delegado será responsable de realizar sus actos bajo el espíritu estricto de la legalidad y emitir informes mensuales de las actividades asignadas mediante las facultades comprendidas en el Acuerdo No.
-
-004-PROASOL-2023 Estructura Organizativa del Programa de Acción Solidaria (PROASOL).
+TERCERO.- El órgano delegado será responsable de realizar sus actos bajo el espíritu estricto de la legalidad y emitir informes mensuales de las actividades asignadas mediante las facultades comprendidas en el Acuerdo No. 004-PROASOL-2023 Estructura Organizativa del Programa de Acción Solidaria (PROASOL).
 
 CUARTO.- La responsabilidad de los actos realizados en función de la delegación otorgada son imputables a la ciudadana KEYLEN PAMELA SEVILLA GÁLVEZ, conforme a lo establecido en el Artículo 5 párrafo final de la Ley de Procedimiento Administrativo.
 

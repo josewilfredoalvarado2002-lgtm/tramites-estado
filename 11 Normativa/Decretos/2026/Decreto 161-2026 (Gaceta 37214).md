@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 161-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260807-37214/download"
 extraido: "2026-11-09"
-huella: "8d7ff8ee891cf6fc"
+huella: "4783ba6e292a037d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 161-2026
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece como obligación fundamental del Estado garantizar a la población el acceso a la salud, la seguridad y los servicios públicos esenciales, debiendo adoptar las medidas presupuestarias, administrativas y financieras necesarias para asegurar la continuidad y eficiencia de dichos servicios, especialmente en áreas estratégicas de interés nacional.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias pertinentes para atender obligaciones prioritarias de interés público nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias pertinentes para atender obligaciones prioritarias de interés público nacional.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas (SEFIN) es el órgano rector del sistema de administración financiera del sector público y ejerce sus atribuciones en materia presupuestaria, financiera, contable de tesorería y crédito público de conformidad con la Ley Orgánica del Presupuesto, contenida en el Decreto Legislativo No. 83-2004, y demás normativa aplicable.
 
 CONSIDERANDO: Que las instituciones públicas son responsables de la administración y ejecución de sus respectivos presupuestos, de la gestión de sus recursos humanos y de la legalidad, eficiencia, eficacia, economía y transparencia de las actuaciones realizadas dentro del ámbito de sus competencias.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias pertinentes para atender obligaciones prioritarias de interés público nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias pertinentes para atender obligaciones prioritarias de interés público nacional.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes, así como también aprobar anualmente el Presupuesto General de Ingresos y Egresos de la República y sus modificaciones, garantizando la correcta administración de los recursos públicos en beneficio del interés nacional.
 
@@ -45,11 +45,11 @@ POR TANTO, D E C R E T А:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 27, 103, 105, 186, 290 y 305 del Decreto No.62- 2026 de fecha 21 de abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026, el cual se deberán leer de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 27, 103, 105, 186, 290 y 305 del Decreto No. 62-2026 de fecha 21 de abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026, el cual se deberán leer de la manera siguiente:
 
 “ARTÍCULO 27.- Todos los operadores de Servicios Públicos de Telecomunicaciones y de las Tecnologías de la Información y las Comunicaciones (TICs), deben obligatoria e ineludiblemente cumplir con el pago de la Aportación Mensual del uno por ciento (1%) de sus ingresos brutos provenientes de la prestación de los Servicios Públicos de Telecomunicaciones, dentro de los siguientes diez (10) días calendario del cierre del mes al que corresponde el pago, mismos que serán recaudados a través de la Comisión Nacional de Telecomunicaciones (CONATEL) y que serán utilizados para financiar los programas, proyectos e iniciativas de acceso universal, tecnologías de la información y las comunicaciones (TICs), transformación digital y gobierno digital en el territorio nacional que sean priorizados por la Presidencia de la República y de conformidad al presente artículo.
 
-L a C o m i s i ó n N a c i o n a l d e Telecomunicaciones (CONATEL), deberá presentar a la Dirección General de Presupuesto (DGP), al mes siguiente al que se generen dichos ingresos, la documentación necesaria para comprobar que los importes han sido registrados en la Tesorería General de la República (TGR), asimismo, deberá transferir a la Cuenta Única las cantidades totales recaudadas por este concepto y, desde la cual se podrán efectuar las transferencias o asignaciones presupuestarias a favor de otras instituciones o dependencias públicas para pagar las obligaciones derivadas de los proyectos, programas e iniciativas relacionadas en el párrafo anterior, así como los relacionados con la conectividad a internet en escuelas públicas, aulas digitales y otros bienes o servicios de tecnología y conectividad, inclusive aquellos que estén en ejecución, desde antes de la vigencia del presente Artículo así como los que se ejecuten en adelante a través de instituciones públicas como la Secretaría de Estado en el Despacho de Educación (SEDUC), Dirección de Gestión por Resultados (DIGER), Empresa Hondureña de Telecomunicaciones (HONDUTEL) y la Comisión Nacional de Telecomunicaciones (CONATEL), entre otras pero, dependiendo siempre de la validación y priorización para estos efectos por parte de la Presidencia de la República”.
+La Comisión Nacional de Telecomunicaciones (CONATEL), deberá presentar a la Dirección General de Presupuesto (DGP), al mes siguiente al que se generen dichos ingresos, la documentación necesaria para comprobar que los importes han sido registrados en la Tesorería General de la República (TGR), asimismo, deberá transferir a la Cuenta Única las cantidades totales recaudadas por este concepto y, desde la cual se podrán efectuar las transferencias o asignaciones presupuestarias a favor de otras instituciones o dependencias públicas para pagar las obligaciones derivadas de los proyectos, programas e iniciativas relacionadas en el párrafo anterior, así como los relacionados con la conectividad a internet en escuelas públicas, aulas digitales y otros bienes o servicios de tecnología y conectividad, inclusive aquellos que estén en ejecución, desde antes de la vigencia del presente Artículo así como los que se ejecuten en adelante a través de instituciones públicas como la Secretaría de Estado en el Despacho de Educación (SEDUC), Dirección de Gestión por Resultados (DIGER), Empresa Hondureña de Telecomunicaciones (HONDUTEL) y la Comisión Nacional de Telecomunicaciones (CONATEL), entre otras pero, dependiendo siempre de la validación y priorización para estos efectos por parte de la Presidencia de la República”.
 
 “ARTÍCULO 103.- En…….
 
@@ -63,7 +63,7 @@ a. La …
 
 b. Sistema Tecnológico Integral de Gestión Legislativa y Portal Público del Congreso Nacional, este sistema y plataforma, constituirá el eje central para la digitalización, automatización y trazabilidad de los procesos legislativos, este incluye el licenciamiento, mantenimiento, puesta en marca, y soporte técnico, implementación, infraestructura virtual o servidores físicos en un centro de datos, así como su mantenimiento durante el presente período de gobierno 2026-2030.
 
-Asimismo, contrate de manera directa los bienes, suministros, servicios y demás requerimientos necesarios p a r a l a o rg a n i z a c i ó n , ejecución y desarrollo del Congreso Nacional Infantil 2026, incluyendo transporte, hospedaje, alimentación, materiales, equipo, logística, p u b l i c i d a d , s e g u r i d a d y cualquier otro gasto relacionado, a fin de garantizar la celeridad, oportunidad y efectiva realización del evento.
+Asimismo, contrate de manera directa los bienes, suministros, servicios y demás requerimientos necesarios para la o rg a ni zación, ejecución y desarrollo del Congreso Nacional Infantil 2026, incluyendo transporte, hospedaje, alimentación, materiales, equipo, logística, publicidad, seguridad y cualquier otro gasto relacionado, a fin de garantizar la celeridad, oportunidad y efectiva realización del evento.
 
 c. …
 
@@ -129,7 +129,7 @@ Dentro de los noventa (90) días calendario siguientes a la entrada en vigencia 
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición los artículos 27-A y 103-A al Decreto No.62- 2026 de fecha 21 de abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026, el cual se deberán leer de la manera siguiente:
+ARTÍCULO 2.- Reformar por adición los artículos 27-A y 103-A al Decreto No. 62-2026 de fecha 21 de abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026, el cual se deberán leer de la manera siguiente:
 
 “ARTÍCULO 27-A.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a transferir recursos presupuestarios según disponibilidad a la Institucion 804, a fin de atender distintas necesidades y demandas o embargos de carácter urgente.
 

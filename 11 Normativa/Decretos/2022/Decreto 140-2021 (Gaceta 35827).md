@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 140-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220120-35827/download"
 extraido: "2026-11-14"
-huella: "656cb7b2631505c4"
+huella: "e7336588d4dc1c76"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 140-2021
@@ -29,21 +29,21 @@ huella: "656cb7b2631505c4"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.363-2013 se aprobó la LEY ORGÁNICA DEL PODER LEGISLATIVO, con el objeto de regular la organización, el funcionamiento, los procedimientos legislativos deberes y derechos, prohibiciones y el ejercicio de las atribuciones que, de conformidad con la Constitución de la República, le corresponden al Poder Legislativo.
+CONSIDERANDO: Que mediante Decreto No. 363-2013 se aprobó la LEY ORGÁNICA DEL PODER LEGISLATIVO, con el objeto de regular la organización, el funcionamiento, los procedimientos legislativos deberes y derechos, prohibiciones y el ejercicio de las atribuciones que, de conformidad con la Constitución de la República, le corresponden al Poder Legislativo.
 
 CONSIDERANDO: Que es necesario establecer deberes y derechos ecuánimes en la Ley Orgánica del Poder Legislativo tanto para los Diputados Propietarios como para los Diputados Suplentes.
 
-CONSIDERANDO: Que se hace necesario reformar el Decreto No.363-2013 contentivo de Ley Orgánica del Poder Legislativo a fin de otorgar a los Diputados Suplentes se les garantice la obtención de los beneficios propios de su cargo y que se desprenden del sufragio directo del pueblo.
+CONSIDERANDO: Que se hace necesario reformar el Decreto No. 363-2013 contentivo de Ley Orgánica del Poder Legislativo a fin de otorgar a los Diputados Suplentes se les garantice la obtención de los beneficios propios de su cargo y que se desprenden del sufragio directo del pueblo.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 49 del Decreto No.363-2013, contentivo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, el cual en adelante se leerá de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 49 del Decreto No. 363-2013, contentivo de la LEY ORGÁNICA DEL PODER LEGISLATIVO, el cual en adelante se leerá de la siguiente manera:
 
 “ARTÍCULO 49.- El Presidente del Congreso Nacional determinará el número de Diputados Suplentes de cada una de las Bancadas Políticas que pueden participar con voz y voto en el Pleno.
 

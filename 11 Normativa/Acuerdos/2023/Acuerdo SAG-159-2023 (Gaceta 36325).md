@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230904-36325/download"
 extraido: "2026-11-14"
-huella: "0d332e997be299bb"
+huella: "bbb5d59178813540"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-159-2023
@@ -49,9 +49,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de septiembre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de septiembre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
 
 SEGUNDO: Las empresas nominadas en el Ordinal Primero, podrán realizar la importación del volumen asignado de Cebolla de manera total o parcial, para lo cual deberán presentar la solicitud de las Licencias de Importación ante la Dirección General de Integración Económica y Política Comercial de la Secretaría de Desarrollo Económico.
 

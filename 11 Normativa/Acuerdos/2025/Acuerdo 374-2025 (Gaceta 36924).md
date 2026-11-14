@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ministerial No. 374-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250823-36924/download"
 extraido: "2026-11-09"
-huella: "6883e91bc3f542c3"
+huella: "a7388778e9f6e0fb"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 374-2025
@@ -31,7 +31,7 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALI
 
 CONSIDERANDO: Que, conforme a lo dispuesto en el artículo 36 numeral 8 de la Ley General de la Administración Pública, son atribuciones y deberes comunes a los Secretarios de Estado el “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución”.
 
-CONSIDERANDO: Que, mediante Decreto Legislativo 208- 2003 de fecha 12 de diciembre del 2003, se aprobó la Ley de Migración y Extranjería, disposición legal que se encarga del estatus migratorio que se le otorga a un extranjero para radicarse en el país bajo las condiciones y requisitos que establece la ley y su reglamento.
+CONSIDERANDO: Que, mediante Decreto Legislativo 208-2003 de fecha 12 de diciembre del 2003, se aprobó la Ley de Migración y Extranjería, disposición legal que se encarga del estatus migratorio que se le otorga a un extranjero para radicarse en el país bajo las condiciones y requisitos que establece la ley y su reglamento.
 
 CONSIDERANDO: Que, el artículo 35 de la Constitución de la República, dispone que la “inmigración estará condicionada a los intereses sociales, políticos, económicos y demográficos del país”, de igual forma que, la “ley establecerá los requisitos, cuotas y condiciones para el ingreso de los inmigrantes al país, así como las prohibiciones, limitaciones y sanciones a que estarán sujetos los extranjeros”.
 
@@ -119,7 +119,7 @@ Además, si se trata de distribuidoras que sirven sistemas aislados, deben lleva
 
 9. Que el tipo de cambio utilizado para el ajuste que se aplicará a partir de agosto de dos mil veinticinco (2025) es de 26.33 lempiras por dólar, el cual es mayor al tipo de cambio de 25.90 lempiras por dólar que sirvió de referencia para establecer las tarifas del trimestre de mayo a julio de dos mil veinticinco (2025).
 
-10. Que mediante el acuerda primero del Acuerdo CREE-49- 2025 de fecha treinta (30) de abril de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) dispuso lo siguiente: “Modificar el acuerda primero del Acuerdo CREE-05-2025 de fecha veintisiete
+10. Que mediante el acuerda primero del Acuerdo CREE-49-2025 de fecha treinta (30) de abril de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) dispuso lo siguiente: “Modificar el acuerda primero del Acuerdo CREE-05-2025 de fecha veintisiete
 
 (27) de enero de dos mil veinticinco (2025), en el sentido de establecer nuevos valores promedios por concepto de combustible que se trasladarán en el primer ajuste tarifario de la estructura tarifaria de los usuarios finales en el municipio de Guanaja, siendo estos los siguientes:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-34-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250331-36804/download"
 extraido: "2026-11-12"
-huella: "b1a47861be352cb5"
+huella: "0712b1d2f2a49882"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-34-2025
@@ -33,7 +33,7 @@ ACUERDO CREE-34-2025 “APROBACIÓN DEL AJUSTE TRIMESTRAL AL COSTO BASE DE GENER
 
 Resultando I.
 
-Que mediante Resolución CREE-016, la Comisión Reguladora de Energía Eléctrica (CREE o “Comisión”) aprobó el Reglamento para el Cálculo de Tarifas Provisionales que aplica la Empresa Nacional de Energía Eléctrica (ENEE) a sus AVANCE clientes, el que fue modificado por medio de los Acuerdos CREE-065; CREE-36-2023; CREE 54- 2023; CREE-83-2024 y CREE-123-2024 de fechas veintisiete (27) de junio de dos mil veinte (2020), veinticuatro (24) de junio de dos mil veintidós (2022); veintinueve (29) de junio de dos mil veintitrés (2023); diecinueve (19) de agosto de dos mil veinticuatro (2024) y doce (12) de diciembre de dos mil veinticuatro (2024) respectivamente.
+Que mediante Resolución CREE-016, la Comisión Reguladora de Energía Eléctrica (CREE o “Comisión”) aprobó el Reglamento para el Cálculo de Tarifas Provisionales que aplica la Empresa Nacional de Energía Eléctrica (ENEE) a sus AVANCE clientes, el que fue modificado por medio de los Acuerdos CREE-065; CREE-36-2023; CREE 54-2023; CREE-83-2024 y CREE-123-2024 de fechas veintisiete (27) de junio de dos mil veinte (2020), veinticuatro (24) de junio de dos mil veintidós (2022); veintinueve (29) de junio de dos mil veintitrés (2023); diecinueve (19) de agosto de dos mil veinticuatro (2024) y doce (12) de diciembre de dos mil veinticuatro (2024) respectivamente.
 
 Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de generación y el consecuente ajuste a la tarifa.
 

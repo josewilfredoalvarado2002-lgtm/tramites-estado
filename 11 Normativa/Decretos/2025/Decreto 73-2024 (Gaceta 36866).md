@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Decreto No. 73-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250617-36866/download"
 extraido: "2026-11-10"
-huella: "8c509471c7416c0c"
+huella: "b3c1bbefd39bc5b7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 73-2024
@@ -39,19 +39,19 @@ CONSIDERANDO: Que el servicio que brindan las ambulancias, son un recurso vital 
 
 CONSIDERANDO: Que la exoneración representa un ahorro y más recursos disponibles a la autonomía de las Municipalidades, permitiéndoles contar con equipo de salud médico que vendrá a beneficiar directamente a su población, contribuyendo a la protección del derecho a la salud como derecho humano y bienestar de su población local para desarrollo integral y el bien común de sus habitantes.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No.170-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre del 2018, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No. 170-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre del 2018, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Exonerar a la MUNICIPALIDAD DE CHINACLA, DEPARTAMENTO DE LA PAZ, del pago de tasas, sobretasas, impuestos arancelarios, aduaneros, Impuesto Sobre Venta y gravámenes de importación aplicables en todo el territorio nacional para la introducción y compra directa de una Ambulancia que será utilizada exclusivamente para la jurisdicción del Municipio, la que tiene las siguientes características:
 
-Características Cotización No.00104696 Vehículo Tipo Ambulancia Marca Toyota Motor 1HZ Combustible Diésel Torque 285Nm Modelo Land Cruiser Ambulancia Potencia 129HP Año 2024 Cilindraje 4164 Transmisión Manual 5 velocidades OTRAS CARACTERÍSTICAS Suspensión delantera eje rígido con resortes helicoidales Suspensión trasera eje rígido con resortes semielípticos dirección hidráulica con power steering Frenos de disco delanteros y tambor traseros 4WD Tanque de 90L de combustible tanque auxiliar – 90L de combustible Timón Forrado en uretano Bloque de diferencial delantero y trasero Precio US$ 76,000.00
+Características Cotización No. 00104696 Vehículo Tipo Ambulancia Marca Toyota Motor 1HZ Combustible Diésel Torque 285Nm Modelo Land Cruiser Ambulancia Potencia 129HP Año 2024 Cilindraje 4164 Transmisión Manual 5 velocidades OTRAS CARACTERÍSTICAS Suspensión delantera eje rígido con resortes helicoidales Suspensión trasera eje rígido con resortes semielípticos dirección hidráulica con power steering Frenos de disco delanteros y tambor traseros 4WD Tanque de 90L de combustible tanque auxiliar – 90L de combustible Timón Forrado en uretano Bloque de diferencial delantero y trasero Precio US$ 76,000.00
 
 #### Artículo 2
 

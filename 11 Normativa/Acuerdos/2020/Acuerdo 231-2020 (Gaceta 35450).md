@@ -11,7 +11,7 @@ paginas: "A. 6 - 10"
 sumario: "Acuerdo Ministerial No. 231-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201205-35450/download"
 extraido: "2026-11-14"
-huella: "34baa2b218a5ba9f"
+huella: "20f3574f371dc03f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 231-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con la Constitución de la República, el Estad
 
 CONSIDERANDO: Que el Artículo 1 del Decreto Ejecutivo Número PCM-109-2020, declarara estado de emergencia por Huracán ETA degradado a Tormenta Tropical, publicado en el Diario Oficial La Gaceta en fecha 02 de noviembre del año 2020 y mediante Decreto Ejecutivo PCM-112-2020, publicado en el Diario Oficial La Gaceta en fecha 06 de noviembre del año 2020, reforma el artículo 1, Por lo que dicha emergencia tiene vigencia hasta el 31 de diciembre del 2020, pudiéndose prorrogarse si persisten los efectos que dieron origen a la emergencia.
 
-CONSIDERANDO: Que el PCM-116-2020 en su ARTÍCULO 1.- Reforma los Artículos 1, 2, 3, 4, 5 y 6-A del Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decreto Ejecutivo Número PCM-112- 2020 y Decreto Ejecutivo Número PCM-115-2020, los cuales se leerán de la manera siguiente: “ARTÍCULO 1.- Declarar estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del país a nivel nacional. Misma que tendrá una vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
+CONSIDERANDO: Que el PCM-116-2020 en su ARTÍCULO 1.- Reforma los Artículos 1, 2, 3, 4, 5 y 6-A del Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decreto Ejecutivo Número PCM-112-2020 y Decreto Ejecutivo Número PCM-115-2020, los cuales se leerán de la manera siguiente: “ARTÍCULO 1.- Declarar estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del país a nivel nacional. Misma que tendrá una vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
 
 CONSIDERANDO: Que esta Secretaría de Estado a través de la Dirección General de Protección al Consumidor, habiendo realizado las inspecciones y monitoreo de precios de los productos de necesidad ocasionados por estados de emergencia y verificar una tendencia alcista en los precios de estos productos, siendo la misma no justificada, es por consecuencia producto de la especulación misma que causa un perjuicio económico a los consumidores especialmente a aquéllos más pobres.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 72 de la Ley de Protección al
 
 CONSIDERANDO: Que en el Artículo 73 de la Ley de Protección al Consumidor establece; las causas para la determinación del precio máximo de venta, la autoridad de aplicación deberá determinar el precio, tarifa o margen máximo de comercialización o la modificación de estos, en los casos siguientes: cuando se trate de caso fortuito o fuerza mayor que derive en emergencia, desastre o situación de calamidad sea sectorial, regional o nacional declarada por la autoridad competente y que genere acaparamiento, especulación, desabastecimiento o se niegue la venta de los bienes enunciados con la finalidad de provocar el alza de sus precios o cualquier otro perjuicio económico al consumidor.
 
-CONSIDERANDO: Que esta Secretaría de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas, acordó establecer una determinación en el precio máximo de venta de los productos de la Canasta Básica Alimentaria ya que son necesarios para abastecer a la población debido al Estado de Emergencia declarado mediante Decreto Ejecutivo Número PCM-109-2020 y reformado mediante PCM-112- 2020 y PCM- 116-2020 con vigencia hasta el 31 de diciembre del presente año.
+CONSIDERANDO: Que esta Secretaría de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas, acordó establecer una determinación en el precio máximo de venta de los productos de la Canasta Básica Alimentaria ya que son necesarios para abastecer a la población debido al Estado de Emergencia declarado mediante Decreto Ejecutivo Número PCM-109-2020 y reformado mediante PCM-112-2020 y PCM-116-2020 con vigencia hasta el 31 de diciembre del presente año.
 
 CONSIDERANDO: Que por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical “ETA” y “IOTA” y otros fenómenos climáticos que ocasionaron daño a la infraestructura productiva del país a nivel nacional, es necesario que los mismos puedan ser comprados por los consumidores sin alteración en su precio y de esta forma evitar que sean violentados sus derechos.
 

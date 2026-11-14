@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250128-36751/download"
 extraido: "2026-11-13"
-huella: "28047a75bdb04e5f"
+huella: "d2ccbdd53f27e606"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -41,19 +41,13 @@ CONSIDERANDO: Que la Ley para la protección del patrimonio cultural de la naci�
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 05-2022 publicado en el Diario Oficia “La Gaceta” en fecha 06 de abril del 2024, edición número 35,892, se crea la Secretaría de Estado en los Despachos de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras (SECAPPH), como una entidad desde donde deben formularse las políticas coherentes con la identidad nacional y respetuosas de la diversidad, que impulsen y reproduzcan nuestras raíces y garanticen el pleno acceso, promoción y protección de la cultura, el arte y el patrimonio (artículo 4).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 118 se crea el Instituto Hondureño de Antropología e Historia con autonomía, con personalidad jurídica y patrimonio propio, contemplando que toda riqueza artística, histórica, arqueológica y antropológica del país, incluyendo las que se encuentran en la plataforma submarina del mar territorial, constituye un tesoro cultural de la Nación, en consecuencia, estarán bajo la protección de Estado por intermedio del Instituto Hondureño de Antropología e Historia. Asimismo, el Instituto tendrá por objeto la defensa, exploración, conservación, restauración, reparación, recuperación y acrecentamiento e investigación científica de los tesoros arqueológicos, antropológicos, históricos y artísticos de la Nación, así como de los lugares típicos y de belleza natural (artículos 1, 2 y 5).
 
-118 se crea el Instituto Hondureño de Antropología e Historia con autonomía, con personalidad jurídica y patrimonio propio, contemplando que toda riqueza artística, histórica, arqueológica y antropológica del país, incluyendo las que se encuentran en la plataforma submarina del mar territorial, constituye un tesoro cultural de la Nación, en consecuencia, estarán bajo la protección de Estado por intermedio del Instituto Hondureño de Antropología e Historia. Asimismo, el Instituto tendrá por objeto la defensa, exploración, conservación, restauración, reparación, recuperación y acrecentamiento e investigación científica de los tesoros arqueológicos, antropológicos, históricos y artísticos de la Nación, así como de los lugares típicos y de belleza natural (artículos 1, 2 y 5).
-
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-103-1993, se creó el Instituto Hondureño de Turismo, en adelante denominado “IHT”, como una entidad de derecho público, de carácter permanente, con personalidad jurídica y patrimonio propio, con autonomía administrativa y financiera, el cual colaborará con las dependencias y entidades que tengan a su cargo la administración y conservación de parques y bosques nacionales, playas, lagos, lagunas y ríos, zonas arqueológicas, edificios, monumentos u objetos de valor histórico o cultural, museos y otros atractivos, a efecto de impulsar su aprovechamiento, proteger y conservar los recursos turísticos, procurando la conservación del medio ambiente y su preservación ecológica (artículos 1 y 23).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 103-1993, se creó el Instituto Hondureño de Turismo, en adelante denominado “IHT”, como una entidad de derecho público, de carácter permanente, con personalidad jurídica y patrimonio propio, con autonomía administrativa y financiera, el cual colaborará con las dependencias y entidades que tengan a su cargo la administración y conservación de parques y bosques nacionales, playas, lagos, lagunas y ríos, zonas arqueológicas, edificios, monumentos u objetos de valor histórico o cultural, museos y otros atractivos, a efecto de impulsar su aprovechamiento, proteger y conservar los recursos turísticos, procurando la conservación del medio ambiente y su preservación ecológica (artículos 1 y 23).
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 014-2018 se creó la Secretaría de Estado en el Despacho de Turismo, la cual tiene a su cargo la formulación, dirección, ejecución, promoción, estimulación y evaluación de las políticas y actividades relativas al Turismo, como actividad económica que impulse el desarrollo del país, por medio de la conservación, protección y aprovechamiento racional de los recursos turísticos nacionales (artículo 1).
 
-CONSIDERANDO: Que mediante Decreto legislativo No.
-
-131-98 contentivo en la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, con el objeto de promover y fomentar la actividad turística en el país, se crea la TASA DE SERVICIOS TURÍSTICOS del cuatro por ciento (4%) sobre el precio de alojamiento diario en hoteles; sobre el precio por el arrendamiento de vehículos; y, sobre el precio de los servicios prestados por las agencias operadoras de turismo receptivo. La administración y control de la Tasa de Servicios turísticos estará a cargo de la Secretaría de Estado en el Despacho de Finanzas por medio de la Dirección Ejecutiva de Ingresos (ahora Servicio de Administración de Rentas (SAR)) (artículos 43 y 44).
+CONSIDERANDO: Que mediante Decreto legislativo No. 131-98 contentivo en la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, con el objeto de promover y fomentar la actividad turística en el país, se crea la TASA DE SERVICIOS TURÍSTICOS del cuatro por ciento (4%) sobre el precio de alojamiento diario en hoteles; sobre el precio por el arrendamiento de vehículos; y, sobre el precio de los servicios prestados por las agencias operadoras de turismo receptivo. La administración y control de la Tasa de Servicios turísticos estará a cargo de la Secretaría de Estado en el Despacho de Finanzas por medio de la Dirección Ejecutiva de Ingresos (ahora Servicio de Administración de Rentas (SAR)) (artículos 43 y 44).
 
 CONSIDERANDO: Que la Ley Orgánica del Presupuesto establece que corresponde a la Presidencia de la República autorizar las transferencias de fondos presupuestarios entre Secretarías de Estado, instituciones Descentralizadas y entre ambas (artículo 37 numeral 2).
 

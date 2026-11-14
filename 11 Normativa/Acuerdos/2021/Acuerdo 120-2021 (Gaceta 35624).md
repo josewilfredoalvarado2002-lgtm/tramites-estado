@@ -11,7 +11,7 @@ paginas: "A. 6 - 16"
 sumario: "Acuerdos Ministeriales Nos. 117-2021, 120-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210610-35624/download"
 extraido: "2026-11-14"
-huella: "d2f8ad1c90641cc8"
+huella: "766bddd6ae524cb9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 120-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que en el caso de Honduras, para su implementación, las Decisione
 
 CONSIDERANDO: Que el día 8 de agosto de 2019 entró en vigor el Acuerdo Ministerial Número 066-2019 mediante el cual se adoptaron disposiciones elaboradas y consensuadas en el marco de la institucionalidad del Acuerdo de Asociación Centroamérica-Unión Europea por el Subcomité de Aduanas, Facilitación del Comercio y Normas de Origen y cuyo objeto es proporcionar orientación a los usuarios en general sobre el contenido requerido en el certificado EUR.1.
 
-CONSIDERANDO: Que el 14 de diciembre de 2020 el Consejo de Asociación Centroamérica-Unión Europea adoptó la Decisión No.1/2020 que modifica el apéndice 2 (Lista de las elaboraciones o transformaciones que deben aplicarse a los materiales no originarios para que el producto transformado pueda obtener el carácter de originario) del anexo II (relativo a la definición del concepto de “productos originarios” y métodos de cooperación administrativa”) y la Decisión No. 2/2020 por la que se introducen notas explicativas de los artículos 15,16,19,20 y 30 del anexo II (relativo a la definición del concepto de productos originarios y métodos de cooperación administrativa ) del Acuerdo, en relación con el certificado de circulación de las mercancías EUR.1, las declaraciones en factura, los exportadores autorizados y la verificación de las pruebas de origen.
+CONSIDERANDO: Que el 14 de diciembre de 2020 el Consejo de Asociación Centroamérica-Unión Europea adoptó la Decisión No. 1/2020 que modifica el apéndice 2 (Lista de las elaboraciones o transformaciones que deben aplicarse a los materiales no originarios para que el producto transformado pueda obtener el carácter de originario) del anexo II (relativo a la definición del concepto de “productos originarios” y métodos de cooperación administrativa”) y la Decisión No. 2/2020 por la que se introducen notas explicativas de los artículos 15,16,19,20 y 30 del anexo II (relativo a la definición del concepto de productos originarios y métodos de cooperación administrativa ) del Acuerdo, en relación con el certificado de circulación de las mercancías EUR.1, las declaraciones en factura, los exportadores autorizados y la verificación de las pruebas de origen.
 
 POR TANTO:
 
@@ -53,7 +53,7 @@ Artículos 4; 5; 36, 37 y 345; del Anexo II del Acuerdo de Asociación Unión Eu
 
 ACUERDA:
 
-PRIMERO:.- Implementar e incorporar al orden jurídico interno y de conformidad con el Artículo 345 apartado 2, letra a) del Acuerdo, para el conocimiento público y su observancia general, la Decisión No.1/2020 que modifica el apéndice 2 “Lista de las elaboraciones y transformaciones que deben aplicarse a los materiales no originarios para que el producto transformado pueda obtener el carácter de originario” del anexo II (relativo a la definición del concepto de “productos originarios” y métodos de cooperación administrativa) y la Decisión No.2 /2020 por la que se introducen Notas Explicativas de los artículos 15, 16, 19, 20 y 30 del anexo II (relativo a la definición del concepto de productos y métodos de cooperación administrativa del Acuerdo en relación con el certificado de circulación de las mercancías EUR.1, las declaraciones en factura, los exportadores autorizados y la verificación de las pruebas de origen) adoptadas el día 14 de diciembre de 2020 por el Consejo de Asociación Centroamérica-Unión Europea.
+PRIMERO:.- Implementar e incorporar al orden jurídico interno y de conformidad con el Artículo 345 apartado 2, letra a) del Acuerdo, para el conocimiento público y su observancia general, la Decisión No. 1/2020 que modifica el apéndice 2 “Lista de las elaboraciones y transformaciones que deben aplicarse a los materiales no originarios para que el producto transformado pueda obtener el carácter de originario” del anexo II (relativo a la definición del concepto de “productos originarios” y métodos de cooperación administrativa) y la Decisión No. 2 /2020 por la que se introducen Notas Explicativas de los artículos 15, 16, 19, 20 y 30 del anexo II (relativo a la definición del concepto de productos y métodos de cooperación administrativa del Acuerdo en relación con el certificado de circulación de las mercancías EUR.1, las declaraciones en factura, los exportadores autorizados y la verificación de las pruebas de origen) adoptadas el día 14 de diciembre de 2020 por el Consejo de Asociación Centroamérica-Unión Europea.
 
 Las Decisiones y sus anexos entrarán en vigor, de conformidad a lo establecido en las propias Decisiones, siendo ciento ochenta días después de la fecha de su adopción, es decir el día 15 de junio de 2021 y pueden ser consultadas en la página web oficial de la Secretaría de Desarrollo Económico (www.sde.gob.hn).
 

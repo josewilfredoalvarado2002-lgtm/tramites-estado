@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ejecutivos Nos. 415-2022, 416-2022, 417-2022, 418-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220919-36031/download"
 extraido: "2026-11-14"
-huella: "9948b25e43e77759"
+huella: "6121a012cef780a8"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 416-2022
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 20-2022, publicado el 11 de agosto, 2022.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-20-2022, publicado el 11 de agosto, 2022.
 
 ACUERDA
 
@@ -55,7 +55,7 @@ IRIS XIOMARA CASTRO SARMIENTO
 
 Presidenta Constitucional de la República TOMAS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN _______ Presidencia de la República de Honduras ACUERDO EJECUTIVO NO. 417-2022 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 20-2022, publicado el 11 de agosto, 2022.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-20-2022, publicado el 11 de agosto, 2022.
 
 ACUERDA
 
@@ -79,7 +79,7 @@ IRIS XIOMARA CASTRO SARMIENTO
 
 Presidenta Constitucional de la República TOMAS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN Presidencia de la República de Honduras ACUERDO EJECUTIVO NO. 418-2022 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 20-2022, publicado el 11 de agosto, 2022.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-20-2022, publicado el 11 de agosto, 2022.
 
 ACUERDA
 

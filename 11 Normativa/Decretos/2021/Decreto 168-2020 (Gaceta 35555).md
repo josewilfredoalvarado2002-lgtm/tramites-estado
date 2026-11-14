@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 168-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210326-35555/download"
 extraido: "2026-11-14"
-huella: "20e72a6d4dc30459"
+huella: "7b6808cdf84e3666"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 168-2020
@@ -37,13 +37,13 @@ CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 
 
 CONSIDERANDO: Que el Estado de Honduras reconoce, fomenta y garantiza la existencia de la propiedad privada en su más amplio concepto de función social y sin más limitaciones que aquellas que por motivo de necesidad o interés público establezca la Ley.
 
-CONSIDERANDO: Que las estadísticas que maneja la Secretaría de Estado en el Despacho de Seguridad, establecen que las condiciones por las que se aprobó el Decreto No.91- 2012 aprobado el 14 de junio del año 2012, publicado en fecha 12 de julio del 2012, en el Diario Oficial “La Gaceta”, en su Edición No.32,870 y sus reformas, que prohíbe la circulación de dos (2) hombres en motocicleta en el territorio nacional, en estos momentos carece de efectividad; ya que en ese entonces se contaba con una tasa de ochenta y siete (87) homicidios por cada cien mil (100,000) habitantes; y actualmente se está cerrando el año 2020, con treinta y dos (32) homicidios por cada cien mil (100,000) habitantes; igualmente la Policía Nacional cuenta en la actualidad con diecisiete mil quinientos (17,500) efectivos; agregado a ello que dicho transporte es un medio económico de uso común por personas y familias de escasos recursos económicos.
+CONSIDERANDO: Que las estadísticas que maneja la Secretaría de Estado en el Despacho de Seguridad, establecen que las condiciones por las que se aprobó el Decreto No. 91-2012 aprobado el 14 de junio del año 2012, publicado en fecha 12 de julio del 2012, en el Diario Oficial “La Gaceta”, en su Edición No. 32,870 y sus reformas, que prohíbe la circulación de dos (2) hombres en motocicleta en el territorio nacional, en estos momentos carece de efectividad; ya que en ese entonces se contaba con una tasa de ochenta y siete (87) homicidios por cada cien mil (100,000) habitantes; y actualmente se está cerrando el año 2020, con treinta y dos (32) homicidios por cada cien mil (100,000) habitantes; igualmente la Policía Nacional cuenta en la actualidad con diecisiete mil quinientos (17,500) efectivos; agregado a ello que dicho transporte es un medio económico de uso común por personas y familias de escasos recursos económicos.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente, LEY PARA LA DISPOSICIÓN DE VEHÍCULOS DECOMISADOS RELACIONADOS CON HECHOS DE TRÁNSITO, DELITOS Y OTROS DE INTERÉS INVESTIGATIVO
 
@@ -91,7 +91,7 @@ Son aquellos automotores que han sido decomisados por su participación en delit
 
 \5) Motocicletas decomisadas bajo el Decreto No.91-2012 y sus reformas.
 
-Son aquellas que se encuentran decomisadas en aplicación del Decreto No.91-2012 que prohíbe el transporte de dos (2) hombres en vehículos motorizados de dos (2) ruedas;
+Son aquellas que se encuentran decomisadas en aplicación del Decreto No. 91-2012 que prohíbe el transporte de dos (2) hombres en vehículos motorizados de dos (2) ruedas;
 
 \6) Vehículos declarados en abandono.
 
@@ -147,7 +147,7 @@ e) Valuación del automotor;
 
 f) Publicar en el Sitio Web de la institución correspondiente, para que se acredite en un plazo no mayor a treinta (30) días calendario, la condición de propietario y se manifieste el interés de su devolución;
 
-g) Declaratoria de abandono, m e d i a n t e r e s o l u c i ó n administrativa, emitida por la Institución correspondiente, previo dictamen técnico de la comisión nombrada para tal efecto; y,
+g) Declaratoria de abandono, mediante resolución administrativa, emitida por la Institución correspondiente, previo dictamen técnico de la comisión nombrada para tal efecto; y,
 
 h) Subasta del automotor.
 
@@ -209,11 +209,11 @@ c) Solicitar información al Ministerio Público para que en un término no mayo
 
 d) Solicitar información por medio de requerimiento a las diferentes instituciones públicas o privadas con el propósito de determinar los derechos de propiedad, tenencia o almacenamiento y cualquier otra circunstancia que represente interés investigativo;
 
-e) Acta que acredite que el vehículo automotor fue decomisado en aplicación al Decreto No.91- 2012 o su reforma;
+e) Acta que acredite que el vehículo automotor fue decomisado en aplicación al Decreto No. 91-2012 o su reforma;
 
 f) Valuación del automotor;
 
-g) Declaratoria de Vehículo decomisado bajo el Decreto No.91-2012 o su reforma, mediante resolución administrativa emitida por la Institución correspondiente, previo dictamen técnico de la comisión nombrada para tal efecto;
+g) Declaratoria de Vehículo decomisado bajo el Decreto No. 91-2012 o su reforma, mediante resolución administrativa emitida por la Institución correspondiente, previo dictamen técnico de la comisión nombrada para tal efecto;
 
 h) Publicar en el Sitio Web de la institución correspondiente, para que se acredite en un plazo no mayor a treinta (30) días calendario, la condición de propietario y se manifieste el interés de su devolución; e,
 
@@ -293,7 +293,7 @@ ARTICULO 10.- Corresponde al Ministerio Público la administración guarda y cus
 
 #### Artículo 11
 
-ARTICULO 11.- Dejar sin efecto la derogatoria de los Decretos No.91-2012 de fecha 12 de Julio del año 2012 y sus reformas, referentes a la prohibición de transportar dos (2) hombres en motocicleta. Reformar el Decreto No.91-2012 y sus reformas en el sentido de excluir de la prohibición a el Municipio de Nueva Arcadia, departamento de Copán y los municipios de Santa Bárbara, Quimistán, Macuelizo, departamento de Santa Bárbara. Reformar el Artículo 52 de la Ley de Equilibrio Financiero y Equidad Social (Decreto No.194-2002) en cuanto a pago de estacionamiento de vehículos decomisados que debe ser de Cinco Lempiras (L.5.00) diarios cuando se trate de predios públicos y Diez Lempiras (L.10.00) cuando se trate de predios privados.
+ARTICULO 11.- Dejar sin efecto la derogatoria de los Decretos No. 91-2012 de fecha 12 de Julio del año 2012 y sus reformas, referentes a la prohibición de transportar dos (2) hombres en motocicleta. Reformar el Decreto No. 91-2012 y sus reformas en el sentido de excluir de la prohibición a el Municipio de Nueva Arcadia, departamento de Copán y los municipios de Santa Bárbara, Quimistán, Macuelizo, departamento de Santa Bárbara. Reformar el Artículo 52 de la Ley de Equilibrio Financiero y Equidad Social (Decreto No. 194-2002) en cuanto a pago de estacionamiento de vehículos decomisados que debe ser de Cinco Lempiras (L.5.00) diarios cuando se trate de predios públicos y Diez Lempiras (L.10.00) cuando se trate de predios privados.
 
 #### Artículo 12
 
@@ -301,7 +301,7 @@ ARTÍCULO 12.- DISPOSICIÓN TRANSITORIA.
 
 Aquellos vehículos automotores que hayan sido decomisados antes de la entrada en vigencia de la presente Ley y que se encuentren en los estacionamientos públicos, deben ser devueltos a sus dueños exentos de multas y recargos y cuando se encuentren en predios privados pagarán hasta un cincuenta por ciento (50%) de lo acordado.
 
-Así mismo las motocicletas decomisadas bajo el Decreto No.91-2012, deben ser devueltas a sus dueños exentas del pago de multas y del pago de parqueo cuando se encuentren en predios públicos y las que se encuentren en predios privados pagarán el cincuenta por ciento de lo acordado.
+Así mismo las motocicletas decomisadas bajo el Decreto No. 91-2012, deben ser devueltas a sus dueños exentas del pago de multas y del pago de parqueo cuando se encuentren en predios públicos y las que se encuentren en predios privados pagarán el cincuenta por ciento de lo acordado.
 
 #### Artículo 13
 

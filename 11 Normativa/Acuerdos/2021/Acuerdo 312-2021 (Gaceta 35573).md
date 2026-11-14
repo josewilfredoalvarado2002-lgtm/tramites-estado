@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 312-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210416-35573/download"
 extraido: "2026-11-14"
-huella: "7c53e5944cf774cc"
+huella: "b572282e38784935"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 312-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No. 293- 2020, de fecha 16 de marzo del año 2021, se delegó en el Licenciado HUGO FERNANDO MEJÍA, como Jefe Interino de la Oficina Regional Centro Oriente, durante el período comprendido del 15 al 31 de marzo de 2021.
+CONSIDERANDO: Que mediante Acuerdo No. 293-2020, de fecha 16 de marzo del año 2021, se delegó en el Licenciado HUGO FERNANDO MEJÍA, como Jefe Interino de la Oficina Regional Centro Oriente, durante el período comprendido del 15 al 31 de marzo de 2021.
 
 CONSIDERANDO: Que mediante Memorando DINAFCOR-No. 041-2021 de fecha 08 de abril del 2021, Coordinación de Oficinas Regionales, solicitó a Secretaría General una ampliación del Acuerdo de Delegación a favor del Licenciado HUGO FERNANDO MEJÍA, como Jefe Interino de la Oficina Regional Centro Oriente, hasta el miércoles 14 de abril del año 2021.
 

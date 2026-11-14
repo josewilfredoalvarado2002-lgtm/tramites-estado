@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "6fb971b5b76bfc82"
+huella: "2be7f7ddda029f93"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 214-2026
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, en su Artículo 205 Atribución 31), establece como atribución del Congreso Nacional decretar honores por relevantes servicios prestados a la Patria, correspondiendo a este Poder del Estado reconocer aquellas trayectorias que, por sus méritos y aportes a la sociedad hondureña, sean merecedoras de especial distinción.
 
-CONSIDERANDO: Que mediante Decreto No.240-89, de fecha 15 de Diciembre de 1989 el Congreso Nacional instituyó las Condecoraciones de Honor del Congreso Nacional, destinadas a reconocer a ciudadanos hondureños y extranjeros que se hayan hecho acreedores a la exaltación y reconocimiento amplio del pueblo hondureño; estableciendo dicho régimen los distintos grados de las condecoraciones y las categorías de personas que pueden ser distinguidas.
+CONSIDERANDO: Que mediante Decreto No. 240-89, de fecha 15 de Diciembre de 1989 el Congreso Nacional instituyó las Condecoraciones de Honor del Congreso Nacional, destinadas a reconocer a ciudadanos hondureños y extranjeros que se hayan hecho acreedores a la exaltación y reconocimiento amplio del pueblo hondureño; estableciendo dicho régimen los distintos grados de las condecoraciones y las categorías de personas que pueden ser distinguidas.
 
-CONSIDERANDO: Que conforme al Decreto No.240-89, la Condecoración de Honor del Congreso Nacional en el Grado de “Gran Cruz con Placa de Oro” puede concederse, entre otras personalidades, a Parlamentarios, Exparlamentarios, Embajadores, Ministros, Secretarios de Estado, Magistrados del Poder Judicial, Altos Oficiales de las Fuerzas Armadas y otras personalidades nacionales y extranjeras cuya categoría equivalga a las anteriormente señaladas.
+CONSIDERANDO: Que conforme al Decreto No. 240-89, la Condecoración de Honor del Congreso Nacional en el Grado de “Gran Cruz con Placa de Oro” puede concederse, entre otras personalidades, a Parlamentarios, Exparlamentarios, Embajadores, Ministros, Secretarios de Estado, Magistrados del Poder Judicial, Altos Oficiales de las Fuerzas Armadas y otras personalidades nacionales y extranjeras cuya categoría equivalga a las anteriormente señaladas.
 
 CONSIDERANDO: Que el ciudadano JOSÉ CÉLIN DISCUA ELVIR, ha desarrollado una extensa trayectoria de servicio público y representación popular, habiendo ejercido, entre otras responsabilidades, el cargo de Diputado Propietario por el Departamento de El Paraíso, durante seis (6) períodos legislativos consecutivos, así como el cargo de Secretario de Estado en los Despachos de Gobernación y Justicia, además de otras relevantes responsabilidades en la administración pública y en el ámbito nacional.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que, en atención a los relevantes servicios prestados a la Patria
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

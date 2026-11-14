@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Acuerdos Nos. 400-2021, 401-2021, 402-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210629-35642/download"
 extraido: "2026-11-14"
-huella: "8d1b365286b85efa"
+huella: "eae46fa599acb328"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 401-2021
@@ -31,9 +31,7 @@ LA DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA (DINAF)
 
 CONSIDERANDO: Que nuestro marco legal vigente ex­ presamente determina que los actos administrativos adopta­ rán la forma de Decretos, Acuerdos, Resoluciones o Provi­ dencias.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-020-2019 emitido por el Presidente de la República en Consejo de Ministros, en fecha 3 de junio del año 2019, publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-020-2019 emitido por el Presidente de la República en Consejo de Ministros, en fecha 3 de junio del año 2019, publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
 
 CONSIDERANDO: Que el mismo marco legal dispone en su artículo 5 numeral 1, la Secretaría Ejecutiva del Consejo Nacional de Niñez y Adolescencia, será ejercida por la Dirección de Niñez, Adolescencia y Familia (DINAF), como ente responsable de rectorar las políticas y normativas en materia de niñez, adolescencia y familia.
 
@@ -43,21 +41,19 @@ CONSIDERANDO: Que dicha Unidad Ejecutora estará conformada inicialmente con 4 p
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No. 135- 2021, de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No. 35,525), se delegó en la Licenciada CATY SUYAPA MATAMOROS OCHOA, las funciones de Especialista en monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia, específicamente lo siguiente: 1) Responsable de liderar el seguimiento sobre el progreso en la implementación del Plan Estratégico del Consejo Nacional; 2) Contribuir en la generación de información la toma de decisiones; y, 3) Recopilación, organización, sistematización y la presentación de información en los tres niveles territoriales.
+CONSIDERANDO: Que mediante Acuerdo No. 135-2021, de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No. 35,525), se delegó en la Licenciada CATY SUYAPA MATAMOROS OCHOA, las funciones de Especialista en monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia, específicamente lo siguiente: 1) Responsable de liderar el seguimiento sobre el progreso en la implementación del Plan Estratégico del Consejo Nacional; 2) Contribuir en la generación de información la toma de decisiones; y, 3) Recopilación, organización, sistematización y la presentación de información en los tres niveles territoriales.
 
 CONSIDERANDO: Que, de conformidad a lo establecido en la Ley de Procedimiento Administrativo, en cualquier momento, el órgano delegante, cuando lo considere conveniente u oportuno, podrá revocar la delegación y recobrar el ejercicio de la competencia delegada.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 
 PRIMERO:
 
-Dejar sin valor y efecto, a partir del 24 de junio del año 2021, el Acuerdo No. 135- 2021 de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No.
-
-35,525), en el cual se delegó en la Licenciada CATY SUYAPA MATAMOROS OCHOA, las funciones de Especialista en monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia.
+Dejar sin valor y efecto, a partir del 24 de junio del año 2021, el Acuerdo No. 135-2021 de fecha 28 de enero del año 2021, publicado en el Diario Oficial La Gaceta, en fecha 23 de febrero de 2021 (edición No. 35,525), en el cual se delegó en la Licenciada CATY SUYAPA MATAMOROS OCHOA, las funciones de Especialista en monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia.
 
 SEGUNDO:
 

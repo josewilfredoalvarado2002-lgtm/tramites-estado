@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto Nos. 50-2020, 51-2020, 56-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200518-35256-2/download"
 extraido: "2026-11-14"
-huella: "2f95eb0c7dc2cdf8"
+huella: "4eb06ffab32ad897"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 50-2020
@@ -29,21 +29,21 @@ huella: "2f95eb0c7dc2cdf8"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 005-2020 de fecha 10 de Febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, como medidas para fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-005-2020 de fecha 10 de Febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, como medidas para fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
 
-CONSIDERANDO: Que ante la inminente propagación del coronavirus (COVID-19), en el territorio nacional, es necesaria la implementación de un Plan para la Contención y Respuesta a nivel nacional para prevenir y evitar la propagación del coronavirus (COVID-19), con el fin de proteger la vida de los habitantes de la República. En este sentido, el Gobierno de la República analizando las medidas implementadas, desarrolló instrumentos legales y técnicos que proporcionarán un alivio financiero a la población, que vio afectada su generación de ingresos, al tener que cumplir estas disposiciones, entre estos instrumentos están la “LEY ESPECIAL DE ACELERACIÓN ECONÓMICA Y PROTECCIÓN SOCIAL FRENTE A LOS EFECTOS DEL CORONAVIRUS COVID-19” y “LEY DE AUXILIO Sección A Decretos y Acuerdos PODER LEGISLATIVO Decreto Nos. 50-2020, 51-2020, 56-2020 A. 1 - 8 AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID- 19”.
+CONSIDERANDO: Que ante la inminente propagación del coronavirus (COVID-19), en el territorio nacional, es necesaria la implementación de un Plan para la Contención y Respuesta a nivel nacional para prevenir y evitar la propagación del coronavirus (COVID-19), con el fin de proteger la vida de los habitantes de la República. En este sentido, el Gobierno de la República analizando las medidas implementadas, desarrolló instrumentos legales y técnicos que proporcionarán un alivio financiero a la población, que vio afectada su generación de ingresos, al tener que cumplir estas disposiciones, entre estos instrumentos están la “LEY ESPECIAL DE ACELERACIÓN ECONÓMICA Y PROTECCIÓN SOCIAL FRENTE A LOS EFECTOS DEL CORONAVIRUS COVID-19” y “LEY DE AUXILIO Sección A Decretos y Acuerdos PODER LEGISLATIVO Decreto Nos. 50-2020, 51-2020, 56-2020 A. 1 - 8 AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19”.
 
-CONSIDERANDO: Que mediante el Acuerdo No.01- 2016 de fecha 11 de Febrero del 2016, el Banco Central de Honduras (BCH) aprobó el Reglamento para la Autorización y Funcionamiento de las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico (INDEL).
+CONSIDERANDO: Que mediante el Acuerdo No. 01-2016 de fecha 11 de Febrero del 2016, el Banco Central de Honduras (BCH) aprobó el Reglamento para la Autorización y Funcionamiento de las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico (INDEL).
 
-CONSIDERANDO: Que mediante Resolución GE No.519/04-07-2016, la Comisión Nacional de Bancos y Seguros (CNBS) emitió las normas con el objetivo de establecer los lineamientos de supervisión que serán aplicables a las operaciones realizadas por las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, en adelante denominadas INDEL, debidamente autorizadas para operar por el Banco Central de Honduras (BCH).
+CONSIDERANDO: Que mediante Resolución GE No. 519/04-07-2016, la Comisión Nacional de Bancos y Seguros (CNBS) emitió las normas con el objetivo de establecer los lineamientos de supervisión que serán aplicables a las operaciones realizadas por las Instituciones No Bancarias que Brindan Servicios de Pago Utilizando Dinero Electrónico, en adelante denominadas INDEL, debidamente autorizadas para operar por el Banco Central de Honduras (BCH).
 
-CONSIDERANDO: Que mediante Decreto No.33-2020 de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Abril de 2020, Edición No.35,217, específicamente en el Artículo 16, se autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI), a contratar de manera directa, la adquisición de sistemas que promuevan la inclusión financiera y el mecanismo de pago y recaudo a la población beneficiaria de programas estatales; asimismo, mediante dicho Decreto, al tiempo que se reformaron los artículos 7 y 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013).
+CONSIDERANDO: Que mediante Decreto No. 33-2020 de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Abril de 2020, Edición No. 35,217, específicamente en el Artículo 16, se autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI), a contratar de manera directa, la adquisición de sistemas que promuevan la inclusión financiera y el mecanismo de pago y recaudo a la población beneficiaria de programas estatales; asimismo, mediante dicho Decreto, al tiempo que se reformaron los artículos 7 y 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013).
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 ARTÍCULO1.- AUTORIZACIÓN DE SUBSIDIOS A TRAVÉS DE MECANISMOS DE PAGO ELECTRÓNICOS: Se autoriza a las instituciones del Estado, para que los subsidios, ya establecidos y los subsiguientes, se puedan realizar a través de cualquier medio de transferencia y/o pago electrónico, tales como: billetera electrónica móvil, banca digital o análogos, cuentas básicas, corresponsales bancarios y otros que faciliten transferencias y entregas de dinero efectivo de forma directa, segura y confiable.
 
@@ -55,7 +55,7 @@ ARTÍCULO 2.- El Poder Ejecutivo mediante Reglamento, debe elaborar los procedim
 
 ARTÍCULO 3.- La autorización especial otorgada al Banco Hondureño para la Producción y la Vivienda (BANHPROVI), mediante el
 
-Artículo 16 del Decreto No.33-2020 de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Abril de 2020, Edición No.35,217, para la adquisición de sistemas que promuevan la inclusión financiera y el mecanismo de pago y recaudo a la población beneficiaria de programas estatales, incluye la contratación bajo el mismo método autorizado en el citado Decreto, a todos o algunos de los proveedores de servicios de transferencia y/o pago electrónico, descritos en el Artículo 1 del presente Decreto, de acuerdo a las características o canales de distribución, entorno geográfico y operaciones de negocios.
+Artículo 16 del Decreto No. 33-2020 de fecha 2 de Abril de 2020, y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Abril de 2020, Edición No. 35,217, para la adquisición de sistemas que promuevan la inclusión financiera y el mecanismo de pago y recaudo a la población beneficiaria de programas estatales, incluye la contratación bajo el mismo método autorizado en el citado Decreto, a todos o algunos de los proveedores de servicios de transferencia y/o pago electrónico, descritos en el Artículo 1 del presente Decreto, de acuerdo a las características o canales de distribución, entorno geográfico y operaciones de negocios.
 
 Para este fin el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), puede suscribir un Convenio para acompañar el proceso de contratación, con el Programa de las Naciones Unidas para el Desarrollo (PNUD) o un organismo internacional similar.
 

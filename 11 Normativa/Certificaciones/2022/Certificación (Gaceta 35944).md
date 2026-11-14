@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Certificación del Acuerdo Administrativo TSC-No. 01/2022-TSC"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220608-35944/download"
 extraido: "2026-11-14"
-huella: "e6468a8ea3ac51ac"
+huella: "3b030286dd325f48"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -55,9 +55,7 @@ En uso de las facultades que las leyes le confieren y en aplicación del Artícu
 
 ACUERDA:
 
-PRIMERO: Prorrogar hasta el 30 de septiembre de 2022, el plazo para establecer el proceso de control interno institucional de conformidad con el Artículo Segundo del Marco Rector del Control Interno Institucional de los Recursos Públicos (MARCI) aprobado mediante Acuerdo Administrativo TSC Nº.02/2021, publicado en el Diario Oficial La Gaceta No.
-
-35,795 de fecha 11 de diciembre de 2021.
+PRIMERO: Prorrogar hasta el 30 de septiembre de 2022, el plazo para establecer el proceso de control interno institucional de conformidad con el Artículo Segundo del Marco Rector del Control Interno Institucional de los Recursos Públicos (MARCI) aprobado mediante Acuerdo Administrativo TSC Nº.02/2021, publicado en el Diario Oficial La Gaceta No. 35,795 de fecha 11 de diciembre de 2021.
 
 SEGUNDO: El presente Acuerdo deberá ser publicado en el Diario Oficial “La Gaceta”.
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdo Ejecutivo 004-2021, Acuerdo número 1012-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210719-35661/download"
 extraido: "2026-11-14"
-huella: "75c61159433f0e73"
+huella: "a880edb277134b99"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 004-2021
@@ -39,13 +39,13 @@ La Policía Nacional se regirá por una legislación especial”.
 
 CONSIDERANDO: Que la Policía Nacional para un desempeño de sus funciones, está implementando cambios en la infraestructura, modernizando para ello las instalaciones policiales que posee y adquiriendo nuevos bienes inmuebles a nivel nacional en los sectores que se han identificado necesarios.
 
-CONSIDERANDO: Q u e l a s e ñ o r a X I O M A R A ELIZABETH MARTÍNEZ MATA presentó a esta Secretaría de Estado, Carta de Oferta proponiendo dar en venta el inmueble ubicado en lugar denominado La Providencia, ubicado al Sureste de la ciudad de San Pedro Sula, departamento de Cortés, identificado como el Lote Número 7 del Bloque Número 13, el cual tiene una extensión superficial de Ciento Cincuenta y Tres Punto Treinta y Ocho Metros Cuadrados (153.38 Mts.2), en el cual se encuentra construida en calidad de mejoras una casa de habitación construida de bloque repellado y pulido, consta de tres cuartos, sala, comedor, cocina, puertas externas de metal e internas de madera de color, ventanas de celosías, dos baños, piso de terrazo, techo de zinc, muro perimetral, con servicios de agua potable, alcantarillado sanitario y energía eléctrica, inscrito a su favor bajo número matrícula: 758151 Asiento No. 2,3 del Instituto de la Propiedad, Oficina Registral de San Pedro Sula.
+CONSIDERANDO: Que la señora XIOMARA ELIZABETH MARTÍNEZ MATA presentó a esta Secretaría de Estado, Carta de Oferta proponiendo dar en venta el inmueble ubicado en lugar denominado La Providencia, ubicado al Sureste de la ciudad de San Pedro Sula, departamento de Cortés, identificado como el Lote Número 7 del Bloque Número 13, el cual tiene una extensión superficial de Ciento Cincuenta y Tres Punto Treinta y Ocho Metros Cuadrados (153.38 Mts.2), en el cual se encuentra construida en calidad de mejoras una casa de habitación construida de bloque repellado y pulido, consta de tres cuartos, sala, comedor, cocina, puertas externas de metal e internas de madera de color, ventanas de celosías, dos baños, piso de terrazo, techo de zinc, muro perimetral, con servicios de agua potable, alcantarillado sanitario y energía eléctrica, inscrito a su favor bajo número matrícula: 758151 Asiento No. 2,3 del Instituto de la Propiedad, Oficina Registral de San Pedro Sula.
 
 CONSIDERANDO: Que habiéndose cumplimentado el procedimiento establecido en el Reglamento de Organización y Funcionamiento de la Dirección Nacional de Bienes del Estado, se emitió Resolución No. DNBE-015-2021, de fecha 10 de agosto del 2020, mediante la cual se autorizó a la Secretaría de Estado en el Despacho de Seguridad para adquirir el inmueble antes referido, hasta por un monto de QUINIENTOS CUARENTA Y SIETE MIL NOVECIENTOS CINCUENTA Y SIETE LEMPIRAS EXACTOS (L.547,957.00), de conformidad al avalúo practicado en el inmueble.
 
 POR TANTO:
 
-En uso de las facultades de que está investido, con fundamento en los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y Resolución No. DE-014- 2020 de fecha 10 de agosto del 2020, emitida por la Dirección Nacional de Bienes del Estado.
+En uso de las facultades de que está investido, con fundamento en los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y Resolución No. DE-014-2020 de fecha 10 de agosto del 2020, emitida por la Dirección Nacional de Bienes del Estado.
 
 ACUERDA:
 

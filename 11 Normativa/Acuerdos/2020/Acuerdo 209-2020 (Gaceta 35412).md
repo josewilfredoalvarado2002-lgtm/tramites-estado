@@ -11,7 +11,7 @@ paginas: "A. 9 - 11"
 sumario: "Acuerdos Ministeriales Nos. 206-2020, 207-2020, 208-2020, 209-2020, 210-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201028-35412/download"
 extraido: "2026-11-14"
-huella: "3879d384411d6929"
+huella: "91148dd127fd5fcc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 209-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Tratado de Libre Comercio entre Centroamérica y la Repúbl
 
 CONSIDERANDO: Que la República de Panamá se incorporó al Subsistema de Integración Económica Centroamericana mediante el Protocolo de Incorporación en el cual y de conformidad con lo establecido en el Artículo IV del Título VI (Disposiciones Transitorias) del Protocolo al Tratado General de Integración Centroamericana (Protocolo de Guatemala) suscrito el 29 de octubre de 1993, quedaron definidos los términos, plazos, condiciones y modalidades de su incorporación.
 
-CONSIDERANDO: Que mediante Anexo de la Resolución No.331-2013 del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Partes del Subsistema de Integración Económica con la República de Panamá.
+CONSIDERANDO: Que mediante Anexo de la Resolución No. 331-2013 del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Partes del Subsistema de Integración Económica con la República de Panamá.
 
 CONSIDERANDO: Que en el Apéndice I (Contingentes Arancelarios) de la lista al Anexo 3.04 (Programa de Desgravación Arancelaria, Sección A: Desgravación Arancelaria de Honduras) del Tratado de Libre Comercio Centroamérica – Panamá, quedaron negociadas las mercancías sujetas a contingentes arancelarios, las cuales fueron a su vez incorporadas en el Apéndice a los Anexos 4.2 y 4.3 del Protocolo de Incorporación de Panamá al Subsistema Económico de Integración Centroamericana, constituyendo así los contingentes de importación bilaterales aplicables de la República de Panamá a Honduras, siendo en lo aplicable, el Protocolo de incorporación de Panamá la normativa aplicable al régimen de contingentes a partir de la vigencia del mismo.
 

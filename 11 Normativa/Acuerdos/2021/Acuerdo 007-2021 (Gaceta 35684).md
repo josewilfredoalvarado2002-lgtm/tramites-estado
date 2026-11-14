@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo DGMM No. 007-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210811-35684/download"
 extraido: "2026-11-14"
-huella: "b721d74ed1af57ea"
+huella: "3619212956d26536"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 007-2021
@@ -33,19 +33,15 @@ CONSIDERANDO: Que Honduras es Parte en la Convención de las Naciones Unidas sob
 
 CONSIDERANDO: Que dentro de las reformas a la Ley Orgánica de la Marina Mercante Nacional aprobadas mediante Decreto No. 120-2016 y publicadas en el Diario Oficial “La Gaceta” en fecha 17 de diciembre del 2016, se contempla que los servicios marítimos y los correspondientes documentos que expida la Dirección General de la Marina Mercante (DGMM) a favor de personas naturales o jurídicas, nacionales y extranjeras causarán el pago de tasas y derechos de acuerdo con las tarifas establecidas en los reglamentos de dicha Ley; tomando como referencia la competitividad de la Dirección General de la Marina Mercante con respecto a la dinámica de la industria marítima internacional.
 
-CONSIDERANDO: Mediante Acuerdo No. 005-2018, la Dirección General de la Marina Mercante emitió el “REGLAMENTO DE SERVICIOS Y TARIFAS DE LA DIRECCIÓN GENERAL DE LA MARINA MERCANTE” el cual fue publicado en el Diario Oficial “La Gaceta” No.
-
-34,648 de fecha veinticuatro (24) de mayo del dos mil dieciocho (2018); sin embargo, por un error involuntario se publicó en ejemplar del Diario Oficial “La Gaceta" No.
-
-34,671 una fe de errata en fecha 20 de junio de 2018, en relación a los artículos 20 y 22 del referido Reglamento.
+CONSIDERANDO: Mediante Acuerdo No. 005-2018, la Dirección General de la Marina Mercante emitió el “REGLAMENTO DE SERVICIOS Y TARIFAS DE LA DIRECCIÓN GENERAL DE LA MARINA MERCANTE” el cual fue publicado en el Diario Oficial “La Gaceta” No. 34,648 de fecha veinticuatro (24) de mayo del dos mil dieciocho (2018); sin embargo, por un error involuntario se publicó en ejemplar del Diario Oficial “La Gaceta" No. 34,671 una fe de errata en fecha 20 de junio de 2018, en relación a los artículos 20 y 22 del referido Reglamento.
 
 CONSIDERANDO:
 
-Que es necesario revisar los servicios y esquemas tarifarios para la gente de mar, embarcaciones, plataformas fijas y demás artefactos que naveguen internacionalmente bajo la bandera hondureña, que fueron establecidos mediante Acuerdo DGMM No.005- 2018, en virtud que la naturaleza intrínseca del Registro Marítimo Abierto de Buques Mercantes tiene como premisas fundamentales el ofrecer expedités, capacidad de competencia y prever seguridad jurídica para las naves que naveguen portando la bandera hondureña, con miras a participar en condiciones de competitividad mercantil frente a otros Estados que tienen el mismo sistema de registro abierto en el seno de la Comunidad Marítima Internacional.
+Que es necesario revisar los servicios y esquemas tarifarios para la gente de mar, embarcaciones, plataformas fijas y demás artefactos que naveguen internacionalmente bajo la bandera hondureña, que fueron establecidos mediante Acuerdo DGMM No. 005-2018, en virtud que la naturaleza intrínseca del Registro Marítimo Abierto de Buques Mercantes tiene como premisas fundamentales el ofrecer expedités, capacidad de competencia y prever seguridad jurídica para las naves que naveguen portando la bandera hondureña, con miras a participar en condiciones de competitividad mercantil frente a otros Estados que tienen el mismo sistema de registro abierto en el seno de la Comunidad Marítima Internacional.
 
 POR TANTO
 
-La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere y en aplicación de los artículos 41, 43, 116 y 118 de la Ley General de la Administración Pública, artículos 1, 5, 91, 92 y 95 de la Ley Orgánica de la Marina Mercante Nacional y sus reformas mediante Decreto No. 120-2016; Acuerdo DGMM No.005- 2018 contentivo del Reglamento Internacional de Servicios y Tarifas de la Dirección General de la Marina Mercante de Honduras y demás artículos aplicables.
+La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere y en aplicación de los artículos 41, 43, 116 y 118 de la Ley General de la Administración Pública, artículos 1, 5, 91, 92 y 95 de la Ley Orgánica de la Marina Mercante Nacional y sus reformas mediante Decreto No. 120-2016; Acuerdo DGMM No. 005-2018 contentivo del Reglamento Internacional de Servicios y Tarifas de la Dirección General de la Marina Mercante de Honduras y demás artículos aplicables.
 
 ACUERDA:
 

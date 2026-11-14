@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250214-36766/download"
 extraido: "2026-11-13"
-huella: "0b1f787ef948d700"
+huella: "9ff67bf4c469c8b9"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,7 +33,7 @@ CERTIFICACIÓN, ACUERDO
 
 La infrascrita, Secretaria Municipal de Trinidad, departamento de Santa Bárbara. CERTIFICA: Que en los Libros de Actas que esta Municipalidad lleva concerniente al año 2022, se encuentra el Preámbulo, Punto y Parte final del acta que dice:
 
-ACTA No.17-2022 Sesión Ordinaria y Pública celebrada por la Corporación Municipal de Trinidad, departamento de Santa Bárbara, en el Salón de Sesiones de la Municipalidad el día miércoles quince de junio del año dos mil veintidós, presidida por el señor Alcalde Municipal Dr. Hedman Allan Paredes Paz, con asistencia de los ciudadanos Regidores y Regidoras, Primero Manuel Leopoldo Regalado Fernández;
+ACTA No. 17-2022 Sesión Ordinaria y Pública celebrada por la Corporación Municipal de Trinidad, departamento de Santa Bárbara, en el Salón de Sesiones de la Municipalidad el día miércoles quince de junio del año dos mil veintidós, presidida por el señor Alcalde Municipal Dr. Hedman Allan Paredes Paz, con asistencia de los ciudadanos Regidores y Regidoras, Primero Manuel Leopoldo Regalado Fernández;
 
 Segunda Rosa Filomena Madrid Rápalo; Tercera Karen Sofía Sabillón Delcid; Cuarto Javier Alexander Paz Paz;
 

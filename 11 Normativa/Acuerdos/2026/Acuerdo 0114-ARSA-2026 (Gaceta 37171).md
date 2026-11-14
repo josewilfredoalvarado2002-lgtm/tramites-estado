@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Número 0114-ARSA-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260618-37171/download"
 extraido: "2026-11-09"
-huella: "f3bb86f89102d43a"
+huella: "854f253a4a8fe047"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 0114-ARSA-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Comisión Interinstitucional de Reglamentación Técnica (C
 
 CONSIDERANDO: Que la oportuna intervención de la Comisión Interinstitucional de Reglamentación Técnica (CIRT) garantiza la aplicación efectiva de las Buenas Prácticas Regulatorias (BPR), que constituyen un conjunto de principios y procedimientos orientados a garantizar que las regulaciones sean necesarias, proporcionales, transparentes y eficaces, incorporando, entre otros elementos, mecanismos de participación y consulta pública que permitan a los sectores afectados y demás actores interesados formular observaciones y aportar información relevante durante el proceso regulatorio, fortaleciendo con ello la transparencia, la rendición de cuentas y la calidad de las decisiones administrativas.
 
-CONSIDERANDO: Que la Cámara de Comercio Hondureño Americana (AmCham Honduras) remitió Oficio No. 007-04- 26-DE de fecha 17 de abril 2026 al Comisionado Presidente Agencia de Regulación Sanitaria (ARSA), solicitando una revisión integral desde una perspectiva técnica, legal y acorde a la realidad nacional, del Acuerdo Número 0142-ARSA- 2025, contentivo de las “DISPOSICIONES GENERALES PARA LA REGULACIÓN DE LA PROMOCIÓN Y PUBLICIDAD SANITARIA”, en virtud de que diversos requisitos establecidos en dicho instrumento vigente carecen de un sustento técnico y jurídico claro, y que podría incidir negativamente en la comercialización de productos a nivel nacional y, a su vez, solicitan espacios de diálogo que permitan alcanzar consensos, en línea con los principios de transparencia y participación establecidos en los acuerdos de la Organización Mundial del Comercio sobre Obstáculos Técnicos al Comercio
+CONSIDERANDO: Que la Cámara de Comercio Hondureño Americana (AmCham Honduras) remitió Oficio No. 007-04-26-DE de fecha 17 de abril 2026 al Comisionado Presidente Agencia de Regulación Sanitaria (ARSA), solicitando una revisión integral desde una perspectiva técnica, legal y acorde a la realidad nacional, del Acuerdo Número 0142-ARSA-2025, contentivo de las “DISPOSICIONES GENERALES PARA LA REGULACIÓN DE LA PROMOCIÓN Y PUBLICIDAD SANITARIA”, en virtud de que diversos requisitos establecidos en dicho instrumento vigente carecen de un sustento técnico y jurídico claro, y que podría incidir negativamente en la comercialización de productos a nivel nacional y, a su vez, solicitan espacios de diálogo que permitan alcanzar consensos, en línea con los principios de transparencia y participación establecidos en los acuerdos de la Organización Mundial del Comercio sobre Obstáculos Técnicos al Comercio
 
 (OTC) y Medidas Sanitarias y Fitosanitarias (MSF), de los cuales Honduras es signataria, fomentando la apertura de mesas de trabajo, armonización normativa y la participación de todos los sectores público, privado, academia y consumidores, así como la definición de plazos de implementación razonables, especialmente en regulaciones que impactan directamente la actividad económica. En tal sentido, instan evaluar y reconsiderar tanto la implementación como el contenido del Reglamento en Materia de Publicidad Sanitaria, sobre todo porque su elaboración no contó con la participación amplia de los sectores directamente afectados.
 

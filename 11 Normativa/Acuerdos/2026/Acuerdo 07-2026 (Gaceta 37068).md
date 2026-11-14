@@ -11,7 +11,7 @@ paginas: "A. 25 - 30"
 sumario: "Acuerdos Nos. CREE-04-2026, CREE-07-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260212-37068/download"
 extraido: "2026-11-09"
-huella: "f848e976f6ec1cfb"
+huella: "1aacc9a38d4367f8"
 ---
 <!-- portal:inicio -->
 # ACUERDO CREE No. 07-2026
@@ -41,7 +41,7 @@ Resultando:
 
 (11) de abril de dos mil veinticinco (2025), la CREE aprobó de manera condicionada el procedimiento y fórmulas de ajuste que se aplicaran en la estructura tarifaria de la ENEE, que se aplica a los usuarios finales en el municipio de Guanaja.
 
-5. Que mediante el acuerda TERCERO del Acuerdo CREE- 146-2025 de fecha treinta y uno (31) de octubre de dos mil veinticinco (2025) la CREE estableció lo siguiente:
+5. Que mediante el acuerda TERCERO del Acuerdo CREE-146-2025 de fecha treinta y uno (31) de octubre de dos mil veinticinco (2025) la CREE estableció lo siguiente:
 
 “Aprobar un ajuste a la estructura tarifaria transitoria para la facturación que debe aplicar la ENEE a sus usuarios finales en el municipio de Guanaja a partir del mes de noviembre de dos mil veinticinco (2025), de conformidad con la tabla siguiente:
 
@@ -49,7 +49,7 @@ Cargo Fijo Precio de la L/abonado-m L/kW-mes L/kWh Servicio en Baja Tensión 77.
 
 6. Que en fecha treinta (30) de enero de dos mil veintiséis (2026), la Dirección de Regulación, a través del Departamento de Tarifas, mediante memorándum número DR-02-2026, informó a la Dirección de Asesoría Jurídica que, durante el proceso de revisión de la documentación presentada por la ENEE, correspondiente al ajuste trimestral al costo base de generación y su consecuente estructura tarifaria, el Departamento de Tarifas formuló una serie de requerimientos a la ENEE, a fin de que esta subsanara aspectos necesarios para poder emitir el pronunciamiento técnico correspondiente; que, a la fecha de emisión del referido memorándum, no se había recibido respuesta por parte de la ENEE ni se había presentado el costo base de generación previsto; y que dichos elementos resultan indispensables para determinar el ajuste al costo base de generación y su consecuente estructura tarifaria. Debido a lo anterior, el memorándum concluye que resulta materialmente imposible calcular el ajuste correspondiente que debe aplicarse a partir de febrero de dos mil veintiséis (2026). Que en el archivo de la Comisión Reguladora de Energía Eléctrica consta la documentación correspondiente sobre los costos incurridos en los meses de julio, agosto y septiembre 2025 correspondientes al presente ajuste.
 
-7. Que mediante oficio número CREE-044-2026 de fecha veintinueve (29) de enero de dos mil veintiséis (2026) la CREE informó y solicitó a la ENEE lo siguiente: “Esta Comisión Reguladora, en atención a los hechos recientes relacionados con la renuncia del Ing. Erick Tejada y considerando que, conforme al Oficio No. GGENEE- 786-IX-2022, de fecha ocho (08) de septiembre de dos mil veintidós (2022), se remitió a esta Comisión la delegación de representación otorgada por el Ing. Erick Medardo Tejada Carbajal, en su calidad de Gerente Interino de la Empresa Nacional de Energía Eléctrica (ENEE), mediante la cual se establecía expresamente que las facultades relacionadas con la delegación de firma y revisión de documentos dirigidos a esta Comisión Reguladora de Energía Eléctrica (CREE) estarían vigentes únicamente durante el período en que el Dr. Erick Medardo Tejada Carbajal desempeñara el cargo de Gerente Interino de la ENEE.
+7. Que mediante oficio número CREE-044-2026 de fecha veintinueve (29) de enero de dos mil veintiséis (2026) la CREE informó y solicitó a la ENEE lo siguiente: “Esta Comisión Reguladora, en atención a los hechos recientes relacionados con la renuncia del Ing. Erick Tejada y considerando que, conforme al Oficio No. GGENEE-786-IX-2022, de fecha ocho (08) de septiembre de dos mil veintidós (2022), se remitió a esta Comisión la delegación de representación otorgada por el Ing. Erick Medardo Tejada Carbajal, en su calidad de Gerente Interino de la Empresa Nacional de Energía Eléctrica (ENEE), mediante la cual se establecía expresamente que las facultades relacionadas con la delegación de firma y revisión de documentos dirigidos a esta Comisión Reguladora de Energía Eléctrica (CREE) estarían vigentes únicamente durante el período en que el Dr. Erick Medardo Tejada Carbajal desempeñara el cargo de Gerente Interino de la ENEE.
 
 En virtud de lo anteriormente expuesto, mediante el presente oficio se solicita formalmente se informe a esta Comisión la persona que actualmente ostenta la delegación de firma y revisión de los documentos relacionados con la Comisión Reguladora de Energía Eléctrica (CREE), toda vez que resulta imprescindible contar con dicha aclaración, en atención a que esta Comisión se encuentra próxima a efectuar el ajuste trimestral correspondiente al costo base de generación y a la estructura tarifaria de la energía eléctrica que la Empresa Nacional de Energía Eléctrica (ENEE) aplica a los usuarios finales en la isla de Guanaja.
 

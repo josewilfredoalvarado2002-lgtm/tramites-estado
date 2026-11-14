@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo Ministerial No. 039-SEDESOL-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221028-36062/download"
 extraido: "2026-11-14"
-huella: "e697e58db0a51330"
+huella: "ca5e0f986f804f99"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 039-SEDESOL-2022
@@ -57,7 +57,7 @@ CONSIDERANDO: Que tras la creación de la Secretaría de Estado en el Despacho d
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-019-2022 se desarrollan las atribuciones de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL); en su Artículo 10 establece que la SEDESOL emitirá las normas necesarias para el funcionamiento de sus dependencias u órganos internos.
 
-CONSIDERANDO: Que el literal a) del Artículo 1 del Decreto Ejecutivo Número PCM-019- 2022 establece a la SEDESOL como ente rector de las Políticas Públicas de Desarrollo y Protección Social; m) del citado cuerpo legal establece que dentro de sus funciones está la de diseñar y aprobar políticas públicas, planes, estrategias, programas y proyectos en materia de desarrollo y protección social de las políticas sociales y de los programas y proyectos que se deriven y que garanticen la efectiva implementación de la presente Ley.
+CONSIDERANDO: Que el literal a) del Artículo 1 del Decreto Ejecutivo Número PCM-019-2022 establece a la SEDESOL como ente rector de las Políticas Públicas de Desarrollo y Protección Social; m) del citado cuerpo legal establece que dentro de sus funciones está la de diseñar y aprobar políticas públicas, planes, estrategias, programas y proyectos en materia de desarrollo y protección social de las políticas sociales y de los programas y proyectos que se deriven y que garanticen la efectiva implementación de la presente Ley.
 
 CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo Número PCM-020-2022, para el desarrollo eficiente y eficaz de la entidad, PROASOL podrá contener en sus programas y proyectos, de acuerdo con el diseño previsto en sus ejes, las siguientes líneas de acción:
 
@@ -85,7 +85,7 @@ CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo Número PC
 
 POR TANTO:
 
-En uso de las facultades que está investida y en aplicación de los Artículos 1, 245 y 247 de la Constitución de la República, 14 y 36 de la Ley General de la Administración Pública, el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo Número PCM-008-97; Decreto 266-2013 que reforma el artículo 28 de la Ley General de la Administración Pública y Decretos Ejecutivos Número PCM-005-2022, PCM-019-2022. PCM- 020-2022.
+En uso de las facultades que está investida y en aplicación de los Artículos 1, 245 y 247 de la Constitución de la República, 14 y 36 de la Ley General de la Administración Pública, el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo Número PCM-008-97; Decreto 266-2013 que reforma el artículo 28 de la Ley General de la Administración Pública y Decretos Ejecutivos Número PCM-005-2022, PCM-019-2022. PCM-020-2022.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 6 - 28"
 sumario: "Acuerdo No. SAG-272-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260722-37200/download"
 extraido: "2026-11-09"
-huella: "d315bdf0e9a143c2"
+huella: "77762bf869b75ffa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-272-2026
@@ -123,7 +123,7 @@ En aplicación a los artículos 272 párrafo primero y segundo, 273 y 274 párra
 
 \4) inciso a), 68 y 69 numeral 1) de la Ley Constitutiva de las Fuerzas Armadas y demás aplicables al caso en mención.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO:
 
@@ -135,7 +135,7 @@ El presente Acuerdo entra en vigencia a partir del día de su publicación en el
 
 Dado en la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los siete (07) días del mes de julio del año dos mil veintiséis (2026).
 
-ABOGADO ENRIQUE RODRÍGUEZ BURCHARD SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL JOSÉ MIGUEL VILLEDA VILLELA SECRETARIO GENERAL DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Banco Hondureño para la Producción y la Vivienda (BANHPROVI) RESOLUCIÓN-CD-135-22-07/2026 El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96- 15-05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-22/2026, contentiva de la sesión ordinaria celebrada el 9 de julio de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓN-CD-135-22-07/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar el Reglamento de Disponibilidad de Fondos y Gestión de Liquidez Operativa del Banco Hondureño para la Producción y la Vivienda (Banhprovi), el que se leerá así:
+ABOGADO ENRIQUE RODRÍGUEZ BURCHARD SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL JOSÉ MIGUEL VILLEDA VILLELA SECRETARIO GENERAL DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Banco Hondureño para la Producción y la Vivienda (BANHPROVI) RESOLUCIÓN-CD-135-22-07/2026 El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15-05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-22/2026, contentiva de la sesión ordinaria celebrada el 9 de julio de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓN-CD-135-22-07/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar el Reglamento de Disponibilidad de Fondos y Gestión de Liquidez Operativa del Banco Hondureño para la Producción y la Vivienda (Banhprovi), el que se leerá así:
 
 REGLAMENTO DE DISPONIBILIDAD DE FONDOS Y GESTIÓN DE LIQUIDEZ OPERATIVA DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI)
 
@@ -161,7 +161,7 @@ CAPÍTULO II MARCO LEGAL Y NORMATIVO
 
 #### Artículo 4
 
-Artículo 4. Marco legal aplicable. El presente Reglamento se fundamenta en: 1) La Ley del Banco Hondureño para la Producción y la Vivienda (Decreto Legislativo No. 6-2005) y sus reformas, en particular el Decreto Legislativo No. 358- 2014; 2) El Reglamento de la Ley del Banhprovi, reformado mediante publicación en el Diario Oficial La Gaceta No. 36,865 del dieciséis (16) de junio de dos mil veinticinco (2025); 3) La Ley del Sistema Financiero; 4) La Ley de la Comisión Nacional de Bancos y Seguros; 5) La Ley del Banco Central de Honduras; 6) La Ley Especial contra el Lavado de Activos;
+Artículo 4. Marco legal aplicable. El presente Reglamento se fundamenta en: 1) La Ley del Banco Hondureño para la Producción y la Vivienda (Decreto Legislativo No. 6-2005) y sus reformas, en particular el Decreto Legislativo No. 358-2014; 2) El Reglamento de la Ley del Banhprovi, reformado mediante publicación en el Diario Oficial La Gaceta No. 36,865 del dieciséis (16) de junio de dos mil veinticinco (2025); 3) La Ley del Sistema Financiero; 4) La Ley de la Comisión Nacional de Bancos y Seguros; 5) La Ley del Banco Central de Honduras; 6) La Ley Especial contra el Lavado de Activos;
 
 \7) El Código de Comercio; 8) Las Normas para la Gestión del Riesgo de Liquidez contenidas en la Resolución GES No.
 
@@ -403,9 +403,7 @@ Artículo 37. Seguimiento, revisión y actualización. La Secretaría del Comit�
 
 CONTROL DE VERSIONES
 
-Descripción del cambio Resolución de CD Fecha No.
-
-01 Reglamento de Disponibilidad de Fondos y Gestión de Liquidez Operativa del Banhprovi.
+Descripción del cambio Resolución de CD Fecha No. 01 Reglamento de Disponibilidad de Fondos y Gestión de Liquidez Operativa del Banhprovi.
 
 2. Instruir a la Secretaría del Consejo Directivo certificar la presente resolución e instruir a la División de Apoyo Estratégico y Administrativo que gestione la publicación del Reglamento de Disponibilidad de Fondos y Gestión de Liquidez Operativa del Banco Hondureño para la Producción y la Vivienda (Banhprovi) en el Diario Oficial La Gaceta.
 

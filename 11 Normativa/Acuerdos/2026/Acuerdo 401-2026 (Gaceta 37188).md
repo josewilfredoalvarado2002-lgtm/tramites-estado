@@ -11,7 +11,7 @@ paginas: "A. 10 - 22"
 sumario: "Acuerdo No. 401-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260708-37188/download"
 extraido: "2026-11-09"
-huella: "a3df7aa7f40055fa"
+huella: "3297615caddd55a8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 401-2026
@@ -45,9 +45,7 @@ CONSIDERANDO (4):
 
 Que el artículo 247 de la Constitución de la República estatuye que, los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la Administración pública nacional, en el área de su competencia.
 
-CONSIDERANDO (5): Que el artículo 11 de la Ley General de la Administración Pública contenida en el Decreto Legislativo No.
-
-146-86 dispone que, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública centralizada y descentralizada.
+CONSIDERANDO (5): Que el artículo 11 de la Ley General de la Administración Pública contenida en el Decreto Legislativo No. 146-86 dispone que, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública centralizada y descentralizada.
 
 CONSIDERANDO (6):
 
@@ -337,9 +335,7 @@ ARTÍCULO 37. Los Organismos Desconcentrados y Descentralizados deberán adaptar
 
 #### Artículo 38
 
-ARTÍCULO 38. El presente Reglamento entrará en vigencia a partir del día de su publicación en el Diario Oficial "La Gaceta" y deja sin valor ni efecto el Acuerdo Ejecutivo No.
-
-0696 de fecha 27 de octubre de 2008.
+ARTÍCULO 38. El presente Reglamento entrará en vigencia a partir del día de su publicación en el Diario Oficial "La Gaceta" y deja sin valor ni efecto el Acuerdo Ejecutivo No. 0696 de fecha 27 de octubre de 2008.
 
 COMUNÍQUESE Y PUBLÍQUESE.
 

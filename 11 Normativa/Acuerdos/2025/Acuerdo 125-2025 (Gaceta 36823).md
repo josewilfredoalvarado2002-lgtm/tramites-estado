@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. 125-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250426-36823/download"
 extraido: "2026-11-11"
-huella: "5352ecebf8947f73"
+huella: "1603bf536202ba7d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 125-2025
@@ -51,13 +51,11 @@ Que el Soberano Congreso Nacional por medio del Decreto Legislativo No. 192-2004
 
 CONSIDERANDO:
 
-Que, la Ley Especial para el Control del Tabaco contenida en el Decreto Legislativo No.
-
-92-2010 conceptualiza como productos derivados del tabaco, a aquellos productos derivados del tabaco preparados totalmente o en parte, utilizando como materia prima hojas de tabaco destinados a ser fumados, chupados, mascados, inhalados o consumidos por cualquier otra vía de administración, incluyendo los cigarrillos electrónicos, estableciendo en su artículo 10 que corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas elaborar y reglamentar las políticas tributarias y fiscales apropiadas para dar cumplimiento a esta Ley.
+Que, la Ley Especial para el Control del Tabaco contenida en el Decreto Legislativo No. 92-2010 conceptualiza como productos derivados del tabaco, a aquellos productos derivados del tabaco preparados totalmente o en parte, utilizando como materia prima hojas de tabaco destinados a ser fumados, chupados, mascados, inhalados o consumidos por cualquier otra vía de administración, incluyendo los cigarrillos electrónicos, estableciendo en su artículo 10 que corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas elaborar y reglamentar las políticas tributarias y fiscales apropiadas para dar cumplimiento a esta Ley.
 
 CONSIDERANDO:
 
-Que el Decreto No.17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público aprobado el 28 de marzo de 2010 y sus reformas, en su artículo 23 reformó el artículo 1 del Decreto No. 106 del 30 de junio de 1955 y sus reformas, creando un Impuesto Específico Único sobre el Consumo de cigarrillos en el territorio nacional, el cual se aplica en una sola etapa de comercialización, a nivel de fábrica o al momento de la importación, de forma generalizada tanto para los cigarrillos producidos nacionalmente como para los importados.
+Que el Decreto No. 17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público aprobado el 28 de marzo de 2010 y sus reformas, en su artículo 23 reformó el artículo 1 del Decreto No. 106 del 30 de junio de 1955 y sus reformas, creando un Impuesto Específico Único sobre el Consumo de cigarrillos en el territorio nacional, el cual se aplica en una sola etapa de comercialización, a nivel de fábrica o al momento de la importación, de forma generalizada tanto para los cigarrillos producidos nacionalmente como para los importados.
 
 CONSIDERANDO:
 
@@ -75,11 +73,11 @@ Que el Banco Central de Honduras, mediante publicación efectuada en su página 
 
 CONSIDERANDO:
 
-Que de conformidad con lo establecido en el artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM- 008-97 reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta de fecha 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña
+Que de conformidad con lo establecido en el artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta de fecha 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña
 
 CONSIDERANDO:
 
-Que el Reglamento para la aplicación, administración, cobro y entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico Sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No.005-2017 publicado en el Diario Oficial La Gaceta de fecha 06 de marzo de 2017, en el artículo 26 establece que a partir del año 2018, dicho reglamento debe ser actualizado mediante Acuerdo Ministerial de la Secretaría de Estado en el Despacho de Finanzas atendiendo el marco legal vigente.
+Que el Reglamento para la aplicación, administración, cobro y entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico Sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No. 005-2017 publicado en el Diario Oficial La Gaceta de fecha 06 de marzo de 2017, en el artículo 26 establece que a partir del año 2018, dicho reglamento debe ser actualizado mediante Acuerdo Ministerial de la Secretaría de Estado en el Despacho de Finanzas atendiendo el marco legal vigente.
 
 POR TANTO:
 

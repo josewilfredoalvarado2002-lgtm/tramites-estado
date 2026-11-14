@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdos Ministeriales Nos. 029-2023, 030-2023, 031-2023, 032-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230428-36215/download"
 extraido: "2026-11-14"
-huella: "ce758bea4a572b6c"
+huella: "2b7955a48492a1f9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 032-2023
@@ -29,7 +29,7 @@ huella: "ce758bea4a572b6c"
 
 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO
 
-CONSIDERANDO: Que mediante Decreto No. 266- 2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
+CONSIDERANDO: Que mediante Decreto No. 266-2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en el Artículo 36 de la Ley General de la Administración Pública el conocimiento y resolución de los asuntos del ramo, pudiendo delegar el conocimiento de atribuciones específicas en los Subsecretarios, Secretarios Generales y Directores Generales.
 

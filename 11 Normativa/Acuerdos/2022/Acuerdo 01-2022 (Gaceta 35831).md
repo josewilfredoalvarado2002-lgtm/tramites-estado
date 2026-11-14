@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Acuerdos Nos. 01/2022, 02/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220125-35831/download"
 extraido: "2026-11-14"
-huella: "994cfc146d2079ac"
+huella: "a1cec5d9d2022f74"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.01/2022.- Sesión No.3951 del 13 de enero de 2022.-
@@ -31,7 +31,7 @@ EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de conformidad con la Constitución de la República y la Ley del Sistema Financiero, corresponde al Banco Central de Honduras (BCH) reglamentar, autorizar y aprobar el otorgamiento de préstamos, descuentos, avales y demás operaciones de crédito, comisiones, gratificaciones o bonificaciones de cualquier clase que las instituciones bancarias, financieras y aseguradoras otorguen a sus accionistas mayoritarios, directores y funcionarios, así como a las sociedades donde éstos tengan participación mayoritaria.
 
-CONSIDERANDO: Que mediante Acuerdo No.04/2016 del 9 de noviembre de 2016, el BCH aprobó el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas.
+CONSIDERANDO: Que mediante Acuerdo No. 04/2016 del 9 de noviembre de 2016, el BCH aprobó el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas.
 
 CONSIDERANDO:
 
@@ -51,7 +51,7 @@ Con fundamento en los artículos 343 de la Constitución de la República;
 
 6 y 16, literal e) de la Ley del Banco Central de Honduras; 3 y 62 de la Ley del Sistema Financiero y oídas las opiniones de la Comisión Nacional de Bancos y Seguros y de la Subgerencia de Estudios Económicos y del Departamento Jurídico de esta Institución.
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -569,7 +569,7 @@ CAPÍTULO XIV DISPOSICIONES TRANSITORIAS
 
 #### Artículo 36
 
-Artículo 36. Disposiciones Transitorias. Aquellos créditos otorgados a partes relacionadas que requieran de autorización posterior del BCH y que hayan sido antes de la entrada en vigencia del presente Reglamento, así como aquellas solicitudes de créditos a partes relacionadas que se estén tramitando en esta Institución, se resolverán de acuerdo con las normas establecidas en el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas contenido en el Acuerdo No.04/2016 del 9 de noviembre de 2016.
+Artículo 36. Disposiciones Transitorias. Aquellos créditos otorgados a partes relacionadas que requieran de autorización posterior del BCH y que hayan sido antes de la entrada en vigencia del presente Reglamento, así como aquellas solicitudes de créditos a partes relacionadas que se estén tramitando en esta Institución, se resolverán de acuerdo con las normas establecidas en el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas contenido en el Acuerdo No. 04/2016 del 9 de noviembre de 2016.
 
 CAPÍTULO XV DISPOSICIONES FINALES
 
@@ -587,7 +587,7 @@ Artículo 39. Casos no Previstos. Lo no previsto en este Reglamento será resuel
 
 #### Artículo 40
 
-Artículo 40. Derogatoria. Salvo para efectos de lo establecido en el Artículo 31, derogar el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas contenido en el Acuerdo No.04/2016, emitido por el Directorio del BCH el 9 de noviembre de 2016.
+Artículo 40. Derogatoria. Salvo para efectos de lo establecido en el Artículo 31, derogar el Reglamento para las Operaciones de Crédito de las Instituciones Financieras con Partes Relacionadas contenido en el Acuerdo No. 04/2016, emitido por el Directorio del BCH el 9 de noviembre de 2016.
 
 #### Artículo 41
 

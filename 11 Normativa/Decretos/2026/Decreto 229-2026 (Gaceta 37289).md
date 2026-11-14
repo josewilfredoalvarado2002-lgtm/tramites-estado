@@ -11,7 +11,7 @@ paginas: "A. 9 - 11"
 sumario: "Decretos Nos. 222-2026, 223-2026, 2282026, 229-2026, 231-2026, 232-2026, 2332026, 256-2026, 269-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "9a29360c39b79e17"
+huella: "350e241bba4197e3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 229-2026
@@ -37,13 +37,13 @@ CONSIDERANDO: Que la Corporación Municipal de La Masica, en sesión ordinaria c
 
 CONSIDERANDO: Que conforme a Cotización correspondiente a un Vehículo Marca TOYOTA, Modelo HILUX 2.4 DC 4X4, Año 2026, Combustible DIÉSEL, Transmisión Manual de seis (6) velocidades, Capacidad para cinco (5) pasajeros y Precio especial cotizado de TREINTA Y OCHO MIL QUINIENTOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$38,500.00).
 
-CONSIDERANDO: Que los artículos 11 numeral 2), 17, 19, 20 y 21 del Código Tributario, contenido en el Decreto No.170-2016, reservan al Congreso Nacional el otorgamiento de exoneraciones y disponen que éstas deben identificar con claridad su objetivo, sujeto beneficiario, requisitos, plazo y tributos dispensados.
+CONSIDERANDO: Que los artículos 11 numeral 2), 17, 19, 20 y 21 del Código Tributario, contenido en el Decreto No. 170-2016, reservan al Congreso Nacional el otorgamiento de exoneraciones y disponen que éstas deben identificar con claridad su objetivo, sujeto beneficiario, requisitos, plazo y tributos dispensados.
 
 CONSIDERANDO: Que los artículos 205 Atribución 35) y 351) de la Constitución de la República de Honduras, atribuyen al Congreso Nacional la potestad de establecer impuestos y contribuciones y garantizar la observancia del principio de legalidad tributaria; por lo que resulta procedente emitir una autorización especial que facilite la adquisición del vehículo institucional y defina de manera expresa el alcance del beneficio fiscal otorgado.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

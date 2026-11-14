@@ -11,7 +11,7 @@ paginas: "A. 32 - 36"
 sumario: "Acuerdos Nos. SAG-053-2026, SAG-095-2026, 094-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260506-37134/download"
 extraido: "2026-11-09"
-huella: "7c45a56a32c3cb5b"
+huella: "52fb79f004716ed4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 094-2026
@@ -59,7 +59,7 @@ Especies/Recurso Nombre científico Inicio de veda Finalización de veda Disposi
 
 Notificación obligatoria 48 h antes del atraque para inventario de aparejos.
 
-Cumplimiento del Acuerdo Ministerial SAG 086-2025 y Reglamento Regional OSP- 02-09.
+Cumplimiento del Acuerdo Ministerial SAG 086-2025 y Reglamento Regional OSP-02-09.
 
 Camarón blanco Litopenaeus schmitti 01 de marzo de 2026 (00:00 h) 30 de junio de 2026 (23:59 h) Apertura condicionada a resultados de muestreos de talla comercial realizados por DIGEPESCA.
 

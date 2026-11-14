@@ -11,7 +11,7 @@ paginas: "A. 10"
 sumario: "Acuerdos Ejecutivos Nos. 056-2024, 60-2024, 65-2024, 66-2024, 67-2024,68-2024, 70-2024, 71-2024, 72-2024, 77-2024, 90-2024, 91-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240408-36503/download"
 extraido: "2026-11-14"
-huella: "24d11ed8547a4b17"
+huella: "5a7bb526abc5b22e"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 77-2024
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 41-2023, publicado en el Diario Oficial La Gaceta en fecha 13 de octubre 2023 (Edición No. 36,357).
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41-2023, publicado en el Diario Oficial La Gaceta en fecha 13 de octubre 2023 (Edición No. 36,357).
 
 ACUERDA
 

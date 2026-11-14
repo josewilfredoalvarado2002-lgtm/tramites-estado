@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. 215-B-2022, 542-A-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220820-36007/download"
 extraido: "2026-11-14"
-huella: "d70cb26c9be1cd6d"
+huella: "a20708804e25e9ab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 542-A-2022
@@ -43,9 +43,7 @@ POR TANTO:
 
 En aplicación de los artículos 321 y 323 de la Constitución de la República de Honduras; 2, 33, 34, 36 numeral 8), 116, 118, 119, 122 y 123 de la Ley General de Administración Pública; 1, 3, 4, 5, 22, 23, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; 2 de la Ley Simplificación Administrativa; 23 y 35 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
-PRIMERO: Delegar en el ciudadano EBER DAVID DURÓN TRIMINIO, con documento nacional de identificación No.
-
-0801-1981-22639, las funciones inherentes al cargo de Encargado de Unidad Local de Bienes, de esta Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, a partir de la fecha del once (11) de julio del presente año.
+PRIMERO: Delegar en el ciudadano EBER DAVID DURÓN TRIMINIO, con documento nacional de identificación No. 0801-1981-22639, las funciones inherentes al cargo de Encargado de Unidad Local de Bienes, de esta Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, a partir de la fecha del once (11) de julio del presente año.
 
 SEGUNDO: El ciudadano EBER DAVID DURÓN TRIMINIO, será responsable por el ejercicio de la facultad de la firma que le ha sido delegada por dicho período.
 

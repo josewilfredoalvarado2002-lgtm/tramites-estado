@@ -11,7 +11,7 @@ paginas: "A. 69 - 108"
 sumario: "Decretos Nos. 18-2025, 22-2025, 35-2025,36-2025, 37-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250529-36850/download"
 extraido: "2026-11-10"
-huella: "c840c6ceee4e1112"
+huella: "047cceaac0eb3355"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2025
@@ -31,7 +31,7 @@ CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con el artículo 205, numerales 1, 19 y 36 de la Constitución de la República corresponde Congreso Nacional entre otros, crear, decretar, interpretar, reformar y derogar las leyes; aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
-CONSIDERANDO: Que mediante Decreto No.17-2010 de fecha 22 de Abril de 2010, en su Artículo 70; el Congreso Nacional de la República, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que mediante Decreto No. 17-2010 de fecha 22 de Abril de 2010, en su Artículo 70; el Congreso Nacional de la República, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que la Presidenta Iris Xiomara Castro Sarmiento, con el objeto de fortalecer y promover la justicia de género, la igualdad de derechos y oportunidades plenas para las mujeres en la vida política, cultural, económica, social y en el desarrollo sostenible del país, así como la eliminación de toda forma de discriminación, exclusión y violencia por razones de género u otra forma lesiva a la dignidad humana de las mujeres, creó mediante Decreto Ejecutivo número PCM 05-2022 artículo 3, la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER).
 
@@ -49,7 +49,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. CONTRATO DE PRÉSTAMO ENTRE República de Honduras y Corporación Andina de Fomento.
 
-Conste por el presente documento el Contrato de Préstamo que se celebra entre la Corporación Andina de Fomento (en adelante, “CAF”), representada en este acto por el señor Maximiliano Ricardo Alonso, de nacionalidad belga e identificado con pasaporte número ER026875; debidamente facultado para ello mediante documento poder presentado ante la Lic. Zuleika Inés Carrera Yee, Notario Público Sexta del Circuito de Panamá, con cédula No. 8-451-391, en fecha 14 de noviembre de 2024, debidamente apostillado en fecha 20 de noviembre de 2024, bajo el número 2024-22379; y de la otra parte, República de Honduras (en adelante, el “Prestatario”), representado en este acto por Christian David Duarte Chávez, de nacionalidad hondureña e identificado con Documento Nacional de Identificación, número 0801-1991-24487, en su calidad de Secretario de Estado en el Despacho de Finanzas de la República de Honduras; debidamente facultado para ello mediante Acuerdo Ejecutivo de fecha 11 de septiembre de 2024, y cuyo nombramiento se evidencia en Acuerdo Ejecutivo No.201-2024, en adelante y conjuntamente las Partes, en los términos y condiciones que a continuación se señalan:
+Conste por el presente documento el Contrato de Préstamo que se celebra entre la Corporación Andina de Fomento (en adelante, “CAF”), representada en este acto por el señor Maximiliano Ricardo Alonso, de nacionalidad belga e identificado con pasaporte número ER026875; debidamente facultado para ello mediante documento poder presentado ante la Lic. Zuleika Inés Carrera Yee, Notario Público Sexta del Circuito de Panamá, con cédula No. 8-451-391, en fecha 14 de noviembre de 2024, debidamente apostillado en fecha 20 de noviembre de 2024, bajo el número 2024-22379; y de la otra parte, República de Honduras (en adelante, el “Prestatario”), representado en este acto por Christian David Duarte Chávez, de nacionalidad hondureña e identificado con Documento Nacional de Identificación, número 0801-1991-24487, en su calidad de Secretario de Estado en el Despacho de Finanzas de la República de Honduras; debidamente facultado para ello mediante Acuerdo Ejecutivo de fecha 11 de septiembre de 2024, y cuyo nombramiento se evidencia en Acuerdo Ejecutivo No. 201-2024, en adelante y conjuntamente las Partes, en los términos y condiciones que a continuación se señalan:
 
 CAPÍTULO I
 
@@ -1041,23 +1041,19 @@ Programa Red Solidaria
 
 Iniciativa que establece un diagnóstico situacional de los pueblos originarios y afrohondureños, así como los lineamientos para la formulación de la política pública para dicho segmento poblacional.
 
-Iniciativa de formulación de la política pública integral hacia los pueblos originarios y afrohondureños diagnosticadas con cáncer de mama y están en proceso de tratamiento a nivel nacional (PROASOL) ACUERDO NO. CSJ 01- 2023 PROPUESTA DE POLÍTICA NACIONAL DE LA MUJER DECRETO NO. 9-2023 -
+Iniciativa de formulación de la política pública integral hacia los pueblos originarios y afrohondureños diagnosticadas con cáncer de mama y están en proceso de tratamiento a nivel nacional (PROASOL) ACUERDO NO. CSJ 01-2023 PROPUESTA DE POLÍTICA NACIONAL DE LA MUJER DECRETO NO. 9-2023 -
 
 18.526 personas con discapacidad beneficiadas con atención en salud, educación y ayudas técnicas, lideradas por la SEDESOL -
 
 30.000 personas con discapacidad beneficiarias de transferencia monetaria a personas en condición de desplazamiento forzado, afectadas por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc. (PROASOL) - 38 Unidades Municipales de Discapacidad (SEDESOL)
 
-DECRETO EJECUTIVO No.
-
-PCM-20-2022
+DECRETO EJECUTIVO No. PCM-20-2022
 
 ACUERDO MINISTERIAL 010-SEDESOL-2022 INFORME DE RESULTADOS DEL SECTOR SOCIAL 2023 - 500 de becas otorgadas del Fondo “Félix Vásquez” (SEDESOL) -
 
 165.358 hogares pertenecientes a grupos étnicos registrados en el Registro Sistema de Beneficiarios de Honduras
 
-DECRETO EJECUTIVO No.
-
-PCM-08-2022 BASES PARA LA CONSTRUCCIÓN DE UNA NUEVA POLÍTICA PÚBLICA INTEGRAL HACIA LOS PUEBLOS ORIGINARIOS Y AFROHONDUREÑOS Se define el proceso de carnetización y atención a los Buzos Miskitos con discapacidad en los Municipios del Departamento de Gracias A Dios.
+DECRETO EJECUTIVO No. PCM-08-2022 BASES PARA LA CONSTRUCCIÓN DE UNA NUEVA POLÍTICA PÚBLICA INTEGRAL HACIA LOS PUEBLOS ORIGINARIOS Y AFROHONDUREÑOS Se define el proceso de carnetización y atención a los Buzos Miskitos con discapacidad en los Municipios del Departamento de Gracias A Dios.
 
 Carnetización y atención a los Buzos Miskitos Creación del fondo destinado a atender y dar respuesta a las solicitudes de becas para beneficiar a estudiantes que pertenecen a los pueblos indígenas y afrohondureños para que se puedan trasladar a vivir a las ciudades donde se encuentran las universidades públicas o privadas.
 

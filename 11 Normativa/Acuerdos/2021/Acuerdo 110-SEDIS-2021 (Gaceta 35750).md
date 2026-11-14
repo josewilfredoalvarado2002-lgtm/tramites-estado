@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdo Ministerial número 110-SEDIS-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211019-35750/download"
 extraido: "2026-11-14"
-huella: "660f913ec89fd386"
+huella: "3cdcad152df494b9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO 110-SEDIS-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el acápite Cuarto del Acuerdo Ministerial 074-SEDIS-2019 medi
 
 POR TANTO:
 
-El Secretario de Estado en el Despacho de Desarrollo e Inclusión Social. En el ejercicio de las atribuciones que le confieren los Artículos 246 de la Constitución de la República: 29 numeral 4), 30, 33, 36 numerales 2), 5), 8) de la Ley General de la Administración Pública; Decreto No. 226- 2013, de la Ley para Optimizar la Administración Pública, Mejorar los Servicios de la Ciudadania y Fortalecimiento de la Transparencia en el Gobierno; Decreto Ejecutivo número PCM-037-2018.
+El Secretario de Estado en el Despacho de Desarrollo e Inclusión Social. En el ejercicio de las atribuciones que le confieren los Artículos 246 de la Constitución de la República: 29 numeral 4), 30, 33, 36 numerales 2), 5), 8) de la Ley General de la Administración Pública; Decreto No. 226-2013, de la Ley para Optimizar la Administración Pública, Mejorar los Servicios de la Ciudadania y Fortalecimiento de la Transparencia en el Gobierno; Decreto Ejecutivo número PCM-037-2018.
 
 ACUERDA:
 

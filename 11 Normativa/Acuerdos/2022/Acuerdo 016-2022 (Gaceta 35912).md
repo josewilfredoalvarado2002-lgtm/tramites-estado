@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdos Ejecutivos Nos. 004-2022, 308-2022, 310-2022, 313-2022, 170-2022, 171-2022, 208-2022, 015-2022, 016-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220502-35912-2/download"
 extraido: "2026-11-14"
-huella: "0063f6f73b567616"
+huella: "9adca3865c81caf0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 016-2022
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el 20 de agosto de 2020, la CIDH sometió el caso a la compete
 
 - Deras García y otros vs Honduras. Posteriormente, el 28 de marzo de 2022, la Corte IDH notificó al Estado de Honduras la celebración de la audiencia virtual para los días 10 y 11 de mayo de 2022.
 
-CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-002-2022, elaborado por la Procuraduría General de la República, luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, se determinó la procedencia de la aprobación de un acuerdo ejecutivo en el cual se otorguen las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar los convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que se pueda hacer uso de las referidas facultades en el caso “CDH-16- 2020-Deras García y otros vs Honduras”.
+CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-002-2022, elaborado por la Procuraduría General de la República, luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, se determinó la procedencia de la aprobación de un acuerdo ejecutivo en el cual se otorguen las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar los convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que se pueda hacer uso de las referidas facultades en el caso “CDH-16-2020-Deras García y otros vs Honduras”.
 
 CONSIDERANDO: Que en el proceso referido ut supra, la Procuraduría General de la República ostenta la representación legal del Estado. Conforme al artículo 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República, para poder aplicar las facultades de expresa mención contempladas en los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, “Requerirá autorización expresa del Poder Ejecutivo, extendido mediante acuerdo en cada caso”.
 

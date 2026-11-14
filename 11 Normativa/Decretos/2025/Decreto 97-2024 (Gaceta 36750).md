@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 97-2024, 100-2024, 101-2024, 111-2024, 112-2024, 113-2024, 115-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250127-36750/download"
 extraido: "2026-11-13"
-huella: "10088d4774768ec1"
+huella: "9c6a255762b9330e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 97-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

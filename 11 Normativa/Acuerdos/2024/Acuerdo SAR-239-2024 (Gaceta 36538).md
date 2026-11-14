@@ -11,7 +11,7 @@ paginas: "A. 41 - 44"
 sumario: "Acuerdos Nos. SAR-236-2024, SAR-237-2024, SAR-238-2024, SAR-239-2024, SAR-240-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240520-36538/download"
 extraido: "2026-11-14"
-huella: "9f418633f5082d09"
+huella: "c8042789212cc011"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-239-2024
@@ -33,11 +33,7 @@ EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que el Artículo 199 del Decreto en mención, establece las atribuciones del Director Ejecutivo del Servicio de Administración de Rentas (SAR), tales como:
 
@@ -51,23 +47,19 @@ CONSIDERANDO: Que el Artículo 13 numeral 4) del mismo cuerpo legal, manda que l
 
 CONSIDERANDO: Que el Artículo 62 numeral 1) del referido Código, instituye que los obligados tributarios deben presentar las declaraciones, autoliquidaciones e informes establecidos en la Ley; asimismo, los numerales 2) y 6) del Artículo 63 de la misma norma legal, señalan que los Obligados Tributarios deben llevar libros de contabilidad y registros referidos a las actividades y operaciones vinculadas con la tributación y presentar en tiempo las declaraciones juradas que determinen las leyes tributarias; así como las manifestaciones informativas e informes, en la forma y medios que establece el Servicio de Administración de Rentas (SAR).
 
-CONSIDERANDO: Que el Artículo 9 del Decreto 189- 2004 contentivo de la Ley Sobre Normas de Contabilidad y de Auditoría indica que todo comerciante y demás personas jurídicas están obligados a llevar y mantener en su establecimiento registros de contabilidad.
+CONSIDERANDO: Que el Artículo 9 del Decreto 189-2004 contentivo de la Ley Sobre Normas de Contabilidad y de Auditoría indica que todo comerciante y demás personas jurídicas están obligados a llevar y mantener en su establecimiento registros de contabilidad.
 
 CONSIDERANDO: Que el Artículo 205 numeral 1) del Código Tributario, autoriza al Servicio de Administración de Rentas para que realice los ajustes a sus procedimientos, sistemas, registros y demás aplicativos para que se adecúen a lo dispuesto en la norma, siendo prioridad la implementación de nuevos sistemas que conlleven al fortalecimiento del cumplimiento voluntario de las obligaciones tributarias.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
-435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
-
-CONSIDERANDO: Que el Artículo 45 del Decreto No.
-
-194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
+CONSIDERANDO: Que el Artículo 45 del Decreto No. 194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
 CONSIDERANDO: Que el Decreto No. 105-2011 contentivo de la Ley de Seguridad Poblacional, en su Artículo 4 crea la Contribución Especial de Transacciones Financieras Pro- Seguridad Poblacional que grava las operaciones descritas en el Artículo 5 de la referida Ley.
 
-CONSIDERANDO: Que el Artículo 39 del Decreto No.105- 2011 de la referida Ley establece que las Instituciones Financieras quedan en la obligación de informar el detalle de las retenciones y percepciones practicadas en los medios, formas y plazos que establezca el Servicio de Administración de Rentas; así mismo, el Artículo 11 del Acuerdo 1775-2011 de su Reglamento preceptúa que las Instituciones Financieras serán Agentes de Percepción de la Contribución Especial por cada operación gravada, debiendo informar el detalle de las retenciones y percepciones practicadas en los medios, formas y plazos que establezca el Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que el Artículo 39 del Decreto No. 105-2011 de la referida Ley establece que las Instituciones Financieras quedan en la obligación de informar el detalle de las retenciones y percepciones practicadas en los medios, formas y plazos que establezca el Servicio de Administración de Rentas; así mismo, el Artículo 11 del Acuerdo 1775-2011 de su Reglamento preceptúa que las Instituciones Financieras serán Agentes de Percepción de la Contribución Especial por cada operación gravada, debiendo informar el detalle de las retenciones y percepciones practicadas en los medios, formas y plazos que establezca el Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que mediante Acuerdo DEISG-110-2012, emitido por la Dirección Ejecutiva de Ingresos (DEI) en fecha 13 de noviembre de 2012, se crea la obligación y procedimiento para la presentación de la “Declaración Mensual de Retenciones Contribución Especial de Transacciones Financieras Pro-Seguridad Poblacional”, en el que se establece que se debe presentar dentro del plazo de 15 días calendarios del mes siguiente al que se efectuó la retención.
 
@@ -83,7 +75,7 @@ En uso de las facultades que la ley le confiere y en aplicación de los Artícul
 
 45 Decreto 194-2022 de la Ley de Equilibrio Financiero y la Protección Social; 116 y 122 de la Ley General de la Administración Pública, Acuerdo Ejecutivo No. 01-2017;
 
-Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435- 2022; y, demás disposiciones aplicables.
+Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435-2022; y, demás disposiciones aplicables.
 
 ACUERDA
 

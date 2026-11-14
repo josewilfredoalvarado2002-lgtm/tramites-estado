@@ -8,7 +8,7 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 14 - 16"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
 huella: "0c6e9fe36b3063c9"
@@ -23,7 +23,7 @@ huella: "0c6e9fe36b3063c9"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 14 - 16 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 

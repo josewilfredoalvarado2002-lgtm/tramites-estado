@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210904-35708/download"
 extraido: "2026-11-14"
-huella: "cc37114abeaf67a5"
+huella: "fd3ce58e4cdc5e7c"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-048-2017 publicado en el Diario Oficial La Gaceta el 7 de agosto de 2017, la Dirección de Seguridad Radiológica, Autoridad Reguladora Nacional en Seguridad Radiológica, fue adscrita a la Secretaría de Estado en el Despacho de Energía “SEN”; en consecuencia, las facultades y funciones derivadas de Ley Sobre Actividades Nucleares y Seguridad Radiológica, que conforme al artículo 4 de esta Ley, desempeñaba la Secretaría de Recursos Naturales y Ambiente, fueron trasladadas a la SEN a partir de la vigencia del referido Decreto Ejecutivo.
 
-CONSIDERANDO: Que conforme a lo dispuesto en la Ley Sobre Actividades Nucleares y Seguridad Radiológica (Decreto No. 195-2009) y al Acuerdo Ejecutivo No. 006- 2016 corresponde a la Dirección General de Seguridad Radiológica (DGSR), como “Autoridad Reguladora Nacional en Seguridad Radiológica (ARNSR), la regulación y control de todas aquellas prácticas relacionadas con el uso de las fuentes de radiación ionizante, en particular la producción, uso, manipulación, fabricación, compra, venta, concentración, dilución, almacenamiento, transporte, comercialización, importación y exportación.
+CONSIDERANDO: Que conforme a lo dispuesto en la Ley Sobre Actividades Nucleares y Seguridad Radiológica (Decreto No. 195-2009) y al Acuerdo Ejecutivo No. 006-2016 corresponde a la Dirección General de Seguridad Radiológica (DGSR), como “Autoridad Reguladora Nacional en Seguridad Radiológica (ARNSR), la regulación y control de todas aquellas prácticas relacionadas con el uso de las fuentes de radiación ionizante, en particular la producción, uso, manipulación, fabricación, compra, venta, concentración, dilución, almacenamiento, transporte, comercialización, importación y exportación.
 
 CONSIDERANDO: Que la Dirección General de Seguridad Radiológica (DGSR), las instalaciones que hacen uso de fuentes radiactivas o equipos generadores de radiación ionizante, deben disponer de normas uniformes de protección radiológica de los trabajadores y de la población en general contra los riesgos que resulten de las radiaciones ionizantes, así como de los límites de dosis sean compatibles con una seguridad adecuada, de niveles de contaminación máximos admisibles y de principios fundamentales de vigilancia de dosis acumulada de los trabajadores.
 
@@ -65,7 +65,7 @@ Secretaría de Estado en el Despacho de Energía Dirección General de Seguridad
 
 En Honduras, la Secretaría de Energía mediante la Dirección General de Seguridad Radiológica establecen que las instalaciones que hacen uso de fuentes radiactivas o equipos generadores de radiación ionizante, deben disponer de normas uniformes de protección radiológica de los trabajadores y de la población en general contra los riesgos que resulten de las radiaciones ionizantes, así como de límites de dosis que sean compatibles con una seguridad adecuada, de niveles de contaminación máximos admisibles y de principios fundamentales de vigilancia de dosis acumulada de los trabajadores.
 
-De conformidad a lo señalado en el Reglamento de Protección Radiológica (Acuerdo Ejecutivo No.004-2014), el cual establece la clasificación de zonas en las instalaciones radiactivas, se elabora la presente guía en donde se indica la forma en la que se debe señalizar las zonas para ser aplicadas a todas las instalaciones que hacen uso de fuentes radiactivas o equipos generadores de radiación ionizante en nuestro país y cuya finalidad será establecer un mecanismo para dar consistencia y homogeneidad a la señalización en todas las instalaciones radiactivas que operan en el país y que ha sido reconocido como apto para su uso por la DGSR.
+De conformidad a lo señalado en el Reglamento de Protección Radiológica (Acuerdo Ejecutivo No. 004-2014), el cual establece la clasificación de zonas en las instalaciones radiactivas, se elabora la presente guía en donde se indica la forma en la que se debe señalizar las zonas para ser aplicadas a todas las instalaciones que hacen uso de fuentes radiactivas o equipos generadores de radiación ionizante en nuestro país y cuya finalidad será establecer un mecanismo para dar consistencia y homogeneidad a la señalización en todas las instalaciones radiactivas que operan en el país y que ha sido reconocido como apto para su uso por la DGSR.
 
 Contenido Introducción......................................................................2
 

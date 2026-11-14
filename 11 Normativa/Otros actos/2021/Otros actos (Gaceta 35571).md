@@ -11,7 +11,7 @@ paginas: "A. 1 - 260"
 sumario: "Certificación 963-2021. Acuerdo No. 092021; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210414-35571/download"
 extraido: "2026-11-14"
-huella: "824f17b9511877ff"
+huella: "d89aadd8b0f9a352"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación 963-2021. Acuerdo No. 092021; AVANCE
@@ -27,7 +27,7 @@ huella: "824f17b9511877ff"
 
 ## Texto
 
-CERTIFICACIÓN 963-2021. ACUERDO No. 09-2021 Sección A Decretos y Acuerdos CONSEJO NACIONAL ELECTORAL Certificación 963-2021. Acuerdo No. 09- 2021 A. 1-259 A. 260 El infrascrito, Secretario General del Consejo Nacional tomada por unanimidad, en el PUNTO UNICO (Declaratoria de Elecciones Primarias 2021), numeral uno (01) del Acta Número 18-2021, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día martes trece
+CERTIFICACIÓN 963-2021. ACUERDO No. 09-2021 Sección A Decretos y Acuerdos CONSEJO NACIONAL ELECTORAL Certificación 963-2021. Acuerdo No. 09-2021 A. 1-259 A. 260 El infrascrito, Secretario General del Consejo Nacional tomada por unanimidad, en el PUNTO UNICO (Declaratoria de Elecciones Primarias 2021), numeral uno (01) del Acta Número 18-2021, correspondiente a la Sesión, celebrada por el Pleno de este Organismo Electoral el día martes trece
 
 (13) de abril de dos mil veintiuno (2021), que literalmente dice: ACUERDO No. 09-2021 DECLARATORIA DE ELECCIONES PRIMARIAS 2021 EL CONSEJO NACIONAL ELECTORAL,
 

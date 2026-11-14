@@ -11,7 +11,7 @@ paginas: "A. 8 - 11"
 sumario: "Decreto No. 114-2021Decreto No. 143-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220118-35825/download"
 extraido: "2026-11-14"
-huella: "fd774a944c5000d8"
+huella: "d342ef3ab2949e9b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 143-2021
@@ -43,17 +43,17 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.-Reformar los artículos 1 y 2 del Decreto No.124-2021 del 23 de Diciembre del año 2021, publicado en el Diario Oficial “La Gaceta” en su Edición No.35,807, en fecha 27 de Diciembre de 2021, el cual debe leerse de la siguiente manera:
+ARTÍCULO 1.-Reformar los artículos 1 y 2 del Decreto No. 124-2021 del 23 de Diciembre del año 2021, publicado en el Diario Oficial “La Gaceta” en su Edición No. 35,807, en fecha 27 de Diciembre de 2021, el cual debe leerse de la siguiente manera:
 
 “ARTÍCULO 1.- Prorrogar… Queda entendido… No obstante, lo anterior, y a fin de dar continuidad a la autoridad, control y manejo del Sistema Penitenciario Nacional, la Comisión Interventora Sobre el Sistema Penitenciario Nacional integrada por el pleno de FUSINA, deberá continuar en sus funciones de manera indefinida más allá del Veintiocho de Febrero del Dos Mil Veintidós, con todas las facultades asignadas, en tanto el Poder Ejecutivo resuelva confirmar su eliminación y tome las medidas del caso para evitar ausencia de administración”.
 
 “ARTÍCULO 2.- Reasignar la totalidad de los fondos a que hace relación el
 
-Artículo 2 Numeral 7) Literales del a) al d) inclusive, del Decreto Ejecutivo Número PCM-102-2020 publicado en el Diario Oficial “La Gaceta” de fecha treinta y uno de Diciembre de Dos Mil Veinte (2020), los cuales serán destinados para la terminación de diseño, construcción y equipamiento del CENTRO PENITENCIARIO REGIONAL DE SAN PEDRO SULA, UBICADO EN LA ACEQUIA, QUIMISTÁN, SANTA BÁRBARA. Se autoriza e instruye al Instituto Nacional Penitenciario, para que la totalidad de dichos fondos, sean transferidos a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto Legislativo No.199-2011.
+Artículo 2 Numeral 7) Literales del a) al d) inclusive, del Decreto Ejecutivo Número PCM-102-2020 publicado en el Diario Oficial “La Gaceta” de fecha treinta y uno de Diciembre de Dos Mil Veinte (2020), los cuales serán destinados para la terminación de diseño, construcción y equipamiento del CENTRO PENITENCIARIO REGIONAL DE SAN PEDRO SULA, UBICADO EN LA ACEQUIA, QUIMISTÁN, SANTA BÁRBARA. Se autoriza e instruye al Instituto Nacional Penitenciario, para que la totalidad de dichos fondos, sean transferidos a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto Legislativo No. 199-2011.
 
 Instruir al Gabinete de Prevención, Seguridad y Defensa, la transferencia de excedentes financieros posibles al Instituto Nacional Penitenciario, quien a su vez los transferirá a favor del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto Legislativo No. 199-2011, para la terminación de diseño, construcción y equipamiento del Proyecto precitado en el párrafo anterior.
 
-Instruir a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), transferir a favor del Instituto Nacional Penitenciario, las asignaciones presupuestarias y/o financieras necesarias para complementar el financiamiento para la culminación de este Proyecto, según le indique, ya sea el Instituto Nacional Penitenciario o el Comité Técnico del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto Legislativo No.199-2011. Una vez recibidos dichos fondos, se autoriza al Instituto Nacional Penitenciario para transferirlos en su totalidad, junto con los fondos a que hace referencia el primer y segundo párrafo de este
+Instruir a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), transferir a favor del Instituto Nacional Penitenciario, las asignaciones presupuestarias y/o financieras necesarias para complementar el financiamiento para la culminación de este Proyecto, según le indique, ya sea el Instituto Nacional Penitenciario o el Comité Técnico del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional creado mediante Decreto Legislativo No. 199-2011. Una vez recibidos dichos fondos, se autoriza al Instituto Nacional Penitenciario para transferirlos en su totalidad, junto con los fondos a que hace referencia el primer y segundo párrafo de este
 
 Artículo, a la cuenta en el Banco Central de Honduras (BCH) del Fideicomiso para la Administración del Fondo de Protección y Seguridad Poblacional que éste le indique.
 
@@ -61,9 +61,9 @@ El Comité Técnico del Fideicomiso para la Administración del Fondo de Protecc
 
 #### Artículo 2
 
-ARTÍCULO 2.- En base al Decreto Legislativo No.323- 2013 y sus reformas, se faculta a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar las operaciones presupuestarias y financieras necesarias, a fin de reorientar el presupuesto de la Secretaria de Estado en el Despacho de Seguridad y Secretaría de Estado en el Despacho de Defensa, inclusive las asignaciones con beneficiario de transferencia y dar cumplimiento a lo dispuesto al Decreto en mención, según corresponda.
+ARTÍCULO 2.- En base al Decreto Legislativo No. 323-2013 y sus reformas, se faculta a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar las operaciones presupuestarias y financieras necesarias, a fin de reorientar el presupuesto de la Secretaria de Estado en el Despacho de Seguridad y Secretaría de Estado en el Despacho de Defensa, inclusive las asignaciones con beneficiario de transferencia y dar cumplimiento a lo dispuesto al Decreto en mención, según corresponda.
 
-Asimismo, para los artículos 6, 7 y 10 del Decreto Legislativo No.323-2013, reformados mediante Decreto No.106- 2021, se entiende que la Unidad es un ente de derecho público e independiente con categorización de una institución del Sector Público sin adscripción a un gabinete y que gozará de autonomía administrativa, técnica, financiera y presupuestaria al efecto en el Presupuesto de Ingresos y Egresos de la Republica.
+Asimismo, para los artículos 6, 7 y 10 del Decreto Legislativo No. 323-2013, reformados mediante Decreto No. 106-2021, se entiende que la Unidad es un ente de derecho público e independiente con categorización de una institución del Sector Público sin adscripción a un gabinete y que gozará de autonomía administrativa, técnica, financiera y presupuestaria al efecto en el Presupuesto de Ingresos y Egresos de la Republica.
 
 Esta Institución realizará la ejecución presupuestaria a través del Grupo de Gasto 900.
 
@@ -75,11 +75,11 @@ Los gastos realizados por esta Institución en la adquisición, contratación y 
 
 Se instruye al Gabinete de Prevención, Seguridad y Defensa la transferencia, la asignación y traslados de los bienes, equipo y mobiliario necesarios para el funcionamiento de la institución, se exceptúa los bienes asignados a las fuerzas nacionales de seguridad adscritas al mismo Se instruye al Gabinete de Prevención, Seguridad y Defensa la transferencia y la asignación y traslados de los bienes, activos y equipo necesarios para el funcionamiento de la institución, se exceptúa los bienes asignados a las fuerzas nacionales de seguridad adscritas al mismo.
 
-La dependencia que se encargará del cumplimento de lo establecido en el Decreto Legislativo No.323-2013 y sus posteriores reformas, para los efectos administrativos, tendrá la categoría de dirección, y el titular tendrá la representación legal de la institución, la potestad de nombrar y remover personal, autorizar compensaciones, retribuciones, esquemas de protección y las demás inherentes a su cargo que podrán ser tanto como fuesen necesarias para el cumplimiento de los objetivos del Decreto en mención.
+La dependencia que se encargará del cumplimento de lo establecido en el Decreto Legislativo No. 323-2013 y sus posteriores reformas, para los efectos administrativos, tendrá la categoría de dirección, y el titular tendrá la representación legal de la institución, la potestad de nombrar y remover personal, autorizar compensaciones, retribuciones, esquemas de protección y las demás inherentes a su cargo que podrán ser tanto como fuesen necesarias para el cumplimiento de los objetivos del Decreto en mención.
 
 Para la modificación o derogación de las disposiciones contenidas en el presente
 
-Artículo y el Decreto No.323-2013 y sus reformas, se requiere una mayoría de dos tercios de la totalidad de los diputados que conforman el Congreso Nacional.
+Artículo y el Decreto No. 323-2013 y sus reformas, se requiere una mayoría de dos tercios de la totalidad de los diputados que conforman el Congreso Nacional.
 
 #### Artículo 3
 

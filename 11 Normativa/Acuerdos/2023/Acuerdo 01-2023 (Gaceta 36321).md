@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Ministeriales Nos. 01-2023, 02-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230830-36321/download"
 extraido: "2026-11-14"
-huella: "fbf7fd5050c2b704"
+huella: "b2451ef5a88fd6de"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL 01-2023
@@ -53,7 +53,7 @@ CONSIDERANDO: Que la SEMUJER ha desarrollado distintos instrumentos de política
 
 POR TANTO:
 
-De conformidad con los Artículos 321 y 331 de la Constitución de la República de Honduras; Artículos 36 numerales 2) y 8), 116 y 118 de la Ley General de la Administración Pública y sus reformas; Artículo 46 y 47 de la Ley de Procedimiento Administrativo y sus reformas; Artículos 6, 8, 72, 73 y 75 de la Ley de Protección al Consumidor; Artículos 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; y, el Decreto Ejecutivo Número PCM- 005-2022 y sus reformas.
+De conformidad con los Artículos 321 y 331 de la Constitución de la República de Honduras; Artículos 36 numerales 2) y 8), 116 y 118 de la Ley General de la Administración Pública y sus reformas; Artículo 46 y 47 de la Ley de Procedimiento Administrativo y sus reformas; Artículos 6, 8, 72, 73 y 75 de la Ley de Protección al Consumidor; Artículos 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; y, el Decreto Ejecutivo Número PCM-005-2022 y sus reformas.
 
 ACUERDA:
 

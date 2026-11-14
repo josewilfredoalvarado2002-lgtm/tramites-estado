@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. 440-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230629-36268/download"
 extraido: "2026-11-14"
-huella: "80592b3a4f150481"
+huella: "4c96e6a0e0219398"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 440-2023
@@ -59,9 +59,7 @@ Secretario de Estado
 
 ABG. CELSO DONADIN ALVARADO HERNANDEZ
 
-Secretario General Secretaría para el Desarrollo y Seguimiento de Proyectos y Acuerdos SEDESPA FE DE ERRATA En La Gaceta No. 36,245; con fecha de publicación 3 de junio de 2023, que contiene el Acuerdo No. 06-SG-SEDESPA-2023 mediante el cual se aprueba el “REGLAMENTO INTERNO PARA LOS EMPLEADOS DE LA SECRETARÍA PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS, por error involuntario en el CONSIDERANDO No.
-
-5, se escribió “Secretaría de Coordinación General de Gobierno”, siendo lo correcto “Secretaría para el Desarrollo y Seguimiento de Proyectos y Acuerdos”, debiendo ser corregido de la siguiente manera:
+Secretario General Secretaría para el Desarrollo y Seguimiento de Proyectos y Acuerdos SEDESPA FE DE ERRATA En La Gaceta No. 36,245; con fecha de publicación 3 de junio de 2023, que contiene el Acuerdo No. 06-SG-SEDESPA-2023 mediante el cual se aprueba el “REGLAMENTO INTERNO PARA LOS EMPLEADOS DE LA SECRETARÍA PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS, por error involuntario en el CONSIDERANDO No. 5, se escribió “Secretaría de Coordinación General de Gobierno”, siendo lo correcto “Secretaría para el Desarrollo y Seguimiento de Proyectos y Acuerdos”, debiendo ser corregido de la siguiente manera:
 
 En la página 2.A del Diario Oficial La Gaceta, en la primera columna, CONSIDERANDO No. 5 debe leerse de la siguiente manera:
 

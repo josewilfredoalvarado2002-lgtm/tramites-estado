@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Acuerdos Nos. SEN-107-2026, SEN-112-2026, SEN-113-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260907-37240/download"
 extraido: "2026-11-09"
-huella: "aec7b8909ddd37c7"
+huella: "e6ad70b1ee414543"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-112-2026
@@ -29,15 +29,13 @@ huella: "aec7b8909ddd37c7"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía (SEN) como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía (SEN) como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores del Presidente de la República en el despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada en el área de su competencia.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 90- 2013 de fecha 23 de mayo de 2013, publicado en el Diario Oficial “La Gaceta” el 25 de julio de 2013, el Congreso Nacional decretó aprobar el Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en Zona Marítima de la República de Honduras, suscrito entre el Estado de Honduras por medio de la Procuraduría General de la República y la Empresa BG International Limited, Sucursal Honduras como Contratista; comprendido en el expediente identificado bajo número correlativo: 401000-100901-2012- EF-00029 Tomo I al X +2020-SE-EEH-0002, que custodia esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Decreto Legislativo 90-2013 de fecha 23 de mayo de 2013, publicado en el Diario Oficial “La Gaceta” el 25 de julio de 2013, el Congreso Nacional decretó aprobar el Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en Zona Marítima de la República de Honduras, suscrito entre el Estado de Honduras por medio de la Procuraduría General de la República y la Empresa BG International Limited, Sucursal Honduras como Contratista; comprendido en el expediente identificado bajo número correlativo: 401000-100901-2012- EF-00029 Tomo I al X +2020-SE-EEH-0002, que custodia esta Secretaría de Estado.
 
-CONSIDERANDO: Que mediante Resolución SEN-039- 2020 de fecha 17 de diciembre de 2020, cuya Certificación SG- 1-XII-2020 fue publicada en el Diario Oficial “La Gaceta” en fecha 21 de enero de 2021, la Secretaría de Energía declaró con lugar: 1) la Notificación de Cambio de Denominación o Razón Social de la sociedad mercantil AZIPETROL HONDURAS S.A. a HIGH POWER PETROLEUM HONDURAS S.A., (H2P) y 2) la autorización de notificación de cesión de porcentajes entre Contratistas, quedando la titularidad del Contrato de Operación por parte del Contratista a favor de CARIBX (UK) LIMITED, SUCURSAL HONDURAS (No Operador) y HIGH POWER PETROLEUM HONDURAS S.A. (Operador); quienes responden en dicha condición solidariamente ante el Estado de Honduras.
+CONSIDERANDO: Que mediante Resolución SEN-039-2020 de fecha 17 de diciembre de 2020, cuya Certificación SG-1-XII-2020 fue publicada en el Diario Oficial “La Gaceta” en fecha 21 de enero de 2021, la Secretaría de Energía declaró con lugar: 1) la Notificación de Cambio de Denominación o Razón Social de la sociedad mercantil AZIPETROL HONDURAS S.A. a HIGH POWER PETROLEUM HONDURAS S.A., (H2P) y 2) la autorización de notificación de cesión de porcentajes entre Contratistas, quedando la titularidad del Contrato de Operación por parte del Contratista a favor de CARIBX (UK) LIMITED, SUCURSAL HONDURAS (No Operador) y HIGH POWER PETROLEUM HONDURAS S.A. (Operador); quienes responden en dicha condición solidariamente ante el Estado de Honduras.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 007-2021 publicado en el Diario Oficial La Gaceta en fecha 4 de junio de 2021, el Presidente Constitucional de la República acuerda designar representantes por parte del Estado de Honduras en el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en Zona Marítima de la República de Honduras, conforme la designación siguiente:
 

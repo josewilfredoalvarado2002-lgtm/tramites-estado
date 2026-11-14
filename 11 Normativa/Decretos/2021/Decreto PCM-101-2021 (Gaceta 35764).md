@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo Número PCM-101-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211105-35764/download"
 extraido: "2026-11-14"
-huella: "589d56f19e154dd9"
+huella: "0120302bf319a89c"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-101-2021
@@ -43,17 +43,13 @@ CONSIDERANDO: Que la falta de pago por insuficiencia de recursos financieros cal
 
 - El Quebrachal, Est.20+000 a Est.54+860 (Long.29.90 Km) CC-GC-UEBCIE-11-2016, y 2) Contrato de Servicios de Consultoría para la Supervisión del Proyecto: Construcción de la Carretera Villa de San Antonio - Goascorán, Sección I, Sub-Sección I-B, Lamaní - El Quebrachal.- CS-DGCUEBCIE-08-2016, suscritos el dos (2) de Diciembre del año 2016, ordenando en dichas Resoluciones Administrativas a la Dirección General de Carreteras, dependencia de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) que proceda a la liquidación de los mismos para realizar el descargo recíproco de las responsabilidades que correspondan a cada una de las Partes.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-016-2017, publicado en el Diario Oficial “La Gaceta” en su Edición No. 34,521 del 19 de diciembre de 2017, se instruyó a la Secretaría de Estado en el Despacho de Finanzas para que de manera inmediata procediera a la suscripción de las modificaciones contractuales de varias operaciones de préstamos, entre las cuales se encuentra el Contrato de Préstamo BCIE No. 2177, del Banco Centroamericano de Integración Económica (BCIE), mediante el cual se financia la Ejecución del Proyecto de Construcción del Corredor Logístico Villa de San Antonio-Goascorán, Sección I, Subsección IB, Lamaní — El Quebrachal, para asignar en forma directa y exclusiva a INVEST-Honduras/MCAHonduras, como organismo ejecutor en la administración, supervisión e implementación de dicho Proyecto; asimismo, se indicó a la Secretaría de Estado en el Despacho de Finanzas, se procediera a efectuar oportunamente la reasignación y subsecuente transferencia presupuestaria a favor de INVESTHonduras/MCA-Honduras, de conformidad al procedimiento legal y administrativamente establecido para ese efecto, de tal forma que asuma en definitiva la ejecución de todos los recursos previstos en el Contrato de Préstamo, así como los recursos de contraparte del mismo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. 016-2017, publicado en el Diario Oficial “La Gaceta” en su Edición No. 34,521 del 19 de diciembre de 2017, se instruyó a la Secretaría de Estado en el Despacho de Finanzas para que de manera inmediata procediera a la suscripción de las modificaciones contractuales de varias operaciones de préstamos, entre las cuales se encuentra el Contrato de Préstamo BCIE No. 2177, del Banco Centroamericano de Integración Económica (BCIE), mediante el cual se financia la Ejecución del Proyecto de Construcción del Corredor Logístico Villa de San Antonio-Goascorán, Sección I, Subsección IB, Lamaní — El Quebrachal, para asignar en forma directa y exclusiva a INVEST-Honduras/MCAHonduras, como organismo ejecutor en la administración, supervisión e implementación de dicho Proyecto; asimismo, se indicó a la Secretaría de Estado en el Despacho de Finanzas, se procediera a efectuar oportunamente la reasignación y subsecuente transferencia presupuestaria a favor de INVESTHonduras/MCA-Honduras, de conformidad al procedimiento legal y administrativamente establecido para ese efecto, de tal forma que asuma en definitiva la ejecución de todos los recursos previstos en el Contrato de Préstamo, así como los recursos de contraparte del mismo.
 
 CONSIDERANDO: Que de conformidad a la instrucción descrita en el Decreto Ejecutivo No. 016-2017, a mediados del año 2018, la Secretaría de Estado en el Despacho de Finanzas, procedió a trasladar las asignaciones presupuestarias aprobadas en el presupuesto de la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), a INVEST-Honduras/MCA-Honduras, quien con base a la instrucción emitida en el Decreto Ejecutivo Número 016-2017, quedó a partir de ese momento subrogado como organismo ejecutor de todos los contratos de obra, bienes y servicios derivados de la cartera de proyectos traspasada bajo su administración.
 
 CONSIDERANDO: Que es deber del Estado de Honduras asumir y hacer efectivo los compromisos adquiridos legalmente por sus instituciones y evitar así costos mayores derivados de posibles demandas y coste financieros por pagos fuera de los periodos legalmente establecidos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número 006-2021, de fecha 30 de agosto de 2021, publicado en el Diario Oficial “La Gaceta” el 17 de septiembre del 2021, en su Edición Número 35,720, en el cual se reforma los Artículos 1 y 2 del Decreto Ejecutivo No. 016-2017, publicado en el Diario Oficial “La Gaceta” en su edición No.
-
-34,521 del 19 de diciembre de 2017.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número 006-2021, de fecha 30 de agosto de 2021, publicado en el Diario Oficial “La Gaceta” el 17 de septiembre del 2021, en su Edición Número 35,720, en el cual se reforma los Artículos 1 y 2 del Decreto Ejecutivo No. 016-2017, publicado en el Diario Oficial “La Gaceta” en su edición No. 34,521 del 19 de diciembre de 2017.
 
 POR TANTO:
 
@@ -61,13 +57,13 @@ En aplicación de los Artículos 59, 245 numerales 2, 11, 19, 35 y 45, 248, 252,
 
 Artículos 7, 11, 17, 18, 22 numerales 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013;
 
-Decretos Ejecutivos Números: PCM-071-2016, PCM-016- 2017 y Decreto Ejecutivo No. 006-2021.
+Decretos Ejecutivos Números: PCM-071-2016, PCM-016-2017 y Decreto Ejecutivo No. 006-2021.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Autorizar a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), para que una vez entrada en vigencia del Decreto Ejecutivo No.006-2021, asuma y haga efectivo el pago de las obligaciones generadas por la suscripción de los Contratos como respuesta a la declaración de Estado de Emergencia contenida en el Decreto Ejecutivo Número PCM-071- 2016, publicado en el Diario Oficial La Gaceta el 26 de octubre de 2016, relacionado con el tramo carretero comprendido entre el kilómetro 0 + 0000 al 54 + 130 de la carretera Villa de San Antonio - El Quebrachal que a la fecha de terminación por mutuo acuerdo quedaron pendientes.
+ARTÍCULO 1.- Autorizar a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), para que una vez entrada en vigencia del Decreto Ejecutivo No. 006-2021, asuma y haga efectivo el pago de las obligaciones generadas por la suscripción de los Contratos como respuesta a la declaración de Estado de Emergencia contenida en el Decreto Ejecutivo Número PCM-071-2016, publicado en el Diario Oficial La Gaceta el 26 de octubre de 2016, relacionado con el tramo carretero comprendido entre el kilómetro 0 + 0000 al 54 + 130 de la carretera Villa de San Antonio - El Quebrachal que a la fecha de terminación por mutuo acuerdo quedaron pendientes.
 
 La Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), debe formalizar un Acuerdo de Pago con las Empresas con cuales se mantiene la obligación de la manera siguiente: Con la Empresa Profesionales de la Construcción, S.A. de C.V. (PRODECON) por un monto de CIENTO SETENTA Y OCHO MILLONES NOVECIENTOS DOCE MIL SEISCIENTOS VEINTISIETE LEMPIRAS CON VEINTE CENTAVOS (L 178,912,627.20) y en fecha posterior con la Empresa Construcción y Consultores en Ingeniería S.A. de C.V.
 

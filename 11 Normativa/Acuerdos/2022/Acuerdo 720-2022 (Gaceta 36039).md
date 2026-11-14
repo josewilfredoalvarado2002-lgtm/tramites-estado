@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 720-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220928-36039/download"
 extraido: "2026-11-14"
-huella: "6b2f78f602fb2793"
+huella: "393bdffeedff41be"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 720-2022
@@ -45,9 +45,7 @@ En aplicación de los artículos 321 y 323 de la Constitución de la República 
 
 ACUERDA:
 
-PRIMERO: Delegar en el ciudadano DANIEL OSCAR PAZ SOSA, con documento nacional de identificación No.
-
-0801-1990-00908, como Encargado de la Dirección de Fortalecimiento Municipal, así como la firma del dictamen correspondiente para pago de transferencia municipal.
+PRIMERO: Delegar en el ciudadano DANIEL OSCAR PAZ SOSA, con documento nacional de identificación No. 0801-1990-00908, como Encargado de la Dirección de Fortalecimiento Municipal, así como la firma del dictamen correspondiente para pago de transferencia municipal.
 
 SEGUNDO: La presente delegación, es a partir de la fecha del veintitrés (23) de septiembre al treinta y uno (31) de octubre del año dos mil veintidós (2022).
 

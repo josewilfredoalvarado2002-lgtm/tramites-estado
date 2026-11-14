@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221207-36096/download"
 extraido: "2026-11-14"
-huella: "9c2f2d8552fc5852"
+huella: "836b3bb303b60465"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,21 +27,21 @@ huella: "9c2f2d8552fc5852"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 1868-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y D E S C E N T R A L I Z A C I Ó N ” . Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, nueve de septiembre del año dos mil veintiuno.
+El suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 1868-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ” . Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, nueve de septiembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de junio del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-09062021-382 por el Abogado L E O N E L D A M I A N S U A Z O C A S T I L L O , actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de junio del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-09062021-382 por el Abogado LEONEL DAMIAN SUAZO CASTILLO, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
-ANTECEDENTE DE HECHO En fecha nueve de junio del año dos mil veintiuno, compareció ante esta Secretaría de Estado, el Abogado LEONEL DAMIAN SUAZO CASTILLO, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO D E L A C O M U N I D A D D E A G U A B L A N C A , MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, a solicitar la Personalidad Jurídica a favor de su representada.
+ANTECEDENTE DE HECHO En fecha nueve de junio del año dos mil veintiuno, compareció ante esta Secretaría de Estado, el Abogado LEONEL DAMIAN SUAZO CASTILLO, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, a solicitar la Personalidad Jurídica a favor de su representada.
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 
 PRIMERO: Resulta que en el caso que nos ocupa, la petición formulada por el impetrante, esta contraída a solicitar la Personalidad Jurídica, de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, para lo cual, acompaño los documentos que se requieren para casos como el indicado y que, a nuestro juicio, justifican la petición por él formulada.
 
-SEGUNDO: En este sentido y según el análisis r e a l i z a d o , s e logra apreciar que se encuentran agregados de folio número tres (f-03) al folio número veinticinco (f-25) folio número treinta (f-30) y folio número treinta y uno (f-31) los documentos referentes a: Carta Poder, certificación de punto de acta de constitución, certificación de punto de acta de elección y n o m b r a m i e n t o d e l a J u n t a D i r e c t i v a , c e r t i f i c a c i ó n , certificación de punto de acta donde se faculta al Presidente de la Junta Directiva a contratar un profesional del Derecho, certificación de punto de acta de discusión y aprobación de los estatutos, constancia de inscripción de la Junta Directiva, copias fotostáticas de las Tarjetas de Identidad de los miembros de la Junta Directiva, listado de asistencia; todos estos documentos debidamente autenticados y enunciados en su respectivo orden.
+SEGUNDO: En este sentido y según el análisis realizado, s e logra apreciar que se encuentran agregados de folio número tres (f-03) al folio número veinticinco (f-25) folio número treinta (f-30) y folio número treinta y uno (f-31) los documentos referentes a: Carta Poder, certificación de punto de acta de constitución, certificación de punto de acta de elección y nombramiento de la Junta Directiva, certificación, certificación de punto de acta donde se faculta al Presidente de la Junta Directiva a contratar un profesional del Derecho, certificación de punto de acta de discusión y aprobación de los estatutos, constancia de inscripción de la Junta Directiva, copias fotostáticas de las Tarjetas de Identidad de los miembros de la Junta Directiva, listado de asistencia; todos estos documentos debidamente autenticados y enunciados en su respectivo orden.
 
-TERCERO: La Constitución de la República, dispone en el artículo 78, que: “...Se garantizan las libertades de asociación y de reunión siempre que no sean contrarias al orden público y a las buenas costumbres...”. Según lo dispone la norma constitucional antes reproducida, la Libertad de Asociación es un derecho protegido por nuestra Constitución en su artículo 78, d e r e c h o q u e p o s i b i l i t a o p e r m i t e q u e l o s c i u d a d a n o s constituyamos todo tipo de asociaciones sin importar las tendencias; siempre y cuando éstas no sean contrarias a la Ley, procurando con ello mejorar y defender las condiciones de los g r u p o s d e i n t e r é s c o n d i s t i n t a s t e n d e n c i a s i d e o l ó g i c a s , políticas o religiosas para el fortalecimiento de la sociedad c i v i l y l a v o z d e l a o p i n i ó n p ú b l i c a , n e c e s a r i a s e indispensables en un país democrático.
+TERCERO: La Constitución de la República, dispone en el artículo 78, que: “...Se garantizan las libertades de asociación y de reunión siempre que no sean contrarias al orden público y a las buenas costumbres...”. Según lo dispone la norma constitucional antes reproducida, la Libertad de Asociación es un derecho protegido por nuestra Constitución en su artículo 78, derecho que posibilita o permite que los ciudadanos constituyamos todo tipo de asociaciones sin importar las tendencias; siempre y cuando éstas no sean contrarias a la Ley, procurando con ello mejorar y defender las condiciones de los grupos de interés con distintas tendencias ideológicas, políticas o religiosas para el fortalecimiento de la sociedad c i v i l y l a v o z d e l a o p i n i ó n p ú b l i c a, necesaria se indispensables en un país democrático.
 
-CUARTO: Por su parte el Código Civil en su Capítulo II, artículo 56, se refiere a quienes la ley considera como Personas Jurídicas: “...1.- E l Estado y las corporaciones, asociaciones y fundaciones de interés público, reconocidas por la Ley. La personalidad de éstas empieza en el instante mismo en que, con arreglo a derecho h u b i e s e n q u e d a d o v á l i d a m e n t e c o n s t i t u i d a s . 2 . - L a s Asociaciones de interés particular, sean civiles, mercantiles o industriales, a las que la ley conceda personalidad propia, independientemente de la de cada uno de los asociados”.
+CUARTO: Por su parte el Código Civil en su Capítulo II, artículo 56, se refiere a quienes la ley considera como Personas Jurídicas: “...1.- E l Estado y las corporaciones, asociaciones y fundaciones de interés público, reconocidas por la Ley. La personalidad de éstas empieza en el instante mismo en que, con arreglo a derecho hubiesen quedado válidamente constituidas . 2 . - L a s Asociaciones de interés particular, sean civiles, mercantiles o industriales, a las que la ley conceda personalidad propia, independientemente de la de cada uno de los asociados”.
 
 QUINTO: La Ley Marco del Sector de Agua Potable y Saneamiento en su artículo 18 literalmente enuncia “Las Juntas Administradoras de Agua tendrán personalidad jurídica otorgada que otorgará la Secretaría de Estado en los Despachos de Gobernación y Justicia por medio de dictamen de la respectiva Corporación Municipal, que constatará de la legalidad de la misma. El otorgamiento de dicha personalidad y su publicación en el Diario Oficial La Gaceta será de forma gratuita. El Reglamento de la presente Ley establecerá la organización y funciones de las Juntas de Agua.
 
@@ -57,13 +57,11 @@ POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y D
 
 56 y 58 del Código Civil y en aplicación de los
 
-Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
-PRIMERO: Conceder Personalidad J u r í d i c a a l a J U N T A A D M I N I S T R A D O R A D E A G U A P O TA B L E Y S A N E A M I E N T O D E L A C O M U N I D A D D E A G U A B L A N C A , MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCÁ, con sus estatutos que literalmente dicen:
+PRIMERO: Conceder Personalidad J u r í d i c a a l a J U N T A A D M I N I S T R A D O R A D E A G U A P O TA B L E Y S A N E A M I E N T O D E L A C O M U N I D A D D E A G U A B L A N C A, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCÁ, con sus estatutos que literalmente dicen:
 
 ESTATUTOS DE LA JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCÁ:
 
@@ -71,7 +69,7 @@ CAPÍTULO I CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
 
 #### Artículo 1
 
-ARTÍCULO 1: Se constituye la organización cuya denominación será “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO D E D O L O R E S , D E P A R T A M E N T O D E INTIBUCÁ”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua p o t a b l e d e a c u e r d o c o n l a s n o r m a s , procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la Comunidad de Agua Blanca, municipio de Dolores, departamento de Intibucá.
+ARTÍCULO 1: Se constituye la organización cuya denominación será “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCÁ”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la Comunidad de Agua Blanca, municipio de Dolores, departamento de Intibucá.
 
 #### Artículo 2
 
@@ -91,7 +89,7 @@ ARTÍCULO 4: El fin primordial de los presentes Estatutos es regular el normal f
 
 ARTÍCULO 5: La organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de la comunidad en general. b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema. d.- Obtener asistencia en capacitación para mejorar el servicio de agua potable.
 
-e. O b t e n e r f i n a n c i a m i e n t o p a r a m e j o r a r e l servicio de abastecimiento de agua potable. f.- Velar porque la población use y maneje el agua en condiciones higiénicas y sanitarias en los hogares de una manera racional evitando el desperdicio del recurso. g.- Gestionar la asistencia técnica necesaria para mantener adecuadamente el sistema. h.- Realizar labores de vigilancia en todos los componentes del sistema (de microcuencas, el acueducto y saneamiento básico). i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento.
+e. Obtener financiamiento para mejorar el servicio de abastecimiento de agua potable. f.- Velar porque la población use y maneje el agua en condiciones higiénicas y sanitarias en los hogares de una manera racional evitando el desperdicio del recurso. g.- Gestionar la asistencia técnica necesaria para mantener adecuadamente el sistema. h.- Realizar labores de vigilancia en todos los componentes del sistema (de microcuencas, el acueducto y saneamiento básico). i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento.
 
 #### Artículo 6
 
@@ -139,7 +137,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 13
 
-ARTÍCULO 13: Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete ( 7 ) m i e m b r o s : 1 . - U n P r e s i d e n t e ( a ) . 2 . - U n Vicepresidente(a) ; 3.- Secretario(a) . 4.- Un Tesorero(a) 5.-Un Fiscal, 6.-Un Vocal Primero; y, 7.- Un Vocal Segundo.
+ARTÍCULO 13: Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete ( 7 ) miembros: 1 . - Un Presidente ( a ) . 2 . - U n Vicepresidente(a); 3.- Secretario(a) . 4.- Un Tesorero(a) 5.-Un Fiscal, 6.-Un Vocal Primero; y, 7.- Un Vocal Segundo.
 
 #### Artículo 14
 
@@ -153,7 +151,7 @@ DEL COMITÉ DE VIGILANCIA
 
 #### Artículo 16
 
-ARTÍCULO 16: Dentro de la Junta Administradora desempeña un papel muy importante para el éxito de las actividades administrativas de operación y m a n t e n i m i e n t o d e l s i s t e m a , e l C o m i t é d e Vigilancia, que se encargará de controlar y vigilar permanentemente todas las actividades que se realicen en la Junta. Serán sus funciones: a.- Comprobar la exactitud de los inventarios y estados financieros. b.- Verificar el dinero de caja cada vez que estime conveniente. c.- Vigilar que todos los abonados cumplan con sus obligaciones. d.- Fiscalizar las actividades realizadas por los miembros de la Junta. e.- Auditar y supervisar las cuentas de recaudación proveniente de los abonados. f.-Comprobar los gastos efectuados por la Junta. g.- Verificar el trabajo realizado por los fontaneros y/o mano de obra calificada y no calificada. h.- Firmar los documentos administrativos que den fe de aceptado los informes del Presidente y Tesorero. i.- Vigilar el inventario de la bodega.
+ARTÍCULO 16: Dentro de la Junta Administradora desempeña un papel muy importante para el éxito de las actividades administrativas de operación y mantenimiento del sistema, el Comité de Vigilancia, que se encargará de controlar y vigilar permanentemente todas las actividades que se realicen en la Junta. Serán sus funciones: a.- Comprobar la exactitud de los inventarios y estados financieros. b.- Verificar el dinero de caja cada vez que estime conveniente. c.- Vigilar que todos los abonados cumplan con sus obligaciones. d.- Fiscalizar las actividades realizadas por los miembros de la Junta. e.- Auditar y supervisar las cuentas de recaudación proveniente de los abonados. f.-Comprobar los gastos efectuados por la Junta. g.- Verificar el trabajo realizado por los fontaneros y/o mano de obra calificada y no calificada. h.- Firmar los documentos administrativos que den fe de aceptado los informes del Presidente y Tesorero. i.- Vigilar el inventario de la bodega.
 
 DE LOS COMITÉS DE APOYO
 
@@ -175,7 +173,7 @@ ARTÍCULO 19: La Junta Directiva de la Junta Administradora de Agua estará form
 
 ARTÍCULO 20: Son Atribuciones del PRESIDENTE: a.- Convocar a sesiones. b.- Abrir, presidir y cerrar las sesiones. c.-Elaborar la agenda junto con el Secretario. d.- Autorizar y aprobar con el Secretario las actas de las sesiones. e.-Autorizar y aprobar con el Tesorero todo documento que implique erogación de fondos. f.- Representar judicial y extrajudicialmente a la Junta Administradora.
 
-A R T Í C U L O 2 1 : S o n A t r i b u c i o n e s d e l VICEPRESIDENTE: a.- Sustituir al presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la mayoría simple de la Junta Directiva; b.- Supervisará las Comisiones que se asignen; c.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea.
+ARTÍCULO 2 1 : Son Atribuciones del VICEPRESIDENTE: a.- Sustituir al presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la mayoría simple de la Junta Directiva; b.- Supervisará las Comisiones que se asignen; c.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea.
 
 #### Artículo 22
 
@@ -185,7 +183,7 @@ ARTÍCULO 22: Son Atribuciones del SECRETARIO: a.- Llevar el libro de actas. b.-
 
 ARTÍCULO 23: Son Atribuciones del TESORERO:
 
-Es el encargado de manejar fondos, archivar documentos que indiquen ingresos y egresos: a.- Recaudar y administrar los fondos provenientes d e l s e r v i c i o d e contribuciones y otros ingresos destinados al sistema. b.-Responder solidariamente con el Presidente del manejo y custodia de los fondos que serán destinados a una cuenta bancaria o del sistema cooperativista. c.- Llevar al día y con claridad el registro y control de las operaciones que se refieren a entradas y salidas de dinero, tesorería de la Junta (libro de entradas y salidas, talonario de recibos ingresos y egresos, pagos mensuales de agua). d.- Informar mensualmente a la Junta sobre el mantenimiento económico y financiero (cuenta bancaria), con copia a la Municipalidad. e.- Dar a los abonados las explicaciones que soliciten sobre sus cuentas. f.- Llevar el inventario de los bienes de la Junta. g.- Autorizar conjuntamente con el Presidente toda erogación de fondos. h.-Presentar ante la Asamblea un informe de ingresos y egresos en forma trimestral y anual con copia a la Municipalidad.
+Es el encargado de manejar fondos, archivar documentos que indiquen ingresos y egresos: a.- Recaudar y administrar los fondos provenientes del servicio de contribuciones y otros ingresos destinados al sistema. b.-Responder solidariamente con el Presidente del manejo y custodia de los fondos que serán destinados a una cuenta bancaria o del sistema cooperativista. c.- Llevar al día y con claridad el registro y control de las operaciones que se refieren a entradas y salidas de dinero, tesorería de la Junta (libro de entradas y salidas, talonario de recibos ingresos y egresos, pagos mensuales de agua). d.- Informar mensualmente a la Junta sobre el mantenimiento económico y financiero (cuenta bancaria), con copia a la Municipalidad. e.- Dar a los abonados las explicaciones que soliciten sobre sus cuentas. f.- Llevar el inventario de los bienes de la Junta. g.- Autorizar conjuntamente con el Presidente toda erogación de fondos. h.-Presentar ante la Asamblea un informe de ingresos y egresos en forma trimestral y anual con copia a la Municipalidad.
 
 #### Artículo 24
 
@@ -209,7 +207,7 @@ CAPÍTULO VI DE LA DISOLUCIÓN Y LIQUIDACIÓN
 
 #### Artículo 28
 
-ARTÍCULO 28: En caso de disolución y liquidación de la Junta Administradora de Agua, los bienes de é s t a s e r á n d o n a d o s e x c l u s i v a m e n t e a o r g a n i z a c i o n e s filantrópicas, siempre y cuando éstas no sean de carácter lucrativo, que señale la Asamblea de usuarios, cumpliendo asimismo con lo estipulado en el Código Civil para su disolución y liquidación.
+ARTÍCULO 28: En caso de disolución y liquidación de la Junta Administradora de Agua, los bienes de ésta serán donados exclusivamente a organizaciones filantrópicas, siempre y cuando éstas no sean de carácter lucrativo, que señale la Asamblea de usuarios, cumpliendo asimismo con lo estipulado en el Código Civil para su disolución y liquidación.
 
 CAPÍTULO VII DISPOSICIONES GENERALES
 
@@ -233,11 +231,11 @@ SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD D
 
 TERCERO: La JUNTA ADMINISTRADORA
 
-DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, presentará anualmente ante el ENTE REGULADOR D E L O S S E RV I C I O S D E A G U A P O TA B L E Y S A N E A M I E N T O ( E R S A P S ) , l o s e s t a d o s financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y v a r i a c i o n e s d e l m i s m o , i n c l u y e n d o herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
+DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, presentará anualmente ante el ENTE REGULADOR DE LOS SE RV I C I O S D E A G U A P O TA B L E Y S A N E A M I E N T O ( ERSAPS ), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO: La JUNTA ADMINISTRADORA DE AGUA
 
-POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, D E P A R T A M E N T O D E I N T I B U C A , s e somete a las disposiciones legales y políticas e s t a b l e c i d a s p o r l a Secretaría de Estado y l o s y d e m á s e n t e s c o n t r a l o r e s d e l E s t a d o , facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
+POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, s e somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado y los y demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
 
 QUINTO: La disolución y liquidación de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, se hará de conformidad a sus estatutos y las leyes vigentes en el país, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia. Dicho trámite se hará bajo la Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
 
@@ -247,7 +245,7 @@ SÉPTIMO: La presente resolución deberá inscribirse en el Registro Especial de
 
 OCTAVO: Instruir a la Secretaría General para que de Oficio proceda a remitir el expediente a la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), para que emita la correspondiente inscripción.
 
-NOVENO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, cuya petición se hará a través de la Junta Directiva para ser proporcionado en forma gratuita, dando cumplimiento con el Artículo 18 Párrafo segundo de la Ley Marco d e l S e c t o r A g u a P o t a b l e y S a n e a m i e n t o .
+NOVENO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE AGUA BLANCA, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, cuya petición se hará a través de la Junta Directiva para ser proporcionado en forma gratuita, dando cumplimiento con el Artículo 18 Párrafo segundo de la Ley Marco del Sector Agua Potable y Saneamiento .
 
 NOTIFÍQUESE. (F) RICARDO ALFREDO MONTES NAJERA, SUBSECRETARIO DE ESTADO EN EL DESPACHO DE JUSTICIA (F) WALTER ENRIQUE PINEDA PAREDES, SECRETARIO GENERAL”.
 

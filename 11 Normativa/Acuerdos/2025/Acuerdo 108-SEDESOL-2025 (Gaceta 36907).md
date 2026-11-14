@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250804-36907-2/download"
 extraido: "2026-11-09"
-huella: "0d27c9ad5c7efccf"
+huella: "ec6423f3c0ce432a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 108-SEDESOL-2025
@@ -43,7 +43,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 05-2022, Artículo 11, se crea 
 
 Implementar el diseño y evaluación de las políticas públicas a fin de lograr una mayor eficacia y efectividad del sistema de protección social, que garanticen el goce de los derechos sociales, económicos, culturales y ambientales de los grupos en situación de pobreza, pobreza extrema y vulnerabilidad de Honduras. Impulsar la universalización de las políticas, planes, programas y proyectos en materia social, mediante acciones coordinadas y articuladas con la sociedad civil, gobiernos locales, instituciones e instancias que abordan la atención a sectores en situación de pobreza, pobreza extrema y vulnerabilidad en el país. Desarrollar de manera articulada e integral la agenda estratégica del sector social, que permita la coordinación de respuestas efectivas a la población en situación de pobreza, extrema pobreza y vulnerabilidad de Honduras.
 
-CONSIDERANDO: Que por Decreto Ejecutivo PCM-19- 2022, publicado en el Diario Oficial La Gaceta, en fecha 11 de agosto del 2022 se decreta: Artículo 1, donde literalmente dice: “La Secretaría de Estado en el Despacho Desarrollo Social, es la encargada de instituir las políticas sociales de la Honduras solidaria, incluyente, sin discriminación de ningún tipo y libre de violencia”.
+CONSIDERANDO: Que por Decreto Ejecutivo PCM-19-2022, publicado en el Diario Oficial La Gaceta, en fecha 11 de agosto del 2022 se decreta: Artículo 1, donde literalmente dice: “La Secretaría de Estado en el Despacho Desarrollo Social, es la encargada de instituir las políticas sociales de la Honduras solidaria, incluyente, sin discriminación de ningún tipo y libre de violencia”.
 
 CONSIDERANDO: Para el mejor cumplimiento de sus funciones, la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), a través de sus órganos técnicos, administrativos y operativos planeará y conducirá sus actividades en forma programada, eficiente y transparente, buscando la racionalización y optimización de los recursos materiales y humanos, con sujeción a los objetivos, resultados, estrategias y prioridades del Plan de Gobierno para Refundar Honduras 2022-2026, en armonía con los Objetivos de Desarrollo Sostenible, Visión de País, Plan de Nación, Ley Integral de Protección al Adulto Mayor y Jubilados de Honduras, Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad, la Política Protección Social (PPS), la Política de Apoyo Integral a la Primer Infancia, la Política Pública contra el Racismo y Contra la Discriminación Racial para el Desarrollo Integral de los Pueblos Indígenas y Afrohondureños, la Política Nacional de Niñez y Adolescencia en Honduras, el Plan Nacional de Igualdad y Equidad de Género de Honduras y demás disposiciones del Poder Ejecutivo.
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que según el Decreto Legislativo número 59-2023 se establece que
 
 POR TANTO
 
-La Secretaría de Estado en el Despacho de Desarrollo Social, en el ejercicio de las atribuciones que le confieren los artículos 59, 117 y 247 de la Constitución de la República; artículos 36, numerales 6, 8, 10; 116; de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM-05- 2022, Decreto Ejecutivo número PCM-19-2022.
+La Secretaría de Estado en el Despacho de Desarrollo Social, en el ejercicio de las atribuciones que le confieren los artículos 59, 117 y 247 de la Constitución de la República; artículos 36, numerales 6, 8, 10; 116; de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM-05-2022, Decreto Ejecutivo número PCM-19-2022.
 
 ACUERDA CREACIÓN DEL BONO CENTENARIO
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 44"
 sumario: "Acuerdo No. 360-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260604-37159/download"
 extraido: "2026-11-09"
-huella: "38ba53f1f0ea8a29"
+huella: "21f66c6e29be22ff"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 360-2026
@@ -41,19 +41,17 @@ El Gobierno General, se integra por el Gobierno Central y los Gobiernos Locales.
 
 CONSIDERANDO (3):
 
-Que el artículo 24 de la Ley Orgánica del Presupuesto p r e c e p t ú a q u e , d e n t r o de sus normas legales complementarias, se constituyen las Disposiciones Generales del Presupuesto que se regirán para el ejercicio fiscal a que se refiere el Presupuesto General de Ingresos y Egresos de la República; estas normas legales presupuestarias se relacionan directa y exclusivamente con la aprobación, ejecución, seguimiento, evaluación y liquidación del Presupuesto del que forman parte.
+Que el artículo 24 de la Ley Orgánica del Presupuesto preceptúa que, dentro de sus normas legales complementarias, se constituyen las Disposiciones Generales del Presupuesto que se regirán para el ejercicio fiscal a que se refiere el Presupuesto General de Ingresos y Egresos de la República; estas normas legales presupuestarias se relacionan directa y exclusivamente con la aprobación, ejecución, seguimiento, evaluación y liquidación del Presupuesto del que forman parte.
 
 CONSIDERANDO (4):
 
-Que mediante Decreto Legislativo No.62-2026 de fecha 21 de abril de 2026, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2026, incluyendo las Disposiciones Generales que regularán la ejecución de éste, dicho presupuesto fue publicado en el Diario Oficial La Gaceta No.
+Que mediante Decreto Legislativo No. 62-2026 de fecha 21 de abril de 2026, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2026, incluyendo las Disposiciones Generales que regularán la ejecución de éste, dicho presupuesto fue publicado en el Diario Oficial La Gaceta No. 37,124 de fecha 23 de abril de 2026.
 
-37,124 de fecha 23 de abril de 2026.
-
-CONSIDERANDO (5): Que el artículo 306 del Decreto Legislativo No.62-2026, faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Reglamentar las disposiciones presupuestarias contenidas en dicho Decreto Legislativo para su correcta y efectiva aplicación.
+CONSIDERANDO (5): Que el artículo 306 del Decreto Legislativo No. 62-2026, faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Reglamentar las disposiciones presupuestarias contenidas en dicho Decreto Legislativo para su correcta y efectiva aplicación.
 
 POR TANTO:
 
-En cumplimiento de lo estipulado en los artículos 245 numeral 11 y 255 de la Constitución de la República; 116 y 118 numeral 2 de la Ley General de la Administración Pública y 306 del Decreto Legislativo No.62-2026 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el Ejercicio Fiscal 2026.
+En cumplimiento de lo estipulado en los artículos 245 numeral 11 y 255 de la Constitución de la República; 116 y 118 numeral 2 de la Ley General de la Administración Pública y 306 del Decreto Legislativo No. 62-2026 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el Ejercicio Fiscal 2026.
 
 ACUERDA:
 
@@ -71,7 +69,7 @@ Esta normativa es de obligatorio cumplimiento para todas las Instituciones del S
 
 #### Artículo 2
 
-Artículo 2. Para una efectiva aplicación del Decreto Legislativo No.62-2026 y del presente Reglamento, se entenderán los términos y definiciones siguientes:
+Artículo 2. Para una efectiva aplicación del Decreto Legislativo No. 62-2026 y del presente Reglamento, se entenderán los términos y definiciones siguientes:
 
 1. PRESUPUESTO GENERAL DE INGRESOS Y
 
@@ -153,7 +151,7 @@ LA CUT O PAGO ENTRE CUENTAS (PEC): Este medio de pago se usa para las institucio
 
 21. OFICIO TÍTULO DE VALORES (OTV): Medio de pago utilizado en SIAFI para pagar a los institutos de previsión social el aporte patronal a través de bonos.
 
-2 2 . N O R M A S I N T E R N A C I O N A L E S D E CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) Y/O NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA (NIIF): Representan el lenguaje moderno para elaborar y presentar la información financiera, que colabora con la transparencia y la rendición de cuentas, al presentar sobre una base de buenas prácticas la realidad económica y financiera de las entidades que emiten dicha información, con lo cual se facilita la labor de organismos reguladores.
+2 2 . NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) Y/O NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA (NIIF): Representan el lenguaje moderno para elaborar y presentar la información financiera, que colabora con la transparencia y la rendición de cuentas, al presentar sobre una base de buenas prácticas la realidad económica y financiera de las entidades que emiten dicha información, con lo cual se facilita la labor de organismos reguladores.
 
 23. NORMAS DE CONTABILIDAD APLICADAS AL SECTOR PÚBLICO DE HONDURAS (NCASPH):
 
@@ -171,7 +169,7 @@ SERVIDORES PÚBLICOS (SIREP): Es un conjunto de normas, procedimientos e instrum
 
 27. ANEXO DESGLOSADO DE SUELDOS Y SALARIOS:
 
-Documento anexo al presupuesto que contiene la estructura de puestos de la institución ocupados y vacantes en todas sus modalidades, así como los montos mensuales y anuales de salarios y colaterales. Todas las instituciones deben presentar dicho anexo a la Dirección General de Presupuesto de la Secretaría de Finanzas, el cual debe contener las plazas del personal permanente, de confianza, temporal y por jornal, colaterales y otros beneficios otorgados independiente de la fuente de financiamiento. Asimismo, debe contener los cambios implementados de acuerdo con los artículos del Decreto Legislativo No.62-2026 contentivo de las Disposiciones Generales del Presupuesto vigentes, debiendo mantenerse actualizado.
+Documento anexo al presupuesto que contiene la estructura de puestos de la institución ocupados y vacantes en todas sus modalidades, así como los montos mensuales y anuales de salarios y colaterales. Todas las instituciones deben presentar dicho anexo a la Dirección General de Presupuesto de la Secretaría de Finanzas, el cual debe contener las plazas del personal permanente, de confianza, temporal y por jornal, colaterales y otros beneficios otorgados independiente de la fuente de financiamiento. Asimismo, debe contener los cambios implementados de acuerdo con los artículos del Decreto Legislativo No. 62-2026 contentivo de las Disposiciones Generales del Presupuesto vigentes, debiendo mantenerse actualizado.
 
 28. ESTATUS LABORAL: Es la condición en que un servidor público se encuentra en una institución del Estado, el cual puede ser “vigente” cuando está activo laborando en una institución y, “no vigente” cuando haya cesado de laborar en la institución.
 
@@ -225,7 +223,7 @@ Todos estos documentos se ponen a disposición del público en el portal de la S
 
 43. IGUALDAD SUSTANTIVA – IGUALDAD DE
 
-GÉNERO: A continuación, las definiciones para ambos conceptos relacionados con el contenido en el artículo 215 del Decreto Legislativo No.62-2026:
+GÉNERO: A continuación, las definiciones para ambos conceptos relacionados con el contenido en el artículo 215 del Decreto Legislativo No. 62-2026:
 
 Igualdad Sustantiva: Es el derecho a tener el mismo trato y oportunidades para ejercer los derechos humanos y las libertades fundamentales. Esto implica que hombres y mujeres tengan el mismo reconocimiento y acceso a los beneficios del desarrollo. Este concepto va más allá de la ley ya que implica eliminar obstáculos estructurales y desigualdades históricas que afectan a ciertos grupos permitiendo el acceso a equidad (CEDAW, 1981).
 
@@ -245,7 +243,7 @@ Multas
 
 #### Artículo 3
 
-Artículo 3. Las multas por incumplimiento a las normas presupuestarias contenidas en el Decreto Legislativo No.62- 2026 deben ser enteradas en el sistema bancario nacional a la orden de la Tesorería General de la República, debiéndose registrar las mismas en el rubro “Multas y Penas Varias”, utilizando el Recibo Oficial de Pago para la captación de ingresos gubernamentales (TGR-1) con base en lo dispuesto en el artículo 4 párrafos primero y segundo del Decreto Legislativo No.62-2026.
+Artículo 3. Las multas por incumplimiento a las normas presupuestarias contenidas en el Decreto Legislativo No. 62-2026 deben ser enteradas en el sistema bancario nacional a la orden de la Tesorería General de la República, debiéndose registrar las mismas en el rubro “Multas y Penas Varias”, utilizando el Recibo Oficial de Pago para la captación de ingresos gubernamentales (TGR-1) con base en lo dispuesto en el artículo 4 párrafos primero y segundo del Decreto Legislativo No. 62-2026.
 
 CAPÍTULO III
 
@@ -253,13 +251,13 @@ Ejecución Presupuestaria de los Ingresos
 
 #### Artículo 4
 
-Artículo 4. Para la incorporación de los recursos propios no ejecutados en el año anterior que establece el artículo 11 del Decreto Legislativo No.62-2026, se procederá aplicando el valor a incorporar al presupuesto vigente consignado en cada institución de la Administración Central que lo solicite.
+Artículo 4. Para la incorporación de los recursos propios no ejecutados en el año anterior que establece el artículo 11 del Decreto Legislativo No. 62-2026, se procederá aplicando el valor a incorporar al presupuesto vigente consignado en cada institución de la Administración Central que lo solicite.
 
-Habiendo alcanzado la meta de recaudación programada, se procederá a incorporar los recursos utilizando el procedimiento de incorporación de disponibilidades de caja y bancos establecido por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para el uso de recursos propios que cumplan con la condición establecida en el artículo 11 del Decreto Legislativo No.62-2026.
+Habiendo alcanzado la meta de recaudación programada, se procederá a incorporar los recursos utilizando el procedimiento de incorporación de disponibilidades de caja y bancos establecido por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para el uso de recursos propios que cumplan con la condición establecida en el artículo 11 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 5
 
-Artículo 5. Para dar cumplimiento de lo establecido en el artículo 18 del Decreto Legislativo No.62-2026, en lo referente al uso adecuado de los fondos recaudados en concepto del cuatro por ciento (4%) por servicios turísticos, se establece el destino de dichos fondos, los cuales podrán ser utilizados para la promoción y fomento del turismo del país, así como para el autosostenimiento del Instituto, incluyendo actividades administrativas, de gestión y de soporte operativo necesarias para su funcionamiento eficiente en base a los siguientes lineamientos:
+Artículo 5. Para dar cumplimiento de lo establecido en el artículo 18 del Decreto Legislativo No. 62-2026, en lo referente al uso adecuado de los fondos recaudados en concepto del cuatro por ciento (4%) por servicios turísticos, se establece el destino de dichos fondos, los cuales podrán ser utilizados para la promoción y fomento del turismo del país, así como para el autosostenimiento del Instituto, incluyendo actividades administrativas, de gestión y de soporte operativo necesarias para su funcionamiento eficiente en base a los siguientes lineamientos:
 
 1. Los fondos transferidos al Instituto Hondureño de Turismo (IHT) podrán ser utilizados para cubrir gastos administrativos y de gestión necesarios para su operatividad, incluyendo, pero no limitándose a:
 
@@ -277,11 +275,11 @@ f. Desarrollo y capacitación del personal.
 
 2. Los fondos destinados al autosostenimiento administrativo del Instituto no podrán exceder el treinta por ciento (30%) del total recaudado en concepto de tasa turística en un año fiscal, por lo que 70% restante se destinará al financiamiento de actividades de promoción y fomento al turismo, por parte de las unidades ejecutoras correspondientes; y,
 
-3. En los informes trimestrales establecidos en la Ley anual de Presupuesto (DL No.62-2026, artículo 209), el Instituto Hondureño de Turismo (IHT) deberá informar sobre la recaudación y sus destinos, deberán detallar las actividades realizadas, los recursos utilizados, los resultados obtenidos y cualquier otra información relevante para garantizar la transparencia y el uso adecuado de los fondos.
+3. En los informes trimestrales establecidos en la Ley anual de Presupuesto (DL No. 62-2026, artículo 209), el Instituto Hondureño de Turismo (IHT) deberá informar sobre la recaudación y sus destinos, deberán detallar las actividades realizadas, los recursos utilizados, los resultados obtenidos y cualquier otra información relevante para garantizar la transparencia y el uso adecuado de los fondos.
 
 #### Artículo 6
 
-Artículo 6. Con el propósito de operativizar la incorporación de los excedentes al Presupuesto General de Ingresos y Egresos de la República establecidos en el artículo 22 del Decreto Legislativo No.62-2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP), utilizará el Formulario de Modificación Presupuestaria conocido como “FMP-05” generado por el Sistema de Administración Financiera Integrada (SIAFI) el cual tendrá el mismo efecto que una Resolución Interna con base a lo establecido en el artículo 22 y 188 del Decreto Legislativo No.62-2026.
+Artículo 6. Con el propósito de operativizar la incorporación de los excedentes al Presupuesto General de Ingresos y Egresos de la República establecidos en el artículo 22 del Decreto Legislativo No. 62-2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP), utilizará el Formulario de Modificación Presupuestaria conocido como “FMP-05” generado por el Sistema de Administración Financiera Integrada (SIAFI) el cual tendrá el mismo efecto que una Resolución Interna con base a lo establecido en el artículo 22 y 188 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 7
 
@@ -291,11 +289,11 @@ Las autoridades deben aprobar y dar seguimiento a la implementación del servici
 
 El incumplimiento de la implementación del servicio del TGR1 Electrónico conlleva la medida de no transferir el porcentaje de los recursos correspondientes de la fuente Recursos Propios y/o la restricción de las modificaciones presupuestarias.
 
-La Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de las dependencias competentes, emitirá las disposiciones técnicas necesarias para la correcta administración, control y consulta del Recibo Oficial de Pago TGR1 en los sistemas de información financiera gubernamental, sin perjuicio de las responsabilidades administrativas que correspondan en caso de incumplimiento por parte de las instituciones obligadas; lo anterior en cumplimiento del artículo 28 del Decreto Legislativo No.62- 2026.
+La Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de las dependencias competentes, emitirá las disposiciones técnicas necesarias para la correcta administración, control y consulta del Recibo Oficial de Pago TGR1 en los sistemas de información financiera gubernamental, sin perjuicio de las responsabilidades administrativas que correspondan en caso de incumplimiento por parte de las instituciones obligadas; lo anterior en cumplimiento del artículo 28 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 8
 
-Artículo 8. Los conceptos establecidos en el artículo 30 del Decreto Legislativo No.62-2026 son rebajados de los ingresos totales para obtener los ingresos netos, en vista que dichos conceptos:
+Artículo 8. Los conceptos establecidos en el artículo 30 del Decreto Legislativo No. 62-2026 son rebajados de los ingresos totales para obtener los ingresos netos, en vista que dichos conceptos:
 
 1. Duplican el porcentaje a pagar en concepto de transferencias que por ley corresponde otorgar al Estado;
 
@@ -305,11 +303,11 @@ Artículo 8. Los conceptos establecidos en el artículo 30 del Decreto Legislati
 
 #### Artículo 9
 
-Artículo 9. Previo al traspaso de los fondos provenientes de la cooperación externa reembolsable y no reembolsable establecida en el primer párrafo del artículo 33 del Decreto Legislativo No.62-2026, se verificará de manera coordinada entre las Direcciones de Inversión y Crédito Público de la Secretaría de Estado en el Despacho de Finanzas, el proceso de cierre de proyectos cuya cláusula contractual no establezca la devolución de fondos al organismo, o se haya obtenido no objeción de estos.
+Artículo 9. Previo al traspaso de los fondos provenientes de la cooperación externa reembolsable y no reembolsable establecida en el primer párrafo del artículo 33 del Decreto Legislativo No. 62-2026, se verificará de manera coordinada entre las Direcciones de Inversión y Crédito Público de la Secretaría de Estado en el Despacho de Finanzas, el proceso de cierre de proyectos cuya cláusula contractual no establezca la devolución de fondos al organismo, o se haya obtenido no objeción de estos.
 
 #### Artículo 10
 
-Artículo 10. Para dar cumplimiento a la fungibilidad autorizada en el artículo 39 del Decreto Legislativo No.62- 2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Crédito Público (DGCP) podrá gestionar el endeudamiento público interno o externo, contra los techos presupuestarios autorizados, indistintamente sea fuente interna o externa, para lo cual se modificará la Política de Endeudamiento Público vigente y el Plan Anual de Financiamiento aprobado, de igual forma podrá realizar las modificaciones presupuestarias que correspondan.
+Artículo 10. Para dar cumplimiento a la fungibilidad autorizada en el artículo 39 del Decreto Legislativo No. 62-2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Crédito Público (DGCP) podrá gestionar el endeudamiento público interno o externo, contra los techos presupuestarios autorizados, indistintamente sea fuente interna o externa, para lo cual se modificará la Política de Endeudamiento Público vigente y el Plan Anual de Financiamiento aprobado, de igual forma podrá realizar las modificaciones presupuestarias que correspondan.
 
 La Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Crédito Público, podrá redistribuir, reasignar, reorientar o desestimar los fondos provenientes de los créditos externos, siempre que sea permitido por las condiciones de la operación respectiva y de la ley que lo autorizó.
 
@@ -323,25 +321,25 @@ Ejecución Presupuestaria de los Egresos
 
 #### Artículo 11
 
-Artículo 11. Con relación al Artículo 51 de Decreto Legislativo No.62-2026, párrafo 2, se aclara que todos los documentos del gasto F01 que no se encuentren en Devengado Aprobado en el plazo máximo establecido de cuarenta y cinco (45) días contados a partir del Precompromiso, serán revertidos en el Sistema de Administración Financiera Integrada (SIAFI) de forma automática.
+Artículo 11. Con relación al Artículo 51 de Decreto Legislativo No. 62-2026, párrafo 2, se aclara que todos los documentos del gasto F01 que no se encuentren en Devengado Aprobado en el plazo máximo establecido de cuarenta y cinco (45) días contados a partir del Precompromiso, serán revertidos en el Sistema de Administración Financiera Integrada (SIAFI) de forma automática.
 
 #### Artículo 12
 
-Artículo 12. La exigencia de presentar copia del Formulario de Ejecución de Gasto (F01) al momento de la orden de compra o inicio de obra establecida en el artículo 52 del Decreto Legislativo No.62-2026; aplica también para órdenes de compra que se generan por Catálogo Electrónico.
+Artículo 12. La exigencia de presentar copia del Formulario de Ejecución de Gasto (F01) al momento de la orden de compra o inicio de obra establecida en el artículo 52 del Decreto Legislativo No. 62-2026; aplica también para órdenes de compra que se generan por Catálogo Electrónico.
 
 #### Artículo 13
 
-Artículo 13. Para dar cumplimiento a la reactivación del Comité Interinstitucional de vinculación de CUBS, establecida en el artículo 54 del Decreto Legislativo No.62- 2026, corresponde a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP) liderar dicho Comité, considerando que lo que se persigue es el fortalecimiento y la mejora en la Calidad del Gasto Público, siendo la DGP, la que lidera estos temas.
+Artículo 13. Para dar cumplimiento a la reactivación del Comité Interinstitucional de vinculación de CUBS, establecida en el artículo 54 del Decreto Legislativo No. 62-2026, corresponde a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP) liderar dicho Comité, considerando que lo que se persigue es el fortalecimiento y la mejora en la Calidad del Gasto Público, siendo la DGP, la que lidera estos temas.
 
 #### Artículo 14
 
-Artículo 14. Para efectos de la aplicación del artículo 62 del Decreto Legislativo No.62-2026, es procedente la habilitación del beneficio de jubilación a los jubilados de cualquier institución del Estado (jubilados por cualquier instituto de previsión social) que sean contratados a través del subgrupo 24000 Servicios Profesionales para pago de honorarios y consultorías, o contratados bajo el subgrupo de gasto 12000 Personal por Contrato (Temporal) para prestar sus servicios personales, en vista que ninguna de estas modalidades ostenta el beneficio de jubilación, por lo que si un jubilado es contratado bajo alguna de estas figuras no se ve afectado el beneficio de jubilación del cual ya goza.
+Artículo 14. Para efectos de la aplicación del artículo 62 del Decreto Legislativo No. 62-2026, es procedente la habilitación del beneficio de jubilación a los jubilados de cualquier institución del Estado (jubilados por cualquier instituto de previsión social) que sean contratados a través del subgrupo 24000 Servicios Profesionales para pago de honorarios y consultorías, o contratados bajo el subgrupo de gasto 12000 Personal por Contrato (Temporal) para prestar sus servicios personales, en vista que ninguna de estas modalidades ostenta el beneficio de jubilación, por lo que si un jubilado es contratado bajo alguna de estas figuras no se ve afectado el beneficio de jubilación del cual ya goza.
 
-Asimismo, el artículo 62 del Decreto Legislativo No.62- 2026, establece que se pueden contratar jubilados para realizar interinato, en estos casos, el subgerente de recursos humanos en la Administración Central o su equivalente en el resto de instituciones públicas deberá asegurarse que para estos interinatos que se registran en el objeto de gasto 11100 no se aplique ninguna deducción por cotización a los regímenes previsionales existentes, en vista que el candidato que ostentará el cargo de interinato ya goza del beneficio de jubilación y el mismo no será suspendido, por lo que no puede cotizar sobre un beneficio que ya ostenta.
+Asimismo, el artículo 62 del Decreto Legislativo No. 62-2026, establece que se pueden contratar jubilados para realizar interinato, en estos casos, el subgerente de recursos humanos en la Administración Central o su equivalente en el resto de instituciones públicas deberá asegurarse que para estos interinatos que se registran en el objeto de gasto 11100 no se aplique ninguna deducción por cotización a los regímenes previsionales existentes, en vista que el candidato que ostentará el cargo de interinato ya goza del beneficio de jubilación y el mismo no será suspendido, por lo que no puede cotizar sobre un beneficio que ya ostenta.
 
 #### Artículo 15
 
-Artículo 15. Las gestiones para la actualización de fichas del registro de servidores públicos establecidas en el artículo 63 del Decreto Legislativo No.62-2026, se basarán en los lineamientos, requisitos y la documentación que se defina en los manuales y procedimientos documentados en el área de registro y control de servidores de SIREP.
+Artículo 15. Las gestiones para la actualización de fichas del registro de servidores públicos establecidas en el artículo 63 del Decreto Legislativo No. 62-2026, se basarán en los lineamientos, requisitos y la documentación que se defina en los manuales y procedimientos documentados en el área de registro y control de servidores de SIREP.
 
 La documentación que se requiera estará sujeta a la revisión y análisis de la información presentada en la solicitud de registro y lo cargado en el SIREP.
 
@@ -349,11 +347,11 @@ La respuesta a una solicitud en SIREP oscilará de tres (3) a cinco (5) días h�
 
 #### Artículo 16
 
-Artículo 16. De acuerdo a lo programado en el calendario de pago y la disponibilidad presupuestaria, la Tesorería General de la República, una vez reciba los F01 de los sueldos y salarios del personal diplomático y consular, remitirá dicha información al Banco Central de Honduras a través de un Oficio de Compra de Divisas (OCD), para que éste proceda a realizar las transferencias en dólares estadounidenses, euros o en la moneda que corresponda, de conformidad a lo dispuesto en el artículo 67 del Decreto Legislativo No.62-2026.
+Artículo 16. De acuerdo a lo programado en el calendario de pago y la disponibilidad presupuestaria, la Tesorería General de la República, una vez reciba los F01 de los sueldos y salarios del personal diplomático y consular, remitirá dicha información al Banco Central de Honduras a través de un Oficio de Compra de Divisas (OCD), para que éste proceda a realizar las transferencias en dólares estadounidenses, euros o en la moneda que corresponda, de conformidad a lo dispuesto en el artículo 67 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 17
 
-Artículo 17. En relación con el artículo 68 del Decreto Legislativo No.62-2026 las vacaciones a los servidores públicos deberán otorgarse durante el período que corresponda y antes de que se inicie otro nuevo periodo; excepcionalmente y en casos calificados ya fuere por las necesidades del servicio o por motivos de interés personal del servidor público, se podrá acumular hasta dos (2) períodos de vacaciones consecutivas, previa autorización de la autoridad inmediata o respectivo jefe de dependencia, informando de esta situación a la Subgerencia de Recursos Humanos; en estos casos, el disfrute de los dos
+Artículo 17. En relación con el artículo 68 del Decreto Legislativo No. 62-2026 las vacaciones a los servidores públicos deberán otorgarse durante el período que corresponda y antes de que se inicie otro nuevo periodo; excepcionalmente y en casos calificados ya fuere por las necesidades del servicio o por motivos de interés personal del servidor público, se podrá acumular hasta dos (2) períodos de vacaciones consecutivas, previa autorización de la autoridad inmediata o respectivo jefe de dependencia, informando de esta situación a la Subgerencia de Recursos Humanos; en estos casos, el disfrute de los dos
 
 (2) períodos acumulados podrá autorizarse en forma continua o alterna, según fuere oportuno y conveniente.
 
@@ -361,7 +359,7 @@ El derecho al pago de los días de vacaciones no gozados, es procedente previo a
 
 #### Artículo 18
 
-Artículo 18. Las actualizaciones de los Anexos Desglosados de Sueldos y Salarios de Personal Permanente a que se refiere el artículo 69 del Decreto Legislativo No.62-2026, deben ser remitidas por las instituciones a la Dirección General de Presupuesto a través del Sistema de Registro y Control de Empleados Públicos (SIREP).
+Artículo 18. Las actualizaciones de los Anexos Desglosados de Sueldos y Salarios de Personal Permanente a que se refiere el artículo 69 del Decreto Legislativo No. 62-2026, deben ser remitidas por las instituciones a la Dirección General de Presupuesto a través del Sistema de Registro y Control de Empleados Públicos (SIREP).
 
 Para las instituciones de la Administración Central, las actualizaciones de los Anexos se deben remitir con los siguientes documentos: 1) la Resolución emitida por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en la que se autorizó la modificación de estructura de puestos, 2) el Dictamen de la Administración Nacional de Servicio Civil (ANSEC); y, 3) el Oficio de respuesta de la SEFIN para los casos de ajustes salariales en concepto de salario mínimo.
 
@@ -369,21 +367,21 @@ De igual manera se debe remitir a SIREP los cambios o actualizaciones de los Con
 
 #### Artículo 19
 
-Artículo 19. Cualquier institución del Sector Público No Financiero (SPNF) que pretenda otorgar ajustes salariales de diversa índole con base en lo establecido en el artículo 80 del Decreto Legislativo No.62-2026, deberá solicitar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) previo a su otorgamiento, el Dictamen de Disponibilidad Presupuestaria (DDP) y la Resolución Interna (RI) de autorización correspondiente cumpliendo con los requisitos y condiciones establecidos en el artículo 80 antes referido.
+Artículo 19. Cualquier institución del Sector Público No Financiero (SPNF) que pretenda otorgar ajustes salariales de diversa índole con base en lo establecido en el artículo 80 del Decreto Legislativo No. 62-2026, deberá solicitar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) previo a su otorgamiento, el Dictamen de Disponibilidad Presupuestaria (DDP) y la Resolución Interna (RI) de autorización correspondiente cumpliendo con los requisitos y condiciones establecidos en el artículo 80 antes referido.
 
 El dictamen y la resolución emitidos por la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Presupuesto aplica tanto para incrementos salariales por Índice Interanual de Precios al Consumidor (IPC), nivelaciones salariales y restructuración de puestos y salarios.
 
 La Secretaría de Estado en el Despacho de Finanzas (SEFIN) no emitirá ninguna autorización, si la solicitud de dictamen y resolución es posterior al otorgamiento del beneficio por parte de la Institución solicitante; por lo que la SEFIN devolverá la solicitud presentada por la institución con copia al Tribunal Superior de Cuentas sin perjuicio de la responsabilidad civil o penal.
 
-Es responsabilidad de las instituciones exceptuadas en el último párrafo del artículo 80 del Decreto Legislativo No.62- 2026, garantizar la sostenibilidad presupuestaria y financiera del beneficio por los ajustes salariales de diversa índole que otorguen dichas instituciones dentro del presente ejercicio fiscal y para los siguientes años en lo que corresponde al financiamiento de sueldos, colaterales y cuotas patronales vinculados a los mismos, los cuales deben ser financiados de su propio presupuesto en atención del artículo 20 del Decreto Legislativo No.62-2026.
+Es responsabilidad de las instituciones exceptuadas en el último párrafo del artículo 80 del Decreto Legislativo No. 62-2026, garantizar la sostenibilidad presupuestaria y financiera del beneficio por los ajustes salariales de diversa índole que otorguen dichas instituciones dentro del presente ejercicio fiscal y para los siguientes años en lo que corresponde al financiamiento de sueldos, colaterales y cuotas patronales vinculados a los mismos, los cuales deben ser financiados de su propio presupuesto en atención del artículo 20 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 20
 
-Artículo 20. En cumplimento al artículo 81 del Decreto Legislativo No.62-2026, los incrementos salariales que otorguen las Instituciones regidas por Contratos Colectivos, independiente de la fuente de financiamiento deberán de presentar ante la Secretaría de Finanzas (SEFIN), previo a su otorgamiento, la solicitud oficial correspondiente.
+Artículo 20. En cumplimento al artículo 81 del Decreto Legislativo No. 62-2026, los incrementos salariales que otorguen las Instituciones regidas por Contratos Colectivos, independiente de la fuente de financiamiento deberán de presentar ante la Secretaría de Finanzas (SEFIN), previo a su otorgamiento, la solicitud oficial correspondiente.
 
 #### Artículo 21
 
-Artículo 21. Los traslados de plazas de personal docente efectuados de conformidad al artículo 90 del Decreto Legislativo No.62-2026 deben notificarse a la Dirección General de Presupuesto por la Subgerencia de Recursos Humanos Docentes para efectos de registro, control y pago a más tardar cinco (5) días después de efectuado el traslado.
+Artículo 21. Los traslados de plazas de personal docente efectuados de conformidad al artículo 90 del Decreto Legislativo No. 62-2026 deben notificarse a la Dirección General de Presupuesto por la Subgerencia de Recursos Humanos Docentes para efectos de registro, control y pago a más tardar cinco (5) días después de efectuado el traslado.
 
 Cualquier pago indebido que se derive del incumplimiento de lo prescrito o de cualquier información proporcionada en forma errónea será responsabilidad de la Subgerencia de Recursos Humanos Docentes, dependiente de la Secretaría de Estado en el Despacho de Educación, (SEDUC).
 
@@ -395,17 +393,17 @@ Para los trámites descritos en el párrafo anterior, no se requiere de la emisi
 
 #### Artículo 22
 
-Artículo 22. Los contratos especiales (Objeto 12910) podrán realizarse en los casos en que la plaza no exista dentro del Anexo Desglosado de Sueldos, de encontrarse la plaza en proceso de modificación de estructura de puesto y una vez se haya finalizado y aplicado en el Anexo Desglosado de Sueldos la creación de dicha plaza, produce la terminación del contrato especial en aplicación de lo establecido en el artículo 94 del Decreto Legislativo No.62-2026.
+Artículo 22. Los contratos especiales (Objeto 12910) podrán realizarse en los casos en que la plaza no exista dentro del Anexo Desglosado de Sueldos, de encontrarse la plaza en proceso de modificación de estructura de puesto y una vez se haya finalizado y aplicado en el Anexo Desglosado de Sueldos la creación de dicha plaza, produce la terminación del contrato especial en aplicación de lo establecido en el artículo 94 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 23
 
-Artículo 23. Las creaciones de plazas a las que se refiere el artículo 96 numerales 1) y 2) del Decreto Legislativo No.62- 2026, aplica solamente para puestos de jefaturas, directores o personal de nuevas unidades en casos de reestructuración.
+Artículo 23. Las creaciones de plazas a las que se refiere el artículo 96 numerales 1) y 2) del Decreto Legislativo No. 62-2026, aplica solamente para puestos de jefaturas, directores o personal de nuevas unidades en casos de reestructuración.
 
 Si el ahorro corresponde a puestos vacantes durante el presente ejercicio fiscal, los mismos deberán cancelarse para que el financiamiento sea sostenible en el tiempo; de no poder ceder la plaza vacante (vacante temporal), se debe presentar otra fuente de financiamiento, caso contrario, no se podrán dictaminar favorablemente la creación de la plaza.
 
 #### Artículo 24
 
-Artículo 24. Con relación a lo dispuesto en el artículo 97 del Decreto Legislativo No.62-2026, los trabajos realizados en horas extraordinarias serán remunerados cuando los autorice el titular de la institución, el que debe tomar en cuenta la necesidad, urgencia y magnitud de la labor.
+Artículo 24. Con relación a lo dispuesto en el artículo 97 del Decreto Legislativo No. 62-2026, los trabajos realizados en horas extraordinarias serán remunerados cuando los autorice el titular de la institución, el que debe tomar en cuenta la necesidad, urgencia y magnitud de la labor.
 
 El trabajo extraordinario sumado al ordinario no podrá exceder de once (11) horas diarias, salvo casos especiales de necesidad calificados por el jefe respectivo y aprobado por el titular de la institución, y el tiempo extraordinario podrá extenderse de forma consecutiva al día siguiente, hasta el minuto antes de la hora de entrada del tiempo ordinario laborable; en todo caso la remuneración estará sujeta al procedimiento y control que establezcan los reglamentos internos de personal de cada dependencia administrativa, además de los controles de asistencia diaria que deberá llevarse.
 
@@ -419,23 +417,23 @@ El tiempo compensatorio se reconocerá en días, al equivalente del número de h
 
 #### Artículo 25
 
-Artículo 25. El otorgamiento de los gastos de representación indicados en el artículo 99 del Decreto Legislativo No.62- 2026, aplicará a aquellos funcionarios cuyo salario sea igual o menor al valor que corresponde al salario nominal del Presidente de la República.
+Artículo 25. El otorgamiento de los gastos de representación indicados en el artículo 99 del Decreto Legislativo No. 62-2026, aplicará a aquellos funcionarios cuyo salario sea igual o menor al valor que corresponde al salario nominal del Presidente de la República.
 
 De haber otorgado gastos de representación a funcionarios con salario superior al del Presidente de la República y a funcionarios de los Órganos Desconcentrados referidos en el antepenúltimo párrafo del artículo 99 de la Ley, que devengan salarios superiores al de los Secretarios y Subsecretarios de Estado a la cual están adscritas, los mismos deben ser devueltos a la Tesorería General de la República (TGR) o la Tesorería Institucional según corresponda.
 
-Los casos que se identifiquen con inconsistencias serán remitidos por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) al Tribunal Superior de Cuentas en cumplimiento del artículo 4 del Decreto Legislativo No.62- 2026.
+Los casos que se identifiquen con inconsistencias serán remitidos por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) al Tribunal Superior de Cuentas en cumplimiento del artículo 4 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 26
 
-Artículo 26. La Tesorería General de la República (TGR) solicitará a la Dirección General de Crédito Público (DGCP) la emisión de los bonos referidos en el artículo 102 del Decreto Legislativo No.62-2026, indicando el valor a pagar, condiciones financieras acordadas y la aceptación por parte de los institutos de Previsión Social, donde indiquen que se encuentran conforme con la propuesta y emisión de valores gubernamentales.
+Artículo 26. La Tesorería General de la República (TGR) solicitará a la Dirección General de Crédito Público (DGCP) la emisión de los bonos referidos en el artículo 102 del Decreto Legislativo No. 62-2026, indicando el valor a pagar, condiciones financieras acordadas y la aceptación por parte de los institutos de Previsión Social, donde indiquen que se encuentran conforme con la propuesta y emisión de valores gubernamentales.
 
 #### Artículo 27
 
-Artículo 27. La emisión de compromiso será por orden de compra generada o del contrato de bienes o servicios suscrito por único proveedor o contratista con el Órgano responsable de la contratación, lo anterior con base en los umbrales y modalidades de contratación descritos en el artículo 103 del Decreto Legislativo No.62-2026.
+Artículo 27. La emisión de compromiso será por orden de compra generada o del contrato de bienes o servicios suscrito por único proveedor o contratista con el Órgano responsable de la contratación, lo anterior con base en los umbrales y modalidades de contratación descritos en el artículo 103 del Decreto Legislativo No. 62-2026.
 
 Para efectos de publicidad, trazabilidad y gestión de la información en el sistema HonduCompras, las instituciones contratantes deberán solicitar la incorporación de la empresa o proveedor en el módulo de difusión, una vez recibidas las cotizaciones del procedimiento correspondiente; para dicho registro, la Institución deberá utilizar el formulario oficial emitido por la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE), acompañando la información y documentación mínima que esta determine mediante lineamientos o instructivos.
 
-La habilitación al módulo de difusión de HonduCompras no equivaldrá a inscripción en el Registro de Proveedores y Contratistas, ni sustituirá los requisitos legales exigibles cuando, por la cuantía o modalidad de contratación dicha inscripción resulte obligatoria; lo anterior en aplicación y cumplimiento de lo establecido en el Artículo 103 del Decreto Legislativo No.62-2026.
+La habilitación al módulo de difusión de HonduCompras no equivaldrá a inscripción en el Registro de Proveedores y Contratistas, ni sustituirá los requisitos legales exigibles cuando, por la cuantía o modalidad de contratación dicha inscripción resulte obligatoria; lo anterior en aplicación y cumplimiento de lo establecido en el Artículo 103 del Decreto Legislativo No. 62-2026.
 
 Asimismo, en el proceso de planificación y ejecución presupuestaria, las instituciones del sector público deberán proporcionar a la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE), la información necesaria para identificar su vinculación con el presupuesto, incluyendo los datos de adquisiciones y contrataciones reflejados en el Plan Anual de Compras y Contrataciones (PACC).
 
@@ -443,7 +441,7 @@ El Gerente Administrativo en las Secretarías de Estado y quien realice esta fun
 
 #### Artículo 28
 
-Artículo 28. En cumplimiento de lo establecido en el artículo 108 del Decreto Legislativo No.62-2026 las Instituciones del Sector Público a través de su máxima autoridad solicitarán a la Secretaría de Estado en el Despacho de Finanzas, a través de la Dirección General de Tecnologías de la Información (DGTI) la emisión del Dictamen Técnico, dicha solicitud deberá incluir la siguiente documentación:
+Artículo 28. En cumplimiento de lo establecido en el artículo 108 del Decreto Legislativo No. 62-2026 las Instituciones del Sector Público a través de su máxima autoridad solicitarán a la Secretaría de Estado en el Despacho de Finanzas, a través de la Dirección General de Tecnologías de la Información (DGTI) la emisión del Dictamen Técnico, dicha solicitud deberá incluir la siguiente documentación:
 
 1. Oficio dirigido a la máxima autoridad de la SEFIN, detallando claramente que es lo que requieren adquirir (compra de sistemas de información o desarrollo de sistemas informáticos); y,
 
@@ -451,19 +449,19 @@ Artículo 28. En cumplimiento de lo establecido en el artículo 108 del Decreto 
 
 De no presentar la documentación completa, se solicitará la subsanación de esta y se pausará el plazo establecido en la Ley para la emisión del Dictamen Técnico; reactivándose el proceso una vez que se complete la documentación, generando para efectos de auditoría de cumplimiento las comunicaciones oficiales correspondientes.
 
-En caso de no haber recibido el Dictamen en el periodo de tiempo establecido en el artículo 108 del Decreto Legislativo No.62-2026, la institución solicitante quedaría habilitada a adquirir el sistema requerido, haciendo constar en su expediente la solicitud realizada ante la instancia correspondiente y documentando que no se recibió el Dictamen solicitado en el tiempo legalmente establecido.
+En caso de no haber recibido el Dictamen en el periodo de tiempo establecido en el artículo 108 del Decreto Legislativo No. 62-2026, la institución solicitante quedaría habilitada a adquirir el sistema requerido, haciendo constar en su expediente la solicitud realizada ante la instancia correspondiente y documentando que no se recibió el Dictamen solicitado en el tiempo legalmente establecido.
 
 En caso de que el dictamen técnico sea favorable, la Secretaría de Finanzas proveerá posteriormente los lineamientos para garantizar la interoperabilidad o intercambio de información entre los sistemas cuando éste lo requiera; el dictamen técnico emitido, podrá ser firmado por el medio que autorice la SEFIN.
 
 #### Artículo 29
 
-Artículo 29. En aplicación de lo establecido en el Decreto Legislativo No.62-2026, artículo 110, en caso de que se requiera complementar la asignación de gastos de viaje otorgada por la institución u organismo internacional quien patrocina un viaje, al servidor público se le podrán ajustar los gastos de subsistencia hasta un 75% en lo que corresponde al hospedaje y/o hasta un 20% para gastos de alimentación, propinas, aseo de ropa, llamadas telefónicas personales, bebidas y otras, tal como lo establece el reglamento de viáticos en su artículo 28.
+Artículo 29. En aplicación de lo establecido en el Decreto Legislativo No. 62-2026, artículo 110, en caso de que se requiera complementar la asignación de gastos de viaje otorgada por la institución u organismo internacional quien patrocina un viaje, al servidor público se le podrán ajustar los gastos de subsistencia hasta un 75% en lo que corresponde al hospedaje y/o hasta un 20% para gastos de alimentación, propinas, aseo de ropa, llamadas telefónicas personales, bebidas y otras, tal como lo establece el reglamento de viáticos en su artículo 28.
 
 Los cálculos se realizarán con base al valor recibido del patrocinador y lo que le corresponde al viajero en la tabla del Reglamento de Viáticos y Otros Gastos de Viaje para funcionarios y empleados del Poder Ejecutivo; sin perjuicio del cumplimiento de lo establecido en el artículo 16 del referido reglamento.
 
 #### Artículo 30
 
-Artículo 30. Para dar cumplimiento a lo establecido en el artículo 113 del Decreto Legislativo No.62-2026, con relación a la adquisición de boletos aéreos para servidores públicos, funcionarios, personal contratado o cualquier otra persona cuyo desplazamiento oficial sea financiado con recursos públicos, requerirá la obtención de un mínimo de tres (3) cotizaciones válidas, independientemente del monto de la contratación, a fin de asegurar criterios de economía, razonabilidad, transparencia y mejor decisión administrativa.
+Artículo 30. Para dar cumplimiento a lo establecido en el artículo 113 del Decreto Legislativo No. 62-2026, con relación a la adquisición de boletos aéreos para servidores públicos, funcionarios, personal contratado o cualquier otra persona cuyo desplazamiento oficial sea financiado con recursos públicos, requerirá la obtención de un mínimo de tres (3) cotizaciones válidas, independientemente del monto de la contratación, a fin de asegurar criterios de economía, razonabilidad, transparencia y mejor decisión administrativa.
 
 Para lo cual la institución contratante deberá incorporar al expediente administrativo, como mínimo el siguiente procedimiento para la adquisición de boletos aéreos:
 
@@ -483,13 +481,13 @@ g) La constancia de publicación en HonduCompras, de conformidad con la normativ
 
 #### Artículo 31
 
-Artículo 31. En aplicación a lo dispuesto en el artículo 118 del Decreto Legislativo No.62-2026, previo a emitir el Acuerdo Ministerial o Resolución de la prórroga de los contratos de arrendamiento de bienes inmuebles suscritos por anualidades, la Unidad Ejecutora responsable deberá someter la propuesta de contrato a dictamen u opinión legal, técnica y financiera a las unidades correspondientes de la institución, a fin de llevar a cabo el proceso establecido.
+Artículo 31. En aplicación a lo dispuesto en el artículo 118 del Decreto Legislativo No. 62-2026, previo a emitir el Acuerdo Ministerial o Resolución de la prórroga de los contratos de arrendamiento de bienes inmuebles suscritos por anualidades, la Unidad Ejecutora responsable deberá someter la propuesta de contrato a dictamen u opinión legal, técnica y financiera a las unidades correspondientes de la institución, a fin de llevar a cabo el proceso establecido.
 
 #### Artículo 40
 
-Artículo 40. Las empresas estatales referidas en el artículo 121 del Decreto Legislativo No.62-2026, deberán publicar en HONDUCOMPRAS los bienes y servicios que ofrecen y las áreas de cobertura nacional donde se prestan; de recibir solicitud de cotización, la misma debe ser atendida en un período no mayor a dos (2) días hábiles.
+Artículo 40. Las empresas estatales referidas en el artículo 121 del Decreto Legislativo No. 62-2026, deberán publicar en HONDUCOMPRAS los bienes y servicios que ofrecen y las áreas de cobertura nacional donde se prestan; de recibir solicitud de cotización, la misma debe ser atendida en un período no mayor a dos (2) días hábiles.
 
-En caso de no recibir la cotización en el periodo señalado, o habiéndose documentado que la empresa estatal no cuenta con cobertura, las instituciones solicitantes podrán realizar sus procedimientos de contratación de conformidad a lo dispuesto en la Ley de Compras y Contrataciones del Estado y su Reglamento; aplicando las modalidades de contratación establecidas en el artículo 360 de la Constitución de la República y 38 de la Ley de Contratación del Estado relacionado a los umbrales y montos exigibles señalados en el artículo 103 del Decreto Legislativo No.62-2026.
+En caso de no recibir la cotización en el periodo señalado, o habiéndose documentado que la empresa estatal no cuenta con cobertura, las instituciones solicitantes podrán realizar sus procedimientos de contratación de conformidad a lo dispuesto en la Ley de Compras y Contrataciones del Estado y su Reglamento; aplicando las modalidades de contratación establecidas en el artículo 360 de la Constitución de la República y 38 de la Ley de Contratación del Estado relacionado a los umbrales y montos exigibles señalados en el artículo 103 del Decreto Legislativo No. 62-2026.
 
 De aceptar cotización y tener acuerdo entre las partes, se deberán celebrar contratos de conformidad con lo establecido en la Ley de Contratación del Estado y demás normativa legal aplicable.
 
@@ -499,33 +497,33 @@ Todo lo actuado debe constar en su expediente de contratación documentando y mo
 
 Artículo 32. Las contrataciones de consultores se refieren a los servicios profesionales prestados por empresas, profesionales y especialistas, sin relación de dependencia patronal con el Estado. Corresponde a consultorías contra entrega de producto y/o contraprestación de servicios y cuyos conceptos del gasto deben realizarse con base al Manual de Clasificadores Presupuestarios. Este tipo de contrataciones no incluye funciones de tipo administrativo, de apoyo y técnico, propias de personal permanente o personal no permanente con relación de dependencia y que tengan que cumplir un horario ordinario de trabajo.
 
-Para que se puedan realizar las contrataciones afectando el subgrupo del gasto 24000 Servicios Profesionales (Consultorías) a que hace referencia el artículo 126 del Decreto Legislativo No.62-2026, será requisito que dicha contratación esté programada en el Plan Operativo Anual aprobado y en el Plan Anual de Compras y Contrataciones (PACC) actualizado y publicado en HonduCompras; asimismo, este tipo de contrataciones se regirá por lo establecido en la Ley de Contratación del Estado.
+Para que se puedan realizar las contrataciones afectando el subgrupo del gasto 24000 Servicios Profesionales (Consultorías) a que hace referencia el artículo 126 del Decreto Legislativo No. 62-2026, será requisito que dicha contratación esté programada en el Plan Operativo Anual aprobado y en el Plan Anual de Compras y Contrataciones (PACC) actualizado y publicado en HonduCompras; asimismo, este tipo de contrataciones se regirá por lo establecido en la Ley de Contratación del Estado.
 
 #### Artículo 33
 
-Artículo 33. Para efectos de aplicabilidad de lo establecido en el artículo 139 del Decreto Legislativo No.62-2026, las instituciones formuladoras de proyectos deberán presentar junto a la documentación soporte: La ficha publicada en la página Web de SEFIN, que incluye la siguiente información del programa o proyecto: Nombre, localización, beneficiario, institución solicitante, unidad ejecutora, duración, situación actual del proyecto, objetivo, costo total, componentes; esta ficha debe ser registrada posteriormente por la institución en los campos correspondientes, una vez implementado el submódulo en el SNIPH. La presentación de esta ficha tiene como finalidad conformar un Banco de Iniciativas de Proyectos, y, por lo tanto, no forma parte del procedimiento para la emisión de Nota de Prioridad establecida en el artículo 147 del Decreto Legislativo No.62-2026.
+Artículo 33. Para efectos de aplicabilidad de lo establecido en el artículo 139 del Decreto Legislativo No. 62-2026, las instituciones formuladoras de proyectos deberán presentar junto a la documentación soporte: La ficha publicada en la página Web de SEFIN, que incluye la siguiente información del programa o proyecto: Nombre, localización, beneficiario, institución solicitante, unidad ejecutora, duración, situación actual del proyecto, objetivo, costo total, componentes; esta ficha debe ser registrada posteriormente por la institución en los campos correspondientes, una vez implementado el submódulo en el SNIPH. La presentación de esta ficha tiene como finalidad conformar un Banco de Iniciativas de Proyectos, y, por lo tanto, no forma parte del procedimiento para la emisión de Nota de Prioridad establecida en el artículo 147 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 34
 
-Artículo 34. La actualización en la plataforma Honduras Inversiones que manda el artículo 143 del Decreto Legislativo No.62-2026, se hará por lo menos semanalmente en los Sistemas del SNIPH, UEPEX, SIAFI y el Sistema de Compras Públicas Administrado por la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE), entre otros.
+Artículo 34. La actualización en la plataforma Honduras Inversiones que manda el artículo 143 del Decreto Legislativo No. 62-2026, se hará por lo menos semanalmente en los Sistemas del SNIPH, UEPEX, SIAFI y el Sistema de Compras Públicas Administrado por la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE), entre otros.
 
 #### Artículo 35
 
-Artículo 35. La Dirección General de Crédito Público analizará la emisión de confirmación de previsión presupuestaria y/o inclusión en la programación de desembolso para el último trimestre del ejercicio fiscal, siempre y cuando el programa o proyecto esté formulado en la siguiente gestión, lo anterior en aplicación del artículo 144 del Decreto Legislativo No.62- 2026.
+Artículo 35. La Dirección General de Crédito Público analizará la emisión de confirmación de previsión presupuestaria y/o inclusión en la programación de desembolso para el último trimestre del ejercicio fiscal, siempre y cuando el programa o proyecto esté formulado en la siguiente gestión, lo anterior en aplicación del artículo 144 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 36
 
-Artículo 36: Para la emisión de la nota de prioridad establecida en el artículo 147 del Decreto Legislativo No.62- 2026, la institución solicitante deberá identificar los recursos presupuestarios dentro de su propio techo presupuestario sin afectar otros proyectos que se encuentren en la fase de inversión.
+Artículo 36: Para la emisión de la nota de prioridad establecida en el artículo 147 del Decreto Legislativo No. 62-2026, la institución solicitante deberá identificar los recursos presupuestarios dentro de su propio techo presupuestario sin afectar otros proyectos que se encuentren en la fase de inversión.
 
-En caso de vencimiento de la vigencia de la Nota de Prioridad por no haber obtenido el financiamiento, esta se dará de baja es decir quedando solamente formulado en el estado de Preinversión en el SNIPH como un registro histórico incluyendo su código BIP; en caso de requerir ejecutar dicho proyecto, la Institución deberá actualizar el Documento del Proyecto con base en la Guía Metodológica General y solicitar nuevamente Nota de Prioridad conforme al artículo 147 del Decreto Legislativo No.62- 2026.
+En caso de vencimiento de la vigencia de la Nota de Prioridad por no haber obtenido el financiamiento, esta se dará de baja es decir quedando solamente formulado en el estado de Preinversión en el SNIPH como un registro histórico incluyendo su código BIP; en caso de requerir ejecutar dicho proyecto, la Institución deberá actualizar el Documento del Proyecto con base en la Guía Metodológica General y solicitar nuevamente Nota de Prioridad conforme al artículo 147 del Decreto Legislativo No. 62-2026.
 
 El plazo máximo para emitir la nota de prioridad será de 15 días hábiles, una vez que se presente el documento de proyecto enmarcado en los requerimientos metodológicos y técnicos de inversión pública; si la solicitud es devuelta con subsanaciones, la misma deberá ser presentada como nueva solicitud, dando inicio nuevamente al plazo establecido.
 
-Para la autorización y activación del proyecto en el Sistema Nacional de Inversión Pública de Honduras (SNIPH) con su correspondiente código del Banco Integrado de Proyectos, deberá contar con la respectiva Nota de Prioridad debidamente registrada y aprobada en el sistema, en cumplimiento a lo establecido en el artículo 147 del Decreto Legislativo No.62- 2026.
+Para la autorización y activación del proyecto en el Sistema Nacional de Inversión Pública de Honduras (SNIPH) con su correspondiente código del Banco Integrado de Proyectos, deberá contar con la respectiva Nota de Prioridad debidamente registrada y aprobada en el sistema, en cumplimiento a lo establecido en el artículo 147 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 37
 
-Artículo 37. En relación al artículo 148 del Decreto Legislativo No.62- 2026, la solicitud de dictamen técnico de enmienda a la Nota de Prioridad por parte de las instituciones del sector público deberá adjuntar el documento de proyecto ajustado conforme al esquema de presentación de enmienda y sus anexos (publicado en la página web de SEFIN), un informe de las actividades ejecutadas a la fecha de solicitud de la enmienda del proyecto y otra documentación relevante que permita el análisis técnico para la emisión del dictamen.
+Artículo 37. En relación al artículo 148 del Decreto Legislativo No. 62-2026, la solicitud de dictamen técnico de enmienda a la Nota de Prioridad por parte de las instituciones del sector público deberá adjuntar el documento de proyecto ajustado conforme al esquema de presentación de enmienda y sus anexos (publicado en la página web de SEFIN), un informe de las actividades ejecutadas a la fecha de solicitud de la enmienda del proyecto y otra documentación relevante que permita el análisis técnico para la emisión del dictamen.
 
 El dictamen de Enmienda no será aplicable en los casos de modificaciones a los indicadores del marco de resultados del proyecto.
 
@@ -535,29 +533,29 @@ En referencia al último párrafo del artículo 148, la Secretaría de Finanzas 
 
 #### Artículo 38
 
-Artículo 38. Lo establecido en el artículo 151 del Decreto Legislativo No.62-2026, también aplica cuando se utilizan mecanismos de ejecución como pagos por reembolso.
+Artículo 38. Lo establecido en el artículo 151 del Decreto Legislativo No. 62-2026, también aplica cuando se utilizan mecanismos de ejecución como pagos por reembolso.
 
 #### Artículo 39
 
-Artículo 39. El artículo 153 del Decreto Legislativo No.62- 2026, contiene directrices tanto para proyectos en cierre, como para la sostenibilidad de las obras y bienes generadas por los proyectos.
+Artículo 39. El artículo 153 del Decreto Legislativo No. 62-2026, contiene directrices tanto para proyectos en cierre, como para la sostenibilidad de las obras y bienes generadas por los proyectos.
 
 Una vez que el proyecto haya finalizado, la institución deberá remitir el informe de cierre que incluya las auditorías finales y la ficha de cierre del proyecto según el formato preestablecido por la Dirección General de Inversiones Públicas.
 
 #### Artículo 40
 
-Artículo 40. Los saldos financieros de la fuente 17 Aportes Internos del ejercicio fiscal anterior y del vigente, referidos en el artículo 159 del Decreto Legislativo No.62-2026, serán previamente validados para ser incorporados en el Presupuesto General de Ingresos y Egresos de la República del ejercicio Fiscal, únicamente si la institución demuestra que cuenta con la disponibilidad financiera.
+Artículo 40. Los saldos financieros de la fuente 17 Aportes Internos del ejercicio fiscal anterior y del vigente, referidos en el artículo 159 del Decreto Legislativo No. 62-2026, serán previamente validados para ser incorporados en el Presupuesto General de Ingresos y Egresos de la República del ejercicio Fiscal, únicamente si la institución demuestra que cuenta con la disponibilidad financiera.
 
 #### Artículo 41
 
-Artículo 41. Las becas a que se refiere el artículo 160 del Decreto Legislativo No.62-2026, deberán pagarse por planilla, ser respaldadas por la existencia de la asignación presupuestaria y por el acuerdo, resolución o mecanismo que se haya definido para su otorgamiento.
+Artículo 41. Las becas a que se refiere el artículo 160 del Decreto Legislativo No. 62-2026, deberán pagarse por planilla, ser respaldadas por la existencia de la asignación presupuestaria y por el acuerdo, resolución o mecanismo que se haya definido para su otorgamiento.
 
 #### Artículo 42
 
-Artículo 42. Todas las Instituciones que reciben transferencias de la Administración Central deberán cargar su Programación de Gastos Mensual (PGM) y la solicitud de Cuota de Gasto Trimestral (CGT) en el SIAFI, dicha programación junto con la solicitud será analizadas por la Tesorería General de la República para posteriormente realizar las transferencias de acuerdo con la disponibilidad financiera, en cumplimiento de lo establecido en el artículo 162 del Decreto Legislativo No.62-2026.
+Artículo 42. Todas las Instituciones que reciben transferencias de la Administración Central deberán cargar su Programación de Gastos Mensual (PGM) y la solicitud de Cuota de Gasto Trimestral (CGT) en el SIAFI, dicha programación junto con la solicitud será analizadas por la Tesorería General de la República para posteriormente realizar las transferencias de acuerdo con la disponibilidad financiera, en cumplimiento de lo establecido en el artículo 162 del Decreto Legislativo No. 62-2026.
 
 #### Artículo 43
 
-Artículo 43. Para el cumplimiento de lo establecido en el artículo 165 del Decreto Legislativo No.62-2026, los valores descritos en el artículo, deben ser incorporados a la Tesorería General de la República (TGR) de conformidad con el calendario de pago que elaboren conjuntamente el Patronato Nacional de la Infancia (PANI) y las instituciones beneficiadas con dichos recursos de acuerdo a su programaciones, dicho calendario debe ser informado a la Dirección General de Presupuesto (DGP) y a la Tesorería General de la República
+Artículo 43. Para el cumplimiento de lo establecido en el artículo 165 del Decreto Legislativo No. 62-2026, los valores descritos en el artículo, deben ser incorporados a la Tesorería General de la República (TGR) de conformidad con el calendario de pago que elaboren conjuntamente el Patronato Nacional de la Infancia (PANI) y las instituciones beneficiadas con dichos recursos de acuerdo a su programaciones, dicho calendario debe ser informado a la Dirección General de Presupuesto (DGP) y a la Tesorería General de la República
 
 (TGR) a más tardar en junio de 2026 y la fecha máxima del depósito no debe exceder el último día hábil de cada trimestre; lo que corresponde al cuarto trimestre debe estar depositado a más tardar el primer día hábil de diciembre del 2026 y el mes de diciembre deberá depositarse a más tardar el 29 de diciembre del 2026 considerando las normas de cierre.
 
@@ -567,11 +565,11 @@ El Patronato Nacional de la Infancia (PANI), está en la obligación de informar
 
 En caso de ser necesario y que la situación financiera del PANI lo permita, se podrá financiar con dichos recursos proyectos sociales prioritarios del Gobierno, en el marco de lo establecido en el artículo 269 de la Constitución de la República.
 
-El Patronato Nacional de la Infancia (PANI) no puede trasladar los recursos consignados a las instituciones referidas en el artículo 165 del Decreto Legislativo No.62-2026, hacia un fin distinto para el que fue aprobado o ser ejecutadas a favor de un beneficiario diferente a los establecidos en la misma; los responsables de la ejecución de los recursos asignados ante cualquier instancia son las instituciones ejecutoras referidas en el artículo 165 del Decreto Legislativo No.62-2026 y deberán informar al PANI sobre su ejecución.
+El Patronato Nacional de la Infancia (PANI) no puede trasladar los recursos consignados a las instituciones referidas en el artículo 165 del Decreto Legislativo No. 62-2026, hacia un fin distinto para el que fue aprobado o ser ejecutadas a favor de un beneficiario diferente a los establecidos en la misma; los responsables de la ejecución de los recursos asignados ante cualquier instancia son las instituciones ejecutoras referidas en el artículo 165 del Decreto Legislativo No. 62-2026 y deberán informar al PANI sobre su ejecución.
 
 #### Artículo 44
 
-Artículo 44. En consonancia con lo dispuesto en el artículo 185 del Decreto Legislativo No.62-2026, los otros funcionarios a quienes se les reconocerá el pago de servicio del teléfono celular, así como los límites máximos mensuales, serán los siguientes:
+Artículo 44. En consonancia con lo dispuesto en el artículo 185 del Decreto Legislativo No. 62-2026, los otros funcionarios a quienes se les reconocerá el pago de servicio del teléfono celular, así como los límites máximos mensuales, serán los siguientes:
 
 1. Presidente de la República: USD$ 250.00;
 
@@ -603,9 +601,9 @@ Modificaciones Presupuestarias
 
 Artículo 45. El formulario de Modificación Presupuestaria FMP05 tendrá el mismo efecto que un dictamen o resolución interna emitido por la Secretaría de Estado en el Despacho de Finanzas, por lo que, para las solicitudes de Modificaciones Presupuestarias (MP) se tendrá como instrumento oficial de autorización el formulario denominado “FMP05” generado del SIAFI.
 
-En ningún caso en que las instituciones del Sector Público soliciten modificaciones presupuestarias, la Secretaría de Finanzas a través de la Dirección General de Presupuesto elaborará por aparte dictámenes o resoluciones, con excepción de los relacionados con salarios tanto para Administración Central como Administración Descentralizada; cambios en la estructura de puestos para las instituciones de la Administración Central (AC); operaciones relacionadas con la institución 109 y la incorporación de Recursos del Tesoro Nacional en la AC, tal como lo establece el artículo 188 del Decreto Legislativo No.62- 2026.
+En ningún caso en que las instituciones del Sector Público soliciten modificaciones presupuestarias, la Secretaría de Finanzas a través de la Dirección General de Presupuesto elaborará por aparte dictámenes o resoluciones, con excepción de los relacionados con salarios tanto para Administración Central como Administración Descentralizada; cambios en la estructura de puestos para las instituciones de la Administración Central (AC); operaciones relacionadas con la institución 109 y la incorporación de Recursos del Tesoro Nacional en la AC, tal como lo establece el artículo 188 del Decreto Legislativo No. 62-2026.
 
-El número de instrumento para autorización de las Modificaciones Presupuestarias (MP) que requieran dictamen o resolución distintas a las excepciones referidas en el párrafo anterior será el Decreto Legislativo No.62-2026, contentivo de las Disposiciones Generales del Presupuesto y, se deberá seguir el procedimiento siguiente:
+El número de instrumento para autorización de las Modificaciones Presupuestarias (MP) que requieran dictamen o resolución distintas a las excepciones referidas en el párrafo anterior será el Decreto Legislativo No. 62-2026, contentivo de las Disposiciones Generales del Presupuesto y, se deberá seguir el procedimiento siguiente:
 
 1. La solicitud de modificación presupuestaria se recibirá de manera física en el Despacho de la Secretaría de Estado en el Despacho de Finanzas y con el sello de recibido será remitida al correo electrónico de gestionmod_presupuestarias@sefin.gob.hn por cada institución solicitante, con copia al analista presupuestario asignado a cada institución, acompañando en físico y digital la siguiente documentación:
 
@@ -619,7 +617,7 @@ d) En el caso de las solicitudes que corresponda a instituciones de la Administr
 
 e) Formulario FMP-04, el cual incluye breve justificación de la modificación a realizar, detallando las estructuras a incrementar y/o disminuir, firma y sello de las autoridades correspondientes según las competencias; y,
 
-f) Si la modificación presupuestaria tiene efecto en el POA y por ende en las metas se deberá indicar claramente los ajustes que se realizarán al POA en cumplimiento de lo establecido en el artículo 189 del Decreto Legislativo No.62-2026.
+f) Si la modificación presupuestaria tiene efecto en el POA y por ende en las metas se deberá indicar claramente los ajustes que se realizarán al POA en cumplimiento de lo establecido en el artículo 189 del Decreto Legislativo No. 62-2026.
 
 2. Recibido el correo electrónico, cada analista presupuestario, procederá a la revisión y validación del cumplimiento de los requisitos establecidos en el numeral 1 anterior, incisos del a) al f);
 
@@ -639,19 +637,19 @@ De igual forma, al tratarse de modificaciones relacionadas con proyectos que no 
 
 #### Artículo 46
 
-Artículo 46. Los traslados presupuestarios de gastos de capital a gastos corriente referidos en el numeral 2) del artículo 190 del Decreto Legislativo No.62-2026, previo a realizar la Modificación Presupuestaria, por parte de la Dirección General de Presupuesto, DGP; se deberá contar con la opinión técnica de la Dirección de Política Macro Fiscal (DGPMF), en vista que dicha Dirección debe validar que los traslados no afecten la consistencia de las metas establecidas en la Ley de Responsabilidad Fiscal (LRF).
+Artículo 46. Los traslados presupuestarios de gastos de capital a gastos corriente referidos en el numeral 2) del artículo 190 del Decreto Legislativo No. 62-2026, previo a realizar la Modificación Presupuestaria, por parte de la Dirección General de Presupuesto, DGP; se deberá contar con la opinión técnica de la Dirección de Política Macro Fiscal (DGPMF), en vista que dicha Dirección debe validar que los traslados no afecten la consistencia de las metas establecidas en la Ley de Responsabilidad Fiscal (LRF).
 
 #### Artículo 47
 
-Artículo 47. Para dar cumplimiento a lo establecido en el artículo 195 del Decreto Legislativo No.62-2026, se debe entender que las Instituciones Descentralizadas a que hace referencia dicho artículo corresponde a la definición de la Administración Descentralizada, establecida en el artículo 2 numeral 14 de los términos y definiciones del presente Reglamento.
+Artículo 47. Para dar cumplimiento a lo establecido en el artículo 195 del Decreto Legislativo No. 62-2026, se debe entender que las Instituciones Descentralizadas a que hace referencia dicho artículo corresponde a la definición de la Administración Descentralizada, establecida en el artículo 2 numeral 14 de los términos y definiciones del presente Reglamento.
 
-Por su parte, la revisión, validación y recomendaciones a las modificaciones de las estructuras programáticas realizadas por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a solicitud de las instituciones públicas se efectuará en todo lo concerniente a los nuevos productos finales y/o intermedios vinculados a las mismas, en cumplimiento de lo establecido en el artículo 189 del Decreto Legislativo No.62-2026; las modificaciones de las estructuras programáticas que por su naturaleza no contemplan ningún tipo de producción, no requerirán la revisión y validación de la SEFIN.
+Por su parte, la revisión, validación y recomendaciones a las modificaciones de las estructuras programáticas realizadas por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a solicitud de las instituciones públicas se efectuará en todo lo concerniente a los nuevos productos finales y/o intermedios vinculados a las mismas, en cumplimiento de lo establecido en el artículo 189 del Decreto Legislativo No. 62-2026; las modificaciones de las estructuras programáticas que por su naturaleza no contemplan ningún tipo de producción, no requerirán la revisión y validación de la SEFIN.
 
 Si la modificación de estructuras programáticas tiene incidencia en la formulación, actualización, publicación, modificación o ejecución del Plan Anual de Compras y Contrataciones (PACC), así como en los procesos registrados en el Módulo de difusión de HonduCompras y demás sistemas de compras públicas administrados por la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE), las instituciones del Sector Público deberán comunicar a la ONCAE los cambios correspondientes, una vez aprobada la modificación por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), con el fin de asegurar la trazabilidad, consistencia y correcta vinculación entre la programación presupuestaria, el PACC y los procesos de contratación pública.
 
 #### Artículo 48
 
-Artículo 48. La Dirección General de Crédito Público (DGCP) realizará la gestión ante los organismos internacionales en referencia a las ampliaciones de plazo con base en el Dictamen Técnico descrito en el artículo 197 del Decreto Legislativo No.62-2026, de aquellos créditos o donaciones suscritos por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y gestionados a través de la DGCP. Será responsabilidad de cada institución ejecutora la gestión de ampliaciones de plazo del financiamiento externo que no sea suscrito por la SEFIN.
+Artículo 48. La Dirección General de Crédito Público (DGCP) realizará la gestión ante los organismos internacionales en referencia a las ampliaciones de plazo con base en el Dictamen Técnico descrito en el artículo 197 del Decreto Legislativo No. 62-2026, de aquellos créditos o donaciones suscritos por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y gestionados a través de la DGCP. Será responsabilidad de cada institución ejecutora la gestión de ampliaciones de plazo del financiamiento externo que no sea suscrito por la SEFIN.
 
 Cuando se solicite ampliación de plazo de cierre de ejecución y período de desembolso de proyectos, la Dirección General de Crédito Público (DGCP) remitirá a la Dirección General de Inversión Pública (DGIP) el cálculo de costos financieros estimados por el tiempo de la ampliación solicitada por la unidad ejecutora, para que dichos costos sean considerados dentro del dictamen de ampliación que emitirá la Dirección General de Inversión Pública (DGIP); el plazo para la emisión del correspondiente dictamen será contado a partir de la recepción de la solicitud en la Dirección General de Inversiones Públicas.
 
@@ -659,13 +657,13 @@ Con relación a lo dispuesto en el último párrafo del referido artículo, la S
 
 #### Artículo 49
 
-Artículo 49. Para las Transferencias entre categorías de Inversión establecidas en el artículo 199 del Decreto Legislativo No.62-2026, las Unidades Ejecutoras deberán incluir en la solicitud la equivalencia de los componentes o Categorías de Inversión cargados en el SNIPH y el cuadro de costos del convenio de financiamiento.
+Artículo 49. Para las Transferencias entre categorías de Inversión establecidas en el artículo 199 del Decreto Legislativo No. 62-2026, las Unidades Ejecutoras deberán incluir en la solicitud la equivalencia de los componentes o Categorías de Inversión cargados en el SNIPH y el cuadro de costos del convenio de financiamiento.
 
 #### Artículo 50
 
-Artículo 50. Para efectos de la aplicación del artículo 201 Decreto Legislativo No.62-2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP), previo a emitir la Resolución Interna de autorización de las modificaciones de estructura de puestos en la Administración Central dictaminadas por la Administración Nacional de Servicio Civil (ANSEC) y los entes Desconcentrados, deberá elaborar el Dictamen de Disponibilidad Presupuestaria.
+Artículo 50. Para efectos de la aplicación del artículo 201 Decreto Legislativo No. 62-2026, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP), previo a emitir la Resolución Interna de autorización de las modificaciones de estructura de puestos en la Administración Central dictaminadas por la Administración Nacional de Servicio Civil (ANSEC) y los entes Desconcentrados, deberá elaborar el Dictamen de Disponibilidad Presupuestaria.
 
-Los casos en que la modificación de estructura de puestos mantenga el mismo grupo y nivel pueden ser incorporadas al Anexo Desglosado de Sueldos de la institución solicitante, siendo la institución la responsable de remitir copia del Dictamen Técnico emitido por la Administración Nacional de Servicio Civil (ANSEC) para los empleados bajo el régimen de Servicio Civil y la actualización del Anexo Desglosado de Sueldos en atención al artículo 69 del Decreto Legislativo No.62-2026.
+Los casos en que la modificación de estructura de puestos mantenga el mismo grupo y nivel pueden ser incorporadas al Anexo Desglosado de Sueldos de la institución solicitante, siendo la institución la responsable de remitir copia del Dictamen Técnico emitido por la Administración Nacional de Servicio Civil (ANSEC) para los empleados bajo el régimen de Servicio Civil y la actualización del Anexo Desglosado de Sueldos en atención al artículo 69 del Decreto Legislativo No. 62-2026.
 
 La Dirección General de Presupuesto dependencia de la Secretaría de Finanzas emitirá las resoluciones internas acompañadas del correspondiente dictamen de disponibilidad presupuestaria para las modificaciones a las estructuras de puestos que tengan o no impacto financiero para las instituciones de la Administración Central y Desconcentradas.
 
@@ -687,7 +685,7 @@ Toda solicitud de modificación a las estructuras de puestos remitida por instit
 
 #### Artículo 51
 
-Artículo 51. Las reasignaciones de funciones y renombramientos de plazas que establece el artículo 204 del Decreto Legislativo No.62-2026, incluyendo aquellas que se encuentren vacantes tendrán carácter estrictamente administrativo y no podrán implicar modificación de la clasificación ocupacional, nivel jerárquico, perfil funcional o monto salarial, beneficios asociados ni creación de efectos retributivos directos o indirectos, debiendo conservar la plaza su identidad presupuestaria y trazabilidad histórica en el SIREP.
+Artículo 51. Las reasignaciones de funciones y renombramientos de plazas que establece el artículo 204 del Decreto Legislativo No. 62-2026, incluyendo aquellas que se encuentren vacantes tendrán carácter estrictamente administrativo y no podrán implicar modificación de la clasificación ocupacional, nivel jerárquico, perfil funcional o monto salarial, beneficios asociados ni creación de efectos retributivos directos o indirectos, debiendo conservar la plaza su identidad presupuestaria y trazabilidad histórica en el SIREP.
 
 CAPÍTULO VI
 
@@ -695,7 +693,7 @@ Monitoreo, Seguimiento y Evaluación
 
 #### Artículo 52
 
-Artículo 52. Para la presentación del Informe de la Ejecución física y financiera referido en el tercer párrafo del artículo 209 del Decreto Legislativo No.62-2026, toda institución pública deberá incluir en su informe una sección sobre la ejecución del presupuesto con perspectiva de género y cambio climático, indicando:
+Artículo 52. Para la presentación del Informe de la Ejecución física y financiera referido en el tercer párrafo del artículo 209 del Decreto Legislativo No. 62-2026, toda institución pública deberá incluir en su informe una sección sobre la ejecución del presupuesto con perspectiva de género y cambio climático, indicando:
 
 1. Monto asignado a programas de equidad de género y cambio climático, indicando cobertura territorial y de sexo;
 
@@ -711,7 +709,7 @@ Asimismo, para el seguimiento de la planificación de las adquisiciones pública
 
 #### Artículo 53
 
-Artículo 53. En aplicación a lo dispuesto en el artículo 212 numeral 7 del Decreto Legislativo No.62-2026, se requiere que los proyectos que presenten desfaces en la ejecución física y/o financiera justifiquen con evidencia las razones de esta situación acompañada de sus respectivas acciones.
+Artículo 53. En aplicación a lo dispuesto en el artículo 212 numeral 7 del Decreto Legislativo No. 62-2026, se requiere que los proyectos que presenten desfaces en la ejecución física y/o financiera justifiquen con evidencia las razones de esta situación acompañada de sus respectivas acciones.
 
 CAPÍTULO VII
 
@@ -719,7 +717,7 @@ Municipalidades
 
 #### Artículo 54
 
-Artículo 54. A fin de cumplir con lo establecido en el artículo 233 del Decreto Legislativo No.62-2026, las municipalidades y mancomunidades deberán considerar para la ejecución del presupuesto en cada subsistema del Sistema de Administración Municipal Integrado (SAMI) lo siguiente:
+Artículo 54. A fin de cumplir con lo establecido en el artículo 233 del Decreto Legislativo No. 62-2026, las municipalidades y mancomunidades deberán considerar para la ejecución del presupuesto en cada subsistema del Sistema de Administración Municipal Integrado (SAMI) lo siguiente:
 
 Subsistema de Presupuesto:
 
@@ -737,7 +735,7 @@ Subsistema de Tesorería:
 
 Subsistema de Rendición de Cuentas:
 
-1. Deberán haber aprobado las rendiciones del año anterior en consonancia con artículo 229 del Decreto Legislativo No.4-2025, previo a iniciar la ejecución del 2025.
+1. Deberán haber aprobado las rendiciones del año anterior en consonancia con artículo 229 del Decreto Legislativo No. 4-2025, previo a iniciar la ejecución del 2025.
 
 Para efectos de la Rendición de Cuentas que realizan las municipalidades y mancomunidades en el Sistema de Administración Municipal Integrado (SAMI), la Dirección General de Instituciones Descentralizadas (DGID) de la SEFIN, coordinará con los entes rectores de los diferentes subsistemas y unidades técnicas correspondientes, las acciones relacionadas con el proceso de capacitación en temas de la operatividad del Sistema de Administración Municipal Integrado, normativa presupuestaria, las políticas de los entes rectores de cada módulo y la administración y mantenimiento del sistema por las unidades de apoyo de la Dirección General de Tecnologías de la Información (DGTI) y la Unidad de Modernización (UDEM) de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
@@ -749,11 +747,11 @@ Disposiciones Varias
 
 #### Artículo 55
 
-Artículo 55. En aplicación del artículo 238 del Decreto Legislativo No.62-2026, quedan excluidos de los convenios firmados con anterioridad a la vigencia de la disposición; así como, los Convenios de afiliación a organismos internacionales, en virtud de los cuales se deberá efectuar el pago de una cuota ordinaria o extraordinaria en concepto de membresía.
+Artículo 55. En aplicación del artículo 238 del Decreto Legislativo No. 62-2026, quedan excluidos de los convenios firmados con anterioridad a la vigencia de la disposición; así como, los Convenios de afiliación a organismos internacionales, en virtud de los cuales se deberá efectuar el pago de una cuota ordinaria o extraordinaria en concepto de membresía.
 
 #### Artículo 56
 
-Artículo 56. En aras de promover la transparencia fiscal y presupuestaria, se deben detallar el presupuesto y el plan operativo anual de todas las instituciones públicas, para cumplir con lo instruido en el artículo 239 del Decreto Legislativo No.62-2026, para lo cual y de requerirse, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) brindarán el apoyo técnico que sea necesario.
+Artículo 56. En aras de promover la transparencia fiscal y presupuestaria, se deben detallar el presupuesto y el plan operativo anual de todas las instituciones públicas, para cumplir con lo instruido en el artículo 239 del Decreto Legislativo No. 62-2026, para lo cual y de requerirse, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) brindarán el apoyo técnico que sea necesario.
 
 Todas las instituciones del sector público deberán registrar y actualizar todas las modificaciones realizadas al plan operativo anual (POA) en la herramienta oficial establecida (SIAFIGES). Asegurando que las actualizaciones correspondan a las modificaciones presupuestarias aprobadas en el SIAFI.
 
@@ -761,7 +759,7 @@ El incumplimiento de esta obligación será considerado falta grave en materia d
 
 #### Artículo 57
 
-Artículo 57. En cumplimiento de lo establecido en los artículos 240 y 241 del Decreto Legislativo No.62-2026, relacionado con la implementación del SIAFI las instituciones del Sector Público deberán realizar las actividades siguientes:
+Artículo 57. En cumplimiento de lo establecido en los artículos 240 y 241 del Decreto Legislativo No. 62-2026, relacionado con la implementación del SIAFI las instituciones del Sector Público deberán realizar las actividades siguientes:
 
 1. Etapa de Planeación para la implementación del SIAFI en la institución;
 
@@ -787,7 +785,7 @@ En referencia a las implementaciones de SIAFI, estas deberán enviar solicitud a
 
 #### Artículo 58
 
-Artículo 58. Para la presentación de los informes Técnicos establecidos en el artículo 251 del Decreto Legislativo No.62- 2026, las Empresas Públicas que se encuentran en proceso de adopción de las Normas Internacionales de Información Financiera (NIIF) y las Instituciones Descentralizadas que se encuentran en proceso de convergencia de las Normas Internacionales de Contabilidad para el Sector Público (NICSP), deberán presentar a la Contaduría General de la República, dichos informes con el siguiente detalle:
+Artículo 58. Para la presentación de los informes Técnicos establecidos en el artículo 251 del Decreto Legislativo No. 62-2026, las Empresas Públicas que se encuentran en proceso de adopción de las Normas Internacionales de Información Financiera (NIIF) y las Instituciones Descentralizadas que se encuentran en proceso de convergencia de las Normas Internacionales de Contabilidad para el Sector Público (NICSP), deberán presentar a la Contaduría General de la República, dichos informes con el siguiente detalle:
 
 1. Plan de acción actualizado para la convergencia normativa;
 
@@ -805,7 +803,7 @@ b. Porcentaje de avance de la norma en proceso de implementación;
 
 #### Artículo 59
 
-Artículo 59. En su condición de órgano técnico coordinador del subsistema de contabilidad gubernamental, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Contaduría General de la República (CGR) emitirá los lineamientos para el cumplimiento de los artículos 252 y 253 del Decreto Legislativo No.62-2026, contando con la asistencia de la Dirección General de Instituciones Descentralizadas (DGID).
+Artículo 59. En su condición de órgano técnico coordinador del subsistema de contabilidad gubernamental, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Contaduría General de la República (CGR) emitirá los lineamientos para el cumplimiento de los artículos 252 y 253 del Decreto Legislativo No. 62-2026, contando con la asistencia de la Dirección General de Instituciones Descentralizadas (DGID).
 
 El plan de trabajo que deben elaborar las instituciones debe contener una descripción detallada del proceso, la secuencia de actividades, los responsables y roles, así como plazos y fechas límite realistas. Una vez elaborado, el plan debe ser presentado a la CGR y DGID para su revisión.
 
@@ -813,21 +811,21 @@ Cualquier modificación requerirá autorización de la CGR, con justificaciones 
 
 #### Artículo 60
 
-Artículo 60. El Poder Judicial deberá desglosar su presupuesto con el fin de etiquetar los recursos para el fortalecimiento y la ampliación de los juzgados especializados en violencia doméstica en las ciudades que correspondan, dando cumplimiento al numeral 2 de la tabla del artículo 256 del Decreto Legislativo No.62-2026.
+Artículo 60. El Poder Judicial deberá desglosar su presupuesto con el fin de etiquetar los recursos para el fortalecimiento y la ampliación de los juzgados especializados en violencia doméstica en las ciudades que correspondan, dando cumplimiento al numeral 2 de la tabla del artículo 256 del Decreto Legislativo No. 62-2026.
 
-Para el otorgamiento de las becas moradas a que hace referencia el numeral 4 del artículo 256 del Decreto Legislativo No.62-2026, se debe considerar en el perfil de beneficiadas, las familias en condiciones de pobreza y sólo podrán otorgarse a: Niñas, adolescentes y mujeres. Asimismo, se deberá conformar un comité de selección, en el cual deberán participar: (i) la Secretaría de Estado en el Despacho de Asuntos de la Mujer; (ii) al menos dos (2) organizaciones de mujeres; y, (iii) representantes de la Secretaría de Estado en el Despacho de Educación. Dicho comité debe ser liderado por la Secretaría de Estado en el Despacho de Educación, ya que es esta Secretaría quien recibirá las solicitudes de becas.
+Para el otorgamiento de las becas moradas a que hace referencia el numeral 4 del artículo 256 del Decreto Legislativo No. 62-2026, se debe considerar en el perfil de beneficiadas, las familias en condiciones de pobreza y sólo podrán otorgarse a: Niñas, adolescentes y mujeres. Asimismo, se deberá conformar un comité de selección, en el cual deberán participar: (i) la Secretaría de Estado en el Despacho de Asuntos de la Mujer; (ii) al menos dos (2) organizaciones de mujeres; y, (iii) representantes de la Secretaría de Estado en el Despacho de Educación. Dicho comité debe ser liderado por la Secretaría de Estado en el Despacho de Educación, ya que es esta Secretaría quien recibirá las solicitudes de becas.
 
 #### Artículo 61
 
-Artículo 61. Todo proveedor, contratista o consultor que fundamentado en el artículo 285 del Decreto Legislativo No.62-2026, suscriba contratos amparados en los Decretos de Emergencia, independientemente del tipo de contrato que trate (suministro de bienes o servicios, obras o consultoría) deberá constituir garantía por el 100% del valor recibido como anticipo.
+Artículo 61. Todo proveedor, contratista o consultor que fundamentado en el artículo 285 del Decreto Legislativo No. 62-2026, suscriba contratos amparados en los Decretos de Emergencia, independientemente del tipo de contrato que trate (suministro de bienes o servicios, obras o consultoría) deberá constituir garantía por el 100% del valor recibido como anticipo.
 
 #### Artículo 62
 
-Artículo 62. Los informes semestrales señalados en el artículo 290 del Decreto Legislativo No.62-2026, sobre el avance en la implementación de los lineamientos estratégicos orientados al fortalecimiento de la gestión del talento humano deberán ser puesto a disposición del público a más tardar 40 días finalizado el semestre a través del portal de transparencia de la SEFIN.
+Artículo 62. Los informes semestrales señalados en el artículo 290 del Decreto Legislativo No. 62-2026, sobre el avance en la implementación de los lineamientos estratégicos orientados al fortalecimiento de la gestión del talento humano deberán ser puesto a disposición del público a más tardar 40 días finalizado el semestre a través del portal de transparencia de la SEFIN.
 
 #### Artículo 63
 
-Artículo 63. En cumplimiento al artículo 298 del Decreto Legislativo No.62-2026, se instruye al Instituto Nacional Agrario (INA) en coordinación con el Instituto Hondureño de Antropología e Historia (IHAH), para gestionar adquirir, negociar o legalizar la compra de terrenos que sean considerados de interés nacional, valor histórico, cultural y protección cultural; para lo cual se asignó un presupuesto de L30.0 millones exclusivo para compra de tierras, por lo que dichos recursos no pueden ser destinado a fines distintos a los establecidos en la Ley y en el presente reglamento.
+Artículo 63. En cumplimiento al artículo 298 del Decreto Legislativo No. 62-2026, se instruye al Instituto Nacional Agrario (INA) en coordinación con el Instituto Hondureño de Antropología e Historia (IHAH), para gestionar adquirir, negociar o legalizar la compra de terrenos que sean considerados de interés nacional, valor histórico, cultural y protección cultural; para lo cual se asignó un presupuesto de L30.0 millones exclusivo para compra de tierras, por lo que dichos recursos no pueden ser destinado a fines distintos a los establecidos en la Ley y en el presente reglamento.
 
 SEGUNDO:
 

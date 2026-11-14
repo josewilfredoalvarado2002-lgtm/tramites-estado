@@ -11,7 +11,7 @@ paginas: "A. 6 - 40"
 sumario: "Decretos No. 47-2020, 63-2020, 66-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200601-35270/download"
 extraido: "2026-11-14"
-huella: "2d66130ad623147a"
+huella: "ebb89c1b38298995"
 ---
 <!-- portal:inicio -->
 # DECRETO 66-2020
@@ -29,9 +29,9 @@ huella: "2d66130ad623147a"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de marzo del año 2010 y publicado en el Diario Oficial “La Gaceta”, en fecha 22 de abril del año 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de marzo del año 2010 y publicado en el Diario Oficial “La Gaceta”, en fecha 22 de abril del año 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2248 TRAMO A suscrito el 20 de mayo de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a financiar la ejecución del “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y Post Crisis COVID-19 en Honduras”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2248 TRAMO A suscrito el 20 de mayo de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a financiar la ejecución del “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y Post Crisis COVID-19 en Honduras”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el programa tiene como objetivo reactivar la economía del país afectada por la crisis del COVID-19, a través del acceso a crédito y garantías, en condiciones favorables, a la micro, pequeña y mediana empresa (MIPYME) hondureña.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.2248 TRAMO A, suscrito el 20 de Mayo de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a financiar la ejecución del “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y Post Crisis COVID-19 en Honduras” que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 2248 TRAMO A, suscrito el 20 de Mayo de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a financiar la ejecución del “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y Post Crisis COVID-19 en Honduras” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
@@ -57,7 +57,7 @@ En la ciudad de Tegucigalpa, República de Honduras, a los veinte días del mes 
 
 EL BANCO CENTROAMERICANO DE INTEGRACIÓN
 
-ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG- 17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
+ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -659,7 +659,7 @@ Se consideran como buenos y válidos cualesquiera saldos a cargo del Prestatario
 
 En caso de reclamación judicial o en cualquier otro en que sea necesario justificar las cantidades que el Prestatario le adeuda al BCIE, se acreditarán las mismas mediante la correspondiente certificación expedida por el Contador del BCIE de acuerdo con su contabilidad, la que será suficiente y tendrá a los efectos de este Contrato de Préstamo, el carácter de documento fehaciente.
 
-A RT Í C U L O 1 4 . - O T R A S D I S P O S I C I O N E S APLICABLES.
+A RT Í C U L O 1 4 . - OTRAS DISPOSICIONES APLICABLES.
 
 Sección 14.01 De Origen de los Bienes y Servicios.
 
@@ -869,7 +869,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -881,7 +881,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACIÓN DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_______________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO F – FORMATO DE CERTIFICACIÓN DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_______________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 
@@ -1137,7 +1137,7 @@ ARTÍCULO 3.- Todos los bienes y servicios, que sean adquiridos con los fondos d
 
 #### Artículo 4
 
-ARTÍCULO 4.- Para el cumplimiento del objetivo del programa la Secretaría de Estado en el Despacho de Finanzas (SEFIN) deberá transferir al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) los recursos del Contrato de Préstamo No.2248 TRAMO A, bajo las mismas condiciones en que la República de Honduras obtiene el correspondiente financiamiento, para lo cual se suscribirá un Convenio de Transferencia de Recursos Financieros.
+ARTÍCULO 4.- Para el cumplimiento del objetivo del programa la Secretaría de Estado en el Despacho de Finanzas (SEFIN) deberá transferir al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) los recursos del Contrato de Préstamo No. 2248 TRAMO A, bajo las mismas condiciones en que la República de Honduras obtiene el correspondiente financiamiento, para lo cual se suscribirá un Convenio de Transferencia de Recursos Financieros.
 
 #### Artículo 5
 

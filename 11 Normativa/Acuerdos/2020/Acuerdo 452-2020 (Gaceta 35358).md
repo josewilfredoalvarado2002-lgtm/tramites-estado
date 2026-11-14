@@ -11,7 +11,7 @@ paginas: "A. 11"
 sumario: "Acuerdos Ejecutivos números 448-2020,449-2020, 451-2020, 452-2020Acuerdo número 453-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200831-35358/download"
 extraido: "2026-11-14"
-huella: "f8d6c0a0707341aa"
+huella: "97fa6436828bff7e"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 452-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que en fecha 10 de febrero de 2020 el Gobierno de la República de
 
 La Declaratoria de Emergencia a que se refiere este Decreto Ejecutivo tendrá vigencia hasta el 31 de diciembre del año 2020, misma que podrá ser prorrogada.
 
-CONSIDERANDO: Que mediante Decreto No.33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+CONSIDERANDO: Que mediante Decreto No. 33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
 CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir un Contrato de Préstamo con el Banco Interamericano de Desarrollo (BID) para la ejecución del “Programa Global de Crédito para la Defensa del Tejido Productivo y el Empleo”.
 

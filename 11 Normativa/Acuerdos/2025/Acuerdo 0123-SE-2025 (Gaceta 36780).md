@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Acuerdos Nos. 0122-SE-2025, 0123-SE-2025, 0156-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250303-36780/download"
 extraido: "2026-11-12"
-huella: "50cc0a06790667a2"
+huella: "040db5b7abca7d05"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0123-SE-2025
@@ -47,9 +47,7 @@ CONSIDERANDO (7): Que en el Decreto 262-2011 Título IV Modelo Educativo, Capít
 
 La Enseñanza del Idioma Inglés, en sus lenguas maternas a los pueblos indígenas y afrohondureños, utilización de las tecnologías de la información y comunicación electrónicas, así mismo la formación de práctica de los valores, como los valores morales y cívicos. Para el cumplimiento de esta obligación, la Secretaría de Estado en el Despacho de Educación debe implementar programas de forma ordenada y progresiva.
 
-CONSIDERANDO (8): Que en el Acuerdo Ejecutivo No.
-
-1362-2014 Reglamento de Educación Básica Artículo
+CONSIDERANDO (8): Que en el Acuerdo Ejecutivo No. 1362-2014 Reglamento de Educación Básica Artículo
 
 14. La Secretaría de Estado en el Despacho de Educación, en Coordinación con las Direcciones Departamentales de Educación, establecerá las estrategias y mecanismos para eliminar de manera progresiva los centros educativos atendidos por un solo docente y convertirlos en centros educativos del primero y segundo ciclo, atendidos por un mínimo de dos docentes.
 

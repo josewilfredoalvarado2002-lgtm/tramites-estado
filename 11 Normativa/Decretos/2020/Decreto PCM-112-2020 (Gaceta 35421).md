@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Decretos Ejecutivos números PCM-111-2020, PCM-112-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201106-35421/download"
 extraido: "2026-11-14"
-huella: "6a8eacc4ca239d62"
+huella: "b69c58dff9b3f414"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-112-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-109-2020, publicado en 
 
 CONSIDERANDO: Que el paso de la Tormenta Tropical “ETA” en el territorio nacional, ha provocado enormes daños a la infraestructura vial y productiva del País, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del Covid-19.
 
-POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Legislativos 33-2020 y 92- 2020; Decreto Ejecutivo Número PCM-020-2020; y, Decreto Ejecutivo Número PCM-109-2020.
+POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Legislativos 33-2020 y 92-2020; Decreto Ejecutivo Número PCM-020-2020; y, Decreto Ejecutivo Número PCM-109-2020.
 
 DECRETA:
 

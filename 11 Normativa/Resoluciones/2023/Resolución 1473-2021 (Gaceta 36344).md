@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Certificación, Resolución No. 1473-2021, 2146-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230927-36344/download"
 extraido: "2026-11-14"
-huella: "fbe12eba04e75342"
+huella: "c1a32dc208b19212"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1473-2021
@@ -29,7 +29,7 @@ huella: "fbe12eba04e75342"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica:
 
-La Resolución que literalmente dice: “RESOLUCIÓN No. 1473- 2021, SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN”.
+La Resolución que literalmente dice: “RESOLUCIÓN No. 1473-2021, SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN”.
 
 Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiséis de julio del año dos mil veintiuno.
 
@@ -125,7 +125,7 @@ c) Presentar iniciativas o proyectos a la Junta Directiva .- d) elevar peticione
 
 #### Artículo 9
 
-ARTICULO 9.- Son obligaciones de los miembros (usuarios directivos): a) Conectarse en el acueducto y al sistema de saneamiento, b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura c.- Asistir puntualmente a las reuniones d.- Participar en cualquiera de las comisión que se le asigne e.- Vigilar por el buen estado de las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera g.- Mantener limpio los solares , pilas, letrinas y la vivienda para prevenir las enfermedades h.-Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+ARTICULO 9.- Son obligaciones de los miembros (usuarios directivos): a) Conectarse en el acueducto y al sistema de saneamiento, b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura c.- Asistir puntualmente a las reuniones d.- Participar en cualquiera de las comisión que se le asigne e.- Vigilar por el buen estado de las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera g.- Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades h.-Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPITULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS, JUNTA DIRECTIVA, COMITÉ DE APOYO.
 
@@ -143,7 +143,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTICULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género ; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos adhonores, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
+ARTICULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos adhonores, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) .- 4.- Un Tesorero(a).5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
 
 #### Artículo 13
 

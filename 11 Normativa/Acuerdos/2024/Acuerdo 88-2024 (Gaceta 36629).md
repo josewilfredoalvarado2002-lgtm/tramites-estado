@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo INHGEOMIN No. 88/2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240903-36629/download"
 extraido: "2026-11-14"
-huella: "a390d8eda79dca97"
+huella: "7c5480f3ebb2b699"
 ---
 <!-- portal:inicio -->
 # ACUERDO INHGEOMIN No. 88/2024
@@ -33,7 +33,7 @@ Tegucigalpa, municipio del Distrito Central, quince de agosto del año dos mil v
 
 CONSIDERANDO: Que, mediante Decreto Legislativo No. 238-2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta el 2 de abril del año 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013 de fecha 2 de agosto del año 2013 publicado en el Diario Oficial La Gaceta, el 4 de septiembre del año 2013, se aprobó el Reglamento de la Ley General de Minería, creando a su vez el Instituto Hondureño de Geología y Minas "INHGEOMIN", como la Autoridad Minera a nivel nacional facultada para regular la actividad minera, otorgar derechos mineros, fiscalizar su ejercicio, consolidar su registro, manteniendo una base de datos actualizada de los recursos minerales en el país accesible a los interesados; correspondiéndole asimismo certificar la calidad y cantidad de los recursos minerales previo a su exportación a través de las diferentes Aduanas del País, que sirva de base para el cálculo de los impuestos nacionales y municipales.
 
-CONSIDERANDO: Que mediante ACUERDO No. 126- 2023, la Presidenta Constitucional de la República, nombró al ciudadano CARLOS MAURICIO MARADIAGA ROBLES en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas, efectivo a partir del ocho de mayo del año dos mil veintitrés.
+CONSIDERANDO: Que mediante ACUERDO No. 126-2023, la Presidenta Constitucional de la República, nombró al ciudadano CARLOS MAURICIO MARADIAGA ROBLES en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas, efectivo a partir del ocho de mayo del año dos mil veintitrés.
 
 CONSIDERANDO: Que el Estado de Honduras ejerce dominio eminente, inalienable e imprescriptible sobre los recursos minerales que se encuentran en su territorio y regula su aprovechamiento técnico y racional por los particulares mediante concesiones o permisos que otorga a través del Instituto Hondureño de Geología y Minas "INHGEOMIN".
 

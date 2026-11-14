@@ -8,10 +8,10 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 16 - 19"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
-huella: "c4cf6ea623e7e0ad"
+huella: "0d7d8184d8991ee7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 097-2025
@@ -23,7 +23,7 @@ huella: "c4cf6ea623e7e0ad"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 16 - 19 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que según Decreto Número 222-92, de fecha 10 de diciembre de 199
 
 CONSIDERANDO: Que para efectos de importación de maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos entre la Industria de Harinas de Maíz Blanco y Alimentos para consumo, administrado por la Secretaría de Estado en los Despachos de Agricultura y Ganadería, los importadores deberán contar con un certificado de importación valida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico.
 
-CONSIDERANDO: Que la importación de leche entera en polvo, leche en polvo descremada, leche en polvo íntegra, grasa butírica y otros derivados de la leche en el marco del contingente por Desabasto deberán contar con un certificado de importación valida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo del Acuerdo No. SAG- 007-2022.
+CONSIDERANDO: Que la importación de leche entera en polvo, leche en polvo descremada, leche en polvo íntegra, grasa butírica y otros derivados de la leche en el marco del contingente por Desabasto deberán contar con un certificado de importación valida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo del Acuerdo No. SAG-007-2022.
 
 CONSIDERANDO: Que la importación de cualquier producto, en el marco del contingente por Desabasto deberán contar con un certificado de importación valida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico al amparo Decreto Número 222-92 u otro Acuerdo emitido por la Secretaría de Estado en los Despachos de Agricultura y Ganadería.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que la Secretaría de Desarrollo Económico emitió el Acuerdo Min
 
 POR TANTO:
 
-En uso de sus atribuciones y en aplicación de los Artículos 321 de la Constitución de la República; 7, 36 numerales 8) y 19), 116, 118 y 122 numeral 1) de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 numeral 2) del Decreto Ejecutivo PCM-008-97; Decreto No. 222-92 y Acuerdo No. SAG-007- 2022.
+En uso de sus atribuciones y en aplicación de los Artículos 321 de la Constitución de la República; 7, 36 numerales 8) y 19), 116, 118 y 122 numeral 1) de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 numeral 2) del Decreto Ejecutivo PCM-008-97; Decreto No. 222-92 y Acuerdo No. SAG-007-2022.
 
 ACUERDA:
 
@@ -69,7 +69,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 KARLA NINOSKA PÉREZ
 
-Secretaria de Estado en el Despacho de Desarrollo Económico, por Ley Acuerdo de delegación No.088-2025 JOEL EDUARDO SALINAS LANZA Secretario General
+Secretaria de Estado en el Despacho de Desarrollo Económico, por Ley Acuerdo de delegación No. 088-2025 JOEL EDUARDO SALINAS LANZA Secretario General
 
 ## Fuente
 

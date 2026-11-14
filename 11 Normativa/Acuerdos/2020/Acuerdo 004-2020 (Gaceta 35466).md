@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdos Ejecutivos Nos. 004-2020, 008-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201221-35466/download"
 extraido: "2026-11-14"
-huella: "7d83ee23b210d83e"
+huella: "b0ea565c102e19d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 004-2020
@@ -51,7 +51,7 @@ CONSIDERANDO: Que habiéndose cumplimentado el procedimiento establecido en el R
 
 POR TANTO:
 
-En uso de las facultades de que está investido, con fundamento en los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y Resolución No. DE-014- 2020 de fecha 10 de agosto del 2020, emitida por la Dirección Nacional de Bienes del Estado.
+En uso de las facultades de que está investido, con fundamento en los Artículos: 228, 245 numeral 11), 246, 247 y 293 de la Constitución de la República; 36 numeral 1), 116, 118 y 119 de la Ley General de la Administración Pública; 7 numerales 1), 4), 5), 7), 79 numeral 3) y 86 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras y Resolución No. DE-014-2020 de fecha 10 de agosto del 2020, emitida por la Dirección Nacional de Bienes del Estado.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 516"
 sumario: "Decreto No. 85-2022Contratos Nos. AEPAS-4449-0261-2021, 4449-0260-2021, 4449-0258-2021, 4449-0259-2021, 4449-0268-2021, CI022-4449-2020, H-257-CI-2021, 4449-0264-2021, 4449-0211-2021, 4449-0262-2021, 4449-0128-2021, SS/4619-BL-HO/CI/027-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220927-36038/download"
 extraido: "2026-11-14"
-huella: "b4f5d12269f908f7"
+huella: "80767e66384ae1cc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 85-2022
@@ -33,13 +33,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 19) de la Cons
 
 CONSIDERANDO: Que de conformidad con el Artículo 13 de la Ley de Contratación del Estado que reza: “Contratos de Exoneración o con efectos en el siguiente periodo de gobierno”. “Los contratos que contemplen exoneraciones, incentivos o concesiones fiscales, requerirán aprobación del Congreso Nacional. Este requisito deberá cumplirse especialmente, cuando se trate de contratos que hayan de producir o prolongar sus efectos al siguiente periodo de gobierno”.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo No.PCM-004-2020 publicado en el Diario Oficial “La Gaceta” en fecha 06 de febrero del año 2020 bajo el No.35,168 en su Artículo 1, se crea la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H), como un ente desconcentrado de la Presidencia de la República, adscrito a la Secretaría de Estado de Coordinación General de Gobierno, quien contará con autonomía técnica, financiera y administrativa, en calidad de institución ejecutora, encargada del diseño, ejecución, supervisión y administración de proyectos productivos, ambientales y sociales que le sean asignados, como resultado de la formalización de contratos, convenios y acuerdos de financiamiento internacionales, convenios interinstitucionales o designación directa de los órganos de decisión por el Gobierno de la República de Honduras.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo No.PCM-004-2020 publicado en el Diario Oficial “La Gaceta” en fecha 06 de febrero del año 2020 bajo el No. 35,168 en su Artículo 1, se crea la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H), como un ente desconcentrado de la Presidencia de la República, adscrito a la Secretaría de Estado de Coordinación General de Gobierno, quien contará con autonomía técnica, financiera y administrativa, en calidad de institución ejecutora, encargada del diseño, ejecución, supervisión y administración de proyectos productivos, ambientales y sociales que le sean asignados, como resultado de la formalización de contratos, convenios y acuerdos de financiamiento internacionales, convenios interinstitucionales o designación directa de los órganos de decisión por el Gobierno de la República de Honduras.
 
-CONSIDERANDO: Mediante el Decreto Ejecutivo No.PCM-05-2022 publicado en el Diario Oficial “La Gaceta” en fecha 06 de Abril de 2022, bajo No.35,892, en el Artículo 12. Se crea el Programa de la Red Solidaria, como un ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social, que tendrá como objetivo la reducción de la pobreza y la pobreza extrema, mediante la ejecución de Programas y Proyectos dirigidos a las poblaciones vulnerables, focalizadas por los sistemas de información social y las herramientas técnicas del Estado disponibles. Dicho Programa contemplará el diseño, la estructuración, la ejecución, administración y supervisión de Proyectos productivos y sociales incluido las becas para jóvenes de educación primaria, media y universitaria. Los Proyectos que se encuentran bajo la responsabilidad de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales (AEPAS-H), se ejecutarán a través del Programa de Red Solidaria.
+CONSIDERANDO: Mediante el Decreto Ejecutivo No.PCM-05-2022 publicado en el Diario Oficial “La Gaceta” en fecha 06 de Abril de 2022, bajo No. 35,892, en el Artículo 12. Se crea el Programa de la Red Solidaria, como un ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social, que tendrá como objetivo la reducción de la pobreza y la pobreza extrema, mediante la ejecución de Programas y Proyectos dirigidos a las poblaciones vulnerables, focalizadas por los sistemas de información social y las herramientas técnicas del Estado disponibles. Dicho Programa contemplará el diseño, la estructuración, la ejecución, administración y supervisión de Proyectos productivos y sociales incluido las becas para jóvenes de educación primaria, media y universitaria. Los Proyectos que se encuentran bajo la responsabilidad de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales (AEPAS-H), se ejecutarán a través del Programa de Red Solidaria.
 
 CONSIDERANDO: Mediante Decreto Ejecutivo No.PCM-08-2022, de fecha 2 de Mayo del 2022, en su Artículo 35, establece: En tanto se realicen los procesos de transición y con el propósito de continuar con el normal desarrollo de los Programas y Proyectos ejecutados a través de SENPRENDE y AEPASH, mencionados en el Decreto Ejecutivo PCM-05-2022 de fecha 06 de Abril de 2022, dichas instituciones mantendrán su carácter de Organismo Ejecutor de los respectivos proyectos que actualmente ejecutan, debiendo realizar las actividades operativas y administrativas de los mismos, en coordinación con la Secretaría de Estado en el Despacho de Finanzas y los Organismos Financieros Internacionales, a fin de efectuar un traslado eficaz y eficiente de los programas y proyectos hacia el Programa de la Red Solidaria.
 
-CONSIDERANDO: Que con fecha 2 de Febrero del año 2018, se suscribió el Contrato de Préstamo No.4449/BL-HO entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), fondos destinados a financiar la ejecución del “Programa de Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven”, el cual fue aprobado mediante Decreto Legislativo No.27-2018, publicado en el Diario Oficial “La Gaceta” el 3 de Julio del año 2018 (gaceta número 34,862) el cual se encuentra vigente desde la fecha de su publicación.
+CONSIDERANDO: Que con fecha 2 de Febrero del año 2018, se suscribió el Contrato de Préstamo No. 4449/BL-HO entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), fondos destinados a financiar la ejecución del “Programa de Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven”, el cual fue aprobado mediante Decreto Legislativo No. 27-2018, publicado en el Diario Oficial “La Gaceta” el 3 de Julio del año 2018 (gaceta número 34,862) el cual se encuentra vigente desde la fecha de su publicación.
 
 CONSIDERANDO: Que dicho financiamiento tiene por objetivo contribuir al desarrollo de las habilidades para el trabajo y la vida de los jóvenes hondureños por medio de la mejora del acceso y calidad de los aprendizajes en el tercer ciclo de educación básica (EB), en los municipios ubicados en zonas rurales de Copán, Intibucá, La Paz, Lempira, Ocotepeque, Santa Bárbara, San Pedro Sula y el Distrito Central.
 
@@ -47,13 +47,13 @@ CONSIDERANDO: Que en el mes de Enero del año 2021 dio inicio el proceso No. AEP
 
 (5) meses a partir de la orden de inicio, cuyo plazo vence el 30 de Junio del año 2022, Por Tanto, surtiendo sus efectos en el actual periodo de gobierno.
 
-CONSIDERANDO: De acuerdo a lo estipulado en las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el ejercicio fiscal del año 2021, Decreto No.182-2020 publicado en fecha 23 de Diciembre del año 2020 específicamente en el Artículo 116 establece en su párrafo segundo: “Asimismo, los contratos, independientemente de su fuente de financiamiento, que trasciendan el período de Gobierno deberán ser aprobados por el Congreso Nacional”.
+CONSIDERANDO: De acuerdo a lo estipulado en las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el ejercicio fiscal del año 2021, Decreto No. 182-2020 publicado en fecha 23 de Diciembre del año 2020 específicamente en el Artículo 116 establece en su párrafo segundo: “Asimismo, los contratos, independientemente de su fuente de financiamiento, que trasciendan el período de Gobierno deberán ser aprobados por el Congreso Nacional”.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional, crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ CONTRATO No. AEPAS-4449-0261-2021 Construcción de Obras de Ampliación de Infra
 
 Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H) Y Contratista:
 
-Construcciones, Consultoría, Suministros y Servicios S. DE R.L (CCSS) ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801- 1963-03379 en su condición de Subdirector Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y LUIS EDUARDO BARCENAS ALVARADO representante legal de Construcciones, Consultoría, Suministros y Servicios S.
+Construcciones, Consultoría, Suministros y Servicios S. DE R.L (CCSS) ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801-1963-03379 en su condición de Subdirector Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y LUIS EDUARDO BARCENAS ALVARADO representante legal de Construcciones, Consultoría, Suministros y Servicios S.
 
 DE R.L (CCSS) con Identidad No. 0801-1973-05454, en adelante denominado “EL CONTRATISTA” por la otra parte.
 
@@ -725,7 +725,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 59.1 El Banco exige a todos los Prestatarios (incluyendo los Prohibidas beneficiarios de donaciones), organismos ejecutores y organismos contratantes, al igual que a todas las firmas, entidades o individuos oferentes por participar o participando en actividades financiadas por el Banco incluyendo, entre otros, solicitantes, oferentes, proveedores de bienes, contratistas, consultores, miembros del personal, subcontratistas, subconsultores, proveedores de servicios y concesionarios (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expresas o implícitas), observar los más altos niveles éticos y denuncien al Banco2 todo acto sospechoso de constituir una Práctica Prohibida del cual tenga conocimiento o sea informado, durante el proceso de selección y las negociaciones o la ejecución de un contrato. Las Prácticas Prohibidas comprenden actos de: (i) prácticas corruptivas; (ii) prácticas fraudulentas;
 
-(iii) prácticas coercitivas; y (iv) prácticas colusorias y ,
+(iii) prácticas coercitivas; y (iv) prácticas colusorias y,
 
 (v) prácticas obstructivas. El Banco ha establecido mecanismos para la denuncia de la supuesta comisión de Prácticas Prohibidas. Toda denuncia deberá ser remitida a la Oficina de Integridad Institucional (OII) del Banco para que se investigue debidamente. El Banco también ha adoptado procedimientos de sanción para la resolución de casos y ha celebrado acuerdos con otras Instituciones Financieras Internacionales (IFI) a fin de dar un reconocimiento recíproco a las sanciones impuestas por sus respectivos órganos sancionadores.
 
@@ -739,7 +739,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 (iii) Una práctica coercitiva consiste en perjudicar o causar daño, o amenazar con perjudicar o causar daño, directa o indirectamente, a cualquier parte o a sus bienes para influenciar indebidamente las acciones de una parte;
 
-(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y ,
+(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y,
 
 (v) Una práctica obstructiva consiste en: a.a. destruir, falsificar, alterar u ocultar deliberadamente evidencia significativa para la investigación o realizar declaraciones falsas ante los investigadores con el fin de impedir materialmente una investigación del Grupo del Banco sobre denuncias de una práctica corrupta, fraudulenta, coercitiva o colusoria; y/o amenazar, hostigar o intimidar a cualquier parte para impedir que divulgue su conocimiento de asuntos que son importantes para la . , investigación o que prosiga la investigación, o b.b. todo acto dirigido a impedir materialmente el ejercicio de inspección del Banco y los derechos de auditoría previstos en el párrafo
 
@@ -825,7 +825,7 @@ i. es ciudadano de un país miembro; o ii. ha establecido su domicilio en un pa�
 
 (b) Una firma tiene la nacionalidad de un país miembro si satisface los dos siguientes requisitos:
 
-i. esta legalmente constituida o incorporada conforme a las leyes de un país miembro del Banco; y , ii. más del cincuenta por ciento (50%) del capital de la firma es de propiedad de individuos o firmas de países miembros del Banco.
+i. esta legalmente constituida o incorporada conforme a las leyes de un país miembro del Banco; y, ii. más del cincuenta por ciento (50%) del capital de la firma es de propiedad de individuos o firmas de países miembros del Banco.
 
 64.2 Todos los socios de un Consorcio con responsabilidad mancomunada y solidaria y todos los subcontratistas deben cumplir con los requisitos arriba establecidos.
 
@@ -1025,7 +1025,7 @@ Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Hondura
 
 HJJ S.A
 
-ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801- 1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y JESUS RENE NUFIO FLEFIL, Representante Legal de la empresa HJJ S.A con Identidad No. 0801-1992-19878, en adelante denominado “EL CONTRATISTA” por la otra parte.
+ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801-1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y JESUS RENE NUFIO FLEFIL, Representante Legal de la empresa HJJ S.A con Identidad No. 0801-1992-19878, en adelante denominado “EL CONTRATISTA” por la otra parte.
 
 Por cuanto el Contratante desea que el Contratista ejecute “Obras de Ampliación para el Tercer Ciclo en: “Los Centros de Educación Básica (CEB): Lote 1: Obed Espinoza, Municipio de Azacualpa, Santa Bárbara, Perfecto H.
 
@@ -2061,7 +2061,7 @@ CONTRATO No. AEPAS-4449-0258-2021 Construcción de Obras de Ampliación de Infra
 
 Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H) Y Contratista:
 
-Constructora MYN S. DE R.L de CV ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801- 1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y MEYLIN YADIRA NAJARRO SOLORZANO, Gerente General y Representante Legal de la CONSTRUCTORA MYN S. DE R.L de CV, con Identidad No. 0801-1972- 08047, en adelante denominado “EL CONTRATISTA” por la otra parte.
+Constructora MYN S. DE R.L de CV ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801-1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y MEYLIN YADIRA NAJARRO SOLORZANO, Gerente General y Representante Legal de la CONSTRUCTORA MYN S. DE R.L de CV, con Identidad No. 0801-1972-08047, en adelante denominado “EL CONTRATISTA” por la otra parte.
 
 Por cuanto el Contratante desea que el Contratista ejecute “Obras de Ampliación para el Tercer Ciclo en: “Los Centros de Educación Básica (CEB) Ladislao Urbina, Municipio de Cololaca, Mariano Vásquez, Municipio de Tambla y Lempira, Municipio de Tomalá, ubicados en el Departamento de Lempira, distribuidos en el Lote (5)”, (en adelante denominado “las Obras”) y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de las mismas, de acuerdo al detalle siguiente de cantidades y precios unitarios:
 
@@ -2711,7 +2711,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 59.1 El Banco exige a todos los Prestatarios (incluyendo los Prohibidas beneficiarios de donaciones), organismos ejecutores y organismos contratantes, al igual que a todas las firmas, entidades o individuos oferentes por participar o participando en actividades financiadas por el Banco incluyendo, entre otros, solicitantes, oferentes, proveedores de bienes, contratistas, consultores, miembros del personal, subcontratistas, subconsultores, proveedores de servicios y concesionarios (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expresas o implícitas), observar los más altos niveles éticos y denuncien al Banco6 todo acto sospechoso de 6 En el sitio virtual del Banco (www.iadb.org/integrity) se facilita información sobre cómo denunciar la supuesta comisión de Prácticas Prohibidas, las normas aplicables al proceso de investigación y sanción y el convenio que rige el reconocimiento recíproco de sanciones entre instituciones financieras internacionales. constituir una Práctica Prohibida del cual tenga conocimiento o sea informado, durante el proceso de selección y las negociaciones o la ejecución de un contrato. Las Prácticas Prohibidas comprenden actos de: (i) prácticas corruptivas; (ii) prácticas fraudulentas;
 
-(iii) prácticas coercitivas; y (iv) prácticas colusorias y ,
+(iii) prácticas coercitivas; y (iv) prácticas colusorias y,
 
 (v) prácticas obstructivas. El Banco ha establecido mecanismos para la denuncia de la supuesta comisión de Prácticas Prohibidas. Toda denuncia deberá ser remitida a la Oficina de Integridad Institucional (OII) del Banco para que se investigue debidamente. El Banco también ha adoptado procedimientos de sanción para la resolución de casos y ha celebrado acuerdos con otras Instituciones Financieras Internacionales (IFI) a fin de dar un reconocimiento recíproco a las sanciones impuestas por sus respectivos órganos sancionadores.
 
@@ -2723,7 +2723,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 (iii) Una práctica coercitiva consiste en perjudicar o causar daño, o amenazar con perjudicar o causar daño, directa o indirectamente, a cualquier parte o a sus bienes para influenciar indebidamente las acciones de una parte;
 
-(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y ,
+(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y,
 
 (v) Una práctica obstructiva consiste en: a.a. destruir, falsificar, alterar u ocultar deliberadamente evidencia significativa para la investigación o realizar declaraciones falsas ante los investigadores con el fin de impedir materialmente una investigación del Grupo del Banco sobre denuncias de una práctica corrupta, fraudulenta, coercitiva o colusoria; y/o amenazar, hostigar o intimidar a cualquier parte para impedir que divulgue su conocimiento de asuntos que son importantes para la investigación o que prosiga la investigación, o b.b. todo acto dirigido a impedir materialmente el ejercicio de inspección del Banco y los derechos de auditoría previstos en el párrafo
 
@@ -2999,7 +2999,7 @@ Contratante:
 
 Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H) y Contratista:
 
-Servicios de Diseño y Construcción S. DE R.L. DE C.V (SERDICON) ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801- 1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y AYDA MARICELA CACERES SANDOVAL, Gerente General y Representante Legal de la empresa Servicios de Diseño y Construcción S. de R.L. de C.V. (SERDICON) con Identidad No. 0801-1990-18501, en adelante denominado “EL CONTRATISTA” por la otra parte.
+Servicios de Diseño y Construcción S. DE R.L. DE C.V (SERDICON) ESTE CONTRATO (en adelante denominado el “Contrato”) se celebra entre ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con identidad No. 0801-1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará “EL CONTRATANTE” por una parte y AYDA MARICELA CACERES SANDOVAL, Gerente General y Representante Legal de la empresa Servicios de Diseño y Construcción S. de R.L. de C.V. (SERDICON) con Identidad No. 0801-1990-18501, en adelante denominado “EL CONTRATISTA” por la otra parte.
 
 Por cuanto el Contratante desea que el Contratista ejecute “Obras de Ampliación para el Tercer Ciclo en: “Los Centros de Educación Básica (CEB) Miguel de Cervantes Saavedra, Municipio de San Francisco de Opalaca, Intibucá; Francisco Morazán, Municipio de Quimistán, Santa Bárbara, distribuidos en el Lote (7)”, (en adelante denominado “las Obras”) y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de las mismas, de acuerdo al detalle siguiente de cantidades y precios unitarios:
 
@@ -3669,7 +3669,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 (iii) Una práctica coercitiva consiste en perjudicar o causar daño, o amenazar con perjudicar o causar daño, directa o indirectamente, a cualquier parte o a sus bienes para influenciar indebidamente las acciones de una parte;
 
-(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y ,
+(iv)Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y,
 
 (v) Una práctica obstructiva consiste en: a.a. destruir, falsificar, alterar u ocultar deliberadamente evidencia significativa para la investigación o realizar declaraciones falsas ante los investigadores con el fin de impedir materialmente una investigación del Grupo del Banco sobre denuncias de una práctica corrupta, fraudulenta, coercitiva o colusoria; y/o amenazar, hostigar o intimidar a cualquier parte para impedir que divulgue su conocimiento de asuntos que son importantes para la investigación o que prosiga la investigación, o b.b. todo acto dirigido a impedir materialmente el ejercicio de inspección del Banco y los derechos de auditoría previstos en el párrafo
 
@@ -3747,9 +3747,9 @@ Si el Contratista no ha recibido algunas sumas que se le adeudan dentro del peri
 
 64.1 El Contratista y sus Subcontratistas deberán ser originarios de países miembros del Banco. Se considera que un Contratista o Subcontratista tiene la nacionalidad de un país elegible si cumple con los siguientes requisitos:
 
-(a). Un individuo tiene la nacionalidad de un país miembro del Banco si el o ella satisface uno de los siguientes requisitos: i.es ciudadano de un país miembro; o , ii.ha establecido su domicilio en un país miembro como residente “bona fide” y está legalmente autorizado para trabajar en dicho país.
+(a). Un individuo tiene la nacionalidad de un país miembro del Banco si el o ella satisface uno de los siguientes requisitos: i.es ciudadano de un país miembro; o, ii.ha establecido su domicilio en un país miembro como residente “bona fide” y está legalmente autorizado para trabajar en dicho país.
 
-(b). Una firma tiene la nacionalidad de un país miembro si satisface los dos siguientes requisitos: i.esta legalmente constituida o incorporada conforme a las leyes de un país miembro del Banco; y , ii.más del cincuenta por ciento (50%) del capital de la firma es de propiedad de individuos o firmas de países miembros del Banco.
+(b). Una firma tiene la nacionalidad de un país miembro si satisface los dos siguientes requisitos: i.esta legalmente constituida o incorporada conforme a las leyes de un país miembro del Banco; y, ii.más del cincuenta por ciento (50%) del capital de la firma es de propiedad de individuos o firmas de países miembros del Banco.
 
 64.2 Todos los socios de un Consorcio con responsabilidad mancomunada y solidaria y todos los subcontratistas deben cumplir con los requisitos arriba establecidos.
 
@@ -3829,7 +3829,7 @@ N 1617000 09
 
 BUENOS AIRES CGC DEPARTAM MUNICIPI ENTO DESCRIPCIÓN
 
-O Módulo de Tres aulas de 6 X 8, Módulo Sanitario PRI-2A, Obras Complementarias (cuneta, rampa,acera, tanque elevado, sobre SAN FRANCISC O DE OPALACA INTIBUCÁ elevación aulas y baños, cerco perimetral , portón y pintura exterior para edificios existentes) Módulo de Tres aulas de 6 X 8, Módulo Sanitario PRI-2A, Obras Complementarias (cuneta, gradas,acera, tanque elevado, sobre elevación aulas, cerco SANTA BÁRBARA QUIMISTA N perimetral , portón y pintura exterior para edificios existentes) Las secciones de las Obras con fechas de terminación distintas a las de la totalidad de 2.2 las Obras son: No aplica CGC Los siguientes documentos también forman parte integral del Contrato:
+O Módulo de Tres aulas de 6 X 8, Módulo Sanitario PRI-2A, Obras Complementarias (cuneta, rampa,acera, tanque elevado, sobre SAN FRANCISC O DE OPALACA INTIBUCÁ elevación aulas y baños, cerco perimetral, portón y pintura exterior para edificios existentes) Módulo de Tres aulas de 6 X 8, Módulo Sanitario PRI-2A, Obras Complementarias (cuneta, gradas,acera, tanque elevado, sobre elevación aulas, cerco SANTA BÁRBARA QUIMISTA N perimetral, portón y pintura exterior para edificios existentes) Las secciones de las Obras con fechas de terminación distintas a las de la totalidad de 2.2 las Obras son: No aplica CGC Los siguientes documentos también forman parte integral del Contrato:
 
 2.3 (i)
 
@@ -3945,7 +3945,7 @@ El anticipo será amortizado en cada estimación presentada a cobro, conforme al
 
 El monto de la Garantía de Cumplimiento es equivalente al 10% del monto total contratado.
 
-51.1 La Garantía Bancaria deberá ser incondicional ("contra primera solicitud”) (Véase la , Sección X, Formularios de Garantías.
+51.1 La Garantía Bancaria deberá ser incondicional ("contra primera solicitud”) (Véase la, Sección X, Formularios de Garantías.
 
 El Contratista debe presentar una Garantía de Calidad de tipo Bancario equivalente al 5% del valor del Contrato, por un plazo de 12 meses contados a partir de la fecha de emisión del Acta de Recepción definitiva de la obra.
 
@@ -3987,7 +3987,7 @@ ENTRE AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE H
 
 I. Contrato – Suma Global ESTE CONTRATO DE CONSULTORIA es celebrado el día seis (06) de diciembre del año dos mil veintiuno (2021).
 
-Entre, ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con tarjeta de identidad No. 0801- 1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004- 2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará EL CONTRATANTE y por otra parte, TELMA IRIS DAVID SUAZO, hondureña, con tarjeta de identidad No. 0305-1950-00013, actuando en su condición de Representante Legal de GABINETE TÉCNICO S.A. DE C.V. (GATESA), quien en adelante se denominará el CONSULTOR.
+Entre, ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con tarjeta de identidad No. 0801-1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará EL CONTRATANTE y por otra parte, TELMA IRIS DAVID SUAZO, hondureña, con tarjeta de identidad No. 0305-1950-00013, actuando en su condición de Representante Legal de GABINETE TÉCNICO S.A. DE C.V. (GATESA), quien en adelante se denominará el CONSULTOR.
 
 POR CUANTO
 
@@ -4573,15 +4573,13 @@ Apéndices A – Términos de Referencia I.
 
 Antecedentes:
 
-La Ley para el Establecimiento de una Visión de País (2010- 2038) y la Adopción de un Plan de Nación (2010-2022) establece los siguientes objetivos relacionados al sector educación: Objetivo 1 “Una Honduras sin pobreza extrema, educada y sana con sectores consolidados de previsión social” y Objetivo 4 “Honduras con un Estado moderno, transparente, 11 responsable, eficiente y competitivo.” 3 El sector educativo ha experimentado grandes avances, en lo referente al fortalecimiento y la actualización de su marco regulatorio, aprobándose una serie de leyes que velan por el desarrollo, fortalecimiento y mejora de la calidad educativa, entre ellas se puede mencionar: la Ley de Fortalecimiento de la Educación Pública y la Participación Comunitaria (2011), la Ley Fundamental de Educación (2012), la Ley del Instituto Hondureño de Infraestructura Física Educativa (2013), la Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación(2014), los 22 Reglamentos de la Ley Fundamental de Educación (2014), y otras leyes vigentes, mediante las cuales se busca fortalecer el Sistema Nacional de Educación y garantizar el derecho humano a una educación integral de calidad en condiciones de equidad para la población hondureña.
+La Ley para el Establecimiento de una Visión de País (2010-2038) y la Adopción de un Plan de Nación (2010-2022) establece los siguientes objetivos relacionados al sector educación: Objetivo 1 “Una Honduras sin pobreza extrema, educada y sana con sectores consolidados de previsión social” y Objetivo 4 “Honduras con un Estado moderno, transparente, 11 responsable, eficiente y competitivo.” 3 El sector educativo ha experimentado grandes avances, en lo referente al fortalecimiento y la actualización de su marco regulatorio, aprobándose una serie de leyes que velan por el desarrollo, fortalecimiento y mejora de la calidad educativa, entre ellas se puede mencionar: la Ley de Fortalecimiento de la Educación Pública y la Participación Comunitaria (2011), la Ley Fundamental de Educación (2012), la Ley del Instituto Hondureño de Infraestructura Física Educativa (2013), la Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación(2014), los 22 Reglamentos de la Ley Fundamental de Educación (2014), y otras leyes vigentes, mediante las cuales se busca fortalecer el Sistema Nacional de Educación y garantizar el derecho humano a una educación integral de calidad en condiciones de equidad para la población hondureña.
 
 La Ley Fundamental de Educación, define la composición del Sistema Nacional de Educación con tres componentes: formal–estructurada en los niveles de educación prebásica, 11 Ley de Nación Visión de País básica, media y superior, que se imparte en los centros gubernamentales y no gubernamentales creados para tales fines; no formal – que se orienta a atender necesidades educativas específicas o diferentes a las que atiende la educación formal, desarrollada tanto por instituciones públicas como por instituciones y organizaciones no gubernamentales; e informal – que es todo conocimiento libre y espontáneamente 12 adquirido.4 El diagnóstico sobre el sector educación, realizado como parte del Plan Estratégico del Sector Educación 2018 2030, confirma una limitada oferta educativa, con un promedio general de 56% de la población en edad escolar sin atención desglosada así: Pre básica 68%, básica en sus dos primeros ciclos un 6%, el tercer ciclo un 84% y media un 67%; carencia de competencias para desarrollar habilidades blandas en los estudiantes; limitado acceso a la tecnología; niños de 6 a 15 años sin completar sus itinerarios escolares y si lo hacen existe alto índice de sobre edad y (reprobación) repitencia; a la vez el país carece de con un plan de Oferta Educativa para 13 el Tercer Ciclo.5 En este contexto, el Plan de Gobierno (2018-2022) se propone, a través de siete ejes prioritarios entre ellos el de Educación y Salud; la transformación del modelo productivo para generar los empleos suficientes y reducir de manera acelerada la pobreza; asegurar el acceso igualitario a las oportunidades; proporcionar redes de seguridad social adecuadas; y construir alianzas en favor de una educación innovadora y útil para la 14 vida y el trabajo.6 12 Ley Fundamental de Educación 13 Plan del Sector Educación 2018-2030 14 Plan de Gobierno 2018-2022 Por su parte, el Proyecto Joven aspira a contribuir a la transformación educativa del país fortaleciendo el acompañamiento a docentes para mejorar las prácticas pedagógicas mediante la enseñanza por problemas; realizando alianzas con la comunidad educativa; practicando una evaluación en función de la calidad de los aprendizajes; impulsando el uso de la tecnología para la generación de conocimiento que demanda la industria moderna; formando un estudiante promotor de su aprendizaje; y desarrollando un pensamiento crítico que potencie capacidades para la vida laboral y la generación de emprendimientos, mediante un modelo pedagógico innovador, creativo y útil.
 
 II. Justificación:
 
-En el marco del Plan de Gobierno (2018-2022), el 2 de febrero del año 2018 se celebró el contrato de préstamo No.
-
-4449/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO para la ejecución del Programa Mejora de la Calidad de la Educación para el Desarrollo de Habilidades para el Empleo: Proyecto Joven. El monto de la operación es hasta Cuarenta y cinco millones de dólares (US$ 45.0000.000) y es ejecutado por medio de la Agencia Estratégica de Proyectos Productivos, 15 Ambientales y Sociales de Honduras (AEPAS-H). 7 El objetivo principal del Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo:
+En el marco del Plan de Gobierno (2018-2022), el 2 de febrero del año 2018 se celebró el contrato de préstamo No. 4449/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO para la ejecución del Programa Mejora de la Calidad de la Educación para el Desarrollo de Habilidades para el Empleo: Proyecto Joven. El monto de la operación es hasta Cuarenta y cinco millones de dólares (US$ 45.0000.000) y es ejecutado por medio de la Agencia Estratégica de Proyectos Productivos, 15 Ambientales y Sociales de Honduras (AEPAS-H). 7 El objetivo principal del Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo:
 
 Proyecto Joven, es contribuir al desarrollo de las habilidades para el trabajo y la vida de los jóvenes hondureños, por medio de la mejora del acceso y calidad de los aprendizajes en el 15 Contrato de Préstamo No. 44-49/BL-HO tercer ciclo de Educación Básica (EB), en los municipios priorizados por el programa. Para alcanzar dicho objetivo, el Programa comprende los siguientes componentes:
 
@@ -4963,7 +4961,7 @@ Plazo de entrega Detalle por el Contratista al finalizar la obra.
 
 #### Artículo 6
 
-ARTÍCULO 6.- Aprobar en todas y cada una de sus partes el Contrato No.CI 022-4449-2020, suscrito en fecha 03 de Marzo del año 2020, Enmienda No.1 suscrita en fecha 04 de Marzo de 2021 y Enmienda N0. 2 suscrita en fecha 11 de Noviembre de 2021 entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y el Consultor GERMAN EGDARGO MONCADA GODOY, que literalmente dice:
+ARTÍCULO 6.- Aprobar en todas y cada una de sus partes el Contrato No.CI 022-4449-2020, suscrito en fecha 03 de Marzo del año 2020, Enmienda No. 1 suscrita en fecha 04 de Marzo de 2021 y Enmienda N0. 2 suscrita en fecha 11 de Noviembre de 2021 entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y el Consultor GERMAN EGDARGO MONCADA GODOY, que literalmente dice:
 
 CONTRATO DE SERVICIO DE CONSULTORÍA INDIVIDUAL
 
@@ -4973,7 +4971,7 @@ ESTE CONTRATO DE SERVICIO DE CONSULTORIA
 
 INDIVIDUAL (en adelante denominado el “Contrato”) se celebra entre ARNALDO BUESO HERNÁNDEZ, mayor de edad, Ingeniero Forestal, hondureño, Tarjeta de Identidad N° 1607-1970-00052, con domicilio en la ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco, actuando en mi condición de SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN, nombrado mediante Acuerdo Presidencial N° 236-2018, de fecha Veintiséis (26) de Diciembre de Dos Mil Dieciocho (2018), emitido por el Secretario Privado y Jefe de Gabinete Presidencial, con Rango de Secretario de Estado mediante Acuerdo Ejecutivo No. 09-2018 de fecha Veintisiete de
 
-(27) de Enero de Dos Mil Dieciocho (2018), y quien en lo sucesivo y para efectos de este Contrato se denominará “EL CONTRATANTE y por otra parte, GERMAN EGDARGO MONCADA GODOY, mayor de edad, Phd en Educación, con residencia en la ciudad de Tegucigalpa, Municipio del Distrito Central, con Tarjeta de Identidad No. 0801-1963- 02528, quien en adelante se denominará el CONSULTOR, el que se sujeta a las cláusulas siguientes:
+(27) de Enero de Dos Mil Dieciocho (2018), y quien en lo sucesivo y para efectos de este Contrato se denominará “EL CONTRATANTE y por otra parte, GERMAN EGDARGO MONCADA GODOY, mayor de edad, Phd en Educación, con residencia en la ciudad de Tegucigalpa, Municipio del Distrito Central, con Tarjeta de Identidad No. 0801-1963-02528, quien en adelante se denominará el CONSULTOR, el que se sujeta a las cláusulas siguientes:
 
 1. DEFINICIONES. Los siguientes términos serán interpretados como se indica a continuación:
 
@@ -5005,7 +5003,7 @@ INDIVIDUAL (en adelante denominado el “Contrato”) se celebra entre ARNALDO B
 
 (n) “Plazo”, período en días calendario sucesivos, incluyendo sábados, domingos y feriados.
 
-2. FUENTE DE FINANCIAMIENTO. El CONTRATANTE ha recibido financiamiento del Banco Interamericano de Desarrollo (en adelante denominado el “Banco”) para sufragar el precio de los Servicios Profesionales, que se llevarán a cabo como parte del Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven (en adelante denominado el “Programa” El CONTRATANTE se propone utilizar parte de los fondos de este financiamiento para efectuar pagos elegibles bajo este Contrato, quedando entendido que (i) el Banco sólo efectuará pagos a pedido del CONTRATANTE y previa aprobación por el Banco, (ii) dichos pagos estarán sujetos en todos sus aspectos, a los términos y condiciones del Contrato de Préstamo No.4449/BL-HO y (iii) nadie más que el CONTRATANTE podrá tener derecho alguno en virtud del Contrato de Préstamo ni tendrá ningún derecho a reclamar fondos del financiamiento.
+2. FUENTE DE FINANCIAMIENTO. El CONTRATANTE ha recibido financiamiento del Banco Interamericano de Desarrollo (en adelante denominado el “Banco”) para sufragar el precio de los Servicios Profesionales, que se llevarán a cabo como parte del Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven (en adelante denominado el “Programa” El CONTRATANTE se propone utilizar parte de los fondos de este financiamiento para efectuar pagos elegibles bajo este Contrato, quedando entendido que (i) el Banco sólo efectuará pagos a pedido del CONTRATANTE y previa aprobación por el Banco, (ii) dichos pagos estarán sujetos en todos sus aspectos, a los términos y condiciones del Contrato de Préstamo No. 4449/BL-HO y (iii) nadie más que el CONTRATANTE podrá tener derecho alguno en virtud del Contrato de Préstamo ni tendrá ningún derecho a reclamar fondos del financiamiento.
 
 3. SERVICIOS. El CONSULTOR prestará los Servicios que se especifican en el Anexo A, “Términos de Referencia”, que forma parte integral de este Contrato.
 
@@ -5113,7 +5111,7 @@ Anexo B: Estimación del Precio de los Servicios Anexo C: Certificado de Elegibi
 
 Anexo D: Cláusula de Integridad Anexo A: Términos de Referencia I.ANTECEDENTES.
 
-La Ley para el Establecimiento de una Visión de País (2010- 2038) y la Adopción de un Plan de Nación (2010-2022) establece los siguientes objetivos relacionados al sector educación: Objetivo 1 “Una Honduras sin pobreza extrema, educada y sana con sectores consolidados de previsión social” y Objetivo 4 “Honduras con un Estado moderno, transparente, 18 responsable, eficiente y competitivo.” 3 18 Ley de Nación Visión de País El sector educativo ha experimentado grandes avances, en lo referente al fortalecimiento y la actualización de su marco regulatorio, aprobándose una serie de leyes que velan por el desarrollo, fortalecimiento y mejora de la calidad educativa, entre ellas se puede mencionar: la Ley de Fortalecimiento de la Educación Pública y la Participación Comunitaria (2011), la Ley Fundamental de Educación (2012), la Ley del Instituto Hondureño de Infraestructura Física Educativa (2013), la Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación (2014), los 22 Reglamentos de la Ley Fundamental de Educación (2014), y otras leyes vigentes, mediante las cuales se busca fortalecer el Sistema Nacional de Educación y garantizar el derecho humano a una educación integral de calidad en condiciones de equidad para la población Hondureña.
+La Ley para el Establecimiento de una Visión de País (2010-2038) y la Adopción de un Plan de Nación (2010-2022) establece los siguientes objetivos relacionados al sector educación: Objetivo 1 “Una Honduras sin pobreza extrema, educada y sana con sectores consolidados de previsión social” y Objetivo 4 “Honduras con un Estado moderno, transparente, 18 responsable, eficiente y competitivo.” 3 18 Ley de Nación Visión de País El sector educativo ha experimentado grandes avances, en lo referente al fortalecimiento y la actualización de su marco regulatorio, aprobándose una serie de leyes que velan por el desarrollo, fortalecimiento y mejora de la calidad educativa, entre ellas se puede mencionar: la Ley de Fortalecimiento de la Educación Pública y la Participación Comunitaria (2011), la Ley Fundamental de Educación (2012), la Ley del Instituto Hondureño de Infraestructura Física Educativa (2013), la Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación (2014), los 22 Reglamentos de la Ley Fundamental de Educación (2014), y otras leyes vigentes, mediante las cuales se busca fortalecer el Sistema Nacional de Educación y garantizar el derecho humano a una educación integral de calidad en condiciones de equidad para la población Hondureña.
 
 La Ley Fundamental de Educación, define la composición del Sistema Nacional de Educación con tres componentes: formal–estructurada en los niveles de educación pre-básica, básica, media y superior, que se imparte en los centros gubernamentales y no gubernamentales creados para tales fines; no formal – que se orienta a atender necesidades educativas específicas o diferentes a las que atiende la educación formal, desarrollada tanto por instituciones públicas como por instituciones y organizaciones no gubernamentales; e informal – que es todo conocimiento libre y espontáneamente adquirido.4 19 El diagnóstico sobre el sector educación, realizado como parte del Plan Estratégico del Sector Educación 2018 2030, 19 Ley Fundamental de Educación confirma una limitada oferta educativa, con un promedio general de 56% de la población en edad escolar sin atención desglosada así: Prebásica 68%, básica en sus dos primeros ciclos un 6%, el tercer ciclo un 84% y media un 67%; carencia de competencias para desarrollar habilidades blandas en los estudiantes; limitado acceso a la tecnología; niños de 6 a 15 años sin completar sus itinerarios escolares y si lo hacen existe alto índice de sobre edad y (reprobación) repotencia; falta de 20 con un plan de Oferta Educativa para el Tercer Ciclo5 En este contexto, el Plan de Gobierno (2018-2022) se propone, a través de siete ejes prioritarios entre ellos el de Educación y Salud; la transformación del modelo productivo para generar los empleos suficientes y reducir de manera acelerada la pobreza; asegurar el acceso igualitario a las oportunidades; proporcionar redes de seguridad social adecuadas; y construir alianzas en favor de una educación innovadora y útil para la 21 vida y el trabajo.6
 
@@ -5147,9 +5145,7 @@ Esta consultoría contribuye al logro del producto: “Escuelas con programas de
 
 Proyecto Joven. El enfoque de la consultoría será en Educación Básica con énfasis en el Tercer Ciclo.
 
-La Secretaría de Estado en el Despacho de Educación, responsable, en todo momento, de la ejecución oportuna de las actividades vinculadas a cada uno de los componentes, respetando lo establecido en el Contrato de Préstamo No.
-
-4449-BL. HO, requiere la contratación de consultoría para la formulación e implementación de intervenciones educativas integrales para la prevención de violencia, prevención de embarazo y prevención de migración irregular.
+La Secretaría de Estado en el Despacho de Educación, responsable, en todo momento, de la ejecución oportuna de las actividades vinculadas a cada uno de los componentes, respetando lo establecido en el Contrato de Préstamo No. 4449-BL. HO, requiere la contratación de consultoría para la formulación e implementación de intervenciones educativas integrales para la prevención de violencia, prevención de embarazo y prevención de migración irregular.
 
 III.I OBJETIVO GENERAL DE LA CONSULTORÍA.
 
@@ -5159,7 +5155,7 @@ La consultoría tiene como objetivo principal realizar un mapeo sobre intervenci
 
 IV.ACTIVIDADES PARA LA EJECUCIÓN DE LA CONSULTORÍA.
 
-A. I D E N T I F I C A C I Ó N Y M A P E O D E EXPERIENCIAS EXITOSAS NACIONALES E INTERNACIONALES 1.Coordinación de todas las actividades con la Subdirección General de Educación para la Prevención y Rehabilitación Social (SDGEPRS), con el apoyo de la Unidad Ejecutora del Proyecto Joven.
+A. IDENTIFICACIÓN Y MAPEO DE EXPERIENCIAS EXITOSAS NACIONALES E INTERNACIONALES 1.Coordinación de todas las actividades con la Subdirección General de Educación para la Prevención y Rehabilitación Social (SDGEPRS), con el apoyo de la Unidad Ejecutora del Proyecto Joven.
 
 2.Asistencia técnica a los equipos de la Secretaría de Estado en el Despacho de Educación, para fortalecer las capacidades técnicas institucionales en los temas de clima escolar.
 
@@ -5253,7 +5249,7 @@ OBJ
 
 (5) No tengo una relación de trabajo o de familia con algún miembro del personal de la entidad contratante ni del personal del Prestatario, del Organismo Ejecutor del Proyecto o del Beneficiario de una Cooperación Técnica que esté directa o indirectamente involucrado de cualquier manera con: (i) la preparación de los Términos de Referencia (TR) de este contrato; (ii) el proceso de selección de dicho contrato; o, (iii) la supervisión de dicho contrato.
 
-(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato ; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de _________N/A_____________ (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y, (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
+(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de _________N/A_____________ (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y, (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
 
 (7) Mantendré los más altos niveles éticos y no realizaré ninguna de las acciones que constituyen Prácticas Prohibidas definidas en las Políticas para la Selección y Contratación de Consultores financiados por el BID, las cuales declaro conocer, y no he sido declarado inelegible para participar en contratos financiados por otras Instituciones Financieras Internacionales que han suscrito acuerdos con el Banco para el reconocimiento recíproco de sanciones. Si se comprueba, de acuerdo con el procedimiento de sanciones del Banco, que durante el proceso de mi contratación, he incurrido en prácticas prohibidas, el Banco podrá adoptar una o más de las siguientes medidas:
 
@@ -5265,7 +5261,7 @@ OBJ
 
 (d) Declararme inelegible, de forma temporal o permanente, para ser contratado o subcontratado por terceros elegibles, con recursos del Banco o administrados por el Banco.
 
-Q U E D A E N T E N D I D O Q U E C U A L Q U I E R INFORMACIÓN FALSA O EQUÍVOCA QUE YO HAYA PROVEÍDO EN RELACIÓN CON ESTOS REQUERIMIENTOS DE ELEGIBILIDAD Y DE INTEGRIDAD QUE CONSTAN DE ESTA CERTIFICACIÓN Y DE LAS POLÍTICAS DEL BANCO, TORNARÁ NULO Y SIN EFECTO ESTE CONTRATO Y NO TENDRÉ DERECHO A REMUNERACIÓN O INDEMNIZACIÓN ALGUNA, SIN PERJUICIO DE LAS ACCIONES O SANCIONES QUE EL BANCO PUDIERA ADOPTAR DE ACUERDO CON SUS NORMAS Y POLÍTICAS.
+QUEDA ENTENDIDO QUE CUALQUIER INFORMACIÓN FALSA O EQUÍVOCA QUE YO HAYA PROVEÍDO EN RELACIÓN CON ESTOS REQUERIMIENTOS DE ELEGIBILIDAD Y DE INTEGRIDAD QUE CONSTAN DE ESTA CERTIFICACIÓN Y DE LAS POLÍTICAS DEL BANCO, TORNARÁ NULO Y SIN EFECTO ESTE CONTRATO Y NO TENDRÉ DERECHO A REMUNERACIÓN O INDEMNIZACIÓN ALGUNA, SIN PERJUICIO DE LAS ACCIONES O SANCIONES QUE EL BANCO PUDIERA ADOPTAR DE ACUERDO CON SUS NORMAS Y POLÍTICAS.
 
 FIRMA:
 
@@ -5273,7 +5269,7 @@ NOMBRE: GERMAN EDGARDO MONCADA GODOY FECHA: 03 DE MARZO, 2020 Anexo D: Cláusula
 
 FIRMA:
 
-NOMBRE: GERMAN EDGARDO MONCADA GODOY FECHA: O3 DE MARZO, 2020 Enmienda No.1 CONTRATO DE SERVICIO DE CONSULTORÍA INDIVIDUAL No. CI 022-4449-2020 Nosotros, la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), en adelante denominado EL CONTRATANTE representada por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004- 2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No.34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras y por otra parte, GERMAN EGDARGO MONCADA GODOY, mayor de edad, Phd en Educación, con residencia en la ciudad de Tegucigalpa, Municipio del Distrito Central, con tarjeta de identidad No. 0801-1963-02528, quien en adelante se denominará el CONSULTOR, convenimos en celebrar y al efecto celebramos la presente Enmienda Nº. 1 al CONTRATO DE SERVICIO DE CONSULTORÍA INDIVIDUAL No. CI- 022-4449-2020 para la Implementación de Intervenciones Educativas Integrales para la Prevención de Violencia, Embarazo y Migración, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
+NOMBRE: GERMAN EDGARDO MONCADA GODOY FECHA: O3 DE MARZO, 2020 Enmienda No. 1 CONTRATO DE SERVICIO DE CONSULTORÍA INDIVIDUAL No. CI 022-4449-2020 Nosotros, la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), en adelante denominado EL CONTRATANTE representada por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras y por otra parte, GERMAN EGDARGO MONCADA GODOY, mayor de edad, Phd en Educación, con residencia en la ciudad de Tegucigalpa, Municipio del Distrito Central, con tarjeta de identidad No. 0801-1963-02528, quien en adelante se denominará el CONSULTOR, convenimos en celebrar y al efecto celebramos la presente Enmienda Nº. 1 al CONTRATO DE SERVICIO DE CONSULTORÍA INDIVIDUAL No. CI-022-4449-2020 para la Implementación de Intervenciones Educativas Integrales para la Prevención de Violencia, Embarazo y Migración, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
 
 Considerando 1: Que en fecha 03 de marzo de 2020, se suscribió el Contrato No. CI -022-4449-2020 para la “Implementación de Intervenciones Educativas Integrales para la Prevención de Violencia, Embarazo y Migración”, por un Precio de TREINTA Y SEIS MIL DOLARES CON 00/100, (USD. 36,000.00) y con Fecha Prevista de Terminación al 03 de Marzo 2021, para la entrega de los productos y cuyo desglose de pagos se detalla a continuación:
 
@@ -5295,7 +5291,7 @@ Por lo Tanto:
 
 Las partes acuerdan modificar la siguiente cláusula en atención a lo indicado en la Clausula 9. PRÓRROGAS y Cláusula
 
-10. MODIFICACIONES del Contrato No. CI-022-4449- 2020 suscrito el 03 de marzo de 2020.
+10. MODIFICACIONES del Contrato No. CI-022-4449-2020 suscrito el 03 de marzo de 2020.
 
 PRIMERO: Modificar la Cláusula 4: PLAZO que en la actualidad se leen así:
 
@@ -5323,7 +5319,7 @@ F
 
 GERMAN EGDARGO M
 
-Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO ENMIENDA No.2 Contrato de Consultoría Individual No. CI-022-4449-2020 Nombre del Consultor German Edgardo Moncada Godoy Implementación de Intervenciones Educativas Integrales para la Prevención de Violencia, Embarazo y Migración Fecha de Firma del 03 de marzo de 2020 Contrato Fecha firma de la 04 marzo de 2021 Enmienda No.1 Fecha firma de la 11 de noviembre de 2021 De acuerdo a lo establecido en la Cláusula 10. Modificaciones: la presente Enmienda No.2, se emite para reflejar la siguiente modificación al Contrato suscrito entre GERMAN EDGARDO MONCADA GODOY y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
+Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO ENMIENDA No. 2 Contrato de Consultoría Individual No. CI-022-4449-2020 Nombre del Consultor German Edgardo Moncada Godoy Implementación de Intervenciones Educativas Integrales para la Prevención de Violencia, Embarazo y Migración Fecha de Firma del 03 de marzo de 2020 Contrato Fecha firma de la 04 marzo de 2021 Enmienda No. 1 Fecha firma de la 11 de noviembre de 2021 De acuerdo a lo establecido en la Cláusula 10. Modificaciones: la presente Enmienda No. 2, se emite para reflejar la siguiente modificación al Contrato suscrito entre GERMAN EDGARDO MONCADA GODOY y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
 
 CONSIDERANDO QUE:
 
@@ -5357,7 +5353,7 @@ Cláusula 4. PLAZO: Según enmienda No. 1 que en la actualidad se lee:
 
 PLAZO. El CONSULTOR prestará los Servicios durante el período que se iniciará el 04 de marzo de 2021 al 03 de septiembre 2021, o durante cualquier otro período en que las Partes pudieran convenir posteriormente por escrito.
 
-Efectivo a partir de la Enmienda No.2 la CLÁUSULA 4.
+Efectivo a partir de la Enmienda No. 2 la CLÁUSULA 4.
 
 PLAZO, deberá leerse de la siguiente manera:
 
@@ -5367,7 +5363,7 @@ SEGUNDO. EN CUANTO A:
 
 Las demás cláusulas y condiciones contractuales establecidas en el contrato original suscrito entre las partes se mantienen sin modificación alguna.
 
-EN FE DE LO CUAL, se firma la presente Enmienda No.2, en la Ciudad de Tegucigalpa, M.D.C., en fecha 11 de noviembre de 2021.
+EN FE DE LO CUAL, se firma la presente Enmienda No. 2, en la Ciudad de Tegucigalpa, M.D.C., en fecha 11 de noviembre de 2021.
 
 Por EL CONTRATANTE
 
@@ -5393,7 +5389,7 @@ Con el fin de cumplir los REQUISITOS DE ELEGIBILIDAD y de INTEGRIDAD para la con
 
 (5) No tengo una relación de trabajo o de familia con algún miembro del personal de la entidad contratante ni del personal del Prestatario, del Organismo Ejecutor del Proyecto o del Beneficiario de una Cooperación Técnica que esté directa o indirectamente involucrado de cualquier manera con: (i) la preparación de los Términos de Referencia (TR) de este contrato; (ii) el proceso de selección de dicho contrato; o (iii) la supervisión de dicho contrato.
 
-(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato ; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de N/A; (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
+(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de N/A; (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
 
 (7) Mantendré los más altos niveles éticos y no realizaré ninguna de las acciones que constituyen Prácticas Prohibidas definidas en las Políticas para la Selección y Contratación de Consultores financiados por el BID, las cuales declaro conocer, y no he sido declarado inelegible para participar en contratos financiados por otras Instituciones Financieras Internacionales que han suscrito acuerdos con el Banco para el reconocimiento recíproco de sanciones. Si se comprueba, de acuerdo con el procedimiento de sanciones del Banco, que durante el proceso de mi contratación, he incurrido en prácticas prohibidas, el Banco podrá adoptar una o más de las siguientes medidas:
 
@@ -5415,11 +5411,11 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 27 DE SEPTIEMBRE DEL 2
 
 #### Artículo 7
 
-ARTÍCULO 7.- Aprobar en todas y cada una de sus partes el Contrato de Consultoría Individual No.AEPAS-H 257-CI- 2021, suscrito en fecha 21 de octubre del año 2021, entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y la Consultora ALISSON MARIE CALLEJAS SALGADO, que literalmente dice:
+ARTÍCULO 7.- Aprobar en todas y cada una de sus partes el Contrato de Consultoría Individual No.AEPAS-H 257-CI-2021, suscrito en fecha 21 de octubre del año 2021, entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y la Consultora ALISSON MARIE CALLEJAS SALGADO, que literalmente dice:
 
-PROGRAMA DE MEJORA DE LA GESTIÓN Y CALIDAD DE LOS SERVICIOS DE SALUD MATERNO­ NEONATAL PRÉSTAMO 4619/BL-HO Contrato No. AEPAS-H 257-Cl-2021 CONTRATO DE SERVICIOS DE CONSULTORIA INDIVIDUAL “IMPLEMENTACIÓN DE UN PROGRAMA DE FORMACIÓN Y CAPACITACIÓN DE PERSONAL (MÉDICOS, ENFERMERAS Y AUXILIARES) EN NEONATOLOGÍA Y EN EL MANEJO DE LAS COMPLICACIONES OBSTÉTRICAS-NEONATALES (INCLUYENDO TRANSPORTE)" ESTE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado el "Contrato") se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS­ H), que en adelante se denominará el Contratante, representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM- 004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No.
+PROGRAMA DE MEJORA DE LA GESTIÓN Y CALIDAD DE LOS SERVICIOS DE SALUD MATERNO­ NEONATAL PRÉSTAMO 4619/BL-HO Contrato No. AEPAS-H 257-Cl-2021 CONTRATO DE SERVICIOS DE CONSULTORIA INDIVIDUAL “IMPLEMENTACIÓN DE UN PROGRAMA DE FORMACIÓN Y CAPACITACIÓN DE PERSONAL (MÉDICOS, ENFERMERAS Y AUXILIARES) EN NEONATOLOGÍA Y EN EL MANEJO DE LAS COMPLICACIONES OBSTÉTRICAS-NEONATALES (INCLUYENDO TRANSPORTE)" ESTE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado el "Contrato") se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS­ H), que en adelante se denominará el Contratante, representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No.
 
-No.34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante "EL CONTRATANTE", por una parte y por otra parte, ALLISON MARIE CALLEJAS SALGADO, mayor de edad, Doctor en Medicina Especialista en Pediatría con subespecialidad en Medicina Neonatal- Perinatal, con domicilio en Colonia Loma Linda Norte, Casa 2422, Tegucigalpa, M.D.C., con tarjeta de identidad número 0801-2003-04625, quien en adelante se denominará EL CONSULTOR, el que se sujeta a las cláusulas siguientes:
+No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante "EL CONTRATANTE", por una parte y por otra parte, ALLISON MARIE CALLEJAS SALGADO, mayor de edad, Doctor en Medicina Especialista en Pediatría con subespecialidad en Medicina Neonatal- Perinatal, con domicilio en Colonia Loma Linda Norte, Casa 2422, Tegucigalpa, M.D.C., con tarjeta de identidad número 0801-2003-04625, quien en adelante se denominará EL CONSULTOR, el que se sujeta a las cláusulas siguientes:
 
 1. DEFINICIONES. Los siguientes términos serán interpretados como se indica a continuación:
 
@@ -5569,7 +5565,7 @@ Algunas de estas intervenciones están siendo puestas en práctica en algunos ho
 
 Por ello la SESAL través del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619/BL-HO, desarrollará una propuesta para el fortalecimiento de los Recursos Humanos que brindan servicios de atención a recién nacidos de los hospitales beneficiados por el programa (médicos, enfermeras profesionales de enfermería y auxiliares) para el mejoramiento de las competencias y La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 27 DE SEPTIEMBRE DEL 2022 No. 36,038 habilidades clínicas que asegure el correcto y oportuno manejo de complicaciones neonatales de acuerdo a los protocolos de atención y del nivel de complejidad donde se atienda la emergencia neonatal.
 
-Con la presente consultoría se contratará un consultor profesional experto, que organice, conduzca y desarrolle de acuerdo a los términos de referencia establecidos, el proceso de formación y capacitación del recurso humano seleccionado en los hospitales beneficiados por el programa: Hospital General Santa Rosa de Copán, Hospital General del Sur, Hospital Básico Juticalpa , Hospital Básico de Enrique Aguilar Cerrato, Hospital Básico La Paz, Hospital Básico San Marcos de Ocotepeque, Hospital General Santa Comayagua.
+Con la presente consultoría se contratará un consultor profesional experto, que organice, conduzca y desarrolle de acuerdo a los términos de referencia establecidos, el proceso de formación y capacitación del recurso humano seleccionado en los hospitales beneficiados por el programa: Hospital General Santa Rosa de Copán, Hospital General del Sur, Hospital Básico Juticalpa, Hospital Básico de Enrique Aguilar Cerrato, Hospital Básico La Paz, Hospital Básico San Marcos de Ocotepeque, Hospital General Santa Comayagua.
 
 II. OBJETIVOS DE LA CONSULTORIA
 
@@ -5755,7 +5751,7 @@ Con el fin de cumplir los REQUISITOS DE ELEGIBILIDAD y de INTEGRIDAD para la con
 
 (5) No tengo una relación de trabajo o de familia con algún miembro del personal de la entidad contratante ni del personal del Prestatario, del La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 27 DE SEPTIEMBRE DEL 2022 No. 36,038 Organismo Ejecutor del Proyecto o del Beneficiario de una Cooperación Técnica que esté directa o indirectamente involucrado de cualquier manera con: (i) la preparación de los Términos de Referencia (TR) de este contrato; (ii) el proceso de selección de dicho contrato; o (iii) la supervisión de dicho contrato.
 
-(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato ; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de NO APLICA (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
+(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de NO APLICA (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
 
 (7) Mantendré los más altos niveles éticos y no realizaré ninguna de las acciones que constituyen Prácticas Prohibidas definidas en las Políticas para la Selección y Contratación de Consultores financiados por el BID, las cuales declaro conocer, y no he sido declarado inelegible para participar en contratos financiados por otras Instituciones Financieras Internacionales que han suscrito acuerdos con el Banco para el reconocimiento recíproco de sanciones. Si se comprueba, de acuerdo con el procedimiento de sanciones del Banco, que, durante el proceso de mi contratación, he incurrido en prácticas prohibidas, el Banco podrá adoptar una o más de las siguientes medidas:
 
@@ -5781,7 +5777,7 @@ Anexo D
 
 CLÁUSULA DE INTEGRIDAD
 
-Cláusula de Integridad: Las partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de INTEGRIDAD, L E A LTA D C O N T R A C T U A L , E Q U I D A D , TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PUBLICAS SOBRE LA MISMA.
+Cláusula de Integridad: Las partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a: 1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de INTEGRIDAD, L E A LTA D C O N T R A C T U A L, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PUBLICAS SOBRE LA MISMA.
 
 2. Asumir una estricta observancia y aplicación de los principios fundamentales bajos los cuales se rigen los procesos de contratación y adquisiciones públicas establecidas en la Ley de Contratación del Estado, tales como: transparencia, igualdad y libre competencia La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 27 DE SEPTIEMBRE DEL 2022 No. 36,038
 
@@ -5797,7 +5793,7 @@ ENTRE
 
 1. ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, hondureño, casado, Licenciado en Economía, con Tarjeta de Identidad 0801-1963-03379, en condición de Sub Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, con firma delegada y físicamente ubicada en el Edificio Los Halcones, 3er piso, contiguo a la Guardia de Honor Presidencial, frente a Gasolinera UNO de Miraflores Sur, Tegucigalpa, Honduras M.D.C. (en adelante denominado “el Comprador”), y
 
-2. PEDRO ANTONIO NUÑEZ CRUZ, mayor de edad, comerciante, con Tarjeta de Identidad No. 1709-1985- 00928, actuando en su condición de representante legal de la empresa Inversiones y Equipos S. de R.L. de C.V., empresa constituida mediante Testimonio de Escritura Pública No. 15, “Constitución de Sociedad” Inscrito con el No. 16698, del Registro de la Propiedad Mercantil, el 08 de febrero de 2013, mediante oficios del notario Ernesto Alfonso Carrasco Castro, físicamente ubicada en Col. Kennedy 5ta. Entrada, Complejo de Bodegas Simón, Tegucigalpa, Honduras, (en adelante denominada “el Proveedor”).
+2. PEDRO ANTONIO NUÑEZ CRUZ, mayor de edad, comerciante, con Tarjeta de Identidad No. 1709-1985-00928, actuando en su condición de representante legal de la empresa Inversiones y Equipos S. de R.L. de C.V., empresa constituida mediante Testimonio de Escritura Pública No. 15, “Constitución de Sociedad” Inscrito con el No. 16698, del Registro de la Propiedad Mercantil, el 08 de febrero de 2013, mediante oficios del notario Ernesto Alfonso Carrasco Castro, físicamente ubicada en Col. Kennedy 5ta. Entrada, Complejo de Bodegas Simón, Tegucigalpa, Honduras, (en adelante denominada “el Proveedor”).
 
 POR CUANTO el Comprador ha llamado a licitación respecto de ciertos Bienes y Servicios Conexos, para la La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 27 DE SEPTIEMBRE DEL 2022 No. 36,038 “Adquisición de Ultrasonidos Móviles y Fijos para los equipos de salud familiar (ESFAM) y Gestores de Salud” y ha aceptado una oferta del Proveedor para el suministro de 21 equipos de ultrasonido digital tipo portátil por la suma de Nueve Millones Ochenta y Tres Mil Ciento Noventa y Tres Lempiras Exactos (L.9,083,193.00), (en adelante denominado “Precio del Contrato”).
 
@@ -6149,7 +6145,7 @@ El Comprador será reembolsado por el Proveedor por todos los gastos razonables 
 
 33.1 El Comprador podrá, en cualquier momento, efectuar cambios dentro del marco general del Contrato, mediante orden escrita al Proveedor de acuerdo con la Cláusula 8 de las CGC, en uno o más de los siguientes aspectos:
 
-(a) Planos, diseños o especificaciones, c u a n d o l o s B i e n e s q u e d e b a n suministrarse en virtud al Contrato deban ser fabricados específicamente para el Comprador;
+(a) Planos, diseños o especificaciones, cuando los Bienes que deban suministrarse en virtud al Contrato deban ser fabricados específicamente para el Comprador;
 
 (b) La forma de embarque o de embalaje;
 
@@ -6301,11 +6297,9 @@ Todo solicitante, oferente, proveedor de bienes y su representante, contratista,
 
 #### Artículo 9
 
-ARTICULO 9.- Aprobar en todas y cada una de sus partes el Contrato de Suministro de Bienes No.
+ARTICULO 9.- Aprobar en todas y cada una de sus partes el Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 suscrito el 27 de Agosto de 2021 y su Enmienda 1 suscrita el 01 de Diciembre de 2021, Enmienda 2, suscrita el 26 de Enero de 2022 y Enmienda No. 3 suscrita el 02 de Mayo de 2022 entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y el Proveedor COMUNICACIONES GLOBALES S. DE R.L que literalmente dice:
 
-AEPAS-4449-0211-2021 suscrito el 27 de Agosto de 2021 y su Enmienda 1 suscrita el 01 de Diciembre de 2021, Enmienda 2, suscrita el 26 de Enero de 2022 y Enmienda No. 3 suscrita el 02 de Mayo de 2022 entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y el Proveedor COMUNICACIONES GLOBALES S. DE R.L que literalmente dice:
-
-Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “Adquisición de Tablets” Nosotros, ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con Tarjeta de Identidad No. 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, quien en adelante se denominará EL CONTRATANTE, y por otra parte, ALEJANDRO CARBAJAL LIZANO, con Tarjeta de Identidad No. 0801- 1976-03375, actuando en su condición de Representante Legal de la empresa COMUNICACIONES GLOBALES S DE R.L denominada en adelante como EL PROVEEDOR, hemos convenido celebrar el presente Contrato, para lo cual se someten a las cláusulas que se exponen a continuación:
+Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “Adquisición de Tablets” Nosotros, ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con Tarjeta de Identidad No. 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, quien en adelante se denominará EL CONTRATANTE, y por otra parte, ALEJANDRO CARBAJAL LIZANO, con Tarjeta de Identidad No. 0801-1976-03375, actuando en su condición de Representante Legal de la empresa COMUNICACIONES GLOBALES S DE R.L denominada en adelante como EL PROVEEDOR, hemos convenido celebrar el presente Contrato, para lo cual se someten a las cláusulas que se exponen a continuación:
 
 POR CUANTO el Comprador ha llamado a licitación para la ADQUISICIÓN DE TABLETS bajo la Licitación Pública Internacional No. AEPAS-H-4449-LPI-009-2021 y ha aceptado la oferta del Proveedor para el suministro de dichos Bienes por la suma de VEINTIDOS MILLONES SESENTA Y NUEVE MIL SETECIENTOS NOVENTA Y TRES LEMPIRAS CON 80/100 (L. 22,069,793.80) (en adelante denominado “Precio del Contrato”).
 
@@ -6687,9 +6681,7 @@ Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Hondura
 
 Atención: Alejandro Carbajal Lizano Dirección del Proveedor:
 
-Colonia TEPEYAC, Avenida Luis Bogran, calle Alfonso Guillen Zelaya, Casa No.
-
-2202 Ciudad: Tegucigalpa, MDC.
+Colonia TEPEYAC, Avenida Luis Bogran, calle Alfonso Guillen Zelaya, Casa No. 2202 Ciudad: Tegucigalpa, MDC.
 
 País: Honduras Teléfono (504) 2263-4444 Fax (504) 2263-4445 Correo Electrónico: alejandro.carbajal@comunicacionesglobales.com GCC 9.1 La ley que rige este contrato: Ley de la República de Honduras GCC 10.2 Los reglamentos de los procedimientos para los procesos de arbitraje, de conformidad con la Cláusula 10.2 de las CGC, serán:
 
@@ -6739,9 +6731,7 @@ El pago se realizara dentro de los cuarenta y cinco (45) días de recibido los d
 
 NO se procederá a realizar ningún pago que no tenga la documentación solicitada a satisfacción.
 
-Todos los bienes a ser adquiridos con los fondos del Contrato de Préstamo No.
-
-4449-BL-HO están exonerados de los gravámenes arancelarios, impuestos selectivos al consumo e impuestos sobre ventas, que graven la importación y/o compra local.
+Todos los bienes a ser adquiridos con los fondos del Contrato de Préstamo No. 4449-BL-HO están exonerados de los gravámenes arancelarios, impuestos selectivos al consumo e impuestos sobre ventas, que graven la importación y/o compra local.
 
 En atención a lo descrito en el Artículo 78 de las Disposiciones del Presupuesto General de Ingresos y Egresos para el Ejercicio Fiscal 2021, todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, puede dar lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que al pago correspondiente a las obras o servicios ya ejecutados a la fecha de vigencia de la rescisión o resolución del contrato. Igual sucederá en caso de recorte presupuestario de fondos nacionales que se efectúe por razón de la situación económica y financiera del país, la estimación de la percepción de ingresos menores a los gastos proyectados y en caso de necesidades imprevistas o de emergencia.
 
@@ -6789,15 +6779,13 @@ GCC 28.5
 
 El plazo para reparar o reemplazar los bienes será: 15 días contados a partir de la notificación al proveedor por parte del ente contratante.
 
-Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO ENMIENDA No.1 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” Fecha de Firma del 27 de agosto de 2021 Fecha firma de la 01 diciembre de 2021 De acuerdo a lo establecido en la Cláusula 34 Prorroga de Plazos: la presente Enmienda No.1, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
+Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO ENMIENDA No. 1 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” Fecha de Firma del 27 de agosto de 2021 Fecha firma de la 01 diciembre de 2021 De acuerdo a lo establecido en la Cláusula 34 Prorroga de Plazos: la presente Enmienda No. 1, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
 
 CONSIDERANDO QUE:
 
 1. A través del CID/CHO/1125/2021 de fecha 19 de agosto de 2021 se emitió no objeción a Informe de Evaluación y Recomendación de Adjudicación para un periodo de ejecución de contrato de 90 días contados a partir de la Adjudicación de Contrato y por un monto total de contrato de VEINTIDOS MILLONES SESENTA Y NUEVE MIL SETECIENTOS NOVENTA Y TRES LEMPIRAS CON 80/100 (L. 22,069,793.80).
 
-1. Con fecha 27 de agosto de 2021, se suscribió el Contrato de Suministro de Bienes No.
-
-AEPAS-4449-0211-2021 con
+1. Con fecha 27 de agosto de 2021, se suscribió el Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 con
 
 COMUNICACIONES
 
@@ -6813,17 +6801,17 @@ PRIMERO. Modificar el Plazo indicado en Lista de Bienes y Plan de Entrega de los
 
 Que en la actualidad se lee: Lista de Bienes y Plan de Entrega:
 
-Efectivo a partir de la Enmienda No.1 La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
+Efectivo a partir de la Enmienda No. 1 La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
 
 LISTA DE BIENES Y PLAN DE ENTEGA
 
-Lugar de Destino Convenido segun se indica en los DLL Oferente No.1 45 días a partir de la adjudicación Universidad Nacional Francisco 150 días a partir de la del contrato del contrato Morazán (UPNFM), Ciudad de Tegucigalpa, Honduras C.A.
+Lugar de Destino Convenido segun se indica en los DLL Oferente No. 1 45 días a partir de la adjudicación Universidad Nacional Francisco 150 días a partir de la del contrato del contrato Morazán (UPNFM), Ciudad de Tegucigalpa, Honduras C.A.
 
 SEGUNDO. EN CUANTO A:
 
 Las demás cláusulas y condiciones contractuales establecidas en el contrato original suscrito entre las partes se mantienen sin modificación alguna.
 
-EN FE DE LO CUAL, se firma la presente Enmienda No.1, en la Ciudad de Tegucigalpa, M.D.C., en fecha 01 de diciembre de 2021.
+EN FE DE LO CUAL, se firma la presente Enmienda No. 1, en la Ciudad de Tegucigalpa, M.D.C., en fecha 01 de diciembre de 2021.
 
 Por y en nombre del Comprador:
 
@@ -6839,7 +6827,7 @@ Proyecto Joven
 
 PRÉSTAMO 4449/BL-HO
 
-ENMIENDA No.2 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” Fecha de Firma del 27 de agosto de 2021 Fecha firma de la 01 diciembre de 2021 De acuerdo a lo establecido en la Cláusula 34 Prorroga de Plazos: la presente Enmienda No.2, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S. DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
+ENMIENDA No. 2 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” Fecha de Firma del 27 de agosto de 2021 Fecha firma de la 01 diciembre de 2021 De acuerdo a lo establecido en la Cláusula 34 Prorroga de Plazos: la presente Enmienda No. 2, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S. DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
 
 CONSIDERANDO QUE:
 
@@ -6847,9 +6835,7 @@ CONSIDERANDO QUE:
 
 22,069,793.80).
 
-2.Con fecha 27 de agosto de 2021, se suscribió el Contrato de Suministro de Bienes No.
-
-AEPAS-4449-0211-2021 con
+2.Con fecha 27 de agosto de 2021, se suscribió el Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 con
 
 COMUNICACIONES
 
@@ -6857,9 +6843,7 @@ GLOBALES S. DE R. L a financiarse con fondos del Préstamo 4449/BLHO, con un pla
 
 3.En fecha 28 de octubre de 2021, COMUNICACIONES GLOBALES S. DE R.L solicitó la ampliación del plazo, lo anterior, para dar cumplimiento al contrato, debido a que las cadenas logísticas están sufriendo fuertemente situaciones de fuerza mayor, como ser la escasez de componentes electrónicos, materias primas y, problemas de la logística mundial siendo que los bienes son importados desde China.
 
-4. Que en fecha 24 de noviembre de 2021 se recibió el CID/CHO/1639/2021 otorgando la no objeción a la ampliación de plazo de contrato a 60 días adicionales, sin incremento en el monto del contrato de suministro, suscribiéndose la ENMIENDA 1 al Contrato de Suministro de Bienes No.
-
-AEPAS-4449-0211-2021, en fecha 01 de diciembre de 2021.
+4. Que en fecha 24 de noviembre de 2021 se recibió el CID/CHO/1639/2021 otorgando la no objeción a la ampliación de plazo de contrato a 60 días adicionales, sin incremento en el monto del contrato de suministro, suscribiéndose la ENMIENDA 1 al Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021, en fecha 01 de diciembre de 2021.
 
 5. En fecha 18 de enero de 2022 COMUNICACIONES GLOBALES S. DE R.L solicita la ampliación de plazo para la entrega de los bienes, lo anterior, justificando que Hyundai Technology fabricante de los bienes objeto de este contrato ha tenido demoras en la logística de componentes y partes electrónicas de sus proveedores hacia la fábrica de ensamble y fabricación.
 
@@ -6871,13 +6855,13 @@ PRIMERO. Modificar el Plazo indicado en Lista de Bienes y Plan de Entrega de los
 
 Que en la actualidad se lee: Lista de Bienes y Plan de Entrega:
 
-Efectivo a partir de la Enmienda No.2 La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
+Efectivo a partir de la Enmienda No. 2 La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
 
 SEGUNDO. EN CUANTO A:
 
 Las demás cláusulas y condiciones contractuales establecidas en el contrato original suscrito entre las partes se mantienen sin modificación alguna.
 
-EN FE DE LO CUAL, se firma la presente Enmienda No.2, en la Ciudad de Tegucigalpa, M.D.C., en fecha 26 de enero de 2022.
+EN FE DE LO CUAL, se firma la presente Enmienda No. 2, en la Ciudad de Tegucigalpa, M.D.C., en fecha 26 de enero de 2022.
 
 Por y en nombre del Comprador:
 
@@ -6887,9 +6871,9 @@ ___________FYS_________________________ ALEJANDRO CARBAJAL LIZANO Representante 
 
 PRÉSTAMO 4449/BL-HO
 
-Enmienda No.3 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” De acuerdo a lo establecido en la Cláusula 34. Prorroga de Plazos: Clausula 32.
+Enmienda No. 3 Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021 “ADQUISICIÓN DE TABLETS” Nombre del Proveedor Comunicaciones Globales S. DE R.L Nombre de la Adquisición “Adquisición de TABLETS” De acuerdo a lo establecido en la Cláusula 34. Prorroga de Plazos: Clausula 32.
 
-Fuerza Mayor la presente Enmienda No.3, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S. DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
+Fuerza Mayor la presente Enmienda No. 3, se emite para reflejar la siguiente modificación al Contrato suscrito entre COMUNICACIONES GLOBALES S. DE R.L y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
 
 CONSIDERANDO QUE:
 
@@ -6901,13 +6885,11 @@ CONSIDERANDO QUE:
 
 3. En fecha 28 de octubre de 2021, COMUNICACIONES GLOBALES S. DE R.L solicitó la ampliación del plazo, lo anterior, para dar cumplimiento al contrato, debido a que las cadenas logísticas están sufriendo fuertemente situaciones de fuerza mayor, como ser la escasez de componentes electrónicos, materias primas y, problemas de la logística mundial siendo que los bienes son importados desde China.
 
-4. Que en fecha 24 de noviembre de 2021 se recibió el CID/CHO/1639/2021 otorgando la no objeción a la ampliación de plazo de contrato a 60 días adicionales, sin incremento en el monto del contrato de suministro, suscribiéndose la ENMIENDA No. 1 al Contrato de Suministro de Bienes No. AEPAS-4449-0211- 2021, en fecha 01 de diciembre de 2021.
+4. Que en fecha 24 de noviembre de 2021 se recibió el CID/CHO/1639/2021 otorgando la no objeción a la ampliación de plazo de contrato a 60 días adicionales, sin incremento en el monto del contrato de suministro, suscribiéndose la ENMIENDA No. 1 al Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021, en fecha 01 de diciembre de 2021.
 
 5. En fecha 18 de enero de 2022 COMUNICACIONES GLOBALES S. DE R.L solicita la ampliación de plazo para la entrega de los bienes, lo anterior, justificando que Hyundai Technology fabricante de los bienes objeto de este contrato ha tenido demoras en la logística de componentes y partes electrónicas de sus proveedores hacia la fábrica de ensamble y fabricación.
 
-6. Que en fecha 26 de enero de 2022 se recibió el CID/CHO/83/2022 otorgando la no objeción a la ampliación de plazo, sin incremento en el monto, suscribiéndose la ENMIENDA No. 2 al Contrato de Suministro de Bienes No.
-
-AEPAS-4449-0211-2021, en fecha 26 de enero de 2022.
+6. Que en fecha 26 de enero de 2022 se recibió el CID/CHO/83/2022 otorgando la no objeción a la ampliación de plazo, sin incremento en el monto, suscribiéndose la ENMIENDA No. 2 al Contrato de Suministro de Bienes No. AEPAS-4449-0211-2021, en fecha 26 de enero de 2022.
 
 7. En fecha 09 de marzo y 05 de abril de 2022 COMUNICACIONES GLOBALES S. DE R.L solicitó ampliación de plazo de contrato para la segunda entrega de los bienes al 03 de mayo, 2022, lo anterior, justificando que Hyundai Technology fabricante de los bienes objeto este contrato ha tenido múltiples atrasos causadas por el rebrote del COVID en china, debido a que Hyundai Technology fabricante de los bienes objeto de este contrato ha tenido múltiples atrasos causadas por el rebrote del COVID en china, en atención al análisis legal realizado y de acuerdo a la normativa aplicable, se considera la causal de fuerza mayor no imputable al proveedor.
 
@@ -6925,7 +6907,7 @@ Lugar de Destino Convenido segun se Descripcion No. de
 
 Articulo Cantidad Unidad de los Bienes Fisica indica en los DLL Universidad Pedagógica Nacional Francisco Morazán (UPNFM), Ciudad de Tegucigalpa, Honduras C.A.
 
-Unidad 1 Tablets 2,708 Fecha de Entrega (de acuerdo a los Icoterms) Fecha de Primera Entrega Enmienda Fecha de Entrega Fecha de Segunda Entrega Enmienda No.2 Enmienda No.1 No. 2 07 de febrero de 2022 para la entrega de 1700 150 días a partir de la Al 14 de marzo de 2022 para la entrega de 1008 Tablets y 1708 Cobertor Tablets y 1000 firma del del contrato Cobertor + + Teclado Teclado Efectivo a partir de la Enmienda No.3 La Lista de Bienes y Plan de Entrega deberá leerse de la siguiente manera:
+Unidad 1 Tablets 2,708 Fecha de Entrega (de acuerdo a los Icoterms) Fecha de Primera Entrega Enmienda Fecha de Entrega Fecha de Segunda Entrega Enmienda No. 2 Enmienda No. 1 No. 2 07 de febrero de 2022 para la entrega de 1700 150 días a partir de la Al 14 de marzo de 2022 para la entrega de 1008 Tablets y 1708 Cobertor Tablets y 1000 firma del del contrato Cobertor + + Teclado Teclado Efectivo a partir de la Enmienda No. 3 La Lista de Bienes y Plan de Entrega deberá leerse de la siguiente manera:
 
 Lista de Bienes y Plan de Entrega:
 
@@ -6945,7 +6927,7 @@ _______________FYS_________________________________________________ ALEJANDRO CA
 
 ARTÍCULO 10.- Aprobar en todas y cada una de sus partes el Contrato No. AEPAS-4449-0262-2021, suscrito en fecha 17 de Noviembre del año 2021 entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y el CONSORCIO QUALITY GROUP GT-H, que literalmente dice:
 
-Contrato de Servicios No. AEPAS-4449-0262-2021 “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” Nosotros, ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con tarjeta de identidad No. 0801- 1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004- 2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará EL CONTRATANTE y por otra parte, KENYA JOHANA MARTINEZ ESPINAL, con tarjeta de identidad No. 0801-1994-14866, actuando en su condición de Representante Legal del CONSORCIO QUALITY GROUP GT-H denominado en adelante como EL PROVEEDOR, hemos convenido celebrar el presente Contrato, para lo cual se someten a las cláusulas que se exponen a continuación:
+Contrato de Servicios No. AEPAS-4449-0262-2021 “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” Nosotros, ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, Licenciado en Economía, hondureño, con tarjeta de identidad No. 0801-1963-03379 en su condición de Sub-Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, quien actúa por Delegación de Autoridad de fecha 03 de noviembre de 2021, emitida por la Secretaria de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras pueda firmar los trámites necesarios y requeridos para efectos administrativos y de desembolso de los Programas y Proyectos, quien en adelante se denominará EL CONTRATANTE y por otra parte, KENYA JOHANA MARTINEZ ESPINAL, con tarjeta de identidad No. 0801-1994-14866, actuando en su condición de Representante Legal del CONSORCIO QUALITY GROUP GT-H denominado en adelante como EL PROVEEDOR, hemos convenido celebrar el presente Contrato, para lo cual se someten a las cláusulas que se exponen a continuación:
 
 POR CUANTO; el Comprador ha llamado a licitación para la IMPRESION Y DISTRIBUCION DE TEXTOS, bajo la Licitación Pública Internacional No. AEPAS-H-4449- LPI-004-2021 y ha aceptado la oferta del Proveedor para el suministro de dichos Servicios por la suma de SEISCIENTOS TREINTA Y CINCO MIL OCHOCIENTOS SETENTA Y UN DÓLARES CON 10/100 (USD. 635,871.10), (en adelante denominado “Precio del Contrato”).
 
@@ -7571,13 +7553,13 @@ El proveedor será responsable de realizar las inspecciones y pruebas continuas 
 
 El comprador o su representante tendrán derecho a inspeccionar y hacer pruebas de los bienes para confirmar su cumplimiento con las Especificaciones Técnicas, sin ningún costo adicional y para efectos de recepción de los bienes a satisfacción.
 
-Las inspecciones y pruebas se podrán realizarán en: las instalaciones del Proveedor en cualquier etapa del proceso de producción, o en el lugar de destino final de los Bienes, según se especifica en el Anexo No.1 de este Pliego de Condiciones.
+Las inspecciones y pruebas se podrán realizarán en: las instalaciones del Proveedor en cualquier etapa del proceso de producción, o en el lugar de destino final de los Bienes, según se especifica en el Anexo No. 1 de este Pliego de Condiciones.
 
 Los bienes inspeccionados o probados que fallen en la confirmación de las especificaciones técnicas serán rechazados por el comprador y el proveedor los reemplazará por bienes nuevos que se ajusten a las especificaciones técnicas requeridas, sin que esto implique costo adicional para el comprador.
 
 CGC 25.2
 
-Las inspecciones y pruebas se podrán realizar en: Las instalaciones del proveedor o los lugares de destino final de los bienes, según el detalle establecido en el Anexo No.1 a este pliego de condiciones.
+Las inspecciones y pruebas se podrán realizar en: Las instalaciones del proveedor o los lugares de destino final de los bienes, según el detalle establecido en el Anexo No. 1 a este pliego de condiciones.
 
 CGC 26.1
 
@@ -7591,21 +7573,19 @@ CGC 27.3
 
 El período de validez de la Garantía será de 365 días a partir de la fecha en que los bienes o cualquier parte de ellos hayan sido entregados y aceptados en el punto final de destino indicado en el Contrato y corresponderá a un 5% del monto total del contrato.
 
-Para fines de la Garantía, los lugares de destinos finales serán: Los establecidos en el Anexo No.1 de este Documento de licitación.
+Para fines de la Garantía, los lugares de destinos finales serán: Los establecidos en el Anexo No. 1 de este Documento de licitación.
 
 CGC 27.5
 
 El plazo para reparar o reemplazar los bienes será: treinta (30) días a partir de la notificación del ente contratante.
 
-Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO MODIFICACION No.1 Contrato de Servicios No. AEPAS-4449-0262-2021 “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” Consorcio: QUALITY GROUP GT-H “Impresión y Distribución de Textos” Fecha de Firma del 17 de noviembre de 2021 De acuerdo a lo establecido en la CLÁUSULA 34 PRORROGA DE PLAZOS: la presente MODIFICACION No.1, se emite para reflejar la ampliación de plazo sin incremento de monto al Contrato No. AEPAS-4449-0262-2021 para la “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” suscrito entre Consorcio QUALITY GROUP GT-H y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
+Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO MODIFICACION No. 1 Contrato de Servicios No. AEPAS-4449-0262-2021 “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” Consorcio: QUALITY GROUP GT-H “Impresión y Distribución de Textos” Fecha de Firma del 17 de noviembre de 2021 De acuerdo a lo establecido en la CLÁUSULA 34 PRORROGA DE PLAZOS: la presente MODIFICACION No. 1, se emite para reflejar la ampliación de plazo sin incremento de monto al Contrato No. AEPAS-4449-0262-2021 para la “IMPRESIÓN Y DISTRIBUCION DE TEXTOS” suscrito entre Consorcio QUALITY GROUP GT-H y la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS AMBIENTALES Y SOCIALES (AEPAS-H), modificación que se regirá por lo siguiente:
 
 CONSIDERANDO QUE:
 
 1. Con fecha 17 de noviembre de 2021, se suscribió el Contrato de Suministro de Bienes No. AEPAS-4449-0262-2021 con el Consorcio QUALITY GROP GT a financiarse con fondos del Préstamo 4449/BL-HO, con un plazo de ejecución que fue consignado por 90 días contados a partir de la firma del contrato y un monto total de contrato de SEISCIENTOS TREINTA Y CINCO MIL OCHOCIENTOS SETENTA Y UN DÓLARES CON 10/100 (USD. 635,871.10).
 
-2.La Ampliación de Plazo de Contrato de Suministro de Bienes No.
-
-AEPAS-4449-0262-2021, sin incremento de monto, se justifica por causa del tiempo que se necesitó para realizar algunos ajustes en el diseño de las artes finales que fueron trabajados en forma conjunta entre el Proveedor y el Equipo Técnico de la Dirección General de Innovación y Tecnología Educativa (DGITE) de la Secretaría de Educación, además de los retrasos en la definición de la gira de inspección y pruebas en la planta del Proveedor por la transición de autoridad en DGITE/SEDUC, acordándose con las nuevas autoridades de la SEDUC la ruta de ejecución de dicho contrato, la gira de la Comisión Técnica de la Secretaría de Educación para la prueba en planta para la aprobación con firma y sello de las muestras finales por parte de la SEDUC, garantizando así una impresión conforme a los lineamientos de calidad, tomando en cuenta lo anterior, se determina que la suma de tiempos entre la gira de inspección y prueba, la reproducción y entrega de los textos, la aceptación del producto y el pago correspondiente; se requiere ampliar el plazo sin incremento de monto para la impresión y distribución de los bienes al 08 de agosto de 2022.
+2.La Ampliación de Plazo de Contrato de Suministro de Bienes No. AEPAS-4449-0262-2021, sin incremento de monto, se justifica por causa del tiempo que se necesitó para realizar algunos ajustes en el diseño de las artes finales que fueron trabajados en forma conjunta entre el Proveedor y el Equipo Técnico de la Dirección General de Innovación y Tecnología Educativa (DGITE) de la Secretaría de Educación, además de los retrasos en la definición de la gira de inspección y pruebas en la planta del Proveedor por la transición de autoridad en DGITE/SEDUC, acordándose con las nuevas autoridades de la SEDUC la ruta de ejecución de dicho contrato, la gira de la Comisión Técnica de la Secretaría de Educación para la prueba en planta para la aprobación con firma y sello de las muestras finales por parte de la SEDUC, garantizando así una impresión conforme a los lineamientos de calidad, tomando en cuenta lo anterior, se determina que la suma de tiempos entre la gira de inspección y prueba, la reproducción y entrega de los textos, la aceptación del producto y el pago correspondiente; se requiere ampliar el plazo sin incremento de monto para la impresión y distribución de los bienes al 08 de agosto de 2022.
 
 3.Que en fecha 26 de abril de 2022 se recibió el CID/CHO/309/2022 otorgando la no objeción a la ampliación de plazo de contrato al 08 de agosto de 2022, sin incremento en el monto del contrato de servicios.
 
@@ -7657,7 +7637,7 @@ Español para 9no.
 
 Grado.
 
-3,171 Unidad 90 días después de la fecha de efectividad del Contrato Unidad 90 días 48,555 después de la fecha de efectividad del Contrato Unidad 90 días 42,720 después de la fecha de efectividad del Contrato 90 días después de la fecha de efectividad del Contrato 3,394 Unidad 90 días después de la fecha de De acuerdo a efectividad del Protocolo de Contrato Distribución 3,171 Unidad 90 días adjunto después de la fecha de efectividad del Contrato Unidad 90 días 48,555 después de la fecha de efectividad del Contrato Unidad 90 días 42,720 después de la fecha de efectividad del Contrato Efectivo a partir de la Modificación No.1 el Cuadro 1. La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
+3,171 Unidad 90 días después de la fecha de efectividad del Contrato Unidad 90 días 48,555 después de la fecha de efectividad del Contrato Unidad 90 días 42,720 después de la fecha de efectividad del Contrato 90 días después de la fecha de efectividad del Contrato 3,394 Unidad 90 días después de la fecha de De acuerdo a efectividad del Protocolo de Contrato Distribución 3,171 Unidad 90 días adjunto después de la fecha de efectividad del Contrato Unidad 90 días 48,555 después de la fecha de efectividad del Contrato Unidad 90 días 42,720 después de la fecha de efectividad del Contrato Efectivo a partir de la Modificación No. 1 el Cuadro 1. La Lista de Bienes y Plan de Entregas deberá leerse de la siguiente manera:
 
 Cuadro 1. La Lista de Bienes y Plan de Entregas N° de Artículo Descripción Cantidad Unidad de los Bienes física Libros de Texto Ciencias Naturales 1 Cuaderno Unidad 48,555 de Trabajo.
 
@@ -7807,9 +7787,7 @@ ________________FYS_______________________________ CARLOS ROBERTO ESPINAL ORDOÑ
 
 #### Artículo 11
 
-ARTÍCULO 11.- Aprobar en todas y cada una de sus partes el CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL No.
-
-AEPAS-4449-0128-2021, suscrito en fecha 25 de Mayo del año 2021, entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y la Consultora LINA MARÍA MENDOZA RECARTE, que literalmente dice:
+ARTÍCULO 11.- Aprobar en todas y cada una de sus partes el CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL No. AEPAS-4449-0128-2021, suscrito en fecha 25 de Mayo del año 2021, entre la AGENCIA ESTRATÉGICA DE PROYECTOS PRODUCTIVOS, AMBIENTALES Y SOCIALES DE HONDURAS (AEPAS–H) y la Consultora LINA MARÍA MENDOZA RECARTE, que literalmente dice:
 
 Programa Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo: Proyecto Joven PRÉSTAMO 4449/BL-HO CONTRATO DE SERVICIOS DE CONSULTORIA INDIVIDUAL No. AEPAS-4449-0128-2021 “Desarrollo de Estrategias e Instrumentos Innovadores para la Medición de Avances en el Desarrollo de las Habilidades Superiores de Pensamiento, las Habilidades Personales e Interpersonales y el Clima Escolar” ESTE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado el “Contrato”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), que en adelante se denominará el Contratante, representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con Tarjeta de Identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”, por una parte y por otra parte, LINA MARÍA MENDOZA RECARTE, mayor de edad, Máster en Psicopedagogía, con residencia en Residencial El Sauce, Villa Los Cipreses, Bloque 68, Casa No. 13, Tegucigalpa, Honduras con Tarjeta de Identidad No. 0510-1960-00379, quien en adelante se denominará el CONSULTOR, el que se sujeta a las cláusulas siguientes:
 
@@ -7961,7 +7939,7 @@ Antecedentes:
 
 La Ley para el Establecimiento de una Visión de País (2010-2038) y la Adopción de un Plan de Nación (2010-2022) establece los siguientes objetivos relacionados al sector educación: Objetivo 1 “Una Honduras sin pobreza extrema, educada y sana con sectores consolidados de previsión social” y Objetivo 4 “Honduras con un Estado moderno, transparente, responsable, eficiente y competitivo.” 30 El sector educativo ha experimentado grandes avances, en lo referente al fortalecimiento y la actualización de su marco regulatorio, aprobándose una serie de leyes que velan por el desarrollo, fortalecimiento y mejora de la calidad 30 Ley de Nación Visión de País educativa, entre ellas se puede mencionar: la Ley de Fortalecimiento de la Educación Pública y la Participación Comunitaria (2011), la Ley Fundamental de Educación (2012), la Ley del Instituto Hondureño de Infraestructura Física Educativa (2013), la Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación (2014), los 22 Reglamentos de la Ley Fundamental de Educación (2014), y otras leyes vigentes, mediante las cuales se busca fortalecer el Sistema Nacional de Educación y garantizar el derecho humano a una educación integral de calidad en condiciones de equidad para la población Hondureña.
 
-La Ley Fundamental de Educación, define la composición del Sistema Nacional de Educación con tres componentes: formal–estructurada en los niveles de educación pre-básica, básica, media y superior, que se imparte en los centros gubernamentales y no gubernamentales creados para tales fines; no formal – que se orienta a atender necesidades educativas específicas o diferentes a las que atiende la educación formal, desarrollada tanto por instituciones públicas como por instituciones y organizaciones no gubernamentales; e informal – que es todo conocimiento libre y espontáneamente adquirido.31 El diagnóstico sobre el sector educación, realizado como parte del Plan Estratégico del Sector Educación 2018 2030, confirma una limitada oferta educativa, con un promedio general de 56% de la población en edad escolar sin atención desglosada así: Pre básica 68%, básica en sus dos primeros ciclos un 6%, el tercer ciclo un 84% y media un 67%; carencia de competencias para desarrollar habilidades blandas en los estudiantes; limitado acceso a la tecnología; niños de 6 a 15 años sin completar sus itinerarios escolares y si lo hacen existe alto índice de sobre edad y (reprobación) repitencia; a la vez el país carece de un plan de Oferta Educativa para el Tercer Ciclo.32 31 Ley Fundamental de Educación 32 Plan del Sector Educación 2018-2030 En este contexto, el Plan de Gobierno (2018-2022) se propone, a través de siete ejes prioritarios entre ellos el de Educación y Salud; la transformación del modelo productivo para generar los empleos suficientes y reducir de manera acelerada la pobreza; asegurar el acceso igualitario a las oportunidades; proporcionar redes de seguridad social adecuadas; y construir alianzas en favor de una educación innovadora y útil para la vida y el trabajo.33 El Gobierno de Honduras (GdeH), mediante Decreto dictado por el señor Presidente de la República en Consejo de Ministros, con el número PCM-004- 2020, de fecha 29 de enero del 2020, publicado en el Diario Oficial La Gaceta, en fecha 6 de febrero del 2020, creó la Agencia Estratégica para la Ejecución de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), como un ente desconcentrado de la Presidencia de la República, adscrito a la Secretaría de Coordinación General de Gobierno.
+La Ley Fundamental de Educación, define la composición del Sistema Nacional de Educación con tres componentes: formal–estructurada en los niveles de educación pre-básica, básica, media y superior, que se imparte en los centros gubernamentales y no gubernamentales creados para tales fines; no formal – que se orienta a atender necesidades educativas específicas o diferentes a las que atiende la educación formal, desarrollada tanto por instituciones públicas como por instituciones y organizaciones no gubernamentales; e informal – que es todo conocimiento libre y espontáneamente adquirido.31 El diagnóstico sobre el sector educación, realizado como parte del Plan Estratégico del Sector Educación 2018 2030, confirma una limitada oferta educativa, con un promedio general de 56% de la población en edad escolar sin atención desglosada así: Pre básica 68%, básica en sus dos primeros ciclos un 6%, el tercer ciclo un 84% y media un 67%; carencia de competencias para desarrollar habilidades blandas en los estudiantes; limitado acceso a la tecnología; niños de 6 a 15 años sin completar sus itinerarios escolares y si lo hacen existe alto índice de sobre edad y (reprobación) repitencia; a la vez el país carece de un plan de Oferta Educativa para el Tercer Ciclo.32 31 Ley Fundamental de Educación 32 Plan del Sector Educación 2018-2030 En este contexto, el Plan de Gobierno (2018-2022) se propone, a través de siete ejes prioritarios entre ellos el de Educación y Salud; la transformación del modelo productivo para generar los empleos suficientes y reducir de manera acelerada la pobreza; asegurar el acceso igualitario a las oportunidades; proporcionar redes de seguridad social adecuadas; y construir alianzas en favor de una educación innovadora y útil para la vida y el trabajo.33 El Gobierno de Honduras (GdeH), mediante Decreto dictado por el señor Presidente de la República en Consejo de Ministros, con el número PCM-004-2020, de fecha 29 de enero del 2020, publicado en el Diario Oficial La Gaceta, en fecha 6 de febrero del 2020, creó la Agencia Estratégica para la Ejecución de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), como un ente desconcentrado de la Presidencia de la República, adscrito a la Secretaría de Coordinación General de Gobierno.
 
 La AEPAS-H cuenta con autonomía técnica, financiera y administrativa, como un organismo ejecutor, y se encarga de la planificación, pre-inversión, inversión y administración aplicables en el desarrollo de programas y proyectos productivos, ambientales y sociales que le sean asignados, como resultado de convenios internacionales, convenios interinstitucionales o designación directa de los órganos de decisión en materia productiva, ambiental y social.
 
@@ -8129,7 +8107,7 @@ Quinto pago Informe final de consultoría.
 
 (5) No tengo una relación de trabajo o de familia con algún miembro del personal de la entidad contratante ni del personal del Prestatario, del Organismo Ejecutor del Proyecto o del Beneficiario de una Cooperación Técnica que esté directa o indirectamente involucrado de cualquier manera con: (i) la preparación de los Términos de Referencia (TR) de este contrato; (ii) el proceso de selección de dicho contrato; o (iii) la supervisión de dicho contrato.
 
-(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato ; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de N/A;
+(6) Si fuera funcionario del gobierno o servidor público declaro que: (i) estoy con licencia sin goce de sueldo durante el plazo de ejecución de este contrato; (ii) no he trabajado en la entidad contratante, en el Prestatario, Organismo Ejecutor o Beneficiario de una Cooperación Técnica durante el periodo de N/A;
 
 (indicar expresamente el plazo) inmediatamente anterior al periodo en que comenzó la licencia; y (iii) mi contratación no genera un conflicto de intereses de acuerdo con el párrafo 1.9 de las Políticas para la Selección y Contratación de Consultores financiados por el BID.
 
@@ -8159,7 +8137,7 @@ Las partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Tran
 
 ARTICULO 12.- Aprobar en todas y cada una de sus partes el Contrato de Consultoría Individual No. SS/4619 BL-HO/CI/027-2020, suscrito en fecha 18 de Mayo del año 2020, entre la SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, A TRAVÉS DE LA UNIDAD EJECUTORA DE PROYECTOS GESALUD y la Consultora DIANA ELIZABETH VARGAS CASTILLO, que literalmente dice:
 
-Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Nacional (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado el “Contrato”) se celebra entre la Secretaría de Estado en el Despacho de Salud, que en adelante se denominará el CONTRATANTE, representado por JOSE EDGARDO CRUZ NOLASCO, casado, Licenciado en Gerencia y Desarrollo Social, Magister en Liderazgo Organización, con domicilio en Lomas del Guijarro Sur, calle Viena, Edificio Plaza Azul, local 301, Tegucigalpa, municipio del Distrito Central, Honduras, Centroamérica, con Tarjeta de Identidad No. 1313-1976- 00165, actuando en mi condición de Coordinador General de la Unidad Ejecutora de Proyectos GESALUD, dependiente de la Secretaría de Estado en el Despacho de Salud, nombrado mediante Acuerdo No. 3036 de fecha 13 de septiembre de 2019, por una parte; y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con Tarjeta de Identidad No. 0801-1974-07160, quien en adelante se denominará el CONSULTOR, el que se sujeta a las cláusulas siguientes:
+Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Nacional (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado el “Contrato”) se celebra entre la Secretaría de Estado en el Despacho de Salud, que en adelante se denominará el CONTRATANTE, representado por JOSE EDGARDO CRUZ NOLASCO, casado, Licenciado en Gerencia y Desarrollo Social, Magister en Liderazgo Organización, con domicilio en Lomas del Guijarro Sur, calle Viena, Edificio Plaza Azul, local 301, Tegucigalpa, municipio del Distrito Central, Honduras, Centroamérica, con Tarjeta de Identidad No. 1313-1976-00165, actuando en mi condición de Coordinador General de la Unidad Ejecutora de Proyectos GESALUD, dependiente de la Secretaría de Estado en el Despacho de Salud, nombrado mediante Acuerdo No. 3036 de fecha 13 de septiembre de 2019, por una parte; y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con Tarjeta de Identidad No. 0801-1974-07160, quien en adelante se denominará el CONSULTOR, el que se sujeta a las cláusulas siguientes:
 
 1. DEFINICIONES. Los siguientes términos serán interpretados como se indica a continuación:
 
@@ -8287,11 +8265,11 @@ Programa de Mejora de la Gestión y Calidad de los Servicios de la Salud Materno
 
 CONTRATANTE:
 
-José Edgardo Cruz Nolasco D i r e c c i ó n : U n i d a d Administradora de Fondos de Cooperación Externa (UAFCE), Lomas del Guijarro Sur, Calle Viena, Edificio Plaza Azul, local 101, Tegucigalpa, Honduras.
+José Edgardo Cruz Nolasco Dirección: Unidad Administradora de Fondos de Cooperación Externa (UAFCE), Lomas del Guijarro Sur, Calle Viena, Edificio Plaza Azul, local 101, Tegucigalpa, Honduras.
 
 Tel: +504 2239-6107, 6099 y 5442 Correo electrónico: jecruz.gesalud@gmail.com CONSULTOR:
 
-D i a n a E l i z a b e t h Vargas Castillo Dirección: Colonia San Roberto de Sula, Bloque 14, casa 40 Tel: 2554-3723, Cel: 9967- 7068 Correo electrónico: diana_vargas16@yahoo.com
+Diana Elizabeth Vargas Castillo Dirección: Colonia San Roberto de Sula, Bloque 14, casa 40 Tel: 2554-3723, Cel: 9967-7068 Correo electrónico: diana_vargas16@yahoo.com
 
 21. ACEPTACIÓN. Las partes aceptan el contenido de todas y cada una de las Cláusulas del presente Contrato y en consecuencia se comprometen a cumplirlas en toda su extensión, en fe de lo cual y para los fines legales correspondientes, lo firman en dos ejemplares del mismo tenor y efecto, en la ciudad de Tegucigalpa, a los 18 días del mes de mayo de 2020.
 
@@ -8493,9 +8471,9 @@ CERTIFICACIÓN DE ELEGIBILIDAD Y DE INTEGRIDAD (APLICABLE PARA LA CONTRATACIÓN 
 
 Programa de Mejora de la Gestión y Calidad de los Servicios de la Salud Materno Neonatal Préstamo 4619BL-HO.
 
-Q U E D A E N T E N D I D O Q U E C U A L Q U I E R INFORMACIÓN FALSA O EQUÍVOCA QUE YO HAYA PROVEÍDO EN RELACIÓN CON ESTOS R E Q U E R I M I E N TO S D E E L E G I B I L I D A D Y DE INTEGRIDAD QUE CONSTAN DE ESTA CERTIFICACIÓN Y DE LAS POLÍTICAS DEL BANCO, TORNARÁ NULO Y SIN EFECTO ESTE CONTRATO Y NO TENDRÉ DERECHO A REMUNERACIÓN O INDEMNIZACIÓN ALGUNA, SIN PERJUICIO DE LAS ACCIONES O SANCIONES QUE EL BANCO PUDIERA ADOPTAR DE ACUERDO CON SUS NORMAS Y POLÍTICAS.
+QUEDA ENTENDIDO QUE CUALQUIER INFORMACIÓN FALSA O EQUÍVOCA QUE YO HAYA PROVEÍDO EN RELACIÓN CON ESTOS REQUERI MI EN TO S D E E L E G I B I L I D A D Y DE INTEGRIDAD QUE CONSTAN DE ESTA CERTIFICACIÓN Y DE LAS POLÍTICAS DEL BANCO, TORNARÁ NULO Y SIN EFECTO ESTE CONTRATO Y NO TENDRÉ DERECHO A REMUNERACIÓN O INDEMNIZACIÓN ALGUNA, SIN PERJUICIO DE LAS ACCIONES O SANCIONES QUE EL BANCO PUDIERA ADOPTAR DE ACUERDO CON SUS NORMAS Y POLÍTICAS.
 
-Nombre del Consultor: Diana Elizabeth Vargas Castillo Firma:_________________________ Fecha: 18 de mayo de 2020 Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 1 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTA ENMIENDA No.1 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, Hondureña, soltera, con tarjeta de identidad 0801- 1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No.34- 2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
+Nombre del Consultor: Diana Elizabeth Vargas Castillo Firma:_________________________ Fecha: 18 de mayo de 2020 Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 1 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTA ENMIENDA No. 1 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, Hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
 
 ANTECEDENTES: Que en fecha 18 mayo de 2020, se suscribió el Contrato de Servicios de Consultoría No. SS/4619 BL-HO/CI/027-2020 “Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250, entre la Secretaría de Estado en el Despacho de Salud y la consultora DIANA ELIZABETH VARGAS CASTILLO por una suma total de CINCUENTA Y CUATRO MIL DOLARES AMERICANOS EXACTOS (USD54,000.00), con vigencia del 18 de mayo de 2020 hasta el 18 de mayo de 2021.
 
@@ -8505,9 +8483,7 @@ Que en atención a lo solicitado por la Gerencia de Programas de AEPAS-H mediant
 
 POR LO ANTERIOR:
 
-Ambas partes convienen en suscribir la presente Enmienda No.
-
-1 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
+Ambas partes convienen en suscribir la presente Enmienda No. 1 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
 
 PRIMERO: Modificar los datos generales del Contratante en el contrato suscrito, que actualmente se lee de la siguiente manera:
 
@@ -8515,7 +8491,7 @@ JOSE EDGARDO CRUZ NOLASCO, casado, Licenciado en Gerencia y Desarrollo Social, M
 
 Y deberá leerse de la siguiente manera:
 
-ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No.34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”.
+ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”.
 
 SEGUNDO: Incluir en la Clausula 2. FUENTE DE FINANCIAMIENTO del contrato suscrito, la estructura presupuestaria, y deberá leerse de la siguiente manera:
 
@@ -8591,7 +8567,7 @@ ________________________________
 
 ZOILA PATRICIA CRUZ CERRATO
 
-Directora Ejecutiva Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras POR EL CONSULTOR FYS _____________________________ Diana Elizabeth Vargas Castillo Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 2 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTA ENMIENDA No.1 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, Hondureña, soltera, con tarjeta de identidad 0801- 1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No.34- 2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
+Directora Ejecutiva Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras POR EL CONSULTOR FYS _____________________________ Diana Elizabeth Vargas Castillo Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 2 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 Contrato No. SS/4619 BL-HO/CI/027-2020 ESTA ENMIENDA No. 1 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ZOILA PATRICIA CRUZ CERRATO, mayor de edad, Ingeniero Agrónomo, Hondureña, soltera, con tarjeta de identidad 0801-1967-01886 en condición de Directora Ejecutiva de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, nombrada mediante Acuerdo Ejecutivo No. No. 34-2020, de fecha 9 de marzo de 2020, emitido por el Presidente Constitucional de la República de Honduras, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
 
 ANTECEDENTES: Que en fecha 18 mayo de 2020, se suscribió el Contrato de Servicios de Consultoría No. SS/4619 BL-HO/CI/027-2020 “Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250, entre la Secretaría de Estado en el Despacho de Salud y la consultora DIANA ELIZABETH VARGAS CASTILLO por una suma total de CINCUENTA Y CUATRO MIL DOLARES AMERICANOS EXACTOS (USD54,000.00), con vigencia del 18 de mayo de 2020 hasta el 18 de mayo de 2021.
 
@@ -8601,9 +8577,7 @@ Que en debido a la emergencia sanitara declarada por la pandemia COVID-19 y suma
 
 POR LO ANTERIOR:
 
-Ambas partes convienen en suscribir la presente Enmienda No.
-
-2 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
+Ambas partes convienen en suscribir la presente Enmienda No. 2 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
 
 PRIMERO: Modificar la Cláusula 4. Plazo del contrato suscrito, que actualmente se lee de la siguiente manera:
 
@@ -8623,7 +8597,7 @@ La consultoría tendrá una duración desde el 18 de Mayo de 2020 al 31 de Dicie
 
 TERCERO: Se establece que todos los otros términos y condiciones del contrato original se mantendrán íntegramente como fueron suscritos.
 
-En fe de lo cual firmamos la presente ENMIENDA No.2, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 29 días del mes de junio del año 2021.
+En fe de lo cual firmamos la presente ENMIENDA No. 2, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 29 días del mes de junio del año 2021.
 
 POR EL CONTRATANTE, FYS
 
@@ -8631,7 +8605,7 @@ ________________________________
 
 ZOILA PATRICIA CRUZ CERRATO
 
-Directora Ejecutiva Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras POR EL CONSULTOR FYS ________________________________ Diana Elizabeth Vargas Castillo Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 3 Contrato No. SS/4619 BL-HO/CI/027-2020 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 ESTA ENMIENDA No.3 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, hondureño, casado, Licenciado en Economía, con tarjeta de identidad 0801-1963-03379, en condición de Sub Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, con firma delegada, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
+Directora Ejecutiva Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras POR EL CONSULTOR FYS ________________________________ Diana Elizabeth Vargas Castillo Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal Préstamo 4619 BL-HO ENMIENDA No. 3 Contrato No. SS/4619 BL-HO/CI/027-2020 Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 ESTA ENMIENDA No. 3 DE CONTRATO DE SERVICIO DE CONSULTORIA INDIVIDUAL (en adelante denominado la “Enmienda”) se celebra entre la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), representado por ORLANDO ENRIQUE GARNER ORDOÑEZ, mayor de edad, hondureño, casado, Licenciado en Economía, con tarjeta de identidad 0801-1963-03379, en condición de Sub Director Ejecutivo de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H), creada mediante Decreto Ejecutivo PCM-004-2020, emitido por el Presidente Constitucional de la República de Honduras reunido en Consejo de Secretarios de Estado, con firma delegada, en adelante “EL CONTRATANTE”, por una parte y por otra parte, DIANA ELIZABETH VARGAS CASTILLO, con domicilio en Colonia San Roberto de Sula, Bloque 14, casa 40, con tarjeta de identidad No. 0801-1974-07160, quien en adelante se denominará el “CONSULTOR”.
 
 ANTECEDENTES: Que en fecha 18 mayo de 2020, se suscribió el Contrato de Servicios de Consultoría No. SS/4619 BL-HO/CI/027-2020 “Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250, entre la Secretaría de Estado en el Despacho de Salud y la consultora DIANA ELIZABETH VARGAS CASTILLO por una suma total de CINCUENTA Y CUATRO MIL DOLARES AMERICANOS EXACTOS (USD54,000.00), con vigencia del 18 de mayo de 2020 hasta el 18 de mayo de 2021.
 
@@ -8641,9 +8615,7 @@ Que debido a la emergencia sanitaria por la pandemia COVID-19 y los desastres ca
 
 POR LO ANTERIOR:
 
-Ambas partes convienen en suscribir la presente Enmienda No.
-
-3 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
+Ambas partes convienen en suscribir la presente Enmienda No. 3 al Contrato No. SS/4619 BL-HO/CI/027-2020, Consultoría Individual Nacional Asistencia Técnica en el Tema Ambiental del Programa de Mejora de la Gestión y Calidad de los Servicios de Salud Materno Neonatal (Préstamo 4619/ BLHO) y el Tramo de Inversión de la Iniciativa Regional de Eliminación de la Malaria (IREM) HO-G1250 de la siguiente manera:
 
 PRIMERO: Modificar la Cláusula 4. Plazo del contrato suscrito y su Enmienda No. 2, que actualmente se lee de la siguiente manera:
 
@@ -8663,7 +8635,7 @@ La consultoría tendrá una duración desde el 18 de mayo de 2020 al 31 de dicie
 
 TERCERO: Se establece que todos los otros términos y condiciones del contrato original y sus Enmiendas se mantendrán íntegramente como fueron suscritos.
 
-En fe de lo cual firmamos la presente ENMIENDA No.3, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 09 días del mes de diciembre del año 2021.
+En fe de lo cual firmamos la presente ENMIENDA No. 3, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 09 días del mes de diciembre del año 2021.
 
 POR EL CONTRATANTE, FYS
 

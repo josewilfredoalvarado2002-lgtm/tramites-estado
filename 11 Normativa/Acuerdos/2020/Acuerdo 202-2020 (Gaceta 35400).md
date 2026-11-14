@@ -8,10 +8,10 @@ gaceta_numero: 35400
 gaceta_fecha: "2020-10-15"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)|La Gaceta 35400]]"
 paginas: "A. 4 - 9"
-sumario: "Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
+sumario: "Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201015-35400/download"
 extraido: "2026-11-14"
-huella: "192b81b499f4458c"
+huella: "f5379fdaa10ebe7e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 202-2020
@@ -23,17 +23,17 @@ huella: "192b81b499f4458c"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)\|La Gaceta 35400]] del 2020-10-15 |
 | Páginas | A. 4 - 9 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
 
 ## Texto
 
 LA SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No.251-2013 del 7 de junio de 2014 establece que la Secretaría de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado de Libre Comercio entre la República de Honduras y Canadá el cual entró en vigor el 1 de octubre de 2014.
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 251-2013 del 7 de junio de 2014 establece que la Secretaría de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado de Libre Comercio entre la República de Honduras y Canadá el cual entró en vigor el 1 de octubre de 2014.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No.357-2014 del 29 de septiembre de 2014, estableció el 01 de octubre del año 2014, como la fecha de entrada en vigor del Tratado de Libre Comercio entre Canadá y la República de Honduras, a la vez que adoptó regulaciones para su administración.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 357-2014 del 29 de septiembre de 2014, estableció el 01 de octubre del año 2014, como la fecha de entrada en vigor del Tratado de Libre Comercio entre Canadá y la República de Honduras, a la vez que adoptó regulaciones para su administración.
 
-CONSIDERANDO: Que la Sección I, del Anexo I, del Acuerdo Ministerial No.357-2014 del 29 de septiembre de 2014, estableció el 01 de octubre del año 2014, contiene las disposiciones para la administración de los contingentes arancelarios de importación contenidos en el Anexo 3.4.2 Contingentes Arancelarios “Lista de Honduras” del Tratado de Libre Comercio entre la República de Honduras y Canadá.
+CONSIDERANDO: Que la Sección I, del Anexo I, del Acuerdo Ministerial No. 357-2014 del 29 de septiembre de 2014, estableció el 01 de octubre del año 2014, contiene las disposiciones para la administración de los contingentes arancelarios de importación contenidos en el Anexo 3.4.2 Contingentes Arancelarios “Lista de Honduras” del Tratado de Libre Comercio entre la República de Honduras y Canadá.
 
 CONSIDERANDO: Que en relación al volumen de los contingentes arancelarios de importación es objetivo fundamental de la Secretaría de Desarrollo Económico el aprovechamiento total del contingente, por lo que los requisitos de cumplimiento para obtención del certificado deben ser simples.
 
@@ -49,7 +49,7 @@ Decretos Ejecutivos PCM-018-2014, Artículo 3 del Decreto Ejecutivo PCM-052-2013
 
 ACUERDA:
 
-PRIMERO: Modificar el Anexo I del Acuerdo Ministerial No.357-2014 del 29 de septiembre de 2014, con el objeto de simplificar los requisitos, procedimientos para la presentación de solicitudes por parte de los agentes económicos interesados en participar en las importaciones de los productos bajo los contingentes de importación acordados en el Tratado.
+PRIMERO: Modificar el Anexo I del Acuerdo Ministerial No. 357-2014 del 29 de septiembre de 2014, con el objeto de simplificar los requisitos, procedimientos para la presentación de solicitudes por parte de los agentes económicos interesados en participar en las importaciones de los productos bajo los contingentes de importación acordados en el Tratado.
 
 SEGUNDO: El Anexo I modificado, forma parte integral del presente Acuerdo Ministerial.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 005-DGAJTC-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230304-36171/download"
 extraido: "2026-11-14"
-huella: "5c2ef4cbfddc2320"
+huella: "8b5c7a7210f6b95a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-DGAJTC-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 21 dice: “El Poder Ejecutivo puede, sobre mater
 
 POR TANTO:
 
-En aplicación del Artículo 21, 245 numeral 12 y 255 de la Constitución de la República, 29, 116 y 122 de la Ley General de la Administración Pública, 50, No.7 y 8 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Artículo 5 del Código Civil:
+En aplicación del Artículo 21, 245 numeral 12 y 255 de la Constitución de la República, 29, 116 y 122 de la Ley General de la Administración Pública, 50, No. 7 y 8 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Artículo 5 del Código Civil:
 
 ACUERDA:
 

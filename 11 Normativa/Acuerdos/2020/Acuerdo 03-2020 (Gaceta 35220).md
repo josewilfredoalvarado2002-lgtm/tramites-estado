@@ -11,7 +11,7 @@ paginas: "A. 8 - 24"
 sumario: "Acuerdo No. 03/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200407-35220/download"
 extraido: "2026-11-14"
-huella: "50aa5d0f8ffdeb7f"
+huella: "1cdcd94cb8e8a59e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 03/2020.- Sesión No.3827 del 6 de abril
@@ -31,19 +31,19 @@ de 2020.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que la Constitución de la República y la Ley del Banco Central de Honduras establece que le corresponde al Banco Central de Honduras (BCH) formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país y organizar y reglamentar el funcionamiento del sistema de pagos de conformidad con las disposiciones legales vigentes.
 
-CONSIDERANDO: Que el Directorio del BCH, mediante el Acuerdo No.07/2019, reformó el Reglamento de Negociación de Valores Gubernamentales.
+CONSIDERANDO: Que el Directorio del BCH, mediante el Acuerdo No. 07/2019, reformó el Reglamento de Negociación de Valores Gubernamentales.
 
-CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), en Sesión No.173/31-3-2020 celebrada los días martes 31 de marzo y miércoles 1 de abril de 2020, en atención al Estado de Emergencia Sanitaria decretada por el Poder Ejecutivo a nivel nacional por la Pandemia del Coronavirus (COVID-19) evaluó los mecanismos de inyección con los que dispone el BCH para proporcionar la liquidez requerida por la economía nacional en este momento de crisis y que es necesario adecuarlos según los valores que actualmente emite en el mercado de valores el BCH, por lo que recomendó a este Directorio modificar los criterios necesarios respecto a la presentación de las ofertas de venta cuando el Banco Central de Honduras efectúe operaciones en lo relativo a las subastas de compra de valores gubernamentales.
+CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), en Sesión No. 173/31-3-2020 celebrada los días martes 31 de marzo y miércoles 1 de abril de 2020, en atención al Estado de Emergencia Sanitaria decretada por el Poder Ejecutivo a nivel nacional por la Pandemia del Coronavirus (COVID-19) evaluó los mecanismos de inyección con los que dispone el BCH para proporcionar la liquidez requerida por la economía nacional en este momento de crisis y que es necesario adecuarlos según los valores que actualmente emite en el mercado de valores el BCH, por lo que recomendó a este Directorio modificar los criterios necesarios respecto a la presentación de las ofertas de venta cuando el Banco Central de Honduras efectúe operaciones en lo relativo a las subastas de compra de valores gubernamentales.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 2, 6, 16, incisos a), f) y m), 23, 43 y 54 de la Ley del Banco Central de Honduras; 43 de la Ley del Sistema Financiero y 32 de la Ley de Procedimiento Administrativo,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar el inciso a) del Artículo 36 del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No.07/2019 emitido por este Directorio el 15 de agosto de 2019, el cual en adelante se leerá de la manera siguiente:
+Modificar el inciso a) del Artículo 36 del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No. 07/2019 emitido por este Directorio el 15 de agosto de 2019, el cual en adelante se leerá de la manera siguiente:
 
 #### Artículo 36
 
@@ -525,7 +525,7 @@ ARTÍCULO 48. Los resultados consolidados de las subastas se publicarán en la p
 
 Dependiendo del tipo de subasta, se podrá proporcionar la información siguiente:
 
-a) Los montos subastados, los m o n t o s d e m a n d a d o s y adjudicados para cada tipo y emisor de los valores ofrecidos en subasta.
+a) Los montos subastados, los montos demandados y adjudicados para cada tipo y emisor de los valores ofrecidos en subasta.
 
 b) La tasa de rendimiento promedio ponderada de la subasta.
 

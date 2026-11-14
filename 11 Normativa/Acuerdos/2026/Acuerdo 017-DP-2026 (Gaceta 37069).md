@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Ejecutivos Nos. 012-DP-2026, 013-DP-2026, 017-DP-2026, 019-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260213-37069/download"
 extraido: "2026-11-09"
-huella: "7ab3e63392ebb32f"
+huella: "e893dea43280bed7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 017-DP-2026
@@ -47,9 +47,9 @@ CONSIDERANDO (7): Que el Artículo 71 de la Ley de Servicio Civil describe que, 
 
 CONSIDERANDO (8): Que el Reglamento de la Ley de Servicio Civil en el Artículo 6, numeral 6 describe, Autoridad Nominadora: El Presidente de la República por medio de los respectivos Secretarios de Estado y todo funcionario que tenga competencia para nombrar servidores públicos por atribución legal o por delegación de autoridad competente.
 
-CONSIDERANDO (9): Que mediante Acuerdo Ejecutivo No.001-DP-2026 de fecha 27 de enero de 2026, se nombra al Ciudadano LUIS ALONSO CASTRO CACERES en el cargo de Coordinador General de Gabinete de Gobierno y Secretario Privado del Presidente de la República, con Rango de Secretario de Estado y, adscrito a la Presidencia de la Republica.
+CONSIDERANDO (9): Que mediante Acuerdo Ejecutivo No. 001-DP-2026 de fecha 27 de enero de 2026, se nombra al Ciudadano LUIS ALONSO CASTRO CACERES en el cargo de Coordinador General de Gabinete de Gobierno y Secretario Privado del Presidente de la República, con Rango de Secretario de Estado y, adscrito a la Presidencia de la Republica.
 
-CONSIDERANDO (10): Que en el Acuerdo Ejecutivo No.001-DP-2026 de fecha 27 de enero de 2026, se le otorgan diferentes facultades al ciudadano Luis Alonso Castro Cáceres y en el numeral 1, específicamente se le faculta para Auxiliar al Presidente de la República en la dirección y coordinación de la administración pública, así como en el cumplimiento de las funciones de las Secretarías de Estado.
+CONSIDERANDO (10): Que en el Acuerdo Ejecutivo No. 001-DP-2026 de fecha 27 de enero de 2026, se le otorgan diferentes facultades al ciudadano Luis Alonso Castro Cáceres y en el numeral 1, específicamente se le faculta para Auxiliar al Presidente de la República en la dirección y coordinación de la administración pública, así como en el cumplimiento de las funciones de las Secretarías de Estado.
 
 POR TANTO
 

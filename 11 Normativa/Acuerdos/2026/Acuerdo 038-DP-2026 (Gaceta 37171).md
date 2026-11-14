@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo Número 038-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260618-37171/download"
 extraido: "2026-11-09"
-huella: "b35401d2b7599860"
+huella: "deec18e174902c34"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 038-DP-2026
@@ -43,7 +43,7 @@ Que corresponde a los Secretarios de Estado colaborar con el Presidente de la Re
 
 CONSIDERANDO (4):
 
-Que el Gobierno de la República de Honduras y el Gobierno de Canadá, a través de la Canadian Commercial Corporation (CCC), han negociado el " I N T E R N A T I O N A L C O O P E R A T I O N AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF HONDURAS AND THE GOVERNMENT OF CANADA", instrumento orientado al fortalecimiento de la cooperación bilateral para la implementación de un sistema de inspección no intrusiva de carga y otras actividades relacionadas con la facilitación y seguridad del comercio internacional.
+Que el Gobierno de la República de Honduras y el Gobierno de Canadá, a través de la Canadian Commercial Corporation (CCC), han negociado el " INTERNATIONAL COOPERATION AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF HONDURAS AND THE GOVERNMENT OF CANADA", instrumento orientado al fortalecimiento de la cooperación bilateral para la implementación de un sistema de inspección no intrusiva de carga y otras actividades relacionadas con la facilitación y seguridad del comercio internacional.
 
 CONSIDERANDO (5):
 

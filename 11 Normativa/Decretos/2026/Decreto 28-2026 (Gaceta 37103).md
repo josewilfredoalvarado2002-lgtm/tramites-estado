@@ -11,7 +11,7 @@ paginas: "A. 2 - 5"
 sumario: "Decretos Nos. 28-2026, 29-2026, 31-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260325-37103/download"
 extraido: "2026-11-09"
-huella: "786ce76da701c9c5"
+huella: "cb174da00b8a092b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 28-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que, es deber del Estado de Honduras garantizarles a los hondureñ
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

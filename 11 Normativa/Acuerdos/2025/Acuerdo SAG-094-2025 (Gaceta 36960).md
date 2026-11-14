@@ -11,7 +11,7 @@ paginas: "A. 1 - 18"
 sumario: "Acuerdo No. SAG-094-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251007-36960/download"
 extraido: "2026-11-09"
-huella: "b28023902a0cc320"
+huella: "83e0866224b88881"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-094-2025
@@ -467,7 +467,7 @@ Resultando
 
 1. Que mediante Resolución CREE-016, la Comisión Reguladora de Energía Eléctrica (CREE o “Comisión”) aprobó el Reglamento para el Cálculo de Tarifas Provisionales que aplica la Empresa Nacional de Energía Eléctrica (ENEE) a sus clientes, el que fue modificado por medio de los Acuerdo CREE-065 del veintisiete
 
-(27) de junio de dos mil veinte (2020), Acuerdo CREE- 36-2022 de fecha veinticuatro (24) de junio de dos mil veintidós (2022), Acuerdo CREE-83-2024 de fecha diecinueve (19) de agosto de dos mil veinticuatro (2024).
+(27) de junio de dos mil veinte (2020), Acuerdo CREE-36-2022 de fecha veinticuatro (24) de junio de dos mil veintidós (2022), Acuerdo CREE-83-2024 de fecha diecinueve (19) de agosto de dos mil veinticuatro (2024).
 
 Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de generación y el consecuente ajuste a la tarifa.
 
@@ -477,9 +477,7 @@ Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de
 
 4. Que en fecha diecinueve (19) de septiembre de dos mil veinticinco (2025), el Departamento de Tarifas emitió el memorándum número DT-012-2025 mediante el cual se solicita el pronunciamiento por parte de esta Dirección de Asesoría Jurídica con relación a las modificaciones de los contratos de suministro aprobadas por parte del Congreso Nacional de la República de Honduras, mediante el Decreto Legislativo No. 03-2025 y publicadas en el Diario Oficial “La Gaceta” en fecha diez (10) de marzo de dos mil veinticinco (2025).
 
-5. Que en fecha veintinueve (29) de septiembre de dos mil veinticinco (2025), la Dirección de Asesoría Jurídica en atención al memorándum No. DT-012-2025 emitió la opinión legal número DAJ-OL-020-2025, mediante la cual recomendó, entre otras cosas: a) Requerir nuevamente a la Empresa Nacional de Energía Eléctrica (ENEE), la información relacionada a las adendas; y, b) trasladar de forma condicionada los precios renegociados de los contratos de suministro publicados en el Diario Oficial “La Gaceta” mediante el Decreto Legislativo No.
-
-3-2025.
+5. Que en fecha veintinueve (29) de septiembre de dos mil veinticinco (2025), la Dirección de Asesoría Jurídica en atención al memorándum No. DT-012-2025 emitió la opinión legal número DAJ-OL-020-2025, mediante la cual recomendó, entre otras cosas: a) Requerir nuevamente a la Empresa Nacional de Energía Eléctrica (ENEE), la información relacionada a las adendas; y, b) trasladar de forma condicionada los precios renegociados de los contratos de suministro publicados en el Diario Oficial “La Gaceta” mediante el Decreto Legislativo No. 3-2025.
 
 6. Que en fecha veintinueve (29) de septiembre de dos mil veinticinco (2025), la Dirección de Asesoría Jurídica emitió el dictamen legal, mediante el cual indició que la Comisión Reguladora de Energía Eléctrica (CREE) se encuentra facultada para realizar la aprobación del ajuste trimestral del costo base de generación y su consecuente ajuste al pliego tarifario que aplica la Empresa Nacional de Energía Eléctrica (ENEE), a sus usuarios finales.
 
@@ -491,7 +489,7 @@ Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de
 
 10. Que esta Comisión Reguladora de Energía Eléctrica (CREE) se encuentra en proceso de revisión del traslado de los costos asociados a las centrales que actualmente están siendo arrendadas por parte de la Empresa Nacional de Energía Eléctrica (ENEE); así como de la vigencia de las modificaciones realizadas a los contratos aprobados mediante el Decreto No. 03-2025.
 
-11. Que mediante el Acuerdo CREE-134-2025 la Comisión Reguladora de Energía Eléctrica (CREE), revocó a partir del seis (6) de junio de dos mil veinticinco (2025), los Acuerdos CREE-47-2021, CREE-47-2022 y CREE- 62-2022 de fechas treinta (30) de septiembre de 2021, treinta (30) de septiembre de (2022) y treinta (30) de diciembre de dos mil veintidós (2022). Lo anterior en vista que los Contratos Nos. 011-2018, 012-2018 y 013- 2018 fueron renegociados en virtud de la autorización conferida mediante Decreto Legislativo No. 46-2022, así como tomando en consideración el artículo 28 de la Ley General de la Industria Eléctrica (LGIE) y posteriormente aprobados por el Congreso Nacional de la República de Honduras.
+11. Que mediante el Acuerdo CREE-134-2025 la Comisión Reguladora de Energía Eléctrica (CREE), revocó a partir del seis (6) de junio de dos mil veinticinco (2025), los Acuerdos CREE-47-2021, CREE-47-2022 y CREE-62-2022 de fechas treinta (30) de septiembre de 2021, treinta (30) de septiembre de (2022) y treinta (30) de diciembre de dos mil veintidós (2022). Lo anterior en vista que los Contratos Nos. 011-2018, 012-2018 y 013-2018 fueron renegociados en virtud de la autorización conferida mediante Decreto Legislativo No. 46-2022, así como tomando en consideración el artículo 28 de la Ley General de la Industria Eléctrica (LGIE) y posteriormente aprobados por el Congreso Nacional de la República de Honduras.
 
 Considerando Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y reformada mediante Decretos Legislativos números 61-2020, 02-2022, 46-2022, siendo la última el seis
 
@@ -547,7 +545,7 @@ RAFAEL VIRGILIO PADILLA PAZ LEONARDO ENRIQUE DERAS VÁSQUEZ
 
 Banco Central de Honduras
 
-CERTIFICACIÓN, ACUERDO No. 01/2025 El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto 3.8 del Acta de la Sesión No.4165 del 25 de septiembre de 2025, el cual contiene el Acuerdo No.01/2025, que literalmente dice:
+CERTIFICACIÓN, ACUERDO No. 01/2025 El infrascrito Secretario del Directorio del Banco Central de Honduras, por este medio CERTIFICA el Punto 3.8 del Acta de la Sesión No. 4165 del 25 de septiembre de 2025, el cual contiene el Acuerdo No. 01/2025, que literalmente dice:
 
 «3.8.… Leído el correspondiente proyecto de acuerdo y sometido a la consideración del Directorio, después de su discusión, se aprobó por unanimidad en la forma siguiente:
 

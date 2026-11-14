@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo NÚMERO 294-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230811-36305/download"
 extraido: "2026-11-14"
-huella: "f646a1959e26eacb"
+huella: "35a7df602f2b8d7d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 294-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Que mediante Acuerdo No. 7-2022 de fecha 27 de enero de 2022, la s
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
-CONSIDERANDO: Que los Secretarios de Estado, para el despacho de los asuntos de su competencia, serán asistidos por uno (1) o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen y tienen la atribución de conocer y resolver los asuntos competentes, de conformidad con lo establecido en el Decreto Ejecutivo Número PCM- 008-97, pudiendo delegar en los funcionarios o titulares el ejercicio de atribuciones específicas.
+CONSIDERANDO: Que los Secretarios de Estado, para el despacho de los asuntos de su competencia, serán asistidos por uno (1) o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen y tienen la atribución de conocer y resolver los asuntos competentes, de conformidad con lo establecido en el Decreto Ejecutivo Número PCM-008-97, pudiendo delegar en los funcionarios o titulares el ejercicio de atribuciones específicas.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y resoluciones en los asuntos de su competencia y aquellos que les delegue la Presidenta de la República, y cuidar de su ejecución.
 

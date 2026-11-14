@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdos Nos. C.D. SENASA-001-2020, 002-2020; Decreto No. 46-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200603-35272/download"
 extraido: "2026-11-14"
-huella: "5feec2d8ae778c60"
+huella: "c996694484f632eb"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Nos. C.D. SENASA-001-2020, 002-2020; Decreto No. 46-2019
@@ -45,7 +45,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-038-2016 publicado en L
 
 POR TANTO:
 
-En aplicación del Artículo 245 Nº. 11 de la Constitución de la República, 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fitozoosanitaria, Decreto Nº. 15794; Artículo 13 del PCM- 032-2018 y los artículos 1 y 8 del Decreto PCM-038-2016;
+En aplicación del Artículo 245 Nº. 11 de la Constitución de la República, 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fitozoosanitaria, Decreto Nº. 15794; Artículo 13 del PCM-032-2018 y los artículos 1 y 8 del Decreto PCM-038-2016;
 
 ACUERDA:
 
@@ -107,9 +107,9 @@ m. MEDIO DE TRANSPORTE: Se refiere a todo medio terrestre, aéreo o acuático ut
 
 n. OBJETO TRAZABLE: animal, planta, producto o subproducto a nivel individual o grupal, objeto de seguimiento dentro de una cadena de producción, transformación y distribución.
 
-o. O P E R A D O R E S D E T R A Z A B I L I D A D OFICIALES: Funcionario del SENASA, competente para ejercer acciones relacionadas a la implementación del Sistema Nacional de Trazabilidad.
+o. OPERADORES DE TRAZABILIDAD OFICIALES: Funcionario del SENASA, competente para ejercer acciones relacionadas a la implementación del Sistema Nacional de Trazabilidad.
 
-p. O P E R A D O R E S D E T R A Z A B I L I D A D PRIVADOS: Persona natural o jurídica habilitada por la autoridad nacional competente habilitado por el SENASA para ejercer acciones relacionadas a la implementación del Sistema Nacional de Trazabilidad.
+p. OPERADORES DE TRAZABILIDAD PRIVADOS: Persona natural o jurídica habilitada por la autoridad nacional competente habilitado por el SENASA para ejercer acciones relacionadas a la implementación del Sistema Nacional de Trazabilidad.
 
 q. PLANTA DE PROCESO: Es un establecimiento registrado y autorizado por el SENASA, para el sacrificio, preparación, transformación, fabricación, envasado, almacenamiento, distribución, manipulación y venta de productos y subproductos de origen animal.
 
@@ -265,7 +265,7 @@ ARTÍCULO 21. Las suspensiones de la habilitación durarán, lo que establezcan 
 
 #### Artículo 22
 
-ARTÍCULO 22. En caso de establecerse la revocación de la habilitación, se perderá la calidad de operador habilitado y éste podrá solicitar nueva habilitación después de un año contado a partir de la resolución revocatoria, sin perjuicio de otros plazos establecidos en los Instructivos Técnicos de cada actividad productiva , los que no podrán ser inferiores a un año.
+ARTÍCULO 22. En caso de establecerse la revocación de la habilitación, se perderá la calidad de operador habilitado y éste podrá solicitar nueva habilitación después de un año contado a partir de la resolución revocatoria, sin perjuicio de otros plazos establecidos en los Instructivos Técnicos de cada actividad productiva, los que no podrán ser inferiores a un año.
 
 #### Artículo 23
 
@@ -497,7 +497,7 @@ Artículo 1. DE LAS DEFINICIONES. - Para efectos de interpretación y aplicació
 
 CENTRO DE ACOPIO: Es el lugar o edificio empleado para el recibo, la conservación y la distribución de la materia prima recibida de las unidades productivas.
 
-DECLARACION JURADA: Manifestación por escrito que emite el Administrado, legitimado para actuar en nombre del establecimiento, mediante la cual declara bajo fe de juramento que éste cumple con los requisitos y las condiciones necesarias para su operación; que conoce y cumple con la normativa específica vigente y leyes conexas para su tipo de establecimiento; y que la información suministrada en el formulario aprobado por SENASA es verídica y vigente. Lo anterior bajo las sanciones administrativas establecidas en la Ley Fitozoosanitaria No 157-94 modificada mediante Decreto No.334-2005 sin perjuicio de la responsabilidad profesional, civil y penal. Dicha declaración debe ser autenticada por un Abogado.
+DECLARACION JURADA: Manifestación por escrito que emite el Administrado, legitimado para actuar en nombre del establecimiento, mediante la cual declara bajo fe de juramento que éste cumple con los requisitos y las condiciones necesarias para su operación; que conoce y cumple con la normativa específica vigente y leyes conexas para su tipo de establecimiento; y que la información suministrada en el formulario aprobado por SENASA es verídica y vigente. Lo anterior bajo las sanciones administrativas establecidas en la Ley Fitozoosanitaria No 157-94 modificada mediante Decreto No. 334-2005 sin perjuicio de la responsabilidad profesional, civil y penal. Dicha declaración debe ser autenticada por un Abogado.
 
 ESTABLECIMIENTO: Edificio o zona que se utiliza para efectuar actividades relacionadas con la higiene de los productos y/o subproductos de origen animal y/o vegetal y que ha sido registrado, aprobado e incluido en una lista para tal fin por el SENASA.
 
@@ -575,7 +575,7 @@ Artículo 7. Los carnés de productores acuícolas tendrán vigencia de tres añ
 
 #### Artículo 8
 
-Artículo 8. DE LOS REQUISITOS DE REGISTRO Y R E N O VA C I O N D E R E G I S T R O PA R A EMBARCACIONES PESQUERAS. Las embarcaciones pesqueras que requieran ser incluidas en una lista de aprobación para exportación y que realicen actividades de conservación (congelamiento) por más de 24 horas, así como las embarcaciones en las que se realice la transformación de productos de la pesca destinadas a la exportación, denominadas buques factorías, estarán sujetas a registro ante el SENASA presentando los siguientes requisitos:
+Artículo 8. DE LOS REQUISITOS DE REGISTRO Y RENO VA CION DE REGISTRO PA R A EMBARCACIONES PESQUERAS. Las embarcaciones pesqueras que requieran ser incluidas en una lista de aprobación para exportación y que realicen actividades de conservación (congelamiento) por más de 24 horas, así como las embarcaciones en las que se realice la transformación de productos de la pesca destinadas a la exportación, denominadas buques factorías, estarán sujetas a registro ante el SENASA presentando los siguientes requisitos:
 
 a. Formulario de solicitud de registro (codificado) presentado por el Representante Legal o a través de su apoderado legal mediante Carta Poder debidamente autenticada. El Representante Legal debe acreditar su representación mediante Escritura Pública o en su defecto Poder de Representación.
 
@@ -625,7 +625,7 @@ b. Declaración jurada en la cual deberá indicar que las condiciones con que fu
 
 Artículo 12. DE LOS ESTABLECIMIENTOS
 
-I M P O R TA D O R E S , P R O C E S A D O R E S O EXPORTADORES DE PIENSOS E INGREDIENTES DE PIENSOS. Estos establecimientos se registran y renuevan su registro en el Departamento de Control y Uso de Productos Veterinarios de la Subdirección General de Salud Animal (SGSA); los requisitos para registro y renovación de registro de estos establecimientos se encuentran establecidos en el REGLAMENTO TÉCNICO CENTROAMERICANO DE PRODUCTOS UTILIZADOS EN ALIMENTACIÓN ANIMAL Y ESTABLECIMIENTOS. REQUISITOS DE REGISTRO SANITARIO Y CONTROL (RTCA 65.05.52:11) y su vigencia
+I M P O R TA DORES, PROCESADORES O EXPORTADORES DE PIENSOS E INGREDIENTES DE PIENSOS. Estos establecimientos se registran y renuevan su registro en el Departamento de Control y Uso de Productos Veterinarios de la Subdirección General de Salud Animal (SGSA); los requisitos para registro y renovación de registro de estos establecimientos se encuentran establecidos en el REGLAMENTO TÉCNICO CENTROAMERICANO DE PRODUCTOS UTILIZADOS EN ALIMENTACIÓN ANIMAL Y ESTABLECIMIENTOS. REQUISITOS DE REGISTRO SANITARIO Y CONTROL (RTCA 65.05.52:11) y su vigencia
 
 #### Artículo 13
 
@@ -775,7 +775,7 @@ Artículo 42. DEL PROCEDIMIENTO PARA LA CANCELACION DE UN REGISTRO. - Para proce
 
 #### Artículo 43
 
-Artículo 43. D E L A M O D I F I C A C I O N D E L REGISTRO. - Los propietarios o representantes legales de los establecimientos deben solicitar por escrito la modificación de su registro en los plazos establecidos en este Reglamento, considerando los cambios que a continuación se detallan:
+Artículo 43. DE LA MODIFICACION DEL REGISTRO. - Los propietarios o representantes legales de los establecimientos deben solicitar por escrito la modificación de su registro en los plazos establecidos en este Reglamento, considerando los cambios que a continuación se detallan:
 
 a. El cambio de propietario, representante o apoderado legal, treinta (30) días máximo después de realizado.
 
@@ -867,7 +867,7 @@ CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la Rep�
 
 CONSIDERANDO: Que corresponde al Gobierno de la República reorientar la política tributaria, el desarrollo económico y social integral del país.
 
-CONSIDERANDO: Que con el propósito de generar más eficiencia en la economía y mayor justicia social y que la política tributaria en el país tenga equidad y sea proporcional, mediante Decreto No.37-2017 de fecha 31 de Mayo de 2017, se reformó el literal d) del Artículo 15 de la LEY DEL IMPUESTO SOBRE VENTAS, el cual se refiere a las exoneraciones otorgadas en el Impuesto Sobre Ventas, concediendo la exención de cobrar el Impuesto Sobre Ventas a los servicios que presten las municipalidades en beneficio de la comunidad.
+CONSIDERANDO: Que con el propósito de generar más eficiencia en la economía y mayor justicia social y que la política tributaria en el país tenga equidad y sea proporcional, mediante Decreto No. 37-2017 de fecha 31 de Mayo de 2017, se reformó el literal d) del Artículo 15 de la LEY DEL IMPUESTO SOBRE VENTAS, el cual se refiere a las exoneraciones otorgadas en el Impuesto Sobre Ventas, concediendo la exención de cobrar el Impuesto Sobre Ventas a los servicios que presten las municipalidades en beneficio de la comunidad.
 
 CONSIDERANDO: Que con el fin de respaldar la gestión municipal con equidad tributaria en pro y hacia sus contribuyentes y, proteger a la hacienda municipal de cualquier sobrecosto desproporcionado en los servicios que brinda a sus ciudadanos y para evitar posibles interpretaciones erróneas del literal d) del Artículo 15 de la LEY DEL IMPUESTO SOBRE VENTAS y además, impedir que se distorsione la voluntad e intención del Legislador al aprobar dicha reforma, resulta necesario interpretar de manera legislativa, el sentido y alcance de la misma.
 
@@ -879,7 +879,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar el literal d) del Artículo 15 del Decreto No.24, de fecha 20 de Diciembre de 1963 y sus reformas, que contiene la LEY DEL IMPUESTO SOBRE VENTAS, reformado mediante Decreto No. 37-2017 de fecha 31 de Mayo de 2017, en el sentido de que la exención otorgada a las tasas y servicios que presten las municipalidades en beneficio de la comunidad, a que hace referencia dicho numeral, es extendible y de aplicación inmediata y directa a todos los servicios que las mismas prestan directamente o a través de personas naturales o jurídicas contratadas para tal fin.
+ARTÍCULO 1.- Interpretar el literal d) del Artículo 15 del Decreto No. 24, de fecha 20 de Diciembre de 1963 y sus reformas, que contiene la LEY DEL IMPUESTO SOBRE VENTAS, reformado mediante Decreto No. 37-2017 de fecha 31 de Mayo de 2017, en el sentido de que la exención otorgada a las tasas y servicios que presten las municipalidades en beneficio de la comunidad, a que hace referencia dicho numeral, es extendible y de aplicación inmediata y directa a todos los servicios que las mismas prestan directamente o a través de personas naturales o jurídicas contratadas para tal fin.
 
 #### Artículo 2
 

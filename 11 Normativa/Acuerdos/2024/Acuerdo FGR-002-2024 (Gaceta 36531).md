@@ -11,7 +11,7 @@ paginas: "A. 38 - 97"
 sumario: "Acuerdos No. FGR-002-2024, FGR-JAZ-005-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240511-36531/download"
 extraido: "2026-11-14"
-huella: "8cb3018769a0f67e"
+huella: "bdae0b038363e5fc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-002-2024
@@ -41,7 +41,7 @@ TERCERO: Que la Dirección General de Fiscalías cuenta con cuerpo de Fiscales, 
 
 CUARTO: Que la Dirección General de Fiscalía cuenta dentro de su estructura organizacional con el Módulo de Atención Integral Especializado (MAIE) que tiene como objetivo fundamental mejorar las condiciones de trabajo, atención al público y establecer una adecuada coordinación entre los módulos de atención integral (MAI) y las cámaras de GESSEL a nivel nacional; simplificando las tareas desarrolladas por estas unidades y los mecanismos de atención, para solventar desde una óptica Fiscal diferentes situaciones que se suscite, integrando y agilizando los diferentes módulos, a fin de que cumplan una función armónica que responda a las políticas y planificación estratégica definidas por la Fiscalía General, sirviendo de apoyo a los diferentes procesos de investigación, sin descuidar la labor técnica que implica la atención de menores, mujeres embarazadas, tercera edad y personas con capacidades especiales, quienes por su condición de vulnerabilidad, requieran de la atención especializada que prestan estas unidades a nivel nacional.
 
-QUINTO: Que es prioridad de esta Fiscalía General de la República establecer los mecanismos necesarios para impulsar el proceso de modernización institucional y concretizar los objetivos estratégicos determinados para el período 2021- 2025 que permitan a nuestra institución adaptarse a los requerimientos de un sistema de justicia criminal moderno; para optimizar y fortalecer la gestión fiscal que determinó como necesidad la formulación de un protocolo de actuación que complementen el contenido del Reglamento Especial de Organización y Funcionamiento de la Dirección General de Fiscalía (DGF) y desarrolle procedimientos estandarizados a nivel nacional para potencializar los tramites, investigaciones y el juzgamiento de los casos con relevancia en el ámbito penal, permitiendo modernizar el desempeño de los fiscales y demás personal determinado con una política clara, firme y fuerte para combatir el delito con obtención de resultados, para beneficio de la administración personal conforme al marco normativo a favor de una atención expedita, personalizada y de calidad a los usuarios realizando las coordinaciones de diferentes despachos a lo interno de la institución como con otras instituciones para la atención, conforme al caso de la víctima, testigos y demás grupos vulnerables.
+QUINTO: Que es prioridad de esta Fiscalía General de la República establecer los mecanismos necesarios para impulsar el proceso de modernización institucional y concretizar los objetivos estratégicos determinados para el período 2021-2025 que permitan a nuestra institución adaptarse a los requerimientos de un sistema de justicia criminal moderno; para optimizar y fortalecer la gestión fiscal que determinó como necesidad la formulación de un protocolo de actuación que complementen el contenido del Reglamento Especial de Organización y Funcionamiento de la Dirección General de Fiscalía (DGF) y desarrolle procedimientos estandarizados a nivel nacional para potencializar los tramites, investigaciones y el juzgamiento de los casos con relevancia en el ámbito penal, permitiendo modernizar el desempeño de los fiscales y demás personal determinado con una política clara, firme y fuerte para combatir el delito con obtención de resultados, para beneficio de la administración personal conforme al marco normativo a favor de una atención expedita, personalizada y de calidad a los usuarios realizando las coordinaciones de diferentes despachos a lo interno de la institución como con otras instituciones para la atención, conforme al caso de la víctima, testigos y demás grupos vulnerables.
 
 SEXTO: Que conforme a las facultades expresadas en nuestra Constitución y desarrolladas por la Ley del Ministerio Público, corresponde al Fiscal General de la República, la emisión de órdenes e instrucciones que permitan dar fiel y eficiente cumplimiento a los objetivos y fines por los cuales fue constituido como representante de la sociedad; por lo cual, en estricta aplicación del principio de especialidad, atinente a las fuentes y jerarquía del derecho administrativo, esta Fiscalía General de la República en ejercicio de su potestad reglamentaria y para los efectos de dar cumplimiento a nuestros objetivos de adaptar la estructura orgánica del Ministerio Público a los retos de una nueva estrategia que impulsa el proceso de modernización institucional, estima pertinente la aprobación del Protocolo de Actuación Módulo de Atención Integral Especializado con la finalidad de mejorar las condiciones de trabajo, agilizando los diferentes módulos operativos, para que estos cumplan con su función prioritaria de la atención a menores, mujeres embarazadas, tercera edad y personas con capacidades especiales por su condición de vulnerabilidad que requieran de la atención especializada que prestan estas unidades a nivel nacional.
 
@@ -615,7 +615,7 @@ c) Los representantes de las personas naturales, los gerentes, administradores o
 
 3. Contenido de la Denuncia.
 
-La denuncia debe contener como mínimo, lo establecido en el artículo 270 del Código Procesal Penal. El funcionario encargado debe llenar el acta en el formato establecido para ello (ver FINV- 01 “Formato de Recepción de Denuncias” del Manual Único de Investigación Criminal), el cual contiene los requisitos de su contenido y se insertará en el sistema “NACMIS”, “SIGEFI” o la herramienta que se desarrollare para tal fin. Si el denunciante aporta elementos probatorios, se le recibirán iniciando la garantía de autenticidad (Cadena de Custodia).
+La denuncia debe contener como mínimo, lo establecido en el artículo 270 del Código Procesal Penal. El funcionario encargado debe llenar el acta en el formato establecido para ello (ver FINV-01 “Formato de Recepción de Denuncias” del Manual Único de Investigación Criminal), el cual contiene los requisitos de su contenido y se insertará en el sistema “NACMIS”, “SIGEFI” o la herramienta que se desarrollare para tal fin. Si el denunciante aporta elementos probatorios, se le recibirán iniciando la garantía de autenticidad (Cadena de Custodia).
 
 Por ende, el MAIE debe seguir los lineamientos que sean establecidos por el Módulo de Recepción de Denuncias1, teniendo en cuenta lo siguiente:
 
@@ -1569,7 +1569,7 @@ Identificado con el código DMF-SRCE-03, tendrá como atribución las siguientes
 
 1. Recibir los dictámenes, expedientes y evidencias del área de recepción de dictámenes y evidencias, verificando que cada caso cuente con los requisitos siguientes:
 
-a. N ú m e r o s d e c o d i f i c a c i ó n ;
+a. Números decodificación;
 
 b. Nombres de IMP/OF de forma correcta
 

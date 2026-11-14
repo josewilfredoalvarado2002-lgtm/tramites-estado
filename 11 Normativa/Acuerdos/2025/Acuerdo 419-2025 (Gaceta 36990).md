@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Números 378-2025, 419-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251111-36990/download"
 extraido: "2026-11-09"
-huella: "aae20acf3eaafe3f"
+huella: "371ff1faa379ff11"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 419-2025
@@ -41,11 +41,11 @@ CONSIDERANDO: Que, las Disposiciones Generales del Presupuesto para el Ejercicio
 
 CONSIDERANDO: Que, mediante Acuerdo No. 279-2025, publicado en el Diario Oficial La Gaceta en fecha 11 de septiembre de 2025 se aprobaron las Normas para el Cierre Contable del Ejercicio Fiscal 2025, que concluye el 31 de diciembre del 2025 así como las Disposiciones Operativas de cumplimiento obligatorio para el Sector Público.
 
-CONSIDERANDO: Que, de conformidad con lo establecido en el artículo 3, Inciso c) del Decreto No.25-2016 que contiene la Ley de Responsabilidad Fiscal, la nueva deuda flotante al cierre del año fiscal a partir de la aprobación de dicha Ley, no podrá ser en ningún caso superior al cero punto cinco por ciento (0.5%) del Producto Interno Bruto (PIB) en términos nominales.
+CONSIDERANDO: Que, de conformidad con lo establecido en el artículo 3, Inciso c) del Decreto No. 25-2016 que contiene la Ley de Responsabilidad Fiscal, la nueva deuda flotante al cierre del año fiscal a partir de la aprobación de dicha Ley, no podrá ser en ningún caso superior al cero punto cinco por ciento (0.5%) del Producto Interno Bruto (PIB) en términos nominales.
 
 POR TANTO:
 
-En uso de las facultades legales de que está investido y en aplicación de los siguientes artículos: 246 y 247 de la Constitución de la República contenida en el Decreto 131-11982; 38 y 99 de la Ley Orgánica del Presupuesto contenida en el Decreto 83-2004; 3, Inciso c) de la Ley de Responsabilidad Fiscal contenida en el Decreto No.25-2016;
+En uso de las facultades legales de que está investido y en aplicación de los siguientes artículos: 246 y 247 de la Constitución de la República contenida en el Decreto 131-11982; 38 y 99 de la Ley Orgánica del Presupuesto contenida en el Decreto 83-2004; 3, Inciso c) de la Ley de Responsabilidad Fiscal contenida en el Decreto No. 25-2016;
 
 51 del Decreto 004-2025; Acuerdo No. 279-2025; 29 y 36 numeral 8), de la Ley General de la Administración Pública.
 

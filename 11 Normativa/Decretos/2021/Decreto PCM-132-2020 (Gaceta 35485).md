@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto Ejecutivo número PCM-132-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210112-35485/download"
 extraido: "2026-11-14"
-huella: "b751fb8cae89be8b"
+huella: "1f17ce68b331eb0f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-132-2020
@@ -63,9 +63,9 @@ Esta transformación necesariamente pasa por mejorar la conectividad, uso de dis
 
 POR TANTO, En aplicación a los Artículos 59, 151, 245, numerales 2, 11 y 28, 321 y 323 de la Constitución de la República;
 
-Artículos 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266- 2013; Decreto Legislativo No. 286-2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras;
+Artículos 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 286-2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras;
 
-Artículos 1, 2, 3, 4, 9, 13, 27 y 28 de la Ley Fundamental de Educación; y, Decreto Ejecutivo Número PCM-004- 2020.
+Artículos 1, 2, 3, 4, 9, 13, 27 y 28 de la Ley Fundamental de Educación; y, Decreto Ejecutivo Número PCM-004-2020.
 
 DECRETA:
 
@@ -167,9 +167,7 @@ JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA CARLOS ALBERTO MADE
 
 CONSIDERANDO (1): Que mediante Decreto Ejecutivo 005-2020, de fecha 10 de febrero de 2020, se declaró estado de emergencia sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por coronavirus (COVID-19).
 
-CONSIDERANDO (2): Que el Gobierno de la República mediante Decreto Ejecutivo Número PCM- 005-2020 publicado en el Diario Oficial “La Gaceta” No.
-
-35,171 en fecha 10 de Febrero de 2020, declaró Estado de Emergencia Sanitaria en todo el territorio nacional, mismo que fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020, en su artículo primero donde establece: “Declarar Estado de Emergencia Sanitaria, en el Sistema de Salud Pública a nivel nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19)”.
+CONSIDERANDO (2): Que el Gobierno de la República mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” No. 35,171 en fecha 10 de Febrero de 2020, declaró Estado de Emergencia Sanitaria en todo el territorio nacional, mismo que fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020, en su artículo primero donde establece: “Declarar Estado de Emergencia Sanitaria, en el Sistema de Salud Pública a nivel nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19)”.
 
 CONSIDERANDO (3): Que el precitado Decreto en su artículo 2, se ordena el cierre de todas las fronteras aéreas, terrestres y marítimas en el territorio nacional, con las excepciones del caso.
 
@@ -179,7 +177,7 @@ CONSIDERANDO (5): Que el Poder Ejecutivo en el marco de la Emergencia Nacional a
 
 CONSIDERANDO (6): Que la declaración de días inhábiles fue extendida con fecha veintitrés (23) días del mes de marzo del dos mil veinte (2020) mediante comunicado que literalmente establece “La Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización COMUNICA: a todas las dependencias del gobierno central y descentralizados y la población en general lo siguiente: en aras de salvaguardar la salud y la vida de la población en el marco de esta emergencia nacional como prevención ante el COVID-19, continuarán suspendidas las labores diarias de trabajo presenciales a partir del lunes veintitrés (23) al veintisiete (27) de marzo del año dos mil veinte (20);… en cuanto a los términos y plazos para hacer uso de los recursos legales, se mantendrán en suspenso, empezando a correr nuevamente los términos legales a partir del primer día hábil.
 
-CONSIDERANDO (7): Que mediante Decreto PCM- 030-2020 de fecha nueve (09) de abril del dos mil veinte (2020) se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
+CONSIDERANDO (7): Que mediante Decreto PCM-030-2020 de fecha nueve (09) de abril del dos mil veinte (2020) se declara prioridad nacional el apoyo al sector productor de alimentos y agroindustria alimentaria y se decretan medidas para asegurar la soberanía y seguridad alimentaria.
 
 CONSIDERANDO (8): Que el Reglamento del Programa Avícola Nacional en su artículo 86 establece que “Las unidades de producción avícola que a la fecha de la publicación del presente Acuerdo hubieren ingresado solicitud de inscripción o estén operando y no cumplan las disposiciones establecidas en el presente Reglamento podrán solicitar su inscripción o renovación de inscripción sometiéndose a estándares altos de bioseguridad, con un mínimo de calificación de noventa
 
@@ -195,7 +193,7 @@ La Dirección General del Servicio Nacional de Sanidad e Inocuidad Agroalimentar
 
 116, 120 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo 005-2020 de fecha diez
 
-(10) de febrero del dos mil veinte (2020); Decreto PCM-021-2020 de fecha quince (15) de marzo del dos mil veinte (2020); Decretos Ejecutivos PCM-022- 2020 publicado en el Diario Oficial La Gaceta número 35, 212 en fecha veintiocho (28) de marzo del dos mil veinte (2020) y PCM-028-2020 de fecha cuatro (04) de abril del dos mil veinte (2020); Decreto PCM-030-2020 de fecha de abril del dos mil veinte (2020) publicado en el Diario Oficial La Gaceta el nueve (09) de abril del dos mil veinte (2020), Decreto PCM-073-2020 de fecha veintiocho (28) de julio del 2020; artículos 1, 4 y 5 del PCM-015-2020, publicado en el Diario Oficial La Gaceta en fecha 3 de septiembre del año 2020.
+(10) de febrero del dos mil veinte (2020); Decreto PCM-021-2020 de fecha quince (15) de marzo del dos mil veinte (2020); Decretos Ejecutivos PCM-022-2020 publicado en el Diario Oficial La Gaceta número 35, 212 en fecha veintiocho (28) de marzo del dos mil veinte (2020) y PCM-028-2020 de fecha cuatro (04) de abril del dos mil veinte (2020); Decreto PCM-030-2020 de fecha de abril del dos mil veinte (2020) publicado en el Diario Oficial La Gaceta el nueve (09) de abril del dos mil veinte (2020), Decreto PCM-073-2020 de fecha veintiocho (28) de julio del 2020; artículos 1, 4 y 5 del PCM-015-2020, publicado en el Diario Oficial La Gaceta en fecha 3 de septiembre del año 2020.
 
 ACUERDA
 

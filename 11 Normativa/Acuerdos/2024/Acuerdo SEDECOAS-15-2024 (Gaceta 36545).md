@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdo No. SEDECOAS-15-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240528-36545/download"
 extraido: "2026-11-14"
-huella: "3f71ec6af879fe14"
+huella: "058edbef5d65f30f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEDECOAS-15-2024
@@ -31,9 +31,7 @@ En la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Fra
 
 La SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), creada mediante Decreto Ejecutivo número PCM-056-2019 de fecha 11 de septiembre del 2019, publicado en el Diario Oficial La Gaceta número 35,047 de fecha doce (12) de septiembre del dos mil diecinueve (2019), órgano legalmente responsable de dirigir y administrar al INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS) y el FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS), por medio de su Secretario de Estado, procede a emitir el presente Acuerdo Ejecutivo de conformidad a los preceptos y consideraciones legales que se detallan a continuación:
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-12-90 de fecha veintidós (22) de febrero de mil novecientos noventa (1990), publicado en el Diario Oficial “La Gaceta”, No. 26,075 en fecha dos (02) de marzo de mil novecientos noventa (1990), se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 12-90 de fecha veintidós (22) de febrero de mil novecientos noventa (1990), publicado en el Diario Oficial “La Gaceta”, No. 26,075 en fecha dos (02) de marzo de mil novecientos noventa (1990), se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
 
 CONSIDERANDO: Que de conformidad al Artículo 10 del Decreto Ejecutivo No. PCM-05-2022 de fecha 06 de abril de 2022, se establece que el Fondo Hondureño de Inversión Social (FHIS) estará a cargo de un Director con Rango de Secretario de Estado, quedando bajo su cargo hasta su liquidación la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS).
 

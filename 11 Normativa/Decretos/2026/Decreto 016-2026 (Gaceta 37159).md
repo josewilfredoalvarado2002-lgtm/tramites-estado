@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo Número 016-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260604-37159/download"
 extraido: "2026-11-09"
-huella: "3ce84fa148a0358e"
+huella: "bd2318adaa96763b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 016-2026
@@ -53,7 +53,7 @@ ARTÍCULO 1.- Se instruye y autoriza a la Secretaría de Estado en los Despachos
 
 #### Artículo 2
 
-ARTÍCULO 2.- La Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, que es la dependencia que tiene bajo su dirección directa la ejecución del FOSMIH de conformidad a la reforma del Artículo 29 de la Ley de Protección de los Hondureños Migrantes y sus Familiares contenida en el Decreto Legislativo Número 54- 2024, publicado el 23 de julio de 2024 en el Diario Oficial "La Gaceta", de conformidad y, en aplicación de los Numerales 2 y 6 del Artículo 63 de la Ley de Contratación del Estado, queda autorizada y debe proceder a contratar de manera directa el mecanismo o medio de pago de este auxilio o beneficio social de Dos Mil Quinientos Lempiras (L. 2,500.00), que cumpla con las condiciones ineludibles de efectividad, transparencia, trazabilidad, verificación, seguimiento y auditoría permanente, por medio de plataformas tecnológicas implementadas por Instituciones Bancarias Privadas, evaluando, para la contratación específica y directa, la o las propuestas técnicas, financieras, su cobertura y eficiencia y sus correspondientes cotizaciones que oportunamente solicite o se le remitan o proporcionen si ya se cuenta con las mismas a nivel presidencial para esos efectos pues por su medio se evita el irresponsable e improcedente manejo y pago con dinero en efectivo a sus beneficiarios, lo que no corresponde en manera alguna con el manejo responsable, eficiente y oportuno de recursos públicos.
+ARTÍCULO 2.- La Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, que es la dependencia que tiene bajo su dirección directa la ejecución del FOSMIH de conformidad a la reforma del Artículo 29 de la Ley de Protección de los Hondureños Migrantes y sus Familiares contenida en el Decreto Legislativo Número 54-2024, publicado el 23 de julio de 2024 en el Diario Oficial "La Gaceta", de conformidad y, en aplicación de los Numerales 2 y 6 del Artículo 63 de la Ley de Contratación del Estado, queda autorizada y debe proceder a contratar de manera directa el mecanismo o medio de pago de este auxilio o beneficio social de Dos Mil Quinientos Lempiras (L. 2,500.00), que cumpla con las condiciones ineludibles de efectividad, transparencia, trazabilidad, verificación, seguimiento y auditoría permanente, por medio de plataformas tecnológicas implementadas por Instituciones Bancarias Privadas, evaluando, para la contratación específica y directa, la o las propuestas técnicas, financieras, su cobertura y eficiencia y sus correspondientes cotizaciones que oportunamente solicite o se le remitan o proporcionen si ya se cuenta con las mismas a nivel presidencial para esos efectos pues por su medio se evita el irresponsable e improcedente manejo y pago con dinero en efectivo a sus beneficiarios, lo que no corresponde en manera alguna con el manejo responsable, eficiente y oportuno de recursos públicos.
 
 #### Artículo 3
 

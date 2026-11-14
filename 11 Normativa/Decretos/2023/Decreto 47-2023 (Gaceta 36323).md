@@ -11,7 +11,7 @@ paginas: "A. 10 - 107"
 sumario: "Decretos Nos. 45-2023, 47-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230901-36323/download"
 extraido: "2026-11-14"
-huella: "75248451e66dbce5"
+huella: "42c2d43e5f92691d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 47-2023
@@ -39,21 +39,21 @@ En 2019, la desnutrición crónica de los hogares más pobres fue casi el doble 
 
 Menos de un cuarto (21.3%) de los niños de la población más pobre disfrutan de estimulación temprana comparado con el 60.2% de la población más rica. Los niños de los hogares más pobres comparado con la población nacional son dos (2) veces más propensos a abandonar tanto la educación primaria (1º a 6º grado) (8.3% vs. 4.4%) como el tercer ciclo (7º a 9º grado) (56.4% vs. 29%). Las jóvenes más pobres tienen más riesgo de una maternidad temprana (15 a 19 años) comparado con el promedio nacional (29.3% vs. 18.7%).
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5681/ BL-HO, suscrito el 17 de marzo de 2023, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para el “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL II”, que tiene como objetivo mejorar las condiciones de vida de los hogares en territorios que concentran pobreza extrema, así como promover la generación de su capital humano y capacidad de autogestión, hasta por un monto de Setenta y Cinco Millones Novecientos Mil Dólares de los Estados Unidos de América (US$75,900,000.00).
+CONSIDERANDO: Que el Contrato de Préstamo No. 5681/ BL-HO, suscrito el 17 de marzo de 2023, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para el “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL II”, que tiene como objetivo mejorar las condiciones de vida de los hogares en territorios que concentran pobreza extrema, así como promover la generación de su capital humano y capacidad de autogestión, hasta por un monto de Setenta y Cinco Millones Novecientos Mil Dólares de los Estados Unidos de América (US$75,900,000.00).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, numerales 19 y 36 de la Constitución de la República, corresponde al Congreso Nacional: Aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.5681/BLHO, suscrito el 17 de marzo de 2023, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de SETENTA Y CINCO MILLONES NOVECIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$75,900,000.00), recursos destinados a la ejecución del “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL II”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 5681/BLHO, suscrito el 17 de marzo de 2023, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de SETENTA Y CINCO MILLONES NOVECIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$75,900,000.00), recursos destinados a la ejecución del “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL II”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONTRATO DE PRÉSTAMO No.5681-BL-HO Entre la REPÚBLICA DE HONDURAS Y el BANCO INTERAMERICANO DE DESARROLLO Programa de Apoyo al Sistema Integral de Protección Social II 17 de Marzo 2023 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 17 de marzo de 2023.
+CONTRATO DE PRÉSTAMO No. 5681-BL-HO Entre la REPÚBLICA DE HONDURAS Y el BANCO INTERAMERICANO DE DESARROLLO Programa de Apoyo al Sistema Integral de Protección Social II 17 de Marzo 2023 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 17 de marzo de 2023.
 
 CAPÍTULO I
 
@@ -337,17 +337,17 @@ ARTÍCULO 2.01. Definiciones. Cuando los siguientes términos se utilicen con ma
 
 18. “Carta Notificación de Ejercicio de la Opción de Pago de Principal” significa la notificación por medio de la cual el Banco da respuesta a una Carta Solicitud de Ejercicio de Opción de Pago de Principal y comunica al Prestatario el Cronograma de Amortización modificado resultante del ejercicio de la Opción de Pago de Principal.
 
-19. “ C a r t a N o t i f i c a c i ó n d e Modificación de Cronograma de Amortización” significa la notificación por medio de la cual el Banco da respuesta a una Carta Solicitud de Modificación de Cronograma de Amortización.
+19. “ Carta Notificación de Modificación de Cronograma de Amortización” significa la notificación por medio de la cual el Banco da respuesta a una Carta Solicitud de Modificación de Cronograma de Amortización.
 
 20. “Carta Solicitud de Activación de la Opción de Pago de Principal” significa la notificación por medio de la cual el Prestatario solicita al Banco que el Préstamo sea elegible para la Opción de Pago de Principal sujeto a los términos y condiciones establecidos en este Contrato.
 
 21. “Carta Solicitud de Conversión” significa la notificación irrevocable por medio de la cual el Prestatario solicita al Banco una Conversión, de acuerdo con lo establecido en el Artículo 5.01 de estas Normas Generales.
 
-22. “Carta Solicitud de ejercicio de acción de pago de principal significa la notificación por medio de la cual el Prestatario solicita al Banco una modificación al cronograma de amortización de conformidad con lo previsto , en el Artículo 3.09 de estas Normas Generales.
+22. “Carta Solicitud de ejercicio de acción de pago de principal significa la notificación por medio de la cual el Prestatario solicita al Banco una modificación al cronograma de amortización de conformidad con lo previsto, en el Artículo 3.09 de estas Normas Generales.
 
 23. “Carta Solicitud de Modificación de Cronograma de Amortización” significa la notificación irrevocable por medio de la cual el Prestatario solicita al Banco una modificación al Cronograma de Amortización.
 
-24. “ C a t á s t r o f e ” s i g n i f i c a una interrupción grave al funcionamiento de una sociedad, una comunidad o un proyecto que ocurre como resultado de un peligro y causa, de manera generalizada y grave, pérdidas humanas, materiales, económicas o ambientales.
+24. “ Catástrofe ” significa una interrupción grave al funcionamiento de una sociedad, una comunidad o un proyecto que ocurre como resultado de un peligro y causa, de manera generalizada y grave, pérdidas humanas, materiales, económicas o ambientales.
 
 25. “Contrato” significa este contrato de préstamo.
 
@@ -463,7 +463,7 @@ La fuente y cálculo del Índice del Producto Básico Subyacente se establecerá
 
 73. “Monto de la Protección” significa el monto máximo de los Montos de Liquidación en Efectivo acumulados bajo una Conversión de Protección contra Catástrofes, en Dólares, que el Banco adeudaría al momento que se determine la ocurrencia de uno o más Eventos de Liquidación en Efectivo.
 
-74. “ N o r m a s d e D e s e m p e ñ o Ambientales y Sociales” significa las diez (10) Normas de Desempeño que forman parte del Marco de Políticas Ambientales y Sociales.
+74. “ Normas de Desempeño Ambientales y Sociales” significa las diez (10) Normas de Desempeño que forman parte del Marco de Políticas Ambientales y Sociales.
 
 75. “Normas Generales” significa el conjunto de artículos que componen esta segunda parte del Contrato.
 
@@ -513,7 +513,7 @@ La fuente y cálculo del Índice del Producto Básico Subyacente se establecerá
 
 96. “Prestatario” tendrá el significado que se le asigna en el preámbulo de las Estipulaciones Especiales de este Contrato.
 
-97. “ P r i n c i p i o s B á s i c o s d e Adquisiciones” significa los principios que guían las actividades de adquisiciones y los procesos de selección en virtud de las Políticas de Adquisiciones y las Políticas de Consultores, y son los siguientes: valor por dinero, economía, eficiencia, igualdad, transparencia e integridad.
+97. “ Principios Básicos de Adquisiciones” significa los principios que guían las actividades de adquisiciones y los procesos de selección en virtud de las Políticas de Adquisiciones y las Políticas de Consultores, y son los siguientes: valor por dinero, economía, eficiencia, igualdad, transparencia e integridad.
 
 98. “Proyecto” o “Programa” significa el proyecto o programa que se identifica en las Estipulaciones Especiales y consiste en el conjunto de actividades con un objetivo de desarrollo a cuya financiación contribuyen los recursos del Préstamo.
 
@@ -583,7 +583,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -1325,7 +1325,7 @@ Asimismo, el Prestatario se compromete a que sus representantes o, en su caso, l
 
 #### Artículo 7
 
-ARTÍCULO 7.02. P l a n e s e informes. Para permitir al Banco la supervisión del progreso en la ejecución del Proyecto y el alcance de sus resultados, el Prestatario se compromete a:
+ARTÍCULO 7.02. Planes e informes. Para permitir al Banco la supervisión del progreso en la ejecución del Proyecto y el alcance de sus resultados, el Prestatario se compromete a:
 
 (a) Presentar al Banco o, en su caso, a que el Organismo Ejecutor le presente, la información, los planes, informes y otros documentos, en la forma y con el contenido que el Banco razonablemente solicite basado en el progreso del Proyecto y su nivel de riesgo.
 

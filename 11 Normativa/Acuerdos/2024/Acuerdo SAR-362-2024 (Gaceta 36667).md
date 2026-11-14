@@ -8,10 +8,10 @@ gaceta_numero: 36667
 gaceta_fecha: "2024-10-18"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)|La Gaceta 36667]]"
 paginas: "A. 12 - 14"
-sumario: "Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
+sumario: "Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241018-36667/download"
 extraido: "2026-11-14"
-huella: "d054a88f2d04eaa9"
+huella: "a7531849a0948036"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-362-2024
@@ -23,7 +23,7 @@ huella: "d054a88f2d04eaa9"
 | Emisor | Servicio de Administración de Rentas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)\|La Gaceta 36667]] del 2024-10-18 |
 | Páginas | A. 12 - 14 |
-| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
+| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
 
 ## Texto
 
@@ -33,13 +33,9 @@ CONSIDERANDO: Que mediante el Artículo 195 del Decreto Legislativo número 170-
 
 CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las atribuciones de la Administración Tributaria: 1)…; 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; 13)…; y 15) Cualquier otra facultad o atribución que establezca la Ley, en sus respectivas competencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024 se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-23-2024 de fecha 18 de enero del 2024 se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social, y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 
@@ -47,7 +43,7 @@ CONSIDERANDO: Que en el Artículo 55 del Código Tributario, referente a los der
 
 \4) “Derecho a ser informado por escrito y verbalmente; y ser asistido personalmente, por la Administración Tributaria, en el ejercicio de sus derechos y el cumplimiento de sus obligaciones”.
 
-CONSIDERANDO: Que mediante Acuerdo Número SAR- 304-2024 de fecha 4 de julio de 2024, otorgó prorrogar del plazo para la presentación de la Declaraciones Mensual de Retenciones (DMR) Informativa .
+CONSIDERANDO: Que mediante Acuerdo Número SAR-304-2024 de fecha 4 de julio de 2024, otorgó prorrogar del plazo para la presentación de la Declaraciones Mensual de Retenciones (DMR) Informativa .
 
 CONSIDERANDO: Que la Dirección Nacional de Tecnología en fecha 10 de julio del año en curso emitió Dictamen Técnico DNT-INC-001-2024, en el que se dictamina que se ha presentado inestabilidad por aspectos tecnológicos, del cual el principal incidente ha sido la inestabilidad en la plataforma identificando que esto se debió a:
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210705-35647/download"
 extraido: "2026-11-14"
-huella: "3fb3922b53671a29"
+huella: "bffd44dd959c1dc8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DNII-003-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Es
 
 CONSIDERANDO. Que el Estado de Honduras ha suscrito y ratificado el Convenio de Aviación Civil Internacional y sus Anexos, dentro de los cuales se encuentra el Anexo 17 que incorpora las normas y medidas de protección de la aviación civil internacional contra los actos de interferencia ilícita que deben adoptar los Estados contratantes; mismo que contiene las disposiciones que prescriben el cumplimiento de estos Estados, de preparar y ejecutar un Programa Nacional de Control de Calidad de la Seguridad de la Aviación Civil.
 
-CONSIDERANDO: Que mediante Acuerdo No. DNII- 002-2017 de fecha quince de junio del año en curso, esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho de junio de dos mil diecisiete.
+CONSIDERANDO: Que mediante Acuerdo No. DNII-002-2017 de fecha quince de junio del año en curso, esta Dirección Nacional de Investigación e Inteligencia (DNII) determinó reformar el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACION CIVIL (PNSAC) de conformidad a propuesta presentada por la División de Seguridad Aeroportuaria (DSA) de fecha ocho de junio de dos mil diecisiete.
 
 CONSIDERANDO: Que el PROGRAMA NACIONAL
 

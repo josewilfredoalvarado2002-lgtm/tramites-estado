@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. SAG-125-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220518-35926/download"
 extraido: "2026-11-14"
-huella: "66386bfe664a4ad3"
+huella: "88f9fb248f8bcc58"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-125-2022
@@ -37,15 +37,13 @@ CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de 
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Secretaría de Agricultura y Ganadería, fomentar la eficiencia en el campo de la producción y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país; y es la Secretaría de Estado en el Despacho de Desarrollo Económico la Institución encargada de dirigir la Política Comercial de Honduras.
 
-CONSIDERANDO: Que en fecha 02 de abril de 2018, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, suscrito entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA, SEMOLAS DE HONDURAS, S.A.), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), Consejo Nacional Campesino (CNC), Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo Ejecutivo No. 084-2018, publicado en el Diario Oficial “La Gaceta” en fecha 05 de junio del 2018, mismo que fue modificado mediante Addendum No.1, Addendum No.2 y Addendum No. 3, contentivos en los Acuerdos No.
-
-176-2018, Acuerdo No. 212-2019, Acuerdo No. 117-2020, publicados en el Diario Oficial “La Gaceta” en las fechas, 27 de septiembre del 2018, 13 de diciembre del 2019 y 05 de diciembre 2020, respectivamente.
+CONSIDERANDO: Que en fecha 02 de abril de 2018, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, suscrito entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA, SEMOLAS DE HONDURAS, S.A.), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), Consejo Nacional Campesino (CNC), Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo Ejecutivo No. 084-2018, publicado en el Diario Oficial “La Gaceta” en fecha 05 de junio del 2018, mismo que fue modificado mediante Addendum No. 1, Addendum No. 2 y Addendum No. 3, contentivos en los Acuerdos No. 176-2018, Acuerdo No. 212-2019, Acuerdo No. 117-2020, publicados en el Diario Oficial “La Gaceta” en las fechas, 27 de septiembre del 2018, 13 de diciembre del 2019 y 05 de diciembre 2020, respectivamente.
 
 CONSIDERANDO: Que la Industria de Harinas de Maíz y Alimentos para Consumo Humano, ha determinado suscribir un convenio con las Asociaciones de Productores de Maíz, en apoyo al productor del campo para la compra de la producción nacional de maíz, producto de las negociaciones de alianzas estratégicas compra venta de maíz, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 numeral 11, de la Constitución de la República; 33, 116, 118, 119 numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Ejecutivo PCM-008-97; Decreto No.129 y Decreto No. 222- 92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas.
+En uso de las facultades y en aplicación de los Artículos 245 numeral 11, de la Constitución de la República; 33, 116, 118, 119 numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Ejecutivo PCM-008-97; Decreto No. 129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas.
 
 ACUERDA:
 
@@ -65,7 +63,7 @@ Las organizaciones que suscriben el presente Convenio solicitan a las Secretarí
 
 a) La Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA ), aseguran a los productores nacionales que acrediten mediante el respectivo carné, que forman parte de cualquiera de las Organizaciones de Productores de maíz blanco firmantes del presente Convenio, continuar con la compra de maíz nacional correspondiente al Ciclo Agrícola 2021-2022, del compromiso pactado 1,275,000.00 QQ, la diferencia pendiente de 560,811.46 QQ del periodo comprendido 28 de enero de 2022 al 31 de agosto de 2022, a los productores que dispongan de este grano. Asimismo, asegura la compra mínima de 1,275,000.00 QQ de maíz seco para el Ciclo Agrícola 2022-2023, conforme al siguiente cuadro:
 
-Nombre de Compromiso de Cantidad QQ la Empresa Compra QQ Ciclo Agrícola comprada al 31 de diciembre 2021-2022 del 2021 Cantidad QQ Compromiso de Compra QQ Ciclo Agrícola 2022-2023 Pendientes del Ciclo Agrícola 2021- 2022 DEMAHSA 750,000.00 440,594.06 309,405.94 750,000.00 IMSA 300,000.00 109,648.82 190,351.18 300,000.00 MATURAVE 150,000.00 96,889.46 53,110.54 150,000.00 ALBECASA 75,000.00 67,056.20 7,943.80 75,000.00 TOTAL 1,275,000.00 714,188.54 560,811.46 1,275,000.00 A fin de dar continuidad con el proceso de compra del Ciclo Agrícola 2021-2022, serán incluidas en el Segundo Corte para efecto de las importaciones las compras efectuadas del 01 al 27 de enero de 2022, manteniendo las condiciones de la relación de compra/importación y precio, determinados en el Acuerdo Ejecutivo No.117-2020.
+Nombre de Compromiso de Cantidad QQ la Empresa Compra QQ Ciclo Agrícola comprada al 31 de diciembre 2021-2022 del 2021 Cantidad QQ Compromiso de Compra QQ Ciclo Agrícola 2022-2023 Pendientes del Ciclo Agrícola 2021-2022 DEMAHSA 750,000.00 440,594.06 309,405.94 750,000.00 IMSA 300,000.00 109,648.82 190,351.18 300,000.00 MATURAVE 150,000.00 96,889.46 53,110.54 150,000.00 ALBECASA 75,000.00 67,056.20 7,943.80 75,000.00 TOTAL 1,275,000.00 714,188.54 560,811.46 1,275,000.00 A fin de dar continuidad con el proceso de compra del Ciclo Agrícola 2021-2022, serán incluidas en el Segundo Corte para efecto de las importaciones las compras efectuadas del 01 al 27 de enero de 2022, manteniendo las condiciones de la relación de compra/importación y precio, determinados en el Acuerdo Ejecutivo No. 117-2020.
 
 b) El periodo de cosecha nacional iniciará el primero (01) de septiembre y finaliza el treinta y uno (31) de agosto de cada año. Los volúmenes para los siguientes años que se enmarcan en este Convenio, serán negociados a más tardar en el mes de junio de cada año, mediante la suscripción del respectivo Addendum.
 
@@ -175,7 +173,7 @@ El sistema de muestreo del maíz blanco se hará al azar, usando el bastón como
 
 Este muestreo se hará en presencia del Productor o un representante de las Organizaciones de Productores firmantes del Convenio.
 
-Forma parte del presente Convenio el procedimiento de muestreo del maíz blanco, el cual se adjunta como anexo No.1.
+Forma parte del presente Convenio el procedimiento de muestreo del maíz blanco, el cual se adjunta como anexo No. 1.
 
 10. DEL CONTROL, VERIFICACION, SUPERVISION Y GEORREFERENCIACION DE AREA PARA LA COMERCIALIZACION.
 
@@ -375,9 +373,9 @@ CAMIONES DE 5 A 10 TM ( 110 a 220 qq)
 
 4 PUNTOS EN ZIGZAG
 
-X X X X
+XXXX
 
-´ CAMIONES DE 10 A 25 TM en adelante ( 220 qq a 550 qq o mas ) 8 puntos en zigzag X X X X X X X X
+´ CAMIONES DE 10 A 25 TM en adelante ( 220 qq a 550 qq o mas ) 8 puntos en zigzag XXXX XXXX
 
 5. Una vez determinadas las muestras cuyo tamaño mínimo en suma no debe ser menor de 2 kilos (4.4 Lb) se procede a su homogenización a través del cuarteo manual o con un equipo especial llamado Boerner para reducir su tamaño a 250 gr.
 

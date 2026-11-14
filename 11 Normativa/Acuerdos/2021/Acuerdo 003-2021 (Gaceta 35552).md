@@ -11,7 +11,7 @@ paginas: "A. 1 - 26"
 sumario: "Acuerdo No. 003-2021 Acuerdo No. 005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210323-35552/download"
 extraido: "2026-11-14"
-huella: "c9a3a7a2c1a21e37"
+huella: "932f8366fff272c7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 145) estable
 
 CONSIDERANDO: Que la ley de Simplificación Administrativa en su artículo 3) instituye que: “Todo Órgano del Estado tiene la obligación de realizar, permanentemente, diagnósticos y análisis sobre los diferentes trámites y procedimientos administrativos que deban seguirse en sus dependencias, a fin de diseñar medidas de simplificación las cuales deberán ser adoptadas de acuerdo a los objetivos de la Ley de Simplificación Administrativa.
 
-CONSIDERANDO: Que por mandato Presidencial mediante Decreto PCM-032-2017, de fecha 28 de abril del 2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017 y reformado los Artículos 1, 4, 6, 7 y 10 del PCM-032-2017, mediante Decreto Ejecutivo No. PCM-013- 2020, publicado en Diario Oficial “La Gaceta” en fecha 03 de septiembre del año 2020, se crea la Agencia de Regulación Sanitaria (ARSA) como una Entidad Desconcentrada de la Secretaría de Estado en el Despacho de Salud (SESAL) adscrita al Gabinete Sectorial de Desarrollo e Inclusión Social, con independencia funcional, técnica, financiera, administrativa y de seguridad nacional, con personalidad jurídica, responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias, con competencia a nivel nacional…
+CONSIDERANDO: Que por mandato Presidencial mediante Decreto PCM-032-2017, de fecha 28 de abril del 2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017 y reformado los Artículos 1, 4, 6, 7 y 10 del PCM-032-2017, mediante Decreto Ejecutivo No. PCM-013-2020, publicado en Diario Oficial “La Gaceta” en fecha 03 de septiembre del año 2020, se crea la Agencia de Regulación Sanitaria (ARSA) como una Entidad Desconcentrada de la Secretaría de Estado en el Despacho de Salud (SESAL) adscrita al Gabinete Sectorial de Desarrollo e Inclusión Social, con independencia funcional, técnica, financiera, administrativa y de seguridad nacional, con personalidad jurídica, responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias, con competencia a nivel nacional…
 
 CONSIDERANDO: Que el Código de Salud en su artículo
 
@@ -239,7 +239,7 @@ DÉCIMO: Las correcciones institucionales que el peticionario encuentre previo a
 
 DÉCIMO PRIMERO: Los plazos en días hábiles, comenzarán a correr una vez que el interesado presente la solicitud y que la misma contenga todos los requisitos técnicos/legales correspondientes, los cuales deberán ser conforme a lo solicitado; en caso de existir requerimiento el plazo de resolución empezará a partir de la subsanación de lo requerido.
 
-DÉCIMO SEGUNDO: El presente Acuerdo deja sin Valor y Efecto los numerales resolutivos siguientes: NOVENO del Acuerdo No. 091-2018; CUARTO del Acuerdo No. 082- 2019 y SÉPTIMO y OCTAVO del Acuerdo No. 012-2020, así como cualquier otra disposición que se oponga.
+DÉCIMO SEGUNDO: El presente Acuerdo deja sin Valor y Efecto los numerales resolutivos siguientes: NOVENO del Acuerdo No. 091-2018; CUARTO del Acuerdo No. 082-2019 y SÉPTIMO y OCTAVO del Acuerdo No. 012-2020, así como cualquier otra disposición que se oponga.
 
 El presente Acuerdo entrará en vigencia a partir de la fecha de publicación en el Diario Oficial “La Gaceta”.
 

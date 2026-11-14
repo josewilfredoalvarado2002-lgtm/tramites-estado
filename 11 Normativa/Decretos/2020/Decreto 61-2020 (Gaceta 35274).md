@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Nos. 61-2020, 71-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200605-35274/download"
 extraido: "2026-11-14"
-huella: "c1e8479eb8e09db7"
+huella: "52ec94e8d2d84b9f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 61-2020
@@ -29,9 +29,7 @@ huella: "c1e8479eb8e09db7"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que con el fin de armonizar la normativa nacional que rige el subsector eléctrico con el Tratado Marco del Mercado Eléctrico de América Central, del cual Honduras es signataria y cuyo objetivo es el desarrollo de la Industria Eléctrica en beneficio de los habitantes de la región, se consideró necesario actualizar la organización y las reglas de funcionamiento de la industria eléctrica del país, incorporando estructuras prácticas y modernas, para lo cual se aprobó la Ley General de la Industria Eléctrica mediante Decreto No.
-
-404-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 20 de Mayo de 2014, Edición No.33,431.
+CONSIDERANDO: Que con el fin de armonizar la normativa nacional que rige el subsector eléctrico con el Tratado Marco del Mercado Eléctrico de América Central, del cual Honduras es signataria y cuyo objetivo es el desarrollo de la Industria Eléctrica en beneficio de los habitantes de la región, se consideró necesario actualizar la organización y las reglas de funcionamiento de la industria eléctrica del país, incorporando estructuras prácticas y modernas, para lo cual se aprobó la Ley General de la Industria Eléctrica mediante Decreto No. 404-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 20 de Mayo de 2014, Edición No. 33,431.
 
 CONSIDERANDO: Que en el Artículo 3 de la Ley General de la Industria Eléctrica se crea la Comisión Reguladora de Energía Eléctrica (CREE) como entidad Desconcentrada del Gabinete Sectorial de Conducción y Regulación Económica, con independencia funcional, presupuestaria y facultades administrativas suficientes para asegurar habilidad técnica y financiera necesaria para el cumplimiento de sus objetivos, desarrollándose en dicho artículo su funcionamiento y atribuciones.
 
@@ -43,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el primer párrafo, reformar el literal G), y adicionar 4 párrafos al inciso H, del Artículo 3, y el Artículo 18, todos del Decreto No.404-2013, de fecha 20 de Enero del 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 20 de Mayo de 2014, Edición No.33,431 que contiene la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, los que deben leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar el primer párrafo, reformar el literal G), y adicionar 4 párrafos al inciso H, del Artículo 3, y el Artículo 18, todos del Decreto No. 404-2013, de fecha 20 de Enero del 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 20 de Mayo de 2014, Edición No. 33,431 que contiene la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, los que deben leerse de la siguiente manera:
 
 “ARTÍCULO 3.- Se crea la Comisión Reguladora de Energía Eléctrica (CREE) como un Órgano Desconcentrado adscrito a la Presidencia de la República, la Comisión actuará en el marco de sus atribuciones con independencia funcional y presupuestaria, con facultades administrativas suficientes para el cumplimiento de sus objetivos según lo dispuesto en el presente Artículo.
 
@@ -91,7 +89,7 @@ V. Estar en el pleno …, y;
 
 VI. No ser miembro…
 
-D . P R O C E D I M I E N T O D E SELECCIÓN DE LOS …
+D . PROCEDIMIENTO DE SELECCIÓN DE LOS …
 
 En caso de renuncia… Cuando se trate de … E. NOMINACIÓN DEL… Los Comisionados… F. FUNCIONES DE LA COMISIÓN…
 

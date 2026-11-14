@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 153-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220205-35841/download"
 extraido: "2026-11-14"
-huella: "93e5a59ab7786302"
+huella: "f2b87e15294c7804"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 153-2021
@@ -35,25 +35,25 @@ CONSIDERANDO: Que las condiciones objetivas de la amnistía tributaria exigen la
 
 CONSIDERANDO: Que existen muchos créditos contenidos en multas impuestas por órganos de la administración pública, las que constituyen el principal, sobre el cual se han generado penalidades contentivas de intereses y recargos, cuyo pago, cumpliría la finalidad perseguida por la amnistía tributaria.
 
-CONSIDERANDO: Que mediante Decreto No.9-2021 publicado en el Diario Oficial “La Gaceta”, edición No.35,536 en fecha 6 de marzo del 2021 se reformó el numeral 5), del
+CONSIDERANDO: Que mediante Decreto No. 9-2021 publicado en el Diario Oficial “La Gaceta”, edición No. 35,536 en fecha 6 de marzo del 2021 se reformó el numeral 5), del
 
-Artículo 4, del Decreto No.188-2020 de fecha 7 de enero del 2021, publicado en el Diario Oficial “La Gaceta” en fecha 4 de febrero del 2021, edición No.35,506, se concede el beneficio de amnistía y se autoriza para que por un período de un año y con carácter excepcional a las disposiciones contenidas en el Artículo 21 de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público.
+Artículo 4, del Decreto No. 188-2020 de fecha 7 de enero del 2021, publicado en el Diario Oficial “La Gaceta” en fecha 4 de febrero del 2021, edición No. 35,506, se concede el beneficio de amnistía y se autoriza para que por un período de un año y con carácter excepcional a las disposiciones contenidas en el Artículo 21 de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público.
 
 CONSIDERANDO: Que dadas las condiciones de vulnerabilidad que persisten en la población hondureña y principalmente en el sector productivo debido a la pandemia y los fenómenos naturales acaecidos en nuestro territorio, se hace necesario aprobar una nueva amnistía a fin otorgar un alivio económico en las finanzas de la población y sector productivo afectados que les permita ponerse al día con sus pagos sin la imposición de multas, recargos o interés.
 
-CONSIDERANDO: Que los motivos accidentales que sustentan la extensión del plazo de la amnistía contenida en el Decreto No.129-2017, sustentan, además, el concepto más amplio de aplicación de la misma, favoreciendo bilateralmente las finanzas estatales al permitirle una rápida recuperación de los adeudos insolutos y las finanzas del contribuyente y/o sujeto pasivo, al permitirle un pronto pago de la obligación exigible, absolviendo las penalidades por mora.
+CONSIDERANDO: Que los motivos accidentales que sustentan la extensión del plazo de la amnistía contenida en el Decreto No. 129-2017, sustentan, además, el concepto más amplio de aplicación de la misma, favoreciendo bilateralmente las finanzas estatales al permitirle una rápida recuperación de los adeudos insolutos y las finanzas del contribuyente y/o sujeto pasivo, al permitirle un pronto pago de la obligación exigible, absolviendo las penalidades por mora.
 
-CONSIDERANDO: Que existe una omisión legislativa contenida en el Artículo 1 Decreto No.129-2017, ya que en su ejecución puede representar una dificultad para los órganos de la administración pública aplicar la amnistía tributaria a los créditos que no han sido considerados expresa y literalmente en el texto del Artículo, pero que en su espíritu albergan la misma finalidad: sanear las finanzas públicas permitiendo el pago de créditos insolutos de los sujetos pasivos y sanear las finanzas de los contribuyentes absolviendo las penalidades generadas por créditos principales.
+CONSIDERANDO: Que existe una omisión legislativa contenida en el Artículo 1 Decreto No. 129-2017, ya que en su ejecución puede representar una dificultad para los órganos de la administración pública aplicar la amnistía tributaria a los créditos que no han sido considerados expresa y literalmente en el texto del Artículo, pero que en su espíritu albergan la misma finalidad: sanear las finanzas públicas permitiendo el pago de créditos insolutos de los sujetos pasivos y sanear las finanzas de los contribuyentes absolviendo las penalidades generadas por créditos principales.
 
 CONSIDERANDO: Que existen muchos créditos contenidos en multas impuestas por órganos de la administración pública, las que constituyen el principal, sobre el cual se han generado penalidades contentivas de intereses y recargos, cuyo pago, cumpliría la finalidad perseguida por la amnistía tributaria.
 
-CONSIDERANDO: Que ha sido la intención legislativa de esta Cámara Parlamentaria, que en la amnistía tributaria establecida en el Artículo 1 del Decreto No.129-2017, se considere como integrante de la misma, todo crédito estatal, cuyo pago permita la doble función aludida en el considerando anterior, generando el pago inmediato y la liberación de las penalidades accesorias de la mora, incluyendo aquellos créditos establecidos y fijados por una multa, cuando ésta (multa) tiene el carácter de principal, ya que es la mora de dicho crédito la que genera la imposición de accesorios (intereses y recargos).
+CONSIDERANDO: Que ha sido la intención legislativa de esta Cámara Parlamentaria, que en la amnistía tributaria establecida en el Artículo 1 del Decreto No. 129-2017, se considere como integrante de la misma, todo crédito estatal, cuyo pago permita la doble función aludida en el considerando anterior, generando el pago inmediato y la liberación de las penalidades accesorias de la mora, incluyendo aquellos créditos establecidos y fijados por una multa, cuando ésta (multa) tiene el carácter de principal, ya que es la mora de dicho crédito la que genera la imposición de accesorios (intereses y recargos).
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -95,13 +95,13 @@ h. Non Salvageable Part”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 1 numeral 1) del Decreto No.129-2017, únicamente para incorporar el literal i), el cual debe leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar el Artículo 1 numeral 1) del Decreto No. 129-2017, únicamente para incorporar el literal i), el cual debe leerse de la manera siguiente:
 
 “i) Pagar las multas impuestas por cualquier órgano de la administración pública, que se encuentren firmes y pendientes de pago al 31 de Enero del año 2022, sin intereses, recargos o penalidades, estén o no amparados en planes de pago y que se podrán diferir su pago hasta en ocho (8) años”.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Interpretar el Artículo 1 del Decreto No.129- 2017, específicamente en su literal e) bajo el concepto que el término “DEUDA TRIBUTARIA Y ADUANERA” incluye aquellos créditos a favor del Estado que estén fijados por una Multa, independientemente del órgano de la administración pública que lo haya establecido o fijado.
+ARTÍCULO 3.- Interpretar el Artículo 1 del Decreto No. 129-2017, específicamente en su literal e) bajo el concepto que el término “DEUDA TRIBUTARIA Y ADUANERA” incluye aquellos créditos a favor del Estado que estén fijados por una Multa, independientemente del órgano de la administración pública que lo haya establecido o fijado.
 
 En tal sentido, se les instruye a todos los encargados de oficinas administrativas y titulares de órganos de la administración pública, aplicar el Decreto de Amnistía Tributaria, inclusive sobre los intereses, recargos y penalidades que se hayan generado por la mora en el pago de “multas” cuando éstas tengan el carácter de obligación principal, es decir que constituyan el crédito principal perseguido por el Estado”.
 

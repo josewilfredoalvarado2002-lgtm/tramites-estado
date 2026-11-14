@@ -11,7 +11,7 @@ paginas: "A. 1 - 112"
 sumario: "Acuerdo No. J.D. 001-20-12-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240305-36477/download"
 extraido: "2026-11-14"
-huella: "83a3ca35ac434370"
+huella: "2b34a4b3ca07d10e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. J.D. 001-20-12-2023
@@ -27,19 +27,19 @@ huella: "83a3ca35ac434370"
 
 ## Texto
 
-Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO No. J.D. 001-20-12-2023 El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 001-20-12- 2023, aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
+Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO No. J.D. 001-20-12-2023 El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA el Acuerdo número J.D. 001-20-12-2023, aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 360/2023, celebrada en fecha veinte
 
 (20) de diciembre del año dos mil veintitrés (2023), el cual literalmente dice:
 
-C O N S E J O N A C I O N A L S U P E R V I S O R D E COOPERATIVAS. - CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, municipio del Distrito Central, a los veinte (20) días del mes de diciembre del año dos mil veintitrés (2023).
+CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS. - CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, municipio del Distrito Central, a los veinte (20) días del mes de diciembre del año dos mil veintitrés (2023).
 
 CONSIDERANDO (1):
 
-Que la Constitución de la República en su Artículo 338, establece la obligación del Estado en la Regulación y el Fomento de las Cooperativas; para lo cual, el Congreso Nacional, mediante Decreto AVANCE No.174-2013, publicado en el Diario Oficial La Gaceta el 1 de febrero de 2014, aprobó las reformas de la Ley de Cooperativas de Honduras contenida en el Decreto No.65- 87 del 30 de abril de 1987 y su reforma según el Decreto 146- 2019 de fecha 11 de enero de 2020.
+Que la Constitución de la República en su Artículo 338, establece la obligación del Estado en la Regulación y el Fomento de las Cooperativas; para lo cual, el Congreso Nacional, mediante Decreto AVANCE No. 174-2013, publicado en el Diario Oficial La Gaceta el 1 de febrero de 2014, aprobó las reformas de la Ley de Cooperativas de Honduras contenida en el Decreto No. 65-87 del 30 de abril de 1987 y su reforma según el Decreto 146-2019 de fecha 11 de enero de 2020.
 
 CONSIDERANDO (2):
 
-Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decreto No.174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación.
+Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decreto No. 174-2013, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación Cooperativa y autoridad de control de los entes cooperativos, así como, las regulaciones y normativas que emita el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y demás marco legal aplicable a su operación.
 
 CONSIDERANDO (3):
 
@@ -47,27 +47,27 @@ Que de conformidad a lo dispuesto en el literal a) del artículo 95 de la Ley de
 
 CONSIDERANDO (4):
 
-Que mediante Acuerdo No.041-2014, publicado en el Diario Oficial La Gaceta el 16 de junio de 2014, se emitió el Reglamento de la Ley de Cooperativas de Honduras, que contiene las disposiciones complementarias necesarias para la aplicación de la Ley de Cooperativas de Honduras, reformada mediante Decreto No.174-2013, donde se establece en artículo 48, literal
+Que mediante Acuerdo No. 041-2014, publicado en el Diario Oficial La Gaceta el 16 de junio de 2014, se emitió el Reglamento de la Ley de Cooperativas de Honduras, que contiene las disposiciones complementarias necesarias para la aplicación de la Ley de Cooperativas de Honduras, reformada mediante Decreto No. 174-2013, donde se establece en artículo 48, literal
 
 l) que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), dirigirá la supervisión del sistema cooperativo de ahorro y crédito, bajo normativas prudenciales conforme a lo dispuesto en el artículo 103 numeral 5) de la Ley, siendo entre otras, las Normas para la Prevención y Detección del Lavado de Activos y Financiamiento del Terrorismo (LA/FT), con el propósito de que las mismas implementen políticas, procedimientos específicos y metodologías para la identificación de los cooperativistas que hacen uso de los servicios y productos que prestan, así como el mantenimiento, disponibilidad de registros y notificación de sus transacciones financieras y sospechosas.
 
 CONSIDERANDO (5):
 
-Que el Congreso Nacional, mediante Decreto No.144- 2014, publicado en el Diario Oficial La Gaceta el 30 de abril del 2015, aprobó la Ley Especial Contra el Lavado de Activos y mediante Decreto No.241-2010, publicado en el Diario Oficial La Gaceta el 11 de Diciembre del 2010, aprobó la Ley Contra el Financiamiento al Terrorismo, las que tienen como finalidad establecer las medidas y acciones atinentes al sistema de prevención, control y combate del Lavado de Activos y Financiamiento del Terrorismo (LA/FT), así como, dar cumplimiento a las obligaciones que sobre el tema se encuentren contenidas en los convenios e instrumentos internacionales suscritos y ratificados por la República de Honduras.
+Que el Congreso Nacional, mediante Decreto No. 144-2014, publicado en el Diario Oficial La Gaceta el 30 de abril del 2015, aprobó la Ley Especial Contra el Lavado de Activos y mediante Decreto No. 241-2010, publicado en el Diario Oficial La Gaceta el 11 de Diciembre del 2010, aprobó la Ley Contra el Financiamiento al Terrorismo, las que tienen como finalidad establecer las medidas y acciones atinentes al sistema de prevención, control y combate del Lavado de Activos y Financiamiento del Terrorismo (LA/FT), así como, dar cumplimiento a las obligaciones que sobre el tema se encuentren contenidas en los convenios e instrumentos internacionales suscritos y ratificados por la República de Honduras.
 
 CONSIDERANDO (6):
 
-Que el Capítulo II, artículos 3 y 4, de la Ley Especial Contra el Lavado de Activos (Decreto Legislativo No.144-2014), crea la Comisión Interinstitucional para la Prevención del Lavado de Activos y Financiamiento del Terrorismo (CIPLAFT), y en artículo 5, numeral 1, dispone que el (CIPLAFT) tiene la función de elaborar la estrategia nacional de prevención, control y combate en materia de lavado de activos y financiamiento al terrorismo.
+Que el Capítulo II, artículos 3 y 4, de la Ley Especial Contra el Lavado de Activos (Decreto Legislativo No. 144-2014), crea la Comisión Interinstitucional para la Prevención del Lavado de Activos y Financiamiento del Terrorismo (CIPLAFT), y en artículo 5, numeral 1, dispone que el (CIPLAFT) tiene la función de elaborar la estrategia nacional de prevención, control y combate en materia de lavado de activos y financiamiento al terrorismo.
 
 CONSIDERANDO (7):
 
-Que en lo dispuesto en el artículo 97 de la Ley de Cooperativas de Honduras reformado mediante Decreto Legislativo No.146- 2019 publicado en el Diario Oficial La Gaceta en fecha 11 enero del 2020, conexo con el
+Que en lo dispuesto en el artículo 97 de la Ley de Cooperativas de Honduras reformado mediante Decreto Legislativo No. 146-2019 publicado en el Diario Oficial La Gaceta en fecha 11 enero del 2020, conexo con el
 
-Artículo 249 del Reglamento de la Ley de Cooperativas de Honduras adicionado en la reforma según Acuerdo No.15- 2021, establece que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), como órgano de supervisión de Cooperativas debe revisar, verificar, controlar, vigilar, fiscalizar a las Cooperativas, asimismo, corresponde a este órgano de supervisión aplicar las sanciones en lo que proceda incluyendo lo relativo al incumplimiento de la Ley Especial Contra el Lavado de Activos y la Ley Contra el Financiamiento al Terrorismo y, para lo cual debe emitir lineamientos especiales, de acuerdo al tamaño de la organización, estructura, recursos y complejidad de las operaciones de las Cooperativas.
+Artículo 249 del Reglamento de la Ley de Cooperativas de Honduras adicionado en la reforma según Acuerdo No. 15-2021, establece que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), como órgano de supervisión de Cooperativas debe revisar, verificar, controlar, vigilar, fiscalizar a las Cooperativas, asimismo, corresponde a este órgano de supervisión aplicar las sanciones en lo que proceda incluyendo lo relativo al incumplimiento de la Ley Especial Contra el Lavado de Activos y la Ley Contra el Financiamiento al Terrorismo y, para lo cual debe emitir lineamientos especiales, de acuerdo al tamaño de la organización, estructura, recursos y complejidad de las operaciones de las Cooperativas.
 
 CONSIDERANDO (8):
 
-Que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), debe emitir las Normas para la Prevención y Detección del Lavado de Activos y Financiamiento del Terrorismo (LA/FT), que regulen el régimen, obligaciones, medidas de control y otros deberes acerca de las obligaciones impuestas para las Cooperativas, como Sujeto Obligados de dar cumplimiento a la Ley Especial Contra el Lavado de Activos (Decreto Legislativo No.144-2014).
+Que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), debe emitir las Normas para la Prevención y Detección del Lavado de Activos y Financiamiento del Terrorismo (LA/FT), que regulen el régimen, obligaciones, medidas de control y otros deberes acerca de las obligaciones impuestas para las Cooperativas, como Sujeto Obligados de dar cumplimiento a la Ley Especial Contra el Lavado de Activos (Decreto Legislativo No. 144-2014).
 
 CONSIDERANDO (9):
 
@@ -75,15 +75,15 @@ Que Honduras está obligada a dar cumplimiento a las Resoluciones del Consejo de
 
 CONSIDERANDO (10):
 
-Que la Comisión Nacional de Bancos y Seguros (CNBS), remitió al Consejo Nacional Supervisor de Cooperativas ( C O N S U C O O P ) , l o s “Lineamientos que debe considerar el Consejo Nacional Supervisor de Cooperativas ( C O N S U C O O P ) e n l a elaboración del Reglamento para la prevención de Lavado de Activos a ser aplicado en el proceso de supervisión, fiscalización y control de las Cooperativas de Ahorro y Crédito a fin de que las mismas cumplan con lo dispuesto en la Ley Especial Contra el Lavado de Activos y la Ley Contra el Financiamiento al Terrorismo.
+Que la Comisión Nacional de Bancos y Seguros (CNBS), remitió al Consejo Nacional Supervisor de Cooperativas ( CONSUCOOP ), l o s “Lineamientos que debe considerar el Consejo Nacional Supervisor de Cooperativas ( CONSUCOOP ) en la elaboración del Reglamento para la prevención de Lavado de Activos a ser aplicado en el proceso de supervisión, fiscalización y control de las Cooperativas de Ahorro y Crédito a fin de que las mismas cumplan con lo dispuesto en la Ley Especial Contra el Lavado de Activos y la Ley Contra el Financiamiento al Terrorismo.
 
 Los lineamientos en referencia, fueron conocidos, analizados, discutidos y consensuados en varias reuniones que al efecto realizó el Comité Interinstitucional integrado por parte del sector cooperativo, por Federación Nacional de Cooperativas Transporte Limitada (FENACOTRAL), Federación Hondureña de Cooperativas Agroforestales Limitada (FEHCAFOR), Federación de Cooperativas Agropecuarias y Empresas Asociativas Campesinas de la Reforma Agraria de Honduras Limitada (FECORAH), La Central de Cooperativas Cafetaleras de Honduras (La Central), Unión de Cooperativas de Occidente (UCDOL), Unión de Cooperativas Cafetaleras y de Servicios Agropecuarios Limitada (UNIOCOOP), Asociación Hondureña de Productores de Café (AHPROCAFE), Federación de Cooperativas de Vivienda Social de Honduras Limitada (FECOVISOHL), Asociación Campesina Nacional (ACAN), Federación Hondureña de Cooperativas de Ahor r o y Cr éditos Limitada (FEHCACREL) y Federación de Cooperativas de Ahorro y Crédito de Honduras (FACACH), algunas Cooperativas representantes al sector de Cooperativas de Ahorro y Crédito Afiliadas a dichas federaciones, por otro lado, el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) y en consulta con la Unidad de Inteligencia Financiera (UIF).
 
 POR TANTO:
 
-Con fundamento en los artículos 338 de la Constitución de la Republica de Honduras; 93, 95 literal a), 96 numeral 12), 97, 98, 97-A y 98-A de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No. 174-2013 y No.146- 2019; Ley Especial Contra el Lavado de Activos aprobada mediante Decreto Legislativo No.144-2014;
+Con fundamento en los artículos 338 de la Constitución de la Republica de Honduras; 93, 95 literal a), 96 numeral 12), 97, 98, 97-A y 98-A de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No. 174-2013 y No. 146-2019; Ley Especial Contra el Lavado de Activos aprobada mediante Decreto Legislativo No. 144-2014;
 
-Ley Contra el Financiamiento del Terrorismo aprobada mediante Decreto 241-2010 y 48 literal l), 249 y 250, del Reglamento de la Ley de Cooperativas de Honduras contenido en Acuerdo No.041-2014 y Acuerdo No.15-2021.
+Ley Contra el Financiamiento del Terrorismo aprobada mediante Decreto 241-2010 y 48 literal l), 249 y 250, del Reglamento de la Ley de Cooperativas de Honduras contenido en Acuerdo No. 041-2014 y Acuerdo No. 15-2021.
 
 ACUERDA
 
@@ -145,7 +145,7 @@ Para efectos de la presente Normativa, se consideran en esta clasificación a la
 
 16. AFILIADO(A): Es la persona natural o jurídica afiliada(o) a una Cooperativa conforme a la Ley y Reglamento de Cooperativas de Honduras.
 
-17. D E B I D A D I L I G E N C I A C O N E L COOPERATIVISTA / AFILIADO(A) O NO AFILIADO (DDC): es el conjunto de acciones, actividades, procedimientos y políticas desarrolladas por la Cooperativa para lograr el adecuado conocimiento de las contrapartes relacionadas, tanto actuales como potenciales y las actividades que estos realizan con la misma.
+17. DEBIDA DILIGENCIA CON EL COOPERATIVISTA / AFILIADO(A) O NO AFILIADO (DDC): es el conjunto de acciones, actividades, procedimientos y políticas desarrolladas por la Cooperativa para lograr el adecuado conocimiento de las contrapartes relacionadas, tanto actuales como potenciales y las actividades que estos realizan con la misma.
 
 18. DE-RISKING O LA NO GESTIÓN DEL RIESGO:
 
@@ -163,9 +163,9 @@ b. PRODUCTOS / SERVICIOS: Los productos y/o servicios (internos o externos) son 
 
 c. CANALES DE DISTRIBUCIÓN: Los canales que utiliza la Cooperativa para la distribución de sus productos y/o servicios, pueden ser internos y externos.
 
-d. Á R E A S
+d. ÁREAS
 
-G E O G R Á F I C A S
+GEOGRÁFICAS
 
 O JURISDICCIONES: es el territorio, zona, regiones o países en los que opera la Cooperativa.
 
@@ -821,7 +821,7 @@ INFORMACIÓN. En el proceso de debida diligencia, si la Cooperativa tiene dudas 
 
 Si la Cooperativa sospecha de actividades ilícitas y cree que alertaría al cooperativista al efectuar acciones de debida diligencia, debe presentar un ROS a la UIF y documentar la razón por la cual no se realizaron las acciones de Debida Diligencia con el Cooperativista.
 
-A R T Í C U L O 5 0 . - M E D I D A S D E D E B I D A DILIGENCIA NORMALES DE IDENTIFICACIÓN Y CONOCIMIENTO DEL AFILIADO(A), NO AFILIADO(A) O CONTRAPARTE. Para efectos de dar cumplimiento a esta medida, el expediente del cooperativista / afiliado(a), no afiliado(a), contraparte, usuario o beneficiario final nuevo o de un cooperativista o contraparte ya existente que contrate un nuevo producto o servicio debe contener como mínimo lo descrito en el Anexo 12 de la presente Normativa.
+ARTÍCULO 5 0 . - MEDIDAS DE DEBIDA DILIGENCIA NORMALES DE IDENTIFICACIÓN Y CONOCIMIENTO DEL AFILIADO(A), NO AFILIADO(A) O CONTRAPARTE. Para efectos de dar cumplimiento a esta medida, el expediente del cooperativista / afiliado(a), no afiliado(a), contraparte, usuario o beneficiario final nuevo o de un cooperativista o contraparte ya existente que contrate un nuevo producto o servicio debe contener como mínimo lo descrito en el Anexo 12 de la presente Normativa.
 
 Respecto al afiliado(a) de la Cooperativa de Ahorro y Crédito que haga uso de Cuentas Básicas, la identificación se manejará de acuerdo con lo establecido en la Norma especifica aprobada por el CONSUCOOP.
 
@@ -1147,11 +1147,11 @@ PARA EL LA/FT (TIPOLOGÍAS). La Cooperativa debe incorporar en sus procedimiento
 
 #### Artículo 74
 
-ARTÍCULO 74.- MONITOREO Y DESARROLLO T E C N O L Ó G I C O P A R A D E T E C C I Ó N D E OPERACIONES INUSUALES. Se establece la obligación a la Cooperativa de realizar un monitoreo y seguimiento continuo de todas las transacciones u operaciones que se realicen con el fin de garantizar que sean congruentes con el perfil transaccional y las operaciones del mercado.
+ARTÍCULO 74.- MONITOREO Y DESARROLLO TECNOLÓGICO PARA DETECCIÓN DE OPERACIONES INUSUALES. Se establece la obligación a la Cooperativa de realizar un monitoreo y seguimiento continuo de todas las transacciones u operaciones que se realicen con el fin de garantizar que sean congruentes con el perfil transaccional y las operaciones del mercado.
 
 La Cooperativa podrá adoptar un sistema informático o alterno que permitan generar alertas de manera automática y oportuna, en todo caso se debe mantener una documentación detallada de la configuración del proceso, el modelo de monitoreo, las condiciones, la parametrización o las reglas que establecen las situaciones que generan alertas, los objetivos, fines, criterios y periodicidad de operación de dichas condiciones, aspectos que deben considerarse en la definición del SGCR de LA/FT (Ver Anexos 1. a y b).
 
-A R T Í C U L O 7 5 . - C A P A C I T A C I Ó N D E COLABORADORES PARA EL CONTROL DE OPERACIONES. En su programa anual la Cooperativa debe ejecutar un plan de capacitación para los empleados encargados del control de las operaciones. Este plan debe incluir talleres prácticos para desarrollar habilidades que permitan la detección de operaciones inusuales y es necesario para la adecuada aplicación de los instrumentos y procedimientos internos para el análisis de tales operaciones.
+ARTÍCULO 7 5 . - CAPACITACIÓN DE COLABORADORES PARA EL CONTROL DE OPERACIONES. En su programa anual la Cooperativa debe ejecutar un plan de capacitación para los empleados encargados del control de las operaciones. Este plan debe incluir talleres prácticos para desarrollar habilidades que permitan la detección de operaciones inusuales y es necesario para la adecuada aplicación de los instrumentos y procedimientos internos para el análisis de tales operaciones.
 
 #### Artículo 76
 
@@ -1235,7 +1235,7 @@ Reportar el listado de los afiliados(as) describiendo: persona natural, el nombr
 
 f. Cualquier otro requerimiento que la CNBS y CONSUCOOP consideren pertinente.
 
-A R T Í C U L O 8 5 . - R E Q U E R I M I E N T O S D E INFORMACIÓN Y OTRAS DISPOSICIONES COMPLEMENTARIAS. La UIF de acuerdo con sus competencias podrá emitir los siguientes tipos de requerimientos de información:
+ARTÍCULO 8 5 . - REQUERIMIENTOS DE INFORMACIÓN Y OTRAS DISPOSICIONES COMPLEMENTARIAS. La UIF de acuerdo con sus competencias podrá emitir los siguientes tipos de requerimientos de información:
 
 a. (RJ) Requerimientos Judiciales. Corresponde a requerimientos de información que tiene origen en orden judicial, vinculados con investigaciones de lavado de activos, sus delitos fuentes y financiamiento del terrorismo.
 
@@ -1411,7 +1411,7 @@ ARTÍCULO 104.- SANCIONES. Sin perjuicio de la responsabilidad penal en que pudi
 
 La distribución y uso de la multa se realizará conforme a lo establecido en el artículo 97-A de la Ley de Cooperativas de Honduras.
 
-A R T Í C U L O 1 0 5 . - C L A S I F I C A C I Ó N D E COOPERATIVAS PARA EFECTOS DE APLICACIÓN DE SANCIONES. La clasificación de las infracciones y la determinación de las multas se regirán por los salarios mínimos estipulados en el Artículo 97-A de la LCH. Las sanciones se calcularán considerando la gravedad, naturaleza de la infracción y el perjuicio causado, según la categoría del Artículo 12 de esta Normativa. El procedimiento administrativo, conforme al Capítulo V del Reglamento a la Ley de Cooperativas de Honduras, se ajustará al debido proceso. Se tomarán en cuenta las circunstancias de la falta y se aplicarán los artículos 6 y 13 de la LCH. Además, se considerarán las clasificaciones técnicas de cumplimiento, sus porcentajes, así como los factores eximentes y atenuantes detallados en el Anexo 14 de esta normativa.
+ARTÍCULO 1 0 5 . - CLASIFICACIÓN DE COOPERATIVAS PARA EFECTOS DE APLICACIÓN DE SANCIONES. La clasificación de las infracciones y la determinación de las multas se regirán por los salarios mínimos estipulados en el Artículo 97-A de la LCH. Las sanciones se calcularán considerando la gravedad, naturaleza de la infracción y el perjuicio causado, según la categoría del Artículo 12 de esta Normativa. El procedimiento administrativo, conforme al Capítulo V del Reglamento a la Ley de Cooperativas de Honduras, se ajustará al debido proceso. Se tomarán en cuenta las circunstancias de la falta y se aplicarán los artículos 6 y 13 de la LCH. Además, se considerarán las clasificaciones técnicas de cumplimiento, sus porcentajes, así como los factores eximentes y atenuantes detallados en el Anexo 14 de esta normativa.
 
 #### Artículo 106
 
@@ -1447,7 +1447,7 @@ ARTÍCULO 110.- COOPERATIVAS EN LIQUIDACION
 
 Y DISOLUCION. Se exceptúan de la aplicación de la presente Normativa, a las Cooperativas que se encuentren en proceso de liquidación y disolución, sean estas de forma voluntaria o forzosa. No obstante, la DDC debe ser realizada por la Comisión Liquidadora designada por CONSUCOOP.
 
-A R T Í C U L O 1 1 1 . - S O B R E C O N V E N I O S
+ARTÍCULO 1 1 1 . - SOBRE CONVENIOS
 
 INTERNACIONALES. Las disposiciones de conocimiento del cliente, entendiéndose este como el Afiliado(a), no Afiliado(a) o cualquier otra contraparte, no establecidos en convenios internacionales o de Debida Diligencia con el Afiliado(a), no Afiliado(a) o cualquier otra contraparte, suscritos por la República de Honduras son complementarios a lo descrito en la normativa.
 
@@ -2063,7 +2063,7 @@ ARTÍCULO 15.- ESTRUCTURA PARA LA GESTIÓN CUMPLIMIENTO Y LA GESTIÓN DE LOS RIE
 
 LA/FT
 
-Riesgos) X X X X X
+Riesgos) XXXXX
 
 5. Diseño de Controles LA/FT X X
 
@@ -2093,7 +2093,7 @@ X
 
 #### Artículo 12
 
-ARTÍCULO 12.- CLASIFICACIÓN DE COOPERATIVAS SEGUN CLASE Y NIVEL DE ACTIVOS L250,000,000.01 L500,000,000.0 Entre a E Abierta L2,000,000,000.00 L500,000,000.01 Entre a D ANEXO 3 L100,000,000.01 L500,000,000.00 Entre a C L1,000,000,000.00 L500,000,000.01 Entre a B Cerrada L1,000,000,000.01 L2,000,000,000.00 Entre a A L2,000,000,000.01 Abierta o Mayores a Cifras en Lempiras federaciones: membresía Categoría activos Nivel Tipo de de y Mixtas con actividad principal el ahorro y crédito con Activos hasta un millón de Dólares de los Estados Unidos de América (USD1,000,000.00 Millón) o su equivalente en Administrat Estructura Anexo 3.2 Sin iva H en a a a a hasta a Organizaciones Cooperativas de Ahorro y Créditos y mixtas L10,000,000.00 1 L0.01 L10,000,000.01 L0.01 De De De De De De De G F (Abierta o Cerrada) USD1,000,000.00 su equivalente en Lempiras* Millón o Fuente: Elaboración propia Consucoop, 2023. *De acuerdo a lo establecido en el Artículo 51 de la Ley de Cooperativas de Honduras E 0 L25,000,000.0 Cooperativas de Otros Subsectores y Federaciones, Uniones y 0 D 1 L50,000,000.01 L25,000,000.0 0 L50,000,000.0 Lempiras*. Clasificación es válida para la de aplicación de sanciones.
+ARTÍCULO 12.- CLASIFICACIÓN DE COOPERATIVAS SEGUN CLASE Y NIVEL DE ACTIVOS L250,000,000.01 L500,000,000.0 Entre a E Abierta L2,000,000,000.00 L500,000,000.01 Entre a D ANEXO 3 L100,000,000.01 L500,000,000.00 Entre a C L1,000,000,000.00 L500,000,000.01 Entre a B Cerrada L1,000,000,000.01 L2,000,000,000.00 Entre a A L2,000,000,000.01 Abierta o Mayores a Cifras en Lempiras federaciones: membresía Categoría activos Nivel Tipo de de y Mixtas con actividad principal el ahorro y crédito con Activos hasta un millón de Dólares de los Estados Unidos de América (USD1,000,000.00 Millón) o su equivalente en Administrat Estructura Anexo 3.2 Sin iva H en aaaa hasta a Organizaciones Cooperativas de Ahorro y Créditos y mixtas L10,000,000.00 1 L0.01 L10,000,000.01 L0.01 De De De De De De De G F (Abierta o Cerrada) USD1,000,000.00 su equivalente en Lempiras* Millón o Fuente: Elaboración propia Consucoop, 2023. *De acuerdo a lo establecido en el Artículo 51 de la Ley de Cooperativas de Honduras E 0 L25,000,000.0 Cooperativas de Otros Subsectores y Federaciones, Uniones y 0 D 1 L50,000,000.01 L25,000,000.0 0 L50,000,000.0 Lempiras*. Clasificación es válida para la de aplicación de sanciones.
 
 C 0 L100,000,000.0 B
 
@@ -2829,9 +2829,7 @@ D E F
 
 G H Número de salarios mínimos Multa por Aplicar Tipo de Infracción Categoría 7 El Contrato de Auditoría Externa carece y/o sin implementar las cláusulas del informe de la efectividad y funcionamiento de las 8 Sin elaborar la Autoevaluación de los Riesgos, por el funcionario, oficial de cumplimiento o quien haga sus veces y/o Riesgos, 9 Sin desarrollar y/o sin implementar las políticas y procedimiento bajo un enfoque basado en riesgo para gestionar el riesgo de 5 Sin designar al funcionario, oficial de cumplimiento o quien haga sus veces, según el nivel de activos de la Cooperativa y/o no 10 Sin implementar el expediente del cooperativista / afiliado(a), no afiliado, contraparte y usuario, que se establezca la relación, que convenga la información y documentación para identificarlo y conocerlo, incluyendo lo detallado en el Anexo 12 de la Normativa, y LA/FT, tomando en cuenta factores de riesgos a los que se encuentran expuestas, asimismo, el mercado en que opera, Capítulo 6 El Manual de Auditoría Interna carece y/o sin implementar los procedimientos de verificación de la gestión del riesgo de LA/FT.
 
-3. Faltas Muy Graves: (111/8 a 100 salarios mínimos) No.
-
-18 No Cumplir con el Plan Inmediato de Acciones Correctivas, establecido mediante Resolución. Artículo 93, conexos con los Artículos 97 y 102.
+3. Faltas Muy Graves: (111/8 a 100 salarios mínimos) No. 18 No Cumplir con el Plan Inmediato de Acciones Correctivas, establecido mediante Resolución. Artículo 93, conexos con los Artículos 97 y 102.
 
 54 34 24 201/2 151/2 12 113/4 111/5 20 No mantener registros y documentos de debida diligencia y demás documentos con los cooperativistas / afiliados, por el plazo señalado (Articulo 112).
 
@@ -3025,7 +3023,7 @@ III.
 
 Agravantes:
 
-1. Reincidencia en Sanciones: En situaciones de reincidencia, donde una cooperativa incurra nuevamente en una sanción, se aplicará una penalización agravada. La multa correspondiente será duplicada con respecto a la sanción previamente impuesta, de acuerdo con lo dispuesto en el Artículo 97-A de la Ley de Cooperativas de Honduras según Decretos Legislativos No.174-2013 y No.146-2019.
+1. Reincidencia en Sanciones: En situaciones de reincidencia, donde una cooperativa incurra nuevamente en una sanción, se aplicará una penalización agravada. La multa correspondiente será duplicada con respecto a la sanción previamente impuesta, de acuerdo con lo dispuesto en el Artículo 97-A de la Ley de Cooperativas de Honduras según Decretos Legislativos No. 174-2013 y No. 146-2019.
 
 Esta medida busca desincentivar prácticas reiteradas en contravención de las normativas establecidas.
 

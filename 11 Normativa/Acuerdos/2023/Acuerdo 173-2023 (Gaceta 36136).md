@@ -8,10 +8,10 @@ gaceta_numero: 36136
 gaceta_fecha: "2023-01-23"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)|La Gaceta 36136]]"
 paginas: "A. 8 - 12"
-sumario: "Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023"
+sumario: "Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230123-36136/download"
 extraido: "2026-11-14"
-huella: "8f97642e9b2f0f66"
+huella: "b560631c27c208f8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 173-2023
@@ -23,7 +23,7 @@ huella: "8f97642e9b2f0f66"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)\|La Gaceta 36136]] del 2023-01-23 |
 | Páginas | A. 8 - 12 |
-| Según el sumario de La Gaceta | Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que, de conformidad a lo dispuesto en la Ley General de la Adminis
 
 POR TANTO:
 
-En uso de las facultades que esta investido y en aplicación de los artículos: 59, 78, 245 numeral 40, 246, 247, 255 y 323 de la Constitución de la República; 16 de la Convención Americana de los Derechos Humanos; 22 del Pacto Internacional de Derechos Civiles y Políticos; 28, 29 numeral 2.15, 30, 33, 36 numerales l), 2) y 8), 116, 118, 119, y 122 de la Ley General de la Administración Pública; 1, 3, 6, 21, 22, 23, 24, 25, 26, 27, 32 y 65 de la Ley de Procedimiento Administrativo; 21 y 26 de la Ley Especial de fomento para las Organizaciones no Gubernamentales de Desarrollo; 3 numeral 15 y 44 numeral 13 del Decreto Ejecutivo PCM- 055-2017; y 3 y 10 del Acuerdo Ministerial 441-2016, de fecha 12 de julio de 2016.
+En uso de las facultades que esta investido y en aplicación de los artículos: 59, 78, 245 numeral 40, 246, 247, 255 y 323 de la Constitución de la República; 16 de la Convención Americana de los Derechos Humanos; 22 del Pacto Internacional de Derechos Civiles y Políticos; 28, 29 numeral 2.15, 30, 33, 36 numerales l), 2) y 8), 116, 118, 119, y 122 de la Ley General de la Administración Pública; 1, 3, 6, 21, 22, 23, 24, 25, 26, 27, 32 y 65 de la Ley de Procedimiento Administrativo; 21 y 26 de la Ley Especial de fomento para las Organizaciones no Gubernamentales de Desarrollo; 3 numeral 15 y 44 numeral 13 del Decreto Ejecutivo PCM-055-2017; y 3 y 10 del Acuerdo Ministerial 441-2016, de fecha 12 de julio de 2016.
 
 ACUERDA:
 
@@ -63,7 +63,7 @@ En el caso de las Asociaciones que cuentan ya con estatutos, deberá exigirse lo
 
 #### Artículo 3
 
-Artículo 3.- Disposiciones transitorias. Los conflictos de juntas u órganos de gobierno que estén siendo sustanciados con el referido Acuerdo Ministerial 288-2021, será objeto de análisis y resolución a la luz de los Acuerdos Ministeriales 441-2016 de fecha 12 de julio de 2016 y 307- 2017, de fecha 29 de diciembre de 2017.
+Artículo 3.- Disposiciones transitorias. Los conflictos de juntas u órganos de gobierno que estén siendo sustanciados con el referido Acuerdo Ministerial 288-2021, será objeto de análisis y resolución a la luz de los Acuerdos Ministeriales 441-2016 de fecha 12 de julio de 2016 y 307-2017, de fecha 29 de diciembre de 2017.
 
 #### Artículo 4
 

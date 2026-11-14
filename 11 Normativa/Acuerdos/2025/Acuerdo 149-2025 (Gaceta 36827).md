@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número 149-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250502-36827/download"
 extraido: "2026-11-11"
-huella: "2a38babe2e417278"
+huella: "9074182cd0c6274a"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 149-2025
@@ -45,9 +45,9 @@ CONSIDERANDO (6): Que la Ley Orgánica del Presupuesto establece en el artículo
 
 De superarse este lapso, sin ser reembolsadas, se transformarán en deuda pública, encargándose de su formalización la Dirección General de Crédito Público. La emisión de títulos valores de corto plazo para atender insuficiencias estacionales de caja, deberá ser coordinada con el Banco Central de Honduras, para fines de la política monetaria.
 
-CONSIDERANDO (7): Que mediante Acuerdo No.057- 2025 del 4 de febrero del 2025, emitido por la Secretaría de Estado en el Despacho de Finanzas para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, aprobado mediante Decreto Legislativo No.62-2023, anteriormente vigente para el Ejercicio Fiscal 2025, autorizó en el artículo 6 hasta un máximo de VEINTITRÉS MIL NOVECIENTOS OCHENTA MILLONES OCHOCIENTOS OCHENTA Y SEIS MIL L E M P I R A S E X A C T O S (L23,980,886,000.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
+CONSIDERANDO (7): Que mediante Acuerdo No. 057-2025 del 4 de febrero del 2025, emitido por la Secretaría de Estado en el Despacho de Finanzas para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, aprobado mediante Decreto Legislativo No. 62-2023, anteriormente vigente para el Ejercicio Fiscal 2025, autorizó en el artículo 6 hasta un máximo de VEINTITRÉS MIL NOVECIENTOS OCHENTA MILLONES OCHOCIENTOS OCHENTA Y SEIS MIL LEMPIRAS EXACTOS (L23,980,886,000.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/Letras Gobierno de Honduras (GDH).
 
-CONSIDERANDO (8): Que el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, aprobado mediante Decreto Legislativo No.4- 2025 del 5 de febrero de 2025, publicado en el Diario Oficial “La Gaceta” el 6 de febrero de 2025, establece en los artículos 39 y 314 que la negociación de valores se regirá por el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de marzo de 2018 y que se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a realizar operaciones de gestión de pasivos, con el propósito de mitigar riesgos financieros y/o mejorar el perfil de vencimiento de la cartera de la deuda pública. El citado Reglamento establece en el artículo 5 que la formalización del monto a vender y/o comprar durante cada ejercicio fiscal, monto para operaciones de gestión de pasivos y Letras de Tesorería, se realizará mediante un Acuerdo Ministerial.
+CONSIDERANDO (8): Que el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, aprobado mediante Decreto Legislativo No. 4-2025 del 5 de febrero de 2025, publicado en el Diario Oficial “La Gaceta” el 6 de febrero de 2025, establece en los artículos 39 y 314 que la negociación de valores se regirá por el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de marzo de 2018 y que se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a realizar operaciones de gestión de pasivos, con el propósito de mitigar riesgos financieros y/o mejorar el perfil de vencimiento de la cartera de la deuda pública. El citado Reglamento establece en el artículo 5 que la formalización del monto a vender y/o comprar durante cada ejercicio fiscal, monto para operaciones de gestión de pasivos y Letras de Tesorería, se realizará mediante un Acuerdo Ministerial.
 
 CONSIDERANDO (9): Que el artículo 220 del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, establece que se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para emitir instrumentos financieros de corto plazo (Letras de Tesorería) que le permitan cubrir insuficiencias estacionales de caja, cuando las condiciones fiscales y financieras del Estado lo ameriten. Estos instrumentos financieros de corto plazo no tendrán efecto presupuestario en los ingresos y gastos, siempre que sean cancelados en el mismo ejercicio fiscal y sin perjuicio de lo establecido en el artículo 90 de la Ley Orgánica del Presupuesto.
 
@@ -59,7 +59,7 @@ La Secretaría de Estado en el Despacho de Finanzas, en uso de las facultades de
 
 ACUERDA:
 
-PRIMERO: Reformar el artículo PRIMERO del Acuerdo No.057-2025 de fecha 4 de febrero del año 2025, el cual se leerá de la siguiente forma:
+PRIMERO: Reformar el artículo PRIMERO del Acuerdo No. 057-2025 de fecha 4 de febrero del año 2025, el cual se leerá de la siguiente forma:
 
 “PRIMERO.- Para el financiamiento del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2025, se autoriza en el artículo 5 hasta un máximo de VEINTISIETE MIL QUINIENTOS NOVENTA Y NUEVE MILLONES SEISCIENTOS SIETE MIL SETECIENTOS NOVENTA Y SEIS LEMPIRAS EXACTOS (L27,599,607,796.00), a colocarse mediante la emisión de valores gubernamentales denominada Bonos/ Letras Gobierno de Honduras (GDH)”.
 

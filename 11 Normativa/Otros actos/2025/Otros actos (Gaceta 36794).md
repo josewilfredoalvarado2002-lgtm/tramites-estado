@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250319-36794/download"
 extraido: "2026-11-12"
-huella: "64b7e80f886c76c0"
+huella: "0088039bcf12abf0"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -781,7 +781,7 @@ CONSIDERANDO: Que el Estado de Honduras, a través del Decreto Legislativo 130 �
 
 POR TANTO:
 
-La asamblea general extraordinaria del 30 de septiembre de 2023 y la asamblea general ordinaria de 25 de octubre de 2024 del Colegio de Profesionales de Trabajo Social de Honduras, en aplicación a la Ley Orgánica aprobada mediante Decreto Legislativo 196-84 de fecha 26 de octubre de 1984, en su artículo 47 y su reforma mediante Decreto Legislativo 126- 2024 de fecha 05 de octubre de 2024, artículo 19 y artículo 14, inciso ñ, del Reglamento de Colegiación Obligatoria, Uso del Sello y Papel de Seguridad,
+La asamblea general extraordinaria del 30 de septiembre de 2023 y la asamblea general ordinaria de 25 de octubre de 2024 del Colegio de Profesionales de Trabajo Social de Honduras, en aplicación a la Ley Orgánica aprobada mediante Decreto Legislativo 196-84 de fecha 26 de octubre de 1984, en su artículo 47 y su reforma mediante Decreto Legislativo 126-2024 de fecha 05 de octubre de 2024, artículo 19 y artículo 14, inciso ñ, del Reglamento de Colegiación Obligatoria, Uso del Sello y Papel de Seguridad,
 
 ACUERDA:
 

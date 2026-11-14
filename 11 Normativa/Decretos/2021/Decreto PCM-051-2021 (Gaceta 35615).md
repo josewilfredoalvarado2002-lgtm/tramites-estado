@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto Ejecutivo número PCM-051-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210601-35615/download"
 extraido: "2026-11-14"
-huella: "f3c14780b41043ed"
+huella: "b94df02ed3d3bb62"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-051-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que en la ejecución del Programa de Vivienda “BONO VIDA MEJOR�
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República continuar fortaleciendo el Programa Bono de Vivienda para Una Vida Mejor, reducir el déficit habitacional y proceder al reasentamiento de poblados en situación de riesgo o necesidad pública mediante la utilización de sus recursos humanos y financieros disponibles.
 
-CONSIDERANDO: Que en fecha 17 de febrero del año 2020, mediante Decreto Legislativo No. 173-2019, publicado en el Diario Oficial “La Gaceta” el 18 de febrero del 2020 Edición No.35,178, fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, misma que derogó disposiciones contendidas en el Decreto Ejecutivo Número PCM-083-2018.
+CONSIDERANDO: Que en fecha 17 de febrero del año 2020, mediante Decreto Legislativo No. 173-2019, publicado en el Diario Oficial “La Gaceta” el 18 de febrero del 2020 Edición No. 35,178, fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, misma que derogó disposiciones contendidas en el Decreto Ejecutivo Número PCM-083-2018.
 
 POR TANTO, En aplicación de los Artículos 245 numerales 1, 2, 11 y 30,
 

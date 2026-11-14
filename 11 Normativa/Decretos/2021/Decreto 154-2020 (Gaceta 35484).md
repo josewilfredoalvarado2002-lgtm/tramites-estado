@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decreto No. 154-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210111-35484/download"
 extraido: "2026-11-14"
-huella: "e78e79c451ee4782"
+huella: "97b951340f52c946"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 154-2020
@@ -35,9 +35,9 @@ CONSIDERANDO: Que, de conformidad con lo establecido en el Artículo 59 de la Le
 
 CONSIDERANDO: Que, debido a la PANDEMIA DEL CORONAVIRUS (COVID-19) las Corporaciones Municipales a nivel nacional, se han visto imposibilitadas de realizar los cinco (5) cabildos abiertos a los que está obligada durante cada año del período de gobierno, al tenor de lo establecido en la Ley de Municipalidades, a su vez, esta circunstancia ha impedido la realización de aquellos actos a los que está facultada, como es entre otros la elección del Comisionado Municipal de Transparencia.
 
-CONSIDERANDO: Que tomando en cuenta que el país atraviesa una situación extraordinaria derivada de la crisis sanitaria por el COVID-19, se hace necesario adoptar medidas excepcionales que exoneren del cumplimiento de las disposiciones señaladas en los artículos 32B y 59 párrafo primero, del Decreto No.134-90 contentivo de la Ley de Municipalidades y sus reformas, a las corporaciones municipales a nivel nacional, durante la vigencia de la emergencia sanitaria nacional por la Pandemia COVID-19 o hasta que las autoridades pertinentes autoricen la suspensión de las medidas adoptadas para evitar el contagio masivo del COVID-19 y de esta manera salvaguardar la función de cada alcalde municipal, evitando que los mismos sean objetos de sanciones por parte de los Órganos Contralores del Estado, ya que se trata de situaciones de incumplimiento ajenas a su voluntad; así como la suspensión durante el período antes relacionado, de la disposición contenida en el Artículo 62 párrafo tercero de la misma Ley, relacionada a los patronatos y otras modalidades de asociación comunitaria.
+CONSIDERANDO: Que tomando en cuenta que el país atraviesa una situación extraordinaria derivada de la crisis sanitaria por el COVID-19, se hace necesario adoptar medidas excepcionales que exoneren del cumplimiento de las disposiciones señaladas en los artículos 32B y 59 párrafo primero, del Decreto No. 134-90 contentivo de la Ley de Municipalidades y sus reformas, a las corporaciones municipales a nivel nacional, durante la vigencia de la emergencia sanitaria nacional por la Pandemia COVID-19 o hasta que las autoridades pertinentes autoricen la suspensión de las medidas adoptadas para evitar el contagio masivo del COVID-19 y de esta manera salvaguardar la función de cada alcalde municipal, evitando que los mismos sean objetos de sanciones por parte de los Órganos Contralores del Estado, ya que se trata de situaciones de incumplimiento ajenas a su voluntad; así como la suspensión durante el período antes relacionado, de la disposición contenida en el Artículo 62 párrafo tercero de la misma Ley, relacionada a los patronatos y otras modalidades de asociación comunitaria.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.97-2018, de fecha 6 de Septiembre de 2018, publicado en el Diario Oficial “La Gaceta” en fecha 11 de Octubre de 2018, Edición No.34,766, se autorizó a Inversión Estratégica de Honduras (INVEST-Honduras) a incrementar el patrimonio del Fideicomiso suscrito con el Banco de América Central Honduras, S.A. (BAC-CREDOMATIC), para atender obras de infraestructura relacionadas con la construcción, rehabilitación, mejoramiento, mantenimiento rutinario y mantenimiento periódico de la Red Vial del país, necesarios para garantizar a la ciudadanía una red vial funcional que permita la libre y rápida circulación de las personas y mercancías; así como, el traslado de la producción nacional a los mercados locales, nacionales e internacionales.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 97-2018, de fecha 6 de Septiembre de 2018, publicado en el Diario Oficial “La Gaceta” en fecha 11 de Octubre de 2018, Edición No. 34,766, se autorizó a Inversión Estratégica de Honduras (INVEST-Honduras) a incrementar el patrimonio del Fideicomiso suscrito con el Banco de América Central Honduras, S.A. (BAC-CREDOMATIC), para atender obras de infraestructura relacionadas con la construcción, rehabilitación, mejoramiento, mantenimiento rutinario y mantenimiento periódico de la Red Vial del país, necesarios para garantizar a la ciudadanía una red vial funcional que permita la libre y rápida circulación de las personas y mercancías; así como, el traslado de la producción nacional a los mercados locales, nacionales e internacionales.
 
 CONSIDERANDO: Que, de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso del Congreso Nacional:
 
@@ -45,7 +45,7 @@ Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ ARTÍCULO 3.- En los casos en que, a la entrada en vigencia de este Decreto, hay
 
 #### Artículo 4
 
-ARTÍCULO 4.- Durante la vigencia de la Emergencia Sanitaria y Humanitaria por la Pandemia COVID-19, las Juntas Directivas de los patronatos y otras modalidades de asociación comunitaria a que hace referencia la Ley de Municipalidades, se elegirán cada dos (2) años, en tal sentido, durante el período de vigencia de la Emergencia por la Pandemia COVID-19, queda en suspenso la aplicación del párrafo tercero del Artículo 62 de la Ley de Municipalidades, contenida en Decreto No.134-90, reformado por Decreto No.143-2009, de fecha 08 de Julio del 2009 y publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero del 2010, en la Edición No.32,121.
+ARTÍCULO 4.- Durante la vigencia de la Emergencia Sanitaria y Humanitaria por la Pandemia COVID-19, las Juntas Directivas de los patronatos y otras modalidades de asociación comunitaria a que hace referencia la Ley de Municipalidades, se elegirán cada dos (2) años, en tal sentido, durante el período de vigencia de la Emergencia por la Pandemia COVID-19, queda en suspenso la aplicación del párrafo tercero del Artículo 62 de la Ley de Municipalidades, contenida en Decreto No. 134-90, reformado por Decreto No. 143-2009, de fecha 08 de Julio del 2009 y publicado en el Diario Oficial “La Gaceta” de fecha 23 de Enero del 2010, en la Edición No. 32,121.
 
 #### Artículo 5
 
@@ -77,9 +77,9 @@ Por Tanto: Ejecútese.
 
 Tegucigalpa, M.D.C., 26 de Nov. de 2020.
 
-JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN HÉCTOR LEONEL AYALA Secretaría de Trabajo y Seguridad Social ACUERDO No. STSS- 604-2020 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE LA SECRETARIA DE TRABAJO Y SEGURIDAD SOCIAL
+JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN HÉCTOR LEONEL AYALA Secretaría de Trabajo y Seguridad Social ACUERDO No. STSS-604-2020 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE LA SECRETARIA DE TRABAJO Y SEGURIDAD SOCIAL
 
-CONSIDERANDO: Que mediante acuerdo No.129-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombra al ciudadano Olvin Aníbal Villalobos Velásquez en el cargo de Secretario de Estado en los Despachos de Trabajo y Seguridad Social.
+CONSIDERANDO: Que mediante acuerdo No. 129-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombra al ciudadano Olvin Aníbal Villalobos Velásquez en el cargo de Secretario de Estado en los Despachos de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que la Secretaría de Estado tiene a su cargo la orientación, coordinación, dirección y supervisión de los órganos de la administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas en las ares de su competencia.
 
@@ -99,7 +99,7 @@ POR TANTO: En uso de las facultades que le confiere la Ley y en aplicación de l
 
 ACUERDA:
 
-PRIMERO: Delegar en el ciudadano Cosberth Cristobal Corrales Ramírez, nombrado mediante acuerdo No. 131- 2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020) como Sub Secretario de Estado en el Despacho de Empleo y Seguridad Social de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social; como órgano inmediato inferior, la gestión administrativa y financiera del Programa Presidencial de Empleo Con Chamba Vivís Mejor, adscrito a la Secretaría de Estado.
+PRIMERO: Delegar en el ciudadano Cosberth Cristobal Corrales Ramírez, nombrado mediante acuerdo No. 131-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020) como Sub Secretario de Estado en el Despacho de Empleo y Seguridad Social de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social; como órgano inmediato inferior, la gestión administrativa y financiera del Programa Presidencial de Empleo Con Chamba Vivís Mejor, adscrito a la Secretaría de Estado.
 
 SEGUNDO: Que las responsabilidades que se derive de las decisiones que se tomen en las en la gestión de actos administrativos y financieros relacionados con el Programa Presidencial de Empleo Con Chamba Vivís Mejor serán del órgano delegado.
 

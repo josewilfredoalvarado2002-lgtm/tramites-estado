@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1066-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260214-37070/download"
 extraido: "2026-11-09"
-huella: "888a9d9a03a44050"
+huella: "2a942469562bb6ff"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1066-2025
@@ -31,7 +31,7 @@ El suscrito, Encargado de la Unidad de Atención al Ciudadano de Secretaría Gen
 
 CERTIFICA: La Resolución que literalmente dice:
 
-“RESOLUCIÓN No.1066-2025. SECRETARÍA DE
+“RESOLUCIÓN No. 1066-2025. SECRETARÍA DE
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, catorce de julio del año dos mil veinticinco.
 

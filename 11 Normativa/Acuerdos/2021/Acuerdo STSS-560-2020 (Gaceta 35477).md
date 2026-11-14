@@ -11,7 +11,7 @@ paginas: "A. 19"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "49ad2f83c9b43458"
+huella: "2bf7959b7631d050"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-560-2020
@@ -29,7 +29,7 @@ huella: "49ad2f83c9b43458"
 
 18 de agosto del 2020
 
-CONSIDERANDO: Que mediante Acuerdo N°. STSS- 532-2020 de fecha once (11) de agosto del año 2020, se aprobó a partir del 01 de julio al 31 de diciembre del 2020, Contrato de Servicios, Profesionales suscrito con el ciudadano Omar Elías Canales Bertrand, como “Técnico en Comunicaciones” puesto N°. 175, en la oficina principal ubicada en la ciudad de Tegucigalpa, departamento de Francisco Morazán.
+CONSIDERANDO: Que mediante Acuerdo N°. STSS-532-2020 de fecha once (11) de agosto del año 2020, se aprobó a partir del 01 de julio al 31 de diciembre del 2020, Contrato de Servicios, Profesionales suscrito con el ciudadano Omar Elías Canales Bertrand, como “Técnico en Comunicaciones” puesto N°. 175, en la oficina principal ubicada en la ciudad de Tegucigalpa, departamento de Francisco Morazán.
 
 CONSIDERANDO: Que de conformidad con la CLÁUSULA OCTAVA: RESOLUCIÓN DE CONTRATO del referido contrato, éste podrá resolver sin ninguna responsabilidad para “LA SECRETARÍA” entre otras por las siguientes causas: 3) Por decisión unilateral de las partes obligándose a dar el aviso correspondiente hasta con quince (15) días de anticipación.
 

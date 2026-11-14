@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220305-35865/download"
 extraido: "2026-11-14"
-huella: "f1fecd422a810176"
+huella: "33508e868e95ea92"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -87,7 +87,7 @@ ARTÍCULO 2.- El domicilio legal será en la Aldea La Peñita, del municipio de 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Se considera componentes del sistema de agua potable los siguientes: 1) La Microcuenca que comprende el área de terreno delimitada y protegida , 2) El acueducto que comprende las obras físicas de captación, conducción, almacenamiento y distribución de agua potable, 3) Saneamiento que comprende las obras físicas para el saneamiento ambiental en cada uno de los hogares, construido por la comunidad.
+ARTÍCULO 3.- Se considera componentes del sistema de agua potable los siguientes: 1) La Microcuenca que comprende el área de terreno delimitada y protegida, 2) El acueducto que comprende las obras físicas de captación, conducción, almacenamiento y distribución de agua potable, 3) Saneamiento que comprende las obras físicas para el saneamiento ambiental en cada uno de los hogares, construido por la comunidad.
 
 CAPÍTULO II DE LOS OBJETIVOS Y ACTIVIDADES
 
@@ -143,7 +143,7 @@ ARTÍCULO 11.- Es la máxima autoridad de la comunidad a nivel local, expresa la
 
 ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y Saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un período más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente
 
-(a) .- 2.- Un Vicepresidente (a); 3.- Secretario (a) .- 4.- Un Tesorero (a).- 5.- Un Fiscal.- 6.- Un Vocal Primero y ; 7.- Un vocal segundo.
+(a) .- 2.- Un Vicepresidente (a); 3.- Secretario (a) .- 4.- Un Tesorero (a).- 5.- Un Fiscal.- 6.- Un Vocal Primero y; 7.- Un vocal segundo.
 
 #### Artículo 13
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-006-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210116-35489/download"
 extraido: "2026-11-14"
-huella: "1eff21b41de83ad6"
+huella: "0378c01b87059c43"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NUMERO PCM-006-2021
@@ -33,13 +33,9 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 245, numeral
 
 CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,317, reformado mediante Decretos Ejecutivos Número PCM-112-2020, Decreto Ejecutivo Número PCM 115-2020, Decreto Ejecutivo Número PCM 116-2020 y Decreto Ejecutivo Número PCM 147-2020, publicados en el Diario Oficial “La Gaceta, respectivamente en fechas Dos (02) de Noviembre, Seis (06) de Noviembre, Once (11) de Noviembre y Veintinueve (29) de Diciembre del año Dos Mil Veinte (2020), se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical “ETA” y la entonces posible formación de Huracán “ETA” y otros fenómenos climáticos, las cuales han causado graves daños a la infraestructura vial y al Sector Agrícola del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
 
-35,317, reformado mediante Decretos Ejecutivos Número PCM-112-2020, Decreto Ejecutivo Número PCM 115- 2020, Decreto Ejecutivo Número PCM 116-2020 y Decreto Ejecutivo Número PCM 147-2020, publicados en el Diario Oficial “La Gaceta, respectivamente en fechas Dos (02) de Noviembre, Seis (06) de Noviembre, Once (11) de Noviembre y Veintinueve (29) de Diciembre del año Dos Mil Veinte (2020), se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical “ETA” y la entonces posible formación de Huracán “ETA” y otros fenómenos climáticos, las cuales han causado graves daños a la infraestructura vial y al Sector Agrícola del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-056-2018, publicado en el Diario Oficial “La Gaceta” en fecha 31 de agosto del año 2018, Edición No.
-
-34,733, aprobado mediante Decreto Legislativo Número 97- 2018, publicado en el Diario Oficial “La Gaceta” en fecha 11 de octubre de 2018, Edición No. 34,766, éste que a su vez fuera reformado mediante Decreto Legislativo Número 181-2018, publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2018, se instruyó a la entidad MCA-Honduras/ INVEST-H, a ampliar el Fideicomiso para la Administración del Fondo de Acceso al Crédito Agrícola de MCA-Honduras, mismo que en su calidad de fideicomitente fuera suscrito con Banco de América Central Honduras, S.A., a fin de llevar adelante obras de infraestructura vial aplicando para ello los fondos asignados a dicho fideicomiso y descritos en el Decreto Ejecutivo Número PCM-056-2018, fideicomiso que pasó a denominarse Fideicomiso de Infraestructura Vial.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-056-2018, publicado en el Diario Oficial “La Gaceta” en fecha 31 de agosto del año 2018, Edición No. 34,733, aprobado mediante Decreto Legislativo Número 97-2018, publicado en el Diario Oficial “La Gaceta” en fecha 11 de octubre de 2018, Edición No. 34,766, éste que a su vez fuera reformado mediante Decreto Legislativo Número 181-2018, publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2018, se instruyó a la entidad MCA-Honduras/ INVEST-H, a ampliar el Fideicomiso para la Administración del Fondo de Acceso al Crédito Agrícola de MCA-Honduras, mismo que en su calidad de fideicomitente fuera suscrito con Banco de América Central Honduras, S.A., a fin de llevar adelante obras de infraestructura vial aplicando para ello los fondos asignados a dicho fideicomiso y descritos en el Decreto Ejecutivo Número PCM-056-2018, fideicomiso que pasó a denominarse Fideicomiso de Infraestructura Vial.
 
 CONSIDERANDO: Que por razón del estado de emergencia derivado de la presencia de las tormentas “ETA” e “IOTA”, las obras de infraestructura vial que dentro del plan de trabajo anual ha programado MCA-Honduras/INVEST-H requiere una necesaria revisión y adecuada priorización, tomando en cuenta dados los daños sufridos en todo el territorio nacional, resultando ser urgente obras de reparación, rehabilitación o construcción cuyo volumen y multiplicidad requiere ampliar actualmente las capacidades de ejecución de MCA-Honduras/ INVEST-H.
 
@@ -51,7 +47,7 @@ CONSIDERANDO: Que el Gobierno de la República, debe asegurar el buen uso de los
 
 POR TANTO:
 
-Aplicación de los Artículos 59, 245 numerales 2 y 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM- 056-2018, PCM-049-2019, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-147-2020.
+Aplicación de los Artículos 59, 245 numerales 2 y 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM-056-2018, PCM-049-2019, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-147-2020.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo número 145-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210804-35677/download"
 extraido: "2026-11-14"
-huella: "5000ef4b4bb0d4d5"
+huella: "59b881b76e03afe0"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 145-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que mediante DECRETO EJECUTIVO NÚMERO PCM-120-2020 de fecha 1 de 
 
 CONSIDERANDO: Que el sector procesador solicitó a esta Secretaría de Estado, la autorización para la Importación de un contingente por desabasto de concentrado de jugo de naranja congelado, bajo la partida arancelaria 2009.11.00.00 para poder suplir la demanda del consumo nacional y exportador.
 
-CONSIDERANDO: Que, en el mes de julio de 2021, el sector procesador manifestó que las necesidades para suplir la demanda nacional de jugo de naranja requieren de 24 millones de litros puesta al consumidor y siete millones a las exportaciones y que aun con la cantidad de libras solidas otorgadas mediante los Acuerdos Ministeriales No. 052- 2021 del mes de febrero de 2021 y el Acuerdo Ministerial No. 078-2021 en el mes de mayo de 2021, aún se encuentran muy por debajo de las necesidades de concentrado, ya que las condiciones de la producción no han mejorado en estos últimos seis meses, lo que aun no permite mejorar el abastecimiento de la demanda de forma local.
+CONSIDERANDO: Que, en el mes de julio de 2021, el sector procesador manifestó que las necesidades para suplir la demanda nacional de jugo de naranja requieren de 24 millones de litros puesta al consumidor y siete millones a las exportaciones y que aun con la cantidad de libras solidas otorgadas mediante los Acuerdos Ministeriales No. 052-2021 del mes de febrero de 2021 y el Acuerdo Ministerial No. 078-2021 en el mes de mayo de 2021, aún se encuentran muy por debajo de las necesidades de concentrado, ya que las condiciones de la producción no han mejorado en estos últimos seis meses, lo que aun no permite mejorar el abastecimiento de la demanda de forma local.
 
 CONSIDERANDO: Que en fecha 08 de julio de 2021, la Secretaría de Estado en el Despacho de Desarrollo Económico, solicitó a la Secretaría Estado en los Despacho de Agricultura y Ganadería, realizar un análisis desde el punto de vista técnico, científico y de producción, así como la emisión de un dictamen si es o no procedente autorizar un nuevo contingente por desabasto de concentrado de jugo de naranja congelado.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que es necesario establecer las disposiciones para la administraci
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y Decreto Ejecutivo Número PCM-120- 2020 de fecha 1 de diciembre de 2020.
+La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y Decreto Ejecutivo Número PCM-120-2020 de fecha 1 de diciembre de 2020.
 
 ACUERDA:
 

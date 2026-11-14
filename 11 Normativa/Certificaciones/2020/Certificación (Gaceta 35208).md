@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200324-35208/download"
 extraido: "2026-11-14"
-huella: "581532fc6262255d"
+huella: "83909e69006b6e37"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -59,7 +59,7 @@ OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del, Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ejecutivo No. 138- 2018 de fecha 05 de abril de 2018, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del, Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ejecutivo No. 138-2018 de fecha 05 de abril de 2018, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -241,7 +241,7 @@ DANLÍ,.
 
 DEPARTAMENTO DE EL PARAÍSO, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Déscentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes, de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
-TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL BARRIO LA CAÑADA DEL MUNICIPIO DE DANLÍ, DEPARTAMENTO DE EL PARAÍSO, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS) , los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
+TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL BARRIO LA CAÑADA DEL MUNICIPIO DE DANLÍ, DEPARTAMENTO DE EL PARAÍSO, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO:
 

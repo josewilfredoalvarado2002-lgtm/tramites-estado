@@ -11,7 +11,7 @@ paginas: "A. 12 - 14"
 sumario: "Acuerdos Ministeriales Nos. 009-2024, 010-2024, 011-2024, 012-2024, 013-2024, 014-2023, 015-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240206-36453/download"
 extraido: "2026-11-14"
-huella: "addff0ee66578438"
+huella: "ef3307665c65be91"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 013-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en los términos del Ordinal Cuarto del Protocolo Habilitante,
 
 CONSIDERANDO: Que de conformidad con el Ordinal Segundo del Protocolo Habilitante, los Estados Parte desarrollarán los procedimientos administrativos para la administración del régimen de libre circulación de mercancías, pudiendo establecer, de manera temporal y mientras se perfecciona la Unión Aduanera, excepciones al régimen de libre circulación.
 
-CONSIDERANDO: Que mediante la Resolución de la Instancia Ministerial No. 09-2017, del 27 de enero de 2017, se aprobó el listado de productos exceptuados del régimen de la libre circulación de mercancías entre las Repúblicas de Guatemala y Honduras, que incluye mercancías bajo las categorías que lista el Ordinal Segundo del Protocolo Habilitante y que fue modificado, por sustitución total, en virtud de la Resolución de la Instancia Ministerial No. 97- 2021, del 16 de diciembre de 2021.
+CONSIDERANDO: Que mediante la Resolución de la Instancia Ministerial No. 09-2017, del 27 de enero de 2017, se aprobó el listado de productos exceptuados del régimen de la libre circulación de mercancías entre las Repúblicas de Guatemala y Honduras, que incluye mercancías bajo las categorías que lista el Ordinal Segundo del Protocolo Habilitante y que fue modificado, por sustitución total, en virtud de la Resolución de la Instancia Ministerial No. 97-2021, del 16 de diciembre de 2021.
 
 CONSIDERANDO: Que las Repúblicas de Guatemala y Honduras han convenido actualizar el listado de productos exceptuados del régimen de la libre circulación de mercancías bajo las categorías que lista el Ordinal Segundo del Protocolo Habilitante.
 

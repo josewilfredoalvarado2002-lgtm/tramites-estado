@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Decreto No. 54-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210828-35701/download"
 extraido: "2026-11-14"
-huella: "319b9199711ed2eb"
+huella: "7272901c6deb7745"
 ---
 <!-- portal:inicio -->
 # DECRETO 54-2021
@@ -29,13 +29,13 @@ huella: "319b9199711ed2eb"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Decreto No.16-2021, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril de 2021, Edición No.35,587, establece: “ARTÍCULO 3.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y a la Empresa Nacional de Energía Eléctrica (ENEE) para que en nombre del Estado de Honduras procedan a la reforma del Contrato de Fideicomiso de “Generación de Energía, mediante gas natural, LPG y cualquier otro tipo de generación de energía que represente la alternativa más favorable para el Estado de Honduras” firmado el 13 de enero de 2014, aprobado en el Congreso Nacional mediante Decreto No.373-2013 de fecha 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de marzo de 2014, edición No.33,375, aprobando ampliar el alcance del mismo a proyectos que no generen energía, control de inundaciones y mitigación de los efectos del cambio climático; adecuar el mismos a los cambios institucionales y legislativos ocurridos desde la firma del mismo y a los plazos necesarios para la construcción de estos proyectos”.
+CONSIDERANDO: Que el Decreto No. 16-2021, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril de 2021, Edición No. 35,587, establece: “ARTÍCULO 3.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y a la Empresa Nacional de Energía Eléctrica (ENEE) para que en nombre del Estado de Honduras procedan a la reforma del Contrato de Fideicomiso de “Generación de Energía, mediante gas natural, LPG y cualquier otro tipo de generación de energía que represente la alternativa más favorable para el Estado de Honduras” firmado el 13 de enero de 2014, aprobado en el Congreso Nacional mediante Decreto No. 373-2013 de fecha 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de marzo de 2014, edición No. 33,375, aprobando ampliar el alcance del mismo a proyectos que no generen energía, control de inundaciones y mitigación de los efectos del cambio climático; adecuar el mismos a los cambios institucionales y legislativos ocurridos desde la firma del mismo y a los plazos necesarios para la construcción de estos proyectos”.
 
-CONSIDERANDO: Que el citado Decreto No.16-2021, establece: “ARTÍCULO 5.- BENEFICIOS ESPECIALES.
+CONSIDERANDO: Que el citado Decreto No. 16-2021, establece: “ARTÍCULO 5.- BENEFICIOS ESPECIALES.
 
-Las represas y los demás proyectos que se construyan para evitar inundaciones o mitigar el cambio climático, generen o no energía, gozarán de los beneficios contemplados en la Ley Especial Reguladora de Proyectos Públicos de Energía Renovable contenida en el Decreto No.279-2010 de fecha 19 de enero del año 2011 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de febrero de 2011, edición No.32,435.” “Esos proyectos estarán incorporados al Sistema Nacional de Inversión Pública y estarán excluidos de la aplicación de la reforma al Artículo 18 del Decreto No.143-2010 de fecha 11 de agosto de 2010 y publicado en el Diario Oficial “La Gaceta” de fecha 16 de septiembre de 2010, edición No.32,317, contenida en el Decreto No.115-2014 de fecha 25 de noviembre de 2014 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2014, edición No.33,619.”
+Las represas y los demás proyectos que se construyan para evitar inundaciones o mitigar el cambio climático, generen o no energía, gozarán de los beneficios contemplados en la Ley Especial Reguladora de Proyectos Públicos de Energía Renovable contenida en el Decreto No. 279-2010 de fecha 19 de enero del año 2011 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de febrero de 2011, edición No. 32,435.” “Esos proyectos estarán incorporados al Sistema Nacional de Inversión Pública y estarán excluidos de la aplicación de la reforma al Artículo 18 del Decreto No. 143-2010 de fecha 11 de agosto de 2010 y publicado en el Diario Oficial “La Gaceta” de fecha 16 de septiembre de 2010, edición No. 32,317, contenida en el Decreto No. 115-2014 de fecha 25 de noviembre de 2014 y publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2014, edición No. 33,619.”
 
-CONSIDERANDO: Que mediante Decreto No.33- 2021, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Junio de 2021, Edición No.35,622, se aprobó la REFORMA AL CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICOPRIVADA, suscrito en fecha 13 de Mayo del año 2021, entre la República de Honduras actuando a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), la Empresa Nacional de Energía Eléctrica (ENEE) y Banco Atlántida, S.A.
+CONSIDERANDO: Que mediante Decreto No. 33-2021, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Junio de 2021, Edición No. 35,622, se aprobó la REFORMA AL CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICOPRIVADA, suscrito en fecha 13 de Mayo del año 2021, entre la República de Honduras actuando a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), la Empresa Nacional de Energía Eléctrica (ENEE) y Banco Atlántida, S.A.
 
 CONSIDERANDO: Que Honduras necesita contar con la infraestructura que prevenga nuevas inundaciones y desastres naturales mediante la construcción de varias represas cuyos beneficios se extienden más allá incluso del mero control de inundaciones.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se autoriza para que a través del “CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA Y DESARROLLO DE PROYECTOS PÚBLICOS PARA CONTROL DE INUNDACIONES, MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICO-PRIVADA”, reformado mediante Decreto No.33-2021 y publicado en el Diario Oficial “La Gaceta” de fecha 8 de Junio del 2021, Edición No.35,622, en el cual se realizarán todos los trabajos indicados en el mismo para la construcción de represas en los lugares siguientes:
+ARTÍCULO 1.- Se autoriza para que a través del “CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA Y DESARROLLO DE PROYECTOS PÚBLICOS PARA CONTROL DE INUNDACIONES, MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICO-PRIVADA”, reformado mediante Decreto No. 33-2021 y publicado en el Diario Oficial “La Gaceta” de fecha 8 de Junio del 2021, Edición No. 35,622, en el cual se realizarán todos los trabajos indicados en el mismo para la construcción de represas en los lugares siguientes:
 
 \1) Llanitos y Jicatuyo en el Río Ulúa, ubicados en el departamento de Santa Bárbara;
 

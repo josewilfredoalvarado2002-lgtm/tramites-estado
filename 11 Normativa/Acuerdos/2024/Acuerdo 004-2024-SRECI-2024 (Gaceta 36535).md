@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SG 004-2024/SRECI-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240516-36535/download"
 extraido: "2026-11-14"
-huella: "b4583e1f80ead2c0"
+huella: "9d0546efac2b0b4f"
 ---
 <!-- portal:inicio -->
 # ACUERDO SG 004-2024/SRECI-2024
@@ -91,7 +91,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los ocho dí
 
 EDUARDO ENRIQUE REINA SECRETARIO DE ESTADO EMILSON DANIEL DURÓN ENCARGADO DE LA SECRETARÍA GENERAL
 
-ACUERDO DE DELEGACIÓN No.127-SRH-2024
+ACUERDO DE DELEGACIÓN No. 127-SRH-2024
 
 ## Fuente
 

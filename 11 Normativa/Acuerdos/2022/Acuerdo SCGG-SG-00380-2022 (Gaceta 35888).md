@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo No.SCGG-SG-00380-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220401-35888/download"
 extraido: "2026-11-14"
-huella: "7e8a04ce61e71a54"
+huella: "24492ad1aaa139f4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SCGG-SG-00380-2022
@@ -33,7 +33,7 @@ Tegucigalpa, M.D.C., 21 de marzo de 2022
 
 CONSIDERANDO: Que bajo el artículo 29 del Decreto Legislativo 266-2013, publicado en el Diario Oficial “La Gaceta” el 23 de enero de 2014, se crea la Secretaría de Coordinación General de Gobierno.
 
-CONSIDERANDO: Que bajo Acuerdo Ejecutivo No.70- 2022 de fecha 4 de febrero del año 2022, se nombra a la ciudadana FABIOLA CLAUDETTE ABUDOJ MENA, como Subsecretaria de Estado en el Despacho de Coordinación General de Gobierno.
+CONSIDERANDO: Que bajo Acuerdo Ejecutivo No. 70-2022 de fecha 4 de febrero del año 2022, se nombra a la ciudadana FABIOLA CLAUDETTE ABUDOJ MENA, como Subsecretaria de Estado en el Despacho de Coordinación General de Gobierno.
 
 CONSIDERANDO: Que el párrafo segundo del artículo 249 de la Constitución de la República, describe que los Subsecretarios sustituirán a los Secretarios por ministerio de ley.
 

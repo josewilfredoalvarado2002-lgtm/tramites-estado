@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Resolución No.1-2024, 2-2024, 3-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240812-36610/download"
 extraido: "2026-11-14"
-huella: "a30b83a9c5085f90"
+huella: "fc924bfcec651375"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No.3-2024
@@ -29,9 +29,9 @@ huella: "a30b83a9c5085f90"
 
 EL CONGRESO NACIONAL, Reunido el Congreso Nacional, a los treinta días del mes de Julio del año 2024, en el Pleno de la Cámara Legislativa, para emitir Resolución sobre la misiva enviada a este Poder del Estado, por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a presentar a este Poder del Estado, la solicitud que a su vez le fuere presentada por parte de la República de Francia, contraída a conceder permiso al ciudadano hondureño TITO EVER SERRANO, para que pueda ostentar el cargo de Cónsul Honorario en representación de la República de Francia, ante el Estado de Honduras, en la ciudad de Copán Ruinas.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No.017-DGAC-2023, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 017-DGAC-2023, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
 
-CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la atribución de conceder permiso a los hondureños para aceptar cargos de otro Estado; asimismo, los artículos 82 y 24 numeral 9) de la Ley Orgánica del Poder Legislativo; y el Artículo 19 de la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No.80-2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” del 7 de Junio 2013, facultan a este Poder del Estado para conceder permiso para que un ciudadano hondureño ostente el Cargo de Cónsul Honorario de un tercer Estado.
+CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la atribución de conceder permiso a los hondureños para aceptar cargos de otro Estado; asimismo, los artículos 82 y 24 numeral 9) de la Ley Orgánica del Poder Legislativo; y el Artículo 19 de la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No. 80-2013 del 21 de Mayo de 2013, publicado en el Diario Oficial “La Gaceta” del 7 de Junio 2013, facultan a este Poder del Estado para conceder permiso para que un ciudadano hondureño ostente el Cargo de Cónsul Honorario de un tercer Estado.
 
 CONSIDERANDO: Que es importante para el Gobierno de Honduras, establecer y mantener las relaciones diplomáticas y consulares con la República de Francia, quien promueve el intercambio cultural, comercial, la inversión y el turismo, las funciones de registradores, cuando corresponda y otras de gran importancia según el Artículo 61 de la Ley de Servicio Diplomático y Consular de Honduras.
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que la Presidenta de la República, tiene la responsabilidad de di
 
 CONSIDERANDO: Que es atribución de los Secretarios de Estado, emitir los decretos y acuerdos en los asuntos de su competencia.
 
-CONSIDERANDO: Que la Secretaría de Relaciones E x t e r i o r e s y C o o p e r a c i ó n Internacional, tiene el mandato de diseñar, coordinar, ejecutar y supervisar la política exterior de Honduras y sus relaciones con otros países.
+CONSIDERANDO: Que la Secretaría de Relaciones Exteriores y Cooperación Internacional, tiene el mandato de diseñar, coordinar, ejecutar y supervisar la política exterior de Honduras y sus relaciones con otros países.
 
 CONSIDERANDO: Que desde el establecimiento de las relaciones diplomáticas en el año dos mil trece, Honduras y el Estado de Palestina han reafirmado su compromiso de fortalecer los lazos de amistad, promoviendo el intercambio cultural, económico y técnico, basado en el respeto mutuo a la soberanía y la autodeterminación de los pueblos.
 

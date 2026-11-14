@@ -8,10 +8,10 @@ gaceta_numero: 36662
 gaceta_fecha: "2024-10-11"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36662 (2024-10-11)|La Gaceta 36662]]"
 paginas: "A. 9 - 24"
-sumario: "Acuerdo No. 483-2024CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024"
+sumario: "Acuerdo No. 483-2024; CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025; CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241011-36662/download"
 extraido: "2026-11-14"
-huella: "9039c0abcded25fd"
+huella: "1f7561de32ee0f6a"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 12-2024
@@ -23,11 +23,11 @@ huella: "9039c0abcded25fd"
 | Emisor | Consejo Nacional Electoral CNE |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36662 (2024-10-11)\|La Gaceta 36662]] del 2024-10-11 |
 | Páginas | A. 9 - 24 |
-| Según el sumario de La Gaceta | Acuerdo No. 483-2024CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024 |
+| Según el sumario de La Gaceta | Acuerdo No. 483-2024; CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025; CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024 |
 
 ## Texto
 
-La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por mayoría de votos en el punto V.2 (Asuntos Ordinarios) numeral cuatro (04) del Acta Número 08-2024, correspondiente a Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día martes ocho (08) de octubre del año dos mil veinticuatro (2024), reanudada los días miércoles nueve (09) y jueves diez (10) del mismo mes y año, que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: “ACUERDO No. 12- 2024. EL CONSEJO NACIONAL ELECTORAL.
+La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por mayoría de votos en el punto V.2 (Asuntos Ordinarios) numeral cuatro (04) del Acta Número 08-2024, correspondiente a Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día martes ocho (08) de octubre del año dos mil veinticuatro (2024), reanudada los días miércoles nueve (09) y jueves diez (10) del mismo mes y año, que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: “ACUERDO No. 12-2024. EL CONSEJO NACIONAL ELECTORAL.
 
 CONSIDERANDO 1: Que el Consejo Nacional Electoral es el órgano especial, autónomo e independiente, sin relaciones de subordinación con los Poderes del Estado, creado en la Constitución de la República, con competencia exclusiva para efectuar los actos y procedimientos administrativos, técnicos y de logística electoral. Tiene competencia en todo el territorio nacional y su domicilio es en la capital de la República. Su integración, organización, funcionamiento, sistemas y procesos son de seguridad nacional.
 

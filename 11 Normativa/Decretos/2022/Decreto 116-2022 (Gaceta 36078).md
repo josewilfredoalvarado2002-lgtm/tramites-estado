@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Decretos Nos. 94-2022, 111-2022, 112-2022, 116-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221116-36078/download"
 extraido: "2026-11-14"
-huella: "4ac9919f206b61a2"
+huella: "3da4610a0515d8cf"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 116-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

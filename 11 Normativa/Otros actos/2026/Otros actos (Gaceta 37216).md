@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdos; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260810-37216/download"
 extraido: "2026-11-09"
-huella: "f2282e499758bace"
+huella: "a48f85e1489a348e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos; AVANCE
@@ -617,7 +617,7 @@ Dado en la ciudad de Tegucigalpa, Municipio del Distrito Central, el día sábad
 
 ING. TANIA YARLENE MURILLO LANZA PRESIDENTA CICH ING. JESSICA ROXANA CHAMALÉ ANTÚNEZ SECRETARIA GENERAL CICH Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.-
+DECRETA: ARTÍCULO 1.-
 
 Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO NO.6144/BL-HO, CENTROS DE DISTRIBUCIÓN:
 

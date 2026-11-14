@@ -11,7 +11,7 @@ paginas: "A. 17 - 33"
 sumario: "Decretos Nos. 16-2021, 18-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210430-35587/download"
 extraido: "2026-11-14"
-huella: "9c0547bf6625d13e"
+huella: "b3aebff3f4c90596"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 18-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República establece que Honduras es un Estado de Derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, libertad, la cultura, el bienestar económico y cultural.
 
-CONSIDERANDO: Que mediante Decreto No.182-2020 se aprobó el PRESUPUESTO DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
+CONSIDERANDO: Que mediante Decreto No. 182-2020 se aprobó el PRESUPUESTO DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
 
 CONSIDERANDO: Que el Artículo 205 de la Constitución de la República numeral 32 establece que es potestad del Congreso Nacional de Honduras la aprobación anual del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, tomando como base el proyecto que emita el Poder Ejecutivo, debidamente desglosado y resolver sobre su modificación.
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO;
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 20, 34, 46, 48, 53, 62, 71, 79, 89, 91, 92, 94, 98, 110, 121, 131, 142, 150, 160, 162, 174, 181, 187, 194, 195, 196, 211, 221, 273, 275, 277, 279 y 282 del Decreto No.182- 2020 contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA EJERCICIO FISCAL 2021, los cuales se deberán leer de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 20, 34, 46, 48, 53, 62, 71, 79, 89, 91, 92, 94, 98, 110, 121, 131, 142, 150, 160, 162, 174, 181, 187, 194, 195, 196, 211, 221, 273, 275, 277, 279 y 282 del Decreto No. 182-2020 contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA EJERCICIO FISCAL 2021, los cuales se deberán leer de la manera siguiente:
 
 #### Artículo 20
 
@@ -67,7 +67,7 @@ ARTÍCULO 34.- Excepcionalmente y para mitigar los efectos de la pandemia del CO
 
 #### Artículo 46
 
-ARTÍCULO 46.- En línea con el documento de Política de Endeudamiento Público vigente, el Marco Macro Fiscal de Mediano Plazo el Decreto No.33-2020 y sus reformas y conforme a los acuerdos negociados con la Comunidad Cooperante Internacional, acorde con la política monetaria y con el propósito de mantener un nivel de endeudamiento público del Sector Público No Financiero en condiciones de estabilidad financiera y sostenible en el mediano y largo plazo, se establece un techo máximo para el saldo en valor presente de endeudamiento del Sector Público no Financiero del cincuenta y cinco por ciento (55%) en relación al Producto Interno Bruto (PIB).
+ARTÍCULO 46.- En línea con el documento de Política de Endeudamiento Público vigente, el Marco Macro Fiscal de Mediano Plazo el Decreto No. 33-2020 y sus reformas y conforme a los acuerdos negociados con la Comunidad Cooperante Internacional, acorde con la política monetaria y con el propósito de mantener un nivel de endeudamiento público del Sector Público No Financiero en condiciones de estabilidad financiera y sostenible en el mediano y largo plazo, se establece un techo máximo para el saldo en valor presente de endeudamiento del Sector Público no Financiero del cincuenta y cinco por ciento (55%) en relación al Producto Interno Bruto (PIB).
 
 #### Artículo 48
 
@@ -81,11 +81,9 @@ Se faculta a la Secretaría de Estado en el Despacho de Finanzas a identificar y
 
 #### Artículo 53
 
-ARTÍCULO 53.- El endeudamiento público autorizado mediante emisión de bonos y obtención de préstamos es de carácter fungible y por lo tanto podrá redistribuirse cuando existan condiciones financieras y de mercado que propicien dicha fungibilidad de fuente interna a externa y viceversa, en lo que respecta al mercado interno o externo, tipo de moneda, plazos y demás términos que impacten el financiamiento, siempre y cuando no exceda el monto total del endeudamiento autorizado en el Artículo 1 de la presente Ley mediante Títulos de Deuda y Préstamos y el monto autorizado en el Decreto No.
+ARTÍCULO 53.- El endeudamiento público autorizado mediante emisión de bonos y obtención de préstamos es de carácter fungible y por lo tanto podrá redistribuirse cuando existan condiciones financieras y de mercado que propicien dicha fungibilidad de fuente interna a externa y viceversa, en lo que respecta al mercado interno o externo, tipo de moneda, plazos y demás términos que impacten el financiamiento, siempre y cuando no exceda el monto total del endeudamiento autorizado en el Artículo 1 de la presente Ley mediante Títulos de Deuda y Préstamos y el monto autorizado en el Decreto No. 134-2020 publicado en Diario Oficial “La Gaceta” No. 35,396 del 10 de octubre del 2020, para lo cual deberán hacerse las modificaciones presupuestarias correspondientes.
 
-134-2020 publicado en Diario Oficial “La Gaceta” No.35,396 del 10 de octubre del 2020, para lo cual deberán hacerse las modificaciones presupuestarias correspondientes.
-
-Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas para que de estimar conveniente realice fungibilidad de fuente externa a interna, de Obtención de Préstamos Sectoriales del Sector Externo a Largo Plazo de los Organismos 172, 173 y 266 autorizados en el Artículo 1 del presente Decreto y Decreto No.134-2020 publicado en Diario Oficial “La Gaceta” No.35,396 del 10 de Octubre del 2020 a Colocación de Títulos y Valores de la Deuda Interna a Largo Plazo o a través de otro instrumento financiero que se identifique, dentro del marco del Déficit Fiscal vigente aprobado en la reglas de la Ley de Responsabilidad Fiscal y sus excepciones. Una vez colocados dichos recursos en el mercado interno, así también, queda autorizada la Secretaría de Estado en el Despacho de Finanzas para que realice las modificaciones presupuestarias de ingresos y gastos requeridas en el Presupuesto General de Ingresos e Egresos de la República, a fin de dar cumplimiento y aplicación de este
+Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas para que de estimar conveniente realice fungibilidad de fuente externa a interna, de Obtención de Préstamos Sectoriales del Sector Externo a Largo Plazo de los Organismos 172, 173 y 266 autorizados en el Artículo 1 del presente Decreto y Decreto No. 134-2020 publicado en Diario Oficial “La Gaceta” No. 35,396 del 10 de Octubre del 2020 a Colocación de Títulos y Valores de la Deuda Interna a Largo Plazo o a través de otro instrumento financiero que se identifique, dentro del marco del Déficit Fiscal vigente aprobado en la reglas de la Ley de Responsabilidad Fiscal y sus excepciones. Una vez colocados dichos recursos en el mercado interno, así también, queda autorizada la Secretaría de Estado en el Despacho de Finanzas para que realice las modificaciones presupuestarias de ingresos y gastos requeridas en el Presupuesto General de Ingresos e Egresos de la República, a fin de dar cumplimiento y aplicación de este
 
 Artículo.
 
@@ -133,7 +131,7 @@ En virtud de lo cual, los conceptos anteriores serán adquiridos dando preferenc
 
 ARTÍCULO 89.- Se prohíbe … Para efectos … Se exceptúa...
 
-Asimismo… 1)… 2)… Se autoriza… En virtud de los Decretos Ejecutivos Números PCM-146-2020 y PCM-147- 2020 que prorrogan hasta el 31 de diciembre del 2021 la Declaratoria de Estado de Emergencia Humanitaria y Sanitaria ante la actual ocurrencia de infección por coronavirus (COVID-19); la Declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las tormentas tropicales ETA e IOTA, respectivamente y para fomentar la transparencia e información a la población, se autoriza a todas las instituciones del Poder Ejecutivo, los fideicomisos con fondos públicos y los organismos de derecho privado auxiliares de la Administración Pública, la contratación de evaluaciones del impacto de la comunicación y la percepción sobre el avance de la reconstrucción y reactivación económica. A través de pautas en los diferentes medios de comunicación, incluyendo las redes sociales, con el propósito de comunicar, los trabajos, avances, resultados, proyectos, programas, obras, entre otras, que ejecutan dichas instituciones y para difundir información de interés nacional como ser la relativa a la situación del dengue, la COVID-19, y las acciones de reconstrucción nacional por el paso de las tormentas tropicales ETA e IOTA o cualquier otra emergencia.
+Asimismo… 1)… 2)… Se autoriza… En virtud de los Decretos Ejecutivos Números PCM-146-2020 y PCM-147-2020 que prorrogan hasta el 31 de diciembre del 2021 la Declaratoria de Estado de Emergencia Humanitaria y Sanitaria ante la actual ocurrencia de infección por coronavirus (COVID-19); la Declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las tormentas tropicales ETA e IOTA, respectivamente y para fomentar la transparencia e información a la población, se autoriza a todas las instituciones del Poder Ejecutivo, los fideicomisos con fondos públicos y los organismos de derecho privado auxiliares de la Administración Pública, la contratación de evaluaciones del impacto de la comunicación y la percepción sobre el avance de la reconstrucción y reactivación económica. A través de pautas en los diferentes medios de comunicación, incluyendo las redes sociales, con el propósito de comunicar, los trabajos, avances, resultados, proyectos, programas, obras, entre otras, que ejecutan dichas instituciones y para difundir información de interés nacional como ser la relativa a la situación del dengue, la COVID-19, y las acciones de reconstrucción nacional por el paso de las tormentas tropicales ETA e IOTA o cualquier otra emergencia.
 
 Para ello deben suscribir convenios con el Despacho de Comunicaciones y Estrategia Presidencial creado mediante PCM 009-2018, para establecer los lineamientos para ejecutar las asignaciones creadas para tales fines.
 
@@ -217,7 +215,7 @@ Los titulares …
 
 #### Artículo 150
 
-ARTÍCULO 150.- Con base a lo establecido en el Decreto No.18-2010 del 28 de marzo del 2010, contentivo de la Ley de Emergencia Fiscal y Financiera y la Emergencia Sanitaria provocada por el COVID-19 en el 2020 que afectó fuertemente la economía del país, para el presente ejercicio fiscal quedan congelados los aumentos salariales en las Secretarías de Estado, Instituciones Desconcentradas Instituciones Descentralizadas. Dicha restricción no aplica para las Instituciones del Sector Público Financiero, queda facultada la Secretaría de Estado en el Despacho de Finanzas para realizar las operaciones presupuestarias necesarias para dar cumplimiento con el beneficio otorgado durante este ejercicio fiscal por las instituciones del Sector Público Financiero.
+ARTÍCULO 150.- Con base a lo establecido en el Decreto No. 18-2010 del 28 de marzo del 2010, contentivo de la Ley de Emergencia Fiscal y Financiera y la Emergencia Sanitaria provocada por el COVID-19 en el 2020 que afectó fuertemente la economía del país, para el presente ejercicio fiscal quedan congelados los aumentos salariales en las Secretarías de Estado, Instituciones Desconcentradas Instituciones Descentralizadas. Dicha restricción no aplica para las Instituciones del Sector Público Financiero, queda facultada la Secretaría de Estado en el Despacho de Finanzas para realizar las operaciones presupuestarias necesarias para dar cumplimiento con el beneficio otorgado durante este ejercicio fiscal por las instituciones del Sector Público Financiero.
 
 Se exceptúan… Se exceptúan...
 
@@ -239,7 +237,7 @@ ARTÍCULO 162.- La contribución… Las asignaciones… Asimismo… El incumplim
 
 #### Artículo 174
 
-ARTÍCULO 174.- Se autoriza… La Empresa Nacional de Energía Eléctrica (ENEE) está autorizada para realizar las colocaciones de los saldos disponibles de la emisión de títulos y valores de la deuda pública, autorizadas en los artículos 2 y 3 del Decreto No.171-2019, así como el endeudamiento autorizado en el Decreto No.171-2020. Los recursos captados por este concepto serán destinados para financiar la deuda flotante de la ENEE al cierre del Ejercicio Fiscal 2020.
+ARTÍCULO 174.- Se autoriza… La Empresa Nacional de Energía Eléctrica (ENEE) está autorizada para realizar las colocaciones de los saldos disponibles de la emisión de títulos y valores de la deuda pública, autorizadas en los artículos 2 y 3 del Decreto No. 171-2019, así como el endeudamiento autorizado en el Decreto No. 171-2020. Los recursos captados por este concepto serán destinados para financiar la deuda flotante de la ENEE al cierre del Ejercicio Fiscal 2020.
 
 El endeudamiento público autorizado a la Empresa Nacional de Energía Eléctrica (ENEE), es sujeto a la fungibilidad señalada en el Artículo 53 de la presente Ley.
 
@@ -313,7 +311,7 @@ Asimismo, se autoriza a la Secretaría de Estado en los Despachos de Gobernació
 
 #### Artículo 211
 
-ARTÍCULO 211.- Los Gobiernos M u n i c i p a l e s d e n t r o d e l a s atribuciones que les confiere la Ley de Municipalidades, elaboraran Plan de Emergencia Municipal que contribuyan a prevenir y atender las situaciones que deriven de factores climáticos, la Comisión Permanente de Contingencias (COPECO), brindará la asistencia técnica a los Gobiernos Municipales y certificará dichos planes, además coordinará con la Asociación de Municipios de Honduras (AMHON) y la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización en la definición de una metodología para la formulación de planes, acorde a las realidades locales.
+ARTÍCULO 211.- Los Gobiernos Municipales dentro de las atribuciones que les confiere la Ley de Municipalidades, elaboraran Plan de Emergencia Municipal que contribuyan a prevenir y atender las situaciones que deriven de factores climáticos, la Comisión Permanente de Contingencias (COPECO), brindará la asistencia técnica a los Gobiernos Municipales y certificará dichos planes, además coordinará con la Asociación de Municipios de Honduras (AMHON) y la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización en la definición de una metodología para la formulación de planes, acorde a las realidades locales.
 
 La formulación de los planes será…
 
@@ -385,13 +383,13 @@ Dicha asignación Los gastos … La Secretaría Debiendo actualizar…
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar el ARTÍCULO 122 del Decreto No.182-2020, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021.
+ARTÍCULO 2.- Derogar el ARTÍCULO 122 del Decreto No. 182-2020, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2021.
 
 #### Artículo 3
 
 ARTÍCULO 3.- En consonancia con la aplicación del
 
-Artículo 16 de la Ley para la “Facilitación de Asistencia Humanitaria Internacional en Caso de Desastre y Recuperación Inicial” Decreto No.147-2020, se autoriza a la Secretaría de Finanzas para la aplicación de las medidas de priorización del gasto necesarias, así también, la realización de las operaciones presupuestarias y financieras requeridas; a fin de efectuar la reorientación de los presupuestos de las instituciones, inclusive las transferencias a favor de las instituciones del Sector Público y Privado que figuran aprobadas en el Presupuesto General de la República, con el propósito de asignar, reorientar y priorizar los recursos necesarios para el gasto público en las instituciones que atenderán la rehabilitación, reconstrucción y reactivación económica, así como la atención social a la población afectada por los efectos de la emergencia sanitaria y los daños causados por las tormentas tropicales ETA e IOTA, también el impulso a la infraestructura social, salud, escolar, los Sectores Productivos de la Micro, Pequeña y Mediana Empresa (MIPYME), agropecuario y otros sectores prioritarios, con el objeto de generar empleo e impulsar un proceso de crecimiento económico sostenido y otros requerimientos ineludibles que fueran necesarios, incluyendo gastos de capital que puedan financiar gastos corrientes de acuerdo a las asignaciones presupuestarias requeridas; la ejecución de estos recursos se debe realizar dentro del marco de transparencia y rendición de cuentas.
+Artículo 16 de la Ley para la “Facilitación de Asistencia Humanitaria Internacional en Caso de Desastre y Recuperación Inicial” Decreto No. 147-2020, se autoriza a la Secretaría de Finanzas para la aplicación de las medidas de priorización del gasto necesarias, así también, la realización de las operaciones presupuestarias y financieras requeridas; a fin de efectuar la reorientación de los presupuestos de las instituciones, inclusive las transferencias a favor de las instituciones del Sector Público y Privado que figuran aprobadas en el Presupuesto General de la República, con el propósito de asignar, reorientar y priorizar los recursos necesarios para el gasto público en las instituciones que atenderán la rehabilitación, reconstrucción y reactivación económica, así como la atención social a la población afectada por los efectos de la emergencia sanitaria y los daños causados por las tormentas tropicales ETA e IOTA, también el impulso a la infraestructura social, salud, escolar, los Sectores Productivos de la Micro, Pequeña y Mediana Empresa (MIPYME), agropecuario y otros sectores prioritarios, con el objeto de generar empleo e impulsar un proceso de crecimiento económico sostenido y otros requerimientos ineludibles que fueran necesarios, incluyendo gastos de capital que puedan financiar gastos corrientes de acuerdo a las asignaciones presupuestarias requeridas; la ejecución de estos recursos se debe realizar dentro del marco de transparencia y rendición de cuentas.
 
 Como consecuencia de lo anterior todas las instituciones deben realizar la reprogramación física y financiera de sus objetivos, resultados y metas, plan operativo y Plan Anual de compras y Contrataciones, acorde al presupuesto ajustado producto de la reorientación en el Gasto Público del Presupuesto General de la República.
 
@@ -407,7 +405,7 @@ Sin perjuicio de lo anterior, la SEFIN no deberá considerarse como fideicomiten
 
 #### Artículo 5
 
-ARTÍCULO 5.- Considerando el estado de Emergencia Humanitaria y Sanitaria decretado por la pandemia del COVID-19 y las tormentas ETA-IOTA y que se está en proceso de completar las estimaciones del impacto que causaron las mismas, de forma transitoria para el año 2021, se prorrogan por un mes los plazos establecidos en los artículos 7 y 8 en el Decreto No.25-2016 del 7 de abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de mayo del 2016.
+ARTÍCULO 5.- Considerando el estado de Emergencia Humanitaria y Sanitaria decretado por la pandemia del COVID-19 y las tormentas ETA-IOTA y que se está en proceso de completar las estimaciones del impacto que causaron las mismas, de forma transitoria para el año 2021, se prorrogan por un mes los plazos establecidos en los artículos 7 y 8 en el Decreto No. 25-2016 del 7 de abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de mayo del 2016.
 
 En ese sentido, se amplía hasta el 15 de mayo la fecha de emisión de la opinión técnica sobre el Marco Macrofiscal de Mediano Plazo (MMFMP) que emite el Banco Central de Honduras (BCH) y la aprobación del MMFMP por el Presidente de la República en Consejo de Ministros y su publicación en los medios electrónicos y la remisión para su publicación en el Diario Oficial “.
 

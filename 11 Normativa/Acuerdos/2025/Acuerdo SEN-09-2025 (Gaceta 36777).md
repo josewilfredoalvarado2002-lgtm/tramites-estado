@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Acuerdo Ministerial No. SEN-008-2025,Acuerdo No. SEN-09-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250227-36777/download"
 extraido: "2026-11-12"
-huella: "6cf5537c964ec2c1"
+huella: "8396d6550760dfaf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-09-2025
@@ -27,9 +27,7 @@ huella: "6cf5537c964ec2c1"
 
 ## Texto
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA.- EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115- 2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No.
-
-8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
+SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA.- EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos, emitiendo para el efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 
@@ -49,7 +47,7 @@ PRIMERO: Delegar al Abogado LUIS ESTEBAN MARTÍNEZ SÁNCHEZ, para que autorice c
 
 SEGUNDO: El delegado es responsable de la función delegada en la autorización de las providencias dictadas en el periodo de esta delegación, conforme a lo señalado en el artículo 5 de la Ley de Procedimiento Administrativo.
 
-TERCERO: Por lo expuesto en el Acuerda Primero del presente, se deja Sin Valor Ni Efecto el Acuerdo SEN-01- 2025, emitido en fecha dos (02) de enero del año dos mil veinticinco (2025).
+TERCERO: Por lo expuesto en el Acuerda Primero del presente, se deja Sin Valor Ni Efecto el Acuerdo SEN-01-2025, emitido en fecha dos (02) de enero del año dos mil veinticinco (2025).
 
 CUARTO: El presente Acuerdo es efectivo a partir del veintitrés (23) de enero del año dos mil veinticinco (2025) con vigencia al treinta y uno (31) de diciembre del año dos mil veinticinco (2025) y debe publicarse en el Diario Oficial “La Gaceta”.
 

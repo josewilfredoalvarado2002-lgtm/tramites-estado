@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "Acuerdo No. 0152-SE-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220425-35906/download"
 extraido: "2026-11-14"
-huella: "b66ae502a56aaeef"
+huella: "2872f9e2d02a20e9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0152-SE-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la finalidad de la Ley Fundamental de Educación es garantizar
 
 CONSIDERANDO: Que la Ley Fundamental de Educación, en su artículo 23, la Educación Media tiene como propósito ofrecer la experiencia formativa para incorporarse al mundo del trabajo y/o proseguir sus estudios en el nivel superior, mediante la adquisición y construcción de conocimientos, habilidades y actitudes relevantes para su vida personal y social; así como para el desarrollo económico, sociocultural, científico y tecnológico del país.
 
-CONSIDERANDO: Que mediante Acuerdo No. 2134-SE- 2015, se crea la carrera de Bachillerato Técnico Profesional en Banca y Finanza, la que se oferta en once (11) centros educativos Gubernamentales de Educación Media siendo estos centros pilotos, con una Malla Curricular de cincuenta y cuatro (54) horas clase por semestre, misma que surge en el Marco de Cooperación entre la Secretaría de Estado en el Despacho de Educación y la Red Financiera BAC/ CREDOMATIC.
+CONSIDERANDO: Que mediante Acuerdo No. 2134-SE-2015, se crea la carrera de Bachillerato Técnico Profesional en Banca y Finanza, la que se oferta en once (11) centros educativos Gubernamentales de Educación Media siendo estos centros pilotos, con una Malla Curricular de cincuenta y cuatro (54) horas clase por semestre, misma que surge en el Marco de Cooperación entre la Secretaría de Estado en el Despacho de Educación y la Red Financiera BAC/ CREDOMATIC.
 
 CONSIDERANDO: Que la Subdirección General de Educación Media, emitió Opinión Técnica No. 010 de fecha 27 de junio del 2019, manifestando que ha finalizado la fase experimental del Plan de Estudios y Diseño Curricular de la carrera de BACHILLERATO TECNICO PROFESIONAL EN BANCA Y FINANZA, el que funciona mediante el Acuerdo No. 2134-SE-2015, de fecha 25 de noviembre del año 2015 y que se imparte en los Centros de Educación Media Gubernamentales pilotos.
 

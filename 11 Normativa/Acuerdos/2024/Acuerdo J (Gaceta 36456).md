@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. J.D. 001-16-11-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240209-36456/download"
 extraido: "2026-11-14"
-huella: "92930a97ecbea3f8"
+huella: "96c07572642a0864"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. J.D. 001-16-11-2023
@@ -29,23 +29,23 @@ huella: "92930a97ecbea3f8"
 
 CONSUCOOP
 
-CERTIFICACIÓN, ACUERDO No. J.D. 001-16-11-2023 El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA: El Acuerdo número J.D.001-16-11- 2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 358/2023, celebrada en fecha dieciséis
+CERTIFICACIÓN, ACUERDO No. J.D. 001-16-11-2023 El suscrito, Secretario General del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), por este medio CERTIFICA: El Acuerdo número J.D.001-16-11-2023 aprobado en Sesión Ordinaria de Junta Directiva del CONSUCOOP número 358/2023, celebrada en fecha dieciséis
 
 (16) de noviembre del año dos mil veintitrés (2023), el cual literalmente dice:
 
-“ACUERDO NO. J.D. 001-16-11-2023 C O N S E J O N A C I O N A L S U P E R V I S O R D E COOPERATIVAS. - CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, Municipio del Distrito Central a los dieciséis (16) días del mes noviembre del año dos mil veintitrés (2023).
+“ACUERDO NO. J.D. 001-16-11-2023 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS. - CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, Municipio del Distrito Central a los dieciséis (16) días del mes noviembre del año dos mil veintitrés (2023).
 
-CONSIDERANDO (1): Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decretos Legislativos No.174-2013 y 146-2019, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos.
+CONSIDERANDO (1): Que el artículo 93 de Ley de Cooperativas de Honduras reformada mediante el Decretos Legislativos No. 174-2013 y 146-2019, establece la creación del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos.
 
-CONSIDERANDO (2): Que el artículo 96 numerales 13 y 20 de los Decretos Legislativos No.174-2013 y 146- 2019, contentivo de la reforma a la Ley de Cooperativas de Honduras, señala que es atribución del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) dictar las normas que aseguren una adecuada coordinación entre las labores de supervisión, con las que realizan las auditorías internas y externas a las instituciones supervisadas; como también, calificar y registrar conforme a la normativa correspondiente, a las personas y entidades consultoras o firmas de auditoría externa, a fin de habilitarlas para realizar tareas específicas o especiales en las Cooperativas.
+CONSIDERANDO (2): Que el artículo 96 numerales 13 y 20 de los Decretos Legislativos No. 174-2013 y 146-2019, contentivo de la reforma a la Ley de Cooperativas de Honduras, señala que es atribución del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) dictar las normas que aseguren una adecuada coordinación entre las labores de supervisión, con las que realizan las auditorías internas y externas a las instituciones supervisadas; como también, calificar y registrar conforme a la normativa correspondiente, a las personas y entidades consultoras o firmas de auditoría externa, a fin de habilitarlas para realizar tareas específicas o especiales en las Cooperativas.
 
-CONSIDERANDO (3): Que el artículo 103 numeral 5 de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No.174-2013 y 146-2019, señala que la representación legal del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) está a cargo del Director Ejecutivo, quien tiene, entre otras, las siguientes atribuciones:
+CONSIDERANDO (3): Que el artículo 103 numeral 5 de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No. 174-2013 y 146-2019, señala que la representación legal del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) está a cargo del Director Ejecutivo, quien tiene, entre otras, las siguientes atribuciones:
 
 No. 5: hacer que se cumplan las normas y resoluciones que sean emitidas para las cooperativas.
 
-CONSIDERANDO (4): Que en el artículo 119-H de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No.174-2013 y No. 146-2019, se establece que las Cooperativas de Ahorro y Crédito deben contratar los servicios de una Firma de Auditoría Externa para revisar sus Estados Financieros anuales, de conformidad a la normativa que emita la Comisión Nacional de Bancos y Seguros (CNBS) en consenso y con la debida socialización del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), quien debe considerar los requisitos para inscribirla y calificación de firma a requerirse según el nivel de activo manejado por cada cooperativa.
+CONSIDERANDO (4): Que en el artículo 119-H de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No. 174-2013 y No. 146-2019, se establece que las Cooperativas de Ahorro y Crédito deben contratar los servicios de una Firma de Auditoría Externa para revisar sus Estados Financieros anuales, de conformidad a la normativa que emita la Comisión Nacional de Bancos y Seguros (CNBS) en consenso y con la debida socialización del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), quien debe considerar los requisitos para inscribirla y calificación de firma a requerirse según el nivel de activo manejado por cada cooperativa.
 
-CONSIDERANDO (5): Que en el artículo 33 inciso b) de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No.174-2013 y 146-2019, faculta a la Junta de Vigilancia para ordenar una auditoría externa según los procesamientos autorizados por el Organismos Supervisor del Sector Cooperativo, por lo menos una (1) vez al año.
+CONSIDERANDO (5): Que en el artículo 33 inciso b) de la Ley de Cooperativas de Honduras reformada mediante Decretos Legislativos No. 174-2013 y 146-2019, faculta a la Junta de Vigilancia para ordenar una auditoría externa según los procesamientos autorizados por el Organismos Supervisor del Sector Cooperativo, por lo menos una (1) vez al año.
 
 CONSIDERANDO (6): Que la labor de Auditoría Externa constituye un apoyo para la administración más eficiente de las Cooperativas, así como para la supervisión y control que el Ente Supervisor debe realizar.
 
@@ -573,7 +573,7 @@ ARTÍCULO 26.- PLAZO DE ADECUACIÓN: Las Cooperativas regidas por esta Norma deb
 
 Las Cooperativas de Ahorro y Crédito y mixtas que superen el Millón (US1,000,000.00) de Dólares de los Estados Unidos de América pasaran a ser supervisadas por la Superintendencia de Ahorro y Crédito, aplicándoseles la normativa ya emitida al respecto.
 
-Las Firmas Auditoras Externas ya inscritas en el RAEC continuarán en la misma categoría que les fue definida en la Norma para la Contratación y Registro de Auditores Externos, emitida por CONSUCOOP según Acuerdo No. 002/15-12- 2016 del 15 de diciembre de 2016. Pudiendo auditar las Cooperativas regidas por esta Norma, de conformidad a su categorización de inscripción en el RAEC.
+Las Firmas Auditoras Externas ya inscritas en el RAEC continuarán en la misma categoría que les fue definida en la Norma para la Contratación y Registro de Auditores Externos, emitida por CONSUCOOP según Acuerdo No. 002/15-12-2016 del 15 de diciembre de 2016. Pudiendo auditar las Cooperativas regidas por esta Norma, de conformidad a su categorización de inscripción en el RAEC.
 
 #### Artículo 27
 

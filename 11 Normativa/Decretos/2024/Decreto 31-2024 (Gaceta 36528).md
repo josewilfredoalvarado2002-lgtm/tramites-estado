@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 31-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240508-36528/download"
 extraido: "2026-11-14"
-huella: "d35cc02c9b5c1f90"
+huella: "d6e94ba801d5b28b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 31-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -143,7 +143,7 @@ ARTÍCULO 7.- RED NACIONAL DE ATENCIÓN DE
 
 PACIENTES ONCOLÓGICOS.- El Ente Rector en estrecha coordinación con los prestadores de servicios de salud que integran el Sistema Nacional de Salud, con la capacidad instalada de cada uno, organizará la Red Nacional de Atención de Pacientes Oncológicos, en adelante “La Red” en los diferentes niveles de atención, con el propósito que resuelva de manera eficiente la atención integral a las personas con cualquier manifestación, forma o denominación de cáncer. Le corresponde a La Red, recibir y canalizar adecuadamente sin importar su procedencia, a todo paciente que sea referido por una sospecha, diagnóstico y tratamiento de pacientes oncológicos, quien deberá ser atendido de acuerdo al criterio de referencia de facultativo.
 
-A RT Í C U L O 8 . - B A N C O N A C I O N A L D E MEDICAMENTOS E INSUMOS ONCOLÓGICOS.- El Ente Rector, en coordinación con el Sistema Nacional de Salud, creará un Banco Nacional de Medicamentos e Insumos Oncológicos que serán utilizados para el diagnóstico y tratamiento de las personas con cáncer, que incluyen: Quimioterapia, terapias dirigidas, anticuerpos monoclonales, inmunoterapias, terapias de radiación ionizantes y otros nuevos medicamentos con sólida base científica que garantice la mayor probabilidad de cura o sobrevida libre de enfermedad; asimismo podrá promover la compra conjunta de los mismos.
+A RT Í C U L O 8 . - BANCO NACIONAL DE MEDICAMENTOS E INSUMOS ONCOLÓGICOS.- El Ente Rector, en coordinación con el Sistema Nacional de Salud, creará un Banco Nacional de Medicamentos e Insumos Oncológicos que serán utilizados para el diagnóstico y tratamiento de las personas con cáncer, que incluyen: Quimioterapia, terapias dirigidas, anticuerpos monoclonales, inmunoterapias, terapias de radiación ionizantes y otros nuevos medicamentos con sólida base científica que garantice la mayor probabilidad de cura o sobrevida libre de enfermedad; asimismo podrá promover la compra conjunta de los mismos.
 
 #### Artículo 9
 

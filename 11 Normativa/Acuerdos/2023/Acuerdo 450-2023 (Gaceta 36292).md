@@ -8,10 +8,10 @@ gaceta_numero: 36292
 gaceta_fecha: "2023-07-27"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36292 (2023-07-27)|La Gaceta 36292]]"
 paginas: "A. 1 - 36"
-sumario: "Acuerdos No. 450-2023SERVICIO NACIONAL DE SANIDAD E INOCUIDADAGROALIMENTARIA SENASAAcuerdos C.D. SENASA 002-2023"
+sumario: "Acuerdos No. 450-2023; SERVICIO NACIONAL DE SANIDAD E INOCUIDADAGROALIMENTARIA SENASA: Acuerdos C.D. SENASA 002-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230727-36292/download"
 extraido: "2026-11-14"
-huella: "a44e5a7de8877db6"
+huella: "0ea96d1488f6c1b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 450-2023
@@ -23,7 +23,7 @@ huella: "a44e5a7de8877db6"
 | Emisor | AGENCIA DE REGULACIÓN SANITARIA ARSA |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36292 (2023-07-27)\|La Gaceta 36292]] del 2023-07-27 |
 | Páginas | A. 1 - 36 |
-| Según el sumario de La Gaceta | Acuerdos No. 450-2023SERVICIO NACIONAL DE SANIDAD E INOCUIDADAGROALIMENTARIA SENASAAcuerdos C.D. SENASA 002-2023 |
+| Según el sumario de La Gaceta | Acuerdos No. 450-2023; SERVICIO NACIONAL DE SANIDAD E INOCUIDADAGROALIMENTARIA SENASA: Acuerdos C.D. SENASA 002-2023 |
 
 ## Texto
 
@@ -33,9 +33,7 @@ huella: "a44e5a7de8877db6"
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801-1964- 05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en acuerdo No.
-
-028-2022, los días miércoles 05, jueves 06 y viernes 07 de julio del año 2023.
+PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801-1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en acuerdo No. 028-2022, los días miércoles 05, jueves 06 y viernes 07 de julio del año 2023.
 
 SEGUNDO: El presente acuerdo es efectivo a partir del 05 al 07 de julio del 2023.
 

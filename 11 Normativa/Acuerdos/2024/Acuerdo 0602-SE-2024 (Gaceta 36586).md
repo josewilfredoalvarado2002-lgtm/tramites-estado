@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo Ministerial No. 0602-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240715-36586/download"
 extraido: "2026-11-14"
-huella: "44a864796001e0da"
+huella: "3d63d01a83737a86"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 0602-SE-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Ley Fundamental de Educación, establece que el Estado reco
 
 CONSIDERANDO: Que, de conformidad al Reglamento de Educación Artística de la Ley Fundamental de Educación, contentivo en el Acuerdo Ejecutivo 1377-SE-2014, en su
 
-Artículo No.24, párrafo primero, establece que el Estado garantizará la creación de espacios que permitan el acceso y la participación en programas de inclusión social y educativo, de extensión, difusión y emprendedurismo artístico cultural.
+Artículo No. 24, párrafo primero, establece que el Estado garantizará la creación de espacios que permitan el acceso y la participación en programas de inclusión social y educativo, de extensión, difusión y emprendedurismo artístico cultural.
 
 CONSIDERANDO: Que la Organización de las Naciones Unidas para la Cultura, las Ciencias y la Educación (UNESCO), reconoce que las industrias creativas y las infraestructuras culturales constituyen un recurso inestimable para generar medios de subsistencia y reconoce en la cultura un elemento central de las políticas de desarrollo planteadas en los Objetivos de Desarrollo Sostenible (ODS).
 

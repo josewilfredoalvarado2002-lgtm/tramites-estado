@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "74d6de07f091bac0"
+huella: "b912701eb3e63e0b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 040-2024
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con el artículo 15 de ese mismo instrumento jurídico regional, los Estados Parte tienen el compromiso de constituir una Unión Aduanera entre sus territorios, la que se alcanzará de manera gradual y progresiva, sobre la base de programas que se establezcan al efecto, aprobados por consenso.
 
-CONSIDERANDO: Que mediante la Resolución No. 216- 2007 (COMIECO-XLVII), del 11 de diciembre de 2007, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.01.31:07 Alimentos Procesados. Procedimiento para otorgar el Registro Sanitario y la Inscripción Sanitaria, el cual fue modificado parcialmente, por la Resolución No.
-
-325-2013 (COMIECO-LXVI), del 12 de diciembre de 2013.
+CONSIDERANDO: Que mediante la Resolución No. 216-2007 (COMIECO-XLVII), del 11 de diciembre de 2007, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.01.31:07 Alimentos Procesados. Procedimiento para otorgar el Registro Sanitario y la Inscripción Sanitaria, el cual fue modificado parcialmente, por la Resolución No. 325-2013 (COMIECO-LXVI), del 12 de diciembre de 2013.
 
 CONSIDERANDO: Que los Estados Parte, en su calidad de Miembros de la Organización Mundial del Comercio (OMC), notificaron al Comité de Obstáculos Técnicos al Comercio, de conformidad con lo establecido en el Acuerdo sobre Obstáculos Técnicos al Comercio, el proyecto de RTCA 67.01.31:20 Alimentos procesados. Procedimiento para otorgar, renovar, modificar el registro sanitario y la inscripción sanitaria y concedieron un plazo prudencial a los Estados Miembros de la OMC para hacer observaciones al Proyecto referido, según lo establecido en el artículo 2, párrafo 9, numeral 4) del Acuerdo sobre Obstáculos Técnicos al Comercio, observaciones que fueron debidamente analizadas y atendidas en lo pertinente.
 

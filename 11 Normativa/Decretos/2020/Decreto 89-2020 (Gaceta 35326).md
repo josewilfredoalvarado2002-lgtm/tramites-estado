@@ -11,7 +11,7 @@ paginas: "A. 3 - 24"
 sumario: "Decretos Legislativos Nos. 89-2020, 92-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200727-35326/download"
 extraido: "2026-11-14"
-huella: "6a1886425614510b"
+huella: "b48f0579a77d03c5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 89-2020
@@ -29,9 +29,9 @@ huella: "6a1886425614510b"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6560-HN suscrito el 16 de Junio de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de TREINTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$ 30,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Mejoramiento de la Calidad en la Educación Pre-básica en Honduras”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6560-HN suscrito el 16 de Junio de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de TREINTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$ 30,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Mejoramiento de la Calidad en la Educación Pre-básica en Honduras”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivos mejorar: a) La capacidad institucional de la Secretaría de Estado en el Despacho de Educación para la gestión de la educación pre-básica; b) Prácticas pedagógicas de docentes y educadores de educación pre-básica; y, c) Entornos físicos de aprendizaje en centros de educación pre-básica que atienden a niños en las Áreas Focalizadas.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6560- HN, suscrito el 16 de Junio de 2020, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de TREINTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$ 30,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO MEJORAMIENTO DE LA CALIDAD EN LA EDUCACIÓN PRE-BÁSICA EN HONDURAS”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6560- HN, suscrito el 16 de Junio de 2020, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de TREINTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$ 30,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO MEJORAMIENTO DE LA CALIDAD EN LA EDUCACIÓN PRE-BÁSICA EN HONDURAS”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. NÚMERO
 
@@ -229,7 +229,7 @@ Contingente de Respuesta a Emergencia
 
 (iii) a partir de entonces, adoptar sin demora el Manual de Operaciones de Respuesta a Emergencias, como ha sido aprobado por la Asociación;
 
-(iv) d e v e z e n c u a n d o , e n v i a r recomendaciones a la Asociación para su consideración para los cambios y actualizaciones del Manual de Operaciones de Respuesta a Emergencias, ya que pueden ser necesarias o convenientes durante la implementación del Proyecto para permitir, si es necesario, la inclusión de actividades en la Parte 5 del Proyecto para responder a una Emergencia Elegible;
+(iv) d e v e z e n c u a n d o, enviar recomendaciones a la Asociación para su consideración para los cambios y actualizaciones del Manual de Operaciones de Respuesta a Emergencias, ya que pueden ser necesarias o convenientes durante la implementación del Proyecto para permitir, si es necesario, la inclusión de actividades en la Parte 5 del Proyecto para responder a una Emergencia Elegible;
 
 (v) garantizar que la Parte 5 del Proyecto se lleve a cabo de acuerdo con el Manual de Operaciones de Respuesta a Emergencias; siempre y cuando, que en el caso de cualquier inconsistencia entre las disposiciones del Manual de Operaciones de Respuesta a Emergencias y este Acuerdo, las disposiciones de este Acuerdo prevalecerán; y, (vi) no enmendar, suspender, derogar, abrogar o exonerar a ninguna disposición del Manual de Operaciones de Respuesta a Emergencias sin la aprobación previa de la Asociación.
 
@@ -357,7 +357,7 @@ Conservación de la Biodiversidad y Gestión Sostenible de los Recursos Naturale
 
 (b) del Anexo 2 de este Acuerdo o cualquier otro sucesor del mismo aceptable para la Asociación.
 
-36. “Manual de Planificación para Centros Escolares” significa el manual de la SE, que incluye estándares de construcción para centros de educación prebásica, aprobado mediante Acuerdo Ministerial No. 0399-SE- 2019 del 13 de mayo de 2019 y publicado en el Diario Oficial La Gaceta el 14 de agosto de 2019.
+36. “Manual de Planificación para Centros Escolares” significa el manual de la SE, que incluye estándares de construcción para centros de educación prebásica, aprobado mediante Acuerdo Ministerial No. 0399-SE-2019 del 13 de mayo de 2019 y publicado en el Diario Oficial La Gaceta el 14 de agosto de 2019.
 
 37. “Modalidades de Atención de Educación Prebásica” significa modalidades alternativas para la provisión de servicios de educación prebásica, que incluyen CCEPREB, CEPB y EDUCAS.
 
@@ -399,7 +399,7 @@ Conservación de la Biodiversidad y Gestión Sostenible de los Recursos Naturale
 
 #### Artículo 2
 
-ARTÍCULO 2.- Los pagos bajo el Acuerdo de Financiamiento No.6560-HN, incluyendo, entre otros, los realizados en concepto de capital, intereses, montos adicionales, comisiones y gastos estarán exentos de toda clase de deducciones, impuestos, derechos, tasas, contribuciones, recargos, arbitrios, aportes, honorarios, contribución pública, gubernamental o municipal y otros cargos hondureños.
+ARTÍCULO 2.- Los pagos bajo el Acuerdo de Financiamiento No. 6560-HN, incluyendo, entre otros, los realizados en concepto de capital, intereses, montos adicionales, comisiones y gastos estarán exentos de toda clase de deducciones, impuestos, derechos, tasas, contribuciones, recargos, arbitrios, aportes, honorarios, contribución pública, gubernamental o municipal y otros cargos hondureños.
 
 #### Artículo 3
 

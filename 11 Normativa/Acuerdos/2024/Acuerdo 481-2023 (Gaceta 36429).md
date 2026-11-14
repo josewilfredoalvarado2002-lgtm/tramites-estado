@@ -11,7 +11,7 @@ paginas: "A. 10 - 13"
 sumario: "Acuerdos Ejecutivos Números 462-2023, 463-2023, 480-2023, 481-2023, 482-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240109-36429/download"
 extraido: "2026-11-14"
-huella: "fffc49e0a4564e06"
+huella: "1794d64df5340d03"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 481-2023
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -59,7 +59,7 @@ Que, el 46% de la población hondureña se encuentra en zonas rurales, mantenien
 
 CONSIDERANDO:
 
-Q u e , e l G o b i e r n o d e l a República de Honduras, se ha comprometido firmemente a apoyar a los productores en materia de desarrollo agropecuario y soberanía alimentaria. El Plan de Gobierno de la Excelentísima Presidenta Xiomara Castro, contempla el aseguramiento de la legalización de tierras agrícolas bajo agrupaciones de campesinos que puedan obtener conocimiento técnico efectivo para proyectos comunitarios que aseguren las cosechas; así como promover la instalación de cajas rurales que puedan dinamizar la economía agrícola de todo el país.
+Q u e, el Gobierno de la República de Honduras, se ha comprometido firmemente a apoyar a los productores en materia de desarrollo agropecuario y soberanía alimentaria. El Plan de Gobierno de la Excelentísima Presidenta Xiomara Castro, contempla el aseguramiento de la legalización de tierras agrícolas bajo agrupaciones de campesinos que puedan obtener conocimiento técnico efectivo para proyectos comunitarios que aseguren las cosechas; así como promover la instalación de cajas rurales que puedan dinamizar la economía agrícola de todo el país.
 
 CONSIDERANDO:
 
@@ -69,7 +69,7 @@ CONSIDERANDO:
 
 Que, el “Programa de Crédito para la Agroindustria y Cajas Rurales”, contribuirá a mejorar las condiciones de vida de 88,854 familias hondureñas de escasos recursos y en condición de pobreza y extrema pobreza, beneficiando a 4,354 micros, pequeños y medianos productores, especialmente mujeres, quienes tendrán acceso a servicios de crédito, asistencia técnica para establecer nuevas oportunidades de empleo, mejorar sus niveles de productividad y la comercialización de productos agroalimentarios en condiciones de competitividad y sostenibilidad, fortaleciendo 2,007 nuevas cajas rurales de ahorro y crédito a nivel nacional, a través de la dotación de capital productivo, capacitación y asistencia técnica, promoviendo el emprendedurismo entre las familias participantes, a través de la ejecución de proyectos que les permita producir en sus parcelas y, de esta forma, garantizar con mejores rendimientos el sustento y seguridad alimentaria y nutricional de sus hogares.
 
-CONSIDERANDO: Que, el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido el financiamiento con el Banco Centroamericano de Integración Económica (BCIE), para el Programa de Crédito para la Agroindustria y Cajas Rurales, mediante la reorientación del monto disponible de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00) del Contrato de Préstamo No.2248, tramo B, que financiaba el “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y post COVID-19 en Honduras” y; un nuevo Financiamiento complementario por un monto de hasta Veinticinco Millones de Dólares de los Estados Unidos de América (US$25,000,000.00).
+CONSIDERANDO: Que, el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido el financiamiento con el Banco Centroamericano de Integración Económica (BCIE), para el Programa de Crédito para la Agroindustria y Cajas Rurales, mediante la reorientación del monto disponible de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00) del Contrato de Préstamo No. 2248, tramo B, que financiaba el “Programa para la Reactivación Económica a través de la MIPYME en la Crisis y post COVID-19 en Honduras” y; un nuevo Financiamiento complementario por un monto de hasta Veinticinco Millones de Dólares de los Estados Unidos de América (US$25,000,000.00).
 
 Dicho Programa tiene como objetivo contribuir a mejorar las condiciones de vida de la población en pobreza y pobreza extrema de Honduras, a través del fortalecimiento de habilidades productivas y asociativas de micro, pequeños y medianos productores organizados y no organizados y; emprendedores integrados en cajas rurales, así como facilitar el acceso a crédito en condiciones favorables para incrementar la seguridad alimentaria y el desarrollo del sector agropecuario y agroindustrial del país.
 
@@ -85,7 +85,7 @@ ARTÍCULO 1.- Autorizar a la Abogada RIXI RAMONA MONCADA GODOY, en su condición
 
 #### Artículo 2
 
-ARTÍCULO 2.- Autorizar a la Abogada RIXI RAMONA MONCADA GODOY, en su condición de Secretaria de Estado en el Despacho de Finanzas, para que en nombre y representación del Gobierno de la República de Honduras pueda suscribir el Contrato Modificatorio al Contrato de Préstamo No.2248, tramo B, con el Banco Centroamericano de Integración Económica (BCIE) para reorientar el monto disponible de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00) de dicho préstamo al financiamiento de la ejecución del Programa de Crédito para la Agroindustria y Cajas Rurales.
+ARTÍCULO 2.- Autorizar a la Abogada RIXI RAMONA MONCADA GODOY, en su condición de Secretaria de Estado en el Despacho de Finanzas, para que en nombre y representación del Gobierno de la República de Honduras pueda suscribir el Contrato Modificatorio al Contrato de Préstamo No. 2248, tramo B, con el Banco Centroamericano de Integración Económica (BCIE) para reorientar el monto disponible de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00) de dicho préstamo al financiamiento de la ejecución del Programa de Crédito para la Agroindustria y Cajas Rurales.
 
 #### Artículo 3
 

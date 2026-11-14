@@ -8,10 +8,10 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 10 - 14"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
-huella: "ee47e099e59691db"
+huella: "e1f4a81229254818"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 121-2020
@@ -23,7 +23,7 @@ huella: "ee47e099e59691db"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 10 - 14 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -75,9 +75,9 @@ ALTERNADOR: 12V-80ª.
 
 DIRECCIÓN: Completamente Hidráulica / Telescópica.
 
-EXTRAS: Cabina abatible, radio am/ fm parlantes, espejo de seguridad, ventiladora, espejos interiores y exteriores, freno al motor, doble filtro de combustible con sedimentador, t r a t a m i e n t o a n t i c o r r o s i v o , herramientas, cenicero, encendedor, bumper, seguro al timón, soleras, loderas, bandeja, apoya cabezas, manual de mantenimiento, luces de neblina, cinturones 3/2 puntos, desempañador, pito doble nota, tapón tanque con llave, alarma sonora retroceso, asideras, compensador de altura, embrague asistido, tacómetro.
+EXTRAS: Cabina abatible, radio am/ fm parlantes, espejo de seguridad, ventiladora, espejos interiores y exteriores, freno al motor, doble filtro de combustible con sedimentador, tratamiento anticorrosivo, herramientas, cenicero, encendedor, bumper, seguro al timón, soleras, loderas, bandeja, apoya cabezas, manual de mantenimiento, luces de neblina, cinturones 3/2 puntos, desempañador, pito doble nota, tapón tanque con llave, alarma sonora retroceso, asideras, compensador de altura, embrague asistido, tacómetro.
 
-P R E C I O D I S P E N S A D O :
+PRECIO DISPENSADO:
 
 CUARENTA Y CINCO MIL NOVECIENTOS SESENTA Y DOS DÓLARES AMERICANOS CON SETENTA Y TRES CENTAVOS.
 

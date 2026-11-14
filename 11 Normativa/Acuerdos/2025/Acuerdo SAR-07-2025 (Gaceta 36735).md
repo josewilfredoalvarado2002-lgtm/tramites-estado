@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Número SAR-07-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250109-36735/download"
 extraido: "2026-11-13"
-huella: "719103e0f1bc9027"
+huella: "919c1405f93da758"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-07-2025
@@ -57,7 +57,7 @@ CONSIDERANDO: Que el Artículo 116 de la Ley General de la Administración Públ
 
 POR TANTO:
 
-La Dirección Ejecutiva del Servicio de Administración de Rentas (SAR), en el uso de las facultades que la Ley le confiere y en aplicación de los siguientes artículos: 255, 321 y 351 de la Constitución de la República; 10, 15, 29, 30, 32, 43, 47, 56, 197, 198 y 199 del Código Tributario contenido en el Decreto Legislativo No. 170-2016; 1, 9, 22 literal b) y 28 de la Ley del Impuesto Sobre la Renta; 116 y 118 de la Ley General de la Administración Pública; Acuerdo Ejecutivo número 001- 2017; y, demás normativa legal aplicable.
+La Dirección Ejecutiva del Servicio de Administración de Rentas (SAR), en el uso de las facultades que la Ley le confiere y en aplicación de los siguientes artículos: 255, 321 y 351 de la Constitución de la República; 10, 15, 29, 30, 32, 43, 47, 56, 197, 198 y 199 del Código Tributario contenido en el Decreto Legislativo No. 170-2016; 1, 9, 22 literal b) y 28 de la Ley del Impuesto Sobre la Renta; 116 y 118 de la Ley General de la Administración Pública; Acuerdo Ejecutivo número 001-2017; y, demás normativa legal aplicable.
 
 ACUERDA:
 

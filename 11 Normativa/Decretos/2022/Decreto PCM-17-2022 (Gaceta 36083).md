@@ -11,7 +11,7 @@ paginas: "A. 9 - 14"
 sumario: "Decreto Ejecutivo número PCM-17-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221122-36083/download"
 extraido: "2026-11-14"
-huella: "1f7fda1e96c19b12"
+huella: "e87425a3a98b7540"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-17-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estad
 
 CONSIDERANDO: Que Honduras está comenzando a escribir la historia de la refundación de la patria y de la esperanza, ha sido una larga espera de este tránsito histórico de apertura de alamedas y sanación de nuestras heridas. En este duro camino, fue la lucha del pueblo en las urnas la que logró derrocar la dictadura y fue el pueblo junto a la Presidenta de la República, Iris Xiomara Castro Sarmiento y el Presidente del Congreso Nacional, Luis Rolando Redondo Guifarro, quienes rescataron al país de las manos de la traición y la ignominia.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 04- 2022 de fecha 04 de febrero de 2022 y publicado en el Diario Oficial “La Gaceta” en su edición número 35,840, se ordenó brindar apoyo a los descendientes y/o ascendientes directos de las víctimas de asesinato registradas por los informes de la Comisión Interamericana de Derechos Humanos (CIDH) y los Organismos de Derechos Humanos en Honduras, a través de un programa social que garantice su educación y sobrevivencia en condiciones de dignidad y seguridad.
+CONSIDERANDO: Que mediante Decreto Legislativo 04-2022 de fecha 04 de febrero de 2022 y publicado en el Diario Oficial “La Gaceta” en su edición número 35,840, se ordenó brindar apoyo a los descendientes y/o ascendientes directos de las víctimas de asesinato registradas por los informes de la Comisión Interamericana de Derechos Humanos (CIDH) y los Organismos de Derechos Humanos en Honduras, a través de un programa social que garantice su educación y sobrevivencia en condiciones de dignidad y seguridad.
 
 Este Decreto otorga además una amnistía para las víctimas de persecución política, exilio y privación de libertad en el marco del Golpe de Estado de junio de 2009.
 
@@ -75,7 +75,7 @@ ARTÍCULO 3. El “Programa Social de Atención a las Familias de los Mártires 
 
 Dicha pensión no será acumulable con otras pensiones otorgadas por el Estado.
 
-3. JUSTICIA. Brindar todo el apoyo y acompañamiento necesario al NÚCLEO FAMILIAR directo de las víctimas , para facilitar el acceso a una justicia pronta y expedita, así como a las reparaciones correspondientes tanto en las instancias nacionales como internacionales.
+3. JUSTICIA. Brindar todo el apoyo y acompañamiento necesario al NÚCLEO FAMILIAR directo de las víctimas, para facilitar el acceso a una justicia pronta y expedita, así como a las reparaciones correspondientes tanto en las instancias nacionales como internacionales.
 
 4. ATENCIÓN PSICOLÓGICA. Ofrecer al NÚCLEO FAMILIAR directo de las víctimas un programa integral de atención psicológica, mediante el diseño de una ruta de salud personalizada.
 
@@ -83,7 +83,7 @@ Dicha pensión no será acumulable con otras pensiones otorgadas por el Estado.
 
 6. SALUD. Incorporar al NÚCLEO FAMILIAR directo de las víctimas al Sistema de Seguridad Social, en caso procedente, para garantizar que tengan acceso a los servicios del mismo.
 
-7. VIVIENDA. Incluir al NÚCLEO FAMILIAR directo de las víctimas , en caso de que lo requieran, dentro de los programas sociales ofrecidos por el Gobierno, para garantizar su acceso a una vivienda adecuada.
+7. VIVIENDA. Incluir al NÚCLEO FAMILIAR directo de las víctimas, en caso de que lo requieran, dentro de los programas sociales ofrecidos por el Gobierno, para garantizar su acceso a una vivienda adecuada.
 
 #### Artículo 4
 

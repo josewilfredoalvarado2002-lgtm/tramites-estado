@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdo Ejecutivo número 163-SEP-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221031-36064/download"
 extraido: "2026-11-14"
-huella: "a3a8850e574ec579"
+huella: "97d26c2d61fff4b0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 163-SEP-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que debido a la naturaleza de los proyectos y sus plazos específi
 
 POR TANTO, En uso de las facultades de que esta investido y en aplicación de los Artículo 247 de la Constitución de la República, Artículos 5, 6, 116, 118 y 119 de la Ley General de la Administración Pública; Artículo 4 y 5 de la Ley del Procedimiento Administrativo.
 
-A C U E R D A:
+ACUERDA:
 
 1. Cancelar a la ciudadana LIS MARÍA MONCADA PINEDA, a partir del 01 de noviembre del año dos mil veintidós (01.11.2022), en el cargo de Director Técnico de la Unidad Especial de Ejecución de Proyectos (UEEP), cargo que desempeñó de manera Ad Honorem; se le rinden las gracias por los servicios prestados.
 

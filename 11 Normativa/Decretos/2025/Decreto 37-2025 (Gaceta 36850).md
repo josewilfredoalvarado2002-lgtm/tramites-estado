@@ -11,7 +11,7 @@ paginas: "A. 109 - 170"
 sumario: "Decretos Nos. 18-2025, 22-2025, 35-2025,36-2025, 37-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250529-36850/download"
 extraido: "2026-11-10"
-huella: "c81d67b632ec1936"
+huella: "f3aa61301ae05c7e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 37-2025
@@ -51,7 +51,7 @@ DECRETA:
 
 ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo, suscrito el 30 de diciembre de 2024, entre la Corporación Andina de Fomento (CAF) en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), recursos destinados a la ejecución del “Programa de Pre-inversión e Inversión Pública en Honduras”, que literalmente dice:
 
-“SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. CONTRATO DE PRÉSTAMO ENTRE la República de Honduras y Corporación Andina de Fomento. Conste por el presente documento el Contrato de Préstamo que se celebra entre la Corporación Andina de Fomento (en adelante, “CAF”), representada en este acto por el señor Maximiliano Ricardo Alonso, de nacionalidad belga e identificado con pasaporte número ER026875; debidamente facultado para ello mediante documento poder presentado ante la Lic. Zuleika Inés Carrera Yee, Notario Público Sexta del Circuito de Panamá, con cédula No. 8-451-391, en fecha 14 de noviembre de 2024, debidamente apostillado en fecha 20 de noviembre de 2024, bajo el número 2024-22379; y de la otra parte, República de Honduras (en adelante, el “Prestatario”), representado en este acto por Christian David Duarte Chávez, de nacionalidad hondureña e identificado con Documento de Identidad Nacional, número 0801-1991-24487, en su calidad de Secretario de Estado; debidamente facultado para ello mediante Acuerdo Ejecutivo de fecha 11 de septiembre y cuyo nombramiento se evidencia en Acuerdo Ejecutivo No.201-2024, en adelante y conjuntamente las Partes, en los términos y condiciones que a continuación se señalan:
+“SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. CONTRATO DE PRÉSTAMO ENTRE la República de Honduras y Corporación Andina de Fomento. Conste por el presente documento el Contrato de Préstamo que se celebra entre la Corporación Andina de Fomento (en adelante, “CAF”), representada en este acto por el señor Maximiliano Ricardo Alonso, de nacionalidad belga e identificado con pasaporte número ER026875; debidamente facultado para ello mediante documento poder presentado ante la Lic. Zuleika Inés Carrera Yee, Notario Público Sexta del Circuito de Panamá, con cédula No. 8-451-391, en fecha 14 de noviembre de 2024, debidamente apostillado en fecha 20 de noviembre de 2024, bajo el número 2024-22379; y de la otra parte, República de Honduras (en adelante, el “Prestatario”), representado en este acto por Christian David Duarte Chávez, de nacionalidad hondureña e identificado con Documento de Identidad Nacional, número 0801-1991-24487, en su calidad de Secretario de Estado; debidamente facultado para ello mediante Acuerdo Ejecutivo de fecha 11 de septiembre y cuyo nombramiento se evidencia en Acuerdo Ejecutivo No. 201-2024, en adelante y conjuntamente las Partes, en los términos y condiciones que a continuación se señalan:
 
 CAPÍTULO I
 
@@ -133,7 +133,7 @@ El Prestatario declara y garantiza que el Organismo Ejecutor se encuentra debida
 
 CLÁUSULA 7.
 
-P l a z o p a r a S o l i c i t a r Desembolsos 7.1.
+Plazo para Solicitar Desembolsos 7.1.
 
 El Prestatario tendrá un plazo de hasta diez (10) Meses para solicitar, directamente o por intermedio del Organismo Ejecutor, el primer Desembolso y de hasta sesenta (60) Meses para solicitar el último Desembolso. Ambos plazos serán contados desde la Fecha de Entrada en Vigencia.
 
@@ -361,7 +361,7 @@ Intereses
 
 CLÁUSULA 14.
 
-F i n a n c i a m i e n t o Compensatorio
+Financiamiento Compensatorio
 
 14.1. Durante los primeros ocho (8) años contados a partir de la Fecha de Entrada en Vigencia (o durante los que sean aplicables conforme a la sub-cláusula siguiente), CAF financiará con carácter no reembolsable diez (10) Puntos Básicos (o los que sean aplicables conforme a la sub-cláusula siguiente) de la Tasa de Interés. Dicho financiamiento se realizará con cargo al Fondo de Financiamiento Compensatorio de CAF (en adelante, el “Financiamiento Compensatorio”).
 
@@ -701,7 +701,7 @@ Cláusula 4.
 
 Declaraciones del Prestatario
 
-4.1. El Prestatario declara a CAF que quien (i) suscribe el Contrato de Préstamo por el Prestatario ;y, (ii) suscribirá los documentos enviados a CAF por causa o con ocasión del Contrato de Préstamo, está debidamente autorizado para actuar en su nombre y representación y que la totalidad de los requisitos y formalidades que le son aplicables han sido cumplidos y por tanto está autorizado para suscribir y vincular al Prestatario en los términos del presente Contrato de Préstamo.
+4.1. El Prestatario declara a CAF que quien (i) suscribe el Contrato de Préstamo por el Prestatario;y, (ii) suscribirá los documentos enviados a CAF por causa o con ocasión del Contrato de Préstamo, está debidamente autorizado para actuar en su nombre y representación y que la totalidad de los requisitos y formalidades que le son aplicables han sido cumplidos y por tanto está autorizado para suscribir y vincular al Prestatario en los términos del presente Contrato de Préstamo.
 
 Cláusula 5.
 

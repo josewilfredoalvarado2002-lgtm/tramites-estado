@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Decreto No. 100-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211206-35790/download"
 extraido: "2026-11-14"
-huella: "1851d6b465a85bd9"
+huella: "c6c8ef90d537b932"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 100-2021
@@ -39,11 +39,11 @@ CONSIDERANDO: Que por mandato constitucional el Estado tiene la obligación de d
 
 CONSIDERANDO: Que con la publicación de la Ley Fundamental de Educación y sus Reglamentos, el Estado de Honduras garantiza el derecho a la educación a todos los educandos sin discriminación, con la mayor cobertura y calidad posible, de manera que llegue hasta las comunidades más remotas del país.
 
-CONSIDERANDO: Que mediante Acuerdo No.008-98 de fecha 25 de Mayo de 1998, se creó el Programa Hondureño de Educación Comunitaria (PROHECO), cuyo objetivo fundamental es, mejorar la participación comunitaria, que ofrezca a la población rural con mayores carencias sociales y debilidades educativas, el acceso a una educación con calidad y eficiencia en la entrega de los servicios educativos, especialmente en los niveles de preescolar y primaria, bajo la corresponsabilidad entre el Estado y la Sociedad Civil.
+CONSIDERANDO: Que mediante Acuerdo No. 008-98 de fecha 25 de Mayo de 1998, se creó el Programa Hondureño de Educación Comunitaria (PROHECO), cuyo objetivo fundamental es, mejorar la participación comunitaria, que ofrezca a la población rural con mayores carencias sociales y debilidades educativas, el acceso a una educación con calidad y eficiencia en la entrega de los servicios educativos, especialmente en los niveles de preescolar y primaria, bajo la corresponsabilidad entre el Estado y la Sociedad Civil.
 
 CONSIDERANDO: Que el Sistema de Aprendizaje Tutorial (SAT), es una modalidad de Educación Formal de nuestro país reconocido por el Estado de Honduras, con enfoque rural, el cual está dirigido a jóvenes que han cursado y aprobado su educación primaria, mismo que fue aprobado por la Secretaría de Estado en el Despacho de Educación desde el año 2002.
 
-CONSIDERANDO: Que el Acuerdo No.1017-SE-2014 ya contiene el marco regulatorio para que los docentes que laboran en el Sistema de Aprendizaje Tutorial (SAT), obtengan la permanencia laboral dentro del Sistema Educativo, estableciendo que los docentes que ostentan el título de Licenciatura y hayan culminado con el proceso de capacitación impartido por la Asociación BAYAN podrán acceder a la permanencia, sin embargo, a pesar que la gran mayoría de tutores cumplen con los requisitos y antigüedad en el trabajo aun no cuentan con permanencia y estabilidad laboral.
+CONSIDERANDO: Que el Acuerdo No. 1017-SE-2014 ya contiene el marco regulatorio para que los docentes que laboran en el Sistema de Aprendizaje Tutorial (SAT), obtengan la permanencia laboral dentro del Sistema Educativo, estableciendo que los docentes que ostentan el título de Licenciatura y hayan culminado con el proceso de capacitación impartido por la Asociación BAYAN podrán acceder a la permanencia, sin embargo, a pesar que la gran mayoría de tutores cumplen con los requisitos y antigüedad en el trabajo aun no cuentan con permanencia y estabilidad laboral.
 
 CONSIDERANDO: Que el Artículo 20 del Estatuto del Docente Hondureño prescribe “El docente que hubiere ingresado legalmente a un puesto y lo ocupare por un término de seis (6) meses consecutivos como mínimo, tendrá derecho a ocupar en propiedad un puesto de igual nivel sin cumplir nuevamente los requisitos de selección.”
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -75,11 +75,11 @@ ARTÍCULO 3.- Ordenar a la Secretaría de Estado en el Despacho de Educación pa
 
 Asimismo, todo aquel docente que haya sido nombrado al menos dos (2) años consecutivos en licencias, debe ser enlistado como exonerado y se le deberá dar primer orden en prelación para su nombramiento en caso de que se genere una plaza vacante en el área de conocimiento que desempeñó la licencia.
 
-Se autoriza a la Secretaría de Estado en el Despacho de Educación hacer los nombramientos permanentes del personal que se desempeña en cargos técnicos del nivel central superior y nivel departamental de la Secretaría de Estado en el Despacho de Educación, nombrados actualmente, ya sea por contrato, o en estructuras vacantes o como docentes asignados descargados, para que puedan desempeñarse en cargos de ASISTENTES TÉCNICO , en el nivel central o Direcciones Departamentales, los cuales deben ser nombrados por el Secretario de Estado en el Despacho de Educación por conducto de la Dirección General de Gestión del Talento Humano de esta Secretaría de Estado.
+Se autoriza a la Secretaría de Estado en el Despacho de Educación hacer los nombramientos permanentes del personal que se desempeña en cargos técnicos del nivel central superior y nivel departamental de la Secretaría de Estado en el Despacho de Educación, nombrados actualmente, ya sea por contrato, o en estructuras vacantes o como docentes asignados descargados, para que puedan desempeñarse en cargos de ASISTENTES TÉCNICO, en el nivel central o Direcciones Departamentales, los cuales deben ser nombrados por el Secretario de Estado en el Despacho de Educación por conducto de la Dirección General de Gestión del Talento Humano de esta Secretaría de Estado.
 
 #### Artículo 4
 
-ARTÍCULO 4.- Aplicar los beneficios establecidos en el Decreto No.47-2020, de fecha 14 de Mayo de 2020, publicado el 1 de Junio de 2020, a todo el personal médico sanitario, asistencial y personal de apoyo a los servicios médicos que hayan participado de forma efectiva en la atención a pacientes infectados con Covid-19 o en acciones preventivas para evitar los contagios del mismo, siempre y cuando hayan sido prestados en el sistema público, independientemente si los servicios fueron prestado en la administración central o descentralizada, incluyendo las municipalidades o a través de organizaciones no gubernamentales que desempeñen por convenio con el Estado dicha labor; siempre y cuando dicho personal no tengan una plaza permanente en el sistema de salud pública del país.
+ARTÍCULO 4.- Aplicar los beneficios establecidos en el Decreto No. 47-2020, de fecha 14 de Mayo de 2020, publicado el 1 de Junio de 2020, a todo el personal médico sanitario, asistencial y personal de apoyo a los servicios médicos que hayan participado de forma efectiva en la atención a pacientes infectados con Covid-19 o en acciones preventivas para evitar los contagios del mismo, siempre y cuando hayan sido prestados en el sistema público, independientemente si los servicios fueron prestado en la administración central o descentralizada, incluyendo las municipalidades o a través de organizaciones no gubernamentales que desempeñen por convenio con el Estado dicha labor; siempre y cuando dicho personal no tengan una plaza permanente en el sistema de salud pública del país.
 
 #### Artículo 5
 

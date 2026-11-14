@@ -11,7 +11,7 @@ paginas: "A. 1 - 64"
 sumario: "Decreto No. 181-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261024-37277/download"
 extraido: "2026-11-09"
-huella: "984767e7bef7ec81"
+huella: "2e19598909be7ab2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 181-2026
@@ -45,13 +45,13 @@ Artículo 1 de la Ley de Contratación del Estado, en el que establece que los c
 
 CONSIDERANDO: Que de acuerdo con el Artículo 13 de la Ley de Contratación del Estado los Contratos de Exoneración o con efectos en el siguiente período de gobierno, requerirán aprobación del Congreso Nacional.
 
-CONSIDERANDO: Que conforme a lo estipulado en las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal del año 2025, contentivo del Decreto Legislativo No.4-2025, publicado en fecha 6 de Febrero del año 2025 específicamente en el Artículo 51 establece en su párrafo segundo: “En el caso que los contratos trasciendan el Ejercicio Fiscal se deberá dejar prevista la asignación presupuestaria correspondiente a cada año en los respectivos objetos del gasto, siendo responsable la Unidad Ejecutora y la Gerencia Administrativa. Si el plazo del Contrato trasciende el período de gobierno, el Contrato deberá ser ratificado por el Congreso Nacional.
+CONSIDERANDO: Que conforme a lo estipulado en las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal del año 2025, contentivo del Decreto Legislativo No. 4-2025, publicado en fecha 6 de Febrero del año 2025 específicamente en el Artículo 51 establece en su párrafo segundo: “En el caso que los contratos trasciendan el Ejercicio Fiscal se deberá dejar prevista la asignación presupuestaria correspondiente a cada año en los respectivos objetos del gasto, siendo responsable la Unidad Ejecutora y la Gerencia Administrativa. Si el plazo del Contrato trasciende el período de gobierno, el Contrato deberá ser ratificado por el Congreso Nacional.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,9 +63,9 @@ Aprobar en todas y cada una de sus partes:
 
 N o .
 
-S I T - C O - 8 0 8 - 2 0 2 5 ;
+S I T - C O - 8 0 8 - 2 0 2 5;
 
-“ P AV I M E N T A C I Ó N C O N C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍ
+“ P AV I M E N T A C I Ó N C O N C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍ
 
 - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”, suscrito en fecha 29 de Diciembre del año 2025, entre La SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) y la EMPRESA GESTORES DE PROYECTOS, S.
 
@@ -79,13 +79,13 @@ N O .
 
 S I T - C O - 8 0 8 - 2 0 2 5 .
 
-“ P AV I M E N T A C I Ó N C O N C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍ
+“ P AV I M E N T A C I Ó N C O N C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍ
 
 - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA = 2.2 KM”. Por una parte, yo, OCTAVIO JOSE PINEDA PAREDES, hondureño, mayor de edad, soltero, Ingeniero Civil, con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán, con Documento Nacional de Identificación (DNI) número 0801199024191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); nombrado mediante Acuerdo Ejecutivo No. 11- 2024, de fecha 03 de enero de 2024; con suficientes facultades para suscribir actos como el presente, quien en adelante y para estos efectos se denominará EL CONTRATANTE; y por otra parte, ANA BEATRIZ GUEVARA VINDEL, hondureña, mayor de edad, con Documento Nacional de Identificación
 
 (DNI) número 0601200001257, con Registro Tributario Nacional (RTN) número 06012000012579; actuando en su condición de Representante Legal de la empresa GESTORES DE PROYECTOS S. DE R.L. con correo electrónico gestores_de_proyectos@ hotmail.com, teléfono +504 2782-8070 y con domicilio legal en Barrio La Providencia, Choluteca, Honduras, para efectos de notificación, empresa constituida conforme a las leyes de la República de Honduras bajo Registro Tributario Nacional (RTN) número 08019000233084 y debidamente autorizado para celebrar el presente acto, quien para efectos legales se denominará EL CONTRATISTA;
 
-En este sentido, manifestamos estar de acuerdo con las cláusulas, estipulaciones legales, condiciones generales y especiales descritas en este contrato para la CONSTRUCCIÓN del proyecto: “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍ
+En este sentido, manifestamos estar de acuerdo con las cláusulas, estipulaciones legales, condiciones generales y especiales descritas en este contrato para la CONSTRUCCIÓN del proyecto: “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍ
 
 - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA = 2.2 KM”, que a continuación se prescribe:
 
@@ -119,7 +119,7 @@ Dirección General de Desarrollo Vial, encargada de coordinar y velar por la eje
 
 GESTORES DE PROYECTOS S. DE R.L.
 
-8. LA SUPERVISIÓN: La Firma supervisora contratada para la supervisión del proyecto, d e n o m i n a d a e n a l g u n o s documentos como INGENIERO.
+8. LA SUPERVISIÓN: La Firma supervisora contratada para la supervisión del proyecto, denominada en algunos documentos como INGENIERO.
 
 9. INGENIERO
 
@@ -147,7 +147,7 @@ LA DIRECCIÓN, representante de EL CONTRATISTA que organizará, planificará, co
 
 - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA = 2.2 KM” C L Á U S U L A I I : T R A B A J O REQUERIDO: EL CONTRATISTA con elementos suficientes para suministrar por su cuenta y riesgo, se obliga a la Construcción para EL CONTRATANTE, del Proyecto:
 
-“ P AV I M E N T A C I Ó N C O N C O N C R E TO H I D R Á U L I C O TRAMO: RUTA 15V42000, DULCE NOMBRE DE CULMÍ - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA = 2.2 KM”. De conformidad con las Especificaciones, Disposiciones Especiales, y Convenios Suplementarios anexos al Contrato.
+“ P AV I M E N T A C I Ó N C O N C O N C R E TO HIDRÁULICO TRAMO: RUTA 15V42000, DULCE NOMBRE DE CULMÍ - LAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA = 2.2 KM”. De conformidad con las Especificaciones, Disposiciones Especiales, y Convenios Suplementarios anexos al Contrato.
 
 Tales documentos están descritos en la Cláusula VII que forman parte del presente Contrato. CLÁUSULA III:
 
@@ -387,7 +387,7 @@ LA DIRECCIÓN.
 
 En caso de haber discrepancia entre lo dispuesto en el contrato y los anexos, privará lo expuesto en el contrato y en caso de discrepancia entre dos o más anexos, privará lo previsto en el anexo específicamente relativo al caso en cuestión.
 
-CLÁUSULA VIII: PREVALENCIA D E L O S D O C U M E N T O S
+CLÁUSULA VIII: PREVALENCIA DE LOS DOCUMENTOS
 
 CONTRACTUALES: El presente Contrato prevalecerá sobre todos los demás documentos contractuales.
 
@@ -409,7 +409,7 @@ Se considerará que los documentos enumerados a continuación forman parte del p
 
 (viii) Especificaciones Técnicas.
 
-( i x ) C o n t r a t o A c c e s o r i o d e Corresponsabilidad por Cumplimiento de Medidas de Mitigación y Transferencia de Responsabilidades Relativas a Actividades de Impacto Ambiental y Social en el Sitio.
+( i x ) Contrato Accesorio de Corresponsabilidad por Cumplimiento de Medidas de Mitigación y Transferencia de Responsabilidades Relativas a Actividades de Impacto Ambiental y Social en el Sitio.
 
 (x) Planos.
 
@@ -419,7 +419,7 @@ Se considerará que los documentos enumerados a continuación forman parte del p
 
 (xiii) Aclaraciones y Adendas a los Documentos de Licitación.
 
-( x i v ) Ó r d e n e s d e C a m b i o y Modificaciones al contrato.
+( x i v ) Órdenes de Cambio y Modificaciones al contrato.
 
 (xv) Ley de Contratación del Estado y Reglamento.
 
@@ -433,7 +433,7 @@ I. Definiciones, numeral 8 de este contrato.
 
 b) LA DIRECCIÓN velará porque la ejecución de la obra se realice de acuerdo con los documentos contractuales y para tal efecto y sin necesidad de hacerlo del conocimiento de EL CONTRATISTA, podrá efectuar cuantas inspecciones considere conveniente; dicha inspección también podrá ser efectuada por LA SECRETARÍA, o cualquier otra Institución Gubernamental y EL CONTRATISTA se verá obligado a dar las facilidades necesarias para la inspección y facilitará o hará que se facilite el libre acceso en todo tiempo a los lugares donde se prepare, fabriquen o manufacturen todos los materiales y donde la construcción de la obra esté efectuándose; asimismo, proveerá la información y asistencia necesaria para que se efectúe una inspección detallada y completa.
 
-C L Á U S U L A X : L I B R O S Y REGISTROS: EL CONTRATISTA deberá mantener libros y registros en idioma español relacionados con el proyecto, de conformidad con sanas prácticas de contabilidad generalmente aceptadas, adecuadas para identificar los bienes y servicios financiados bajo este contrato; estos libros y registros podrán ser inspeccionados y auditados durante la ejecución del contrato y en la forma que EL GOBIERNO considere necesario. Los libros y registros, así como los documentos y demás informaciones relativas a gastos y cualquier otra operación relacionada con el proyecto, deberán ser mantenidos por EL CONTRATISTA por un período de cinco (5) años después de terminado el proyecto. Durante ese período, estarán sujetos en todo tiempo a inspección y auditorías que EL GOBIERNO considere razonable efectuar.
+C L Á U S U L A X: LIBROS Y REGISTROS: EL CONTRATISTA deberá mantener libros y registros en idioma español relacionados con el proyecto, de conformidad con sanas prácticas de contabilidad generalmente aceptadas, adecuadas para identificar los bienes y servicios financiados bajo este contrato; estos libros y registros podrán ser inspeccionados y auditados durante la ejecución del contrato y en la forma que EL GOBIERNO considere necesario. Los libros y registros, así como los documentos y demás informaciones relativas a gastos y cualquier otra operación relacionada con el proyecto, deberán ser mantenidos por EL CONTRATISTA por un período de cinco (5) años después de terminado el proyecto. Durante ese período, estarán sujetos en todo tiempo a inspección y auditorías que EL GOBIERNO considere razonable efectuar.
 
 CLÁUSULA XI: SEGUROS: EL
 
@@ -511,11 +511,11 @@ CONTRATISTA dentro de los cinco
 
 (05) días hábiles posteriores a la iniciación del proyecto, deberá remitir a LA DIRECCIÓN un listado en el que se describa ampliamente el equipo que está utilizando.
 
-Q u e d a c o n v e n i d o q u e E L CONTRATISTA deberá mantener el equipo en buenas condiciones de operación, pudiendo retirarlo o reemplazarlo únicamente con el consentimiento escrito de LA DIRECCIÓN. El equipo que a juicio de la Empresa Consultora no esté en buenas condiciones de funcionamiento, será notificado por esta a LA DIRECCIÓN, el cual será retirado o reemplazado de la obra, para lo cual será necesario únicamente que LA DIRECCIÓN lo ordene mediante nota y su reemplazo deberá efectuarse dentro de los quince
+Queda convenido que EL CONTRATISTA deberá mantener el equipo en buenas condiciones de operación, pudiendo retirarlo o reemplazarlo únicamente con el consentimiento escrito de LA DIRECCIÓN. El equipo que a juicio de la Empresa Consultora no esté en buenas condiciones de funcionamiento, será notificado por esta a LA DIRECCIÓN, el cual será retirado o reemplazado de la obra, para lo cual será necesario únicamente que LA DIRECCIÓN lo ordene mediante nota y su reemplazo deberá efectuarse dentro de los quince
 
 (15) días calendario después de recibida la nota.
 
-C L Á U S U L A X V I : F U E R Z A
+CLÁUSULA XVI: FUERZA
 
 MAYOR: Por FUERZA MAYOR se entenderá causas imprevistas fuera del control de EL CONTRATISTA incluyéndose, pero no limitándose a:
 
@@ -551,7 +551,7 @@ Estas señales serán aprobadas por LA SUPERVISIÓN y deberán ser suficientemen
 
 Además, EL CONTRATISTA colocará por su cuenta con la celeridad que amerita el caso, las señales adicionales que a juicio de LA DIRECCIÓN se requieran para la seguridad de los usuarios y será responsable por los daños y perjuicios que por su culpa o negligencia o la de sus empleados se causara a personas o bienes que transiten por el proyecto y que sufrieran accidentes por la falta de señales adecuadas.
 
-CLÁUSULA XIX: TERMINACIÓN D E L C O N T R A T O P O R CONVENIENCIA: EL GOBIERNO por medio de LA SECRETARÍA, a su conveniencia puede en cualquier momento, dar por terminados los trabajos objeto de este contrato, total o parcialmente, sin más formalidad que una comunicación escrita dirigida a EL CONTRATISTA indicando los motivos de la terminación. Dicha terminación se efectuará en la forma y de acuerdo con la información que se dé en la comunicación y no perjudicará ningún reclamo anterior que EL GOBIERNO pudiera tener contra EL CONTRATISTA.
+CLÁUSULA XIX: TERMINACIÓN DEL CONTRATO POR CONVENIENCIA: EL GOBIERNO por medio de LA SECRETARÍA, a su conveniencia puede en cualquier momento, dar por terminados los trabajos objeto de este contrato, total o parcialmente, sin más formalidad que una comunicación escrita dirigida a EL CONTRATISTA indicando los motivos de la terminación. Dicha terminación se efectuará en la forma y de acuerdo con la información que se dé en la comunicación y no perjudicará ningún reclamo anterior que EL GOBIERNO pudiera tener contra EL CONTRATISTA.
 
 Al recibir la mencionada comunicación, EL CONTRATISTA inmediatamente descontinuará, a menos que la comunicación especifique lo contrario, todos los trabajos y los pedidos de materiales, facilidades o suministros relacionados con la parte del Contrato que se ha dado por terminado por conveniencia.
 
@@ -597,9 +597,9 @@ Vencido el plazo de noventa (90) días calendario antes mencionado, EL CONTRATIS
 
 4. La rescisión del contrato se efectuará sin más trámite judicial o administrativo, que la emisión de un Acuerdo del Poder Ejecutivo, excepto cuando a criterio de LA SECRETARÍA se considere improcedente tal solicitud, en cuyo caso seguirá el procedimiento reglamentariamente establecido.
 
-C L Á U S U L A X X I :
+CLÁUSULA XXI:
 
-P R O C E D I M I E N T O D E L A EJECUCIÓN DE LAS GARANTÍAS Y/O FIANZAS: Si este contrato fuere rescindido por incumplimiento de EL CONTRATISTA, EL GOBIERNO podrá realizar las diligencias que estime necesarias para ingresar a la Hacienda Pública el monto de las Garantías y/o Fianzas que EL CONTRATISTA haya rendido para garantizar el fiel cumplimiento del contrato y Anticipo recibido; la diligencia a realizarse para recuperar el Anticipo, será únicamente por la cantidad que faltara para que EL GOBIERNO recupere el monto total del Anticipo dado a EL CONTRATISTA.
+PROCEDIMIENTO DE LA EJECUCIÓN DE LAS GARANTÍAS Y/O FIANZAS: Si este contrato fuere rescindido por incumplimiento de EL CONTRATISTA, EL GOBIERNO podrá realizar las diligencias que estime necesarias para ingresar a la Hacienda Pública el monto de las Garantías y/o Fianzas que EL CONTRATISTA haya rendido para garantizar el fiel cumplimiento del contrato y Anticipo recibido; la diligencia a realizarse para recuperar el Anticipo, será únicamente por la cantidad que faltara para que EL GOBIERNO recupere el monto total del Anticipo dado a EL CONTRATISTA.
 
 La Garantía de Calidad se ejecutará si se encuentran trabajos defectuosos dentro del período de doce (12) meses después de recibida el Acta de Recepción Definitiva y el contratista se rehúsa a enmendar los daños.
 
@@ -687,7 +687,7 @@ CLÁUSULA XXXII: INTEGRIDAD:
 
 Las Partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Transparencia y Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente:
 
-I. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y D I S C R E C I Ó N C O N L A INFORMACIÓN CONFIDENCIAL Q U E M A N E J A M O S , ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA.
+I. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJAMOS, ABSTENIÉNDONOS DE DAR DECLARACIONES PÚBLICAS SOBRE LA MISMA.
 
 II. Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidas en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
 
@@ -733,15 +733,15 @@ R.T.N.: 06019019138792
 
 DE SUPERVISION No. SIT-
 
-SU-225-2025, “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍL A S M A R Í A S , ( E TA PA I ) , DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”, suscrito en fecha 19 de Diciembre del año 2025, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) y la EMPRESA CONSTRUCCIÓN Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V, por un monto contractual de TRES MILLONES SETECIENTOS SIETE MIL CIENTO VEINTITRÉS LEMPIRAS CON TREINTA Y NUEVE CENTAVOS (L. 3,707,123.39); que literalmente dice:
+SU-225-2025, “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍL A S M A R Í A S, ( E TA PA I ), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”, suscrito en fecha 19 de Diciembre del año 2025, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) y la EMPRESA CONSTRUCCIÓN Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V, por un monto contractual de TRES MILLONES SETECIENTOS SIETE MIL CIENTO VEINTITRÉS LEMPIRAS CON TREINTA Y NUEVE CENTAVOS (L. 3,707,123.39); que literalmente dice:
 
 CONTRATO DE SERVICIOS DE SUPERVISIÓN NO.SIT-SU-225-2025.
 
-“ S U P E R V I S I Ó N D E L A P AV I M E N T A C I Ó N C O N C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍL A S M A R Í A S , ( E TA PA I ) , DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM” Por una parte, yo, OCTAVIO JOSE PINEDA PAREDES, hondureño, mayor de edad, soltero, ingeniero civil, con Documento Nacional de Identificación
+“ S U P E R V I S I Ó N D E L A P AV I M E N T A C I Ó N C O N C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍL A S M A R Í A S, ( E TA PA I ), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM” Por una parte, yo, OCTAVIO JOSE PINEDA PAREDES, hondureño, mayor de edad, soltero, ingeniero civil, con Documento Nacional de Identificación
 
-(DNI) número 0801199024191 con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán,; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); nombrado mediante Acuerdo Ejecutivo No. 11- 2024, de fecha 03 de enero de 2024; con suficientes facultades para suscribir actos como el presente, quien en adelante y para efectos de este contrato se denominará EL CONTRATANTE; y por otra parte VICTOR MANUEL VALLADARES PAVON, hondureño, mayor de edad, con Documento Nacional de Identificación número 0825194400012, con Registro Tributario Nacional (RTN) número 08251944000126, actuando en mi condición de representante legal de la empresa CONSTRUCCIÓN Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V. correo electrónico: consudavin@gmail.com, teléfono número (+504) 2203-6168, y con domicilio legal en Colonia Lomas de Toncontín, Bloque diecinueve A, Lote 10, Tegucigalpa, M.D.C., Honduras, C.A. para efectos de notificación, empresa constituida conforme a las Leyes de la República de Honduras bajo Registro Tributario Nacional
+(DNI) número 0801199024191 con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán,; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero de 2024; con suficientes facultades para suscribir actos como el presente, quien en adelante y para efectos de este contrato se denominará EL CONTRATANTE; y por otra parte VICTOR MANUEL VALLADARES PAVON, hondureño, mayor de edad, con Documento Nacional de Identificación número 0825194400012, con Registro Tributario Nacional (RTN) número 08251944000126, actuando en mi condición de representante legal de la empresa CONSTRUCCIÓN Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V. correo electrónico: consudavin@gmail.com, teléfono número (+504) 2203-6168, y con domicilio legal en Colonia Lomas de Toncontín, Bloque diecinueve A, Lote 10, Tegucigalpa, M.D.C., Honduras, C.A. para efectos de notificación, empresa constituida conforme a las Leyes de la República de Honduras bajo Registro Tributario Nacional
 
-(RTN) número 08019010321728; y debidamente autorizado para celebrar el presente acto, quien para efectos legales se le denominará EL CONSULTOR; en este sentido, manifestamos estar de acuerdo con las cláusulas, estipulaciones legales, condiciones generales y especiales descritas en este contrato para la “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍL A S M A R Í A S , ( E TA PA I ) , DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”; que a continuación se prescriben:
+(RTN) número 08019010321728; y debidamente autorizado para celebrar el presente acto, quien para efectos legales se le denominará EL CONSULTOR; en este sentido, manifestamos estar de acuerdo con las cláusulas, estipulaciones legales, condiciones generales y especiales descritas en este contrato para la “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍL A S M A R Í A S, ( E TA PA I ), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”; que a continuación se prescriben:
 
 CLÁUSULA I: DEFINICIONES:
 
@@ -781,9 +781,9 @@ La persona natural o jurídica a quien EL CONTRATANTE ha contratado para la cons
 
 8. EL SUPERVISOR/
 
-L a F i r m a s u p e r v i s o r a
+La Firma supervisora
 
-CONSULTOR: contratada para la supervisión del proyecto, denominada en algunos documentos como EL CONSULTOR; la Empresa “ C O N S T R U C C I Ó N Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V.”
+CONSULTOR: contratada para la supervisión del proyecto, denominada en algunos documentos como EL CONSULTOR; la Empresa “ CONSTRUCCIÓN Y SUPERVISIÓN DA VINCI S. DE R.L. DE C.V.”
 
 9. INGENIERO funcionario de enlace de parte de COORDINADOR:
 
@@ -801,13 +801,13 @@ El Ingeniero Civil debidamente colegiado solvente con el Colegio de Ingenieros C
 
 12. PROYECTO:
 
-“ S U P E R V I S I Ó N D E LA PAVIMENTACIÓN C O N C O N C R E T O HIDRÁULICO TRAMO:
+“ SUPERVISIÓN DE LA PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO:
 
 RUTA 15V42000, DULCE NOMBRE DE CULMÍLAS MARÍAS, (ETAPA I), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”.
 
 CLÁUSULA II: DESCRIPCIÓN Y ALCANCES DE LOS SERVICIOS:
 
-El Proyecto consiste en la prestación de los servicios de ingeniería requeridos para la supervisión del Proyecto de: “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO H I D R Á U L I C O T R A M O : R U TA 1 5 V 4 2 0 0 0 , DULCE NOMBRE DE CULMÍL A S M A R Í A S , ( E TA PA I ) , DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”.
+El Proyecto consiste en la prestación de los servicios de ingeniería requeridos para la supervisión del Proyecto de: “SUPERVISIÓN DE LA PAVIMENTACIÓN CON C O N C R E TO HIDRÁULICO TRAMO: R U TA 1 5 V 4 2 0 0 0, DULCE NOMBRE DE CULMÍL A S M A R Í A S, ( E TA PA I ), DEPARTAMENTO DE OLANCHO, LONGITUD APROXIMADA= 2.2 KM”.
 
 Queda claramente establecido que EL CONSULTOR está obligado a cumplir con las instrucciones que LA SECRETARÍA le imparta, para el cumplimiento de los objetivos específicos de la contratación y colaborar para que los mismos sean ejecutados en tiempo y forma, y de acuerdo con las mejores prácticas y técnicas profesionales usuales en proyectos de esta naturaleza.
 
@@ -845,7 +845,7 @@ a. La Administración del Contrato de Construcción y Actividades Generales en l
 
 b. Deberá VIGILAR que las obras se ejecuten conforme a las especificaciones del proyecto con la calidad estipulada y en el plazo de acuerdo del contrato de construcción. En caso de encontrarse imprevistos, EL CONSULTOR tendrá la libertad de proponer soluciones prácticas, técnicas y aceptables en términos de Ingeniería, siempre y cuando con ello se mejore la seguridad, la calidad y la vida útil de la obra y además no incurra en incrementos de costos ni del plazo contractual.
 
-c. R e u n i o n e s d e t r a b a j o E L CONTRATISTA – EL CONSULTOR
+c. Reuniones de trabajo EL CONTRATISTA – EL CONSULTOR
 
 – INGENIERO COORDINADOR: deberá coordinar las reuniones de trabajo entre las partes, en las oficinas regionales de EL CONSULTOR o EL CONTRATISTA, con el objetivo de informar la situación del proyecto en campo y tomar decisiones oportunas para corregir situaciones que se presenten en el proyecto y para revisar las estimaciones de obra ejecutadas por EL CONTRATISTA.
 
@@ -911,7 +911,7 @@ v. Solicitar la autorización de EL CONTRATANTE para todos aquellos trabajos par
 
 a. Se conviene que EL CONSULTOR no asignará, pignorará, transferirá, subcontratará, cederá sus derechos a recibir pagos, ni efectuará transacciones sobre el contrato o cualquier parte de este, así como derechos, reclamos y obligaciones de EL CONSULTOR derivados del contrato, a menos que tenga el consentimiento por escrito de LA DIRECCIÓN, no pudiendo ser en todo caso la suma de todos los subcontratos mayor de cuarenta por ciento (40%) del Contrato principal.
 
-b. E L C O N S U LTO R t e n d r á l a
+b. EL CON SU LTO R t e n d r á l a
 
 RESPONSABILIDAD DE LA SUPERVISIÓN DE TODO EL
 
@@ -1097,7 +1097,7 @@ FORMA DE PAGO
 
 La forma de pago se realizará conforme al siguiente detalle:
 
-Cuadro No.1 Distribución de la forma de pagos.
+Cuadro No. 1 Distribución de la forma de pagos.
 
 Ítem Producto Fecha de Entrega Porcentaje 1 Informe Preliminar QUINCE (15) días calendario después de emitida la Orden de Inicio.
 
@@ -1111,11 +1111,11 @@ La cuota mensual a pagar (CM), se calculará de acuerdo a la siguiente forma:
 
 Donde;
 
-Cuadro No.2 Desglose de la formula de la Cuota Mensual A Pagar.
+Cuadro No. 2 Desglose de la formula de la Cuota Mensual A Pagar.
 
 ABREVIACIÓN DESCRIPCIÓN
 
-CM Cuota Mensual a pagar Mmo Monto del Contrato del Supervisor menos el pago Inicial (Etapa I) y pago Final (Etapa III) Emc Estimación Mensual del Contratista (Excluyendo Cláusula Escalatoria, montos provisionales y trabajos por Administración Delegada) Mmc Monto del Contrato del Contratista (Excluyendo Cláusula Escalatoria, montos provisionales y trabajos por Administración Delegada) Y no podrá superar el Porcentaje descrito en el cuadro No.1 Notas:
+CM Cuota Mensual a pagar Mmo Monto del Contrato del Supervisor menos el pago Inicial (Etapa I) y pago Final (Etapa III) Emc Estimación Mensual del Contratista (Excluyendo Cláusula Escalatoria, montos provisionales y trabajos por Administración Delegada) Mmc Monto del Contrato del Contratista (Excluyendo Cláusula Escalatoria, montos provisionales y trabajos por Administración Delegada) Y no podrá superar el Porcentaje descrito en el cuadro No. 1 Notas:
 
 1. El primer término de la fórmula (1) es un valor fijo que representaría el 30% del MONTO DEL CONTRATO DE SUPERVISIÓN (Mmo) dividido entre el plazo original del contrato, con lo cual se reconocería un valor fijo mensual al Consultor.
 
@@ -1189,7 +1189,7 @@ CONSULTOR se compromete a emplear todo el personal en forma eficiente para la ej
 
 LA DIRECCIÓN SE RESERVA EL DERECHO DE APROBACIÓN DE TODO EL PERSONAL PROPUESTO.
 
-C L Á U S U L A X : VA L O R E S PENDIENTES: EL CONSULTOR autoriza que, de los valores pendientes de pago a su favor, se le deduzcan los montos adeudados del presente contrato o de cualquier otro contrato suscrito con EL CONTRATANTE que haya sido resuelto por incumplimiento, o que, habiendo sido concluido, existan montos a recuperar en favor del contratante.
+C L Á U S U L A X: VA L O R E S PENDIENTES: EL CONSULTOR autoriza que, de los valores pendientes de pago a su favor, se le deduzcan los montos adeudados del presente contrato o de cualquier otro contrato suscrito con EL CONTRATANTE que haya sido resuelto por incumplimiento, o que, habiendo sido concluido, existan montos a recuperar en favor del contratante.
 
 CLÁUSULA XI: SEGUROS: EL
 
@@ -1231,7 +1231,7 @@ AMPLIACIÓN DE LAS GARANTÍAS POR AUMENTO EN EL PLAZO O MONTO DEL CONTRATO DE CO
 
 En caso de que se amplíe el plazo del contrato de construcción por un término mayor de dos (2) meses, EL CONSULTOR deberá ampliar la vigencia de la Garantía de Cumplimiento, de manera que venza tres (3) meses después del nuevo plazo establecido; si así ocurriere, el valor de la ampliación de la Garantía se calculará sobre el monto pendiente de ejecución, siempre que lo anterior hubiere sido supervisado satisfactoriamente.- Si a consecuencia de la modificación de un contrato de construcción, se aumentare el monto del contrato de supervisión por incremento de las prestaciones a cargo de EL CONSULTOR, Éste deberá ampliar la Garantía de Cumplimiento teniendo como base el saldo del contrato modificado que estuviere por ejecutarse.- LA DIRECCIÓN será responsable solidariamente con EL CONSULTOR del cumplimiento de estas condiciones.
 
-V E R I F I C A C I Ó N D E L A S GARANTÍAS:
+VERIFICACIÓN DE LAS GARANTÍAS:
 
 LA DIRECCIÓN encargada de velar por la correcta ejecución y supervisión del contrato, será responsable de que las garantías se constituyan oportunamente por EL CONSULTOR, y que cumplan los fines para los que fueron expedidas.- En consecuencia, si hubiesen reclamos pendientes estando próximo a expirar cualquier garantía que responda por obligaciones de EL CONSULTOR, EL CONTRATANTE, por medio de LA DIRECCIÓN notificará este hecho a la empresa afianzadora o garante, quedando desde ese momento la garantía afecta al resultado de los reclamos.
 
@@ -1239,7 +1239,7 @@ LA DIRECCIÓN podrá autorizar la devolución de las garantías en la forma sigu
 
 PROCEDIMIENTO DE EJECUCIÓN DE LAS GARANTÍAS:
 
-Las garantías constituidas por EL CONSULTOR, tendrán carácter de título ejecutivo y su cumplimiento se exigirá por la vía de apremio, una vez que esté firme el Acuerdo de Resolución por incumplimiento de EL CONSULTOR .- EL CONSULTOR gozará de preferencia sobre cualquier otro acreedor para hacer efectivas estas garantías.- Quienes otorgaren estas garantías a favor de EL CONSULTOR, no gozarán del beneficio de excusión.- Si este Contrato fuera rescindido por incumplimiento de EL CONSULTOR, podrá realizar las diligencias que estime necesarias para ingresar a la Hacienda Pública, el monto de las garantías que EL CONSULTOR haya rendido para garantizar el Fiel Cumplimiento del Contrato.- D E V O L U C I O N E S D E L A S GARANTÍAS:
+Las garantías constituidas por EL CONSULTOR, tendrán carácter de título ejecutivo y su cumplimiento se exigirá por la vía de apremio, una vez que esté firme el Acuerdo de Resolución por incumplimiento de EL CONSULTOR .- EL CONSULTOR gozará de preferencia sobre cualquier otro acreedor para hacer efectivas estas garantías.- Quienes otorgaren estas garantías a favor de EL CONSULTOR, no gozarán del beneficio de excusión.- Si este Contrato fuera rescindido por incumplimiento de EL CONSULTOR, podrá realizar las diligencias que estime necesarias para ingresar a la Hacienda Pública, el monto de las garantías que EL CONSULTOR haya rendido para garantizar el Fiel Cumplimiento del Contrato.- DEVOLUCIONES DE LAS GARANTÍAS:
 
 LA DIRECCIÓN podrá autorizar la devolución de la Garantía de Cumplimiento de Contrato, después de haberse emitido la correspondiente Acta de Recepción Final del Proyecto.
 
@@ -1391,7 +1391,7 @@ Si tales cambios dan lugar a un aumento en el alcance del trabajo o en el plazo 
 
 EL CONTRATANTE lo solicitará por escrito a EL CONSULTOR y estos presentarán una propuesta con un estimado de Hombres-Meses, Salarios, Gastos Directos, Gastos Generales y Honorarios Profesionales adicionales para efectuar dichos trabajos; antes de autorizarlos, LA SECRETARÍA estudiará y negociará la propuesta y si esta conviene a sus intereses firmará la modificación al presente Contrato, que pasará a formar parte de este. La cual se sujetará a lo establecido en los Artículos 121, 122 y 123 de la Ley de Contratación del Estado.
 
-4. E L C O N T R ATA N T E y E L CONSULTOR acuerdan que este Contrato es una obligación entre ambas partes, el cual será pagado según lo establecido en la CLÁUSULA V:
+4. EL CONTR ATA N T E y E L CONSULTOR acuerdan que este Contrato es una obligación entre ambas partes, el cual será pagado según lo establecido en la CLÁUSULA V:
 
 COSTO TOTAL DEL CONTRATO
 
@@ -1495,7 +1495,7 @@ CLÁUSULA XXI:
 
 INDEMNIZACIONES
 
-Durante la ejecución de este Contrato, E L C O N S U LT O R a c u e r d a , indemnizar y defender a su costa a EL CONTRATANTE, sus funcionarios, agentes y empleados, de cualquier acción legal por causa de difamación y toda clase de reclamos, demandas, acciones, incluyendo la violación de propiedad literaria, patentes o registros de invención, artículos o herramientas, originados directamente de acciones u omisiones legales de EL CONSULTOR, en relación con el Proyecto.
+Durante la ejecución de este Contrato, EL CON SU LT O R a c u e r d a, indemnizar y defender a su costa a EL CONTRATANTE, sus funcionarios, agentes y empleados, de cualquier acción legal por causa de difamación y toda clase de reclamos, demandas, acciones, incluyendo la violación de propiedad literaria, patentes o registros de invención, artículos o herramientas, originados directamente de acciones u omisiones legales de EL CONSULTOR, en relación con el Proyecto.
 
 CLÁUSULA XXII: CONFLICTO DE INTERESES:
 
@@ -1575,7 +1575,7 @@ CLÁUSULA XXIX: INTEGRIDAD:
 
 Las partes, en cumplimiento a lo establecido en el Artículo 7 de la Ley de Transparencia y de Acceso a la Información Pública (LTAIP), y con la convicción de que evitando las prácticas de corrupción podremos apoyar la consolidación de una cultura de transparencia, equidad y rendición de cuentas en los procesos de contratación y adquisiciones del Estado, para así fortalecer las bases del Estado de Derecho, nos comprometemos libre y voluntariamente a:
 
-1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y D I S C R E C I Ó N C O N L A INFORMACIÓN CONFIDENCIAL QUE MANEJEMOS, ABSTEN I É N D O N O S D E D A R DECLARACIONES PÚBLICAS SOBRE LA MISMA.
+1. Mantener el más alto nivel de conducta ética, moral y de respeto a las leyes de la República, así como los valores de: INTEGRIDAD, LEALTAD CONTRACTUAL, EQUIDAD, TOLERANCIA, IMPARCIALIDAD Y DISCRECIÓN CON LA INFORMACIÓN CONFIDENCIAL QUE MANEJEMOS, ABSTEN I É N D O N O S D E D A R DECLARACIONES PÚBLICAS SOBRE LA MISMA.
 
 2. Asumir una estricta observancia y aplicación de los principios fundamentales bajo los cuales se rigen los procesos de contratación y adquisiciones públicas establecidos en la Ley de Contratación del Estado, tales como: Transparencia, igualdad y libre competencia.
 

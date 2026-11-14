@@ -8,10 +8,10 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 9 - 11"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
-huella: "551bf16870bffb96"
+huella: "ca2e5fa7a07a7175"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 094-2025
@@ -23,7 +23,7 @@ huella: "551bf16870bffb96"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 9 - 11 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto 7-2008 
 
 CONSIDERANDO: Que la República de Panamá se incorporó al Subsistema de Integración Económica Centroamericana mediante el Protocolo de Incorporación en el cual y de conformidad con lo establecido en el Artículo IV del Título VI (Disposiciones Transitorias) del Protocolo al Tratado General de Integración Centroamericana (Protocolo de Guatemala) suscrito el 29 de octubre de 1993, quedaron definidos los términos, plazos, condiciones y modalidades de su incorporación.
 
-CONSIDERANDO: Que mediante Anexo de la Resolución No.331-2013 (COMIECO-LXVI) del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Parte del Subsistema de Integración Económica con la República de Panamá.
+CONSIDERANDO: Que mediante Anexo de la Resolución No. 331-2013 (COMIECO-LXVI) del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Parte del Subsistema de Integración Económica con la República de Panamá.
 
 CONSIDERANDO: Que en el Apéndice I (Contingentes Arancelarios) de la lista al Anexo 3.04 (Programa de Desgravación Arancelaria, Sección A: Desgravación Arancelaria de Honduras) del Tratado de Libre Comercio Centroamérica – Panamá, quedaron negociadas las mercancías sujetas a contingentes arancelarios, las cuales fueron a su vez incorporadas en el Apéndice a los Anexos 4.2 y 4.3 del Protocolo de Incorporación de Panamá al Subsistema Económico de Integración Centroamericana, constituyendo así los contingentes de importación bilaterales aplicables de la República de Panamá a Honduras, siendo en lo aplicable, el Protocolo de incorporación de Panamá la normativa aplicable al régimen de contingentes a partir de la vigencia del mismo.
 

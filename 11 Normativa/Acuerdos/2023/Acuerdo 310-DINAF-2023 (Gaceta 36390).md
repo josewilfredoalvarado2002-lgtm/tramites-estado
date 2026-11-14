@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Acuerdos Nos. 302-2023, 303-2023, 306-DINAF-2023, 310-DINAF-2023, 311-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "cfeacf47f566a38c"
+huella: "fdb3bc45b3b98da0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 310-DINAF-2023
@@ -55,11 +55,11 @@ POR TANTO
 
 En aplicación de los Artículos 321 de la Constitución de la República, 36, numerales 8), 116, 118 numeral l), 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo;
 
-34, 36 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo Decreto Ejecutivo PCM 27-2014, ratificado mediante Decreto Legislativo No. 34- 2021, publicado en el Diario Oficial La Gaceta el 16 de julio de 2021.
+34, 36 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo Decreto Ejecutivo PCM 27-2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en el Diario Oficial La Gaceta el 16 de julio de 2021.
 
 ACUERDA
 
-PRIMERO: Dejar sin valor y efecto Acuerdo Número 264-DINAF-2023 de fecha siete (7) de julio del año dos mil veintitrés (2023), en el cual se delegó al ciudadano CRISTIAN FARITH BUSTILLO GUERRERO, con Documento Nacional de Identificación Número 0801-1996- 16190, en su condición de Coordinador de Recursos Humanos, acreditado con el contrato bajo número DINAF-FRRHH-310-2023 de fecha 29 de junio del 2023, las facultades de la Jefatura del Departamento de Personal (RRHH) de la Dirección de Niñez, Adolescencia y Familiar, a partir del uno (1) de noviembre del dos mil veintitrés (2023).
+PRIMERO: Dejar sin valor y efecto Acuerdo Número 264-DINAF-2023 de fecha siete (7) de julio del año dos mil veintitrés (2023), en el cual se delegó al ciudadano CRISTIAN FARITH BUSTILLO GUERRERO, con Documento Nacional de Identificación Número 0801-1996-16190, en su condición de Coordinador de Recursos Humanos, acreditado con el contrato bajo número DINAF-FRRHH-310-2023 de fecha 29 de junio del 2023, las facultades de la Jefatura del Departamento de Personal (RRHH) de la Dirección de Niñez, Adolescencia y Familiar, a partir del uno (1) de noviembre del dos mil veintitrés (2023).
 
 SEGUNDO: Delegar a partir del dos (2) de noviembre del dos mil veintitrés (2023) a la ciudadana MARÍA DE LOS ÁNGELES ORELLANA, con Documento Nacional de Identificación Número 0506-1987-01002, como Coordinadora de Recursos Humanos, con las facultades de la Jefatura del Departamento de Personal (RRHH) de la Dirección de Niñez, Adolescencia y Familiar.
 

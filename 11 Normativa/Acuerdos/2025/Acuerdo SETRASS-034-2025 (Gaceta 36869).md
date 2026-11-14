@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Nos. SETRASS-034-2025, SETRASS-044-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250620-36869/download"
 extraido: "2026-11-10"
-huella: "540c635f88918036"
+huella: "d5ddf36164ceaaad"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-034-2025
@@ -41,9 +41,7 @@ ACUERDA:
 
 PRIMERO: DEJAR SIN VALOR NI EFECTO el Acuerdo N°. SETRASS No. 445-2023, de fecha dieciséis
 
-(16) de agosto del año dos mil veintitrés (2023), en el que se autorizó a la Abogada MATUSALÁ BAUTISTA ORELLANA DELGADO, para realizar actuaciones como Secretaria Administrativa, refrendando, certificando y autenticando actuaciones emitidas por la Oficina Regional de la Inspectoría de San Pedro Sula, Cortés en razón de haberse nombrado Secretario Administrativo mediante Acuerdo N°.
-
-SETRASS-022-2025, de fecha veinticinco (25) de febrero del año dos mil veinticinco (2025), quien ejercerá sus funciones en la Oficina Regional de San Pedro Sula, Cortés.
+(16) de agosto del año dos mil veintitrés (2023), en el que se autorizó a la Abogada MATUSALÁ BAUTISTA ORELLANA DELGADO, para realizar actuaciones como Secretaria Administrativa, refrendando, certificando y autenticando actuaciones emitidas por la Oficina Regional de la Inspectoría de San Pedro Sula, Cortés en razón de haberse nombrado Secretario Administrativo mediante Acuerdo N°. SETRASS-022-2025, de fecha veinticinco (25) de febrero del año dos mil veinticinco (2025), quien ejercerá sus funciones en la Oficina Regional de San Pedro Sula, Cortés.
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata.
 

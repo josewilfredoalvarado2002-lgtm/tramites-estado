@@ -11,7 +11,7 @@ paginas: "A. 31 - 36"
 sumario: "Acuerdo número 144-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201228-35471/download"
 extraido: "2026-11-14"
-huella: "2fbb1a5dac25e2c0"
+huella: "2d69b7f8e18791f2"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 144-2020
@@ -31,7 +31,7 @@ EL PODER EJECUTIVO
 
 CONSIDERANDO: Que corresponde a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, lo concerniente al gobierno del interior de la República, la gobernabilidad, el acceso a la justicia y la descentralización, contribuyendo a una cultura democrática, al desarrollo local, con transparencia y participación ciudadana, para el bienestar social, cultural y el honor de la población en general, entre otras competencias.
 
-CONSIDERANDO: Que el Decreto Legislativo No 4- 2019 de fecha catorce (14) de febrero del año dos mil diecinueve (2019), publicado en el Diario Oficial “La Gaceta” edición numero 34,876, en su artículo 4, se autoriza a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD) para que transfiera a los diferentes Municipios del País, recursos que financiaran obras de infraestructura tales como agua y saneamiento, electrificación, vialidad, entre otros, para lo cual se crea la Unidad de Control, Seguimiento y Liquidación (UCSEL).
+CONSIDERANDO: Que el Decreto Legislativo No 4-2019 de fecha catorce (14) de febrero del año dos mil diecinueve (2019), publicado en el Diario Oficial “La Gaceta” edición numero 34,876, en su artículo 4, se autoriza a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD) para que transfiera a los diferentes Municipios del País, recursos que financiaran obras de infraestructura tales como agua y saneamiento, electrificación, vialidad, entre otros, para lo cual se crea la Unidad de Control, Seguimiento y Liquidación (UCSEL).
 
 CONSIDERANDO: Que en virtud del Decreto Legislativo número 7-2020, publicado en el Diario Oficial “La Gaceta” edición número 35,177, en fecha diecisiete (17) de febrero del año dos mil veinte (2020), en su artículo 2, autoriza a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización la continuidad de la Unidad de Control, Seguimiento y Liquidación (UCSEL), en el marco del Programa piloto de Descentralización Municipal.
 

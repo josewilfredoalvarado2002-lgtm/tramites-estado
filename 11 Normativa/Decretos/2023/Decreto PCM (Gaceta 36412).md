@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 51-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231218-36412/download"
 extraido: "2026-11-14"
-huella: "a2a052cd2fa0be99"
+huella: "7d25dea80f568b94"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 51-2023
@@ -35,9 +35,9 @@ CONSIDERANDO: Que la Presidenta de la República tiene a su cargo la suprema dir
 
 CONSIDERANDO: Que de conformidad con la Constitución de la República, el Estado, por medio del Banco Central de Honduras (BCH), tendrá a su cargo la formulación y desarrollo de la política monetaria, crediticia y cambiaria del país, debidamente coordinada con la política económica planificada (artículo 342).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.8-2022 del 15 de febrero de 2022 publicado en el Diario Oficial “La Gaceta” en su edición N°35,849, se declaró Estado de Emergencia Fiscal y Financiera del Sector Público, autorizando a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, en caso de ser necesario durante el Ejercicio Fiscal 2022 y 2023, realice la contratación directa de préstamos internos o externos, reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público en las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,000,000,000.00), adicionales al monto de endeudamiento autorizado en el artículo 1 del Decreto Legislativo No.107-2021 del 10 de diciembre del 2021, publicado en el Diario Oficial “La Gaceta” el 17 de diciembre de 2021 (artículo 2).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 8-2022 del 15 de febrero de 2022 publicado en el Diario Oficial “La Gaceta” en su edición N°35,849, se declaró Estado de Emergencia Fiscal y Financiera del Sector Público, autorizando a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, en caso de ser necesario durante el Ejercicio Fiscal 2022 y 2023, realice la contratación directa de préstamos internos o externos, reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público en las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,000,000,000.00), adicionales al monto de endeudamiento autorizado en el artículo 1 del Decreto Legislativo No. 107-2021 del 10 de diciembre del 2021, publicado en el Diario Oficial “La Gaceta” el 17 de diciembre de 2021 (artículo 2).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.157-2022 del 12 de enero de 2023 publicado en el Diario Oficial “La Gaceta” en su edición N° 36,127, se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, el cual establece, entre otros, que el endeudamiento público autorizado mediante emisión de bonos y obtención de préstamos es de carácter fungible y por lo tanto podrá redistribuirse cuando existan condiciones financieras y de mercado que propicien dicha fungibilidad de fuente interna a externa y viceversa (artículo 61); lo cual aplica en vista que para el ejercicio fiscal 2023 se autorizó un monto de US$669.0 millones para apoyo presupuestario, de los cuales se ha logrado desembolsar US$100.0 millones, impactando de manera directa en las necesidades de financiamiento de la Tesorería General de la República (TGR) y en el presupuesto vigente.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 157-2022 del 12 de enero de 2023 publicado en el Diario Oficial “La Gaceta” en su edición N° 36,127, se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, el cual establece, entre otros, que el endeudamiento público autorizado mediante emisión de bonos y obtención de préstamos es de carácter fungible y por lo tanto podrá redistribuirse cuando existan condiciones financieras y de mercado que propicien dicha fungibilidad de fuente interna a externa y viceversa (artículo 61); lo cual aplica en vista que para el ejercicio fiscal 2023 se autorizó un monto de US$669.0 millones para apoyo presupuestario, de los cuales se ha logrado desembolsar US$100.0 millones, impactando de manera directa en las necesidades de financiamiento de la Tesorería General de la República (TGR) y en el presupuesto vigente.
 
 CONSIDERANDO: Que el Directorio Ejecutivo del Fondo Monetario Internacional (FMI) aprobó el 21 de septiembre de 2023 a favor de Honduras, el Acuerdo por CUATROCIENTOS DIECISÉIS MILLONES TRESCIENTOS MIL DERECHOS ESPECIALES DE GIROS -DEG- (DEG416,300,000.00), aproximadamente QUINIENTOS CUARENTA Y OCHO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA -EUA- (USD548,000,000.00 ) en el marco del Servicio Ampliado del FMI (SAF) y otro por DOSCIENTOS OCHO MILLONES DOSCIENTOS MIL DERECHOS ESPECIALES DE GIROS -DEG- (DEG208,200,000.00), aproximadamente DOSCIENTOS SETENTA Y CUATRO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA -EUA- (USD274,000,000.00) dentro del Servicio de Crédito Ampliado (SCA) a favor de Honduras, por un monto total de SEISCIENTOS VEINTICUATRO MILLONES QUINIENTOS MIL DEG (DEG624,500,000.00), aproximadamente OCHOCIENTOS VEINTIDÓS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA -EUA (USD822,000,000.00) o DOSCIENTOS CINCUENTA POR CIENTO (250.0%) de la cuota, concluyendo la consulta del Artículo IV correspondiente a 2023. Estos Acuerdos ayudarán a resolver las necesidades de balanza de pagos de Honduras y brindan apoyo al programa de reforma económica e institucional del gobierno de Honduras en los próximos tres años.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas (SEFIN), m
 
 CONSIDERANDO: Que el crédito solicitado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en representación del Gobierno de Honduras, se enmarca dentro de lo establecido en el Artículo 40, párrafo segundo de la Ley del Banco Central de Honduras (BCH), que establece que la Autoridad Monetaria podrá otorgar créditos al Gobierno en casos de emergencia o de grave calamidad pública, y su aprobación requerirá el voto unánime de los miembros del Directorio, así como su ratificación mediante Decreto emitido por la Presidencia de la República en Consejo de Ministros, debiendo darse inmediata cuenta al Congreso Nacional de la emisión del mismo.
 
-CONSIDERANDO: Que el Directorio del Banco Central de Honduras (BCH), mediante Resolución No.492-12/2023 del 7 de diciembre de 2023, aprobó por unanimidad de votos el otorgamiento de un crédito a favor del Gobierno, con fondos provenientes de los Acuerdos Servicio Ampliado del FMI (SAF) y Servicio de Crédito Ampliado (SCA) a favor de Honduras vigente con el Fondo Monetario Internacional (FMI), solicitado por medio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), considerando el actual estado de emergencia fiscal y financiera, con base en el artículo 40 de la Ley del Banco Central de Honduras (BCH), estableciéndose en la referida Resolución las condiciones bajo las cuales se otorgó el crédito.
+CONSIDERANDO: Que el Directorio del Banco Central de Honduras (BCH), mediante Resolución No. 492-12/2023 del 7 de diciembre de 2023, aprobó por unanimidad de votos el otorgamiento de un crédito a favor del Gobierno, con fondos provenientes de los Acuerdos Servicio Ampliado del FMI (SAF) y Servicio de Crédito Ampliado (SCA) a favor de Honduras vigente con el Fondo Monetario Internacional (FMI), solicitado por medio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), considerando el actual estado de emergencia fiscal y financiera, con base en el artículo 40 de la Ley del Banco Central de Honduras (BCH), estableciéndose en la referida Resolución las condiciones bajo las cuales se otorgó el crédito.
 
 CONSIDERANDO: Que en la precitada Resolución el Directorio del Banco Central de Honduras (BCH) autorizó a su Presidenta y Representante Legal para suscribir con la titular de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en representación del Gobierno, el Convenio de Crédito que forma parte integral de dicha Resolución, una vez que la aprobación de otorgamiento de préstamo sea ratificada mediante Decreto emitido por la Presidenta de la República en Consejo de Ministros y de la emisión de tal Decreto deberá darse inmediata cuenta al Congreso Nacional.
 
@@ -57,7 +57,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los artículos 205 numeral 19), 245 numerales 2), 11), 19) y 30), 252 y 342 de la Constitución de la República; 1, 2, 5, 6, 16, 29, 40 y 55 de la Ley del Banco Central de Honduras; 7, 11, 17, 18, 22, 116, 117 y 119 de la Ley General de la Administración Pública;
 
-1, 69 y 73 de la Ley Orgánica del Presupuesto; 54 y 61 del Decreto No.157-2022 del 12 de enero de 2023 relativos al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023; Decreto Legislativo No. 157-2021 del 12 de enero de 2023 y publicado en el Diario Oficial “La Gaceta” en misma fecha, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023; 1, 2 y 4 del Decreto Legislativo No.8- 2022 del 15 de febrero de 2022 y en la Resolución No.492-12/2023 del 7 de diciembre de 2023, emitida por unanimidad de votos de los miembros del Directorio del Banco Central de Honduras; y demás aplicables.
+1, 69 y 73 de la Ley Orgánica del Presupuesto; 54 y 61 del Decreto No. 157-2022 del 12 de enero de 2023 relativos al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023; Decreto Legislativo No. 157-2021 del 12 de enero de 2023 y publicado en el Diario Oficial “La Gaceta” en misma fecha, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023; 1, 2 y 4 del Decreto Legislativo No. 8-2022 del 15 de febrero de 2022 y en la Resolución No. 492-12/2023 del 7 de diciembre de 2023, emitida por unanimidad de votos de los miembros del Directorio del Banco Central de Honduras; y demás aplicables.
 
 DECRETA:
 
@@ -73,33 +73,33 @@ OCHENTA Y NUEVE MILLONES DOSCIENTOS DIEZ MIL DEG
 
 CINCUENTA Y NUEVE MILLONES CUATROCIENTOS SETENTA MIL
 
-DEG (DEG59,470,000.00) equivalente a SETENTA Y OCHO MILLONES DOSCIENTOS NOVENTA Y NUEVE MIL TRESCIENTOS CUARENTA Y NUEVE DÓLARES DE LOS EUA CON VEINTE CENTAVOS (US$78,299,349.20) asignados a la Línea de Crédito No.1 Servicio Ampliado del FMI (SAF) y VEINTINUEVE MILLONES SETECIENTOS CUARENTA MIL DEG (DEG29,740,000.00) equivalente a TREINTA Y NUEVE MILLONES DOSCIENTOS DIEZ MIL SETECIENTOS VEINTIDÓS D Ó L A R E S D E L O S E U A CON SETENTA CENTAVOS (US$39,210,722.70) para la Línea de Crédito No.2, Servicio de Crédito Ampliado (SCA); ambas líneas de crédito equivalen a CIENTO DIECISIETE MILLONES QUINIENTOS DIEZ MIL SETENTA Y UN DÓLARES DE LOS EUA CON NOVENTA CENTAVOS (US$117,510,071.90).
+DEG (DEG59,470,000.00) equivalente a SETENTA Y OCHO MILLONES DOSCIENTOS NOVENTA Y NUEVE MIL TRESCIENTOS CUARENTA Y NUEVE DÓLARES DE LOS EUA CON VEINTE CENTAVOS (US$78,299,349.20) asignados a la Línea de Crédito No. 1 Servicio Ampliado del FMI (SAF) y VEINTINUEVE MILLONES SETECIENTOS CUARENTA MIL DEG (DEG29,740,000.00) equivalente a TREINTA Y NUEVE MILLONES DOSCIENTOS DIEZ MIL SETECIENTOS VEINTIDÓS D Ó L A R E S D E L O S E U A CON SETENTA CENTAVOS (US$39,210,722.70) para la Línea de Crédito No. 2, Servicio de Crédito Ampliado (SCA); ambas líneas de crédito equivalen a CIENTO DIECISIETE MILLONES QUINIENTOS DIEZ MIL SETENTA Y UN DÓLARES DE LOS EUA CON NOVENTA CENTAVOS (US$117,510,071.90).
 
 PLAZO:
 
-Para la Línea de Crédito No.1 SAF, diez (10) años, incluyendo un período de gracia de cuatro años y medio (4¹̷₂).
+Para la Línea de Crédito No. 1 SAF, diez (10) años, incluyendo un período de gracia de cuatro años y medio (4¹̷₂).
 
-Para la Línea de Crédito No.2 SCA, diez (10) años, incluyendo un período de gracia de cinco años y medio (5¹̷₂).
+Para la Línea de Crédito No. 2 SCA, diez (10) años, incluyendo un período de gracia de cinco años y medio (5¹̷₂).
 
 FORMA DE DESEMBOLSO:
 
-Desembolso en dólares de los Estados Unidos de América con crédito a la Cuenta Única de la Tesorería General de la República en moneda Extranjera en el Banco Central de Honduras (BCH), una vez formalizado el correspondiente Convenio de Crédito, deducida la comisión de cargo por servicio de cero punto cinco por ciento (0.5%) que asciende a DOSCIENTOS NOVENTA Y SIETE MIL TRESCIENTOS CINCUENTA. Derechos Especiales de Giro (DEG297,350.00), equivalente a TRESCIENTOS NOVENTA Y UN MIL CUATROCIENTOS NOVENTA Y SEIS DÓLARES DE LOS EUA CON SETENTA Y CINCO CENTAVOS (US$391,496.75), para la Línea de Crédito No.1 SAF.
+Desembolso en dólares de los Estados Unidos de América con crédito a la Cuenta Única de la Tesorería General de la República en moneda Extranjera en el Banco Central de Honduras (BCH), una vez formalizado el correspondiente Convenio de Crédito, deducida la comisión de cargo por servicio de cero punto cinco por ciento (0.5%) que asciende a DOSCIENTOS NOVENTA Y SIETE MIL TRESCIENTOS CINCUENTA. Derechos Especiales de Giro (DEG297,350.00), equivalente a TRESCIENTOS NOVENTA Y UN MIL CUATROCIENTOS NOVENTA Y SEIS DÓLARES DE LOS EUA CON SETENTA Y CINCO CENTAVOS (US$391,496.75), para la Línea de Crédito No. 1 SAF.
 
 FORMA DE PAGO:
 
-Cuotas semestrales de capital y pagos trimestrales de interés en base al calendario de pagos establecido por el FMI para la Línea de Crédito No.1 SAF.
+Cuotas semestrales de capital y pagos trimestrales de interés en base al calendario de pagos establecido por el FMI para la Línea de Crédito No. 1 SAF.
 
-Cuotas semestrales de capital para la Línea de Crédito No.2 SCA.
+Cuotas semestrales de capital para la Línea de Crédito No. 2 SCA.
 
 TASA DE INTERÉS:
 
-Para la Línea de Crédito No.1 SAF, tasa de cargo básica compuesta por: tasa de interés DEG determinada por el mercado, que incluye un piso mínimo de 5 puntos básicos (0.05%), más un margen establecido por el Directorio Ejecutivo del FMI (actualmente de 100 pb).
+Para la Línea de Crédito No. 1 SAF, tasa de cargo básica compuesta por: tasa de interés DEG determinada por el mercado, que incluye un piso mínimo de 5 puntos básicos (0.05%), más un margen establecido por el Directorio Ejecutivo del FMI (actualmente de 100 pb).
 
-Para Línea de Crédito No.2 SCA, cero por ciento (0.0%).
+Para Línea de Crédito No. 2 SCA, cero por ciento (0.0%).
 
 CARGO POR SERVICIO:
 
-Cero punto cinco por ciento (0.5%) para la Línea de Crédito No.1 SAF.
+Cero punto cinco por ciento (0.5%) para la Línea de Crédito No. 1 SAF.
 
 DESTINO:
 
@@ -119,7 +119,7 @@ Adicional a las condiciones financieras la Secretaría de Estado en el Despacho 
 
 El crédito a otorgar por el Banco Central de Honduras (BCH) al Gobierno de la República, debe considerarse como financiamiento interno en el marco de la Política de Endeudamiento Público (PEP), y a su vez dentro de los parámetros del Análisis de Sostenibilidad de Deuda.
 
-Orientar los recursos transferidos conforme al destino indicado en la Resolución No.492-12/2023, comprometiéndose dicha Secretaría de Estado a administrar los mismos de manera ética y transparente.
+Orientar los recursos transferidos conforme al destino indicado en la Resolución No. 492-12/2023, comprometiéndose dicha Secretaría de Estado a administrar los mismos de manera ética y transparente.
 
 Remitir al correo electrónico (fpublicas@bch.hn) y por los canales oficiales, los reportes periódicos conforme a los movimientos presentados que contengan información detallada sobre montos asignados, ejecutados y pagados; así como informes finales a más tardar seis (6) meses después de su liquidación y en caso de completarse un año después de su suscripción sin haberse utilizado los fondos en su totalidad, se debe presentar un informe a más tardar seis (6) meses después de finalizado el año. Cabe destacar que dichos informes deberán ser sometidos a revisión del Tribunal Superior de Cuentas (TSC).
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 31"
 sumario: "Acuerdos Ejecutivos Nos. 074-2023, 75-2023, 76-2023, Acuerdo No. 0092023,Acuerdo Número 124-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230323-36187/download"
 extraido: "2026-11-14"
-huella: "2e7bc8db1b17ec3a"
+huella: "58c70d7d638ff436"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 074-2023
@@ -35,17 +35,15 @@ Que la Presidenta de la República, tiene a su cargo la suprema dirección y coo
 
 CONSIDERANDO:
 
-Que mediante Decreto Legislativo No.157-2022 de fecha 12 de enero de 2023, publicado en el Diario Oficial La Gaceta No.
-
-36,127 del 12 de enero de 2023, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2023, incluyendo las Disposiciones Generales que regularán la ejecución de éste.
+Que mediante Decreto Legislativo No. 157-2022 de fecha 12 de enero de 2023, publicado en el Diario Oficial La Gaceta No. 36,127 del 12 de enero de 2023, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2023, incluyendo las Disposiciones Generales que regularán la ejecución de éste.
 
 CONSIDERANDO:
 
-Que el artículo 295 del Decreto Legislativo No.157-2022 referido en el Considerando anterior, ordena al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas, reglamentar las Disposiciones Generales del Presupuesto para su correcta y efectiva aplicación.
+Que el artículo 295 del Decreto Legislativo No. 157-2022 referido en el Considerando anterior, ordena al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas, reglamentar las Disposiciones Generales del Presupuesto para su correcta y efectiva aplicación.
 
 POR TANTO:
 
-En cumplimiento de lo dispuesto por los artículos 245, numeral 11 y 255 de la Constitución de la República; 116 y 118 numeral 2 de la Ley General de la Administración Pública y 295 del Decreto Legislativo No.157-2022 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el ejercicio fiscal 2023.
+En cumplimiento de lo dispuesto por los artículos 245, numeral 11 y 255 de la Constitución de la República; 116 y 118 numeral 2 de la Ley General de la Administración Pública y 295 del Decreto Legislativo No. 157-2022 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, para el ejercicio fiscal 2023.
 
 ACUERDA:
 
@@ -143,7 +141,7 @@ Medio de pago utilizado en SIAFI para pagar prestaciones salariales y sus respec
 
 22. OFICIO TITULO DE VALORES (OTR): Medio de pago utilizado en SIAFI para pagar a los Institutos de Previsión Social el aporte patronal a través de bonos.
 
-23. N O R M A S I N T E R N A C I O N A L E S D E CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) Y/ O NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA (NIIF):
+23. NORMAS INTERNACIONALES DE CONTABILIDAD PARA EL SECTOR PÚBLICO (NICSP) Y/ O NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA (NIIF):
 
 Representan el lenguaje moderno para elaborar y presentar la información financiera, que colabora con la transparencia y la Rendición de Cuentas, al presentar sobre una base de buenas prácticas la realidad económica y financiera de las entidades que emiten dicha información, con lo cual se facilita la labor de organismos reguladores.
 
@@ -183,7 +181,7 @@ MATERIA DE RECURSOS HUMANOS: Son aquellas gestiones que las instituciones deben 
 
 35. ACTIVIDAD ESPECÍFICA: Es aquella donde el producto que origina está orientado exclusivamente al logro de los bienes o servicios terminales de un programa, subprograma o proyecto. Los recursos reales y financieros de las actividades específicas son sumables para obtener los recursos reales y financieros del respectivo programa, sub-programa o proyecto.
 
-36. A S I G N A C I O N E S D E A M P L I A C I Ó N
+36. ASIGNACIONES DE AMPLIACIÓN
 
 AUTOMÁTICA: Son aquellas asignaciones presupuestarias que pueden ser ampliadas con el producto de los ingresos propios, eventuales o emanadas de leyes vigentes que perciban las dependencias autorizadas para operar con este sistema.
 
@@ -267,7 +265,7 @@ Los ingresos que se perciban por reposición del DNI en el extranjero dispuestos
 
 #### Artículo 10
 
-Artículo 10. Los operadores de Servicios Públicos de Telecomunicaciones y de las Tecnologías de la información y las Comunicaciones TICs, deben realizar la aportación mensual del 1% de sus ingresos brutos dentro de los siguientes diez (10) días calendarios del cierre del mes al que corresponde el pago, a través de la Comisión Nacional de Telecomunicaciones (CONATEL) con base a los procedimientos que ya establece la Comisión en la Ley Marco del Sector Telecomunicaciones en su artículo 33 del Decreto Legislativo No.185-95, publicado el 5 de diciembre de 1995 en el Diario Oficial La Gaceta, Edición No. 27,823.
+Artículo 10. Los operadores de Servicios Públicos de Telecomunicaciones y de las Tecnologías de la información y las Comunicaciones TICs, deben realizar la aportación mensual del 1% de sus ingresos brutos dentro de los siguientes diez (10) días calendarios del cierre del mes al que corresponde el pago, a través de la Comisión Nacional de Telecomunicaciones (CONATEL) con base a los procedimientos que ya establece la Comisión en la Ley Marco del Sector Telecomunicaciones en su artículo 33 del Decreto Legislativo No. 185-95, publicado el 5 de diciembre de 1995 en el Diario Oficial La Gaceta, Edición No. 27,823.
 
 La CONATEL deberá presentar a la Dirección General de Presupuesto, a más tardar el último día hábil del mes en que se realizó la generación de dichos ingresos, la documentación necesaria para comprobar que los importes generados han sido registrados en la Tesorería General de la República, en cumplimiento a lo establecido en el artículo 24 de las Disposiciones Generales del Presupuesto.
 
@@ -285,7 +283,7 @@ Modificaciones Presupuestarias
 
 Artículo 12. El formulario de Modificación Presupuestaria FMP05 tendrá el mismo efecto que un Dictamen o Resolución Interna emitido por la Secretaría de Estado en el Despacho de Finanzas, por lo que, para las solicitudes de Modificaciones Presupuestarias (MP) se tendrá como instrumento oficial de autorización el formulario denominado “FMP05” generado del SIAFI. En ningún caso que se solicite modificación presupuestaria, la Secretaría de Finanzas a través de la Dirección General de Presupuesto elaborará por aparte Dictámenes o Resoluciones, con excepción de los relacionados con salarios; creación de plazas, operaciones relacionadas con la institución 449 y la incorporación de recursos del tesoro nacional, tal como lo establece el segundo párrafo del artículo 34 de las Disposiciones Generales del Presupuesto.
 
-El número de instrumento para autorización de Modificación Presupuestaria (MP) que requieran Dictamen o Resolución será el Decreto Legislativo No.157-2022, que contiene las Disposiciones Generales del Presupuesto vigente; y, se seguirá el procedimiento siguiente:
+El número de instrumento para autorización de Modificación Presupuestaria (MP) que requieran Dictamen o Resolución será el Decreto Legislativo No. 157-2022, que contiene las Disposiciones Generales del Presupuesto vigente; y, se seguirá el procedimiento siguiente:
 
 1. El Analista Presupuestario agregará en la viñeta de Dictamen/Resolución los elementos de análisis y base legal que permiten la autorización de la modificación indicando claramente que el FMP05 es el instrumento que autoriza la modificación presupuestaria, enfatizando que la ejecución es responsabilidad de la institución ejecutora.
 
@@ -317,7 +315,7 @@ Control de Fideicomisos y Alianzas Público Privada (APP)
 
 Artículo 15. El Banco Nacional de Desarrollo Agrícola, BANASESA en calidad de Banco Fiduciario enviará a la Secretaría de Finanzas informes del avance de las liquidaciones de los Convenios de Administración y/o Contratos de Fideicomiso que a la fecha hayan finalizado su vigencia o se evidencie de forma indubitable que no tuvieron operación alguna. Dichos informes se remitirán al 30 de junio y al 30 de septiembre de 2023 en cumplimiento del artículo 79 de las Disposiciones Generales del Presupuesto.
 
-La Dirección de Fideicomisos dará el seguimiento al proceso de liquidación de los contratos o convenios de fideicomisos, de conformidad con lo dispuesto en el PCM No.029-2019, contentivo de la Ley de creación de dicha Dirección, así como, el PCM No.09-2022 y Decreto Legislativo No.066-2022 referidos a la cancelación de diversos fideicomisos.
+La Dirección de Fideicomisos dará el seguimiento al proceso de liquidación de los contratos o convenios de fideicomisos, de conformidad con lo dispuesto en el PCM No. 029-2019, contentivo de la Ley de creación de dicha Dirección, así como, el PCM No. 09-2022 y Decreto Legislativo No. 066-2022 referidos a la cancelación de diversos fideicomisos.
 
 #### Artículo 16
 
@@ -601,7 +599,7 @@ Sin perjuicio del Régimen Laboral y en consonancia con los artículos 259, 262 
 
 #### Artículo 46
 
-Artículo 46. Para el ajuste del Salario Mínimo en las Secretarías de Estado, Instituciones Desconcentradas y Descentralizadas considerarán el Acuerdo Ejecutivo No. SETRASSS 013-2023 de fecha 8 de febrero de 2023 publicado en El Diario Oficial La Gaceta No.36,161 de fecha 21 de febrero de 2023, sobre la última negociación de salario mínimo en la categoría 10
+Artículo 46. Para el ajuste del Salario Mínimo en las Secretarías de Estado, Instituciones Desconcentradas y Descentralizadas considerarán el Acuerdo Ejecutivo No. SETRASSS 013-2023 de fecha 8 de febrero de 2023 publicado en El Diario Oficial La Gaceta No. 36,161 de fecha 21 de febrero de 2023, sobre la última negociación de salario mínimo en la categoría 10
 
 – Servicios Comunales, Sociales y Personales, Seguridad y Limpieza en la última escala de un máximo de 151 empleados en adelante para todas las instituciones públicas por la suma de L15,056.45 (Quince mil cincuenta y seis Lempiras con cuarenta y cinco centavos), dando así cumplimiento a lo establecido en el artículo 172 de las Disposiciones Generales del Presupuesto.
 

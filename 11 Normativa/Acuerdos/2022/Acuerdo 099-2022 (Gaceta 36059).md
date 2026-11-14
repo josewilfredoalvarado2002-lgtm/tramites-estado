@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ministeriales Nos. 099-2022, 100-2022, 101-2022, 102-2022, 103-2022, 104-2022, 105-2022, 106-2022, 107-2022, 108-2022, 112-2022, 113-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "19310e7f1f0dcd6f"
+huella: "b01576b261564c84"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 099-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que dentro de las competencias establecidas en el Artículo 36 de 
 
 CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto No. 251-2013 del 10 de diciembre de 2013, publicado, en el Diario Oficial “La Gaceta” el 07 de junio de 2014, aprobó el Tratado de Libre Comercio entre la República de Honduras y Canadá, mismo que entró en vigor el 1 de octubre de 2014.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No. 251- 2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado.
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 251-2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado.
 
 POR TANTO:
 

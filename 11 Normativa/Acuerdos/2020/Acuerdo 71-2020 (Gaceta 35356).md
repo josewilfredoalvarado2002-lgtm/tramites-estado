@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200828-35356/download"
 extraido: "2026-11-14"
-huella: "662b12181c1ecad7"
+huella: "2dc42e4fa2a47f85"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 71-2020
@@ -27,7 +27,7 @@ huella: "662b12181c1ecad7"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 19 numeral 7 y 21 de la Ley de la cuenta del Desafio del Milenio (Decreto Legislativo 233-2005); Decreto Ejecutivo PCM-006-2014.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 19 numeral 7 y 21 de la Ley de la cuenta del Desafio del Milenio (Decreto Legislativo 233-2005); Decreto Ejecutivo PCM-006-2014.
 
 ACUERDA:
 

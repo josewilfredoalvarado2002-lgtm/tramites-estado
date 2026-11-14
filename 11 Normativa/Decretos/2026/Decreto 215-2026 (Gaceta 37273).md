@@ -8,10 +8,10 @@ gaceta_numero: 37273
 gaceta_fecha: "2026-10-19"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)|La Gaceta 37273]]"
 paginas: "A. 17 - 20"
-sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026"
+sumario: "Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261019-37273/download"
 extraido: "2026-11-09"
-huella: "11cb0dd7ee5cb993"
+huella: "ee5558a7d4b2065c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 215-2026
@@ -23,13 +23,13 @@ huella: "11cb0dd7ee5cb993"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37273 (2026-10-19)\|La Gaceta 37273]] del 2026-10-19 |
 | Páginas | A. 17 - 20 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVODecretos Nos. 213-2026, 215-2026 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-018-2026Resumen EjecutivoPODER LEGISLATIVO: Decretos Nos. 213-2026, 215-2026 |
 
 ## Texto
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.17-2026, publicado en el Diario Oficial "La Gaceta" el 27 de Febrero de 2026, se emitió la Ley de Reactivación Económica y Desarrollo Humano, con el propósito de implementar un régimen de medidas fiscales y financieras extraordinarias, excepcionales y temporales orientadas a restablecer el equilibrio de las finanzas públicas, promover el crecimiento económico sostenible, el desarrollo humano y el fortalecimiento institucional del Estado, todo ello en el marco de la racionalización del gasto público y la eficiencia en la gestión de los recursos del Estado.
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 17-2026, publicado en el Diario Oficial "La Gaceta" el 27 de Febrero de 2026, se emitió la Ley de Reactivación Económica y Desarrollo Humano, con el propósito de implementar un régimen de medidas fiscales y financieras extraordinarias, excepcionales y temporales orientadas a restablecer el equilibrio de las finanzas públicas, promover el crecimiento económico sostenible, el desarrollo humano y el fortalecimiento institucional del Estado, todo ello en el marco de la racionalización del gasto público y la eficiencia en la gestión de los recursos del Estado.
 
 CONSIDERANDO: Que el Artículo 5 de la referida Ley faculta a la Procuraduría General de la República (PGR) para realizar conciliaciones judiciales y otros mecanismos alternativos de solución de controversias en los que participe el Estado, con el objeto de evitar perjuicios económicos mayores, sujetando tales acuerdos a la disponibilidad presupuestaria, dictámenes de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y, en su caso, a la opinión de una Comisión Especial del Congreso Nacional, para luego ser homologados judicialmente.
 
@@ -59,7 +59,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 5 del Decreto Legislativo No.17-2026, de fecha 25 de febrero de 2026, contentivo de la LEY DE REACTIVACIÓN ECONÓMICA Y DESARROLLO HUMANO, el cual en lo sucesivo se leerá de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 5 del Decreto Legislativo No. 17-2026, de fecha 25 de febrero de 2026, contentivo de la LEY DE REACTIVACIÓN ECONÓMICA Y DESARROLLO HUMANO, el cual en lo sucesivo se leerá de la siguiente manera:
 
 "ARTÍCULO 5.- Se autoriza...
 

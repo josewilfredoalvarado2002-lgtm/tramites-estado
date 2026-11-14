@@ -11,7 +11,7 @@ paginas: "A. 26 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "ef766b9975fe1dad"
+huella: "5e90d0619c919c85"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-625-2022
@@ -33,7 +33,7 @@ CONSIDERANDO (1): Que la Constitución de la República establece en su Artícul
 
 La protección de la salud y acceso a los servicios de salud, el derecho al trabajo y la protección laboral y la seguridad social, con énfasis en la protección de todos los grupos de la población en condiciones de vulnerabilidad.
 
-CONSIDERANDO (2): Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No.178-2016 que contiene la Ley de Inspección del Trabajo y el Acuerdo STSS-350-2019 del Reglamento de la Ley de Inspección General del Trabajo, por medio de la Dirección General de Inspección de Trabajo.
+CONSIDERANDO (2): Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No. 178-2016 que contiene la Ley de Inspección del Trabajo y el Acuerdo STSS-350-2019 del Reglamento de la Ley de Inspección General del Trabajo, por medio de la Dirección General de Inspección de Trabajo.
 
 CONSIDERANDO (3): Que es impostergable y apremiante la necesidad de fortalecer, modernizar y transparentar cada una de las actuaciones, ejercicio y prácticas realizadas por los inspectores de trabajo dentro del marco legal en consonancia a lo establecido en el Manual de Identidad aprobado por el Gobierno de la República, mismo que establece la línea gráfica que debe utilizarse en todas sus dependencias.
 

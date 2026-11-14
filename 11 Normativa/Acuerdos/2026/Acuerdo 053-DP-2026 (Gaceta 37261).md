@@ -11,7 +11,7 @@ paginas: "A. 3 - 30"
 sumario: "Acuerdos Ejecutivos Nos. 047-DP-2026, 053-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261002-37261/download"
 extraido: "2026-11-09"
-huella: "c98aa3fff1c55792"
+huella: "d2d81291ac720f67"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 053-DP-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 116 de la Ley General de la Administración Públ
 
 CONSIDERANDO: Que el Artículo 41 reformado de la Ley de Procedimiento Administrativo dispone que corresponde al Poder Ejecutivo expedir los reglamentos de la Administración Pública, salvo disposición contraria de la ley.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 034-2019 publicado en el Diario Oficial "La Gaceta" en fecha 18 de julio del año 2019, se creó el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República; y que, conforme al Artículo 6, Literal e) del mismo Decreto Ejecutivo, el Director Ejecutivo de SENPRENDE se encuentra facultado para aprobar reglamentos internos únicamente para la operación interna de la institución, facultad que no alcanza a la regulación de obligaciones dirigidas a Instituciones Financieras Intermediarias y organizaciones del Sector Social de la Economía ajenas a la estructura institucional, por lo que la emisión del presente Reglamento, al producir efectos sobre dichos terceros conforme a su Artículo 2, corresponde al Presidente de la República en ejercicio de la potestad reglamentaria a que se refiere el Considerando Primero de este Acuerdo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-034-2019 publicado en el Diario Oficial "La Gaceta" en fecha 18 de julio del año 2019, se creó el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República; y que, conforme al Artículo 6, Literal e) del mismo Decreto Ejecutivo, el Director Ejecutivo de SENPRENDE se encuentra facultado para aprobar reglamentos internos únicamente para la operación interna de la institución, facultad que no alcanza a la regulación de obligaciones dirigidas a Instituciones Financieras Intermediarias y organizaciones del Sector Social de la Economía ajenas a la estructura institucional, por lo que la emisión del presente Reglamento, al producir efectos sobre dichos terceros conforme a su Artículo 2, corresponde al Presidente de la República en ejercicio de la potestad reglamentaria a que se refiere el Considerando Primero de este Acuerdo.
 
 CONSIDERANDO: Que la ejecución de programas de financiamiento mediante Instituciones Financieras Intermediarias (IFIs) requiere la constitución de mecanismos propios de cobertura de pérdidas y mitigación del riesgo crediticio que garanticen la sostenibilidad financiera de dichos programas y la protección de los recursos públicos transferidos a las IFIs, sin que ello implique que el presente Reglamento regule los programas de financiamiento en sí mismos, cuya regulación corresponde a los reglamentos específicos de cada programa.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Reserva de Sostenibilidad y Cobertura de Pérdidas constitu
 
 CONSIDERANDO: Que toda operación de financiamiento conlleva riesgos inherentes de incumplimiento y recuperación, por lo que resulta necesario establecer mecanismos prudenciales de administración del riesgo crediticio que contribuyan a la sostenibilidad financiera de los programas ejecutados mediante Instituciones Financieras Intermediarias y a la protección de los recursos públicos.
 
-CONSIDERANDO: Que la administración, transferencia, supervisión, liquidación, control y reintegro de los recursos que conforman la Reserva de Sostenibilidad y Cobertura de Pérdidas se encuentran sujetos al Decreto Ejecutivo PCM- 034-2019 de creación de SENPRENDE, a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República vigentes, a la normativa aplicable a la administración de fondos públicos y demás disposiciones financieras, presupuestarias y administrativas aplicables, así como a los mecanismos de control y fiscalización establecidos por el Estado.
+CONSIDERANDO: Que la administración, transferencia, supervisión, liquidación, control y reintegro de los recursos que conforman la Reserva de Sostenibilidad y Cobertura de Pérdidas se encuentran sujetos al Decreto Ejecutivo PCM-034-2019 de creación de SENPRENDE, a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República vigentes, a la normativa aplicable a la administración de fondos públicos y demás disposiciones financieras, presupuestarias y administrativas aplicables, así como a los mecanismos de control y fiscalización establecidos por el Estado.
 
 CONSIDERANDO:
 

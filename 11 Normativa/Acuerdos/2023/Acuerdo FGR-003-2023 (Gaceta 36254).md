@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Acuerdo No. FGR-003-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230614-36254/download"
 extraido: "2026-11-14"
-huella: "a83b46ba98d02883"
+huella: "ca6ef9743594be06"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-003-2023
@@ -27,7 +27,7 @@ huella: "a83b46ba98d02883"
 
 ## Texto
 
-Fiscalía General de la República OSCAR FERNANDO CHINCHILLA, Fiscal General de la República de Honduras, en ejercicio de las facultades que el Honorable Congreso Nacional le confirió mediante Decreto Legislativo número 069-2018; y, con fundamento en los artículos 59, 61, 80, 232, 233, 321 y demás aplicables de la Constitución de la República; 135, 217, 262, 275, 279 , 283 y demás aplicables del Código Procesal Penal; 1, 3, 4, 5, 8, 16, 17, 18, 24, 28, 41, 44, 48, 52, 58, 64, 80 y demás aplicables de la Ley del Ministerio Público; 7, 118, 122 y demás aplicables de la Ley General de la Administración Pública; 1, 2, 3, 4, 5, 6, 7, 10, 11, 13 y demás aplicables de la Ley para la Disposición de Vehículos Decomisados relacionados con hechos de Tránsito, Delitos y otros de Interés Investigativo; 4, 13, 15, 17, 31, 84, 85, 86, 87, 89, 90, 91, 286, 386, 387, 391, 392 y demás aplicables del Reglamento Especial de Organización y Funcionamiento de la Dirección General de Fiscalía; Acuerdo FGR-001-2021, Plan Estratégico Institucional 2021-2025.
+Fiscalía General de la República OSCAR FERNANDO CHINCHILLA, Fiscal General de la República de Honduras, en ejercicio de las facultades que el Honorable Congreso Nacional le confirió mediante Decreto Legislativo número 069-2018; y, con fundamento en los artículos 59, 61, 80, 232, 233, 321 y demás aplicables de la Constitución de la República; 135, 217, 262, 275, 279, 283 y demás aplicables del Código Procesal Penal; 1, 3, 4, 5, 8, 16, 17, 18, 24, 28, 41, 44, 48, 52, 58, 64, 80 y demás aplicables de la Ley del Ministerio Público; 7, 118, 122 y demás aplicables de la Ley General de la Administración Pública; 1, 2, 3, 4, 5, 6, 7, 10, 11, 13 y demás aplicables de la Ley para la Disposición de Vehículos Decomisados relacionados con hechos de Tránsito, Delitos y otros de Interés Investigativo; 4, 13, 15, 17, 31, 84, 85, 86, 87, 89, 90, 91, 286, 386, 387, 391, 392 y demás aplicables del Reglamento Especial de Organización y Funcionamiento de la Dirección General de Fiscalía; Acuerdo FGR-001-2021, Plan Estratégico Institucional 2021-2025.
 
 CONSIDERANDO:
 
@@ -919,7 +919,7 @@ CAPÍTULO QUINTO DE LA IDENTIFICACIÓN DE VEHÍCULOS DECLARADOS EN ABANDONO
 
 Artículo 65. IDENTICIACIÓN DE VEHÍCULOS
 
-D E C L A R A D O S E N A B A N D O N O P A R A I N C O R P O R A R L O S C O M O V E H Í C U L O S INSTITUCIONALES. Le corresponde al Departamento de Servicios Generales identificar y evaluar los vehículos declarados en abandono que se encuentran en buenas condiciones y se estimen útiles para ser incorporados a la flota vehicular institucional; por ende, una vez identificados, evaluados física y mecánicamente para garantizar su idoneidad para incorporarse al parque vehicular de la institución y cumplir las necesidades logísticas de traslado cumpliendo nuestra función institucional, el Departamento de Servicios Generales deberá poner en conocimiento este hecho de forma inmediata a la Sección de Bienes para que este proceda a realizar las gestiones que correspondan ante la DNBE y que los referidos vehículos sean inventariados y pasen a formar parte de los bienes del Estado de Honduras a través de nuestra institución.
+DECLARADOS EN ABANDONO PARA INCORPORARLOS COMO VEHÍCULOS INSTITUCIONALES. Le corresponde al Departamento de Servicios Generales identificar y evaluar los vehículos declarados en abandono que se encuentran en buenas condiciones y se estimen útiles para ser incorporados a la flota vehicular institucional; por ende, una vez identificados, evaluados física y mecánicamente para garantizar su idoneidad para incorporarse al parque vehicular de la institución y cumplir las necesidades logísticas de traslado cumpliendo nuestra función institucional, el Departamento de Servicios Generales deberá poner en conocimiento este hecho de forma inmediata a la Sección de Bienes para que este proceda a realizar las gestiones que correspondan ante la DNBE y que los referidos vehículos sean inventariados y pasen a formar parte de los bienes del Estado de Honduras a través de nuestra institución.
 
 TÍTULO SEXTO DE LA SUBASTA
 

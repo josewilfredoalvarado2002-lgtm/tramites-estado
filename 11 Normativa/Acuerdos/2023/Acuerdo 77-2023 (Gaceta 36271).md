@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo No. 77-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230703-36271/download"
 extraido: "2026-11-14"
-huella: "f4a68082dff886b5"
+huella: "70cd3f1a350216ad"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 77-2023
@@ -31,7 +31,7 @@ CONSIDERANDO: Que el Artículo 35 de la Constitución de la República contempla
 
 La Ley establecerá los requisitos, cuotas y condiciones para el ingreso de los inmigrantes al país, así como las prohibiciones, limitaciones y sanciones a que estarán sujetos los extranjeros.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 208- 2003, de fecha 12 de diciembre del 2003, se aprobó la Ley de Migración y Extranjería, instrumento legal que se encarga de la regulación y control migratorio en la entrada y salida de nacionales y extranjeros, así como para la permanencia de estos últimos en territorio nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo 208-2003, de fecha 12 de diciembre del 2003, se aprobó la Ley de Migración y Extranjería, instrumento legal que se encarga de la regulación y control migratorio en la entrada y salida de nacionales y extranjeros, así como para la permanencia de estos últimos en territorio nacional.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 031-2014 de fecha 30 de junio de 2014, reformado por el Decreto Ejecutivo PCM-063-2014 de fecha 27 de septiembre de 2014, se creó el Instituto Nacional de Migración
 
@@ -51,11 +51,9 @@ CONSIDERANDO: Que en la actualidad ha surgido dentro del contexto social y cultu
 
 POR TANTO:
 
-En uso de las facultades establecidas en los Artículos 35, de la Constitución de la República; 1, 7, 8, 29 reformado, 36, numerales 1 y 6, 45, 116, 118, 119, numeral 3, de la Ley General de la Administración Pública; 1 y 5 de la Ley de Simplificación Administrativa; 2 del Decreto Legislativo No.
+En uso de las facultades establecidas en los Artículos 35, de la Constitución de la República; 1, 7, 8, 29 reformado, 36, numerales 1 y 6, 45, 116, 118, 119, numeral 3, de la Ley General de la Administración Pública; 1 y 5 de la Ley de Simplificación Administrativa; 2 del Decreto Legislativo No. 253-2013; 22, 24, 25, 26, 27, 63, 80, 81, 87 y 88 de la Ley de Procedimiento Administrativo; Decreto No. 108-2007;
 
-253-2013; 22, 24, 25, 26, 27, 63, 80, 81, 87 y 88 de la Ley de Procedimiento Administrativo; Decreto No.108-2007;
-
-Decreto Ejecutivo PCM-031-2014; Decreto Ejecutivo PCM- 061-2014; 8 numerales 1), 6) y 24) de la Ley de Migración y Extranjería; 110 y 127 del Reglamento de la Ley de Migración y Extranjería.
+Decreto Ejecutivo PCM-031-2014; Decreto Ejecutivo PCM-061-2014; 8 numerales 1), 6) y 24) de la Ley de Migración y Extranjería; 110 y 127 del Reglamento de la Ley de Migración y Extranjería.
 
 ACUERDA:
 

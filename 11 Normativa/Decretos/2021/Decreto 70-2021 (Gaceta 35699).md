@@ -11,7 +11,7 @@ paginas: "A. 4 - 17"
 sumario: "Decretos Nos. 68-2021, 70-2021, 71-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210826-35699/download"
 extraido: "2026-11-14"
-huella: "8978fb1856814553"
+huella: "9c491aae65678d9e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 70-2021
@@ -29,9 +29,9 @@ huella: "8978fb1856814553"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: El Artículo 8 del Decreto Legislativo No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL QUINIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019.
+CONSIDERANDO: El Artículo 8 del Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL QUINIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6868-HN suscrito el 30 de Junio de 2021, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados a financiar la ejecución del “FINANCIAMIENTO ADICIONAL AL PROYECTO DE RESPUESTA A EMERGENCIAS HONDURAS COVID-19”, se ampara en el Artículo 8 del Decreto Legislativo No.33-2020.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6868-HN suscrito el 30 de Junio de 2021, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados a financiar la ejecución del “FINANCIAMIENTO ADICIONAL AL PROYECTO DE RESPUESTA A EMERGENCIAS HONDURAS COVID-19”, se ampara en el Artículo 8 del Decreto Legislativo No. 33-2020.
 
 CONSIDERANDO: Que el Programa tiene como objetivo detectar y responder a la amenaza que representa la pandemia del COVID-19 en la República de Honduras.
 

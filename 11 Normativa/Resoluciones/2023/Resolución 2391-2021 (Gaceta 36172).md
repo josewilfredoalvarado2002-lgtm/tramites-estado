@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución 2391-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230306-36172/download"
 extraido: "2026-11-14"
-huella: "1c67ef8f36c86b5c"
+huella: "17110ef40c863a6b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN 2391-2021
@@ -95,7 +95,7 @@ ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular y normal e
 
 #### Artículo 5
 
-ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la Ley Marco del Sector Agua Potable y Saneamiento.- e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) Obtención del área de la microcuenca por medio de la compra , firma de convenios con dueños de terreno
+ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la Ley Marco del Sector Agua Potable y Saneamiento.- e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) Obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno
 
 \2) Mejorando la infraestructura 3) Construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la población use y maneje el agua adecuadamente y evitando el desperdicio del agua. g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento. Básicos j.- Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
 
@@ -227,7 +227,7 @@ ARTÍCULO 31.- Los presentes Estatutos entrarán en vigencia luego de ser aproba
 
 SEGUNDO: La JUNTA ADMINISTRADORA DE
 
-AGUA POTABLE Y SANEAMIENTO DE MONTAÑA CERRO AZUL, DEL MUNICIPIO DE LA MASICA, DEPARTAMENTO DE ATLÁNTIDA, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de :la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
+AGUA POTABLE Y SANEAMIENTO DE MONTAÑA CERRO AZUL, DEL MUNICIPIO DE LA MASICA, DEPARTAMENTO DE ATLÁNTIDA, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de:la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
 TERCERO: La JUNTA ADMINISTRADORA DE
 

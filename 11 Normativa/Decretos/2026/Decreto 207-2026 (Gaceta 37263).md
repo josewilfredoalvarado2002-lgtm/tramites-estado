@@ -11,7 +11,7 @@ paginas: "A. 34 - 36"
 sumario: "Decretos Nos. 190-2026, 207-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261006-37263/download"
 extraido: "2026-11-09"
-huella: "8100d04f8393ebdf"
+huella: "a0be96ee41a6ef68"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 207-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Ministeriales Nos. 471-SEDESOL-2026, 488-SEDESOL-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260706-37186/download"
 extraido: "2026-11-09"
-huella: "e798cb648e571ced"
+huella: "b09a3c30f5f49a1f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 471-SEDESOL-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que siendo necesario fortalecer el orden administrativo interno, r
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-004-2026, de fecha 25 de febrero del 2026, en el artículo 18 autoriza a la Secretaría de Finanzas realice los traslados presupuestarios a favor de las instituciones públicas, que asuman la ejecución de los recursos previstos en los contratos, convenios y acuerdos de financiamiento internacional, así como recursos contraparte de los programas y proyectos, de las instituciones que se van a derogar.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-004-2026, de fecha 25 de febrero del 2026, en el artículo 19, deroga (a) Decreto Ejecutivo Número PCM-08-2022 aprobado el veintinueve (29) de abril de dos mil veintidós (2022) y publicado en el Diario Oficial “La Gaceta”, en fecha dos (2) de mayo de dos mil veintidós (2022), consecuentemente, queda suprimido el “Programa de la Red Solidaria”; b) Decreto Ejecutivo Número PCM- 20-2022 aprobado el 10 de agosto del 2022 y publicado en el Diario Oficial “La Gaceta”, en fecha 11 de agosto del 2022, consecuentemente, queda suprimido el “Programa de Acción Solidaria (PROASOL)”.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-004-2026, de fecha 25 de febrero del 2026, en el artículo 19, deroga (a) Decreto Ejecutivo Número PCM-08-2022 aprobado el veintinueve (29) de abril de dos mil veintidós (2022) y publicado en el Diario Oficial “La Gaceta”, en fecha dos (2) de mayo de dos mil veintidós (2022), consecuentemente, queda suprimido el “Programa de la Red Solidaria”; b) Decreto Ejecutivo Número PCM-20-2022 aprobado el 10 de agosto del 2022 y publicado en el Diario Oficial “La Gaceta”, en fecha 11 de agosto del 2022, consecuentemente, queda suprimido el “Programa de Acción Solidaria (PROASOL)”.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 125-2026 de fecha 16 de febrero de 2026, nombran a la ciudadana FÁTIMA IDALMA JUÁREZ en el cargo de Directora Ejecutiva Ad Honorem del Programa de la Red Solidaria.
 
@@ -59,9 +59,7 @@ POR TANTO:
 
 La Secretaria de Estado en el Despacho de Desarrollo Social (SEDESOL), en ejercicio de las facultades y atribuciones que le confieren los artículos 59, 235 y 245 numerales 5) y 11) de la Constitución de la República; artículos 29, 30, 33, 36 numerales 1), 5), 6), 8), 17) y 18), 116, 118 y demás aplicables de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05-2022; Decreto Ejecutivo PCM-004-2026;
 
-Acuerdo Ejecutivo No. 034-2026; Acuerdo Ejecutivo No.
-
-125-2026; y, demás normativa aplicable.
+Acuerdo Ejecutivo No. 034-2026; Acuerdo Ejecutivo No. 125-2026; y, demás normativa aplicable.
 
 ACUERDA:
 

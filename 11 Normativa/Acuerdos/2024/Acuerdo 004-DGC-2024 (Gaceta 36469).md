@@ -11,7 +11,7 @@ paginas: "A. 106 - 111"
 sumario: "Acuerdo Nos. 002-DGC-2024, 003-DGC2024, 004-DGC-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240224-36469/download"
 extraido: "2026-11-14"
-huella: "9537af8236cfec9b"
+huella: "2b63b5380b1ac175"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 004-DGC-2024
@@ -29,9 +29,7 @@ huella: "9537af8236cfec9b"
 
 DIRECCIÓN GENERAL DE CINEMATOGRAFÍA
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos
+CONSIDERANDO: Que mediante Decreto Legislativo No. 3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos
 
 CONSIDERANDO: Que mediante Acuerdo No. 106-2023 de fecha 17 de Abril de 2023, se nombró al ciudadano MANUEL ANTONIO VILLA CRUZ, en el cargo de Director General de Cinematografía.
 
@@ -75,7 +73,7 @@ ACUERDA:
 
 PRIMERO: Dar por aprobado el MANUAL DE SANCIONES ADMINISTRATIVAS DE LA DGC, versión 1.0 del año 2024 que es de aplicación inmediata a todos los agentes participantes, que literalmente dice:
 
-MANUAL DE SANCIONES ADMINISTRATIVAS PARA LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No.3 Versión 1.0
+MANUAL DE SANCIONES ADMINISTRATIVAS PARA LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No. 3 Versión 1.0
 
 1. Propósito del Manual El propósito del manual de sanciones administrativas de la Dirección General de Cinematografía (DGC) es establecer un marco normativo claro y detallado que regule el comportamiento y las acciones de los participantes en la industria cinematográfica en relación con el uso del Fondo para el Desarrollo Cinematografico (FONDECI).
 

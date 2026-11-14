@@ -11,7 +11,7 @@ paginas: "A. 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "8a60a14e04f295fa"
+huella: "9d6e8ce78abc0268"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-582-2020
@@ -33,7 +33,7 @@ ACUERDA:
 
 PRIMERO: Cancelar a partir del 13 de noviembre de 2020, a la ciudadana Norma Vides Berlioz del cargo de Gerente Administrativo (Cargo Excluido), Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 001 Actividades Centrales, Unidad Ejecutora 002 Unidades de Apoyo, Sub Programa 00, Actividad/Obra 002, Unidad: Servicios Administrativos y Contables, Número de Puesto 0290, Grupo 00, Nivel 00, último sueldo devengado Lps.46,000.00 (Cuarenta y Seis Mil Lempiras Exactos).
 
-SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N.171- 2019, artículo 125, último párrafo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020.
+SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N.171-2019, artículo 125, último párrafo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020.
 
 TERCERO: Agradecer a la ciudadana Norma Vides Berlioz, por los servicios prestados a la Institución, está obligada a presentar su declaración Jurada de Bienes ante el Tribunal Superior de Cuentas que cesa del cargo.
 

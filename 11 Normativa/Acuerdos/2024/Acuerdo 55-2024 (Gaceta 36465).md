@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ministerial No. 55-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240220-36465/download"
 extraido: "2026-11-14"
-huella: "2abd70ce41ee8c77"
+huella: "b2cf90db018275e2"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 55-2024
@@ -59,19 +59,19 @@ Que el Acuerdo Ejecutivo STSS-577-20 del Reglamento de Seguridad y Salud Ocupaci
 
 CONSIDERANDO:
 
-Que la Asociación de Grupos de Pescadores Artesanales de la Mosquitia AGRUPEM, en fecha 30 de octubre el 2023 dirigió oficio a la Dirección de Pesca y Acuicultura (DIGEPESCA), en el cual se solicita la extensión del periodo de pesca establecido en Acuerdo Ministerial SAG 165- 2023, para el PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS.
+Que la Asociación de Grupos de Pescadores Artesanales de la Mosquitia AGRUPEM, en fecha 30 de octubre el 2023 dirigió oficio a la Dirección de Pesca y Acuicultura (DIGEPESCA), en el cual se solicita la extensión del periodo de pesca establecido en Acuerdo Ministerial SAG 165-2023, para el PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS.
 
 CONSIDERANDO:
 
 Que el 92% de las licencias de pesca se emitieron seis (6) semanas después de la apertura del Protocolo De Pepino De Mar (Holothuria mexicana), debido a demoras con los trámites administrativos.- Así mismo debido a las condiciones, climáticas que se presentan en los meses de noviembre a diciembre, las faenas de pesca se vuelven complejas.- Por lo que las capturas en los meses de noviembre a diciembre no garantizan el retorno de la inversión a los pescadores.
 
-CONSIDERANDO :
+CONSIDERANDO:
 
 Que la Secretaría de Agricultura y Ganadería (SAG) a través de la Dirección General de Pesca y Acuicultura (DIGEPESCA) impulsa el ordenamiento en la pesca de pepino de mar, velando por su sostenibilidad y sustentabilidad, en consecuencia, continuar con el PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS, nos conduce al objetivo general del mismo, como es la identificación del estado de las poblaciones de pepino de mar (Holothuria mexicana Molongo) en la actualidad, esto con el fin de tomar decisiones de manejo, según las recomendaciones de los informes técnicos de las temporadas que se ha ejecutado orientadas a la implementación de un Plan de ordenamiento y manejo Pesquero sobre este recurso según lo instruye la Ley General de Pesca y Acuicultura.
 
-CONSIDERANDO: En base al Dictamen Técnico 899- 2023, emitido por la Dirección General de Pesca y Acuicultura (DIGEPESCA), mismo que recomienda la extensión al Protocolo de Pepino de Mar, por un período de dos meses, partiendo del primero (1) de marzo al treinta
+CONSIDERANDO: En base al Dictamen Técnico 899-2023, emitido por la Dirección General de Pesca y Acuicultura (DIGEPESCA), mismo que recomienda la extensión al Protocolo de Pepino de Mar, por un período de dos meses, partiendo del primero (1) de marzo al treinta
 
-(30) de abril del año 2024, sujeta a las medidas establecidas en el Protocolo bajo el Acuerdo SAG- 165-2023 de fecha cuatro(4) de agosto del año dos mil veintitrés (2023).- Para la temporada 2024- 2025.
+(30) de abril del año 2024, sujeta a las medidas establecidas en el Protocolo bajo el Acuerdo SAG-165-2023 de fecha cuatro(4) de agosto del año dos mil veintitrés (2023).- Para la temporada 2024-2025.
 
 POR TANTO
 

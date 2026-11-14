@@ -8,7 +8,7 @@ gaceta_numero: 36224
 gaceta_fecha: "2023-05-10"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36224 (2023-05-10)|La Gaceta 36224]]"
 paginas: "A. 2 - 3"
-sumario: "Acuerdo No. 77-2023AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202"
+sumario: "Acuerdo No. 77-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230510-36224/download"
 extraido: "2026-11-14"
 huella: "54c6ba4926d9852c"
@@ -23,7 +23,7 @@ huella: "54c6ba4926d9852c"
 | Emisor | Agencia de Regulación Sanitaria ARSA |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36224 (2023-05-10)\|La Gaceta 36224]] del 2023-05-10 |
 | Páginas | A. 2 - 3 |
-| Según el sumario de La Gaceta | Acuerdo No. 77-2023AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202 |
+| Según el sumario de La Gaceta | Acuerdo No. 77-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202 |
 
 ## Texto
 

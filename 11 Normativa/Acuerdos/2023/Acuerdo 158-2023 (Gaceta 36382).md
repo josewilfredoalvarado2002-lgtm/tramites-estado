@@ -11,7 +11,7 @@ paginas: "A. 2 - 14"
 sumario: "Acuerdo Ejecutivo No. 50-2022, Acuerdo Ejecutivo Número 158-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231113-36382/download"
 extraido: "2026-11-14"
-huella: "3cd1acd82dfd7a97"
+huella: "5ee5434174128fb7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 158-2023
@@ -35,15 +35,15 @@ CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de 
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Secretaría de Agricultura y Ganadería, fomentar la eficiencia en el campo de la producción y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país; y es la Secretaría de Estado en el Despacho de Desarrollo Económico la Institución encargada de dirigir la Política Comercial de Honduras.
 
-CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA,), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo No. SAG- 125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
+CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA,), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
 
-CONSIDERANDO: Que en el Acuerdo No. SAG- 125- 2022, contempla en el Numeral 1, Literal b) lo siguiente:
+CONSIDERANDO: Que en el Acuerdo No. SAG-125-2022, contempla en el Numeral 1, Literal b) lo siguiente:
 
 “El periodo de cosecha nacional iniciará el primero (01) de septiembre y finaliza el treinta y uno (31) de agosto de cada año…” En cumplimiento a lo antes referido la Comisión de Supervisión en la reunión sostenida el 01 de agosto de 2023, aprueban y firman el Addendum Número Uno al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco) que corresponde a la Cosecha Nacional 2023-2024; asegurando la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano, la compra de maíz blanco, en apoyo a las Asociaciones de Productores, siendo producto de las negociaciones de alianzas estratégicas de compraventa de maíz, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No.129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG- 125-2022.
+En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No. 129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG-125-2022.
 
 ACUERDA:
 

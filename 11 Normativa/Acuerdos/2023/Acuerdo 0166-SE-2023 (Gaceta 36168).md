@@ -8,10 +8,10 @@ gaceta_numero: 36168
 gaceta_fecha: "2023-03-01"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36168 (2023-03-01)|La Gaceta 36168]]"
 paginas: "A. 1 - 60"
-sumario: "Acuerdo No. 0166-SE-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdos Nos. S.D.N-016-2023, 018-2023"
+sumario: "Acuerdo No. 0166-SE-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdos Nos. S.D.N-016-2023, 018-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230301-36168/download"
 extraido: "2026-11-14"
-huella: "716cce657bae5b74"
+huella: "43d024d87e018870"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0166-SE-2023
@@ -23,7 +23,7 @@ huella: "716cce657bae5b74"
 | Emisor | Secretaría de Estado en el Despacho de Educación |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36168 (2023-03-01)\|La Gaceta 36168]] del 2023-03-01 |
 | Páginas | A. 1 - 60 |
-| Según el sumario de La Gaceta | Acuerdo No. 0166-SE-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdos Nos. S.D.N-016-2023, 018-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 0166-SE-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdos Nos. S.D.N-016-2023, 018-2023 |
 
 ## Texto
 
@@ -125,7 +125,7 @@ En uso de las facultades que le confiere la Ley y en aplicación de las disposic
 
 1, 28, 29 reformado numeral 2), 36 numerales 1), y 8); 116, 118, 119 y 122 de la Ley General de la Administración Pública; artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y artículos 7, 8 y 9 del Reglamento General de Educación Media.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Se declara el año 2023, como el año de la Refundación del Sistema Educativo Nacional, administrado por la Secretaría de Educación en todos sus niveles y modalidades.
 
@@ -1365,7 +1365,7 @@ Diferencia a Favor de:
 
 Firma Colaborador Firma del Jefe Unidad Solicitante Firma Gerencia Administrativa ANEXO 4 SECRETARIA DE DEFENSA NACIONAL Registro de Gastos del Fondo de Caja Chica Saldo Inicial Registro No. 1 FECHA DE FECHA DE TIPO DE GASTO Egresos Saldo Final FECHA DE UNIDAD VALOR VALOR FACTURA CONCEPTO BENEFICIARIO SOLICITADO AUTORIZADO 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 ::::::::
 
-FECHA: ________________________________ T O T A L L E M P I R A S
+FECHA: ________________________________ TOTAL LEMPIRAS
 
 - - Responsable de Caja Chica Revisado por:
 

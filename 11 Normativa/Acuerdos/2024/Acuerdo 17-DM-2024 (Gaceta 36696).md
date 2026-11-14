@@ -11,7 +11,7 @@ paginas: "A. 69 - 100"
 sumario: "Acuerdo 17-DM-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241122-36696/download"
 extraido: "2026-11-14"
-huella: "9137812cd285b58e"
+huella: "43fa4a247c127bd2"
 ---
 <!-- portal:inicio -->
 # ACUERDO 17-DM-2024
@@ -61,9 +61,7 @@ POR TANTO:
 
 En el ejercicio de las atribuciones que le otorgan los Artículos 255 y 321 de la Constitución de la República de Honduras,
 
-Artículos 116, 118 de la Ley General de Administración Pública, 3, 4 y 5 Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM 05-2022, Acuerdo Ejecutivo No.
-
-181-2022 y PCM 28-2022.
+Artículos 116, 118 de la Ley General de Administración Pública, 3, 4 y 5 Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM 05-2022, Acuerdo Ejecutivo No. 181-2022 y PCM 28-2022.
 
 ACUERDA:
 
@@ -181,7 +179,7 @@ CAPÍTULO I. DE LA ESTRUCTURA ORGANIZACIONAL
 
 #### Artículo 10
 
-ARTÍCULO 10.- La Dirección de Gestión por Resultados (DIGER), ente desconcentrado con competencia propia la cual ejercita con autonomía técnica, administrativa y financiera de acuerdo a los Decretos Ejecutivos PCM-05-2022 y PCM- 23-2022 dirigida por un funcionario con rango de Ministro Asesor, de libre nombramiento y remoción por la Presidenta de la República para el diseño, planificación, organización y seguimiento de la eficiente implementación del modelo de gestión pública por resultados dependiente de la Presidencia de la República.
+ARTÍCULO 10.- La Dirección de Gestión por Resultados (DIGER), ente desconcentrado con competencia propia la cual ejercita con autonomía técnica, administrativa y financiera de acuerdo a los Decretos Ejecutivos PCM-05-2022 y PCM-23-2022 dirigida por un funcionario con rango de Ministro Asesor, de libre nombramiento y remoción por la Presidenta de la República para el diseño, planificación, organización y seguimiento de la eficiente implementación del modelo de gestión pública por resultados dependiente de la Presidencia de la República.
 
 #### Artículo 11
 

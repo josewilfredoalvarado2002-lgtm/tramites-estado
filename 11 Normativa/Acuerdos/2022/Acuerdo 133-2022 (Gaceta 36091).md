@@ -11,7 +11,7 @@ paginas: "A. 6 - 30"
 sumario: "Acuerdos Ministeriales Nos. 133-2022, 136-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221201-36091/download"
 extraido: "2026-11-14"
-huella: "a11aad5497a791e7"
+huella: "c8352b217f82d48e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 133-2022
@@ -59,15 +59,15 @@ ACUERDA
 
 #### Artículo 1
 
-ARTÍCULO 1: Reformar por adición al Acuerdo No. 84- 2021 que contiene el Reglamento de la Ley de Protección al Consumidor y publicado en el Diario Oficial La Gaceta el 27 de diciembre de 2021, en el sentido de adicionar los Artículos 85-A, 85-B, 85-C, 85-D, 85-E, 90-A, los cuales deben leerse de la forma siguiente:
+ARTÍCULO 1: Reformar por adición al Acuerdo No. 84-2021 que contiene el Reglamento de la Ley de Protección al Consumidor y publicado en el Diario Oficial La Gaceta el 27 de diciembre de 2021, en el sentido de adicionar los Artículos 85-A, 85-B, 85-C, 85-D, 85-E, 90-A, los cuales deben leerse de la forma siguiente:
 
-“ A R T Í C U L O 8 5 - A . - P R O C E D I M I E N T O ADMINISTRATIVO ESPECIAL POR ESPECULACION:
+“ ARTÍCULO 8 5 - A . - PROCEDIMIENTO ADMINISTRATIVO ESPECIAL POR ESPECULACION:
 
 La Autoridad de Aplicación procederá a realizar la descarga de la declaración y se consignará en acta los hallazgos, detallando el medio por el que haya sido emitida la supuesta declaración especulativa”.
 
-“ A R T Í C U L O 8 5 - B . - P R O C E D I M I E N T O A D M I N I S T R A T I V O E S P E C I A L P O R ACAPARAMIENTO: La Autoridad de aplicación levantará el acta correspondiente y de encontrarse mérito suficiente, se procederá a imputar la presunta falta al supuesto infractor, con descripción de los hechos e indicación de las normas infringidas”.
+“ ARTÍCULO 8 5 - B . - PROCEDIMIENTO ADMINISTRATIVO ESPECIAL POR ACAPARAMIENTO: La Autoridad de aplicación levantará el acta correspondiente y de encontrarse mérito suficiente, se procederá a imputar la presunta falta al supuesto infractor, con descripción de los hechos e indicación de las normas infringidas”.
 
-“ A R T Í C U L O 8 5 - C . - P R O C E D I M I E N T O ADMINISTRATIVO ESPECIAL POR NO PERMITIR EL LIBRE ACCESO DEL PERSONAL DE LA AUTORIDAD DE APLICACIÓN: La Autoridad de aplicación levantará Acta correspondiente, para todo aquel establecimiento comercial que no permita el libre acceso a los inspectores de la Autoridad de Aplicación; y, que su vez no pongan a conocimiento de la autoridad correspondiente los documentos y demás elementos necesarios para las diligencias que se realicen. Ante la negativa, se procederá a imputar la presunta falta al supuesto infractor, con descripción de los hechos e indicación de las normas infringidas”.
+“ ARTÍCULO 8 5 - C . - PROCEDIMIENTO ADMINISTRATIVO ESPECIAL POR NO PERMITIR EL LIBRE ACCESO DEL PERSONAL DE LA AUTORIDAD DE APLICACIÓN: La Autoridad de aplicación levantará Acta correspondiente, para todo aquel establecimiento comercial que no permita el libre acceso a los inspectores de la Autoridad de Aplicación; y, que su vez no pongan a conocimiento de la autoridad correspondiente los documentos y demás elementos necesarios para las diligencias que se realicen. Ante la negativa, se procederá a imputar la presunta falta al supuesto infractor, con descripción de los hechos e indicación de las normas infringidas”.
 
 “ARTÍCULO 85-D.- TRAMITACIÓN ESPECIAL DE LA IMPUGNACIÓN POR ACAPARAMIENTO, ESPECULACIÓN E IMPEDIMENTO DE LIBRE ACCESO DEL PERSONAL DE LA AUTORIDAD DE APLICACIÓN. De la imputación formulada se dará traslado al presunto infractor por el plazo de veinticuatro (24) horas, dentro de los cuales podrá tomar vista de las actuaciones, presentar por escrito su descargo y proponer las pruebas en defensa de su derecho. La no presentación de descargo implicará la inexistencia de hechos controvertidos y la aceptación de los hechos que se le imputan. Las pruebas se admitirán solamente en caso de existir hechos controvertidos y siempre que no resulten manifiestamente improcedentes, innecesarias o dilatorias, las constancias del acta elaborada constituyen prueba suficiente de los hechos comprobados, salvo en los casos en que resulten desvirtuados mediante pruebas.
 

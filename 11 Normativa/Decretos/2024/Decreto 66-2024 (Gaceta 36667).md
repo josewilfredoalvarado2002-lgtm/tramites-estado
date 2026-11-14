@@ -8,7 +8,7 @@ gaceta_numero: 36667
 gaceta_fecha: "2024-10-18"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)|La Gaceta 36667]]"
 paginas: "A. 1 - 6"
-sumario: "Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
+sumario: "Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241018-36667/download"
 extraido: "2026-11-14"
 huella: "98dd73bef6a5c439"
@@ -23,7 +23,7 @@ huella: "98dd73bef6a5c439"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)\|La Gaceta 36667]] del 2024-10-18 |
 | Páginas | A. 1 - 6 |
-| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
+| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
 
 ## Texto
 

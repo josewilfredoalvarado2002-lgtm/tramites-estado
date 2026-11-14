@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Nos. 36-2021, 92-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211124-35780/download"
 extraido: "2026-11-14"
-huella: "463a0c3a23a4f6c2"
+huella: "5960a21206851824"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado, siendo necesario establecer los mecanismos normativos orientados a crear las condiciones de generación de empleo, inversión y reactivar la economía nacional, en un ámbito tan importante como el sector de la producción del camarón.
 
-CONSIDERANDO: Que en la aplicación práctica del Decreto No.335-2013, aprobado en fecha 17 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 11 de Abril de 2014, que contiene la “Ley de Fortalecimiento de la Camaricultura”, es prioritario implementar reformas que coadyuven a gestionar de forma eficiente, solicitudes, peticiones y cualquier otro procedimiento impulsado por los peticionarios de la industria del camarón ante las autoridades competentes.
+CONSIDERANDO: Que en la aplicación práctica del Decreto No. 335-2013, aprobado en fecha 17 de diciembre de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 11 de Abril de 2014, que contiene la “Ley de Fortalecimiento de la Camaricultura”, es prioritario implementar reformas que coadyuven a gestionar de forma eficiente, solicitudes, peticiones y cualquier otro procedimiento impulsado por los peticionarios de la industria del camarón ante las autoridades competentes.
 
 CONSIDERANDO: Que los pequeños productores de la industria del camarón, para mantener, invertir o reacomodar sus créditos en las instituciones del sistema financiero, debe reunir una serie de requisitos como acreditar los contratos de arrendamiento suscritos con el Estado de Honduras, los que constituyen una garantía de cumplimiento de los créditos otorgados para la operación, mejoras, ampliación de sus unidades productivas.
 
@@ -39,13 +39,13 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribuci
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 2, 5, 6 7, 17 y 20 de la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No.335-2013, de fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No.33,403, y sus reformas contenidas en el Decreto Legislativo No.105-2017 aprobado en fecha 27 de Septiembre de 2017 y publicado en el Diario Oficial “La Gaceta” el 26 de Diciembre de 2017, Edición No.34,526, los cuales deben leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 2, 5, 6 7, 17 y 20 de la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No. 335-2013, de fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No. 33,403, y sus reformas contenidas en el Decreto Legislativo No. 105-2017 aprobado en fecha 27 de Septiembre de 2017 y publicado en el Diario Oficial “La Gaceta” el 26 de Diciembre de 2017, Edición No. 34,526, los cuales deben leerse de la manera siguiente:
 
-“ A R T Í C U L O 2 . - D E L A ADMINISTRACIÓN DE LAS TIERRAS NACIONALES SALINAS APTAS PARA LA CAMARICULTURA.
+“ ARTÍCULO 2 . - DE LA ADMINISTRACIÓN DE LAS TIERRAS NACIONALES SALINAS APTAS PARA LA CAMARICULTURA.
 
 Corresponde a la Secretaría de Estado en los Despachos de Agricultura y Ganadería
 
@@ -69,7 +69,7 @@ Se aplicará el mismo procedimiento para el otorgamiento o renovación de contra
 
 ESPECIAL. Créase el Registro Especial Asociado de Contratos de Arrendamiento de Playones Nacionales para el Cultivo de Camarón el cual está a cargo del INSTITUTO DE LA PROPIEDAD (IP) en el que debe inscribirse el otorgamiento de los contratos de arrendamiento, modificación, cancelación, cesión o transmisión de derechos, gravámenes y las mejoras construidas en el área o predios otorgadas a título de arrendamiento por el Estado”.
 
-“ARTÍCULO 7.- OBLIGACIONES Y P R O H I B I C I O N E S D E L ARRENDATARIO: Son obligaciones del arrendatario:
+“ARTÍCULO 7.- OBLIGACIONES Y PROHIBICIONES DEL ARRENDATARIO: Son obligaciones del arrendatario:
 
 \1) Inscribir…;
 
@@ -101,9 +101,9 @@ Los beneficiarios de Concesiones o Contratos de Arrendamiento otorgados previo a
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar los artículos 17-A y 17-B, a la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No.335-2013, de fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No.33,403, los cuales se deben leer de la manera siguiente:
+ARTÍCULO 2.- Adicionar los artículos 17-A y 17-B, a la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No. 335-2013, de fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No. 33,403, los cuales se deben leer de la manera siguiente:
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 1 7 - A .
 
@@ -133,7 +133,7 @@ Se instruye a la Secretaría de Estado en los Despachos de Recursos Naturales y 
 
 #### Artículo 5
 
-ARTÍCULO 5.- TRANSITORIO.- Las solicitudes de Concesión o Contrato de Arrendamiento presentadas previo a la vigencia de este Decreto y que a la fecha de su presentación, cuentan con unidades productivas o proyectos en operación, serán resueltas de forma favorable otorgándose las mismas por el plazo establecido en el Artículo 3 de la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No.335-2013, aprobado en fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No.33,403; contado a partir de la fecha de presentación de la solicitud y por el tiempo restante, debiendo acompañar la constancia de ubicación para aquellos Proyectos que se encuentran fuera de área protegida y Constancia de Viabilidad para aquellos Proyectos que se encuentran dentro de áreas protegidas, emitidas por medio de las Oficinas Regionales del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), según lo establecido por medio de Acuerdo de Delegación emitido por el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), el plano topográfico georreferenciado del área solicitada, el plano topográfico del área de desarrollo del proyecto y la evaluación de Impacto Ambiental. De manera excepcional por esta única vez se dispensa a los solicitantes de la presentación de la constancia de viabilidad.
+ARTÍCULO 5.- TRANSITORIO.- Las solicitudes de Concesión o Contrato de Arrendamiento presentadas previo a la vigencia de este Decreto y que a la fecha de su presentación, cuentan con unidades productivas o proyectos en operación, serán resueltas de forma favorable otorgándose las mismas por el plazo establecido en el Artículo 3 de la LEY DE FORTALECIMIENTO DE LA CAMARICULTURA, contenida en el Decreto Legislativo No. 335-2013, aprobado en fecha 17 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 11 de Abril de 2014, Edición No. 33,403; contado a partir de la fecha de presentación de la solicitud y por el tiempo restante, debiendo acompañar la constancia de ubicación para aquellos Proyectos que se encuentran fuera de área protegida y Constancia de Viabilidad para aquellos Proyectos que se encuentran dentro de áreas protegidas, emitidas por medio de las Oficinas Regionales del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), según lo establecido por medio de Acuerdo de Delegación emitido por el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), el plano topográfico georreferenciado del área solicitada, el plano topográfico del área de desarrollo del proyecto y la evaluación de Impacto Ambiental. De manera excepcional por esta única vez se dispensa a los solicitantes de la presentación de la constancia de viabilidad.
 
 Asimismo, aquellos productores con unidades productivas que se encuentren total o parcialmente en áreas protegidas serán beneficiarios del presente Decreto debiéndose otorgar su título de arrendamiento, en cumplimiento de los requisitos a que se refiere el párrafo anterior y acompañando de la propuesta de medidas de mitigación y/o compensación ante el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) quienes harán uso de su nueva herramienta denominado “Capa de Viabilidad para Proyectos de Camaricultura del SAPZsurH”, y a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente (MiAmbiente+), para su respectiva aprobación y seguimiento.
 

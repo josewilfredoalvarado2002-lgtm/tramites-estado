@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "570c77a4805e75d7"
+huella: "bf5635bee747d8f7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 141-2026
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 2-A del Decreto No.77-2014, de fecha 23 de Septiembre de 2014, publicado en el Diario Oficial “La Gaceta” No.33,618; del 29 de Diciembre de 2014, en el cual se declara “PATRIMONIO CULTURAL DE LA NACIÓN, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 2-A del Decreto No. 77-2014, de fecha 23 de Septiembre de 2014, publicado en el Diario Oficial “La Gaceta” No. 33,618; del 29 de Diciembre de 2014, en el cual se declara “PATRIMONIO CULTURAL DE LA NACIÓN, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 2-A. Se Ordena a la Secretaría de Estado en el Despacho de Finanzas para que transfiera a la Secretaría de Estado en los Despachos de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras, destinada a la celebración de la SEMANA CÍVICA DEL MUNICIPIO DE OLANCHITO, DEPARTAMENTO DE YORO, fijándose dicha asignación en la suma de UN MILLÓN DE LEMPIRAS (L.1,000,000.00) Anualmente.”
 

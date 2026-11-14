@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-050-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200609-35278/download"
 extraido: "2026-11-14"
-huella: "d991307c757a9397"
+huella: "9e949df378824093"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-050-2020
@@ -59,9 +59,7 @@ POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11,19, 20 y 45,
 
 Artículos 7, 11, 17, 18, 22 numeral 5), 9) y 12), 28, 116, 117 y 119 de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266-2013;
 
-Decreto Legislativo No. 31-2020; Decreto Legislativo No.
-
-33-2020; Artículo 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005-2020 y sus reformas mediante Decreto Ejecutivo Número PCM-016-2020, Decreto Ejecutivo Número PCM-023-2020 y Decreto Ejecutivo Número PCM- 025-2020 reformado mediante Decreto Ejecutivo Número PCM-035-2020.
+Decreto Legislativo No. 31-2020; Decreto Legislativo No. 33-2020; Artículo 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005-2020 y sus reformas mediante Decreto Ejecutivo Número PCM-016-2020, Decreto Ejecutivo Número PCM-023-2020 y Decreto Ejecutivo Número PCM-025-2020 reformado mediante Decreto Ejecutivo Número PCM-035-2020.
 
 DECRETA:
 
@@ -83,7 +81,7 @@ Con la asignación presupuestaria el Instituto Hondureño de Transporte Terrestr
 
 Billetera electrónica móvil, banca digital o análogos y otros que faciliten transferencias de forma segura y confiable que garantice la efectividad de la ayuda.
 
-La asignación presupuestaria para la ejecución del Proyecto de Apoyo Solidario al Sector Transporte Terrestre Público de Personas, se disminuirá de la asignación presentada por el Proyecto de Asistencia a los Trabajadores Independientes o de Cuenta Propia, creado mediante Decreto Ejecutivo Número PCM- 035-2020.
+La asignación presupuestaria para la ejecución del Proyecto de Apoyo Solidario al Sector Transporte Terrestre Público de Personas, se disminuirá de la asignación presentada por el Proyecto de Asistencia a los Trabajadores Independientes o de Cuenta Propia, creado mediante Decreto Ejecutivo Número PCM-035-2020.
 
 #### Artículo 26
 

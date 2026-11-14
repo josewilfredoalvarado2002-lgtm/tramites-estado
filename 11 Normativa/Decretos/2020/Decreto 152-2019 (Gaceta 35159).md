@@ -11,7 +11,7 @@ paginas: "A. 5 - 20"
 sumario: "Decreto No. 152-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200127-35159/download"
 extraido: "2026-11-14"
-huella: "e1a5bc28492e89c8"
+huella: "9ddf1d5e81dbe5b4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 152-2019
@@ -29,11 +29,11 @@ huella: "e1a5bc28492e89c8"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010, en su
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010, en su
 
 Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6460-HN, suscrito el 23 de agosto de 2019, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del financiamiento de hasta un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00), destinados a financiar el “Proyecto para Fortalecer los Servicios de Agua Potable de Tegucigalpa”, se ampara en el Artículo 70 del Decreto No.17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6460-HN, suscrito el 23 de agosto de 2019, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del financiamiento de hasta un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00), destinados a financiar el “Proyecto para Fortalecer los Servicios de Agua Potable de Tegucigalpa”, se ampara en el Artículo 70 del Decreto No. 17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010.
 
 CONSIDERANDO: Que el proyecto tiene como objetivo general aumentar la eficiencia y confiabilidad de los servicios de agua en áreas seleccionadas de Tegucigalpa, contribuyendo a la operacionalización de un nuevo proveedor de servicios y mejoras en infraestructura y herramientas de gestión de recursos.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 19, 30 y 36 de la
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6460-HN, suscrito el 23 de agosto de 2019, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del financiamiento de hasta un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00), fondos destinados a financiar el “Proyecto para Fortalecer los Servicios de Agua Potable de Tegucigalpa”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6460-HN, suscrito el 23 de agosto de 2019, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del financiamiento de hasta un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00), fondos destinados a financiar el “Proyecto para Fortalecer los Servicios de Agua Potable de Tegucigalpa”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN LOS DESPACHOS
 

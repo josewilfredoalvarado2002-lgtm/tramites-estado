@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240106-36427/download"
 extraido: "2026-11-14"
-huella: "dda43498af267a7f"
+huella: "cb38d9721f32cc45"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -55,13 +55,13 @@ ACUERDA:
 
 PRIMERO: Reformar por adición el Acuerdo S.D.N.
 
-No.020-2018 “Reglamento de Becas para los Miembros de las Fuerzas Armadas en el país y el extranjero, Capítulo VI del Contrato, artículo 22”, adicionándole un artículo, el cual deberá leerse íntegramente así:
+No. 020-2018 “Reglamento de Becas para los Miembros de las Fuerzas Armadas en el país y el extranjero, Capítulo VI del Contrato, artículo 22”, adicionándole un artículo, el cual deberá leerse íntegramente así:
 
 “Artículo 22... Artículo 22-A: En virtud del presente Reglamento se establece la indemnización en concepto de Derechos de formación a favor de las Fuerzas Armadas de Honduras, definido como el importe económico que debe ser resarcido a la institución conjuntamente con el importe total de la beca otorgada, aplicable en caso de incumplimiento por parte del becario. Los derechos de formación se constituyen y cuantifican con base a la inversión de medios, sean estos de carácter económico patrimonial, actividades de gestión, acuerdos y convenios nacionales e internacionales, incluidos los diplomáticos, acuerdos de cooperación institucional, convenios de carácter formativo profesional y demás propiciados, erogados y coordinados por las Fuerzas Armadas a través de sus Fuerzas, Organismos y Dependencias, cuyo importe debe ser consignado junto con la estimación de costos definida en el contrato beca y ejecutables a través de instancia judicial en concepto de deuda civil”.
 
 SEGUNDO: Reformar por adición el Acuerdo S.D.N.
 
-No.020-2018 “Reglamento de Becas para los Miembros de las Fuerzas Armadas en el País y el Extranjero, Capítulo VII, artículo 26, de las Obligaciones comunes de los Becarios”, adicionándole el inciso f), el cual deberá leerse íntegramente así:
+No. 020-2018 “Reglamento de Becas para los Miembros de las Fuerzas Armadas en el País y el Extranjero, Capítulo VII, artículo 26, de las Obligaciones comunes de los Becarios”, adicionándole el inciso f), el cual deberá leerse íntegramente así:
 
 “Artículo 26... a)...b)...c)...d)...e)...f) En caso de no cumplir con la prestación del tiempo de servicio pactado, deberá lndemnizar a las Fuerzas Armadas en los conceptos siguientes: 1) Derechos de formación y 2) Devolución de las cantidades recibidas en concepto de beca”.
 

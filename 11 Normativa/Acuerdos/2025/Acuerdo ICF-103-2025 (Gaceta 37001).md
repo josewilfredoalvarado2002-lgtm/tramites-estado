@@ -11,7 +11,7 @@ paginas: "A. 6 - 10"
 sumario: "Acuerdo No. 098-2025, AcuerdoInstitucional No. ICF-103-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251124-37001/download"
 extraido: "2026-11-09"
-huella: "acace8a182d7f19f"
+huella: "df2bb4b9483fcf91"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-103-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de las “microcuencas denominadas: Suptillo Carrizal, El Cilacayote, Potrerillos, El Pito, El Tablon Las Pilas, El Ciruelo, Monte Verde Conal, El Yesal, Río Blanco Las Flores, Agua Amarilla, La Camotera, San Jose Sesesmiles, Sesesmiles San Antonio 2, Sesesmiles San Antonio, Quebrada Grande, Piedra de Amolar, El Naranjo, El Jocon, Chaguites, Los Llanitos, Potrerillos, Mar Azul, La Grita, Río Negro II, y Río Negro I, las cuales se localizan en la jurisdicción de los Municipios de La Iguala, Mercedes, San Marcos, San Sebastián, Gracias, San Pedro, Corquín, Las Flores, La Encarnacion, Lucerna, Ocotepeque, La Unión, Dolores Merendón, Mercedes, La Fraternidad, Sinuapa, Florida y Belén Gualcho, en los Departamento de Lempira, Ocotepeque y Copán.
 

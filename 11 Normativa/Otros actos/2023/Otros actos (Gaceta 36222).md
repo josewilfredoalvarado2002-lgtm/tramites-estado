@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230508-36222/download"
 extraido: "2026-11-14"
-huella: "fdcd0272b4cfd78d"
+huella: "11476409e2ed2136"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -49,7 +49,7 @@ ACUERDA:
 
 Aprobar lo siguiente:
 
-“ R E G L A M E N T O I N T E R N O P A R A L A ADMINISTRACION DE FONDOS PARA AYUDAS SOCIALES Y DONACIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL”.
+“ REGLAMENTO INTERNO PARA LA ADMINISTRACION DE FONDOS PARA AYUDAS SOCIALES Y DONACIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL”.
 
 CAPÍTULO I DE LA FINALIDAD Y OBEJTIVOS
 

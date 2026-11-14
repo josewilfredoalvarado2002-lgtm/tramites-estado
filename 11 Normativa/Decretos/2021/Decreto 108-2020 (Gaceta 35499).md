@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 143-2019, 108-2020, 1832020, 187-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210127-35499/download"
 extraido: "2026-11-14"
-huella: "f8d48e6f798a1320"
+huella: "e5b36b12b4797e22"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 108-2020
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar de manera total del pago de derechos arancelarios, tasas, sobretasas, cargas y demás gravámenes a la importación e Impuestos Sobre Ventas, correspondientes a la introducción al territorio nacional de un lote de cien (100) computadoras tipo laptop enviadas desde Estados Unidos de América por el señor MARK KEDDAL en su condición de fundador y representante de la organización sin fines de lucro denominada “PROYECTO OWEN” y enviado a favor del señor OSCAR OCHOA MENDOZA, con Identidad No.0709-1952-00033, representante de “PROYECTO OWEN” en Honduras; cuyo destino final es ser distribuidas en centros educativos del Municipio de Siguatepeque, departamento de Comayagua.
+ARTÍCULO 1.- Exonerar de manera total del pago de derechos arancelarios, tasas, sobretasas, cargas y demás gravámenes a la importación e Impuestos Sobre Ventas, correspondientes a la introducción al territorio nacional de un lote de cien (100) computadoras tipo laptop enviadas desde Estados Unidos de América por el señor MARK KEDDAL en su condición de fundador y representante de la organización sin fines de lucro denominada “PROYECTO OWEN” y enviado a favor del señor OSCAR OCHOA MENDOZA, con Identidad No. 0709-1952-00033, representante de “PROYECTO OWEN” en Honduras; cuyo destino final es ser distribuidas en centros educativos del Municipio de Siguatepeque, departamento de Comayagua.
 
 #### Artículo 2
 

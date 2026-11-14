@@ -11,7 +11,7 @@ paginas: "A. 12 - 14"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "be4e80c9cada91ab"
+huella: "93955c197c140a15"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 206-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con la Constitución de la República de Honduras y las leyes aplicables, corresponde al Estado garantizar la prestación eficiente, continua y segura de los servicios públicos esenciales, procurando que la infraestructura destinada a su prestación se encuentre en condiciones adecuadas de funcionamiento y seguridad para la población.
 
-CONSIDERANDO: Que la Ley General de la Industria Eléctrica, contenida en el Decreto No.404-2013 de fecha 20 de mayo del 2014 y sus reformas, creó el Fondo Social de Desarrollo Eléctrico (FOSODE), administrado por la Empresa Nacional de Energía Eléctrica (ENEE), destinado al financiamiento de estudios y obras de electrificación que sean de interés social.
+CONSIDERANDO: Que la Ley General de la Industria Eléctrica, contenida en el Decreto No. 404-2013 de fecha 20 de mayo del 2014 y sus reformas, creó el Fondo Social de Desarrollo Eléctrico (FOSODE), administrado por la Empresa Nacional de Energía Eléctrica (ENEE), destinado al financiamiento de estudios y obras de electrificación que sean de interés social.
 
 CONSIDERANDO: Que en el sector denominado Valle Abajo, Municipio de Olanchito, Departamento de Yoro, específicamente en el tramo comprendido entre Puerto y Lomitas del Este, existe infraestructura eléctrica cuyos postes presentan condiciones de deterioro que hacen necesaria su sustitución, con el propósito de contribuir a la seguridad de las instalaciones, la continuidad del servicio y la protección de los usuarios.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

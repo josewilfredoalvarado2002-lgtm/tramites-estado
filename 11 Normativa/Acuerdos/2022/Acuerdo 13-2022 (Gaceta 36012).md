@@ -11,7 +11,7 @@ paginas: "A. 24 - 36"
 sumario: "Acuerdos Nos. 12/2022, 13/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220826-36012/download"
 extraido: "2026-11-14"
-huella: "706118b58d11a235"
+huella: "42a5e877753b1014"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.13/2022.- Sesión No.3984 del 18 de agosto
@@ -33,7 +33,7 @@ CONSIDERANDO:
 
 Que conforme con la Constitución de la República y la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país, la cual será determinada por su Directorio, quien tiene entre sus atribuciones propiciar, en el ámbito de su competencia, el sano desarrollo del sistema financiero.
 
-CONSIDERANDO: Que el Decreto Legislativo No.83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021, tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente; por lo que, con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
+CONSIDERANDO: Que el Decreto Legislativo No. 83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021, tiene por objeto regular la organización, operación y funcionamiento de las personas jurídicas nacionales y extranjeras que presten servicios de pago y transferencias a los residentes en Honduras, así como, regular estos servicios, disponiendo además que, las referidas personas jurídicas deben obtener la autorización del BCH o inscribirse en el Registro que para tal efecto llevará dicha Institución, quedando bajo la vigilancia del BCH y sujetas a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) o del Ente supervisor correspondiente; por lo que, con la entrada en vigencia del referido Decreto, el BCH debe emitir la normativa y reglamentos pertinentes para regular las actividades de servicios de pago y transferencias y demás aspectos relacionados con el mismo.
 
 CONSIDERANDO: Que las tecnologías financieras permiten la inclusión de nuevos actores en las operaciones de pago de bienes y servicios mediante el uso de dispositivos electrónicos o sistemas informáticos, por lo que se debe emitir la reglamentación de los productos tecnológicos ofrecidos y de los requisitos que deben cumplir las entidades que ofrezcan este tipo de servicios.
 
@@ -51,9 +51,9 @@ CONSIDERANDO: Que la Gerencia, mediante memorándum SP-2234/2022 del 17 de agost
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 6 y 16, incisos a) y f) de la Ley del Banco Central de Honduras; en el Decreto Legislativo No.83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021; 4, 5 y 19 de la Ley de Procedimiento Administrativo; 7 de la Ley General de la Administración Pública y 1, 2 numeral 2) y 6 de la Ley de Simplificación Administrativa,
+Con fundamento en los artículos 342 de la Constitución de la República; 6 y 16, incisos a) y f) de la Ley del Banco Central de Honduras; en el Decreto Legislativo No. 83-2021 del 7 de septiembre de 2021, publicado en el Diario Oficial La Gaceta el 28 de octubre de 2021; 4, 5 y 19 de la Ley de Procedimiento Administrativo; 7 de la Ley General de la Administración Pública y 1, 2 numeral 2) y 6 de la Ley de Simplificación Administrativa,
 
-A C U E R D A:
+ACUERDA:
 
 I. Aprobar el REGLAMENTO PARA LOS SERVICIOS OFRECIDOS POR LAS ENTIDADES PROVEEDORAS DE SERVICIOS DE PAGOS ELECTRÓNICOS, que literalmente dice:
 

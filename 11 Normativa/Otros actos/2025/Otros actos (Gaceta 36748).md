@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250124-36748/download"
 extraido: "2026-11-13"
-huella: "4bfb7fecade6f4cd"
+huella: "68bd9f8efa87ce08"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -53,7 +53,7 @@ CONSIDERANDO: Que es imperativo reestructurar las dependencias internas de la Se
 
 POR TANTO, En el ejercicio de las facultades legales de que está investida y en aplicación de lo que establecen los siguientes artículos:
 
-245 numerales 2), 11), 19) y 30), 248, 252 y 321 de la Constitución de la República; 11, 14 numeral 1) , 22 numeral 3), 29 párrafo penúltimo, 33, 116, 117 y 119 de la Ley General de la Administración Pública; Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo (Decreto Ejecutivo número PCM 008-97 publicado en el Diario Oficial “La Gaceta” el 07 de junio de 1997 y las reformas de su artículo 60 mediante Decretos Ejecutivos número PCM 35- 2015 publicado en el Diario Oficial “La Gaceta” en su edición número 33,766 del 16 de junio de 2015 y PCM 017-2011 publicado en el Diario Oficial “La Gaceta” en su edición 32,489 del 09 de abril de 2011); y demás aplicables.
+245 numerales 2), 11), 19) y 30), 248, 252 y 321 de la Constitución de la República; 11, 14 numeral 1), 22 numeral 3), 29 párrafo penúltimo, 33, 116, 117 y 119 de la Ley General de la Administración Pública; Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo (Decreto Ejecutivo número PCM 008-97 publicado en el Diario Oficial “La Gaceta” el 07 de junio de 1997 y las reformas de su artículo 60 mediante Decretos Ejecutivos número PCM 35-2015 publicado en el Diario Oficial “La Gaceta” en su edición número 33,766 del 16 de junio de 2015 y PCM 017-2011 publicado en el Diario Oficial “La Gaceta” en su edición 32,489 del 09 de abril de 2011); y demás aplicables.
 
 DECRETA:
 

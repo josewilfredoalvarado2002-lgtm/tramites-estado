@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220801-35990/download"
 extraido: "2026-11-14"
-huella: "44c02359add46331"
+huella: "41a683c83c20336a"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -47,7 +47,7 @@ SEXTO: Se constituye la organización cuya denominación será Junta Administrad
 
 SÉPTIMO: Que de acuerdo a lo establecido en el artículo 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS PALMAS, MUNICIPIO DE PUERTO CORTÉS, DEPARTAMENTO DE CORTÉS, la Asamblea de Usuarios es la máxima autoridad de la comundiad a nivel local y expresa la voluntad colectiva de los abonados debidamente convocados.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de ener del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de ener del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 

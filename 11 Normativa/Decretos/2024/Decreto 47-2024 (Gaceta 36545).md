@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decretos Nos. 47-2024, 48-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240528-36545/download"
 extraido: "2026-11-14"
-huella: "5016d46532e6cf5d"
+huella: "143d101c9944dea2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 47-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, de conformidad con la Ley en la materia, el Régimen de Aport
 
 CONSIDERANDO: Que es importante reconocer los derechos laborales de los(as) trabajadores(as) son progresivos y nunca regresivos, especialmente la administración del Fondo de Reserva Laboral como una compensación justa, para el riesgo de desocupación laboral, en concordancia con el Código del Trabajo, garantizando con esto, que los trabajadores tendrán acceso a la seguridad de sus ingresos, en tanto logran obtener un trabajo o desarrollar un emprendimiento.
 
-CONSIDERANDO: Que la Sala de lo Constitucional de la Corte Suprema de Justicia, declaró mediante Sentencia de inconstitucionalidad recaída en el Recurso No. SCO-858- 2015, la derogatoria total del Decreto No.56-2015 del 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Julio de 2015, contentivo de la Ley Marco del Sistema de Protección Social; Sentencia que fue mandada a publicar por este Poder del Estado y que consta en el Diario Oficial “La Gaceta” de fecha 27 de Octubre de 2022, lo que conllevó a la supresión del Régimen del Seguro de Cobertura Laboral del cual se derivaba el Fondo de Reserva Laboral, dando como resultado que a la fecha las aportaciones patronales no se encuentren reguladas en un marco legal para tal finalidad. Esta situación afecta los beneficios de una cobertura laboral en caso de desempleo por terminación de su relación contractual.
+CONSIDERANDO: Que la Sala de lo Constitucional de la Corte Suprema de Justicia, declaró mediante Sentencia de inconstitucionalidad recaída en el Recurso No. SCO-858-2015, la derogatoria total del Decreto No. 56-2015 del 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Julio de 2015, contentivo de la Ley Marco del Sistema de Protección Social; Sentencia que fue mandada a publicar por este Poder del Estado y que consta en el Diario Oficial “La Gaceta” de fecha 27 de Octubre de 2022, lo que conllevó a la supresión del Régimen del Seguro de Cobertura Laboral del cual se derivaba el Fondo de Reserva Laboral, dando como resultado que a la fecha las aportaciones patronales no se encuentren reguladas en un marco legal para tal finalidad. Esta situación afecta los beneficios de una cobertura laboral en caso de desempleo por terminación de su relación contractual.
 
 CONSIDERANDO: Que, el Artículo 33 de la Ley del Régimen de Aportaciones Privadas (RAP) establece que esta Institución está sujeta a la supervisión de la Comisión Nacional de Bancos y Seguros (CNBS) que, para la realización de esta labor, debe emitir la reglamentación y/o normativa especial correspondiente, teniendo en consideración la naturaleza social y sin fines de lucro de la Institución, velando por su solvencia y solidez financiera y el buen gobierno corporativo de la Institución.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -85,7 +85,7 @@ Las aportaciones realizadas por el patrono deben acreditarse a nombre expreso de
 
 #### Artículo 5
 
-ARTÍCULO 5.- P R O H I B I C I Ó N
+ARTÍCULO 5.- PROHIBICIÓN
 
 D E
 
@@ -159,7 +159,7 @@ ARTÍCULO 13.- REGLAMENTACIÓN. El Régimen de Aportaciones Privadas (RAP) elabo
 
 #### Artículo 14
 
-ARTÍCULO 14.- P A R A E L C Á L C U L O D E L IMPUESTO SOBRE LA RENTA.
+ARTÍCULO 14.- PARA EL CÁLCULO DEL IMPUESTO SOBRE LA RENTA.
 
 Los aportes efectuados a las cuentas individuales del Fondo de Reserva Laboral de Capitalización Individual, realizadas por el patrono, no formarán parte de la renta neta gravable para el Impuesto Sobre la Renta.
 
@@ -175,7 +175,7 @@ POR PARTE DEL RAP. En virtud de su mandato para la administración sin fines de 
 
 ARTÍCULO 16.- REFORMAS A LA LEY DEL RAP.
 
-Reformar los artículos 42, 43 y 61 del Decreto Legislativo No.107-2013, aprobado en fecha 10 de Junio del 2013, publicado en el Diario Oficial “La Gaceta” en fecha 6 de Septiembre del 2013, contentivo de la LEY DEL RÉGIMEN DE APORTACIONES PRIVADAS (RAP), el cual debe leerse de la siguiente manera:
+Reformar los artículos 42, 43 y 61 del Decreto Legislativo No. 107-2013, aprobado en fecha 10 de Junio del 2013, publicado en el Diario Oficial “La Gaceta” en fecha 6 de Septiembre del 2013, contentivo de la LEY DEL RÉGIMEN DE APORTACIONES PRIVADAS (RAP), el cual debe leerse de la siguiente manera:
 
 “ARTÍCULO 42.- OBLIGACIÓN DE
 
@@ -195,7 +195,7 @@ El Consejo Directivo con el voto favorable del sector productivo puede modificar
 
 Las certificaciones extendidas por el Departamento contable del Régimen de Aportaciones Privadas (RAP) sobre el adeudo a cargo de la empresa infractora, tiene el carácter de título ejecutivo.
 
-El patrono está obligado a retener del salario los créditos otorgados a los afiliados del Régimen de Aportaciones Privadas (RAP) y enterarlos en la misma fecha en que entregue la retención mensual de la empresa.” “ A R T Í C U L O 6 1 . - D E L A DEROGATORIA: Queda derogada toda disposición que se oponga a lo dispuesto en la presente Ley”.
+El patrono está obligado a retener del salario los créditos otorgados a los afiliados del Régimen de Aportaciones Privadas (RAP) y enterarlos en la misma fecha en que entregue la retención mensual de la empresa.” “ ARTÍCULO 6 1 . - DE LA DEROGATORIA: Queda derogada toda disposición que se oponga a lo dispuesto en la presente Ley”.
 
 #### Artículo 17
 

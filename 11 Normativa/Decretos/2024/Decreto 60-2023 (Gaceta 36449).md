@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 60-2023, 61-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240201-36449/download"
 extraido: "2026-11-14"
-huella: "13669334ad24e6f5"
+huella: "bdebd094969f0eed"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 60-2023
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ ARTÍCULO 1.- AMNISTÍA VEHICULAR.- Se concede el beneficio de AMNISTÍA por sei
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el párrafo segundo del Artículo 2 del Decreto No.50-2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Julio del 2016, Edición No.34,076, el cual se leerá de la manera siguiente:
+ARTÍCULO 2.- Reformar el párrafo segundo del Artículo 2 del Decreto No. 50-2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Julio del 2016, Edición No. 34,076, el cual se leerá de la manera siguiente:
 
 “ARTICULO 2. – Se exonera...
 

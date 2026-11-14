@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Decretos Nos. 54-2024, 56-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240723-36593/download"
 extraido: "2026-11-14"
-huella: "bb51c543b1472a57"
+huella: "e9aaf81344388a7f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2024
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Decreto Legislativo No.64-2012, contentivo d e l a L E Y D E L S I S T E M A PENITENCIARIO NACIONAL, del 14 de Mayo de 2012 y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Diciembre de 2012, en la Edición número 32,990; adicionando el Artículo 75-A, el cual a partir de la fecha se leerá de la forma siguiente:
+ARTÍCULO 1.- Reformar por adición el Decreto Legislativo No. 64-2012, contentivo d e l a L E Y D E L S I S T E M A PENITENCIARIO NACIONAL, del 14 de Mayo de 2012 y publicado en el Diario Oficial “La Gaceta” en fecha 3 de Diciembre de 2012, en la Edición número 32,990; adicionando el Artículo 75-A, el cual a partir de la fecha se leerá de la forma siguiente:
 
 “ARTÍCULO 75-A.- Para el cumplimiento de lo establecido en el
 

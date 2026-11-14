@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 011-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250328-36802/download"
 extraido: "2026-11-12"
-huella: "6c81fc23f8e56d06"
+huella: "cb5452c67dc8fea4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 011-2025
@@ -29,7 +29,7 @@ huella: "6c81fc23f8e56d06"
 
 Tegucigalpa, M. D. C., 27 de febrero del 2025 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE MIGRACIÓN EN USO DE SUS FACULTADES DE QUE ESTÁ INVESTIDO Y EN APLICACIÓN A LOS DECRETOS EJECUTIVOS PCM 031-2014 Y PCM 063-2014
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-031-2014 de fecha 30 de junio de 2014 reformado en su artículo 1, mediante Decreto Ejecutivo PCM- 063-2014, se crea el INSTITUTO NACIONAL DE MIGRACIÓN, como un ente desconcentrado, de la Secretaría de Gobernación, Justicia y Descentralización, con personalidad jurídica propia, independencia administrativa, laboral, funcional y financiera.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-031-2014 de fecha 30 de junio de 2014 reformado en su artículo 1, mediante Decreto Ejecutivo PCM-063-2014, se crea el INSTITUTO NACIONAL DE MIGRACIÓN, como un ente desconcentrado, de la Secretaría de Gobernación, Justicia y Descentralización, con personalidad jurídica propia, independencia administrativa, laboral, funcional y financiera.
 
 CONSIDERANDO: Que conforme al artículo 03 del Decreto Ejecutivo PCM 031-2014 de fecha 30 de junio de 2014 el Instituto Nacional de Migración será dirigido por un Director Ejecutivo.
 

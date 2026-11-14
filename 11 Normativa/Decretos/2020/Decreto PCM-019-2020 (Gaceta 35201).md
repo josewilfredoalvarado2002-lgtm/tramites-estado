@@ -8,10 +8,10 @@ gaceta_numero: 35201
 gaceta_fecha: "2020-03-16"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35201 (2020-03-16)|La Gaceta 35201]]"
 paginas: "A. 1 - 5"
-sumario: "Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020PRESIDENCIA DE LA REPÚBLICADecreto Ejecutivo No. 005-2020"
+sumario: "Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020; PRESIDENCIA DE LA REPÚBLICA: Decreto Ejecutivo No. 005-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200316-35201/download"
 extraido: "2026-11-14"
-huella: "ab802204cbaee8fa"
+huella: "58210627de5887f9"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-019-2020
@@ -23,7 +23,7 @@ huella: "ab802204cbaee8fa"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35201 (2020-03-16)\|La Gaceta 35201]] del 2020-03-16 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020PRESIDENCIA DE LA REPÚBLICADecreto Ejecutivo No. 005-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020; PRESIDENCIA DE LA REPÚBLICA: Decreto Ejecutivo No. 005-2020 |
 
 ## Texto
 
@@ -45,9 +45,9 @@ CONSIDERANDO: Que es obligación constitucional del Estado, tutelar los derechos
 
 POR TANTO, En aplicación de los artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29 y 45, 248 y 252 de la Constitución de la República;
 
-11, 17, 18, 22 numerales 10 y 13, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; 2, 6, 7, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005- 2020 y su reforma mediante Decreto Ejecutivo Número PCM-016-2020.
+11, 17, 18, 22 numerales 10 y 13, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; 2, 6, 7, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005-2020 y su reforma mediante Decreto Ejecutivo Número PCM-016-2020.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

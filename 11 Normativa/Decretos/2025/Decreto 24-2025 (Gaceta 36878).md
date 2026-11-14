@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Decretos Nos. 23-2025, 24-2025,108-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250701-36878/download"
 extraido: "2026-11-10"
-huella: "8d8689d56c29a050"
+huella: "64e78888fd2f0182"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 24-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -55,7 +55,7 @@ ARTÍCULO 1.- Exonerar a la MUNICIPALIDAD DE SAN ANDRÉS, DEPARTAMENTO DE LEMPIR
 
 DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES EDIS ANTONIO MONCADA Gerente General ELSA XIOMARA GARCIA FLORES Coordinadora y Supervisora EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
 
-Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL Factura Proforma No.1000086956-Corporación Flores ELEMENTOS DESCRIPCIÓN Vehículo Tipo Ambulancia L/C 70 4X4 mecánica Marca Toyota Año 2025 Modelo HZJ78L-RJMRS Cilindrada 4164 Color Blanco Capacidad 6 pasajeros Combustible Diesel #Arancelario 8703.33.61.00.00 TOTAL US$ 75,000.00 TOTAL L1,923,592.50
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL Factura Proforma No. 1000086956-Corporación Flores ELEMENTOS DESCRIPCIÓN Vehículo Tipo Ambulancia L/C 70 4X4 mecánica Marca Toyota Año 2025 Modelo HZJ78L-RJMRS Cilindrada 4164 Color Blanco Capacidad 6 pasajeros Combustible Diesel #Arancelario 8703.33.61.00.00 TOTAL US$ 75,000.00 TOTAL L1,923,592.50
 
 #### Artículo 2
 

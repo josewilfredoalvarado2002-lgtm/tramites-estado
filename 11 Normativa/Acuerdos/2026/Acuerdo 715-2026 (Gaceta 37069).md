@@ -11,7 +11,7 @@ paginas: "A. 21 - 24"
 sumario: "Acuerdo No. 715-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260213-37069/download"
 extraido: "2026-11-09"
-huella: "c239e2d0a1bb011b"
+huella: "0a510d1c06142247"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 715-2026
@@ -65,7 +65,7 @@ POR TANTO: En aplicación de los Artículos 59, 145, 237, 245, 321 y 364 de la C
 
 Acuerdo No. 5266-2028 de fecha 23 noviembre del 2018;
 
-Acuerdo No. 2944- 2019 de fecha 09 septiembre del 2019 y demás aplicables.
+Acuerdo No. 2944-2019 de fecha 09 septiembre del 2019 y demás aplicables.
 
 ACUERDA:
 

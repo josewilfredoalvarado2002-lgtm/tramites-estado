@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. CSJ-10-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231110-36380/download"
 extraido: "2026-11-14"
-huella: "0300f41d7fd6972a"
+huella: "3eaf31296e609259"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-10-2023
@@ -29,13 +29,9 @@ huella: "0300f41d7fd6972a"
 
 Corte Suprema de Justicia Reforma del Reglamento del Registro de Antecedentes Penales Tegucigalpa, municipio del Distrito Central;
 
-30 de junio de 2023 El Pleno de la Corte Suprema de Justicia Parte Considerativa Considerando (1). Por medio de Acuerdo No. PCSJ-17-2023, de fecha 15 de junio de 2023, la Presidencia de la Corte Suprema de Justicia declaró fracasado el Proceso de Licitación Privada Nacional No.
+30 de junio de 2023 El Pleno de la Corte Suprema de Justicia Parte Considerativa Considerando (1). Por medio de Acuerdo No. PCSJ-17-2023, de fecha 15 de junio de 2023, la Presidencia de la Corte Suprema de Justicia declaró fracasado el Proceso de Licitación Privada Nacional No. 3-2023, para la adquisición de formas de papel seguridad para la emisión de constancias de antecedentes penales a nivel nacional, por error insubsanable en la única oferta presentada.
 
-3-2023, para la adquisición de formas de papel seguridad para la emisión de constancias de antecedentes penales a nivel nacional, por error insubsanable en la única oferta presentada.
-
-Considerando (2). Mediante Oficio No.
-
-069-CEDIJ.2023, de 12 de junio de 2023, la Dirección Ejecutiva del Centro Electrónico de Documentación e Información Judicial (CEDIJ) y la Coordinación Nacional de Antecedentes Penales, han informado a la Presidencia de la Corte Suprema de Justicia que a la Unidad de Antecedentes Penales se le ha agotado el inventario de ciertas denominaciones de papel seguridad, y que han tratado de potenciar el uso del sistema de gestión de constancias de antecedentes penales en línea, pero hay entidades públicas y privadas que exigen la presentación del documento en papel seguridad, por lo que han solicitado que se autorice la adopción de medidas que garanticen la continuidad en la emisión de constancias de antecedentes penales en ventanilla y defina la manera más conveniente de brindar a la población este servicio.
+Considerando (2). Mediante Oficio No. 069-CEDIJ.2023, de 12 de junio de 2023, la Dirección Ejecutiva del Centro Electrónico de Documentación e Información Judicial (CEDIJ) y la Coordinación Nacional de Antecedentes Penales, han informado a la Presidencia de la Corte Suprema de Justicia que a la Unidad de Antecedentes Penales se le ha agotado el inventario de ciertas denominaciones de papel seguridad, y que han tratado de potenciar el uso del sistema de gestión de constancias de antecedentes penales en línea, pero hay entidades públicas y privadas que exigen la presentación del documento en papel seguridad, por lo que han solicitado que se autorice la adopción de medidas que garanticen la continuidad en la emisión de constancias de antecedentes penales en ventanilla y defina la manera más conveniente de brindar a la población este servicio.
 
 Considerando (3). Para solventar el problema de insuficiencia de papel seguridad para la tramitación presencial de constancias de antecedentes penales en todo el país, y evitar las consecuencias negativas que dicho desabastecimiento traería a los usuarios, la Presidencia del Poder Judicial ha sometido a consideración de este Pleno de Magistradas y Magistrados de la Corte Suprema de Justicia, dos (2) opciones de solución:
 
@@ -113,7 +109,7 @@ PARTE DISPOSITIVA
 
 La Corte Suprema de Justicia, en uso de sus facultades constitucionales, legales y reglamentarias, por unanimidad de votos,
 
-A C U E R D A
+ACUERDA
 
 Primero. Reformar los artículos 16, 24 y 29 del Reglamento del Registro de Antecedentes Penales, los cuales, en adelante, deberán leerse de la siguiente forma:
 

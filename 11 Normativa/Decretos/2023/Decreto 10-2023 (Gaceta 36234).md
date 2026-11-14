@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 10-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230522-36234/download"
 extraido: "2026-11-14"
-huella: "6a66f704753b0250"
+huella: "94cad27ae9f49704"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 10-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

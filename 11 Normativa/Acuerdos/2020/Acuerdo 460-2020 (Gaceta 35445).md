@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdos No.460-2020, 461-2020, Acuerdo Ministerial No. 485-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201130-35445/download"
 extraido: "2026-11-14"
-huella: "c017064f22c968e1"
+huella: "87594d72df1023c4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 460-2020
@@ -37,13 +37,13 @@ CONSIDERANDO: Que de conformidad al Numeral 15) del
 
 Artículo 29 de la Ley de Administración Pública y sus Reformas, a la Secretaría de Estado en el Despacho de Finanzas, le compete todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas, por lo que se debe asegurar de la correcta aplicación de las normas jurídicas relacionadas con el funcionamiento del Sistema Tributario de Honduras.
 
-CONSIDERANDO: Que el Artículo 1 del Decreto No.151- 2018, autoriza a la Secretaría de Estado en el Despacho de Finanzas para que, con cargo al monto autorizado del endeudamiento público interno en el Presupuesto General de Ingresos y Egresos de la República, para cada Ejercicio Fiscal, pueda realizar emisión de títulos en moneda nacional dirigida exclusivamente a inversionistas extranjeros en línea con el Plan Anual de Financiamiento y en el marco de la Ley de Responsabilidad Fiscal.
+CONSIDERANDO: Que el Artículo 1 del Decreto No. 151-2018, autoriza a la Secretaría de Estado en el Despacho de Finanzas para que, con cargo al monto autorizado del endeudamiento público interno en el Presupuesto General de Ingresos y Egresos de la República, para cada Ejercicio Fiscal, pueda realizar emisión de títulos en moneda nacional dirigida exclusivamente a inversionistas extranjeros en línea con el Plan Anual de Financiamiento y en el marco de la Ley de Responsabilidad Fiscal.
 
-CONSIDERANDO: Que el Artículo 4 del Decreto No.151- 2018, establece que el principal e intereses de los bonos que se emitan en el mercado doméstico adquiridos por inversionistas extranjeros mediante Global Depositary Notes (GDN’s) a través de un banco local o casa de bolsa, así como los contratos derivados realizados con personas naturales o jurídicas con residencia en el exterior, no estarán sujetos al pago de toda clase de tributos ya sean del Gobierno Central o de las Municipalidad durante el plazo o término que duren los contratos y en el caso de los bonos, mientras sean tenedores de los mismos.
+CONSIDERANDO: Que el Artículo 4 del Decreto No. 151-2018, establece que el principal e intereses de los bonos que se emitan en el mercado doméstico adquiridos por inversionistas extranjeros mediante Global Depositary Notes (GDN’s) a través de un banco local o casa de bolsa, así como los contratos derivados realizados con personas naturales o jurídicas con residencia en el exterior, no estarán sujetos al pago de toda clase de tributos ya sean del Gobierno Central o de las Municipalidad durante el plazo o término que duren los contratos y en el caso de los bonos, mientras sean tenedores de los mismos.
 
 CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
 
-CONSIDERANDO: Que mediante Decreto No.54-2019 del 10 de julio de 2019, publicado en el Diario Oficial La Gaceta el 11 de septiembre de 2019 se reformó la Ley del Mercado de Valores contenida en el Decreto No.8-2001 agregando la figura de operadores remotos mediante el Artículo 253-A.
+CONSIDERANDO: Que mediante Decreto No. 54-2019 del 10 de julio de 2019, publicado en el Diario Oficial La Gaceta el 11 de septiembre de 2019 se reformó la Ley del Mercado de Valores contenida en el Decreto No. 8-2001 agregando la figura de operadores remotos mediante el Artículo 253-A.
 
 CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administración Pública, establece que son Atribuciones de las Secretarías de Estado, emitir los Acuerdos y Resoluciones sobre los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución.
 
@@ -51,7 +51,7 @@ POR TANTO
 
 La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; 29 Numeral 15), 36 Numeral 8), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; 104 numerales 1 y 3 del Código Tributario;
 
-24, 25, 26, 33 de la Ley de Procedimiento Administrativo y sus reformas; Decreto No.151-2018; 253-A de la Ley de Mercado de Valores; 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, reformado con el Decreto PCM-35-2015.
+24, 25, 26, 33 de la Ley de Procedimiento Administrativo y sus reformas; Decreto No. 151-2018; 253-A de la Ley de Mercado de Valores; 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, reformado con el Decreto PCM-35-2015.
 
 ACUERDA:
 
@@ -63,11 +63,11 @@ DECRETO No. 151-2018
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO.- El presente Instructivo tiene por objeto desarrollar las disposiciones contenidas en el Decreto No.151-2018, publicado en el Diario Oficial La Gaceta el 15 de enero del 2019 mediante el cual se autoriza al Poder Ejecutivo, a través de la Secretaría de Estado en el Despacho de Finanzas para que en línea con el Plan Anual de Financiamiento y la Ley de Responsabilidad Fiscal se pueda realizar la emisión y colocación de títulos domésticos en moneda nacional dirigida exclusivamente a inversionistas extranjeros.
+ARTÍCULO 1.- OBJETO.- El presente Instructivo tiene por objeto desarrollar las disposiciones contenidas en el Decreto No. 151-2018, publicado en el Diario Oficial La Gaceta el 15 de enero del 2019 mediante el cual se autoriza al Poder Ejecutivo, a través de la Secretaría de Estado en el Despacho de Finanzas para que en línea con el Plan Anual de Financiamiento y la Ley de Responsabilidad Fiscal se pueda realizar la emisión y colocación de títulos domésticos en moneda nacional dirigida exclusivamente a inversionistas extranjeros.
 
 #### Artículo 2
 
-ARTÍCULO 2.- ÁMBITO DE APLICACIÓN.- Las normas contenidas en el presente instructivo son de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Decreto No.151-2018.
+ARTÍCULO 2.- ÁMBITO DE APLICACIÓN.- Las normas contenidas en el presente instructivo son de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Decreto No. 151-2018.
 
 #### Artículo 3
 
@@ -79,11 +79,11 @@ ARTÍCULO 3.- DEFINICIONES.- Para efectos de la aplicación de este instructivo,
 
 3. Bonos: También denominados “Títulos” son valores gubernamentales e instrumentos financieros de deuda, emitidos en moneda nacional o en moneda extranjera por la Secretaría de Estado en el Despacho de Finanzas.
 
-Para efectos del Decreto No.151-2018 y el presente Acuerdo, el término “Bonos” o “Títulos” se referirá a los títulos emitidos en el Mercado Doméstico para efectos de ser los títulos subyacentes sobre los que se realizará la emisión de GDNs.
+Para efectos del Decreto No. 151-2018 y el presente Acuerdo, el término “Bonos” o “Títulos” se referirá a los títulos emitidos en el Mercado Doméstico para efectos de ser los títulos subyacentes sobre los que se realizará la emisión de GDNs.
 
 4. Casa de Bolsa: Sociedad Anónima organizada y registrada conforme a la Ley de Mercado de Valores de Honduras para realizar de manera habitual intermediación de valores y actividades directamente relacionadas con éstas.
 
-5. Decreto: Para efectos del presente Acuerdo, es el Decreto No.151-2018, publicado en el Diario Oficial La Gaceta el 15 de enero del 2019 y sus respectivas reformas.
+5. Decreto: Para efectos del presente Acuerdo, es el Decreto No. 151-2018, publicado en el Diario Oficial La Gaceta el 15 de enero del 2019 y sus respectivas reformas.
 
 6. “Global Depositary Notes (“GDNs”) o Notas de Depósito Global (NDG): Instrumentos emitidos internacionalmente por una entidad financiera del exterior (Banco Depositario) como recibos depositarios representativos de Bonos emitidos en el Mercado Doméstico denominados en moneda local o extranjera.
 
@@ -139,7 +139,7 @@ Para este efecto, la Gerencia Administrativa procederá a la formalización del 
 
 Posteriormente, se procederá a la suscripción del contrato, el cual deberá ser enviado, para su debida aprobación, al Congreso Nacional de la República conforme a lo establecido en el Artículo 205 numeral 19 de la Constitución de la República.
 
-Con la aprobación supra indicada el contrato suscrito pasa a formar parte integral del Decreto No.151-2018.
+Con la aprobación supra indicada el contrato suscrito pasa a formar parte integral del Decreto No. 151-2018.
 
 #### Artículo 8
 
@@ -197,7 +197,7 @@ El número de identificación tributaria debe estar debidamente apostillado a ef
 
 ARTÍCULO 15.- REGISTRO DE LA VENTA DE
 
-BONOS.- El Banco Central de Honduras, la Comisión Nacional de Bancos y Seguros, así como los participantes del mercado de valores y sistema financiero que intervengan directa e indirectamente en operaciones de ventas de valores domésticos a extranjeros ajustarán sus requerimientos para permitir el uso del número de identificación tributario emitido por la autoridad competente del país de procedencia para fines de registro e identificación, de conformidad a lo establecido en el Artículo 6 del Decreto No.151-2018.
+BONOS.- El Banco Central de Honduras, la Comisión Nacional de Bancos y Seguros, así como los participantes del mercado de valores y sistema financiero que intervengan directa e indirectamente en operaciones de ventas de valores domésticos a extranjeros ajustarán sus requerimientos para permitir el uso del número de identificación tributario emitido por la autoridad competente del país de procedencia para fines de registro e identificación, de conformidad a lo establecido en el Artículo 6 del Decreto No. 151-2018.
 
 #### Artículo 16
 

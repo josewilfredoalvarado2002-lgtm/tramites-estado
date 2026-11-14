@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ministeriales Nos. 038-2023, 056-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230720-36286/download"
 extraido: "2026-11-14"
-huella: "f69308d6bb7f6cf7"
+huella: "e64b275d95731685"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 056-2023
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece que lo
 
 CONSIDERANDO: Que para efectos de importación de productos lácteos comprendidos en las partidas arancelarias de 04.01 a 04.06; 1901.10.1; 1901.90.20; 2106.90.60, los importadores deberán contar con licencia de importación válida y vigente, emitida por la Dirección General de Integración Económica y Política Comercial dependencia de la Secretaría de Estado en el Despacho de Desarrollo Económico, la cual será solicitada con todos los requisitos establecidos en el Acuerdo Ejecutivo No. A-24-2009 de fecha 24 de septiembre de 2009 y Acuerdo Ejecutivo No. 041-2009 de fecha 18 de noviembre de 2009.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo PCM- 086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo PCM-086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que el uso de la tecnología disponible en el país constituye una herramienta invaluable la cual debe de ponerse a disposición de toda la población y de esa manera facilitar interacción entre el gobierno y todas sus entidades.
 

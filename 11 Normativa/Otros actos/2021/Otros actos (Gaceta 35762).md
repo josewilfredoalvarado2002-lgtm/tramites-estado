@@ -11,7 +11,7 @@ paginas: "A. 1 - 72"
 sumario: "Acuerdos CREE-50-2021, CREE-51-2021, CREE-53-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211103-35762/download"
 extraido: "2026-11-14"
-huella: "6cc7ef53d795f44c"
+huella: "88dfb4ca1e48326e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-50-2021, CREE-51-2021, CREE-53-2021
@@ -293,7 +293,7 @@ Evaluación de la Calidad Comercial del Servicio mediante el cálculo de índice
 
 v. Evaluación de la Calidad Técnica del Servicio conforme al sendero de calidad definido para el período tarifario en curso, considerando únicamente las interrupciones sostenidas que son registradas en los centros de control. Cálculo de índices e indemnizaciones correspondientes, pago de indemnizaciones por transgresiones a las tolerancias establecidas y entrega del informe de calidad.
 
-F. Etapa 6: Comenzará inmediatamente después de finalizada la Etapa 5, a partir del segundo período tarifario calculado con base en el Reglamento de Tarifas publicado mediante Resolución CREE- 148 con fecha 24 de junio de 2019. Las Empresas Distribuidoras deben cumplir con lo siguiente:
+F. Etapa 6: Comenzará inmediatamente después de finalizada la Etapa 5, a partir del segundo período tarifario calculado con base en el Reglamento de Tarifas publicado mediante Resolución CREE-148 con fecha 24 de junio de 2019. Las Empresas Distribuidoras deben cumplir con lo siguiente:
 
 i. Implementación progresiva del sistema de gestión de la Calidad del Servicio. ii.
 
@@ -521,7 +521,7 @@ i. Valor de indemnización por regulación de 𝐵𝐵𝐵𝐵𝐵𝐵𝐵𝐵 =
 
 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐵𝐵𝐵𝐵 = ii.
 
-Bandas penalizadas de ; iii.
+Bandas penalizadas de; iii.
 
 Valor de la energía en función de la magnitud de la desviación respecto al valor superior admisible definido para el índice de regulación de tensión como porcentaje del de conformidad con la Tabla 2, por banda de tensión B (%); iv.
 
@@ -1239,7 +1239,7 @@ Valor del sendero de calidad del indicador de frecuencia para el alimentador a e
 
 La ENS por TIU se calcula mediante la expresión siguiente:
 
-𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠= 𝑚𝑚𝑚𝑚𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀൤𝑉𝑉𝑉𝑉𝐸𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 4380 , 0൨ 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠𝑢𝑢𝑢𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠𝑐𝑐𝑐 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 = 𝑉𝑉𝑉𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠
+𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠= 𝑚𝑚𝑚𝑚𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀൤𝑉𝑉𝑉𝑉𝐸𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷 4380, 0൨ 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠𝑢𝑢𝑢𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠𝑐𝑐𝑐 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 = 𝑉𝑉𝑉𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑠𝑠𝑠
 
 i. Energía no Suministrada del Usuario u durante el período de control s calculada con base en el índice TIU (kWh);
 
@@ -1257,7 +1257,7 @@ Límite establecido para la tolerancia del índice TIU para el nivel de tensión
 
 La ENS por FIU se calcula mediante la expresión siguiente:
 
-𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠= 𝑚𝑚𝑚𝑚𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀ቈ𝑉𝑉𝑉𝑉𝐸𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× ൫𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹൯× 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× 4380 , 0቉ 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠𝑢𝑢𝑢𝐷𝐷𝐷𝐷𝐼𝐼𝐼𝐼𝑈𝑈𝑈𝑈𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 = 𝑉𝑉𝑉𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠
+𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠= 𝑚𝑚𝑚𝑚𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀ቈ𝑉𝑉𝑉𝑉𝐸𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× ൫𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹൯× 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠× 4380, 0቉ 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠𝑢𝑢𝑢𝐷𝐷𝐷𝐷𝐼𝐼𝐼𝐼𝑈𝑈𝑈𝑈𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹,𝑢𝑢𝑢𝑢,𝑠𝑠𝑠𝑠 = 𝑉𝑉𝑉𝐸𝐸𝐸𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑀𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝐷𝐷𝐷𝐷𝐷𝐷𝐹𝐹𝐹𝐹𝑢𝑢𝑢𝑠𝑠𝑠
 
 i. Energía no Suministrada del Usuario u durante el período de control s calculada con base en el índice FIU (kWh);
 
@@ -2343,7 +2343,7 @@ Que la Comisión Reguladora de Energía Eléctrica emitió el Reglamento de Oper
 
 IV.
 
-Que mediante Acuerdo CREE-074, publicado en el Diario Oficial “La Gaceta” en fecha 03 de julio del 2020, la CREE, por un lado, modificó la Resolución CREE- 009, en el sentido de revocar el literal c) del resolutivo
+Que mediante Acuerdo CREE-074, publicado en el Diario Oficial “La Gaceta” en fecha 03 de julio del 2020, la CREE, por un lado, modificó la Resolución CREE-009, en el sentido de revocar el literal c) del resolutivo
 
 PRIMERO referente a la aprobación del Reglamento de Operación del Sistema Eléctrico y Administración del Mercado Mayorista que fue publicado en fecha 18 de noviembre de 2015, en el Diario Oficial La Gaceta y, por otro lado, aprobó el ROM vigente.
 

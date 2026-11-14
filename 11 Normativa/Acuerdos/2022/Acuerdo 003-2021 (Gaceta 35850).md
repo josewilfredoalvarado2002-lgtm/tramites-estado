@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ejecutivo número 003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220216-35850/download"
 extraido: "2026-11-14"
-huella: "56cc0c200e4003f7"
+huella: "07869809d7e0a11f"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 003-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que resulta de interés estratégico, utilidad pública y esencial
 
 CONSIDERANDO: Que la Academia Militar de Aviación ha mantenido sus instalaciones en el área en que ahora se desarrolla la construcción del aeropuerto Internacional de Palmerola en el valle de Comayagua y sus instalaciones originales fueron requeridas a los fines del referido aeropuerto y que, además el inmueble que adelante se describe ha formado parte del Área total en uso de la Fuerza Aérea Hondureña por más de treinta años formando parte de los bienes del Estado.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 de fecha 06 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del señor Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de reglamentos, contrataciones de bienes y servicios mediante la modalidad de contratación directa según los supuestos establecidos en la Ley de Contratación del Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 06 de octubre de 2020, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del señor Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de reglamentos, contrataciones de bienes y servicios mediante la modalidad de contratación directa según los supuestos establecidos en la Ley de Contratación del Estado.
 
 POR TANTO
 
@@ -71,9 +71,7 @@ CONSIDERANDO (03): Que la Comisión Interventora es el Órgano Máximo Superior 
 
 CONSIDERANDO (04): Que la conducción estratégica y administración de recursos financieros y humanos estará bajo la responsabilidad de la Comisión Interventora del Hospital Escuela Universitario (HEU).
 
-CONSIDERANDO (05): Que de conformidad con el Acta No. CI-HE-001-2022, de fecha 19 de enero del año 2022 mediante sesión ordinaria; específicamente en el Punto No.
-
-03, la Comisión Interventora del HEU autorizó la promoción de Ascenso del Doctor OSMIN TOVAR PEÑA de Director de Atención Integral en Salud al Puesto de Director General, de manera interina, del Hospital Escuela Universitario.
+CONSIDERANDO (05): Que de conformidad con el Acta No. CI-HE-001-2022, de fecha 19 de enero del año 2022 mediante sesión ordinaria; específicamente en el Punto No. 03, la Comisión Interventora del HEU autorizó la promoción de Ascenso del Doctor OSMIN TOVAR PEÑA de Director de Atención Integral en Salud al Puesto de Director General, de manera interina, del Hospital Escuela Universitario.
 
 CONSIDERANDO (06): Que de conformidad al artículo 4 párrafo segundo de la Ley de Procedimiento Administrativo, el superior podrá delegar el ejercicio de su función para asuntos concretos, siempre que la competencia sea atribuida genéricamente, al ramo de la administración de que forman parte el superior y el inferior.
 

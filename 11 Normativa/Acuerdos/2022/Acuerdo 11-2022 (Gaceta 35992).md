@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. 11/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220803-35992/download"
 extraido: "2026-11-14"
-huella: "d9e2bbb8090ab6ec"
+huella: "ca7c184008d17902"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 11/2022.- Sesión No.3981 del 28 de julio de 2022.-
@@ -43,7 +43,7 @@ Que para las operaciones de compra y venta de divisas que realice el BCH y sus a
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No.17/2021, No.03/2022, No.05/2022 y No.10/2022, del 9 de diciembre de 2021, 3 de marzo, 31 de marzo y 2 de junio de 2022; respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
+Que mediante Acuerdo No. 07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No. 17/2021, No. 03/2022, No. 05/2022 y No. 10/2022, del 9 de diciembre de 2021, 3 de marzo, 31 de marzo y 2 de junio de 2022; respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
 
 CONSIDERANDO:
 
@@ -55,19 +55,19 @@ Que de acuerdo con el análisis realizado por el Departamento de Operaciones Cam
 
 CONSIDERANDO:
 
-Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución, el Comité de Divisas, en la Sesión Ordinaria No.15- 2022 celebrada el 22 de julio de 2022, por unanimidad acordó someter a consideración del Directorio del BCH, reducir la comisión que cobran los agentes cambiarios por las ventas de divisas a sus clientes del sector privado del 0.7% al 0.5%, misma comisión que aplicará para las ventas directas de divisas que realiza el BCH a las instituciones del sector público y personas naturales y jurídicas del sector privado e incrementar del 0.1% al 0.2%, la comisión que cobra el BCH sobre el total de los egresos de divisas que realizan los agentes cambiarios excluyendo de estas las divisas adquiridas en el MID.
+Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución, el Comité de Divisas, en la Sesión Ordinaria No. 15-2022 celebrada el 22 de julio de 2022, por unanimidad acordó someter a consideración del Directorio del BCH, reducir la comisión que cobran los agentes cambiarios por las ventas de divisas a sus clientes del sector privado del 0.7% al 0.5%, misma comisión que aplicará para las ventas directas de divisas que realiza el BCH a las instituciones del sector público y personas naturales y jurídicas del sector privado e incrementar del 0.1% al 0.2%, la comisión que cobra el BCH sobre el total de los egresos de divisas que realizan los agentes cambiarios excluyendo de estas las divisas adquiridas en el MID.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública;
 
-2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los numerales 6.1, literales d), e) y g) y 6.2, literal a), de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No.10/2022, emitido por el Directorio del Banco Central de Honduras el 2 de junio de 2022, que en lo sucesivo se leerá así:
+Modificar los numerales 6.1, literales d), e) y g) y 6.2, literal a), de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No. 10/2022, emitido por el Directorio del Banco Central de Honduras el 2 de junio de 2022, que en lo sucesivo se leerá así:
 
 “6.1. El BCH:
 

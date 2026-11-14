@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decretos Nos. 62-2024, 69-2024,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241004-36656/download"
 extraido: "2026-11-14"
-huella: "7daef2a8677fb251"
+huella: "8be18b72e6afd6a1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 69-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

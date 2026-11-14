@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo CREE-099; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAFE DE ERRATA"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201218-35463/download"
 extraido: "2026-11-14"
-huella: "938fbb6e2c153f77"
+huella: "6fc6b8cd2499868b"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-099; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAFE DE ERRATA
@@ -73,7 +73,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -271,7 +271,7 @@ JOSÉ ANTONIO MORÁN MARADIAGA GERARDO ANTONIO SALGADO OCHOA
 
 ______ Secretaría de Estado en el Despacho de Energía FE DE ERRATA Tegucigalpa, 18 de diciembre de 2020.
 
-En La Gaceta No.35,455 del 10 de diciembre de 2020, específicamente en la publicación del Acuerdo Ejecutivo No. SEN-014-2020 de fecha 03 de diciembre de 2020, orientado a la aprobación del “REGLAMENTO DE LAS CARACTERÍSTICAS, TÉRMINOS Y CONDICIONES DE LA EMISION DENOMINADA “VALORES GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)”:
+En La Gaceta No. 35,455 del 10 de diciembre de 2020, específicamente en la publicación del Acuerdo Ejecutivo No. SEN-014-2020 de fecha 03 de diciembre de 2020, orientado a la aprobación del “REGLAMENTO DE LAS CARACTERÍSTICAS, TÉRMINOS Y CONDICIONES DE LA EMISION DENOMINADA “VALORES GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)”:
 
 En la página 16 A. del Diario Oficial La Gaceta, en el
 

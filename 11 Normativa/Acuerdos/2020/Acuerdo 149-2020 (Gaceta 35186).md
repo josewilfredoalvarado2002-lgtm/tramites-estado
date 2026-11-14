@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Nos. 131-2020, 149-2020, 150-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200227-35186/download"
 extraido: "2026-11-14"
-huella: "e3edb69ccae5ab09"
+huella: "31789f61b0ffb562"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 149-2020
@@ -41,15 +41,15 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No.222-2019, emitido por esta Dirección en fecha 26 de noviembre del año 2019, publicado en el Diario Oficial La Gaceta en fecha 3 de diciembre del 2019, se delegó en la ciudadana WENDY MAYROVY VARELA MORAZÁN, como Encargada de la Jefatura Administrativa, durante el período de ausencia de la ciudadana GINA PATRICIA BORJAS MENDOZA.
+CONSIDERANDO: Que mediante Acuerdo No. 222-2019, emitido por esta Dirección en fecha 26 de noviembre del año 2019, publicado en el Diario Oficial La Gaceta en fecha 3 de diciembre del 2019, se delegó en la ciudadana WENDY MAYROVY VARELA MORAZÁN, como Encargada de la Jefatura Administrativa, durante el período de ausencia de la ciudadana GINA PATRICIA BORJAS MENDOZA.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014;
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014;
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto a partir del siete (07) de febrero del 2020, el Acuerdo No.222-2019, emitido por esta Dirección en fecha 26 de noviembre del año 2019, publicado en el Diario Oficial La Gaceta en fecha 3 de diciembre del 2019, mediante el cual se delegó en la ciudadana WENDY MAYROVY VARELA MORAZÁN, como Encargada de la Jefatura Administrativa, durante el período de ausencia de la ciudadana GINA PATRICIA BORJAS MENDOZA.
+PRIMERO: Dejar sin valor y efecto a partir del siete (07) de febrero del 2020, el Acuerdo No. 222-2019, emitido por esta Dirección en fecha 26 de noviembre del año 2019, publicado en el Diario Oficial La Gaceta en fecha 3 de diciembre del 2019, mediante el cual se delegó en la ciudadana WENDY MAYROVY VARELA MORAZÁN, como Encargada de la Jefatura Administrativa, durante el período de ausencia de la ciudadana GINA PATRICIA BORJAS MENDOZA.
 
 SEGUNDO: El presente es de ejecución inmediata y deberá pulicarse en el Diario Oficial La Gaceta.
 

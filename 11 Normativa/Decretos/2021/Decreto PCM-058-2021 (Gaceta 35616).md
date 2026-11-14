@@ -11,7 +11,7 @@ paginas: "A. 14 - 18"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210602-35616/download"
 extraido: "2026-11-14"
-huella: "7c1c304181a94ee1"
+huella: "ce34aca92e238dfa"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-058-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que en aras de la uniformidad en el goce de beneficios para el acc
 
 POR TANTO, En aplicación de las disposiciones establecidas en los
 
-Artículos: 178, 245 numerales 1, 2, 11, 30 y 45, 252 y 321 de la Constitución de la República; Artículos 7 , 11, 17, 19, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Decretos Ejecutivos Números: PCM-024-2014, PCM-005-2020, PCM-023-2020 y PCM-146-2020.
+Artículos: 178, 245 numerales 1, 2, 11, 30 y 45, 252 y 321 de la Constitución de la República; Artículos 7, 11, 17, 19, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Decretos Ejecutivos Números: PCM-024-2014, PCM-005-2020, PCM-023-2020 y PCM-146-2020.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 68"
 sumario: "Decretos Números 133-2022, 135-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221202-36092/download"
 extraido: "2026-11-14"
-huella: "0fec0198f9bde78c"
+huella: "7add6a40e8198dcb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 133-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Gobierno de la República ha asumido el firme compromiso de
 
 CONSIDERANDO: Que Honduras ha realizado esfuerzos para adoptar su marco legal e institucional de promoción de la transparencia y la integridad pública en conformidad con las iniciativas internacionales a las que se adhirió. El presente Gobierno ha adoptado medidas para fortalecer la institucionalidad creando la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC), como organismo especializado a cargo de prevenir y combatir la corrupción en el ejercicio de la función pública y privada, cuyo ámbito ha incluido como órganos adscritos la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE) y la Oficina Nacional de Desarrollo Integral del Control Interno (ONADICI); así como la adhesión a la iniciativa regional Honduras Inversiones para visualizar la información del gasto público.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5593/ BL-HO, suscrito el 4 de Octubre de 2022, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para el “Programa de Transparencia e Integridad para el Desarrollo Sostenible”, tiene como objetivo apoyar la ejecución de un programa de reforma de políticas consistente en aumentar la rendición de cuentas por parte del Gobierno de Honduras, hasta por un monto de CIENTO NOVENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$195,000,000.00), recursos destinados al financiamiento del Presupuesto General de Ingresos y Egresos de la República para el ejercicio fiscal 2022, y otorgados en condiciones favorables para el Gobierno; mismo que podrá provenir de dos tipos de recursos, el primero corresponde al tipo de Capital Ordinario Regular por un monto de CIENTO VEINTISEIS MILLONES SETECIENTOS CINCUENTA MIL DÓLARES AMERICANOS (US$ 126,750,000.0) con una amortización máxima de 20 años, un período de gracia de 5.5 años y con una tasa de interés basada en SOFR (Secured Overnight Financing Rate) más el margen aplicable para préstamos del Capital Ordinario Regular del Banco, y un segundo tipo de recurso a cargo del Capital Ordinario Concesional de SESENTA Y OCHO MILLONES DOSCIENTOS CINCUENTA MIL DOLARES AMERICANOS (US$ 68,250,000.00), que será amortizado mediante un pago único a un máximo de 40 años y una tasa de interés del 0.25% anual, lo que demuestra que las condiciones de este crédito son favorables a las finanzas públicas del Estado de Honduras.
+CONSIDERANDO: Que el Contrato de Préstamo No. 5593/ BL-HO, suscrito el 4 de Octubre de 2022, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para el “Programa de Transparencia e Integridad para el Desarrollo Sostenible”, tiene como objetivo apoyar la ejecución de un programa de reforma de políticas consistente en aumentar la rendición de cuentas por parte del Gobierno de Honduras, hasta por un monto de CIENTO NOVENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$195,000,000.00), recursos destinados al financiamiento del Presupuesto General de Ingresos y Egresos de la República para el ejercicio fiscal 2022, y otorgados en condiciones favorables para el Gobierno; mismo que podrá provenir de dos tipos de recursos, el primero corresponde al tipo de Capital Ordinario Regular por un monto de CIENTO VEINTISEIS MILLONES SETECIENTOS CINCUENTA MIL DÓLARES AMERICANOS (US$ 126,750,000.0) con una amortización máxima de 20 años, un período de gracia de 5.5 años y con una tasa de interés basada en SOFR (Secured Overnight Financing Rate) más el margen aplicable para préstamos del Capital Ordinario Regular del Banco, y un segundo tipo de recurso a cargo del Capital Ordinario Concesional de SESENTA Y OCHO MILLONES DOSCIENTOS CINCUENTA MIL DOLARES AMERICANOS (US$ 68,250,000.00), que será amortizado mediante un pago único a un máximo de 40 años y una tasa de interés del 0.25% anual, lo que demuestra que las condiciones de este crédito son favorables a las finanzas públicas del Estado de Honduras.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19) y 36) de la Constitución de la República es potestad del Congreso Nacional: Aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales celebrados por el Poder Ejecutivo.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO NO.5593/ BL-HO, suscrito el 4 de Octubre de 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del Financiamiento, hasta por un monto de CIENTO NOVENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$195,000,000.00), recursos destinados a la ejecución del “PROGRAMA DE TRANSPARENCIA E INTEGRIDAD P A R A E L D E S A R R O L L O SOSTENIBLE”, que literalmente dice:
+ARTICULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO NO.5593/ BL-HO, suscrito el 4 de Octubre de 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del Financiamiento, hasta por un monto de CIENTO NOVENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$195,000,000.00), recursos destinados a la ejecución del “PROGRAMA DE TRANSPARENCIA E INTEGRIDAD PARA EL DESARROLLO SOSTENIBLE”, que literalmente dice:
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
@@ -615,7 +615,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 102. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo DNII- No. 136-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250528-36849/download"
 extraido: "2026-11-10"
-huella: "7e9fd7686f864d9e"
+huella: "9b12fbfae1f44dc5"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo DNII- No. 136-2025
@@ -37,9 +37,9 @@ CONSIDERANDO: Que el Artículo 8 de la Ley Especial del Consejo Nacional de Defe
 
 CONSIDERANDO: Que la Ley de Inteligencia Nacional, en sus Artículos No. 23 y 24, establece que la Dirección Nacional de Investigación e Inteligencia (DNII) contará con un régimen especial en materia laboral y de previsión social y que un estatuto establecerá los márgenes de la contratación, deberes, derechos, sistemas de remuneración, categorías, régimen disciplinario, seguro médico-hospitalario y de vida y demás aspectos inherentes al régimen laboral.
 
-CONSIDERANDO: Que mediante Acuerdo DNIINo-015-2023 se aprobó el Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial “La Gaceta” No.36,192 de fecha 29 de marzo del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII).
+CONSIDERANDO: Que mediante Acuerdo DNIINo-015-2023 se aprobó el Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial “La Gaceta” No. 36,192 de fecha 29 de marzo del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII).
 
-CONSIDERANDO: Que mediante Acuerdo DNIINo-323-2023 se reformó el Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial “La Gaceta” No.36,359 de fecha 16 de octubre del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII).
+CONSIDERANDO: Que mediante Acuerdo DNIINo-323-2023 se reformó el Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial “La Gaceta” No. 36,359 de fecha 16 de octubre del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII).
 
 POR TANTO: El Director Nacional de Investigación e Inteligencia (DNII), en nombre del Estado de Honduras, en uso de las facultades que la Ley le confiere y en aplicación de los
 

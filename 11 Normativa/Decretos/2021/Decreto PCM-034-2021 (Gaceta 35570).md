@@ -11,7 +11,7 @@ paginas: "A. 7 - 13"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210413-35570/download"
 extraido: "2026-11-14"
-huella: "ad8db42c1ee9ed99"
+huella: "9bd6471020d6961c"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-034-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que la Constitución de la República establece que la Educación 
 
 CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No.
-
-266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
 
 CONSIDERANDO: Que Honduras es un Estado de Derecho, garante del ejercicio de la transparencia y rendición de cuentas conducente a la efectiva participación ciudadana en la consolidación de una auténtica democracia.
 
@@ -69,7 +67,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 033-2020, de fecha 02 de abri
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 60-2020 publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de julio del año dos mil veinte (2020) Edición No. 35,315, fueron aprobadas las MEDIDAS PARA FACILITAR LA EDUCACIÓN NO PRESENCIAL A TRAVÉS DE MEDIOS DIGITALES EN CASOS EXCEPCIONALES, con lo cual se pretende satisfacer la necesidad de clases no presenciales y así difundir los contenidos y herramientas educativas a través del uso de las Tecnologías de la Información y la Comunicaciones.
 
-CONSIDERANDO: Que mediante Decretos Ejecutivos Números: PCM-109-2020, PCM-112-2020, PCM-115- 2020 y PCM-116-2020, el Presidente de la República en Consejo de Secretarios de Estado, con el propósito de darle celeridad a las operaciones presupuestarias necesarias y brindar atención a la población afectada, decretó estado de emergencia debido a la situación climática imperante durante los meses de octubre y noviembre del presente año ocasionadas por los fenómenos naturales denominados “ETA e IOTA”, los cuales ocasionaron graves daños a la red vial, viviendas, e infraestructura de telecomunicaciones y destrucción de comunidades enteras.
+CONSIDERANDO: Que mediante Decretos Ejecutivos Números: PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020, el Presidente de la República en Consejo de Secretarios de Estado, con el propósito de darle celeridad a las operaciones presupuestarias necesarias y brindar atención a la población afectada, decretó estado de emergencia debido a la situación climática imperante durante los meses de octubre y noviembre del presente año ocasionadas por los fenómenos naturales denominados “ETA e IOTA”, los cuales ocasionaron graves daños a la red vial, viviendas, e infraestructura de telecomunicaciones y destrucción de comunidades enteras.
 
 CONSIDERANDO: Que se requiere dar pronta respuesta a los sectores de la población que no cuentan con los medios para acceder a los servicios de banda ancha y basados en las actividades que la prestación del servicio conlleva, como ser: Tiempos de implementación, logística para el despliegue de infraestructura y entrega del servicio, trabajos de campo en las zonas a ser beneficiadas, cobertura, operación y gestión de los servicios, validación y medición de impacto social y económico que genera la banda ancha.
 
@@ -77,7 +75,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 151, 154, 245 numerales 2, 11 y 20, 255, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 5, 9 y 12, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Artículo 6 de la Ley de Contratación del Estado; Artículos 3, 4, 5, 7 y 13 de la Ley de Transparencia y Acceso a la Información Pública;
 
-Decretos Legislativos Nos. 325-2013, 369-2013, 33-2020 y 60-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM- 116-2020.
+Decretos Legislativos Nos. 325-2013, 369-2013, 33-2020 y 60-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 DECRETA:
 

@@ -8,10 +8,10 @@ gaceta_numero: 35406
 gaceta_fecha: "2020-10-22"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35406 (2020-10-22)|La Gaceta 35406]]"
 paginas: "A. 4 - 20"
-sumario: "Decreto No. 124-2020, 128-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0332-SE-2020"
+sumario: "Decreto No. 124-2020, 128-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0332-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201022-35406/download"
 extraido: "2026-11-14"
-huella: "3e9b02418e85b736"
+huella: "984210da4c5d5149"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0332-SE-2020
@@ -23,7 +23,7 @@ huella: "3e9b02418e85b736"
 | Emisor | Secretaría de Educación |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35406 (2020-10-22)\|La Gaceta 35406]] del 2020-10-22 |
 | Páginas | A. 4 - 20 |
-| Según el sumario de La Gaceta | Decreto No. 124-2020, 128-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0332-SE-2020 |
+| Según el sumario de La Gaceta | Decreto No. 124-2020, 128-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0332-SE-2020 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Educación, constit
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Educación a través de sus correspondientes Estructuras del Nivel Central, es responsable de la Organización, Dirección, Supervisión y Evaluación de la Educación a nivel nacional; la Programación y Ejecución en el nivel desconcentrado y por delegación de la Secretaría de Educación, corresponde a las Direcciones Departamentales, Municipales y Distritales de Educación y a los Centros Educativos.
 
-CONSIDERANDO: El Plan Estratégico del Sector Educación PESE y el PEI 2018-2022, establece la revisión y actualización de los Diseños Curriculares, para los niveles de Educación Prebásica, Básica y Media. Específicamente en el PEI 2018- 2022 en el Aprendizajes Pertinentes, Relevantes y Eficaces, definiendo como uno de los productos, Área Estratégica de Aseguramiento de las herramientas pedagógicas y recursos de aprendizajes rediseñados, lo que incluye a los Estándares Educativos entre otros.
+CONSIDERANDO: El Plan Estratégico del Sector Educación PESE y el PEI 2018-2022, establece la revisión y actualización de los Diseños Curriculares, para los niveles de Educación Prebásica, Básica y Media. Específicamente en el PEI 2018-2022 en el Aprendizajes Pertinentes, Relevantes y Eficaces, definiendo como uno de los productos, Área Estratégica de Aseguramiento de las herramientas pedagógicas y recursos de aprendizajes rediseñados, lo que incluye a los Estándares Educativos entre otros.
 
 CONSIDERANDO: Que para la elaboración del Acuerdo ESTÁNDARES EDUCATIVOS NACIONALES DE ESPAÑOL PARA EL PRIMERO Y SEGUNDO CICLO DE EDUCACIÓN BÁSICA, está en correspondencia a dar cumplimiento a lo establecido en el Plan Estratégico Institucional 2018-2022, que constituye el instrumento de alineación y armonización para el logro de los indicadores, resultados y objetivos del Sistema Nacional de Educación.
 
@@ -51,11 +51,9 @@ Estándares Educativos, Programaciones Curriculares, Pruebas Formativas y Textos
 
 CONSIDERANDO: Que el Plan Estratégico del Sector Educación (PESE) como instrumento de Política Nacional, establece un conjunto coherente de estrategias para alcanzar objetivos educativos nacionales, que permitan superar deficiencias en la formación del ciudadano hondureño.
 
-Asimismo, que el Plan Educativo Institucional (PEI), contribuye a alcanzar los objetivos estratégicos y metas educativas de interés nacional trazados en la Ley de Visión de País (2010-2038) y Plan de Nación (2010- 2022).
+Asimismo, que el Plan Educativo Institucional (PEI), contribuye a alcanzar los objetivos estratégicos y metas educativas de interés nacional trazados en la Ley de Visión de País (2010-2038) y Plan de Nación (2010-2022).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-1362-SE-2014, se establece la normativa que reglamentará el Nivel de Educación Básica, en sus tres ciclos secuenciales y continuos; Primer Ciclo: del primer al tercer Grado (1ro. al 3ro.); Segundo ciclo: del cuarto al sexto Grado (4to. Al 6to.) y Tercer Ciclo, del séptimo al 9 noveno Grado (7mo. Al 9vno).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 1362-SE-2014, se establece la normativa que reglamentará el Nivel de Educación Básica, en sus tres ciclos secuenciales y continuos; Primer Ciclo: del primer al tercer Grado (1ro. al 3ro.); Segundo ciclo: del cuarto al sexto Grado (4to. Al 6to.) y Tercer Ciclo, del séptimo al 9 noveno Grado (7mo. Al 9vno).
 
 CONSIDERANDO: Que la Educación Básica tiene como finalidad generar y fortalecer en los educandos los aprendizajes de la expresión oral, corporal y escrita, la lectura, la matemática, la ciencia y tecnología, la autonomía de acción en su entorno natural y social, la capacidad para asumir con responsabilidad sus deberes y derechos, preparándolos para la vida activa con una formación científica, humanística y tecnológica para acceder al nivel de Educación Media.
 

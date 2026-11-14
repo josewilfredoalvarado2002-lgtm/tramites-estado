@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230217-36158/download"
 extraido: "2026-11-14"
-huella: "945312933569b7ae"
+huella: "140b12b26db0dbba"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "945312933569b7ae"
 
 ## Texto
 
-El suscrito, Primer Secretario del Congreso Nacional CERTIFICA: Que de conformidad con los artículos 314 y 315 y demás aplicables de la Constitución de la República, y en el ejercicio de la potestad soberana depositada por el Pueblo Hondureño en este Poder del Estado y en la interpretación de altos principios, tales como: la democracia, la imparcialidad de la justicia, la transparencia y la participación ciudadana, este Poder del Estado ha realizado un proceso de elección de ciudadanas y ciudadanos que integran la Corte Suprema de Justicia para el período 2023-2030, misma que está contenida en el Punto No.19, del Acta No.2, del dieciséis (16) de Febrero de Dos Mil Veintitrés (2023), que literalmente dice:
+El suscrito, Primer Secretario del Congreso Nacional CERTIFICA: Que de conformidad con los artículos 314 y 315 y demás aplicables de la Constitución de la República, y en el ejercicio de la potestad soberana depositada por el Pueblo Hondureño en este Poder del Estado y en la interpretación de altos principios, tales como: la democracia, la imparcialidad de la justicia, la transparencia y la participación ciudadana, este Poder del Estado ha realizado un proceso de elección de ciudadanas y ciudadanos que integran la Corte Suprema de Justicia para el período 2023-2030, misma que está contenida en el Punto No. 19, del Acta No. 2, del dieciséis (16) de Febrero de Dos Mil Veintitrés (2023), que literalmente dice:
 
 “19.- El Honorable Congresista Presidente Luis Rolando Redondo Guifarro con el acompañamiento del Pleno de la Cámara Legislativa procedió a tomar la Promesa de Ley a la Honorable Magistrada electa, ciudadana: FRANCISCA VILLELA ZAVALA, quien después de pronunciar la fórmula constitucional: “PROMETO SER FIEL A LA REPÚBLICA, CUMPLIR Y HACER CUMPLIR LA CONSTITUCIÓN Y LAS LEYES”. Quedó en posesión de su cargo”.
 

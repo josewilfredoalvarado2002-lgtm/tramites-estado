@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo Número SAR-125-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240403-36499/download"
 extraido: "2026-11-14"
-huella: "65228a1ce71d3141"
+huella: "376c25c9f9bca3e5"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-125-2024
@@ -43,9 +43,7 @@ CONSIDERANDO: Que en el Artículo 199 del Código Tributario establece como atri
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024 se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, como DIRECTOR EJECUTIVO del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que el Artículo 131 del Código Tributario establece: De las Deudas Tributarias Incobrables por Razón de Costo Beneficio y Depuración de la Cuenta Corriente. 1) La Administración Tributaria de oficio en el mes de febrero de cada año, debe proceder a descargar de la cuenta corriente de los obligados tributarios, los créditos tributarios firmes a favor del Estado, cuyo monto sea igual o inferior a un (01) salario mínimo promedio vigente.
 
@@ -61,9 +59,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 POR TANTO:
 
-En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los siguientes Artículos: 321, 323, 324 y 351 de la Constitución de la República; 1, 131 numeral 1), 195, 198 y 199 del Código Tributario; 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo Número 01- 2017; Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No.
-
-435-2022; y, Acuerdo Ejecutivo No. STSS-411-2023.
+En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los siguientes Artículos: 321, 323, 324 y 351 de la Constitución de la República; 1, 131 numeral 1), 195, 198 y 199 del Código Tributario; 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435-2022; y, Acuerdo Ejecutivo No. STSS-411-2023.
 
 ACUERDA:
 

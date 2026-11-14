@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto No. 129-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221201-36091/download"
 extraido: "2026-11-14"
-huella: "5aba8f111723e034"
+huella: "220e273f947462cc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 129-2022
@@ -45,7 +45,7 @@ CONSIDERANDO: Que en respuesta a las necesidades de atención y transformación 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Ministeriales Nos. 115-2022, 116-2022, 117-2022, 118-2022, 119-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221101-36065/download"
 extraido: "2026-11-14"
-huella: "e4dadddd83d3a4da"
+huella: "0716b96e4d9b4642"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 118-2022
@@ -41,9 +41,7 @@ CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los Artículos 1, 7, 116 y 122 de la Ley General de la Administración Pública; 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo; Decreto No. 251-2013 del 10 de diciembre del año 2013; Acuerdo No. 357-2014 del 29 de septiembre del año 2014 y Acuerdo Ministerial No.
-
-202-2020 de fecha 12 de octubre de 2020.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los Artículos 1, 7, 116 y 122 de la Ley General de la Administración Pública; 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo; Decreto No. 251-2013 del 10 de diciembre del año 2013; Acuerdo No. 357-2014 del 29 de septiembre del año 2014 y Acuerdo Ministerial No. 202-2020 de fecha 12 de octubre de 2020.
 
 ACUERDA:
 

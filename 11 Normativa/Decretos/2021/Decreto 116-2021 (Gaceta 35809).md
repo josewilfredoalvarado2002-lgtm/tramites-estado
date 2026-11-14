@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decretos Nos. 110-2021, 116-2021, 135-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211229-35809/download"
 extraido: "2026-11-14"
-huella: "7d0add427ed02150"
+huella: "012ab6055d6bd1ec"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 116-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -73,7 +73,7 @@ ARTÍCULO 1.- Reformar el Artículo 10 de la LEY DE TRANSPORTE TERRESTRE DE HOND
 
 ARTÍCULO 2.- Derogar los numerales 3) y 4) del
 
-Artículo 11 del Decreto Legislativo No.155-2015, contentivo de la LEY DE TRANSPORTE TERRESTRE DE HONDURAS y sus reformas.
+Artículo 11 del Decreto Legislativo No. 155-2015, contentivo de la LEY DE TRANSPORTE TERRESTRE DE HONDURAS y sus reformas.
 
 #### Artículo 3
 

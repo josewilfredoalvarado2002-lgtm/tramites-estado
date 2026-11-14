@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Decreto Ejecutivo Número PCM-014-2026Acuerdos Ejecutivos Números 044-DP-2026, 045-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260717-37196/download"
 extraido: "2026-11-09"
-huella: "298a84177496d801"
+huella: "4a1e10aa18f5c775"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 044-DP-2026
@@ -63,9 +63,7 @@ POR TANTO;
 
 En uso de las facultades de que está investido y que están contenidas en los Artículos 235, 245 Numerales 2, 11, 19 y,
 
-Artículo 360 de la Constitución de la República; Artículos 11, 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
-
-266-2013; 63 Numeral 2) y 6) y Párrafo Final, de la Ley de Contratación del Estado; Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta" y, demás aplicables.
+Artículo 360 de la Constitución de la República; Artículos 11, 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; 63 Numeral 2) y 6) y Párrafo Final, de la Ley de Contratación del Estado; Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta" y, demás aplicables.
 
 ACUERDA:
 

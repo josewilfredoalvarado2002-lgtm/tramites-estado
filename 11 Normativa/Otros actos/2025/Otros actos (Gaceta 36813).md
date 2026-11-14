@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Acuerdo CREE-07-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250410-36813/download"
 extraido: "2026-11-11"
-huella: "6d39aae985aa466b"
+huella: "3861c3889fa1b00d"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-07-2025
@@ -39,7 +39,7 @@ Que la Ley General de la Industria Eléctrica (LGIE) en su artículo 3 letra D e
 
 II.
 
-Que mediante el Decreto Legislativo número 46- 2022 contentivo de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho de Naturaleza Económica y Social se reformó la Ley General de la Industria Eléctrica y a su vez se declaró en emergencia nacional el subsector eléctrico.
+Que mediante el Decreto Legislativo número 46-2022 contentivo de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho de Naturaleza Económica y Social se reformó la Ley General de la Industria Eléctrica y a su vez se declaró en emergencia nacional el subsector eléctrico.
 
 III.
 
@@ -85,7 +85,7 @@ Que de conformidad con el Procedimiento para Consulta Pública la Comisión Regu
 
 Que en la Reunión Ordinaria CREE-Ord-03-2025 del veintisiete (27) de enero de dos mil veinticinco (2025) el Directorio de Comisionados acordó emitir el presente acuerdo.
 
-Por tanto La Comisión Reguladora de Energía Eléctrica (CREE) en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A romano III y literal B , 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por unanimidad de votos de los Comisionados presentes.
+Por tanto La Comisión Reguladora de Energía Eléctrica (CREE) en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A romano III y literal B, 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica; artículos 4, 5, 6, 7 y demás aplicables del Procedimiento para Consulta Pública, por unanimidad de votos de los Comisionados presentes.
 
 Acuerda
 
@@ -747,7 +747,7 @@ En caso de que durante el año se determine un nuevo valor de potencia efectiva 
 
 Fm: es la potencia firme mensual de la central, en kW o en MW.
 
-Dm: es el factor de disponibilidad mensual de la central durante el mes , calculado por el Operador del Sistema según la metodología indicada en el artículo 21 de la NT-PF.
+Dm: es el factor de disponibilidad mensual de la central durante el mes, calculado por el Operador del Sistema según la metodología indicada en el artículo 21 de la NT-PF.
 
 Kco: es la potencia efectiva neta de la central en kW o MW del mes.
 
@@ -801,7 +801,7 @@ Unidad de Racionamiento Forzado: … Valor del Agua: … Se definen también las
 
 • Los propietarios de…
 
-• Cada Coordinado… o Toda Empresa Transmisora… o Toda central o unidad… o Las centrales o unidades… o Instalaciones de sistemas… o Consumidores Calificados… o Empresas Comercializadoras…” “3 DERECHOS Y OBLIGACIONES” “4 M O D E L A D O D E C E N T R A L E S HIDROELÉCTRICAS, CENTRALES GENERADORAS HÍBRIDAS Y RIESGO DE DÉFICIT” “4.1 bis Optimización de Centrales Generadoras Híbridas El despacho de una central generadora híbrida deberá incluir la optimización de la gestión del proceso de carga-descarga del sistema de almacenamiento de energía asociado con el objetivo de minimizar los costos de abastecer la demanda durante un período determinado considerando las restricciones de operación de las unidades y centrales generadoras y los recursos de generación, las restricciones de transmisión y el cumplimiento de los CCSDM.
+• Cada Coordinado… o Toda Empresa Transmisora… o Toda central o unidad… o Las centrales o unidades… o Instalaciones de sistemas… o Consumidores Calificados… o Empresas Comercializadoras…” “3 DERECHOS Y OBLIGACIONES” “4 MODELADO DE CENTRALES HIDROELÉCTRICAS, CENTRALES GENERADORAS HÍBRIDAS Y RIESGO DE DÉFICIT” “4.1 bis Optimización de Centrales Generadoras Híbridas El despacho de una central generadora híbrida deberá incluir la optimización de la gestión del proceso de carga-descarga del sistema de almacenamiento de energía asociado con el objetivo de minimizar los costos de abastecer la demanda durante un período determinado considerando las restricciones de operación de las unidades y centrales generadoras y los recursos de generación, las restricciones de transmisión y el cumplimiento de los CCSDM.
 
 Las Empresas Generadoras propietarias de una o más centrales generadoras híbridas podrán operar bajos los siguientes modos de operación:
 

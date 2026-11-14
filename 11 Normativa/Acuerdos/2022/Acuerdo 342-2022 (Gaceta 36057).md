@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo número 342-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221022-36057/download"
 extraido: "2026-11-14"
-huella: "232c105bbcada19e"
+huella: "48fcdbacc41ad879"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 342-2022
@@ -37,7 +37,7 @@ CONSIDERANDO (3): Que el artículo 17 de la Ley Orgánica de la Empresa Nacional
 
 CONSIDERANDO (4): Que los miembros de la Junta Directiva de la Empresa Nacional de Portuaria (ENP) deben cumplir con lo establecido en la Ley Orgánica de la Empresa Nacional Portuaria.
 
-CONSIDERANDO (5): Que mediante Oficio No. 067-02- 2022-P de fecha 24 de febrero del 2022, el Consejo Hondureño de la Empresa Privada (COHEP), notifica a la abogada Rixi Moncada Godoy, Secretaria de Estado en el Despacho de Finanzas, la decisión de delegar en Rafael Edgardo Flores Peña, como miembro propietario y Yazmina Isabel Banegas Ortega, como miembro suplente, en representación del Consejo Hondureño de la Empresa Privada (COHEP), ante el Consejo Directivo de la Empresa Nacional Portuaria (ENP).
+CONSIDERANDO (5): Que mediante Oficio No. 067-02-2022-P de fecha 24 de febrero del 2022, el Consejo Hondureño de la Empresa Privada (COHEP), notifica a la abogada Rixi Moncada Godoy, Secretaria de Estado en el Despacho de Finanzas, la decisión de delegar en Rafael Edgardo Flores Peña, como miembro propietario y Yazmina Isabel Banegas Ortega, como miembro suplente, en representación del Consejo Hondureño de la Empresa Privada (COHEP), ante el Consejo Directivo de la Empresa Nacional Portuaria (ENP).
 
 POR TANTO:
 
@@ -59,13 +59,9 @@ CONSIDERANDO: Que mediante el Artículo 195 del Decreto Legislativo número 170-
 
 CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las atribuciones de la Administración Tributaria: 1)…; 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; 13)…; y 15) Cualquier otra facultad o atribución que establezca la Ley, en sus respectivas competencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social, y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 
@@ -91,7 +87,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 POR TANTO: En uso de las facultades de que está investido y en aplicación de lo establecido en los Artículos:1, 59, 333 de la Constitución de la República; 2 numeral 8), 55 numeral 4), 56, 195 numerales 3), 198 numerales 1), 12) y 15) y 199 numeral 1) del Decreto Legislativo 170-2016; 7, 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo No. PCM-24-2022; Acuerdo Ejecutivo 01-2017;
 
-Acuerdo Ejecutivo 023-2022; y Acuerdo Ejecutivo No. 435- 2022.
+Acuerdo Ejecutivo 023-2022; y Acuerdo Ejecutivo No. 435-2022.
 
 ACUERDA:
 

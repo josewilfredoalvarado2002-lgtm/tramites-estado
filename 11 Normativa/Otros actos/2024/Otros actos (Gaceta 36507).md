@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 30-2024; Acuerdo-025-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240412-36507/download"
 extraido: "2026-11-14"
-huella: "6dd2fbebd74e60c7"
+huella: "2d6b3381f391ce99"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto No. 30-2024; Acuerdo-025-2023
@@ -45,7 +45,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -53,7 +53,7 @@ ARTÍCULO 1.- OBJETO DE LA LEY. La presente Ley tiene por objeto reconocer jurí
 
 #### Artículo 2
 
-ARTÍCULO 2.- D E N O M I N A C I Ó N D E L A S
+ARTÍCULO 2.- DENOMINACIÓN DE LAS
 
 REGIONES. Las regiones de la ruta turística están denominadas de acuerdo con los rubros presentes en cada una de ellas, con el fin de destacar la variedad y riqueza de la oferta turística del departamento de Comayagua.
 
@@ -111,7 +111,7 @@ CONSIDERANDO: Que la Constitución de la República declara de interés nacional
 
 CONSIDERANDO: Que el artículo 340 de la Constitución de la República de Honduras, declara de utilidad y necesidad pública, la explotación técnica y racional de los recursos naturales de la Nación, el Estado reglamentará su aprovechamiento, de acuerdo con el interés social y fijará las condiciones de su otorgamiento a los particulares.
 
-CONSIDERANDO : Que de acuerdo al artículo 108 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, menciona que le corresponde al Sistema de Investigación Nacional Forestal, Áreas Protegidas, Vida Silvestre (SINFOR),desarrollar, reglamentar y supervisar las investigaciones científicas y aplicadas, que se realicen en áreas protegidas o sobre la biodiversidad de la mismas, teniendo en cuenta las categorías de manejo y debiendo respetar las prácticas tradicionales y culturales de las comunidades locales.
+CONSIDERANDO: Que de acuerdo al artículo 108 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, menciona que le corresponde al Sistema de Investigación Nacional Forestal, Áreas Protegidas, Vida Silvestre (SINFOR),desarrollar, reglamentar y supervisar las investigaciones científicas y aplicadas, que se realicen en áreas protegidas o sobre la biodiversidad de la mismas, teniendo en cuenta las categorías de manejo y debiendo respetar las prácticas tradicionales y culturales de las comunidades locales.
 
 CONSIDERANDO: Que el Artículo 115 de la Ley Forestal, Áreas Protegidas Vida Silvestre, le corresponde al ICF, la protección, manejo y administración de la flora y fauna silvestre de todo el país. El manejo y administración de las especies marinas, fluviales y lacustres, que se encuentren dentro de las áreas protegidas se hará en coordinación con la Secretaría de Estado en los Despachos de Recursos Naturales (SERNA) y la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) cuando corresponda.
 
@@ -123,7 +123,7 @@ CONSIDERANDO: De acuerdo con el artículo 166 del Manual de Normas Técnico-Admi
 
 CONSIDERANDO: Que en Dictamen Técnico-ICFORFA-VS-08-2023 de fecha 04 de mayo del 2023 emitido por la oficina regional forestal del Atlántico concluye: 1) Es prioritario que en corto plazo se apruebe el protocolo de Langosta y Caracol del Parque Nacional Marino de Islas de la Bahía para poder implementar planes de monitoreo, control y vigilancia en los diferentes sitios de Roatán. 2) El protocolo fue ampliamente discutido y analizado por lo especialistas, así como por comanejadores pescadores y entes del Estado. 3) Impulsar acciones de investigación y medidas necesarias para poder subir las poblaciones de langosta ( Panulirus argus) y caracol ( Aliger Gigas). 4) Todas las medidas anteriormente expuestas y demás que se establezcan deberán de realizarse respetando la legislación existente y las normas de uso establecidas en el plan de manejo del área protegidas.( folio 64-59).
 
-CONSIDERANDO : Que consta en expediente copia del Dictamen Técnico ICF-DVS-029-2023 de fecha 14 de agosto del 2023, por parte del Departamento de Vida Silvestre ICF, donde concluye: 1) el Departamento de Vida Silvestre tomando en consideración lo expuesto anteriormente (DICTAMEN TECNICO ORFA-VS-08-2023) y la normativa para el aprovechamiento sostenible de la Vida Silvestre acuerdo 045-2011, manifiesta que FACTIBLE la aprobación de los “Protocolos del Monitoreo de las especies marinas de Langosta (Panulirus argus) y Caracol (Lobatus gigas)”. 2) Que un protocolo es una herramienta técnica que genera información del estado de conservación de las especies y permitirá mejorar la gestión de la vida silvestre en coordinación con varios actores de la zona en el marco de las competencias, atribuciones, productos y servicios institucionales en concordancia con la normativa y política vigentes del país. 3) Las metodologías que contemplan estos protocolos responden de las necesidades y requerimientos identificados por las autoridades y personal técnico encargados del ICF de la gestión de la vida silvestre en la región forestal del Atlántico de Honduras. 4) Que se acepte la implementación de la metodología propuesta para la realización de lo monitoreos de las especies silvestres marinas del protocolo propuesto. 5) La región forestal de Atlántida hará las supervisiones de campo que estime necesario y conveniente y hará un informe al departamento de Vida Silvestre a nivel central. 6) Las organizaciones que harán uso de estos protocolos están obligados a enviar un informe anual del monitoreo de las especies correspondientes, a la región forestal del Atlántico y al Departamento de Vida Silvestre Central. 7) En el análisis de los datos es necesario incluir la densidad poblacional de las especies a monitorear.
+CONSIDERANDO: Que consta en expediente copia del Dictamen Técnico ICF-DVS-029-2023 de fecha 14 de agosto del 2023, por parte del Departamento de Vida Silvestre ICF, donde concluye: 1) el Departamento de Vida Silvestre tomando en consideración lo expuesto anteriormente (DICTAMEN TECNICO ORFA-VS-08-2023) y la normativa para el aprovechamiento sostenible de la Vida Silvestre acuerdo 045-2011, manifiesta que FACTIBLE la aprobación de los “Protocolos del Monitoreo de las especies marinas de Langosta (Panulirus argus) y Caracol (Lobatus gigas)”. 2) Que un protocolo es una herramienta técnica que genera información del estado de conservación de las especies y permitirá mejorar la gestión de la vida silvestre en coordinación con varios actores de la zona en el marco de las competencias, atribuciones, productos y servicios institucionales en concordancia con la normativa y política vigentes del país. 3) Las metodologías que contemplan estos protocolos responden de las necesidades y requerimientos identificados por las autoridades y personal técnico encargados del ICF de la gestión de la vida silvestre en la región forestal del Atlántico de Honduras. 4) Que se acepte la implementación de la metodología propuesta para la realización de lo monitoreos de las especies silvestres marinas del protocolo propuesto. 5) La región forestal de Atlántida hará las supervisiones de campo que estime necesario y conveniente y hará un informe al departamento de Vida Silvestre a nivel central. 6) Las organizaciones que harán uso de estos protocolos están obligados a enviar un informe anual del monitoreo de las especies correspondientes, a la región forestal del Atlántico y al Departamento de Vida Silvestre Central. 7) En el análisis de los datos es necesario incluir la densidad poblacional de las especies a monitorear.
 
 \8) Se deberá realizar talleres de socialización del protocolo con las comunidades, garífunas, mestizas antes de comenzar los trabajos in situ. 9) Realizar la consulta libre previa e informada con las comunidades correspondientes donde se desarrollan los monitoreos. Y en base a lo anteriormente descrito determina que es TECNICAMENTE FACTIBLE “Los protocolos del monitoreo de las especies marinas de Langosta (Panulirus argus ) y Caracol ( Lobatus gigas).
 

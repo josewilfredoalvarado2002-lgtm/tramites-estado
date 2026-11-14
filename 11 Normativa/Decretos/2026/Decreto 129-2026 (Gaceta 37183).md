@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 129-2026, 135-2026Resolución No. 7-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260702-37183/download"
 extraido: "2026-11-09"
-huella: "01403a5e894e9894"
+huella: "cd6e2f8bf5b0d22f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 129-2026
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Ejecutivos Nos. 82-2025, 111-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250807-36910/download"
 extraido: "2026-11-09"
-huella: "e2f60b4134520820"
+huella: "d309277935c43ea1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 111-2025
@@ -27,7 +27,7 @@ huella: "e2f60b4134520820"
 
 ## Texto
 
-EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, delegación de fecha 28 de enero 2022 y en aplicaciones de los artículos: 235, 245 atribuciones 5 y 11 de la Constitución de la República 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM 05- 2022.
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, delegación de fecha 28 de enero 2022 y en aplicaciones de los artículos: 235, 245 atribuciones 5 y 11 de la Constitución de la República 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM 05-2022.
 
 ACUERDA:
 

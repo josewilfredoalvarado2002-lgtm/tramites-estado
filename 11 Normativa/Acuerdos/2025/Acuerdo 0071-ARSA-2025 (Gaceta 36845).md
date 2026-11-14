@@ -11,7 +11,7 @@ paginas: "A. 4 - 16"
 sumario: "Acuerdo No. 0071-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250523-36845/download"
 extraido: "2026-11-10"
-huella: "8314923a177daffc"
+huella: "8081be90c3cb767d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 0071-ARSA-2025
@@ -413,7 +413,7 @@ ARTÍCULO 21. En un plazo de seis (6) meses, contados a partir de la fecha de en
 
 ARTÍCULO 22. Las licencias sanitarias emitidas por la Secretaría de Estado en el Despacho de Salud, mantendrán su vigencia hasta su fecha de expiración, debiendo los interesados realizar su trámite como nuevo atendiendo lo establecido en las presentes disposiciones. En caso que a la fecha de emisión de las presentes disposiciones la licencia se encuentre vencida, se deberá tramitar como nueva.
 
-SEGUNDO: REVOCAR, en todas y cada una de sus partes las disposiciones contenidas en el ACUERDO No. 184- 2023, de fecha 31 de marzo del año 2023, contentivo de LAS CUOTAS DE RECUPERACIÓN para el otorgamiento de licencias sanitarias, renovación o modificación de HOTELES Y CENTROS RECREATIVOS, publicado en el Diario Oficial La Gaceta número 36,209 de fecha 21 de abril del año 2023.
+SEGUNDO: REVOCAR, en todas y cada una de sus partes las disposiciones contenidas en el ACUERDO No. 184-2023, de fecha 31 de marzo del año 2023, contentivo de LAS CUOTAS DE RECUPERACIÓN para el otorgamiento de licencias sanitarias, renovación o modificación de HOTELES Y CENTROS RECREATIVOS, publicado en el Diario Oficial La Gaceta número 36,209 de fecha 21 de abril del año 2023.
 
 TERCERO: El presente Acuerdo entrará en vigencia a partir del día de su publicación en el Diario Oficial “La Gaceta”.
 

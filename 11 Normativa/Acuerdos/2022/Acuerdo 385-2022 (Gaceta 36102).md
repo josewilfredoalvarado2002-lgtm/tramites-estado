@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SAR-No. 385-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221214-36102/download"
 extraido: "2026-11-14"
-huella: "5cf5b192346ff540"
+huella: "b5eaa0c5d154aac3"
 ---
 <!-- portal:inicio -->
 # ACUERDO SAR No. 385-2022
@@ -75,7 +75,7 @@ PRIMERO: Suprimir la Oficina Tributaria con sede Marcala, departamento de La Paz
 
 SEGUNDO: Crear la Oficina Tributaria con sede en la ciudad de Choloma, departamento de Cortés.
 
-TERCERO: Modificar el numeral “SÉPTIMO” del Acuerdo No. SAR-002-2017 reformado por el Acuerdo No. SAR-222- 2019, mismo que deberá leerse de la siguiente manera:
+TERCERO: Modificar el numeral “SÉPTIMO” del Acuerdo No. SAR-002-2017 reformado por el Acuerdo No. SAR-222-2019, mismo que deberá leerse de la siguiente manera:
 
 “SÉPTIMO: Las OFICINAS TRIBUTARIAS que, según el domicilio fiscal de los obligados tributarios, ejercerán su competencia sobre los obligados tributarios categorizados como “Medianos y Pequeños” conforme a las atribuciones y responsabilidades que les sean delegadas, tendrán sus sedes en: Nacaome, La Esperanza, Gracias, Ocotepeque, Choloma, Peña Blanca y Roatán”.
 

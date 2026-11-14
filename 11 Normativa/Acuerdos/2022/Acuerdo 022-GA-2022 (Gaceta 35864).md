@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 022-GA-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220304-35864/download"
 extraido: "2026-11-14"
-huella: "bd88db776663368d"
+huella: "e80c9f0e54fb7e53"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 022-GA-2022
@@ -71,11 +71,9 @@ La infrasrita, Secretaria General Nacional de la Administración Aduanera de Hon
 
 “ACUERDO
 
-No.
+No. ADUANASDE-010-2022. ADMINISTRACIÓN ADUANERA DE
 
-ADUANASDE-010-2022. ADMINISTRACIÓN ADUANERA DE
-
-HONDURAS.- Tegucigalpa, M.D.C., 04 de marzo del año 2022. CONSIDERANDO: Que la Administración Aduanera es una entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica porpia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la República de Honduras, creada según lo preceptuado en el artículo 195 del Decreto Legislativo número 170- 2016, contentivo del Código Tributario, aprobado el quince
+HONDURAS.- Tegucigalpa, M.D.C., 04 de marzo del año 2022. CONSIDERANDO: Que la Administración Aduanera es una entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica porpia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la República de Honduras, creada según lo preceptuado en el artículo 195 del Decreto Legislativo número 170-2016, contentivo del Código Tributario, aprobado el quince
 
 (15) de diciembre del dos mil dieciséis (2016) y publicado en el Diario Oficial “La Gaceta” el veintiocho (28) de diciembre de dos mil dieciséis (2016). CONSIDERANDO:
 
@@ -89,15 +87,13 @@ CONSIDERANDO: Que el Código Tributario en su artículo 197 numeral 1) establece
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 199 numeral 6) señala que son atribuciones de la Dirección Ejecutiva de la Administración Aduanera aprobar los acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones; así como los relacionados con la implementación de los reglamentos de la materia tributaria y aduanera, según corresponda.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No.005-2020 de fecha trece (13) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprobó el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; reformado mediante Acuerdo ADUANAS-DE-025-2021 de fecha 09 de septiembre del dos mil veintiuno, publicado en el Diario Oficial La Gaceta en fecha en fecha 13 de diciembre de 2021 No. 35,796. CONSIDERANDO: Que las normas y medidas establecidas en dicho Régimen deben ser adecuadas conforme a las necesidades actuales de la Institución, en aras de una mejor gestión administrativa, por medio del cual se logran los objetivos institucionales que se traducen en beneficio del Estado de Honduras, en apego a los más altos valores éticos y morales.CONSIDERANDO:
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No. 005-2020 de fecha trece (13) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprobó el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; reformado mediante Acuerdo ADUANAS-DE-025-2021 de fecha 09 de septiembre del dos mil veintiuno, publicado en el Diario Oficial La Gaceta en fecha en fecha 13 de diciembre de 2021 No. 35,796. CONSIDERANDO: Que las normas y medidas establecidas en dicho Régimen deben ser adecuadas conforme a las necesidades actuales de la Institución, en aras de una mejor gestión administrativa, por medio del cual se logran los objetivos institucionales que se traducen en beneficio del Estado de Honduras, en apego a los más altos valores éticos y morales.CONSIDERANDO:
 
 Que el recurso humano de la Administración Aduanera constituye el recurso más valioso de la organización, por medio del cual se logran los objetivos institucionales a beneficio del Estado de Honduras, en apego a los más altos valores éticos y morales, procurando que mediante su Régimen Laboral se instituya una carrera administrativa que permita una adecuada administración del talento humano en el desempeño de la función pública, un sistema de remuneración justo, la gestión y el desarrollo institucional.
 
 POR TANTO: Con fundamento en los artículos 321 de la Constitución de la República; 116, 118 numeral 2, 119 y 122 de la Ley General de la Administración Pública; 195 y 197 del Código Tributario, Ley de Procedimiento Administrativo, Código Aduanero Uniforme Centroamericano (CAUCA) y su Reglamento (RECAUCA), Ley de Aduanas, Decreto Ejecutivo PCM-059-2019; ACUERDO-ADUANAS-DENo. 005-2020; y, sus reformas contenidas en el ACUERDO No. ADUANAS-DE-025-2021. ACUERDA: PRIMERO:
 
-REFORMAR por adición los Artículos 5 y 6 del Acuerdo ADUANAS-DE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020) y sus reformas contenidas en el ACUERDO No. ADUANAS-DE-025-2021 de fecha 09 de septiembre de 2021 y publicado en el Diario Oficial La Gaceta No.
-
-35,796 en fecha 13 de diciembre de 2021, contentivo del Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; los cuales deberán leerse se la siguiente manera: “Artículo 5. Se excluyen de la aplicación de este régimen, en cuanto a la estabilidad en sus cargos por considerarse de libre nombramiento y remoción, los siguientes funcionarios o servidores de confianza:
+REFORMAR por adición los Artículos 5 y 6 del Acuerdo ADUANAS-DE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020) y sus reformas contenidas en el ACUERDO No. ADUANAS-DE-025-2021 de fecha 09 de septiembre de 2021 y publicado en el Diario Oficial La Gaceta No. 35,796 en fecha 13 de diciembre de 2021, contentivo del Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras; los cuales deberán leerse se la siguiente manera: “Artículo 5. Se excluyen de la aplicación de este régimen, en cuanto a la estabilidad en sus cargos por considerarse de libre nombramiento y remoción, los siguientes funcionarios o servidores de confianza:
 
 a) El (la) Director(a) Ejecutivo(a);
 

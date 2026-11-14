@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 162-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201207-35452/download"
 extraido: "2026-11-14"
-huella: "b587adce3143b82e"
+huella: "2c06e24ed98fe2f6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 162-2020
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -65,7 +65,7 @@ ARTÍCULO 1.- La presente Ley es de interés público y tiene como propósito ga
 
 #### Artículo 2
 
-ARTÍCULO 2.- Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL), para que proceda a la adquisición de vacunas contra el virus SAR-COV-2 que produce la enfermedad COVID-19, a través del Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud OPS/OMS y asegurar su disponibilidad en cantidad suficiente para toda la población, de conformidad a lo establecido en la Ley de Vacunas de la República de Honduras, contenida en Decreto No.288-2013 de fecha 13 de Enero del 2014, publicada en el Diario Oficial “La Gaceta” de fecha 26 de Marzo del 2014, en la Edición No.33,389, e incorporarla al Esquema Nacional de Vacunación a través del Programa Ampliado de Inmunizaciones (PAI).
+ARTÍCULO 2.- Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL), para que proceda a la adquisición de vacunas contra el virus SAR-COV-2 que produce la enfermedad COVID-19, a través del Fondo Rotatorio de Vacunas de la Organización Panamericana de la Salud OPS/OMS y asegurar su disponibilidad en cantidad suficiente para toda la población, de conformidad a lo establecido en la Ley de Vacunas de la República de Honduras, contenida en Decreto No. 288-2013 de fecha 13 de Enero del 2014, publicada en el Diario Oficial “La Gaceta” de fecha 26 de Marzo del 2014, en la Edición No. 33,389, e incorporarla al Esquema Nacional de Vacunación a través del Programa Ampliado de Inmunizaciones (PAI).
 
 #### Artículo 3
 
@@ -89,7 +89,7 @@ ARTÍCULO 7.- La empresa farmacéutica que contrate el Instituto Hondureño de S
 
 #### Artículo 8
 
-ARTÍCULO 8.- El Instituto Hondureño de Seguridad Social (IHSS), en todo lo no previsto en la presente Ley, debe regularlo para el caso en específico del Instituto Hondureño de Seguridad Social (IHSS) conforme a lo establecido en la Ley de Vacunas de la República de Honduras, contenida en el Decreto Legislativo No.288-2013 de fecha 13 de Enero del 2014, publicada en el Diario Oficial “La Gaceta” de fecha 26 de Marzo del 2014, en la Edición No.33,389.
+ARTÍCULO 8.- El Instituto Hondureño de Seguridad Social (IHSS), en todo lo no previsto en la presente Ley, debe regularlo para el caso en específico del Instituto Hondureño de Seguridad Social (IHSS) conforme a lo establecido en la Ley de Vacunas de la República de Honduras, contenida en el Decreto Legislativo No. 288-2013 de fecha 13 de Enero del 2014, publicada en el Diario Oficial “La Gaceta” de fecha 26 de Marzo del 2014, en la Edición No. 33,389.
 
 #### Artículo 9
 

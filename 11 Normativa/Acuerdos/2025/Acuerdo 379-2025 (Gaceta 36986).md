@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ejecutivos Números 379-2025, 380-2025, 381-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251106-36986/download"
 extraido: "2026-11-09"
-huella: "374bdfb71661b20b"
+huella: "35f45aa9c6998376"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 379-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la suprema di
 
 CONSIDERANDO: Que el artículo 248 de la Constitución de la República en su párrafo primero establece, que los decretos, reglamentos, acuerdos, órdenes y providencias de la Presidenta de la República, deberán ser autorizadas por los Secretarios de Estado en sus respectivos ramos o por los Subsecretarios en su caso. Sin estos requisitos no tendrá fuerza legal.
 
-CONSIDERANDO: Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+CONSIDERANDO: Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -79,7 +79,7 @@ Presidenta de la República de Honduras
 
 ROSA ELIZABETH RIVERA HENRÍQUEZ
 
-Subsecretaria de Finanzas y Presupuesto Acuerdo No.176-2022 / Acuerdo No.626-2024
+Subsecretaria de Finanzas y Presupuesto Acuerdo No. 176-2022 / Acuerdo No. 626-2024
 
 ## Fuente
 

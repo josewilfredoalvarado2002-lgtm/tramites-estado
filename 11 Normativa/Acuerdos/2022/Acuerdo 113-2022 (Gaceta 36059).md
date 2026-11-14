@@ -11,7 +11,7 @@ paginas: "A. 29"
 sumario: "Acuerdos Ministeriales Nos. 099-2022, 100-2022, 101-2022, 102-2022, 103-2022, 104-2022, 105-2022, 106-2022, 107-2022, 108-2022, 112-2022, 113-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "b236544cdff669ec"
+huella: "28a28fd6c3ee208b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 113-2022
@@ -41,9 +41,7 @@ CONSIDERANDO: El superior podrá delegar el ejercicio de sus funciones para asun
 
 CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para éste en materia procedimental.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-055-2021 de fecha 23 de septiembre del 2021, se nombró a la ciudadana NANCY JULISSA ROMERO REYES en el puesto de puesto Director Legal de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 055-2021 de fecha 23 de septiembre del 2021, se nombró a la ciudadana NANCY JULISSA ROMERO REYES en el puesto de puesto Director Legal de esta Secretaría de Estado.
 
 POR TANTO:
 

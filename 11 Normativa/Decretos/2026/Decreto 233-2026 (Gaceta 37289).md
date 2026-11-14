@@ -11,7 +11,7 @@ paginas: "A. 15 - 17"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "9f51fd14711221ca"
+huella: "861d26175145abd1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 233-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el artículo 205, atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 37 - 48"
 sumario: "Acuerdos Nos. 01-2026, 02-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260716-37195/download"
 extraido: "2026-11-09"
-huella: "247808b0ffd9e326"
+huella: "714d8328eedc85dd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 02-2026
@@ -27,11 +27,9 @@ huella: "247808b0ffd9e326"
 
 ## Texto
 
-CONSIDERANDO (1): Que mediante Decreto No. 181- 2006 de fecha 29 de noviembre del 2006, el Soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 del 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha, como una entidad de derecho público y adscrita administrativamente a la Secretaría de Estado en Despacho de Finanzas.
+CONSIDERANDO (1): Que mediante Decreto No. 181-2006 de fecha 29 de noviembre del 2006, el Soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 del 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha, como una entidad de derecho público y adscrita administrativamente a la Secretaría de Estado en Despacho de Finanzas.
 
-CONSIDERANDO (2): Que en el marco de la Ley General de la Administración Pública contenida en el Decreto No.
-
-146-86 y la Ley constitutiva de la Zona Libre Turística del Departamento de Islas de la Bahía, bajo el principio de libre nombramiento y remoción para cargos de confianza dentro de la Administración Pública Centralizada, en virtud de la relación de confianza política y administrativa que existe con la autoridad nominadora, se faculta a la Comisión Administradora de la Zona Libre Turística del Departamento, nombrar y remover a los funcionarios de confianza, en el marco de su ley Constitutiva.
+CONSIDERANDO (2): Que en el marco de la Ley General de la Administración Pública contenida en el Decreto No. 146-86 y la Ley constitutiva de la Zona Libre Turística del Departamento de Islas de la Bahía, bajo el principio de libre nombramiento y remoción para cargos de confianza dentro de la Administración Pública Centralizada, en virtud de la relación de confianza política y administrativa que existe con la autoridad nominadora, se faculta a la Comisión Administradora de la Zona Libre Turística del Departamento, nombrar y remover a los funcionarios de confianza, en el marco de su ley Constitutiva.
 
 CONSIDERANDO (3): Que es facultad de la Comisión Administradora de la Zona Libre Turística del Departamento de Islas de la Bahía, adoptar las medidas administrativas necesarias para garantizar el adecuado funcionamiento institucional y el cumplimiento de los fines para los cuales fue creada la entidad.
 
@@ -85,7 +83,7 @@ Resultando:
 
 I.
 
-Que mediante Decreto No.404-2013, publicado en el Diario Oficial La Gaceta el veinte (20) de mayo del dos mil catorce (2014), fue aprobada la Ley General de la Industria Eléctrica (LGIE); la cual fue reformada mediante Decretos Legislativos 61-2020, 02-2022 y 46-2022.
+Que mediante Decreto No. 404-2013, publicado en el Diario Oficial La Gaceta el veinte (20) de mayo del dos mil catorce (2014), fue aprobada la Ley General de la Industria Eléctrica (LGIE); la cual fue reformada mediante Decretos Legislativos 61-2020, 02-2022 y 46-2022.
 
 II.
 
@@ -127,7 +125,7 @@ En consecuencia, recomendaron a la CREE aprobar, de forma transitoria, el proced
 
 Considerando:
 
-Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No.404-2013, publicado en el Diario Oficial “La Gaceta”el veinte (20) de mayo de dos mil catorce (2014), y reformada mediante Decretos Legislativos números 61-2020, 02-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta”el veinte (20) de mayo de dos mil catorce (2014), y reformada mediante Decretos Legislativos números 61-2020, 02-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE), el Estado supervisará la operación del Subsector Eléctrico através de la Comisión Reguladora de Energía Eléctrica (CREE).
 
@@ -205,7 +203,7 @@ PEMT es la tarifa de excedentes por pagar a los Usuarios Autoproductores por la 
 
 SEGUNDO: Aprobar que para efectos del primer ajuste trimestral que realizará la Empresa Nacional de Energía Eléctrica (ENEE) a la tarifa transitoria de usuarios autoproductores residenciales y comerciales, las disposiciones siguientes:
 
-i. Presentar la documentación necesaria para realizar el ajuste a más tardar un día antes del 18 de julio de dos mil veintiséis (2026). Lo anterior dado que en dicho plazo corresponde practicar el primer ajuste trimestral, envista que en fecha 18 de abril de dos mil veintiséis (2026) se publicó en el Diario Oficial “La Gaceta” el Acuerdo CREE- 24-2026 contentivo de la aprobación de la tarifa transitoria de usuarios autoproductores residenciales y comerciales y disposiciones sobre facturación que la Empresa Nacional de Energía Eléctrica (ENEE) aplicará por remuneración de inyecciones de energía renovable. ii.
+i. Presentar la documentación necesaria para realizar el ajuste a más tardar un día antes del 18 de julio de dos mil veintiséis (2026). Lo anterior dado que en dicho plazo corresponde practicar el primer ajuste trimestral, envista que en fecha 18 de abril de dos mil veintiséis (2026) se publicó en el Diario Oficial “La Gaceta” el Acuerdo CREE-24-2026 contentivo de la aprobación de la tarifa transitoria de usuarios autoproductores residenciales y comerciales y disposiciones sobre facturación que la Empresa Nacional de Energía Eléctrica (ENEE) aplicará por remuneración de inyecciones de energía renovable. ii.
 
 Al realizar el cálculo del ajuste trimestral, deberá realizar el cálculo del costo evitado de energía considerando los costos medios de energía de participación de las plantas fotovoltaicas correspondientes a los meses de diciembre de 2025, así como enero, febrero, marzo, abril y mayo de 2026, tanto para el mercado de contratos como para el mercado de oportunidad.
 

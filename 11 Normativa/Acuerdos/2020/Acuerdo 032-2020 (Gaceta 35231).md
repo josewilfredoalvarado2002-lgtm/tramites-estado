@@ -11,7 +11,7 @@ paginas: "A. 12 - 13"
 sumario: "Acuerdo Ministerial No. 029-2020Acuerdo Ministerial número 031-2020, 032-2020, 034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200421-35231/download"
 extraido: "2026-11-14"
-huella: "27e8013b9a78a5a7"
+huella: "8df24d7499de4b6c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 032-2020
@@ -45,15 +45,13 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero
 
 CONSIDERANDO: Que la situación que se ha presentado en el mundo y ya con la confirmación de casos de coronavirus en Honduras, el Gobierno declaró estado de emergencia sanitaria en todo el territorio nacional; dicha emergencia sanitaria tiene como propósito fortalecer las acciones de prevención, control y garantizar la atención a las personas que están padeciendo de COVID-19; razón por la cual es necesaria la reorientación de recursos consignados actualmente en el Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 para cubrir los insumos, materiales, suministros y todos los gastos necesarios para hacer frente a la emergencia declarada
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 025-2020 de fecha 28 de marzo del año 2020, la Secretaría de Estado en el Despacho de Desarrollo Económico conformará un Equipo Técnico de Alto Nivel que estará liderado por un Subsecretario de Estado.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-025-2020 de fecha 28 de marzo del año 2020, la Secretaría de Estado en el Despacho de Desarrollo Económico conformará un Equipo Técnico de Alto Nivel que estará liderado por un Subsecretario de Estado.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-028-2020 de fecha 04 de abril del año 2020, ratificó en Sesión Extraordinaria celebrada en fecha 02 de abril, 2020, los Decretos Ejecutivos Números PCM-021-2020, PCM- 022-2020 y PCM-026-2020, contentivos de la restricción de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, mediante Decreto Legislativo No. 32-2020, publicado en el Diario Oficial “La Gaceta”, número 35,217, en fecha 03 de abril del 2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-028-2020 de fecha 04 de abril del año 2020, ratificó en Sesión Extraordinaria celebrada en fecha 02 de abril, 2020, los Decretos Ejecutivos Números PCM-021-2020, PCM-022-2020 y PCM-026-2020, contentivos de la restricción de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, mediante Decreto Legislativo No. 32-2020, publicado en el Diario Oficial “La Gaceta”, número 35,217, en fecha 03 de abril del 2020.
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que la Ley le confiere y en aplicación de los Artículos 321 de la Constitución de la República; 7, 36 numeral 8), 118 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020; Decreto Ejecutivo PCM-025- 2020 de fecha 28 de marzo del año 2020 y Decreto Ejecutivo No. PCM-028-2020 de fecha 04 de abril del año 2020.
+La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que la Ley le confiere y en aplicación de los Artículos 321 de la Constitución de la República; 7, 36 numeral 8), 118 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020; Decreto Ejecutivo PCM-025-2020 de fecha 28 de marzo del año 2020 y Decreto Ejecutivo No. PCM-028-2020 de fecha 04 de abril del año 2020.
 
 ACUERDA:
 

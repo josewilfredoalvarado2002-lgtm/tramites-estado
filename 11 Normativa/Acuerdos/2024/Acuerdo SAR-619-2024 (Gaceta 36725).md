@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Acuerdo No. SAR-619-2024, SAR-633-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241227-36725/download"
 extraido: "2026-11-14"
-huella: "ddd892c675c36e96"
+huella: "5ea8d85a87ef6a6b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-619-2024
@@ -31,17 +31,13 @@ Tegucigalpa, M.D.C., 16 de diciembre de 2024 LA DIRECTORA EJECUTIVA DEL SERVICIO
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el artículo 195 del Decreto No. 170- 2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que en el Artículo 199 del Decreto en mención, se establecen las atribuciones de la Dirección Ejecutiva del Servicio de Administración de Rentas (SAR), tales como: 1) Ejercer la representación legal, administración general, dirección y manejo de la institución; 10) Celebrar los actos que sean de su competencia; y, 13) Las demás funciones que le confieran el Código Tributario y las leyes aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 202-2024 de fecha 11 de septiembre del 2024, se nombró a la ciudadana ROSA MARIANA RÍOS MUNGUÍA en el cargo de Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-202-2024 de fecha 11 de septiembre del 2024, se nombró a la ciudadana ROSA MARIANA RÍOS MUNGUÍA en el cargo de Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que el Artículo 198 numerales 12) y
 
@@ -61,7 +57,7 @@ CONSIDERANDO: Que el Artículo 9 del Decreto 189-2004 contentivo de la Ley Sobre
 
 CONSIDERANDO: Que el Artículo 45 del Decreto No. 194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Administración Tributaria para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-236- 2024 de fecha 10 de mayo del 2024, se aprobó el Formulario “535 - Informe de Estado de Situación Financiera”, que debe presentarse a través de la Oficina Virtual como única modalidad, siendo este complemento de la Declaración Jurada del Impuesto Sobre la Renta en lo que se refiere a las empresas mercantiles, en el cual se deberá informar lo contenido en el Balance General y Cuadros de Ganancias y Pérdidas.
+CONSIDERANDO: Que mediante Acuerdo No. SAR-236-2024 de fecha 10 de mayo del 2024, se aprobó el Formulario “535 - Informe de Estado de Situación Financiera”, que debe presentarse a través de la Oficina Virtual como única modalidad, siendo este complemento de la Declaración Jurada del Impuesto Sobre la Renta en lo que se refiere a las empresas mercantiles, en el cual se deberá informar lo contenido en el Balance General y Cuadros de Ganancias y Pérdidas.
 
 CONSIDERANDO: Que los Artículos 116 y 122 de la Ley General de la Administración Pública establecen que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones y Providencias, debiendo ser firmados por el titular del órgano que los emite.
 

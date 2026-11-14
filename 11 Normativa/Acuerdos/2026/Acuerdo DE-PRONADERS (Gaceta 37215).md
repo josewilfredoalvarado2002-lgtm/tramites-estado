@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Acuerdo No. DE-PRONADERS 000-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260808-37215/download"
 extraido: "2026-11-09"
-huella: "dcffaedfd9eb670c"
+huella: "e6f535f74b8a2ec1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. DE-PRONADERS 000-2026
@@ -71,9 +71,7 @@ ACUERDA:
 
 #### Artículo 1
 
-Artículo 1: Derogar el Manual Operativo de PRONADERS, aprobado mediante ACUERDO No.
-
-DE-PRONADERS-002-2011, publicado el 20 de diciembre del 2011 en el Diario Oficial de la República “La Gaceta” número 32,714.
+Artículo 1: Derogar el Manual Operativo de PRONADERS, aprobado mediante ACUERDO No. DE-PRONADERS-002-2011, publicado el 20 de diciembre del 2011 en el Diario Oficial de la República “La Gaceta” número 32,714.
 
 #### Artículo 2
 
@@ -85,7 +83,7 @@ El Programa Nacional de Desarrollo Rural Sostenible (PRONADERS), fue creado medi
 
 Asimismo, en la ley de Ordenamiento Territorial contenida en el Decreto No. 180-2003 se definió el término “Desarrollo Sostenible” como proceso sistematizado del Estado para alcanzar el bienestar humano inclusivo y distributivo, aplicando acciones de crecimiento equitativo sin generar degradación del ambiente, por lo que el actuar del PRONADERS deberá desarrollarse en zonas pobres indistintamente de su ubicación, ya sea rural o urbana.
 
-Por todo lo anteriormente expuesto, se reforma la Ley para el Desarrollo Rural Sostenible publicado el 8 de noviembre de 2011, mediante el Decreto No. 137-2011, que modifica la Ley para el Desarrollo Rural Sostenible de fecha 7 de marzo del 2000. El Decreto 137- 2011, crea el Programa Nacional de Desarrollo Rural y Urbano Sostenible como una sola institución, el cual se conocerá con las siglas de PRONADERS, como un organismo desconcentrado de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), con autonomía técnica, administrativa y financiera.
+Por todo lo anteriormente expuesto, se reforma la Ley para el Desarrollo Rural Sostenible publicado el 8 de noviembre de 2011, mediante el Decreto No. 137-2011, que modifica la Ley para el Desarrollo Rural Sostenible de fecha 7 de marzo del 2000. El Decreto 137-2011, crea el Programa Nacional de Desarrollo Rural y Urbano Sostenible como una sola institución, el cual se conocerá con las siglas de PRONADERS, como un organismo desconcentrado de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), con autonomía técnica, administrativa y financiera.
 
 El PRONADERS, en general, tendrá a su cargo la promoción, coordinación, facilitación, ejecución y regulación de proyectos y actividades dentro del marco legal de actuación a fin de hacer eficiente y coordinado el desarrollo rural y urbano sostenible. Además, el PRONADERS desarrollará las políticas y estrategias adoptadas por el Estado como modelo de desarrollo integrador y armonizador de las actividades que promuevan el nuevo enfoque de la organización rural y urbana; focalizará su intervención en comunidades con mayor vulnerabilidad; asimismo regulará los procesos multisectoriales del desarrollo rural y urbano del país de conformidad a las políticas sociales que establezca la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y a lo contemplado dentro del Plan de Gobierno en su estrategia Manos a la Tierra: Política para la Competitividad y la Sostenibilidad del Sector Agroindustrial de Honduras, con una perspectiva de incentivos fiscales, desregulación burocrática, apalancamiento de la generación de cadenas de valor, provisión de soluciones logística viales y portuarias para que la agroindustria hondureña sea más productiva, competitiva y, a la vez, exportable, teniendo en el centro a nuestro Pueblo, nuestros productos.
 

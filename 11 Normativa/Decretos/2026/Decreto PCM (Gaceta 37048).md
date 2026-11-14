@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 002-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260120-37048/download"
 extraido: "2026-11-09"
-huella: "1e1bc54bee88a46f"
+huella: "9d24af93fcf436dd"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 002-2026
@@ -109,7 +109,7 @@ El incumplimiento de esta disposición constituye causal suficiente para la term
 
 #### Artículo 4
 
-ARTÍCULO 4. Las acciones derivadas del presente Decreto deberán ejecutarse en armonía con el Subprograma Carreteras Democráticas, creado mediante Acuerdo Ministerial No. 0292- 2025, especialmente en lo referente a los principios rectores, mecanismos de supervisión, control técnico, procedimientos operativos y participación municipal y comunitaria.
+ARTÍCULO 4. Las acciones derivadas del presente Decreto deberán ejecutarse en armonía con el Subprograma Carreteras Democráticas, creado mediante Acuerdo Ministerial No. 0292-2025, especialmente en lo referente a los principios rectores, mecanismos de supervisión, control técnico, procedimientos operativos y participación municipal y comunitaria.
 
 La Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) deberá garantizar que el uso de la maquinaria se ajuste a los criterios de priorización establecidos en dicho Subprograma, incluyendo emergencias declaradas, solicitudes técnicas fundamentadas y disponibilidad operativa del equipo.
 

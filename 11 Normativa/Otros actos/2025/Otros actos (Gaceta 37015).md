@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-119-2025; Primer Aviso"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251210-37015/download"
 extraido: "2026-11-09"
-huella: "ca502c0f74d73aff"
+huella: "4c76a924cb503fce"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-119-2025; Primer Aviso
@@ -37,13 +37,13 @@ Resultando:
 
 1. Que el Congreso Nacional de la República aprobó el Tratado Marco del Mercado Eléctrico de América Central, su Primer y Segundo Protocolo, mediante Decretos Legislativos No. 219-98, 120-99 y 147-2007, respectivamente, todos debidamente publicados en el Diario Oficial “La Gaceta”, por su orden, en fechas diez (10) de noviembre de mil novecientos noventa y ocho (1998), veintisiete (27) de septiembre de mil novecientos noventa y nueve (1999) y veintiséis (26) de enero del dos mil ocho (2008).
 
-2. Que mediante Decreto No.404-2013 de fecha veinte
+2. Que mediante Decreto No. 404-2013 de fecha veinte
 
 (20) de enero del dos mil catorce (2014), se aprobó la Ley General de la Industria Eléctrica.
 
 3. Que mediante el Decreto Legislativo No. 46-2022 publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de mayo de dos mil veintidós (2022), se aprobó la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social.
 
-4. Que mediante el Decreto Legislativo número 46- 2022 contentivo de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho de Naturaleza Económica y Social se reformó la Ley General de la Industria Eléctrica y a su vez se declaró en emergencia nacional el subsector eléctrico.
+4. Que mediante el Decreto Legislativo número 46-2022 contentivo de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho de Naturaleza Económica y Social se reformó la Ley General de la Industria Eléctrica y a su vez se declaró en emergencia nacional el subsector eléctrico.
 
 5. Que aunado a lo anterior la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social, en su artículo 3 indica lo siguiente: “El Estado de Honduras asume la obligación de garantizar la prestación del servicio de energía eléctrica a toda la población urbana y rural, y ejercerá el control a través de la Empresa Nacional de Energía Eléctrica (ENEE) como empresa pública responsable de la generación, transmisión, distribución y comercialización, para lo cual debe seleccionar la modalidad de administración y contratación que más convenga al Estado. La Comisión Reguladora de Energía Eléctrica (CREE) operará como ente regulador”.
 

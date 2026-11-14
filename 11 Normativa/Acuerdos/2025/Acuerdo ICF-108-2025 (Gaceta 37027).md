@@ -11,7 +11,7 @@ paginas: "A. 11 - 16"
 sumario: "Acuerdos Institucionales Nos. ICF-107-2025, ICF-108-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251224-37027/download"
 extraido: "2026-11-09"
-huella: "6b04265103ef2024"
+huella: "981d786988f3f608"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-108-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de las “microcuencas denominadas: Chinagua, Pajarillos de Guares, Nogales, Pinares de Pijol, Quebrada Seca, El Naranjo, El Chorro, Río Abajo, El Águila, Palo Blanco, La Capa, La Cruz, El Cacao, El Alto, Macora, La Joya, El Encanto, Agua Caliente, Fuente de Vida y Ayapa, las cuales se localizan en la jurisdicción de los municipios de Yoro, Victoria, Morazán y Jocón, del Departamento de Yoro.
 

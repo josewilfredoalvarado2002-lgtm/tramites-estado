@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 148-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210224-35526/download"
 extraido: "2026-11-14"
-huella: "4611efb2e4d0cc79"
+huella: "cf75ca54e7f37828"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 148-2020
@@ -27,7 +27,7 @@ huella: "4611efb2e4d0cc79"
 
 ## Texto
 
-EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA, En uso de sus facultades de que está investido y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 ,de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública;
+EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA, En uso de sus facultades de que está investido y en aplicación de los artículos 235 y 245 atribuciones 5 y 11,de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública;
 
 Decreto Ejecutivo Número PCM-111-2020.
 

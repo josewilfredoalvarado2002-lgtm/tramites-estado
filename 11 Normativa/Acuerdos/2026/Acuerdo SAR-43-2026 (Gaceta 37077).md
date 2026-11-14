@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo número SAR-43-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260223-37077/download"
 extraido: "2026-11-09"
-huella: "a7e6314c943b9c44"
+huella: "edacf2000699df14"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-43-2026
@@ -69,9 +69,7 @@ El Servicio de Administración de Rentas, en uso de las facultades que la Ley le
 
 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo;
 
-Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No.
-
-044-2026; Acuerdo No. SAR-526-2022; y, Acuerdo Ejecutivo No. SETRASS-109-2024.
+Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No. 044-2026; Acuerdo No. SAR-526-2022; y, Acuerdo Ejecutivo No. SETRASS-109-2024.
 
 ACUERDA:
 

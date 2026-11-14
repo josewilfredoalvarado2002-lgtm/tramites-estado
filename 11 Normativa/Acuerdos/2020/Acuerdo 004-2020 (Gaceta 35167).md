@@ -11,7 +11,7 @@ paginas: "A. 7 - 20"
 sumario: "Acuerdos DGMM Nos.001-2020, 003-2020, 004/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200205-35167/download"
 extraido: "2026-11-14"
-huella: "1b3f50c15a2dcb83"
+huella: "47b88a7967162de4"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 004/2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante, en su Artículo 5, Num
 
 CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante, en su Artículo 92, numerales 4, 6, 12, 13, 20, 21, 26, 27, 28 reformados, establece como atribuciones de esta Dirección General dirigir y controlar actividades relacionadas con la lucha contra la contaminación marina desde buques y artefactos navales, así como desde fuentes terrestres en caso de derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas; autorizar y controlar las actividades de dragado, relleno, vertimiento y demás obras de ingeniería oceánica; regular, autorizar y controlar la construcción y el uso de las estructuras artificiales que se levanten en las aguas sometidas a la jurisdicción de Honduras, incluyendo estructuras destinadas a la explotación de la plataforma continental, islas artificiales y muelles de instalaciones portuarias que hayan sido habilitadas por la autoridad competente; regular y controlar la seguridad de la navegación y la protección del medio marino; proponer, coordinar y ejecutar las políticas y estrategias marítimas del Estado de Honduras; autorizar, regular y supervisar las actividades de la industria marítima auxiliar; autorizar, regular e inscribir empresas que realizan actividades relacionadas con el sector marítimo; coordinar la implementación y actualización del Plan Nacional de Contingencia ante Derrames de Hidrocarburos y Sustancias Nocivas y Potencialmente Peligrosas en el medio acuático de Honduras; autorizar los planes de contingencia locales de las instalaciones portuarias, empresas dedicadas a la importación y exportación de las referidas sustancias, así como de las Corporaciones Municipales;
 
-POR TANTO, La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere y en aplicación de los artículos: 1, 5, 91 y 92 de la Ley Orgánica de la Marina Mercante y su reforma mediante Decreto Legislativo No. 120- 2016; 41, 43, 116 y 118 de la Ley General de la Administración Pública y demás artículos aplicables.
+POR TANTO, La Dirección General de la Marina Mercante, en uso de las facultades que la Ley le confiere y en aplicación de los artículos: 1, 5, 91 y 92 de la Ley Orgánica de la Marina Mercante y su reforma mediante Decreto Legislativo No. 120-2016; 41, 43, 116 y 118 de la Ley General de la Administración Pública y demás artículos aplicables.
 
 ACUERDA aprobar el siguiente:
 
@@ -125,7 +125,7 @@ Plan de gestión de desechos provenientes de buques:
 
 Instrumento contentivo de los procedimientos de descarga, tratamiento, manejo, transporte y disposición final de los desechos provenientes de los buques de navegación internacional, de acuerdo a lo establecido en el Convenio MARPOL, establecido con el objetivo de que dichas actividades se realicen de manera segura, tanto para quienes lo desarrollan, como para el ambiente marino y terrestre, en cumplimiento con el marco legal nacional e internacional vigente.
 
-Plan local de contingencias: Instrumento con el que deben contar las empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, elaborado de acuerdo a lo establecido en la Resolución 123- 2017 y el cual debe ser aprobado por la Dirección General de la Marina Mercante.
+Plan local de contingencias: Instrumento con el que deben contar las empresas con riesgo de derrames de hidrocarburos y otras sustancias nocivas y potencialmente peligrosas, elaborado de acuerdo a lo establecido en la Resolución 123-2017 y el cual debe ser aprobado por la Dirección General de la Marina Mercante.
 
 Plan de manejo de área protegida: Instrumento de planificación y ordenamiento espacial que define la gestión y conservación de los recursos de un área protegida, el cual contiene las directrices, lineamientos y políticas para su administración, modalidades de manejo, asignaciones de usos, zonificación, objetivos de gestión, estrategia y actividades permitidas en base a un diagnóstico.
 
@@ -283,7 +283,7 @@ Artículo 17.- En el caso de acaecer un episodio de contaminación por derrame d
 
 #### Artículo 18
 
-Artículo 18.- Las solicitudes ingresadas a esta Dirección General, relativas a actividades u obras a las que les aplica el proceso de licenciamiento ambiental, serán analizadas e inspeccionadas por un oficial técnico ambiental de este Departamento de Protección del Medio Marino, dentro del Sistema Nacional de Evaluación de Impacto Ambiental (SINEIA) que se instala previo a la emisión de dicho permiso y que es convocado por la Secretaría de Recursos Naturales y Ambiente, de acuerdo a lo establecido en el Acuerdo 008- 2015, relativo al Reglamento del SINEIA.
+Artículo 18.- Las solicitudes ingresadas a esta Dirección General, relativas a actividades u obras a las que les aplica el proceso de licenciamiento ambiental, serán analizadas e inspeccionadas por un oficial técnico ambiental de este Departamento de Protección del Medio Marino, dentro del Sistema Nacional de Evaluación de Impacto Ambiental (SINEIA) que se instala previo a la emisión de dicho permiso y que es convocado por la Secretaría de Recursos Naturales y Ambiente, de acuerdo a lo establecido en el Acuerdo 008-2015, relativo al Reglamento del SINEIA.
 
 #### Artículo 19
 

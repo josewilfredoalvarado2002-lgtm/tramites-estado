@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-23-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260401-37109/download"
 extraido: "2026-11-09"
-huella: "c517680f204d5032"
+huella: "ae50abc1370eb934"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-23-2026.
@@ -67,7 +67,7 @@ VIII . Que mediante oficio número GGENEE-216-03-2026 de fecha treinta (30) de m
 
 IX.
 
-Que, mediante oficio número GD-085-02-2026, de fecha veinticinco (25) de febrero de dos mil veintiséis (2026), el representante del Centro Nacional de Despacho (CND) remitió a la Comisión Reguladora de Energía Eléctrica (CREE) la información relativa a los Costos Base de Generación (CBG) correspondientes al mes de enero del año dos mil veintiséis (2026), identificada como LT-02-2026. En atención a lo anterior, la Comisión Reguladora de Energía Eléctrica (CREE) efectuó diversos requerimientos con el objeto de aclarar aspectos relacionados con el monto adicional reportado, correspondiente a facturas del año 2025, vinculadas a los Contratos de Suministro de Potencia y Energía No. 007-2014; 008-2014; 015- 2014; y, 049-2008.
+Que, mediante oficio número GD-085-02-2026, de fecha veinticinco (25) de febrero de dos mil veintiséis (2026), el representante del Centro Nacional de Despacho (CND) remitió a la Comisión Reguladora de Energía Eléctrica (CREE) la información relativa a los Costos Base de Generación (CBG) correspondientes al mes de enero del año dos mil veintiséis (2026), identificada como LT-02-2026. En atención a lo anterior, la Comisión Reguladora de Energía Eléctrica (CREE) efectuó diversos requerimientos con el objeto de aclarar aspectos relacionados con el monto adicional reportado, correspondiente a facturas del año 2025, vinculadas a los Contratos de Suministro de Potencia y Energía No. 007-2014; 008-2014; 015-2014; y, 049-2008.
 
 X.
 
@@ -83,11 +83,9 @@ Que en fecha treinta y uno (31) de marzo de dos mil veintiséis (2026) la Direcc
 
 Tomando en consideración lo siguiente:
 
-i. Que los costos asociados a los contratos No.
+i. Que los costos asociados a los contratos No. 063-2011 y 083-2014 se encuentran en análisis por esta Dirección de Asesoría Jurídica. ii.
 
-063-2011 y 083-2014 se encuentran en análisis por esta Dirección de Asesoría Jurídica. ii.
-
-Que conforme con la documentación acreditada por parte del Centro Nacional de Despacho (CND) corresponde aprobar el traslado del complemento del pago de las facturas correspondientes a los contratos No. 007-2014; 008-2014; 015-2014 y 049- 2008, detalladas en el presente dictamen.
+Que conforme con la documentación acreditada por parte del Centro Nacional de Despacho (CND) corresponde aprobar el traslado del complemento del pago de las facturas correspondientes a los contratos No. 007-2014; 008-2014; 015-2014 y 049-2008, detalladas en el presente dictamen.
 
 Por otra parte, se recomienda a la Secretaría General de la Empresa Nacional de Energía Eléctrica (ENEE) que presente el comprobante de pago correspondiente a las actas de conciliación referidas en las modificaciones de los contratos de suministro aprobadas mediante el Decreto No. 03-2025. Lo anterior, en virtud de que dicha información ha sido requerida en reiteradas ocasiones, habiéndose acreditado únicamente ciertos comprobantes. En caso de no haberse efectuado dicho pago, deberá indicarse el motivo por el cual se ha venido reportando ante esta Comisión Reguladora de Energía Eléctrica (CREE) el precio de los contratos renegociados”.
 

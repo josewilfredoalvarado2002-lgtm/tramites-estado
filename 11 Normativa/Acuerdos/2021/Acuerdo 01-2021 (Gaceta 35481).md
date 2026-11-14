@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Acuerdo número 01-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210108-35481/download"
 extraido: "2026-11-14"
-huella: "acdc44dff064d4e5"
+huella: "6d92c08e359f7a1f"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 01-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que son funciones de los Subsecretarios de Estado decidir sobre lo
 
 CONSIDERANDO: Que la Ley de Procedimiento Administrativo establece que “El órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior y que en defecto de disposición legal, el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al Ramo de la Administración de que forman parte el superior y el inferior y que el acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado, podrá contener instrucciones obligatorias para éste, en materia procedimental”.
 
-CONSIDERANDO: Que los órganos administrativos desarrollarán su actividad sujetándose a la jerarquía de la normativa establecida en el artículo 7 de la Ley de General de la Administración Pública y con arreglo a las normas de economía , celeridad y eficacia a fin de lograr una pronta y efectiva satisfacción del interés general.
+CONSIDERANDO: Que los órganos administrativos desarrollarán su actividad sujetándose a la jerarquía de la normativa establecida en el artículo 7 de la Ley de General de la Administración Pública y con arreglo a las normas de economía, celeridad y eficacia a fin de lograr una pronta y efectiva satisfacción del interés general.
 
 CONSIDERANDO: Que los actos de los órganos de la administración adoptarán la forma decretos, acuerdos, resoluciones o providencias.
 

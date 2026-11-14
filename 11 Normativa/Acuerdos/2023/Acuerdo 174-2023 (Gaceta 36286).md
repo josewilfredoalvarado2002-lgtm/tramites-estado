@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ejecutivos Nos. 171-2023, 174-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230720-36286/download"
 extraido: "2026-11-14"
-huella: "5eb079a16a85e25a"
+huella: "d08f2723f25af368"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 174-2023
@@ -55,7 +55,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los Veintinu
 
 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.- Condecorar al ciudadano JOHAN DAVID REYES CHÁVEZ, confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología. La Condecoración relacionada en el presente Artículo debe ser entregada en la fecha indicada por el Presidente del Poder Legislativo.
+DECRETA: ARTÍCULO 1.- Condecorar al ciudadano JOHAN DAVID REYES CHÁVEZ, confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología. La Condecoración relacionada en el presente Artículo debe ser entregada en la fecha indicada por el Presidente del Poder Legislativo.
 
 CENTROS DE DISTRIBUCIÓN:
 

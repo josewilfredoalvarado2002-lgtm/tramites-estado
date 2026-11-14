@@ -11,7 +11,7 @@ paginas: "A. 34 - 39"
 sumario: "Acuerdos Nos. SEDECOAS-37-2024,SEDECOAS-038-2024, SEDECOAS-039-2024, SEDECOAS-040-2024,SEDECOAS-052-2024, SEDECOAS-053-2024, SEDECOAS-056-2024,Acuerdos de Delegación Nos. SEDECOAS-035-2024, SEDECOAS-036-2024,SEDECOAS-041-2024, SEDECOAS-042-2024, SEDECOAS-044-2024,SEDECOAS-045-2024, SEDECOAS-050-2024, Acuerdos de Cancelación Nos.043-2024, SEDECOAS-047-2024,SEDECOAS-048-2024, SEDECOAS-054-2024, SEDECOAS-055-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250912-36941/download"
 extraido: "2026-11-09"
-huella: "c9d7d21d97921cb8"
+huella: "e51e39f9465ccd70"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE CANCELACIÓN No. SEDECOAS-047-2024
@@ -31,9 +31,7 @@ En la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Fra
 
 El Secretario de Estado en los Despachos de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), creada mediante Decreto Ejecutivo número PCM-056-2019 de fecha 11 de septiembre del 2019, publicado en el Diario Oficial La Gaceta número 35,047 de fecha 12 de septiembre del 2019, órgano legalmente responsable de dirigir y administrar al INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS) y el FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-12-90 de fecha 28 de febrero de 1990, publicado en el Diario Oficial “La Gaceta” No. 26,075 en fecha 02 de marzo de 1990, se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 12-90 de fecha 28 de febrero de 1990, publicado en el Diario Oficial “La Gaceta” No. 26,075 en fecha 02 de marzo de 1990, se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 13-2024 de fecha tres (03) de enero del año dos mil veinticuatro (2024), se nombra al ciudadano WARREN ILDEFONSO OCHOA ORELLANA, en el cargo de Director del FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS), con rango de Secretario de Estado, quien de manera interina también asumirá la titularidad de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS).
 
@@ -51,9 +49,7 @@ CONSIDERANDO: Que mediante ACUERDO DE DELEGACIÓN No. SEDECOAS-034-2024, de fech
 
 (02) de julio del año dos mil veinticuatro (2024), Delegar en el Abogado LUIS FERNANDO FLORES AMAYA, las funciones de coordinador de las Comisiones Evaluadoras de Concursos Públicos Nacionales (CPN) del Proyecto “CONVIVENCIA Y ESPACIOS SEGUROS PARA JÓVENES EN HONDURAS (CONVIVIR FASE III)” para que pueda firmar en conjunto con los demás miembros de la comisión: informe de evaluación, revisión y evaluación relacionado a los procesos de contratación de: 1) Analista legal; 2)Sociólogo; 3)Asistente de Subcoordinación; 4) Oficial de promoción de la juventud; 5) Asistente de supervisor de diseño de proyectos de infraestructura; 6)Diseñador y formulador de proyectos de infraestructura; 7)Experto en diseño estructural; 8) Enlace social para el municipio de El Progreso, departamento de Yoro; 9)Enlace social para el municipio de La Paz, departamento La Paz; 10) Enlace social para el municipio de Danlí, departamento de El Paraíso; 11) Enlace social para el municipio de Yoro, departamento de Yoro. Cuya delegación es efectiva a partir del dos (02) de julio del año dos mil veinticuatro (2024) hasta que concluya la evaluación de los procesos.
 
-CONSIDERANDO: Que mediante ACUERDO No.
-
-SEDECOAS-040-2024, de fecha (05) de agosto del año dos mil veinticuatro (2024), se delega firma en el Abogado LUIS FERNANDO FLORES AMAYA, las facultades para celebrar: Audiencias de Descargo, Despidos, Citaciones, Sanciones Disciplinarias, Notificación de Despido, Procedimiento Administrativo disciplinario, Amonestaciones Verbales, Amonestaciones escritas. Cuya delegación es efectiva a partir del cinco (05) de agosto del año dos mil veinticuatro (2024).
+CONSIDERANDO: Que mediante ACUERDO No. SEDECOAS-040-2024, de fecha (05) de agosto del año dos mil veinticuatro (2024), se delega firma en el Abogado LUIS FERNANDO FLORES AMAYA, las facultades para celebrar: Audiencias de Descargo, Despidos, Citaciones, Sanciones Disciplinarias, Notificación de Despido, Procedimiento Administrativo disciplinario, Amonestaciones Verbales, Amonestaciones escritas. Cuya delegación es efectiva a partir del cinco (05) de agosto del año dos mil veinticuatro (2024).
 
 CONSIDERANDO: Que mediante ACUERDO DE DELEGACIÓN No. SEDECOAS-046-2024, de fecha diecinueve (19) de septiembre del año dos mil veinticuatro (2024), se DELEGA en el Abogado LUIS FERNANDO FLORES AMAYA las funciones de Coordinador de Oferta del Concurso Público Nacional (CPN) del Proyecto “CONVIVENCIA Y ESPACIOS SEGUROS PARA JÓVENES EN HONDURAS(CONVIVIR FASE II)” para que pueda firmar en conjunto con los demás miembros de la comisión: informe de evaluación, revisión y evaluación relacionado a los procesos de contratación de: 1) CPNFHIS-21-2024 - Ingeniero Eléctrico; 2) CPN-FHIS-22-2024
 

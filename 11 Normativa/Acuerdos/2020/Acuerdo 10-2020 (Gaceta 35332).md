@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. 10/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200803-35332/download"
 extraido: "2026-11-14"
-huella: "101a4cf213c24f95"
+huella: "f401c1a9cde6c96b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.10/2020.- Sesión No.3847 del 24 de julio de
@@ -31,25 +31,25 @@ huella: "101a4cf213c24f95"
 
 CONSIDERANDO:
 
-Que el Congreso Nacional, mediante el Decreto Legislativo No.38-2020 del 30 de abril del 2020, instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No.2246, suscrito el 25 de abril de 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
+Que el Congreso Nacional, mediante el Decreto Legislativo No. 38-2020 del 30 de abril del 2020, instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No. 2246, suscrito el 25 de abril de 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
 
 CONSIDERANDO:
 
-Que el Directorio del BCH, mediante el Acuerdo No.08/2020 del 11 de junio de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño Afectadas por la Pandemia Provocada por el Covid-19, normativa aplicable para los créditos otorgados por las Instituciones Financieras Intermediarias con sus recursos propios y respaldados con recursos del Fideicomiso BCH-FG EMT.
+Que el Directorio del BCH, mediante el Acuerdo No. 08/2020 del 11 de junio de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño Afectadas por la Pandemia Provocada por el Covid-19, normativa aplicable para los créditos otorgados por las Instituciones Financieras Intermediarias con sus recursos propios y respaldados con recursos del Fideicomiso BCH-FG EMT.
 
 CONSIDERANDO:
 
-Que la Comisión Fiduciaria (Cofid) del BCH en la Sesión Ordinaria No.06/2020 del 21 de julio de 2020, oída la opinión de la Unidad Administradora de Fideicomisos, determinó modificar los artículos 8, numeral 3), 31 y 34 y los anexos I y II del Reglamento del Fondo de Garantía para la Reactivación de las EMT Afectadas por la Pandemia Provocada por el Covid-19.
+Que la Comisión Fiduciaria (Cofid) del BCH en la Sesión Ordinaria No. 06/2020 del 21 de julio de 2020, oída la opinión de la Unidad Administradora de Fideicomisos, determinó modificar los artículos 8, numeral 3), 31 y 34 y los anexos I y II del Reglamento del Fondo de Garantía para la Reactivación de las EMT Afectadas por la Pandemia Provocada por el Covid-19.
 
 POR TANTO:
 
-Con fundamento en los artículos 255, 262 y 342 de la Constitución de la República; 6 de la Ley del Banco Central de Honduras; 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 17 de Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; 2 y 3 del Decreto Legislativo No.38-2020 del 30 de abril de 2020; 24 del Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020 y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos,
+Con fundamento en los artículos 255, 262 y 342 de la Constitución de la República; 6 de la Ley del Banco Central de Honduras; 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 17 de Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; 2 y 3 del Decreto Legislativo No. 38-2020 del 30 de abril de 2020; 24 del Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020 y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los artículos 8, numeral 3), 31 y 34 y los anexos I y II del Reglamento del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño Afectadas por la Pandemia Provocada por el Covid-19, aprobado por el Directorio del BCH mediante Acuerdo No.08/2020 del 11 de junio de 2020, los cuales en adelante se leerán de la manera siguiente:
+Modificar los artículos 8, numeral 3), 31 y 34 y los anexos I y II del Reglamento del Fondo de Garantía para la Reactivación de las Empresas de Mayor Tamaño Afectadas por la Pandemia Provocada por el Covid-19, aprobado por el Directorio del BCH mediante Acuerdo No. 08/2020 del 11 de junio de 2020, los cuales en adelante se leerán de la manera siguiente:
 
 “
 
@@ -109,7 +109,7 @@ Artículo 2. Legislación Aplicable.
 
 El Fondo de Garantía para la Reactivación de las EMT afectadas por la pandemia provocada por el Covid-19 debe regirse por el presente Reglamento, el Contrato del Fideicomiso suscrito entre el Banco Central de Honduras
 
-(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
+(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
 
 #### Artículo 3
 
@@ -117,13 +117,13 @@ Artículo 3. Definiciones.
 
 a) BANCO CENTRAL DE HONDURAS (BCH):
 
-Institución que funge como fideicomitente y fideicomisario del Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la Pandemia Provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+Institución que funge como fideicomitente y fideicomisario del Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la Pandemia Provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
-b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la Pandemia Provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la Pandemia Provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
 c) BENEFICIARIO O PRESTATARIO: Empresas de Mayor Tamaño (EMT) que se han visto afectadas por la disminución de sus flujos de efectivo, derivado de las medidas restrictivas de movilización, tomadas por el Gobierno de la República para evitar la propagación DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES ABOG. THELMA LETICIA NEDA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
 
-Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL del Covid-19 y que se consideran sectores prioritarios de acuerdo con el Decreto Ejecutivo Número PCM- 030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos los establecidos en el artículo 17 de este Reglamento.
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL del Covid-19 y que se consideran sectores prioritarios de acuerdo con el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos los establecidos en el artículo 17 de este Reglamento.
 
 d) CERTIFICADO DE GARANTÍA DE COBERTURA (CGC): Instrumento jurídico accesorio y autónomo que deriva de una obligación crediticia de una Institución Financiera Intermediaria (IFI), en la cual el Fondo de Garantía administrado por el Banhprovi garantiza parcialmente ante la IFI los préstamos otorgados a las EMT de acuerdo a las condiciones detalladas en este Reglamento y que serán respaldadas con el capital del Fondo de Garantía para la Reactivación de las EMT afectadas por la pandemia provocada por el Covid-19.
 
@@ -139,7 +139,7 @@ h) CONTRATO DE FIDEICOMISO: Es el Contrato suscrito entre el BCH y el Banhprovi 
 
 i) EMPRESA DE MAYOR TAMAÑO (EMT): Para efectos de este Reglamento se denominará como Empresa de Mayor Tamaño a aquellas Personas Jurídicas con créditos comerciales, de acuerdo con las Normas para la Evaluación y Clasificación de la Cartera Crediticia emitidas por la CNBS.
 
-j) FIDEICOMISO BCH-FG EMT: Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la pandemia provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+j) FIDEICOMISO BCH-FG EMT: Fideicomiso para la Administración del Fondo de Garantía para la Reactivación de las EMT afectadas por la pandemia provocada por el Covid 19, creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
 k) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS EMT AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19 (FONDO DE GARANTÍA): Recursos patrimoniales destinados a la emisión de CGC que respaldarán parcialmente el financiamiento de créditos otorgados por la IFI participante con recursos propios a las EMT afectadas por la pandemia provocada por el Covid-19 destinados al apoyo de capital de trabajo.
 

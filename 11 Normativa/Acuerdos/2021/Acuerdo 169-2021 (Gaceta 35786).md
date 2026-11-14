@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Acuerdo No. 169-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211201-35786/download"
 extraido: "2026-11-14"
-huella: "07d1e0f08eded843"
+huella: "78e093b9ab800c19"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 169-2021
@@ -35,17 +35,13 @@ CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de 
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Secretaría de Agricultura y Ganadería, fomentar la eficiencia en el campo de la producción y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país; y es la Secretaría de Estado en el Despacho de Desarrollo Económico la Institución encargada de dirigir la Política Comercial de Honduras.
 
-CONSIDERANDO: Que en fecha 01 de agosto de 2018, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional entre la Industria de Alimentos Balanceados para Animales, representada por las empresas miembros de la Asociación Hondureña de Productores de Alimentos Balanceados para Animales (AHPROABA), la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), la Asociación Nacional de Productores de Granos (PROGRANO), Consejo Nacional Campesino (CNC), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios de Oriente Limitada (UNOPROL), por el Gobierno de la República, las Secretarías de Desarrollo Económico (SDE) y Agricultura y Ganadería (SAG), contentivo en el Acuerdo Ejecutivo No.
-
-163-2018, publicado en el Diario Oficial “La Gaceta” en fecha 19 de septiembre del 2018, modificado mediante Addendum Número Uno, implícito en el Acuerdo Ejecutivo No. 042- 2019, publicado en el Diario Oficial “La Gaceta” en fecha 11 de abril del 2019 y Addendum Número Dos, contenido en el Acuerdo Ejecutivo No.142-2019, publicado en el Diario Oficial “La Gaceta en fecha 30 de agosto de 2019.
+CONSIDERANDO: Que en fecha 01 de agosto de 2018, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional entre la Industria de Alimentos Balanceados para Animales, representada por las empresas miembros de la Asociación Hondureña de Productores de Alimentos Balanceados para Animales (AHPROABA), la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), la Asociación Nacional de Productores de Granos (PROGRANO), Consejo Nacional Campesino (CNC), el Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios de Oriente Limitada (UNOPROL), por el Gobierno de la República, las Secretarías de Desarrollo Económico (SDE) y Agricultura y Ganadería (SAG), contentivo en el Acuerdo Ejecutivo No. 163-2018, publicado en el Diario Oficial “La Gaceta” en fecha 19 de septiembre del 2018, modificado mediante Addendum Número Uno, implícito en el Acuerdo Ejecutivo No. 042-2019, publicado en el Diario Oficial “La Gaceta” en fecha 11 de abril del 2019 y Addendum Número Dos, contenido en el Acuerdo Ejecutivo No. 142-2019, publicado en el Diario Oficial “La Gaceta en fecha 30 de agosto de 2019.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, reformado mediante los Decretos Ejecutivos Números: PCM-016-2020, PCM-023-2020 y PCM-146-2020, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo ante la actual ocurrencia de infección por coronavirus (COVID-19). La Declaratoria de Emergencia a que se refiere este Decreto Ejecutivo tendrá vigencia hasta el 31 de diciembre del año 2021, misma que podrá ser prorrogada
 
 CONSIDERANDO: Que la Industria de Alimentos Balanceados para Animales ha determinado suscribir un convenio con las Asociaciones de Productores de Maíz, en apoyo al productor del campo para la compra de la producción nacional de la Cosecha 2021-2022, producto de las negociaciones de alianzas estratégicas compra venta de maíz, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 01 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 06 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 01 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 06 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 
@@ -63,7 +59,7 @@ ANTECEDENTES
 
 Que la Industria de Alimentos Balanceados para Animales y las Asociaciones de Productores de Maíz, han venido celebrando convenios de alianzas estratégicas para la compra venta de maíz producción nacional, manteniendo un mercado seguro para la comercialización y favoreciendo directamente al productor nacional.
 
-Que por el paso de las Tormentas Tropicales “ETA” e “IOTA” provocaron enormes daños a la infraestructura vial y productiva del país, configurándose en una nueva crisis humanitaria, declarándose Estado de Emergencia a Nivel Nacional mediante Decreto Ejecutivo Número PCM-109- 2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM 115-2020 y PCM 116-2020.
+Que por el paso de las Tormentas Tropicales “ETA” e “IOTA” provocaron enormes daños a la infraestructura vial y productiva del país, configurándose en una nueva crisis humanitaria, declarándose Estado de Emergencia a Nivel Nacional mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM 115-2020 y PCM 116-2020.
 
 Que a los efectos destructivos de los fenómenos naturales debemos sumar la crisis Sanitaria y Humanitaria causada por el virus del Covid-19; por lo que el país se encuentra en un estado de emergencia.
 
@@ -193,7 +189,7 @@ CAMIONES DE 5 A 10 TM (110 A 220 QQ) 4 PUNTOS EN ZIGZAG
 
 X X X
 
-X Camiones de 10 a 25 TM en adelante (220 qq a 550 qq o mas) 8 puntos en zigzag X X X X X X X X
+X Camiones de 10 a 25 TM en adelante (220 qq a 550 qq o mas) 8 puntos en zigzag XXXX XXXX
 
 1. Una vez determinadas las muestras cuyo tamaño mínimo en suma no debe ser menor de 2 kilos (4.4 lbs.) se procede a su homogenización atrás del cuarteo manual o con un equipo especial llamados Boernes para reducir su tamaño a 250 gr.
 

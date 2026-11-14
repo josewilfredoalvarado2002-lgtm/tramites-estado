@@ -8,10 +8,10 @@ gaceta_numero: 35395
 gaceta_fecha: "2020-10-09"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)|La Gaceta 35395]]"
 paginas: "A. 9 - 12"
-sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
+sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201009-35395/download"
 extraido: "2026-11-14"
-huella: "3993c4050ddfebae"
+huella: "2f578e8e1aa52de1"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-098-2020
@@ -23,7 +23,7 @@ huella: "3993c4050ddfebae"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)\|La Gaceta 35395]] del 2020-10-09 |
 | Páginas | A. 9 - 12 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
 
 ## Texto
 
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Artículo 151 de la Constitución de la República establec
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-013-2017 de fecha 04 de febrero del año 2017, publicado en el Diario Oficial La Gaceta bajo el número 34,257 en fecha 04 de febrero del año 2017, se crea el Programa Presidencial de Becas “Honduras 20/20”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-046-2017 de fecha 13 de julio de 2017, publicado en fecha 15 de julio de 2017 en el Diario Oficial “La Gaceta” se autoriza a la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) a realizar un proceso competitivo para la constitución de un Fideicomiso para la administración de fondos que provienen del canon establecido en el Artículo 5 del Decreto Legislativo 082- 2012, específicamente los valores indicados en los numerales 3 y 4 de dicho artículo. Dicho Fideicomiso será ejecutado y administrado a través del Programa Presidencial de Becas “Honduras 20/20”.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-046-2017 de fecha 13 de julio de 2017, publicado en fecha 15 de julio de 2017 en el Diario Oficial “La Gaceta” se autoriza a la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) a realizar un proceso competitivo para la constitución de un Fideicomiso para la administración de fondos que provienen del canon establecido en el Artículo 5 del Decreto Legislativo 082-2012, específicamente los valores indicados en los numerales 3 y 4 de dicho artículo. Dicho Fideicomiso será ejecutado y administrado a través del Programa Presidencial de Becas “Honduras 20/20”.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-064-2019 de fecha 15 de noviembre de 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 17 de diciembre de 2019, en su edición No. 35,126, se decretó suprimir y liquidar, la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA).
 

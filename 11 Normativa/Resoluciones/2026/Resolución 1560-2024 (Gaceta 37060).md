@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Certificación, Resolución No. 1560-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260203-37060/download"
 extraido: "2026-11-09"
-huella: "aea584b294ad3c53"
+huella: "84a2d1d7db81b95e"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1560-2024
@@ -121,7 +121,7 @@ f) Recibir avisos oportunamente de las interrupciones programadas del servicio, 
 
 ARTÍCULO 9.- Son obligaciones de los miembros (usuarios directivos): a) Conectarse en el acueducto y al sistema de saneamiento, b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura,
 
-c) Asistir puntualmente a las reuniones, d) Participar en cualquiera de las comisión que se le asigne, e) Vigilar por el buen estado de las partes del sistema, f) Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera, g) Mantener limpio los solares, pilas , letrinas y la vivienda para prevenir las enfermedades, h) Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión, i) Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta, j) Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente, k) Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+c) Asistir puntualmente a las reuniones, d) Participar en cualquiera de las comisión que se le asigne, e) Vigilar por el buen estado de las partes del sistema, f) Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera, g) Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades, h) Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión, i) Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta, j) Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente, k) Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPÍTULO IV.
 

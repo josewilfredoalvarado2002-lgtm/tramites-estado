@@ -11,7 +11,7 @@ paginas: "A. 27 - 32"
 sumario: "Acuerdo Ejecutivo Número 335-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261030-37282/download"
 extraido: "2026-11-09"
-huella: "04ecb70fc946f3db"
+huella: "df6276ec55751bcd"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 335-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que en el Acuerdo Ejecutivo Número 096-2026, contempla en el Nume
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; Decreto No.129; Decreto No. 222- 92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; y Acuerdo Ejecutivo Número 096-2026.
+En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; Decreto No. 129; Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; y Acuerdo Ejecutivo Número 096-2026.
 
 ACUERDA:
 
@@ -97,7 +97,7 @@ b) Aprobado el Informe de Compras de maíz blanco para efecto de las importacion
 
 19. OTRAS DISPOSICIONES.
 
-Es entendido que las demás condiciones establecidas en el Convenio para las Negociaciones de una Alianza Estratégica de Compra-Venta de Granos Básicos, contemplado en el Acuerdo Ejecutivo Número 096- 2026 y que no contravengan a lo acordado en el presente Addendum, continúan vigentes.
+Es entendido que las demás condiciones establecidas en el Convenio para las Negociaciones de una Alianza Estratégica de Compra-Venta de Granos Básicos, contemplado en el Acuerdo Ejecutivo Número 096-2026 y que no contravengan a lo acordado en el presente Addendum, continúan vigentes.
 
 21. ACEPTACIÓN Y RATIFICACIÓN.
 

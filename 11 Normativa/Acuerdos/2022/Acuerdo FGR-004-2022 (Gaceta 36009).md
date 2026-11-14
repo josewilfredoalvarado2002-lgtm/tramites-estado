@@ -11,7 +11,7 @@ paginas: "A. 1 - 134"
 sumario: "Acuerdo No. FGR-004-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220823-36009/download"
 extraido: "2026-11-14"
-huella: "7e5b6a1d0650484f"
+huella: "8f7fcbe5b452dcfc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-004-2022
@@ -261,7 +261,7 @@ Decreto No. 379 - 2013 Acuerdo No. 0611-2020 La Dirección Nacional Otros cuerpo
 
 Investigaciones.
 
-Decreto Legislativo No. 239- 2011
+Decreto Legislativo No. 239-2011
 
 2.10 COORDINACIÓN Y COMPETENCIA DE LAS INVESTIGACIONES
 
@@ -273,11 +273,11 @@ Aquellos elementos materiales de prueba o evidencias identificados y recolectado
 
 2 . 1 1
 
-C O N F O R M A C I Ó N
+CONFORMACIÓN
 
 D E
 
-E Q U I P O S INTERDISCIPLINARIOS E INTERINSTITUCIONALES
+EQUIPOS INTERDISCIPLINARIOS E INTERINSTITUCIONALES
 
 (Página 16 – 2.2) De acuerdo a las necesidades del servicio en un caso específico, el Fiscal podrá conformar equipos de investigación entre investigadores, peritos o analistas de diferentes Agencias, Direcciones e instituciones de acuerdo a la especialidad de cada uno, los cuales deberán realizar su trabajo de manera reservada y siguiendo los lineamientos del PEI. Estos funcionarios podrán ser reemplazados a criterio del fiscal cuando el rendimiento no sea el adecuado o no se cumpla de manera debida con su labor. Estos equipos serán transitorios solo para casos específicos. El fiscal revisará periódicamente el curso de las investigaciones y girará instrucciones claras, precisas y pertinentes para el buen desarrollo de las investigaciones.
 
@@ -323,7 +323,7 @@ Estas actividades tienen como finalidad, aportar elementos probatorios a un proc
 
 12. La búsqueda de información en archivos y/o bases de datos públicas o privadas.
 
-13. La ejecución de levantamientos de cadáveres y la inspección preliminar del cuerpo, con la colaboración de especialistas y el fiscal de turno. (Ver Anexo, FINV- 06 “ Acta de Levantamiento de Cadáver”)
+13. La ejecución de levantamientos de cadáveres y la inspección preliminar del cuerpo, con la colaboración de especialistas y el fiscal de turno. (Ver Anexo, FINV-06 “ Acta de Levantamiento de Cadáver”)
 
 14. Las vigilancias y seguimientos realizadas a los autores y/o partícipes, sus familiares o cualquier otra persona con la que tenga relación, al igual que inmuebles, vehículos, naves, aeronaves o cualquier otro objeto que se considere, pueda ser utilizado para realizar una actividad ilícita.
 
@@ -333,7 +333,7 @@ Estas actividades tienen como finalidad, aportar elementos probatorios a un proc
 
 17. La negociación policial en casos de crisis con él o los victimarios para llegar a acuerdos que le permitan moderar la crisis, desarrollar la individualización e identificación del o los autores y participes del mismo y evitar consecuencias ulteriores del delito.
 
-2 . 1 4 A C T I V I D A D E S Q U E R E Q U I E R E N AUTORIZACIÓN JUDICIAL (Artículos 212 y 213 CPP; 49 al 60 de la Ley de Lavados de Activos).
+2 . 1 4 ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN JUDICIAL (Artículos 212 y 213 CPP; 49 al 60 de la Ley de Lavados de Activos).
 
 Son aquellas realizadas por los agentes de investigación que por su complejidad requieren autorización judicial para su ejecución. Estas actividades tienen como finalidad, aportar elementos probatorios a un proceso penal.
 
@@ -485,7 +485,7 @@ Para mayor amplitud de la oferta laboratorial, remitirse (capitulo 7, título 7.
 
 Cuando se requiera pericias de especialidades no instaladas en los laboratorios pertenecientes a las instituciones que integran el COCIP, se procederá a gestionarlo en otra institución pública o privada, universidades o laboratorios de otros organismos ya sean nacionales o extranjeros, que disponga de la capacidad requerida, teniendo en cuenta lo establecido para tal fin en el CPP. Los investigadores solicitarán a los Fiscales del Ministerio Público la realización de este procedimiento especial en el apartado de las recomendaciones de los informes preliminares o de avances que presenten.
 
-2.20 COORDINACIONES CON ORGANISMOS P O L I C I A L E S Y O T R A S A U TO R I D A D E S INTERNACIONALES, PARA LA INVESTIGACIÓN CRIMINAL.
+2.20 COORDINACIONES CON ORGANISMOS POLICIALES Y OTRAS A U TO RIDAD ES INTERNACIONALES, PARA LA INVESTIGACIÓN CRIMINAL.
 
 Debido a la transnacionalización del crimen organizado y otras modalidades delictivas emergentes, la investigación criminal no debe desconocer la importancia de generar alianzas con organismos homólogos de otros países para cerrar las fronteras a los actores criminales y sus actividades ilícitas. Cuando las actuaciones tengan alcance trasnacional se deberá tener en cuenta los tratados o convenios internacionales suscritos por la República de Honduras en relación a la seguridad y convivencia ciudadana desarrollado en el proceso de la investigación criminal.
 
@@ -757,7 +757,7 @@ El Código Procesal Penal establece que el imputado tiene derecho desde el momen
 
 Igualmente, que la persona que no tiene condición de imputado, pero que está siendo investigada puede presentarse ante el Ministerio Público, para ser informado y oído, esa diligencia puede realizarse con o sin la presencia de un abogado que lo asista. (Artículo 101 CPP) Así mismo, el artículo 226 del CPP establece que todos los habitantes del país tienen la obligación de atender las citaciones que les libren los órganos jurisdiccionales, para declarar lo que sepan sobre un delito, con algunas exclusiones previstas en la ley como en el caso de los vinculados por parentesco.
 
-El investigador deberá considerar lo previsto en el capítulo tercero del CPP relativo a los testimonios (Artículos 226- 238).
+El investigador deberá considerar lo previsto en el capítulo tercero del CPP relativo a los testimonios (Artículos 226-238).
 
 Estrategias del Entrevistador
 
@@ -953,7 +953,7 @@ Procedimiento
 
 (Artículo 211 del CPP).
 
-3. Se elabora un acta la cual será firmada por los investigadores que realizan el registro y la persona que permite la diligencia. Si ésta no quiere o no puede firmar, se dejará constancia en el documento. (Ver Anexo, FINV- 16 “Acta de Registro en Sitios Públicos”).
+3. Se elabora un acta la cual será firmada por los investigadores que realizan el registro y la persona que permite la diligencia. Si ésta no quiere o no puede firmar, se dejará constancia en el documento. (Ver Anexo, FINV-16 “Acta de Registro en Sitios Públicos”).
 
 4. Los elementos materiales de prueba o evidencias incautadas o secuestradas, se deberán tratar conforme a lo que establece el Reglamento sobre el Manejo de Indicios y Evidencias Físicas o Biológicas.
 
@@ -1389,7 +1389,7 @@ Procedimiento para la captura, aprehensión y detención de Personas.
 
 7. Se elaborará informe relacionando los motivos de la captura, detención o aprehensión, anexando acta de derechos, padrón fotográfico, acta de registro y copia de la orden.
 
-Aprehensión de Menores La Constitución de la República en el Artículo 59 establece que “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable”. Así mismo, los Artículos 111 y 119 respectivamente señalan que el Estado tiene la obligación de proteger a la infancia, adoptando todas las medidas administrativas, legislativas y de otra índole para dar efectividad a los derechos humanos de la niñez y adolescencia. Honduras suscribió la Convención sobre los Derechos del Niño el 31 de mayo de 1990, la que fue aprobada por el Congreso Nacional de la República, el 24 de julio de 1990 mediante Decreto Legislativo No. 75- 90 convirtiéndose desde entonces en el más importante instrumento internacional para la tutela de los derechos de los niños de Honduras pues plasma las condiciones necesarias para que se desarrolle plenamente.
+Aprehensión de Menores La Constitución de la República en el Artículo 59 establece que “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable”. Así mismo, los Artículos 111 y 119 respectivamente señalan que el Estado tiene la obligación de proteger a la infancia, adoptando todas las medidas administrativas, legislativas y de otra índole para dar efectividad a los derechos humanos de la niñez y adolescencia. Honduras suscribió la Convención sobre los Derechos del Niño el 31 de mayo de 1990, la que fue aprobada por el Congreso Nacional de la República, el 24 de julio de 1990 mediante Decreto Legislativo No. 75-90 convirtiéndose desde entonces en el más importante instrumento internacional para la tutela de los derechos de los niños de Honduras pues plasma las condiciones necesarias para que se desarrolle plenamente.
 
 Disposiciones Generales Definiciones: Para los efectos del presente manual se entenderá por:
 
@@ -3251,9 +3251,9 @@ Departamento Ciudad Municipio Dirección Colonia Zona Sector Aldea Característi
 
 5. INFORMACION DE LOS PRESUNTOS SOSPECHOSOS (Diligenciar, solo si el denunciante por fuente no formal tiene conocimiento) SOSPECHOSO No. 1 NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO ORGANIZACIÓN CRIMINAL A LA QUE PERETENECE SOSPECHOSO No. 2 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO ORGANIZACIÓN CRIMINAL A LA QUE PERETENECE SOSPECHOSO No. 3 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO ORGANIZACIÓN CRIMINAL A LA QUE PERETENECE
 
-6. VÍCTIMA U OFENDIDO (Diligenciar, solo si el denunciante por fuente no formal tiene conocimiento) NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL F t d i ti ió N 07 V ió N 1 21/12/21 Víctima No.2 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL Víctima No.3 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL
+6. VÍCTIMA U OFENDIDO (Diligenciar, solo si el denunciante por fuente no formal tiene conocimiento) NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL F t d i ti ió N 07 V ió N 1 21/12/21 Víctima No. 2 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL Víctima No. 3 NOMBRES Y APELLIDOS NÚMERO DE IDENTIDAD NACIONALIDAD FECHA DE NACIMIENTO EDAD SEXO ESTADO CIVIL DIRECCIÓN PROFESIÓN U OFICIO TELÉFONO CORREO ELECTRÓNICO U RED SOCIAL
 
-7. DATOS DE LOS TESTIGOS (Diligenciar, solo si el denunciante por fuente no formal tiene conocimiento) Testigo No.1 DIRECCIÓN IDENTIDAD TELÉFONO U RED SOCIAL Testigo No.2 NOMBRES Y APELLIDOS DIRECCIÓN IDENTIDAD TELÉFONO Y RED SOCIAL Testigo No.3 NOMBRES Y APELLIDOS DIRECCIÓN IDENTIDAD TELÉFONO U RED SOCIAL
+7. DATOS DE LOS TESTIGOS (Diligenciar, solo si el denunciante por fuente no formal tiene conocimiento) Testigo No. 1 DIRECCIÓN IDENTIDAD TELÉFONO U RED SOCIAL Testigo No. 2 NOMBRES Y APELLIDOS DIRECCIÓN IDENTIDAD TELÉFONO Y RED SOCIAL Testigo No. 3 NOMBRES Y APELLIDOS DIRECCIÓN IDENTIDAD TELÉFONO U RED SOCIAL
 
 8. DILIGENCIAS DE CONSTATACION DE LA INFORMACIÓN
 
@@ -3405,9 +3405,7 @@ Delito (s) que se investiga Nombre (s) del ofendido (s) Nombre (s) del sospechos
 
 Hora de llegada al lugar:
 
-2. INFORMACIÓN GENERAL DEL LUGAR DONDE SE REALIZA LA DILIGENCIA Vía Pública Campo abierto Vivienda Sitio de Trabajo Sitio público Vehículo Aeronave Marítimo Lugar Abierto Lugar cerrado Otro Descripción Abierta Descripción Cerrada Descripción Mixta Se recibe acordonamiento lugar objeto de la inspección: Sí No
-
-3. INFORMACION DE LA PERSONA QUE ATIENDE LA DILIGENCIA NOMBRE Y APELLIDOS DIRECCION TELEFONO CARGO
+2. INFORMACIÓN GENERAL DEL LUGAR DONDE SE REALIZA LA DILIGENCIA Vía Pública Campo abierto Vivienda Sitio de Trabajo Sitio público Vehículo Aeronave Marítimo Lugar Abierto Lugar cerrado Otro Descripción Abierta Descripción Cerrada Descripción Mixta Se recibe acordonamiento lugar objeto de la inspección: Sí No 3. INFORMACION DE LA PERSONA QUE ATIENDE LA DILIGENCIA NOMBRE Y APELLIDOS DIRECCION TELEFONO CARGO
 
 4. DESCRIPCIÓN DEL PROCEDIMIENTO REALIZADO
 

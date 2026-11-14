@@ -11,7 +11,7 @@ paginas: "A. 10 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231013-36357/download"
 extraido: "2026-11-14"
-huella: "1802599506c97dc6"
+huella: "0fd500be0709e7b3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 245-2023
@@ -51,7 +51,7 @@ CONSIDERANDO: Que la estructura del crimen organizado secuestra y corrompe a la 
 
 CONSIDERANDO: Que la grave situación de violencia criminal organizada heredada desde la administración anterior, ha provocado que el pueblo hondureño sea víctima de la violencia desenfrenada, por lo que se hace necesario continuar con todas las medidas que lleven al restablecimiento de la paz y el orden, la preservación de la vida humana como fin supremo de la sociedad, así como a facilitar la búsqueda, identificación y detención de los autores de estos flagelos, todo en estricto cumplimiento de los principios de necesidad y de proporcionalidad, de acuerdo con los estándares internacionales de derechos humanos.
 
-CONSIDERANDO: Que mediante Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023; PCM 37-2023; y, PCM 42-2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99 , declarando de manera frontal la guerra contra las maras y pandillas, habiendo obtenido excelentes resultados para al mantenimiento de la paz y la seguridad en el país.
+CONSIDERANDO: Que mediante Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023; PCM 37-2023; y, PCM 42-2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, declarando de manera frontal la guerra contra las maras y pandillas, habiendo obtenido excelentes resultados para al mantenimiento de la paz y la seguridad en el país.
 
 CONSIDERANDO: Que la ciudadanía demanda de una respuesta inmediata en las actuaciones de la Policía Nacional, para lo cual el Estado debe proporcionar las herramientas apropiadas para cumplir con la misión de prevenir, investigar y combatir el delito en todas sus modalidades, por lo que es fundamental y urgente contar con todo el equipo necesario para hacerle frente a este tipo de situaciones que causan inseguridad en la población hondureña.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ministerial No. 012-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230826-36318/download"
 extraido: "2026-11-14"
-huella: "70652e00ea8c86b7"
+huella: "a6f1ad5673d4efc2"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 012-2023
@@ -63,9 +63,7 @@ TRAMO: LIMONES- PUENTE QUEBRADA ULUA”, siendo el volumen de material aprobado 
 
 Se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto agregue al expediente los requisitos establecidos en el artículo 96 del Reglamento de la Ley General de Minería principalmente:
 
-Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) mediante acuerdo ministerial, establecido en la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA de acuerdo a lo instituido en los artículos No. 24, No. 25 y No.
-
-26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación y debe presentarse previo al primer control y seguimiento.
+Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) mediante acuerdo ministerial, establecido en la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA de acuerdo a lo instituido en los artículos No. 24, No. 25 y No. 26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación y debe presentarse previo al primer control y seguimiento.
 
 Si es necesario; presentar permisos correspondientes para el corte de arboles por parte del ICF que se encuentran dentro del área de extracción de cada banco de préstamo Plan de Salvamento de acuerdo a lo descrito en el informe ITCD-09-2023. A la Secretaría General del INHGEOMIN, se recomienda notificar a las empresas “EXPLOTACIÓN INDUSTRIAL, S.A. Solicitante de concesión minera metálica denominada “METAL I”, código de expediente No. 1583 y la empresa “INVERSIONES LEPAGUARE S. DE R.L.” Solicitante de concesión minera no metálica denominada “SAN FRANCISCO DE LEPAGUARE Y COYOLES”, otorgada para EXPLOTACIÓN expediente INHGEOMIN No. 305 sobre las actividades extractivas que se pretenden realizar dentro de los bancos de préstamo de material seco denominado “BALASTRERA” y banco Aluvial “RIO GUAYAPE”, cuyo material será empleado para el proyecto “REHABILITACIÓN CON DOBLE TRATAMIENTO DEL TRAMO CARRETERO LIMONES POZO – SARCO – SALAMÁ, FASE 1;
 

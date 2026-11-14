@@ -11,7 +11,7 @@ paginas: "A. 11 - 15"
 sumario: "Decretos Nos. 147-2020, 149-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201114-35429/download"
 extraido: "2026-11-14"
-huella: "a576283ec5b821cc"
+huella: "c2fe7cfc963b4268"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 149-2020
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 205 de la Constitución de la República, Atribución 32) establece que es potestad del Congreso Nacional la aprobación anual del Presupuesto General de Ingresos y Egresos de la República, tomando como base el Proyecto que remite el Poder Ejecutivo, debidamente desglosado y resolver sobre su modificación.
 
-CONSIDERANDO: Que el Artículo 123 del Decreto Legislativo No.171–2019, contentivo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, establece que la contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República.
+CONSIDERANDO: Que el Artículo 123 del Decreto Legislativo No. 171–2019, contentivo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, establece que la contratación de personal temporal (subgrupo de gasto 12000), se limitará a las asignaciones y montos aprobados en el Presupuesto General de Ingresos y Egresos de la República.
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), busca el desarrollo de una vida mejor para la población hondureña, por lo que ejecuta programas y formula y coordina políticas públicas en materia social, reducción de la pobreza y apoyo a grupos vulnerables, reconociendo la importancia del sector social del país, adoptando el papel de ente rector de la Política Social Nacional.
 

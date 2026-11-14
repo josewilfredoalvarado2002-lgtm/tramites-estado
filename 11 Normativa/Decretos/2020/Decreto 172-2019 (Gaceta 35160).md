@@ -11,7 +11,7 @@ paginas: "A. 49 - 52"
 sumario: "Decretos Nos. 150-2019, 156-2019,172-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200128-35160/download"
 extraido: "2026-11-14"
-huella: "ef7a71a5f34e168a"
+huella: "0b89873c09f77a31"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 172-2019
@@ -37,23 +37,23 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 338 establec
 
 CONSIDERANDO: Que es necesario que las personas naturales o jurídicas que formen parte del Sector Social de la Economía regularicen su situación tributaria ante el Fisco.
 
-CONSIDERANDO: Que mediante Decreto No.25-2016 de fecha 7 de Abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo de 2016 se crea la Ley de Responsabilidad Fiscal.
+CONSIDERANDO: Que mediante Decreto No. 25-2016 de fecha 7 de Abril de 2016 y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo de 2016 se crea la Ley de Responsabilidad Fiscal.
 
-CONSIDERANDO: Que mediante Decreto No.131-2018 de fecha 7 de Noviembre de 2018, publicado en el Diario Oficial “La Gaceta” el 26 de Febrero de 2019, contentivo de la Ley de Contribución Social de la Economía, se crea la contribución social dirigido a las personas jurídicas que estén funcionando al amparo de la Ley del Sector Social de la Economía no incluidas en los Decretos No. 53-2015 publicado y aprobado en fecha 29 de Abril de 2015 y Decreto No. 92-2015 de fecha 8 de Septiembre de 2015 y publicado en el Diario Oficial “La Gaceta” el 14 de Noviembre de 2015.
+CONSIDERANDO: Que mediante Decreto No. 131-2018 de fecha 7 de Noviembre de 2018, publicado en el Diario Oficial “La Gaceta” el 26 de Febrero de 2019, contentivo de la Ley de Contribución Social de la Economía, se crea la contribución social dirigido a las personas jurídicas que estén funcionando al amparo de la Ley del Sector Social de la Economía no incluidas en los Decretos No. 53-2015 publicado y aprobado en fecha 29 de Abril de 2015 y Decreto No. 92-2015 de fecha 8 de Septiembre de 2015 y publicado en el Diario Oficial “La Gaceta” el 14 de Noviembre de 2015.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar el alcance del Artículo 17 de la Ley de Responsabilidad Fiscal, contenida en el Decreto No.25-2016 de fecha 7 de Abril de 2016, en el sentido que las personas jurídicas que pertenecen al Sector Social de la Economía que actualmente se encuentren acogidas a un régimen especial temporal, con el fin de contribuir a humanizar el desarrollo económico y social del país, así como la promoción y generación de empleo, pueden igualmente gozar de los beneficios establecidos al amparo de la Ley de Contribución Social del Sector Social de la Economía contenida en el Decreto No.131-2018 de fecha 7 de Noviembre de 2018, publicado en el Diario Oficial “La Gaceta” el 26 de Febrero de 2019 y su Reglamento.
+ARTÍCULO 1.- Interpretar el alcance del Artículo 17 de la Ley de Responsabilidad Fiscal, contenida en el Decreto No. 25-2016 de fecha 7 de Abril de 2016, en el sentido que las personas jurídicas que pertenecen al Sector Social de la Economía que actualmente se encuentren acogidas a un régimen especial temporal, con el fin de contribuir a humanizar el desarrollo económico y social del país, así como la promoción y generación de empleo, pueden igualmente gozar de los beneficios establecidos al amparo de la Ley de Contribución Social del Sector Social de la Economía contenida en el Decreto No. 131-2018 de fecha 7 de Noviembre de 2018, publicado en el Diario Oficial “La Gaceta” el 26 de Febrero de 2019 y su Reglamento.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 14 del Decreto No.130- 2019 de fecha 4 de Diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre del 2019, que contiene la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera.
+ARTÍCULO 2.- Reformar el Artículo 14 del Decreto No. 130-2019 de fecha 4 de Diciembre del 2019 y publicado en el Diario Oficial “La Gaceta” el 20 de Diciembre del 2019, que contiene la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera.
 
 “ARTÍCULO 14.- IDENTIFICACIÓN DE
 
@@ -61,7 +61,7 @@ RECURSOS DEL ESTADO.- El Gobierno de la República, a través de las correspondi
 
 Se autoriza al Banco Central de Honduras
 
-(BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No.175-2018 de fecha 18 de Diciembre del 2018, reformado mediante Decreto No.67- 2009 de fecha 12 de Mayo del 2009, Decreto No.57-2013 de fecha 16 de Abril del 2013, Decreto No.95-2014 de fecha 16 de Octubre del 2014, Decreto No.90-2016 de fecha 20 de Julio del 2016 y Decreto No. 145-2018 del 28 de Noviembre del 2018, puedan realizar gastos e inversiones que propicien la gestión y capitalicen el Fondo de Apoyo para el Financiamiento y Fortalecimiento del Sector de Palma Aceitera, así como su respectivo Fideicomiso constituido en esta Ley y/o los Fondos de Garantía que provean garantías para el sector palma y otros sectores prioritarios en generación de empleo y divisas para el país.
+(BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No. 175-2018 de fecha 18 de Diciembre del 2018, reformado mediante Decreto No. 67-2009 de fecha 12 de Mayo del 2009, Decreto No. 57-2013 de fecha 16 de Abril del 2013, Decreto No. 95-2014 de fecha 16 de Octubre del 2014, Decreto No. 90-2016 de fecha 20 de Julio del 2016 y Decreto No. 145-2018 del 28 de Noviembre del 2018, puedan realizar gastos e inversiones que propicien la gestión y capitalicen el Fondo de Apoyo para el Financiamiento y Fortalecimiento del Sector de Palma Aceitera, así como su respectivo Fideicomiso constituido en esta Ley y/o los Fondos de Garantía que provean garantías para el sector palma y otros sectores prioritarios en generación de empleo y divisas para el país.
 
 El monto a garantizar de los créditos que se otorguen para estimular el cultivo, comercialización y exportación de cultivos estratégicos de atención especial, debe ser determinado por el Comité Técnico del Fideicomiso de garantía o la sociedad de garantía recíproca según corresponda, considerando para este fin aspectos como el tamaño del área a cultivar, asistencia técnica requerida, necesidades de financiamiento por reestructuraciones, refinanciamientos y readecuaciones, garantías complementarias, etc; y, sin que le sea aplicable a este tipo de productos los límites establecidos legal o reglamentariamente para otro tipo de cultivos o actividades con menor demanda de financiamiento”.
 

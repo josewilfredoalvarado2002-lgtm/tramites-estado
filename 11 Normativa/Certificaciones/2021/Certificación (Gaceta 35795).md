@@ -11,7 +11,7 @@ paginas: "A. 9 - 116"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211211-35795/download"
 extraido: "2026-11-14"
-huella: "73c92e3fe5aa734e"
+huella: "832d32ab66d6e361"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "73c92e3fe5aa734e"
 
 ## Texto
 
-El infrascrito, Secretario General del Tribunal Superior de Cuentas, CERTIFICA: El Acuerdo Administrativo No.02/2021, correspondiente al MARCO RECTOR DEL CONTROL INTERNO INSTITUCIONAL DE LOS RECURSOS PÚBLICOS (MARCI), aprobado en Pleno Administrativo Número 04/2021 de fecha quince (15) de abril de dos mil veintiuno (2021), el cual debe leerse de la forma siguiente:
+El infrascrito, Secretario General del Tribunal Superior de Cuentas, CERTIFICA: El Acuerdo Administrativo No. 02/2021, correspondiente al MARCO RECTOR DEL CONTROL INTERNO INSTITUCIONAL DE LOS RECURSOS PÚBLICOS (MARCI), aprobado en Pleno Administrativo Número 04/2021 de fecha quince (15) de abril de dos mil veintiuno (2021), el cual debe leerse de la forma siguiente:
 
 ACUERDO ADMINISTRATIVO TSC-Nº.02-2021
 
@@ -145,9 +145,7 @@ b. La Ley Orgánica del Tribunal Superior de Cuentas (LOTSC), artículos: 2 (ref
 
 47, que dispone a los sujetos pasivos, aplicar bajo su responsabilidad, sistemas de control interno; de acuerdo con las normas generales que emita el Tribunal;
 
-c. El Reglamento General de la Ley Orgánica del Tribunal Superior de Cuentas aprobado mediante Acuerdo Administrativo TSC No. 14/2012 del 4 de septiembre de 2012 y publicado en La Gaceta No.
-
-32.931 de 22 de septiembre de 2012; y,
+c. El Reglamento General de la Ley Orgánica del Tribunal Superior de Cuentas aprobado mediante Acuerdo Administrativo TSC No. 14/2012 del 4 de septiembre de 2012 y publicado en La Gaceta No. 32.931 de 22 de septiembre de 2012; y,
 
 d. El Acuerdo Administrativo TSC No. 002/2007 del 6 de julio de 2007, que contiene el Reglamento del Sistema Nacional de Control de los Recursos Públicos (SINACORP).
 
@@ -1241,7 +1239,7 @@ Puntos Mínimos para la Autoevaluación y la Evaluación Independiente La evalua
 
 a. Documentos que vinculan las actividades de control con los objetivos y los riesgos residuales. Generalmente son las matrices de riesgos que se desarrollan desde el Componente Evaluación de los Riesgos, que concluyen en el Componente Actividades de Control mediante la formulación de acciones de control para los riesgos identificados, por su interrelación directa; y,
 
-b. Plan de mitigación de los riesgos cuyo contenido se describe en la norma 311- 00, aprobado por la MAE, y cuando los casos requieran, con la aprobación de la MAI.
+b. Plan de mitigación de los riesgos cuyo contenido se describe en la norma 311-00, aprobado por la MAE, y cuando los casos requieran, con la aprobación de la MAI.
 
 PCI-TSC/320-00 Principio Actividades de Control sobre la Tecnología para Lograr los Objetivos La MAI, la MAE y los directivos deben establecer, a través de políticas, planes, procesos y otros medios, la dependencia y la vinculación existente entre los objetivos, la organización y las actividades automatizadas, los controles generales sobre la tecnología y específicos sobre las aplicaciones.
 
@@ -1893,7 +1891,7 @@ b. Procedimientos de supervisión y de comunicación de los resultados, ya sean 
 
 c. Procedimientos para la autoevaluación del control interno, que contenga los requisitos del equipo de evaluación; los conocimientos, formación profesional e independencia para realizar estas actividades; las técnicas y medios para efectuar la autoevaluación; la forma de evidenciar los resultados y de
 
-d. Disposiciones emitidas por la MAE sobre la complementariedad de las auditorías de la calidad, con las autoevaluaciones, y las supervisiones PCI-TSC/520- 00 PRINCIPIO EVALUACIÓN INDEPENDIENTE Al evaluar el diseño del control interno, se debe determinar si los controles, por sí mismos y en conjunto con otros, permiten alcanzar los objetivos y responder a sus riesgos asociados.
+d. Disposiciones emitidas por la MAE sobre la complementariedad de las auditorías de la calidad, con las autoevaluaciones, y las supervisiones PCI-TSC/520-00 PRINCIPIO EVALUACIÓN INDEPENDIENTE Al evaluar el diseño del control interno, se debe determinar si los controles, por sí mismos y en conjunto con otros, permiten alcanzar los objetivos y responder a sus riesgos asociados.
 
 Para evaluar la implementación, es necesario determinar si el control existe, esto es, que se haya sido establecido formalmente por autoridad competente; que ha sido difundido para conocimiento de los responsables de su aplicación; y, si se ha puesto en operación, esto es que se haya implementado.
 

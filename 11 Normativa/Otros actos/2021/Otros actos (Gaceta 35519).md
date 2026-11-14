@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-021-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210217-35519/download"
 extraido: "2026-11-14"
-huella: "2a4735314346fcb1"
+huella: "19f7b7cdd3e8bdde"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo número PCM-021-2021
@@ -37,9 +37,9 @@ CONSIDERANDO: Que el Artículo 4 de la Ley General de la Administración Públic
 
 CONSIDERANDO: Que de acuerdo a lo que establece el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, señala que el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencias de los Despachos por las Secretarías de Estado y crear las dependencias internas que fueren necesarias para la buena administración; reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
+CONSIDERANDO: Que el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, señala que el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencias de los Despachos por las Secretarías de Estado y crear las dependencias internas que fueren necesarias para la buena administración; reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-111-2020, publicado en fecha 6 de noviembre del 2020 en el Diario Oficial “La Gaceta”, Edición No. 35,421, se crea la Secretaría de Estado en el Despacho de Transparencia (SDT), mismo que fue reformado según Decreto Ejecutivo Número PCM- 128-2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-111-2020, publicado en fecha 6 de noviembre del 2020 en el Diario Oficial “La Gaceta”, Edición No. 35,421, se crea la Secretaría de Estado en el Despacho de Transparencia (SDT), mismo que fue reformado según Decreto Ejecutivo Número PCM-128-2020.
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 235, 245 numerales 1, 2, 11 y 45, 246, 252, 255, 321 y 323 de la Constitución de la República; Artículos 7, 9, 10, 11, 14 numeral 1) y 4), 17, 18, 19, 20, 22 numerales 3) y 12), 25, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo Número PCM-111-2020; y, Decreto Ejecutivo Número PCM-128-2020.
 
@@ -47,9 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 5, 7, 9, 10, 11 párrafo primero y 12 del Decreto Ejecutivo Número PCM-111-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No.
-
-35,421, reformado por el Decreto Ejecutivo Número PCM-128-2020, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 5, 7, 9, 10, 11 párrafo primero y 12 del Decreto Ejecutivo Número PCM-111-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No. 35,421, reformado por el Decreto Ejecutivo Número PCM-128-2020, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 5.- Se crea la Dirección de Prevención y Transparencia de esta Secretaría, misma que contará con las siguientes Unidades:
 

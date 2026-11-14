@@ -11,7 +11,7 @@ paginas: "A. 6 - 14"
 sumario: "Acuerdo 358-2026Acuerdos Ejecutivos Números 331-2026, 332-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260608-37162/download"
 extraido: "2026-11-09"
-huella: "2516bb89c2f6130c"
+huella: "bd97649457754fa7"
 ---
 <!-- portal:inicio -->
 # ACUERDO 358-2026
@@ -73,9 +73,9 @@ Que los artículos 116 y 118 de la Ley General de la Administración Pública, e
 
 CONSIDERANDO (9):
 
-Que mediante Decreto Legislativo No.83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial "La Gaceta", Edición número 30,421 de fecha 21 de junio de 2004, el Congreso Nacional de conformidad con el artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto, la cual fue reformada mediante:
+Que mediante Decreto Legislativo No. 83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial "La Gaceta", Edición número 30,421 de fecha 21 de junio de 2004, el Congreso Nacional de conformidad con el artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto, la cual fue reformada mediante:
 
-(i) Decreto Legislativo No.2- 2005 de fecha 26 de enero de 2005, publicado en el Diario Oficial "La Gaceta", Edición número 30,643 de fecha 10 de marzo de 2005; y, (ii) Decreto Legislativo No.406-2013 de fecha 24 de enero de 2014, publicado en el Diario Oficial "La Gaceta", Edición número 33,373 de fecha 7 de marzo de 2014.
+(i) Decreto Legislativo No. 2-2005 de fecha 26 de enero de 2005, publicado en el Diario Oficial "La Gaceta", Edición número 30,643 de fecha 10 de marzo de 2005; y, (ii) Decreto Legislativo No. 406-2013 de fecha 24 de enero de 2014, publicado en el Diario Oficial "La Gaceta", Edición número 33,373 de fecha 7 de marzo de 2014.
 
 CONSIDERANDO (10): Que el artículo 128 de la Ley Orgánica del Presupuesto (Plazo para emitir el Reglamento de esta Ley), el cual establece que: "El Reglamento debe ser emitido por el Poder Ejecutivo, a través de la Secretaría de Estado en el Despacho de Finanzas, en un plazo no mayor de 180 días ..."
 
@@ -83,7 +83,7 @@ CONSIDERANDO (11):
 
 Que mediante el Acuerdo No. 419 de fecha 22 de abril de 2005, publicado en el Diario Oficial La Gaceta en fecha 3 de junio del 2005, la Secretaría de Estado en el Despacho de Finanzas, aprobó el Reglamento de Ejecución General de la Ley Orgánica del Presupuesto.
 
-CONSIDERANDO (12): Que el artículo 1 del Decreto No. 70-2026 de fecha 6 de mayo de 2026, publicado en el Diario Oficial "La Gaceta" en fecha 15 de mayo de 2026, reformó los artículos 16, 17, 33, 84, 85, 86, 87, 89, 90, 94 y 127 de la Ley Orgánica del Presupuesto, contenida en el Decreto Legislativo No.83- 2004 de fecha 21 de junio de 2004.
+CONSIDERANDO (12): Que el artículo 1 del Decreto No. 70-2026 de fecha 6 de mayo de 2026, publicado en el Diario Oficial "La Gaceta" en fecha 15 de mayo de 2026, reformó los artículos 16, 17, 33, 84, 85, 86, 87, 89, 90, 94 y 127 de la Ley Orgánica del Presupuesto, contenida en el Decreto Legislativo No. 83-2004 de fecha 21 de junio de 2004.
 
 Asimismo, el artículo 2 del Decreto antes mencionado, reforma por adición la Ley Orgánica del Presupuesto, la cual contendrá los artículos que formarán parte integral de la Ley antes mencionada, los cuales se detallan a continuación:
 
@@ -103,7 +103,7 @@ En uso de las facultades que esta investido y en aplicación de los siguientes a
 
 11, numeral 1 del artículo 14, 28, 33 y 36, numeral 5, 6 y 8, 116 y 118 de la Ley General de la Administración Pública;
 
-128 de la Ley Orgánica del Presupuesto contenida en el Decreto No.83-2004; 1 y 2 de la reforma a la Ley Organica del Presupuesto contenida en el Decreto No.70-2026; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97.
+128 de la Ley Orgánica del Presupuesto contenida en el Decreto No. 83-2004; 1 y 2 de la reforma a la Ley Organica del Presupuesto contenida en el Decreto No. 70-2026; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97.
 
 ACUERDA:
 
@@ -157,7 +157,7 @@ Artículo 27-A.- En apego a lo establecido en el Artículo 84-C PROHIBICIÓN DE 
 
 #### Artículo 27-B
 
-Artículo 27-B.- ADMINISTRACIÓN DE RECURSOS CON FINANCIAMIENTO PÚBLICO.- De conformidad a lo establecido en los Artículos 4 del Decreto Legislativo No.70- 2026, 83-B, 84-D y 94 numeral 6 de la Ley Orgánica del Presupuesto, la Secretaría de Estado en el Despacho de Finanzas deberá contar con la no objeción o autorización escrita de los organismos financiadores o acreedores, para garantizar el cumplimiento de los requerimientos contractuales, la trazabilidad, control y disponibilidad de los fondos de las operaciones suscritas.
+Artículo 27-B.- ADMINISTRACIÓN DE RECURSOS CON FINANCIAMIENTO PÚBLICO.- De conformidad a lo establecido en los Artículos 4 del Decreto Legislativo No. 70-2026, 83-B, 84-D y 94 numeral 6 de la Ley Orgánica del Presupuesto, la Secretaría de Estado en el Despacho de Finanzas deberá contar con la no objeción o autorización escrita de los organismos financiadores o acreedores, para garantizar el cumplimiento de los requerimientos contractuales, la trazabilidad, control y disponibilidad de los fondos de las operaciones suscritas.
 
 #### Artículo 28
 
@@ -225,7 +225,7 @@ Artículo 34-A.- EMBARGOS A RECURSOS FINANCIEROS PÚBLICOS. - La Tesorería Gene
 
 Las instituciones afectadas o demandadas deberán realizar las modificaciones presupuestaria y financieras necesarias para cumplir con la obligación de pago derivada de dichas demandas.
 
-En caso de que la Cuenta Única de la Tesorería (CUT) sea embargada, la Tesorería General de la República (TGR) tendrá la facultad de recuperar los valores correspondientes cuando las instituciones afectadas o demandadas no cumplan con la responsabilidad de honrar dichas deudas en un plazo de doce (12) meses, conforme a lo establecido en el Artículo 127 del Decreto No.70-2026, el cual en una de sus partes dispone que: "Una vez ejecutada la sentencia, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que pueda recuperar inmediatamente los valores derivados de cualquier embargo contra el Estado, del presupuesto y los activos de la institución demandada".
+En caso de que la Cuenta Única de la Tesorería (CUT) sea embargada, la Tesorería General de la República (TGR) tendrá la facultad de recuperar los valores correspondientes cuando las instituciones afectadas o demandadas no cumplan con la responsabilidad de honrar dichas deudas en un plazo de doce (12) meses, conforme a lo establecido en el Artículo 127 del Decreto No. 70-2026, el cual en una de sus partes dispone que: "Una vez ejecutada la sentencia, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que pueda recuperar inmediatamente los valores derivados de cualquier embargo contra el Estado, del presupuesto y los activos de la institución demandada".
 
 La Tesorería General de la República (TGR) incorporará en el Manual de Procesos y Procedimientos, la aplicación de los embargos como consecuencia de las órdenes judiciales, libradas por los Juzgados de la República para que se apliquen de conformidad con la disponibilidad de caja de la TGR.
 

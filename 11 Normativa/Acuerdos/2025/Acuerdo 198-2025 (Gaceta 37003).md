@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. 198-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251126-37003/download"
 extraido: "2026-11-09"
-huella: "bf21827bc013ddaf"
+huella: "589bbe186ee6fc66"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 198-2025
@@ -27,7 +27,7 @@ huella: "bf21827bc013ddaf"
 
 ## Texto
 
-CONSIDERANDO: Que mediante Decreto No.12-2000 de fecha 7 de marzo del 2000 y publicado el 5 de mayo del mismo año, la LEY PARA EL DESARROLLO RURAL SOSTENIBLE, la cual crea el Programa Nacional de Desarrollo Rural Sostenible (PRONADERS), con el fin de lograr el desarrollo integral de la población hondureña, para orientar las acciones del Estado a la capitalización del Sector Rural como un medio para combatir en forma frontal y decidida el problema de la pobreza y el desarrollo de los recursos naturales, sustentado en los principios de equidad, integridad, focalización y participación ciudadana, el cual fue reformado por Decreto No. 137-2011, publicado en el Diario Oficial La Gaceta el día martes 8 de noviembre del 2011, No. 32,663.
+CONSIDERANDO: Que mediante Decreto No. 12-2000 de fecha 7 de marzo del 2000 y publicado el 5 de mayo del mismo año, la LEY PARA EL DESARROLLO RURAL SOSTENIBLE, la cual crea el Programa Nacional de Desarrollo Rural Sostenible (PRONADERS), con el fin de lograr el desarrollo integral de la población hondureña, para orientar las acciones del Estado a la capitalización del Sector Rural como un medio para combatir en forma frontal y decidida el problema de la pobreza y el desarrollo de los recursos naturales, sustentado en los principios de equidad, integridad, focalización y participación ciudadana, el cual fue reformado por Decreto No. 137-2011, publicado en el Diario Oficial La Gaceta el día martes 8 de noviembre del 2011, No. 32,663.
 
 CONSIDERANDO: Que el Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) de conformidad con el Decreto No. 137-2011, se creó el cargo de Director Ejecutivo del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS), dicho puesto es designado con el nombre de Director Ejecutivo de PRONADERS.
 
@@ -617,7 +617,7 @@ Artículo 46: Durante la vigencia de la relación laboral con el PRONADERS, el t
 
 #### Artículo 47
 
-Artículo 47: El pago del Séptimo día y Décimo Tercer mes en concepto de Aguinaldo se hará de acuerdo en lo dispuesto en el Decreto Legislativo Número 112 y las Reformas del Decreto Número 179-97, el pago del Décimo Cuarto mes en concepto de Compensación Social, se hará de acuerdo al Decreto 135- 74 y Decreto 54-95. En cuanto al pago del Bono Educativo se hará de acuerdo a lo dispuesto en el Decreto 43-97.
+Artículo 47: El pago del Séptimo día y Décimo Tercer mes en concepto de Aguinaldo se hará de acuerdo en lo dispuesto en el Decreto Legislativo Número 112 y las Reformas del Decreto Número 179-97, el pago del Décimo Cuarto mes en concepto de Compensación Social, se hará de acuerdo al Decreto 135-74 y Decreto 54-95. En cuanto al pago del Bono Educativo se hará de acuerdo a lo dispuesto en el Decreto 43-97.
 
 VIÁTICOS
 

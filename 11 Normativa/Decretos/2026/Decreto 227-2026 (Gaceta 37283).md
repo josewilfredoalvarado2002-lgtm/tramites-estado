@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 227-2026, 263-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261031-37283/download"
 extraido: "2026-11-09"
-huella: "1c1e5755b3782ddd"
+huella: "8bf71ab1ddcbb472"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 227-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que corresponde al Estado adoptar mecanismos eficaces para adminis
 
 CONSIDERANDO: Que la incautación es una medida temporal y cautelar que no equivale al comiso o decomiso definitivo, por lo que cualquier mecanismo excepcional de disponibilidad de activos líquidos incautados debe preservar su naturaleza jurídica, garantizar su trazabilidad y asegurad plenamente su restitución cuando así lo ordene la autoridad jurisdiccional competente.
 
-CONSIDERANDO: Que existen antecedentes legislativos en la República, entre ellos los Decretos Legislativos No.235- 2010. 23-2012 y 234-2013, que autorizaron la distribución anticipada de bienes y valores incautados administrados por la Oficina Administradora de Bienes Incautados (OABI), incluso antes de sentencia definitiva firme, estableciendo mecanismos a cargo de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para garantizar su devolución cuando correspondiere.
+CONSIDERANDO: Que existen antecedentes legislativos en la República, entre ellos los Decretos Legislativos No. 235-2010. 23-2012 y 234-2013, que autorizaron la distribución anticipada de bienes y valores incautados administrados por la Oficina Administradora de Bienes Incautados (OABI), incluso antes de sentencia definitiva firme, estableciendo mecanismos a cargo de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para garantizar su devolución cuando correspondiere.
 
 CONSIDERANDO: Que la Ley Especial Contra el Lavado de Activos reconoce al Consejo Nacional de Defensa y Seguridad (CNDS) competencias sobre la administración y destino de bienes incautados y en comiso, correspondiendo a la Oficina Administradora de Bienes Incautados (OABI) el ejercicio de las funciones legalmente atribuidas respecto de dichos bienes y recursos, por lo que resulta necesario establecer un régimen estrictamente excepcional que permita la disponibilidad de una parte de los activos líquidos incautados, siempre que exista con carácter previo, un mecanismo de respaldo financiero sustitutivo, individualizado registrado y plenamente exigible frente al Estado que preserve el derecho a restitución.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- REFORMAR el Artículo 78 del Decreto No.27-2010, contentivo de la “LEY SOBRE PRIVACIÓN DEFINITIVA DEL DOMINIO DE BIENES DE ORIGEN ILÍCITO” de fecha 5 de Mayo de 2010, publicado en el Diario Oficial "La Gaceta", en fecha 16 de Junio de 2010 y sus reformas, el que se leerá de la manera siguiente:
+ARTÍCULO 1.- REFORMAR el Artículo 78 del Decreto No. 27-2010, contentivo de la “LEY SOBRE PRIVACIÓN DEFINITIVA DEL DOMINIO DE BIENES DE ORIGEN ILÍCITO” de fecha 5 de Mayo de 2010, publicado en el Diario Oficial "La Gaceta", en fecha 16 de Junio de 2010 y sus reformas, el que se leerá de la manera siguiente:
 
 “ARTÍCULO 78.- DISTRIBUCIÓN Y DESTINACIÓN DE BIENES DECLARADOS EN COMISO Y DISTRIBUCIÓN ANTICIPADA DE ACTIVOS LÍQUIDOS INCAUTADOS”.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. SEN-72-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240712-36584/download"
 extraido: "2026-11-14"
-huella: "54d55d8007fdcac6"
+huella: "245f94c9b6c95ca0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-72-2024
@@ -39,7 +39,7 @@ POR TANTO:
 
 ACUERDA:
 
-PRIMERO: Delegar a la Abogada ANGELA GEOVANNA BENÍTEZ ROMERO, en el período comprendido del veinticuatro (24) al veintiocho (28) de junio de dos mil veinticuatro (2024) las funciones inherentes a la Secretaría General comprendidas en el artículo 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, contenido en Decreto Ejecutivo No. PCM-008- 97 (publicado en el Diario Oficial La Gaceta el 7 de Junio de 1997) y demás disposiciones aplicables; asimismo la facultad de autorizar con su sola firma las providencias de impulso procesal o de mero trámite, en los procedimientos administrativos que se tramitan ante la Secretaría de Energía; conforme a la delegación de éstos a la Secretaria General comprendida en Acuerdo No. SEN-01-2024 de fecha tres (3) de enero de dos mil veinticuatro (2024).
+PRIMERO: Delegar a la Abogada ANGELA GEOVANNA BENÍTEZ ROMERO, en el período comprendido del veinticuatro (24) al veintiocho (28) de junio de dos mil veinticuatro (2024) las funciones inherentes a la Secretaría General comprendidas en el artículo 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, contenido en Decreto Ejecutivo No. PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de Junio de 1997) y demás disposiciones aplicables; asimismo la facultad de autorizar con su sola firma las providencias de impulso procesal o de mero trámite, en los procedimientos administrativos que se tramitan ante la Secretaría de Energía; conforme a la delegación de éstos a la Secretaria General comprendida en Acuerdo No. SEN-01-2024 de fecha tres (3) de enero de dos mil veinticuatro (2024).
 
 SEGUNDO: La delegada es responsable de las funciones que se le delegan y presentará al finalizar el periodo de esta delegación un informe de los actos ejecutados.
 

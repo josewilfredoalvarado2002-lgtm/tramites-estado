@@ -11,7 +11,7 @@ paginas: "A. 35 - 56"
 sumario: "Decretos Nos. 21-2023, 22-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230503-36218/download"
 extraido: "2026-11-14"
-huella: "54823ac064b72954"
+huella: "e550f186958dd79e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 22-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que, la Ley de Fortalecimiento de los Ingresos, Equidad Social y R
 
 CONSIDERANDO: Que, los riesgos generados por el cambio climático y otros fenómenos naturales provocan pérdidas críticas en la actividad agrícola del país, por consiguiente afecta el bienestar de los productores, así como el aumento significativo en temas migratorios, delincuencia, violencia y el trabajo infantil; que impiden avanzar hacia un sistema agroalimentario moderno y competitivo con mejores oportunidades de desarrollo económico a productores, trabajadores, agroindustrias e inversionistas privados.
 
-CONSIDERANDO: Que, la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural en Honduras-COMRURAL III”, contenido en el Acuerdo de Financiamiento No.6917-HN, suscrito el 29 de Diciembre del 2022, entre la Asociación Internacional de Fomento
+CONSIDERANDO: Que, la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural en Honduras-COMRURAL III”, contenido en el Acuerdo de Financiamiento No. 6917-HN, suscrito el 29 de Diciembre del 2022, entre la Asociación Internacional de Fomento
 
 (AIF) y el Gobierno de Honduras, por un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$.100,000,000.00); beneficiará con empleo y sostenibilidad de las cadenas agroalimentarias, como una respuesta directa a más de 22,500 hogares rurales que representan 90,000 personas aproximadamente y en los que, dichas cabezas de familia son emprendedores agroalimentarios hondureños.
 
@@ -55,7 +55,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el ACUERDO DE FINANCIAMIENTO No.6917-HN, suscrito el 29 de Diciembre del 2022, entre la Asociación Internacional de Fomento (AIF) y el Gobierno de Honduras, por un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$. 100,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO INTEGRANDO LA INNOVACIÓN PARA LA COMPETITIVIDAD RURAL EN HONDURAS- COMRURAL III”; que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el ACUERDO DE FINANCIAMIENTO No. 6917-HN, suscrito el 29 de Diciembre del 2022, entre la Asociación Internacional de Fomento (AIF) y el Gobierno de Honduras, por un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$. 100,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO INTEGRANDO LA INNOVACIÓN PARA LA COMPETITIVIDAD RURAL EN HONDURAS- COMRURAL III”; que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -89,7 +89,7 @@ RESOLUCIÓN. 5.01. Las causales de la entrada en vigor del presente Acuerdo, a s
 
 (b) El Plan de Compromiso Ambiental y Social haya sido adoptado en letra y espíritu aceptable para la Asociación.
 
-5.02. La Fecha Límite para que el presente Acuerdo entre en vigor será de ciento veinte días (120) a partir de la Fecha de Firma. 5.03. Para fines de la Sección 10.05(b) de las Condiciones Generales, la fecha en la que expirarán las obligaciones del Prestatario en virtud del presente Acuerdo (salvo las que establecen obligaciones de pago) será veinte (20) años a partir de la Fecha de Firma. ARTÍCULO V I — R E P R E S E N T A N T E S ;
+5.02. La Fecha Límite para que el presente Acuerdo entre en vigor será de ciento veinte días (120) a partir de la Fecha de Firma. 5.03. Para fines de la Sección 10.05(b) de las Condiciones Generales, la fecha en la que expirarán las obligaciones del Prestatario en virtud del presente Acuerdo (salvo las que establecen obligaciones de pago) será veinte (20) años a partir de la Fecha de Firma. ARTÍCULO V I — REPRESENTANTES;
 
 DIRECCIONES. 6.01. El representante del Prestatario es su Ministro de Finanzas (la Secretaria de SEFIN). 6.02. Para fines de la Sección 11.01 de las Condiciones Generales: (a) la dirección del Prestatario es:
 

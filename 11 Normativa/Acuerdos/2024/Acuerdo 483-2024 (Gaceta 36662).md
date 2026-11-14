@@ -8,10 +8,10 @@ gaceta_numero: 36662
 gaceta_fecha: "2024-10-11"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36662 (2024-10-11)|La Gaceta 36662]]"
 paginas: "A. 1 - 8"
-sumario: "Acuerdo No. 483-2024CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024"
+sumario: "Acuerdo No. 483-2024; CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025; CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241011-36662/download"
 extraido: "2026-11-14"
-huella: "de538f3909a4840a"
+huella: "2c202af9c5ec026e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 483-2024
@@ -23,7 +23,7 @@ huella: "de538f3909a4840a"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36662 (2024-10-11)\|La Gaceta 36662]] del 2024-10-11 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Acuerdo No. 483-2024CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024 |
+| Según el sumario de La Gaceta | Acuerdo No. 483-2024; CONSEJO CENTRAL EJECUTIVO DEL PARTIDO LIBERAL DE HONDURAS Llamamiento a Elecciones Internas 2025; CONSEJO NACIONAL ELECTORAL Certificación, Acuerdo No. 12-2024 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, la Secretaría de Estado en los Despachos de Gobernación, Ju
 
 CONSIDERANDO: Que, es competencia de los Secretarios de Estado, velar por una correcta y eficiente administración para sus respectivas instituciones, de tal manera que garanticen los procesos y mecanismos de simplificación administrativa, transparencia, eficacia, eficiencia, funcionalidad y control de los servicios de la administración pública, regulando a su vez sus propios trámites y procedimientos administrativos, diseñando medidas de simplificación.
 
-CONSIDERANDO: Que, el Decreto Legislativo No. 62- 2023, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2024, en su artículo 338, autoriza una asignación presupuestaria para el desarrollo de infraestructura menor y obras sociales a petición y en beneficio de las Comunidades, Patronatos, Asociaciones, Alcaldías, Juntas de Agua, Cajas Rurales, para que puedan ser gestionados sus transferencias por intermedio de 7 instituciones, entre las cuales está la Secretaría de Gobernación, Justicia y Descentralización.
+CONSIDERANDO: Que, el Decreto Legislativo No. 62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2024, en su artículo 338, autoriza una asignación presupuestaria para el desarrollo de infraestructura menor y obras sociales a petición y en beneficio de las Comunidades, Patronatos, Asociaciones, Alcaldías, Juntas de Agua, Cajas Rurales, para que puedan ser gestionados sus transferencias por intermedio de 7 instituciones, entre las cuales está la Secretaría de Gobernación, Justicia y Descentralización.
 
 CONSIDERANDO: Que, para cumplir lo dispuesto en el Decreto Legislativo Número 62-2023, es necesario crear una Comisión Técnico-Legal la cual estará bajo la coordinación de Gerencia Administrativa, para que atiendan y den cumplimiento, a las actividades de recepción, documentación y sistematización de la información generada en la ejecución y gestión de las transferencias de fondos para los Proyectos citados en el considerando precedente.
 

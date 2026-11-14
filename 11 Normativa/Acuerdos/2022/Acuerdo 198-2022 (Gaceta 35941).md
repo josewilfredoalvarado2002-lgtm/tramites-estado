@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdo No. 14-2022, 15-2022, 198-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220604-35941/download"
 extraido: "2026-11-14"
-huella: "632bfc17275e3a97"
+huella: "dc15b2b51f80b029"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 198-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en el artículo 9, numeral 3, del Regl
 
 Por Tanto:
 
-En uso de las facultades de que fue investido por la Presidente de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+En uso de las facultades de que fue investido por la Presidente de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

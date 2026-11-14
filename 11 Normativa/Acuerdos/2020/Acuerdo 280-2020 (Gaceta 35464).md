@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Nos. 273-2020, 276-2020, 278-2020, 280-2020, 281-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201219-35464/download"
 extraido: "2026-11-14"
-huella: "09541d01c859ec21"
+huella: "ea289b0e53de05a4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 280-2020
@@ -41,15 +41,13 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-280-2018, emitido por esta Dirección en fecha 16 de octubre del año 2018, publicado en el Diario Oficial La Gaceta en fecha 22 de octubre del 2018 (edición No. 34,774), se delegó en el Ciudadano YERAL JAVIER ROQUE NÚÑEZ, la función de entregar notificaciones para audiencia de descargos, así como la celebración de las referidas audiencias y cualquiera otra diligencia que sea encomendada por parte de la Jefatura de Recursos Humanos de esta Dirección de Niñez, Adolescencia y Familia.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 280-2018, emitido por esta Dirección en fecha 16 de octubre del año 2018, publicado en el Diario Oficial La Gaceta en fecha 22 de octubre del 2018 (edición No. 34,774), se delegó en el Ciudadano YERAL JAVIER ROQUE NÚÑEZ, la función de entregar notificaciones para audiencia de descargos, así como la celebración de las referidas audiencias y cualquiera otra diligencia que sea encomendada por parte de la Jefatura de Recursos Humanos de esta Dirección de Niñez, Adolescencia y Familia.
 
 CONSIDERANDO: Que de conformidad a lo establecido en la Ley de Procedimiento Administrativo, en cualquier momento, el órgano delegante, cuando lo considere conveniente u oportuno, podrá revocar la delegación y recobrar el ejercicio de la competencia delegada.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014;
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014;
 
 ACUERDA:
 

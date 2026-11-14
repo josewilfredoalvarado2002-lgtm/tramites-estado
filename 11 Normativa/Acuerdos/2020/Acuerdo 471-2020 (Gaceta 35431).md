@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Ejecutivos números 468-2020, 469-2020, 470-2020, 471-2020, Acuerdonúmero 480-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201116-35431/download"
 extraido: "2026-11-14"
-huella: "328fc2d8b8f45c2d"
+huella: "780f411ebbcfda4c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 471-2020
@@ -31,7 +31,7 @@ Tegucigalpa, municipio del Distrito Central, 8 de octubre de 2020 EL PRESIDENTE 
 
 CONSIDERANDO: Que el Presidente de la República tiene dentro de sus facultades constitucionales emitir, entre otro tipo de actos administrativos, acuerdos y decretos, conforme a los Artículos 116 y 118 de la Ley General de la Administración Pública.
 
-CONSIDERANDO: Que mediante Decreto No.33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+CONSIDERANDO: Que mediante Decreto No. 33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta el 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
 CONSIDERANDO: Que en fecha 06 de abril de 2020 mediante Decreto Ejecutivo No.PCM-030-2020, publicado en el Diario Oficial La Gaceta el 09 de abril de 2020, se declaró Prioridad Nacional el Apoyo al Sector Productor de Alimentos y Agroindustria Alimentaria y se decretaron Medidas para Asegurar la Soberanía y Seguridad Alimentaria, asimismo en el párrafo segundo del Artículo 5 se instruye a la Secretaría de Finanzas para que proceda a formalizar de manera inmediata y urgente el Proyecto de Seguridad Hídrica en el Corredor Seco de Honduras.
 
@@ -51,7 +51,7 @@ ARTÍCULO 1: Autorizar al Abogado MARCO ANTONIO MIDENCE MILLA, en su condición 
 
 #### Artículo 2
 
-ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No.239-2020 de fecha 4 de mayo de 2020.
+ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No. 239-2020 de fecha 4 de mayo de 2020.
 
 #### Artículo 3
 

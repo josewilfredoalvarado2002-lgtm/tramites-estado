@@ -11,7 +11,7 @@ paginas: "A. 17 - 36"
 sumario: "Acuerdo No. 153-GA-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210823-35696/download"
 extraido: "2026-11-14"
-huella: "42052083a25ca0a1"
+huella: "a2ad8dcf170839b6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 153-GA-2021
@@ -55,7 +55,7 @@ ARTÍCULO 1. El presente Estudio tiene como propósito determinar la asignación
 
 REPRESENTACIÓN FACTOR COMPARATIVO
 
-Embajada de Honduras ante la Santa Sede 1.2 Embajada de Honduras en Alemania 1.2 Embajada de Honduras en Argentina 0.9 Embajada de Honduras en Bélgica 1.2 Embajada de Honduras en Belice 0.785 Embajada de Honduras en Brasil 0.95 Embajada de Honduras en Canadá 1.05 Embajada de Honduras en Chile 0.9 Embajada de Honduras en Colombia 0.85 Embajada de Honduras en Corea 1.1 Embajada de Honduras en Costa Rica 0.75 Embajada de Honduras en Cuba 0.881 Embajada de Honduras en Ecuador 0.85 Embajada de Honduras en El Salvador 0.75 Embajada de Honduras en Estados Unidos de América 1.18 Embajada de Honduras en Francia 1.20 j Embajada de Honduras en Guatemala 0.75 Embajada de Honduras en Inglaterra 1.2 Embajada de Honduras en Israel 1.1 Embajada de Honduras en Italia 1.2 Embajada de Honduras en Japón 1.409 Embajada de Honduras en La Haya, Holanda 0.901 Embajada de Honduras en España 1.2 Embajada de Honduras en México 0.9 Embajada de Honduras en Nicaragua 0.7 Embajada de Honduras en Panamá 0.8 Embajada de Honduras en Perú 0.85 Embajada de Honduras en República Dominicana 0.813 Embajada de Honduras en Taiwán 0.95 Embajada de Honduras en Rusia 1 Embajada de Honduras en Venezuela 1.05 Embajada de Honduras en Kuwait 1.084 Embajada de Honduras en Austria 1.2 Embajada de Honduras en la India 1 Misión de Honduras ante la OEA 1.18 Misión de Honduras ante la ONU 1.18 Misión de Honduras ante ONU-Ginebra 1.34 Misión de Honduras en China 0.9433 Misión ante la UNESCO Francia 1.2 Resto de Europa 1.1 Consulado de Honduras en Madrid España 1.2 Consulados en el Resto de España 1.1 Consulado de Honduras en Washington , Estados Unidos de América 1.18 Consulado de Honduras en Nueva York, Estados Unidos de América 1.18 Consulado de Honduras en Miami 1.18 Consulados de Honduras en Estados Unidos de América 1.1 Consulados de Honduras en Canadá 1.05 Consulado de Honduras en México Distrito Federal 0.9 Consulado de Honduras en el resto de México 0.8
+Embajada de Honduras ante la Santa Sede 1.2 Embajada de Honduras en Alemania 1.2 Embajada de Honduras en Argentina 0.9 Embajada de Honduras en Bélgica 1.2 Embajada de Honduras en Belice 0.785 Embajada de Honduras en Brasil 0.95 Embajada de Honduras en Canadá 1.05 Embajada de Honduras en Chile 0.9 Embajada de Honduras en Colombia 0.85 Embajada de Honduras en Corea 1.1 Embajada de Honduras en Costa Rica 0.75 Embajada de Honduras en Cuba 0.881 Embajada de Honduras en Ecuador 0.85 Embajada de Honduras en El Salvador 0.75 Embajada de Honduras en Estados Unidos de América 1.18 Embajada de Honduras en Francia 1.20 j Embajada de Honduras en Guatemala 0.75 Embajada de Honduras en Inglaterra 1.2 Embajada de Honduras en Israel 1.1 Embajada de Honduras en Italia 1.2 Embajada de Honduras en Japón 1.409 Embajada de Honduras en La Haya, Holanda 0.901 Embajada de Honduras en España 1.2 Embajada de Honduras en México 0.9 Embajada de Honduras en Nicaragua 0.7 Embajada de Honduras en Panamá 0.8 Embajada de Honduras en Perú 0.85 Embajada de Honduras en República Dominicana 0.813 Embajada de Honduras en Taiwán 0.95 Embajada de Honduras en Rusia 1 Embajada de Honduras en Venezuela 1.05 Embajada de Honduras en Kuwait 1.084 Embajada de Honduras en Austria 1.2 Embajada de Honduras en la India 1 Misión de Honduras ante la OEA 1.18 Misión de Honduras ante la ONU 1.18 Misión de Honduras ante ONU-Ginebra 1.34 Misión de Honduras en China 0.9433 Misión ante la UNESCO Francia 1.2 Resto de Europa 1.1 Consulado de Honduras en Madrid España 1.2 Consulados en el Resto de España 1.1 Consulado de Honduras en Washington, Estados Unidos de América 1.18 Consulado de Honduras en Nueva York, Estados Unidos de América 1.18 Consulado de Honduras en Miami 1.18 Consulados de Honduras en Estados Unidos de América 1.1 Consulados de Honduras en Canadá 1.05 Consulado de Honduras en México Distrito Federal 0.9 Consulado de Honduras en el resto de México 0.8
 
 #### Artículo 2
 
@@ -117,13 +117,13 @@ CONSIDERANDO (4): Que el artículo 11 TRANSITORIO del Decreto 174-2013 de fecha 
 
 (1) año, contado a partir del día de la publicación del Reglamento, quedando sujetas a disolución las cooperativas que después de este plazo no hubieren cumplido con esta disposición.
 
-CONSIDERANDO (5): Que el artículo 11 TRANSITORIO del Decreto 174-2013 supra señalado, fue reformado mediante el Decreto Legislativo 146- 2019, de fecha 04 de diciembre de 2019, publicado en el Diario Oficial La Gaceta No. 35,146 en fecha 11 de enero de 2020, estableciendo que: En un plazo de noventa (90) días hábiles, la Secretaría de Estado en el Despacho de Desarrollo Económico, a propuesta del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), debe adecuar el Reglamento de la Ley de Cooperativas de Honduras conforme a las presentes reformas y adiciones.
+CONSIDERANDO (5): Que el artículo 11 TRANSITORIO del Decreto 174-2013 supra señalado, fue reformado mediante el Decreto Legislativo 146-2019, de fecha 04 de diciembre de 2019, publicado en el Diario Oficial La Gaceta No. 35,146 en fecha 11 de enero de 2020, estableciendo que: En un plazo de noventa (90) días hábiles, la Secretaría de Estado en el Despacho de Desarrollo Económico, a propuesta del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), debe adecuar el Reglamento de la Ley de Cooperativas de Honduras conforme a las presentes reformas y adiciones.
 
 Todas las Cooperativas deben ajustar sus Estatutos a las disposiciones de esta Ley, dentro del plazo de un
 
 (1) año, contado a partir del día de la publicación del Reglamento.
 
-A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No.174-2013 de fecha 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor.
+A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No. 174-2013 de fecha 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor.
 
 CONSIDERANDO (6): Que conforme lo establecido en el artículo 99 de la Ley de Cooperativas de Honduras, corresponde a la Junta Directiva, órgano de dirección del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), cumplir y hacer cumplir la legislación cooperativa y las demás normas legales pertinentes.
 
@@ -139,9 +139,7 @@ Las Cooperativas que no realicen el proceso de reinscripción en el plazo otorga
 
 Las cooperativas que no se encuentren debidamente inscritas en el Registro Nacional de Cooperativas del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), en el plazo otorgado, no estarán autorizadas para realizar actos cooperativos, ni a utilizar emblemas, símbolos, distintivos, membretes, denominaciones o vocablos como cooperativas; por lo que se pondrá en conocimiento del Ministerio Público para los efectos de Ley.
 
-SEGUNDO: Las Cooperativas a nivel nacional, deben ajustar sus Estatutos y Normativas a más tardar al 6 de abril de 2022, conforme a las disposiciones establecidas en el artículo 11 transitorio del Decreto Legislativo No.
-
-146-2019 publicado en el Diario Oficial La Gaceta el 11 de enero de 2020, que contiene las reformas a la Ley de Cooperativas de Honduras y el Acuerdo Ejecutivo No. 015-2021, publicado en el Diario Oficial La Gaceta el 06 de abril de 2021, que contiene las reformas al Reglamento de la Ley de Cooperativas de Honduras.
+SEGUNDO: Las Cooperativas a nivel nacional, deben ajustar sus Estatutos y Normativas a más tardar al 6 de abril de 2022, conforme a las disposiciones establecidas en el artículo 11 transitorio del Decreto Legislativo No. 146-2019 publicado en el Diario Oficial La Gaceta el 11 de enero de 2020, que contiene las reformas a la Ley de Cooperativas de Honduras y el Acuerdo Ejecutivo No. 015-2021, publicado en el Diario Oficial La Gaceta el 06 de abril de 2021, que contiene las reformas al Reglamento de la Ley de Cooperativas de Honduras.
 
 Para ajustar Normativas en materia de Lavado de Activos y financiamiento al terrorismo, se realizarán en base al plazo, lineamientos y normativas que al efecto establezca esta Junta Directiva.
 
@@ -153,17 +151,17 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 JOSÉ FRANCISCO ORDÓÑEZ PRESIDENTE JUNTA DIRECTIVA OLGA LIDIA VALLE SECRETARIA INTERINA DE JUNTA DIRECTIVA CONSUCOOP Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO No. J.D. 002-08-09-2020 TEGUCIGALPA, M.D.C., 08 DE SEPTIEMBRE DEL 2020 LA JUNTA DIRECTIVA DEL CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)
 
-CONSIDERANDO (1): Que la Constitución de la República en su Artículo 338, establece la obligación del Estado en la Regulación y el Fomento de las Cooperativas; para lo cual, el Congreso Nacional, mediante Decreto Legislativo No.174-2013, publicado en el Diario Oficial La Gaceta el 1 de febrero de 2014, aprobó las reformas de la Ley de Cooperativas de Honduras contenida en el Decreto No. 65-87 del 30 de abril de 1987.
+CONSIDERANDO (1): Que la Constitución de la República en su Artículo 338, establece la obligación del Estado en la Regulación y el Fomento de las Cooperativas; para lo cual, el Congreso Nacional, mediante Decreto Legislativo No. 174-2013, publicado en el Diario Oficial La Gaceta el 1 de febrero de 2014, aprobó las reformas de la Ley de Cooperativas de Honduras contenida en el Decreto No. 65-87 del 30 de abril de 1987.
 
-CONSIDERANDO (2): Que de conformidad a l o d i s p u e s t o e n l o s
+CONSIDERANDO (2): Que de conformidad a lo dispuesto en los
 
-Artículos 95 conexo con el 96 literal k) de la Ley de Cooperativas de Honduras R e f o r m a d a m e d i a n t e Decreto Legislativo No. 174- 2013, el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) tiene como objetivo determinar y dirigir la supervisión del sistema cooperativo hondureño, dictando resoluciones de carácter general y particular, y establecer las normas prudenciales con arreglo a la legislación vigente, con el fin de hacer efectiva la supervisión basada en riesgo de las cooperativas.
+Artículos 95 conexo con el 96 literal k) de la Ley de Cooperativas de Honduras Reformada mediante Decreto Legislativo No. 174-2013, el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) tiene como objetivo determinar y dirigir la supervisión del sistema cooperativo hondureño, dictando resoluciones de carácter general y particular, y establecer las normas prudenciales con arreglo a la legislación vigente, con el fin de hacer efectiva la supervisión basada en riesgo de las cooperativas.
 
 CONSIDERANDO (3): Que conforme al Artículo 119-C, de la Ley de Cooperativas de Honduras reformada, las Cooperativas de Ahorro y Crédito se rigen exclusivamente por los preceptos de la presente Ley y su Reglamento, así como, las regulaciones y normativas que se emitan sobre la materia de ahorro y crédito; asimismo, el Artículo 119-L literal a) de esta Ley, establece que tales cooperativas supervisadas por la Superintendencia de Cooperativas de Ahorro y Crédito del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) pueden recibir depósitos de ahorro y a plazo en moneda nacional.
 
 CONSIDERANDO (4): Que el Gran Acuerdo Nacional por un Crecimiento Económico con Equidad Social, suscrito en febrero de 2012 entre el Gobierno de la República de Honduras y los diferentes sectores de la sociedad, tiene como uno de sus compromisos crear incentivos para que los intermediarios financieros, entre estos, las Cooperativas de Ahorro y Crédito reguladas bajo la Ley de Cooperativas de Honduras y normativas emitidas respectivas, ofrezcan un mayor acceso a los servicios financieros para la población de menores ingresos, con el fin de promover la Inclusión Financiera en Honduras, siendo necesario establecer las políticas públicas y las disposiciones normativas que faciliten, regulen y fomenten el acceso a la Cuenta Básica para el Depósito de Ahorro a las personas de escasos recursos económicos y su cooperativización.
 
-CONSIDERANDO (5): Que la Ley de Cooperativas de Honduras, en el artículo 8, establece entre los objetivos de las Cooperativas, el coadyuvar con el Estado y sus instituciones, en la elaboración y ejecución de los planes de desarrollo económicos y sociales, así como, mejorar las condiciones económicas, social, cultural y ambiental de los cooperativistas y de la comunidad en que actúa, asimismo, las Cooperativas desde su creación tienen como propósito el atender a aquellas personas con m e n o r e s i n g r e s o s y consecuentemente menor capacidad de ahorro; por lo cual la Norma para regular la Cuenta Básica, es una herramienta de política pública importante que permitirá el acceso a los servicios y productos financieros solidarios que brindan las Cooperativas a las personas en referencia y potenciar su cooperativización.
+CONSIDERANDO (5): Que la Ley de Cooperativas de Honduras, en el artículo 8, establece entre los objetivos de las Cooperativas, el coadyuvar con el Estado y sus instituciones, en la elaboración y ejecución de los planes de desarrollo económicos y sociales, así como, mejorar las condiciones económicas, social, cultural y ambiental de los cooperativistas y de la comunidad en que actúa, asimismo, las Cooperativas desde su creación tienen como propósito el atender a aquellas personas con menores ingresos y consecuentemente menor capacidad de ahorro; por lo cual la Norma para regular la Cuenta Básica, es una herramienta de política pública importante que permitirá el acceso a los servicios y productos financieros solidarios que brindan las Cooperativas a las personas en referencia y potenciar su cooperativización.
 
 CONSIDERANDO (6): La presente Norma que regula el funcionamiento de las Cuentas Básicas de depósito de ahorro en Cooperativas de Ahorro y Crédito, fue conocida, analizada y consensuada con la Federación de Cooperativas de Ahorro y Crédito de Honduras, Limitada (FACACH), asimismo, la Federación Hondureña de Cooperativas de Ahorro y Crédito, Limitada (FEHCACREL), así como, se consideraron las observaciones para la aplicabilidad de la Norma, manifestadas por algunas Cooperativas de Ahorro y Crédito Afiliadas a dichas federaciones.
 
@@ -173,9 +171,7 @@ POR TANTO:
 
 Con fundamento en lo establecido en los Artículos 8, 93, 95, 96 literal k), 119-C, 119-L literal a) y 119-O literal
 
-h) de la Ley de Cooperativas de Honduras Reformada mediante Decretos Legislativos No.
-
-174-2013 y 146-2019.
+h) de la Ley de Cooperativas de Honduras Reformada mediante Decretos Legislativos No. 174-2013 y 146-2019.
 
 ACUERDA:
 

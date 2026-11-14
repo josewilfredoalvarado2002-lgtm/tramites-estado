@@ -11,7 +11,7 @@ paginas: "A. 28 - 40"
 sumario: "Decreto No. 208-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "7d19f7d1c1f88efe"
+huella: "359364ccfb392c94"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 208-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que conforme a los artículos 1, 2, 4 y 287 de la Constitución de
 
 CONSIDERANDO: Que el Congreso Nacional de la República de Honduras es la máxima expresión de la voluntad popular y el órgano constitucional encargado de legislar y ejercer control político en nombre del pueblo hondureño, teniendo la obligación primordial, en el marco del contrato social, de garantizar la seguridad y la tranquilidad pública que los ciudadanos han confiado al Estado.
 
-CONSIDERANDO: Que mediante Oficio No.SEP-708-2026 de fecha 21 de septiembre de 2026, la Secretaría de Estado de la Presidencia remitió a este Poder del Estado el Proyecto de Decreto que surge del Tercer Consejo Nacional de Defensa y Seguridad (CNDS) celebrado el 18 de Septiembre de 2026, orientado a reformar el marco normativo contenido en los Decretos Legislativos No.101-2015, 64-2012, 67-2008 y 168-2013.
+CONSIDERANDO: Que mediante Oficio No.SEP-708-2026 de fecha 21 de septiembre de 2026, la Secretaría de Estado de la Presidencia remitió a este Poder del Estado el Proyecto de Decreto que surge del Tercer Consejo Nacional de Defensa y Seguridad (CNDS) celebrado el 18 de Septiembre de 2026, orientado a reformar el marco normativo contenido en los Decretos Legislativos No. 101-2015, 64-2012, 67-2008 y 168-2013.
 
 CONSIDERANDO: Que el Decreto Legislativo No. 84-2026, de fecha 19 de Mayo de 2026, facultó al Consejo Nacional de Defensa y Seguridad (CNDS) para diseñar y rectorar la Política Criminal en contra de las asociaciones terroristas y de las estructuras criminales, así como para determinar cuando una organización criminal será considerada como organización terrorista.
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -63,7 +63,7 @@ LEY ESPECIAL PARA EL COMBATE A ASOCIACIONES TERRORISTAS, MARAS Y PANDILLAS Y EL 
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 4 numeral 3 y 5 y los artículos 9 y 10 del Decreto No.101-2015 contentivo de la “LEY DEL TRABAJO PARA PERSONAS PRIVADAS DE LIBERTAD Y DE PERMANENCIA PARA REOS DE ALTA PELIGROSIDAD Y AGRESIVIDAD”, de fecha 9 de septiembre de 2015, publicado en el Diario Oficial “La Gaceta” en fecha 14 de enero de 2016, el cual en adelante se leerá así:
+ARTÍCULO 1.- Reformar el Artículo 4 numeral 3 y 5 y los artículos 9 y 10 del Decreto No. 101-2015 contentivo de la “LEY DEL TRABAJO PARA PERSONAS PRIVADAS DE LIBERTAD Y DE PERMANENCIA PARA REOS DE ALTA PELIGROSIDAD Y AGRESIVIDAD”, de fecha 9 de septiembre de 2015, publicado en el Diario Oficial “La Gaceta” en fecha 14 de enero de 2016, el cual en adelante se leerá así:
 
 “ARTÍCULO 4.- DEFINICIONES. –
 
@@ -169,7 +169,7 @@ ARTÍCULO 3.- PREEMINENCIA NORMATIVA. Lo establecido en los artículos anteriore
 
 #### Artículo 4
 
-ARTÍCULO 4.- Reformar los artículos 3 y 7 del Decreto No.18-2017 contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, de fecha 30 de mayo de 2017, publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, y sus reformas, los que en adelante se leerán así:
+ARTÍCULO 4.- Reformar los artículos 3 y 7 del Decreto No. 18-2017 contentivo de la “LEY ORGÁNICA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD Y DE LA POLICÍA NACIONAL DE HONDURAS”, de fecha 30 de mayo de 2017, publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, y sus reformas, los que en adelante se leerán así:
 
 “ARTÍCULO 3.- SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
@@ -189,7 +189,7 @@ Además…… 1)…..al 19)….
 
 #### Artículo 5
 
-ARTÍCULO 5.- Reformar los incisos 28 y 29 del Artículo 10 del Decreto No.69-2017 contentivo de la “LEY DE LA CARRERA POLICIAL” de fecha 22 de agosto de 2017 publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017 y sus reformas, el que en adelante se leerá así:
+ARTÍCULO 5.- Reformar los incisos 28 y 29 del Artículo 10 del Decreto No. 69-2017 contentivo de la “LEY DE LA CARRERA POLICIAL” de fecha 22 de agosto de 2017 publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017 y sus reformas, el que en adelante se leerá así:
 
 “ARTÍCULO 10.- Son obligaciones de los miembros de la Carrera Policial las siguientes:
 
@@ -201,7 +201,7 @@ ARTÍCULO 5.- Reformar los incisos 28 y 29 del Artículo 10 del Decreto No.69-20
 
 #### Artículo 6
 
-ARTÍCULO 6.- Reformar los Artículos 1 y 7 del Decreto No.168-2013, contentivo de la “LEY DE LA POLICÍA MILITAR DEL ORDEN PÚBLICO”, de fecha 22 de agosto de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 24 de agosto de 2013, y sus reformas, el cual en adelante se leerá así:
+ARTÍCULO 6.- Reformar los Artículos 1 y 7 del Decreto No. 168-2013, contentivo de la “LEY DE LA POLICÍA MILITAR DEL ORDEN PÚBLICO”, de fecha 22 de agosto de 2013, publicado en el Diario Oficial “La Gaceta” en fecha 24 de agosto de 2013, y sus reformas, el cual en adelante se leerá así:
 
 “ARTÍCULO 1. Créase la Policía Militar del Orden Público de las Fuerzas Armadas de Honduras (PMOP), con competencia en todo el país, integrada por efectivos de las Fuerzas Armadas de Honduras (FFAA).
 

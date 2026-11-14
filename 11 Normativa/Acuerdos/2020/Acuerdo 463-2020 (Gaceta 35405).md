@@ -8,10 +8,10 @@ gaceta_numero: 35405
 gaceta_fecha: "2020-10-20"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35405 (2020-10-20)|La Gaceta 35405]]"
 paginas: "A. 5 - 6"
-sumario: "Resolución de Pleno No. 3-2020SECRETARÍA DE FINANZASAcuerdos números 193-A-2020, 455-2020, 463-2020SECRETARÍA DE SALUDAcuerdo No. 1556-2020AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 205-2020"
+sumario: "Resolución de Pleno No. 3-2020; SECRETARÍA DE FINANZAS: Acuerdos números 193-A-2020, 455-2020, 463-2020; SECRETARÍA DE SALUD: Acuerdo No. 1556-2020; AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 205-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201020-35405/download"
 extraido: "2026-11-14"
-huella: "47dc91bd63926a8a"
+huella: "dadef2c14734bb88"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 463-2020
@@ -23,7 +23,7 @@ huella: "47dc91bd63926a8a"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35405 (2020-10-20)\|La Gaceta 35405]] del 2020-10-20 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Resolución de Pleno No. 3-2020SECRETARÍA DE FINANZASAcuerdos números 193-A-2020, 455-2020, 463-2020SECRETARÍA DE SALUDAcuerdo No. 1556-2020AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 205-2020 |
+| Según el sumario de La Gaceta | Resolución de Pleno No. 3-2020; SECRETARÍA DE FINANZAS: Acuerdos números 193-A-2020, 455-2020, 463-2020; SECRETARÍA DE SALUD: Acuerdo No. 1556-2020; AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 205-2020 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante el Acuerdo No. 458- 2020 de fecha 18 de septiembre de 2020, de la Secretaría de Estado en el Despacho de Finanzas, se delegó en la Licenciada SUANY JUDITH LOPEZ MENDEZ, Jefe del Departamento de Análisis de Egresos, para que ejerza todas las funciones correspondientes como Director General de Presupuesto, por el periodo del 18 al 30 septiembre de 2020, debido a que está incapacitado de salud (Covid19), el Licenciado JOSE LUIS ORTEGA LOPEZ, Director General de Presupuesto de la Secretaría de Estado en el Despacho de Finanzas y en virtud que el Licenciado JORGE ALEXANDER FIALLOS, quien funge como Subdirector General de Presupuesto, padece enfermedades base (diabetes, hipertensión arterial), no puede asumir las funciones de Director.
+CONSIDERANDO: Que mediante el Acuerdo No. 458-2020 de fecha 18 de septiembre de 2020, de la Secretaría de Estado en el Despacho de Finanzas, se delegó en la Licenciada SUANY JUDITH LOPEZ MENDEZ, Jefe del Departamento de Análisis de Egresos, para que ejerza todas las funciones correspondientes como Director General de Presupuesto, por el periodo del 18 al 30 septiembre de 2020, debido a que está incapacitado de salud (Covid19), el Licenciado JOSE LUIS ORTEGA LOPEZ, Director General de Presupuesto de la Secretaría de Estado en el Despacho de Finanzas y en virtud que el Licenciado JORGE ALEXANDER FIALLOS, quien funge como Subdirector General de Presupuesto, padece enfermedades base (diabetes, hipertensión arterial), no puede asumir las funciones de Director.
 
 CONSIDERANDO: Que el Licenciado JOSE LUIS ORTEGA LOPEZ, Director General de Presupuesto de la Secretaría de Estado en el Despacho de Finanzas, continua incapacitado de salud (Covid19), por lo que no puede realizar sus labores como titular de la Dirección General de Presupuesto, por lo tanto es necesario ampliar el Acuerdo No. 458-2020 citado en el Considerando Anterior.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 338-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230311-36177/download"
 extraido: "2026-11-14"
-huella: "d323cb570e315eb5"
+huella: "a62c75efa7e69a98"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 338-2022
@@ -29,7 +29,7 @@ huella: "d323cb570e315eb5"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 338-2022 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiuno de febrero del año dos mil veintidós.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-25062019- 498, por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE RANCHO PERICON, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, quien sustituyó Poder en la Abogada CINTHIA CARELIA DIAZ RIVERA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-25062019-498, por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE RANCHO PERICON, MUNICIPIO DE SAN SEBASTIAN, DEPARTAMENTO DE LEMPIRA, quien sustituyó Poder en la Abogada CINTHIA CARELIA DIAZ RIVERA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

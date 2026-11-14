@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decretos Ejecutivos números PCM- 128-2020, 141-2020, 002-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210109-35482/download"
 extraido: "2026-11-14"
-huella: "0d31a67d7b0f909c"
+huella: "dc7cbe4673b5f519"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-128-2020
@@ -37,11 +37,9 @@ CONSIDERANDO: Que de acuerdo a lo establecido en el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266- 2013, el Presidente de la República por Decreto Ejecutivo en Consejo de Secretarios de Estado puede emitir dentro de la Administración Centralizada, las normas requeridas para: Determinar, la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
+CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República por Decreto Ejecutivo en Consejo de Secretarios de Estado puede emitir dentro de la Administración Centralizada, las normas requeridas para: Determinar, la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, contenida en el Decreto Legislativo No.
-
-286-2009, publicado en el Diario Oficial “La Gaceta”, en fecha 2 de febrero de 2010, específicamente en su Artículo 6 que aprueba la Visión de País al año 2038, establece como Objetivo 4: “Honduras como un Estado moderno, transparente, responsable, eficiente y competitivo”, por lo que resulta necesario crear una institucionalidad capaz de impulsar y coordinar una efectiva política integral de transparencia, probidad y prevención a la corrupción.
+CONSIDERANDO: Que la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, contenida en el Decreto Legislativo No. 286-2009, publicado en el Diario Oficial “La Gaceta”, en fecha 2 de febrero de 2010, específicamente en su Artículo 6 que aprueba la Visión de País al año 2038, establece como Objetivo 4: “Honduras como un Estado moderno, transparente, responsable, eficiente y competitivo”, por lo que resulta necesario crear una institucionalidad capaz de impulsar y coordinar una efectiva política integral de transparencia, probidad y prevención a la corrupción.
 
 CONSIDERANDO: Que el Gobierno de Honduras firmó la Convención de Naciones Unidas contra la Corrupción, el 17 de mayo de 2004, la ratificó el 20 de abril de 2005 y depositó su instrumento de ratificación el 23 de mayo de 2005. Honduras se adhiere a la convención en el año 2004, la cual en su Artículo 6 párrafo 1, dispone que cada Estado Parte de conformidad con los principios fundamentales de su ordenamiento jurídico garantizará la existencia de un órgano u órganos según proceda, encargados de prevenir la corrupción con medidas tales como: a) La aplicación de las políticas a que se hace alusión en el Artículo 5 de la Convención y cuando proceda, la supervisión y coordinación de la puesta en práctica de esas políticas; y, b) El aumento y la difusión de los conocimientos en materia de prevención de la corrupción. Reafirmando así, el compromiso del Gobierno de Honduras, con el debido cumplimiento de los Tratados en materia de prevención de la corrupción, como la Convención de las Naciones Unidas contra la Corrupción (CNUCC) y la Convención Interamericana contra la Corrupción (CICC).
 
@@ -57,17 +55,15 @@ CONSIDERANDO: Que en fecha 19 de febrero del año 2015, se suscribió un Acuerdo
 
 CONSIDERANDO: Que para consolidar el desarrollo de Honduras en democracia, se requiere de la efectiva implementación e institucionalización de políticas públicas que fomenten la prevención de la corrupción, transparencia, rendición de cuentas y participación ciudadana.
 
-POR TANTO, En uso de las facultades que le confieren los Artículos 235, 245 numerales 1, 2, 11 y 45, 246, 252, 255, 321 y 323 de la Constitución de la República; la Convención de las Naciones Unidas contra la Corrupción (CNUCC); la Convención Interamericana Contra la Corrupción (CICC); Artículos 7, 9, 10, 11, 14 numeral 1) y 4), 17, 18, 19, 20, 22 numerales 3) y 12), 25, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
+POR TANTO, En uso de las facultades que le confieren los Artículos 235, 245 numerales 1, 2, 11 y 45, 246, 252, 255, 321 y 323 de la Constitución de la República; la Convención de las Naciones Unidas contra la Corrupción (CNUCC); la Convención Interamericana Contra la Corrupción (CICC); Artículos 7, 9, 10, 11, 14 numeral 1) y 4), 17, 18, 19, 20, 22 numerales 3) y 12), 25, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 6 del Decreto Legislativo No. 286-2009;
 
-266-2013; Artículo 6 del Decreto Legislativo No. 286-2009;
-
-Decreto Ejecutivo Número PCM-022-2014, PCM- 019-2018, PCM-044-2020 y Decreto Ejecutivo Número PCM-111-2020.
+Decreto Ejecutivo Número PCM-022-2014, PCM-019-2018, PCM-044-2020 y Decreto Ejecutivo Número PCM-111-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 1, 4, 5, 6, 9, 10 y 11, párrafo primero del Decreto Ejecutivo Número PCM- 111-2020 de fecha 3 de noviembre de (2020), publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No. 35,421, los cuales se leerán así:
+ARTÍCULO 1.- Reformar los Artículos 1, 4, 5, 6, 9, 10 y 11, párrafo primero del Decreto Ejecutivo Número PCM-111-2020 de fecha 3 de noviembre de (2020), publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No. 35,421, los cuales se leerán así:
 
 “ARTÍCULO 1.- Crear la Secretaría de Estado en el Despacho de Transparencia (SDT), encargada de asesorar y asistir al Presidente de la República en lo concerniente a la formulación, promoción, coordinación, ejecución y evaluación de las estrategias y políticas públicas integrales relacionadas con la prevención a la corrupción, transparencia y buen gobierno.
 
@@ -173,7 +169,7 @@ Lo no previsto en este Artículo, en cuanto al funcionamiento de este Consejo, s
 
 ARTÍCULO 2.- Derogar los Artículos 2, 3, 6 y literal e) del
 
-Artículo 13 del Decreto Ejecutivo Número PCM-111-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No.35,421.
+Artículo 13 del Decreto Ejecutivo Número PCM-111-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de noviembre de 2020, Edición No. 35,421.
 
 #### Artículo 3
 

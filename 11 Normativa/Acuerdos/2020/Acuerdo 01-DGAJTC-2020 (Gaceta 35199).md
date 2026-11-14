@@ -8,10 +8,10 @@ gaceta_numero: 35199
 gaceta_fecha: "2020-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)|La Gaceta 35199]]"
 paginas: "A. 1 - 5"
-sumario: "Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020"
+sumario: "Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200313-35199/download"
 extraido: "2026-11-14"
-huella: "c03fc5e5e3e160b0"
+huella: "74eb4999bb4f4601"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 01-DGAJTC-2020
@@ -23,7 +23,7 @@ huella: "c03fc5e5e3e160b0"
 | Emisor | Secretaría de Relaciones Exteriores y Cooperación Internacional |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)\|La Gaceta 35199]] del 2020-03-13 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020 |
+| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020 |
 
 ## Texto
 
@@ -37,9 +37,9 @@ CONSIDERANDO: Que mediante los Acuerdos Ejecutivos No. 023-2018 de fecha 16 de a
 
 POR TANTO:
 
-En aplicación del Artículo 21 de la Constitución de la República, 29, 116 y 122 de la Ley General de la Administración Pública, 50, No.7 y 8 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Artículo 5 del Código Civil, y el Artículo 8 del “ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LOS ESTADOS UNIDOS DE AMÉRICA RELATIVO A LA COOPERACIÓN RESPECTO AL EXAMEN DE SOLICITUDES DE PROTECCIÓN”, y
+En aplicación del Artículo 21 de la Constitución de la República, 29, 116 y 122 de la Ley General de la Administración Pública, 50, No. 7 y 8 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Artículo 5 del Código Civil, y el Artículo 8 del “ACUERDO ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LOS ESTADOS UNIDOS DE AMÉRICA RELATIVO A LA COOPERACIÓN RESPECTO AL EXAMEN DE SOLICITUDES DE PROTECCIÓN”, y
 
-PRIMERO del Acuerdos Ejecutivos de Delegación No. 023- 2018 y No. 057-2018.
+PRIMERO del Acuerdos Ejecutivos de Delegación No. 023-2018 y No. 057-2018.
 
 ACUERDA:
 
@@ -55,7 +55,7 @@ RECONOCIENDO y respetando las obligaciones de cada Parte de conformidad con sus 
 
 DESTACANDO que los Estados Unidos y Honduras ofrecen sistemas de protección de refugiados que son coherentes con sus respectivas obligaciones conforme a la Convención de 1951 o el Protocolo de 1967, y que están comprometidos con la idea de que la cooperación y la distribución de la carga respecto a los solicitantes del estatus de refugiado pueden mejorarse;
 
-DESEANDO mantener el asilo o una protección temporal equivalente como medida esencial en la protección internacional de refugiados, y al mismo tiempo deseando prevenir el fraude en el sistema de protección , algo que socava su propósito legítimo, y decididos a fortalecer la integridad de esa institución y el respaldo público del que depende;
+DESEANDO mantener el asilo o una protección temporal equivalente como medida esencial en la protección internacional de refugiados, y al mismo tiempo deseando prevenir el fraude en el sistema de protección, algo que socava su propósito legítimo, y decididos a fortalecer la integridad de esa institución y el respaldo público del que depende;
 
 CONVENCIDOS de que los acuerdos entre Estados pueden mejorar la protección internacional de refugiados fomentando la gestión ordenada de solicitudes de asilo por la Parte responsable y el principio de distribución de la carga; y, CONSCIENTES de que esa distribución de la carga debe garantizar en la práctica que se identifiquen las personas que necesitan protección internacional y que se eviten las violaciones del principio básico non-refoulement, y por lo tanto determinados a salvaguardar para cada solicitante de protección que reúne las condiciones para solicitar estatus de protección que llega a su jurisdicción, el acceso a un procedimiento para determinar el estatus de protección completo e imparcial;
 

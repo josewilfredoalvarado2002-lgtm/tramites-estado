@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decretos Ejecutivos números PCM-061-2020, 062-2020, 063-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200712-35311/download"
 extraido: "2026-11-14"
-huella: "3e3eb9ffe9478905"
+huella: "b5a80b2d2100e7af"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos números PCM-061-2020, 062-2020, 063-2020
@@ -29,13 +29,13 @@ huella: "3e3eb9ffe9478905"
 
 Poder Ejecutivo
 
-DECRETO EJECUTIVO NÚMERO PCM- 061-2020
+DECRETO EJECUTIVO NÚMERO PCM-061-2020
 
 Sección A Decretos y Acuerdos
 
 PODER EJECUTIVO
 
-A. 1- 16
+A. 1-16
 
 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes”.
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes”.
 
 CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo número PCM 005-2020, publicado en el Diario Oficial “La Gaceta” en fecha diez (10) de febrero del año dos mil veinte (2020), edición número 35,171, reformado por el Decreto Ejecutivo número PCM-016-2020, con fecha de publicación seis (06) de marzo del año dos mil veinte (2020) y Decreto Ejecutivo número PCM-023-2020, publicado en el Diario Oficial La Gaceta en fecha veintiuno (21) de marzo del año dos mil veinte (2020), en virtud del cual se Declara Estado de Emergencia Humanitaria y Sanitaria, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19); la referida Declaratoria de Emergencia tendrá una vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), misma que podrá ser prorrogada.
 
@@ -139,13 +139,13 @@ ROBERTO ANTONIO ORDOÑEZ WOLFOVICH SECRETARIO DE ESTADO EN EL DESPACHO DE ENERG�
 
 NICOLE MARRDER AGUILAR SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO.
 
-NELSÓN JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM- 062-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+NELSÓN JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM-062-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad al Artículo 245 Numeral 11 de la Constitución de la República, el Presidente de la República tiene a su cargo la Administración General del Estado y tiene la atribución de emitir Acuerdos, Decretos y expedir Reglamentos y Resoluciones conforme a la Ley.
 
 CONSIDERANDO: Que con fundamento a lo establecido en los artículos 11 y 17 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública centralizada y descentralizada, quien en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Secretarios de Estado de conformidad con lo establecido en la Constitución de la República y las Leyes.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-062-2013 publicado en el Diario Oficial “La Gaceta” No. 33,313 en fecha veintiséis (26) de Diciembre del año dos mil trece (2013); y, Decreto Legislativo No.307- 2013, publicado en el Diario Oficial “La Gaceta” No.33,424 en fecha 12 de mayo de 2014, se aprobó el CONTRATO DE FIDEICOMISO PARA LA ADMINISTRACIÓN DEL PROYECTO “CENTRO CÍVICO GUBERNAMENTAL”, suscrito entre la Comisión para la promoción de la Alianza Público Privada (COALIANZA) y el BANCO LAFISE (HONDURAS), SOCIEDAD ANÓNIMA, como Banco Fiduciario
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-062-2013 publicado en el Diario Oficial “La Gaceta” No. 33,313 en fecha veintiséis (26) de Diciembre del año dos mil trece (2013); y, Decreto Legislativo No. 307-2013, publicado en el Diario Oficial “La Gaceta” No. 33,424 en fecha 12 de mayo de 2014, se aprobó el CONTRATO DE FIDEICOMISO PARA LA ADMINISTRACIÓN DEL PROYECTO “CENTRO CÍVICO GUBERNAMENTAL”, suscrito entre la Comisión para la promoción de la Alianza Público Privada (COALIANZA) y el BANCO LAFISE (HONDURAS), SOCIEDAD ANÓNIMA, como Banco Fiduciario
 
 CONSIDERANDO: Que con fecha el 07 de enero de 2015 se publicó en “La Gaceta” el Decreto Ejecutivo Número PCM-001-2015 mediante el cual el Presidente de la República en Consejo de Secretarios de Estado de conformidad con lo estipulado en el CONTRATO DE FIDEICOMISO PARA LA ADMINISTRACIÓN DEL PROYECTO “CENTRO CIVICO GUBERNAMENTAL”, designó en el artículo primero de dicho Decreto a las instituciones participantes integradas por las dependencias del Poder Ejecutivo que mantienen oficinas en el Municipio del Distrito Central y que formarán parte del proyecto denominado “Centro Cívico Gubernamental” como cualquier otra institución del Sector Público que así lo manifieste al Comité Técnico del Fideicomiso de Administración del Centro Cívico Gubernamental.
 
@@ -153,9 +153,9 @@ CONSIDERANDO: Que en fecha 01 de febrero de 2016 se adjudicó el Contrato de Ali
 
 DE C.V., como Contrato de Alianza Publico Privada iniciando con la suscripción del mismo en fecha 20 de abril de 2016, como consecuencia del Concurso Público Internacional para Adjudicar el Contrato de Alianza Público Privada para la Prestación de los Servicios y el Diseño, Financiamiento, Demolición, Construcción, Equipamiento, Operación, Explotación y Mantenimiento de las Instalaciones, relacionados con el Centro Cívico Gubernamental, en el municipio del Distrito Central de la República de Honduras.
 
-CONSIDERANDO: Mediante Decreto Ejecutivo No. PCM- 005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, reformado mediante Decreto Ejecutivo No.PCM-016-2020 del 3 de marzo de 2020, Declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar fortaleciendo las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por el Coronavirus denominado COVID-19. Posteriormente, mediante Decreto Ejecutivo No. PCM-021-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de marzo del año en curso, estableció la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República.
+CONSIDERANDO: Mediante Decreto Ejecutivo No. PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, reformado mediante Decreto Ejecutivo No.PCM-016-2020 del 3 de marzo de 2020, Declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar fortaleciendo las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la ocurrencia de infección por el Coronavirus denominado COVID-19. Posteriormente, mediante Decreto Ejecutivo No. PCM-021-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de marzo del año en curso, estableció la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República.
 
-El Decreto Ejecutivo antes referido fue reformado por los Decretos Ejecutivos Nos. PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM- 033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052- 2020, PCM-053-2020 y PCM-056-2020. Las restricciones a las Garantías Constitucionales antes descritas, continúan vigentes en el país desde el lunes 16 de marzo 2020.
+El Decreto Ejecutivo antes referido fue reformado por los Decretos Ejecutivos Nos. PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020 y PCM-056-2020. Las restricciones a las Garantías Constitucionales antes descritas, continúan vigentes en el país desde el lunes 16 de marzo 2020.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Numero PCM-016-2020 publicado en el Diario Oficial “La Gaceta” No. 35,193 en fecha seis (6) de marzo del año dos mil veinte (2020), se le instruye a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, a utilizar de su partida presupuestaria, lo que sea necesario para poder hacerle frente al ESTADO DE EMERGENCIA SANITARIA, declarado por el Poder Ejecutivo y garantizando el manejo transparente y con veeduría social los recursos para atender dicha emergencia mundial.
 
@@ -241,7 +241,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-059-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de julio del 2020, edición No. 35,304 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) días, efectivo a partir del seis (6) de julio del presente año, hasta el doce (12) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020 y PCM-059-2020.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-059-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de julio del 2020, edición No. 35,304 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por siete (7) días, efectivo a partir del seis (6) de julio del presente año, hasta el doce (12) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020 y PCM-059-2020.
 
 CONSIDERANDO: Que el crecimiento sustancial en el número de contagios según la información epidemiológica en Honduras, el total de casos confirmados a la fecha por la Pandemia de Covid-19 asciende a: 28,090 casos, 2,957 personas recuperadas y 774 fallecidos a nivel nacional, por lo que se hace necesario continuar con las medidas de Restricción de Garantías Constitucionales que contribuyan a contrarrestar el inminente peligro de contagio y continuar reforzando las medidas adoptadas para prevenir la propagación del virus.
 
@@ -251,7 +251,7 @@ CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Es
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM005-2020, PCM-021-2020, PCM-022-2020, PCM-023- 2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033- 2020, PCM-036-2020, PCM-040-2020, PCM -042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020 y PCM-059-2020; y, Decreto Ejecutivo número PCM- 061-2020 contentivo de creación de la operación “FUERZA HONDURAS”.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM -042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020 y PCM-059-2020; y, Decreto Ejecutivo número PCM-061-2020 contentivo de creación de la operación “FUERZA HONDURAS”.
 
 DECRETA:
 
@@ -259,7 +259,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del trece (13) de julio del presente año, hasta el diecinueve (19) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020 y PCM- 059-2020.
+Prorrogar por siete (7) días, efectivo a partir del trece (13) de julio del presente año, hasta el diecinueve (19) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020 y PCM-059-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187 numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 

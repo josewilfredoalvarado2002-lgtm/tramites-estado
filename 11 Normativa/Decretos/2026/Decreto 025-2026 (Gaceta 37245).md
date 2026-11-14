@@ -11,7 +11,7 @@ paginas: "A. 8 - 13"
 sumario: "Decreto Ejecutivo Número 025-2026Acuerdo Ejecutivo Número 051-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260912-37245/download"
 extraido: "2026-11-09"
-huella: "6c87a59e6ce2ccda"
+huella: "a08fccb6e44e8489"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 025-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la tendencia de los precios en el mercado internacional de los
 
 POR TANTO;
 
-En aplicación de lo establecido en los Artículos 235, Numerales 2, 11, 19, 20 y 30 del Artículo 245 de la Constitución de la República; 116 y 117 de la Ley General de la Administración Pública; Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Decreto Ejecutivo Número 011-2026, de fecha 30 de abril de 2026 y publicado el 2 de mayo de 2026 en el Diario Oficial “La Gaceta”; Decreto Ejecutivo Número 022- 2026, de fecha 30 de julio de 2026 y publicado el 31 de julio de 2026 en el Diario Oficial “La Gaceta”; y, demás aplicables.
+En aplicación de lo establecido en los Artículos 235, Numerales 2, 11, 19, 20 y 30 del Artículo 245 de la Constitución de la República; 116 y 117 de la Ley General de la Administración Pública; Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión; Decreto Ejecutivo Número 011-2026, de fecha 30 de abril de 2026 y publicado el 2 de mayo de 2026 en el Diario Oficial “La Gaceta”; Decreto Ejecutivo Número 022-2026, de fecha 30 de julio de 2026 y publicado el 31 de julio de 2026 en el Diario Oficial “La Gaceta”; y, demás aplicables.
 
 DECRETA:
 

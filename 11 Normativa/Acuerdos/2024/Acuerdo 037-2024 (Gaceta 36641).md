@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 037-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240916-36641/download"
 extraido: "2026-11-14"
-huella: "73d6526adfd49423"
+huella: "617d1fa4765056a4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 037-2024
@@ -29,7 +29,7 @@ huella: "73d6526adfd49423"
 
 Tegucigalpa, M. D. C., 15 de agosto del 2024 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE MIGRACIÓN EN USO DE SUS FACULTADES DE QUE ESTÁ INVESTIDO Y EN APLICACIÓN A LOS DECRETOS EJECUTIVOS PCM 031-2014 Y PCM 063-2014
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 031-2014 de fecha 30 de junio de 2014 reformado en su artículo 1, mediante Decreto Ejecutivo PCM-063-2014, se crea el INSTITUTO NACIONAL DE MIGRACIÓN, como un ente desconcentrado, de la Secretaría de Gobernación, Justicia y Descentralización, con personalidad jurídica propia, independencia administrativa, laboral, funcional y financiera.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-031-2014 de fecha 30 de junio de 2014 reformado en su artículo 1, mediante Decreto Ejecutivo PCM-063-2014, se crea el INSTITUTO NACIONAL DE MIGRACIÓN, como un ente desconcentrado, de la Secretaría de Gobernación, Justicia y Descentralización, con personalidad jurídica propia, independencia administrativa, laboral, funcional y financiera.
 
 CONSIDERANDO: Que conforme al artículo 3 del Decreto Ejecutivo PCM 031-2014 de fecha 30 de junio de 2014 el Instituto Nacional de Migración será dirigido por un Director Ejecutivo, quien tomará sus decisiones en los casos establecidos en el Reglamento de la Ley de Migración y Extranjería.
 

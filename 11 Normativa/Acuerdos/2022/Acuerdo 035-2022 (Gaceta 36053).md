@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdos Nos. 027-2022, 035-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221017-36053/download"
 extraido: "2026-11-14"
-huella: "8ed7feed561956a7"
+huella: "4c58485769718c51"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 035-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el artículo No. 147 de la Ley Forestal establece que correspo
 
 CONSIDERANDO: Que el artículo No. 147 de la Ley Forestal establece que los Recursos Forestales, por plagas o desastres naturales, ubicados en tierras públicas o privadas, serán aprovechados por sus titulares, previa inspección del ICF, en sitio de la zona forestal afectada, con la colaboración de los Consejos Consultivos Municipales y Comunitarios Forestales, Áreas Protegidas y Vida Silvestre, aplicando las normas contenidas en un plan de control aprobado por el ICF.
 
-CONSIDERANDO: Que el Departamento de Manejo y Desarrollo Forestal emitió Dictámen Técnico DMDF-321- 2022 mediante el cual establece que es de la opinión que se pueda continuar con el proceso de adedum al Acuerdo 011- 2020 que permita realizar los agregados especificados, para fortalecer los procesos de control, monitorieo y evaluación al momento de la detección de árboles afectados por plagas.
+CONSIDERANDO: Que el Departamento de Manejo y Desarrollo Forestal emitió Dictámen Técnico DMDF-321-2022 mediante el cual establece que es de la opinión que se pueda continuar con el proceso de adedum al Acuerdo 011-2020 que permita realizar los agregados especificados, para fortalecer los procesos de control, monitorieo y evaluación al momento de la detección de árboles afectados por plagas.
 
 CONSIDERANDO: Que la Dirección Legal mediante Memorándum ICF-DL-080-2022 solicitó pronunciamiento técnico en el que se fundamente el origen de todo el procedimiento relacionado con la petición y el argumento de la modificación solicitada.
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Acuerdos Ministeriales Nos. 236-2020, 237-2020, (Acuerdo 239-2020), 240-2020, 241-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210102-35475/download"
 extraido: "2026-11-14"
-huella: "3f4c8f0854ef9441"
+huella: "7920d567e93be9c2"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 240-2020
@@ -47,7 +47,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad con los Artículos 80, 321 y 331 de la Constitución de la República de Honduras;
 
-Artículos 36 numerales 2) y 8), 116 y 118 de la Ley General de Administración Pública ; 46 y 47 de la Ley de Procedimiento Administrativo; Artículos 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
+Artículos 36 numerales 2) y 8), 116 y 118 de la Ley General de Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículos 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
 
 ACUERDA:
 

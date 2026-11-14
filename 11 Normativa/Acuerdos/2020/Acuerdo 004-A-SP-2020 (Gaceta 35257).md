@@ -8,10 +8,10 @@ gaceta_numero: 35257
 gaceta_fecha: "2020-05-19"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35257 (2020-05-19)|La Gaceta 35257]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020PODER EJECUTIVODecreto Ejecutivo número PCM-044-2020"
+sumario: "Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-044-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200519-35257-2/download"
 extraido: "2026-11-14"
-huella: "3b78b88c1ffed984"
+huella: "f6888e59c4505d4c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 004-A-SP-2020
@@ -23,7 +23,7 @@ huella: "3b78b88c1ffed984"
 | Emisor | Presidencia |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35257 (2020-05-19)\|La Gaceta 35257]] del 2020-05-19 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020PODER EJECUTIVODecreto Ejecutivo número PCM-044-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 004-A-SP-2020, 004-B-SP-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-044-2020 |
 
 ## Texto
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Entre los proyectos de mayor importancia se encuentran el desarrol
 
 POR TANTO, En uso de las facultades de que está investido y en aplicación de los Artículo 247 de la Constitución de la República, Artículos 5, 6, 116, 118 y 119 de la Ley General de la Administración Pública; Artículo 4 y 5 de la Ley del Procedimiento Administrativo; artículos 1 y 2 del Decreto Ejecutivo número PCM-040-2019 de fecha quince de julio del año dos mil diecinueve (15.07.2019).
 
-A C U E R D A:
+ACUERDA:
 
 1. Nombrar al ciudadano MARIO LEON GOMEZ MARINI, a partir del siete de marzo del año dos mil veinte (07.03.2020), en el cargo de Director Técnico de la Unidad Especial de Ejecución de Proyectos (UEEP), cargo que desempeñará de manera Ad Honorem.
 

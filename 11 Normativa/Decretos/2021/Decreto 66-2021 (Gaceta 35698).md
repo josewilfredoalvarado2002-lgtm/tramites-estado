@@ -11,7 +11,7 @@ paginas: "A. 15 - 28"
 sumario: "Decretos Nos. 65-2021, 66-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210825-35698/download"
 extraido: "2026-11-14"
-huella: "ab62008fc373e2cc"
+huella: "86ab75670dac0a64"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 66-2021
@@ -29,11 +29,11 @@ huella: "ab62008fc373e2cc"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, Edición No.32,193, contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su
+CONSIDERANDO: Que mediante Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, Edición No. 32,193, contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su
 
 Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6696-HN suscrito el 3 de Junio de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), para la ejecución del “PROYECTO DE FORTALECIMIENTO DEL ABASTECIMIENTO DE AGUA URBANA”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6696-HN suscrito el 3 de Junio de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), para la ejecución del “PROYECTO DE FORTALECIMIENTO DEL ABASTECIMIENTO DE AGUA URBANA”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el Proyecto de Fortalecimiento del Abastecimiento de Agua Urbana tiene como objetivo mejorar la calidad y la eficiencia de los servicios de suministro de agua prestados por los Proveedores de Agua Urbana Participantes (UWP, por sus siglas en inglés) y apoyar a los municipios urbanos para responder a las necesidades de emergencia de suministro y saneamiento de agua.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19 y 36 de la Co
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO No.6696- HN, suscrito el 3 de Junio de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), para la ejecución del “PROYECTO DE FORTALECIMIENTO DEL ABASTECIMIENTO DE AGUA URBANA”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO No. 6696- HN, suscrito el 3 de Junio de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), para la ejecución del “PROYECTO DE FORTALECIMIENTO DEL ABASTECIMIENTO DE AGUA URBANA”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
@@ -313,7 +313,7 @@ Definiciones
 
 16. “Parte de Respuesta a Emergencias” significa una actividad o actividades específicas que se llevarán a cabo en caso de una Crisis o Emergencia Elegible según la Parte 4 del Proyecto.
 
-17. “Plan de Compromiso Ambiental y Social” o “ESCP, por sus siglas en inglés” significa el plan de compromiso ambiental y social para el Proyecto, fechado el 19 de mayo de 2020, ya que el mismo puede ser modificado ocasionalmente de acuerdo con las disposiciones del mismo, que establece las medidas y acciones materiales que el Receptor llevará a cabo o hará que se lleven a cabo para abordar los riesgos e impactos ambientales y sociales potenciales del Proyecto, incluidos los plazos de las acciones y medidas, los arreglos institucionales, de personal, de capacitación, de monitoreo y de informes , y cualquier instrumento ambiental y social que se prepare en virtud del mismo.
+17. “Plan de Compromiso Ambiental y Social” o “ESCP, por sus siglas en inglés” significa el plan de compromiso ambiental y social para el Proyecto, fechado el 19 de mayo de 2020, ya que el mismo puede ser modificado ocasionalmente de acuerdo con las disposiciones del mismo, que establece las medidas y acciones materiales que el Receptor llevará a cabo o hará que se lleven a cabo para abordar los riesgos e impactos ambientales y sociales potenciales del Proyecto, incluidos los plazos de las acciones y medidas, los arreglos institucionales, de personal, de capacitación, de monitoreo y de informes, y cualquier instrumento ambiental y social que se prepare en virtud del mismo.
 
 18. “Estándares Ambientales y Sociales” o “ESS, por sus siglas en inglés” significa, colectivamente: (i) “Estándar Ambiental y Social 1: Evaluación y Gestión de Riesgos e Impactos Ambientales y Sociales”; (ii) “Estándar Ambiental y Social 2: Condiciones Laborales y de Trabajo”; (iii) “ Estándar Ambiental y Social 3:
 

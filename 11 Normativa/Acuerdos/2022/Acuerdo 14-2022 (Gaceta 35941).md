@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. 14-2022, 15-2022, 198-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220604-35941/download"
 extraido: "2026-11-14"
-huella: "79f00bd5757e4dc1"
+huella: "19f7683dbef44159"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 14-2022
@@ -35,13 +35,11 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de organización, Funcionamiento y Competencias del Poder Ejecutivo establece que los Subsecretarios de Estados por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos y sustituirlo en caso de ausencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-60-2022 de fecha 03 de febrero de 2022, se nombró a 1a ciudadana CARMEN HAYDEÉ LOPEZ FLORES como Subsecretaria de Estado en el Despacho de Justicia.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 60-2022 de fecha 03 de febrero de 2022, se nombró a 1a ciudadana CARMEN HAYDEÉ LOPEZ FLORES como Subsecretaria de Estado en el Despacho de Justicia.
 
 POR TANTO;
 
-En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM- 008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

@@ -8,10 +8,10 @@ gaceta_numero: 36270
 gaceta_fecha: "2023-07-01"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36270 (2023-07-01)|La Gaceta 36270]]"
 paginas: "A. 3 - 4"
-sumario: "Acuerdos Nos. 363-2023, 386-2023, 395-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDADAcuerdo No. SEN-44-2023"
+sumario: "Acuerdos Nos. 363-2023, 386-2023, 395-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD: Acuerdo No. SEN-44-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230701-36270/download"
 extraido: "2026-11-14"
-huella: "f1a2461aeabe2315"
+huella: "2c51593726b726a4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 386-2023
@@ -23,7 +23,7 @@ huella: "f1a2461aeabe2315"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36270 (2023-07-01)\|La Gaceta 36270]] del 2023-07-01 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 363-2023, 386-2023, 395-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDADAcuerdo No. SEN-44-2023 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 363-2023, 386-2023, 395-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD: Acuerdo No. SEN-44-2023 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que nuestro marco legal vigente expresamente determina que los act
 
 CONSIDERANDO: Que el artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo, establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forma parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No. 605- 2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto del año 2022, edición No. 36,004, se delegó en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, la facultad de firmar las siguientes funciones:
+CONSIDERANDO: Que mediante Acuerdo No. 605-2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto del año 2022, edición No. 36,004, se delegó en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, la facultad de firmar las siguientes funciones:
 
 1. Providencias de: requerimiento, traslado, devolución de documentos, emisión de constancias y certificaciones; 2.
 
@@ -47,7 +47,7 @@ En aplicación de los artículos 246, 247 y 321 y 323 de la Constitución de la 
 
 ACUERDA:
 
-PRIMERO: Ampliar las funciones en el Acuerdo No. 605- 2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto del año 2022, edición No. 36,004, que contiene la delegación, en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, adicionando la facultad de firmar los Oficios de Secretaría General.
+PRIMERO: Ampliar las funciones en el Acuerdo No. 605-2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto del año 2022, edición No. 36,004, que contiene la delegación, en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, adicionando la facultad de firmar los Oficios de Secretaría General.
 
 SEGUNDO: La presente delegación tiene por objeto simplificar las actividades administrativas que se generan en esta Secretaría de Estado por los diferentes servicios que se brindan.
 

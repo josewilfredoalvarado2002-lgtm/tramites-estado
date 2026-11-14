@@ -11,7 +11,7 @@ paginas: "A. 29 - 40"
 sumario: "Acuerdo No. 08/2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200102-35138/download"
 extraido: "2026-11-14"
-huella: "7327d9ddcf8c5d0d"
+huella: "a0b6a85d0e21a8f6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.08/2019.- Sesión No.3811 del 23 de
@@ -31,7 +31,7 @@ diciembre de 2019.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS.-
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras, corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
-CONSIDERANDO: Que mediante el Acuerdo No.03/2019 del 21 de marzo de 2019 se aprobaron las modificaciones al Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual contiene la normativa aplicable a la negociación de divisas en el territorio nacional.
+CONSIDERANDO: Que mediante el Acuerdo No. 03/2019 del 21 de marzo de 2019 se aprobaron las modificaciones al Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual contiene la normativa aplicable a la negociación de divisas en el territorio nacional.
 
 CONSIDERANDO: Que conforme con el plan de modernización del marco operacional de la política cambiaria y acorde con las medidas de política establecidas en el Programa Monetario es necesario continuar avanzando en la estrategia de desarrollo del Mercado Organizado de Divisas.
 
@@ -39,9 +39,9 @@ CONSIDERANDO: Que conforme con la propuesta del Departamento Internacional, el C
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.213-6/2017 del 9 de junio de 2017,
+Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 213-6/2017 del 9 de junio de 2017,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -77,7 +77,7 @@ Artículo 3. Definiciones. Para la aplicación de este Reglamento y su normativa
 
 3.2. Banda Cambiaria: Los límites establecidos por el Directorio del BCH para la postura de precios en la Subasta de Divisas y en el MID.
 
-3.3. C a l c e d e p re c i o : L a coincidencia de precios en las ofertas de compra y venta de divisas presentadas en las negociaciones en el MID.
+3.3. C a l c e d e p re c i o: L a coincidencia de precios en las ofertas de compra y venta de divisas presentadas en las negociaciones en el MID.
 
 3.4. Clientes del Sector Privado:
 
@@ -89,9 +89,9 @@ Porcentaje que el BCH o el agente cambiario cobra o paga sobre el monto de una t
 
 3.6. Comité de Divisas: El encargado de emitir opiniones y recomendaciones sobre el mercado de divisas, así como de darle seguimiento al cumplimiento de las resoluciones emitidas por el Directorio en dicha materia.
 
-3.7. Comité de Negociación en el Mercado Interbancario de Divisas: El integrado p o r f u n c i o n a r i o s d e l Departamento Internacional, encargados de la supervisión y seguimiento del proceso de negociación en el MID.
+3.7. Comité de Negociación en el Mercado Interbancario de Divisas: El integrado por funcionarios del Departamento Internacional, encargados de la supervisión y seguimiento del proceso de negociación en el MID.
 
-3.8. Comité de Subasta de Divisas: El conformado p o r f u n c i o n a r i o s d e l Departamento Internacional, encargados de la dirección y supervisión del proceso de la Subasta de Divisas.
+3.8. Comité de Subasta de Divisas: El conformado por funcionarios del Departamento Internacional, encargados de la dirección y supervisión del proceso de la Subasta de Divisas.
 
 3.9. Contrato de Participación en el Mercado Interbancario de Divisas: El contrato de adhesión que deberá suscribir el agente cambiario aceptando las condiciones bajo las cuales participará en el MID.
 
@@ -99,7 +99,7 @@ Porcentaje que el BCH o el agente cambiario cobra o paga sobre el monto de una t
 
 3.11. Erogaciones Propias: Pagos en divisas realizados por los agentes cambiarios, por obligaciones propias adquiridas en el exterior.
 
-3.12. I n g r e s o d e D i v i s a s Recibidos por Actividades No Cambiarias: Las provenientes de intereses y comisiones netas por préstamos e inversiones; así como ingresos por otros conceptos que forman parte de la tenencia de divisas de los bancos autorizados como agentes cambiarios.
+3.12. Ingreso de Divisas Recibidos por Actividades No Cambiarias: Las provenientes de intereses y comisiones netas por préstamos e inversiones; así como ingresos por otros conceptos que forman parte de la tenencia de divisas de los bancos autorizados como agentes cambiarios.
 
 3.13. Ingresos de Divisas Propios del Sector Bancario por Movimientos de Capital y Financieros: Las divisas recibidas por el sector bancario por aportes de capital de accionistas y endeudamiento externo.
 
@@ -107,7 +107,7 @@ Porcentaje que el BCH o el agente cambiario cobra o paga sobre el monto de una t
 
 3.15. Mercado Organizado de Divisas: Es aquel donde concurren vendedores (oferentes) y compradores (demandantes) de divisas, debidamente regulado por el BCH como entidad ejecutora de la política cambiaria.
 
-3.16. Módulo de Negociación Directa: Módulo del Sistema Electrónico de Negociación d e D i v i s a s ( S E N D I ) , mediante el cual se desarrolla la negociación de divisas en el MID.
+3.16. Módulo de Negociación Directa: Módulo del Sistema Electrónico de Negociación de Divisas ( SENDI ), mediante el cual se desarrolla la negociación de divisas en el MID.
 
 3.17. Módulo de Subasta de Divisas: Módulo del SENDI en el cual el BCH vende divisas a los agentes cambiarios y a las personas naturales y jurídicas a través de éstos, acorde con la normativa establecida por su Directorio.
 
@@ -117,7 +117,7 @@ Porcentaje que el BCH o el agente cambiario cobra o paga sobre el monto de una t
 
 Transacciones de compra y venta de valores que se realizan en los mercados locales primario o secundario, los cuales son emitidos en moneda local por la SEFIN y que sirven como subyacentes para emisiones de valores en moneda extranjera colocados en mercados internacionales.
 
-3.20. N o r m a t i v a C o m p l e - mentaria: Normas emitidas por el Directorio del BCH que complementan lo establecido en el presente Reglamento.
+3.20. Normativa Comp le - mentaria: Normas emitidas por el Directorio del BCH que complementan lo establecido en el presente Reglamento.
 
 3.21. Ofertas No Nominativas:
 
@@ -135,15 +135,15 @@ Corresponde al flujo de fondos que se generan por el pago de las obligaciones en
 
 3.26. Sistema Electrónico de Negociación de Divisas (SENDI): Sistema propiedad del BCH, en el que se ejecutan las negociaciones en forma electrónica de la Subasta de Divisas y el MID.
 
-3.27. S u b a s t a d e D i v i s a s :
+3.27. Subasta de Divisas:
 
 Modalidad de venta de divisas adoptada por el BCH, en la cual se adjudican o venden las divisas ofertadas (disponibles para la venta por el BCH).
 
 3.28. Tenencia de Divisas: Activos líquidos en divisas de los agentes cambiarios adquiridos mediante la compra de divisas al BCH, a otros agentes cambiarios y a sus clientes del sector privado utilizando recursos propios en moneda nacional, así como, las divisas producto de ingresos netos por actividades no cambiarias.
 
-3.29. T i p o d e C a m b i o d e Referencia (TCR): Es el promedio ponderado por montos de los precios que resulten del último evento de la Subasta de Divisas, el MID y el TCR del día de las divisas retenidas por los bancos, para el pago de erogaciones propias y venta directa a los clientes del sector privado.
+3.29. Tipo de Cambio de Referencia (TCR): Es el promedio ponderado por montos de los precios que resulten del último evento de la Subasta de Divisas, el MID y el TCR del día de las divisas retenidas por los bancos, para el pago de erogaciones propias y venta directa a los clientes del sector privado.
 
-3.30. To k e n : D i s p o s i t i v o electrónico que utiliza un usuario autorizado de un servicio computarizado para facilitar y asegurar los procesos de autenticación y de firma digital.
+3.30. To k e n: Dispositivo electrónico que utiliza un usuario autorizado de un servicio computarizado para facilitar y asegurar los procesos de autenticación y de firma digital.
 
 CAPÍTULO III DISPOSICIONES GENERALES
 
@@ -209,7 +209,7 @@ Artículo 12. Las instituciones que, a partir de la fecha de publicación de est
 
 3. Certificación de la autorización de la Comisión Nacional de Bancos y Seguros (CNBS) para operar como institución del sistema financiero nacional.
 
-4. O t r o s d o c u m e n t o s d e acreditación.
+4. Otros documentos de acreditación.
 
 CAPÍTULO V SUBASTA ELECTRÓNICA DE DIVISAS
 

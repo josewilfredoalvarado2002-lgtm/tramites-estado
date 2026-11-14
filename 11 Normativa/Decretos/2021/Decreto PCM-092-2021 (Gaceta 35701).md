@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-092-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210828-35701/download"
 extraido: "2026-11-14"
-huella: "bb678b4c84d5ea15"
+huella: "2ab1455c8ce3183b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-092-2021
@@ -41,35 +41,31 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020 del 29 de dici
 
 PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por Coronavirus (COVID-19).
 
-CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No.033-2020, publicado en el Diario Oficial “La Gaceta” en fecha 3 de abril de 2020, edición No.
-
-35,217, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID–19; en su Artículo 8, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los Ejercicios Fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019, para la creación de un fondo de emergencia destinado a atender los efectos originados por el Coronavirus (COVID-19)…”.
+CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 033-2020, publicado en el Diario Oficial “La Gaceta” en fecha 3 de abril de 2020, edición No. 35,217, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID–19; en su Artículo 8, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los Ejercicios Fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019, para la creación de un fondo de emergencia destinado a atender los efectos originados por el Coronavirus (COVID-19)…”.
 
 CONSIDERANDO: Que de acuerdo al Artículo 79 del Decreto Legislativo No. 83-2004, publicado en el Diario Oficial “La Gaceta”, edición No. 30,421, contentivo de la Ley Orgánica del Presupuesto, establece que: “La Secretaría de Estado en el Despacho de Finanzas supervisará la adecuada utilización de los recursos provenientes del crédito público y tendrá la facultad de redistribuir o reasignar los créditos, siempre que sea permitido por las condiciones de la operación respectiva y de la Ley especial que lo autorizó”.
 
-CONSIDERANDO: Que el Decreto No.182-2020, publicado el 23 de diciembre de 2020, edición No.35,468 en el Diario Oficial “La Gaceta”, contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, en su Artículo 53 indica que: “… La Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Crédito Público podrá redistribuir, reasignar, reorientar o desestimar los fondos provenientes de los créditos externos, lo cual deberá asegurar que dicha medida es congruente y factible con las prioridades de Gobierno”.
+CONSIDERANDO: Que el Decreto No. 182-2020, publicado el 23 de diciembre de 2020, edición No. 35,468 en el Diario Oficial “La Gaceta”, contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, en su Artículo 53 indica que: “… La Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Crédito Público podrá redistribuir, reasignar, reorientar o desestimar los fondos provenientes de los créditos externos, lo cual deberá asegurar que dicha medida es congruente y factible con las prioridades de Gobierno”.
 
 CONSIDERANDO: Que existen diversos mecanismos de financiamiento que los organismos internacionales de crédito han puesto a disposición del Gobierno de la República de Honduras con el propósito de hacer frente a los efectos de la Emergencia Humanitaria y Sanitaria en el País ante la actual ocurrencia de infección por Coronavirus (COVID-19).
 
 CONSIDERANDO: Que el Banco Interamericano de Desarrollo (BID) ha puesto a disposición del Gobierno de la República de Honduras recursos financieros bajo diferentes mecanismos para la atención inmediata en el marco de la emergencia sanitaria, siendo uno de ellos la facilidad de redistribuir los recursos disponibles de los saldos no desembolsados de la cartera de préstamos de inversión vigentes.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-089-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de septiembre de 2020, edición No. 35,374, se autorizó la asignación de forma directa y exclusiva a la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H) como Organismo Ejecutor del Proyecto de Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa que es financiado a través del Contrato de Préstamo No.4713-BL-HO.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-089-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de septiembre de 2020, edición No. 35,374, se autorizó la asignación de forma directa y exclusiva a la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales de Honduras (AEPAS-H) como Organismo Ejecutor del Proyecto de Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa que es financiado a través del Contrato de Préstamo No. 4713-BL-HO.
 
-CONSIDERANDO: Que después de los respectivos análisis, se ha determinado redistribuir recursos disponibles de los saldos no desembolsados del Contrato de Préstamo No.4713/BL-HO, suscrito con el Banco Interamericano de Desarrollo (BID), para financiar la ejecución del Proyecto “Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa”.
+CONSIDERANDO: Que después de los respectivos análisis, se ha determinado redistribuir recursos disponibles de los saldos no desembolsados del Contrato de Préstamo No. 4713/BL-HO, suscrito con el Banco Interamericano de Desarrollo (BID), para financiar la ejecución del Proyecto “Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa”.
 
 POR TANTO;
 
 En uso de las facultades de que está investido y en aplicación de las disposiciones establecidas en el Artículo 245 numerales 1,2,11,19,20, 29 y 30, y Artículo 335 de la Constitución de la República; Artículos 6, 11, 17, 22 numerales 5), 9) y 12), 33, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013;
 
-Decreto Legislativo No.033-2020 y Decreto Legislativo No.
-
-83-2004; Decreto Ejecutivo Número PCM-005-2020 y sus reformas y Decretos Ejecutivos Números: PCM-089-2020 y PCM-146-2020.
+Decreto Legislativo No. 033-2020 y Decreto Legislativo No. 83-2004; Decreto Ejecutivo Número PCM-005-2020 y sus reformas y Decretos Ejecutivos Números: PCM-089-2020 y PCM-146-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Autorizar a la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras, de manera inmediata efectué las acciones necesarias ante el Banco Interamericano de Desarrollo (BID) con el propósito de formalizar la redistribución de los recursos disponibles de los saldos no desembolsados del Contrato de Préstamo No.4713/ BL-HO, suscrito el 10 de octubre de 2019 con el BID hasta por un monto de Cincuenta y Tres Millones Ochocientos Veinte Mil Dólares de los Estados Unidos de América (US$53,820,000.00), recursos destinados a Financiar la ejecución del Proyecto “Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa”, con el propósito de que dicha redistribución de recursos sea efectiva al Proyecto de Respuesta Inmediata de Salud Pública para Contener y Controlar el Coronavirus (COVID-19) Fase II y mitigar su efecto en la Prestación de Servicios en Honduras financiado por el BID.
+ARTÍCULO 1. Autorizar a la Secretaría de Estado en el Despacho de Finanzas para que en nombre y representación del Gobierno de la República de Honduras, de manera inmediata efectué las acciones necesarias ante el Banco Interamericano de Desarrollo (BID) con el propósito de formalizar la redistribución de los recursos disponibles de los saldos no desembolsados del Contrato de Préstamo No. 4713/ BL-HO, suscrito el 10 de octubre de 2019 con el BID hasta por un monto de Cincuenta y Tres Millones Ochocientos Veinte Mil Dólares de los Estados Unidos de América (US$53,820,000.00), recursos destinados a Financiar la ejecución del Proyecto “Fortalecimiento Integral de la Red de Atención de Traumas y Urgencias de Tegucigalpa”, con el propósito de que dicha redistribución de recursos sea efectiva al Proyecto de Respuesta Inmediata de Salud Pública para Contener y Controlar el Coronavirus (COVID-19) Fase II y mitigar su efecto en la Prestación de Servicios en Honduras financiado por el BID.
 
 #### Artículo 2
 

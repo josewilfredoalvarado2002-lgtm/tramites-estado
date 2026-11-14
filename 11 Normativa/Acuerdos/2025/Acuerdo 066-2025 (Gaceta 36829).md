@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Nos. 019-2025, 038-2025,066-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250505-36829/download"
 extraido: "2026-11-11"
-huella: "8d854dc7c99eafe6"
+huella: "f415e997e7d4c245"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 066-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución manda como obligación del Poder Ejecutivo ad
 
 CONSIDERANDO: Que el artículo 29 de la Ley General de la Administración Pública estipula que, a la Secretaría de Estado en el Despacho de Salud, le compete lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con la protección, fomento, prevención, preservación, restitución y rehabilitación de la salud de la población.
 
-C O N S I D E R A N D O : Q u e m e d i a n t e A c u e r d o Ministerial No. 1578-2019 se aprobó el “ACUERDO TRANSITORIO CUOTAS DE RECUPERACIÓN PARA OTORGAR O DENEGAR LICENCIA SANITARIA A ESTABLECIMIENTOS PROVEEDORES DE SERVICIOS DE SALUD Y OTROS PÚBLICOS Y PRIVADOS, ASÍ COMO AUTORIZACIONES SOBRE LOS PROCESOS DE ATENCIÓN EN SALUD, SALUD AMBIENTAL, SALUD OCUPACIONAL Y PERSONAL DE SALUD Y OTRAS DEFINIDAS POR LA AUTORIDAD DE SALUD”.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 1578-2019 se aprobó el “ACUERDO TRANSITORIO CUOTAS DE RECUPERACIÓN PARA OTORGAR O DENEGAR LICENCIA SANITARIA A ESTABLECIMIENTOS PROVEEDORES DE SERVICIOS DE SALUD Y OTROS PÚBLICOS Y PRIVADOS, ASÍ COMO AUTORIZACIONES SOBRE LOS PROCESOS DE ATENCIÓN EN SALUD, SALUD AMBIENTAL, SALUD OCUPACIONAL Y PERSONAL DE SALUD Y OTRAS DEFINIDAS POR LA AUTORIDAD DE SALUD”.
 
 CONSIDERANDO: Que el Artículo 12 del Acuerdo Ministerial No. 1578-2019, establece que los fondos recuperados serán utilizados únicamente para financiar gastos operacionales y sus colaterales y gastos de Capital con el fin de fortalecer la función de vigilancia del cumplimiento del Marco Normativo en sus diferentes niveles.
 
@@ -43,9 +43,7 @@ CONSIDERANDO: Que el Artículo 12 del Acuerdo Ministerial No. 1578-2019 en su p�
 
 CONSIDERANDO: Que el mismo Artículo 12 del Acuerdo Ministerial No. 1578-2019, detalla los objetos del gasto a afectar con el uso de las Cuotas de Recuperación y que de acuerdo con las facultades otorgadas se amplía dicho Acuerdo.
 
-POR TANTO: En aplicación del Artículo 146, de la Constitución de la República, Artículo 36 numerales 1), 2) y 8) de la Ley General de la Administración Pública, Artículos 4, 5, 6, de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-1578-2019.
+POR TANTO: En aplicación del Artículo 146, de la Constitución de la República, Artículo 36 numerales 1), 2) y 8) de la Ley General de la Administración Pública, Artículos 4, 5, 6, de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 1578-2019.
 
 ACUERDA:
 
@@ -61,7 +59,7 @@ SEGUNDO: Que los demás Artículos del Acuerdo Ministerial No. 1578-2019 se mant
 
 TERCERO: El Presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial La Gaceta.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 DOCTORA CARLA MARINA PAREDES REYES SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD ABOGADA BERTA MIREYA HERNANDEZ ESCOBAR SECRETARIA GENERAL
 

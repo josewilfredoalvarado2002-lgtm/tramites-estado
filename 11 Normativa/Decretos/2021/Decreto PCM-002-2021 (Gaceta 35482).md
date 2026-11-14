@@ -11,7 +11,7 @@ paginas: "A. 15 - 18"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210109-35482/download"
 extraido: "2026-11-14"
-huella: "5780b66288da6c0d"
+huella: "48b7a2d10dce3bd7"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-002-2021
@@ -37,13 +37,13 @@ CONSIDERANDO: Que de acuerdo con el Artículo 11 de la Ley General de Administra
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM 005-2020; publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional a raíz de la pandemia del Coronavirus (COVID-19), por lo cual es obligación del Estado de Honduras, salvaguardar la salud de la población hondureña, en atención a su mandato constitucional.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de noviembre de 2020, Edición No. 35,417, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116- 2020, se declaró Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” y otros fenómenos climáticos que ocasionaren daño a la infraestructura productiva del país.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de noviembre de 2020, Edición No. 35,417, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116-2020, se declaró Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” y otros fenómenos climáticos que ocasionaren daño a la infraestructura productiva del país.
 
 POR TANTO;
 
 En aplicación de los Artículos 59, 245 numerales 2, 11, 19, 20, 39 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7,11,17,18, 20, 22 numerales 5), 9) y 12) de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013;
 
-Decreto Ejecutivo Número PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM-016- 2020, PCM-023-2020; Decretos Ejecutivos Números PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
+Decreto Ejecutivo Número PCM-005-2020, reformado mediante Decretos Ejecutivos Números: PCM-016-2020, PCM-023-2020; Decretos Ejecutivos Números PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 DECRETA:
 

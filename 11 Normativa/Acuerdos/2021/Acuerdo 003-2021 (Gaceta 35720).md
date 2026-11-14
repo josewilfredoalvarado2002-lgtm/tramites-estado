@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Certificación (ACUERDO No. 003-2021)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210917-35720/download"
 extraido: "2026-11-14"
-huella: "371fdd2dab97acb2"
+huella: "66fe7040a95ef33d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-2021
@@ -55,7 +55,7 @@ Que la ciudadana
 
 KENDRA
 
-NERISSA JONES THOMPSON, fue nombrada al cargo de Subdirectora Ejecutiva, según punto primero del ACTA No.06-2008 de la Sesión Ordinaria de la Comisión Administradora de la Zona Libre Turística del departamento de Islas de la Bahía de fecha 05 de septiembre de 2008.
+NERISSA JONES THOMPSON, fue nombrada al cargo de Subdirectora Ejecutiva, según punto primero del ACTA No. 06-2008 de la Sesión Ordinaria de la Comisión Administradora de la Zona Libre Turística del departamento de Islas de la Bahía de fecha 05 de septiembre de 2008.
 
 POR TANTO:
 
@@ -69,9 +69,7 @@ SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en 
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-Dado en Tegucigalpa, municipio del Distrito Central, a los diecisiete (17) días del mes de febrero de dos mil veintiuno (2021). (F) ROXANA MELANI RODRIGUEZ ALVARADO, Presidente de la Comisión Administradora de la Zona Libre Turística de Islas de la Bahía. (F) CARLOS EDUARDO FLORES, Secretario General, Acuerdo No.
-
-05-2010”.
+Dado en Tegucigalpa, municipio del Distrito Central, a los diecisiete (17) días del mes de febrero de dos mil veintiuno (2021). (F) ROXANA MELANI RODRIGUEZ ALVARADO, Presidente de la Comisión Administradora de la Zona Libre Turística de Islas de la Bahía. (F) CARLOS EDUARDO FLORES, Secretario General, Acuerdo No. 05-2010”.
 
 Y para los fines legales correspondientes, se le extiende la presente en la ciudad de Roatán, departamento de Islas de la Bahía, a los veintisiete días del mes de abril del año dos mil veintiuno.
 

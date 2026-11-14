@@ -11,7 +11,7 @@ paginas: "A. 15 - 24"
 sumario: "Acuerdos Nos. 09/2022, 10/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220606-35942/download"
 extraido: "2026-11-14"
-huella: "6cf2658bf0baf218"
+huella: "f53f60b7249e12e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.10/2022.- Sesión No.3972 del 2 de junio
@@ -35,27 +35,27 @@ CONSIDERANDO: Que en el marco del plan de modernización operacional de la polí
 
 CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios, así como las que efectúe el sector público, se aplicará el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, la Normativa Complementaria a dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
-CONSIDERANDO: Que mediante Acuerdo No.07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No.17/2021, No.03/2022 y No.05/2022, del 9 de diciembre de 2021, 3 y 31 de marzo de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No. 17/2021, No. 03/2022 y No. 05/2022, del 9 de diciembre de 2021, 3 y 31 de marzo de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
 
 CONSIDERANDO: Que de acuerdo con el comportamiento de la oferta y demanda de divisas se determinó que la economía genera los flujos de divisas que permiten a los agentes cambiarios atender directamente la demanda de divisas del sector privado de la economía.
 
-CONSIDERANDO: Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución al Comité de Divisas en la Sesión Ordinaria No.14/2022 del 27 de mayo de 2022, referente a la solicitud de la Asociación Hondureña de Instituciones Bancarias (Ahiba), sobre los tiempos de envío de los Saldos de Tenencia de divisas de los agentes cambiarios, así como el reporte consolidado de compra y venta de divisas en forma preliminar, el Comité de Divisas aprobó someter a consideración de este Directorio la eliminación del numeral 8.2 y la modificación del numeral 8.6 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, en el sentido que los agentes cambiarios remitan diariamente a más tardar a las 10:00 a.m. del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas, asimismo, dar de baja al envío del reporte consolidado de compra y venta de divisas preliminar.
+CONSIDERANDO: Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución al Comité de Divisas en la Sesión Ordinaria No. 14/2022 del 27 de mayo de 2022, referente a la solicitud de la Asociación Hondureña de Instituciones Bancarias (Ahiba), sobre los tiempos de envío de los Saldos de Tenencia de divisas de los agentes cambiarios, así como el reporte consolidado de compra y venta de divisas en forma preliminar, el Comité de Divisas aprobó someter a consideración de este Directorio la eliminación del numeral 8.2 y la modificación del numeral 8.6 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, en el sentido que los agentes cambiarios remitan diariamente a más tardar a las 10:00 a.m. del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas, asimismo, dar de baja al envío del reporte consolidado de compra y venta de divisas preliminar.
 
-CONSIDERANDO: Que en el Punto 3 del Acta de la Sesión Ordinaria No.14/2022 del Comité de Divisas antes referida y de acuerdo con el análisis del comportamiento del mercado cambiario, se acordó someter a consideración de este Directorio la modificación a la normativa cambiaria, en el sentido de eliminar de la misma los numerales 5, 5.1, 5.2, 5.3 y literal
+CONSIDERANDO: Que en el Punto 3 del Acta de la Sesión Ordinaria No. 14/2022 del Comité de Divisas antes referida y de acuerdo con el análisis del comportamiento del mercado cambiario, se acordó someter a consideración de este Directorio la modificación a la normativa cambiaria, en el sentido de eliminar de la misma los numerales 5, 5.1, 5.2, 5.3 y literal
 
 f) del numeral 6.1 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, relacionado con la potestad del BCH de vender divisas directamente.
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
 Derogar los numerales 5, 5.1., 5.2., 5.3., literal f) del numeral 6.1 y 8.2. y aprobar la modificación del inciso
 
-8.6 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No.05/2022, emitido por el Directorio del BCH el 31 de marzo de 2022, que en lo sucesivo se leerá así:
+8.6 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No. 05/2022, emitido por el Directorio del BCH el 31 de marzo de 2022, que en lo sucesivo se leerá así:
 
 “8.6 Los agentes cambiarios deberán remitir diariamente a más tardar a las 10:00 a.m. del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas. …” II.
 

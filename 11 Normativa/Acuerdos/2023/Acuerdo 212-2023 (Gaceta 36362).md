@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdos Ejecutivos Nos. 196-2023, 209-2023, 212-2023, 216-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231019-36362/download"
 extraido: "2026-11-14"
-huella: "37a9f6e54f7d181c"
+huella: "d58aca3bbffe2db2"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 212-2023
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su artículo 245, numeral
 
 CONSIDERANDO: Que de acuerdo al artículo 11 de la Ley General de la Administración Pública, la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la administración pública centralizada y descentralizada.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 51- 2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
+CONSIDERANDO: Que mediante Decreto Legislativo 51-2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
 
 CONSIDERANDO: Que el artículo 3, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo dispone que “los órganos de la Administración Pública incluyendo las instituciones autónomas, coordinarán sus actividades por sectores, atendiendo los fines y objetivos establecidos en las políticas nacionales, con el objeto de evitar interferencias o la pérdida de recursos y asegurar la eficiencia y eficacia en la actividad administrativa”, aspectos ausentes en la actividad de la actual del Consejo Nacional de Inversiones (CNI).
 

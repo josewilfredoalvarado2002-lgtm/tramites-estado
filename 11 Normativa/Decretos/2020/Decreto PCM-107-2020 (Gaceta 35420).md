@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto Ejecutivo número PCM-107-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201105-35420/download"
 extraido: "2026-11-14"
-huella: "dc6725b3899f1263"
+huella: "39e5d63bbaa55a53"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-107-2020
@@ -39,7 +39,7 @@ Artículo 347 de la Constitución de la República manda que “La producción a
 
 CONSIDERANDO: Que el cultivo, procesamiento y comercialización del café es la actividad económica más significativa de nuestro país, corresponde al treinta por ciento (30%) de la producción agrícola del País, beneficia a más de 120,000 familias productoras y emplea a más de un millón de personas y aporta entre el veinte por ciento (20%) y veinticinco por ciento (25%) de las divisas nacionales.
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.145-2000, contentivo de la Ley del Consejo Nacional del Café, en el Artículo 1 se establece que el Consejo será el órgano encargado de formular la Política Cafetalera del País y asesorará al Presidente de la República en asuntos relacionados con la Industria del Café. ​
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 145-2000, contentivo de la Ley del Consejo Nacional del Café, en el Artículo 1 se establece que el Consejo será el órgano encargado de formular la Política Cafetalera del País y asesorará al Presidente de la República en asuntos relacionados con la Industria del Café. ​
 
 CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance los derechos a la salud y la seguridad alimentaria del pueblo, para lo cual se hace necesario tomar medidas de carácter extraordinario.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 y sus reformas
 
 CONSIDERANDO: Además del fortalecimiento a la producción, es necesario impulsar las medidas de bioseguridad en el Sector Cafetalero para la Cosecha 2020-2021, a efecto de proteger la salud de los participantes en la recolección del café.
 
-CONSIDERANDO: Que en el Marco de la Disciplina Presupuestaria y la aplicación del Decreto Legislativo No.33-2020, Decreto Legislativo No. 92-2020 y Decreto Ejecutivo Número PCM-020-2020, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), está facultada a tomar una serie de medidas presupuestarias para atender los efectos por el Coronavirus (COVID-19).
+CONSIDERANDO: Que en el Marco de la Disciplina Presupuestaria y la aplicación del Decreto Legislativo No. 33-2020, Decreto Legislativo No. 92-2020 y Decreto Ejecutivo Número PCM-020-2020, la Secretaría de Estado en el Despacho de Finanzas (SEFIN), está facultada a tomar una serie de medidas presupuestarias para atender los efectos por el Coronavirus (COVID-19).
 
 CONSIDERANDO: Que la transparencia y la rendición de cuentas son garantías para un mejor desempeño del servidor público y del Gobierno en general y, además, son condiciones necesarias para una efectiva participación de la ciudadanía en la construcción de una auténtica democracia.
 
@@ -55,7 +55,7 @@ POR TANTO;
 
 En el uso de las facultades de que está investido y en aplicación de los Artículos 59, 145, 245 numerales 2, 11 y 29, 321, 329, 347 de la Constitución de la República; Artículos 11, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; Declaración Universal de Derechos Humanos de 1948; Artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1996); Artículo 8 del Decreto Legislativo No. 33-2020,
 
-Artículo 1 del Decreto Legislativo No. 92-2020, Decreto Legislativo No.145-2000 y Decreto Legislativo No. 213-2000;
+Artículo 1 del Decreto Legislativo No. 92-2020, Decreto Legislativo No. 145-2000 y Decreto Legislativo No. 213-2000;
 
 Decreto Ejecutivo Número PCM-005-2020 y sus reformas; y, Artículo 1 segundo párrafo del Decreto Ejecutivo Número PCM-020-2020.
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decreto Ejecutivo número PCM-030-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200409-35222/download"
 extraido: "2026-11-14"
-huella: "857718993b612758"
+huella: "299b5fab9bd9a0e7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 030-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 8 de la Ley de Protección al 
 
 CONSIDERANDO: Que es necesario establecer un precio máximo de venta en todo el territorio nacional de las mascarillas.
 
-CONSIDERANDO: Que en fecha 10 de marzo se emitió el Acuerdo Ministerial No.018-2020, en el cual se establecen los precios máximos de venta en todo el territorio nacional de Gel Antibacterial y el Alcohol Etílico con 95 grados de concentración.
+CONSIDERANDO: Que en fecha 10 de marzo se emitió el Acuerdo Ministerial No. 018-2020, en el cual se establecen los precios máximos de venta en todo el territorio nacional de Gel Antibacterial y el Alcohol Etílico con 95 grados de concentración.
 
 CONSIDERANDO: Que en virtud de las facultades establecidas en el artículo 74 de la Ley de Protección al Consumidor, la vigencia del Acuerdo Ministerial 018-2020 podrá ser prorrogable por igual término mientras persistan las causas que lo originaron, por lo tanto en virtud de persistir las causas se amplía la vigencia del mismo por el plazo de un Mes contado a partir de la fecha de su aprobación.
 
@@ -61,11 +61,11 @@ ACUERDA:
 
 PRIMERO: Establecer el precio máximo de venta al consumidor final en todo el territorio nacional de los siguientes productos que se detallan a continuación:
 
-TERCERO: Prorrogar la vigencia del Acuerdo Ministerial No.018-2020 de fecha 10 de marzo de 2020, por UN MES contado a partir del once (11) de abril al once (11) de mayo de dos mil veinte (2020), en el cual se establece el precio máximo de venta en todo el territorio nacional del Gel Antibacterial y el Alcohol Etílico con 95% de concentración como materia prima del Gel Antibacterial, de la manera siguiente:
+TERCERO: Prorrogar la vigencia del Acuerdo Ministerial No. 018-2020 de fecha 10 de marzo de 2020, por UN MES contado a partir del once (11) de abril al once (11) de mayo de dos mil veinte (2020), en el cual se establece el precio máximo de venta en todo el territorio nacional del Gel Antibacterial y el Alcohol Etílico con 95% de concentración como materia prima del Gel Antibacterial, de la manera siguiente:
 
-CUARTO: Que las presentaciones con diferentes contenidos netos que no se encuentren detalladas en el Acuerdo Ministerial No.018-2020 de fecha 10 de marzo de 2020, también quedan sujetas a precios máximos de venta aquellas presentaciones que su contenido neto sea menor a los detallados en dicho Acuerdo, por lo que no podrán superar los precios establecidos.
+CUARTO: Que las presentaciones con diferentes contenidos netos que no se encuentren detalladas en el Acuerdo Ministerial No. 018-2020 de fecha 10 de marzo de 2020, también quedan sujetas a precios máximos de venta aquellas presentaciones que su contenido neto sea menor a los detallados en dicho Acuerdo, por lo que no podrán superar los precios establecidos.
 
-QUINTO: En cumplimiento del Artículo 4 del Decreto Ejecutivo Número PCM-021-2020 y sus reformas, se instruye a la Dirección General de Protección al Consumidor a realizar las verificaciones necesarias para garantizar el cumplimiento de los precios máximos establecidos en el Acuerdo No.018-2020 de fecha 10 de marzo de 2020 y el presente Acuerdo con una fuerte cantidad de personal y el Ministerio Público, debiendo sancionar administrativamente de conformidad con la Ley de Protección al Consumidor y otras leyes administrativas vigentes a todos aquellos proveedores de bienes y servicios que infrinjan lo dispuesto en este Acuerdo.
+QUINTO: En cumplimiento del Artículo 4 del Decreto Ejecutivo Número PCM-021-2020 y sus reformas, se instruye a la Dirección General de Protección al Consumidor a realizar las verificaciones necesarias para garantizar el cumplimiento de los precios máximos establecidos en el Acuerdo No. 018-2020 de fecha 10 de marzo de 2020 y el presente Acuerdo con una fuerte cantidad de personal y el Ministerio Público, debiendo sancionar administrativamente de conformidad con la Ley de Protección al Consumidor y otras leyes administrativas vigentes a todos aquellos proveedores de bienes y servicios que infrinjan lo dispuesto en este Acuerdo.
 
 SEXTO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial “LA GACETA”.
 

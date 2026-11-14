@@ -11,7 +11,7 @@ paginas: "A. 15 - 24"
 sumario: "Acuerdo Nos. SETRASS-655-2026, SETRASS-659-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261015-37270/download"
 extraido: "2026-11-09"
-huella: "be86868b92f9cd46"
+huella: "2cb82ea9aca7e8de"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETRASS N° 659-2026
@@ -171,9 +171,7 @@ CONSIDERANDO (06):
 
 Que la Ley Constitutiva de las Fuerzas Armadas en el artículo 76 establece “El Comando de Doctrina del Ejército es el dedicado al desarrollo de la doctrina, formación y enseñanza de los conocimientos militares en las diferentes armas y servicios que componen el Ejército”.
 
-CONSIDERANDO (07): Que en fecha diez (10) de junio del año dos mil veintiséis (2026) la Comandancia General del Ejército emitió REMISIÓN con registro No.
-
-CGE-06-2026 mediante el cual informó que la creación del Departamento de Doctrina y Educación Militar del Ejército (DEDOCEME) no implica un incremento en la masa salarial ni costos adicionales para la institución, ya que la estructura del mismo se cubrirá en su totalidad mediante un proceso de reasignación del talento humano existente.
+CONSIDERANDO (07): Que en fecha diez (10) de junio del año dos mil veintiséis (2026) la Comandancia General del Ejército emitió REMISIÓN con registro No. CGE-06-2026 mediante el cual informó que la creación del Departamento de Doctrina y Educación Militar del Ejército (DEDOCEME) no implica un incremento en la masa salarial ni costos adicionales para la institución, ya que la estructura del mismo se cubrirá en su totalidad mediante un proceso de reasignación del talento humano existente.
 
 CONSIDERANDO (08):
 

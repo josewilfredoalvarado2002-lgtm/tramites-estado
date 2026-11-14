@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decretos Nos. 12-2021, 60-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210807-35680/download"
 extraido: "2026-11-14"
-huella: "55d12f0a2c86d67a"
+huella: "01ead7da88760b31"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 12-2021
@@ -41,11 +41,11 @@ Artículo 205, Atribución 1) de la Constitución de la República, es potestad 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 1, 2, 3, 5, 6, 8, 13, 17 y 19 de la LEY DEL RÉGIMEN OPCIONAL COMPLEMENTARIO PARA LA ADMINISTRACIÓN DE FONDOS PRIVADOS DE PENSIONES, contenida en el Decreto No.319- 2002, del 17 de Septiembre del año 2002, publicada en el Diario Oficial “La Gaceta” del 06 de Diciembre del 2002, los cuales de ahora en adelante se leerán así:
+ARTÍCULO 1.- Reformar los artículos 1, 2, 3, 5, 6, 8, 13, 17 y 19 de la LEY DEL RÉGIMEN OPCIONAL COMPLEMENTARIO PARA LA ADMINISTRACIÓN DE FONDOS PRIVADOS DE PENSIONES, contenida en el Decreto No. 319-2002, del 17 de Septiembre del año 2002, publicada en el Diario Oficial “La Gaceta” del 06 de Diciembre del 2002, los cuales de ahora en adelante se leerán así:
 
 “ARTÍCULO 1.- OBJETO. La presente Ley tiene como objeto regular la organización, autorización, constitución, funcionamiento y operación de las Sociedades Mercantiles que se dediquen a la gestión y administración de fondos privados voluntarios de pensiones y cesantías, a través de cuentas individuales de capitalización.
 
@@ -93,7 +93,7 @@ El objeto social de las Administradoras de Fondos de Pensiones y Cesantías
 
 Las Administradoras de Fondos de Pensiones (AFP) autorizadas de conformidad con la presente Ley, podrán prestar servicios de administración e inversión de un fondo particular, a entidades que hayan conformado un fondo voluntario de pensiones para el otorgamiento de un beneficio predefinido de retiro, por la libre voluntad o acuerdo entre partes, formado mediante aportes de los afiliados.
 
-D e l m i s m o m o d o , l a s Administradoras podrán administrar fondos constituidos con cualquier otro propósito análogo, previamente calificadas por la Comisión Nacional de Bancos y Seguros (CNBS)”.
+Del mismo modo, l a s Administradoras podrán administrar fondos constituidos con cualquier otro propósito análogo, previamente calificadas por la Comisión Nacional de Bancos y Seguros (CNBS)”.
 
 “ARTÍCULO 5.- CAPITAL
 
@@ -119,7 +119,7 @@ Esta reserva para pérdidas, por su naturaleza no podrá ser considerada para el
 
 Las pérdidas por una inadecuada administración de los fondos por no realizar una gestión prudente o no cumplir con la debida diligencia, deberán ser cubiertas por las Administradoras de Fondos de Pensiones (AFP), conforme al reglamento que emita la Comisión”.
 
-“ A RT Í C U L O 8 . - F O N D O S
+“ A RT Í C U L O 8 . - FONDOS
 
 ADMINISTRADOS. Con los aportes voluntarios del afiliado y/o, u otras asociaciones según corresponda, más las rentabilidades que los mismos produzcan, las Administradoras deberán constituir una Cuenta Individual de Capitalización que será propiedad exclusiva de los afiliados.
 
@@ -149,7 +149,7 @@ El Fondo estará formado por el conjunto de cuentas individuales de capitalizaci
 
 La Comisión emitirá ...”.
 
-“ARTÍCULO 17.- ATRIBUC I O N E S D E L Ó R G A N O SUPERVISOR
+“ARTÍCULO 17.- ATRIBUC IONES DEL ÓRGANO SUPERVISOR
 
 \1) Supervisar el funcionamiento…
 
@@ -181,9 +181,9 @@ Complementariamente se sancionará...”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar el Artículo 23-A en la LEY DEL RÉGIMEN OPCIONAL COMPLEMENTARIO PARA LA ADMINISTRACIÓN DE FONDOS PRIVADOS DE PENSIONES contenida en el Decreto No.319-2002, de 17 de Septiembre del año 2002, publicada en el Diario Oficial “La Gaceta” el 06 de Diciembre del 2002, el cual de ahora en adelante se leerá así:
+ARTÍCULO 2.- Adicionar el Artículo 23-A en la LEY DEL RÉGIMEN OPCIONAL COMPLEMENTARIO PARA LA ADMINISTRACIÓN DE FONDOS PRIVADOS DE PENSIONES contenida en el Decreto No. 319-2002, de 17 de Septiembre del año 2002, publicada en el Diario Oficial “La Gaceta” el 06 de Diciembre del 2002, el cual de ahora en adelante se leerá así:
 
-“ A R T Í C U L O 2 3 - A . - L a s Administradoras que no cumplan con el capital mínimo establecido en el Artículo 5 de la presente Ley o con la constitución de la reserva para pérdidas señalada en el Artículo 6, deberán presentar en un plazo no mayor a noventa (90) días calendario, a partir de la entrada en vigencia del presente Decreto, un plan de adecuación para conocimiento y aprobación de la Comisión Nacional de Bancos y Seguros (CNBS).
+“ ARTÍCULO 2 3 - A . - L a s Administradoras que no cumplan con el capital mínimo establecido en el Artículo 5 de la presente Ley o con la constitución de la reserva para pérdidas señalada en el Artículo 6, deberán presentar en un plazo no mayor a noventa (90) días calendario, a partir de la entrada en vigencia del presente Decreto, un plan de adecuación para conocimiento y aprobación de la Comisión Nacional de Bancos y Seguros (CNBS).
 
 Asimismo, las Administradoras que están autorizadas a operar a la fecha de entrada en vigencia del presente Decreto, no podrán reducir el capital suscrito y pagado que tienen registrado en sus estados financieros”.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. DGRP-IP-028-2023,DGRP-IP-029-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230215-36156/download"
 extraido: "2026-11-14"
-huella: "73ffb933a817f7b9"
+huella: "a41b8cf9f7a418ba"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-IP-028-2023
@@ -29,9 +29,7 @@ huella: "73ffb933a817f7b9"
 
 El Director General de Regularización Predial del Instituto de la Propiedad. - Tegucigalpa, M.D.C., 26 de enero del 2023.
 
-CONSIDERANDO: Que mediante artículo 4 del Decreto Nº.
-
-82-2004 de fecha veintiocho de mayo del año 2004, se creó el Instituto de la Propiedad (IP) como un ente desconcentrado de la Presidencia de la República. Con personalidad jurídica y patrimonio propio, funcionando con independencia técnica administrativa y financiera y ejerciendo sus funciones en todo el territorio nacional.
+CONSIDERANDO: Que mediante artículo 4 del Decreto Nº. 82-2004 de fecha veintiocho de mayo del año 2004, se creó el Instituto de la Propiedad (IP) como un ente desconcentrado de la Presidencia de la República. Con personalidad jurídica y patrimonio propio, funcionando con independencia técnica administrativa y financiera y ejerciendo sus funciones en todo el territorio nacional.
 
 CONSIDERANDO: Que según lo establecido en el Artículo 3 de la Ley de Propiedad, son objetivos de la presente Ley:
 
@@ -69,9 +67,7 @@ En cumplimiento a los deberes y atribuciones señalados en los artículos 321 de
 
 \9) 10), 55,60, 61, 62 y 67 y los Artículos 2, 15, 179, 181 literal
 
-e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No.
-
-CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
+e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No. CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
 
 ACUERDA:
 

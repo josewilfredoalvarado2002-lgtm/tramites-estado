@@ -11,7 +11,7 @@ paginas: "A. 17 - 38"
 sumario: "Acuerdos números 01-2021, 02-2021, 03-2021,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210524-35608/download"
 extraido: "2026-11-14"
-huella: "82d1f35ced217056"
+huella: "1044e89a334c4cc4"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 02-2021
@@ -51,7 +51,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-102-2020 de fecha 31 de
 
 POR TANTO:
 
-En el uso de las facultades de que está investido y en aplicación de los Artículo 321 y 323 de la Constitución de la República; 21, 22, 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; 1, 11 numeral 3 reformado, 16 numeral 13, 38 de la Ley del Sistema Penitenciario Nacional; Decreto Legislativo número 6-2017 de fecha 22 de febrero del año 2017, publicado en el Diario Oficial La Gaceta 34,276 de fecha 27 de febrero del 2017; Decreto Ejecutivo número PCM-068- 2019 de fecha 16 de diciembre del 2019, publicado en el Diario Oficial La Gaceta 35,125 de fecha 16 de diciembre del 2019;
+En el uso de las facultades de que está investido y en aplicación de los Artículo 321 y 323 de la Constitución de la República; 21, 22, 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; 1, 11 numeral 3 reformado, 16 numeral 13, 38 de la Ley del Sistema Penitenciario Nacional; Decreto Legislativo número 6-2017 de fecha 22 de febrero del año 2017, publicado en el Diario Oficial La Gaceta 34,276 de fecha 27 de febrero del 2017; Decreto Ejecutivo número PCM-068-2019 de fecha 16 de diciembre del 2019, publicado en el Diario Oficial La Gaceta 35,125 de fecha 16 de diciembre del 2019;
 
 Decreto Ejecutivo número PCM-102-2020 de fecha 31 de diciembre del 2020, publicado en el Diario Oficial La Gaceta 35,474 de fecha 31 de diciembre del 2020; 43 del Reglamento de la Carrera de Personal de Servicio Penitenciario y demás aplicables.
 

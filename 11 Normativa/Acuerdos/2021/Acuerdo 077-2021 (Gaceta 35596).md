@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdos Ministeriales Nos. 076-2021, 077-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210511-35596/download"
 extraido: "2026-11-14"
-huella: "45664a92307241b3"
+huella: "bbc51a5418772830"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 077-2021
@@ -45,7 +45,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 072- 2021 de fecha 07 de abril del año 2021, en el que se delegó temporalmente a la Abogada NINOSCA SARAHI PINEDA PEÑA, como Directora Legal de la Regional Nor Occidental de San Pedro Sula.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 072-2021 de fecha 07 de abril del año 2021, en el que se delegó temporalmente a la Abogada NINOSCA SARAHI PINEDA PEÑA, como Directora Legal de la Regional Nor Occidental de San Pedro Sula.
 
 SEGUNDO: Delegar funcionalmente como encargado de la Dirección Legal de la Regional Nor Occidental de San Pedro Sula al Abogado BENJAMIN EUGENIO SEGURA GALDAMEZ, para que pueda firmar todos los Autos, Opiniones, Dictámenes Legales y todo lo demás relacionado con el desempeño de las funciones de dicha Dirección Regional.
 

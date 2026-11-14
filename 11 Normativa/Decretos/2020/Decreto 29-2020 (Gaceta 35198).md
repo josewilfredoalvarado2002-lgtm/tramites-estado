@@ -8,10 +8,10 @@ gaceta_numero: 35198
 gaceta_fecha: "2020-03-12"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)|La Gaceta 35198]]"
 paginas: "A. 6 - 8"
-sumario: "Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020"
+sumario: "Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200312-35198/download"
 extraido: "2026-11-14"
-huella: "b811a09266e266e6"
+huella: "2435019b883e92cf"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 29-2020
@@ -23,7 +23,7 @@ huella: "b811a09266e266e6"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35198 (2020-03-12)\|La Gaceta 35198]] del 2020-03-12 |
 | Páginas | A. 6 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020PODER EJECUTIVODecreto Ejecutivo número PCM-008-2020PODER LEGISLATIVODecreto No. 029-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 018-2020; PODER EJECUTIVO: Decreto Ejecutivo número PCM-008-2020; PODER LEGISLATIVO: Decreto No. 029-2020 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -55,7 +55,7 @@ ARTÍCULO 2.- Las Instituciones del Estado no están sujetas al pago del Impuest
 
 #### Artículo 3
 
-ARTÍCULO 3.- El Estado y las Asociaciones Civiles sin fines de lucro están exceptuadas de presentar la solvencia tributaria establecida en el Artículo 28 del Decreto No.113- 2011 de fecha 28 de junio de 2011 y publicado en el Diario Oficial “La Gaceta”, Edición No.35,562 del 8 de julio de 2011 y el Artículo 21 del Decreto No.170-2016 de fecha 15 de diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de diciembre de 2016, Edición 34,224, en el trámite de todas las franquicias aduaneras y exoneraciones de compras locales así como las donaciones en concepto de ayuda humanitaria en el área de salud, educación y alimentos, derivadas de la Emergencia establecida en el Consejo Directivo del Sistema Nacional de Riesgos (SINAGER) por la prevención y lucha contra el Coronavirus y Dengue.
+ARTÍCULO 3.- El Estado y las Asociaciones Civiles sin fines de lucro están exceptuadas de presentar la solvencia tributaria establecida en el Artículo 28 del Decreto No. 113-2011 de fecha 28 de junio de 2011 y publicado en el Diario Oficial “La Gaceta”, Edición No. 35,562 del 8 de julio de 2011 y el Artículo 21 del Decreto No. 170-2016 de fecha 15 de diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de diciembre de 2016, Edición 34,224, en el trámite de todas las franquicias aduaneras y exoneraciones de compras locales así como las donaciones en concepto de ayuda humanitaria en el área de salud, educación y alimentos, derivadas de la Emergencia establecida en el Consejo Directivo del Sistema Nacional de Riesgos (SINAGER) por la prevención y lucha contra el Coronavirus y Dengue.
 
 Se instruye a la Administración Aduanera de Honduras a fin de emitir los lineamientos administrativos necesarios para facilitar el pronto despacho relacionado con el párrafo anterior.
 

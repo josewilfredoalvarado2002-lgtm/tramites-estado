@@ -8,10 +8,10 @@ gaceta_numero: 35212
 gaceta_fecha: "2020-03-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)|La Gaceta 35212]]"
 paginas: "A. 17 - 20"
-sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
+sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200327-35212/download"
 extraido: "2026-11-14"
-huella: "634db4741df74bdd"
+huella: "2111f6c1e6d4fefb"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 027-2020
@@ -23,7 +23,7 @@ huella: "634db4741df74bdd"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)\|La Gaceta 35212]] del 2020-03-27 |
 | Páginas | A. 17 - 20 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
 
 ## Texto
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que según lo establecido en el Comunicado de Prensa de fecha 20 d
 
 POR TANTO:
 
-La Secretaria de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad con los Artículos 321 y 331 de la Constitución de la República; Artículos 36 numerales 2) y 8), 116 y ´ 118, de la Ley General de Administración Pública; 6, 8, 72 73 y 75 de la Ley de Protección al Consumidor; 23 y 24 del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005-2020; Decreto Ejecutivo PCM-021- 2020, reformado con el Decreto Ejecutivo PCM-022-2020.
+La Secretaria de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad con los Artículos 321 y 331 de la Constitución de la República; Artículos 36 numerales 2) y 8), 116 y ´ 118, de la Ley General de Administración Pública; 6, 8, 72 73 y 75 de la Ley de Protección al Consumidor; 23 y 24 del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo Número PCM-005-2020; Decreto Ejecutivo PCM-021-2020, reformado con el Decreto Ejecutivo PCM-022-2020.
 
 ACUERDA:
 

@@ -8,10 +8,10 @@ gaceta_numero: 36664
 gaceta_fecha: "2024-10-15"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36664 (2024-10-15)|La Gaceta 36664]]"
 paginas: "A. 6 - 8"
-sumario: "Acuerdo Ministerial No. 0550-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-167-2024"
+sumario: "Acuerdo Ministerial No. 0550-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-167-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241015-36664/download"
 extraido: "2026-11-14"
-huella: "c2b84147110dc6b6"
+huella: "88574ae3d7e6ec94"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-167-2024
@@ -23,7 +23,7 @@ huella: "c2b84147110dc6b6"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36664 (2024-10-15)\|La Gaceta 36664]] del 2024-10-15 |
 | Páginas | A. 6 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 0550-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-167-2024 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 0550-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-167-2024 |
 
 ## Texto
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Dirección General de Pesca y Acuicultura (DIGEPESCA), es l
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial No. 380-05, de fecha 29 de julio del año 2005, la SAG desarrolló la normativa para regular la recolección, comercialización, importación, utilización y tenencia de huevos, partes y derivados de las tortugas golfinas, dadas las competencias legalmente establecidas a través de la Constitución de la República.
 
-CONSIDERANDO: Que la Comisión de Verificación y Control Ambiental del Golfo de Fonseca (CVC-GOLF), es una institución ambiental sin fines de lucro creada mediante Acuerdo Número 796- 03 del 1 de septiembre del año 2003 por esta Secretaría de Estado y conformada por las instituciones ambientales de la zona sur, que cuenta con el recurso humano capacitado y los recursos económicos necesarios, para coordinar y operar el Proyecto de “Protección y Conservación de la Tortuga Golfina” que se desarrolla cada año.
+CONSIDERANDO: Que la Comisión de Verificación y Control Ambiental del Golfo de Fonseca (CVC-GOLF), es una institución ambiental sin fines de lucro creada mediante Acuerdo Número 796-03 del 1 de septiembre del año 2003 por esta Secretaría de Estado y conformada por las instituciones ambientales de la zona sur, que cuenta con el recurso humano capacitado y los recursos económicos necesarios, para coordinar y operar el Proyecto de “Protección y Conservación de la Tortuga Golfina” que se desarrolla cada año.
 
 CONSIDERANDO: Que las tortugas golfinas (Lepidochelys olivácea y Eretmochelys imbricatta), llegan cada año para anidar y desovar a las playas del pacífico hondureño, y que sus huevos son considerados por el sector pesquero artesanal del Golfo de Fonseca, como una fuente de ingreso económico adicional a la faena pesquera, siendo esta una práctica de aprovechamiento cultural para las comunidades costeras de la zona Sur de Honduras. Ambas especies se encuentran incluidas en el Apéndice I de CITES, debido a la preocupación sobre el estado de salud de sus poblaciones; por lo que los Estados deben establecer regulaciones efectivas para su aprovechamiento y conservación.
 

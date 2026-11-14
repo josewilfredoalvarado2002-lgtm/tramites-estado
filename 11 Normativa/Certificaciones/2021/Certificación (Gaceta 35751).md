@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211020-35751/download"
 extraido: "2026-11-14"
-huella: "2aa06e30b6401dc7"
+huella: "0b77492507102235"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -53,9 +53,7 @@ Código de Salud y Ley General del Ambiente y demás Leyes Aplicables efectuando
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EL BUEN SAMARITANO, MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, la Asamblea de Usuarios es la máxima autoridad de la comunidad a nivel local, expresa la voluntad colectiva de los abonados debidamente convocados.
 
-OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No.
-
-002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los
+OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los
 
 Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 

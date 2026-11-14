@@ -11,7 +11,7 @@ paginas: "A. 22 - 32"
 sumario: "Certificación, Resolución-CD-142-24-07/2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260805-37212/download"
 extraido: "2026-11-09"
-huella: "0dc3b4de9c639f8f"
+huella: "20352aa46be645f1"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "0dc3b4de9c639f8f"
 
 ## Texto
 
-El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15- 05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-24/2026, contentiva de la sesión ordinaria celebrada el 24 de julio de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓNCD-142-24-07/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar la actualización del Reglamento de Viáticos y Otros Gastos de Viaje del Banco Hondureño para la Producción y la Vivienda (Banhprovi), el cual forma parte íntegra de esta Resolución, el que deberá leerse así:
+El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15-05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-24/2026, contentiva de la sesión ordinaria celebrada el 24 de julio de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓNCD-142-24-07/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar la actualización del Reglamento de Viáticos y Otros Gastos de Viaje del Banco Hondureño para la Producción y la Vivienda (Banhprovi), el cual forma parte íntegra de esta Resolución, el que deberá leerse así:
 
 REGLAMENTO DE VIÁTICOS Y OTROS GASTOS DE VIAJE DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI)
 
@@ -267,9 +267,7 @@ CAMBIOS DE VERSIÓN DESCRIPCIÓN DEL CAMBIO FECHA
 
 NO.
 
-006 Modificación de montos y estructuración Actualización y adecuación del Reglamento de Viáticos y Otros Gastos de Viaje conforme al Acuerdo Ejecutivo No.
-
-401-2026; incluye actualización de controles, responsabilidades, procedimientos, categorías de puestos y tablas de viáticos.
+006 Modificación de montos y estructuración Actualización y adecuación del Reglamento de Viáticos y Otros Gastos de Viaje conforme al Acuerdo Ejecutivo No. 401-2026; incluye actualización de controles, responsabilidades, procedimientos, categorías de puestos y tablas de viáticos.
 
 ANEXO 1 RANGO DE VIÁTICOS POR PUESTOS DEL MANUAL DE VALUACIÓN DE PUESTOS.
 
@@ -311,7 +309,7 @@ Período corto Período largo Categoría Inter I Inter II Inter III Inter IV Int
 
 2. Instruir a la Secretaría del Honorable Consejo Directivo certificar la presente resolución y realizar el trámite respectivo para su publicación en el Diario Oficial La Gaceta. 3. Se instruye al Departamento de Organización y Planeamiento, en conjunto con el Departamento de Talento Humano, sociabilicen el reglamento descrito en el Resuelve No. 1 precedente con la presente resolución, con el fin de apoyar sus funciones.
 
-4. Esta resolución entra en vigor en esta fecha, quedando la documentación correspondiente adjunta al acta”. Para los efectos legales pertinentes (F) SERGIO ROBERTO AMAYA ORELLANA. Presidente Ejecutivo. (F) VIOLETA SOFÍA RODRÍGUEZ OCHOA. Consejera Propietaria. (F) JAVIER FRANCISCO PAREDES BAIDE. Consejero Propietario. (F) FRANCISCO JAVIER ARGUETA SABILLÓN. Comisario. (F) RAMÓN ÁNGEL REYES BAUTISTA. Secretario del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi). Firman la Resolución CD-142- 24-07/2026. La presente Resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el 24 de julio de 2026.
+4. Esta resolución entra en vigor en esta fecha, quedando la documentación correspondiente adjunta al acta”. Para los efectos legales pertinentes (F) SERGIO ROBERTO AMAYA ORELLANA. Presidente Ejecutivo. (F) VIOLETA SOFÍA RODRÍGUEZ OCHOA. Consejera Propietaria. (F) JAVIER FRANCISCO PAREDES BAIDE. Consejero Propietario. (F) FRANCISCO JAVIER ARGUETA SABILLÓN. Comisario. (F) RAMÓN ÁNGEL REYES BAUTISTA. Secretario del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi). Firman la Resolución CD-142-24-07/2026. La presente Resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el 24 de julio de 2026.
 
 ...............................última línea..............................
 

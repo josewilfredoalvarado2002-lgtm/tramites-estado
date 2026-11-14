@@ -11,7 +11,7 @@ paginas: "A. 8 - 84"
 sumario: "Certificaciones de los Acuerdos Nos. CD-IP-001-2022, CD-IP-002-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220224-35857/download"
 extraido: "2026-11-14"
-huella: "80a6981e175b6007"
+huella: "d08ec67cd133fec4"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -2585,9 +2585,7 @@ Artículo 160. Se faculta a la Dirección para que apruebe los procedimientos, p
 
 La aplicación de las afectaciones en la cuenta corriente vehicular originada por las solicitudes de traspaso de ventas anuladas de vehículos nuevos, únicamente se realizará en el plazo para la inscripción o registro establecido en el Artículo 6 del Decreto 50-2016, el cual es de 30 días calendario siguientes a la fecha de suscripción de documento de traspaso o pago de los derechos de importación para registrarse en la Dirección, aplicando el crédito por el valor de la tasa sin la generación de sanción alguna.
 
-De conformidad con el Artículo 4 del Decreto Legislativo No.
-
-112-2017, el procedimiento anterior solamente se aplica para vehículos nuevos y su traspaso no afecta el tracto sucesivo del bien mueble que corresponda.
+De conformidad con el Artículo 4 del Decreto Legislativo No. 112-2017, el procedimiento anterior solamente se aplica para vehículos nuevos y su traspaso no afecta el tracto sucesivo del bien mueble que corresponda.
 
 Los vehículos, afectos a este procedimiento, para los efectos legales consiguientes se reportan siempre como bienes muebles nuevos.
 
@@ -3045,9 +3043,7 @@ Artículo 206. Las tasas relativas a los procesos llevados a cabo por el Registr
 
 #### Artículo 207
 
-Artículo 207. El presente Reglamento deroga el Acuerdo No.
-
-CD-IP-006-2018 publicado en el Diario Oficial La Gaceta del 9 de octubre del 2018 y el Acuerdo CD-IP-010-2020 publicado el 27 de noviembre del 2020 y cualquier otra disposición que contravenga las contenidas en este Reglamento.
+Artículo 207. El presente Reglamento deroga el Acuerdo No. CD-IP-006-2018 publicado en el Diario Oficial La Gaceta del 9 de octubre del 2018 y el Acuerdo CD-IP-010-2020 publicado el 27 de noviembre del 2020 y cualquier otra disposición que contravenga las contenidas en este Reglamento.
 
 SEGUNDO: El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Diario Oficial “La Gaceta”.
 

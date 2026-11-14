@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Decreto No. 57-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211026-35755/download"
 extraido: "2026-11-14"
-huella: "29c493cce66466e6"
+huella: "ea67a92c6fa0dec4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 57-2019
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Reformar los artículos 3, 123 y 126 del Decreto No.247-2011 de fecha 14 de Diciembre de 2011 y publicado en el Diario Oficial “La Gaceta” No. 32,701 del 22 de Diciembre de 2011, que contiene la LEY DEL INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), en el sentido de que la aportación equivalente al ocho por ciento (8%) del salario sujeto a contribución en concepto de cotizaciones individuales, no debe afectar ni aplicarse al décimo tercero y décimo cuarto mes de salario de cada docente, los cuales deben leerse así:
+ARTÍCULO 1: Reformar los artículos 3, 123 y 126 del Decreto No. 247-2011 de fecha 14 de Diciembre de 2011 y publicado en el Diario Oficial “La Gaceta” No. 32,701 del 22 de Diciembre de 2011, que contiene la LEY DEL INSTITUTO NACIONAL DE PREVISIÓN DEL MAGISTERIO (INPREMA), en el sentido de que la aportación equivalente al ocho por ciento (8%) del salario sujeto a contribución en concepto de cotizaciones individuales, no debe afectar ni aplicarse al décimo tercero y décimo cuarto mes de salario de cada docente, los cuales deben leerse así:
 
 “ARTÍCULO 3.- DEFINICIÓN Y SIGNIFICADO DE TÉRMINOS:
 

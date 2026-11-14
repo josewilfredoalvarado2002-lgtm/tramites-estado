@@ -11,7 +11,7 @@ paginas: "A. 25 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210129-35501/download"
 extraido: "2026-11-14"
-huella: "55a7759960194dcb"
+huella: "e62f80d9397c1c2b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-015-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que se ha permitido la circulación en horarios no permitidos, a l
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321, 323 y 333 de la Constitución de la República;
 
-Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266- 2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM- 048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM- 063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM- 090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM- 108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM- 125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021 y PCM-012-2021.
+Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021 y PCM-012-2021.
 
 DECRETA:
 

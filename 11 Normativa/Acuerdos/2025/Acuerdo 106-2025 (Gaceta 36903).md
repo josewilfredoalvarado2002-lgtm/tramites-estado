@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Ejecutivos Nos. 106-2025,107-2025, 108-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250730-36903/download"
 extraido: "2026-11-09"
-huella: "fb3343395682c291"
+huella: "ebb4cdd433d5d853"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 106-2025
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos: 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41- 2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41-2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
 
 ACUERDA:
 

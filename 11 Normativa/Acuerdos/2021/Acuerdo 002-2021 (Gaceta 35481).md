@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdos Ministeriales Nos. 001-2021, 002-2021, 003-2021, 004-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210108-35481/download"
 extraido: "2026-11-14"
-huella: "746bc29020b6c76b"
+huella: "596c985e53622e2c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 002-2021
@@ -33,11 +33,11 @@ CONSIDERANDO: Que el Artículo 247 de la Constitución de la República establec
 
 CONSIDERANDO: Que a la Secretaría de Estado en el Despacho de Desarrollo Económico, conforme a lo establecido en el Artículo 29 Numeral 7 de la Ley General de la Administración Pública, le compete entre sus atribuciones, las políticas relacionadas con el comercio nacional e internacional de bienes y servicios.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial 2 2 9 - 2 0 2 0 s e e s t a b l e c i ó temporalmente que el horario de atención del Puesto Fronterizo Integrado de Agua Caliente, fuera las 24 horas del día mientras se restablezca el funcionamiento normal de los puestos fronterizos integrado de Corinto y el Florido.
+CONSIDERANDO: Que mediante Acuerdo Ministerial 2 2 9 - 2 0 2 0 se estableció temporalmente que el horario de atención del Puesto Fronterizo Integrado de Agua Caliente, fuera las 24 horas del día mientras se restablezca el funcionamiento normal de los puestos fronterizos integrado de Corinto y el Florido.
 
 CONSIDERANDO: Que actualmente los Puestos Fronterizos Integrados de Corinto y el Florido han restablecido su funcionamiento normal.
 
-CONSIDERANDO: Que el Artículo 54 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo establece que a la Secretaría de Estado en el Despacho de Desarrollo Económico le compete la f o r m u l a c i ó n , e j e c u c i ó n y evaluación de políticas de comercio bilateral, regional o interregional.
+CONSIDERANDO: Que el Artículo 54 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo establece que a la Secretaría de Estado en el Despacho de Desarrollo Económico le compete la formulación, ejecución y evaluación de políticas de comercio bilateral, regional o interregional.
 
 POR TANTO:
 
@@ -45,7 +45,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo 229- 2020 de fecha 28 de noviembre de 2020.
+PRIMERO: Dejar sin valor y efecto el Acuerdo 229-2020 de fecha 28 de noviembre de 2020.
 
 SEGUNDO: El horario de atención del Puesto Fronterizo Integrado Agua Caliente será conforme a lo establecido en el Acuerdo Instancia Ministerial- UA No. 4-2017 de fecha 16 de junio del año 2017 es decir; de lunes a domingo:
 

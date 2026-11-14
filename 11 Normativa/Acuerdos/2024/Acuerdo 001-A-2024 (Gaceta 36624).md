@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Número 001-A-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240828-36624/download"
 extraido: "2026-11-14"
-huella: "2b36c2b22aed24d8"
+huella: "443b842cd36f2b2d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO NÚMERO 001-A-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que la delegación de funciones se entiendo posible siempre y cuando se dirija de manera rauda, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Acuerdo No.090-2024 con fecha 03 junio 2024, esta Institución Descentralizada de Estado nombró al ciudadano JOSÉ EDUARDO ARITA ARCHAGA, en el puesto de ASESOR LEGAL. POR TANTO: En uso de las facultados de que está investido y en aplicación de los Artículos 34, 36 numeral 19 y 122 de la Ley General de la Administración Pública; 3, 4 y 5 de la Ley de Procedimiento Administrativo; Artículos 31 y 40 del Decreto Ejecutivo N. PCM-008-97.
+CONSIDERANDO: Que mediante Acuerdo No. 090-2024 con fecha 03 junio 2024, esta Institución Descentralizada de Estado nombró al ciudadano JOSÉ EDUARDO ARITA ARCHAGA, en el puesto de ASESOR LEGAL. POR TANTO: En uso de las facultados de que está investido y en aplicación de los Artículos 34, 36 numeral 19 y 122 de la Ley General de la Administración Pública; 3, 4 y 5 de la Ley de Procedimiento Administrativo; Artículos 31 y 40 del Decreto Ejecutivo N. PCM-008-97.
 
 ACUERDA:
 
@@ -55,7 +55,7 @@ TERCERO: Hacer las transcripciones de Ley.
 
 CUARTO: El presente Acuerdo Ejecutivo será efectivo para surtir sus efectos legales a partir de la fecha de su notificación.
 
-COMUNÍQUESE Y PUBLÍQUESE. (FYS) TOMAS ALBERTO NATIVI OLIVA, DIRECTOR EJECUTIVO ACUERDO DE NOMBRAMIENTO 408-2022, de fecha 18 de agosto del 2022. (FYS) JOSÉ EDUARDO ARITA ARCHAGA, ACUERDO DE NOMBRAMIENTO 090- 2024, de fecha 03 de junio del 2024.
+COMUNÍQUESE Y PUBLÍQUESE. (FYS) TOMAS ALBERTO NATIVI OLIVA, DIRECTOR EJECUTIVO ACUERDO DE NOMBRAMIENTO 408-2022, de fecha 18 de agosto del 2022. (FYS) JOSÉ EDUARDO ARITA ARCHAGA, ACUERDO DE NOMBRAMIENTO 090-2024, de fecha 03 de junio del 2024.
 
 En la ciudad de Tegucigalpa, M.D.C., a los 16 días del mes de agosto del año 2024.
 

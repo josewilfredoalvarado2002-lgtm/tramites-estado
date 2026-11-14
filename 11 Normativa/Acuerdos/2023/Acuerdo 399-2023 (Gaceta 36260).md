@@ -11,7 +11,7 @@ paginas: "A. 5"
 sumario: "Acuerdos Ministeriales Nos. 322-2023, 355-2023, 376-2023, Acuerdo No. 399-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230621-36260/download"
 extraido: "2026-11-14"
-huella: "14e518621d13c1a8"
+huella: "90b103fd55ad640f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 399-2023
@@ -35,9 +35,7 @@ CONSIDERANDO (2): Conforme a lo dispuesto en la Ley General de la Administració
 
 CONSIDERANDO (3): Los Subsecretarios de Estado son colaboradores inmediatos de los Secretarios de Estado, siendo responsables de las funciones a su cargo y de la coordinación de las áreas sustantivas que les sean atribuidas.
 
-CONSIDERANDO (4): Mediante Acuerdo Ejecutivo No.
-
-107-2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado en el Despacho de Recursos Naturales.
+CONSIDERANDO (4): Mediante Acuerdo Ejecutivo No. 107-2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado en el Despacho de Recursos Naturales.
 
 CONSIDERANDO (5): El Secretario de Estado en el Despacho de Recursos Naturales y Ambiente LUCKY HALACH MEDINA ESTRADA, participará en representación del Gobierno de la República en la Delegación Diplomática del Estado de Honduras que viajará a la República Popular China, por lo que se hace necesario en su ausencia delegar funciones en el Subsecretario de Recursos Naturales, ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, a fin de mantener el normal desarrollo de las actividades de esta Secretaría de Estado.
 

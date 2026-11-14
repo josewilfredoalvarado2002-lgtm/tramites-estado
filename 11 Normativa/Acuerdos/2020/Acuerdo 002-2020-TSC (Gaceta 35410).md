@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Nos. 001-2020-TSC, 002-2020-TSC"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201026-35410/download"
 extraido: "2026-11-14"
-huella: "fd1cbdab7c611e7e"
+huella: "6674873deb276b3e"
 ---
 <!-- portal:inicio -->
 # ACUERDO ADMINISTRATIVO No. 002-2020-TSC
@@ -35,9 +35,7 @@ CONSIDERANDO: Que el Tribunal está facultado para determinar la base salarial s
 
 CONSIDERANDO: Que mediante oficio N°. Presidencia 1276/2020, de fecha diez (10) de septiembre del año en curso (2020), se solicitó al Banco Central de Honduras se informará sobre el Índice Inflacionario establecido por el Banco desde el año 2013 a la fecha, obteniendo respuesta mediante oficio N°. GIE-1362/2020, de fecha diecisiete (17) de septiembre de presente año (2020).
 
-CONSIDERANDO: Que en Pleno Administrativo No.
-
-13/2020 de fecha doce (12) de octubre de 2020, por unanimidad de Votos, en consideración al costo de vida y los Índices Inflacionarios establecidos por el Banco Central de Honduras, se aprobó la nueva Base Salarial que obliga a los servidores públicos como uno de los criterios para presentar la Declaración Jurada de Ingresos, Activos y Pasivos de conformidad con La Ley.
+CONSIDERANDO: Que en Pleno Administrativo No. 13/2020 de fecha doce (12) de octubre de 2020, por unanimidad de Votos, en consideración al costo de vida y los Índices Inflacionarios establecidos por el Banco Central de Honduras, se aprobó la nueva Base Salarial que obliga a los servidores públicos como uno de los criterios para presentar la Declaración Jurada de Ingresos, Activos y Pasivos de conformidad con La Ley.
 
 POR TANTO:
 

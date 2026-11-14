@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. CU-E-072-05-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240823-36620/download"
 extraido: "2026-11-14"
-huella: "6b272a40bd4acb26"
+huella: "24de24151ed2e20d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. CU-E-072-05-2024
@@ -29,17 +29,13 @@ huella: "6b272a40bd4acb26"
 
 El infrascrito, Secretario General de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA:
 
-La Certificación No. 005-2024 contentiva del Acuerdo No.
-
-CU-E-072-05-2024, del Acta No. CU-E-005-05-2024, de la Sesión Extraordinaria del Consejo Universitario, celebrada el diecisiete de mayo de dos mil veinticuatro, relativo a la aprobación del “REGLAMENTO DE INSTRUMENTOS DE COOPERACIÓN DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS”, que literalmente dice:
+La Certificación No. 005-2024 contentiva del Acuerdo No. CU-E-072-05-2024, del Acta No. CU-E-005-05-2024, de la Sesión Extraordinaria del Consejo Universitario, celebrada el diecisiete de mayo de dos mil veinticuatro, relativo a la aprobación del “REGLAMENTO DE INSTRUMENTOS DE COOPERACIÓN DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS”, que literalmente dice:
 
 “CERTIFICACIÓN No. 005-2024. La infrascrita, Secretaria del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA:
 
 El Acuerdo No.CU-E-072-05-2024 de la Sesión Extraordinaria del 17 de mayo de 2024, referente a la aprobación del dictamen contentivo del REGLAMENTO DE INSTRUMENTOS DE COOPERACIÓN DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS, que literalmente dice:
 
-“Oficio SCU-No.083-2024, 31 de mayo de 2024. Ph.D. ODIR AARON FERNANDEZ FLORES, RECTOR UNAH. Su Oficina, señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que en la Sesión Extraordinaria celebrada el viernes 17 de mayo de dos mil veinticuatro, en Acta No.
-
-CU-E-005-05-2024 levantada al efecto, obra el ACUERDO No. CU-E-072-05-2024 y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-E-072-05-2024. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras, tiene como objetivo formar profesionales del más alto nivel académico, cívico y ética, capaces de enfrentar los desafíos que impone la sociedad. CONSIDERANDO: Que el Consejo Universitario es el órgano máximo de dirección superior, responsable de concertar y generar las políticas y estrategias de la gestión universitaria, con visión de largo plazo. CONSIDERANDO:
+“Oficio SCU-No. 083-2024, 31 de mayo de 2024. Ph.D. ODIR AARON FERNANDEZ FLORES, RECTOR UNAH. Su Oficina, señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que en la Sesión Extraordinaria celebrada el viernes 17 de mayo de dos mil veinticuatro, en Acta No. CU-E-005-05-2024 levantada al efecto, obra el ACUERDO No. CU-E-072-05-2024 y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-E-072-05-2024. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras, tiene como objetivo formar profesionales del más alto nivel académico, cívico y ética, capaces de enfrentar los desafíos que impone la sociedad. CONSIDERANDO: Que el Consejo Universitario es el órgano máximo de dirección superior, responsable de concertar y generar las políticas y estrategias de la gestión universitaria, con visión de largo plazo. CONSIDERANDO:
 
 Que, en la Sesión Ordinaria del 21 de marzo de 2024, se conoció el anteproyecto del REGLAMENTO DE INSTRUMENTOS DE COOPERACIÓN DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS, presentado por el Ph.D. Javier López Padilla, Vicerrector a.i. de Relaciones Internacionales. CONSIDERANDO: Que el Consejo Universitario para conocer y resolver asuntos de su competencia, funciona integrando comisiones especializadas de su seno. CONSIDERANDO: Que por tratarse de un asunto específico con carácter técnico, académico y administrativo donde se requiere mayor información y dominio para la toma de decisiones, según Acuerdo No.CU-O-033-03-2024, se conformó la siguiente Comisión de Dictamen integrada por: - Ph.D. JAVIER LOPEZ PADILLA, Vicerrector a.i. de Relaciones Internacionales quien la coordinará,
 

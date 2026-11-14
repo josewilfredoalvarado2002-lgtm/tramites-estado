@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-112-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211016-35748/download"
 extraido: "2026-11-14"
-huella: "02a5af387ebc97e8"
+huella: "b852d5f3633a8aa0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-112-2021
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Decreto Legislativo No. 94, del 28 de abril de 1983, public
 
 CONSIDERANDO: Que dada la emergencia por la crisis humanitaria y sanitaria debido a la Pandemia del Coronavirus (COVID-19), desde Marzo de 2020 y posteriormente agravada por la situación de emergencia con los fenómenos naturales ETA e IOTA en noviembre de 2020, la situación económica del país se ha agudizado para todos los sectores, requiriéndose de medidas compensatorias inmediatas para ayudar a la recuperación y reactivación económica y a su vez mitigar el impacto en los consumidores más vulnerables es necesario implementar el mecanismo de subsidio a los precios de los combustibles en el país, como elementos esenciales para la seguridad nacional, así como vitales para el desarrollo económico del país.
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.
-
-85-2021, publicado en fecha 29 de septiembre del año 2021, en el Diario Oficial “La Gaceta”, se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles. Por lo que, el Presidente de la Republica en Consejo de Secretarios de Estado por medio de un Decreto Ejecutivo, debe emitir los criterios de aplicación de este beneficio para la población en general.
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 85-2021, publicado en fecha 29 de septiembre del año 2021, en el Diario Oficial “La Gaceta”, se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles. Por lo que, el Presidente de la Republica en Consejo de Secretarios de Estado por medio de un Decreto Ejecutivo, debe emitir los criterios de aplicación de este beneficio para la población en general.
 
 CONSIDERANDO: Que los combustibles constituyen un producto esencial que incide en la economía de los hogares hondureños para el desarrollo del en especial aquellos sectores más vulnerables, haciéndose imperativo la inclusión de medidas por parte del Estado que mitiguen el impacto negativo en los consumidores
 

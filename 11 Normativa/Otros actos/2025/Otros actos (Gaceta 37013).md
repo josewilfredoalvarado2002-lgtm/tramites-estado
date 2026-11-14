@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo SEN-110-2025,Acuerdo Ministerial SEN-111-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251208-37013/download"
 extraido: "2026-11-09"
-huella: "ea0dece51d7f4622"
+huella: "33a036958aa1e45c"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SEN-110-2025,Acuerdo Ministerial SEN-111-2025
@@ -37,9 +37,7 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que el artículo 15 de la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, Decreto Legislativo 70-2007, manda la reglamentación de los requisitos de los trámites administrativos que debe cumplir el desarrollador de proyectos que hacen uso de los recursos naturales.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto del 2017, se crea la Secretaría de Estado en el Despacho de Energía como institución rectora del sector energético nacional, de la integración energética regional e internacional, asimismo está a cargo de las políticas relacionadas con el desarrollo integral y sostenible del sector energético. Asumiendo a partir de su creación la competencia de reglamentar lo dispuesto en las leyes del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto del 2017, se crea la Secretaría de Estado en el Despacho de Energía como institución rectora del sector energético nacional, de la integración energética regional e internacional, asimismo está a cargo de las políticas relacionadas con el desarrollo integral y sostenible del sector energético. Asumiendo a partir de su creación la competencia de reglamentar lo dispuesto en las leyes del sector energético.
 
 CONSIDERANDO: Que la Ley General de la Industria Eléctrica (LGIE), Decreto Legislativo 404-2014, derogó la Ley Marco del Subsector Eléctrico y generó una reestructuración de la institucionalidad del sector, transfiriendo competencias a la Secretaría de Energía (SEN) y a la Comisión Reguladora de Energía Eléctrica (CREE).
 
@@ -431,9 +429,7 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Formular con respecto de los asuntos de su competencia, los proyectos de Leyes, reglamentos y demás actos del Presidente de la República”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que la Ley para el Uso Racional y Eficiente de la Energía en Honduras (Decreto No. 36-2024), publicada en el Diario Oficial La Gaceta, es de orden público e interés social y tiene por objeto promover el uso racional y eficiente de la energía, estableciendo la regulación técnica como un instrumento fundamental para cumplir sus fines. Que dicha Ley faculta a la Secretaría de Estado en el Despacho de Energía (SEN), por medio de la Dirección General de Energía Renovable y Eficiencia Energética (DGEREE), para emitir los reglamentos técnicos en materia de eficiencia energética, a fin de garantizar que los equipos, aparatos y sistemas nuevos que utilicen energía eléctrica o combustibles y se comercialicen en el país cumplan con las disposiciones técnicas que promuevan la reducción del consumo energético por unidad de producto o servicio. En consecuencia, la emisión del presente Acuerdo se realiza en ejercicio de la potestad regulatoria conferida por el artículo 4, numeral 3), literal a) de la Ley UREE, en coordinación con las autoridades competentes, como parte del fortalecimiento del marco normativo del sector energético nacional.
 
@@ -447,7 +443,7 @@ CONSIDERANDO: Que la adopción de estándares mínimos de desempeño energético
 
 POR TANTO: En aplicación de los artículos: 247, 248 de la Constitución de la República; 36 numerales 1, 5, 8, 116, 118, 122 de la Ley General de la Administración Pública;
 
-3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017 publicado en fecha 7 de agosto del año 2017, en el Diario Oficial la Gaceta; Decreto Legislativo No. 36-2024 Ley para el Uso Racional y Eficiente de la Energía en Honduras; 2 del Decreto Legislativo No. 404- 2013; Decreto Legislativo No. 29-2011 del 08 de julio de 2011 Ley del Sistema Nacional de la Calidad; y, demás aplicables.
+3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017 publicado en fecha 7 de agosto del año 2017, en el Diario Oficial la Gaceta; Decreto Legislativo No. 36-2024 Ley para el Uso Racional y Eficiente de la Energía en Honduras; 2 del Decreto Legislativo No. 404-2013; Decreto Legislativo No. 29-2011 del 08 de julio de 2011 Ley del Sistema Nacional de la Calidad; y, demás aplicables.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 65 - 68"
 sumario: "Decretos Nos. 119-2026, 123-2026, 124-2026, 125-2026, 140-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "4c53909b69e6515a"
+huella: "0173b83d23590f7c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 119-2026
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 8, 13 y 14 del Decreto No.59-2012, publicado en el Diario Oficial “La Gaceta” el 6 de Julio de 2012 bajo la Edición número 32,865, contentiva de la LEY CONTRA LA TRATA DE PERSONAS, los cuales se deben leer así:
+ARTÍCULO 1.- Reformar los artículos 8, 13 y 14 del Decreto No. 59-2012, publicado en el Diario Oficial “La Gaceta” el 6 de Julio de 2012 bajo la Edición número 32,865, contentiva de la LEY CONTRA LA TRATA DE PERSONAS, los cuales se deben leer así:
 
 “ARTÍCULO 8.- INTEGRACIÓN.
 

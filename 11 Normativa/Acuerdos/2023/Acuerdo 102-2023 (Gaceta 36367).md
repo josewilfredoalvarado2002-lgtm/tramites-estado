@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministerial No. 102-2023Acuerdo Ministerial Número 109-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231026-36367/download"
 extraido: "2026-11-14"
-huella: "d7c640da474f8152"
+huella: "b0cb6ddbc87d5c84"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 102-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Instancia Ministerial, está facultada para reunirse de man
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que en fecha 08 de septiembre de 2023, la Instancia Ministerial de la Unión Aduanera entre las Repúblicas de El Salvador, Guatemala y Honduras, adoptó la Resolución Instancia Ministerial-UA No. 109- 2023; que RESUELVE: Establecer la obligatoriedad, para El Salvador y Honduras, a partir del 17 de octubre de 2023, de la transmisión electrónica anticipada de la Declaración Única Centroamericana para las mercancías originarias de los Estados Parte (DUCA-F) y de los documentos que sustentan su contenido, para los regímenes de importación definitiva y exportación definitiva, cumpliendo con las obligaciones aduaneras tributarias y no tributarias que dichos regímenes imponen, así como la presentación de la Declaración al momento de su arribo a los puestos fronterizos de El Amatillo El Salvador y El Amatillo Honduras.
+CONSIDERANDO: Que en fecha 08 de septiembre de 2023, la Instancia Ministerial de la Unión Aduanera entre las Repúblicas de El Salvador, Guatemala y Honduras, adoptó la Resolución Instancia Ministerial-UA No. 109-2023; que RESUELVE: Establecer la obligatoriedad, para El Salvador y Honduras, a partir del 17 de octubre de 2023, de la transmisión electrónica anticipada de la Declaración Única Centroamericana para las mercancías originarias de los Estados Parte (DUCA-F) y de los documentos que sustentan su contenido, para los regímenes de importación definitiva y exportación definitiva, cumpliendo con las obligaciones aduaneras tributarias y no tributarias que dichos regímenes imponen, así como la presentación de la Declaración al momento de su arribo a los puestos fronterizos de El Amatillo El Salvador y El Amatillo Honduras.
 
 POR TANTO:
 

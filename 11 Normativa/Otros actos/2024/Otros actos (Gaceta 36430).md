@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240110-36430/download"
 extraido: "2026-11-14"
-huella: "53a86250a557274e"
+huella: "15ef3ad34ddbe865"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,17 +35,15 @@ CONSIDERANDO: Que, de conformidad al artículo 247 de la Constitución de la Rep
 
 CONSIDERANDO: Que, son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delegue la Presidenta de la República y cuidar su ejecución”.
 
-CONSIDERANDO: Que, mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía, como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que, mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía, como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que, Honduras es un Estado Miembro del Sistema de Integración Centroamericana creado por el Protocolo de Tegucigalpa del 13 de diciembre de 1991, así como del Tratado General de Integración Económica Centroamericana del 13 de diciembre de 1960 y reformado por el Protocolo de Guatemala del 23 de octubre de 1993.
 
 CONSIDERANDO: Que, de conformidad con lo establecido en los Artículos 38, 39 y 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala), modificado por la Enmienda del 27 de febrero de 2002, el Consejo de Ministros de Integración Económica (COMIECO), tiene bajo su competencia los asuntos de la Integración Económica Centroamericana y, como tal, corresponde aprobar los actos administrativos del Subsistema Económico.
 
-CONSIDERANDO: Que, el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 2 de diciembre de 2022, adoptó la Resolución No. 468- 2022 (COMIECO-CII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido de Velocidad Fija, Descarga Libre y sin Ductos de Aire. Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de la presente Resolución y que forma parte integrante de la misma; 2. La Resolución entrará en vigor para las Repúblicas de Costa Rica, Guatemala, Honduras, Nicaragua y Panamá el 2 de diciembre de 2023; y para la República de El Salvador, el 2 de junio de 2023 y será publicada por los Estados Parte.
+CONSIDERANDO: Que, el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 2 de diciembre de 2022, adoptó la Resolución No. 468-2022 (COMIECO-CII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido de Velocidad Fija, Descarga Libre y sin Ductos de Aire. Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de la presente Resolución y que forma parte integrante de la misma; 2. La Resolución entrará en vigor para las Repúblicas de Costa Rica, Guatemala, Honduras, Nicaragua y Panamá el 2 de diciembre de 2023; y para la República de El Salvador, el 2 de junio de 2023 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que, es de vital importancia promover el desarrollo económico y social justo, equitativo y sustentable de todos los sectores que conforman la población hondureña, la Secretaría de Estado en el Despacho de Desarrollo Económico, mediante de la Dirección General de Protección al Consumidor, conforme a lo dispuesto en el Decreto 24- 2008, establece el procedimiento de inspección del etiquetado y documentación de equipos que se fabriquen, importen o comercialicen en el territorio nacional.
+CONSIDERANDO: Que, es de vital importancia promover el desarrollo económico y social justo, equitativo y sustentable de todos los sectores que conforman la población hondureña, la Secretaría de Estado en el Despacho de Desarrollo Económico, mediante de la Dirección General de Protección al Consumidor, conforme a lo dispuesto en el Decreto 24-2008, establece el procedimiento de inspección del etiquetado y documentación de equipos que se fabriquen, importen o comercialicen en el territorio nacional.
 
 POR TANTO: En aplicación de los artículos: 246, 247, 248 de la Constitución de la República; 36 (numerales 1, 5, 8), 116, 118, 122 de la Ley General de la Administración Pública; Artículos 3, 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017 publicado en fecha 7 de agosto del año 2017, en el Diario Oficial la Gaceta; Resolución No. 468-2022 (COMIECO-CII) contentiva de Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido de Velocidad Fija, Descarga Libre y sin Ductos de Aire. Especificaciones de Eficiencia Energética; y, demás aplicables.
 

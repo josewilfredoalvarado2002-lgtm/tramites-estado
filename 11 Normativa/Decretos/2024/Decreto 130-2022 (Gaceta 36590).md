@@ -11,7 +11,7 @@ paginas: "A. 20 - 21"
 sumario: "Decreto No. 64-2024, 130-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240719-36590/download"
 extraido: "2026-11-14"
-huella: "125d33d7e8c7c8f6"
+huella: "73cc791e40471565"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 130-2022
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

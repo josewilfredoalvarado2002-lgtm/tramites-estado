@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Decretos Nos. 50-2026, 68-2026, Resolución No. 3-2026-PLENO/CN, Fe de Errata"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260430-37130/download"
 extraido: "2026-11-09"
-huella: "b36211f8eb79ff32"
+huella: "5e19301eed092f24"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 68-2026
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL
 
 CONSIDERANDO: Que la Constitución de la República establece como deber del Estado garantizar la correcta administración de las finanzas públicas, orientando el gasto y la recaudación hacia el cumplimiento de los fines esenciales del Estado, bajo principios de legalidad, eficiencia, transparencia y responsabilidad fiscal.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, instrumento fundamental de planificación financiera que puede ser objeto de reformas y adiciones cuando las circunstancias económicas y fiscales así lo requieran.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, instrumento fundamental de planificación financiera que puede ser objeto de reformas y adiciones cuando las circunstancias económicas y fiscales así lo requieran.
 
-CONSIDERANDO: Que los procesos de liquidación de fideicomisos, contratos de administración y fondos de inversión administrados por el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), derivados de los Decretos Legislativos No.66-2022 y No.157-2022, así como del Decreto Ejecutivo PCM-09-2022, requieren medidas especiales que permitan el cierre ordenado de sus obligaciones tributarias.
+CONSIDERANDO: Que los procesos de liquidación de fideicomisos, contratos de administración y fondos de inversión administrados por el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), derivados de los Decretos Legislativos No. 66-2022 y No. 157-2022, así como del Decreto Ejecutivo PCM-09-2022, requieren medidas especiales que permitan el cierre ordenado de sus obligaciones tributarias.
 
 CONSIDERANDO: Que la concesión de amnistías tributarias de carácter temporal constituye un mecanismo legítimo de política fiscal para incentivar el cumplimiento voluntario de obligaciones tributarias, reducir la litigiosidad y facilitar la recuperación de ingresos fiscales sin comprometer la base tributaria principal.
 
@@ -43,13 +43,13 @@ CONSIDERANDO: Que resulta necesario facultar a la Secretaría de Estado en el De
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1- Reformar el Artículo 237 del Decreto No.62-2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, REFORMULADO, EJERCICIO FISCAL 2026, que deberá leerse de la siguiente manera:
+ARTÍCULO 1- Reformar el Artículo 237 del Decreto No. 62-2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, REFORMULADO, EJERCICIO FISCAL 2026, que deberá leerse de la siguiente manera:
 
-“ARTÍCULO 237.- Conceder el beneficio de Amnistía Tributaria del pago de todo tipo de multas, recargos e intereses a la deuda tributaria que mantienen los fideicomisos, contratos de administración o fondos de inversión, administrados por el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), en su condición de Fiduciario o Administrador, en cumplimiento de los mandatos de liquidación, contenidos en los Decretos Legislativos No.66-2022 y No.157- 2022; así como el Decreto Ejecutivo PCM-09-2022.
+“ARTÍCULO 237.- Conceder el beneficio de Amnistía Tributaria del pago de todo tipo de multas, recargos e intereses a la deuda tributaria que mantienen los fideicomisos, contratos de administración o fondos de inversión, administrados por el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), en su condición de Fiduciario o Administrador, en cumplimiento de los mandatos de liquidación, contenidos en los Decretos Legislativos No. 66-2022 y No. 157-2022; así como el Decreto Ejecutivo PCM-09-2022.
 
 El beneficio aplica a todo tipo de multas, recargos e intereses calculados al Impuesto sobre la Renta (ISR) y el Impuesto de Aportación Solidaria de los períodos 2021 al 2025 de dichos Fideicomisos, Contratos de administración o fondos de inversión administrados por el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), en su condición de Fiduciario y de Administrador; así como, cualquier otra y de las calculadas por los demás procesos relacionados con su liquidación o cese definitivo de obligaciones.
 
@@ -59,7 +59,7 @@ Esta Amnistía tendrá una vigencia de noventa (90) días hábiles, de forma inm
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar al Decreto Legislativo No. 62-2026, de fecha 21 de abril de 2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y S U S D I S P O S I C I O N E S GENERALES, REFORMULADO, EJERCICIO FISCAL 2026, el
+ARTÍCULO 2.- Adicionar al Decreto Legislativo No. 62-2026, de fecha 21 de abril de 2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, REFORMULADO, EJERCICIO FISCAL 2026, el
 
 #### Artículo 228
 
@@ -73,7 +73,7 @@ Se autoriza la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que
 
 #### Artículo 3
 
-ARTÍCULO 3.- Los artículos 1 y 2 del presente Decreto tendrán la misma vigencia que el Decreto Legislativo No.62-2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y S U S D I S P O S I C I O N E S GENERALES, REFORMULADO, EJERCICIO FISCAL 2026.
+ARTÍCULO 3.- Los artículos 1 y 2 del presente Decreto tendrán la misma vigencia que el Decreto Legislativo No. 62-2026, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, REFORMULADO, EJERCICIO FISCAL 2026.
 
 #### Artículo 4
 

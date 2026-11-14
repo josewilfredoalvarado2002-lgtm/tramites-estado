@@ -11,7 +11,7 @@ paginas: "A. 21 - 24"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210630-35643/download"
 extraido: "2026-11-14"
-huella: "c8da23be4ef86646"
+huella: "285f2bcf1f9cb70d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-071-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-003-2020, publicado en el Diario Oficial “La Gaceta” del 24 de enero de 2020, Edición No. 35,157 se decretó intervenir el Hospital Mario Catarino Rivas de la Ciudad de San Pedro Sula, departamento de Cortés, por razones de interés público, nombrando para este efecto, una Comisión Interventora, con amplios poderes conforme a lo establecido en la Ley General de la Administración Pública la que ejercerá sus funciones hasta el 31 de diciembre del 2020, pudiendo ser prorrogada por el tiempo que sea necesario para el cumplimiento de los objetivos de la intervención.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-140-2020, publicado en el Diario Oficial “La Gaceta” del 28 de diciembre de 2020, Edición No.35,471, se prorroga la vigencia de la Comisión Interventora del Hospital Mario Catarino Rivas de la Ciudad de San Pedro Sula, departamento de Cortés, hasta el treinta (30) de junio del año dos mil veintiuno (2021), pudiendo ser prorrogada por el tiempo que sea necesario para el cumplimiento de los objetivos de la intervención.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-140-2020, publicado en el Diario Oficial “La Gaceta” del 28 de diciembre de 2020, Edición No. 35,471, se prorroga la vigencia de la Comisión Interventora del Hospital Mario Catarino Rivas de la Ciudad de San Pedro Sula, departamento de Cortés, hasta el treinta (30) de junio del año dos mil veintiuno (2021), pudiendo ser prorrogada por el tiempo que sea necesario para el cumplimiento de los objetivos de la intervención.
 
 POR TANTO, En uso de las facultades de que está investido y en aplicación de los Artículos 59,145,149, 245 numerales 2, 11, 29, 35 y 45, 321 y 323 de la Constitución de la República; Artículos 7, 11, 22 numerales 9) y 12), 98, 99, 100, 101, 102, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; y Decretos Ejecutivos Números: PCM-003-2020 y PCM-140-2020.
 

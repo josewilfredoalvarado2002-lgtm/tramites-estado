@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Acuerdo Ejecutivo Número 001-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240124-36442/download"
 extraido: "2026-11-14"
-huella: "9ba2e048b9edfe42"
+huella: "598daa50787efd09"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-2024
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -71,7 +71,7 @@ Que el objetivo del Préstamo del Programa para Mejorar la Transparencia y la In
 
 CONSIDERANDO:
 
-Que el Decreto No.17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
+Que el Decreto No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
 
 POR TANTO:
 

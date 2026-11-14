@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decretos Nos. 18-2022, 19-2022, 20-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220326-35883/download"
 extraido: "2026-11-14"
-huella: "1e3743389600c6c3"
+huella: "fe9e331ce57f954d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 19-2022
@@ -37,7 +37,7 @@ Los infractores serán responsables civil, penal y administrativamente”.
 
 CONSIDERANDO: Que la Ley Orgánica del Presupuesto establece como objetivos, garantizar el cumplimiento del Principio de Legalidad, así como los criterios de eficiencia y eficacia en la obtención y aplicación financiera y económica de los recursos públicos así como; sistematizar las operaciones de programación, administración, evaluación y control de los recursos financieros del Estado, sin perjuicio de las acciones que correspondan a sus entes fiscalizadores.
 
-CONSIDERANDO: Que el Poder Ejecutivo en un período de veintidós (22) días, mientras se efectuaban las actividades de la transición del Gobierno aprobó en Consejo de Ministros el Decreto PCM No.130-2021, ordenando sin ningún tipo de estudio, a sabiendas de la situación crítica de las finanzas públicas, nombrar a todo el personal que se encontraba bajo la modalidad de contratos por tiempo determinado sin excepciones de ninguna clase.
+CONSIDERANDO: Que el Poder Ejecutivo en un período de veintidós (22) días, mientras se efectuaban las actividades de la transición del Gobierno aprobó en Consejo de Ministros el Decreto PCM No. 130-2021, ordenando sin ningún tipo de estudio, a sabiendas de la situación crítica de las finanzas públicas, nombrar a todo el personal que se encontraba bajo la modalidad de contratos por tiempo determinado sin excepciones de ninguna clase.
 
 CONSIDERANDO: Que el Artículo 262 de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2022, constituye un instrumento de represión y amenaza en contra de los funcionarios de la nueva administración a quienes se impone responsabilidad solidaria financiera, sin perjuicio de la responsabilidad civil, administrativa y penal, para el caso de despidos a empleados por acuerdo y/o contrato y su no renovación.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que la Ley del Régimen de Servicio Civil solamente reconoce la an
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 205 establece taxativamente las atribuciones que corresponden al Congreso Nacional las cuales son indelegables, siendo la primera de éstas, crear, decretar, interpretar, reformar y derogar las leyes; pero No así la de ratificación de Decretos Ejecutivos dictados en Consejo de Ministros, con un impacto presupuestario, como antes se indica, de más de Seis Mil Millones de Lempiras (L.6,000,000,000.00) sólo para el año 2022, presupuesto que irá en ascenso a partir de los siguientes Ejercicios Fiscales.
 
-CONSIDERANDO: Que el Decreto Legislativo No.108- 2021 del 10 de Diciembre de 2021, aprobado en Época post electoral el mismo día que el Presupuesto General de Ingresos y Egresos de la República Ejercicio Fiscal 2022, se contrae a ratificar en todas y cada una de sus partes el PCM-130-2021 relacionado en el tercer Considerando precedente, emitido por el Presidente en Consejo de Ministros, sin disponer de ninguna fuente de financiamiento para cubrir las obligaciones que conlleva, y a conociendo el crítico déficit presupuestario para el año 2022, acto que además de violentar la Constitución de la República, acarrea responsabilidad administrativa y civil por violentar todas las atribuciones y procedimientos, por lo cual los entes contralores del Estado devienen en la obligación de intervenir de oficio para deducir las indicadas responsabilidades.
+CONSIDERANDO: Que el Decreto Legislativo No. 108-2021 del 10 de Diciembre de 2021, aprobado en Época post electoral el mismo día que el Presupuesto General de Ingresos y Egresos de la República Ejercicio Fiscal 2022, se contrae a ratificar en todas y cada una de sus partes el PCM-130-2021 relacionado en el tercer Considerando precedente, emitido por el Presidente en Consejo de Ministros, sin disponer de ninguna fuente de financiamiento para cubrir las obligaciones que conlleva, y a conociendo el crítico déficit presupuestario para el año 2022, acto que además de violentar la Constitución de la República, acarrea responsabilidad administrativa y civil por violentar todas las atribuciones y procedimientos, por lo cual los entes contralores del Estado devienen en la obligación de intervenir de oficio para deducir las indicadas responsabilidades.
 
 CONSIDERANDO: Que los artículos 121 y 122 numeral
 
@@ -61,27 +61,27 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205, Atribuci�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar el Artículo 129 del Decreto Legislativo No.107-2021 de fecha 10 de Diciembre de 2021, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2022, publicado en el Diario Oficial “La Gaceta” en fecha 17 de Diciembre de 2021, Edición No.35,800, en el sentido que, cuando el Artículo expresa que “Este beneficio también aplicará aquellos servidores públicos que desempeñen cargos de servicio excluido”, debe entenderse que se les concederá la indemnización, siempre que los servidores públicos del servicio excluido, ocupen su cargo por ascenso y hayan estado regidos por la Ley de Servicio Civil.
+ARTÍCULO 1.- Interpretar el Artículo 129 del Decreto Legislativo No. 107-2021 de fecha 10 de Diciembre de 2021, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2022, publicado en el Diario Oficial “La Gaceta” en fecha 17 de Diciembre de 2021, Edición No. 35,800, en el sentido que, cuando el Artículo expresa que “Este beneficio también aplicará aquellos servidores públicos que desempeñen cargos de servicio excluido”, debe entenderse que se les concederá la indemnización, siempre que los servidores públicos del servicio excluido, ocupen su cargo por ascenso y hayan estado regidos por la Ley de Servicio Civil.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar en todas y cada una de sus partes el Decreto Legislativo No.108-2021 de fecha 10 de Diciembre de 2021, publicado el 14 de Diciembre de 2021 en el Diario Oficial “La Gaceta” bajo el número 35,797.
+ARTÍCULO 2.- Derogar en todas y cada una de sus partes el Decreto Legislativo No. 108-2021 de fecha 10 de Diciembre de 2021, publicado el 14 de Diciembre de 2021 en el Diario Oficial “La Gaceta” bajo el número 35,797.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Derogar en todas y cada una de sus partes el Decreto Legislativo No.47-2020 de fecha 14 de Mayo de 2020, publicado en el Diario Oficial “La Gaceta” el 1 de Junio de 2020, bajo el número 35,270.
+ARTÍCULO 3.- Derogar en todas y cada una de sus partes el Decreto Legislativo No. 47-2020 de fecha 14 de Mayo de 2020, publicado en el Diario Oficial “La Gaceta” el 1 de Junio de 2020, bajo el número 35,270.
 
 #### Artículo 4
 
-ARTÍCULO 4.- Derogar los artículos 127 y 262 del PRESUPUESTO DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES PARA EL EJERCICIO FISCAL 2022, contenido en el Decreto Legislativo No.107-2021 de fecha 10 de Diciembre de 2021, publicado en el Diario Oficial La “Gaceta” No.35,800 el 17 de Diciembre de 2021.
+ARTÍCULO 4.- Derogar los artículos 127 y 262 del PRESUPUESTO DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES PARA EL EJERCICIO FISCAL 2022, contenido en el Decreto Legislativo No. 107-2021 de fecha 10 de Diciembre de 2021, publicado en el Diario Oficial La “Gaceta” No. 35,800 el 17 de Diciembre de 2021.
 
 #### Artículo 5
 
-ARTÍCULO 5.- Los titulares de los órganos de la administración pública centralizada, descentralizada, desconcentrada deben revisar los acuerdos de nombramiento laboral con carácter permanente, que fueron solicitados o concedidos en amparo de los Decretos Legislativos No.108- 2021 y 47-2020, para que cada órgano estatal pueda administrar el personal y realizar actos administrativos de carácter correctivo en aplicación de las normas y requisitos de la Ley del Servicio Civil.
+ARTÍCULO 5.- Los titulares de los órganos de la administración pública centralizada, descentralizada, desconcentrada deben revisar los acuerdos de nombramiento laboral con carácter permanente, que fueron solicitados o concedidos en amparo de los Decretos Legislativos No. 108-2021 y 47-2020, para que cada órgano estatal pueda administrar el personal y realizar actos administrativos de carácter correctivo en aplicación de las normas y requisitos de la Ley del Servicio Civil.
 
 Los titulares de los órganos administrativos comprendidos en el párrafo anterior, deben consultar el proceso antes mencionado con la SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS (SEFIN) a modo que este último oriente a cada órgano administrativo respecto a las posibilidades financieras del Estado de Honduras.
 

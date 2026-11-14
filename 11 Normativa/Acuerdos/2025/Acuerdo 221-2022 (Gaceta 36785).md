@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Ejecutivos Nos. 217-2022, 218-2022, 219-2022, 220-2022, 221-2022, 222-2022, 223-2022, 230-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250308-36785/download"
 extraido: "2026-11-12"
-huella: "05f458eb918fd78a"
+huella: "79537a688a6f5cd3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 221-2022
@@ -43,7 +43,7 @@ POR TANTO:
 
 La Presidenta Constitucional de la República en uso de sus facultades y en aplicación a lo establecido en los artículos:
 
-245 atribución 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública, 7 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Capítulo I y II, artículos 1, 4 y 5 inciso a; 61, 62, 63, 64, 65, 66 y 67 incisos b y e del Reglamento Interno del Cuerpo de Bomberos Acuerdo 012-98, capítulo II artículos 51, 52 y 53 Decreto Ejecutivo No.56-2019 Contentivo de la Ley del Cuerpo de Bomberos de la República publicada en el Diario Oficial La Gaceta el 20 de febrero, 2020.
+245 atribución 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública, 7 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Capítulo I y II, artículos 1, 4 y 5 inciso a; 61, 62, 63, 64, 65, 66 y 67 incisos b y e del Reglamento Interno del Cuerpo de Bomberos Acuerdo 012-98, capítulo II artículos 51, 52 y 53 Decreto Ejecutivo No. 56-2019 Contentivo de la Ley del Cuerpo de Bomberos de la República publicada en el Diario Oficial La Gaceta el 20 de febrero, 2020.
 
 ACUERDA:
 

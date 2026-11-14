@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "SISTEMA NACIONAL DE EMERGENCIAS 911Acuerdos Nos. 001-2026, 002-2026, 004-2026, 005-2026, de Delegación 006-2026, 007-2026, de Delegación 008-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261026-37278/download"
 extraido: "2026-11-09"
-huella: "eb2b7bf3f8d2bd62"
+huella: "9158f2c1be8f4c66"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 006-2026
@@ -41,9 +41,7 @@ CONSIDERANDO (5): Que el Secretario General de la institución constituye un ór
 
 POR TANTO:
 
-En uso de las facultades conferidas en los artículos 235 y 245 de la Constitución de la República; artículos 11, 12, 116, 118, 119, 122 y 123 de la Ley General de la Administración Pública; artículos 4, 5 y demás aplicables de la Ley de Procedimiento Administrativo; artículo 24 y 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo (Decreto Ejecutivo No.
-
-PCM-008-97); y artículos 1, 7, 8 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911) y sus reformas.
+En uso de las facultades conferidas en los artículos 235 y 245 de la Constitución de la República; artículos 11, 12, 116, 118, 119, 122 y 123 de la Ley General de la Administración Pública; artículos 4, 5 y demás aplicables de la Ley de Procedimiento Administrativo; artículo 24 y 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo (Decreto Ejecutivo No. PCM-008-97); y artículos 1, 7, 8 de la Ley del Sistema Nacional de Emergencias Nueve, Uno, Uno (911) y sus reformas.
 
 ACUERDA:
 

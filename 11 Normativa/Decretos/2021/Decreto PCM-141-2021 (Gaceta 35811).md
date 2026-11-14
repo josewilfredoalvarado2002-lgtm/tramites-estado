@@ -11,7 +11,7 @@ paginas: "A. 8 - 11"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211231-35811/download"
 extraido: "2026-11-14"
-huella: "63771a8d6dd574c0"
+huella: "2d9c7e282900d975"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-141-2021
@@ -51,7 +51,7 @@ CONSIDERANDO: Que por las razones expuestas, es necesario extender la vigencia d
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 35, 45, 248, 252, 255 y demás aplicables de la Constitución de la República; Artículos 7, 11, 14 numeral 4), 17, 18, 22 numeral 6), 9) y 12), 98, 99, 100, 101, 102, 116, 117, 119 y demás aplicable de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266- 2013; Artículo 1 y demás aplicables de la Ley del Instituto Nacional de Previsión del Magisterio; Decreto Ejecutivo Número PCM-055-2021; y, Decreto Ejecutivo Número PCM- 122-2021.
+En uso de las facultades contenidas en los Artículos 245 numerales 2, 11, 35, 45, 248, 252, 255 y demás aplicables de la Constitución de la República; Artículos 7, 11, 14 numeral 4), 17, 18, 22 numeral 6), 9) y 12), 98, 99, 100, 101, 102, 116, 117, 119 y demás aplicable de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266-2013; Artículo 1 y demás aplicables de la Ley del Instituto Nacional de Previsión del Magisterio; Decreto Ejecutivo Número PCM-055-2021; y, Decreto Ejecutivo Número PCM-122-2021.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 146-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200111-35146/download"
 extraido: "2026-11-14"
-huella: "65dee5af3298270f"
+huella: "8c07f3ba1817dc86"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 146-2019
@@ -29,7 +29,7 @@ huella: "65dee5af3298270f"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.65-87 de fecha 30 de abril de 1987 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 1987, Edición No.25,228, se emitió la Ley de Cooperativas de Honduras, asimismo sus reformas mediante Decreto No. 174-2013 de fecha 1 de septiembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de febrero de 2014, Edición No.33,344, con el propósito de dotar al sector cooperativo de un instrumento jurídico y debido a los cambios y retos que la misma globalización presenta, nos lleva a actualizarla en muchas de sus disposiciones para hacerla más eficaz.
+CONSIDERANDO: Que mediante Decreto No. 65-87 de fecha 30 de abril de 1987 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 1987, Edición No. 25,228, se emitió la Ley de Cooperativas de Honduras, asimismo sus reformas mediante Decreto No. 174-2013 de fecha 1 de septiembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de febrero de 2014, Edición No. 33,344, con el propósito de dotar al sector cooperativo de un instrumento jurídico y debido a los cambios y retos que la misma globalización presenta, nos lleva a actualizarla en muchas de sus disposiciones para hacerla más eficaz.
 
 CONSIDERANDO: Que la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO), añadió a las cooperativas a su lista de bienes culturales inmateriales, decisión que fue adoptada por parte del Comité Intergubernamental para la Salvaguardia del Patrimonio Cultural Inmaterial, que tuvo lugar el día 2 de diciembre del 2016 en Etiopía, estableciendo que las cooperativas permiten el desarrollo comunitario mediante intereses y valores compartidos, creando soluciones innovadoras a problemas sociales, desde la generación de empleo y la asistencia a ancianos hasta la revitalización urbana y los proyectos de energía renovable.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 10, 18, 19, 26, 28, 32, 63-A, 69, 96, 97, 98, 103, 105, 119-I, 119-M, 119-P y 119-U; 5 TRANSITORIO y 11 TRANSITORIO de la Ley de Cooperativa de Honduras contenida en el Decreto No.65-87 de fecha 30 de abril de 1987 y sus reformas; los que se leerán de la siguiente forma:
+ARTÍCULO 1.- Reformar los artículos 10, 18, 19, 26, 28, 32, 63-A, 69, 96, 97, 98, 103, 105, 119-I, 119-M, 119-P y 119-U; 5 TRANSITORIO y 11 TRANSITORIO de la Ley de Cooperativa de Honduras contenida en el Decreto No. 65-87 de fecha 30 de abril de 1987 y sus reformas; los que se leerán de la siguiente forma:
 
 “ARTÍCULO 10.- Ninguna Cooperativa de Primer Grado puede constituirse con un número menor de doce (12) cooperativistas, sin perjuicio de lo que establezca el Reglamento de esta Ley, en cuanto a un número mayor para Subsectores Especiales. Y las de Segundo Grado se constituirán con un número no menor de veinte (20) cooperativas.
 
@@ -143,7 +143,7 @@ ARTÍCULO 69.- Disuelta la Cooperativa, se debe poner en liquidación en cuyo ca
 
 #### Artículo 96
 
-ARTÍCULO 96.- Son atribuciones del Consejo Nacional S u p e r v i s o r d e C o o p e r a t i v a s (CONSUCOOP), las siguientes:
+ARTÍCULO 96.- Son atribuciones del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), las siguientes:
 
 \1) Convocar a Asamblea General en una Cooperativa en cualquier tiempo que el Órgano Rector considere pertinente para aquellos casos que haya irregularidades, anomalías en la falta de convocatoria, el Reglamento de esta Ley debe regular esta atribución;
 
@@ -245,7 +245,7 @@ ARTÍCULO 103.- La representación legal del Consejo Nacional Supervisor de Coop
 
 #### Artículo 105
 
-ARTÍCULO 105.- El patrimonio del Consejo Nacional S u p e r v i s o r d e C o o p e r a t i v a s (CONSUCOOP) está constituido por los elementos siguientes:
+ARTÍCULO 105.- El patrimonio del Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) está constituido por los elementos siguientes:
 
 \1) El producto…;
 
@@ -321,11 +321,11 @@ ARTÍCULO 11.- TRANSITORIO: En un plazo de noventa
 
 Todas las Cooperativas deben ajustar sus Estatutos a las disposiciones de esta Ley, dentro del plazo de un (1) año, contado a partir del día de la publicación del Reglamento.
 
-A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No. 174- 2013 de fecha 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor.”
+A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No. 174-2013 de fecha 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor.”
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar los artículos 97-A y 98-A a la Ley de Cooperativas, contenida en Decreto No.65-87 de fecha 30 de abril de 1987 y sus reformas; los que se leerán de la siguiente forma:
+ARTÍCULO 2.- Adicionar los artículos 97-A y 98-A a la Ley de Cooperativas, contenida en Decreto No. 65-87 de fecha 30 de abril de 1987 y sus reformas; los que se leerán de la siguiente forma:
 
 “ARTÍCULO 97-A.- DE LAS SANCIONES A LAS COOPERATIVAS INFRACTORAS.
 
@@ -341,13 +341,13 @@ Las Cooperativas que detecten que las transacciones, operaciones o relaciones co
 
 #### Artículo 3
 
-ARTÍCULO 3.- Derogar los Artículos 128 y 9 TRANSITORIOS del Decreto No.65-87 que creo la LEY DE COOPERATIVAS DE HONDURAS, de fecha 30 de abril de 1987, publicado en el Diario Oficial “La Gaceta”, en fecha 20 de mayo de 1987 y sus reformas mediante Decreto No.174-2013 de fecha 1 de septiembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de febrero de 2014 y el Decreto Legislativo No. 168-2016 del 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” No. 34,265 del 14 de febrero del 2017.
+ARTÍCULO 3.- Derogar los Artículos 128 y 9 TRANSITORIOS del Decreto No. 65-87 que creo la LEY DE COOPERATIVAS DE HONDURAS, de fecha 30 de abril de 1987, publicado en el Diario Oficial “La Gaceta”, en fecha 20 de mayo de 1987 y sus reformas mediante Decreto No. 174-2013 de fecha 1 de septiembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de febrero de 2014 y el Decreto Legislativo No. 168-2016 del 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” No. 34,265 del 14 de febrero del 2017.
 
 #### Artículo 4
 
 ARTÍCULO 4.- Liberar de los pagos omisos correspondientes a los años 2014, 2015 y 2016 a las Cooperativas que estaban obligadas al pago mínimo de Diez Mil Lempiras (L10,000.00), según el literal
 
-a) del Artículo 105 del Decreto No.174- 2013 de fecha 1 de septiembre de 2013 que contiene la Ley de Cooperativas de Honduras.
+a) del Artículo 105 del Decreto No. 174-2013 de fecha 1 de septiembre de 2013 que contiene la Ley de Cooperativas de Honduras.
 
 #### Artículo 5
 
@@ -361,7 +361,7 @@ ARTÍCULO 6.- La Comisión Nacional de Bancos y Seguros (CNBS), debe brindar asi
 
 ARTÍCULO 7.- Para efectos de lo dispuesto en los
 
-Artículos 26 y 32 de esta Ley, las personas que hayan ejercido dos períodos consecutivos a partir del Decreto No.174- 2013 de fecha 1 de septiembre de 2013, sólo pueden optar a un período más.
+Artículos 26 y 32 de esta Ley, las personas que hayan ejercido dos períodos consecutivos a partir del Decreto No. 174-2013 de fecha 1 de septiembre de 2013, sólo pueden optar a un período más.
 
 #### Artículo 8
 

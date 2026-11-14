@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Nos. 051-SEN-2021, 052-SEN-2021, SEN-091-2021,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211216-35799/download"
 extraido: "2026-11-14"
-huella: "26dcb9ba9b4d1656"
+huella: "5db16a058b16f113"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 052-SEN-2021
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL CON RANGO DE SECRETARIO DE
 
 ACUERDA
 
-PRIMERO: Nombrar a la ciudadana ERICKA LORENA MOLINA AGUILAR, con número de Identidad 0801- 1971-05832 en el cargo excluido de Secretaria General de la Secretaría de Estado en el Despacho de Energía (SEN), de conformidad al artículo 9 del Reglamento de la Ley de Servicio Civil y 35 de la Ley General de la Administración Pública, en la estructura presupuestaria siguiente: Institución 310, GA 001, Programa 01, Sub Programa 00, Actividad Obra 002 Secretaria General, Grupo Nivel 00-00.número de puesto:
+PRIMERO: Nombrar a la ciudadana ERICKA LORENA MOLINA AGUILAR, con número de Identidad 0801-1971-05832 en el cargo excluido de Secretaria General de la Secretaría de Estado en el Despacho de Energía (SEN), de conformidad al artículo 9 del Reglamento de la Ley de Servicio Civil y 35 de la Ley General de la Administración Pública, en la estructura presupuestaria siguiente: Institución 310, GA 001, Programa 01, Sub Programa 00, Actividad Obra 002 Secretaria General, Grupo Nivel 00-00.número de puesto:
 
 1020, Sueldo L. 73,100.00.
 
@@ -51,15 +51,13 @@ RICARDO LEONEL CARDONA LÓPEZ SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL
 
 ACUERDO SEN-091-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otros aspectos: la exploración y explotación de los yacimientos de hidrocarburos sólidos, líquidos y gaseosos y la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados del petróleo, biocombustibles o portadores energéticos.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2018 de fecha 31 de enero de 2018, se nombró al ciudadano Roberto Antonio Ordóñez Wolfovich en el cargo de Secretario de Estado en el Despacho de Energía (SEN).
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado conducir los asuntos de su respectivo Ramo, el cumplimiento de las atribuciones comunes previstas en la Constitución de la República, la Ley y los Reglamentos correspondientes, observando las políticas e instrucciones que el Presidente de la República imparta.
 
-CONSIDERANDO: Que mediante Acuerdo No. 052-SEN- 2021 de fecha veinticuatro (24) de noviembre del año dos mil veintiuno (2021) la ciudadana Ericka Lorena Molina Aguilar, fue nombrada a partir del 01 de diciembre del año dos mil veintiuno (2021) como Secretaria General de la Secretaría de Estado en el Despacho de Energía (SEN).
+CONSIDERANDO: Que mediante Acuerdo No. 052-SEN-2021 de fecha veinticuatro (24) de noviembre del año dos mil veintiuno (2021) la ciudadana Ericka Lorena Molina Aguilar, fue nombrada a partir del 01 de diciembre del año dos mil veintiuno (2021) como Secretaria General de la Secretaría de Estado en el Despacho de Energía (SEN).
 
 CONSIDERANDO: Que el artículo 19 de la Ley de Procedimiento Administrativo refiere que los órganos administrativos desarrollan su actividad sujetándose a la jerarquía normativa de la Ley General de la Administración Pública y con arreglo a las normas de economía, celeridad y eficacia, a fin de lograr una pronta y efectiva satisfacción de interés general.
 
@@ -67,7 +65,7 @@ CONSIDERANDO: Que de conformidad al artículo 27 numeral 10 del Reglamento de Or
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera rauda, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36,116 y 118 de la Ley General de la Administración Pública; Artículos 4, 5, 19 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo No. PCM- 048-2017.
+POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36,116 y 118 de la Ley General de la Administración Pública; Artículos 4, 5, 19 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo No. PCM-048-2017.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decretos Ejecutivos NúmerosPCM 41-2024, PCM 42-2024; Acuerdos CREE-123-2024, CREE-140-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241230-36727/download"
 extraido: "2026-11-14"
-huella: "20a1eb66638cea00"
+huella: "28af62482b79de2a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos NúmerosPCM 41-2024, PCM 42-2024; Acuerdos CREE-123-2024, CREE-140-2024
@@ -177,7 +177,7 @@ IV. Que mediante el Acuerdo CREE-36-2022 de fecha veinticuatro (24) de junio de 
 
 V.
 
-Que mediante el Acuerdo CREE- 54-2023 de fecha veintinueve (29) de junio de dos mil veintitrés (2023) la Comisión Reguladora de Energía Eléctrica (CREE), modificó el artículo 53 del Reglamento para el Cálculo de Tarifas Provisionales.
+Que mediante el Acuerdo CREE-54-2023 de fecha veintinueve (29) de junio de dos mil veintitrés (2023) la Comisión Reguladora de Energía Eléctrica (CREE), modificó el artículo 53 del Reglamento para el Cálculo de Tarifas Provisionales.
 
 VI. Que conforme con lo establecido en el artículo 53 del Reglamento para el Cálculo de Tarifas Provisionales vigente, el mecanismo es aplicable hasta los ajustes tarifarios del dos mil veinticuatro (2024). No obstante, esta Comisión como resultado de la opinión técnico legal de fecha doce (12) de diciembre del año dos mil veinticuatro (2024), considera necesario modificar el artículo 53 del Reglamento para el Cálculo de Tarifas Provisionales. Lo anterior con el fin de prevenir fluctuaciones considerables en la tarifa del usuario final de la Empresa Nacional de Energía Eléctrica.
 
@@ -225,7 +225,7 @@ ACUERDO CREE-140-2024 “APROBACIÓN DEL AJUSTE TRIMESTRAL AL COSTO BASE DE GENE
 
 Resultando
 
-1. Que mediante Resolución CREE-016, la Comisión Reguladora de Energía Eléctrica (CREE), aprobó el Reglamento para el Cálculo de Tarifas Provisionales que aplica la Empresa Nacional de Energía Eléctrica (ENEE) a sus clientes, el que fue modificado por medio de los Acuerdos números CREE-065; CREE-36-2023; CREE- 54-2023; CREE-83-2024 y CREE-123-2024 de fechas de 27 de junio de 2020, 24 de junio de 2022; 29 de junio de 2023; 19 de agosto de 2024 y 12 de diciembre de 2024 respectivamente. Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de generación y el consecuente ajuste a la tarifa.
+1. Que mediante Resolución CREE-016, la Comisión Reguladora de Energía Eléctrica (CREE), aprobó el Reglamento para el Cálculo de Tarifas Provisionales que aplica la Empresa Nacional de Energía Eléctrica (ENEE) a sus clientes, el que fue modificado por medio de los Acuerdos números CREE-065; CREE-36-2023; CREE-54-2023; CREE-83-2024 y CREE-123-2024 de fechas de 27 de junio de 2020, 24 de junio de 2022; 29 de junio de 2023; 19 de agosto de 2024 y 12 de diciembre de 2024 respectivamente. Dicho reglamento es la norma aplicada para el ajuste trimestral al costo base de generación y el consecuente ajuste a la tarifa.
 
 2. Que mediante el Acuerdo CREE 156-2023 de fecha veintinueve (29) de diciembre de dos mil veintitrés (2023), la Comisión Reguladora de Energía Eléctrica (CREE), aprobó los costos base de generación para el año 2024 de la Empresa Nacional de Energía Eléctrica (ENEE), para el período que comprende el trimestre de octubre a diciembre de dos mil veinticuatro (2024) el Operador del Sistema proyectó un Costo Base de Generación de 153.40 USD/ MWh, valor que se toma como punto de partida para el presente ajuste al Costo Base de Generación (CBG).
 

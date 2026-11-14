@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 34-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241109-36685/download"
 extraido: "2026-11-14"
-huella: "42d55c72bdf5f948"
+huella: "17d794eff2044fd0"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 34-2024
@@ -39,9 +39,7 @@ CONSIDERANDO: Que se ha confirmado la presencia de treinta y ocho (38) brotes y 
 
 CONSIDERANDO: Que en Centroamérica y México la Langosta Voladora Centroamericana es el acrídido que mayores daños ha registrado en la historia, es una plaga cíclica que aparece en ciertas épocas, sobre todo en años de intensa sequía. La langosta puede consumir como manga (uniones de millones de langostas que pueden alcanzar 100 kilómetros), 30 toneladas de materia vegetal por día, provocando escasez de alimento.
 
-CONSIDERANDO: Que corresponde a la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), a través del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), coordinar las acciones a nivel nacional para identificar y diagnosticar las principales plagas que afectan los cultivos. Asimismo, el SENASA deberá coordinar con participación del sector privado, otras entidades del sector público, organismos internacionales y Estados colaborantes, la planificación y el desarrollo de programas y campañas de prevención, control y erradicación de plagas de las plantas (Ley Fito Zoo sanitaria, Decreto Legislativo No.
-
-157-97, artículos 12 y 16).
+CONSIDERANDO: Que corresponde a la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), a través del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), coordinar las acciones a nivel nacional para identificar y diagnosticar las principales plagas que afectan los cultivos. Asimismo, el SENASA deberá coordinar con participación del sector privado, otras entidades del sector público, organismos internacionales y Estados colaborantes, la planificación y el desarrollo de programas y campañas de prevención, control y erradicación de plagas de las plantas (Ley Fito Zoo sanitaria, Decreto Legislativo No. 157-97, artículos 12 y 16).
 
 CONSIDERANDO: Que la Convención Internacional de Protección Fitosanitaria (CIPF), tiene como finalidad actuar conjuntamente entre las partes contratantes y de manera eficaz para prevenir la introducción y diseminación de plagas de plantas y productos vegetales, así como promover medidas apropiadas para combatirlas.
 

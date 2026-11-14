@@ -11,7 +11,7 @@ paginas: "A. 32 - 33"
 sumario: "Acuerdos Ministeriales Nos. 194-2021, 195-2021, 196-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211231-35811/download"
 extraido: "2026-11-14"
-huella: "07bd133be4ad4ec4"
+huella: "5b307ae6a16d144a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 194-2021
@@ -29,7 +29,7 @@ huella: "07bd133be4ad4ec4"
 
 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO
 
-CONSIDERANDO: Que mediante Decreto No. 266- 2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
+CONSIDERANDO: Que mediante Decreto No. 266-2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en el Artículo 36 de la Ley General de la Administración Pública el conocimiento y resolución de los asuntos del ramo, pudiendo delegar el conocimiento de atribuciones específicas en los Subsecretarios, Secretarios Generales y Directores Generales.
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con la Ley de Procedimiento Administrativo la c
 
 CONSIDERANDO: Que el Artículo 15 del Anexo II del Acuerdo de Asociación entre Centroamérica y la Unión Europea, señala que la autoridad competente de la Parte exportadora expedirá un certificado de circulación de mercancías EUR.1 a petición escrita del exportador o, bajo la responsabilidad de este, de su representante autorizado.
 
-CONSIDERANDO: Que el Congreso Nacional de Honduras mediante Decreto Legislativo No.150- 2019 de fecha 4 de diciembre de 2019, aprobó en todas sus Partes el Acuerdo con el Reino Unido; por lo que, si no hay acuerdo negociado entre el Reino Unido y la Unión Europea, a partir del 01 de enero del año 2021 entraría en vigor el Acuerdo entre Centroamérica y Reino Unido.
+CONSIDERANDO: Que el Congreso Nacional de Honduras mediante Decreto Legislativo No. 150-2019 de fecha 4 de diciembre de 2019, aprobó en todas sus Partes el Acuerdo con el Reino Unido; por lo que, si no hay acuerdo negociado entre el Reino Unido y la Unión Europea, a partir del 01 de enero del año 2021 entraría en vigor el Acuerdo entre Centroamérica y Reino Unido.
 
 CONSIDERANDO: Que conforme comunicaciones oficiales entre Centroamérica y el Reino Unido, se acordó que los Certificados de Circulación de Mercancías, al igual que el Reino, en el caso de Centroamérica, se continuará utilizando el mismo formato de los Certificados de Circulación de Mercancías EUR.1.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo CREE-021-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240327-36496/download"
 extraido: "2026-11-14"
-huella: "7fd85341c152335d"
+huella: "0755f9ee396e32cd"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-021-2024
@@ -59,7 +59,7 @@ Resultando:
 
 Considerandos:
 
-Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022,46-2022, siendo la última el 6 de junio del 2023 Decreto 27-2023; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022,46-2022, siendo la última el 6 de junio del 2023 Decreto 27-2023; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE), el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica (CREE).
 

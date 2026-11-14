@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Nos. J.D. 001-10-08-2022, J.D. 001-23-08-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220909-36024/download"
 extraido: "2026-11-14"
-huella: "abd0870e19e3b0f5"
+huella: "d2fd0c2aeb83c937"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Nos. J.D. 001-10-08-2022, J.D. 001-23-08-2022
@@ -255,7 +255,7 @@ SEGUNDO: El presente acuerdo entrará en vigencia el día de su publicación en 
 
 COMUNÍQUESE Y PUBLIQUESE. - JOSÉ FRANCISCO ORDOÑEZ PRESIDENTE JUNTA DIRECTIVA CONSUCOOP NORMA RODRIGUEZ SECRETARIA DE JUNTA DIRECTIVA CONSUCOOP Consejo Nacional Supervisor de Cooperativas (Consucoop) ACUERDO No. J.D.001-23-08-2022 TEGUCIGALPA, M.D.C., 23 DE AGOSTO DEL AÑO 2022 LA JUNTA DIRECTIVA DEL CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP). -
 
-CONSIDERANDO (1): Que corresponde al Consejo N a c i o n a l S u p e r v i s o r d e Cooperativas (CONSUCOOP), la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos; determinar y dirigir la supervisión del sistema cooperativo, bajo normativas prudenciales de control y riesgo, para la consolidación e integración del cooperativismo y defensa de sus instituciones.
+CONSIDERANDO (1): Que corresponde al Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos; determinar y dirigir la supervisión del sistema cooperativo, bajo normativas prudenciales de control y riesgo, para la consolidación e integración del cooperativismo y defensa de sus instituciones.
 
 CONSIDERANDO (2): Que de conformidad con lo establecido en el artículo 7 de la Ley de Cooperativas de Honduras, para que las cooperativas sean reconocidas como tales, deben cumplir para su organización y funcionamiento, las condiciones siguientes: a) Contar con personalidad jurídica extendida por el Organismo Supervisor del Sector Cooperativo… i) Contar con estatutos debidamente aprobados por la Asamblea Constitutiva.
 
@@ -265,9 +265,9 @@ CONSIDERANDO (4): Que el artículo 11 transitorio del Decreto 174-2013 de fecha 
 
 CONSIDERANDO (5): Que el artículo 11 TRANSITORIO del Decreto 174-2013 supra señalado, fue reformado mediante Decreto Legislativo No. 146 2019, de fecha 04 de diciembre de 2019, publicado en el Diario Oficial La Gaceta No. 35,146 en fecha 11 de enero de 2020, estableciendo que: “Todas las cooperativas deben ajustar sus estatutos a las disposiciones de esta Ley, dentro del plazo de un (1) año, contado a partir del día de la publicación del reglamento.
 
-A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No.174-2013 de fechas 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor”.
+A las cooperativas que no se reinscribieron bajo la ordenanza del Decreto No. 174-2013 de fechas 1 de septiembre de 2013, se les debe conceder un plazo que es definido por el Ente Supervisor”.
 
-CONSIDERANDO (6): Que dando cumplimiento a lo establecido en el Decreto Legislativo 146-2019, de fecha 04 de diciembre de 2019, publicado en el Diario Oficial La Gaceta en fecha 11 de enero de 2020, el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) emitió Acuerdo No. J.D.002-05- 08-2021 de fecha 05 de agosto de 2021, publicado en el Diario Oficial La Gaceta en fecha 23 de agosto de 2021, estableciendo:
+CONSIDERANDO (6): Que dando cumplimiento a lo establecido en el Decreto Legislativo 146-2019, de fecha 04 de diciembre de 2019, publicado en el Diario Oficial La Gaceta en fecha 11 de enero de 2020, el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP) emitió Acuerdo No. J.D.002-05-08-2021 de fecha 05 de agosto de 2021, publicado en el Diario Oficial La Gaceta en fecha 23 de agosto de 2021, estableciendo:
 
 Ordenar a las cooperativas a nivel nacional, que no realizaron en tiempo y forma la reinscripción según ordenanza establecida en el Decreto 174-2013 de fecha 01 de septiembre de 2013, para que en el plazo de doce (12) meses, procedan a realizar la reinscripción en el Registro Nacional de Cooperativas dependiente de este Consejo.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ministeriales Nos. 022-2022, 025-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220405-35891/download"
 extraido: "2026-11-14"
-huella: "62f6c8b483f1daaa"
+huella: "9dcef29ebff6c7d9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 022-2022
@@ -43,9 +43,7 @@ CONSIDERANDO: Que el Artículo 4 de la Ley de Procedimiento Administrativo estab
 
 CONSIDERANDO: Que con el objeto de agilizar la Administración Pública los Secretarios de Estado podrán delegar en sus Subsecretarios de Estado el ejercicio de la potestad de decidir en determinadas materias o en casos concretos mediante la firma de ciertos actos administrativos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-204-2022, de fecha 18 de marzo del 2022. La presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al Ciudadano MELVIN ENRIQUE REDONDO, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 204-2022, de fecha 18 de marzo del 2022. La presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al Ciudadano MELVIN ENRIQUE REDONDO, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
 
 POR TANTO, El Secretario de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investido y de conformidad con los Artículos 321 de la Constitución de la República; 7, 36 numerales 8 y 19, 37, 116, 118 y 122 de la Ley General de Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; 17, 24, 26 numeral 10 y 11 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 

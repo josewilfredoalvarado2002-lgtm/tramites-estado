@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Ejecutivos números PCM-066-2020, PCM-067-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200722-35321/download"
 extraido: "2026-11-14"
-huella: "5f61fa235867f555"
+huella: "1068dac1eae8952e"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-066-2020
@@ -59,13 +59,13 @@ CONSIDERANDO: Que la Ley de Contratación del Estado en su Artículo 63 numeral 
 
 POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11 y 19, 321, 323 y 360 de la Constitución de la República; Declaración Universal de Derechos Humanos de 1948; Pacto Internacional de Derechos Económicos, Sociales y Culturales (1996);
 
-Artículos 11, 17, 18, 22 numeral 9), 29 numeral 4), 116, 117 y 119 de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1) y párrafo final de la Ley de Contratación del Estado; Decretos Ejecutivos Números: PCM-005-2020, PCM- 016-.2020 y PCM-023-2020.
+Artículos 11, 17, 18, 22 numeral 9), 29 numeral 4), 116, 117 y 119 de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1) y párrafo final de la Ley de Contratación del Estado; Decretos Ejecutivos Números: PCM-005-2020, PCM-016-.2020 y PCM-023-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Amparado en la Declaratoria de Emergencia Humanitaria y Sanitaria, emitida por el Presidente Constitucional de la República en Consejo de Secretarios de Estado, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición Número 35,171 reformado por los Decretos Ejecutivos Números: PCM-016-2020 y PCM-023- 2020, y en cumplimiento a lo establecido en los Artículos 9 y 63 numeral 1) y párrafo final de la Ley de Contratación del Estado, se autoriza a la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), para que mediante el procedimiento de Contratación Directa celebre los contratos que sean estrictamente necesarios para cumplir con la finalidad del desaduanaje, transporte, almacenamiento y distribución a los municipios de todo Honduras, el equivalente a TRES MIL (3000) toneladas de Arroz, donados por el Gobierno de la República de China (Taiwán), a través de su Embajada en Honduras.
+ARTÍCULO 1.- Amparado en la Declaratoria de Emergencia Humanitaria y Sanitaria, emitida por el Presidente Constitucional de la República en Consejo de Secretarios de Estado, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición Número 35,171 reformado por los Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, y en cumplimiento a lo establecido en los Artículos 9 y 63 numeral 1) y párrafo final de la Ley de Contratación del Estado, se autoriza a la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), para que mediante el procedimiento de Contratación Directa celebre los contratos que sean estrictamente necesarios para cumplir con la finalidad del desaduanaje, transporte, almacenamiento y distribución a los municipios de todo Honduras, el equivalente a TRES MIL (3000) toneladas de Arroz, donados por el Gobierno de la República de China (Taiwán), a través de su Embajada en Honduras.
 
 Los contratos a suscribir no deben exceder un monto de hasta DIECISEIS MILLONES DE LEMPIRAS (L16,000,000.00), afectando el presupuesto de la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS).
 

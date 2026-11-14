@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Dacuerdo No. 014-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210126-35498/download"
 extraido: "2026-11-14"
-huella: "bb3d8d4f38c9bc38"
+huella: "1a40f990a2c7373c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 014-2021
@@ -37,7 +37,7 @@ POR TANTO:
 
 En aplicación de los Artículos 36 numeral 1, 8 de la Ley General de la Administración y 4 de la Ley de Procedimiento Administrativo.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Nombrar a la ciudadana IRMA BENAVIDES REYES con Tarjeta de Identidad No. 0801-1955-02544, como Coordinadora del Programa de Apoyo Presupuestario Sectorial en Seguridad Alimentaria y Nutricional “EUROSAN BUDGET”.
 
@@ -45,7 +45,7 @@ SEGUNDO: Por lo tanto deberá seguir las instrucciones enmarcadas del Despacho, 
 
 TERCERO: El presente Acuerdo será efectivo a partir de su notificación y deberá ser publicado en el Diario Oficial “La Gaceta”.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 LICENCIADA ALBA CONSUELO FLORES FERRUFINO SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD ABOGADA SARA DEL CARMEN ALVAREZ SANCHEZ SECRETARIA GENERAL ________
 

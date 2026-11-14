@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240810-36609/download"
 extraido: "2026-11-14"
-huella: "f8ee05046c891b0f"
+huella: "54d073815765c199"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-DG-IP-011-2024
@@ -65,9 +65,7 @@ En cumplimiento a los deberes y atribuciones señalados en los artículos 321 de
 
 \9) 10), 55,60, 61, 62 y 67 y los Artículos 2, 15, 179, 181 literal
 
-e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No.
-
-CD-lP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
+e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No. CD-lP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
 
 ACUERDA:
 

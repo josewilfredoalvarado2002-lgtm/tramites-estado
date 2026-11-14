@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número 086-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260211-37067/download"
 extraido: "2026-11-09"
-huella: "2cd58ee446b44732"
+huella: "1e18f2291089a5a3"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 086-2026
@@ -43,9 +43,7 @@ La Secretaría de Estado en el Despacho de Finanzas, en uso de sus facultades y 
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano SAUL MONTES AMAYA, con Documento Nacional de Identificación No.
-
-0801-1968-00438, en el cargo de Vicepresidente del Banco Central de Honduras (BCH) conforme al artículo 6 de la Ley del Banco Central de Honduras, a partir del veintinueve (29) de enero del año dos mil veintiséis (2026) hasta el veintinueve
+PRIMERO: Nombrar al ciudadano SAUL MONTES AMAYA, con Documento Nacional de Identificación No. 0801-1968-00438, en el cargo de Vicepresidente del Banco Central de Honduras (BCH) conforme al artículo 6 de la Ley del Banco Central de Honduras, a partir del veintinueve (29) de enero del año dos mil veintiséis (2026) hasta el veintinueve
 
 (29) enero del año 2030.
 

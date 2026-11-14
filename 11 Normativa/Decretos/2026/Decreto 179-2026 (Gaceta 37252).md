@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 177-2026, 179-2026, 180-2026, 182-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260922-37252/download"
 extraido: "2026-11-09"
-huella: "f58b2ec8b30a5055"
+huella: "f56940c2450813b3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 179-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la ejecución del referido Proyecto requiere la asignación de
 
 CONSIDERANDO: Que conformidad con el Artículo 205, Atribución 1) de la Constitución de la República de Honduras, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 La siguiente:
 

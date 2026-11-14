@@ -11,7 +11,7 @@ paginas: "A. 51 - 128"
 sumario: "Decretos Nos. 123-2022, 124-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221110-36073/download"
 extraido: "2026-11-14"
-huella: "0c4cde7625e621a6"
+huella: "d5490d26760c8537"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 124-2022
@@ -29,7 +29,7 @@ huella: "0c4cde7625e621a6"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto Legislativo No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmado los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto Legislativo No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmado los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que la Presidenta de la República reunida en Consejo de Secretarios de Estado emitió el Decreto Ejecutivo No.PCM-24-2022 de fecha 24 de Septiembre del año 2022, mediante el cual, se declaró Estado de Emergencia en todo el territorio nacional por el período de noventa (90) días, que se estima durará la temporada ciclónica, con la finalidad de responder de forma inmediata y oportuna, ante la grave situación y los riesgos que enfrentan las familias hondureñas, de igual forma, se instruyó a la Secretaría de Estado en el Despacho de Finanzas a la gestión de recursos externos de apoyo debiendo realizar las operaciones presupuestarias y financieras necesarias de conformidad con la Ley.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19 y 36 de l
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -731,7 +731,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -741,7 +741,7 @@ FPi,j es la fecha de pago referente al pago i del tramo
 
 j. FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 110. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 

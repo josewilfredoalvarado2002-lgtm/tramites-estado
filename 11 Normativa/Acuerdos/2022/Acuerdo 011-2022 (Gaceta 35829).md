@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 011-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220122-35829/download"
 extraido: "2026-11-14"
-huella: "3dbf590fd5e1b5ba"
+huella: "b185cecbb0b489f3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 011-2022
@@ -45,7 +45,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los Artículos 247 y 321 Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública; 24 y 26 numeral 10 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo.
 
-A C U E R D A:
+ACUERDA:
 
 Aprobar el siguiente:
 
@@ -67,7 +67,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 MARIA ANTONIA RIVERA
 
-Encargada de la Secretaría de Estado en el Despacho de Desarrollo Económico CESAR ANDRES VERDE ZÚNIGA Encargado de la Secretaría General Acuerdo Ministerial de Delegación No.172-2021 Avance Próxima Edición
+Encargada de la Secretaría de Estado en el Despacho de Desarrollo Económico CESAR ANDRES VERDE ZÚNIGA Encargado de la Secretaría General Acuerdo Ministerial de Delegación No. 172-2021 Avance Próxima Edición
 
 \1) DECRETA: RTICULO 1.- Declarar Ia Expropiación Forzosa por Causa de Necesidad Pública de los inmuebles que ocupan los Asentamientos Humanos denominados “COLONIA VENECIA”, “COLONIA PROVIDENCIA”, “COLONIA ALTOS DE LA LAGUNA”, y “COLONIA BETANIA”, CENTROS DE DISTRIBUCIÓN:
 

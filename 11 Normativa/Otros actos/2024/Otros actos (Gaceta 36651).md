@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo CREE-099-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240927-36651/download"
 extraido: "2026-11-14"
-huella: "a19c7edd3eb82a6b"
+huella: "dcd4dcbe0029aea8"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-099-2024
@@ -53,7 +53,7 @@ Que mediante oficio número GG-ENEE-690- VI-2024 de fecha veintiocho (28) de jun
 
 VI.
 
-Que en fecha veintisiete (27) de septiembre de dos mil veinticuatro (2024) la Empresa Nacional de Energía Eléctrica (ENEE) mediante el oficio número GG- 1212-09-2024 informó a la Comisión Reguladora de Energía Eléctrica (CREE) la decisión de trasladar la totalidad del monto diferido de USD 60,000,000.00 indicado en el oficio número GG-ENEE-690- VI-2024, al presente ajuste tarifario.
+Que en fecha veintisiete (27) de septiembre de dos mil veinticuatro (2024) la Empresa Nacional de Energía Eléctrica (ENEE) mediante el oficio número GG-1212-09-2024 informó a la Comisión Reguladora de Energía Eléctrica (CREE) la decisión de trasladar la totalidad del monto diferido de USD 60,000,000.00 indicado en el oficio número GG-ENEE-690- VI-2024, al presente ajuste tarifario.
 
 VII.
 

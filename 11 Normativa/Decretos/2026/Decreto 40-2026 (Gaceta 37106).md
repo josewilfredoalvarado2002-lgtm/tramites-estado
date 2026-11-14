@@ -11,7 +11,7 @@ paginas: "A. 11 - 14"
 sumario: "Decretos Nos. 38-2026, 39-2026, 40-2026, 45-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260328-37106/download"
 extraido: "2026-11-09"
-huella: "b2cf31df4de0a7bc"
+huella: "8407f451f3f33598"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 40-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribuciones 1) 19) y 36)
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -69,7 +69,7 @@ Se autoriza al Régimen de Aportaciones Privadas (RAP) para celebrar con los emp
 
 ARTÍCULO 3.- INTEGRACIÓN DEL FONDO DE PENSIONES AL FONDO DE VIVIENDA E INCLUSIÓN FINANCIERA (FOVIIF):
 
-Se autoriza integrar al Fondo de Vivienda e Inclusión Financiera (FOVIIF) los recursos acumulados en el Fondo de Pensiones administrado por el RAP durante la vigencia de la Ley Marco del Sistema de Protección Social (Decreto No.56-2015), declarada inconstitucional por la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ); razón por la cual el RÉGIMEN DE APORTACIONES PRIVADAS (RAP) no pudo seguir captando las aportaciones que en ese cuerpo legal se autorizaron.
+Se autoriza integrar al Fondo de Vivienda e Inclusión Financiera (FOVIIF) los recursos acumulados en el Fondo de Pensiones administrado por el RAP durante la vigencia de la Ley Marco del Sistema de Protección Social (Decreto No. 56-2015), declarada inconstitucional por la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ); razón por la cual el RÉGIMEN DE APORTACIONES PRIVADAS (RAP) no pudo seguir captando las aportaciones que en ese cuerpo legal se autorizaron.
 
 La integración autorizada garantiza los derechos adquiridos de los afiliados al RAP, derivados de las aportaciones que, junto a sus patronos, realizaron en legal y debida forma al Fondo de Pensiones y, el total acumulado del mismo que será integrado al Fondo de Vivienda e Inclusión Financiera (FOVIIF), estarán sujetos a las condiciones de beneficios, retiro y devolución establecidos en los reglamentos aprobados por el RAP para el Fondo de Vivienda e Inclusión Financiera (FOVIIF) de acuerdo a la Ley del Régimen de Aportaciones Privadas vigente.
 

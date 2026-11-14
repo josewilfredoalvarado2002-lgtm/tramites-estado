@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "Acuerdo SAR-No. 354-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211118-35775/download"
 extraido: "2026-11-14"
-huella: "21f68b54aeed9a5c"
+huella: "a967fcd2cb6df02c"
 ---
 <!-- portal:inicio -->
 # ACUERDO SAR No. 354-2021
@@ -37,13 +37,11 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 001-A-2017 de fecha 02 de e
 
 CONSIDERANDO: Que el Artículo 199 numeral 6) del Código Tributario, establece las atribuciones de la Directora Ejecutiva del Servicio de Administración de Rentas, siendo una de ellas la de aprobar políticas institucionales, acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulen la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones.
 
-CONSIDERANDO: Que mediante Acuerdo SAR-002- 2017 se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando las siguientes unidades:
+CONSIDERANDO: Que mediante Acuerdo SAR-002-2017 se aprobó la Estructura Organizacional del Servicio de Administración de Rentas, creando las siguientes unidades:
 
 Dirección Nacional, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes San Pedro Sula, Dirección Regional Centro Sur, Dirección Nor Occidental, Dirección Regional Nor Oriental, Direcciones Departamentales y Oficinas Tributarias, estableciendo para cada una sus sedes y jurisdicciones.
 
-CONSIDERANDO: Que el Acuerdo SAR-002-2017 de la Estructura Organizacional del Servicio de Administración de Rentas ha tenido modificaciones aprobadas mediante los Acuerdos número SAR-125-2018 de fecha 14 de marzo de 2018, SAR-190-2018 de fecha 27 de abril de 2018, SAR- 222-2019 de fecha 03 de junio de 2019, Acuerdo SAR-No.
-
-182-2021, y mediante Acuerdo No. SAR-18-2019 de fecha 07 de enero de 2019 se elevó la categoría de la Oficina Tributaria con sede en El Progreso, departamento de Yoro a Dirección Departamental de Yoro.
+CONSIDERANDO: Que el Acuerdo SAR-002-2017 de la Estructura Organizacional del Servicio de Administración de Rentas ha tenido modificaciones aprobadas mediante los Acuerdos número SAR-125-2018 de fecha 14 de marzo de 2018, SAR-190-2018 de fecha 27 de abril de 2018, SAR-222-2019 de fecha 03 de junio de 2019, Acuerdo SAR-No. 182-2021, y mediante Acuerdo No. SAR-18-2019 de fecha 07 de enero de 2019 se elevó la categoría de la Oficina Tributaria con sede en El Progreso, departamento de Yoro a Dirección Departamental de Yoro.
 
 CONSIDERANDO: Que luego de realizar una revisión de la última modificación de estructura de la Dirección Nacional del Servicio de Administración de Rentas (SAR), es necesario realizar cambios estructurales, con el propósito de lograr un funcionamiento óptimo de la institución y en alineación a los acuerdos realizados por el país.
 

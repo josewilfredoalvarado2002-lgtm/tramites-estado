@@ -11,7 +11,7 @@ paginas: "A. 25 - 36"
 sumario: "Acuerdos Nos. DE-DCHA-047-2025, 059-2025, 60-2025,62-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250829-36929/download"
 extraido: "2026-11-09"
-huella: "34512722249db51a"
+huella: "3f635706edf4be3c"
 ---
 <!-- portal:inicio -->
 # ACUERDO N°. 62-2025
@@ -27,7 +27,7 @@ huella: "34512722249db51a"
 
 ## Texto
 
-LA DIRECCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL , ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF). COMAYAGUA, MUNICIPIO DEL DISTRITO CENTRAL, A LOS VEINTE (20) DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTICINCO (2025).
+LA DIRECCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF). COMAYAGUA, MUNICIPIO DEL DISTRITO CENTRAL, A LOS VEINTE (20) DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL VEINTICINCO (2025).
 
 CONSIDERANDO: Que, el Plan de Gobierno para la Refundación de la Patria y la Construcción del Estado Socialista y Democrático establece recuperar las zonas de recarga hídrica (cuencas hidrográficas) retomando la iniciativa interrumpida del Poder Ciudadano de reforestar, y los compromisos del país de restaurar el bosque perdido y reducir en 40 % el consumo doméstico de leña verde al 2030.
 

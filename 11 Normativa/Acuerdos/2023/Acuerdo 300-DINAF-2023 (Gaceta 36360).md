@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos de Delegación Nos. 297-A-DINAF-2023, 300-DINAF-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231017-36360/download"
 extraido: "2026-11-14"
-huella: "17619531572e0f27"
+huella: "320cdbc2d8a6624b"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 300-DINAF-2023
@@ -49,9 +49,7 @@ CONSIDERANDO: Que mediante Memorándum RRHH 735-2023 de fecha veinticinco (25) d
 
 POR TANTO
 
-En aplicación de los Artículos 321 de la Constitución de la República, 36, numerales 8), 116, 118 numeral 1), 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo, 40 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto Ejecutivo PCM 27-2014, ratificado mediante Decreto Legislativo No.
-
-34-2021, publicado en el Diario Oficial La Gaceta el 16 de julio de 2021.
+En aplicación de los Artículos 321 de la Constitución de la República, 36, numerales 8), 116, 118 numeral 1), 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo, 40 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto Ejecutivo PCM 27-2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en el Diario Oficial La Gaceta el 16 de julio de 2021.
 
 ACUERDA
 

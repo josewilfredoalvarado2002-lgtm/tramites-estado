@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Decreto Ejecutivo Número PCM-015-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260813-37219/download"
 extraido: "2026-11-09"
-huella: "b09ca608213c4f1c"
+huella: "58424613b931f33a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-015-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el Presidente de la República tiene a su cargo la suprema dir
 
 CONSIDERANDO: Que la Administración Pública tiene por objeto promover las condiciones que sean más favorables para el desarrollo nacional, sobre una base de justicia social, procurando el equilibrio entre su actuación y los derechos e intereses legítimos de los particulares; y, le corresponde a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), entre otros, la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las obras de infraestructura pública.
 
-CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 1 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto Legislativo Número 58- 2011, publicado el 13 de julio de 2011 en el Diario Oficial "La Gaceta", sus normas y procedimientos serán aplicables a las Unidades Ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza como la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT).
+CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 1 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto Legislativo Número 58-2011, publicado el 13 de julio de 2011 en el Diario Oficial "La Gaceta", sus normas y procedimientos serán aplicables a las Unidades Ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza como la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT).
 
 CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), ejecuta el Proyecto denominado "Libramiento Anillo Periférico - Carretera CA-5 Sur, ubicado en el Municipio del Distrito Central, Departamento de Francisco Morazán", el cual de conformidad con lo establecido en el contrato de préstamo correspondiente incluye la Implementación de un Plan de Reasentamiento Involuntario (PRI) aplicando las directrices del Banco Mundial, plan que desde noviembre del año 2023 se lleva a cabo y fundamenta las acciones necesarias para adquirir, de forma transparente y justa, las áreas de terrenos privados y la liberación de espacios de trabajo definidos, según diseño aprobado por la SIT para este proyecto vial; sin embargo, a la fecha este Plan no se ha podido concretar adecuadamente en su totalidad en virtud de diversas situaciones como la negativa y altas pretensiones económicas de algunos de los propietarios de los terrenos que en calidad de derecho de vía necesitan ser adquiridos, lo que impide alcanzar un acuerdo satisfactorio para establecer los montos de indemnización; en otros casos no se ha logrado identificar a los propietarios de dichas áreas y, además, por situaciones legales y/o registrales que impiden la adquisición del dominio sobre el inmueble en el corto plazo.
 
@@ -59,11 +59,7 @@ CONSIDERANDO: Que la urgencia que reviste la ejecución de tan relevante obra co
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) conformó la Comisión de Avalúo a que se refiere el Artículo 20 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, con el objeto de aprobar los valores de negociación que se deberán pagar para las indemnizaciones de los inmuebles que se requieren para el desarrollo de la obra; habiéndose identificado un aproximado de 108 propietarios de terrenos que serán afectados en la ejecución de dicho proyecto de infraestructura, con los cuales se inició el correspondiente proceso de negociación para establecer los valores de indemnización a pagar; no obstante, con algunos de dichos propietarios, como se reitera, ha resultado imposible alcanzar un acuerdo satisfactorio para establecer los montos de indemnización, en virtud de sus altas pretensiones económicas; y, en otros casos por no lograr identificar a sus propietarios o por situaciones legales y/o registrales que impiden la adquisición del dominio sobre el inmueble en el corto plazo.
 
-CONSIDERANDO: Que el Gobierno de la República de Honduras suscribió con el Banco Centroamericano de Integración Económica (BCIE) el Contrato de Préstamo No.
-
-2221, el cual fue aprobado mediante Decreto Legislativo No.
-
-7-2019, de fecha 08 de mayo de 2019 y publicado en el Diario Oficial "La Gaceta" el 19 de junio de 2019, para financiar el Proyecto Libramiento Anillo Periférico - Carretera CA-5 Sur; documento que conforme a lo establecido en el Artículo 14 párrafo segundo de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, constituye la Declaración de Interés Público citada en la Ley de Expropiación Forzosa.
+CONSIDERANDO: Que el Gobierno de la República de Honduras suscribió con el Banco Centroamericano de Integración Económica (BCIE) el Contrato de Préstamo No. 2221, el cual fue aprobado mediante Decreto Legislativo No. 7-2019, de fecha 08 de mayo de 2019 y publicado en el Diario Oficial "La Gaceta" el 19 de junio de 2019, para financiar el Proyecto Libramiento Anillo Periférico - Carretera CA-5 Sur; documento que conforme a lo establecido en el Artículo 14 párrafo segundo de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, constituye la Declaración de Interés Público citada en la Ley de Expropiación Forzosa.
 
 POR TANTO;
 

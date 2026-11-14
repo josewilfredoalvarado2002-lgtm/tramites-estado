@@ -11,7 +11,7 @@ paginas: "A. 19 - 21"
 sumario: "Decreto No. 142-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260805-37212/download"
 extraido: "2026-11-09"
-huella: "5edfd7cf533d116a"
+huella: "553867e64a129b5c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 142-2026
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que realice las modificaciones presupuestarias mediante traslado Interno del Presupuesto General de Ingresos y Egresos de la República, asignado a la Institución 406 Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER) para el Ejercicio Fiscal 2026, con el fin de efectuar la Disminución mediante el traslado de fondos del Grupo de Gasto 50000 Transferencias Objeto del Gasto 55170 Transferencias de Capital a Gobiernos Locales con beneficiario de Transferencia 2601 Santa Bárbara, por el monto de VEINTISÉIS MILLONES D E L E M P I R A S E X A C T O S (L.26,000,000.00), en la estructura presupuestaria siguiente:
+ARTÍCULO 1.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que realice las modificaciones presupuestarias mediante traslado Interno del Presupuesto General de Ingresos y Egresos de la República, asignado a la Institución 406 Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER) para el Ejercicio Fiscal 2026, con el fin de efectuar la Disminución mediante el traslado de fondos del Grupo de Gasto 50000 Transferencias Objeto del Gasto 55170 Transferencias de Capital a Gobiernos Locales con beneficiario de Transferencia 2601 Santa Bárbara, por el monto de VEINTISÉIS MILLONES DE LEMPIRAS EXACTOS (L.26,000,000.00), en la estructura presupuestaria siguiente:
 
 DESCRIPCION INST.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Números 01-2025, 02-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251226-37028/download"
 extraido: "2026-11-09"
-huella: "5e233f69c9d55c96"
+huella: "b084ce97513419fd"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 01-2025
@@ -41,11 +41,11 @@ CONSIDERANDO: Que el Instituto Nacional Penitenciario cuenta con un cuerpo de pe
 
 Que es deber del INP crear las condiciones que motiven y eleven la moral del personal con el fin de crear carácter, doctrina, identidad y espíritu de cuerpo de todos los miembros que integran los cuadros del personal penitenciario.
 
-CONSIDERANDO: Que es de mérito considerar la hidalguía, la prestancia, el sacrificio y la imprescindible labor del trabajo desarrollado por todos los Agentes Penitenciarios que prestan servicio en el Instituto Nacional Penitenciario; y que una de las formas de reconocer e incrementar la motivación del personal penitenciario, es establecer un día en honor a los Agentes Penitenciarios Hondureños que los sepa distinguir, homenajear y perpetuar en la historia como servidores públicos que sirven a la patria con justicia , honor y sacrificio desde la difícil ocupación de la función penitenciaria.
+CONSIDERANDO: Que es de mérito considerar la hidalguía, la prestancia, el sacrificio y la imprescindible labor del trabajo desarrollado por todos los Agentes Penitenciarios que prestan servicio en el Instituto Nacional Penitenciario; y que una de las formas de reconocer e incrementar la motivación del personal penitenciario, es establecer un día en honor a los Agentes Penitenciarios Hondureños que los sepa distinguir, homenajear y perpetuar en la historia como servidores públicos que sirven a la patria con justicia, honor y sacrificio desde la difícil ocupación de la función penitenciaria.
 
 CONSIDERANDO: Que no hay mejor ejemplo a emular que la trayectoria y legado que dejó para el sistema penitenciario hondureño el doctor Marco Aurelio Soto Martínez, cuyo natalicio sea el referente para marcar la historia penitenciaria del personal de agentes penitenciarios.
 
-POR TANTO, El Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, General de Brigada JOSÉ MIGUEL MEJÍA MEDINA y los demás miembros de la Comisión Interventora y autoridades del Instituto Nacional Penitenciario, en uso de las facultades de que está investido y en aplicación de los artículos 59,87 y 119 de la Constitución de la República; 41 reformado de la Ley de Procedimiento Administrativo; artículo 11 numeral (3) 4) y artículo 16 numeral (13) de la Ley del Sistema penitenciario Nacional; artículo 29 numeral 1) párrafo segundo de la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y fortalecimiento de la transparencia en el gobierno; Decreto Ejecutivo PCM-028-2023, PCM- 18-2024, PCM-041-2024 y Acuerdo Ejecutivo 106-2025 publicado en el Diario Oficial La Gaceta el 30 de julio del 2025:
+POR TANTO, El Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, General de Brigada JOSÉ MIGUEL MEJÍA MEDINA y los demás miembros de la Comisión Interventora y autoridades del Instituto Nacional Penitenciario, en uso de las facultades de que está investido y en aplicación de los artículos 59,87 y 119 de la Constitución de la República; 41 reformado de la Ley de Procedimiento Administrativo; artículo 11 numeral (3) 4) y artículo 16 numeral (13) de la Ley del Sistema penitenciario Nacional; artículo 29 numeral 1) párrafo segundo de la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y fortalecimiento de la transparencia en el gobierno; Decreto Ejecutivo PCM-028-2023, PCM-18-2024, PCM-041-2024 y Acuerdo Ejecutivo 106-2025 publicado en el Diario Oficial La Gaceta el 30 de julio del 2025:
 
 ACUERDA
 

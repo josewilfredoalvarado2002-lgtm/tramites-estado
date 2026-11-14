@@ -11,7 +11,7 @@ paginas: "A. 14 - 24"
 sumario: "Acuerdos Ministeriales Nos. SAG-117-2024, 121-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240801-36601/download"
 extraido: "2026-11-14"
-huella: "a0939f3ebb8a5e67"
+huella: "492f0d8088da2efc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 121-2024
@@ -79,7 +79,7 @@ CONSIDERANDO:
 
 Que de acuerdo al Artículo 44, de la Ley General de Pesca y Acuicultura la PESCA DE INVESTIGACIÓN se realiza con la finalidad de facilitar el conocimiento científico sobre especies hidrobiológicas, su condición, tamaño y la dinámica poblacional, así como el estado de explotación de estos recursos; prospección pesquera con miras a su eficiente administración y aprovechamiento sustentable.
 
-La información obtenida debe servir para la elaboración d e p l a n e s d e m a n e j o , determinación de cuotas de captura, técnicas sobre métodos, artes de pesca, demás condiciones de extracción y medidas de protección de la biodiversidad;
+La información obtenida debe servir para la elaboración de planes de manejo, determinación de cuotas de captura, técnicas sobre métodos, artes de pesca, demás condiciones de extracción y medidas de protección de la biodiversidad;
 
 CONSIDERANDO:
 
@@ -127,7 +127,7 @@ TERCERO:
 
 La Pesca de Investigación de langosta espinosa en el Caribe de Honduras se realizará bajo la categoría de Pesca Artesanal Avanzada, a través de buzos acreditados en la DIGEPESCA, Secretaría de Salud, Secretaría del Trabajo y de la Dirección General de la Marina Mercante.
 
-CUARTO: La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557- 20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humana.
+CUARTO: La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557-20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humana.
 
 QUINTO:
 
@@ -135,7 +135,7 @@ La DIGEPESCA asignará un observador científico a bordo de cada una de las doce
 
 SEXTO:
 
-Los resultados preliminares del estudio al término de la temporada de Pesca 2024- 2025, podrán determinar la adopción de medidas de ordenación de la pesca de langosta por parte de la DIGEPESCA, aplicando el Principio Precautorio procedente para los casos de estudios preliminares; los resultados del estudio al término de la temporada de pesca 2025-2026, podrán afianzar las medidas adoptadas previamente, o, ajustarlas y/o instaurar otras en coherencia con los principios y lineamientos procedentes para garantizar la sustentabilidad de esta actividad pesquera;
+Los resultados preliminares del estudio al término de la temporada de Pesca 2024-2025, podrán determinar la adopción de medidas de ordenación de la pesca de langosta por parte de la DIGEPESCA, aplicando el Principio Precautorio procedente para los casos de estudios preliminares; los resultados del estudio al término de la temporada de pesca 2025-2026, podrán afianzar las medidas adoptadas previamente, o, ajustarlas y/o instaurar otras en coherencia con los principios y lineamientos procedentes para garantizar la sustentabilidad de esta actividad pesquera;
 
 SEPTIMO:
 

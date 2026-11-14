@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Decreto Ejecutivo número PCM-136-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201222-35467/download"
 extraido: "2026-11-14"
-huella: "96d8a98027b429ec"
+huella: "7bdc41ad1280df58"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-136-2020
@@ -43,13 +43,13 @@ Lo concerniente a la formulación, coordinación, ejecución y evaluación de la
 
 CONSIDERANDO: Que mediante Decreto No. 266-2013 del 23 de enero de 2014 publicado en el Diario Oficial número 33,336, que decreta de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, determina en su Artículo 29 numeral 4 las nuevas competencias de la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social, entre las que se encuentran “la planificación, administración y ejecución de los Programas y Proyectos que se derivan de las Políticas Públicas en materia de desarrollo e inclusión social y las dirige a los grupos vulnerables y los orientados a la niñez, juventud, pueblos indígenas y afro hondureños, discapacitados, personas con necesidades especiales y adultos mayores”.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 278- 2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre del 2013, Edición No.33,316, contentivo de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medida Antievasión en su
+CONSIDERANDO: Que el Decreto Legislativo No. 278-2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre del 2013, Edición No. 33,316, contentivo de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medida Antievasión en su
 
 Artículo 45 constituye el Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza Extrema, el cual es manejado mediante un fideicomiso destinado exclusivamente para garantizar la continuidad y ampliación de programas y proyectos sociales impulsados por la Presidencia de la República o la Secretaría de Estado que designe el Consejo de Secretarios de Estado.
 
 CONSIDERANDO: Que mediante Decreto Legislativo Número 38-2011 de fecha 13 de Junio de 2013, publicado en el Diario Oficial “La Gaceta”, Edición No. 33,149, se decretó la Ley Marco de Políticas Públicas en Materia Social, que establece en su artículo 1 “ Que la presente Ley tiene por objeto crear el marco legal de las política públicas en materia social, así como las competencias institucionales para regular, rectorar y coordinar las acciones orientadas a transformar las condiciones humanas, socioculturales y materiales, con énfasis en la población en condiciones de pobreza y grupos vulnerables, de acuerdo a los principios de esta ley” y lineamientos generales a los cuales deben sujetarse las autoridades de las instituciones del Estado.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 065-2015, publicado en el Diario Oficial “La Gaceta” en fecha 14 de septiembre de 2015 Edición No. 33,834, incorpora en la Plataforma Vida Mejor, programas de protección social financiados mediante recursos provenientes del Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-065-2015, publicado en el Diario Oficial “La Gaceta” en fecha 14 de septiembre de 2015 Edición No. 33,834, incorpora en la Plataforma Vida Mejor, programas de protección social financiados mediante recursos provenientes del Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza.
 
 CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado aprobó el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” de fecha 2 de noviembre del 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del país a nivel nacional.
 
@@ -59,9 +59,7 @@ POR TANTO;
 
 En aplicación de los Artículos 59, 245 numerales 2, 11, 19, 20 y 45, 248, 252, 321 y 323 de la Constitución de la República;
 
-Artículos 7,11,17,18,20,22 numerales 5), 9) y 12), 28 y 29 de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No.
-
-33-2020; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medida Antievasión y su Reglamento; Decreto Ejecutivo Número PCM-065-2015, Decretos Ejecutivos Números PCM-109- 2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
+Artículos 7,11,17,18,20,22 numerales 5), 9) y 12), 28 y 29 de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 33-2020; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medida Antievasión y su Reglamento; Decreto Ejecutivo Número PCM-065-2015, Decretos Ejecutivos Números PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 DECRETA:
 

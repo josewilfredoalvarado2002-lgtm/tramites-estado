@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1514-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260210-37066/download"
 extraido: "2026-11-09"
-huella: "dd2870a81ef0924e"
+huella: "4922963a801eb3e2"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Resolución No. 1514-2025
@@ -29,7 +29,7 @@ huella: "dd2870a81ef0924e"
 
 Secretaría de Estado El suscrito, encargado de la Unidad de Atención al Ciudadano de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA:
 
-La Resolución que literalmente dice: “RESOLUCIÓN No.1514-2025 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, cinco de noviembre del año dos mil veinticinco.
+La Resolución que literalmente dice: “RESOLUCIÓN No. 1514-2025 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, cinco de noviembre del año dos mil veinticinco.
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintitrés de octubre del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-23102025-517 por la Abogada YESSICA ARACELY ROMERO AGUILAR, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO FUENTE DE VIDA NUEVA CONCEPCIÓN, DEL MUNICIPIO EL TRIUNFO, DEPARTAMENTO DE CHOLUTECA”, la cual se encuentra domiciliada en el caserío de Nueva Concepción, del Municipio de El Triunfo, Departamento de Choluteca; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
@@ -45,7 +45,7 @@ El Secretario de Estado en los Despachos de Gobernación Justicia y Descentraliz
 
 RESUELVE:
 
-PRIMERO: Conceder Personalidad Jurídica a la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO FUENTE DE VIDA NUEVA CONCEPCIÓN”, con domicilio legal en el caserío de Nueva Concepción , del Municipio de El Triunfo, Departamento de Choluteca; asimismo, se aprueban sus estatutos en la forma siguiente:
+PRIMERO: Conceder Personalidad Jurídica a la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO FUENTE DE VIDA NUEVA CONCEPCIÓN”, con domicilio legal en el caserío de Nueva Concepción, del Municipio de El Triunfo, Departamento de Choluteca; asimismo, se aprueban sus estatutos en la forma siguiente:
 
 PROYECTO DE ESTATUTOS DE LA “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO FUENTE DE VIDA NUEVA CONCEPCIÓN”
 

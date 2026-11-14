@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Ejecutivos Nos. 94-2024, 95-2024, 99-2024, 107-2024, 110-2024, 114-2024, 119-2024, Acuerdo No. 235-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240529-36546/download"
 extraido: "2026-11-14"
-huella: "a59e4c9c19eabdd3"
+huella: "40cda439f6377443"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 235-2024
@@ -35,13 +35,11 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencias del Reglamento Organización Ejecutivo establece que los Subsecretarios de Estado por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos y sustituirlo en caso de ausencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-45-2024 de fecha 12 de febrero del año dos mil veinticuatro (2024), se nombró a la ciudadana Heidy Walezka Barahona Alachán, en el cargo de Subsecretaria de Justicia de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 45-2024 de fecha 12 de febrero del año dos mil veinticuatro (2024), se nombró a la ciudadana Heidy Walezka Barahona Alachán, en el cargo de Subsecretaria de Justicia de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 POR TANTO:
 
-En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM- 008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

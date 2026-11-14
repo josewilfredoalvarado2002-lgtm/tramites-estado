@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decreto No. 43-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220813-36001/download"
 extraido: "2026-11-14"
-huella: "e9084cb2b74a96c9"
+huella: "e952b6ee81c76443"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2022
@@ -643,7 +643,7 @@ Además de lo establecido en el Artículo 41 precedente, para ser Vicepresidente
 
 (1) cargo de órgano de gobierno y contar con un mínimo de cinco (5) años de experiencia acumulados en el ejercicio de la Profesión de la Ingeniería Ambiental.
 
-A R T Í C U L O 4 5 . - AT R I B U C I O N E S D E L
+ARTÍCULO 4 5 . - AT R I B U C I O N E S D E L
 
 VICEPRESIDENTE DE LA JUNTA DIRECTIVA. Son atribuciones del Vicepresidente:
 

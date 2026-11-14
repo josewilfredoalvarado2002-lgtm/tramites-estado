@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Decretos Nos. 23-2024, 29-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240418-36512/download"
 extraido: "2026-11-14"
-huella: "719a663c0e082b86"
+huella: "6fe63af24f419e86"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 29-2024
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 59 establece que “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla. La dignidad del ser humano es inviolable” asimismo indica en el Artículo 61, que “La Constitución garantiza a los hondureños la seguridad individual, la libertad y la igualdad”.
 
-CONSIDERANDO: Que la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW) en su Artículo 2 inciso e), establece el compromiso de los Estados Parte de “adoptar todas las medidas adecuadas para eliminar la discriminación contra la mujer practicada por cualesquiera persona, organizaciones o empresas”. Para ésto se creó el Decreto No.132-97, del 11 de Septiembre de 1997, publicada en el Diario Oficial “La Gaceta”, bajo Edición número 28,414, de fecha 15 de Noviembre de 1997, que contiene la Ley Contra la Violencia Doméstica, la cual busca “proteger la integridad física, psicológica, económicapatrimonial y sexual de la mujer contra cualquier forma de violencia”.
+CONSIDERANDO: Que la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer (CEDAW) en su Artículo 2 inciso e), establece el compromiso de los Estados Parte de “adoptar todas las medidas adecuadas para eliminar la discriminación contra la mujer practicada por cualesquiera persona, organizaciones o empresas”. Para ésto se creó el Decreto No. 132-97, del 11 de Septiembre de 1997, publicada en el Diario Oficial “La Gaceta”, bajo Edición número 28,414, de fecha 15 de Noviembre de 1997, que contiene la Ley Contra la Violencia Doméstica, la cual busca “proteger la integridad física, psicológica, económicapatrimonial y sexual de la mujer contra cualquier forma de violencia”.
 
 CONSIDERANDO: Que el Artículo 26 de la Convención Americana de Derechos Humanos, determina que “Desarrollo Progresivo Los Estados Partes se comprometen a adoptar providencias, tanto a nivel interno como mediante la cooperación internacional, especialmente económica y técnica, para lograr progresivamente la plena efectividad de los derechos que se derivan de las normas económicas, sociales y sobre educación, ciencia y cultura…”
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Decreto No.132-97 del 11 de Septiembre de 1997, publicado en el Diario Oficial “La Gaceta”, bajo Edición número 28,414, de fecha 15 de Noviembre de 1997, contentivo de la LEY CONTRA LA VIOLENCIA DOMESTICA, adicionando los artículos 4-A y 4-B, los que a partir de este Decreto se deben leer de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición el Decreto No. 132-97 del 11 de Septiembre de 1997, publicado en el Diario Oficial “La Gaceta”, bajo Edición número 28,414, de fecha 15 de Noviembre de 1997, contentivo de la LEY CONTRA LA VIOLENCIA DOMESTICA, adicionando los artículos 4-A y 4-B, los que a partir de este Decreto se deben leer de la manera siguiente:
 
 “ARTÍCULO 4-A.- Las Postas Policiales de cada colonia, barrio o comunidad de todo el territorio hondureño, deben recibir sin dilación alguna las denuncias de Violencia Doméstica o de otro tipo de violencias contra la mujer establecidas en la legislación nacional vigente, que sean interpuestas ante sus oficios y trasladarlas ante la autoridad judicial que corresponda el seguimiento y resolución. Para esto deben implementar los elementos siguientes:
 

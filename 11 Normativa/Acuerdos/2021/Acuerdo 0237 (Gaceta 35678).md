@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ejecutivo No. 0237"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210805-35678/download"
 extraido: "2026-11-14"
-huella: "e52a76b246fbf9f8"
+huella: "9de2263a8245f55a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 0237
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el artículo 106 párrafo p
 
 CONSIDERANDO: Que conforme a las actuaciones del Expediente Administrativo No. 053-2004, en fecha 13 de agosto del 2004, se presentó ante la Secretaría de Estado en los Despacho de Obras Públicas, Transporte y Vivienda (SOPTRAVI) ahora Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) con la suma: “SE SOLICITA INDEMNIZACION DE INDEMNIZACION DE DAÑOS Y PERJUICIOS DE UN LOTE DE TERRENO AFECTADO POR LA CONSTRUCCION DEL PROYECTO BOULEVARD JOSE CECILIO DEL VALLE DE TEGUCIGALPA, en favor de la Sociedad “ALCOHOLES CENTROAMERICA. S.A. DE C.V., (ALDECA), ahora conocida como ANTIPLANO INDUSTRIAL, S.A. DE C.V., representada en la actualidad por el Abogado MIGUEL ANTONIO CASTILLO GAMERO, con respecto a un terreno, de su propiedad ubicado en la Margen derecha del Río Grande o Choluteca, en el punto denominado “LA COMUNIDAD”, jurisdicción de Comayagüela, D.C., con un área superficial de NUEVE MIL DOSCIENTAS CUARENTA Y NUEVE VARAS CUADRADAS (9,249 VRS2), inscrito originalmente bajo el Asiento Número 199 Folio 357 al 359 del Tomo 195 del Registro de la Propiedad, Hipotecas y Anotaciones Preventivas de este Departamento, reinscrito bajo el Asiento No. 52 del Tomo 161 del precitado Registro, trasladado a nuevo sistema automatizado de Registro bajo Matrícula 0000089354.
 
-CONSIDERANDO: Que conforme a Planos e Informe Técnico de fecha 20 de julio de 2020 elaborados por el Departamento de Obras Urbanísticas dependiente de la Dirección General de Obras Públicas de INSEP, que obra a folios del 46 al 48 del Expediente Administrativo No. 053- 2004 se determina la afectación del inmueble de propiedad de la Empresa Altiplano Industrial, S. A. de C. V. en un Área superficial de TRES MIL SEISCIENTOS TREINTA Y CINCO METROS CUADRADOS, CON DIECISIETE CENTESIMAS DE METROS CUADRADOS (3,635.17 M2) equivalentes a CINCO MIL DOCIENTAS TRECE PUNTO SETENTA Y OCHO VARAS CUADRADAS (5,213.78 V2).
+CONSIDERANDO: Que conforme a Planos e Informe Técnico de fecha 20 de julio de 2020 elaborados por el Departamento de Obras Urbanísticas dependiente de la Dirección General de Obras Públicas de INSEP, que obra a folios del 46 al 48 del Expediente Administrativo No. 053-2004 se determina la afectación del inmueble de propiedad de la Empresa Altiplano Industrial, S. A. de C. V. en un Área superficial de TRES MIL SEISCIENTOS TREINTA Y CINCO METROS CUADRADOS, CON DIECISIETE CENTESIMAS DE METROS CUADRADOS (3,635.17 M2) equivalentes a CINCO MIL DOCIENTAS TRECE PUNTO SETENTA Y OCHO VARAS CUADRADAS (5,213.78 V2).
 
 CONSIDERANDO: Que consta a folios del 253 al 254 del Expediente Administrativo No. 53-2004 el INFORME No. CIBE-003-2020 de la COMISION INTERINSTITUCIONAL DE BIENES DEL ESTADO de fecha 03 de febrero 2020 en que refiere: Validar el avalúo emitido por el Ingeniero Civil CARLOS ALFONSO MARTÍNEZ VARELA, del bien inmueble expropiado por el Estado de Honduras y ubicado en la margen derecha del río Grande o Choluteca en el punto denominado La Comunidad de Comayagüela, M.D.C.; área afectada para la ampliación de el boulevard José Cecilio del Valle que perteneció a la sociedad Altiplanos Industrial, S.A. DE C.V., con un área de 3,635.17 Mts2. Equivalentes a 5,213.78 Vrs2 con un valor total del terreno de TRECE MILLONES TREINTA Y CUATRO MIL CUATROCIENTOS CINCUENTA LEMPIRAS EXACTOS (L.13,034.450.00), cuyo cálculo es el resultado de multiplicar 5,213.78 Vrs2 por Dos Mil Quinientos Lempiras por Vara Cuadrada (Lps. 2,500 X V2).
 
@@ -67,7 +67,7 @@ Dado en Casa Presidencial, en la ciudad de Tegucigalpa, municipio del Distrito C
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No.043-2020 del 01 de Octubre de 2020 Publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP)
+CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No. 043-2020 del 01 de Octubre de 2020 Publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP)
 
 ## Fuente
 

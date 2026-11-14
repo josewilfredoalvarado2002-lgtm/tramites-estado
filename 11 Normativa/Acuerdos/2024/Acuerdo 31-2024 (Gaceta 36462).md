@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdo Ejecutivo Nos. 20-2024, 29-2024, 31-2024, 34-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240216-36462/download"
 extraido: "2026-11-14"
-huella: "93fc29468f653f96"
+huella: "15d11ed40b929892"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 31-2024
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 41-2023, publicado en el Diario Oficial La Gaceta en fecha 13 de octubre, 2023 (Edición No. 36,357).
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41-2023, publicado en el Diario Oficial La Gaceta en fecha 13 de octubre, 2023 (Edición No. 36,357).
 
 ACUERDA
 

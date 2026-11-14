@@ -11,7 +11,7 @@ paginas: "A. 53 - 56"
 sumario: "Decretos Nos. 75-2026, 76-2026, 77-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260525-37150/download"
 extraido: "2026-11-09"
-huella: "f928e02cc3c42e3d"
+huella: "786a52d2c86d7c0e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 77-2026
@@ -31,9 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la educación hondureña atraviesa un momento crítico y decisivo, el país se encuentra frente a la oportunidad histórica de transformar su sistema educativo en un motor de desarrollo humano y de progreso nacional, impulsando la mejora de la infraestructura escolar, en construir nuevas escuelas en zonas de alta demanda educativa, rehabilitar y modernizar los centros educativos existentes; garantizar acceso a servicios básicos como agua, saneamiento y conectividad a internet en todas las instituciones del sector educativo.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.
-
-2239, suscrito el 18 de diciembre de 2019, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de OCHENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$80,000,000.00), fondos destinados a financiar el “PROGRAMA DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, se ampara en el Artículo 70 del Decreto No.17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2239, suscrito el 18 de diciembre de 2019, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de OCHENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$80,000,000.00), fondos destinados a financiar el “PROGRAMA DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, se ampara en el Artículo 70 del Decreto No. 17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de abril de 2010.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivo general fortalecer la educación en Honduras a través del mejoramiento de la infraestructura de los centros educativos que mejoren el acceso, permanencia y promoción con calidad de los educandos de los niveles prebásico, básico y medio, así como la formación del docente que permita mejorar la calidad de la educación.
 
@@ -41,17 +39,17 @@ CONSIDERANDO: Que la ejecución del Contrato de la nueva solución del Programa 
 
 CONSIDERANDO: Que el Artículo 249, Numeral 5, contenido en el Decreto No. 4-2025 de fecha 5 de febrero de 2025 y publicado en el Diario Oficial “La Gaceta” en fecha 6 de febrero de 2025, Edición No. 36,759, del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2025, vigente a la fecha, aprobado por el Congreso Nacional, textualmente dice qué: “Las ampliaciones, plazos de cierre de ejecución y período de desembolsos de proyectos, independientemente de la fuente de financiamiento, deben contar con el Dictamen Técnico de la Dirección General de Inversiones Públicas de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”. Para ello es requisito obligatorio presentar lo siguiente: “Contar con el setenta y cinco por ciento (75%) de los recursos comprometidos (fondos reembolsables y no reembolsables) según contrato suscrito del monto total del proyecto (de acuerdo con el monto establecido en la Nota de Prioridad y/o Enmiendas); y, justificaciones correspondientes”.
 
-C O N S I D E R A N D O : Q u e e l “ P R O G R A M A DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, a la fecha tiene una ejecución financiera acumulada de VEINTIOCHO MILLONES CIENTO CINCUENTA Y SIETE MIL QUINIENTOS SETENTA Y CINCO DÓLARES CON CINCUENTA Y CINCO CENTAVOS (USD$28,157,575.55) que representa un porcentaje comprometido del treinta y cinco por ciento (35%) de los fondos del financiamiento con recursos del Banco Centroamericano de Integración Económica (BCIE), por lo tanto el mismo No cumple con los requisitos establecidos en el Artículo 249, numeral 5), del Decreto No. 4-2025, para su ampliación, lo que hace necesario solicitar la excepción a la aplicación del Artículo 249, numeral 5) del Decreto No. 4-2025, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2025, de fecha 5 de febrero del 2025 y publicado en el Diario Oficial “La Gaceta” en fecha 6 de febrero del 2025, Edición No. 36,759, para efectos de proceder con la ampliación de plazo de la vigencia del Contrato y de los desembolsos.
+CONSIDERANDO: Que el “ PROGRAMA DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, a la fecha tiene una ejecución financiera acumulada de VEINTIOCHO MILLONES CIENTO CINCUENTA Y SIETE MIL QUINIENTOS SETENTA Y CINCO DÓLARES CON CINCUENTA Y CINCO CENTAVOS (USD$28,157,575.55) que representa un porcentaje comprometido del treinta y cinco por ciento (35%) de los fondos del financiamiento con recursos del Banco Centroamericano de Integración Económica (BCIE), por lo tanto el mismo No cumple con los requisitos establecidos en el Artículo 249, numeral 5), del Decreto No. 4-2025, para su ampliación, lo que hace necesario solicitar la excepción a la aplicación del Artículo 249, numeral 5) del Decreto No. 4-2025, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2025, de fecha 5 de febrero del 2025 y publicado en el Diario Oficial “La Gaceta” en fecha 6 de febrero del 2025, Edición No. 36,759, para efectos de proceder con la ampliación de plazo de la vigencia del Contrato y de los desembolsos.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar la vigencia del Contrato de Préstamo No. 2239 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del “PROGRAMA DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, aprobado mediante Decreto No.73-2020, de fecha 26 de junio del año 2020 y publicado en Diario Oficial “La Gaceta” el 29 de Junio del año 2020, en la Edición No. 35,298 y con vigencia a partir del 30 de marzo del 2021, con fecha de cierre 30 de marzo del 2028.
+ARTÍCULO 1.- Prorrogar la vigencia del Contrato de Préstamo No. 2239 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su calidad de Prestatario del “PROGRAMA DE MEJORAMIENTO INTEGRAL DE LA INFRAESTRUCTURA Y FORMACIÓN EDUCATIVA EN HONDURAS”, aprobado mediante Decreto No. 73-2020, de fecha 26 de junio del año 2020 y publicado en Diario Oficial “La Gaceta” el 29 de Junio del año 2020, en la Edición No. 35,298 y con vigencia a partir del 30 de marzo del 2021, con fecha de cierre 30 de marzo del 2028.
 
 #### Artículo 2
 

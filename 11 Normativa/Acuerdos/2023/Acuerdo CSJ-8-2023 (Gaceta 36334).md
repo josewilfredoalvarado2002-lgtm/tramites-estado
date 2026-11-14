@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdo No. CSJ-8-2023, CSJ-9-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230914-36334/download"
 extraido: "2026-11-14"
-huella: "6092f5255f413640"
+huella: "47486a646e9b1bdf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-8-2023
@@ -31,33 +31,23 @@ Acuerdo de establecimiento de los Órganos Jurisdiccionales con Competencia Terr
 
 Considerando (2): Que por disposición constitucional le corresponde a la Corte Suprema de Justicia, entre otras, la atribución de “…11) Fijar la división del territorio para efectos jurisdiccionales; 12) Crear, suprimir, fusionar o trasladar los Juzgados, Cortes de Apelaciones y demás dependencias del Poder Judicial…”.
 
-Considerando (3): Que el Decreto Legislativo No.
+Considerando (3): Que el Decreto Legislativo No. 247-2010, de fecha 15 de enero de 2011, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal”, dispone que la Corte Suprema de Justicia creará y fijará la sede de dichos órganos, a fin de que conozcan y juzguen los delitos contenidos en ese decreto, así como las acciones de privación definitiva de dominio de bienes de origen ilícito.
 
-247-2010, de fecha 15 de enero de 2011, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal”, dispone que la Corte Suprema de Justicia creará y fijará la sede de dichos órganos, a fin de que conozcan y juzguen los delitos contenidos en ese decreto, así como las acciones de privación definitiva de dominio de bienes de origen ilícito.
-
-Considerando (4): Que el Decreto Legislativo No.
-
-89-2016, de fecha 10 de agosto de 2016, reformó el Decreto Legislativo No. 247-2010 y se amplió el catálogo de delitos que debía conocer los órganos jurisdiccionales con competencia territorial nacional. Además, mediante Decreto No. 102-2017, se realizó una reforma al referido Decreto No.
-
-247-2010, en el cual también se amplió el catálogo de delitos, incluyendo el delito de Usurpación.
+Considerando (4): Que el Decreto Legislativo No. 89-2016, de fecha 10 de agosto de 2016, reformó el Decreto Legislativo No. 247-2010 y se amplió el catálogo de delitos que debía conocer los órganos jurisdiccionales con competencia territorial nacional. Además, mediante Decreto No. 102-2017, se realizó una reforma al referido Decreto No. 247-2010, en el cual también se amplió el catálogo de delitos, incluyendo el delito de Usurpación.
 
 Considerando (5): Que el Decreto No. 27-2010, de fecha 5 de mayo de 2010, contentivo de la Ley sobre Privación Definitiva del Dominio de Bienes de Origen Ilícito, establece en su artículo 54 que será competente para conocer de la materia de privación de dominio, un juzgado especializado con competencia nacional y que tiene su asiento en la ciudad de Tegucigalpa, municipio del Distrito Central, del departamento de Francisco Morazán.
 
-Considerando (6): Que, con el afán de fortalecer los esfuerzos de la lucha contra la criminalidad organizada y en aras de cumplir con la ley antes mencionada, el pleno de la Corte Suprema de Justicia, mediante Acuerdo de Pleno No. 07- 2011, de fecha 25 de agosto de 2011, creó el Juzgado de Letras Penal con Jurisdicción Nacional y el Tribunal de Sentencia con Jurisdicción Nacional, otorgándoles la competencia nacional para conocer de las etapas del proceso penal de los delitos de Asesinato, todos los relacionados con el Tráfico Ilícito de Drogas, regulados en la Ley de Uso Indebido y Tráfico Ilícito de Drogas y sustancias psicotrópicas, robo de vehículos, lavado de activos, trata de personas, explotación sexual comercial, terrorismo y forestales.
+Considerando (6): Que, con el afán de fortalecer los esfuerzos de la lucha contra la criminalidad organizada y en aras de cumplir con la ley antes mencionada, el pleno de la Corte Suprema de Justicia, mediante Acuerdo de Pleno No. 07-2011, de fecha 25 de agosto de 2011, creó el Juzgado de Letras Penal con Jurisdicción Nacional y el Tribunal de Sentencia con Jurisdicción Nacional, otorgándoles la competencia nacional para conocer de las etapas del proceso penal de los delitos de Asesinato, todos los relacionados con el Tráfico Ilícito de Drogas, regulados en la Ley de Uso Indebido y Tráfico Ilícito de Drogas y sustancias psicotrópicas, robo de vehículos, lavado de activos, trata de personas, explotación sexual comercial, terrorismo y forestales.
 
-Considerando (7): Que en el mismo Acuerdo No.
-
-07-2011 se dispuso que, en tanto se crearan las Cortes de Apelaciones y el Juzgado de Ejecución, ambos con Competencia Territorial Nacional, el conocimiento y resolución de las incidencias que se produjeran con la aplicación de la Ley Especial de Órganos Jurisdiccionales con Competencia Nacional en Materia Penal y demás leyes relacionadas quedaría asignado temporalmente a la Corte de Apelaciones del Departamento de Francisco Morazán y al Juzgado de Ejecución de la Sección Judicial de Tegucigalpa, departamento de Francisco Morazán; órganos que hasta la fecha han asumido tal asignación.
+Considerando (7): Que en el mismo Acuerdo No. 07-2011 se dispuso que, en tanto se crearan las Cortes de Apelaciones y el Juzgado de Ejecución, ambos con Competencia Territorial Nacional, el conocimiento y resolución de las incidencias que se produjeran con la aplicación de la Ley Especial de Órganos Jurisdiccionales con Competencia Nacional en Materia Penal y demás leyes relacionadas quedaría asignado temporalmente a la Corte de Apelaciones del Departamento de Francisco Morazán y al Juzgado de Ejecución de la Sección Judicial de Tegucigalpa, departamento de Francisco Morazán; órganos que hasta la fecha han asumido tal asignación.
 
 Considerando (8): Que mediante Acuerdo de Pleno de fecha 21 de julio de 2010, se creó el Juzgado de Privación de Dominio que dependería jerárquicamente de la Corte de Apelaciones de lo Penal de Francisco Morazán.
 
 Considerando (9): Que el Pleno de la Corte Suprema de Justicia, mediante Acuerdo de Pleno No. 01-2016, de fecha 3 de mayo de 2016, creó el Juzgado de Letras, el Tribunal de Sentencia y la Corte de Apelaciones con Competencia Nacional en Materia de Corrupción, a los cuales se les asignó conocer del proceso penal en delitos contra la propiedad (artículos 218-E), delitos contra la economía (artículos 295, 296, 297, 299 numeral 4), delitos contra la Administración Pública (artículos 349, 350, 350-A, 352, 361, 362, 363, 364, 365, 366-A, 368, 369, 369-A, 369-B, 369-C, 369-D, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 381, 382, 383, 384), delitos financieros (artículos 394 incisos H y K), delitos en la Administración de Fondos Públicos, Privados de jubilaciones y pensiones y sus penas (Artículo 394 incisos P y Q), delitos forestales (Decreto 98-2007 de fecha 19 de septiembre de 2007, artículos 182 y 190). Todos los delitos antes referidos contenidos en el Decreto No. 144-83 contentivo del Código Penal que estaba vigente a la fecha de emisión del Acuerdo de Pleno No. 01-2016.
 
-Considerando (10): Que mediante Acuerdo No. 02- 2016, de fecha tres de mayo de 2016, la Corte Suprema de Justicia creó el Juzgado de Letras, Tribunal de Sentencia y Corte de Apelaciones con Competencia Nacional en materia de Extorsión, a los cuales se les asignó conocer del delito de Extorsión, contemplado en el artículo 222 del Código Penal, contenido en el Decreto No. 144-83, y sus delitos conexos conforme a las reglas de conexión del Código Procesal Penal.
+Considerando (10): Que mediante Acuerdo No. 02-2016, de fecha tres de mayo de 2016, la Corte Suprema de Justicia creó el Juzgado de Letras, Tribunal de Sentencia y Corte de Apelaciones con Competencia Nacional en materia de Extorsión, a los cuales se les asignó conocer del delito de Extorsión, contemplado en el artículo 222 del Código Penal, contenido en el Decreto No. 144-83, y sus delitos conexos conforme a las reglas de conexión del Código Procesal Penal.
 
-Considerando (11): Que en los Acuerdos de Pleno No.
-
-01-2016 y No. 02-2017, la competencia de los Juzgados de Letras que conocerían la materia de corrupción y extorsión quedó dividida en tres zonas territoriales, estableciendo las sedes de dichos juzgados en Tegucigalpa, San Pedro Sula y La Ceiba, situación que ha provocado problemas prácticos en la realización de las diligencias y audiencias propias de la etapa preparatoria e intermedia del proceso penal.
+Considerando (11): Que en los Acuerdos de Pleno No. 01-2016 y No. 02-2017, la competencia de los Juzgados de Letras que conocerían la materia de corrupción y extorsión quedó dividida en tres zonas territoriales, estableciendo las sedes de dichos juzgados en Tegucigalpa, San Pedro Sula y La Ceiba, situación que ha provocado problemas prácticos en la realización de las diligencias y audiencias propias de la etapa preparatoria e intermedia del proceso penal.
 
 Considerando (12): Que el Consejo de la Judicatura creó el Juzgado de Letras Penal con Jurisdicción Nacional de Delitos Tributarios, pero no se estableció la competencia del Tribunal de Sentencia ni de la Corte de Apelaciones que conocerían de esos asuntos, lo cual ha originado un problema de competencias entre los diversos Tribunales de Sentencia y Cortes de Apelaciones del país.
 
@@ -67,7 +57,7 @@ Considerando (14): Que la división de competencias por especialidad del delito 
 
 Considerando (15): Que actualmente la carga laboral del Juzgado de Ejecución de Tegucigalpa y la Corte de Apelaciones de lo Penal de Francisco Morazán, es bastante alta y se ven sobrecargados por el conocimiento temporal que se les asignó de conocer las causas procedentes de los Juzgados de Letras y Tribunales de Sentencia con Competencia Nacional.
 
-Considerando (16): Que el Decreto Legislativo No 247- 2010, no establece la obligación de dividir la competencia en función de delitos determinados, sino que esta fue una decisión administrativa del pleno de la Corte Suprema de Justicia, pero en este momento es imperativo fortalecer la lucha contra la criminalidad organizada, corrupción y extorsión, a través de la distribución correcta del personal y recursos materiales, suprimiendo conflictos de competencia que no son necesarios.
+Considerando (16): Que el Decreto Legislativo No 247-2010, no establece la obligación de dividir la competencia en función de delitos determinados, sino que esta fue una decisión administrativa del pleno de la Corte Suprema de Justicia, pero en este momento es imperativo fortalecer la lucha contra la criminalidad organizada, corrupción y extorsión, a través de la distribución correcta del personal y recursos materiales, suprimiendo conflictos de competencia que no son necesarios.
 
 Considerando (17): Que la competencia de los órganos jurisdiccionales del circuito de delitos de delincuencia organizada, del circuito de delitos de corrupción y extorsión, fueron definidas por la Corte Suprema de Justicia, a partir de la Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal, la cual fija un catálogo de delitos que se encontraban establecidos en el Código Penal contenido bajo el Decreto No 144-83, que hoy se encuentra derogado, por lo que ha sido necesario realizar una compatibilidad axiológica para determinar las figuras penales equivalentes contenidas en el Decreto No 130-2017, actual Código Penal, que también deroga algunas figuras delictivas contempladas en los mencionados Decretos No 247-2010 y No 89-2016.
 
@@ -75,7 +65,7 @@ Considerando (18): Que es imperativo para el Estado de Honduras fortalecer el si
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos: 313 numeral 1 de la Constitución de la República, reformado mediante Decreto Legislativo No 282-2010, ratificado mediante Decreto Legislativo No 5-2011; y 3 transitorio de los Decretos mencionados:
 
-A c u e r d a Primero: Crear y organizar un Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, que integre los órganos jurisdiccionales con competencia nacional que conocen de todos los delitos y procesos señalados en el Decreto No 247-2010, de fecha 15 de enero de 2011, el Decreto No 89-2016 y el Decreto No 102-2017, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal” y sus reformas.
+Acuerda Primero: Crear y organizar un Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, que integre los órganos jurisdiccionales con competencia nacional que conocen de todos los delitos y procesos señalados en el Decreto No 247-2010, de fecha 15 de enero de 2011, el Decreto No 89-2016 y el Decreto No 102-2017, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal” y sus reformas.
 
 Segundo: La competencia de estos órganos jurisdiccionales será la siguiente:
 

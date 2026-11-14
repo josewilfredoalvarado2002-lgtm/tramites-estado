@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decretos Nos. 2-2022, 3-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220211-35846/download"
 extraido: "2026-11-14"
-huella: "1d98ad2c8153adbf"
+huella: "c85a55621cb8a325"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 3-2022
@@ -45,7 +45,7 @@ DECRETA
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 4 del Decreto No.278-2013 contentivo de la LEY DE DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES EDIS ANTONIO MONCADA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
+ARTÍCULO 1.- Reformar el Artículo 4 del Decreto No. 278-2013 contentivo de la LEY DE DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES EDIS ANTONIO MONCADA Gerente General JORGE ALBERTO RICO SALINAS Coordinador y Supervisor EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
 
 Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL ORDENAMIENTO DE LAS FINANZAS PÚBLICAS, CONTROL DE LAS EXONERACIONES Y MEDIDAS ANTIEVASIÓN, aprobado el 26 de Diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 30 de Diciembre del 2013, el que estableció los siguientes niveles del tributo denominado APORTE PARA LA ATENCION A PROGRAMAS SOCIALES Y CONSERVACION DEL PATRIMONIO VIAL:
 

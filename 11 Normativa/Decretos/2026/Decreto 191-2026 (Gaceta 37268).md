@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto. No. 191-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261013-37268/download"
 extraido: "2026-11-09"
-huella: "6e07c335abc8a2ea"
+huella: "301c8a260d7d99f4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 191-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras reconoce a la pe
 
 CONSIDERANDO: Que la Educación constituye una función esencial del Estado y debe contribuir al desarrollo integral de la persona, a la formación ciudadana y a la adquisición de conocimientos y destrezas útiles para la vida.
 
-CONSIDERANDO: Que la Ley Fundamental de Educación, contenida en el Decreto No.262-2011, concibe la educación como un proceso permanente orientado al desarrollo humano y a la preparación de los educandos para afrontar responsablemente las necesidades de su entorno.
+CONSIDERANDO: Que la Ley Fundamental de Educación, contenida en el Decreto No. 262-2011, concibe la educación como un proceso permanente orientado al desarrollo humano y a la preparación de los educandos para afrontar responsablemente las necesidades de su entorno.
 
 CONSIDERANDO: Que las Emergencias Médicas Súbitas pueden presentarse en centros educativos, hogares, espacios públicos y comunidades, por lo que la capacitación básica en reanimación cardiopulmonar, primeros auxilios y desobstrucción de la vía aérea fortalece la capacidad de respuesta inmediata mientras se recibe atención profesional.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 

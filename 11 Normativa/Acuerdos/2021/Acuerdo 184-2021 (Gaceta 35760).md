@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdos números 184-2021, 185-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211101-35760/download"
 extraido: "2026-11-14"
-huella: "5e68b1c9e1110ef8"
+huella: "ee41a2eac1630c52"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 184-2021
@@ -53,7 +53,7 @@ CONSIDERANDO: Que es necesario establecer las disposiciones para la administraci
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República, 29, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas, 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y Decreto Ejecutivo Número PCM-120- 2020 de fecha 1 de diciembre de 2020.
+La Secretaría de Estado en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República, 29, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas, 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y Decreto Ejecutivo Número PCM-120-2020 de fecha 1 de diciembre de 2020.
 
 ACUERDA:
 

@@ -8,7 +8,7 @@ gaceta_numero: 35956
 gaceta_fecha: "2022-06-22"
 gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 35956 (2022-06-22)|La Gaceta 35956]]"
 paginas: "A. 6"
-sumario: "Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICFAcuerdo No. 018-2022"
+sumario: "Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022; INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICF: Acuerdo No. 018-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220622-35956/download"
 extraido: "2026-11-14"
 huella: "cb4f1b429ff5c4b3"
@@ -23,7 +23,7 @@ huella: "cb4f1b429ff5c4b3"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 35956 (2022-06-22)\|La Gaceta 35956]] del 2022-06-22 |
 | Páginas | A. 6 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICFAcuerdo No. 018-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022; INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICF: Acuerdo No. 018-2022 |
 
 ## Texto
 

@@ -11,7 +11,7 @@ paginas: "A. 22 - 26"
 sumario: "Decreto No. 165-2026, 169-2026, 170-2026, 171-2026, 172-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260921-37251/download"
 extraido: "2026-11-09"
-huella: "d3b9a4abc59cf917"
+huella: "ae209a3c67eab34d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 171-2026
@@ -31,11 +31,11 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con los artículos 151 y 153 de la Constitución de la República de Honduras, la Educación es función esencial del Estado, recayendo sobre este la obligación prioritaria de sostenerla, fomentarla y dotarla de la infraestructura física, los recursos materiales y el equipamiento pedagógico necesario para su adecuado y óptimo funcionamiento.
 
-CONSIDERANDO: Que la Ley Fundamental de Educación, contenida en el Decreto Legislativo No.262-2011, establece como principio rector la calidad educativa y el derecho del educando a formarse en un ambiente dotado de condiciones dignas y pertinentes, promoviendo al mismo tiempo la descentralización y la participación activa de los gobiernos locales en la gestión de soluciones para sus comunidades escolares.
+CONSIDERANDO: Que la Ley Fundamental de Educación, contenida en el Decreto Legislativo No. 262-2011, establece como principio rector la calidad educativa y el derecho del educando a formarse en un ambiente dotado de condiciones dignas y pertinentes, promoviendo al mismo tiempo la descentralización y la participación activa de los gobiernos locales en la gestión de soluciones para sus comunidades escolares.
 
 CONSIDERANDO: Que el Artículo 13, numeral 1), y el
 
-Artículo 14 de la Ley de Municipalidades (Decreto No.134-90) encomiendan a las municipalidades la atribución de fomentar el desarrollo local y de coordinar con el gobierno central la prestación y el mejoramiento progresivo de servicios en materia educativa y de infraestructura social.
+Artículo 14 de la Ley de Municipalidades (Decreto No. 134-90) encomiendan a las municipalidades la atribución de fomentar el desarrollo local y de coordinar con el gobierno central la prestación y el mejoramiento progresivo de servicios en materia educativa y de infraestructura social.
 
 CONSIDERANDO: Que los centros de educación básica y media del Municipio de Dulce Nombre de Culmí, Departamento de Olancho, enfrentan un déficit de mobiliario escolar originado por el incremento poblacional de la matrícula y la falta de reposición de inventario, situación de precariedad material que vulnera la dignidad de los estudiantes y obstaculiza el proceso de enseñanza-aprendizaje.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que las finanzas ordinarias de la Alcaldía Municipal de Dulce Nom
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

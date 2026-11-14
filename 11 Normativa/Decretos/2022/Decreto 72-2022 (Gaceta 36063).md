@@ -8,10 +8,10 @@ gaceta_numero: 36063
 gaceta_fecha: "2022-10-29"
 gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 36063 (2022-10-29)|La Gaceta 36063]]"
 paginas: "A. 1 - 936"
-sumario: "Decreto No. 72-2022Contratos Nos. CI-04-IDA 6460-HN-AMDC-2021, 05-2021, 06-2021, 07-2021, 08-2021, 09-2021, 10-2021, CF-001-IDA 6460-HN/AMDC/2020, CF-001-IDA6460-HN/MDC/2021AB-001-2021-1DA 6460-HN/MDC/2020CF-002-IDA 6460-HN AMDC 20210007/GLA/AMDC/20200847/GLA/AMDC/20200849/GLA/AMDC/20200848/GLA/AMDC/20200850/GLA/AMDC/20201324/GLA/AMDC/20200738/GLA/AMDC/ECA/2021AMDC-UEP-BID-OFID-CC-02-20AMDC-UEP-BID-OFID-CO-03-20"
+sumario: "Decreto No. 72-2022Contratos Nos. CI-04-IDA 6460-HN-AMDC-2021, 05-2021, 06-2021, 07-2021, 08-2021, 09-2021, 10-2021, CF-001-IDA 6460-HN/AMDC/2020, CF-001-IDA6460-HN/MDC/2021AB-001-2021-1DA 6460-HN/MDC/2020CF-002-IDA 6460-HN AMDC 20210007/GLA/AMDC/20200847/GLA/AMDC/20200849/GLA/AMDC/20200848/GLA/AMDC/20200850/GLA/AMDC/20201324/GLA/AMDC/20200738/GLA/AMDC/ECA/2021; AMDC-UEP-BID-OFID-CC-02-20; AMDC-UEP-BID-OFID-CO-03-20"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221029-36063/download"
 extraido: "2026-11-14"
-huella: "765ccf9cf4a2bb69"
+huella: "be60ed863d4c0306"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 72-2022
@@ -23,7 +23,7 @@ huella: "765ccf9cf4a2bb69"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 36063 (2022-10-29)\|La Gaceta 36063]] del 2022-10-29 |
 | Páginas | A. 1 - 936 |
-| Según el sumario de La Gaceta | Decreto No. 72-2022Contratos Nos. CI-04-IDA 6460-HN-AMDC-2021, 05-2021, 06-2021, 07-2021, 08-2021, 09-2021, 10-2021, CF-001-IDA 6460-HN/AMDC/2020, CF-001-IDA6460-HN/MDC/2021AB-001-2021-1DA 6460-HN/MDC/2020CF-002-IDA 6460-HN AMDC 20210007/GLA/AMDC/20200847/GLA/AMDC/20200849/GLA/AMDC/20200848/GLA/AMDC/20200850/GLA/AMDC/20201324/GLA/AMDC/20200738/GLA/AMDC/ECA/2021AMDC-UEP-BID-OFID-CC-02-20AMDC-UEP-BID-OFID-CO-03-20 |
+| Según el sumario de La Gaceta | Decreto No. 72-2022Contratos Nos. CI-04-IDA 6460-HN-AMDC-2021, 05-2021, 06-2021, 07-2021, 08-2021, 09-2021, 10-2021, CF-001-IDA 6460-HN/AMDC/2020, CF-001-IDA6460-HN/MDC/2021AB-001-2021-1DA 6460-HN/MDC/2020CF-002-IDA 6460-HN AMDC 20210007/GLA/AMDC/20200847/GLA/AMDC/20200849/GLA/AMDC/20200848/GLA/AMDC/20200850/GLA/AMDC/20201324/GLA/AMDC/20200738/GLA/AMDC/ECA/2021; AMDC-UEP-BID-OFID-CC-02-20; AMDC-UEP-BID-OFID-CO-03-20 |
 
 ## Texto
 
@@ -45,9 +45,9 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO No. CI-04-IDA6460-HNAMDC-2021. Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-CR. 6460-HN), "ESPECIALISTA AMBIENTAL" (Referencia: HN-AMDC- 139407-CS-INDV), CONCURSO PÚBLICO No.CPuNO-09-AMDC-120-2019, celebrado el 28 de Junio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y la señora MARCIA GABRIELA RAUSCHER VARELA, el que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO No. CI-04-IDA6460-HNAMDC-2021. Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-CR. 6460-HN), "ESPECIALISTA AMBIENTAL" (Referencia: HN-AMDC-139407-CS-INDV), CONCURSO PÚBLICO No.CPuNO-09-AMDC-120-2019, celebrado el 28 de Junio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y la señora MARCIA GABRIELA RAUSCHER VARELA, el que literalmente dice:
 
-CONTRATO No. CI-04-IDA6460-HN-AMDC-2021 Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA AMBIENTAL” (Referencia: HNAMDC-139407-CS-INDV) CONCURSO PUBLICO No. CPuNO-09- AMDC-120-2019 ESTE CONTRATO se celebra este Veintiocho (28) de junio de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958- 03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acreditó con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE, con domicilio social en el Municipio del Distrito Central y MARCIA GABRIELA RAUSCHER VARELA, hondureña y de este domicilio, Tarjeta de Identidad número 0801-1976-08967, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C.,F.M. CONSIDERANDO: Que el Contratante tiene interés en que el Consultor preste los servicios que se señalan a continuación y CONSIDERANDO: Que el Consultor está dispuesto a prestar dichos servicios, POR LO TANTO, LAS PARTES convienen en lo siguiente:
+CONTRATO No. CI-04-IDA6460-HN-AMDC-2021 Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA AMBIENTAL” (Referencia: HNAMDC-139407-CS-INDV) CONCURSO PUBLICO No. CPuNO-09- AMDC-120-2019 ESTE CONTRATO se celebra este Veintiocho (28) de junio de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acreditó con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE, con domicilio social en el Municipio del Distrito Central y MARCIA GABRIELA RAUSCHER VARELA, hondureña y de este domicilio, Tarjeta de Identidad número 0801-1976-08967, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C.,F.M. CONSIDERANDO: Que el Contratante tiene interés en que el Consultor preste los servicios que se señalan a continuación y CONSIDERANDO: Que el Consultor está dispuesto a prestar dichos servicios, POR LO TANTO, LAS PARTES convienen en lo siguiente:
 
 El Consultor prestará los servicios como "Especialista de referencia y alcance de los Servicios", que forma parte integral de este Contrato.
 
@@ -287,11 +287,11 @@ Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-
 
 “ESPECIALISTA SOCIAL” (Referencia:
 
-H N - A M D C - 1 3 9 4 2 6 - C S - I N D V )
+H N - AMDC - 1 3 9 4 2 6 - C S - I N D V )
 
 CONCURSO PÚBLICO No. CPuNo. 08- AMDC-15-2020, celebrado el 28 de Junio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor JOSÉ ANTONIO JUNIOR TERUEL DÍAZ, el que literalmente dice:
 
-CONTRATO No. CI-05-IDA6460-HN-AMDC-2021 Proyecto para fortalecer la prestación de agua potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA SOCIAL” (Referencia: HN-AMDC- 139426-CS-INDV) CONCURSO PÚBLICO No. CPuNo 08-AMDC-15-2020 ESTE CONTRATO se celebra este veintiocho (28) de junio de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE”, con domicilio social en el Municipio del Distrito Central y JOSÉ ANTONIO JUNIOR TERUEL DÍAZ, hondureño y de este domicilio, Tarjeta de Identidad número 0801-1978-02180, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C., F.M.
+CONTRATO No. CI-05-IDA6460-HN-AMDC-2021 Proyecto para fortalecer la prestación de agua potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA SOCIAL” (Referencia: HN-AMDC-139426-CS-INDV) CONCURSO PÚBLICO No. CPuNo 08-AMDC-15-2020 ESTE CONTRATO se celebra este veintiocho (28) de junio de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE”, con domicilio social en el Municipio del Distrito Central y JOSÉ ANTONIO JUNIOR TERUEL DÍAZ, hondureño y de este domicilio, Tarjeta de Identidad número 0801-1978-02180, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C., F.M.
 
 CONSIDERANDO QUE el Contratante tiene interés en que el Consultor preste los servicios que se señalan a continuación y CONSIDERANDO QUE el Consultor está dispuesto a prestar dichos servicios, POR LO TANTO, LAS PARTES convienen en lo siguiente:
 
@@ -1013,9 +1013,7 @@ g. Exigirá que, cuando un Prestatario seleccione a un organismo de la Organizac
 
 #### Artículo 5
 
-ARTÍCULO 5.- Aprobar en todas y cada una de sus partes el "CONTRATO No.
-
-CI-08-IDA6460-HN-
+ARTÍCULO 5.- Aprobar en todas y cada una de sus partes el "CONTRATO No. CI-08-IDA6460-HN-
 
 AMDC-2021. Proyecto para Fortalecer la Prestación de Agua Potable de Tegucigalpa (P170469-CR. 6460-HN). “ESPECIALISTA EN ADQUISICIONES (Referencia: HNAMDC-228309-CS-INDV), celebrado el 3 de septiembre de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y la señora MILENA DEL CARMEN CASTRO NÚNEZ, el que literalmente dice:
 
@@ -1591,7 +1589,7 @@ ARTÍCULO 7.- Aprobar en todas y cada una de sus partes el “CONTRATO No. CI-10
 
 AGÜERO, el que literalmente dice:
 
-CONTRATO No. CI-10-IDA6460-HN-AMDC-2021 Proyecto para fortalecer la prestación de agua potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA EN MONITOREO Y EVALUACIÓN” (Referencia: HN-AMDC-194814-CS-INDV) ESTE CONTRATO se celebra este 17 de noviembre de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE, con domicilio social en el Municipio del Distrito Central y JUAN A. AGÜERO, hondureño y de éste domicilio, tarjeta de identidad número: 0801-1980- 03910 quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C., F.M. CONSIDERANDO QUE el Contratante tiene interés en que el Consultor preste los servicios que se señalan a continuación, y
+CONTRATO No. CI-10-IDA6460-HN-AMDC-2021 Proyecto para fortalecer la prestación de agua potable de Tegucigalpa (P170469-CR. 6460-HN) “ESPECIALISTA EN MONITOREO Y EVALUACIÓN” (Referencia: HN-AMDC-194814-CS-INDV) ESTE CONTRATO se celebra este 17 de noviembre de 2021, entre NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE, con domicilio social en el Municipio del Distrito Central y JUAN A. AGÜERO, hondureño y de éste domicilio, tarjeta de identidad número: 0801-1980-03910 quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR”, cuyo domicilio está ubicado en Tegucigalpa, M.D.C., F.M. CONSIDERANDO QUE el Contratante tiene interés en que el Consultor preste los servicios que se señalan a continuación, y
 
 CONSIDERANDO QUE el Consultor está dispuesto a prestar dichos servicios, POR LO TANTO, LAS PARTES convienen en lo siguiente:
 
@@ -2407,7 +2405,7 @@ AÑO TRIMESTRE PAGO
 
 Productos Porcentaje 1 1 1 1 1 2 Cronograma y plan de trabajo:
 
-15 días a partir de la 10% fecha de firma del contrato Informe trimestral No.1 Conforme al cronograma 5% de trabajo aprobado 1 2 3 Informes de Verificación DLI (1) 10% 30/12/2020 2 1 4 5% de trabajo aprobado 2 2 5 Informes de Verificación DLI (2) 10% 30/6/2021 2 3 6 5% de trabajo aprobado 2 4 7 Informes de Verificación DLI (3) 10% 30/12/2020 3 1 8 5% de trabajo aprobado 3 2 9 Informes de Verificación DLI (4) 10% 30/6/2022 3 3 10 5% de trabajo aprobado 3 4 11 Informes de Verificación DLI (5) 10% 30/12/2022 4 1 12 5% de trabajo aprobado 4 2 13 Informes de Verificación DLI (6-7) 10% 30/6/2023 NOTA: Las fechas de los informes de verificación los DLI podrán adelantarse a solicitud de la AMDC.
+15 días a partir de la 10% fecha de firma del contrato Informe trimestral No. 1 Conforme al cronograma 5% de trabajo aprobado 1 2 3 Informes de Verificación DLI (1) 10% 30/12/2020 2 1 4 5% de trabajo aprobado 2 2 5 Informes de Verificación DLI (2) 10% 30/6/2021 2 3 6 5% de trabajo aprobado 2 4 7 Informes de Verificación DLI (3) 10% 30/12/2020 3 1 8 5% de trabajo aprobado 3 2 9 Informes de Verificación DLI (4) 10% 30/6/2022 3 3 10 5% de trabajo aprobado 3 4 11 Informes de Verificación DLI (5) 10% 30/12/2022 4 1 12 5% de trabajo aprobado 4 2 13 Informes de Verificación DLI (6-7) 10% 30/6/2023 NOTA: Las fechas de los informes de verificación los DLI podrán adelantarse a solicitud de la AMDC.
 
 El cronograma será presentado por el consultor luego de la firma del contrato, 15 días contados a partir de la fecha firma del contrato. Los pagos para los informes de verificación estarán sujetos a las fechas aprobadas en el cronograma de trabajo aprobado.
 
@@ -2685,9 +2683,7 @@ PROYECTO PARA FORTALECER LA PRESTACIÓN DE AGUA POTABLE DE TEGUCIGALPA.
 
 Crédito No. P170469-CR. 6460-HN.
 
-Contrato No.
-
-CF-001-IDA6460-HN/ AMDC/2021.
+Contrato No. CF-001-IDA6460-HN/ AMDC/2021.
 
 Título del trabajo:
 
@@ -3469,9 +3465,7 @@ Nombre de Profesional Título del Cargo Rodrigo Fabián Carpio Garcés Especiali
 
 #### Artículo 10
 
-ARTÍCULO 10.- Aprobar en todas y cada una de sus partes el CONTRATO ADQUISICIÓN DE BIENES Proceso de Solicitud de Oferta No.
-
-HN-AMDC-139206-GO-RFB.
+ARTÍCULO 10.- Aprobar en todas y cada una de sus partes el CONTRATO ADQUISICIÓN DE BIENES Proceso de Solicitud de Oferta No. HN-AMDC-139206-GO-RFB.
 
 Nombre del Proyecto: PROYECTO
 
@@ -3483,7 +3477,7 @@ PRESTACIÓN DE AGUA POTABLE
 
 DE TEGUCIGALPA, Crédito No.
 
-CR. 6460-HN, Contrato No: AB-001- 1DA6460-HN/AMDC/2020. Título del trabajo: ADQUISICIÓN DE EQUIPO DE COMPUTO PARA LA UCP Y UMAPS, suscrito el 19 de Julio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y la señora ALESSANDRA ISABEK RIETTI BENDAÑA, en su condición de representante legal de la empresa SISTEMAS C&C S.A., DE C.V., el que literalmente dice:
+CR. 6460-HN, Contrato No: AB-001-1DA6460-HN/AMDC/2020. Título del trabajo: ADQUISICIÓN DE EQUIPO DE COMPUTO PARA LA UCP Y UMAPS, suscrito el 19 de Julio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y la señora ALESSANDRA ISABEK RIETTI BENDAÑA, en su condición de representante legal de la empresa SISTEMAS C&C S.A., DE C.V., el que literalmente dice:
 
 CONTRATO ADQUISICIÓN DE BIENES
 
@@ -4277,9 +4271,9 @@ I. ANTECEDENTES
 
 Honduras ha estado trabajando en la descentralización del servicio de agua en el territorio nacional, proceso en el cual el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) está trasladando la administración a las municipalidades. Desde marzo del corriente año entró en vigencia el Proyecto de Mejora del Suministro de Agua Potable de Tegucigalpa del Grupo del Banco Mundial, que en su primera fase contribuirá a la mejora de los servicios de agua y saneamiento a largo plazo para Tegucigalpa, al apoyar directamente la transferencia de servicios a la Alcaldía Municipal del Distrito Central (AMDC), como un proveedor municipal independiente que aborde más eficientemente los problemas de producción y acceso al agua en el sistema metropolitano.
 
-La ciudad de Tegucigalpa tiene una población de 1.2 millones de habitantes (14% de la población del país) y una demanda de agua estimada en 3.8 m³/seg (273 lppd de dotación media13). Las fuentes de suministro tienen una capacidad firme de 2,0 m³/seg, a todas luces 4 La dotación media se estableció considerando un consumo residencial promedio de 28.22 m³/mes (Cuadro No.3), lo que representa para una familia de cinco miembros una demanda neta de 188 lppd, a la que se agregó un 45% de pérdidas para una dotación total de 273 lppd.
+La ciudad de Tegucigalpa tiene una población de 1.2 millones de habitantes (14% de la población del país) y una demanda de agua estimada en 3.8 m³/seg (273 lppd de dotación media13). Las fuentes de suministro tienen una capacidad firme de 2,0 m³/seg, a todas luces 4 La dotación media se estableció considerando un consumo residencial promedio de 28.22 m³/mes (Cuadro No. 3), lo que representa para una familia de cinco miembros una demanda neta de 188 lppd, a la que se agregó un 45% de pérdidas para una dotación total de 273 lppd.
 
-La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 29 DE OCTUBRE DEL 2022 No. 36,063 insuficientes para satisfacer la demanda, en particular en la época seca, cuando la producción se reduce a 1.7 m³/seg. El Cuadro No.1 siguiente muestra la capacidad de producción de las fuentes de abastecimiento.
+La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 29 DE OCTUBRE DEL 2022 No. 36,063 insuficientes para satisfacer la demanda, en particular en la época seca, cuando la producción se reduce a 1.7 m³/seg. El Cuadro No. 1 siguiente muestra la capacidad de producción de las fuentes de abastecimiento.
 
 Cuadro No. 1 Producción y Capacidad Firme de las Fuentes de Abastecimiento de Agua Producción Fuente Invierno (lps) Producción Capacidad Verano Firme (lps) (lps) La Concepción 1,500 1,000 1,120 Los Laureles 845 350 490 El Picacho 1,100 300 350 Miraflores 75 25 20 Pozos 60 104 22 TOTAL 3,580 1,779 2,002 Como consecuencia de la insuficiencia de capacidad en las fuentes de abastecimiento, la ciudad sufre un marcado y desigual patrón de racionamiento permanente de dos días de servicio por semana con duración de dos a cuatro horas por día y en casos extremos una vez cada dos semanas, siendo los hogares de menores ingresos, los que se encuentran en esta última situación. Durante el verano de 2019 la producción se vio reducida sustancialmente dando lugar a un día de servicio por semana. Es de esperarse que en los próximos diez años, esta situación se verá agravada, a consecuencia del impacto del cambio climático, asociado al hecho de que en la actualidad no existe ningún proyecto en ejecución para aumentar las fuentes de abastecimiento, por lo que la AMDC, en su carácter de titular de los servicios, a través de su prestador de servicios UMAPS, comenzará su gestión enfrentando mayores niveles de racionamiento durante el plazo que tome la construcción de fuentes adicionales de suministro.
 
@@ -4287,7 +4281,7 @@ Para contrarrestar los efectos del racionamiento, los usuarios con suficientes r
 
 Con miras a disminuir el grado de racionamiento el Gobierno de Honduras ha gestionado ante el Banco Mundial el “Proyecto de Fortalecimiento de Agua de Tegucigalpa”, por un monto de US$ 50.0 millones, el cual tiene como objetivo de desarrollo aumentar la eficiencia y la confiabilidad de los servicios de agua en áreas seleccionadas de Tegucigalpa, el cual inició en el año 2020. El Proyecto comprende los cuatro componentes siguientes: 1.
 
-Operacionalización de la UMAPS; 2. Mayor capacidad de producción de agua y eficiencia de la red de distribución; 3. Gestión de proyectos y asistencia técnica; y, 4. Componente de respuesta de emergencia contingente. El Cuadro No.2 detalla el alcance y costo estimado de cada componente14. En la página www.amdc.hn podrá encontrar información de los componentes y subcomponentes del Proyecto. Documentos de interés en el ítem de programas y convenios.
+Operacionalización de la UMAPS; 2. Mayor capacidad de producción de agua y eficiencia de la red de distribución; 3. Gestión de proyectos y asistencia técnica; y, 4. Componente de respuesta de emergencia contingente. El Cuadro No. 2 detalla el alcance y costo estimado de cada componente14. En la página www.amdc.hn podrá encontrar información de los componentes y subcomponentes del Proyecto. Documentos de interés en el ítem de programas y convenios.
 
 5 Report No: PAD3300. International Development Association. Project Appraisal Document on a Proposed Credit In The Amount Of US$50 Million to the Republic of Honduras for a Tegucigalpa Water Supply Strengthening Project. 30 de mayo de 2019.
 
@@ -4419,7 +4413,7 @@ CONCURSO PRIVADO No CPrNO- 13-AMDC-98-2019, suscrito el 23 de Enero de 2020, ent
 
 (GATESA), el que literalmente dice:
 
-CONTRATO No. 0007/GLA/AMDC/2020.-CODIGO № KfW-CP-011 ESTUDIO Y DISEÑO DE OBRAS DE CONTROL DE DESLIZAMIENTO EN LAS COLONIAS CANAÁN, IZAGUIRRE Y ALDEA NUEVA SUYAPA Financiado con Fondos de Contraparte de la AMDC-KfW para el Programa “Adaptación Urbana al Cambio Climático en Centro América – Componente Honduras” CONCURSO PRIVADO No. CPrNO-13- AMDC-98-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801- 1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y TELMA IRIS DAVID SUAZO, hondureña y de este domicilio, tarjeta de identidad número 0305-1950-00013, en su condición de Representante Legal de la firma consultora GABINETE TÉCNICO, S.A. DE C.V., (GATESA) sociedad mercantil legalmente constituida en Testimonio de Escritura Pública № 118 de fecha 02 de octubre de 1971, e inscrita bajo el número 4, tomo 44 del Registro de La Propiedad Mercantil de San Pedro Sula, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “ESTUDIO Y DISEÑO DE OBRAS DE CONTROL DE DESLIZAMIENTO EN LAS COLONIAS CANAÁN, IZAGUIRRE Y ALDEA NUEVA SUYAPA” CON CÓDIGO N° KFW-CP-011; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
+CONTRATO No. 0007/GLA/AMDC/2020.-CODIGO № KfW-CP-011 ESTUDIO Y DISEÑO DE OBRAS DE CONTROL DE DESLIZAMIENTO EN LAS COLONIAS CANAÁN, IZAGUIRRE Y ALDEA NUEVA SUYAPA Financiado con Fondos de Contraparte de la AMDC-KfW para el Programa “Adaptación Urbana al Cambio Climático en Centro América – Componente Honduras” CONCURSO PRIVADO No. CPrNO-13- AMDC-98-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y TELMA IRIS DAVID SUAZO, hondureña y de este domicilio, tarjeta de identidad número 0305-1950-00013, en su condición de Representante Legal de la firma consultora GABINETE TÉCNICO, S.A. DE C.V., (GATESA) sociedad mercantil legalmente constituida en Testimonio de Escritura Pública № 118 de fecha 02 de octubre de 1971, e inscrita bajo el número 4, tomo 44 del Registro de La Propiedad Mercantil de San Pedro Sula, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “ESTUDIO Y DISEÑO DE OBRAS DE CONTROL DE DESLIZAMIENTO EN LAS COLONIAS CANAÁN, IZAGUIRRE Y ALDEA NUEVA SUYAPA” CON CÓDIGO N° KFW-CP-011; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
 
 1.- En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -4783,7 +4777,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía de cumplimiento de contrato será presentada por el Consultor diez (10) días calendarios una vez recibida la notificación de adjudicación, de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía de cumplimiento de contrato será presentada por el Consultor diez (10) días calendarios una vez recibida la notificación de adjudicación, de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -5053,11 +5047,11 @@ Apéndice “A” Costos Apéndice “B” Personal Clave Ítem Cargo Asignado N
 
 #### Artículo 13
 
-ARTÍCULO 13.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0847/ GLA/AMDC/2020.-CODIGO № KfW-CP-013. Estudio y Diseño para el Control de flujos y Escorrentías S u p e r f i c i a l e s m e d i a n t e l a Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones).
+ARTÍCULO 13.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0847/ GLA/AMDC/2020.-CODIGO № KfW-CP-013. Estudio y Diseño para el Control de flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones).
 
 CONCURSO PRIVADO No CPrNO- 18-AMDC-115-2019, suscrito el 24 de Marzo de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor NELSON MARTINEZ DELLANOCE, en su condición de representante legal de la empresa Consultora MADEC, S. de R.L. de C.V., el que literalmente dice:
 
-CONTRATO No. 0847/GLA/AMDC/2020.-CODIGO № KfW-CP-013 Estudio y Diseño para el Control de flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones) CONCURSO PRIVADO No CPrNO-18- AMDC-115-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801- 1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Nelson Martínez Dellanoce, hondureño y de este domicilio, tarjeta de identidad número 0801-1952-02839, en su condición de Representante Legal de la firma Consultora MADEC, S. de R.L. de C.V. legalmente constituida en Testimonio de Escritura Pública № 135 de fecha 26 de noviembre de 1992, inscrita bajo el número 49, tomo 280 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño para el Control de flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones)”. Concurso Privado No CPrNO-18-AMDC-115-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
+CONTRATO No. 0847/GLA/AMDC/2020.-CODIGO № KfW-CP-013 Estudio y Diseño para el Control de flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones) CONCURSO PRIVADO No CPrNO-18- AMDC-115-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Nelson Martínez Dellanoce, hondureño y de este domicilio, tarjeta de identidad número 0801-1952-02839, en su condición de Representante Legal de la firma Consultora MADEC, S. de R.L. de C.V. legalmente constituida en Testimonio de Escritura Pública № 135 de fecha 26 de noviembre de 1992, inscrita bajo el número 49, tomo 280 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño para el Control de flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en barrios y colonias del Distrito Central (Lote No. 1 - Inundaciones)”. Concurso Privado No CPrNO-18-AMDC-115-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
 
 1.- En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -5407,7 +5401,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -5459,7 +5453,7 @@ La A.M.D.C., no contraerá responsabilidad laboral por pago de prestaciones o se
 
 Asimismo, el 28 de septiembre del 2018 las partes antes mencionadas, suscribieron el convenio de ejecución de la Fase II del Programa.
 
-El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.1 - Inundaciones).
+El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 1 - Inundaciones).
 
 El Lote No. 1 – Inundaciones corresponde a sitios ubicados en las Colonias Fuerzas Unidas, Nueva Danlí, Lomas del Norte, Buena Vista y Mary Flakes de Flores; todas ellas del área urbana del Distrito Central.
 
@@ -5467,7 +5461,7 @@ I.2 Situación Actual Los principales problemas en materia del riesgo de desastr
 
 Adicionalmente, debido a la proliferación de asentamientos en áreas susceptibles, los cuales, en la mayoría de los casos concentra poblaciones de escasos recursos, la cobertura con infraestructura comunitaria de protección es limitada o inexistente. Sumado a ello y debido a la condición socioeconómica desfavorable de las comunidades expuestas, también son generadas condiciones de vivienda precarias, con lo que, también se aumenta significativamente el nivel de riesgo. Este es el caso de las Colonias Fuerzas Unidas, Nueva Danlí, Lomas del Norte, Buena Vista y Mary Flakes de Flores, todas correspondientes a lugares que presentan condiciones de alta vulnerabilidad ante los fenómenos de Inundación, por lo que, en diversos estudios realizados por las distintas agencias de cooperación internacional, los mismos han sido coincidentemente identificados. En este sentido, debido a la ubicación geográfica del país; la incidencia de los fenómenos tropicales como Huracanes, Tormentas Tropicales, Depresiones u otros; y los efectos del cambio climático, la tendencia de los fenómenos hidrometeorológicos está dirigida al incremento en sus intensidades y de su recurrencia, por lo que, la adopción de medidas que reduzcan sus impactos proteja las vidas y los bienes de la población, así como sus medios de vida y subsistencia, debe ser la ruta a seguir.
 
-I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.1 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
+I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 1 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
 
 I.4. Objetivo Específico El objetivo específico, será la ejecución de las siguientes actividades:
 
@@ -5485,13 +5479,13 @@ I.4. Objetivo Específico El objetivo específico, será la ejecución de las si
 
 La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 29 DE OCTUBRE DEL 2022 No. 36,063 I.5. Alcance del Proyecto
 
-• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.1 - Inundaciones); proporcionando la información necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información proporcionada por AMDC, sobre estudios existentes en cada uno de los sitios de esta consultoría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adicionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, llanuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnico-científicas para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica
+• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 1 - Inundaciones); proporcionando la información necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información proporcionada por AMDC, sobre estudios existentes en cada uno de los sitios de esta consultoría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adicionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, llanuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnico-científicas para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica
 
-– Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.1 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP. Para este cometido, la Firma Consultora deberá respetar los valores máximos de inversión que serán definidos por la AMDC a través de la UMGIR al inicio de la consultoría, de tal manera que los diseños y los alcances particulares de cada uno de ellos, no sobrepase los recursos disponibles para su ejecución. o Preparar para cada uno de los sitios diseñados, los respectivos informes técnicos ambiental, las Memorias Técnicas de los Proyectos y los Resúmenes o Planes de Gestión Ambiental y Social, según aplique.
+– Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 1 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP. Para este cometido, la Firma Consultora deberá respetar los valores máximos de inversión que serán definidos por la AMDC a través de la UMGIR al inicio de la consultoría, de tal manera que los diseños y los alcances particulares de cada uno de ellos, no sobrepase los recursos disponibles para su ejecución. o Preparar para cada uno de los sitios diseñados, los respectivos informes técnicos ambiental, las Memorias Técnicas de los Proyectos y los Resúmenes o Planes de Gestión Ambiental y Social, según aplique.
 
 1.6. Productos a Entregar Para la aceptación de los resultados del estudio y diseño se requerirá de la presentación de los mismos en versiones impresas acompañadas de sus respectivas versiones digitales editables en los formatos originales de creación tipo .dwg o .dxf; .kml o .kmz; Shape, .SID, .xls, .doc u otros que sean aprobados por escrito por la UMGIR-AMDC, de los siguientes productos:
 
-1. Revisión y validación para cada uno de los sitios, de los Estudios de Hidrológicos-Hidráulicos con que se cuente, así como de cualquier otro estudio en áreas afines o relacionadas, que estando a disponibilidad de la AMDC, ésta considere pertinente su incorporación al proceso (Se incluyen entre otros, los Estudios JICA- 2002 e ICES-BID 2014).
+1. Revisión y validación para cada uno de los sitios, de los Estudios de Hidrológicos-Hidráulicos con que se cuente, así como de cualquier otro estudio en áreas afines o relacionadas, que estando a disponibilidad de la AMDC, ésta considere pertinente su incorporación al proceso (Se incluyen entre otros, los Estudios JICA-2002 e ICES-BID 2014).
 
 2. Revisiones y validaciones de los diseños de obras hidráulicas, estructurales y demás con que AMDC cuente o tenga acceso a ellos.
 
@@ -5509,7 +5503,7 @@ La Gaceta REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 29 DE OCTUBRE DEL 2022
 
 8. Informes de acompañamiento al proceso de implementación del MPP con las comunidades, incluyendo en este la nota de aceptación de la medida por parte de la comunidad.
 
-9. Diseños Finales de las Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.1 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por ésta y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
+9. Diseños Finales de las Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 1 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por ésta y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
 
 10. Los diseños finales de las medidas deberán incluir la incorporación estimada de entre el 5% y el 15% del monto total de la inversión, dirigido a obras del tipo Verdes que también contribuyan a la reducción del riesgo de desastres y la adaptación de las comunidades beneficiadas ante los efectos del cambio climático.
 
@@ -5877,11 +5871,11 @@ Apéndice “A” Costos Apéndice “B” Personal Clave Sección “A”-1
 
 #### Artículo 14
 
-ARTÍCULO 14.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0849/ GLA/AMDC/2020.-CODIGO N° KFW-CP-014. ESTUDIO Y DISE­ ÑO OBRAS PARA EL CONTROL DE INUNDACIONES Y ESCO­ RRENTÍAS SUPERFICIALES DISTRITO CENTRAL (LOTE NO. 2- INUNDACIONES). CON­ CURSO PRIVADO NO CPRNO- 19-AMDC-116-2019, suscrito el 24 de Marzo de 2020, entre la Munici­ palidad del Distrito Central por medio del señor Alcalde NASRY JUAN AS­ FURA ZABLAH y el señor DENIS GERARDO MONCADA ESPINAL, en su condición de representante le­ gal de la empresa Constructores y Consultores en Ingeniería, S. de R.L.
+ARTÍCULO 14.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0849/ GLA/AMDC/2020.-CODIGO N° KFW-CP-014. ESTUDIO Y DISE­ ÑO OBRAS PARA EL CONTROL DE INUNDACIONES Y ESCO­ RRENTÍAS SUPERFICIALES DISTRITO CENTRAL (LOTE NO. 2- INUNDACIONES). CON­ CURSO PRIVADO NO CPRNO-19-AMDC-116-2019, suscrito el 24 de Marzo de 2020, entre la Munici­ palidad del Distrito Central por medio del señor Alcalde NASRY JUAN AS­ FURA ZABLAH y el señor DENIS GERARDO MONCADA ESPINAL, en su condición de representante le­ gal de la empresa Constructores y Consultores en Ingeniería, S. de R.L.
 
 (CYC), el que literalmente dice:
 
-CONTRATO No. 0849/GLA/AMDC/2020.-CODIGO № KfW-CP-014 Estudio y Diseño Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2- Inundaciones) CONCURSO PRIVADO No CPrNO-19-AMDC-116-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801- 1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Denis Gerardo Moncada Espinal, hondureño y de este domicilio, tarjeta de identidad número 0801-1975-04017, en su condición de Representante Legal de la firma Constructores y Consultores en Ingeniería, S. de R.L. (CYC) legalmente constituida en Testimonio de Escritura Pública № 181 de fecha 20 de septiembre de 2004, inscrita bajo el asiento 1596, tomo 77 del Registro de La Propiedad Mercantil de Francisco Morazán, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2- Inundaciones)”.
+CONTRATO No. 0849/GLA/AMDC/2020.-CODIGO № KfW-CP-014 Estudio y Diseño Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2- Inundaciones) CONCURSO PRIVADO No CPrNO-19-AMDC-116-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Denis Gerardo Moncada Espinal, hondureño y de este domicilio, tarjeta de identidad número 0801-1975-04017, en su condición de Representante Legal de la firma Constructores y Consultores en Ingeniería, S. de R.L. (CYC) legalmente constituida en Testimonio de Escritura Pública № 181 de fecha 20 de septiembre de 2004, inscrita bajo el asiento 1596, tomo 77 del Registro de La Propiedad Mercantil de Francisco Morazán, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2- Inundaciones)”.
 
 Concurso Privado No CPrNO-19-AMDC-116-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsa­ nación de cualquier defecto de los mismos; en consecuencia, este contrato atestigua lo siguiente:
 
@@ -6287,7 +6281,7 @@ Las garantías, deberán contener la cláusula siguiente:
 
 “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía de cumplimiento de contrato será pre­ sentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudi­ cación, de acuerdo al formulario No.6 del Documen­ to Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente consti­ tuido en el país.
+La Garantía de cumplimiento de contrato será pre­ sentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudi­ cación, de acuerdo al formulario No. 6 del Documen­ to Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente consti­ tuido en el país.
 
 17. Garantía de Anticipo:
 
@@ -6329,7 +6323,7 @@ a) Restricciones de cuarentena; b) Embargos por Fletes; c) Guerra, Beligerancia,
 
 Asimismo, el 28 de septiembre del 2018 las partes antes mencionadas, suscribieron el convenio de ejecución de la Fase II del Programa.
 
-El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No.2 - Inundaciones).
+El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2 - Inundaciones).
 
 El Lote No. 2 – Inundaciones corresponde a sitios ubicados en las Colonias José Arnulfo Cantarero López, Nueva Esperanza y el Rio Guacerique del área urbana del Distrito Central.
 
@@ -6337,7 +6331,7 @@ I.2 Situación Actual Los principales problemas en materia del riesgo de desastr
 
 Adicionalmente, debido a la proliferación de asentamientos en áreas susceptibles, los cuales, en la mayoría de los casos concentra poblaciones de escasos recursos, la cobertura con infraestructura comunitaria de protección es limitada o inexistente. Sumado a ello y debido a la condición socioeconómica desfavorable de las comunidades expuestas, también son generadas condiciones de vivienda precarias, con lo que, también se aumenta significativamente el nivel de riesgo. Este es el caso de las Colonias José Arnulfo Cantarero López, Nueva Esperanza y el Río Guacerique, todos correspondientes a lugares que presentan condiciones de alta vulnerabilidad ante los fenómenos de Inundación, por lo que, en diversos estudios realizados por las distintas agencias de cooperación internacional, los mismos han sido coincidentemente identificados. En este sentido, debido a la ubicación geográfica del país; la incidencia de los fenómenos tropicales como Huracanes, Tormentas Tropicales, Depresiones u otros; y los efectos del cambio climático, la tendencia de los fenómenos hidrometeorológicos está dirigida al incremento en sus intensidades y de su recurrencia, por lo que, la adopción de medidas que reduzcan sus impactos, proteja las vidas y los bienes de la población, así como sus medios de vida y subsistencia, debe ser la ruta a seguir.
 
-I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No.2 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
+I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
 
 I.3. Objetivo Específico El objetivo específico, será la ejecución de las siguientes actividades:
 
@@ -6355,7 +6349,7 @@ Elaborar todos los documentos técnicos necesarios para realizar la ejecución d
 
 I.4. Alcance del Proyecto
 
-• Realizar el estudio y diseño de Obras para el Con­ trol de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No.2 - Inundaciones); proporcionando la in­ formación necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información pro­ porcionada por AMDC, sobre estudios exis­ tentes en cada uno de los sitios de esta consul­ toría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adi­ cionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, lla­ nuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnicocientíficas para el Control de Inundaciones y Escorrentías Superficiales mediante la Cons­ trucción de Obras Hidráulicas en Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica – Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No.2 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP. Para este cometido, la Firma Consultora deberá respetar los valores máximos de inversión que serán definidos por la AMDC a través de la UMGIR al inicio de la consultoría, de tal manera que los diseños y los alcances particulares de cada uno de ellos, no sobrepase los recursos disponibles para su ejecución. o Preparar para cada uno de los sitios diseñados, los respectivos informes técnicos ambiental, las Memorias Técnicas de los Proyectos y los Resúmenes o Planes de Gestión Ambiental y Social, según aplique.
+• Realizar el estudio y diseño de Obras para el Con­ trol de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2 - Inundaciones); proporcionando la in­ formación necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información pro­ porcionada por AMDC, sobre estudios exis­ tentes en cada uno de los sitios de esta consul­ toría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adi­ cionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, lla­ nuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnicocientíficas para el Control de Inundaciones y Escorrentías Superficiales mediante la Cons­ trucción de Obras Hidráulicas en Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica – Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP. Para este cometido, la Firma Consultora deberá respetar los valores máximos de inversión que serán definidos por la AMDC a través de la UMGIR al inicio de la consultoría, de tal manera que los diseños y los alcances particulares de cada uno de ellos, no sobrepase los recursos disponibles para su ejecución. o Preparar para cada uno de los sitios diseñados, los respectivos informes técnicos ambiental, las Memorias Técnicas de los Proyectos y los Resúmenes o Planes de Gestión Ambiental y Social, según aplique.
 
 1.5. Productos a Entregar Para la aceptación de los resultados del estudio y diseño se requerirá de la presentación de los mismos en versiones im­ presas acompañadas de sus respectivas versiones digitales editables en los formatos originales de creación tipo .dwg o .dxf; .kml o .kmz; Shape, .SID, .xls, .doc u otros que sean aprobados por escrito por la UMGIR-AMDC, de los siguien­ tes productos:
 
@@ -6375,7 +6369,7 @@ I.4. Alcance del Proyecto
 
 8. Informes de acompañamiento al proceso de implementación del MPP con las comunidades, incluyendo en este la nota de aceptación de la medida por parte de la comunidad.
 
-9. Diseños Finales de las Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No.2 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
+9. Diseños Finales de las Obras para el Control de Inundaciones y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en Colonias del Distrito Central (Lote No. 2 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
 
 10. Los diseños finales de las medidas deberán incluir la incorporación estimada de entre el 5% y el 15% del monto total de la inversión, dirigido a obras del tipo Verdes que también contribuyan a la reducción del riesgo de desastres y la adaptación de las comunidades beneficiadas ante los efectos del cambio climático.
 
@@ -6789,7 +6783,7 @@ CONCURSO PRIVADO
 
 No CPrNO-16-AMDC-111-2019, suscrito el 24 de Marzo de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor NELSON MARTINEZ DELLANOCE, en su condición de representante legal de la empresa Consultora MADEC, S. de R.L. de C.V., el que literalmente dice:
 
-CONTRATO No. 0848/GLA/AMDC/2020.-CODIGO No. KfW-CP-015 Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 3 - Inundaciones) CONCURSO PRIVADO No. CPrNO-16-AMDC-111-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004- 2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Nelson Martínez Dellanoce, hondureño y de este domicilio, Tarjeta de Identidad número 0801-1952-02839, en su condición de Representante Legal de la firma Consultora MADEC, S. de R.L. de C.V. legalmente constituida en Testimonio de Escritura Pública No 135 de fecha 26 de noviembre de 1992, inscrita bajo el número 49, tomo 280 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto el Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 3 - Inundaciones)”. Concurso Privado No CPrNO-16- AMDC-111-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia, este contrato atestigua lo siguiente:
+CONTRATO No. 0848/GLA/AMDC/2020.-CODIGO No. KfW-CP-015 Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 3 - Inundaciones) CONCURSO PRIVADO No. CPrNO-16-AMDC-111-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Nelson Martínez Dellanoce, hondureño y de este domicilio, Tarjeta de Identidad número 0801-1952-02839, en su condición de Representante Legal de la firma Consultora MADEC, S. de R.L. de C.V. legalmente constituida en Testimonio de Escritura Pública No 135 de fecha 26 de noviembre de 1992, inscrita bajo el número 49, tomo 280 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto el Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 3 - Inundaciones)”. Concurso Privado No CPrNO-16- AMDC-111-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia, este contrato atestigua lo siguiente:
 
 1.- En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -7199,7 +7193,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 a) Garantía de Cumplimiento de Contrato: Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -7247,7 +7241,7 @@ d) Confiscación, Expropiación, Destrucción, Obstrucción ordenada por cualqui
 
 Asimismo, el 28 de septiembre del 2018 las partes antes mencionadas, suscribieron el convenio de ejecución de la Fase II del Programa.
 
-El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No.3 - Inundaciones).
+El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 3 - Inundaciones).
 
 El Lote No. 3 – Inundaciones corresponde a sitios ubicados en Quebrada La Mololoa y Colonias Agua Blanca, El Quebrachito y Suyapa (Sector UNAH); todas ellas del área urbana del Distrito Central.
 
@@ -7255,7 +7249,7 @@ I.2 Situación Actual Los principales problemas en materia del riesgo de desastr
 
 Adicionalmente, debido a la proliferación de asentamientos en áreas susceptibles, los cuales, en la mayoría de los casos concentra poblaciones de escasos recursos, la cobertura con infraestructura comunitaria de protección es limitada o inexistente. Sumado a ello y debido a la condición socioeconómica desfavorable de las comunidades expuestas, también son generadas condiciones de vivienda precarias, con lo que, también se aumenta significativamente el nivel de riesgo. Este es el caso de la Quebrada La Mololoa y Colonias Agua Blanca, El Quebrachito y Suyapa (Sector UNAH), todas correspondientes a lugares que presentan condiciones de alta vulnerabilidad ante los fenómenos de Inundación, por lo que, en diversos estudios realizados por las distintas agencias de cooperación internacional, los mismos han sido coincidentemente identificados. En este sentido, debido a la ubicación geográfica del país; la incidencia de los fenómenos tropicales como Huracanes, Tormentas Tropicales, Depresiones u otros; y los efectos del cambio climático, la tendencia de los fenómenos hidrometeorológicos está dirigida al incremento en sus intensidades y de su recurrencia, por lo que, la adopción de medidas que reduzcan sus impactos, proteja las vidas y los bienes de la población, así como sus medios de vida y subsistencia, debe ser la ruta a seguir.
 
-I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.3 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
+I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 3 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
 
 I.3. Objetivo Específico El objetivo específico, será la ejecución de las siguientes actividades:
 
@@ -7275,7 +7269,7 @@ I.3. Objetivo Específico El objetivo específico, será la ejecución de las si
 
 I.4. Alcance del Proyecto
 
-• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.3
+• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 3
 
 - Inundaciones); proporcionando la información necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades:
 
@@ -7291,7 +7285,7 @@ Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobaci�
 
 • Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica – Componente Honduras.
 
-• Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.3
+• Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 3
 
 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP.
 
@@ -7317,7 +7311,7 @@ Para este cometido, la Firma Consultora deberá respetar los valores máximos de
 
 8.Informes de acompañamiento al proceso de implementación del MPP con las comunidades, incluyendo en este la nota de aceptación de la medida por parte de la comunidad.
 
-9.Diseños Finales de las Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.3 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
+9.Diseños Finales de las Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 3 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
 
 10.Los diseños finales de las medidas deberán incluir la incorporación estimada de entre el 5% y el 15% del monto total de la inversión, dirigido a obras del tipo Verdes que también contribuyan a la reducción del riesgo de desastres y la adaptación de las comunidades beneficiadas ante los efectos del cambio climático.
 
@@ -7763,9 +7757,7 @@ Apéndice “A” Costos Apéndice “B” Personal Clave Ítem Cargo Asignado N
 
 #### Artículo 16
 
-ARTÍCULO 16.- Aprobar en todas y cada una de sus partes el CONTRATO No.
-
-0850/GLA/AMDC/2020.- CODIGO
+ARTÍCULO 16.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0850/GLA/AMDC/2020.- CODIGO
 
 № KfW-CP-016.
 
@@ -7775,11 +7767,7 @@ Y
 
 ESCORRENTÍAS SUPERFICIALES MEDIANTE LA CONSTRUCCIÓN DE OBRAS HIDRÁULICAS EN SITIOS DEL DISTRITO CENTRAL (Lote No. 4 – Inundaciones), CONCURSO PRIVADO No CPrNO-17-AMDC-112-2019, suscrito el 24 de Marzo de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor DENIS GERARDO MONCADA ESPINAL, en su condición de la empresa Constructores y Consultores en Ingeniería, S. de R.L. (CYC), el que literalmente dice:
 
-CONTRATO No. 0850/GLA/AMDC/2020.-CODIGO № KfW-CP-016 Estudio y diseño para el control de inundaciones, flujos y escorrentías superficiales mediante la construcción de obras hidráulicas en sitios del Distrito Central (Lote No.
-
-4 – Inundaciones), CONCURSO PRIVADO No. CPrNO-17- AMDC-112-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801- 1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Denis Gerardo Moncada Espinal, hondureño y de éste domicilio, Tarjeta de Identidad número 0801-1975-04017, en su condición de Representante Legal de la firma consultora Constructores y Consultores en Ingeniería, S. de R.L. (CYC), sociedad mercantil legalmente constituida en Testimonio de Escritura Pública N° 181 de fecha 20 de septiembre de 2004, inscrita bajo el número 68, tomo 573 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y diseño para el control de inundaciones, flujos y escorrentías superficiales mediante la construcción de obras hidráulicas en sitios del Distrito Central (Lote No.
-
-4 – Inundaciones)” Concurso Privado No. CPrNO-17- AMDC-112-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
+CONTRATO No. 0850/GLA/AMDC/2020.-CODIGO № KfW-CP-016 Estudio y diseño para el control de inundaciones, flujos y escorrentías superficiales mediante la construcción de obras hidráulicas en sitios del Distrito Central (Lote No. 4 – Inundaciones), CONCURSO PRIVADO No. CPrNO-17- AMDC-112-2019 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y Denis Gerardo Moncada Espinal, hondureño y de éste domicilio, Tarjeta de Identidad número 0801-1975-04017, en su condición de Representante Legal de la firma consultora Constructores y Consultores en Ingeniería, S. de R.L. (CYC), sociedad mercantil legalmente constituida en Testimonio de Escritura Pública N° 181 de fecha 20 de septiembre de 2004, inscrita bajo el número 68, tomo 573 del Registro de la Propiedad Mercantil de Tegucigalpa, quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute por su cuenta y riesgo el contrato “Estudio y diseño para el control de inundaciones, flujos y escorrentías superficiales mediante la construcción de obras hidráulicas en sitios del Distrito Central (Lote No. 4 – Inundaciones)” Concurso Privado No. CPrNO-17- AMDC-112-2019; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la elaboración del estudio y diseño de obras de infraestructura vial en el Distrito Central y la subsanación de cualquier defecto de los mismos; en consecuencia este contrato atestigua lo siguiente:
 
 1.- En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -8185,7 +8173,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 a) Garantía de Cumplimiento de Contrato: Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía de cumplimiento de contrato será presentada por el Consultor, diez (10) días calendarios después de haber recibido la notificación de adjudicación, de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17.Garantía de Anticipo:
 
@@ -8233,7 +8221,7 @@ d) Confiscación, Expropiación, Destrucción, Obstrucción ordenada por cualqui
 
 Asimismo, el 28 de septiembre del 2018 las partes antes mencionadas, suscribieron el convenio de ejecución de la Fase II del Programa.
 
-El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No.4 - Inundaciones).
+El Programa de “Adaptación Urbana al Cambio Climático en Centroamérica - Componente Honduras” está orientado a la adaptación de las comunidades vulnerables y pobres, ante los efectos adversos que se originan producto del cambio climático, siendo así que, se concibe el desarrollo de intervenciones de carácter estructural y no estructural como parte de sus medidas a implementar. Particularmente en el caso de las intervenciones de carácter estructural, la AMDC deberá proveer el diseño de las medidas de infraestructura que serán implementadas, no obstante, en algunos de los casos, requiere de la prestación de los servicios de consultoría para la elaboración de los mismos, por lo que, a través de este documento se definen los términos de referencia para la contratación de los servicios de una Empresa Consultora para realizar el Estudio y Diseño para el Control de Inundaciones, Flujos y Escorrentías Superficiales mediante la Construcción de Obras Hidráulicas en sitios del Distrito Central (Lote No. 4 - Inundaciones).
 
 El Lote No. 4 – Inundaciones corresponde a sitios ubicados en Quebrada La Soledad, Barrio La Soledad y Colonias 21 de febrero y 23 de junio; todas ellas del área urbana del Distrito Central.
 
@@ -8241,7 +8229,7 @@ I.2 Situación Actual Los principales problemas en materia del riesgo de desastr
 
 Adicionalmente, debido a la proliferación de asentamientos en áreas susceptibles, los cuales, en la mayoría de los casos concentra poblaciones de escasos recursos, la cobertura con infraestructura comunitaria de protección es limitada o inexistente. Sumado a ello y debido a la condición socioeconómica desfavorable de las comunidades expuestas, también son generadas condiciones de vivienda precarias, con lo que, también se aumenta significativamente el nivel de riesgo. Este es el caso de la Quebrada La Soledad, Barrio La Soledad y Colonias 21 de febrero y 23 de junio, todas correspondientes a lugares que presentan condiciones de alta vulnerabilidad ante los fenómenos de Inundación, por lo que, en diversos estudios realizados por las distintas agencias de cooperación internacional, los mismos han sido coincidentemente identificados. En este sentido, debido a la ubicación geográfica del país; la incidencia de los fenómenos tropicales como Huracanes, Tormentas Tropicales, Depresiones u otros; y los efectos del cambio climático, la tendencia de los fenómenos hidrometeorológicos está dirigida al incremento en sus intensidades y de su recurrencia, por lo que, la adopción de medidas que reduzcan sus impactos, proteja las vidas y los bienes de la población, así como sus medios de vida y subsistencia, debe ser la ruta a seguir.
 
-I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.4 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
+I.3. Objetivo General Realizar el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 4 - Inundaciones); como una medida de Reducción del Riesgo de Desastres ante Inundaciones y de Adaptación al Cambio Climático de las Comunidades que habitan el sitio, de tal manera que con ella, también se generen acciones que contribuyan a la protección de la vida de las personas, sus bienes y sus medios de vida y subsistencia.
 
 I.3. Objetivo Específico El objetivo específico, será la ejecución de las siguientes actividades:
 
@@ -8261,7 +8249,7 @@ I.3. Objetivo Específico El objetivo específico, será la ejecución de las si
 
 I.4. Alcance del Proyecto
 
-• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.4 - Inundaciones); proporcionando la información necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información proporcionada por AMDC, sobre estudios existentes en cada uno de los sitios de esta consultoría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adicionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, llanuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnico-científicas para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica – Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.4 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP.
+• Realizar el estudio y diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 4 - Inundaciones); proporcionando la información necesaria para su correcta ejecución, realizando, pero sin limitarse a ellas, las siguientes actividades: o Revisión y validación de la Información proporcionada por AMDC, sobre estudios existentes en cada uno de los sitios de esta consultoría, además de la Topografía, Pluviometría, registros históricos, bases de datos u otros con que se cuente, así como, cualquier otro tipo de información que esté en disponibilidad de la AMDC y sea requerida a solicitud de la Firma Consultora. o Desarrollar las investigaciones, análisis adicionales y demás actividades necesarias para la definición detallada del comportamiento de las inundaciones y su caracterización en los sitios de estudio (Incluye la determinación de Caudales Críticos para diseño, calados, llanuras de inundación, velocidades, áreas de impacto, estimación de afectaciones, otros), identificando las mejores soluciones técnico-científicas para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central. o Proponer a la AMDC, para cada uno de los sitios del estudio, al menos tres alternativas conceptuales de solución a la problemática identificada, presentando con ellas la estimación y consideraciones acerca de sus implicaciones (ventajas, retos, limitaciones, actores involucrados y/o afectados, impacto social y medioambiental, entre otros), estimando los recursos necesarios en equipo, personal, tiempo y financieros; tal que, conjuntamente con los técnicos de la AMDC y el consultor, sean analizadas las mismas para la definición final de la mejor solución, siendo esta aquella para la cual la AMDC, considere en base a los argumentos técnicos, sociales, medioambientales y económicos que sean presentados por el consultor, cual sea la de mayor impacto social y medioambiental, pero a su vez, la de menor complejidad y costo. o Acompañamiento a la AMDC en la implementación del MPP, presentando las propuestos de solución y asegurando la incorporación de las observaciones de la comunidad en los diseños de las medidas, siempre que las mismas sean técnicamente factibles, aceptadas por la AMDC y se apeguen a las condiciones y criterios establecidos por el Programa. Producto de ello, AMDC requerirá del Consultor, la respectiva nota de aprobación de la medida por parte de la comunidad, la cual deberá ser suscrita durante la implementación del MPP. o Asegurar a la AMDC la inclusión del MSSS en cada una de las medidas diseñadas, cumpliendo así los estándares del Banco Mundial que han sido Integrados al Programa de Adaptación Urbana al Cambio Climático en Centroamérica – Componente Honduras. o Elaboración de los diseños finales de las soluciones técnico-científicas propuestas que hayan sido identificadas, definidas y formuladas producto del presente proceso de Estudio y Diseño de Obras para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 4 - Inundaciones), para las cuales la UMGIR haya dado su aprobación por escrito al concepto de diseño y se cuente con la aprobación de las comunidades obtenida producto de la implementación del MPP.
 
 Para este cometido, la Firma Consultora deberá respetar los valores máximos de inversión que serán definidos por la AMDC a través de la UMGIR al inicio de la consultoría, de tal manera que los diseños y los alcances particulares de cada uno de ellos, no sobrepase los recursos disponibles para su ejecución. o Preparar para cada uno de los sitios diseñados, los respectivos informes técnicos ambiental, las Memorias Técnicas de los Proyectos y los Resúmenes o Planes de Gestión Ambiental y Social, según aplique.
 
@@ -8283,7 +8271,7 @@ Para este cometido, la Firma Consultora deberá respetar los valores máximos de
 
 8. Informes de acompañamiento al proceso de implementación del MPP con las comunidades, incluyendo en este la nota de aceptación de la medida por parte de la comunidad.
 
-9. Diseños Finales de las Obras para el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No.4 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
+9. Diseños Finales de las Obras para el Estudio y Diseño para el Control de Flujos y Escorrentías Superficiales mediante la construcción de Obras Hidráulicas en Barrios y Colonias del Distrito Central (Lote No. 4 - Inundaciones), siempre que estos correspondan a las medidas estructurales que hayan sido definidas conjuntamente con la AMDC, aprobados por esta, y las cuales cuenten con la aprobación de las comunidades a través de la nota de aceptación suscrita en el proceso de implementación del MPP. Se requerirá que las medidas finales y sus respectivos diseños se enmarquen en los límites de inversión definidos por la AMDC, los cuales deberán ser proporcionados por la UMGIR, una vez que se genere la primera reunión de trabajo entre las partes, al inicio de la consultoría.
 
 10. Los diseños finales de las medidas deberán incluir la incorporación estimada de entre el 5% y el 15% del monto total de la inversión, dirigido a obras del tipo Verdes que también contribuyan a la reducción del riesgo de desastres y la adaptación de las comunidades beneficiadas ante los efectos del cambio climático.
 
@@ -8545,7 +8533,7 @@ Se deberá incluir en los contenidos del documento la respectiva memoria fotogr�
 
 Salvo nuevos requerimientos de la UMGIR, los cuales sean solicitados a la Firma Consultora en la etapa de ejecución de la consultoría, la estructura mínima del informe deberá incluir mínimamente, lo siguiente: a).- Portada conteniendo Nombre del Proyecto, Fecha del Estudio, Nombre de los Sitios o Ubicaciones, otros que la UMGIR indique; b).- Tabla General de contenido (Incluye Índice con Tabla de Gráficos, Imágenes y Tablas); c).- Introducción del documento; d).- Descripción general de la metodología implementada por la Firma Consultora, en el estudio de cada uno de los casos; e).- División por capítulos del documento, estos dirigidos a presentar los principales hallazgos por cada uno de los sitios y las recomendaciones de intervención identificados para ellos; f).- Conclusiones Preliminares por cada uno de los sitios; g).- Recomendaciones Iniciales para cada uno de los sitios; g).- Anexos (En los casos que aplique, corresponderá a información adicional a la presentada en el documento):
 
-1.- Mapas Temáticos, Fotografías aéreas, levantamientos de información espacial, croquis de ubicación de los sitios, delimitaciones geográficas, otras; 2.- Registro Fotográfico de cada uno de los sitios, ilustraciones, esquemas, diagramas, otros ; 3.- Tablas, cuadros resúmenes, Matrices, otros; 4.- Registros de información tipo listados, registros o encuestas;
+1.- Mapas Temáticos, Fotografías aéreas, levantamientos de información espacial, croquis de ubicación de los sitios, delimitaciones geográficas, otras; 2.- Registro Fotográfico de cada uno de los sitios, ilustraciones, esquemas, diagramas, otros; 3.- Tablas, cuadros resúmenes, Matrices, otros; 4.- Registros de información tipo listados, registros o encuestas;
 
 5.- Otros que sean pertinentes y/o UMGIR considere necesarios.
 
@@ -8693,15 +8681,13 @@ Apéndice “A” Costos Apéndice “B” Personal Clave Ítem Cargo Asignado N
 
 #### Artículo 17
 
-ARTÍCULO 17.- Aprobar en todas y cada una de sus partes el CONTRATO No.
-
-1324/GLA/AMDC/2020.- CÓDIGO
+ARTÍCULO 17.- Aprobar en todas y cada una de sus partes el CONTRATO No. 1324/GLA/AMDC/2020.- CÓDIGO
 
 No.KfW-CP-025. “ESTUDIOS Y
 
-DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA U R B A N A D E L D I S T R I T O CENTRAL (VEINTIDÓS MEDIDAS PEQUEÑAS)”. CONCURSO PÚBLICO No. CPuNO-17- AMDC-96-2020, suscrito el 24 de Noviembre de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor PEDRO EDMUNDO PINEDA COBOS, en su condición de Representante Legal de la Empresa Técnica de Ingeniería S.A. de C.V., el que literalmente dice:
+DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA URBANA DEL DISTRITO CENTRAL (VEINTIDÓS MEDIDAS PEQUEÑAS)”. CONCURSO PÚBLICO No. CPuNO-17- AMDC-96-2020, suscrito el 24 de Noviembre de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor PEDRO EDMUNDO PINEDA COBOS, en su condición de Representante Legal de la Empresa Técnica de Ingeniería S.A. de C.V., el que literalmente dice:
 
-CONTRATO No.1324/GLA/AMDC/2020.- CÓDIGO No.KfW-CP-025 “ESTUDIOS Y DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA URBANA DEL DISTRITO CENTRAL (VEINTIDÓS MEDIDAS PEQUEÑAS)” CONCURSO PÚBLICO No. CPuNO-17- AMDC-96-2020 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación Acta N° 004 - GDFM - 2018 de fecha diecinueve (19) de enero del dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y PEDRO ERMUNDO PINEDA COBOS, de nacionalidad hondureña y de este domicilio con Tarjeta de Identidad número 1301-1947-00059, en su condición de Representante Legal de la Compañía TECNICA DE INGENIERIA, S.A. DE C.V. (TECNISA), R.T.N. No. 08019999400270, carácter que acredita el testimonio de la Escritura Pública No. 07, de fecha 23 de Enero del año 2002 autorizada por el Notario Juan Benjamín Cruz C. e Inscrito con el No. 52, Tomo 498 del Registro Mercantil de Francisco Morazán, Legalmente constituida mediante Testimonio de Escritura Pública No. 44 de fecha 11 de septiembre de 1976, autorizado por el Notario Aníbal E. Quiñonez e inscrito con No. 91 del tomo 99 del Registro de Comerciantes social de Tegucigalpa; quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute el contrato “ESTUDIO Y DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA URBANA DEL DISTRITO CENTRAL (VEINTIDOS MEDIDAS PEQUEÑAS), CON CÓDIGO No.KfW-CP-025”, Concurso Público No.
+CONTRATO No. 1324/GLA/AMDC/2020.- CÓDIGO No.KfW-CP-025 “ESTUDIOS Y DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA URBANA DEL DISTRITO CENTRAL (VEINTIDÓS MEDIDAS PEQUEÑAS)” CONCURSO PÚBLICO No. CPuNO-17- AMDC-96-2020 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con Tarjeta de Identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación Acta N° 004 - GDFM - 2018 de fecha diecinueve (19) de enero del dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y PEDRO ERMUNDO PINEDA COBOS, de nacionalidad hondureña y de este domicilio con Tarjeta de Identidad número 1301-1947-00059, en su condición de Representante Legal de la Compañía TECNICA DE INGENIERIA, S.A. DE C.V. (TECNISA), R.T.N. No. 08019999400270, carácter que acredita el testimonio de la Escritura Pública No. 07, de fecha 23 de Enero del año 2002 autorizada por el Notario Juan Benjamín Cruz C. e Inscrito con el No. 52, Tomo 498 del Registro Mercantil de Francisco Morazán, Legalmente constituida mediante Testimonio de Escritura Pública No. 44 de fecha 11 de septiembre de 1976, autorizado por el Notario Aníbal E. Quiñonez e inscrito con No. 91 del tomo 99 del Registro de Comerciantes social de Tegucigalpa; quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Consultor ejecute el contrato “ESTUDIO Y DISEÑOS DE LAS OBRAS PARA EL CONTROL DE DESLIZAMIENTOS E INUNDACIONES DEL ÁREA URBANA DEL DISTRITO CENTRAL (VEINTIDOS MEDIDAS PEQUEÑAS), CON CÓDIGO No.KfW-CP-025”, Concurso Público No.
 
 CPuNO-17-AMDC-96-2020; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la supervisión de la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
@@ -8759,7 +8745,7 @@ Revisar y verificar toda la información que deba ser presentada a través de te
 
 A la aplicación al trabajador, ejecutivo, representante, socio, asociado o apoderado que haya incumplido esta Cláusula, de las sanciones o medidas disciplinarias derivadas del régimen laboral y, en su caso entablar las acciones legales que correspondan. b. De parte del Contratante: i. A la eliminación definitiva del (Contratista o Consultor y a los subcontratistas responsables o que pudiendo hacerlo no denunciaron la irregularidad) de su Registro de Proveedores y Contratistas que al efecto llevare para no ser sujeto de elegibilidad futura en procesos de contratación. ii. A la aplicación al empleado o funcionario infractor, de las sanciones que correspondan según el Código de Conducta Ética del Servidor Público, sin perjuicio de exigir la responsabilidad administrativa, civil y/o penal a las que hubiere lugar. En fe de lo anterior, las partes manifiestan, la aceptación de los compromisos adoptados en el presente documento, bajo el entendido que esta Declaración forma parte integral del Contrato, firmando voluntariamente para constancia.
 
-CLÁUSULA OCTAVA: DECRETO No.171-2019, (ARTÍCULO 77 DE LAS DGP 2020). En caso de recorte presupuestario de fondos nacionales que se efectúe por razón de la situación económica y financiera del país, la estimación de la percepción de ingresos menores a los gastos proyectados y en caso de necesidades imprevistas o de emergencia, podrá dar lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que al pago correspondiente a las obras o servicios ya ejecutados a la fecha de vigencia de la rescisión o resolución del contrato.
+CLÁUSULA OCTAVA: DECRETO No. 171-2019, (ARTÍCULO 77 DE LAS DGP 2020). En caso de recorte presupuestario de fondos nacionales que se efectúe por razón de la situación económica y financiera del país, la estimación de la percepción de ingresos menores a los gastos proyectados y en caso de necesidades imprevistas o de emergencia, podrá dar lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que al pago correspondiente a las obras o servicios ya ejecutados a la fecha de vigencia de la rescisión o resolución del contrato.
 
 CLÁUSULA NOVENA: PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables:
 
@@ -9115,7 +9101,7 @@ a) Entrega validada y aprobada por DCyS y GOC de tres Perfiles de Proyectos para
 
 a) Entrega validada y aprobada por DCyS y GOC de siete Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes).
 
-4 Pago Lote No.3
+4 Pago Lote No. 3
 
 a) Entrega validada y aprobada por DCyS y GOC de ocho Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes).
 
@@ -9135,9 +9121,9 @@ Reteniéndose en cada pago el 12.5% sobre el valor de los honorarios por deducci
 
 16. Garantía de Cumplimiento de Contrato:
 
-EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución del estudio la siguiente garantía: a) Garantía de Cumplimiento de Contrato: Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento. La Garantía será presentada por EL Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución del estudio la siguiente garantía: a) Garantía de Cumplimiento de Contrato: Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento. La Garantía será presentada por EL Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -9471,7 +9457,7 @@ b. Informe de Inicio Dentro de los primeros veinte y cinco (25) días calendario
 
 El informe resumirá el progreso alcanzado por el Consultor, debiendo incluir los problemas identificados, las actividades relevantes ejecutadas, reuniones de trabajo con los representantes del contratante. Asimismo, en él se presentará a la AMDC el resultado de la caracterización preliminar de las amenazas, la identificación general de las vulnerabilidades locales ante los fenómenos hidrometeorológicos, la identificación de población en riesgo y activos expuestos, y finalmente, producto del análisis de los datos antes mencionados, los diseños conceptuales preliminarmente propuestos por el Consultor para ser consensuados con los representantes de la UMGIR. De la revisión de la UMGIR, la Firma Consultora recibirá las observaciones, y con ellas procederá a realizar los ajustes al diseño de la solución, para luego someterlas nuevamente a la aprobación por la UMGIR. Se deberá incluir en los contenidos del documento la respectiva memoria fotográfica y cualquier otra información 64 que se considere necesaria o que sea requerida a la Firma Consultora por la UMGIR.
 
-Salvo nuevos requerimientos de la UMGIR, los cuales sean solicitados a la Firma Consultora en la etapa de ejecución de la consultoría, la estructura mínima del informe deberá incluir mínimamente, lo siguiente: a).- Portada conteniendo Nombre del Proyecto, Fecha del Estudio, Nombre de los Sitios o Ubicaciones, otros que la UMGIR indique; b).- Tabla General de contenido (Incluye Índice con Tabla de Gráficos, Imágenes y Tablas); c).- Introducción del documento; d).- Descripción general de la metodología implementada por la Firma Consultora, en el estudio de cada uno de los casos; e).- División por capítulos del documento, estos dirigidos a presentar los principales hallazgos por cada uno de los sitios y las recomendaciones de intervención identificados para ellos; f).- Conclusiones Preliminares por cada uno de los sitios; g).- Recomendaciones Iniciales para cada uno de los sitios; g).- Anexos (En los casos que aplique, corresponderá a información adicional a la presentada en el documento): 1.- Mapas Temáticos, Fotografías aéreas, levantamientos de información espacial, croquis de ubicación de los sitios, delimitaciones geográficas, otras; 2.- Registro Fotográfico de cada uno de los sitios, ilustraciones, esquemas, diagramas, otros ; 3.- Tablas, cuadros resúmenes, Matrices, otros; 4.- Registros de información tipo listados, registros o encuestas; 5.- Otros que sean pertinentes y/o UMGIR considere necesarios.
+Salvo nuevos requerimientos de la UMGIR, los cuales sean solicitados a la Firma Consultora en la etapa de ejecución de la consultoría, la estructura mínima del informe deberá incluir mínimamente, lo siguiente: a).- Portada conteniendo Nombre del Proyecto, Fecha del Estudio, Nombre de los Sitios o Ubicaciones, otros que la UMGIR indique; b).- Tabla General de contenido (Incluye Índice con Tabla de Gráficos, Imágenes y Tablas); c).- Introducción del documento; d).- Descripción general de la metodología implementada por la Firma Consultora, en el estudio de cada uno de los casos; e).- División por capítulos del documento, estos dirigidos a presentar los principales hallazgos por cada uno de los sitios y las recomendaciones de intervención identificados para ellos; f).- Conclusiones Preliminares por cada uno de los sitios; g).- Recomendaciones Iniciales para cada uno de los sitios; g).- Anexos (En los casos que aplique, corresponderá a información adicional a la presentada en el documento): 1.- Mapas Temáticos, Fotografías aéreas, levantamientos de información espacial, croquis de ubicación de los sitios, delimitaciones geográficas, otras; 2.- Registro Fotográfico de cada uno de los sitios, ilustraciones, esquemas, diagramas, otros; 3.- Tablas, cuadros resúmenes, Matrices, otros; 4.- Registros de información tipo listados, registros o encuestas; 5.- Otros que sean pertinentes y/o UMGIR considere necesarios.
 
 En el caso específico de la información dividida en capítulos, dirigida a la descripción detallada para cada uno de los sitios, la información mínima del informe preliminar deberá ser la siguiente: a).- Detalles y resultados de la revisión y la validación para cada uno de los sitios, de los Estudios Hidrológicos e Hidráulicos, de Suelos y/o Geotecnia, así como de cualquier otro estudio en áreas afines o relacionadas, que estando a disponibilidad de la AMDC, esta considere pertinente su incorporación al proceso (Se incluyen caracterizaciones geológicas, geotécnicas, análisis hidrológico-hidráulicas, estudios de geofísica, otros); b).- La Caracterización general y preliminar de las Amenazas identificadas en el sitio de estudio, así como la identificación y estimación general de las vulnerabilidades de la población, sus activos y de sus medios de vida y subsistencia; c).- Identificación preliminar, en base a los resultados de la caracterización general y preliminar, del concepto de las alternativas de solución a proponer.
 
@@ -9639,21 +9625,21 @@ El personal clave mínimo de la consultoría es el siguiente:
 
 • Un Especialista en Seguridad Ocupacional / Bioseguridad
 
-• Al menos dos Especialistas en Estructuras I.10. Plazo de la Consultoría La Firma Consultora desarrollará en forma completa y satisfactoria los estudios y diseños asignados, dentro de un plazo de ciento ochenta (180) días calendario (seis meses), contados a partir de la fecha de la respectiva Orden de Inicio emitida por la AMDC. No obstante, la entrega de perfiles de proyectos por sitio podrá realizarse de forma parcial, mediante lotes según cronograma propuesto en anexo No.1 (Programación de entregas de perfiles de consultoría de Estudio y Diseño de Obras del Programa KfW / 2020), o de acuerdo a lo dispuesto por la AMDC de conformidad a los requerimientos del Programa.
+• Al menos dos Especialistas en Estructuras I.10. Plazo de la Consultoría La Firma Consultora desarrollará en forma completa y satisfactoria los estudios y diseños asignados, dentro de un plazo de ciento ochenta (180) días calendario (seis meses), contados a partir de la fecha de la respectiva Orden de Inicio emitida por la AMDC. No obstante, la entrega de perfiles de proyectos por sitio podrá realizarse de forma parcial, mediante lotes según cronograma propuesto en anexo No. 1 (Programación de entregas de perfiles de consultoría de Estudio y Diseño de Obras del Programa KfW / 2020), o de acuerdo a lo dispuesto por la AMDC de conformidad a los requerimientos del Programa.
 
 La entrega por lotes deberá asegurar a la AMDC que al final de los primeros tres meses de la ejecución de la consultoría, esta cuente con al menos tres perfiles de medidas estructurales 70 pequeñas. De la misma manera, al final del cuarto mes, nueve perfiles, siendo dos de ellos las medidas de tamaño mediano; al final del quinto mes, ocho pequeñas; y finalmente, al mes sexto, las últimas cuatro pequeñas. Cabe destacar que la última entrega deberá tener en cuenta los tiempos requeridos por la AMDC para la respectiva revisión y aprobación de los productos (perfiles), siendo así, que al final de los seis meses, AMDC se encuentre en condición de realizar el cierre físico y financiero de la consultoría.
 
 Se estimará, posterior a la entrega de cada uno de los lotes, un período mínimo de veinte (20) días calendario para la revisión por parte de las autoridades de la AMDC, y dentro de este tiempo, la Firma Consultora incorporará los ajustes y/o correcciones solicitados por la AMDC y entregue la versión definitiva del Perfil del Proyecto.
 
-I.11. Forma de Pago Item Concepto Entregables Porcentaje del Monto Contractual 1 Pago Inicial Plan de Trabajo e Informe preliminar del estudio y diseño 10% (de Inicio), una vez aprobado por la AMDC 2 Pago Lote No.1
+I.11. Forma de Pago Item Concepto Entregables Porcentaje del Monto Contractual 1 Pago Inicial Plan de Trabajo e Informe preliminar del estudio y diseño 10% (de Inicio), una vez aprobado por la AMDC 2 Pago Lote No. 1
 
-b) Entrega validada y aprobada por DCyS y GOC de tres Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes) 3 Pago Lote No.2
+b) Entrega validada y aprobada por DCyS y GOC de tres Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes) 3 Pago Lote No. 2
 
-b) Entrega validada y aprobada por DCyS y GOC de siete Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes) 4 Pago Lote No.3
+b) Entrega validada y aprobada por DCyS y GOC de siete Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes) 4 Pago Lote No. 3
 
 b) Entrega validada y aprobada por DCyS y GOC de ocho Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes).
 
-5 Pago Lote No.4
+5 Pago Lote No. 4
 
 b) Entrega validada y aprobada por DCyS y GOC de cuatro Perfiles de Proyectos para Medidas Pequeñas (Incluye las entregas respectivas previamente realizadas en tiempo y forma, para cada uno de los sitios, de: los informes de inicio, informes de caracterizaciones, Informe de Diseño Preliminar, Informe MPPI, Screening, PGAS, Diseños Finales y demás información contenida en estos términos de referencia, toda ella aprobada por la AMDC a través de las unidades correspondientes) 6 Pago Final Validación del Diseño Final por parte de la GOC y DCyS, a la UMGIR (Esta validación deberá realizarse al momento previo de la entrega de los perfiles por lotes, condición que asegurará a la AMDC proceder a la licitación de las obras.
 
@@ -9669,11 +9655,9 @@ APÉNDICE “C” PERSONAL CLAVE
 
 ARTÍCULO 18.- Aprobar en todas y cada una de sus partes el CONTRATO No. 0738/GLA/AMDC/ECA/2021.
 
-SERVICIOS DE CONSULTORÍA PARA “CONSTRUCCIÓN DE MECANISMOS DE MONITOREO Y SEGUIMIENTO PARA EL C U M P L I M I E N TO D E L O S COMPROMISOS GLOBALES A NIVEL LOCAL (ODS, CMNUCC, COP´S, OTRAS INICIATIVAS GLOBALES, ETC.) CÓDIGO N° ECA-C-003, suscrito el 17 de Junio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor JUAN CARLOS BENÍTEZ LÓPEZ, el que literalmente dice:
+SERVICIOS DE CONSULTORÍA PARA “CONSTRUCCIÓN DE MECANISMOS DE MONITOREO Y SEGUIMIENTO PARA EL CUMPLI MI EN TO DE LOS COMPROMISOS GLOBALES A NIVEL LOCAL (ODS, CMNUCC, COP´S, OTRAS INICIATIVAS GLOBALES, ETC.) CÓDIGO N° ECA-C-003, suscrito el 17 de Junio de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor JUAN CARLOS BENÍTEZ LÓPEZ, el que literalmente dice:
 
-CONTRATO No. 0738/GLA/AMDC/ECA/2021 Servicios de consultoría para “Construcción de mecanismos de monitoreo y seguimiento para el cumplimiento de los compromisos globales a nivel local (ODS, CMNUCC, COP´S, otras iniciativas globales, etc.) Código N°. ECA-C-003 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “El Contratante” por una parte y el señor JUAN CARLOS BENÍTEZ LÓPEZ, hondureño y de este domicilio, tarjeta de identidad No.
-
-0506-1965-01379, quien en lo sucesivo y para efectos de este contrato se denominará “El Consultor” por la otra parte; por cuanto El Contratante desea que El consultor cumpla con el contrato de servicios de consultoría para “Construcción de mecanismos de monitoreo y seguimiento para el cumplimiento de los compromisos globales a nivel local (ODS, CMNUCC, COP´S, otras iniciativas globales, etc.)”; en adelante denominado “Los Servicios”, y en consecuencia este contrato atestigua lo siguiente:
+CONTRATO No. 0738/GLA/AMDC/ECA/2021 Servicios de consultoría para “Construcción de mecanismos de monitoreo y seguimiento para el cumplimiento de los compromisos globales a nivel local (ODS, CMNUCC, COP´S, otras iniciativas globales, etc.) Código N°. ECA-C-003 Este contrato se celebra entre: NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, con tarjeta de identidad número 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve de enero de dos mil dieciocho (2018), quien para los efectos legales de este contrato se denominará “El Contratante” por una parte y el señor JUAN CARLOS BENÍTEZ LÓPEZ, hondureño y de este domicilio, tarjeta de identidad No. 0506-1965-01379, quien en lo sucesivo y para efectos de este contrato se denominará “El Consultor” por la otra parte; por cuanto El Contratante desea que El consultor cumpla con el contrato de servicios de consultoría para “Construcción de mecanismos de monitoreo y seguimiento para el cumplimiento de los compromisos globales a nivel local (ODS, CMNUCC, COP´S, otras iniciativas globales, etc.)”; en adelante denominado “Los Servicios”, y en consecuencia este contrato atestigua lo siguiente:
 
 1. Las palabras y expresiones utilizadas en este Contrato, tendrán el mismo significado que en las respectivas Condiciones del Contrato.
 
@@ -9901,9 +9885,7 @@ Para la realización de las actividades antes descritas, el consultor deberá co
 
 4.1 Duración de los servicios Los servicios de consultoría serán contratados por el período de Diez (10) meses a partir de la firma, se podrá prorrogar de acuerdo con su desempeño y la evaluación a satisfacción por parte de la AMDC; además de una solicitud oficial anticipada de la AMDC al Cooperante.
 
-4.2 Tipo de fondos para la financiación de la Consultoría Los servicios de consultoría serán financiados con fondos de la Cooperación Financiera Oficial de Alemania a través del KFW (Banco Alemán de Desarrollo Donación); BMZ N°.
-
-1994.70.295.
+4.2 Tipo de fondos para la financiación de la Consultoría Los servicios de consultoría serán financiados con fondos de la Cooperación Financiera Oficial de Alemania a través del KFW (Banco Alemán de Desarrollo Donación); BMZ N°. 1994.70.295.
 
 4.3 Criterios de Selección Formación. Licenciado en Economía, Administración de Empresas, Ingeniería, Arquitectura o carreras afines. Preferiblemente con Maestría en áreas de Monitoreo y Evaluación de Proyectos, Administración de Proyectos, Gestión de Desarrollo, Cambio Climático y/u Ordenamiento Territorial.
 
@@ -10039,7 +10021,7 @@ Word, Excel, etc.) Documentos digitales e impresos Total Lps.450,000.00
 
 ARTÍCULO 19.- Aprobar en todas y cada una de sus partes el CONTRATO No. AMDCUEP-BID-OFID-CC-02-20 DE “SERVICIOS DE CONSULTORÍA PARA SUPERVISIÓN DEL PASO ELEVADO EN TERCERA ENTRADA COL. KENNEDY”, PROCESO SP N°. BRT-255-SCCCF-AMDC-BID-OFID-01-20, suscrito el 18 de Diciembre de 2020, entre la Municipalidad del Distrito Central por medio del señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor FERNANDO BIER MARTINEZ, en su condición de representante legal de la empresa CONSORCIO GISYSTEMSREGIOPLAN-CODINCO, el que literalmente dice:
 
-República de Honduras Alcaldía Municipal del Distrito Central Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela) Préstamos BID No.2465/BL-HO y OFID No.1525/OPHO Contrato No. AMDC-UEP-BID-OFID-CC-02-20 de I “Servicios de consultoría para supervisión del Paso Elevado en Tercera Entrada Col. Kennedy” Proceso SP No.BRT-255-SCC-CF-AMDC-BID-OFID-01-20 Remuneración mediante pago de una suma global Entre:
+República de Honduras Alcaldía Municipal del Distrito Central Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela) Préstamos BID No. 2465/BL-HO y OFID No. 1525/OPHO Contrato No. AMDC-UEP-BID-OFID-CC-02-20 de I “Servicios de consultoría para supervisión del Paso Elevado en Tercera Entrada Col. Kennedy” Proceso SP No.BRT-255-SCC-CF-AMDC-BID-OFID-01-20 Remuneración mediante pago de una suma global Entre:
 
 F Y S
 
@@ -10117,11 +10099,11 @@ OFID-01-20
 
 Remuneración mediante pago de una suma global.
 
-Préstamos BID No.2465/BL-HO y OFID N°. 1525/0P HO.
+Préstamos BID No. 2465/BL-HO y OFID N°. 1525/0P HO.
 
 Este CONTRATO (el “Contrato”) se celebra el veintiocho
 
-(28) del mes de diciembre del año 2020, entre, La Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad No.0801-1958- 03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta No.GDFM - N°.004
+(28) del mes de diciembre del año 2020, entre, La Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad No. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta No.GDFM - N°. 004
 
 - 2018 de fecha 19 de enero de 2018 (el “Cliente”) de una parte y de otra parte un APCA, Denominada Consorcio Gisystems-Regioplan-Codinco, representada por Fernando Bier Martinez, carácter que acreditan mediante acuerdo de consorcio “Acta Notarial Extraprotocolaria” de fecha 11 de diciembre del año 2020, el APCA consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según este Contrato en particular, es decir Consultora en Proyectos de Ingeniería Civiles y de Sistemas, S.A. (Gisystems), representada por Gabriel Dario Berditchevsky; Consultores y Planificadores Regionales de Desarrollo, S. de R.L. (REGIOPLAN), representada por Fernando Bier Martinez; Corporación de Ingenieros Consultores, S. de R.L. (CODINCO), representada por José Armando Sierra Díaz, para la prestación de los “Servicios de consultoría para supervisión del Paso Elevado en Tercera Entrada Col. Kennedy” (los “Servicios”) que se describen en los Términos de Referencia en el Apéndice A.
 
@@ -10151,7 +10133,7 @@ ACUERDAN LO SIGUIENTE:
 
 (b) Apéndices:
 
-Apéndice A: T é r m i n o s d e R e f e r e n c i a y Requerimientos de Reporte Apéndice B: Expertos Clave Apéndice C: Desglose del Precio del Contrato EN TESTIMONIO DE LO CUAL, las Partes han causado que este Contrato sea firmado en sus respectivos nombres en la fecha escrita al comienzo.
+Apéndice A: Términos de Referencia y Requerimientos de Reporte Apéndice B: Expertos Clave Apéndice C: Desglose del Precio del Contrato EN TESTIMONIO DE LO CUAL, las Partes han causado que este Contrato sea firmado en sus respectivos nombres en la fecha escrita al comienzo.
 
 Por y en nombre de:
 
@@ -10207,7 +10189,7 @@ c. Medidas a 5.4 Una Parte afectada por un evento de Fuerza Mayor deberá contin
 
 5.7 Durante el tiempo de su incapacidad de prestar los Servicios como resultado de un evento de Fuerza Mayor, el Consultor, por instrucciones del Cliente, deberá:
 
-(a) desmovilizarse, en cuyo caso, se reembolsarán al Consultor los costos adicionales en que haya incurrido razonable y necesariamente, y, si así lo exige el Cliente, en la reactivación de los Servicios ; o
+(a) desmovilizarse, en cuyo caso, se reembolsarán al Consultor los costos adicionales en que haya incurrido razonable y necesariamente, y, si así lo exige el Cliente, en la reactivación de los Servicios; o
 
 (b) continuará con los Servicios en la medida que sea razonablemente posible, en cuyo caso, deberá seguírsele pagando al Consultor de acuerdo con los términos y condiciones de este Contrato y se le reembolsarán los costos adicionales en que haya incurrido, razonable y necesariamente.
 
@@ -10333,7 +10315,7 @@ CONSORCIO GISYSTEMSREGIOPLAN-CODINCO
 
 Dirección:
 
-Col. Parcaltagua, avenida José Manuel Arce, casa No.315 Honduras, C.A., teléfono 2221-1046 Atención:
+Col. Parcaltagua, avenida José Manuel Arce, casa No. 315 Honduras, C.A., teléfono 2221-1046 Atención:
 
 GABRIEL BERDITCHEVSKY / REPRESENTANTE LEGAL DEL CONSORCIO CEC 7.2
 
@@ -10385,61 +10367,61 @@ A. Pagos por productos a Requisito, producto y/o actividad
 
 • Entrega y aceptación de informe inicial e informe inicial socio-ambiental según el anexo Pago 2A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.1 de ejecución de la obra; precio de
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 1 de ejecución de la obra; precio de
 
-• Entrega y aceptación de informe mensual No.1 según el anexo A, correspondiente al mes No.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 1 según el anexo A, correspondiente al mes No. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental No.1 según el anexo A, correspondiente al mes No.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental No. 1 según el anexo A, correspondiente al mes No. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 3A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.2 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.2 según el anexo A, correspondiente al mes No.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 2 según el anexo A, correspondiente al mes No. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental No.2 según el anexo A, correspondiente al mes No.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental No. 2 según el anexo A, correspondiente al mes No. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 4A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.3 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.3 según el anexo A, correspondiente al mes No.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 3 según el anexo A, correspondiente al mes No. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes No.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes No. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 5A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.4 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental No.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental No. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 6A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental No.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental No. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 7A 8% de precio de contrato L.397,040.38
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental No.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental No. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -10679,7 +10661,7 @@ Con fondos provenientes del Banco Interamericano de Desarrollo (BID) Préstamo B
 
 Antes que el sistema BTR pueda dar inicio con la operación, se requiere construir un paso elevado para realizar el retorno en “U” de aproximadamente 180 metros en el sentido Norte- Sur del Bulevar Centroamérica, hacia el sentido Sur-Norte y 5 BTR: Bus de Tránsito Rápido también acceso a la tercera entrada de la colonia Kennedy, para que mejore tanto la circulación del BTR como la del tráfico mixto, de tal forma que la velocidad comercial del tráfico no se vea afectada. en dicha intersección.
 
-Por lo que, para proseguir con la realización del programa, la AMDC, con el apoyo del Fondo OPEC212 para el Desarrollo Internacional (OFID223) , fondo administrado por el Banco Interamericano de Desarrollo (BID), han estructurado bajo el Préstamo BID/OFID N°. 1525 OP-HO, la continuidad del Programa de Transporte Público para las ciudades de Tegucigalpa y Comayagüela.
+Por lo que, para proseguir con la realización del programa, la AMDC, con el apoyo del Fondo OPEC212 para el Desarrollo Internacional (OFID223), fondo administrado por el Banco Interamericano de Desarrollo (BID), han estructurado bajo el Préstamo BID/OFID N°. 1525 OP-HO, la continuidad del Programa de Transporte Público para las ciudades de Tegucigalpa y Comayagüela.
 
 2. Objetivo Supervisar la construcción: Paso Elevado en Tercera Entrada de la Colonia Kennedy ubicado en el Tramo 2, para asegurar la calidad de las obras, conforme a los requerimientos del Contratante, establecidos en los diseños, planos, especificaciones técnicas y mediante la aplicación de las mejores prácticas de ingeniería y arquitectura, contando con adecuados controles financieros, administrativos, ambientales y sociales para la correcta ejecución del proyecto a fin que las obras sean construidas por el Contratista cumpliendo con el alcance y en el tiempo establecido para su desarrollo y al costo determinado y/o al costo más ventajoso para el Contratante.
 
@@ -11073,7 +11055,7 @@ b. Todos los estudios, informes y demás documentos que prepare el Consultor en 
 
 6. Organización de la ejecución
 
-a. Introducción Los servicios de consultoría para la supervisión de la construcción del: Paso Elevado en Tercera entrada colonia Kennedy , objeto de estos términos de referencia, es una consultoría a ser contratada por la Alcaldía Municipal del Distrito Central (AMDC) a través de la Unidad Ejecutora del Programa de Transporte Público del Distrito Central (UEP).
+a. Introducción Los servicios de consultoría para la supervisión de la construcción del: Paso Elevado en Tercera entrada colonia Kennedy, objeto de estos términos de referencia, es una consultoría a ser contratada por la Alcaldía Municipal del Distrito Central (AMDC) a través de la Unidad Ejecutora del Programa de Transporte Público del Distrito Central (UEP).
 
 La UEP será responsable de llevar a cabo la coordinación de las diversas actividades relacionadas con las inversiones previstas y tendrá la responsabilidad técnica en la realización de las actividades sectoriales correspondientes y la administración tanto del contrato de consultoría como del contrato de construcción.
 
@@ -11081,7 +11063,7 @@ b. Descripción de las Obras y lugar de prestación de los servicios Las Obras c
 
 El proyecto consiste en el diseño de un Puente en “U” (Paso a Desnivel) que inicia en el Bulevar Centro América en el sentido norte-sur y gira en U a la trocha en el sentido sur-norte y tendrá también una conexión a la 3era entrada de la Colonia Kennedy. El proyecto poseerá una longitud de puente de 162 metros y tres aproximaciones de 40, 27 y 20 metros de longitud, consistirá de nueve
 
-(9) tramos en total , de diferente cantidad de vigas cada uno, distribuidos de la siguiente forma 5 tramos con un total de 18 vigas pre-esforzadas (Postensadas), se instalaran 20 vigas tipo doble T o vigas canaleta para los tramos con longitud menor a 15 metros y dos tramos de losa solida de concreto reforzado con un espesor de 40 cm. también Contará con 12 pilastras de 1.00 x 2.00 mts. Con detalles arquitectónicos. Habrá ampliaciones de calzadas en el Bulevar y calles que se intersectan, así mismo se contará con señalización adecuada tanto horizontal como vertical, De igual manera contará con bordillos, aceras y áreas verdes, se mejorará el sistema eléctrico e iluminación, como también se reacomodarán los sistemas de drenajes y acueductos, este diseño tiene como propósito es de liberar el congestionamiento que se está generando en este cruce en las horas de mayor tráfico (denominado horas pico)
+(9) tramos en total, de diferente cantidad de vigas cada uno, distribuidos de la siguiente forma 5 tramos con un total de 18 vigas pre-esforzadas (Postensadas), se instalaran 20 vigas tipo doble T o vigas canaleta para los tramos con longitud menor a 15 metros y dos tramos de losa solida de concreto reforzado con un espesor de 40 cm. también Contará con 12 pilastras de 1.00 x 2.00 mts. Con detalles arquitectónicos. Habrá ampliaciones de calzadas en el Bulevar y calles que se intersectan, así mismo se contará con señalización adecuada tanto horizontal como vertical, De igual manera contará con bordillos, aceras y áreas verdes, se mejorará el sistema eléctrico e iluminación, como también se reacomodarán los sistemas de drenajes y acueductos, este diseño tiene como propósito es de liberar el congestionamiento que se está generando en este cruce en las horas de mayor tráfico (denominado horas pico)
 
 c. Realización de los servicios El Consultor desarrollará sus actividades de acuerdo a la naturaleza del proyecto y lo descrito en estos términos de referencia y estará obligado a cumplir con las instrucciones que le imparta el Contratante; debiendo asumir todas las obligaciones de supervisión de carácter técnico, económico, administrativo y ambiental y social, de acuerdo con las mejores prácticas de ingeniería, arquitectura y de carácter ambiental y social, como lo requiere la naturaleza de estos trabajos.
 
@@ -11301,61 +11283,61 @@ A. Pagos por productos Pago Equivalente a Requisito, producto y/o actividad Pago
 
 • Entrega y aceptación de informe inicial e informe inicial socioambiental según el anexo A. contrato Pago 2A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.1 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.1 según el anexo A, correspondiente al mes No.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 1 según el anexo A, correspondiente al mes No. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.1 según el anexo A, correspondiente al mes No.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 1 según el anexo A, correspondiente al mes No. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 3A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.2 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.2 según el anexo A, correspondiente al mes No.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 2 según el anexo A, correspondiente al mes No. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental No.2 según el anexo A, correspondiente al mes No.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental No. 2 según el anexo A, correspondiente al mes No. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 4A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.3 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.3 según el anexo A, correspondiente al mes No.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 3 según el anexo A, correspondiente al mes No. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.3 según el anexo A, correspondiente al mes No.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 3 según el anexo A, correspondiente al mes No. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 5A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.4 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.4 según el anexo A, correspondiente al mes No.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 4 según el anexo A, correspondiente al mes No. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental No.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental No. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 6A 8% de la porción de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.5 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.5 según el anexo A, correspondiente al mes No.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 5 según el anexo A, correspondiente al mes No. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental No.5 según el anexo A, correspondiente al mes No.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental No. 5 según el anexo A, correspondiente al mes No. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 7A 8% de precio de contrato
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes No. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual No.6 según el anexo A, correspondiente al mes No.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual No. 6 según el anexo A, correspondiente al mes No. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental No.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental No. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -11819,17 +11801,15 @@ Nombre Cargo N-1 A nombrarse laboratorista N-2 A nombrarse Asistente de laborato
 
 Descripción Unidad 1 Material de oficina Mes 4,500.00 8 36,000.00 2 Materiales de ingeniería Mes 4,500.00 8 36,000.00 3 Reporte y reproducción Mes 6,000.00 8 48,000.00 4 Alquiler de oficina Mes 5,000.00 8 40,000.00 5 Servicios públicos de oficina Mes 3,500.00 8 28,000.00 6 Comunicaciones Mes 1,500.00 8 12,000.00 7 Subsistencia personal de campo Mes 5,000.00 12.5 62,500.00 8 Equipo de bioseguridad personal de campo Global 180,000.00 1 180,000.00 9 Seguro patronal (3% de sueldos y salarios) Global 1,602,350.00 3% 48,070.50 10 Alquiler de vehículos Mes 20,000.00 16 320,000.00 11 Alquiler equipo de laboratorio Mes 15,000.00 6 90,000.00 12 Servicios de topografía Mes 75,000.00 4 300,000.00 13 Alquiler de equipo de oficina, informática Mes 5,500.00 8 44,000.00 Precio total por gastos reembolsables 1,244,570.50 20 La información suministrada en este Formulario será utilizada únicamente para demostrar la base del cálculo del monto de tope del Contrato; para calcular impuestos aplicables, y si se requiere, para establecer pagos al Consultor por concepto de posibles servicios adicionales solicitados por el Cliente. Este Formulario no será utilizado como base para pagos bajo contratos de Suma Global.
 
-Sección “A”-2 sus partes el CONVENIO No.
-
-AMDC-UEP-BID-OFID-CO-03-20 DE CONSTRUCCIÓN PASO ELEVADO TERCERA ENTRADA COL. KENNEDY. PROCESO SP No.BRT-256-LPN-O-AMDC-BIDOFID-2020. PRÉSTAMOS BID No.2465/BL-HO Y OFID No.1525/0PHO, suscrito el 4 de Diciembre de 2020, entre la Municipalidad del Distrito Central por medio del Señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor ALLAN FABRICIO FIALLOS WILLIAMS, en su condición de Representante Legal del Consorcio Dynamica, el que literalmente dice:
+Sección “A”-2 sus partes el CONVENIO No. AMDC-UEP-BID-OFID-CO-03-20 DE CONSTRUCCIÓN PASO ELEVADO TERCERA ENTRADA COL. KENNEDY. PROCESO SP No.BRT-256-LPN-O-AMDC-BIDOFID-2020. PRÉSTAMOS BID No. 2465/BL-HO Y OFID No. 1525/0PHO, suscrito el 4 de Diciembre de 2020, entre la Municipalidad del Distrito Central por medio del Señor Alcalde NASRY JUAN ASFURA ZABLAH y el señor ALLAN FABRICIO FIALLOS WILLIAMS, en su condición de Representante Legal del Consorcio Dynamica, el que literalmente dice:
 
 Convenio No.AMDC-UEP-BID-OFID-CO-03-20 de Construcción paso elevado tercera entrada Col. Kennedy.
 
-Proceso SP No.BRT-256-LPN-O-AMDC-BID-OFID-2020 Préstamos BID No.2465/BL-HO y OFID No.1525/0P-HO Este Convenio se celebra el cuatro (04) de diciembre, de 2020 entre la Alcaldía Municipal del Distrito Central, representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con tarjeta de identidad No.
+Proceso SP No.BRT-256-LPN-O-AMDC-BID-OFID-2020 Préstamos BID No. 2465/BL-HO y OFID No. 1525/0P-HO Este Convenio se celebra el cuatro (04) de diciembre, de 2020 entre la Alcaldía Municipal del Distrito Central, representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con tarjeta de identidad No.
 
 Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta No.
 
-GDFM – No. 004 - 2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con Tarjeta de Identidad número 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica, carácter que acredita en la Escritura Pública No.96, inscrita con el número 55498, matrícula 2523072/2513531/2532011 del Registro Mercantil de Francisco Morazán en fecha 21 de agosto de 2019, autorizada por la Notaria Rebeca Lizette Ráquel Obando; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según este Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte;
+GDFM – No. 004 - 2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con Tarjeta de Identidad número 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica, carácter que acredita en la Escritura Pública No. 96, inscrita con el número 55498, matrícula 2523072/2513531/2532011 del Registro Mercantil de Francisco Morazán en fecha 21 de agosto de 2019, autorizada por la Notaria Rebeca Lizette Ráquel Obando; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según este Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte;
 
 Por cuanto el Contratante desea que el Contratista ejecute el proyecto: “Construcción paso elevado tercera entrada Col.
 
@@ -12453,7 +12433,7 @@ CGC 1.1 (r) La Fecha Prevista de Terminación de la totalidad de las Obras es se
 
 CGC 1.1 (u) El Gerente de Obras es la firma consultora contratada por el Contratante para la supervisión de la construcción de las obras, objeto de este contrato, y que le será notificado oportunamente al Contratista.
 
-CGC 1.1 (w) El Sitio de las Obras está ubicada en ubicado en el bulevar Kennedy en Tegucigalpa, Municipio del Distrito Central, Honduras, C.A. y está definida en el plano No.1-2, código Dxxxx-UB-(01-02) del Proyecto.
+CGC 1.1 (w) El Sitio de las Obras está ubicada en ubicado en el bulevar Kennedy en Tegucigalpa, Municipio del Distrito Central, Honduras, C.A. y está definida en el plano No. 1-2, código Dxxxx-UB-(01-02) del Proyecto.
 
 CGC 1.1 (z) La Fecha de Inicio es la fecha que se indique en la orden de inicio que no podrá ser establecida antes del pago del anticipo.
 
@@ -12853,7 +12833,7 @@ i. Requerimientos Generales A. Alcance del Trabajo
 
 (a) Localización del Proyecto El proyecto se localiza en la ciudad de Tegucigalpa, departamento de Francisco Morazán, sobre el Bulevar Centroamérica hacia la 3era Entrada de la Colonia Kennedy.
 
-(b) Descripción del Proyecto El proyecto consiste en la construcción de un Paso a Desnivel que inicia en el Bulevar Centro América dirección norte- sur haciendo un giro en U y simultáneamente un acceso en la 3er. entrada a la Colonia Kennedy.
+(b) Descripción del Proyecto El proyecto consiste en la construcción de un Paso a Desnivel que inicia en el Bulevar Centro América dirección norte-sur haciendo un giro en U y simultáneamente un acceso en la 3er. entrada a la Colonia Kennedy.
 
 El proyecto poseerá una longitud de puente de 162 metros y tres aproximaciones de 40, 27 y 20 metros de longitud, consistirá de secciones de diferente cantidad de vigas cada uno, distribuidos de la siguiente forma 3 tramos con vigas fabricadas en sitio, se instalarán 20 vigas tipo doble T o vigas canaleta para los tramos con longitud menor a 15 metros y dos tramos de losa solida de concreto reforzado con un espesor de 40 cm. también Contará con pilastras de 1.00 x 2.00 mts.
 
@@ -13385,7 +13365,7 @@ E.
 
 Medición y Forma de Pago Este concepto se medirá y pagará por kilogramo (KG) de acero colocado de acuerdo a planos o indicado por la supervisión, pago que incluirá todos los materiales, mano de obra, herramientas equipos, empalmes o traslape y demás imprevistos para ejecutar estos trabajos de manera satisfactoria y tal como aquí se describe. No se pagará alzas, separadores u otros y todo acero que se utilice para los diferentes métodos constructivos. vii.
 
-Concreto Hidráulico e: 20 cm MR 650 PSI (A.7, B.8) A. Descripción Este trabajo consiste en la elaboración, transporte, colocación, compactación y acabado de una mezcla de concreto hidráulico como estructura de un pavimento con o sin refuerzo en las ampliaciones y obras complementarias, en aproximaciones y en restauración de estructura de pavimento que hayan sido removidas ; la ejecución de juntas, el acabado, el curado y demás actividades necesarias para la correcta construcción del pavimento, de acuerdo con los alineamientos, cotas, secciones y espesores indicados en los planos del proyecto y con estas especificaciones.
+Concreto Hidráulico e: 20 cm MR 650 PSI (A.7, B.8) A. Descripción Este trabajo consiste en la elaboración, transporte, colocación, compactación y acabado de una mezcla de concreto hidráulico como estructura de un pavimento con o sin refuerzo en las ampliaciones y obras complementarias, en aproximaciones y en restauración de estructura de pavimento que hayan sido removidas; la ejecución de juntas, el acabado, el curado y demás actividades necesarias para la correcta construcción del pavimento, de acuerdo con los alineamientos, cotas, secciones y espesores indicados en los planos del proyecto y con estas especificaciones.
 
 B. Materiales Se utilizará concreto con un módulo de ruptura de 650 psi (equivalente a 5,800 psi a compresión), a los 28 días y un revenimiento dentro un margen entre 2 y 3 pulgadas, en el caso de que se usen aditivos plastificantes se permitirá hasta
 
@@ -13745,9 +13725,7 @@ G. Medición y Forma de Pago Se pagara al precio unitario de contrato por metro 
 
 En caso de haber sobre excavación, ésta se pagara por el ítem contractual respectivo es decir la actividad de excavación común. xv.
 
-Bordillos de Concreto f’c: 210 Kg/cm2 pin #3@20 cm (A.17, A.18, A.19) E. Descripción La actividad incluye el encofrado, fundido, desencofrado y curado de bordillo de concreto f’c: 210 kg/cm2 de 15x 15 cm; 15 x 25 cm y 25 x 25 cm. Este trabajo consistirá en la construcción del bordillo, según las especificaciones siguientes, y de conformidad con los detalles, alineaciones y rasantes que figuran en los planos o sean fijadas por el Ingeniero, incluyendo la instalación de pines de acero No.
-
-3 grado 40 a cada 20 cm y de la longitud indicada en cada concepto.
+Bordillos de Concreto f’c: 210 Kg/cm2 pin #3@20 cm (A.17, A.18, A.19) E. Descripción La actividad incluye el encofrado, fundido, desencofrado y curado de bordillo de concreto f’c: 210 kg/cm2 de 15x 15 cm; 15 x 25 cm y 25 x 25 cm. Este trabajo consistirá en la construcción del bordillo, según las especificaciones siguientes, y de conformidad con los detalles, alineaciones y rasantes que figuran en los planos o sean fijadas por el Ingeniero, incluyendo la instalación de pines de acero No. 3 grado 40 a cada 20 cm y de la longitud indicada en cada concepto.
 
 F. Materiales El material a utilizar será concreto simple clase “A”, resistencia mínima, 210 Kg/cm² (3000Lb/Pulg²), que deberá satisfacer los requerimientos del concepto de obra respectivo de estas especificaciones y acero No. 3 grado 40.
 
@@ -13879,7 +13857,7 @@ Impurezas orgánicas: todo agregado fino debe estar libre de estas impurezas, se
 
 Graduación: El agregado fino debe ser bien graduado de grueso a fino, esta graduación será la siguiente:
 
-Tamaño de Tamiz % que pasa 3/8" (9.50 mm.) 100 No.4 (4.75 mm.) 95-100 No.16 (1.18 mm.) 45-80 No.50 (0.30 mm.) 10-30 No.100 (0.15 mm.) 2-10 Módulo de finura: El módulo de finura debe estar entre 2.3 y 3.2 al estar usando el agregado fino de una misma fuente no debe variar en más de 0.20. Para calcular el módulo de finura habrá que usar todos los tamices que no están especificados en la graduación, es decir, hay que usar los tamices siguientes: 3/8”, No.4, No.8, No.16, No.30, No.50 y No.100.
+Tamaño de Tamiz % que pasa 3/8" (9.50 mm.) 100 No. 4 (4.75 mm.) 95-100 No. 16 (1.18 mm.) 45-80 No. 50 (0.30 mm.) 10-30 No. 100 (0.15 mm.) 2-10 Módulo de finura: El módulo de finura debe estar entre 2.3 y 3.2 al estar usando el agregado fino de una misma fuente no debe variar en más de 0.20. Para calcular el módulo de finura habrá que usar todos los tamices que no están especificados en la graduación, es decir, hay que usar los tamices siguientes: 3/8”, No. 4, No. 8, No. 16, No. 30, No. 50 y No. 100.
 
 b) Agregado grueso El agregado grueso consistirá de piedra quebrada, grava, escorias de altos hornos, u otro material inerte, aprobado de similares características o combinaciones, debiendo ser duro, resistente, libre de capas adherentes y de acuerdo a las especificaciones AASHTO M-80-87. Deberá cumplir con los requerimientos siguientes:
 
@@ -13955,7 +13933,7 @@ f) Acabado El acabado de las losas será integral, una vez que el concreto ha si
 
 g) Curado del Concreto El curado debe comenzarse inmediatamente después de que desaparezca el agua libre de la superficie y se debe hacer utilizando membrana para curado( productos químicos de curado). El tipo de membrana de curado debe ser aprobado por el ingeniero Supervisor.
 
-Se evitarán todas las perturbaciones externas, como sobrecargas o vibraciones ( las tuberías que transportan el concreto) , que puedan provocar la figuración del concreto.
+Se evitarán todas las perturbaciones externas, como sobrecargas o vibraciones ( las tuberías que transportan el concreto), que puedan provocar la figuración del concreto.
 
 h) Juntas del Concreto Se respetará la distribución de juntas del concreto indicada en los planos. Todas las juntas serán cortadas con sierra, salvo las juntas constructivas y las juntas de dilatación, todo de acuerdo a lo indicado en los planos. La relación entre el largo y el ancho de las pastillas no deberá ser mayor de 1.25.
 
@@ -14073,7 +14051,7 @@ En todo momento se deberá llevar un registro de las presiones manométricas, as
 
 j) Adhesión del Acero El acero pos tensado deberá ser adherido al concreto, excepto cuando esa adhesión no fuese factible.
 
-Todo refuerzo pres forzado que fuese a ser adherido al concreto deberá estar libre de suciedad, moho suelto, grasa u otras substancias deletéreas. El espacio anular entre el perímetro del encerramiento y el acero deberá recibir una lechada de cemento a presión, después de terminado el proceso de tensado. La lechada debe tener la consistencia de la pintura espesa, y deberá mezclar en las proporciones, por volumen, de una parte de Cemento Portland con 0.75 de parte (como máximo) de arena que pase por un tamiz No.30 y 0.75 parte (como máximo) de agua. Dentro de los límites especificados, las proporciones de arena y de agua deberán ser cambiadas para obtener la resistencia y fluidez requeridas. Con ese objeto puede ser necesario eliminar la arena de la revoltura y emplear cemento puro en la lechada.
+Todo refuerzo pres forzado que fuese a ser adherido al concreto deberá estar libre de suciedad, moho suelto, grasa u otras substancias deletéreas. El espacio anular entre el perímetro del encerramiento y el acero deberá recibir una lechada de cemento a presión, después de terminado el proceso de tensado. La lechada debe tener la consistencia de la pintura espesa, y deberá mezclar en las proporciones, por volumen, de una parte de Cemento Portland con 0.75 de parte (como máximo) de arena que pase por un tamiz No. 30 y 0.75 parte (como máximo) de agua. Dentro de los límites especificados, las proporciones de arena y de agua deberán ser cambiadas para obtener la resistencia y fluidez requeridas. Con ese objeto puede ser necesario eliminar la arena de la revoltura y emplear cemento puro en la lechada.
 
 En caso de usar polvo de aluminio para dar mayor poder expansivo a la lechada, deberá añadirse como sigue:
 
@@ -14419,7 +14397,7 @@ Los postes presentados para la inspección deben estar totalmente terminados con
 
 DEFECTOS CRÍTICOS CLASE DESCRIPCIÓN 1.6.3 INSPECCIÓN Y PRUEBAS La inspección y pruebas que se requieran deben efectuarse conforme a procedimientos vigentes, bajo la responsabilidad y medios proporcionados por el Proveedor, y reportados tal y como se menciona en la tabla 4.
 
-1 . 6 . 4 I N S P E C C I Ó N V I S U A L D E L A S CARACTERÍSTICAS FÍSICAS. SELECCIÓN Y TAMAÑO DE LA MUESTRA.
+1 . 6 . 4 INSPECCIÓN VISUAL DE LAS CARACTERÍSTICAS FÍSICAS. SELECCIÓN Y TAMAÑO DE LA MUESTRA.
 
 La muestra debe seleccionarse aleatoriamente y su tamaño se determinará conforme el tamaño del lote a inspeccionar y el tipo de defecto por verificar.
 
@@ -14527,7 +14505,7 @@ De cada prueba debe efectuarse la gráfica correspondiente carga detonación, re
 
 1.8 MARCADO
 
-Los postes deben marcarse en su pared exterior a partir de 3 m. de la base, con caracteres perfectamente claros en bajorrelieve, de una altura entre 30 mm. y 40 mm. con los datos que se indican a continuación, en el orden mostrado en la figura No.1.
+Los postes deben marcarse en su pared exterior a partir de 3 m. de la base, con caracteres perfectamente claros en bajorrelieve, de una altura entre 30 mm. y 40 mm. con los datos que se indican a continuación, en el orden mostrado en la figura No. 1.
 
 - Línea perimetral a 3 m. de la base - Número de serie del poste - Siglas “ENEE” - Longitud total en metros - Resistencia del poste en Kgf.
 
@@ -14539,7 +14517,7 @@ Las estibas deben disponer del espacio necesario que permita movimientos futuros
 
 1.9.2 TRANSPORTE
 
-La transportación debe ser conforme a la norma ACI- 318, debiéndose apoyar mínimo en tres puntos repartidos uniformemente a lo largo del poste, en camas encontradas y separadas entre sí por soportes de madera, además de cumplir con los siguientes puntos:
+La transportación debe ser conforme a la norma ACI-318, debiéndose apoyar mínimo en tres puntos repartidos uniformemente a lo largo del poste, en camas encontradas y separadas entre sí por soportes de madera, además de cumplir con los siguientes puntos:
 
 a) Durante el almacenamiento y transporte, los postes no deben sobrecargarse, alabearse, dañarse o tener una contra flecha que los pueda afectar adversamente.
 
@@ -14741,7 +14719,7 @@ En presencia del supervisor y la ENEE, el contratista de la obra electromecánic
 
 X.
 
-O B R A S A D I C I O N A L E S A L A S ESTIPULADAS EN EL CONTRATO O ADICIONALES A LAS INDICADAS EN LOS PLANOS
+OBRAS ADICIONALES A LAS ESTIPULADAS EN EL CONTRATO O ADICIONALES A LAS INDICADAS EN LOS PLANOS
 
 I. Cualquier obra que requiera por parte del Propietario y que no esté contemplada en los planos será considerada como una obra adicional; antes de su ejecución, durante el período de construcción, será puesta bajo consideración del supervisor. El contratista de la obra electromecánica de común acuerdo con la opinión del Supervisor, revisarán el alcance de la obra y evaluarán económicamente su ejecución; si hay acuerdo se procederá a elaborar una hoja de “orden de trabajo” donde se muestre la descripción de la obra, los materiales involucrados y tiempo en mano de obra, todo con sus respectivos costos y debidamente firmada tanto por el contratista de la obra electromecánica como por el Supervisor.
 
@@ -14877,7 +14855,7 @@ Suministro e Instalación de alimentador para luminarias con cable 2x6 + 1x8 THH
 
 IE6.5 Consiste en el suministro e instalación de ductos de IMC, EMT, PVC, Ced 40, Diam 1’’, accesorios, IMC, EMT, PVC, cables eléctricos, guía para el tendido de conductores y todo lo necesario para que se pueda transportar energía eléctrica desde el transformador ubicado en poste bajando subterráneo para aproximarlo a la barrera jersey del puente, incluye cajas de registro de acuerdo a las necesidades propias del proyecto.
 
-P a g o s : S e p a g a r á c a d a m l e n t r e g a d o y recibido por la supervisión para tales fines.
+Pagos: S e p a g a r á c a d a m l e n t r e g a d o y recibido por la supervisión para tales fines.
 
 Suministro e Instalación de Luminaria Tipo Canopy 50 W, Led, 120V, instaladas bajo losa del puente IE 6.6 Consiste en el suministro e instalación de luminaria Tipo Canopy de 50W, LED, incluye pernos de máquina, de rosca corrida, conectores de compresión, alambres de amarre, cable de cobre 14 THHN, todo de acuerdo a las normas vigentes y el NEC mismo.
 
@@ -14959,7 +14937,7 @@ Requisitos De Tubería La tubería deberá cumplir con los requisitos dimensiona
 
 Desempeño de la Junta El sistema de acoplamiento por medio de campana y espiga, el empaque cumplirá con las especificaciones de fabricación ASTM - F477-10, el empaque será colocado en su asiento por el fabricante y cuenta con una envoltura plástica removible que lo protegerá del sol y de daños por arrastres leves, almacenamiento o transportación. La envoltura plástica deberá removerse únicamente hasta el momento en que se va a instalar. La espiga contará con un empaque en diámetros de 150 a 375 mm (6” a 15”) y con doble empaque en diámetros de 450 a 1,500 mm (18” a 60”).
 
-La campana contará con refuerzo cerámico compuesto de fibra de vidrio y polietileno que funciona como abrazadera manteniendo estable el perímetro de la campana durante los eventos de presión, la banda cerámica se colocará en tubería de 450 a 1,500 mm (18” a 60”) La junta deberá ser hermética al agua y cumplir con la hermeticidad de la norma ASTM - D3212-07 y con la Norma NOM- 001-CONAGUA-11 Sección 6.3.2 y apéndice A. Las juntas deben permanecer herméticas al agua cuando se sujeten a un desalineamiento de 1.5 grados del eje. Para el ensamble de la espiga en la campana, debe usarse un lubricante de juntas suministrado por el fabricante, se aplica sobre el empaque y la pared interior de la campana antes de proceder al ensamble.
+La campana contará con refuerzo cerámico compuesto de fibra de vidrio y polietileno que funciona como abrazadera manteniendo estable el perímetro de la campana durante los eventos de presión, la banda cerámica se colocará en tubería de 450 a 1,500 mm (18” a 60”) La junta deberá ser hermética al agua y cumplir con la hermeticidad de la norma ASTM - D3212-07 y con la Norma NOM-001-CONAGUA-11 Sección 6.3.2 y apéndice A. Las juntas deben permanecer herméticas al agua cuando se sujeten a un desalineamiento de 1.5 grados del eje. Para el ensamble de la espiga en la campana, debe usarse un lubricante de juntas suministrado por el fabricante, se aplica sobre el empaque y la pared interior de la campana antes de proceder al ensamble.
 
 En un ensamble espiga-campana, la separación máxima entre espiga y campana deberá ser menor a 10 mm en diámetros de 150 mm a 450 mm (6” a 18”) y de 20 mm en diámetros de 600 a 1,500 mm (24” a 60”).
 
@@ -15235,7 +15213,7 @@ Remoción y sustitución tubería PVC 8” Ø RD-21 Incluye material nuevo, exca
 
 (E.18)
 
-D E S C R I P C I Ó N D E L A ACTIVIDAD
+DESCRIPCIÓN DE LA ACTIVIDAD
 
 La actividad consiste en realizar la remoción de la tubería PVC dañada o en desuso y el respectivo suministro e instalación de la nueva tubería PVC de 8” de diámetro, RD-21 a ser instalada según planos, la cual deberá ser trasportada, almacenada y manejada de modo que se evite el daño.
 
@@ -15327,7 +15305,7 @@ Según la normativa del país el Contratista debe contar con un Reglamento Inter
 
 1.F. Permanencia de Cobertura de Medidas:
 
-Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad y bioseguridad ocupacional- vial- ambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día, los 7 días de la Semana, así como la señalización y delimitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original.
+Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad y bioseguridad ocupacional-vial- ambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día, los 7 días de la Semana, así como la señalización y delimitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original.
 
 Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.) que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento. (Inc. Tipo L).
 
@@ -16277,7 +16255,7 @@ Complementariamente, se llevará un Registro de Accidentes, que será remitido e
 
 6. 3.h Presentar para aprobación los distintos Permisos de Trabajo con las medidas que garanticen la integridad física de los obreros, identificadas en los formatos preestablecidos en este documento y complementado con las medidas requeridas que se identifican en la Visita de Inspección previa de cada actividad del Programa de Trabajo.
 
-7 . - C A U S A L E S D E S A N C I O N E S P O R INCUMPLIMIENTOS DE SEGURIDAD.
+7 . - CAUSALES DE SANCIONES POR INCUMPLIMIENTOS DE SEGURIDAD.
 
 • Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.), que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento (Inc. Tipo L).
 
@@ -16349,19 +16327,19 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - ALTURA TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - ALTURA TRABAJO:
 
-FECHA :
+FECHA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
 USUARIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES:
 
@@ -16417,19 +16395,19 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - EXCAVACIONES Y TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - EXCAVACIONES Y TRABAJO:
 
 FECHA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
 USUARIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES:
 
@@ -16463,17 +16441,17 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - IZAJE Y GRÚAS TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - IZAJE Y GRÚAS TRABAJO:
 
-UBICACIÓN :
+UBICACIÓN:
 
 CONTRATISTA USUARIO:
 
 FECHA:
 
-HORA INICIO :
+HORA INICIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES
 
@@ -16501,17 +16479,17 @@ Línea de anclaje sin absorbedor de impacto Filtro para polvo P100 5.- HERRAMIEN
 
 VERSION:
 
-PERMISO DE TRABAJO PARA TRAFICO Y SEGURIDAD VIAL TRABAJO :
+PERMISO DE TRABAJO PARA TRAFICO Y SEGURIDAD VIAL TRABAJO:
 
-VIGENCIA :
+VIGENCIA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
-HORA FINAL :
+HORA FINAL:
 
 × NA √
 
@@ -17185,7 +17163,7 @@ Elcosh. Biblioteca Electrónica de Salud y Seguridad Ocupacional en la Construcc
 
  Manual de Seguridad Vial, Imagen Institucional y Prevención de Riesgos en zonas de trabajo. FOVIAL.
 
-Como base de criterios se deberá priorizar lo regulado por las leyes que rigen el territorio de Honduras a través del Reglamento General de Medidas Preventivas de Accidentes de Trabajo y Enfermedades Profesionales (RGMPATEP) e instituciones oficiales del país reguladoras en este campo, auxiliados por las Normas Internacionales como la OSHA- 1926, SIECA y otras.
+Como base de criterios se deberá priorizar lo regulado por las leyes que rigen el territorio de Honduras a través del Reglamento General de Medidas Preventivas de Accidentes de Trabajo y Enfermedades Profesionales (RGMPATEP) e instituciones oficiales del país reguladoras en este campo, auxiliados por las Normas Internacionales como la OSHA-1926, SIECA y otras.
 
 Anexo A. Plan de Manejo de Tráfico, Señalización y Desvíos Temporales durante Construcción (PMT)
 
@@ -18815,7 +18793,7 @@ Planos Las decisiones tomadas en los comités no pueden implicar:
 
 A dicho comité deben asistir como mínimo los especialistas socioambientales del Gerente de Obras y del Contratista con su homólogo del Contratante.
 
-Lista de Planos Construcción paso elevado tercera entrada col. Kennedy N° plano Planos generales código Portada Dxxxx-PO-01 1-2 Ubicación e índice Dxxxx-UB-(01-02) 3-5 Plano de Cantidades de obra Dxxxx-CO-(01-02) 6-8 Planta Topográfica Dxxxx-TP-(01-03) 9-11 Planta General-Novel de calle Dxxxx-GN-(01-03) 12-14 Planta General-Novel de Puente Dxxxx-GN-(04-07) 15-17 Planta Constructiva-Nivel de Calle Dxxxx-ES-(01-03) 18-20 Planta Constructiva-Nivel de Puente Dxxxx-ES-(04-06) 21-23 Plano de Estaciones con Peralte Dxxxx-DV-(01-03) 24-30 Plantay Perfil Dxxxx-PP-(01-07) 31-32 Aproximación y Estribo No.1 Dxxxx-ES-(07-08) 33-34 Aproximación y Estribo No.2 Dxxxx-ES-(09-10) 35-36 Aproximación y Estribo No.3 Dxxxx-ES-(11-12) 37 Detalle de losa armada en aproximaciones Dxxxx-ES-13 38-40 Planta de ampliaciones Dxxxx-ZN-(01-03) 41 Pilastra y Zapata No.1, No.2, No.3 Dxxxx-ES-14 42 Pilastra y Zapata No.4, No.5 Dxxxx-ES-15 43 Pilastra y Zapata No.6, No.7 Dxxxx-ES-16 44 Detalle Pilastra y Zapata 6 y 7 Dxxxx-ES-17 45 Pilastra y Zapata No.7, No.8 Dxxxx-ES-18 46 Plano con dimensiones de zapata y ubicación Dxxxx-ES-19 47 Planta de distribución de vigas Dxxxx-ES-20 48 Viga de bordes Dxxxx-ES-21 49 Viga No.1 Dxxxx-ES-22 50 Viga No.2, No.3 Dxxxx-ES-23 51 Viga No.4, No.5 Dxxxx-ES-24 52 Viga No.6, No.7 Dxxxx-ES-25 53 Viga No.8 Dxxxx-ES-26 54 Viga No.9 Dxxxx-ES-27 55 Viga No.10 Dxxxx-ES-28 56 Viga No.11 Dxxxx-ES-29 57 Viga No.12, No.13 Dxxxx-ES-30 58 Viga No.14 Dxxxx-ES-31 59 Losa Tramo No.1 Dxxxx-ES-32 60 Losa Tramo No.2 Dxxxx-ES-33 61 Losa Tramo No.3 Dxxxx-ES-34 62 Losa Tramo No.4 Dxxxx-ES-35 63 Losa Tramo No.5 Dxxxx-ES-36 64 Losa Tramo No.6 Dxxxx-ES-37 65 Sección de Puente Tramo No.1 Dxxxx-ES-38 66 Sección de Puente Tramo No.2 Dxxxx-ES-39 67 Sección de Puente Tramo No.3 Dxxxx-ES-40 68 Sección de Puente Tramo No.4 Dxxxx-ES-41 69 Sección de Puente Tramo No.5 Dxxxx-ES-42 70 Sección de Puente Tramo No.6 Dxxxx-ES-43 71 Barrera New Jersey Dxxxx-ES-44 72 Plano de junta de pavimento Dxxxx-ES-45 73 Plano de junta de losa Dxxxx-ES-46 74-76 Señalización horizontal sobre calle Dxxxx-SV-(01-03) 77-79 Señalización horizontal sobre puente Dxxxx-SV-(04-06) 80-82 Señalización vertical sobre puente Dxxxx-SV-(07-09) 83-84 Plano eléctrico existente y proyección Dxxxx-EL-(01-02) 85-88 Plano de iluminación en puente Dxxxx-EL-(03-06) 89-91 Plano de hidrosanitario existente Dxxxx-HI-(01-
+Lista de Planos Construcción paso elevado tercera entrada col. Kennedy N° plano Planos generales código Portada Dxxxx-PO-01 1-2 Ubicación e índice Dxxxx-UB-(01-02) 3-5 Plano de Cantidades de obra Dxxxx-CO-(01-02) 6-8 Planta Topográfica Dxxxx-TP-(01-03) 9-11 Planta General-Novel de calle Dxxxx-GN-(01-03) 12-14 Planta General-Novel de Puente Dxxxx-GN-(04-07) 15-17 Planta Constructiva-Nivel de Calle Dxxxx-ES-(01-03) 18-20 Planta Constructiva-Nivel de Puente Dxxxx-ES-(04-06) 21-23 Plano de Estaciones con Peralte Dxxxx-DV-(01-03) 24-30 Plantay Perfil Dxxxx-PP-(01-07) 31-32 Aproximación y Estribo No. 1 Dxxxx-ES-(07-08) 33-34 Aproximación y Estribo No. 2 Dxxxx-ES-(09-10) 35-36 Aproximación y Estribo No. 3 Dxxxx-ES-(11-12) 37 Detalle de losa armada en aproximaciones Dxxxx-ES-13 38-40 Planta de ampliaciones Dxxxx-ZN-(01-03) 41 Pilastra y Zapata No. 1, No. 2, No. 3 Dxxxx-ES-14 42 Pilastra y Zapata No. 4, No. 5 Dxxxx-ES-15 43 Pilastra y Zapata No. 6, No. 7 Dxxxx-ES-16 44 Detalle Pilastra y Zapata 6 y 7 Dxxxx-ES-17 45 Pilastra y Zapata No. 7, No. 8 Dxxxx-ES-18 46 Plano con dimensiones de zapata y ubicación Dxxxx-ES-19 47 Planta de distribución de vigas Dxxxx-ES-20 48 Viga de bordes Dxxxx-ES-21 49 Viga No. 1 Dxxxx-ES-22 50 Viga No. 2, No. 3 Dxxxx-ES-23 51 Viga No. 4, No. 5 Dxxxx-ES-24 52 Viga No. 6, No. 7 Dxxxx-ES-25 53 Viga No. 8 Dxxxx-ES-26 54 Viga No. 9 Dxxxx-ES-27 55 Viga No. 10 Dxxxx-ES-28 56 Viga No. 11 Dxxxx-ES-29 57 Viga No. 12, No. 13 Dxxxx-ES-30 58 Viga No. 14 Dxxxx-ES-31 59 Losa Tramo No. 1 Dxxxx-ES-32 60 Losa Tramo No. 2 Dxxxx-ES-33 61 Losa Tramo No. 3 Dxxxx-ES-34 62 Losa Tramo No. 4 Dxxxx-ES-35 63 Losa Tramo No. 5 Dxxxx-ES-36 64 Losa Tramo No. 6 Dxxxx-ES-37 65 Sección de Puente Tramo No. 1 Dxxxx-ES-38 66 Sección de Puente Tramo No. 2 Dxxxx-ES-39 67 Sección de Puente Tramo No. 3 Dxxxx-ES-40 68 Sección de Puente Tramo No. 4 Dxxxx-ES-41 69 Sección de Puente Tramo No. 5 Dxxxx-ES-42 70 Sección de Puente Tramo No. 6 Dxxxx-ES-43 71 Barrera New Jersey Dxxxx-ES-44 72 Plano de junta de pavimento Dxxxx-ES-45 73 Plano de junta de losa Dxxxx-ES-46 74-76 Señalización horizontal sobre calle Dxxxx-SV-(01-03) 77-79 Señalización horizontal sobre puente Dxxxx-SV-(04-06) 80-82 Señalización vertical sobre puente Dxxxx-SV-(07-09) 83-84 Plano eléctrico existente y proyección Dxxxx-EL-(01-02) 85-88 Plano de iluminación en puente Dxxxx-EL-(03-06) 89-91 Plano de hidrosanitario existente Dxxxx-HI-(01-
 
 \03) 92-93 Plano de reubicación de tragantes Dxxxx-HI-(04-05) 94 Plano de rutas alternas Dxxxx-DV-04 Lista de Cantidades Convenio N°. AMDC-UEP-BID-OFID-CO-03-20 de Construcción paso elevado tercera entrada Col. Kennedy.
 
@@ -18879,7 +18857,7 @@ L. 4,849,537.56 C
 
 PUENTE
 
-C.1 Excavación Estructural m³ 542.68 111.12 60,302.60 C.2 Relleno compactado con material del sitio m³ 478.89 169.20 81,028.19 concreto fc=315 kgs/cm2 , losa solida e=40 cm.(incluye encofrado y desencofrado) C.3 m³ 101.68 5,499.30 559,168.82 C.4 Concreto ciclópeo para estribos f'c:
+C.1 Excavación Estructural m³ 542.68 111.12 60,302.60 C.2 Relleno compactado con material del sitio m³ 478.89 169.20 81,028.19 concreto fc=315 kgs/cm2, losa solida e=40 cm.(incluye encofrado y desencofrado) C.3 m³ 101.68 5,499.30 559,168.82 C.4 Concreto ciclópeo para estribos f'c:
 
 210 Kg/cm2 m³ 275.91 3,183.40 878,331.89 C.5 Concreto de limpieza f'c: 2000 psi e: 7 cm bajo zapatas. m³ 6.44 2,393.44 15,413.75 Concreto clase A f'c: 280 Kg/cm2 (fondo de estribo, parapeto, diafragmas) C.6 Concreto clase A f'c: 280 Kg/cm2 para vigas reforzadas, Incluye encofrado y desencofrado C.7 C.8 Concreto clase A f'c: 315 Kg/cm2 para losa e: 20 cm, losa sobre vigas m³ 51.73 4,792.28 247,904.64 m³ 310.20 4,981.92 1,545,391.58 m³ 135.22 5,115.90 691,772.00 Total No.
 
@@ -18887,7 +18865,7 @@ CONCEPTO DE OBRA UNIDAD CANTIDAD
 
 Precio Unitario (L) canaletas, Incluye encofrado y desencofrado Concreto clase A f'c: 280 Kg/cm2 para columnas (pilastras) decorativas, Incluye encofrado y desencofrado C.9 Acero de refuerzo f'y: 4200 Kg/cm2 Grado 60 (vigas, diafragmas, losa e:
 
-40 cm, Losa tramos No.4, No.5+ zapatas aisladas) C.10 C.11 Acero de refuerzo f'y: 4200 Kg/cm2 m³ 92.24 6,373.38 587,880.57 Kg 110,552.34 32.40 3,581,895.82 Grado 60 para columnas decorativas Kg 15,412.29 32.40 499,358.20 C.12 Vigas Prefabricada tipo canaleta ml.
+40 cm, Losa tramos No. 4, No. 5+ zapatas aisladas) C.10 C.11 Acero de refuerzo f'y: 4200 Kg/cm2 m³ 92.24 6,373.38 587,880.57 Kg 110,552.34 32.40 3,581,895.82 Grado 60 para columnas decorativas Kg 15,412.29 32.40 499,358.20 C.12 Vigas Prefabricada tipo canaleta ml.
 
 220.00 7,342.05 1,615,251.00 C.13 Vigas de concreto hechas en el sitio. ml.
 

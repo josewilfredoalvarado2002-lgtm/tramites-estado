@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo número 194-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220325-35882/download"
 extraido: "2026-11-14"
-huella: "08297bcdcacbb4aa"
+huella: "00442aa71370c36a"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 194-2022.
@@ -29,9 +29,7 @@ huella: "08297bcdcacbb4aa"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-7-2022 de fecha 27 de enero del 2022, la Señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero del 2022, la Señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
@@ -101,7 +99,7 @@ EDUARDO ENRIQUE REINA
 
 Secretario de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional MARÍA GABRIELA MEMBREÑO Secretaria General Avance Próxima Edición
 
-DECRETA: ARTÍCULO 1.- Reformar los artículos 77 y 106, de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS (TSC), contenida en el Decreto No.10-2002-E, de fecha 5 de Diciembre del 2002, reformados mediante Decreto No.145-2019, de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020.
+DECRETA: ARTÍCULO 1.- Reformar los artículos 77 y 106, de la LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS (TSC), contenida en el Decreto No. 10-2002-E, de fecha 5 de Diciembre del 2002, reformados mediante Decreto No. 145-2019, de fecha 4 de Diciembre de 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 5 de Marzo del 2020.
 
 CENTROS DE DISTRIBUCIÓN:
 

@@ -8,10 +8,10 @@ gaceta_numero: 36667
 gaceta_fecha: "2024-10-18"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)|La Gaceta 36667]]"
 paginas: "A. 6 - 9"
-sumario: "Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
+sumario: "Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241018-36667/download"
 extraido: "2026-11-14"
-huella: "fd54862e918f537a"
+huella: "6e93c384e05ba270"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2024
@@ -23,7 +23,7 @@ huella: "fd54862e918f537a"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36667 (2024-10-18)\|La Gaceta 36667]] del 2024-10-18 |
 | Páginas | A. 6 - 9 |
-| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
+| Según el sumario de La Gaceta | Decretos Nos. 66-2024, 79-2024; SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR)Acuerdo Número SAR-343-2024, SAR-362-2024, SAR-383-2024 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 177 de la Constitución de la República expresa literalmente: “Se establece la Colegiación Profesional Obligatoria. La ley reglamentará su organización y funcionamiento”.
 
-CONSIDERANDO: Que la Ley Orgánica del Colegio Hondureño de Economistas (CHE), fue emitida mediante Decreto No.88 del 15 de octubre de 1966, publicada en el Diario Oficial “La Gaceta” No.19,009 y reformada mediante el Decreto-Ley No.1002 del 14 de julio de 1980, publicado en el Diario Oficial “La Gaceta” No. 23,214 del 24 de septiembre de 1980.
+CONSIDERANDO: Que la Ley Orgánica del Colegio Hondureño de Economistas (CHE), fue emitida mediante Decreto No. 88 del 15 de octubre de 1966, publicada en el Diario Oficial “La Gaceta” No. 19,009 y reformada mediante el Decreto-Ley No. 1002 del 14 de julio de 1980, publicado en el Diario Oficial “La Gaceta” No. 23,214 del 24 de septiembre de 1980.
 
 CONSIDERANDO: Que tal como lo establece el Artículo 4 literal a) de la Ley de Colegiación Profesional Obligatoria.
 
@@ -47,13 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Reformar los artículos 5 y 62 de la LEY ORGÁNICA DEL COLEGIO HONDUREÑO DE ECONOMISTAS (CHE), emitida mediante Decreto No.88 del 15 de octubre de 1966, reformada mediante el Decreto-Ley No.1002, publicado en el Diario Oficial “La Gaceta” en fecha 24 de septiembre de 1980, el Decreto Legislativo No.
-
-134-2006 del 17 de octubre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 18 de diciembre del 2006; los cuales en adelante deben leerse de la siguiente manera:
+ARTÍCULO 1. Reformar los artículos 5 y 62 de la LEY ORGÁNICA DEL COLEGIO HONDUREÑO DE ECONOMISTAS (CHE), emitida mediante Decreto No. 88 del 15 de octubre de 1966, reformada mediante el Decreto-Ley No. 1002, publicado en el Diario Oficial “La Gaceta” en fecha 24 de septiembre de 1980, el Decreto Legislativo No. 134-2006 del 17 de octubre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 18 de diciembre del 2006; los cuales en adelante deben leerse de la siguiente manera:
 
 “ARTÍCULO 5. Forman… El Colegio podrá autorizar a los egresados no graduados de la carrera de Economía de la Universidad Nacional Autónoma de Honduras (UNAH) y de otras universidades nacionales, siempre que exista convenio de reconocimiento por parte de la Universidad Nacional Autónoma de Honduras (UNAH) y de las universidades extranjeras cuando exista reciprocidad, para que puedan ejercer dicha profesión en la forma y términos normados por el Colegio, por un período hasta de dos (2) años.
 
@@ -71,7 +69,7 @@ ARTÍCULO 2. Reformar la LEY ORGÁNICA
 
 DEL COLEGIO HONDUREÑO DE
 
-ECONOMISTAS, emitida mediante Decreto No.88 del 15 de octubre de 1966, reformada mediante el Decreto-Ley No.1002 publicado en el Diario Oficial “La Gaceta” en fecha 24 de septiembre de 1980, el Decreto No.134-2006 del 17 de octubre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 18 de diciembre del 2006; adicionando el
+ECONOMISTAS, emitida mediante Decreto No. 88 del 15 de octubre de 1966, reformada mediante el Decreto-Ley No. 1002 publicado en el Diario Oficial “La Gaceta” en fecha 24 de septiembre de 1980, el Decreto No. 134-2006 del 17 de octubre de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 18 de diciembre del 2006; adicionando el
 
 #### Artículo 80
 

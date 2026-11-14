@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. CSJ-2-2024, CSJ-3-2024,Auto Acordados"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240612-36558/download"
 extraido: "2026-11-14"
-huella: "3b24947c1f8dc94e"
+huella: "60259e35d3020f0e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-2-2024
@@ -27,7 +27,7 @@ huella: "3b24947c1f8dc94e"
 
 ## Texto
 
-C E R T I F I C A C I Ó N
+CERTIFICACIÓN
 
 La infrascrita, Secretaria General de la Corte Suprema de Justicia, CERTIFICA: El acuerdo que literalmente dice:
 
@@ -37,7 +37,7 @@ La infrascrita, Secretaria General de la Corte Suprema de Justicia, CERTIFICA: E
 
 El Pleno de la Corte Suprema de Justicia Parte Considerativa Considerando (1): Que el Poder Judicial tiene la obligación constitucional de impartir y administrar justicia, de manera pronta, efectiva y gratuita, por magistrados y jueces independientes, sometidos únicamente a la Constitución y las leyes.
 
-Considerando (2): Que con la abrogación de la Ley del Consejo de la Judicatura y la Carrera Judicial, producto de su declaratoria de inconstitucionalidad, han vuelto a tener plena vigencia la Ley de la Carrera Judicial, su Reglamento, así como el Reglamento Interno del Consejo de la Carrera Judicial, así como el artículo 3 transitorio del Decreto Legislativo No 282- 2010, ratificado mediante el Decreto Legislativo N° 5-2011, el cual dispone que, mientras se instale el Consejo de la Judicatura y de la Carrera Judicial, la Presidencia de la Corte Suprema de Justicia tendrá la facultad de organizar y dirigir administrativamente al Poder Judicial.
+Considerando (2): Que con la abrogación de la Ley del Consejo de la Judicatura y la Carrera Judicial, producto de su declaratoria de inconstitucionalidad, han vuelto a tener plena vigencia la Ley de la Carrera Judicial, su Reglamento, así como el Reglamento Interno del Consejo de la Carrera Judicial, así como el artículo 3 transitorio del Decreto Legislativo No 282-2010, ratificado mediante el Decreto Legislativo N° 5-2011, el cual dispone que, mientras se instale el Consejo de la Judicatura y de la Carrera Judicial, la Presidencia de la Corte Suprema de Justicia tendrá la facultad de organizar y dirigir administrativamente al Poder Judicial.
 
 Considerando (3): Que por disposición constitucional Honduras hace suyos los principios y prácticas del derecho internacional que propenden a la solidaridad humana, al respeto de la autodeterminación de los pueblos, a la no intervención y al afianzamiento de la paz y la democracia universales.
 
@@ -55,13 +55,13 @@ Considerando (8): Que el Reglamento de la Corte Interamericana de Derechos Human
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos 15, 16, 59 y 313 numeral 1 de la Constitución de la República, reformado mediante Decreto Legislativo No 282-2010, ratificado mediante Decreto Legislativo No 5-2011, artículo 3 transitorio de los Decretos mencionados; y, artículo 6 del Código Procesal Penal;
 
-A c u e r d a Primero: Dar cumplimiento a lo dispuesto en el Punto Resolutivo No 7 de la Sentencia de Fondo, Reparaciones y Costas del Caso Deras García y otros Vs. Honduras, emitida en fecha 25 de agosto de 2022 por la Corte Interamericana de Derechos Humanos, el cual literalmente establece lo siguiente:
+Acuerda Primero: Dar cumplimiento a lo dispuesto en el Punto Resolutivo No 7 de la Sentencia de Fondo, Reparaciones y Costas del Caso Deras García y otros Vs. Honduras, emitida en fecha 25 de agosto de 2022 por la Corte Interamericana de Derechos Humanos, el cual literalmente establece lo siguiente:
 
 ‘’El Estado cerrará de manera definitiva, el expediente policial abierto en contra de las señoras Otilia Flores Ortiz y Elba Flores Ortiz de 26 de noviembre de 1981, así como los expedientes policiales y judiciales levantados contra los familiares del señor Herminio Deras García de 8 de junio de 1984, en los términos del párrafo 103 de la presente Sentencia.’’ Segundo: Cerrar de manera definitiva, cualquier expediente o proceso judicial en contra de las y los familiares del señor Herminio Deras García: Otilia Flores Ortiz, con Documento Nacional de Identificación 0107-1947-00042 y;
 
-Elba Flores Ortiz, con Documento Nacional de Identificación 1804-1960-01141; así como los expedientes judiciales levantados en contra de los familiares del señor Herminio Deras García: Lorena Deras Flores, con documento nacional de identificación 0501-1970-07149; Irma Isabel Deras García, con documento nacional de identificación 1804- 1962-00229; Luis Rolando Deras García, con documento nacional de identificación 1804-1958-01271; Consuelo Deras García, con documento nacional de identificación 3804-1984-00020; Alba Luz Deras García, con documento nacional de identificación 1804-1954-00134; Héctor García, con documento nacional de identificación 1804-1945-00429;
+Elba Flores Ortiz, con Documento Nacional de Identificación 1804-1960-01141; así como los expedientes judiciales levantados en contra de los familiares del señor Herminio Deras García: Lorena Deras Flores, con documento nacional de identificación 0501-1970-07149; Irma Isabel Deras García, con documento nacional de identificación 1804-1962-00229; Luis Rolando Deras García, con documento nacional de identificación 1804-1958-01271; Consuelo Deras García, con documento nacional de identificación 3804-1984-00020; Alba Luz Deras García, con documento nacional de identificación 1804-1954-00134; Héctor García, con documento nacional de identificación 1804-1945-00429;
 
-José Herminio García Barahona, con documento nacional de identificación 1804-1968-01530; Sandra Ivon Hernández Deras, con documento nacional de identificación 1804-1965- 00059; Marlen García Pineda, con documento nacional de identificación 1804-1963-00944; Julio Cesar Chavarría Banegas, con documento nacional de identificación 1804-1956-01814; Eustaquia García, con nacionalidad salvadoreña y carné de residencia número 12-83247009 y; Marlon Javier García Barahona, con nacionalidad estadounidense y pasaporte número 503368919; en la medida en que tales expedientes se relacionen con los hechos descritos en el párrafo 103 de la referida sentencia proferida por la Corte Interamericana de Derechos Humanos.
+José Herminio García Barahona, con documento nacional de identificación 1804-1968-01530; Sandra Ivon Hernández Deras, con documento nacional de identificación 1804-1965-00059; Marlen García Pineda, con documento nacional de identificación 1804-1963-00944; Julio Cesar Chavarría Banegas, con documento nacional de identificación 1804-1956-01814; Eustaquia García, con nacionalidad salvadoreña y carné de residencia número 12-83247009 y; Marlon Javier García Barahona, con nacionalidad estadounidense y pasaporte número 503368919; en la medida en que tales expedientes se relacionen con los hechos descritos en el párrafo 103 de la referida sentencia proferida por la Corte Interamericana de Derechos Humanos.
 
 Tercero: Suprimir del registro de antecedentes penales, administrativos o similares que lleve el Poder Judicial, que puedan existir en contra de las personas señaladas anteriormente como consecuencia de los referidos expedientes en los términos del párrafo 103 de la sentencia señalada.
 

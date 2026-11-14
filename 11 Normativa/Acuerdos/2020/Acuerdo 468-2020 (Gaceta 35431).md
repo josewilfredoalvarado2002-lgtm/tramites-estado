@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Ejecutivos números 468-2020, 469-2020, 470-2020, 471-2020, Acuerdonúmero 480-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201116-35431/download"
 extraido: "2026-11-14"
-huella: "767219359102ea52"
+huella: "b786729044247fe1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 468-2020
@@ -31,7 +31,7 @@ Tegucigalpa, municipio del Distrito Central, 7 de octubre de 2020 EL PRESIDENTE 
 
 CONSIDERANDO: Que el Presidente de la República tiene dentro de sus facultades constitucionales emitir, entre otro tipo de actos administrativos, acuerdos y decretos, conforme a los Artículos 116 y 118 de la Ley General de la Administración Pública.
 
-CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir el Contrato de Préstamo No.4942/BL-HO con el Banco Interamericano de Desarrollo (BID), para la ejecución del “Proyecto de Transformación Digital para una Mayor Competitividad”.
+CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir el Contrato de Préstamo No. 4942/BL-HO con el Banco Interamericano de Desarrollo (BID), para la ejecución del “Proyecto de Transformación Digital para una Mayor Competitividad”.
 
 CONSIDERANDO: Que el objetivo general del Proyecto es contribuir al aumento de la competitividad de Honduras a través de la transformación digital.
 
@@ -43,7 +43,7 @@ ACUERDA
 
 #### Artículo 1
 
-ARTÍCULO 1: Autorizar al Abogado MARCO ANTONIO MIDENCE MILLA, en su condición de Secretario de Estado en el Despacho de Finanzas y/o a la Licenciada LILIAM ODALIS RIVERA OCHOA, en su condición de Subsecretaria de Crédito e Inversión Pública, para que en nombre y representación del Gobierno de la República de Honduras, puedan suscribir el Contrato de Préstamo No.4942/BL-HO con el Banco Interamericano de Desarrollo (BID), hasta por un monto de Cuarenta y Cuatro Millones Setecientos Mil Dólares de los Estados Unidos de América (US$44,700,000.00) para la ejecución del “Proyecto de Transformación Digital para una Mayor Competitividad”.
+ARTÍCULO 1: Autorizar al Abogado MARCO ANTONIO MIDENCE MILLA, en su condición de Secretario de Estado en el Despacho de Finanzas y/o a la Licenciada LILIAM ODALIS RIVERA OCHOA, en su condición de Subsecretaria de Crédito e Inversión Pública, para que en nombre y representación del Gobierno de la República de Honduras, puedan suscribir el Contrato de Préstamo No. 4942/BL-HO con el Banco Interamericano de Desarrollo (BID), hasta por un monto de Cuarenta y Cuatro Millones Setecientos Mil Dólares de los Estados Unidos de América (US$44,700,000.00) para la ejecución del “Proyecto de Transformación Digital para una Mayor Competitividad”.
 
 #### Artículo 2
 

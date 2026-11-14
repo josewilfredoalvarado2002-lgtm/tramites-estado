@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos Nos. 208-2021, 314-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210609-35623/download"
 extraido: "2026-11-14"
-huella: "8e30a08103bd6899"
+huella: "96fd049df3104b2e"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 208-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que el artículo 15 del Decreto Legislativo No. 274-2010 de fecha 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-047-2015 de fecha 2 de septiembre del año 2015 publicado en el Diario Oficial “La Gaceta” en fecha 14 de septiembre del 2015 se modificó a la Dirección General de Bienes Nacionales en Dirección Nacional de Bienes del Estado, como un ente desconcentrado de la Administración Pública, dependiente de la Secretaría de Estado en el Despacho de Finanzas, con autoridad a nivel nacional.
 
-CONSIDERANDO: Que en fecha 13 de octubre del año 2020, la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección Nacional de Bienes del Estado realizó la Subasta Pública de Bienes Inmuebles SEFIN/DNBE-No.
-
-BI-001-2020, resultando adjudicado uno (1) de los inmuebles sujetos al proceso.
+CONSIDERANDO: Que en fecha 13 de octubre del año 2020, la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección Nacional de Bienes del Estado realizó la Subasta Pública de Bienes Inmuebles SEFIN/DNBE-No. BI-001-2020, resultando adjudicado uno (1) de los inmuebles sujetos al proceso.
 
 CONSIDERANDO: Que de conformidad al artículo 16 del Decreto Legislativo No. 274-2010 de fecha 13 de enero de 2011 publicado en el Diario Oficial “La Gaceta” en fecha 16 de marzo del 2011, la tradición de dominio se deberá formalizar mediante Escritura Pública y será autorizada por el Notario designado por la Dirección General de Bienes Nacionales, ahora denominada Dirección Nacional de Bienes del Estado.
 
@@ -45,7 +43,7 @@ CONSIDERANDO: Que el artículo 19 de la Ley Orgánica de la Procuraduría Genera
 
 … 3. Comparecer en representación del Estado, conforme a las instrucciones del Poder Ejecutivo y al otorgamiento de los actos o contratos en que estuviere interesada la Nación…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado JUAN ORLANDO HERNÁNDEZ ALVARADO, acordó delegar en el Secretario de Coordinación General de Gobierno CARLOS ALBERTO MADERO ERAZO, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado JUAN ORLANDO HERNÁNDEZ ALVARADO, acordó delegar en el Secretario de Coordinación General de Gobierno CARLOS ALBERTO MADERO ERAZO, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 

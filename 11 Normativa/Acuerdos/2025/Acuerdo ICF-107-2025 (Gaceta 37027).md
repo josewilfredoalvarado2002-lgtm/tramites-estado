@@ -11,7 +11,7 @@ paginas: "A. 4 - 11"
 sumario: "Acuerdos Institucionales Nos. ICF-107-2025, ICF-108-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251224-37027/download"
 extraido: "2026-11-09"
-huella: "2be688a772dbc68b"
+huella: "071268b612d97ae6"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-107-2025
@@ -55,7 +55,7 @@ d) Dictamen Técnico N°006059-2025, de fecha veinticinco
 
 (25) de agosto del 2025.
 
-CONSIDERANDO (09): Que, según los traslapes identificados en el primer Dictamen Técnico N°005789- 2025, de fecha veinticinco (25) de julio del 2025, consisten en: a) 0.222803 hectáreas con la Zona de Amortiguamiento (Subzona No Definido y Sector No Definido) del Área Protegida Blanca Janeth Kawas Fernández, declarada mediante el Decreto Legislativo N°154-94 y N°43-95, con categoría de Parque Nacional; b) 44.127053 hectáreas con la solicitud de Memorándum N°ICF-DVS-228-2025, presentado por la Jefatura del Departamento de Vida Silvestre;
+CONSIDERANDO (09): Que, según los traslapes identificados en el primer Dictamen Técnico N°005789-2025, de fecha veinticinco (25) de julio del 2025, consisten en: a) 0.222803 hectáreas con la Zona de Amortiguamiento (Subzona No Definido y Sector No Definido) del Área Protegida Blanca Janeth Kawas Fernández, declarada mediante el Decreto Legislativo N°154-94 y N°43-95, con categoría de Parque Nacional; b) 44.127053 hectáreas con la solicitud de Memorándum N°ICF-DVS-228-2025, presentado por la Jefatura del Departamento de Vida Silvestre;
 
 c) 1.325295 hectáreas con la solicitud de Constancia de Factibilidad bajo el Expediente N°ICF-399-2024, presentado por el Abg. Juan Carlos Rivera García, en su condición de Apoderado Legal de la Sociedad Mercantil Trans Americas Fiber System, S.A.; d) 3.540759 hectáreas con la solicitud de Constancia de Factibilidad ventilada en el Expediente N°ICF-060-2025, presentado por el Abg. Giovanni Rivera Bocock, en su condición de Apoderado Legal de la Sociedad Mercantil Servicios de Comunicaciones de Honduras;
 
@@ -63,7 +63,7 @@ e) 0.000313 hectáreas con la solicitud de Constancia de Ubicación ventilada en
 
 CONSIDERANDO (10): Que, dado a los traslapes anteriores descritos, fue emitido posteriormente el último Dictamen Técnico N°006059-2025, de fecha veinticinco (25) de agosto del 2025, subsistiendo, por una parte, el traslape por 1.325295 hectáreas con la solicitud de Constancia de Factibilidad bajo el Expediente N°ICF-399-2024, presentado por el Abg. Juan Carlos Rivera García, en su condición de Apoderado Legal de la Sociedad Mercantil Trans Americas Fiber System, S.A.; 3.540763 hectáreas con la solicitud de Constancia de Factibilidad ventilada en el Expediente N°ICF-060-2025, presentado por el Abg. Giovanni Rivera Bocock, en su condición de Apoderado Legal de la Sociedad Mercantil Servicios de Comunicaciones de Honduras; 0.000313 hectáreas con la solicitud de Constancia de Ubicación ventilada en el Expediente N°ICF-001-2023, presentado por el señor Jorge Rubén Pineda Cobos, en su condición de Apoderado Legal de la Sociedad Mercantil Operaciones Navieros, S.A.;
 
-122.517695 hectáreas con el Sitio de Importancia para la Vida Silvestre “Sistema Arrecifal (Capiro)” con Acuerdo N°001- 2014. Observación: El traslape con la base de solicitudes del Expediente N°ICF-001-2023, a favor de la Sociedad Mercantil Operaciones Navieros, S.A., no se considera significativo dado que, podría estar dentro del rango de tolerancia asociado a la precisión del sistema GPS. Todo lo cual, sobre una realidad física de 85,236.591441 hectáreas.
+122.517695 hectáreas con el Sitio de Importancia para la Vida Silvestre “Sistema Arrecifal (Capiro)” con Acuerdo N°001-2014. Observación: El traslape con la base de solicitudes del Expediente N°ICF-001-2023, a favor de la Sociedad Mercantil Operaciones Navieros, S.A., no se considera significativo dado que, podría estar dentro del rango de tolerancia asociado a la precisión del sistema GPS. Todo lo cual, sobre una realidad física de 85,236.591441 hectáreas.
 
 CONSIDERANDO (11): Que, el Departamento de Vida Silvestre procedió a dictaminar a través del Dictamen Técnico N°ICF-DVS-049-2025, de fecha nueve (09) de septiembre del dos mil veinticinco (2025), mediante el cual, en su página N°5 inciso 4), dictamina que, según Dictamen Técnico CIPF N°005789-2025 y N°006059-2025, presentaron algunos traslapes que fueron descritos en los numerales que anteceden en la presente, sin embargo, en este último Dictamen Técnico, fueron subsanados algunos de ellos para una propuesta de área final de 85,236.591441 hectáreas para su declaratoria; en virtud, que después del análisis efectuado, se consideró que las solicitudes de Constancia de Factibilidad a través de los expedientes correspondientes, NO AFECTAN LA BIODIVERSIDAD NI LA DECLARATORIA DEL SITIO DE IMPORTANCIA PARA LA VIDA SILVESTRE DE PUERTO CORTÉS. Dado a lo anterior, concluye FACTIBLE declarar oficialmente este Sitio de Importancia, ya que contiene los criterios y requisitos básicos para proteger, conservar y manejar sosteniblemente la flora y fauna silvestre existentes en ella. Por lo que, recomienda continuar el proceso de declaratoria al igual que la Región Forestal del Noroccidente.
 
@@ -97,9 +97,7 @@ CUARTO: Que se proceda a elaborar el Plan de Manejo correspondiente, con la part
 
 QUINTO: Que, el siguiente mapa georreferenciado corresponde al “Sitio de Importancia para la Vida Silvestre” (SIPVS) denominado “Puerto Cortés”:
 
-SEXTO: De conformidad a los traslapes identificados en el último Dictamen Técnico N°. 006059-2025, de fecha veinticinco (25) de agosto del 2025, emitido por el Centro de Información y Patrimonio Forestal (CIPF), referentes a las Solicitudes de Constancia de Factibilidad tramitadas bajo los Expedientes N°. ICF-399-2024, N°. ICF-060-2025 y N°.
-
-ICF-001-2023, no constituyen afectación a la biodiversidad ni a la Declaratoria del Sitio de Importancia para la Vida Silvestre “Puerto Cortés”; de conformidad al criterio y consideración técnica efectuada por el Departamento de Vida Silvestre mediante el Dictamen Técnico N°. ICF-DVS-049-2025, de fecha nueve (09) de septiembre del dos mil veinticinco (2025).
+SEXTO: De conformidad a los traslapes identificados en el último Dictamen Técnico N°. 006059-2025, de fecha veinticinco (25) de agosto del 2025, emitido por el Centro de Información y Patrimonio Forestal (CIPF), referentes a las Solicitudes de Constancia de Factibilidad tramitadas bajo los Expedientes N°. ICF-399-2024, N°. ICF-060-2025 y N°. ICF-001-2023, no constituyen afectación a la biodiversidad ni a la Declaratoria del Sitio de Importancia para la Vida Silvestre “Puerto Cortés”; de conformidad al criterio y consideración técnica efectuada por el Departamento de Vida Silvestre mediante el Dictamen Técnico N°. ICF-DVS-049-2025, de fecha nueve (09) de septiembre del dos mil veinticinco (2025).
 
 SÉPTIMO: Publicar el presente acuerdo institucional en el Diario Oficial “La Gaceta” y en la página Web del ICF, así como poner a disposición del público el documento íntegro de plan de manejo en la base de datos del Geoforestal y en el portal de transparencia del ICF. PUBLÍQUESE. -
 

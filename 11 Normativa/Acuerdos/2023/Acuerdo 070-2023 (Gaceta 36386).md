@@ -11,7 +11,7 @@ paginas: "A. 1 - 52"
 sumario: "Acuerdo Ministerial No. 070-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231117-36386/download"
 extraido: "2026-11-14"
-huella: "9759dd69027fb3ff"
+huella: "aa6b3e7099eedcdd"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 070-2023
@@ -73,7 +73,7 @@ Artículo 2.- Objetivo General. - Ser el ente rector de las políticas públicas
 
 #### Artículo 3
 
-Artículo 3.- Objetivos Estratégicos. - Para dar cumplimiento al mandato Constitucional y administrativo emanado del Decreto PCM- 05-2022, del 06 de abril de 2022, publicado en El Diario Oficial La Gaceta, y con el fin de complementar y desarrollar el plan estratégico institucional y el objetivo general de la Secretaría de Estado en los Despachos de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras, se definen los siguientes objetivos estratégicos:|
+Artículo 3.- Objetivos Estratégicos. - Para dar cumplimiento al mandato Constitucional y administrativo emanado del Decreto PCM-05-2022, del 06 de abril de 2022, publicado en El Diario Oficial La Gaceta, y con el fin de complementar y desarrollar el plan estratégico institucional y el objetivo general de la Secretaría de Estado en los Despachos de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras, se definen los siguientes objetivos estratégicos:|
 
 a. La Secretaría tendrá cobertura y competencia nacional, operando de manera coordinada con todos los municipios, para la salvaguarda, fomento y promoción de las Culturas, las Artes y los patrimonios de los pueblos de Honduras.
 
@@ -1125,7 +1125,7 @@ SUB SECCIÓN IV ACADEMIA DE ARTES MUSICALES
 
 #### Artículo 81
 
-Artículo 81.-El Conservatorio Nacional de Música, Francisco Ramón Díaz Zelaya, es una Institución de Educación Musical, en el nivel medio, forma Bachilleres en Educación Musical, depende administrativa y laboralmente de la Secretaría de las Culturas las Artes y los Patrimonios de los Pueblos de Honduras y académicamente de la Secretaría de Educación a través del Distrito Educativo No.6.
+Artículo 81.-El Conservatorio Nacional de Música, Francisco Ramón Díaz Zelaya, es una Institución de Educación Musical, en el nivel medio, forma Bachilleres en Educación Musical, depende administrativa y laboralmente de la Secretaría de las Culturas las Artes y los Patrimonios de los Pueblos de Honduras y académicamente de la Secretaría de Educación a través del Distrito Educativo No. 6.
 
 #### Artículo 82
 
@@ -1133,7 +1133,7 @@ Artículo 82.- El Conservatorio Nacional de Música (F.R.D.Z.), se proyecta a la
 
 #### Artículo 83
 
-Artículo 83.-El Conservatorio Nacional de Música, “FRDZ”, es supervisado por la Secretaría de Educación a través de la Dirección Departamental, Dirección Distrital No.6, y de la Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras (SECAPPH). Para el mayor cumplimiento de sus funciones se administra de dos formas:
+Artículo 83.-El Conservatorio Nacional de Música, “FRDZ”, es supervisado por la Secretaría de Educación a través de la Dirección Departamental, Dirección Distrital No. 6, y de la Secretaría de las Culturas, las Artes y los Patrimonios de los Pueblos de Honduras (SECAPPH). Para el mayor cumplimiento de sus funciones se administra de dos formas:
 
 #### Artículo 84
 
@@ -1169,7 +1169,7 @@ Artículo 84.- El Conservatorio Nacional de Música “FRDZ”, tendrá las sigu
 
 • Representación legal ante las autoridades educativas.
 
-• Presentar informes mensuales de actividades del Conservatorio ante la Dirección Distrital No.5.
+• Presentar informes mensuales de actividades del Conservatorio ante la Dirección Distrital No. 5.
 
 • Trámite de título de graduación, examen general, trabajo educativo social.
 
@@ -1603,7 +1603,7 @@ CONSIDERANDO: Que la Constitución de la República establece en el artículo 18
 
 CONSIDERANDO: Que el Estado de Honduras debe cumplir con las obligaciones de respetar y garantizar los derechos humanos reconocidos tanto en la Constitución de la República como en tratados internacionales ratificados por el País. Teniendo la facultad, en situaciones de crisis extraordinarias y muy graves, de suspender algunas de sus obligaciones en materia de derechos humanos, para lograr el restablecimiento a un estado de normalidad, que asegure el pleno respeto de todas las obligaciones asumidas internacionalmente.
 
-CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos número PCM 29- 2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023 y PCM 42-2023, de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
+CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023 y PCM 42-2023, de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
 
 CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
 

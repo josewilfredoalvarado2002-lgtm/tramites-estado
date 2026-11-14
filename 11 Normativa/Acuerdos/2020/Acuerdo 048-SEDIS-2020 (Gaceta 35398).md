@@ -8,10 +8,10 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 15 - 16"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
-huella: "f38d048b40d0d6fb"
+huella: "81247c5ab1590f2c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 048-SEDIS-2020
@@ -23,7 +23,7 @@ huella: "f38d048b40d0d6fb"
 | Emisor | Secretaría de Desarrollo e Inclusión Social |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 15 - 16 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 
@@ -57,7 +57,7 @@ En aplicación a lo que establecen los Artículos: 1, 248, 321 de la Constituci�
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo;
 
-26, 27, 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto Ejecutivo Número PCM- 037-2018, de fecha 18 de junio de 2018, Acuerdo No.116-2020.
+26, 27, 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto Ejecutivo Número PCM-037-2018, de fecha 18 de junio de 2018, Acuerdo No. 116-2020.
 
 ACUERDA:
 

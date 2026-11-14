@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Números SAR-636-2024, SAR-13-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250129-36752/download"
 extraido: "2026-11-13"
-huella: "af8a24eda99ee735"
+huella: "aa81142a4ef37c17"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-636-2024
@@ -37,15 +37,11 @@ CONSIDERANDO: Que el Artículo 199 del Código Tributario establece entre otras 
 
 \6) Aprobar los Acuerdos que contengan las normas internas de la institución, 13) Las demás funciones que le confieran el presente Código y las leyes aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 202-2024 de fecha 11 de septiembre del 2024, se nombró a la Suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado, con facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
 
-202-2024 de fecha 11 de septiembre del 2024, se nombró a la Suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado, con facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
-
-CONSIDERANDO: Que mediante Acuerdo Número SAR- 479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre del 2018, se aprueba la Política de Gestión de Riesgo del Servicio de Administración de Rentas y se crea el Comité de Gestión de Riesgos.
+CONSIDERANDO: Que mediante Acuerdo Número SAR-479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre del 2018, se aprueba la Política de Gestión de Riesgo del Servicio de Administración de Rentas y se crea el Comité de Gestión de Riesgos.
 
 CONSIDERANDO: Que el Comité de Riesgos es el órgano directivo que establece la gobernanza y directrices para cada una de las etapas a lo largo de la aplicación del modelo de gestión de riesgos.
 

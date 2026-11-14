@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 228-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201125-35440/download"
 extraido: "2026-11-14"
-huella: "c8e5d954f91f024b"
+huella: "c64b2d08b3041e54"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 228-2020
@@ -53,7 +53,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No.224-2020, de fecha diecisiete (17) de noviembre de 2020, a fin de permitir las exportaciones de frijol rojo bajo los incisos arancelarios 0713.32.00.00 y 0713.33.40.00 del Arancel Centroamericano de Importación (ACI), previa autorización de la Secretaría de Estado en los Despachos de Agricultura y Ganadería.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 224-2020, de fecha diecisiete (17) de noviembre de 2020, a fin de permitir las exportaciones de frijol rojo bajo los incisos arancelarios 0713.32.00.00 y 0713.33.40.00 del Arancel Centroamericano de Importación (ACI), previa autorización de la Secretaría de Estado en los Despachos de Agricultura y Ganadería.
 
 Para la determinación de las cantidades a exportar, la Secretaría de Estado en los Despachos de Agricultura y Ganadería debe realizar el análisis de la producción nacional y la afectación por las recientes tormentas tropicales “ETA” e “IOTA”, así como, debe emitir la comunicación oficial que otorga el derecho y notificarlo a las Autoridades correspondientes.
 
@@ -69,7 +69,7 @@ SEGUNDO: El interesado en una licencia de exportación de frijol rojo debe ingre
 
 \4) Pago de T.G.R-1 por L. 200.00 En caso que sean empresas nuevas deben de adicionar a la solicitud los siguientes documentos: Escritura de Constitución de Sociedad y fotocopia de R.T.N.
 
-TERCERO: Las Licencias de Exportación de frijol rojo emitidas al amparo del Acuerdo No.197-2020 de fecha veintiséis del mes de agosto de 2020, siguen vigentes.
+TERCERO: Las Licencias de Exportación de frijol rojo emitidas al amparo del Acuerdo No. 197-2020 de fecha veintiséis del mes de agosto de 2020, siguen vigentes.
 
 CUARTO: Solicitar a las autoridades policiales ejercer estricta vigilancia en las fronteras a efecto de evitar la salida ilegal de frijol rojo.
 

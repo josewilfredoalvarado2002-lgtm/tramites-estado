@@ -11,7 +11,7 @@ paginas: "A. 7 - 19"
 sumario: "Decretos Nos. 95-2026, 136-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260711-37191/download"
 extraido: "2026-11-09"
-huella: "2a114a6b3aebf312"
+huella: "a3be89e86cb678ff"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 136-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de Conformidad con el Artículo 205 Atribución 19) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -59,11 +59,11 @@ ARTÍCULO 1.- Aprobar, en todas y cada una de sus partes:
 
 1. Contrato LPI-FHIS-06-2025-HO-
 
-L1213-P00043 CONTRATACIÓN DE LAS OBRAS DE LAS LÍNEAS D E I M P U L S I Ó N S A N A A - BARRIOS: 107758”, suscrito en fecha veintidós (22) de Septiembre de Dos Mil Veinticinco (2025), por la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS) con la Empresa CONSORCIO DICONSAENOCSA, que literalmente dice…
+L1213-P00043 CONTRATACIÓN DE LAS OBRAS DE LAS LÍNEAS DE IMPULSIÓN SANAA - BARRIOS: 107758”, suscrito en fecha veintidós (22) de Septiembre de Dos Mil Veinticinco (2025), por la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS) con la Empresa CONSORCIO DICONSAENOCSA, que literalmente dice…
 
 2. Contrato CPI-FHIS-02-2023-SDP-PAPSH-14-SBMC-CF “CONTRATACIÓN DE SERVICIOS DE CONSULTORÍA PARA LA SUPERVISIÓN PROYECTO, LÍNEA DE IMPULSIÓN SANAABARRIOS, UBICADO EN COMAYAGÜELA, DISTRITO CENTRAL, FRANCISCO MORAZÁN, HONDURAS, CENTRO AMÉRICA, CÓDIGO: 107758”, suscrito en fecha catorce (14) de julio de dos mil veinticinco (2025), por la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS), con la Empresa CONSORCIO HYTSA-CONASH, que literalmente dice…
 
-3. Contrato SDO-O-FHIS-07-2024 “REPOSICIÓN SISTEMA DE AGUA POTABLE EN ALDEA CASCO URBANO, MUNICIPIO DE APACILAGUA EN EL DEPARTAMENTO DE CHOLUTECA, CÓDIGO 109073” Lote No.2 del Proceso: HN-SEDECOAS-371603-CW-RFB suscrito en fecha veinte (20) de Mayo de Dos Mil Veinticuatro (2024), por EL FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS) – Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS), con la Empresa SERPIC S. de R.L. de C.V., que literalmente dice…
+3. Contrato SDO-O-FHIS-07-2024 “REPOSICIÓN SISTEMA DE AGUA POTABLE EN ALDEA CASCO URBANO, MUNICIPIO DE APACILAGUA EN EL DEPARTAMENTO DE CHOLUTECA, CÓDIGO 109073” Lote No. 2 del Proceso: HN-SEDECOAS-371603-CW-RFB suscrito en fecha veinte (20) de Mayo de Dos Mil Veinticuatro (2024), por EL FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS) – Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS), con la Empresa SERPIC S. de R.L. de C.V., que literalmente dice…
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-03-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220810-35998/download"
 extraido: "2026-11-14"
-huella: "91ba0d1f4c9ae9a6"
+huella: "04a60b19cc184255"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-03-2022
@@ -67,7 +67,7 @@ CONSIDERANDO: Que el Artículo 293 de la Constitución de la República, define 
 
 POR TANTO, En aplicación de los Artículos 87, 245 numerales 2, 11 y 19; 247, 252, 321 y 323 de la Constitución de la República;
 
-Artículos 11, 14 numeral 4; 29 numeral 11; 116, 117 y 119 de la Ley General de la Administración Pública; Artículo 2 del Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional; Artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional; y Decreto Ejecutivo Número PCM-061- 2017 mediante el cual se crea el Instituto Nacional para la Atención a Menores Infractores (INAMI); Artículo 9 de la Ley de Contratación del Estado y demás aplicables.
+Artículos 11, 14 numeral 4; 29 numeral 11; 116, 117 y 119 de la Ley General de la Administración Pública; Artículo 2 del Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional; Artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional; y Decreto Ejecutivo Número PCM-061-2017 mediante el cual se crea el Instituto Nacional para la Atención a Menores Infractores (INAMI); Artículo 9 de la Ley de Contratación del Estado y demás aplicables.
 
 DECRETA:
 

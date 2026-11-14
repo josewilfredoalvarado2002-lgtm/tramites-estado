@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 89-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211222-35804/download"
 extraido: "2026-11-14"
-huella: "a6522f18e1ed081a"
+huella: "fa6fd2632b217dd2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 89-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

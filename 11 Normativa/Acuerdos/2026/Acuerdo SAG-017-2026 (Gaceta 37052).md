@@ -11,7 +11,7 @@ paginas: "A. 33 - 35"
 sumario: "Acuerdos Nos. SAG-015-2026, SAG-016-2026, SAG-017-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "a34f590cb38b6e73"
+huella: "c845fad61f783fee"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-017-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que mediante Decreto No. 62-2023 se aprobaron las Disposiciones Ge
 
 CONSIDERANDO: Que el “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”, está dirigido a mejorar los ingresos de las familias cafetaleras pequeñas y medianas y que este es uno de los fines principales planteados en el Plan Bicentenario 2022-2026.
 
-CONSIDERANDO: Que en fecha veintiséis (26) de diciembre del dos mil veinticinco (2025) fue firmada la Adenda No.1 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2025, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de TRESCIENTOS CINCUENTA Y CUATRO MILLONES SETESCIENTOS DIECINUEVE MIL DOSCIENTOS VEINTISÉIS LEMPIRAS CON SETENTA Y SIETE CENTAVOS (L. 354,719,226.77), los cuales se deberán destinar para la compra de insumos, contratación del personal que brinde servicios de capacitación y de asistencia técnica, así como el personal administrativo necesario y otros gastos necesarios en que se pueda incurrir durante la ejecución del Programa del Bono Cafetalero. Este monto incluye el equivalente al 5% (Cinco por ciento) que se otorgará al IICA por concepto de Recuperación de Costos Indirectos (RCI). Primer desembolso de L. 150,000,000.00 (CIENTO CINCUENTA MILLONES DE LEMPIRAS EXACTOS) transferidos al IICA el 16 de junio del 2025, para poder cumplir con los compromisos del Programa. Segundo desembolso de
+CONSIDERANDO: Que en fecha veintiséis (26) de diciembre del dos mil veinticinco (2025) fue firmada la Adenda No. 1 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2025, celebrado entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), por un monto de TRESCIENTOS CINCUENTA Y CUATRO MILLONES SETESCIENTOS DIECINUEVE MIL DOSCIENTOS VEINTISÉIS LEMPIRAS CON SETENTA Y SIETE CENTAVOS (L. 354,719,226.77), los cuales se deberán destinar para la compra de insumos, contratación del personal que brinde servicios de capacitación y de asistencia técnica, así como el personal administrativo necesario y otros gastos necesarios en que se pueda incurrir durante la ejecución del Programa del Bono Cafetalero. Este monto incluye el equivalente al 5% (Cinco por ciento) que se otorgará al IICA por concepto de Recuperación de Costos Indirectos (RCI). Primer desembolso de L. 150,000,000.00 (CIENTO CINCUENTA MILLONES DE LEMPIRAS EXACTOS) transferidos al IICA el 16 de junio del 2025, para poder cumplir con los compromisos del Programa. Segundo desembolso de
 
 L. 150,000,000.00 (CIENTO CINCUENTA MILLONES DE
 
@@ -51,9 +51,7 @@ LEMPIRAS EXACTOS) transferidos al IICA el 11 de julio del 2025. Tercer desembols
 
 POR TANTO:
 
-En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos 247 y 321 de la Constitución de la República; 33 párrafo primero; 1, 28, 36 numeral 8); 116 y 122 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; 1, 3, 24 y 29 numeral 3) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, según Decreto Ejecutivo PCM-04-2022 de fecha 06 de Abril del 2022, Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”, año 2024; Decreto No. 62-2023 relativo a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2024; Adenda No.
-
-1 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2025”.
+En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos 247 y 321 de la Constitución de la República; 33 párrafo primero; 1, 28, 36 numeral 8); 116 y 122 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo; 1, 3, 24 y 29 numeral 3) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, según Decreto Ejecutivo PCM-04-2022 de fecha 06 de Abril del 2022, Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”, año 2024; Decreto No. 62-2023 relativo a las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2024; Adenda No. 1 a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2025”.
 
 ACUERDA:
 

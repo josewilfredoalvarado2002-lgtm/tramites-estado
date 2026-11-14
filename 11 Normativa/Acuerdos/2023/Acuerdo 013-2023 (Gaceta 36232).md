@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ejecutivos Nos. 013-2023, 1712023, Acuerdos Nos. 125-2023, 0169-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230519-36232/download"
 extraido: "2026-11-14"
-huella: "557f4e4fa9a02b38"
+huella: "a78e6dd85f253665"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 013-2023
@@ -49,7 +49,7 @@ CONSIDERANDO: Que por sus diversas ocupaciones en el ejercicio de su cargo, el S
 
 POR TANTO
 
-En aplicación de los Artículos 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, 4, 24, segundo párrafo y 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Ejecutivo PCM- 27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
+En aplicación de los Artículos 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, 4, 24, segundo párrafo y 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Ejecutivo PCM-27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
 ACUERDA
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Decreto Ejecutivo número PCM-031-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200411-35224/download"
 extraido: "2026-11-14"
-huella: "392cd1e8e6b8ea40"
+huella: "a2f1f210a575fbaa"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-031-2020
@@ -43,9 +43,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013;
 
-Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No.
-
-32-2020; Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020 y PCM-028,-2020.
+Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020 y PCM-028,-2020.
 
 DECRETA:
 
@@ -125,7 +123,7 @@ PRIMERO: Aprobar el Reglamento de Registro de Establecimientos importadores, pro
 
 Artículo 1 DE LAS DEFINICIONES. Para efectos de interpretación y aplicación del presente Reglamento se tendrán el consideración las definiciones siguientes:
 
-1. DECLARACION JURADA: Manifestación por escrito que emite el Administrado, legitimado para actuar en nombre del establecimiento, mediante la cual declara bajo fe de juramento que éste cumple con los requisitos y las condiciones necesarias para su operación; que conoce y cumple con la normativa específica vigente y leyes conexas para su tipo de establecimiento; y que la información suministrada en el formulario aprobado por SENASA es verídica y vigente. Lo anterior bajo las sanciones administrativas establecidas en la Ley Fitozoosanitaria No 157- 94 modificada mediante Decreto No.334-2005 sin perjuicio de la responsabilidad profesional, civil y penal. Dicha declaración debe ser autenticada por un Abogado.
+1. DECLARACION JURADA: Manifestación por escrito que emite el Administrado, legitimado para actuar en nombre del establecimiento, mediante la cual declara bajo fe de juramento que éste cumple con los requisitos y las condiciones necesarias para su operación; que conoce y cumple con la normativa específica vigente y leyes conexas para su tipo de establecimiento; y que la información suministrada en el formulario aprobado por SENASA es verídica y vigente. Lo anterior bajo las sanciones administrativas establecidas en la Ley Fitozoosanitaria No 157-94 modificada mediante Decreto No. 334-2005 sin perjuicio de la responsabilidad profesional, civil y penal. Dicha declaración debe ser autenticada por un Abogado.
 
 2. ESTABLECIMIENTO: Edificio o zona que se utiliza para efectuar actividades relacionadas con la higiene de los productos y/o subproductos de origen animal y/o vegetal y que ha sido registrado, aprobado e incluido en una lista para tal fin por el SENASA.
 
@@ -369,7 +367,7 @@ Artículo 53 - Deróguese; DEL CAPITULO XIV DE LAS INFRACCIONES Y SANCIONES el n
 
 Artículo 257 de las faltas graves del Reglamento para la Inspección, Aprobación y Certificación Sanitaria de Frutas, Hortalizas Frescas y Procesadas, Aprobado mediante Acuerdo N°. 256-14 de fecha 11 de septiembre de 2014; DEL
 
-CAPITULO XII DE LAS INFRACCIONES Y SANCIONES los incisos k) y l) del Artículo 188 de las faltas graves del Reglamento de la Inspección Sacrificio e Industrialización de Productos y Subproductos Avícolas Acuerdo N°. 552- 05; DEL CAPITULO XII DE LAS INFRACCIONES Y SANCIONES el numeral 3) inciso i) del Artículo 341 de las faltas graves del Reglamento de Inspección Oficial de Carnes y Productos Cárnicos, aprobado mediante Acuerdo N°. 078-00 de fecha 15 de febrero del 2000; EL CAPITULO XIV DE LAS INFRACCIONES Y SANCIONES el inciso
+CAPITULO XII DE LAS INFRACCIONES Y SANCIONES los incisos k) y l) del Artículo 188 de las faltas graves del Reglamento de la Inspección Sacrificio e Industrialización de Productos y Subproductos Avícolas Acuerdo N°. 552-05; DEL CAPITULO XII DE LAS INFRACCIONES Y SANCIONES el numeral 3) inciso i) del Artículo 341 de las faltas graves del Reglamento de Inspección Oficial de Carnes y Productos Cárnicos, aprobado mediante Acuerdo N°. 078-00 de fecha 15 de febrero del 2000; EL CAPITULO XIV DE LAS INFRACCIONES Y SANCIONES el inciso
 
 a) del Artículo 70 de las faltas graves del Reglamento para la Inspección y Certificación Sanitaria de la Leche y los Productos de Origen Animal, Acuerdo N°. 656-0; DEL
 

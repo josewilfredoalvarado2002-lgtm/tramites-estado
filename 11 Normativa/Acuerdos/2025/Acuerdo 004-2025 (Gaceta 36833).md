@@ -11,7 +11,7 @@ paginas: "A. 9 - 16"
 sumario: "Acuerdo SEDECOAS No. 004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250509-36833/download"
 extraido: "2026-11-11"
-huella: "08f9b39368081d71"
+huella: "d5683b17f26cbf25"
 ---
 <!-- portal:inicio -->
 # ACUERDO SEDECOAS No. 004-2025
@@ -37,9 +37,9 @@ CONSIDERANDO: Que el deporte es un derecho fundamental, que debe ser reconocido 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número 12-90 se crea el Fondo Hondureño de Inversión Social (FHIS) cuya finalidad es la de promover el mejoramiento de las condiciones de vida de los grupos sociales marginados en el área rural y urbana, mediante el otorgamiento de financiamientos para programas y proyectos de desarrollo social o económico, con el propósito de aumentar su productividad, sus niveles de empleo de ingresos y de contribuir a la satisfacción de sus necesidades básicas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 056-2019 se crea la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS) con el propósito de promover el Desarrollo Comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos, en alianza con gobiernos locales y socios estratégicos, para mejorar la calidad de vida.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-056-2019 se crea la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS) con el propósito de promover el Desarrollo Comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos, en alianza con gobiernos locales y socios estratégicos, para mejorar la calidad de vida.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 09-2025 se crea el “PROGRAMA DE VIVIENDA: ASTROS CATRACHOS” adscrito a la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento / Fondo Hondureño de Inversión Social (SEDECOAS/ FHIS) con el objetivo de fomentar el más alto rendimiento y desarrollo integral de los deportistas, equipos deportivos, entrenadores y directores técnicos en todas las disciplinas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-09-2025 se crea el “PROGRAMA DE VIVIENDA: ASTROS CATRACHOS” adscrito a la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento / Fondo Hondureño de Inversión Social (SEDECOAS/ FHIS) con el objetivo de fomentar el más alto rendimiento y desarrollo integral de los deportistas, equipos deportivos, entrenadores y directores técnicos en todas las disciplinas.
 
 CONSIDERANDO: Que los Secretarios de Estado son colaboradores de la Presidencia de la República en los ámbitos de su competencia facultados para la elaboración de Reglamentos a través de los Acuerdos Ministeriales.
 
@@ -195,7 +195,7 @@ i) Y cualquier otra función derivada del programa.
 
 b) Asesoría Legal:
 
-a) Elaborar y revisar contratos de compra- venta y construcción;
+a) Elaborar y revisar contratos de compra-venta y construcción;
 
 b) Asegurar el cumplimiento de la normativa legal en la adquisición de terrenos y construcción de viviendas;
 

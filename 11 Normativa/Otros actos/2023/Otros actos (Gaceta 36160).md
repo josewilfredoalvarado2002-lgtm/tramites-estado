@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230220-36160/download"
 extraido: "2026-11-14"
-huella: "6d2d5d1b2a171cb5"
+huella: "68453ac06dbaaf3d"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ DECRETO EJECUTIVO NÚMERO PCM 10-2023 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBL
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 29-2022 de fecha 03 de diciembre de 2022, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99 a partir de las 6:00 p. m. del día 6 de diciembre del 2022 y hasta las 6:00 p. m. del día 6 de enero del año 2023.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 01-2023 de fecha 06 de Enero de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99 , a partir de las 6:00 p.m. del día viernes 06 de enero de 2023 y hasta las 6:00 p.m. del día lunes 20 de febrero de 2023.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 01-2023 de fecha 06 de Enero de 2023, la Presidenta de la República en Consejo de Ministros, decretó la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99, a partir de las 6:00 p.m. del día viernes 06 de enero de 2023 y hasta las 6:00 p.m. del día lunes 20 de febrero de 2023.
 
 CONSIDERANDO: Que en cumplimiento a lo establecido en la Constitución de la República, se convocó al Congreso Nacional para que dentro del plazo de 30 días conociera los Decretos de Suspensión de Garantías Constitucionales, los cuales fueron ratificados y aprobados por este Poder del Estado, mediante Decreto Legislativo No. 156-2022 y Decreto Legislativo No. 03-2023, respectivamente.
 

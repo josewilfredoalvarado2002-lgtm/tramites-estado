@@ -11,7 +11,7 @@ paginas: "A. 10"
 sumario: "Acuerdos Ejecutivos Nos. 106-2023, 125-2023, 133-2023, 134-2023, 140-2023, 150-2023, 155-2023, 157-2023, 158-2023, 175-2023, 176-2023, 180-2023, 181-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230912-36332/download"
 extraido: "2026-11-14"
-huella: "be8aa0fa815bfa53"
+huella: "20d4eaf8b3b8fe09"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 175-2023
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; y, 2 del Decreto Ejecutivo PCM 28- 2023, publicado en el Diario Oficial La Gaceta, en fecha 23 de junio de 2023.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; y, 2 del Decreto Ejecutivo PCM 28-2023, publicado en el Diario Oficial La Gaceta, en fecha 23 de junio de 2023.
 
 ACUERDA
 

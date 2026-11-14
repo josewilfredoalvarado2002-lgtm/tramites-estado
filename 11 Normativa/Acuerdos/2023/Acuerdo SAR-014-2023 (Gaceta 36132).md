@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos SAR No. 544-2022, No. SAR-014-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230118-36132/download"
 extraido: "2026-11-14"
-huella: "11bc2d734b99e2b7"
+huella: "7d6240a163d860b5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-014-2023
@@ -37,13 +37,9 @@ CONSIDERANDO: Que el Artículo 195 numeral 1 del Código Tributario crea la Admi
 
 CONSIDERANDO: Que el Artículo 198 numeral 12 del Código Tributario le otorga la atribución a la Administración Tributaria de aprobar acuerdos para la aplicación eficiente de las disposiciones en materia tributaria, de conformidad con el Código Tributario y la Ley. Dicha atribución es materializada por el Director Ejecutivo con rango Ministerial, quien es la máxima autoridad y representante legal de esta institución.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que el primer párrafo del Artículo 1 de la Ley del Impuesto Sobre la Renta establece un impuesto anual denominado Impuesto Sobre la Renta que grava los ingresos provenientes del capital, del trabajo o de la combinación de ambos, según se determina por dicha Ley.
 

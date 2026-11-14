@@ -11,7 +11,7 @@ paginas: "A. 25 - 28"
 sumario: "Acuerdo Ejecutivo número 023-SP-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210716-35658/download"
 extraido: "2026-11-14"
-huella: "50c745af14eb3f40"
+huella: "b07063a3f4d3af29"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 023-SP-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en fecha veinticuatro (24) de mayo del año dos mil veintiuno 
 
 POR TANTO, En uso de las facultades de que está investido y en aplicación de los Artículo 247 de la Constitución de la República, Artículos 5, 6, 116, 118 y 119 de la Ley General de la Administración Pública; Artículo 4 y 5 de la Ley del Procedimiento Administrativo.
 
-A C U E R D A:
+ACUERDA:
 
 1. Cancelar al ciudadano ERASMO VIRGILIO PADILLA CARÍAS, a partir del cuatro de junio de dos mil veintiuno (04.06.2021), en el cargo de Asesor de la Secretaría de Estado en el Despacho de la Presidencia, cargo que desempeñó de manera Ad Honorem.
 
@@ -69,9 +69,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de julio del año 2021; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas en las cantidades detalladas para cada una:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de julio del año 2021; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas en las cantidades detalladas para cada una:
 
 SEGUNDO: Las empresas nominadas en el Numeral Primero, podrán realizar la importación del volumen asignado de Cebolla de manera total o parcial, para lo cual deberán presentar la solicitud de las Licencias de Importación ante la Dirección General de Integración Económica y Política Comercial de la Secretaría de Desarrollo Económico.
 

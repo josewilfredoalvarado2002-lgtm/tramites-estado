@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decretos Ejecutivos Números PCM 03-2023, PCM 04-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230116-36130/download"
 extraido: "2026-11-14"
-huella: "cf5f2634b6fd6900"
+huella: "325b90bcb4a34eb1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 03-2023, PCM 04-2023
@@ -53,9 +53,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Declarar en ESTADO DE EMERGENCIA en todo el territorio nacional a la Empresa Nacional de Energía Eléctrica (ENEE), en todas sus unidades y dependencias, particularmente a la Unidad Ejecutora de Proyectos de Energía Renovable (UEPER), en todas las actividades atinentes a sus funciones contenidas en el Decreto Legislativo N°.
-
-279-2010, autorizando a la Unidad Ejecutora de Proyectos de Energía Renovable (UEPER) para realizar mediante el proceso de contratación directa con todos sus requerimientos, la adquisición de bienes, servicios, suministros, construcción y ejecución de obras, arrendamiento de bienes, prestación de servicios de consultorías, especialmente las que sean necesarios para la ejecución de la Represa El Tablón y demás programas, proyectos y acciones destinados a la contención y control de toda clase de desastres naturales, gozando dichos procesos de todas las prerrogativas y dispensas contenidas en el Decreto Legislativo N°. 279-2010. De igual forma se le autoriza para que proceda a elaborar, aprobar y ejecutar, todas aquellas actividades necesarias para asegurar el normal y eficiente funcionamiento de las represas hidroeléctricas propiedad de la Empresa Nacional de Energía Eléctrica (ENEE).
+ARTÍCULO 1: Declarar en ESTADO DE EMERGENCIA en todo el territorio nacional a la Empresa Nacional de Energía Eléctrica (ENEE), en todas sus unidades y dependencias, particularmente a la Unidad Ejecutora de Proyectos de Energía Renovable (UEPER), en todas las actividades atinentes a sus funciones contenidas en el Decreto Legislativo N°. 279-2010, autorizando a la Unidad Ejecutora de Proyectos de Energía Renovable (UEPER) para realizar mediante el proceso de contratación directa con todos sus requerimientos, la adquisición de bienes, servicios, suministros, construcción y ejecución de obras, arrendamiento de bienes, prestación de servicios de consultorías, especialmente las que sean necesarios para la ejecución de la Represa El Tablón y demás programas, proyectos y acciones destinados a la contención y control de toda clase de desastres naturales, gozando dichos procesos de todas las prerrogativas y dispensas contenidas en el Decreto Legislativo N°. 279-2010. De igual forma se le autoriza para que proceda a elaborar, aprobar y ejecutar, todas aquellas actividades necesarias para asegurar el normal y eficiente funcionamiento de las represas hidroeléctricas propiedad de la Empresa Nacional de Energía Eléctrica (ENEE).
 
 #### Artículo 2
 

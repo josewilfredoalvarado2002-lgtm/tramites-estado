@@ -11,7 +11,7 @@ paginas: "A. 1 - 86"
 sumario: "Decreto Ejecutivo número PCM-120-2021Política de Acceso Universal a la Electricidad para Honduras"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211130-35785/download"
 extraido: "2026-11-14"
-huella: "b77eababe1801376"
+huella: "32461979b93cf882"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-120-2021
@@ -55,7 +55,7 @@ CONSIDERANDO: Que el acceso universal de la energía eléctrica permitirá forta
 
 POR TANTO, En aplicación de las atribuciones que le otorgan los
 
-Artículos 15, 59, 245 numerales 2 y 11 de la Constitución de la República; Artículos 1, 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública reformado mediante Decreto Legislativo No. 266- 2013; y, Decreto Ejecutivo Número PCM-048-2017.
+Artículos 15, 59, 245 numerales 2 y 11 de la Constitución de la República; Artículos 1, 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública reformado mediante Decreto Legislativo No. 266-2013; y, Decreto Ejecutivo Número PCM-048-2017.
 
 DECRETA:
 
@@ -335,7 +335,7 @@ La única diferencia entre la reforma del 94 y la actual situación es el hecho 
 
 La creación de la Secretaría de Energía y la PAUEH Se crea la Secretaría de Estado en el Despacho de Energía
 
-(SEN) en el 2017, vía decreto ejecutivo número PCM-048- 2017, como una institución rectora del sector energético nacional, asumiendo el rol en ese tema, anteriormente manejado por la Secretaría de Energía, Recursos Naturales, Ambiente y Minas (SERNA-MiAmbiente+)2. Además, la creación de la SEN viene a cumplir con lo que la LGIE establece, la creación de una Secretaría de Estado designada como autoridad superior en el Subsector Eléctrico.
+(SEN) en el 2017, vía decreto ejecutivo número PCM-048-2017, como una institución rectora del sector energético nacional, asumiendo el rol en ese tema, anteriormente manejado por la Secretaría de Energía, Recursos Naturales, Ambiente y Minas (SERNA-MiAmbiente+)2. Además, la creación de la SEN viene a cumplir con lo que la LGIE establece, la creación de una Secretaría de Estado designada como autoridad superior en el Subsector Eléctrico.
 
 El objetivo estratégico de la SEN es el “desarrollar una política energética nacional sostenible e integral que fomente la participación de recursos energéticos renovables y su aprovechamiento eficiente, que permita el desarrollo del subsector eléctrico y el acceso de servicios eléctricos de calidad”.
 
@@ -393,7 +393,7 @@ Se colige de lo anterior que una mejora progresiva en materia de salud, educaci�
 
 Otro compromiso adquirido es la Agenda 2030 para el Desarrollo Sostenible, que fue suscrita y adoptada por 193 países, incluyendo Honduras en el marco de la LXX Asamblea General de la Organización de las Naciones Unidas (ONU), en septiembre de 2015, como un compromiso de las aspiraciones y prioridades del desarrollo para los próximos 15 años. La Agenda 2030, se concibe como una agenda transformadora, que pone a la igualdad y dignidad de las personas en el centro del desarrollo, e incluye 17 objetivos y 169 metas con una visión integral del desarrollo sostenible en sus dimensiones económica, social y ambiental.
 
-Honduras adopta la Agenda 2030 y los consecuentes compromisos de país mediante Decreto Ejecutivo PCM-064- 2018 (SCGG, 2020) a través de la Agenda Nacional 2030 para los Objetivos de Desarrollo Sostenible (AN-ODS), que comprende los 17 ODS de la Agenda 2030, priorizando 68 metas y 99 indicadores nacionales, definidos con base en su alineamiento con los principales instrumentos del Sistema Nacional de Planificación del Desarrollo (SNPD) como ser: la Visión de País al 2038, el Plan de Nación al 2022 y el Plan Estratégico de Gobierno 2018-2022; así como las capacidades de medición del Sistema Nacional de Estadísticas (SEN).
+Honduras adopta la Agenda 2030 y los consecuentes compromisos de país mediante Decreto Ejecutivo PCM-064-2018 (SCGG, 2020) a través de la Agenda Nacional 2030 para los Objetivos de Desarrollo Sostenible (AN-ODS), que comprende los 17 ODS de la Agenda 2030, priorizando 68 metas y 99 indicadores nacionales, definidos con base en su alineamiento con los principales instrumentos del Sistema Nacional de Planificación del Desarrollo (SNPD) como ser: la Visión de País al 2038, el Plan de Nación al 2022 y el Plan Estratégico de Gobierno 2018-2022; así como las capacidades de medición del Sistema Nacional de Estadísticas (SEN).
 
 La Visión de País (VP) 2010-2038, integra cuatro (4) objetivos nacionales:
 
@@ -427,9 +427,9 @@ Esta VP se ha concretado bajo la progresiva ejecución del Plan de Nación (PN) 
 
 10. Competitividad, imagen país y desarrollo de sectores productivos
 
-11. Adaptación y mitigación al cambio climático La Visión de País 2010-2038 (VP) y Plan de Nación 2010- 2022 (PN), en este orden de ideas, es también el marco legal que determina el norte a seguir en el proceso de desarrollo de Honduras. De lo anterior, se puede afirmar que la PAUEH se ajusta a los planteamientos de la VP; siendo estos los relacionados con el sector salud, educación y distribución y producción de la riqueza. Es así como, parte de las metas establecidas para los objetivos 1 y 3 de la VP son potenciadas con el acceso universal a la electricidad. De manera general y como ejemplo: el acceso confiable, estable, permanente, amigable con el medio ambiente y económicamente eficiente permiten mejorar la calidad de la salud y la educación, principalmente en el sector rural y áreas periurbanas.
+11. Adaptación y mitigación al cambio climático La Visión de País 2010-2038 (VP) y Plan de Nación 2010-2022 (PN), en este orden de ideas, es también el marco legal que determina el norte a seguir en el proceso de desarrollo de Honduras. De lo anterior, se puede afirmar que la PAUEH se ajusta a los planteamientos de la VP; siendo estos los relacionados con el sector salud, educación y distribución y producción de la riqueza. Es así como, parte de las metas establecidas para los objetivos 1 y 3 de la VP son potenciadas con el acceso universal a la electricidad. De manera general y como ejemplo: el acceso confiable, estable, permanente, amigable con el medio ambiente y económicamente eficiente permiten mejorar la calidad de la salud y la educación, principalmente en el sector rural y áreas periurbanas.
 
-El plan estratégico de Gobierno para el período 2018- 2022, identifica entre otros sectores el de infraestructura y desarrollo logístico, incluyendo la energía eléctrica y telecomunicaciones, entre otras. Convergiendo en el Objetivo de Desarrollo Sostenible 7 (ODS 7) que consigna: “Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos”.
+El plan estratégico de Gobierno para el período 2018-2022, identifica entre otros sectores el de infraestructura y desarrollo logístico, incluyendo la energía eléctrica y telecomunicaciones, entre otras. Convergiendo en el Objetivo de Desarrollo Sostenible 7 (ODS 7) que consigna: “Garantizar el acceso a una energía asequible, fiable, sostenible y moderna para todos”.
 
 El desarrollo de proyectos de acceso a la electricidad, requiere la creación de un marco estratégico, claro y preciso: una política de acceso universal, con la definición de competencias y responsabilidades de los distintos actores involucrados, que integre además elementos para garantizar procesos transparentes y vinculantes, asegurando la eficiencia de los proyectos, el éxito de estos y la intervención bajo una perspectiva de solución de conflictos mediante un plan de acción ordenado y estructurado. Esto con la finalidad primaria de lograr un país sin pobreza extrema, con educación, salud y bienestar social.
 
@@ -651,7 +651,7 @@ El Informe del Ordenamiento Territorial en Honduras (Observatorio Universitario 
 
 Áreas protegidas en Honduras El Sistema Nacional de Áreas Protegidas de Honduras (SINAPH) establece que en Honduras existen actualmente 91 áreas protegidas, de estas áreas 68 poseen declaratoria del Congreso Nacional, 7 son acuerdos presidenciales y 16 se encuentran aún a nivel de propuesta y conformación de expediente; de todas las áreas protegidas, 45 de ellas poseen plan de manejo de protección, lo que representa 3.1 millones de hectáreas (Dirección de Áreas Protegidas y Vida Silvestre Instituto de Conservación Forestal, 2020).
 
-Actualmente existen una serie de estrategias y políticas del Estado de Honduras para el manejo de las áreas protegidas, de las cuales se puede mencionar: Estrategia Nacional de Biodiversidad (Dirección de Biodiversidad (MiAmbiente), 2017), Plan Estratégico del SINAPH (2010-2020) (Instituto de Conservación Forestal, 2009), Programa Nacional Forestal, Áreas Protegidas y Vida Silvestre Honduras 2010-2030 (Instituto de Conservación Forestal, 2009), Política Nacional de Turismo Sostenible y Lineamientos Estratégicos para el SINAPH (Instituto de Conservación Forestal, 2014) y la Estrategia para la Consolidación de Corredores Biológicos de Honduras (Departamento de Áreas Protegidas Instituto de Conservación Forestal , 2013). El SINAPH depende en su administración del Instituto de Conservación Forestal, Áreas Protegidas y Vida Silvestre, el cual se crea bajo Decreto Legislativo 98-2007 del gobierno de Honduras.
+Actualmente existen una serie de estrategias y políticas del Estado de Honduras para el manejo de las áreas protegidas, de las cuales se puede mencionar: Estrategia Nacional de Biodiversidad (Dirección de Biodiversidad (MiAmbiente), 2017), Plan Estratégico del SINAPH (2010-2020) (Instituto de Conservación Forestal, 2009), Programa Nacional Forestal, Áreas Protegidas y Vida Silvestre Honduras 2010-2030 (Instituto de Conservación Forestal, 2009), Política Nacional de Turismo Sostenible y Lineamientos Estratégicos para el SINAPH (Instituto de Conservación Forestal, 2014) y la Estrategia para la Consolidación de Corredores Biológicos de Honduras (Departamento de Áreas Protegidas Instituto de Conservación Forestal, 2013). El SINAPH depende en su administración del Instituto de Conservación Forestal, Áreas Protegidas y Vida Silvestre, el cual se crea bajo Decreto Legislativo 98-2007 del gobierno de Honduras.
 
 Todo desarrollo de proyectos de energía eléctrica, en este contexto, debe considerar fundamentalmente aspectos de ubicación con respecto a áreas protegidas y si estas cuentan o no con planes de manejo que los hagan compatibles con éste y viables para su desarrollo.
 
@@ -1207,7 +1207,7 @@ La presente política, aparte de ser bien formulada en el marco del bienestar p�
 
 Las directrices para la formulación y aprobación de políticas públicas circuladas por la SCGG señalan que el ciclo de implementación será responsabilidad de la administración pública y deberá asegurar que la decisión de adoptar esta PP se traduzca en hechos concretos (SCGG, 2020).
 
-La implementación es también un ciclo de participación integral, donde los actores involucrados son inherentes a las acciones definidas, contribuyen, aportan y son veedores de verificar la calidad; así mismo, la institución pública responsable de la implementación se encarga de mantener vigente las sinergias de los actores identificados en el proceso de la formulación de la PAUEH6 ,12incluyendo sus diferentes pesos de intervención y responsabilidades.
+La implementación es también un ciclo de participación integral, donde los actores involucrados son inherentes a las acciones definidas, contribuyen, aportan y son veedores de verificar la calidad; así mismo, la institución pública responsable de la implementación se encarga de mantener vigente las sinergias de los actores identificados en el proceso de la formulación de la PAUEH6,12incluyendo sus diferentes pesos de intervención y responsabilidades.
 
 Monitoreo y evaluación El monitoreo y evaluación de la Política de Acceso Universal a la Electricidad para Honduras determina cuan efectiva es 6 Durante el proceso de formulación de la PAUEH, se realizó un mapeo inicial de actores, los cuales se listaron en el documento de Diagnóstico, para luego, complementarlos con en el mapeo de las instituciones responsables vinculadas al marco estratégico de la política. la implementación, permiten que las distintas categorías de actores sociales e institucionales y las instancias de concertación y de dirección de una operación tengan, a sus diferentes niveles, un acceso fácil a datos relevantes.
 
@@ -1427,7 +1427,7 @@ Número de mantenimiento y sostenibilidad de técnico y profesional relacionados
 
 OE6R3 OE7R1 educativos orientados al mantenimiento de los Preparar programas sector rural, para la sistemas aislados y microrredes. operación y OE7 Responsable Línea Objetivo Estratégico OE1 Mejorar la planificación de la industria eléctrica en lo relativo a la cobertura y el acceso a la electricidad, considerando los resultados de corto, mediano y Cod Resultados Cod Intervenciones/ Estrategias Indicadores Metas por Periodo Institución Eje/ Componente C1 Componente técnico Base 2022 2023 2024 2025 2026 2027 Matriz Plan de Acción largo plazo.
 
-Electrificación destinado a la Distribuidoras , SEN, ODS, Social.
+Electrificación destinado a la Distribuidoras, SEN, ODS, Social.
 
 Fondo base. * 30% 60% 100% Actualizar Actualizar Actualizar Crear línea Cantidad de estudios de realizados. viabilidad Elaborar estudios de viabilidad de distintos escenarios de cobertura ICAEH (Informe de Cobertura y priorizando las zonas según el Acceso a la Electricidad para Honduras) considerando los acuerdo con el PEAUE, y acceso.
 

@@ -11,7 +11,7 @@ paginas: "A. 42 - 54"
 sumario: "Acuerdos Nos. SAG-219-2026, SAG-220-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260710-37190/download"
 extraido: "2026-11-09"
-huella: "0c8eb79a40fd89b0"
+huella: "81ad45f505609315"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-220-2026
@@ -45,9 +45,7 @@ CONSIDERANDO (6): Que Honduras desde el 2012 inició el Proyecto de Mejoramiento
 
 CONSIDERANDO (7): Que el presente Acuerdo Ministerial, tiene por objeto establecer medidas de ordenación, conservación y aprovechamiento sostenible de la pesquería de langosta espinosa “Panulirus argus”, con base en principios científicos, precautorios y ecosistémicos necesarios para garantizar la sostenibilidad biológica y viabilidad económica del sector pesquero.
 
-CONSIDERANDO (8): Que tras haber cumplido con los requisitos establecidos en el Reglamento (CE) No.
-
-1005/2008, que instituye un sistema comunitario para prevenir, desalentar y eliminar la pesca ilegal no declarada y no reglamentada (INDR), Honduras ha sido incluida en la lista oficial de Estados de Bandera autorizados para la exportación de productos pesqueros a la Unión Europea, lo que ratifica el cumplimiento de los más altos estándares internacionales en materia de pesca y comercio de productos pesqueros.
+CONSIDERANDO (8): Que tras haber cumplido con los requisitos establecidos en el Reglamento (CE) No. 1005/2008, que instituye un sistema comunitario para prevenir, desalentar y eliminar la pesca ilegal no declarada y no reglamentada (INDR), Honduras ha sido incluida en la lista oficial de Estados de Bandera autorizados para la exportación de productos pesqueros a la Unión Europea, lo que ratifica el cumplimiento de los más altos estándares internacionales en materia de pesca y comercio de productos pesqueros.
 
 CONSIDERANDO (9): Que Honduras es firmante de tratados internacionales para la protección de la diversidad biológica marina, contaminación del medio marino por buques, así como el Convenio de las especies altamente migratorias. Por lo cual se prohíbe la extracción, la caza y la pesca dirigida de todas las especies de corales, mamíferos marinos, tortugas marinas, aves marinas, determinados peces cartilaginosos y demás especies no autorizadas por esta Secretaría; de igual manera se insta a la aplicación de medidas preventivas para reducir al mínimo la contaminación al medio marino.
 

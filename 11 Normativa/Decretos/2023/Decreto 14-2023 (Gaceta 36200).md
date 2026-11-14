@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 14-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230410-36200/download"
 extraido: "2026-11-14"
-huella: "4d64ff36b5eb4e4a"
+huella: "4bc0923e31da45be"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 14-2023
@@ -35,11 +35,11 @@ CONSIDERANDO: Que, de acuerdo al Artículo 332 de la Constitución de la Repúbl
 
 CONSIDERANDO: Que, la amnistía tributaria constituye un perdón a favor de quien lo pide o lo solicite y que no puede darse un tratamiento discriminatorio, si se cumplen los elementos objetivos y subjetivos para gozar de dicho beneficio.
 
-CONSIDERANDO: Que, mediante Decreto No.15-2022 de fecha 9 de Marzo del año 2022, el Congreso Nacional aprobó una amnistía vehicular creando una excepción precedida de una valoración de las condiciones de legalidad tributaria y de las motivaciones de orden social y económico contenidas en el Decreto No. 17-2010 y sus reformas que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, que se ocupa de las regulaciones originarias para la importación de vehículos de trabajo liviano, camiones y partes usadas.
+CONSIDERANDO: Que, mediante Decreto No. 15-2022 de fecha 9 de Marzo del año 2022, el Congreso Nacional aprobó una amnistía vehicular creando una excepción precedida de una valoración de las condiciones de legalidad tributaria y de las motivaciones de orden social y económico contenidas en el Decreto No. 17-2010 y sus reformas que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, que se ocupa de las regulaciones originarias para la importación de vehículos de trabajo liviano, camiones y partes usadas.
 
-CONSIDERANDO: Que, la ampliación de la vigencia de la amnistía vehicular establecida mediante Decreto No.15- 2022, es motivada esencialmente en virtud del beneficio que ha generado al sector productivo dedicado a la importación de vehículos, el cual indirectamente se traslada a la población en general ya que permite adquirir vehículos de calidad a bajo costo, favorece el comercio y genera facilidades a los productores del campo.
+CONSIDERANDO: Que, la ampliación de la vigencia de la amnistía vehicular establecida mediante Decreto No. 15-2022, es motivada esencialmente en virtud del beneficio que ha generado al sector productivo dedicado a la importación de vehículos, el cual indirectamente se traslada a la población en general ya que permite adquirir vehículos de calidad a bajo costo, favorece el comercio y genera facilidades a los productores del campo.
 
-CONSIDERANDO: Que, el Decreto No.170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre de 2016, contentivo del Código Tributario vigente en su Artículo 2, numeral 4), establece que la amnistía es un beneficio que se concede mediante Ley a los deudores tributarios que tiene por objeto condonar el pago parcial o total de las obligaciones pecunarias accesorias de la deuda tributaria.
+CONSIDERANDO: Que, el Decreto No. 170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre de 2016, contentivo del Código Tributario vigente en su Artículo 2, numeral 4), establece que la amnistía es un beneficio que se concede mediante Ley a los deudores tributarios que tiene por objeto condonar el pago parcial o total de las obligaciones pecunarias accesorias de la deuda tributaria.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ampliar hasta el 4 de Abril de 2026 la VIGENCIA DE LA AMNISTÍA VEHICULAR, contenida en el Artículo 1, numerales 3), 4) y 5) del Decreto No.153-2021 de fecha 20 de Enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 5 de Febrero de 2022, Edición No.35,841, reformado mediante el Decreto No.15-2022 de fecha 9 de Marzo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Abril de 2022, Edición No. 35,890.
+ARTÍCULO 1.- Ampliar hasta el 4 de Abril de 2026 la VIGENCIA DE LA AMNISTÍA VEHICULAR, contenida en el Artículo 1, numerales 3), 4) y 5) del Decreto No. 153-2021 de fecha 20 de Enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 5 de Febrero de 2022, Edición No. 35,841, reformado mediante el Decreto No. 15-2022 de fecha 9 de Marzo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 4 de Abril de 2022, Edición No. 35,890.
 
 #### Artículo 2
 

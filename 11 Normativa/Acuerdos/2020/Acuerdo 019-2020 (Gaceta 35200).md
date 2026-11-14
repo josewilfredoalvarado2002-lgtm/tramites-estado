@@ -8,10 +8,10 @@ gaceta_numero: 35200
 gaceta_fecha: "2020-03-14"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35200 (2020-03-14)|La Gaceta 35200]]"
 paginas: "A. 2 - 4"
-sumario: "Acuerdos Nos. 083-2019, 004-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2020"
+sumario: "Acuerdos Nos. 083-2019, 004-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200314-35200/download"
 extraido: "2026-11-14"
-huella: "e2e43d8ae7d7351f"
+huella: "28d0081d4164e358"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 019-2020
@@ -23,7 +23,7 @@ huella: "e2e43d8ae7d7351f"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35200 (2020-03-14)\|La Gaceta 35200]] del 2020-03-14 |
 | Páginas | A. 2 - 4 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 083-2019, 004-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 019-2020 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 083-2019, 004-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 019-2020 |
 
 ## Texto
 
@@ -35,27 +35,21 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficie
 
 CONSIDERANDO: Que los granos básicos representan el principal alimento de los hondureños y que en los últimos años la producción muestra un comportamiento que no satisface adecuadamente los requerimientos del consumo humano e industrial.
 
-CONSIDERANDO: Que el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, suscrito entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA, SEMOLAS DE HONDURAS, S.A.), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), Consejo Nacional Campesino (CNC), Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), implícito en el Acuerdo Ejecutivo No. 084-2018, publicado en el Diario Oficial “La Gaceta” en fecha 05 de junio del 2018, modificado mediante Addendum Número Dos, contentivo en el Acuerdo No.
-
-212-2019, publicado en el Diario Oficial “La Gaceta” en fecha 13 de diciembre de 2019.
+CONSIDERANDO: Que el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, suscrito entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA, SEMOLAS DE HONDURAS, S.A.), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), Consejo Nacional Campesino (CNC), Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), la Asociación Hondureña de Agricultores (ASOHAGRI), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), implícito en el Acuerdo Ejecutivo No. 084-2018, publicado en el Diario Oficial “La Gaceta” en fecha 05 de junio del 2018, modificado mediante Addendum Número Dos, contentivo en el Acuerdo No. 212-2019, publicado en el Diario Oficial “La Gaceta” en fecha 13 de diciembre de 2019.
 
 CONSIDERANDO: Que las empresas de la Industria de Harinas de Consumo Humano (DEMAHSA, MATURAVE e IMSA), han solicitado la apertura de un contingente de Desabasto de Maíz Blanco, para cubrir los meses de febrero a agosto de 2020; debido a las pérdidas ocasionadas por la sequía lo que ha generado una merma en la producción de maíz.
 
 CONSIDERANDO: Que en reunión sostenida el día 5 de marzo de 2020, con la Comisión de Supervisión del referido Convenio se recomendó aperturar un contingente de desabasto de maíz blanco en base al Análisis Técnico presentado por la SDE y SAG, por la cantidad de 40,000 TM, debido a las pérdidas ocasionadas por los fenómenos naturales de cambio climático que se han presentado, siendo afectada la producción de maíz de la cosecha 2019-2020. (Acta No. 047-2020). En tal sentido el Gobierno tomando en consideración las recomendaciones de la Comisión Supra mencionada, autoriza un contingente de Desabasto de Maíz Blanco por la cantidad de Cuarenta Mil Toneladas Métricas (40,000.00 TM), cuya asignación es en base a las compras de la producción nacional de la cosecha 2018-2019, realizadas por las empresas de la Industria de la Harinas de Maíz Blanco y Alimentos para Consumo Humano.
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Segundo del Acuerdo No.
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Segundo del Acuerdo No. 053-2020, que las empresas ALBECASA Y SEMOLAS DE HONDURAS, presentaron ante esa Secretaría de Estado nota de desistimiento del derecho de importar del Contingente de Desabasto de Maíz Blanco para el año 2020, por tanto, no se incluyeron en la asignación.
 
-053-2020, que las empresas ALBECASA Y SEMOLAS DE HONDURAS, presentaron ante esa Secretaría de Estado nota de desistimiento del derecho de importar del Contingente de Desabasto de Maíz Blanco para el año 2020, por tanto, no se incluyeron en la asignación.
-
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería (SAG), mediante Nota N-SAG-244-2020 de fecha 06 de marzo de 2020 remitió el Acuerdo No.
-
-053-2020 del 06 de marzo de 2020, en el cual solicita establecer un Contingente de Desabasto de Maíz blanco clasificado en el código arancelario SAC. 1005.90.30.00 por un volumen de cuarenta mil toneladas métricas (40,000 TM).
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería (SAG), mediante Nota N-SAG-244-2020 de fecha 06 de marzo de 2020 remitió el Acuerdo No. 053-2020 del 06 de marzo de 2020, en el cual solicita establecer un Contingente de Desabasto de Maíz blanco clasificado en el código arancelario SAC. 1005.90.30.00 por un volumen de cuarenta mil toneladas métricas (40,000 TM).
 
 POR TANTO:
 
 En aplicación de los artículos 255 de la Constitución de la República; 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública;
 
-80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Acuerdo No. 084- 2018, 212-2019 y 053-2020.
+80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Acuerdo No. 084-2018, 212-2019 y 053-2020.
 
 ACUERDA:
 

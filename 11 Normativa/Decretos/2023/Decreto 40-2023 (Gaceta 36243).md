@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decretos Nos. 39-2023, 40-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230601-36243/download"
 extraido: "2026-11-14"
-huella: "4d80c2cac7d524da"
+huella: "5f1b7262dc768e83"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 40-2023
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 1 establece que “Honduras es un Estado de Derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social”.
 
-CONSIDERANDO: Que la Ley de Transporte Terrestre, contenida en el Decreto No.155- 2015 de fecha 17 de Diciembre de 2015, publicada en el Diario Oficial “La Gaceta” No.33,995 del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario. Asimismo, establece que las tarifas del transporte terrestre deben cubrir la totalidad de los costos reales en condiciones normales de productividad y eficacia, permitir la amortización adecuada y un razonable beneficio empresarial y habilita al Poder Ejecutivo para fijar mecanismos económicos para mantener los costos de las tarifas en la medida que las condiciones económicas lo permiten.
+CONSIDERANDO: Que la Ley de Transporte Terrestre, contenida en el Decreto No. 155-2015 de fecha 17 de Diciembre de 2015, publicada en el Diario Oficial “La Gaceta” No. 33,995 del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario. Asimismo, establece que las tarifas del transporte terrestre deben cubrir la totalidad de los costos reales en condiciones normales de productividad y eficacia, permitir la amortización adecuada y un razonable beneficio empresarial y habilita al Poder Ejecutivo para fijar mecanismos económicos para mantener los costos de las tarifas en la medida que las condiciones económicas lo permiten.
 
-CONSIDERANDO: Que el Gobierno de la República en fecha 12 de Abril del año 2022, suscribió un Acuerdo con el Sector de Transporte Público de Personas en la modalidad de Bus Urbano, acordando otorgar una compensación económica provisional por pasajero transportado, a razón de Tres Lempiras (L3.00) por pasajero, hasta un máximo de Mil Ochenta Lempiras (L 1,080.00) por día trabajado por vehículo, con el propósito de aliviar los costos de operación y beneficiar a todos los usuarios de este servicio, evitando incrementos en la tarifa. Este Acuerdo conllevó la aprobación del Decreto Legislativo No.78-2022, de fecha 3 de Agosto 2022 y publicado en el Diario Oficial “La Gaceta” No.36,017 en fecha 1 de Septiembre de 2022, con vigencia determinada del 12 de Abril al 11 de Octubre de 2022 incluyendo la prórroga de tres (3) meses, por lo que es necesario emitir un nuevo Decreto Legislativo para mantener estable el costo de la tarifa en favor de los usuarios del transporte urbano.
+CONSIDERANDO: Que el Gobierno de la República en fecha 12 de Abril del año 2022, suscribió un Acuerdo con el Sector de Transporte Público de Personas en la modalidad de Bus Urbano, acordando otorgar una compensación económica provisional por pasajero transportado, a razón de Tres Lempiras (L3.00) por pasajero, hasta un máximo de Mil Ochenta Lempiras (L 1,080.00) por día trabajado por vehículo, con el propósito de aliviar los costos de operación y beneficiar a todos los usuarios de este servicio, evitando incrementos en la tarifa. Este Acuerdo conllevó la aprobación del Decreto Legislativo No. 78-2022, de fecha 3 de Agosto 2022 y publicado en el Diario Oficial “La Gaceta” No. 36,017 en fecha 1 de Septiembre de 2022, con vigencia determinada del 12 de Abril al 11 de Octubre de 2022 incluyendo la prórroga de tres (3) meses, por lo que es necesario emitir un nuevo Decreto Legislativo para mantener estable el costo de la tarifa en favor de los usuarios del transporte urbano.
 
 CONSIDERANDO: Que conforme al Acuerdo precitado en el considerando precedente, los concesionarios deberán acreditar ante el Instituto Hondureño de Transporte Terrestre (IHTT) el cumplimiento de los compromisos de mejorar la calidad del servicio a favor de los usuarios mediante la certificación de los pilotos y colaboradores, así como el mejoramiento de las terminales, unidades de transporte y la prestación continua del servicio.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -55,7 +55,7 @@ ARTÍCULO 2.- Autorizar un monto de hasta TRES MILLONES QUINIENTOS MIL LEMPIRAS 
 
 #### Artículo 3
 
-ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar y proveer los fondos requeridos con base en el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2023, en el marco del Decreto No. 157-2022 de fecha 12 de Enero de 2023 y publicado en el Diario Oficial “La Gaceta” No.36,127 de fecha 12 de enero del 2023.
+ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar y proveer los fondos requeridos con base en el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2023, en el marco del Decreto No. 157-2022 de fecha 12 de Enero de 2023 y publicado en el Diario Oficial “La Gaceta” No. 36,127 de fecha 12 de enero del 2023.
 
 #### Artículo 4
 
@@ -95,11 +95,11 @@ ARTÍCULO 10.- Los concesionarios del servicio de transporte público de persona
 
 #### Artículo 11
 
-ARTÍCULO 11.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que incorpore en el presupuesto del Ejercicio Fiscal de 2023, del Instituto Hondureño del Transporte Terrestre (IHTT) un monto de CINCO MILLONES SETECIENTOS SETENTA Y TRES MIL TRESCIENTOS VEINTIUN LEMPIRAS CON NOVENTA Y CINCO CENTAVOS (L 5,773,321.95), para cubrir las obligaciones generadas por la aplicación del Decreto Legislativo No.100-2017 publicado en el Diario Oficial “La Gaceta” No.34,478 en fecha 30 de Octubre de 2027 y sus reformas, que aún están pendientes de pago debido a procesos legales entre concesionarios que impidieron la ejecución presupuestaria de estos recursos durante el ejercicio Fiscal 2022.
+ARTÍCULO 11.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que incorpore en el presupuesto del Ejercicio Fiscal de 2023, del Instituto Hondureño del Transporte Terrestre (IHTT) un monto de CINCO MILLONES SETECIENTOS SETENTA Y TRES MIL TRESCIENTOS VEINTIUN LEMPIRAS CON NOVENTA Y CINCO CENTAVOS (L 5,773,321.95), para cubrir las obligaciones generadas por la aplicación del Decreto Legislativo No. 100-2017 publicado en el Diario Oficial “La Gaceta” No. 34,478 en fecha 30 de Octubre de 2027 y sus reformas, que aún están pendientes de pago debido a procesos legales entre concesionarios que impidieron la ejecución presupuestaria de estos recursos durante el ejercicio Fiscal 2022.
 
 #### Artículo 12
 
-ARTÍCULO 12.- Se autoriza al Instituto Hondureño de Transporte Terrestre (IHTT) a atender los reclamos de los concesionarios del transporte público que fueron pagados en el marco del Decreto No.78-2022 de fecha 3 de Agosto del 2022 y publicado en el Diario Oficial “La Gaceta” No.36,017 en fecha Uno se Septiembre 2022, con base en las hojas de verificación, consecuentemente los subsiguientes meses de pago de acuerdo con las hojas de verificación y ticket respectivo de las unidades de transporte que fue verificada su operación y pagarlos cuando corresponda con el presupuesto asignado en el marco del presente Decreto.
+ARTÍCULO 12.- Se autoriza al Instituto Hondureño de Transporte Terrestre (IHTT) a atender los reclamos de los concesionarios del transporte público que fueron pagados en el marco del Decreto No. 78-2022 de fecha 3 de Agosto del 2022 y publicado en el Diario Oficial “La Gaceta” No. 36,017 en fecha Uno se Septiembre 2022, con base en las hojas de verificación, consecuentemente los subsiguientes meses de pago de acuerdo con las hojas de verificación y ticket respectivo de las unidades de transporte que fue verificada su operación y pagarlos cuando corresponda con el presupuesto asignado en el marco del presente Decreto.
 
 #### Artículo 13
 

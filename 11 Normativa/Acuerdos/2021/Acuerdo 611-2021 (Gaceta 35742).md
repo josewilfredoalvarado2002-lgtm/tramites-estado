@@ -11,7 +11,7 @@ paginas: "A. 1 - 14"
 sumario: "Acuerdo No. 611-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211009-35742/download"
 extraido: "2026-11-14"
-huella: "6e91e0a8adc9b6e4"
+huella: "3eb069564fb9586d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 611-2021
@@ -375,7 +375,7 @@ SEGUNDO: El presente Acuerdo es de cumplimiento obligatorio y entrará en vigenc
 
 TERCERO: El incumplimiento de la presente Normas de Cierre Contable 2021 dará lugar a las sanciones establecidas en la Ley Orgánica del Tribunal Superior de Cuentas; el
 
-Artículo 122 de la Ley Orgánica del Presupuesto y Artículo 5 del Decreto Legislativo No.182-2020 de las Disposiciones Generales del Presupuesto.
+Artículo 122 de la Ley Orgánica del Presupuesto y Artículo 5 del Decreto Legislativo No. 182-2020 de las Disposiciones Generales del Presupuesto.
 
 COMUNÍQUESE.
 

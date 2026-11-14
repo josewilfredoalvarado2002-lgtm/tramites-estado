@@ -11,7 +11,7 @@ paginas: "A. 1 - 180"
 sumario: "Decreto No. 107-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211217-35800/download"
 extraido: "2026-11-14"
-huella: "2a551ce0335d66dd"
+huella: "22a318d0d3e27390"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 107-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES EJERCICIO FISCAL 2022.
 
@@ -47,9 +47,9 @@ CAPÍTULO I DE LOS INGRESOS DE LA ADMINISTRACIÓN PÚBLICA
 
 ARTÍCULO 1.- Apruébese como Estimación de Ingresos de la Administración Central para el Ejercicio Fiscal 2022, la suma de CIENTO SETENTA Y NUEVE MIL QUINIENTOS VEINTIDOS MILLONES CIENTO CINCUENTA Y SEIS MIL OCHOCIENTOS CINCUENTA Y SIETE LEMPIRAS EXACTOS (L.179,522,156,857.00) según el detalle descrito a continuación:
 
-D E S C R I P C I O N VALOR INGRESOS TRIBUTARIOS
+DESCRIPCION VALOR INGRESOS TRIBUTARIOS
 
-118,721,594,222 Impuesto Sobre La Renta 36,157,830,760 Sobre la Renta de Personas Naturales 1,000,000,000 Sobre la Renta de Personas Jurídicas 6,041,500,000 Pagos a Cuenta 11,937,600,000 Retención en la Fuente 5,522,000,000 Retención (Art. 5 y 25) 5,896,500,000 Retención por Mora (Art.50) 796,300,000 Retención Intereses (Art.9) 1,055,000,000 Ganancias de Capital 647,400,000 Aportación Solidaria 1,056,700,000 Ganancias de Capital (Zolitur) 23,830,760 Alquiler Habitacional 10% 25,000,000 10% Sobre excedentes de Operaciones Centros Educativos Privados Retención Anticipo de ISR 1% 381,000,000 Percepción Anticipo Renta Natural 100,000 Percepción Anticipo Renta Jurídica 100,000 Pagos a Cuenta Aportación Solidaria 1,736,800,000 Impuesto Sobre La Propiedad 1,030,300,000 Sobre la Tradición de Inmuebles 550,600,000 Al Activo Neto 479,400,000 Sobre La Tradición Dominio de Tierras 300,000 Impuesto Sobre La Producción, Consumo y Ventas 57,276,100,000 Sobre la Producción de Cervezas 1,501,700,000 Sobre la Producción de Aguardiente 170,000,000 Sobre la Producción de Licor Compuesto 96,200,000 Sobre la Producción Forestal 300,000 D E S C R I P C I O N VALOR Sobre la Producción y Consumo de Aguas Gaseosas 1,238,600,000 Sobre Ventas 15% 49,664,300,000 Sobre Ventas 18% 2,789,800,000 Sobre la Venta de Cigarrillos 577,300,000 Sobre el Consumo Selectivo de Artículos Varios 590,000,000 Sobre el Consumo Selectivo de Vehículos 600,300,000 Sobre Ventas (18%) Boletos de Transporte Aéreo 42,600,000 Sobre Ventas (5%) Boletos Lotería Electrónica, Rifas y Sorteos Impuesto Sobre Servicios y Actividades Especificas 19,165,963,462 A Casinos de Juego, Envite o Azar 700,000 A la Venta de Timbres de Contratación 6,000,000 A la Revaluación de Activos 45,000,000 Sobre Servicios Turísticos 76,063,462 Aporte Atención Programas Sociales y Conservación del Patrimonio Vial Impuesto Gas LPG 375,000,000 Otros Impuestos y Licencias Sobre Diversas Actividades Contribución 0.2% S/Transacciones Financieras Pro- Seguridad Poblacional Contribución Telefonía Móvil Pro-Seguridad Poblacional Contribución Minería Pro-Seguridad Poblacional 78,000,000 Contribución Comidas Rápidas Pro-Seguridad Poblacional Contribución Casinos y Máquinas Tragamonedas Pro- Seguridad Poblacional Contribución Sector Cooperativo Pro-Seguridad Poblacional Ecotasa Sobre Importación de Vehículos Usados 250,000,000 Contribución Social del Sector Cooperativo 73,000,000 Contribución Social del Sector Social de la Economía 15,000,000 Impuesto Sobre Las Importaciones 5,072,300,000 D E S C R I P C I O N VALOR Importación Terrestre 2,315,000,000 Importación Marítima 2,547,300,000 Importación Aérea y Postal 210,000,000 Impuesto a los Beneficios Eventuales y Juegos de Azar 19,100,000 Sobre Premios de Urna de Lotería Nacional 3,000,000 Sobre Premios de Máquinas Tragamonedas 6,000,000 Sobre Premios de Lotería Electrónica 10,100,000 INGRESOS NO TRIBUTARIOS 3,414,549,516 TASAS 866,761,150 Control Migratorio 1,599,360 Inspección de Vehículos 900,000 Vehículos con Placa Extranjera 1,900,000 Servicios de Recuperación Marina 8,566,712 Marchamos 68,900,000 Servicios Consulares 78,595,012 Papeles de Aduana 31,600,000 Papel Notarial 43,417,660 Servicio de Protección a Vuelos Nacionales 16,500,000 Inspecciones Geológicas y de Embarque 9,000,000 Monitoreos Ambientales 1,000,000 Servicio de Autenticas y Traducciones 23,500,000 Emisión de Constancias, Certificaciones y Otros 190,700,000 Conservación del Ambiente y Seguridad (Zolitur) 31,229,950 Tasa por llamada del exterior (US$0.03) 158,738,960 Actos Administrativos 28,400,000 Tasas Varias 172,213,496 DERECHOS 882,590,228 Libreta Pasaporte 420,276,098 Tarjeta de Identificación de Marinos 37,252,632 Registro de Marcas de Fábricas 20,040,601 Registro de Prestamistas 1,500,000 Incorporación de Empresas Mercantiles 100,000 Marina Mercante Nacional 4,205,656 Licencias de Conducir 205,000,000 D E S C R I P C I O N VALOR Otras Licencias 86,900,000 Licencias Agentes Navieros 100,000 Permisos y Renovaciones Migratorias 30,000,000 Registro Nacional de Armas 16,120,000 Registro Nacional de las Personas 60,095,241 Derechos Varios 1,000,000 CANONES Y REGALIAS 611,032,948 Concesiones y Frecuencias Radioeléctricas 572,232,948 Canon por Aprovechamiento de Aguas 2,600,000 Canon Territorial 36,200,000 MULTAS 620,658,736 Multas Arancelarias de Importación 42,900,000 Conmuta y Multas Judiciales 8,600,000 Multa por Incumplimiento de Contratos 700,000 Multas de Transporte 13,500,000 Multas de Trabajo 4,000,000 Sanciones e Infracciones de CONATEL 1,808,133 Multas de Policía y Transito 234,000,000 Multas por Infracciones a la Ley de Migración y Extranjería Sanciones por Ley General de Minería 2,500,000 Multas Recargos e Intereses Aplicados Código Tributario Sanciones por Precios de Transferencia 6,500,000 Multas y Penas Varias 140,000,000 OTROS NO TRIBUTARIOS 433,506,454 Ingresos por Subastas 11,000,000 Reparos de Aduana 1,000,000 Reparos Varios 19,100,000 Dispensa de Edictos 100,000 Devolución de Ejercicios Fiscales Anteriores por pagos en Exceso Compensación por Perdida de Activos Muebles 300,000 Subastas Aduaneras 2,006,454 D E S C R I P C I O N VALOR Otros No Tributarios 335,000,000 VENTAS DE BIENES Y SERVICIOS DEL GOBIERNO GENERAL VENTA DE BIENES 59,000,000 Venta de Impresos 3,000,000 Venta de Materiales y Productos Agropecuarios 1,000,000 Venta de Artículos y Materiales Diversos 55,000,000 VENTA DE SERVICIOS 534,409,864 Otros Servicios en Puertos 500,000 Impresiones 75,000,999 Servicios de Vigilancia a Empresas del Sector Privado 35,000,000 Ingresos de Centros Hospitalarios 87,969,727 Ingresos de Centros Educativos 8,475,615 Venta de Servicios Varios CESCO 1,000,000 Transporte de Datos HONDUTEL 126,363,523 Venta de Servicios Varios 200,100,000 RENTAS DE LA PROPIEDAD 1,985,923,071 Intereses por Préstamos al Sector Público 1,970,576,795 Intereses por Préstamos de Instituciones Públicas Financieras Intereses por Préstamos a Empresas Públicas no Financieras Intereses por Depósitos 100,000 Intereses por Depósitos Internos 100,000 Intereses por Títulos Valores 146,276 Comisión por Títulos Valores 146,276 Beneficios por Inversiones Empresariales 100,000 Dividendos de Acciones 100,000 Alquileres 15,000,000 Alquiler de Tierra y Terrenos 13,500,000 Alquiler de Edificios, Locales e instalaciones 1,100,000 Alquiler de Equipos 100,000 Otros Alquileres 300,000 TRANSFERENCIAS Y DONACIONES CORRIENTES A 100,000,000 D E S C R I P C I O N VALOR INSTITUCIONES DEL SECTOR PÚBLICO TRANSFERENCIAS Y DONACIONES CORRIENTES DE EMPRESAS Transferencias Corrientes de Empresas Públicas 100,000,000 TRANSFERENCIAS Y DONACIONES DE CAPITAL 3,243,015,219 Transferencias y Donaciones de Capital del Sector Externo Donaciones de Capital de Organismos Internacionales 734,960,517 Donaciones de Capital de Gobiernos Extranjeros 7,652,731 Donaciones de Capital de Alivio de Deuda - Club de París (Gobiernos Extranjeros) Donaciones de Capital de Alivio de Deuda - MDRI (Organismos Internacionales) ACTIVOS FINANCIEROS 20,647,961 RECUPERACION DE PRESTAMOS DE LARGO DE PLAZO 20,647,961 Recuperación de Préstamo de Largo Plazo al Sector privado Recuperación de Préstamo de Largo Plazo a Instituciones Públicas Financieras
+118,721,594,222 Impuesto Sobre La Renta 36,157,830,760 Sobre la Renta de Personas Naturales 1,000,000,000 Sobre la Renta de Personas Jurídicas 6,041,500,000 Pagos a Cuenta 11,937,600,000 Retención en la Fuente 5,522,000,000 Retención (Art. 5 y 25) 5,896,500,000 Retención por Mora (Art.50) 796,300,000 Retención Intereses (Art.9) 1,055,000,000 Ganancias de Capital 647,400,000 Aportación Solidaria 1,056,700,000 Ganancias de Capital (Zolitur) 23,830,760 Alquiler Habitacional 10% 25,000,000 10% Sobre excedentes de Operaciones Centros Educativos Privados Retención Anticipo de ISR 1% 381,000,000 Percepción Anticipo Renta Natural 100,000 Percepción Anticipo Renta Jurídica 100,000 Pagos a Cuenta Aportación Solidaria 1,736,800,000 Impuesto Sobre La Propiedad 1,030,300,000 Sobre la Tradición de Inmuebles 550,600,000 Al Activo Neto 479,400,000 Sobre La Tradición Dominio de Tierras 300,000 Impuesto Sobre La Producción, Consumo y Ventas 57,276,100,000 Sobre la Producción de Cervezas 1,501,700,000 Sobre la Producción de Aguardiente 170,000,000 Sobre la Producción de Licor Compuesto 96,200,000 Sobre la Producción Forestal 300,000 DESCRIPCION VALOR Sobre la Producción y Consumo de Aguas Gaseosas 1,238,600,000 Sobre Ventas 15% 49,664,300,000 Sobre Ventas 18% 2,789,800,000 Sobre la Venta de Cigarrillos 577,300,000 Sobre el Consumo Selectivo de Artículos Varios 590,000,000 Sobre el Consumo Selectivo de Vehículos 600,300,000 Sobre Ventas (18%) Boletos de Transporte Aéreo 42,600,000 Sobre Ventas (5%) Boletos Lotería Electrónica, Rifas y Sorteos Impuesto Sobre Servicios y Actividades Especificas 19,165,963,462 A Casinos de Juego, Envite o Azar 700,000 A la Venta de Timbres de Contratación 6,000,000 A la Revaluación de Activos 45,000,000 Sobre Servicios Turísticos 76,063,462 Aporte Atención Programas Sociales y Conservación del Patrimonio Vial Impuesto Gas LPG 375,000,000 Otros Impuestos y Licencias Sobre Diversas Actividades Contribución 0.2% S/Transacciones Financieras Pro- Seguridad Poblacional Contribución Telefonía Móvil Pro-Seguridad Poblacional Contribución Minería Pro-Seguridad Poblacional 78,000,000 Contribución Comidas Rápidas Pro-Seguridad Poblacional Contribución Casinos y Máquinas Tragamonedas Pro- Seguridad Poblacional Contribución Sector Cooperativo Pro-Seguridad Poblacional Ecotasa Sobre Importación de Vehículos Usados 250,000,000 Contribución Social del Sector Cooperativo 73,000,000 Contribución Social del Sector Social de la Economía 15,000,000 Impuesto Sobre Las Importaciones 5,072,300,000 DESCRIPCION VALOR Importación Terrestre 2,315,000,000 Importación Marítima 2,547,300,000 Importación Aérea y Postal 210,000,000 Impuesto a los Beneficios Eventuales y Juegos de Azar 19,100,000 Sobre Premios de Urna de Lotería Nacional 3,000,000 Sobre Premios de Máquinas Tragamonedas 6,000,000 Sobre Premios de Lotería Electrónica 10,100,000 INGRESOS NO TRIBUTARIOS 3,414,549,516 TASAS 866,761,150 Control Migratorio 1,599,360 Inspección de Vehículos 900,000 Vehículos con Placa Extranjera 1,900,000 Servicios de Recuperación Marina 8,566,712 Marchamos 68,900,000 Servicios Consulares 78,595,012 Papeles de Aduana 31,600,000 Papel Notarial 43,417,660 Servicio de Protección a Vuelos Nacionales 16,500,000 Inspecciones Geológicas y de Embarque 9,000,000 Monitoreos Ambientales 1,000,000 Servicio de Autenticas y Traducciones 23,500,000 Emisión de Constancias, Certificaciones y Otros 190,700,000 Conservación del Ambiente y Seguridad (Zolitur) 31,229,950 Tasa por llamada del exterior (US$0.03) 158,738,960 Actos Administrativos 28,400,000 Tasas Varias 172,213,496 DERECHOS 882,590,228 Libreta Pasaporte 420,276,098 Tarjeta de Identificación de Marinos 37,252,632 Registro de Marcas de Fábricas 20,040,601 Registro de Prestamistas 1,500,000 Incorporación de Empresas Mercantiles 100,000 Marina Mercante Nacional 4,205,656 Licencias de Conducir 205,000,000 DESCRIPCION VALOR Otras Licencias 86,900,000 Licencias Agentes Navieros 100,000 Permisos y Renovaciones Migratorias 30,000,000 Registro Nacional de Armas 16,120,000 Registro Nacional de las Personas 60,095,241 Derechos Varios 1,000,000 CANONES Y REGALIAS 611,032,948 Concesiones y Frecuencias Radioeléctricas 572,232,948 Canon por Aprovechamiento de Aguas 2,600,000 Canon Territorial 36,200,000 MULTAS 620,658,736 Multas Arancelarias de Importación 42,900,000 Conmuta y Multas Judiciales 8,600,000 Multa por Incumplimiento de Contratos 700,000 Multas de Transporte 13,500,000 Multas de Trabajo 4,000,000 Sanciones e Infracciones de CONATEL 1,808,133 Multas de Policía y Transito 234,000,000 Multas por Infracciones a la Ley de Migración y Extranjería Sanciones por Ley General de Minería 2,500,000 Multas Recargos e Intereses Aplicados Código Tributario Sanciones por Precios de Transferencia 6,500,000 Multas y Penas Varias 140,000,000 OTROS NO TRIBUTARIOS 433,506,454 Ingresos por Subastas 11,000,000 Reparos de Aduana 1,000,000 Reparos Varios 19,100,000 Dispensa de Edictos 100,000 Devolución de Ejercicios Fiscales Anteriores por pagos en Exceso Compensación por Perdida de Activos Muebles 300,000 Subastas Aduaneras 2,006,454 DESCRIPCION VALOR Otros No Tributarios 335,000,000 VENTAS DE BIENES Y SERVICIOS DEL GOBIERNO GENERAL VENTA DE BIENES 59,000,000 Venta de Impresos 3,000,000 Venta de Materiales y Productos Agropecuarios 1,000,000 Venta de Artículos y Materiales Diversos 55,000,000 VENTA DE SERVICIOS 534,409,864 Otros Servicios en Puertos 500,000 Impresiones 75,000,999 Servicios de Vigilancia a Empresas del Sector Privado 35,000,000 Ingresos de Centros Hospitalarios 87,969,727 Ingresos de Centros Educativos 8,475,615 Venta de Servicios Varios CESCO 1,000,000 Transporte de Datos HONDUTEL 126,363,523 Venta de Servicios Varios 200,100,000 RENTAS DE LA PROPIEDAD 1,985,923,071 Intereses por Préstamos al Sector Público 1,970,576,795 Intereses por Préstamos de Instituciones Públicas Financieras Intereses por Préstamos a Empresas Públicas no Financieras Intereses por Depósitos 100,000 Intereses por Depósitos Internos 100,000 Intereses por Títulos Valores 146,276 Comisión por Títulos Valores 146,276 Beneficios por Inversiones Empresariales 100,000 Dividendos de Acciones 100,000 Alquileres 15,000,000 Alquiler de Tierra y Terrenos 13,500,000 Alquiler de Edificios, Locales e instalaciones 1,100,000 Alquiler de Equipos 100,000 Otros Alquileres 300,000 TRANSFERENCIAS Y DONACIONES CORRIENTES A 100,000,000 DESCRIPCION VALOR INSTITUCIONES DEL SECTOR PÚBLICO TRANSFERENCIAS Y DONACIONES CORRIENTES DE EMPRESAS Transferencias Corrientes de Empresas Públicas 100,000,000 TRANSFERENCIAS Y DONACIONES DE CAPITAL 3,243,015,219 Transferencias y Donaciones de Capital del Sector Externo Donaciones de Capital de Organismos Internacionales 734,960,517 Donaciones de Capital de Gobiernos Extranjeros 7,652,731 Donaciones de Capital de Alivio de Deuda - Club de París (Gobiernos Extranjeros) Donaciones de Capital de Alivio de Deuda - MDRI (Organismos Internacionales) ACTIVOS FINANCIEROS 20,647,961 RECUPERACION DE PRESTAMOS DE LARGO DE PLAZO 20,647,961 Recuperación de Préstamo de Largo Plazo al Sector privado Recuperación de Préstamo de Largo Plazo a Instituciones Públicas Financieras
 
 TITULOS DE DEUDA
 
@@ -121,7 +121,7 @@ Nombre de Tesoro Nacional Recursos Propios Crédito Interno Fuentes Externas Tot
 
 #### Artículo 4
 
-ARTÍCULO 4.- Para el Ejercicio Fiscal 2022 se ratifican los siguientes artículos del Presupuesto General de Ingresos y Egresos de la República 2021 contenidas en los Decretos No.18-2020 y sus reformas, Decreto No.18-2021, Decreto No. 64-2021 aún y cuando cambie su redacción, presenten o adicionen nuevos cambios, los cuales no modifican el espíritu de estos.
+ARTÍCULO 4.- Para el Ejercicio Fiscal 2022 se ratifican los siguientes artículos del Presupuesto General de Ingresos y Egresos de la República 2021 contenidas en los Decretos No. 18-2020 y sus reformas, Decreto No. 18-2021, Decreto No. 64-2021 aún y cuando cambie su redacción, presenten o adicionen nuevos cambios, los cuales no modifican el espíritu de estos.
 
 2021 2022 5 5 6 6 7 7 8 8 9 9 10 10 11 11 12 20 16 22 17 23 18 24 19 25 20 26 21 27 23 215 24 28 25 29 27 30 28 31 29 32 30 33 31 34 32 35 33 36 35 38 36 39 37 40 38 41 39 42 41 43 43 45 44 46 45 47 46 48 47 49 49 51 50 52 51 53 52 54 53 55 54 56 55 57 56 58 57 59 58 60 59 61 61 63 62 64 63 65 65 66 66 67 67 68 69 70 70 71 72 73 74 74 75 75 76 76 120 118 77 77 78 78 79 79 81 80 82 81 83 82 84 83 85 84 86 85 87 86 88 87 90 89 91 90 92 91 93 92 94 93 95 94 97 95 99 97 100 2021 2022 190 186 191 187 192 188 193 189 195 192 196 193 197 194 198 195 199 196 200 197 201 198 202 199 203 200 205 202 206 203 207 204 208 205 209 206 210 207 211 208 212 209 213 210 214 211 216 216 218 218 219 219 220 220 221 221 223 222 224 223 225 224 226 225 228 226 229 227 232 228 233 229 234 230 235 231 236
 
@@ -209,7 +209,7 @@ TÍTULO II DEL ENFOQUE DE GÉNERO
 
 ARTÍCULO 10.- El Presupuesto de Género es una herramienta democrática de acción afirmativa en la asignación de recursos destinados para poner en marcha acciones para cerrar la brecha de discriminación entre hombres y mujeres garantizando que los fondos sean empleados de manera ecuánime desde la óptica de género.
 
-El Estado para poder lograr la igualdad de oportunidades entre hombres y mujeres impulsará de manera transversal, la aplicación del II Plan de Igualdad y Equidad de Género en Honduras 2010- 2022 (II PIEGH) y el Plan Nacional Contra la Violencia hacia las Mujeres 2014-2022, a través de la incorporación de la perspectiva de género, en el diseño, implementación y evaluación de políticas, planes y presupuestos de la Administración Pública. Para tal efecto, las dependencias y entidades deberán considerar lo siguiente:
+El Estado para poder lograr la igualdad de oportunidades entre hombres y mujeres impulsará de manera transversal, la aplicación del II Plan de Igualdad y Equidad de Género en Honduras 2010-2022 (II PIEGH) y el Plan Nacional Contra la Violencia hacia las Mujeres 2014-2022, a través de la incorporación de la perspectiva de género, en el diseño, implementación y evaluación de políticas, planes y presupuestos de la Administración Pública. Para tal efecto, las dependencias y entidades deberán considerar lo siguiente:
 
 \1) En su Plan Estratégico institucional a nivel de objetivos y resultados reflejar el compromiso de disminuir brechas de desigualdad sustantiva entre hombres y mujeres;
 
@@ -233,9 +233,7 @@ La Comisión de Equidad de Género y la Comisión de Presupuesto del Congreso Na
 
 #### Artículo 11
 
-ARTÍCULO 11.- La Dirección Nacional del Programa Ciudad Mujer (Institución No. 244), entidad encargada de la coordinación a nivel nacional del Programa Presidencial Ciudad Mujer, constituye uno de los programas operativos relevantes para avanzar en la implementación de las políticas públicas de Género, creado mediante Decreto Ejecutivo No. PCM- 031-2016 del 15 de Marzo de 2016, y elevado a rango de Política Nacional de Estado mediante Decreto Legislativo No.
-
-159-016 del 29 de Noviembre de 2016 con el propósito que sea de obligatorio cumplimiento para todos los gobiernos que asuman la conducción del Estado.
+ARTÍCULO 11.- La Dirección Nacional del Programa Ciudad Mujer (Institución No. 244), entidad encargada de la coordinación a nivel nacional del Programa Presidencial Ciudad Mujer, constituye uno de los programas operativos relevantes para avanzar en la implementación de las políticas públicas de Género, creado mediante Decreto Ejecutivo No. PCM-031-2016 del 15 de Marzo de 2016, y elevado a rango de Política Nacional de Estado mediante Decreto Legislativo No. 159-016 del 29 de Noviembre de 2016 con el propósito que sea de obligatorio cumplimiento para todos los gobiernos que asuman la conducción del Estado.
 
 Para dar cumplimiento a lo anterior, se instruye a cada una de las instituciones del Estado involucradas y participantes en el Programa a sufragar los gastos necesarios conforme a las responsabilidades establecidos en el Manual Operativo del Programa, Convenio Marco de Cooperación Interinstitucional para la Habilitación, Funcionamiento, Regulación y Sostenibilidad del Programa Ciudad Mujer, los protocolos de atención y la demás normativa que respalda el Programa Ciudad Mujer, para asegurar el adecuado funcionamiento del programa y el modelo de gestión en los diferentes módulos de su competencia dentro de cada Centro Ciudad Mujer, incluyendo el pago de insumos y personal asignado, conforme lo establecido en el Manual Operativo del Programa, Convenio Marco de Cooperación Interinstitucional para la Habilitación, Funcionamiento, Regulación y Sostenibilidad del Programa Ciudad Mujer, y en los protocolos de funcionamiento.
 
@@ -273,7 +271,7 @@ ARTÍCULO 17.- Se instruye al Poder Judicial a consignar de manera etiquetada y 
 
 #### Artículo 18
 
-ARTÍCULO 18.- El uso y administración de los fondos de la Tasa de Seguridad poblacional se debe aplicar conforme al Decreto No.105- 2011 contentivo de la Ley de Seguridad Poblacional y sus reformas; favoreciendo las acciones en pro de la seguridad de las mujeres, por lo que se debe asignar de la Tasa de Seguridad poblacional un monto de Diez Millones de Lempiras (L.10,000,000.00) para la construcción, equipamiento y mantenimiento de Casas Refugio para las mujeres sobrevivientes de violencia doméstica y Cinco Millones (L. 5,000,000.00) para acciones de prevención de violencia hacia las mujeres, recursos que deben ser administrados por el Instituto Nacional de la Mujer, como instancia rectora de las políticas pública de género.
+ARTÍCULO 18.- El uso y administración de los fondos de la Tasa de Seguridad poblacional se debe aplicar conforme al Decreto No. 105-2011 contentivo de la Ley de Seguridad Poblacional y sus reformas; favoreciendo las acciones en pro de la seguridad de las mujeres, por lo que se debe asignar de la Tasa de Seguridad poblacional un monto de Diez Millones de Lempiras (L.10,000,000.00) para la construcción, equipamiento y mantenimiento de Casas Refugio para las mujeres sobrevivientes de violencia doméstica y Cinco Millones (L. 5,000,000.00) para acciones de prevención de violencia hacia las mujeres, recursos que deben ser administrados por el Instituto Nacional de la Mujer, como instancia rectora de las políticas pública de género.
 
 #### Artículo 19
 
@@ -301,25 +299,23 @@ Porcentaje No.
 
 Institución Asignado cien por 1 Registro Nacional de las Personas ciento (RNP) (100%) cien por 2 Centro Nacional de Educación ciento para el Trabajo (CENET) (100%) cien por 3 Zona Libre Turística de las Islas ciento de la Bahía (ZOLITUR) (100%) Procedencia de los Criterio/Base Legal ingresos Serán incorporados previa verificación de la existencia de los depósitos correspondientes en el Sistema de Administración Financiera Integrada (SIAFI), por parte de la Secretaría de Estado en el Los ingresos que Despacho de Finanzas a perciba por concepto de través de la Dirección General los servicios que preste de Presupuesto. Capítulo II del Patrimonio del RNP, Art. 116 de la Ley de Creación. El Registro Nacional de las Personas es un Ente Constitucional de Seguridad Nacional y no una empresa pública.
 
-Ley de Creación Decreto 84- 2001 Articulo 11 Patrimonio de CENET, numeral 3 Fondos provenientes de la venta de servicios técnicos a Los ingresos que instituciones y organización de perciba por concepto de desarrollo, así como las rentas los servicios que preste y productos de sus bienes.
+Ley de Creación Decreto 84-2001 Articulo 11 Patrimonio de CENET, numeral 3 Fondos provenientes de la venta de servicios técnicos a Los ingresos que instituciones y organización de perciba por concepto de desarrollo, así como las rentas los servicios que preste y productos de sus bienes.
 
-Acuerdo No.0042-PE-04 Reglamento para la Administración de Recursos Propios.
+Acuerdo No. 0042-PE-04 Reglamento para la Administración de Recursos Propios.
 
-Los ingresos que Decreto No.
-
-181-2006, perciba por concepto de Capitulo II Numeral 3 los servicios que preste Porcentaje No.
+Los ingresos que Decreto No. 181-2006, perciba por concepto de Capitulo II Numeral 3 los servicios que preste Porcentaje No.
 
 Institución Asignado cien por 4 Servicio Nacional de Sanidad ciento Agropecuaria (SENASA) (100%) cien por 5 Poder Judicial (PJ) ciento (100%) cien por 6 Empresa Nacional de Artes ciento Gráficas (ENAG) (100%) cien por 7 Cuerpo de Bomberos de Honduras ciento (100%) 8 Dirección General de la Marina cien por Mercante Nacional ciento Procedencia de los Criterio/Base Legal ingresos Los ingresos que PCM-038-2016,
 
-Artículo 14 perciba por concepto de literal C. los servicios que preste Decreto No. 75 del 7 de abril de 1911 y sus reformas, Ley Los ingresos de los de equilibrio financiero y valores que cobren por protección social, Articulo 26. servicios prestados y Acuerdo No.1 -2008 Del venta de especies Reglamento de la Ley de fiscales.
+Artículo 14 perciba por concepto de literal C. los servicios que preste Decreto No. 75 del 7 de abril de 1911 y sus reformas, Ley Los ingresos de los de equilibrio financiero y valores que cobren por protección social, Articulo 26. servicios prestados y Acuerdo No. 1 -2008 Del venta de especies Reglamento de la Ley de fiscales.
 
-Emisión de auténticas, Acuerdo No.1-2016 Constancias de reforma el artículo N.60 del antecedentes, Servicio Reglamento del Centro electrónico de documentación de auténticas y tasas varias (tramite de e información, referente al citaciones, costo de la constancia de notificaciones, antecedentes), y Acuerdo requerimientos, entre No.09-2017 reglamento del otros). trámite de citaciones, emplazamiento, notificaciones y requerimientos.
+Emisión de auténticas, Acuerdo No. 1-2016 Constancias de reforma el artículo N.60 del antecedentes, Servicio Reglamento del Centro electrónico de documentación de auténticas y tasas varias (tramite de e información, referente al citaciones, costo de la constancia de notificaciones, antecedentes), y Acuerdo requerimientos, entre No. 09-2017 reglamento del otros). trámite de citaciones, emplazamiento, notificaciones y requerimientos.
 
-Decreto Legislativo No.23-99 Capitulo
+Decreto Legislativo No. 23-99 Capitulo
 
 III.
 
-Articulo No.9. Estos recursos serán utilizados para gastos operativos y Los ingresos que perciba por concepto de regularizados a través de la los servicios que preste Tesorería General de la República, de acuerdo con los montos que la Institución ejecute.
+Articulo No. 9. Estos recursos serán utilizados para gastos operativos y Los ingresos que perciba por concepto de regularizados a través de la los servicios que preste Tesorería General de la República, de acuerdo con los montos que la Institución ejecute.
 
 Decreto Legislativo 294-93 Ley de Creación del Cuerpo de Bomberos de Honduras Los ingresos de los Capitulo VIII Artículo 40 y valores que cobren de la Tasa Municipal.
 
@@ -331,7 +327,7 @@ Institución Asignado Procedencia de los Criterio/Base Legal ingresos (100%) Reg
 
 República o en la institución bancaria que aquella haya autorizado para el efecto.
 
-Los ingresos que Decreto Ejecutivo No. PCM perciba por concepto de 032-2017 los servicios que preste Decreto Legislativo No.404- Los ingresos que 2013, Artículo 3 literal G. y el perciba por concepto de Decreto Legislativo No.61- los servicios que preste 2020 Articulo No.3 Los ingresos que perciba del aporte por regulación de la Decreto Legislativo No.143- suscripción de 2010, Artículo 29 Contratos de Participación Público Privada Los ingresos de los valores que perciban a través de las Unidades de Atención Primaria en Estos recursos serán Salud (UAPS), los destinados a cubrir gastos de funcionamiento, de Centros Integrales en conformidad con lo establecido Salud (CIS), los Policlínicos, los en el reglamento y el Hospitales, y el procedimiento que para ese efecto se apruebe entre la Departamento de Vigilancia del Marco Secretaría de Salud y SEFIN Normativo Sanitario en el ámbito de su competencia.
+Los ingresos que Decreto Ejecutivo No. PCM perciba por concepto de 032-2017 los servicios que preste Decreto Legislativo No. 404- Los ingresos que 2013, Artículo 3 literal G. y el perciba por concepto de Decreto Legislativo No. 61- los servicios que preste 2020 Articulo No. 3 Los ingresos que perciba del aporte por regulación de la Decreto Legislativo No. 143- suscripción de 2010, Artículo 29 Contratos de Participación Público Privada Los ingresos de los valores que perciban a través de las Unidades de Atención Primaria en Estos recursos serán Salud (UAPS), los destinados a cubrir gastos de funcionamiento, de Centros Integrales en conformidad con lo establecido Salud (CIS), los Policlínicos, los en el reglamento y el Hospitales, y el procedimiento que para ese efecto se apruebe entre la Departamento de Vigilancia del Marco Secretaría de Salud y SEFIN Normativo Sanitario en el ámbito de su competencia.
 
 Porcentaje No.
 
@@ -341,7 +337,7 @@ Secretaría de Educación y
 
 SEFIN
 
-Ley Forestal, Áreas protegida y Vida Silvestre Decreto No.156- 2007, Articulo 32 Todos los Ingresos que genere el instituto, sea por actividades propias o eventuales deberán depositarse a la cuenta que la Tesorería General de la Ingresos provenientes República mantiene en el de las distintas Banco Central de Honduras. actividades que realizan Decreto No.87-2013 Articulo sus dependencias.
+Ley Forestal, Áreas protegida y Vida Silvestre Decreto No. 156-2007, Articulo 32 Todos los Ingresos que genere el instituto, sea por actividades propias o eventuales deberán depositarse a la cuenta que la Tesorería General de la Ingresos provenientes República mantiene en el de las distintas Banco Central de Honduras. actividades que realizan Decreto No. 87-2013 Articulo sus dependencias.
 
 No. 16 numeral 1 Decreta que al Instituto Nacional de Desarrollo y Conservación Forestal, Áreas Protegidas y Vida Silvestre (ICF), se le asignara el 100% de los ingresos provenientes de las distintas actividades que realizan sus dependencias.
 
@@ -363,21 +359,19 @@ Los ingresos que Para la utilización de estos perciban la Industria recursos, l
 
 Decreto Ejecutivo No. PCMIngresos Propios 042-2017, publicado el 5 de generados por el agosto de 2017, Gaceta No.
 
-Sistema Nacional de 34,409 y el Decreto Calidad Legislativo. No.29- 2011 Ley Sistema Nacional de Calidad Ingresos que se Decreto No. 263-2011, que perciben por Concepto establece que todos los de Matricula Consular e Derechos consulares por Ingresos provenientes servicios prestados por los de las distintas Consulares deben de ser actividades que realizan cancelados por medios de sus dependencias, previo pago e ingresaran incluye la íntegramente a la Tesorería implementación de las General de la Republica. apostillas electrónicas.
+Sistema Nacional de 34,409 y el Decreto Calidad Legislativo. No. 29-2011 Ley Sistema Nacional de Calidad Ingresos que se Decreto No. 263-2011, que perciben por Concepto establece que todos los de Matricula Consular e Derechos consulares por Ingresos provenientes servicios prestados por los de las distintas Consulares deben de ser actividades que realizan cancelados por medios de sus dependencias, previo pago e ingresaran incluye la íntegramente a la Tesorería implementación de las General de la Republica. apostillas electrónicas.
 
 Ingresos que perciba el Programa Piloto Integral de PPICPU a través de los Combate a la Pobreza Urbana cobros que realiza por (PPICPU) perteneciente a la Presentaciones Secretaría de Finanzas, Artísticas, Venta de Programa 01, Gerencia Productos Artísticos, Administrativa 01 y Actividad Donaciones, entre otros.
 
-04 Ley de Creación Decreto Ingresos por los Ejecutivo No. PCM-021-2014 y servicios prestados Opinión Jurídica No. USL-03- 2020 Ingresos que perciba Decreto Ejecutivo No. PCM- por servicios prestados 048-2017 del 7 de agosto de Porcentaje No.
+04 Ley de Creación Decreto Ingresos por los Ejecutivo No. PCM-021-2014 y servicios prestados Opinión Jurídica No. USL-03-2020 Ingresos que perciba Decreto Ejecutivo No. PCM- por servicios prestados 048-2017 del 7 de agosto de Porcentaje No.
 
-Institución Asignado Procedencia de los Criterio/Base Legal ingresos (100%) y serán reconocidos a cien por 23 Agencia Hondureña de ciento Aeronáutica Civil (AHAC) (100%) cien por 24 Secretaría de Agricultura y ciento Ganadería (SAG) (100%) cien por 25 Administración Aduanera de ciento Honduras (AAH) (100%) través de los depósitos Secretaria de Energía); efectuados con el TGRAcuerdo No.22-2019 publicado 1 y validados por la el 10 de Abril 2019 (Acuerdo de Categorización y Creación Dirección General de por los Servicios Prestados) Presupuesto de la Secretaría de Finanzas.
+Institución Asignado Procedencia de los Criterio/Base Legal ingresos (100%) y serán reconocidos a cien por 23 Agencia Hondureña de ciento Aeronáutica Civil (AHAC) (100%) cien por 24 Secretaría de Agricultura y ciento Ganadería (SAG) (100%) cien por 25 Administración Aduanera de ciento Honduras (AAH) (100%) través de los depósitos Secretaria de Energía); efectuados con el TGRAcuerdo No. 22-2019 publicado 1 y validados por la el 10 de Abril 2019 (Acuerdo de Categorización y Creación Dirección General de por los Servicios Prestados) Presupuesto de la Secretaría de Finanzas.
 
 De conformidad con el Artículo 101 de su Ley; estos recursos se deberán invertirse en gastos operacionales.
 
 La Secretaría de Estado en el Ingresos que genere por Despacho de Finanzas el cobro de Servicios de facilitará su conectividad al Seguridad a la Aviación Sistema de Administración Civil Financiera Integrada (SIAFI) para operar de manera directa.
 
-Decreto No.
-
-55-2004 reformado mediante Decreto No. 65-2017, Articulo 27.
+Decreto No. 55-2004 reformado mediante Decreto No. 65-2017, Articulo 27.
 
 De los ingresos que genere los Programas de DIGEPESCA y PRONAGRI, por arrendamiento de tierras para cultivo de camarón, licencias de Recursos otorgados con base comercialización, pesca a este Articulo deportiva, venta de alevines, multas de la Ley de pesca, licencias para pesca artesanal, prestación de servicios de laboratorio, entre otros.
 
@@ -385,7 +379,7 @@ De los ingresos que se A tales valores se les dará el generan por los tratamien
 
 Institución Asignado hasta el Secretaría de Estado en los noventa por 26 Despachos de Recursos Naturales ciento y Ambiente (Mi Ambiente) (90%);
 
-Procedencia de los Criterio/Base Legal ingresos empresas en concepto destinaran para cubrir los de canon operacional pagos de sueldos por contrato por el servicio de y colaterales del recurso vigilancia y supervisión humano que labore en las aduanera que brinda funciones descritas en la esta Institución a las procedencia de los ingresos, Empresas acogidas a así como, el pago de horas regímenes especiales, extraordinarias, viáticos, gastos de transporte y almacenes de depósito, depósitos temporales, y cualquier otro gasto que sea otros recursos que sean necesario para realizar labores percibidos por de supervisión directamente o por medio de terceros. De la actividades propias, misma manera pueda disponer eventuales o emanadas de lo necesario para de leyes vigentes y transferidos a la cuenta implementar los mecanismos receptora de la de control en las empresas supervisadas y cualquier otro Tesorería General de la República y de igual gasto requerido para el forma lo concerniente a adecuado funcionamiento de la institución. los ingresos establecidos según los artículos 50 y 51 del Decreto No.17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial “La Gaceta” el 9 de abril de 2010, Edición No.32,183.
+Procedencia de los Criterio/Base Legal ingresos empresas en concepto destinaran para cubrir los de canon operacional pagos de sueldos por contrato por el servicio de y colaterales del recurso vigilancia y supervisión humano que labore en las aduanera que brinda funciones descritas en la esta Institución a las procedencia de los ingresos, Empresas acogidas a así como, el pago de horas regímenes especiales, extraordinarias, viáticos, gastos de transporte y almacenes de depósito, depósitos temporales, y cualquier otro gasto que sea otros recursos que sean necesario para realizar labores percibidos por de supervisión directamente o por medio de terceros. De la actividades propias, misma manera pueda disponer eventuales o emanadas de lo necesario para de leyes vigentes y transferidos a la cuenta implementar los mecanismos receptora de la de control en las empresas supervisadas y cualquier otro Tesorería General de la República y de igual gasto requerido para el forma lo concerniente a adecuado funcionamiento de la institución. los ingresos establecidos según los artículos 50 y 51 del Decreto No. 17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial “La Gaceta” el 9 de abril de 2010, Edición No. 32,183.
 
 Los TGR1 y los documentos Ingresos que reciba por adjuntos presentados por MI concepto de tarifas AMBIENTE ante la Secretaria ambientales, cánones, de Finanzas del rubro Otras certificaciones o Licencias serán validados con constancias y cualquier la fecha de presentación del otro ingreso relacionado contribuyente. Los TGR1 de con sus competencias. los otros rubros se validarán Porcentaje No.
 
@@ -403,7 +397,7 @@ DE LA
 
 PGR Decreto 74, Artículo 7.- Las funciones de la Procuraduría General de la República son autónomas, Ingresos provenientes salvo en los casos que, de las distintas conforme a la ley, debe actividades que realizan atender instrucciones sus dependencias. especiales. El Presupuesto de la Procuraduría General de la República y sus dependencias figurarán en una sección especial del Presupuesto General de la República.
 
-Los ingresos que Decreto Legislativo No.155- perciba por concepto de 2015, Artículo 64 los servicios que preste Ley de Minería de Honduras Ingresos provenientes mediante Decreto N0. 238-12 y de las distintas su reforma mediante Decreto actividades que realizan Legislativo No. 109-2019 del sus dependencias.
+Los ingresos que Decreto Legislativo No. 155- perciba por concepto de 2015, Artículo 64 los servicios que preste Ley de Minería de Honduras Ingresos provenientes mediante Decreto N0. 238-12 y de las distintas su reforma mediante Decreto actividades que realizan Legislativo No. 109-2019 del sus dependencias.
 
 25 de noviembre del 2019.
 
@@ -435,7 +429,7 @@ De tales ingresos se podrá distribuir para el Tribunal Superior de Cuentas (TSC
 
 (PGR) el porcentaje establecido en el
 
-Artículo 34 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, Decreto No. 278- 2013 de fecha 21 de Diciembre de 2013.
+Artículo 34 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, Decreto No. 278-2013 de fecha 21 de Diciembre de 2013.
 
 Los ingresos que se perciban por la intervención de la Procuraduría General de la República (PGR), a solicitud de otras Instituciones, estos deberán depositarse en la cuenta única de la Tesorería General de la República y se les otorgará hasta el diez por ciento (10%) de tales ingresos.
 
@@ -511,7 +505,7 @@ TÍTULO IV DE LAS MODIFICACIONES PRESUPUESTARIAS
 
 #### Artículo 30
 
-ARTÍCULO 30.- Con el propósito de agilizar las Modificaciones Presupuestarias, se utilizará en todos los casos el FMP- 05 “Documento de Modificación Presupuestaria” generado por el Sistema de Administración Financiera Integrada (SIAFI), el cual tendrá el mismo efecto de una Resolución Interna o de un Dictamen emitido por la Secretaría de Estado en el Despacho de Finanzas.
+ARTÍCULO 30.- Con el propósito de agilizar las Modificaciones Presupuestarias, se utilizará en todos los casos el FMP-05 “Documento de Modificación Presupuestaria” generado por el Sistema de Administración Financiera Integrada (SIAFI), el cual tendrá el mismo efecto de una Resolución Interna o de un Dictamen emitido por la Secretaría de Estado en el Despacho de Finanzas.
 
 Para dar cumplimiento a lo establecido en el párrafo anterior, todas las instituciones públicas remitirán vía correo u otro medio electrónico disponible la solicitud de modificación presupuestaria que se requiera junto con toda su documentación soporte debidamente escaneada; todos los documentos originales que respalden la modificación presupuestaria deben permanecer en custodia en la institución solicitante para efectos de los controles internos, externos, rendición de cuentas y atención a los requerimientos de los operadores de justicia que corresponda.
 
@@ -603,7 +597,7 @@ ARTÍCULO 42.- Por las erogaciones que el Estado realice en moneda extranjera, s
 
 #### Artículo 43
 
-ARTÍCULO 43.- Dejar en suspenso el Artículo 7 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto No.58-2011 de fecha 18 de Mayo de 2011.
+ARTÍCULO 43.- Dejar en suspenso el Artículo 7 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, contenida en el Decreto No. 58-2011 de fecha 18 de Mayo de 2011.
 
 #### Artículo 44
 
@@ -625,7 +619,7 @@ Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas, a p
 
 #### Artículo 47
 
-ARTÍCULO 47.- La negociación de valores se regirá a través del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No.301-2018 del 5 de Marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de Marzo de 2018.
+ARTÍCULO 47.- La negociación de valores se regirá a través del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de Marzo de 2018, publicado en el Diario Oficial “La Gaceta” el 12 de Marzo de 2018.
 
 #### Artículo 48
 
@@ -681,7 +675,7 @@ ARTÍCULO 53.- Los bonos que adquieran las Instituciones del Sector Público inc
 
 ARTÍCULO 54.- Sin perjuicio de lo preceptuado en el
 
-Artículo 68 del Decreto No.17-2010 del 28 de Marzo de 2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público y para efectos de la contratación de financiamiento externo que se considere necesario y no se encuentre fuente financiera que permita la concesionalidad ponderada requerida; se podrá contratar deuda no concesional, siempre y cuando la cartera de deuda externa total vigente mantenga una concesionalidad ponderada mínima de veinte por ciento (20%), preferiblemente el nuevo endeudamiento deberá ser contratado en monedas en que estén constituidas las reservas internacionales del país, disposición que es coherente con la Política de Endeudamiento Público vigente.
+Artículo 68 del Decreto No. 17-2010 del 28 de Marzo de 2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público y para efectos de la contratación de financiamiento externo que se considere necesario y no se encuentre fuente financiera que permita la concesionalidad ponderada requerida; se podrá contratar deuda no concesional, siempre y cuando la cartera de deuda externa total vigente mantenga una concesionalidad ponderada mínima de veinte por ciento (20%), preferiblemente el nuevo endeudamiento deberá ser contratado en monedas en que estén constituidas las reservas internacionales del país, disposición que es coherente con la Política de Endeudamiento Público vigente.
 
 #### Artículo 55
 
@@ -749,7 +743,7 @@ ARTÍCULO 61.- De conformidad a lo establecido en los artículos 83 y 84 de la L
 
 #### Artículo 62
 
-ARTÍCULO 62.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y al Banco Central de Honduras (BCH) para refinanciar o permutar los valores gubernamentales hasta un valor nominal máximo de CINCO MIL CATORCE MILLONES OCHOCIENTOS TREINTA Y CINCO MIL LEMPIRAS EXACTOS (L5,014,835,000.00) a vencerse en 2022, mediante la emisión de un nuevo valor gubernamental según lo señalado en el Convenio de Recapitalización del Banco Central de Honduras (BCH) aprobado por el Decreto No.38-2014.
+ARTÍCULO 62.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y al Banco Central de Honduras (BCH) para refinanciar o permutar los valores gubernamentales hasta un valor nominal máximo de CINCO MIL CATORCE MILLONES OCHOCIENTOS TREINTA Y CINCO MIL LEMPIRAS EXACTOS (L5,014,835,000.00) a vencerse en 2022, mediante la emisión de un nuevo valor gubernamental según lo señalado en el Convenio de Recapitalización del Banco Central de Honduras (BCH) aprobado por el Decreto No. 38-2014.
 
 Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y al Banco Central de Honduras
 
@@ -909,7 +903,7 @@ L. 10,000.01 a L.
 
 85,000.00 1 Cotización L.0.01 a L.
 
-El control interno para la aplicación de los techos de contratación, debe ser realizado por el Gerente Administrativo o equivalente, quien será responsable de verificar previo a autorizar un desembolso, que el contrato se encuentra publicado en la plataforma HONDUCOMPRAS y que el monto del mismo corresponde al techo asignado según la versión del sistema utilizado, en cuanto a la publicación de información no aplica en aquellas Instituciones amparadas en el artículo 17 del Decreto No.170-2006.
+El control interno para la aplicación de los techos de contratación, debe ser realizado por el Gerente Administrativo o equivalente, quien será responsable de verificar previo a autorizar un desembolso, que el contrato se encuentra publicado en la plataforma HONDUCOMPRAS y que el monto del mismo corresponde al techo asignado según la versión del sistema utilizado, en cuanto a la publicación de información no aplica en aquellas Instituciones amparadas en el artículo 17 del Decreto No. 170-2006.
 
 La inobservancia de los techos de contratación, según el sistema en el que se hubiese gestionado y publicado el contrato, debe dar lugar a una multa al Gerente Administrativo, equivalente al valor del contrato; siendo solidariamente responsables todos los funcionarios que hubieren participado en alguna de las etapas de la gestión contractual o financiera.
 
@@ -1189,7 +1183,7 @@ ARTÍCULO 95.- La Mesa de Resolución de Disputas
 
 (MRD) a la que se refiere el Artículo 3-A de la Ley de Contratación del Estado, es una instancia de resolución de conflictos, formada por una o tres (3) personas así designadas en el Contrato.
 
-Para contratos con monto inicial de contratación igual o superior a los C I N C U E N TA M I L L O N E S D E LEMPIRAS (L50,000,000.00), las partes contratantes deberán nombrar conjuntamente una Mesa de Resolución de Disputas (MRD) en la fecha establecida en el contrato.
+Para contratos con monto inicial de contratación igual o superior a los CINC U EN TA MILLONES DE LEMPIRAS (L50,000,000.00), las partes contratantes deberán nombrar conjuntamente una Mesa de Resolución de Disputas (MRD) en la fecha establecida en el contrato.
 
 Las condiciones de remuneración del único miembro, o de cada uno de los tres
 
@@ -1349,7 +1343,7 @@ El incumplimiento a esta disposición será responsabilidad directa de la Unidad
 
 ARTÍCULO 114.- Las Unidades Ejecutoras de Proyectos, no deberán suscribir contratos de obras, bienes, servicios o suministros cuya fecha de cierre trascienda la fecha de finalización del proyecto.
 
-A s i m i s m o , l o s c o n t r a t o s independientemente de su fuente de financiamiento que trasciendan el Período de Gobierno deberán ser aprobados por el Congreso Nacional.
+Asimismo, los contratos independientemente de su fuente de financiamiento que trasciendan el Período de Gobierno deberán ser aprobados por el Congreso Nacional.
 
 #### Artículo 115
 
@@ -1531,7 +1525,7 @@ Los Titulares de cada Institución serán los responsables de dar cumplimiento a
 
 #### Artículo 138
 
-ARTÍCULO 138.- A fin de garantizar el cumplimiento del Decreto Ejecutivo PCM-021- 2016, contentivo de los Lineamientos relacionados con el registro y control de los servidores públicos, las planillas de los sueldos, colaterales y beneficios de todos los funcionarios y empleados de las instituciones del Sector Público, excepto los Gobiernos Locales, Presidencia de la República, Poder Legislativo, Poder Judicial y Órganos Constitucionales, deberán validarse mes a mes en el Sistema de Registro y Control de Servidores (SIREP) de acuerdo a su mecanismo de pago (catorcenal, mensual, quincenal, entre otros), modalidad de contratación, objeto de gasto y fuente de financiamiento a imputar. Asimismo, previo a la carga de planillas deben mantener actualizadas las fichas en el Módulo de Registro de Servidores, para lo cual se requerirá la documentación de respaldo que se determine necesaria en cada caso; lo anterior para todo lo afectado en el Grupo de Servicios Personales independientemente de su fuente de financiamiento.
+ARTÍCULO 138.- A fin de garantizar el cumplimiento del Decreto Ejecutivo PCM-021-2016, contentivo de los Lineamientos relacionados con el registro y control de los servidores públicos, las planillas de los sueldos, colaterales y beneficios de todos los funcionarios y empleados de las instituciones del Sector Público, excepto los Gobiernos Locales, Presidencia de la República, Poder Legislativo, Poder Judicial y Órganos Constitucionales, deberán validarse mes a mes en el Sistema de Registro y Control de Servidores (SIREP) de acuerdo a su mecanismo de pago (catorcenal, mensual, quincenal, entre otros), modalidad de contratación, objeto de gasto y fuente de financiamiento a imputar. Asimismo, previo a la carga de planillas deben mantener actualizadas las fichas en el Módulo de Registro de Servidores, para lo cual se requerirá la documentación de respaldo que se determine necesaria en cada caso; lo anterior para todo lo afectado en el Grupo de Servicios Personales independientemente de su fuente de financiamiento.
 
 Para los contratos y/o resoluciones de nuevos ingresos de personal bajo el Subgrupo 12000 previo a la firma de dichos contratos y resoluciones e iniciar la prestación del servicio deben consultar a SIREP si el candidato tiene alguna relación laboral con otra institución.
 
@@ -1573,7 +1567,7 @@ ARTÍCULO 142.- El pago del Décimo Tercer Mes de Salario en concepto de Aguinal
 
 #### Artículo 143
 
-ARTÍCULO 143.- Para el cálculo de las horas extraordinarias se debe cumplir con lo dispuesto en el Reglamento de esta Ley. Sin perjuicio de lo dispuesto en el Artículo 31 numeral 1), inciso c) de la Ley de Equidad Tributaria, contenida en el Decreto No.51-2003 de fecha 3 de abril de 2003, el personal de Servicio de Tránsito Aéreo (Controladores Aéreos) y de Servicios de Información Aeronáutica (Plan de Vuelo) dependientes de la Agencia Hondureña de Aeronáutica Civil y Personal de Seguridad, Transporte y Emisión y Tesorería del Banco Central de Honduras, así como el personal del BCH relacionado con el levantamiento de la Encuesta Nacional de Ingresos y Egresos de los Hogares (ENIGH) y el Banco Nacional de Desarrollo Agrícola, ligados a las labores de custodia, traslado y manejo de valores, se incorporan dentro de las excepciones a que hace referencia dicho precepto legal, relacionado con la autorización y pago del tiempo extraordinario. Se excluye del pago de horas extras a los siguientes funcionarios: Secretarios(as) y Subsecretarios(as) de Estado, Secretario(a) General, Directores(as) y Subdirectores(as) Presidenciales, Directores(as) y Subdirectores(as) Generales, Directores(as), Jefe(a) y Subjefe(a) de Auditoría Interna, Gerente Administrativo, Gerentes, Subgerentes, Asesor(a) Legal, Presidentes(as) Ejecutivos(as), Secretarios(as) Ejecutivos(as) y Rectores(as).
+ARTÍCULO 143.- Para el cálculo de las horas extraordinarias se debe cumplir con lo dispuesto en el Reglamento de esta Ley. Sin perjuicio de lo dispuesto en el Artículo 31 numeral 1), inciso c) de la Ley de Equidad Tributaria, contenida en el Decreto No. 51-2003 de fecha 3 de abril de 2003, el personal de Servicio de Tránsito Aéreo (Controladores Aéreos) y de Servicios de Información Aeronáutica (Plan de Vuelo) dependientes de la Agencia Hondureña de Aeronáutica Civil y Personal de Seguridad, Transporte y Emisión y Tesorería del Banco Central de Honduras, así como el personal del BCH relacionado con el levantamiento de la Encuesta Nacional de Ingresos y Egresos de los Hogares (ENIGH) y el Banco Nacional de Desarrollo Agrícola, ligados a las labores de custodia, traslado y manejo de valores, se incorporan dentro de las excepciones a que hace referencia dicho precepto legal, relacionado con la autorización y pago del tiempo extraordinario. Se excluye del pago de horas extras a los siguientes funcionarios: Secretarios(as) y Subsecretarios(as) de Estado, Secretario(a) General, Directores(as) y Subdirectores(as) Presidenciales, Directores(as) y Subdirectores(as) Generales, Directores(as), Jefe(a) y Subjefe(a) de Auditoría Interna, Gerente Administrativo, Gerentes, Subgerentes, Asesor(a) Legal, Presidentes(as) Ejecutivos(as), Secretarios(as) Ejecutivos(as) y Rectores(as).
 
 #### Artículo 144
 
@@ -1705,7 +1699,7 @@ Los Titulares y Gerentes Administrativos o quien haga sus veces, que incumplan e
 
 #### Artículo 154
 
-ARTÍCULO 154.- En cumplimiento a lo establecido en los artículos 256 al 259 de la Constitución de la República, Ley del Servicio Civil, Decreto Ejecutivo PCM No.28-2014 contentivo de la creación de la comisión para la reforma de la Administración Pública Centralizada y Descentralizada;
+ARTÍCULO 154.- En cumplimiento a lo establecido en los artículos 256 al 259 de la Constitución de la República, Ley del Servicio Civil, Decreto Ejecutivo PCM No. 28-2014 contentivo de la creación de la comisión para la reforma de la Administración Pública Centralizada y Descentralizada;
 
 Decreto Ejecutivo PCM No. 21-2016, contentivo de los lineamientos del SIREP y el Decreto Ejecutivo PCM No. 08-97, contentivo del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en coordinación con la Secretaría de Estado en el Despacho de la Presidencia a través de la Dirección General de Servicio Civil, regular la organización y administración del recurso humano y su efecto presupuestario para lo que se definirá y detallará los lineamentos en materia salarial tanto para el nombramiento, contratación, así como cualquier modificación a la estructura de puestos o acción de personal para el Sector Público No Financiero (SPNF) tanto para las instituciones regidas por la Dirección de Servicio Civil o leyes especiales.
 
@@ -1759,9 +1753,7 @@ En casos excepcionales y previa opinión de la Comisión Nacional de Bancos y Se
 
 #### Artículo 163
 
-ARTÍCULO 163.- En consonancia con el artículo 161 de esta ley, los excedentes que reflejan los Institutos Públicos de Previsión y Seguridad Social podrán ser utilizados para inversiones financieras de compra de títulos valores, letras de la Tesorería General de la República y Banco Central de Honduras, depósito a plazo, compra de acciones y cualquier otro instrumento tipificado en el Reglamento de Inversiones de los Fondos Públicos de Pensiones, así como los límites establecidos por instrumento en el mismo Reglamento (Acta No. 1148 de la CNBS, publicada en La Gaceta No.
-
-34,418 del 16 de agosto de 2017).
+ARTÍCULO 163.- En consonancia con el artículo 161 de esta ley, los excedentes que reflejan los Institutos Públicos de Previsión y Seguridad Social podrán ser utilizados para inversiones financieras de compra de títulos valores, letras de la Tesorería General de la República y Banco Central de Honduras, depósito a plazo, compra de acciones y cualquier otro instrumento tipificado en el Reglamento de Inversiones de los Fondos Públicos de Pensiones, así como los límites establecidos por instrumento en el mismo Reglamento (Acta No. 1148 de la CNBS, publicada en La Gaceta No. 34,418 del 16 de agosto de 2017).
 
 #### Artículo 164
 
@@ -1775,7 +1767,7 @@ ARTÍCULO 165.- Los Institutos Públicos de Previsión y Seguridad Social, deber
 
 #### Artículo 166
 
-ARTÍCULO 166.- La Empresa Nacional Portuaria (ENP) debe transferir a la Administración Central la cantidad de CIEN MILLONES D E L E M P I R A S E X A C T O S (L100,000,000.00).
+ARTÍCULO 166.- La Empresa Nacional Portuaria (ENP) debe transferir a la Administración Central la cantidad de CIEN MILLONES DE LEMPIRAS EXACTOS (L100,000,000.00).
 
 El valor descrito en este Artículo debe enterarse a la Tesorería General de la República, de conformidad con el calendario de pagos que elaboren conjuntamente entre ésta y la Institución antes referidas el cual debe estar consensuado a más tardar el 31 de enero de 2022; la fecha máxima de pago no debe exceder del último día de cada mes y la última cuota debe estar depositada a más tardar el 30 de noviembre.
 
@@ -1791,7 +1783,7 @@ Se prohíbe a la Empresa Nacional Portuaria (ENP), trasladar dicha Transferencia
 
 ARTÍCULO 167.- De la transferencia consignada en el
 
-Artículo anterior proveniente de la Empresa Nacional Portuaria (ENP) para la Administración Central, se debe destinar un monto de VEINTITRES M I L L O N E S D E L E M P I R A S EXACTOS (L23,000,000.00) para financiar la operatividad de la Comisión Nacional de Protección Portuaria (CNPP), atendiendo lo establecido en el Artículo 2 del Decreto Ejecutivo PCM-050-2013, que reforma la Ley de Creación de la CNPP PCM-002-2004.
+Artículo anterior proveniente de la Empresa Nacional Portuaria (ENP) para la Administración Central, se debe destinar un monto de VEINTITRES MILLONES DE LEMPIRAS EXACTOS (L23,000,000.00) para financiar la operatividad de la Comisión Nacional de Protección Portuaria (CNPP), atendiendo lo establecido en el Artículo 2 del Decreto Ejecutivo PCM-050-2013, que reforma la Ley de Creación de la CNPP PCM-002-2004.
 
 La CNPP, deberá ajustar su POA y Presupuesto del 2022 a la cifra aprobada en el presente decreto, así mismo se debe presentar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Gerencia Administrativa, los correspondientes informes mensualmente tanto del avance físico como el financiero; lo anterior será condicionante para los desembolsos correspondientes.
 
@@ -1817,7 +1809,7 @@ En caso de requerir incorporación de ingresos generados y registrados en el Pre
 
 #### Artículo 170
 
-ARTÍCULO 170.- La Empresa Nacional de Energía Eléctrica (ENEE) está autorizada para realizar las colocaciones de los saldos disponibles del endeudamiento autorizado en el Decreto No.182-2020 mediante la emisión de títulos y valores o contratación de préstamos, líneas de crédito u otro mecanismo financiero legalmente viable. Los recursos captados por este concepto debe ser destinados para financiar la deuda flotante de la ENEE al cierre del Ejercicio Fiscal 2021.
+ARTÍCULO 170.- La Empresa Nacional de Energía Eléctrica (ENEE) está autorizada para realizar las colocaciones de los saldos disponibles del endeudamiento autorizado en el Decreto No. 182-2020 mediante la emisión de títulos y valores o contratación de préstamos, líneas de crédito u otro mecanismo financiero legalmente viable. Los recursos captados por este concepto debe ser destinados para financiar la deuda flotante de la ENEE al cierre del Ejercicio Fiscal 2021.
 
 El endeudamiento público autorizado a la Empresa Nacional de Energía Eléctrica (ENEE), es sujeto a la fungibilidad señalada en el Artículo 55 de la presente Ley.
 
@@ -1935,7 +1927,7 @@ Asimismo, a fin de garantizar el cumplimiento de lo establecido en el
 
 Artículo 6 del Decreto Legislativo 274-2010, de la creación y función de la Dirección Nacional de Bienes:
 
-¨La responsabilidad sobre la administración de los bienes muebles e inmuebles corresponde a los titulares de las gerencias administrativas de la institución correspondiente en coordinación con la Dirección Nacional de Bienes del Estado¨; y el Artículo 7 del Decreto Ejecutivo PCM- 047-2015, La responsabilidad sobre los bienes muebles e inmuebles que forman parte del inventario o han sido consignados a cada institución o dependencia del sector público, corresponde a los titulares de las gerencias administrativas o departamentos de administración de las mismas instituciones o dependencias del sector público.
+¨La responsabilidad sobre la administración de los bienes muebles e inmuebles corresponde a los titulares de las gerencias administrativas de la institución correspondiente en coordinación con la Dirección Nacional de Bienes del Estado¨; y el Artículo 7 del Decreto Ejecutivo PCM-047-2015, La responsabilidad sobre los bienes muebles e inmuebles que forman parte del inventario o han sido consignados a cada institución o dependencia del sector público, corresponde a los titulares de las gerencias administrativas o departamentos de administración de las mismas instituciones o dependencias del sector público.
 
 Todas las instituciones del Sector Público, deben registrar los bienes muebles e inmuebles en el subsistema de bienes nacionales del sistema de administración financiera integrada (SIAFI) de acuerdo a la programación que se establezca en coordinación con la Dirección Nacional de Bienes del Estado, asimismo, las instituciones de la Administración Central deberán elaborar y aprobar los asientos manuales en el módulo contable del SIAFI para el registro de descargos, reversiones y transferencia de bienes de uso, activos Biológicos e Intangibles y los relacionados con la conciliación de los mismos y presentar a más tardar el 30 de junio 2022 a la Contaduría General de la República la conciliación de los bienes de uso de los saldos del módulo de contabilidad y el módulo de bienes de uso del subsistema de bienes nacionales; la falta de cumplimiento a las actividades y fechas establecidas afectarán los desembolsos oportunos que realice la Tesorería General para cada una de las instituciones.
 
@@ -2195,7 +2187,7 @@ La formulación de los planes será de manera gradual en función de las capacid
 
 #### Artículo 209
 
-ARTÍCULO 209.- To d a s l a s M u n i c i p a l i d a d e s , Mancomunidades y Empresas Municipales deben presentar al Tribunal Superior de Cuentas (TSC) a más tardar el 30 de abril lo siguiente:
+ARTÍCULO 209.- To d a s l a s M u n i c i p a l i d a d e s, Mancomunidades y Empresas Municipales deben presentar al Tribunal Superior de Cuentas (TSC) a más tardar el 30 de abril lo siguiente:
 
 1. Las Municipalidades
 
@@ -2249,9 +2241,7 @@ Debiendo actualizar el Reglamento respectivo en caso de ser necesario, para el u
 
 #### Artículo 213
 
-ARTÍCULO 213.- Con base a la Emergencia Fiscal establecida en el Decreto No.18-2010 del 28 de marzo del 2010, contentivo de la Ley de Emergencia Fiscal y Financiera, para el presente Ejercicio Fiscal se ordena dejar en suspenso el Decreto No.
-
-368-2005, referente a las transferencias monetarias especiales autorizadas a las Corporaciones Municipales del Distrito Central y San Pedro Sula.
+ARTÍCULO 213.- Con base a la Emergencia Fiscal establecida en el Decreto No. 18-2010 del 28 de marzo del 2010, contentivo de la Ley de Emergencia Fiscal y Financiera, para el presente Ejercicio Fiscal se ordena dejar en suspenso el Decreto No. 368-2005, referente a las transferencias monetarias especiales autorizadas a las Corporaciones Municipales del Distrito Central y San Pedro Sula.
 
 TÍTULO XV DE LAS DISPOSICIONES VARIAS
 
@@ -2337,11 +2327,11 @@ La Gerencia Administrativa o su equivalente en cada institución, será la respo
 
 ARTÍCULO 224.- Todos los vehículos propiedad del Estado y de las municipalidades que estén asignados a las distintas Secretarías de Estado, Desconcentradas y Descentralizadas deben estar debidamente identificados con la Bandera Nacional y el emblema o logotipo de la institución a la cual pertenecen; el Tribunal Superior de Cuentas (TSC) velará por el estricto cumplimiento de esta disposición. El Tribunal Superior de Cuentas (TSC) presentará informes trimestrales a la Comisión de Presupuesto del Congreso Nacional y al Despacho Presidencial sobre el cumplimiento de esta Disposición.
 
-Se exceptúan de esta disposición las siguientes instituciones: Corte Suprema de Justicia (CSJ), Ministerio Público (MP), Policía Nacional (PN), Secretaría de Estado en el Despacho de Defensa Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII) y los funcionarios en amparo a la Ley de Protección Especial de Funcionarios y Exfuncionarios en riesgo extraordinario contentivo en el Decreto No.323-2013 del 15 de enero de 2014.
+Se exceptúan de esta disposición las siguientes instituciones: Corte Suprema de Justicia (CSJ), Ministerio Público (MP), Policía Nacional (PN), Secretaría de Estado en el Despacho de Defensa Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII) y los funcionarios en amparo a la Ley de Protección Especial de Funcionarios y Exfuncionarios en riesgo extraordinario contentivo en el Decreto No. 323-2013 del 15 de enero de 2014.
 
 #### Artículo 225
 
-ARTÍCULO 225.- Los funcionarios que utilicen seguridad personal y cuyo costo sea cubierto por el Estado, deberán limitarse a un máximo de dos (2) personas. Se exceptúa de esta disposición lo contemplado en el Decreto No.323-2013 del 15 de enero de 2014, contentivo de la Ley de Protección Especial de Funcionarios y Exfuncionarios en riesgo extraordinario.
+ARTÍCULO 225.- Los funcionarios que utilicen seguridad personal y cuyo costo sea cubierto por el Estado, deberán limitarse a un máximo de dos (2) personas. Se exceptúa de esta disposición lo contemplado en el Decreto No. 323-2013 del 15 de enero de 2014, contentivo de la Ley de Protección Especial de Funcionarios y Exfuncionarios en riesgo extraordinario.
 
 #### Artículo 226
 
@@ -2471,13 +2461,13 @@ ARTÍCULO 243.- En cumplimiento de la Ley de Responsabilidad Fiscal (LRF), todas
 
 #### Artículo 244
 
-ARTÍCULO 244.- Queda en suspenso lo establecido en el párrafo segundo del Artículo 39 del Decreto No.56-2015, de fecha 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” del 2 de Julio de 2019, Edición 33,771, contentivo de la Ley Marco de Protección Social.
+ARTÍCULO 244.- Queda en suspenso lo establecido en el párrafo segundo del Artículo 39 del Decreto No. 56-2015, de fecha 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” del 2 de Julio de 2019, Edición 33,771, contentivo de la Ley Marco de Protección Social.
 
 #### Artículo 245
 
 ARTÍCULO 245.- Reformar el Artículo 3 numeral 1), inciso
 
-c) de la Ley de Responsabilidad Fiscal contenida en el Decreto No.25-2016 del 7 de Abril del 2016, el cual se leerá de la manera siguiente: “c) Los atrasos de pago que surjan durante el Ejercicio Fiscal por gastos devengados financiados con fondos nacionales generados por la Administración Central al cierre del año fiscal a partir de la aprobación de esta Ley, no podrá ser en ningún caso superior al cero punto cinco por ciento (0.5%) del Producto Interno Bruto (PIB) en términos nominales”.
+c) de la Ley de Responsabilidad Fiscal contenida en el Decreto No. 25-2016 del 7 de Abril del 2016, el cual se leerá de la manera siguiente: “c) Los atrasos de pago que surjan durante el Ejercicio Fiscal por gastos devengados financiados con fondos nacionales generados por la Administración Central al cierre del año fiscal a partir de la aprobación de esta Ley, no podrá ser en ningún caso superior al cero punto cinco por ciento (0.5%) del Producto Interno Bruto (PIB) en términos nominales”.
 
 #### Artículo 246
 
@@ -2497,7 +2487,7 @@ ARTÍCULO 249.- Queda prohibido para cualquier institución del Sector Público 
 
 #### Artículo 250
 
-ARTÍCULO 250.- Con el propósito de dar cumplimiento a lo dispuesto en el Decreto No.115- 2014, contentivo de la Reforma a la Ley de Promoción de la Alianza Público Privada; Decreto No. 25-2016 contentivo de la Ley de Responsabilidad Fiscal y Acuerdo 288 contentivo del Reglamento de la Ley de Responsabilidad Fiscal, mediante los cuales se autoriza a la Secretaría de Estado en el Despacho de Finanzas desarrollar de manera progresiva la identificación y valoración de los riesgos fiscales que se generan en la administración del Estado, incluyendo las de fuentes de riesgo por Demandas Judiciales en Contra del Estado. Asimismo, se establece que la Unidad de Contingencias Fiscales adscrita a la Secretaría de Estado en el Despacho de Finanzas establecerá los niveles de comunicación necesarios con las instituciones involucradas para definir y elaborar una base de datos histórica y estandarizada, que requiere la metodología de valoración de riesgos fiscales para la estimación y cuantificación del pasivo contingente por demandas judiciales.
+ARTÍCULO 250.- Con el propósito de dar cumplimiento a lo dispuesto en el Decreto No. 115-2014, contentivo de la Reforma a la Ley de Promoción de la Alianza Público Privada; Decreto No. 25-2016 contentivo de la Ley de Responsabilidad Fiscal y Acuerdo 288 contentivo del Reglamento de la Ley de Responsabilidad Fiscal, mediante los cuales se autoriza a la Secretaría de Estado en el Despacho de Finanzas desarrollar de manera progresiva la identificación y valoración de los riesgos fiscales que se generan en la administración del Estado, incluyendo las de fuentes de riesgo por Demandas Judiciales en Contra del Estado. Asimismo, se establece que la Unidad de Contingencias Fiscales adscrita a la Secretaría de Estado en el Despacho de Finanzas establecerá los niveles de comunicación necesarios con las instituciones involucradas para definir y elaborar una base de datos histórica y estandarizada, que requiere la metodología de valoración de riesgos fiscales para la estimación y cuantificación del pasivo contingente por demandas judiciales.
 
 Para tal propósito, todas las instituciones del Estado sin excepción deberán remitir oficialmente y de manera trimestral dentro de los primeros quince (15) días del mes siguiente de finalizado el trimestre, la Matriz de Identificación de Procesos Judiciales en formato Excel mediante la entrega de 1 CD, conteniendo el 100% de las demandas Judiciales en proceso, como en sentencia firme.
 
@@ -2513,7 +2503,7 @@ ARTÍCULO 252.- Los ingresos que se perciba por la venta de energía eléctrica 
 
 #### Artículo 253
 
-ARTÍCULO 253.- L a s S e c r e t a r í a s d e E s t a d o , Descentralizadas o Desconcentradas, inclusive el Poder Legislativo, Poder Judicial o aquellas creadas por disposición constitucional, deben exigir como requisito documental para satisfacer las obligaciones económicas que deriven de sus obligaciones contractuales con proveedores de bienes y servicios, obra pública, consultoría o servicios profesionales, el Documento Fiscal según lo establecido en el Reglamento de Régimen de Facturación, el Documento Fiscal según lo establecido en el reglamento del régimen de facturación, otros documentos fiscales y registro fiscal de imprenta.
+ARTÍCULO 253.- Las Secretarías de Estado, Descentralizadas o Desconcentradas, inclusive el Poder Legislativo, Poder Judicial o aquellas creadas por disposición constitucional, deben exigir como requisito documental para satisfacer las obligaciones económicas que deriven de sus obligaciones contractuales con proveedores de bienes y servicios, obra pública, consultoría o servicios profesionales, el Documento Fiscal según lo establecido en el Reglamento de Régimen de Facturación, el Documento Fiscal según lo establecido en el reglamento del régimen de facturación, otros documentos fiscales y registro fiscal de imprenta.
 
 Las gerencias administrativas o las unidades que realicen esta función según la estructura organizacional de cada institución deben verificar que el documento fiscal relacionado en el párrafo anterior sea válido y debidamente autorizado por la Administración Tributaria.
 
@@ -2559,7 +2549,7 @@ Programa 01-Actividades Centrales;
 
 Programa 03 Actividades de Dirección de la Policía Nacional; Programa 11- Servicios Policiales de Prevención, Protección y Control; Programa 12 -Servicios de Investigación Delictiva;
 
-Actividad 01 Dirección y Coordinación del Programa , Actividad 02 Servicios de Investigación; Actividad 03-Servicios de Investigación de Delitos contra Menores;
+Actividad 01 Dirección y Coordinación del Programa, Actividad 02 Servicios de Investigación; Actividad 03-Servicios de Investigación de Delitos contra Menores;
 
 Actividad 04-Servicios Policiales Antidrogas; Actividad 05-Servicios de Atención a la Violencia contra la Mujer, Programa 13 - Servicios Policiales de Vialidad y Tránsito; Programa 14 - Servicios Educativos Policiales.
 
@@ -2573,7 +2563,7 @@ En la Institución 300 - Secretaría de Estado en el Despacho de Derechos Humano
 
 En la Institución 806 - Instituto Hondureño de Mercadeo Agrícola (IHMA): Programa 11 - Comercialización de Granos Básicos, Sub-Programa 00, Proyecto 00, Actividad 002 - Operaciones y Comercialización de la Reserva Estratégica, sólo para el Grupo de Gasto 30000 - Materiales y Suministros, específicamente para el Objeto 31120 - Granos Básicos para su Comercialización, sin la obligación de devolver los saldos al final del ejercicio, por ser Recursos Propios.
 
-En lo atinente a los gastos efectuados en Pro de la Seguridad del Estado, con base a lo establecido en el Artículo 17 del Decreto Legislativo No. 170- 2006, se clasifica como información reservada la derivada de las asignaciones presupuestarias correspondientes a las Instituciones 1 – Congreso Nacional, 20 – Presidencia de la República, 350
+En lo atinente a los gastos efectuados en Pro de la Seguridad del Estado, con base a lo establecido en el Artículo 17 del Decreto Legislativo No. 170-2006, se clasifica como información reservada la derivada de las asignaciones presupuestarias correspondientes a las Instituciones 1 – Congreso Nacional, 20 – Presidencia de la República, 350
 
 – Gabinete de Prevención, Seguridad y Defensa y con respecto a la Institución 30 – Secretaría de la Presidencia, el Programa 01 – Actividades Centrales, Sub-Programa 00, Proyecto 00, Actividad 01 – Dirección y Coordinación Superior Ejecutiva, Objeto del Gasto 99100 – Para Erogaciones Corrientes.
 
@@ -2611,9 +2601,9 @@ Los retos derivados para la implementación del convenio deben resolverse con au
 
 ARTÍCULO 260.- Se ordena a INVEST-H para que, en el municipio de Alianza, Departamento de Valle contrate de manera directa la construcción del Puente en la Costa de los Amates, el cual cuenta con los estudios respectivos por la cantidad de OCHENTA MILLONES DE LEMPIRAS EXACTOS (L.80,000,000.00). Este proyecto debe ser financiado con los recursos del préstamo sindicado al fideicomiso de infraestructura vial.
 
-A s í m i s m o
+Asímismo
 
-I N V E S T - H contratará de manera directa en el departamento de Choluteca el P R O Y E C T O : ” R N 1 7 , A N I L L O PERIFERICO (BALCANES) – INFOP” por la cantidad de TREINTA Y SIETE MILLONES SEISCIENTOS OCHENTA Y DOS MIL CIENTO CINCUENTA Y DOS LEMPIRAS CON CINCUENTA Y TRES CENTAVOS (L.37,682,152.53). Este proyecto debe ser financiado con los recursos del préstamo sindicado al fideicomiso de infraestructura vial.
+INVEST - H contratará de manera directa en el departamento de Choluteca el PROYECTO: ” R N 1 7, ANILLO PERIFERICO (BALCANES) – INFOP” por la cantidad de TREINTA Y SIETE MILLONES SEISCIENTOS OCHENTA Y DOS MIL CIENTO CINCUENTA Y DOS LEMPIRAS CON CINCUENTA Y TRES CENTAVOS (L.37,682,152.53). Este proyecto debe ser financiado con los recursos del préstamo sindicado al fideicomiso de infraestructura vial.
 
 #### Artículo 261
 
@@ -2743,17 +2733,17 @@ Dichos recursos estan en las estructura presuestaria siguiente INST 22 GA1 UE1 P
 
 #### Artículo 271
 
-ARTÍCULO 271.- Se faculta a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), realizar una ampliación presupuestaria al Instituto Nacional de la Mujer (INAM) por la cantidad de L.12,441,000.00 (Doce millones Cuatrocientos Cuarenta y Un Mil Lempiras exactos), en atención al Decreto No.50-2021 publicado en La Gaceta en fecha 26 de julio de 2021.
+ARTÍCULO 271.- Se faculta a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), realizar una ampliación presupuestaria al Instituto Nacional de la Mujer (INAM) por la cantidad de L.12,441,000.00 (Doce millones Cuatrocientos Cuarenta y Un Mil Lempiras exactos), en atención al Decreto No. 50-2021 publicado en La Gaceta en fecha 26 de julio de 2021.
 
 Dichos fondos deben ser utilizados exclusivamente para la contratación de personal para: manejo de plataforma virtual CONECTA, observatorio nacional de género (ONAG), gestión del conocimiento (escuela de genero), séptimo centro Ciudad Mujer (CCM), oficina regional de occidente del INAM, apertura de Casa Refugio; y pago de gastos administrativos y operativos.
 
 #### Artículo 272
 
-ARTÍCULO 272.- Se ratifica para el presente ejercicio fiscal la continuación y vigencia del Artículo 251 del Decreto No.180-2018.
+ARTÍCULO 272.- Se ratifica para el presente ejercicio fiscal la continuación y vigencia del Artículo 251 del Decreto No. 180-2018.
 
 #### Artículo 273
 
-ARTÍCULO 273.- Los beneficios establecidos en el Decreto No.47-2020, de fecha 14 de Mayo de 2020, publicado el 1 de junio de 2020, así como en el Decreto No.100- 2021, de 18 de Noviembre de 2021, publicado el 6 de Diciembre de 2021, debe ser de aplicación para aquellos casos en que el personal al que hacen referencia dichos Decretos cuenten con una plaza en el sistema público de salud, siempre y cuando la misma no supere la jornada laboral conforme a la legislación vigente, para lo cual se le debe conceder la permanencia en las horas correspondientes para complementar dicha jornada; deben ser aplicables también en aquellos supuestos en que la plaza de permanencia con la que se cuenta no sea en el sistema de salud pública o en el área de salud, debiéndose asignar la permanencia en el sistema de salud en un horario distinto.
+ARTÍCULO 273.- Los beneficios establecidos en el Decreto No. 47-2020, de fecha 14 de Mayo de 2020, publicado el 1 de junio de 2020, así como en el Decreto No. 100-2021, de 18 de Noviembre de 2021, publicado el 6 de Diciembre de 2021, debe ser de aplicación para aquellos casos en que el personal al que hacen referencia dichos Decretos cuenten con una plaza en el sistema público de salud, siempre y cuando la misma no supere la jornada laboral conforme a la legislación vigente, para lo cual se le debe conceder la permanencia en las horas correspondientes para complementar dicha jornada; deben ser aplicables también en aquellos supuestos en que la plaza de permanencia con la que se cuenta no sea en el sistema de salud pública o en el área de salud, debiéndose asignar la permanencia en el sistema de salud en un horario distinto.
 
 #### Artículo 274
 

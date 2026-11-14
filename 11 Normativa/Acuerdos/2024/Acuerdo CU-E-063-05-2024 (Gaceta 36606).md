@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Certificación, Acuerdo No CU-E-063-05-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240807-36606/download"
 extraido: "2026-11-14"
-huella: "6f6751b97d027d08"
+huella: "d2185be6f2d0c490"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO N° CU-E-063-05-2024
@@ -29,15 +29,11 @@ huella: "6f6751b97d027d08"
 
 El infrascrito, Secretario General de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA:
 
-La Certificación No. 004-2024 contentiva del Acuerdo No.
-
-CU-E-063-05-2024, del Acta No. CU-E-005-05-2024, de la Sesión Extraordinaria del Consejo Universitario, celebrada el diecisiete de mayo de dos mil veinticuatro, relativo a la aprobación de la “Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIESUNAH)”, que literalmente dice:
+La Certificación No. 004-2024 contentiva del Acuerdo No. CU-E-063-05-2024, del Acta No. CU-E-005-05-2024, de la Sesión Extraordinaria del Consejo Universitario, celebrada el diecisiete de mayo de dos mil veinticuatro, relativo a la aprobación de la “Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIESUNAH)”, que literalmente dice:
 
 “CERTIFICACIÓN No. 004-2024 La Infrascrita Secretaria del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA:
 
-El Acuerdo No.CU-E-063-05-2024 de la Sesión Extraordinaria del 17 de mayo de 2024, referente a la aprobación de la Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIES-UNAH), que literalmente dice: “Oficio SCU-No.071-2024. 20 de Mayo de 2024. Ph.D. ODIR AARON FERNANDEZ FLORES, RECTOR UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Extraordinaria celebrada el viernes 17 de mayo de dos mil veinticuatro, en Acta No.
-
-CU-E-005-05-2024 levantada al efecto, obra el ACUERDO No. CU-E-063-05-2024, y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-E-063-05-2024. CONSIDERANDO: Que el Consejo Universitario es el órgano máximo de Dirección Superior responsable de concertar y generar las políticas y estrategias de la gestión universitaria. CONSIDERANDO:
+El Acuerdo No.CU-E-063-05-2024 de la Sesión Extraordinaria del 17 de mayo de 2024, referente a la aprobación de la Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIES-UNAH), que literalmente dice: “Oficio SCU-No. 071-2024. 20 de Mayo de 2024. Ph.D. ODIR AARON FERNANDEZ FLORES, RECTOR UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Extraordinaria celebrada el viernes 17 de mayo de dos mil veinticuatro, en Acta No. CU-E-005-05-2024 levantada al efecto, obra el ACUERDO No. CU-E-063-05-2024, y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-E-063-05-2024. CONSIDERANDO: Que el Consejo Universitario es el órgano máximo de Dirección Superior responsable de concertar y generar las políticas y estrategias de la gestión universitaria. CONSIDERANDO:
 
 Que la Universidad Nacional Autónoma de Honduras para el logro de sus objetivos tiene como atribución la de organizar, dirigir y desarrollar con carácter exclusivo la educación superior y profesional de Honduras. CONSIDERANDO:
 
@@ -59,7 +55,7 @@ Asignar presupuesto para la ejecución de la PIES-UNAH en áreas prioritarias; 9
 
 ACUERDA:
 
-PRIMERO: Aprobar la “POLÍTICA DE INCLUSIÓN Y EQUIDAD EN LA EDUCACIÓN SUPERIOR PARA LA COHESIÓN SOCIAL (PIES-UNAH)”, presentado por la Dra. Lourdes Rosario Murcia, Vicerrectora Académica, que literalmente dice: “UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS. Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIES-UNAH).1 Ciudad Universitaria “José Trinidad R e y e s ” M a y o d e 2 0 2 4 . A U T O R I D A D E S UNIVERSITARIAS. JUNTA DE DIRECCIÓN UNIVERSITARIA. Dr. ÓSMAN JEOVANNY MARTÍNEZ PADILLA. MSc. PATRICIA DURÓN VARELA. MSc.
+PRIMERO: Aprobar la “POLÍTICA DE INCLUSIÓN Y EQUIDAD EN LA EDUCACIÓN SUPERIOR PARA LA COHESIÓN SOCIAL (PIES-UNAH)”, presentado por la Dra. Lourdes Rosario Murcia, Vicerrectora Académica, que literalmente dice: “UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS. Política de Inclusión y Equidad en la Educación Superior para la Cohesión Social (PIES-UNAH).1 Ciudad Universitaria “José Trinidad Reyes ” Mayo de 2 0 2 4 . AUTORIDADES UNIVERSITARIAS. JUNTA DE DIRECCIÓN UNIVERSITARIA. Dr. ÓSMAN JEOVANNY MARTÍNEZ PADILLA. MSc. PATRICIA DURÓN VARELA. MSc.
 
 VÍCTOR ISAÍAS MOLINA. MSc. MAURICIO RAFAEL DÍAZ BURDETT. MSc. NORMA IDALIA MARTÍNEZ CHÁVEZ. Dr. CARLOS ALBERTO PÉREZ ZELAYA. Dr.
 
@@ -127,7 +123,7 @@ Pueblos originarios. Comunidades indígenas y afrodescendientes que comparten co
 
 Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones con las demás, así como de todos los derechos humanos y libertades fundamentales.10 Marco Jurídico Normativo. Marco Internacional. * Declaración Universal 15 CIDH. (2015). Conceptos Básicos. https://www.oas.org/es/ cidh/multimedia/2015/violencia-lgbti/terminologia-lgbti.html de los Derechos Humanos (ONU, 1948). * Declaración Mundial Sobre Educación Para Todos. Satisfacción de las necesidades básicas de aprendizaje, Jomtien Tailandia (UNESCO, 1990). * Declaración de Salamanca. Conferencia Mundial sobre necesidades educativas especiales: Acceso y Calidad, Salamanca España (UNESCO, 1994). * IV Conferencia Mundial sobre la Mujer, Beijing China (ONU, 1995). * Foro Mundial Dakar, Dakar Senegal (2000). * Convención sobre los Derechos de las Personas con Discapacidad (ONU, 2006) Conferencia Regional de Educación Superior de América Latina y el Caribe (CRES) (UNESCO, 1998/2008/2018/2024). Nacional. * Constitución Política de la República de Honduras (Decreto n.º 131, 1982).
 
-* Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad (Decreto n.° 160-2005, 2005). * Ley Fundamental de Educación (Decreto n.° 262-2011, 2012). * Reglamento de Educación Inclusiva para Personas con Discapacidad, Necesidades Educativas Especiales y Talentos Excepcionales (Acuerdo Ejecutivo n.° 1365-SE-2014, 2014). * Ley para el Desarrollo de la Educación Alternativa No Formal (Decreto n.° 313- 98, 1999). * Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación (Decreto n.° 265-2013, 2014). Código de la Niñez y la Adolescencia (Decreto n.° 73-96, 1996). Ley Marco para el Desarrollo Integral de la Juventud (Decreto n.° 260, 2005, 2006). Ley de Igualdad de Oportunidades para la Mujer (Decreto n.° 34, 2000, 2000). Ley de Educación Superior (Decreto n.° 142-89, 1989). * Ley Contra la Violencia Doméstica (1998). * Ley del INAM (1999). * Ley de Igualdad de Oportunidades para la Mujer (Decreto n.° 34, 2000, 2000).
+* Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad (Decreto n.° 160-2005, 2005). * Ley Fundamental de Educación (Decreto n.° 262-2011, 2012). * Reglamento de Educación Inclusiva para Personas con Discapacidad, Necesidades Educativas Especiales y Talentos Excepcionales (Acuerdo Ejecutivo n.° 1365-SE-2014, 2014). * Ley para el Desarrollo de la Educación Alternativa No Formal (Decreto n.° 313-98, 1999). * Ley de Evaluación, Acreditación y Certificación de la Calidad y Equidad de la Educación (Decreto n.° 265-2013, 2014). Código de la Niñez y la Adolescencia (Decreto n.° 73-96, 1996). Ley Marco para el Desarrollo Integral de la Juventud (Decreto n.° 260, 2005, 2006). Ley de Igualdad de Oportunidades para la Mujer (Decreto n.° 34, 2000, 2000). Ley de Educación Superior (Decreto n.° 142-89, 1989). * Ley Contra la Violencia Doméstica (1998). * Ley del INAM (1999). * Ley de Igualdad de Oportunidades para la Mujer (Decreto n.° 34, 2000, 2000).
 
 * Segundo Plan de Igualdad (publicado) Tercer Plan de Igualdad (por publicar 2023). Institucional. * Ley Orgánica de la Universidad Nacional Autónoma de Honduras (Decreto n.° 209-2004, 2005). * Modelo Educativo de la UNAH. * Estatuto del Docente Universitario. * Reglamento de Admisión de Estudiantes. * Reglamento de Estudiantes. * Reglamento Especial para Prevenir, Atender, Sancionar y Erradicar el Acoso Sexual. * Plan Estratégico UNAH. Alcance de la política. La PIES está dirigida a toda la comunidad universitaria (autoridades, estudiantes, exalumnos, profesores, personal administrativo, de servicio y personal jubilado).
 

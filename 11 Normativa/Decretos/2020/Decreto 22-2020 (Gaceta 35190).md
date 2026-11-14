@@ -8,10 +8,10 @@ gaceta_numero: 35190
 gaceta_fecha: "2020-03-03"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)|La Gaceta 35190]]"
 paginas: "A. 14 - 16"
-sumario: "Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020"
+sumario: "Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200303-35190/download"
 extraido: "2026-11-14"
-huella: "c0d25f8aeb9d1916"
+huella: "782be2df5fe7b862"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 22-2020
@@ -23,7 +23,7 @@ huella: "c0d25f8aeb9d1916"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)\|La Gaceta 35190]] del 2020-03-03 |
 | Páginas | A. 14 - 16 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Sin perjuicio de las restricciones establecidas en el Decreto No.171-2019 de fecha 12 de diciembre de 2019, que contienen las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que proceda ampliar el Presupuesto de la Corte Suprema de Justicia (CSJ), en el presente Ejercicio Fiscal hasta por un monto de DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L.250,000,000.00), para el fortalecimiento de los juzgados y tribunales de la República a nivel nacional.
+ARTÍCULO 1.- Sin perjuicio de las restricciones establecidas en el Decreto No. 171-2019 de fecha 12 de diciembre de 2019, que contienen las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que proceda ampliar el Presupuesto de la Corte Suprema de Justicia (CSJ), en el presente Ejercicio Fiscal hasta por un monto de DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L.250,000,000.00), para el fortalecimiento de los juzgados y tribunales de la República a nivel nacional.
 
 Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a realizar las operaciones necesarias a fin de llevar a cabo la ampliación presupuestaria en referencia.
 

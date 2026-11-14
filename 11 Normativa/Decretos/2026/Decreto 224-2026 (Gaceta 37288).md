@@ -11,7 +11,7 @@ paginas: "A. 3 - 20"
 sumario: "Decretos Nos. 224-2026, 225-2026, 261-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261106-37288/download"
 extraido: "2026-11-09"
-huella: "57e22c04b70f8210"
+huella: "66a5f0a65fe2cc80"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 224-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 
 
 CONSIDERANDO: Que la Ley de Contratación del Estado establece que los contratos de obra pública, suministro de bienes o servicios y consultoría celebrados por los órganos de la Administración Pública y demás organismos estatales financiados con fondos públicos se sujetarán a sus disposiciones y normas reglamentarias, sin perjuicio de la prevalencia de las disposiciones contenidas en tratados, convenios internacionales o instrumentos suscritos con organismos de financiamiento externo cuando establezcan regulaciones especiales; asimismo, dispone que los contratos que contemplen exoneraciones, incentivos o concesiones fiscales, así como aquellos que produzcan o prolonguen sus efectos al siguiente período de Gobierno, requieren aprobación del Congreso Nacional, y establece que las modificaciones contractuales deberán encontrarse debidamente fundamentadas y responder a circunstancias imprevistas o nuevas necesidades que hagan necesaria su adopción para satisfacer el interés público, sujetándose a los límites porcentuales establecidos por la Ley y requiriendo aprobación del Congreso Nacional cuando excedan del veinticinco por ciento (25%) del monto inicial del contrato.
 
-CONSIDERANDO: Que el Decreto No.4-2025, mediante el cual se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2025 en su Artículo 51 establece que: Ninguna institución del sector público podrá contraer compromisos u obligaciones, celebrar contratos, autorizar obligaciones sin que cuente con la respectiva disponibilidad presupuestaria y financiera, los compromisos se mantendrán hasta que las obras se realicen, los bienes se entreguen o los servicios sean prestados.
+CONSIDERANDO: Que el Decreto No. 4-2025, mediante el cual se aprobó el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2025 en su Artículo 51 establece que: Ninguna institución del sector público podrá contraer compromisos u obligaciones, celebrar contratos, autorizar obligaciones sin que cuente con la respectiva disponibilidad presupuestaria y financiera, los compromisos se mantendrán hasta que las obras se realicen, los bienes se entreguen o los servicios sean prestados.
 
 CONSIDERANDO: Que el Proyecto de Mejoramiento de la Calidad en la Educación Prebásica en Honduras, identificado con el Código P 169161, es una iniciativa financiada con recursos del Banco Mundial (BM) y de la Alianza Mundial para la Educación (AME), orientada a fortalecer la capacidad institucional de la Secretaría de Educación para la gestión de la educación prebásica, mejorar las prácticas pedagógicas de los docentes y optimizar los entornos físicos de aprendizaje en centros prebásicos del país.
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

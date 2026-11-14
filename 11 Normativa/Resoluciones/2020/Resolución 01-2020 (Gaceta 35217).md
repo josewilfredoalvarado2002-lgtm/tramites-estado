@@ -11,7 +11,7 @@ paginas: "A. 27 - 28"
 sumario: "No. 01-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200403-35217/download"
 extraido: "2026-11-14"
-huella: "bfa2c421d8f3b08f"
+huella: "a2030fa39d41eb2f"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 01-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que el Artículo 82 de la Ley Orgánica del Poder Legislativo, se�
 
 POR TANTO, Al amparo de lo dispuesto en el Artículo 82 de la Ley Orgánica del Poder Legislativo,
 
-R E S U E L V E:
+RESUELVE:
 
 PRIMERO: Pleno de Diputados, la Junta Directiva y las Comisiones Legislativas, podrán reunirse, discutir y aprobar asuntos de su competencia mediante sesiones no presenciales, de manera virtual.
 

@@ -8,10 +8,10 @@ gaceta_numero: 27287
 gaceta_fecha: "2026-11-05"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)|La Gaceta 27287]]"
 paginas: "A. 14 - 91"
-sumario: "Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
+sumario: "Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261105-27287/download"
 extraido: "2026-11-09"
-huella: "c3309d2b7e71724e"
+huella: "c4c44f120a335d18"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 209-2026
@@ -23,7 +23,7 @@ huella: "c3309d2b7e71724e"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)\|La Gaceta 27287]] del 2026-11-05 |
 | Páginas | A. 14 - 91 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
 
 ## Texto
 
@@ -49,17 +49,17 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1), de la Con
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes EL CONTRATO DE C O N S T R U C C I Ó N N o . S I TCO-380-2024; referente al Proyecto:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes EL CONTRATO DE CONSTRUCCIÓN No . S I TCO-380-2024; referente al Proyecto:
 
-“CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”; suscrito en fecha 6 de diciembre del año 2024, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS D E I N F R A E S T R U C T U R A Y T R A N S P O R T E ( S I T ) y la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V.
+“CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”; suscrito en fecha 6 de diciembre del año 2024, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE ( S I T ) y la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V.
 
 “(ENOSA), por un monto contractual
 
-DE CUARENTA Y TRES MILLONES NOVECIENTOS NOVENTA Y UN MIL DOSCIENTOS SIETE LEMPIRAS CON DOCE CENTAVOS (L. 43,991,207.12) y un plazo de ejecución de Ciento Cincuenta (150) días calendario y sus Modificaciones No.2, No.4 y No.5, cuyo texto literal se transcribirá a continuación:
+DE CUARENTA Y TRES MILLONES NOVECIENTOS NOVENTA Y UN MIL DOSCIENTOS SIETE LEMPIRAS CON DOCE CENTAVOS (L. 43,991,207.12) y un plazo de ejecución de Ciento Cincuenta (150) días calendario y sus Modificaciones No. 2, No. 4 y No. 5, cuyo texto literal se transcribirá a continuación:
 
 MODIFICACIÓN No. 5
 
@@ -69,11 +69,9 @@ No. SIT-CO-380-2024
 
 “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” Nosotros: OCTAVIO JOSÉ PINEDA PAREDES, de nacionalidad hondureña, mayor de edad, soltero, Ingeniero Civil, con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán, con Documento Nacional de Identificación
 
-(DNI) No. 0801-1990-24191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero del año 2024, con suficientes facultades para suscribir actos como el presente, quien en adelante y para estos efectos se denominará EL CONTRATANTE; y, por otra parte, JUAN CARLOS FLORES LOPEZ, de nacionalidad hondureña, mayor de edad, soltero, con Documento Nacional de Identificación (DNI) No. 0801-1984-05396, con Registro Tributario Nacional (RTN) No. 08011984053965; actuando en mi condición de Representante Legal de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V., con correo electrónico enocsateg@gmail.com, teléfono (+504) 8930- 4968 y con domicilio legal en Lomas de Toncontín Llano del Potrero salida al Sur, Tegucigalpa, Honduras, para efectos de notificación, empresa constituida conforme a las leyes de la República de Honduras bajo Registro Tributario Nacional
+(DNI) No. 0801-1990-24191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero del año 2024, con suficientes facultades para suscribir actos como el presente, quien en adelante y para estos efectos se denominará EL CONTRATANTE; y, por otra parte, JUAN CARLOS FLORES LOPEZ, de nacionalidad hondureña, mayor de edad, soltero, con Documento Nacional de Identificación (DNI) No. 0801-1984-05396, con Registro Tributario Nacional (RTN) No. 08011984053965; actuando en mi condición de Representante Legal de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V., con correo electrónico enocsateg@gmail.com, teléfono (+504) 8930-4968 y con domicilio legal en Lomas de Toncontín Llano del Potrero salida al Sur, Tegucigalpa, Honduras, para efectos de notificación, empresa constituida conforme a las leyes de la República de Honduras bajo Registro Tributario Nacional
 
-(RTN) No. 08019013587149 y debidamente autorizado para celebrar el presente acto, quien para efectos legales se denominará EL CONTRATISTA; convenimos en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, amparados en el literal c. de la CLÁUSULA XIX: AMPLIACIÓN DEL PLAZO Y DE LAS GARANTÍAS Y/O FIANZAS y en el literal b. de la CLÁUSULA III: ORDEN DE INICIO Y PLAZO, del Contrato que nos ocupa y en las consideraciones legales siguientes:
+(RTN) No. 08019013587149 y debidamente autorizado para celebrar el presente acto, quien para efectos legales se denominará EL CONTRATISTA; convenimos en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, amparados en el literal c. de la CLÁUSULA XIX: AMPLIACIÓN DEL PLAZO Y DE LAS GARANTÍAS Y/O FIANZAS y en el literal b. de la CLÁUSULA III: ORDEN DE INICIO Y PLAZO, del Contrato que nos ocupa y en las consideraciones legales siguientes:
 
 CONSIDERANDO (1): Que, con fecha 06 de diciembre de 2024, se formalizó el Acuerdo de CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024.
 
@@ -85,15 +83,13 @@ CONSIDERANDO (2): Que, con fecha 31 de diciembre de 2024, se formalizó el Acuer
 
 CONSIDERANDO (3): Que el Contratante emitió en favor de EL SUPERVISOR, la Orden de Inicio No. 2025-DGINOI-002, la cual fue efectiva a partir del 06 de enero de 2025, en cumplimiento del literal b. de la CLÁUSULA SÉPTIMA:
 
-VALIDEZ, VIGENCIA Y DURACIÓN DEL CONTRATO del CONTRATO DE SERVICIOS DE SUPERVISIÓN No.
-
-SIT-SU-185-2024.
+VALIDEZ, VIGENCIA Y DURACIÓN DEL CONTRATO del CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024.
 
 CONSIDERANDO (4): Que el Contratante emitió en favor de EL CONTRATISTA, la Orden de Inicio No. 2025-DGINOI-009 la cual fue efectiva a partir del 20 de enero de 2025, en cumplimiento del literal a. de la CLÁUSULA III:
 
 ORDEN DE INICIO Y PLAZO del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024.
 
-CONSIDERANDO (5): Que, en fecha 23 de enero de 2025, se firmó el ADENDUM No.1, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la CLÁUSULA XXXVI: ASIGNACIÓN PRESUPUESTARIA.
+CONSIDERANDO (5): Que, en fecha 23 de enero de 2025, se firmó el ADENDUM No. 1, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la CLÁUSULA XXXVI: ASIGNACIÓN PRESUPUESTARIA.
 
 CONSIDERANDO (6): Que, en fecha 6 de junio de 2025, se suscribió entre EL CONTRATANTE y EL CONTRATISTA la MODIFICACIÓN No. 2 del CONTRATO DE CONSTRUCCIÓN No. SITCO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” con la cual se modificó el Plazo Contractual, ampliándolo en Cien (100) Días Calendario, siendo el nuevo Plazo de Ejecución de DOSCIENTOS CINCUENTA (250) DÍAS CALENDARIO, además, se incrementó el Monto Contractual en DIEZ MILLONES SEISCIENTOS CUARENTA Y DOS MIL NOVECIENTOS OCHENTA Y TRES LEMPIRAS CON 48/100 CENTAVOS (L 10,642,983.48), resultando el nuevo Monto del Contrato en CINCUENTA Y CUATRO MILLONES SEISCIENTOS TREINTA Y CUATRO MIL CIENTO NOVENTA LEMPIRAS CON 61/100 CENTAVOS (L 54,634,190.61).
 
@@ -105,15 +101,13 @@ CONSIDERANDO (8): Que, en fecha 11 de junio de 2025, EL CONTRATISTA remitió a E
 
 CONSIDERANDO (9): Que, en fecha 13 de junio de 2025, se suscribió tripartitamente entre EL CONTRATANTE, EL CONTRATISTA y EL SUPERVISOR un ACTA para celebrar el acto administrativo para la SUSPENSIÓN TEMPORAL del Proyecto CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, según CONTRATO DE CONSTRUCCIÓN No. SITCO-380-2024, basados en la dificultad por la presencia de lluvias y chubascos constantes en la zona, los que ocasionaron el aumento del caudal del Río Humuya lo que había imposibilitado la construcción de las pilastras 1 y 2 del puente.
 
-CONSIDERANDO (10): Que, el 13 de junio de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 13 de junio de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
+CONSIDERANDO (10): Que, el 13 de junio de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 13 de junio de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
 
 CONSIDERANDO (11): Que, EL CONTRATANTE emitió la Orden de Reinicio No. SIT-DGIN-231-2025 la cual fue efectiva a partir del 7 de julio de 2025, instruyendo a EL CONTRATISTA a reiniciar los trabajos según el alcance estipulado en el documento contractual suscrito.
 
 Según la supra descrita Orden de Reinicio, el plazo de finalización de las obras era el 19 de octubre de 2025.
 
-CONSIDERANDO (12): Que, en fecha 11 de agosto de 2025, se firmó el ADENDUM No.3, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la
+CONSIDERANDO (12): Que, en fecha 11 de agosto de 2025, se firmó el ADENDUM No. 3, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la
 
 CLÁUSULA XII: PENAL.
 
@@ -125,17 +119,13 @@ CONSIDERANDO (14): Que, en fecha 13 de octubre de 2025, EL CONTRATISTA remitió 
 
 CONSIDERANDO (15): Que, en fecha 14 de octubre de 2025, se suscribió tripartitamente entre EL CONTRATANTE, EL CONTRATISTA y EL SUPERVISOR un ACTA para celebrar el acto administrativo para la SUSPENSIÓN TEMPORAL del Proyecto CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, según CONTRATO DE CONSTRUCCIÓN No. SITCO-380-2024, basados en la dificultad por la presencia de lluvias y chubascos constantes en la zona, los que ocasionaron el aumento del caudal del Río Humuya lo que había imposibilitado la continuidad de los trabajos del puente.
 
-CONSIDERANDO (16): Que, el 14 de octubre de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 14 de octubre de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
+CONSIDERANDO (16): Que, el 14 de octubre de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 14 de octubre de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
 
 CONSIDERANDO (16): Que, EL CONTRATANTE emitió la Orden de Reinicio 2 No. SIT-DGIN-499-2025 la cual fue efectiva a partir del 3 de noviembre de 2025, instruyendo a EL CONTRATISTA a reiniciar los trabajos según el alcance estipulado en el documento contractual suscrito.
 
 Según la supra descrita Orden de Reinicio 2, el plazo de finalización de las obras era el 18 de enero de 2026.
 
-CONSIDERANDO (17): Que, según se manifiesta en el Documento de Justificación para la MODIFICACIÓN No. 5 del CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” a cargo de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A.
+CONSIDERANDO (17): Que, según se manifiesta en el Documento de Justificación para la MODIFICACIÓN No. 5 del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” a cargo de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A.
 
 DE C.V., elaborado por la supervisión LABORATORIO Y TOPOGRAFÍA S.A. DE C.V (LABTOP), se vuelve necesario incrementar el plazo contractual, debido a atrasos en los permisos para realizar los trabajos de excavación del nuevo alineamiento en la salida/entrada del puente en la aproximación del extremo 1, es decir, del lado de la comunidad de Ojos de Agua, lo que ha impedido un avance y desarrollo programado del proyecto.
 
@@ -143,11 +133,7 @@ Dicho Documento de Justificación para la MODIFICACIÓN No. 5 fue preparado por 
 
 CONSIDERANDO (14): Que la presente MODIFICACIÓN No. 5 se requiere para generar una ampliación del plazo del contrato por un tiempo de 90 días calendario, siendo el nuevo plazo de ejecución de 411 días calendario y la nueva fecha de terminación el 18 de abril de 2026.
 
-POR LO TANTO: Nosotros: OCTAVIO JOSÉ PINEDA PAREDES, hondureño, mayor de edad, casado, Ingeniero Civil, con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, con Documento Nacional de Identificación (DNI) No. 0801-1990-24191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); con rango de Secretario de Estado creada mediante Decreto Ejecutivo número PCM-05-2022, publicado en el Diario Oficial La Gaceta, número 35,893, de fecha 6 de abril del año 2022, nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero del año 2024; con suficientes facultades para suscribir actos como el presente, denominado “EL CONTRATANTE”; y por otra parte, JUAN CARLOS FLORES LOPEZ, de nacionalidad hondureña, mayor de edad, soltero, con Documento Nacional de Identificación (DNI) No. 0801-1984-05396, con Registro Tributario Nacional (RTN) No. 08011984053965; actuando en mi condición de Representante Legal de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V. denominado “EL CONTRATISTA”; convenimos en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, procediendo de común acuerdo, a suscribir la MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en los siguientes términos:
+POR LO TANTO: Nosotros: OCTAVIO JOSÉ PINEDA PAREDES, hondureño, mayor de edad, casado, Ingeniero Civil, con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, con Documento Nacional de Identificación (DNI) No. 0801-1990-24191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); con rango de Secretario de Estado creada mediante Decreto Ejecutivo número PCM-05-2022, publicado en el Diario Oficial La Gaceta, número 35,893, de fecha 6 de abril del año 2022, nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero del año 2024; con suficientes facultades para suscribir actos como el presente, denominado “EL CONTRATANTE”; y por otra parte, JUAN CARLOS FLORES LOPEZ, de nacionalidad hondureña, mayor de edad, soltero, con Documento Nacional de Identificación (DNI) No. 0801-1984-05396, con Registro Tributario Nacional (RTN) No. 08011984053965; actuando en mi condición de Representante Legal de la EMPRESA EN OBRAS DE CONSTRUCCIÓN S.A. DE C.V. denominado “EL CONTRATISTA”; convenimos en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, procediendo de común acuerdo, a suscribir la MODIFICACIÓN No. 5 al CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en los siguientes términos:
 
 PRIMERO: Modificar el inciso b. de la CLÁUSULA III:
 
@@ -171,7 +157,7 @@ POR EL CONTRATANTE
 
 #### Artículo 2
 
-ARTÍCULO 2.- Aprobar en todas y cada una de sus partes El CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024; referente al Proyecto: “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”; suscrito en fecha 3 de Diciembre del año 2025, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) y la EMPRESA LABORATORIO Y TOPOGRAFÍA S.A. DE C.V (LABTOP), por un monto contractual de DOS MILLONES NOVECIENTOS SESENTA Y SIETE MIL TRESCIENTOS DIECISÉIS LEMPIRAS CON VEINTINUEVE CENTAVOS (L. 2,967,316.29) y un plazo de ejecución de Ciento Ochenta (180) días calendario y sus Modificaciones No.1, No.2 y No.3, cuyo texto literal se transcribirá a continuación:
+ARTÍCULO 2.- Aprobar en todas y cada una de sus partes El CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024; referente al Proyecto: “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”; suscrito en fecha 3 de Diciembre del año 2025, entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) y la EMPRESA LABORATORIO Y TOPOGRAFÍA S.A. DE C.V (LABTOP), por un monto contractual de DOS MILLONES NOVECIENTOS SESENTA Y SIETE MIL TRESCIENTOS DIECISÉIS LEMPIRAS CON VEINTINUEVE CENTAVOS (L. 2,967,316.29) y un plazo de ejecución de Ciento Ochenta (180) días calendario y sus Modificaciones No. 1, No. 2 y No. 3, cuyo texto literal se transcribirá a continuación:
 
 MODIFICACIÓN No. 3
 
@@ -199,15 +185,13 @@ CONSIDERANDO (2): Que, con fecha 31 de diciembre de 2024, se formalizó el Acuer
 
 CONSIDERANDO (3): Que el Contratante emitió en favor de EL SUPERVISOR, la Orden de Inicio No. 2025-DGINOI-002, la cual fue efectiva a partir del 06 de enero de 2025, en cumplimiento del literal b. de la CLÁUSULA SÉPTIMA:
 
-VALIDEZ, VIGENCIA Y DURACIÓN DEL CONTRATO del CONTRATO DE SERVICIOS DE SUPERVISIÓN No.
-
-SIT-SU-185-2024.
+VALIDEZ, VIGENCIA Y DURACIÓN DEL CONTRATO del CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024.
 
 CONSIDERANDO (4): Que el Contratante emitió en favor de EL CONTRATISTA, la Orden de Inicio No. 2025-DGINOI-009 la cual fue efectiva a partir del 20 de enero de 2025, en cumplimiento del literal a. de la CLÁUSULA III:
 
 ORDEN DE INICIO Y PLAZO del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024.
 
-CONSIDERANDO (5): Que, en fecha 23 de enero de 2025, se firmó el ADENDUM No.1, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la CLÁUSULA XXXVI: ASIGNACIÓN PRESUPUESTARIA.
+CONSIDERANDO (5): Que, en fecha 23 de enero de 2025, se firmó el ADENDUM No. 1, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la CLÁUSULA XXXVI: ASIGNACIÓN PRESUPUESTARIA.
 
 CONSIDERANDO (6): Que, en fecha 06 de junio de 2025, se firmó la MODIFICACIÓN No. 2 del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con el cual se amplió el monto contractual en DIEZ MILLONES SEISCIENTOS CUARENTA Y DOS MIL NOVECIENTOS OCHENTA Y TRES LEMPIRAS CON 49/100 CENTAVOS (L 10,642,983.49), quedando el nuevo monto del contrato en CINCUENTA Y CUATRO MILLONES SEISCIENTOS TREINTA Y CUATRO MIL CIENTO NOVENTA LEMPIRAS CON 61/100 CENTAVOS (L 54,634,190.61); y, se amplió el plazo del contrato por un tiempo de 100 días calendario, siendo el nuevo plazo de ejecución de 250 días calendario y la nueva fecha de terminación el 26 de septiembre de 2025.
 
@@ -219,23 +203,19 @@ CONSIDERANDO (8): Que, en fecha 11 de junio de 2025, EL CONTRATISTA remitió a E
 
 CONSIDERANDO (9): Que, en fecha 13 de junio de 2025, se suscribió tripartitamente entre EL CONTRATANTE, EL CONTRATISTA y EL SUPERVISOR un ACTA para celebrar el acto administrativo para la SUSPENSIÓN TEMPORAL del Proyecto CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, según CONTRATO DE CONSTRUCCIÓN No. SITCO-380-2024, basados en la dificultad por la presencia de lluvias y chubascos constantes en la zona, los que ocasionaron el aumento del caudal del Río Humuya lo que había imposibilitado la construcción de las pilastras 1 y 2 del puente.
 
-CONSIDERANDO (10): Que, el 13 de junio de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 13 de junio de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No.
-
-SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
+CONSIDERANDO (10): Que, el 13 de junio de 2025, al amparo del ACTA, EL CONTRATANTE emitió la NOTIFICACIÓN DE SUSPENSIÓN, con la cual, a partir del 13 de junio de 2025, se suspendió temporalmente y por un período no mayor a 180 días calendario, el proyecto CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024. “CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA, dicha suspensión se amparó en el numeral 3 del artículo 127 y en las prerrogativas del numeral 3 del artículo 119 de la Ley de Contratación del Estado.
 
 CONSIDERANDO (11): Que, EL CONTRATANTE emitió la Orden de Reinicio No. SIT-DGIN-231-2025 la cual fue efectiva a partir del 7 de julio de 2025, instruyendo a EL CONTRATISTA a reiniciar los trabajos según el alcance estipulado en el documento contractual suscrito.
 
 Según la supra descrita Orden de Reinicio, el plazo de finalización de las obras era el 19 de octubre de 2025.
 
-CONSIDERANDO (12): Que, en fecha 11 de agosto de 2025, se firmó el ADENDUM No.3, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la
+CONSIDERANDO (12): Que, en fecha 11 de agosto de 2025, se firmó el ADENDUM No. 3, del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con fundamento en los artículos 119, numeral 2, 121, 122 y 123 de la Ley de Contratación del Estado, con la cual, se modificó la
 
 CLÁUSULA XII: PENAL.
 
 CONSIDERANDO (14): Que, en fecha 10 de octubre de 2025, se firmó la MODIFICACIÓN No. 4 del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con el cual se amplió el plazo del contrato por un tiempo de 71 días calendario, siendo el nuevo plazo de ejecución de TRESCIENTOS VEINTIÚN (321) DÍAS CALENDARIO.
 
-CONSIDERANDO (15): Que, en fecha 13 de octubre de 2025, se suscribió entre EL CONTRATANTE y EL SUPERVISOR la MODIFICACIÓN No. 2 del CONTRATO DE SERVICIOS DE SUPERVISIÓN No.
-
-SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” con la cual se modificó el Plazo Contractual, ampliándolo en Sesenta y Dos (62) días calendario, siendo el nuevo Plazo de Ejecución de TRESCIENTOS CUARENTA Y DOS (342) DÍAS CALENDARIO.
+CONSIDERANDO (15): Que, en fecha 13 de octubre de 2025, se suscribió entre EL CONTRATANTE y EL SUPERVISOR la MODIFICACIÓN No. 2 del CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA” con la cual se modificó el Plazo Contractual, ampliándolo en Sesenta y Dos (62) días calendario, siendo el nuevo Plazo de Ejecución de TRESCIENTOS CUARENTA Y DOS (342) DÍAS CALENDARIO.
 
 CONSIDERANDO (16): Que, en fecha 15 de enero de 2026, se suscribió la MODIFICACIÓN No. 5 del CONTRATO DE CONSTRUCCIÓN No. SIT-CO-380-2024, entre EL CONTRATANTE y EL CONTRATISTA, con el cual se amplió el plazo del contrato por un tiempo de 90 días calendario, siendo el nuevo plazo de ejecución de CUATROCIENTOS ONCE (411) DÍAS CALENDARIO.
 
@@ -245,9 +225,7 @@ CONSIDERANDO (17): Que, para poder seguir ejecutando los trabajos de supervisió
 
 POR LO TANTO: Nosotros: OCTAVIO JOSÉ PINEDA PAREDES, hondureño, mayor de edad, casado, Ingeniero Civil, con domicilio legal en el BARRIO LA BOLSA, Comayagüela, Municipio del Distrito Central, con Documento Nacional de Identificación (DNI) No. 0801-1990-24191; actuando en mi condición de SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT); con rango de Secretario de Estado creada mediante Decreto Ejecutivo número PCM-05-2022, publicado en el Diario Oficial La Gaceta, número 35,893, de fecha 6 de abril del año 2022, nombrado mediante Acuerdo Ejecutivo No. 11-2024, de fecha 03 de enero del año 2024; con suficientes facultades para suscribir actos como el presente, denominado “EL CONTRATANTE”; y, FERNANDO DANIEL SILVA LEIVA, hondureño, mayor de edad, casado, Ingeniero Civil, con Documento Nacional de Identificación
 
-(DNI) número 0801-1985-07092, con Registro Tributario Nacional (RTN) número 08011985070923; Representante Legal de la Empresa LABORATORIO Y TOPOGRAFÍA S.A. DE C.V. (LABTOP), con domicilio legal en Colonia La Estancia edificio Plaza Marte, primer nivel, Cub. 29, Bulevar Morazán, M.D.C., Departamento de Francisco Morazán, Honduras, correo fersilva122@hotmail.com, teléfono (504) 2239-1768, Empresa constituida conforme con las leyes de la República, con Registro Tributario Nacional (RTN) número 08019014659094, denominado EL SUPERVISOR/ CONSULTOR; hemos convenido en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 3 al CONTRATO DE SERVICIOS DE SUPERVISIÓN No.
-
-SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en los siguientes términos:
+(DNI) número 0801-1985-07092, con Registro Tributario Nacional (RTN) número 08011985070923; Representante Legal de la Empresa LABORATORIO Y TOPOGRAFÍA S.A. DE C.V. (LABTOP), con domicilio legal en Colonia La Estancia edificio Plaza Marte, primer nivel, Cub. 29, Bulevar Morazán, M.D.C., Departamento de Francisco Morazán, Honduras, correo fersilva122@hotmail.com, teléfono (504) 2239-1768, Empresa constituida conforme con las leyes de la República, con Registro Tributario Nacional (RTN) número 08019014659094, denominado EL SUPERVISOR/ CONSULTOR; hemos convenido en celebrar, como al efecto celebramos, la presente MODIFICACIÓN No. 3 al CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DE PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en los siguientes términos:
 
 PRIMERO: Modificar la CLÁUSULA SÉPTIMA:
 
@@ -265,9 +243,7 @@ CLÁUSULA DÉCIMA SEGUNDA: AMPLIACIÓN DE LAS GARANTÍAS POR AUMENTO EN EL PLAZO
 
 TERCERO: Las demás cláusulas, partes, incisos y numerales del Contrato de Servicios de Supervisión que no sufren cambio en esta MODIFICACIÓN No. 3, permanecen vigentes de cumplimiento.
 
-En fe de lo cual, se firma la presente MODIFICACIÓN No. 3 al CONTRATO DE SERVICIOS DE SUPERVISIÓN No.
-
-SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DEL PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en la Ciudad de Tegucigalpa, M.D.C., a los 16 días del mes de enero de 2026.
+En fe de lo cual, se firma la presente MODIFICACIÓN No. 3 al CONTRATO DE SERVICIOS DE SUPERVISIÓN No. SIT-SU-185-2024. “SUPERVISIÓN CONSTRUCCIÓN DEL PUENTE OJOS DE AGUA, MUNICIPIO DE OJOS DE AGUA, DEPARTAMENTO DE COMAYAGUA”, en la Ciudad de Tegucigalpa, M.D.C., a los 16 días del mes de enero de 2026.
 
 POR EL CONTRATANTE
 

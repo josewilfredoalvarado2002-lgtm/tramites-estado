@@ -11,7 +11,7 @@ paginas: "A. 1 - 52"
 sumario: "Certificación, Resolución GEE No.406/04-06-2026; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260624-37176/download"
 extraido: "2026-11-09"
-huella: "45835bb67852a796"
+huella: "9c7c6738c390839e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Resolución GEE No.406/04-06-2026; AVANCE
@@ -31,15 +31,15 @@ Comisión Nacional de Bancos y Seguros
 
 CERTIFICACIÓN, RESOLUCIÓN
 
-La infrascrita Secretaria General de la Comisión Nacional de Bancos y Seguros CERTIFICA la parte conducente del Acta de la Sesión No.1964 celebrada en Tegucigalpa, Municipio del Distrito Central el cuatro de junio de dos mil veintiséis, con la asistencia de los Comisionados NICOLÁS JOSÉ GARCÍA PINEDA, Presidente; JULIETA SUAZO FRANCO, Comisionada Propietaria; GUSTAVO RAFAEL SOLÓRZANO DÍAZ, Comisionado Propietario; EDILIA GODOY GODOY, Secretaria General; que dice:
+La infrascrita Secretaria General de la Comisión Nacional de Bancos y Seguros CERTIFICA la parte conducente del Acta de la Sesión No. 1964 celebrada en Tegucigalpa, Municipio del Distrito Central el cuatro de junio de dos mil veintiséis, con la asistencia de los Comisionados NICOLÁS JOSÉ GARCÍA PINEDA, Presidente; JULIETA SUAZO FRANCO, Comisionada Propietaria; GUSTAVO RAFAEL SOLÓRZANO DÍAZ, Comisionado Propietario; EDILIA GODOY GODOY, Secretaria General; que dice:
 
-“… 4. Asuntos de la Gerencia de Estudios Económicos, Regulación, Competencia e Innovación Financiera: … literal a) … RESOLUCIÓN GEE No.406/04-06-2026.- La Comisión Nacional de Bancos y Seguros,
+“… 4. Asuntos de la Gerencia de Estudios Económicos, Regulación, Competencia e Innovación Financiera: … literal a) … RESOLUCIÓN GEE No. 406/04-06-2026.- La Comisión Nacional de Bancos y Seguros,
 
 CONSIDERANDO (1): Que de conformidad con lo dispuesto en el Artículo 13, numerales 1), 2), 4) y 24) de la Ley de la Comisión Nacional de Bancos y Seguros, corresponde a este Ente Supervisor revisar, verificar, controlar, vigilar y fiscalizar AVANCE las instituciones supervisadas; asimismo, dictar las normas que requieren las instituciones supervisadas para el cumplimiento de su cometido, lo mismo que las normas prudenciales que deben cumplir éstas, basándose en la legislación vigente y en los acuerdos y prácticas internacionales; cumplir y hacer cumplir la Constitución de la República, las leyes generales y especiales, los reglamentos y resoluciones a que están sujetas las instituciones supervisadas; así como, velar por el estricto cumplimiento de las normas a que están sometidas las reservas, inversiones y contratación de reaseguros por parte de las instituciones de seguros.
 
 CONSIDERANDO (2): Que la Ley de Instituciones de Seguros y Reaseguros en su artículo 77 establece que la Comisión organizará un registro de reaseguradores y corredores de reaseguro del exterior, que sirva de mecanismo informativo al mercado asegurador hondureño, a los tomadores o suscriptores de seguro y asegurados o beneficiarios y, en general, al público, conforme a la reglamentación que al efecto emita la Comisión. Asimismo, que la información proveniente de las agencias calificadoras de reconocido prestigio se integrará al registro, vinculándose con los reaseguradores y corredores de reaseguro que están inscritos.
 
-CONSIDERANDO (3): Que la Comisión Nacional de Bancos y Seguros mediante Resoluciones GRD No.913/26- 11-2021 y GEE No.170/18-03-2024, reformó el “Reglamento sobre Operaciones de Reaseguros, Fronting y del Registro de Reaseguradoras y Corredores de Reaseguro del Exterior”, cuyo objeto comprende establecer las normas aplicables a la supervisión de las operaciones de reaseguro y fronting realizadas por el sistema asegurador hondureño, así como lo relativo a la inscripción, renovación, suspensión y/o cancelación de instituciones reaseguradoras y corredores de reaseguros, nacionales y extranjeros, autorizadas por la Comisión Nacional de Bancos y Seguros para ser registradas en el Registro que al efecto lleva la Comisión y a la vez establecer los requisitos, obligaciones y prohibiciones aplicables al ejercicio de la mediación en materia de reaseguros y fronting, a fin de garantizar la solidez de dichas operaciones.
+CONSIDERANDO (3): Que la Comisión Nacional de Bancos y Seguros mediante Resoluciones GRD No. 913/26-11-2021 y GEE No. 170/18-03-2024, reformó el “Reglamento sobre Operaciones de Reaseguros, Fronting y del Registro de Reaseguradoras y Corredores de Reaseguro del Exterior”, cuyo objeto comprende establecer las normas aplicables a la supervisión de las operaciones de reaseguro y fronting realizadas por el sistema asegurador hondureño, así como lo relativo a la inscripción, renovación, suspensión y/o cancelación de instituciones reaseguradoras y corredores de reaseguros, nacionales y extranjeros, autorizadas por la Comisión Nacional de Bancos y Seguros para ser registradas en el Registro que al efecto lleva la Comisión y a la vez establecer los requisitos, obligaciones y prohibiciones aplicables al ejercicio de la mediación en materia de reaseguros y fronting, a fin de garantizar la solidez de dichas operaciones.
 
 CONSIDERANDO (4): Que mediante nota de fecha 25 de julio de 2025, la Cámara Hondureña de Aseguradores (CAHDA), solicitó la modificación de los artículos 36, 37, 41, 42 y 46 con la finalidad de adecuar los requisitos de inscripción y actualización a condiciones de aplicación más factibles y consistentes con prácticas internacionales, manteniendo la debida diligencia y la gestión prudente del riesgo. La petición comprende: i) la admisión de documentación equivalente a certificaciones formales para acreditar la constitución legal y autorización de operación de reaseguradores y corredores del exterior; ii) la supresión de referencias a la posibilidad de operar “en el extranjero”, por estimarse una exigencia que no suele ser certificada por autoridades foráneas; iii) la precisión de que los estados financieros a presentar correspondan al último ejercicio económico disponible; iv) el cambio de la periodicidad de actualización de la inscripción de anual a bianual, para disminuir la carga operativa de los sujetos obligados; y, v) la incorporación de una excepción a la apostilla respecto de documentos públicos o digitales verificables en plataformas oficiales.
 
@@ -65,7 +65,7 @@ Artículos 1, 2 y 3 del Decreto No. 109/2003 de fecha 24 de octubre del 2003, co
 
 RESUELVE:
 
-1. Reformar los artículos 36, 37, 40, 42 y 57 del “Reglamento sobre Operaciones de Reaseguros, Fronting y del Registro de Reaseguradoras y Corredores de Reaseguro del Exterior” emitido por la Comisión Nacional de Bancos y Seguros mediante Resoluciones GRD No.913/26-11-2021 y GEE No.170/18-03-2024. El precitado Reglamento debe leerse íntegramente de la siguiente manera:
+1. Reformar los artículos 36, 37, 40, 42 y 57 del “Reglamento sobre Operaciones de Reaseguros, Fronting y del Registro de Reaseguradoras y Corredores de Reaseguro del Exterior” emitido por la Comisión Nacional de Bancos y Seguros mediante Resoluciones GRD No. 913/26-11-2021 y GEE No. 170/18-03-2024. El precitado Reglamento debe leerse íntegramente de la siguiente manera:
 
 “REGLAMENTO SOBRE OPERACIONES DE REASEGUROS, FRONTING Y DEL REGISTRO DE REASEGURADORAS Y CORREDORES DE REASEGURO DEL EXTERIOR
 
@@ -169,7 +169,7 @@ Oficina con competencias limitadas que promueve negocios en nombre de un Reasegu
 
 39. Zona Cresta: Es la clasificación de zonas geográficas que se basa en la actividad de riesgos naturales que considera la distribución de valores asegurados dentro de una región o país para la evaluación de riesgos. Estas zonas son la base para el análisis de negociación y de la cartera de reaseguros, utilizándose además para la aplicación de tasas.
 
-CAPÍTULO II DE LOS CONTRATOS Y OPERACIONES DE REASEGURO A RT Í C U L O 4 . - U T I L I Z A C I Ó N D E REASEGURADORAS Y CORREDORES DE REASEGURO Las instituciones de seguros y las sucursales de instituciones extranjeras, debidamente autorizadas para operar en el país, están obligadas a utilizar los servicios de reaseguradoras, corredores de reaseguro, sucursales u oficinas de representación de reaseguradores del exterior y coverholders, que estén inscritos en el Registro que al efecto lleva la Comisión.
+CAPÍTULO II DE LOS CONTRATOS Y OPERACIONES DE REASEGURO A RT Í C U L O 4 . - UTILIZACIÓN DE REASEGURADORAS Y CORREDORES DE REASEGURO Las instituciones de seguros y las sucursales de instituciones extranjeras, debidamente autorizadas para operar en el país, están obligadas a utilizar los servicios de reaseguradoras, corredores de reaseguro, sucursales u oficinas de representación de reaseguradores del exterior y coverholders, que estén inscritos en el Registro que al efecto lleva la Comisión.
 
 Asimismo, serán responsables de elegir con la debida diligencia, las reaseguradoras, sucursales u oficinas de representación de reaseguradores del exterior y corredores de reaseguro nacionales o extranjeros, verificando su capacidad técnica, financiera y calidad de los servicios otorgados. Asimismo, analizarán la experiencia, credibilidad y prestigio de la entidad, con relación a las diferentes operaciones de reaseguro que deseen contratar con las instituciones de reaseguros, de modo que respalde sus operaciones en todo momento.
 
@@ -217,7 +217,7 @@ Las instituciones de seguros podrán contratar su reaseguro de acuerdo a los esq
 
 c) Reaseguro Facultativo; d) Reaseguro Fronting; y, e) Reaseguro Financiero, bajo los criterios establecidos en los Artículos 9, 10, 11 y 12 del presente Reglamento.
 
-Asimismo, deberán remitir a la Comisión dentro de los quince (15) días hábiles posteriores al cierre de cada semestre, a través de los canales electrónicos que se habiliten para estos efectos, un resumen de los contratos de reaseguros suscritos, de conformidad a lo dispuesto en el Anexo No.1 del presente Reglamento; en caso de no recibir notificación, la Comisión entenderá que no se realizaron cambios; no obstante, Auditoría Interna debe comunicar a la Comisión cualquier cambio que la Institución no hubiese notificado a esta, en un plazo máximo de quince (15) días hábiles una vez identificados, procediendo con el proceso sancionatorio correspondiente.
+Asimismo, deberán remitir a la Comisión dentro de los quince (15) días hábiles posteriores al cierre de cada semestre, a través de los canales electrónicos que se habiliten para estos efectos, un resumen de los contratos de reaseguros suscritos, de conformidad a lo dispuesto en el Anexo No. 1 del presente Reglamento; en caso de no recibir notificación, la Comisión entenderá que no se realizaron cambios; no obstante, Auditoría Interna debe comunicar a la Comisión cualquier cambio que la Institución no hubiese notificado a esta, en un plazo máximo de quince (15) días hábiles una vez identificados, procediendo con el proceso sancionatorio correspondiente.
 
 Las instituciones de seguros nacionales, así como las sucursales de instituciones extranjeras que operen legalmente en el país, podrán contratar operaciones de reaseguro con las siguientes instituciones:
 
@@ -339,7 +339,7 @@ Las controversias o conflictos que se susciten con motivo de los contratos de re
 
 Los contratos de reaseguro deberán incluir una cláusula adecuada de insolvencia que estipule que los montos adeudados serán pagados al liquidador o a su sucesor sin disminución por la condición de insolvencia de la cedente.
 
-A RT Í C U L O 1 5 . - E X P E D I E N T E S D E OPERACIONES DE REASEGURO La institución de seguros deberá mantener por cada una de las operaciones de reaseguro facultativo y/o fronting, un expediente físico o electrónico con toda la documentación que formalice cada una de dichas operaciones y que acredite su correcta y oportuna colocación. La información contenida en estos expedientes deberá estar disponible para la Comisión en el momento que esta lo requiera.
+A RT Í C U L O 1 5 . - EXPEDIENTES DE OPERACIONES DE REASEGURO La institución de seguros deberá mantener por cada una de las operaciones de reaseguro facultativo y/o fronting, un expediente físico o electrónico con toda la documentación que formalice cada una de dichas operaciones y que acredite su correcta y oportuna colocación. La información contenida en estos expedientes deberá estar disponible para la Comisión en el momento que esta lo requiera.
 
 Lo anterior, sin perjuicio de la facultad que tiene la Comisión, de requerir cualquier tipo de información a la institución de seguros de cada una de las modalidades de reaseguro adicionales a las señaladas en el presente Artículo.
 
@@ -359,9 +359,7 @@ La Comisión a través de la Superintendencia verificará que las operaciones fr
 
 ARTÍCULO 17.- CONCENTRACIÓN DEL RIESGO CEDIDO
 
-Las instituciones de seguros deben diversificar sus riesgos evitando la formación de cúmulos, concentraciones de riesgos o conflictos, con el fin de minimizar la exposición que podría causar pérdidas en detrimento de la solvencia financiera o capacidad de mantener sus operaciones. En todo caso, la pérdida máxima probable deberá estar cubierta con los contratos de reaseguro. Asimismo, deberán remitir a la Comisión, a más tardar quince (15) días hábiles posteriores al cierre de cada semestre, un resumen del control de cúmulos, de conformidad a los Anexos Nos.
-
-3 y 4 del presente Reglamento.
+Las instituciones de seguros deben diversificar sus riesgos evitando la formación de cúmulos, concentraciones de riesgos o conflictos, con el fin de minimizar la exposición que podría causar pérdidas en detrimento de la solvencia financiera o capacidad de mantener sus operaciones. En todo caso, la pérdida máxima probable deberá estar cubierta con los contratos de reaseguro. Asimismo, deberán remitir a la Comisión, a más tardar quince (15) días hábiles posteriores al cierre de cada semestre, un resumen del control de cúmulos, de conformidad a los Anexos Nos. 3 y 4 del presente Reglamento.
 
 En caso que la Comisión determine que existe concentración de riesgo, podrá requerir a la institución de seguros la constitución de capital adicional, de acuerdo con la normativa emitida para tales efectos.
 
@@ -495,7 +493,7 @@ c) Copia del borderó al que se refiere el Artículo 23 del presente Reglamento;
 
 d) Documentación soporte entre la compañía fronting y la instructora.
 
-Asimismo, la institución de seguros a requerimiento de la Comisión debe proporcionar un resumen de todos los negocios fronting colocados por ésta, así como los negocios realizados como compañía instructora con el detalle de las sumas aseguradas y primas cedidas por operación y por ramo. Dicha información deberá ser presentada ante la Comisión, por los medios electrónicos que ésta habilite para estos efectos, a más tardar quince (15) hábiles posteriores al cierre de cada semestre, de conformidad al Anexo No.5 del presente Reglamento. Lo anterior, sin perjuicio de entregar copia en magnético a la Comisión al momento de la supervisión in-situ o cuando ésta lo requiera, de los contratos de estas operaciones.
+Asimismo, la institución de seguros a requerimiento de la Comisión debe proporcionar un resumen de todos los negocios fronting colocados por ésta, así como los negocios realizados como compañía instructora con el detalle de las sumas aseguradas y primas cedidas por operación y por ramo. Dicha información deberá ser presentada ante la Comisión, por los medios electrónicos que ésta habilite para estos efectos, a más tardar quince (15) hábiles posteriores al cierre de cada semestre, de conformidad al Anexo No. 5 del presente Reglamento. Lo anterior, sin perjuicio de entregar copia en magnético a la Comisión al momento de la supervisión in-situ o cuando ésta lo requiera, de los contratos de estas operaciones.
 
 #### Artículo 25
 
@@ -895,7 +893,7 @@ b) Documento con una antigüedad de al menos seis
 
 c) Escritura de modificación de la institución reaseguradora o corredor de reaseguros del exterior.
 
-A R T Í C U L O 4 6 . - I D I O M A D E L A DOCUMENTACIÓN
+ARTÍCULO 4 6 . - IDIOMA DE LA DOCUMENTACIÓN
 
 Los documentos presentados por las instituciones de reaseguro, las sucursales u oficina de representación del exterior y corredores de reaseguro extranjeros, para efectos de cualquier trámite en el Registro de la Comisión, deben contener su respectiva apostilla y cuando se presenten en idioma distinto al español, acompañados con la correspondiente traducción al idioma español, autenticado ante la Secretaría de Estado en el Despacho de Relaciones Exteriores en la República de Honduras o en el Consulado de Honduras acreditado en el país de donde procede el documento.
 
@@ -929,7 +927,7 @@ Meses de suspensión % Constitución de Reserva 0-1 mes 50% 2-3 meses 70% 4-5 me
 
 #### Artículo 48
 
-ARTÍCULO 48.- CANCELACIÓN EN EL R E G I S T R O D E I N S T I T U C I O N E S REASEGURADORAS La Comisión cancelará la inscripción en el Registro de una reaseguradora en cualquiera de los siguientes casos:
+ARTÍCULO 48.- CANCELACIÓN EN EL REGISTRO DE INSTITUCIONES REASEGURADORAS La Comisión cancelará la inscripción en el Registro de una reaseguradora en cualquiera de los siguientes casos:
 
 a) Cuando no se subsanen o corrijan las circunstancias que motivaron la suspensión del Registro por parte de la Comisión, dentro de los seis (6) meses siguientes a la fecha en que se encuentre en firme el acto administrativo correspondiente;
 
@@ -1021,7 +1019,7 @@ La Comisión mediante Resolución, resolverá los casos no previstos, conforme a
 
 ARTÍCULO 57.- DEROGATORIA
 
-La presente Resolución deja sin valor y efecto las Resoluciones GRD No.913/26-11-2021 y GEE No.170/18-03-2024, emitidas el 26 de noviembre del 2021 y 18 de marzo de 2024, respectivamente”.
+La presente Resolución deja sin valor y efecto las Resoluciones GRD No. 913/26-11-2021 y GEE No. 170/18-03-2024, emitidas el 26 de noviembre del 2021 y 18 de marzo de 2024, respectivamente”.
 
 2. Los Anexos correspondientes al precitado Reglamento se adjuntan y forman parte integral de la presente Resolución.
 
@@ -1035,9 +1033,7 @@ Y para los fines correspondientes se extiende la presente en la Ciudad de Teguci
 
 EDILIA GODOY GODOY
 
-Secretaria General Reinstalaciones Cobro de Prima Adicional (En 1 Incendio y Líneas Aliadas Exceso de Pérdida (WCXL) Dólares 1/7/2020 30/6/2021 1 250,000.00 100,000.00 4,000,000 300,000,000 2 pago de prima adicional al 100%, caso que aplique) calculada a prorrata temporis……………… Ramo Tipo Moneda Vigencia Límite No. de 4 0 2 Incendio y Líneas Aliadas Excedente Dólares 1/4/2021 31/3/2022 700,000 N/A 7 10,500,000 1 Incendio y Líneas Aliadas Cuota Parte Dólares 1/4/2021 31/3/2022 900,000 600,000 N/A 36,750,000 47,250,000 Límite Agregado Anual Máximo del Contrato Responsabilidad (Capacidad) Límite de Límite por Evento PMD No.
-
-2 700,000.00 350,000.00 3 2,100,000.00 1,050,000.00 Líneas del Prioridad Contrato No.
+Secretaria General Reinstalaciones Cobro de Prima Adicional (En 1 Incendio y Líneas Aliadas Exceso de Pérdida (WCXL) Dólares 1/7/2020 30/6/2021 1 250,000.00 100,000.00 4,000,000 300,000,000 2 pago de prima adicional al 100%, caso que aplique) calculada a prorrata temporis……………… Ramo Tipo Moneda Vigencia Límite No. de 4 0 2 Incendio y Líneas Aliadas Excedente Dólares 1/4/2021 31/3/2022 700,000 N/A 7 10,500,000 1 Incendio y Líneas Aliadas Cuota Parte Dólares 1/4/2021 31/3/2022 900,000 600,000 N/A 36,750,000 47,250,000 Límite Agregado Anual Máximo del Contrato Responsabilidad (Capacidad) Límite de Límite por Evento PMD No. 2 700,000.00 350,000.00 3 2,100,000.00 1,050,000.00 Líneas del Prioridad Contrato No.
 
 Ramo Tipo Moneda Retención Cesión Capa (Layer) Resumen de los Contratos de Reaseguro Desde Hasta Desde Hasta Vigencia Anexo No. 1 Contratos No Proporcionales Contratos Proporcionales Totales Total …….
 
@@ -1197,9 +1193,9 @@ Nombre del Contrato Tipo de Colocación ) Comisión Nacional de Bancos y Seguros
 
 Tegucigalpa, Honduras, Francisco Morazán +504 2290-4500 Vigencia: __________________ Contratos Proporcionales … n digitalmente por YURY TURCIOS Firmado EUCEDA ALLAN TURCIOS EUCEDA ALLAN YURY Comisión Nacional de Bancos y Seguros Tegucigalpa, Honduras, Francisco Morazán +504 2290-4500 https://www.cnbs.gob.hn/ CNBS Honduras I CAPA 0.00% II CAPA 0.00% III CAPA 0.00% IV CAPA 0.00% V CAPA 0.00% VI CAPA 0.00% TOTAL 0.00 0.00 Sumatoria de colocaciones las XXX XXX XXX XXX XXX XXX XXX XXX XXX Nombre de Reaseguradores XXX XXX XXX XXX XXX XXX XXX SWISS R-0017 RE Reaseguradores Participantes Contratos Automáticos NO Proporcionales Desde Hasta MAPFRE R-0016 caso que aplique) Reaseguro (En Corredor de Anexo No. 7 (Directa/Intermediar Tipo de Colocación io) Vigencia No.
 
-Capas Límite Prioridad Costo o Prima Mínima en Depósito :
+Capas Límite Prioridad Costo o Prima Mínima en Depósito:
 
-Indicar juntamente con el nombre completo de cada reasegurador, su número de registro de la CNBS TOTAL 0.00 0.00 Observaciones: En cada contrato deberá ir detallado el numero de capas y su límite Prioridad :
+Indicar juntamente con el nombre completo de cada reasegurador, su número de registro de la CNBS TOTAL 0.00 0.00 Observaciones: En cada contrato deberá ir detallado el numero de capas y su límite Prioridad:
 
 Deberá incluir la prioridad y el límite de cada contrato.
 

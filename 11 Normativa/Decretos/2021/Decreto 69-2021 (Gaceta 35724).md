@@ -11,7 +11,7 @@ paginas: "A. 5 - 20"
 sumario: "Decreto No. 69-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210921-35724/download"
 extraido: "2026-11-14"
-huella: "8e8fb55480120078"
+huella: "995302f5d6a21c64"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 69-2021
@@ -41,15 +41,15 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes la MODIFICACIÓN No.2 DEL CONTRATO No.0387/ GLCSI/AMDC/2017-CÓDIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VÍA RÁPIDA ANILLO PERIFÉRICO-COLONIA LA VEGA-BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CÓDIGO No.1267,1458,1524”. CONCURSO PÚBLICO No. CPuNO-001-AMDC-005-2017, relacionado al Monto y Plazo, suscrito en fecha tres (3) de Enero de 2019, entre el Empresario Nasry Juan Asfura Zablah, actuando en su condición de Alcalde Municipal del Distrito Central; y el señor José Francisco Saybe Handal, como Representante Legal de la Firma Consultora SAYBE Y ASOCIADOS, S.
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes la MODIFICACIÓN No. 2 DEL CONTRATO No. 0387/ GLCSI/AMDC/2017-CÓDIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VÍA RÁPIDA ANILLO PERIFÉRICO-COLONIA LA VEGA-BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CÓDIGO No. 1267,1458,1524”. CONCURSO PÚBLICO No. CPuNO-001-AMDC-005-2017, relacionado al Monto y Plazo, suscrito en fecha tres (3) de Enero de 2019, entre el Empresario Nasry Juan Asfura Zablah, actuando en su condición de Alcalde Municipal del Distrito Central; y el señor José Francisco Saybe Handal, como Representante Legal de la Firma Consultora SAYBE Y ASOCIADOS, S.
 
 DE R.L., que literalmente dice:
 
-“MODIFICACIÓN No. 2 CONTRATO No.0387/GLCSI/AMDC/2017-CÓDIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VÍA RÁPIDA ANILLO PERIFÉRICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CÓDIGOS No.1267,1458,1524 CONCURSO PÚBLICO No. CPuNO-001-AMDC-005-2017 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve
+“MODIFICACIÓN No. 2 CONTRATO No. 0387/GLCSI/AMDC/2017-CÓDIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VÍA RÁPIDA ANILLO PERIFÉRICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CÓDIGOS No. 1267,1458,1524 CONCURSO PÚBLICO No. CPuNO-001-AMDC-005-2017 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve
 
 (19) de Enero del año dos mil dieciocho (2018), quien para los efectos legales de esta modificación se denominará “EL CONTRATANTE” por una parte y JOSE FRANCISCO SAYBE HANDAL, hondureño y de este domicilio, con tarjeta de identidad No. 0101-1936-00222 en su condición de Representante Legal de la firma Consultora Saybe y Asociados, S. de R.L., condición que acredita legalmente mediante Testimonio de Escritura Pública No. 474 de fecha cuatro (04) de agosto del año dos mil diecisiete (2017), autorizada por el Abogado y Notario Hugo Vicente Alvarado Fernández, inscrita en el Registro Mercantil de San Pedro Sula con matrícula 83293 de fecha veinticinco (25) de agosto del año dos mil diecisiete (2017), quien en lo sucesivo y para efectos de esta modificación se denominará “EL CONSULTOR” por la otra parte, hemos acordado celebrar la presente Modificación N. 2 al Contrato “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGOS N° 1267,1458,1524”., Concurso Público No. CPuNO-001-AMDC-005-2017 de acuerdo a los términos siguientes:
 
@@ -61,27 +61,27 @@ Alcaldía Municipal del Distrito Central 2.- EL CONSULTOR: Saybe y Asociados, S.
 
 3.- UNIDAD EJECUTORA: Dirección de Control y Seguimiento 4.- FINANCIAMIENTO: Fondos Municipales
 
-CONSIDERANDO No.1: Que con fecha veintitrés (23) días del mes de Febrero del año dos mil diecisiete (2017) suscribió el CONTRATO No.0387/GLCSI/AMDC/2017-CODIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA
+CONSIDERANDO No. 1: Que con fecha veintitrés (23) días del mes de Febrero del año dos mil diecisiete (2017) suscribió el CONTRATO No. 0387/GLCSI/AMDC/2017-CODIGO 1478 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA
 
 – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS
 
 (TRAMO III), CON CODIGOS No. 1267,1458,1524”, entre la Alcaldía Municipal del Distrito Central y el CONSULTOR Saybe y Asociados, S. de R.L. por un monto de VEINTISEIS MILLONES SETECIENTOS SETENTA Y SEIS MIL SEISCIENTOS TRES LEMPIRAS CON 11/100 (L.26,776,603.11) con un plazo de ejecución del contrato de trescientos treinta (330) días calendario.
 
-CONSIDERANDO No.2: Que se emitió orden de inicio con fecha veintitrés (23) de Febrero del año dos mil diecisiete y fecha de terminación el diecinueve (19) de Enero del año Dos Mil Dieciocho (2018).
+CONSIDERANDO No. 2: Que se emitió orden de inicio con fecha veintitrés (23) de Febrero del año dos mil diecisiete y fecha de terminación el diecinueve (19) de Enero del año Dos Mil Dieciocho (2018).
 
-CONSIDERANDO No.3: Que en fecha cinco (05) de Enero del año dos mil dieciocho (2018) se suscribió la Modificación No.1 al Contrato No.0387/GLCSI/AMDC/2017.- CÓDIGO № 1478 donde se incremente el monto del contrato a la cantidad de CUARENTA MILLONES SEISCIENTOS SETENTA Y OCHO MIL TRESCIENTOS SESENTA Y TRES LEMPIRAS CON 45/100 (L.40,678,363.45) y se amplió el plazo contractual a quinientos trece (513) días calendario.
+CONSIDERANDO No. 3: Que en fecha cinco (05) de Enero del año dos mil dieciocho (2018) se suscribió la Modificación No. 1 al Contrato No. 0387/GLCSI/AMDC/2017.- CÓDIGO № 1478 donde se incremente el monto del contrato a la cantidad de CUARENTA MILLONES SEISCIENTOS SETENTA Y OCHO MIL TRESCIENTOS SESENTA Y TRES LEMPIRAS CON 45/100 (L.40,678,363.45) y se amplió el plazo contractual a quinientos trece (513) días calendario.
 
-CONSIDERANDO No.4: Que en fecha once (11) de Diciembre del año dos mil dieciocho (2018) se suscribió la Modificación N.2 al Contrato No.0435/GLCSI/AMDC/2017.- CODIGO N.1267 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGOS No. 1267,1458,1524” LOTE N° 1: CONSTRUCCIÓN VIA RAPIDA BULEVAR KUWAIT-LA VEGA-ANILLO PERIFERICO Y OBRAS COMPLEMENTARIAS, CODIGO No.1267” ampliando el plazo contractual a setecientos veintisiete (727) días calendario y readecuación de cantidades;
+CONSIDERANDO No. 4: Que en fecha once (11) de Diciembre del año dos mil dieciocho (2018) se suscribió la Modificación N.2 al Contrato No. 0435/GLCSI/AMDC/2017.- CODIGO N.1267 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGOS No. 1267,1458,1524” LOTE N° 1: CONSTRUCCIÓN VIA RAPIDA BULEVAR KUWAIT-LA VEGA-ANILLO PERIFERICO Y OBRAS COMPLEMENTARIAS, CODIGO No. 1267” ampliando el plazo contractual a setecientos veintisiete (727) días calendario y readecuación de cantidades;
 
-CONSIDERANDO No.5: En fecha doce (12) de Diciembre del año dos mil dieciocho (2018) se suscribió la Modificación No.2 al contrato No. 0436/GLCSI/AMDC/2017 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGO No.1267,1458,1524”.- LOTE No.2:
+CONSIDERANDO No. 5: En fecha doce (12) de Diciembre del año dos mil dieciocho (2018) se suscribió la Modificación No. 2 al contrato No. 0436/GLCSI/AMDC/2017 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGO No. 1267,1458,1524”.- LOTE No. 2:
 
-CONSTRUCCIÓN INTERCAMBIO A DESNIVEL ANILLO PERIFERICO-VIA RAPIDA BULEVAR KUWAIT-LA VEGA, CODIGO No.1458 ampliando el plazo a setecientos veintisiete (727) días calendario.
+CONSTRUCCIÓN INTERCAMBIO A DESNIVEL ANILLO PERIFERICO-VIA RAPIDA BULEVAR KUWAIT-LA VEGA, CODIGO No. 1458 ampliando el plazo a setecientos veintisiete (727) días calendario.
 
-CONSIDERANDO No.6: En fecha ocho (08) de Enero del año dos mil diecinueve (2019) se suscribió la Modificación No.2 al contrato No. 0437/GLCSI/ AMDC/2017 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGO No.1267,1458,1524”.- LOTE No.3: CONSTRUCCION PASO A DESNIVEL COLONIA LA VEGA-BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS, CODIGO No.1524 ampliando el plazo a cuatrocientos veintitrés (423) días calendario.
+CONSIDERANDO No. 6: En fecha ocho (08) de Enero del año dos mil diecinueve (2019) se suscribió la Modificación No. 2 al contrato No. 0437/GLCSI/ AMDC/2017 “CONSTRUCCIÓN DE VIA RAPIDA ANILLO PERIFERICO – COLONIA LA VEGA – BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS (TRAMO III), CON CODIGO No. 1267,1458,1524”.- LOTE No. 3: CONSTRUCCION PASO A DESNIVEL COLONIA LA VEGA-BULEVAR KUWAIT Y OBRAS COMPLEMENTARIAS, CODIGO No. 1524 ampliando el plazo a cuatrocientos veintitrés (423) días calendario.
 
-CONSIDERANDO No.7: Que con fecha dos (02) de Enero del año dos mil diecinueve (2019) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación No. 2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en doscientos setenta (270) días calendario y un incremento de once millones doscientos noventa y dos mil setecientos cincuenta y siete lempiras con 22/100 (L.11,292,757.22) equivalente a un aumento del 42.17% del monto contractual totalizando un incremento de 94.09% del monto contractual.
+CONSIDERANDO No. 7: Que con fecha dos (02) de Enero del año dos mil diecinueve (2019) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación No. 2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en doscientos setenta (270) días calendario y un incremento de once millones doscientos noventa y dos mil setecientos cincuenta y siete lempiras con 22/100 (L.11,292,757.22) equivalente a un aumento del 42.17% del monto contractual totalizando un incremento de 94.09% del monto contractual.
 
-CONSIDERANDO No.8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
+CONSIDERANDO No. 8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
 
 Que en el contrato del Consultor, se establece la obligatoriedad de alcanzar los objetivos de la consultoría, por tal razón, realizar la supervisión continua y completa de todos los trabajos ejecutados por los contratistas de la obra, trabajos que al momento de la ejecución han tenido circunstancias nuevas e imprevistas y se han generado nuevas necesidades para satisfacer el interés del público que se persigue con estas obras, por lo que las obras han sido rediseñadas y han surgido diseños completamente nuevos por las razones siguientes:
 
@@ -89,9 +89,9 @@ En Lote N°1: Construcción vía rápida Bulevar Kuwait
 
 - La Vega - Anillo Periférico y obras complementarias, código No.1267 •La fecha de aprobación de modificación No.1 fue emitida el 5 de enero del 2018, aprobación que debía ser ratificada por el Congreso Nacional, fue aprobada y publicada en La Gaceta por el Congreso Nacional hasta el día 06 de noviembre del 2018 , el proyecto se suspendió el 6 de Enero del 2018 a la espera de dicha publicación, quedando pendiente 8 días calendario de ejecución del tiempo contractual y la ejecución de actividades primordiales para el avance del proyecto; sin embargo, el contratista solicitó formalmente a la alcaldía con fecha 12 de marzo de 2018 poder renovar actividades a cuenta y riesgo, solicitud que fue aceptada; dando orden de reinicio del proyecto en fecha 16 de Julio del 2018, con respaldo de memorándum N. 248-2018 y oficio AUDI 06/2015/2018 con fecha 09 de Julio del 2018 emitido por la Alcaldía Municipal del Distrito Central.
 
-•Las actividades realizadas en el periodo de fecha de reinicio 16 de Julio al 06 de noviembre del 2018, fecha de aprobación, se ejecutaron a un ritmo de trabajo más lento que el acostumbrado al no contar con un panorama claro de aprobación de dicha modificación, razón primordial por la cual existe un desfase de tiempo con el cronograma de trabajo presentado en la modificación No.1 ya que la finalización de tiempo de ampliación de modificación No.1 luego de la suspensión, se encuentra comprendida para el 23 de diciembre del 2018 con lo que no se cuenta con el tiempo suficiente para poder ejecutar las actividades y su vez las obras complementarias que se han evaluado para el correcto funcionamiento del proyecto por lo que es imprescindible la ampliación de tiempo.
+•Las actividades realizadas en el periodo de fecha de reinicio 16 de Julio al 06 de noviembre del 2018, fecha de aprobación, se ejecutaron a un ritmo de trabajo más lento que el acostumbrado al no contar con un panorama claro de aprobación de dicha modificación, razón primordial por la cual existe un desfase de tiempo con el cronograma de trabajo presentado en la modificación No. 1 ya que la finalización de tiempo de ampliación de modificación No. 1 luego de la suspensión, se encuentra comprendida para el 23 de diciembre del 2018 con lo que no se cuenta con el tiempo suficiente para poder ejecutar las actividades y su vez las obras complementarias que se han evaluado para el correcto funcionamiento del proyecto por lo que es imprescindible la ampliación de tiempo.
 
-• Por lo que al realizar análisis de las condiciones actuales del proyecto con el programa de trabajo actual y sumando la readecuación de obras complementarias pendientes para el correcto funcionamiento del mismo se realizará Modificación No. 2 de reajuste de cantidades y ampliación de tiempo, ya que una vez puesto en servicio se espera que brinde al usuario una circulación ininterrumpida hasta su destino ya sea hacia el Anillo Periférico o el Bulevar Kuwait y conexiones a este como ser el bulevar fuerzas armadas , a continuación se explican las obras complementarias:
+• Por lo que al realizar análisis de las condiciones actuales del proyecto con el programa de trabajo actual y sumando la readecuación de obras complementarias pendientes para el correcto funcionamiento del mismo se realizará Modificación No. 2 de reajuste de cantidades y ampliación de tiempo, ya que una vez puesto en servicio se espera que brinde al usuario una circulación ininterrumpida hasta su destino ya sea hacia el Anillo Periférico o el Bulevar Kuwait y conexiones a este como ser el bulevar fuerzas armadas, a continuación se explican las obras complementarias:
 
 • La construcción de muro de bloque armado ubicada en la estación 1+252 que comprende la delimitación del proyecto con predio que pertenece a Empresa Hondureña de Telecomunicaciones (Hondutel) al inicio de la construcción del proyecto la Empresa Hondureña de Telecomunicaciones (Hondutel) cedió parte de su terreno por la construcción del nuevo bulevar sin embargo para poder separar el proyecto con el predio de Hondutel se realizará construcción de muro de bloque creando privacidad y seguridad a Hondutel y estableciendo la delimitación de ambas infraestructuras.
 
@@ -101,13 +101,13 @@ En Lote N°1: Construcción vía rápida Bulevar Kuwait
 
 • Se realizará como obra complementaria también la iluminación del campo de colonia La Vega como una solicitud de los usuarios de esta área ya que realizan actividades en horas tarde – noche.
 
-Lote No.2: Construcción intercambio a desnivel Anillo Periférico - vía rápida Bulevar Kuwait-La Vega, Código No.1458
+Lote No. 2: Construcción intercambio a desnivel Anillo Periférico - vía rápida Bulevar Kuwait-La Vega, Código No. 1458
 
-• La fecha de aprobación de la modificación No.1 fue emitida el 5 de enero del 2018, aprobación que debía ser ratificada por el Congreso Nacional, fue aprobada y publicada en La Gaceta por el Congreso Nacional hasta el día 6 de noviembre del 2018, el proyecto se suspendió el 6 de enero del 2018, quedando pendiente 8 días calendario de ejecución del tiempo contractual y la ejecución de actividades primordiales para el avance del proyecto. Las actividades que quedaron pendientes fueron trabajos de terracería en el alineamiento 2,3 y 5, colocación de sub-base en el alineamiento 2,3 y 5, pavimentación en el alineamiento 2,3,5 y 6, construcción de barreras en el alineamiento 2,3,5 y 6, construcción de muros ciclópeos en el alineamiento 2 y 5, trabajos de demolición en el alineamiento 3 y armado de acero de refuerzo en losa en el alineamiento 6.
+• La fecha de aprobación de la modificación No. 1 fue emitida el 5 de enero del 2018, aprobación que debía ser ratificada por el Congreso Nacional, fue aprobada y publicada en La Gaceta por el Congreso Nacional hasta el día 6 de noviembre del 2018, el proyecto se suspendió el 6 de enero del 2018, quedando pendiente 8 días calendario de ejecución del tiempo contractual y la ejecución de actividades primordiales para el avance del proyecto. Las actividades que quedaron pendientes fueron trabajos de terracería en el alineamiento 2,3 y 5, colocación de sub-base en el alineamiento 2,3 y 5, pavimentación en el alineamiento 2,3,5 y 6, construcción de barreras en el alineamiento 2,3,5 y 6, construcción de muros ciclópeos en el alineamiento 2 y 5, trabajos de demolición en el alineamiento 3 y armado de acero de refuerzo en losa en el alineamiento 6.
 
-• El contratista solicitó formalmente a la Alcaldía con fecha 12 de marzo de 2018 poder renovar actividades a cuenta y riesgo, solicitud que fue aprobada, dando orden de reinicio del proyecto en fecha 16 de Julio del 2018, con respaldo de memorándum No.248-2018 y oficio AUDI 06/2015/2018 con fecha 09 de Julio del 2018 emitido por la Alcaldía Municipal del Distrito Central.
+• El contratista solicitó formalmente a la Alcaldía con fecha 12 de marzo de 2018 poder renovar actividades a cuenta y riesgo, solicitud que fue aprobada, dando orden de reinicio del proyecto en fecha 16 de Julio del 2018, con respaldo de memorándum No. 248-2018 y oficio AUDI 06/2015/2018 con fecha 09 de Julio del 2018 emitido por la Alcaldía Municipal del Distrito Central.
 
-• Las actividades realizadas en el periodo de fecha de reinicio 16 de Julio al 06 de noviembre del 2018 fecha de aprobación, se ejecutaron a un ritmo de trabajo más lento que el acostumbrado al no contar con un panorama claro de aprobación de dicha modificación, razón primordial por la cual existe un desfase de tiempo con el cronograma de trabajo presentado en la modificación No.1 ya que la finalización de tiempo de ampliación de modificación No.1 luego de la suspensión se encuentra comprendida para el 23 de diciembre del 2018 con lo que no se cuenta con el tiempo suficiente para poder ejecutar las actividades y su vez las obras complementarias que se han evaluado para el correcto funcionamiento del proyecto por lo que es imprescindible la ampliación de tiempo.
+• Las actividades realizadas en el periodo de fecha de reinicio 16 de Julio al 06 de noviembre del 2018 fecha de aprobación, se ejecutaron a un ritmo de trabajo más lento que el acostumbrado al no contar con un panorama claro de aprobación de dicha modificación, razón primordial por la cual existe un desfase de tiempo con el cronograma de trabajo presentado en la modificación No. 1 ya que la finalización de tiempo de ampliación de modificación No. 1 luego de la suspensión se encuentra comprendida para el 23 de diciembre del 2018 con lo que no se cuenta con el tiempo suficiente para poder ejecutar las actividades y su vez las obras complementarias que se han evaluado para el correcto funcionamiento del proyecto por lo que es imprescindible la ampliación de tiempo.
 
 • Otro motivo por el cual se atrasaron los tiempos para la finalización de las obras, fue por las fuertes lluvias que se presentaron en el mes de octubre, las cuales fueron desfavorables para el avance del proyecto ya que se tuvieron que hacer trabajos de limpieza en las zonas de trabajo para proseguir con la ejecución de las mismas.
 
@@ -119,11 +119,11 @@ Terracería, pavimentación, construcción de aceras y bordillos, construcción 
 
 • Se considerará la señalización vertical de todo el corredor central, para mantener la homogeneidad de los rótulos y de igual forma, al ser estas obras las últimas en ejecutarse se deberán adaptar a los nuevos cambios de las ampliaciones, mismo caso para la señalización horizontal.
 
-Lote No.3: Construcción paso a desnivel colonia La Vega
+Lote No. 3: Construcción paso a desnivel colonia La Vega
 
 – Bulevar Kuwait y obras complementarias, Código 1524
 
-• Para satisfacer el interés público se realizó una Modificación No.1 al contrato con mejoras al diseño que aumentarán la eficiencia del flujo vehicular. Debido a que dicha modificación sobrepasaba el 25% del monto inicial ésta fue sujeta para aprobación del Congreso Nacional, la cual no ha sido publicada en La Gaceta hasta la fecha, fue necesario realizar una suspensión temporal del presente contrato con fecha del 17 de enero del 2018, por lo que el contratista trabajó a cuenta y riesgo a partir del 15 de marzo al 16 de julio de 2018 a un ritmo de trabajo menor a lo acostumbrado, atrasando de esta manera los tiempos programados de diversas actividades.
+• Para satisfacer el interés público se realizó una Modificación No. 1 al contrato con mejoras al diseño que aumentarán la eficiencia del flujo vehicular. Debido a que dicha modificación sobrepasaba el 25% del monto inicial ésta fue sujeta para aprobación del Congreso Nacional, la cual no ha sido publicada en La Gaceta hasta la fecha, fue necesario realizar una suspensión temporal del presente contrato con fecha del 17 de enero del 2018, por lo que el contratista trabajó a cuenta y riesgo a partir del 15 de marzo al 16 de julio de 2018 a un ritmo de trabajo menor a lo acostumbrado, atrasando de esta manera los tiempos programados de diversas actividades.
 
 Entre estas actividades se encuentran aquellas a las que se les realizó un reajuste en las cantidades en la orden de cambio No. 1, para el mejoramiento de la calle principal en la colonia La Vega y en el Bulevar Kuwait, reflejando una demora en las demás actividades que dependen de estas actividades de acuerdo al programa de trabajo presentado por el contratista.
 
@@ -135,13 +135,13 @@ Entre estas actividades se encuentran aquellas a las que se les realizó un reaj
 
 • Para poder dar el correcto control y seguimiento de todas las actividades del contratista, inspeccionar continuamente la ejecución de las obras, llevando un control permanente de las cantidades de obra ejecutadas y de las pendientes de ejecución, practicar inspecciones de campo, realizando controles de calidad de obra mediante pruebas y ensayos, certificación de cantidades de obra, documentando las diferentes fases de la construcción con informes que incluyan fotografías, asesoría técnica y el cierre respectivo del proyecto, es necesario la ampliación del plazo contractual de la supervisión 270 días calendario adicionales, siendo el nuevo plazo 783 días, y el monto contractual de esta supervisión en un 42.17% adicionales
 
-CONSIDERANDO No.9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dos (02) de enero del año dos mil diecinueve (2019), memorándum AMDC-DCS-012-2019, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
+CONSIDERANDO No. 9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dos (02) de enero del año dos mil diecinueve (2019), memorándum AMDC-DCS-012-2019, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
 
-Fundamentamos esta solicitud de modificación No.2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, Artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
+Fundamentamos esta solicitud de modificación No. 2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, Artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
 
 POR TANTO:
 
-En base a los numerales 11 de las Condiciones Generales del Contrato y los artículos 103, 119 numeral 2), 121, 122, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No.2 de conformidad con las estipulaciones siguientes:
+En base a los numerales 11 de las Condiciones Generales del Contrato y los artículos 103, 119 numeral 2), 121, 122, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No. 2 de conformidad con las estipulaciones siguientes:
 
 PRIMERO: Se modifica la CLAUSULA TERCERA y se deberá leer de la siguiente manera: 3. - El Consultor por este medio se obliga a desarrollar los servicios de consultoría contratados con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo total de setecientos ochenta y tres (783) días calendario.
 
@@ -163,11 +163,11 @@ Diez por ciento (10%) del valor del contrato original, contra entrega y aprobaci
 
 Pagos Periódicos:
 
-Lote No. 1 – Código 1267 Diez pagos cada uno equivalente a OCHOCIENTOS MIL SETECIENTOS SESENTA Y UN LEMPIRAS CON 02/100 CENTAVOS (L.800,761.02), contra entrega y aprobación de Informes de Avance del Lote No. 1, correspondientes a los meses de MARZO 2017 a ENERO 2018.Cinco pagos de NOVECIENTOS QUINCE MIL DOSCIENTOS SETENTA Y CUATRO LEMPIRAS CON 38/100 CENTAVOS (L.915,274.38), contra la entrega y aprobación de los Informes de Avance del Lote No.1, correspondientes a los meses de JULIO 2018 a DICIEMBRE 2018.
+Lote No. 1 – Código 1267 Diez pagos cada uno equivalente a OCHOCIENTOS MIL SETECIENTOS SESENTA Y UN LEMPIRAS CON 02/100 CENTAVOS (L.800,761.02), contra entrega y aprobación de Informes de Avance del Lote No. 1, correspondientes a los meses de MARZO 2017 a ENERO 2018.Cinco pagos de NOVECIENTOS QUINCE MIL DOSCIENTOS SETENTA Y CUATRO LEMPIRAS CON 38/100 CENTAVOS (L.915,274.38), contra la entrega y aprobación de los Informes de Avance del Lote No. 1, correspondientes a los meses de JULIO 2018 a DICIEMBRE 2018.
 
 Nueve pagos de TRESCIENTOS NOVENTA Y SIETE MIL CUATROCIENTOS CINCUENTA Y TRES LEMPIRAS CON 95/100 CENTAVOS (L.397,453.95) contra la entrega y aprobación de los Informes de Avance del Lote No. 1, correspondientes a los meses de ENERO 2019 a SEPTIEMBRE 2019.
 
-Lote No. 2 – Código 1458 Diez pagos cada uno equivalente a SETECIENTOS CINCUENTA Y NUEVE MIL TRESCIENTOS CINCUENTA Y OCHO LEMPIRAS CON 51/100 CENTAVOS (L. 759,358.51) contra entrega y aprobación de Informes de Avance del Lote No.2, correspondientes a los meses de MARZO 2017 a ENERO 2018.
+Lote No. 2 – Código 1458 Diez pagos cada uno equivalente a SETECIENTOS CINCUENTA Y NUEVE MIL TRESCIENTOS CINCUENTA Y OCHO LEMPIRAS CON 51/100 CENTAVOS (L. 759,358.51) contra entrega y aprobación de Informes de Avance del Lote No. 2, correspondientes a los meses de MARZO 2017 a ENERO 2018.
 
 Cinco pagos de SETECIENTOS CUATRO MIL SEISCIENTOS TRES LEMPIRAS CON 57/100 CENTAVOS (L.704,603.57) contra la entrega y aprobación de los Informes de Avance del Lote No. 2, correspondientes a los meses de JULIO 2018 a DICIEMBRE 2018.
 
@@ -175,15 +175,13 @@ Nueve pagos de TRESCIENTOS SESENTA MIL
 
 QUINIENTOS SESENTA Y NUEVE LEMPIRAS CON
 
-10/100 CENTAVOS (L. 360,569.10) contra la entrega y aprobación de los Informes de Avance del Lote No.
-
-2, correspondientes a los meses de ENERO 2019 a SEPTIEMBRE 2019.
+10/100 CENTAVOS (L. 360,569.10) contra la entrega y aprobación de los Informes de Avance del Lote No. 2, correspondientes a los meses de ENERO 2019 a SEPTIEMBRE 2019.
 
 Lote No. 3 – Código 1524 Cuatro pagos cada uno equivalente a QUINIENTOS OCHENTA Y DOS MIL OCHO LEMPIRAS CON 72/100 CENTAVOS (L.582,008.72), contra entrega y aprobación de Informes de Avance del Lote No. 3, correspondientes a los meses de MARZO/ABRIL 2017, y OCTUBRE, NOVIEMBRE Y DICIEMBRE 2017.
 
-Cuatro pagos de OCHOCIENTOS SETENTA Y TRES MIL TRECE LEMPIRAS CON 07/100 CENTAVOS (L.873,013.07), contra la entrega y aprobación de los Informes de Avance del Lote No.3, correspondientes a los meses de ENERO 2018, JULIO 2018, AGOSTO 2018 Y SEPTIEMBRE 2018.
+Cuatro pagos de OCHOCIENTOS SETENTA Y TRES MIL TRECE LEMPIRAS CON 07/100 CENTAVOS (L.873,013.07), contra la entrega y aprobación de los Informes de Avance del Lote No. 3, correspondientes a los meses de ENERO 2018, JULIO 2018, AGOSTO 2018 Y SEPTIEMBRE 2018.
 
-Tres pagos de UN MILLÓN CUATROCIENTOS SETENTA MIL SETECIENTOS TREINTA Y UN LEMPIRAS CON 53/100 CENTAVOS (L.1,470,731.53), contra la entrega y aprobación de los Informes de Avance del Lote No.3, correspondientes a los meses de OCTUBRE 2018 a DICIEMBRE 2018.
+Tres pagos de UN MILLÓN CUATROCIENTOS SETENTA MIL SETECIENTOS TREINTA Y UN LEMPIRAS CON 53/100 CENTAVOS (L.1,470,731.53), contra la entrega y aprobación de los Informes de Avance del Lote No. 3, correspondientes a los meses de OCTUBRE 2018 a DICIEMBRE 2018.
 
 Cuatro pagos de QUINIENTOS DIECINUEVE MIL CUATROCIENTOS SESENTA Y NUEVE LEMPIRAS CON 65/100 CENTAVOS (L. 519,469.65) contra la entrega y aprobación de los Informes de Avance del Lote No. 3, correspondientes a los meses de ENERO 2019 a ABRIL 2019.
 
@@ -201,7 +199,7 @@ QUINTO: Se modifica la Cláusula 14 de las Condiciones Especiales del Contrato y
 
 14. Precio del Contrato (Cláusula 36 de las CGC): El monto total del Contrato en Lempiras es de cincuenta y un millones novecientos setenta y un mil ciento veinte lempiras con 67/100 (L.51,971,120.67).
 
-SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 En testimonio de lo cual las partes firmamos la presente Modificación de contrato de conformidad con las Leyes de la República de Honduras, a los tres (03) días del mes de enero del año dos mil diecinueve (2019).
 
@@ -211,15 +209,15 @@ _______________________ Nasry Juan Asfura Zablah Contratante
 
 #### Artículo 2
 
-ARTÍCULO 2.- Aprobar en todas y cada una de sus partes la MODIFICACIÓN No.2 DEL CONTRATO No.1772/ GLCSI/AMDC/2018-CÓDIGO 1540 “SUPERVISIÓN DE LA CONSTRUCCIÓN DEL EDIFICIO AMDC/ AER, CON CÓDIGO 1540”. CONCURSO PÚBLICO No. CPuNO-016-AMDC-311-2017”, relacionado al Monto y Plazo, suscrito en fecha treinta (30) de septiembre de 2019, entre el Empresario Nasry Juan Asfura Zablah, actuando en su condición de Alcalde Municipal del Distrito Central; y el señor Roberto Enrique Inestroza Urrutia, como Representante Legal de la Firma Consultora SAYBE Y ASOCIADOS, S. DE R.L., que literalmente dice:
+ARTÍCULO 2.- Aprobar en todas y cada una de sus partes la MODIFICACIÓN No. 2 DEL CONTRATO No. 1772/ GLCSI/AMDC/2018-CÓDIGO 1540 “SUPERVISIÓN DE LA CONSTRUCCIÓN DEL EDIFICIO AMDC/ AER, CON CÓDIGO 1540”. CONCURSO PÚBLICO No. CPuNO-016-AMDC-311-2017”, relacionado al Monto y Plazo, suscrito en fecha treinta (30) de septiembre de 2019, entre el Empresario Nasry Juan Asfura Zablah, actuando en su condición de Alcalde Municipal del Distrito Central; y el señor Roberto Enrique Inestroza Urrutia, como Representante Legal de la Firma Consultora SAYBE Y ASOCIADOS, S. DE R.L., que literalmente dice:
 
-“MODIFICACIÓN No. 2 CONTRATO No.1772/GLCSI/AMDC/2018.-CÓDIGO 1540 “SUPERVISIÓN DE LA CONSTRUCCIÓN DEL EDIFICIO AMDC/AER, CON CÓDIGO 1540”.
+“MODIFICACIÓN No. 2 CONTRATO No. 1772/GLCSI/AMDC/2018.-CÓDIGO 1540 “SUPERVISIÓN DE LA CONSTRUCCIÓN DEL EDIFICIO AMDC/AER, CON CÓDIGO 1540”.
 
 CONCURSO PÚBLICO No. CPuNO-016-
 
 AMDC-311-2017
 
-Nosotros, Nasry Juan Asfura Zablah, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero del año Dos Mil Dieciocho (2018), quien para los efectos legales de esta modificación se denominará “EL CONTRATANTE” CONSULTOR” por una parte y ROBERTO ENRRIQUE INESTROZA URRUTIA, Hondureño y de este domicilio, con Tarjeta de Identidad No.0801-1933-00794 compareciendo autorizado para la firma de contratos de la firma consultora Saybe y Asociados, S. de R.L., condición que acredita legalmente mediante Poder Especial para Suscripción de Contratos otorgado mediante Testimonio de Escritura Pública No. 4 de fecha quince (15) de abril del año mil novecientos ochenta (1980), autorizada por el Abogado y Notario Efraín Moncada Silva, quien en lo sucesivo y para efectos de esta modificación se denominará “EL CONSULTOR” por la otra parte, hemos acordado celebrar la presente Modificación No.2 al Contrato “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540”, Concurso Público No. CPuNO-016-AMDC-311-2017 de acuerdo a los términos siguientes:
+Nosotros, Nasry Juan Asfura Zablah, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero del año Dos Mil Dieciocho (2018), quien para los efectos legales de esta modificación se denominará “EL CONTRATANTE” CONSULTOR” por una parte y ROBERTO ENRRIQUE INESTROZA URRUTIA, Hondureño y de este domicilio, con Tarjeta de Identidad No. 0801-1933-00794 compareciendo autorizado para la firma de contratos de la firma consultora Saybe y Asociados, S. de R.L., condición que acredita legalmente mediante Poder Especial para Suscripción de Contratos otorgado mediante Testimonio de Escritura Pública No. 4 de fecha quince (15) de abril del año mil novecientos ochenta (1980), autorizada por el Abogado y Notario Efraín Moncada Silva, quien en lo sucesivo y para efectos de esta modificación se denominará “EL CONSULTOR” por la otra parte, hemos acordado celebrar la presente Modificación No. 2 al Contrato “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540”, Concurso Público No. CPuNO-016-AMDC-311-2017 de acuerdo a los términos siguientes:
 
 DEFINICIONES. - Siempre que en la presente modificación se empleen los siguientes términos, se entenderá que significan lo que se expresa a continuación:
 
@@ -231,23 +229,23 @@ Alcaldía Municipal del Distrito Central 2.- EL CONSULTOR: Saybe y Asociados, S.
 
 Fondos Municipales
 
-CONSIDERANDO No.1: Que con fecha veintidós (22) días del mes de Octubre del año dos mil dieciocho (2018) suscribió el CONTRATO No.1772/GLCSI/AMDC/2018.-CODIGO 1540 “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540”. Entre la Alcaldía Municipal del Distrito Central y el CONSULTOR Saybe y Asociados, S. de R.L. por un monto de OCHO MILLONES SEISCIENTOS SESENTA Y CINCO MIL NOVECIENTOS CUARENTA Y NUEVE LEMPIRAS CON 58/100 (L.8,665,949.58) con un plazo de ejecución del contrato de doscientos diez (210) días calendario.
+CONSIDERANDO No. 1: Que con fecha veintidós (22) días del mes de Octubre del año dos mil dieciocho (2018) suscribió el CONTRATO No. 1772/GLCSI/AMDC/2018.-CODIGO 1540 “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540”. Entre la Alcaldía Municipal del Distrito Central y el CONSULTOR Saybe y Asociados, S. de R.L. por un monto de OCHO MILLONES SEISCIENTOS SESENTA Y CINCO MIL NOVECIENTOS CUARENTA Y NUEVE LEMPIRAS CON 58/100 (L.8,665,949.58) con un plazo de ejecución del contrato de doscientos diez (210) días calendario.
 
-CONSIDERANDO No.2: Que se emitió orden de inicio con fecha quince (15) de Noviembre del año dos mil dieciocho y fecha de terminación doce (12) de junio del año dos mil diecinueve (2019).
+CONSIDERANDO No. 2: Que se emitió orden de inicio con fecha quince (15) de Noviembre del año dos mil dieciocho y fecha de terminación doce (12) de junio del año dos mil diecinueve (2019).
 
-CONSIDERANDO No.3: Que en fecha veinticinco (25) de Marzo del año dos mil diecinueve (2019) se suscribió la Modificación No.1 al Contrato No.1746/GLCSI/ AMDC/2018.- CÓDIGO No. 1540 donde se cambió el “Apéndice B” así como la Cláusula Sexta: Monto del Contrato y Forma de Pago, Garantías y Retenciones, donde se redujo el monto del contrato a la cantidad de SETENTA Y SIETE MILLONES CUATRO MIL QUINIENTOS CUARENTA Y OCHO LEMPIRAS CON 38/100 (L. 77,004,548.38).
+CONSIDERANDO No. 3: Que en fecha veinticinco (25) de Marzo del año dos mil diecinueve (2019) se suscribió la Modificación No. 1 al Contrato No. 1746/GLCSI/ AMDC/2018.- CÓDIGO No. 1540 donde se cambió el “Apéndice B” así como la Cláusula Sexta: Monto del Contrato y Forma de Pago, Garantías y Retenciones, donde se redujo el monto del contrato a la cantidad de SETENTA Y SIETE MILLONES CUATRO MIL QUINIENTOS CUARENTA Y OCHO LEMPIRAS CON 38/100 (L. 77,004,548.38).
 
-CONSIDERANDO No.4: Que en fecha siete (07) de junio del año dos mil diecinueve (2019) se suscribió la Modificación No.2 al Contrato No.1746/GLCSI/AMDC/2018.- CODIGO N.1540 “CONSTRUCCION DE EDIFICIO AMDC/ AER” incrementando el monto contractual a un valor que asciende a la cantidad de NOVENTA Y CINCO MILLONES SETECIENTOS NOVENTA Y DOS MIL NOVECIENTOS SESENTA Y DOS LEMPIRAS CON 45/100 (L.95,792,962.45) y un plazo de doscientos setenta
+CONSIDERANDO No. 4: Que en fecha siete (07) de junio del año dos mil diecinueve (2019) se suscribió la Modificación No. 2 al Contrato No. 1746/GLCSI/AMDC/2018.- CODIGO N.1540 “CONSTRUCCION DE EDIFICIO AMDC/ AER” incrementando el monto contractual a un valor que asciende a la cantidad de NOVENTA Y CINCO MILLONES SETECIENTOS NOVENTA Y DOS MIL NOVECIENTOS SESENTA Y DOS LEMPIRAS CON 45/100 (L.95,792,962.45) y un plazo de doscientos setenta
 
 (270) días calendario y nueva fecha de terminación: el veintiocho (28) de septiembre del año dos mil diecinueve (2019).
 
-CONSIDERANDO No.5: Que en fecha diez (10) de junio del año dos mil diecinueve se suscribió la Modificación No.1 al Contrato No. 1772/GLCSI/AMDC/2018. “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540” incrementando el monto contractual a un valor de diez millones ochocientos veintitrés mil treinta y ocho lempiras con 34/100 (L. 10,823,038.34) y un plazo de trescientos veinte (320) días calendario.
+CONSIDERANDO No. 5: Que en fecha diez (10) de junio del año dos mil diecinueve se suscribió la Modificación No. 1 al Contrato No. 1772/GLCSI/AMDC/2018. “SUPERVISION DE LA CONSTRUCCION DEL EDIFICIO AMDC/AER, CON CODIGO 1540” incrementando el monto contractual a un valor de diez millones ochocientos veintitrés mil treinta y ocho lempiras con 34/100 (L. 10,823,038.34) y un plazo de trescientos veinte (320) días calendario.
 
-CONSIDERANDO No.6: Que en fecha trece (13) de Septiembre del año dos mil diecinueve (2019) se suscribió la Modificación No.3 al Contrato No.1746/GLCSI/ AMDC/2018.- CODIGO N.1540 “CONSTRUCCION DE EDIFICIO AMDC/AER” ampliando el plazo a cuatrocientos diez (410) días calendario.
+CONSIDERANDO No. 6: Que en fecha trece (13) de Septiembre del año dos mil diecinueve (2019) se suscribió la Modificación No. 3 al Contrato No. 1746/GLCSI/ AMDC/2018.- CODIGO N.1540 “CONSTRUCCION DE EDIFICIO AMDC/AER” ampliando el plazo a cuatrocientos diez (410) días calendario.
 
-CONSIDERANDO No.7: Que con fecha veinte (20) de Septiembre del año dos mil diecinueve (2019) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación No.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento sesenta y siete (167) días calendario y un incremento de cuatro millones novecientos noventa y cinco mil ochocientos setenta y seis lempiras con 98/100 (L.4,995,876.98) equivalente a un aumento del 57.65% del monto contractual totalizando un incremento de 82.54% del monto contractual.
+CONSIDERANDO No. 7: Que con fecha veinte (20) de Septiembre del año dos mil diecinueve (2019) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación No. 2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento sesenta y siete (167) días calendario y un incremento de cuatro millones novecientos noventa y cinco mil ochocientos setenta y seis lempiras con 98/100 (L.4,995,876.98) equivalente a un aumento del 57.65% del monto contractual totalizando un incremento de 82.54% del monto contractual.
 
-CONSIDERANDO No.8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
+CONSIDERANDO No. 8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
 
 • La Modificación se fundamenta en los siguientes puntos:
 
@@ -301,15 +299,15 @@ Debido a esto, Contratista ha realizado un cálculo que debido a esta restricci�
 
 Para poder dar el correcto control y seguimiento de todas las actividades del contratista, inspeccionar continuamente la ejecución de las obras, llevando un control permanente de las cantidades de obra ejecutadas y de las pendientes de ejecución, practicar inspecciones de campo, realizando controles de calidad de obra mediante pruebas y ensayos, certificación de cantidades de obra, documentando las diferentes fases de la construcción con informes que incluyan fotografías, asesoría técnica y el cierre respectivo del proyecto, es necesario la ampliación del plazo contractual de la supervisión 167 días calendario adicionales, siendo el nuevo plazo 487 días, y el monto contractual de esta supervisión en un 57.65% adicionales.
 
-CONSIDERANDO No.9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha veinte (20) de septiembre del año dos mil diecinueve (2019), memorándum AMDCDCS-3807-2019, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
+CONSIDERANDO No. 9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha veinte (20) de septiembre del año dos mil diecinueve (2019), memorándum AMDCDCS-3807-2019, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
 
-Fundamentamos esta solicitud de modificación No.2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
+Fundamentamos esta solicitud de modificación No. 2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
 
 POR TANTO:
 
 En base a los numerales 11 de las Condiciones Generales del Contrato y los artículos 103, 119 numeral 2), 121, 122, 124 numeral 1) y 125 de la Ley de Contratación del Estado,
 
-Artículo 202 del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No.2 de conformidad con las estipulaciones siguientes:
+Artículo 202 del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No. 2 de conformidad con las estipulaciones siguientes:
 
 PRIMERO: Se modifica la CLÁUSULA TERCERA y se deberá leer de la siguiente manera: CLÁUSULA TERCERA.
 
@@ -343,13 +341,13 @@ L. 719,029.58, contra entrega y aprobación de los Informes de Avance de AGOSTO 
 
 • Un pago de L.1,723,102.59, contra entrega y aprobación del Informe de Paquetes de Diseño Edificio AER, por parte de las autoridades de la AMDC.
 
-(Este informe debe incluir los TRES (3) Paquetes de Diseño incorporados en la Modificación No.2, al igual que todos los demás Paquetes de diseño entregados anteriormente).
+(Este informe debe incluir los TRES (3) Paquetes de Diseño incorporados en la Modificación No. 2, al igual que todos los demás Paquetes de diseño entregados anteriormente).
 
 QUINTO: Se modifica la Cláusula 15 de las Condiciones Especiales del Contrato y se deberá leer de la siguiente manera:
 
 15. Precio del Contrato (Cláusula 36 de las CGC): El monto total del Contrato en Lempiras es de Quince Millones Ochocientos Dieciocho Mil Novecientos Quince Lempiras con 32/100 (L.15,818,915.32).
 
-SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 En testimonio de lo cual las partes firmamos la presente Modificación de contrato de conformidad con las Leyes de la República de Honduras, a los treinta (30) días del mes de septiembre del año dos mil diecinueve (2019).
 

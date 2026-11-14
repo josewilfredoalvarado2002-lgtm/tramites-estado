@@ -11,7 +11,7 @@ paginas: "A. 6 - 15"
 sumario: "Acuerdo No. 095-SEN-2021 CNE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211221-35803/download"
 extraido: "2026-11-14"
-huella: "1b39a20794d13044"
+huella: "2f61558f0e4ceb2b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 095-SEN-2021
@@ -29,9 +29,7 @@ huella: "1b39a20794d13044"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
@@ -63,9 +61,7 @@ Consejo Nacional Electoral CERTIFICACION 2617-2021. El infrascrito, Secretario G
 
 ACUERDO
 
-No.
-
-22-2021, DECLARATORIA
+No. 22-2021, DECLARATORIA
 
 DE
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 159-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231005-36351/download"
 extraido: "2026-11-14"
-huella: "5fa1f5fd592bdda2"
+huella: "88c30e8ad0514a8b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 159-2023
@@ -27,7 +27,7 @@ huella: "5fa1f5fd592bdda2"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No.159-2023.
+El suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 159-2023.
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, diecinueve de enero del año dos mil veintitrés.
 

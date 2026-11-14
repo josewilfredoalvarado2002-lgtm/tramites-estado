@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 95-2016"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210717-35659/download"
 extraido: "2026-11-14"
-huella: "777b81b70c5832ec"
+huella: "97a5a197e7642976"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 95-2016
@@ -29,7 +29,7 @@ huella: "777b81b70c5832ec"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.159-94 de fecha 04 de noviembre de 1994, se crea la Dirección Ejecutiva de Ingresos (DEI) ahora Comisionada Presidencial Administración Tributaria como un Órgano Desconcentrado de la Secretaría de Estado en los Despachos de Hacienda y Crédito Público ahora Finanzas, con autonomía administrativa, técnica y financiera.
+CONSIDERANDO: Que mediante Decreto No. 159-94 de fecha 04 de noviembre de 1994, se crea la Dirección Ejecutiva de Ingresos (DEI) ahora Comisionada Presidencial Administración Tributaria como un Órgano Desconcentrado de la Secretaría de Estado en los Despachos de Hacienda y Crédito Público ahora Finanzas, con autonomía administrativa, técnica y financiera.
 
 CONSIDERANDO: Que la Comisionada Presidencial Administración Tributaria, es responsable de la administración de todos los ingresos tributarios, incluyendo los aduaneros, actuando en nombre y representación del Estado en el cumplimiento de las funciones de captación de ingresos, supervisión, revisión, control, fiscalización y ejecución de cobro en la aplicación de las leyes fiscales.
 

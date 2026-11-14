@@ -11,7 +11,7 @@ paginas: "A. 3 - 12"
 sumario: "Acuerdo No. 007-PROASOL-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240302-36475/download"
 extraido: "2026-11-14"
-huella: "a214cff4b0077776"
+huella: "8afa9658e32987e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 007-PROASOL-2023
@@ -31,7 +31,7 @@ PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL)
 
 CONSIDERANDO: Que el Artículo 255 de la Constitución de la República establece que los actos administrativos de cualquier órgano del Estado que deban producir efectos jurídicos de carácter general, serán publicados en el Diario Oficial La Gaceta y su validez se regulará conforme a lo dispuesto en esta Constitución para la vigencia de la ley.
 
-CONSIDERANDO: El Artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerá jerárquicamente de un órgano central, se les atribuye competencia propia, la cual ejercitan con autonomía técnica- administrativa y financiera.
+CONSIDERANDO: El Artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerá jerárquicamente de un órgano central, se les atribuye competencia propia, la cual ejercitan con autonomía técnica-administrativa y financiera.
 
 CONSIDERANDO: El Artículo 116 de la Ley General de la Administración Pública establece que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: El Artículo 118 numeral 2 de la Ley General de la Administración
 
 CONSIDERANDO: El Artículo 3 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece que la actividad y funcionamiento de la Administración Pública, está sujeta a los principios de legalidad, responsabilidad, eficiencia, racionalización, coordinación y simplificación.
 
-CONSIDERANDO: Que la Presidencia de la República creó mediante Decreto Ejecutivo Número PCM 20- 2022 de fecha diez (10) de agosto de dos mil veintidós (2022) y publicado en el Diario Oficial La Gaceta en fecha once (11) de agosto de dos mil veintidós (2022), el Programa de Acción Solidaria (PROASOL) como ente desconcentrado.
+CONSIDERANDO: Que la Presidencia de la República creó mediante Decreto Ejecutivo Número PCM 20-2022 de fecha diez (10) de agosto de dos mil veintidós (2022) y publicado en el Diario Oficial La Gaceta en fecha once (11) de agosto de dos mil veintidós (2022), el Programa de Acción Solidaria (PROASOL) como ente desconcentrado.
 
 CONSIDERANDO: Que el Artículo 9 del Decreto Ejecutivo PCM-020-2022 instruye para que oportunamente la Dirección Ejecutiva del Programa de Acción Solidaria (PROASOL) proceda a elaborar los manuales y reglamentos para la operatividad de los proyectos.
 
@@ -201,7 +201,7 @@ ARTÍCULO 20.- Medidas de seguridad. Todo personal que se conduce en los vehícu
 
 2. Respetar las reglas en cuanto al número de pasajeros y ocupantes, así como al peso de equipaje y bienes.
 
-3. Conducir los vehículos a velocidad moderada (60- 80 Km/h), seguir las indicaciones, instrucciones o reglamentos de la Dirección Nacional de Viabilidad y Transporte.
+3. Conducir los vehículos a velocidad moderada (60-80 Km/h), seguir las indicaciones, instrucciones o reglamentos de la Dirección Nacional de Viabilidad y Transporte.
 
 4. No colocar niños menores de 12 años en la parte delantera del vehículo.
 

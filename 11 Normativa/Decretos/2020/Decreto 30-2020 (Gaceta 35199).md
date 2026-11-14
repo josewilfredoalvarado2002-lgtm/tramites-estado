@@ -8,10 +8,10 @@ gaceta_numero: 35199
 gaceta_fecha: "2020-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)|La Gaceta 35199]]"
 paginas: "A. 9 - 13"
-sumario: "Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020"
+sumario: "Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200313-35199/download"
 extraido: "2026-11-14"
-huella: "f2700a8e4a93345f"
+huella: "a3ef66cfecd65afc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 30-2020
@@ -23,7 +23,7 @@ huella: "f2700a8e4a93345f"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)\|La Gaceta 35199]] del 2020-03-13 |
 | Páginas | A. 9 - 13 |
-| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020 |
+| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020 |
 
 ## Texto
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -53,7 +53,7 @@ ARTÍCULO 1.- Reformar los Artículos 5, 6, 7, 8, 9, 13, 27 y 34 de la LEY ORGÁ
 
 PUERTO SECO: Es una terminal intermodal de mercancías situada en el interior de un país o región económica que conecta, a través de la red ferroviaria y carreteras, con el puerto marítimo de origen o destino de los tráficos tratados. De ahí la denominación, de “puerto seco “, al manipular tráficos portuarios en una zona interior. La intermodalidad es una de la característica de un Puerto Seco.
 
-Significa combinar diferentes modos o modalidades de formas de transporte, al objeto de hacer más ágil, flexible, fiable y eficiente el transporte de mercancías.” “ARTÍCULO 6.- La Empresa tendrá objetivo contribuir al desarrollo económico del país, fortaleciendo la logística física y tecnológica que facilite el comercio, proporcionando servicios, instalaciones e infraestructuras, equipos, sistemas de gestión adecuados y eficaces en las cadenas logísticas y puertos.” “ARTÍCULO 7.- P a r a e l cumplimiento de sus objetivos, la Empresa tendrán las siguientes atribuciones:
+Significa combinar diferentes modos o modalidades de formas de transporte, al objeto de hacer más ágil, flexible, fiable y eficiente el transporte de mercancías.” “ARTÍCULO 6.- La Empresa tendrá objetivo contribuir al desarrollo económico del país, fortaleciendo la logística física y tecnológica que facilite el comercio, proporcionando servicios, instalaciones e infraestructuras, equipos, sistemas de gestión adecuados y eficaces en las cadenas logísticas y puertos.” “ARTÍCULO 7.- Para el cumplimiento de sus objetivos, la Empresa tendrán las siguientes atribuciones:
 
 a) Estudiar las necesidades y planificar las obras e instalaciones portuarias y las obras que complementen la actividad de las cadenas de movimiento de mercancías;
 

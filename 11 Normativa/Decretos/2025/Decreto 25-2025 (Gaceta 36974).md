@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 25-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251023-36974/download"
 extraido: "2026-11-09"
-huella: "87dc4f8058cc62cf"
+huella: "81d43671d09fea20"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 25-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

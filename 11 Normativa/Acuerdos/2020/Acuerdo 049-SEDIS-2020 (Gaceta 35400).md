@@ -8,10 +8,10 @@ gaceta_numero: 35400
 gaceta_fecha: "2020-10-15"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)|La Gaceta 35400]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
+sumario: "Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201015-35400/download"
 extraido: "2026-11-14"
-huella: "454a81a0ce67b958"
+huella: "df23a96e72d27617"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 049-SEDIS-2020
@@ -23,7 +23,7 @@ huella: "454a81a0ce67b958"
 | Emisor | SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)\|La Gaceta 35400]] del 2020-10-15 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Acuerdo No. 114-2020 del Secretario Privado y Jefe de
 
 POR TANTO:
 
-En aplicación a lo que establecen los Artículos: 1, 248, 321 de la Constitución de la República; 1, 29 numeral 4), 30, 33, 36 numeral 1) y 19), 116, 118, de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; 26, 27, 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Acuerdo No.114-2020.
+En aplicación a lo que establecen los Artículos: 1, 248, 321 de la Constitución de la República; 1, 29 numeral 4), 30, 33, 36 numeral 1) y 19), 116, 118, de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; 26, 27, 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Acuerdo No. 114-2020.
 
 ACUERDA:
 

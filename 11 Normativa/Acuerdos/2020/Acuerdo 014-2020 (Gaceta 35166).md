@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "No. 014-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200204-35166/download"
 extraido: "2026-11-14"
-huella: "31b260ce48f6ef83"
+huella: "9b7a18422a905d59"
 ---
 <!-- portal:inicio -->
 # ACUERDO SAR No. 014-2020
@@ -53,7 +53,7 @@ POR TANTO
 
 El Servicio de Administración de Rentas en el uso de las facultades que la Ley le confiere y en aplicación de los Artículos 255, 321 y 351 de la Constitución de la República; 9 numeral 2), 10, 15, 29, 30, 47, 56, 196, 197, 198, 199 del Código Tributario, 1 y 22 de la Ley del Impuesto Sobre la Renta, Acuerdo Número 001-2017.
 
-ACUERDA :
+ACUERDA:
 
 PRIMERO: Ajustar la escala de tasas progresivas para el pago del Impuesto Sobre la Renta para las personas naturales a partir del ejercicio fiscal 2020 en un 4.08%, conforme a la variación interanual del Índice de Precios al Consumidor (IPC), publicado por el Banco Central de Honduras (BCH), de la siguiente manera:
 

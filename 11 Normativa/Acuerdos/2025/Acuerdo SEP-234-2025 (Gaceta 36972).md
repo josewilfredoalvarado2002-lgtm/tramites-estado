@@ -8,7 +8,7 @@ gaceta_numero: 36972
 gaceta_fecha: "2025-10-20"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36972 (2025-10-20)|La Gaceta 36972]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Número 372-2025"
+sumario: "Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Número 372-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251020-36972/download"
 extraido: "2026-11-09"
 huella: "296f9aca4c27a3b1"
@@ -23,7 +23,7 @@ huella: "296f9aca4c27a3b1"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36972 (2025-10-20)\|La Gaceta 36972]] del 2025-10-20 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Número 372-2025 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Número 372-2025 |
 
 ## Texto
 

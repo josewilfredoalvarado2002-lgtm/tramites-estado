@@ -11,7 +11,7 @@ paginas: "A. 9 - 11"
 sumario: "Decretos Nos. 54-2026, 57-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260417-37119/download"
 extraido: "2026-11-09"
-huella: "cc77f78b61c1051d"
+huella: "98b8e623930555a3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 54-2026
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 33, 47, 49, 57 y 61 de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No.363-2013, de fecha 20 de Enero de 2014, publicado en 22 de Enero de 2014 y sus reformas, los cuales en adelante se leerán así:
+ARTÍCULO 1.- Reformar los artículos 33, 47, 49, 57 y 61 de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No. 363-2013, de fecha 20 de Enero de 2014, publicado en 22 de Enero de 2014 y sus reformas, los cuales en adelante se leerán así:
 
 “ARTÍCULO 33.- Existe………… Las Comisiones… Los...
 
@@ -91,7 +91,7 @@ Durante el proceso de aprobación del Acta se podrán presentar mociones de reco
 
 #### Artículo 2
 
-ARTÍCULO 2.- DEROGACIÓN. Se deroga en su totalidad el Artículo 81-A relacionado con el Fondo Departamental de la Ley Orgánica del Poder Legislativo, contenida en Decreto No.363-2013, de fecha 20 de Enero de 2014, publicado en fecha 22 de Enero de 2014 y sus reformas.
+ARTÍCULO 2.- DEROGACIÓN. Se deroga en su totalidad el Artículo 81-A relacionado con el Fondo Departamental de la Ley Orgánica del Poder Legislativo, contenida en Decreto No. 363-2013, de fecha 20 de Enero de 2014, publicado en fecha 22 de Enero de 2014 y sus reformas.
 
 #### Artículo 3
 

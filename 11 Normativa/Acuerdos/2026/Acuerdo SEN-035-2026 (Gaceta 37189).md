@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "7e56160286bd81c4"
+huella: "047932022aa1cf6d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No SEN-035-2026
@@ -31,9 +31,7 @@ SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. – EL SECRETARIO DE ESTADO EN
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos, emitiendo para el efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 
-CONSIDERANDO: Que en fecha cinco (05) de marzo del año dos mil veintiséis (2026), mediante Acuerdo No.
-
-SEN-15-2026, con efectividad a partir del nueve (09) de marzo del año dos mil veintiséis (2026), fue nombrado el ciudadano MIGUEL ANGEL GAMEZ TOSTA, en el puesto de DIRECTOR DE COMERCIALIZACIÓN DE HIDROCARBUROS de esta Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que en fecha cinco (05) de marzo del año dos mil veintiséis (2026), mediante Acuerdo No. SEN-15-2026, con efectividad a partir del nueve (09) de marzo del año dos mil veintiséis (2026), fue nombrado el ciudadano MIGUEL ANGEL GAMEZ TOSTA, en el puesto de DIRECTOR DE COMERCIALIZACIÓN DE HIDROCARBUROS de esta Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 

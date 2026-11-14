@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 29-2017"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240102-36423/download"
 extraido: "2026-11-14"
-huella: "64b9b0926e2d1dae"
+huella: "567b5f7657c1e927"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 29-2017
@@ -31,13 +31,13 @@ El infrascrito, Secretario General de la Secretaría de Estado en los Despachos 
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, cuatro de enero del dos mil diecisiete.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, con fecha veintiuno de octubre de dos mil dieciséis, misma que corre a Expediente No. PJ-21102016-629, por el Abogado RICARDO RODRIGO DIAZ DEL VALLE LORENZANA y la Pasante en Derecho LILY MASSIEL ZAMBRANO SARMIENTO, ambos actuando en su condición de Apoderados Legales de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, con fecha veintiuno de octubre de dos mil dieciséis, misma que corre a Expediente No. PJ-21102016-629, por el Abogado RICARDO RODRIGO DIAZ DEL VALLE LORENZANA y la Pasante en Derecho LILY MASSIEL ZAMBRANO SARMIENTO, ambos actuando en su condición de Apoderados Legales de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes.
 
 RESULTA: Que a la solicitud se le dio el trámite de ley habiéndose mandado oír a la Unidad de Servicios Legales de ésta Secretaría de Estado quien emitió DICTAMEN FAVORABLE NO.-U.S.L. 1525-2016 de fecha 05 de diciembre de 2016.
 
-CONSIDERANDO: Que la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
+CONSIDERANDO: Que la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
 
 CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 16, 119 y 122 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -45,15 +45,15 @@ POR TANTO: El Secretario de Estado en los Despachos de Derechos Humanos, Justici
 
 RESUELVE:
 
-PRIMERO: Conceder Personalidad Jurídica a la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, asimismo se aprueban sus estatutos en la forma, siguiente:
+PRIMERO: Conceder Personalidad Jurídica a la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, asimismo se aprueban sus estatutos en la forma, siguiente:
 
-“ESTATUTOS DE LA JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE AGUA DE LLANO ALEGRE No.1”
+“ESTATUTOS DE LA JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE AGUA DE LLANO ALEGRE No. 1”
 
 CAPÍTULO I CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se constituye la organización cuya denominación será: “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE AGUA DE LLANO ALEGRE No.1”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando, trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la comunidad de Santa Elena, La Paz.
+ARTÍCULO 1.- Se constituye la organización cuya denominación será: “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE AGUA DE LLANO ALEGRE No. 1”, como una asociación de servicio comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento, efectuando, trabajos de promoción y educación sanitaria ambiental, entre los habitantes de la comunidad de Santa Elena, La Paz.
 
 #### Artículo 2
 
@@ -191,13 +191,13 @@ AGUA Y SANEAMIENTO DE LA COMUNIDAD DE
 
 LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, se inscribirá en la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
-TERCERO: La “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, presentará anualmente ante la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, a través de la Unidad de Registro y Seguimiento de Asociaciones Civiles (U.R.S.A.C) los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado.
+TERCERO: La “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, presentará anualmente ante la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, a través de la Unidad de Registro y Seguimiento de Asociaciones Civiles (U.R.S.A.C) los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado.
 
 Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos. Se inscribirá en la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
-CUARTO: La “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización y demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
+CUARTO: La “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización y demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
 
-QUINTO: La disolución y liquidación de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, se hará de conformidad a sus estatutos y las leyes vigentes en el país, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia. Dicho trámite se hará bajo la Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
+QUINTO: La disolución y liquidación de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, se hará de conformidad a sus estatutos y las leyes vigentes en el país, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia. Dicho trámite se hará bajo la Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
 
 SEXTO: Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial LA GACETA, con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
 
@@ -207,7 +207,7 @@ OCTAVO: La presente resolución deberá inscribirse en el Registro Especial del 
 
 NOVENO: Instruir a la Secretaría General para que de Oficio proceda a remitir el expediente a la Unidad de Registro y Seguimiento de Asociaciones Civiles (U.R.S.A.C.) para que emita la correspondiente inscripción.
 
-DÉCIMO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No.1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, la cual será publicada en el Diario Oficial “La Gaceta”, cuya petición se hará a través de la Junta Directiva para ser proporcionado en forma. gratuita, dando cumplimiento con el
+DÉCIMO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD DE LLANO ALEGRE No. 1”, con domicilio en el municipio de Santa Elena, departamento de La Paz, la cual será publicada en el Diario Oficial “La Gaceta”, cuya petición se hará a través de la Junta Directiva para ser proporcionado en forma. gratuita, dando cumplimiento con el
 
 Artículo 18 Párrafo segundo de la Ley Marco del Sector Agua Potable y Saneamiento. NOTIFIQUESE. (F) CLARISA EVELIN MORALES REYES, SUBSECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN Y DESCENTRALIZACIÓN. (F) RICARDO ALFREDO MONTES NAJERA, SECRETARIO GENERAL”.
 

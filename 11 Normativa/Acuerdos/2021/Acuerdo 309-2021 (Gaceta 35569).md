@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdo No. 309-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210412-35569/download"
 extraido: "2026-11-14"
-huella: "d87f97bcb69bced1"
+huella: "d77ed7153c4d64cd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 309-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley Especial de Adopciones, fue emitida por el Congreso Nac
 
 “La Dirección de Niñez, Adolescencia y Familia (DINAF), debe emitir la reglamentación relacionada a la presente Ley, en el término de noventa (90) días hábiles a partir de su entrada en vigor.”, asimismo, dicha Ley fue publicada en el Diario Oficial “La Gaceta” del 10 de enero de 2019”.
 
-CONSIDERANDO: Que de conformidad a los Artículos: 5 numeral 1; 6 numerales 4 y 6 del Decreto Ejecutivo PCM-27- 2014 del 4 de junio de 2014, es competencia de la Dirección de Niñez, Adolescencia y Familia (DINAF), entre otras atribuciones las de: ser la entidad rectora y normativa en materia de niñez, familia y adolescencia y, tutelar el proceso legal de adopciones de niñas, niños y adolescentes.
+CONSIDERANDO: Que de conformidad a los Artículos: 5 numeral 1; 6 numerales 4 y 6 del Decreto Ejecutivo PCM-27-2014 del 4 de junio de 2014, es competencia de la Dirección de Niñez, Adolescencia y Familia (DINAF), entre otras atribuciones las de: ser la entidad rectora y normativa en materia de niñez, familia y adolescencia y, tutelar el proceso legal de adopciones de niñas, niños y adolescentes.
 
 POR TANTO:
 
@@ -45,7 +45,7 @@ En aplicación de los artículos: 1, 5 reformado, 7, 43 reformado y 116, 118 y 1
 
 \4) y 5); y, 17 del Decreto Ejecutivo PCM-27-2014 del 4 de junio de 2014; 2 y 83, 91, 133 y 150 del Código de la Niñez y la Adolescencia, contenido en el Decreto No. 73-96 de fecha 30 de mayo de 1996 y publicado en el Diario Oficial La Gaceta de fecha 5 de septiembre de 1996.
 
-A C U E R D A :
+ACUERDA:
 
 PRIMERO: Aprobar el siguiente:
 
@@ -57,7 +57,7 @@ CAPÍTULO I DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-Artículo 1.- OBJETO DEL REGLAMENTO. Este Reglamento tiene por objeto desarrollar las disposiciones legales establecidas en la Ley Especial de Adopciones, contenida en el Decreto Legislativo No.102-2018 del 25 de septiembre de 2018 de conformidad a la Constitución de la República, legislación aplicable a la materia y los tratados, convenios y principios internacionales adoptados por el Estado de Honduras. Sus disposiciones son de orden público y de duración indefinida.
+Artículo 1.- OBJETO DEL REGLAMENTO. Este Reglamento tiene por objeto desarrollar las disposiciones legales establecidas en la Ley Especial de Adopciones, contenida en el Decreto Legislativo No. 102-2018 del 25 de septiembre de 2018 de conformidad a la Constitución de la República, legislación aplicable a la materia y los tratados, convenios y principios internacionales adoptados por el Estado de Honduras. Sus disposiciones son de orden público y de duración indefinida.
 
 #### Artículo 2
 
@@ -999,7 +999,7 @@ Artículo 128.- Son causales de cancelación de la autorización, las siguientes
 
 a) El vencimiento del plazo de autorización otorgado previamente por la Autoridad Nacional;
 
-b) El incumplimiento en la remisión de los informes de seguimiento post- adoptivo;
+b) El incumplimiento en la remisión de los informes de seguimiento post-adoptivo;
 
 c) Incurrir en actos que violenten o amenacen los derechos de niños y/o niñas;
 

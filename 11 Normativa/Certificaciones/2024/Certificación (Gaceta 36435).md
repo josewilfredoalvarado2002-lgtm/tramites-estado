@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240116-36435/download"
 extraido: "2026-11-14"
-huella: "c96d17438473ef64"
+huella: "ca890d42ad8561ed"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "c96d17438473ef64"
 
 El suscrito, Secretario del Congreso Nacional: CERTIFICA:
 
-El Punto No.5 del Acta No.3 Extraordinaria, contenida en la sesión celebrada el día dieciséis de enero de dos mil veinticuatro, en la forma siguiente:
+El Punto No. 5 del Acta No. 3 Extraordinaria, contenida en la sesión celebrada el día dieciséis de enero de dos mil veinticuatro, en la forma siguiente:
 
 “5.- El Honorable Congresista Rafael Leonardo Sarmiento Aguiriano, presentó Moción Nominativa para la elección de la Junta Directiva de este Congreso Nacional 2024-2026, de la manera siguiente: MOCIÓN: Que la Junta Directiva del Congreso Nacional para el Período 2024-2026, que acompañará al señor Presidente Luis Rolando Redondo Guifarro, quede integrada de la manera siguiente:
 

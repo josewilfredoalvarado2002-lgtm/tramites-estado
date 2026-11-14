@@ -11,7 +11,7 @@ paginas: "A. 10 - 11"
 sumario: "Acuerdo No. SEN-063-2025, SEN-072-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250919-36946/download"
 extraido: "2026-11-09"
-huella: "b61415c7b9a163d9"
+huella: "6def5405aae45821"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-072-2025
@@ -31,7 +31,7 @@ SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA EL SUBSECRETARIO DE ESTADO EN E
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en Ley General de la Administración Pública para orientar, coordinar, supervisar y autorizar las actividades de sus respectivos despachos, emitiendo para tal efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 
-CONSIDERANDO: Que mediante Acuerdo SEN-030- 2025, se delega en la Abogada Julissa Saraí Osorio todas las funciones y atribuciones inherentes a la Subgerencia de Recursos Humanos (SGRH) de esta Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo SEN-030-2025, se delega en la Abogada Julissa Saraí Osorio todas las funciones y atribuciones inherentes a la Subgerencia de Recursos Humanos (SGRH) de esta Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que mediante Acuerdo SEN-028-2022, se delegó a la Abogada Hilsias Ruth Colindres Valladares, a efecto de impulsar el desarrollo de audiencias en materia de personal, para la representación de esta Secretaría de Estado en dichos procedimientos.
 
@@ -43,11 +43,9 @@ ACUERDA:
 
 PRIMERO: Delegar en la Abogada Julissa Saraí Osorio Sánchez, todas las facultades y atribuciones inherentes a la Subgerencia de Recursos Humanos (SGRH) para que pueda desarrollar todo los trámites relacionado a la aplicación de Procedimientos Disciplinarios y Notificaciones de los empleados asignados y contratados que laboran en la Secretaría de Estado en el Despacho de Energía (SEN), sin perjuicio de las facultades y atribuciones delegadas mediante Acuerdo SEN-030-2025.
 
-SEGUNDO: Delegar a la Abogada Hilsias Ruth Colindres Valladares, la representación de la Secretaría de Estado en el Despacho de Energía (SEN), para desarrollar las audiencias de descargo que sean solicitadas por la Subgerencia de Recursos Humanos o el Despacho del Secretario de Estado según corresponda; para tal efecto la delegada debe realizar las acciones legales y de procedimiento en el marco de lo señalado en la Ley de Servicio Civil y su Reglamento; el Acuerdo SEN- 75-2019 que comprende el Reglamento Interno de Trabajo de la Secretaría de Energía (SEN); y, demás disposiciones legales aplicables según corresponda.
+SEGUNDO: Delegar a la Abogada Hilsias Ruth Colindres Valladares, la representación de la Secretaría de Estado en el Despacho de Energía (SEN), para desarrollar las audiencias de descargo que sean solicitadas por la Subgerencia de Recursos Humanos o el Despacho del Secretario de Estado según corresponda; para tal efecto la delegada debe realizar las acciones legales y de procedimiento en el marco de lo señalado en la Ley de Servicio Civil y su Reglamento; el Acuerdo SEN-75-2019 que comprende el Reglamento Interno de Trabajo de la Secretaría de Energía (SEN); y, demás disposiciones legales aplicables según corresponda.
 
-TERCERO: Dejar Sin Valor Ni Efecto el Acuerdo No.
-
-SEN-028-2022, emitido en fecha cinco (05) de abril del año dos mil veintidós (2022).
+TERCERO: Dejar Sin Valor Ni Efecto el Acuerdo No. SEN-028-2022, emitido en fecha cinco (05) de abril del año dos mil veintidós (2022).
 
 CUARTO: Las delegadas son responsable de la función que se le otorga y debe presentar al finalizar el período de su delegación un informe de los actos ejecutados.
 

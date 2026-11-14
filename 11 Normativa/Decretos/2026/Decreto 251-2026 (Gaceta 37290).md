@@ -11,7 +11,7 @@ paginas: "A. 30 - 33"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "fd155902c04fd434"
+huella: "bdea893db384965e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 251-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ ARTÍCULO 2.- LA SECRETARÍA DE ESTADO E N L O S D E S PA C H O S D E I N F R A 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que durante el Ejercicio Fiscal del año 2027, previa verificación de disponibilidad presupuestaria y conforme a la normativa fiscal vigente, identifique recursos y autorice las modificaciones presupuestarias necesarias para asignar hasta un monto total de CUATRO MILLONES OCHOCIENTOS CINCUENTA Y CINCO MIL SETECIENTOS UN LEMPIRA CON 48/100 CENTAVOS (L.4,855,701.48) en las partidas presupuestarias correspondientes a la SECRETARÍA DE ESTADO EN LOS DESPACHOS D E I N F R A E S T R U C T U R A Y TRANSPORTE (SIT), para la construcción de la obra descrita en los artículos anteriores.
+ARTÍCULO 3.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que durante el Ejercicio Fiscal del año 2027, previa verificación de disponibilidad presupuestaria y conforme a la normativa fiscal vigente, identifique recursos y autorice las modificaciones presupuestarias necesarias para asignar hasta un monto total de CUATRO MILLONES OCHOCIENTOS CINCUENTA Y CINCO MIL SETECIENTOS UN LEMPIRA CON 48/100 CENTAVOS (L.4,855,701.48) en las partidas presupuestarias correspondientes a la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT), para la construcción de la obra descrita en los artículos anteriores.
 
 #### Artículo 4
 

@@ -11,7 +11,7 @@ paginas: "A. 32 - 36"
 sumario: "Acuerdo Ejecutivo número 047-2020, Decreto Ejecutivo número PCM-113-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201107-35422/download"
 extraido: "2026-11-14"
-huella: "b22981e780a3daa8"
+huella: "e851a81dc4d7fafd"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-113-2020
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 22 numeral 5 de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No.
-
-266-2013, el Consejo de Secretarios de Estado, tiene entre sus atribuciones dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional.
+CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 22 numeral 5 de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado, tiene entre sus atribuciones dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional.
 
 CONSIDERANDO: Que los Gobiernos Municipales en el marco de la Ley de Municipalidades y la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), cuentan con los mecanismos de organización y toma de decisiones municipales para la atención de las emergencias, denominados Comité de Emergencia Municipal (CODEM) responsables de coordinar todas las acciones orientadas a la prevención, atención y recuperación de las emergencias o desastres suscitadas en el término municipal.
 
@@ -49,7 +47,7 @@ CONSIDERANDO: Que en el Artículo 1, del precitado Decreto Ejecutivo, estableci�
 
 CONSIDERANDO: Que el Sistema Nacional de Gestión de Riesgos (SINAGER), ha emitido Alerta Roja a Nivel Nacional por el paso de la Tormenta Tropical ETA.
 
-POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 245 numerales 2, 11 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 11, 17, 22 numerales 5), 9) y 12), 28, 47, 116 , 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266- 2013; Decreto Legislativo No. 33-2020; Decreto Legislativo No. 92-2020; Decreto Ejecutivo Número PCM-020-2020;
+POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 245 numerales 2, 11 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 11, 17, 22 numerales 5), 9) y 12), 28, 47, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 33-2020; Decreto Legislativo No. 92-2020; Decreto Ejecutivo Número PCM-020-2020;
 
 Decreto Ejecutivo Número PCM-109-2020.
 

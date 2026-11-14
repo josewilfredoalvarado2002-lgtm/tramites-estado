@@ -11,7 +11,7 @@ paginas: "A. 5 - 28"
 sumario: "Acuerdo No. 037-2022,Acuerdo Institucional No. 039-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221220-36107/download"
 extraido: "2026-11-14"
-huella: "56d085227fd15559"
+huella: "f7d08ef6a7747056"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. 039-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el Instituto Nacional de Conservación y Desarrollo Forestal, 
 
 POR TANTO:
 
-La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo 260 y 340 de la Constitución de la República, los Artículos 1, 2, 3, 4, 14, 17, 18, 19, 20, 45, 46, 47, 71, 48, 91, 159, 160, 161, 162, 163; de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98- 2007); Artículos 1, 21, 22, 23, 24, 25, 26, 27, de la Ley de Procedimientos Administrativos; artículos 186, 187, 188, 191 y 402 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre y demás aplicables.
+La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo 260 y 340 de la Constitución de la República, los Artículos 1, 2, 3, 4, 14, 17, 18, 19, 20, 45, 46, 47, 71, 48, 91, 159, 160, 161, 162, 163; de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98-2007); Artículos 1, 21, 22, 23, 24, 25, 26, 27, de la Ley de Procedimientos Administrativos; artículos 186, 187, 188, 191 y 402 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre y demás aplicables.
 
 ACUERDA:
 
@@ -803,9 +803,7 @@ Artículo 61.- De la vigencia. - El presente reglamento entrará en vigencia a p
 
 #### Artículo 62
 
-Artículo 62.- Derogatorias. - El presente reglamento deroga en su totalidad el Acuerdo N°.
-
-09A-2013 que crea y pone en funcionamiento el Registro de Técnico Forestal Calificado.
+Artículo 62.- Derogatorias. - El presente reglamento deroga en su totalidad el Acuerdo N°. 09A-2013 que crea y pone en funcionamiento el Registro de Técnico Forestal Calificado.
 
 Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los treinta y un días del mes de octubre del 2022.
 

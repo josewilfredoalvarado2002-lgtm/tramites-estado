@@ -11,7 +11,7 @@ paginas: "A. 21 - 24"
 sumario: "Acuerdo Ministerial No. 133-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210714-35656/download"
 extraido: "2026-11-14"
-huella: "f1cd2752ebbff120"
+huella: "7e2af1bce0fec7f8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 133-2021
@@ -67,9 +67,7 @@ CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); 
 
 Medicamentos para Uso Humano. Requisitos de Registro Sanitario, aprobado mediante la Resolución No. 333-2013 (COMIECO-LXVI), del 12 de diciembre de 2013; por el Reglamento Técnico Centroamericano RTCA 11.03.59:18 Productos Farmacéuticos. Medicamentos para Uso Humano.
 
-Requisitos de Registro Sanitario, en la forma que aparece en el Anexo I de la presente Resolución y que forma parte integrante de la misma. 2. Modificar, por sustitución total, el Procedimiento para el Reconocimiento Mutuo de Registro Sanitario de Medicamentos de Uso Humano, en la forma que aparece en el Anexo II de la presente Resolución y que forma parte integrante de la misma. 3. Derogar la Resolución No.
-
-333-2013 (COMIECO-LXVI), del 12 de diciembre de 2013.
+Requisitos de Registro Sanitario, en la forma que aparece en el Anexo I de la presente Resolución y que forma parte integrante de la misma. 2. Modificar, por sustitución total, el Procedimiento para el Reconocimiento Mutuo de Registro Sanitario de Medicamentos de Uso Humano, en la forma que aparece en el Anexo II de la presente Resolución y que forma parte integrante de la misma. 3. Derogar la Resolución No. 333-2013 (COMIECO-LXVI), del 12 de diciembre de 2013.
 
 4. La presente Resolución entrará en vigor el 3 de enero de 2022 y será publicada por los Estados Parte.
 
@@ -107,7 +105,7 @@ DOT-8, DOT-8 AL, ISO 3807, o normas equivalentes.
 
 Además, tienen una válvula de rosca y al menos un tapón fusible de seguridad.” 2. Derogar la Nota Complementaria Centroamericana aprobada en el numeral 4 de la Resolución No. 295-2012 (COMIECO-LXIV), del 11 de diciembre de 2012. La apertura arancelaria y modificación de Derechos Arancelarios a la Importación aprobados en el numeral y Resolución mencionados, continúan vigentes. 3. La presente Resolución entrará en vigor el 28 de octubre de 2021 y será publicada por los Estados Parte.
 
-QUINTO: Hacer del conocimiento público para su observancia, la Resolución No. 446-2021 (COMIECOXCIV), que RESUELVE: 1. Modificar, por sustitución total, el Reglamento Técnico Centroamericano RTCA 11.03.59:11 Productos Farmacéuticos. Medicamentos para Uso Humano. Requisitos de Registro Sanitario, aprobado mediante la Resolución No. 333-2013 (COMIECOLXVI), del 12 de diciembre de 2013; por el Reglamento Técnico Centroamericano RTCA 11.03.59:18 Productos Farmacéuticos. Medicamentos para Uso Humano. Requisitos de Registro Sanitario, en la forma que aparece en el Anexo I de la presente Resolución y que forma parte integrante de la misma. 2. Modificar, por sustitución total, el Procedimiento para el Reconocimiento Mutuo de Registro Sanitario de Medicamentos de Uso Humano, en la forma que aparece en el Anexo II de la presente Resolución y que forma parte integrante de la misma. 3. Derogar la Resolución No. 333- 2013 (COMIECO-LXVI), del 12 de diciembre de 2013. 4. La presente Resolución entrará en vigor el 3 de enero de 2022 y será publicada por los Estados Parte.
+QUINTO: Hacer del conocimiento público para su observancia, la Resolución No. 446-2021 (COMIECOXCIV), que RESUELVE: 1. Modificar, por sustitución total, el Reglamento Técnico Centroamericano RTCA 11.03.59:11 Productos Farmacéuticos. Medicamentos para Uso Humano. Requisitos de Registro Sanitario, aprobado mediante la Resolución No. 333-2013 (COMIECOLXVI), del 12 de diciembre de 2013; por el Reglamento Técnico Centroamericano RTCA 11.03.59:18 Productos Farmacéuticos. Medicamentos para Uso Humano. Requisitos de Registro Sanitario, en la forma que aparece en el Anexo I de la presente Resolución y que forma parte integrante de la misma. 2. Modificar, por sustitución total, el Procedimiento para el Reconocimiento Mutuo de Registro Sanitario de Medicamentos de Uso Humano, en la forma que aparece en el Anexo II de la presente Resolución y que forma parte integrante de la misma. 3. Derogar la Resolución No. 333-2013 (COMIECO-LXVI), del 12 de diciembre de 2013. 4. La presente Resolución entrará en vigor el 3 de enero de 2022 y será publicada por los Estados Parte.
 
 SEXTO: Hacer del conocimiento público para su observancia, la Resolución No. 447-2021 (COMIECO-XCIV), que
 

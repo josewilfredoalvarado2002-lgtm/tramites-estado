@@ -8,7 +8,7 @@ gaceta_numero: 36950
 gaceta_fecha: "2025-09-24"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36950 (2025-09-24)|La Gaceta 36950]]"
 paginas: "A. 53 - 60"
-sumario: "Acuerdo de DeclaratoriaDE-DCHA-026-2025, DE-DCHA-028-2025,DE-DCHA-049-2025, DE-DCHA-051-2025,DE-DCHA-052-2025CONSEJO NACIONAL ELECTORALCNECertificación, Acuerdo No. 49-2025"
+sumario: "Acuerdo de DeclaratoriaDE-DCHA-026-2025, DE-DCHA-028-2025,DE-DCHA-049-2025, DE-DCHA-051-2025,DE-DCHA-052-2025; CONSEJO NACIONAL ELECTORALCNE: Certificación, Acuerdo No. 49-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250924-36950/download"
 extraido: "2026-11-09"
 huella: "4b2f67aee1835a9b"
@@ -23,7 +23,7 @@ huella: "4b2f67aee1835a9b"
 | Emisor | Consejo Nacional Electoral CNE |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36950 (2025-09-24)\|La Gaceta 36950]] del 2025-09-24 |
 | Páginas | A. 53 - 60 |
-| Según el sumario de La Gaceta | Acuerdo de DeclaratoriaDE-DCHA-026-2025, DE-DCHA-028-2025,DE-DCHA-049-2025, DE-DCHA-051-2025,DE-DCHA-052-2025CONSEJO NACIONAL ELECTORALCNECertificación, Acuerdo No. 49-2025 |
+| Según el sumario de La Gaceta | Acuerdo de DeclaratoriaDE-DCHA-026-2025, DE-DCHA-028-2025,DE-DCHA-049-2025, DE-DCHA-051-2025,DE-DCHA-052-2025; CONSEJO NACIONAL ELECTORALCNE: Certificación, Acuerdo No. 49-2025 |
 
 ## Texto
 

@@ -8,10 +8,10 @@ gaceta_numero: 35830
 gaceta_fecha: "2022-01-24"
 gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 35830 (2022-01-24)|La Gaceta 35830]]"
 paginas: "A. 1 - 5"
-sumario: "Decreto Ejecutivo Número PCM-094-2021Decreto Ejecutivo Número PCM-116-2021PODER LEGISLATIVO ACTA DE LA SEGUNDA SESIÓN PREPARATORIA DEL CONGRESO NACIONAL"
+sumario: "Decreto Ejecutivo Número PCM-094-2021Decreto Ejecutivo Número PCM-116-2021; PODER LEGISLATIVO ACTA DE LA SEGUNDA SESIÓN PREPARATORIA DEL CONGRESO NACIONAL"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220124-35830/download"
 extraido: "2026-11-14"
-huella: "0ae37ddfe26d4c29"
+huella: "d6f2749c83c99942"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-094-2021
@@ -23,7 +23,7 @@ huella: "0ae37ddfe26d4c29"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 35830 (2022-01-24)\|La Gaceta 35830]] del 2022-01-24 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-094-2021Decreto Ejecutivo Número PCM-116-2021PODER LEGISLATIVO ACTA DE LA SEGUNDA SESIÓN PREPARATORIA DEL CONGRESO NACIONAL |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-094-2021Decreto Ejecutivo Número PCM-116-2021; PODER LEGISLATIVO ACTA DE LA SEGUNDA SESIÓN PREPARATORIA DEL CONGRESO NACIONAL |
 
 ## Texto
 
@@ -33,9 +33,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en el Artículo 106 de la Constitució
 
 CONSIDERANDO: Que la Ley de Propiedad en su
 
-Artículo 77, reformado mediante Decreto Legislativo No.
-
-205-2012 publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, Edición No. 33,083, establece:
+Artículo 77, reformado mediante Decreto Legislativo No. 205-2012 publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, Edición No. 33,083, establece:
 
 “Es de necesidad pública la regularización de la propiedad inmueble en la que se encuentren los asentamientos humanos establecidos antes del 31 de diciembre del año 2010 y en los que no pueda establecerse claramente la titularidad de los mismos o existiesen entre terceros no poseedores del inmueble respecto de su dominio. El procedimiento señalado en esta sección no podrá ser aplicado a urbanizaciones o proyectos habitacionales debidamente constituidos en cumplimiento de los requisitos exigidos por la Ley.”
 
@@ -57,13 +55,7 @@ CONSIDERANDO: Que las solicitudes se encuentran registradas y resueltas según s
 
 COLONIA VENECIA, Expediente No. 0709-2011-247-E, Resolución de Declaratoria No. UEE-005-2019 de fecha diecisiete (17) de enero del año dos mil diecinueve (2019):
 
-COLONIA PROVIDENCIA, Expediente No. 0709-2011- 245-E, Resolución de Declaratoria No. UEE-030-2018 de fecha doce (12) de diciembre del año dos mil dieciocho (2018): COLONIA ALTOS DE LA LAGUNA, Expediente No. 0709-2011-243-E, Resolución de Declaratoria No.
-
-UEE-025-2018, de fecha trece de diciembre del año dos mil dieciocho (2018): COLONIA BETANIA, Expediente No.
-
-DLYR-0808-2011-249-E, Resolución de Declaratoria No.
-
-UEE-032-2018, de fecha doce (12) de diciembre del año dos mil dieciocho, ernitidas por el Instituto de la Propiedad a través de la Unidad Especial de Expropiación, en las que declara de Necesidad Pública la Regularización de los predios correspondientes a los bienes inmuebles que ocupan los Asentamientos Humanos denominados “COLONIA VENECIA”, “COLONIA PROVIDENCIA”, “COLONIA ALTOS DE LA LAGUNA” y “COLONIA BETANIA”, situadas en Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán.
+COLONIA PROVIDENCIA, Expediente No. 0709-2011-245-E, Resolución de Declaratoria No. UEE-030-2018 de fecha doce (12) de diciembre del año dos mil dieciocho (2018): COLONIA ALTOS DE LA LAGUNA, Expediente No. 0709-2011-243-E, Resolución de Declaratoria No. UEE-025-2018, de fecha trece de diciembre del año dos mil dieciocho (2018): COLONIA BETANIA, Expediente No. DLYR-0808-2011-249-E, Resolución de Declaratoria No. UEE-032-2018, de fecha doce (12) de diciembre del año dos mil dieciocho, ernitidas por el Instituto de la Propiedad a través de la Unidad Especial de Expropiación, en las que declara de Necesidad Pública la Regularización de los predios correspondientes a los bienes inmuebles que ocupan los Asentamientos Humanos denominados “COLONIA VENECIA”, “COLONIA PROVIDENCIA”, “COLONIA ALTOS DE LA LAGUNA” y “COLONIA BETANIA”, situadas en Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán.
 
 CONSIDERANDO: Que el Instituto de la Propiedad, en cumplimiento del Artículo 79 de la Ley de Propiedad, solicitó al Poder Ejecutivo la Expropiación de los inmuebles relacionados, en razón de no haber llegado a ningún arreglo conciliatorio en las Audiencias de Conciliación precitadas, resolviendo dicho Poder del Estado de manera favorable a la pretensión.
 

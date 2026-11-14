@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo Ministerial N.º367-2026; Certificaciones, Resoluciones CD-89-14-05/2026, CD-90-14-05/2026; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260606-37161/download"
 extraido: "2026-11-09"
-huella: "b7890443e2d26839"
+huella: "d26deddfd9b97184"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Ministerial N.º367-2026; Certificaciones, Resoluciones CD-89-14-05/2026, CD-90-14-05/2026; AVANCE
@@ -43,7 +43,7 @@ CONSIDERANDO: Conforme a lo dispuesto en el artículo 27 del Reglamento de Organ
 
 CONSIDERANDO: Que la Secretaría General es el órgano de apoyo técnico administrativo encargado de la coordinación, control y seguimiento de los asuntos administrativos internos de la Secretaría.
 
-CONSIDERANDO: Mediante Acuerdo Ejecutivo N. 086- 2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
+CONSIDERANDO: Mediante Acuerdo Ejecutivo N. 086-2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
 
 CONSIDERANDO: La Ley de Procedimiento Administrativo, en sus artículos 4 y 5, establece que el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
@@ -69,7 +69,7 @@ QUINTO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en e
 
 Dado en la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los veinticuatro (24) días del mes de abril del año dos mil veintiséis (2026). COMUNÍQUESE Y PUBLÍQUESE.
 
-JUAN CARLOS RAMOS RAMÍREZ SECRETARIO DE ESTADO ÁNGEL GUSTAVO REYES RODRÍGUEZ SECRETARIO GENERAL Banco Hondureño para la Producción y la Vivienda (BANHPROVI) CERTIFICACIÓN, RESOLUCIÓN El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15- 05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-14/2026, contentiva de la sesión ordinaria celebrada el 14 de mayo de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓNCD-89-14-05/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar el Reglamento de Inversiones del Banco Hondureño para la Producción y la Vivienda (Banhprovi) el cual se leerá así:
+JUAN CARLOS RAMOS RAMÍREZ SECRETARIO DE ESTADO ÁNGEL GUSTAVO REYES RODRÍGUEZ SECRETARIO GENERAL Banco Hondureño para la Producción y la Vivienda (BANHPROVI) CERTIFICACIÓN, RESOLUCIÓN El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15-05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-14/2026, contentiva de la sesión ordinaria celebrada el 14 de mayo de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓNCD-89-14-05/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente: “1. Aprobar el Reglamento de Inversiones del Banco Hondureño para la Producción y la Vivienda (Banhprovi) el cual se leerá así:
 
 REGLAMENTO DE INVERSIONES DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI) El presente Reglamento establece las normas y procedimientos para las inversiones que realice el Banco Hondureño para la Producción y la Vivienda (Banhprovi), en el Sistema Financiero Nacional, por medio del Comité de Activos, Pasivos e Inversiones.
 
@@ -311,7 +311,7 @@ ARTÍCULO 33. Toda sesión del Comité de Activos, Pasivos e Inversiones deberá
 
 #### Artículo 34
 
-ARTÍCULO 34. La información que se maneje por los empleados de la institución será de estricta reserva, salvaguardando las normas y procedimientos establecidos en la Ley del Sistema Financiero Nacional, Banco Central de Honduras (BCH), Código de Comercio y la Normativa Interna del Banhprovi. Sin embargo, información específica solicitada por escrito por personal debidamente autorizado del banco o instituciones auditoras y/o contraloras podrá ser proporcionada, previa autorización del jefe del Departamento de Finanzas. El Banhprovi se encuentra sujeto a las obligaciones de transparencia activas derivadas de la Ley de Transparencia y Acceso a la Información Pública (Decreto No.170-2006).
+ARTÍCULO 34. La información que se maneje por los empleados de la institución será de estricta reserva, salvaguardando las normas y procedimientos establecidos en la Ley del Sistema Financiero Nacional, Banco Central de Honduras (BCH), Código de Comercio y la Normativa Interna del Banhprovi. Sin embargo, información específica solicitada por escrito por personal debidamente autorizado del banco o instituciones auditoras y/o contraloras podrá ser proporcionada, previa autorización del jefe del Departamento de Finanzas. El Banhprovi se encuentra sujeto a las obligaciones de transparencia activas derivadas de la Ley de Transparencia y Acceso a la Información Pública (Decreto No. 170-2006).
 
 #### Artículo 35
 
@@ -399,11 +399,11 @@ RESOLUCIÓN FECHA DE CD
 
 Para los efectos legales pertinentes (F) ING. SERGIO ROBERTO AMAYA ORELLANA, Consejero Propietario- Presidente Ejecutivo. (F) ING. VIOLETA SOFÍA RODRÍGUEZ OCHOA, Consejera Propietaria. (F) ABG. JAVIER FRANCISCO PAREDES BAIDE, Consejero Propietario. (F) FRANCISCO JAVIER ARGUETA SABILLÓN, Comisario.
 
-(F) GLORIA MARÍA MARADIAGA GIRÓN, Secretaria del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), firman la Resolución CD-89-14- 05/2026. La presente resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la ciudad de Tegucigalpa, Municipio del Distrito Central, el 27 de mayo de 2025.
+(F) GLORIA MARÍA MARADIAGA GIRÓN, Secretaria del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), firman la Resolución CD-89-14-05/2026. La presente resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la ciudad de Tegucigalpa, Municipio del Distrito Central, el 27 de mayo de 2025.
 
 ........................................última línea........................................
 
-ABOGADO RAMÓN ÁNGEL REYES BAUTISTA SECRETARIO DEL CONSEJO DIRECTIVO Banco Hondureño para la Producción y la Vivienda (BANHPROVI) CERTIFICACIÓN, RESOLUCIÓN El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15- 05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-14/2026, contentiva de la sesión ordinaria celebrada el 14 de mayo de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓN-CD-90-14-05/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente:
+ABOGADO RAMÓN ÁNGEL REYES BAUTISTA SECRETARIO DEL CONSEJO DIRECTIVO Banco Hondureño para la Producción y la Vivienda (BANHPROVI) CERTIFICACIÓN, RESOLUCIÓN El infrascrito, Secretario del Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), nombrado mediante Resolución CD-96-15-05/2026 del veintidós (22) de mayo de dos mil veintiséis (2026), CERTIFICA: Que en el libro de actas de sesiones del Consejo Directivo que al efecto lleva durante el 2026, se encuentra el acta número CD-14/2026, contentiva de la sesión ordinaria celebrada el 14 de mayo de 2026, por el Consejo Directivo del BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), en la que se emitió la RESOLUCIÓN-CD-90-14-05/2026 del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), que en su parte resolutiva, cita lo siguiente:
 
 “1. Aprobar la Actualización del Reglamento del Comité de Activos, Pasivos e Inversiones del Banco Hondureño para la Producción y la Vivienda (Banhprovi), únicamente modificando el artículo 6 (Integración de los miembros del Comité) quedando por subsistente y valido en todo su contenido el reglamento el cual se leerá así:
 
@@ -677,11 +677,11 @@ Dado en la Ciudad de Tegucigalpa, M.D.C., a los catorce (14) días de mayo de do
 
 Para los efectos legales pertinentes (F) ING. SERGIO ROBERTO AMAYA ORELLANA. Consejero Propietario- Presidente Ejecutivo. (F) ING. VIOLETA SOFÍA RODRÍGUEZ OCHOA. Consejera Propietaria. (F) ABOG. JAVIER FRANCISCO PAREDES BAIDE. Consejero Propietario. (F) FRANCISCO JAVIER ARGUETA SABILLÓN. Comisario.
 
-(F) GLORIA MARÍA MARADIAGA GIRÓN. Secretaria del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), firman la Resolución CD-90-14- 05/2026. La presente Resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el 27 de mayo de 2025.
+(F) GLORIA MARÍA MARADIAGA GIRÓN. Secretaria del Consejo Directivo del Banco Hondureño para la Producción y la Vivienda (Banhprovi), firman la Resolución CD-90-14-05/2026. La presente Resolución es conforme con su original y para ser publicada en el Diario Oficial La Gaceta, se extiende la presente CERTIFICACIÓN en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el 27 de mayo de 2025.
 
 ……………..……………….……….….……….…….última línea…………………..……………………………… ABOGADO RAMÓN ÁNGEL REYES BAUTISTA SECRETARIO DEL CONSEJO DIRECTIVO Avance Próxima Edición
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

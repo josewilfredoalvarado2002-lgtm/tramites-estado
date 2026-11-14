@@ -11,7 +11,7 @@ paginas: "A. 135 - 136"
 sumario: "Acuerdo Ministerial No. 077-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220823-36009/download"
 extraido: "2026-11-14"
-huella: "a8977ef70dd12703"
+huella: "4b75284ed6dd67ab"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 077-2022
@@ -57,7 +57,7 @@ Artículo 176 del Reglamento de la Ley de Servicio Civil.
 
 PRIMERO: Delegar al abogado CESAR ANDRÉS VERDE ZUNIGA, nombrado mediante Acuerdo Ejecutivo No. 019-2021 de fecha 23 de marzo del 2021; las funciones de autoridad nominadora relativa a la aplicación de la Ley de Servicio Civil y su Reglamento, pudiendo celebrar para tal efecto toda investigación, así como las audiencias de descargo con el respectio acompañamiento de la Subgerencia de Recursos Humanos.
 
-SEGUNDO: Dejar sin valor ni efecto el Acuerdo No. 154- 2021 de fecha 23 de agosto de 2021, en el que se nombró a la Abogada CRISTINA DEL CARMEN DÍAZ TABORA, asesora legal, las funciones de autoridad nominadora relativo a la aplicación de la Ley de Servicio Civil y su Reglamento, pudiendo celebrar para tal efecto toda investigación, así como las audiencias de descargo.
+SEGUNDO: Dejar sin valor ni efecto el Acuerdo No. 154-2021 de fecha 23 de agosto de 2021, en el que se nombró a la Abogada CRISTINA DEL CARMEN DÍAZ TABORA, asesora legal, las funciones de autoridad nominadora relativo a la aplicación de la Ley de Servicio Civil y su Reglamento, pudiendo celebrar para tal efecto toda investigación, así como las audiencias de descargo.
 
 TERCERO: El presente Acuerdo y deberá ser publicado en el Diario Oficial la “GACETA”.
 

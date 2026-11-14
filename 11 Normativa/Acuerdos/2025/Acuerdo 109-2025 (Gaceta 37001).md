@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo Ministerial No. 109-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251124-37001/download"
 extraido: "2026-11-09"
-huella: "1786d0baa7144350"
+huella: "4482df6aa76cf9b5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 109-2025
@@ -35,11 +35,9 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con los artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica;
 
-CONSIDERANDO: Que mediante la Resolución No. 419- 2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, el cual entró en vigor el 5 de junio de 2020;
+CONSIDERANDO: Que mediante la Resolución No. 419-2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, el cual entró en vigor el 5 de junio de 2020;
 
-CONSIDERANDO: Que en virtud de las Resoluciones No.
-
-494-2024 (COMIECO-CIX), del 6 de diciembre de 2024 y la No. 4962025 (COMIECO-CX), del 9 de mayo de 2025, se modificaron parcialmente los Anexos A (NORMATIVO) y B (NORMATIVO) del RTCA mencionado, adicionando en el Anexo A los aditivos alimentarios glucósidos de esteviol y diacetato de potasio para determinadas categorías de alimentos y eliminando de los Anexos A (NORMATIVO) y B (NORMATIVO), el aditivo alimentario “INS 127 eritrosina (rojo No.3)” para determinadas categorías de alimentos, respectivamente;
+CONSIDERANDO: Que en virtud de las Resoluciones No. 494-2024 (COMIECO-CIX), del 6 de diciembre de 2024 y la No. 4962025 (COMIECO-CX), del 9 de mayo de 2025, se modificaron parcialmente los Anexos A (NORMATIVO) y B (NORMATIVO) del RTCA mencionado, adicionando en el Anexo A los aditivos alimentarios glucósidos de esteviol y diacetato de potasio para determinadas categorías de alimentos y eliminando de los Anexos A (NORMATIVO) y B (NORMATIVO), el aditivo alimentario “INS 127 eritrosina (rojo No. 3)” para determinadas categorías de alimentos, respectivamente;
 
 CONSIDERANDO: Que de conformidad con el numeral 7 y Anexo C del RTCA mencionado, se creó la Comisión Centroamericana de Aditivos Alimentarios (CCAA), que, entre otras atribuciones, debe evaluar las solicitudes presentadas para la aceptación o rechazo de inclusiones, modificaciones o exclusiones de aditivos, debiendo elevar las actualizaciones para consideración y aprobación del COMIECO;
 
@@ -63,7 +61,7 @@ PRIMERO: Publicar de conformidad a lo establecido en el
 
 Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 497-2025 (COMIECO-CXI); que
 
-RESUELVE: 1. Derogar los Anexos A (NORMATIVO) y B (NORMATIVO) del Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, aprobado mediante la Resolución No. 419- 2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019 y sus reformas contenidas en las Resoluciones No. 494-2024 (COMIECO-CIX), del 6 de diciembre de 2024 y la No. 496- 2025 (COMIECO-CX), del 9 de mayo de 2025 y sus Anexos.
+RESUELVE: 1. Derogar los Anexos A (NORMATIVO) y B (NORMATIVO) del Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, aprobado mediante la Resolución No. 419-2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019 y sus reformas contenidas en las Resoluciones No. 494-2024 (COMIECO-CIX), del 6 de diciembre de 2024 y la No. 496-2025 (COMIECO-CX), del 9 de mayo de 2025 y sus Anexos.
 
 En consecuencia, estos se modifican, por sustitución total, por los Anexos A (NORMATIVO) y B (NORMATIVO) que aparecen como Anexos I y ll de esta Resolución, respectivamente, y que forman parte integral de la misma. 2.
 

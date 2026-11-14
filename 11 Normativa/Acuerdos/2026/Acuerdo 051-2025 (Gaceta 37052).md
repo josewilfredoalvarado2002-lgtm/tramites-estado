@@ -11,7 +11,7 @@ paginas: "A. 57 - 59"
 sumario: "Acuerdos Nos. 051-2025, 130-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "72dd71247115ed19"
+huella: "4120708ae8b57ecf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 051-2025
@@ -29,7 +29,7 @@ huella: "72dd71247115ed19"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre se crea mediante Decreto Legislativo No. 98- 2007, en su artículo 14 establece que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, denominado ICF, es un órgano desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determine esta Ley, la que ejercerá con independencia técnica, administrativa y financiera, dotado de la capacidad jurídica necesaria para emitir los actos en el ejercicio de su competencia.
+CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre se crea mediante Decreto Legislativo No. 98-2007, en su artículo 14 establece que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, denominado ICF, es un órgano desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determine esta Ley, la que ejercerá con independencia técnica, administrativa y financiera, dotado de la capacidad jurídica necesaria para emitir los actos en el ejercicio de su competencia.
 
 CONSIDERANDO: Que el artículo 18, numeral 1 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, señala que el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre
 
@@ -59,9 +59,7 @@ El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Fores
 
 ACUERDA:
 
-PRIMERO: Reformar el numeral PRIMERO del Acuerdo No.
-
-026-2024, emitido por el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre
+PRIMERO: Reformar el numeral PRIMERO del Acuerdo No. 026-2024, emitido por el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre
 
 (ICF) y publicado en el Diario Oficial La Gaceta en fecha 9 de julio de 2024, edición No. 36581, el cual deberá leerse de la siguiente manera:
 

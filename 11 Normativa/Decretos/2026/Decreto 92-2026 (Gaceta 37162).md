@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto No.92-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260608-37162/download"
 extraido: "2026-11-09"
-huella: "13412f51d280e953"
+huella: "9a9272a50c7103c1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 92-2026
@@ -59,7 +59,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

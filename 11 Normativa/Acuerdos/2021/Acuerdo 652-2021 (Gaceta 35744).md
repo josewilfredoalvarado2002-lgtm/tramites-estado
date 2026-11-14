@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. 652-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211011-35744/download"
 extraido: "2026-11-14"
-huella: "64f5f7d8bc025e6c"
+huella: "b2c32a37228634d3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 652-2021
@@ -41,13 +41,13 @@ CONSIDERANDO: Que mediante Acuerdo No. 281-2020, de fecha 25 de noviembre del a�
 
 CONSIDERANDO: Que, para agilizar los trámites de la Dirección de Niñez, Adolescencia y Familia (DINAF), fue necesario ampliar las funciones delegadas en el Abogado YERAL JAVIER ROQUE NÚÑEZ, en el Acuerdo mencionado en el considerando anterior, a través del Acuerdo No. 292-2021, de fecha 12 de marzo de 2021, publicado en el Diario Oficial La Gaceta en fecha 18 de marzo del 2021, en edición No. 35,547.
 
-CONSIDERANDO: Que según Memorándum CFF-243- 2021 de fecha 28 de septiembre del 2021, remitido por el Programa de Consolidación Familiar, solicitó a Secretaría General, la modificación del Acuerdo de Delegación No. 281- 2020, de fecha 25 de noviembre del año 2020, estableciendo en el mismo, un numeral que indique: “Manifestación para ratificar certificaciones de consentimiento en sede judicial en representación de la Directora Ejecutiva de la DINAF”.
+CONSIDERANDO: Que según Memorándum CFF-243-2021 de fecha 28 de septiembre del 2021, remitido por el Programa de Consolidación Familiar, solicitó a Secretaría General, la modificación del Acuerdo de Delegación No. 281-2020, de fecha 25 de noviembre del año 2020, estableciendo en el mismo, un numeral que indique: “Manifestación para ratificar certificaciones de consentimiento en sede judicial en representación de la Directora Ejecutiva de la DINAF”.
 
 CONSIDERANDO: Que a fin de no entorpecer los trámites de la DINAF, es necesario ampliar las funciones delegadas en el Abogado YERAL JAVIER ROQUE NÚÑEZ, Oficial Jurídico I del Programa de Consolidación Familiar, mediante Acuerdo No. 281-2020, de fecha 25 de noviembre del año 2020, y No. 292-2021, de fecha 12 de marzo de 2021.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; 1 y 6 de la Ley de Simplificación Administrativa; Decreto Ejecutivo PCM 27- 2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en fecha 16 de julio del 2021 (edición número 35,658).
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; 1 y 6 de la Ley de Simplificación Administrativa; Decreto Ejecutivo PCM 27-2014, ratificado mediante Decreto Legislativo No. 34-2021, publicado en fecha 16 de julio del 2021 (edición número 35,658).
 
 ACUERDA:
 

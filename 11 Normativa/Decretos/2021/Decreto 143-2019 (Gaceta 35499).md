@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 143-2019, 108-2020, 1832020, 187-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210127-35499/download"
 extraido: "2026-11-14"
-huella: "9938caf941686f14"
+huella: "086c0b184b85c317"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 143-2019
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

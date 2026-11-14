@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220324-35881/download"
 extraido: "2026-11-14"
-huella: "2e0b741e9d695b68"
+huella: "3e4b86ab112c3a63"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -101,7 +101,7 @@ En la ciudad de Comayagüela, a los catorce (14) días del mes de marzo del año
 
 LUIS EDGARDO SOLIZ LOBO DIRECTOR EJECUTIVO ICF ALBA ROSARIO MURILLO LARA SECRETARIA GENERAL INTERINA ICF Corte Suprema de Justicia Sala Constitucional Honduras, C.A Tegucigalpa, M. D. C., 14 de Marzo de 2022.
 
-OFICIO No. SCO- 045-2022
+OFICIO No. SCO-045-2022
 
 SEÑOR(A):
 
@@ -109,7 +109,7 @@ SECRETARIA TECNICA DEL CONGRESO NACIONAL DE LA REPÚBLICA DE HONDURAS.
 
 Su Oficina:
 
-Con instrucciones de la Sala de lo Constitucional de la Corte Suprema de Justicia y en cumplimiento a lo ordenado en la sentencia de fecha trece de enero de dos mil veintidós, recaído en el Recurso de Inconstitucionalidad No. SCO-1347- 2014. Interpuesto Vía Excepción por el Abogado LEONEL DE JESUS AVILA, en su condición de Apoderado Legal de la señora MARIA ISABEL VELASCO DE PADILLA contra el DECRETO LEGISLATIVO No. 266-2013 emitido por el CONGRESO NACIONAL DE LA REPÚBLICA en fecha dieciséis de diciembre de dos mil trece, publicado en el Diario Oficial La Gaceta No. 33,336 en fecha veintitrés de enero de dos mil catorce, contentivo de la LEY PARA OPTIMIZAR LA ADMINISTRACIÓN PUBLICA MEJOAR LOS SERVICIOS A LA CIUDADANIA Y FORTALECIMIENTO DE LA TRANSPARENCIA EN EL GOBIERNO, mediante el cual se reformó el artículo 39 de la Ley de la Jurisdicción de lo Contencioso Administrativo: en relación a la demanda promovida ante el JUZGADO DE LETRAS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO CON SEDE EN TEGUCIGALPA, FRANCISCO MORAZÁN, por la señora MARIA ISABEL ANTONIA VELASCO LAINEZ contra el SERVICIO AUTONOMO NACIONAL DE ACUEDUCTOS Y ALCANTARILLADOS (SANAA).
+Con instrucciones de la Sala de lo Constitucional de la Corte Suprema de Justicia y en cumplimiento a lo ordenado en la sentencia de fecha trece de enero de dos mil veintidós, recaído en el Recurso de Inconstitucionalidad No. SCO-1347-2014. Interpuesto Vía Excepción por el Abogado LEONEL DE JESUS AVILA, en su condición de Apoderado Legal de la señora MARIA ISABEL VELASCO DE PADILLA contra el DECRETO LEGISLATIVO No. 266-2013 emitido por el CONGRESO NACIONAL DE LA REPÚBLICA en fecha dieciséis de diciembre de dos mil trece, publicado en el Diario Oficial La Gaceta No. 33,336 en fecha veintitrés de enero de dos mil catorce, contentivo de la LEY PARA OPTIMIZAR LA ADMINISTRACIÓN PUBLICA MEJOAR LOS SERVICIOS A LA CIUDADANIA Y FORTALECIMIENTO DE LA TRANSPARENCIA EN EL GOBIERNO, mediante el cual se reformó el artículo 39 de la Ley de la Jurisdicción de lo Contencioso Administrativo: en relación a la demanda promovida ante el JUZGADO DE LETRAS DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO CON SEDE EN TEGUCIGALPA, FRANCISCO MORAZÁN, por la señora MARIA ISABEL ANTONIA VELASCO LAINEZ contra el SERVICIO AUTONOMO NACIONAL DE ACUEDUCTOS Y ALCANTARILLADOS (SANAA).
 
 Transcribo a usted la sentencia que en su parte conducente dice: “CORTE SUPREMA DE JUSTICIA.-SALA DE LO CONSTITUCIONAL.- Tegucigalpa, municipio del Distrito Central, trece de enero de dos mil veintidós.
 

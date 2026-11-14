@@ -11,7 +11,7 @@ paginas: "A. 24 - 48"
 sumario: "Acuerdos Nos. 61-2025, 063-2025, 64-2025, 067-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250818-36919/download"
 extraido: "2026-11-09"
-huella: "0a5f1df4762c881c"
+huella: "0d66b34f91f8254a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 067-2025
@@ -47,9 +47,7 @@ CONSIDERANDO: Que el ICF en uso de sus facultades emitió el Acuerdo N°. 009-20
 
 CONSIDERANDO: Que tanto la Ley Forestal, Áreas Protegidas y Vida Silvestre, su Reglamento y el Acuerdo N°. 009-2011, fundamentan y definen el procedimiento de suscripción del Contrato de Manejo Forestal Comunitario, en el cual se describe el cumplimiento de las “Obligaciones y derechos de la Organización Comunitaria y del ICF”.
 
-CONSIDERANDO: Que el ICF emitió el Acuerdo N°.
-
-026A-2013, aprobado en fecha veintiséis (26) de septiembre del año dos mil trece, mediante el cual se aprobó la “ESTRATEGIA NACIONAL DE LA FORESTERÍA COMUNITARIA (ENFC)”, publicado en el Diario Oficial La Gaceta en fecha uno (1) de noviembre del año dos mil trece.
+CONSIDERANDO: Que el ICF emitió el Acuerdo N°. 026A-2013, aprobado en fecha veintiséis (26) de septiembre del año dos mil trece, mediante el cual se aprobó la “ESTRATEGIA NACIONAL DE LA FORESTERÍA COMUNITARIA (ENFC)”, publicado en el Diario Oficial La Gaceta en fecha uno (1) de noviembre del año dos mil trece.
 
 CONSIDERANDO: Que el ICF, a solicitud de los principales actores del Sistema Social Forestal, inició el proceso de la regulación de la comercialización de la madera del bosque nacional asignado mediante CMFC, proceso que a la fecha actual requiere ser ajustado para incluir mejoras orientada a obtener resultados de su implementación, mucho más transparentes para la sociedad hondureña.
 
@@ -61,7 +59,7 @@ La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo
 
 Artículos 1, 2, 3, 6, 7, 9, 11, 17, 18, 19, 20, 45, 46, 48, 57, 63, 68, 70, 72, 73, 74, 77, 90, 91, 103, 126 al 131 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, artículos 1, 2, 3, 4, 6, 8, 9, 91, 94, 99, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 150, 151, 152, 153, 154, 166, 169, 183, 192, 214, 220, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 469, del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre y los artículos 22, 23, 24, 25, 26 y 27 de la Ley de Procedimiento Administrativo;
 
-Acuerdo No.009-2011, Acuerdo No.026A-2013 y demás aplicables.
+Acuerdo No. 009-2011, Acuerdo No. 026A-2013 y demás aplicables.
 
 ACUERDA:
 
@@ -71,7 +69,7 @@ Derogar el Acuerdo 09-2023, que contiene el “PROCEDIMIENTO PARA LA COMERCIALIZ
 
 SEGUNDO: Derogar los incisos d), e), f) g) y h) del numeral 8 del Acuerdo 009-2011 que contiene los mecanismos de transparencia en el proceso de comercialización de productos forestales, en el aspecto relacionado con los requisitos que deben de cumplir las Organizaciones Comunitarias y que se encuentran actualizados y contenidos en el presente acuerdo.
 
-TERCERO: El presente acuerdo, valida todas las actuaciones administrativas emitidas y fundamentadas en el Acuerdo 09-2023; entendiéndose que todos aquellos procesos que a la fecha cuentan con resolución de orden de inicio para el proceso de comercialización de la madera, mediante subasta pública o venta directa, serán finalizados con las disposiciones establecidas en el Acuerdo No. 009- 2023.
+TERCERO: El presente acuerdo, valida todas las actuaciones administrativas emitidas y fundamentadas en el Acuerdo 09-2023; entendiéndose que todos aquellos procesos que a la fecha cuentan con resolución de orden de inicio para el proceso de comercialización de la madera, mediante subasta pública o venta directa, serán finalizados con las disposiciones establecidas en el Acuerdo No. 009-2023.
 
 CUARTO: Aprobar y oficializar en todas y cada una de sus partes, el “PROCEDIMIENTO PARA LA COMERCIALIZACIÓN DE LA MADERA DEL BOSQUE DE PINO EN ÁREAS DE TENENCIA NACIONAL, ASIGNADO A LAS ORGANIZACIONES COMUNITARIAS, BENEFICIARIAS DE LA FORESTERIA COMUNITARIA”, mediante el cual se promueve el desarrollo rural y el manejo forestal sostenible con intervenciones en las áreas del Sistema Social Forestal (SSF), en términos de inclusión social y en las dinámicas económicas; por lo que se establece que es de obligatorio cumplimiento por parte de cada uno de los beneficiarios que implementan la Estrategia Nacional de la Forestería Comunitaria (ENFC) y que poseen Contrato de Manejo Forestal Comunitario (CMFC) y/o Convenio de Usufructo (CU), Planes de Manejo Forestal (PMF) y Planes Operativos Anuales (POA), debidamente aprobados y vigentes, que literalmente dice:
 

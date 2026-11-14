@@ -11,7 +11,7 @@ paginas: "A. 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "223b69ee256466f9"
+huella: "c1e664f346b94375"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-362-2022
@@ -35,7 +35,7 @@ PRIMERO: Cancelar a la ciudadana Dálida Zuyapa Aguilar Gonzáles a partir del v
 
 19,870.00 (Diecinueve Mil Ochocientos Setenta Lempiras Exactos),
 
-SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N°. 107- 2021, artículo 129, párrafo segundo de la Disposiciones Generales de Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2022 y su interpretación establecida en el Artículo 1 del Decreto 19-2022 de fecha 23 de marzo de dos mil veintidós (2022), publicado en el Diario Oficial La Gaceta.
+SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N°. 107-2021, artículo 129, párrafo segundo de la Disposiciones Generales de Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2022 y su interpretación establecida en el Artículo 1 del Decreto 19-2022 de fecha 23 de marzo de dos mil veintidós (2022), publicado en el Diario Oficial La Gaceta.
 
 TERCERO: Agradecer a la ciudadana Dálida Zuyapa Aguilar Gonzáles, por los servicios prestados a la Institución.
 

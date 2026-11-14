@@ -11,7 +11,7 @@ paginas: "A. 25 - 44"
 sumario: "Decretos Nos. 3-2024, 4-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240223-36468/download"
 extraido: "2026-11-14"
-huella: "f72773c6d3143fde"
+huella: "5bef511d3f61a18a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 4-2024
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 39 de la Constitución de la República establece que todos los hondureños deben estar registrados en el Registro Nacional de las Personas (RNP), institución que tiene el mandato de desarrollar y administrar el sistema fundacional de identificación y registro civil.
 
-Asimismo, los artículos 29 a 31 del Código de la Niñez y la Adolescencia contenido en el Decreto No.73-96 del 30 de Mayo de 1996, reformado, establecen el derecho de los Niños a una identidad y la obligación de los padres o representantes legales a registrar a los recién nacidos en el RNP.
+Asimismo, los artículos 29 a 31 del Código de la Niñez y la Adolescencia contenido en el Decreto No. 73-96 del 30 de Mayo de 1996, reformado, establecen el derecho de los Niños a una identidad y la obligación de los padres o representantes legales a registrar a los recién nacidos en el RNP.
 
 CONSIDERANDO: Que el Registro Nacional de las Personas (RNP) es una Institución de seguridad nacional, considerándose como un órgano especial del Estado, vinculado estrechamente a la seguridad de la sociedad de carácter independiente, con personalidad jurídica, autonomía técnica y administrativa, autodeterminación normativa, con asiento en la capital de la República, autoridad en todo el territorio nacional y autorización para establecer oficinas registrales en los lugares que el mismo considere necesario.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -61,7 +61,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el ACUERDO DE FINANCIAMI
 
 “SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
-PRÉSTAMO No.7471-HN Acuerdo de Financiamiento (para el Proyecto de Fortalecimiento del Registro Civil y del Ecosistema de Identidad Nacional de Honduras) Entre REPÚBLICA DE HONDURAS y ASOCIACIÓN INTERNACIONAL DE FOMENTO Sello Secretaría de Finanzas Honduras, C.A.
+PRÉSTAMO No. 7471-HN Acuerdo de Financiamiento (para el Proyecto de Fortalecimiento del Registro Civil y del Ecosistema de Identidad Nacional de Honduras) Entre REPÚBLICA DE HONDURAS y ASOCIACIÓN INTERNACIONAL DE FOMENTO Sello Secretaría de Finanzas Honduras, C.A.
 
 ACUERDO DE FINANCIAMIENTO
 
@@ -83,7 +83,7 @@ ARTÍCULO II — FINANCIAMIENTO
 
 2.04. El Cargo por Servicios será el que resulte mayor entre: (a) la suma de las tres cuartas partes de uno por ciento (3/4 de 1%) por año más el Ajuste Base al Cargo por Servicios; y (b) las tres cuartas partes de uno por ciento (3/4 de 1%) por año; sobre el Saldo del Crédito Desembolsado, o la tasa que sea aplicable luego de una Conversión de Moneda.
 
-2.05. El cargo por interés será el mayor de: (a) la suma de uno y un cuarto por ciento (1.25%) por año más el Ajuste Base del Cargo por Intereses ; y (b) Cero por ciento por año (0%), o la aquella tasa que sea aplicable luego de una Conversación de Moneda; sobre el Balance del Crédito Retirado.
+2.05. El cargo por interés será el mayor de: (a) la suma de uno y un cuarto por ciento (1.25%) por año más el Ajuste Base del Cargo por Intereses; y (b) Cero por ciento por año (0%), o la aquella tasa que sea aplicable luego de una Conversación de Moneda; sobre el Balance del Crédito Retirado.
 
 2.06. Las Fechas de Pago son Marzo 15 y Septiembre 15 en cada año.
 

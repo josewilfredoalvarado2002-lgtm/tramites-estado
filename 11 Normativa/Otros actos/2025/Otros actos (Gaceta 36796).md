@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo C.G. No. 003-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250321-36796/download"
 extraido: "2026-11-12"
-huella: "9f5aa83d1b7cfaa5"
+huella: "577fb59fcfa8b52b"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Ejecutivo C.G. No. 003-2025
@@ -35,7 +35,7 @@ CONSIDERANDO (02): Que la Constitución de la República en el artículo 247 est
 
 CONSIDERANDO (03): Que la Constitución de la República en el artículo 274 párrafo primero establece que, “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento.
 
-Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, a g r i c u l t u r a , p r o t e c c i ó n del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
+Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria”.
 
 CONSIDERANDO (04): Que la Constitución de la República en el artículo 290 establece que, “Los grados militares sólo se adquieren por riguroso ascenso de acuerdo con la ley respectiva. Los militares no podrán ser privados de sus grados, honores y pensiones en otra forma que la fijada por la Ley.
 

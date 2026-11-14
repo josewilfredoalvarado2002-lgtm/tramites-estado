@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. SAG-112-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240717-36588-2/download"
 extraido: "2026-11-14"
-huella: "0eff792ef8d25d62"
+huella: "3e51c562e0196c94"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-112-2024
@@ -51,7 +51,7 @@ CÚMPLASE Y COMUNÍQUESE.
 
 LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA HENRY ALEXIS MENDOZA ZELAYA SECRETARIO GENERAL Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.- Se prohíbe el cambio de uso de suelo en áreas de bosque en donde los terrenos resultasen afectados por efecto de plagas, enfermedades forestales, fenómenos naturales o de incendios forestales cuyo origen se desconozca o sea provocado de manera intencional, u otras causas de degradación o deforestación en un plazo de cincuenta (50) años a partir de la fecha del incendio o deforestación del bosque.
+DECRETA: ARTÍCULO 1.- Se prohíbe el cambio de uso de suelo en áreas de bosque en donde los terrenos resultasen afectados por efecto de plagas, enfermedades forestales, fenómenos naturales o de incendios forestales cuyo origen se desconozca o sea provocado de manera intencional, u otras causas de degradación o deforestación en un plazo de cincuenta (50) años a partir de la fecha del incendio o deforestación del bosque.
 
 CENTROS DE DISTRIBUCIÓN:
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 36"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240605-36552/download"
 extraido: "2026-11-14"
-huella: "3f14ea7bcf3c14d4"
+huella: "7eaaa597bebc7619"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No.13-DGAJTC-2023
@@ -43,7 +43,7 @@ ACUERDA:
 
 PRIMERO: Aprobar en toda y cada una de sus partes el “CONVENIO INTERNACIONAL PARA LA SIMPLIFICACIÓN Y ARMONIZACIÓN DE LOS REGÍMENES ADUANEROS”, que literalmente dice:
 
-“ C O N V E N I O I N T E R N A C I O N A L P A R A L A SIMPLIFICACIÓN Y ARMONIZACIÓN DE LOS REGÍMENES ADUANEROS”.
+“ CONVENIO INTERNACIONAL PARA LA SIMPLIFICACIÓN Y ARMONIZACIÓN DE LOS REGÍMENES ADUANEROS”.
 
 PREAMBULO
 
@@ -379,7 +379,7 @@ CAPITULO 5 GARANTIA
 
 CAPITULO 6 CONTROL ADUANERO
 
-CAPITULO 7 APLICACION DE LA TECNOLOGIA DE LA INFORMACION CAPITULO 8 R E L A C I O N E S ENTRE LA ADUANA Y TERCEROS
+CAPITULO 7 APLICACION DE LA TECNOLOGIA DE LA INFORMACION CAPITULO 8 RELACIONES ENTRE LA ADUANA Y TERCEROS
 
 CAPITULO 9 INFORMACION, RESOLUCIONES Y FALLOS COMUNICADAS POR LA ADUANA A. INFORMACION DE ALCANCE GENERAL B. INFORMACIONES ESPECIFICAS C. RESOLUCIONES Y FALLOS
 
@@ -593,7 +593,7 @@ Retiro de mercancías
 
 - que los derechos e impuestos hayan sido pagados o que se hayan tomado las medidas necesarias a fin de asegurar su cobro.
 
-3.41 Norma En caso que la Aduana tenga la certeza que el declarante cumplirá con todas las formalidades respecto al desaduanamiento, la misma autorizará el retiro de las mercancías a condición que el declarante presente un documento comercial u oficial con los datos principales relativos al envío y que sea aceptado por la Aduana , así como una garantía, si correspondiera, que asegure el cobro de los derechos e impuestos exigibles.
+3.41 Norma En caso que la Aduana tenga la certeza que el declarante cumplirá con todas las formalidades respecto al desaduanamiento, la misma autorizará el retiro de las mercancías a condición que el declarante presente un documento comercial u oficial con los datos principales relativos al envío y que sea aceptado por la Aduana, así como una garantía, si correspondiera, que asegure el cobro de los derechos e impuestos exigibles.
 
 3.42 Norma Cuando la Aduana decida que es preciso un análisis de laboratorio de las muestras, un documento técnico detallado o el asesoramiento de un experto, se autorizará el retiro de las mercancías antes que estén prontos los resultados del examen mencionado, a condición que se haya suministrado toda garantía solicitada y a condición que las mercancías no sean objeto de prohibiciones o restricciones.
 

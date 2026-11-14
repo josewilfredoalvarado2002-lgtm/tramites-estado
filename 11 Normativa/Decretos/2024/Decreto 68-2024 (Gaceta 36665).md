@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 68-2024, 76-2024, 83-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241016-36665/download"
 extraido: "2026-11-14"
-huella: "daade818a61d5f65"
+huella: "8657e49577f86be6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 68-2024
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Reformar los artículos 8 y 14 de la LEY DEL VOLUNTARIADO, contenido en el Decreto Legislativo No.177-2011 de fecha 5 de Octubre de 2011, publicado el 22 de Diciembre del 2011, en el Diario Oficial “La Gaceta”, Edición No.32,701, los cuales en adelante se leerán de la manera siguiente:
+ARTÍCULO 1. Reformar los artículos 8 y 14 de la LEY DEL VOLUNTARIADO, contenido en el Decreto Legislativo No. 177-2011 de fecha 5 de Octubre de 2011, publicado el 22 de Diciembre del 2011, en el Diario Oficial “La Gaceta”, Edición No. 32,701, los cuales en adelante se leerán de la manera siguiente:
 
 “ARTÍCULO 8.- La Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización deberá crear y llevar el control del Registro Nacional de Voluntarios y Voluntarias, así mismo deberá establecer las formas de inscripción en que se especifiquen la acreditación de la condición de voluntariado, fecha de ingreso, tiempo de duración del acuerdo, naturaleza de la prestación a efectuar, la función específica a desempeñarse, el lugar de ejecución y cualquier otra circunstancia que indique de manera indubitada las características del servicio voluntario a ser prestado, causas y formas de terminación del acuerdo. También publicará en el sitio web el listado y número de registro de todos los voluntarios y voluntarias inscritos, garantizando su transparencia y cumplimiento de los principios establecidos en esta Ley.
 

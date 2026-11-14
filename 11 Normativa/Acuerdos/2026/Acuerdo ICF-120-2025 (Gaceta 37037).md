@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdos Institucionales Nos. ICF-113-2025, ICF-116-2025, ICF-117-2025, ICF-119-2025, ICF-120-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260107-37037/download"
 extraido: "2026-11-09"
-huella: "6518e606fb30f7d7"
+huella: "e86d6d501bb7a4d8"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-120-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratoria de Zonas de Protección Forestal de la “Microcuenca Don Quintin”, la cual se localiza en la jurisdicción de los municipios de Dolores y Veracruz, departamento de Copán, solicitud de declaratoria realizada por el Presidente de la Junta Administradora de Agua Buena Dolores, del municipio de Dolores, departamento de Copán.
 

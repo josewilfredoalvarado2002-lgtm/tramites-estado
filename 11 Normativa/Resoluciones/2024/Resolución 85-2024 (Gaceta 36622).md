@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución No. 85-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240826-36622/download"
 extraido: "2026-11-14"
-huella: "ff97df7f66a7622f"
+huella: "13a48df0758b62ed"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 85-2024
@@ -33,13 +33,13 @@ CERTIFICA:
 
 La Resolución que literalmente dice: "RESOLUCIÓN No. 85-2024. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, diecinueve de enero del año dos mil veinticuatro. VISTA:
 
-Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha doce de enero del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ- 12012024-13 por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BUENA VISTA, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA" la cual se encuentra domiciliada Comunidad de Buena Vista, municipio Lepaera, departamento Lempira; contraida a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha doce de enero del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-12012024-13 por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BUENA VISTA, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA" la cual se encuentra domiciliada Comunidad de Buena Vista, municipio Lepaera, departamento Lempira; contraida a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 RESULTA:Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica. CONSIDERANDO: Que la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BUENA VISTA, MUNICIPIO DE LEPAERA, DEPARTAMENTO DE LEMPIRA", se crea como Asociación de Servicio Comunal, de duración indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento. CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto adininistrativo de conformidad con los Artículos 16, 119 y 122 de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo. POR TANTO:
 
 El Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua de Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo.
 
-Acuerdo Ministerial No.01-2022 de fecha 27 de enero del año 2022.
+Acuerdo Ministerial No. 01-2022 de fecha 27 de enero del año 2022.
 
 RESUELVE:
 

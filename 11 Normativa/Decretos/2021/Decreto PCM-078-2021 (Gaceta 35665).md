@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-078-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210723-35665/download"
 extraido: "2026-11-14"
-huella: "4d5d5e39b7e00b9e"
+huella: "4ae350face200d0f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-078-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo en Consejo de Secretarios de Estado
 
 CONSIDERANDO: Que producto del análisis desarrollado por el Comité Técnico Administrativo (CTA), se han identificado otros sectores que requieren participar como beneficiarios del FIRSA y que contribuyen al desarrollo económico y social del país, por lo que se considera necesario diversificar el fideicomiso, tanto a nivel urbano como rural.
 
-POR TANTO, En aplicación de los Artículos: 245 numerales 11, 30, 32 y 248 de la Constitución de la República; 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas; Decreto Ejecutivo en Consejo de Secretarios de Estado PCM-017- 2014 publicado en el Diario Oficial “La Gaceta”, mediante No. 33,446 de fecha 6 de junio del 2014, reformado mediante Decretos Ejecutivos No. PCM-059-2014 de fecha 8 de septiembre del 2014, PCM-073-2014 de fecha 20 de octubre del 2014, PCM-077-2014 publicado el 29 de diciembre del 2014.
+POR TANTO, En aplicación de los Artículos: 245 numerales 11, 30, 32 y 248 de la Constitución de la República; 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas; Decreto Ejecutivo en Consejo de Secretarios de Estado PCM-017-2014 publicado en el Diario Oficial “La Gaceta”, mediante No. 33,446 de fecha 6 de junio del 2014, reformado mediante Decretos Ejecutivos No. PCM-059-2014 de fecha 8 de septiembre del 2014, PCM-073-2014 de fecha 20 de octubre del 2014, PCM-077-2014 publicado el 29 de diciembre del 2014.
 
 DECRETA:
 

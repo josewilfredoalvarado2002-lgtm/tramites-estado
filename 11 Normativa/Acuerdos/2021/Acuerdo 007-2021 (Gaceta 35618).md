@@ -11,7 +11,7 @@ paginas: "A. 49 - 51"
 sumario: "Acuerdo Ejecutivo número 007-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210604-35618/download"
 extraido: "2026-11-14"
-huella: "e9aaab0748405977"
+huella: "3eae08f8d4c5802e"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 007-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad a lo previsto en la Ley para el Establecimiento
 
 CONSIDERANDO: Que el Estado de Honduras ha priorizado, como una necesidad nacional de interés público, la exploración y subsiguiente explotación de potenciales fuentes de petróleo o gas natural cuya producción, en un marco ambientalmente sustentable que pueda abastecer las necesidades de consumo nacional, garantizar la seguridad energética y aportar nuevos e importantes recursos financieros para impulsar sostenidamente el desarrollo humano de la Nación hondureña.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-194-84, publicado en el Diario Oficial La Gaceta en fecha 28 de febrero de 1985, se aprobó la Ley de Hidrocarburos, con la finalidad de establecer el régimen jurídico de la investigación, exploración y explotación de los yacimientos de hidrocarburos y demás sustancias asociadas, así como de las actividades de transformación o refinación, transporte por oleoductos o gasoductos comercialización y almacenamiento de las sustancias explotadas; designando a la Secretaría de Recursos Naturales, actualmente Secretaría de Recursos Naturales y Ambiente (MI AMBIENTE+), con potestad para autorizar o contratar la investigación, negociar y celebrar contratos de operación con Compañías especializadas, a través de la Dirección General de Energía; entre otras atribuciones desarrolladas por dicha Ley.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 194-84, publicado en el Diario Oficial La Gaceta en fecha 28 de febrero de 1985, se aprobó la Ley de Hidrocarburos, con la finalidad de establecer el régimen jurídico de la investigación, exploración y explotación de los yacimientos de hidrocarburos y demás sustancias asociadas, así como de las actividades de transformación o refinación, transporte por oleoductos o gasoductos comercialización y almacenamiento de las sustancias explotadas; designando a la Secretaría de Recursos Naturales, actualmente Secretaría de Recursos Naturales y Ambiente (MI AMBIENTE+), con potestad para autorizar o contratar la investigación, negociar y celebrar contratos de operación con Compañías especializadas, a través de la Dirección General de Energía; entre otras atribuciones desarrolladas por dicha Ley.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Energía (SEN), fue creada mediante Decreto Ejecutivo No. PCM-048-2017 de fecha 7 de agosto de 2017, como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, encargada de proponer al Consejo Nacional de Energía, la Estrategia Energética Nacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
@@ -55,7 +53,7 @@ Cincuenta y cinco por ciento (55%). HIGH POWER PETROLEUM HONDURAS, S.A., continu
 
 (110) de fecha once (11) de agosto del año dos mil veinte (2020) y a lo establecido en los artículos 28 de la Ley de Hidrocarburos y 49 del Reglamento; relacionados con la Cláusula 21 del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en Zona Marítima de la República de Honduras, contenido en el Decreto Legislativo No. 90-2013, publicado en el Diario Oficial La Gaceta en fecha 26 de julio del año 2013; mismo que fue modificado en cuanto a la Cláusula 21, al ser Autorizada la Cesión de Derechos del Contrato por la Secretaría de Estado en los Despachos de Energía, Recursos Naturales, Ambiente y Minas, mediante Resolución No. 0382-2017 y publicada mediante Certificación No. 008-R-2017 en el Diario Oficial La Gaceta, en fecha 03 de junio del 2017.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo 043- 2020 publicado en el Diario Oficial La Gaceta en fecha 6 de octubre de 2020, el señor Presidente Constitucional de la Republica, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, Ingeniero Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República, su sanción, y otros actos que por Ley deba firmar el Presidente de la República.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo 043-2020 publicado en el Diario Oficial La Gaceta en fecha 6 de octubre de 2020, el señor Presidente Constitucional de la Republica, Abogado Juan Orlando Hernández Alvarado, delegó en el Secretario de Coordinación General de Gobierno, Ingeniero Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República, su sanción, y otros actos que por Ley deba firmar el Presidente de la República.
 
 POR TANTO:
 
@@ -109,7 +107,7 @@ Dado en el Salón Constitucional de Casa Presidencial en la Ciudad de Tegucigalp
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACION GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No.043-2020 de fecha de 01 de octubre de 2020.
+CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACION GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No. 043-2020 de fecha de 01 de octubre de 2020.
 
 ROBERTO ANTONIO ORDOÑEZ WOLFOVICH SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA
 

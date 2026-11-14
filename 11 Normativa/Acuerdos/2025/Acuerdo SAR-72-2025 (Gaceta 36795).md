@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número SAR-72-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250320-36795/download"
 extraido: "2026-11-12"
-huella: "baca900f44a96e62"
+huella: "9b2783d1db157d83"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-72-2025
@@ -31,11 +31,7 @@ Tegucigalpa, M.D.C., 03 de febrero del 2025 LA DIRECTORA EJECUTIVA DEL SERVICIO 
 
 CONSIDERANDO: Que el Artículo 351 de la Constitución de la República establece los principios de legalidad, proporcionalidad, generalidad y equidad en el Sistema Tributario, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose por el Presidente de la República como SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que de conformidad al numeral
 
@@ -47,13 +43,9 @@ CONSIDERANDO: Que el Artículo 198 del Código Tributario establece como atribuc
 
 CONSIDERANDO: Que en el Artículo 199 del Decreto en mención, establecen las atribuciones del Director Ejecutivo del SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR): 1) Ejercer la representación legal, administración general, dirección y manejo de la institución…, 12) Las demás funciones que le confieran el presente Código y las leyes aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 202-2024 de fecha 11 de septiembre del 2024 se nombró a la suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado.
 
-202-2024 de fecha 11 de septiembre del 2024 se nombró a la suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas.
 
 CONSIDERANDO: Que el Artículo 131 del Código Tributario establece: De las Deudas Tributarias Incobrables por Razón de Costo Beneficio y Depuración de la Cuenta Corriente de los Obligados Tributarios, la Administración Tributaria en el mes de febrero de cada año debe proceder a: 1) Descargar de la Cuenta Corriente de los obligados tributarios, los créditos tributarios firmes a favor del Estado, cuyo monto sea igual o inferior a un (1) salario mínimo promedio vigente; y, 2) Proceder a descargar de la Cuenta Corriente de los obligados tributarios, los montos acumulados de créditos y deudas de ejercicios fiscales anteriores ya prescritos…
 
@@ -71,9 +63,7 @@ POR TANTO:
 
 El Servicio de Administración de Rentas en uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los siguientes Artículos: 1, 321, 323, 324 y 351 de la Constitución de la República; 1, 131 numeral 1), 195, 197, 198 y 199 del Código Tributario; 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No. 202-2024;
 
-Acuerdo Ejecutivo No 435-2022; y, Acuerdo Ejecutivo No.
-
-SETRASS-109-2024.
+Acuerdo Ejecutivo No 435-2022; y, Acuerdo Ejecutivo No. SETRASS-109-2024.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-066-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210706-35648/download"
 extraido: "2026-11-14"
-huella: "6f582b8fcb5fa683"
+huella: "1edc63db157e7cbe"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-066-2021
@@ -35,13 +35,9 @@ Dirigir la Política General del Estado y representarlo; emitir Acuerdos, Decret
 
 CONSIDERANDO: Que con fundamento a lo establecido en los Artículos 11 y 17 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, edición No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, edición No. 35,472, el Consejo de Secretarios de Estado prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
 
-35,472, el Consejo de Secretarios de Estado prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-062-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio de 2020, edición No. 35,311, y sus reformas mediante Decreto Ejecutivo Número PCM- 101-2020, publicado en el Diario Oficial “La Gaceta” de fecha 11de octubre de 2020, edición No. 35,397 Decreto Ejecutivo Número PCM-033-2021, publicado en el Diario Oficial “La Gaceta” de fecha 19 de marzo de 2021, edición No.
-
-35,548, se le instruye al Comité Técnico del Fideicomiso de Administración del Centro Cívico Gubernamental, autorizar a los Miembros de la Contratante para que se amplié, hasta el 31 de diciembre del 2021 y se incorpore a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, al Proyecto Centro Cívico Gubernamental
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-062-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio de 2020, edición No. 35,311, y sus reformas mediante Decreto Ejecutivo Número PCM-101-2020, publicado en el Diario Oficial “La Gaceta” de fecha 11de octubre de 2020, edición No. 35,397 Decreto Ejecutivo Número PCM-033-2021, publicado en el Diario Oficial “La Gaceta” de fecha 19 de marzo de 2021, edición No. 35,548, se le instruye al Comité Técnico del Fideicomiso de Administración del Centro Cívico Gubernamental, autorizar a los Miembros de la Contratante para que se amplié, hasta el 31 de diciembre del 2021 y se incorpore a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, al Proyecto Centro Cívico Gubernamental
 
 (CCG) y autorice al Sistema Nacional de Gestión de Riesgos (SINAGER) a través de su delegado Comisionado Especial de Atención para la Emergencia COVID-19, a utilizar y habilitar un Centro de Triaje y Vacunación para la atención de pacientes sospechosos o diagnosticados con COVID-19 en el edificio identificado como Cuerpo Bajo “D”, en el marco de la Emergencia Sanitaria COVID-19 tal como éstos se encuentran.
 
@@ -51,13 +47,13 @@ CONSIDERANDO: Que según información epidemiológica publicada por la Secretar�
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 245 numerales 2, 11 y 45, 252, 255, 321, 323 y 355 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 36, numerales 8, 11, 17, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-146-2020, PCM-062-2020, PCM- 101-2020 y PCM-033-2021.
+En uso de las facultades contenidas en los Artículos 245 numerales 2, 11 y 45, 252, 255, 321, 323 y 355 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 36, numerales 8, 11, 17, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-146-2020, PCM-062-2020, PCM-101-2020 y PCM-033-2021.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 1 y 4 del Decreto Ejecutivo Número PCM-062- 2020 publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio de 2020, edición No. 35,311, reformado a través de los Decretos Ejecutivos números PCM-101-2020 y PCM-033-2021, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 1 y 4 del Decreto Ejecutivo Número PCM-062-2020 publicado en el Diario Oficial “La Gaceta” en fecha 12 de julio de 2020, edición No. 35,311, reformado a través de los Decretos Ejecutivos números PCM-101-2020 y PCM-033-2021, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 1.- Se instruye al Comité Técnico del Fideicomiso de Administración del Centro Cívico Gubernamental autorizar a los Miembros de la Contratante para que hasta el 31 de diciembre del 2021 y a partir de la aprobación del presente Decreto Ejecutivo a incorporar a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales al Proyecto Centro Cívico Gubernamental
 

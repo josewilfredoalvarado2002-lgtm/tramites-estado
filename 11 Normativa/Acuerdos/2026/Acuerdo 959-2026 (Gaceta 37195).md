@@ -8,10 +8,10 @@ gaceta_numero: 37195
 gaceta_fecha: "2026-07-16"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37195 (2026-07-16)|La Gaceta 37195]]"
 paginas: "A. 32 - 35"
-sumario: "Acuerdo Ministerial No. 959-2026ZONA LIBRE TURÍSTICA DE ISLAS DE LA BAHÍA (ZOLITUR)"
+sumario: "Acuerdo Ministerial No. 959-2026; ZONA LIBRE TURÍSTICA DE ISLAS DE LA BAHÍA (ZOLITUR)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260716-37195/download"
 extraido: "2026-11-09"
-huella: "5392d2b9d062ebdf"
+huella: "c13b317855b983c6"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 959-2026
@@ -23,7 +23,7 @@ huella: "5392d2b9d062ebdf"
 | Emisor | No consta en la fuente |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37195 (2026-07-16)\|La Gaceta 37195]] del 2026-07-16 |
 | Páginas | A. 32 - 35 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 959-2026ZONA LIBRE TURÍSTICA DE ISLAS DE LA BAHÍA (ZOLITUR) |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 959-2026; ZONA LIBRE TURÍSTICA DE ISLAS DE LA BAHÍA (ZOLITUR) |
 
 ## Texto
 
@@ -43,7 +43,7 @@ POR TANTO:
 
 En uso de las facultades que está investido y en aplicación de los siguientes artículos: 321 de la Constitución de la República;
 
-33, 36 numeral 8 y 19, 116, 118 y 122 de la Ley General de la Administración Pública; 4, 5, 19, 27 y 121 de la Ley de Procedimiento Administrativo; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM- 008-97.
+33, 36 numeral 8 y 19, 116, 118 y 122 de la Ley General de la Administración Pública; 4, 5, 19, 27 y 121 de la Ley de Procedimiento Administrativo; 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97.
 
 ACUERDA:
 

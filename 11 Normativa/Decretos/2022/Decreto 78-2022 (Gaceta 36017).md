@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 78-2022, 81-2022, 82-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220901-36017/download"
 extraido: "2026-11-14"
-huella: "dbe3f1e290418693"
+huella: "56ea9e205f9d4856"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 78-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 333 establec
 
 CONSIDERANDO: Que el sistema de transporte como servicio público procura garantizar que el mismo se brinde bajo condiciones de equidad en cuanto a la inversión realizada por los prestadores del mismo, en relación a los usuarios; procurando que dicha prestación se brinde y reciba en condiciones que garanticen a las partes concurrentes en el mismo, una prestación adecuada y justa.
 
-CONSIDERANDO: Que la Ley de Transporte Terrestre, contenido en el Decreto No.155-2015 de fecha 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta” del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice, y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario.
+CONSIDERANDO: Que la Ley de Transporte Terrestre, contenido en el Decreto No. 155-2015 de fecha 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta” del 30 de Marzo de 2016, establece que el transporte terrestre remunerado, en vehículos automotores, constituye un servicio público del Estado, que podrá ser prestado directamente por éste o por personas naturales o jurídicas a quienes expresamente autorice, y que el servicio tendrá como finalidad, la eficiencia y economía en beneficio del usuario.
 
 CONSIDERANDO: Que la Ley de Transporte Terrestre de Honduras establece en su Artículo 68 que “Las tarifas del Transporte Terrestre deben cubrir la totalidad de los costos reales, en condiciones normales de productividad y eficiencia, deben permitir la amortización adecuada y un razonable beneficio empresarial”. Así mismo el Poder Ejecutivo puede establecer mecanismos económicos para mantener los costos de las tarifas en la medida que las condiciones económicas lo permitan.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que en fecha 12 de Abril del año 2022 se firmó un Acuerdo entre 
 
 CONSIDERANDO: Que en el Acuerdo precitado en el considerando precedente, los concesionarios se comprometieron a mejorar la calidad del servicio a favor de los usuarios mediante la certificación de los pilotos, colaboradores, así como el mejoramiento de las terminales, unidades de transporte, conservando las medidas de bioseguridad, con el apoyo del Instituto Hondureño de Transporte Terrestre (IHTT), como también la prestación continua del servicio.
 
-CONSIDERANDO: Que en dicho Acuerdo igualmente se establece que el Instituto Hondureño del Transporte Terrestre (IHTT) se compromete a revisar lo que actualmente se adeuda al sector transporte urbano del Distrito Central, de conformidad al Decreto No.129-2021, de fecha 23 de Diciembre del año 2021 y publicado en el Diario Oficial “La Gaceta” el 12 de Enero de 2022, Edición No.35,820, relativo a las reformas a los artículos 10, 10-A, 10-C y 10-G del Decreto No.100-2017, de fecha 27 de Septiembre de 2017.
+CONSIDERANDO: Que en dicho Acuerdo igualmente se establece que el Instituto Hondureño del Transporte Terrestre (IHTT) se compromete a revisar lo que actualmente se adeuda al sector transporte urbano del Distrito Central, de conformidad al Decreto No. 129-2021, de fecha 23 de Diciembre del año 2021 y publicado en el Diario Oficial “La Gaceta” el 12 de Enero de 2022, Edición No. 35,820, relativo a las reformas a los artículos 10, 10-A, 10-C y 10-G del Decreto No. 100-2017, de fecha 27 de Septiembre de 2017.
 
 CONSIDERANDO: Que el pago de la compensación económica provisional deberá realizarse mediante un mecanismo que promueva la transparencia y permita la determinación clara y precisa de los beneficiarios y los montos, que facilite la rendición de cuentas y liquidación de los fondos pagados por este concepto.
 
@@ -59,7 +59,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -77,7 +77,7 @@ Artículo anterior, y con la finalidad de realizar un correcto y transparente ma
 
 #### Artículo 3
 
-ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar los fondos establecidos en los artículos anteriores, con base en la modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022, en el marco del Decreto No.30-2022, de fecha 8 de Abril del año 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 8 de Abril del 2022, Edición No.35,894, Artículo 274-K, para que los mismos sean incorporados al presupuesto del Instituto Hondureño del Transporte Terrestre (IHTT).
+ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Finanzas (SEFIN), deberá identificar los fondos establecidos en los artículos anteriores, con base en la modificación del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2022, en el marco del Decreto No. 30-2022, de fecha 8 de Abril del año 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 8 de Abril del 2022, Edición No. 35,894, Artículo 274-K, para que los mismos sean incorporados al presupuesto del Instituto Hondureño del Transporte Terrestre (IHTT).
 
 #### Artículo 4
 

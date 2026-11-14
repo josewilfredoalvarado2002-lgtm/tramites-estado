@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 49-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230906-36327/download"
 extraido: "2026-11-14"
-huella: "66adab0fe64d6899"
+huella: "cebbc7cd4740af10"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2023
@@ -49,7 +49,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 205 Atribuci
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

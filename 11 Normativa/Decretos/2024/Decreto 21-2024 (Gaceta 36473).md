@@ -11,7 +11,7 @@ paginas: "A. 85 - 87"
 sumario: "Decretos Nos. 14-2024, 21-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240229-36473/download"
 extraido: "2026-11-14"
-huella: "7a66203a2f9b8476"
+huella: "63510105933131e3"
 ---
 <!-- portal:inicio -->
 # DECRETO No.21-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Constitución de la República en su
 
 Artículo 54 establece que “El Tribunal de Justicia Electoral está integrado por tres (3) magistrados propietarios y dos (2) suplentes, electos por mayoría calificada de al menos las dos terceras partes de la totalidad de los votos de los diputados que integran el Congreso Nacional, serán electos por un período de cinco (5) años, pudiendo ser reelectos…”.
 
-CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública, contenida en el Decreto No.170-2006 del 27 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Diciembre de 2006, en su Artículo 9 establece que “El Instituto de Acceso a la Información Pública (IAIP) estará integrado por tres (3) comisionados, electos por el Congreso Nacional, por las dos terceras partes de votos de la totalidad de sus miembros, escogidos de entre candidatos que se propongan así ...”.
+CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública, contenida en el Decreto No. 170-2006 del 27 de Noviembre de 2006, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Diciembre de 2006, en su Artículo 9 establece que “El Instituto de Acceso a la Información Pública (IAIP) estará integrado por tres (3) comisionados, electos por el Congreso Nacional, por las dos terceras partes de votos de la totalidad de sus miembros, escogidos de entre candidatos que se propongan así ...”.
 
 CONSIDERANDO: Que la Ley de Financiamiento, Transparencia y Fiscalización a Políticos y Candidatos, contenida en el Decreto No. 137-2016 del 2 de Noviembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, en su Artículo 9 establece que “Los Comisionados de la Unidad deben ser electos por el Congreso Nacional con la votación de las dos terceras (2/3) partes de los Diputados que lo integran, duran en el cargo seis (6) años y sólo pueden ser removidos por faltas graves mediante Decreto del Congreso Nacional cuando se comprobare plenamente, el incumplimiento o falta grave en el ejercicio de su cargo, tutelándoles las garantías del debido proceso …”.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -85,7 +85,7 @@ AGUILERA; y,
 
 Como Magistrados Propietarios del
 
-T R I B U N A L D E J U S T I C I A
+TRIBUNAL DE JUSTICIA
 
 ELECTORAL (TJE) en reemplazo de los Ex Magistrados ERNESTO PAZ AGUILAR (Q.E.P.D.) y GAUDY ALEJANDRA BUSTILLO MARTÍNEZ, respectivamente, en virtud de su ausencia definitiva. Estos nombramientos tienen efectos por el período restante del mandato de la actual autoridad del TRIBUNAL DE JUSTICIA ELECTORAL (TJE), a partir de la entrada en vigencia del presente Decreto.
 

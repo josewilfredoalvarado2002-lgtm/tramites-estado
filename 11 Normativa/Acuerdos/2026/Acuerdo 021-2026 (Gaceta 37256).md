@@ -11,7 +11,7 @@ paginas: "A. 13 - 15"
 sumario: "Acuerdos OPCE Nos. 017-2026, 0182026, 019-2026, 020-2026, 021-2026, 022-2026, 023-2026, 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "01eaf9545329c301"
+huella: "25d5fde0e50bbb10"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 021-2026
@@ -35,11 +35,7 @@ CONSIDERANDO: Que de conformidad con los Artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con los Artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No.
-
-168-2006 (COMIECO-XLIX), del 28 de julio de 2006, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 01.01.11:06 Cantidad de Producto en Preempacados, el cual fue posteriormente modificado por la Resolución No.
-
-291-2012 (COMIECO-LXII), del 14 de mayo de 2012, que introdujo ajustes específicos y consolido el texto íntegro del referido RTCA.
+CONSIDERANDO: Que mediante la Resolución No. 168-2006 (COMIECO-XLIX), del 28 de julio de 2006, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 01.01.11:06 Cantidad de Producto en Preempacados, el cual fue posteriormente modificado por la Resolución No. 291-2012 (COMIECO-LXII), del 14 de mayo de 2012, que introdujo ajustes específicos y consolido el texto íntegro del referido RTCA.
 
 CONSIDERANDO: Que mediante la Fe de Erratas emitidas por la Secretaría de Integración Económica Centroamericana (SIECA), del 5 de septiembre de 2012, se precisó que el texto correcto y completo del RTCA 01.01.11.06 es el contenido en el anexo de la Resolución No. 291-2012 (COMIECO-LXIII).
 
@@ -59,7 +55,7 @@ PRIMERO: Publicar de conformidad a lo establecido en el
 
 Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica mediante la Resolución No. 500-2026 (COMIECO-CXIII); que en la parte resolutiva “… RESUELVE: 1. Aprobar la adopción, por la República de Panamá, del Reglamento Técnico Centroamericano RTCA 01.01.11:06 Cantidad de Producto en Preempacados, aprobado mediante Resolución No. 168-2006 (COMIECO-XLIX), del 28 de julio de 2006 y sus reformas aprobadas mediante la Resolución No. 291-2012 (COMIECO LXII), del 14 de mayo de 2012, así como su correspondiente Fe de Erratas, del 5 de septiembre de 2012. 2. Para mayor certeza, el Anexo de la Resolución No. 291-2012 (COMIECOLXII), del 14 de mayo de 2012, que contiene el texto completo vigente del RTCA indicado en el numeral 1, aparece como Anexo de la presente Resolución. 3. La presente Resolución entrará en vigor el 26 de junio de 2027 y será publicadas por los Estados Parte…”.
 
-SEGUNDO: El texto integrado de la Resolución No. 500- 2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado de la Resolución No. 500-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial “La Gaceta” y en la página web de la Oficina Presidencial de Comercio Exterior.
 

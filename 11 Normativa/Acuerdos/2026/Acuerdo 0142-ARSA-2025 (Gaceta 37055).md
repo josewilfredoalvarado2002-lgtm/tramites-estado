@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "Acuerdos Nos. 0142-ARSA-2025, 0256-ARSA-2025, 0263-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260128-37055/download"
 extraido: "2026-11-09"
-huella: "e864536ddb924900"
+huella: "586d4e72ecb6a6a8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0142-ARSA-2025
@@ -49,9 +49,7 @@ POR TANTO:
 
 LA COMISIONADA PRESIDENTA DE LA AGENCIA
 
-DE REGULACIÓN SANITARIA, en uso de las facultades que está investida y los artículos 1, 59, 145, 146 y 321 de la Constitución de la República; 7 y 8 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria, 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo; 1, 4, 58, 69, 222, 223 y 224 del Código de Salud; 3 y 241, del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 6, 123 del Reglamento para el control sanitario de productos farmacéuticos y otros productos del ramo de interés sanitario; 3, 4, 91, Reglamento para el Control Sanitario de Alimentos y Bebidas; 33, 34, 77 del Reglamento para el control sanitario de dispositivos médicos y otros dispositivos de interés sanitario; 2, 3, 10, 62, 63, 64, 65, 68, Reglamento para la Vigilancia y Fiscalización Sanitaria; 1, 2, 3 inciso a) b), e) i), j), k), y l, 4, 5, 8, 9 y 10 del PCM No.
-
-032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria.
+DE REGULACIÓN SANITARIA, en uso de las facultades que está investida y los artículos 1, 59, 145, 146 y 321 de la Constitución de la República; 7 y 8 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria, 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo; 1, 4, 58, 69, 222, 223 y 224 del Código de Salud; 3 y 241, del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 6, 123 del Reglamento para el control sanitario de productos farmacéuticos y otros productos del ramo de interés sanitario; 3, 4, 91, Reglamento para el Control Sanitario de Alimentos y Bebidas; 33, 34, 77 del Reglamento para el control sanitario de dispositivos médicos y otros dispositivos de interés sanitario; 2, 3, 10, 62, 63, 64, 65, 68, Reglamento para la Vigilancia y Fiscalización Sanitaria; 1, 2, 3 inciso a) b), e) i), j), k), y l, 4, 5, 8, 9 y 10 del PCM No. 032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria.
 
 ACUERDA:
 

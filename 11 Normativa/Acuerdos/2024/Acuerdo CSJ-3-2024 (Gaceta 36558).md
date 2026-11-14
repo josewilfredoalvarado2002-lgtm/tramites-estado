@@ -11,7 +11,7 @@ paginas: "A. 5 - 15"
 sumario: "Acuerdos Nos. CSJ-2-2024, CSJ-3-2024,Auto Acordados"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240612-36558/download"
 extraido: "2026-11-14"
-huella: "945492667ff9098e"
+huella: "30595509d979459c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-3-2024
@@ -27,7 +27,7 @@ huella: "945492667ff9098e"
 
 ## Texto
 
-C E R T I F I C A C I Ó N
+CERTIFICACIÓN
 
 La Infrascrita Secretaria General de la Corte Suprema de Justicia, CERTIFICA: El acuerdo que literalmente dice:
 
@@ -57,7 +57,7 @@ El Pleno de la Corte Suprema de Justicia Parte Considerativa
 
 Parte Dispositiva La Corte Suprema de Justicia, por mayoría de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos 1, 59, 145, 313 numerales 1, 11 y 12; 321 y, 346 de la Constitución de la República; artículos:
 
-A c u e r d a Primero: Modificar la competencia objetiva del Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, para conocer de todas las etapas del proceso penal, con base en lo regulado en el Código Procesal Penal de los Ilícitos contenidos en el Código Penal, Decreto Legislativo No 130-2017, bajo el Título XVI de Delitos contra el Medio Ambiente, Título XVIII de Delitos Urbanísticos y Título XIX de Delitos contra el Patrimonio Cultural, indistintamente si los ilícitos sean cometidos por Grupos Delictivos Organizados y/o Grupos Estructurados. Los delitos conexos con los anteriormente mencionados, según las reglas de conexión que establece el Código Procesal Penal.
+Acuerda Primero: Modificar la competencia objetiva del Circuito Judicial con Competencia Nacional en Materia de Criminalidad Organizada y Corrupción, para conocer de todas las etapas del proceso penal, con base en lo regulado en el Código Procesal Penal de los Ilícitos contenidos en el Código Penal, Decreto Legislativo No 130-2017, bajo el Título XVI de Delitos contra el Medio Ambiente, Título XVIII de Delitos Urbanísticos y Título XIX de Delitos contra el Patrimonio Cultural, indistintamente si los ilícitos sean cometidos por Grupos Delictivos Organizados y/o Grupos Estructurados. Los delitos conexos con los anteriormente mencionados, según las reglas de conexión que establece el Código Procesal Penal.
 
 Segundo: Reformar por adición el nombre del circuito y del ítem segundo del Acuerdo No. CSJ-08-2023 aprobado en fecha 23 de junio de 2023 por el Pleno de la Corte Suprema de Justicia sobre la competencia del Circuito Judicial con Competencia NacIonal en Materia de Criminalidad Organizada, Medio Ambiente y Corrupción y publicado en Diario Oficial La Gaceta No. 36,334 de 14 de septiembre de 2023, agregando en su numerales 1 sobre la Competencia Objetiva y 2 sobre la Competencia Territorial, que en delante debe leerse de la siguiente manera:
 
@@ -161,7 +161,7 @@ IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL
 
 Poder Judicial
 
-AUTO ACORDADO C E R T I F I C A C I Ó N
+AUTO ACORDADO CERTIFICACIÓN
 
 La infrascrita, Secretaria General de la Corte Suprema de Justicia, CERTIFICA: El AUTO ACORDADO que literalmente dice:
 
@@ -177,7 +177,7 @@ Considerando (3): En vigencia el Código Procesal Civil, la experiencia acumulad
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos 1, 59, 313 numerales 1, 11 y 12; y 321 de la Constitución de la República:
 
-R e s u e l v e Primero: Modificar la Circular No 01 de fecha 25 de junio de 2009, emitida por la Sala de lo Civil de la Corte Suprema de Justicia en su numeral segundo literal d), respecto al plazo relacionado, la cual deberá leerse de la siguiente forma:
+Resuelve Primero: Modificar la Circular No 01 de fecha 25 de junio de 2009, emitida por la Sala de lo Civil de la Corte Suprema de Justicia en su numeral segundo literal d), respecto al plazo relacionado, la cual deberá leerse de la siguiente forma:
 
 “d) El plazo de contestación a las demandas promovidas en materia No Dispositiva será de quince (15) días hábiles, contados al día siguiente de efectuarse válidamente el acto de comunicación”.
 
@@ -189,7 +189,7 @@ IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL
 
 Poder Judicial
 
-AUTO ACORDADO C E R T I F I C A C I Ó N
+AUTO ACORDADO CERTIFICACIÓN
 
 La infrascrita, Secretaria General de la Corte Suprema de Justicia, CERTIFICA: El AUTO ACORDADO que literalmente dice:
 
@@ -223,7 +223,7 @@ Considerando (6): Que, en adición a lo anterior: El advenimiento de la pandemia
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos: 313 numerales 1, 11 y 12 de la Constitución de la República; y, artículo 6 numerales 1, 11 y 12 del Reglamento Interior de la Corte Suprema de Justicia:
 
-R e s u e l v e Primero: Las partes procesales en la substanciación de procesos en materia del trabajo, en la interposición de toda demanda o recurso, deberán expresar el número telefónico, correo electrónico o el medio técnico que le permita recibir comunicaciones directas del Tribunal. Asimismo, en la siguiente audiencia las partes deben consignar los medios técnicos para su notificación o pudiéndolos requerir en el plazo de tres días para esta finalidad.
+Resuelve Primero: Las partes procesales en la substanciación de procesos en materia del trabajo, en la interposición de toda demanda o recurso, deberán expresar el número telefónico, correo electrónico o el medio técnico que le permita recibir comunicaciones directas del Tribunal. Asimismo, en la siguiente audiencia las partes deben consignar los medios técnicos para su notificación o pudiéndolos requerir en el plazo de tres días para esta finalidad.
 
 Segundo: Instruir a los Juzgados y Tribunales de la República competentes en materia del Trabajo, para que procedan a realizar las notificaciones de las resoluciones de las partes por tabla de avisos, en acatamiento del artículo 719 del Código de Trabajo, y de forma complementaria y simultánea, por medio de los presupuestos procesales señalados en el artículo 137 inciso b) del Código Procesal Civil para la notificación de la resolución.
 
@@ -239,9 +239,7 @@ Cuarto: En la notificación para las partes procesales tanto en tabla de aviso c
 
 Quinta: Ordenar a la Dirección Administrativa y a la Dirección de Infotecnología realizar los ajustes necesarios para la dotación del equipo y suministros requerido para el eficaz cumplimiento de esta disposición reglamentaria.
 
-Sexto: El presente Auto Acordado se emite en acatamiento a lo dispuesto en el Punto N°. 5 del Acta N°.
-
-7-2024 de la sesión celebrada en fecha 28 de mayo de 2024 por el Pleno de la Corte Suprema de Justicia.
+Sexto: El presente Auto Acordado se emite en acatamiento a lo dispuesto en el Punto N°. 5 del Acta N°. 7-2024 de la sesión celebrada en fecha 28 de mayo de 2024 por el Pleno de la Corte Suprema de Justicia.
 
 Séptimo: Que el presente Reglamento entrará en vigencia a partir del día siguiente de su publicación en el Diario Oficial La Gaceta, para sus efectos pertinentes; se ordena previamente que sea puesto en conocimiento de todos los funcionarios y servidores judiciales, así como de la población hondureña en general y divulgado en el Portal Web Institucional del Poder Judicial, para conocimiento público.
 

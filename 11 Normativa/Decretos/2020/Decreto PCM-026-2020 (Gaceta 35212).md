@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200327-35212/download"
 extraido: "2026-11-14"
-huella: "63e8ae41100bcd98"
+huella: "31d303e14c5d917d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-026-2020
@@ -47,7 +47,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013;
 
-Artículo 5 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Ejecutivo Número PCM-005- 2020, Decreto Ejecutivo Número PCM-021-2020 y Decreto Ejecutivo PCM-022-2020.
+Artículo 5 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020 y Decreto Ejecutivo PCM-022-2020.
 
 DECRETA:
 

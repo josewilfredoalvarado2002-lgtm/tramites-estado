@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo Ejecutivo No. 015-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210406-35563/download"
 extraido: "2026-11-14"
-huella: "b021d93b5827347b"
+huella: "165ec9db32fca206"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 015-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Presidente de la República tiene la administración gene
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 338 establece la obligación del Estado en la regulación y el fomento de las Cooperativas, las cuales son organizaciones privadas, sin fines de lucro, voluntariamente integradas por personas inspiradas en valores y principio de la filosofía cooperativista, en el esfuerzo propio y la ayuda mutua para lograr el mejoramiento socioeconómico y la satisfacción de necesidades colectivas e individuales para una calidad de vida humana.
 
-CONSIDERANDO: Que mediante Decreto No.65-87 de fecha siete de mayo de mil novecientos ochenta y siete se emitió la Ley de Cooperativas de Honduras, la cual fue posteriormente reformada mediante los Decretos Legislativos Nos. 174-2013 y 146-2019, con el propósito de dotar al sector cooperativo de un instrumento jurídico y debido a los cambios y retos que la misma globalización presenta, nos lleva a actualizarla en muchas de sus disposiciones para hacerla más eficaz.
+CONSIDERANDO: Que mediante Decreto No. 65-87 de fecha siete de mayo de mil novecientos ochenta y siete se emitió la Ley de Cooperativas de Honduras, la cual fue posteriormente reformada mediante los Decretos Legislativos Nos. 174-2013 y 146-2019, con el propósito de dotar al sector cooperativo de un instrumento jurídico y debido a los cambios y retos que la misma globalización presenta, nos lleva a actualizarla en muchas de sus disposiciones para hacerla más eficaz.
 
 CONSIDERANDO: Que el cooperativismo es un sistema económico social eficaz para el desarrollo de la nación, la dignidad humana, la equidad de género y de la juventud, el fortalecimiento de la democracia, la realización de la justicia social y la defensa de los valores, derechos humanos y el ambiente.
 
@@ -43,21 +43,19 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública ad
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 41 de la Ley de Procedimiento Administrativo, corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043 – 2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043 – 2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 
 El Presidente de la República, en uso de las facultades de que está investido y en aplicación de lo dispuesto en los
 
-Artículos 245 numeral 1, 11, 247 y 255 de la Constitución de la República; 116, 118 numeral 2, 119 numeral 2 y 122 de la Ley General de la Administración Pública; 32, 33 y 41 de la Ley de Procedimiento Administrativo; Decreto No.65-87 del 30 de abril de 1987 reformados mediante los Decretos No.174-2013 de fecha 1 de septiembre del año 2013 y el Decreto No. 146-2019 de fecha 4 de diciembre de 2019 y el Acuerdo Ejecutivo Número No.043-2020 publicado en el Diario Oficial La Gaceta en fecha 6 de octubre del 2020.
+Artículos 245 numeral 1, 11, 247 y 255 de la Constitución de la República; 116, 118 numeral 2, 119 numeral 2 y 122 de la Ley General de la Administración Pública; 32, 33 y 41 de la Ley de Procedimiento Administrativo; Decreto No. 65-87 del 30 de abril de 1987 reformados mediante los Decretos No. 174-2013 de fecha 1 de septiembre del año 2013 y el Decreto No. 146-2019 de fecha 4 de diciembre de 2019 y el Acuerdo Ejecutivo Número No. 043-2020 publicado en el Diario Oficial La Gaceta en fecha 6 de octubre del 2020.
 
 ACUERDA:
 
 PRIMERO: Reformar los artículos 1, 2, 9,10,11, 19, 49, 50, 51, 54, 55, 69, 71, 79, 87, 88, 109, 114-A, 133, 134, 166, 167, 187, 188, 190, 194, 196, 212, 221, 243, 244, 245 y 247 del Acuerdo No. 041-2014 que contiene el Reglamento de la Ley de Cooperativas de Honduras, los que deben leerse de la forma siguiente:
 
-“Artículo 1.- Objeto del Reglamento. El presente reglamento contiene las disposiciones complementarias necesarias para la aplicación de la Ley de Cooperativas de Honduras emitida mediante el Decreto No.65-87 del 30 de abril de 1987 y reformada mediante Decretos No.174-2013 de fecha 1 de septiembre del año 2013, publicado en el Diario Oficial La Gaceta No. 33,344 de fecha 01 de febrero del 2014 y Decreto No. 146-2019 de fecha 4 de diciembre de 2019 y publicado en el Diario Oficial La Gaceta No. 35,146 de fecha 11 de enero de 2020.” “ARTÍCULO 2.- DEFINICIONES. Salvo que expresamente se indique lo contrario se entiende por:
+“Artículo 1.- Objeto del Reglamento. El presente reglamento contiene las disposiciones complementarias necesarias para la aplicación de la Ley de Cooperativas de Honduras emitida mediante el Decreto No. 65-87 del 30 de abril de 1987 y reformada mediante Decretos No. 174-2013 de fecha 1 de septiembre del año 2013, publicado en el Diario Oficial La Gaceta No. 33,344 de fecha 01 de febrero del 2014 y Decreto No. 146-2019 de fecha 4 de diciembre de 2019 y publicado en el Diario Oficial La Gaceta No. 35,146 de fecha 11 de enero de 2020.” “ARTÍCULO 2.- DEFINICIONES. Salvo que expresamente se indique lo contrario se entiende por:
 
 a) Aportaciones…;
 
@@ -353,11 +351,9 @@ e) Libro de…;
 
 f) Libro Informativo de Registro de las Fundaciones de Cooperativas; y,
 
-g) Índice...” “Artículo 221.- Libro Informativo de Registro de las Fundaciones de Cooperativas. En el Libro de Registro de las fundaciones de las cooperativas, se debe registrar el nombre de la Fundación, la Cooperativa a la que pertenece, su Representante Legal y sus generales y el asiento de la inscripción del Registro correspondiente.” “Artículo 243.- El Catálogo de Cuentas Contables, ya emitido por El CONSUCOOP, puede reformarse, al que deben adecuar su contabilidad las organizaciones sometidas a su control.” “Artículo 244.- Liquidación de las cooperativas disueltas. Las cooperativas que se declaren disueltas de oficio, por no reescribirse en el término que señala el artículo 11 transitorio del Decreto No.174-2013 reformado por el Decreto No. 146-2019 y el Acuerdo de la Junta Directiva del CONSUCOOP, deben en su momento realizar su liquidación, con conocimiento del CONSUCOOP, bajo el procedimiento que establece el artículo 69 y 70 de la ley de Cooperativas.
+g) Índice...” “Artículo 221.- Libro Informativo de Registro de las Fundaciones de Cooperativas. En el Libro de Registro de las fundaciones de las cooperativas, se debe registrar el nombre de la Fundación, la Cooperativa a la que pertenece, su Representante Legal y sus generales y el asiento de la inscripción del Registro correspondiente.” “Artículo 243.- El Catálogo de Cuentas Contables, ya emitido por El CONSUCOOP, puede reformarse, al que deben adecuar su contabilidad las organizaciones sometidas a su control.” “Artículo 244.- Liquidación de las cooperativas disueltas. Las cooperativas que se declaren disueltas de oficio, por no reescribirse en el término que señala el artículo 11 transitorio del Decreto No. 174-2013 reformado por el Decreto No. 146-2019 y el Acuerdo de la Junta Directiva del CONSUCOOP, deben en su momento realizar su liquidación, con conocimiento del CONSUCOOP, bajo el procedimiento que establece el artículo 69 y 70 de la ley de Cooperativas.
 
-El CONSUCOOP debe publicar la declaración de disolución de la Cooperativas, con la advertencia que las mismas no están autorizadas para realizar actos cooperativos, así mismo, enviar dicha resolución treinta (30) días siguientes de su publicación al Ministerio Público, para los efectos de ley.” “Artículo 245.- Reelección a un Tercer Periodo. Los integrantes de Junta Directiva o Junta de Vigilancia que han ejercido sus cargos en dos periodos consecutivos a partir de la Reforma del Decreto Legislativo No.
-
-174-2013 y que aspiren a un tercer periodo deben someterse a la Asamblea General y de obtener las 2/3 partes de los votos de los cooperativistas presentes, continuarán en el ejercicio de sus funciones por un tercer periodo. De no obtener las 2/3 partes queda fuera del proceso y se debe abrir nuevamente las propuestas con otros candidatos.” “Artículo 247.- Excepción de Requisitos para Directivos. Para efectos de lo dispuesto en el artículo 28 numeral 6 en relación a la prohibición de no ser cónyuge o pariente entre sí, se exceptúa aquellas cooperativas que estén ubicadas en zonas o comunidades compuestas por familiares y/o que la membresía de la cooperativa sea el mínimo requerido en la ley, procurando siempre que los lazos sanguíneos y de afinidad más cercanos no queden en los principales cargos.”
+El CONSUCOOP debe publicar la declaración de disolución de la Cooperativas, con la advertencia que las mismas no están autorizadas para realizar actos cooperativos, así mismo, enviar dicha resolución treinta (30) días siguientes de su publicación al Ministerio Público, para los efectos de ley.” “Artículo 245.- Reelección a un Tercer Periodo. Los integrantes de Junta Directiva o Junta de Vigilancia que han ejercido sus cargos en dos periodos consecutivos a partir de la Reforma del Decreto Legislativo No. 174-2013 y que aspiren a un tercer periodo deben someterse a la Asamblea General y de obtener las 2/3 partes de los votos de los cooperativistas presentes, continuarán en el ejercicio de sus funciones por un tercer periodo. De no obtener las 2/3 partes queda fuera del proceso y se debe abrir nuevamente las propuestas con otros candidatos.” “Artículo 247.- Excepción de Requisitos para Directivos. Para efectos de lo dispuesto en el artículo 28 numeral 6 en relación a la prohibición de no ser cónyuge o pariente entre sí, se exceptúa aquellas cooperativas que estén ubicadas en zonas o comunidades compuestas por familiares y/o que la membresía de la cooperativa sea el mínimo requerido en la ley, procurando siempre que los lazos sanguíneos y de afinidad más cercanos no queden en los principales cargos.”
 
 SEGUNDO: Adicionar los artículos 114-A, 158-A, 248, 249 y 250 al Reglamento de la Ley de Cooperativas de Honduras, los que deben leerse de la forma siguiente:
 
@@ -375,7 +371,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 CARLOS ALBERTO MADERO ERAZO
 
-Secretario de Estado en el Despacho de Coordinación General de Gobierno Por Delegación del Presidente de la República Acuerdo Ejecutivo Número No.043-2020 Publicado en el Diario Oficial La Gaceta de fecha 6 de octubre del 2020 MARIA ANTONIA RIVERA Secretaria de Estado en el Despacho de Desarrollo Económico
+Secretario de Estado en el Despacho de Coordinación General de Gobierno Por Delegación del Presidente de la República Acuerdo Ejecutivo Número No. 043-2020 Publicado en el Diario Oficial La Gaceta de fecha 6 de octubre del 2020 MARIA ANTONIA RIVERA Secretaria de Estado en el Despacho de Desarrollo Económico
 
 ## Fuente
 

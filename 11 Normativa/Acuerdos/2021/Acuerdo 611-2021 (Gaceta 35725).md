@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "Acuerdo No. 611-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210922-35725/download"
 extraido: "2026-11-14"
-huella: "50b596a933a9a9de"
+huella: "26623105b4e31b02"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 611-2021
@@ -565,9 +565,7 @@ COMUNÍQUESE Y PUBLÍQUESE, LOLIS MARIA SALAS MONTES DIRECTORA EJECUTIVA AMIRA D
 
 ACUERDO SEN-031-2021 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
@@ -583,9 +581,7 @@ ACUERDA:
 
 PRIMERO: Delegar a la Licenciada GLORIA DOLORES ALVARENGA GONZALEZ en el periodo comprendido del uno (01) de septiembre de dos mil veintiuno (2021) al uno
 
-(01) de septiembre de dos mil veintidós (2022), las funciones, potestades y atribuciones, comprendidas en el artículo 42 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contenido en Decreto Ejecutivo No.
-
-PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio de 1997).
+(01) de septiembre de dos mil veintidós (2022), las funciones, potestades y atribuciones, comprendidas en el artículo 42 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contenido en Decreto Ejecutivo No. PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio de 1997).
 
 SEGUNDO: Delegar asimismo durante el período antes indicado a la Licenciada GLORIA DOLORES ALVARENGA GONZALEZ, las funciones, potestades, atribuciones y responsabilidades que corresponden a la Dirección de Cooperación Externa de la Secretaría de Estado en el Despacho de Energía. En virtud de esta delegación y durante su vigencia, la delegada efectuará la coordinación de trabajo con el recurso humano asignado a la Dirección de Cooperación Externa.
 

@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "55ed7f6623c366e4"
+huella: "17f854809fc5d664"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 100-2026
@@ -29,7 +29,7 @@ huella: "55ed7f6623c366e4"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.120-93, publicado en el Diario Oficial “La Gaceta” No. 27,138 de fecha 2 de Septiembre del año 1993, contentiva a la Ley Orgánica de la Empresa de Correos de Honduras, que mediante su Artículo 1, crea esta Empresa del Estado de Honduras, como “una institución pública con personalidad jurídica y patrimonio propio, con independencia funcional y administrativa, de duración indefinida”.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 120-93, publicado en el Diario Oficial “La Gaceta” No. 27,138 de fecha 2 de Septiembre del año 1993, contentiva a la Ley Orgánica de la Empresa de Correos de Honduras, que mediante su Artículo 1, crea esta Empresa del Estado de Honduras, como “una institución pública con personalidad jurídica y patrimonio propio, con independencia funcional y administrativa, de duración indefinida”.
 
 CONSIDERANDO: Que el servicio postal constituye un servicio público esencial que contribuye a la integración territorial, al desarrollo económico y a la comunicación entre los ciudadanos, siendo responsabilidad del Estado garantizar su funcionamiento en todo el territorio nacional.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

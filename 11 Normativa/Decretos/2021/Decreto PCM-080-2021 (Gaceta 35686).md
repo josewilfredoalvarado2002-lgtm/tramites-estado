@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210813-35686/download"
 extraido: "2026-11-14"
-huella: "4121e6648ca2200f"
+huella: "02576825ebe426ff"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-080-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la Sociedad EMPRESA
 
 HONDUREÑA DE INFRAESTRUCTURA Y SERVICIOS
 
-AEROPORTUARIOS, S.A. (EHISA) se encuentra legalmente constituida en Escritura Pública autorizada en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el día 4 de septiembre del año 2020 e inscrita bajo Matrícula Número 2581862, Inscripción en el Libro de Registro 61304 del Registro Mercantil de Francisco Morazán y que la misma en aplicación del numeral 5) del Artículo 14 reformado de la Ley General de la Administración Pública, coadyuva con el Estado de Honduras, como organismo de derecho/ privado auxiliar de la Administración Pública, con la gestión, operación y mantenimiento de los Aeropuertos Internacionales de la República y ha suscrito con la Secretaría de Estado en el Despacho de Infraestructura y Servicios Públicos (INSEP) un Contrato de Gestión, Administración y Operación de los Aeropuertos Internacionales “GOLOSÓN” (LA CEIBA), “JUAN MANUEL GÁLVEZ” (ROATÁN) y “RAMÓN VILLEDA MORALES” (SAN PEDRO SULA), a fin de asegurar la continuidad en las operaciones de los mismos, a partir de la fecha de vencimiento de la concesión otorgada a la Sociedad Mercantil denominada INTERAIRPORTS, S.A., la cual fue aprobada mediante Decreto Legislativo No. 46-2000 y publicada en el Diario Oficial “La Gaceta”, edición No.29,211 en fecha 30 de junio del 2000; contrato de concesión que se otorgó por un plazo de 20 años y que tuvo su vencimiento el pasado 28 de septiembre del año 2020.
+AEROPORTUARIOS, S.A. (EHISA) se encuentra legalmente constituida en Escritura Pública autorizada en la Ciudad de Tegucigalpa, Municipio del Distrito Central, el día 4 de septiembre del año 2020 e inscrita bajo Matrícula Número 2581862, Inscripción en el Libro de Registro 61304 del Registro Mercantil de Francisco Morazán y que la misma en aplicación del numeral 5) del Artículo 14 reformado de la Ley General de la Administración Pública, coadyuva con el Estado de Honduras, como organismo de derecho/ privado auxiliar de la Administración Pública, con la gestión, operación y mantenimiento de los Aeropuertos Internacionales de la República y ha suscrito con la Secretaría de Estado en el Despacho de Infraestructura y Servicios Públicos (INSEP) un Contrato de Gestión, Administración y Operación de los Aeropuertos Internacionales “GOLOSÓN” (LA CEIBA), “JUAN MANUEL GÁLVEZ” (ROATÁN) y “RAMÓN VILLEDA MORALES” (SAN PEDRO SULA), a fin de asegurar la continuidad en las operaciones de los mismos, a partir de la fecha de vencimiento de la concesión otorgada a la Sociedad Mercantil denominada INTERAIRPORTS, S.A., la cual fue aprobada mediante Decreto Legislativo No. 46-2000 y publicada en el Diario Oficial “La Gaceta”, edición No. 29,211 en fecha 30 de junio del 2000; contrato de concesión que se otorgó por un plazo de 20 años y que tuvo su vencimiento el pasado 28 de septiembre del año 2020.
 
 CONSIDERANDO: Que es de interés nacional mantener los niveles óptimos de seguridad aeroportuaria.
 
@@ -55,9 +55,7 @@ CONSIDERANDO: Que el Aeropuerto Internacional “GOLOSÓN” (LA CEIBA) requiere
 
 CONSIDERANDO: Que a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) y la EMPRESA HONDUREÑA DE INFRAESTRUCTURA Y SERVICIOS AEROPORTUARIOS, S.A. (EHISA) han identificado la necesidad de inversión en el Aeropuerto Internacional “GOLOSÓN” de La Ceiba, en obras de logística e infraestructura como pavimentación de la pista aérea, la construcción de una Plataforma para Soporte de Aeronaves Clase E de 251 Toneladas, construcción de Sanitarios para Pasajeros y mejoras en área de llegadas internacionales y en los Mostradores de Líneas Aéreas, Acondicionamiento de Espacio para la Aduana Aérea y la Adquisición de un vehículo UCI para CAT 7 SSEI para contingencias de emergencias en la pista aérea.
 
-CONSIDERANDO que según Decreto Legislativo No.
-
-141-2014, publicado en el Diario Oficial “La Gaceta”, edición No. 33,696 en fecha 31 de marzo de 2015: Se Autoriza el funcionamiento de los aeródromos en las ciudades de: Choluteca, Departamento de Choluteca; Gracias, Departamento de Lempira; Río Amarillo, municipio de Santa Rita, Departamento de Copán; El Aguacate, Departamento de Olancho; Tela, Departamento de Atlántida; Trujillo, Departamento de Colón; Utila y Guanaja, Departamento de Islas de la Bahía; los cuales darán servicios de acuerdo a lo establecido por la Agencia Hondureña de Aeronáutica Civil y las Secretarías de Estado en los Despachos de Defensa Nacional y Seguridad.
+CONSIDERANDO que según Decreto Legislativo No. 141-2014, publicado en el Diario Oficial “La Gaceta”, edición No. 33,696 en fecha 31 de marzo de 2015: Se Autoriza el funcionamiento de los aeródromos en las ciudades de: Choluteca, Departamento de Choluteca; Gracias, Departamento de Lempira; Río Amarillo, municipio de Santa Rita, Departamento de Copán; El Aguacate, Departamento de Olancho; Tela, Departamento de Atlántida; Trujillo, Departamento de Colón; Utila y Guanaja, Departamento de Islas de la Bahía; los cuales darán servicios de acuerdo a lo establecido por la Agencia Hondureña de Aeronáutica Civil y las Secretarías de Estado en los Despachos de Defensa Nacional y Seguridad.
 
 CONSIDERANDO: Que es necesario impulsar el desarrollo de la infraestructura aeroportuaria de Honduras a fin de generar polos de desarrollo que conlleven el bienestar general de la población para lo cual se debe reactivar los aeródromos de Honduras.
 

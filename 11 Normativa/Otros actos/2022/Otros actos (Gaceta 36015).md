@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SEN-119-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220830-36015/download"
 extraido: "2026-11-14"
-huella: "d54c3b222f5468a9"
+huella: "f358486aa6d2a97a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SEN-119-2022
@@ -41,9 +41,7 @@ CONSIDERANDO: Que el Artículo 2 literal “a” del Decreto Ejecutivo No. PCM-0
 
 (SEN) como: a) Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad.
 
-CONSIDERANDO: Que mediante el Acuerdo Ministerial N°.
-
-SEN-001-2020 publicado en fecha 29 de enero del 2020 en el Diario Oficial La Gaceta, se establecen los requisitos jurídicos y técnicos que regulan las figuras y permisos bajo las cuales se registran y operan las personas naturales o jurídicas cuya actividad económica directa o indirectamente está relacionada con la cadena de comercialización de hidrocarburos.
+CONSIDERANDO: Que mediante el Acuerdo Ministerial N°. SEN-001-2020 publicado en fecha 29 de enero del 2020 en el Diario Oficial La Gaceta, se establecen los requisitos jurídicos y técnicos que regulan las figuras y permisos bajo las cuales se registran y operan las personas naturales o jurídicas cuya actividad económica directa o indirectamente está relacionada con la cadena de comercialización de hidrocarburos.
 
 CONSIDERANDO: Que es deber del Estado, a través de la Secretaría de Estado en el Despacho de Energía, Institución rectora del sector energético nacional y de la integración energética regional e internacional: la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados de petróleo.
 
@@ -53,7 +51,7 @@ POR TANTO: En aplicación de los artículos: 247, 248 de la Constitución de la 
 
 ACUERDA:
 
-REFORMAS AL ACUERDO MINISTERIAL SEN-001- 2020 PUBLICADO EN FECHA 29 DE ENERO DEL 2020 EN EL DIARIO OFICIAL LA GACETA
+REFORMAS AL ACUERDO MINISTERIAL SEN-001-2020 PUBLICADO EN FECHA 29 DE ENERO DEL 2020 EN EL DIARIO OFICIAL LA GACETA
 
 #### Artículo 1
 

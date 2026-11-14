@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200818-35346/download"
 extraido: "2026-11-14"
-huella: "214a06768bb3fe38"
+huella: "686bcdd72fbcf8b0"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,7 +35,7 @@ ACUERDO C.D. SENASA No. 003-2020 Tegucigalpa, M.D.C., 6 de agosto, 2020 EL CONSE
 
 CONSIDERANDO: Que de conformidad con lo establecido en el artículo No. 28 de la Ley General de Administración Pública, corresponde al Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), la formulación, coordinación, ejecución y evaluación de las políticas sobre producción, conservación y comercialización de alimentos; la modernización de la agricultura y la ganadería, la pesca, la acuicultura, la apicultura y la sanidad animal, entre otras atribuciones.
 
-CONSIDERANDO: Que es función del Estado proteger y preservar el patrimonio agropecuario nacional, mediante Sección A Decretos y Acuerdos SERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA SAG-SENASA Acuerdos números C.D. SENASA 003-2020, 004-2020, Acuerdo No. SENASA-15-2020 A. 1- 20 el establecimiento de normas técnicas, administrativas y jurídicas que contribuyan a este fin.
+CONSIDERANDO: Que es función del Estado proteger y preservar el patrimonio agropecuario nacional, mediante Sección A Decretos y Acuerdos SERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA SAG-SENASA Acuerdos números C.D. SENASA 003-2020, 004-2020, Acuerdo No. SENASA-15-2020 A. 1-20 el establecimiento de normas técnicas, administrativas y jurídicas que contribuyan a este fin.
 
 CONSIDERANDO: Que para mejorar la competitividad de los sectores productivos nacionales y facilitar las exportaciones de productos agropecuarios, se requiere incrementar la eficiencia y eficacia en la prestación de los servicios de sanidad agroalimentaria, de tal forma que el creciente intercambio comercial de esos productos se efectúe cumpliendo con las normas nacionales e internacionales.
 

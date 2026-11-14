@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Acuerdo No. SAG-007-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250318-36793/download"
 extraido: "2026-11-12"
-huella: "10c68e96a9955603"
+huella: "ea27abace801a0d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-007-2025
@@ -61,7 +61,7 @@ CONSIDERANDO: Que el artículo 116 de la Ley General de la Administración Públ
 
 CONSIDERANDO: Que de conformidad con el artículo 8 de la Ley de Transparencia y Acceso a la Información Pública, el Instituto de Acceso a la Información Pública (IAIP) es el órgano de la Administración Pública encargado de regular y supervisar los procedimientos de las instituciones obligadas, en cuanto a la protección, clasificación y custodia de la información pública.
 
-CONSIDERANDO: Que mediante Acuerdo Nro. 002- 2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la Clasificación y Desclasificación de la información como Reservada por las instituciones obligadas, según la Ley de Transparencia y Acceso a la Información Pública.
+CONSIDERANDO: Que mediante Acuerdo Nro. 002-2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la Clasificación y Desclasificación de la información como Reservada por las instituciones obligadas, según la Ley de Transparencia y Acceso a la Información Pública.
 
 CONSIDERANDO: Que tanto la Ley de Transparencia y Acceso a la Información Pública como su reglamento, al igual que los precitados Lineamientos, establecen que las Instituciones Obligadas, por razón de su naturaleza y especialidad, podrán expedir criterios específicos de clasificación, de conformidad con lo previsto en el artículo 28 del Reglamento de la Ley de Transparencia y Acceso a la Información Pública.
 
@@ -79,7 +79,7 @@ CONSIDERANDO: Que el artículo 255 de la Constitución de la República instaura
 
 POR TANTO
 
-El Gerente General de la Empresa Hondureña de Telecomunicaciones (HONDUTEL), en uso de las facultades de que está investido y en aplicación de los artículos: 255 de la Constitución de la República; 6, 8 , 48 y 54 de la Ley General de la Administración Pública; 3 numeral 6), 7), 9);
+El Gerente General de la Empresa Hondureña de Telecomunicaciones (HONDUTEL), en uso de las facultades de que está investido y en aplicación de los artículos: 255 de la Constitución de la República; 6, 8, 48 y 54 de la Ley General de la Administración Pública; 3 numeral 6), 7), 9);
 
 16, 17 numerales 2), 4) y 5), 18, 19, 24 y 25 de la Ley de Transparencia y Acceso a la Información Pública; artículo 4 numerales 1) y 15), 24, 25, 26, 27, 28, 31, 33, 42, 43, 47, 50 del Reglamento de su ejecución; 9, 11 y 12 del Acuerdo 002-2010 del IAIP contentivo de los Lineamientos Generales para la Clasificación y Desclasificación como Reservada; y demás legislación aplicable;
 
@@ -95,7 +95,7 @@ IP PÚBLICAS; ya que la publicación de dicha información pone en riesgo la vid
 
 Artículo 16 numeral 2), Artículo 17 numeral 2) de la Ley de Transparencia y Acceso a la Información Pública y 25 de su Reglamento.- La reserva de dicha información será por un plazo de 10 años.
 
-3. INFORMES DE BENCHMARKING Y ARPU Y OTROS VINCULADOS CON ESTRATEGIAS DE MERCADEO, COMERCIALIZACIÓN Y FIDELIZACIÓN COMO TARIFAS ESPECIALES Y PROMOCIONES APLICADAS A CLIENTES CORPORATIVOS, ALIANZAS C O M E R C I A L E S E S T R A T É G I C A S , COMISIONES POR VENTAS OTORGADAS A DISTRIBUIDORES DE TELECARD Y R E C A R G A S E L E C T R Ó N I C A S , ESTRATEGIAS INSTITUCIONALES ESPECÍFICAS PARA EL LOGRO DE METAS A CORTO, MEDIANO Y LARGO PLAZO.- DESCRIPCIÓN ESPECÍFICA DE ASPECTOS TÉCNICOS Y OPERATIVOS VINCULADOS A LA PRESTACIÓN DE LOS SERVICIOS DE TELECOMUNICACIONES; ya que la publicación de dicha información opera en menoscabo de los intereses comerciales legítimos de HONDUTEL, poniendo en riesgo la estabilidad económica, financiera o monetaria institucional y la conducción de las negociaciones y relaciones internacionales, ya que permitiría la competencia desleal por parte de los Operadores de Telecomunicaciones privados al hacerles posible el planteamiento de condiciones más ventajosas y atractivas en el mercado, que las ofrecidas por HONDUTEL.- Lo anterior con fundamento en el Artículo 17 numeral 5) y 6) de la Ley de Transparencia y Acceso a la Información Pública y 25 de su Reglamento. La reserva de dicha información será por un plazo de 10 años.
+3. INFORMES DE BENCHMARKING Y ARPU Y OTROS VINCULADOS CON ESTRATEGIAS DE MERCADEO, COMERCIALIZACIÓN Y FIDELIZACIÓN COMO TARIFAS ESPECIALES Y PROMOCIONES APLICADAS A CLIENTES CORPORATIVOS, ALIANZAS COMERCIALES ESTRATÉGICAS, COMISIONES POR VENTAS OTORGADAS A DISTRIBUIDORES DE TELECARD Y RECARGAS ELECTRÓNICAS, ESTRATEGIAS INSTITUCIONALES ESPECÍFICAS PARA EL LOGRO DE METAS A CORTO, MEDIANO Y LARGO PLAZO.- DESCRIPCIÓN ESPECÍFICA DE ASPECTOS TÉCNICOS Y OPERATIVOS VINCULADOS A LA PRESTACIÓN DE LOS SERVICIOS DE TELECOMUNICACIONES; ya que la publicación de dicha información opera en menoscabo de los intereses comerciales legítimos de HONDUTEL, poniendo en riesgo la estabilidad económica, financiera o monetaria institucional y la conducción de las negociaciones y relaciones internacionales, ya que permitiría la competencia desleal por parte de los Operadores de Telecomunicaciones privados al hacerles posible el planteamiento de condiciones más ventajosas y atractivas en el mercado, que las ofrecidas por HONDUTEL.- Lo anterior con fundamento en el Artículo 17 numeral 5) y 6) de la Ley de Transparencia y Acceso a la Información Pública y 25 de su Reglamento. La reserva de dicha información será por un plazo de 10 años.
 
 4. INVENTARIOS DE PRODUCTOS Y EQUIPOS COMERCIALES (TELECARD, DISPONIBILIDAD DE PUERTOS, EQUIPOS DSLAM, LÍNEAS TELEFÓNICAS, ETC.);
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdos Nos. 273-2020, 276-2020, 278-2020, 280-2020, 281-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201219-35464/download"
 extraido: "2026-11-14"
-huella: "28b8456c71bed811"
+huella: "cc1fa2ca4db31fc0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 276-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que nuestro marco legal vigente expresamente determina, que los ac
 
 CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo PCM-27-2014 de fecha 6 de junio del 2014, la Dirección de Niñez, Adolescencia y Familia (DINAF), será dirigida una o un Director Ejecutivo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo del Presidente en Consejo de Secretarios de Estado No. PCM- 027-2014, publicado en fecha 6 de junio de 2014, se crea la Direción de Niñez, Adolescencia y Familia (DINAF) como institución rectora de las políticas públicas y de la normativa nacional e internacional en materia de derechos de niñez y adolescencia en Honduras.
+CONSIDERANDO: Que mediante Decreto Ejecutivo del Presidente en Consejo de Secretarios de Estado No. PCM-027-2014, publicado en fecha 6 de junio de 2014, se crea la Direción de Niñez, Adolescencia y Familia (DINAF) como institución rectora de las políticas públicas y de la normativa nacional e internacional en materia de derechos de niñez y adolescencia en Honduras.
 
 CONSIDERANDO: Que es justo reconocer los méritos de quienes han legado al país, expresioncs que enorgullecen a todos los hondureños y hondureñas y que, por su vocación de servicio y valor público, se hayan hecho acreedores de una exaltación y reconocimiento amplio.
 

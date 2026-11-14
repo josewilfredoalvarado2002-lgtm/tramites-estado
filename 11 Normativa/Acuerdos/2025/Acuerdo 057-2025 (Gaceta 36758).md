@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo Número 057-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250205-36758/download"
 extraido: "2026-11-13"
-huella: "aa02df0f5ea43560"
+huella: "bd9cfbf810ee03fc"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 057-2025
@@ -79,7 +79,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los cuatro d
 
 CHRISTIAN DAVID DUARTE CHÁVEZ SECRETARIO DE ESTADO EN EL DESPACHO DE FINANZAS GERSSON ORLANDO SIERRA SECRETARIO GENERAL Avance Próxima Edición
 
-ACUERDA: I. Modificar los artículos 22 y 36 del Reglamento de Negociación de Valores Gubernamentales, contenidos en el Acuerdo No.04/2021 emitido por este Directorio el 20 de mayo de 2021.
+ACUERDA: I. Modificar los artículos 22 y 36 del Reglamento de Negociación de Valores Gubernamentales, contenidos en el Acuerdo No. 04/2021 emitido por este Directorio el 20 de mayo de 2021.
 
 CENTROS DE DISTRIBUCIÓN:
 

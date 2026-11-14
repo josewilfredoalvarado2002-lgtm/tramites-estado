@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decreto No. 11-2026, 47-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260411-37115/download"
 extraido: "2026-11-09"
-huella: "d8d3ba57ec443fbd"
+huella: "29d345367a04e729"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 47-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 9) de la Constitución de la República, corresponde al Congreso Nacional: Elegir para el período que corresponda y de la nómina de candidatos que le proponga la Junta Nominadora a que se refiere la Constitución a los Magistrados a la Corte Suprema de Justicia (CSJ).
 
-CONSIDERANDO: Que el Congreso Nacional de la República eligió a la actual Corte Suprema de Justicia (CSJ) en el Decreto Legislativo No.2-2023 por un período de siete (7) años, habiendo tomado en consideración la nómina presentada por la Honorable Junta Nominadora.
+CONSIDERANDO: Que el Congreso Nacional de la República eligió a la actual Corte Suprema de Justicia (CSJ) en el Decreto Legislativo No. 2-2023 por un período de siete (7) años, habiendo tomado en consideración la nómina presentada por la Honorable Junta Nominadora.
 
 CONSIDERANDO: Que el 25 de Marzo de 2026, la Magistrada Rebeca Lizette Ráquel Obando, presentó su Renuncia del cargo de Presidenta de la Corte Suprema de Justicia (CSJ), la cual fue aprobada por el Congreso Nacional, como Órgano Constitucional competente según la Atribución contenida en el Artículo 205 Atribución 12) de concederles licencias y admitirles o no su renuncia y llenar las vacantes en caso de falta absoluta de alguna del Presidente, designados a la Presidencia de la República y a los demás funcionarios que elija el Congreso Nacional.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Elíjense al Abogado y Notario WAGNER VALLECILLO PAREDES como PRESIDENTE DE LA CORTE SUPREMA DE JUSTICIA a propuesta del Pleno de Magistrados, por el término restante por el que fue electa la actual Corte Suprema de Justicia (CSJ), con base en el Artículo 1 del Decreto No.2-2023.
+ARTÍCULO 1.- Elíjense al Abogado y Notario WAGNER VALLECILLO PAREDES como PRESIDENTE DE LA CORTE SUPREMA DE JUSTICIA a propuesta del Pleno de Magistrados, por el término restante por el que fue electa la actual Corte Suprema de Justicia (CSJ), con base en el Artículo 1 del Decreto No. 2-2023.
 
 #### Artículo 2
 

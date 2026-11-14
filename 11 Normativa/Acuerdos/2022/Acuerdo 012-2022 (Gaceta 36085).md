@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SETUR No. 012-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221124-36085/download"
 extraido: "2026-11-14"
-huella: "1c4565c5bab92cc3"
+huella: "91f313e4c28e0cb2"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETUR No. 012-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que mediante Acuerdo No. 32-2022 de fecha veintisiete (27) de ener
 
 POR TANTO LA SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO
 
-En uso de sus facultades de que fue investido por la Presidenta de la República mediante Acuerdo Ejecutivo 32- 2022 de fecha 27 de enero del año 2022, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República, 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+En uso de sus facultades de que fue investido por la Presidenta de la República mediante Acuerdo Ejecutivo 32-2022 de fecha 27 de enero del año 2022, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República, 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 
@@ -63,11 +63,11 @@ DECIMO SEGUNDO: Nombrar al ciudadano ANA YESSEL SAUCEDA ESPINAL, quien ostenta e
 
 DÉCIMO TERCERO: Nombrar a la ciudadana CARY YALEYSI HERNÁNDEZ VALLE, quien ostenta el cargo de OFICIAL DE SEGUIMIENTO Y MONITOREO DE PROCESOS del Instituto Hondureño de Turismo Modalidad permanente; y en el cargo de OFICIAL DE SEGUIMIENTO Y MONITOREO DE PROCESOS de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
 
-DÉCIMO CUARTO: Nombrar a la ciudadana IRIS MILENY CASTRO BORJAS, quien ostenta el cargo de AUXILIAR DE ALMACEN del Instituto Hondureño de Turismo Modalidad permanente ; y en el cargo de AUXILIAR DE ALMACEN de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
+DÉCIMO CUARTO: Nombrar a la ciudadana IRIS MILENY CASTRO BORJAS, quien ostenta el cargo de AUXILIAR DE ALMACEN del Instituto Hondureño de Turismo Modalidad permanente; y en el cargo de AUXILIAR DE ALMACEN de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
 
 DÉCIMO QUINTO: Nombrar a la ciudadana DIANA MARCELA FLORES VILLEDA, quien ostenta el cargo de JEFE DE RECURSOS HUMANOS del Instituto Hondureño de Turismo según Acuerdo No. 112-IHT-2022; y en el cargo de SUBGERENTE DE RECURSOS HUMANOS de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
 
-DÉCIMO SEXTO: Nombrar a la ciudadana JULISSA ESTEFANIA ÁVILA MEJIA, quien ostenta el cargo de OFICIAL DE ARCHIVO Y DESARROLLO ORGANIZACIONAL del Instituto Hondureño de Turismo según Acuerdo No. 115-IHT- 2022; y en el cargo de OFICIAL DE RECURSOS HUMANOS de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
+DÉCIMO SEXTO: Nombrar a la ciudadana JULISSA ESTEFANIA ÁVILA MEJIA, quien ostenta el cargo de OFICIAL DE ARCHIVO Y DESARROLLO ORGANIZACIONAL del Instituto Hondureño de Turismo según Acuerdo No. 115-IHT-2022; y en el cargo de OFICIAL DE RECURSOS HUMANOS de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
 
 DÉCIMO SÉPTIMO: Nombrar al ciudadano OMAR ALONZO MORALES PERDOMO, quien ostenta el cargo de JEFE DE PRESUPUESTO del Instituto Hondureño de Turismo, según Acuerdo No.-143-IHT-2022 y en el cargo de SUBGERENTE DE PRESUPUESTO de la Secretaría de Estado en el Despacho de TURISMO, cargo que desempeñará AD HONOREM.
 

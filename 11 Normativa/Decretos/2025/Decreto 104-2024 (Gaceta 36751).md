@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto No. 104-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250128-36751/download"
 extraido: "2026-11-13"
-huella: "3892fc22d9b10990"
+huella: "efda9432922a1f0e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 104-2024
@@ -29,7 +29,7 @@ huella: "3892fc22d9b10990"
 
 EL CONGRESO NACIONAL
 
-CONSIDERANDO: Que la Constitución de la República en el Artículo 39, establece “que todo hondureño deberá ser inscrito en el Registro Nacional de las Personas”, asimismo, señala en el Artículo 54, la existencia del Registro Civil, dependencia del Registro Nacional de las Personas (RNP) determinando su regulación mediante su ley especial contenida en el Decreto No.62 del 11 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, de fecha 15 de Mayo de 2004.
+CONSIDERANDO: Que la Constitución de la República en el Artículo 39, establece “que todo hondureño deberá ser inscrito en el Registro Nacional de las Personas”, asimismo, señala en el Artículo 54, la existencia del Registro Civil, dependencia del Registro Nacional de las Personas (RNP) determinando su regulación mediante su ley especial contenida en el Decreto No. 62 del 11 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, de fecha 15 de Mayo de 2004.
 
 CONSIDERANDO: Que el Documento Nacional de Identificación (DNI) es el medio que permite determinar la existencia de una persona y el ejercicio de sus derechos fundamentales y libertades civiles, originándose en el asiento del nacimiento de toda persona no humana, determinando su nacionalidad y creando el Sistema de Registro Civil del Estado para la actividad del gobierno, las personas y la sociedad.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

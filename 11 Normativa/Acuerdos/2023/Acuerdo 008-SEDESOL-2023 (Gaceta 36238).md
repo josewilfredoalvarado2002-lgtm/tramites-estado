@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Ministeriales No. 007-SEDESOL-2023, 008-SEDESOL-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230526-36238/download"
 extraido: "2026-11-14"
-huella: "99d179e1a7e50897"
+huella: "eb3d7d3cd1c9fa7a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 008-SEDESOL-2023
@@ -53,7 +53,7 @@ CONSIDERANDO: Que es de interés público que las instituciones y organismos del
 
 POR TANTO:
 
-En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Artículo 3 Decreto Legislativo Número 157- 2022 de fecha 12 de enero del 2023.
+En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Artículo 3 Decreto Legislativo Número 157-2022 de fecha 12 de enero del 2023.
 
 ACUERDA:
 

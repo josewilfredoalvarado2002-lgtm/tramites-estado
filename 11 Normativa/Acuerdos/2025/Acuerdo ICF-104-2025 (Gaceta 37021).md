@@ -11,7 +11,7 @@ paginas: "A. 10 - 15"
 sumario: "Acuerdo DE-090-2025,Acuerdos Institucionales No. ICF-104-2025, ICF-105-2025, ICF-106-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251217-37021/download"
 extraido: "2026-11-09"
-huella: "b7207d7cdab811b1"
+huella: "fd90451cdbbd3aa0"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-104-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de las microcuencas denominadas: Erapuca Quebradona, Cerro Suptal, Matasano, Cerro Negro, Peña Blanca, El Portillon, Nacho 1 y 2, Las Medidas 2, Gualtaya, Banderillas Agua Escondida, Las Peñas, El Jutal, Las Delicias Joya del Canelo, Azacualpa, El Copantillo, La Canteada y Campuca Celaque, las cuales se localizan en la jurisdicción de los Municipios de La Encarnación, Lucerna, La Fraternidad, San Jorge, Mercedes, San Marcos, Belén Gualcho, Sensenti, Cololaca y Gracias, Departamento de Ocotepeque y Lempira.
 

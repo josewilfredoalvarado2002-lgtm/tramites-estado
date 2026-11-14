@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Acuerdo No. 484-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230913-36333/download"
 extraido: "2026-11-14"
-huella: "d62ffd29f3c35615"
+huella: "4ed0e3135c928de1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 484-2023
@@ -27,7 +27,7 @@ huella: "d62ffd29f3c35615"
 
 ## Texto
 
-18 de agosto del 2023 El suscrito Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), mediante Acuerdo de Delegación No.479-2023, en uso de las facultades de que está investida y en aplicación de los Artículos: 1, 64, 82, 90, 146, 148, 321 de la Constitución de la República; 1, 41, 43, 45, 116, 118 y 122 de la Ley General de la Administración Pública; 1 y 2 de la Ley de la Agencia de Regulación Sanitaria;
+18 de agosto del 2023 El suscrito Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), mediante Acuerdo de Delegación No. 479-2023, en uso de las facultades de que está investida y en aplicación de los Artículos: 1, 64, 82, 90, 146, 148, 321 de la Constitución de la República; 1, 41, 43, 45, 116, 118 y 122 de la Ley General de la Administración Pública; 1 y 2 de la Ley de la Agencia de Regulación Sanitaria;
 
 30 del Reglamento Estructura Orgánica Regulación Sanitaria (ARSA).
 
@@ -111,7 +111,7 @@ CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, en su Artículo 19
 
 CONSIDERANDO: Que el Reglamento de Personal para los Miembros de las Fuerzas Armadas, en su Artículo 56 enuncia: “Los Caballeros y Damas Cadetes que cumplan satisfactoriamente con los requisitos exigidos por las Academias Militares para Oficiales, nacionales o extranjeras, serán ascendidos al grado de Subteniente o su equivalente”.
 
-CONSIDERANDO: Que el Reglamento de Ascenso de Oficiales, en su Artículo 10 enuncia: “REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE L A S A R M A S , C U E R P O S Y SERVICIOS, en su literal a) establece:
+CONSIDERANDO: Que el Reglamento de Ascenso de Oficiales, en su Artículo 10 enuncia: “REQUISITOS PARA SER DECLARADOS APTOS PARA EL ASCENSO A OFICIALES DE LAS ARMAS, CUERPOS Y SERVICIOS, en su literal a) establece:
 
 Ascenso al grado de Subteniente o su equivalente; haber aprobado satisfactoriamente los estudios de los Centros de Formación de Oficiales, en el país o en el extranjero.
 
@@ -167,9 +167,7 @@ POR TANTO:
 
 En aplicación a los Artículos 245 numeral 36, 274 y 290 de la Constitución de la República; Artículos 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas;
 
-Artículo 57 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta N°.
-
-005-2023 emitida en fecha 05 de julio del 2023 y Dictamen D=130(C-1)2023 de fecha 17 de julio del 2023.
+Artículo 57 del Reglamento de Personal para los Miembros de las Fuerzas Armadas; Artículo 10 del Reglamento de Ascenso para Oficiales de las Fuerzas Armadas; Acta N°. 005-2023 emitida en fecha 05 de julio del 2023 y Dictamen D=130(C-1)2023 de fecha 17 de julio del 2023.
 
 ACUERDA:
 

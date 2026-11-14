@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Números SAR-256-2024, SAR-283-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240708-36580/download"
 extraido: "2026-11-14"
-huella: "bcb409328f8932d7"
+huella: "57861301fdb3545d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-283-2024
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las at
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía, tendrá por base el interés público y social y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 

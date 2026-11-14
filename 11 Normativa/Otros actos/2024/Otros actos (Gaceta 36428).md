@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo CREE-140-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240108-36428/download"
 extraido: "2026-11-14"
-huella: "3fa34c198e542794"
+huella: "5b8542485711966f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-140-2023
@@ -41,7 +41,7 @@ Resultando:
 
 3. Que mediante el Acuerdo CREE-42-2021 de fecha 18 de agosto de 2021 la Comisión Reguladora de Energía Eléctrica (CREE) estableció la tasa de actualización real después de impuestos para las actividades de transmisión y distribución por un valor del 7%.
 
-4. Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante Acuerdo CREE-32-2023 de fecha 16 de marzo de 2023 aprobó los términos de referencia del proceso No. CPRI-CREE-01-2023 denominada “Consultoría para el Estudio para el Cálculo de tasas de Actualización según el artículo 19 de la Ley General de la Industria Eléctrica” bajo la modalidad de Concurso Privado Internacional. Lo anterior para actualizar el valor previamente establecido mediante el Acuerdo CREE-42- 2021.
+4. Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante Acuerdo CREE-32-2023 de fecha 16 de marzo de 2023 aprobó los términos de referencia del proceso No. CPRI-CREE-01-2023 denominada “Consultoría para el Estudio para el Cálculo de tasas de Actualización según el artículo 19 de la Ley General de la Industria Eléctrica” bajo la modalidad de Concurso Privado Internacional. Lo anterior para actualizar el valor previamente establecido mediante el Acuerdo CREE-42-2021.
 
 5. Que mediante Acuerdo CREE-52-2023 de fecha 15 de junio de 2023 la Comisión Reguladora de Energía Eléctrica (CREE) aprobó la adjudicación para el proceso No. CPRI-CREE-01-2023 denominada “Consultoría para el Estudio para el Cálculo de tasas de Actualización según el artículo 19 de la Ley General de la Industria Eléctrica” a favor de CONSORCIO EEC-M&S.
 
@@ -69,7 +69,7 @@ Resultando:
 
 Considerando:
 
-Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022.
+Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE) el Estado supervisará la operación del subsector eléctrico a través de la Comisión Reguladora de Energía Eléctrica (CREE).
 
@@ -201,7 +201,7 @@ La prima de riesgo crediticio se calcula como el promedio del spread de los bono
 
 (Para ser consistentes con el resto de las variables, el horizonte a considerar es 10 años, pero debido a la falta de información este período debió recortarse a 9 años)).
 
-Tabla 4 – Spread riesgo crediticio Año Spread AAA 2023 0,87% 2022 0,67% 2021 0,69% 2020 0,63% 2019 0,75% 2018 0,54% 2017 0,60% 2016 0,75% 2015 0,40% Fuente: Damodaran Stern NYU 𝑟𝑟𝑟𝑓𝑓𝑓𝑟𝑟𝑟𝑐𝑐𝑐 La serie de spreads publicada por Damodaran está disponible desde el año 2015, por lo tanto se consideró el período 2015- 2023, el promedio de spread de las empresas de la misma calificación crediticia que los bonos de los EE.UU es 0.66.
+Tabla 4 – Spread riesgo crediticio Año Spread AAA 2023 0,87% 2022 0,67% 2021 0,69% 2020 0,63% 2019 0,75% 2018 0,54% 2017 0,60% 2016 0,75% 2015 0,40% Fuente: Damodaran Stern NYU 𝑟𝑟𝑟𝑓𝑓𝑓𝑟𝑟𝑟𝑐𝑐𝑐 La serie de spreads publicada por Damodaran está disponible desde el año 2015, por lo tanto se consideró el período 2015-2023, el promedio de spread de las empresas de la misma calificación crediticia que los bonos de los EE.UU es 0.66.
 
 2.3.2 Costo de estructuración de la deuda Como resultado de la Audiencia Pública 06/2023 se recibió la observación de la necesidad de incluir como un componente de la tasa de costo de capital de terceros al costo de estructuración de la deuda, en virtud de que las instituciones devengan costos de estructuración y, además, exigen el mantenimiento de saldos de caja inmovilizados para reducir el riesgo de incobrabilidad ante potenciales deficiencias en el servicio de la deuda (“Cuentas de Reserva para el Servicio de la Deuda
 
@@ -235,13 +235,13 @@ Tabla 6 – Estructura de Capital Distribución País Brasil Colombia Panamá Gu
 
 IMP
 
-2017- 2021 Capital Propio 43,82% 58,20% 42,50% 42,00% 46,63% Capital Terceros 56,18% 41,80% 57,50% 58,00% 53,37% Fuente: Elaboración propia con base en Autoridades regulatorias de cada país Tabla 7 – Estructura de Capital Transmisión País Brasil Colombia Panamá Guatemal Documento/A ño AP 09/2019 Res.
+2017-2021 Capital Propio 43,82% 58,20% 42,50% 42,00% 46,63% Capital Terceros 56,18% 41,80% 57,50% 58,00% 53,37% Fuente: Elaboración propia con base en Autoridades regulatorias de cada país Tabla 7 – Estructura de Capital Transmisión País Brasil Colombia Panamá Guatemal Documento/A ño AP 09/2019 Res.
 
 004/2021
 
 IMP
 
-2017- 2021 Capital Propio 60,20% 58,20% 50,00% 42,00% 52,60% Capital Terceros 39,80% 41,80% 50,00% 58,00% 47,40% Con base en las tablas anteriores la estructura de capital a considerar es D/A 53.37% para la Distribución y D/A 47.40% para la transmisión de energía eléctrica.
+2017-2021 Capital Propio 60,20% 58,20% 50,00% 42,00% 52,60% Capital Terceros 39,80% 41,80% 50,00% 58,00% 47,40% Con base en las tablas anteriores la estructura de capital a considerar es D/A 53.37% para la Distribución y D/A 47.40% para la transmisión de energía eléctrica.
 
 2.5. Ajuste por expectativa de devaluación (teoría de arbitraje) Los cálculos desarrollados permiten determinar la tasa de actualización real en dólares ya que los principales parámetros fueron obtenidos a partir del mercado internacional, sin embargo, bajo el supuesto de paridad cambiaria (Purchasing Power Parity de ahora en adelante ppp), e integración perfecta de Honduras al mercado internacional, la tasa de actualización en moneda doméstica debe ser igual a la tasa de actualización en dólares. Si la expectativa es que en el período tarifario el supuesto de ppp se sostenga, entonces las tasas reales arbitran; si, por el contrario, la expectativa es que el país pase por un proceso de depreciación (apreciación) de su moneda, entonces el retorno real en Lempiras debe ser superior (menor) al retorno real en dólares.
 
@@ -293,7 +293,7 @@ Promedio (SP500 -
 
 UST-10).
 
-Período: 1928- 2022 Fuente:
+Período: 1928-2022 Fuente:
 
 Damodaran Costo Nominal del Capital Propio después de impuestos, en USD re rf+rc+β*pm 13.26% 11.60% Aplicación CAPM [%] Tabla 10 - Metodología Cálculo Costo de Capital de Terceros (Deuda) Sigla Fórmula Distribución Transmisión Fuente y Criterio (Deuda) rf 2.31% 2.31% Fuente: Rendimiento del UST10 (FED) Período: 10 años (nov 2013- nov 2023) Metodología: Media Aritmética Prima por Riesgo País 4.05% 4.05% Fuente: EMBI+ Honduras.
 

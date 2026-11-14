@@ -11,7 +11,7 @@ paginas: "A. 36 - 38"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "5ede9bd9037463d9"
+huella: "ff00edb641f7fe2c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 114-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ Para los años subsiguientes del actual período de gobierno, la Secretaría de 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Asignar a favor de “INTEGRAR, F U N D A C I Ó N S Í N D R O M E DE DOWN”, conocida como “FUNDACIÓN INTEGRAR”, una partida única y extraordinaria por la cantidad de SETECIENTOS CUARENTA MIL NOVECIENTOS DOCE LEMPIRAS CON NOVENTA Y CINCO CENTAVOS (L.740,912.95) en el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2027, recursos que serán destinados a proyectos de innovación terapéutica, mediante la implementación de programas de equino terapia, creación de cámara sensorial, equipamiento de aula digital, así como proyectos de construcción, mejoramiento y reparación de infraestructura institucional.
+ARTÍCULO 3.- Asignar a favor de “INTEGRAR, FUNDACIÓN SÍNDROME DE DOWN”, conocida como “FUNDACIÓN INTEGRAR”, una partida única y extraordinaria por la cantidad de SETECIENTOS CUARENTA MIL NOVECIENTOS DOCE LEMPIRAS CON NOVENTA Y CINCO CENTAVOS (L.740,912.95) en el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2027, recursos que serán destinados a proyectos de innovación terapéutica, mediante la implementación de programas de equino terapia, creación de cámara sensorial, equipamiento de aula digital, así como proyectos de construcción, mejoramiento y reparación de infraestructura institucional.
 
 La ejecución de los proyectos descritos en el presente artículo estará sujeta a la supervisión y acompañamiento técnico de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL).
 

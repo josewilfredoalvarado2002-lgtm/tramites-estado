@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Decretos Nos. 42-2025, 43-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250604-36855/download"
 extraido: "2026-11-10"
-huella: "7e7d1a8b05d971fa"
+huella: "ce694236d7b597c9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 42-2025
@@ -89,7 +89,7 @@ GENERALES 2025, hasta por un monto de UN MIL SETECIENTOS TREINTA Y SIETE MILLONE
 
 #### Artículo 2
 
-ARTÍCULO 2.- P R E S U P U E S T O D E L A S
+ARTÍCULO 2.- PRESUPUESTO DE LAS
 
 FUERZAS ARMADAS. Aprobar el
 
@@ -135,7 +135,7 @@ Se deberá publicar los procesos de licitación e invitar públicamente a provee
 
 \3) RECEPCIÓN Y APERTURA DE OFERTAS.
 
-Recibir las ofertas a través de la d e p e n d e n c i a a d m i n i s t r a t i v a correspondiente del Consejo Nacional Electoral (CNE), en sobre sellado.
+Recibir las ofertas a través de la dependencia administrativa correspondiente del Consejo Nacional Electoral (CNE), en sobre sellado.
 
 Asimismo, se realizará la apertura de ofertas de forma pública y se emitirá el acta correspondiente.
 
@@ -179,7 +179,7 @@ b. DISPENSA DE REGISTRO ONCAE.
 
 En los procesos contratación realizados por el Consejo Nacional Electoral (CNE), se eximirá a los oferentes nacionales y/o extranjeros del requerimiento de registro ante la Oficina Normativa de Contratación y Adquisiciones del Estado (ONCAE).
 
-c. T I P O S D E G A R A N T Í A S D E
+c. TIPOS DE GARANTÍAS DE
 
 CUMPLIMIENTO DE CONTRATO.
 
@@ -197,7 +197,7 @@ ARTÍCULO 9.- TRANSPARENCIA.- El Consejo Nacional Electoral (CNE) debe remitir a
 
 ARTÍCULO 10.- ADQUISICIONES MENORES.-
 
-Los procesos que por su cuantía sean considerados como adquisiciones menores, se ejecutarán conforme al Decreto No.4- 2025 contentivo del “PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2025.
+Los procesos que por su cuantía sean considerados como adquisiciones menores, se ejecutarán conforme al Decreto No. 4-2025 contentivo del “PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2025.
 
 #### Artículo 11
 

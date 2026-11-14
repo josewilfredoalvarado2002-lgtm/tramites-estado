@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo SAR No. 022-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210114-35487/download"
 extraido: "2026-11-14"
-huella: "9419f5f4895722dc"
+huella: "7cbf6542d18d20af"
 ---
 <!-- portal:inicio -->
 # ACUERDO SAR No. 022-2021
@@ -39,9 +39,7 @@ CONSIDERANDO: Que el Artículo 22 literal b) de la Ley del Impuesto Sobre la Ren
 
 CONSIDERANDO: Que el Artículo 22 párrafo segundo de la Ley de Impuesto Sobre la Renta establece que la escala de tasas progresivas será ajustada automáticamente de forma anual a partir de 2017 y se efectuará aplicando las variaciones interanuales de Índice de Precios al Consumidor (IPC), publicado por el Banco Central de Honduras (BCH) del año anterior.
 
-CONSIDERANDO: Que el Boletín de Prensa No.
-
-01/2021 emitido en fecha 07 de enero de 2021 por el Banco Central de Honduras, establece que la variación porcentual interanual del Índice de Precios al Consumidor
+CONSIDERANDO: Que el Boletín de Prensa No. 01/2021 emitido en fecha 07 de enero de 2021 por el Banco Central de Honduras, establece que la variación porcentual interanual del Índice de Precios al Consumidor
 
 (IPC) para el periodo 2021-2020 es de 4.01%.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos C.G. No. 026-2024, 027-2024, 028-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250113-36738/download"
 extraido: "2026-11-13"
-huella: "f2902a94868c4006"
+huella: "0f8a8c88d8820bd9"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.G. No. 026-2024, 027-2024, 028-2024
@@ -135,7 +135,7 @@ CONSIDERANDO (08): Que el Reglamento de Personal para los Miembros de las Fuerza
 
 CONSIDERANDO (09): Que el Reglamento de Ascenso para Oficiales de las Fuerzas Armadas de Honduras, en su artículo 10 establece los requisitos para ser declarados aptos para el ascenso a oficiales de las armas, cuerpos y servicios, haciendo referencia específica en el inciso a) Ascenso al grado de Subteniente o su equivalente: Haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero.
 
-CONSIDERANDO (10): Que el Consejo General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 05 de noviembre del 2024, mediante Acta No. 010- 2024, determinó solicitar a la señora Secretaria de Estado en el Despacho de Defensa Nacional, Abogada RIXI MONCADA GODOY, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, conferir el ascenso al grado de Subteniente en el Servicio de Material de Guerra al Alférez FRANCISCO JOSÉ MARTÍNEZ CRUZ, quien curso satisfactoriamente su formación como Oficial en la Universidad del Ejército y Fuerza Aérea de los Estados Unidos Mexicanos, cumpliendo con los requisitos exigidos por las Leyes y Reglamentos Militares.
+CONSIDERANDO (10): Que el Consejo General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 05 de noviembre del 2024, mediante Acta No. 010-2024, determinó solicitar a la señora Secretaria de Estado en el Despacho de Defensa Nacional, Abogada RIXI MONCADA GODOY, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, conferir el ascenso al grado de Subteniente en el Servicio de Material de Guerra al Alférez FRANCISCO JOSÉ MARTÍNEZ CRUZ, quien curso satisfactoriamente su formación como Oficial en la Universidad del Ejército y Fuerza Aérea de los Estados Unidos Mexicanos, cumpliendo con los requisitos exigidos por las Leyes y Reglamentos Militares.
 
 CONSIDERANDO (11): Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=206(C-1)2024 de fecha 06 de noviembre del 2024, RECOMIENDA a la señora Secretaria de Estado en el Despacho de Defensa Nacional, Abogada RIXI MONCADA GODOY, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir del 01 de septiembre del 2024, al grado de Subteniente en el Servicio de Material de Guerra al Alférez FRANCISCO JOSÉ MARTÍNEZ CRUZ, graduado en el extranjero y reconocerle antigüedad, salarios y demás derechos dejados de percibir desde el 11 de diciembre del 2022.
 
@@ -155,7 +155,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA ABOGADA RIXI MONCADA GODOY SECRETARIA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Avance Próxima Edición
 
-ACUERDA PRIMERO: Delegar en la abogada GLADYS ADASSA DONALDSON QUINTERO, con Documento Nacional de Identificación (DNI) número 1801- 1992-06720, quien se desempeña como Asistente Legal del Comisionado Presidente del TT del Instituto Hondureño del Transporte Terrestre (IHTT), con sede en la ciudad del Distrito Central, departamento de Francisco Morazán, las funciones correspondientes al Secretario General del IHTT, para que en base a la Ley de Procedimiento Administrativo pueda admitir y darle el trámites a las solicitudes presentadas en el IHTT, firmar Certificaciones, providencias, oficios, refrendar Resoluciones y demás funciones inherentes a la Secretaria General del IHTT. Cuya delegación surtirá efecto apartir del dos (2) de enero del año dos mil veinticinco (2025) y de manera indefinida.
+ACUERDA PRIMERO: Delegar en la abogada GLADYS ADASSA DONALDSON QUINTERO, con Documento Nacional de Identificación (DNI) número 1801-1992-06720, quien se desempeña como Asistente Legal del Comisionado Presidente del TT del Instituto Hondureño del Transporte Terrestre (IHTT), con sede en la ciudad del Distrito Central, departamento de Francisco Morazán, las funciones correspondientes al Secretario General del IHTT, para que en base a la Ley de Procedimiento Administrativo pueda admitir y darle el trámites a las solicitudes presentadas en el IHTT, firmar Certificaciones, providencias, oficios, refrendar Resoluciones y demás funciones inherentes a la Secretaria General del IHTT. Cuya delegación surtirá efecto apartir del dos (2) de enero del año dos mil veinticinco (2025) y de manera indefinida.
 
 CENTROS DE DISTRIBUCIÓN:
 

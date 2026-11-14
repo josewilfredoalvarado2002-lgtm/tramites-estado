@@ -11,7 +11,7 @@ paginas: "A. 52 - 54"
 sumario: "Decretos Ejecutivos Números. 01-2026, 02-2026, 03-2026, 04-2026, 05-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260206-37063/download"
 extraido: "2026-11-09"
-huella: "d7fb90b128cda9a2"
+huella: "4058253cb29c54fa"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 2-2026
@@ -33,11 +33,11 @@ CONSIDERANDO: Que la Constitución de la República establece en su Artículo 32
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 351 establece que, "El Sistema Tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente". Por lo cual y para garantizar un sistema tributario basado en el cumplimiento de estos principios, es necesario que las leyes tributarias reúnan criterios que no busquen únicamente financiar al Estado si no ser herramientas de políticas públicas que contribuyan efectivamente al desarrollo del país y, además, que sean aprobados por el Congreso Nacional.
 
-CONSIDERANDO: Que la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, contenida en el Decreto Legislativo No.278- 2013, en su Artículo 23 establece un plazo supletorio de doce
+CONSIDERANDO: Que la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, contenida en el Decreto Legislativo No. 278-2013, en su Artículo 23 establece un plazo supletorio de doce
 
 (12) años para gozar de los beneficios fiscales cuando la Ley que otorgue el mismo no establezca un plazo de duración.
 
-CONSIDERANDO: Que los beneficiarios que se acogieron al Régimen de Importación Temporal (RIT) y que gozaban de los beneficios al entrar en vigencia el Decreto Legislativo No.278-2013, concluyen su plazo de goce de beneficio de doce (12) años al 30 de diciembre del año 2025, requiriendo imperativamente ser ampliados dentro de plazos siempre específicos para seguir impulsando el crecimiento económico y la competitividad nacional.
+CONSIDERANDO: Que los beneficiarios que se acogieron al Régimen de Importación Temporal (RIT) y que gozaban de los beneficios al entrar en vigencia el Decreto Legislativo No. 278-2013, concluyen su plazo de goce de beneficio de doce (12) años al 30 de diciembre del año 2025, requiriendo imperativamente ser ampliados dentro de plazos siempre específicos para seguir impulsando el crecimiento económico y la competitividad nacional.
 
 CONSIDERANDO: Que el Régimen de Importación Temporal (RIT), constituye un régimen de incentivo fiscal que permite la importación temporal de bienes, maquinaria y equipos sin el pago de aranceles e impuestos, promoviendo sectores productivos estratégicos, por lo que su ampliación garantiza la continuidad de beneficios fiscales orientados a la inversión, el empleo y la competitividad.
 
@@ -57,7 +57,7 @@ DECRETA
 
 ARTÍCULO 1.- Ampliar por el término de cinco
 
-(5) períodos fiscales la vigencia de los beneficios e incentivos fiscales que concede el RÉGIMEN DE IMPORTACIÓN TEMPORAL (RIT), contenido en el Decreto No.37 del 20 de diciembre de 1984 y todas sus reformas, cuya vigencia se encuentra contenida en el Artículo 23 del Decreto No. 278-2013, que contiene la LEY DE ORDENAMIENTO DE LAS FINANZAS PÚBLICAS, CONTROL DE LAS EXONERACIONES Y MEDIDAS ANTIEVASIÓN, publicado en el Diario Oficial "La Gaceta" el 30 de diciembre del 2013.
+(5) períodos fiscales la vigencia de los beneficios e incentivos fiscales que concede el RÉGIMEN DE IMPORTACIÓN TEMPORAL (RIT), contenido en el Decreto No. 37 del 20 de diciembre de 1984 y todas sus reformas, cuya vigencia se encuentra contenida en el Artículo 23 del Decreto No. 278-2013, que contiene la LEY DE ORDENAMIENTO DE LAS FINANZAS PÚBLICAS, CONTROL DE LAS EXONERACIONES Y MEDIDAS ANTIEVASIÓN, publicado en el Diario Oficial "La Gaceta" el 30 de diciembre del 2013.
 
 #### Artículo 2
 

@@ -8,10 +8,10 @@ gaceta_numero: 36674
 gaceta_fecha: "2024-10-28"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36674 (2024-10-28)|La Gaceta 36674]]"
 paginas: "A. 1 - 8"
-sumario: "Decretos No. 98-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0633-ARSA-2023"
+sumario: "Decretos No. 98-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0633-ARSA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241028-36674/download"
 extraido: "2026-11-14"
-huella: "5b244c79c57f467d"
+huella: "5d3705db2dcd6a51"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 98-2024
@@ -23,7 +23,7 @@ huella: "5b244c79c57f467d"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36674 (2024-10-28)\|La Gaceta 36674]] del 2024-10-28 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Decretos No. 98-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0633-ARSA-2023 |
+| Según el sumario de La Gaceta | Decretos No. 98-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0633-ARSA-2023 |
 
 ## Texto
 
@@ -35,7 +35,7 @@ Banco Atlántida, con una participación de QUINIENTOS CINCUENTA Y SIETE MILLONE
 
 CONSIDERANDO: Que la Administración Municipal del Distrito Central correspondiente al período 2018-2022 suscribió en fecha 16 de Diciembre 2021, un Contrato de Préstamo por cuenta de la Empresa Unidad Municipal de Agua Potable y Saneamiento (UMAPS), con Banco Financiera Comercial Hondureña, S.A., (Banco FICOHSA), por valor de OCHOCIENTOS CINCUENTA MILLONES DE LEMPIRAS (L.850,000,000.00). Estos fondos fueron dispuestos por la administración anterior en el período comprendido del mes de Septiembre 2021 al mes de Enero 2022.
 
-CONSIDERANDO: Que la Administración Municipal del Distrito Central correspondiente a los períodos 2006- 2021, suscribió en fecha 28 de Febrero de 2011 por cuenta de la Alcaldía Municipal del Distrito Central (A.M.D.C.), un Contrato de Fideicomiso de Administración y Garantía de Flujos Financieros con Banco Financiera Comercial Hondureña, S.A. (Banco FICOHSA), mediante el cual, se le transfirieron los derechos de dominio de los recursos financieros de la AMDC al Fideicomiso, por un período comprendido entre el 28 de Febrero 2011 hasta el 31 de Julio de 2018 con el propósito de garantizar el pago de los valores del crédito sindicado descrito en el considerando primero del presente Decreto. Los costos del fideicomiso son de CERO PUNTO CINCUENTA Y OCHO POR CIENTO (0.58%), calculado sobre los ingresos operativos brutos recibidos y comisiones del UNO POR CIENTO (1%) por concepto de recaudo.
+CONSIDERANDO: Que la Administración Municipal del Distrito Central correspondiente a los períodos 2006-2021, suscribió en fecha 28 de Febrero de 2011 por cuenta de la Alcaldía Municipal del Distrito Central (A.M.D.C.), un Contrato de Fideicomiso de Administración y Garantía de Flujos Financieros con Banco Financiera Comercial Hondureña, S.A. (Banco FICOHSA), mediante el cual, se le transfirieron los derechos de dominio de los recursos financieros de la AMDC al Fideicomiso, por un período comprendido entre el 28 de Febrero 2011 hasta el 31 de Julio de 2018 con el propósito de garantizar el pago de los valores del crédito sindicado descrito en el considerando primero del presente Decreto. Los costos del fideicomiso son de CERO PUNTO CINCUENTA Y OCHO POR CIENTO (0.58%), calculado sobre los ingresos operativos brutos recibidos y comisiones del UNO POR CIENTO (1%) por concepto de recaudo.
 
 CONSIDERANDO: Que la Administración Municipal del Distrito Central correspondiente al período 2018-2022 suscribió en fecha 16 de Diciembre 2021 por cuenta de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS) un Contrato de Fideicomiso de Administración y Garantía de Flujos Financieros con Banco Financiera Comercial Hondureña, S.A., (Banco FICOHSA), mediante el cual se transfirieron los derechos de dominio de los recursos financieros de la Alcaldía Municipal del Distrito Central (A.M.D.C.) al Fideicomiso, por un período de TREINTA
 
@@ -49,19 +49,19 @@ CONSIDERANDO: Que la Alcaldía Municipal del Distrito Central (A.M.D.C.), está 
 
 CONSIDERANDO: Que sumado a los esfuerzos realizados por la administración municipal actual, se vuelve imperativa la búsqueda de medidas que permitan reestructurar las obligaciones financieras actuales con el Sistema Financiero Nacional, así como las que permitan acceder a la obtención de nuevos flujos financieros para acometer aquellas obras necesarias para el desarrollo del Municipio, con el propósito final de mejorar la calidad de vida de su población.
 
-CONSIDERANDO: Que el Artículo 1 del Decreto Legislativo No.70-2010 de fecha 10 de Junio de 2010, publicado en el Diario Oficial “La Gaceta” en fecha 31 de Julio de 2010, autoriza a la Alcaldía Municipal del Distrito Central (A.M.D.C.), para que obtenga recursos económicos provenientes de préstamos del Sistema Financiero Nacional, para obras tales como pasos a desnivel, mejoramiento de la red vial pavimentada y no pavimentada, adoquinados, obras menores, etc, en el Municipio del Distrito Central; asimismo, fortalecer la capacidad de inversión en infraestructura de dicha Municipalidad. Posteriormente, mediante Decreto Legislativo No.77-2011 de fecha 31 de Mayo de 2011, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Julio de 2011, el Congreso Nacional en el ejercicio de sus atribuciones, autorizó la implementación del Sistema Bus de Tránsito Rápido (BTR) en el Municipio del Distrito Central, como una solución a la problemática del Transporte Público. Seguidamente, al amparo del Artículo 48 del Decreto Legislativo No.223-2012 de fecha 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 6 de Febrero de 2013, solicita a la Secretaría de Estado en el Despacho de Finanzas la autorización para la emisión de títulos valores, acompañando el Acta de la Corporación Municipal, con la respectiva autorización para la obtención de préstamos por medio de líneas de crédito y emisión de los títulos valores.
+CONSIDERANDO: Que el Artículo 1 del Decreto Legislativo No. 70-2010 de fecha 10 de Junio de 2010, publicado en el Diario Oficial “La Gaceta” en fecha 31 de Julio de 2010, autoriza a la Alcaldía Municipal del Distrito Central (A.M.D.C.), para que obtenga recursos económicos provenientes de préstamos del Sistema Financiero Nacional, para obras tales como pasos a desnivel, mejoramiento de la red vial pavimentada y no pavimentada, adoquinados, obras menores, etc, en el Municipio del Distrito Central; asimismo, fortalecer la capacidad de inversión en infraestructura de dicha Municipalidad. Posteriormente, mediante Decreto Legislativo No. 77-2011 de fecha 31 de Mayo de 2011, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Julio de 2011, el Congreso Nacional en el ejercicio de sus atribuciones, autorizó la implementación del Sistema Bus de Tránsito Rápido (BTR) en el Municipio del Distrito Central, como una solución a la problemática del Transporte Público. Seguidamente, al amparo del Artículo 48 del Decreto Legislativo No. 223-2012 de fecha 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 6 de Febrero de 2013, solicita a la Secretaría de Estado en el Despacho de Finanzas la autorización para la emisión de títulos valores, acompañando el Acta de la Corporación Municipal, con la respectiva autorización para la obtención de préstamos por medio de líneas de crédito y emisión de los títulos valores.
 
-CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, en amparo al Artículo 48 del Decreto Legislativo No.223-2012 de fecha 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta”, en fecha 6 de Febrero de 2013, emitió Dictamen de fecha 28 de Mayo de 2013, DE NO OBJECIÓN a favor de Alcaldía Municipal del Distrito Central (A.M.D.C.).
+CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, en amparo al Artículo 48 del Decreto Legislativo No. 223-2012 de fecha 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta”, en fecha 6 de Febrero de 2013, emitió Dictamen de fecha 28 de Mayo de 2013, DE NO OBJECIÓN a favor de Alcaldía Municipal del Distrito Central (A.M.D.C.).
 
-CONSIDERANDO: Que en fecha 5 de Agosto de 2013 entró en vigencia el Decreto Legislativo No.113-2013, mediante el cual se autorizó, entre otros, a la Alcaldía Municipal del Distrito Central (AMDC) a readecuar deuda bancaria y no bancaria, a extender el plazo del fideicomiso existente hasta los límites contemplados en el Código de Comercio.
+CONSIDERANDO: Que en fecha 5 de Agosto de 2013 entró en vigencia el Decreto Legislativo No. 113-2013, mediante el cual se autorizó, entre otros, a la Alcaldía Municipal del Distrito Central (AMDC) a readecuar deuda bancaria y no bancaria, a extender el plazo del fideicomiso existente hasta los límites contemplados en el Código de Comercio.
 
 CONSIDERANDO: Que la ciudad Capital aporta al Estado el CUARENTA Y OCHO POR CIENTO (48.0%) del total de los recaudos impositivos del País, pero recibe de vuelta, por la vía de transferencias del Gobierno Central, menos del uno por ciento (1.0%) del Aporte Tributario que realiza, lo cual genera una situación de inequidad, desbalance y desproporcionalidad en los recursos municipales, debido a la presión financiera y de recursos. a que está sometida la Municipalidad por la demanda de los vecinos del Municipio.
 
 CONSIDERANDO: Que es necesario el fortalecimiento de las finanzas municipales mediante el apoyo a sus presupuestos con el fin de promover la generación de empleos locales, el estímulo de las economías de escala y la promoción de proyectos que incentiven la inversión y el bienestar general de la sociedad, permitiéndole realizar las gestiones necesarias para una reestructuración de su deuda y una renegociación de los fideicomisos bajo condiciones más favorables.
 
-CONSIDERANDO: Que la Corporación Municipal del Distrito Central en fecha 22 de Marzo 2024, emitió el Acuerdo No.13, mediante el cual se autorizó al Alcalde Municipal en su calidad de Representante Legal de la Alcaldía Municipal a realizar las gestiones para reestructurar la deuda actual de la Municipalidad, asimismo, mediante Acuerdo No.18, de fecha 17 de Abril 2024, se ratificó dicha autorización al Señor Alcalde Municipal.
+CONSIDERANDO: Que la Corporación Municipal del Distrito Central en fecha 22 de Marzo 2024, emitió el Acuerdo No. 13, mediante el cual se autorizó al Alcalde Municipal en su calidad de Representante Legal de la Alcaldía Municipal a realizar las gestiones para reestructurar la deuda actual de la Municipalidad, asimismo, mediante Acuerdo No. 18, de fecha 17 de Abril 2024, se ratificó dicha autorización al Señor Alcalde Municipal.
 
-CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, como órgano máximo responsable de las finanzas públicas y en cumplimiento del Artículo 40 del Decreto Legislativo No.62-2023, emitió en fecha 25 de Septiembre del año 2023, el Oficio No.DGCP-GDR-180/2024, en el que, en su parte conducente, indica lo siguiente: “… Recomendamos se proceda a renegociar la deuda financiera vigente de la AMDC con el propósito de mantener y mejorar los flujos financieros de la Alcaldía, bajo una estrategia que busque aumentar el plazo de la deuda, preferiblemente posterior al año 2050 y buscar una reducción en las tasas de interés (menores a las actuales), lo que permitirá una reducción en el monto de las cuotas de pago, para propiciar un alivio en el flujo de caja del corto y mediano plazo, recursos que podrían ser orientados a nuevos proyectos de inversión sin recurrir a nuevo endeudamiento. Las condiciones financieras del nuevo endeudamiento deberán procurar observar períodos a más largo plazo de vencimiento, montos financieros asumibles, de ser factible tasas de interés inferiores a las actuales, mejores porcentajes de comisión de los créditos y cualquier otro concepto que incida en los costos del valor del dinero, para observar ahorro de flujo de caja y procurar la capacidad financiera de la Municipalidad, siguiendo lo establecido en los numerales 19) y 36) del Artículo 205 y
+CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, como órgano máximo responsable de las finanzas públicas y en cumplimiento del Artículo 40 del Decreto Legislativo No. 62-2023, emitió en fecha 25 de Septiembre del año 2023, el Oficio No.DGCP-GDR-180/2024, en el que, en su parte conducente, indica lo siguiente: “… Recomendamos se proceda a renegociar la deuda financiera vigente de la AMDC con el propósito de mantener y mejorar los flujos financieros de la Alcaldía, bajo una estrategia que busque aumentar el plazo de la deuda, preferiblemente posterior al año 2050 y buscar una reducción en las tasas de interés (menores a las actuales), lo que permitirá una reducción en el monto de las cuotas de pago, para propiciar un alivio en el flujo de caja del corto y mediano plazo, recursos que podrían ser orientados a nuevos proyectos de inversión sin recurrir a nuevo endeudamiento. Las condiciones financieras del nuevo endeudamiento deberán procurar observar períodos a más largo plazo de vencimiento, montos financieros asumibles, de ser factible tasas de interés inferiores a las actuales, mejores porcentajes de comisión de los créditos y cualquier otro concepto que incida en los costos del valor del dinero, para observar ahorro de flujo de caja y procurar la capacidad financiera de la Municipalidad, siguiendo lo establecido en los numerales 19) y 36) del Artículo 205 y
 
 Artículo 358 de la Constitución de la República; 186 de la Ley de Municipalidades y la Ley Orgánica del Presupuesto y normativa complementaria…”.
 
@@ -69,7 +69,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -101,7 +101,7 @@ ARTÍCULO 5.- La reestructuración de la deuda actual vigente y el nuevo endeuda
 
 #### Artículo 6
 
-ARTÍCULO 6.- El Decreto No.167-2016, de fecha 15 de Diciembre de 2016; Decreto No.26- 2017, de fecha 30 de Noviembre de 2017; y Decreto No.44-2020 aprobado en fecha 30 de Abril de 2020; continuarán vigentes en aquello que no contradiga el contenido del presente Decreto.
+ARTÍCULO 6.- El Decreto No. 167-2016, de fecha 15 de Diciembre de 2016; Decreto No. 26-2017, de fecha 30 de Noviembre de 2017; y Decreto No. 44-2020 aprobado en fecha 30 de Abril de 2020; continuarán vigentes en aquello que no contradiga el contenido del presente Decreto.
 
 #### Artículo 7
 

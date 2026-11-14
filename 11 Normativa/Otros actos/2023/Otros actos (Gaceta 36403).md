@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231207-36403/download"
 extraido: "2026-11-14"
-huella: "206c69db06a58e8f"
+huella: "84d8c9c1e514a0b9"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -43,9 +43,7 @@ CONSIDERANDO: Que el artículo 104 de la Ley Constitutiva de las Fuerzas Armadas
 
 CONSIDERANDO: Que tal como lo establece la Ley Constitutiva de las Fuerzas Armadas, es necesario la creación de un instrumento legal que complemente la normativa vigente y que regule el procedimiento de la venta de servicios aeronáuticos, así como la utilización de los recursos adquiridos a través de fondos propios que perciba por esta actividad la Fuerza Aérea Hondureña.
 
-CONSIDERANDO: Que mediante Acuerdo S.D.N. No.
-
-056-2022, se crea a partir del 01 de julio del año 2022, la Unidad de Ventas de Servicios Aeronáuticos de la Fuerza Aérea Hondureña (UVESAFAH), la cual formará parte de la estructura orgánica de la Fuerza Aérea Hondureña; creación que obedece a las necesidades de crear fondos de la autogestión para el mejoramiento y sostenimiento de infraestructura, así como adquisición de herramientas y equipo de apoyo en tierra para el mantenimiento de aeronaves, garantizando un soporte al presupuesto asignado por el Estado de Honduras, contribuyendo de esa manera con el desarrollo nacional y el fortalecimiento de las capacidades de la Fuerza Aérea Hondureña, en el campo de la ciencia tecnológica que posibilite su desempeño adecuado a garantizar la misión en pro de la defensa de la Patria y al cumplimiento de la misión constitucional encomendada a esta Institución.
+CONSIDERANDO: Que mediante Acuerdo S.D.N. No. 056-2022, se crea a partir del 01 de julio del año 2022, la Unidad de Ventas de Servicios Aeronáuticos de la Fuerza Aérea Hondureña (UVESAFAH), la cual formará parte de la estructura orgánica de la Fuerza Aérea Hondureña; creación que obedece a las necesidades de crear fondos de la autogestión para el mejoramiento y sostenimiento de infraestructura, así como adquisición de herramientas y equipo de apoyo en tierra para el mantenimiento de aeronaves, garantizando un soporte al presupuesto asignado por el Estado de Honduras, contribuyendo de esa manera con el desarrollo nacional y el fortalecimiento de las capacidades de la Fuerza Aérea Hondureña, en el campo de la ciencia tecnológica que posibilite su desempeño adecuado a garantizar la misión en pro de la defensa de la Patria y al cumplimiento de la misión constitucional encomendada a esta Institución.
 
 POR TANTO: El Secretario de Estado en el Despacho de Defensa Nacional, en uso de las facultades consignadas en los artículos 246, 247, 274 y 355 de la Constitución de la República; artículo 36 numeral 6), de la Ley General de la Administración Pública; artículos 19, 23 numeral 12 y 104 de la Ley Constitutiva de las Fuerzas Armadas de Honduras y las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República.
 

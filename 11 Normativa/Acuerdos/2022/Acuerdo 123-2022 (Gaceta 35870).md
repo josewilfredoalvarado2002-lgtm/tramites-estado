@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo No. 123-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220311-35870/download"
 extraido: "2026-11-14"
-huella: "0de30ccae5ecccb8"
+huella: "9b8d7adab9044255"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 123-2022
@@ -27,7 +27,7 @@ huella: "0de30ccae5ecccb8"
 
 ## Texto
 
-LA DIRECCIÓN DE NIÑEZ , ADOLESCENCIA Y FAMILIA (DINAF)
+LA DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA (DINAF)
 
 CONSIDERANDO (1): Que el artículo 116 de la Ley General de la Administración Pública indica que los actos de los órganos de la Administración Pública Adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 

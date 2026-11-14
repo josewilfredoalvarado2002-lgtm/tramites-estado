@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 384-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231024-36365/download"
 extraido: "2026-11-14"
-huella: "24cff6b6eb5d4534"
+huella: "7b6ffc112ebf2d7a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 384-2023
@@ -191,7 +191,7 @@ Artículo 22.- La devolución de fondos correspondientes a ejecución de gastos 
 
 Artículo 23.- Las Instituciones de la Administración Central que no operan los fondos recibidos a través de la Cuenta Única del Tesoro (CUT) de SIAFI, deben tener registradas todas las transacciones de ingresos y gastos correspondiente a fondos propios, donaciones y créditos fiscales, a más tardar el 29 de diciembre de 2023, utilizando el mecanismo de registro de ejecución de ingresos y gastos correspondientes.
 
-Asimismo, las instituciones que están aplicando lo dispuesto en los Decretos No.26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo; Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones y otros que se aprueben en el transcurso del Ejercicio Fiscal 2023, deben realizar la regularización en el SIAFI, siguiendo los procedimientos establecidos, a más tardar el 29 de diciembre de 2023.
+Asimismo, las instituciones que están aplicando lo dispuesto en los Decretos No. 26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo; Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones y otros que se aprueben en el transcurso del Ejercicio Fiscal 2023, deben realizar la regularización en el SIAFI, siguiendo los procedimientos establecidos, a más tardar el 29 de diciembre de 2023.
 
 #### Artículo 24
 
@@ -285,7 +285,7 @@ CAPÍTULO XII COMPENSACIÓN DE SERVICIOS PÚBLICOS Y OTRAS OPERACIONES REALIZADA
 
 #### Artículo 39
 
-Artículo 39.- La Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Instituciones Descentralizadas (DGID) dará seguimiento al cumplimiento del artículo 249 del Decreto No.157-2022, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del año 2023, donde las instituciones de servicios públicos (HONDUTEL, SANAA y ENEE) están obligadas a suministrar a las dependencias usuarias del Gobierno Central, Desconcentrado y Descentralizado, el detalle del cobro de los servicios prestados durante el período que comprenden los respectivos avisos de pago. Asimismo, deben realizar los créditos correspondientes en los avisos de cobro, cuando el Estado haya utilizado el mecanismo de compensación para saldar deudas entre las prestadoras de servicios públicos y las instituciones públicas, por lo que tendrán hasta el 31 de octubre de 2023 para realizar la compensación considerando la afectación presupuestaria que esto implica.
+Artículo 39.- La Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Instituciones Descentralizadas (DGID) dará seguimiento al cumplimiento del artículo 249 del Decreto No. 157-2022, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del año 2023, donde las instituciones de servicios públicos (HONDUTEL, SANAA y ENEE) están obligadas a suministrar a las dependencias usuarias del Gobierno Central, Desconcentrado y Descentralizado, el detalle del cobro de los servicios prestados durante el período que comprenden los respectivos avisos de pago. Asimismo, deben realizar los créditos correspondientes en los avisos de cobro, cuando el Estado haya utilizado el mecanismo de compensación para saldar deudas entre las prestadoras de servicios públicos y las instituciones públicas, por lo que tendrán hasta el 31 de octubre de 2023 para realizar la compensación considerando la afectación presupuestaria que esto implica.
 
 En caso de que no haya acuerdo entre las instituciones para ejecutar el mecanismo de compensación, se debe aplicar el principio de la no simultaneidad de las prestaciones u obligaciones, por lo que cada una de las instituciones es responsable de realizar en tiempo y forma los pagos correspondientes.
 

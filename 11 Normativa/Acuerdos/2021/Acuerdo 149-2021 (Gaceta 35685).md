@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Ministerial No. 149-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210812-35685/download"
 extraido: "2026-11-14"
-huella: "257fdbf665c18381"
+huella: "f4b537d21e2e8ed8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 149-2021
@@ -43,13 +43,13 @@ CONSIDERANDO: Que el Artículo 7 del Acuerdo sobre Salvaguardia de la Organizaci
 
 (OMC) establece que podrá prorrogarse la medida de salvaguardia cuando sea necesario para prevenir o reparar el daño causado a la rama de producción nacional por el aumento súbito de las importaciones del producto objeto de investigación.
 
-CONSIDERANDO: Que mediante Acuerdo Número 086- 2019, publicado en el Diario Oficial La Gaceta en fecha 23 de septiembre de 2019 y vigente a partir del 24 de septiembre de 2019, se acordó modificar temporal y excepcionalmente los Derechos Arancelarios de Importación (DAI), por el período de un año (1), para las importaciones provenientes de terceros países con un gravamen de Nación Mas Favorecida (NMF) de 30%, para los productos clasificados bajo los incisos arancelarios 8203.10.10.00 y 8203.10.90.00.
+CONSIDERANDO: Que mediante Acuerdo Número 086-2019, publicado en el Diario Oficial La Gaceta en fecha 23 de septiembre de 2019 y vigente a partir del 24 de septiembre de 2019, se acordó modificar temporal y excepcionalmente los Derechos Arancelarios de Importación (DAI), por el período de un año (1), para las importaciones provenientes de terceros países con un gravamen de Nación Mas Favorecida (NMF) de 30%, para los productos clasificados bajo los incisos arancelarios 8203.10.10.00 y 8203.10.90.00.
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial Número 158-2020, publicado en el Diario Oficial La Gaceta el 28 de agosto de 2020 y vigente a partir del 25 de septiembre de 2020, se acordó prorrogar el Acuerdo Número 086-2019, por el plazo de un (1) año contado a partir del veinticinco (25) de septiembre del año dos mil veinte (2020), con el objetivo de modificar temporal y excepcionalmente los Derechos Arancelarios de Importación (DAI), de conformidad con el
 
 Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, para los productos clasificados bajo los incisos arancelarios 8203.10.10.00 y 8203.10.90.00, para las importaciones provenientes de terceros países con un gravamen de Nación Mas Favorecida (NMF) de 30%.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que el Artículo 7 del Acuerdo Ministerial No. 005-2021 establece que todas las determinaciones que sean establecidas por la Comisión AD HOC deben ser revisadas y analizadas tomando en consideración los instrumentos jurídicos centroamericanos y nacionales que estén relacionados con el establecimiento, modificación o eliminación de medidas de salvaguardia.
 
@@ -61,9 +61,7 @@ CONSIDERANDO: Que según el procedimiento establecido en el Artículo 12 del Acu
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico en el uso de sus facultades y en aplicación de los artículos 247, 255, 321, 331 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo PCM-008-97, contentivo del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano; 1 y 7 del Acuerdo sobre Salvaguardia de la OMC; Acuerdo No.
-
-005-2021 y Acuerdo No. 086-2019 y su reforma.
+La Secretaría de Estado en el Despacho de Desarrollo Económico en el uso de sus facultades y en aplicación de los artículos 247, 255, 321, 331 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo PCM-008-97, contentivo del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano; 1 y 7 del Acuerdo sobre Salvaguardia de la OMC; Acuerdo No. 005-2021 y Acuerdo No. 086-2019 y su reforma.
 
 ACUERDA:
 

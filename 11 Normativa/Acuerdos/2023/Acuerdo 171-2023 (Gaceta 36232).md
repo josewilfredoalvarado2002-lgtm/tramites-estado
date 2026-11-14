@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230519-36232/download"
 extraido: "2026-11-14"
-huella: "02ac18aea4c0aa9f"
+huella: "8d1bf9560d4b5097"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 171-2023
@@ -51,7 +51,7 @@ POR TANTO
 
 La Dirección de Niñez, Adolescencia y Familia (DINAF), en aplicación de los Artículos 116, 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública;
 
-3, 22, 23, 24, 25, 26, 27, y 30 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM- 027-2014 de fecha 4 de junio de 2014.
+3, 22, 23, 24, 25, 26, 27, y 30 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
 ACUERDA
 

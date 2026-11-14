@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdos Ejecutivos Nos. 037-A-2026, 038-A-2026, 049-A-2026, 051-A-2026, 061-2026, 069-A-2026, 170-2026, 178-2026, 180-2026, 181-2026, 182-2026, 183-2026, 191-2026, 196-2026, 198-2026, 201-2026, 221-2026, 241-2026, 242-2026, 253-2026, 254-2026, 255-2026, 256-2026, 278-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260416-37118/download"
 extraido: "2026-11-09"
-huella: "e2c0b0729156a7d3"
+huella: "6e7211d963a2e74c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 038-A-2026
@@ -41,7 +41,7 @@ En el uso de sus atribuciones y en aplicación de los artículos 235 y 245 numer
 
 ACUERDA
 
-PRIMERO: Dejar sin valor y efecto el nombramiento del ciudadano JUAN FERNANDO ALVAREZ SOLORZANO, otorgado mediante Acuerdo Ejecutivo 038- 2026, en el cargo de Secretario General de la Secretaría de Estado en los Despachos de Educación.
+PRIMERO: Dejar sin valor y efecto el nombramiento del ciudadano JUAN FERNANDO ALVAREZ SOLORZANO, otorgado mediante Acuerdo Ejecutivo 038-2026, en el cargo de Secretario General de la Secretaría de Estado en los Despachos de Educación.
 
 SEGUNDO: El presente Acuerdo es efectivo a partir de la fecha y deberá ser publicado en el Diario Oficial La Gaceta.
 

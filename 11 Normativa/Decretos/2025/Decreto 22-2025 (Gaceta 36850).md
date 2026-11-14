@@ -11,7 +11,7 @@ paginas: "A. 14 - 15"
 sumario: "Decretos Nos. 18-2025, 22-2025, 35-2025,36-2025, 37-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250529-36850/download"
 extraido: "2026-11-10"
-huella: "cbd57f277af6f051"
+huella: "0f31c1a7579e0cb4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 22-2025
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 del Decreto Legislativo No.69-2024, del 31 de julio del 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de octubre de 2024, Edición 36,656, el cual en adelante debe leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 1 del Decreto Legislativo No. 69-2024, del 31 de julio del 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de octubre de 2024, Edición 36,656, el cual en adelante debe leerse de la siguiente manera:
 
 “ARTÍCULO 1.- Autorizar a la
 

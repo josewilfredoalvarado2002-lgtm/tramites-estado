@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo número SAR-012-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200116-35150/download"
 extraido: "2026-11-14"
-huella: "68adbc7912928ce9"
+huella: "b2139a7484ebbdb4"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-012-2020
@@ -55,7 +55,7 @@ CONSIDERANDO: Que el Servicio de Administración de Rentas (SAR), tiene previsto
 
 POR TANTO: En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos:
 
-321, 323 y 351 de la Constitución de la República; 14, 15, 81 numerales 1) y 3), 195, 197 numeral 1), 198 numeral 3) y 12), 199 numeral 1) y 13) del Decreto Legislativo 170- 2016 contentivo del Código Tributario; 7, 45, 116, 118 y 122 de la Ley General de la Administración Pública y demás disposiciones aplicables.
+321, 323 y 351 de la Constitución de la República; 14, 15, 81 numerales 1) y 3), 195, 197 numeral 1), 198 numeral 3) y 12), 199 numeral 1) y 13) del Decreto Legislativo 170-2016 contentivo del Código Tributario; 7, 45, 116, 118 y 122 de la Ley General de la Administración Pública y demás disposiciones aplicables.
 
 ACUERDA
 

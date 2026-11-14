@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210504-35589/download"
 extraido: "2026-11-14"
-huella: "f6a6447379fe4fd8"
+huella: "9b0d926a408cc0ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 316-2021
@@ -47,9 +47,7 @@ CONSIDERANDO: Que, con el objeto de no paralizar el normal funcionamiento de los
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No.
-
-64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585- 2015 y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No. 64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015 y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
 
 ACUERDA:
 

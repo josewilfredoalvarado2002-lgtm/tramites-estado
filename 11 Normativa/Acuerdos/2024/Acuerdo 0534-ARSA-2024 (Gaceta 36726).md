@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. 0534-ARSA-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241228-36726/download"
 extraido: "2026-11-14"
-huella: "d56601bb22cb2b49"
+huella: "05ca5a377bda030e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0534-ARSA-2024
@@ -57,9 +57,9 @@ ACUERDA:
 
 PRIMERO: Crear el CENTRO NACIONAL DE TECNOVIGILANCIA (CNTV), adscrito a la Dirección de Dispositivos Médicos y otros Dispositivos de Interés Sanitario de la Agencia de Regulación Sanitaria (ARSA).
 
-S E G U N D O : E l C E N T R O N A C I O N A L D E TECNOVIGILANCIA (CNTV), tiene como fin, coordinar en todo el territorio nacional, la vigilancia post mercado de los dispositivos médicos y otros dispositivos de interés sanitario en todas sus fases: identificación, evaluación, análisis, gestión de los riesgos y notificación de los eventos e incidentes adversos, operando con enfoques de tecnovigilancia pasiva, activa, proactiva, reactiva e intensiva, con el objetivo de minimizar riesgos, protegiendo la salud de la población a través de la garantía de la seguridad, desempeño y calidad de los dispositivos médicos.
+SEGUNDO: El CENTRO NACIONAL DE TECNOVIGILANCIA (CNTV), tiene como fin, coordinar en todo el territorio nacional, la vigilancia post mercado de los dispositivos médicos y otros dispositivos de interés sanitario en todas sus fases: identificación, evaluación, análisis, gestión de los riesgos y notificación de los eventos e incidentes adversos, operando con enfoques de tecnovigilancia pasiva, activa, proactiva, reactiva e intensiva, con el objetivo de minimizar riesgos, protegiendo la salud de la población a través de la garantía de la seguridad, desempeño y calidad de los dispositivos médicos.
 
-T E R C E R O : E l C E N T R O N A C I O N A L D E TECNOVIGILANCIA (CNTV), tendrá las siguientes atribuciones:
+TERCERO: El CENTRO NACIONAL DE TECNOVIGILANCIA (CNTV), tendrá las siguientes atribuciones:
 
 a. Vigilancia: Establecer los mecanismos necesarios y suficientes para la detección temprana de incidentes y eventos adversos relacionados con el uso de dispositivos médicos, siendo el responsable de llevar a cabo el control, monitoreo y seguimiento de estos casos en el territorio nacional.
 
@@ -81,7 +81,7 @@ g. Implementación de Sistema de Control de Riesgos:
 
 El CNTV implementará y supervisará el sistema integral de gestión de riesgos para dispositivos médicos. Esto incluirá la identificación, evaluación y mitigación de riesgos asociados al uso de dispositivos médicos.
 
-C U A R T O : E l C E N T R O N A C I O N A L D E TECNOVIGILANCIA (CNTV), tendrá las siguientes funciones:
+CUARTO: El CENTRO NACIONAL DE TECNOVIGILANCIA (CNTV), tendrá las siguientes funciones:
 
 a. Desarrollar, implementar y potenciar la notificación de eventos e incidentes adversos, recibiendo, evaluando, codificando y manteniendo en una base de datos nacional, las notificaciones y otros problemas relacionados a dispositivos médicos; así como otras procedentes de la bibliografía científica y de los estudios post-autorización, cuando corresponda.
 
@@ -125,7 +125,7 @@ Comisionada(o) Presidenta(e) Dirección de Dispositivos Médicos y otros disposi
 
 4. Sección de Promoción y Educación en Tecnovigilancia.
 
-S E X T O : E l C E N T R O N A C I O N A L D E TECNOVIGILANCIA (CNTV), en el marco de sus atribuciones y funciones, servirá como punto de enlace entre la ARSA y las instituciones relacionadas con la identificación, prevención y seguimiento de incidentes y eventos adversos y otros problemas relacionados con los dispositivos médicos, estableciendo los mecanismos, estrategias y definición de herramientas para cumplir con el desarrollo de sus actividades, en la detección y gestión de riesgos relacionados con los dispositivos médicos.
+SEXTO: El CENTRO NACIONAL DE TECNOVIGILANCIA (CNTV), en el marco de sus atribuciones y funciones, servirá como punto de enlace entre la ARSA y las instituciones relacionadas con la identificación, prevención y seguimiento de incidentes y eventos adversos y otros problemas relacionados con los dispositivos médicos, estableciendo los mecanismos, estrategias y definición de herramientas para cumplir con el desarrollo de sus actividades, en la detección y gestión de riesgos relacionados con los dispositivos médicos.
 
 SÉPTIMO: La ARSA podrá reconocer las decisiones relevantes, informes, comunicados, avisos, alertas y cualquier otro tipo de notificación relacionada con tecnovigilancia emitidas por autoridades sanitarias de otros países.
 
@@ -133,7 +133,7 @@ OCTAVO: Los establecimientos que fabriquen, distribuyan, importen, exporten, com
 
 NOVENO: Crear el CENTRO NACIONAL DE FARMACOVIGILANCIA (CNFV), adscrito a la Dirección de Productos Farmacéuticos y otros del Ramo de Interés Sanitario (DPF), de la Agencia de Regulación Sanitaria (ARSA), como un centro de referencia nacional en materia de Farmacovigilancia en todo el país, con capacidad científica e indispensable para recopilar, clasificar, analizar, identificar y difundir la información relacionada con la seguridad, calidad y eficacia de los medicamentos, la administración de la base de datos nacional y con competencia a nivel nacional por medio de las instancias territoriales correspondientes.
 
-D É C I M O : E l C E N T R O N A C I O N A L D E FARMACOVIGILANCIA (CNFV), tiene como fin, coordinar todas las actividades de farmacovigilancia de los productos farmacéuticos fabricados, importados, comercializados, distribuidos, dispensados y administrados en todo el territorio nacional, validando su seguridad, para identificar y gestionar los riesgos que emanen de las posibles fallas en los productos farmacéuticos, realizando la respectiva comunicación a los actores involucrados, con el fin de proteger la salud de la población hondureña.
+DÉCIMO: El CENTRO NACIONAL DE FARMACOVIGILANCIA (CNFV), tiene como fin, coordinar todas las actividades de farmacovigilancia de los productos farmacéuticos fabricados, importados, comercializados, distribuidos, dispensados y administrados en todo el territorio nacional, validando su seguridad, para identificar y gestionar los riesgos que emanen de las posibles fallas en los productos farmacéuticos, realizando la respectiva comunicación a los actores involucrados, con el fin de proteger la salud de la población hondureña.
 
 DECIMOPRIMERO: El CENTRO NACIONAL DE FARMACOVIGILANCIA (CNFV), tendrá las siguientes atribuciones:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decreto Ejecutivo número PCM-005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210312-35542/download"
 extraido: "2026-11-14"
-huella: "df9680d086e3da53"
+huella: "15c47968ca33432c"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-005-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que las personas mayores son sujetos de la protección especial de
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2, 11 y 45 de la Constitución de la República, le corresponde entre otras atribuciones al Presidente de la República la Administración General del Estado; dirigir la Política General del Estado y representarlo; emitir Acuerdos y Decretos y expedir Reglamentos y Resoluciones conforme a la Ley; y, las demás que le confiere la Constitución y las Leyes.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 286- 2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, en su Objetivo 1, aspira a lograr una Honduras educada, sana y con sistemas consolidados de previsión y protección social.
+CONSIDERANDO: Que el Decreto Legislativo No. 286-2009, contentivo de la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, en su Objetivo 1, aspira a lograr una Honduras educada, sana y con sistemas consolidados de previsión y protección social.
 
 CONSIDERANDO: Que el Artículo 11 de la Ley General de la Administración Pública establece que, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
@@ -57,7 +57,7 @@ CONSIDERANDO: Que la formulación de la Política Nacional de Envejecimiento y d
 
 POR TANTO;
 
-En el uso de las facultades de que está investido y en aplicación de los Artículos 59, 117, 245 numerales 2 ,11 y 45, 252, 255, 321, 323 de la Constitución de la República; Artículos 5, 11, 17, 18, 22, numerales 9 y 12, 116, 117 y 119 de la Ley General de Administración Pública y sus reformas mediante Decreto Legislativo Número. 266-2013; y Artículos 7, 8, 9 numerales 4 y 7, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En el uso de las facultades de que está investido y en aplicación de los Artículos 59, 117, 245 numerales 2,11 y 45, 252, 255, 321, 323 de la Constitución de la República; Artículos 5, 11, 17, 18, 22, numerales 9 y 12, 116, 117 y 119 de la Ley General de Administración Pública y sus reformas mediante Decreto Legislativo Número. 266-2013; y Artículos 7, 8, 9 numerales 4 y 7, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 DECRETA:
 
@@ -273,9 +273,9 @@ Posicionándonos en la realidad actual, constatamos que la regulación vigente r
 
 Contexto Institucional Fiscalía Especial del Consumidor y Tercera Edad, adscrita al Ministerio Público; tiene como objetivo ejercer la acción penal en cuanto a la resolución de conflictos jurídicos que atañen al cumplimiento de la Ley de Protección al Consumidor, Ley de Protección al Adulto Mayor y Jubilados, Ley del Régimen de Tratamiento Especial para Personas de la Tercera Edad, Jubilados y Pensionados por Invalidez. Si bien esta entidad brinda servicios importantes que son visibles a la ciudadanía, es recomendable revisar sistemáticamente su pertinencia, en cuanto a su funcionalidad, en términos de aportar soluciones a las situaciones de maltrato físico, psicológico, moral, social y legal que aqueja a los adultos mayores.
 
-Gabinete Sectorial de Desarrollo e Inclusión Social, integrado por once instituciones, entre ellas, Secretarías de Estado, Direcciones y Programas. Los Gabinetes Sectoriales, aglutinan entidades con intereses comunes, a fin de mejorar la eficiencia de la gestión pública. Fueron creados mediante Decreto Ejecutivo Número PCM-001- 2014 de fecha 22 de febrero de 2014. Posteriormente reformado mediante Decreto Ejecutivo Número PCM- 009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo del año 2018, Edición No. 34,600.
+Gabinete Sectorial de Desarrollo e Inclusión Social, integrado por once instituciones, entre ellas, Secretarías de Estado, Direcciones y Programas. Los Gabinetes Sectoriales, aglutinan entidades con intereses comunes, a fin de mejorar la eficiencia de la gestión pública. Fueron creados mediante Decreto Ejecutivo Número PCM-001-2014 de fecha 22 de febrero de 2014. Posteriormente reformado mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo del año 2018, Edición No. 34,600.
 
-La Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), creada funcionalmente el año 2010, constituye la sede donde opera la gestión sectorial; tiene el mandato, de fungir como la entidad del Poder Ejecutivo con facultades en materia social y reducción de la pobreza. Con mayor especificidad, el Decreto Legislativo No.266-2013, que contiene la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en su Artículo 29, numeral 4, atribuye a la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), competencias en “Formulación, coordinación, ejecución y evaluación de las políticas públicas en materia de desarrollo e inclusión social y de reducción de la pobreza; así como de la planificación, administración y ejecución de los programas y proyectos que se derivan de esas políticas y los que vayan dirigidos a grupos vulnerables como los adultos mayores entre otros ”.
+La Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), creada funcionalmente el año 2010, constituye la sede donde opera la gestión sectorial; tiene el mandato, de fungir como la entidad del Poder Ejecutivo con facultades en materia social y reducción de la pobreza. Con mayor especificidad, el Decreto Legislativo No. 266-2013, que contiene la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en su Artículo 29, numeral 4, atribuye a la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), competencias en “Formulación, coordinación, ejecución y evaluación de las políticas públicas en materia de desarrollo e inclusión social y de reducción de la pobreza; así como de la planificación, administración y ejecución de los programas y proyectos que se derivan de esas políticas y los que vayan dirigidos a grupos vulnerables como los adultos mayores entre otros ”.
 
 La Dirección General Adulto Mayor (DIGAM), se constituye como el ente rector que vela por el cumplimiento y aplicación de los derechos contenidos en la Ley de Protección al Adulto Mayor y Jubilados. Asimismo, juega un rol articulador con respecto a las diferentes Unidades y/o Programas de las instituciones públicas y privadas, cuyo quehacer se desarrolla en torno al adulto mayor.
 
@@ -283,7 +283,7 @@ Contribuye a la formulación y coordinación de las políticas públicas para lo
 
 La Dirección General Adulto Mayor (DIGAM) pasa a formar parte de la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS) a partir del año 2014, según lo establecido en el Decreto Ejecutivo Número PCM-03-2014.
 
-Las ejecutorias impulsadas por la Dirección General Adulto Mayor (DIGAM), son coherentes con la cadena de valor público que rigen las actuaciones del gobierno, en un marco de gestión por resultados, cuyos referentes de planificación son el documento de Plan de Nación 2010- 2022 y Visión de País 2010-2038, el Plan de Gobierno, Plan Estratégico Sectorial del Gabinete de Desarrollo e Inclusión Social y planes operativos anuales.
+Las ejecutorias impulsadas por la Dirección General Adulto Mayor (DIGAM), son coherentes con la cadena de valor público que rigen las actuaciones del gobierno, en un marco de gestión por resultados, cuyos referentes de planificación son el documento de Plan de Nación 2010-2022 y Visión de País 2010-2038, el Plan de Gobierno, Plan Estratégico Sectorial del Gabinete de Desarrollo e Inclusión Social y planes operativos anuales.
 
 V. OBJETIVOS
 
@@ -619,7 +619,7 @@ Envejecimiento y Desarrollo, 200.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Para asegurar la ejecución de la Política Nacional de Envejecimiento y del Adulto Mayor 2021- 2050”, se organizará un Comité Técnico de Trabajo, integrado por las instituciones del Gobierno y organizaciones e instituciones privadas que trabajen por y para los adultos mayores, que será coordinado por la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), a través de la Dirección General del Adulto Mayor (DIGAM) como ente rector en materia del adulto mayor a nivel nacional.
+ARTÍCULO 2.- Para asegurar la ejecución de la Política Nacional de Envejecimiento y del Adulto Mayor 2021-2050”, se organizará un Comité Técnico de Trabajo, integrado por las instituciones del Gobierno y organizaciones e instituciones privadas que trabajen por y para los adultos mayores, que será coordinado por la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social (SEDIS), a través de la Dirección General del Adulto Mayor (DIGAM) como ente rector en materia del adulto mayor a nivel nacional.
 
 #### Artículo 3
 

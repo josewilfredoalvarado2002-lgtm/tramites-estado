@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdo No. 996-A-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260316-37095/download"
 extraido: "2026-11-09"
-huella: "f2ef78b86b39fb83"
+huella: "667de2951db55641"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 996-A-2026
@@ -29,7 +29,7 @@ huella: "f2ef78b86b39fb83"
 
 Tegucigalpa, M. D. C. 03 de marzo del 2026 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD En uso de las facultades, otorgadas en el artículo 16, 116, 118, 122 de la Ley General de la Administración Pública;
 
-Subsecretario de Proyectos e Inversiones en Salud, mediante ACUERDO EJECUTIVO No. 028-2026 de fecha 27 de enero del 2026 y ACUERDO DELEGACIÓN No. 09-DP- 2026 de fecha 30 de enero del 2026.
+Subsecretario de Proyectos e Inversiones en Salud, mediante ACUERDO EJECUTIVO No. 028-2026 de fecha 27 de enero del 2026 y ACUERDO DELEGACIÓN No. 09-DP-2026 de fecha 30 de enero del 2026.
 
 CONSIDERANDO: Que de conformidad al artículo 149 de la Constitución de la República, la Secretaría de Estado en el Despacho de Salud, coordina todas las actividades públicas de los organismos centralizados y descentralizados del sector salud.
 
@@ -37,11 +37,11 @@ CONSIDERANDO: Que la Constitución manda como obligación del Poder Ejecutivo ad
 
 CONSIDERANDO: Que el artículo 29 de la Ley General de la Administración Pública estipula que, a la Secretaría de Estado en el Despacho de Salud, le compete lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con la protección, fomento, prevención, preservación, restitución y rehabilitación de la salud de la población.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.5-2026 publicado en el Diario Oficial La Gaceta en fecha 6 de febrero 2026, bajo el registro No.37,063 se decretó la Ley de Medidas Excepcionales para la Atención Prioritaria en Materia de Salud de la Población en su artículo 8 se ordena a la Secretaría de Estado en el Despacho de Salud emitir el presente Reglamento y publicarlo en el Diario Oficial La Gaceta y al menos en un diario de circulación nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 5-2026 publicado en el Diario Oficial La Gaceta en fecha 6 de febrero 2026, bajo el registro No. 37,063 se decretó la Ley de Medidas Excepcionales para la Atención Prioritaria en Materia de Salud de la Población en su artículo 8 se ordena a la Secretaría de Estado en el Despacho de Salud emitir el presente Reglamento y publicarlo en el Diario Oficial La Gaceta y al menos en un diario de circulación nacional.
 
 POR TANTO:
 
-En uso de las facultades de que está investida y en aplicación de los artículos: 59, 62, 145, 149 de la Constitución de la República; 1 y 3 del Código de Salud; 1, 5, 7, 29 numeral 5, 36 numeral 6, 116, 117, 118, 119 y 122 de la Ley General de la Administración Pública; artículo 67, 69 y 88 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y sus reformas Decreto Legislativo No.5-2026.
+En uso de las facultades de que está investida y en aplicación de los artículos: 59, 62, 145, 149 de la Constitución de la República; 1 y 3 del Código de Salud; 1, 5, 7, 29 numeral 5, 36 numeral 6, 116, 117, 118, 119 y 122 de la Ley General de la Administración Pública; artículo 67, 69 y 88 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y sus reformas Decreto Legislativo No. 5-2026.
 
 ACUERDA:
 

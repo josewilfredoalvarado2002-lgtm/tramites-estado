@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Resolución No.1-2024, 2-2024, 3-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240812-36610/download"
 extraido: "2026-11-14"
-huella: "cbfd69541f121266"
+huella: "149bb58dc9c6c3cb"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No.1-2024
@@ -29,9 +29,9 @@ huella: "cbfd69541f121266"
 
 EL CONGRESO NACIONAL, Reunidos en el Congreso Nacional, a los Treinta y un días del mes de Julio del año 2024, en el Pleno de la Cámara Legislativa, para emitir Resolución sobre la misiva enviada a este Poder del Estado, por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a remitir a este Poder del Estado, la solicitud que a su vez le fuere presentada por parte de la República Helénica, contraída a conceder permiso a la ciudadana hondureña NAN MARINAKYS LÓPEZ para que pueda ostentar el cargo de Cónsul Honoraria en representación de la República Helénica, ante el Estado de Honduras, en la Ciudad de Tegucigalpa.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No.329-DGAC-2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 329-DGAC-2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
 
-CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la atribución a este Poder del Estado para conceder permiso a los hondureños para aceptar cargos de otro Estado; los artículos 82 y 24 numeral 9) de la Ley Orgánica del Poder Legislativo; y, en el Artículo 19 de la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No.80-2013, del 21 de Mayo del 2013, publicado en el Diario Oficial “La Gaceta” del 7 de Junio del 2013, para que un ciudadano hondureño, ostente el cargo de Cónsul Honorario en representación de un tercer Estado.
+CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la atribución a este Poder del Estado para conceder permiso a los hondureños para aceptar cargos de otro Estado; los artículos 82 y 24 numeral 9) de la Ley Orgánica del Poder Legislativo; y, en el Artículo 19 de la Ley de Servicio Diplomático y Consular de Honduras, contenida en el Decreto No. 80-2013, del 21 de Mayo del 2013, publicado en el Diario Oficial “La Gaceta” del 7 de Junio del 2013, para que un ciudadano hondureño, ostente el cargo de Cónsul Honorario en representación de un tercer Estado.
 
 CONSIDERANDO: Que es importante para el Gobierno de Honduras establecer y mantener las relaciones diplomáticas y consulares entre la República Helénica y Honduras, siendo el Cónsul Honorario quien promueve el intercambio cultural, comercial la inversión y el turismo, las funciones de registradores civiles, cuando corresponda y otras de gran importancia, según el Artículo 61 de la Ley de Servicio Diplomático y Consular de Honduras.
 

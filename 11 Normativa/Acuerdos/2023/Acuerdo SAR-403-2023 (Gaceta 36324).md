@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Número SAR-403-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230902-36324/download"
 extraido: "2026-11-14"
-huella: "4a5093f3f1d733af"
+huella: "048bf62217aaef17"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-403-2023
@@ -39,13 +39,13 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 23-2022 de fecha 27 de ener
 
 CONSIDERANDO: Que el Artículo 197 numeral 1) del Código Tributario determina al Director Ejecutivo de la Administración Tributaria como el responsable de definir y ejecutar, entre otras, las políticas, estrategias, planes y programas administrativos y operativos, conforme a las políticas económicas, fiscal y tributaria del Estado; y, asimismo, el Artículo 199 del mismo Código establece expresamente sus atribuciones, siendo una de ellas la de aprobar los Acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulen la estructura organizacional y funcional de la Administración Tributaria.
 
-CONSIDERANDO: Que, mediante Acuerdo número SAR- 002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), misma que ha sufrido diferentes modificaciones a través de los Acuerdos Nos. SAR-125-2018 de fecha 14 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” en fecha 17 de abril del 2018;
+CONSIDERANDO: Que, mediante Acuerdo número SAR-002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), misma que ha sufrido diferentes modificaciones a través de los Acuerdos Nos. SAR-125-2018 de fecha 14 de marzo de 2018, publicado en el Diario Oficial “La Gaceta” en fecha 17 de abril del 2018;
 
 SAR-190-2018 de fecha 27 de abril del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 12 de mayo del 2018;
 
 SAR-18-2019, publicado en el Diario Oficial “La Gaceta” en fecha 18 de enero del 2019; SAR-222-2019 de fecha 03 de junio de 2019, publicado en el Diario Oficial “La Gaceta” en fecha 29 de julio del año 2019; SAR-182-2021 de fecha 18 de junio de 2021, publicado en el Diario Oficial “La Gaceta” en fecha 22 de julio del 2021; SAR-354-2021 de fecha 26 de octubre de 2021, publicado en el Diario Oficial “La Gaceta” en fecha 18 de noviembre del 2021; SAR-385-2022 de fecha 01 de diciembre del 2022, publicado en el Diario Oficial “La Gaceta” en fecha 14 de diciembre del 2022 y; SAR-227-2023 de fecha 30 de junio del 2023, publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio del 2023.
 
-CONSIDERANDO: Que, mediante Acuerdo número SAR- 227-2023 de fecha 30 de junio del 2023, publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio del 2023, se realizó la última reforma, a la Estructura Organizacional del Servicio de Administración de Rentas (SAR) contenida en el Acuerdo No. SAR-002-2017, suprimiéndose los siguientes:
+CONSIDERANDO: Que, mediante Acuerdo número SAR-227-2023 de fecha 30 de junio del 2023, publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio del 2023, se realizó la última reforma, a la Estructura Organizacional del Servicio de Administración de Rentas (SAR) contenida en el Acuerdo No. SAR-002-2017, suprimiéndose los siguientes:
 
 \1) El Departamento de FYDUCA, creándose la Unidad de FYDUCA dependiente del Departamento de Gestión Tributaria adscrito a la Dirección Nacional de Cumplimiento Tributario; 2) La Unidad de Innovación y Mejora dependiente del Departamento de Gestión de Procesos y la Unidad de Gestión de la Información dependiente del Departamento de Inteligencia, de la Dirección Nacional de Gestión Estratégica; por lo que, las funciones que realizaban cada una de estas unidades deben ser ejecutadas por los Departamentos al que se encontraban adscritos; 3) El Departamento de Fedatarios Fiscales de la Dirección Nacional de Cumplimiento Tributario;
 
@@ -77,9 +77,9 @@ CUARTO”, el orden de los numerales del acápite “ACUERDA” del Acuerdo núm
 
 “DÉCIMO QUINTO: El Departamento de Fiscalidad Internacional y Precios de Transferencia…”;
 
-“ D É C I M O S E X T O :
+“ DÉCIMO SEXTO:
 
-D I R E C C I O N E S DEPARTAMENTALES…”;
+DIRECCIONES DEPARTAMENTALES…”;
 
 “DÉCIMO SÉPTIMO: El Departamento de Recaudación…”;
 

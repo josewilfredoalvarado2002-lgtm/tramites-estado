@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdo No. 484-2022, Acuerdo Ejecutivo Número 488-2022, Acuerdos Números 272-2022, 273-2022, 531-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221223-36110/download"
 extraido: "2026-11-14"
-huella: "26a90a1268e04c6e"
+huella: "e94073166336f3bf"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 488-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el artículo 248 de la Constitución de la República en su p�
 
 CONSIDERANDO: Que la Política de Endeudamiento Público aprobada estipula que el techo para la contratación de nuevos financiamientos externos para el periodo 2022 es de US$350.0, los cuales serán destinados para programas y proyectos de inversión pública; contratos de préstamo que deberán ser convenidos, en la medida de lo posible, en términos concesionales.
 
-CONSIDERANDO: Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+CONSIDERANDO: Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación. Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública y la Política de Endeudamiento Público, en relación con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 04-2022 se declaró el sector a
 
 CONSIDERANDO: Que según el análisis de la Clasificación Integrada de Seguridad Alimentaria en Fases (CIF), implementada por el Programa PROGRESAN-SICA, al mes de febrero de 2022 un total de 2.2 millones de personas en Honduras se encuentran en crisis alimentaria o en situación de emergencia. Asimismo, la Guerra entre Ucrania y Rusia ha provocado crisis de inseguridad alimentaria en las cadenas de suministro para abastecimiento de alimentos, considerando que más del 50% de los fertilizantes agrícolas importados por Honduras provienen de Rusia y esto ha provocado impactos en el precio de los productos de la canasta básica y combustibles.
 
-CONSIDERANDO: Que el Programa Monetario 2022- 2023 del Banco Central de Honduras establece que el aumento en las presiones inflacionarias a nivel mundial durante 2022, debido al incremento en los costos globales que han afectado los precios de las materias primas, principalmente de la energía y alimentos, también ha provocado una aceleración en la inflación interna, misma que a noviembre de 2022 se sitúa en 10.86%, siendo la inflación importada el principal determinante de esta aceleración, dados los mayores precios que experimentan los bienes que se transan con los socios comerciales de Honduras. La variación mensual del Indice de Precios al Consumidor
+CONSIDERANDO: Que el Programa Monetario 2022-2023 del Banco Central de Honduras establece que el aumento en las presiones inflacionarias a nivel mundial durante 2022, debido al incremento en los costos globales que han afectado los precios de las materias primas, principalmente de la energía y alimentos, también ha provocado una aceleración en la inflación interna, misma que a noviembre de 2022 se sitúa en 10.86%, siendo la inflación importada el principal determinante de esta aceleración, dados los mayores precios que experimentan los bienes que se transan con los socios comerciales de Honduras. La variación mensual del Indice de Precios al Consumidor
 
 (IPC) en noviembre de 2022 fue de 0.98%, resultado principalmente de mayores precios en alimentos de origen agropecuario influenciado en parte por la pérdida de cultivos por los huracanes Ian y Julia, produciendo el incremento en los precios de alimentos de mayor consumo por la población.
 

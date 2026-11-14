@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. 036-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221224-36111/download"
 extraido: "2026-11-14"
-huella: "08f50d0a31895d3f"
+huella: "66668d2fae6367de"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 036-2022
@@ -45,9 +45,7 @@ La Dirección Ejecutiva del ICF con miras a lograr una buena y sana administraci
 
 ACUERDA:
 
-PRIMERO: 1) Derogar el Acuerdo No. 010-2013 de fecha 08 de abril de 2013. 2) Aprobar el presente Acuerdo No.
-
-036-2022 contentivo de la normativa para la ejecución y vigencia de los planes de manejo, su nomenclatura, códigos y simbología. 3) El Acuerdo No. 015-2022 y el Adendum No. 020-2022 mantienen su vigencia en su totalidad.
+PRIMERO: 1) Derogar el Acuerdo No. 010-2013 de fecha 08 de abril de 2013. 2) Aprobar el presente Acuerdo No. 036-2022 contentivo de la normativa para la ejecución y vigencia de los planes de manejo, su nomenclatura, códigos y simbología. 3) El Acuerdo No. 015-2022 y el Adendum No. 020-2022 mantienen su vigencia en su totalidad.
 
 SEGUNDO: Establecer como periodo de vigencia de todo Plan de Manejo Forestal la rotación o turno biológico equivalente a cuarenta (40) años o la rotación económica de conformidad a las prescripciones silvícolas de acuerdo al interés del propietario.
 

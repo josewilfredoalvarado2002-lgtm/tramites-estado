@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200207-35169/download"
 extraido: "2026-11-14"
-huella: "516fcebe590ecd9b"
+huella: "78019b753f833a44"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que se hace necesario reglamentar el Fondo Interno de Emergencia y
 
 POR TANTO:
 
-En ejercicio de las facultades que le otorga los artículos 173, 246, 247 de la Constitución de la República; 29, 30, 33, 36, 116, 118 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-03- 2014; Acuerdo de Nombramiento No. 50-2018 de fecha 6 de febrero del año 2018.
+En ejercicio de las facultades que le otorga los artículos 173, 246, 247 de la Constitución de la República; 29, 30, 33, 36, 116, 118 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-03-2014; Acuerdo de Nombramiento No. 50-2018 de fecha 6 de febrero del año 2018.
 
 ACUERDA:
 

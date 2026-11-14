@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Nos. 01-2020Acuerdo No. ADUANAS-DE-07-2020,Acuerdo No. ADUANAS-DE-008-2020,Acuerdo No. ADUANAS-DE-11-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200130-35162/download"
 extraido: "2026-11-14"
-huella: "3576d5ea11fe88b0"
+huella: "6b627c3dac490e9e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-07-2020
@@ -31,9 +31,9 @@ Tegucigalpa, M.D.C., 13 de enero del año 2020
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 del veintisiete (27) de septiembre del año dos mil diecinueve (2019), publicado en el Diario Oficial La Gaceta en fecha treinta (30) de septiembre del año dos mil diecinueve (2019). El Presidente Constitucional en Consejo de Secretarios de Estado Suprimir y liquidar a más tardar el treinta y uno (31) de diciembre de dos mil diecinueve (2019) a la Dirección Adjunta de Rentas Aduaneras (DARA).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 059-2019 anteriormente mencionado, se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, en consecuencia, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero (1) de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 anteriormente mencionado, se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, en consecuencia, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero (1) de enero de dos mil veinte (2020).
 
-CONSIDERANDO: Que de conformidad al Decreto 170- 2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
+CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
 
 CONSIDERANDO: Que el Director Ejecutivo tiene plena potestad para delegar las funciones en los funcionarios competentes, aprobar los acuerdos que contengan las normas intemas de la institución, seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo con las normas aplicables.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Ley de Simplificación Administrativa tiene como objetivos 
 
 POR TANTO
 
-En aplicación de los artículos 321, 323 y 324 de la Constitucíón de la República de Honduras, 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de Ia Ley de Procedimiento Administrativo, Decreto No. 170- 2016 contentivo del Código Tributario, Decreto Ejecutivo PCM-059-2019.
+En aplicación de los artículos 321, 323 y 324 de la Constitucíón de la República de Honduras, 100, 101, 116, 118 de la Ley General de la Administración Pública, artículos 3, 4 y 5 de Ia Ley de Procedimiento Administrativo, Decreto No. 170-2016 contentivo del Código Tributario, Decreto Ejecutivo PCM-059-2019.
 
 El Director Ejecutivo de la Administración Aduanera de Honduras en pleno uso de sus facultades.
 

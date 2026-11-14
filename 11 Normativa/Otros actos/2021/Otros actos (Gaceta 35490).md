@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Certificaciónes de los Acuerdos Nos. 016, 016-A, 017"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210118-35490/download"
 extraido: "2026-11-14"
-huella: "6eac5eb9d8e50d15"
+huella: "5fb0d44e604f820e"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificaciónes de los Acuerdos Nos. 016, 016-A, 017
@@ -29,21 +29,19 @@ huella: "6eac5eb9d8e50d15"
 
 Alcaldía Municipal del Distrito Central
 
-CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No.016 CONTENIDO EN EL ACTA N°. 012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
+CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No. 016 CONTENIDO EN EL ACTA N°. 012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.016.- CONSIDERANDO:
+“ACUERDO No. 016.- CONSIDERANDO:
 
 Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las Municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades, incluyendo divisiones o cualquier ente municipal desconcentrado, las que tendrán su propio presupuesto, aprobado por la Corporación Municipal.
 
 CONSIDERANDO: La Corporación Municipal es el órgano deliberativo de la Municipalidad, electa por el pueblo y máxima autoridad dentro del término municipal y le corresponde entre otras la facultad de crear, reformar y derogar los instrumentos normativos locales de conformidad con la Ley de municipalidades.
 
-CONSIDERANDO: Que mediante Decreto No.118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad a la que se refiere este
+CONSIDERANDO: Que mediante Decreto No. 118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad a la que se refiere este
 
 Artículo es permanente e intransferible.
 
-CONSIDERANDO: Que la AMDC mediante Acta N°.
-
-002 de la Sesión Ordinaria de Corporación Municipal de fecha 22 de enero de 2015 ha definido un modelo de gestión autónomo de propiedad pública, responsable de la prestación de los servicios de agua potable, alcantarillado sanitario y drenaje pluvial, por medio de una unidad municipal, que en el ejercicio de sus funciones actuará en nombre y representación de la Municipalidad.
+CONSIDERANDO: Que la AMDC mediante Acta N°. 002 de la Sesión Ordinaria de Corporación Municipal de fecha 22 de enero de 2015 ha definido un modelo de gestión autónomo de propiedad pública, responsable de la prestación de los servicios de agua potable, alcantarillado sanitario y drenaje pluvial, por medio de una unidad municipal, que en el ejercicio de sus funciones actuará en nombre y representación de la Municipalidad.
 
 CONSIDERANDO: Que la Corporación Municipal del Distrito Central según Acuerdo N°. 011 contenido en el Acta N°. 008 de fecha ocho de mayo del año dos mil quince, creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS), como un órgano desconcentrado de la Municipalidad del Distrito Central, encargada de la administración y prestación de los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, la cual, en ejercicio de sus funciones, actuará en nombre y representación de la AMDC, con amplia participación ciudadana y respeto ambiental.
 
@@ -51,7 +49,7 @@ POR TANTO: La Corporación Municipal del Distrito Central por Unanimidad de voto
 
 #### Artículo PRIMERO
 
-ARTÍCULO PRIMERO: Reformar el Artículo Segundo del Acuerdo No.011 contenido en el Acta N°. 008 de fecha 8 de mayo del año 2015 y sus reformas contenidas en el Acuerdo N°. 008 del Acta N°. 008 de fecha 8 de mayo de 2017 y Acuerdo N°. 026 contenido en el Acta N°. 021 de fecha 12 de agosto del año 2019, el cual de ahora en adelante deberá leerse así:
+ARTÍCULO PRIMERO: Reformar el Artículo Segundo del Acuerdo No. 011 contenido en el Acta N°. 008 de fecha 8 de mayo del año 2015 y sus reformas contenidas en el Acuerdo N°. 008 del Acta N°. 008 de fecha 8 de mayo de 2017 y Acuerdo N°. 026 contenido en el Acta N°. 021 de fecha 12 de agosto del año 2019, el cual de ahora en adelante deberá leerse así:
 
 “Artículo 2.- La Corporación Municipal emitirá los acuerdos y reglamentos para el funcionamiento, desarrollo orgánico, prestación de los servicios y demás relacionados, que sean necesarios para el cumplimiento de los objetivos de la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central”.
 
@@ -61,13 +59,11 @@ ARTÍCULO SEGUNDO: Derogar los artículos del 03 al 55 del Acuerdo N°. 011 cont
 
 #### Artículo TERCERO
 
-ARTÍCULO TERCERO: Derogar los Acuerdos N°. 008 del Acta N°. 008 de fecha 8 de mayo de 2017 y Acuerdo N°.
-
-026 contenido en el Acta N°. 021 de fecha 12 de agosto del año 2019.
+ARTÍCULO TERCERO: Derogar los Acuerdos N°. 008 del Acta N°. 008 de fecha 8 de mayo de 2017 y Acuerdo N°. 026 contenido en el Acta N°. 021 de fecha 12 de agosto del año 2019.
 
 #### Artículo CUARTO
 
-ARTÍCULO CUARTO: Todas las actuaciones realizadas al tenor de lo contenido en el Acuerdo N°. 011 contenido en el Acta No.008 de fecha ocho de mayo del año 2015 y sus reformas contenidas en el Acuerdo N°. 008 del Acta N°. 008 de fecha 8 de mayo del 2017 y Acuerdo N°. 026 contenido en el Acta N°. 021 de fecha 12 de agosto del Año 2019, quedarán vigentes.
+ARTÍCULO CUARTO: Todas las actuaciones realizadas al tenor de lo contenido en el Acuerdo N°. 011 contenido en el Acta No. 008 de fecha ocho de mayo del año 2015 y sus reformas contenidas en el Acuerdo N°. 008 del Acta N°. 008 de fecha 8 de mayo del 2017 y Acuerdo N°. 026 contenido en el Acta N°. 021 de fecha 12 de agosto del Año 2019, quedarán vigentes.
 
 #### Artículo QUINTO
 
@@ -75,29 +71,29 @@ ARTÍCULO QUINTO: El presente Acuerdo es de ejecución inmediata y deberá ser p
 
 Extendida en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los trece días del mes de noviembre del año dos mil veinte.
 
-COSSETTE A. LÓPEZ-OSORIO AGUILAR SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL Alcaldía Municipal del Distrito Central CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No.016-A CONTENIDO EN EL ACTA N°012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
+COSSETTE A. LÓPEZ-OSORIO AGUILAR SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL Alcaldía Municipal del Distrito Central CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No. 016-A CONTENIDO EN EL ACTA N°012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.016-A.- CONSIDERANDO: Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las Municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades, incluyendo divisiones o cualquier ente municipal desconcentrado, las que tendrán su propio presupuesto, aprobado por la Corporación Municipal.
+“ACUERDO No. 016-A.- CONSIDERANDO: Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las Municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades, incluyendo divisiones o cualquier ente municipal desconcentrado, las que tendrán su propio presupuesto, aprobado por la Corporación Municipal.
 
 CONSIDERANDO: La Corporación Municipal es el órgano deliberativo de la Municipalidad, electa por el pueblo y máxima autoridad dentro del término municipal y le corresponde entre otras la facultad de crear, reformar y derogar los instrumentos normativos locales de conformidad con la Ley de municipalidades.
 
-CONSIDERANDO: Que mediante Decreto No.118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad a la que se refiere este Artículo es permanente e intransferible.
+CONSIDERANDO: Que mediante Decreto No. 118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad a la que se refiere este Artículo es permanente e intransferible.
 
 CONSIDERANDO: Que la Corporación Municipal del Distrito Central según Acuerdo N°011 contenido en el Acta N°008 de fecha ocho de mayo del año dos mil quince, creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS), como un órgano desconcentrado de la Municipalidad del Distrito Central, encargada de la administración y prestación de los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, la cual, en ejercicio de sus funciones, actuará en nombre y representación de la AMDC, con amplia participación ciudadana y respeto ambiental.
 
 CONSIDERANDO: Que la Corporación Municipal del Distrito Central, aprobó el Acuerdo N°016 contenido en el Acta N°012 de fecha 22 de octubre del año 2020, el que reforma el Acuerdo de Creación de la UMAPS N°011 contenido en el Acta N°008 de fecha ocho de mayo del año dos mil quince, mediante el cual acordó la aprobación de los acuerdos y reglamentos para el funcionamiento, desarrollo orgánico, prestación de los servicios y demás relacionados, que sean necesarios para el cumplimiento de los objetivos de la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central.
 
-POR TANTO: La Corporación Municipal del Distrito Central por Unanimidad de votos y en aplicación de los artículos 12, 12-A incisos 2), 5), 6), 7); 13 incisos 1), 4), 14); 24 inciso 4); 25 incisos 1), 2) y 21); 65 incisos 1) y 5); y 99 de la Ley de Municipalidades; 4, 16, 21 y 29 de la Ley Marco del Sector Agua Potable y Saneamiento; 9, 57, 58 inciso b), 75, 146, 149, 151 inciso a) del Reglamento de la Ley de Municipalidades; 25 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento; y el Acuerdo No.011 contenido en el Acta No.008 de fecha ocho de mayo del año 2015, mediante el cual se creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS) y sus Reformas, los cuales deberán leerse de la siguiente manera:
+POR TANTO: La Corporación Municipal del Distrito Central por Unanimidad de votos y en aplicación de los artículos 12, 12-A incisos 2), 5), 6), 7); 13 incisos 1), 4), 14); 24 inciso 4); 25 incisos 1), 2) y 21); 65 incisos 1) y 5); y 99 de la Ley de Municipalidades; 4, 16, 21 y 29 de la Ley Marco del Sector Agua Potable y Saneamiento; 9, 57, 58 inciso b), 75, 146, 149, 151 inciso a) del Reglamento de la Ley de Municipalidades; 25 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento; y el Acuerdo No. 011 contenido en el Acta No. 008 de fecha ocho de mayo del año 2015, mediante el cual se creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS) y sus Reformas, los cuales deberán leerse de la siguiente manera:
 
 ACUERDA:
 
-PRIMERO.– Aprobar el Reglamento General de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS), según acuerdo No.011 contenido en el Acta No.008 de fecha ocho de mayo del año dos mil quince, el cual deberá leerse de la siguiente manera:
+PRIMERO.– Aprobar el Reglamento General de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS), según acuerdo No. 011 contenido en el Acta No. 008 de fecha ocho de mayo del año dos mil quince, el cual deberá leerse de la siguiente manera:
 
 Reglamento General de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS)
 
 #### Artículo 1
 
-ARTÍCULO 1.- El presente Reglamento General tiene como objetivo complementar las disposiciones que constituirán las bases sobre las cuales la UMAPS, en el ejercicio de sus funciones administrará y prestará los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, en el área urbana del Municipio del Distrito Central, conforme a lo establecido en el Acuerdo de Creación No.011 contenido en el Acta No.008 de fecha ocho de mayo del año 2015.
+ARTÍCULO 1.- El presente Reglamento General tiene como objetivo complementar las disposiciones que constituirán las bases sobre las cuales la UMAPS, en el ejercicio de sus funciones administrará y prestará los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, en el área urbana del Municipio del Distrito Central, conforme a lo establecido en el Acuerdo de Creación No. 011 contenido en el Acta No. 008 de fecha ocho de mayo del año 2015.
 
 #### Artículo 2
 
@@ -833,33 +829,33 @@ PUBLÍQUESE.- Sello f) Juan Carlos García Medina, Alcalde por Ley y los Regidor
 
 Extendida en la ciudad de Tegucigalpa, municipio del Distrito Central a los trece días del mes de noviembre del año dos mil veinte.
 
-COSSETTE A. LÓPEZ-OSORIO AGUILAR SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL Alcaldía Municipal del Distrito Central CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No.017 CONTENIDO EN EL ACTA No.012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
+COSSETTE A. LÓPEZ-OSORIO AGUILAR SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL Alcaldía Municipal del Distrito Central CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No. 017 CONTENIDO EN EL ACTA No. 012 DE FECHA VEINTIDÓS DE OCTUBRE DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.017.- CONSIDERANDO: Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades y que dentro de sus atribuciones está la protección del medio ambiente en general, de las cuencas hidrográficas y de las fuentes de abastecimiento de agua del municipio.
+“ACUERDO No. 017.- CONSIDERANDO: Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades y que dentro de sus atribuciones está la protección del medio ambiente en general, de las cuencas hidrográficas y de las fuentes de abastecimiento de agua del municipio.
 
 CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo de la Municipalidad, electa por el pueblo y máxima autoridad dentro del término municipal, en consecuencia, le corresponde ejercer entre otras, la facultad de crear, reformar y derogar los instrumentos normativos locales.
 
-CONSIDERANDO: Que mediante Decreto No.118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en dicha Ley y demás normas aplicables.
+CONSIDERANDO: Que mediante Decreto No. 118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en dicha Ley y demás normas aplicables.
 
 CONSIDERANDO: Que la LMSAPS en su Artículo 29 establece que: “Las Municipalidades como titulares del servicio aprobarán los reglamentos de prestación del servicio y su régimen tarifario, deberán, además, facilitar las actividades de los prestadores, realizando las acciones necesarias para apoyar las tareas de prestación y la ejecución de obras y proyectos de gestión ambiental a cargo de éstos”.
 
 CONSIDERANDO: Que el artículo 145 de la Constitución de la República declara el acceso al agua y saneamiento como un derecho humano, en consecuencia, los usuarios tienen derecho a recibir los beneficios de los servicios públicos municipales de agua potable y saneamiento, pagando las tarifas correspondientes previstas en el pliego tarifario, así como a participar en los programas y proyectos de inversión municipal, en la gestión y desarrollo de los asuntos locales.
 
-CONSIDERANDO: Que la Alcaldía Municipal del Distrito Central (AMDC) mediante Acta No.002 de la Sesión Ordinaria de Corporación Municipal de fecha veintidós
+CONSIDERANDO: Que la Alcaldía Municipal del Distrito Central (AMDC) mediante Acta No. 002 de la Sesión Ordinaria de Corporación Municipal de fecha veintidós
 
 (22) de enero de 2015, ha definido un modelo de gestión autónomo de propiedad pública, responsable de la prestación de los servicios de agua potable, alcantarillado sanitario y drenaje pluvial, por medio de una unidad municipal, que en el ejercicio de sus funciones actuará en nombre y representación de la Municipalidad.
 
-CONSIDERANDO: Que en fecha catorce (14) de mayo del año 2015, la Directora Coordinadora del Ente Regulador de los Servicios de Agua Potable y Saneamiento (ERSAPS), emitió la Resolución No.12-2015, por medio de la cual transcribe el Acuerdo No.13-2015, de fecha miércoles trece (13) de mayo del año 2015, del Directorio en pleno del ERSAPS, en el cual se aprobó la solicitud de Certificación de propuesta, por estar técnicamente elegible para recibir el sistema de agua potable y alcantarillado sanitario de la ciudad capital del Distrito Central, del Departamento de Francisco Morazán y que la Unidad Municipal de Agua Potable y Saneamiento “UMAPS”, sea la encargada de la prestación de los Servicios de Agua Potable y Saneamiento, por cumplir con todos los requisitos establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento General.
+CONSIDERANDO: Que en fecha catorce (14) de mayo del año 2015, la Directora Coordinadora del Ente Regulador de los Servicios de Agua Potable y Saneamiento (ERSAPS), emitió la Resolución No. 12-2015, por medio de la cual transcribe el Acuerdo No. 13-2015, de fecha miércoles trece (13) de mayo del año 2015, del Directorio en pleno del ERSAPS, en el cual se aprobó la solicitud de Certificación de propuesta, por estar técnicamente elegible para recibir el sistema de agua potable y alcantarillado sanitario de la ciudad capital del Distrito Central, del Departamento de Francisco Morazán y que la Unidad Municipal de Agua Potable y Saneamiento “UMAPS”, sea la encargada de la prestación de los Servicios de Agua Potable y Saneamiento, por cumplir con todos los requisitos establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento General.
 
-CONSIDERANDO: Que la Corporación Municipal del Distrito Central según Acuerdo No.011 contenido en el Acta No.008 de fecha ocho (8) de mayo del año 2015 y sus reformas contenidas en el Acuerdo No.008 del Acta No.008 de fecha 8 de mayo del 2017 y Acuerdo No.026 contenido en el Acta No.021 de fecha 12 de agosto del año 2019, creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS) como un órgano desconcentrado de la Alcaldía Municipal del Distrito Central, encargada de la administración y prestación de los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, la cual, en ejercicio de sus funciones, actuará en nombre y representación de la AMDC, con amplia participación ciudadana y respeto ambiental.
+CONSIDERANDO: Que la Corporación Municipal del Distrito Central según Acuerdo No. 011 contenido en el Acta No. 008 de fecha ocho (8) de mayo del año 2015 y sus reformas contenidas en el Acuerdo No. 008 del Acta No. 008 de fecha 8 de mayo del 2017 y Acuerdo No. 026 contenido en el Acta No. 021 de fecha 12 de agosto del año 2019, creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS) como un órgano desconcentrado de la Alcaldía Municipal del Distrito Central, encargada de la administración y prestación de los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, la cual, en ejercicio de sus funciones, actuará en nombre y representación de la AMDC, con amplia participación ciudadana y respeto ambiental.
 
 CONSIDERANDO: Que siendo la UMAPS un órgano desconcentrado de la AMDC, con amplias facultades de administración para el cumplimiento de su finalidad, según dispone el Acuerdo de su creación, incluyendo sistemas administrativos especiales, contabilidad y presupuesto separados de la AMDC, se debe establecer su Reglamento de Servicios que regirán las relaciones entre la UMAPS y los Usuarios, en el otorgamiento y el mantenimiento de la prestación de los servicios de agua potable, saneamiento y drenaje pluvial en el área de servicio dentro del perímetro urbano del Municipio del Distrito Central.
 
 POR TANTO, la Corporación Municipal del Distrito Central por unanimidad de votos y en aplicación de los Artículos 1;
 
-12 incisos 2), 6); 13 incisos 1), 4), 14); 24 incisos 4), 5), 6) y 7); 25 incisos 1), 4) y 21); 65 inciso 1) y 3); y 99 de la Ley de Municipalidades; 4, 16 y 29 de la Ley Marco del Sector Agua Potable y Saneamiento; 9, 11, 57, 58 inciso b), 75, 146, 151 inciso a), 152 inciso a. 5) e inciso a. 6) del Reglamento General de la Ley de Municipalidades; 25, 27, 28, 31, 40,4 1, 48, 52 inciso b) y 54 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento; el Acuerdo No.011 contenido en el Acta No.008 de fecha 8 de mayo del año 2015;
+12 incisos 2), 6); 13 incisos 1), 4), 14); 24 incisos 4), 5), 6) y 7); 25 incisos 1), 4) y 21); 65 inciso 1) y 3); y 99 de la Ley de Municipalidades; 4, 16 y 29 de la Ley Marco del Sector Agua Potable y Saneamiento; 9, 11, 57, 58 inciso b), 75, 146, 151 inciso a), 152 inciso a. 5) e inciso a. 6) del Reglamento General de la Ley de Municipalidades; 25, 27, 28, 31, 40,4 1, 48, 52 inciso b) y 54 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento; el Acuerdo No. 011 contenido en el Acta No. 008 de fecha 8 de mayo del año 2015;
 
-Acuerdo No.008 contenida en el Acta No.008 del 8 de mayo del año 2017 y Acuerdo No.026 contenido en el Acta No.021 del 12 de agosto del año 2019.
+Acuerdo No. 008 contenida en el Acta No. 008 del 8 de mayo del año 2017 y Acuerdo No. 026 contenido en el Acta No. 021 del 12 de agosto del año 2019.
 
 ACUERDA: PRIMERO: Aprobar el Reglamento de Servicios de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS), el cual deberá de leerse de la forma siguiente:
 

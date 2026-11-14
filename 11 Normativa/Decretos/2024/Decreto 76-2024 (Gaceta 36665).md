@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decretos Nos. 68-2024, 76-2024, 83-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241016-36665/download"
 extraido: "2026-11-14"
-huella: "f2e68a6701c66338"
+huella: "cbef685a75f2600e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 76-2024
@@ -43,13 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto Legislativo No.
-
-377-2005 de fecha 20 de Enero de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Febrero del 2006, Edición 30,923, contentivo de la cesión de administración del GIMNASIO NACIONAL “RUBÉN CALLEJAS VALENTINE”.
+ARTÍCULO 1.- Derogar el Decreto Legislativo No. 377-2005 de fecha 20 de Enero de 2006, publicado en el Diario Oficial “La Gaceta” en fecha 8 de Febrero del 2006, Edición 30,923, contentivo de la cesión de administración del GIMNASIO NACIONAL “RUBÉN CALLEJAS VALENTINE”.
 
 #### Artículo 2
 

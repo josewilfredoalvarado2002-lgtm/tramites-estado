@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 33-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240419-36513/download"
 extraido: "2026-11-14"
-huella: "55eaa14662147dd0"
+huella: "7b5d14cfcf7c39fe"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 33-2024
@@ -53,7 +53,7 @@ DECRETA:
 
 ARTÍCULO 1.- Aprobar en todas y cada una de las partes el “TRATADO DE LÍMITES ENTRE LA REPÚBLICA DE NICARAGUA Y LA REPÚBLICA DE HONDURAS EN EL MAR CARIBE Y AGUAS AFUERA DEL GOLFO DE FONSECA”, suscrito en fecha 27 del mes de Octubre del año 2021, entre la República de NICARAGUA y la República de HONDURAS, mismo que literalmente dice:
 
-“SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL. ACUERDO No- 02-DGAJTC-2022. Tegucigalpa M.D.C., 01 de agosto de 2022. LA PRESIDENTA C O N S T I T U C I O N A L D E L A REPÚBLICA. CONSIDERANDO: Que la República de Honduras y la República de Nicaragua, respetuosos del Derecho Internacional, reconocen la contribución de la Corte Internacional de Justicia, a través de las sentencias emitidas el 18 de noviembre de 1960, 11 de septiembre de 1992 y el 8 de octubre de 2007, mismas que Honduras ha proclamado como ineludible su validez y obligatoria su ejecución. CONSIDERANDO: Que la paz, la democracia, el desarrollo y la libertad son ideales centroamericanos que constituyen un todo armónico e indivisible para los Estados Miembros del Sistema de Integración Centroamericana.
+“SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL. ACUERDO No- 02-DGAJTC-2022. Tegucigalpa M.D.C., 01 de agosto de 2022. LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA. CONSIDERANDO: Que la República de Honduras y la República de Nicaragua, respetuosos del Derecho Internacional, reconocen la contribución de la Corte Internacional de Justicia, a través de las sentencias emitidas el 18 de noviembre de 1960, 11 de septiembre de 1992 y el 8 de octubre de 2007, mismas que Honduras ha proclamado como ineludible su validez y obligatoria su ejecución. CONSIDERANDO: Que la paz, la democracia, el desarrollo y la libertad son ideales centroamericanos que constituyen un todo armónico e indivisible para los Estados Miembros del Sistema de Integración Centroamericana.
 
 CONSIDERANDO: Que la Declaración de Managua de octubre de 2007 y la Declaración Conjunta de la Reunión Trinacional sobre el Golfo de Fonseca del 25 de agosto de 2014 propician la edificación de una convivencia armónica en la región. CONSIDERANDO: Que cualquier tratado o convención que celebre el Poder Ejecutivo referente al territorio nacional, requerirá la aprobación del Congreso Nacional por votación no menor de tres cuartas (¾) partes de la totalidad de sus miembros.
 

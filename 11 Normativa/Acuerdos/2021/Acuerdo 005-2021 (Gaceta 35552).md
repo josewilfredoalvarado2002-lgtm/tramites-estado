@@ -11,7 +11,7 @@ paginas: "A. 27 - 28"
 sumario: "Acuerdo No. 003-2021 Acuerdo No. 005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210323-35552/download"
 extraido: "2026-11-14"
-huella: "11562ec4018dab54"
+huella: "149890aa6be877b9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-2021
@@ -27,7 +27,7 @@ huella: "11562ec4018dab54"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

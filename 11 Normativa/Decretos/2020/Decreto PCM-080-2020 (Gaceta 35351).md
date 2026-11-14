@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números PCM-080-2020,PCM-082-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200823-35351/download"
 extraido: "2026-11-14"
-huella: "1230fb744bf108e6"
+huella: "602f603f3945260e"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-080-2020
@@ -33,9 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 245, numeral
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en su Artículo 11 indica que, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Acuerdo No. 031- 2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la Ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230- 2005; consecuentemente mediante Decreto Legislativo No.
-
-233-2005 publicado en fecha 21 de septiembre de 2005, se Sección A Decretos y Acuerdos PODER EJECUTIVO Decretos Ejecutivos números PCM-080-2020, PCM-082-2020.
+CONSIDERANDO: Que mediante Acuerdo No. 031-2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la Ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230-2005; consecuentemente mediante Decreto Legislativo No. 233-2005 publicado en fecha 21 de septiembre de 2005, se Sección A Decretos y Acuerdos PODER EJECUTIVO Decretos Ejecutivos números PCM-080-2020, PCM-082-2020.
 
 A. 1 - 15
 
@@ -51,7 +49,7 @@ CONSIDERANDO: Que los Lineamientos de Adquisiciones del Programa Millenium Chall
 
 CONSIDERANDO: Que para el cumplimiento de los objetivos de la Comisión Interventora, se torna necesario que se le envista de la capacidad legal para aprobar las excepciones enmarcadas en la Ley Cuenta Desafío del Milenio y sus reformas tal como se desprenden de los procedimientos establecidos en los Lineamientos de Adquisiciones vigentes y arriba relacionados, conforme a lo previsto en su misma normativa, tales como la contratación de servicios de auditoría a nivel nacional o internacional y demás contrataciones requeridas.
 
-POR TANTO, En uso de las facultades legales establecidas en los Artículos 5, 245 numerales 2, 11, 19 y 45, 20 y 30 y demás aplicables de la Constitución de la República; Artículos 7,11, 18,19, 22 numerales 9) y 12), 98, 99, 100, 101, 102, 116, 117 y 119 y demás aplicables de la Ley General de la Administración Pública, reformados por el Decreto Legislativo No. 266-2013; Decreto Legislativo No. 230-2005, Decreto Legislativo No. 233-2005, Decreto Legislativo No. 16-2017; Decreto Legislativo No. 33- 2020; Decreto Legislativo No. 92-2020; Decretos Ejecutivos Números PCM-006-2014, PCM-009-2018 reformado por el Decreto Ejecutivo Número PCM-025-2018; Artículo 6 del Reglamento de la Ley de Contratación del Estado; y, Acuerdo No. 031-2005.
+POR TANTO, En uso de las facultades legales establecidas en los Artículos 5, 245 numerales 2, 11, 19 y 45, 20 y 30 y demás aplicables de la Constitución de la República; Artículos 7,11, 18,19, 22 numerales 9) y 12), 98, 99, 100, 101, 102, 116, 117 y 119 y demás aplicables de la Ley General de la Administración Pública, reformados por el Decreto Legislativo No. 266-2013; Decreto Legislativo No. 230-2005, Decreto Legislativo No. 233-2005, Decreto Legislativo No. 16-2017; Decreto Legislativo No. 33-2020; Decreto Legislativo No. 92-2020; Decretos Ejecutivos Números PCM-006-2014, PCM-009-2018 reformado por el Decreto Ejecutivo Número PCM-025-2018; Artículo 6 del Reglamento de la Ley de Contratación del Estado; y, Acuerdo No. 031-2005.
 
 DECRETA:
 

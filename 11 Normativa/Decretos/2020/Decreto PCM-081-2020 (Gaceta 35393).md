@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decretos Ejecutivos números PCM-081-2020, PCM-095-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201007-35393/download"
 extraido: "2026-11-14"
-huella: "0fc2f868458edae9"
+huella: "a832d7327ec213c5"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-081-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que mediante Artículo 15 del Decreto Ejecutivo Número PCM-064-20
 
 La Unidad estará adscrita a la Secretaría de Finanzas debiendo para tal fin, dicha Secretaría de Estado asignar los recursos para el funcionamiento de la misma.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de julio de 2020, en su edición No. 35,314, se reformó el Artículo 20 del Decreto Ejecutivo Número PCM- 064-2019 el cual establece un plazo comprendido entre la vigencia dicho Decreto Ejecutivo y el 15 de agosto del 2020, para completar la transición de los Proyectos APP manejados hasta la fecha por la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) y que éstos sean liderados por cada Concedente, así como para que la UTEP-APP pueda estar en completo funcionamiento.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2020 publicado en el Diario Oficial “La Gaceta” en fecha 15 de julio de 2020, en su edición No. 35,314, se reformó el Artículo 20 del Decreto Ejecutivo Número PCM-064-2019 el cual establece un plazo comprendido entre la vigencia dicho Decreto Ejecutivo y el 15 de agosto del 2020, para completar la transición de los Proyectos APP manejados hasta la fecha por la Comisión para la Promoción de la Alianza Público-Privada (COALIANZA) y que éstos sean liderados por cada Concedente, así como para que la UTEP-APP pueda estar en completo funcionamiento.
 
 CONSIDERANDO: Que la Comisión de Transición emitió Informe que contiene acciones y recomendaciones referente al estado de proyectos de alianza público – privado en ejecución y estructuración, a fin de que se tomen las decisiones pertinentes de acuerdo al estado actual de los proyectos APP.
 

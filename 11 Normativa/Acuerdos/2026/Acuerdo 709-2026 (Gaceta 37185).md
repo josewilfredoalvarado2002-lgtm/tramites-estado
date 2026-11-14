@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdos Seds Números 613-2026, 614-2026, 615-2026, 709-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260704-37185/download"
 extraido: "2026-11-09"
-huella: "e36888a24d6884f4"
+huella: "6edc72e0408ec9a6"
 ---
 <!-- portal:inicio -->
 # ACUERDO SEDS NÚMERO 709-2026
@@ -61,7 +61,7 @@ POLICIAL. Es un órgano superior encargado de asesorar a la Dirección General d
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial número 1417-2022 de fecha 18 de julio del año 2022, publicado en el Diario Oficial La Gaceta en fecha 20 de julio del año 2022, se creó la Dirección Policial Anti Maras y Pandillas Contra el Crimen Organizado (DIPAMPCO).
 
-CONSIDERANDO: Que mediante Dictamen Técnico DGPN-DEP-No.15-2026, emitido por el Directorio Estratégico Policial, en fecha 29 de mayo del año 2026, se recomienda suprimir la Dirección Policial Anti Maras y Pandillas Contra el Crimen Organizado (DIPAMPCO).
+CONSIDERANDO: Que mediante Dictamen Técnico DGPN-DEP-No. 15-2026, emitido por el Directorio Estratégico Policial, en fecha 29 de mayo del año 2026, se recomienda suprimir la Dirección Policial Anti Maras y Pandillas Contra el Crimen Organizado (DIPAMPCO).
 
 POR TANTO:
 

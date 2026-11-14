@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230421-36209/download"
 extraido: "2026-11-14"
-huella: "f964819b0babbdb1"
+huella: "28c8a967dbd72bf6"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,7 +33,7 @@ CONSIDERANDO: Que le corresponde a la Secretaría de Trabajo y Seguridad Social 
 
 CONSIDERANDO: Que el Artículo 59 de la Constitución de la República declara que “la persona humana es el fin supremo de la sociedad y del Estado y todos tienen la obligación de respetarla y protegerla, siendo la dignidad del ser humano inviolable”.
 
-CONSIDERANDO: Que el Decreto Ejecutivo número PCM- 005-2020 publicado en el Diario Oficial La Gaceta, en fecha 10 de febrero de 2020 y sus respectivas prórrogas, declaró Estado de Emergencia Sanitaria en todo el territorio nacional, con el propósito entre otros, de fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por Coronavirus (Covid-19).
+CONSIDERANDO: Que el Decreto Ejecutivo número PCM-005-2020 publicado en el Diario Oficial La Gaceta, en fecha 10 de febrero de 2020 y sus respectivas prórrogas, declaró Estado de Emergencia Sanitaria en todo el territorio nacional, con el propósito entre otros, de fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por Coronavirus (Covid-19).
 
 CONSIDERANDO: Que mediante Decreto número 58-2020 del 21 de mayo de 2020, publicado en el Diario Oficial La Gaceta No. 35,261, en fecha 23 de mayo de 2020, se emitió la “Ley de Uso Obligatorio de Mascarillas y Aplicación Protocolos de Bioseguridad”, la cual en su artículo 9 señala que se faculta al Poder Ejecutivo a través de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social para que entre otros, ordene de manera inmediata las medidas correctivas para eliminar el riesgo de contagio de Covid-19 y las preventivas para evitar el hacinamiento de personas o cualquier otra que prevenga un posible siniestro, todo ello con el propósito de salvaguardar la vida, la integridad física, la salud de los trabajadores y la población en general.
 

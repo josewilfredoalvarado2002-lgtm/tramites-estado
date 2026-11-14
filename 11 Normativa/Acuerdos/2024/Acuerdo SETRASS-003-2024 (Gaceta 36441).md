@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. SETRASS-003-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240123-36441/download"
 extraido: "2026-11-14"
-huella: "c5dce3cef7391687"
+huella: "1b04019fea2e6dd6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-003-2024
@@ -31,17 +31,13 @@ huella: "c5dce3cef7391687"
 
 LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL.- PRESIDENTA DE LA JUNTA DIRECTIVA DEL INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado, entre otras facultades el nombramiento del ciudadano que desempeñe la función de Director Ejecutivo del Instituto Hondureño del Seguro Social, conforme a la terna propuesta por la Junta Directiva y al cumplimiento de los requisitos legales.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado, entre otras facultades el nombramiento del ciudadano que desempeñe la función de Director Ejecutivo del Instituto Hondureño del Seguro Social, conforme a la terna propuesta por la Junta Directiva y al cumplimiento de los requisitos legales.
 
 CONSIDERANDO: Que el artículo 25 reformado de la Ley del Seguro Social, establece que el Director Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS), será nombrado por el Presidente de la República de una terna de ciudadanos propuestos por la Junta Directiva de dicha Institución.
 
 CONSIDERANDO: Que mediante Resolución No. SEJDIHSS-097-2024-IV de fecha 5 de enero de 2024, se acordó aprobar la terna de candidatos para optar al cargo de Director Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS), y ser propuesta a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (SETRASS), en virtud de la facultad a ella delegada.
 
-CONSIDERANDO: Que mediante Acuerdo No.
-
-SETRASS-002-2024 de fecha 05 de enero de 2024, esta Secretaría de Estado en base al Acuerdo Ejecutivo No. 342-2022 procedió a emitir el Acuerdo de Cancelación de Nombramiento de Director Ejecutivo al Doctor José Gaspar Rodríguez Mendoza del Instituto Hondureño de Seguridad Social (IHSS).
+CONSIDERANDO: Que mediante Acuerdo No. SETRASS-002-2024 de fecha 05 de enero de 2024, esta Secretaría de Estado en base al Acuerdo Ejecutivo No. 342-2022 procedió a emitir el Acuerdo de Cancelación de Nombramiento de Director Ejecutivo al Doctor José Gaspar Rodríguez Mendoza del Instituto Hondureño de Seguridad Social (IHSS).
 
 POR TANTO:
 

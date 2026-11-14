@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Ejecutivos Nos. 08-2023, 09-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230218-36159/download"
 extraido: "2026-11-14"
-huella: "5d363cb87763f5fb"
+huella: "730262620aa27303"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 09-2023
@@ -39,11 +39,11 @@ CONSIDERANDO: Que el Artículo 5 de la Ley de Procedimiento Administrativo estab
 
 CONSIDERANDO: Que mediante Acuerdo No. 197-2022 de fecha 20 de mayo del año 2022, se delegó en la Licenciada ANA RUTH GIRON, funciones como Encargada del Programa de Protección de Niños, Niñas y Adolescentes con Derechos Vulnerados.
 
-CONSIDERANDO: Que, mediante Memorandum RRHH- 095-2023 de fecha 9 de febrero del año 2023, se solicita dejar sin valor y efecto el Acuerdo No. 197-2022 de fecha 20 de mayo del año 2022 y la emisión de Acuerdo de Delegación a favor de la Licenciada CLAUDIA MARGARITA TREJO AYALA, como encargada del Programa de Protección de Niños, Niñas y Adolescentes con Derechos Vulnerados.
+CONSIDERANDO: Que, mediante Memorandum RRHH-095-2023 de fecha 9 de febrero del año 2023, se solicita dejar sin valor y efecto el Acuerdo No. 197-2022 de fecha 20 de mayo del año 2022 y la emisión de Acuerdo de Delegación a favor de la Licenciada CLAUDIA MARGARITA TREJO AYALA, como encargada del Programa de Protección de Niños, Niñas y Adolescentes con Derechos Vulnerados.
 
 POR TANTO
 
-En aplicación de los Artículos 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25,-26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM- 027-2014 de fecha 4 de junio de 2014.
+En aplicación de los Artículos 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25,-26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
 ACUERDA
 

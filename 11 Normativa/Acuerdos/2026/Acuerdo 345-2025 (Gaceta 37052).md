@@ -11,7 +11,7 @@ paginas: "A. 8 - 26"
 sumario: "Acuerdo Número 345-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "e8548f8f4660b0f5"
+huella: "5f438b8a520c28eb"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 345-2025
@@ -37,9 +37,7 @@ CONSIDERANDO (3): Que el Artículo 58 de la Ley Orgánica del Presupuesto establ
 
 CONSIDERANDO (4):
 
-Q u e m e d i a n t e A c u e r d o Ministerial No. 0321 de fecha 3 de marzo de 2006 y publicado en el Diario Oficial La Gaceta (No.
-
-30,979) el 18 de abril de 2006, se aprobaron las Normas Técnicas de Inversión Pública.
+Que mediante Acuerdo Ministerial No. 0321 de fecha 3 de marzo de 2006 y publicado en el Diario Oficial La Gaceta (No. 30,979) el 18 de abril de 2006, se aprobaron las Normas Técnicas de Inversión Pública.
 
 CONSIDERANDO (5):
 
@@ -69,7 +67,7 @@ Inversión Pública. En concordancia con el Artículos 55 de la Ley Orgánica de
 
 #### Artículo 2
 
-ARTÍCULO 2. Marco Normativo. Estas NTIP, se vinculan con la Ley General de Administración Pública que faculta a la Dirección General de Inversiones Públicas, adscrita a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) como Órgano Técnico Coordinador del Programa de Inversión Pública; a la Ley Orgánica de Presupuesto y su Reglamento, que detalla la estructura del sistema, determina las características del Programa Anual de Inversión Pública y Programa Plurianual de Inversión Pública y establecen los procesos que deben de cumplir las instituciones que presentan programas y proyectos de inversión; al Decreto Ejecutivo 218- 96 (de la creación de la DGIP); a las Disposiciones Generales del Presupuesto vigentes y su respectivo Reglamento.
+ARTÍCULO 2. Marco Normativo. Estas NTIP, se vinculan con la Ley General de Administración Pública que faculta a la Dirección General de Inversiones Públicas, adscrita a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) como Órgano Técnico Coordinador del Programa de Inversión Pública; a la Ley Orgánica de Presupuesto y su Reglamento, que detalla la estructura del sistema, determina las características del Programa Anual de Inversión Pública y Programa Plurianual de Inversión Pública y establecen los procesos que deben de cumplir las instituciones que presentan programas y proyectos de inversión; al Decreto Ejecutivo 218-96 (de la creación de la DGIP); a las Disposiciones Generales del Presupuesto vigentes y su respectivo Reglamento.
 
 #### Artículo 3
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decreto Ejecutivo número PCM-073-2020, Acuerdo Ejecutivo número 001-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200728-35327/download"
 extraido: "2026-11-14"
-huella: "258a61499bc66e50"
+huella: "c1a8ded49e294a40"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-SE-2020
@@ -39,9 +39,7 @@ CONSIDERANDO: En el Marco del Diálogo Nacional por la Educación, se firmó act
 
 CONSIDERANDO: El incremento salarial es un incentivo y una iniciativa para dignificar el magisterio, garantizar al docente un nivel de vida acorde a su profesión y asegurarle al pueblo hondureño una educación de alta calidad (Artículo 1, Estatuto del Docente Hondureño).
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No.
-
-023-2018, publicado en el Diario Oficial “La Gaceta” el 16 de abril del año 2018, el Presidente de la República delegó la facultad de firmar Decretos y Acuerdos Ejecutivos en la ciudadana Martha Vicenta Doblado Andara, como Secretaria Coordinadora General de Gobierno, por Ley.
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 023-2018, publicado en el Diario Oficial “La Gaceta” el 16 de abril del año 2018, el Presidente de la República delegó la facultad de firmar Decretos y Acuerdos Ejecutivos en la ciudadana Martha Vicenta Doblado Andara, como Secretaria Coordinadora General de Gobierno, por Ley.
 
 POR TANTO: En el ejercicio de sus atribuciones y en la aplicación de los Artículos 128 numeral 3, 151 y 245 párrafo primero, numerales 11, 19 y 28 y 248 de la Constitución de la República; 11, 29, 116 y 117 de la Ley General de la Administración Pública.
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decretos Nos. 11-2022, 13-2022, 14-2022, 17-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220328-35884/download"
 extraido: "2026-11-14"
-huella: "8d93d549c5968059"
+huella: "04a25d32432330d7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 17-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

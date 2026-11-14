@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdos Ministeriales Nos. 122-2023, 125-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231128-36395/download"
 extraido: "2026-11-14"
-huella: "057c46e983d94cf5"
+huella: "a156a6728b6f694f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 122-2023
@@ -33,13 +33,11 @@ CONSIDERANDO: Que es competencia de la Secretaría de Desarrollo Económico gara
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre República Dominicana-Centroamérica y Estados Unidos (RDCAFTA), fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año, entrado en vigor 01 de abril del 2006.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No.3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo. Asimismo, el Acuerdo 013-2016 del 04 de febrero del 2016, establece la asignación del contingente arancelario de maíz blanco (1005.90.30.00 del ACI) en dicho Tratado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo. Asimismo, el Acuerdo 013-2016 del 04 de febrero del 2016, establece la asignación del contingente arancelario de maíz blanco (1005.90.30.00 del ACI) en dicho Tratado.
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre Canadá y la República de Honduras, fue aprobado por el Congreso Nacional mediante Decreto No. 251-2013 del 10 de diciembre del 2013 y publicado en el Diario Oficial La Gaceta el 07 de junio del 2014, entrando en vigor el 1 de octubre de 2014.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 202- 2020 de fecha 12 de octubre de 2020 es contentivo de la reforma de las “Regulaciones para la Administración de los Contingentes Arancelarios de Importación, contenidos en el Anexo 3.4.2 y Medidas de Salvaguardia Agrícola del Anexo 3.15 del Tratado de Libre Comercio entre Honduras y Canadá”, contenidas en el Anexo I del Acuerdo Ministerial No. 357-2014.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 202-2020 de fecha 12 de octubre de 2020 es contentivo de la reforma de las “Regulaciones para la Administración de los Contingentes Arancelarios de Importación, contenidos en el Anexo 3.4.2 y Medidas de Salvaguardia Agrícola del Anexo 3.15 del Tratado de Libre Comercio entre Honduras y Canadá”, contenidas en el Anexo I del Acuerdo Ministerial No. 357-2014.
 
 CONSIDERANDO: Que el Congreso Nacional mediante Decreto No. 7-2008, aprobó el Tratado de Libre Comercio entre Centroamérica y la República de Panamá, el cual entro en vigor en fecha del 08 de enero de 2009.
 
@@ -51,9 +49,7 @@ CONSIDERANDO: Que el Congreso Nacional mediante Decreto No. 188-2007 de fecha 10
 
 CONSIDERANDO: Que para el contingente de importación de 500 Toneladas Métricas, de Alimentos para perros o gatos acondicionados para la venta al por menor, excepto para los alimentos presentados en latas herméticas, clasificados en la partida arancelaria 2309.10.00.00 del Arancel Centroamericano de Importación (ACI), establecido en el Tratado de Libre Comercio entre las Repúblicas de El Salvador, Guatemala y Honduras con la República de Colombia, no se definieron las modalidades para su administración, debiendo la Secretaría de Desarrollo Económico, definir las modalidades para la asignación del mismo.
 
-CONSIDERANDO: Que el Acuerdo por el que se establece una Asociación entre Centroamérica, por un lado y La Unión Europea y sus Estados Miembros, por otro, fue aprobado por el Congreso Nacional de Honduras mediante Decreto No.
-
-210-2012 de fecha 18 de enero del 2013 y publicado en el Diario Oficial “La Gaceta” el 25 de junio de 2013, entrando en vigor el 01 de agosto de 2013, estableciendo en el apéndice 1 al Anexo I del Acuerdo los contingentes arancelarios de importación otorgados por las Repúblicas de la Parte Centroamericana para los productos originarios procedentes de La Unión Europea.
+CONSIDERANDO: Que el Acuerdo por el que se establece una Asociación entre Centroamérica, por un lado y La Unión Europea y sus Estados Miembros, por otro, fue aprobado por el Congreso Nacional de Honduras mediante Decreto No. 210-2012 de fecha 18 de enero del 2013 y publicado en el Diario Oficial “La Gaceta” el 25 de junio de 2013, entrando en vigor el 01 de agosto de 2013, estableciendo en el apéndice 1 al Anexo I del Acuerdo los contingentes arancelarios de importación otorgados por las Repúblicas de la Parte Centroamericana para los productos originarios procedentes de La Unión Europea.
 
 CONSIDERANDO: Que el Consejo de Ministros de Integración Económica mediante Resolución No. 315-2013 (COMIECO EX) de fecha 05 de julio del 2013, aprobó el Reglamento Centroamericano para la Administración de los Contingentes Regionales del Acuerdo por el que establece una Asociación entre Centroamérica, por un lado y La Unión Europea y sus Estados Miembros, por otro.
 
@@ -213,7 +209,7 @@ b) En el caso de personas naturales, número de Tarjeta de Identidad y del Regis
 
 c) Nombre del representante legal y certificación de punto de acta de su nombramiento cuando se trate de persona jurídica.
 
-Para efectos de la aplicación de este Ordinal, el importador deberá presentar la solicitud del contingente de importación por cada embarque de conformidad al Artículo 2, literal c), Número Romano iv del Acuerdo Ministerial No. 202- 2020, asimismo, deberán comprobar la idoneidad para ser beneficiarios de dicho certificado, demostrando que su principal actividad económica está dedicada al rubro de los productos Carne de Bovino y Carne de cerdo.
+Para efectos de la aplicación de este Ordinal, el importador deberá presentar la solicitud del contingente de importación por cada embarque de conformidad al Artículo 2, literal c), Número Romano iv del Acuerdo Ministerial No. 202-2020, asimismo, deberán comprobar la idoneidad para ser beneficiarios de dicho certificado, demostrando que su principal actividad económica está dedicada al rubro de los productos Carne de Bovino y Carne de cerdo.
 
 CUARTO: La Administración Aduanera de Honduras para los productos lácteos establecidos con la modalidad de primer llegado y primer servido en la aduana, deberá solicitar al importador los siguientes documentos:
 
@@ -225,7 +221,7 @@ QUINTO: Los importadores interesados en solicitar asignaciones de los contingent
 
 SEXTO: El contingente de importación de maíz blanco para el año 2024, en el marco del Tratado de Libre Comercio entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, será distribuido de la siguiente manera: el 95% correspondiente a las empresas históricas y el 5% restante para las empresas nuevas, el que se asignará en el proceso de reasignación de conformidad a lo establecido en el Acuerdo No. 013-2016.
 
-SÉPTIMO: La Secretaría de Desarrollo Económico, ejercerá las sanciones correspondientes de conformidad al Artículo 19 del Acuerdo Ejecutivo No.16-2006 del 20 de marzo del 2006, a todo importador al que se haya otorgado un certificado de importación, en el marco del Tratado de Libre Comercio entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA y que no cumpla con las disposiciones establecidas en dicho Artículo.
+SÉPTIMO: La Secretaría de Desarrollo Económico, ejercerá las sanciones correspondientes de conformidad al Artículo 19 del Acuerdo Ejecutivo No. 16-2006 del 20 de marzo del 2006, a todo importador al que se haya otorgado un certificado de importación, en el marco del Tratado de Libre Comercio entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA y que no cumpla con las disposiciones establecidas en dicho Artículo.
 
 OCTAVO: Toda información suministrada por los solicitantes estará sujeta a verificación por parte de la Secretaría de Desarrollo Económico, quien podrá desestimar cualquier solicitud que contenga errores u omisiones graves, sin perjuicio de la responsabilidad penal o civil correspondiente.
 

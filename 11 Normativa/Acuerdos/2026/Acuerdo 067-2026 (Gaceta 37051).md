@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdo Número 067-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260123-37051/download"
 extraido: "2026-11-09"
-huella: "a83fab732d8b65f8"
+huella: "a00c425d22ef0779"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 067-2026
@@ -45,9 +45,7 @@ La Secretaría de Estado en el Despacho de Finanzas, en uso de sus facultades y 
 
 ACUERDA:
 
-PRIMERO: Nombrar a la ciudadana LESLY SARAHÍ CERNA, con Documento Nacional de Identificación No.
-
-1503-1993-01499, en el cargo de Directora del Banco Central de Honduras (BCH), conforme al artículo 6 de La Ley del Banco Central de Honduras, a partir del veintitrés (23) de enero del año dos mil veintiséis (2026) hasta el veintitrés
+PRIMERO: Nombrar a la ciudadana LESLY SARAHÍ CERNA, con Documento Nacional de Identificación No. 1503-1993-01499, en el cargo de Directora del Banco Central de Honduras (BCH), conforme al artículo 6 de La Ley del Banco Central de Honduras, a partir del veintitrés (23) de enero del año dos mil veintiséis (2026) hasta el veintitrés
 
 (23) enero del año 2028.
 

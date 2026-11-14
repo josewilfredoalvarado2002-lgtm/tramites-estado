@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220422-35903/download"
 extraido: "2026-11-14"
-huella: "8e9bdf5e6aad7edb"
+huella: "d20cf15af921d75b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "8e9bdf5e6aad7edb"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 2336-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, dieciséis de noviembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de noviembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-09112021- 792, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA JAGUA, DEL MUNICIPIO DE ALAUCA, DEPARTAMENTO DE EL PARAÍSO, con domicilio en la Comunidad de La Jagua, municipio de Alauca, departamento de El Paraíso; contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha nueve de noviembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-09112021-792, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LA JAGUA, DEL MUNICIPIO DE ALAUCA, DEPARTAMENTO DE EL PARAÍSO, con domicilio en la Comunidad de La Jagua, municipio de Alauca, departamento de El Paraíso; contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -59,9 +59,7 @@ OCTAVO: Oue el Presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -99,7 +97,7 @@ ARTÍCULO 5.- La organización tendrá los siguientes objetivos: a. Mejorar la c
 
 #### Artículo 6
 
-ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro Discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a : 1) Capacidad de pago. 2) Número de familia por vivienda. 3) Número de llaves adicionales.
+ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro Discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: 1) Capacidad de pago. 2) Número de familia por vivienda. 3) Número de llaves adicionales.
 
 \4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.-Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
 

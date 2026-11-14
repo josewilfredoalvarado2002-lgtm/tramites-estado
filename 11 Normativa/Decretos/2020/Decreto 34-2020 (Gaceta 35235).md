@@ -11,7 +11,7 @@ paginas: "A. 14 - 21"
 sumario: "Decretos Nos. 34-2020, 35-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "212b34e6dbbe59c2"
+huella: "353318283858b857"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 34-2020
@@ -29,11 +29,11 @@ huella: "212b34e6dbbe59c2"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6593-HN suscrito el 13 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Diecinueve Millones de Dólares de los Estados Unidos de América (US$119,000,000.00), recursos destinados a financiar la ejecución del “Crédito para Políticas de Desarrollo sobre Gestión del Riesgo de Desastres con Opción de Desembolso Diferido ante Catástrofes (CAT-DDO)”, se ampara en el
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6593-HN suscrito el 13 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Diecinueve Millones de Dólares de los Estados Unidos de América (US$119,000,000.00), recursos destinados a financiar la ejecución del “Crédito para Políticas de Desarrollo sobre Gestión del Riesgo de Desastres con Opción de Desembolso Diferido ante Catástrofes (CAT-DDO)”, se ampara en el
 
-Artículo 70 del Decreto No.17-2010.
+Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el programa tiene como objetivo mejorar de manera integral el marco legal, institucional y financiero para la gestión de desastres asociados con peligros naturales, incluidos brotes de enfermedades.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19 y 36 de la Co
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6593-HN suscrito el 13 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Diecinueve Millones de Dólares de los Estados Unidos de América (US$119,000,000.00), recursos destinados a financiar la ejecución del “Crédito para Políticas de Desarrollo sobre Gestión del Riesgo de Desastres con Opción de Desembolso Diferido ante Catástrofes (CAT-DDO)” que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6593-HN suscrito el 13 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Diecinueve Millones de Dólares de los Estados Unidos de América (US$119,000,000.00), recursos destinados a financiar la ejecución del “Crédito para Políticas de Desarrollo sobre Gestión del Riesgo de Desastres con Opción de Desembolso Diferido ante Catástrofes (CAT-DDO)” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -161,7 +161,7 @@ Acciones en virtud del Programa Las acciones tomadas por el Destinatario en virt
 
 2. El Destinatario ha fortalecido su capacidad institucional de GRD, mediante el establecimiento de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales y la adscripción de la COPECO a la jurisdicción administrativa de dicha institución; como se evidencia en el Decreto Ejecutivo No. PCM-057-2019 del 11 de septiembre de 2019 y publicado en la Gaceta Oficial el 12 de septiembre de 2019.
 
-3. El Destinatario ha fortalecido la GRD y la ACC a nivel municipal al definir las responsabilidades para la formulación y adopción de planes locales de emergencia que contribuyan a prevenir y abordar el riesgo climático; como se evidencia en el Art. 210 del Decreto Legislativo No.171-2019 del 12 de diciembre de 2019 y publicado en La Gaceta Oficial el 31 de diciembre de 2019.
+3. El Destinatario ha fortalecido la GRD y la ACC a nivel municipal al definir las responsabilidades para la formulación y adopción de planes locales de emergencia que contribuyan a prevenir y abordar el riesgo climático; como se evidencia en el Art. 210 del Decreto Legislativo No. 171-2019 del 12 de diciembre de 2019 y publicado en La Gaceta Oficial el 31 de diciembre de 2019.
 
 4. El Destinatario ha fortalecido su capacidad de preparación y respuesta ante pandemias, epidemias y emergencias sanitarias mediante la aprobación del Plan de Prevención y Respuesta ante Alertas Epidemiológicas, Epidemias y otras Emergencias Sanitarias; como se evidencia en el Acuerdo Ministerial No. 020-2020 del 15 de enero de 2020 y publicado en la Gaceta Oficial el 29 de febrero del 2020.
 
@@ -213,7 +213,7 @@ Definiciones
 
 6. “GRD” significa gestión del riesgo de desastres.
 
-7. “Emergencia” significa, a los efectos de este Acuerdo de Financiamiento, una declaración de emergencia por parte del Destinatario, a través de un Decreto Ejecutivo PCM, en todo o en parte de su territorio, debido a un desastre natural inminente u en curso, brotes de enfermedades o epidemias en la población humana (excluyendo las declaraciones de emergencia basadas en: (i) deficiencias crónicas del sistema de salud, (ii) emergencias ambientales; y ,(iii) emergencias fitosanitarias), de conformidad con la legislación de GRD del Destinatario y cualquier otro instrumento legal, compatible con el marco legal existente para la declaración de Emergencia, que el Destinatario adopte periódicamente con el acuerdo previo de la Asociación.
+7. “Emergencia” significa, a los efectos de este Acuerdo de Financiamiento, una declaración de emergencia por parte del Destinatario, a través de un Decreto Ejecutivo PCM, en todo o en parte de su territorio, debido a un desastre natural inminente u en curso, brotes de enfermedades o epidemias en la población humana (excluyendo las declaraciones de emergencia basadas en: (i) deficiencias crónicas del sistema de salud, (ii) emergencias ambientales; y,(iii) emergencias fitosanitarias), de conformidad con la legislación de GRD del Destinatario y cualquier otro instrumento legal, compatible con el marco legal existente para la declaración de Emergencia, que el Destinatario adopte periódicamente con el acuerdo previo de la Asociación.
 
 8. “Condiciones Generales” significa las “Condiciones Generales de la Asociación Internacional de Fomento para el Financiamiento de la AIF, Financiamiento de Políticas de Desarrollo”, del 14 de diciembre de 2018, con las modificaciones establecidas en la Sección II de este Apéndice.
 

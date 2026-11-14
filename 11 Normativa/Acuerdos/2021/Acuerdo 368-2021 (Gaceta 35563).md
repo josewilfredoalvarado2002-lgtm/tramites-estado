@@ -11,7 +11,7 @@ paginas: "A. 10 - 11"
 sumario: "Acuerdo No. 368-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210406-35563/download"
 extraido: "2026-11-14"
-huella: "f898df17c1ee5e6b"
+huella: "bd45f115a67c9595"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 368-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en la Ley General de la Administració
 
 CONSIDERANDO: Que los Subsecretarios de Estado son colaboradores inmediatos de los Secretarios de Estado, siendo responsables de las funciones a su cargo y de la coordinación de las áreas sustantivas que les sean atribuidas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo del Presidente de la República No.
-
-49-2014 de fecha 11 de febrero del año 2014, se nombró al ciudadano CARLOS PINEDA FASQUELLE, como Subsecretario de Ambiente.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo del Presidente de la República No. 49-2014 de fecha 11 de febrero del año 2014, se nombró al ciudadano CARLOS PINEDA FASQUELLE, como Subsecretario de Ambiente.
 
 CONSIDERANDO: Que en ausencia temporal de sus labores por enfermedad o por el desempeño de sus actividades inherentes al cargo, puede delegar las mismas inmediatamente en el Subsecretario de Ambiente, Ingeniero CARLOS PINEDA FASQUELLE, con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos ventilados en esta Secretaría de Estado.
 

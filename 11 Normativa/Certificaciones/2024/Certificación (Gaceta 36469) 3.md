@@ -11,7 +11,7 @@ paginas: "A. 111 - 116"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240224-36469/download"
 extraido: "2026-11-14"
-huella: "e74b45a7af2e0f4c"
+huella: "3c814a2234b9bf8d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACION
@@ -59,9 +59,9 @@ ACUERDA:PRIMERO: Dar por aprobado el
 
 MANUAL DE SANCIONES ADMINISTRATIVAS
 
-DE LA DGC, versión 1.0 del año 2024 que es de aplicación inmediata a todos los agentes participantes, que literalmente dice :
+DE LA DGC, versión 1.0 del año 2024 que es de aplicación inmediata a todos los agentes participantes, que literalmente dice:
 
-MANUAL DE SANCIONES ADMINISTRATIVAS PARA LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No.3 Versión 1.0
+MANUAL DE SANCIONES ADMINISTRATIVAS PARA LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No. 3 Versión 1.0
 
 4. Propósito del Manual El propósito del manual de sanciones administrativas de la Dirección General de Cinematografía (DGC), es establecer un marco normativo claro y detallado que regule el comportamiento y las acciones de los participantes en la industria cinematográfica, en relación con el uso del Fondo para el Desarrollo Cinematografico (FONDECI).
 

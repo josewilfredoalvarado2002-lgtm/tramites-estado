@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministerial No. 514-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260829-37233/download"
 extraido: "2026-11-09"
-huella: "b8cfe8dedd8889d6"
+huella: "86acbc3d69b39199"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL N°. 514-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Conforme a lo dispuesto en el artículo 27 numeral 27 del Reglamen
 
 CONSIDERANDO: Que la Secretaría General es el órgano de apoyo técnico-administrativo encargado de la coordinación, control y seguimiento de los asuntos administrativos internos de la Secretaría.
 
-CONSIDERANDO: Mediante Acuerdo Ejecutivo N 086- 2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
+CONSIDERANDO: Mediante Acuerdo Ejecutivo N 086-2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
 
 CONSIDERANDO: El Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (SERNA), JUAN CARLOS RAMOS RAMÍREZ, durante los días comprendidos del 12 al 13 de agosto del dos mil veintiséis (2026), asistirá a el encuentro LXXV Reunión Ordinaria del Consejo de Ministros de la Comisión Centroamericana de Ambiente y Desarrollo (CCAD) que se desarrollará en la Ciudad de Belice, Belice, por lo que se hace necesario en su ausencia delegar las funciones en el Secretario General de la Secretaría de Recursos Naturales y Ambiente, ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, a fin de mantener el normal desarrollo de las actividades de esta Secretaría de Estado.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 28"
 sumario: "Acuerdo 02-PROASOL-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230809-36303/download"
 extraido: "2026-11-14"
-huella: "ba62b380285692b1"
+huella: "2580450619dc6a76"
 ---
 <!-- portal:inicio -->
 # ACUERDO 02-PROASOL-2023
@@ -43,7 +43,7 @@ Sección A, Acuerdos y Leyes REPÚBLICA DE HONDURAS
 
 No. 35,999, fusionarán o suprimirán mediante Decreto de la Presidenta de la República en Consejo de Secretarios de Estado y sus titulares responderán de su gestión ante la dependencia de la Administración Centralizada de la que dependan.
 
-CONSIDERANDO: Que el Decreto Ejecutivo PCM 020- 2022 de fecha 11 de agosto 2022, publicado en el Diario Oficial La Gaceta y que contiene la creación del PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL), como ente desconcentrado con autonomía técnica-administrativa y financiera que tiene como mandato la atención social a personas encontradas en grupos vulnerables tales como: La niñez vulnerable en edad escolar, las personas en condición de indigencia viviendo en la calle, los migrantes retornados de manera forzada, las personas con discapacidad, los adultos mayores vulnerables, los desplazados y afectados por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc.
+CONSIDERANDO: Que el Decreto Ejecutivo PCM 020-2022 de fecha 11 de agosto 2022, publicado en el Diario Oficial La Gaceta y que contiene la creación del PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL), como ente desconcentrado con autonomía técnica-administrativa y financiera que tiene como mandato la atención social a personas encontradas en grupos vulnerables tales como: La niñez vulnerable en edad escolar, las personas en condición de indigencia viviendo en la calle, los migrantes retornados de manera forzada, las personas con discapacidad, los adultos mayores vulnerables, los desplazados y afectados por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc.
 
 CONSIDERANDO: Que las Disposiciones Generales del Presupuesto General de Ingresos y Egresos para el ejercicio fiscal 2023, Decreto No. 157-2022, de 12 de enero del 2023, publicado en el Diario Oficial, contempla la partida presupuestaria para los beneficios a otorgar en concepto de pensión a los Adultos Mayores en extrema pobreza, que deberá autorizar la Dirección Ejecutiva.
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que la Unidad de Asistencia y protección Social dependiente de la
 
 CONSIDERANDO: Que en fecha veintiséis (26) de mayo del dos mil veintitrés (2023), el Departamento Legal del Programa de Acción Solidaria, emitió Dictamen Legal No. 001-DLPROAOSL-2023, donde señala que es procedente el pago a través de las estructuras presupuestarias de PROASOL, de las pensiones y beneficios previamente otorgadas a los adultos mayores a través de SEDIS y SEDESOL.
 
-CONSIDERANDO: Que la Secretaria General emitió Resolución 001 - SG- PROASOL- 2023 de fecha veintinueve
+CONSIDERANDO: Que la Secretaria General emitió Resolución 001 - SG- PROASOL-2023 de fecha veintinueve
 
 (29) de mayo del dos mil veintitrés 2023, en el cual Declara PROCEDENTE el pago de forma retroactiva del año 2023 de
 
@@ -77,7 +77,7 @@ CAPITULO I
 
 1.1 Antecedentes Considerando la necesidad de dar continuidad a los pagos de las Pensiones y Jubilaciones que se han venido entregando desde el año 2008 cuando la Dirección General del Adulto Mayor adscrita a la Secretaría de Estado en los Despachos de Gobernación y Justicia, posteriormente su inclusión a la Secretaría de Desarrollo e Inclusión Social SEDIS bajo el Decreto PCM 03 -2014, después La SEDESOL, nace para sustituir a la Secretaría de Desarrollo e Inclusión Social (SEDIS), una estructura tutelada en función de la ejecución de proyectos asistencialistas y clientelares, que fue suprimida mediante el Decreto Ejecutivo PCM-05-2022, para dar paso a una nueva Secretaría de Estado, rectora de la Política Social de la Honduras Solidaria, Incluyente y Libre de Violencias.
 
-Absorbida mediante PCM 05- 2022 y PCM 19-2022 de fecha 10 de agosto del 2022, donde se crea SEDESOL, continuando los pagos de las Pensiones y Jubilaciones en el año 2022, según Acuerdo Ministerial No. 30 – SEDESOL -2022 y en el año 2023 la Secretaría de Finanzas realizó la asignación presupuestaria para el PAGO DE PENSIONES y JUBILACIONES en el presupuesto del Programa de Acción Solidaria PROASOL creada mediante Decreto PCM 20-222 de fecha 11 de agosto del 2022.
+Absorbida mediante PCM 05-2022 y PCM 19-2022 de fecha 10 de agosto del 2022, donde se crea SEDESOL, continuando los pagos de las Pensiones y Jubilaciones en el año 2022, según Acuerdo Ministerial No. 30 – SEDESOL -2022 y en el año 2023 la Secretaría de Finanzas realizó la asignación presupuestaria para el PAGO DE PENSIONES y JUBILACIONES en el presupuesto del Programa de Acción Solidaria PROASOL creada mediante Decreto PCM 20-222 de fecha 11 de agosto del 2022.
 
 De acuerdo con la Agenda Regional de Desarrollo Social Inclusivo (ARDSI), los grupos en situación de vulnerabilidad son las personas mayores; las mujeres; los pueblos indígenas; la población afrodescendiente; las personas con discapacidad; las personas que habitan en zonas rezagadas; las personas lesbianas, gais, bisexuales, trans e intersexuales; los migrantes y aquellos desplazados por conflictos y las poblaciones afectadas por los desastres y el cambio climático; niños, niñas, adolescentes; las personas jóvenes excluidas.
 
@@ -715,7 +715,7 @@ DOLORES GONZALEZ DE PAZ
 
 DOMINGA PACHECO CHACON
 
-500.00 128 0713-1961- 00008
+500.00 128 0713-1961-00008
 
 DOMINGA ZELAYA LAGOS
 

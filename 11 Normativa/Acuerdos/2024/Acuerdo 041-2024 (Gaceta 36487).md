@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "fd395258c301379e"
+huella: "2e0780acdf28dac9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 041-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el COMIECO se puede reunir de manera virtual mediante el siste
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 5 de diciembre de 2023, adoptó la Resolución No. 484- 2023 (COMIECO-CV); mediante la cual resuelve: Aprobar las aperturas arancelarias siguiente de los códigos 48.02, 4802.5, 4802.56, 4802.56.3, 4802.56.32.00, 4802.56.33.00, 4802.56.39.00.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 5 de diciembre de 2023, adoptó la Resolución No. 484-2023 (COMIECO-CV); mediante la cual resuelve: Aprobar las aperturas arancelarias siguiente de los códigos 48.02, 4802.5, 4802.56, 4802.56.3, 4802.56.32.00, 4802.56.33.00, 4802.56.39.00.
 
 POR TANTO:
 

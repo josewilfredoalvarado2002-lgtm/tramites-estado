@@ -11,7 +11,7 @@ paginas: "A. 9 - 20"
 sumario: "Decreto No. 146-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201111-35426/download"
 extraido: "2026-11-14"
-huella: "0372f6fdc2a06f04"
+huella: "73591ea99c076ea4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 146-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 213 de la Constitución de la 
 
 CONSIDERANDO: Que todas las personas tienen derecho a obtener la tutela efectiva de sus derechos ante los tribunales de justicia; para ello, es necesario fortalecer y modernizar la Administración de Justicia, campo esencial para consolidar el Estado de Derecho y mejorar la calidad de la democracia hondureña. En este contexto, uno de los elementos de mayor relevancia es la incorporación en los despachos judiciales de las nuevas tecnologías de la información y comunicación.
 
-CONSIDERANDO: Que el Pleno de la Corte Suprema de Justicia (CSJ), en punto número 5 del Acta No.02-2020, de la sesión celebrada el 16 de Enero de 2020, por unanimidad de votos determinó que, el Presidente de ese Alto Tribunal, junto con un Magistrado de cada Sala, presentará ante el Congreso Nacional, como iniciativa de Ley de la Corte Suprema de Justicia (CSJ), el Anteproyecto de Ley de Gestión Electrónica de Procesos Judiciales.
+CONSIDERANDO: Que el Pleno de la Corte Suprema de Justicia (CSJ), en punto número 5 del Acta No. 02-2020, de la sesión celebrada el 16 de Enero de 2020, por unanimidad de votos determinó que, el Presidente de ese Alto Tribunal, junto con un Magistrado de cada Sala, presentará ante el Congreso Nacional, como iniciativa de Ley de la Corte Suprema de Justicia (CSJ), el Anteproyecto de Ley de Gestión Electrónica de Procesos Judiciales.
 
 CONSIDERANDO: Que el uso generalizado y obligatorio de las nuevas tecnologías en el ámbito judicial contribuirá a mejorar la gestión en las oficinas jurisdiccionales, actualizando su funcionamiento e incrementando los niveles de eficiencia y transparencia. Ello permitirá, igualmente, abaratar los costos del servicio público de justicia, pero también supondrá una mejora de la confianza en el sistema, lo que se traducirá en mayor seguridad jurídica.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -81,7 +81,7 @@ Todas las actuaciones procesales gestionadas a través del Sistema de Expediente
 
 2. Principio de Interoperabilidad y Neutralidad Tecnológica: El mencionado sistema informático de gestión procesal del Poder Judicial deberá estar basado en estándares internacionales y ser compatible con cualquier tecnología que se conozca o pueda llegarse a conocer, en procura de la neutralidad tecnológica y su accesibilidad; y,
 
-3. P r i n c i p i o d e F i d e l i d a d , Disponibilidad e Inalterabilidad de la Información: Las actuaciones procesales serán conservadas en el Sistema de Expediente Judicial Electrónico (SEJE), de tal manera que se garantice su fidelidad y disponibilidad en todo momento, asegurando su integridad, sin espacio a manipulación o alteración alguna.
+3. Principio de Fidelidad, Disponibilidad e Inalterabilidad de la Información: Las actuaciones procesales serán conservadas en el Sistema de Expediente Judicial Electrónico (SEJE), de tal manera que se garantice su fidelidad y disponibilidad en todo momento, asegurando su integridad, sin espacio a manipulación o alteración alguna.
 
 #### Artículo 6
 
@@ -99,7 +99,7 @@ ARTÍCULO 8.- El sistema mediante el cual sean gestionados en forma electrónica
 
 #### Artículo 9
 
-ARTÍCULO 9.- L o s m e d i o s e l e c t r ó n i c o s d e almacenamiento de documentos y actuaciones procesales deben contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de la información almacenada y ajustarse a los requerimientos que garanticen la compatibilidad con otros sistemas informáticos.
+ARTÍCULO 9.- Los medios electrónicos de almacenamiento de documentos y actuaciones procesales deben contar con medidas de seguridad que garanticen la integridad, autenticidad, confidencialidad, calidad, protección y conservación de la información almacenada y ajustarse a los requerimientos que garanticen la compatibilidad con otros sistemas informáticos.
 
 #### Artículo 10
 
@@ -215,7 +215,7 @@ ARTÍCULO 26.- Se entenderá por firma electrónica la manera de rubricar docume
 
 #### Artículo 27
 
-ARTÍCULO 27.- El Poder Judicial diseñará y adaptará una infraestructura de firma digital, que asegure y certifique la rúbrica de las resoluciones y actuaciones judiciales, garantizando su autoría, autenticidad e integridad, de conformidad a lo establecido para tal efecto en la Ley sobre Firmas Electrónicas contendida en el Decreto No.149-2013 y sus reformas.
+ARTÍCULO 27.- El Poder Judicial diseñará y adaptará una infraestructura de firma digital, que asegure y certifique la rúbrica de las resoluciones y actuaciones judiciales, garantizando su autoría, autenticidad e integridad, de conformidad a lo establecido para tal efecto en la Ley sobre Firmas Electrónicas contendida en el Decreto No. 149-2013 y sus reformas.
 
 #### Artículo 28
 

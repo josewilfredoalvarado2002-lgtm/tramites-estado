@@ -8,10 +8,10 @@ gaceta_numero: 36236
 gaceta_fecha: "2023-05-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)|La Gaceta 36236]]"
 paginas: "A. 1 - 2"
-sumario: "Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023"
+sumario: "Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230524-36236/download"
 extraido: "2026-11-14"
-huella: "b35ba9fb00df3192"
+huella: "c97b4346033fa7a8"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 101-2023
@@ -23,7 +23,7 @@ huella: "b35ba9fb00df3192"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36236 (2023-05-24)\|La Gaceta 36236]] del 2023-05-24 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 362-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-076-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 101-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 362-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-076-2023 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 16-2023 de fecha 11 de abril del año 2023.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-16-2023 de fecha 11 de abril del año 2023.
 
 ACUERDA
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Nos. 273-2020, 276-2020, 278-2020, 280-2020, 281-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201219-35464/download"
 extraido: "2026-11-14"
-huella: "957175313c3e8e17"
+huella: "b498e96be9cb2f3f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 278-2020
@@ -39,11 +39,11 @@ CONSIDERANDO: Que para cumplir con los objetivos de dicha eficacia, agilidad y s
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 273- 2020 de fecha 3 de noviembre del 2020.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 273-2020 de fecha 3 de noviembre del 2020.
 
 SEGUNDO: Delegar en la Licenciada LESBY MARÍA ALDANA FLORES, con Identidad No. 0801-1992-22787, como Coordinadora de Programas Técnicos, las funciones inherentes al cargo, a partir del 20 de noviembre del año 2020.
 

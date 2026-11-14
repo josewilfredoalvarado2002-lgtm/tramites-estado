@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo Ministerial No. 009-C-SEDESOL-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241116-36691/download"
 extraido: "2026-11-14"
-huella: "b8c042c07ed9413e"
+huella: "aba8a6d94534f1cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 009-C-SEDESOL-2022
@@ -51,13 +51,13 @@ CONSIDERANDO: Que es necesario que la Secretaría de Desarrollo Social, cuente c
 
 CONSIDERANDO: Que es de interés público que las instituciones y organismos del sector público dispongan de normativas reglamentarias por parte de la Administración Pública, las cuales establecerán y utilizarán fondos asignados para ayudas sociales o donaciones, de acuerdo a las necesidades de la gestión real y las entidades elaborarán sus propios instructivos y reglamentaciones internas, en los cuales se establecerán los requisitos y la normatividad interna para su correcta aplicación, asegurando la equidad y el aprovechamiento óptimo de los recursos estatales.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.009-SEDESOL-2022 del 6 de febrero del año 2022, se crea el FONDO DE BENEFICIO SOCIAL A PERSONAS, mismo que en su Acuerdo OCTAVA señala “Las liquidación del beneficio social al beneficiario se realizará de acuerdo a los lineamientos establecidos por la Gerencia Administrativa, las cuales serán comunicados oportunamente a los beneficiarios del fondo, una vez aprobada su solicitud; en dichos lineamientos deberá establecerse la presentación de los medios de verificación correspondientes para evidenciar el apoyo realizado a los beneficiarios para dar soporte y documentar la operación financiera, como ser: Informes, listados, fotografías, facturas, recibos, entre otros”.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 009-SEDESOL-2022 del 6 de febrero del año 2022, se crea el FONDO DE BENEFICIO SOCIAL A PERSONAS, mismo que en su Acuerdo OCTAVA señala “Las liquidación del beneficio social al beneficiario se realizará de acuerdo a los lineamientos establecidos por la Gerencia Administrativa, las cuales serán comunicados oportunamente a los beneficiarios del fondo, una vez aprobada su solicitud; en dichos lineamientos deberá establecerse la presentación de los medios de verificación correspondientes para evidenciar el apoyo realizado a los beneficiarios para dar soporte y documentar la operación financiera, como ser: Informes, listados, fotografías, facturas, recibos, entre otros”.
 
 CONSIDERANDO: Que el FONDO DE BENEFICIO SOCIAL A PERSONAS se ha constituido como una herramienta relevante para dar respuesta inmediata a la población con necesidades urgentes; y, por ende, se necesitan lineamientos claros y continuados en el tiempo, que aseguren su correcta utilización y liquidación.
 
 POR TANTO:
 
-En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Artículo 3 Decreto Legislativo Número 157- 2022 de fecha 12 de enero del 2023 y Acuerdo Ministerial 008-SEDESOL-2023.
+En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Artículo 3 Decreto Legislativo Número 157-2022 de fecha 12 de enero del 2023 y Acuerdo Ministerial 008-SEDESOL-2023.
 
 ACUERDA:
 

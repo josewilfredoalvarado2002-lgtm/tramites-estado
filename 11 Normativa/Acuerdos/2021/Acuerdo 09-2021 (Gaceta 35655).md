@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. 09/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210713-35655/download"
 extraido: "2026-11-14"
-huella: "136e64a5ea76e08a"
+huella: "27f789cf9eb00e95"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 09/2021.- Sesión No.3909 del 1 de julio de
@@ -31,7 +31,7 @@ huella: "136e64a5ea76e08a"
 
 CONSIDERANDO:
 
-Que mediante el Decreto Legislativo No.38-2020 del 30 de abril de 2020, el Congreso Nacional instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No.2246, suscrito el 25 de abril de 2020, entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía; para lo cual, el BCH deberá emitir los reglamentos que considere necesarios, facultándolo, además, para constituir en el Banco Hondureño para la Producción y la Vivienda (Banhprovi) o en cualquier otra institución del sistema financiero, los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
+Que mediante el Decreto Legislativo No. 38-2020 del 30 de abril de 2020, el Congreso Nacional instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No. 2246, suscrito el 25 de abril de 2020, entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía; para lo cual, el BCH deberá emitir los reglamentos que considere necesarios, facultándolo, además, para constituir en el Banco Hondureño para la Producción y la Vivienda (Banhprovi) o en cualquier otra institución del sistema financiero, los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
 
 CONSIDERANDO: Que la Constitución de la República y la Ley General de la Administración Pública establecen que las instituciones descentralizadas gozan de independencia funcional y administrativa y a este efecto podrán emitir los reglamentos que sean necesarios.
 
@@ -39,15 +39,15 @@ CONSIDERANDO: Que el uso del Fondo de Garantía para la Reactivación de las Mip
 
 CONSIDERANDO:
 
-Que este Directorio, mediante el Acuerdo No.06/2020 del 20 de mayo de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, mismo que ha sido objeto de varias modificaciones.
+Que este Directorio, mediante el Acuerdo No. 06/2020 del 20 de mayo de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, mismo que ha sido objeto de varias modificaciones.
 
-CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No.05/2021 del 23 de junio de 2021, oída la opinión de la Unidad Administradora de Fideicomisos, determinó modificar el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, con el objetivo de mejorar la aplicabilidad de los fondos de garantía creados por el BCH, que redunde en mayores beneficios para las Mipymes.
+CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No. 05/2021 del 23 de junio de 2021, oída la opinión de la Unidad Administradora de Fideicomisos, determinó modificar el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, con el objetivo de mejorar la aplicabilidad de los fondos de garantía creados por el BCH, que redunde en mayores beneficios para las Mipymes.
 
 POR TANTO:
 
-Con fundamento en los artículos 255, 262 y 342 de la Constitución de la República; 6 y 16, literal r) de la Ley del Banco Central de Honduras; 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 17 de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19; y, 2 y 3 del Decreto Legislativo No.38-2020 del 30 de abril de 2020,
+Con fundamento en los artículos 255, 262 y 342 de la Constitución de la República; 6 y 16, literal r) de la Ley del Banco Central de Honduras; 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 17 de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19; y, 2 y 3 del Decreto Legislativo No. 38-2020 del 30 de abril de 2020,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -79,7 +79,7 @@ Artículo 2. Legislación Aplicable.
 
 El Fondo de Garantía para la Reactivación de las Mipymes afectadas por la pandemia provocada por el Covid-19 debe regirse por el presente Reglamento, el Contrato del Fideicomiso suscrito entre el Banco Central de Honduras
 
-(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
+(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
 
 #### Artículo 3
 
@@ -87,9 +87,9 @@ Artículo 3. Definiciones.
 
 a) BANCO CENTRAL DE HONDURAS (BCH):
 
-Institución que funge como fideicomitente y fideicomisario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+Institución que funge como fideicomitente y fideicomisario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
-b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
 c) BENEFICIARIO O PRESTATARIO: Micro, Pequeña y Mediana Empresas (Mipymes) que se han visto afectadas por la disminución de sus flujos de efectivo, derivado de las medidas restrictivas de movilización, tomadas por el Gobierno de la República para evitar la propagación del Covid-19 y que se consideran sectores prioritarios de acuerdo con el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos: Producción agropecuaria, turismo y alojamiento, industria manufacturera agrícola y no agrícola, industria y servicios de la construcción, comercio al por mayor y menor, transporte, logística, salud, servicios administrativos, actividades profesionales y cualquier otra actividad afectada por los efectos de la pandemia provocada por el Covid-19.
 
@@ -109,7 +109,7 @@ h) CONTRATO DE ADHESIÓN PARA EL USO DEL FONDO DE GARANTÍA: Contrato suscrito e
 
 i) CONTRATO DE FIDEICOMISO: Es el Contrato suscrito entre el BCH y el Banhprovi para la administración del Fondo de Garantía para la Reactivación de las Mipymes afectadas por la pandemia provocada por el Covid-19.
 
-j) FIDEICOMISO BCH-FG MIPYMES: Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+j) FIDEICOMISO BCH-FG MIPYMES: Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
 k) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS MIPYMES AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19 (FONDO DE GARANTÍA): Recursos patrimoniales destinados a la emisión de CGC que respaldarán parcialmente el financiamiento de créditos otorgados por las IFIs participantes con recursos propios a las Mipymes afectadas por la pandemia provocada por el Covid-19.
 
@@ -305,7 +305,7 @@ CAPÍTULO V. ELEGIBILIDAD DE LOS CRÉDITOS PARA SER GARANTIZADOS.
 
 Artículo 16. Destinos de los Créditos Garantizados.
 
-Los créditos a garantizar son aquellos que sean otorgados con fondos propios de las IFIs que hayan suscrito el contrato de adhesión con el Banhprovi, para otorgar créditos a las Mipymes afectadas por la pandemia provocada por el Covid-19, cuyas actividades sean calificadas como prioritarias según el Decreto Ejecutivo Número PCM-030- 2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos:
+Los créditos a garantizar son aquellos que sean otorgados con fondos propios de las IFIs que hayan suscrito el contrato de adhesión con el Banhprovi, para otorgar créditos a las Mipymes afectadas por la pandemia provocada por el Covid-19, cuyas actividades sean calificadas como prioritarias según el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos:
 
 1. Producción agropecuaria (agricultura, silvicultura, caza y pesca);
 
@@ -653,7 +653,7 @@ Artículo 44. Vigencia del Reglamento.
 
 El presente Reglamento entrará en vigencia a partir del 19 de octubre de 2020 y será publicado en el Diario Oficial “La Gaceta”.
 
-ANEXO I FORMATO DEL CERTIFICADO DE GARANTÍA DE COBERTURA NO._______ POR L ______________ El BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi), creado mediante Decreto Legislativo No.6-2005 publicado en el Diario Oficial “La Gaceta” No.30,659 del 1 de abril de 2005; en su condición de fiduciario y de acuerdo con lo establecido en el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, mediante el presente título garantiza parcialmente con el capital del Fondo de Garantía el préstamo (nuevo o readecuado) otorgado por (nombre de la IFI)__________________________ hasta por la cantidad de ___________ (L_________________) equivalente al _______________________(XXX%) del saldo insoluto al momento de la ejecución del Certificado de Garantía Complementaria que esta Institución otorgó por el préstamo a (Nombre del Prestatario________________________________ bajo las siguientes condiciones:
+ANEXO I FORMATO DEL CERTIFICADO DE GARANTÍA DE COBERTURA NO._______ POR L ______________ El BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi), creado mediante Decreto Legislativo No. 6-2005 publicado en el Diario Oficial “La Gaceta” No. 30,659 del 1 de abril de 2005; en su condición de fiduciario y de acuerdo con lo establecido en el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19, mediante el presente título garantiza parcialmente con el capital del Fondo de Garantía el préstamo (nuevo o readecuado) otorgado por (nombre de la IFI)__________________________ hasta por la cantidad de ___________ (L_________________) equivalente al _______________________(XXX%) del saldo insoluto al momento de la ejecución del Certificado de Garantía Complementaria que esta Institución otorgó por el préstamo a (Nombre del Prestatario________________________________ bajo las siguientes condiciones:
 
 1. CONDICIONES DEL PRÉSTAMO
 

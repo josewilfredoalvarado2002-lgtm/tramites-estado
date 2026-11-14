@@ -11,7 +11,7 @@ paginas: "A. 1 - 25"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230201-36144/download"
 extraido: "2026-11-14"
-huella: "5ca436c563698de6"
+huella: "64a6f655c2cdaa87"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -81,7 +81,7 @@ CUARTO: El presente Acto administrativo revoca el Acuerdo 01-DM-2022 dejándolo 
 
 COMUNÍQUESE y PUBLÍQUESE.
 
-MARCIO GIOVANNY SIERRA DISCUA MINISTRO GESTIÓN POR RESULTADOS DENNIS ALEJANDRO MENDOZA LANZA SECRETARIO GENERAL DIRECCIÓN DE GESTION POR RESULTADOS Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO J.D. No. 001-15-12-2022 C O N S E J O N A C I O N A L S U P E R V I S O R D E COOPERATIVAS. CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, municipio del Distrito Central, a los quince (15) días del mes de diciembre del año dos mil veintidós (2022).
+MARCIO GIOVANNY SIERRA DISCUA MINISTRO GESTIÓN POR RESULTADOS DENNIS ALEJANDRO MENDOZA LANZA SECRETARIO GENERAL DIRECCIÓN DE GESTION POR RESULTADOS Consejo Nacional Supervisor de Cooperativas CONSUCOOP ACUERDO J.D. No. 001-15-12-2022 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS. CONSUCOOP. – JUNTA DIRECTIVA. - Tegucigalpa, municipio del Distrito Central, a los quince (15) días del mes de diciembre del año dos mil veintidós (2022).
 
 CONSIDERANDO (1): Que el artículo 18 de la Ley de Cooperativas de Honduras, reformada mediante Decreto 174-2013 publicado en el Diario Oficial La Gaceta del 01 de febrero de 2014, y Decreto 146-2019 publicado en el Diario Oficial La Gaceta el 11 de enero 2020, establece que las Cooperativas pueden tener regionales y filiales en el territorio nacional o en el extranjero, previa autorización del Organismo Supervisor del Sector Cooperativo, quien debe pronunciarse en el plazo no mayor de quince (15) días hábiles. En caso de falta de pronunciamiento se debe entender como otorgada la autorización. Pueden asimismo tener ventanillas u otros medios de prestación de servicios a sus afiliados(as), siendo la apertura de éstas con simple comunicación al Organismo Supervisor del Sector Cooperativo. El Organismo Supervisor del Sector Cooperativo debe limitar o prohibir el abrir regionales, filiales, ventanilla u otros medios de prestación de servicios, cuando la Cooperativa solicitante presente insuficiencias de reservas u otras provisiones requeridas por la Ley o que las notas a los Estados Financieros indiquen situaciones anómalas.
 
@@ -89,7 +89,7 @@ CONSIDERANDO (2): Que mediante Resolución No. 06-11-2014 de fecha 05 de noviemb
 
 CONSIDERANDO (3): Que con el propósito de mejorar los niveles de inclusión financiera, asimismo la cooperativización del país, se hace necesario contribuir al logro de una mayor promoción y acceso a servicios solidarios cooperativos para la población de bajos ingresos, ya que amplía potencialmente la capacidad de ahorro y consumo, así como ampliar la oferta de prestación de servicios financieros a sectores no atendidos, mediante el desarrollo de nuevos canales de distribución de productos y servicios, entre estos contratación de terceros.
 
-CONSIDERANDO (4): Que es necesario que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), en el ámbito de su competencia, e s t a b l e z c a l o s a s p e c t o s mínimos que deben cumplir las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal ahorro y crédito en la prestación de servicios por medio de regionales, filiales, ventanillas, Administradores y Agentes corresponsales solidarios u otros medios de prestación de servicios para obtener la autorización ante el Ente Supervisor; conforme lo establecido en los artículo 96 numeral 14) y 99 literal k) de la Ley de Cooperativas de Honduras, reformada mediante Decreto Legislativo No. 174-2013 y Decreto No. 146-2019.
+CONSIDERANDO (4): Que es necesario que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP), en el ámbito de su competencia, establezca los aspectos mínimos que deben cumplir las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal ahorro y crédito en la prestación de servicios por medio de regionales, filiales, ventanillas, Administradores y Agentes corresponsales solidarios u otros medios de prestación de servicios para obtener la autorización ante el Ente Supervisor; conforme lo establecido en los artículo 96 numeral 14) y 99 literal k) de la Ley de Cooperativas de Honduras, reformada mediante Decreto Legislativo No. 174-2013 y Decreto No. 146-2019.
 
 POR TANTO:
 
@@ -499,7 +499,7 @@ Las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal el ahor
 
 #### Artículo 19
 
-ARTÍCULO 19.- OBLIGACIONES DE LAS COOPERATIVAS DE AHORRO Y CRÉDITO Y/O M I X T A S Las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal el ahorro y crédito que utilizan Administrador y/o Agente Corresponsal Solidario, tienen las siguientes obligaciones:
+ARTÍCULO 19.- OBLIGACIONES DE LAS COOPERATIVAS DE AHORRO Y CRÉDITO Y/O MIXTAS Las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal el ahorro y crédito que utilizan Administrador y/o Agente Corresponsal Solidario, tienen las siguientes obligaciones:
 
 a. Incorporar en el manual de procesos, las políticas de selección, contratación y capacitación de los Administradores y/o Agentes Corresponsales Solidarios, la prevención de LA/ FT, el horario de atención, el límite exposición crediticia del Agente, las políticas de administración de riesgos y el plan de contingencia que se utilizará para dar continuidad al servicio;
 
@@ -551,13 +551,11 @@ ARTÍCULO 24.- INFRACCIONES Y SANCIONES
 
 Los incumplimientos por parte de las Cooperativas de Ahorro y Crédito y/o Mixtas con actividad principal el ahorro y crédito supervisadas, a las disposiciones establecidas en las presentes normas, son sancionadas de conformidad al marco legal aplicable y al Reglamento de Sanciones vigente emitido por el CONSUCOOP.
 
-A R T Í C U L O 2 5 . - R E Q U E R I M I E N T O S D E I N F O R MAC I ÓN Las Cooperativas de Ahorro y Crédito y/o Mixta con actividad principal el ahorro y crédito, deberán remitir al CONSUCOOP la información contenida en el Anexo No.
-
-1 referente a la contratación de Agentes Corresponsales Solidarios de las presentes normas, el cual será enviado a la Superintendencia de Cooperativas de Ahorro y Crédito, o en el caso que aplique a la Superintendencia de Otros Subsectores, en los primeros diez (10) días hábiles después del cierre contable de cada trimestre. Asimismo, las Cooperativas deberán informar sobre la apertura, traslado o clausura de operaciones con Agentes y/o Administradores Corresponsales, dentro de los diez (10) días hábiles del siguiente mes en que ocurrió la modificación.
+ARTÍCULO 2 5 . - REQUERIMIENTOS DE INFOR MAC I ÓN Las Cooperativas de Ahorro y Crédito y/o Mixta con actividad principal el ahorro y crédito, deberán remitir al CONSUCOOP la información contenida en el Anexo No. 1 referente a la contratación de Agentes Corresponsales Solidarios de las presentes normas, el cual será enviado a la Superintendencia de Cooperativas de Ahorro y Crédito, o en el caso que aplique a la Superintendencia de Otros Subsectores, en los primeros diez (10) días hábiles después del cierre contable de cada trimestre. Asimismo, las Cooperativas deberán informar sobre la apertura, traslado o clausura de operaciones con Agentes y/o Administradores Corresponsales, dentro de los diez (10) días hábiles del siguiente mes en que ocurrió la modificación.
 
 #### Artículo 26
 
-ARTÍCULO 26.- DISPOSICIONES FINALES Y T R A N S I T O R I A S Las consultas o aclaraciones relacionadas a la aplicación de las presentes normas, deben ser enviadas a la dirección de correo electrónico sgeneral@consucoop.hn, de la Secretaría General del CONSUCOOP, mismas que serán atendidas por la Superintendencia de Cooperativas de Ahorro y Crédito, o en el caso que aplique por la Superintendencia de Otros Subsectores. Lo no previsto en las presentes normas será resuelto y verificado por la respectiva Superintendencia con base en la legislación general de la República, así como en las normas y prácticas internacionales emitidas al respecto.
+ARTÍCULO 26.- DISPOSICIONES FINALES Y TRANSITORIAS Las consultas o aclaraciones relacionadas a la aplicación de las presentes normas, deben ser enviadas a la dirección de correo electrónico sgeneral@consucoop.hn, de la Secretaría General del CONSUCOOP, mismas que serán atendidas por la Superintendencia de Cooperativas de Ahorro y Crédito, o en el caso que aplique por la Superintendencia de Otros Subsectores. Lo no previsto en las presentes normas será resuelto y verificado por la respectiva Superintendencia con base en la legislación general de la República, así como en las normas y prácticas internacionales emitidas al respecto.
 
 #### Artículo 27
 

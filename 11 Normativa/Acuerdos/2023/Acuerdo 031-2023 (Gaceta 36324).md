@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo Ministerial No. 031-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230902-36324/download"
 extraido: "2026-11-14"
-huella: "1cb860c5faae2ffb"
+huella: "0b3921b56725358c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 031-2023
@@ -59,9 +59,7 @@ IV. REQUERIMIENTOS Y/O RECOMENDACIONES:
 
 Se requiere que la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto, en base a los requisitos establecidos en el artículo 96 del Reglamento de la Ley General de Minería agregue al expediente previo a la próxima visita por control y seguimiento, lo siguiente:
 
-Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), mediante acuerdo ministerial, establecido en la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA de acuerdo a lo instituido en los artículos No. 24, No. 25 y No.
-
-26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Constancia, acuerdo o licencia ambiental, según sea la obra pública. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Si pretende realizar corte de árboles, se deberá contar con el permiso del Instituto de Conservación Forestal (ICF), el cual deberá ser anexo al expediente. Cumplir con las recomendaciones plasmadas en los informes ITCD-31- 2023, en los trabajos de extracción para el banco seco “San Sebastián”. Para la información requerida mediante este dictamen será verificada en la próxima inspección por control y seguimiento. La Normativa Técnica de Aprovechamiento de Bancos para proyectos estatales es entregada con base a los artículos 21, 22, 23, 24, 25 y 26 de la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCEDIMIENTOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA; como también en base a los artículos 65 de la Ley General de Minería y 95 párrafos segundo y tercero y 96 del Reglamento de dicha Ley…”.
+Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), mediante acuerdo ministerial, establecido en la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA de acuerdo a lo instituido en los artículos No. 24, No. 25 y No. 26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Constancia, acuerdo o licencia ambiental, según sea la obra pública. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Si pretende realizar corte de árboles, se deberá contar con el permiso del Instituto de Conservación Forestal (ICF), el cual deberá ser anexo al expediente. Cumplir con las recomendaciones plasmadas en los informes ITCD-31-2023, en los trabajos de extracción para el banco seco “San Sebastián”. Para la información requerida mediante este dictamen será verificada en la próxima inspección por control y seguimiento. La Normativa Técnica de Aprovechamiento de Bancos para proyectos estatales es entregada con base a los artículos 21, 22, 23, 24, 25 y 26 de la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCEDIMIENTOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA; como también en base a los artículos 65 de la Ley General de Minería y 95 párrafos segundo y tercero y 96 del Reglamento de dicha Ley…”.
 
 POR TANTO:
 

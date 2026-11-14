@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ministerial No. 059-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210311-35541/download"
 extraido: "2026-11-14"
-huella: "0c5beec0aa72b511"
+huella: "963b50b3d033f0fc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 059-2021
@@ -31,7 +31,7 @@ LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que corresponde a la Secretaría de Desarrollo Económico lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con el fomento y desarrollo del comercio nacional e internacional de bienes y servicios y la integración económica.
 
-CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No.10-2005, de fecha 3 de marzo de 2005, aprobó el Tratado de Libre Comercio República Dominicana- Centroamérica-Estados Unidos, en adelante RD-CAFTA, el cual fue puesto en vigor entre Honduras y los Estados Unidos el 1 de abril de 2006 mediante Acuerdo Ministerial 74-2006 del 30 de marzo de 2006.
+CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No. 10-2005, de fecha 3 de marzo de 2005, aprobó el Tratado de Libre Comercio República Dominicana- Centroamérica-Estados Unidos, en adelante RD-CAFTA, el cual fue puesto en vigor entre Honduras y los Estados Unidos el 1 de abril de 2006 mediante Acuerdo Ministerial 74-2006 del 30 de marzo de 2006.
 
 CONSIDERANDO: Que de conformidad con el Artículo 3.18 del RD-CAFTA, en el año 14 después de la entrada en vigor del tratado, las Partes establecerán la Comisión de Revisión Agrícola para revisar la implementación y operación del tratado en lo relacionado con el comercio de mercancías agrícolas.
 

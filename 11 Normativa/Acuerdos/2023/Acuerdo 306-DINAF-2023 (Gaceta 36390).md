@@ -11,7 +11,7 @@ paginas: "A. 12 - 14"
 sumario: "Acuerdos Nos. 302-2023, 303-2023, 306-DINAF-2023, 310-DINAF-2023, 311-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "ecd39db953c88206"
+huella: "752b8729848886f6"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 306-DINAF-2023
@@ -45,7 +45,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 151-2023 de fecha quince (1
 
 CONSIDERANDO: Que mediante Acuerdo Número 284-DINAF-2023 de fecha 11 de agosto del año 2023 se delegó en el Licenciado JERSON YOVANY CARCAMO VASQUEZ, la Jefatura de la Coordinación de Programas Técnicos de ésta Dirección, con las funciones inherentes al cargo.
 
-CONSIDERANDO: Que mediante Memorandum RRHH- 785-2023 de fecha 10 de octubre del año dos mil veintitrés (2023), se solicita a la Secretaría General de ésta Dirección, la emisión de Acuerdo de Delegación a favor del Abogado GONZALO HUMBERTO TORO RIVERA, con Documento Nacional de Identificación 0801-1979-05886 de la Jefatura de la Coordinación de Programas Técnicos, con las funciones inherentes al cargo y dejar sin valor y efecto el Acuerdo Número 284-DINAF-2023.
+CONSIDERANDO: Que mediante Memorandum RRHH-785-2023 de fecha 10 de octubre del año dos mil veintitrés (2023), se solicita a la Secretaría General de ésta Dirección, la emisión de Acuerdo de Delegación a favor del Abogado GONZALO HUMBERTO TORO RIVERA, con Documento Nacional de Identificación 0801-1979-05886 de la Jefatura de la Coordinación de Programas Técnicos, con las funciones inherentes al cargo y dejar sin valor y efecto el Acuerdo Número 284-DINAF-2023.
 
 POR TANTO
 

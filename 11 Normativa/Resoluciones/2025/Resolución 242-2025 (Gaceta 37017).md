@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 242-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251212-37017/download"
 extraido: "2026-11-09"
-huella: "b28024563c8be6b6"
+huella: "8f1c14a94d5aa16a"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 242-2025
@@ -109,7 +109,7 @@ f) Recibir avisos oportunamente de las interrupciones programadas del servicio, 
 
 ARTÍCULO 9.- Son obligaciones de los miembros: a) Conectarse al acueducto y al sistema de saneamiento, b) Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura, c) Asistir puntualmente a las reuniones, d) Participar en cualquier comisión que se les asigne, e) Vigilar por el buen estado de las partes del sistema de agua, f) Realizar labores de mantenimiento del sistema cuando la junta los requiera, g) Mantener limpios los solares, pilas, letrinas y la vivienda para evitar enfermedades, h) Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reuniones, i) Permitir la inspección de las instalaciones, letrinas, pilas al personal autorizado de la Junta, j) Pagar puntualmente la tarifa por concepto de servicio de agua dentro de los primeros diez días del mes siguiente; y, k) Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
-CAPÍTULO IV DE LOS ÓRGANOS DE GOBIERNO Y SUS ATRIBUCIONES : ASAMBLEA DE USUARIOS, JUNTA DIRECTIVA Y COMITÉS DE APOYO
+CAPÍTULO IV DE LOS ÓRGANOS DE GOBIERNO Y SUS ATRIBUCIONES: ASAMBLEA DE USUARIOS, JUNTA DIRECTIVA Y COMITÉS DE APOYO
 
 #### Artículo 10
 

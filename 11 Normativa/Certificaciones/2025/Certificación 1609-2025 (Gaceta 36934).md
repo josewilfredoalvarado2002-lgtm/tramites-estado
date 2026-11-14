@@ -11,7 +11,7 @@ paginas: "A. 19 - 21"
 sumario: "Certificación 1603-2025, 1604-2025,1605-2025, 1606-2025, 1607-2025,1608-2025, 1609-2025, 1610-2025,1611-2025, 1612-2025, 1613-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250904-36934/download"
 extraido: "2026-11-09"
-huella: "72b9642e1741c40e"
+huella: "ff0f01581e65a66a"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN 1609-2025
@@ -27,7 +27,7 @@ huella: "72b9642e1741c40e"
 
 ## Texto
 
-La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad de votos en el punto VII (Asuntos Electorales) numeral diecisiete (17) Acta Número 42- 2025, correspondiente a la Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día viernes quince (15) de agosto de dos mil veinticinco (2025), reanudada los días sábado dieciséis (16), martes diecinueve (19), miércoles veinte (20), jueves veintiuno (21), viernes veintidós (22), sábado veintitrés (23), domingo veinticuatro (24), lunes veinticinco (25), martes veintiséis (26) y miércoles veintisiete
+La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad de votos en el punto VII (Asuntos Electorales) numeral diecisiete (17) Acta Número 42-2025, correspondiente a la Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día viernes quince (15) de agosto de dos mil veinticinco (2025), reanudada los días sábado dieciséis (16), martes diecinueve (19), miércoles veinte (20), jueves veintiuno (21), viernes veintidós (22), sábado veintitrés (23), domingo veinticuatro (24), lunes veinticinco (25), martes veintiséis (26) y miércoles veintisiete
 
 (27) del mismo mes y año, que literalmente dice: “El Pleno de Consejeros, CONSIDERANDO: Que, en fecha dieciocho (18) de junio de dos mil veinticinco (2025), la Secretaría General del Consejo Nacional Electoral, recibió la Certificación de la Sentencia de fecha diecisiete (17) de junio de dos mil veinticinco (2025), proveniente del Tribunal de Justicia Electoral. En tal sentido se emite el siguiente Auto Motivado. AAEP-CNE-383-2025. CONSEJO NACIONAL ELECTORAL. TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL, VEINTIDÓS (22) DE AGOSTO DE DOS MIL VEINTICINCO (2025). VISTO el informe que antecede, proveniente de la Dirección de Sistemas y Estrategias Tecnológicas de este Consejo Nacional Electoral, relacionado con la nueva integración en el nivel electivo de Corporación Municipal de San Marcos, departamento de Santa Bárbara, por el Partido Liberal de Honduras (PLH), en cumplimiento a la Sentencia emitida por el Tribunal de Justicia Electoral, en fecha diecisiete (17) de junio de dos mil veinticinco (2025) y que se encuentra preinserta en la CERTIFICACIÓN que obra en las presentes diligencias, en virtud del Recurso de Apelación interpuesto por el Abogado Mariano Torres Flores, en su condición de Apoderado Legal del Movimiento Interno del Partido Liberal de Honduras denominado “Juntos por el Cambio”. CONSIDERANDO (1):
 

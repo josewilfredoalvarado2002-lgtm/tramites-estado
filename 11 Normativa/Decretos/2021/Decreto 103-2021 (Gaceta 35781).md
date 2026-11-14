@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto No. 103-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211125-35781/download"
 extraido: "2026-11-14"
-huella: "bcb3b7fc11f846d2"
+huella: "ee4ffd2c0f3ef53c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 103-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 290, estable
 
 CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, en su Artículo 191 enuncia: “Los ascensos de los miembros de las Fuerzas Armadas se otorgarán de conformidad con la Constitución de la República, la presente Ley y su Reglamento” y en su Artículo 194 enuncia: “Todo ascenso debe ser dictaminado previamente por el Estado Mayor Conjunto de las Fuerzas Armadas”.
 
-CONSIDERANDO: Que por Decreto No.69-2017 de fecha 22 de Agosto del 2017 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, Edición No.34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la Carrera Policial.
+CONSIDERANDO: Que por Decreto No. 69-2017 de fecha 22 de Agosto del 2017 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, Edición No. 34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la Carrera Policial.
 
 CONSIDERANDO: Que esta misma Ley en su Artículo 50 establece, que los ascensos de las Categorías de Oficiales Subalternos son otorgados por el Presidente de la República, a propuesta de la Secretaría de Estado en el Despacho de Seguridad. Los ascensos de las categorías de Oficiales Generales y Oficiales Superiores son otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo, a través de la Secretaría de Estado en el Despacho de Seguridad. Las demás categorías, son otorgadas por el Director General de la Policía Nacional, de acuerdo al reglamento respectivo.
 

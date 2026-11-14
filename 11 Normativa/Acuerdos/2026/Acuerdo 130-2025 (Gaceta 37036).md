@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 130-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260106-37036/download"
 extraido: "2026-11-09"
-huella: "31d0df4cd4e6a29e"
+huella: "1bc849e0c20d4072"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 130-2025
@@ -41,9 +41,7 @@ CONSIDERANDO: Que las disposiciones contenidas en el presente Acuerdo se dictan 
 
 CONSIDERANDO: Que en el marco del Proceso de Integración Económica Centroamericana y en referencia a la Resolución No. 065-2001 (COMRIEDRE) de fecha 16 de marzo del 2001, específicamente en relación con los trabajos vinculados a las restricciones al Régimen de Tránsito Aduanero Centroamericano, se han sostenido reuniones bilaterales con la República de Costa Rica con el propósito de alcanzar soluciones mutuamente satisfactorias.
 
-CONSIDERANDO: Que las medidas restrictivas adoptadas fueron justificadas en su momento por razones sanitarias y de reciprocidad. Sin embargo, el Acuerdo Ministerial No.
-
-217-2020 minimizó dichas restricciones, siendo que en su numeral primero reforma el ordinal primero del Acuerdo Ministerial No. 098-2020, permitiendo la carga en bodegas del exportador. Asimismo, Costa Rica derogó sus medidas restrictivas con el Decreto Ejecutivo No. 4269-MGP-S de fecha 30 de octubre de 2020, lo que elimina la causa jurídica para mantener limitaciones unilaterales.
+CONSIDERANDO: Que las medidas restrictivas adoptadas fueron justificadas en su momento por razones sanitarias y de reciprocidad. Sin embargo, el Acuerdo Ministerial No. 217-2020 minimizó dichas restricciones, siendo que en su numeral primero reforma el ordinal primero del Acuerdo Ministerial No. 098-2020, permitiendo la carga en bodegas del exportador. Asimismo, Costa Rica derogó sus medidas restrictivas con el Decreto Ejecutivo No. 4269-MGP-S de fecha 30 de octubre de 2020, lo que elimina la causa jurídica para mantener limitaciones unilaterales.
 
 CONSIDERANDO: Que la Ley de Procedimiento Administrativo establece en el “Artículo 24. Los actos serán dictados por el órgano competente, respetando los procedimientos previstos en el ordenamiento jurídico. El objeto de los actos debe ser lícito, cierto y físicamente posible” y el “Artículo 25. Los actos deberán sustentarse en los hechos y antecedentes que le sirvan de causa y en el derecho aplicable”.
 

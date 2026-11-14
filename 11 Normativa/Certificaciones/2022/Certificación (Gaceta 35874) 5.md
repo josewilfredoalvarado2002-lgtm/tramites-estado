@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Certificaciones de los Acuerdos Nos. 041-2021, 042-2021, 043-2021, 001-2022, 002-2022, 005-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220316-35874/download"
 extraido: "2026-11-14"
-huella: "9cca0ea7322c2025"
+huella: "d67bbec4f7ec3826"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,9 +29,7 @@ huella: "9cca0ea7322c2025"
 
 La infrascrita, Secretaria General de la Agencia de Regulación Sanitaria, CERTIFICA: El Acuerdo que literalmente dice:
 
-ACUERDO No. 002-2022. El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No.
-
-072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo Ejecutivo No. 110-C de fecha 30 de septiembre de 2021, Artículos 4 y 5 de la Ley de Procedimiento Administrativo, ACUERDA: 1. Delegar funcionalmente al ciudadano CARLOS MAURICIO RIVERA OSORIO, quien posee la Identidad número 0801-1968-04932, en el cargo de GERENTE ADMINISTRATIVO, mismo que tendrá las facultades del cargo contenidas en la Ley de Administración Pública y sus Reformas, Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. 2. Hacer la transcripción del Presente Acuerdo. –
+ACUERDO No. 002-2022. El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo Ejecutivo No. 110-C de fecha 30 de septiembre de 2021, Artículos 4 y 5 de la Ley de Procedimiento Administrativo, ACUERDA: 1. Delegar funcionalmente al ciudadano CARLOS MAURICIO RIVERA OSORIO, quien posee la Identidad número 0801-1968-04932, en el cargo de GERENTE ADMINISTRATIVO, mismo que tendrá las facultades del cargo contenidas en la Ley de Administración Pública y sus Reformas, Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo. 2. Hacer la transcripción del Presente Acuerdo. –
 
 COMUNIQUESE Y PUBLÍQUESE. – Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los tres
 

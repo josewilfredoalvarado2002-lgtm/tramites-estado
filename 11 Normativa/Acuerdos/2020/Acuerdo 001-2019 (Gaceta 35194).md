@@ -8,10 +8,10 @@ gaceta_numero: 35194
 gaceta_fecha: "2020-03-07"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)|La Gaceta 35194]]"
 paginas: "A. 57"
-sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019"
+sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35194/download"
 extraido: "2026-11-14"
-huella: "bfc6f3497fed265a"
+huella: "c7b6cf7206289b56"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2019
@@ -23,7 +23,7 @@ huella: "bfc6f3497fed265a"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)\|La Gaceta 35194]] del 2020-03-07 |
 | Páginas | A. 57 |
-| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019 |
+| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ En uso de las facultades de que fue investido por el Presidente de la República
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano JOSE ADALBERTO PINEDA BONILLA con número de Identidad 1804- 1989-04010, en la Institución 041 Comisión Permanente de Contingencias (COPECO), institución adscrita a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, puesto AUXILIAR DE CLIMATOLOGÍA, Programa 011, Actividad/Obra 019, Unidad Ejecutora 002 Unidades Técnicas, No. de puesto 1340, Grupo-Nivel 01-003, Sueldo L. 16,832.04.
+PRIMERO: Nombrar al ciudadano JOSE ADALBERTO PINEDA BONILLA con número de Identidad 1804-1989-04010, en la Institución 041 Comisión Permanente de Contingencias (COPECO), institución adscrita a la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales, puesto AUXILIAR DE CLIMATOLOGÍA, Programa 011, Actividad/Obra 019, Unidad Ejecutora 002 Unidades Técnicas, No. de puesto 1340, Grupo-Nivel 01-003, Sueldo L. 16,832.04.
 
 SEGUNDO: El presente Acuerdo es efectivo a partir de la toma de posesión del cargo y deberá publicarse en “LA GACETA”, Diario Oficial de la República.
 

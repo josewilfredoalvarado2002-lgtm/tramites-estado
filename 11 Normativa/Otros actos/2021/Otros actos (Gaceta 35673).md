@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210731-35673/download"
 extraido: "2026-11-14"
-huella: "a231ac2e61946a99"
+huella: "4b392aa8202067fa"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,15 +39,11 @@ CONSIDERANDO: Que la Ley sobre Actividades Nucleares y Seguridad Radiológica, d
 
 CONSIDERANDO: Que el Artículo 26 del Reglamento de Autorizaciones para Instalaciones Radiactivas y Equipos Generadores de Radiaciones Ionizantes, comprendido en el Acuerdo Ejecutivo Número 003-2014, toda persona natural que preste servicios con directa relación a la seguridad radiológica de las instalaciones radiactivas y personal que trabaja en ellas, como ser servicios de dosimetría personal, calibración de equipos de monitores empleados en protección radiológica y otros que defina la Autoridad Reguladora, deben contar con una autorización.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-73-2019, publicado en el Diario Oficial La Gaceta el 1 de febrero del 2020, se aprueba el del Reglamento General para la Aplicación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, que establece en su artículo 47 que la Autoridad Reguladora creará un registro de prestadores de servicios técnicos en protección radiológica y un manual de buenas prácticas en el ejercicio de esta función, que pondrá a disposición de los usuarios y público en general.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 73-2019, publicado en el Diario Oficial La Gaceta el 1 de febrero del 2020, se aprueba el del Reglamento General para la Aplicación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, que establece en su artículo 47 que la Autoridad Reguladora creará un registro de prestadores de servicios técnicos en protección radiológica y un manual de buenas prácticas en el ejercicio de esta función, que pondrá a disposición de los usuarios y público en general.
 
 CONSIDERANDO: Que el Estado de Honduras, a través de la Secretaría de Estado en el Despacho de Energía (SEN), establece reglas claras para el control de la calidad en los servicios de protección radiológica en el país, con la finalidad que todas las personas naturales interesadas, puedan incorporarse al mismo y atendiendo las recomendaciones del Organismo Internacional de Energía Atómica (OIEA) y otras entidades internacionales con experiencia en el tema.
 
-CONSIDERANDO: Que mediante Dictamen Legal No.
-
-DSL-059-2021 de fecha cuatro (4) de junio del año dos mil veintiuno (2021), la Dirección de Servicios Legales, emitió dictamen favorable en todos y cada uno de sus términos al ACUERDO DE CREACIÓN DE REGISTRO DE PRESTADORES DE SERVICIOS TÉCNICOS EN PROTECCIÓN RADIOLÓGICA Y MANUAL DE BUENAS PRÁCTICAS.
+CONSIDERANDO: Que mediante Dictamen Legal No. DSL-059-2021 de fecha cuatro (4) de junio del año dos mil veintiuno (2021), la Dirección de Servicios Legales, emitió dictamen favorable en todos y cada uno de sus términos al ACUERDO DE CREACIÓN DE REGISTRO DE PRESTADORES DE SERVICIOS TÉCNICOS EN PROTECCIÓN RADIOLÓGICA Y MANUAL DE BUENAS PRÁCTICAS.
 
 POR TANTO
 
@@ -263,9 +259,9 @@ ACUERDO MINISTERIAL SEN-018-2021
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el presidente de la República y cuidar de su ejecución.”
 
-CONSIDERANDO: Que el Decreto Ejecutivo No. PCM- 048-2017, publicado en el Diario Oficial La Gaceta en fecha 7 de agosto de 2017, señala en su Artículo 3 párrafo segundo:
+CONSIDERANDO: Que el Decreto Ejecutivo No. PCM-048-2017, publicado en el Diario Oficial La Gaceta en fecha 7 de agosto de 2017, señala en su Artículo 3 párrafo segundo:
 
-Queda adscrita a la SEN, ventanilla única (Proyectos de Energía Renovable) y la Dirección General de Seguridad Radiológica, autoridad reguladora nacional, en seguridad radiológica, establecida mediante Acuerdo Ejecutivo No. 006- 2016, la cual estará apoyada por una Comisión Nacional de Energía Atómica, instancia de coordinación interinstitucional para la implementación del marco programático nacional de energía atómica en Honduras.
+Queda adscrita a la SEN, ventanilla única (Proyectos de Energía Renovable) y la Dirección General de Seguridad Radiológica, autoridad reguladora nacional, en seguridad radiológica, establecida mediante Acuerdo Ejecutivo No. 006-2016, la cual estará apoyada por una Comisión Nacional de Energía Atómica, instancia de coordinación interinstitucional para la implementación del marco programático nacional de energía atómica en Honduras.
 
 CONSIDERANDO: Que el Estado de Honduras, cuenta con una Ley sobre Actividades Nucleares y Seguridad Radiológica, creada en 2009 que establece el uso de las aplicaciones nucleares con fines pacíficos en el país, mediante la regulación, control y supervisión de la actividad nuclear, manejo de fuentes radioactivas, energía nuclear, seguridad de instalaciones y protección radiológica, prestación de servicios en protección radiológica, que constituyen aspectos esenciales para el desarrollo nacional, debiendo ser abordados mediante una política energética integral de largo plazo, acorde con los convenios suscritos por el Estado de Honduras para el uso de la energía atómica con fines pacíficos.
 
@@ -377,9 +373,7 @@ b. Transferencia por venta o cesión derecho del equipo a otra persona natural o
 
 #### Artículo 16
 
-ARTÍCULO 16. Se considerarán causas para revocar el Registro, las señaladas en el Artículo 98 del Reglamento General para la Implementación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, (Acuerdo Ejecutivo No.
-
-073-2019).
+ARTÍCULO 16. Se considerarán causas para revocar el Registro, las señaladas en el Artículo 98 del Reglamento General para la Implementación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, (Acuerdo Ejecutivo No. 073-2019).
 
 #### Artículo 17
 

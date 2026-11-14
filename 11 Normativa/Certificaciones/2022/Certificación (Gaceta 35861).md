@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220301-35861/download"
 extraido: "2026-11-14"
-huella: "6662de0e65cc92e1"
+huella: "97e48bd869cff7e9"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "6662de0e65cc92e1"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 730-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintidós de abril del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de marzo del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 02032021-159, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE MINITAS #2, MUNICIPIO DE ESQUIAS, DEPARTAMENTO DE COMAYAGUA, con domicilio en la Comunidad Minitas 12, municipio de Esquías, departamento de Comayagua; contraída a solicitar 1a Personalidad Jurídica a favor avor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de marzo del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-02032021-159, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE MINITAS #2, MUNICIPIO DE ESQUIAS, DEPARTAMENTO DE COMAYAGUA, con domicilio en la Comunidad Minitas 12, municipio de Esquías, departamento de Comayagua; contraída a solicitar 1a Personalidad Jurídica a favor avor de su representada.
 
 En fecha dos de marzo del año dos mil veintiuno, compareció ante esta esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE MINITAS #2, MUNICIPIO DE ESQUIAS, DEPARTAMENTO DE COMAYAGUA, con domicilio en la comunidad Minitas # 2, municipio de Esquías, departamento de Comayagua, a solicitar la Personalidad Jurídica a favor de su representada.
 
@@ -59,9 +59,7 @@ OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN, en uso de susfacultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la. República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN, en uso de susfacultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la. República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -139,7 +137,7 @@ DE LA JUNTA DIRECTIVA.
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género ; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales:1.- Un Presidente (a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) 4.- Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero y 7.- Un vocal segundo.
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco del Sector de Agua Potable y saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales:1.- Un Presidente (a).- 2.- Un Vicepresidente(a); 3.- Secretario(a) 4.- Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero y 7.- Un vocal segundo.
 
 #### Artículo 13
 
@@ -169,7 +167,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 18
 
-ARTÍCULO 18.- La Junta Directiva de la Junta Administradora de Agua estará formada por : a) Presidente
+ARTÍCULO 18.- La Junta Directiva de la Junta Administradora de Agua estará formada por: a) Presidente
 
 b) Vicepresidente, e) Secretario, d) Tesorero, e) Un fiscal, f) Vocal Primero, g) Vocal segundo.
 

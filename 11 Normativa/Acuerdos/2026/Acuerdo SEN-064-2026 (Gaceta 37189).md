@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "56a1d30c4019cf8f"
+huella: "2b2a704d7037e39b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-064-2026
@@ -47,7 +47,7 @@ NACIONAL DE SERVICIO CIVIL: mcasasola.- FECHA:
 
 2026-04-30.
 
-SEGUNDO: El presente Acuerdo es sin perjuicio de las actuaciones hasta la fecha del cinco (5) de mayo del año dos mil veintiséis (2026), en el ejercicio del Acuerdo SEN-011- 2026 de fecha 26 de febrero de 2026.
+SEGUNDO: El presente Acuerdo es sin perjuicio de las actuaciones hasta la fecha del cinco (5) de mayo del año dos mil veintiséis (2026), en el ejercicio del Acuerdo SEN-011-2026 de fecha 26 de febrero de 2026.
 
 TERCERO: El presente Acuerdo es efectivo a partir del nueve (9) de abril del año dos mil veintiséis (2026) y deberá ser publicado en el Diario Oficial La Gaceta.
 

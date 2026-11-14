@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo No. SETRASS-521-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260912-37245/download"
 extraido: "2026-11-09"
-huella: "87809b936798c004"
+huella: "c7e17482f3e9eda8"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SETRASS-521-2026
@@ -33,9 +33,7 @@ CONSIDERANDO (1): Que el artículo 128 de la Ley de Procedimiento Administrativo
 
 CONSIDERANDO (2): Que mediante Acuerdo Ejecutivo No. SETRASS-503-2026, se formalizó el nombramiento de la ciudadana Yazmina Isabel Banegas Ortega, como Delegada Suplente en representación del Consejo Hondureño de la Empresa Privada (COHEP) ante la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), en sustitución del Abogado Gustavo Rafael Solorzano Diaz, quien presentó su renuncia al cargo que desempeñaba como miembro suplente representante del sector empleador.
 
-CONSIDERANDO (3): Que, del origen del acto administrativo, se verifica la existencia de errores materiales en la identificación y fecha del Acuerdo Ejecutivo emitido, habiéndose consignado como Acuerdo Ejecutivo No.
-
-SETRASS-503-2026, de fecha veintiuno (21) de julio de dos mil veintiséis (2026), cuando lo correcto es Acuerdo Ejecutivo No. SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiséis (2026).
+CONSIDERANDO (3): Que, del origen del acto administrativo, se verifica la existencia de errores materiales en la identificación y fecha del Acuerdo Ejecutivo emitido, habiéndose consignado como Acuerdo Ejecutivo No. SETRASS-503-2026, de fecha veintiuno (21) de julio de dos mil veintiséis (2026), cuando lo correcto es Acuerdo Ejecutivo No. SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiséis (2026).
 
 CONSIDERANDO (4): Que la presente rectificación tiene como finalidad exclusiva subsanar los errores materiales advertidos en la numeración y fecha del acto administrativo, sin modificar la voluntad de la Administración Pública, ni alterar el contenido sustancial del nombramiento efectuado, su objeto, finalidad, alcance, efectos jurídicos o las obligaciones derivadas del mismo.
 
@@ -47,13 +45,7 @@ En uso de las facultades que le confieren los artículos 235 y 245 de la Constit
 
 ACUERDA:
 
-PRIMERO: Rectificar el error material contenido en el acto administrativo identificado como Acuerdo Ejecutivo No.
-
-SETRASS-503-2026, debiendo entenderse y consignarse correctamente como: "ACUERDO EJECUTIVO No.
-
-SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiseis (2026)"; en consecuencia, toda referencia realizada al Acuerdo Ejecutivo No. SETRASS-503-2026, de fecha veintiuno (21) de julio de dos mil veintiséis (2026) deberá entenderse referida al Acuerdo Ejecutivo No.
-
-SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiséis (2026).
+PRIMERO: Rectificar el error material contenido en el acto administrativo identificado como Acuerdo Ejecutivo No. SETRASS-503-2026, debiendo entenderse y consignarse correctamente como: "ACUERDO EJECUTIVO No. SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiseis (2026)"; en consecuencia, toda referencia realizada al Acuerdo Ejecutivo No. SETRASS-503-2026, de fecha veintiuno (21) de julio de dos mil veintiséis (2026) deberá entenderse referida al Acuerdo Ejecutivo No. SETRASS-483-2026, de fecha nueve (9) de julio de dos mil veintiséis (2026).
 
 SEGUNDO: Se deja establecido que la presente rectificación se efectúa al amparo de lo dispuesto en el artículo 128 de la Ley de Procedimiento Administrativo, por tratarse de errores materiales o de hecho que no alteran lo sustancial del acto administrativo, manteniéndose incólumes el nombramiento realizado, la persona designada, la representación otorgada, el contenido y los efectos jurídicos del acuerdo original.
 

@@ -8,7 +8,7 @@ gaceta_numero: 35206
 gaceta_fecha: "2020-03-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35206 (2020-03-21)|La Gaceta 35206]]"
 paginas: "A. 8 - 11"
-sumario: "Decretos Ejecutivos números PCM 022-2020, 023-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 023-2020, 022-2020"
+sumario: "Decretos Ejecutivos números PCM 022-2020, 023-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 023-2020, 022-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200321-35206/download"
 extraido: "2026-11-14"
 huella: "384180a97e5ea138"
@@ -23,7 +23,7 @@ huella: "384180a97e5ea138"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35206 (2020-03-21)\|La Gaceta 35206]] del 2020-03-21 |
 | Páginas | A. 8 - 11 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM 022-2020, 023-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 023-2020, 022-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM 022-2020, 023-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 023-2020, 022-2020 |
 
 ## Texto
 

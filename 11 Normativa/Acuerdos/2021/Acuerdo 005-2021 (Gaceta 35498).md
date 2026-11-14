@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. 005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210126-35498/download"
 extraido: "2026-11-14"
-huella: "3088be549f065ca0"
+huella: "2903549307df29d9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-2021
@@ -35,17 +35,15 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública los Secr
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que los Subsecretarios de Estados por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 02-2018 de fecha dieciocho (18) de enero del año dos mil dieciocho (2018), se nombró a la ciudadana JACKELINE ARELY ANCHECTA CASTRO, en el cargo Subsecretaria de Estado en el Despacho de Promoción de Derechos Humanos.
 
-02-2018 de fecha dieciocho (18) de enero del año dos mil dieciocho (2018), se nombró a la ciudadana JACKELINE ARELY ANCHECTA CASTRO, en el cargo Subsecretaria de Estado en el Despacho de Promoción de Derechos Humanos.
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-112-2020 de fecha seis (06) de noviembre de dos mil veinte (2020), se decretó Estado de Emergencia a Nivel Nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical "ETA" y posteriormente por la Tormenta Tropical “IOTA”, las cuales han causado graves daños a la infraestructura vial y al sector agrícola del país, misma que tuvo una vigencia hasta el 31 de diciembre del 2020 y mediante Decreto Ejecutivo Número PCM-147- 2020 se extendió la emergencia decretada hasta el 31 de diciembre del 2021.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-112-2020 de fecha seis (06) de noviembre de dos mil veinte (2020), se decretó Estado de Emergencia a Nivel Nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical "ETA" y posteriormente por la Tormenta Tropical “IOTA”, las cuales han causado graves daños a la infraestructura vial y al sector agrícola del país, misma que tuvo una vigencia hasta el 31 de diciembre del 2020 y mediante Decreto Ejecutivo Número PCM-147-2020 se extendió la emergencia decretada hasta el 31 de diciembre del 2021.
 
 POR TANTO
 
 En uso de sus atribuciones y en aplicaciones de los
 
-Artículos 36, numeral 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1 de la Ley de Procedimiento Administrativo, 24 y 26 del Decreto Ejecutivo PCM- 008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112-2020.
+Artículos 36, numeral 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1 de la Ley de Procedimiento Administrativo, 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112-2020.
 
 ACUERDA
 

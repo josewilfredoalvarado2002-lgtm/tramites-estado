@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. SAG-008-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240125-36443/download"
 extraido: "2026-11-14"
-huella: "ee5eb3b618c52ca8"
+huella: "967653ab10fdd2ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-008-2024
@@ -43,7 +43,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado, por Ley, durante el periodo comprendido del quince (15) al diecisiete
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado, por Ley, durante el periodo comprendido del quince (15) al diecisiete
 
 (17) de enero del año dos mil veinticuatro (2024), en virtud de que la señora Ministra participará en la reunión de Alto Nivel de Ministros de Agricultura de la CELAC a realizar el 16 de enero del año 2024 en Chile.
 
@@ -323,7 +323,7 @@ CONSIDERANDO: Que el artículo 277 de la Constitución de la República establec
 
 CONSIDERANDO: Que el artículo 278 de la Constitución de la República establece que “Las órdenes que imparta el Presidente de la república deberán ser acatadas y ejecutadas con apego a la Constitución de la República y a los principios de legalidad, disciplina y profesionalismo militar”.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 168- 2013, publicado en el Diario Oficial La Gaceta en fecha 24 de agosto del año 2013, se crea la Ley de la Policía Militar del Orden Público con competencia en todo el país, la cual es integrada por efectivos de las Fuerza Armadas de Honduras teniendo como función principal dar cumplimiento a lo establecido en los artículos 272 y 274 de la Constitución de la República, manteniendo y conservando el orden público, así como acudir al auxilio de la ciudadanía.
+CONSIDERANDO: Que mediante Decreto Legislativo 168-2013, publicado en el Diario Oficial La Gaceta en fecha 24 de agosto del año 2013, se crea la Ley de la Policía Militar del Orden Público con competencia en todo el país, la cual es integrada por efectivos de las Fuerza Armadas de Honduras teniendo como función principal dar cumplimiento a lo establecido en los artículos 272 y 274 de la Constitución de la República, manteniendo y conservando el orden público, así como acudir al auxilio de la ciudadanía.
 
 POR TANTO:
 

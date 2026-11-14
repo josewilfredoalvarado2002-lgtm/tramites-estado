@@ -8,7 +8,7 @@ gaceta_numero: 36674
 gaceta_fecha: "2024-10-28"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36674 (2024-10-28)|La Gaceta 36674]]"
 paginas: "A. 8 - 44"
-sumario: "Decretos No. 98-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0633-ARSA-2023"
+sumario: "Decretos No. 98-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0633-ARSA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241028-36674/download"
 extraido: "2026-11-14"
 huella: "1b7494d3af1caed8"
@@ -23,7 +23,7 @@ huella: "1b7494d3af1caed8"
 | Emisor | Agencia de Regulación Sanitaria ARSA |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36674 (2024-10-28)\|La Gaceta 36674]] del 2024-10-28 |
 | Páginas | A. 8 - 44 |
-| Según el sumario de La Gaceta | Decretos No. 98-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0633-ARSA-2023 |
+| Según el sumario de La Gaceta | Decretos No. 98-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0633-ARSA-2023 |
 
 ## Texto
 

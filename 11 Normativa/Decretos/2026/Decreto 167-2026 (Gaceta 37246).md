@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Decretos Nos. 166-2026, 167-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260914-37246/download"
 extraido: "2026-11-09"
-huella: "7dcdf9d932903be2"
+huella: "152a4ade11be05a3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 167-2026
@@ -31,23 +31,23 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con el Artículo 351 de la Constitución de la República de Honduras, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que en fecha 28 de Mayo de 2026, se publicó en el Diario Oficial “La Gaceta”, el Decreto No.73-2026, contentivo de la Ley Especial de Facilitación del Retorno y Protección del Patrimonio de las Personas Migrantes Hondureñas y sus Familias, bajo sus artículos 8 y 11 en el cual establecen beneficios fiscales, procedimiento y régimen sancionatorio para el desarrollo y aplicación de éste.
+CONSIDERANDO: Que en fecha 28 de Mayo de 2026, se publicó en el Diario Oficial “La Gaceta”, el Decreto No. 73-2026, contentivo de la Ley Especial de Facilitación del Retorno y Protección del Patrimonio de las Personas Migrantes Hondureñas y sus Familias, bajo sus artículos 8 y 11 en el cual establecen beneficios fiscales, procedimiento y régimen sancionatorio para el desarrollo y aplicación de éste.
 
 CONSIDERANDO: Que corresponde al Gobierno de la República de Honduras reorientar la política tributaria del país, a fin de promover un desarrollo económico y social integral, priorizando a aquellos compatriotas migrantes que por diversos factores, tengan que retornar al país.
 
-CONSIDERANDO: Que es deber del Estado de Honduras, a través de la administración pública, promover la facilitación y simplificación de procesos adheridos a la administración de beneficios fiscales, en aras de orientar una política fiscal que permita el retorno voluntario de los nacionales compatriotas sujetos al Decreto No.73-2026.
+CONSIDERANDO: Que es deber del Estado de Honduras, a través de la administración pública, promover la facilitación y simplificación de procesos adheridos a la administración de beneficios fiscales, en aras de orientar una política fiscal que permita el retorno voluntario de los nacionales compatriotas sujetos al Decreto No. 73-2026.
 
-CONSIDERANDO: Que con la entrada en vigencia del Decreto No.170-2016 de fecha 1 de Enero de 2017, contentivo del Código Tributario, establece en sus artículos 16 y 17 la definición y diferencia entre exención y exoneración. Siendo la exención otorgada mediante su aprobación por el Congreso Nacional y que el goce de este beneficio no deberá ser sometido a procedimiento administrativo autorizante.
+CONSIDERANDO: Que con la entrada en vigencia del Decreto No. 170-2016 de fecha 1 de Enero de 2017, contentivo del Código Tributario, establece en sus artículos 16 y 17 la definición y diferencia entre exención y exoneración. Siendo la exención otorgada mediante su aprobación por el Congreso Nacional y que el goce de este beneficio no deberá ser sometido a procedimiento administrativo autorizante.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 2, 3, 6, 7, 8, 9, 11, 12, 14, y 17 de la LEY ESPECIAL DE FACILITACIÓN DEL RETORNO Y PROTECCIÓN DEL PATRIMONIO DE LAS PERSONAS MIGRANTES HONDUREÑAS Y SUS FAMILIAS, contenida en el Decreto No.73-2026 de fecha 6 de Mayo de 2026 y publicado en fecha 28 de Mayo de 2026, Edición No.37,153 en el Diario Oficial “La Gaceta”, que deberán leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar los artículos 2, 3, 6, 7, 8, 9, 11, 12, 14, y 17 de la LEY ESPECIAL DE FACILITACIÓN DEL RETORNO Y PROTECCIÓN DEL PATRIMONIO DE LAS PERSONAS MIGRANTES HONDUREÑAS Y SUS FAMILIAS, contenida en el Decreto No. 73-2026 de fecha 6 de Mayo de 2026 y publicado en fecha 28 de Mayo de 2026, Edición No. 37,153 en el Diario Oficial “La Gaceta”, que deberán leerse de la siguiente manera:
 
-“ A RT Í C U L O 2 . - Á M B I T O
+“ A RT Í C U L O 2 . - ÁMBITO
 
 SUBJETIVO. Son beneficiarios los hondureños y su grupo familiar, entendiéndose lo anterior el/la Cónyugue, hijos e hijas dependientes, como cualquier persona dentro del cuarto grado de consanguinidad o segundo por afinidad dependiente conviviente que acredite: a) Retornen por deportación, salida voluntaria o por vencimiento/ precario de su estatus migratorio; o,
 
@@ -81,7 +81,7 @@ Cada grupo familiar podrá acogerse a este beneficio para la importación de:
 
 La aplicación de estas exenciones estará sujeta al cumplimiento de las siguientes condiciones:
 
-i. Que se acredite la propiedad d e l v e h í c u l o m e d i a n t e la documentación legal correspondiente. ii. Que el vehículo se encuentre en condiciones normales de funcionamiento y cumpla con los requisitos de seguridad establecidos por la normativa vigente. iii. Que el vehículo no sea enajenado, transferido o gravado durante un período de doce (12) meses, contado a partir de la fecha del registro de la Declaración Única Centroamericana. iv. Que el vehículo cumpla con las disposiciones técnicas, ambientales y de tránsito aplicables para su circulación en el territorio nacional”.
+i. Que se acredite la propiedad del vehículo mediante la documentación legal correspondiente. ii. Que el vehículo se encuentre en condiciones normales de funcionamiento y cumpla con los requisitos de seguridad establecidos por la normativa vigente. iii. Que el vehículo no sea enajenado, transferido o gravado durante un período de doce (12) meses, contado a partir de la fecha del registro de la Declaración Única Centroamericana. iv. Que el vehículo cumpla con las disposiciones técnicas, ambientales y de tránsito aplicables para su circulación en el territorio nacional”.
 
 “ARTÍCULO 7.- PROHIBICIONES.
 

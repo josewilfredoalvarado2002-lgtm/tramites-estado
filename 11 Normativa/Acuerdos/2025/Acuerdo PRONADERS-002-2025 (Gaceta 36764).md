@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo de DelegaciónNo. PRONADERS-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250212-36764/download"
 extraido: "2026-11-13"
-huella: "6951ff7b1c155868"
+huella: "6f800657343c650a"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. PRONADERS-002-2025
@@ -31,7 +31,7 @@ En la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Fra
 
 CONSIDERANDO: Que el Decreto Número 12-2000 de fecha 7 de marzo de 2000, publicado en el Diario Oficial La Gaceta, de viernes 5 de mayo de 2000, se crea la Ley para el Desarrollo Rural Sostenible, que establece el marco del Programa Nacional de Desarrollo Rural Sostenible (PRONADERS). Así mismo que el Congreso Nacional de la República aprobó el Decreto 137-2011 reformando el Decreto No. 12-2000 de fecha 7 de marzo de 2000, reformado como Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS).
 
-CONSIDERANDO: Que según acuerdo número 119- 2022, de fecha 23 de febrero del año 2022, La Presidente Constitucional de la República, NOMBRÓ en el cargo de Director del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) al ciudadano DIEGO ANDRES UMANZOR SARAVIA.
+CONSIDERANDO: Que según acuerdo número 119-2022, de fecha 23 de febrero del año 2022, La Presidente Constitucional de la República, NOMBRÓ en el cargo de Director del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) al ciudadano DIEGO ANDRES UMANZOR SARAVIA.
 
 CONSIDERANDO: Que mediante Decreto número Ejecutivo PCM-05-2022 en su artículo 14 se establece:
 

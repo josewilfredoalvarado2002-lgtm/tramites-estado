@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo 0256Acuerdo Ejecutivo No. 0198"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210809-35682/download"
 extraido: "2026-11-14"
-huella: "cb7b4d51ace0971b"
+huella: "554152b636b7278d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 0198
@@ -67,7 +67,7 @@ Dado en Casa Presidencial, en la ciudad de Tegucigalpa. municipio del Distrito C
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No.043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP)
+CARLOS ALBERTO MADERO ERAZO SECRETARIO DE COORDINACIÓN GENERAL DE GOBIERNO Por delegación del Presidente de la República Acuerdo Ejecutivo No. 043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020 ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS (INSEP)
 
 ## Fuente
 

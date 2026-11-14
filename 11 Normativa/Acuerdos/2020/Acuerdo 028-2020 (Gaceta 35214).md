@@ -8,7 +8,7 @@ gaceta_numero: 35214
 gaceta_fecha: "2020-03-31"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35214 (2020-03-31)|La Gaceta 35214]]"
 paginas: "A. 6 - 8"
-sumario: "Decreto Ejecutivo número PCM-027-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 025-2020, 028-2020"
+sumario: "Decreto Ejecutivo número PCM-027-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 025-2020, 028-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200331-35214/download"
 extraido: "2026-11-14"
 huella: "fb90dc8d01dbf07d"
@@ -23,7 +23,7 @@ huella: "fb90dc8d01dbf07d"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35214 (2020-03-31)\|La Gaceta 35214]] del 2020-03-31 |
 | Páginas | A. 6 - 8 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-027-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 025-2020, 028-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-027-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 025-2020, 028-2020 |
 
 ## Texto
 

@@ -8,10 +8,10 @@ gaceta_numero: 35389
 gaceta_fecha: "2020-10-02"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35389 (2020-10-02)|La Gaceta 35389]]"
 paginas: "A. 9 - 20"
-sumario: "Acuerdo N. SAG-095-2020DIRECCIÓN GENERAL DE LA MARINA MERCANTEAcuerdos DGMM No. 009-2020, DGMM No. 010/2020"
+sumario: "Acuerdo N. SAG-095-2020; DIRECCIÓN GENERAL DE LA MARINA MERCANTE: Acuerdos DGMM No. 009-2020, DGMM No. 010/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201002-35389/download"
 extraido: "2026-11-14"
-huella: "05a1b73fa1f24d8d"
+huella: "e808cc52dd2e295f"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 009-2020
@@ -23,7 +23,7 @@ huella: "05a1b73fa1f24d8d"
 | Emisor | Dirección General de la Marina Mercante |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35389 (2020-10-02)\|La Gaceta 35389]] del 2020-10-02 |
 | Páginas | A. 9 - 20 |
-| Según el sumario de La Gaceta | Acuerdo N. SAG-095-2020DIRECCIÓN GENERAL DE LA MARINA MERCANTEAcuerdos DGMM No. 009-2020, DGMM No. 010/2020 |
+| Según el sumario de La Gaceta | Acuerdo N. SAG-095-2020; DIRECCIÓN GENERAL DE LA MARINA MERCANTE: Acuerdos DGMM No. 009-2020, DGMM No. 010/2020 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en virtud de los procesos de modernización de la Dirección G
 
 POR TANTO
 
-La Dirección General de la Marina Mercante, en el uso de las facultades que la ley confiere en cumplimiento al artículo 11 de la Constitución de la República, la Convención de la Naciones Sobre el Derecho del Mar, artículos 116, 118, de la Ley General de Administración Pública, Artículos 1, 3, 4, y 23 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, 91 y 92 de la Ley Orgánica de la Marina Mercante Nacional, Acuerdo DGMM No. 02- 2017, Acuerdo DGMM No. 12-2018 y demás aplicables.
+La Dirección General de la Marina Mercante, en el uso de las facultades que la ley confiere en cumplimiento al artículo 11 de la Constitución de la República, la Convención de la Naciones Sobre el Derecho del Mar, artículos 116, 118, de la Ley General de Administración Pública, Artículos 1, 3, 4, y 23 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, 91 y 92 de la Ley Orgánica de la Marina Mercante Nacional, Acuerdo DGMM No. 02-2017, Acuerdo DGMM No. 12-2018 y demás aplicables.
 
 ACUERDA:
 
@@ -301,7 +301,7 @@ d) Fotocopia de identidad o pasaporte vigente del propietario. En caso de ser un
 
 #### Artículo 24
 
-Artículo 24: Las solicitudes de baja de registro o cancelación de registro deberán contener la siguiente documentación :
+Artículo 24: Las solicitudes de baja de registro o cancelación de registro deberán contener la siguiente documentación:
 
 1. En caso de estado de innavegabilidad:
 
@@ -501,7 +501,7 @@ CAPÍTULO II DISPOSICIONES FINALES
 
 #### Artículo 43
 
-Artículo 43: Este Reglamento deroga el Acuerdo DGMM No.001-1998 de fecha 26 de diciembre de 1998 que aprobó las Regulaciones Básicas para embarcaciones menores de cinco (5) toneladas.
+Artículo 43: Este Reglamento deroga el Acuerdo DGMM No. 001-1998 de fecha 26 de diciembre de 1998 que aprobó las Regulaciones Básicas para embarcaciones menores de cinco (5) toneladas.
 
 ABG. OSCAR ALEXIS PONCE SIERCKE DIRECTOR GENERAL, POR LEY ABG. CINTIA HERNÁNDEZ SECRETARIA GENERAL
 

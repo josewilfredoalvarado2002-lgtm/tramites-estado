@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdo Ministerial No. 008-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230828-36319/download"
 extraido: "2026-11-14"
-huella: "86d22f253476efc3"
+huella: "51c44ea8c303553b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 008-2023
@@ -63,7 +63,7 @@ REQUERIMIENTOS Y/O RECOMENDACIONES: Se requiere que la empresa encargada de efec
 
 Copia de Resolución de autorización de explotación de banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) mediante acuerdo ministerial, establecido en la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCESOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA de acuerdo a lo instituido en los artículos No. 24, No. 25 y No. 26 de dicha Ley. Licencia o constancia Ambiental del proyecto.
 
-Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Además, cumplir con las recomendaciones plasmadas en los informes ITCD-17- 2023, en cuento a los trabajos en extracción para el banco Aluvial “Río Chamelecón” (La Ceibita), toda la información requerida mediante este dictamen será verificada en la próxima inspección por control y seguimiento. La Normativa Técnica de Aprovechamiento de Bancos para proyectos estatales es entregada con base a los artículos 21, 22, 23, 24, 25 y 26 de la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCEDIMIENTOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA, como también en base a los artículos 65 de la Ley General de Minería y 95 párrafos segundo y tercero y 96 del Reglamento de dicha Ley…”.
+Informe de socialización de las actividades a realizar con las comunidades aledañas donde se ejecutará la extracción del banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Además, cumplir con las recomendaciones plasmadas en los informes ITCD-17-2023, en cuento a los trabajos en extracción para el banco Aluvial “Río Chamelecón” (La Ceibita), toda la información requerida mediante este dictamen será verificada en la próxima inspección por control y seguimiento. La Normativa Técnica de Aprovechamiento de Bancos para proyectos estatales es entregada con base a los artículos 21, 22, 23, 24, 25 y 26 de la LEY ESPECIAL PARA LA SIMPLIFICACIÓN DE LOS PROCEDIMIENTOS DE INVERSIÓN EN INFRAESTRUCTURA PÚBLICA, como también en base a los artículos 65 de la Ley General de Minería y 95 párrafos segundo y tercero y 96 del Reglamento de dicha Ley…”.
 
 POR TANTO:
 
@@ -125,15 +125,15 @@ CONSIDERANDO: Que la Ley de Pesca y Acuicultura tiene como principales objetivos
 
 CONSIDERANDO: En atención de dar cumplimiento a la Ley de Pesca y Acuicultura, respecto a la promoción y expansión de la actividad pesquera y acuícola nacional, para que incida positivamente en el Producto Interno Bruto (PBI), a través del comercio interno y las exportaciones.
 
-CONSIDERANDO: Que la Asociación de Pescadores Industriales del Caribe de Honduras (APICAH) presentó solicitud de autorización para la exportación de 8,000 libras de la Cuota Nacional por embarcación, del Proyecto de Caracol gigante (Strombus gigas) temporada 2022- 2023, en la que adjuntaron un estudio de mercado, así como otros elementos argumentativos a su petición.
+CONSIDERANDO: Que la Asociación de Pescadores Industriales del Caribe de Honduras (APICAH) presentó solicitud de autorización para la exportación de 8,000 libras de la Cuota Nacional por embarcación, del Proyecto de Caracol gigante (Strombus gigas) temporada 2022-2023, en la que adjuntaron un estudio de mercado, así como otros elementos argumentativos a su petición.
 
-CONSIDERANDO: Tomando en consideración el Dictamen Técnico, elaborado por la Dirección General de Pesca y Acuicultura que es la entidad ejecutora de las políticas, las estrategias y planes sobre el ordenamiento, control, protección, fomento y la planificación aplicable a las actividades de pesca y acuicultura. Misma que es del criterio que se modifique el Acuerdo Ministerial SAG- 218-2022, numeral tercero para posterior a su publicación proceder a la autorización de la Exportación de la cantidad en libras correspondiente por embarcación de la Cuota Nacional de Caracol Gigante.
+CONSIDERANDO: Tomando en consideración el Dictamen Técnico, elaborado por la Dirección General de Pesca y Acuicultura que es la entidad ejecutora de las políticas, las estrategias y planes sobre el ordenamiento, control, protección, fomento y la planificación aplicable a las actividades de pesca y acuicultura. Misma que es del criterio que se modifique el Acuerdo Ministerial SAG-218-2022, numeral tercero para posterior a su publicación proceder a la autorización de la Exportación de la cantidad en libras correspondiente por embarcación de la Cuota Nacional de Caracol Gigante.
 
 POR TANTO
 
 En uso de sus facultades y en aplicación de los artículos:
 
-340 de la Constitución de la República; 5, 7, 8 numeral 4, 29 numeral 12 , 36 numeral 8, 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública;
+340 de la Constitución de la República; 5, 7, 8 numeral 4, 29 numeral 12, 36 numeral 8, 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública;
 
 3, 5 inciso f), 16, 23, 24, 43 y 80 No. 1 inciso b) y f) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; 24, 25, 26, 27, 30, 32 y 33 de la Ley de Procedimiento Administrativo; 1, 3, 5, 10 y 15 de la Ley de Pesca y Acuicultura, Acuerdo Ministerial SAG-218-2022.
 

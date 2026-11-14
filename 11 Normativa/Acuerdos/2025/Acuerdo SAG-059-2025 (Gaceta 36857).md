@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. SAG-058-2025, SAG-059-2025, SAG-060-2025, SAG-061-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250606-36857/download"
 extraido: "2026-11-10"
-huella: "ee2486484b607aa8"
+huella: "36f38dd9a423e7de"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-059-2025
@@ -47,11 +47,11 @@ CONSIDERANDO: Que en fecha veinticinco (25) de marzo del dos mil veinticuatro (2
 
 CONSIDERANDO: Que al treinta y uno (31) de diciembre del dos mil veinticuatro (2024), la “Carta de Entendimiento tenía un saldo por ejecutar de CUATRO MILLONES OCHOCIENTOS VEINTIUN MIL OCHOCIENTOS UN LEMPIRAS CON SETENTA Y TRES CENTAVOS (L.
 
-4,821,801.73) , por lo que mediante Oficio SAG-089-2025 la Ph.D. Laura Elena Suazo Torres, Secretaría de Estado/ SAG, solicita proceder a realizar una Adenda a la Cláusula de Vigencia, Duración y Modificaciones, de la Carta de Entendimiento e incluir en el documento de adenda la proyección de intereses devengados aplicables al PROGRAMA “BONO TECNOLÓGICO PRODUCTIVO AÑO 2024”, por un monto de SEIS MILLONES OCHOCIENTOS MIL LEMPIRAS EXACTOS ( L. 6,800,000.00).
+4,821,801.73), por lo que mediante Oficio SAG-089-2025 la Ph.D. Laura Elena Suazo Torres, Secretaría de Estado/ SAG, solicita proceder a realizar una Adenda a la Cláusula de Vigencia, Duración y Modificaciones, de la Carta de Entendimiento e incluir en el documento de adenda la proyección de intereses devengados aplicables al PROGRAMA “BONO TECNOLÓGICO PRODUCTIVO AÑO 2024”, por un monto de SEIS MILLONES OCHOCIENTOS MIL LEMPIRAS EXACTOS ( L. 6,800,000.00).
 
 CONSIDERANDO: Que con fecha trece (13) de marzo del dos mil veinticinco (2025), mediante Nota-BTP-090-2025 el Ing. Jose Ángel Acosta Zavala, Director Ejecutivo de la Dirección de Ciencia y Tecnología Agropecuaria (DICTA) solicita extender la vigencia de la Carta de Entendimiento desde el primero (01) de abril al treinta y uno (31) de mayo del dos mil veinticinco (2025).
 
-CONSIDERANDO: Que en fecha treinta y uno (31) de marzo del dos mil veinticinco (2025), fue firmada la ADENDA No.1, a la “Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar El PROGRAMA “BONO TECNOLÓGICO PRODUCTIVO AÑO 2024” celebrado entre esta SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
+CONSIDERANDO: Que en fecha treinta y uno (31) de marzo del dos mil veinticinco (2025), fue firmada la ADENDA No. 1, a la “Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar El PROGRAMA “BONO TECNOLÓGICO PRODUCTIVO AÑO 2024” celebrado entre esta SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 (SAG) Y EL INSTITUTO INTERAMERICANO DE COOPERACIÓN PARA LA AGRICULTURA (IICA), mediante la cual las partes acuerdan modificar la Cláusula Segunda: Monto de la Carta de Entendimiento y la Cláusula Novena: Vigencia, Duración y Modificaciones; estableciéndose que la presente Adenda tendrá una vigencia desde la fecha de su firma hasta el treinta y uno (31) de mayo del dos mil veinticinco (2025).
 

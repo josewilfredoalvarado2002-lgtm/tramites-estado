@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decretos Ejecutivos Números PCM 16-2023, PCM 17-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230424-36211/download"
 extraido: "2026-11-14"
-huella: "21bd6f2743272e78"
+huella: "9074346ba7f644cf"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 16-2023, PCM 17-2023
@@ -117,7 +117,7 @@ AEROPORTUARIOS, S.A. (EHISA), una entidad propia del derecho privado, es contrar
 
 (28) de septiembre del dos mil veinte (2020).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 080- 2021 de fecha trece (13) de agosto de dos mil veintiuno (2021), se reformó la finalidad social de la EMPRESA HONDUREÑA DE INFRAESTRUCTURA Y SERVICIOS AEROPORTUARIOS, S.A. (EHISA); autorizándole a realizar inversiones. Asimismo, se le encomendó la operación, administración y gestión del funcionamiento de los aeródromos del país: Choluteca, departamento de Choluteca; Gracias, departamento de Lempira; Río Amarillo, municipio de Santa Rita, departamento de Copán; El Aguacate, departamento de Olancho; Tela, departamento de Atlántida; Trujillo, departamento de Colón;
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 080-2021 de fecha trece (13) de agosto de dos mil veintiuno (2021), se reformó la finalidad social de la EMPRESA HONDUREÑA DE INFRAESTRUCTURA Y SERVICIOS AEROPORTUARIOS, S.A. (EHISA); autorizándole a realizar inversiones. Asimismo, se le encomendó la operación, administración y gestión del funcionamiento de los aeródromos del país: Choluteca, departamento de Choluteca; Gracias, departamento de Lempira; Río Amarillo, municipio de Santa Rita, departamento de Copán; El Aguacate, departamento de Olancho; Tela, departamento de Atlántida; Trujillo, departamento de Colón;
 
 Utila y Guanaja, departamento de Islas de la Bahía, (todo ello de manera atípica e irregular, considerando que estas son atribuciones que constitucionalmente le corresponden únicamente a Órganos de la Administración Pública).
 

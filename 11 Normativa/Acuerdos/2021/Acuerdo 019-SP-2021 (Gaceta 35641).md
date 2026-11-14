@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos números 018-SP-2021, 019-SP-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210628-35641/download"
 extraido: "2026-11-14"
-huella: "2df695739a55e7d6"
+huella: "87fbb6c6161975d0"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 019-SP-2021
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, En uso de las facultades 
 
 CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de la República en la Orientación, Coordinación, Dirección y Supervisión de los órganos y entidades de la Administración Pública Nacional en el área de su competencia.
 
-A C U E R D A:
+ACUERDA:
 
 1. Nombrar al ciudadano LUIS ROBERTO APARICIO GODOY, en el cargo de Gerente Administrativo (Puesto Excluido), a partir del 24 de mayo del presente año, en la Estructura Presupuestaria siguiente:
 
@@ -63,7 +63,7 @@ CONSIDERANDO: Que el artículo 28 de la Ley General de Ley General de la Adminis
 
 CONSIDERANDO: Que el Artículo 29 numeral 13 de la Ley General de la Administración Pública, establece que: “La Secretaría de Estado en los Despachos de Obras Públicas, Transporte, Vivienda y Empresas Públicas, ahora Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), tiene competencias fundamentales, en lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las obras de infraestructura pública, el sistema vial, urbanístico y del transporte, los asuntos concernientes a las empresas públicas, así como el régimen concesionario de obras públicas”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial La Gaceta en fecha 02 de noviembre del año 2020, en su edición número 35,417, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116- 2020, se declaró Estado de Emergencia a nivel nacional por los efectos de las lluvias provocadas por las tormentas Tropicales “ETA” e “IOTA”, las cuales han causado graves daños a la infraestructura vial del país.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial La Gaceta en fecha 02 de noviembre del año 2020, en su edición número 35,417, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116-2020, se declaró Estado de Emergencia a nivel nacional por los efectos de las lluvias provocadas por las tormentas Tropicales “ETA” e “IOTA”, las cuales han causado graves daños a la infraestructura vial del país.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-147-2020, publicado en el Diario Oficial La Gaceta en fecha 29 de diciembre de año 2020, en su edición número 35,472, el Presidente de la República en Consejo de Secretarios de Estado, prorrogó hasta el 31 de diciembre del 2021, la vigencia de la Declaratoria del Estado de Emergencia a Nivel Nacional en la infraestructura vial y el sector productivo del País.
 
@@ -83,7 +83,7 @@ En uso de las facultades de que está investido y en aplicación del Artículo 3
 
 Artículos 28, 29 numeral 13) y 33 de la Ley General de la Administración Pública; Artículos 9, 32 y 63 numeral 1) de la Ley de Contratación del Estado; Artículos 7 letras e), g),
 
-j) y p); y, 14 del Reglamento de la Ley de Contratación del Estado; Decreto Ejecutivo No. PCM-109-2020 publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Decreto Ejecutivo No. PCM-112-2020 publicado en el Diario Oficial “La Gaceta” en fecha 06 de noviembre del año 2020, Decreto Ejecutivo No. PCM-115-2020 publicado en el Diario Oficial “La Gaceta” en fecha 11 de noviembre del año 2020, Decreto Ejecutivo No. PCM-116- 2020 publicado en el Diario Oficial “La Gaceta” en fecha 18 de noviembre del año 2020, Decreto Ejecutivo No. PCM- 147-2020 publicado en el Diario Oficial La Gaceta el 29 de diciembre del año 2020.
+j) y p); y, 14 del Reglamento de la Ley de Contratación del Estado; Decreto Ejecutivo No. PCM-109-2020 publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Decreto Ejecutivo No. PCM-112-2020 publicado en el Diario Oficial “La Gaceta” en fecha 06 de noviembre del año 2020, Decreto Ejecutivo No. PCM-115-2020 publicado en el Diario Oficial “La Gaceta” en fecha 11 de noviembre del año 2020, Decreto Ejecutivo No. PCM-116-2020 publicado en el Diario Oficial “La Gaceta” en fecha 18 de noviembre del año 2020, Decreto Ejecutivo No. PCM-147-2020 publicado en el Diario Oficial La Gaceta el 29 de diciembre del año 2020.
 
 ACUERDA:
 

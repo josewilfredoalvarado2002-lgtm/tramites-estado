@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210310-35540/download"
 extraido: "2026-11-14"
-huella: "5fc0810cea4f3842"
+huella: "7973b0347a3d20d8"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -73,9 +73,7 @@ CONSIDERANDO (16): Que el Pacto Internacional de Derechos Civiles y Políticos a
 
 POR TANTO: El Consejo Nacional Electoral, en sesión de Pleno con quórum de presencia, integrado por la Consejera Presidente y por la Consejera Secretaria por ley, por incapacidad médica del Consejero Secretario Kelvin Aguirre y del Consejero Suplente Flavio Nájera y la negativa para asistir a la sesión convocada del Consejero Suplente German Lobo, en uso de las facultades y con fundamento en los Artículos 1,15, 18, 44, 45, 51, 59, 62, 65, 78, 81, 99, 321 y demás aplicables de la Constitución de la República; 23 de la Convención Americana de Derechos Humanos; 25 Pacto Internacional de Derechos Civiles y Políticos (ICCPR); 110, 116 y 118 de la Ley General de la Administración Pública; 1, 11 numeral 10); 14, 15 y 16 de la Ley Especial para la Selección y el Nombramiento de Autoridades Electorales. Atribuciones, Competencias y Prohibiciones (Decreto 71-2019) publicado en el Diario Oficial La Gaceta el 20 de agosto de 2019; y Decreto Ejecutivo Número PCM-021-2020 en el Diario Oficial La Gaceta, el 16 de marzo de 2020; por unanimidad de los integrantes del Pleno presentes en Sesión que consta en el Acta No. 11-2021 Y CON EL FIN DE GARANTIZAR A LOS CIUDADANOS Y CIUDADANAS EL EJERCICIO DEL DERECHO UNIVERSAL Y CONSTITUCIONAL AL SUFRAGIO EN LAS ELECCIONES PRIMARIAS 2021, ACUERDA:
 
-1. Autorizar el uso del listado adicional de electores a los partidos que así lo soliciten y siendo que hasta la fecha nos lo ha solicitado el Partido Liberal y el Partido Libertad y Refundación Libre, para garantizar el ejercicio del derecho universal del voto de acuerdo con los tres (3) grupos de casos referidos por el Comisionado Presidente del Registro Nacional de las Personas (RNP) en el Oficio CP No.
-
-102/RNP-2021, para lo cual el Consejo Nacional Electoral actuará con inmediatez.
+1. Autorizar el uso del listado adicional de electores a los partidos que así lo soliciten y siendo que hasta la fecha nos lo ha solicitado el Partido Liberal y el Partido Libertad y Refundación Libre, para garantizar el ejercicio del derecho universal del voto de acuerdo con los tres (3) grupos de casos referidos por el Comisionado Presidente del Registro Nacional de las Personas (RNP) en el Oficio CP No. 102/RNP-2021, para lo cual el Consejo Nacional Electoral actuará con inmediatez.
 
 2. Adjuntar al expediente administrativo, todas las comunicaciones enviadas por el Consejo Nacional Electoral al Registro Nacional de las Personas, así como la respuesta a las mismas relacionadas con la base registral, incluyendo todos los dictámenes técnicos emitidos por la Unidad de Censo y Cartografía del CNE.
 

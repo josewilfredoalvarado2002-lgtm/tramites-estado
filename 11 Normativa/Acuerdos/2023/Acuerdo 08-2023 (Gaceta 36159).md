@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdos Ejecutivos Nos. 08-2023, 09-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230218-36159/download"
 extraido: "2026-11-14"
-huella: "05fe268421132fe8"
+huella: "6cf40ba6dca3cee1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 08-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 4, párrafo segundo, de la Ley de Procedimiento A
 
 CONSIDERANDO: Que el Artículo 5 de la Ley de Procedimiento Administrativo establece que el acto de delegación podrá contener instrucciones obligatorias para el órgano delegado en materia procedimental expresándose y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos, será imputable al órgano delegado.
 
-CONSIDERANDO: Que mediante Acuerdo No. 451- 2022 de fecha 12 de octubre del año 2022, se delegó en la Licenciada MARÍA NETI DURÓN LÓPEZ, las funciones que corresponden a la Jefatura de Consolidación Familiar.
+CONSIDERANDO: Que mediante Acuerdo No. 451-2022 de fecha 12 de octubre del año 2022, se delegó en la Licenciada MARÍA NETI DURÓN LÓPEZ, las funciones que corresponden a la Jefatura de Consolidación Familiar.
 
 CONSIDERANDO: Que la Licenciada MARÍA NETI DURÓN LÓPEZ, fue trasladada para desempeñar funciones en otro Programa de ésta Dirección y por ende la Jefatura del Programa de Consolidación Familiar, debe ser delegada en otro profesional.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que para cumplir con los objetivos de dicho programa, eficacia, ag
 
 POR TANTO
 
-En aplicación de los Artículos 116, 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM- 027-2014 de fecha 4 de junio de 2014.
+En aplicación de los Artículos 116, 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
 ACUERDA
 

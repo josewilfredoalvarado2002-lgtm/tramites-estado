@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 14-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230401-36195/download"
 extraido: "2026-11-14"
-huella: "aa36aaf8cd3c5be6"
+huella: "ba3ecbce76747498"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 14-2023
@@ -61,13 +61,13 @@ CONSIDERANDO: Que varios organismos internacionales, entre ellos el Alto Comisio
 
 CONSIDERANDO: Que a partir de la militarización del Sistema Penitenciario del país la delincuencia organizada incidió para que grupos delictivos adoptaran métodos y aplicaran modalidades características del crimen organizado, registrándose varios incidentes que tuvieron como resultado la pérdida de numerosas vidas humanas, lesiones, malos tratos y torturas. Los hechos violentos se registraron incluso en centros penales de máxima seguridad, algunos de ellos siendo perpetrados con armas de fuego y otros objetos prohibidos en manos de personas privadas de libertad.
 
-CONSIDERANDO: Que con el objeto de garantizar el respeto de los derechos de las personas privadas de libertad, en particular su integridad física y psíquica, salud, vida y el tratamiento, rehabilitación y la reinserción social, la Presidenta de la República en Consejo de Secretarios de Estado, declaró EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, mediante Decreto Ejecutivo número PCM 03- 2022, de fecha 01 de marzo de 2022, publicado en el Diario Oficial “La Gaceta” en su edición número 35,998. Asimismo, se procedió a nombrar a la Policía Nacional de Honduras, a través de su Directorio Estratégico en pleno, en calidad de Comisión Interventora, por un período un año, contado a partir del 01 de marzo del año dos mil veintidós (2022).
+CONSIDERANDO: Que con el objeto de garantizar el respeto de los derechos de las personas privadas de libertad, en particular su integridad física y psíquica, salud, vida y el tratamiento, rehabilitación y la reinserción social, la Presidenta de la República en Consejo de Secretarios de Estado, declaró EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, mediante Decreto Ejecutivo número PCM 03-2022, de fecha 01 de marzo de 2022, publicado en el Diario Oficial “La Gaceta” en su edición número 35,998. Asimismo, se procedió a nombrar a la Policía Nacional de Honduras, a través de su Directorio Estratégico en pleno, en calidad de Comisión Interventora, por un período un año, contado a partir del 01 de marzo del año dos mil veintidós (2022).
 
 CONSIDERANDO: Que la Comisión Interventora se encuentra llevando a cabo de manera satisfactoria el proceso de desmilitarización, reforma y modernización del Sistema Nacional Penitenciario, habiendo obtenido excelentes resultados. Sin embargo, debido a la complejidad de los procedimientos, resulta procedente y necesario ampliar el periodo de vigencia de la intervención, con el objeto de finalizar el proceso que permita el traspaso del Sistema a autoridades civiles.
 
 POR TANTO, En aplicación de los Artículos 87, 245 numerales 2, 11 y 19; 247, 252, 321 y 323 de la Constitución de la República;
 
-Artículos 11, 14 numeral 4; 29 numeral 11; 116, 117 y 119 de la Ley General de la Administración Pública; Artículo 2 del Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional; Artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional; y Decreto Ejecutivo Número PCM-061- 2017 mediante el cual se crea el Instituto Nacional para la Atención a Menores Infractores (INAMI); Artículo 9 de la Ley de Contratación del Estado y demás aplicables.
+Artículos 11, 14 numeral 4; 29 numeral 11; 116, 117 y 119 de la Ley General de la Administración Pública; Artículo 2 del Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional; Artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional; y Decreto Ejecutivo Número PCM-061-2017 mediante el cual se crea el Instituto Nacional para la Atención a Menores Infractores (INAMI); Artículo 9 de la Ley de Contratación del Estado y demás aplicables.
 
 DECRETA:
 

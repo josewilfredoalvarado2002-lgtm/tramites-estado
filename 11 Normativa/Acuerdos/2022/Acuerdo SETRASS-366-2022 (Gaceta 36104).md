@@ -11,7 +11,7 @@ paginas: "A. 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "80324b9ba94f66a4"
+huella: "e377769d2cce6c6d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-366-2022
@@ -31,7 +31,7 @@ LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL En uso de
 
 ACUERDA:
 
-PRIMERO: Nombrar a la ciudadana Kristy Estefany Ortiz Gusman a partir del veintitrés (23) de mayo del año dos mil veintidós (2022) en el cargo de Director General (Cargo Excluido), Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 011 Regulación de las Relaciones Laborales, Unidad Ejecutora; 003 Dirección General de Trabajo, Subprograma 00, Actividad/Obra 001, Unidad; Dirección y Coordinación, Número de Puesto 1000, Grupo-Nivel 00- 00 sueldo mensual Lps. 34,800.00 (Treinta y Cuatro Mil Ochocientos Lempiras Exactos).
+PRIMERO: Nombrar a la ciudadana Kristy Estefany Ortiz Gusman a partir del veintitrés (23) de mayo del año dos mil veintidós (2022) en el cargo de Director General (Cargo Excluido), Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 011 Regulación de las Relaciones Laborales, Unidad Ejecutora; 003 Dirección General de Trabajo, Subprograma 00, Actividad/Obra 001, Unidad; Dirección y Coordinación, Número de Puesto 1000, Grupo-Nivel 00-00 sueldo mensual Lps. 34,800.00 (Treinta y Cuatro Mil Ochocientos Lempiras Exactos).
 
 SEGUNDO: La permanencia en el cargo, está sujeta a evaluación por resultados en los términos establecidos por la Presidencia de la República.
 

@@ -11,7 +11,7 @@ paginas: "A. 17 - 23"
 sumario: "Acuerdos Nos. 0214-SE-2024, 0434-SE-2024, 0435-SE-2024, 0464-SE-2024, 0747-SE-2024, 0748-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "7a1db58eadeaf57f"
+huella: "018e0cf7c67b5cdb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0464-SE-2024
@@ -45,7 +45,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere la Ley y en aplicación de las disposiciones establecidas en los Artículos: No. 151, 157, 159, 158, 163, 247 y 255 de la Constitución de la República; 1, 28, 29 reformado numeral 2), 36 numerales 1), 8) y 18); 116, 118, 119 y 122 de la Ley General de la Administración Pública; 5, 29, 30 y 31 de la Ley Fundamental de Educación, Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Artículos 7, 8, 9 y 23 del Reglamento General de Educación Media.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar en carácter experimental y en forma progresiva, a partir del 01 de febrero del año 2024, el Plan de Estudios y Programa Curricular de MAGISTERIO EN EDUCACIÓN BÁSICA BILINGÜE I Y II CICLO, integrado por los siguientes componentes: A) El Tercer Ciclo de Educación Básica Orientado al Magisterio Bilingüe, incorporando los grados 7°, 8° y 9°. B) Magisterio en Educación Básica Bilingüe I y II Ciclo (10°, 11° y 12°). C) Área de Emprendimiento (Agricultura para el desarrollo sostenible). D) Un Enfoque Integrador de experiencias organizadas por áreas curriculares, Campos de Conocimiento y Espacios Curriculares. E) Un sistema de evaluación anual a través de cuatro parciales, con una duración de seis años, estructurado de la siguiente manera:
 

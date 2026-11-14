@@ -11,7 +11,7 @@ paginas: "A. 1 - 84"
 sumario: "Acuerdo Ministerial No. 770-2021 Acuerdo No. 780-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210708-35650/download"
 extraido: "2026-11-14"
-huella: "d9bbacd93d8bc552"
+huella: "c1539f1fc519adad"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 770-2021
@@ -159,9 +159,7 @@ El ítem nueve, presenta las medidas de política (Plan de acción) mediante una
 
 2009).
 
-El CTNH fue reactivado en 2012 (PNUMA, 2013) mediante Acuerdo Ministerial No.
-
-0882-2013, aprobado el 6 junio 2013, con el apoyo del Proyecto “Manejo Integrado de las Zonas Costeras y Gestión Sostenible de los Manglares de Guatemala, Honduras y Nicaragua”, así como también tuvo lugar la aprobación del Reglamento Interno de Funcionamiento del CTNH, mediante Acuerdo Ministerial No. 1190-2015 (DiBio- MI AMBIENTE+, 2016).
+El CTNH fue reactivado en 2012 (PNUMA, 2013) mediante Acuerdo Ministerial No. 0882-2013, aprobado el 6 junio 2013, con el apoyo del Proyecto “Manejo Integrado de las Zonas Costeras y Gestión Sostenible de los Manglares de Guatemala, Honduras y Nicaragua”, así como también tuvo lugar la aprobación del Reglamento Interno de Funcionamiento del CTNH, mediante Acuerdo Ministerial No. 1190-2015 (DiBio- MI AMBIENTE+, 2016).
 
 Este mismo año (2012), como una iniciativa de la Universidad Nacional Autónoma de Honduras (UNAH), se impulsa la construcción de la Política Pública para el Manejo Integrado de los Espacios Marino y Costeros, con el apoyo de Red Iberoamericana de Manejo Costero Integrado (Red IBEMRAR), CEI.MAR e INCEBIO, bajo el liderazgo de SERNA (MiAmbiente+), para lo cual se conforma el Comité Marino Costero; bajo el cual se desarrollan una serie de capacitaciones en Manejo Costero Integrado (MCI) y se firma Convenio Marco entre la UNAH y la Universidad de Cádiz (UCA) para apoyo al proceso.
 
@@ -171,7 +169,7 @@ Seguidamente se publicaron el Diagnóstico de los Ecosistemas Marino Costeros y 
 
 (Caviedes et al, 2018).
 
-Es hasta el año 2016, con la implementación del Proyecto “Fortaleciendo el Subsistema de las Áreas Marinas Protegidas” (Proyecto Marino Costero) financiado por el Fondo para el Medio Ambiente Mundial (FMAM) a través del Programa de las Naciones Unidas para el Desarrollo (PNUD), y ejecutados por MiAmbiente+, que se retoma la iniciativa hacia un mejor gobierno del espacio costero y marino de Honduras, lo cual incluyó la reactivación del Comité Técnico Nacional de Humedales (CTNH) y bajo este marco es que se revisa y actualiza la Política Nacional de Humedales de Honduras (2019- 2029).
+Es hasta el año 2016, con la implementación del Proyecto “Fortaleciendo el Subsistema de las Áreas Marinas Protegidas” (Proyecto Marino Costero) financiado por el Fondo para el Medio Ambiente Mundial (FMAM) a través del Programa de las Naciones Unidas para el Desarrollo (PNUD), y ejecutados por MiAmbiente+, que se retoma la iniciativa hacia un mejor gobierno del espacio costero y marino de Honduras, lo cual incluyó la reactivación del Comité Técnico Nacional de Humedales (CTNH) y bajo este marco es que se revisa y actualiza la Política Nacional de Humedales de Honduras (2019-2029).
 
 El CTNH, está conformado por las siguientes instituciones:
 
@@ -217,7 +215,7 @@ Caviedes et al. (2016):
 
 4. Fundamentos y principios Fundamentos de la Política Nacional de Humedales y Espacios Marino Costeros de Honduras La Política Nacional de Humedales y Espacios Marinocosteros de Honduras, se fundamenta en la Ley para el establecimiento de una Visión de País; la Adopción de un Plan de Nación; la Ley General del Ambiente y la Agenda 2030 (ODS).
 
-Se fundamenta también, en la ordenación del territorio fortaleciendo el sector ambiental al regionalizar el país bajo el enfoque de cuencas hidrográficas y en la transversalización de sus enunciados haciendo uso del plan de gobierno 2018- 2022 (PEG), los planes institucionales (PEI) y sus respectivas políticas públicas.
+Se fundamenta también, en la ordenación del territorio fortaleciendo el sector ambiental al regionalizar el país bajo el enfoque de cuencas hidrográficas y en la transversalización de sus enunciados haciendo uso del plan de gobierno 2018-2022 (PEG), los planes institucionales (PEI) y sus respectivas políticas públicas.
 
 Desde el punto de vista del ambiente, la Política Nacional de Humedales y Espacios Marino Costeros de Honduras se fundamenta y apuesta a la sostenibilidad promoviendo el crecimiento y desarrollo económico en armonía con el medioambiente, priorizando la conservación de los recursos naturales existentes en los humedales, costas y mares.
 
@@ -301,7 +299,7 @@ El buen manejo de los humedales, en definitiva, supone abogar por la sostenibili
 
 Debilidades, Amenazas, Fortalezas y Oportunidades Como parte de la actualización de la Política Nacional de Humedales y Espacios Marino Costeros de Honduras 2019-2029, se elaboró una matriz en donde se identificaron las Fortalezas, Oportunidades, Debilidades y Amenazas (FODA)4 para cada una de las regiones del país que cuentan con humedales (zona del golfo de Fonseca, Litoral Atlántico, Islas de la Bahía, Moskitia y el Lago de en los talleres regionales los cuales se detallan dentro del anexo 2, Matriz 2 Carrasco y Caviedes (2014) 3 En el 2009 había una tasa nacional de represamiento del 5% y según proyecciones de la Visión de País 2010 – 2038, la tasa de represamiento deberá ser del 17% (Comisión Técnica del Plan de Nación, 2010).
 
-4 El análisis FODA se presenta en el anexo No.2 A continuación, se detalla en resumen los principales puntos identificados en la matriz Conclusiones del Análisis FODA:
+4 El análisis FODA se presenta en el anexo No. 2 A continuación, se detalla en resumen los principales puntos identificados en la matriz Conclusiones del Análisis FODA:
 
 • Todas las áreas protegidas cuentan con plan de manejo.
 
@@ -341,17 +339,17 @@ Ejes de Política La actualización de la Política Nacional de Humedales y Espa
 
 Los cuatro ejes de política y los cuatro transversales, son producto de un análisis profundo de la problemática encontrada, a partir del cual se definen temas de atención prioritaria, en el entendido que la Política Nacional de Humedales y Espacios Marino Costeros de Honduras deberá ser articulada por todo el aparato estatal, Organizaciones No Gubernamentales (ONG´s), sector privado y la sociedad civil organizada que esté relacionada. Los ejes de política son:
 
-Eje de política No.1 Fortalecimiento de la capacidad institucional nacional y local para la administración técnica y jurídica de los ecosistemas de humedales y espacios marinocosteros.
+Eje de política No. 1 Fortalecimiento de la capacidad institucional nacional y local para la administración técnica y jurídica de los ecosistemas de humedales y espacios marinocosteros.
 
-Eje de política No.2 Transversalización de la temática de espacios marino-costeros e inducir la participación social, económica y cultural.
+Eje de política No. 2 Transversalización de la temática de espacios marino-costeros e inducir la participación social, económica y cultural.
 
-Eje de política No.3 Manejo Sostenible de los Recursos Naturales de los humedales y espacios marino-costeros.
+Eje de política No. 3 Manejo Sostenible de los Recursos Naturales de los humedales y espacios marino-costeros.
 
 Eje de política No. 4 Definir actividades de mitigación y adaptación al Cambio Climático y resiliencia de los ecosistemas.
 
 Para cada uno de los ejes enunciados se han definido sus lineamientos de política6. Cada lineamiento de política va acompañado de una serie de acciones estratégicas, de resultados esperados y de igual manera para cada una de estas acciones se han establecido indicadores, los cuales facilitarán el seguimiento y permitirán medir el grado de cumplimento de la política en referencia y reflejarán como aportan a los Objetivos de Desarrollo Sostenible7.
 
-Eje de política No.1 Fortalecimiento de la capacidad institucional nacional y local para la administración técnica 5 Las acciones por eje estratégico, lineamientos, indicadores y estimado de costos por acción se encuentran en el ítem 10 Plan de acción página 56-63.
+Eje de política No. 1 Fortalecimiento de la capacidad institucional nacional y local para la administración técnica 5 Las acciones por eje estratégico, lineamientos, indicadores y estimado de costos por acción se encuentran en el ítem 10 Plan de acción página 56-63.
 
 6 El alcance, Implementación y Monitoreo de los ejes estratégicos y sus respectivas acciones se encuentra en el ítem 8 página 56-60 7 A mayor detalle ver el cuadro de pág. 36 Lineamientos de la Política Nacional de Humedales y Espacios Marino Costeros Honduras y su vinculación con los ODS. y jurídica de los ecosistemas de humedales y espacios marino-costeros.
 
@@ -403,7 +401,7 @@ Acciones:
 
 1.6.3 Establecimiento de acuerdos internacionales que permitan la formulación de vedas e implementación de acciones para combatir la pesca ilegal y la contaminación de humedales y espacios marinocosteros.
 
-Eje de política No.2 Transversalización de la temática de espacios marino-costeros e inducir la participación social, económica y cultural.
+Eje de política No. 2 Transversalización de la temática de espacios marino-costeros e inducir la participación social, económica y cultural.
 
 Este eje se establece para el cumplimiento del segundo objetivo específico de política que consiste en promover la participación social, económica y cultural favorable al uso, manejo y conservación de los ecosistemas de humedales y marino costeros y que se respete la autodeterminación de los pueblos indígenas sus áreas de influencia.
 
@@ -589,7 +587,7 @@ Carrasco, J.C., y R. Flores. 2009. Inventario Nacional de Humedales de la Repúb
 
 CEPAL & Mi Ambiente+. (2016). La Economía del Cambio Climático en Honduras. Mensajes Claves 2016. Ciudad de México: Comisión Económica para América Latina y el Caribe COPECO. (2013). Informe de Gestión Integral de Riesgo de Desastres. Tegucigalpa, Honduras: UNISDRCEPREDENAC.
 
-Comisión Técnica del Plan de Nación. 2010. Visión de País 2010 – 2038 y Plan de Nación 2010- 2022. Congreso Nacional. Tegucigalpa, Honduras. 152 p.
+Comisión Técnica del Plan de Nación. 2010. Visión de País 2010 – 2038 y Plan de Nación 2010-2022. Congreso Nacional. Tegucigalpa, Honduras. 152 p.
 
 DIBIO-Mi Ambiente. 2016. Ayuda de Memoria del Taller:
 

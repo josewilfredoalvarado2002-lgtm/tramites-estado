@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-029-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200407-35220/download"
 extraido: "2026-11-14"
-huella: "a9eec105ffad9a28"
+huella: "c765354a1ce722cb"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-029-2020
@@ -137,7 +137,7 @@ CONSIDERANDO: Que mediante Decreto PCM-048-2017 publicado el 07 de agosto de 201
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar su ejecución. La firma de los Secretarios de Estado en estos casos será autorizada por los respectivos Secretarios”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 030-2006 de fecha 01 de septiembre de 2006 se declaran los derivados del petróleo productos estratégicos y esenciales para la seguridad nacional, así como vitales para el desarrollo económico y social del país.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-030-2006 de fecha 01 de septiembre de 2006 se declaran los derivados del petróleo productos estratégicos y esenciales para la seguridad nacional, así como vitales para el desarrollo económico y social del país.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional; emergencia sanitaria que también incide en la contracción de la actividad económica en diferentes sectores estratégicos del país; derivando en un menor consumo de combustibles, siendo en consecuencia procedente revisar el plazo de los inventarios nacionales determinados conforme al Sistema de Precios Paridad de Importación a fin de no ocasionar mayores perjuicios al sector de hidrocarburos.
 

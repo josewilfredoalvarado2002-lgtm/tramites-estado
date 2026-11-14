@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251125-37002/download"
 extraido: "2026-11-09"
-huella: "eb9039144dc4f568"
+huella: "a4608984cda165ba"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -37,9 +37,7 @@ CONSIDERANDO (3): Que el Reglamento de Organización, Funcionamiento y Competenc
 
 CONSIDERANDO (4): Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo en el artículo 40 establece que “La Unidad de Servicios Legales, es coordinada por la secretaría general, a la que corresponde apoyar y asistir a las diferentes dependencias de la Secretaría de Estado sobre Asuntos Legales, emitiendo opiniones y dictámenes, preparando proyectos de convenios, contratos, iniciativas de ley o reglamento, así como prestando servicios de representación legal y procuración cuando corresponda”.
 
-CONSIDERANDO (5): Que la Abogada Elena Michelle Vallecillo Fuentes, fue nombrada como Secretaria General de la Secretaría de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No.
-
-68-2023 de fecha 01 de marzo del 2023 por la señora Presidenta Constitucional de la República y el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO (5): Que la Abogada Elena Michelle Vallecillo Fuentes, fue nombrada como Secretaria General de la Secretaría de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No. 68-2023 de fecha 01 de marzo del 2023 por la señora Presidenta Constitucional de la República y el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 CONSIDERANDO (6): Que en fecha catorce (14) de agosto del año dos mil veinticuatro (2024) esta Secretaría de Estado en el Despacho de Defensa Nacional emitió Acuerdo SDN No. 146-2024 mediante el cual se delegó al señor Director Legal de la Secretaría de Estado en el Despacho de Defensa Nacional, Abogado Arnaldo Alejandro Rodríguez Montero, la atribución de firmar los siguientes documentos:
 

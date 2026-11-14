@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Ejecutivos Números.022-DP-2026, 023-DP-2026, 024-DP-2026, 223-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260305-37086/download"
 extraido: "2026-11-09"
-huella: "4c356a93d90d3d59"
+huella: "9be003a3a3cf052d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 022-DP-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el Artículo 31 del Decreto Legislativo No. 103-1993 establece
 
 CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-011-2014 publicado en el Diario Oficial "La Gaceta" Número 33,417 de fecha 3 de mayo del 2014, dispone que la industria turística fue declarada como factor prioritario para el desarrollo del país, como una actividad socioeconómica que impulsa desarrollo, mediante la conservación, protección y aprovechamiento integral de los recursos turísticos nacionales.
 
-CONSIDERANDO: Que La Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) en Honduras fue creada mediante el Decreto Ejecutivo PCM- 05-2022, publicado el 6 de abril de 2022 en el Diario Oficial "La Gaceta", institución que tiene como objetivo principal la planificación, diseño, construcción y supervisión de la red vial y obras públicas, siendo sus Funciones Principales la Rectoría sobre el transporte terrestre, navegación, infraestructura vial, formulación de especificaciones técnicas para obras, y manejo del régimen de concesiones; desarrollando los proyectos de infraestructura con transparencia y sostenibilidad.
+CONSIDERANDO: Que La Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) en Honduras fue creada mediante el Decreto Ejecutivo PCM-05-2022, publicado el 6 de abril de 2022 en el Diario Oficial "La Gaceta", institución que tiene como objetivo principal la planificación, diseño, construcción y supervisión de la red vial y obras públicas, siendo sus Funciones Principales la Rectoría sobre el transporte terrestre, navegación, infraestructura vial, formulación de especificaciones técnicas para obras, y manejo del régimen de concesiones; desarrollando los proyectos de infraestructura con transparencia y sostenibilidad.
 
 CONSIDERANDO: Que las playas de Honduras, especialmente las ubicadas en el Departamento de Islas de la Bahía (Roatán, Utila, Guanaja) y la costa caribeña, son reconocidas por sus aguas cristalinas, arrecifes de coral del Sistema Arrecifal Mesoamericano y arenas blancas o volcánicas, constituyendo destinos ideales para el buceo, snorkel, avistamiento de delfines y la promoción de la cultura garífuna .
 
@@ -57,7 +57,7 @@ CONSIDERANDO: Que en el año dos mil veintitrés (2023), el Gobierno de la Repú
 
 POR TANTO;
 
-En uso de las facultades legales establecidas en los Artículos 245 numerales 2), 11), 12) y 45); 172 de la Constitución de la República; 11, 116, 117, 118 y 119 de la Ley General de la Administración Pública; 37 Numeral 2 de la Ley Orgánica del Presupuesto; 1, 23 y 31 del Decreto Legislativo No. 103- 1993; Decreto Ejecutivo PCM 014-2018 y Decreto Ejecutivo PCM-05-2022; y demás aplicables.
+En uso de las facultades legales establecidas en los Artículos 245 numerales 2), 11), 12) y 45); 172 de la Constitución de la República; 11, 116, 117, 118 y 119 de la Ley General de la Administración Pública; 37 Numeral 2 de la Ley Orgánica del Presupuesto; 1, 23 y 31 del Decreto Legislativo No. 103-1993; Decreto Ejecutivo PCM 014-2018 y Decreto Ejecutivo PCM-05-2022; y demás aplicables.
 
 ACUERDA:
 

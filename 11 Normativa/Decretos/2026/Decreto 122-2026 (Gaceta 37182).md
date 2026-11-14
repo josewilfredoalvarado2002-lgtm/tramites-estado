@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Decretos Nos. 122-2026, 130-2026, 131-2026, 133-2026, 134-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260701-37182/download"
 extraido: "2026-11-09"
-huella: "f38ad26157038311"
+huella: "7c4bbc0577b45088"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 122-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, en su Artículo 205 numeral 31), confiere al Congreso Nacional, la potestad de decretar honores por relevantes servicios a la patria.
 
-CONSIDERANDO: Que el Decreto Legislativo No.240-89 publicado en el Diario Oficial “La Gaceta” en fecha 25 de mayo de 1990, instituyó las condecoraciones de honor del Congreso Nacional, destinadas a reconocer a ciudadanos hondureños y extranjeros que, por sus méritos, se hicieron acreedores de exaltación pública y reconocimiento del pueblo hondureño.
+CONSIDERANDO: Que el Decreto Legislativo No. 240-89 publicado en el Diario Oficial “La Gaceta” en fecha 25 de mayo de 1990, instituyó las condecoraciones de honor del Congreso Nacional, destinadas a reconocer a ciudadanos hondureños y extranjeros que, por sus méritos, se hicieron acreedores de exaltación pública y reconocimiento del pueblo hondureño.
 
 CONSIDERANDO: Que la Selección Nacional de Fútbol de Honduras que participó en la Copa Mundial de España 1982 alcanzó la primera clasificación mundialista en la historia del país y proyectó el nombre de Honduras en el máximo escenario del fútbol internacional.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que resulta justo rendir homenaje público a los integrantes vivos
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

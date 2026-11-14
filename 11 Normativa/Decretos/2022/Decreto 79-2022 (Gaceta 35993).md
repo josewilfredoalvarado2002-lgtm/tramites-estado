@@ -11,7 +11,7 @@ paginas: "A. 16 - 20"
 sumario: "Decreto No. 79-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220804-35993/download"
 extraido: "2026-11-14"
-huella: "f59e06f53c3042eb"
+huella: "2f332a4179629b3a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2022
@@ -45,19 +45,19 @@ CONSIDERANDO: Que el Estado de Honduras de conformidad con el Artículo 31 de la
 
 CONSIDERANDO: Que es necesario contar con disposiciones precisas sobre el control migratorio, independientemente de la condición migratoria y legal de los extranjeros y extranjeras, de acuerdo con los principios básicos de los Derechos Humanos, de igualdad y no discriminación, así como respeto a su dignidad humana.
 
-CONSIDERANDO: Que de conformidad al Artículo 109 del Decreto No.208-2003 del 12 de Diciembre de 2003, publicado en el Diario Oficial “La Gaceta” el 3 de Marzo de 2004, contentivo de la Ley de Migración y Extranjería, el Congreso Nacional por sí o a solicitud de la Secretaría de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a personas extranjeras con el propósito de promover y facilitar la regularización de su situación migratoria en el país.
+CONSIDERANDO: Que de conformidad al Artículo 109 del Decreto No. 208-2003 del 12 de Diciembre de 2003, publicado en el Diario Oficial “La Gaceta” el 3 de Marzo de 2004, contentivo de la Ley de Migración y Extranjería, el Congreso Nacional por sí o a solicitud de la Secretaría de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a personas extranjeras con el propósito de promover y facilitar la regularización de su situación migratoria en el país.
 
-CONSIDERANDO: Que de conformidad al Artículo 4 literales a) y c) del Decreto Ejecutivo PCM-031-2014 del 30 de Junio de 2014, publicado en el Diario Oficial “La Gaceta”, el 2 de Julio de 2014, que crea el Instituto Nacional de Migración, son atribuciones de los Directores del Instituto: Formular y proponer la política migratoria a la Secretaría de Gobernación, Justicia y Descentralización, asimismo velar y aplicar las medidas necesarias para controlar la migración e inmigración. Habiéndose otorgado una amnistía migratoria mediante el Decreto No.42-2022 de fecha 5 de Abril de 2022, publicado en el Diario Oficial “La Gaceta” el 30 de Julio de 2022,la que requiere ampliarse para el beneficio de la población afectada.
+CONSIDERANDO: Que de conformidad al Artículo 4 literales a) y c) del Decreto Ejecutivo PCM-031-2014 del 30 de Junio de 2014, publicado en el Diario Oficial “La Gaceta”, el 2 de Julio de 2014, que crea el Instituto Nacional de Migración, son atribuciones de los Directores del Instituto: Formular y proponer la política migratoria a la Secretaría de Gobernación, Justicia y Descentralización, asimismo velar y aplicar las medidas necesarias para controlar la migración e inmigración. Habiéndose otorgado una amnistía migratoria mediante el Decreto No. 42-2022 de fecha 5 de Abril de 2022, publicado en el Diario Oficial “La Gaceta” el 30 de Julio de 2022,la que requiere ampliarse para el beneficio de la población afectada.
 
 CONSIDERANDO: Que de conformidad a la Atribución 1 del Artículo 205 de la Constitución de la República es facultad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 del Decreto Legislativo No.42-2022, de fecha 5 de Abril de 2022, publicado en el Diario Oficial “La Gaceta” el 30 de Julio de 2022, mismo que contiene la “AMNISTÍA MIGRATORIA”; así como, adicionar los artículos 1-A, 1-B, 1-C, 1-D y 1-E, los cuales deberán leerse de la forma siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1 del Decreto Legislativo No. 42-2022, de fecha 5 de Abril de 2022, publicado en el Diario Oficial “La Gaceta” el 30 de Julio de 2022, mismo que contiene la “AMNISTÍA MIGRATORIA”; así como, adicionar los artículos 1-A, 1-B, 1-C, 1-D y 1-E, los cuales deberán leerse de la forma siguiente:
 
 “ARTÍCULO 1.- Otorgar Amnistía Migratoria a las personas migrantes en situación de irregularidad, que consiste en eximir del cobro del pago de la sanción administrativa establecida en el Artículo 104 de la Ley de Migración y Extranjería, derivada de la infracción consistente en la entrada o salida al país sin realizar el control migratorio o por puerto no habilitado para ello, que se contempla en el Artículo 101 numeral
 

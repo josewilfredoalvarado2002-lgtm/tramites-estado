@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 019-2025, 038-2025,066-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250505-36829/download"
 extraido: "2026-11-11"
-huella: "51d64ffebea60036"
+huella: "97625f52e3b4136b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 019-2025
@@ -29,9 +29,7 @@ huella: "51d64ffebea60036"
 
 Tegucigalpa, M.D.C., 14 de enero del 2025 LA SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD En uso de las facultades que se le confiere mediante Acuerdo Ejecutivo No. 12-2024 de fecha 03 de enero del 2024, como Secretaria de Estado en el Despacho de Salud.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.
-
-10764-2024 de fecha 17 de diciembre del 2024 se autorizó:-
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 10764-2024 de fecha 17 de diciembre del 2024 se autorizó:-
 
 PRIMERO: Honduras en cumplimiento de los compromisos asumidos como Estado Parte en el proceso de implementación del Reglamento Sanitario Internacional en el TÍTULO IVPUNTOS DE ENTRADA Honduras define que se designen los siguientes Puntos de Entrada aéreo, marítimo y terrestre.
 
@@ -41,7 +39,7 @@ QUINTO: El perfil del personal Sanitario en los Puntos de Entrada Designado aér
 
 ACUERDA:
 
-PRIMERO: Modificar el Acuerdo Ministerial No. 10764- 2024 de fecha 17 de diciembre del 2024, en la parte que se refiere al NUMERAL QUINTO: El perfil del personal Sanitario en los Puntos de Entrada Designado aéreo, marítimo y terrestre, Perfil No 1, Perfil Profesional/Médico General, Funciones Generales/Vigilancia Epidemiológica sindrómica, siendo este modificado como a continuación se detalla:
+PRIMERO: Modificar el Acuerdo Ministerial No. 10764-2024 de fecha 17 de diciembre del 2024, en la parte que se refiere al NUMERAL QUINTO: El perfil del personal Sanitario en los Puntos de Entrada Designado aéreo, marítimo y terrestre, Perfil No 1, Perfil Profesional/Médico General, Funciones Generales/Vigilancia Epidemiológica sindrómica, siendo este modificado como a continuación se detalla:
 
 El perfil del personal sanitario en los Puntos de Entrada Designado aéreo, marítimo y terrestres son los siguientes perfiles:
 

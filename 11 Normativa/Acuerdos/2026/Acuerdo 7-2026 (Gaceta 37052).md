@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos Nos. 7-2026, 190-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "18208f3dddce70cc"
+huella: "53f946eaf3cc5128"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 7-2026
@@ -29,7 +29,7 @@ huella: "18208f3dddce70cc"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que mediante Decreto Legislativo 51- 2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
+CONSIDERANDO: Que mediante Decreto Legislativo 51-2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
 
 CONSIDERANDO: Que la Constitución de la República en su artículo 245, numeral 5, atribuye a la Presidenta de la República, la facultad de nombrar, separar libremente Secretarios y Subsecretarios de Estado, y a los demás funcionarios y empleados cuyo nombramiento no esté atribuido a otras autoridades;
 

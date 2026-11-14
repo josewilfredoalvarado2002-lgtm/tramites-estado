@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo número 052-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210218-35520/download"
 extraido: "2026-11-14"
-huella: "b20e080d91eaca3b"
+huella: "db13c391ec4699e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 052-2021
@@ -55,7 +55,7 @@ CONSIDERANDO: Que es necesario establecer las disposiciones para la administraci
 
 POR TANTO:
 
-La Secretaría en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo No.08-97 contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y el Decreto Ejecutivo Número PCM-120-2020 de fecha 1 de diciembre de 2020.
+La Secretaría en el Despacho de Desarrollo Económico en aplicación de los artículos 255, 321 y 347 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública y sus reformas; 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo y el Decreto Ejecutivo Número PCM-120-2020 de fecha 1 de diciembre de 2020.
 
 ACUERDA:
 

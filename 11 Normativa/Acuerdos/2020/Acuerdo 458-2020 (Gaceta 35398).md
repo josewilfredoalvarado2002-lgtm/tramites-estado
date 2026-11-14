@@ -8,10 +8,10 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 5 - 6"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
-huella: "7d4023f795a0e53f"
+huella: "9eba3ceb2139526e"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 458-2020
@@ -23,7 +23,7 @@ huella: "7d4023f795a0e53f"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 
@@ -65,7 +65,7 @@ El presente Acuerdo es de Ejecución inmediata y deberá publicarse en el Diario
 
 COMUNÍQUESE Y PUBLIQUESE.
 
-ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No.455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLÉN CARRASCO SECRETARIA GENERAL, POR LEY Acuerdo de Delegación No. 611-2019 De fecha 10 de diciembre de 2019
+ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No. 455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLÉN CARRASCO SECRETARIA GENERAL, POR LEY Acuerdo de Delegación No. 611-2019 De fecha 10 de diciembre de 2019
 
 ## Fuente
 

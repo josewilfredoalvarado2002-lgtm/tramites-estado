@@ -11,7 +11,7 @@ paginas: "A. 1 - 92"
 sumario: "Decreto No. 49-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220620-35954/download"
 extraido: "2026-11-14"
-huella: "243e9bb43c825b13"
+huella: "67268941fa5a6540"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2022
@@ -29,7 +29,7 @@ huella: "243e9bb43c825b13"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.114-2018 de fecha 11 de Octubre 2018, se aprobó el Contrato de Préstamo No.4518/BL-HO, cuya finalidad es financiar el Programa de Convivencia Ciudadana y Mejoramiento de Barrios (PCCMB). Programa que tiene como objetivo contribuir a mejorar la convivencia ciudadana en Honduras a través de la mejora en la calidad de vida en barrios vulnerables y la reducción de la incidencia de delitos violentos. Con los objetivos específicos de: (I) mejorar el hábitat de barrios urbanos vulnerables, aumentando el acceso a infraestructura de servicios básicos y de prevención para disminuir delitos de robos y delitos sexuales; (II) reducir los niveles de incidencia de homicidios y violencia intrafamiliar
+CONSIDERANDO: Que mediante Decreto Legislativo No. 114-2018 de fecha 11 de Octubre 2018, se aprobó el Contrato de Préstamo No. 4518/BL-HO, cuya finalidad es financiar el Programa de Convivencia Ciudadana y Mejoramiento de Barrios (PCCMB). Programa que tiene como objetivo contribuir a mejorar la convivencia ciudadana en Honduras a través de la mejora en la calidad de vida en barrios vulnerables y la reducción de la incidencia de delitos violentos. Con los objetivos específicos de: (I) mejorar el hábitat de barrios urbanos vulnerables, aumentando el acceso a infraestructura de servicios básicos y de prevención para disminuir delitos de robos y delitos sexuales; (II) reducir los niveles de incidencia de homicidios y violencia intrafamiliar
 
 (VIF) en los municipios intervenidos mejorando los servicios de prevención y atención a víctimas de la violencia; y, (III) mejorar la efectividad policial en investigación criminal, a través del incremento de la proporción de casos de homicidio con agresor identificado e informe de investigación aceptado por el Ministerio Público, para el logro de los objetivos, el Programa financiará: COMPONENTE 1. Mejoramiento del hábitat de barrios urbanos vulnerables. Para mejorar el acceso a servicios de infraestructura urbana y generar espacios más seguros, incentivando una mejor convivencia y aumentando la capacidad de los ciudadanos para el cumplimiento pacífico de normas. Este componente contempla el financiamiento de las actividades en dos (2) áreas: Mejora la Infraestructura básica para el área urbana básica, social y ambiental de los barrios vulnerables del Municipio del Distrito Central (M.D.C), teniendo como marco el Plan Integral de Mejoramiento de Barrios (PIMB), que incluye los diseños urbanísticos, de ingeniería, la programación y presupuesto. Financiando la asistencia técnica para preparación de PIMB; inversiones en obras de infraestructura básica basada en PIMB, construcción de sistemas de agua y saneamiento, alumbrado público y mejoramiento vial. El diseño de estas obras incluye elementos de eficiencia energética y mitigación de riesgos frente a las vulnerabilidades ambientales. Así como intervenciones para promover la convivencia ciudadana y emprendimiento a nivel de los barrios con el que se financiarán intervenciones para apoyar a jóvenes y mujeres en situación de riesgo para capacitarlos en: cultura, deportes, valores y formación laboral para emprendimientos productivos que contribuyen al mejoramiento psicosocial y económico de esta población.
 
@@ -37,19 +37,19 @@ CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Desarrollo Comuni
 
 CONSIDERANDO: Que en el marco de lo relacionado con los considerandos anteriores se realizó el proceso de contratación mediante la modalidad de Licitación Pública Internacional No.LPI-SEDECOAS-FHIS-01-2021 en fecha 6 de Septiembre de 2021, publicado en el Diario El Heraldo y el día 13 de Septiembre de 2021 en el Diario La Prensa, este llamado a licitación se emitió como resultado del Aviso General de Adquisiciones que para este Programa fuese publicado en el Development Business, Edición No.IDB369-04-9 del 5 de Abril de 2019. El cual ha cumplido con todos los procedimientos en el marco de las Políticas para la Adquisición de Bienes y Obras Financiados por el Banco Interamericano de Desarrollo (BID) GN-2349-9 del Banco Interamericano de Desarrollo (BID) y su Reglamento Operativo del Programa.
 
-CONSIDERANDO: Que mediante Oficio No.DC/FHIS- 1559-2021 de fecha 21 de Diciembre del 2021 se adjudicó el Contrato para la Ejecución del Proyecto de Mejoramiento de Barrios que incluye: Ampliación, Mejoramiento y/o Construcción de Sistema de Alcantarillado Sanitario, Agua Potable, Drenaje Pluvial, Mejoramiento Vial y Obras de Mitigación de Riesgos para las colonias: Altos de la Quezada (Código 107580), La Huerta (Código 107581), Villas de San Miguel (Código 107582), Brisas del Roble (Código 107583) y Altos del Mirador (Código 107584) en el Municipio del Distrito Central, Departamento de Francisco Morazán, por el Plazo de trescientos treinta y tres (333) días, a partir de la Orden de Inicio financiado con fondos provenientes del Contrato de Préstamo 4518 BL-HO BID por un monto total de Cincuenta y Cinco Millones Cien Mil Lempiras punto Cero Centavos (L.55,100,000.00). Desglosado de la forma siguiente: Costo Directo Cuarenta Millones Trecientos Sesenta y Seis Mil Trescientos punto Treinta y Ocho Centavos (L.40,366,300.38), Gastos Administrativos Once Millones Setecientos Cuarenta y Seis Mil Quinientos Noventa y Tres punto Cuarenta Centavos (L.11,746,593.40) Utilidad Dos Millones Novecientos Ochenta y Siete Mil Ciento Seis punto Veintidós Centavos (L.2,987,106.22), formalizándose el Contrato respectivo con la EMPRESA MERCANTIL JF CONSTRUCCIONES S.A. DE C.V. en fecha 12 de Enero del año 2022.
+CONSIDERANDO: Que mediante Oficio No.DC/FHIS-1559-2021 de fecha 21 de Diciembre del 2021 se adjudicó el Contrato para la Ejecución del Proyecto de Mejoramiento de Barrios que incluye: Ampliación, Mejoramiento y/o Construcción de Sistema de Alcantarillado Sanitario, Agua Potable, Drenaje Pluvial, Mejoramiento Vial y Obras de Mitigación de Riesgos para las colonias: Altos de la Quezada (Código 107580), La Huerta (Código 107581), Villas de San Miguel (Código 107582), Brisas del Roble (Código 107583) y Altos del Mirador (Código 107584) en el Municipio del Distrito Central, Departamento de Francisco Morazán, por el Plazo de trescientos treinta y tres (333) días, a partir de la Orden de Inicio financiado con fondos provenientes del Contrato de Préstamo 4518 BL-HO BID por un monto total de Cincuenta y Cinco Millones Cien Mil Lempiras punto Cero Centavos (L.55,100,000.00). Desglosado de la forma siguiente: Costo Directo Cuarenta Millones Trecientos Sesenta y Seis Mil Trescientos punto Treinta y Ocho Centavos (L.40,366,300.38), Gastos Administrativos Once Millones Setecientos Cuarenta y Seis Mil Quinientos Noventa y Tres punto Cuarenta Centavos (L.11,746,593.40) Utilidad Dos Millones Novecientos Ochenta y Siete Mil Ciento Seis punto Veintidós Centavos (L.2,987,106.22), formalizándose el Contrato respectivo con la EMPRESA MERCANTIL JF CONSTRUCCIONES S.A. DE C.V. en fecha 12 de Enero del año 2022.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 36) de la Constitución de la República, es potestad del Congreso Nacional: Aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo. Para efectuar la contratación de empréstitos en el extranjero o de aquellos que, aunque convenidos en el país hayan de ser financiados con capital extranjero, es preciso que el respectivo proyecto sea aprobado por el Congreso Nacional.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO PARA LA EJECUCIÓN DEL PROYECTO DE MEJORAMIENTO DE BARRIOS QUE INCLUYE: AMPLIACIÓN, MEJORAMIENTO Y / O C O N S T R U C C I Ó N D E S I S T E M A D E ALCANTARILLADO SANITARIO, AGUA POTABLE, DRENAJE PLUVIAL, MEJORAMIENTO VIAL Y OBRAS DE MITIGACIÓN DE RIESGOS PARA LAS COLONIAS: ALTOS DE LA QUEZADA (CÓDIGO 107580), LA HUERTA (CÓDIGO 107581), VILLAS DE SAN MIGUEL (CÓDIGO 107582), BRISAS DEL ROBLE (CÓDIGO 107583) Y ALTOS DEL MIRADOR (CÓDIGO 107584), UBICADAS EN EL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, suscrito el 12 de Enero de 2022, entre el Ingeniero RUBÉN DARÍO ESPINOZA OLIVERA, actuando en su condición de Secretario de Estado en los DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), a la cual está adscrito el INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), integrado entre otros, por el FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS), creado mediante Decreto Legislativo No.12-90 del 2 de Marzo del año 1990, y el señor FERNANDO ANTONIO SIERRA MEDINA, en su condición de Representante Legal de la EMPRESA MERCANTIL JF CONSTRUCCIONES S.A. DE C.V”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONTRATO PARA LA EJECUCIÓN DEL PROYECTO DE MEJORAMIENTO DE BARRIOS QUE INCLUYE: AMPLIACIÓN, MEJORAMIENTO Y / O CONSTRUCCIÓN DE SISTEMA DE ALCANTARILLADO SANITARIO, AGUA POTABLE, DRENAJE PLUVIAL, MEJORAMIENTO VIAL Y OBRAS DE MITIGACIÓN DE RIESGOS PARA LAS COLONIAS: ALTOS DE LA QUEZADA (CÓDIGO 107580), LA HUERTA (CÓDIGO 107581), VILLAS DE SAN MIGUEL (CÓDIGO 107582), BRISAS DEL ROBLE (CÓDIGO 107583) Y ALTOS DEL MIRADOR (CÓDIGO 107584), UBICADAS EN EL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, suscrito el 12 de Enero de 2022, entre el Ingeniero RUBÉN DARÍO ESPINOZA OLIVERA, actuando en su condición de Secretario de Estado en los DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), a la cual está adscrito el INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), integrado entre otros, por el FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS), creado mediante Decreto Legislativo No. 12-90 del 2 de Marzo del año 1990, y el señor FERNANDO ANTONIO SIERRA MEDINA, en su condición de Representante Legal de la EMPRESA MERCANTIL JF CONSTRUCCIONES S.A. DE C.V”, que literalmente dice:
 
-“CONTRATO. Este CONTRATO está celebrado a los doce días del mes de Enero, del 2022, Nosotros: RUBEN DARIO ESPINOZA OLIVERA, mayor de edad, casado, Ingeniero Agrónomo, hondureño, con domicilio legal en el CENTRO CÍVICO GUBERNAMENTAL JOSÉ CECILIO DEL VALLE, boulevard Juan Pablo Segundo; Avenida Corea, entrada principal frente al Restaurante Hacienda Real, (Torre II), en Tegucigalpa, Municipio de Distrito Central, Departamento de Francisco Morazán, con Tarjeta de Identidad No.0703197602046; actuando en mi condición de Secretario de Estado en la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO, creada mediante Decreto Ejecutivo No.PCM-056-2019, de fecha 11 de Septiembre del 2019, publicado en el Diario Oficial La Gaceta, No.35,047, de fecha 12 de Septiembre del 2019, entidad a la cual está adscrito el INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), el cual fue creado para la integración institucional del Fondo Hondureño de Inversión Social (FHIS), el Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) y el Instituto Hondureño de Infraestructura Física Educativa (INHIFE); nombrado mediante Acuerdo No.53-2021, del 24 de Mayo del 2021, como Secretario de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS); Director Ejecutivo del Fondo Hondureño de Inversión Social (FHIS); Director del Instituto de Desarrollo Comunitario, Agua y Saneamiento (IDECOAS); y Director del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS); quien en adelante y para los efectos de este Contrato se denominará FHIS, en adelante denominado “el Contratante” por una parte y la Empresa Mercantil JF CONSTRUCCIONES S.A. DE C.V. a través de su representante Legal Fernando Antonio Sierra Medina, mayor de edad, casado, con Tarjeta de Identidad No. 0801- 1972-04051, con domicilio en la Colonia Lara, tercera avenida, segunda calle No. 0801A, Tegucigalpa, Honduras, quien actúa en su condición de Representante Legal de la empresa, en adelante denominado “el Contratista” por la otra parte; por cuanto el Contratante desea que el Contratista ejecute el “Proyecto de Mejoramiento de Barrios que incluye: Ampliación, Mejoramiento y/o Construcción de sistema de alcantarillado sanitario, agua potable, drenaje pluvial, mejoramiento vial y obras de mitigación de riesgos para las colonias: Altos de la Quezada (código 107580), La Huerta (código 107581), Villas de San Miguel (código 107582), Brisas del Roble (código 107583) y Altos del Mirador (código 107584); ubicadas en la ciudad de Comayagüela, M.D.C., departamento de Francisco Morazán, Honduras, C.A.”, aprobado en Acta de Comité de Operaciones número 1514 del 11 de Agosto de 2021 en adelante denominado “las Obras” y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de las mismas;
+“CONTRATO. Este CONTRATO está celebrado a los doce días del mes de Enero, del 2022, Nosotros: RUBEN DARIO ESPINOZA OLIVERA, mayor de edad, casado, Ingeniero Agrónomo, hondureño, con domicilio legal en el CENTRO CÍVICO GUBERNAMENTAL JOSÉ CECILIO DEL VALLE, boulevard Juan Pablo Segundo; Avenida Corea, entrada principal frente al Restaurante Hacienda Real, (Torre II), en Tegucigalpa, Municipio de Distrito Central, Departamento de Francisco Morazán, con Tarjeta de Identidad No. 0703197602046; actuando en mi condición de Secretario de Estado en la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO, creada mediante Decreto Ejecutivo No.PCM-056-2019, de fecha 11 de Septiembre del 2019, publicado en el Diario Oficial La Gaceta, No. 35,047, de fecha 12 de Septiembre del 2019, entidad a la cual está adscrito el INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), el cual fue creado para la integración institucional del Fondo Hondureño de Inversión Social (FHIS), el Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) y el Instituto Hondureño de Infraestructura Física Educativa (INHIFE); nombrado mediante Acuerdo No. 53-2021, del 24 de Mayo del 2021, como Secretario de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS); Director Ejecutivo del Fondo Hondureño de Inversión Social (FHIS); Director del Instituto de Desarrollo Comunitario, Agua y Saneamiento (IDECOAS); y Director del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS); quien en adelante y para los efectos de este Contrato se denominará FHIS, en adelante denominado “el Contratante” por una parte y la Empresa Mercantil JF CONSTRUCCIONES S.A. DE C.V. a través de su representante Legal Fernando Antonio Sierra Medina, mayor de edad, casado, con Tarjeta de Identidad No. 0801-1972-04051, con domicilio en la Colonia Lara, tercera avenida, segunda calle No. 0801A, Tegucigalpa, Honduras, quien actúa en su condición de Representante Legal de la empresa, en adelante denominado “el Contratista” por la otra parte; por cuanto el Contratante desea que el Contratista ejecute el “Proyecto de Mejoramiento de Barrios que incluye: Ampliación, Mejoramiento y/o Construcción de sistema de alcantarillado sanitario, agua potable, drenaje pluvial, mejoramiento vial y obras de mitigación de riesgos para las colonias: Altos de la Quezada (código 107580), La Huerta (código 107581), Villas de San Miguel (código 107582), Brisas del Roble (código 107583) y Altos del Mirador (código 107584); ubicadas en la ciudad de Comayagüela, M.D.C., departamento de Francisco Morazán, Honduras, C.A.”, aprobado en Acta de Comité de Operaciones número 1514 del 11 de Agosto de 2021 en adelante denominado “las Obras” y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de las mismas;
 
 En consecuencia, este Contrato atestigua lo siguiente: 1. En este Contrato las palabras y expresiones tendrán el mismo significado que respectivamente se les ha asignado en las Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este Contrato y se leerán e interpretarán como parte del mismo. 2. En consideración a los pagos que el Contratante hará al Contratista como en lo sucesivo se menciona, el Contratista por este medio se compromete con el Contratante a ejecutar y completar las Obras y a subsanar cualquier defecto de las mismas de conformidad en todo respecto con las disposiciones del Contrato. 3. El Contratante por este medio se compromete a pagar al Contratista la cantidad de CINCUENTA Y CINCO MILLONES CIEN MIL LEMPIRAS CON CERO CENTAVOS (L.55,100,000.00) como retribución por la ejecución y terminación de las Obras y la subsanación de sus defectos, el Precio del Contrato o aquellas sumas que resulten pagaderas bajo las disposiciones del Contrato en el plazo y en la forma establecidas en éste. En testimonio de lo cual las partes firman el presente Contrato en el día, mes y año antes indicados. Por y en nombre de SECRETARIA DE DESARROLLO COMUNITARIO, AGUA SANEAMIENTO (SEDECOAS)/ FONDO HONDUREÑO DE INVERSION SOCIAL (FHIS) (FIRMA Y SELLO) ING. RUBEN DARIO ESPINOZA OLIVERA SECRETARIO DE ESTADO SEDECOAS/ FHIS RTN. 08019995292594 por y en nombre de JF CONSTRUCCIONES S.A. DE C.V. (FIRMA Y SELLO) FERNANDO ANTONIO SIERRA MEDINA, GERENTE GENERAL Y REPRESENTANTE LEGAL DE JF CONSTRUCCIONES S.A. DE C.V. RTN. 08019995393718.
 
@@ -315,7 +315,7 @@ Los encabezamientos de las cláusulas no tienen relevancia por sí mismos. Las p
 
 (a) Los riesgos de lesiones personales, de muerte, o de pérdida o daños a la propiedad (sin incluir las Obras, Planta, Materiales y Equipos) como consecuencia de:
 
-(i) el uso u ocupación del Sitio de las Obras por las Obras, o con el objeto de realizar las Obras, como resultado inevitable de las Obras, o ,
+(i) el uso u ocupación del Sitio de las Obras por las Obras, o con el objeto de realizar las Obras, como resultado inevitable de las Obras, o,
 
 (ii) negligencia, violación de los deberes establecidos por la ley, o interferencia con los derechos legales por parte del Contratante o cualquiera persona empleada por él o contratada por él, excepto el Contratista.
 
@@ -327,7 +327,7 @@ Los encabezamientos de las cláusulas no tienen relevancia por sí mismos. Las p
 
 (a) un Defecto que existía en la Fecha de Terminación;
 
-(b) un evento que ocurrió antes de la Fecha de Terminación, y que no constituía un riesgo del Contratante; o ,
+(b) un evento que ocurrió antes de la Fecha de Terminación, y que no constituía un riesgo del Contratante; o,
 
 (c) las actividades del Contratista en el Sitio de las Obras después de la Fecha de Terminación.
 
@@ -343,7 +343,7 @@ Los encabezamientos de las cláusulas no tienen relevancia por sí mismos. Las p
 
 (b) pérdida o daños a - - los Equipos;
 
-(c) pérdida o daños a - - la propiedad (sin incluir las Obras, Planta, Materiales y Equipos) relacionada con el Contrato, y , (d) lesiones personales o muerte.
+(c) pérdida o daños a - - la propiedad (sin incluir las Obras, Planta, Materiales y Equipos) relacionada con el Contrato, y, (d) lesiones personales o muerte.
 
 13.2 El Contratista deberá entregar al Gerente de Obras, para su aprobación, las pólizas y los certificados de seguro antes de la Fecha de Inicio. Dichos seguros deberán contemplar indemnizaciones pagaderas en los tipos y proporciones de monedas requeridos para rectificar la pérdida o los daños o perjuicios ocasionados.
 
@@ -697,7 +697,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 (i) si el Contratista impide sustancialmente el ejercicio de los derechos del Banco de realizar auditorías, sin perjuicio de lo indicado en la Cláusula 60.1 de las CGC.
 
-60. Prácticas Prohibidas [cláusula exclusiva para contratos de préstamo firmados bajo política GN- 2349-9]
+60. Prácticas Prohibidas [cláusula exclusiva para contratos de préstamo firmados bajo política GN-2349-9]
 
 59.3 Cuando cualquiera de las partes del Contrato notifique al Gerente de Obras de un incumplimiento del Contrato, por una causa diferente a las indicadas en la Subcláusula 59.2 de las CGC, el Gerente de Obras deberá decidir si el incumplimiento es o no fundamental.
 
@@ -707,7 +707,7 @@ Si después de que el Contratista volviese a presentar el estado de cuenta final
 
 60.1 El Banco exige a todos los Prestatarios (incluyendo los beneficiarios de donaciones), organismos ejecutores y organismos contratantes, al igual que a todas las firmas, entidades o individuos oferentes por participar o participando en actividades financiadas por el Banco incluyendo, entre otros, solicitantes, oferentes, proveedores de bienes, contratistas, consultores, miembros del personal, subcontratistas, subconsultores, proveedores de servicios y concesionarios (incluidos sus respectivos funcionarios, empleados y representantes, ya sean sus atribuciones expresas o implícitas), observar los más altos niveles éticos y denunciar al Banco9 todo acto sospechoso de constituir una Práctica Prohibida del cual tenga conocimiento o sea informado, durante el proceso de selección y las negociaciones o la ejecución de un contrato. Las Prácticas Prohibidas comprenden actos de: (i) prácticas corruptivas; (ii) prácticas fraudulentas;
 
-(iii) prácticas coercitivas; y (iv) prácticas , colusorias y (v) prácticas obstructivas. El Banco ha establecido mecanismos para la denuncia de la supuesta comisión de Prácticas Prohibidas.
+(iii) prácticas coercitivas; y (iv) prácticas, colusorias y (v) prácticas obstructivas. El Banco ha establecido mecanismos para la denuncia de la supuesta comisión de Prácticas Prohibidas.
 
 Toda denuncia deberá ser remitida a la Oficina de Integridad Institucional (OII) del Banco para que se investigue debidamente. El Banco también ha adoptado procedimientos de sanción para la resolución de casos y ha celebrado acuerdos con otras Instituciones Financieras Internacionales
 
@@ -723,9 +723,9 @@ Toda denuncia deberá ser remitida a la Oficina de Integridad Institucional (OII
 
 (iii) Una práctica coercitiva consiste en perjudicar o causar daño, o amenazar con perjudicar o causar daño, directa o indirectamente, a cualquier parte o a sus bienes para influenciar indebidamente las acciones de una parte;
 
-(iv) Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y ,
+(iv) Una práctica colusoria es un acuerdo entre dos o más partes realizado con la intención de alcanzar un propósito inapropiado, lo que incluye influenciar en forma inapropiada las acciones de otra parte; y,
 
-(v) Una práctica obstructiva consiste en: a.a. destruir, falsificar, alterar u ocultar deliberadamente evidencia significativa para la investigación o realizar declaraciones falsas ante los investigadores con el fin de impedir materialmente una investigación del Grupo del Banco sobre denuncias de una práctica corrupta, fraudulenta, coercitiva o colusoria; y/o amenazar, hostigar o intimidar a cualquier parte para impedir que divulgue su conocimiento de asuntos que son importantes para la investigación o que prosiga la investigación, o ;
+(v) Una práctica obstructiva consiste en: a.a. destruir, falsificar, alterar u ocultar deliberadamente evidencia significativa para la investigación o realizar declaraciones falsas ante los investigadores con el fin de impedir materialmente una investigación del Grupo del Banco sobre denuncias de una práctica corrupta, fraudulenta, coercitiva o colusoria; y/o amenazar, hostigar o intimidar a cualquier parte para impedir que divulgue su conocimiento de asuntos que son importantes para la investigación o que prosiga la investigación, o;
 
 , b.b. todo acto dirigido a impedir materialmente el ejercicio de inspección del Banco y los derechos de auditoría previstos en el párrafo 60.1 (f) de abajo.
 
@@ -871,7 +871,7 @@ Sistema del Alcantarillado Sanitario Suministro e instalación de 264.39 m de tu
 
 Construcción de 5 pozos con altura de 1.50 m; 1 pozo con altura de 1.51 - 2.50 m; 01 caja de inspección de calle vehicular.
 
-Conexiones domiciliarias para 62 lotes, incluyendo la Yee de conexión, tubo de PVC 4” RD- 41 y caja de registro domiciliaria.
+Conexiones domiciliarias para 62 lotes, incluyendo la Yee de conexión, tubo de PVC 4” RD-41 y caja de registro domiciliaria.
 
 Sistema de Abastecimiento de Agua Potable Red de agua potable.
 
@@ -929,7 +929,7 @@ Suministro e instalación de 684.43 m de tubería PVC 6” RD-41.
 
 Construcción de 10 pozos con altura de 1.50 m; 04 pozos con altura de 1.51 - 2.50. m; 02 pozos de caída con profundidad de 2.10-3.50 m.
 
-Conexiones domiciliarias para 181 lotes, incluyendo la yee de conexión, tubo de PVC 4” RD- 41 y caja de registro domiciliaria.
+Conexiones domiciliarias para 181 lotes, incluyendo la yee de conexión, tubo de PVC 4” RD-41 y caja de registro domiciliaria.
 
 Sistema de Abastecimiento de Agua Potable Red de agua potable.
 
@@ -1035,7 +1035,7 @@ Obras de Mitigación
 
 Construcción de 11 pozos con altura de 1.50 m; 04 pozos con altura de 1.51 - 2.50 m; 02 pozos con altura de 2.51 – 3.50m; 09 cajas de inspección de calle vehicular.
 
-Conexiones domiciliarias para 70 lotes, incluyendo la Yee de conexión, tubo de PVC 6” RD- 41 y caja de registro domiciliaria.
+Conexiones domiciliarias para 70 lotes, incluyendo la Yee de conexión, tubo de PVC 6” RD-41 y caja de registro domiciliaria.
 
 Sistema de Abastecimiento de Agua Potable Red de agua potable.
 
@@ -1109,7 +1109,7 @@ Suministro e instalación de 895.69 m de tubería PVC 6” RD-41.
 
 Construcción de 14 pozos con altura de 1.50 m; 04 pozos con altura de 1.51 - 2.50 m; 02 pozos con altura de 2.51 – 3.50m; 02 pozos de caída con profundidad de 2.10-3.50 m; 1 caja de inspección de calle vehicular.
 
-Conexiones domiciliarias para 145 lotes, incluyendo la yee de conexión, tubo de PVC 6” RD- 41 y caja de registro domiciliaria.
+Conexiones domiciliarias para 145 lotes, incluyendo la yee de conexión, tubo de PVC 6” RD-41 y caja de registro domiciliaria.
 
 Sistema de Abastecimiento de Agua Potable Red de agua potable.
 
@@ -1305,7 +1305,7 @@ Agregar después de la primera frase al final de la Subcláusula 40.1:
 
 El Contratante puede aceptar la propuesta de ingeniería de valor si se demuestra que esta conlleva los siguientes beneficios:
 
-(a) acelerar el período de cumplimiento de contrato; o , 10 En los contratos de suma global, elimine este párrafo.
+(a) acelerar el período de cumplimiento de contrato; o, 10 En los contratos de suma global, elimine este párrafo.
 
 (b) reducir el Precio del Contrato o los costos durante la vida útil que debe afrontar el Contratante; o (c) mejorar la calidad, la eficiencia, la seguridad o la sustentabilidad de las Instalaciones; o (d) producir cualquier otro beneficio para el Contratante, sin comprometer la funcionalidad de las Obras.
 
@@ -1355,7 +1355,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 

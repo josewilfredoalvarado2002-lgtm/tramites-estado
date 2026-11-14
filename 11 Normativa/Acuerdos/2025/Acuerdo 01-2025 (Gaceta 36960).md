@@ -11,7 +11,7 @@ paginas: "A. 18 - 32"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251007-36960/download"
 extraido: "2026-11-09"
-huella: "9f4c0bf8cac48ecb"
+huella: "8ddada51e45dd0df"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.01/2025.- Sesión No.4165 del 25 de
@@ -37,15 +37,15 @@ CONSIDERANDO: Que como resultado de la reactivación del mecanismo de Subasta de
 
 CONSIDERANDO: Que a raíz de la evolución del mercado cambiario antes descrita, en la cual los agentes económicos han presentado ofertas de compra de divisas con precios diferenciados dentro de la banda cambiaria establecida para la subasta, se ha fortalecido la participación de los diferentes sectores en el mercado cambiario para la determinación del tipo de cambio de referencia; y que, en este contexto, resulta necesario revisar el marco regulatorio y operativo del mercado cambiario, para asegurar el desarrollo ordenado y sostenible, en concordancia con los objetivos de política monetaria y cambiaria, garantizando mayor transparencia y simplificación en el proceso de subasta de divisas, facilitando la comprensión y adecuada participación de los agentes económicos.
 
-CONSIDERANDO: Que con base en la propuesta del equipo técnico del BCH, discutida ampliamente en el seno del Comité de Divisas en la Sesión Ordinaria No.02/2025, celebrada el 22 de septiembre de 2025, este órgano colegiado, por unanimidad de votos, decidió someter a consideración del Directorio del BCH la aprobación de un nuevo Reglamento para la Negociación en el Mercado Organizado de Divisas que contenga los aspectos técnicos necesarios para cumplir con los objetivos antes referidos.
+CONSIDERANDO: Que con base en la propuesta del equipo técnico del BCH, discutida ampliamente en el seno del Comité de Divisas en la Sesión Ordinaria No. 02/2025, celebrada el 22 de septiembre de 2025, este órgano colegiado, por unanimidad de votos, decidió someter a consideración del Directorio del BCH la aprobación de un nuevo Reglamento para la Negociación en el Mercado Organizado de Divisas que contenga los aspectos técnicos necesarios para cumplir con los objetivos antes referidos.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República;
 
-2, 6, 16, literales a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 54 y 118 de la Ley General de la Administración Pública; y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+2, 6, 16, literales a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 54 y 118 de la Ley General de la Administración Pública; y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -467,15 +467,15 @@ Artículo 38. Casos No Previstos. Los casos no previstos en este Reglamento ser�
 
 II.
 
-Derogar el Acuerdo No.05/2023 del 10 de abril de 2023, mediante el cual se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
+Derogar el Acuerdo No. 05/2023 del 10 de abril de 2023, mediante el cual se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
 III.
 
-Derogar el Acuerdo No.06/2023 del 10 de abril de 2023, mediante el cual se aprobó la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, así como, el Acuerdo No.10/2023 del 24 de agosto de 2023, mediante el cual se modificó el Acuerdo No.06/2023 precitado.
+Derogar el Acuerdo No. 06/2023 del 10 de abril de 2023, mediante el cual se aprobó la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, así como, el Acuerdo No. 10/2023 del 24 de agosto de 2023, mediante el cual se modificó el Acuerdo No. 06/2023 precitado.
 
 IV.
 
-Derogar la Resolución No.193-5/2023 en la cual se autoriza la venta directa del BCH a los importadores de combustibles y agentes cambiarios.
+Derogar la Resolución No. 193-5/2023 en la cual se autoriza la venta directa del BCH a los importadores de combustibles y agentes cambiarios.
 
 V.
 

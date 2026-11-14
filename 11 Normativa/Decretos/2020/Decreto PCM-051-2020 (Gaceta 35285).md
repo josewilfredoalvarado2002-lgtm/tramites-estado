@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Ejecutivos números PCM-051-2020, 054-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200616-35285/download"
 extraido: "2026-11-14"
-huella: "26d5c71965d02641"
+huella: "4eed122b37b479d6"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-051-2020
@@ -31,7 +31,7 @@ Sección A Decretos y Acuerdos
 
 PODER EJECUTIVO
 
-Decretos Ejecutivos números PCM-051- 2020, 054-2020 A. 1- 8 PODER LEGISLATIVO Decreto No. 75-2020 A. 9- 16 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+Decretos Ejecutivos números PCM-051-2020, 054-2020 A. 1-8 PODER LEGISLATIVO Decreto No. 75-2020 A. 9-16 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad al Artículo 87 de la Constitución de la República, las cárceles son establecimientos de seguridad y defensa social que se procurará en ellas la rehabilitación del recluido y su preparación para el trabajo.
 
@@ -47,21 +47,19 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que la Comisión Interventora tiene las facultades y atribuciones consignadas en el Artículo 11 numerales 1 al 14 de Ley del Sistema Penitenciario Nacional.
 
-CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-008-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del año 2020, Edición No.
-
-35,198, se ratifica para el presente Ejercicio Fiscal, el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, declarado mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” del 16 de diciembre de 2019, manteniendo la Comisión Interventora su período de vigencia hasta el 16 de junio de 2020.
+CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-008-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del año 2020, Edición No. 35,198, se ratifica para el presente Ejercicio Fiscal, el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, declarado mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” del 16 de diciembre de 2019, manteniendo la Comisión Interventora su período de vigencia hasta el 16 de junio de 2020.
 
 POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 87, 245 numerales 2 y 11, 247, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 14 numeral 4), 17, 18, 20, 98, 99, 100, 101, 102, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional;
 
-Decreto Ejecutivo Número PCM-061-2017, Decreto Ejecutivo Número PCM-068-2019, Decreto Ejecutivo Número PCM- 008-2020; y, Resolución No. 20-2014 emitida por el Consejo Nacional de Defensa y Seguridad.
+Decreto Ejecutivo Número PCM-061-2017, Decreto Ejecutivo Número PCM-068-2019, Decreto Ejecutivo Número PCM-008-2020; y, Resolución No. 20-2014 emitida por el Consejo Nacional de Defensa y Seguridad.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar el periodo de vigencia de la Comisión Interventora del Sistema Penitenciario Nacional hasta el 31 de diciembre de 2020, creada mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” en fecha 16 de diciembre del año 2019 y ratificado para el presente Ejercicio Fiscal el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, mediante el Decreto Ejecutivo Número PCM- 008-2020, públicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del 2020, Edición No. 35,198, con el propósito que la Comisión concluya con las acciones de evaluación de las medidas que se estimen adecuadas para mejorar la situación administrativa y financiera de las entidades intervenidas.
+ARTÍCULO 1.- Prorrogar el periodo de vigencia de la Comisión Interventora del Sistema Penitenciario Nacional hasta el 31 de diciembre de 2020, creada mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” en fecha 16 de diciembre del año 2019 y ratificado para el presente Ejercicio Fiscal el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL, mediante el Decreto Ejecutivo Número PCM-008-2020, públicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del 2020, Edición No. 35,198, con el propósito que la Comisión concluya con las acciones de evaluación de las medidas que se estimen adecuadas para mejorar la situación administrativa y financiera de las entidades intervenidas.
 
 #### Artículo 2
 

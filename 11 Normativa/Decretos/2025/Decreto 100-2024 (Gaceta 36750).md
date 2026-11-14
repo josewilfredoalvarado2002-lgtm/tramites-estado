@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decretos Nos. 97-2024, 100-2024, 101-2024, 111-2024, 112-2024, 113-2024, 115-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250127-36750/download"
 extraido: "2026-11-13"
-huella: "7eba1731b12fd0e9"
+huella: "3b6241c141893997"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 100-2024
@@ -33,13 +33,13 @@ CONSIDERANDO: Que es deber del Estado promover el desarrollo económico y social
 
 CONSIDERANDO: Que el Municipio de Marcovia, departamento de Choluteca, es el segundo en cuanto a la dimensión de sus actividades económicas en el departamento de Choluteca, presentando un esquema de actividades agroindustriales como el cultivo de la caña y la producción de azúcar y procesamiento del camarón, de frutas y legumbres; cuenta con producción agropecuaria de ganado vacuno, porcino y avicultura, mediante un sistema de haciendas y fincas intermedias en las que agrega el cultivo de granos básicos y la pesca artesanal en el Golfo de Fonseca. En la actividad económica también se incluye la circulación de turistas en varios sitios costeros que ayuda a incrementar la actividad mercantil y el desarrollo económico.
 
-CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para el bien común, el desarrollo de los municipios y la autonomía local para dar respuesta oportuna a las necesidades de sus habitantes. En tal sentido, la Ley de Municipalidades, contenida en el Decreto No.134-90 del 29 de Octubre de 1990, atribuye a las municipalidades el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, su mantenimiento y administración.
+CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para el bien común, el desarrollo de los municipios y la autonomía local para dar respuesta oportuna a las necesidades de sus habitantes. En tal sentido, la Ley de Municipalidades, contenida en el Decreto No. 134-90 del 29 de Octubre de 1990, atribuye a las municipalidades el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, su mantenimiento y administración.
 
 CONSIDERANDO: Que la oficina de Auditoría Municipal de la Corporación Municipal del departamento de Choluteca, mediante nota hizo recomendación a la Municipalidad para que procure la adquisición de nuevo equipo de transporte para servicio de la Municipalidad, libres de todo tipo de impuestos.
 
 CONSIDERANDO: Que la exoneración establecida en este Decreto busca promover la autonomía de la Municipalidad, permitiéndole contar con el equipo de transporte necesario para regular y supervisar las actividades en beneficio del Municipio, permitiendo el flujo de la actividad económica en cada una de las comunidades del Municipio de Marcovia, departamento de Choluteca, en pro de ejercer las acciones que fomenten las políticas públicas que contribuyan al desarrollo humano y bienestar de su población local; así como al desarrollo económico y social de manera integral, en el cual los servicios públicos y sobre todo de acceso a la salud que ofrecen las mismas, son esenciales para el desarrollo y el bien común de sus habitantes.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No.170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre de 2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, emitido mediante el Decreto No. 170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” del 28 de Diciembre de 2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

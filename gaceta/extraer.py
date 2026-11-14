@@ -15,6 +15,7 @@ import time
 import urllib.error
 from zoneinfo import ZoneInfo
 
+from . import reparar as R
 from . import texto as T
 from .listado import MESES, parsear_ediciones, tamano_mb, url_mes
 from .sonda import pedir, texto_columnas
@@ -97,11 +98,11 @@ def procesar(ed, cfg, hoy, previo=None):
     usadas, rutas = set(), []
     for a in actos:
         ruta = T.ruta_acto(ed, a, usadas)
-        escribir(ruta, T.nota_acto(ed, a, hoy))
+        escribir(ruta, R.reparar_nota(T.nota_acto(ed, a, hoy), cfg.get("_voc", frozenset())))
         rutas.append(ruta)
     borrar_anteriores(previo or {}, rutas)
     ruta_ed = T.ruta_edicion(ed)
-    escribir(ruta_ed, T.nota_edicion(ed, actos, rutas, resumen, hoy))
+    escribir(ruta_ed, R.reparar_nota(T.nota_edicion(ed, actos, rutas, resumen, hoy), frozenset()))
     reg.update({"resultado": "ok", "version": VERSION, "notas": rutas, "ruta": ruta_ed, "actos": len(actos), "paginas": len(paginas),
                 "paginas_a": resumen["paginas_a"], "paginas_sin_texto": sin_texto, "extraido": hoy})
     if sin_texto > len(paginas) / 2:
@@ -115,6 +116,7 @@ def main():
     ap.add_argument("--max", type=int, default=0)
     args = ap.parse_args()
     cfg = {**POR_DEFECTO, **cargar(CONFIG, {})}
+    cfg["_voc"] = R.vocabulario_repo(RAIZ)  # palabras ya escritas en la colección, para unir guiones
     estado = cargar(ESTADO, {"version": 1, "ediciones": {}, "meses_completos": []})
     hechas, completos = estado["ediciones"], set(estado["meses_completos"])
     ahora = dt.datetime.now(ZoneInfo("America/Tegucigalpa"))

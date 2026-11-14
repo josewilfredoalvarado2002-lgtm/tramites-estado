@@ -8,10 +8,10 @@ gaceta_numero: 36666
 gaceta_fecha: "2024-10-17"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)|La Gaceta 36666]]"
 paginas: "A. 11 - 13"
-sumario: "Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
+sumario: "Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241017-36666/download"
 extraido: "2026-11-14"
-huella: "cd19339656f3ddcd"
+huella: "154a99ddd35a1be9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-166-2024
@@ -23,7 +23,7 @@ huella: "cd19339656f3ddcd"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)\|La Gaceta 36666]] del 2024-10-17 |
 | Páginas | A. 11 - 13 |
-| Según el sumario de La Gaceta | Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
+| Según el sumario de La Gaceta | Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
 
 ## Texto
 
@@ -53,7 +53,7 @@ PRIMERO: En el marco del Convenio para las Negociaciones de una Alianza Estraté
 
 1005.90.30.00, con un DAI del cero por ciento (0%), con vigencia hasta 31 de diciembre del 2024, tal como lo establece el Numeral 13, Literal e) del Convenio antes mencionado, a las siguientes empresas:
 
-Importaciones de Maiz Blanco con base a las Compras del 01 mayo al 31 de agosto de 2024 Cosecha Nacional 2023-2024/ Tercer Corte Maiz Comprado Cosecha Nacional 2023- 2024 /QQ Convenio/QQ Tercer Corte /TM 1 08019995108424 DEMAHSA 24,104.66 48,209.32 2,186.74 2 05019016884386 ALBECASA 28,086.00 56,172.00 2,547.92 TOTAL 52,190.66 104,381.32 4,734.66
+Importaciones de Maiz Blanco con base a las Compras del 01 mayo al 31 de agosto de 2024 Cosecha Nacional 2023-2024/ Tercer Corte Maiz Comprado Cosecha Nacional 2023-2024 /QQ Convenio/QQ Tercer Corte /TM 1 08019995108424 DEMAHSA 24,104.66 48,209.32 2,186.74 2 05019016884386 ALBECASA 28,086.00 56,172.00 2,547.92 TOTAL 52,190.66 104,381.32 4,734.66
 
 SEGUNDO: Las Empresas IMSA y MATURAVE, según el Informe de Compras de Maíz del Tercer Corte de la Cosecha 2023-2024, no realizaron ninguna compra; por consiguiente, no gozarán del beneficio de importar maíz blanco en este Corte.
 

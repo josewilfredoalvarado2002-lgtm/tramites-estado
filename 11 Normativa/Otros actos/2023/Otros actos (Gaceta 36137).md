@@ -11,7 +11,7 @@ paginas: "A. 1 - 68"
 sumario: "PODER LEGISLATIVO COMUNICADO,; Informe Final Junta Nominadora para la proposición de Selección para candidatos a Magistrados de la Corte Suprema de Justicia 2023-2030"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230124-36137/download"
 extraido: "2026-11-14"
-huella: "e08549c4527ec188"
+huella: "3caeee092887885a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: PODER LEGISLATIVO COMUNICADO,; Informe Final Junta Nominadora para la proposición de Selección para candidatos a Magistrados de la Corte Suprema de Justicia 2023-2030
@@ -1449,7 +1449,7 @@ La Ley Especial previó, en su artículo 20, que sobre el listado preliminar de 
 
 La Ley Especial también realizó una diferenciación entre lo que debe entenderse por denuncia y tacha. Para el caso, la denuncia constituye la información que esté destinada a cuestionar la integridad o la ética del postulante, así como para señalar presuntas responsabilidades administrativas, civiles o penales. Por otro lado, la tacha se refiere al incumplimiento de requisitos, la existencia de inhabilidades o la falta de idoneidad y capacidad profesional del postulante.
 
-Asimismo, la Junta Nominadora aprobó el Instrumento JN- 2022-IT-04 contentivo del Protocolo del Procedimiento de Tachas y Denuncias. Para los efectos de este informe, es preciso retomar los criterios constituvios de tachas:
+Asimismo, la Junta Nominadora aprobó el Instrumento JN-2022-IT-04 contentivo del Protocolo del Procedimiento de Tachas y Denuncias. Para los efectos de este informe, es preciso retomar los criterios constituvios de tachas:
 
 1. Falta de requisitos constitucionales o legales, debido al cuestionamiento o impugnación de cualquier documento o requisito presentado por la persona postulante y exigido por la Ley de la Junta Nominadora o su Reglamento:
 
@@ -2089,7 +2089,7 @@ Uno de los principales problemas en el proceso de investigaciones, los informes 
 
 7.10. EXEQUATUR. La posibilidad de participación en el proceso de selección se vio disminuida debido que el número de notarios a esta fecha, representan únicamente el 10% de la membresía del Colegio de Abogados Honduras, por lo que, una recomendación es que el otorgamiento del exequátur de notario se haga primando el orden de solicitud de tal manera que las más antiguas solicitudes sean las que tendrán preferencia a presentarse ante la CSJ. E igualmente, se requiere realizar una democratización y transparentar la forma en que se realiza el examen previo a la obtención del exequátur.
 
-7.11. E L E C I Ó N E S C A L O N A D A D E
+7.11. EL E CIÓN ESCALONADA DE
 
 MAGISTRADOS. Como una buena práctica del gobierno corporativo, esta Junta recomienda que la elección de los magistrados sea de manera escalonada, es decir, que los procesos de selección se realicen de manera parcial y no la totalidad de los magistrados que integran la Corte, lo que permitirá la consolidación de criterios jurisprudenciales y la continuidad del plan estratégico del Poder Judicial.
 
@@ -2097,7 +2097,7 @@ MAGISTRADOS. Como una buena práctica del gobierno corporativo, esta Junta recom
 
 La creación de la Junta Nominadora por medio de una reforma constitucional permitió la participación de diferentes sectores de la sociedad en procesos de selección de altos funcionarios del Estado, sin desconocer las competencias constitucionalmente atribuidas al Poder Legislativo. Después de tres procesos de selección, con la aprobación de la Ley Especial en vigor, la Junta Nominadora funcionó sobre la base de principios de transparencia y rendición de cuentas rigurosamente aplicados. En este sentido, se recomienda conservar el modelo de Junta Nominadora como una fase previa en el proceso de selección de las y los magistrados de la Corte Suprema de Justicia, y, contrario a su derogación, apostar al fortalecimiento del modelo para dotar del cumplimiento el modelo de democracia participativa que reconoce el artículo 5 constitucional.
 
-7.13. L A S S E N T E N C I A S
+7.13. LAS SENTENCIAS
 
 D E INCONSTITUCIONALIDAD. Un parámetro de independencia es que las sentencias dictadas por un órgano judicial tienen fuerza ejecutoria, por lo que recomendamos reformar la Ley sobre Justicia Constitucional en el sentido de que las sentencias de inconstitucionalidad sean publicadas sin intervención del Congreso Nacional.
 
@@ -2109,7 +2109,7 @@ Dentro de la Ley de la Junta Nominadora, se considera la pertinencia de establec
 
 PSICOMÉTRICAS. Asimismo, modificar el artículo 17 de la Ley de la Junta Nominadora, para establecer una doble validación de los resultados de las pruebas psicométricas y toxicologías, para dotar de mayor certeza los resultados.
 
-7.16. D E F I N I C I Ó N D E E X C U S A S Y
+7.16. DEFINICIÓN DE EXCUSAS Y
 
 RECUSACIONES. Se debe solventar la falta de regulación, tanto en la Ley de la Junta Nominadora, como en la Ley Orgánica del Poder Legislativo, de causales de abstención o recusación ciudadana contra los diputados y diputadas, por la existencia de cualquier conflicto de interés real con las personas postulantes o por tener procesos judiciales que puedan verse influidos con su participación en la elección; debiéndose incluir que el Congreso Nacional realice audiencias públicas a las personas nominadas para la elección de la Corte Suprema, extendiéndose esa obligación a la elecciones que realiza como es el caso de las autoridades en el Ministerio Público, Tribunal Superior de Cuenta, Procuraduría General de República, Comisionado Nacional de los Derechos Humanos, Consejo de la Judicatura y la Carrera Judicial, Registro Nacional de las Personas, Consejo Nacional Electoral, Tribunal de Justicia Electoral, Instituto de Acceso a la Información Pública, Comisión Para la Defensa y Promoción de la Competencia, entre otros.
 

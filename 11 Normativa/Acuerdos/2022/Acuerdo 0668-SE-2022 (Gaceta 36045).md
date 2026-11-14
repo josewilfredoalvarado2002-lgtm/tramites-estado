@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. 0668-SE-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221006-36045/download"
 extraido: "2026-11-14"
-huella: "9d67fc8fb53d6feb"
+huella: "65467aca0f5cb822"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. 0668-SE-2022
@@ -175,9 +175,7 @@ QUINTO: DISPOSICIONES FINALES
 
 2. El centro educativo es la principal instancia de gestión, garantiza el derecho a la educación de manera directa a los educandos, su función fundamental es el logro de aprendizajes relevantes para la vida y la formación integral de los educandos. (Artículo 93, Reglamento General de la Ley Fundamental de Educación). La gestión encaminada a garantizar ese derecho debe reflejarse en el PEC.
 
-3. Los centros educativos deben facilitar el ingreso del educando, al igual la reinserción del migrante retornado en cualquier momento del año académico, debiendo realizar la respectiva evaluación de los aprendizajes, generando el plan de nivelación correspondiente. como lo establece el artículo No.
-
-51 del Reglamento General de la Ley Fundamental de Educación.
+3. Los centros educativos deben facilitar el ingreso del educando, al igual la reinserción del migrante retornado en cualquier momento del año académico, debiendo realizar la respectiva evaluación de los aprendizajes, generando el plan de nivelación correspondiente. como lo establece el artículo No. 51 del Reglamento General de la Ley Fundamental de Educación.
 
 4. Toda actividad evaluativa y de reforzamiento deberá ser supervisada, en primera instancia, por el director(a) y el subdirector(a) del centro educativo, apoyándose en su estructura organizativa; esta función debe ser orientada por las autoridades inmediatas superiores del departamento o de la localidad, para verificar y dar seguimiento a la planificación y el desarrollo de actividades de evaluación.
 

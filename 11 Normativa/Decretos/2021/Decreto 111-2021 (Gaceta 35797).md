@@ -11,7 +11,7 @@ paginas: "A. 85 - 88"
 sumario: "Decretos Nos. 108-2021, 109-2021, 111-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211214-35797/download"
 extraido: "2026-11-14"
-huella: "a04be964f6cd1a9d"
+huella: "76473f5b58743355"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 111-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que es deber del Estado promover el desarrollo económico y social creando condiciones tanto estructurales como financieras para estimular el crecimiento de las comunidades locales, así como de rubros económicos de vital importancia, como lo es el rubro del café.
 
-CONSIDERANDO: Que el Consejo Nacional del Café, también conocido como el CONACAFE, que fue creado Mediante el Decreto No.145-2000 de fecha 3 de Octubre del año 2000, publicado en fecha 21 de Noviembre del 2000 en el Diario Oficial “La Gaceta”, Edición No.29,333, como el órgano encargado de formular la política cafetalera del país y asesorar al Presidente de la República en asuntos relacionados con la industria del café; se constituye con miembros consejeros de todos los sectores de la cadena del café, representados a través de sus asociaciones civiles, ya que junto con el gobierno deben de consensuar el manejo y regulación de las actividades relativas a la industria del Café con los actores de la cadena del café, a fin de potenciar y desarrollar este sector, formulando, aprobando y evaluando la política del café en Honduras.
+CONSIDERANDO: Que el Consejo Nacional del Café, también conocido como el CONACAFE, que fue creado Mediante el Decreto No. 145-2000 de fecha 3 de Octubre del año 2000, publicado en fecha 21 de Noviembre del 2000 en el Diario Oficial “La Gaceta”, Edición No. 29,333, como el órgano encargado de formular la política cafetalera del país y asesorar al Presidente de la República en asuntos relacionados con la industria del café; se constituye con miembros consejeros de todos los sectores de la cadena del café, representados a través de sus asociaciones civiles, ya que junto con el gobierno deben de consensuar el manejo y regulación de las actividades relativas a la industria del Café con los actores de la cadena del café, a fin de potenciar y desarrollar este sector, formulando, aprobando y evaluando la política del café en Honduras.
 
 CONSIDERANDO: Que dos (2) nuevos grupos de intermediarios y exportadores de café, se ha reunido, constituido en legal y debida forma, y, cuentan con todas las acreditaciones legales que las legitiman para poder integrarse formal y legalmente al Consejo Nacional del Café, procede la incorporación legal de estas dos (2) nuevas asociaciones civiles de intermediarios denominada “Asociación Hondureña de Comercializadores de Café (AHICAFE)” y de exportadores de café denominada “Unión de Exportadores de Café de Honduras (UNECAFEH)” al Consejo Nacional del Café (CONACAFE), con el fin de desarrollar, fortalecer y vigorizar la institucionalidad y la política cafetalera del país.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- C r é a s e e l “ F O N D O D E PREINVERSIÓN MUNICIPAL (FEPM)” para la formulación de proyectos y planes de negocios necesarios para el desarrollo de los recursos naturales de los municipios y el desarrollo de competencias que mejoren su competitividad y así poder atraer inversionistas. Estas actividades deben ser ejecutadas por la Fundación para el Desarrollo Municipal (FUNDEMUN).
+ARTÍCULO 1.- Créase el “ FONDO DE PREINVERSIÓN MUNICIPAL (FEPM)” para la formulación de proyectos y planes de negocios necesarios para el desarrollo de los recursos naturales de los municipios y el desarrollo de competencias que mejoren su competitividad y así poder atraer inversionistas. Estas actividades deben ser ejecutadas por la Fundación para el Desarrollo Municipal (FUNDEMUN).
 
 Por lo anterior se faculta a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar las modificaciones presupuestarias necesarias así como reorientación de recursos inclusive estructuras presupuestarias con beneficiario de transferencia en el Ejercicio Fiscal 2021 a fin de asignar un monto de hasta TREINTA MILLONES DE LEMPIRAS (L.30.000,000.00) a la Secretaría de Estado en el Despacho de la Presidencia que tendrá como propósito asignar los recursos a la Fundación para el Desarrollo Municipal (FUNDEMUN).
 
@@ -65,13 +65,13 @@ ARTÍCULO 3.- Se instruye a la Secretaría de Estado en el Despacho de Finanzas 
 
 #### Artículo 4
 
-ARTÍCULO 4.- Reformar el Artículo 234, contenido en el Decreto No.182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No.35,468, los cual deberán leerse de la siguiente manera:
+ARTÍCULO 4.- Reformar el Artículo 234, contenido en el Decreto No. 182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No. 35,468, los cual deberán leerse de la siguiente manera:
 
 “ARTÍCULO 234.- A efectos de cumplir… Los saldos disponibles de las asignaciones presupuestarias del párrafo anterior se deben utilizar a más tardar en los primeros quince (15) días del siguiente Ejercicio Fiscal para no obstaculizar el logro de los objetivos y metas establecidos en el respectivo Programa y Plan Operativo Anual. Dicha utilización de recursos se puede destinar para el financiamiento de programas de reactivación económica, generación de empleo, protección social, pago de servicio de deuda, entre otros gastos ineludibles y necesarios”.
 
 #### Artículo 5
 
-ARTÍCULO 5.- Reformar los artículos 2 y 7 de la LEY DEL CONSEJO NACIONAL DEL CAFÉ, contenida en Decreto No.145-2000 de fecha 3 de Octubre del año 2000, publicado en fecha 21 de Noviembre del año 2000 en el Diario Oficial” La Gaceta” No.29,333, de fecha 21 de Noviembre del 2000 y sus reformas, los cuales deben leerse de la forma siguiente:
+ARTÍCULO 5.- Reformar los artículos 2 y 7 de la LEY DEL CONSEJO NACIONAL DEL CAFÉ, contenida en Decreto No. 145-2000 de fecha 3 de Octubre del año 2000, publicado en fecha 21 de Noviembre del año 2000 en el Diario Oficial” La Gaceta” No. 29,333, de fecha 21 de Noviembre del 2000 y sus reformas, los cuales deben leerse de la forma siguiente:
 
 “ARTÍCULO 2.- El CONSEJO NACIONAL DEL CAFÉ estará integrado por:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 80-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210317-35546/download"
 extraido: "2026-11-14"
-huella: "d6e478b09d9d4a2a"
+huella: "cf8531ec9ad09e7f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 80-2020
@@ -53,7 +53,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar los Artículos 8, 11, 68 párrafo segundo, 69 y 92 literal c), del Decreto No.104-93 de fecha 27 de mayo de 1993 que contiene la Ley General del Ambiente, en el sentido de que no es prohibida la importación, fabricación y/o reciclaje de baterías de plomo/ ácido, selladas nuevas o usadas, siempre que exista en el país una industria de reciclaje, que se encuentre operando legalmente y cuente con las instalaciones y equipo con la debida certificación y autorización ambiental, permiso de operaciones, licencias sanitarias, transporte, embalaje y seguridad suficiente que aseguren un tratamiento pertinente y estricto, a fin de evitar causar daños en el ambiente o en la población. Ningún componente o residuo derivado del producto, será descargado, ni almacenado, ni quemado, ni enterrado en territorio hondureño, debiendo transformarse o reciclarse cada uno de los componentes del producto importado para tal fin y posteriormente cualquier desperdicio o desecho tóxico derivado de la batería inservible o reciclada, deberá reexportarse, a menos que la transformación resulte en un nuevo producto de venta segura en el país.
+ARTÍCULO 1.- Interpretar los Artículos 8, 11, 68 párrafo segundo, 69 y 92 literal c), del Decreto No. 104-93 de fecha 27 de mayo de 1993 que contiene la Ley General del Ambiente, en el sentido de que no es prohibida la importación, fabricación y/o reciclaje de baterías de plomo/ ácido, selladas nuevas o usadas, siempre que exista en el país una industria de reciclaje, que se encuentre operando legalmente y cuente con las instalaciones y equipo con la debida certificación y autorización ambiental, permiso de operaciones, licencias sanitarias, transporte, embalaje y seguridad suficiente que aseguren un tratamiento pertinente y estricto, a fin de evitar causar daños en el ambiente o en la población. Ningún componente o residuo derivado del producto, será descargado, ni almacenado, ni quemado, ni enterrado en territorio hondureño, debiendo transformarse o reciclarse cada uno de los componentes del producto importado para tal fin y posteriormente cualquier desperdicio o desecho tóxico derivado de la batería inservible o reciclada, deberá reexportarse, a menos que la transformación resulte en un nuevo producto de venta segura en el país.
 
 #### Artículo 2
 

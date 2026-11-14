@@ -8,10 +8,10 @@ gaceta_numero: 36599
 gaceta_fecha: "2024-07-30"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)|La Gaceta 36599]]"
 paginas: "A. 31 - 32"
-sumario: "Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024"
+sumario: "Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240730-36599/download"
 extraido: "2026-11-14"
-huella: "52ed49db68ddd920"
+huella: "b9e2c6524629c073"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 408-2024
@@ -23,7 +23,7 @@ huella: "52ed49db68ddd920"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)\|La Gaceta 36599]] del 2024-07-30 |
 | Páginas | A. 31 - 32 |
-| Según el sumario de La Gaceta | Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024 |
+| Según el sumario de La Gaceta | Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024 |
 
 ## Texto
 
@@ -47,33 +47,21 @@ PRIMERO: Dejar sin valor y efecto los siguientes Acuerdos Ministeriales, que a c
 
 1. Acuerdo No. 215-B-2022, publicado en el Diario Oficial La Gaceta, en fecha 20 de agosto 2022, edición No. 36,007;
 
-2. Acuerdo No. 276-2022, publicado en el Diario Oficial La Gaceta, en fecha 23 de mayo 2022, edición No.
-
-35,930;
+2. Acuerdo No. 276-2022, publicado en el Diario Oficial La Gaceta, en fecha 23 de mayo 2022, edición No. 35,930;
 
 3. Acuerdo No. 355-2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de octubre de 2023, edición No. 36,360;
 
-4. Acuerdo No. 605-2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto de 2022, edición No.
+4. Acuerdo No. 605-2022, publicado en el Diario Oficial La Gaceta, en fecha 17 de agosto de 2022, edición No. 36,004;
 
-36,004;
+5. Acuerdo No. 363-2023, publicado en el Diario Oficial La Gaceta, en fecha 1 de julio 2023, edición No. 36,270;
 
-5. Acuerdo No. 363-2023, publicado en el Diario Oficial La Gaceta, en fecha 1 de julio 2023, edición No.
-
-36,270;
-
-6. Acuerdo No. 386-2023, publicado en el Diario Oficial La Gaceta, en fecha 1 de julio 2023, edición No.
-
-36,270;
+6. Acuerdo No. 386-2023, publicado en el Diario Oficial La Gaceta, en fecha 1 de julio 2023, edición No. 36,270;
 
 7. Acuerdo No. 540-A-2023, publicado en el Diario Oficial La Gaceta, en fecha 3 de noviembre de 2023, edición No. 36,374;
 
-8. Acuerdo No. 698-2023, publicado en el Diario Oficial La Gaceta, en fecha 8 de diciembre 2023, edición No.
+8. Acuerdo No. 698-2023, publicado en el Diario Oficial La Gaceta, en fecha 8 de diciembre 2023, edición No. 36,404;
 
-36,404;
-
-9. Acuerdo No. 117-2024, publicado en el Diario Oficial La Gaceta, en fecha 13 de febrero 2024, edición No.
-
-36,459.
+9. Acuerdo No. 117-2024, publicado en el Diario Oficial La Gaceta, en fecha 13 de febrero 2024, edición No. 36,459.
 
 SEGUNDO: El presente Acuerdo deberá publicarse en el Diario Oficial La Gaceta.
 

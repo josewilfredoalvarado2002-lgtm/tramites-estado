@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdos Nos. 61-2025, 063-2025, 64-2025, 067-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250818-36919/download"
 extraido: "2026-11-09"
-huella: "798cbc23b33b602b"
+huella: "5ffc86f459a9e5d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 61-2025
@@ -109,7 +109,7 @@ QUINTO: Se instruye al Departamento de Cuencas Hidrográficas y Ambiente para qu
 
 SEXTO: Se instruye al Departamento de Cuencas Hidrográficas y Ambiente, en coordinación con la Región Forestal de Francisco Morazán, para que, en las actividades de demarcación, cuando proceda se realicen las modificaciones necesarias en los límites geográficos de las microcuencas objeto de este acuerdo, con el objetivo de mejorar la precisión cartográfica para garantizar la conservación de los bosques y la protección de los recursos hídricos. Estas modificaciones podrán representar aumento o disminución del área de la microcuenca. Para su aprobación se deberá seguir lo establecido en el Acuerdo 040-2024.
 
-SÉPTIMO: De conformidad con las disposiciones contenidas en el Acuerdo 040-2024; Instruir a la Región Forestal de Francisco Morazán y al Departamento de Cuencas Hidrográfica y Ambiente, realizar la convocatoria dirigida a las comunidades, propietarios privados, poseedores, ocupantes, usufructuarios para que participen en la socialización de las declaratorias y coordinar con las Corporaciones Municipales, Consejos Consultivos Forestales a cualquier nivel, Juntas de Agua a través de los órganos de representación legal, procedan a la demarcación, rotulación, elaboración de planes de ordenamiento y el manejo en general de las microcuencas, siguiendo lo establecido en la normativa vigente emitida por el ICF en el Acuerdo 001- 2022 y Acuerdo 040-2024.
+SÉPTIMO: De conformidad con las disposiciones contenidas en el Acuerdo 040-2024; Instruir a la Región Forestal de Francisco Morazán y al Departamento de Cuencas Hidrográfica y Ambiente, realizar la convocatoria dirigida a las comunidades, propietarios privados, poseedores, ocupantes, usufructuarios para que participen en la socialización de las declaratorias y coordinar con las Corporaciones Municipales, Consejos Consultivos Forestales a cualquier nivel, Juntas de Agua a través de los órganos de representación legal, procedan a la demarcación, rotulación, elaboración de planes de ordenamiento y el manejo en general de las microcuencas, siguiendo lo establecido en la normativa vigente emitida por el ICF en el Acuerdo 001-2022 y Acuerdo 040-2024.
 
 OCTAVO: La declaratoria de las microcuencas como Zonas de Protección Forestal, no prejuzga la condición de dominio o posesión de la tierra. Sin embargo, los propietarios y titulares de derechos de propiedad con dominio pleno, posesión, ocupación, uso o usufructo tendrán que sujetarse a las restricciones, limitaciones, obligaciones, regulaciones y demás disposiciones para cumplir los fines que justifican dicha declaración.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-128-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211116-35773/download"
 extraido: "2026-11-14"
-huella: "1b921c88faea3864"
+huella: "4d53e915f91a8aae"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-128-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que es imperativo para la Secretaría de Estado en los Despachos d
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 38-2011, publicado en fecha 13 de junio de 2013 en el Diario Oficial “La Gaceta”, Edición No. 33,149, se decretó la Ley Marco de Políticas Públicas en Materia Social, la cual establece en su Artículo 1 “OBJETO. La presente Ley tiene por objeto crear el marco legal de las política públicas en materia social, en el marco de la Visión de País y Plan de Nación, así como las competencias institucionales para regular, rectorar y coordinar las acciones orientadas a transformar las condiciones humanas, socioculturales y materiales, con énfasis en la población en condiciones de pobreza y los grupos vulnerables; de acuerdo a los principios establecidos en esta Ley, en consonancia con las estrategias establecidas para tal efecto por el Estado o por Tratados y Convenios Internacionales ratificados por Honduras”.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó mediante el Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020 Edición No. 35,472, prorrogar la vigencia de la declaratoria de Emergencia Humanitaria y Sanitaria decretada según Decreto Ejecutivo Número PCM-005- 2020, reformado por los Decretos Ejecutivos Números:
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó mediante el Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020 Edición No. 35,472, prorrogar la vigencia de la declaratoria de Emergencia Humanitaria y Sanitaria decretada según Decreto Ejecutivo Número PCM-005-2020, reformado por los Decretos Ejecutivos Números:
 
 PCM-016-2020 y PCM023-2020.
 

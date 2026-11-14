@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdos Ministeriales Nos. 038-2025,041-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250531-36852/download"
 extraido: "2026-11-10"
-huella: "6b3a5566d2e720a4"
+huella: "0eaef59af5354eb6"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 038-2025
@@ -221,13 +221,11 @@ DISPOSICIONES FINALES
 
 #### Artículo 16
 
-Artículo 16.- Dejar sin valor y efecto el Acuerdo Ministerial No. 071-2024, publicado en el Diario Oficial “La Gaceta” el 27 de mayo de 2024 y el Acuerdo Ministerial No. 121- 2024, publicado en el Diario Oficial “La Gaceta” el 31 de octubre de 2024, contentivos de las disposiciones del Registro de Importador de Cebolla y la emisión de Licencias de Importación de Cebolla.
+Artículo 16.- Dejar sin valor y efecto el Acuerdo Ministerial No. 071-2024, publicado en el Diario Oficial “La Gaceta” el 27 de mayo de 2024 y el Acuerdo Ministerial No. 121-2024, publicado en el Diario Oficial “La Gaceta” el 31 de octubre de 2024, contentivos de las disposiciones del Registro de Importador de Cebolla y la emisión de Licencias de Importación de Cebolla.
 
 #### Artículo 17
 
-Artículo 17.- Las solicitudes de emisión de Licencias de Importación de Cebolla que hayan sido presentadas por los agentes económicos interesados ante la Secretaría de Estado en el Despacho de Desarrollo Económico (SDE) antes de la vigencia del presente Acuerdo, serán resueltos de conformidad al procedimiento establecido en el Acuerdo Ministerial No.
-
-071-2024 y su reforma Acuerdo Ministerial No. 121-2024.
+Artículo 17.- Las solicitudes de emisión de Licencias de Importación de Cebolla que hayan sido presentadas por los agentes económicos interesados ante la Secretaría de Estado en el Despacho de Desarrollo Económico (SDE) antes de la vigencia del presente Acuerdo, serán resueltos de conformidad al procedimiento establecido en el Acuerdo Ministerial No. 071-2024 y su reforma Acuerdo Ministerial No. 121-2024.
 
 #### Artículo 18
 

@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 123-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210128-35500/download"
 extraido: "2026-11-14"
-huella: "72d4e292db6d16ee"
+huella: "22a3858d61670995"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 123-2020
@@ -27,7 +27,7 @@ huella: "72d4e292db6d16ee"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

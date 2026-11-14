@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo número 014-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200406-35219/download"
 extraido: "2026-11-14"
-huella: "50d79dfc759eafbc"
+huella: "a2f05243a202d77a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 014-2020
@@ -53,7 +53,7 @@ CONSIDERANDO: Que el Presidente de la República en el pleno uso de sus facultad
 
 POR TANTO:
 
-En uso de las facultades de que está investido y en aplicación de lo establecido en los artículos 155, 245 numerales 2 y 11, 30, 360 párrafo segundo de la Constitución de la República; Artículos 1, 2, 7, 11, 15, 16, 29, 30, 33, 34, 36 numeral 8), 38, 116, 117, 118, 119, 122 de la Ley General de la Administración Pública y sus reformas; Artículos 1, 38 y 63 numeral 4 de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo N°. 023-2018, publicado en el Diario Oficial La Gaceta el 20 de abril de 2018; y, Decreto Ejecutivo aprobado en Consejo de Secretarios de Estado número PCM- 009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo del 2018, reformado mediante Decreto Ejecutivo en Consejo de Secretarios de Estado número PCM-025-2018, publicado en el Diario Oficial “La Gaceta” de fecha 25 de julio del 2018.
+En uso de las facultades de que está investido y en aplicación de lo establecido en los artículos 155, 245 numerales 2 y 11, 30, 360 párrafo segundo de la Constitución de la República; Artículos 1, 2, 7, 11, 15, 16, 29, 30, 33, 34, 36 numeral 8), 38, 116, 117, 118, 119, 122 de la Ley General de la Administración Pública y sus reformas; Artículos 1, 38 y 63 numeral 4 de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo N°. 023-2018, publicado en el Diario Oficial La Gaceta el 20 de abril de 2018; y, Decreto Ejecutivo aprobado en Consejo de Secretarios de Estado número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo del 2018, reformado mediante Decreto Ejecutivo en Consejo de Secretarios de Estado número PCM-025-2018, publicado en el Diario Oficial “La Gaceta” de fecha 25 de julio del 2018.
 
 ACUERDA:
 

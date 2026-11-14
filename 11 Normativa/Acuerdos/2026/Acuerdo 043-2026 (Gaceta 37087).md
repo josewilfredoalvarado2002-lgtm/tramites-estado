@@ -11,7 +11,7 @@ paginas: "A. 46"
 sumario: "Acuerdos Ejecutivos Nos. 043-2026, 044-2026, 045-2026, 047-2026.Acuerdo No. SETRASS-101-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260306-37087/download"
 extraido: "2026-11-09"
-huella: "28b051c9ca3423f8"
+huella: "7417697272ad0680"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 043-2026
@@ -29,7 +29,7 @@ huella: "28b051c9ca3423f8"
 
 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que el Artículo 10 del Decreto Legislativo No.178-2016 contentivo de la Ley de Inspección de Trabajo establece que, “La relación de empleo y función pública de los servidores públicos de la Dirección General de Inspección de trabajo (DGIT), está sujeta a la Ley de Servicio Civil y su reglamento, con excepción del Director General y Subdirector General de Inspección de Trabajo, en su caso.
+CONSIDERANDO: Que el Artículo 10 del Decreto Legislativo No. 178-2016 contentivo de la Ley de Inspección de Trabajo establece que, “La relación de empleo y función pública de los servidores públicos de la Dirección General de Inspección de trabajo (DGIT), está sujeta a la Ley de Servicio Civil y su reglamento, con excepción del Director General y Subdirector General de Inspección de Trabajo, en su caso.
 
 CONSIDERANDO: Que el Artículo 3 de la Ley de Servicio Civil establece que, “Las disposiciones de esta Ley no serán aplicables a los siguientes servidores públicos: ...F) A los Directores y Subdirectores Generales” con relación al Artículo 9 del Reglamento a dicha Ley “están excluidos del Régimen del Servicio Civil los servidores del Poder Ejecutivo comprendidos en los Artículos 3 de la Ley y 35 de la Ley General de la Administración Pública entre ellos los Directores Generales y los Subdirectores Generales, cuando en este último caso, dichos cargos estuvieren así creados y clasificados en la correspondiente estructura administrativa y sus titulares fueren nombrados específicamente para su desempeño.
 

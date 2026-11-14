@@ -8,10 +8,10 @@ gaceta_numero: 27287
 gaceta_fecha: "2026-11-05"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)|La Gaceta 27287]]"
 paginas: "A. 1 - 13"
-sumario: "Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
+sumario: "Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261105-27287/download"
 extraido: "2026-11-09"
-huella: "94934471f8638eda"
+huella: "699dab3f71c14366"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 055-DP-2026
@@ -23,7 +23,7 @@ huella: "94934471f8638eda"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)\|La Gaceta 27287]] del 2026-11-05 |
 | Páginas | A. 1 - 13 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
 
 ## Texto
 
@@ -61,7 +61,7 @@ ARTÍCULO 1.- OBJETO. El presente Reglamento tiene por objeto desarrollar la org
 
 #### Artículo 2
 
-ARTÍCULO 2.- FINALIDAD. El presente Reglamento establece las reglas de coordinación, seguimiento, documentación, alerta y cierre necesarias para apoyar a las Instituciones responsables de la implementación ordenada, oportuna, coordinada, verificable y técnicamente sustentada de la reforma promovida de conformidad a la Ley de Justicia Energética, aprobada mediante Decreto Legislativo 198- 2026 publicado el 29 de septiembre de 2026 en el Diario Oficial “La Gaceta”.
+ARTÍCULO 2.- FINALIDAD. El presente Reglamento establece las reglas de coordinación, seguimiento, documentación, alerta y cierre necesarias para apoyar a las Instituciones responsables de la implementación ordenada, oportuna, coordinada, verificable y técnicamente sustentada de la reforma promovida de conformidad a la Ley de Justicia Energética, aprobada mediante Decreto Legislativo 198-2026 publicado el 29 de septiembre de 2026 en el Diario Oficial “La Gaceta”.
 
 #### Artículo 3
 

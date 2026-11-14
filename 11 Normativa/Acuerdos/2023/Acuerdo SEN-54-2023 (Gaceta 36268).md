@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Acuerdo No. SEN-54-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230629-36268/download"
 extraido: "2026-11-14"
-huella: "af207dad0cdfa38a"
+huella: "c3dce23deacffcd6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-54-2023
@@ -105,7 +105,7 @@ Que el Reglamento Interno de la Comisión Reguladora de Energía Eléctrica (CRE
 
 Que en la Reunión Extraordinaria CREE-Ex-31-2023 del 29 de junio de 2023, el Directorio de Comisionados acordó emitir el presente acuerdo.
 
-Por tanto La Comisión Reguladora de Energía Eléctrica (CREE), en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A Romano III y literal B , 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica (LGIE); artículo 2 de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica (CREE), por unanimidad de votos de los Comisionados presentes.
+Por tanto La Comisión Reguladora de Energía Eléctrica (CREE), en uso de sus facultades y de conformidad con lo establecido en los artículos 1, literal A Romano III y literal B, 3, primer párrafo, literal D romano III, 8 y demás aplicables de la Ley General de la Industria Eléctrica (LGIE); artículo 2 de la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica (CREE), por unanimidad de votos de los Comisionados presentes.
 
 Acuerda
 

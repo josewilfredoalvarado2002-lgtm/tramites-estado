@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Nos. 141-2019, 142-2019,143-2019, 144-2019, 145-2019, 146-2019,147-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200530-35268-2/download"
 extraido: "2026-11-14"
-huella: "897344e0dbe34d87"
+huella: "0af419f4dbef51cd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 141-2019
@@ -27,7 +27,7 @@ huella: "897344e0dbe34d87"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-068- 2019.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-068-2019.
 
 ACUERDA:
 

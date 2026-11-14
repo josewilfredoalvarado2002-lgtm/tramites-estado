@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decretos Nos. 61-2020, 71-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200605-35274/download"
 extraido: "2026-11-14"
-huella: "6f076ed05ee7ffa1"
+huella: "c7bf9139da079cf2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 71-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

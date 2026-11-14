@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200826-35354/download"
 extraido: "2026-11-14"
-huella: "49b96bc6bf28a4a2"
+huella: "7c475151294f5ab0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 2-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

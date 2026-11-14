@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Ministerial No. 067-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230808-36302/download"
 extraido: "2026-11-14"
-huella: "88d265dbef937330"
+huella: "4484265ac7c9af93"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 067-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que mediante Acuerdo Ministerial Número 110-2020 publicado en el 
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de la balanza de pagos; o a deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización de mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio, relacionadas con la modificación de los derechos arancelarios a la importación, durante un plazo máximo de 30 días. Lo anterior, sin perjuicio de otras medidas no arancelarias que adopten los Estados con base en su legislación nacional. Dentro de dicho plazo, el Consejo deberá reunirse para considerar la situación, calificar su gravedad y disponer medidas que conjuntamente deban tomarse, incluyendo la posibilidad de resolver sobre la suspensión o modificación de las disposiciones adoptadas unilateralmente o, según el caso, autorizar la prórroga de las mismas. El plazo del párrafo anterior se tendrá por prorrogado hasta la fecha en que el Consejo adopte las medidas que correspondan. El Consejo reglamentará la presente disposición”.
 
-CONSIDERANDO: Que Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que en fecha 14 de abril de 2023, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de “Renovación del Establecimiento de la Medida de Salvaguardia para el Producto Tilapias y Bagres”, contenida en el Acuerdo Ministerial Número. 110-2020, solicitud que obra en el Expediente No. 2023-SE-0882.
 

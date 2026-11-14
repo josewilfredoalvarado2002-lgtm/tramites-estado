@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decreto No. 15-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260305-37086/download"
 extraido: "2026-11-09"
-huella: "91d0678e68563bb2"
+huella: "b685c1060d51ca14"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 15-2026
@@ -47,9 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 14, 15 y 24 de la LEY ELECTORAL DE HONDURAS, creada mediante Decreto No. 35-2021, de fecha 25 de Mayo de 2021, publicada en el Diario Oficial "La Gaceta", Edición No.
-
-35,610, del 26 de Mayo de 2021, los cuales de ahora en adelante se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 14, 15 y 24 de la LEY ELECTORAL DE HONDURAS, creada mediante Decreto No. 35-2021, de fecha 25 de Mayo de 2021, publicada en el Diario Oficial "La Gaceta", Edición No. 35,610, del 26 de Mayo de 2021, los cuales de ahora en adelante se leerán de la manera siguiente:
 
 "ARTÍCULO 14.- DEBERES Y DERECHOS DE LOS CONSEJEROS PROPIETARIOS.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo Ministerial número 065-SEDIS-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200114-35148/download"
 extraido: "2026-11-14"
-huella: "878a2cb08d8f9e12"
+huella: "e4b281659226668d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO 065-SEDIS-2019
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la actual administración plantea como una de sus metas priori
 
 CONSIDERANDO: Que, para garantizar la asignación justa, sostenida y transparente de los recursos públicos y privados, con el fin de asegurar el desarrollo integral de las personas, familias y comunidades en condiciones de pobreza, pobreza extrema, vulnerabilidad, riesgo y exclusión social, es necesario contar con un modelo oficial de Focalización capaz de reducir los errores de inclusión y exclusión en la selección de las familias que participan de los programas y proyectos sociales.
 
-CONSIDERANDO: Que mediante Decreto No.266-2013, de la Ley para Optimizar la Administración Pública Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, se modifican y amplían las competencias de la actual Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social, entre las que se encuentran la planificación, administración y ejecución de los Programas y Proyectos que se derivan de las políticas públicas en materia de desarrollo e inclusión social, reducción de la pobreza, grupos vulnerables, niñez, juventud, pueblos indígenas y afrohondureños, discapacitados, personas con necesidades especiales y adultos mayores.
+CONSIDERANDO: Que mediante Decreto No. 266-2013, de la Ley para Optimizar la Administración Pública Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, se modifican y amplían las competencias de la actual Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social, entre las que se encuentran la planificación, administración y ejecución de los Programas y Proyectos que se derivan de las políticas públicas en materia de desarrollo e inclusión social, reducción de la pobreza, grupos vulnerables, niñez, juventud, pueblos indígenas y afrohondureños, discapacitados, personas con necesidades especiales y adultos mayores.
 
 CONSIDERANDO: Que tanto el Programa Presidencial de Salud, Educación y Nutrición denominado “BONO 10,000” como el ahora “Programa Presidencial Bono Vida Mejor’’, fueron creados con el propósito de constituir un instrumento de garantía de ingreso mínimo a las familias de escasos recursos económicos en la Estrategia Integral Vida Mejor (EIVM), mediante la cual el Estado pueda cumplir con su responsabilidad constitucional de garantizar que las familias en extrema pobreza tengan acceso a la educación, salud y nutrición.
 
@@ -143,11 +143,11 @@ ANTECEDENTES DEL PROGRAMA
 
 #### Artículo 6
 
-ARTÍCULO 6: Constituye fundamento legal para la emisión de la presente norma, el contenido del Decreto Legislativo 278-2013 que crea la “Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti-evasión”; Decreto Ejecutivo Número PCM- 010-2010, de fecha 14 de mayo del 2010 reformado a través del Decreto Ejecutivo No 024-2010 de fecha 29 de junio 2010 para la implementación del Programa Bono 10,000;
+ARTÍCULO 6: Constituye fundamento legal para la emisión de la presente norma, el contenido del Decreto Legislativo 278-2013 que crea la “Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti-evasión”; Decreto Ejecutivo Número PCM-010-2010, de fecha 14 de mayo del 2010 reformado a través del Decreto Ejecutivo No 024-2010 de fecha 29 de junio 2010 para la implementación del Programa Bono 10,000;
 
 Decreto Legislativo Número 89-2011, se implementa el Programa Presidencial: Educación, Salud y Nutrición denominado “Bono 10,000 Urbano”; Acuerdo Ministerial Número 051-SEDIS-2015, Acuerdo Ejecutivo Número 022- DP-2013 del 22 de febrero del año 2013, contentivo de la Normativa para el Manejo y control del Programa Presidencial de Transferencias Monetarias Condicionadas “Bono Vida Mejor” en su Macro componente Fondos Nacionales; Acuerdo Ministerial Número 072-SEDIS-2015 del 19 de mayo de 2016, contentivo del Manual Operativo de Procedimientos Administrativos y Financieros del Programa Presidencial de Transferencias Monetarias Condicionadas “Bono Vida Mejor” en su Macro Componente Fondos Externos; Disposiciones Generales del Presupuesto de Ingresos y Egresos de la República vigente y Decreto Ejecutivo PCM-065-2015 del 14 de septiembre 2015 contentivo de la Plataforma de la Estrategia Integral Vida Mejor.
 
-El Decreto Legislativo No.266-2013 que contiene la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia, en la reforma al artículo 29 numeral 4) de la Ley General de la Administración Pública, establece a la Secretaría de Desarrollo e Inclusión Social, siendo este el órgano encargado de todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las Políticas Públicas en materia de desarrollo e inclusión social; así como de la planificación, administración y ejecución de los Programas y Proyectos que se derivan de esas políticas, cuyo fin es la reducción de la pobreza y extrema pobreza, dirigidos a grupos vulnerables y los orientados a la niñez, juventud, pueblos indígenas y afrohondureños, discapacitados y personas con necesidades especiales y adultos mayores. En busca de atender las carencias de la población ubicada en las zonas rurales y urbanas más empobrecidas del país, que históricamente han sido excluidas de la atención del Estado, enmarcados en la Estrategia Integral Vida Mejor, se implementa el Programa Presidencial de Transferencias Monetarias Condicionadas para Salud, Educación y Nutrición ahora denominado “Bono Vida Mejor” en su Macro Componente Fondos Nacionales; el que funciona bajo la dirección y coordinación de la Subsecretaría de Integración Social (SSIS)/Programa de Asignación Familiar (PRAF), siendo esta responsable de la ejecución operativa, financiera y administrativa, así como del cumplimiento de las regulaciones previstas en esta Normativa.
+El Decreto Legislativo No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia, en la reforma al artículo 29 numeral 4) de la Ley General de la Administración Pública, establece a la Secretaría de Desarrollo e Inclusión Social, siendo este el órgano encargado de todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las Políticas Públicas en materia de desarrollo e inclusión social; así como de la planificación, administración y ejecución de los Programas y Proyectos que se derivan de esas políticas, cuyo fin es la reducción de la pobreza y extrema pobreza, dirigidos a grupos vulnerables y los orientados a la niñez, juventud, pueblos indígenas y afrohondureños, discapacitados y personas con necesidades especiales y adultos mayores. En busca de atender las carencias de la población ubicada en las zonas rurales y urbanas más empobrecidas del país, que históricamente han sido excluidas de la atención del Estado, enmarcados en la Estrategia Integral Vida Mejor, se implementa el Programa Presidencial de Transferencias Monetarias Condicionadas para Salud, Educación y Nutrición ahora denominado “Bono Vida Mejor” en su Macro Componente Fondos Nacionales; el que funciona bajo la dirección y coordinación de la Subsecretaría de Integración Social (SSIS)/Programa de Asignación Familiar (PRAF), siendo esta responsable de la ejecución operativa, financiera y administrativa, así como del cumplimiento de las regulaciones previstas en esta Normativa.
 
 #### Artículo 7
 
@@ -493,7 +493,7 @@ PARTICIPANTES. Una vez firmada el Acta de Compromiso de Cumplimiento de las Corr
 
 Después de esta primera transferencia, recibirán las TMC de acuerdo con lo establecido en el presente Manual Operativo, así como a la composición demográfica del hogar y el cumplimiento de corresponsabilidades.
 
-A R T Í C U L O 2 8 - C U M P L I M I E N T O D E
+ARTÍCULO 2 8 - CUMPLIMIENTO DE
 
 CORRESPONSABILIDADES: El Programa dará prioridad y apoyará en lo posible, el desarrollo de sistemas de información institucional del sector por medios electrónicos, como base y fuente para la verificación del cumplimiento de corresponsabilidades.
 
@@ -579,7 +579,7 @@ La verificación permanente del cumplimiento de los criterios de elegibilidad de
 
 En caso de que se denuncie a un hogar por no cumplir con el criterio de elegibilidad, la SSIS será responsable de gestionar la aplicación de una nueva FSU a fin, de determinar la pertinencia de la denuncia y tomar las decisiones de acuerdo con la reglamentación del Programa y a lo establecido en la Metodología de Levantamiento de la Ficha Socioeconómica Única (FSU-RUP).
 
-A R T Í C U L O 3 5 . - C A P A C I T A C I O N Y ACOMPAÑAMIENTO FAMILIAR:
+ARTÍCULO 3 5 . - CAPACITACION Y ACOMPAÑAMIENTO FAMILIAR:
 
 La Subsecretaría de Integración Social (SSIS), será la responsable de garantizar que se socialicen los beneficios y procesos del Programa con todos los actores involucrados, apoyada en este proceso por la Secretaría de Estado en los Despachos Educación.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Ministeriales No. 225-2020, 227-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201123-35438/download"
 extraido: "2026-11-14"
-huella: "54b22b0e8559f512"
+huella: "d84630abd98d4828"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 227-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 72 de la Ley de Protección al
 
 CONSIDERANDO: Que en el Artículo 73 de la Ley de Protección al Consumidor establece; las causas para la determinación del precio máximo de venta, la autoridad de aplicación deberá determinar el precio, tarifa o margen máximo de comercialización o la modificación de éstos, en los casos siguientes: cuando se trate de caso fortuito o fuerza mayor que derive en emergencia, desastre o situación de calamidad sea sectorial, regional o nacional declarada por la autoridad competente y que genere acaparamiento, especulación, desabastecimiento o se niegue la venta de los bienes enunciados con la finalidad de provocar el alza de sus precios o cualquier otro perjuicio económico al consumidor.
 
-CONSIDERANDO: Que esta Secretaría de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas acordó establecer una determinación en el precio de venta del producto Alimento Balanceado para Consumo Animal como ser: cerdos, gallinas ponedoras, pollos y ganado vacuno, debido a la emergencia sanitaria declarada mediante Decreto Ejecutivo Número PCM-005-2020; al Estado de Emergencia declarado mediante Decreto Ejecutivo Número PCM-109- 2020 y reformado mediante PCM-112-2020 con vigencia hasta el 31 de diciembre del presente año; y, que el mismo pueda ser comprado por los consumidores sin alteración en su precio y de esta forma evitar afectar negativamente la producción y costos de los productos de la canasta básica.
+CONSIDERANDO: Que esta Secretaría de Estado a fin de proteger la vida, la salud, la seguridad y los intereses económicos de los consumidores y evitar prácticas abusivas acordó establecer una determinación en el precio de venta del producto Alimento Balanceado para Consumo Animal como ser: cerdos, gallinas ponedoras, pollos y ganado vacuno, debido a la emergencia sanitaria declarada mediante Decreto Ejecutivo Número PCM-005-2020; al Estado de Emergencia declarado mediante Decreto Ejecutivo Número PCM-109-2020 y reformado mediante PCM-112-2020 con vigencia hasta el 31 de diciembre del presente año; y, que el mismo pueda ser comprado por los consumidores sin alteración en su precio y de esta forma evitar afectar negativamente la producción y costos de los productos de la canasta básica.
 
 POR TANTO:
 
@@ -53,7 +53,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Prorrogar la vigencia del Acuerdo Ministerial No.212-2020 de fecha 22 de octubre de 2020, por UN MES, contado a partir del 23 de noviembre al 23 de diciembre de 2020, el cual establece como precio máximo de venta al consumidor final del Alimento Balanceado para Consumo Animal, el precio vigente al 15 de octubre de 2020.
+PRIMERO: Prorrogar la vigencia del Acuerdo Ministerial No. 212-2020 de fecha 22 de octubre de 2020, por UN MES, contado a partir del 23 de noviembre al 23 de diciembre de 2020, el cual establece como precio máximo de venta al consumidor final del Alimento Balanceado para Consumo Animal, el precio vigente al 15 de octubre de 2020.
 
 La disposición antes citada es de aplicación obligatoria en todo el territorio nacional.
 

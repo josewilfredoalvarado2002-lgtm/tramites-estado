@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Decreto No. 236-2026, 237-2026, 2382026, 239-2026, 240-2026, 241-2026, 2422026, 243-2026, 248-2026, 249-2026, 2512026, 265-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "f6c341a592a99871"
+huella: "2ed5e75bbe2f8286"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 237-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la infraestructura vial constituye un instrumento de competiti
 
 CONSIDERANDO: Que las obras identificadas en los Municipios de Trójes, El Paraíso, Danlí y Teupasenti a cargo del Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS), representa una inversión que busca facilitar el acceso a la educación, a la salud y a los servicios públicos, fortalecer la integración de las comunidades y ampliar las oportunidades económicas de sus habitantes.
 
-C O N S I D E R A N D O : Q u e l o s P r o y e c t o s d e “REHABILITACIÓN DE CAMINOS RURALES EN LA ALDEA CAPIRE”, de tipo Rehabilitación Vial Rural, ubicado en Capire, Municipio de Trojes; “LAS FLORES
+CONSIDERANDO: Que los Proyectos de “REHABILITACIÓN DE CAMINOS RURALES EN LA ALDEA CAPIRE”, de tipo Rehabilitación Vial Rural, ubicado en Capire, Municipio de Trojes; “LAS FLORES
 
 – TRES PIEDRAS”, de tipo pavimento hidráulico corto, ubicado en la Comunidad de Las Flores, Municipio de El Paraíso; “EL BORDO”, de tipo pavimento hidráulico corto, ubicado en El Bordo, Municipio de Danlí; “SAN ISIDRO
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -55,7 +55,7 @@ DE FINANZAS (SEFIN), para que, durante el Ejercicio Fiscal 2026, previa verifica
 
 \1) “ R E H A B I L I TA C I Ó N D E CAMINOS RURALES EN
 
-LA ALDEA CAPIRE”, de tipo Rehabilitación Vial Rural, ubicado en Capire, Municipio de Trójes, Departamento de El Paraíso, por un monto de DOS MILLONES S E I S C I E N TO S S E T E N TA Y OCHO MIL QUINIENTOS OCHENTA Y DOS LEMPIRAS CON SESENTA CENTAVOS (L.2,678,582.60);
+LA ALDEA CAPIRE”, de tipo Rehabilitación Vial Rural, ubicado en Capire, Municipio de Trójes, Departamento de El Paraíso, por un monto de DOS MILLONES SEIS CIEN TO S S E T E N TA Y OCHO MIL QUINIENTOS OCHENTA Y DOS LEMPIRAS CON SESENTA CENTAVOS (L.2,678,582.60);
 
 \2) “LAS FLORES – TRES PIEDRAS”, de tipo pavimento hidráulico corto, ubicado en la Comunidad de Las Flores, Municipio de El Paraíso, Departamento de El Paraíso, por un monto de TRES MILLONES EXACTOS (L.3,000,000.00);
 

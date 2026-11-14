@@ -11,7 +11,7 @@ paginas: "A. 1 - 26"
 sumario: "Decreto No. 56-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200220-35180/download"
 extraido: "2026-11-14"
-huella: "4289f9b6ee1fe664"
+huella: "f4bd834dc488461a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2019
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -559,7 +559,7 @@ Todo el personal de Bomberos está sujeto a la autoridad del Comandante General 
 
 El Personal de Carrera está integrado a la Carrera de Bomberos, mientras que el Personal Auxiliar, es aquel que sin ser de Carrera, presta su fuerza de trabajo o sus servicios profesionales en alguna función no catalogada como de Bomberos, el cual está sujeto al régimen laboral y de la Ley de Servicio Civil.
 
-El personal de Bomberos Voluntarios, se rige de conformidad a lo establecido en la presente Ley y su Reglamento General, la Ley del Voluntariado en su Decreto No.177-2011 y al Reglamento especial del Voluntariado de Bomberos.
+El personal de Bomberos Voluntarios, se rige de conformidad a lo establecido en la presente Ley y su Reglamento General, la Ley del Voluntariado en su Decreto No. 177-2011 y al Reglamento especial del Voluntariado de Bomberos.
 
 #### Artículo 36
 
@@ -583,7 +583,7 @@ DE BOMBEROS. Los Miembros de la Carrera de Bomberos se clasifican en dos categor
 
 \2) Miembro en retiro.
 
-A R T Í C U L O 3 9 . - M I E M B R O A C T I V O , ADMINISTRATIVO U OPERATIVO. El personal activo, administrativo del Heroico y Benemérito Cuerpo de Bomberos es aquel miembro de carrera que cumple funciones no operativas.
+ARTÍCULO 3 9 . - MIEMBRO ACTIVO, ADMINISTRATIVO U OPERATIVO. El personal activo, administrativo del Heroico y Benemérito Cuerpo de Bomberos es aquel miembro de carrera que cumple funciones no operativas.
 
 El personal o miembro activo operativo del Heroico y Benemérito Cuerpo de Bomberos es aquel miembro de carrera que cumple funciones operativas.
 
@@ -591,7 +591,7 @@ Todo miembro de Carrera de Bomberos se rige, en lo conducente por lo que dispong
 
 #### Artículo 40
 
-ARTÍCULO 40.- MIEMBRO VOLUNTARIO. El personal voluntario del Heroico y Benemérito Cuerpo de Bomberos, es un miembro activo de la carrera de Bomberos, con un régimen especial establecido por lo que dispone esta Ley, la Ley del Voluntariado en su Decreto No.177-2011 y los reglamentos.
+ARTÍCULO 40.- MIEMBRO VOLUNTARIO. El personal voluntario del Heroico y Benemérito Cuerpo de Bomberos, es un miembro activo de la carrera de Bomberos, con un régimen especial establecido por lo que dispone esta Ley, la Ley del Voluntariado en su Decreto No. 177-2011 y los reglamentos.
 
 Presta sus servicios dentro de las compañías regulares del servicio de Bomberos estando sujeto a la organización y jerarquía de mando de las mismas; y estarán organizados por compañías para su funcionamiento.
 
@@ -1079,7 +1079,7 @@ ARTÍCULO 85.- El Tribunal Superior de Cuentas (TSC) puede hacer una investigaci
 
 ARTÍCULO 86.- DISPOSICIONES DEROGATORIAS.
 
-Quedan derogadas a partir de la vigencia del presente decreto, los Decretos Legislativos No. 294-93 del 16 de diciembre de 1993, publicado en el Diario Oficial “La Gaceta” el 11 de enero de 1994, contentivo de la Ley de Bomberos de Honduras y sus respectivos Decretos de reforma contenidos en: No.211-2004 del 29 de diciembre de 2004 y No. 68-2013 del 25 de abril de 2013 y cualquier otro que se le oponga.
+Quedan derogadas a partir de la vigencia del presente decreto, los Decretos Legislativos No. 294-93 del 16 de diciembre de 1993, publicado en el Diario Oficial “La Gaceta” el 11 de enero de 1994, contentivo de la Ley de Bomberos de Honduras y sus respectivos Decretos de reforma contenidos en: No. 211-2004 del 29 de diciembre de 2004 y No. 68-2013 del 25 de abril de 2013 y cualquier otro que se le oponga.
 
 #### Artículo 87
 

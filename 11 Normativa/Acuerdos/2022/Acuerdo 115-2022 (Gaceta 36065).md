@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ministeriales Nos. 115-2022, 116-2022, 117-2022, 118-2022, 119-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221101-36065/download"
 extraido: "2026-11-14"
-huella: "f90535937a73040c"
+huella: "10ffa075ef2bf04d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 115-2022
@@ -45,9 +45,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, con fundamento en los Artículos 1, 7, 116, y 122 de la Ley General de la Administración Pública;
 
-Artículos 1, 19, 23, 60, 64 y 72 de la Ley de Procedimiento Administrativo, Artículo 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo, Decreto No. 188-2007 de fecha 10 de enero de 2008 y el Acuerdo Ministerial No.
-
-402-2010 de fecha 18 de marzo de 2010.
+Artículos 1, 19, 23, 60, 64 y 72 de la Ley de Procedimiento Administrativo, Artículo 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo, Decreto No. 188-2007 de fecha 10 de enero de 2008 y el Acuerdo Ministerial No. 402-2010 de fecha 18 de marzo de 2010.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ministerial No. 127-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221111-36074/download"
 extraido: "2026-11-14"
-huella: "7b95cabb625f5b90"
+huella: "b74ce356ad23e3ac"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 127-2022
@@ -91,7 +91,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 MELVIN ENRIQUE REDONDO
 
-Subsecretario de Integración Económica y Comercio Exterior, delegado mediante Acuerdo No. 022- 2022 JOEL EDUARDO SALINAS LANZA Secretario General.
+Subsecretario de Integración Económica y Comercio Exterior, delegado mediante Acuerdo No. 022-2022 JOEL EDUARDO SALINAS LANZA Secretario General.
 
 ## Fuente
 

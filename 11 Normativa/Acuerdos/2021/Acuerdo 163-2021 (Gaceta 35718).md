@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Ministeriales nos. 162-2021, 163-2021, 164-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210914-35718/download"
 extraido: "2026-11-14"
-huella: "a308212d510e39b5"
+huella: "a7ebc92102c9704f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 163-2021
@@ -49,9 +49,9 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las 
 
 ACUERDA:
 
-PRIMERO: Hacer del conocimiento público para su observancia, la Resolución No. 449-2021 (COMIECOXCV), que RESUELVE: 1. Aprobar la modificación, por sustitución total, del texto del Reglamento Centroamericano sobre el Origen de las Mercancías en la forma que aparece en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Derogar la Resolución No. 156- 2006 (COMIECO-EX) del 7 de junio de 2006 y la Resolución No. 247-2009 (COMIECO-EX) del 19 de junio de 2009. 3.
+PRIMERO: Hacer del conocimiento público para su observancia, la Resolución No. 449-2021 (COMIECOXCV), que RESUELVE: 1. Aprobar la modificación, por sustitución total, del texto del Reglamento Centroamericano sobre el Origen de las Mercancías en la forma que aparece en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Derogar la Resolución No. 156-2006 (COMIECO-EX) del 7 de junio de 2006 y la Resolución No. 247-2009 (COMIECO-EX) del 19 de junio de 2009. 3.
 
-Para mayor certeza, el Anexo al Reglamento Centroamericano sobre el Origen de las Mercancías, que contiene las Reglas de Origen Específicas, aprobado mediante Resolución No. 377- 2016 (COMIECO-LXXVIII), del 24 de noviembre de 2016, se mantiene vigente e inalterable. 4. La presente Resolución entrará en vigor el 10 de enero de 2022 y será publicada por los Estados Parte.
+Para mayor certeza, el Anexo al Reglamento Centroamericano sobre el Origen de las Mercancías, que contiene las Reglas de Origen Específicas, aprobado mediante Resolución No. 377-2016 (COMIECO-LXXVIII), del 24 de noviembre de 2016, se mantiene vigente e inalterable. 4. La presente Resolución entrará en vigor el 10 de enero de 2022 y será publicada por los Estados Parte.
 
 SEGUNDO: Ordenar que para hacer del conocimiento público y observancia en general, las Resoluciones aquí nominadas, deben ser publicadas en la página Web Oficial de la Secretaría de Desarrollo Económico, www.sde.gob.hn
 

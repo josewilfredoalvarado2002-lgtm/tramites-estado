@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ejecutivo No. 454-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240817-36615/download"
 extraido: "2026-11-14"
-huella: "e02ef64543cea36f"
+huella: "25b529d7c39a758a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 454-2024
@@ -37,9 +37,7 @@ CONSIDERANDO (3): Que la Constitución de la República en su artículo 258 pár
 
 CONSIDERANDO (4): Que de acuerdo con el artículo 41 de la Ley de Procedimiento Administrativo corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
-CONSIDERANDO (5): Que mediante Decreto No. 62- 2023 se aprobó el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 y mediante Acuerdo Ejecutivo No. 266-2024 se aprueba su Reglamento, el que se reformó por adición mediante Acuerdo No.
-
-408-2024.
+CONSIDERANDO (5): Que mediante Decreto No. 62-2023 se aprobó el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 y mediante Acuerdo Ejecutivo No. 266-2024 se aprueba su Reglamento, el que se reformó por adición mediante Acuerdo No. 408-2024.
 
 CONSIDERANDO (6): Que las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024, en su artículo 47 establece que las personas que presten sus servicios en las instituciones de la Administración Descentralizada o Entes Desconcentrados, bajo cualquier modalidad, deben percibir o devengar salarios acordes a los empleados y funcionarios de igual categoría y jerarquía en la Administración Central. Igual medida se debe aplicar a los nuevos puestos de trabajo en cualquier institución pública.
 
@@ -65,19 +63,15 @@ CONSIDERANDO (13): Que la Ley de Servicio Civil en su artículo 11 numeral 1 est
 
 “Para ingresar al Servicio Civil se requiere: Ser hondureño por nacimiento, mayor de 18 años y estar en goce de sus derechos civiles. No obstante, quienes hayan cumplido 16 años podrán ingresar al Servicio Civil, previa autorización por escrito de sus representantes legales, a falta de éstos por las Alcaldías Municipales del término en que deba prestar sus servicios”.
 
-CONSIDERANDO (14): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126- 1968, establece en su artículo 20, que para la fijación de sueldos se tomarán en cuenta, dentro de las posibilidades financieras del Estado, las modalidades de cada trabajo, los sueldos que prevalezcan en las actividades privadas en los puestos análogos y los demás factores que tengan relación directa con una retribución justa, que permita al servidor subvenir a sus necesidades normales y las de su familia en el orden material, moral y cultural.
+CONSIDERANDO (14): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126-1968, establece en su artículo 20, que para la fijación de sueldos se tomarán en cuenta, dentro de las posibilidades financieras del Estado, las modalidades de cada trabajo, los sueldos que prevalezcan en las actividades privadas en los puestos análogos y los demás factores que tengan relación directa con una retribución justa, que permita al servidor subvenir a sus necesidades normales y las de su familia en el orden material, moral y cultural.
 
-CONSIDERANDO (15): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126- 1968, establece en su artículo 39, la Dirección General de Servicio Civil desarrollará el sistema de clasificación de cargos para las Secretarías de Estado y efectuará la valoración de todos los puestos que conforman el Régimen de Servicio Civil en coordinación con la Secretaría de Finanzas (SEFIN). Asimismo, prestará asistencia técnica a los órganos desconcentrados para la preparación de sus propios sistemas y en la valoración de los puestos y preparación de las escalas salariales las que una vez preparadas deberán ser aprobadas por la Dirección General de Servicio Civil para las demás dependencias del Gobierno Central, el desarrollo del sistema de clasificación, valoración y ordenamiento de puestos, será competencia y responsabilidad de la Dirección General de Servicio Civil.
+CONSIDERANDO (15): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126-1968, establece en su artículo 39, la Dirección General de Servicio Civil desarrollará el sistema de clasificación de cargos para las Secretarías de Estado y efectuará la valoración de todos los puestos que conforman el Régimen de Servicio Civil en coordinación con la Secretaría de Finanzas (SEFIN). Asimismo, prestará asistencia técnica a los órganos desconcentrados para la preparación de sus propios sistemas y en la valoración de los puestos y preparación de las escalas salariales las que una vez preparadas deberán ser aprobadas por la Dirección General de Servicio Civil para las demás dependencias del Gobierno Central, el desarrollo del sistema de clasificación, valoración y ordenamiento de puestos, será competencia y responsabilidad de la Dirección General de Servicio Civil.
 
-CONSIDERANDO (16): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126- 1968 en su artículo 49, establece que las políticas de remuneración de los servidores públicos serán determinadas en coordinación con la Secretaría de Finanzas (SEFIN).
+CONSIDERANDO (16): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126-1968 en su artículo 49, establece que las políticas de remuneración de los servidores públicos serán determinadas en coordinación con la Secretaría de Finanzas (SEFIN).
 
-CONSIDERANDO (17): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No.
+CONSIDERANDO (17): Que el Reglamento de la Ley de Servicio Civil aprobado mediante Decreto Legislativo No. 126-1968, establece en su artículo 53, para los fines de la política de remuneraciones, la Dirección General de Servicio Civil, definirá los grupos y niveles de contenido organizativo de las dependencias del Gobierno Central, debiendo contar para ello con la debida colaboración y apoyo de cada una de las entidades por medio de las Sub-Gerencias de Recursos Humanos.
 
-126-1968, establece en su artículo 53, para los fines de la política de remuneraciones, la Dirección General de Servicio Civil, definirá los grupos y niveles de contenido organizativo de las dependencias del Gobierno Central, debiendo contar para ello con la debida colaboración y apoyo de cada una de las entidades por medio de las Sub-Gerencias de Recursos Humanos.
-
-CONSIDERANDO (18): Que el Decreto Ejecutivo No.
-
-PCM-039-2023, de fecha 08 de septiembre del año 2023, en su artículo 1 decreta: “Suprimir la Dirección General de Servicio Civil y crear la Administración Nacional de Servicio Civil (ANSEC), como un ente desconcentrado de la Secretaría de Estado en el Despacho de la Presidencia, con independencia funcional, técnica y administrativa y con personalidad jurídica propia.
+CONSIDERANDO (18): Que el Decreto Ejecutivo No. PCM-039-2023, de fecha 08 de septiembre del año 2023, en su artículo 1 decreta: “Suprimir la Dirección General de Servicio Civil y crear la Administración Nacional de Servicio Civil (ANSEC), como un ente desconcentrado de la Secretaría de Estado en el Despacho de la Presidencia, con independencia funcional, técnica y administrativa y con personalidad jurídica propia.
 
 La Administración Nacional de Servicio Civil, (ANSEC), asumirá todas las facultades y competencias que correspondían a la Dirección General de Servicio Civil y será la responsable de la aplicación de la Ley de Servicio Civil y su Reglamento”.
 
@@ -87,9 +81,7 @@ Asimismo, el artículo 5 del mismo Decreto Ejecutivo, establece las atribuciones
 
 \2) Garantizar una administración y gestión del capital humano en las dependencias de la Administración Pública, basada en la meritocracia, la igualdad de oportunidades y la transparencia entre otros.
 
-CONSIDERANDO (19): Que la Reforma por Adición al Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024, Acuerdo Ejecutivo No.
-
-408-2024 artículo 1, referente al artículo 17-A, numeral 7, literal
+CONSIDERANDO (19): Que la Reforma por Adición al Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024, Acuerdo Ejecutivo No. 408-2024 artículo 1, referente al artículo 17-A, numeral 7, literal
 
 j) establece: “La creación de puestos permanentes no aplica para: personal que para optar a una plaza previamente se requiere que pase por un proceso de concurso (Estatutos), en vista que deben cumplir con el debido proceso”.
 
@@ -103,13 +95,11 @@ CONSIDERANDO (22): Que la Ley de Servicio Civil establece como requisito para in
 
 POR TANTO:
 
-En uso de las facultades que establecen los artículos 245 numerales 1 y 11, 256, 257 y 258 de la Constitución de la República; 116, 117 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; 47, 64, 68, 85, 245 y 249 de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 contenidas en el Decreto No. 62-2023; Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 contentivo en el Acuerdo Ejecutivo No.
-
-266-2024, 17-A, 17-B del Acuerdo Ejecutivo No. 408-2024;
+En uso de las facultades que establecen los artículos 245 numerales 1 y 11, 256, 257 y 258 de la Constitución de la República; 116, 117 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; 47, 64, 68, 85, 245 y 249 de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 contenidas en el Decreto No. 62-2023; Reglamento de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2024 contentivo en el Acuerdo Ejecutivo No. 266-2024, 17-A, 17-B del Acuerdo Ejecutivo No. 408-2024;
 
 5, 11 numeral 1 de la Ley de Servicio Civil; 20, 39, 49 y 53 del Reglamento de la Ley de Servicio Civil; 1 y 5 del Decreto Ejecutivo No. PCM-039-2023 de fecha 08 de septiembre del año 2023.
 
-A C U E R D A:
+ACUERDA:
 
 APROBAR LA REFORMA POR ADICIÓN AL
 

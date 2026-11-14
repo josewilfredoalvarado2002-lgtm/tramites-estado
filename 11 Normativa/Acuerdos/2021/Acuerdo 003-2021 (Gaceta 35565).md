@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo DGMM No. 002-2021, 003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210408-35565/download"
 extraido: "2026-11-14"
-huella: "06ef6a1c09cab6fd"
+huella: "6750d4e62353f285"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 003-2021
@@ -37,9 +37,9 @@ CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante Nacional, establece que
 
 CONSIDERANDO: Que la Dirección General de la Marina Mercante está a cargo de la administración, control y coordinación de todas las actividades relacionadas con la marina mercante y el transporte marítimo, la seguridad marítima y la protección del medio ambiente marino; así como la Formación y Titulación de la Gente de Mar.
 
-CONSIDERANDO: Mediante Acuerdo DGMM No.016- 2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
+CONSIDERANDO: Mediante Acuerdo DGMM No. 016-2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
 
-CONSIDERANDO: Que el Reglamento sobre el Procedimiento para Reconocimiento de Centros de Formación Marítima fue aprobado mediante Acuerdo DGMM No.006-2017 publicado en el Diario Oficial La Gaceta No. 34, 452 de fecha 26 de septiembre de 2017.
+CONSIDERANDO: Que el Reglamento sobre el Procedimiento para Reconocimiento de Centros de Formación Marítima fue aprobado mediante Acuerdo DGMM No. 006-2017 publicado en el Diario Oficial La Gaceta No. 34, 452 de fecha 26 de septiembre de 2017.
 
 CONSIDERANDO: Que la aplicación del Reglamento sobre el Procedimiento para Reconocimiento de Centros de Formación Marítima ha creado espacios para considerar la reforma de algunos de sus artículos a efecto de poder tener mejores medidas de control y seguir garantizando el efectivo cumplimiento de la normativa internacional y nacional en la materia.
 

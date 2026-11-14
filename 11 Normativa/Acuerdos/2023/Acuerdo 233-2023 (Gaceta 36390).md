@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decreto Ejecutivo Número PCM 47-2023, Acuerdo Ejecutivo Número 233-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "e71b038228f6d1ef"
+huella: "96dcaa046209dd7c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 233-2023
@@ -39,7 +39,7 @@ El Presidente de la República en el ejercicio de sus funciones, podrá actuar p
 
 CONSIDERANDO: Que el Artículo 37 numeral 2, de la Ley Orgánica del Presupuesto, señala que corresponde al Presidente de la República autorizar las transferencias de fondos presupuestarios entre Secretarías de Estado instituciones descentralizadas y entre ambas.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 157- 2022, que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2023, en el Artículo 42, establece que con el propósito de operativizar los traslados autorizados por la Presidenta de la República de acuerdo con lo establecido en el
+CONSIDERANDO: Que el Decreto Legislativo No. 157-2022, que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2023, en el Artículo 42, establece que con el propósito de operativizar los traslados autorizados por la Presidenta de la República de acuerdo con lo establecido en el
 
 Artículo 37 numeral 2 de la Ley Orgánica del Presupuesto, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que ejecute las operaciones necesarias a fin de hacer efectivos dichos traslados.
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Los recortes presupuestarios han dificultado cumplir plenamente co
 
 POR TANTO:
 
-La Presidenta de la República en uso de las facultades de las que está investida y en aplicación de los Artículos 245 y 248 de la Constitución de la República; 11 y 116 de la Ley General de la Administración Pública; 37 de la Ley Orgánica de Presupuesto; Decreto Legislativo No. 157- 2022 del Presupuesto General de Ingresos y Egresos y sus Disposiciones Generales para el Ejercicio Fiscal 2023 y, el Decreto No. 192-2001 del Acuerdo de Creación de la Universidad Nacional de Agricultura (UNAG).
+La Presidenta de la República en uso de las facultades de las que está investida y en aplicación de los Artículos 245 y 248 de la Constitución de la República; 11 y 116 de la Ley General de la Administración Pública; 37 de la Ley Orgánica de Presupuesto; Decreto Legislativo No. 157-2022 del Presupuesto General de Ingresos y Egresos y sus Disposiciones Generales para el Ejercicio Fiscal 2023 y, el Decreto No. 192-2001 del Acuerdo de Creación de la Universidad Nacional de Agricultura (UNAG).
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221005-36044/download"
 extraido: "2026-11-14"
-huella: "4c96844b23ed11a2"
+huella: "c991d1fbed122cca"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo, establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No. 664- 2022, publicado en el Diario Oficial La Gaceta, en fecha 2 de septiembre del año 2022 (Edición No. 36018), se delegó en el ciudadano KEVIN JOSUE IZAGUIRRE RODAS, Oficial de Personal II, como encargado de la Subgerencia de Recursos Humanos, a partir del veinticinco (25) de agosto al veintiséis de septiembre del año dos mil veintidós (2022), para realizar las siguientes: 1. Aprobar acciones en el sistema de información de la plataforma de la Dirección General de Servicio Civil, como ser: Las actividades de creación de puestos relacionados con la administración de personal, ascensos, cesantías, dictámenes, cálculos de prestaciones, nuevas contrataciones y recontrataciones y otras actividades similares a la antes relacionadas. 2. Aprobación en el Sistema de Administración de Recursos Humanos (SIARH) de estructuras organizacionales, como ser; estructura de personal y estructura administrativa y de personal, fichas de datos obligatorios y complementarios, planillas, generar deducciones de las contribuciones de INJUPEMP y otras actividades similares con el sistema.
+CONSIDERANDO: Que mediante Acuerdo No. 664-2022, publicado en el Diario Oficial La Gaceta, en fecha 2 de septiembre del año 2022 (Edición No. 36018), se delegó en el ciudadano KEVIN JOSUE IZAGUIRRE RODAS, Oficial de Personal II, como encargado de la Subgerencia de Recursos Humanos, a partir del veinticinco (25) de agosto al veintiséis de septiembre del año dos mil veintidós (2022), para realizar las siguientes: 1. Aprobar acciones en el sistema de información de la plataforma de la Dirección General de Servicio Civil, como ser: Las actividades de creación de puestos relacionados con la administración de personal, ascensos, cesantías, dictámenes, cálculos de prestaciones, nuevas contrataciones y recontrataciones y otras actividades similares a la antes relacionadas. 2. Aprobación en el Sistema de Administración de Recursos Humanos (SIARH) de estructuras organizacionales, como ser; estructura de personal y estructura administrativa y de personal, fichas de datos obligatorios y complementarios, planillas, generar deducciones de las contribuciones de INJUPEMP y otras actividades similares con el sistema.
 
 CONSIDERANDO: Que con el objeto de no paralizar las funciones en la Subgerencia de Recursos Humanos de esta Secretaría de Estado, es necesario ampliar la delegación en el ciudadano KEVIN JOSUE IZAGUIRRE RODAS, Oficial de Personal II.
 
@@ -43,9 +43,7 @@ En aplicación de los Artículos 321 y 323 de la Constitución de la República 
 
 ACUERDA
 
-PRIMERO: Amplirar la vigencia del Acuerdo No. 664- 2022, publicado en el Diario Oficial La Gaceta, en fecha 2 de septiembre del año 2022 (Edición No. 36,018), que contiene la delegación de funciones en el ciudadano KEVIN JOSUE IZAGUIRRE RODAS, Oficial de Personal II, como Encargado de la Subgerencia de Recursos Humanos del veintisiete (27) de septiembre del dos mil veintidós (2022) al veintisiete (27) de octubre del dos mil veintidós (2022), con las mismas funciones delegadas en el del Acuerdo No.
-
-664-2022.
+PRIMERO: Amplirar la vigencia del Acuerdo No. 664-2022, publicado en el Diario Oficial La Gaceta, en fecha 2 de septiembre del año 2022 (Edición No. 36,018), que contiene la delegación de funciones en el ciudadano KEVIN JOSUE IZAGUIRRE RODAS, Oficial de Personal II, como Encargado de la Subgerencia de Recursos Humanos del veintisiete (27) de septiembre del dos mil veintidós (2022) al veintisiete (27) de octubre del dos mil veintidós (2022), con las mismas funciones delegadas en el del Acuerdo No. 664-2022.
 
 SEGUNDO: El ciudadano KEVIN JOSUE IZAGUIRRE RODAS, es responsable del ejercicio de las facultades que le hayan sido encomendadas, en observancia de las buenas prácticas de transparencia y ética en la realización de las funciones asignadas.
 

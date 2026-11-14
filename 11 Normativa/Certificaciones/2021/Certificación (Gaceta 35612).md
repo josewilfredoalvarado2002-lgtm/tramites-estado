@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210528-35612/download"
 extraido: "2026-11-14"
-huella: "042dd72c41c92b4c"
+huella: "9f3fb8b1fc408feb"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -35,9 +35,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, doce de febrero del dos mil veinte.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diez de febrero del dos mil veinte, la cual corre agregada al expediente administrativo No.
-
-PJ-10022020-118, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BELLA VISTA, con domicilio en el municipio de San Marcos, departamento de Santa Bárbara, extremo que está acreditado mediante CARTA PODER de fecha 06 de agosto del 2019; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diez de febrero del dos mil veinte, la cual corre agregada al expediente administrativo No. PJ-10022020-118, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BELLA VISTA, con domicilio en el municipio de San Marcos, departamento de Santa Bárbara, extremo que está acreditado mediante CARTA PODER de fecha 06 de agosto del 2019; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -63,7 +61,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BELLA VISTA, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE BELLA VISTA, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
@@ -103,7 +101,7 @@ ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la 
 
 #### Artículo 6
 
-ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a : 1)Capacidad de pago 2) Número de familia por vivienda 3) Número de llaves adicionales 4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.-
+ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: 1)Capacidad de pago 2) Número de familia por vivienda 3) Número de llaves adicionales 4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.-
 
 CAPÍTULO III DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS, OBLIGACIONES DE LOS MIEMBROS
 

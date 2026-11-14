@@ -11,7 +11,7 @@ paginas: "A. 18 - 28"
 sumario: "Decretos Nos. 68-2021, 70-2021, 71-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210826-35699/download"
 extraido: "2026-11-14"
-huella: "08ac9f22afbc6c7c"
+huella: "def37ad1b58ab972"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 71-2021
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 59 de la Constitución Hondureña señala “Que la persona humana es el fin supremo de la sociedad” y es función del Estado, promover y facilitar el acceso a los servicios públicos, relacionados a la salud a fin de mejorar condiciones sanitarias y la calidad de vida de las personas.
 
-CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL QUINIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019.
+CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL QUINIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019.
 
-CONSIDERANDO: Que el Acuerdo de Préstamo No.13754P suscrito el 18 de Junio de 2021, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y la República de Honduras, en su condición de Prestatario del Financiamiento de hasta por un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00) para la ejecución del Proyecto de Inclusión Económica y Social de Pequeños Productores Rurales en la Región Noreste de Honduras (PROINORTE), se ampara en el Artículo 8 del Decreto Legislativo No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+CONSIDERANDO: Que el Acuerdo de Préstamo No. 13754P suscrito el 18 de Junio de 2021, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y la República de Honduras, en su condición de Prestatario del Financiamiento de hasta por un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00) para la ejecución del Proyecto de Inclusión Económica y Social de Pequeños Productores Rurales en la Región Noreste de Honduras (PROINORTE), se ampara en el Artículo 8 del Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivo incrementar ingresos y mejorar la nutrición de pequeños productores rurales y sus familias, mejorando su productividad, diversificación, transformación y capacidades de comercialización, incorporando a ellos en las cadenas de valor priorizados y aumentando su resiliencia.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19) y 36) de la 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

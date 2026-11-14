@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "24ba627d84ef312f"
+huella: "5e03ec08592e696d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. STSS-562-2020
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Secretaría de Trabajo y Seguridad Social al igual que otra
 
 POR TANTO
 
-En aplicación de los artículos 59, 127, 138, 247, 255 y 321 de la Constitución de la República; 7, 28, 29 numeral 8, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y 3, 16, 23 y 24 del Reglamento de Organizaciones, Funcionamiento y Competencia del Poder Ejecutivo Número PCM-005-2020, PCM-021- 2020 y sus reformas, PCM-045-2020 y PCM-082-2020.
+En aplicación de los artículos 59, 127, 138, 247, 255 y 321 de la Constitución de la República; 7, 28, 29 numeral 8, 36 numeral 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y 3, 16, 23 y 24 del Reglamento de Organizaciones, Funcionamiento y Competencia del Poder Ejecutivo Número PCM-005-2020, PCM-021-2020 y sus reformas, PCM-045-2020 y PCM-082-2020.
 
 ACUERDA:
 

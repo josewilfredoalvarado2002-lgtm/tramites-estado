@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210428-35585/download"
 extraido: "2026-11-14"
-huella: "5d04fd50cf3c51bf"
+huella: "1e9f91dfd074f837"
 ---
 <!-- portal:inicio -->
 # ACUERDO N° STSS-124-2021
@@ -37,13 +37,13 @@ CONSIDERANDO: Que mediante Decreto 1051 de la Junta Militar de Gobierno en Conse
 
 CONSIDERANDO: Que la Dirección General de Empleo tiene como objetivo principal, coadyuvar en la reducción del desempleo y subempleo, en el aumento del grado de calificación de los trabajadores, en la distribución espacial armónica de la fuerza de trabajo y en el desarrollo equilibrado del mercado laboral.
 
-CONSIDERANDO: Que mediante Acuerdo No. STSS- 259-2011, se aprobó la nueva estructura orgánica de la Dirección General de Empleo, estableciendo que corresponde al Departamento de Servicios de Empleo, la Coordinación del Servicio Nacional de Empleo en Honduras (SENAEH).
+CONSIDERANDO: Que mediante Acuerdo No. STSS-259-2011, se aprobó la nueva estructura orgánica de la Dirección General de Empleo, estableciendo que corresponde al Departamento de Servicios de Empleo, la Coordinación del Servicio Nacional de Empleo en Honduras (SENAEH).
 
 CONSIDERANDO: Que el Departamento de Servicios de Empleo, tiene entre sus funciones: Organizar y poner en funcionamiento una red de servicios públicos y gratuitos de colocación, orientación e información ocupacional, garantizando servicios incluyentes e inclusivos para los ciudadanos, a través del SENAEH.
 
-CONSIDERANDO: Que mediante Acuerdo No. STSS-599- 2012, se aprobó el Manual de Organización y Funciones de la Dirección General de Empleo, incluido el Organigrama de la Estructura Organizativa de la referida Dirección, quedando entre sus dependencias el SENAEH.
+CONSIDERANDO: Que mediante Acuerdo No. STSS-599-2012, se aprobó el Manual de Organización y Funciones de la Dirección General de Empleo, incluido el Organigrama de la Estructura Organizativa de la referida Dirección, quedando entre sus dependencias el SENAEH.
 
-CONSIDERANDO: Que mediante Decreto PCM-029- 2017, se aprobó la Política Nacional de Empleo de Honduras (PNEH), que tiene como objetivo “Incrementar las capacidades productivas de los hondureños, especialmente las de los jóvenes, para acceder a oportunidades y empleos productivos, en condiciones de seguridad, equidad y dignidad, por medio de un conjunto de intervenciones económicas y sociales que fomenten el crecimiento económico sostenido e inclusivo, reduciendo la pobreza, las desigualdades y estableciendo las condiciones adecuadas para la generación de empleo en el sector privado”.
+CONSIDERANDO: Que mediante Decreto PCM-029-2017, se aprobó la Política Nacional de Empleo de Honduras (PNEH), que tiene como objetivo “Incrementar las capacidades productivas de los hondureños, especialmente las de los jóvenes, para acceder a oportunidades y empleos productivos, en condiciones de seguridad, equidad y dignidad, por medio de un conjunto de intervenciones económicas y sociales que fomenten el crecimiento económico sostenido e inclusivo, reduciendo la pobreza, las desigualdades y estableciendo las condiciones adecuadas para la generación de empleo en el sector privado”.
 
 CONSIDERANDO: Que el Decreto de creación de la PNEH, instruye a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), la formulación de una propuesta de Marco de Acción Conjunta (MAC), el cual en el eje “Entorno propicio para la Creación y Desarrollo de Empresas”, establece la actividad de fortalecimiento del SENAEH y su conexión con las oportunidades de inserción laboral formal; y en el eje “Desarrollo del Capital Humano”, propone el diseño y ejecución gradual de un plan de creación, fortalecimiento y sostenibilidad de 17 Oficinas del SENAEH, para el dos mil veintiuno, que han sido fomentadas en coordinación con la Unión Europea.
 

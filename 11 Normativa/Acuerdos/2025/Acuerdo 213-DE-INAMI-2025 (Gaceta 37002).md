@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo No. 213-DE-INAMI-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251125-37002/download"
 extraido: "2026-11-09"
-huella: "0523d57db7dc23d0"
+huella: "d28d83cea471b0b6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 213-DE-INAMI-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el INSTITUTO NACIONAL
 
 PARA LA ATENCIÓN A MENORES INFRACTORES
 
-(INAMI), fue creado mediante Decreto Ejecutivo PCM- 061-2017, de fecha catorce (14) de septiembre del año dos mil diecisiete (2017), publicado en el Diario Oficial “La Gaceta” N° 34,450 como un órgano desconcentrado de la Administración Pública, adscrito actualmente a la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), de conformidad con el PCM-41-2023 de fecha trece
+(INAMI), fue creado mediante Decreto Ejecutivo PCM-061-2017, de fecha catorce (14) de septiembre del año dos mil diecisiete (2017), publicado en el Diario Oficial “La Gaceta” N° 34,450 como un órgano desconcentrado de la Administración Pública, adscrito actualmente a la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), de conformidad con el PCM-41-2023 de fecha trece
 
 (13) de octubre del año dos mil veintitrés (2023), publicado en el Diario Oficial La Gaceta número 36,357; con personalidad jurídica y patrimonio propio, competencia y atribuciones a nivel nacional, autonomía técnica-administrativa y financiera, cuya finalidad es la de liderar el Sistema de Justicia Especializada para la niñez en conflicto con la Ley, teniendo además a su cargo la organización y funcionamiento de los Centros Pedagógicos de Internamiento para los niños, niñas y adolescentes en conflicto con la Ley.
 

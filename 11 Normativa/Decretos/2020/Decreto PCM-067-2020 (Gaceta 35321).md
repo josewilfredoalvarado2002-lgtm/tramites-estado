@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decretos Ejecutivos números PCM-066-2020, PCM-067-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200722-35321/download"
 extraido: "2026-11-14"
-huella: "ae96f9c4b8abc52e"
+huella: "72b280a4faaa0ac1"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-067-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad a la efectiva y oportuna evaluación realizada,
 
 POR TANTO;
 
-En aplicación de los Artículos 245 numerales 2, 5, 11 y 45, 247, 252, 321, 323 y demás aplicables de la Constitución de la República; Artículos 11, 12, 17, 22 numeral 9), 29 numeral 11), 116, 117 y 119 de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266- 2013; Artículo 16 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, contenida en el Decreto Legislativo No. 18- 2017.
+En aplicación de los Artículos 245 numerales 2, 5, 11 y 45, 247, 252, 321, 323 y demás aplicables de la Constitución de la República; Artículos 11, 12, 17, 22 numeral 9), 29 numeral 11), 116, 117 y 119 de la Ley General de la Administración Pública, reformada mediante Decreto Legislativo No. 266-2013; Artículo 16 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, contenida en el Decreto Legislativo No. 18-2017.
 
 DECRETA:
 

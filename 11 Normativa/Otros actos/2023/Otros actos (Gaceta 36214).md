@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo SAG-69-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230427-36214/download"
 extraido: "2026-11-14"
-huella: "81f067ae0687e57c"
+huella: "3a5a6d5e7ee6d5f8"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAG-69-2023
@@ -55,7 +55,7 @@ En uso de sus facultades y en aplicación de los artículos:
 
 ACUERDA
 
-PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2023- 2024, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones Suplidoras, Cargueros o Nodrizas:
+PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2023-2024, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones Suplidoras, Cargueros o Nodrizas:
 
 a. Solicitud dirigida a la Secretaría de Estado en los Despachos de Agricultura y Ganadería, por medio de su Apoderado Legal.
 
@@ -473,7 +473,7 @@ m. Copia de Resolución Ministerial anterior si es solicitud de renovación.
 
 n. Licencia Ambiental si es solicitud de renovación.
 
-DECIMO SEGUNDO: En relación a la presentación de recibos TGR-1 a los diferentes tributos por concepto de: emisión de constancias, certificados y otros (12121); otras licencias (12209); multas y penas diversas (12499); ingresos por subastas (12801); otros ingresos no tributarios (12899); venta de materiales y producción agropecuario (15102), y alquiler de tierras y terrenos (17601), con el código (140) perteneciente a la Secretaría de Agricultura y Ganadería y que serán procesados mediante recibo de pago TGR-1, deberán ser entregados a las oficinas de DIGEPESCA ,el mismo mes que fue cancelado ante cualquier institución bancaria, tal como lo establece artículo 21 del presupuesto general de ingresos y egresos de la República.
+DECIMO SEGUNDO: En relación a la presentación de recibos TGR-1 a los diferentes tributos por concepto de: emisión de constancias, certificados y otros (12121); otras licencias (12209); multas y penas diversas (12499); ingresos por subastas (12801); otros ingresos no tributarios (12899); venta de materiales y producción agropecuario (15102), y alquiler de tierras y terrenos (17601), con el código (140) perteneciente a la Secretaría de Agricultura y Ganadería y que serán procesados mediante recibo de pago TGR-1, deberán ser entregados a las oficinas de DIGEPESCA,el mismo mes que fue cancelado ante cualquier institución bancaria, tal como lo establece artículo 21 del presupuesto general de ingresos y egresos de la República.
 
 DÉCIMO TERCERO: Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial SAG 124-2022.
 

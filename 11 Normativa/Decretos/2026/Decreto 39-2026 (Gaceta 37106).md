@@ -11,7 +11,7 @@ paginas: "A. 7 - 10"
 sumario: "Decretos Nos. 38-2026, 39-2026, 40-2026, 45-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260328-37106/download"
 extraido: "2026-11-09"
-huella: "6ff12dbeae1f005a"
+huella: "5a20964cb225caad"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 39-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el 18 de Julio de 2022 se suscribió el Convenio de Suscripci�
 
 CONSIDERANDO: Que Honduras depositó el instrumento de adhesión ante el CAF en Agosto de 2023, y adquirió la acción Serie “A” en Noviembre de 2023 y, desde esa fecha, ostenta la calidad de miembro con plenos derechos y obligaciones, participando activamente en las Asambleas de Accionistas y en la gobernanza del Banco, tal como lo reconoce el propio CAF en su portal oficial y en comunicaciones de Octubre de 2025.
 
-CONSIDERANDO: Que el Decreto No.38-2023 y publicado en el Diario Oficial “La Gaceta” el 25 de Julio de 2023, a pesar de que en el proceso de aprobación existieron irregularidades procedimentales consistentes en la NO ratificación del acta de la sesión celebrada en el Congreso Nacional el 12 de Julio de 2023, lo que generó cuestionamientos jurídicos, denuncias de vicio de legalidad y recursos de inconstitucionalidad por parte de sectores de la oposición y la sociedad civil.
+CONSIDERANDO: Que el Decreto No. 38-2023 y publicado en el Diario Oficial “La Gaceta” el 25 de Julio de 2023, a pesar de que en el proceso de aprobación existieron irregularidades procedimentales consistentes en la NO ratificación del acta de la sesión celebrada en el Congreso Nacional el 12 de Julio de 2023, lo que generó cuestionamientos jurídicos, denuncias de vicio de legalidad y recursos de inconstitucionalidad por parte de sectores de la oposición y la sociedad civil.
 
 CONSIDERANDO: Que resulta imperativo subsanar dichas irregularidades procedimentales mediante la ratificación expresa y la convalidación legislativa contenida en el presente Decreto, a fin de dotar de plena seguridad jurídica la adhesión del Estado de Honduras como miembro pleno del BANCO DE DESARROLLO DE AMÉRICA LATINA Y EL CARIBE “CAF”, así como a todos los contratos de crédito, operaciones de financiamiento, asistencia técnicas y otras suscritos con dicha Institución Multilateral hasta la fecha.
 
@@ -57,11 +57,11 @@ CONSIDERANDO: Que conforme al Artículo 205 Atribución 19) de la Constitución 
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Convalidar la adhesión de la República de Honduras como miembro pleno al BANCO DE DESARROLLO DE AMÉRICA LATINA Y EL CARIBE “CAF”, incluyendo el Convenio de Suscripción de Acciones de Capital Ordinario suscrito el 18 de Julio de 2022, el depósito del instrumento de adhesión y todas las actuaciones administrativas y financieras derivadas del Decreto No.38-2023 y actos posteriores.
+ARTÍCULO 1.- Convalidar la adhesión de la República de Honduras como miembro pleno al BANCO DE DESARROLLO DE AMÉRICA LATINA Y EL CARIBE “CAF”, incluyendo el Convenio de Suscripción de Acciones de Capital Ordinario suscrito el 18 de Julio de 2022, el depósito del instrumento de adhesión y todas las actuaciones administrativas y financieras derivadas del Decreto No. 38-2023 y actos posteriores.
 
 #### Artículo 2
 

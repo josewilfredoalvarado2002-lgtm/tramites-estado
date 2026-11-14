@@ -8,10 +8,10 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 19 - 20"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
-huella: "93495a35dc6a02e1"
+huella: "5f44b72e35829b6e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 94-2024
@@ -23,7 +23,7 @@ huella: "93495a35dc6a02e1"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 19 - 20 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 205 establec
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 41 - 43"
 sumario: "Decretos Nos. 35-2026, 36-2026, 37-2026, 46-2026Resolución No. 2-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260327-37105/download"
 extraido: "2026-11-09"
-huella: "c394f9c401f6a2e8"
+huella: "289af570f3a476c3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 37-2026
@@ -53,7 +53,7 @@ CONSIDERANDO: Que es de vital importancia el apoyo del Gobierno Central para fom
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

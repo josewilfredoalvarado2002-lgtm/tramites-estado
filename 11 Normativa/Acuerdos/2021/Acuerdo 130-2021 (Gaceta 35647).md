@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Ministeriales Nos. 130-2021, 131-2021, 132-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210705-35647/download"
 extraido: "2026-11-14"
-huella: "d42236a91d340fd2"
+huella: "2f5e8b3776440417"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 130-2021
@@ -29,7 +29,7 @@ huella: "d42236a91d340fd2"
 
 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO
 
-CONSIDERANDO: Que mediante Decreto No. 266- 2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
+CONSIDERANDO: Que mediante Decreto No. 266-2013 del 23 de enero de 2013, “Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía, y Fortalecimiento de las Transparencia en el Gobierno”, la Secretaría de Estado en el Despacho Desarrollo Económico subrogó en sus funciones a la Secretaría de Estado en los Despachos de Industria y Comercio.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en el Artículo 36 de la Ley General de la Administración Pública el conocimiento y resolución de los asuntos del ramo, pudiendo delegar el conocimiento de atribuciones específicas en los Subsecretarios, Secretarios Generales y Directores Generales.
 

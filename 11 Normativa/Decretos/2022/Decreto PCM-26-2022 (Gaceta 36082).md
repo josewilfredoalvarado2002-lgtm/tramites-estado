@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decretos Ejecutivos números PCM-26-2022, 27-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221121-36082/download"
 extraido: "2026-11-14"
-huella: "405be36b8236eab6"
+huella: "835c05e34d52b7b9"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-26-2022
@@ -131,7 +131,7 @@ e) Cualquier otra información que sea solicitada por la CI-CAN.
 
 #### Artículo 6
 
-ARTÍCULO 6. Los fondos destinados para el levantamiento del Censo Agropecuario Nacional (CAN) provienen del remanente del Convenio de Financiación del Programa de apoyo Presupuestario Sectorial en Seguridad Alimentaria y Nutricional, EUROSAN BUDGET (DCI/ALA/2015/038- 103), incorporados en la cuenta del Tesoro Nacional de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+ARTÍCULO 6. Los fondos destinados para el levantamiento del Censo Agropecuario Nacional (CAN) provienen del remanente del Convenio de Financiación del Programa de apoyo Presupuestario Sectorial en Seguridad Alimentaria y Nutricional, EUROSAN BUDGET (DCI/ALA/2015/038-103), incorporados en la cuenta del Tesoro Nacional de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 Esta cuenta puede ser fortalecida y/o complementada con el aporte financiero de otros fondos provenientes de cooperantes y fuentes nacionales.
 

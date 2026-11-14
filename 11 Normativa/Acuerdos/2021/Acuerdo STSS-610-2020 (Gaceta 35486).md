@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210113-35486/download"
 extraido: "2026-11-14"
-huella: "eee12f9e793683aa"
+huella: "3dcd7c3caf7fe534"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-610-2020
@@ -33,7 +33,7 @@ ACUERDA:
 
 PRIMERO: Cancelar por Cesantía a la ciudadana Norma del Carmen Hernández, a partir del 01 de diciembre de 2020 en el puesto de Conserje II, Institución: 130, Secretaría de Trabajo y Seguridad Social, Programa: 014 Atención Integral de Niños, Hijos de trabajadores(as), Unidad Ejecutora: 006, Centros de Cuidado Infantil, Subprograma:
 
-00, Actividad/Obra: 001, Unidad; Prestación de Servicios de Alimentos y Nutrición, Número de Puesto: 3680, Grupo- Nivel; 01- 02, Sueldo Mensual Lps. 14,760.00 (Catorce Mil Setecientos Sesenta Lempiras Exactos), Acción No. 051 2020, aprobada por la Dirección de Servicio Civil.
+00, Actividad/Obra: 001, Unidad; Prestación de Servicios de Alimentos y Nutrición, Número de Puesto: 3680, Grupo- Nivel; 01-02, Sueldo Mensual Lps. 14,760.00 (Catorce Mil Setecientos Sesenta Lempiras Exactos), Acción No. 051 2020, aprobada por la Dirección de Servicio Civil.
 
 SEGUNDO: El presente acuerdo debe publicarse en el Diario Oficial “La Gaceta”.
 

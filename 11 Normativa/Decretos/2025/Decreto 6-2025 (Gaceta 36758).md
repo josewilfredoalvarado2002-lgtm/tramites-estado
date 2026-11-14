@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 6-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250205-36758/download"
 extraido: "2026-11-13"
-huella: "573eb3707e2b8376"
+huella: "af934b743f165ba0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 6-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que conforme al Artículo 213 de la Constitución de la República
 
 CONSIDERANDO: Que es necesario establecer las bases para simplificar y racionalizar los procedimientos especiales de contratación a fin de garantizar el efectivo desarrollo de las Elecciones Primarias e Internas 2025 para proteger los derechos políticos de los ciudadanos y la institucionalidad democrática del país.
 
-CONSIDERANDO: Que el pasado 7 de Septiembre de 2024, se aprobó el Decreto No.84-2024 que contiene la Ley para la Administración y Ejecución Transparente del Presupuesto Electoral para las Elecciones Primarias 2025, el cual fue publicado en el Diario Oficial “La Gaceta” el 7 de Octubre de 2024.
+CONSIDERANDO: Que el pasado 7 de Septiembre de 2024, se aprobó el Decreto No. 84-2024 que contiene la Ley para la Administración y Ejecución Transparente del Presupuesto Electoral para las Elecciones Primarias 2025, el cual fue publicado en el Diario Oficial “La Gaceta” el 7 de Octubre de 2024.
 
 CONSIDERANDO: Que en la aplicación y ejecución de dicha Ley, el Consejo Nacional Electoral (CNE) ha identificado AVANCE obstáculos y retrasos para la adjudicación y desarrollo de los procesos especiales de contratación, que podrían afectar el proceso de las Elecciones Primaras e Internas del 9 de Marzo del año 2025, por lo que se hace necesaria una reforma que simplifique los procesos especiales de contratación.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 2 numeral 1) de la LEY PARA LA ADMINISTRACIÓN Y EJECUCIÓN TRANSPARENTE DEL PRESUPUESTO ELECTORAL P A R A L A S E L E C C I O N E S PRIMARIAS 2025, contenida en el Decreto Legislativo No. 84-2024, del 7 de Septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 7 de Octubre de 2024, Edición No.36,658, asimismo, adicionándole dos (2) numerales más a la misma, bajo la denominación de 8) y 9); el cual en adelante debe leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 2 numeral 1) de la LEY PARA LA ADMINISTRACIÓN Y EJECUCIÓN TRANSPARENTE DEL PRESUPUESTO ELECTORAL PARA LAS ELECCIONES PRIMARIAS 2025, contenida en el Decreto Legislativo No. 84-2024, del 7 de Septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 7 de Octubre de 2024, Edición No. 36,658, asimismo, adicionándole dos (2) numerales más a la misma, bajo la denominación de 8) y 9); el cual en adelante debe leerse de la siguiente manera:
 
 “ARTÍCULO 2.- PROCEDIMIENTO
 

@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Decreto No. 53-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210728-35670/download"
 extraido: "2026-11-14"
-huella: "1817fd406aece454"
+huella: "d8ef0dcf657422ad"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 53-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 59 de la Constitución Hondureña establece que �
 
 CONSIDERANDO: Que otorgar amnistías a los obligados tributarios es legislar en favor de los sectores productivos y de la población en general a fin de que éstos tengan un alivio económico en sus finanzas y les permita ponerse al día con sus pagos sin la imposición de multas, recargos o interés, lo que representa un incentivo de pago para los contribuyentes y una fuente de ingresos para el Estado.
 
-CONSIDERANDO: Que en el Artículo 4, del Decreto No.188-2020, de fecha 7 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del 2021, Edición No.35,506, se aprobó una Amnistía Vehicular, la cual se encuentra vencida, sin embargo, en virtud de que la situación económica del país no ha mejorado, a causa de la Pandemia COVID-19 y las tormentas tropicales ETA e IOTA, es necesario crear mecanismos que faciliten el pago de la deuda principal: Necesidad que también se presenta en relación a la Amnistía Municipal que se contenía en el
+CONSIDERANDO: Que en el Artículo 4, del Decreto No. 188-2020, de fecha 7 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del 2021, Edición No. 35,506, se aprobó una Amnistía Vehicular, la cual se encuentra vencida, sin embargo, en virtud de que la situación económica del país no ha mejorado, a causa de la Pandemia COVID-19 y las tormentas tropicales ETA e IOTA, es necesario crear mecanismos que faciliten el pago de la deuda principal: Necesidad que también se presenta en relación a la Amnistía Municipal que se contenía en el
 
 Artículo 5 de dicho Decreto que igualmente se encuentra vencida.
 

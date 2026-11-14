@@ -11,7 +11,7 @@ paginas: "A. 25 - 27"
 sumario: "Acuerdos Ejecutivos Nos. 209-2026, 219-2026, 229-2026, 235-2026, 236-2026, 237-2026, 238-2026, 240-2026, 241-2026, 242-2026, 243-2026, 244-2026, 246-2026, 250-2026, 251-2026, 253-2026, 255-2026, 256-2026, 257-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260330-37107/download"
 extraido: "2026-11-09"
-huella: "5e0432cbae183a8a"
+huella: "0e4160e19dc21d8b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

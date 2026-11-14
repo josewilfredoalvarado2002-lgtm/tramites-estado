@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Acuerdo No. SEN-139-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221031-36064/download"
 extraido: "2026-11-14"
-huella: "c9f1767e42bfcd27"
+huella: "31a2a9c8ada62eda"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-139-2022
@@ -29,13 +29,9 @@ huella: "c9f1767e42bfcd27"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-84-2022 de fecha 10 de febrero de 2022, la señora Presidenta Constitucional de la República, nombró al Dr. Erick Tejada Carbajal, como Secretario de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 84-2022 de fecha 10 de febrero de 2022, la señora Presidenta Constitucional de la República, nombró al Dr. Erick Tejada Carbajal, como Secretario de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley, asimismo el conocimiento y resolución de los asuntos del ramo.
 
@@ -43,7 +39,7 @@ CONSIDERANDO: Que los artículos 4 y 5 de la Ley de Procedimiento Administrativo
 
 CONSIDERANDO: Que los Subsecretarios de Estado son colaboradores de los Secretarios de Estado en la coordinación, vigilancia y control de las actividades de la Secretaría de Estado y deciden sobre los asuntos cuyo conocimiento les delegue el Secretario de Estado y si hubiere más de un Subsecretario, el Secretario de Estado determinará el orden y funciones del Subsecretario que lo sustituirá.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 90- 2013 de fecha 23 de mayo de 2013, publicado en La Gaceta, edición de fecha 25 de julio de 2013, se decretó aprobar el CONTRATO PARA LA EXPLORACIÓN Y SUBSIGUIENTE EXPLOTACIÓN DE HIDROCARBUROS SOBRE LA ZONA MARÍTIMA de República de Honduras, suscrito por el Estado de Honduras y la empresa HIGH POWER PETROLEUM HONDURAS S A. (antes AZTPETROL HONDURAS S.A.) y CARIBX UK LIMITED, SUCURSAL HONDURAS.- cuyos antecedentes y gestiones de procedimiento administrativo constan comprendidos en el expediente identificado bajo números correlativos No.401000-100901-2012-EF-00029 Tomo I, II, III, IV y V +2020-SE-EEH-0002; diligencias que en atención a su complejidad y conocimiento requieren delegar su atención, seguimiento y resolución del procedimiento administrativo a un Subsecretario de Estado.
+CONSIDERANDO: Que mediante Decreto Legislativo 90-2013 de fecha 23 de mayo de 2013, publicado en La Gaceta, edición de fecha 25 de julio de 2013, se decretó aprobar el CONTRATO PARA LA EXPLORACIÓN Y SUBSIGUIENTE EXPLOTACIÓN DE HIDROCARBUROS SOBRE LA ZONA MARÍTIMA de República de Honduras, suscrito por el Estado de Honduras y la empresa HIGH POWER PETROLEUM HONDURAS S A. (antes AZTPETROL HONDURAS S.A.) y CARIBX UK LIMITED, SUCURSAL HONDURAS.- cuyos antecedentes y gestiones de procedimiento administrativo constan comprendidos en el expediente identificado bajo números correlativos No. 401000-100901-2012-EF-00029 Tomo I, II, III, IV y V +2020-SE-EEH-0002; diligencias que en atención a su complejidad y conocimiento requieren delegar su atención, seguimiento y resolución del procedimiento administrativo a un Subsecretario de Estado.
 
 CONSIDERANDO: Que mediante ACUERDO EJECUTIVO No. 007-2021. publicado en La Gaceta, Diario Oficial de la República el cuatro de junio de dos mil veintiuno, se establece, “PRIMERO: Designar representantes por parte del Estado de la República de Honduras, en el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, suscrito por el Gobierno de la República de Honduras; designación que literalmente dice:
 
@@ -59,9 +55,7 @@ ACUERDA
 
 PRIMERO: Delegar en el Subsecretario de Estado de la Secretaría de Energía, Doctor MARCO ANTONIO FLORES BARAHONA, el conocimiento, decisiones, control y seguimiento del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, aprobado mediante Decreto Legislativo No. 90-2013, publicado en el Diario Oficial La Gaceta edición número 33,185 del veinticinco (25) de julio de dos mil trece (2013), cuyas diligencias administrativas se encuentran comprendidas en el Expediente Administrativo identificado bajo números correlativos 401000-100901-2012-EF00029 Tomo I, II, III, IV y V + 2020-SE-EEH-0002 de la Secretaría de Energía.
 
-SEGUNDO: Designar al Subsecretario de Estado, Doctor MARCO ANTONIO FLORES BARAHONA en Representación de la Secretaría de Energía como titular para integrar el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, aprobado mediante Decreto Legislativo No.
-
-90-2013. publicado en el Diario Oficial La Gaceta edición número 33,185 del veinticinco (25) de julio de dos mil trece (2013),como órgano de administración del mismo y en virtud de esta designación, delegarle las funciones inherentes a su representación en dicho Comité de Administración, pudiendo aprobar y tomar las decisiones que se discutan en el mismo.
+SEGUNDO: Designar al Subsecretario de Estado, Doctor MARCO ANTONIO FLORES BARAHONA en Representación de la Secretaría de Energía como titular para integrar el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, aprobado mediante Decreto Legislativo No. 90-2013. publicado en el Diario Oficial La Gaceta edición número 33,185 del veinticinco (25) de julio de dos mil trece (2013),como órgano de administración del mismo y en virtud de esta designación, delegarle las funciones inherentes a su representación en dicho Comité de Administración, pudiendo aprobar y tomar las decisiones que se discutan en el mismo.
 
 TERCERO: Delegar al Subsecretario de Estado, Doctor MARCO ANTONIO FLORES BARAHONA el conocimiento, control y seguimiento, de todos los expedientes relacionados a la exploración y explotación de hidrocarburos remitidos a la Secretaría de Energía con procedencia de la Secretaría de Recursos Naturales y Ambiente.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 84"
 sumario: "Decretos Nos. 14-2024, 21-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240229-36473/download"
 extraido: "2026-11-14"
-huella: "7065e926c41cff6c"
+huella: "dd71e37372c532b0"
 ---
 <!-- portal:inicio -->
 # DECRETO No.14-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que para enfrentar la situación de pobreza y desigualdad es impre
 
 CONSIDERANDO: Que la información generada del Censo Nacional de Población y Vivienda beneficiará a los gobiernos a nivel central y municipal, Organismos Internacionales, Organizaciones No Gubernamentales (ONG), Academia, Sociedad Civil Organizada y Empresa Privada; debido a que los datos que se levantarán les servirán para el diseño, aplicación y monitoreo de políticas públicas en beneficio de distintos sectores del conglomerado nacional.
 
-CONSIDERANDO: Que el Poder Ejecutivo autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) la suscripción con el Banco Interamericano de Desarrollo (BID) del Contrato de Préstamo No.5832/BL-HO, aprobado en fecha 15 de Diciembre de 2023 con el Banco interamericano de Desarrollo (BID), por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00) para desarrollar el Programa de Apoyo al Censo de Población y Vivienda y Fortalecimiento del Sistema Estadístico Nacional, a través del cual se espera: mejorar la calidad de la información estadística oficial en términos de relevancia, oportunidad, confiabilidad y accesibilidad; y fortalecer la institucionalidad del Instituto Nacional de Estadística (INE).
+CONSIDERANDO: Que el Poder Ejecutivo autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) la suscripción con el Banco Interamericano de Desarrollo (BID) del Contrato de Préstamo No. 5832/BL-HO, aprobado en fecha 15 de Diciembre de 2023 con el Banco interamericano de Desarrollo (BID), por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000,000.00) para desarrollar el Programa de Apoyo al Censo de Población y Vivienda y Fortalecimiento del Sistema Estadístico Nacional, a través del cual se espera: mejorar la calidad de la información estadística oficial en términos de relevancia, oportunidad, confiabilidad y accesibilidad; y fortalecer la institucionalidad del Instituto Nacional de Estadística (INE).
 
 CONSIDERANDO: Que la Ley de Contratación del Estado en su Artículo 13 establece que los contratos que contemplen exoneraciones, incentivos o concesiones fiscales, requerirán aprobación del Congreso Nacional, este requisito deberá cumplirse especialmente, cuando se trate de contratos que hayan de producir o prolongar sus efectos al siguiente período de Gobierno.
 
@@ -51,23 +51,21 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.5832/BL-HO, ENTRE EL BANCO INTERAMERICANO DE DESARROLLO (BID), EN SU CONDICIÓN DE PRESTAMISTA Y E L G O B I E R N O D E L A REPÚBLICA DE HONDURAS, EN SU CONDICIÓN DE PRESTATARIO DEL FINANCIAMIENTO, HASTA POR UN MONTO DE CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$50,000,000.00), RECURSOS DESTINADOS A LA EJECUCIÓN DEL “PROGRAMA DE APOYO AL CENSO DE POBLACIÓN Y VIVIENDA Y FORTALECIMIENTO DEL SISTEMA ESTADÍSTICO NACIONAL”, suscrito el 15 de Diciembre de 2023, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 5832/BL-HO, ENTRE EL BANCO INTERAMERICANO DE DESARROLLO (BID), EN SU CONDICIÓN DE PRESTAMISTA Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, EN SU CONDICIÓN DE PRESTATARIO DEL FINANCIAMIENTO, HASTA POR UN MONTO DE CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$50,000,000.00), RECURSOS DESTINADOS A LA EJECUCIÓN DEL “PROGRAMA DE APOYO AL CENSO DE POBLACIÓN Y VIVIENDA Y FORTALECIMIENTO DEL SISTEMA ESTADÍSTICO NACIONAL”, suscrito el 15 de Diciembre de 2023, que literalmente dice:
 
 ¨SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
-CONTRATO DE PRÉSTAMO No.
-
-5832/BL-HO. entre la REPÚBLICA DE H O N D U R A S y e l B A N C O I N T E R A M E R I C A N O D E DESARROLLO. Programa de Apoyo al Censo de Población y Vivienda y Fortalecimiento del Sistema Estadístico Nacional. 15 de diciembre de 2023.
+CONTRATO DE PRÉSTAMO No. 5832/BL-HO. entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO. Programa de Apoyo al Censo de Población y Vivienda y Fortalecimiento del Sistema Estadístico Nacional. 15 de diciembre de 2023.
 
 CONTRATO DE PRÉSTAMO.
 
 ESTIPULACIONES ESPECIALES.
 
-Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO I N T E R A M E R I C A N O D E D E S A R R O L L O , e n a d e l a n t e individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 15 de diciembre de 2023.
+Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 15 de diciembre de 2023.
 
 CAPÍTULO I. Objeto, Elementos Integrantes del Contrato y Definiciones Particulares. CLÁUSULA 1.01.
 
@@ -151,7 +149,7 @@ CLÁUSULA 4.03. Selección y contratación de servicios de consultoría. (a) Par
 
 Por debajo de dicho umbral, la lista corta podrá estar íntegramente compuesta por consultores nacionales del país del Prestatario. CLÁUSULA 4.04.
 
-A c t u a l i z a c i ó n d e l P l a n d e Adquisiciones. Para la actualización del Plan de Adquisiciones de conformidad con lo dispuesto en el Artículo 6.04(c) de las Normas Generales, el Prestatario deberá utilizar o, en su caso, hacer que el Organismo Ejecutor utilice, el sistema de ejecución y seguimiento de planes de adquisiciones que determine el Banco.
+Actualización del Plan de Adquisiciones. Para la actualización del Plan de Adquisiciones de conformidad con lo dispuesto en el Artículo 6.04(c) de las Normas Generales, el Prestatario deberá utilizar o, en su caso, hacer que el Organismo Ejecutor utilice, el sistema de ejecución y seguimiento de planes de adquisiciones que determine el Banco.
 
 CLÁUSULA 4.05. Otros documentos que rigen la ejecución del Programa.
 
@@ -213,7 +211,7 @@ Estas Normas Generales son aplicables, de manera uniforme, al financiamiento de 
 
 ARTÍCULO 1.02. Interpretación. (a) Inconsistencia. En caso de contradicción o inconsistencia entre las disposiciones de las Estipulaciones Especiales, cualquier anexo del Contrato y el o los Contratos de Garantía, si los hubiere, y estas Normas Generales, las disposiciones de aquellos prevalecerán sobre las disposiciones de estas Normas Generales.
 
-Si la contradicción o inconsistencia existiere entre disposiciones de un mismo elemento de este Contrato o entre las disposiciones de las Estipulaciones Especiales, cualquier anexo del Contrato y el o los Contratos de Garantía, si los hubiere, la disposición específica prevalecerá sobre la general. (b) Títulos y subtítulos. Cualquier título o subtítulo de los capítulos, artículos, cláusulas u otras secciones de este Contrato se incluyen sólo a manera de referencia y no deben ser tomados en cuenta en la interpretación de este Contrato. (c) Plazos. Salvo que el Contrato disponga lo contrario, los plazos de días, meses o años se entenderán de días, meses o años c a l e n d a r i o . C A P Í T U L O I I .
+Si la contradicción o inconsistencia existiere entre disposiciones de un mismo elemento de este Contrato o entre las disposiciones de las Estipulaciones Especiales, cualquier anexo del Contrato y el o los Contratos de Garantía, si los hubiere, la disposición específica prevalecerá sobre la general. (b) Títulos y subtítulos. Cualquier título o subtítulo de los capítulos, artículos, cláusulas u otras secciones de este Contrato se incluyen sólo a manera de referencia y no deben ser tomados en cuenta en la interpretación de este Contrato. (c) Plazos. Salvo que el Contrato disponga lo contrario, los plazos de días, meses o años se entenderán de días, meses o años calendario . CAPÍTULO II .
 
 Definiciones. ARTÍCULO 2.01.
 
@@ -357,7 +355,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
 Ai,j es el monto de la amortización referente al pago i del tramo j, calculado en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la tasa de cambio determinada por el Agente de Cálculo para la fecha de modificación del Cronograma de Amortización.
 
@@ -365,7 +363,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo. 113. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo. 113. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 
 CAPÍTULO III. Amortización, intereses, comisión de crédito, inspección y vigilancia y pagos anticipados. A. Financiamiento del CO Regular. ARTÍCULO 3.01. Fechas de pago de amortización, intereses, comisión de crédito y otros costos. El Financiamiento del CO Regular será amortizado de acuerdo con el Cronograma de Amortización. Los intereses y las cuotas de amortización se pagarán el día quince (15) del mes, de acuerdo con lo establecido en las Estipulaciones Especiales, en una Carta Notificación de Modificación de Cronograma de Amortización, en una Carta Notificación de Conversión o en una Carta Notificación de ejercicio de la Opción de Pago de Principal, según sea el caso. Las fechas de pagos de amortización, comisión de crédito y otros costos coincidirán siempre con una fecha de pago de intereses.
 
@@ -387,7 +385,7 @@ Modificación del Cronograma de Amortización. (a) El Prestatario, con la anuenc
 
 (i) la última fecha de amortización y la VPP acumulada de todos los Cronogramas de Amortización no excedan ni la Fecha Final de Amortización ni la VPP Original;
 
-(ii) el tramo del Financiamiento del CO Regular sujeto a un nuevo Cronograma de Amortización no sea menor al equivalente de tres millones de Dólares (US$3.000.000); y (iii) el tramo del Financiamiento del CO Regular sujeto a la modificación del Cronograma de Amortización no haya sido objeto de una modificación anterior salvo que la nueva modificación al Cronograma de Amortización sea resultado del ejercicio de la Opción de Pago de Principal, una Conversión de Moneda o una Conversión de Tasa de Interés. (d) E l B a n c o notificará al Prestatario su decisión mediante una Carta Notificación de Modificación de Cronograma de Amortización. Si el Banco acepta la solicitud del Prestatario, la Carta Notificación de Modificación del Cronograma de Amortización incluirá:
+(ii) el tramo del Financiamiento del CO Regular sujeto a un nuevo Cronograma de Amortización no sea menor al equivalente de tres millones de Dólares (US$3.000.000); y (iii) el tramo del Financiamiento del CO Regular sujeto a la modificación del Cronograma de Amortización no haya sido objeto de una modificación anterior salvo que la nueva modificación al Cronograma de Amortización sea resultado del ejercicio de la Opción de Pago de Principal, una Conversión de Moneda o una Conversión de Tasa de Interés. (d) El Banco notificará al Prestatario su decisión mediante una Carta Notificación de Modificación de Cronograma de Amortización. Si el Banco acepta la solicitud del Prestatario, la Carta Notificación de Modificación del Cronograma de Amortización incluirá:
 
 (i) el nuevo Cronograma de Amortización correspondiente al Financiamiento del CO Regular o tramo del mismo; (ii) la VPP acumulada del Préstamo; y (iii) la fecha efectiva del nuevo Cronograma de Amortización. (e) El Financiamiento del CO Regular no podrá tener más de cuatro
 
@@ -573,7 +571,7 @@ Pagos de cuotas de amortización e intereses en caso de Conversión de Moneda. D
 
 Terminación anticipada de una Conversión. (a) El Prestatario podrá solicitar por escrito la terminación anticipada de una Conversión la cual estará sujeta a que el Banco pueda terminar, según corresponda, su captación de financiamiento correspondiente, la cobertura relacionada o cualquier transacción en los mercados financieros.
 
-(b) En el caso de una terminación anticipada de Conversiones, con excepción de las Conversiones de Protección contra Catástrofes, el Prestatario recibirá del Banco o, alternativamente, le pagará al Banco, según sea el caso, cualquier ganancia, incluido cualquier pago resultante de la terminación anticipada de una cobertura de productos básicos, o costo incurrido por el Banco por revertir o reasignar su c a p t a c i ó n d e f i n a n c i a m i e n t o correspondiente o cualquier cobertura relacionada, según lo determine el Agente de Cálculo. Si se tratase de un costo, el Prestatario pagará prontamente el monto correspondiente al Banco. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario al Banco por concepto de, entre otros, comisiones o primas adeudadas. (c) En el caso de terminación anticipada de una Conversión de Protección contra Catástrofes, el Prestatario pagará al Banco cualquiera de los costos incurridos por el Banco como resultado de dicha terminación, según lo determine el Banco. El Prestatario pagará estos costos de terminación anticipada al Banco en Dólares, como un único pago, prontamente una vez ocurrida la terminación. ARTÍCULO 5.07.
+(b) En el caso de una terminación anticipada de Conversiones, con excepción de las Conversiones de Protección contra Catástrofes, el Prestatario recibirá del Banco o, alternativamente, le pagará al Banco, según sea el caso, cualquier ganancia, incluido cualquier pago resultante de la terminación anticipada de una cobertura de productos básicos, o costo incurrido por el Banco por revertir o reasignar su captación de financiamiento correspondiente o cualquier cobertura relacionada, según lo determine el Agente de Cálculo. Si se tratase de un costo, el Prestatario pagará prontamente el monto correspondiente al Banco. Si se tratase de ganancia, la misma se aplicará, en primer lugar, a cualquier monto vencido pendiente de pago por el Prestatario al Banco por concepto de, entre otros, comisiones o primas adeudadas. (c) En el caso de terminación anticipada de una Conversión de Protección contra Catástrofes, el Prestatario pagará al Banco cualquiera de los costos incurridos por el Banco como resultado de dicha terminación, según lo determine el Banco. El Prestatario pagará estos costos de terminación anticipada al Banco en Dólares, como un único pago, prontamente una vez ocurrida la terminación. ARTÍCULO 5.07.
 
 Comisiones de transacción aplicables a Conversiones. (a) Las comisiones de transacción aplicables a las Conversiones, así como otras comisiones, según sea el caso, efectuadas bajo este Contrato serán las que el Banco deter mine periódicamente. Cada Carta Notificación de Conversión indicará, si la hubiere, la comisión que el Prestatario estará obligado a pagar al Banco en relación con la ejecución de la respectiva Conversión, la cual se mantendrá vigente durante el Plazo de Conversión de dicha Conversión. (b) La comisión de transacción aplicable a una Conversión de Moneda: (i) será expresada en forma de puntos básicos por año; (ii) se devengará en la Moneda Convertida desde la Fecha de Conversión (inclusive) sobre el Saldo Deudor de dicha Conversión de Moneda; y, (iii) se pagará junto con cada pago de intereses de acuerdo con lo establecido en el
 
@@ -629,7 +627,7 @@ Cada Conversión de Productos Básicos se ejecutará de acuerdo con los siguient
 
 (i) el exceso del Precio de Ejercicio sobre el Precio Especificado multiplicado por
 
-(ii) la Cantidad Nocional de dicha Opción de Producto Básico. De lo contrario, el “Monto de Liquidación en Efectivo” para dicha Opción de Venta de Productos Básicos será cero. (d) En caso de que la Conversión de Productos Básicos se refiera a un Tipo de Opción binaria, el “Monto de Liquidación en Efectivo” se determinará con base en una fórmula a ser especificada en la Carta N o t i f i c a c i ó n d e C o n v e r s i ó n (Artículo 5.01(b)(iv)(I) de estas Normas Generales). (e) En la Fecha de Vencimiento de Conversión de Productos Básicos, el Banco determinará y notificará al Prestatario el Monto de Liquidación en Efectivo. Si el Monto de Liquidación en Efectivo es mayor a cero, el Banco pagará dicho monto al Prestatario en la Fecha de Liquidación de la Conversión de Productos Básicos.
+(ii) la Cantidad Nocional de dicha Opción de Producto Básico. De lo contrario, el “Monto de Liquidación en Efectivo” para dicha Opción de Venta de Productos Básicos será cero. (d) En caso de que la Conversión de Productos Básicos se refiera a un Tipo de Opción binaria, el “Monto de Liquidación en Efectivo” se determinará con base en una fórmula a ser especificada en la Carta Notificación de Conversión (Artículo 5.01(b)(iv)(I) de estas Normas Generales). (e) En la Fecha de Vencimiento de Conversión de Productos Básicos, el Banco determinará y notificará al Prestatario el Monto de Liquidación en Efectivo. Si el Monto de Liquidación en Efectivo es mayor a cero, el Banco pagará dicho monto al Prestatario en la Fecha de Liquidación de la Conversión de Productos Básicos.
 
 En el caso de que un préstamo otorgado al Prestatario, o garantizado por el Prestatario, esté atrasado por más de treinta (30) días, el Banco podrá deducir del Monto de Liquidación en Efectivo vinculado a la Conversión de Productos Básicos todos los montos adeudados y pagaderos por el Prestatario al Banco bajo cualquier préstamo otorgado al Prestatario, o garantizado por el Prestatario, que se encuentre atrasado por cualquier período de tiempo, ya sea por más o por menos de treinta (30) días.
 

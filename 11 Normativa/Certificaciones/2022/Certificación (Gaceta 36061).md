@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Certificación Fe de Errata"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221027-36061/download"
 extraido: "2026-11-14"
-huella: "bc9485b4b75b4840"
+huella: "4d7da16d836aae9c"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -31,7 +31,7 @@ El infrascrito, Secretario General de la Dirección General de la Marina Mercant
 
 FE DE ERRATA
 
-En la Gaceta Número 36,023 del día ocho (08) de septiembre de dos mil veintidós (2022), específicamente en la publicación del ACUERDO No. DGMM/010- 2022, que contiene la reforma de los “REQUISITOS PARA EL RECONOCIMIENTO DE CENTROS DE FORMACION MARITIMA ACORDE AL STCW 78, EN SU FORMA ENMENDADA”, en virtud que por un error en la transcripción se publicó la redacción incorrecta del artículo PRIMERO, artículo 35 y 36 de dicho acuerdo, razón por la cual se procede a la corrección y publicación íntegra de los artículos, que deberán leerse de la siguiente manera:
+En la Gaceta Número 36,023 del día ocho (08) de septiembre de dos mil veintidós (2022), específicamente en la publicación del ACUERDO No. DGMM/010-2022, que contiene la reforma de los “REQUISITOS PARA EL RECONOCIMIENTO DE CENTROS DE FORMACION MARITIMA ACORDE AL STCW 78, EN SU FORMA ENMENDADA”, en virtud que por un error en la transcripción se publicó la redacción incorrecta del artículo PRIMERO, artículo 35 y 36 de dicho acuerdo, razón por la cual se procede a la corrección y publicación íntegra de los artículos, que deberán leerse de la siguiente manera:
 
 PRIMERO. - Reformar por adición el Apéndice I del Acuerdo DGMM. No. 016-2015 de fecha 03 de junio del 2015, que aprueba los “REQUISITOS PARA EL RECONOCIMIENTO DE CENTROS DE FORMACIÓN MARÍTIMA ACORDE AL STCW 78, EN SU FORMA ENMENDADA”, publicado en el Diario Oficial “La Gaceta” 33,759 de fecha 18 de junio de 2015 de la siguiente forma: “25. La Dirección General de la Marina Mercante, únicamente autorizará los Centros de Formación Marítima que sean de interés geográfico para esta Autoridad Marítima”. SEGUNDO. - Se abrogan y derogan todas las disposiciones contrarias al presente acuerdo. “TERCERO. - El presente te acuerdo entrará en vigencia el día de su publicación en el Diario Oficial “La Gaceta”: Dado en la ciudad de Tegucigalpa, M.D.C., a los diecinueve (19) días del mes de octubre del dos mil veintidós (2022). PUBLÍQUESE. - Firma y Sello Edgar Isrrael Soriano Ortíz, Director General; Firma y Sello Luis Orlando Ramos Carranza, Secretario General.
 

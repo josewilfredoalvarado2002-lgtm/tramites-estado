@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo Ministerial No. SAG-189-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241107-36683/download"
 extraido: "2026-11-14"
-huella: "e0c3a89b39daec42"
+huella: "570a0ffa6df1d452"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SAG-189-2024
@@ -39,7 +39,7 @@ CONSIDERANDO (4): Que Honduras es signataria de convenios internacionales que ti
 
 CONSIDERANDO (5): Que los Estados deben aplicar el Principio Precautorio de la FAO, en la conservación, ordenación y explotación de los recursos acuáticos vivos con el fin de protegerlos y preservar el medio acuático. La falta de información científica adecuada no debería utilizarse como justificación para aplazar o dejar de tomar las medidas de conservación y gestión necesarias.
 
-CONSIDERANDO (6): Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS 557- 20), establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana.
+CONSIDERANDO (6): Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS 557-20), establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana.
 
 CONSIDERANDO (7): Que la DIGEPESCA ha venido desarrollando actividades de investigación a partir de la temporada pesquera 2014-2015 hasta la temporada 2023-2024 dirigidas al ordenamiento para el aprovechamiento sostenible del Pepino de Mar (Holothuria mexicana) en el Caribe de Honduras, las que han permitido establecer recomendaciones técnicas y científicas para la gestión de este recurso.
 
@@ -179,7 +179,7 @@ El incumplimiento de esta disposición será sancionado de acuerdo con lo establ
 
 SÉPTIMO:
 
-Las embarcaciones industriales que presentaron reportes de captura en la temporada de pesca 2023-2024, podrán renovar su licencia, bajo el cumplimiento de los requisitos descritos en el numeral Cuarto, y estará condicionada al cumplimiento y análisis exhaustivo del comportamiento de las faenas durante la temporada 2023- 2024. Es imperativo que las embarcaciones cuenten con la autorización específica para la extracción de pepino de mar, lo cual implica una evaluación minuciosa de su historial de cumplimiento normativo, la implementación de prácticas de pesca sostenible y la adherencia a los protocolos de conservación establecidos por la DIGEPESCA.
+Las embarcaciones industriales que presentaron reportes de captura en la temporada de pesca 2023-2024, podrán renovar su licencia, bajo el cumplimiento de los requisitos descritos en el numeral Cuarto, y estará condicionada al cumplimiento y análisis exhaustivo del comportamiento de las faenas durante la temporada 2023-2024. Es imperativo que las embarcaciones cuenten con la autorización específica para la extracción de pepino de mar, lo cual implica una evaluación minuciosa de su historial de cumplimiento normativo, la implementación de prácticas de pesca sostenible y la adherencia a los protocolos de conservación establecidos por la DIGEPESCA.
 
 DISPOSICIONES GENERALES PARA PESCA ARTESANAL
 
@@ -425,7 +425,7 @@ VIGÉSIMO
 
 CUARTO:
 
-Se deroga en todo y cada una de sus partes el Acuerdo Ministerial No. 165-2023 de fecha 04 de agosto del 2023 y Acuerdo Ministerial No.55-2024, de fecha 30 de enero del año 2024.
+Se deroga en todo y cada una de sus partes el Acuerdo Ministerial No. 165-2023 de fecha 04 de agosto del 2023 y Acuerdo Ministerial No. 55-2024, de fecha 30 de enero del año 2024.
 
 VIGÉSIMO
 

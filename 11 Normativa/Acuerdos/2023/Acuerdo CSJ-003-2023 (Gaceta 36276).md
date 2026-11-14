@@ -8,10 +8,10 @@ gaceta_numero: 36276
 gaceta_fecha: "2023-07-08"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36276 (2023-07-08)|La Gaceta 36276]]"
 paginas: "A. 1 - 5"
-sumario: "Acuerdo No. CSJ-003-2023INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAHCertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICFAcuerdo No. 010-2023"
+sumario: "Acuerdo No. CSJ-003-2023; INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAH: CertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICF: Acuerdo No. 010-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230708-36276/download"
 extraido: "2026-11-14"
-huella: "1a54a1057545b44d"
+huella: "7bb0194a0162b08f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-003-2023
@@ -23,7 +23,7 @@ huella: "1a54a1057545b44d"
 | Emisor | PODER JUDICIAL |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36276 (2023-07-08)\|La Gaceta 36276]] del 2023-07-08 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Acuerdo No. CSJ-003-2023INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAHCertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICFAcuerdo No. 010-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. CSJ-003-2023; INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAH: CertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICF: Acuerdo No. 010-2023 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ Considerando (4): El Poder Judicial históricamente ha utilizado un logotipo ins
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos: 313 numeral 1 de la Constitución de la República, reformado mediante Decreto Legislativo No. 282-2010, ratificado mediante Decreto Legislativo No. 5-2011; y, 3 transitorio de los Decretos mencionados:
 
-A c u e r d a Primero: Derogar el Acuerdo número 03-2012 de fecha 21 de septiembre del año 2012, publicado en el Diario Oficial La Gaceta Número 33,004.
+Acuerda Primero: Derogar el Acuerdo número 03-2012 de fecha 21 de septiembre del año 2012, publicado en el Diario Oficial La Gaceta Número 33,004.
 
 Segundo: Considerando que el Pleno de Magistrados de la Corte Suprema de Justicia aprobó el MANUAL DE IDENTIDAD MARCA en su sesión del día 09 de mayo de 2023, en Acta número nueve (09), punto número cuatro (04), que contiene las especificaciones y diversas modalidades del uso de logotipo institucional, el mismo debe considerarse como parte integral del presente Acuerdo, debiendo divulgarse suficientemente para el conocimiento y obligatorio cumplimiento en su política de uso por parte de las y los Servidores Judiciales.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 04-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250118-36743/download"
 extraido: "2026-11-13"
-huella: "2d69fc44b1edf27d"
+huella: "9b82d3b7e8b8d4d1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 04-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública dispone que la P
 
 CONSIDERANDO: Que la tendencia de los precios en el mercado internacional de los combustibles regular y diésel, se mantienen al alza como producto de los escenarios internacionales que definen los mismos; y, siendo estos combustibles productos esenciales que inciden directamente en la economía de los hogares hondureños, por ser los combustibles más utilizados en los vehículos de trabajo y transporte, es imperativo tomar medidas extraordinarias para ayudar a la recuperación económica y a la mitigación del impacto negativo en la población hondureña.
 
-CONSIDERANDO: Que la Ley de Ordenamiento de las Finanzas Públicas, Control de Exoneraciones y Medidas Antievasión comprendida en el Decreto Legislativo No. 278- 2013 y publicada en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, en su edición número 33,316, faculta a las Instituciones del Poder Ejecutivo que otorgan subsidios para que implementen los mecanismos necesarios para la focalización de éstos en los beneficiarios (artículo 31).
+CONSIDERANDO: Que la Ley de Ordenamiento de las Finanzas Públicas, Control de Exoneraciones y Medidas Antievasión comprendida en el Decreto Legislativo No. 278-2013 y publicada en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, en su edición número 33,316, faculta a las Instituciones del Poder Ejecutivo que otorgan subsidios para que implementen los mecanismos necesarios para la focalización de éstos en los beneficiarios (artículo 31).
 
 POR TANTO, En el ejercicio de las atribuciones que le confieren los artículos 59, 235, 245 numerales 2), 11), 19) y 20); 247, 328 y 333 de la Constitución de la República; artículos 11, 22 numeral 5), 116, 117 y 119 de la Ley General de la Administración Pública; artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de Exoneraciones y Medidas Antievasión; y, demás aplicables.
 

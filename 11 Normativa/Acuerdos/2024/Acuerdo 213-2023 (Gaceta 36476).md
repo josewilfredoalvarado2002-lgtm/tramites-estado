@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo No. 213-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240304-36476/download"
 extraido: "2026-11-14"
-huella: "847a1f05a1442fa6"
+huella: "ff08d82f3fea464c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 213-2023
@@ -29,7 +29,7 @@ huella: "847a1f05a1442fa6"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que mediante Decreto legislativo 51- 2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
+CONSIDERANDO: Que mediante Decreto legislativo 51-2011, se creó el Consejo Nacional de Inversiones (CNI) como ente desconcentrado del Poder Ejecutivo, “con personalidad jurídica y patrimonio propio”.
 
 CONSIDERANDO: Que de Acuerdo al artículo 11 de la Ley General de la Administración Pública, la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada”.
 

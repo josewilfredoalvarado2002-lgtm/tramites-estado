@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Resolución No 5-2026-PLENO/CN"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260520-37146/download"
 extraido: "2026-11-09"
-huella: "354b3f651580fb91"
+huella: "bfd59ef60e65b4e3"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 5-2026-PLENO/CN
@@ -53,7 +53,7 @@ CONSIDERANDO: Que conforme al Artículo 10 de la Ley Orgánica del Poder Legisla
 
 POR TANTO, el Pleno del Congreso Nacional, en uso de las facultades que está investida y fundamentada en los artículos 1, 4, 189, 195, 196, 197, 202, 205, 209, 210, 211 y 212 de la Constitución de la República; y, en los artículos 10, 11, 12, 57, 82 y demás de la Ley Orgánica del Poder Legislativo:
 
-R E S U E L V E:
+RESUELVE:
 
 PRIMERO: Prorrogar hasta el día Lunes 25 de Mayo del año 2026, el plazo establecido para la entrega de los LISTADOS OFICIALES de los ciudadanos auto postulantes seleccionados por la COMISIÓN ESPECIAL, en virtud de que actualmente se desarrolla un proceso exhaustivo de revisión técnica, análisis integral y ponderación objetiva de los resultados obtenidos por los postulantes en cada una de las etapas del procedimiento de selección.
 

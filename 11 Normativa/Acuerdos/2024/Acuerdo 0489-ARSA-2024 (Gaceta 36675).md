@@ -8,10 +8,10 @@ gaceta_numero: 36675
 gaceta_fecha: "2024-10-29"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36675 (2024-10-29)|La Gaceta 36675]]"
 paginas: "A. 13 - 16"
-sumario: "Acuerdo Ejecutivo Número 623-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAAcuerdo Ministerial SEN-110-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdo Ministerial No. 950-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0489-ARSA-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTREAcuerdo No. 046-2024"
+sumario: "Acuerdo Ejecutivo Número 623-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA: Acuerdo Ministerial SEN-110-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdo Ministerial No. 950-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0489-ARSA-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE: Acuerdo No. 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241029-36675/download"
 extraido: "2026-11-14"
-huella: "360332612b88c8d9"
+huella: "ff7d78bc962aacbd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0489-ARSA-2024
@@ -23,7 +23,7 @@ huella: "360332612b88c8d9"
 | Emisor | Agencia de Regulación Sanitaria ARSA |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36675 (2024-10-29)\|La Gaceta 36675]] del 2024-10-29 |
 | Páginas | A. 13 - 16 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 623-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍAAcuerdo Ministerial SEN-110-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdo Ministerial No. 950-2024AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 0489-ARSA-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTREAcuerdo No. 046-2024 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 623-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA: Acuerdo Ministerial SEN-110-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdo Ministerial No. 950-2024; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 0489-ARSA-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE: Acuerdo No. 046-2024 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ huella: "360332612b88c8d9"
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano S A N T O S D O N A L D O G A R C Í A SERVELLÓN, quien posee el Documento Nacional de Identificación 0801-1964- 05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, Correcciones, Sustancias Controladas y todo lo relacionado con la competencia de la Comisionada Presidenta, desde el viernes 11 de octubre al viernes 18 de octubre del presente año (2024).
+PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN, quien posee el Documento Nacional de Identificación 0801-1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, Correcciones, Sustancias Controladas y todo lo relacionado con la competencia de la Comisionada Presidenta, desde el viernes 11 de octubre al viernes 18 de octubre del presente año (2024).
 
 SEGUNDO: El presente acuerdo es efectivo a partir del viernes 11 de octubre al viernes 18 de octubre del presente año (2024).
 
@@ -83,7 +83,7 @@ ARTÍCULO 2: EL SITIO DE IMPORTANCIA PARA LA VIDA SILVESTRE TENDRÁ EL SIGUIENTE
 
 #### Artículo 3
 
-ARTÍCULO 3: LA CORPORACIÓN MUNICIPAL DE GUALACO, EL COMITÉ DE DESARROLLO C O M U N I TA R I O L O C A L Y C U A L Q U I E R ORGANIZACIÓN INTERESADA EN EL MANEJO DEL SITIO, velarán por la conservación, protección y uso sostenible de los recursos naturales; sujetándose a las disposiciones que de manera conjunta el ICF a través de la Oficina Regional Noroccidente de Olancho y en coordinación con todos los involucrados que estimen necesario.
+ARTÍCULO 3: LA CORPORACIÓN MUNICIPAL DE GUALACO, EL COMITÉ DE DESARROLLO COMUNI TA R I O L O C A L Y C U A L Q U I E R ORGANIZACIÓN INTERESADA EN EL MANEJO DEL SITIO, velarán por la conservación, protección y uso sostenible de los recursos naturales; sujetándose a las disposiciones que de manera conjunta el ICF a través de la Oficina Regional Noroccidente de Olancho y en coordinación con todos los involucrados que estimen necesario.
 
 ARTíCULO 4: EL PRESENTE ACUERDO HA
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 14"
 sumario: "Acuerdo Ejecutivo No. 005-2017"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211218-35801/download"
 extraido: "2026-11-14"
-huella: "8829cdacdf4b73dc"
+huella: "43667fd99ef2f2ff"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 005-2017
@@ -47,7 +47,7 @@ CONSIDERANDO: Que corresponde a la Secretaría de Estado en el Despacho de Salud
 
 POR TANTO: En aplicación de las disposiciones establecidas en los artículos 59, 65, 145, 245 numerales 1, 2, 11, 29 reformado, 45, 248, párrafo primero de la Constitución de la República; 7, 11, 33, 36 numerales 1), 2), 5) y 21), 116, 118 y 122 de la Ley General de la Administración Pública;
 
-1, 2, 3, 6, 7, 16, 23 y 67 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; 1, 2, 3, 4, 6, 8, 9, 223 y 238 del Código de Salud; 50 de la Ley Marco de Protección Social; acuerdo de nombramiento No.09-2017 de fecha 02 de enero de 2017.
+1, 2, 3, 6, 7, 16, 23 y 67 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; 1, 2, 3, 4, 6, 8, 9, 223 y 238 del Código de Salud; 50 de la Ley Marco de Protección Social; acuerdo de nombramiento No. 09-2017 de fecha 02 de enero de 2017.
 
 ACUERDA
 
@@ -281,7 +281,7 @@ Artículo 26.- La División Técnica que contará con un jefe responsable de la 
 
 \19) Las demás que señale el Director General relacionadas con este Instituto.
 
-C A P Í T U L O VIII
+CAPÍTULO VIII
 
 DE LA DIVISION DE ORGANISMOS PRlVADOS
 
@@ -437,7 +437,7 @@ CAPÍTULO III DE LAS SANCIONES
 
 #### Artículo 34
 
-Artículo 34.- El INADI impondrá medidas correctivas a las personas naturales y jurídicas por las infracciones que cometan contra la Ley y este Reglamento :
+Artículo 34.- El INADI impondrá medidas correctivas a las personas naturales y jurídicas por las infracciones que cometan contra la Ley y este Reglamento:
 
 \1) Amonestación verbal mencionando las medidas correctivas, cuando se trate de infracción simple o leve por primera vez.
 

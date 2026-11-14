@@ -11,7 +11,7 @@ paginas: "A. 21 - 25"
 sumario: "Decreto No. 48-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210705-35647/download"
 extraido: "2026-11-14"
-huella: "aab8c9672f659cf1"
+huella: "aef1c170512fbfff"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente, LEY DE FOMENTO PARA LA EXPLOTACIÓN DE RUTAS DE TRANSPORTE AÉREO DE BAJO COSTO
 

@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Ejecutivos Nos. 21-2025, 64-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250619-36868/download"
 extraido: "2026-11-10"
-huella: "149dcb45d82336a3"
+huella: "0e63ce1af01bc6bf"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 21-2025
@@ -29,13 +29,9 @@ huella: "149dcb45d82336a3"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 179-2024 de fecha ocho de agosto del dos mil veinticuatro, se nombró a la ciudadana Kenia Carolina Irías Guzmán, como Representante del Poder Ejecutivo en el Mecanismo Nacional de Prevención Contra la Tortura y Otros Tratos Crueles e Inhumanos o Degradantes (MNP-CONAPREV).
 
-179-2024 de fecha ocho de agosto del dos mil veinticuatro, se nombró a la ciudadana Kenia Carolina Irías Guzmán, como Representante del Poder Ejecutivo en el Mecanismo Nacional de Prevención Contra la Tortura y Otros Tratos Crueles e Inhumanos o Degradantes (MNP-CONAPREV).
-
-CONSIDERANDO: Que el Artículo No. 8 del Decreto No.
-
-136-2008 que contiene la Ley de CONAPREV, establece la Integración del Comité Nacional, conforme a lo establecido en el Protocolo Facultativo en referencia a la independencia de este organismo, el Comité Nacional estará integrado por tres (3) expertos(as), quienes durarán en funciones (3) años, prorrogables por una sola vez, los que serán designados de la manera siguiente: Uno (a) por el Poder Ejecutivo; uno (a) por el Congreso Nacional; y, Uno (a) por las Organizaciones de la Sociedad Civil que trabajan en prevención de la tortura y la rehabilitación y reinserción de las personas privadas de libertad.
+CONSIDERANDO: Que el Artículo No. 8 del Decreto No. 136-2008 que contiene la Ley de CONAPREV, establece la Integración del Comité Nacional, conforme a lo establecido en el Protocolo Facultativo en referencia a la independencia de este organismo, el Comité Nacional estará integrado por tres (3) expertos(as), quienes durarán en funciones (3) años, prorrogables por una sola vez, los que serán designados de la manera siguiente: Uno (a) por el Poder Ejecutivo; uno (a) por el Congreso Nacional; y, Uno (a) por las Organizaciones de la Sociedad Civil que trabajan en prevención de la tortura y la rehabilitación y reinserción de las personas privadas de libertad.
 
 POR TANTO:
 

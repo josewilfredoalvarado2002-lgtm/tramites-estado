@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto No. 135-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201216-35461/download"
 extraido: "2026-11-14"
-huella: "b2ef4d53f62f652d"
+huella: "3d91dccdb7cd0108"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 135-2020
@@ -29,7 +29,7 @@ huella: "b2ef4d53f62f652d"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante el Decreto No.238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta” el 2 de Abril 2013, en la Edición No.33,088, el Congreso Nacional aprobó la Ley General de Minería, la cual tiene como objeto normar las actividades mineras y metalúrgicas en el país.
+CONSIDERANDO: Que mediante el Decreto No. 238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta” el 2 de Abril 2013, en la Edición No. 33,088, el Congreso Nacional aprobó la Ley General de Minería, la cual tiene como objeto normar las actividades mineras y metalúrgicas en el país.
 
 CONSIDERANDO: Que la Ley General de Minería, establece que el Estado de Honduras ejerce dominio inminente, inalienable e imprescriptible sobre todos los recursos minerales que se encuentren en el territorio nacional, debiendo establecer las bases para su aprovechamiento a los particulares de acuerdo al interés social.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 8, 56-A y 90 de la LEY GENERAL DE MINERÍA, contenida en el Decreto No.238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta”, en fecha 2 de Abril del año 2013, Edición No.33,088, reformado mediante Decreto No.109-2019 de fecha 26 de Septiembre de 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Noviembre del año 2019, mismos que a partir de la fecha se leen de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 8, 56-A y 90 de la LEY GENERAL DE MINERÍA, contenida en el Decreto No. 238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta”, en fecha 2 de Abril del año 2013, Edición No. 33,088, reformado mediante Decreto No. 109-2019 de fecha 26 de Septiembre de 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Noviembre del año 2019, mismos que a partir de la fecha se leen de la manera siguiente:
 
 “ARTÍCULO 8.- Según su actividad, las Concesiones Mineras pueden ser de Exploración, Explotación y/o Beneficio; y a su vez, de acuerdo con la sustancia de interés éstas pueden ser metálicas, no metálicas, de gemas o piedras preciosas y agregados pétreos.
 
@@ -95,7 +95,7 @@ En ambos casos… En la Pequeña…”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar el ARTÍCULO 76-D, a la LEY GENERAL DE MINERÍA, contenida en el Decreto No.238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta”, en fecha 2 de Abril del año 2013, Edición No.33,088, reformado mediante Decreto No.109-2019 de fecha 26 de Septiembre de 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Noviembre del año 2019, el que de ahora en adelante se leerá de la forma siguiente:
+ARTÍCULO 2.- Adicionar el ARTÍCULO 76-D, a la LEY GENERAL DE MINERÍA, contenida en el Decreto No. 238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta”, en fecha 2 de Abril del año 2013, Edición No. 33,088, reformado mediante Decreto No. 109-2019 de fecha 26 de Septiembre de 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Noviembre del año 2019, el que de ahora en adelante se leerá de la forma siguiente:
 
 “ARTÍCULO 76-D.- INCENTIVOS A LA EXPORTACIÓN DE AGREGADOS
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 48"
 sumario: "Decretos Nos. 148-2020, 151-2020, 152-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201117-35432/download"
 extraido: "2026-11-14"
-huella: "01034aeb6d427ec8"
+huella: "d372e8894d1d1ffc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 151-2020
@@ -29,7 +29,7 @@ huella: "01034aeb6d427ec8"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2251, suscrito el 9 de Octubre de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de DOSCIENTOS CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$250,000,000.00), está destinado a financiar la ejecución del “Programa de Apoyo a la Implementación de la Ley General de la Industria Eléctrica (LGIE) en Honduras”.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2251, suscrito el 9 de Octubre de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de DOSCIENTOS CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$250,000,000.00), está destinado a financiar la ejecución del “Programa de Apoyo a la Implementación de la Ley General de la Industria Eléctrica (LGIE) en Honduras”.
 
 CONSIDERANDO: Que el programa tiene como objetivo contribuir a sentar las bases para avanzar en el mediano y largo plazo con el saneamiento financiero del subsector eléctrico y sus implicaciones en la posición fiscal del país, para continuar trabajando hacia un crecimiento económico inclusivo y sostenible manteniendo la estabilidad macroeconómica.
 
@@ -41,9 +41,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.
-
-2251, suscrito el 9 de Octubre de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario, del financiamiento de hasta un monto de DOSCIENTOS CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$250,000,000.00), recursos destinados a financiar la ejecución del “PROGRAMA DE APOYO A LA IMPLEMENTACIÓN DE LA LEY GENERAL DE LA INDUSTRIA ELÉCTRICA (LGIE) EN HONDURAS”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 2251, suscrito el 9 de Octubre de 2020 entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario, del financiamiento de hasta un monto de DOSCIENTOS CINCUENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$250,000,000.00), recursos destinados a financiar la ejecución del “PROGRAMA DE APOYO A LA IMPLEMENTACIÓN DE LA LEY GENERAL DE LA INDUSTRIA ELÉCTRICA (LGIE) EN HONDURAS”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -283,7 +281,7 @@ ECONÓMICA (BCIE) y la
 
 REPÚBLICA DE HONDURAS COMPARECENCIA DE LAS PARTES
 
-En la ciudad de Tegucigalpa, República de Honduras, a los nueve días del mes de octubre del año dos mil veinte; DE UNA PARTE: EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968- 02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1° de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por el señor Marco Antonio Midence Milla, mayor de edad, casado, hondureño, Abogado en Administración Pública, con Tarjeta de Identidad No. 0101-1984-03401, actuando en su condición de Secretario de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
+En la ciudad de Tegucigalpa, República de Honduras, a los nueve días del mes de octubre del año dos mil veinte; DE UNA PARTE: EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1° de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por el señor Marco Antonio Midence Milla, mayor de edad, casado, hondureño, Abogado en Administración Pública, con Tarjeta de Identidad No. 0101-1984-03401, actuando en su condición de Secretario de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -937,7 +935,7 @@ Cargo:
 
 3 Incluir únicamente cuando la modalidad del desembolso es pago directo a terceros.
 
-ANEXO C – FORMATO DE CERTIFICACIÓN DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$______________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO C – FORMATO DE CERTIFICACIÓN DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$______________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 
@@ -1399,7 +1397,7 @@ ANEXO K – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 

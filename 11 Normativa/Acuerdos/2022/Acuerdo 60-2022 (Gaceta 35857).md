@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo Ministerial No. 60-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220224-35857/download"
 extraido: "2026-11-14"
-huella: "0b38d58235909706"
+huella: "56abf744b166baf8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 60-2022
@@ -29,9 +29,7 @@ huella: "0b38d58235909706"
 
 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN
 
-CONSIDERANDO. Que mediante Decreto Legislativo No.83-2004 de fecha 28 de mayo de 2004, se aprobó la Ley Orgánica de Presupuesto y a través del Acuerdo Ejecutivo No.
-
-0419 de fecha 10 de mayo de 2005, se aprobó el Reglamento de Ejecución de dicha Ley Orgánica.
+CONSIDERANDO. Que mediante Decreto Legislativo No. 83-2004 de fecha 28 de mayo de 2004, se aprobó la Ley Orgánica de Presupuesto y a través del Acuerdo Ejecutivo No. 0419 de fecha 10 de mayo de 2005, se aprobó el Reglamento de Ejecución de dicha Ley Orgánica.
 
 CONSIDERANDO: Que el Artículo 37 numeral 3 de la Ley Orgánica de Presupuesto, señala que corresponde a las Secretarios de Estado por medio de sus titulares o sus subs­ titutos legales autorizar las transferencias fondos presupues­ tarios entre objetos específicos del gasto o entre categorías de un mismo programa siguiendo el procedimiento que al efecto establece, la Secretaría de Estado en los Despachos de Finanzas.
 

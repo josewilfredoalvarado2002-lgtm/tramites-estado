@@ -11,7 +11,7 @@ paginas: "A. 8 - 25"
 sumario: "Decretos Nos. 97-2024, 100-2024, 101-2024, 111-2024, 112-2024, 113-2024, 115-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250127-36750/download"
 extraido: "2026-11-13"
-huella: "08e4254ff8e3446c"
+huella: "76ad27dc5d9c390c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 101-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para e
 
 CONSIDERANDO: Que la exoneración contenido en este Decreto permite a diversas Municipalidades del país, contar con un equipo pesado para trabajo que vendrá a beneficiar directamente a su población, permitiendo el flujo de la actividad económica en cada una de las colonias, barrios, aldeas y caseríos de los municipios beneficiados, en pro de ejercer las acciones que fomenten las políticas públicas que contribuyan al desarrollo humano y bienestar de su población local; así como al desarrollo económico y social, en el cual la apertura de brechas de caminos, el mantenimiento de vías municipales, regionales, la construcción de obras de servicios comunitario y la atención de emergencias usualmente provocadas por fenómenos naturales son esenciales para el desarrollo y el bien común de sus habitantes.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No.170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que la “Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No. 170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que la “Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
 CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la República, establece que es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

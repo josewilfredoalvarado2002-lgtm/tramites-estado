@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ministeriales Nos. 066-2021, 067-2021, 070-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210330-35559/download"
 extraido: "2026-11-14"
-huella: "fee1a25e8a8022cd"
+huella: "2ee7a6c5e2e8e47c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 070-2021
@@ -45,7 +45,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 066- 2018, en el que se nombró funcionalmente al Ingeniero JOSE ANTONIO MARTINEZ, en el puesto de funcionalmente como Coordinador del Sistema Nacional de la Calidad.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 066-2018, en el que se nombró funcionalmente al Ingeniero JOSE ANTONIO MARTINEZ, en el puesto de funcionalmente como Coordinador del Sistema Nacional de la Calidad.
 
 SEGUNDO: Delegar funcionalmente como encargada del Sistema Nacional de la Calidad a la Licenciada ERICA EDITH DOBLADO ORDOÑEZ, dicha delegación comprende la firma de todo lo relacionado con el desempeño de su cargo
 

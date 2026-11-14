@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ministeriales Nos.640-2022, 641-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220613-35948/download"
 extraido: "2026-11-14"
-huella: "bce5ccc0ad387a77"
+huella: "3e98b4511b986449"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 640-2022
@@ -35,13 +35,9 @@ CONSIDERANDO: Que mediante ACUERDO EJECUTIVO No. 007-2021, publicado en La Gacet
 
 (SEN) y Secretario de Estado en los Despachos de Recursos Naturales y Ambiente (Mi AMBIENTE+). Representantes Alternos: Subsecretario de Hidrocarburos de la Secretaría de Energía y Subsecretario de Ambiente de la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente. En ausencia de los Subsecretarios de Estado, serán representados por las Direcciones Generales competentes de cada Secretaría de Estado. Artículo 2.- Los nombres de los Representantes Titulares y los Representantes Alternos serán nombrados por cada una de las Secretarías de Estado…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 33-2022 de fecha veintisiete de enero del 2022 emitido por la Señora Presidenta Constitucional de la República, se nombró al Ingeniero LUCKY HALACH MEDINA ESTRADA, como Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (Mi AMBIENTE+).
 
-33-2022 de fecha veintisiete de enero del 2022 emitido por la Señora Presidenta Constitucional de la República, se nombró al Ingeniero LUCKY HALACH MEDINA ESTRADA, como Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (Mi AMBIENTE+).
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-212-2022 de fecha veintitrés de marzo del 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Licenciado MALCOLM BRYAN STUFKENS SALGADO Subsecretario de Estado en el Despacho de Ambiente, dependencia de la Secretaría de Estado en los Despacho de Recursos Naturales y Ambiente (Mi AMBIENTE+).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 212-2022 de fecha veintitrés de marzo del 2022 emitido por la Señora Presidenta Constitucional de la República se nombró al Licenciado MALCOLM BRYAN STUFKENS SALGADO Subsecretario de Estado en el Despacho de Ambiente, dependencia de la Secretaría de Estado en los Despacho de Recursos Naturales y Ambiente (Mi AMBIENTE+).
 
 CONSIDERANDO: Que la competencia es irrenunciable y se ejercerá por los órganos que la tengan atribuida por Ley, pudiendo el superior delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
@@ -53,9 +49,7 @@ En usos de las facultades de que está investido y en aplicación de los artícu
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo;
 
-Decreto Legislativo No. 90-2013; Decreto Ejecutivo No.
-
-PCM-048-2017; Acuerdo Ejecutivo 007-2021;
+Decreto Legislativo No. 90-2013; Decreto Ejecutivo No. PCM-048-2017; Acuerdo Ejecutivo 007-2021;
 
 ACUERDA:
 

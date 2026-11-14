@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210921-35724/download"
 extraido: "2026-11-14"
-huella: "3044fc068a6de1e2"
+huella: "12c0668ff50b8adf"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,13 +31,11 @@ Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y V
 
 ACUERDO NÚMERO-001-2021
 
-CONSIDERANDO: Que de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98- 2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país y especificamente en este caso los sitios forestales conocidos como: “CERRO AZUL”, “CERRO LOS MAGUELITOS”, CERRO LA CRUZ”, jurisdicción del municipio de Jano y “EL SALITRE” jurisdicción del municipio de Guata, todos del departamento de Olancho.
+CONSIDERANDO: Que de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país y especificamente en este caso los sitios forestales conocidos como: “CERRO AZUL”, “CERRO LOS MAGUELITOS”, CERRO LA CRUZ”, jurisdicción del municipio de Jano y “EL SALITRE” jurisdicción del municipio de Guata, todos del departamento de Olancho.
 
 CONSIDERANDO: Que uno de los principios básicos del Régimen Legal Forestal, Áreas Protegidas y Vida Silvestre es la regularización, el respeto y la seguridad jurídica de la inversión de la propiedad forestal estatal y la propiedad privada forestal, garantizando la posesión de los grupos campesinos, comunidades, grupos étnicos y determinando sus derechos y sus obligaciones relacionadas con la protección y el manejo sostenible de los recursos forestales.
 
-CONSIDERANDO: Que la Ley de Propiedad (Decreto No.
-
-82-2004) declara prioridad nacional la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 éstas áreas como zonas sujetas a regímenes especiales ordenando la regulación de los predios ubicados dentro de las mismas, enfatizando que le corresponde Exclusivamente al ICF, realizar los procedimientos de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
+CONSIDERANDO: Que la Ley de Propiedad (Decreto No. 82-2004) declara prioridad nacional la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 éstas áreas como zonas sujetas a regímenes especiales ordenando la regulación de los predios ubicados dentro de las mismas, enfatizando que le corresponde Exclusivamente al ICF, realizar los procedimientos de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
 
 CONSIDERANDO: Que la Ley de Reforma Agraria en su artículo 13 inciso d), dispone que los parques y bosques nacionales, las reservas forestales y las zonas protegidas y las superficies sujetas a procesos de reforestación, no se destinarán a la realización de la Reforma Agraria.
 

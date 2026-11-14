@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo CREE-058"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200608-35277/download"
 extraido: "2026-11-14"
-huella: "685a48dbf41641a2"
+huella: "cd40436a14be3bfd"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-058
@@ -31,7 +31,7 @@ Energía Eléctrica
 
 CREE
 
-ACUERDO CREE-058 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL A LOS VEINTIDÓS DÍAS DE MAYO DE DOS MIL VEINTE RESULTANDO Que la Comisión Reguladora de Energía Eléctrica (CREE) aprobó el Reglamento de Tarifas mediante Resolución CREE- 148 del 24 de junio de 2019, dicho reglamento tiene como objeto establecer las metodologías, criterios y procedimientos necesarios para el cálculo tarifario en cumplimiento de lo dispuesto en la Ley General de la Industria Eléctrica. En particular, este Reglamento establece la manera como se han de calcular los costos de generación, transmisión, operación del sistema y distribución que entran en el cálculo de las tarifas a usuarios finales y los cargos por el uso de redes.
+ACUERDO CREE-058 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA. TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL A LOS VEINTIDÓS DÍAS DE MAYO DE DOS MIL VEINTE RESULTANDO Que la Comisión Reguladora de Energía Eléctrica (CREE) aprobó el Reglamento de Tarifas mediante Resolución CREE-148 del 24 de junio de 2019, dicho reglamento tiene como objeto establecer las metodologías, criterios y procedimientos necesarios para el cálculo tarifario en cumplimiento de lo dispuesto en la Ley General de la Industria Eléctrica. En particular, este Reglamento establece la manera como se han de calcular los costos de generación, transmisión, operación del sistema y distribución que entran en el cálculo de las tarifas a usuarios finales y los cargos por el uso de redes.
 
 Que uno de los componentes para el cálculo de las tarifas es el denominado Valor Agregado de Distribución o VAD, el cual se calcula como el valor de los Costos Controlables inherentes a las actividades de distribución y comercialización, referenciado a una empresa eficiente, que corresponde ser reconocido en las tarifas y en los cargos por el uso de la red de distribución.
 
@@ -143,7 +143,7 @@ La Comisión Reguladora: A la CREE se le ha asignado la función de desarrollar 
 
 (ii) revisión y aprobación de los documentos de licitación para contratos de compra de capacidad y energía por parte de las empresas de distribución y de los contratos adjudicados; (iii) monitoreo del mercado; (iv) aprobación de los planes de expansión de transmisión; (v) establecer un esquema de calidad de servicio y estándares de desempeño para las empresas de transmisión y distribución, con sanciones o compensaciones para los usuarios; y, vi) establecer el marco regulatorio para las tarifas de electricidad, ingresos permitidos para distribución y transmisión, y cargos. El marco legal establece funciones específicas para los roles regulatorios de las tarifas de electricidad, que incluyen establecer las regulaciones y la metodología para la determinación de las tarifas de transmisión y distribución y garantizar su correcta implementación; revisión y aprobación de propuestas tarifarias por parte de compañías de transmisión y distribución; establecer parámetros clave para la fijación de precios y tarifas, como el costo de la energía no suministrada (CENS), los bloques horarios para las tarifas y la tasa de descuento permitida; y desarrollar e implementar el marco regulatorio de las tarifas (“Reglamento de Tarifas”).
 
-El Reglamento de Tarifas, que incorpora todos los elementos necesarios para la transición a un modelo que refleje los costos basados en el enfoque de “costo eficiente para entregar el servicio” para establecer las tarifas de electricidad, fue aprobado por la CREE el 24 de junio de 2019 (Resolución CREE- 148) y ha fortalecido la capacidad a nivel de institución reguladora.
+El Reglamento de Tarifas, que incorpora todos los elementos necesarios para la transición a un modelo que refleje los costos basados en el enfoque de “costo eficiente para entregar el servicio” para establecer las tarifas de electricidad, fue aprobado por la CREE el 24 de junio de 2019 (Resolución CREE-148) y ha fortalecido la capacidad a nivel de institución reguladora.
 
 De acuerdo con la Ley, los estudios para determinar el Valor Agregado de Distribución (VAD), así como la estructura tarifaria y sus mecanismos de ajuste, serán realizados por una firma consultora contratada de acuerdo con los términos de referencia preparados por la CREE (estos documentos). La empresa consultora deberá cumplir con los términos de referencia y realizar los estudios de acuerdo con sus propios criterios profesionales, con total independencia de la empresa distribuidora. La empresa distribuidora debe presentar el estudio tarifario y la estructura tarifaria preparada por la firma consultora para su aprobación por la CREE, de acuerdo con el procedimiento formal del cálculo de la tarifa descrito en el Reglamento de Tarifas.
 

@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Ejecutivos Nos. 309-2022, 311-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220506-35916/download"
 extraido: "2026-11-14"
-huella: "ddfe2965e075b2a2"
+huella: "b10475b5e05dbe7a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 309-2022
@@ -27,9 +27,7 @@ huella: "ddfe2965e075b2a2"
 
 ## Texto
 
-EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05-2022.
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05-2022.
 
 ACUERDA:
 

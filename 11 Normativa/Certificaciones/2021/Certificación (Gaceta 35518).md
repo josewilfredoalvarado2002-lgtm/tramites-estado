@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210216-35518/download"
 extraido: "2026-11-14"
-huella: "a6daa819ab958582"
+huella: "b3d82e9b3ca31f7b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -31,9 +31,7 @@ El infrascrito, Secretario General de la Secretaría de Estado en los Despachos 
 
 “RESOLUCIÓN
 
-No.
-
-525-2014.
+No. 525-2014.
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, tres de junio de dos mil catorce.
 
@@ -47,7 +45,7 @@ CONSIDERANDO: Que la JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO GÜISAYOTE DEL C
 
 CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia especifica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 116, 117 y 119 de la Ley General de la Administración Pública 4 y 5 de la Ley de Procedimiento Administrativo.
 
-CONSIDERANDO: Que el señor Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No.423- 2014 de fecha 14 de febrero de 2014, delegó en la ciudadana, KARLA EUGENIA CUEVA AGUILAR, Subsecretaria de Estado en el Despacho de Derechos Humanos y Justicia, la facultad de resolver los asuntos que se conozcan en única instancia y los recursos administrativos por medio de los cuales se impugnan sus propios actos o de sus inferiores jerárquicos en la correspondiente instancia.
+CONSIDERANDO: Que el señor Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No. 423-2014 de fecha 14 de febrero de 2014, delegó en la ciudadana, KARLA EUGENIA CUEVA AGUILAR, Subsecretaria de Estado en el Despacho de Derechos Humanos y Justicia, la facultad de resolver los asuntos que se conozcan en única instancia y los recursos administrativos por medio de los cuales se impugnan sus propios actos o de sus inferiores jerárquicos en la correspondiente instancia.
 
 POR TANTO: El Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil, 24, 25 y 83 de la Ley de Procedimiento Administrativo.
 
@@ -219,7 +217,7 @@ OCTAVO: La presente resolución deberá inscribirse en el Registro Especial del 
 
 NOVENO: Instruir a la Secretaria General para que de Oficio proceda a remitir el expediente a la Unidad de Registro y Seguimiento de Asociaciones Civiles (U.R.S.A.C.) para que emita la correspondiente inscripción.
 
-DÉCIMO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO GÜISAYOTE DEL CASCO URBANO, LA LABOR, EN EL MUNICIPIO DE LA LABOR, DEPARTAMENTO DE OCOTEPEQUE, la cual será publicada ,en el Diario Oficial “La Gaceta”, cuya petición, se hará a través de la Junta Directiva para ser proporcionado en forma gratuita, dando cumplimiento con el Artículo 18, párrafo segundo de la Ley Marco del Sector Agua Potable y Saneamiento.- Papel habilitado mediante Acuerdo Ministerial No. 421-2014 de fecha 4 de febrero de 2014. NOTIFÍQUESE. (F) KARLA EUGENIA CUEVA AGUILAR, SUBSECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS Y JUSTICIA. (F) RICARDO ALFREDO MONTES NAJERA, SECRETARIO GENERAL”.
+DÉCIMO: De oficio procédase a emitir la certificación de la presente resolución, a razón de ser entregada a la JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO GÜISAYOTE DEL CASCO URBANO, LA LABOR, EN EL MUNICIPIO DE LA LABOR, DEPARTAMENTO DE OCOTEPEQUE, la cual será publicada,en el Diario Oficial “La Gaceta”, cuya petición, se hará a través de la Junta Directiva para ser proporcionado en forma gratuita, dando cumplimiento con el Artículo 18, párrafo segundo de la Ley Marco del Sector Agua Potable y Saneamiento.- Papel habilitado mediante Acuerdo Ministerial No. 421-2014 de fecha 4 de febrero de 2014. NOTIFÍQUESE. (F) KARLA EUGENIA CUEVA AGUILAR, SUBSECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS Y JUSTICIA. (F) RICARDO ALFREDO MONTES NAJERA, SECRETARIO GENERAL”.
 
 Extendida en la ciudad de Tegucigalpa, municipio del Distrito Central a los siete días del mes de enero de dos mil veintiuno.
 

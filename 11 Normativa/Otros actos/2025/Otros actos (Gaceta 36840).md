@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos CREE-49-2025, CREE-50-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250517-36840/download"
 extraido: "2026-11-11"
-huella: "19dcf7929c539160"
+huella: "9db177e47e390884"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-49-2025, CREE-50-2025
@@ -119,7 +119,7 @@ Además, si se trata de distribuidoras que sirven sistemas aislados, deben lleva
 
 (11) de abril de dos mil veinticinco (2025), la Comisión Reguladora de Energía Eléctrica (CREE) aprobó de manera condicionada el procedimiento y fórmulas de ajuste que se aplicarán en la estructura tarifaria de la Empresa Nacional de Energía Eléctrica (ENEE), que se aplica a los usuarios finales en el municipio de Guanaja.
 
-6. Que mediante el acuerda SEGUNDO del Acuerdo CREE- 42-2025 de fecha once (11) de abril de dos mil veinticinco (2025), la Comisión Reguladora de Energía Eléctrica (CREE) indicó lo siguiente: “Instruir a la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE), para que proceda a requerir al represente o Apoderado Legal de la Secretaría de Energía, para que en su calidad de interventor realice lo siguiente: i. Presente el costo de generación previsto para el primer ajuste trimestral del 2025 y toda la documentación relacionada con las ventas de energía y los costos de generación (tanto de energía y potencia) de enero, febrero y marzo de 2025 del municipio de Guanaja, dicha información deberá de ser presentada a más tardar el 24 de abril del 2025 (…)”.
+6. Que mediante el acuerda SEGUNDO del Acuerdo CREE-42-2025 de fecha once (11) de abril de dos mil veinticinco (2025), la Comisión Reguladora de Energía Eléctrica (CREE) indicó lo siguiente: “Instruir a la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE), para que proceda a requerir al represente o Apoderado Legal de la Secretaría de Energía, para que en su calidad de interventor realice lo siguiente: i. Presente el costo de generación previsto para el primer ajuste trimestral del 2025 y toda la documentación relacionada con las ventas de energía y los costos de generación (tanto de energía y potencia) de enero, febrero y marzo de 2025 del municipio de Guanaja, dicha información deberá de ser presentada a más tardar el 24 de abril del 2025 (…)”.
 
 7. Que en fecha veintinueve (29) de abril de dos mil veinticinco (2025) la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE) en atención al requerimiento emitido por parte de la Dirección de Regulación y la Dirección de Asesoría Jurídica procedió a requerir al Representante Legal o Apoderado Legal de la Secretaría de Energía para que presentará el costo de generación previsto para el primer ajuste trimestral del 2025 y toda la documentación relacionada con las ventas de energía y los costos de generación (tanto de energía y potencia) de enero, febrero y marzo de 2025, del municipio de Guanaja.
 
@@ -141,7 +141,7 @@ Generación_LAEISZ_Dic24_Ene25_y_Feb25.
 
 12. Que mediante correo electrónico de fecha treinta (30) de abril de dos mil veinticinco (2025), la Secretaría de Energía, remite el Memorando DSG-668-04-2025 de fecha treinta (30) de abril de dos mil veinticinco (2025), mediante el cual la abogada Orestila Muñoz, Jefa de Departamento de Servicios Generales, le remite al Ing. Rolando Castillo, Gerente de Distribución, la documentación soporte correspondiente al suministro de combustible Diesel utilizados para generación de las Plantas Hibridas Solar Fotovoltaicas ubicadas en Brus Laguna y Guanaja, durante el periodo de diciembre 2024 al mes de abril 2025, a su vez detalla dicha información.
 
-13. Que mediante el acuerda primero del Acuerdo CREE-49- 2025 de fecha treinta (30) de abril de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) dispuso lo siguiente: “Modificar el acuerda primero del Acuerdo CREE-05-2025 de fecha veintisiete
+13. Que mediante el acuerda primero del Acuerdo CREE-49-2025 de fecha treinta (30) de abril de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) dispuso lo siguiente: “Modificar el acuerda primero del Acuerdo CREE-05-2025 de fecha veintisiete
 
 (27) de enero de dos mil veinticinco (2025), en el sentido de establecer nuevos valores promedios por concepto de combustible que se trasladarán en el primer ajuste tarifario de la estructura tarifaria de los usuarios finales en el municipio de Guanaja, siendo estos los siguientes:
 

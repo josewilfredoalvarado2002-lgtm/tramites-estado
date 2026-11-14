@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 8-2025, 10-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250324-36798/download"
 extraido: "2026-11-12"
-huella: "59739ee4750fba82"
+huella: "24b0639ffa161f6f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 8-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

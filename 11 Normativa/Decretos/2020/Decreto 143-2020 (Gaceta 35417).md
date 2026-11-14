@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Decretos Nos. 141-2020, 143-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201102-35417/download"
 extraido: "2026-11-14"
-huella: "7f63d69329a377e5"
+huella: "0b0c1dd9334a326e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 143-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

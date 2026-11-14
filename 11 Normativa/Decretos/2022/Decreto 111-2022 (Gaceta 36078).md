@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decretos Nos. 94-2022, 111-2022, 112-2022, 116-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221116-36078/download"
 extraido: "2026-11-14"
-huella: "6f3cd110b2dfa9d6"
+huella: "78d8ed964ad6c509"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 111-2022
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 75 numeral 4) del Decreto No.56-2019, de fecha 10 de Julio del 2019, contentivo de la LEY DEL HEROICO Y BENEMÉRITO CUERPO DE BOMBEROS DE HONDURAS, publicado en el Diario Oficial “La Gaceta” en fecha jueves 20 de Febrero del 2020, bajo la Edición No.35,180, adicionándole además un nuevo párrafo, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 75 numeral 4) del Decreto No. 56-2019, de fecha 10 de Julio del 2019, contentivo de la LEY DEL HEROICO Y BENEMÉRITO CUERPO DE BOMBEROS DE HONDURAS, publicado en el Diario Oficial “La Gaceta” en fecha jueves 20 de Febrero del 2020, bajo la Edición No. 35,180, adicionándole además un nuevo párrafo, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 75.- PATRIMONIO DEL HEROICO Y BENEMÉRITO
 
@@ -71,7 +71,7 @@ Este ingreso debe ser destinado por el Heroico Benemérito Cuerpo de Bomberos ú
 
 #### Artículo 2
 
-ARTÍCULO 2.- Dispensar a los obligados al pago establecido en el numeral 4) del Artículo 75 del Decreto Legislativo No. 56- 2019, de fecha 10 de Julio del 2019, contentivo de la LEY DEL HEROICO Y BENEMÉRITO CUERPO DE BOMBEROS DE HONDURAS, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Febrero del 2020, por el período de tiempo comprendido entre el 20 de Febrero de 2020 y el 3 de Mayo del año 2022.
+ARTÍCULO 2.- Dispensar a los obligados al pago establecido en el numeral 4) del Artículo 75 del Decreto Legislativo No. 56-2019, de fecha 10 de Julio del 2019, contentivo de la LEY DEL HEROICO Y BENEMÉRITO CUERPO DE BOMBEROS DE HONDURAS, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Febrero del 2020, por el período de tiempo comprendido entre el 20 de Febrero de 2020 y el 3 de Mayo del año 2022.
 
 A partir del 3 de Mayo del año 2022 es obligatoria la recaudación puntual de los fondos regulados en el numeral 4) del Artículo 75 del Decreto Legislativo No. 56-2019, indicado en el párrafo precedente.
 

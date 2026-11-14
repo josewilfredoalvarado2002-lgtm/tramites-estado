@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos números 793-2021, 794-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211030-35759/download"
 extraido: "2026-11-14"
-huella: "3e87b5606a9f7f16"
+huella: "f8e66b909bc051ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 793-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquel ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM- 148-2021 de fecha 19 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del treinta (30) de octubre al cuatro (04) de noviembre de dos mil veintiuno (2021); debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, formará parte de la delegación que acompañará al señor Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, a la conferencia de las Naciones Unidas sobre el Cambio Climático (COP26) y diferentes reuniones en el viaje oficial a la ciudad de Glasgow, Escocia.
+CONSIDERANDO: Que mediante Memorando DM-148-2021 de fecha 19 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del treinta (30) de octubre al cuatro (04) de noviembre de dos mil veintiuno (2021); debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, formará parte de la delegación que acompañará al señor Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, a la conferencia de las Naciones Unidas sobre el Cambio Climático (COP26) y diferentes reuniones en el viaje oficial a la ciudad de Glasgow, Escocia.
 
 POR TANTO:
 

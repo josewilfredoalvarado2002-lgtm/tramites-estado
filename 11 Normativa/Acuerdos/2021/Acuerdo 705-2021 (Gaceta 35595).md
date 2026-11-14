@@ -11,7 +11,7 @@ paginas: "A. 1 - 88"
 sumario: "Acuerdo Ministerial No. 705-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210510-35595/download"
 extraido: "2026-11-14"
-huella: "d9d441441267beb0"
+huella: "b827bf9836a96179"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 705-2021
@@ -691,11 +691,7 @@ FORESTAL de papel y Fabricación papel revestido, productos de de papel y satina
 
 014. Extracción a cielo
 
-03.MINERO de Mineral No Extracción a abierto de Metálico cielo abierto minerales no de minerales metálicos (aluvial) no metálicos (aluvial) 0811 03A011 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A012 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A013 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A014 ≥ 11,000 - > 50,000 50,000 m3/año m3/año 84 SECTOR 03.MINERO A. Explotación de Mineral No
-
-015. Explotación Explotación de minas y canteras Metálico de minas y canteras de de asbestos, feldespatos y asbestos, otros minerales. feldespatos y otros Mica, cuarzo, piedras minerales semipreciosas y preciosas y otros minerales no metálicos 85 SECTOR 03.MINERO A. Explotación de Mineral No
-
-016. Gasificación Gasificación del carbón en el sitio Metálico del carbón de extracción 86 SECTOR B. Explotación
+03.MINERO de Mineral No Extracción a abierto de Metálico cielo abierto minerales no de minerales metálicos (aluvial) no metálicos (aluvial) 0811 03A011 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A012 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A013 ≥ 11,000 - > 50,000 50,000 m3/año m3/año SC 03A014 ≥ 11,000 - > 50,000 50,000 m3/año m3/año 84 SECTOR 03.MINERO A. Explotación de Mineral No 015. Explotación Explotación de minas y canteras Metálico de minas y canteras de de asbestos, feldespatos y asbestos, otros minerales. feldespatos y otros Mica, cuarzo, piedras minerales semipreciosas y preciosas y otros minerales no metálicos 85 SECTOR 03.MINERO A. Explotación de Mineral No 016. Gasificación Gasificación del carbón en el sitio Metálico del carbón de extracción 86 SECTOR B. Explotación
 
 001. Extracción
 
@@ -1837,7 +1833,7 @@ B. Construcción
 
 014. Construcción de
 
-INFRAESTRUCTURA, Construcción marinas para CONSTRUCCIÓN Y de marinas, atracadero de VIVIENDA con área de embarcaciones almacenamie nto de hidrocarburos , que incluyen obras conexas terrestres 4520 10B011 1,500 - > 15,000 - > 50,000 - > 100,000 15,000 m2 50,000 m2 100,000 m2 m2 de de de construcci construcción construcción construcción ón del del proyecto del proyecto del proyecto proyecto SC 10B012 > 15 - 100 > 100 - > 2,000 m2 2,000 m2 m2 SC 10B013 > 15 - 100 > 100 - > 2,000 m2 2,000 m2 m2 SC 10B014 TODOS 267 SECTOR 10.
+INFRAESTRUCTURA, Construcción marinas para CONSTRUCCIÓN Y de marinas, atracadero de VIVIENDA con área de embarcaciones almacenamie nto de hidrocarburos, que incluyen obras conexas terrestres 4520 10B011 1,500 - > 15,000 - > 50,000 - > 100,000 15,000 m2 50,000 m2 100,000 m2 m2 de de de construcci construcción construcción construcción ón del del proyecto del proyecto del proyecto proyecto SC 10B012 > 15 - 100 > 100 - > 2,000 m2 2,000 m2 m2 SC 10B013 > 15 - 100 > 100 - > 2,000 m2 2,000 m2 m2 SC 10B014 TODOS 267 SECTOR 10.
 
 B. Construcción
 
@@ -1895,7 +1891,7 @@ C. Vivienda
 
 C. Vivienda
 
-002. Lotificaciones, INFRAESTRUCTURA, Lotificaciones urbanizaciones en CONSTRUCCIÓN Y , zonas rurales VIVIENDA urbanizacione s en zona rural m2 5,000 m2 10,000 m2 m2 4520, 10B024 1 - 100 m > 100 - 200 > 200 - 300 > 300 m 116 m m 4520 10C001 ≥ 15 - 100 > 100 - 200 > 200 - 500 > 500 viviendas viviendas viviendas viviendas 4520 10C002 ≥ 10 - 50 > 50 - 100 > 100 - 200 > 200 viviendas viviendas viviendas viviendas 279 SECTOR 10.
+002. Lotificaciones, INFRAESTRUCTURA, Lotificaciones urbanizaciones en CONSTRUCCIÓN Y, zonas rurales VIVIENDA urbanizacione s en zona rural m2 5,000 m2 10,000 m2 m2 4520, 10B024 1 - 100 m > 100 - 200 > 200 - 300 > 300 m 116 m m 4520 10C001 ≥ 15 - 100 > 100 - 200 > 200 - 500 > 500 viviendas viviendas viviendas viviendas 4520 10C002 ≥ 10 - 50 > 50 - 100 > 100 - 200 > 200 viviendas viviendas viviendas viviendas 279 SECTOR 10.
 
 C. Vivienda
 

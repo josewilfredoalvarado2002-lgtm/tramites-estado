@@ -8,10 +8,10 @@ gaceta_numero: 36275
 gaceta_fecha: "2023-07-07"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)|La Gaceta 36275]]"
 paginas: "A. 1 - 10"
-sumario: "Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023"
+sumario: "Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230707-36275/download"
 extraido: "2026-11-14"
-huella: "ac975d4b9476e547"
+huella: "1b424ee9a45c0c3f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-PROASOL-2023
@@ -23,7 +23,7 @@ huella: "ac975d4b9476e547"
 | Emisor | PROGRAMA DE ACCIÓN SOLIDARIA PROASOL |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)\|La Gaceta 36275]] del 2023-07-07 |
 | Páginas | A. 1 - 10 |
-| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que mediante Artículo 1 del Decreto Ejecutivo Número PCM-020-202
 
 CONSIDERANDO: Que el artículo 255 de la Constitución de la República establece que los actos administrativos de cualquier órgano del Estado que deban producir efectos jurídicos de carácter general serán publicados en el Diario Oficial La Gaceta y su validez se regulará conforme a los dispuesto en esta Constitución para la vigente de ley.
 
-CONSIDERANDO: El artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerán jerárquicamente de un órgano central, se les atribuye competencia propia, la cual ejercitan con autonomía técnica- administrativa y financiera.
+CONSIDERANDO: El artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerán jerárquicamente de un órgano central, se les atribuye competencia propia, la cual ejercitan con autonomía técnica-administrativa y financiera.
 
 CONSIDERANDO: El artículo 116 de la Ley General de la Administración Pública establece que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
@@ -51,13 +51,13 @@ CONSIDERANDO: El artículo 27 numeral 4 del Reglamento de Organización, Funcion
 
 CONSIDERANDO: Que la Presidencia de la República ha definido como uno de los pilares en el Plan de Gobierno Bicentenario para Refundar Honduras; la restitución de los derechos y protección a personas identificadas en los grupos vulnerables, con acciones articuladas, dirigidas a mejorar sus condiciones de vida, mediante intervenciones ordenadas y coordinadas.
 
-CONSIDERANDO: Que el ARTÍCULO 1.- del PCM 20- 2022 se crea el Programa de Acción Solidaria (PROASOL) como ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), con autonomía técnica-administrativa y financiera que tiene como mandato la atención social a personas encontradas en grupos vulnerables tales como: La niñez vulnerable en edad escolar, las personas en condición de indigencia viviendo en la calle, los migrantes retornados de manera forzada, las personas con discapacidad, los adultos mayores vulnerables, los desplazados y afectados por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc.; las personas con adicción a cualquier tipo de droga, las personas discriminadas y/o sin acceso a atención médica por adolecer enfermedades de efectos crónicos o contagiosos, los desplazados o víctimas de delitos producto de la violencia, personas discriminadas por pertenecer a la comunidad LGBTIQ+, las minorías étnicas discriminadas por tener raíces de pueblos originarios o afrodescendientes, los defensores de Derechos de Humanos.
+CONSIDERANDO: Que el ARTÍCULO 1.- del PCM 20-2022 se crea el Programa de Acción Solidaria (PROASOL) como ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), con autonomía técnica-administrativa y financiera que tiene como mandato la atención social a personas encontradas en grupos vulnerables tales como: La niñez vulnerable en edad escolar, las personas en condición de indigencia viviendo en la calle, los migrantes retornados de manera forzada, las personas con discapacidad, los adultos mayores vulnerables, los desplazados y afectados por desastres, riesgos de la naturaleza y/o pandemias, epidemias, etc.; las personas con adicción a cualquier tipo de droga, las personas discriminadas y/o sin acceso a atención médica por adolecer enfermedades de efectos crónicos o contagiosos, los desplazados o víctimas de delitos producto de la violencia, personas discriminadas por pertenecer a la comunidad LGBTIQ+, las minorías étnicas discriminadas por tener raíces de pueblos originarios o afrodescendientes, los defensores de Derechos de Humanos.
 
 CONSIDERANDO: El artículo 2 del Decreto Ejecutivo PCM-020-2022 establece que el Programa de Acción Solidaria (PROASOL) tiene como objetivo general: Ejecutar los programas y proyectos derivados de políticas públicas y diseñados por la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), tendientes a intervenir de manera ordenada y coordinada en las condiciones de desarrollo humano de grupos vulnerables en los ejes de:
 
 Asistencia social, fortalecimiento humano, fortalecimiento educativo y salud complementaria. Lo anterior, como resultado de la formalización de fondos provenientes de convenios, acuerdos de financiamiento externos, donaciones, convenios interinstitucionales o designación directa de los órganos de decisión por el Gobierno de la República de Honduras.
 
-CONSIDERANDO: El artículo 7 del Decreto Ejecutivo PCM- 020-2022 establece que para el desarrollo eficiente y eficaz de la entidad, los programas y proyectos podrán contener, de acuerdo al diseño previsto en sus ejes, las siguientes líneas de acción: 1) Asistencia Legal; 2) Recreación y Cultura; 3) Transferencias Monetarias; 4) Campañas de Sensibilización;
+CONSIDERANDO: El artículo 7 del Decreto Ejecutivo PCM-020-2022 establece que para el desarrollo eficiente y eficaz de la entidad, los programas y proyectos podrán contener, de acuerdo al diseño previsto en sus ejes, las siguientes líneas de acción: 1) Asistencia Legal; 2) Recreación y Cultura; 3) Transferencias Monetarias; 4) Campañas de Sensibilización;
 
 \5) Transferencias No monetarias; 6) Cursos Complementarios de Educación; 7) Innovación Digital; 8) Emprendimientos; 9) Talleres Formativos; 10) Asistencia Médica primaria; y, 11) Alimentación y Albergues.
 

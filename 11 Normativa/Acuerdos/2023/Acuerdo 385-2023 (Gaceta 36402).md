@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdos Ejecutivos Números 310-2023, 335-2023, 336-2023, 361-2023, 362-2023, 365-2023, 366-2023, Acuerdo Número 385-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231206-36402/download"
 extraido: "2026-11-14"
-huella: "c14d51354e4f24de"
+huella: "e30518c2be73fe1d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 385-2023
@@ -33,7 +33,7 @@ CONSIDERANDO (1): Que mediante Acuerdo No. 7-2022, de fecha 27 de enero del año
 
 CONSIDERANDO (2): Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
-CONSIDERANDO (3): Que los Secretarios de Estado, para el despacho de los asuntos de su competencia, serán asistidos por uno (1) o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen y tienen la atribución de conocer y resolver los asuntos competentes, de conformidad con el Decreto Ejecutivo Número PCM- 008-97, pudiendo delegar en los funcionarios o titulares el ejercicio de atribuciones específicas.
+CONSIDERANDO (3): Que los Secretarios de Estado, para el despacho de los asuntos de su competencia, serán asistidos por uno (1) o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen y tienen la atribución de conocer y resolver los asuntos competentes, de conformidad con el Decreto Ejecutivo Número PCM-008-97, pudiendo delegar en los funcionarios o titulares el ejercicio de atribuciones específicas.
 
 CONSIDERANDO (4): Que corresponde a los Secretarios de Estado emitir acuerdos y resoluciones en los asuntos de su competencia y aquellos que les delegue la Presidenta de la República, y cuidar de su ejecución.
 

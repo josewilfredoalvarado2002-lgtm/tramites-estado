@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 107-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231031-36371/download"
 extraido: "2026-11-14"
-huella: "2f700e4bafaeaf32"
+huella: "0c5f7755c2ac78aa"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 107-2023
@@ -41,13 +41,11 @@ CONSIDERANDO: Que en la reunión celebrada en fecha 24 de agosto de 2023, con la
 
 CONSIDERANDO: Que en fecha 07 de septiembre de 2023, se reunió la Comisión de Supervisión del referido Convenio, en donde la SAG y SDE, presentaron el Informe del Análisis Técnico de la Oferta y Demanda de Maíz Blanco, para recomendaciones. Con base al resultado del referido Análisis Técnico y las recomendaciones de la Comisión Supra mencionada, la SAG y SDE autorizan un Contingente de Importación de Maíz Blanco por Desabasto por la Cantidad de Once Mil Novecientas Sesenta y Cuatro Punto Noventa Toneladas Métricas (11,964.90 TM) cuya asignación es con base a las compras de la producción nacional de la cosecha 2022-2023. Realizadas por las empresas de la Industria de las Harinas de Maíz Blanco y Alimento para Consumo Humano.
 
-CONSIDERANDO: Que mediante Oficio No.1658- SAG-2023, la Secretaría de Agricultura y Ganadería remite a la Secretaría de Desarrollo Económico el Acuerdo No. SAG- 168-2023, publicado en el Diario Oficial “LA GACETA” en fecha 30 de septiembre del 2023, en el marco del Acuerdo Ejecutivo No. SA-125-2022, solicitando establecer un Contingente de Importación de Maíz Blanco por Desabasto, por la cantidad de once mil novecientas sesenta y cuatro punto noventa toneladas métricas (11,964.90 TM), clasificado en la partida arancelaria SAC-1005.90.30.00, con un DAI del cero por ciento (0%), con una vigencia comprendida del 11 de septiembre al 31 de diciembre de 2023, cuya asignación es con base a las compras de la producción nacional de la cosecha 2022-2023 realizadas por las empresas de las industrias de las Harinas de Maíz Blanco y Alimento para Consumo Humano.
+CONSIDERANDO: Que mediante Oficio No. 1658- SAG-2023, la Secretaría de Agricultura y Ganadería remite a la Secretaría de Desarrollo Económico el Acuerdo No. SAG-168-2023, publicado en el Diario Oficial “LA GACETA” en fecha 30 de septiembre del 2023, en el marco del Acuerdo Ejecutivo No. SA-125-2022, solicitando establecer un Contingente de Importación de Maíz Blanco por Desabasto, por la cantidad de once mil novecientas sesenta y cuatro punto noventa toneladas métricas (11,964.90 TM), clasificado en la partida arancelaria SAC-1005.90.30.00, con un DAI del cero por ciento (0%), con una vigencia comprendida del 11 de septiembre al 31 de diciembre de 2023, cuya asignación es con base a las compras de la producción nacional de la cosecha 2022-2023 realizadas por las empresas de las industrias de las Harinas de Maíz Blanco y Alimento para Consumo Humano.
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus facultades que esta investido en aplicación de los artículos 80, 255 y 331 de la Constitución de la República; 29 Numeral 7, 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 54 literal a) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022 y Acuerdo No.
-
-SAG-168-2023 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre de 2023.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus facultades que esta investido en aplicación de los artículos 80, 255 y 331 de la Constitución de la República; 29 Numeral 7, 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 54 literal a) del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022 y Acuerdo No. SAG-168-2023 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre de 2023.
 
 ACUERDA:
 
@@ -79,9 +77,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo Oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

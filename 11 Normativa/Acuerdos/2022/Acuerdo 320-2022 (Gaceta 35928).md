@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Decretos Nos. 320-2022, 322,2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220520-35928/download"
 extraido: "2026-11-14"
-huella: "1e3c009ba7118b53"
+huella: "e1c661a9472b9726"
 ---
 <!-- portal:inicio -->
 # ACUERDO NUMERO 320-2022
@@ -29,9 +29,7 @@ huella: "1e3c009ba7118b53"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
@@ -47,9 +45,7 @@ CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuan
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas conforme a Ley autorizará las exoneraciones, exenciones y otras franquicias fiscales otorgadas por leyes especiales presentes y futuras previo dictamen facultativo de las Secretarías de Estado y otras entidades competentes sin que estos dictámenes u opiniones tengan el carácter vinculante.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-290-2021 de fecha 20 de mayo del 2021, se nombró al ciudadano MARIO GUILLERMO VALLADARES ALCERRO, en el cargo de Subdirector de la Dirección General de Control de Franquicias Aduaneras.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 290-2021 de fecha 20 de mayo del 2021, se nombró al ciudadano MARIO GUILLERMO VALLADARES ALCERRO, en el cargo de Subdirector de la Dirección General de Control de Franquicias Aduaneras.
 
 POR TANTO:
 

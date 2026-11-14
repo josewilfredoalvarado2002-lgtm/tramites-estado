@@ -11,7 +11,7 @@ paginas: "A. 5 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210129-35501/download"
 extraido: "2026-11-14"
-huella: "90bcfe4a5b2c5c08"
+huella: "de00ead219733fe5"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-007-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2, 11 y 45 de la
 
 CONSIDERANDO: Que el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha dos (02) de noviembre del año dos mil veinte (2020), Edición No. 35,417, reformado por los Decretos Ejecutivos Números PCM-112-2020, PCM- 115-2020 y PCM-116-2020, en virtud del cual se declara Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del país, misma que tendrá vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
+CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha dos (02) de noviembre del año dos mil veinte (2020), Edición No. 35,417, reformado por los Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116-2020, en virtud del cual se declara Estado de Emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionados por la Tormenta Tropical y posible formación de Huracán “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del país, misma que tendrá vigencia hasta el treinta y uno (31) de diciembre del año dos mil veinte (2020), pudiendo prorrogarse si persisten los efectos que dieron origen a la emergencia.
 
 CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM 147-2020, se prorroga la vigencia de la declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”, hasta el treinta y uno (31) de diciembre del año dos mil veintiuno (2021), decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha dos (02) de noviembre del año dos mil veinte (2020), reformado mediante Decretos Ejecutivos número PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el Artículo 14 en el numeral 4 de la Ley General de la Admini
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 245 numerales 2, 11 y 45, 248, 252, 255, 321 y 323 de la Constitución de la República; Artículos 11, 14 numeral 4), 17, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 286-2009;
 
-Decreto Ejecutivo Número PCM-109-2020 reformado por los Decretos Ejecutivos Números PCM-112-2020, PCM-115- 2020 y PCM-116-2020; Artículo 12 del Decreto Ejecutivo Número PCM-141-2020 y Decreto Ejecutivo Número PCM- 147-2020.
+Decreto Ejecutivo Número PCM-109-2020 reformado por los Decretos Ejecutivos Números PCM-112-2020, PCM-115-2020 y PCM-116-2020; Artículo 12 del Decreto Ejecutivo Número PCM-141-2020 y Decreto Ejecutivo Número PCM-147-2020.
 
 DECRETA:
 

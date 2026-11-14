@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 011-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240507-36527/download"
 extraido: "2026-11-14"
-huella: "c1017aaeb391c4bb"
+huella: "0c3a9b2ea8352ff2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 011-2024
@@ -29,7 +29,7 @@ huella: "c1017aaeb391c4bb"
 
 EL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No. 98- 2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que dentro de las atribuciones legales del ICF se encuentran la facultad de desarrollar programas, proyectos y planes y de crear las unidades administrativas técnicas y operativas necesarias para cumplir con los objetivos y fines de Ley, siendo necesario mejorar la capacidad administrativa y técnica de la Administración Forestal del Estado.
 
@@ -51,7 +51,7 @@ Dado en la ciudad de Comayagüela, municipio del Distrito Central, a los siete d
 
 LUIS EDGARDO SOLIZ LOBO DIRECCIÓN EJECUTIVA DANIA MARÍA RAMÍREZ NÁJERA SECRETARIA GENERAL Avance Próxima Edición
 
-D E C R E T A La siguiente: LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LOS PACIENTES ONCOLÓGICOS ARTÍCULO 1.- OBJETO.- La presente Ley tienen por objeto asegurar el acceso universal e integral de la persona con cáncer, estableciendo un marco normativo y operativo para la planificación, desarrollo y ejecución de políticas públicas, programas y acciones destinados a la prevención, detección y diagnóstico temprano, tratamiento oportuno, cuidados paliativos y rehabilitación del cáncer en cualquiera de sus manifestaciones, formas o denominaciones, que propicie la reducción en la morbilidad y mortalidad. Así mismo, deberá desarrollarse campañas para promover y garantizar el acceso a la vacuna del Papiloma Humano y prevenir permanentemente el abastecimiento de esta vacuna.
+DECRETA La siguiente: LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LOS PACIENTES ONCOLÓGICOS ARTÍCULO 1.- OBJETO.- La presente Ley tienen por objeto asegurar el acceso universal e integral de la persona con cáncer, estableciendo un marco normativo y operativo para la planificación, desarrollo y ejecución de políticas públicas, programas y acciones destinados a la prevención, detección y diagnóstico temprano, tratamiento oportuno, cuidados paliativos y rehabilitación del cáncer en cualquiera de sus manifestaciones, formas o denominaciones, que propicie la reducción en la morbilidad y mortalidad. Así mismo, deberá desarrollarse campañas para promover y garantizar el acceso a la vacuna del Papiloma Humano y prevenir permanentemente el abastecimiento de esta vacuna.
 
 CENTROS DE DISTRIBUCIÓN:
 

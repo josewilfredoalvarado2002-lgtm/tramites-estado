@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 2943-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241210-36711/download"
 extraido: "2026-11-14"
-huella: "f2aeb86d19100cb3"
+huella: "3f8bed4ecb2511fc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 2943-SE-2024
@@ -57,7 +57,7 @@ En uso de las facultades que le confiere la Ley y en aplicación de las disposic
 
 Artículos 23 y 25 del Reglamento de Organización, 137, 159 del Reglamento General de la Ley Fundamental de Educación.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar los Lineamientos Generales para el cierre del año académico 2024 y apertura del año académico 2025, en los niveles de Educación Prebásica, Básica y Media, en sus diferentes modalidades de entrega, para Centros Educativos Gubernamentales y No Gubernamentales”.
 
@@ -141,7 +141,7 @@ Certificado de Calificaciones, Certificación de Estudios y Actas Finales.
 
 a) Plan de Estudio aprobado.
 
-b) Seminario Taller del Himno Nacional y la Cátedra Morazánica (Oficio Circular No. 080- DSE- 2022).
+b) Seminario Taller del Himno Nacional y la Cátedra Morazánica (Oficio Circular No. 080- DSE-2022).
 
 7. Para el período escolar del año 2025, el proceso de pre matrícula inicia en la última semana del mes de noviembre (del 25 al 29).
 

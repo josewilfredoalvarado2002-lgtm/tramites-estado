@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Acuerdos Ministeriales Nos. 117-2025, 121-2025, 122-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251227-37029/download"
 extraido: "2026-11-09"
-huella: "947887d1204763f4"
+huella: "0ee76b5fba560872"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 121-2025
@@ -39,9 +39,7 @@ CONSIDERANDO: El superior podrá delegar el ejercicio de sus funciones para asun
 
 CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para este en materia procedimental.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-07-2025 de fecha 03 de febrero del 2025, se nombró a la ciudadana FLORINDA ISABEL GALO SOSA, en el puesto de Directora Legal de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 07-2025 de fecha 03 de febrero del 2025, se nombró a la ciudadana FLORINDA ISABEL GALO SOSA, en el puesto de Directora Legal de esta Secretaría de Estado.
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 36-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240724-36594/download"
 extraido: "2026-11-14"
-huella: "79b85c2bbb75e1ec"
+huella: "b70f744da787deb0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2024
@@ -53,7 +53,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A LA SIGUIENTE:
+DECRETA LA SIGUIENTE:
 
 LEY PARA EL USO RACIONAL Y EFICIENTE DE LA ENERGÍA EN HONDURAS
 

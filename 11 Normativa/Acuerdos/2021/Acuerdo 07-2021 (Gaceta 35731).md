@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 07/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210928-35731/download"
 extraido: "2026-11-14"
-huella: "ca2d9035f061e400"
+huella: "4dcc801cbaf69663"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.07/2021.- Sesión No.3903 del 3 de junio de
@@ -43,19 +43,19 @@ Que conforme al plan de modernización del marco operacional de la política cam
 
 CONSIDERANDO:
 
-Que de acuerdo con el Calendario de Reducción del Requerimiento de Entrega de Divisas de los Agentes Cambiarios al BCH, el cual fue aprobado mediante Resolución No.176-5/2020 del 28 de mayo de 2020, se establece que para junio de 2021 se estaría eliminado el requerimiento de entrega de divisas de los agentes cambiarios a esta institución.
+Que de acuerdo con el Calendario de Reducción del Requerimiento de Entrega de Divisas de los Agentes Cambiarios al BCH, el cual fue aprobado mediante Resolución No. 176-5/2020 del 28 de mayo de 2020, se establece que para junio de 2021 se estaría eliminado el requerimiento de entrega de divisas de los agentes cambiarios a esta institución.
 
 CONSIDERANDO:
 
-Que vista la propuesta del Departa­ mento de Operaciones Cambiarias pre­ sentada al Comité de Divisas en Sesión No.04/2021 celebrada de manera vir­ tual los días 24 y 27 de mayo de 2021, dicho Comité decidió por unanimidad de votos someter a consideración del Directorio del BCH la liberalización del 20% restante de la entrega de di­ visas por parte de los bancos al BCH, llegando al 100% de la liberalización; así como liberar el 100% del traslado de divisas de las casas de cambio, y el incremento de los montos máximos de las posturas de compra en el Mercado Interbancario de Divisas (MID) y de atención diaria a los clientes.
+Que vista la propuesta del Departa­ mento de Operaciones Cambiarias pre­ sentada al Comité de Divisas en Sesión No. 04/2021 celebrada de manera vir­ tual los días 24 y 27 de mayo de 2021, dicho Comité decidió por unanimidad de votos someter a consideración del Directorio del BCH la liberalización del 20% restante de la entrega de di­ visas por parte de los bancos al BCH, llegando al 100% de la liberalización; así como liberar el 100% del traslado de divisas de las casas de cambio, y el incremento de los montos máximos de las posturas de compra en el Mercado Interbancario de Divisas (MID) y de atención diaria a los clientes.
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.06/2021, el Directorio del BCH aprobó el nuevo Reglamento para la Negociación en el Mercado Organizado de Divisas, por lo que resulta conveniente derogar el Acuerdo No.03/2021, contentivo de la Normativa Complementaria del Regla­ mento para la Negociación en el Mer­ cado Organizado de Divisas y emitir un nuevo acuerdo.
+Que mediante Acuerdo No. 06/2021, el Directorio del BCH aprobó el nuevo Reglamento para la Negociación en el Mercado Organizado de Divisas, por lo que resulta conveniente derogar el Acuerdo No. 03/2021, contentivo de la Normativa Complementaria del Regla­ mento para la Negociación en el Mer­ cado Organizado de Divisas y emitir un nuevo acuerdo.
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11) y 12) de la Ley del Sistema Financiero; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, A C U E R DA:
+Con fundamento en los artículos 342 de la Constitución de la República; 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11) y 12) de la Ley del Sistema Financiero; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, ACUER DA:
 
 I.
 
@@ -261,7 +261,7 @@ Instruir a la Secretaría del Directorio para que comunique este acuerdo a la Co
 
 III.
 
-Derogar el Acuerdo No.03/2021 del 18 de febrero de 2021, contentivo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas emitido por el Directorio del Banco Central de Honduras.
+Derogar el Acuerdo No. 03/2021 del 18 de febrero de 2021, contentivo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas emitido por el Directorio del Banco Central de Honduras.
 
 IV.
 

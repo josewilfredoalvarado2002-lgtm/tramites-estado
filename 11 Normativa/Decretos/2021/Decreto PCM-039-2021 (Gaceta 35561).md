@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-039-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210404-35561/download"
 extraido: "2026-11-14"
-huella: "9c1630ab6d88995f"
+huella: "58327c2383688ad6"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-039-2021
@@ -31,7 +31,7 @@ Sección A Decretos y Acuerdos
 
 PODER EJECUTIVO
 
-Decreto Ejecutivo número PCM-039-2021 A. 1- 7 AVANCE A. 8 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+Decreto Ejecutivo número PCM-039-2021 A. 1-7 AVANCE A. 8 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2, 7, 11 y 29 de la Constitución de la República, le corresponde al Presidente de la República entre otras Atribuciones: Dirigir la Política General del Estado y representarlo; Restringir o suspender el ejercicio de derechos, de acuerdo con el Consejo de Ministros, con sujeción a lo establecido en esta Constitución; emitir Acuerdos, Decretos, expedir Reglamentos y Resoluciones conforme a la Ley; y, adoptar las medidas de promoción, prevención, recuperación y rehabilitación de la salud de los habitantes.
 
@@ -61,7 +61,7 @@ Convención Americana Sobre Derechos Humanos: Artículo 27; Pacto Internacional 
 
 #### Artículo 4
 
-Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33- 2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-010-2014, PCM-005-2020, PCM- 021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM- 036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM- 053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM- 072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM- 094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM- 110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM- 137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM- 022-2021, PCM-024-2021, PCM-027-2021; PCM-028-2021;
+Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-010-2014, PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021; PCM-028-2021;
 
 PCM-035-2021; y, PCM-037-2021.
 
@@ -81,7 +81,7 @@ De igual forma, la Secretaría de Estado en los Despachos de Relaciones Exterior
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 2 del Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” en fecha veintiuno (21) de marzo del 2021, Edición 35,551, reformado por el Decreto Ejecutivo Número PCM- 037-2021, el cual se leerá de la forma siguiente:
+ARTÍCULO 2.- Reformar el Artículo 2 del Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” en fecha veintiuno (21) de marzo del 2021, Edición 35,551, reformado por el Decreto Ejecutivo Número PCM-037-2021, el cual se leerá de la forma siguiente:
 
 “ARTÍCULO 2.- La circulación de la población a nivel nacional, es en un horario comprendido entre las 05:00 A.M. y las 10:00 P.M. Se autoriza al Sistema Financiero, supermercados y comercios en general la atención de la población utilizando el 50% de la capacidad de cada lugar.
 
@@ -121,7 +121,7 @@ Están excluidos para operar a nivel nacional los comercios siguientes: Bares, d
 
 ARTÍCULO 3.- Ratificar el Artículo 3, relativo a las Excepciones a los Funcionarios y Empleados del Estado que no están sujetos a las restricciones de Garantías Constitucionales;
 
-Artículo 4, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER); y el Artículo 5, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, dichos Artículos contenidos en el Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” de fecha 21 de marzo del 2021, Edición No.35,551, ratificado por el Decreto Ejecutivo Número PCM-037-2021.
+Artículo 4, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER); y el Artículo 5, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, dichos Artículos contenidos en el Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” de fecha 21 de marzo del 2021, Edición No. 35,551, ratificado por el Decreto Ejecutivo Número PCM-037-2021.
 
 #### Artículo 4
 

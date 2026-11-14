@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. SEN-050-2022, SEN-051-2022, SEN-060-2022, SEN-061-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220521-35929/download"
 extraido: "2026-11-14"
-huella: "8a614a23b98f5d73"
+huella: "7248df978fb995ae"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-050-2022
@@ -29,17 +29,13 @@ huella: "8a614a23b98f5d73"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia, debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 84-2022 de fecha 10 de febrero de 2022 emitido por la señora Presidenta Constitucional de la República se nombró al Doctor ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía (SEN).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-331-2022 de fecha 27 de abril de 2022 emitido por la señora Presidenta Constitucional de la República se nombró por ascenso al ciudadano LUIS ALFREDO MUNGUÍA LÓPEZ como Gerente Administrativo de la Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 331-2022 de fecha 27 de abril de 2022 emitido por la señora Presidenta Constitucional de la República se nombró por ascenso al ciudadano LUIS ALFREDO MUNGUÍA LÓPEZ como Gerente Administrativo de la Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que se encuentran en proceso de formalización el nombramiento del(a) titular de la Subgerencia de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía, siendo necesario atender diariamente las funciones de dicha Subgerencia.
 

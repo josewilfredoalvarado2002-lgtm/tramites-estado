@@ -11,7 +11,7 @@ paginas: "A. 6 - 13"
 sumario: "Acuerdos Nos. 017-2024, 019-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240608-36555/download"
 extraido: "2026-11-14"
-huella: "8029226be7ed96f7"
+huella: "1c46f269ca1ff8ee"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 019-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que los efectos del crecimiento poblacional, la tala ilegal, los i
 
 CONSIDERANDO: Que es una obligación del Estado velar por la conservación de aquellas áreas silvestres productoras de agua y que por su riqueza biológica y cultural forman parte del patrimonio de todos los hondureños. Por lo que su conservación asegurará el desarrollo sostenible de las comunidades y grupos étnicos determinando sus derechos y obligaciones relacionados con la protección y el manejo sostenible de los recursos hídricos, bosque y diversidad biológica.
 
-CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98- 2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
+CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98-2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
 
 CONSIDERANDO: Que, tanto en la Ley General del Ambiente como en la Ley Forestal, Áreas Protegidas y Vida Silvestre existen disposiciones para la protección de los recursos hídricos, especies de flora y fauna silvestre para lo cual se crea el Sistema Nacional de Áreas Protegidas de Honduras (SINAPH) como el mecanismo idóneo para emitir las normas necesarias para la protección de los ecosistemas nacionales y de las especies de vida silvestre que en ellos habitan.
 

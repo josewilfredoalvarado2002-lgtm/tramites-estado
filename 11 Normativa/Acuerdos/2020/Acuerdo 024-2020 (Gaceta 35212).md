@@ -8,10 +8,10 @@ gaceta_numero: 35212
 gaceta_fecha: "2020-03-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)|La Gaceta 35212]]"
 paginas: "A. 15 - 17"
-sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
+sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200327-35212/download"
 extraido: "2026-11-14"
-huella: "ff41d2b787d58e28"
+huella: "123ebf8f3152d8b6"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 024-2020
@@ -23,7 +23,7 @@ huella: "ff41d2b787d58e28"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)\|La Gaceta 35212]] del 2020-03-27 |
 | Páginas | A. 15 - 17 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el 24 de septiembre de 2009 se emitió el Acuerdo Ejecutivo No
 
 CONSIDERANDO: Que el Artículo 3 del Acuerdo Ejecutivo No. A-024-2009, del 24 de septiembre de 2009, reformado mediante Artículo 3 del Acuerdo Ejecutivo No. 41-2009 del dieciocho de noviembre de dos mil nueve, establece que para efectos de importación de productos lácteos comprendidos en las posiciones arancelarias del 04.01 a 04.06 y 1901.10.1 y 1901.90.20, 1901.90.90 y 2106.90.60, los importadores deberán contar con una Licencia de Importación emitida por la Secretaría de Industria y Comercio por intermedio de la Dirección General de Integración Económica y Política Comercial. Las solicitudes para la emisión de las Licencias deberán presentarse a la Dirección General de Integración Económica y Política Comercial.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No. 251- 2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración de las Licencias de Importación.
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 251-2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración de las Licencias de Importación.
 
 CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-021-2020 establece en sus disposiciones, excepciones y restricciones por un periodo de 7 días para atender la emergencia nacional de infección por Corona Virus COVID-19, pudiendo prorrogarse 7 días más.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 POR TANTO.
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que está investido y de conformidad al Artículos 321 de la Constitución de la República, Decreto 06-2018, Acuerdo Ejecutivo No. A-024- 2009, Decreto No. 251-2013, Decreto Ejecutivo Número PCM-021-2020 y su reforma Decreto Ejecutivo No. 045-2019.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que está investido y de conformidad al Artículos 321 de la Constitución de la República, Decreto 06-2018, Acuerdo Ejecutivo No. A-024-2009, Decreto No. 251-2013, Decreto Ejecutivo Número PCM-021-2020 y su reforma Decreto Ejecutivo No. 045-2019.
 
 ACUERDA:
 

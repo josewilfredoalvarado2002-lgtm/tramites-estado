@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 39-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250530-36851/download"
 extraido: "2026-11-10"
-huella: "0dfb925c0cd66849"
+huella: "a1b9e170575c2d51"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 39-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 172 de la Constitución de la 
 
 La ley establecerá las normas que servirán de base para su conservación, restauración, mantenimiento y restitución, en su caso. Es deber de todos los hondureños velar por su conservación e impedir su sustracción. Los sitios de belleza natural, monumentos y zonas reservadas, estarán bajo la protección del Estado”.
 
-CONSIDERANDO: Que el Artículo 10 de la Ley para la Protección del Patrimonio Cultural de la Nación, bajo Decreto Legislativo No.220-97 de fecha 17 de Diciembre de 1997, manda que “La protección del Patrimonio Cultural de la Nación es de orden público, de interés social y nacional y se regirá por las disposiciones de esta Ley y demás normas legales aplicables”.
+CONSIDERANDO: Que el Artículo 10 de la Ley para la Protección del Patrimonio Cultural de la Nación, bajo Decreto Legislativo No. 220-97 de fecha 17 de Diciembre de 1997, manda que “La protección del Patrimonio Cultural de la Nación es de orden público, de interés social y nacional y se regirá por las disposiciones de esta Ley y demás normas legales aplicables”.
 
 CONSIDERANDO: Que a lo largo de sus quinientos
 

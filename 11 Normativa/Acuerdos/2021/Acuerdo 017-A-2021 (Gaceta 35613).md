@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo Ejecutivo No. 015-2021, 017-A-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210529-35613/download"
 extraido: "2026-11-14"
-huella: "458f8c3e00a6cd3f"
+huella: "b422b0a3f377ae5c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 017-A-2021
@@ -47,15 +47,11 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 007-2021 de fecha dos (02) 
 
 CONSIDERANDO: Que el artículo 81 del Decreto Legisla­ tivo No. 182-2020 de fecha veintidos (22) de diciembre del 2020, publicado en el Diario Oficial “La Gaceta” en fecha veintitrés (23) de diciembre del 2020 establece que con el fin de regular la contratación con cargo al Subgrupo del Gasto 24000, se prohíben las ampliaciones por modificaciones pre­ supuestarias para los objetos de gasto pertenecientes a este subgrupo, siendo esta disposición exclusiva para los recursos provenientes de la fuente 11 Tesoro Nacional.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Pre­ sidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Pre­ sidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 
-En el ejercicio de las facultades de que está investido y en aplicación de los Artículos 245 numeral 11, 248 y 255 de la Constitución de la República; 10, 11, 116, 118 y 119 de la Ley General de la Administración Pública; 3, 23 y 24 de la Ley de Procedimiento Administrativo; 7, 8, 9 numerales 6 y 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo No.
-
-182-2020 de fecha veintidos (22) de diciembre del 2020, publicado en el Diario Oficial “La Gaceta” en fecha veintitrés
+En el ejercicio de las facultades de que está investido y en aplicación de los Artículos 245 numeral 11, 248 y 255 de la Constitución de la República; 10, 11, 116, 118 y 119 de la Ley General de la Administración Pública; 3, 23 y 24 de la Ley de Procedimiento Administrativo; 7, 8, 9 numerales 6 y 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo No. 182-2020 de fecha veintidos (22) de diciembre del 2020, publicado en el Diario Oficial “La Gaceta” en fecha veintitrés
 
 (23) de diciembre del 2020; Acuerdo Ejecutivo No. 043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, Acuerdo Ejecutivo Número 007-2021 de fecha dos (02) de febrero del 2021, publicado en el Diario Oficial “La Gaceta” en fecha dieciocho
 

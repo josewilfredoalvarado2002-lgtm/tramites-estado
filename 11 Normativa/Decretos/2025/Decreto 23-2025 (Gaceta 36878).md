@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 23-2025, 24-2025,108-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250701-36878/download"
 extraido: "2026-11-10"
-huella: "6869f12e178a3857"
+huella: "e3fc44cfedee260b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2025
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad al Artículo 299 de la Constitución de la República “El desarrollo económico y social de los municipios debe formar parte de los programas de Desarrollo Nacional y por ende es deber del Estado de Honduras promover el desarrollo económico y social de las comunidades y sus ciudadanos, procurando crear ventajas competitivas a sus gobiernos municipales a través de los Programas de Desarrollo Nacional.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No.170-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que la exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No. 170-2016, del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que la exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que es necesario apoyar iniciativas municipales, ya que son para el bien común, el desarrollo de los municipios y la autonomía local, para dar respuesta oportuna a las necesidades de sus habitantes. En tal sentido, la Ley de Municipalidades atribuye a las municipalidades el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, su mantenimiento y administración.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

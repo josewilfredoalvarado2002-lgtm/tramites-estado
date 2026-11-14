@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251121-36999/download"
 extraido: "2026-11-09"
-huella: "9ba2c18d361ba5da"
+huella: "6366a8d58a03b78d"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -73,9 +73,7 @@ CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del, “MAN
 
 CONSIDERANDO: Que el Departamento de Cuencas Hidrográficas y Ambiente, en conjunto con la Asistencia Legal de la Dirección Ejecutiva, han emitido dictamen favorable para la continuidad del proceso de declaratoria de veinticuatro
 
-(24) Microcuencas en la Región Forestal de Comayagua, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-009-2025.
+(24) Microcuencas en la Región Forestal de Comayagua, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-009-2025.
 
 POR TANTO:
 
@@ -89,15 +87,13 @@ PRIMERO: Declarar Zona de Protección Forestal las microcuencas abastecedoras de
 
 SEGUNDO: Tener por declarada las siguientes microcuencas:
 
-Coordenadas WGS- 84 Municipio Depto.
+Coordenadas WGS-84 Municipio Depto.
 
 Familias Área (ha) Subcuenca Cuenca X Y 1 Agua Fría 417104 1583082 La Paz La Paz 60 36.359158 Humuya Alta Ulúa 2 El Zancudal 415387 1587849 La Paz La Paz 18
 
 87.1 Humuya Alta Ulúa 3 San José del Playón 414637 1588387 La Paz La Paz 200 98.878517 Humuya Alta Ulúa Cooperativa Unión y Fuerza 411133 1581330 La Paz La Paz 51 49.764573 Grande de Otoro jaitique Ulúa 5 Ojo de Agua 411092 1585675 La Paz La Paz 85 53.853470 Grande de otoro jaitique Ulúa 6 Tierra Colorada 418447 1583723 La Paz La Paz 55 40.525248 Humuya Alta Ulúa 7 La Peña 419642 1584091 La Paz La Paz 94 27.729579 Humuya Alta Ulúa 8 Los Nichos 419091 1583302 La Paz La Paz 57 30.585877 Humuya Alta Ulúa 9 El Jícaro 414301 1539130 Mercedes de Oriente La Paz 31 88.9068 Grande/San Juán Guascorán 10 Ringleras 417869 1535371 Mercedes de Oriente (San Antonio del Norte) La Paz 44 84.860549 Grande/San Juán Guascorán 11 La Ciénega 415034 1537781 Mercedes de Oriente La Paz 38 22.073428 Grande/San Juán Guascorán 12 Agua Caliente 419912 1536765 San Antonio del Norte La Paz 31 17.012967 13 La Golondrina 414881 1536238 Mercedes de Oriente La Paz 34 30.786833 Grande/San Juán Guascorán 14 El Barreal 420519 1539091 San Antonio del Norte La Paz 40 12.390635 15 El Ocote 430090 1529489 Lauterique La Paz 37 252.619551 Grande/San Juán Guascorán 16 El Jicaral 420608 1539689 San Antonio del Norte La Paz 34 38.673555 17 El Barranco 431155 1530347 Lauterique y Curarén La Paz 56 83.461933 Grande/San Juan Guascorán 18 Horcones 419884 1540977 San Juan La Paz 75 40.016733 19 El Moray 432007 1531320 Lauterique y Curarén La Paz 58 106125489 Grande/San Juán Guascorán 20 Conchas de Munuaque 433504 1542512 Aguanterique y Curarén La Paz 45 141.090563 Grande/San Juán Goascorán 21 Ojo de Agua 432232 1532415 Lauterique y Curarén La Paz 64 243.031256 Grande/San Juán Goascorán 22 Semucace 421772 1578700 Cane La Paz 44 60.155059 Humuya Alta Ulúa 23 Las Minitas 432100 1533934 Lauterique La Paz 51 89.0489451 Grande/San Juán Goascorán 24 Fuente del Ocotal 431886 1534764 Lauterique y Aguanterique La Paz 82 25.54562 Grande/San Juán Goascorán Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
 
-Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-009-2025.
+Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-009-2025.
 
 TERCERO: De conformidad con el artículo 123 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, en estas zonas de protección hídrica se prohíbe cortar, dañar, quemar o destruir árboles, arbustos y los bosques en general. Igualmente, se prohíbe la construcción de cualquier tipo de infraestructura, la ejecución de actividades agrícolas o pecuarias y todas aquellas otras que pongan en riesgo los fines perseguidos.
 

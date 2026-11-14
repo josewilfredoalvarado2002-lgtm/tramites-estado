@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decreto No. 52-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240722-36592/download"
 extraido: "2026-11-14"
-huella: "d016b073977ce73d"
+huella: "8fadc818ef2b6256"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 52-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el sistema de salud en Honduras está estructurado por varios 
 
 CONSIDERANDO: Que la mala infraestructura y el poco equipamiento hospitalario, son de las determinantes que limitan el acceso de la población hondureña a servicios de calidad y especializados en salud, repercutiendo en el tiempo para realizar diagnóstico y hospitalización. En ese sentido se hace necesario realizar esfuerzos para optimizar la inversión física y la gestión hospitalaria con el fin de ir disminuyendo las brechas de atención en la salud de la población.
 
-CONSIDERANDO: Que el 30 de Noviembre del 2023 se suscribió con el Banco Interamericano de Desarrollo (BID), por un monto de US$150,000,000.00 un financiamiento para el Programa de Fortalecimiento de la Red Hospitalaria el cual fue aprobado mediante Decreto No.2-2024 de fecha 21 de Febrero del año 2024.
+CONSIDERANDO: Que el 30 de Noviembre del 2023 se suscribió con el Banco Interamericano de Desarrollo (BID), por un monto de US$150,000,000.00 un financiamiento para el Programa de Fortalecimiento de la Red Hospitalaria el cual fue aprobado mediante Decreto No. 2-2024 de fecha 21 de Febrero del año 2024.
 
 CONSIDERANDO: Que la Presidenta de la República Xiomara Castro Sarmiento, autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) la suscripción con la Agencia de Cooperación Internacional de Japón (JICA) del Contrato de Préstamo No.HO-P7, por un monto de Once Mil Setecientos Tres Millones de Yenes Japoneses (¥11,703,000,000) para desarrollar el Proyecto de Fortalecimiento de la Red Hospitalaria, a través del cual se espera: i) Aumentar la oferta de servicios hospitalarios de la red pública; ii) Mejorar la oferta de recursos humanos calificados para la operación y gestión en los hospitales de intervención; y, iii) Fortalecer la integración y gestión de las redes de servicios de los hospitales intervenidos.
 

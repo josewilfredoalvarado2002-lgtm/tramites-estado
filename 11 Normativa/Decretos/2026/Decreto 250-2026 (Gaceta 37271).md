@@ -8,10 +8,10 @@ gaceta_numero: 37271
 gaceta_fecha: "2026-10-16"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)|La Gaceta 37271]]"
 paginas: "A. 58 - 60"
-sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026"
+sumario: "Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261016-37271/download"
 extraido: "2026-11-09"
-huella: "bda9d6cca9f17595"
+huella: "88e9de03aaf465d0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 250-2026
@@ -23,7 +23,7 @@ huella: "bda9d6cca9f17595"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37271 (2026-10-16)\|La Gaceta 37271]] del 2026-10-16 |
 | Páginas | A. 58 - 60 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026PODER LEGISLATIVODecreto No. 250-2026 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 22-DGAJTC-2026, 24-DGAJTC-2026, 25-DGAJTC-2026; CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP)Acuerdo No. J.D. 001-11-09-2026; PODER LEGISLATIVO: Decreto No. 250-2026 |
 
 ## Texto
 
@@ -45,19 +45,19 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 95-A de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026 contenido en el Decreto Legislativo No.62-2026 de fecha 21 de abril del año 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, Edición No.37,124, reformado mediante el Artículo 7 del Decreto Legislativo No. 212-2026 de fecha 23 de septiembre de 2026 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre de 2026, Edición No.37,259, el cual se lee de la forma siguiente:
+ARTÍCULO 1.- Reformar el Artículo 95-A de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026 contenido en el Decreto Legislativo No. 62-2026 de fecha 21 de abril del año 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026, Edición No. 37,124, reformado mediante el Artículo 7 del Decreto Legislativo No. 212-2026 de fecha 23 de septiembre de 2026 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre de 2026, Edición No. 37,259, el cual se lee de la forma siguiente:
 
 “ARTÍCULO 95-A.- Todas las Instituciones de la Administración Pública Centralizada, Descentralizada y Autónoma, Empresas Públicas, Universidades y demás entidades del Sector Público que sean parte de un proceso judicial, arbitral o administrativo de contenido económico, una vez emitida la sentencia o resolución de primera instancia o reconocida mediante acta de reconocimiento de deuda, previo a continuar con los recursos o instancias subsiguientes, podrá agotar un procedimiento de conciliación sin necesidad de la intervención de la Procuraduría General de la República (PGR), el cual deberá promoverse y sustanciarse dentro de un plazo máximo de cuarenta cinco (45) días calendario.
 
-Lo dispuesto en el párrafo anterior, será aplicable a los procesos conciliatorios contenidos en el Decreto No.176-2026”
+Lo dispuesto en el párrafo anterior, será aplicable a los procesos conciliatorios contenidos en el Decreto No. 176-2026”
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Artículo 268-A de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026 contenido en el Decreto Legislativo No.62-2026 Publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026; Edición No. 37,124.
+ARTÍCULO 2.- Reformar por adición el Artículo 268-A de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026 contenido en el Decreto Legislativo No. 62-2026 Publicado en el Diario Oficial “La Gaceta” en fecha 23 de abril de 2026; Edición No. 37,124.
 
 “ARTÍCULO 268-A.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, de conformidad con la disponibilidad presupuestaria y financiera, identifique dentro del presupuesto vigente de la Secretaría de Estado en el Despacho de Energía (SEN) las asignaciones presupuestarias disponibles y efectúe las modificaciones, adecuaciones o transferencias presupuestarias que correspondan, hasta por un monto de ONCE MILLONES DE LEMPIRAS EXACTOS (L.11,000,000.00), destinados para subsidiar la tarifa de energía eléctrica en Utila a favor de la empresa Utila Power Company Utility Company, S.A. de C.V.
 

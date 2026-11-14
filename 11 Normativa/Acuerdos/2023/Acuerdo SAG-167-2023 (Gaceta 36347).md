@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdos Nos. SAG-167-2023, SAG-168-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230930-36347/download"
 extraido: "2026-11-14"
-huella: "fcf12d0e7b65feb8"
+huella: "8092dd7bd125b175"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-167-2023
@@ -35,9 +35,9 @@ CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para l
 
 CONSIDERANDO: Que el Acuerdo Ejecutivo No.SAG-125-2022, establece en el Numeral 13, Literal e) las fechas de: Periodo de compra, fecha de cada corte, fecha de la emisión de los certificados de importación, vencimiento del certificado y periodo de importación.
 
-CONSIDERANDO: Que en fecha 06 de junio de 2023, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde resuelve lo siguiente: “La Comisión de Supervisión aprueba la solicitud presentada por la empresa ALBECASA, de considerarse para el tercer corte las compras de maíz que saldrán del área georreferenciadas de Lepaguare y Choloma de la cosecha de postrera del ciclo 2022-2023, mismas que fueron georreferenciadas y reportadas por SOLAB (Ente Georreferenciador)”; Resolución que consta en el Acta No.080-2023.
+CONSIDERANDO: Que en fecha 06 de junio de 2023, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde resuelve lo siguiente: “La Comisión de Supervisión aprueba la solicitud presentada por la empresa ALBECASA, de considerarse para el tercer corte las compras de maíz que saldrán del área georreferenciadas de Lepaguare y Choloma de la cosecha de postrera del ciclo 2022-2023, mismas que fueron georreferenciadas y reportadas por SOLAB (Ente Georreferenciador)”; Resolución que consta en el Acta No. 080-2023.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG-067- 2023 de fecha 27 de marzo de 2023, se aprobó el contingente de importación de maíz blanco por incumplimiento de contratos, siendo la empresa ALBECASA la única que no fue beneficiada con dicho contingente ya que esta empresa tenía las áreas georreferenciadas para la cosecha de postrera tardía, contando con esta producción con la cual completaba el 100% de su compromiso mínimo de compra para el ciclo 2022-2023.
+CONSIDERANDO: Que mediante Acuerdo No. SAG-067-2023 de fecha 27 de marzo de 2023, se aprobó el contingente de importación de maíz blanco por incumplimiento de contratos, siendo la empresa ALBECASA la única que no fue beneficiada con dicho contingente ya que esta empresa tenía las áreas georreferenciadas para la cosecha de postrera tardía, contando con esta producción con la cual completaba el 100% de su compromiso mínimo de compra para el ciclo 2022-2023.
 
 CONSIDERANDO: Que en fecha 07 de septiembre de 2023, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco del periodo comprendido del 01 de mayo al 31 de agosto de 2023 del Tercer Corte de la cosecha 2022-2023, realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión Supra mencionada.
 

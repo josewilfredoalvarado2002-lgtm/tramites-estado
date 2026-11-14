@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210930-35733/download"
 extraido: "2026-11-14"
-huella: "de01b56d15a7bec3"
+huella: "08d2924a9156bee4"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que es función del Estado proteger y preservar el patrimonio agro
 
 CONSIDERANDO: Que para mejorar la competitividad de los sectores productivos nacionales y facilitar las exportaciones de productos agropecuarios, se requiere incrementar la eficiencia y eficacia en la prestación de los servicios de sanidad agroalimentaria, de tal forma que el creciente intercambio comercial de esos productos se efectúe cumpliendo con las normas nacionales e internacionales.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015- 2020, publicado en La Gaceta número 35,361de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015-2020, publicado en La Gaceta número 35,361de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
 CONSIDERANDO: Que le corresponde al SENASA a través de la Dirección Técnica de Salud Animal ejercer el control sanitario sobre las distintas fases de desarrollo de la industria pecuaria, a fin de prevenir, controlar y erradicar las enfermedades que puedan afectarla, así como certificar la calidad zoosanitaria de las exportaciones e importaciones.
 
@@ -49,7 +49,7 @@ POR TANTO:
 
 En aplicación al Artículo 245 numeral 11 de la Constitución de la Republica, 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fito zoosanitaria, Decreto Nº 157-94 y los artículos 1 y 8 del Decreto Ejecutivo PCM-015-2020;
 
-Decreto Legislativo No. 266-2013; Acuerdo Ministerial 711- 2003; Acuerdo al Plan de Nación 2010-2022 y Visión País 2010-2038.
+Decreto Legislativo No. 266-2013; Acuerdo Ministerial 711-2003; Acuerdo al Plan de Nación 2010-2022 y Visión País 2010-2038.
 
 ACUERDA
 

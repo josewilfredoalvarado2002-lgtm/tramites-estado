@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "eefa565402d43b60"
+huella: "82594dad2367df34"
 ---
 <!-- portal:inicio -->
 # ACUERDO No SEN-30-2026
@@ -31,9 +31,7 @@ SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. – EL SECRETARIO DE ESTADO EN
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos.
 
-CONSIDERANDO: Que en fecha catorce (14) de diciembre del año dos mil dieciocho (2018), mediante Acuerdo No.
-
-000043 con efectividad a partir del tres (03) de septiembre del año dos mil dieciocho (2018), fue nombrada la ciudadana KARLA YAZMIN ANDINO FLORES, con Documento Nacional de Identificación número 0705 1989 00065, en el puesto de OFICIAL DE PERSONAL I de esta Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que en fecha catorce (14) de diciembre del año dos mil dieciocho (2018), mediante Acuerdo No. 000043 con efectividad a partir del tres (03) de septiembre del año dos mil dieciocho (2018), fue nombrada la ciudadana KARLA YAZMIN ANDINO FLORES, con Documento Nacional de Identificación número 0705 1989 00065, en el puesto de OFICIAL DE PERSONAL I de esta Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 

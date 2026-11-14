@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220226-35859/download"
 extraido: "2026-11-14"
-huella: "00b07de860e7c3fe"
+huella: "836b2dae5e70106e"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA COMUNIDAD 
 
 CONSIDERANDO: Que el Presidente de la República emitió el ACUERDO EJECUTIVO No. 46-2014 de fecha diez de febrero del año dos mil catorce se nombró a la ciudadana, CLARISA EVELIN MORALES REYES Subsecretaria de Estado en los Despachos de Gobernación y Descentralización.
 
-CONSIDERANDO: Que el señor Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No. 410- 2016 de fecha 15 de junio de 2016, delegó en la ciudadana, CLARISA EVELIN MORALES REYES; Subsecretaria de Estado en los Despachos de Gobernación y Descentralización, la facultad a firmar las resoluciones, acuerdos y demás trámites administrativos cuyo conocimiento corresponda a esta Secretaría de Estado.
+CONSIDERANDO: Que el señor Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No. 410-2016 de fecha 15 de junio de 2016, delegó en la ciudadana, CLARISA EVELIN MORALES REYES; Subsecretaria de Estado en los Despachos de Gobernación y Descentralización, la facultad a firmar las resoluciones, acuerdos y demás trámites administrativos cuyo conocimiento corresponda a esta Secretaría de Estado.
 
 POR TANTO: El Secretario de Estado en los Despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, en uso de sus facultades y en aplicación a lo establecido en el Artículo 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República;29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014,116 y 26 numeral 2), 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo.
 

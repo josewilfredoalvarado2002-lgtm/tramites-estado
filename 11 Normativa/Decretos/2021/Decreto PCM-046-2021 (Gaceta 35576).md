@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-046-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210419-35576-2/download"
 extraido: "2026-11-14"
-huella: "b537fe2eb655a120"
+huella: "1f9e6157a36b82e7"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-046-2021
@@ -37,21 +37,17 @@ CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de la Administrac
 
 El Presidente de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No. 25-2016 de fecha 7 de abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, Edición No.34,024, se aprobó la Ley de Responsabilidad Fiscal
+CONSIDERANDO: Que mediante Decreto Legislativo No. 25-2016 de fecha 7 de abril del 2016, publicado en el Diario Oficial “La Gaceta” el 4 de mayo del 2016, Edición No. 34,024, se aprobó la Ley de Responsabilidad Fiscal
 
 (LRF) que tiene como objeto establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
 
 CONSIDERANDO: Que de acuerdo al Artículo 7 del Decreto Ejecutivo Número PCM-033-2018, publicado en el Diario Oficial “La Gaceta” en fecha 30 de mayo del 2018, Edición No. 34,653, reformado mediante Decreto Ejecutivo Número PCM 044-2019, publicado en el Diario Oficial “La Gaceta” en fecha 30 de julio del 2019, Edición No. 35,009, señala que para efectos de garantizar una sana efectividad en el uso de los recursos y que los mismos sean destinados para los fines establecidos en los objetivos de los fideicomisos, la Secretaría de Coordinación General de Gobierno, atendiendo las instrucciones del Presidente de la República, girará mediante circular, la cartera de proyectos aprobados de los fideicomisos, dicha circular deberá ser publicada en el Portal de Transparencia de todas las instituciones involucradas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2018, publicado en el Diario Oficial “La Gaceta” de fecha 10 de octubre de 2018, en su Edición No.
-
-34,765, se aprobó el otorgamiento del Beneficio de Descuento en Combustible en favor del transporte público de pasajeros del País que suscribió Acuerdos y Convenios con el Gobierno de la República que entre otros extremos, han permitido desde esas fechas que las tarifas de este servicio público fueran sostenibles en favor de los Usuarios del mismo, en consecuencia, este beneficio no ha sido otorgado de manera general, sino sólo a los Concesionarios que suscribieron o fueron amparados por estos Acuerdos o Convenios, extremo que derivó en la reiterada petición del resto de Concesionarios del Transporte Público de Pasajeros de ser incluidos en este beneficio gubernamental pero durante el año 2020 debido a la Pandemia del Covid-19 prácticamente no ha habido operación en este servicio público, por lo que otorgarles como nuevos beneficiarios, el presente beneficio ya no resulta procedente, ni tendría sustentación legal, precisamente por la no operación que persiste hasta la fecha, en consecuencia, es imperativo crear un nuevo beneficio para incorporarlos como beneficiarios dentro del Proyecto de Reactivación del Funcionamiento del Servicio de Transporte Terrestre Público de Pasajeros, caso contrario, no podrán ser incluidos quienes recibieron los cuatro ciclos de pago en concepto de descuento en combustible.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2018, publicado en el Diario Oficial “La Gaceta” de fecha 10 de octubre de 2018, en su Edición No. 34,765, se aprobó el otorgamiento del Beneficio de Descuento en Combustible en favor del transporte público de pasajeros del País que suscribió Acuerdos y Convenios con el Gobierno de la República que entre otros extremos, han permitido desde esas fechas que las tarifas de este servicio público fueran sostenibles en favor de los Usuarios del mismo, en consecuencia, este beneficio no ha sido otorgado de manera general, sino sólo a los Concesionarios que suscribieron o fueron amparados por estos Acuerdos o Convenios, extremo que derivó en la reiterada petición del resto de Concesionarios del Transporte Público de Pasajeros de ser incluidos en este beneficio gubernamental pero durante el año 2020 debido a la Pandemia del Covid-19 prácticamente no ha habido operación en este servicio público, por lo que otorgarles como nuevos beneficiarios, el presente beneficio ya no resulta procedente, ni tendría sustentación legal, precisamente por la no operación que persiste hasta la fecha, en consecuencia, es imperativo crear un nuevo beneficio para incorporarlos como beneficiarios dentro del Proyecto de Reactivación del Funcionamiento del Servicio de Transporte Terrestre Público de Pasajeros, caso contrario, no podrán ser incluidos quienes recibieron los cuatro ciclos de pago en concepto de descuento en combustible.
 
 CONSIDERANDO: Que debido a la restricción de algunas de las Garantías Constitucionales y en consecuencia del funcionamiento del Servicio de Transporte Público, establecida en el Artículo 2 numeral 1 del Decreto Ejecutivo Número PCM-021-2020, publicado en fecha 16 de marzo del año 2020 en “La Gaceta” Diario Oficial de la República de Honduras, en su Edición No. 35,201, a causa de la Emergencia Humanitaria y Sanitaria decretada por la Pandemia de la COVID-19, por lo que resulta necesario garantizar la reactivación del Transporte Terrestre Público de Personas.
 
-POR TANTO, En uso de las facultades contenidas en los Artículos 245 numerales 2,11,19 y 35, 321, 332; Artículos 11,17, 19, 22 numeral 5), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto No.
-
-266-2013; Decreto Legislativo No. 25-2016; y Decretos Ejecutivos Números: PCM-033-2018, PCM-65-2018, PCM- 044-2019 y PCM-021-2020.
+POR TANTO, En uso de las facultades contenidas en los Artículos 245 numerales 2,11,19 y 35, 321, 332; Artículos 11,17, 19, 22 numeral 5), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto No. 266-2013; Decreto Legislativo No. 25-2016; y Decretos Ejecutivos Números: PCM-033-2018, PCM-65-2018, PCM-044-2019 y PCM-021-2020.
 
 DECRETA:
 
@@ -115,9 +111,7 @@ Esta compensación se podrá entregar a los propietarios de las unidades vehicul
 
 #### Artículo 5
 
-ARTÍCULO 5.- Los recursos para el financiamiento de estos beneficios, se obtendrán del Fideicomiso de Asignaciones e Inversiones (FINA 2), aprobado mediante Decreto Ejecutivo Número PCM-033-2018 publicado en el Diario Oficial “La Gaceta” de fecha 30 de mayo de 2018, en su Edición No.
-
-34,653.
+ARTÍCULO 5.- Los recursos para el financiamiento de estos beneficios, se obtendrán del Fideicomiso de Asignaciones e Inversiones (FINA 2), aprobado mediante Decreto Ejecutivo Número PCM-033-2018 publicado en el Diario Oficial “La Gaceta” de fecha 30 de mayo de 2018, en su Edición No. 34,653.
 
 #### Artículo 6
 

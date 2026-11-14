@@ -11,7 +11,7 @@ paginas: "A. 8 - 13"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210602-35616/download"
 extraido: "2026-11-14"
-huella: "7a6e9b88a4ce74e8"
+huella: "66963b0b4eaf64ef"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-053-2021
@@ -57,7 +57,7 @@ POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 81, 84,
 
 Artículos 7, 11, 17, 18, 20, 22 numeral 9), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020;
 
-Decreto Legislativo No. 40-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM- 028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM 042-2020, PCM-045-2020, PCM-073- 2020, PCM-097-2020 y demás aplicables.
+Decreto Legislativo No. 40-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM 042-2020, PCM-045-2020, PCM-073-2020, PCM-097-2020 y demás aplicables.
 
 DECRETA:
 

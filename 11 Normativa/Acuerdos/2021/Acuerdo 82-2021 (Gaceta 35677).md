@@ -11,7 +11,7 @@ paginas: "A. 8"
 sumario: "Acuerdo No. 82-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210804-35677/download"
 extraido: "2026-11-14"
-huella: "4861a3e879a94f17"
+huella: "c8e98dcd665a203c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 82-2021
@@ -31,9 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 CONSIDERANDO: Que los ciudadanos EBAL JAÍR DÍAZ LUPIAN, MARCO ANTONIO MIDENCE MILLA y JOSÉ ANTONIO MENDOZA OLIVA conformaban el Comité Técnico ante el CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICOPRIVADA suscrito entre la República de Honduras actuando a través de la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE FINANZAS, la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA Y BANCO ATLANTIDA, S.A.; mismo que fue reformado mediante Decreto Legislativo Número 33-2021 publicado en el Diario Oficial “La Gaceta” de fecha 08 de junio del 2021.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-81-2021 dieciséis (16) días del mes de junio del año dos mil veintiuno (2021), se canceló al ciudadano MARCO ANTONIO MIDENCE MILLA, como miembro de dicho Comité Técnico
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 81-2021 dieciséis (16) días del mes de junio del año dos mil veintiuno (2021), se canceló al ciudadano MARCO ANTONIO MIDENCE MILLA, como miembro de dicho Comité Técnico
 
 POR TANTO;
 

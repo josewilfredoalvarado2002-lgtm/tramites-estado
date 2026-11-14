@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201212-35457/download"
 extraido: "2026-11-14"
-huella: "69ceb4c99b918933"
+huella: "d382a85e38486f9a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-056-2020
@@ -31,21 +31,19 @@ huella: "69ceb4c99b918933"
 
 CONSIDERANDO: Que mediante Decreto 144-2015 el Congreso Nacional aprobó en todas y cada una de sus partes el Protocolo Habilitante para el Proceso de Integración Profunda Hacia el Libre Tránsito de Mercancías y de Personas Naturales entre las Repúblicas de Guatemala y Honduras firmado a la ciudad de Panamá, a los diez (10) días del mes de Abril de Dos Mil Quince.
 
-CONSIDERANDO: Que a través de la Resolución IM-UA No.
-
-17-2017, se aprueba el Reglamento para el Funcionamiento de la Integración Profunda hacia el Libre Tránsito de Mercancías y Personas Naturales entre las Repúblicas de Guatemala y Honduras y sus apéndices, tal y como aparecen en el Anexo de la presente Resolución.
+CONSIDERANDO: Que a través de la Resolución IM-UA No. 17-2017, se aprueba el Reglamento para el Funcionamiento de la Integración Profunda hacia el Libre Tránsito de Mercancías y Personas Naturales entre las Repúblicas de Guatemala y Honduras y sus apéndices, tal y como aparecen en el Anexo de la presente Resolución.
 
 CONSIDERANDO: Que la Instancia Ministerial conformada por el Ministro de Economía de Guatemala y el Secretario de Estado en el Despacho de Desarrollo Económico de Honduras, a través de la Resolución IM UA No. 18-2017, definieron 10 aduanas periféricas de la Unión Aduanera, entre ellas la Terrestre Tecún Umán y que mediante Resolución IM-UA No. 70-2019 y IM-UA No. 75-2019 se estableció iniciar el 01 de octubre de 2020.
 
 CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la República.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170- 2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
 
-CONSIDERANDO: Que mediante Acuerdo No.579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 199 numeral 6) señala que son atribuciones de la Dirección Ejecutiva de la Administración Aduanera aprobar los acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones; así como los relacionados con la implementación de los reglamentos de la materia tributaria y aduanera, según corresponda.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) se aprueba el Régimen de Carrera de los funcionarios y Servidores de la Administración Aduanera de Honduras, el cual fue publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020).
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) se aprueba el Régimen de Carrera de los funcionarios y Servidores de la Administración Aduanera de Honduras, el cual fue publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020).
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 52 del Régimen de Carrera de los Funcionarios y Servidores Públicos de la Administración Aduanera de Honduras; se debe realizar un estudio económico el cual se aprobará anualmente para la aplicación, con el objetivo de determinar la asignación mensual que recibirán los funcionarios y servidores públicos del Servicio Aduanero en concepto de compensación por desarraigo, calculada de acuerdo al Factor Comparativo, para lo cual deberá de emitirse el respectivo Acuerdo y publicarse en el Diario Oficial La Gaceta, en el cual se detallará los montos y demás factores determinantes para realizar las asignaciones correspondientes.
 

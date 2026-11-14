@@ -8,10 +8,10 @@ gaceta_numero: 36666
 gaceta_fecha: "2024-10-17"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)|La Gaceta 36666]]"
 paginas: "A. 7 - 11"
-sumario: "Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
+sumario: "Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241017-36666/download"
 extraido: "2026-11-14"
-huella: "2d440e12c1280731"
+huella: "951b8598a3fb6dcf"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 116-2024
@@ -23,7 +23,7 @@ huella: "2d440e12c1280731"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)\|La Gaceta 36666]] del 2024-10-17 |
 | Páginas | A. 7 - 11 |
-| Según el sumario de La Gaceta | Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
+| Según el sumario de La Gaceta | Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
 
 ## Texto
 
@@ -33,23 +33,17 @@ CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de D
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre la República Dominicana- Centroamérica y Estados Unidos (RD-CAFTA), fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
 CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para los productos importados bajo contingentes arancelarios de importación al amparo del RDCAFTA, los importadores deberán contar con un certificado de importación válido y vigente, emitido por la Secretaría de Desarrollo Económico, previa presentación de constancia de estar solvente con sus obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013 y el Recibo de pago TGR-1 por L. 200.00
 
 CONSIDERANDO: Que en cumplimiento a la disposición de los Artículos 18 y 19 del Acuerdo Ejecutivo No. 16-2006, que manda a los importadores que no harán uso del certificado asignado, proceder a la respectiva devolución de este a fin de que la Secretaría de Desarrollo Económico proceda a la reasignación de los volúmenes devueltos.
 
-CONSIDERANDO: Que el Artículo 2 del Acuerdo No.
+CONSIDERANDO: Que el Artículo 2 del Acuerdo No. 013-2016 del 04 de febrero de 2016 establece que para el año 2016 y consecutivos, se reservará el cinco por ciento (5%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), para aquellas personas naturales y jurídicas que por primera vez soliciten se les asigne una proporción del contingente arancelario de importación de maíz blanco establecido en el párrafo 13 del Apéndice I de las Notas Generales de la Lista Arancelaria de la República de Honduras al Anexo 3.3 del RD-CAFTA y que no hayan participado en la asignación del 95%.
 
-013-2016 del 04 de febrero de 2016 establece que para el año 2016 y consecutivos, se reservará el cinco por ciento (5%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), para aquellas personas naturales y jurídicas que por primera vez soliciten se les asigne una proporción del contingente arancelario de importación de maíz blanco establecido en el párrafo 13 del Apéndice I de las Notas Generales de la Lista Arancelaria de la República de Honduras al Anexo 3.3 del RD-CAFTA y que no hayan participado en la asignación del 95%.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 122-2023, publicado en el Diario Oficial “La Gaceta” el 28 de noviembre de 2023, la Secretaría de Desarrollo Económico, aperturó para el periodo del 01 de enero al 31 de diciembre de 2024, los contingentes arancelarios de importación en el marco del Tratado de Libre Comercio entre República Dominicana – Centroamérica y Estados Unidos de América (RD-CAFTA).
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.
-
-122-2023, publicado en el Diario Oficial “La Gaceta” el 28 de noviembre de 2023, la Secretaría de Desarrollo Económico, aperturó para el periodo del 01 de enero al 31 de diciembre de 2024, los contingentes arancelarios de importación en el marco del Tratado de Libre Comercio entre República Dominicana – Centroamérica y Estados Unidos de América (RD-CAFTA).
-
-CONSIDERANDO: Que el Acuerdo Ministerial No. 122- 2023 el contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), es de 31,740 TM, reservando el cinco por ciento (5%) de dicho contingente por la cantidad de 1,587 TM, para los importadores que soliciten por primera vez, ser beneficiario de dicho contingente y el 95% para los importadores histórico.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 122-2023 el contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), es de 31,740 TM, reservando el cinco por ciento (5%) de dicho contingente por la cantidad de 1,587 TM, para los importadores que soliciten por primera vez, ser beneficiario de dicho contingente y el 95% para los importadores histórico.
 
 CONSIDERANDO: Que el noventa y cinco por ciento (95%) del contingente arancelario de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), asciende a 30,153 TM, de las cuales 29,421.68 TM, fueron asignadas restando 731.30 TM, que serán reasignadas de conformidad al Acuerdo Ejecutivo 16-2006.
 

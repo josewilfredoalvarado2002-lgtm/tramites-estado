@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decretos Nos. 101-2026, 121-2026, 154-2026, 157-2026, 158-2026, 159-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260918-37249/download"
 extraido: "2026-11-09"
-huella: "caa09f203c34bb51"
+huella: "f1d640892776c2c0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 121-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO;
 
-D E C R E TA :
+D E C R E TA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo No. SEN-039-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220504-35914/download"
 extraido: "2026-11-14"
-huella: "7c130793ada04312"
+huella: "ea88999df41829c3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-039-2022
@@ -29,17 +29,13 @@ huella: "7c130793ada04312"
 
 LA SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-30-2006, publicado en el Diario Oficial La Gaceta el 01 de septiembre de 2006, se declaran los derivados del petróleo productos estratégicos y esenciales para la seguridad nacional, así como vitales para el desarrollo económico y social del país.
 
-PCM-30-2006, publicado en el Diario Oficial La Gaceta el 01 de septiembre de 2006, se declaran los derivados del petróleo productos estratégicos y esenciales para la seguridad nacional, así como vitales para el desarrollo económico y social del país.
-
-CONSIDERANDO: Que mediante Acuerdo SEN-001- 2020 publicado en La Gaceta, Diario Oficial, el 29 de enero de 2020, dispone en su artículo 3 que, "toda persona natural o jurídica que se dedique al almacenamiento y/o comercialización de hidrocarburos debe inscribirse bajo cualquiera de las figuras que corresponda descritas en el artículo 4, debiendo asimismo solicitar el o los permisos que requiera la actividad que realiza y disponiendo el artículo 63, que para tal efecto se establece un plazo de ciento ochenta días (180) días calendario desde la fecha de entrada en vigor del acuerdo antes citado, para que los agentes operadores de la cadena que ya se encuentren operando y no se encuentren registrados ante esta Secretaría de Estado, puedan registrarse.
+CONSIDERANDO: Que mediante Acuerdo SEN-001-2020 publicado en La Gaceta, Diario Oficial, el 29 de enero de 2020, dispone en su artículo 3 que, "toda persona natural o jurídica que se dedique al almacenamiento y/o comercialización de hidrocarburos debe inscribirse bajo cualquiera de las figuras que corresponda descritas en el artículo 4, debiendo asimismo solicitar el o los permisos que requiera la actividad que realiza y disponiendo el artículo 63, que para tal efecto se establece un plazo de ciento ochenta días (180) días calendario desde la fecha de entrada en vigor del acuerdo antes citado, para que los agentes operadores de la cadena que ya se encuentren operando y no se encuentren registrados ante esta Secretaría de Estado, puedan registrarse.
 
 CONSIDERANDO: Que el artículo 5 del Decreto Legislativo Número 33-2020 declara inhábiles los días calendario por el período en el que transcurra la declaratoria de emergencia originada por el COVID-19, dejando en suspenso todos aquellos plazos que fueron dictados antes de declararse la emergencia sanitaria.
 
@@ -49,7 +45,7 @@ CONSIDERANDO: Que la Administración Pública debe de emitir las medidas necesar
 
 POR TANTO: En usos de las facultades de que esta investido y en aplicación de los artículos 321, 323, 333 de la Constitución de la República; 36 numerales 5 y 8,116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública; Artículos 4, 19, 20 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017;
 
-Decreto Ejecutivo Número PCM-007-2020; Acuerdo SEN- 001-2020; y demás aplicables.
+Decreto Ejecutivo Número PCM-007-2020; Acuerdo SEN-001-2020; y demás aplicables.
 
 ACUERDA
 

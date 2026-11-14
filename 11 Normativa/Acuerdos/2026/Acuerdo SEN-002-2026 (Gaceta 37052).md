@@ -11,7 +11,7 @@ paginas: "A. 56 - 57"
 sumario: "Acuerdos Nos. SEN-001-2026, SEN-002-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "64d6b3c3fc1c5040"
+huella: "d8404ca05c1faa1b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-002-2026
@@ -43,7 +43,7 @@ POR TANTO,
 
 ACUERDA:
 
-PRIMERO: Delegar a la Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801- 1998-09178, conforme a su traslado interinstitucional convenido entre la Empresa Nacional de Energía Eléctrica (ENEE) y la Secretaría de Estado en el Despacho de Energía (SEN), en el marco del convenio interinstitucional de cooperación vigente entre ambas Instituciones, confiriéndole las funciones y atribuciones inherentes a la titularidad de la Subgerencia de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía (SEN), en todas las atribuciones y competencias atribuidas a dicha Subgerencia, siendo esta funcionaria pública desde el momento de esta delegación la única autorizada para ejercer estas funciones.
+PRIMERO: Delegar a la Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801-1998-09178, conforme a su traslado interinstitucional convenido entre la Empresa Nacional de Energía Eléctrica (ENEE) y la Secretaría de Estado en el Despacho de Energía (SEN), en el marco del convenio interinstitucional de cooperación vigente entre ambas Instituciones, confiriéndole las funciones y atribuciones inherentes a la titularidad de la Subgerencia de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía (SEN), en todas las atribuciones y competencias atribuidas a dicha Subgerencia, siendo esta funcionaria pública desde el momento de esta delegación la única autorizada para ejercer estas funciones.
 
 SEGUNDO: La delegada es responsable de la función delegada y presentará al Despacho Ministerial de la Secretaría de Estado en el Despacho de Energía y a la Gerencia General de la Empresa Nacional de Energía Eléctrica un informe mensual de las actividades efectuadas en virtud de esta delegación.
 

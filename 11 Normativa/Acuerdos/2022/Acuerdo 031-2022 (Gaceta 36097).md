@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo número 031-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221208-36097/download"
 extraido: "2026-11-14"
-huella: "d69fea68cded1709"
+huella: "683d221573e82d73"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 031-2022
@@ -57,9 +57,7 @@ CONSIDERANDO: Que de acuerdo al análisis jurídico: AJDNDDHH-LI-PGR-010-2022, l
 
 CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-010-2022, suscrito por la Procuraduría General de la República (PGR), luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, concluye que “existen motivos suficientes para recomendar, gestionar, Acuerdo Ejecutivo mediante el cual se autorice las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar los convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que pueda hacer uso de las referidas facultades en lo relacionado al caso “Leonela Zelaya vs Honduras.”
 
-CONSIDERANDO: Que de conformidad al informe No.
-
-450/21, del 25 de diciembre de 2021, emitido por la Comisión Interamericana de Derechos Humanos (CIDH), en el caso 13.645, de Leonela Zelaya-Honduras, y al análisis jurídico:
+CONSIDERANDO: Que de conformidad al informe No. 450/21, del 25 de diciembre de 2021, emitido por la Comisión Interamericana de Derechos Humanos (CIDH), en el caso 13.645, de Leonela Zelaya-Honduras, y al análisis jurídico:
 
 AJ-DNDDHH-LI-PGR-010-2022, de fecha 30 de junio de 2022, emitido por la Procuraduría General de la República, y con fundamento en: Los artículos 228 de la Constitución de la República, 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República; 81 numeral 2) y 82 numeral 2) del Código Procesal Civil; es procedente emitir el presente Acuerdo Ejecutivo para otorgar al Procurador General de la República Abogado Manuel Antonio Díaz Galeas las facultades de expresa mención de desistirse de la acción deducida, absolver posiciones, renunciar a los recursos o los términos legales, conciliar, transigir, aprobar convenios y delegar, con el propósito de darle cumplimiento entre otras garantías, a la establecida en el artículo 1 de la Constitución de la República, en lo referente a asegurar a sus habitantes, en este caso en particular a los familiares de Leonela Zelaya el goce de la justicia, reiterando que para esta administración tal y como lo establece la Constitución de la República en su artículo 59 la persona humana es el fin supremo.
 

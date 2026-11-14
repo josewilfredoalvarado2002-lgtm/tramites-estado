@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 400-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260822-37227/download"
 extraido: "2026-11-09"
-huella: "13ae7bee96331be5"
+huella: "2490ef92422d5280"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 400-2026
@@ -31,7 +31,7 @@ El Suscrito, Encargado de la Unidad de Atención al Ciudadano de la Secretaría 
 
 La Resolución que literalmente dice: "RESOLUCIÓN NO.400-2026. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, veintitrés de junio del año dos mil veintiséis.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho ( 18) junio del año dos mil veintiséis (2026), misma que corre a expediente administrativo No. PJ- 18062026-247, por el abogado ALDAIR ORLANDO AMADOR FIGUEROA, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA ROTARIO REINA SOFÍA DE ESPAÑA DEL MUNICIPIO DE CHOLUTECA, DEPARTAMENTO Sección A Decretos y Acuerdos SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN Certificación, Resolución No. 400-2026 A. 1 - 8 DE CHOLUTECA, la cual se encuentra domiciliada en la Colonia Rotario Reina Sofía de España, del Municipio de Choluteca, Departamento de Choluteca, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho ( 18) junio del año dos mil veintiséis (2026), misma que corre a expediente administrativo No. PJ-18062026-247, por el abogado ALDAIR ORLANDO AMADOR FIGUEROA, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA ROTARIO REINA SOFÍA DE ESPAÑA DEL MUNICIPIO DE CHOLUTECA, DEPARTAMENTO Sección A Decretos y Acuerdos SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN Certificación, Resolución No. 400-2026 A. 1 - 8 DE CHOLUTECA, la cual se encuentra domiciliada en la Colonia Rotario Reina Sofía de España, del Municipio de Choluteca, Departamento de Choluteca, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS.
 
 RESULTA: Que el Apoderado Legal acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

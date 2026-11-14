@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 80-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220827-36013/download"
 extraido: "2026-11-14"
-huella: "90aaef6c7ab91483"
+huella: "1b7635478fdc8965"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 80-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Atribución 24) del Artículo 205 de la Constitución de la
 
 CONSIDERANDO: Que de conformidad al Artículo 290 de la Constitución de la República: “Los grados militares sólo se adquieren por riguroso ascenso de acuerdo con Ia Ley respectiva... Los ascensos desde Mayor hasta General de División inclusive, serán otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo. El Estado Mayor Conjunto de las Fuerzas Armadas emitirá Dictamen previo a conferir los ascensos de oficiales”.
 
-CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No.39-2001 del 16 de Abril del 2001, publicado en el Diario Oficial “La Gaceta” del 29 de Octubre de 2001, en su Artículo 191 establece que:
+CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No. 39-2001 del 16 de Abril del 2001, publicado en el Diario Oficial “La Gaceta” del 29 de Octubre de 2001, en su Artículo 191 establece que:
 
 “Los ascensos de los Miembros de las Fuerzas Armadas se otorgarán de conformidad con la Constitución de la República, la presente Ley y su Reglamento” y en su
 
@@ -53,13 +53,13 @@ CONSIDERANDO: Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armada
 
 “El Alto Mando de las Fuerzas Armadas podrá en cualquier momento proponer para ascenso al Grado de General de Brigada o División, a cualquier Oficial que aunque no se está desempeñando en los cargos que se establecen en el Artículo 11 del presente Reglamento, a su juicio haya hecho a lo largo de su carrera militar méritos sobresalientes o haya tenido un desempeño heroico y cumpla con los demás requisitos legales; dicha propuesta deberá ser conocida por el Consejo Selector de Ascensos y dictaminada por el Estado Mayor Conjunto de acuerdo a los procedimientos establecidos en las Leyes y Reglamentos.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 4 de Julio del año 2022, mediante Acta Especial No.004- 2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, ciudadana IRIS XIOMARA CASTRO SARMIENTO, proponga al Congreso Nacional de la República, el ascenso al Grado de General de Brigada o su equivalente a cinco
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 4 de Julio del año 2022, mediante Acta Especial No. 004-2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, ciudadana IRIS XIOMARA CASTRO SARMIENTO, proponga al Congreso Nacional de la República, el ascenso al Grado de General de Brigada o su equivalente a cinco
 
 (5) Coroneles de las Armas o su equivalente, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -97,11 +97,11 @@ CONSIDERANDO: Que la Constitución de la República establece en su Artículo 13
 
 CONSIDERANDO: Que compete a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social los servicios de inspección del trabajo, velando porque estas relaciones se ajusten a las leyes sobre la materia.
 
-CONSIDERANDO: Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No.178-2016 que contiene la Ley de Inspección del Trabajo por medio de la Dirección General de Inspección de Trabajo.
+CONSIDERANDO: Que corresponde como autoridad administrativa en el ámbito de su competencia a la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social la aplicación del Decreto No. 178-2016 que contiene la Ley de Inspección del Trabajo por medio de la Dirección General de Inspección de Trabajo.
 
-CONSIDERANDO: Que el Decreto No.178-2016 en su Capítulo V, establece las sanciones pecuniarias que se deben aplicar a los patronos en caso de constatar infracciones a la normativa laboral.
+CONSIDERANDO: Que el Decreto No. 178-2016 en su Capítulo V, establece las sanciones pecuniarias que se deben aplicar a los patronos en caso de constatar infracciones a la normativa laboral.
 
-CONSIDERANDO: Que en el Artículo 91 de la referida Ley, establece que las sanciones pecuniarias establecidas dentro del Capítulo V del Decreto No.178-2016 deben incrementarse anualmente en forma automática en proporción al índice de inflación interanual declarado al mes de diciembre de cada año por el Banco Central de Honduras.
+CONSIDERANDO: Que en el Artículo 91 de la referida Ley, establece que las sanciones pecuniarias establecidas dentro del Capítulo V del Decreto No. 178-2016 deben incrementarse anualmente en forma automática en proporción al índice de inflación interanual declarado al mes de diciembre de cada año por el Banco Central de Honduras.
 
 CONSIDERANDO: Que la Ley de Inspección del Trabajo dispone, que cuando no hay un daño económico cuantificable en dinero, se debe imponer al infractor una multa equivalente al 25% del perjuicio económico causado, sin perjuicio de la obligación de corregir la infracción.
 
@@ -121,13 +121,13 @@ El porcentaje de incremento que corresponda, debe aplicarse sobre la última mul
 
 CONSIDERANDO: Que los primeros doce meses de la entrada en vigencia de ésta ley, la SETRASS debió desarrollar un proceso de implementación, con el objetivo de adecuar la Ley a las labores de promoción, vigilancia y cumplimiento de normas laborales, seguridad y salud en el trabajo y las relativas a la seguridad social, así como en los procesos en los que se exijan las responsabilidades correspondientes en los casos de infracción o incumplimiento.
 
-CONSIDERANDO: Que el índice de inflación interanual declarado al mes de diciembre de cada año por el Banco Central de Honduras no se ha aplicado como incremento de manera gradual a las sanciones pecuniarias desde la entrada en vigencia del Decreto No.178-2016.
+CONSIDERANDO: Que el índice de inflación interanual declarado al mes de diciembre de cada año por el Banco Central de Honduras no se ha aplicado como incremento de manera gradual a las sanciones pecuniarias desde la entrada en vigencia del Decreto No. 178-2016.
 
 POR TANTO:
 
 En uso de las facultades que fue investida por la Presidente de la República mediante Acuerdo Ejecutivo N° 25-2022 de fecha veintisiete (27) de enero del año dos mil veintidós (2022) y en aplicación de los artículos 138, 235, 245 atribuciones 11 y 321 de la Constitución de la República; 36 numeral 08, 116, 118, 119, 122 de la Ley General de la Administración Pública;
 
-Decreto No.178-2016 Ley de inspección del Trabajo; 16, 17, 23, 24, 25 del Reglamento de Organización y Competencias del Poder Ejecutivo.
+Decreto No. 178-2016 Ley de inspección del Trabajo; 16, 17, 23, 24, 25 del Reglamento de Organización y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 
@@ -147,9 +147,7 @@ ABG. LESLY SARAHI CERNA
 
 Secretaria de Estado en los Despachos de Trabajo y Seguridad Social ABG. MARIA UBALDINA MARTINEZ MOLINA Secretaría General Secretaría de Trabajo y Seguridad Social ACUERDO-SETRASS-415-2022 Secretaría de Estado en los Despachos de Trabajo y Seguridad Social 28 de julio de 2022 LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado el nombramiento de los ciudadanos que desempeñarán la función de Director Ejecutivo y Subdirector Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS), conforme a la terna propuesta por la Junta Directiva del Instituto y al cumplimiento de los requisitos legales.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado el nombramiento de los ciudadanos que desempeñarán la función de Director Ejecutivo y Subdirector Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS), conforme a la terna propuesta por la Junta Directiva del Instituto y al cumplimiento de los requisitos legales.
 
 CONSIDERANDO: Que el artículo 28 reformado de la Ley del Seguro Social establece que el Subdirector Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS), será nombrado por el Presidente de la República de una terna de ciudadanos propuestos por la Junta Directiva de dicha Institución.
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "Acuerdo Número 172-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220319-35877/download"
 extraido: "2026-11-14"
-huella: "d8e70285e11a30dc"
+huella: "255fe0c785172741"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 172-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 247, de la Constitución de la República estable
 
 CONSIDERANDO: Que el Artículo 351 de la Constitución de la República, establece que el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el Decreto No.17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público aprobado el 28 de marzo de 2010 y sus reformas, por conducto de su
+CONSIDERANDO: Que el Decreto No. 17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público aprobado el 28 de marzo de 2010 y sus reformas, por conducto de su
 
 Artículo 23 reformó el Artículo 1 del Decreto No. 106 del 30 de junio de 1955 y sus reformas, creando un Impuesto Específico Único sobre el Consumo de cigarrillos en el territorio nacional, el cual se aplica en una sola etapa de comercialización, a nivel de fábrica o al momento de la importación, de forma generalizada tanto para los cigarrillos producidos nacionalmente como para los importados.
 
@@ -53,9 +53,9 @@ CONSIDERANDO: Que de conformidad al Numeral
 
 \15) del Artículo 29 de la Ley de Administración Pública y sus Reformas, a la Secretaría de Estado en el Despacho de Finanzas, le corresponde todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas, por lo que se debe asegurar de la correcta aplicación de las normas jurídicas relacionadas con el funcionamiento del Sistema Tributario de Honduras.
 
-CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM- 35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaria de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
+CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaria de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
 
-CONSIDERANDO: Que el Reglamento para la aplicación, administración, cobro y entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico Sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No.005-2017 publicado en el Diario Oficial La Gaceta el 06 de marzo de 2017, en el Artículo 26 establece que a partir del año 2018, dicho reglamento debe ser actualizado mediante Acuerdo Ministerial de la Secretaría de Estado en el Despacho de Finanzas atendiendo el marco legal vigente aplicable.
+CONSIDERANDO: Que el Reglamento para la aplicación, administración, cobro y entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico Sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No. 005-2017 publicado en el Diario Oficial La Gaceta el 06 de marzo de 2017, en el Artículo 26 establece que a partir del año 2018, dicho reglamento debe ser actualizado mediante Acuerdo Ministerial de la Secretaría de Estado en el Despacho de Finanzas atendiendo el marco legal vigente aplicable.
 
 CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administración Pública, establece que son atribuciones de las Secretarías de Estado, emitir los Acuerdos y Resoluciones sobre los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución.
 
@@ -65,7 +65,7 @@ La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que
 
 Artículo 9 del Código Tributario; Artículos 29 numeral 15), 36 numeral 8, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; Artículos 23, 24, 25, 32, 33, 34 y 36 del Decreto No. 17-2010 contentivo de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público y sus Reformas;
 
-Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas; Decreto Ejecutivo PCM- 35-2015 de fecha 26 de junio de 2015; Artículo 26 del Reglamento para la Aplicación , Administración, Cobro y Entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No. 005-2017, publicado en el Diario Oficial La Gaceta del 06 de marzo de 2017 y demás leyes aplicables.
+Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas; Decreto Ejecutivo PCM-35-2015 de fecha 26 de junio de 2015; Artículo 26 del Reglamento para la Aplicación, Administración, Cobro y Entero del Impuesto Producción y Consumo y el Impuesto Sobre Ventas sobre Cigarrillos, Bebidas Gaseosas, Bebidas Alcohólicas, Otras Bebidas Preparadas o Fermentadas, Alcohol Etílico sin Desnaturalizar con Grado Alcohólico Volumétrico Superior o Igual al 80% y el Alcohol Etílico y Alcohol Desnaturalizado de cualquier graduación, contenido en el Acuerdo No. 005-2017, publicado en el Diario Oficial La Gaceta del 06 de marzo de 2017 y demás leyes aplicables.
 
 ACUERDA:
 

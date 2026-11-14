@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250827-36927/download"
 extraido: "2026-11-09"
-huella: "1566845887d2ed0e"
+huella: "646642f5dd9f04cb"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de
 
 CONSIDERANDO: Que el Artículo 2 literal “a” del Decreto Ejecutivo No. PCM-007-2020 publicado en fecha 31 de diciembre del año 2020 en el Diario Oficial La Gaceta, establece: Designar a la Secretaría en el Despacho de Energía
 
-(SEN) como: a) Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos , conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad.
+(SEN) como: a) Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad.
 
 CONSIDERANDO: Que mediante el Acuerdo Ministerial No. SEN-001-2020, publicado en fecha 29 de enero del 2020 en el Diario Oficial La Gaceta, se establecen los requisitos jurídicos y técnicos que regulan las figuras y permisos bajo las cuales se registran y operan las personas naturales o jurídicas cuya actividad económica directa o indirectamente está relacionada con la cadena de comercialización de hidrocarburos. Asimismo, mediante Acuerdo SEN-119-2022 publicado en el Diario Oficial La Gaceta en fecha 30 de agosto del 2022 se reformó parcialmente el Acuerdo SEN-001-2020.
 
@@ -53,7 +53,7 @@ POR TANTO: En aplicación de los artículos: 247, 248 de la Constitución de la 
 
 ACUERDA:
 
-PRIMERO: Reformar por Adición el artículo 2 del Acuerdo SEN 001-2020, mismo que fue reformado mediante Ordinal/Acápite Primero del Acuerdo SEN- 119-2022; Asimismo, Reformar el artículo 10 del SEN 001-2020, mismo que fue reformado mediante Ordinal/ Acápite Octavo del Acuerdo SEN-119-2022; los cuales se leerán de la siguiente manera:
+PRIMERO: Reformar por Adición el artículo 2 del Acuerdo SEN 001-2020, mismo que fue reformado mediante Ordinal/Acápite Primero del Acuerdo SEN-119-2022; Asimismo, Reformar el artículo 10 del SEN 001-2020, mismo que fue reformado mediante Ordinal/ Acápite Octavo del Acuerdo SEN-119-2022; los cuales se leerán de la siguiente manera:
 
 “ARTÍCULO 2.- DEFINICIONES. Para los efectos de este Acuerdo se establecen las siguientes definiciones:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decreto Ejecutivo Número PCM-121-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211102-35761/download"
 extraido: "2026-11-14"
-huella: "f29b07a557e0eba5"
+huella: "6e4b3ea5283c56b8"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-121-2021
@@ -39,23 +39,21 @@ CONSIDERANDO: Que conforme al Artículo 24 numeral
 
 \2) literal c) de la Convención sobre los Derechos del Niño, los Estados Parte aseguraran “Combatir las enfermedades y la malnutrición en el marco de la atención primaria de la salud mediante, entre otras cosas, la aplicación de la tecnología disponible y el suministro de alimentos nutritivos adecuados y agua potable salubre, teniendo en cuenta los peligros y riesgos de contaminación del medio ambiente”.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.56-2015, de fecha 2 de julio del 2015, se aprobó la Ley Marco del Sistema de Protección Social, en la cual, dentro de los objetivos del Piso de Protección Social, se encuentran: el acceso a bienes y servicios, que garanticen el adecuado desarrollo integral de la infancia incluyendo Programas de Desarrollo Integral del Niño(a), con énfasis en la Primera Infancia y Nutrición Escolar.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 56-2015, de fecha 2 de julio del 2015, se aprobó la Ley Marco del Sistema de Protección Social, en la cual, dentro de los objetivos del Piso de Protección Social, se encuentran: el acceso a bienes y servicios, que garanticen el adecuado desarrollo integral de la infancia incluyendo Programas de Desarrollo Integral del Niño(a), con énfasis en la Primera Infancia y Nutrición Escolar.
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 125-2016 se aprobó la LEY DE ALIMENTACIÓN ESCOLAR, publicada en Diario oficial “La Gaceta” el 3 de Julio del 2017 y en su Artículo 2 crea el Programa Nacional de Alimentación Escolar dependiente de la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social en coordinación con la Secretaría de Estado en el Despacho de Educación, con independencia financiera, el cual tiene como objetivo proporcionar a todos los niños y niñas de los centros educativos públicos de los niveles pre básica y básica y, progresivamente educación media del país, una ración alimentaria nutritiva complementaria.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 183- 2011 de fecha 28 de octubre del 2011, se creó el Convenio de Cooperación entre el Gobierno de la República de Honduras y el Gobierno de Canadá, mediante el cual el Estado de Canadá a través de la Corporación Comercial de Canadá
+CONSIDERANDO: Que mediante Decreto Legislativo 183-2011 de fecha 28 de octubre del 2011, se creó el Convenio de Cooperación entre el Gobierno de la República de Honduras y el Gobierno de Canadá, mediante el cual el Estado de Canadá a través de la Corporación Comercial de Canadá
 
 (CCC) operará ciertas loterías, con el propósito de respaldar al Patronato Nacional de la Infancia (PANI) en la actualización y ampliación del mercado de juegos de lotería tradicional, conocidos como Lotería Menor y Lotería Mayor.
 
-CONSIDERANDO: Que La Ley Marco del Sistema de Protección Social, creada mediante Decreto Legislativo 56- 2015 de fecha 2 de julio del año 2015, manda al fortalecimiento financiero del Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza, por otras fuentes de financiamiento tales como: Préstamos, Contribuciones y Subvenciones Instituciones, donaciones, herencias, legados, así como la cooperación nacional e internacional de procedencia lícita, de personas naturales o jurídicas, públicas o privadas, de las que debe dar cuenta mediante informe especial de acuerdo a las normas y procedimientos regulados por el Tribunal Superior de Cuentas (TSC) y el órgano o persona que debe brindar la cooperación; y las demás que se obtengan legalmente a cualquier título.
+CONSIDERANDO: Que La Ley Marco del Sistema de Protección Social, creada mediante Decreto Legislativo 56-2015 de fecha 2 de julio del año 2015, manda al fortalecimiento financiero del Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza, por otras fuentes de financiamiento tales como: Préstamos, Contribuciones y Subvenciones Instituciones, donaciones, herencias, legados, así como la cooperación nacional e internacional de procedencia lícita, de personas naturales o jurídicas, públicas o privadas, de las que debe dar cuenta mediante informe especial de acuerdo a las normas y procedimientos regulados por el Tribunal Superior de Cuentas (TSC) y el órgano o persona que debe brindar la cooperación; y las demás que se obtengan legalmente a cualquier título.
 
 CONSIDERANDO: Que según lo establecido en el Decreto Ejecutivo número PCM-027-2017, de Fecha 25 de marzo del 2017 publicado en el Diario Oficial “La Gaceta” Edición 34,299, donde se establece que en la Ley Marco del Sistema de Protección Social, autorizar al Patronato Nacional de la Infancia (PANI) para trasladar fondos producto de la firma de Convenios de Cooperación al Fideicomiso “Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza”.
 
 POR TANTO:
 
-En aplicación de los artículos 123, 151, 153, 245 número 1), 2), 11), 28), 252, 255 y 269 de la Constitución de la República; 11, 33, 59, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo 266-2013; 3, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decretos Legislativos: 183-2011, 056-2015 y No.
-
-125-2016, Artículo 2; Decretos Ejecutivos PCM 013- 2017 y PCM 072-2016.
+En aplicación de los artículos 123, 151, 153, 245 número 1), 2), 11), 28), 252, 255 y 269 de la Constitución de la República; 11, 33, 59, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo 266-2013; 3, 10, 11 y 13 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decretos Legislativos: 183-2011, 056-2015 y No. 125-2016, Artículo 2; Decretos Ejecutivos PCM 013-2017 y PCM 072-2016.
 
 DECRETA:
 
@@ -79,7 +77,7 @@ JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA CARLOS ALBERTO MADE
 
 ACUERDO JURISDICCIONAL TJE-02-2021
 
-Reglamento de Procedimiento del Recurso de Apelación en Materia Electoral I N D I C E
+Reglamento de Procedimiento del Recurso de Apelación en Materia Electoral INDICE
 
 CAPÍTULO I......................................................................4 DISPOSICIONES GENERALES.....................................4
 

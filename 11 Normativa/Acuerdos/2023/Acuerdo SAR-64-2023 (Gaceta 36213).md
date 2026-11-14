@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo Número SAR-64-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230426-36213/download"
 extraido: "2026-11-14"
-huella: "b53d0c088035b4cc"
+huella: "1a581c69539f09be"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-64-2023
@@ -35,13 +35,9 @@ CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las at
 
 CONSIDERANDO: Que el numeral 13) del Artículo 199 del Código Tributario del Decreto Legislativo número 170-2016 establece que serán atribuciones de las Direcciones Ejecutivas de las Administraciones Tributarias… “las demás funciones que le confieran el presente código y las leyes aplicables”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social, y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 

@@ -11,7 +11,7 @@ paginas: "A. 16 - 31"
 sumario: "Acuerdos Nos. SAR-236-2024, SAR-237-2024, SAR-238-2024, SAR-239-2024, SAR-240-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240520-36538/download"
 extraido: "2026-11-14"
-huella: "d9011afeb63931a4"
+huella: "5a601a8a477078a5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-236-2024
@@ -33,11 +33,7 @@ EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO : Que el Artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el Artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, denominándose como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que el Artículo 199 del Decreto en mención, se establecen las atribuciones del Director Ejecutivo del Servicio de Administración de Rentas (SAR), tales como: 1) Ejercer la representación legal, administración general, dirección y manejo de la institución; 10) Celebrar los actos que sean de su competencia; y 13) Las demás funciones que le confieran el Código Tributario y las leyes aplicables.
 
@@ -51,17 +47,13 @@ CONSIDERANDO: Que el Artículo 205 numeral 1) del Código Tributario, autoriza a
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
-435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que el Artículo 2 del Decreto Ley 102-1974, reformado mediante Artículo 30 del Decreto 51-2003 contentivo de la Ley de Equidad Tributaria, establece que la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), llevará un Registro Tributario Nacional (RTN) de los contribuyentes sujetos a los tributos que administra, según los sistemas y métodos que se estimen más adecuados.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto Ley 102-1974, reformado mediante Artículo 30 del Decreto 51- 2003 contentivo de la Ley de Equidad Tributaria, establece que la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), llevará un Registro Tributario Nacional (RTN) de los contribuyentes sujetos a los tributos que administra, según los sistemas y métodos que se estimen más adecuados.
+CONSIDERANDO: Que el Artículo 45 del Decreto No. 194-2002, contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
-CONSIDERANDO: Que el Artículo 45 del Decreto No.
-
-194-2002, contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
-
-CONSIDERANDO: Que mediante Resolución No. DEI-SG- 0183-C-2008, emitida por la Dirección Ejecutiva de Ingresos
+CONSIDERANDO: Que mediante Resolución No. DEI-SG-0183-C-2008, emitida por la Dirección Ejecutiva de Ingresos
 
 (DEI) y publicada en el Diario Oficial “La Gaceta” en fecha 16 de mayo del 2008, se establece un régimen para que los contribuyentes, agentes de retención y responsables puedan cumplir con sus obligaciones tributarias a través de internet, desarrollando el sistema denominado “DEI en línea.
 
@@ -69,21 +61,21 @@ CONSIDERANDO: Que mediante Acuerdo No. DEISG-080-2013, emitido por la Dirección
 
 (DEI) y publicado en el Diario Oficial “La Gaceta” en fecha 13 de enero del 2014, se aprobó el aplicativo informático denominado DET-Live, siendo un software para la elaboración de declaraciones electrónicas de tributos que respondía a las nuevas necesidades tecnológicas requeridas.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-007- 2017, emitido por el Servicio de Administración de Rentas
+CONSIDERANDO: Que mediante Acuerdo No. SAR-007-2017, emitido por el Servicio de Administración de Rentas
 
 (SAR) y publicado en el Diario Oficial “La Gaceta” en fecha 01 de junio del 2017, se aprobaron temporalmente los formatos de los formularios que fueron utilizados por la Comisionada Presidencial de la Administración Tributaria (CPAT), hasta que el Servicio de Administración de Rentas (SAR), apruebe los nuevos formularios, declaraciones e informes que deben de presentar los obligados tributarios.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-088- 2019, emitido por el Servicio de Administración de Rentas
+CONSIDERANDO: Que mediante Acuerdo No. SAR-088-2019, emitido por el Servicio de Administración de Rentas
 
 (SAR) y publicado en el Diario Oficial “La Gaceta” en fecha 21 de febrero del 2019, se aprobó el formulario SAR 521 mediante el cual los sujetos obligados según el Artículo 47 de la Ley del Impuesto Sobre la Renta, deben presentar el Informe Anual de Socios y Participación de Utilidades.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-084- 2021, emitido por el Servicio de Administración de Rentas
+CONSIDERANDO: Que mediante Acuerdo No. SAR-084-2021, emitido por el Servicio de Administración de Rentas
 
 (SAR) y publicado en el Diario Oficial “La Gaceta” en fecha 11 de mayo del 2021, se aprobaron los Formularios de Declaración Jurada de Inscripciones, Inicio de Actividades y Actualización al Registro Tributario Nacional.
 
 CONSIDERANDO: Que el sistema E-tax ha operado por más de una década, y que con el paso del tiempo este se ha vuelto obsoleto, la Administración Tributaria se ha visto en la necesidad de implementar y poner a disposición nuevas herramientas tecnológicas, que permitirán la prestación de un mejor servicio a los obligados tributarios para el cumplimiento oportuno de sus obligaciones, con un sistema ágil y sencillo reduciendo de esta manera costos para los Obligados Tributarios.
 
-CONSIDERANDO : Que el presente Acuerdo norma las condiciones, requisitos, procedimientos y mecanismos que permitan a los obligados tributarios, el fomento a una cultura tributaria con el cumplimiento voluntario de sus obligaciones tributarias, facilitando el acceso a través de internet a la plataforma digital denominada “Oficina Virtual”, que permitirá al obligado tributario y su delegado habilitar los medios de autenticación, con la finalidad de garantizar la seguridad y confiabilidad de las transacciones realizadas por el obligado tributario.
+CONSIDERANDO: Que el presente Acuerdo norma las condiciones, requisitos, procedimientos y mecanismos que permitan a los obligados tributarios, el fomento a una cultura tributaria con el cumplimiento voluntario de sus obligaciones tributarias, facilitando el acceso a través de internet a la plataforma digital denominada “Oficina Virtual”, que permitirá al obligado tributario y su delegado habilitar los medios de autenticación, con la finalidad de garantizar la seguridad y confiabilidad de las transacciones realizadas por el obligado tributario.
 
 CONSIDERANDO: Que los Artículos 116 y 122 de la Ley General de la Administración Pública, establecen que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones y Providencias, debiendo ser firmados por el titular del órgano que los emite.
 

@@ -8,10 +8,10 @@ gaceta_numero: 36677
 gaceta_fecha: "2024-10-31"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)|La Gaceta 36677]]"
 paginas: "A. 13 - 16"
-sumario: "Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
+sumario: "Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241031-36677/download"
 extraido: "2026-11-14"
-huella: "037a3cb2d71cf976"
+huella: "0dd5c9df1dbd05db"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 047-2024
@@ -23,7 +23,7 @@ huella: "037a3cb2d71cf976"
 | Emisor | Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)\|La Gaceta 36677]] del 2024-10-31 |
 | Páginas | A. 13 - 16 |
-| Según el sumario de La Gaceta | Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
+| Según el sumario de La Gaceta | Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
 
 ## Texto
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Instituto Nacional de Conservación y Desarrollo Forestal, Áreas 
 
 CONSIDERANDO: En el año 2022-2023 se inició el proceso de socialización del Plan de Manejo con involucramiento directo del Departamento de Áreas Protegidas y su coordinación representada en la Oficina de ICF en Islas de la Bahía, dependiente de la Región Forestal de Atlántida, se realizó un proceso amplio de socialización en el que participó la sociedad civil, sector privado, Estado, y municipalidades, involucrando actores claves primarios y secundarios durante el proceso. Se realizaron distintos talleres de socialización en las comunidades de la zona de influencia del Parque (west end, west bay, Mud Hole, Oak Ridg en el municipio de Roatán; Punta Gorda, Diamond Rock, Crawfish Rock en el municipio de Santos Guardiola; El Cayo, Savannah Bigth en el municipio de Guanaja; Barrio El Centro, Los Cayitos en el municipio de Útila) y se pudo verificar en el expediente que documenta el proceso de elaboración del plan de manejo, que se hizo un proceso de consulta ampliamente consensuado con todos los sectores productivos de incidencia económica, social y ambiental.
 
-CONSIDERANDO: Que el Departamento de Áreas Protegidas, emitió DICTAMEN TECNICO DAP-172-2023 mediante el cual determinó que el Plan de Manejo del Parque Nacional Marino Islas de la Bahía, es resultado de un proceso de participación que buscó en todo momento, el consenso de los sectores productivos de incidencia pública y privada (económico, social) y comanejadores del área protegida, concluyendo que el proceso de elaboración del plan de manejo, se ha desarrollado siguiendo los lineamientos técnicos- legales y administrativos establecidos en ley, recomendando a la Dirección Ejecutiva la aprobación del mismo.
+CONSIDERANDO: Que el Departamento de Áreas Protegidas, emitió DICTAMEN TECNICO DAP-172-2023 mediante el cual determinó que el Plan de Manejo del Parque Nacional Marino Islas de la Bahía, es resultado de un proceso de participación que buscó en todo momento, el consenso de los sectores productivos de incidencia pública y privada (económico, social) y comanejadores del área protegida, concluyendo que el proceso de elaboración del plan de manejo, se ha desarrollado siguiendo los lineamientos técnicos-legales y administrativos establecidos en ley, recomendando a la Dirección Ejecutiva la aprobación del mismo.
 
 CONSIDERANDO: La vigencia del Plan de Manejo será de 12 años, contados a partir de la fecha de su aprobación y debida publicación en el Diario Oficial La Gaceta, tal y como lo establece en Acuerdo Ejecutivo ICF. 040-2012, debiendo realizarse revisión a la mitad del término de su vigencia.
 
@@ -105,7 +105,7 @@ Zona donde se pueden realizar actividades de manejo de los recursos marinos, fun
 
 Zona que, por su importancia ecológica, será restringida completamente a la intervención humana, exceptuando aquellas actividades relacionadas con la investigación científica y la educación ambiental.
 
-Zona donde es permitido el uso regulado de los recursos marinos quedando restringida la pesca artesanal, industrial y la acuicultura Zona donde se permite el uso regulado de los recursos marinos y será propicia para el crecimiento y desarrollo económico de las comunidades Es el área perimetral de doce (12) millas náuticas contiguo al límite externo de la Zona Especial Marina (60 metros de profundidad), en el cual se pueden realizar prácticas permitidas según la normativa, exceptuando la pesca industrial Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No.002-2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía.
+Zona donde es permitido el uso regulado de los recursos marinos quedando restringida la pesca artesanal, industrial y la acuicultura Zona donde se permite el uso regulado de los recursos marinos y será propicia para el crecimiento y desarrollo económico de las comunidades Es el área perimetral de doce (12) millas náuticas contiguo al límite externo de la Zona Especial Marina (60 metros de profundidad), en el cual se pueden realizar prácticas permitidas según la normativa, exceptuando la pesca industrial Es la franja costera adyacente al interior de la Zona Especial Marina que se extiende desde la Línea de Marea Alta (LMA) hasta diez (10) metros dentro del territorio insular, en concordancia con la primera subzona de la Zona A definida en el Artículo 7 del Acuerdo Ejecutivo No. 002-2004, Normas Generales para el Control del Desarrollo de las Islas de la Bahía.
 
 #### Artículo 07
 

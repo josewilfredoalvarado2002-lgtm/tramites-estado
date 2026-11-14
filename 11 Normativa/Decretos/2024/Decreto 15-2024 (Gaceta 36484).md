@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 15-2024, 17-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240313-36484/download"
 extraido: "2026-11-14"
-huella: "ecffedc0e2874e18"
+huella: "073c54969975ea68"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 15-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 172 establec
 
 CONSIDERANDO: Que de conformidad al Artículo 340 de la Constitución de la República, se declara de utilidad y necesidad pública la explotación técnica y racional de los Recursos Naturales, asimismo la reglamentación de su aprovechamiento, de acuerdo con el interés social, fijando las condiciones de su otorgamiento a los particulares porque constituye el patrimonio de los hondureños la industria y el comercio en pequeña y gran escala para lo cual su protección es objetivo de ley.
 
-CONSIDERANDO: Que Honduras desde tiempos coloniales ha sido conocida, como un país poseedor de grandes depósitos de diferentes variedades de Ópalos y que mediante Decreto Legislativo No.119-2008 del 9 de septiembre del 2008, publicado en el Diario Oficial “La Gaceta” en la Edición número 31,805 en fecha 7 de enero del 2009, donde se crean áreas reservadas exclusivamente para la explotación de Ópalo en Honduras por los residentes de las zonas del departamento de Lempira, con el objetivo de mantener los beneficios económicos únicamente entre las comunidades involucradas.
+CONSIDERANDO: Que Honduras desde tiempos coloniales ha sido conocida, como un país poseedor de grandes depósitos de diferentes variedades de Ópalos y que mediante Decreto Legislativo No. 119-2008 del 9 de septiembre del 2008, publicado en el Diario Oficial “La Gaceta” en la Edición número 31,805 en fecha 7 de enero del 2009, donde se crean áreas reservadas exclusivamente para la explotación de Ópalo en Honduras por los residentes de las zonas del departamento de Lempira, con el objetivo de mantener los beneficios económicos únicamente entre las comunidades involucradas.
 
 CONSIDERANDO: Que el Ópalo Hondureño es una Gema Única de incomparable belleza natural, que solamente cinco
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ ARTÍCULO 3.- Debido a su importancia y con el propósito de proteger la industr
 
 #### Artículo 4
 
-ARTÍCULO 4.- Se instruye al Instituto Hondureño de Geología y Minas (INHGEOMIN) reglamentar el Decreto Legislativo No.119-2008 de fecha 9 de septiembre del 2008, publicado en el Diario Oficial “La Gaceta”, en la Edición número 31,805, en fecha 7 de enero del 2009, tomando en consideración toda la cadena de valor del Ópalo y su declaratoria del ÓPALO MATRIZ NEGRO “GEMA NACIONAL” a efecto de reglamentar la transformación del mineral, garantizando que el porcentaje de exportación de la Gema Hondureña cortada, pulida, brillada, procesada, transformada y embellecida, sea superior al que podría exportarse el Ópalo negro en bruto.
+ARTÍCULO 4.- Se instruye al Instituto Hondureño de Geología y Minas (INHGEOMIN) reglamentar el Decreto Legislativo No. 119-2008 de fecha 9 de septiembre del 2008, publicado en el Diario Oficial “La Gaceta”, en la Edición número 31,805, en fecha 7 de enero del 2009, tomando en consideración toda la cadena de valor del Ópalo y su declaratoria del ÓPALO MATRIZ NEGRO “GEMA NACIONAL” a efecto de reglamentar la transformación del mineral, garantizando que el porcentaje de exportación de la Gema Hondureña cortada, pulida, brillada, procesada, transformada y embellecida, sea superior al que podría exportarse el Ópalo negro en bruto.
 
 #### Artículo 5
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo número 025-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221001-36042/download"
 extraido: "2026-11-14"
-huella: "dc234ea5624be3d6"
+huella: "63fc90ca9aeeaaea"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 025-2022
@@ -53,9 +53,7 @@ CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-008-2022, de fec
 
 CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-008-2022, de fecha 28 de junio de 2022, emitido por la Abogada Sonia Azucena Escobar Rodríguez, en su condición de Asesora en Convencionalidad y el Abogado Nelson Gerardo Molina F., Director Nacional de Derechos Humanos y Litigios Internacionales de la Procuraduría General de la República, recomienda: “gestionar acuerdo ejecutivo mediante el cual se contengan las facultades de expresa mención de desistir, absolver posiciones, renunciar a los recursos y términos legales, conciliar, transigir, aprobar convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que pueda hacer uso de las referidas facultades en lo relacionado al caso Pedro Magdiel Muñoz Salvador vr Honduras”.
 
-CONSIDERANDO: Que de conformidad al informe No.
-
-451/21, de fecha 25 de diciembre de 2021, emitido por la Comisión Interamericana de Derechos Humanos (CIDH), en el caso 13.769, de Pedro Magdiel Muñoz Salvador-Honduras, y al análisis jurídico: AJ-DNDDHH-LI-PGR-008-2022, de fecha 28 de junio de 2022, emitido por la Procuraduría General de la República, y con fundamento en: Los artículos 228 de la Constitución de la República, 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República; 81 numeral 2) y 82 numeral 2) del Código Procesal Civil; es procedente emitir el presente Acuerdo Ejecutivo para otorgar al Procura­ dor General de la República Abogado Manuel Antonio Díaz Galeas las facultades de expresa mención de desistirse de la acción deducida, absolver posiciones, renunciar a los recursos o los términos legales, conciliar, transigir, aprobar convenios y delegar, con el propósito de darle cumplimiento entre otras garantías, a la establecida en el artículo 1 de la Constitución de la República, en lo referente a asegurar a sus habitantes, en este caso en particular a los familiares de Pedro Magdiel Muñoz Salvador el goce de la justicia, reiterando que para esta administración tal y como lo establece la Constitución de la República en su artículo 59 la persona humana es el fin supremo.
+CONSIDERANDO: Que de conformidad al informe No. 451/21, de fecha 25 de diciembre de 2021, emitido por la Comisión Interamericana de Derechos Humanos (CIDH), en el caso 13.769, de Pedro Magdiel Muñoz Salvador-Honduras, y al análisis jurídico: AJ-DNDDHH-LI-PGR-008-2022, de fecha 28 de junio de 2022, emitido por la Procuraduría General de la República, y con fundamento en: Los artículos 228 de la Constitución de la República, 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República; 81 numeral 2) y 82 numeral 2) del Código Procesal Civil; es procedente emitir el presente Acuerdo Ejecutivo para otorgar al Procura­ dor General de la República Abogado Manuel Antonio Díaz Galeas las facultades de expresa mención de desistirse de la acción deducida, absolver posiciones, renunciar a los recursos o los términos legales, conciliar, transigir, aprobar convenios y delegar, con el propósito de darle cumplimiento entre otras garantías, a la establecida en el artículo 1 de la Constitución de la República, en lo referente a asegurar a sus habitantes, en este caso en particular a los familiares de Pedro Magdiel Muñoz Salvador el goce de la justicia, reiterando que para esta administración tal y como lo establece la Constitución de la República en su artículo 59 la persona humana es el fin supremo.
 
 POR TANTO:
 

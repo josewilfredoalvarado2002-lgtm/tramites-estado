@@ -11,7 +11,7 @@ paginas: "A. 183 - 184"
 sumario: "Acuerdo Número SAR-76-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260413-37116/download"
 extraido: "2026-11-09"
-huella: "a7a0745968f699d9"
+huella: "047cea0a422837ff"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-76-2026
@@ -57,9 +57,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 POR TANTO:
 
-El Servicio de Administración de Rentas, en uso de las facultades que la Ley le confiere y en aplicación de los artículos 1, 333 de la Constitución de la República; 14 numeral 7), 195, 197 numeral 1), 198 numerales 1), 12), 15) y 199 numeral 1) del Código Tributario; 7, 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No.
-
-044-2026; Acuerdo Ejecutivo No. 203-2026; y, demás disposiciones aplicables.
+El Servicio de Administración de Rentas, en uso de las facultades que la Ley le confiere y en aplicación de los artículos 1, 333 de la Constitución de la República; 14 numeral 7), 195, 197 numeral 1), 198 numerales 1), 12), 15) y 199 numeral 1) del Código Tributario; 7, 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24, 25 y 26 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo Número 01-2017; Acuerdo Ejecutivo No. 044-2026; Acuerdo Ejecutivo No. 203-2026; y, demás disposiciones aplicables.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 117-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241111-36686/download"
 extraido: "2026-11-14"
-huella: "ed56477d4ffc4621"
+huella: "7de0eb215b931773"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 117-2019
@@ -51,9 +51,7 @@ QUINTO: La Ley Marco del Sector de Agua Potable y Saneamiento en su artículo 18
 
 SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRADORA DE AGUA DE LA COLONIA SAN FERNANDO, MUNICIPIO DE SIGUATEPEQUE, con domicilio en la comunidad de la colonia San Fernando, municipio de Siguatepeque, departamento de Comayagua, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
 
-SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No.
-
-118-2019 de fecha 21 de enero del año 2019, se pronunció en el sentido de: “...Que en virtud de ser procedente la petición. Formulada por el Abogado JOSE MARIA ALEMAN PORTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA DE LA COLONIA SAN FERNANDO, MUNICIPIO DE SIGUATEPEQUE, con domicilio en la comunidad de la colonia San Fernando, municipio de Siguatepeque, departamento de Comayagua, salvo mejor criterio, se dicte resolución, concediendo la PERSONALIDAD JURÍDICA a favor de su representada, de generales expresadas en el preámbulo de esta solicitud...”.
+SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No. 118-2019 de fecha 21 de enero del año 2019, se pronunció en el sentido de: “...Que en virtud de ser procedente la petición. Formulada por el Abogado JOSE MARIA ALEMAN PORTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA DE LA COLONIA SAN FERNANDO, MUNICIPIO DE SIGUATEPEQUE, con domicilio en la comunidad de la colonia San Fernando, municipio de Siguatepeque, departamento de Comayagua, salvo mejor criterio, se dicte resolución, concediendo la PERSONALIDAD JURÍDICA a favor de su representada, de generales expresadas en el preámbulo de esta solicitud...”.
 
 OCTAVO: Que de acuerdo a lo establecido en los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA DE LA COLONIA SAN FERNANDO, MUNICIPIO DE SIGUATEPEQUE, la Asamblea General, es la máxima autoridad de la junta y expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad.
 

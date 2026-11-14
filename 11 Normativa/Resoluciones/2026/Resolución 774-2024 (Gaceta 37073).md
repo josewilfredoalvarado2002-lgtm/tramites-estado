@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 774-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260218-37073/download"
 extraido: "2026-11-09"
-huella: "3f69affe2655ebfd"
+huella: "efc8a3892b205430"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 774-2024
@@ -35,7 +35,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, veintisiete de junio del año dos mil veinticuatro.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintinueve de octubre del año dos mil veintiuno, misma que corre a Expediente Administrativo No. PJ-29102021- 763, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA SAN CARLOS", la cual se encuentra domiciliada en la Colonia San Carlos, Municipio de Catacamas, Departamento de Olancho; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintinueve de octubre del año dos mil veintiuno, misma que corre a Expediente Administrativo No. PJ-29102021-763, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la "JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA SAN CARLOS", la cual se encuentra domiciliada en la Colonia San Carlos, Municipio de Catacamas, Departamento de Olancho; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 CONSIDERANDO: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

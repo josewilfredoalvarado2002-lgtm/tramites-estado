@@ -11,7 +11,7 @@ paginas: "A. 56"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201214-35459/download"
 extraido: "2026-11-14"
-huella: "da8bb4d153d54492"
+huella: "f7c5d1f77aac7682"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-596-2020
@@ -29,7 +29,7 @@ huella: "da8bb4d153d54492"
 
 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE LA SECRETARIA DE TRABAJO Y SEGURIDAD SOCIAL
 
-CONSIDERANDO: Que mediante Acuerdo No.129-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020, se nombra al ciudadano Olvin Aníbal Villalobos Velásquez, en el cargo de Secretario de Estado en los Despachos de Trabajo y Seguridad Social.
+CONSIDERANDO: Que mediante Acuerdo No. 129-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020, se nombra al ciudadano Olvin Aníbal Villalobos Velásquez, en el cargo de Secretario de Estado en los Despachos de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que la Secretaría de Estado tiene a su cargo la orientación, coordinación, dirección y supervisión de los órganos de la administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas en las ares de su competencia
 

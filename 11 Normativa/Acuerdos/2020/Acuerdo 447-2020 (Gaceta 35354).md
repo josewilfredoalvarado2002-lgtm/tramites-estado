@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200826-35354/download"
 extraido: "2026-11-14"
-huella: "dc874104f1016986"
+huella: "7fac3f2660e09eda"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 447-2020
@@ -35,11 +35,11 @@ Que el Presidente de la República tiene dentro de sus facultades constitucional
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.86-2020 de fecha 20 de agosto de 2020, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARCO ANTONIO MIDENCE MILLA.
+Que mediante Acuerdo No. 86-2020 de fecha 20 de agosto de 2020, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARCO ANTONIO MIDENCE MILLA.
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.13- 2018 de fecha 27 de enero de 2018, fue nombrado Presidente del Banco Central de Honduras, el ciudadano WILFREDO RAFAEL CERRATO RODRÍGUEZ.
+Que mediante Acuerdo No. 13-2018 de fecha 27 de enero de 2018, fue nombrado Presidente del Banco Central de Honduras, el ciudadano WILFREDO RAFAEL CERRATO RODRÍGUEZ.
 
 CONSIDERANDO:
 
@@ -65,7 +65,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 RICARDO LEONEL CARDONA LÓPEZ
 
-Secretario Privado y Jefe del Gabinete Presidencial Acuerdo No.009-2018 ROXANA MELANI RODRIGUEZ Subsecretaria de Finanzas y Presupuesto ______ LA EMPRESA NACIONAL DE ARTES GRÁFICAS no es responsable del contenido de las publicaciones, en todos los casos la misma es fiel con el original que recibimos para el propósito
+Secretario Privado y Jefe del Gabinete Presidencial Acuerdo No. 009-2018 ROXANA MELANI RODRIGUEZ Subsecretaria de Finanzas y Presupuesto ______ LA EMPRESA NACIONAL DE ARTES GRÁFICAS no es responsable del contenido de las publicaciones, en todos los casos la misma es fiel con el original que recibimos para el propósito
 
 ## Fuente
 

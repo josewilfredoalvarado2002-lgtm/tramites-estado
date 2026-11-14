@@ -8,7 +8,7 @@ gaceta_numero: 35195
 gaceta_fecha: "2020-03-07"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35195 (2020-03-07)|La Gaceta 35195]]"
 paginas: "A. 11"
-sumario: "Acuerdo número 08SECRETARÍA DE FINANZASAcuerdos Ejecutivos números 193-2020, 196-2020"
+sumario: "Acuerdo número 08; SECRETARÍA DE FINANZAS: Acuerdos Ejecutivos números 193-2020, 196-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35195/download"
 extraido: "2026-11-14"
 huella: "e0087b7f57e33b0f"
@@ -23,7 +23,7 @@ huella: "e0087b7f57e33b0f"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35195 (2020-03-07)\|La Gaceta 35195]] del 2020-03-07 |
 | Páginas | A. 11 |
-| Según el sumario de La Gaceta | Acuerdo número 08SECRETARÍA DE FINANZASAcuerdos Ejecutivos números 193-2020, 196-2020 |
+| Según el sumario de La Gaceta | Acuerdo número 08; SECRETARÍA DE FINANZAS: Acuerdos Ejecutivos números 193-2020, 196-2020 |
 
 ## Texto
 

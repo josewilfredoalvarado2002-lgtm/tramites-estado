@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdos Nos. 0122-SE-2025, 0123-SE-2025, 0156-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250303-36780/download"
 extraido: "2026-11-12"
-huella: "32554f349d91ca38"
+huella: "2c5ff6d3b9ccd322"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0122-SE-2025
@@ -43,7 +43,7 @@ CONSIDERANDO (6): Que la Ley Fundamental de Educación, en el Capítulo II del a
 
 CONSIDERANDO (7): Que la Ley Fundamental de Educación en el Capítulo IV DE LAS MODALIDADES DE EDUCACION en el Artículo 27 manifiesta: Son las opciones organizativas y curriculares que ofrece el Sistema Nacional de Educación, bajo los principios de integralidad, equidad e inclusión de todos los grupos y personas para dar respuesta a requerimientos específicos de formación, sean estos de carácter permanente o temporal.
 
-CONSIDERANDO (8): Que según Decreto No. 262- 2011 de la Ley Fundamental de Educación en el Título IV, Capitulo II, Del Currículo de la Educación Nacional en su
+CONSIDERANDO (8): Que según Decreto No. 262-2011 de la Ley Fundamental de Educación en el Título IV, Capitulo II, Del Currículo de la Educación Nacional en su
 
 #### Artículo 59
 
@@ -59,11 +59,9 @@ CONSIDERANDO (10): Que el Plan de Estudios y los Programas Curriculares del Bach
 
 CONSIDERANDO (11): Que la Ley General de la Administración Pública, en el artículo 36 establece: son atribuciones y deberes comunes a los Secretarios de Estado, numerales 1 y 8; Emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delega el Presidente de la República y cuidar su ejecución.
 
-CONSIDERANDO (12): Que por Acuerdo No. 1819-EP- 92 del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
+CONSIDERANDO (12): Que por Acuerdo No. 1819-EP-92 del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
 
-CONSIDERANDO (13): Que mediante el Acuerdo 0747- SE-2024 del 14 de mayo del 2024, deroga el Acuerdo No.
-
-0166- SE-2023 de fecha 16 de febrero de 2023, en lo referente al Bachillerato en Ciencias y Humanidades.
+CONSIDERANDO (13): Que mediante el Acuerdo 0747- SE-2024 del 14 de mayo del 2024, deroga el Acuerdo No. 0166- SE-2023 de fecha 16 de febrero de 2023, en lo referente al Bachillerato en Ciencias y Humanidades.
 
 POR TANTO:
 
@@ -77,7 +75,7 @@ PRIMERO: Aprobar a partir del 01 de febrero del 2025, la Adecuación de la Malla
 
 SEGUNDO: El Bachillerato en Ciencias y Humanidades para la Educación Alternativa de Jóvenes y Adultos, tendrá una duración de dos años aplicable en los Centros Educativos Gubernamentales y No Gubernamentales, se desarrollará en forma flexible siguiendo un proceso continuo, sistemático, progresivo, gradual hasta completar el plan de estudios.
 
-TERCERO: Derogar en el Acuerdo No.2324-SE-2016 exclusivamente el Bachillerato en Ciencias y Humanidades de dos años y aprobar a partir de febrero 2024 el Bachillerato Ciencias y Humanidades (dos años) con la nueva adecuación del Bachillerato en Ciencias y Humanidades que se desarrollará conforme a lo establecido en los Planes y Programas de estudios de Educación Media.
+TERCERO: Derogar en el Acuerdo No. 2324-SE-2016 exclusivamente el Bachillerato en Ciencias y Humanidades de dos años y aprobar a partir de febrero 2024 el Bachillerato Ciencias y Humanidades (dos años) con la nueva adecuación del Bachillerato en Ciencias y Humanidades que se desarrollará conforme a lo establecido en los Planes y Programas de estudios de Educación Media.
 
 BACHILLERATO EN CIENCIAS Y HUMANIDADES DE LA MODALIDAD ALTERNATIVA (DOS AÑOS) FORMACIÓN DE FUNDAMENTO FORMACIÓN ORIENTADA Y (DÉCIMO GRADO) No.
 
@@ -189,7 +187,7 @@ TOTAL HORAS CLASES
 
 32
 
-CUARTO: Derogar el Acuerdo No.0041-SE-2016 y aprobar a partir de febrero 2024 el Bachillerato Ciencias y Humanidades Acelerado (un año) con la nueva adecuación del Bachillerato en Ciencias y Humanidades que se desarrollará conforme a lo establecido en los Planes y Programas de estudios de Educación Media.
+CUARTO: Derogar el Acuerdo No. 0041-SE-2016 y aprobar a partir de febrero 2024 el Bachillerato Ciencias y Humanidades Acelerado (un año) con la nueva adecuación del Bachillerato en Ciencias y Humanidades que se desarrollará conforme a lo establecido en los Planes y Programas de estudios de Educación Media.
 
 QUINTO: El Bachillerato en Ciencias y Humanidades Acelerado para la Educación Alternativa de Jóvenes y Adultos tiene una duración de un año (12 Meses); aplicable en los Centros Educativos Gubernamentales y No Gubernamentales, se desarrollará en forma flexible siguiendo un proceso continuo, sistemático, progresivo, gradual hasta completar el año lectivo.
 

@@ -11,7 +11,7 @@ paginas: "A. 19 - 99"
 sumario: "Acuerdo No. 0632-ARSA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240813-36611/download"
 extraido: "2026-11-14"
-huella: "d702fe27d0429766"
+huella: "75ed391e2b1ae4f6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.0632-ARSA-2023
@@ -943,7 +943,7 @@ Artículo 41. Requisitos para obtener la Licencia Sanitaria Nueva de Establecimi
 
 1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA LICENCIA SANITARIA NUEVA DE ESTABLECIMIENTO” e incluya los siguientes datos:
 
-a. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l establecimiento.
+a. Nombre y generales del propietario o representante legal del establecimiento.
 
 b. Razón social o denominación de la sociedad o comerciante individual.
 
@@ -977,9 +977,9 @@ h. Firma y huella del solicitante (sello profesional cuando aplique).
 
 Artículo 42. Requisitos para obtener la renovación de la Licencia Sanitaria de Establecimiento. Para la renovación de la Licencia Sanitaria se debe cumplir con los siguientes requisitos:
 
-1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA R E N O VA C I Ó N D E L I C E N C I A SANITARIA DE ESTABLECIMIENTO” que incluya los siguientes datos:
+1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA RENO VA CIÓN DE LICENCIA SANITARIA DE ESTABLECIMIENTO” que incluya los siguientes datos:
 
-a. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l establecimiento.
+a. Nombre y generales del propietario o representante legal del establecimiento.
 
 b. Razón social o denominación de la sociedad o comerciante individual.
 
@@ -1009,7 +1009,7 @@ Artículo 43. Requisitos para obtener la Modificación de la Licencia Sanitaria 
 
 1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA MODIFICACIÓN DE LICENCIA SANITARIA DE ESTABLECIMIENTO” que debe incluir los siguientes datos:
 
-a. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l establecimiento.
+a. Nombre y generales del propietario o representante legal del establecimiento.
 
 b. Razón social o denominación de la sociedad o comerciante individual.
 
@@ -1519,7 +1519,7 @@ i. Etiquetas originales del envase/empaque primario y/o secundario. ii.
 
 Nuevo proyecto de etiqueta donde se refleje el cambio.
 
-l. C a m b i o o a m p l i a c i ó n d e distribuidor:
+l. Cambio o ampliación de distribuidor:
 
 i. Número de Licencia Sanitaria vigente de los distribuidores a ser incluidos. ii.
 
@@ -1599,7 +1599,7 @@ Contrato con el nuevo empacador. iii.
 
 Nuevas etiquetas originales del envase/empaque primario, secundario o sus proyectos.
 
-h. C a m b i o o a m p l i a c i ó n d e indicaciones:
+h. Cambio o ampliación de indicaciones:
 
 i. Monografía e inserto actualizado.
 
@@ -1933,7 +1933,7 @@ Artículo 65. Requisitos para obtener Nuevo Permiso Sanitario para Emprendedores
 
 a. Nombre y generales del solicitante.
 
-b. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l emprendimiento (cuando aplique).
+b. Nombre y generales del propietario o representante legal del emprendimiento (cuando aplique).
 
 c. Nombre del establecimiento.
 
@@ -1967,7 +1967,7 @@ Artículo 66. Requisitos para obtener la Renovación de Permiso Sanitario para E
 
 a. Nombre y generales del solicitante.
 
-b. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l emprendimiento, cuando aplique.
+b. Nombre y generales del propietario o representante legal del emprendimiento, cuando aplique.
 
 c. Nombre del establecimiento.
 
@@ -2007,7 +2007,7 @@ c. Cambio por ampliación o reducción de servicios.
 
 d. Cambio de titular o representante legal.
 
-e. C a m b i o d e u b i c a c i ó n d e l establecimiento.
+e. Cambio de ubicación del establecimiento.
 
 Debiendo cumplir los siguientes requisitos:
 
@@ -2015,7 +2015,7 @@ Debiendo cumplir los siguientes requisitos:
 
 a. Nombre y generales del solicitante.
 
-b. Nombre y generales del propietario o r e p r e s e n t a n t e l e g a l d e l emprendimiento (cuando aplique).
+b. Nombre y generales del propietario o representante legal del emprendimiento (cuando aplique).
 
 c. Nombre del emprendimiento.
 
@@ -2075,7 +2075,7 @@ Artículo 69. Requisitos para obtener Nuevo Registro Sanitario para Emprendedore
 
 1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA NUEVO REGISTRO SANITARIO PARA EMPRENDEDORES” que debe incluir los siguientes datos:
 
-a. Nombre y generales del solicitante o r e p r e s e n t a n t e l e g a l d e l emprendimiento (cuando aplique).
+a. Nombre y generales del solicitante o representante legal del emprendimiento (cuando aplique).
 
 b. Nombre del emprendimiento.
 
@@ -2103,7 +2103,7 @@ Artículo 70. Requisitos para obtener la Renovación del Registro Sanitario de E
 
 1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA RENOVACIÓN DEL REGISTRO SANITARIO PARA EMPRENDEDORES” que debe incluir los siguientes datos:
 
-a. Nombre y generales del solicitante o r e p r e s e n t a n t e l e g a l d e l emprendimiento (cuando aplique).
+a. Nombre y generales del solicitante o representante legal del emprendimiento (cuando aplique).
 
 b. Nombre del emprendimiento.
 
@@ -2289,7 +2289,7 @@ d. Nombre específico en idioma español de la materia prima en concordancia con
 
 e. Tipo y cantidad (en unidades del sistema internacional) de materia prima o aditivo alimentario a importar durante seis (6) meses. No se debe reportar el contenido en número de contenedores.
 
-f. U s o y / o t r a n s f o r m a c i ó n tecnológica específica que se le dará a la materia prima o aditivo alimentario (QUEDA PROHIBIDA S U C O M E R C I A L I Z A C I Ó N O D I S T R I B U C I Ó N A L CONSUMIDOR FINAL).
+f. U s o y / o transformación tecnológica específica que se le dará a la materia prima o aditivo alimentario (QUEDA PROHIBIDA SU COMERCIALIZACIÓN O DISTRIBUCIÓN AL CONSUMIDOR FINAL).
 
 g. Aduana de ingreso.
 
@@ -2335,7 +2335,7 @@ Artículo 77. La Agencia de Regulación Sanitaria no otorgará las autorizacione
 
 3. Producto que se utiliza como empaque y no en la elaboración de alimentos.
 
-4. Aditivos alimentarios que no están autorizados en el RTCA ALIMENTOS Y B E B I D A S P R O C E S A D A S .
+4. Aditivos alimentarios que no están autorizados en el RTCA ALIMENTOS Y BEBIDAS PROCESADAS .
 
 ADITIVOS ALIMENTARIOS o CODEX ALIMENTARIUS (cuando aplique).
 
@@ -2447,7 +2447,7 @@ k. Firma y huella del solicitante (sello profesional cuando aplique).
 
 Artículo 80. La etiqueta de los aditivos alimentarios que se comercialicen debe cumplir con los requisitos descritos a continuación:
 
-1. Nombre específico y clase funcional de acuerdo con el RTCA ALIMENTOS Y BEBIDAS PROCESADAS. ADITIVOS A L I M E N T A R I O S o C O D E X ALIMENTARIUS en sus respectivas versiones vigentes.
+1. Nombre específico y clase funcional de acuerdo con el RTCA ALIMENTOS Y BEBIDAS PROCESADAS. ADITIVOS ALIMENTARIOS o CODEX ALIMENTARIUS en sus respectivas versiones vigentes.
 
 2. Contenido neto en unidades del Sistema Internacional.
 
@@ -2467,7 +2467,7 @@ Artículo 80. La etiqueta de los aditivos alimentarios que se comercialicen debe
 
 10. Fecha de vencimiento.
 
-11. Instrucciones de uso según indicaciones de RTCA ALIMENTOS Y BEBIDAS P R O C E S A D A S . A D I T I V O S A L I M E N TA R I O S y / o C O D E X ALIMENTARIUS en su versión vigente para el tipo de alimento y dosis máxima de uso recomendadas.
+11. Instrucciones de uso según indicaciones de RTCA ALIMENTOS Y BEBIDAS PROCESADAS . A D I T I V O S A L I M E N TA RIOS y / o CODEX ALIMENTARIUS en su versión vigente para el tipo de alimento y dosis máxima de uso recomendadas.
 
 12. Instrucciones de conservación.
 

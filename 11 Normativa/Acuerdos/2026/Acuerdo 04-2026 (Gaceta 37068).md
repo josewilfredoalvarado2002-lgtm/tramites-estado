@@ -11,7 +11,7 @@ paginas: "A. 18 - 25"
 sumario: "Acuerdos Nos. CREE-04-2026, CREE-07-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260212-37068/download"
 extraido: "2026-11-09"
-huella: "447ba183e414441c"
+huella: "64924074b3ac57a7"
 ---
 <!-- portal:inicio -->
 # ACUERDO CREE No. 04-2026
@@ -41,7 +41,7 @@ Además, si se trata de distribuidoras que sirven sistemas aislados, deben lleva
 
 3. Que la Ley General de la Industria Eléctrica (LGIE) faculta a la Comisión Reguladora de Energía Eléctrica (CREE) para realizar estudios tarifarios de forma paralela; en consecuencia, durante el proceso de revisión de las tarifas que la sociedad mercantil denominada Roatan Electric Company, S.A. de C.V. (RECO) aplicaría a sus usuarios finales en los municipios de Roatán, esta Comisión compartió el modelo tarifario elaborado por los consultores de la Comisión Reguladora, el cual contemplaba, entre otros aspectos, las fórmulas de ajuste de la estructura tarifaria.
 
-4. Que conforme con lo establecido en la Ley General de la Industria Eléctrica (LGIE) la Comisión Reguladora de Energía Eléctrica (CREE) mediante Resolución CREE- 22-2025 de fecha dieciocho (18) de agosto de dos mil veinticinco (2025), notificó a la sociedad mercantil Roatan Electric Company, S.A. de C.V. (RECO) las discrepancias que subsisten entre las partes como resultado de la revisión de la propuesta tarifaria por la referida empresa distribuidora. Cabe mencionar que entre las discrepancias subsistentes no figuraban las fórmulas de ajuste.
+4. Que conforme con lo establecido en la Ley General de la Industria Eléctrica (LGIE) la Comisión Reguladora de Energía Eléctrica (CREE) mediante Resolución CREE-22-2025 de fecha dieciocho (18) de agosto de dos mil veinticinco (2025), notificó a la sociedad mercantil Roatan Electric Company, S.A. de C.V. (RECO) las discrepancias que subsisten entre las partes como resultado de la revisión de la propuesta tarifaria por la referida empresa distribuidora. Cabe mencionar que entre las discrepancias subsistentes no figuraban las fórmulas de ajuste.
 
 5. Que mediante Resolución CREE-25-2025 de fecha ocho
 

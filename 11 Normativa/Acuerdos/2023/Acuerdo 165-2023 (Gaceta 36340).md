@@ -11,7 +11,7 @@ paginas: "A. 1 - 18"
 sumario: "Acuerdo Ministerial No. 165-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230922-36340/download"
 extraido: "2026-11-14"
-huella: "dcf3bdad72f09659"
+huella: "4e60265ee4d0dba8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 165-2023
@@ -57,11 +57,11 @@ Que los Estados deben aplicar ampliamente el Principio Precautorio de la FAO, en
 
 CONSIDERANDO (7):
 
-Que el Acuerdo Ejecutivo STSS- 577-20 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana de los buzos que trabajan en esta pesquería.
+Que el Acuerdo Ejecutivo STSS-577-20 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana de los buzos que trabajan en esta pesquería.
 
 CONSIDERANDO (8):
 
-Que la Secretaría de Agricultura y Ganadería SAG a través de la Dirección General de Pesca y Acuicultura DIGEPESCA procura impulsar el ordenamiento en la pesca de pepino de mar, velando por su sostenibilidad y sustentabilidad, en consecuencia, continuar con el PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS, siendo el objetivo general del mismo la identificación del estado actual de las poblaciones de pepino de mar específicamente, H o l o t h u r i a m e x i c a n a (Molongo) con el fin de tomar decisiones de manejo, según las recomendaciones de los informes técnicos de las temporadas en las que se ha ejecutado el protocolo, orientadas a la implementación de un Plan de ordenamiento y manejo Pesquero sobre este recurso según lo instruye la Ley de Pesca y Acuicultura.
+Que la Secretaría de Agricultura y Ganadería SAG a través de la Dirección General de Pesca y Acuicultura DIGEPESCA procura impulsar el ordenamiento en la pesca de pepino de mar, velando por su sostenibilidad y sustentabilidad, en consecuencia, continuar con el PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS, siendo el objetivo general del mismo la identificación del estado actual de las poblaciones de pepino de mar específicamente, Holothuria mexicana (Molongo) con el fin de tomar decisiones de manejo, según las recomendaciones de los informes técnicos de las temporadas en las que se ha ejecutado el protocolo, orientadas a la implementación de un Plan de ordenamiento y manejo Pesquero sobre este recurso según lo instruye la Ley de Pesca y Acuicultura.
 
 CONSIDERANDO (9):
 

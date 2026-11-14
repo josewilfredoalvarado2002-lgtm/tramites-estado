@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-017-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200319-35204/download"
 extraido: "2026-11-14"
-huella: "b5fdc12aa1356611"
+huella: "0776c046517ad1d0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-017-2020
@@ -111,7 +111,7 @@ ARTÍCULO 4.- Autorizar al Servicio Nacional de Emprendimiento y de Pequeños Ne
 
 #### Artículo 5
 
-ARTÍCULO 5.- Derogar el Artículo 7 del PCM-005- 2015, publicado en el Diario Oficial “La Gaceta”, en fecha 3 de Marzo del 2015, en la edición No. 33,672, y sus reformas.
+ARTÍCULO 5.- Derogar el Artículo 7 del PCM-005-2015, publicado en el Diario Oficial “La Gaceta”, en fecha 3 de Marzo del 2015, en la edición No. 33,672, y sus reformas.
 
 #### Artículo 6
 

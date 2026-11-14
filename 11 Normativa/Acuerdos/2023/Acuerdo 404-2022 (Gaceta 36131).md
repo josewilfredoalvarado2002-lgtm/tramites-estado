@@ -8,7 +8,7 @@ gaceta_numero: 36131
 gaceta_fecha: "2023-01-17"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36131 (2023-01-17)|La Gaceta 36131]]"
 paginas: "A. 1"
-sumario: "Acuerdos Ejecutivos Nos. 404-2022, 412-2022PODER JUDICIALCertificación, Recurso de Inconstitucionalidad No. SCO-0800-2017 Certificación, Recurso de Inconstitucionalidad No. SCO-1007-2019"
+sumario: "Acuerdos Ejecutivos Nos. 404-2022, 412-2022; PODER JUDICIAL: Certificación, Recurso de Inconstitucionalidad No. SCO-0800-2017 Certificación, Recurso de Inconstitucionalidad No. SCO-1007-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230117-36131/download"
 extraido: "2026-11-14"
 huella: "fe85731000bd8ce7"
@@ -23,7 +23,7 @@ huella: "fe85731000bd8ce7"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36131 (2023-01-17)\|La Gaceta 36131]] del 2023-01-17 |
 | Páginas | A. 1 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 404-2022, 412-2022PODER JUDICIALCertificación, Recurso de Inconstitucionalidad No. SCO-0800-2017 Certificación, Recurso de Inconstitucionalidad No. SCO-1007-2019 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 404-2022, 412-2022; PODER JUDICIAL: Certificación, Recurso de Inconstitucionalidad No. SCO-0800-2017 Certificación, Recurso de Inconstitucionalidad No. SCO-1007-2019 |
 
 ## Texto
 

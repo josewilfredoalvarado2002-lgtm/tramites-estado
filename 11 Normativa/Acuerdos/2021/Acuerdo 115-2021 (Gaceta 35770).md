@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 115-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211112-35770/download"
 extraido: "2026-11-14"
-huella: "a89d51cc1cfd357d"
+huella: "2aa7f39d48702387"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 115-2021
@@ -33,13 +33,11 @@ CONSIDERANDO: Que el Presidente de la República tiene la potestad de nombrar a 
 
 CONSIDERANDO: Que mediante Acuerdo No. 009-2018, de fecha 27 enero de 2018, se delegó en el Secretario Privado y Jefe de Gabinete Presidencial, con Rango de Secretario de Estado, ciudadano RICARDO LEONEL CARDONA LÓPEZ, la potestad de firmar todos los Acuerdos de las Secretarías de Estado y demás Instituciones dependientes del Poder Ejecutivo.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-142-2020 de fecha veintinueve (29) de octubre del año dos mil veinte (2020) se designó al ciudadano RAFAEL ENRIQUE RUIZ PAREDES, las funciones de Comisionado Presidente del Instituto Hondureño de Transporte Terrestre (IHTT).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 142-2020 de fecha veintinueve (29) de octubre del año dos mil veinte (2020) se designó al ciudadano RAFAEL ENRIQUE RUIZ PAREDES, las funciones de Comisionado Presidente del Instituto Hondureño de Transporte Terrestre (IHTT).
 
 POR TANTO;
 
-En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública. Decreto No. 155- 2015; Decreto No. 61-2019.
+En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública. Decreto No. 155-2015; Decreto No. 61-2019.
 
 ACUERDA:
 

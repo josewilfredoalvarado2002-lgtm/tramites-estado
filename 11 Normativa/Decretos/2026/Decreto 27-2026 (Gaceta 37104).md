@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decretos Nos. 25-2026, 26-2026, 27-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260326-37104/download"
 extraido: "2026-11-09"
-huella: "3258250330e6c52c"
+huella: "3242ef1cba3932cb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 27-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Alcaldía Municipal de San Jerónimo, Departamento de Comay
 
 CONSIDERANDO: Que el Protocolo Facultativo del Pacto Internacional de Derechos Económicos, Sociales y Culturales fue ratificado por Honduras el 16 de Enero del año 2018, hace suyos los principios universales de este instrumento internacional, para adoptar las medidas de la asistencia y la cooperación especialmente económicas y técnicas con la finalidad de que todos los pueblos tengan el derecho de libre determinación, estableciendo libremente su condición política y proveyendo asimismo al desarrollo económico, social y cultural de sus Estados miembros.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No.170-2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No. 170-2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes,
 

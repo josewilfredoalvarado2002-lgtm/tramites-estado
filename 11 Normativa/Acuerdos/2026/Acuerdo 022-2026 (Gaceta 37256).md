@@ -11,7 +11,7 @@ paginas: "A. 15 - 17"
 sumario: "Acuerdos OPCE Nos. 017-2026, 0182026, 019-2026, 020-2026, 021-2026, 022-2026, 023-2026, 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260926-37256/download"
 extraido: "2026-11-09"
-huella: "087a24ff966ddc18"
+huella: "a052203b48239d46"
 ---
 <!-- portal:inicio -->
 # ACUERDO OPCE No. 022-2026
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad con los Artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con los Artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No.
-
-280-2012 (COMIECO-LXII), del 14 de mayo de 2012, se aprobó para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua, el Reglamento Técnico Centroamericano RTCA 67.01.07.10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados).
+CONSIDERANDO: Que mediante la Resolución No. 280-2012 (COMIECO-LXII), del 14 de mayo de 2012, se aprobó para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua, el Reglamento Técnico Centroamericano RTCA 67.01.07.10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados).
 
 CONSIDERANDO: Que la República de Panamá ha manifestado su interés en adoptar el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), por lo que se somete a consideración del Consejo la aprobación de presente acto administrativo.
 
@@ -55,9 +53,9 @@ ACUERDA:
 
 PRIMERO: Publicar de conformidad a lo establecido en el
 
-Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 501-2026 (COMIECO-CXIII); que en la parte resolutiva “… RESUELVE: 1. Modificar el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado mediante la Resolución No. 280- 2012 (COMIECO-LXII), del 14 mayo de 2012, incorporando en el Numeral 9.2.1, la Nota siguiente: “Nota 1. Para los productos comercializados en la República de Panamá, cuando la etiqueta original, incluyendo la información indicada en los apartados 5.7 y 5.8 de este Reglamento, se encuentre en idioma inglés, se podrá, de manera alternativa a la etiqueta complementaria impresa, poner a disposición del consumidor la traducción al idioma español utilizando medios informáticos o tecnológicos. 2. Aprobar la adopción, por la República de Panamá, del Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado mediante la Resolución No. 280-2012 (COMIECO-LXII), del 14 de mayo de 2012 y sus reformas aprobadas en el numeral anterior y en la Resolución No. 499-2026 (COMIECO-CXIII), del 26 de junio de 2026. 3. La presente Resolución entrará en vigor el 26 de febrero de 2027 y será publicada por los Estados Parte…”.
+Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 501-2026 (COMIECO-CXIII); que en la parte resolutiva “… RESUELVE: 1. Modificar el Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado mediante la Resolución No. 280-2012 (COMIECO-LXII), del 14 mayo de 2012, incorporando en el Numeral 9.2.1, la Nota siguiente: “Nota 1. Para los productos comercializados en la República de Panamá, cuando la etiqueta original, incluyendo la información indicada en los apartados 5.7 y 5.8 de este Reglamento, se encuentre en idioma inglés, se podrá, de manera alternativa a la etiqueta complementaria impresa, poner a disposición del consumidor la traducción al idioma español utilizando medios informáticos o tecnológicos. 2. Aprobar la adopción, por la República de Panamá, del Reglamento Técnico Centroamericano RTCA 67.01.07:10 Etiquetado General de los Alimentos Previamente Envasados (Preenvasados), aprobado mediante la Resolución No. 280-2012 (COMIECO-LXII), del 14 de mayo de 2012 y sus reformas aprobadas en el numeral anterior y en la Resolución No. 499-2026 (COMIECO-CXIII), del 26 de junio de 2026. 3. La presente Resolución entrará en vigor el 26 de febrero de 2027 y será publicada por los Estados Parte…”.
 
-SEGUNDO: El texto integrado de la Resolución No. 501- 2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
+SEGUNDO: El texto integrado de la Resolución No. 501-2026 (COMIECO-CXIII) se pondrá a disposición en la página web de la Oficina Presidencial de Comercio Exterior (OPCE), misma que puede ser consultada en la página web de la Secretaría de Integración Económica Centroamericana (SIECA) www.siece.int.
 
 TERCERO: El presente Acuerdo entrará en vigor a partir de la fecha y deberá publicarse en el Diario Oficial “La Gaceta” y en la página web de la Oficina Presidencial de Comercio Exterior.
 

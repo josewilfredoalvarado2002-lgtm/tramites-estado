@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 032-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230911-36331/download"
 extraido: "2026-11-14"
-huella: "fe0b734b5c77c8e5"
+huella: "83627c53eb00a783"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 032-2023
@@ -33,9 +33,7 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que en el Artículo 7 del Decreto Ejecutivo PCM-05-2022 de fecha 06 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” en fecha 06 de abril del 2022, se Crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura, para lo cual contara con dos Subsecretarias, la Subsecretaria de Obras Públicas y la Subsecretaria de Transporte. Las atribuciones y competencias de la Inversión Estratégica/MCC-Honduras (INVEST-H), así como los programas y proyectos pasarán a formar parte de esta Secretaría de Estado.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-58-2011, publicado en el Diario Oficial La Gaceta en fecha 13 de Julio 2011, fue aprobada la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, la cual tiene por objeto simplificar y agilizar los procedimientos de ejecución de proyectos de infraestructura pública, con el propósito de generar empleo y lograr mayor crecimiento económico a través de la modernización de la infraestructura nacional, las normas y procedimientos establecidos en esta Ley serán aplicables a las unidades ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2011, publicado en el Diario Oficial La Gaceta en fecha 13 de Julio 2011, fue aprobada la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, la cual tiene por objeto simplificar y agilizar los procedimientos de ejecución de proyectos de infraestructura pública, con el propósito de generar empleo y lograr mayor crecimiento económico a través de la modernización de la infraestructura nacional, las normas y procedimientos establecidos en esta Ley serán aplicables a las unidades ejecutoras de la Administración Pública Centralizada y Descentralizada a cargo de proyectos de infraestructura pública de cualquier naturaleza.
 
 CONSIDERANDO: Que en el artículo 22 de la Ley Especial para la Simplificación de los Procedimientos de Inversión en Infraestructura Pública, establece que: los dueños de terrenos continuos o cercanos a cualquier obra de infraestructura pública, cuyos predios hayan sido identificados por la respectiva unidad ejecutora a cargo del proyecto como idóneos para servir como bancos de materiales, están obligados a facilitar y permitir la extracción de todo el material que sea necesario para la apertura, construcción, mantenimiento del proyecto, sin costo alguno para el Estado o sus contratistas, previa notificación al propietario.
 
@@ -55,7 +53,7 @@ CONSIDERANDO: Que la normativa antes relacionada concede al Estado de Honduras, 
 
 DEPARTAMENTO DE COPAN, FASE 1., Ubicado en el Municipio de Santa Rosa de Copán, del Departamento de Copán, y ejecutado por la Secretaría de Infraestructura y Transporte (SIT), a través de la Empresa de Construcción y Transporte ETERNA, S.A. de C.V.
 
-CONSIDERANDO: Que las Unidades Desarrollo Social y Registro Minero y Catastral dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Informe Técnico ITCD-33-2023 de fecha 24 de julio del año 2023, de conformidad a la inspección realizada el día 20 de julio del 2023, a un (01) Banco de Préstamo de Materiales denominado: Bancos Aluvial QUESAILICA el cual está ubicado en el municipio de Santa Rosa de Copán, del departamento de Copán, mismo que será utilizado en el Proyecto denominado: PAVIMENTACION CON CONCRETO HIDRAULICO 4,000 PSI, 04S15920 RUTA 159, CA-4 DULCE NOMBRE, 4.90 KM. DEPARTAMENTO DE COPAN, FASE 1., asimismo, las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-20- 2023, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo del Banco de materiales.
+CONSIDERANDO: Que las Unidades Desarrollo Social y Registro Minero y Catastral dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron el Informe Técnico ITCD-33-2023 de fecha 24 de julio del año 2023, de conformidad a la inspección realizada el día 20 de julio del 2023, a un (01) Banco de Préstamo de Materiales denominado: Bancos Aluvial QUESAILICA el cual está ubicado en el municipio de Santa Rosa de Copán, del departamento de Copán, mismo que será utilizado en el Proyecto denominado: PAVIMENTACION CON CONCRETO HIDRAULICO 4,000 PSI, 04S15920 RUTA 159, CA-4 DULCE NOMBRE, 4.90 KM. DEPARTAMENTO DE COPAN, FASE 1., asimismo, las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-20-2023, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo del Banco de materiales.
 
 CONSIDERANDO: Que en fecha veintiocho (28) de julio del año dos mil veintitrés (2023), las Unidades Técnicas de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitieron Dictamen número UDS-BP-042-2023, el cual literalmente dice: “…IV.
 
@@ -63,7 +61,7 @@ REQUERIMIENTOS Y/O RECOMENDACIONES:
 
 Se requiere a la empresa encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto complete la siguiente información: Copia de Resolución de autorización de explotación del banco de préstamo emitido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) mediante Acuerdo Ministerial, establecido en LA LEY ESPECIAL PARA LA SIMPLIFICACION DE LOS PROCESOS DE INVERSION E INFRAESTRUCTURA PUBLICA, de acuerdo a lo instituido en los artículos No. 24, No. 25 y No. 26 de dicha Ley. Informe de socialización de las actividades a realizar con las comunidades de La Esperancita y la Aldea de Quesailica, aledañas donde se ejecutará la extracción del banco de material. Presentar plan de higiene y seguridad laboral, descrito en las medidas de mitigación.
 
-Permiso o autorización por parte del dueño de propiedad para acceder al banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Además, cumplir con las recomendaciones plasmadas en los informes ITCD- 33-2023, en cuanto a los trabajos de extracción para el Banco Quesailica...”.
+Permiso o autorización por parte del dueño de propiedad para acceder al banco de material. Bitácora de volumen de material extraído debidamente firmada y sellada por la persona a cargo una vez inicien las labores de explotación. Además, cumplir con las recomendaciones plasmadas en los informes ITCD-33-2023, en cuanto a los trabajos de extracción para el Banco Quesailica...”.
 
 POR TANTO:
 

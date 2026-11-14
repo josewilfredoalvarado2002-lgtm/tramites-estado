@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 041-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211108-35766/download"
 extraido: "2026-11-14"
-huella: "6c76cb09a0ea2579"
+huella: "260dd656a9226bc9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 041-2021
@@ -37,13 +37,9 @@ CONSIDERANDO: Que la Ley Orgánica de la Procuraduría General de la República,
 
 CONSIDERANDO: Que mediante instrumento número once
 
-(11) de fecha treinta (30) de abril del año dos mil trece (2013), ante los oficios del Notario Público Mario Alonso Aguilar Gonzales, el Estado de Honduras adquirió mediante compra venta al “Banco Atlántida, S, A.”, varios inmuebles ubicados en el lugar denominados “TENGUAJE”, jurisdicción del municipio de Comayagua, departamento de Comayagua, los cuales se encuentran inscritos a su favor bajo las matrículas N°.
+(11) de fecha treinta (30) de abril del año dos mil trece (2013), ante los oficios del Notario Público Mario Alonso Aguilar Gonzales, el Estado de Honduras adquirió mediante compra venta al “Banco Atlántida, S, A.”, varios inmuebles ubicados en el lugar denominados “TENGUAJE”, jurisdicción del municipio de Comayagua, departamento de Comayagua, los cuales se encuentran inscritos a su favor bajo las matrículas N°. 27462, 1097563, 109776, 109804, 109808, 109814, 109818, 31463 y 356012 del Registro de la Propiedad Inmueble y Mercantil del Departamento de Comayagua.
 
-27462, 1097563, 109776, 109804, 109808, 109814, 109818, 31463 y 356012 del Registro de la Propiedad Inmueble y Mercantil del Departamento de Comayagua.
-
-CONSIDERANDO: Que mediante artículo 3 del Decreto Legislativo N°. 176-2013, se instó a Ia Secretaría de Estado en el Despacho de Seguridad conjuntamente con Ia Secretaría de Estado en los Despachos del Interior y Población, para que de acuerdo a lo consensuado con los pobladores del Departamento de Comayagua y lo cual consta en el Acta N°.
-
-105, de sesión de Cabildo Abierto Consultivo celebrada por Ia Corporación Municipal de Comayagua, Departamento de Comayagua el día sábado 3 de Agosto del 2013, que las instalaciones adquiridas por el Estado de Honduras a que hace referencia este Decreto se gestione la construcción del Centro Integral de Estudios y para capacitación de mano de obra a beneficia de todos los ciudadanos.
+CONSIDERANDO: Que mediante artículo 3 del Decreto Legislativo N°. 176-2013, se instó a Ia Secretaría de Estado en el Despacho de Seguridad conjuntamente con Ia Secretaría de Estado en los Despachos del Interior y Población, para que de acuerdo a lo consensuado con los pobladores del Departamento de Comayagua y lo cual consta en el Acta N°. 105, de sesión de Cabildo Abierto Consultivo celebrada por Ia Corporación Municipal de Comayagua, Departamento de Comayagua el día sábado 3 de Agosto del 2013, que las instalaciones adquiridas por el Estado de Honduras a que hace referencia este Decreto se gestione la construcción del Centro Integral de Estudios y para capacitación de mano de obra a beneficia de todos los ciudadanos.
 
 CONSIDERANDO: Que mediante artículo 1 del Decreto Legislativo N°. 348-2013, se reforma el Artículo 3 del Decreto N°. 176-2013, el cual debe leerse así: “ARTÍCULO 3.- La Secretaría de Estado en el Despacho de Seguridad conjuntamente con la Secretaría de Estado en los Despachos del Interior y Población, de acuerdo a lo consensuado con los pobladores del Departamento de Comayagua y lo cual consta en el Acta N°. 105, de sesión de Cabildo Abierto Consultivo celebrada por la Corporación Municipal de Comayagua, Departamento de Comayagua debe gestionar el día sábado 3 de Agosto del 2013, que de las instalaciones adquiridas por el Estado de Honduras que hace referencia este Decreto se gestione la Construcción del Centro Integral de Estudios y para Capacitación de Mano de Obra a beneficio de todos los pobladores de Honduras incluyendo Policías Nacionales, Policías Penitenciarios y Bomberos o se destine para programas o proyectos para generación de empleo, con exclusión de un área del mismo de 19,103.2752 metros cuadrados (M2), equivalentes a 27,399.0635 varas cuadradas (V2), que viene a representar 2.7399 Manzanas (Mz), que colinda desde el Punto 43 al Punto 70 de los rumbos Norte, Noroeste y Noreste con inmueble de Donaldo Domínguez Ríos, y desde el Punto 43 al Punto B y del Punto B al Punto A, y del Punto A al Punto 70 de los rumbos Sur, Sureste y Suroeste, con el inmueble propiedad del Estado de Honduras del cual se desmembra esta área específica, la cual se reorienta específicamente para ser adjudicada al Poder Judicial de Honduras a fin de ser utilizado para el cumplimiento de sus delicadas funciones institucionales”.
 
@@ -87,9 +83,7 @@ POR TANTO: En aplicación de los artículos: 321 de la Constitución de la Repú
 
 ACUERDA:
 
-PRIMERO: DELEGAR a la Licenciada ANNY CAROLINA VALLADARES O CONNOR, en el periodo comprendido del 28 de octubre al 12 de noviembre, 2021, las funciones, potestades y atribuciones comprendidas en los artículos 29 y 30 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contentivo en el Decreto Ejecutivo No.
-
-PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio, 1997).
+PRIMERO: DELEGAR a la Licenciada ANNY CAROLINA VALLADARES O CONNOR, en el periodo comprendido del 28 de octubre al 12 de noviembre, 2021, las funciones, potestades y atribuciones comprendidas en los artículos 29 y 30 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, contentivo en el Decreto Ejecutivo No. PCM-008-97 (publicado en el Diario Oficial La Gaceta el 7 de junio, 1997).
 
 SEGUNDO: La delegada es responsable de la función delegada y presentará al finalizar el periodo de la delegación para archivo correspondiente del Despacho Ministerial, un informe detallando los actos ejecutados.
 

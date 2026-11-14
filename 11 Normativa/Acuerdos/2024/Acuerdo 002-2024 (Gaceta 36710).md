@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos SETUR No. 002-2024, 011-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241209-36710/download"
 extraido: "2026-11-14"
-huella: "323862a44187915b"
+huella: "7f8dfadaf53f20a6"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETUR No. 002-2024
@@ -47,7 +47,7 @@ En aplicación de los Artículos 34 y 36 de la Ley General de la Administración
 
 ACUERDA:
 
-PRIMERO: Delegar en el ciudadano LUIS GUILLERMO CHEVEZ CONTRERAS, en su condición de Subsecretario de Estado en el Despacho de Planificación, Gestión e Inversión, dependiente de la Secretaría de Estado en el Despacho de Turismo, las funciones del Titular de la Secretaría de Estado en el Despacho de Turismo y Presidencia Ejecutiva del Instituto Hondureño , autorizándolo para emitir y firmar las resoluciones que deben adoptarse en la ejecución de las leyes y sus reglamentos, cuya aplicación competa a la Secretaría de Estado en el Despacho de Turismo y el Instituto Hondureño de Turismo, firmar en mi representación todos los trámites administrativos, resoluciones, acuerdos, contratos de servicios profesionales de investigadores de campo, carné de identificación de investigadores de campo y cualquier otro documento a excepción de los asuntos de Promoción y Mercadeo y los de los contratos que se derivan de la Gerencia de Recursos Humanos y los Convenios de Cooperación, con la salvedad que esta delegación será turnada al funcionario antes mencionado por periodos comprendidos y que serán comunicados mediante ACUERDO MINISTERIAL, firmados por la Secretaría de Estado en el Despacho de Turismo, la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA.-SEGUNDO: El Servidor Público Delegado será responsable del ejercicio de las funciones encomendadas en el periodo que esté asignado.-TERCERO:
+PRIMERO: Delegar en el ciudadano LUIS GUILLERMO CHEVEZ CONTRERAS, en su condición de Subsecretario de Estado en el Despacho de Planificación, Gestión e Inversión, dependiente de la Secretaría de Estado en el Despacho de Turismo, las funciones del Titular de la Secretaría de Estado en el Despacho de Turismo y Presidencia Ejecutiva del Instituto Hondureño, autorizándolo para emitir y firmar las resoluciones que deben adoptarse en la ejecución de las leyes y sus reglamentos, cuya aplicación competa a la Secretaría de Estado en el Despacho de Turismo y el Instituto Hondureño de Turismo, firmar en mi representación todos los trámites administrativos, resoluciones, acuerdos, contratos de servicios profesionales de investigadores de campo, carné de identificación de investigadores de campo y cualquier otro documento a excepción de los asuntos de Promoción y Mercadeo y los de los contratos que se derivan de la Gerencia de Recursos Humanos y los Convenios de Cooperación, con la salvedad que esta delegación será turnada al funcionario antes mencionado por periodos comprendidos y que serán comunicados mediante ACUERDO MINISTERIAL, firmados por la Secretaría de Estado en el Despacho de Turismo, la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA.-SEGUNDO: El Servidor Público Delegado será responsable del ejercicio de las funciones encomendadas en el periodo que esté asignado.-TERCERO:
 
 El siguiente Acuerdo es efectivo a partir del día primero (01) de marzo al 31 de diciembre del año dos mil veinticuatro (2024).
 

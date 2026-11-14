@@ -11,7 +11,7 @@ paginas: "A. 1 - 49"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220920-36032/download"
 extraido: "2026-11-14"
-huella: "dedfc5ecf3006f2b"
+huella: "8aeca697c60dd6ae"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -47,7 +47,7 @@ CUARTO: Que la Dirección General de Fiscalía cuenta dentro de su estructura or
 
 QUINTO: Que esta Fiscalía General de la República suscribió en fecha 24 de junio de 2022 el acuerdo interinstitucional entre el Ministerio Público y el Fondo de Población de las Naciones Unidas, para la implementación de planes de trabajo financiados por UNFPA relativos al programa de país para Honduras del periodo 2022-2026; dentro de las actividades es financiada una unidad móvil adscrita al MAIE para agilizar y facilitar el acceso a la justicia de la población más vulnerable a través de la atención especializada de los grupos como los menores, mujeres, tercera edad, personas con capacidades especiales, testigos y víctimas de violencia de género en todas sus formas, con el fin de ofrecer una solución inmediata a sus necesidades, brindándoles servicios in situ en el área de salud, legal, clínica forense y psicológica y de esta manera practicar las primeras diligencias investigativas en relación a la denuncia y las derivaciones correspondientes en zonas donde exista alta incidencia del delito.
 
-SEXTO: Que es prioridad de esta Fiscalía General de la República establecer los mecanismos necesarios para impulsar el proceso de modernización institucional y concretizar los objetivos estratégicos determinados para el periodo 2021- 2025 que permitan a nuestra institución adaptarse a los requerimientos de un sistema de justicia criminal moderno; por ende, dicha unidad móvil adscrita al MAIE viene a optimizar y fortalecer la gestión fiscal a través de un acercamiento con la población vulnerable facilitando su acceso a la justicia.
+SEXTO: Que es prioridad de esta Fiscalía General de la República establecer los mecanismos necesarios para impulsar el proceso de modernización institucional y concretizar los objetivos estratégicos determinados para el periodo 2021-2025 que permitan a nuestra institución adaptarse a los requerimientos de un sistema de justicia criminal moderno; por ende, dicha unidad móvil adscrita al MAIE viene a optimizar y fortalecer la gestión fiscal a través de un acercamiento con la población vulnerable facilitando su acceso a la justicia.
 
 Por ende, para coordinar y fortalecer dicha gestión fiscal a través de la referida unidad, es necesaria la formulación y elaboración de un protocolo para el uso de la unidad móvil y los procedimientos a realizarse de forma estandariza por los servidores y funcionarios que desarrollen sus funciones en la referida unidad móvil adscrita al MAIE, permitiendo con ello potencializar los trámites, investigaciones y el juzgamiento de casos con relevancia jurídico penal y medir objetivamente el desempeño de los fiscales, delimitando una política clara, firme y fuerte para combatir el delito con la obtención de resultados tangibles que resultan imprescindible en la actualidad para beneficio de la administración de justicia.
 
@@ -351,9 +351,9 @@ N° Responsable Actividad Documentos Personal que se traslada en se brindará la
 
 *Normas de conducta obligatoria del conductor y del personal que se traslade en la unidad móvil estará a lo dispuesto en el Estatuto de la Carrera del Ministerio Público, su Reglamento Especial y el Código de Ética de los servidores del Ministerio Público.
 
-A.9. Hojas de Trabajo A.9.1. Acta de Entrega – Recepción El Módulo de Atención Integral Especializado (MAIE) hace entrega al servidor , ID:
+A.9. Hojas de Trabajo A.9.1. Acta de Entrega – Recepción El Módulo de Atención Integral Especializado (MAIE) hace entrega al servidor, ID:
 
-Que se desempeña en el car­ go, adscrito al despacho , teléfono correo electrónico Asignado para uso único de atención de niñas y mujeres víctimas de violencia basada en género, respetando las nor­ mas establecidas.
+Que se desempeña en el car­ go, adscrito al despacho, teléfono correo electrónico Asignado para uso único de atención de niñas y mujeres víctimas de violencia basada en género, respetando las nor­ mas establecidas.
 
 El receptor del vehículo se compromete a las siguientes normas y especificaciones:
 
@@ -855,9 +855,7 @@ ENTREVISTA INICIAL
 
 3.1. Nombre del ofendida (o) Secundaria incompleta Ninguna
 
-3.2. ¿Es primera vez que denuncia? Si No
-
-3.3. ¿Por qué?
+3.2. ¿Es primera vez que denuncia? Si No 3.3. ¿Por qué?
 
 3.4. Numero de identidad:
 
@@ -943,9 +941,7 @@ Fijo:
 
 7.9. Ha sido denunciado anteriormente:
 
-Si No
-
-7.10. Ocupación u oficio:
+Si No 7.10. Ocupación u oficio:
 
 7.11. Dirección de Residencia:
 
@@ -1041,9 +1037,7 @@ Hoja de Trabajo de Remisión de Primeras Diligencias de Investigación REMISIÓN
 
 1.1. Fecha:
 
-1.2. N°
-
-1.4. Ofendido(s):
+1.2. N° 1.4. Ofendido(s):
 
 1.5. Imputado(s):
 
@@ -1213,9 +1207,9 @@ Sexo M F
 
 1.10. Ocupación:
 
-1.11. Estado civil :
+1.11. Estado civil:
 
-1.12. Escolaridad :
+1.12. Escolaridad:
 
 1.13 Actividad:
 
@@ -1721,7 +1715,7 @@ Testículos:
 
 Escroto:
 
-Reflejo cremastérico :
+Reflejo cremastérico:
 
 Presente:
 

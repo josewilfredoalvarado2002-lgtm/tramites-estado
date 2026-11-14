@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 098-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231027-36368-2/download"
 extraido: "2026-11-14"
-huella: "b2fb8f869ef1cbd9"
+huella: "bd4db2cb0b109f49"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 098-2023
@@ -31,9 +31,7 @@ LA SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONOMICO
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre la República Dominicana- Centroamérica y Estados Unidos (RD-CAFTA), fue aprobado por el Congreso Nacional mediante Decreto número 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de Marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las Listas Arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado entre la República Dominicana-Centroamérica y los Estados Unidos RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
 CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para los productos importados bajo contingentes al amparo del RD-CAFTA, los importadores deberán contar con un certificado de importación válido y vigente, emitido por la Secretaría de Desarrollo Económico, previa presentación de constancia de estar solvente con sus obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013 y el Recibo de pago TGR-1 por L. 200.00.
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Ministeriales Nos. 117-2021, 120-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210610-35624/download"
 extraido: "2026-11-14"
-huella: "11a0d88a17f38d62"
+huella: "dc51d58c1f97223a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 117-2021
@@ -47,7 +47,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus 
 
 ACUERDA:
 
-PRIMERO: Implementar e incorporar al orden jurídico interno y de conformidad con el Anexo 18.01 (4) del Tratado para el conocimiento público y su observancia general, la Decisión No.40 “Adecuaciones al Anexo 4.03 Secciones B Y C del Tratado de Libre Comercio entre Centroamérica y Chile derivadas de la Sexta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías (S.A 2017)” adoptada el día 10 noviembre de 2020 por la Comisión Administradora del Tratado de Libre Comercio entre Centroamérica y Chile.
+PRIMERO: Implementar e incorporar al orden jurídico interno y de conformidad con el Anexo 18.01 (4) del Tratado para el conocimiento público y su observancia general, la Decisión No. 40 “Adecuaciones al Anexo 4.03 Secciones B Y C del Tratado de Libre Comercio entre Centroamérica y Chile derivadas de la Sexta Enmienda al Sistema Armonizado de Designación y Codificación de Mercancías (S.A 2017)” adoptada el día 10 noviembre de 2020 por la Comisión Administradora del Tratado de Libre Comercio entre Centroamérica y Chile.
 
 SEGUNDO: La Decisión y sus anexos serán publicados en el sitio web de esta Secretaría de Estado (www.sde.gob.hn) y debe remitirse copia a la Administración Aduanera de Honduras
 

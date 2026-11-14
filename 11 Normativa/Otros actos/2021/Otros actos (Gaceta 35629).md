@@ -11,7 +11,7 @@ paginas: "A. 1 - 36"
 sumario: "Acuerdos C.D. SENASA 001-2021, 002-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210616-35629/download"
 extraido: "2026-11-14"
-huella: "f7017d8f34f51979"
+huella: "94fa435cc3dd9110"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.D. SENASA 001-2021, 002-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el país debe adecuar la aplicación de la legislación fitosa
 
 POR TANTO
 
-En ejercicio de las funciones que les asigna los artículos 245 N°. 11) de la Constitución de la República; 7, 29, 36 nume­ rales 1), 2), 5), 6), 8), 116, 118, 119 numerales 2) y 122 de la Ley General de la Administración Pública; artículos 1 y 13 del PCM 015-2020 de la Creación del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA); 1, 2, 3, 6, 7, 9, 12, 13, 14, 17, 19, 39, Decreto 157-94 reformado mediante Decreto No. 344-2005, de la Ley Fitozoosanitaria y la Ley de Semillas Decreto No.1046.
+En ejercicio de las funciones que les asigna los artículos 245 N°. 11) de la Constitución de la República; 7, 29, 36 nume­ rales 1), 2), 5), 6), 8), 116, 118, 119 numerales 2) y 122 de la Ley General de la Administración Pública; artículos 1 y 13 del PCM 015-2020 de la Creación del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA); 1, 2, 3, 6, 7, 9, 12, 13, 14, 17, 19, 39, Decreto 157-94 reformado mediante Decreto No. 344-2005, de la Ley Fitozoosanitaria y la Ley de Semillas Decreto No. 1046.
 
 ACUERDA:
 
@@ -983,7 +983,7 @@ a. CERTISEM, mediante el análisis de la solicitud, recomendará al Director del
 
 b. Se debe realizar el pago respectivo del Registro de autorización, según lo que se establece en el Reglamento de Tasas por Servicios de SENASA o Resolución Ministerial;
 
-c. Los acreditados serán inscritos en el registro correspondiente que se llevará en CERTISEM , el cual contendrá la siguiente información:
+c. Los acreditados serán inscritos en el registro correspondiente que se llevará en CERTISEM, el cual contendrá la siguiente información:
 
 - Número de registro
 
@@ -1307,7 +1307,7 @@ Artículo 120. El infractor podrá impugnar por escrito y mediante Apoderado Leg
 
 #### Artículo 121
 
-Artículo 121. Cuando habiendo sido citado en debida forma el infractor y éste no compareciera personalmente a la audiencia dentro de los cinco días , o mediante apoderado dentro de los diez días siguientes, el SENASA-SAG asumirá que en efecto, las infracciones han sido cometidas por el denunciado, en este caso, quince días después de recluido el derecho de comparecer, dictará resolución imponiendo la sanción que corresponda conforme a lo estipulado en el presente reglamento.
+Artículo 121. Cuando habiendo sido citado en debida forma el infractor y éste no compareciera personalmente a la audiencia dentro de los cinco días, o mediante apoderado dentro de los diez días siguientes, el SENASA-SAG asumirá que en efecto, las infracciones han sido cometidas por el denunciado, en este caso, quince días después de recluido el derecho de comparecer, dictará resolución imponiendo la sanción que corresponda conforme a lo estipulado en el presente reglamento.
 
 #### Artículo 122
 
@@ -1329,7 +1329,7 @@ SEGUNDO: Este Reglamento entrará en vigencia a partir de la fecha de su publica
 
 TERCERO: Hacer las transcripciones de Ley.
 
-Dado en la ciudad de Tegucigalpa, M.D.C, a los cuatro días del mes de marzo del año 2021 X M A U R IC IO G U E V A R A Pre sid e n te d e l C o n se jo D ire ctivo d e l SE N A SA X X DORIS MADRID Subdirectora Ejcutiva de ADUANDAS ADUANAS Ejecutiva X X X DAVID ANTONIO ALVARADO Directivo Suplente SDE IR IS LO R E N A G ALE AN O BAR R ALAG A D ire ctiva Su p le n te C o m isio n a d a AR SA JU AN JO SE C R U Z D ire ctivo Su p le n te C O H E P X X H E C T O R F E R R E IR A SABILLO N D ire ctivo Su p le n te F E N AG H X H AN S R U D O LF C R AM E R KR E TSC H M E R D ire ctivo Su p le n te F PX X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo SAG-SENASA Servicio Nacional de Sanidad e Inocuidad Agroalimentaria ACUERDO C.D. SENASA 002-2021 Tegucigalpa, M.D.C., EL CONSEJO DIRECTIVO DEL SERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA
+Dado en la ciudad de Tegucigalpa, M.D.C, a los cuatro días del mes de marzo del año 2021 X M A U R IC IO GUEVARA Pre sid e n te del Con se jo D ire ctivo d e l SE N A SA X X DORIS MADRID Subdirectora Ejcutiva de ADUANDAS ADUANAS Ejecutiva X X X DAVID ANTONIO ALVARADO Directivo Suplente SDE IR IS LO R E N A G ALE AN O BAR R ALAG A D ire ctiva Su p le n te C o m isio nada AR SA JU AN JO SE C R U Z D ire ctivo Su p le n te C O H E P X X H E C T O R F E R R E IR A SABILLO N D ire ctivo Su p le n te F E N AG H X H AN S R U D O LF C R AM E R KR E TSC H M E R D ire ctivo Su p le n te F PX X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo SAG-SENASA Servicio Nacional de Sanidad e Inocuidad Agroalimentaria ACUERDO C.D. SENASA 002-2021 Tegucigalpa, M.D.C., EL CONSEJO DIRECTIVO DEL SERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA
 
 CONSIDERANDO: Que corresponde al Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), la formulación, coordinación, ejecución y evaluación de las políticas sobre producción, conservación y comercialización de alimentos; la modernización de la agricultura y la ganadería, la pesca, la acuicultura, la apicultura y la sanidad animal, entre otras atribuciones.
 
@@ -1403,7 +1403,7 @@ CAPÍTULO III DEL REGISTRO DE VARIEDADES
 
 #### Artículo 5
 
-Artículo 5.- Todas las variedades de semilla de papa destinadas para la producción, importación y comercialización deben ser registradas en el SENASA a través del CERTISEM y cumplir con los requisitos estipulados en el Reglamento General de la Ley de Semillas y la Ley Fitozoosanitaria, Decreto No.157-94 modificado mediante Decreto 344-2005 de SENASA.
+Artículo 5.- Todas las variedades de semilla de papa destinadas para la producción, importación y comercialización deben ser registradas en el SENASA a través del CERTISEM y cumplir con los requisitos estipulados en el Reglamento General de la Ley de Semillas y la Ley Fitozoosanitaria, Decreto No. 157-94 modificado mediante Decreto 344-2005 de SENASA.
 
 #### Artículo 6
 
@@ -1771,9 +1771,9 @@ Dado en la cuidad de Tegucigalpa, M.D.C, a los cuatro días del mes de marzo del
 
 X
 
-M A U R IC IO G U E V A R A
+M A U R IC IO GUEVARA
 
-Pre sid e n te d e l C o n se jo D ire ctivo d e l SE N A SA X X DORIS MADRID Subdirectora Ejcutiva de ADUANDAS ADUANAS Ejecutiva X X X DAVID ANTONIO ALVARADO Directivo Suplente SDE IR IS LO R E N A G ALE AN O BAR R ALAG A D ire ctiva Su p le n te C o m isio n a d a AR SA JU AN JO SE C R U Z D ire ctivo Su p le n te C O H E P X X H E C T O R F E R R E IR A SABILLO N D ire ctivo Su p le n te F E N AG H X H AN S R U D O LF C R AM E R KR E TSC H M E R D ire ctivo Su p le n te F PX X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo
+Pre sid e n te del Con se jo D ire ctivo d e l SE N A SA X X DORIS MADRID Subdirectora Ejcutiva de ADUANDAS ADUANAS Ejecutiva X X X DAVID ANTONIO ALVARADO Directivo Suplente SDE IR IS LO R E N A G ALE AN O BAR R ALAG A D ire ctiva Su p le n te C o m isio nada AR SA JU AN JO SE C R U Z D ire ctivo Su p le n te C O H E P X X H E C T O R F E R R E IR A SABILLO N D ire ctivo Su p le n te F E N AG H X H AN S R U D O LF C R AM E R KR E TSC H M E R D ire ctivo Su p le n te F PX X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo
 
 ## Fuente
 

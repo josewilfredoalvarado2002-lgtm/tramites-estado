@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Nos. SG-SEDESPA-115-2025,SG-SEDESPA-133-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251202-37008/download"
 extraido: "2026-11-09"
-huella: "3b0117e9ebf9448a"
+huella: "6677b916f8633ebd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-133-2025
@@ -37,7 +37,7 @@ CONSIDERANDO (03): El superior podrá delegar el ejercicio de sus funciones para
 
 CONSIDERANDO (04): Que la Ley General de la Administración Pública establece que, los Secretarios de Estados, podrán delegar cualquiera de sus facultades, incluyendo las que hubieren sido delegadas por el Presidente de la República, así como la resolución de los Recursos Administrativos y las que por disposición de la Ley o de los Reglamentos, deban ser ejercidos por ellos mismos.
 
-CONSIDERANDO (05): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43- 2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
+CONSIDERANDO (05): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43-2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
 
 CONSIDERANDO (06): La competencia es irrenunciable y se ejercerá por los órganos que la tengan atribuida en la Ley; sin embargo, el Órgano Superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación indicar el órgano delegante, el objeto de la delegación y el órgano delegado.
 

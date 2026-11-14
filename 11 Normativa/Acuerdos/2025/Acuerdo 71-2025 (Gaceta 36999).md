@@ -11,7 +11,7 @@ paginas: "A. 21 - 28"
 sumario: "Certificaciones, Acuerdos Nos. 68-2025, 71-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251121-36999/download"
 extraido: "2026-11-09"
-huella: "8f99982a9de7c4d2"
+huella: "8c00386f8796df1f"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 71-2025
@@ -27,7 +27,7 @@ huella: "8f99982a9de7c4d2"
 
 ## Texto
 
-CERTIFICACIÓN 2691-2025. La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad de votos en el punto VII (Asuntos Electorales) numeral ciento setenta y tres (173) Acta Número 54-2025, correspondiente a la Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día domingo dos (02), de noviembre del año dos mil veinticinco, reanudada los días lunes tres (03), martes cuatro (04), miércoles cinco (05), jueves seis (06), viernes siete (07), sábado ocho (08), domingo nueve (09), lunes diez (10), martes once (11) y miércoles doce (12), jueves trece (13), viernes catorce (14), sábado quince (15), domingo dieciséis (16), lunes diecisiete (17), martes dieciocho (18), miércoles diecinueve (19), jueves veinte (20) del mismo mes y año, que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: ACUERDO No. 71- 2025 contentivo del REGLAMENTO DE CUSTODIOS ELECTORALES PARA ELECCIONES GENERALES 2025. EL CONSEJO NACIONAL ELECTORAL,
+CERTIFICACIÓN 2691-2025. La infrascrita, Secretaria General del Consejo Nacional Electoral por este medio CERTIFICA el ACUERDO tomado por unanimidad de votos en el punto VII (Asuntos Electorales) numeral ciento setenta y tres (173) Acta Número 54-2025, correspondiente a la Sesión Ordinaria, celebrada por el Pleno de este Órgano Electoral el día domingo dos (02), de noviembre del año dos mil veinticinco, reanudada los días lunes tres (03), martes cuatro (04), miércoles cinco (05), jueves seis (06), viernes siete (07), sábado ocho (08), domingo nueve (09), lunes diez (10), martes once (11) y miércoles doce (12), jueves trece (13), viernes catorce (14), sábado quince (15), domingo dieciséis (16), lunes diecisiete (17), martes dieciocho (18), miércoles diecinueve (19), jueves veinte (20) del mismo mes y año, que literalmente dice: “El Pleno de Consejeros, en cumplimiento al artículo 21 numeral 4) inciso d) de la Ley Electoral de Honduras emite el Acuerdo siguiente: ACUERDO No. 71-2025 contentivo del REGLAMENTO DE CUSTODIOS ELECTORALES PARA ELECCIONES GENERALES 2025. EL CONSEJO NACIONAL ELECTORAL,
 
 CONSIDERANDO (1): Que el Consejo Nacional Electoral es el órgano especial, autónomo e independiente, sin relaciones de subordinación con los Poderes del Estado, creado en la Constitución de la República, con competencia exclusiva para efectuar los actos y procedimientos administrativos, técnicos y de logística electoral. Tiene competencia en todo el territorio nacional y su domicilio es en la capital de la República.
 

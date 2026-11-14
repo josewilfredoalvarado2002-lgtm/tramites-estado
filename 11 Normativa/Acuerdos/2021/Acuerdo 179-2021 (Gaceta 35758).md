@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdos Ministeriales Nos. 175-2021, 176-2021, 177-2021, 178-2021, 179-2021, 180-2021."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211029-35758/download"
 extraido: "2026-11-14"
-huella: "d9d18fef2285bc73"
+huella: "f86988a52a5d8bb7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 179-2021
@@ -43,9 +43,7 @@ POR TANTO:
 
 La Secretaría de Desarrollo Económico en uso de las facultades de que está investida y de conformidad con los
 
-Artículos 80, 321 y 331 de la Constitución de la República de Honduras; Artículo 36 numeral 2) 8); 116 y 118 de la Ley General de la Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículo 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No.
-
-150-2019 de fecha 04 de diciembre de 2019.
+Artículos 80, 321 y 331 de la Constitución de la República de Honduras; Artículo 36 numeral 2) 8); 116 y 118 de la Ley General de la Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículo 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
 
 ACUERDA:
 

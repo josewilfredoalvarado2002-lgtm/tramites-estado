@@ -11,7 +11,7 @@ paginas: "A. 9 - 21"
 sumario: "Decretos Nos. 79-2018, 158-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200206-35168/download"
 extraido: "2026-11-14"
-huella: "d0485bf09ce4092b"
+huella: "33b0af6812382f00"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2018
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

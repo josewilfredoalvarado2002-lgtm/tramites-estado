@@ -11,7 +11,7 @@ paginas: "A. 15 - 21"
 sumario: "Decretos Nos. 7-2026, 9-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260213-37069/download"
 extraido: "2026-11-09"
-huella: "053a74acd3fe8495"
+huella: "f22f239f0a0e206f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 9-2026
@@ -41,7 +41,7 @@ La Universidad Nacional de Agricultura (UNAG), se establece mediante Decreto Leg
 
 CONSIDERANDO: El Consejo de Educación Superior otorgó mediante Acuerdo No. 1058-153-2002 de fecha 2 de diciembre de 2002, la condición de parte del Sistema de Educación Superior a la Universidad Nacional de Agricultura (UNAG), independiente de la Secretaría de Estado en los Despachos de Recursos Naturales. El Congreso Nacional aprobó el Decreto Legislativo No. 172-2016, con el objetivo de fortalecer la estructura institucional, resolución de los conflictos internos de la Universidad Nacional de Agricultura (UNAG), así como señalar su marco normativo interno, del que surgió su Estatuto, publicado en el Diario Oficial "La Gaceta" 34,525 de 23 de diciembre de 2017.
 
-CONSIDERANDO: Que se aprobó el Decreto Legislativo No.47-2022, creó la Comisión de concurso y acompañamiento con el objetivo de establecer una normativa para los procesos de selección de las autoridades de la Universidad Nacional de Agricultura (UNAG), este Decreto otorgo a la Comisión de Concurso y acompañamiento de funciones que eran exclusivas del Consejo Superior Universitario (CSU), sin embargo no cumplió con todo lo encomendado únicamente cumplió con la Revocación de los Nombramientos de la Junta de Dirección Universitaria (JDU), la selección del Rector y del Comisionado Universitario, quedando pendiente la reforma de la normativa interna, lo que ha generado un cuestionamiento de algunos sectores de la comunidad universitaria y de la sociedad en las actuales autoridades, producto de conflictos internos recurrentes, mayores garantías de transparencia en la toma de decisiones, falta de fortalecimiento en los mecanismos de participación democrática y cuestionamientos sobre la legalidad y legitimidad de los procesos de elección o permanencia de las autoridades universitarias.
+CONSIDERANDO: Que se aprobó el Decreto Legislativo No. 47-2022, creó la Comisión de concurso y acompañamiento con el objetivo de establecer una normativa para los procesos de selección de las autoridades de la Universidad Nacional de Agricultura (UNAG), este Decreto otorgo a la Comisión de Concurso y acompañamiento de funciones que eran exclusivas del Consejo Superior Universitario (CSU), sin embargo no cumplió con todo lo encomendado únicamente cumplió con la Revocación de los Nombramientos de la Junta de Dirección Universitaria (JDU), la selección del Rector y del Comisionado Universitario, quedando pendiente la reforma de la normativa interna, lo que ha generado un cuestionamiento de algunos sectores de la comunidad universitaria y de la sociedad en las actuales autoridades, producto de conflictos internos recurrentes, mayores garantías de transparencia en la toma de decisiones, falta de fortalecimiento en los mecanismos de participación democrática y cuestionamientos sobre la legalidad y legitimidad de los procesos de elección o permanencia de las autoridades universitarias.
 
 CONSIDERANDO: Que es deber del Congreso Nacional crear los mecanismos para mejorar estabilidad y la eficiencia administrativa, así como que se consolide un liderazgo académico en los organismos de toma de decisiones de la Universidad Nacional de Agricultura (UNAG), en especial la Junta de Dirección Universitaria (JDU), Consejo Superior Universitario (CSU), así como la Rectoría, por su impacto directo en la gobernanza, así como en la calidad de la docencia, la investigación y la vinculación con la sociedad, pilares fundamentales para alcanzar la eficiencia y eficacia de la Institución académica descentralizada. Para que la Universidad Nacional de Agricultura (UNAG), no se vea limitada su capacidad para responder a las necesidades del sector agrícola, rural y ambiental del país, perdiendo protagonismo como centro de innovación, investigación aplicada y transferencia tecnológica.
 
@@ -53,9 +53,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Créase una Comisión para la Gestión Universitaria en la Universidad Nacional de Agricultura (UNAG), institución pública creada mediante Decreto No.
-
-192-2001, la que funcionará acorde a los principios y lineamiento del Estatuto de dicha Universidad, permanecerá ejerciendo la función auditora forense, a través del Tribunal Superior de Cuentas (TSC), como con otras entidades externas, para garantizar la transparencia de los procesos de elección de las distintas autoridades y el manejo de los recursos públicos que ha obtenido en los últimos cinco años.
+ARTÍCULO 1.- Créase una Comisión para la Gestión Universitaria en la Universidad Nacional de Agricultura (UNAG), institución pública creada mediante Decreto No. 192-2001, la que funcionará acorde a los principios y lineamiento del Estatuto de dicha Universidad, permanecerá ejerciendo la función auditora forense, a través del Tribunal Superior de Cuentas (TSC), como con otras entidades externas, para garantizar la transparencia de los procesos de elección de las distintas autoridades y el manejo de los recursos públicos que ha obtenido en los últimos cinco años.
 
 La Comisión tiene una labor excepcional, proporcional y temporal, asumiendo las funciones propias que expresamente se mencionan del Estatuto de la Universidad Nacional de Agricultura y las que se señalen en el presente Decreto, constituyendo como máximo órgano administrativo de la Universidad, hasta la designación del Consejo Superior Universitario, la Junta de Dirección Universitaria y la Rectoría.
 

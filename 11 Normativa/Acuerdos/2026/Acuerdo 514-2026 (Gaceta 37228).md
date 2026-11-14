@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo Número 514-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260824-37228/download"
 extraido: "2026-11-09"
-huella: "747fc2484399d864"
+huella: "7be94e7f334e783c"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 514-2026
@@ -67,7 +67,7 @@ Que, de conformidad con lo establecido en al artículo 100 de la Ley Orgánica d
 
 CONSIDERANDO (9):
 
-Que el artículo 255 de l a C o n s t i t u c i ó n d e l a República, establece que los actos administrativos de cualquier órgano del Estado que deben producir efectos jurídicos de carácter general serán publicados en el Diario Oficial La Gaceta y su validez se regulará conforme a lo dispuesto en la Constitución de la República para la vigencia de Ley.
+Que el artículo 255 de la Constitución de la República, establece que los actos administrativos de cualquier órgano del Estado que deben producir efectos jurídicos de carácter general serán publicados en el Diario Oficial La Gaceta y su validez se regulará conforme a lo dispuesto en la Constitución de la República para la vigencia de Ley.
 
 CONSIDERANDO (10):
 
@@ -99,7 +99,7 @@ Artículo 1.- Las solicitudes de modificaciones presupuestarias que requieren de
 
 4. Remitirse en formato digital con el sello de recibido del Despacho Ministerial de SEFIN, al correo electrónico gestionmod_presupuestarias@sefin.gob.hn, a más tardar dos (2) días hábiles posteriores a la fecha de presentación en formato físico; y,
 
-5. Estar debidamente registradas en el sistema, en cumplimiento de los artículos 187 y 188 del Decreto Legislativo No.62-2026, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2026 y el artículo 24 de las Normas Técnicas del Subsistema de Presupuesto.
+5. Estar debidamente registradas en el sistema, en cumplimiento de los artículos 187 y 188 del Decreto Legislativo No. 62-2026, que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2026 y el artículo 24 de las Normas Técnicas del Subsistema de Presupuesto.
 
 Las solicitudes antes indicadas deberán ser autorizadas por la SEFIN en el SIAFI a más tardar el 28 de diciembre de 2026.
 
@@ -121,7 +121,7 @@ CAPÍTULO II EJECUCIÓN DE GASTOS Y PAGOS FECHA ÚLTIMA DE APROBACIÓN Y FIRMA D
 
 Artículo 3.- Las Instituciones del Sector Público que operan en la Cuenta Única de la Tesorería (CUT), tienen como fecha máxima el 14 de diciembre de 2026, para elaborar, verificar, aprobar y firmar los formularios de Gastos con Imputación Presupuestaria en el Sistema de Administración Financiera Integrada (SIAFI), cumpliendo previamente con los requisitos legales. Se exceptúa el grupo de gastos de Servicios Personales, que tendrá como fecha máxima la establecida en los artículos 32, 33 y 36 del presente Acuerdo.
 
-El registro del devengamiento de los gastos debe hacerse en cumplimiento de lo que establece el artículo 32 del Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, siempre que el documento de soporte provea evidencia de la recepción conforme de los bienes y servicios solicitados o cumplidos los requisitos administrativos establecidos por las normas vigentes para los gastos sin contraprestación, implicando la afectación definitiva del crédito presupuestario y el surgimiento de una obligación de pago en forma inmediata o diferida.
+El registro del devengamiento de los gastos debe hacerse en cumplimiento de lo que establece el artículo 32 del Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, siempre que el documento de soporte provea evidencia de la recepción conforme de los bienes y servicios solicitados o cumplidos los requisitos administrativos establecidos por las normas vigentes para los gastos sin contraprestación, implicando la afectación definitiva del crédito presupuestario y el surgimiento de una obligación de pago en forma inmediata o diferida.
 
 #### Artículo 4
 
@@ -453,9 +453,7 @@ Artículo 51.- El Servicio de Administración de Rentas (SAR) debe informar a m�
 
 4. Saldos acumulados pendientes de aplicar a favor del Obligado Tributario mediante notas de crédito (Cuentas Impositivas por Pagar), del ejercicio anterior y del actual, así como el listado detallando los números de los asientos manuales registrados y aprobados en el Sistema de Administración Financiera Integrada (SIAFI) al 31 de diciembre de 2026;
 
-5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante Resolución de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación del Decreto Legislativo No.
-
-26- 2013 referente a Notas de Crédito Fiscal, Decreto Legislativo No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo y otros que se aprueben en el transcurso del Ejercicio Fiscal 2026. El informe debe detallar el número de Decreto, tipo de impuesto y monto aplicado; y,
+5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante Resolución de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación del Decreto Legislativo No. 26-2013 referente a Notas de Crédito Fiscal, Decreto Legislativo No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo y otros que se aprueben en el transcurso del Ejercicio Fiscal 2026. El informe debe detallar el número de Decreto, tipo de impuesto y monto aplicado; y,
 
 6. Información sobre el inventario de las demandas incoadas a favor y en contra del Estado de Honduras que contenga descripción del tipo de demanda y cuantía.
 
@@ -473,7 +471,7 @@ Artículo 52.- La Administración Aduanera de Honduras debe informar a más tard
 
 #### Artículo 53
 
-Artículo 53.- En aplicación de lo establecido por el artículo 2 del Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, la Procuraduría General de la República debe informar a más tardar el 29 de enero de 2027, el inventario de los procesos judiciales a favor y en contra del Estado de Honduras identificando la instancia judicial en la que se encuentran al 31 de diciembre de 2026, detallando la Institución demandada, tipo de demanda (laboral, contencioso administrativa, penal, civil, etc.) y la pretensión económica, incluidas las demandas en el extranjero.
+Artículo 53.- En aplicación de lo establecido por el artículo 2 del Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, la Procuraduría General de la República debe informar a más tardar el 29 de enero de 2027, el inventario de los procesos judiciales a favor y en contra del Estado de Honduras identificando la instancia judicial en la que se encuentran al 31 de diciembre de 2026, detallando la Institución demandada, tipo de demanda (laboral, contencioso administrativa, penal, civil, etc.) y la pretensión económica, incluidas las demandas en el extranjero.
 
 #### Artículo 54
 
@@ -569,7 +567,7 @@ Artículo 63.- La Dirección General de Crédito Público (DGCP) debe entregar r
 
 #### Artículo 64
 
-Artículo 64.- La Unidad de Contingencias Fiscales debe remitir informe de obligaciones contingentes que resulten de: Los contratos de alianzas público- privadas, demandas judiciales en contra del Estado de Honduras, Desastres Naturales, Avales y Garantías otorgadas por el Estado en respaldo de las operaciones de crédito público, Endeudamiento de Empresas Públicas por Déficit en sus Finanzas, Endeudamiento Municipal y otros riesgos, a más tardar 29 de enero de 2027.
+Artículo 64.- La Unidad de Contingencias Fiscales debe remitir informe de obligaciones contingentes que resulten de: Los contratos de alianzas público-privadas, demandas judiciales en contra del Estado de Honduras, Desastres Naturales, Avales y Garantías otorgadas por el Estado en respaldo de las operaciones de crédito público, Endeudamiento de Empresas Públicas por Déficit en sus Finanzas, Endeudamiento Municipal y otros riesgos, a más tardar 29 de enero de 2027.
 
 #### Artículo 65
 
@@ -587,13 +585,13 @@ Artículo 66.- La Contaduría General de la República (CGR) en cumplimiento est
 
 #### Artículo 67
 
-Artículo 67.- En cumplimiento de lo previsto en el artículo 222 del Decreto Legislativo No.62-2026 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026, y considerando que estas operaciones las realiza la Secretaría de Estado en el Despacho de Finanzas (SEFIN) posterior al 31 de diciembre de 2026; las tareas de las Normas para el Cierre que involucran estas operaciones, podrán ser habilitadas por la Contaduría General de la República (CGR) hasta el 12 de febrero de 2027, previa autorización por escrito para la habilitación de las tareas por parte de la Subsecretaría de Finanzas y Presupuesto.
+Artículo 67.- En cumplimiento de lo previsto en el artículo 222 del Decreto Legislativo No. 62-2026 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026, y considerando que estas operaciones las realiza la Secretaría de Estado en el Despacho de Finanzas (SEFIN) posterior al 31 de diciembre de 2026; las tareas de las Normas para el Cierre que involucran estas operaciones, podrán ser habilitadas por la Contaduría General de la República (CGR) hasta el 12 de febrero de 2027, previa autorización por escrito para la habilitación de las tareas por parte de la Subsecretaría de Finanzas y Presupuesto.
 
 #### Artículo 68
 
 Artículo 68.- La Contaduría General de la República (CGR) elaborará un Informe detallado de los incumplimientos por cada institución en la presentación de la información de forma completa y oportuna, en los plazos establecidos en la presente normativa. Posteriormente se debe remitir un oficio para firma de la máxima autoridad de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) previa revisión a lo interno de la Subsecretaría de Finanzas y Presupuesto, para su remisión al Tribunal Superior de Cuentas a más tardar el 31 de marzo de 2027.
 
-SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2026, dará lugar a las sanciones establecidas en el Decreto No.10-2002-E que contiene la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 del Decreto No.83-2004 contentivo a la Ley Orgánica del Presupuesto y el artículo 4 del Decreto Legislativo No. 62-2026 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026.
+SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2026, dará lugar a las sanciones establecidas en el Decreto No. 10-2002-E que contiene la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 del Decreto No. 83-2004 contentivo a la Ley Orgánica del Presupuesto y el artículo 4 del Decreto Legislativo No. 62-2026 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2026.
 
 TERCERO: El presente Acuerdo es de cumplimiento obligatorio, de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

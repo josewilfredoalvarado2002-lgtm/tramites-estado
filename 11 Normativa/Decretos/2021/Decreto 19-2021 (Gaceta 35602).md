@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Decretos Nos. 11-2021, 15-2021, 19-2021, 28-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210518-35602/download"
 extraido: "2026-11-14"
-huella: "310593b774d6091e"
+huella: "deec38a593b2d70d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 19-2021
@@ -29,9 +29,9 @@ huella: "310593b774d6091e"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que en fecha 2 de Noviembre del año 2016 el Congreso Nacional aprobó el Decreto No.137-2016 contentivo de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos con la finalidad de establecer las normas relativas al Sistema de Financiamiento, Transparencia y Fiscalización de los Ingresos y Egresos de los Recursos de los Partidos Políticos, Movimientos Internos de los Partidos Políticos, sus Candidatos y Candidatas, Alianzas entre los Partidos Políticos y Candidaturas Independientes.
+CONSIDERANDO: Que en fecha 2 de Noviembre del año 2016 el Congreso Nacional aprobó el Decreto No. 137-2016 contentivo de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos con la finalidad de establecer las normas relativas al Sistema de Financiamiento, Transparencia y Fiscalización de los Ingresos y Egresos de los Recursos de los Partidos Políticos, Movimientos Internos de los Partidos Políticos, sus Candidatos y Candidatas, Alianzas entre los Partidos Políticos y Candidaturas Independientes.
 
-CONSIDERANDO: Que en aras de implementar mecanismos de transparencia en los procesos electorales se estableció en los artículos 46, 47 y 48 del Decreto No.137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No.34,242, la obligatoriedad por parte de los partidos políticos y precandidatos a elección popular de rendir un informe conteniendo el balance general y el estado de resultados certificados y auditados de los ingresos y egresos con el detalle del origen y destino de los fondos administrados.
+CONSIDERANDO: Que en aras de implementar mecanismos de transparencia en los procesos electorales se estableció en los artículos 46, 47 y 48 del Decreto No. 137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No. 34,242, la obligatoriedad por parte de los partidos políticos y precandidatos a elección popular de rendir un informe conteniendo el balance general y el estado de resultados certificados y auditados de los ingresos y egresos con el detalle del origen y destino de los fondos administrados.
 
 CONSIDERANDO: Que dadas las circunstancias difíciles por las que pasa la población hondureña producto de la pandemia del virus COVID-19, cuyas consecuencias han afectado la circulación y horarios de las agencias bancarias, es necesario extender el plazo de presentación de dichos informes financieros.
 
@@ -43,7 +43,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ampliar hasta el 26 de Mayo del año 2021, la presentación del INFORME FINANCIERO DE LIQUIDACIÓN DE FONDOS DE LOS MOVIMIENTOS INTERNOS Y SUS CANDIDATOS, ANTE LA UNIDAD DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN, obligación establecida en los artículos 47 y 48 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contentivo en el Decreto No.137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No.34,242 y sus reformas, ésto correspondiente a las elecciones primarias llevadas a cabo el 14 de Marzo del presente año.
+ARTÍCULO 1.- Ampliar hasta el 26 de Mayo del año 2021, la presentación del INFORME FINANCIERO DE LIQUIDACIÓN DE FONDOS DE LOS MOVIMIENTOS INTERNOS Y SUS CANDIDATOS, ANTE LA UNIDAD DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN, obligación establecida en los artículos 47 y 48 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contentivo en el Decreto No. 137-2016 de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No. 34,242 y sus reformas, ésto correspondiente a las elecciones primarias llevadas a cabo el 14 de Marzo del presente año.
 
 #### Artículo 2
 

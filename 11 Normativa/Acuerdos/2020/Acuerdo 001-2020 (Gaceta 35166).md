@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Nos. 001-2020, 190-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200204-35166/download"
 extraido: "2026-11-14"
-huella: "0881b8a13bcf7086"
+huella: "12e1bd2397a99278"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Ley de Garantías Mobiliarias contenida en el Decreto 182-2
 
 CONSIDERANDO: Que el Registro de Garantías Mobiliarias, contenido en la Ley de Garantías Mobiliarias, surge como el único registro válido para inscribir y AVANCE publicitar las prendas sobre todo tipo de bienes muebles que se constituyen en el país, garantizando certeza y seguridad jurídica sobre este tipo de garantías.
 
-CONSIDERANDO: Que mediante Decreto No.82-2004 del 28 de mayo de 2004 contentivo de la Ley de Propiedad y sus reformas establece que el Registro de Garantías Mobiliarias, será administrado por el Registro Mercantil de Francisco Morazán.
+CONSIDERANDO: Que mediante Decreto No. 82-2004 del 28 de mayo de 2004 contentivo de la Ley de Propiedad y sus reformas establece que el Registro de Garantías Mobiliarias, será administrado por el Registro Mercantil de Francisco Morazán.
 
 CONSIDERANDO: Que Mediante Acuerdo 041-2005 del Consejo Directivo del Instituto de la Propiedad, publicado en el Diario Oficial La Gaceta el 7 de julio del año 2006, se designó a Cámara de Comercio e Industria de Tegucigalpa (CCIT), Centro Asociado al Instituto de la Propiedad y bajo esa condición se le delegó la administración del Registro Mercantil de Francisco Morazán.
 
@@ -57,7 +57,7 @@ ACUERDA:
 
 ARTÍCULO 1.- Reformar el Artículo 2 en sus literales (a),
 
-(d) y (l); literales (i), (ii) del Artículo 9; literales (i) y (iii) del Artículo 11 del Reglamento de Registro de Garantías Mobiliarias contentivo del Acuerdo No.2074-2010, en el sentido modificar la denominación de la Dirección Ejecutiva de Ingresos por Administración Tributaria, conforme lo estatuido en el Artículo 195 numeral 2 del Código Tributario; modificar la denominación y las siglas de la Unidad de Registro y Seguimiento de Asociaciones Civiles (URSAC) por la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) conforme lo estatuido en el Artículo 4 de Decreto Ejecutivo PCM-055-2017 publicado el 12 de septiembre de 2017, mismo que reforma los Artículos 44, 45, 46, 47,87-D, 87-E y 87-F del Decreto Ejecutivo Número PCM-008-97 y sus reformas; los que deberán leerse de la siguiente manera:
+(d) y (l); literales (i), (ii) del Artículo 9; literales (i) y (iii) del Artículo 11 del Reglamento de Registro de Garantías Mobiliarias contentivo del Acuerdo No. 2074-2010, en el sentido modificar la denominación de la Dirección Ejecutiva de Ingresos por Administración Tributaria, conforme lo estatuido en el Artículo 195 numeral 2 del Código Tributario; modificar la denominación y las siglas de la Unidad de Registro y Seguimiento de Asociaciones Civiles (URSAC) por la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) conforme lo estatuido en el Artículo 4 de Decreto Ejecutivo PCM-055-2017 publicado el 12 de septiembre de 2017, mismo que reforma los Artículos 44, 45, 46, 47,87-D, 87-E y 87-F del Decreto Ejecutivo Número PCM-008-97 y sus reformas; los que deberán leerse de la siguiente manera:
 
 “Artículo 2. Definiciones.
 

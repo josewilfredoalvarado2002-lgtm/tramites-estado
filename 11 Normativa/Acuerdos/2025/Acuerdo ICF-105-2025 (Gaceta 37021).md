@@ -11,7 +11,7 @@ paginas: "A. 16 - 28"
 sumario: "Acuerdo DE-090-2025,Acuerdos Institucionales No. ICF-104-2025, ICF-105-2025, ICF-106-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251217-37021/download"
 extraido: "2026-11-09"
-huella: "8280b4690f4de654"
+huella: "2254ab30afac75da"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-105-2025
@@ -29,7 +29,7 @@ huella: "8280b4690f4de654"
 
 LA DIRECCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)
 
-CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98- 2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre ICF, las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
+CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98-2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre ICF, las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
 
 CONSIDERANDO: Que, el marco jurídico forestal vigente determina que se declara de prioridad nacional y de interés general el manejo racional y sostenible de los recursos forestales, áreas protegidas y vida silvestre que se realizará de manera compatible con la conservación de los ecosistemas, la biodiversidad, los recursos genéticos y la reducción de la vulnerabilidad ambiental y antropológica.
 
@@ -39,13 +39,13 @@ CONSIDERANDO: Que, la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto 9
 
 CONSIDERANDO: Que, el plan de manejo de un área protegida constituye un instrumento técnico legal y operativo que establece los objetivos, estrategias y normativa de uso de los recursos naturales en sus diferentes zonas, incluyendo la programación e inversiones necesarias, alianzas y otros, todo esto enmarcado sobre la base legal del área protegida, procesos de consulta con los beneficiarios y en respuesta a las amenazas priorizadas dentro de cada área protegida en particular.
 
-CONSIDERANDO: Que, mediante Decreto Legislativo 87- 87 se declaró oficialmente el Parque Nacional Montecristo Trifinio como área protegida y forma parte del Sistema Nacional de Áreas Protegidas de Honduras SINAPH; con el objetivo de conservar y mantener a perpetuidad los ecosistemas de bosques nublados presentes en la zona.
+CONSIDERANDO: Que, mediante Decreto Legislativo 87-87 se declaró oficialmente el Parque Nacional Montecristo Trifinio como área protegida y forma parte del Sistema Nacional de Áreas Protegidas de Honduras SINAPH; con el objetivo de conservar y mantener a perpetuidad los ecosistemas de bosques nublados presentes en la zona.
 
 CONSIDERANDO: Que, el objetivo del Plan de Manejo está orientado a “Contribuir a conservar y gestionar los ecosistemas del área protegida, permitiendo que tanto el desarrollo socioeconómico como los procesos ecológicos alcancen un equilibrio adecuado. Esto se logrará asegurando la producción de los bienes y servicios que los ecosistemas de esta zona son capaces de proporcionar”.
 
 CONSIDERANDO: Que, es atribución del ICF aprobar los planes de manejo para la conservación, protección, aprovechamiento racional y sostenible de las áreas forestales, áreas protegidas y vida silvestre, así como en su reglamento general.
 
-CONSIDERANDO: Que, según Dictamen Técnico DAP- 123-2025, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Montecristo Trifinio 2025-2036.
+CONSIDERANDO: Que, según Dictamen Técnico DAP-123-2025, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización, por lo tanto, recomienda aprobar el Plan de Manejo para el Parque Nacional Montecristo Trifinio 2025-2036.
 
 POR TANTO
 

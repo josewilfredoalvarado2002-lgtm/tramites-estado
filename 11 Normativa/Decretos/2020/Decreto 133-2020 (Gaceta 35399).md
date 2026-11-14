@@ -8,10 +8,10 @@ gaceta_numero: 35399
 gaceta_fecha: "2020-10-14"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35399 (2020-10-14)|La Gaceta 35399]]"
 paginas: "A. 6 - 9"
-sumario: "Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOPAcuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020"
+sumario: "Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP: Acuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201014-35399/download"
 extraido: "2026-11-14"
-huella: "1a4a4325e0bd1e71"
+huella: "a2a6eb6582690ca3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 133-2020
@@ -23,7 +23,7 @@ huella: "1a4a4325e0bd1e71"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35399 (2020-10-14)\|La Gaceta 35399]] del 2020-10-14 |
 | Páginas | A. 6 - 9 |
-| Según el sumario de La Gaceta | Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOPAcuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020 |
+| Según el sumario de La Gaceta | Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP: Acuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020 |
 
 ## Texto
 
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la difícil situación económica, por la crisis y los efectos
 
 CONSIDERANDO: Que en vista de la crisis es oportuno otorgar beneficios que promuevan y faciliten el cumplimiento de sus obligaciones a los contribuyentes a través de la aplicación de una Amnistía Municipal que les permita ponerse al día con sus pagos, permitiéndole a las municipalidades recuperar parte de su mora.
 
-CONSIDERANDO: Que mediante Decreto No.85-2020, de fecha 7 de Julio del año 2020 y publicado en el Diario Oficial “La Gaceta” de fecha 25 de Julio del año 2020, Edición No.35,324, este Poder del Estado autorizó a las MUNICIPALIDADES DEL PAÍS, otorgar beneficio de un diez por ciento (10%) de descuento por el pronto pago del impuesto y tasas sobre bienes inmuebles del año 2020, a los contribuyentes que realicen su pago anticipado y completo, a más tardar el 31 de Agosto del presente año 2020. Asimismo, hasta un diez por ciento (10%) de descuento adicional por el pago de impuestos y tasas sobre bienes inmuebles del año 2020, previa aprobación de la Corporación Municipal, no al caso concreto si no de carácter general, pudiendo ser hasta un diez por ciento (10%) o una fracción menor a ese diez por ciento (10%) y que el beneficio de ese adicional no sea aplicable a bienes tasados en más de VEINTE MILLONES DE LEMPIRAS (L.20.000,000.00) en cada Corporación Municipal.
+CONSIDERANDO: Que mediante Decreto No. 85-2020, de fecha 7 de Julio del año 2020 y publicado en el Diario Oficial “La Gaceta” de fecha 25 de Julio del año 2020, Edición No. 35,324, este Poder del Estado autorizó a las MUNICIPALIDADES DEL PAÍS, otorgar beneficio de un diez por ciento (10%) de descuento por el pronto pago del impuesto y tasas sobre bienes inmuebles del año 2020, a los contribuyentes que realicen su pago anticipado y completo, a más tardar el 31 de Agosto del presente año 2020. Asimismo, hasta un diez por ciento (10%) de descuento adicional por el pago de impuestos y tasas sobre bienes inmuebles del año 2020, previa aprobación de la Corporación Municipal, no al caso concreto si no de carácter general, pudiendo ser hasta un diez por ciento (10%) o una fracción menor a ese diez por ciento (10%) y que el beneficio de ese adicional no sea aplicable a bienes tasados en más de VEINTE MILLONES DE LEMPIRAS (L.20.000,000.00) en cada Corporación Municipal.
 
 Asimismo, los contribuyentes que enteren el pago del impuesto de bienes inmuebles del año 2020 después del 31 de Agosto del año 2020, podrán diferir su pago del impuesto en cuatro (4) cuotas mensuales de igual valor de manera automática, sin multas, recargos o intereses, debiendo el contribuyente personarse a la Oficina Municipal a firmar el compromiso para hacer los pagos en las siguientes fechas:
 
@@ -57,7 +57,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 párrafo primero, y el Artículo 2, del Decreto No. 85- 2020, de fecha 7 de Julio del 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Julio del 2020, en la Edición No.35,324”, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1 párrafo primero, y el Artículo 2, del Decreto No. 85-2020, de fecha 7 de Julio del 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 25 de Julio del 2020, en la Edición No. 35,324”, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 1.- Se autoriza a todas las municipalidades del país, otorgar por única vez, el beneficio de un diez por ciento (10%) de descuento por el pronto pago del impuesto y tasas sobre bienes inmuebles del año 2020, a los contribuyentes que realicen su pago anticipado y completo, a más tardar el 31 de Octubre del presente año 2020.
 

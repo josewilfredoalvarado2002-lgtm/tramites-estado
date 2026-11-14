@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. SCGG-00046-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200811-35340/download"
 extraido: "2026-11-14"
-huella: "faa3d6fe46b81925"
+huella: "a7f9160aedc879ad"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SCGG-00046-2020
@@ -33,7 +33,7 @@ Tegucigalpa, M.D.C., 16 de julio de 2020
 
 CONSIDERANDO: Que bajo el artículo 29 del Decreto Legislativo 266-2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014, se crea la Secretaría de Coordinación General de Gobierno.
 
-CONSIDERANDO: Que bajo Acuerdo Ejecutivo No.81-2016 de fecha 18 de octubre de 2016, fue nombrada la ciudadana MARTHA VICENTA DOBLADO ANDARA como Subsecretaria de Estado Ad honorem de la Secretaría de Coordinación General de Gobierno.
+CONSIDERANDO: Que bajo Acuerdo Ejecutivo No. 81-2016 de fecha 18 de octubre de 2016, fue nombrada la ciudadana MARTHA VICENTA DOBLADO ANDARA como Subsecretaria de Estado Ad honorem de la Secretaría de Coordinación General de Gobierno.
 
 CONSIDERANDO: Que el Artículo 249 de la Constitución de la República indica que los Subsecretarios sustituirán los Secretarios de Estado por ministerio de ley.
 
@@ -485,9 +485,7 @@ Artículo 18.- Corresponde a la SCGG en coordinación con la SGJD, la definició
 
 #### Artículo 19
 
-Artículo 19.- Con la promulgación del presente Marco Normativo, quedan derogados el Acuerdo No.
-
-SEPLAN-00132-2013 de 26 de junio de 2013, publicado en el Diario Oficial “La Gaceta” del 28 de agosto de 2013 de la Normativa para la formulación de Planes de Desarrollo Municipal con enfoque de Ordenamiento Territorial y el Acuerdo No. SCGG-00163-2018 de 12 de abril del 2018, publicado en el Diario Oficial “La Gaceta” del 5 de mayo del 2018 de la Normativa para orientar la Formulación y Certificación de los Planes para el Desarrollo del Municipio.
+Artículo 19.- Con la promulgación del presente Marco Normativo, quedan derogados el Acuerdo No. SEPLAN-00132-2013 de 26 de junio de 2013, publicado en el Diario Oficial “La Gaceta” del 28 de agosto de 2013 de la Normativa para la formulación de Planes de Desarrollo Municipal con enfoque de Ordenamiento Territorial y el Acuerdo No. SCGG-00163-2018 de 12 de abril del 2018, publicado en el Diario Oficial “La Gaceta” del 5 de mayo del 2018 de la Normativa para orientar la Formulación y Certificación de los Planes para el Desarrollo del Municipio.
 
 SEGUNDO. - El presente Marco Normativo entrará en vigencia el día en que sea publicado en el Diario Oficial “La Gaceta”.
 

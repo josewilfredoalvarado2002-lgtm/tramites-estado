@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-056-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200621-35290/download"
 extraido: "2026-11-14"
-huella: "48225c9140809c02"
+huella: "030f03e9e87c0c59"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-056-2020
@@ -51,7 +51,7 @@ POR TANTO:
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM- 005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033- 2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020.
 
 DECRETA:
 
@@ -59,7 +59,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por quince (15) días, efectivo a partir del 22 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045- 2020, PCM-047-2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020.
+Prorrogar por quince (15) días, efectivo a partir del 22 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
@@ -75,7 +75,7 @@ Queda suspendida la FASE I del Plan Nacional para Reapertura Inteligente Gradual
 
 La circulación de la población en el Municipio del Distrito Central, será segmentada conforme a la terminación de los dígitos de su Tarjeta de Identidad, Pasaporte o carné de residente, con la finalidad de que únicamente puedan abastecerse de alimentos, medicinas, combustibles y realizar sus trámites bancarios de manera ordenada, con las medidas de bioseguridad obligatoria.
 
-Las excepciones específicas relacionadas con el Comercio y la industria para el Municipio del Distrito Central, establecidas en el Artículo 4 del Decreto Ejecutivo Número PCM-021- 2020, son los siguientes:
+Las excepciones específicas relacionadas con el Comercio y la industria para el Municipio del Distrito Central, establecidas en el Artículo 4 del Decreto Ejecutivo Número PCM-021-2020, son los siguientes:
 
 \1) El personal incorporado para atender la emergencia, altos funcionarios, personal de salud, socorro, seguridad y defensa nacional, personal de aduanas, migración, puertos y aeropuertos y servicios públicos indispensables, inclusive el personal que atiende las plantas de generación de energía del sector privado;
 
@@ -103,7 +103,7 @@ Las excepciones específicas relacionadas con el Comercio y la industria para el
 
 ARTÍCULO 3.- Reformar el Artículo 2 del Decreto Ejecutivo Número PCM-045-2020 reformado por el Decreto Ejecutivo Número PCM-053-2020, publicado en fecha 14 de junio del 2020, Edición No. 35,283, el cual se leerá de la manera siguiente:
 
-“ A RT Í C U L O 2 . - E X C E P C I O N E S A L O S
+“ A RT Í C U L O 2 . - EXCEPCIONES A LOS
 
 FUNCIONARIOS DEL ESTADO: No están sujetos a las restricciones de Garantías Constitucionales los funcionarios y empleados de las siguientes Instituciones del Estado:
 

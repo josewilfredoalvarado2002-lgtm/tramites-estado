@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. 098-2025, AcuerdoInstitucional No. ICF-103-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251124-37001/download"
 extraido: "2026-11-09"
-huella: "a0dd53f6b521c416"
+huella: "8008ea0be4f88c46"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 098-2025
@@ -67,7 +67,7 @@ CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre, tipifica 
 
 CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
-CONSIDERANDO: Que el Departamento de Cuencas Hidrográficas y Ambiente, en conjunto con la Asistencia Legal de la Dirección Ejecutiva, han emitido dictamen favorable para la continuidad del proceso de declaratoria de la microcuenca El Junco en la Región Forestal de Comayagua, abastecedora de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-016- 2025.
+CONSIDERANDO: Que el Departamento de Cuencas Hidrográficas y Ambiente, en conjunto con la Asistencia Legal de la Dirección Ejecutiva, han emitido dictamen favorable para la continuidad del proceso de declaratoria de la microcuenca El Junco en la Región Forestal de Comayagua, abastecedora de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Comayagua, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-016-2025.
 
 POR TANTO:
 
@@ -85,7 +85,7 @@ PRIMERO: Declarar Zona de Protección Forestal la Microcuenca El Junco, abastece
 
 Familias Área (ha) Subcuenca Cuenca Beneﬁciari as Agua Comayagua 350 177.503323 Humuya La que a partir de la fecha forma parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
 
-Las coordenadas geográficas que delimitan el polígono de está declaratoria, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-016- 2025.
+Las coordenadas geográficas que delimitan el polígono de está declaratoria, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-016-2025.
 
 SEGUNDO: Conforme a lo establecido en el artículo 123 numeral 3 párrafo 2 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, que en estas zonas de protección hídrica SE PROHÍBE cortar, dañar, quemar o destruir árboles, arbustos y los bosques en general. Igualmente, SE PROHÍBE la construcción de cualquier tipo de infraestructura, la ejecución de actividades agrícolas o pecuarias y todas aquellas otras que pongan en riesgo los fines perseguidos.
 
@@ -93,7 +93,7 @@ TERCERO: Los predios de propiedad privada, ejidal y nacional incluidos dentro de
 
 CUARTO: La declaratoria de las microcuencas como Zonas de Protección Forestal, no prejuzga la condición de dominio o posesión de la tierra. Sin embargo, los propietarios y titulares de derechos de propiedad con dominio pleno, posesión, ocupación, uso o usufructo tendrán que sujetarse a las restricciones, limitaciones, obligaciones, regulaciones y demás disposiciones para cumplir los fines que justifican dicha declaración.
 
-Q U I N T O : R e m i t i r e l p r e s e n t e A C U E R D O INSTITUCIONAL al Departamento de Cuencas Hídricas y Ambiente para agregar las microcuencas a la base de datos de microcuencas declaradas. Una vez Actualizada la base de datos de microcuencas declaradas el Departamento de Cuencas Hídricas y Ambiente, Remitirá el expediente a Secretaria General conforme a lo tipificado en el Artículo 27 del Reglamento de Organización, Competencia del Poder Ejecutivo y Artículo 50 de la Ley de Procedimiento Administrativo.
+QUINTO: Remitir el presente ACUERDO INSTITUCIONAL al Departamento de Cuencas Hídricas y Ambiente para agregar las microcuencas a la base de datos de microcuencas declaradas. Una vez Actualizada la base de datos de microcuencas declaradas el Departamento de Cuencas Hídricas y Ambiente, Remitirá el expediente a Secretaria General conforme a lo tipificado en el Artículo 27 del Reglamento de Organización, Competencia del Poder Ejecutivo y Artículo 50 de la Ley de Procedimiento Administrativo.
 
 SEXTO: Publicado el presente ACUERDO INSTITUCIONAL, en el Diario Oficial La Gaceta, toda persona natural o jurídica que se considere afectado con dicha declaratoria, se le concede un plazo de tres (3) meses contados a partir de siguiente día de su publicación para incoar cualquier acción administrativa que considere pertinente, debiendo presentar por escrito ante el ICF, junto con la documentación correspondiente, las razones y los fundamentos legales para su reclamo.
 

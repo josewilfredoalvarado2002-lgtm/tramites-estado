@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Nos. 199-2021, 200-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210301-35531/download"
 extraido: "2026-11-14"
-huella: "b9f2246d6823fec9"
+huella: "2d12291c58d5fa24"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 200-2021
@@ -35,9 +35,9 @@ CONSIDERANDO: Que la Constitución de la República en el Artículo 351, estable
 
 CONSIDERANDO: Que el Artículo No. 59 de la Constitu­ ción de la República establece que: “La persona humana es el fin supremo de la sociedad y del Estado. Todos tienen la obligación de respetarla y protegerla”.
 
-CONSIDERANDO: Que el Decreto No.29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, es­ tablece la no sujeción del Impuesto Sobre Ventas e Impuesto Producción y Consumo en la compra local e importaciones de medicamentos, por lo que se hace necesario adicionar los listados de medicamentos para atender la emergencia sani­ taria y combatir los efectos de probable riesgo de infección por coronavirus.
+CONSIDERANDO: Que el Decreto No. 29-2020 publicado en el Diario Oficial La Gaceta el 12 de marzo del 2020, es­ tablece la no sujeción del Impuesto Sobre Ventas e Impuesto Producción y Consumo en la compra local e importaciones de medicamentos, por lo que se hace necesario adicionar los listados de medicamentos para atender la emergencia sani­ taria y combatir los efectos de probable riesgo de infección por coronavirus.
 
-CONSIDERANDO: Que el Decreto No.191-2020 publica­ do en el Diario Oficial La Gaceta de fecha 04 de febrero del 2021 reforma los Artículos 1 y 2 del Decreto No. 29-2020 ampliando el plazo de beneficios fiscales.
+CONSIDERANDO: Que el Decreto No. 191-2020 publica­ do en el Diario Oficial La Gaceta de fecha 04 de febrero del 2021 reforma los Artículos 1 y 2 del Decreto No. 29-2020 ampliando el plazo de beneficios fiscales.
 
 CONSIDERANDO: Que de conformidad al numeral 15 del Artículo 29 de la Ley de la Administración Pública y sus reformas, a la Secretaría de Estado en el Despacho de Finan­ zas, le compete entre otros todo lo concerniente a la formu­ lación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas.
 
@@ -47,9 +47,9 @@ CONSIDERANDO: Que mediante Acuerdo No. Acuerdo 227-2020 publicado en el Diario O
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Finanzas, en uso de las facultades que establecen los Artículos 59, 247, 255 y 351 de la Constitución de la República; 104 numeral 3) del Código Tributario, Artículos 29 numeral 15), 116, 117 118 y 119 de la Ley General de la Administración Pública y sus reformas, 24, 25, 26, 32 y 33 de la Ley General de la Administración Pública, PCM-005-2020 y sus reformas contenidas en los Decreto Ejecutivos PCM-016-2020, PCM 023-2020, PCM-146-2020, este último publicado en el Diario Oficial La Gaceta en fecha 29 de diciembre del 2020, edición No. 35,471; Acuerdo 227- 2020, publicado en el Diario Oficial La Gaceta en fecha 20 de marzo del 2020.
+La Secretaría de Estado en el Despacho de Finanzas, en uso de las facultades que establecen los Artículos 59, 247, 255 y 351 de la Constitución de la República; 104 numeral 3) del Código Tributario, Artículos 29 numeral 15), 116, 117 118 y 119 de la Ley General de la Administración Pública y sus reformas, 24, 25, 26, 32 y 33 de la Ley General de la Administración Pública, PCM-005-2020 y sus reformas contenidas en los Decreto Ejecutivos PCM-016-2020, PCM 023-2020, PCM-146-2020, este último publicado en el Diario Oficial La Gaceta en fecha 29 de diciembre del 2020, edición No. 35,471; Acuerdo 227-2020, publicado en el Diario Oficial La Gaceta en fecha 20 de marzo del 2020.
 
-A C U E R D A:
+ACUERDA:
 
 #### Artículo 1
 

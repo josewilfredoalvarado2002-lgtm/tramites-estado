@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Decreto No. 17-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210429-35586/download"
 extraido: "2026-11-14"
-huella: "3b0965d5f0a3d1ea"
+huella: "0074008f68d2d5cd"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 17-2021
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República establece que la persona humana es el fin supremo de la sociedad y del Estado, consecuentemente, todos tienen la obligación de respetarla y protegerla, asimismo reconoce el derecho a la protección a la salud de la población hondureña, así como el deber de todos en la promoción y preservación de la salud personal y de la comunidad y para tal efecto corresponde a la Secretaría de Estado en el Despacho de Salud (SESAL), por disposición constitucional, coordinar todas las actividades públicas de los organismos centralizados y descentralizados de dicho sector, mediante un Plan Nacional de Salud, en el cual se dará prioridad a los grupos más necesitados.
 
-CONSIDERANDO: Que derivado de la Pandemia COVID-19, el Gobierno de la República de Honduras decretó un ESTADO DE EMERGENCIA SANITARIA, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, Edición No.35.171, modificado por Decretos Ejecutivos Números: PCM-016-2020, PCM -023-2020 y PCM-146-2020, en todo el territorio nacional, hasta el 31 de diciembre de 2021, con el propósito de fortalecer las acciones de vigilancia, prevención, control y garantía de atención a las personas en el evento de la probable aparición de infección por COVID-19.
+CONSIDERANDO: Que derivado de la Pandemia COVID-19, el Gobierno de la República de Honduras decretó un ESTADO DE EMERGENCIA SANITARIA, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, Edición No. 35.171, modificado por Decretos Ejecutivos Números: PCM-016-2020, PCM -023-2020 y PCM-146-2020, en todo el territorio nacional, hasta el 31 de diciembre de 2021, con el propósito de fortalecer las acciones de vigilancia, prevención, control y garantía de atención a las personas en el evento de la probable aparición de infección por COVID-19.
 
 CONSIDERANDO: Que el control de la Pandemia de COVID-19, se constituye en una prioridad de salud mundial y nacional, dada la magnitud y trascendencia de la enfermedad.
 
 Por lo que para el control de la Pandemia se considera que la introducción de la vacuna contra el COVID-19, es una intervención adicional, a la que se le debe asignar un alto grado de prioridad por las autoridades de Gobierno, la comunidad científica, los organismos cooperantes y la población en general.
 
-CONSIDERANDO: Que para combatir la pandemia, el Gobierno de la República de Honduras creó la “LEY ESPECIAL PARA LA GARANTÍA DE ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA” en el Decreto No. 193-2020, de fecha 21 de enero del año 2021 y publicada en el Diario Oficial “La Gaceta” en fecha 3 de febrero de 2021, Edición No.35,505, ante la necesidad de establecer otros mecanismos que fortalezcan la adquisición de vacunas precalificadas por la Organización Mundial de la Salud (OMS) o aprobadas por otras agencias regulatorias globalmente reconocidas; sin embargo, dicha Ley limitó el alcance de la indemnización solo para el fabricante de una vacuna COVID-19, cuando la aplicación resultaba en un evento adverso grave para una persona, y ésta obtuvo una resolución favorable de un reclamo presentado en la jurisdicción del fabricante.
+CONSIDERANDO: Que para combatir la pandemia, el Gobierno de la República de Honduras creó la “LEY ESPECIAL PARA LA GARANTÍA DE ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA” en el Decreto No. 193-2020, de fecha 21 de enero del año 2021 y publicada en el Diario Oficial “La Gaceta” en fecha 3 de febrero de 2021, Edición No. 35,505, ante la necesidad de establecer otros mecanismos que fortalezcan la adquisición de vacunas precalificadas por la Organización Mundial de la Salud (OMS) o aprobadas por otras agencias regulatorias globalmente reconocidas; sin embargo, dicha Ley limitó el alcance de la indemnización solo para el fabricante de una vacuna COVID-19, cuando la aplicación resultaba en un evento adverso grave para una persona, y ésta obtuvo una resolución favorable de un reclamo presentado en la jurisdicción del fabricante.
 
 CONSIDERANDO: Que es de suma importancia establecer un régimen legal aplicable para las responsabilidades extracontractuales de las personas y entidades que operan en el sector de la salud pública en el contexto del Estado de Emergencia Sanitaria derivada de la Pandemia COVID-19, que resultan en eventos adversos graves o amenaza de daño a los ciudadanos de la República de Honduras producto del uso de Tratamientos Médicos o con su desarrollo, administración, o uso dentro del contexto del Estado de Emergencia Sanitaria que surgió de la Pandemia COVID-19.
 
@@ -53,7 +53,7 @@ LEY ESPECIAL DE REGULACIÓN DEL USO DE VACUNAS Y TRATAMIENTOS MÉDICOS PARA EL C
 
 #### Artículo 1
 
-ARTÍCULO 1.- El Estado de Honduras reafirma y declara que la Pandemia COVID-19 que resulta de la transmisión del virus SARS-CoV-2 o de cualquier virus mutante del mismo constituye una situación de orden público y es parte de las circunstancias que han dado lugar a la declaración del ESTADO DE EMERGENCIA SANITARIA, según lo establecido en el Decreto Ejecutivo Número PCM-005- 2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, Edición No. 35.171, modificado por Decretos Ejecutivos Números: PCM-016-2020, PCM-023- 2020 y PCM-146-2020.
+ARTÍCULO 1.- El Estado de Honduras reafirma y declara que la Pandemia COVID-19 que resulta de la transmisión del virus SARS-CoV-2 o de cualquier virus mutante del mismo constituye una situación de orden público y es parte de las circunstancias que han dado lugar a la declaración del ESTADO DE EMERGENCIA SANITARIA, según lo establecido en el Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, Edición No. 35.171, modificado por Decretos Ejecutivos Números: PCM-016-2020, PCM-023-2020 y PCM-146-2020.
 
 #### Artículo 2
 
@@ -81,7 +81,7 @@ Está prohibido usar, aplicar y prescribir un Producto para Tratamientos Médico
 
 #### Artículo 7
 
-ARTÍCULO 7.- Reformar el Artículo No.13 del Decreto Legislativo No.193-2020 de fecha 21 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Febrero del año 2021, Edición No.35,505, contentivo de la Reforma a la LEY ESPECIAL PARA LA GARANTÍA DE LA ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, Y EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA y que en adelante se leerá así:
+ARTÍCULO 7.- Reformar el Artículo No. 13 del Decreto Legislativo No. 193-2020 de fecha 21 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Febrero del año 2021, Edición No. 35,505, contentivo de la Reforma a la LEY ESPECIAL PARA LA GARANTÍA DE LA ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, Y EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA y que en adelante se leerá así:
 
 “ARTÍCULO 13. Créase un Fondo Especial… Asimismo, dicho fondo servirá para indemnizaciones de daños resultantes del desarrollo, administración o uso de un Producto para Tratamientos Médicos para atender la pandemia de COVID-19 en el contexto del Estado de Emergencia Sanitaria que surgió de la pandemia de COVID-19, según se define en la LEY ESPECIAL DE REGULACIÓN DEL USO DE VACUNAS Y TRATAMIENTOS MÉDICOS PARA EL COMBATE DE LA EMERGENCIA SANITARIA A CONSECUENCIA DE LA COVID-19 POR PERSONAS NATURALES Y JURÍDICAS NACIONALES O EXTRANJERAS, por resolución administrativa o sentencia dictada en los tribunales de jurisdicción nacional.
 
@@ -95,11 +95,11 @@ Artículo anterior, no podrá destinarse a otros fines, por lo que no será posi
 
 #### Artículo 9
 
-ARTÍCULO 9.- Los reclamos derivados de daños resultantes del desarrollo, administración o uso de un Producto para Tratamientos Médicos para atender la pandemia de COVID-19 en el contexto del Estado de Emergencia Sanitaria que surgió de la pandemia de COVID-19 seguirán el procedimiento establecido en los artículos 8, 9, 10 y 16 de la LEY ESPECIAL PARA LA GARANTÍA DE LA ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, Y EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA, Decreto Legislativo No.193-2020 de fecha 21 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta”, Edición No.35,505 de fecha 3 de Febrero del año 2021.
+ARTÍCULO 9.- Los reclamos derivados de daños resultantes del desarrollo, administración o uso de un Producto para Tratamientos Médicos para atender la pandemia de COVID-19 en el contexto del Estado de Emergencia Sanitaria que surgió de la pandemia de COVID-19 seguirán el procedimiento establecido en los artículos 8, 9, 10 y 16 de la LEY ESPECIAL PARA LA GARANTÍA DE LA ATENCIÓN POR EVENTOS ADVERSOS GRAVES ATRIBUIDOS A LA APLICACIÓN O USO DE LA VACUNA CONTRA EL COVID-19, Y EN SU CASO, PARA LA COMPENSACIÓN SIN CULPA, Decreto Legislativo No. 193-2020 de fecha 21 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta”, Edición No. 35,505 de fecha 3 de Febrero del año 2021.
 
 #### Artículo 10
 
-ARTÍCULO 10.- Sin perjuicio de lo dispuesto en el Artículo 5 de la presente Ley, la indemnización a través del fondo para la compensación sin culpa e indemnización al fabricante creado mediante el Decreto Legislativo No.193-2020, será la única y exclusiva indemnización para cualquier reclamación por daños que estén relacionados o resulten del desarrollo, administración o el uso de Productos para Tratamientos Médicos para atender la pandemia de COVID-19, incluidos vacunas, antivirales, productos biológicos, de diagnóstico, otros fármacos u otros dispositivos para tratar, diagnosticar, curar, prevenir o mitigar los daños o la amenaza de daños en el Estado de Emergencia Sanitaria que surgió de la Pandemia COVID-19.
+ARTÍCULO 10.- Sin perjuicio de lo dispuesto en el Artículo 5 de la presente Ley, la indemnización a través del fondo para la compensación sin culpa e indemnización al fabricante creado mediante el Decreto Legislativo No. 193-2020, será la única y exclusiva indemnización para cualquier reclamación por daños que estén relacionados o resulten del desarrollo, administración o el uso de Productos para Tratamientos Médicos para atender la pandemia de COVID-19, incluidos vacunas, antivirales, productos biológicos, de diagnóstico, otros fármacos u otros dispositivos para tratar, diagnosticar, curar, prevenir o mitigar los daños o la amenaza de daños en el Estado de Emergencia Sanitaria que surgió de la Pandemia COVID-19.
 
 #### Artículo 11
 

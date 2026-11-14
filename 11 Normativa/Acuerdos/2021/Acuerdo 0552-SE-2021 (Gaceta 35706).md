@@ -11,7 +11,7 @@ paginas: "A. 25 - 44"
 sumario: "Acuerdo Ejecutivo No. 0552-SE-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210902-35706/download"
 extraido: "2026-11-14"
-huella: "094c2933b66d010c"
+huella: "961318c48dcc91db"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 0552-SE-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No 043-2020 de fecha 06 de octubre 
 
 POR TANTO;
 
-A C U E R D A:
+ACUERDA:
 
 #### Artículo PRIMERO
 

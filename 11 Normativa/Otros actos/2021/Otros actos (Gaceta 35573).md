@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210416-35573/download"
 extraido: "2026-11-14"
-huella: "bbaddf4e214492b2"
+huella: "a4c02273a3bd470f"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -45,11 +45,11 @@ CONSIDERANDO: Que lo dispuesto en la presente norma no contraviene lo dispuesto 
 
 CONSIDERANDO: Que el artículo 26 del Decreto Legislativo de Finanzas y que esta es responsable de participar en la No. 25 - 2016 del 7 de abril de 2016 y publicado en el Diario Oficial La Gaceta el 4 de mayo de 2016, contentivo de la Ley de Responsabilidad Fiscal indica “que todos aquellos fideicomisos financiados con recursos públicos deben manejarse dentro del presupuesto general de ingresos y egresos de la República, sin que el objeto de dichos fideicomisos sea afectado.”
 
-CONSIDERANDO: Que en el artículo 95 del Decreto Legislativo No.83-2004 de la Ley Orgánica de Presupuesto se establece los principios, normas y procedimientos técnicos que integran el subsistema de Contabilidad Gubernamental que deberá aplicar todo el Sector Público, llevando consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que fuere su naturaleza.
+CONSIDERANDO: Que en el artículo 95 del Decreto Legislativo No. 83-2004 de la Ley Orgánica de Presupuesto se establece los principios, normas y procedimientos técnicos que integran el subsistema de Contabilidad Gubernamental que deberá aplicar todo el Sector Público, llevando consigo la obligación de rendir cuentas de las respectivas operaciones, cualquiera que fuere su naturaleza.
 
 CONSIDERANDO: Que el artículo 5 de la Ley Orgánica de Presupuesto corresponde a la Secretaría de Estado en el Despacho de Finanzas: numeral 3) “velar por la transparencia de la información de la gestión financiera”.
 
-CONSIDERANDO: Que según Decreto Legislativo No.170- 2006 de la Ley de Transparencia y Acceso a la Información Pública en su artículo 13 referente a la Información que debe ser difundida de oficio, preceptúa que toda Institución Obligada está en el deber de difundir de oficio y actualizar periódicamente a través de medios electrónicos o instrumentos computarizados; a falta de éstos, por los medios escritos disponibles, la información siguiente:3) Las políticas generales, los planes, programas y proyectos, informes, actividades, los estados financieros y las liquidaciones presupuestarias trimestrales por programas.
+CONSIDERANDO: Que según Decreto Legislativo No. 170-2006 de la Ley de Transparencia y Acceso a la Información Pública en su artículo 13 referente a la Información que debe ser difundida de oficio, preceptúa que toda Institución Obligada está en el deber de difundir de oficio y actualizar periódicamente a través de medios electrónicos o instrumentos computarizados; a falta de éstos, por los medios escritos disponibles, la información siguiente:3) Las políticas generales, los planes, programas y proyectos, informes, actividades, los estados financieros y las liquidaciones presupuestarias trimestrales por programas.
 
 CONSIDERANDO: Que mediante el PCM-029-2019 del 23 de noviembre del 2019 se creó la Dirección General de Fideicomisos, dependiente de la Subsecretaría de Finanzas y Presupuesto de la Secretaría de Estado en el Despacho creación o estructuración de los contratos de fideicomiso públicos, controlar su ejecución, apoyar técnicamente a los comités técnicos, requerir y participar en la liquidación de todos los Fideicomisos Públicos existentes y vigentes en la República, así como los que estén por constituirse o se constituyan en un futuro.
 
@@ -197,7 +197,7 @@ Artículo 17: Registro contable. La Dirección de Fideicomisos debe acordar con 
 
 Artículo 18: Proceso de adquisición y contratación.
 
-Los procesos de adquisiciones y contratación de bienes, suministros, obras y servicios que se financien y ejecuten con recursos provenientes de fideicomisos públicos, deberán aplicar los principios establecidos en la Ley de Contratación del Estado Decreto No.74-2001 y sus reformas o la legislación que resulte aplicable conforme al proceso de adquisición, si este estuviere sujeto a una ley o norma de carácter especial. En todo caso, deberán seguirse los principios de eficiencia, publicidad y transparencia, igualdad y libre competencia.
+Los procesos de adquisiciones y contratación de bienes, suministros, obras y servicios que se financien y ejecuten con recursos provenientes de fideicomisos públicos, deberán aplicar los principios establecidos en la Ley de Contratación del Estado Decreto No. 74-2001 y sus reformas o la legislación que resulte aplicable conforme al proceso de adquisición, si este estuviere sujeto a una ley o norma de carácter especial. En todo caso, deberán seguirse los principios de eficiencia, publicidad y transparencia, igualdad y libre competencia.
 
 #### Artículo 19
 
@@ -235,7 +235,7 @@ Externa. Los fideicomisos públicos deberán contratar con
 
 #### Artículo 22
 
-Artículo 22: Obligatoriedad de contratar Auditoría cargo a los recursos del fideicomiso una auditoría externa con la periodicidad que se determine en el contrato o , en su defecto, al menos una vez cada dos años, lo anterior sin perjuicio de las atribuciones que corresponden a los entes reguladores y contralores respectivos. Los resultados de las auditorías deberán ser compartidos con la Dirección General de Fideicomisos y corresponderá al fideicomitente el análisis de los resultados y la adopción de medidas que resulten necesarias.
+Artículo 22: Obligatoriedad de contratar Auditoría cargo a los recursos del fideicomiso una auditoría externa con la periodicidad que se determine en el contrato o, en su defecto, al menos una vez cada dos años, lo anterior sin perjuicio de las atribuciones que corresponden a los entes reguladores y contralores respectivos. Los resultados de las auditorías deberán ser compartidos con la Dirección General de Fideicomisos y corresponderá al fideicomitente el análisis de los resultados y la adopción de medidas que resulten necesarias.
 
 CAPÍTULO V DE LA LIQUIDACIÓN DE FIDEICOMISOS PÚBLICOS
 

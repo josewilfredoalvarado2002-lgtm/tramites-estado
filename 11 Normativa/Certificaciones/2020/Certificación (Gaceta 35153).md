@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200120-35153/download"
 extraido: "2026-11-14"
-huella: "70a8c03ac706b941"
+huella: "1323d773149b0d60"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -35,7 +35,7 @@ RESOLUCIÓN No. 326-2019. SECRETARÍA DE
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinte de febrero del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintiuno de enero del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-21012019- 49, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de apoderada legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, con domicilio en el municipio de Intibucá, departamento de Intibucá; contraída a solicitar la Personalidad Jurídica a favor de su representada. ANTECEDENTE DE HECHO, en fecha veintiuno de enero del dos mil diecinueve, compareció ante esta esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, con domicilio en el municipio de Intibucá, departamento de Intibucá, a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintiuno de enero del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-21012019-49, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de apoderada legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, con domicilio en el municipio de Intibucá, departamento de Intibucá; contraída a solicitar la Personalidad Jurídica a favor de su representada. ANTECEDENTE DE HECHO, en fecha veintiuno de enero del dos mil diecinueve, compareció ante esta esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, con domicilio en el municipio de Intibucá, departamento de Intibucá, a solicitar la Personalidad Jurídica a favor de su representada.
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 
@@ -53,13 +53,11 @@ QUINTO: La Ley Marco del Sector de Agua potable y Saneamiento en su artículo 18
 
 SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, se crea como asociación civil de beneficio mutuo, cuyas disposiciones estatutarias no contrarían las leyes del país, el orden público, la moral y las buenas costumbres por lo que es procedente acceder a lo solicitado.
 
-SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No.
-
-315-2019 de fecha veinte de febrero del año dos mil diecinueve, se pronunció en el sentido de: “…DICTAMEN FAVORABLE en relación a la petición planteada, recomendando conceder lo solicitado, por ser procedente el otorgamiento de Personalidad Jurídica a favor de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE…”.
+SÉPTIMO: La Unidad de Servicios Legales, mediante Dictamen Legal número DICTAMEN LEGAL U.S.L No. 315-2019 de fecha veinte de febrero del año dos mil diecinueve, se pronunció en el sentido de: “…DICTAMEN FAVORABLE en relación a la petición planteada, recomendando conceder lo solicitado, por ser procedente el otorgamiento de Personalidad Jurídica a favor de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE…”.
 
 OCTAVO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE CEDROS SAN JOSE, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-NOVENO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+NOVENO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
@@ -95,7 +93,7 @@ ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular y normal e
 
 #### Artículo 5
 
-ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema.- c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamiento. e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) obtención del área de la microcuenca por medio de la compra , firma de convenios con dueños de terreno.
+ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema.- c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamiento. e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno.
 
 \2) mejorando la infraestructura. 3) construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la población use y maneje el agua adecuadamente y evitando el desperdicio del agua.- g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico). i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento. Básicos.- j- Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
 
@@ -117,7 +115,7 @@ ARTÍCULO 8.- Son derechos de los miembros: a.- Ambas clases de miembros tienen 
 
 #### Artículo 9
 
-ARTÍCULO 9.- Son obligaciones de los miembros (usuarios directivos): a.- Conectarse en el acueducto y al sistema de saneamiento.- b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura.- c.- Asistir puntualmente a las reuniones.- d.- Participar en cualquiera de las comisiones que se le asigne.- e.- Vigilar por el buen estado de las partes del sistema.- f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.- Mantener limpio los solares, pilas , letrinas y la vivienda para prevenir las enfermedades.- h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+ARTÍCULO 9.- Son obligaciones de los miembros (usuarios directivos): a.- Conectarse en el acueducto y al sistema de saneamiento.- b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura.- c.- Asistir puntualmente a las reuniones.- d.- Participar en cualquiera de las comisiones que se le asigne.- e.- Vigilar por el buen estado de las partes del sistema.- f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.- Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades.- h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPÍTULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS, JUNTA DIRECTIVAS. COMITE DE APOYO
 
@@ -135,7 +133,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género ; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad-honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a).- 3.- Secretario(a).- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y saneamiento estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presentes en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un periodo más en forma consecutiva, ejercerán los cargos ad-honorem, para ser miembro de la Junta directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de juntas de agua y saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a).- 3.- Secretario(a).- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
 
 #### Artículo 13
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. SAG-234-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231204-36400/download"
 extraido: "2026-11-14"
-huella: "cb58c9935f7cf613"
+huella: "b020d2ece0b3eaf2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-234-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance
 
 Por consiguiente, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) realizará arduos e incansables esfuerzos para mitigar los daños irreversibles y sin precedentes que los fenómenos naturales han ocasionado al Sector Cafetalero, dejando a la población hondureña en un estado de total vulnerabilidad e inseguridad alimentaria, en virtud de las cuantiosas pérdidas sufridas producto de los cambios climáticos.
 
-CONSIDERANDO: Que mediante Decreto No.157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 004, Doscientos Cincuenta Millones de Lempiras (L.250,000,000.00) destinados a la Ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”.
+CONSIDERANDO: Que mediante Decreto No. 157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 004, Doscientos Cincuenta Millones de Lempiras (L.250,000,000.00) destinados a la Ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”.
 
 CONSIDERANDO: El Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores” está dirigido a mejorar los ingresos de las familias cafetaleras pequeñas y medianas, mejorando la productividad por área, con el apoyo de un bono especial para la fertilización de las fincas de café, y acompañamiento a los mismos, mediante asistencia técnica y capacitación, para el año 2023.
 
@@ -69,9 +69,7 @@ Responsabilidades de las Partes; Literal a), de la Carta de Entendimiento de Coo
 
 (25) de abril hasta el treinta y uno (31) de diciembre del año dos mil veintitrés (2023), debiendo rendir a este Despacho, informes mensuales sobre las actividades desarrolladas y los gastos efectuados en la ejecución de los fondos apoyándose en el IICA por un monto de hasta Doscientos Cincuenta Millones de Lempiras (L. 250,000,000.00), los cuales deben estar aprobados en el Plan Operativo del Programa sin salirse de ellos a fin de garantizar la transparencia, y con ello el logro de los objetivos del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores Año 2023”, así como la rendición de cuentas para un mejor desempeño institucional y del gobierno en general, quedando entendidos de manera expresa que todo lo firmado mediante esta delegación será única y exclusivamente responsabilidad del delegado.
 
-SEGUNDO: El presente Acuerdo deroga el Acuerdo No.
-
-SAG-126-2023 de fecha 03 de Agosto del 2023 en todas y cada una de sus partes.
+SEGUNDO: El presente Acuerdo deroga el Acuerdo No. SAG-126-2023 de fecha 03 de Agosto del 2023 en todas y cada una de sus partes.
 
 TERCERO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

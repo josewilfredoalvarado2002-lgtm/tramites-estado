@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 7-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240217-36463/download"
 extraido: "2026-11-14"
-huella: "b3098a752acee77e"
+huella: "6f09611842ecf8b4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 7-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 59 establece
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 145 reconoce el derecho a la protección de la Salud, asimismo, establece que todos debemos participar en la promoción y preservación de la salud personal y de la comunidad.
 
-CONSIDERANDO: Que el Código Tributario vigente en su Artículo 2, numeral 4), contenido en el Decreto No.170- 2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016, establece que la amnistía es un beneficio que se concede mediante la aprobación de una Ley a favor de los deudores tributarios, con el objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
+CONSIDERANDO: Que el Código Tributario vigente en su Artículo 2, numeral 4), contenido en el Decreto No. 170-2016 del 15 de Diciembre de 2016, publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016, establece que la amnistía es un beneficio que se concede mediante la aprobación de una Ley a favor de los deudores tributarios, con el objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 143 establece que, “El Estado, los patronos y los trabajadores, estarán obligados a contribuir al financiamiento, mejoramiento y expansión del seguro social. El régimen de seguridad social se implantará en forma gradual y progresiva.
 
@@ -69,7 +69,7 @@ Para tal efecto, debe requerir de las alcaldías municipales, autoridades tribut
 
 #### Artículo 2
 
-ARTÍCULO 2.- Los beneficiarios de las amnistías otorgadas mediante los Decretos Legislativos siguientes: Decreto No.112-2016 del 16 de Agosto del 2016, Decreto No.82-2017 del 27 de Septiembre de 2017 y el Artículo 2 del Decreto No.129-2017 del 18 de Enero del 2018, Decreto No.51-2018 del 7 de Junio del 2018 y Artículo 253 del Decreto No.180-2018 del 13 de Diciembre de 2018 y Artículo 2 del Decreto No.168-2019 del 12 de Diciembre de 2020, y Decreto No.188-2020 de fecha 4 de febrero del 2021, que tengan planes o compromisos de pago vigentes con el INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS) no podrán acogerse a la presente amnistía.
+ARTÍCULO 2.- Los beneficiarios de las amnistías otorgadas mediante los Decretos Legislativos siguientes: Decreto No. 112-2016 del 16 de Agosto del 2016, Decreto No. 82-2017 del 27 de Septiembre de 2017 y el Artículo 2 del Decreto No. 129-2017 del 18 de Enero del 2018, Decreto No. 51-2018 del 7 de Junio del 2018 y Artículo 253 del Decreto No. 180-2018 del 13 de Diciembre de 2018 y Artículo 2 del Decreto No. 168-2019 del 12 de Diciembre de 2020, y Decreto No. 188-2020 de fecha 4 de febrero del 2021, que tengan planes o compromisos de pago vigentes con el INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL (IHSS) no podrán acogerse a la presente amnistía.
 
 #### Artículo 3
 

@@ -11,7 +11,7 @@ paginas: "A. 48 - 78"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240224-36469/download"
 extraido: "2026-11-14"
-huella: "e4078ad7a4954f75"
+huella: "571310c6624d4ce5"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 003-DGC-2024
@@ -29,9 +29,7 @@ huella: "e4078ad7a4954f75"
 
 DIRECCIÓN GENERAL DE CINEMATOGRAFÍA
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos.
 
 CONSIDERANDO: Que mediante Acuerdo No. 106-2023 de fecha 17 de abril de 2023, se nombró al ciudadano MANUEL ANTONIO VILLA CRUZ, en el cargo de Director General de Cinematografía.
 
@@ -73,7 +71,7 @@ Esta Dirección General de Cinematografía en uso de las facultades que está in
 
 ACUERDA:
 
-PRIMERO: Dar por aprobado el MANUAL DE USO DEL FONDO PARA EL DESARROLLO CINEMATOGRÁFICO versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL DE USO DEL FONDO PARA EL DESARROLLO CINEMATOGRAFICO Manual No.2 ,Versión 1.0
+PRIMERO: Dar por aprobado el MANUAL DE USO DEL FONDO PARA EL DESARROLLO CINEMATOGRÁFICO versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL DE USO DEL FONDO PARA EL DESARROLLO CINEMATOGRAFICO Manual No. 2,Versión 1.0
 
 1. Disposiciones Generales
 
@@ -225,7 +223,7 @@ e) Estado de cuenta bancaria que refleje al menos el saldo según el remanente r
 
 f) En el caso de pagar alimentación y hospedaje se debe acompañar listados de participantes por cada rubro correspondiente.
 
-** según la modalidad de convenio; todos aquellos autorizados según ACUERDO No. 481- 2017 REGLAMENTO DEL RÉGIMEN DE FACTURACIÓN, OTROS DOCUMENTOS FISCALES Y REGISTRO FISCAL DE IMPRENTAS
+** según la modalidad de convenio; todos aquellos autorizados según ACUERDO No. 481-2017 REGLAMENTO DEL RÉGIMEN DE FACTURACIÓN, OTROS DOCUMENTOS FISCALES Y REGISTRO FISCAL DE IMPRENTAS
 
 • Los documentos que son sustento de los informes técnicos son:
 

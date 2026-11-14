@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Números SAR-211-2025,SAR-261-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250715-36890/download"
 extraido: "2026-11-09"
-huella: "f36588cf03094d3e"
+huella: "a020fc535ad6b4be"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-211-2025
@@ -39,19 +39,15 @@ CONSIDERANDO: Que el Artículo 199 del Decreto Legislativo No. 170-2016, estable
 
 \2) Aprobar políticas Institucionales; ...6) Aprobar los acuerdos que contengan las normas internas de la institución, …13) Las demás funciones que le confieran el presente Código y las leyes aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 202-2024 de fecha 11 de septiembre del 2024 se nombró a la ciudadana ROSA MARIANA RÍOS MUNGUÍA como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado.
 
-202-2024 de fecha 11 de septiembre del 2024 se nombró a la ciudadana ROSA MARIANA RÍOS MUNGUÍA como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas (SAR).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 9 de septiembre del 2022, fue nombrada la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de SECRETARIA GENERAL del Servicio de Administración de Rentas (SAR).
-
-CONSIDERANDO: Que mediante Acuerdo No. SAR-002- 2017 de fecha 03 de enero de 2017, se acordó aprobar la estructura organizacional del Servicio de Administración de Rentas (SAR), reformándose el mismo mediante los Acuerdos números SAR-227-2023 de fecha 30 de junio del 2023 y SAR-513-2023.
+CONSIDERANDO: Que mediante Acuerdo No. SAR-002-2017 de fecha 03 de enero de 2017, se acordó aprobar la estructura organizacional del Servicio de Administración de Rentas (SAR), reformándose el mismo mediante los Acuerdos números SAR-227-2023 de fecha 30 de junio del 2023 y SAR-513-2023.
 
 CONSIDERANDO: Que según informe elaborado por expertos tributarios del Fondo Monetario Internacional (FMI) en marzo 2018, quienes realizaron recomendaciones en su Informe de Asistencia Técnica denominado “Fortalecimiento de la Gestión de los Riesgos de Cumplimiento” donde establecen crear un Comité de Gestión de Riesgos para la mejor gobernanza de la gestión del cumplimiento tributario.
 
-CONSIDERANDO: Que mediante Acuerdo SAR-479-2018 de fecha 07 de diciembre de 2018 y publicado en el Diario Oficial “La Gaceta” No. 34,822 de fecha 17 de diciembre de 2018, creó el Comité de Gestión de Riesgos, así como la aprobación de la Política de Gestión de Riesgos, del Servicio de Administración de Rentas (SAR), la que ser de estricto cumplimiento. Es importante mencionar que el referido Acuerdo fue modificado mediante Acuerdo Número SAR- 636-2024 de fecha 27 de diciembre de 2024 y publicado en el Diario Oficial “La Gaceta” No. 36,752 de fecha 29 de enero de 2025.
+CONSIDERANDO: Que mediante Acuerdo SAR-479-2018 de fecha 07 de diciembre de 2018 y publicado en el Diario Oficial “La Gaceta” No. 34,822 de fecha 17 de diciembre de 2018, creó el Comité de Gestión de Riesgos, así como la aprobación de la Política de Gestión de Riesgos, del Servicio de Administración de Rentas (SAR), la que ser de estricto cumplimiento. Es importante mencionar que el referido Acuerdo fue modificado mediante Acuerdo Número SAR-636-2024 de fecha 27 de diciembre de 2024 y publicado en el Diario Oficial “La Gaceta” No. 36,752 de fecha 29 de enero de 2025.
 
 CONSIDERANDO: Que para que, el Comité de Gestión de Riesgo, cumpla con la Política de Gestión de Riegos del Servicio de Administración de Rentas (SAR) y dar estricto cumplimiento, es necesario reglamentar a través de normas y procedimientos de carácter obligatorio y permanente su funcionalidad para la toma de decisiones.
 
@@ -61,7 +57,7 @@ POR TANTO:
 
 En uso de las facultades de que está investida y en aplicación de los Artículos: 351 de la Constitución de la República;
 
-195, 199, del Código Tributario, 7, 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24 y 26 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo No 01- 2017; Acuerdo Ejecutivo No. 202-2024; Acuerdo Número SAR 002-2017 y sus reformas; Acuerdo Ejecutivo No. 435- 2022; Acuerdo SAR-479-2018 y su modificación y demás disposiciones legales aplicables.
+195, 199, del Código Tributario, 7, 116, 118 y 122 de la Ley General de la Administración Pública; 23, 24 y 26 de la Ley de Procedimiento Administrativo; Acuerdo Ejecutivo No 01-2017; Acuerdo Ejecutivo No. 202-2024; Acuerdo Número SAR 002-2017 y sus reformas; Acuerdo Ejecutivo No. 435-2022; Acuerdo SAR-479-2018 y su modificación y demás disposiciones legales aplicables.
 
 ACUERDA:
 

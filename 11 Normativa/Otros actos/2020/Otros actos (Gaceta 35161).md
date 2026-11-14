@@ -11,7 +11,7 @@ paginas: "A. 1 - 31"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200129-35161/download"
 extraido: "2026-11-14"
-huella: "c2cad619fb539d41"
+huella: "a7f65067acd37169"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el Congreso Nacional mediante Decreto No. 94 de fecha 28 de ab
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo 048-2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017, se creó la Secretaría de Estado en el Despacho de Energía (SEN), como institución rectora del sector energético nacional y de integración energética regional e internacional.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo 048- 2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017, la Comisión Administradora del Petróleo
+CONSIDERANDO: Que mediante Decreto Ejecutivo 048-2017 publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017, la Comisión Administradora del Petróleo
 
 (CAP) se suprimió de la Secretaría de Estado en el Despacho de Desarrollo Económico y se trasladó a la Secretaría de Estado en el Despacho de Energía (SEN). Siendo desde esta fecha la Secretaría de Estado en el Despacho de Energía, con autoridad a nivel nacional en el ámbito de su materia, teniendo como finalidad promover el aprovechamiento óptimo y sostenible de los hidrocarburos desde su refinación hasta su comercialización y los Biocombustibles, promoviendo las condiciones necesarias para su armonización con los intereses de la sociedad, el Estado y las empresas del sector.
 
@@ -55,9 +55,7 @@ CONSIDERANDO: Que es deber del Estado, a través de la Secretaría de Estado en 
 
 CONSIDERANDO: Que la Comisión Administradora del Petróleo, como objetivo primordial, debe asegurar a la nación el abastecimiento de los derivados del petróleo en condiciones de calidad, eficiencia, economicidad y prácticas competitivas, con el fin de satisfacer el interés público, estableciendo normas, trámites y procedimientos para su correcto funcionamiento asegurando la adquisición, almacenamiento y distribución del petróleo y sus derivados, velando por que se cumplan las disposiciones vigentes y emitiendo las que considere necesarias teniendo en consideración que estos costos energéticos son recursos estratégicos para el desarrollo económico y social del país.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No.
-
-48-2009 de fecha 10 de agosto del 2009 publicado en el Diario Oficial La Gaceta el 17 de octubre de 2009, el Poder Ejecutivo determinó que las Compañías Importadoras, Reexportadoras, Distribuidoras de productos derivados del petróleo y gas licuado del petróleo, envasadores del gas licuado del petróleo y bombas de patio o depósito para consumo propio establecidas y por establecerse, deberán registrarse en la Comisión Administradora de la Compra- Venta y Comercialización del Petróleo y todos sus derivados, no obstante, dicho Acuerdo no incluye a todos los agentes u operadores de la cadena de comercialización de los productos derivados del petróleo.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No. 48-2009 de fecha 10 de agosto del 2009 publicado en el Diario Oficial La Gaceta el 17 de octubre de 2009, el Poder Ejecutivo determinó que las Compañías Importadoras, Reexportadoras, Distribuidoras de productos derivados del petróleo y gas licuado del petróleo, envasadores del gas licuado del petróleo y bombas de patio o depósito para consumo propio establecidas y por establecerse, deberán registrarse en la Comisión Administradora de la Compra- Venta y Comercialización del Petróleo y todos sus derivados, no obstante, dicho Acuerdo no incluye a todos los agentes u operadores de la cadena de comercialización de los productos derivados del petróleo.
 
 CONSIDERANDO: Que es necesario facilitar y garantizar el suministro, almacenamiento y distribución de los productos derivados del petróleo a nivel nacional, asegurando que se cumplen con los requisitos de operación y seguridad necesarios. Atribución de la CAP según Artículo 2 del Reglamento de Aplicación del Decreto 94, Acuerdo Ejecutivo No. 25-2007 publicado en el Diario Oficial La Gaceta el 09 de noviembre de 2007.
 
@@ -1101,7 +1099,7 @@ h. Queda prohibida la venta ambulante de GLP a granel para llenado total o parci
 
 i. Queda prohibido a las envasadoras llenar un cilindro por una cantidad inferior a la capacidad de llenado autorizado para su venta según el Sistema de Precios Paridad de Importación vigente. La presentación en libras del volumen a vender del cilindro, su contenido y el precio deben concordar entre sí y ajustarse al valor y capacidad autorizado para su venta según el Sistema de Precios Paridad de Importación vigente.
 
-j. Se ordena a las empresas envasadoras de GLP, etiquetar todos los cilindros de GLP, previo a su comercialización. El proceso de etiquetado se realizará en el momento del envasado del cilindro y se debe renovar cada vez que la etiqueta se deteriore o haya sido removida, todo cilindro entregado como resultado de compraventa, debe contar con el etiquetado de seguridad correspondiente, de acuerdo con lo establecido en el Acuerdo 126-2016 del 19 de diciembre de 2016 publicado el 28 de diciembre de 2016. Así mismo, el envasador que realizó el llenado de cilindros que pertenezca a un envasador diferente debe etiquetar todos los cilindros utilizando el formato de etiqueta, previamente autorizado por esta Secretaría según lo señalado en el Decreto Ejecutivo PCM-062- 2017 publicado el 29 de septiembre de 2017 y su reglamento.
+j. Se ordena a las empresas envasadoras de GLP, etiquetar todos los cilindros de GLP, previo a su comercialización. El proceso de etiquetado se realizará en el momento del envasado del cilindro y se debe renovar cada vez que la etiqueta se deteriore o haya sido removida, todo cilindro entregado como resultado de compraventa, debe contar con el etiquetado de seguridad correspondiente, de acuerdo con lo establecido en el Acuerdo 126-2016 del 19 de diciembre de 2016 publicado el 28 de diciembre de 2016. Así mismo, el envasador que realizó el llenado de cilindros que pertenezca a un envasador diferente debe etiquetar todos los cilindros utilizando el formato de etiqueta, previamente autorizado por esta Secretaría según lo señalado en el Decreto Ejecutivo PCM-062-2017 publicado el 29 de septiembre de 2017 y su reglamento.
 
 Título VIII
 

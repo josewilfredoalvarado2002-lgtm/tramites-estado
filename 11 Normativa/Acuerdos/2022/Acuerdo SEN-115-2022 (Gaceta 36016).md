@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdo No. SEN-115-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220831-36016/download"
 extraido: "2026-11-14"
-huella: "a49c3322431d3854"
+huella: "a83780ec5a18f754"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-115-2022
@@ -29,15 +29,13 @@ huella: "a49c3322431d3854"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del Sector Energético Nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del Sector Energético Nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo el conocimiento y resolución de los asuntos del ramo.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia, debiendo el acto de delegación, indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
-POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 247, 321 de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo PCM-007- 2020 y demás aplicables,
+POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 247, 321 de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo PCM-007-2020 y demás aplicables,
 
 ACUERDA
 

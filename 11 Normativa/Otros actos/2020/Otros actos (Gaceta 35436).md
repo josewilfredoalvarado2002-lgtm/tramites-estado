@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201121-35436/download"
 extraido: "2026-11-14"
-huella: "31f39931133c06c9"
+huella: "acf7e0f4f9a1daa9"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -47,7 +47,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 RESOLUCIÓN No. 55-2020. SECRETARÍA DE
 
-ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, diez de enero del dos mil veinte. VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho de diciembre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-18122019- 1072, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA VILLA CARDENAL OSCAR ANDRÉS RODRÍGUEZ DE LA ALDEA DE SUYAPA, con domicilio en la Colonia Villa Cardenal Oscar Andrés Rodríguez de la Aldea de Suyapa, Municipio de Cantarranas, Departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, diez de enero del dos mil veinte. VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho de diciembre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-18122019-1072, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA VILLA CARDENAL OSCAR ANDRÉS RODRÍGUEZ DE LA ALDEA DE SUYAPA, con domicilio en la Colonia Villa Cardenal Oscar Andrés Rodríguez de la Aldea de Suyapa, Municipio de Cantarranas, Departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -71,7 +71,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA VILLA CARDENAL OSCAR ANDRÉS RODRÍGUEZ DE LA ALDEA DE SUYAPA, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA VILLA CARDENAL OSCAR ANDRÉS RODRÍGUEZ DE LA ALDEA DE SUYAPA, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
@@ -287,11 +287,7 @@ WALTER ENRIQUE PINEDA PAREDES SECRETARIO GENERAL
 
 ______ Poder Judicial Honduras
 
-JUZGADO DE LETRAS DE LA SECCIÓN JUDICIAL DE CHOLUTECA AVISO DE TÍTULO SUPLETORIO La Suscrita, Secretaria del Juzgado de Letras de la Sección Judicial de Choluteca, al público en general y para los efectos de ley, HACE SABER: Que la Abogada SCARLETH MELISSA HERNÁNDEZ VALLEJO, actuando en su condición de Apoderada Legal de la señora CARMEN MARIA VASQUEZ CORRALES, mayor de edad, casada, Abogada, hondureña con domicilio en la colonia "Las Hadas", de la ciudad de Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán, en tránsito por esta Ciudad de Choluteca, Departamento de Choluteca, presentó a este Juzgado Solicitud de Título Supletorio sobre dos predios, ubicados en la Aldea Jayacayan, jurisdicción del Municipio de San Marcos de Colón, Departamento de Choluteca, Predio No.
-
-1). Mapa Final KD-22, Extensión del predio 31 Has, 93 as, 42.89 Cas, Naturaleza Jurídica SITIO, PRIVADO; Jayacayan.- con las colindancias siguientes. AL NORTE: Colinda con Carmen María Vásquez Corrales, AL SUR: Con Emma Betancourth, Hilda Betancourth, AL ESTE: Con Lorena Betancourth, y AL OESTE. con Hilda Betancourth, Selvin Ramírez. Predio No.
-
-2). Un predio ubicado en la Aldea Jayacayan, Municipio de San Marcos de Colón, Departamento de Choluteca, Mapa Final KD- 22, Extensión del predio 69 Has, 82 as, 44.41 Cas, Naturaleza Jurídica SITIO: PRIVADO.- COMALI Y JAMALI- Con las colindancias siguientes: AL NORTE: Colinda con Carmen María Vásquez Corrales; AL SUR: Con Carmen María Vásquez Corrales; AL ESTE: Con Manuel Corrales, Lorena Betancourth, AL OESTE: Con Selvin Ramírez, Ángel Onassis Carrasco, el presente predio antes descrito lo obtuvo de forma quieta, pacífica y no interrumpida, no existiendo otros poseedores proindivisos y tiene más de veinticinco años de poseerlo.
+JUZGADO DE LETRAS DE LA SECCIÓN JUDICIAL DE CHOLUTECA AVISO DE TÍTULO SUPLETORIO La Suscrita, Secretaria del Juzgado de Letras de la Sección Judicial de Choluteca, al público en general y para los efectos de ley, HACE SABER: Que la Abogada SCARLETH MELISSA HERNÁNDEZ VALLEJO, actuando en su condición de Apoderada Legal de la señora CARMEN MARIA VASQUEZ CORRALES, mayor de edad, casada, Abogada, hondureña con domicilio en la colonia "Las Hadas", de la ciudad de Comayagüela, Municipio del Distrito Central, Departamento de Francisco Morazán, en tránsito por esta Ciudad de Choluteca, Departamento de Choluteca, presentó a este Juzgado Solicitud de Título Supletorio sobre dos predios, ubicados en la Aldea Jayacayan, jurisdicción del Municipio de San Marcos de Colón, Departamento de Choluteca, Predio No. 1). Mapa Final KD-22, Extensión del predio 31 Has, 93 as, 42.89 Cas, Naturaleza Jurídica SITIO, PRIVADO; Jayacayan.- con las colindancias siguientes. AL NORTE: Colinda con Carmen María Vásquez Corrales, AL SUR: Con Emma Betancourth, Hilda Betancourth, AL ESTE: Con Lorena Betancourth, y AL OESTE. con Hilda Betancourth, Selvin Ramírez. Predio No. 2). Un predio ubicado en la Aldea Jayacayan, Municipio de San Marcos de Colón, Departamento de Choluteca, Mapa Final KD-22, Extensión del predio 69 Has, 82 as, 44.41 Cas, Naturaleza Jurídica SITIO: PRIVADO.- COMALI Y JAMALI- Con las colindancias siguientes: AL NORTE: Colinda con Carmen María Vásquez Corrales; AL SUR: Con Carmen María Vásquez Corrales; AL ESTE: Con Manuel Corrales, Lorena Betancourth, AL OESTE: Con Selvin Ramírez, Ángel Onassis Carrasco, el presente predio antes descrito lo obtuvo de forma quieta, pacífica y no interrumpida, no existiendo otros poseedores proindivisos y tiene más de veinticinco años de poseerlo.
 
 Choluteca, 13 de Marzo del año 2020
 

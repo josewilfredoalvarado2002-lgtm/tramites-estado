@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Decretos Nos. 117-2022, 121-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221121-36082/download"
 extraido: "2026-11-14"
-huella: "2e9a42a5d5860f95"
+huella: "67235080e3ce14d2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 121-2022
@@ -65,7 +65,7 @@ ARTÍCULO 3.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas 
 
 #### Artículo 4
 
-ARTÍCULO 4.- L a E m p r e s a H o n d u r e ñ a d e Telecomunicaciones (HONDUTEL) deberá elaborar un Plan de Rescate Financiero de la Empresa, en un término de tres (3) meses.
+ARTÍCULO 4.- La Empresa Hondureña de Telecomunicaciones (HONDUTEL) deberá elaborar un Plan de Rescate Financiero de la Empresa, en un término de tres (3) meses.
 
 #### Artículo 5
 

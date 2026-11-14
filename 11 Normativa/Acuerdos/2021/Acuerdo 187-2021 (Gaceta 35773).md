@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdo Ministerial No. 187-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211116-35773/download"
 extraido: "2026-11-14"
-huella: "69d6a65225ef2f47"
+huella: "4a84d8ba90770f56"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 187-2021
@@ -49,9 +49,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las 
 
 ACUERDA:
 
-PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No.
-
-02-2021; que ACUERDA: 1. Modificar, por un período de hasta 60 días, el horario de atención a los usuarios del Puesto Fronterizo Integrado de Corinto, de la forma siguiente: Lunes a domingo de 5:00 a.m. a 10:00 p.m. para todas las operaciones relacionadas con el paso de mercancías, medios de transporte vacíos y turismo. 2. El presente Acuerdo entra en vigor a partir de esta fecha y será publicado por los Estados Parte. 3. No obstante lo establecido en el numeral anterior, este Acuerdo no entrará en vigor para la República de El Salvador.
+PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No. 02-2021; que ACUERDA: 1. Modificar, por un período de hasta 60 días, el horario de atención a los usuarios del Puesto Fronterizo Integrado de Corinto, de la forma siguiente: Lunes a domingo de 5:00 a.m. a 10:00 p.m. para todas las operaciones relacionadas con el paso de mercancías, medios de transporte vacíos y turismo. 2. El presente Acuerdo entra en vigor a partir de esta fecha y será publicado por los Estados Parte. 3. No obstante lo establecido en el numeral anterior, este Acuerdo no entrará en vigor para la República de El Salvador.
 
 SGUNDO: Ordenar que para hacer del conocimiento público y observancia en general, el Acuerdo aquí nominada, debe ser publicada en la página web de la Secretaría de Estado en el Despacho de Desarrollo Económico, www.sde.gob.hn.
 

@@ -11,7 +11,7 @@ paginas: "A. 15 - 19"
 sumario: "Acuerdo Números 280-2026, 319-2026, 325-2026, 361-2026, 362-2026, 365-2026, 396-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "2ecea2e1f91f336f"
+huella: "2e43e06c4f2b9d71"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 319-2026
@@ -67,7 +67,7 @@ Que mediante Decreto Ejecutivo No. PCM-004-2026, dictado en Consejo de Ministros
 
 CONSIDERANDO (10):
 
-Que mediante Acuerdo No. 150-2026 de fecha 02 de marzo del año 2026 se nombró a la Comisión Técnica Liquidadora, responsable de ejecutar la supresión y liquidación de las Secretarías de Estado, Programas, Gabinetes E s p e c i a l e s , G a b i n e t e s Sectoriales e Institutos, Direcciones y Comisiones, la cual estará integrada por un Coordinador, un delegado de la Unidad de Auditoría Interna, un delegado de la Dirección General de Presupuesto de la Secretaría de Finanzas y un delegado de la Dirección Nacional de Bienes del Estado, y para cada caso concreto uno o más delegados de la Secretaría de Estado en el Despacho de Finanzas, ente u organismo creado, que se relacione con el ente u organismo suprimido. Asimismo, se señala que la Comisión Técnica Liquidadora está facultada para ejecutar todas las acciones necesarias y emitir los actos administrativos requeridos para dar cumplimiento al mandato consignado en el Decreto Ejecutivo PCM-004-2026.
+Que mediante Acuerdo No. 150-2026 de fecha 02 de marzo del año 2026 se nombró a la Comisión Técnica Liquidadora, responsable de ejecutar la supresión y liquidación de las Secretarías de Estado, Programas, Gabinetes Especiales, Gabinetes Sectoriales e Institutos, Direcciones y Comisiones, la cual estará integrada por un Coordinador, un delegado de la Unidad de Auditoría Interna, un delegado de la Dirección General de Presupuesto de la Secretaría de Finanzas y un delegado de la Dirección Nacional de Bienes del Estado, y para cada caso concreto uno o más delegados de la Secretaría de Estado en el Despacho de Finanzas, ente u organismo creado, que se relacione con el ente u organismo suprimido. Asimismo, se señala que la Comisión Técnica Liquidadora está facultada para ejecutar todas las acciones necesarias y emitir los actos administrativos requeridos para dar cumplimiento al mandato consignado en el Decreto Ejecutivo PCM-004-2026.
 
 CONSIDERANDO (11):
 
@@ -77,17 +77,15 @@ CONSIDERANDO (12):
 
 Que mediante Decreto Ejecutivo No. 006-2026, dictado en Consejo de Ministros y publicado en el Diario Oficial “La Gaceta” en fecha 11 de marzo del 2026, establece que la o las Comisiones Técnicas Liquidadoras podrán ser requeridas por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para todo o parte o para alguna actividad específica, de los procesos de adscripción contenidos en los
 
-Artículos 10, 11, 12, 13, 14 y 15 del Decreto Ejecutivo Número PCM-004-2026, caso contrario y como les corresponde, concentrará sus esfuerzos, decisiones y acciones en las liquidaciones del resto de entidades, dependencias, p r o g r a m a s , ó r g a n o s , instituciones públicas y demás, decretadas en el mismo Decreto Ejecutivo (artículo 15).
+Artículos 10, 11, 12, 13, 14 y 15 del Decreto Ejecutivo Número PCM-004-2026, caso contrario y como les corresponde, concentrará sus esfuerzos, decisiones y acciones en las liquidaciones del resto de entidades, dependencias, programas, órganos, instituciones públicas y demás, decretadas en el mismo Decreto Ejecutivo (artículo 15).
 
 POR TANTO:
 
-En uso de las facultades legales de que está investido y en aplicación de los siguientes artículos: 247, 321 de la Constitución de la República de Honduras; 11, 116, 118 y 122 de la Ley General de la Administración Pública; 29 numeral 3) de la Ley General de la Administración Pública; 24, 25 y 26 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-004-2026, publicado en el Diario Oficial “La Gaceta” en fecha 25 de febrero del 2026; Acuerdo No. 150-2026 de fecha 02 de marzo del 2026; y, Decreto Ejecutivo No. 006- 2026, publicado en el Diario Oficial “La Gaceta” en fecha 11 de marzo del 2026.
+En uso de las facultades legales de que está investido y en aplicación de los siguientes artículos: 247, 321 de la Constitución de la República de Honduras; 11, 116, 118 y 122 de la Ley General de la Administración Pública; 29 numeral 3) de la Ley General de la Administración Pública; 24, 25 y 26 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-004-2026, publicado en el Diario Oficial “La Gaceta” en fecha 25 de febrero del 2026; Acuerdo No. 150-2026 de fecha 02 de marzo del 2026; y, Decreto Ejecutivo No. 006-2026, publicado en el Diario Oficial “La Gaceta” en fecha 11 de marzo del 2026.
 
 ACUERDA:
 
-PRIMERO: Instruir a la Comisión Técnica Liquidadora, nombrada mediante Acuerdo No. 150-2026 de fecha 02 de marzo del año 2026, para que proceda a realizar de manera inmediata las acciones, gestiones o procesos que corresponden para la adscripción, debiendo para tal efecto hacer la liquidación del personal del Fondo Hondureño de Inversión Social (FHIS) de conformidad a lo preceptuado en los Decretos Ejecutivos PCM-004-2026 publicado en el Diario Oficial “La Gaceta” en fecha 25 de febrero de 2026 y No.
-
-006-2026 publicado en el Diario Oficial “La Gaceta” en fecha 11 de marzo del 2026 (artículos 10 al 15), incluyendo todas las actuaciones administrativas, financieras, patrimoniales y de personal que resulten necesarias.
+PRIMERO: Instruir a la Comisión Técnica Liquidadora, nombrada mediante Acuerdo No. 150-2026 de fecha 02 de marzo del año 2026, para que proceda a realizar de manera inmediata las acciones, gestiones o procesos que corresponden para la adscripción, debiendo para tal efecto hacer la liquidación del personal del Fondo Hondureño de Inversión Social (FHIS) de conformidad a lo preceptuado en los Decretos Ejecutivos PCM-004-2026 publicado en el Diario Oficial “La Gaceta” en fecha 25 de febrero de 2026 y No. 006-2026 publicado en el Diario Oficial “La Gaceta” en fecha 11 de marzo del 2026 (artículos 10 al 15), incluyendo todas las actuaciones administrativas, financieras, patrimoniales y de personal que resulten necesarias.
 
 SEGUNDO: Hacer las transcripciones de Ley.
 

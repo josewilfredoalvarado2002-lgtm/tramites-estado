@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Acuerdo No. 332-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "5d1f4391304c1848"
+huella: "59072d49d91fd0e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 332-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo PCM-27-201
 
 CONSIDERANDO: Que la Dirección de Niñez, Adolescencia y Familia (DINAF), es un Ente Desconcentrado, adscrito a la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social, con independencia técnica, funcional y administrativa para el mejor cumplimiento de sus fines.
 
-CONSIDERANDO: Que mediante Acuerdo No. 64- 2014, publicado en el Diario Oficial La Gaceta, el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente, la Dirección de Niñez, Adolescencia y Familia (DINAF) ejercerá su competencia a través de las Oficinas Regionales.
+CONSIDERANDO: Que mediante Acuerdo No. 64-2014, publicado en el Diario Oficial La Gaceta, el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente, la Dirección de Niñez, Adolescencia y Familia (DINAF) ejercerá su competencia a través de las Oficinas Regionales.
 
 CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito de hacer ágil la toma de decisiones y favorecer la tramitación de las peticiones de las personas interesadas.
 

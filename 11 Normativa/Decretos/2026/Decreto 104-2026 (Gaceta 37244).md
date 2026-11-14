@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 104-2026, 164-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260911-37244/download"
 extraido: "2026-11-09"
-huella: "d22fd2f03dc161d2"
+huella: "866328c6a86e3cfc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 104-2026
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

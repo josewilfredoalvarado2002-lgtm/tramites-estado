@@ -8,10 +8,10 @@ gaceta_numero: 36676
 gaceta_fecha: "2024-10-30"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36676 (2024-10-30)|La Gaceta 36676]]"
 paginas: "A. 2 - 12"
-sumario: "Acuerdo Ministerial No. 0712-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 048-2024DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA Acuerdo DNII- No. 028-2022, 29-2022, 30-2022"
+sumario: "Acuerdo Ministerial No. 0712-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 048-2024; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA Acuerdo DNII- No. 028-2022, 29-2022, 30-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241030-36676/download"
 extraido: "2026-11-14"
-huella: "301c69b933b1d48e"
+huella: "74183d5328397a6b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 048-2024
@@ -23,13 +23,13 @@ huella: "301c69b933b1d48e"
 | Emisor | Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36676 (2024-10-30)\|La Gaceta 36676]] del 2024-10-30 |
 | Páginas | A. 2 - 12 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 0712-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 048-2024DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA Acuerdo DNII- No. 028-2022, 29-2022, 30-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 0712-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 048-2024; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA Acuerdo DNII- No. 028-2022, 29-2022, 30-2022 |
 
 ## Texto
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país, cuya representación legal corresponde a un Director Ejecutivo, con facultades suficientes para desarrollar programas, proyectos y planes, así como crear las unidades administrativas técnicas y operativas necesarias para cumplir con los objetivos y fines de la Ley.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país, cuya representación legal corresponde a un Director Ejecutivo, con facultades suficientes para desarrollar programas, proyectos y planes, así como crear las unidades administrativas técnicas y operativas necesarias para cumplir con los objetivos y fines de la Ley.
 
 CONSIDERANDO: Que de conformidad con preceptuado en los artículos 4 y 5 de la Ley de Procedimiento Administrativo, la competencia es irrenunciable y será ejercitada por los órganos que la tengan atribuida por Ley, sin embargo, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior.
 
@@ -65,11 +65,11 @@ CONSIDERANDO: Que la Ley Especial del Consejo Nacional de Defensa y Seguridad, e
 
 “Son atribuciones de la Dirección: l)... 2) Dirigir y coordinar las unidades especiales de investigación que estén a su cargo; 3)...; 4)...; 5) ...; 6)... ; 7) ...; 8)...; 9) Las demás comprendidas en el ámbito de sus fines, las leyes y reglamentos”;
 
-CONSIDERANDO: La Ley de Inteligencia Nacional en su artículo 10 establece: Para el cumplimiento de sus funciones, l a D i r e c c i ó n N a c i o n a l d e Investigación e Inteligencia tendrá la estructura siguiente: 1) Dirección Nacional; 2) ...; 3) ...; 4) ...; 5) ...; 6) ...; 7) ...; 8) ...; 9) …;
+CONSIDERANDO: La Ley de Inteligencia Nacional en su artículo 10 establece: Para el cumplimiento de sus funciones, la Dirección Nacional de Investigación e Inteligencia tendrá la estructura siguiente: 1) Dirección Nacional; 2) ...; 3) ...; 4) ...; 5) ...; 6) ...; 7) ...; 8) ...; 9) …;
 
 \10) ...; 11) Otras que se estructuren.
 
-L a D i r e c c i ó n N a c i o n a l d e Investigación e Inteligencia, podrá crear Unidades Especiales de Investigación e Inteligencia para la ejecución de sus operaciones.
+La Dirección Nacional de Investigación e Inteligencia, podrá crear Unidades Especiales de Investigación e Inteligencia para la ejecución de sus operaciones.
 
 CONSIDERANDO: La Ley de Inteligencia Nacional en su artículo 31 versa: “Lo no previsto en esta Ley, se regirá supletoriamente por las disposiciones legales contenidas en el ordenamiento jurídico vigente aplicable”.
 
@@ -77,13 +77,13 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece en sus
 
 La motivación de estos actos estará precedida por la designación de la autoridad que los emite y seguirá por la fórmula “ACUERDA”; Artículo 122: Los Acuerdos, Resoluciones y Providencias serán firmadas por el titular del órgano que los emite y autorizados por el funcionario que indiquen las disposiciones legales.
 
-CONSIDERANDO: Que de conformidad al Decreto Ejecutivo número PCM-048- 2014, considera: “Artículo 1: Suprimir al “Consejo Nacional Contra el Narcotráfico” en todas sus estructuras, tanto institucional, como presupuestariamente... Artículo 2:
+CONSIDERANDO: Que de conformidad al Decreto Ejecutivo número PCM-048-2014, considera: “Artículo 1: Suprimir al “Consejo Nacional Contra el Narcotráfico” en todas sus estructuras, tanto institucional, como presupuestariamente... Artículo 2:
 
 Las funciones que venía realizando el “Consejo Nacional Contra el Narcotráfico” serán ejecutadas por el “Consejo Nacional de Defensa y Seguridad.
 
 POR TANTO:
 
-En uso de las facultades que le confiere; la Constitución de la República en sus Artículos 287, 321, 323 y 325; la Ley Especial del Consejo Nacional de Defensa y Seguridad en sus artículos 6 y 7; Ley General de la Administración Pública en sus artículos 1, 3, 41, 42, 43, 44, 116, 118 y 122, Ley de Inteligencia Nacional en sus artículos 1, 2, 4, 8, 10, 11 y 31, ACUERDO DNII-RH-No.002-2019 Estatuto de la Carrera de los Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia.
+En uso de las facultades que le confiere; la Constitución de la República en sus Artículos 287, 321, 323 y 325; la Ley Especial del Consejo Nacional de Defensa y Seguridad en sus artículos 6 y 7; Ley General de la Administración Pública en sus artículos 1, 3, 41, 42, 43, 44, 116, 118 y 122, Ley de Inteligencia Nacional en sus artículos 1, 2, 4, 8, 10, 11 y 31, ACUERDO DNII-RH-No. 002-2019 Estatuto de la Carrera de los Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia.
 
 ACUERDA:
 

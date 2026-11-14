@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdo No. 050-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210126-35498/download"
 extraido: "2026-11-14"
-huella: "19185ff3d0e63b5b"
+huella: "f9fd871e2725221e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 050-2020
@@ -27,9 +27,9 @@ huella: "19185ff3d0e63b5b"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido, y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido, y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
 
-1. Primero: Aprobar en todas y cada una de sus partes la acción de Servicio Civil que literalmente dice: PRESIDENCIA DE LA REPUBLICA. - DIRECCION GENERAL DE SERVICIO CIVIL. ACCION DE PERSONAL No. 001 Nombre del Servidor: EVELIN YOHANA HERNÁNDEZ MEJÍA Identidad No. 1702-1985- 00100 Tipo de Acción: ASCENSO A PUESTO EXCLUIDO No 001 Fecha de efectividad: 21 OCTUBRE 2020 Hasta (fecha inclusive) ESTADO PRESENTE: INSTITUCION AGENCIA DE REGULACIÓN SANITARIA PROGRAMA 011 SUB-PROGRAMA 00 ACTIVIDAD OBRA 001 VERSION 00001 GERENCIA ADMINISTRATIVA GERENCIA CENTRAL PUESTO DIRECTOR DE DISPOSITIVOS MÉDICOS Y OTROS DEL RAMO DE INTERÉS SANITARIO NO.
+1. Primero: Aprobar en todas y cada una de sus partes la acción de Servicio Civil que literalmente dice: PRESIDENCIA DE LA REPUBLICA. - DIRECCION GENERAL DE SERVICIO CIVIL. ACCION DE PERSONAL No. 001 Nombre del Servidor: EVELIN YOHANA HERNÁNDEZ MEJÍA Identidad No. 1702-1985-00100 Tipo de Acción: ASCENSO A PUESTO EXCLUIDO No 001 Fecha de efectividad: 21 OCTUBRE 2020 Hasta (fecha inclusive) ESTADO PRESENTE: INSTITUCION AGENCIA DE REGULACIÓN SANITARIA PROGRAMA 011 SUB-PROGRAMA 00 ACTIVIDAD OBRA 001 VERSION 00001 GERENCIA ADMINISTRATIVA GERENCIA CENTRAL PUESTO DIRECTOR DE DISPOSITIVOS MÉDICOS Y OTROS DEL RAMO DE INTERÉS SANITARIO NO.
 
 PUESTO 1520 GRUPO-NIVEL 04-XII SUELDO
 

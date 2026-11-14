@@ -11,7 +11,7 @@ paginas: "A. 7"
 sumario: "Acuerdos Ejecutivos Nos. 12-2023, 42-2023, 43-2023, 44-2023, 45-2023, 46-2023, 47-2023, 52-2023, 55-2023, 68-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230921-36339/download"
 extraido: "2026-11-14"
-huella: "ea2e54a6f4e6fea2"
+huella: "6e328fc30c5223b0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 47-2023
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo No. PCM 07- 2023 de fecha 9 de febrero del 2023.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo No. PCM 07-2023 de fecha 9 de febrero del 2023.
 
 ACUERDA
 

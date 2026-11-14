@@ -11,7 +11,7 @@ paginas: "A. 37 - 42"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230323-36187/download"
 extraido: "2026-11-14"
-huella: "1ea2df5940de9a48"
+huella: "3a170966673e6347"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 009-2023
@@ -41,11 +41,11 @@ CONSIDERANDO (5): Que en el artículo 9 numeral 1) del Código Tributario establ
 
 CONSIDERANDO (6): Que mediante Decreto Legislativo No. 157-2022, publicado en el Diario Oficial La Gaceta en fecha 12 de enero de 2023, se aprobó el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2023 y en su artículo número 209 ordena a la Administración Aduanera de Honduras para que en coordinación con la Dirección Nacional de Bienes del Estado procedan a la venta directa de mercancías caídas en abandono en las distintas aduanas del país sobrantes de subastas, así como en los depósitos aduaneros, en el mismo artículo se establece que el Ente Administrador de las Aduanas en coordinación con la Dirección Nacional de Bienes del Estado (DNBE), en un término de veinte (20) días después del referido Decreto, deben emitir de manera conjunta el reglamento que posibilite el cumplimiento de este mandato.
 
-CONSIDERANDO (7): Que de conformidad con lo prescrito en el artículo 29 numeral 15) de la Ley General de la Administración Pública, en relación con el artículo 17 del Decreto Ejecutivo PCM- 05-2022 publicado en el Diario Oficial La Gaceta número 35,892 en fecha 6 de abril de 2022, es competencia de la Secretaría de Estado en el Despacho de Finanzas lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas; la ejecución del Presupuesto General de Ingresos y Egresos de la República; lo relativo al crédito y a la deuda pública, el manejo de la Tesorería y la Pagaduría de la República, el registro, administración, protección y control de los bienes nacionales, la programación de la inversión pública en el marco de las prioridades establecidas por la Presidencia de la República a través de la Coordinación General de Gobierno.
+CONSIDERANDO (7): Que de conformidad con lo prescrito en el artículo 29 numeral 15) de la Ley General de la Administración Pública, en relación con el artículo 17 del Decreto Ejecutivo PCM-05-2022 publicado en el Diario Oficial La Gaceta número 35,892 en fecha 6 de abril de 2022, es competencia de la Secretaría de Estado en el Despacho de Finanzas lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas; la ejecución del Presupuesto General de Ingresos y Egresos de la República; lo relativo al crédito y a la deuda pública, el manejo de la Tesorería y la Pagaduría de la República, el registro, administración, protección y control de los bienes nacionales, la programación de la inversión pública en el marco de las prioridades establecidas por la Presidencia de la República a través de la Coordinación General de Gobierno.
 
 CONSIDERANDO (8): Que de acuerdo con lo establecido en el artículo 36 numeral 8) de la Ley General de la Administración Pública, es atribución y deber de los Secretarios de Estado, emitir acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República, y cuidar de su ejecución.
 
-CONSIDERANDO (9): Que mediante Decreto Legislativo No. 274-2010 de fecha 13 de enero de 2011, y su reforma contenida Decreto Ejecutivo PCM-047- 2015, se estableció a la Dirección Nacional de Bienes del Estado, adscrita a la Secretaría de Estado en el Despacho de Finanzas, con autoridad a nivel nacional, como ente desconcentrado, con autonomía técnica, financiera y administrativa, que en forma real y eficiente, asuma las funciones de registro, control y administración de todos los bienes del Estado.
+CONSIDERANDO (9): Que mediante Decreto Legislativo No. 274-2010 de fecha 13 de enero de 2011, y su reforma contenida Decreto Ejecutivo PCM-047-2015, se estableció a la Dirección Nacional de Bienes del Estado, adscrita a la Secretaría de Estado en el Despacho de Finanzas, con autoridad a nivel nacional, como ente desconcentrado, con autonomía técnica, financiera y administrativa, que en forma real y eficiente, asuma las funciones de registro, control y administración de todos los bienes del Estado.
 
 POR TANTO:
 
@@ -57,7 +57,7 @@ ACUERDA REGLAMENTO PARA LA VENTA DIRECTA DE MERCANCÍAS CAÍDAS EN ABANDONO EN L
 
 #### Artículo 1
 
-ARTÍCULO 1. OBJETIVO DEL REGLAMENTO. El presente reglamento tiene como objetivo dar cumplimiento a lo establecido en el artículo 209 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2023 contenido en el Decreto No.157-2022, que ordena a la Administración Aduanera de Honduras en coordinación con la Dirección Nacional de Bienes del Estado (DNBE) proceder a la venta directa de mercancías caídas en abandono en las distintas aduanas del país sobrantes de subasta, así como en los depósitos aduaneros en los casos siguientes:
+ARTÍCULO 1. OBJETIVO DEL REGLAMENTO. El presente reglamento tiene como objetivo dar cumplimiento a lo establecido en el artículo 209 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2023 contenido en el Decreto No. 157-2022, que ordena a la Administración Aduanera de Honduras en coordinación con la Dirección Nacional de Bienes del Estado (DNBE) proceder a la venta directa de mercancías caídas en abandono en las distintas aduanas del país sobrantes de subasta, así como en los depósitos aduaneros en los casos siguientes:
 
 \1) Mercancías no adjudicadas en subasta pública realizada por el Ente Administrador de las Aduanas que por sus condiciones físicas no pueden ser donadas a instituciones estatales o de beneficencia pública; y,
 
@@ -191,7 +191,7 @@ ARTÍCULO 21. SUPLETORIEDAD. En lo no previsto en el presente reglamento, se pod
 
 #### Artículo 22
 
-ARTÍCULO 22. DEROGATORIA. A partir de la vigencia del presente Reglamento queda sin valor y efecto el Acuerdo Ejecutivo No.050-A-2014 contentivo del Reglamento para la Venta Directa de Mercancías Sobrantes de Subasta, Caídas en Abandono en la Distintas Aduanas del País y en los Depósitos Temporales, publicado en el Diario Oficial La Gaceta en fecha 24 de junio de 2015.
+ARTÍCULO 22. DEROGATORIA. A partir de la vigencia del presente Reglamento queda sin valor y efecto el Acuerdo Ejecutivo No. 050-A-2014 contentivo del Reglamento para la Venta Directa de Mercancías Sobrantes de Subasta, Caídas en Abandono en la Distintas Aduanas del País y en los Depósitos Temporales, publicado en el Diario Oficial La Gaceta en fecha 24 de junio de 2015.
 
 #### Artículo 23
 

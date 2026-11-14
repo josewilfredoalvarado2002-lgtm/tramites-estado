@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo S.D.N. No. 049-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250407-36810/download"
 extraido: "2026-11-11"
-huella: "7580a81f84ee47c2"
+huella: "4ca3967c65d3cfa6"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo S.D.N. No. 049-2025
@@ -57,7 +57,7 @@ La Secretaría de Estado en el Despacho de Defensa Nacional en uso de las facult
 
 ACUERDA:
 
-A p r o b a r e l “ R E G L A M E N T O P A R A E L FUNCIONAMIENTO DEL COMANDO DE APOYO AL MANEJO DE ECOSISTEMAS Y AMBIENTE (C-9)”, que literalmente dice:
+Aprobar el “ REGLAMENTO PARA EL FUNCIONAMIENTO DEL COMANDO DE APOYO AL MANEJO DE ECOSISTEMAS Y AMBIENTE (C-9)”, que literalmente dice:
 
 CAPÍTULO I ÁMBITO DE APLICACIÓN, OBJETIVOS Y DEFINICIONES
 
@@ -67,7 +67,7 @@ Artículo 1. El presente Reglamento es de obligatorio cumplimiento y de aplicaci
 
 #### Artículo 2
 
-Artículo 2. El presente Reglamento tiene por objeto regular y determinar el funcionamiento del Comando de Apoyo al Manejo de Ecosistemas y Ambiente, de conformidad con las disposiciones contenidas en el Decreto Legislativo No. 041- 2011, publicado en el Diario Oficial La Gaceta No. 32,552 de fecha 27 de junio de 2011.
+Artículo 2. El presente Reglamento tiene por objeto regular y determinar el funcionamiento del Comando de Apoyo al Manejo de Ecosistemas y Ambiente, de conformidad con las disposiciones contenidas en el Decreto Legislativo No. 041-2011, publicado en el Diario Oficial La Gaceta No. 32,552 de fecha 27 de junio de 2011.
 
 #### Artículo 3
 

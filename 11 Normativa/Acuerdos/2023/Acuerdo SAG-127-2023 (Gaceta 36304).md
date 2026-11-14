@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Nos. SAG-125-2023, SAG-126-2023, SAG-127-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230810-36304/download"
 extraido: "2026-11-14"
-huella: "bdab6b1f1375647f"
+huella: "2279a6ca3bb8ce71"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-127-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el objeto general de la Ley de Simplificación Administrativa 
 
 CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance, el derecho a la seguridad alimentaria del pueblo hondureño, en virtud de lo cual resulta indispensable tomar medidas de carácter extraordinario; por consiguiente, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), realizará arduos e incansables esfuerzos para mitigar los daños irreversibles y sin precedentes que los fenómenos naturales han ocasionado al Sector Cafetalero, dejando a la población hondureña en un estado de total vulnerabilidad e inseguridad alimentaria, en virtud de las cuantiosas pérdidas sufridas producto de los cambios climáticos.
 
-CONSIDERANDO: Que mediante Decreto No.157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 008, Cincuenta Millones de Lempiras (L.50,000,000.00) destinados a la Ejecución del Programa “Bono Ganadero Año 2023”.
+CONSIDERANDO: Que mediante Decreto No. 157-2022 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2023, mediante el cual se aprueba el Presupuesto de la Secretaría en los Despachos de Agricultura y Ganadería, en el cual se incorporaron dentro del Programa No. 15 y Actividad y Obra No. 008, Cincuenta Millones de Lempiras (L.50,000,000.00) destinados a la Ejecución del Programa “Bono Ganadero Año 2023”.
 
 CONSIDERANDO: El Programa “Bono Ganadero” está dirigido a mejorar los ingresos de Pequeños Ganaderos por medio del mejoramiento de la alimentación del ganado, así como apoyo al proceso de construcción y equipamiento de plantas de procesamiento de leche; y fortalecimiento al centro de reproducción pecuaria y acompañamiento a los mismos mediante asistencia técnica y capacitación.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 44-2022, 47-2022, 48-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download"
 extraido: "2026-11-14"
-huella: "54b1d16ca78b2fa5"
+huella: "5caa30ba331ef3cd"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 44-2022
@@ -45,7 +45,7 @@ CONSIDERANDO: Que es Atribución del Congreso Nacional: Crear, decretar, interpr
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

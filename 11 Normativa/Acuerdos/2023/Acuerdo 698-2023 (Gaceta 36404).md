@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Nos. 668-2023, 698-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231208-36404/download"
 extraido: "2026-11-14"
-huella: "0fde20d83c4b950d"
+huella: "b9aa627d1ef031ec"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 698-2023
@@ -31,7 +31,7 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZ
 
 CONSIDERANDO: Que la Ley General de la Administración Pública, en su artículo 36 numeral 8, establece que es atribución de los Secretarios de Estado, emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que les delegue el Presidente de la República y cuidar de su ejecución.
 
-CONSIDERANDO: Que de conformidad al PCM 34- 2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023, se aprobó el Convenio Marco de Cooperación Interinstitucional entre la Presidencia de República de Honduras y la Asociación de Municipios de Honduras (AMHON) para la reparación y reconstrucción de por lo menos 12 mil centros educativos.
+CONSIDERANDO: Que de conformidad al PCM 34-2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023, se aprobó el Convenio Marco de Cooperación Interinstitucional entre la Presidencia de República de Honduras y la Asociación de Municipios de Honduras (AMHON) para la reparación y reconstrucción de por lo menos 12 mil centros educativos.
 
 CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Secretarios de Estado podrán delegar en los funcionarios, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos mediante la firma de ciertos actos administrativos.
 
@@ -43,15 +43,11 @@ POR TANTO:
 
 En aplicación de los artículos: 321 y 323 de la Constitución de la República de Honduras; 7, 29, numeral 1), 36 numeral 8), 116, 118, 119 y 122 de la Ley General de Administración Pública; 4, 5 y 23 de la Ley de Procedimiento Administrativo;
 
-Decreto Ejecutivo No. 34-2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023; Acuerdo No.
-
-2709-SE-2023, publicado en el Diario Oficial La Gaceta en fecha 19 de octubre del año 2023.
+Decreto Ejecutivo No. 34-2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023; Acuerdo No. 2709-SE-2023, publicado en el Diario Oficial La Gaceta en fecha 19 de octubre del año 2023.
 
 ACUERDA:
 
-PRIMERO: Delegar en el ciudadano SERGIO VLADIMIR COELLO DÍAZ, Subsecretario de Estado en el. Despacho de Gobernación y Descentralización, el cumplimiento de las actividades de recepción de documentación, así como todo lo relacionado con la gestión de transferencia de los recursos financieros a los Gobiernos Municipales, bajo concepto de transferencias de capital para la atención del Programa Nacional de Intervención de Infraestructura Escolar, conforme al artículo 5 del Decreto Ejecutivo Número PCM 34-2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023 y lo señalado en el Acuerdo No.
-
-2709-SE-2023, contentivo del Reglamento del Decreto Ejecutivo Número PCM 34-2023.
+PRIMERO: Delegar en el ciudadano SERGIO VLADIMIR COELLO DÍAZ, Subsecretario de Estado en el. Despacho de Gobernación y Descentralización, el cumplimiento de las actividades de recepción de documentación, así como todo lo relacionado con la gestión de transferencia de los recursos financieros a los Gobiernos Municipales, bajo concepto de transferencias de capital para la atención del Programa Nacional de Intervención de Infraestructura Escolar, conforme al artículo 5 del Decreto Ejecutivo Número PCM 34-2023, publicado en el Diario Oficial La Gaceta en fecha 2 de agosto del año 2023 y lo señalado en el Acuerdo No. 2709-SE-2023, contentivo del Reglamento del Decreto Ejecutivo Número PCM 34-2023.
 
 SEGUNDO: El funcionario ante mencionado será responsable por el ejercicio de esta facultad delegada.
 

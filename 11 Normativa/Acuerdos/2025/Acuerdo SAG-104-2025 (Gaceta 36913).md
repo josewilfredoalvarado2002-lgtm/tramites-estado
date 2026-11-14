@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Nos. SAG-104-2025, SAG-109-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250811-36913/download"
 extraido: "2026-11-09"
-huella: "e482397759775514"
+huella: "e2f3ab47933fc796"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-104-2025
@@ -45,7 +45,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos de esta Secretaría de Estado en los Despachos de Agricultura y Ganadería, ciudadano JOSE MARVIN ALVARADO JUAREZ, con Documento Nacional de Identificación 1706-1987-00016, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla exclusivamente en la audiencia II de trámite, para evacuar el medio de prueba interrogatorio de parte presentado por la parte Demandante, en el Juzgado Unificado de Choluteca, Departamento de Choluteca, según Expediente No. 2019- 00077.
+PRIMERO: Delegar en el Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos de esta Secretaría de Estado en los Despachos de Agricultura y Ganadería, ciudadano JOSE MARVIN ALVARADO JUAREZ, con Documento Nacional de Identificación 1706-1987-00016, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla exclusivamente en la audiencia II de trámite, para evacuar el medio de prueba interrogatorio de parte presentado por la parte Demandante, en el Juzgado Unificado de Choluteca, Departamento de Choluteca, según Expediente No. 2019-00077.
 
 SEGUNDO: El presente acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”. -
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decreto Ejecutivo número 006-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210917-35720/download"
 extraido: "2026-11-14"
-huella: "8bd2ce805e23906f"
+huella: "b5624b9eb10b9a8d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 006-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Adm
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-071-2016, publicado en el Diario Oficial “La Gaceta” en su Edición No. 34,170 del 26 de octubre de 2016, se Declaró Estado de Emergencia para que se construyera entre otros, el tramo carretero comprendido entre el kilómetro 0+0000 al 54+130 de la Carretera Villa de San Antonio — El Quebrachal, autorizando e instruyendo a la Secretaría de Estado los Despachos de Infraestructura y Servicios Públicos (INSEP), para que en un plazo máximo de treinta (30) días a partir de la publicación de dicho Decreto, contrate a una o varias empresas con suficiente experiencia y capacidad técnica para que ejecuten todo o parte los trabajos necesarios para el diseño, construcción, supervisión, verificación, estudios para el plan de reasentamiento de personas y el proceso de liberación del derecho de vía necesario para la ejecución de dicho proyecto.
 
-CONSIDERANDO: Que en atención a la instrucción y autorización contenida en el Decreto Ejecutivo Número PCM -071- 2016, la Secretaría de Infraestructura y Servicios Públicos (INSEP), procedió a realizar el proceso para la contratación de los servicios de construcción y supervisión del tramo carretero, Villa de San Antonio - El Quebrachal, resultando como las mejores ofertas, las presentadas por las empresas Profesionales de la Construcción S.A de C.V. (PRODECON) para la Construcción y Consultores en Ingeniería S.A de C.V., (CINSA), para la supervisión de dichos trabajos de construcción, procediendo a la suscripción de los contratos respectivos.
+CONSIDERANDO: Que en atención a la instrucción y autorización contenida en el Decreto Ejecutivo Número PCM -071-2016, la Secretaría de Infraestructura y Servicios Públicos (INSEP), procedió a realizar el proceso para la contratación de los servicios de construcción y supervisión del tramo carretero, Villa de San Antonio - El Quebrachal, resultando como las mejores ofertas, las presentadas por las empresas Profesionales de la Construcción S.A de C.V. (PRODECON) para la Construcción y Consultores en Ingeniería S.A de C.V., (CINSA), para la supervisión de dichos trabajos de construcción, procediendo a la suscripción de los contratos respectivos.
 
 CONSIDERANDO: Que de acuerdo a los Contratos suscritos y cumplidos los requisitos previos para una Contratación Directa por Emergencia, conforme a lo establecido en la Constitución de la República y en la Ley de Contratación del Estado; la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), procedió a emitir las respectivas Ordenes de Inicio de dichos trabajos, de los cuales, en los años 2017 y 2018 se realizaron pagos parciales de las obras y servicios ejecutados, quedando saldos pendientes que cumplir, tanto a la Empresa Profesionales de la Construcción, S.A. de C.V. (PRODECON), como a la Empresa Consultores en Ingeniería, S.A. de C.V. (CINSA), a los cuales aún se les adeuda cantidades que no ha podido hacerse efectiva.
 
@@ -55,9 +55,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 06 de octubre
 
 POR TANTO
 
-En aplicación de los Artículos 59, 245 numerales 2, 11, 19, 35, 45, 248, 252, 321 y 323 de la Constitución de la República, Artículos 7, 11, 17, 18, 22 numerales 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
-
-266-2013; Decretos Ejecutivos Números: PCM-071-2016 y 016-2017.
+En aplicación de los Artículos 59, 245 numerales 2, 11, 19, 35, 45, 248, 252, 321 y 323 de la Constitución de la República, Artículos 7, 11, 17, 18, 22 numerales 6), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decretos Ejecutivos Números: PCM-071-2016 y 016-2017.
 
 DECRETA:
 

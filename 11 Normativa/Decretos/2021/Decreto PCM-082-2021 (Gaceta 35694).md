@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decretos Ejecutivos números PCM-082-2021, 090-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210821-35694/download"
 extraido: "2026-11-14"
-huella: "ebbff6c238aa5e4e"
+huella: "b437588c2926861d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-082-2021
@@ -51,9 +51,7 @@ CONSIDERANDO. Que la Expo 2020 Dubái debido a la crisis mundial generada por la
 
 (BIE) para celebrar la Expo 2020 Dubái del 01 de octubre del 2021 al 31 de marzo de 2022.
 
-CONSIDERANDO. Que de conformidad con el Decreto Ejecutivo número PCM-014-2018, publicado en el Diario Oficial La Gaceta, en fecha 10 de abril de 2018, Edición No.
-
-34,612, establece que la Secretaría de Estado en el Despacho de Turismo, representa al Poder Ejecutivo en materias de su competencia y tiene a cargo la formulación, dirección, ejecución, promoción, estimulación y evaluación de las políticas y actividades relativas al turismo, como actividad económica que impulse el desarrollo del País.
+CONSIDERANDO. Que de conformidad con el Decreto Ejecutivo número PCM-014-2018, publicado en el Diario Oficial La Gaceta, en fecha 10 de abril de 2018, Edición No. 34,612, establece que la Secretaría de Estado en el Despacho de Turismo, representa al Poder Ejecutivo en materias de su competencia y tiene a cargo la formulación, dirección, ejecución, promoción, estimulación y evaluación de las políticas y actividades relativas al turismo, como actividad económica que impulse el desarrollo del País.
 
 CONSIDERANDO: Que según lo establecido en el artículo 63 numeral 2, 6 y párrafo final de la Ley de Contratación del Estado, faculta a la administración para adquirir mediante el procedimiento de Contratación Directa y celebre los respec­ tivos contratos de suministros de bienes o servicios especia­ lizados cuya fabricación o venta sea exclusiva, o cuando se trate de trabajos técnicos o artísticos especializados, estando en la obligación de solicitar la autorización del Presidente de la República cuando se trate de contratos de la Administración Pública centralizada o del órgano de dirección superior cuando se trate de contratos de la Administración descentralizada o de los demás organismos públicos contemplados en el artículo 1 de la referida Ley.
 

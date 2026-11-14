@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdos Números 010-2024, 215-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240302-36475/download"
 extraido: "2026-11-14"
-huella: "4efa0362ff6fc907"
+huella: "f079206a27f305fe"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 215-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Acuerdo Número 166- 2022 de fecha 03 de febrero del 2022, la señora Presidenta Constitucional de la República nombró al ciudadano DOMINGO SALOMÓN HERNÁNDEZ RODRÍGUEZ, en el cargo de Sub Tesorero de la Tesorería General de la República.
+CONSIDERANDO: Que mediante Acuerdo Número 166-2022 de fecha 03 de febrero del 2022, la señora Presidenta Constitucional de la República nombró al ciudadano DOMINGO SALOMÓN HERNÁNDEZ RODRÍGUEZ, en el cargo de Sub Tesorero de la Tesorería General de la República.
 
 POR TANTO:
 

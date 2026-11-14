@@ -11,7 +11,7 @@ paginas: "A. 29 - 36"
 sumario: "Acuerdo DE-090-2025,Acuerdos Institucionales No. ICF-104-2025, ICF-105-2025, ICF-106-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251217-37021/download"
 extraido: "2026-11-09"
-huella: "ec9c1bdd3a6766e0"
+huella: "c44bfca5513f302a"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-106-2025
@@ -71,7 +71,7 @@ Giovanni Rivera Bocock en su condición de Apoderado Legal de la Sociedad Mercan
 
 CONSIDERANDO (12): Que, el Departamento de Vida Silvestre procedió a dictaminar a través del Dictamen Técnico N°. ICF-DVS-048-2025, de fecha dos (02) de septiembre del dos mil veinticinco (2025), mediante el cual, en su Sección
 
-3.2 y 3.3, dictamina que se realizó el análisis de los traslapes con los Expedientes N°. ICF-060-2025 y N°. ICF-418- 2024, concluyendo que estas solicitudes de Constancias de Factibilidad no van afectar la biodiversidad ni la declaratoria del Sitio de Importancia para la Vida Silvestre Omoa, ya que la actividad del primer expediente en mención, corresponde a un cable de fibra óptica de internet submarinos y la actividad del segundo expediente en mención, corresponde a la realización de un muelle en la Comunidad de Chachaguala. Por lo que, dictamina que queda un área de 41,955.5650 hectáreas para la Declaratoria del Sitio de Importancia para la Vida Silvestre, manteniendo las 12 millas náuticas. En ese sentido, considera TÉCNICAMENTE FACTIBLE dicha declaratoria, teniéndose como objetivo la conservación de las especies marinas y las zonas de pesca artesanal; dado a ello, recomienda continuar el proceso de declaratoria al igual que la Región Forestal del Noroccidente.
+3.2 y 3.3, dictamina que se realizó el análisis de los traslapes con los Expedientes N°. ICF-060-2025 y N°. ICF-418-2024, concluyendo que estas solicitudes de Constancias de Factibilidad no van afectar la biodiversidad ni la declaratoria del Sitio de Importancia para la Vida Silvestre Omoa, ya que la actividad del primer expediente en mención, corresponde a un cable de fibra óptica de internet submarinos y la actividad del segundo expediente en mención, corresponde a la realización de un muelle en la Comunidad de Chachaguala. Por lo que, dictamina que queda un área de 41,955.5650 hectáreas para la Declaratoria del Sitio de Importancia para la Vida Silvestre, manteniendo las 12 millas náuticas. En ese sentido, considera TÉCNICAMENTE FACTIBLE dicha declaratoria, teniéndose como objetivo la conservación de las especies marinas y las zonas de pesca artesanal; dado a ello, recomienda continuar el proceso de declaratoria al igual que la Región Forestal del Noroccidente.
 
 CONSIDERANDO (13): Que, de conformidad al artículo 1 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, establece el régimen legal a que se sujetará la administración y manejo de los recursos forestales, áreas protegidas y vida silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 

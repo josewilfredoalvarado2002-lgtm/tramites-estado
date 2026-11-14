@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 52-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210824-35697/download"
 extraido: "2026-11-14"
-huella: "00d2461c7df3696d"
+huella: "9bd12e4da7521d5f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 52-2021
@@ -29,7 +29,7 @@ huella: "00d2461c7df3696d"
 
 El CONGRESO NACIONAL;
 
-CONSIDERANDO: Que mediante Decreto No.174-2013 vigente a partir del 1 de febrero de 2014 se crea el CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP), como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos.
+CONSIDERANDO: Que mediante Decreto No. 174-2013 vigente a partir del 1 de febrero de 2014 se crea el CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP), como una institución descentralizada del Estado, autónoma y con patrimonio propio, que tiene a su cargo la aplicación de la legislación cooperativa y autoridad de control de los entes cooperativos.
 
 CONSIDERANDO: Que el patrimonio propio del CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS (CONSUCOOP), está constituido entre otros elementos con el producto de los aportes anuales obligatorios de las cooperativas, al tenor de lo dispuesto en el Artículo 105 de la Ley de Cooperativas de Honduras.
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el CONSEJO NACIONAL
 
 SUPERVISOR DE COOPERATIVAS (CONSUCOOP), para realizar y cumplir con sus funciones legales, técnicas y profesionales de supervisión y control de las cooperativas a nivel nacional, precisa cierta capacidad logística, por consiguiente, requiere adquirir vehículos automotores, y para ésto es necesario exonerarlo de todo gravamen de importación de los mismos.
 
-CONSIDERANDO: Que conforme al Artículo 17 del Decreto No.170-2016, contentivo del Código Tributario, “Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
+CONSIDERANDO: Que conforme al Artículo 17 del Decreto No. 170-2016, contentivo del Código Tributario, “Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

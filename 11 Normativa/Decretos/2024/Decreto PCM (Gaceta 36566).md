@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 18-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240621-36566/download"
 extraido: "2026-11-14"
-huella: "94c12113f9290d35"
+huella: "893069f8c9fd230d"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 18-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de acuerdo a lo dispuesto en el artículo 87 de la Constituci�
 
 CONSIDERANDO: Que el Sistema Penitenciario Nacional tiene como fines primordiales la protección de la sociedad, la rehabilitación, reeducación y la reinserción social de las personas condenadas a penas y medidas de seguridad privativas de libertad, así como la retención y custodia de toda persona detenida, en prisión preventiva o cumpliendo condena privativa de libertad.
 
-CONSIDERANDO: Que a pesar de los esfuerzos del Gobierno de la República, que mediante Decreto Ejecutivo número PCM 03-2022; nombró a la Policía Nacional de Honduras en calidad de Comisión Interventora, que luego fue sustituida mediante Decreto Ejecutivo número PCM 16- 2023 por una nueva Comisión Interventora; la violencia en los Centros Penitenciarios continuó incrementándose por el fuerte control que el crimen organizado ejerce en los mismos, siendo necesario recurrir a medidas extremas para garantizar la vida y la integridad física y psíquica de las personas privadas de libertad, el respeto a sus derechos humanos y la posibilidad de su reinserción social.
+CONSIDERANDO: Que a pesar de los esfuerzos del Gobierno de la República, que mediante Decreto Ejecutivo número PCM 03-2022; nombró a la Policía Nacional de Honduras en calidad de Comisión Interventora, que luego fue sustituida mediante Decreto Ejecutivo número PCM 16-2023 por una nueva Comisión Interventora; la violencia en los Centros Penitenciarios continuó incrementándose por el fuerte control que el crimen organizado ejerce en los mismos, siendo necesario recurrir a medidas extremas para garantizar la vida y la integridad física y psíquica de las personas privadas de libertad, el respeto a sus derechos humanos y la posibilidad de su reinserción social.
 
 CONSIDERANDO: Que los trágicos sucesos acaecidos el día martes 20 de junio de 2023 en la Penitenciaria Nacional Femenina de Adaptación Social (PNFAS), en el cual perdieron la vida 46 privadas de libertad, 23 calcinadas y 23 ejecutadas con armas de fuego y/o armas blancas, con acciones de extrema crueldad y violencia, degradando de forma extrema su condición humana; hicieron necesario que el Estado ejerciera toda su autoridad y fuerza coercitiva para enfrentar la ingobernabilidad de los Centros Penales del país, que se encontraban bajo el control de organizaciones criminales con gran capacidad operativa, sin tener ningún respeto por la vida e integridad física de los privados de libertad y de las autoridades encargadas de su custodia.
 

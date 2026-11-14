@@ -11,7 +11,7 @@ paginas: "A. 7 - 32"
 sumario: "Acuerdo Ejecutivo No. 106-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250228-36778/download"
 extraido: "2026-11-12"
-huella: "620c68d9f94c4cd7"
+huella: "6caac664c24aedbc"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 106-2025
@@ -45,15 +45,15 @@ CONSIDERANDO: Que en el numeral 8 del artículo 36 de la Ley General de la Admin
 
 CONSIDERANDO: Que los artículos 116 y 118 de la Ley General de la Administración Pública, establecen que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias y que se emitirán por Acuerdo, los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial La Gaceta el 21 de junio de 2004, se aprobó la Ley Orgánica del Presupuesto; asimismo, mediante Acuerdo Ejecutivo No.0419 de fecha 10 de mayo de 2005, publicado en el Diario Oficial La Gaceta el 3 de junio del 2005, se aprobó el Reglamento de la Ley Orgánica del Presupuesto.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial La Gaceta el 21 de junio de 2004, se aprobó la Ley Orgánica del Presupuesto; asimismo, mediante Acuerdo Ejecutivo No. 0419 de fecha 10 de mayo de 2005, publicado en el Diario Oficial La Gaceta el 3 de junio del 2005, se aprobó el Reglamento de la Ley Orgánica del Presupuesto.
 
 CONSIDERANDO: Que el artículo 4 de la Ley Orgánica del Presupuesto, establece la conformación del Sistema de Administración Financiera del Sector Público entre los que incluye el Subsistema de Tesorería, el Subsistema de Presupuesto y el Subsistema de Crédito Público, así mismo dispone que la Secretaría de Estado en el Despacho de Finanzas ejercerá la rectoría del Sistema de Administración Financiera del Sector Público y la coordinación de cada Subsistema estará a cargo de la dependencia de dicha Secretaría que se determina en la Ley. Asimismo, mediante Decreto Ejecutivo Número PCM-035-2015, se le asignan las funciones a la Dirección General de Política Macrofiscal (DGPM).
 
-CONSIDERANDO: Que el Numeral PRIMERO del Acuerdo No.645-2024, establece la Creación del Comité de Programación de Ejecución Presupuestaria y Gestión de Caja (COPEPGC), el cual de ahora en adelante se denominará “EL COMITÉ”, como instancia de coordinación y toma de decisiones para la programación de la ejecución presupuestaria y gestión de liquidez.
+CONSIDERANDO: Que el Numeral PRIMERO del Acuerdo No. 645-2024, establece la Creación del Comité de Programación de Ejecución Presupuestaria y Gestión de Caja (COPEPGC), el cual de ahora en adelante se denominará “EL COMITÉ”, como instancia de coordinación y toma de decisiones para la programación de la ejecución presupuestaria y gestión de liquidez.
 
-CONSIDERANDO: Que el Numeral TERCERO del Acuerdo No.645-2024, establece que “EL COMITÉ” tendrá como objetivo coordinar la programación de la ejecución presupuestaria considerando los flujos de entradas y salidas de recursos en función de la estacionalidad de los ingresos, el financiamiento y la demanda de gastos, con el fin de recomendar a las autoridades superiores de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), acciones que permitan administrar los riesgos inherentes a la gestión de la disponibilidad de caja, tomando en consideración la gestión de activos y pasivos.
+CONSIDERANDO: Que el Numeral TERCERO del Acuerdo No. 645-2024, establece que “EL COMITÉ” tendrá como objetivo coordinar la programación de la ejecución presupuestaria considerando los flujos de entradas y salidas de recursos en función de la estacionalidad de los ingresos, el financiamiento y la demanda de gastos, con el fin de recomendar a las autoridades superiores de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), acciones que permitan administrar los riesgos inherentes a la gestión de la disponibilidad de caja, tomando en consideración la gestión de activos y pasivos.
 
-CONSIDERANDO: Que en apego al Numeral SÉPTIMO del Acuerdo No. 645-2024, se instaló la primera reunión del “COMITÉ DE PROGRAMACIÓN DE EJECUCIÓN PRESUPUESTARIA Y GESTIÓN DE CAJA (COPEPGC)”, el cual revisó y aprobó el Manual de Programación de la Ejecución Presupuestaria y Gestión de Caja, tal como consta en el Acta No.001-2025 de fecha 1 de febrero de 2025.
+CONSIDERANDO: Que en apego al Numeral SÉPTIMO del Acuerdo No. 645-2024, se instaló la primera reunión del “COMITÉ DE PROGRAMACIÓN DE EJECUCIÓN PRESUPUESTARIA Y GESTIÓN DE CAJA (COPEPGC)”, el cual revisó y aprobó el Manual de Programación de la Ejecución Presupuestaria y Gestión de Caja, tal como consta en el Acta No. 001-2025 de fecha 1 de febrero de 2025.
 
 CONSIDERANDO: Que para la eficiente ejecución del presupuesto y gestión de caja es necesario lograr una adecuada coordinación de los subsistemas que conforman el Sistema de Administración Financiera del Sector Público, lo cual requiere acciones concretas para compartir información, alinear criterios y coordinar decisiones.
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que para evitar el deterioro de la solvencia del Sector Público p
 
 POR TANTO:
 
-En el uso de las facultades de que está investido y en aplicación de los artículos 245 numerales 11 y 19, 246 de la Constitución de la República; 11, 13, 14, 36, numerales 1, 6, 8, 10, 11, 18, 19, 116 y 118 de la Ley General de Administración Pública; 3, 4 y 5 de la Ley Procedimiento Administrativo; Ley Orgánica del Presupuesto y su Reglamento; Ley de Responsabilidad Fiscal; 1 y 3 del Acuerdo Ministerial No.645-2024.
+En el uso de las facultades de que está investido y en aplicación de los artículos 245 numerales 11 y 19, 246 de la Constitución de la República; 11, 13, 14, 36, numerales 1, 6, 8, 10, 11, 18, 19, 116 y 118 de la Ley General de Administración Pública; 3, 4 y 5 de la Ley Procedimiento Administrativo; Ley Orgánica del Presupuesto y su Reglamento; Ley de Responsabilidad Fiscal; 1 y 3 del Acuerdo Ministerial No. 645-2024.
 
 DECRETA:
 
@@ -77,7 +77,7 @@ ARTÍCULO 1.- Aprobar en cada una de sus partes el Manual de Programación de la
 
 3. Marco Legal y Procedimental.
 
-La Ley Orgánica del Presupuesto (LOP) aprobada mediante Decreto Legislativo No.83-2004, establece en su artículo 33 el siguiente marco general para la Programación de la Ejecución del Presupuesto. “…Promulgada la Ley de Presupuesto, la Secretaría de Estado en el Despacho de Finanzas procederá a reordenar las modificaciones introducidas al Proyecto presentado y coordinará la programación de la ejecución presupuestaria. Dicha programación adecuará los compromisos de gastos y el pago de los mismos a las disponibilidades de caja de la Tesorería General de la República, según los procedimientos que se establezcan en el Reglamento de esta Ley.
+La Ley Orgánica del Presupuesto (LOP) aprobada mediante Decreto Legislativo No. 83-2004, establece en su artículo 33 el siguiente marco general para la Programación de la Ejecución del Presupuesto. “…Promulgada la Ley de Presupuesto, la Secretaría de Estado en el Despacho de Finanzas procederá a reordenar las modificaciones introducidas al Proyecto presentado y coordinará la programación de la ejecución presupuestaria. Dicha programación adecuará los compromisos de gastos y el pago de los mismos a las disponibilidades de caja de la Tesorería General de la República, según los procedimientos que se establezcan en el Reglamento de esta Ley.
 
 La Tesorería General de la República asumirá la responsabilidad de la Programación de la Ejecución Presupuestaria en coordinación con la Dirección General de Presupuesto, la Dirección General de Crédito Público y el Servicio de Administración de Rentas (SAR).
 
@@ -87,7 +87,7 @@ En el artículo 121 de la LOP se establecen las responsabilidades por incumplimi
 
 Mientras que, en su inciso 7, el artículo 122 sobre infracciones, dispone que: “…Constituyen infracciones para los efectos del artículo anterior, cualquier otro acto o resolución que contravenga la presente Ley o su Reglamento…”.
 
-Por su parte el artículo 10 de la reglamentación de la LOP, aprobada mediante Acuerdo No.049-2005 dispone que:
+Por su parte el artículo 10 de la reglamentación de la LOP, aprobada mediante Acuerdo No. 049-2005 dispone que:
 
 “…La Programación de la ejecución presupuestaria que ordena el artículo 33 de la Ley Orgánica del Presupuesto se llevará a cabo mediante los siguientes procedimientos básicos:
 
@@ -107,7 +107,7 @@ d) Las cuotas de compromisos son trimestrales y las cuotas de pago son mensuales
 
 Por otro lado, la Programación de la Ejecución Presupuestaria
 
-(PEP) tiene que considerar, a su vez, las siguientes reglas que establece la Ley de Responsabilidad Fiscal (LRF), en su artículo 3 del Decreto Legislativo No.25-2016:
+(PEP) tiene que considerar, a su vez, las siguientes reglas que establece la Ley de Responsabilidad Fiscal (LRF), en su artículo 3 del Decreto Legislativo No. 25-2016:
 
 ● Techo anual para el déficit del balance global del Sector Público no Financiero;
 
@@ -119,7 +119,7 @@ Sobre las funciones y procedimientos de la Tesorería General de la República e
 
 ● El Manual de “Procesos y Procedimientos de la Tesorería General de la República, MP-TGR-2023”, julio de 2023;
 
-● El Manual de Programación Financiera, “Asignación de Cuotas de Gasto Trimestral en relación con la Programación de Gastos Mensuales, PR-TGR-PF- 001”,julio de 2023;
+● El Manual de Programación Financiera, “Asignación de Cuotas de Gasto Trimestral en relación con la Programación de Gastos Mensuales, PR-TGR-PF-001”,julio de 2023;
 
 ● El Manual de Priorización y Pagos, “Propuestas de Pagos, PRG-TGR-PP-011”, julio 2023.
 
@@ -201,7 +201,7 @@ A continuación, se presenta un esquema gráfico que resume las características
 
 4 Decreto 83-2004, Art.33 y Manual de Ejecución del Gasto, Sistema Integrado de Administración Financiera (SIAFI), septiembre de 2008 Etapa inicial del gasto, con impacto Compromiso Requiere Devengado Sin cuota requerida Pagado Requiere (*) Los pagos de deuda de ejercicios anteriores que realiza la TGR no requieren cuota.
 
-5. Objetivos de la Programación de la Ejecución Presupuestaria La programación financiera de la ejecución presupuestaria contribuye al proceso productivo público, procurando poner a disposición de las IP, los recursos en el tiempo, cantidad y calidad requeridos, para alcanzar sus objetivos y metas; en función de la disponibilidad de ingresos y financiamiento, las metas en materia de disciplina fiscal establecidas en el Decreto Legislativo No.25-2016 contentivo de la “Ley de Responsabilidad Fiscal” y las medidas de contención del gasto que se dispongan.
+5. Objetivos de la Programación de la Ejecución Presupuestaria La programación financiera de la ejecución presupuestaria contribuye al proceso productivo público, procurando poner a disposición de las IP, los recursos en el tiempo, cantidad y calidad requeridos, para alcanzar sus objetivos y metas; en función de la disponibilidad de ingresos y financiamiento, las metas en materia de disciplina fiscal establecidas en el Decreto Legislativo No. 25-2016 contentivo de la “Ley de Responsabilidad Fiscal” y las medidas de contención del gasto que se dispongan.
 
 El objetivo principal que sustenta la programación financiera de la ejecución resulta en la necesidad de compatibilizar los recursos esperados con los gastos a ejecutar en un periodo determinado.
 
@@ -463,7 +463,7 @@ Planificación Productiva
 
 11. Programación de Caja
 
-11.1. Aspectos generales Programación Financiera La TGR es responsable, según el artículo 94 del Decreto No.83-2004, de administrar y regular el flujo de fondos del Tesoro Nacional para el ejercicio fiscal. El flujo de caja consiste en calcular los ingresos y egresos de disponibilidades del Tesoro, proyectando una posición neta mensual, trimestral y anual9, a partir de la cual se determinan las necesidades de financiamiento temporales y acumulados anuales.
+11.1. Aspectos generales Programación Financiera La TGR es responsable, según el artículo 94 del Decreto No. 83-2004, de administrar y regular el flujo de fondos del Tesoro Nacional para el ejercicio fiscal. El flujo de caja consiste en calcular los ingresos y egresos de disponibilidades del Tesoro, proyectando una posición neta mensual, trimestral y anual9, a partir de la cual se determinan las necesidades de financiamiento temporales y acumulados anuales.
 
 La importancia de contar con flujos de caja consiste en el fortalecimiento de la toma de decisiones de política fiscal (macro y micro asignación), dado que a partir de los recursos monetarios disponibles y los proyectados será posible ejecutar lo previsto en el presupuesto.
 
@@ -521,7 +521,7 @@ Proyección de recaudación del trimestre (millones Lempiras) 11.4.4 Programaci�
 
 Avance financiero de proyectos de inversión En millones Lempiras (*) Ejecución proyectada trimestre __-__-__ __-___ (*) Abarca la totalidad de los grupos de gastos atribuibles al proyecto de inversión Avance físico de proyectos de inversión En porcentaje de avance (*) Ejecución acumulada al cierre trimestre anterior __-__-__ Esta información se complementará y verificará con los reportes que elabore la DGIP y presente trimestralmente al COPEPGC, a los fines de su aporte al cálculo de las cuotas.
 
-Vale destacar que el presente requerimiento de información encuentra sustento en lo establecido en el Artículo 61 del Decreto No.83-04 contentivo de la Ley Orgánica del Presupuesto, conforme a la necesidad de seguimiento y proyección de estos gastos específicos.
+Vale destacar que el presente requerimiento de información encuentra sustento en lo establecido en el Artículo 61 del Decreto No. 83-04 contentivo de la Ley Orgánica del Presupuesto, conforme a la necesidad de seguimiento y proyección de estos gastos específicos.
 
 12 Abarca la totalidad de los grupos de gastos atribuibles al proyecto de inversión 11.4.5 Información de anticipos En el caso de gastos que requieran anticipos financieros, las IP deberán remitir, acompañando las solicitudes de cuota de compromiso, información sobre el detalle de dichos anticipos y la identificación de la Fuente y Grupo de Gasto respectivo.
 

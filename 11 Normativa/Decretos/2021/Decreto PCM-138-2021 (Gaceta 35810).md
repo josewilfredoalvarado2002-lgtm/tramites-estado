@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto Ejecutivo Número PCM-138-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211230-35810/download"
 extraido: "2026-11-14"
-huella: "b43ca8a1ed6fd6e3"
+huella: "c7496b1662a5ac19"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-138-2021
@@ -49,19 +49,15 @@ CONSIDERANDO: Que en el Artículo 53 de la Ley Marco del Sector Agua Potable y S
 
 CONSIDERANDO: Que el Congreso Nacional de la República aprobó la obtención de los recursos necesarios para posibilitar el cumplimiento por parte del Poder Ejecutivo a lo indicado en el Artículo 54 de la Ley Marco del Sector Agua Potable y Saneamiento, efectuando por medio de la Secretaría de Estado en el Despacho de Finanzas las transferencias de los fondos necesarios al SANAA para cumplir lo dispuesto en la Ley de acuerdo a sus requerimientos plenamente justificados, garantizándose así la utilización eficiente y adecuada de los recursos gestionados por conducto del Gobierno de la República.
 
-CONSIDERANDO: Que para continuar con la transferencia de los servicios que presta el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) a favor de la población del Distrito Central, a la Alcaldía Municipal del Distrito Central (AMDC), se aprobó el Decreto Ejecutivo Número PCM-024-2020 de fecha 26 de octubre del 2020 publicado en el Diario Oficial “La Gaceta”, Edición No.
+CONSIDERANDO: Que para continuar con la transferencia de los servicios que presta el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) a favor de la población del Distrito Central, a la Alcaldía Municipal del Distrito Central (AMDC), se aprobó el Decreto Ejecutivo Número PCM-024-2020 de fecha 26 de octubre del 2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,410 a fin de dar cumplimiento a la Ley Marco de Agua Potable y Saneamiento.
 
-35,410 a fin de dar cumplimiento a la Ley Marco de Agua Potable y Saneamiento.
-
-POR TANTO, En uso de las facultades contenidas en el Artículo 245, numerales 2, 11, 18, 19 y 35, 252, 321 y 323 de la Constitución de la República; Decreto Legislativo No. 91, publicado en el Diario Oficial “La Gaceta” en fecha 23 de mayo de 1961, mediante el cual se crea el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA); Artículos 3, 4, 7, 11, 17, 18, 20 y 22 numerales 9) y 12) de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; Artículos 1, 16, 48, 49, 53, 54 y demás aplicables del Decreto Legislativo No. 118- 2003 contentivo de Ley Marco del Sector Agua Potable y Saneamiento; y, Decreto Ejecutivo Número PCM-024-2020.
+POR TANTO, En uso de las facultades contenidas en el Artículo 245, numerales 2, 11, 18, 19 y 35, 252, 321 y 323 de la Constitución de la República; Decreto Legislativo No. 91, publicado en el Diario Oficial “La Gaceta” en fecha 23 de mayo de 1961, mediante el cual se crea el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA); Artículos 3, 4, 7, 11, 17, 18, 20 y 22 numerales 9) y 12) de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; Artículos 1, 16, 48, 49, 53, 54 y demás aplicables del Decreto Legislativo No. 118-2003 contentivo de Ley Marco del Sector Agua Potable y Saneamiento; y, Decreto Ejecutivo Número PCM-024-2020.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 9 del Decreto Ejecutivo Número PCM-024-2020, publicado en el Diario Oficial “La Gaceta”, de fecha 26 de octubre del año 2020, Edición No.
-
-35,410, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 9 del Decreto Ejecutivo Número PCM-024-2020, publicado en el Diario Oficial “La Gaceta”, de fecha 26 de octubre del año 2020, Edición No. 35,410, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 9.- Concluido el proceso de transferencia del sistema de agua potable y saneamiento a favor de la Alcaldía Municipal del Distrito Central (AMDC), el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) debe de rendir un informe a la Presidencia de la República, conteniendo un análisis y evaluación de su situación operativa y presupuestaria, efectuando las recomendaciones que estime pertinentes a fin de determinar la nueva estructura organizativa y financiamiento del presupuesto del Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) requerido para su futuro funcionamiento. Sobre la base de este informe el Poder Ejecutivo determinará lo procedente.
 

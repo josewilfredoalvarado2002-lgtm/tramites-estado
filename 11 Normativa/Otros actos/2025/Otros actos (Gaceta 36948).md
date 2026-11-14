@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdos de DeclaratoriaDE-DCHA-012-2025, DE-DCHA-013-2025,DE-DCHA-014-2025, DE-DCHA-015-2025,DE-DCHA-016-2025, DE-DCHA-018-2025,DE-DCHA-019-2025, DE-DCHA-020-2025,DE-DCHA-021-2025, DE-DCHA-022-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250922-36948/download"
 extraido: "2026-11-09"
-huella: "3c331d39c760fddc"
+huella: "6a510f8467dfa18c"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos de DeclaratoriaDE-DCHA-012-2025, DE-DCHA-013-2025,DE-DCHA-014-2025, DE-DCHA-015-2025,DE-DCHA-016-2025, DE-DCHA-018-2025,DE-DCHA-019-2025, DE-DCHA-020-2025,DE-DCHA-021-2025, DE-DCHA-022-2025
@@ -331,9 +331,7 @@ PRIMERO: Declarar oficialmente y con base a los artículos 120, 121, 122, 123, 1
 
 SEGUNDO: La Relación de la medida de la microcuenca es PARTIENDO DEL PUNTO No. 1, Coordenadas X= 335565.01, Y= 1630824.08; siguiendo el rumbo (S 85º 39’ 23.77” E), y recorriendo una distancia de 185.12 metros se llega hasta el PUNTO No. 2, Coordenadas X= 335749.60, Y= 1630810.06; siguiendo el rumbo (N 90º 0’ 0.00” E), y recorriendo una distancia de 69.44 metros se llega hasta el PUNTO No. 3, Coordenadas X= 335819.04, Y= 1630819.63; siguiendo el rumbo (S 85º 34’ 3.29” E), y recorriendo una distancia de 123.83 metros se llega hasta el PUNTO No. 4, Coordenadas X= 335942.50, Y= 1630794.99; siguiendo el rumbo (N 82º 33’ 12.63” E) y recorriendo una distancia de
 
-116.28 metros se llega hasta el PUNTO No. 5, Coordenadas X= 336057.80, Y= 1630738.68; siguiendo el rumbo (N 11º 33’ 7.47” E), y recorriendo una distancia de 72.86 metros se llega hasta el PUNTO No. 6, Coordenadas X= 336072.39, Y= 1630622.10; siguiendo el rumbo (N 4º 13’ 13.21” W), y recorriendo una distancia de 188.47 metros se llega hasta el PUNTO No. 7, Coordenadas X= 336058.52, Y= 1630520.27; siguiendo el rumbo (N 5º 30’ 32.72” W), y recorriendo una distancia de 291.13 metros se llega hasta el PUNTO No.
-
-8, Coordenadas X= 336030.57, Y= 1630508.79; siguiendo el rumbo (N 6º 3’ 6.37” E) y recorriendo una distancia de
+116.28 metros se llega hasta el PUNTO No. 5, Coordenadas X= 336057.80, Y= 1630738.68; siguiendo el rumbo (N 11º 33’ 7.47” E), y recorriendo una distancia de 72.86 metros se llega hasta el PUNTO No. 6, Coordenadas X= 336072.39, Y= 1630622.10; siguiendo el rumbo (N 4º 13’ 13.21” W), y recorriendo una distancia de 188.47 metros se llega hasta el PUNTO No. 7, Coordenadas X= 336058.52, Y= 1630520.27; siguiendo el rumbo (N 5º 30’ 32.72” W), y recorriendo una distancia de 291.13 metros se llega hasta el PUNTO No. 8, Coordenadas X= 336030.57, Y= 1630508.79; siguiendo el rumbo (N 6º 3’ 6.37” E) y recorriendo una distancia de
 
 302.96 metros se llega hasta el PUNTO No. 9, Coordenadas X= 336062.51, Y= 1630379.85; siguiendo el rumbo (N 0º 56’ 0.65” E) y recorriendo una distancia de 430.27 metros se llega hasta el PUNTO No. 10, Coordenadas X= 336069.52, Y= 1630284.18; siguiendo el rumbo (N 1º 12’ 52.68” W) y recorriendo una distancia de 526.00 metros se llega hasta el PUNTO No. 11, Coordenadas X= 336058.37, Y= 1630150.44; siguiendo el rumbo (N 0º 49’ 2.33” W) y recorriendo una distancia de 659.69 metros se llega hasta el PUNTO No. 12, Coordenadas X= 336048.96, Y= 1630113.66; siguiendo el rumbo (N 0º 12’ 17.50” W) y recorriendo una distancia de
 
@@ -341,25 +339,17 @@ SEGUNDO: La Relación de la medida de la microcuenca es PARTIENDO DEL PUNTO No. 
 
 792.90 metros se llega hasta el PUNTO No. 17, Coordenadas X= 335752.08, Y= 1629980.06; siguiendo el rumbo (N 3º 12’ 41.07” W) y recorriendo una distancia de 831.31 metros se llega hasta el PUNTO No. 18, Coordenadas X= 335705.51, Y= 1629927.14; siguiendo el rumbo (N 1º 59’ 26.80” W) y recorriendo una distancia de 883.45 metros se llega hasta el PUNTO No. 19, Coordenadas X= 335674.82, Y= 1629885.87; siguiendo el rumbo (N 1º 26’ 34.63” W) y recorriendo una distancia de 924.48 metros se llega hasta el PUNTO No. 20, Coordenadas X= 335651.54, Y= 1629826.60; siguiendo el rumbo (N 3º 45’ 29.36” W) y recorriendo una distancia de
 
-985.58 metros se llega hasta el PUNTO No. 21, Coordenadas X= 335586.94, Y= 1629770.25; siguiendo el rumbo (N 0º 14’ 50.66” W) y recorriendo una distancia de 1,039.82 metros se llega hasta el PUNTO No. 22, Coordenadas X= 335582.45, Y= 1629763.55; siguiendo el rumbo (N 3º 37’ 0.69” W) y recorriendo una distancia de 1,048.60 metros se llega hasta el PUNTO No. 23, Coordenadas X= 335516.30, Y= 1629770.46; siguiendo el rumbo (N 1º 38’ 11.11” W) y recorriendo una distancia de 1,040.02 metros se llega hasta el PUNTO No.
+985.58 metros se llega hasta el PUNTO No. 21, Coordenadas X= 335586.94, Y= 1629770.25; siguiendo el rumbo (N 0º 14’ 50.66” W) y recorriendo una distancia de 1,039.82 metros se llega hasta el PUNTO No. 22, Coordenadas X= 335582.45, Y= 1629763.55; siguiendo el rumbo (N 3º 37’ 0.69” W) y recorriendo una distancia de 1,048.60 metros se llega hasta el PUNTO No. 23, Coordenadas X= 335516.30, Y= 1629770.46; siguiendo el rumbo (N 1º 38’ 11.11” W) y recorriendo una distancia de 1,040.02 metros se llega hasta el PUNTO No. 24, Coordenadas X= 335486.60, Y= 1629784.48; siguiendo el rumbo (N 2 6 14.80 W) y recorriendo una distancia de 1,026.27 metros se llega hasta el PUNTO No. 25, Coordenadas X= 335448.92, Y= 1629825.76; siguiendo el rumbo (N 0 5
 
-24, Coordenadas X= 335486.60, Y= 1629784.48; siguiendo el rumbo (N 2 6 14.80 W) y recorriendo una distancia de 1,026.27 metros se llega hasta el PUNTO No. 25, Coordenadas X= 335448.92, Y= 1629825.76; siguiendo el rumbo (N 0 5
-
-22.71 E) y recorriendo una distancia de 984.30 metros se llega hasta el PUNTO No. 26, Coordenadas X= 335450.46, Y= 1629889.38; siguiendo el rumbo (N 2 33 35.15 W) y recorriendo una distancia de 921.60 metros se llega hasta el PUNTO No. 27, Coordenadas X= 335409.30, Y= 1629936.23; siguiendo el rumbo (N 2 25 14.38 W) y recorriendo una distancia de 874.61 metros se llega hasta el PUNTO No.
-
-28, Coordenadas X= 335372.36, Y= 1630033.12; siguiendo el rumbo (N 8 13 28.74 W) y recorriendo una distancia de
+22.71 E) y recorriendo una distancia de 984.30 metros se llega hasta el PUNTO No. 26, Coordenadas X= 335450.46, Y= 1629889.38; siguiendo el rumbo (N 2 33 35.15 W) y recorriendo una distancia de 921.60 metros se llega hasta el PUNTO No. 27, Coordenadas X= 335409.30, Y= 1629936.23; siguiendo el rumbo (N 2 25 14.38 W) y recorriendo una distancia de 874.61 metros se llega hasta el PUNTO No. 28, Coordenadas X= 335372.36, Y= 1630033.12; siguiendo el rumbo (N 8 13 28.74 W) y recorriendo una distancia de
 
 785.01 metros se llega hasta el PUNTO No. 29, Coordenadas X= 335377.90, Y= 1630143.08; siguiendo el rumbo (N 0 45
 
-30.53 W) y recorriendo una distancia de 667.04 metros se llega hasta el PUNTO No. 30, Coordenadas X= 335369.07, Y= 1630259.02; siguiendo el rumbo (N 1 9 3.15 W), y recorriendo una distancia de 551.15 metros se llega hasta el PUNTO No.
-
-31, Coordenadas X= 335358.00, Y= 1630390.62; siguiendo el rumbo (N 7 32 20.01 W) y recorriendo una distancia de
+30.53 W) y recorriendo una distancia de 667.04 metros se llega hasta el PUNTO No. 30, Coordenadas X= 335369.07, Y= 1630259.02; siguiendo el rumbo (N 1 9 3.15 W), y recorriendo una distancia de 551.15 metros se llega hasta el PUNTO No. 31, Coordenadas X= 335358.00, Y= 1630390.62; siguiendo el rumbo (N 7 32 20.01 W) y recorriendo una distancia de
 
 423.10 metros se llega hasta el PUNTO No. 32, Coordenadas X= 335302.49, Y= 1630474.53; siguiendo el rumbo (N 7 12
 
-25.83 W) y recorriendo una distancia de 338.20 metros se llega hasta el PUNTO No. 33, Coordenadas X= 335260.06, Y= 1630560.56; siguiendo el rumbo (N 3 42 21.04 W) y recorriendo una distancia de 250.02 metros se llega hasta el PUNTO No. 34, Coordenadas X= 335243.90, Y= 1630633.87; siguiendo el rumbo (N 3 21 42.78 W) y recorriendo una distancia de 176.49 metros se llega hasta el PUNTO No.
-
-35, Coordenadas X= 335233.55, Y= 1630758.24; siguiendo el rumbo (N 74 32 14.17 E) y recorriendo una distancia de
+25.83 W) y recorriendo una distancia de 338.20 metros se llega hasta el PUNTO No. 33, Coordenadas X= 335260.06, Y= 1630560.56; siguiendo el rumbo (N 3 42 21.04 W) y recorriendo una distancia de 250.02 metros se llega hasta el PUNTO No. 34, Coordenadas X= 335243.90, Y= 1630633.87; siguiendo el rumbo (N 3 21 42.78 W) y recorriendo una distancia de 176.49 metros se llega hasta el PUNTO No. 35, Coordenadas X= 335233.55, Y= 1630758.24; siguiendo el rumbo (N 74 32 14.17 E) y recorriendo una distancia de
 
 194.37 metros se llega hasta el PUNTO No. 36, Coordenadas X= 335324.56, Y= 1630764.90; siguiendo el rumbo (N 64 52 49.03 E) y recorriendo una distancia de 106.38 metros se llega hasta el PUNTO No. 37, Coordenadas X= 335353.28, Y= 1630793.69; siguiendo el rumbo (N 76 23 14.34 E) y recorriendo una distancia de 69.55 metros se llega hasta el PUNTO No. 38, Coordenadas X= 335420.88, Y= 1630804.64; siguiendo el rumbo (N 87 50 47.07 E) y recorriendo una distancia de 144.23 metros se llega hasta el PUNTO No. 1
 

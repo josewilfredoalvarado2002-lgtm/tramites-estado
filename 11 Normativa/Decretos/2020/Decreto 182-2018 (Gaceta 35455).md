@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Decreto No. 182-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201210-35455/download"
 extraido: "2026-11-14"
-huella: "348fa3c4fe106e25"
+huella: "4eeb0e7e1238827a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 182-2018
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -53,7 +53,7 @@ ARTÍCULO 2.- Las personas naturales beneficiarias de vivienda modulares, serán
 
 #### Artículo 3
 
-ARTÍCULO 3.- Otorgar exclusivamente, exención del pago de Impuesto de Introducción, Impuesto Sobre Venta y otros a la Municipalidad de San José de Colinas y de Arada, Departamento de Santa Bárbara, para la introducción al país de maquinaria, equipo y materia prima relacionada con el Proyecto P R O G R A M A S O C I A L D E VIVIENDA MODULARES.
+ARTÍCULO 3.- Otorgar exclusivamente, exención del pago de Impuesto de Introducción, Impuesto Sobre Venta y otros a la Municipalidad de San José de Colinas y de Arada, Departamento de Santa Bárbara, para la introducción al país de maquinaria, equipo y materia prima relacionada con el Proyecto PROGRAMA SOCIAL DE VIVIENDA MODULARES.
 
 #### Artículo 4
 

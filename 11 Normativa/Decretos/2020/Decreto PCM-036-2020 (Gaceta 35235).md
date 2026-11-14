@@ -11,7 +11,7 @@ paginas: "A. 10 - 14"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "fd356c91e6e99cd0"
+huella: "3abdabfe08c17281"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-036-2020
@@ -39,13 +39,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Adm
 
 CONSIDERANDO: Que en fecha 18 de abril del 2020, el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-033-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del 19 abril, del presente año, la suspensión de las Garantías constitucionales establecido en el Artículo 187 de la Constitución de la República el cual manifiesta: “El ejercicio de los derechos establecidos en los Artículos 69, 78, 81, 84, 99 y 103, podrán suspenderse en caso de: Invasión del territorio nacional, perturbación grave de la paz, de epidemia o de cualquier otra calamidad general, por el Presidente de la República en Consejo de Ministros, por medio de un Decreto que contendrá…”.
 
-CONSIDERANDO: Que mediante Oficio SDP No. 102- 2020, de fecha 21 de abril del presente año, el Secretario de Estado de la Presidencia por instrucción del Presidente de la República y dando cumplimiento a lo que establece el Artículo 187 de la Constitución de la República, el que instituye que el Soberano Congreso Nacional, debe conocer de la suspensión las Garantías Constitucionales dentro del plazo de treinta (30) días, procedió a remitir al Soberano Congreso Nacional las publicaciones en el Diario Oficial “La Gaceta” de los Decretos Ejecutivos número PCM-028-2020, PCM-031-2020 y PCM- 033-2020 mediante los cuales se restringieron las garantías constitucionales para que ese Poder del Estado, los ratifique, modifique o impruebe.
+CONSIDERANDO: Que mediante Oficio SDP No. 102-2020, de fecha 21 de abril del presente año, el Secretario de Estado de la Presidencia por instrucción del Presidente de la República y dando cumplimiento a lo que establece el Artículo 187 de la Constitución de la República, el que instituye que el Soberano Congreso Nacional, debe conocer de la suspensión las Garantías Constitucionales dentro del plazo de treinta (30) días, procedió a remitir al Soberano Congreso Nacional las publicaciones en el Diario Oficial “La Gaceta” de los Decretos Ejecutivos número PCM-028-2020, PCM-031-2020 y PCM-033-2020 mediante los cuales se restringieron las garantías constitucionales para que ese Poder del Estado, los ratifique, modifique o impruebe.
 
 CONSIDERANDO: Que a pesar de todas las medidas de protección que se han implementado para salvaguardar la salud de la población hondureña, por la pandemia del COVID-19, el Laboratorio Nacional de Virología (LNV), mediante las pruebas (PCR-RT) que realiza a diario, los casos positivos siguen incrementándose de forma alarmante, especialmente en el Departamento de Cortés, Colón y Yoro especialmente en el municipio de El Progreso, a raíz de que la población no muestra interés en realizarse voluntariamente las pruebas en tiempo y forma.
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013; Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Ejecutivo Número PCM- 005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM- 022-2020, PCM-023-2020, PCM-026-2020, PCM-028,-2020, PCM-031-2020 y PCM-033-2020
+En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11, 29, 245 numerales 4), 7) y 16), 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013; Artículos 4, inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 32-2020; Decreto Ejecutivo Número PCM-005-2020, Decreto Ejecutivo Número PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028,-2020, PCM-031-2020 y PCM-033-2020
 
 DECRETA:
 
@@ -53,7 +53,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del domingo 26 de abril del presente año, la restricción a nivel nacional de las garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023-2020, PCM-026- 2020, PCM-028-2020, PCM-031-2020 y el PCM-033-2020, publicado en el Diario Oficial “La Gaceta” número 35,229, en fecha 18 de abril del 2020, Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
+Prorrogar por siete (7) días, efectivo a partir del domingo 26 de abril del presente año, la restricción a nivel nacional de las garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado número PCM-021-2020, reformado por los Decretos Ejecutivos PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020 y el PCM-033-2020, publicado en el Diario Oficial “La Gaceta” número 35,229, en fecha 18 de abril del 2020, Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
 #### Artículo 2
 
@@ -99,7 +99,7 @@ ARTÍCULO 3.- Ratificar la exclusión de la restricción establecida en el Artic
 
 \4) Comité Nacional de Prevención Contra la Tortura, Tratos Crueles, Inhumanos o Degradantes (CONAPREV).
 
-Habilitando asimismo, días y horas hábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo 33- 2020, Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su artículo 27.
+Habilitando asimismo, días y horas hábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo 33-2020, Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su artículo 27.
 
 #### Artículo 4
 

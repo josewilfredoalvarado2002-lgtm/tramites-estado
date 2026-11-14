@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. SAR-124-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240203-36451/download"
 extraido: "2026-11-14"
-huella: "61a40a6add70c805"
+huella: "4b0438f78f02235e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-124-2022
@@ -41,7 +41,7 @@ CONSIDERANDO (5): Que la clasificación de los obligados tributarios tiene como 
 
 CONSIDERANDO (6): Que en fecha 29 de diciembre de 2020, se emitió el Acuerdo No. SAR-313-2020 mediante el cual se aprobó el Instructivo de Criterios de Clasificación de Contribuyentes, mediante el cual se desarrolló procedimiento para definir los criterios y su metodología.
 
-CONSIDERANDO (7): Que la información a reservar contiene la metodología y estadística, es decir las fórmulas, bajo las cuales se determina la ponderación que se le otorgará a cada obligado tributario dentro de un criterio, específicamente las reglas de selección y la ponderación otorgada a los Obligados Tributarios contenida en el Acuerdo No. SAR- 313-2020 y el Acuerdo No. SAR-123-2022 en todas sus versiones y/o modificaciones. Sin embargo, en cumplimiento con el artículo 59 del Código Tributario los criterios serán de carácter público.
+CONSIDERANDO (7): Que la información a reservar contiene la metodología y estadística, es decir las fórmulas, bajo las cuales se determina la ponderación que se le otorgará a cada obligado tributario dentro de un criterio, específicamente las reglas de selección y la ponderación otorgada a los Obligados Tributarios contenida en el Acuerdo No. SAR-313-2020 y el Acuerdo No. SAR-123-2022 en todas sus versiones y/o modificaciones. Sin embargo, en cumplimiento con el artículo 59 del Código Tributario los criterios serán de carácter público.
 
 CONSIDERANDO (8): Que, debido a la evolución de las actividades económicas resultará necesario, posteriormente, definir diferentes criterios de categorización por lo que, la metodología y estadística puede modificarse para apegarse al dinamismo de los sectores, es decir, podrá el instructivo con el tiempo someterse a revisiones y cambios respecto al desarrollo de las fórmulas para la definición de los criterios de clasificación, sin embargo, dichas adecuaciones o reformas requieren del mismo tratamiento de reserva por el potencial perjuicio que representa la publicidad de dicha información.
 

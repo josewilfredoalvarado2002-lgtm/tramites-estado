@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo SAG-124-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220429-35910/download"
 extraido: "2026-11-14"
-huella: "16c1c93463e64530"
+huella: "5ea49515545edbdd"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAG-124-2022
@@ -49,7 +49,7 @@ En uso de sus facultades y en aplicación de los artículos:
 
 ACUERDA
 
-PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2022- 2023, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones suplidoras, cargueros o nodrizas:
+PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2022-2023, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones suplidoras, cargueros o nodrizas:
 
 a. Solicitud dirigida a la señora Secretaria de Estado en los Despachos de Agricultura y Ganadería, por medio de su Apoderado Legal.
 

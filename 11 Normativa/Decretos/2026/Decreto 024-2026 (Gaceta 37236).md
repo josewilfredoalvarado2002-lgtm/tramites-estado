@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número 024-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260902-37236/download"
 extraido: "2026-11-09"
-huella: "79a7dbb04fc3bc17"
+huella: "8be0080f6420b93b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 024-2026
@@ -41,9 +41,7 @@ Que la Ley General de la Administración Pública, en sus Artículos 3, 6, 11, 1
 
 CONSIDERANDO: Que corresponde a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), de conformidad con el ordenamiento jurídico vigente, la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las obras de infraestructura pública y demás materias comprendidas dentro de su ámbito de competencia.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-12-90, de fecha dos (2) de marzo de mil novecientos noventa (1990), se creó el Fondo Hondureño de Inversión Social (FHIS), cuya vigencia legal se encuentra establecida hasta el treinta y uno (31) de diciembre de dos mil veintiséis (2026), conforme a las reformas efectuadas mediante Decreto Legislativo No. 118-2022.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 12-90, de fecha dos (2) de marzo de mil novecientos noventa (1990), se creó el Fondo Hondureño de Inversión Social (FHIS), cuya vigencia legal se encuentra establecida hasta el treinta y uno (31) de diciembre de dos mil veintiséis (2026), conforme a las reformas efectuadas mediante Decreto Legislativo No. 118-2022.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-004-2026, publicado en fecha veinticinco
 
@@ -127,7 +125,7 @@ Presidente de la República
 
 JUAN CARLOS GARCÍA MEDINA
 
-Secretario de Estado en el Despacho de la Presidencia ____________ Instituto Hondureño de Mercadeo Agrícola (IHMA) COMUNICADO OFICIAL IHMA ANUNCIA COMERCIALIZACIÓN DE INVENTARIOS DE MAÍZ Y FRIJOL BAJO DENUNCIA PÚBLICA DE COSECHAS 2023-2024- 2025 DE LA ADMINISTRACIÓN ANTERIOR El Instituto Hondureño de Mercadeo Agrícola (IHMA), informa a la población hondureña que el inventario de Maíz y Frijol que fue objeto de informaciones circuladas públicamente ya cuenta con los estudios y verificaciones correspondientes, y que su comercialización se está realizando conforme a las condiciones técnicas y legales establecidas.
+Secretario de Estado en el Despacho de la Presidencia ____________ Instituto Hondureño de Mercadeo Agrícola (IHMA) COMUNICADO OFICIAL IHMA ANUNCIA COMERCIALIZACIÓN DE INVENTARIOS DE MAÍZ Y FRIJOL BAJO DENUNCIA PÚBLICA DE COSECHAS 2023-2024-2025 DE LA ADMINISTRACIÓN ANTERIOR El Instituto Hondureño de Mercadeo Agrícola (IHMA), informa a la población hondureña que el inventario de Maíz y Frijol que fue objeto de informaciones circuladas públicamente ya cuenta con los estudios y verificaciones correspondientes, y que su comercialización se está realizando conforme a las condiciones técnicas y legales establecidas.
 
 El presente comunicado se refiere exclusivamente al inventario de maíz y frijol correspondiente a las cosechas 2023-2024 y 2024-2025, que recibió la actual administración y que se encontraba previamente almacenado en las bodegas de Tegucigalpa y Danlí, en Tegucigalpa, el inventario relacionado con la denuncia corresponde a existencias de la cosecha 2024-2025; mientras que, en Danlí, el inventario actualmente identificado comprende producto de las cosechas 2023-2024 y 2024-2025.
 

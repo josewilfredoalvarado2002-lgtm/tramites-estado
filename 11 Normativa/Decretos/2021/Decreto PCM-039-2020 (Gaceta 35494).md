@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números PCM-039-2020, 009-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210122-35494/download"
 extraido: "2026-11-14"
-huella: "b7c656a26e1f4913"
+huella: "ae75f7b065af7d51"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-039-2020
@@ -45,9 +45,7 @@ DE R.L.
 
 CONSIDERANDO: Que conforme al Modelo Económico Financiero y la viabilidad previa del proyecto, el mismo refleja una Inversión Privada que asciende a la suma de CIENTO VEINTE MILLONES DE DOLARES AMERICANOS (US$.120,000.000.00) en tres etapas.
 
-CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 40 de la Ley para la Promoción y Protección de las Inversiones, reformado mediante Decreto Legislativo No.
-
-284-2013 contentivo de la Ley para la Generación de Empleo, Fomento a la Iniciativa Empresarial, Formalización de Nego­ cios y Protección a los Derechos de los Inversionistas: “Las inversiones calificadas como proyectos de interés nacional están sujetas a la aplicación de un procedimiento acelerado de inversión. Previo a la declaratoria del Consejo Nacional de Inversiones o COALIANZA según corresponda, debe realizar un análisis económico y de viabilidad del proyecto para lo cual debe emitir un dictamen con la respectiva recomendación.
+CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 40 de la Ley para la Promoción y Protección de las Inversiones, reformado mediante Decreto Legislativo No. 284-2013 contentivo de la Ley para la Generación de Empleo, Fomento a la Iniciativa Empresarial, Formalización de Nego­ cios y Protección a los Derechos de los Inversionistas: “Las inversiones calificadas como proyectos de interés nacional están sujetas a la aplicación de un procedimiento acelerado de inversión. Previo a la declaratoria del Consejo Nacional de Inversiones o COALIANZA según corresponda, debe realizar un análisis económico y de viabilidad del proyecto para lo cual debe emitir un dictamen con la respectiva recomendación.
 
 Dicha recomendación debe ser trasladada al Poder Ejecutivo para que el Presidente de la República en Consejo de Secre­ tarios de Estado o en un Gabinete Sectorial Especial, si lo estima conveniente, emita un Decreto Ejecutivo conteniendo de la declaración de interés nacional y un Certificado de In­ corporación y Viabilidad de Operación. Esa certificación hace las veces de todos los permisos o licencias requeridos por la legislación hondureña para desarrollar el proyecto.
 
@@ -77,7 +75,7 @@ b) Vigilar especialmente las disposiciones ambientales necesarias para el manejo
 
 c) Realizar inspecciones para verificar el cumplimiento del Plan de Manejo Ambiental, con la autoridad de “Paro de Actividades”, en caso de identificar un riesgo o daño inminente al ambiente o la salud humana, amparada en el
 
-Artículo 55 del Acuerdo Ejecutivo 22-DGTC- 2014, Reglamento de la Ley para la Promoción y de Protección de las Inversiones.
+Artículo 55 del Acuerdo Ejecutivo 22-DGTC-2014, Reglamento de la Ley para la Promoción y de Protección de las Inversiones.
 
 #### Artículo 4
 
@@ -85,7 +83,7 @@ ARTÍCULO 4.- El inversionista designará un prestador de servicios ambientales 
 
 #### Artículo 5
 
-ARTÍCULO 5.- El presente Decreto Ejecutivo, una vez publicado en el Diario Oficial “La Gaceta” y realizado el procedimiento especial descrito, constituirá el “Certificado de Incorporación y Viabilidad de Operación” y de conformidad con los Artículos 40 y 41 de la Ley de Promoción y Protección de Inversiones contenida en el Decreto Legislativo No. 51- 2011, acreditará plenamente ante las autoridades competentes a nivel nacional y municipal, ante las entidades financieras internacionales y empresas calificadoras de riesgo, el cumplimiento de los permisos y requisitos establecidos en las Leyes de la República de Honduras y en consecuencia dichas autoridades no demandarán ningún otro requisito o acreditación legal, quedando en consecuencia el beneficiario habilitado para empezar a operar. El presente “Certificado de Incorporación y Viabilidad de Operación” al proyecto “TERMINAL MARÍTIMA PORTUARIA DE BUQUES, CRUCEROS, MERCANTES, Y CABOTAJE EN EL PUERTO DE OMOA” de propiedad del consorcio conformado por las empresas INVERSIONES ESTRATEGICAS PORTUARIAS S.A. Y SERVICIOS CONSOLIDADOS S. DE R.L. y a las empresas privadas que se contraten, presentes y futuras, durante la vida del proyecto que estén relacionadas con el diseño, estructuración, construcción, ejecución, acondicionamiento, operación y administración del mismo. No obstante la emisión de la presente Autorización, las instituciones y autoridades competentes podrán realizar revisiones para una mejor estructuración del proyecto y una vez en ejecución, podrán realizar inspecciones para verificar que la inversión se esté llevando a cabo dentro de los parámetros aplicables y velarán porque en el desarrollo del Proyecto, las actividades y operaciones se realicen dentro de las directrices, prescripciones, estipulaciones y requerimientos contenidos en las Leyes y demás disposiciones regulatorias aplicables de la República. Asimismo, el presente Certificado no exime a las entidades privadas participantes del proyecto de realizar y verificar el cumplimiento de sus obligaciones tributarias formales y materiales ante el Servicio de Administración de Rentas (SAR) y demás instituciones competentes.
+ARTÍCULO 5.- El presente Decreto Ejecutivo, una vez publicado en el Diario Oficial “La Gaceta” y realizado el procedimiento especial descrito, constituirá el “Certificado de Incorporación y Viabilidad de Operación” y de conformidad con los Artículos 40 y 41 de la Ley de Promoción y Protección de Inversiones contenida en el Decreto Legislativo No. 51-2011, acreditará plenamente ante las autoridades competentes a nivel nacional y municipal, ante las entidades financieras internacionales y empresas calificadoras de riesgo, el cumplimiento de los permisos y requisitos establecidos en las Leyes de la República de Honduras y en consecuencia dichas autoridades no demandarán ningún otro requisito o acreditación legal, quedando en consecuencia el beneficiario habilitado para empezar a operar. El presente “Certificado de Incorporación y Viabilidad de Operación” al proyecto “TERMINAL MARÍTIMA PORTUARIA DE BUQUES, CRUCEROS, MERCANTES, Y CABOTAJE EN EL PUERTO DE OMOA” de propiedad del consorcio conformado por las empresas INVERSIONES ESTRATEGICAS PORTUARIAS S.A. Y SERVICIOS CONSOLIDADOS S. DE R.L. y a las empresas privadas que se contraten, presentes y futuras, durante la vida del proyecto que estén relacionadas con el diseño, estructuración, construcción, ejecución, acondicionamiento, operación y administración del mismo. No obstante la emisión de la presente Autorización, las instituciones y autoridades competentes podrán realizar revisiones para una mejor estructuración del proyecto y una vez en ejecución, podrán realizar inspecciones para verificar que la inversión se esté llevando a cabo dentro de los parámetros aplicables y velarán porque en el desarrollo del Proyecto, las actividades y operaciones se realicen dentro de las directrices, prescripciones, estipulaciones y requerimientos contenidos en las Leyes y demás disposiciones regulatorias aplicables de la República. Asimismo, el presente Certificado no exime a las entidades privadas participantes del proyecto de realizar y verificar el cumplimiento de sus obligaciones tributarias formales y materiales ante el Servicio de Administración de Rentas (SAR) y demás instituciones competentes.
 
 #### Artículo 6
 

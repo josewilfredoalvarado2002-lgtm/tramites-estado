@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 932-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250103-36730/download"
 extraido: "2026-11-13"
-huella: "6f6ce032f4e81eb4"
+huella: "1b7fcb72f948809d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 932-2024
@@ -115,7 +115,7 @@ DE LOS ÓRGANOS DE GOBIERNO Y SUS ATRIBUCIONES; ASAMBLEA DE USUARIOS, JUNTA DIRE
 
 #### Artículo 10
 
-ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta Directiva.- c.- comités de apoyo integrada por : 1) Comité de Operación y Mantenimiento.- 2).- Comité Saneamiento y Educación de Usuarios.- 3) Comité de Microcuencas.- 4) Comité de vigilancia.- DE LA ASAMBLEA DE USUARIOS
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta Directiva.- c.- comités de apoyo integrada por: 1) Comité de Operación y Mantenimiento.- 2).- Comité Saneamiento y Educación de Usuarios.- 3) Comité de Microcuencas.- 4) Comité de vigilancia.- DE LA ASAMBLEA DE USUARIOS
 
 #### Artículo 11
 
@@ -241,15 +241,15 @@ ARTÍCULO 32.- La presente resolución será inscrita en el Instituto de la Prop
 
 SEGUNDO: La JUNTA ADMINISTRADORA DE
 
-AGUA POTABLE DEL MUNICIPIO DE MASAGUARA C E N T R O M U N I C I P I O D E M A S A G U A R A DEPARTAMENTO DE INTIBUCÁ, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de -la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
+AGUA POTABLE DEL MUNICIPIO DE MASAGUARA CENTRO MUNICIPIO DE MASAGUARA DEPARTAMENTO DE INTIBUCÁ, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de -la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
 TERCERO: La JUNTA ADMINISTRADORA DE
 
-AGUA POTABLE DEL MUNICIPIO DE MASAGUARA C E N T R O M U N I C I P I O D E M A S A G U A R A DEPARTAMENTO DE INTIBUCÁ, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
+AGUA POTABLE DEL MUNICIPIO DE MASAGUARA CENTRO MUNICIPIO DE MASAGUARA DEPARTAMENTO DE INTIBUCÁ, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los Órganos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO: La JUNTA ADMINISTRADORA DE AGUA
 
-POTABLE DEL MUNICIPIO DE MASAGUARA C E N T R O M U N I C I P I O D E M A S A G U A R A DEPARTAMENTO DE INTIBUCÁ, se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado y los y demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
+POTABLE DEL MUNICIPIO DE MASAGUARA CENTRO MUNICIPIO DE MASAGUARA DEPARTAMENTO DE INTIBUCÁ, se somete a las disposiciones legales y políticas establecidas por la Secretaría de Estado y los y demás entes contralores del Estado, facilitando cuanto documento sea requerido para garantizar la transparencia de la administración, quedando obligada, además, a presentar informes periódicos anuales de las actividades que realicen con instituciones u organismos con los que se relacionen en el ejercicio de sus objetivos y fines para lo cual fue autorizada.
 
 QUINTO: La disolución y liquidación de la JUNTA ADMINISTRADORA DE AGUA POTABLE DEL MUNICIPIO DE MASAGUARA CENTRO MUNICIPIO DE MASAGUARA DEPARTAMENTO DE INTIBUCÁ, se hará de conformidad a sus estatutos y las leyes vigentes en el país, de la que una vez canceladas las obligaciones contraídas, el excedente pasará a formar parte de una organización legalmente constituida en Honduras, que reúna objetivos similares o una de beneficencia. Dicho trámite se hará bajo la Supervisión de esta Secretaría de Estado, a efecto de garantizar el cumplimiento de las obligaciones y transparencia del remanente de los bienes a que hace referencia el párrafo primero de este mismo artículo.
 

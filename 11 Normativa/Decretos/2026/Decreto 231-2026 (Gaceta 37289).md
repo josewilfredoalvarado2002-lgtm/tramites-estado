@@ -11,7 +11,7 @@ paginas: "A. 11 - 13"
 sumario: "Decretos Nos. 222-2026, 223-2026, 2282026, 229-2026, 231-2026, 232-2026, 2332026, 256-2026, 269-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "9341098c429f80a2"
+huella: "1734614eb475e2dd"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 231-2026
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No.134-2026 y publicado en el Diario Oficial “La Gaceta” el 1 de julio de 2026, en su Edición No.37,182, que deberá leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No. 134-2026 y publicado en el Diario Oficial “La Gaceta” el 1 de julio de 2026, en su Edición No. 37,182, que deberá leerse de la manera siguiente:
 
 “ARTÍCULO 1.- Autorizar a la
 

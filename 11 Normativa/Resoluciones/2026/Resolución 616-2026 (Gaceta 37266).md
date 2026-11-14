@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución No. 616-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261009-37266/download"
 extraido: "2026-11-09"
-huella: "139268c42a5a6a89"
+huella: "70e676d4f6df67fb"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 616-2026
@@ -139,7 +139,7 @@ ARTÍCULO 12.- Después de Asamblea de Usuarios, la Junta Directiva; es el órga
 
 #### Artículo 13
 
-ARTÍCULO 13.- Para ser miembro de la Junta Directiva deberán cumplir con los requisitos establecidos en el artículo 13 del Reglamento de Juntas Administradoras de Agua Potable y estará conformada por siete (7) miembros, cinco Propietarios y dos Vocales: l.- Un Presidente(a); 2. -Un Vicepresidente(a); 3.- Un Secretario(a); 4.- Un Tesorero(a) ;
+ARTÍCULO 13.- Para ser miembro de la Junta Directiva deberán cumplir con los requisitos establecidos en el artículo 13 del Reglamento de Juntas Administradoras de Agua Potable y estará conformada por siete (7) miembros, cinco Propietarios y dos Vocales: l.- Un Presidente(a); 2. -Un Vicepresidente(a); 3.- Un Secretario(a); 4.- Un Tesorero(a);
 
 5.- Un Fiscal; 6.- Un Vocal Primero; y, 7.- Un Vocal Segundo.
 

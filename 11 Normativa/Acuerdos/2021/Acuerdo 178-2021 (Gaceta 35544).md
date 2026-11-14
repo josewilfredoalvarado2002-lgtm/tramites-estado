@@ -11,7 +11,7 @@ paginas: "A. 2 - 8"
 sumario: "Acuerdo No. 178-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210315-35544/download"
 extraido: "2026-11-14"
-huella: "e8c405db0d79ab1c"
+huella: "d5a69bcb84fe0ffb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 178-2021
@@ -47,11 +47,9 @@ POR TANTO:
 
 En uso de las facultades de que está investida y en aplicación de los Artículos 59 y 360 de la Constitución de la República;
 
-1, 5 reformado, 7, 43 reformado, 116, 118 y 122 de la Ley General de la Administración Pública; 2 y 83 del Código de la Niñez y la Adolescencia, contenido en el Decreto No.
+1, 5 reformado, 7, 43 reformado, 116, 118 y 122 de la Ley General de la Administración Pública; 2 y 83 del Código de la Niñez y la Adolescencia, contenido en el Decreto No. 73-96 de fecha 30 de mayo de 1996 y publicado en el Diario Oficial La Gaceta de fecha 5 de septiembre de 1996; y, 1, 6 numeral 1) y 3), 17 del Decreto Ejecutivo PCM-27-2014 del 4 de junio de 2014.
 
-73-96 de fecha 30 de mayo de 1996 y publicado en el Diario Oficial La Gaceta de fecha 5 de septiembre de 1996; y, 1, 6 numeral 1) y 3), 17 del Decreto Ejecutivo PCM-27-2014 del 4 de junio de 2014.
-
-A C U E R D A :
+ACUERDA:
 
 PRIMERO: Aprobar el siguiente:
 

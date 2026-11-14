@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Nos. 109-2021, 110-2021, 111-2021, 112-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211022-35752/download"
 extraido: "2026-11-14"
-huella: "7b7f9f2123218823"
+huella: "dd78f14be740b3f1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 109-2021
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 ACUERDA:
 
-PRIMERO: Cancelar a la ciudadana IRIS LORENA GALEANO BARRALAGA del cargo de Comisionada de la Agencia de Regulación Sanitaria (ARSA) , a quien se le rinden las gracias por los servicios prestados.
+PRIMERO: Cancelar a la ciudadana IRIS LORENA GALEANO BARRALAGA del cargo de Comisionada de la Agencia de Regulación Sanitaria (ARSA), a quien se le rinden las gracias por los servicios prestados.
 
 SEGUNDO: El presente acuerdo es efectivo a partir de su fecha y debe publicarse en “La Gaceta” el Diario Oficial de la República.
 

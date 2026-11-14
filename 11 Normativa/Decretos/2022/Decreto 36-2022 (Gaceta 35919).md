@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Decreto No. 36-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220510-35919/download"
 extraido: "2026-11-14"
-huella: "b612628555702fc3"
+huella: "67a6a07276f0ea58"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece en su Artículo 205 Atribución 31), que el Congreso Nacional decretará honores por relevantes servicios prestados a la Patria.
 
-CONSIDERANDO: Que según Decreto No.240-89 de fecha 15 de Diciembre de 1989 y publicado en el Diario Oficial “La Gaceta” de fecha 25 de Mayo de 1990, faculta al Congreso Nacional para otorgar condecoraciones a los hondureños y extranjeros que se hayan hecho acreedores de una exaltación y reconocimiento del pueblo hondureño, asimismo establece que la Condecoración de la GRAN CRUZ EXTRAORDINARIA CON PLACA DE ORO, puede concederse exclusivamente a Presidentes de la República, Ex Presidentes de la República, Presidentes Electos, Presidentes de Congresos y de Cortes Supremas de Justicia.
+CONSIDERANDO: Que según Decreto No. 240-89 de fecha 15 de Diciembre de 1989 y publicado en el Diario Oficial “La Gaceta” de fecha 25 de Mayo de 1990, faculta al Congreso Nacional para otorgar condecoraciones a los hondureños y extranjeros que se hayan hecho acreedores de una exaltación y reconocimiento del pueblo hondureño, asimismo establece que la Condecoración de la GRAN CRUZ EXTRAORDINARIA CON PLACA DE ORO, puede concederse exclusivamente a Presidentes de la República, Ex Presidentes de la República, Presidentes Electos, Presidentes de Congresos y de Cortes Supremas de Justicia.
 
 CONSIDERANDO: Que es un Honor para este Congreso Nacional reconocer el apoyo y la solidaridad que el Presidente de la hermana República de El Salvador NAYIB ARMANDO BUKELE ORTEZ, se manifestó con nuestro Pueblo en los momentos más difíciles durante el Huracán ETA e IOTA y durante la crisis sanitaria provocada por la COVID-19.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

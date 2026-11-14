@@ -11,7 +11,7 @@ paginas: "A. 9 - 16"
 sumario: "Acuerdos Nos. 02/2023, 03/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230223-36163/download"
 extraido: "2026-11-14"
-huella: "998f174bbcbfb20c"
+huella: "3b4bc4a902417ff0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 03/2023
@@ -27,7 +27,7 @@ huella: "998f174bbcbfb20c"
 
 ## Texto
 
-Sesión No.4012 del 9 de febrero de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+Sesión No. 4012 del 9 de febrero de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en el
 
@@ -35,9 +35,9 @@ Artículo 342 de la Constitución de la República y en los artículos 2, 6, 16 
 
 CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios, así como las que efectúe el sector público, se aplicará el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, la Normativa Complementaria a dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
-CONSIDERANDO: Que mediante Acuerdo No.07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos números 17/2021, 3/2022, 5/2022, 10/2022, 11/2022 y 14/2022, del 9 de diciembre de 2021, 3 de marzo, 31 de marzo, 2 de junio, 28 de julio de 2022 y 7 de septiembre de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos números 17/2021, 3/2022, 5/2022, 10/2022, 11/2022 y 14/2022, del 9 de diciembre de 2021, 3 de marzo, 31 de marzo, 2 de junio, 28 de julio de 2022 y 7 de septiembre de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
 
-CONSIDERANDO: Que de acuerdo con la propuesta de la Subgerencia Técnica y la Subgerencia de Estudios Económicos, referente a la dinamización en el Mercado Interbancario de Divisas (MID), el Comité de Divisas, en Sesión Ordinaria No.01/2023 del 7 de febrero de 2023, de manera unánime aprobó someter a consideración del Directorio lo siguiente: i) Los agentes cambiarios (Bancos y Casas de Cambio) deberán ofrecer en venta en el MID, como mínimo, el 25% de los ingresos de divisas del día anterior, mismos que no serán considerados en la afectación del límite de tenencia de divisas asignado a cada agente por el Directorio del BCH; ii) Establecer que los agentes cambiarios atenderán la demanda de divisas de las personas naturales hasta USD500.0 miles diarios y de US$1.0 millón para personas jurídicas; y, iii) El BCH pagará a los agentes cambiarios el 0.2% de comisión sobre los valores trasladados por excesos de tenencia de divisas.
+CONSIDERANDO: Que de acuerdo con la propuesta de la Subgerencia Técnica y la Subgerencia de Estudios Económicos, referente a la dinamización en el Mercado Interbancario de Divisas (MID), el Comité de Divisas, en Sesión Ordinaria No. 01/2023 del 7 de febrero de 2023, de manera unánime aprobó someter a consideración del Directorio lo siguiente: i) Los agentes cambiarios (Bancos y Casas de Cambio) deberán ofrecer en venta en el MID, como mínimo, el 25% de los ingresos de divisas del día anterior, mismos que no serán considerados en la afectación del límite de tenencia de divisas asignado a cada agente por el Directorio del BCH; ii) Establecer que los agentes cambiarios atenderán la demanda de divisas de las personas naturales hasta USD500.0 miles diarios y de US$1.0 millón para personas jurídicas; y, iii) El BCH pagará a los agentes cambiarios el 0.2% de comisión sobre los valores trasladados por excesos de tenencia de divisas.
 
 POR TANTO:
 
@@ -45,15 +45,15 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras;
 
-46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
 Modificar los literales a) y b) del numeral 1.2, el literal b) del numeral 3.1, el literal b) del numeral 4.1, el último párrafo del numeral 7.2 y el numeral 7.3; adicionar el literal h) al numeral 6.1 y derogar el literal
 
-c) del numeral 1.2 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No.14/2022, emitido por el Directorio del BCH el 7 de septiembre de 2022, que en lo sucesivo se leerán así:
+c) del numeral 1.2 de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No. 14/2022, emitido por el Directorio del BCH el 7 de septiembre de 2022, que en lo sucesivo se leerán así:
 
 “1.2 …
 

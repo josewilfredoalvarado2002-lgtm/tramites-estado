@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 9-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230502-36217/download"
 extraido: "2026-11-14"
-huella: "881cf8baf8f70630"
+huella: "09f404e9ea015e7b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 9-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 145 de la Constitución de la República “Se re
 
 CONSIDERANDO: Que la Comisión Interamericana de Derechos Humanos (CIDH), en el marco de la visita in loco realizada a Honduras en 2017, destacó la necesidad de incorporar una perspectiva de género en las políticas y medidas de protección de las personas afectadas por desastres naturales y emergencias, y recomendó al Estado de Honduras: “…elaborar y aplicar planes de emergencia y contingencia que contemplen la perspectiva de género, y que cuenten con una asignación presupuestaria adecuada para su implementación…”
 
-CONSIDERANDO: Que el Decreto Legislativo No.99-2020 de fecha 30 de Julio de 2020 y publicado en el Diario Oficial “La Gaceta”, el 25 de Agosto del 2020, Edición No.35,353, contentivo de las medidas especiales de difusión, prevención y atención de la violencia contra la Mujer y acciones para garantizar la igualdad de género durante la vigencia de la emergencia nacional declarada a raíz de la pandemia COVID-19 fue vigente únicamente durante el período que estuvieron suspendidas las Garantías Constitucionales a causa de dicha emergencia.
+CONSIDERANDO: Que el Decreto Legislativo No. 99-2020 de fecha 30 de Julio de 2020 y publicado en el Diario Oficial “La Gaceta”, el 25 de Agosto del 2020, Edición No. 35,353, contentivo de las medidas especiales de difusión, prevención y atención de la violencia contra la Mujer y acciones para garantizar la igualdad de género durante la vigencia de la emergencia nacional declarada a raíz de la pandemia COVID-19 fue vigente únicamente durante el período que estuvieron suspendidas las Garantías Constitucionales a causa de dicha emergencia.
 
 CONSIDERANDO: Que es importante destacar que la primera Presidenta Constitucional ha incorporado el enfoque de género de manera transversal en todas las políticas y acciones a desarrollarse por parte del Poder Ejecutivo.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -131,9 +131,9 @@ ARTÍCULO 14.- Estarán excluidas de las restricciones al derecho de libre circu
 
 #### Artículo 15
 
-ARTÍCULO 15.- Reformar el Artículo 6 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), contenida en el Decreto Legislativo No.151-2009 de fecha 21 de Julio de 2009, publicado en el Diario Oficial “La Gaceta”, Edición No.32,098 de fecha 26 de Diciembre del año 2009, en el sentido de incorporar en la conformación del Consejo Directivo del Sistema Nacional de Gestión de Riesgos (SINAGER), la representación de la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), a fin que esta entidad gubernamental garantice la igualdad de género en el plan de respuesta, la protección y el derecho a una vida libre de violencia hacia las mujeres y niñas, en tal sentido el mismo se debe leer de manera siguiente:
+ARTÍCULO 15.- Reformar el Artículo 6 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), contenida en el Decreto Legislativo No. 151-2009 de fecha 21 de Julio de 2009, publicado en el Diario Oficial “La Gaceta”, Edición No. 32,098 de fecha 26 de Diciembre del año 2009, en el sentido de incorporar en la conformación del Consejo Directivo del Sistema Nacional de Gestión de Riesgos (SINAGER), la representación de la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), a fin que esta entidad gubernamental garantice la igualdad de género en el plan de respuesta, la protección y el derecho a una vida libre de violencia hacia las mujeres y niñas, en tal sentido el mismo se debe leer de manera siguiente:
 
-“ A R T Í C U L O 6 . - C O N S E J O DIRECTIVO DEL SISTEMA NACIONAL DE GESTIÓN DE RIESGOS (SINAGER)…
+“ ARTÍCULO 6 . - CONSEJO DIRECTIVO DEL SISTEMA NACIONAL DE GESTIÓN DE RIESGOS (SINAGER)…
 
 \1) El titular…
 

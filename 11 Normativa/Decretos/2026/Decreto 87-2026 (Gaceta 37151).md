@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 87-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260526-37151/download"
 extraido: "2026-11-09"
-huella: "60435cd87da40b85"
+huella: "3882c0b371613654"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 87-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que como esfuerzos para implementar la Declaración de Doha adopta
 
 CONSIDERANDO: Que la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR) además de ser el ente rector y de dirección superior a nivel nacional de las políticas públicas en materia de deportes, educación física y recreación, debe tener como eje principal la prevención de la violencia y el delito, en el marco de la ejecución de las actividades de deporte, educación física y la recreación, como un mecanismo de prevención de la violencia y el delito.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 004-2026 de fecha 24 de Febrero de 2026, publicado en el Diario Oficial “La Gaceta” Número 37,079 del 25 de Febrero de 2026, la Dirección Nacional de Parques y Recreación (DNPR) fue adscrita como dependencia interna de la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR), fortaleciendo de esta manera su capacidad operativa, su presencia territorial y permitiendo una gestión integrada de los espacios públicos destinados al deporte, la recreación y la práctica de actividades físicas a nivel nacional.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-004-2026 de fecha 24 de Febrero de 2026, publicado en el Diario Oficial “La Gaceta” Número 37,079 del 25 de Febrero de 2026, la Dirección Nacional de Parques y Recreación (DNPR) fue adscrita como dependencia interna de la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR), fortaleciendo de esta manera su capacidad operativa, su presencia territorial y permitiendo una gestión integrada de los espacios públicos destinados al deporte, la recreación y la práctica de actividades físicas a nivel nacional.
 
 CONSIDERANDO: Que la reciente adscripción de la Dirección Nacional de Parques y Recreación (DNPR), aunada a la incorporación expresa del eje de prevención de la violencia y el delito como objetivo prioritario de la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR), genera nuevas y mayores necesidades operativas, técnicas y logísticas que demandan la contratación inmediata de personal especializado, servicios técnicos, mantenimiento de infraestructura, arrendamientos, suministros y otros servicios esenciales para garantizar el funcionamiento efectivo de la institución en el presente ejercicio fiscal.
 
@@ -57,7 +57,7 @@ DECRETA:
 
 ARTÍCULO 1.- Ratificar el Decreto Ejecutivo número PCM 18-2023 de fecha 24 de Abril del año 2023, publicado en el Diario Oficial “La Gaceta” en fecha 25 de Abril del 2023, donde se instituye la COMISIÓN NACIONAL DE DEPORTES, EDUCACIÓN FÍSICA Y RECREACIÓN (CONDEPOR) como ente desconcentrado de la Presidencia de la República, con personalidad jurídica, patrimonio y competencia propia, la cual ejercitará con autonomía técnica-administrativa y financiera.
 
-Asimismo, lo dispuesto en el Artículo 14 del Decreto Ejecutivo PCM-004- 2026 de fecha 24 de Febrero del año 2026, publicada en el Diario Oficial “La Gaceta” Número 37,079 de fecha 25 de Febrero del año 2026, en cuanto a la adscripción de la Dirección Nacional de Parques y Recreación (DNPR) como dependencia interna de la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR).
+Asimismo, lo dispuesto en el Artículo 14 del Decreto Ejecutivo PCM-004-2026 de fecha 24 de Febrero del año 2026, publicada en el Diario Oficial “La Gaceta” Número 37,079 de fecha 25 de Febrero del año 2026, en cuanto a la adscripción de la Dirección Nacional de Parques y Recreación (DNPR) como dependencia interna de la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR).
 
 #### Artículo 2
 
@@ -87,7 +87,7 @@ a) La contratación de personal técnico, administrativo, operativo y especializ
 
 b) La ejecución de programas y proyectos de prevención de la violencia a través del deporte, educación física y recreación;
 
-c) E l m a n t e n i m i e n t o , rehabilitación y equipamiento de instalaciones deportivas y parques recreativos bajo su administración;
+c) El mantenimiento, rehabilitación y equipamiento de instalaciones deportivas y parques recreativos bajo su administración;
 
 d) La prestación de servicios de seguridad, limpieza, transporte y logística necesarios para el desarrollo de actividades masivas y territoriales; y,
 

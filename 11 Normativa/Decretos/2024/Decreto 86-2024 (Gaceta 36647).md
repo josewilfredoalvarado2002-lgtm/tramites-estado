@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto No. 86-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240923-36647/download"
 extraido: "2026-11-14"
-huella: "61dcaa731a264042"
+huella: "af1080bac30fdf7a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 86-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -77,9 +77,7 @@ EL CONSEJO NACIONAL ELECTORAL (CNE).
 
 CONSIDERANDO: Que conforme a lo establecido en el artículo 51 de la Constitución de la República de Honduras, el Consejo Nacional Electoral, es el órgano especial, autónomo e independiente, sin relaciones de subordinación con los Poderes del Estado, con competencia exclusiva para efectuar los actos y procedimientos administrativos y técnicos de las elecciones internas, primarias, generales, plebiscito y referéndum o consultas ciudadanas. Tiene competencia en todo el territorio nacional y su domicilio es en la capital de la República.
 
-Su integración, organización, funcionamiento, sistemas y procesos son de seguridad nacional. CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto No.
-
-137-2016 de fecha dos (2) de noviembre de dos mil dieciséis (2016), publicado en el Diario Oficial La Gaceta No. 34,242 de fecha 18 de enero de 2017, creó la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, con el objeto de establecer las normas relativas al sistema de financiamiento, transparencia y fiscalización de los recursos públicos y privados de los partidos políticos, candidatos y candidatas. CONSIDERANDO: Que el artículo 14 de la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, dispone que el Consejo Nacional Electoral, diez (10) días después de la convocatoria a elecciones primarias, debe determinar de manera diferenciada por tipo de elección los límites de gastos de campaña electoral, según el nivel electivo. CONSIDERANDO: Que el Consejo Nacional Electoral, en cumplimiento del Artículo 193 de la Ley Electoral de Honduras, convocó a los partidos políticos a Elecciones Primarias en fecha ocho (8) de septiembre de dos mil veinticuatro (2024), por lo que es procedente cumplir con el mandato legal dentro del plazo establecido en la Ley.
+Su integración, organización, funcionamiento, sistemas y procesos son de seguridad nacional. CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto No. 137-2016 de fecha dos (2) de noviembre de dos mil dieciséis (2016), publicado en el Diario Oficial La Gaceta No. 34,242 de fecha 18 de enero de 2017, creó la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, con el objeto de establecer las normas relativas al sistema de financiamiento, transparencia y fiscalización de los recursos públicos y privados de los partidos políticos, candidatos y candidatas. CONSIDERANDO: Que el artículo 14 de la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, dispone que el Consejo Nacional Electoral, diez (10) días después de la convocatoria a elecciones primarias, debe determinar de manera diferenciada por tipo de elección los límites de gastos de campaña electoral, según el nivel electivo. CONSIDERANDO: Que el Consejo Nacional Electoral, en cumplimiento del Artículo 193 de la Ley Electoral de Honduras, convocó a los partidos políticos a Elecciones Primarias en fecha ocho (8) de septiembre de dos mil veinticuatro (2024), por lo que es procedente cumplir con el mandato legal dentro del plazo establecido en la Ley.
 
 CONSIDERANDO: Que, en armonía con la Ley Electoral de Honduras, el artículo 15 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, establece la fórmula para fijar los gastos de campaña electoral respecto de sus límites para cada nivel electivo. En el caso del nivel electivo de Presidente y Designados, multiplicando el número total de ciudadanos registrados en el Censo Nacional Electoral por el doble del costo por voto, actualizado por el Consejo Nacional Electoral. En el caso del nivel electivo de Diputados al Congreso Nacional, multiplicando el número total de ciudadanos registrados en el Censo Departamental Electoral por el doble del costo por voto, actualizado por el Consejo Nacional Electoral. Se dividirá entre el número de puestos a competir en el respectivo Departamento. En el caso del nivel electivo de Corporaciones Municipales se tomará el número de electores en el municipio de que se trate, multiplicado por el doble del costo por voto. CONSIDERANDO: Que en uso de las facultades establecidas en el Artículo 320 de la Ley Electoral de Honduras, el Consejo Nacional Electoral estableció para las Elecciones Primarias 2025, un valor de voto de cuarenta y tres Lempiras con veinticinco centavos (L 43.25), tomando en consideración el valor del voto de las Elecciones Primarias 2021, Elecciones Generales 2021 y un equilibrio con el índice de precio al consumidor a la fecha. CONSIDERANDO: Que el artículo 14 de la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, dispone que en ningún caso el límite de los gastos de campaña de las Elecciones primarias debe ser inferior al límite de los gastos de campaña de las Elecciones Generales del proceso electoral anterior.
 

@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Ejecutivos Nos. 317-A-2022, 21-2022, 68-2022, 71-2022, 72-2022, 75-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220801-35990/download"
 extraido: "2026-11-14"
-huella: "4ba3722c91789de7"
+huella: "fb97fbe93b3faefe"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 317-A-2022
@@ -29,7 +29,7 @@ huella: "4ba3722c91789de7"
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119, y 122 de la Ley General de la Administración Pública; 5 y 17 del Decreto Ejecutivo PCM- 05-2022.
+11, 12, 28, 29, 116, 118, 119, y 122 de la Ley General de la Administración Pública; 5 y 17 del Decreto Ejecutivo PCM-05-2022.
 
 ACUERDA
 

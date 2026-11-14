@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ministerial No. SAG-003-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250203-36756/download"
 extraido: "2026-11-13"
-huella: "c0ff6cd090b51dd0"
+huella: "7a6edd277f3e0472"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SAG-003-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la pesca y la acuicultura constituyen rubros estratégicos del
 
 CONSIDERANDO
 
-Q u e l o s r i e s g o s d e sobreexplotación actual de los recursos hidrobiológicos obligan a la adopción de medidas y regulaciones para el ordenamiento, gestión y protección de los recursos hidrobiológicos con potencial pesquero, asegurando el aprovechamiento sostenible en beneficio de las generaciones presentes y futuras.
+Que los riesgos de sobreexplotación actual de los recursos hidrobiológicos obligan a la adopción de medidas y regulaciones para el ordenamiento, gestión y protección de los recursos hidrobiológicos con potencial pesquero, asegurando el aprovechamiento sostenible en beneficio de las generaciones presentes y futuras.
 
 CONSIDERANDO:
 
@@ -113,7 +113,7 @@ a. Coordinador (a) – del equipo del PMP Caracol rosado.
 
 b. Técnico / inspector de plantas procesadoras.
 
-c. J e f e d e I n v e s t i g a c i ó n - DIGEPESCA.
+c. Jefe de Investigación - DIGEPESCA.
 
 d. Autoridad Nacional de la CITES.
 
@@ -147,7 +147,7 @@ QUINTO:
 
 Las embarcaciones que participarán en la temporada pesquera 2025, serán aquellas que cumplieron las disposiciones establecidas en la Ley General de Pesca y Acuicultura y en el Acuerdo Ministerial SAG-117-2024.
 
-SEXTO :
+SEXTO:
 
 Se autoriza la comercialización de los subproductos del Caracol rosado, entre ellos: Opérculo (uña de caracol), trimming (cortes), perlas y concha, las cuales deben estar registradas (en cantidad) en la Acta de Desembarque, siempre y cuando se cumplan las medidas de control de CITES y la planta procesadora/empacadora presente hoja de control de liquidación exponiendo el valor en libras y kilos del opérculo (uña de caracol), trimming (cortes), perlas y conchas obtenidos en el producto procesado por cada una de las embarcaciones según su registro de desembarque.
 
@@ -183,13 +183,13 @@ DÉCIMO
 
 SEGUNDO:
 
-Es responsabilidad de los armadores y plantas procesadoras comercializar la captura total para el mercado nacional, ningún remanente de cuota nacional será autorizado para exportación, DEBIENDO O B L I G A T O R I A M E N T E COMERCIALIZAR ESTA CUOTA EN EL PAÍS.
+Es responsabilidad de los armadores y plantas procesadoras comercializar la captura total para el mercado nacional, ningún remanente de cuota nacional será autorizado para exportación, DEBIENDO OBLIGATORIAMENTE COMERCIALIZAR ESTA CUOTA EN EL PAÍS.
 
 DÉCIMO
 
 TERCERO:
 
-El 100% de la cuota de captura de caracol rosado destinada al mercado nacional, se comercializará a través de las plantas procesadoras/ e m p a c a d o r a s d e b i d a m e n t e autorizadas por la DIGEPESCA y registradas por el SENASA, debiendo remitir mensualmente un Reporte de Comercialización con sus respectivos comprobantes (facturas de compraventa) a la Unidad de Estadísticas, Oficina Regional y a la Coordinación Técnica PMP de Caracol Rosado. El Departamento de Control y Fiscalización hará las verificaciones durante inspecciones para validar el origen del caracol en restaurantes, supermercados, etc.
+El 100% de la cuota de captura de caracol rosado destinada al mercado nacional, se comercializará a través de las plantas procesadoras/ empacadoras debidamente autorizadas por la DIGEPESCA y registradas por el SENASA, debiendo remitir mensualmente un Reporte de Comercialización con sus respectivos comprobantes (facturas de compraventa) a la Unidad de Estadísticas, Oficina Regional y a la Coordinación Técnica PMP de Caracol Rosado. El Departamento de Control y Fiscalización hará las verificaciones durante inspecciones para validar el origen del caracol en restaurantes, supermercados, etc.
 
 MONITOREO BIOLÓGICO
 
@@ -353,7 +353,7 @@ VIGÉSIMO
 
 OCTAVO:
 
-La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557- 20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Rosado (Aliger gigas) dentro de nuestra ZEE.
+La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557-20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Rosado (Aliger gigas) dentro de nuestra ZEE.
 
 VIGÉSIMO
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdo No. SETRASS-227-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260504-37132/download"
 extraido: "2026-11-09"
-huella: "219dfea3b6262122"
+huella: "bed6cbfbfbbf3811"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-227-2026
@@ -55,7 +55,7 @@ CONSIDERANDO (10): Que mediante el PCM-008-97 en su artículo 35 "La administrac
 
 El anteproyecto de presupuesto será preparado de acuerdo con las prioridades y metas de inversión y gasto público oficialmente establecidas. La contabilidad financiera se ajustará a las normas que emita la Contaduría General de la República".
 
-CONSIDERANDO (11): Que, de conformidad con la Recomendación No. 4 contenida en el Informe de Auditoría Financiera y de Cumplimiento Legal No. 001- 2023-DRESTSS-A, emitido por el Tribunal Superior de Cuentas, se instruye la creación de una Tesorería Especial, así como su incorporación formal en el organigrama institucional, proponiéndose para tal efecto las actividades y el respectivo plan de acción propuesto al TSC debiéndose implementarse por parte de esta Secretaría de Estado para su cumplimiento.
+CONSIDERANDO (11): Que, de conformidad con la Recomendación No. 4 contenida en el Informe de Auditoría Financiera y de Cumplimiento Legal No. 001-2023-DRESTSS-A, emitido por el Tribunal Superior de Cuentas, se instruye la creación de una Tesorería Especial, así como su incorporación formal en el organigrama institucional, proponiéndose para tal efecto las actividades y el respectivo plan de acción propuesto al TSC debiéndose implementarse por parte de esta Secretaría de Estado para su cumplimiento.
 
 CONSIDERANDO (12): Que, en virtud del artículo 321 de la Constitución de la República, los servidores del Estado solo poseen las facultades expresamente conferidas por la Ley, siendo nulos los actos fuera de dicho marco, y conforme al artículo 36 de la Ley General de la Administración Pública, los Secretarios de Estado, como colaboradores del Presidente de la República, ejercen dentro de sus atribuciones la dirección, coordinación, supervisión y control de sus despachos, la emisión de acuerdos, entre otros, asegurando la legalidad, eficiencia, transparencia y eficacia en la gestión administrativa.
 
@@ -67,7 +67,7 @@ ACUERDA
 
 PRIMERO: Aprobar la implementación de los servicios de la Unidad de Tesorería, la cual quedará adscrita jerárquicamente a la Gerencia Administrativa, como parte de la estructura organizacional institucional; conforme al artículo 6 de las Normas Técnicas del Subsistema de Tesorería, que establece que las Tesorerías deberán contar
 
-TERCERO: Autorizar las siguientes funciones de la Unidad de Tesorería: 1) Pago a proveedores por bienes y servicios públicos; 2) Pago de horas extraordinarias; 3) Elaboración y liquidación de viáticos nacionales e internacionales; 4) Pago de gastos de representación al Exterior y Nacionales y no liquidables; 5) Administración de Fondo Rotatorio de pagador especial; 6) Elaboración de órdenes de pago para organismos internacionales , instituciones sin fines de lucro e instituciones descentralizadas; 7) Integración de Comité de con una estructura organizativa que garantice eficiencia y eficacia en el cumplimiento de sus funciones.
+TERCERO: Autorizar las siguientes funciones de la Unidad de Tesorería: 1) Pago a proveedores por bienes y servicios públicos; 2) Pago de horas extraordinarias; 3) Elaboración y liquidación de viáticos nacionales e internacionales; 4) Pago de gastos de representación al Exterior y Nacionales y no liquidables; 5) Administración de Fondo Rotatorio de pagador especial; 6) Elaboración de órdenes de pago para organismos internacionales, instituciones sin fines de lucro e instituciones descentralizadas; 7) Integración de Comité de con una estructura organizativa que garantice eficiencia y eficacia en el cumplimiento de sus funciones.
 
 SEGUNDO: Definir la estructura organizacional a la cual depende la Unidad de Tesorería.
 

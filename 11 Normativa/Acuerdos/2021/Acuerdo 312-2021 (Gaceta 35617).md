@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos números 312-2021, 313-2021, 324-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210603-35617/download"
 extraido: "2026-11-14"
-huella: "9f69fa7ad2781763"
+huella: "df9dc7c60088696d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 312-2021
@@ -51,7 +51,7 @@ ARTÍCULO 1: Autorizar al Licenciado LUIS FERNANDO MATA ECHEVERRI, en su condici
 
 #### Artículo 2
 
-ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No.213-2021 de fecha 4 de marzo de 2021.
+ARTÍCULO 2: Dejar sin valor y efecto el Acuerdo Ejecutivo No. 213-2021 de fecha 4 de marzo de 2021.
 
 #### Artículo 3
 

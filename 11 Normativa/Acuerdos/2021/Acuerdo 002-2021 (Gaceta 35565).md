@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo DGMM No. 002-2021, 003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210408-35565/download"
 extraido: "2026-11-14"
-huella: "979e79c84339eebe"
+huella: "ba16f1a54a90570e"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 002-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley Orgánica de la Marina Mercante Nacional, establece que
 
 CONSIDERANDO: Que la Dirección General de la Marina Mercante está a cargo de la administración, control y coordinación de todas las actividades relacionadas con la marina mercante y el transporte marítimo, la seguridad marítima y la protección del medio ambiente marino; así como la Formación y Titulación de la Gente de Mar.
 
-CONSIDERANDO: Mediante Acuerdo DGMM No.016- 2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
+CONSIDERANDO: Mediante Acuerdo DGMM No. 016-2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
 
 CONSIDERANDO: Que la aplicación del Acuerdo 016-2015 ha permitido la consideración de la reforma de algunos de sus artículos a efecto de poder tener mejores medidas de control a fin de seguir garantizando el efectivo cumplimiento de la normativa internacional y nacional en la materia.
 
@@ -57,13 +57,13 @@ En uso de las facultades que le confiere el artículo 245 numeral 11) de la Cons
 
 ACUERDA:
 
-PRIMERO: Reformar los numerales 14 y 16 del Apéndice I del Acuerdo DGMM No.016-2015 de fecha 03 de junio de 2015, publicado en el Diario Oficial “La Gaceta” 33,759 de 18 de junio de 2015 de la siguiente forma:
+PRIMERO: Reformar los numerales 14 y 16 del Apéndice I del Acuerdo DGMM No. 016-2015 de fecha 03 de junio de 2015, publicado en el Diario Oficial “La Gaceta” 33,759 de 18 de junio de 2015 de la siguiente forma:
 
 Los Centros de Formación y sus sucursales que prestarán los servicios de formación en nombre de la Dirección General de la Marina Mercante como Autoridad Marítima de Honduras, deberán cumplimentar los siguientes requisitos:
 
 … 14. El Centro de Formación y sus sucursales, estará sujeto a la respectivas Auditorías de conformidad con lo establecido en el Reglamento sobre el procedimiento para reconocer centros de formación marítima… … 16. Los Centros de Formación Marítima Autorizados remitirán mensualmente al Departamento de Gente de Mar el reporte de los cursos impartidos, indicando los cursos impartidos por cada sucursal…
 
-SEGUNDO: Reformar por adición el Apéndice I del Acuerdo DGMM No.016-2015 de fecha 03 de junio de 2015, publicado en el Diario Oficial “La Gaceta” 33,759 de 18 de junio de 2015 de la siguiente forma:
+SEGUNDO: Reformar por adición el Apéndice I del Acuerdo DGMM No. 016-2015 de fecha 03 de junio de 2015, publicado en el Diario Oficial “La Gaceta” 33,759 de 18 de junio de 2015 de la siguiente forma:
 
 …23. Para que un Centro de Formación y sus sucursales puedan impartir formación a bordo, debe ser solicitada a través de Apoderado Legal y autorizada por la Dirección General de la Marina Mercante, previo Informe Técnico procedente ante el Departamento de Gente de Mar, el cual verificará que los cursos que pueden impartirse a bordo y que no requieran el uso de simuladores; asimismo que no pongan en peligro la vida humana ni la instalación del Buque.
 

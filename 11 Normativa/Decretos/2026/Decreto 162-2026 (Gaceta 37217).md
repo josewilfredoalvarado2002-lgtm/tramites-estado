@@ -11,7 +11,7 @@ paginas: "A. 1 - 67"
 sumario: "Decretos Nos. 162-2026, 163-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260811-37217/download"
 extraido: "2026-11-09"
-huella: "a4cea547221714c0"
+huella: "683b5183e6ec4bb4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 162-2026
@@ -35,17 +35,17 @@ CONSIDERANDO: Que la República de Honduras enfrenta desafíos estructurales en 
 
 CONSIDERANDO: Que el fortalecimiento de la política fiscal en Honduras requiere mejorar la capacidad institucional y los marcos normativos en materia de gestión macro fiscal, administración de ingresos tributarios y ejecución del gasto público, a fin de incrementar la transparencia, eficiencia y el uso de los recursos del Estado, así como de generar mayor espacio fiscal para la inversión pública y el desarrollo social.
 
-CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y en el marco del “Programa de Fortalecimiento Fiscal para el Crecimiento Inclusivo”, ha convenido suscribir el Contrato de Préstamo No.6144/BLHO en el Banco Interamericano de Desarrollo (BID), para la ejecución del Programa en mención, mismo que tiene por objetivo apoyar la ejecución de un programa de reforma de políticas para fortalecer la sostenibilidad fiscal de Honduras.
+CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y en el marco del “Programa de Fortalecimiento Fiscal para el Crecimiento Inclusivo”, ha convenido suscribir el Contrato de Préstamo No. 6144/BLHO en el Banco Interamericano de Desarrollo (BID), para la ejecución del Programa en mención, mismo que tiene por objetivo apoyar la ejecución de un programa de reforma de políticas para fortalecer la sostenibilidad fiscal de Honduras.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 1, 19 y 36 de la Constitución de la República es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes; asimismo, aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, Aprobar o improbar los empréstitos o convenios similares-que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO NO.6144/BL-HO, suscrito el 18 de junio de 2026, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta CIEN MILLONES DE DÓLARES de los Estados Unidos de América (US$100,000,000.00), recursos destinados a la ejecución d e l “ P R O G R A M A D E FORTALECIMIENTO FISCAL PA R A E L C R E C I M I E N T O INCLUSIVO”, que literalmente dice...
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO NO.6144/BL-HO, suscrito el 18 de junio de 2026, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de hasta CIEN MILLONES DE DÓLARES de los Estados Unidos de América (US$100,000,000.00), recursos destinados a la ejecución d e l “ PROGRAMA DE FORTALECIMIENTO FISCAL PA R A E L C R E C I M I E N T O INCLUSIVO”, que literalmente dice...
 
 _______________________________________________ _________ Resolución DE-36/26 PROYECTO DE CONTRATO DE PRÉSTAMO No. 6144/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO Programa de Fortalecimiento Fiscal para el Crecimiento Inclusivo 18 de junio de 2026 ________________________________________________ LEG/SGO/CID/EZIDB0000366-269233204-15270 HO-L1261 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES INTRODUCCIÓN Partes, Objeto, Elementos Integrantes, Organismo Ejecutor
 
@@ -79,7 +79,7 @@ Solicitud de desembolsos y moneda de los desembolsos. (a) El Prestatario podrá 
 
 CLÁUSULA 1.03.
 
-Disponibilidad de moneda. Si el Banco no tuviese acceso a Dólares, el Banco, en acuerdo con el Prestatario , podrá efectuar el desembolso del Préstamo en otra moneda de su elección.
+Disponibilidad de moneda. Si el Banco no tuviese acceso a Dólares, el Banco, en acuerdo con el Prestatario, podrá efectuar el desembolso del Préstamo en otra moneda de su elección.
 
 CLÁUSULA 1.04.
 
@@ -611,7 +611,7 @@ A
 
 VPP
 
- −     j i m n 1 1 ,    , j i 365 j i = =   = AT donde:
+ −     j i m n 1 1,    , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -1095,7 +1095,7 @@ ARTÍCULO 5.13. Conversiones de Protección contra Catástrofes. Cada Conversió
 
 (B) Costos. El Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la totalidad de los costos pendientes, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco.
 
-(C) Primas – Monto de protección no agotado. En el supuesto que el Monto de Liquidación en Efectivo no agote el Monto de la Protección de la Conversión d e P r o t e c c i ó n c o n t r a Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco, hasta un máximo del cincuenta por ciento (50%) del Monto de Liquidación en Efectivo.
+(C) Primas – Monto de protección no agotado. En el supuesto que el Monto de Liquidación en Efectivo no agote el Monto de la Protección de la Conversión de Protección contra Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco, hasta un máximo del cincuenta por ciento (50%) del Monto de Liquidación en Efectivo.
 
 (D) Primas – Monto de protección agotado. En el supuesto que el Monto de Liquidación en Efectivo agote el Monto de la Protección de la Conversión de Protección contra Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la totalidad de la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco (iii) Saldo restante. En caso de que el Evento de Liquidación en Efectivo agote el Monto de la Protección y, después de deducir del Monto de Liquidación en Efectivo las correspondientes comisiones, costos y primas descritas anteriormente, el Prestatario aún debe al Banco cualquier monto de comisiones, costos o primas, entonces el Prestatario deberá prontamente efectuar el pago de dicho monto al Banco de acuerdo con los términos y forma indicada por el Banco.
 

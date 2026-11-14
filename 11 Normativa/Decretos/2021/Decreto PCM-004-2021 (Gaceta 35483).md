@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-004-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210110-35483/download"
 extraido: "2026-11-14"
-huella: "c554536dc435c62c"
+huella: "53d6861f0f2da4ce"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-004-2021
@@ -35,11 +35,9 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 58-2020, publicado en el Diario Oficial “La Gaceta” en fecha Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-004-2021 A. 1 - 8 23 de mayo de 2020, Edición No. 35, 261, se creó la LEY DE USO OBLIGATORIO DE MASCARILLAS Y APLICACIÓN DE PROTOCOLOS DE BIOSEGURIDAD, en la cual se establece como obligatoriedad el uso de mascarilla o cubre bocas para todas las personas sin excepción alguna que deambulen en la calle en todo el territorio nacional o cuando asistan o permanezcan en lugares públicos, o privados a la que asistan más de cinco (5) personas en el mismo espacio.
 
-58-2020, publicado en el Diario Oficial “La Gaceta” en fecha Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-004-2021 A. 1 - 8 23 de mayo de 2020, Edición No. 35, 261, se creó la LEY DE USO OBLIGATORIO DE MASCARILLAS Y APLICACIÓN DE PROTOCOLOS DE BIOSEGURIDAD, en la cual se establece como obligatoriedad el uso de mascarilla o cubre bocas para todas las personas sin excepción alguna que deambulen en la calle en todo el territorio nacional o cuando asistan o permanezcan en lugares públicos, o privados a la que asistan más de cinco (5) personas en el mismo espacio.
-
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020 Edición No. 35,472, mediante el cual se prorroga la vigencia de la declaratoria de Emergencia Humanitaria y Sanitaria decretada según Decreto Ejecutivo Número PCM-005-2020, reformado por los Decretos Ejecutivos Números: PCM-016-2020 y PCM- 023-2020 y mediante Decreto Ejecutivo Número PCM-001- 2021, se decretó restringir a nivel nacional por un plazo de siete (7) días a partir del día lunes cuatro (4) hasta el domingo diez (10) de enero del 2021, las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-146-2020, publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020 Edición No. 35,472, mediante el cual se prorroga la vigencia de la declaratoria de Emergencia Humanitaria y Sanitaria decretada según Decreto Ejecutivo Número PCM-005-2020, reformado por los Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020 y mediante Decreto Ejecutivo Número PCM-001-2021, se decretó restringir a nivel nacional por un plazo de siete (7) días a partir del día lunes cuatro (4) hasta el domingo diez (10) de enero del 2021, las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República.
 
 CONSIDERANDO: Que se reporta un número de contagios por la Pandemia de COVID-19 que asciende a: 127,226 casos, 58,788 personas recuperadas y 3,275 fallecidos a nivel nacional, estos datos según la información epidemiológica en Honduras al 10 de enero del 2021 y siendo necesario continuar con las medidas de Restricción de Garantías Constitucionales que contribuyan a contrarrestar el contagio de la referida Pandemia.
 
@@ -47,7 +45,7 @@ CONSIDERANDO: Que el Gobierno de la República de Honduras a través de sus dife
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321, 323 y 333 de la Constitución de la República;
 
-Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266- 2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Legislativo Números: 33-2020, 42- 2020, 58-2020, 62-2020 y 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-043-2020, PCM-045-2020, PCM- 047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM- 061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM- 085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM- 106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123- 2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020 y PCM-001-2021.
+Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Legislativo Números: 33-2020, 42-2020, 58-2020, 62-2020 y 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-043-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020 y PCM-001-2021.
 
 DECRETA:
 
@@ -223,7 +221,7 @@ ARTÍCULO 4.- Ratificar el Artículo 4 del Decreto Ejecutivo Número PCM-001-202
 
 #### Artículo 5
 
-ARTÍCULO 5.- Se instruye a la Comisión Interinstitucional, creada mediante Decreto Ejecutivo Número PCM-043- 2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de mayo de 2020, Edición No. 35,248, verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes.
+ARTÍCULO 5.- Se instruye a la Comisión Interinstitucional, creada mediante Decreto Ejecutivo Número PCM-043-2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de mayo de 2020, Edición No. 35,248, verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes.
 
 Referida Comisión Interinstitucional está integrada por las Instituciones siguientes:
 

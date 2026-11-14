@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Resolución de Pleno No. 1-2021, Decreto No. 14-2021, Decreto No. 27-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "41b94b14503816df"
+huella: "85f1c91fd54eff43"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 14-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 43-B estable
 
 CONSIDERANDO: Que el Registro Nacional de las Personas llevó a cabo la implementación y ejecución del PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE), el cual busca mediante la emisión del nuevo Documento Nacional de Identificación (DNI), contribuir a la modernización de la identificación ciudadana a través de la creación de un nuevo registro digital biométrico de personas, generando confianza y eficiencia en la función registral.
 
-CONSIDERANDO: Que en el Artículo 6 del Decreto Legislativo No.130-2020, de fecha 01 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” fecha 17 de octubre del mismo año en la Edición Número 35,402 se aprobó ampliar la vigencia de la actual Tarjeta de Identidad hasta el 15 de mayo del año 2021, sin embargo, debido a diferentes inconvenientes en la emisión y entrega del nuevo Documento Nacional de Identificación (DNI) se hace necesario ampliar la vigencia de la misma hasta que se logre la identificación total de todos los ciudadanos legalmente aptos para dicho trámite, así como la entrega del documento una vez que el mismo sea emitido.
+CONSIDERANDO: Que en el Artículo 6 del Decreto Legislativo No. 130-2020, de fecha 01 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” fecha 17 de octubre del mismo año en la Edición Número 35,402 se aprobó ampliar la vigencia de la actual Tarjeta de Identidad hasta el 15 de mayo del año 2021, sin embargo, debido a diferentes inconvenientes en la emisión y entrega del nuevo Documento Nacional de Identificación (DNI) se hace necesario ampliar la vigencia de la misma hasta que se logre la identificación total de todos los ciudadanos legalmente aptos para dicho trámite, así como la entrega del documento una vez que el mismo sea emitido.
 
 CONSIDERANDO: Que de conformidad al Artículo 40 de la Constitución de la República es deber de todo ciudadano, “Obtener su Tarjeta de Identidad”, por ello se deben establecer los mecanismos que permitan a cada hondureño contar con su documento de identificación legalmente vigente y evitar de esta manera que los mismos se puedan ver limitados en el ejercicio de sus derechos o afectados en la realización de diferentes trámites por la falta de su documento de identidad, en este caso por situaciones ajenas a su voluntad.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 6 del Decreto Legislativo No.130-2020, de fecha 01 de Octubre del 2020, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Octubre del mismo año, en la Edición número 35,402, el cual debe leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 6 del Decreto Legislativo No. 130-2020, de fecha 01 de Octubre del 2020, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Octubre del mismo año, en la Edición número 35,402, el cual debe leerse de la siguiente manera:
 
 “ARTÍCULO 6- VIGENCIA DE LA TARJETA DE IDENTIDAD. …
 

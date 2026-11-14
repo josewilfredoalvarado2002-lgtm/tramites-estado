@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdos Ejecutivos Nos. 007-2023, 008-2023, 009-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240126-36444/download"
 extraido: "2026-11-14"
-huella: "8f80b91c1183651c"
+huella: "93def78dc0d0079b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 007-2023
@@ -79,7 +79,7 @@ La Antigüedad de la Sub Inspectora de Policía, Lesli Xiomara Amador Andino con
 
 TERCERO:
 
-La Antigüedad de las Sub Inspectoras de los Servicios, Claudia Rosibel Alvarado López con Documento Nacional de Identificación 0607-1991-00331 e Irma Mercedes Espinoza Bonilla con Documento Nacional de Identificación 0605-1986- 00364, es efectiva a partir del 1 de enero del Año 2023.
+La Antigüedad de las Sub Inspectoras de los Servicios, Claudia Rosibel Alvarado López con Documento Nacional de Identificación 0607-1991-00331 e Irma Mercedes Espinoza Bonilla con Documento Nacional de Identificación 0605-1986-00364, es efectiva a partir del 1 de enero del Año 2023.
 
 CUARTO:
 

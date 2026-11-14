@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 65-2020, 67-2020, 72-2020, 97-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200812-35341/download"
 extraido: "2026-11-14"
-huella: "8854a6def7db5eb2"
+huella: "799db9271ca91470"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 65-2020
@@ -41,7 +41,7 @@ Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 MEDIDAS TEMPORALES PARA GARANTIZAR LA CONTINUIDAD DEL TRATAMIENTO DE HEMODIÁLISIS Y DIÁLISIS PERITONEAL A TODOS LOS PACIENTES CON INSUFICIENCIA RENAL CRÓNICA EN HONDURAS DURANTE LA EMERGENCIA POR LA PANDEMIA DEL COVID-19
 

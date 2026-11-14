@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 84-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241007-36658/download"
 extraido: "2026-11-14"
-huella: "1608d3aff3193204"
+huella: "62555d4a899622f2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 84-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la evolución democrática del Estado demanda la creación de 
 
 CONSIDERANDO: Que el Artículo 360 de la Constitución de la República dispone que toda Contratación estatal debe someterse a licitación o concurso, con excepción de los contratos que tengan por objeto proveer a las necesidades ocasionadas por un Estado de Emergencia.
 
-CONSIDERANDO: Que el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, contenido en el Decreto No.62-2023 del 16 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2024, en su Artículo 102, ya establece un procedimiento especial abreviado para que las instituciones que conforman la Administración Central y Descentralizada, incluida empresas, institutos y municipalidades, puedan contratar bienes y servicios, suministros, ejecución de obras, arrendamiento de bienes y prestación de servicios de consultoría por cuantía superior a SEISCIENTOS MIL LEMPIRAS (L.600,000.00).
+CONSIDERANDO: Que el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, contenido en el Decreto No. 62-2023 del 16 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2024, en su Artículo 102, ya establece un procedimiento especial abreviado para que las instituciones que conforman la Administración Central y Descentralizada, incluida empresas, institutos y municipalidades, puedan contratar bienes y servicios, suministros, ejecución de obras, arrendamiento de bienes y prestación de servicios de consultoría por cuantía superior a SEISCIENTOS MIL LEMPIRAS (L.600,000.00).
 
 CONSIDERANDO: Que por mandato constitucional el Consejo Nacional Electoral (CNE) en 2025 debe llevar a cabo dos (2) Procesos Electorales, el primero el de Elecciones Primarias en Marzo y el segundo de las Elecciones Generales, el último domingo de Noviembre de 2025. Que los procedimientos administrativos requieren de tiempos prolongados, por aspectos no imputables a la institución; pues, pueden declararse fracasados y requerir lanzar nuevos procesos, lo cual implica mayor tiempo.
 
@@ -51,7 +51,7 @@ DECRETA:
 
 La siguiente:
 
-LEY PARA LA ADMINISTRACIÓN Y EJECUCIÓN TRANSPARENTE DEL PRESUPUESTO ELECTORAL PARA ELECCIONES PRIMARIAS 2025 A R T Í C U L O 1 . - A U T O R I Z A C I Ó N D E PROCEDIMIENTO ESPECIAL PARA CONTRATACIONES. Se autoriza al Consejo Nacional Electoral (CNE), para que, sin perjuicio de lo establecido en la Ley de Contratación del Estado, su Reglamento y demás normativa aplicable, a partir de la entrada en vigencia del presente Decreto y hasta las Elecciones Primarias 2025, contrate mediante procedimiento especial o de forma directa, los suministros, bienes y servicios, ejecución de obras, arrendamiento de bienes y prestación de servicios de consultoría, que sean necesarios para el desarrollo efectivo de las Elecciones Primarias 2025, cuya modalidad de contratación sea de licitación o concurso, de acuerdo con las disposiciones vigentes.
+LEY PARA LA ADMINISTRACIÓN Y EJECUCIÓN TRANSPARENTE DEL PRESUPUESTO ELECTORAL PARA ELECCIONES PRIMARIAS 2025 ARTÍCULO 1 . - AUTORIZACIÓN DE PROCEDIMIENTO ESPECIAL PARA CONTRATACIONES. Se autoriza al Consejo Nacional Electoral (CNE), para que, sin perjuicio de lo establecido en la Ley de Contratación del Estado, su Reglamento y demás normativa aplicable, a partir de la entrada en vigencia del presente Decreto y hasta las Elecciones Primarias 2025, contrate mediante procedimiento especial o de forma directa, los suministros, bienes y servicios, ejecución de obras, arrendamiento de bienes y prestación de servicios de consultoría, que sean necesarios para el desarrollo efectivo de las Elecciones Primarias 2025, cuya modalidad de contratación sea de licitación o concurso, de acuerdo con las disposiciones vigentes.
 
 #### Artículo 2
 

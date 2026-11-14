@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Institucional No. ICF-015-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260429-37129/download"
 extraido: "2026-11-09"
-huella: "aca88af333b48078"
+huella: "6a25c83157b51d5a"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-015-2026
@@ -39,7 +39,7 @@ CONSIDERANDO (04): Que la Ley Forestal Áreas Protegidas y Vida Silvestre, estab
 
 CONSIDERANDO (05): Que el Área Protegida Refugio de Vida Silvestre PUCA es declarada mediante la Ley de Bosques Nublados (Decreto 87-87). El Refugio de Vida Silvestre PUCA forma parte del Sistema Nacional de Áreas Protegidas de Honduras (SINAPH), cuya finalidad es facilitar la conservación de los recursos naturales mediante mecanismos de coordinación y planificación; así mismo forma parte del Corredor Biológico Mesoamericano (CBM) y representa un área de importancia en la continuidad y conectividad de la Reserva del Hombre y la Biosfera Cacique Lempira Señor de las Montañas.
 
-CONSIDERANDO (06): Que esta área protegida se encuentra dentro de la categoría de Refugio de Vida Silvestre, los cuales, según el Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre son definidos: Área donde la protección es esencial para la existencia de especies definidas de vida silvestre. Su función principal es asegurar la perpetuidad de las especies, poblaciones y hábitat de vida silvestre y servir para uso científico, educativo o recreativo cuando no vaya en contra del objetivo primordial. El aprovechamiento controlado de algunos de sus recursos puede permitirse, según lo estime el plan de manejo respectivo.”, (Acuerdo Ejecutivo No. 031- 2010, 2010, Artículo 324).
+CONSIDERANDO (06): Que esta área protegida se encuentra dentro de la categoría de Refugio de Vida Silvestre, los cuales, según el Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre son definidos: Área donde la protección es esencial para la existencia de especies definidas de vida silvestre. Su función principal es asegurar la perpetuidad de las especies, poblaciones y hábitat de vida silvestre y servir para uso científico, educativo o recreativo cuando no vaya en contra del objetivo primordial. El aprovechamiento controlado de algunos de sus recursos puede permitirse, según lo estime el plan de manejo respectivo.”, (Acuerdo Ejecutivo No. 031-2010, 2010, Artículo 324).
 
 CONSIDERANDO (07): Que el Área Protegida Refugio de Vida Silvestre Puca representa uno de los sitios de importancia para la conservación de los ecosistemas y la biodiversidad a nivel nacional y de manera específica para el occidente del país, generando innumerables bienes y servicios ambientales a los habitantes de las comunidades de influencia, extendiéndose entre los Municipios de La Iguala, Las Flores, Lepaera y Gracias, en el departamento de Lempira.
 
@@ -61,7 +61,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Derogar el Acuerdo Institucional N°036- 2012, procediéndose a dejar sin valor ni efecto legal todas y cada una de sus partes y contenido.
+ARTÍCULO 1: Derogar el Acuerdo Institucional N°036-2012, procediéndose a dejar sin valor ni efecto legal todas y cada una de sus partes y contenido.
 
 #### Artículo 2
 

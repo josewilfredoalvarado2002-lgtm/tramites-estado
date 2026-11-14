@@ -11,7 +11,7 @@ paginas: "A. 1 - 27"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220228-35860/download"
 extraido: "2026-11-14"
-huella: "093b7e6353fe2149"
+huella: "10faf142ff47b01e"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -51,7 +51,7 @@ Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 
 
 ACUERDA
 
-PRIMERO: APROBAR LA MODIFICACIÓN AL REGISTRO SANITARIO POR CAMBIO O A M P L I A C I Ó N D E E S TA B L E C I M I E N TO S COMERCIALIZADORES DE MEDICAMENTOS VETERINARIOS Y PRODUCTOS AFINES, Y ESTABLECIMIENTOS COMERCIALIZADORES DE PRODUCTOS UTILIZADOS EN ALIMENTACIÓN ANIMAL.
+PRIMERO: APROBAR LA MODIFICACIÓN AL REGISTRO SANITARIO POR CAMBIO O AMPLIACIÓN DE ES TA B L E C I M I E N TO S COMERCIALIZADORES DE MEDICAMENTOS VETERINARIOS Y PRODUCTOS AFINES, Y ESTABLECIMIENTOS COMERCIALIZADORES DE PRODUCTOS UTILIZADOS EN ALIMENTACIÓN ANIMAL.
 
 SEGUNDO: La empresa titular de un registro sanitario que requiera autorizar empresas para realizar importaciones de sus productos, debe solicitar una modificación del Registro Sanitario, presentando en el Sistema de Gestión Electrónica de Registro (GER) el servicio de modificación por cambio o ampliación de importador, en el área al que corresponda de acuerdo al tipo de producto, ya sea Medicamento Veterinario o Productos Utilizados en Alimentación Animal.
 
@@ -103,7 +103,7 @@ Artículo 3.- El SENASA, cobrará por los servicios prestados en el Departamento
 
 Registro Registro Renovación Renovación.
 
-2 años 5 años 2 años 5 años Permiso de importación de plaguicidas y coadyuvantes transportados en contenedor/cisterna/carro- tanque.
+2 años 5 años 2 años 5 años Permiso de importación de plaguicidas y coadyuvantes transportados en contenedor/cisterna/carro-tanque.
 
 21 Permiso de importación de plaguicidas y coadyuvantes transportados en contenedor.
 
@@ -121,7 +121,7 @@ CONSIDERANDO: Que el Artículo 218 de las Disposiciones Generales del Presupuest
 
 CONSIDERANDO: Que el artículo 37 del Reglamento de Viáticos y Otros Gastos de Viaje del Poder Ejecutivo, establece que conforme al Decreto Ejecutivo No. PCM.005.2002 de fecha 27 de mayo del 2002, manda a que todos los Organismos desconcentrados y descentralizados deberán adaptar sus reglamentos de viáticos y otros gastos de viaje a dicho reglamento.
 
-CONSIDERANDO: Que el artículo 14 numeral 3 del PCM- 015-2020, establece como función del Consejo Directivo el discutir y aprobar los reglamentos y manuales que someta a consideración el Director General.
+CONSIDERANDO: Que el artículo 14 numeral 3 del PCM-015-2020, establece como función del Consejo Directivo el discutir y aprobar los reglamentos y manuales que someta a consideración el Director General.
 
 CONSIDERANDO: Que es necesario cumplir y hacer cumplir la Ley, con el propósito de regular el otorgamiento de viáticos y gastos de viaje dentro y fuera del país, que permita a los funcionarios y empleados del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), para el cumplimiento de la misión institucional.
 
@@ -403,7 +403,7 @@ CONSIDERANDO (4 ): Que el Gobierno de la República mediante Decreto Ejecutivo N
 
 “Declarar Estado de Emergencia Sanitaria, en el Sistema de Salud Pública a nivel nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19)”.
 
-CONSIDERANDO (5): Que mediante Decreto PCM-030- 2020 de fecha de abril de dos mil veinte, publicado en el Diario Oficial La Gaceta el 9 de abril de dos mil veinte, se instruye al Servicio Nacional de Sanidad Animal (SENASA), como institución encargada de otorgar al sector agroalimentario las certificaciones, registro, permiso de operaciones y otros trámites, que debe simplificar y digitalizar su otorgamiento en un plazo máximo de quince (15) días hábiles. Mientras dure el periodo de restricción de garantías constitucionales, los productores pueden presentar solicitud de permiso o licencia con una garantía de cumplimiento de las normas aplicables, esta garantía de cumplimiento será fijada por cada institución ya sea como declaración jurada u otra de forma expedita.
+CONSIDERANDO (5): Que mediante Decreto PCM-030-2020 de fecha de abril de dos mil veinte, publicado en el Diario Oficial La Gaceta el 9 de abril de dos mil veinte, se instruye al Servicio Nacional de Sanidad Animal (SENASA), como institución encargada de otorgar al sector agroalimentario las certificaciones, registro, permiso de operaciones y otros trámites, que debe simplificar y digitalizar su otorgamiento en un plazo máximo de quince (15) días hábiles. Mientras dure el periodo de restricción de garantías constitucionales, los productores pueden presentar solicitud de permiso o licencia con una garantía de cumplimiento de las normas aplicables, esta garantía de cumplimiento será fijada por cada institución ya sea como declaración jurada u otra de forma expedita.
 
 CONSIDERANDO (6): Que mediante ACUERDO/SENASA No. 006-2020 publicado en el Diario Oficial La Gaceta en fecha cuatro (04) de mayo del año dos mil veinte (2020) se aprueba el Procedimiento Especial para el Registro y Aprobación Temporal de Establecimientos y Productos Sujetos de Registro de las Áreas de Inocuidad Agroalimentaria, Sanidad Vegetal y Salud Animal del SENASA.
 

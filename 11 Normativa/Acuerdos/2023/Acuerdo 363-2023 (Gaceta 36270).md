@@ -8,7 +8,7 @@ gaceta_numero: 36270
 gaceta_fecha: "2023-07-01"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36270 (2023-07-01)|La Gaceta 36270]]"
 paginas: "A. 1 - 2"
-sumario: "Acuerdos Nos. 363-2023, 386-2023, 395-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDADAcuerdo No. SEN-44-2023"
+sumario: "Acuerdos Nos. 363-2023, 386-2023, 395-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD: Acuerdo No. SEN-44-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230701-36270/download"
 extraido: "2026-11-14"
 huella: "44ef1e8aa93f3460"
@@ -23,7 +23,7 @@ huella: "44ef1e8aa93f3460"
 | Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36270 (2023-07-01)\|La Gaceta 36270]] del 2023-07-01 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 363-2023, 386-2023, 395-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDADAcuerdo No. SEN-44-2023 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 363-2023, 386-2023, 395-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD: Acuerdo No. SEN-44-2023 |
 
 ## Texto
 

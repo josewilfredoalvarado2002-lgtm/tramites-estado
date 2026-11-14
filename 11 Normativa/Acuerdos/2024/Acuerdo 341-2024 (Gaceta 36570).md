@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Acuerdo Ejecutivo No. 149-2024,Acuerdos Nos. 282-2024, 341-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240626-36570/download"
 extraido: "2026-11-14"
-huella: "1d62c4e8fe58a4ea"
+huella: "7c41f01d01a44b2e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 341-2024
@@ -43,13 +43,11 @@ CONSIDERANDO: Que, según el Reglamento de Ley de Igualdad de Oportunidades, en 
 
 CONSIDERANDO: Que, en el marco del Plan Bicentenario del Gobierno para la Refundación de la Patria y Construcción del Estado Socialista y democrático, en su numeral 5 de Género, “Nada sobre nosotras, sin nosotras”, en la propuesta primera manifiesta: “Introducir la perspectiva de equidad de género mediante la participación de verdad paritaria en todo proceso político”.
 
-CONSIDERANDO: Que sí bien el Decreto Ejecutivo PCM- 055-2017, creó y adscribe a la Dirección de Planificación y Gobernabilidad Local la unidad de género, esta es de alcance limitado y con competencia a nivel de Gobierno locales, requiriéndose de ampliar y redefinir una unidad que de forma transversal permee todas las esferas del quehacer institucional a nivel de la Secretaría de Gobernación, Justicia y Descentralización, de igual forma cuente con la voluntad política institucional, necesaria transferir esas herramientas a las administraciones municipales, promoviendo la transversalización de la perspectiva de género de manera integral, evitando así la duplicidad de esfuerzos y dispersión en el tema.
+CONSIDERANDO: Que sí bien el Decreto Ejecutivo PCM-055-2017, creó y adscribe a la Dirección de Planificación y Gobernabilidad Local la unidad de género, esta es de alcance limitado y con competencia a nivel de Gobierno locales, requiriéndose de ampliar y redefinir una unidad que de forma transversal permee todas las esferas del quehacer institucional a nivel de la Secretaría de Gobernación, Justicia y Descentralización, de igual forma cuente con la voluntad política institucional, necesaria transferir esas herramientas a las administraciones municipales, promoviendo la transversalización de la perspectiva de género de manera integral, evitando así la duplicidad de esfuerzos y dispersión en el tema.
 
 POR TANTO:
 
-En aplicación de los artículos: 1, 59, 60, 247, 255, 321 y 323 de la Constitución de la República de Honduras; 33, 36 numeral 8), 116, 118 y 122 de la Ley General de la Administración Pública; 2 y 6 del Decreto Legislativo No.
-
-34-2000 correspondiente a Ley de Igualdad de Oportunidades para la Mujer; 3 numeral 13 y 8 del Acuerdo Ejecutivo 058-2008, contentivo del Reglamento de la Ley Igualdad de Oportunidades para la Mujer; y, 6 del Decreto Ejecutivo PCM-055-2017.
+En aplicación de los artículos: 1, 59, 60, 247, 255, 321 y 323 de la Constitución de la República de Honduras; 33, 36 numeral 8), 116, 118 y 122 de la Ley General de la Administración Pública; 2 y 6 del Decreto Legislativo No. 34-2000 correspondiente a Ley de Igualdad de Oportunidades para la Mujer; 3 numeral 13 y 8 del Acuerdo Ejecutivo 058-2008, contentivo del Reglamento de la Ley Igualdad de Oportunidades para la Mujer; y, 6 del Decreto Ejecutivo PCM-055-2017.
 
 ACUERDA:
 

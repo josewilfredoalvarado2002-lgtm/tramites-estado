@@ -11,7 +11,7 @@ paginas: "A. 6 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210113-35486/download"
 extraido: "2026-11-14"
-huella: "ce367213e5252187"
+huella: "0f22d58eb7f89ddd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-615-2020
@@ -87,9 +87,7 @@ CONSIDERANDO: Que debido a los efectos de las fuertes lluvias y a la difícil si
 
 POR TANTO:
 
-En aplicación al Artículo 245 numeral 11 y 321 de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fito Zoosanitaria; Decreto Nº.
-
-157-94 y los artículos 1 y 8 del Decreto Ejecutivo PCM- 015-2020; Decreto Legislativo No. 266-2013; Artículo 13 del Decreto Ejecutivo PCM-032-2018; Artículo 1 del Decreto Ejecutivo PCM-109-2020 reformado mediante Decreto Ejecutivo PCM-112-2020 publicado en el Diario Oficial La Gaceta Número 35,421
+En aplicación al Artículo 245 numeral 11 y 321 de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fito Zoosanitaria; Decreto Nº. 157-94 y los artículos 1 y 8 del Decreto Ejecutivo PCM-015-2020; Decreto Legislativo No. 266-2013; Artículo 13 del Decreto Ejecutivo PCM-032-2018; Artículo 1 del Decreto Ejecutivo PCM-109-2020 reformado mediante Decreto Ejecutivo PCM-112-2020 publicado en el Diario Oficial La Gaceta Número 35,421
 
 ACUERDA
 
@@ -125,9 +123,7 @@ CONSIDERANDO: Que de acuerdo con lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No.
-
-266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes.”
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes.”
 
 CONSIDERANDO: Que los fenómenos naturales “ETA” e “IOTA”, han estremecido de forma devastadora al país y en particular al Sector Agroalimentario, por lo que es necesario tomar medidas de carácter urgente y extraordinario para apoyar la recuperación de este sector productivo, para además de contribuir a su reactivación económica y fortalecer la seguridad alimentaria de la población.
 
@@ -135,9 +131,9 @@ CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance
 
 CONSIDERANDO: Que la Constitución de la República otorga al Presidente de la República facultades especiales para asegurar los derechos de las personas y garantizar el suministro de bienes y servicios estratégicos en épocas de emergencia.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, el cual fue reformado por los Decretos Ejecutivos Números PCM- 016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020 respectivamente, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, siendo uno de sus propósitos fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (Covid-19), estableciéndose, además, que la declaratoria de la referida emergencia tendrá vigencia hasta el 31 de diciembre de 2020, misma que podrá ser prorrogada.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, el cual fue reformado por los Decretos Ejecutivos Números PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020 respectivamente, se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, siendo uno de sus propósitos fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (Covid-19), estableciéndose, además, que la declaratoria de la referida emergencia tendrá vigencia hasta el 31 de diciembre de 2020, misma que podrá ser prorrogada.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,317, reformado mediante Decretos Ejecutivos Números: PCM 112-2020, PCM-115-2020 y PCM-116- 2020, se declaró estado emergencia a nivel nacional, por los efectos de las fuertes lluvias provocadas por las tormentas tropicales “ETA” e “IOTA”, las cuales causaron graves daños a la infraestructura vial y al Sector Agrícola del País, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19. Asimismo mediante el Decreto Ejecutivo Número PCM-120-2020, se emitió declaratoria de situación de calamidad pública nacional, en virtud de los efectos destructivos causados por ambos fenómenos naturales, sumados a la crisis sanitaria y humanitaria causada por el Virus del Covid-19.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,317, reformado mediante Decretos Ejecutivos Números: PCM 112-2020, PCM-115-2020 y PCM-116-2020, se declaró estado emergencia a nivel nacional, por los efectos de las fuertes lluvias provocadas por las tormentas tropicales “ETA” e “IOTA”, las cuales causaron graves daños a la infraestructura vial y al Sector Agrícola del País, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19. Asimismo mediante el Decreto Ejecutivo Número PCM-120-2020, se emitió declaratoria de situación de calamidad pública nacional, en virtud de los efectos destructivos causados por ambos fenómenos naturales, sumados a la crisis sanitaria y humanitaria causada por el Virus del Covid-19.
 
 CONSIDERANDO: Que el Artículo 4 de la Ley de Contratación del Estado establece que la Administración goza de Libertad de Pactos, en el sentido que podrá concertar los contratos, pactos o condiciones que tenga por conveniente, siempre que estén en consonancia con el Ordenamiento Jurídico y con los principios de la sana y buena administración, debiendo respetar los procedimientos de Ley.
 
@@ -153,7 +149,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en el Artículos 59, 145, 245 numerales 2, 11, 20, 29 y 32; 255, 321, 323, 328, 332 y 347 de la Constitución de la República; Artículos 11, 17, 22 numeral 5), 116, 117 y 119 de la Ley General de la Administración Pública y su reformas; Declaración Universal de Derechos Humanos de 1948; Artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1996); Artículos 4 y 63 numeral 1) de la Ley de Contratación del Estado;
 
-Decreto Ejecutivo Número PCM-005-2020 reformado por los Decretos Ejecutivos Números PCM-016-2020 y PCM-023- 2020, PCM 109-2020, reformado por los Decretos Ejecutivos número PCM-112-2020, PCM 115-2020 y PCM 116-2020.
+Decreto Ejecutivo Número PCM-005-2020 reformado por los Decretos Ejecutivos Números PCM-016-2020 y PCM-023-2020, PCM 109-2020, reformado por los Decretos Ejecutivos número PCM-112-2020, PCM 115-2020 y PCM 116-2020.
 
 DECRETA:
 

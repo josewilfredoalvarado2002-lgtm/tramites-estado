@@ -11,7 +11,7 @@ paginas: "A. 1 - 21"
 sumario: "Acuerdo Ejecutivo número 019-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210519-35603/download"
 extraido: "2026-11-14"
-huella: "8cf4923341b0138b"
+huella: "956da658eaca925a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 019-2021
@@ -29,9 +29,7 @@ huella: "8cf4923341b0138b"
 
 Tegucigalpa, municipio del Distrito Central, 28 de Enero de 2021 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-182-2020 de fecha 22 de diciembre de 2020, publicado en el Diario Oficial La Gaceta No. 35468 del 23 de diciembre de 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2021, incluyendo las Normas de Ejecución Presupuestaria que regularán la ejecución del mismo.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 182-2020 de fecha 22 de diciembre de 2020, publicado en el Diario Oficial La Gaceta No. 35468 del 23 de diciembre de 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2021, incluyendo las Normas de Ejecución Presupuestaria que regularán la ejecución del mismo.
 
 CONSIDERANDO: Que para la correcta y efectiva aplicación de las Normas de Ejecución Presupuestarias es necesario aprobar las normas reglamentarias adecuadas que las viabilicen y complementen.
 

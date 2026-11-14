@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Nos. 055-2019, 066-2019, 071-2019, 072-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200227-35186/download"
 extraido: "2026-11-14"
-huella: "7ee808da220c1399"
+huella: "6b6cbb6048120eec"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 055-2019
@@ -31,9 +31,7 @@ El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso 
 
 ACUERDA:
 
-1. Primero: aprobar en todas y cada una de sus partes la acción de Servicio Civil que literalmente dice: PRESIDENCIA DE LA REPUBLICA. - DIRECCION GENERAL DE SERVICIO CIVIL. ACCION DE PERSONAL No 002. Nombre del Servidor: NORMA PATRICIA REYES CRUZ, Identidad No.
-
-0801-1978-03286, Tipo de Acción: ASCENSO No. 002, Fecha de efectividad: 01 DE AGOSTO DE 2019 Hasta (fecha inclusive) ESTADO PRESENTE: INSTITUCIÓN: 030 Secretaría de la Presidencia. PROGRAMA: 001. SUBPROGRAMA:
+1. Primero: aprobar en todas y cada una de sus partes la acción de Servicio Civil que literalmente dice: PRESIDENCIA DE LA REPUBLICA. - DIRECCION GENERAL DE SERVICIO CIVIL. ACCION DE PERSONAL No 002. Nombre del Servidor: NORMA PATRICIA REYES CRUZ, Identidad No. 0801-1978-03286, Tipo de Acción: ASCENSO No. 002, Fecha de efectividad: 01 DE AGOSTO DE 2019 Hasta (fecha inclusive) ESTADO PRESENTE: INSTITUCIÓN: 030 Secretaría de la Presidencia. PROGRAMA: 001. SUBPROGRAMA:
 
 ACTIVIDAD OBRA: 003 EVALUACIÓN, SELECCIÓN Y ADIESTRAMIENTO DE PERSONAL VERSION 01 GERENCIA ADMINISTRATIVA 001 GERENCIA CENTRAL.
 

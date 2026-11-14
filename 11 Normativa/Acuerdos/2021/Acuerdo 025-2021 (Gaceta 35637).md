@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo Ejecutivo número 025-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210624-35637/download"
 extraido: "2026-11-14"
-huella: "d8fe51353d34a0f9"
+huella: "a11290edb1dcfd84"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 025-2021
@@ -33,13 +33,11 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 245, numeral
 
 CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante acuerdo número 031- 2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica suscripción del convenio del desafío del milenio, celebrado en la ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo número. 230-2005; consecuentemente mediante Decreto Legislativo número 233-2005 publicado en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio.
+CONSIDERANDO: Que mediante acuerdo número 031-2005 del 27 de julio de 2005 el Poder Ejecutivo ratifica suscripción del convenio del desafío del milenio, celebrado en la ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo número. 230-2005; consecuentemente mediante Decreto Legislativo número 233-2005 publicado en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo identificado con el número de PCM-056-2018, aprobado en Consejo de Secretarios de Estado de fecha 31 de agosto del 2018 y que a su vez fuese aprobado en todas y cada una de sus partes por el Congreso Nacional de la República mediante Decreto Legislativo Número 97-2018, publicado en el Diario Oficial La Gaceta en fecha 11 de octubre de 2018 y su reforma ha instruido a INVEST-Honduras/ MCA-Honduras, el proceder a incrementar el patrimonio fideicometido en el fideicomiso para la administración del fondo de Acceso al Crédito Agrícola de MCA-Honduras, ahora a ser denominado “Fideicomiso de Infraestructura Vial” de manera que con dicho incremento del patrimonio fideicometido se atiendan obras de infraestructura tales como construcción, rehabilitación, mejoramiento, mantenimiento rutinario y mantenimiento periodico de la red vial del país asi como ejecutar otros proyectos relacionados estrictamente con infraestructura que sea de interes nacional y complementario a las obras de infraestructura para lo que fue creado este Fideicomiso.
 
-CONSIDERANDO: Que el decreto 181-2018 de fecha 31 de diciembre del 2018, reforma por adición el Decreto No.
-
-97-2018 de fecha 6 de septiembre de 2018 incorporando en su articulo 2:
+CONSIDERANDO: Que el decreto 181-2018 de fecha 31 de diciembre del 2018, reforma por adición el Decreto No. 97-2018 de fecha 6 de septiembre de 2018 incorporando en su articulo 2:
 
 2-A.- El fideicomiso de Infraestructura Vial queda habilitado para ejecutar proyectos de otro tipo de infraestructura que sea de interés nacional y complementario de las obras de infraestructura para el cual fue creado el Fideicomiso de Infraestructura Vial, para lo cual el Presidente de la República deberá instruir lo pertinente a Inversión Estratégica de Honduras (INVEST-H) mediante el Acuerdo respectivo.
 
@@ -55,9 +53,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo 124-2001 de fecha 24 de Septiembr
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en su Artículo 2, párrafo tercero, establece que los organismos de derecho privado deben colaborar con la Administración Pública en el cumplimiento de sus fines, así como, los demás órganos a los que por razones de eficiencia o economía se les permita ejercer una o más funciones administrativas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043 – 2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043 – 2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO;
 
@@ -65,7 +61,7 @@ En uso de las facultades legales establecidas en los
 
 Artículos 5, 245 numerales 2), 11), 19) y 45,20) y 30) y demás aplicables de la Constitución de la República; 2, 11, 17, 18, 19, 20, 21, 22, 23,24, 25, 26, 27, 116, 117, 118 y 119 de la Ley General de la Administración Pública;
 
-Decreto Legislativo No. 230-2005, Decreto Legislativo No. 233-2005,Decreto Legislativo No. 16-2017, Decreto Legislativo No.97-2018, Decreto Legislativo No. 181-2018, Decreto Legislativo No.161-2018; y, Decretos Ejecutivos Números PCM-006-2014, PCM-009-2018 reformado por el PCM-025-2018, PCM-034-2018, PCM-056-2020.
+Decreto Legislativo No. 230-2005, Decreto Legislativo No. 233-2005,Decreto Legislativo No. 16-2017, Decreto Legislativo No. 97-2018, Decreto Legislativo No. 181-2018, Decreto Legislativo No. 161-2018; y, Decretos Ejecutivos Números PCM-006-2014, PCM-009-2018 reformado por el PCM-025-2018, PCM-034-2018, PCM-056-2020.
 
 ACUERDA:
 
@@ -87,7 +83,7 @@ ARTÍCULO 4.- Los recursos para ejecutar las obras identificadas por el Fondo Ca
 
 #### Artículo 5
 
-ARTÍCULO 5.- Los proyectos de infraestructura vial de la red vial oficial y no oficial del Estado que se realicen a través del Fondo Cafetero Nacional en zonas productoras de café y requieran licencias ambientales, permisos de explotación de bancos de materiales y demás autorizaciones, se regirán conforme a lo dispuesto en el Artículo 2, 3 y 4 del Decreto Legislativo No.52-2019 de fecha 06 de junio de 2019.
+ARTÍCULO 5.- Los proyectos de infraestructura vial de la red vial oficial y no oficial del Estado que se realicen a través del Fondo Cafetero Nacional en zonas productoras de café y requieran licencias ambientales, permisos de explotación de bancos de materiales y demás autorizaciones, se regirán conforme a lo dispuesto en el Artículo 2, 3 y 4 del Decreto Legislativo No. 52-2019 de fecha 06 de junio de 2019.
 
 #### Artículo 6
 

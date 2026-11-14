@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. SEN-30-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250514-36837/download"
 extraido: "2026-11-11"
-huella: "ca890902e222614f"
+huella: "5fcd5c43e5959f0b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-30-2025
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad al Convenio de referencia, el personal que en v
 
 CONSIDERANDO: Que en fecha 2 de abril del 2025, se envió Oficio 250-2025-SEN-DM, por parte del Despacho Ministerial de esta Secretaría de Estado a la Gerencia General de la Empresa Nacional de Energía Eléctrica (ENEE), solicitando un colaborador con experiencia en el área de Recursos Humanos con formación académica en el área Legal, con la finalidad de mejorar el manejo de área de Recursos Humanos.
 
-CONSIDERANDO: Que se recibió en fecha 11 de abril 2025, Oficio GG ENEE-0228-IV-2025, mediante el cual notifica la asignación de la ciudadana Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801- 1998-09178, asignación que fue aceptada por la Secretaría de Estado en el Despacho de Energía.
+CONSIDERANDO: Que se recibió en fecha 11 de abril 2025, Oficio GG ENEE-0228-IV-2025, mediante el cual notifica la asignación de la ciudadana Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801-1998-09178, asignación que fue aceptada por la Secretaría de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que la ciudadana Abogada Julissa Saraí Osorio Sánchez cuenta con la experiencia, conocimiento y manejo de líneas estratégicas del área de Recursos Humanos, así como conocimiento del aspecto legal relacionado con el manejo de Recursos Humanos, siendo esto un punto clave para el mejoramiento de varios aspectos en esta área de esta Secretaría de Estado.
 
@@ -47,7 +47,7 @@ POR TANTO,
 
 ACUERDA:
 
-PRIMERO: Delegar a la Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801- 1998-09178, conforme a su traslado interinstitucional convenido entre la Empresa Nacional de Energía Eléctrica (ENEE) y la Secretaría de Estado en el Despacho de Energía (SEN), en el marco del convenio interinstitucional de cooperación vigente entre ambas Instituciones, confiriéndole las funciones y atribuciones inherentes a la titularidad de la Subgerencia de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía (SEN), en todas las atribuciones y competencias atribuidas a dicha Subgerencia, siendo esta funcionaria pública desde el momento de esta delegación la única autorizada para ejercer estas funciones.
+PRIMERO: Delegar a la Abogada Julissa Saraí Osorio Sánchez, con Documento Nacional de Identificación 0801-1998-09178, conforme a su traslado interinstitucional convenido entre la Empresa Nacional de Energía Eléctrica (ENEE) y la Secretaría de Estado en el Despacho de Energía (SEN), en el marco del convenio interinstitucional de cooperación vigente entre ambas Instituciones, confiriéndole las funciones y atribuciones inherentes a la titularidad de la Subgerencia de Recursos Humanos de la Secretaría de Estado en el Despacho de Energía (SEN), en todas las atribuciones y competencias atribuidas a dicha Subgerencia, siendo esta funcionaria pública desde el momento de esta delegación la única autorizada para ejercer estas funciones.
 
 SEGUNDO: La delegada es responsable de la función delegada y presentará al Despacho Ministerial de la Secretaría de Estado en el Despacho de Energía y a la Gerencia General de la Empresa Nacional de Energía Eléctrica un informe mensual de las actividades efectuadas en virtud de esta delegación.
 

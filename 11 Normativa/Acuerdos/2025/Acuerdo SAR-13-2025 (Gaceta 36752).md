@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Números SAR-636-2024, SAR-13-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250129-36752/download"
 extraido: "2026-11-13"
-huella: "511226aaa8eb7689"
+huella: "0536c22480ea4297"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-13-2025
@@ -33,13 +33,9 @@ CONSIDERANDO: Que mediante el Artículo 195 del Decreto Legislativo número 170-
 
 CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las atribuciones de la Administración Tributaria: 1)…; 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, … y la Ley; 13)…; y 15) Cualquier otra facultad o atribución que establezca la Ley, en sus respectivas competencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 202-2024 de fecha 11 de septiembre del 2024 se nombró a la Suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado, con facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
 
-202-2024 de fecha 11 de septiembre del 2024 se nombró a la Suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango de Secretaria de Estado, con facultades para emitir y ejecutar los actos administrativos conforme a la Ley.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social, y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 

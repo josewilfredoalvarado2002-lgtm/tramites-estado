@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 005-SG-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261031-37283/download"
 extraido: "2026-11-09"
-huella: "c41dbb34059fe22b"
+huella: "0b4934dc6a2d7569"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-SG-2026
@@ -41,13 +41,13 @@ CONSIDERANDO: Que la Secretaría de Relaciones Exteriores y Cooperación Interna
 
 CONSIDERANDO: Que, en el marco de las competencias legales de la Secretaría de Relaciones Exteriores y Cooperación Internacional, lo relativo a cualquier consideración sobre la clasificación migratoria de nacionales de otros Estados, debe de realizarse tomando en cuenta las relaciones entre los países, los objetivos de su política exterior, disposiciones jurídicas a ser aplicadas, sin perjuicio de las atribuciones que correspondan a las autoridades competentes en materia migratoria.
 
-CONSIDERANDO: Que mediante Acuerdo No. 005-SG- 2024, de fecha 6 de junio de 2024 publicado en el Diario Oficial "La Gaceta" en fecha 4 de julio de 2024, ejemplar No.36,577, el Gobierno de la República aprobó el cambio de categoría "A" exento de visa a categoría "B" (visa consular), sin excepción alguna, a los nacionales del Reino Unido de Gran Bretaña e Irlanda del Norte y Regiones Administrativas Especiales de la República Popular China: Portadores de pasaportes británico-originarios de Hong Kong en cuyo interior se lee “Nationality British” (Nacionalidad Británica) y a los originarios de los otros territorios británicos.
+CONSIDERANDO: Que mediante Acuerdo No. 005-SG-2024, de fecha 6 de junio de 2024 publicado en el Diario Oficial "La Gaceta" en fecha 4 de julio de 2024, ejemplar No. 36,577, el Gobierno de la República aprobó el cambio de categoría "A" exento de visa a categoría "B" (visa consular), sin excepción alguna, a los nacionales del Reino Unido de Gran Bretaña e Irlanda del Norte y Regiones Administrativas Especiales de la República Popular China: Portadores de pasaportes británico-originarios de Hong Kong en cuyo interior se lee “Nationality British” (Nacionalidad Británica) y a los originarios de los otros territorios británicos.
 
 CONSIDERANDO: Que la reversión de cambio de categoría mencionada anteriormente, después de realizado un análisis exhaustivo del flujo de ingreso al país de los ciudadanos de estos países, ha generado repercusiones en los intereses sociales, políticos, económicos del Estado hondureño y especialmente en materia de turismo, reflejando una disminución considerable de los ingresos, que impacta la sostenibilidad de los sectores pertenecientes a la cadena de valor del turismo, como por ejemplo los hoteles, restaurantes y tour operadores, entre otros.
 
-CONSIDERANDO: Que el Gobierno de la República, en aras de la promoción de sus espacios turísticos, así como el intercambio cultural, deseoso de contribuir significativamente a la economía, en cumplimiento de su plan de gobierno 2026- 2030, pretende posicionar al país como destino del turismo internacional, favoreciendo así su desarrollo, impulsando el turismo a través del orden, la seguridad jurídica, la inversión en infraestructura y el fortalecimiento de la estrategia nacional e interna.
+CONSIDERANDO: Que el Gobierno de la República, en aras de la promoción de sus espacios turísticos, así como el intercambio cultural, deseoso de contribuir significativamente a la economía, en cumplimiento de su plan de gobierno 2026-2030, pretende posicionar al país como destino del turismo internacional, favoreciendo así su desarrollo, impulsando el turismo a través del orden, la seguridad jurídica, la inversión en infraestructura y el fortalecimiento de la estrategia nacional e interna.
 
-CONSIDERANDO: Que el Instituto Nacional de Migración, mediante Oficio No.1162- DE/INM-2026 de fecha 14 de octubre de 2026, recomendó la procedencia del cambio de categoría aplicable a los ciudadanos del Reino Unido de Gran Bretaña e Irlanda del Norte, modificando su clasificación de categoría "B" a categoría "A".
+CONSIDERANDO: Que el Instituto Nacional de Migración, mediante Oficio No. 1162- DE/INM-2026 de fecha 14 de octubre de 2026, recomendó la procedencia del cambio de categoría aplicable a los ciudadanos del Reino Unido de Gran Bretaña e Irlanda del Norte, modificando su clasificación de categoría "B" a categoría "A".
 
 POR TANTO
 

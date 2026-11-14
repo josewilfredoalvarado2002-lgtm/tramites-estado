@@ -11,7 +11,7 @@ paginas: "A. 4 - 20"
 sumario: "Decretos Nos. 50-2023, 58-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231120-36388/download"
 extraido: "2026-11-14"
-huella: "488e8470bfa20f63"
+huella: "04b097709643f6ef"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 58-2023
@@ -37,13 +37,13 @@ CONSIDERANDO: Que existen necesidades de prioridad en las Municipalidades, siend
 
 CONSIDERANDO: Que la exoneración contenida en este Decreto busca promover la autonomía de la Municipalidad, permitiéndole contar con equipo de maquinaria pesada que vendrá a beneficiar directamente a su población, permitiendo el flujo de la actividad económica en cada uno de los Municipios, en pro de ejercer las acciones que fomenten las políticas públicas que contribuyan al desarrollo humano y bienestar de su población local; así como al desarrollo económico y social de manera integral, en el cual los servicios públicos que ofrecen las mismas, son esenciales para desarrollo integral y el bien común de sus habitantes.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No.170-2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, mediante el Decreto No. 170-2016, establece que la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -119,7 +119,7 @@ d) DOS CAMIONES CON VOLQUETA DE
 
 MODELO: GRANITE GR64BX MOTOR:
 
-Mack, modelo MP8-360C de 360hp @ 1500- 1950rpm, par máximo de 1360lb-ft @ 1200rpm.
+Mack, modelo MP8-360C de 360hp @ 1500-1950rpm, par máximo de 1360lb-ft @ 1200rpm.
 
 SITEMA ELÉCTRICO: Alternador DELCO de 12V/130A (24SI). Motor de arranque DELCO de 12V con reducción de engranajes. Tres baterías Mack M/F de 12V 650/1950CCA.EMBRAGUE:
 
@@ -201,7 +201,7 @@ BOMAG, MODELO BW212D-40 NUEVO. -
 
 DESCRIPCION: Motor: Deutz BF4M 2012 C, de 4 cilindros. Desempeño: 132 hp a 2300rpm Enfriado por agua. Características de conducción:
 
-Velocidad (1) 0-6km/h Velocidad (2) 0-10km/h Tambor y Ruedas: Ancho del tambor: 2130mm Diámetro del tambor: 1500mm Ruedas: 23.1- 26/12PR. Sistema Vibratorio: Frecuencia:
+Velocidad (1) 0-6km/h Velocidad (2) 0-10km/h Tambor y Ruedas: Ancho del tambor: 2130mm Diámetro del tambor: 1500mm Ruedas: 23.1-26/12PR. Sistema Vibratorio: Frecuencia:
 
 30/36Hz Amplitud: 1.8/0.95mm Fuerza Centrífuga: 236/125Kn.
 
@@ -349,7 +349,7 @@ John Deere Diesel PowerTechTM, turbocargado, cumple con las normas EPA TIER II, 
 
 20. ALCALDIA MUNICIPAL DE SAN JUAN, INTIBUCÁ:
 
-a. M O T O N I V E L A D O R A M A R C A J O H N DEERE, MODELO 620G NUEVA SERIE 1BZ620GAKNC000691.- DESCRIPCION: MOTOR:
+a. MOTONIVELADORA MARCA JOHN DEERE, MODELO 620G NUEVA SERIE 1BZ620GAKNC000691.- DESCRIPCION: MOTOR:
 
 Fabricante y modelo John Deere PowerTech Plus de 6,8I Normas de emisiones fuera de carretera Tier 3 de la EPA/Etapa IIIA de la UE Cilindros 6 Cilindrada 6,8I (414 in3) Potencia del Motor Par Máximo Neto 915 N m (675 Ib-ft) Reserva de Par Neto 46% Aspiración Turboalimentada con enfriador de aire de carga Lubricación Filtro en roscable y enfriador integral de caudal completo, TREN DE POTENCIA, transmisión directa John Deere PowerShift PlusTM, cambio sobre la marcha modulado, cambio de Marcha Basado en los Eventos (EBS), pedal de avance gradual; depósito de transmisión independiente con filtración separada y sistema de enfriamiento con bomba de engranajes de 117 I/min (31 gpm).
 

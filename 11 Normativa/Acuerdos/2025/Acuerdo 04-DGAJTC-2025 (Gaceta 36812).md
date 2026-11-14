@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ejecutivo No. 04-DGAJTC-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250409-36812/download"
 extraido: "2026-11-11"
-huella: "b2f1fb8679439614"
+huella: "d6328bca19ae5568"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 04-DGAJTC-2025
@@ -91,7 +91,7 @@ CONSIDERANDO (02): Qué, la Constitución de la República en el párrafo primer
 
 “Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento.
 
-Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, a g r i c u l t u r a , p r o t e c c i ó n del ambiente, vialidad, comunicaciones, sanidad y reforma agraria. […] […]”.
+Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria. […] […]”.
 
 CONSIDERANDO (03): Qué, la Ley Constitutiva de las Fuerzas Armadas en su artículo 200 establece que: “Se otorgarán condecoraciones y distinciones militares, a los miembros de las Fuerzas Armadas, a militares de naciones amigas y a personas e instituciones civiles, nacionales o extranjeras, en reconocimiento a actos heroicos, servicios distinguidos y méritos relevantes.
 
@@ -111,7 +111,7 @@ CONSIDERANDO (09): Qué, en fecha 17 de julio del 2024, la Dirección de Recurso
 
 POR TANTO:
 
-En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal b), 8, 45 del inciso a) numeral 2) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 011- 2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 17 de julio de 2024 y Dictamen D=119(C-1)2024 de fecha 17 de julio de 2024.
+En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal b), 8, 45 del inciso a) numeral 2) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 011-2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 17 de julio de 2024 y Dictamen D=119(C-1)2024 de fecha 17 de julio de 2024.
 
 ACUERDA:
 

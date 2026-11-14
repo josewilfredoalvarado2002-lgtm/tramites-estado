@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-124-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211123-35779/download"
 extraido: "2026-11-14"
-huella: "f3b74f45b84812bb"
+huella: "8beecdd3856fd888"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-124-2021
@@ -47,13 +47,9 @@ CONSIDERANDO: Que es deber ineludible del Presidente de la República, en Consej
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 59, 65, 81, 84, 145, 187, 245 numerales 2, 7, 11, 29 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
+En uso de las facultades contenidas en los Artículos 59, 65, 81, 84, 145, 187, 245 numerales 2, 7, 11, 29 y 45, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numeral 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER);
 
-266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER);
-
-Decreto Legislativo No. 32-2020; Decreto Legislativo No.
-
-40-2020; Decreto Ejecutivo Número PCM-005-2020, PCM- 016-2020, PCM-021-2020, PCM0- 22-2020, PCM-023- 2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-073-2020, PCM-077- 2020 y demás aplicables.
+Decreto Legislativo No. 32-2020; Decreto Legislativo No. 40-2020; Decreto Ejecutivo Número PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM0- 22-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-073-2020, PCM-077-2020 y demás aplicables.
 
 DECRETA:
 

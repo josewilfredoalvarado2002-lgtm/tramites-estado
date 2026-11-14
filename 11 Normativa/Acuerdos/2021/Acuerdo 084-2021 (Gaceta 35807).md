@@ -11,7 +11,7 @@ paginas: "A. 1 - 29"
 sumario: "Acuerdo No. 084-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211227-35807/download"
 extraido: "2026-11-14"
-huella: "870a9ac21ba9b5f7"
+huella: "c8de7b08cbc7ce30"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 084-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que, por razones antes expuestas, resulta imperativo la actualizac
 
 CONSIDERANDO: Que el artículo 118 de la Ley de Procedimiento Administrativo establece que los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria, la motivación en estos actos estará precedida por la designación de la autoridad que los emite y seguida por la fórmula “ACUERDA”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043 – 2020 de fecha 1 de octubre del 2020 y publicado en 4 La Gaceta A. Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 24 DE JUNIO DEL 2021 No. 35,637 el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043 – 2020 de fecha 1 de octubre del 2020 y publicado en 4 La Gaceta A. Sección A Acuerdos y Leyes REPÚBLICA DE HONDURAS - TEGUCIGALPA, M. D. C., 24 DE JUNIO DEL 2021 No. 35,637 el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO: En uso de la potestad reglamentaria que le confiere el inciso 11 del Artículo 245 de la Constitución de la República y en aplicación del Artículo 107 de la Ley de Protección al Consumidor.
 
@@ -193,7 +191,7 @@ Lo expuesto sin perjuicios de los demás requisitos que determine la Autoridad d
 
 #### Artículo 14
 
-ARTÍCULO 14. Cuando una organización realice una petición ante un gobierno municipal, solicitando su inscripción como asociación de consumidores en el registro Nacional, el mismo actuará como receptor de las solicitud y documentos presentados por las organizaciones interesadas, debiendo remitir los antecedentes a la autoridad de aplicación dentro del plazo de 10 días hábiles, contados desde la fecha de su recepción, para que esta a su vez proceda con los trámites de inscripción , de conformidad con las previsiones de la Ley.
+ARTÍCULO 14. Cuando una organización realice una petición ante un gobierno municipal, solicitando su inscripción como asociación de consumidores en el registro Nacional, el mismo actuará como receptor de las solicitud y documentos presentados por las organizaciones interesadas, debiendo remitir los antecedentes a la autoridad de aplicación dentro del plazo de 10 días hábiles, contados desde la fecha de su recepción, para que esta a su vez proceda con los trámites de inscripción, de conformidad con las previsiones de la Ley.
 
 #### Artículo 15
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 9"
 sumario: "Acuerdo Número 175-SEP-2024,Acuerdo Ejecutivo No. 36-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240607-36554/download"
 extraido: "2026-11-14"
-huella: "dc4314099f15261a"
+huella: "62f69f8e5bc89bcc"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 36-2022
@@ -149,7 +149,7 @@ CONSIDERANDO (07): Qué, el Reglamento de Condecoraciones y Distinciones Militar
 
 \2) MEDALLA “CRUZ DE LAS FUERZAS ARMADAS”.
 
-CONSIDERANDO (08): Qué, en fecha 06 de mayo de 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 001- 2024, otorgar la condecoración:
+CONSIDERANDO (08): Qué, en fecha 06 de mayo de 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 001-2024, otorgar la condecoración:
 
 Medalla
 
@@ -173,7 +173,7 @@ GUANDIQUE.
 
 POR TANTO:
 
-En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva, de las Fuerzas Armadas; artículos 1 literal b), 8, 45 literal a) numeral 2) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 001- 2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 06 de mayo de 2024 y Dictamen D=085(C1)2024 de fecha 09 de mayo de 2024.
+En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva, de las Fuerzas Armadas; artículos 1 literal b), 8, 45 literal a) numeral 2) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 001-2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 06 de mayo de 2024 y Dictamen D=085(C1)2024 de fecha 09 de mayo de 2024.
 
 ACUERDA:
 

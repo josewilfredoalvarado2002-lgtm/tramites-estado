@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Acuerdos Ejecutivos Nos. 8-2026, 9-2026, 10-2026, 11-2026, 12-2026, 13-2026, 14-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260413-37116/download"
 extraido: "2026-11-09"
-huella: "88633806ecf1ec28"
+huella: "fb3021483e5ae24d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 12-2026
@@ -37,13 +37,11 @@ CONSIDERANDO: Que la Ley del Heroico y Benemérito Cuerpo de Bomberos de Hondura
 
 CONSIDERANDO: Que los cargos dentro del Cuerpo de Bomberos son de carácter técnico especializado, por consiguiente, los ascensos dentro de la escala jerárquica son el justo reconocimiento que se otorga a los miembros que se han distinguido por su antigüedad, capacidad, servicios prestados, disciplina, identificación con la Organización y demás requisitos establecidos por la Ley y sus Reglamentos.
 
-CONSIDERANDO: Que en Asamblea Ordinaria No. 01- 2026 del Nivel de Supervisión y Control General del Heroico y Benemérito Cuerpo de Bomberos de Honduras, celebrada en fecha siete de enero del año dos mil veintiséis (2026), se aprobó en punto único de acta la propuesta de Ascensos para Oficiales Superiores y Oficiales Subalternos del Cuerpo de Bomberos.
+CONSIDERANDO: Que en Asamblea Ordinaria No. 01-2026 del Nivel de Supervisión y Control General del Heroico y Benemérito Cuerpo de Bomberos de Honduras, celebrada en fecha siete de enero del año dos mil veintiséis (2026), se aprobó en punto único de acta la propuesta de Ascensos para Oficiales Superiores y Oficiales Subalternos del Cuerpo de Bomberos.
 
 POR TANTO:
 
-La Presidenta Constitucional de la República de Honduras en uso de las facultades de que está investida y en la aplicación a lo establecido en los artículos 245 atribución 11 de la Constitución de la República, 116, 118, 119 y 122 de la Ley General de la Administración Pública, 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo: Título I artículo 2, Título II capítulo II artículo 9, Título II capítulo III y capítulo V artículos 12 inciso 4, artículo 19 numeral 7, Título II capítulo II artículo 50 y 51, Título VI capítulo I artículo 79 del Decreto Legislativo No.
-
-56-2019 contentivo de la Ley de Bomberos de la República de Honduras, publicado en La Gaceta, Diario Oficial de la República de Honduras en fecha 20 de febrero del 2020.
+La Presidenta Constitucional de la República de Honduras en uso de las facultades de que está investida y en la aplicación a lo establecido en los artículos 245 atribución 11 de la Constitución de la República, 116, 118, 119 y 122 de la Ley General de la Administración Pública, 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo: Título I artículo 2, Título II capítulo II artículo 9, Título II capítulo III y capítulo V artículos 12 inciso 4, artículo 19 numeral 7, Título II capítulo II artículo 50 y 51, Título VI capítulo I artículo 79 del Decreto Legislativo No. 56-2019 contentivo de la Ley de Bomberos de la República de Honduras, publicado en La Gaceta, Diario Oficial de la República de Honduras en fecha 20 de febrero del 2020.
 
 ACUERDA
 

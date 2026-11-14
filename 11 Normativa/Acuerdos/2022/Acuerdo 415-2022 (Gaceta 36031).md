@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdos Ejecutivos Nos. 415-2022, 416-2022, 417-2022, 418-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220919-36031/download"
 extraido: "2026-11-14"
-huella: "9ff7d658973c59b8"
+huella: "e778fb82389257d6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 415-2022
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM- 20-2022, publicado el 11 de agosto, 2022.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-20-2022, publicado el 11 de agosto, 2022.
 
 ACUERDA
 

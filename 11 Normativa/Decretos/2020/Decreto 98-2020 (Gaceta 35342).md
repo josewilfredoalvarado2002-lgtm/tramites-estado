@@ -11,7 +11,7 @@ paginas: "A. 1 - 57"
 sumario: "Decretos Números 98-2020, 102-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200813-35342/download"
 extraido: "2026-11-14"
-huella: "eff52b24adb4963e"
+huella: "3ae68ed4a301f025"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 98-2020
@@ -29,11 +29,11 @@ huella: "eff52b24adb4963e"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el 29 de junio de 2020 se suscribió Contrato de Préstamo No.5008/BL-HO, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y NUEVE MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$59,200,000.00), recursos destinados a financiar la ejecución del “Programa de Apoyo al Sistema Integral de Protección Social”.
+CONSIDERANDO: Que el 29 de junio de 2020 se suscribió Contrato de Préstamo No. 5008/BL-HO, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y NUEVE MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$59,200,000.00), recursos destinados a financiar la ejecución del “Programa de Apoyo al Sistema Integral de Protección Social”.
 
 CONSIDERANDO: Que el objetivo del Programa es mejorar las condiciones de vida de los hogares en situación de pobreza extrema, así como promover la generación de capital humano en Honduras. Para ello, la operación financiará el Bono de Vida Mejor para los hogares en extrema pobreza, además de fortalecer los servicios básicos de salud y propiciar la culminación de los estudios hasta el tercer ciclo de educación básica.
 
-CONSIDERANDO: Que de conformidad al Artículo 205, Atribuciones 19 y 36 de la Constitución de la República, Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Números 98-2020, 102-2020 A. 1- 84 corresponde al Congreso Nacional; Aprobar o improbar los contratos y convenios que llevan involucrados exenciones, incentivos y concesiones fiscales celebrados por el Poder Ejecutivo.
+CONSIDERANDO: Que de conformidad al Artículo 205, Atribuciones 19 y 36 de la Constitución de la República, Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Números 98-2020, 102-2020 A. 1-84 corresponde al Congreso Nacional; Aprobar o improbar los contratos y convenios que llevan involucrados exenciones, incentivos y concesiones fiscales celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
@@ -41,7 +41,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.5008/BLHO, suscrito el 29 de junio de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y NUEVE MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$59,200,000.00), recursos destinados a financiar la ejecución del “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL”, que literalmente dice:
+ARTICULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 5008/BLHO, suscrito el 29 de junio de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y NUEVE MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$59,200,000.00), recursos destinados a financiar la ejecución del “PROGRAMA DE APOYO AL SISTEMA INTEGRAL DE PROTECCIÓN SOCIAL”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 

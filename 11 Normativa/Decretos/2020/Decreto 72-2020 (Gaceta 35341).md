@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decretos Nos. 65-2020, 67-2020, 72-2020, 97-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200812-35341/download"
 extraido: "2026-11-14"
-huella: "e6162e3cd0f44edd"
+huella: "8b5a7dc927640a0d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 72-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

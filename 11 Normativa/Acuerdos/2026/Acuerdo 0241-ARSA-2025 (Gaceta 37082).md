@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 0241-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260228-37082/download"
 extraido: "2026-11-09"
-huella: "fb749459001eb6cd"
+huella: "17398e862b39f19b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0241-ARSA-2025
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Ley de la Agencia de Regulación Sanitaria (ARSA) Decreto 7
 
 CONSIDERANDO: Que es obligación de la Administración Pública, establecer las bases para simplificar y racionalizar los procedimientos administrativos a fin de garantizar que todos los órganos del Estado actúen con apego a las normas de economía, celeridad, eficacia y espíritu de servicio, logrando la pronta y efectiva satisfacción de los interesados, siendo imperante la realización permanente de diagnósticos y análisis sobre los diferentes trámites y procedimientos administrativos que deban seguirse en sus dependencias, a fin de diseñar medidas de simplificación las cuales deberán ser adoptadas de acuerdo a los objetivos de la Ley de Simplificación Administrativa.
 
-CONSIDERANDO: Que el Reglamento para el Control Sanitario de Alimentos y Bebidas, Acuerdo 0632-ARSA- 2023, en su artículo 18. establece que “Los fabricantes y las bodegas de productos, alimentos, bebidas y/o materias primas, deben cumplir con las condiciones higiénico-sanitarias establecidas en el RTCA INDUSTRIA DE ALIMENTOS Y BEBIDAS PROCESADOS. BUENAS PRÁCTICAS DE MANUFACTURA. PRINCIPIOS GENERALES y los requisitos establecidos en el RTCA PROCEDIMIENTO PARA OTORGAR LA LICENCIA SANITARIA A FÁBRICAS Y BODEGAS. Con elfin de verificar el cumplimiento del RTCA INDUSTRIA DE ALIMENTOS Y BEBIDAS PROCESADOS.
+CONSIDERANDO: Que el Reglamento para el Control Sanitario de Alimentos y Bebidas, Acuerdo 0632-ARSA-2023, en su artículo 18. establece que “Los fabricantes y las bodegas de productos, alimentos, bebidas y/o materias primas, deben cumplir con las condiciones higiénico-sanitarias establecidas en el RTCA INDUSTRIA DE ALIMENTOS Y BEBIDAS PROCESADOS. BUENAS PRÁCTICAS DE MANUFACTURA. PRINCIPIOS GENERALES y los requisitos establecidos en el RTCA PROCEDIMIENTO PARA OTORGAR LA LICENCIA SANITARIA A FÁBRICAS Y BODEGAS. Con elfin de verificar el cumplimiento del RTCA INDUSTRIA DE ALIMENTOS Y BEBIDAS PROCESADOS.
 
 BUENAS PRÁCTICAS DE MANUFACTURA. PRINCIPIOS
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que los actos de la administración pública adoptarán la forma d
 
 POR TANTO:
 
-La Comisionada Presidenta de la Agencia de Regulación Sanitaria, en uso de las facultades que está investida y en aplicación de los Artículos 1, 12, 15, 59, 60, 80, 145 y 146 de la Constitución de la República; Reglamentos Técnicos Centroamericanos 67.01.31:07 y 67.01.33.06; 5, 7, 41, 42, 43, 44, 45 y 46; 1, 73, 77, 78 y 240 del Código de Salud; 1, 3 literal b), e), i), y k), 5, 8, 9 y 10, del Decreto Ejecutivo Número PCM-032-2017, Decreto Ejecutivo Número PCM- 13-2020; 7 inciso 3 y 11 de la Ley de la Agencia de Regulación Sanitaria, Decreto Legislativo 7-2021; 116, 118, 119 y 122 de la Ley General de la Administración Pública; y 1, 3, 19, 22, 24, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 1, 2, 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 18 del Reglamento para el Control Sanitario de Alimentos y Bebidas, Acuerdo No.0632- ARSA-2023.
+La Comisionada Presidenta de la Agencia de Regulación Sanitaria, en uso de las facultades que está investida y en aplicación de los Artículos 1, 12, 15, 59, 60, 80, 145 y 146 de la Constitución de la República; Reglamentos Técnicos Centroamericanos 67.01.31:07 y 67.01.33.06; 5, 7, 41, 42, 43, 44, 45 y 46; 1, 73, 77, 78 y 240 del Código de Salud; 1, 3 literal b), e), i), y k), 5, 8, 9 y 10, del Decreto Ejecutivo Número PCM-032-2017, Decreto Ejecutivo Número PCM-13-2020; 7 inciso 3 y 11 de la Ley de la Agencia de Regulación Sanitaria, Decreto Legislativo 7-2021; 116, 118, 119 y 122 de la Ley General de la Administración Pública; y 1, 3, 19, 22, 24, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 1, 2, 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 18 del Reglamento para el Control Sanitario de Alimentos y Bebidas, Acuerdo No. 0632- ARSA-2023.
 
 ACUERDA:
 
@@ -105,7 +105,7 @@ DÉCIMO: El presente Acuerdo entrará en vigencia el día de su publicación en 
 
 PUBLÍQUESE .
 
-PhD. DORIAN ELIZABETH SALINAS JIMÉNEZ Comisionada Presidenta Abg. SAMUEL ELIAS AGUILAR SAUCEDA Secretario General Instituto Nacional de Formación Profesional (INFOP) RESOLUCIÓN No.03-CD-SO-21-02-2026:6:
+PhD. DORIAN ELIZABETH SALINAS JIMÉNEZ Comisionada Presidenta Abg. SAMUEL ELIAS AGUILAR SAUCEDA Secretario General Instituto Nacional de Formación Profesional (INFOP) RESOLUCIÓN No. 03-CD-SO-21-02-2026:6:
 
 En sesión ordinaria Nº. 03-2026 celebrada de forma virtual el día sábado 21 de febrero de 2026, a las 10:00 a.m., en su punto de Agenda No. “6”, “EN APLICACIÓN AL ARTÍCULO 15, INCISO D) DE LA LEY DEL INFOP, REMOVER Y CANCELAR AL CIUDADANO CARLOS FRANCISCO SUAZO CALDERÓN DEL CARGO DE DIRECTOR EJECUTIVO DEL INFOP Y AL CIUDADANO GERARDO JOSÉ FRANCISCO PÉREZ MONTOYA, DEL CARGO DE SUBDIRECTOR DEL INFOP. El Consejo Directivo POR UNANIMIDAD DE VOTOS de los presentes, constatando el Secretario ad hoc, del Consejo Directivo; que los siguientes miembros con derecho a voto han aprobado: FERNANDO PUERTO CASTRO, IVETTE ARELY ARGUETA, EDDY JOHANS ORDOÑEZ, RICARDO ARTURO PEÑA RAMIREZ, JOSÉ OBDULIO MARCIA, JOSE HILARIO ESPINOZA HERRERA; GABRIEL ALBERTO MOLINA DELGADO, EYBY CAROLINA AGUIRRE, propietaria, por Ley.-
 
@@ -165,7 +165,7 @@ ABG. FERNANDO PUERTO CASTRO
 
 Secretario de Estado en el Despacho de Trabajo y Seguridad Social.
 
-Presidente del Consejo Directivo INFOP-HN Instituto Nacional de Formación Profesional (INFOP) RESOLUCIÓN No.03-CD-SO-21-02-2026:7:
+Presidente del Consejo Directivo INFOP-HN Instituto Nacional de Formación Profesional (INFOP) RESOLUCIÓN No. 03-CD-SO-21-02-2026:7:
 
 En Sesión Ordinaria Nº. 03-2026 celebrada de forma virtual el día sábado 21 de febrero de 2026, en su punto de Agenda No. “7”, “EN APLICACIÓN AL ARTÍCULO 15, INCISO D) DE LA LEY DEL INFOP, NOMBRAR Y JURAMENTAR AL NUEVO DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE FORMACIÓN PROFESIONAL (INFOP)”. El Consejo Directivo POR UNANIMIDAD DE VOTOS de los presentes, constatando el Secretario ad hoc, del Consejo Directivo; que los siguientes miembros con derecho a voto han aprobado: FERNANDO PUERTO CASTRO, IVETTE ARELY ARGUETA, EDDY JOHANS ORDOÑEZ, RICARDO ARTURO PEÑA RAMIREZ, JOSÉ OBDULIO MARCIA, JOSE HILARIO ESPINOZA HERRERA; GABRIEL ALBERTO MOLINA DELGADO, EYBY CAROLINA AGUIRRE, Propietaria, por Ley.- RESUELVE: 03-CD-SO-21-02-2026:7:.- El Consejo Directivo del Instituto Nacional de Formación Profesional (INFOP).-En la Ciudad de Tegucigalpa, Municipio del Distrito Central, a los veintiuno (21) días del mes de febrero del año dos mil veintiséis (2026). VISTO:
 
@@ -189,7 +189,7 @@ Los representantes propietarios por parte del Estado serán: El Secretario de Es
 
 CONSIDERANDO: Que el Artículo 15 inciso d) de la Ley del INFOP otorga la atribución del Consejo Directivo del INFOP, “Nombrar, suspender o remover al Director, al Subdirector y al Auditor Interno.
 
-CONSIDERANDO: Que mediante Resolución No.03-CDSO-21-02-2026:6: el Consejo Directivo por Unanimidad de Votos, en aplicación al Artículo 15, inciso d) de la Ley del INFOP, ha resuelto remover y cancelar al ciudadano Carlos Francisco Suazo Calderón del cargo de Director Ejecutivo del INFOP y al ciudadano Gerardo José Francisco Pérez Montoya, del cargo de Subdirector del INFOP.
+CONSIDERANDO: Que mediante Resolución No. 03-CDSO-21-02-2026:6: el Consejo Directivo por Unanimidad de Votos, en aplicación al Artículo 15, inciso d) de la Ley del INFOP, ha resuelto remover y cancelar al ciudadano Carlos Francisco Suazo Calderón del cargo de Director Ejecutivo del INFOP y al ciudadano Gerardo José Francisco Pérez Montoya, del cargo de Subdirector del INFOP.
 
 CONSIDERANDO: Que en ese sentido el Sector Gobierno ha propuesto al ciudadano: Edgardo Hernan Loucel Aguilera, para el Cargo de Director Ejecutivo, quien teniendo a la vista su hoja de vida ante los miembros del Consejo Directivo destaca un amplio perfil profesional y experiencia en el ámbito publico y privado al servicio de la comuna hondureña.
 

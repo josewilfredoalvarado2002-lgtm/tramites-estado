@@ -11,7 +11,7 @@ paginas: "A. 22 - 36"
 sumario: "Decretos Ejecutivos númerosPCM-032-2020,035-2020, 036-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "70cc3688e76d2ca1"
+huella: "33ce26e5bbe3ca60"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2020
@@ -29,11 +29,11 @@ huella: "70cc3688e76d2ca1"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6448-HN suscrito el 11 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural - COMRURAL II”, se ampara en el
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6448-HN suscrito el 11 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural - COMRURAL II”, se ampara en el
 
-Artículo 70 del Decreto No.17-2010.
+Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el programa tiene como objetivo general mejorar el acceso a los mercados y las prácticas climáticas inteligentes y contribuir a la inclusión económica de los beneficiarios seleccionados en cadenas de valor agrícolas seleccionadas.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19 y 36 de la Co
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6448-HN suscrito el 11 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural - COMRURAL II” que literalmente dice:
+ARTICULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6448-HN suscrito el 11 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$75,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integrando la Innovación para la Competitividad Rural - COMRURAL II” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN LOS DESPACHOS
 
@@ -181,7 +181,7 @@ Salvaguardas
 
 2. Antes de llevar a cabo cualquier actividad bajo un Subproyecto determinado y de conformidad con los términos del ESMF y del MPPIA, el Receptor, a través de INVEST-H, deberá: (a) llevar a cabo una evaluación ambiental y, posteriormente, con la asistencia de la OPR, preparar el plan de gestión ambiental pertinente para el sitio específico, el plan de responsabilidad social y el plan de desarrollo de los pueblos indígenas, según corresponda; y (b) a partir de entonces, hacer que la OPR pertinente implemente los planes de acuerdo con sus términos y de una manera aceptable para la Asociación.
 
-3. Si se prevé el reasentamiento de un Subproyecto específico , el Receptor a través de INVEST-H, deberá, antes de llevar a cabo dicho Subproyecto, con la asistencia de la OPR pertinente: (a) preparar, divulgar y realizar consultas sobre el reasentamiento pertinente del plan de acción, aceptable para la Asociación; e
+3. Si se prevé el reasentamiento de un Subproyecto específico, el Receptor a través de INVEST-H, deberá, antes de llevar a cabo dicho Subproyecto, con la asistencia de la OPR pertinente: (a) preparar, divulgar y realizar consultas sobre el reasentamiento pertinente del plan de acción, aceptable para la Asociación; e
 
 (b) implementar posteriormente el plan de acción de reasentamiento pertinente o el plan abreviado, según sea el caso, todo de acuerdo con sus términos y de una manera aceptable para la Asociación.
 
@@ -203,7 +203,7 @@ E.
 
 Otros Arreglos de Implementación
 
-1. De conformidad con los términos de referencia acordados con la Asociación, incluido, entre otros, el alcance de las auditorías que se llevarán a cabo y se proporcionarán a la Asociación, y según se especifica en el Manual Operativo del Proyecto , el Receptor, a través de INVEST-H deberá:
+1. De conformidad con los términos de referencia acordados con la Asociación, incluido, entre otros, el alcance de las auditorías que se llevarán a cabo y se proporcionarán a la Asociación, y según se especifica en el Manual Operativo del Proyecto, el Receptor, a través de INVEST-H deberá:
 
 (a) a más tardar cuatro (4) meses después de la Fecha de Entrada en Vigencia, contratar auditores independientes, con experiencia y calificaciones aceptables para la Asociación, y bajo términos de referencia aceptables para la Asociación, con el propósito de llevar a cabo auditorías de cumplimiento cada doce meses de los Subproyectos de acuerdo con las disposiciones del Manual Operativo; y (b) a más tardar noventa (90) días después del final del período cubierto por cada una de dichas auditorías, preparar y entregar a la Asociación, un informe de tal amplitud y detalle que la Asociación solicite razonablemente en relación con el resultado de la correspondiente auditoría.
 
@@ -313,7 +313,7 @@ Definiciones
 
 19. “INVEST-H” significa la unidad de implementación del Receptor, su Secretaría de Coordinación General de Gobierno, creada de conformidad con la Ley del Receptor No. 233-2005, de fecha 21 de septiembre de 2005, según enmendada a la fecha de este Acuerdo, o cualquier sucesor aceptable para la Asociación.
 
-20. “MPPIA” significa “Marco de Planificación de Pueblos Indígenas y Afro Hondureños”, el Marco de Pueblos Indígenas y Afrodescendientes del Receptor, publicado en el territorio del Receptor el 25 de febrero de 2019 y en el sitio web de la Asociación el 26 de febrero de 2019, aceptable para la Asociación , como se establece en el Manual Operativo del Proyecto.
+20. “MPPIA” significa “Marco de Planificación de Pueblos Indígenas y Afro Hondureños”, el Marco de Pueblos Indígenas y Afrodescendientes del Receptor, publicado en el territorio del Receptor el 25 de febrero de 2019 y en el sitio web de la Asociación el 26 de febrero de 2019, aceptable para la Asociación, como se establece en el Manual Operativo del Proyecto.
 
 21. “Costos de operación” significa costos razonables, según lo aprobado por la Asociación, para los gastos incrementales incurridos en la ejecución del Proyecto, que consisten en costos de comunicación, suministros y mantenimiento de oficina, y mantenimiento de equipos, servicios públicos, duplicación/impresión de documento, consumibles, seguros, costos de viaje y viáticos para el personal del Proyecto para viajes relacionados con la implementación del Proyecto, (excepto los servicios de consultoría y los salarios de los funcionarios de la administración pública del Receptor).
 

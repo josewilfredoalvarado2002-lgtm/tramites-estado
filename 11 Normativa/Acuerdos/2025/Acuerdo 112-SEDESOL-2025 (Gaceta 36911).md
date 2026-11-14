@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ministerial No. 112-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250808-36911/download"
 extraido: "2026-11-09"
-huella: "d445033688f0020d"
+huella: "ba62886118828c21"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 112-SEDESOL-2025
@@ -51,17 +51,13 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM 09-2023, de fecha 9 de febrero del año 2023, se creó el Programa de “Becas Solidarias”, dependiente de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), la cual debía emitir un reglamento para la administración técnica y financiera del programa, que contendría los requisitos para la calificación de los becarios del mismo.
 
-CONSIDERANDO: Que el reglamento antes mencionado se emitió a través del Acuerdo Ministerial No.
-
-020-B-SEDESOL-2023, bajo el cual se ha desarrollado el Programa Becas Solidarias, sin embargo, es necesaria una modificación que le permita atender las necesidades existentes que se han logrado identificar en el transcurso del Programa
+CONSIDERANDO: Que el reglamento antes mencionado se emitió a través del Acuerdo Ministerial No. 020-B-SEDESOL-2023, bajo el cual se ha desarrollado el Programa Becas Solidarias, sin embargo, es necesaria una modificación que le permita atender las necesidades existentes que se han logrado identificar en el transcurso del Programa
 
 CONSIDERANDO: Que los actos administrativos de cualquier órgano del Estado que deban producir efectos jurídicos de carácter general, serán publicados en el Diario Oficial La Gaceta y su vigencia es obligatoria desde la fecha de su publicación.
 
 ACUERDA:
 
-PRIMERO: Reformar los artículos 2, 5, 7, 12, 14, 15, 16, 18, 19, 22, 23, 25 del Acuerdo Ministerial No.
-
-020-B-SEDESOL-2023; los cuales en lo sucesivo se leerán de la siguiente manera:
+PRIMERO: Reformar los artículos 2, 5, 7, 12, 14, 15, 16, 18, 19, 22, 23, 25 del Acuerdo Ministerial No. 020-B-SEDESOL-2023; los cuales en lo sucesivo se leerán de la siguiente manera:
 
 #### Artículo 2
 

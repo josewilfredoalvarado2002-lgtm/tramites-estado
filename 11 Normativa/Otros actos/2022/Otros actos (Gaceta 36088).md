@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221128-36088/download"
 extraido: "2026-11-14"
-huella: "d956b96becec6c3d"
+huella: "2dbb36dde2bdce08"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue la Presidenta de la República y cuidar su ejecución”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que Honduras es un Estado Miembro del Sistema de Integración Centroamericana creado por el Protocolo de Tegucigalpa del 13 de diciembre de 1991, así como del Tratado General de Integración Económica Centroamericana del 13 de diciembre de 1960 y reformado por el Protocolo de Guatemala del 23 de octubre de 1993.
 
@@ -87,7 +85,7 @@ Inverter: Tecnología electrónica que aplicada a la calefacción y al acondicio
 
 #### Artículo 4
 
-ARTÍCULO 4. DOCUMENTOS A PRESENTAR P O R E M P R E S A S I M P O R TA D O R A S Y COMERCIALIZADORAS DE EQUIPOS NUEVOS Y USADOS: Las Empresas importadoras y comercializadoras deben presentar lo siguiente:
+ARTÍCULO 4. DOCUMENTOS A PRESENTAR P O R E M P R E S A S I M P O R TA DORAS Y COMERCIALIZADORAS DE EQUIPOS NUEVOS Y USADOS: Las Empresas importadoras y comercializadoras deben presentar lo siguiente:
 
 a) Formulario de Solicitud de Dictamen Técnico (o por Homologación o por Excepción);
 

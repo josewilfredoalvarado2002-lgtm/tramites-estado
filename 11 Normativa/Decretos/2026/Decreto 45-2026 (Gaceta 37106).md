@@ -11,7 +11,7 @@ paginas: "A. 15 - 31"
 sumario: "Decretos Nos. 38-2026, 39-2026, 40-2026, 45-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260328-37106/download"
 extraido: "2026-11-09"
-huella: "45bc2c961f629fa5"
+huella: "686d633043019db8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 45-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 LEY DE EMPLEO A TIEMPO PARCIAL
 
@@ -205,7 +205,7 @@ El patrono deberá informar dichas vacantes por medios internos disponibles y co
 
 #### Artículo 7
 
-ARTÍCULO 7.- M O D A L I D A D E S
+ARTÍCULO 7.- MODALIDADES
 
 D E CONTRATACIÓN. Los contratos de trabajo a tiempo parcial podrán celebrarse por tiempo indefinido, por tiempo limitado, para obra o servicios determinados, conforme a las modalidades previstas en el Artículo 46 del Código del Trabajo.
 
@@ -269,7 +269,7 @@ CAPÍTULO IV REMUNERACIÓN Y DERECHOS LABORALES
 
 ARTÍCULO 11.- SALARIO Y PRINCIPIO DE
 
-P R O P O R C I O N A L I D A D . L a remuneración del trabajador a tiempo parcial será proporcional a las horas efectivamente laboradas, conforme a la jornada pactada.
+PROPORCIONALIDAD . L a remuneración del trabajador a tiempo parcial será proporcional a las horas efectivamente laboradas, conforme a la jornada pactada.
 
 El valor de la hora de trabajo no podrá ser inferior a la base horaria establecida en la tabla de salario mínimo vigente para la actividad económica correspondiente o en su defecto, al que resulte de dividir el salario que corresponde al puesto que desempeña entre las horas que corresponden a la jornada ordinaria máxima legal establecida en la Constitución de la República y el Código del Trabajo por el número de horas efectivamente laboradas.
 

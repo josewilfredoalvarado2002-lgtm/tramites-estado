@@ -11,7 +11,7 @@ paginas: "A. 7"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "340f48edb3bc1809"
+huella: "d7a449ea7e9900f4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No SEN-15-2026
@@ -27,9 +27,7 @@ huella: "340f48edb3bc1809"
 
 ## Texto
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. – EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA, en el ejercicio de las facultades de que fue investido por el señor Presidente Constitucional de la República y en aplicación de los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No. 8, 116, 118 No.
-
-1 de la Ley General de la Administración Pública; 3 inciso
+SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. – EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA, en el ejercicio de las facultades de que fue investido por el señor Presidente Constitucional de la República y en aplicación de los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No. 8, 116, 118 No. 1 de la Ley General de la Administración Pública; 3 inciso
 
 f) de la Ley de Servicio Civil y artículos 9 inciso 6); 16, 17, 29 y 30 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 

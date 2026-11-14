@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "7d465bc91f75d120"
+huella: "d9dde5c7c2c9c1e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 046-2024
@@ -35,13 +35,9 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que en el Acuerdo No. 01-2015 (COMIECO-LXXIII), del 22 de octubre de 2015, el COMIECO aprobó en todas sus partes la “Estrategia Centroamericana de Facilitación del Comercio y Competitividad con énfasis en la Gestión Coordinada de Fronteras” (ECFCC), por lo que se instruyó al Grupo de Facilitación del Comercio para coordinar su implementación, de conformidad con la Estrategia y las políticas de los gobiernos centroamericanos;
 
-CONSIDERANDO: Que mediante la Resolución No.
+CONSIDERANDO: Que mediante la Resolución No. 376-2016 (COMIECO-LXXVII), del 01 de septiembre de 2016, el COMIECO reafirmó la importancia estratégica del comercio intrarregional de los Estados Parte del Subsistema de Integración Económica Centroamericana, por lo que se resolvió acelerar la ejecución de las cinco medidas prioritarias de corto plazo contempladas en la ECFCC;
 
-376-2016 (COMIECO-LXXVII), del 01 de septiembre de 2016, el COMIECO reafirmó la importancia estratégica del comercio intrarregional de los Estados Parte del Subsistema de Integración Económica Centroamericana, por lo que se resolvió acelerar la ejecución de las cinco medidas prioritarias de corto plazo contempladas en la ECFCC;
-
-CONSIDERANDO: Que mediante la Resolución No.
-
-428-2020 (COMIECO-XCII), del 27 de octubre de 2020, el COMIECO aprobó la modificación de los Anexos III y IV de la Directriz Sanitaria y Fitosanitaria para la Facilitación del Comercio de Envíos y Mercancías Centroamericanas, que contienen los formatos de los certificados sanitarios y fitosanitarios de exportación aplicables para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua y por la Resolución No. 456-2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, se aprobó para la República de Panamá el formato de dichos certificados, estando estos armonizados a nivel regional;
+CONSIDERANDO: Que mediante la Resolución No. 428-2020 (COMIECO-XCII), del 27 de octubre de 2020, el COMIECO aprobó la modificación de los Anexos III y IV de la Directriz Sanitaria y Fitosanitaria para la Facilitación del Comercio de Envíos y Mercancías Centroamericanas, que contienen los formatos de los certificados sanitarios y fitosanitarios de exportación aplicables para las Repúblicas de Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua y por la Resolución No. 456-2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, se aprobó para la República de Panamá el formato de dichos certificados, estando estos armonizados a nivel regional;
 
 CONSIDERANDO: Que para la implementación de la medida de corto plazo número tres de la ECFCC, denominada “Certificados fito y zoosanitarios electrónicos”, se hace necesario que se transmita de forma electrónica la información contenida en los certificados sanitarios y fitosanitarios, utilizando a la SIECA como nodo de transmisión;
 
@@ -49,7 +45,7 @@ CONSIDERANDO: Que el COMIECO se puede reunir de manera virtual, en cuyo caso, la
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 16 de diciembre de 2023, adoptó la Resolución No. 481- 2024 (COMIECO-EX), que resuelve aprobar, a partir del 30 de enero de 2024, que la transmisión electrónica de los datos de los certificados sanitarios y fitosanitarios de exportación armonizados entre los Estados Parte, se realice a través de la Plataforma Digital de Comercio Centroamericana (PDCC) que administra la SIECA.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada el 16 de diciembre de 2023, adoptó la Resolución No. 481-2024 (COMIECO-EX), que resuelve aprobar, a partir del 30 de enero de 2024, que la transmisión electrónica de los datos de los certificados sanitarios y fitosanitarios de exportación armonizados entre los Estados Parte, se realice a través de la Plataforma Digital de Comercio Centroamericana (PDCC) que administra la SIECA.
 
 POR TANTO:
 

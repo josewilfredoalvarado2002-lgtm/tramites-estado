@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Ministeriales Nos. 022-2025, 023-2025, 024-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250429-36825/download"
 extraido: "2026-11-11"
-huella: "d322bcfb07f3a2c8"
+huella: "3cc5b56fa49f1cb0"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 023-2025
@@ -57,7 +57,7 @@ PRIMERO: Publicar de conformidad a lo establecido en el
 
 Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala), el presente Acuerdo contentivo de las disposiciones emitidas por la Instancia Ministerial de la Unión Aduanera entre la República de El Salvador, la República de Guatemala y la República de Honduras mediante la Resolución Instancia Ministerial - UA No. 127-2025; que RESUELVE: 1. Aprobar, para las Repúblicas de El Salvador, Guatemala y Honduras, el listado de productos que se encuentran exceptuados del régimen de libre circulación de las mercancías, que aparece como Anexo de esta Resolución y forma parte integral de la misma. 2.
 
-Derogar la Resolución de la Instancia Ministerial No. 120- 2024, del 26 de junio de 2024 y su Anexo. 3. No obstante, lo indicado en el numeral 1 de esta Resolución, el listado al que se refiere dicho numeral entrará en vigor cuando la Instancia Ministerial adopte el acto administrativo correspondiente, en cuyo caso quedará derogada la Resolución de la Instancia Ministerial No. 124-2024, del 16 de diciembre de 2024 y su Anexo. 4. Los Estados Parte adoptarán un mecanismo para evaluar los efectos de la libre circulación de los productos a los que los Estados Parte apliquen un Derecho Arancelario de Importación NMF distinto, cuyos resultados se reportarán a la Instancia Ministerial para las decisiones que correspondan.
+Derogar la Resolución de la Instancia Ministerial No. 120-2024, del 26 de junio de 2024 y su Anexo. 3. No obstante, lo indicado en el numeral 1 de esta Resolución, el listado al que se refiere dicho numeral entrará en vigor cuando la Instancia Ministerial adopte el acto administrativo correspondiente, en cuyo caso quedará derogada la Resolución de la Instancia Ministerial No. 124-2024, del 16 de diciembre de 2024 y su Anexo. 4. Los Estados Parte adoptarán un mecanismo para evaluar los efectos de la libre circulación de los productos a los que los Estados Parte apliquen un Derecho Arancelario de Importación NMF distinto, cuyos resultados se reportarán a la Instancia Ministerial para las decisiones que correspondan.
 
 El citado mecanismo se implementará cuando la Instancia Ministerial adopte el acto administrativo correspondiente. 5.
 

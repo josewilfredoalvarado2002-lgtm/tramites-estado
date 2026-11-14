@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1591-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250724-36898/download"
 extraido: "2026-11-09"
-huella: "13ee0b900fb4bdf2"
+huella: "0fb102d8ecf0d67b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1591-2022
@@ -27,7 +27,7 @@ huella: "13ee0b900fb4bdf2"
 
 ## Texto
 
-El Suscrito Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: "RESOLUCIÓN No. 1591- 2022.
+El Suscrito Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: "RESOLUCIÓN No. 1591-2022.
 
 SECRETARÍA
 

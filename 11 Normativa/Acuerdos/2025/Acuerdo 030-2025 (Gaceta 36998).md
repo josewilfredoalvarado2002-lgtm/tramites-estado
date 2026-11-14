@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdos Nos. 030-2025, 035-2025, 036-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251120-36998/download"
 extraido: "2026-11-09"
-huella: "eaacf21364d6f79d"
+huella: "36da1cdbfcb18a3d"
 ---
 <!-- portal:inicio -->
 # ACUERDO 030-2025
@@ -73,9 +73,7 @@ CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANU
 
 CONSIDERANDO: Que el Departamento de Cuencas Hidrográficas y Ambiente, en conjunto con la Asistencia Legal de la Dirección Ejecutiva, han emitido dictamen favorable para la continuidad del proceso de declaratoria de quince
 
-(15) Microcuencas en la Región Forestal de Occidente, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Occidente, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-006-2025.
+(15) Microcuencas en la Región Forestal de Occidente, abastecedoras de agua para consumo humano— como zona de protección forestal, ubicada en la jurisdicción de la Región Forestal de Occidente, con el objetivo de garantizar la producción del recurso hídrico en cantidad y calidad. Las coordenadas geográficas que delimitan el polígono propuesto para su declaratoria se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-006-2025.
 
 POR TANTO:
 
@@ -93,9 +91,7 @@ No.
 
 Nombre Cuenca Municipio Departamento Área (ha) Familias 1 La Cuchilla Chamelecón La Jigua Copán 5.45 63 2 La Zumbadora Chamelecón San Antonio Copán 48.1 222 3 El Caral Río Ulúa Gracias Lempira 12.29 300 La Granadilla Río Ulúa La Labor y 4 5 Las Hojas Río Ulúa Gracias Lempira 46.34 440 6 Las Golondrinas Río Ulúa Gracias Lempira 15.21 213 7 El Guapinol Río Ulúa Gracias Lempira 23.52 360 8 Cortacabeza Lempa Gualcince, Piraera Lempira 17.39 240 9 Cacahual Lempa Candelaria Lempira 65.23 70 10 La Pinte Lempa Mapulaca Lempira 34.75 240 11 Los Planes Lempa San Sebastián Lempira 479.57 300 12 Piedra Pintada Chamelecón La Jigua Copán 8.1 200 Río Ulúa San Francisco de 14 La Presa de potrerillos Chamelecón Florida Copán 6.83 120 15 Quebraditas Chamelecón Veracruz y Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
 
-Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No.
-
-DCHA-006-2025.
+Las coordenadas geográficas que delimitan el polígono de estás declaratorias, se encuentran resguardadas por el Departamento de Cuencas Hidrográficas y están disponibles para consulta pública bajo el registro especial asignado No. DCHA-006-2025.
 
 TERCERO: De conformidad con el artículo 123 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, en estas zonas de protección hídrica se prohíbe cortar, dañar, quemar o destruir árboles, arbustos y los bosques en general. Igualmente, se prohíbe la construcción de cualquier tipo de infraestructura, la ejecución de actividades agrícolas o pecuarias y todas aquellas otras que pongan en riesgo los fines perseguidos.
 

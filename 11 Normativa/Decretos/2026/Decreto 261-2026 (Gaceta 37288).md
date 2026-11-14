@@ -11,7 +11,7 @@ paginas: "A. 55 - 56"
 sumario: "Decretos Nos. 224-2026, 225-2026, 261-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261106-37288/download"
 extraido: "2026-11-09"
-huella: "f73bce9234a6a27d"
+huella: "541099877fe4f82d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 261-2026
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece el deber del Estado de proteger a la infancia y que las leyes de protección de la niñez son de orden público, correspondiendo al Estado adoptar las medidas necesarias para garantizar sus derechos y su desarrollo integral.
 
-CONSIDERANDO: Que la Convención sobre los Derechos del Niño, ratificada por el Estado de Honduras mediante Decreto No.75-90, reconoce el derecho de niñas, niños y adolescentes a expresar libremente sus opiniones y a participar activamente en todos los asuntos que les afecten, correspondiendo al Estado crear mecanismos permanentes que fortalezcan su formación ciudadana y democrática.
+CONSIDERANDO: Que la Convención sobre los Derechos del Niño, ratificada por el Estado de Honduras mediante Decreto No. 75-90, reconoce el derecho de niñas, niños y adolescentes a expresar libremente sus opiniones y a participar activamente en todos los asuntos que les afecten, correspondiendo al Estado crear mecanismos permanentes que fortalezcan su formación ciudadana y democrática.
 
-CONSIDERANDO: Que existen antecedentes históricos que forman parte de nuestra cultura jurídica, entre los que destaca el Decreto No.125-2004, mediante el cual el Congreso Nacional institucionalizó el Congreso Nacional Infantil como un espacio permanente de educación cívica, formación parlamentaria y participación ciudadana de la niñez hondureña.
+CONSIDERANDO: Que existen antecedentes históricos que forman parte de nuestra cultura jurídica, entre los que destaca el Decreto No. 125-2004, mediante el cual el Congreso Nacional institucionalizó el Congreso Nacional Infantil como un espacio permanente de educación cívica, formación parlamentaria y participación ciudadana de la niñez hondureña.
 
-CONSIDERANDO: Que mediante el Decreto No.16-2024, aprobado el 21 de Febrero del año 2024 y publicado en el Diario Oficial “La Gaceta” el 16 de Abril del año 2024, se emitió la Ley del Congreso Nacional Infantil, cuya aplicación permite identificar la necesidad de perfeccionar determinadas disposiciones a fin de fortalecer su coherencia jurídica, la flexibilidad organizativa, la inclusión efectiva de niñas y niños en situación de vulnerabilidad y el adecuado seguimiento de las iniciativas presentadas por los congresistas infantiles.
+CONSIDERANDO: Que mediante el Decreto No. 16-2024, aprobado el 21 de Febrero del año 2024 y publicado en el Diario Oficial “La Gaceta” el 16 de Abril del año 2024, se emitió la Ley del Congreso Nacional Infantil, cuya aplicación permite identificar la necesidad de perfeccionar determinadas disposiciones a fin de fortalecer su coherencia jurídica, la flexibilidad organizativa, la inclusión efectiva de niñas y niños en situación de vulnerabilidad y el adecuado seguimiento de las iniciativas presentadas por los congresistas infantiles.
 
-CONSIDERANDO: Que a través del Decreto No.216-2026, aprobado el 29 de Septiembre del año 2026 y publicado en el Diario Oficial “La Gaceta” el 22 de Octubre del año 2026, se establecieron reformas a la Ley del Congreso Nacional Infantil para otorgar reconocimiento institucional, plena validez participativa y legitimidad democrática a las propuestas, mociones e iniciativas presentadas por los congresistas infantiles en representación de la niñez del país.
+CONSIDERANDO: Que a través del Decreto No. 216-2026, aprobado el 29 de Septiembre del año 2026 y publicado en el Diario Oficial “La Gaceta” el 22 de Octubre del año 2026, se establecieron reformas a la Ley del Congreso Nacional Infantil para otorgar reconocimiento institucional, plena validez participativa y legitimidad democrática a las propuestas, mociones e iniciativas presentadas por los congresistas infantiles en representación de la niñez del país.
 
 CONSIDERANDO: Que el 27 de Octubre del año 2026 se desarrolló el “XXIX Congreso Infantil 2026” bajo el lema “Los Niños Hablan, Honduras Escucha”, constituyendo un espacio democrático fundamental para que las niñas y los niños representantes de los dieciocho (18) Departamentos del país presentaran diversas iniciativas, ejercieran su derecho a la participación ciudadana, expresaran sus necesidades y propusieran soluciones legislativas orientadas al bienestar, la educación y la protección integral de la niñez hondureña.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 

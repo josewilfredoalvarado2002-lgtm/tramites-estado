@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Nos. 013-2025, 015-2025, 018-2025, 021-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250402-36806/download"
 extraido: "2026-11-11"
-huella: "eb0106249afd7b2f"
+huella: "3922bff80692d33d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 013-2025
@@ -73,7 +73,7 @@ CUARTO: APROBAR EL PLAN DE USO PÚBLICO
 
 (PUP) DEL PARQUE NACIONAL PICO PIJOL (PNPP), CON JURISDICCIÓN EN LOS MUNICIPIOS DE MORAZÁN, VICTORIA Y YORO, CON UN ÁREA DE ONCE MIL QUINIENTOS OCHO PUNTO VEINTIÚN HECTÁREAS (11,528.21 HA) DE LAS CUALES VEINTIUNO PUNTO TRES HECTÁREAS (21.3 HA) CORRESPONDEN A LA SUBZONA DE USO PÚBLICO, en cual establece las directrices para el desarrollo de actividades turísticas y recreativas en el área protegida, bajo los principios de sostenibilidad, protección de los recursos naturales y beneficios para la comunidad local.
 
-QUINTO: PLAN DE USO PÚBLICO (PUP) SE I M P L E M E N T A R Á C O N F O R M E A L A S REGULACIONES ESTABLECIDAS EN EL PLAN DE MANEJO Y SU ADENDA, de forma que todas las actividades de uso público respeten las zonas definidas y contribuyan al cumplimiento de los objetivos de conservación del parque.
+QUINTO: PLAN DE USO PÚBLICO (PUP) SE IMPLEMENTARÁ CONFORME A LAS REGULACIONES ESTABLECIDAS EN EL PLAN DE MANEJO Y SU ADENDA, de forma que todas las actividades de uso público respeten las zonas definidas y contribuyan al cumplimiento de los objetivos de conservación del parque.
 
 SEXTO: Que el presente acuerdo es de aplicación inmediata y se publicará en el Diario Oficial La Gaceta, en la página Web del ICF, mismo que estará disponible a través del siguiente código QR que permite el acceso directo al documento Integro denominado “Plan de Uso Público Parque Nacional Pico Pijol”. – COMUNÍQUESE Y PUBLÍQUESE.
 

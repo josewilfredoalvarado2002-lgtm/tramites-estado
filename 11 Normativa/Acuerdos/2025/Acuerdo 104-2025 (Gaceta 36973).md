@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 104-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251022-36973/download"
 extraido: "2026-11-09"
-huella: "26183f8fd559fa01"
+huella: "40bcc194da0ff9c1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 104-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que en la reunión sostenida el día 04 de septiembre de 2025, con
 
 CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería remitió a la Secretaría de Desarrollo Económico el Acuerdo No. SAG-120-2025, publicado en fecha 01 de octubre de 2025 en el Diario Oficial “La Gaceta”, en el marco del Acuerdo Ejecutivo No. SA-125-2022, modificado mediante Acuerdo Ejecutivo No. 137-2024, por medio del cual solicita a esta Secretaría de Estado proceder a la emisión de los Certificados para la Importación de Maíz Blanco tercer corte por la cantidad de 3.779.70 TM, clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), con un DAI del cero por ciento (0%), y con una vigencia hasta al 31 de diciembre del 2025.
 
-CONSIDERANDO: Que La Empresa IMSA, según el Informe de Compras de Maíz del Tercer Corte de la Cosecha 2024- 2025, no realizó ninguna compra; por consiguiente, no gozará del beneficio de importar maíz blanco en este Corte.
+CONSIDERANDO: Que La Empresa IMSA, según el Informe de Compras de Maíz del Tercer Corte de la Cosecha 2024-2025, no realizó ninguna compra; por consiguiente, no gozará del beneficio de importar maíz blanco en este Corte.
 
 POR TANTO:
 
@@ -95,9 +95,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

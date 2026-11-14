@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Ejecutivo Número 048-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260903-37237/download"
 extraido: "2026-11-09"
-huella: "63056a5e02578676"
+huella: "c41d9bc023b1e438"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 048-DP-2026
@@ -53,9 +53,7 @@ Dicha infraestructura soporta, entre otros, el Sistema de Gestión por Resultado
 
 CONSIDERANDO: Que la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en el marco de sus atribuciones como órgano rector de la transformación digital del Estado, desarrolla e implementa la infraestructura tecnológica que soporta servicios de confianza digital utilizados por la Administración Pública, incluyendo la Firma Digital Avanzada, la cual constituye un mecanismo esencial para garantizar la autenticidad, integridad, no repudio, trazabilidad y validez jurídica de los documentos electrónicos. En virtud de la naturaleza de dichos servicios, la infraestructura tecnológica y criptográfica que los soporta requiere los más altos niveles de seguridad, disponibilidad, integridad y resiliencia, por cuanto cualquier vulneración, alteración, indisponibilidad o compromiso de sus mecanismos de protección podría afectar la confianza en los procesos electrónicos del Estado, comprometer la seguridad de las transacciones digitales, poner en riesgo la eficacia jurídica de los actos administrativos emitidos por medios electrónicos y generar impactos sobre la continuidad de los servicios públicos digitales, circunstancias que hacen indispensable fortalecer de manera permanente las capacidades institucionales de ciberseguridad, con el propósito de garantizar la continuidad operativa, la seguridad de la infraestructura tecnológica y la confianza en los servicios digitales prestados por el Estado.
 
-CONSIDERANDO: Que la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en el ejercicio de sus competencias en materia de ciberseguridad, presentó al señor Presidente de la República, mediante Oficio No.
-
-DM-DIGER 236-2026, de fecha 2 de julio de 2026, al cual se adjuntó el Informe Técnico de Evaluación de Ciberseguridad, los resultados de las evaluaciones especializadas de ciberseguridad practicadas sobre instituciones estratégicas del Estado, en las cuales se documentó la existencia de vulnerabilidades críticas, deficiencias en los controles de seguridad, exposición de activos tecnológicos y escenarios de riesgo susceptibles de comprometer la confidencialidad, integridad, disponibilidad y continuidad de los servicios digitales gubernamentales, concluyéndose la necesidad de adoptar, con carácter prioritario e inmediato, medidas de fortalecimiento de la infraestructura de seguridad y ciberseguridad administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), a fin de proteger la Infraestructura Pública Digital del Estado y garantizar la continuidad de servicios públicos digitales.
+CONSIDERANDO: Que la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), en el ejercicio de sus competencias en materia de ciberseguridad, presentó al señor Presidente de la República, mediante Oficio No. DM-DIGER 236-2026, de fecha 2 de julio de 2026, al cual se adjuntó el Informe Técnico de Evaluación de Ciberseguridad, los resultados de las evaluaciones especializadas de ciberseguridad practicadas sobre instituciones estratégicas del Estado, en las cuales se documentó la existencia de vulnerabilidades críticas, deficiencias en los controles de seguridad, exposición de activos tecnológicos y escenarios de riesgo susceptibles de comprometer la confidencialidad, integridad, disponibilidad y continuidad de los servicios digitales gubernamentales, concluyéndose la necesidad de adoptar, con carácter prioritario e inmediato, medidas de fortalecimiento de la infraestructura de seguridad y ciberseguridad administrada por la DIRECCIÓN DE GESTIÓN POR RESULTADOS (DIGER), a fin de proteger la Infraestructura Pública Digital del Estado y garantizar la continuidad de servicios públicos digitales.
 
 CONSIDERANDO: Que durante la implementación de la Billetera Electrónica Nacional (BIEN) se registró un incidente de ciberseguridad consistente en ataques automatizados dirigidos contra los servicios públicos, ocasionando degradación temporal de la disponibilidad del servicio y requiriendo la ejecución inmediata de medidas especializadas de contención, monitoreo, análisis y mitigación; determinándose mediante los análisis técnicos correspondientes que los controles de seguridad implementados evitaron el compromiso de la identidad digital y de las credenciales de los ciudadanos, sin perjuicio de evidenciar la necesidad de fortalecer las capacidades institucionales de protección perimetral y respuesta frente a amenazas avanzadas (INFORME DE INCIDENTE DE SEGURIDAD HONDURAS DIGITAL ID PROJECT MAYO 2026).
 
@@ -73,9 +71,7 @@ CONSIDERANDO: Que la protección de la Infraestructura Pública Digital del Esta
 
 POR TANTO;
 
-En uso de las facultades de que está investido y que están contenidas en los Artículos 235, 245 Numerales 1, 2, 11, 19 y 45 de la Constitución de la República; y, Artículos 11, 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
-
-266-2013; Artículo 63 Numerales 4, 6 y Párrafo Final, de la Ley de Contratación del Estado; Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta" y, demás aplicables.
+En uso de las facultades de que está investido y que están contenidas en los Artículos 235, 245 Numerales 1, 2, 11, 19 y 45 de la Constitución de la República; y, Artículos 11, 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 63 Numerales 4, 6 y Párrafo Final, de la Ley de Contratación del Estado; Artículo 4 del DECRETO EJECUTIVO NÚMERO PCM-004-2026, publicado el 25 de febrero de 2026 en el Diario Oficial "La Gaceta" y, demás aplicables.
 
 ACUERDA:
 

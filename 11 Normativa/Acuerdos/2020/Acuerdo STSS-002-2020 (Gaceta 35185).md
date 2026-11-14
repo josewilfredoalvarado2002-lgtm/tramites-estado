@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200226-35185/download"
 extraido: "2026-11-14"
-huella: "56c977eab817de2a"
+huella: "7f4799161e0ba3dd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-002-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el artículo 123 de la Ley General de la Administración Públ
 
 CONSIDERANDO: Que la Ley General de la Administración Pública señala que el Secretario de Estado podrá delegar en los Subsecretarios de Estado, el ejercicio de sus atribuciones específicas.
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No. 15- 2019 de fecha cinco (05) de marzo del dos mil diecinueve (2019), se nombró al ciudadano Olvin Aníbal Villalobos Velásquez en el cargo de Subsecretario de Fslado en el Despacho de Trabajo y Seguridad Social.
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 15-2019 de fecha cinco (05) de marzo del dos mil diecinueve (2019), se nombró al ciudadano Olvin Aníbal Villalobos Velásquez en el cargo de Subsecretario de Fslado en el Despacho de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que el ciudadano Carlos Alberto Madero Erazo, en su condición de Secretario de Estado en los Despachos de Trabajo y Seguridad Social, estará fuera del país del 31 de enero al 18 de febrero del año 2020.
 

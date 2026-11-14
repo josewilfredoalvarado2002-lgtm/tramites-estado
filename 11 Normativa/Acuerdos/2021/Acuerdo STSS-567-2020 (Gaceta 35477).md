@@ -11,7 +11,7 @@ paginas: "A. 27 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "e07f218b1fcbf06f"
+huella: "024f65b44dcb6718"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-567-2020
@@ -33,7 +33,7 @@ ACUERDA:
 
 PRIMERO: Reintegrar a la ciudadana Olga Regina Belisle Ortega, en el puesto Inspector de Trabajo II, Institución 130 Secretaría de Trabajo y Seguridad Social, Programa 012; Supervisión y Control de Condiciones Laborales, Unidad Ejecutora; 004 Inspección General de Trabajo, Sub Programa; 00, Actividad /Obra; 002, Versión 001, Unidad;
 
-Promoción y Vigilancia de Cumplimientos Laborales, Número de Puesto; 1558, Puesto Inspector de Trabajo II, Grupo- Nivel; 02-06, Sueldo Mensual Lps. 18,100.00 (Dieciocho Mil Cien Lempiras Exactos), Acción de Personal N°. 035- 2020, aprobada por la Dirección General de Servicio Civil, Efectividad; a partir del 01 de agosto del año dos mil veinte (2020).
+Promoción y Vigilancia de Cumplimientos Laborales, Número de Puesto; 1558, Puesto Inspector de Trabajo II, Grupo- Nivel; 02-06, Sueldo Mensual Lps. 18,100.00 (Dieciocho Mil Cien Lempiras Exactos), Acción de Personal N°. 035-2020, aprobada por la Dirección General de Servicio Civil, Efectividad; a partir del 01 de agosto del año dos mil veinte (2020).
 
 SEGUNDO: La permanencia en el cargo está sujeta a evaluación por resultados en los términos establecidos por la Presidencial de la República.
 

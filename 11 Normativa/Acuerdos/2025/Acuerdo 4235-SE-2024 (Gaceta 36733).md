@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdos Nos. 3735-SE-2024, 4235-SE-2024, 4655-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250107-36733/download"
 extraido: "2026-11-13"
-huella: "214b2a143c8f902b"
+huella: "dfd46a9dca337938"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 4235-SE-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Ley Fundamental de Educación en su Artículo 14 de los Pri
 
 CONSIDERANDO: Que la Secretaría de Educación de acuerdo con lo establecido en el Plan Estratégico del Sector Educación 2018-2030 (PESE). Tiene como objetivo rediseñar el Currículum Nacional conforme a las demandas del mundo del trabajo, las necesidades de inserción laboral y la innovación, la ciencia y la tecnología del siglo XXI.
 
-CONSIDERANDO: Que uno de los Retos, Visión y Áreas Estratégicas del Plan Estratégico del Sector Educación 2018- 2030 (PESE), es potenciar el uso de las nuevas tecnologías de la comunicación.
+CONSIDERANDO: Que uno de los Retos, Visión y Áreas Estratégicas del Plan Estratégico del Sector Educación 2018-2030 (PESE), es potenciar el uso de las nuevas tecnologías de la comunicación.
 
 CONSIDERANDO: Que una de las funciones de la Dirección General de Tecnología Educativa, es establecer lineamientos para la implementación y la aplicación de la plataforma tecnológica, en las dependencias administrativas del nivel central y descentralizado, centros educativos y otros ambientes de aprendizaje.
 

@@ -11,7 +11,7 @@ paginas: "A. 64 - 66"
 sumario: "Acuerdo Ejecutivo Número 208-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250607-36858/download"
 extraido: "2026-11-10"
-huella: "0f419452bf1bcff8"
+huella: "3a967d69c8f7ead0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 208-2025
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -59,7 +59,7 @@ Que el tramo carretero Chamelecón – Naco, ubicado en el departamento de Cort�
 
 CONSIDERANDO:
 
-Que dicho tramo presenta un elevado deterioro físico en su infraestructura, a d e m á s d e u n a c r e c i e n t e demanda vehicular estimada en 25,835 vehículos diarios, lo que genera congestión, accidentes, contaminación ambiental, costos operativos elevados y limita el desarrollo económico y social de las comunidades aledañas.
+Que dicho tramo presenta un elevado deterioro físico en su infraestructura, además de una creciente demanda vehicular estimada en 25,835 vehículos diarios, lo que genera congestión, accidentes, contaminación ambiental, costos operativos elevados y limita el desarrollo económico y social de las comunidades aledañas.
 
 CONSIDERANDO:
 

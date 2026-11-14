@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Acuerdo No. 0418-ARSA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230926-36343/download"
 extraido: "2026-11-14"
-huella: "0a40e76bedb40838"
+huella: "c704dc68c913b920"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0418-ARSA-2023
@@ -51,7 +51,7 @@ POR TANTO:
 
 LA COMISIONADA PRESIDENTA DE LA AGENCIA
 
-DE REGULACIÓN SANITARIA, En el ejercicio de las facultades que le confiere la ley y en aplicación de los artículos 1, 59, 145, 146 y 147 de la Constitución de la República; 1, 2, 5, 7, 8, 9, 12 y 14 del PCM 32-2017; 1, 2, 5, 6, 7, 9 y 12 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria; 1, 4, 58, 69, 133, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 1478, 148, 149, 150, 152, 153, 154, 222, 223, 224 , 225, 236 y 240 del Código de Salud; 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo.
+DE REGULACIÓN SANITARIA, En el ejercicio de las facultades que le confiere la ley y en aplicación de los artículos 1, 59, 145, 146 y 147 de la Constitución de la República; 1, 2, 5, 7, 8, 9, 12 y 14 del PCM 32-2017; 1, 2, 5, 6, 7, 9 y 12 del Decreto Legislativo 7-2021 Ley de la Agencia de Regulación Sanitaria; 1, 4, 58, 69, 133, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 1478, 148, 149, 150, 152, 153, 154, 222, 223, 224, 225, 236 y 240 del Código de Salud; 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 23, 24, 26, 27, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 
@@ -1557,7 +1557,7 @@ h. Cambio de excipientes del producto:
 
 ○ Justificación técnica del cambio.
 
-○ M e t o d o l o g í a a n a l í t i c a actualizada y validada (cuando aplique).
+○ Metodología analítica actualizada y validada (cuando aplique).
 
 ● Especificaciones del producto terminado actualizadas (cuando aplique).
 
@@ -1571,7 +1571,7 @@ j. Cambio en el periodo de vida útil:
 
 ● Informe del estudio actualizado de estabilidad.
 
-k. C a m b i o e n l a s c o n d i c i o n e s d e almacenamiento:
+k. Cambio en las condiciones de almacenamiento:
 
 ● Informe del nuevo estudio de estabilidad.
 
@@ -1963,7 +1963,7 @@ CAPÍTULO VI AUTORIZACIÓN SANITARIA DE IMPORTACIÓN DE DONACIÓN POR ESTADO DE 
 
 Artículo 90. Para solicitar la Autorización Sanitaria de importación de una Donación por estado de emergencia de productos farmacéuticos y otros productos del ramo de interés sanitario, se deberá cumplir con los siguientes requisitos:
 
-1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA A U T O R I Z A C I Ó N S A N I T A R I A D E IMPORTACIÓN DE UNA DONACIÓN POR ESTADO DE EMERGENCIA” que incluya los siguientes datos:
+1. Solicitud dirigida a la Agencia de Regulación Sanitaria cuya suma indique, “SE SOLICITA AUTORIZACIÓN SANITARIA DE IMPORTACIÓN DE UNA DONACIÓN POR ESTADO DE EMERGENCIA” que incluya los siguientes datos:
 
 a. Datos generales del solicitante;
 
@@ -2621,7 +2621,7 @@ Artículo 119. La ARSA regulará lo relacionado a los productos farmacéuticos b
 
 Para la obtención de un registro sanitario ya sea nuevo o renovación el solicitante deberá cumplir con los requisitos siguientes:
 
-1. Solicitud con la Suma que indique: SE S O L I C I T A R E G I S T R O S A N I T A R I O NUEVO O RENOVACIÓN DE PRODUCTOS F A R M A C É U T I C O S B I O L Ó G I C O S , P R O D U C T O S F A R M A C É U T I C O S BIOTECNOLÓGICOS, LIBERACIÓN DE LOTE DE VACUNAS Y PRODUCTOS FARMACÉUTICOS HEMODERIVADOS, que contengan como mínimo los siguientes datos:
+1. Solicitud con la Suma que indique: SE SOLICITA REGISTRO SANITARIO NUEVO O RENOVACIÓN DE PRODUCTOS FARMACÉUTICOS BIOLÓGICOS, PRODUCTOS FARMACÉUTICOS BIOTECNOLÓGICOS, LIBERACIÓN DE LOTE DE VACUNAS Y PRODUCTOS FARMACÉUTICOS HEMODERIVADOS, que contengan como mínimo los siguientes datos:
 
 a. Órgano al que se dirige: Dirección General de Regulación Sanitaria o Jefatura de Región Departamental de Salud, (según corresponda);
 

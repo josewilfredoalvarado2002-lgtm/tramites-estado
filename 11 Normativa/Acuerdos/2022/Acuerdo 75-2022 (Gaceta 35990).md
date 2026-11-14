@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Acuerdos Ejecutivos Nos. 317-A-2022, 21-2022, 68-2022, 71-2022, 72-2022, 75-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220801-35990/download"
 extraido: "2026-11-14"
-huella: "40108be901fb015c"
+huella: "b1648755db942856"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 75-2022
@@ -51,7 +51,7 @@ COMUNÍQUESE Y PUBLÍQUESE
 
 Dado en la Ciudad de Tegucigalpa, municipio del Distrito Central, a los 4 días del mes de febrero del año 2022.
 
-IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha quince de junio del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 15062021-406 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS PALMAS, MUNICIPIO DE PUERTO CORTÉS, DEPARTAMENTO DE CORTÉS, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha quince de junio del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-15062021-406 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS PALMAS, MUNICIPIO DE PUERTO CORTÉS, DEPARTAMENTO DE CORTÉS, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

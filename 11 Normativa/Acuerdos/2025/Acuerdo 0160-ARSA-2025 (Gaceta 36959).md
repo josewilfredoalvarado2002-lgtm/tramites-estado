@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 0160-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251006-36959/download"
 extraido: "2026-11-09"
-huella: "4630dfe15e7cca10"
+huella: "d7613e705dc04346"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0160-ARSA-2025
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, corresponde al Estado por medio de la Agencia de Regulación 
 
 CONSIDERANDO: Que el Decreto 07-2021 contentivo de la Ley de la Agencia de Regulación Sanitaria, establece en su artículo 7 que, entre sus atribuciones y competencias, le corresponde la elaboración, actualización y aprobación del marco normativo que regule los establecimientos, servicios y productos de interés sanitario.
 
-CONSIDERANDO: Que en fecha, veinticuatro (24) de abril del año dos mil veinticuatro (2024) el soberano Congreso Nacional, aprueba mediante Decreto Legislativo Número 46- 2024, la LEY PARA EL CONTROL Y REGULACIÓN DE BEBIDAS ENERGIZANTES, que tiene como finalidad establecer regulaciones para la venta y comercialización de las bebidas energizantes a personas menores de dieciocho (18) años de edad, entendiéndose por bebida energizante como las bebidas funcionales no alcohólicas con un efecto estimulante y una combinación especial de ingredientes característicos como: Cafeína, azúcar, taurina, vitamina B u otras sustancias como ginseng, guaraná, yerba mate, acai, maltodextrina, inositol, carnitina, creatina, glucuronolactona, ginkgo biloba, L-carnitina, riboflavina, piridoxina, aromas o demás sustancias con efectos fisiológicos o valor nutricional.
+CONSIDERANDO: Que en fecha, veinticuatro (24) de abril del año dos mil veinticuatro (2024) el soberano Congreso Nacional, aprueba mediante Decreto Legislativo Número 46-2024, la LEY PARA EL CONTROL Y REGULACIÓN DE BEBIDAS ENERGIZANTES, que tiene como finalidad establecer regulaciones para la venta y comercialización de las bebidas energizantes a personas menores de dieciocho (18) años de edad, entendiéndose por bebida energizante como las bebidas funcionales no alcohólicas con un efecto estimulante y una combinación especial de ingredientes característicos como: Cafeína, azúcar, taurina, vitamina B u otras sustancias como ginseng, guaraná, yerba mate, acai, maltodextrina, inositol, carnitina, creatina, glucuronolactona, ginkgo biloba, L-carnitina, riboflavina, piridoxina, aromas o demás sustancias con efectos fisiológicos o valor nutricional.
 
 CONSIDERANDO: Que la LEY PARA EL CONTROL Y REGULACIÓN DE BEBIDAS ENERGIZANTES en su artículo 4, se ordena a la Agencia de Regulación Sanitaria (ARSA) para que proceda a la emisión de la normativa que regule lo relativo a las características, especificaciones y procedimientos relacionados con el contenido, etiquetado, publicidad y puntos de venta de los productos y bebidas energizantes o cualquier otro producto que contenga los componentes mencionados en el Artículo 1 de la presente Ley.
 

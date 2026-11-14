@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Decretos Nos. 115-2021, 118-2021, 122-2021, 125-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220106-35815/download"
 extraido: "2026-11-14"
-huella: "7d02ac96f2caec6e"
+huella: "62bf8804a42be88b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 122-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Reglamento de Ascenso para Oficiales de las Fuerzas Armadas
 
 CONSIDERANDO: Que el Capitán de Infantería JOSÉ GREGORIO VENTURA SALMERÓN (Q.D.D.G.), se encontraba realizando operaciones militares policiales con la Fuerza Nacional Anti-Maras y Pandillas (FNAMP) en el municipio de Choloma, departamento de Cortés el 19 de noviembre del 2021, donde fue víctima de un asesinato por estructuras criminales, recibiendo un disparo con arma de fuego en el cráneo, falleciendo en el trayecto al Hospital Militar Regional de San Pedro Sula, Cortés.
 
-CONSIDERANDO: Que por Decreto Legislativo No.69- 2017 de fecha 10 de Octubre de 2017, publicado en el Diario Oficial “La Gaceta”, Edición No.34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la Carrera Policial.
+CONSIDERANDO: Que por Decreto Legislativo No. 69-2017 de fecha 10 de Octubre de 2017, publicado en el Diario Oficial “La Gaceta”, Edición No. 34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la Carrera Policial.
 
 CONSIDERANDO: Que esta misma Ley en su Artículo 50 establece, que los ascensos de las Categorías de Oficiales Subalternos son otorgados por el Presidente de la República, a propuesta de la Secretaría de Estado en el Despacho de Seguridad. Los ascensos de las categorías de Oficiales Generales y Oficiales Superiores son otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo, a través de la Secretaría de Estado en el Despacho de Seguridad. Las demás categorías, son otorgadas por el Director General de la Policía Nacional, de acuerdo al reglamento respectivo.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

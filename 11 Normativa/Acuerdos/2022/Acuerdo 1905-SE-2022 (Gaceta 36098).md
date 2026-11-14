@@ -11,7 +11,7 @@ paginas: "A. 19 - 24"
 sumario: "Acuerdo Ministerial No. 1296-SE-2022, Acuerdo No. 1905-SE-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221209-36098/download"
 extraido: "2026-11-14"
-huella: "6efa30cc70bcdf49"
+huella: "fc40322f1c9343a4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 1905-SE-2022
@@ -47,9 +47,7 @@ CONSIDERANDO: Que es un compromiso del presente Gobierno de la República, retom
 
 CONSIDERANDO: Que mediante Acuerdo N0. 0631-SE-2007 con fecha 23 de febrero de 2007, en su considerando quinto hace referencia al Decreto Ejecutivo N0. PCM -01-2006 de fecha 30 de enero del 2006, en donde se autorizó la creación y ejecución de la Matrícula Gratis en los niveles de Pre-Básico, Básico y Medio del Sistema Educativo Nacional.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM No.
-
-01-2006, se ordena a todos los Directores de los Centros Educativos gubernamentales de los niveles Prebásica, Básica y Media, que a partir de la entrada en vigencia del presente Decreto Ejecutivo se les facilite el acceso a Matrícula Gratis; a los educandos; asimismo, se instruye a la Secretaría de Estado en el Despacho de Educación para que establezca los procedimientos correspondientes al monto a otorgar por educando en concepto de Matrícula Gratis en cada Centro Educativo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM No. 01-2006, se ordena a todos los Directores de los Centros Educativos gubernamentales de los niveles Prebásica, Básica y Media, que a partir de la entrada en vigencia del presente Decreto Ejecutivo se les facilite el acceso a Matrícula Gratis; a los educandos; asimismo, se instruye a la Secretaría de Estado en el Despacho de Educación para que establezca los procedimientos correspondientes al monto a otorgar por educando en concepto de Matrícula Gratis en cada Centro Educativo.
 
 CONSIDERANDO: Que la reactivación del Programa Matrícula Gratis, proveerá a los Centros Educativos gubernamentales de los niveles Pre básica, Básica y Media; administrados por la Secretaría de Educación a través de la Subsecretaría de Asuntos Administrativos y Financieros, los recursos financieros con el propósito de mejorar la calidad educativa, logrando las condiciones básicas, el acceso, permanencia y promoción de los educandos en los Centros Educativos.
 
@@ -59,7 +57,7 @@ En uso de las facultades que está investido y en aplicación de los
 
 Artículos 151,157, 171, 246 y 247 de la Constitución de la República;
 
-5, 28 numeral 2, 29, 33, 34, 36, 37 116, 118 y 119 y demás aplicables de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No.266-2013; Decreto Ejecutivo PCM-01-2006, de fecha treinta (30) de enero del año dos mil seis.
+5, 28 numeral 2, 29, 33, 34, 36, 37 116, 118 y 119 y demás aplicables de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo PCM-01-2006, de fecha treinta (30) de enero del año dos mil seis.
 
 ACUERDA:
 
@@ -139,7 +137,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 LICENCIADO JAIME ATILIO RODRIGUEZ PEÑALVA SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN, POR LEY ABOGADO EDWIN EMILIO OLIVA SECRETARIO GENERAL Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el Contrato No.1471/GLA/AMDC/2021. CODIGO No.2807, ¨ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL¨, suscrito a los 29 días del mes de Diciembre de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde del Distrito Central NASRY JUAN ASFURA ZABLAH y el señor PEDRO EDMUNDO PINEDA COBOS, en su condición de representante de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., que literalmente dice:
+DECRETA: ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, el Contrato No. 1471/GLA/AMDC/2021. CODIGO No. 2807, ¨ESTUDIO Y DISEÑO DE OBRAS PARA EL CONTROL DE DESLIZAMIENTO Y CAIDA DE ROCAS EN DIFERENTES PUNTOS DEL DISTRITO CENTRAL¨, suscrito a los 29 días del mes de Diciembre de 2021, entre la Municipalidad del Distrito Central por medio del señor Alcalde del Distrito Central NASRY JUAN ASFURA ZABLAH y el señor PEDRO EDMUNDO PINEDA COBOS, en su condición de representante de la Sociedad TÉCNICA DE INGENIERÍA, S.A. DE C.V., que literalmente dice:
 
 CENTROS DE DISTRIBUCIÓN:
 

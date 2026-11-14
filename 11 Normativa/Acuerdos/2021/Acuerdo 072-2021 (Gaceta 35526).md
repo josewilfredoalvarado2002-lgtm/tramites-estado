@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Acuerdo No. 072-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210224-35526/download"
 extraido: "2026-11-14"
-huella: "34b471cb47d25728"
+huella: "b4b67c84117b00d8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 072-2021
@@ -179,7 +179,7 @@ ELECTORALES: Para los efectos del presente Reglamento, se definen dos tipos de o
 
 a) OBSERVADORES ELECTORALES NACIONALES:
 
-Se consideran observadores electorales nacionales las personas naturales respaldadas por una organización de carácter civil, que soliciten tal condición al Consejo Nacional Electoral y le sea aprobado mediante Resolución. Los Observadores electorales que estén habilitados para ejercer el sufragio, lo harán en la Mesa Electoral Receptora que les corresponde de acuerdo con el Censo Nacional Electoral y cumpliendo los requisitos exigidos por la ley; sin embargo, no podrán realizar acciones de observación en la Mesa que ejerzan el sufragio. b ) O B S E R VA D O R E S E L E C T O R A L E S INTERNACIONALES: Se consideran observadores internacionales las personas o instituciones invitadas por el Consejo Nacional Electoral a través del mismo Consejo o de la Secretaría de Relaciones Exteriores y Cooperación Internacional, para que asistan a observar el proceso electoral primario a realizarse el domingo 14 de marzo de 2021.
+Se consideran observadores electorales nacionales las personas naturales respaldadas por una organización de carácter civil, que soliciten tal condición al Consejo Nacional Electoral y le sea aprobado mediante Resolución. Los Observadores electorales que estén habilitados para ejercer el sufragio, lo harán en la Mesa Electoral Receptora que les corresponde de acuerdo con el Censo Nacional Electoral y cumpliendo los requisitos exigidos por la ley; sin embargo, no podrán realizar acciones de observación en la Mesa que ejerzan el sufragio. b ) O B S E R VA DORES ELECTORALES INTERNACIONALES: Se consideran observadores internacionales las personas o instituciones invitadas por el Consejo Nacional Electoral a través del mismo Consejo o de la Secretaría de Relaciones Exteriores y Cooperación Internacional, para que asistan a observar el proceso electoral primario a realizarse el domingo 14 de marzo de 2021.
 
 Podrán ser también observadores nacionales, aquellas personas o instituciones dedicadas a la promoción de la democracia, incluidas organizaciones de derechos humanos con experiencia comprobada en la temática de observación electoral que lo soliciten y obtengan la aprobación del Consejo Nacional Electoral.
 

@@ -11,7 +11,7 @@ paginas: "A. 25 - 31"
 sumario: "Acuerdos Nos. SAG-053-2026, SAG-095-2026, 094-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260506-37134/download"
 extraido: "2026-11-09"
-huella: "5ed58c971236cf5b"
+huella: "884212bf5baac19c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-095-2026
@@ -45,7 +45,7 @@ Que la Secretaría de Estado en los Despachos de Agricultura y Ganadería a trav
 
 CONSIDERANDO:
 
-Q u e c o r r e s p o n d e a l a D I G E P E S C A , c o m o entidad ejecutora desarrollar investigaciones y estudios que permitan conocer el comportamiento de las especies hidrobiológicas, determinar su distribución geográfica, a b u n d a n c i a , d e n s i d a d poblacional, métodos y artes de pesca, que contribuyan a la formulación de medidas técnicas para la correcta administración y conservación de las especies hidrobiológicas.
+Que corresponde a la DIGEPESCA, como entidad ejecutora desarrollar investigaciones y estudios que permitan conocer el comportamiento de las especies hidrobiológicas, determinar su distribución geográfica, abundancia, densidad poblacional, métodos y artes de pesca, que contribuyan a la formulación de medidas técnicas para la correcta administración y conservación de las especies hidrobiológicas.
 
 CONSIDERANDO: Que el Código de Conducta para la Pesca Responsable de la FAO, sirve como instrumento de referencia para ayudar a los Estados a establecer o mejorar el marco jurídico e institucional necesario para el ejercicio de la pesca responsable, y es una guía para formular y aplicar las medidas apropiadas de ordenamiento y sostenibilidad, teniendo en cuenta todos los aspectos biológicos, tecnológicos, económicos, sociales, ambientales y comerciales.
 

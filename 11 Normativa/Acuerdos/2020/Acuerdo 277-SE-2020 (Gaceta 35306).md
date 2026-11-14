@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdos Nos. 277-SE-2020, 0281-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200707-35306-2/download"
 extraido: "2026-11-14"
-huella: "8670e279326b40f7"
+huella: "5fcf38150853f7b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 277-SE-2020
@@ -89,7 +89,7 @@ Consideraciones Generales
 
 4. Durante el tiempo que se prolongue la suspensión de clases presenciales cada centro educativo No Gubernamental deberá establecer un mecanismo de comunicación con el padre de familia, tutor o encargado para garantizar que el educando continúe el desarrollo de actividades de aprendizaje en su casa utilizando las diferentes estrategias de atención no presencial.
 
-5. Los educandos que no han logrado cumplir con el desarrollo de las actividades de aprendizaje serán atendidos de manera especial por el centro educativo a través de los docentes a fin de facilitar acciones o actividades de reforzamiento que le permitan alcanzar los objetivos o expectativas de logro a lo largo del proceso enseñanza- aprendizaje.
+5. Los educandos que no han logrado cumplir con el desarrollo de las actividades de aprendizaje serán atendidos de manera especial por el centro educativo a través de los docentes a fin de facilitar acciones o actividades de reforzamiento que le permitan alcanzar los objetivos o expectativas de logro a lo largo del proceso enseñanza-aprendizaje.
 
 6. Los centros educativos que cuentan con plataformas virtuales de atención pueden hacer la revisión y evaluación de los procesos de aprendizaje de acuerdo con su planificación.
 
@@ -111,7 +111,7 @@ Consideraciones Generales
 
 Para el Nivel de Educación de Prebásica
 
-1. Durante el tiempo que se prolongue la suspensión de clases presenciales, cada centro educativo deberá establecer un mecanismo de comunicación entre cada docente con el padre de familia, tutor o encargado para garantizar que el educando continúe el desarrollo del proceso enseñanza- aprendizaje en su casa utilizando las diferentes estrategias de atención no presencial.
+1. Durante el tiempo que se prolongue la suspensión de clases presenciales, cada centro educativo deberá establecer un mecanismo de comunicación entre cada docente con el padre de familia, tutor o encargado para garantizar que el educando continúe el desarrollo del proceso enseñanza-aprendizaje en su casa utilizando las diferentes estrategias de atención no presencial.
 
 2. Cada centro educativo enviará a los padres de familia, tutores, encargados un calendario de la entrega del portafolio de las asignaciones de cada docente. A la vez, cada padre de familia, tutor o encargado deberá hacer llegar al centro educativo el portafolio (carpeta) con la evidencia de todas las actividades desarrolladas por el educando durante el tiempo de suspensión de las clases presenciales.
 

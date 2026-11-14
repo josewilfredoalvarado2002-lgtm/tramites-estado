@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo Número 242-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260108-37038/download"
 extraido: "2026-11-09"
-huella: "b6041c88ee853551"
+huella: "cc4ffe3a40d4de66"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 242-2025
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -59,7 +59,7 @@ Que pese a los avances en infraestructura realizados por la UNAH en los últimos
 
 CONSIDERANDO:
 
-Que el programa “Construcción y M e j o r a m i e n t o d e l a Infraestructura y Sistema Eléctrico para el Desarrollo Académico y Administrativo en Ciudad Universitaria y Centros Regionales de la UNAH”, permitirá fortalecer la capacidad instalada de la institución mediante la construcción y rehabilitación de edificios, así como la modernización del sistema eléctrico en nueve campus universitarios, beneficiando directamente a más de 67,000 personas y generando alrededor de 74,000 empleos, con un impacto positivo en la calidad educativa, el acceso equitativo a la formación superior, y el desarrollo social y económico del país.
+Que el programa “Construcción y Mejoramiento de la Infraestructura y Sistema Eléctrico para el Desarrollo Académico y Administrativo en Ciudad Universitaria y Centros Regionales de la UNAH”, permitirá fortalecer la capacidad instalada de la institución mediante la construcción y rehabilitación de edificios, así como la modernización del sistema eléctrico en nueve campus universitarios, beneficiando directamente a más de 67,000 personas y generando alrededor de 74,000 empleos, con un impacto positivo en la calidad educativa, el acceso equitativo a la formación superior, y el desarrollo social y económico del país.
 
 CONSIDERANDO:
 

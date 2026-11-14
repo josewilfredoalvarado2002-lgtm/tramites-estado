@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 103-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241211-36712/download"
 extraido: "2026-11-14"
-huella: "c6f178e6a33692e6"
+huella: "a01b88c594ffe038"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 103-2024
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 293 de la Constitución de la República, establece: “La Policía Nacional es una Institución profesional permanente del Estado, apolítica en el sentido partidista, de naturaleza puramente civil, encargada de velar por la conservación del orden público, la prevención, control y combate del delito; proteger la seguridad de las personas y sus bienes; ejecutar las resoluciones, disposiciones, mandatos y decisiones legales de las autoridades y funcionarios públicos, todo en estricto respeto de los derechos humanos. La Policía Nacional se regirá por legislación especial”.
 
-CONSIDERANDO: Que mediante el Decreto No.69- 2017 del 22 de Agosto del 2017, publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, edición No.34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la carrera policial.
+CONSIDERANDO: Que mediante el Decreto No. 69-2017 del 22 de Agosto del 2017, publicado en el Diario Oficial “La Gaceta” en fecha 10 de octubre de 2017, edición No. 34,463, se emitió la Ley de la Carrera Policial, la que tiene por objeto regular el ingreso, desarrollo profesional, formación, capacitación, así como lo relativo a los ascensos y la terminación de la carrera policial.
 
-CONSIDERANDO: Que de conformidad a la Ley de la Carrera Policial contenida en el Decreto No.69-2017, publicado en el Diario Oficial “La Gaceta” de fecha 10 de octubre de 2017, es una atribución del Poder Ejecutivo someter a consideración del Congreso Nacional, el Ascenso de la categoría de Oficiales Generales y Oficiales Superiores, propuestos por la Secretaría de Estado en el Despacho de Seguridad. Lo que se realiza con base al Acta Extraordinaria del Consejo General de Ascensos para el año 2022 y al Dictamen Técnico del Directorio Estratégico Policial.
+CONSIDERANDO: Que de conformidad a la Ley de la Carrera Policial contenida en el Decreto No. 69-2017, publicado en el Diario Oficial “La Gaceta” de fecha 10 de octubre de 2017, es una atribución del Poder Ejecutivo someter a consideración del Congreso Nacional, el Ascenso de la categoría de Oficiales Generales y Oficiales Superiores, propuestos por la Secretaría de Estado en el Despacho de Seguridad. Lo que se realiza con base al Acta Extraordinaria del Consejo General de Ascensos para el año 2022 y al Dictamen Técnico del Directorio Estratégico Policial.
 
 CONSIDERANDO: Que los Oficiales nominados consignados en el presente Decreto conforme al Acta de Cierre del Consejo General de Ascensos de los Señores Oficiales en sus diferentes Categorías para ascender al Grado Inmediato Superior Año 2024, han mantenido una sobresaliente ejecutoría en el desempeño de su carrera profesional y han cumplido con los requisitos que se establecen en la Ley de la Carrera Policial, Reglamento de Ascenso de la Policía Nacional y Manuales respectivos, para ser declarados aptos para el ascenso al grado inmediato superior.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

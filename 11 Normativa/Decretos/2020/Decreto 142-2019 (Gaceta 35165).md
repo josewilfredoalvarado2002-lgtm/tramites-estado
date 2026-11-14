@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos números 142-2019, 159-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200203-35165/download"
 extraido: "2026-11-14"
-huella: "7f521244678a3239"
+huella: "413e29bbedfd3212"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 142-2019
@@ -41,7 +41,7 @@ EL
 
 SHADDAI
 
-(IGLESIA CRISTIANA EL SHADDAI) es una asociación civil sin fines de lucro, de naturaleza religiosa constituida de acuerdo a las leyes del país con número de Resolución 1254- 2004 inscrita bajo el número 2004000835 ante la Unidad de Registro y Seguimiento de Asociaciones Civiles (URSAC) hoy conocida como Dirección de Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, teniendo como finalidad primordial propagar, fomentar, predicar y exaltar el evangelio de Jesucristo en todo Honduras y en todo el mundo, mediante el establecimiento de una estructura organizativa e instituciones necesarias para la difusión del evangelio, así como trabajar en la búsqueda y velar por el bienestar social, cultural, espiritual y económico de sus miembros y en general coadyuvar al Estado al fortalecimiento de una sociedad honorable, digna, orgullosa de sí misma, cultural, fortalecida en el amor prójimo y en los principios morales, la fé y las buenas costumbres.
+(IGLESIA CRISTIANA EL SHADDAI) es una asociación civil sin fines de lucro, de naturaleza religiosa constituida de acuerdo a las leyes del país con número de Resolución 1254-2004 inscrita bajo el número 2004000835 ante la Unidad de Registro y Seguimiento de Asociaciones Civiles (URSAC) hoy conocida como Dirección de Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, teniendo como finalidad primordial propagar, fomentar, predicar y exaltar el evangelio de Jesucristo en todo Honduras y en todo el mundo, mediante el establecimiento de una estructura organizativa e instituciones necesarias para la difusión del evangelio, así como trabajar en la búsqueda y velar por el bienestar social, cultural, espiritual y económico de sus miembros y en general coadyuvar al Estado al fortalecimiento de una sociedad honorable, digna, orgullosa de sí misma, cultural, fortalecida en el amor prójimo y en los principios morales, la fé y las buenas costumbres.
 
 CONSIDERANDO: Que el Impuesto Sobre la Renta es aplicable a aquellas Organizaciones cuyo fin es el lucro y no es el caso de la FUNDACIÓN MISIÓN CRISTIANA INTERNACIONAL EL SHADDAI.
 

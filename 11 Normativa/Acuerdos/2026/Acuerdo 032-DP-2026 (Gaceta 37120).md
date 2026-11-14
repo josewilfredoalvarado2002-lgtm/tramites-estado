@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdo Ejecutivo No. 032-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260418-37120/download"
 extraido: "2026-11-09"
-huella: "f99ea782480e0aa4"
+huella: "42ce6e9b2d0142f1"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 032-DP-2026
@@ -47,7 +47,7 @@ En uso de sus facultades de que está investido y en aplicación de los Artícul
 
 ACUERDA:
 
-PRIMERO: Nombrar como representantes propietarios del sector privado vinculado al turismo a efecto de integrar el Consejo Nacional de Turismo (CNT) para el período 2026- 2028, a los siguientes ciudadanos:
+PRIMERO: Nombrar como representantes propietarios del sector privado vinculado al turismo a efecto de integrar el Consejo Nacional de Turismo (CNT) para el período 2026-2028, a los siguientes ciudadanos:
 
 a) ADOLFO VICTOR MANUEL PINEDA
 
@@ -57,7 +57,7 @@ b) JORGE RENÉ BROWER DETARI; y,
 
 c) LUIS ALBERTO ORELLANA ARITA.
 
-SEGUNDO: Nombrar como representantes suplentes del sector privado vinculado al turismo a efecto de integrar el Consejo Nacional de Turismo (CNT) para el período 2026- 2028, a los siguientes ciudadanos:
+SEGUNDO: Nombrar como representantes suplentes del sector privado vinculado al turismo a efecto de integrar el Consejo Nacional de Turismo (CNT) para el período 2026-2028, a los siguientes ciudadanos:
 
 a) DINA NÚÑEZ AZZAD;
 

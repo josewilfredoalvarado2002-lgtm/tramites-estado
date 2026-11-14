@@ -8,10 +8,10 @@ gaceta_numero: 36188
 gaceta_fecha: "2023-03-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)|La Gaceta 36188]]"
 paginas: "A. 6 - 16"
-sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023"
+sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230324-36188/download"
 extraido: "2026-11-14"
-huella: "f8af0aa21b948ffa"
+huella: "836017505c2f3994"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 37-2023
@@ -23,7 +23,7 @@ huella: "f8af0aa21b948ffa"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)\|La Gaceta 36188]] del 2023-03-24 |
 | Páginas | A. 6 - 16 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023 |
 
 ## Texto
 
@@ -59,7 +59,7 @@ Resultando:
 
 1. Que la Ley General de la Industria Eléctrica (LGIE) en su artículo 3 letra D establece las funciones de la Comisión Reguladora de Energía Eléctrica (CREE), incluyendo la de supervisar las actividades del subsector eléctrico, así como expedir las regulaciones, normas y reglamentos necesarios para la mejor aplicación de la Ley y el adecuado funcionamiento de este.
 
-2. Que mediante el Acuerdo CREE- 09-2023 de fecha 01 de febrero de 2023, la CREE aprobó el inicio del proceso de consulta pública CREE-CP-02-2023 con el fin de obtener observaciones y comentarios no vinculantes a la propuesta de “Disposiciones Técnicas Transitorias para paliar el Déficit de Generación pronosticado para el año 2023”.
+2. Que mediante el Acuerdo CREE-09-2023 de fecha 01 de febrero de 2023, la CREE aprobó el inicio del proceso de consulta pública CREE-CP-02-2023 con el fin de obtener observaciones y comentarios no vinculantes a la propuesta de “Disposiciones Técnicas Transitorias para paliar el Déficit de Generación pronosticado para el año 2023”.
 
 3. Que mediante acto administrativo de fecha 13 de febrero de 2023, se realizó la ampliación del plazo de la consulta pública CREE-CP-02-2023.
 

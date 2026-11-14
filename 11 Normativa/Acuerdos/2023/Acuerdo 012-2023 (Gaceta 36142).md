@@ -8,10 +8,10 @@ gaceta_numero: 36142
 gaceta_fecha: "2023-01-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)|La Gaceta 36142]]"
 paginas: "A. 3 - 4"
-sumario: "Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
+sumario: "Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230130-36142/download"
 extraido: "2026-11-14"
-huella: "e86dc8eec2b35e5e"
+huella: "6566e1c0a51487af"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 012-2023
@@ -23,7 +23,7 @@ huella: "e86dc8eec2b35e5e"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)\|La Gaceta 36142]] del 2023-01-30 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
 
 ## Texto
 
@@ -35,17 +35,13 @@ Todo acto que ejecuten fuera de la Ley es nulo e implica responsabilidad”.
 
 CONSIDERANDO: Que el Artículo 253 del Decreto Legislativo No. 157-2022 que contiene las Disposiciones Generales del Presupuesto para el año 2023, el que fue publicado en el Diario Oficial La Gaceta el 12 de enero del 2023, establece que los gastos de Representación dentro del país, son los montos inherentes al ejercicio de las funciones públicas, se determinan como no liquidables y no gravables, los mismos son otorgados a los funcionarios acorde al cargo y sus responsabilidades.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No 10- 2022 fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al ciudadano PEDRO JOSÉ BARQUERO
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No 10-2022 fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al ciudadano PEDRO JOSÉ BARQUERO
 
 TERCERO, como Secretario de Estado en el Despacho de Desarrollo Económico.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 204-2022, de fecha 18 de marzo del 2022, la Presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al ciudadano MELVIN ENRIQUE REDONDO, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
 
-204-2022, de fecha 18 de marzo del 2022, la Presidenta Constitucional de la República, en uso de sus facultades de que se encuentra investida nombra al ciudadano MELVIN ENRIQUE REDONDO, como Subsecretario de Estado en el Despacho de Integración Económica y Comercio Exterior.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-472-2022 de fecha 11 de noviembre del 2022, la Presidenta Constitucional de la República, en uso de sus facultades que se encuentra investida nombra a la ciudadana CINTHYA SARAHÍ ARTEAGA PORTILLO, como Subsecretaria de Desarrollo Empresarial y Comercio Interior.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 472-2022 de fecha 11 de noviembre del 2022, la Presidenta Constitucional de la República, en uso de sus facultades que se encuentra investida nombra a la ciudadana CINTHYA SARAHÍ ARTEAGA PORTILLO, como Subsecretaria de Desarrollo Empresarial y Comercio Interior.
 
 POR TANTO:
 

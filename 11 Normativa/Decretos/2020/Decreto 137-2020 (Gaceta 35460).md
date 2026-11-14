@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "Decreto No. 137-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201215-35460/download"
 extraido: "2026-11-14"
-huella: "d56c8c0eec1e6781"
+huella: "692ff94e7b281197"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 137-2020
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad a los artículos 1 y 2 de la Constitución de la República, Honduras es un Estado de Derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social. En el cual la soberanía corresponde al pueblo del cual emanan todos los poderes del Estado que se ejercen por representación.
 
-CONSIDERANDO: Que con la finalidad de contar con un instrumento legal que, sistemáticamente, permita mayor transparencia y fiscalización de los ingresos y egresos de los recursos públicos de los partidos políticos y sus movimientos internos, sus candidatos, candidaturas independientes y alianzas entre partidos políticos, mediante Decreto No. 137- 2016, este Poder del Estado aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, la cual fue publicada en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, en su Edición No.34,242.
+CONSIDERANDO: Que con la finalidad de contar con un instrumento legal que, sistemáticamente, permita mayor transparencia y fiscalización de los ingresos y egresos de los recursos públicos de los partidos políticos y sus movimientos internos, sus candidatos, candidaturas independientes y alianzas entre partidos políticos, mediante Decreto No. 137-2016, este Poder del Estado aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, la cual fue publicada en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, en su Edición No. 34,242.
 
 CONSIDERANDO: Que conforme a las disposiciones establecidas en la citada Ley, la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, puede ejecutar mecanismos de control y vigilancia establecidos en la Ley, que permiten conocer con claridad cuál es el origen y el monto de los recursos económicos con los que operan, así como la forma en que lo gastan; sin embargo, a Cuatro (4) años de su vigencia, se han identificado lagunas que justifican la necesidad de profundizar esta fiscalización en relación a los movimientos internos en formación que participan en las elecciones primarias y a sus precandidatos; así también es necesario que se haga una referencia expresa al límite de las elecciones primarias.
 
@@ -41,15 +41,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 4, 5, 11,12, 14, 25, 28, 41, 48 y 54 del Decreto No.
-
-137-2016, de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, Edición No.34,242, que contiene la LEY DE FINANCIAMIENTO, T R A N S P A R E N C I A Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, los cuales de ahora en delante de leerán de la forma siguiente:
+ARTÍCULO 1.- Reformar los artículos 4, 5, 11,12, 14, 25, 28, 41, 48 y 54 del Decreto No. 137-2016, de fecha 2 de Noviembre de 2016 y publicado en el Diario Oficial “La Gaceta” el 18 de Enero de 2017, Edición No. 34,242, que contiene la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, los cuales de ahora en delante de leerán de la forma siguiente:
 
 “ARTÍCULO 4.- SUJETOS
 
@@ -123,7 +121,7 @@ Los Partidos Políticos deben abrir cuentas diferenciadas a la orden del Partido
 
 Las Alianzas totales de los partidos políticos deben abrir las cuentas por medio de sus representantes legales o responsables financieros a nombre de la alianza total de partidos políticos, designando al momento de solicitar la inscripción, ante el Consejo Nacional Electoral, un Representante Legal y/o responsable financiero debidamente autorizado por el o los partidos políticos que correspondan”.
 
-“ARTÍCULO 12.- REGISTROS D E L O S M O V I M I E N T O S INTERNOS Y PRE-CANDIDATOS.
+“ARTÍCULO 12.- REGISTROS DE LOS MOVIMIENTOS INTERNOS Y PRE-CANDIDATOS.
 
 Los Movimientos Internos deben designar a una persona durante su vigencia, para que reciba aportaciones o contribuciones de personas naturales o jurídicas, la que debe ser autorizada por el Partido Político respectivo.
 
@@ -189,13 +187,13 @@ Inelegibilidad sobrevenida es sanción que se produce en el período de tiempo p
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar los artículos 12-A y 12-B, en el Decreto No.137-2016, de fecha 2 de Noviembre de 2016, que contiene la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, los cuales de ahora en adelante se leerán de la forma siguiente:
+ARTÍCULO 2.- Adicionar los artículos 12-A y 12-B, en el Decreto No. 137-2016, de fecha 2 de Noviembre de 2016, que contiene la LEY DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS, los cuales de ahora en adelante se leerán de la forma siguiente:
 
 “ARTÍCULO 12-A.- APERTURA DE LA CUENTA BANCARIA DE LOS MOVIMIENTOS EN FORMACIÓN. La apertura de la cuenta bancaria de los movimientos en formación que tengan intención de participar en las elecciones primarias, puede darse a partir del momento de la Convocatoria a Elecciones primarias, para lo cual se debe remitir a la Unidad una nota con el Visto Bueno de la Autoridad partidaria solicitando autorización para la apertura de la cuenta, designando un responsable financiero, la Unidad debe decidir, en el término de 3 días, luego de la recepción de la misma. Una vez inscrita la precandidatura o movimiento interno, se puede designar un nuevo responsable financiero. No se pueden utilizar cuentas personales existentes para tal efecto, ni utilizar en las elecciones generales la misma cuenta abierta para las elecciones primarias.
 
 En caso de que el Movimiento en Formación no resulte inscrito por la Autoridad competente, el responsable financiero debe liquidar ante la Unidad, en un plazo de 10 días luego de la notificación de la denegación de la inscripción, la cuenta bancaria que se le autorizó abrir”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 1 2 - B . -
 

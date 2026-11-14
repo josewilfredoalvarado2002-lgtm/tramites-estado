@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 10-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260220-37075/download"
 extraido: "2026-11-09"
-huella: "68521cc9d48d4589"
+huella: "51ab216896e0528e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 10-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que, como consecuencia de dicha declaratoria de lnconstitucionalid
 
 CONSIDERANDO: Que la aplicación indefinida del
 
-Artículo 3 transitorio del Decreto Legislativo No.282-2010 ha convertido una norma excepcional y temporal en un régimen permanente de facto, en abierta contradicción con los principios de razonabilidad y temporalidad de las disposiciones transitorias.
+Artículo 3 transitorio del Decreto Legislativo No. 282-2010 ha convertido una norma excepcional y temporal en un régimen permanente de facto, en abierta contradicción con los principios de razonabilidad y temporalidad de las disposiciones transitorias.
 
 CONSIDERANDO: Que la concentración exclusiva de las facultades administrativas del Poder Judicial en la Presidencia de la Corte Suprema de Justicia (CSJ), vulnera el principio de colegialidad, rompe la igualdad entre magistrados y debilita los controles internos del máximo tribunal.
 

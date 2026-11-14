@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ministerial No. 109-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240928-36652/download"
 extraido: "2026-11-14"
-huella: "83b7fbe8e50b6f1f"
+huella: "97a7e23cb392c73c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 109-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 222-92 de fecha 10 de diciemb
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, establece que un Estado Parte del Subsistema de Integración Económica, está facultado para modificar unilateralmente los Derechos Arancelarios a la Importación durante el plazo máximo de 30 días, cuando se viere enfrentando a graves problemas de desequilibrios de balanza de pagos; o a deficiencias repentinas y generalizadas en abastecimientos de materias primas y bienes finales básicos o a desorganización de mercado o a prácticas de comercio desleal; o a cualquier otra circunstancias que amenacen derivar en situaciones de emergencia nacional. El plazo antes señalado se tendrá por prorrogado hasta la fecha en que el COMIECO adopte las medidas que correspondan.
 
-CONSIDERANDO: Que en fecha 29 de mayo de 2024, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de mantener la modificación arancelaria, aplicada a los productos denominados limas planas, para metal, clasificado en el código arancelario 8203.10.10.00, establecida mediante el Acuerdo No. 086- 2019 de fecha 19 de septiembre del 2019 y prorrogado mediante los Acuerdos No. 158-2020 de fecha 24 de agosto de 2020, Acuerdo No. 149-2021 de fecha 09 de agosto de 2021, Acuerdo No. 087-2022 de fecha 14 de septiembre de 2022 y Acuerdo No. 081-2023 de fecha 11 de septiembre de 2023.
+CONSIDERANDO: Que en fecha 29 de mayo de 2024, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de mantener la modificación arancelaria, aplicada a los productos denominados limas planas, para metal, clasificado en el código arancelario 8203.10.10.00, establecida mediante el Acuerdo No. 086-2019 de fecha 19 de septiembre del 2019 y prorrogado mediante los Acuerdos No. 158-2020 de fecha 24 de agosto de 2020, Acuerdo No. 149-2021 de fecha 09 de agosto de 2021, Acuerdo No. 087-2022 de fecha 14 de septiembre de 2022 y Acuerdo No. 081-2023 de fecha 11 de septiembre de 2023.
 
 CONSIDERANDO: Que la modificación arancelaria para las limas planas, para metal, se fundamenta en que la producción nacional de dicho producto está siendo afectada por el incremento de las importaciones que proceden de países que otorgan incentivos fiscales.
 

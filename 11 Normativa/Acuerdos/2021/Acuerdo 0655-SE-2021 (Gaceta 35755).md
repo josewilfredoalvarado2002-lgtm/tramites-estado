@@ -11,7 +11,7 @@ paginas: "A. 9 - 13"
 sumario: "Acuerdo No. 0655-SE-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211026-35755/download"
 extraido: "2026-11-14"
-huella: "736cc0ca39555d79"
+huella: "c4cd15a47a9a45f3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0655-SE-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que según Artículo 23 de la Ley Fundamental de Educación, la Ed
 
 CONSIDERANDO: Que mediante Acuerdo No. 15155- SE-2012, de fecha 27 de abril de 2012, se aprobó en forma permanente, a partir del 1 de febrero de 2012, la aplicación de los Planes y Programas de Estudio del Bachillerato Técnico Profesional en sus 15 orientaciones.
 
-CONSIDERANDO: Que mediante Acuerdo No. 15154-SE- 2012, de fecha 13 de agosto de 2012, se aprueba el Reglamento General de Administración de las carreras del Bachillerato Técnico Profesional (BTP).
+CONSIDERANDO: Que mediante Acuerdo No. 15154-SE-2012, de fecha 13 de agosto de 2012, se aprueba el Reglamento General de Administración de las carreras del Bachillerato Técnico Profesional (BTP).
 
 CONSIDERANDO: Que se ha escuchado la Opinión Técnica favorable de la Subdirección General de Educación Media sobre la implementación del Bachillerato Técnico Profesional en Procesamiento Agroalimentario.
 
@@ -49,7 +49,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere la Ley y en aplicación de los Artículos 80, 151, 153, 157, 159, 166 de la Constitución de la República; 36 numeral 1 y 8, 116, 118, numeral 2, 119,numeral 3, 122 de la Ley General de la Administración Pública, 23 y 25 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, artículo 72 de la Ley de Procedimiento Administrativo, 23, 27 de la Ley Fundamental de Educación y demás leyes aplicables vigentes en el País.
 
-A C U E R D A:
+ACUERDA:
 
 1.- Aprobar en forma permanente a partir del 1 de febrero de 2022 el Plan de Estudio y los Programas Curriculares de la Carrera de BACHILLERATO TÉCNICO PROFESIONAL EN PROCESAMIENTO AGROALIMENTARIO, el cual tendrá un sistema de evaluación y promoción anual, será evaluado conforme a lo establecido en el Artículo 31 del Reglamento General de Educación Media.
 

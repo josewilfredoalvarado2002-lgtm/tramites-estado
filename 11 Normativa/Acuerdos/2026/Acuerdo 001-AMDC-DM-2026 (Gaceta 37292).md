@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 001-AMDC-DM-2026, 002-AMDC-DM-2026, 003-AMDC-DM-2026, 004-AMDC-DM-2026, 005-AMDC-DM-2026, 006-AMDC-DM-2026, 012-AMDC-DM-2026, 013-AMDC-DM-2026, 001-AMDC-SM-2026, 002-AMDC-SM-2026, 003-AMDC-SM-2026, 001-AMDC-UGA-2026, 001-AMDC-GMU-2026Certificaciones de los Acuerdos Nos. 035-2026, 057-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261111-37292/download"
 extraido: "2026-11-13"
-huella: "c7581f56928c09c4"
+huella: "f4f805383708cf51"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-AMDC-DM-2026
@@ -31,7 +31,7 @@ ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL
 
 Tegucigalpa, M.D.C., 03 de febrero de 2026
 
-CONSIDERANDO: Que el señor JUAN DIEGO ZELAYA AGUILAR, fue electo Alcalde Municipal del Distrito Central para el período 2026 - 2030, tal y como consta en la Certificación No. 3055-2025 que contiene el Acta No. 62- 2025 del Pleno de Consejeros del Consejo Nacional Electoral (CNE), sobre la Declaratoria de Elecciones Generales Nivel Electivo de Diputados y Diputadas Propietarios(as) y Suplentes al Congreso Nacional de la República y Miembros de Corporaciones Municipales y en el Acta de Traspaso de Mando de fecha 25 de enero de 2026.
+CONSIDERANDO: Que el señor JUAN DIEGO ZELAYA AGUILAR, fue electo Alcalde Municipal del Distrito Central para el período 2026 - 2030, tal y como consta en la Certificación No. 3055-2025 que contiene el Acta No. 62-2025 del Pleno de Consejeros del Consejo Nacional Electoral (CNE), sobre la Declaratoria de Elecciones Generales Nivel Electivo de Diputados y Diputadas Propietarios(as) y Suplentes al Congreso Nacional de la República y Miembros de Corporaciones Municipales y en el Acta de Traspaso de Mando de fecha 25 de enero de 2026.
 
 CONSIDERANDO: Que de acuerdo con el artículo 100 de la Ley de Municipalidades, es facultad del Alcalde Municipal, nombrar, ascender, trasladar y destituir al personal, de conformidad con la ley, excepto los señalados en los artículos 49, 52, 56 y 59.
 

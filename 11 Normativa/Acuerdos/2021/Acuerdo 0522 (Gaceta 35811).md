@@ -11,7 +11,7 @@ paginas: "A. 38 - 64"
 sumario: "Acuerdo Ejecutivo No. 0522"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211231-35811/download"
 extraido: "2026-11-14"
-huella: "c92d322444f622c7"
+huella: "229aa04ae023be43"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 0522
@@ -39,9 +39,7 @@ CONSIDERANDO: Que en cumplimiento con lo establecido en el PCM-115-2020 y para a
 
 CONSIDERANDO: Que en el Presupuesto Aprobado 2021 por el Soberano Congreso Nacional a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) se concentran las asignaciones para fortalecimiento institucional en equipo pero que han sido priorizados para este fin.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-18-2021 se reforma el Decreto Legislativo No. 182-2020 en varios de sus artículos pero especialmente en el Artículo 34 que expresa lo siguiente: “Excepcionalmente y para mitigar los efectos de la pandemia del COVID-19 y de las tormentas tropicales ETA e IOTA, se podrá dar autorización de modificaciones presupuestarias que afecten asignaciones consignadas para gastos de capital para financiar gastos corrientes de cualquier fuente de financiamiento, debiendo contar con la aprobación del Presidente de la República y el mismo se formalizará mediante Acuerdo Ejecutivo, previo a su aprobación, se deberá conocer la opinión de la Comisión Intrainstitucional de la Secretaría de Estado en el Despacho de Finanzas”.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 18-2021 se reforma el Decreto Legislativo No. 182-2020 en varios de sus artículos pero especialmente en el Artículo 34 que expresa lo siguiente: “Excepcionalmente y para mitigar los efectos de la pandemia del COVID-19 y de las tormentas tropicales ETA e IOTA, se podrá dar autorización de modificaciones presupuestarias que afecten asignaciones consignadas para gastos de capital para financiar gastos corrientes de cualquier fuente de financiamiento, debiendo contar con la aprobación del Presidente de la República y el mismo se formalizará mediante Acuerdo Ejecutivo, previo a su aprobación, se deberá conocer la opinión de la Comisión Intrainstitucional de la Secretaría de Estado en el Despacho de Finanzas”.
 
 CONSIDERANDO: Que mediante Oficio No. 217-DGPAE de fecha 15 de diciembre del año 2021, mediante el cual se le da respuesta al Oficio DM-1593-2021 de fecha 12 de octubre del año 2021, en el cual solicita opinión a la Comisión Intrainstitucional de la Secretaría de Finanzas, por modificación presupuestaria que afecta asignaciones consignadas en gasto de Capital, con el propósito de ampliar las asignaciones del Sub Grupo del Gasto 12000 Personal no Permanente, para poder financiar la contratación temporal de personal adicional en el marco de la Emergencia por los efectos negativos ocasionados por las Tormentas Tropicales ETA e IOTA, en el cual la Comisión Intrainstitucional de la Secretaría de Finanzas emite Opinión Favorable, a dicha solicitud.
 
@@ -51,7 +49,7 @@ e) Préstamos f) Modificaciones Presupuestarias; y, g) Otros actos administrativ
 
 POR TANTO:
 
-En uso de las facultades de que está investido y en aplicación de los Artículos 245 numerales 11 y 19 de la Constitución de la República; Artículo 1, 5, 11, 29 numeral 13, 116, 118 y 119 de la Ley General de la Administración Pública; Artículo 37 Numeral 2 de la Ley Orgánica del Presupuesto; y, Acuerdo Ejecutivo Número 043-2020 de fecha uno de (01) de Octubre del año dos mil veinte (2020), Decreto Legislativo No. 182- 2020 y Artículo 34 Decreto Legislativo No. 18-2021.
+En uso de las facultades de que está investido y en aplicación de los Artículos 245 numerales 11 y 19 de la Constitución de la República; Artículo 1, 5, 11, 29 numeral 13, 116, 118 y 119 de la Ley General de la Administración Pública; Artículo 37 Numeral 2 de la Ley Orgánica del Presupuesto; y, Acuerdo Ejecutivo Número 043-2020 de fecha uno de (01) de Octubre del año dos mil veinte (2020), Decreto Legislativo No. 182-2020 y Artículo 34 Decreto Legislativo No. 18-2021.
 
 ACUERDA:
 
@@ -119,13 +117,13 @@ Que el tipo de cambio utilizado para el ajuste que se aplicará a partir de octu
 
 VI.
 
-Que como resultado de la modificación al presupuesto del ODS, aprobada mediante la Resolución CREE 44- 2021 de fecha 25 de agosto de 2021, se hace necesario recuperar el monto resultante de la modificación del presupuesto aprobado mediante un cargo mensual que debe ser trasladado a los usuarios del Sistema Interconectado Nacional, dicho presupuesto resultó inferior al monto original y equivalente a L 187,557,606.75.
+Que como resultado de la modificación al presupuesto del ODS, aprobada mediante la Resolución CREE 44-2021 de fecha 25 de agosto de 2021, se hace necesario recuperar el monto resultante de la modificación del presupuesto aprobado mediante un cargo mensual que debe ser trasladado a los usuarios del Sistema Interconectado Nacional, dicho presupuesto resultó inferior al monto original y equivalente a L 187,557,606.75.
 
 VII.
 
 Que como resultado de las variaciones de los factores que afectan el costo de generación, el ajuste por la diferencia entre costos reales y previstos de compra de energía referida anteriormente, la modificación a la cantidad a recuperar del cargo de operación del sistema y la variación del tipo de cambio, el ajuste de la tarifa promedio de los usuarios de la ENEE resulta en un incremento de 10.62%, el cual se distribuye de forma diferente para cada categoría tarifaria.
 
-VIII. Que en ejercicio de sus funciones constitucionales el Poder Ejecutivo emitió el Decreto Ejecutivo PCM- 105-2021 publicado en el Diario Oficial “La Gaceta” en fecha 29 de septiembre del 2021en el que se Declara estado de emergencia económica y energética a nivel nacional y autoriza la estabilidad de los precios en servicios esenciales como energía eléctrica, gas licuado de petróleo y el precio de los combustibles hasta el 31 de diciembre del presente año y manda a aplicar normas y políticas que garanticen que la población hondureña no se le incrementen los precios de estos productos y servicios.
+VIII. Que en ejercicio de sus funciones constitucionales el Poder Ejecutivo emitió el Decreto Ejecutivo PCM-105-2021 publicado en el Diario Oficial “La Gaceta” en fecha 29 de septiembre del 2021en el que se Declara estado de emergencia económica y energética a nivel nacional y autoriza la estabilidad de los precios en servicios esenciales como energía eléctrica, gas licuado de petróleo y el precio de los combustibles hasta el 31 de diciembre del presente año y manda a aplicar normas y políticas que garanticen que la población hondureña no se le incrementen los precios de estos productos y servicios.
 
 IX.
 
@@ -229,7 +227,7 @@ Que en el escrito de recurso de reposición la recurrente arguye la existencia d
 
 1. Supuesta causal de nulidad por que el acto administrativo infringe los límites señalados a la potestad reglamentaria establecida en el artículo 40 de la Ley de Procedimiento Administrativo: según lo manifestado por la recurrente, el Acuerdo impugnado establece condiciones, específicamente en su dispositivo cuarto, que violentan lo estipulado en el artículo 18 de la Ley General de la Industria Eléctrica, en virtud que manda a la ENEE mediante un acto administrativo a solicitar a las autoridades del gobierno los montos dejados de facturar por la no aplicación del ajuste tarifario aprobado, en lugar de incluir dichos costos en la revisión de tarifas del primer trimestre del año 2022.
 
-Según el escrito de recurso, la CREE debe de incluir en la revisión de tarifas del primer trimestre del año 2022 todos los costos que le genere a la ENEE la no aplicación del pliego tarifario desde octubre a diciembre de 2021, y en caso de no incluir dichos costos, estos deben ser reconocidos por la CREE dado que surgieron del Acuerdo CREE-48-2021 de fecha 30 de septiembre del presente año emitido en virtud de la facultad que le dio el Congreso Nacional de la República de Honduras a esa Comisión mediante el artículo 1 del Decreto Legislativo No. 85- 2021.
+Según el escrito de recurso, la CREE debe de incluir en la revisión de tarifas del primer trimestre del año 2022 todos los costos que le genere a la ENEE la no aplicación del pliego tarifario desde octubre a diciembre de 2021, y en caso de no incluir dichos costos, estos deben ser reconocidos por la CREE dado que surgieron del Acuerdo CREE-48-2021 de fecha 30 de septiembre del presente año emitido en virtud de la facultad que le dio el Congreso Nacional de la República de Honduras a esa Comisión mediante el artículo 1 del Decreto Legislativo No. 85-2021.
 
 2. Supuesta causa de nulidad porque el acto es contrario a lo dispuesto en el artículo 8 de la Ley General de la Administración Pública: la recurrente manifiesta que el acto administrativo impugnado es nulo de conformidad con el artículo 34 literal f) de la Ley de Procedimiento Administrativo, en virtud que según la recurrente el acto administrativo impugnado contraría lo estipulado en los artículos 118 numeral 2) y 119 de la Ley General de la Administración Pública, por lo que vulnera los artículos antes referidos que fueron dictados por un órgano de grado superior, siendo este el Congreso Nacional de la República de Honduras. Asimismo, la recurrente mani­ fiesta que según lo establecido en el artículo 32 de la Ley de Procedimiento Administrativo el acto administrativo impugnado carece de eficacia.
 
@@ -237,7 +235,7 @@ La recurrente arguye que el acto administrativo recurrido constituye un acto de 
 
 IV.
 
-Que mediante auto de fecha 24 de noviembre de 2021 la CREE tuvo por interpuesto en tiempo y forma el recurso de reposición contra el Acuerdo CREE- 48-2021 presentado por el abogado Francisco Ayes Callejas en su condición de apoderado legal de la ENEE, asimismo, admitió el escrito contentivo de Recurso de Reposición en cuestión, tuvo por sustituido el poder en la abogada Gerardina Rodríguez Gonzales y remitió las diligencias a la Dirección de Asuntos Jurídicos a fin de que ésta emitiera el pronunciamiento legal correspondiente.
+Que mediante auto de fecha 24 de noviembre de 2021 la CREE tuvo por interpuesto en tiempo y forma el recurso de reposición contra el Acuerdo CREE-48-2021 presentado por el abogado Francisco Ayes Callejas en su condición de apoderado legal de la ENEE, asimismo, admitió el escrito contentivo de Recurso de Reposición en cuestión, tuvo por sustituido el poder en la abogada Gerardina Rodríguez Gonzales y remitió las diligencias a la Dirección de Asuntos Jurídicos a fin de que ésta emitiera el pronunciamiento legal correspondiente.
 
 V.
 
@@ -245,7 +243,7 @@ Que en fecha 14 de diciembre de 2021 la Dirección de Asuntos Jurídicos emitió
 
 1. En esencia, la recurrente alega que el acto administrativo impugnado reviste de dos causales de nulidad.
 
-Mencionando, por una parte, que el Acuerdo CREE- 48-2021 de fecha 30 de septiembre de 2021 contradice lo establecido en el artículo 18 de la Ley General de la Industria Eléctrica y, por otra parte, que dicho acto administrativo es nulo debido a que vulnera las disposiciones dictadas por un órgano de grado superior, siendo éste el Congreso Nacional de la República, dado que, según la recurrente contradice lo establecido en los artículos 118 numeral 2 y 119 de la Ley General de la Administración Pública.
+Mencionando, por una parte, que el Acuerdo CREE-48-2021 de fecha 30 de septiembre de 2021 contradice lo establecido en el artículo 18 de la Ley General de la Industria Eléctrica y, por otra parte, que dicho acto administrativo es nulo debido a que vulnera las disposiciones dictadas por un órgano de grado superior, siendo éste el Congreso Nacional de la República, dado que, según la recurrente contradice lo establecido en los artículos 118 numeral 2 y 119 de la Ley General de la Administración Pública.
 
 2. En cuanto a la primera causal de nulidad debe señalarse que lo alegado por la recurrente es improcedente, en virtud que ni la Ley General de la Industria Eléctrica ni el Decreto Legislativo No. 85-2021 establecen disposiciones que faculten a la CREE para incluir o trasladar, a un período de ajuste tarifario posterior, los costos no recuperados por la Empresa Distribuidora en el caso de que un determinado ajuste se publique de manera diferida y el mismo no se aplique por parte de la empresa distribuidora, este es, el caso o situación creada mediante el Decreto Legislativo No. 85-2021. Vale agregar que ambos estamentos jurídicos fueron publicados en el Diario Oficial “La Gaceta” en fechas 20 de mayo de 2014 y 29 de septiembre de 2021, respectivamente. Esto más, debe tomarse en consideración que los servidores públicos no tienen más facultades que las que expresamente les confiere la Ley.
 
@@ -287,7 +285,7 @@ Que la Constitución de la República establece lo siguiente:
 
 Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, la cual tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléc­ trica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempe­ ñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 
@@ -375,7 +373,7 @@ Considerando:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 
@@ -411,9 +409,7 @@ Que en la Reunión Extraordinaria CREE Ex-46-2021 del 30 de diciembre de 2021, e
 
 POR TANTO
 
-La CREE, en uso de sus facultades y de conformidad con lo establecido en los artículos 1, 3 primer párrafo, literal F romano V, I, 8,9 literal C, 18, 21 literal A, 22 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 14 literal C del Reglamento de la Ley General de la Industria Eléctrica y demás aplicables; artículo 18 del Reglamento para el Cálculo de Tarifas Provisionales vigente y demás aplicables; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica, artículo 31 del Tratado Marco del Mercado Eléctrico de América Central y demás aplicables, artículo 6 del Decreto Legislativo No.
-
-147-2007 y el numeral 1.4.7 del libro II del Reglamento del Mercado Eléctrico Regional, por unanimidad de votos de los Comisionados presentes,
+La CREE, en uso de sus facultades y de conformidad con lo establecido en los artículos 1, 3 primer párrafo, literal F romano V, I, 8,9 literal C, 18, 21 literal A, 22 y demás aplicables de la Ley General de la Industria Eléctrica; artículo 14 literal C del Reglamento de la Ley General de la Industria Eléctrica y demás aplicables; artículo 18 del Reglamento para el Cálculo de Tarifas Provisionales vigente y demás aplicables; artículo 4 y demás aplicables del Reglamento Interno de la Comisión Reguladora de Energía Eléctrica, artículo 31 del Tratado Marco del Mercado Eléctrico de América Central y demás aplicables, artículo 6 del Decreto Legislativo No. 147-2007 y el numeral 1.4.7 del libro II del Reglamento del Mercado Eléctrico Regional, por unanimidad de votos de los Comisionados presentes,
 
 ACUERDA:
 

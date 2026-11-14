@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decretos Ejecutivos números PCM-113-2021, 141-2021, 142-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211231-35811/download"
 extraido: "2026-11-14"
-huella: "30cbbc29ae07ead2"
+huella: "cf2ba486d828ae28"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-113-2021
@@ -51,15 +51,13 @@ POR TANTO;
 
 En el pleno ejercicio de sus atribuciones y en aplicación del Capítulo XI-2 del Convenio Internacional para la Seguridad de la Vida Humana en el Mar (SOLAS de 1974) vigente; los
 
-Artículos 12, 16, párrafo segundo, 18 y 245, numerales 2 y 11 de la Constitución de la República; Artículos 13, 14, 33, 116, 117 y 119 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-002-2004, PCM-025- 2005 y PCM-050-2013.
+Artículos 12, 16, párrafo segundo, 18 y 245, numerales 2 y 11 de la Constitución de la República; Artículos 13, 14, 33, 116, 117 y 119 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-002-2004, PCM-025-2005 y PCM-050-2013.
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Artículo 2 del Decreto Ejecutivo Número PCM-002-2004, publicado en “La Gaceta”, Diario Oficial de la República en fecha 30 de abril del 2004 en su Edición No. 30,378, reformado mediante Decreto Ejecutivo Número PCM-025-2005, publicado en “La Gaceta” Diario Oficial de la República, en su Edición No.
-
-30,766, de fecha 4 de agosto del año 2005, el cual se debe leer de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición el Artículo 2 del Decreto Ejecutivo Número PCM-002-2004, publicado en “La Gaceta”, Diario Oficial de la República en fecha 30 de abril del 2004 en su Edición No. 30,378, reformado mediante Decreto Ejecutivo Número PCM-025-2005, publicado en “La Gaceta” Diario Oficial de la República, en su Edición No. 30,766, de fecha 4 de agosto del año 2005, el cual se debe leer de la manera siguiente:
 
 “ARTÌCULO 2. La Comisión Nacional de Protección Portuaria (CNPP) tendrá las facultades y atribuciones siguientes:
 

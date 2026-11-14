@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Nos. 110-2020, 112-2020, 030-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200213-35174/download"
 extraido: "2026-11-14"
-huella: "f7fa66932dc8270f"
+huella: "2cd042660f56ab5b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 030-2020
@@ -39,13 +39,13 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.093-2019, emitido por esta Dirección en fecha 24 de mayo del año 2019, se delegó en la ciudadana LESBY MARÍA ALDANA FLORES, las funciones de Jefatura de Consolidación Familiar, a partir del diecisiete (17) de mayo del 2019.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 093-2019, emitido por esta Dirección en fecha 24 de mayo del año 2019, se delegó en la ciudadana LESBY MARÍA ALDANA FLORES, las funciones de Jefatura de Consolidación Familiar, a partir del diecisiete (17) de mayo del 2019.
 
 CONSIDERANDO: Que de conformidad a lo establecido en la Ley de Procedimiento Administrativo, en cualquier momento, el órgano delegante, cuando lo considere conveniente u oportuno, podrá revocar la delegación y recobrar el ejercicio de la competencia delegada.
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014;
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014;
 
 ACUERDA:
 

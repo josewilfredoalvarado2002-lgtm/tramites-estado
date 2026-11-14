@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Nos. SG-SEDESPA-023-2025, SG-SEDESPA-062-2025, SG-SEDESPA-073-2025, SG-SEDESPA-087-2025, SG-SEDESPA-106-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250814-36916/download"
 extraido: "2026-11-09"
-huella: "f21a5cc8ef6a7ac5"
+huella: "1923589fc7a2d0d9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-106-2025
@@ -33,7 +33,7 @@ CONSIDERANDO (02): Que la Ley General de la Administración Pública establece q
 
 CONSIDERANDO (03): Que el artículo 5 de la Ley de Procedimiento Administrativo determina que el Acto de Delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado, podrá contener instrucciones obligatorias para éste en materia procedimental. En los actos dictados por delegación, se expresará esta circunstancia y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos será imputable al órgano delegado.
 
-CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43- 2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
+CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43-2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
 
 CONSIDERANDO (05): Que el artículo 36 de la Ley General de la Administración Pública numeral 8 establece que: Son atribuciones y deberes comunes a los Secretarios de Estado: “…8) emitir acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidarse su ejecución.
 
@@ -41,7 +41,7 @@ CONSIDERANDO (06): La competencia es irrenunciable y se ejercerá por los órgan
 
 POR TANTO
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 

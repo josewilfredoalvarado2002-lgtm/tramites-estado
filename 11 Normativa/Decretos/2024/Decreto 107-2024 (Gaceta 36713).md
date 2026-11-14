@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 107-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241212-36713/download"
 extraido: "2026-11-14"
-huella: "38757e6c0df9402a"
+huella: "a3f2330bc20537b3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 107-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que los Partidos Políticos son instituciones de Derecho Público,
 
 CONSIDERANDO: Que el Artículo 51 reformado de la Constitución de la República, crea el Consejo Nacional Electoral (CNE), autónomo e independiente sin relación de subordinación con los Poderes del Estado, de seguridad nacional, con personalidad jurídica, jurisdicción y competencia en todo el territorio de la República.
 
-CONSIDERANDO: Que el Congreso Nacional aprobó mediante Decreto Legislativo 137-2016 del 2 de noviembre de 2016, la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, publicado en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en su Edición No.34,242, conforme a la Fe de Errata del 20 de marzo de 2017, citada en el Considerando precedente.
+CONSIDERANDO: Que el Congreso Nacional aprobó mediante Decreto Legislativo 137-2016 del 2 de noviembre de 2016, la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, publicado en el Diario Oficial “La Gaceta” el 18 de enero de 2017, en su Edición No. 34,242, conforme a la Fe de Errata del 20 de marzo de 2017, citada en el Considerando precedente.
 
 CONSIDERANDO: Que el Artículo 6 de la Ley citada en el Considerando precedente establece la creación, naturaleza, organización y funcionamiento de la Unidad de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos, adscrita al Consejo Nacional Electoral (CNE), la que cuenta con autonomía técnica, operativa, funcional y de gestión y presupuestaria.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

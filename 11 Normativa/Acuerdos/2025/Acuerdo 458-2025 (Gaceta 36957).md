@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdos Nos. 450-2025, 458-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251002-36957/download"
 extraido: "2026-11-09"
-huella: "2cc3da9d0fccc959"
+huella: "208e92ff48c7f157"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 458-2025
@@ -87,7 +87,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No.55- 2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo;
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo;
 
 Como Secretario de Estado, por Ley, durante el período comprendido del ocho (08) al nueve (09) de septiembre del dos mil veinticinco (2025).
 
@@ -99,9 +99,7 @@ Ph.D LAURA ELENA SUAZO TORRES
 
 SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA ABG. ROGER EMILIO MEDINA ORELLANA SECRETARIO GENERAL Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre ACUERDO NO. 450-2025 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que de conformidad con el artículo 14 de la Ley Forestal, el ICF es un ente desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determina la Ley, la que ejerce con independencia técnica, administrativa y financiera, actuando como el Ente Ejecutor de la política nacional de conservación y desarrollo forestal, áreas protegidas y vida silvestre.
 

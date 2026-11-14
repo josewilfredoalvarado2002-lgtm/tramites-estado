@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Certificación, Resolución No. 996-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260209-37065/download"
 extraido: "2026-11-09"
-huella: "797755516e3dfe42"
+huella: "35caaa6f486c26ac"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Resolución No. 996-2020
@@ -33,7 +33,7 @@ VISTA: Para resolver la solicitud de OTORGAMIENTO DE PERSONALIDAD JURÍDICA pres
 
 ANTECEDENTES DE HECHO
 
-En fecha dos de octubre de dos mil veinte, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE PALAGUA, MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ a solicitar OTORGAMIENTO DE PERSONALIDAD JURÍDICA a favor de su representada, quedando registrada con orden de ingreso número PJ- 02102020-278.
+En fecha dos de octubre de dos mil veinte, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE PALAGUA, MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ a solicitar OTORGAMIENTO DE PERSONALIDAD JURÍDICA a favor de su representada, quedando registrada con orden de ingreso número PJ-02102020-278.
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 
@@ -103,7 +103,7 @@ ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la 
 
 #### Artículo 6
 
-ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a : l) Capacidad de pago. 2) Número de familia por vivienda. 3) Número de llaves adicionales. 4) Otras consideraciones establecidas por la Junta Directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y/ mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
+ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: l) Capacidad de pago. 2) Número de familia por vivienda. 3) Número de llaves adicionales. 4) Otras consideraciones establecidas por la Junta Directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y/ mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
 
 CAPÍTULO III DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS, OBLIGACIONES DE LOS MIEMBROS
 

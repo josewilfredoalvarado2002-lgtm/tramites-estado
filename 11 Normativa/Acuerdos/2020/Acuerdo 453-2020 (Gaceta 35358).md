@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdos Ejecutivos números 448-2020,449-2020, 451-2020, 452-2020Acuerdo número 453-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200831-35358/download"
 extraido: "2026-11-14"
-huella: "26d574c9ecd28185"
+huella: "b679d953c5d76ca8"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 453-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuan
 
 POR TANTO
 
-En uso de las facultades de que está investida y en aplicación de los Artículos 34, 36 numeral 19, 116, 118 de la Ley General de la Administración Pública; 3, 4 , 5 y 121 de la Ley de Procedimiento Administrativo.
+En uso de las facultades de que está investida y en aplicación de los Artículos 34, 36 numeral 19, 116, 118 de la Ley General de la Administración Pública; 3, 4, 5 y 121 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

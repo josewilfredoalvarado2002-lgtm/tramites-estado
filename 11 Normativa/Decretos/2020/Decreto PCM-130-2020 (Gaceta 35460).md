@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-130-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201215-35460/download"
 extraido: "2026-11-14"
-huella: "67143a5daa103b98"
+huella: "3254136e3ee656e2"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-130-2020
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de conformidad al Artículo 245 numerales 2, 11 y 35 de la Con
 
 CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No.
-
-35,417, reformado mediante Decreto Ejecutivo Número PCM- 112-2020, Decreto Ejecutivo Número PCM-115-2020 y Decreto Ejecutivo Número PCM-116-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormentas Tropicales “ETA” e “IOTA”, las cuales causaron graves daños a la infraestructura vial y al Sector Agrícola del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,417, reformado mediante Decreto Ejecutivo Número PCM-112-2020, Decreto Ejecutivo Número PCM-115-2020 y Decreto Ejecutivo Número PCM-116-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormentas Tropicales “ETA” e “IOTA”, las cuales causaron graves daños a la infraestructura vial y al Sector Agrícola del país, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Desarrollo e Inclusión Social, es uno de los mayores beneficiarios del uso del Fondo de Solidaridad y Protección Social para Reducción de la Pobreza y su principal destino es la inversión social y en este caso en especial asistir en el tema de vivienda y ayuda social.
 
@@ -47,7 +45,7 @@ POR TANTO;
 
 En aplicación de los Artículos 59, 245 numerales 2 y 11 y 35, 248, 252, 321 y 323 de la Constitución de la República;
 
-Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM- 049-2019, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM 116-2020.
+Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM-049-2019, PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM 116-2020.
 
 DECRETA:
 

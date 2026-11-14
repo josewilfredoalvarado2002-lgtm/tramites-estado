@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-028-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200404-35218/download"
 extraido: "2026-11-14"
-huella: "75161b29ca457248"
+huella: "e72826ecfde8778b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-028-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-021-2020 y amparado en lo que establece el Artículo 245, numerales 4, 7 y 16, el Presidente en Consejo de Secretarios de Estado, determinó restringir el ejercicio de algunos derechos constitucionales con la finalidad de salvaguardar la vida humana, fin supremo de la sociedad y el Estado. Acción que fue prorrogada mediante los Decretos Ejecutivos Números PCM-022- 2020 y PCM-026-2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-021-2020 y amparado en lo que establece el Artículo 245, numerales 4, 7 y 16, el Presidente en Consejo de Secretarios de Estado, determinó restringir el ejercicio de algunos derechos constitucionales con la finalidad de salvaguardar la vida humana, fin supremo de la sociedad y el Estado. Acción que fue prorrogada mediante los Decretos Ejecutivos Números PCM-022-2020 y PCM-026-2020.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 12 de la Constitución de la República, el Soberano Congreso Nacional, ratificó en Sesión Extraordinaria celebrada en fecha 02 de abril, 2020, los Decretos Ejecutivos Números PCM-021-2020, PCM-022-2020 y PCM-026-2020, contentivos de la restricción de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, mediante Decreto Legislativo No. 32-2020, publicado en el Diario Oficial “La Gaceta”, número 35,217, en fecha 03 de abril del 2020.
 
@@ -65,7 +65,7 @@ Lo anterior amparado en lo que establece el Artículo 2 del Decreto Legislativo 
 
 #### Artículo 3
 
-ARTÍCULO 3.- DISPOSICIÓN ESPECIAL PARA LOS MUNICIPIOS EN EL DEPARTAMENTO DE CORTÉS Y EL MUNICIPIO DE EL PROGRESO, DEPARTAMENTO DE YORO. En todos los municipios del Departamento de Cortés, así como en el Municipio de El Progreso, Departamento de Yoro, se aplicará restricción de garantías de manera absoluta desde el seis (6) de abril hasta el día 12 del corriente mes, no se aplicarán las excepciones establecidas en el Artículo 4 del Decreto Ejecutivo número PCM- 021-2020, únicamente se aplicarán las excepciones siguientes:
+ARTÍCULO 3.- DISPOSICIÓN ESPECIAL PARA LOS MUNICIPIOS EN EL DEPARTAMENTO DE CORTÉS Y EL MUNICIPIO DE EL PROGRESO, DEPARTAMENTO DE YORO. En todos los municipios del Departamento de Cortés, así como en el Municipio de El Progreso, Departamento de Yoro, se aplicará restricción de garantías de manera absoluta desde el seis (6) de abril hasta el día 12 del corriente mes, no se aplicarán las excepciones establecidas en el Artículo 4 del Decreto Ejecutivo número PCM-021-2020, únicamente se aplicarán las excepciones siguientes:
 
 \1) El personal incorporado para atender la emergencia, altos funcionarios, personal de salud, socorro, seguridad y defensa nacional, personal de aduanas, migración, puertos y aeropuertos y servicios públicos indispensables, inclusive el personal que atiende las plantas de generación de energía del sector privado;
 

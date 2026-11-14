@@ -11,7 +11,7 @@ paginas: "A. 15 - 32"
 sumario: "Certificación, Resolución Nº. SOJD-IHSS-008-2026-VII"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260430-37130/download"
 extraido: "2026-11-09"
-huella: "1873a35377c3c36f"
+huella: "744c4e73f54280f3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -51,7 +51,7 @@ ELABORADA POR:
 
 JUNTA DIRECTIVA DEL IHSS APROBADO POR:
 
-Por Junta Directiva del IHSS en Resolución SOJD-IHSS- 008-2026-VII en Sesión Ordinaria No. 008-2026 del 16 de abril 2026.
+Por Junta Directiva del IHSS en Resolución SOJD-IHSS-008-2026-VII en Sesión Ordinaria No. 008-2026 del 16 de abril 2026.
 
 Tegucigalpa, M.D.C., Honduras, C.A., 16 de abril, 2026.
 
@@ -69,13 +69,9 @@ CONSIDERANDO (4): Que de conformidad al artículo 102 de la Ley del Seguro Socia
 
 CONSIDERANDO (5): Que, en Sesión Extraordinaria de Junta Directiva del IHSS No. SEJD-IHSS-124-2024 celebrada el día treinta y uno (31) de julio del año dos mil veinticuatro (2024), la Junta Directiva del Instituto Hondureño de Seguridad Social, por unanimidad de votos, dictó Resolución No. SEJD-IHSS-124-2024-IV resolviendo derogar el actual Reglamento Interno de la Junta Directiva del Instituto Hondureño de Seguridad Social, emitido como Acuerdo número 01-99 JD y emitir el presente Reglamento Interno de la Junta Directiva. El cual fue remitido a la Dirección Ejecutiva para su debida publicación, no obstante, el mismo no fue publicado en el Diario Oficial La Gaceta.
 
-CONSIDERANDO (6): Que, en Sesión Ordinaria de Junta Directiva del IHSS No. SOJD-IHSS-008-2026 celebrada el día dieciséis (16) de abril del año dos mil veintiséis (2026), la Junta Directiva del Instituto Hondureño de Seguridad Social, por unanimidad de votos, dictó Resolución No. SEJD-IHSS- xxx-2026-xx resolviendo derogar el actual Reglamento Interno de la Junta Directiva del Instituto Hondureño de Seguridad Social, emitido como Acuerdo número 01-99 JD y emitir el presente Reglamento Interno de la Junta Directiva, tomando en cuenta que la reforma ordenada bajo Resolución No.
+CONSIDERANDO (6): Que, en Sesión Ordinaria de Junta Directiva del IHSS No. SOJD-IHSS-008-2026 celebrada el día dieciséis (16) de abril del año dos mil veintiséis (2026), la Junta Directiva del Instituto Hondureño de Seguridad Social, por unanimidad de votos, dictó Resolución No. SEJD-IHSS- xxx-2026-xx resolviendo derogar el actual Reglamento Interno de la Junta Directiva del Instituto Hondureño de Seguridad Social, emitido como Acuerdo número 01-99 JD y emitir el presente Reglamento Interno de la Junta Directiva, tomando en cuenta que la reforma ordenada bajo Resolución No. SEJD-IHSS-124-2024-IV, no cumplió con la formalidad de ser publicado en el Diario Oficial La Gaceta.
 
-SEJD-IHSS-124-2024-IV, no cumplió con la formalidad de ser publicado en el Diario Oficial La Gaceta.
-
-POR TANTO, En ejercicio de las atribuciones que le confiere el artículo 142 de la Constitución de la República, artículos 20 numeral 5 y 102 primer párrafo de la Ley del Seguro Social (Decreto No.
-
-080-2001), y artículo 118 de la Ley General de Administración Pública;
+POR TANTO, En ejercicio de las atribuciones que le confiere el artículo 142 de la Constitución de la República, artículos 20 numeral 5 y 102 primer párrafo de la Ley del Seguro Social (Decreto No. 080-2001), y artículo 118 de la Ley General de Administración Pública;
 
 ACUERDA:
 

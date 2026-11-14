@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos números 023-SP-2020, 024-SP-2020, 025-SP-2020, Acuerdo Ejecutivo número 025-A-SP-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201120-35435/download"
 extraido: "2026-11-14"
-huella: "c87968441b0f8fb8"
+huella: "dde685b89aec78de"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 023-SP-2020
@@ -29,7 +29,7 @@ huella: "c87968441b0f8fb8"
 
 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, En uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo Numero 009-2018 de fecha 27 de enero de 2018.
 
-A C U E R D A:
+ACUERDA:
 
 1. Cancelar a la ciudadana MERARY ELENA DIAZ MOLINA, en el cargo de Directora General de Servicio Civil.
 

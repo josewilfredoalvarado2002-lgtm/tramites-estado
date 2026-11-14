@@ -8,10 +8,10 @@ gaceta_numero: 36599
 gaceta_fecha: "2024-07-30"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)|La Gaceta 36599]]"
 paginas: "A. 1 - 21"
-sumario: "Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024"
+sumario: "Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240730-36599/download"
 extraido: "2026-11-14"
-huella: "55088aeefaa1fe7c"
+huella: "bdc6ddaef7c3a54c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 65-2024
@@ -23,7 +23,7 @@ huella: "55088aeefaa1fe7c"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)\|La Gaceta 36599]] del 2024-07-30 |
 | Páginas | A. 1 - 21 |
-| Según el sumario de La Gaceta | Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024 |
+| Según el sumario de La Gaceta | Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -175,7 +175,7 @@ Un Certificado de Origen según lo establecido en el Apéndice (Certificado de O
 
 Cada Parte informará a la autoridad competente de la otra Parte el nombre de cada organismo autorizado, así como los datos de contacto pertinentes y proporcionará detalles de las características de seguridad de los formularios y documentos pertinentes utilizados por cada organismo autorizado, antes de la expedición de cualquier certificado por dicho organismo.
 
-Cualquier cambio en la información proporcionada anteriormente se notificará sin demora a la autoridad aduanera de la otra Parte. 6. Un Certificado de Origen puede ser expedido retrospectivamente en el plazo de 1 año a partir de la fecha de embarque, con las p a l a b r a s “ E X P E D I D O RETROSPECTIVAMENTE” y mantendrá su validez durante 1 año a partir de la fecha de embarque, si no se emite antes o en el momento del embarque por causas de fuerza mayor, errores involuntarios, omisiones u otras causas válidas. 7. En los casos de robo, pérdida o destrucción accidental de un Certificado de Origen, el exportador o productor podrá solicitar por escrito a los organismos autorizados de la Parte exportadora la expedición de una copia certificada. La copia certificada deberá llevar las palabras “COPIA AUTÉNTICA CERTIFICADA del Certificado de Origen original número ___ de fecha ___”. La copia certificada será válida durante el plazo de validez del Certificado de Origen original. Artículo 9: Errores Menores. Cuando el origen de una mercancía importada no esté en duda, los errores menores de transcripción en un Certificado de Origen, no invalidarán por sí mismos el Certificado de Origen sí de hecho corresponde a la mercancía.
+Cualquier cambio en la información proporcionada anteriormente se notificará sin demora a la autoridad aduanera de la otra Parte. 6. Un Certificado de Origen puede ser expedido retrospectivamente en el plazo de 1 año a partir de la fecha de embarque, con las palabras “ EXPEDIDO RETROSPECTIVAMENTE” y mantendrá su validez durante 1 año a partir de la fecha de embarque, si no se emite antes o en el momento del embarque por causas de fuerza mayor, errores involuntarios, omisiones u otras causas válidas. 7. En los casos de robo, pérdida o destrucción accidental de un Certificado de Origen, el exportador o productor podrá solicitar por escrito a los organismos autorizados de la Parte exportadora la expedición de una copia certificada. La copia certificada deberá llevar las palabras “COPIA AUTÉNTICA CERTIFICADA del Certificado de Origen original número ___ de fecha ___”. La copia certificada será válida durante el plazo de validez del Certificado de Origen original. Artículo 9: Errores Menores. Cuando el origen de una mercancía importada no esté en duda, los errores menores de transcripción en un Certificado de Origen, no invalidarán por sí mismos el Certificado de Origen sí de hecho corresponde a la mercancía.
 
 Sin embargo, esto no impide que la administración aduanera de la Parte importadora inicie un proceso de verificación de conformidad con el artículo 13. Artículo 10: Conservación de los Documentos de Origen. 1. Cada Parte exigirá a sus productores, exportadores e importadores que conserven documentos que demuestren el carácter originario de las mercancías, así como el cumplimiento de los demás requisitos de este Capítulo, por lo menos durante 3 años o cualquier tiempo mayor, de conformidad con la legislación interna de esa Parte. 2. Cada Parte exigirá que sus organismos autorizados conserven copias de los Certificados de Origen y otros documentos de respaldo relacionados durante al menos 3 años o cualquier otro período de tiempo más largo de conformidad con la legislación interna de esa Parte. Artículo 11:
 

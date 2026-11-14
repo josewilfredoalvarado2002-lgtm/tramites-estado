@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ejecutivos Nos. 375-A-2022, 376-2022, 377-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220825-36011/download"
 extraido: "2026-11-14"
-huella: "e6744aa5497dfd64"
+huella: "d3e8c8349965ed40"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 377-2022
@@ -55,7 +55,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los cinco (5) día del mes de julio del año dos mil veintidós (2022).
 
-IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ FE DE ERRATA En la edición del Diario Oficial “La Gaceta” No. 35,751, de fecha miércoles 20 de octubre del año 2021, se publicó en la página No. A.7, el Decreto Legislativo No. 70-2019; por un error involuntario se insertó Decreto Legislativo No. 70- 2021, siendo lo correcto Decreto Legislativo No. 70-2019.
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ FE DE ERRATA En la edición del Diario Oficial “La Gaceta” No. 35,751, de fecha miércoles 20 de octubre del año 2021, se publicó en la página No. A.7, el Decreto Legislativo No. 70-2019; por un error involuntario se insertó Decreto Legislativo No. 70-2021, siendo lo correcto Decreto Legislativo No. 70-2019.
 
 LA GERENCIA
 

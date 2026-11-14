@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Acuerdo Ministerial No. 218-2020, 221-2020, 222-2020, 223-2020, 224-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201119-35434/download"
 extraido: "2026-11-14"
-huella: "a3eccc043c5f5859"
+huella: "bc5e53f4ff40ffe5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 224-2020
@@ -53,7 +53,7 @@ PRIMERO: Prohibir las exportaciones de frijol rojo en las fracciones arancelaria
 
 SEGUNDO: Solicitar a las autoridades policiales ejercer estricta vigilancia en las fronteras a efecto de evitar la salida ilegal de frijol rojo.
 
-TERCERO: Dejar sin valor y efecto el Acuerdo Ministerial No.197-2020 de fecha veintiséis días del mes de agosto de del año dos mil veinte (2020).
+TERCERO: Dejar sin valor y efecto el Acuerdo Ministerial No. 197-2020 de fecha veintiséis días del mes de agosto de del año dos mil veinte (2020).
 
 CUARTO: Notificar el presente Acuerdo a la Administración Aduanera de Honduras, a fin de que instruya a las Aduanas del territorio nacional para su estricto cumplimiento.
 
@@ -71,7 +71,7 @@ CONSIDERANDO (1): Que el Consejo Nacional Supervisor de Cooperativas (CONSUCOOP)
 
 CONSIDERANDO (2): Que conforme el Artículo 245 numerales 4, 7 y 16, de la Constitución de la República, el Presidente de la República en Consejo de Secretarios de Estado determinó mediante Decretos Ejecutivos, declarar estado de emergencia sanitaria ante el Covid-19 en todo el país, asimismo determinó, restringir o suspender el ejercicio de algunos derechos constitucionales con la finalidad de salvaguardar la vida humana, fin supremo de la sociedad y el Estado, entre éstas, la prohibición de actividades tanto públicas como privadas, estableciendo excepciones y determinando número de personas autorizadas para tal fin y poder evitar para la propagación del virus COVID-19.
 
-CONSIDERANDO (3): Que mediante el Acuerdo No. 002- 10-03-2020, de fecha 10 de marzo de 2020, la Junta Directiva de este Consejo, aprobó el procedimiento para la elección de los miembros de las Juntas Directivas y Juntas de Vigilancia que opten a ser electos por un tercer (3) periodo consecutivo, según la facultad establecida en los artículos 26 y 32 de la Ley de Cooperativas de Honduras, reformados mediante el Decreto Legislativo No. 146-2019.
+CONSIDERANDO (3): Que mediante el Acuerdo No. 002-10-03-2020, de fecha 10 de marzo de 2020, la Junta Directiva de este Consejo, aprobó el procedimiento para la elección de los miembros de las Juntas Directivas y Juntas de Vigilancia que opten a ser electos por un tercer (3) periodo consecutivo, según la facultad establecida en los artículos 26 y 32 de la Ley de Cooperativas de Honduras, reformados mediante el Decreto Legislativo No. 146-2019.
 
 CONSIDERANDO (4): Que mediante la Resolución No.
 
@@ -95,9 +95,9 @@ En uso de las facultades en que está investido y en aplicación de los artícul
 
 8, 91, 110 del Reglamento de la Ley de Cooperativas de Honduras, Decreto Legislativo No. 33-2020 contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la Pandemia provocada por el Covid-19;
 
-PCM- 005-2020, PCM- 016-2020; PCM- 021-2020, PCM-
+PCM-005-2020, PCM-016-2020; PCM-021-2020, PCM-
 
-022-2020, PCM- 026-2020; PCM- 036-2020 y demás emitidos por el Poder Ejecutivo.
+022-2020, PCM-026-2020; PCM-036-2020 y demás emitidos por el Poder Ejecutivo.
 
 ACUERDA:
 

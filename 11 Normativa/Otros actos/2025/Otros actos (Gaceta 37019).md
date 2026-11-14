@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdos Nos. CSJ 01-2025, CSJ 02-2025,CSJ 03-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251215-37019/download"
 extraido: "2026-11-09"
-huella: "b89ca6a22f7313f8"
+huella: "16b40fe07d333317"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos Nos. CSJ 01-2025, CSJ 02-2025,CSJ 03-2025
@@ -55,7 +55,7 @@ POR TANTO
 
 En atención a lo antes expuesto, el Pleno de la Corte Suprema de Justicia, en uso de las facultades que la Constitución y la Ley le confieren, POR UNANIMIDAD,
 
-A C U E R D A
+ACUERDA
 
 Aprobar el siguiente:
 
@@ -383,7 +383,7 @@ POR TANTO
 
 En atención a lo antes expuesto, el Pleno de la Corte Suprema de Justicia, en uso de las facultades que la Constitución y la Ley le confieren, POR UNANIMIDAD,
 
-A C U E R D A
+ACUERDA
 
 Aprobar el siguiente:
 
@@ -659,7 +659,7 @@ POR TANTO
 
 En atención a lo antes expuesto, el Pleno de la Corte Suprema de Justicia, en uso de las facultades que la Constitución y la Ley le confieren, POR MAYORÍA DE VOTOS,
 
-A C U E R D A
+ACUERDA
 
 Aprobar el siguiente:
 
@@ -885,9 +885,7 @@ El presente Acuerdo se emite en acatamiento a lo dispuesto en el Punto No. 7 del
 
 REBECA LIZETTE RAQUEL OBANDO PRESIDENTA IRIS BERNARDA CASTELLANOS ALVARADO SECRETARIA GENERAL MICHELLE ALESSANDRA IZAGUIRRE COLINDRES SECRETARIA GENERAL ADJUNTA Avance Próxima Edición
 
-ACUERDA PRIMERO: 1) Derogar el Acuerdo 029-2022, publicado en el Diario Oficial La Gaceta No.36,000 con fecha 12 de agosto del año 2022; 2) Derogar la Adenda No.1 del Acuerdo 029-2022 publicada en el Diario Oficial La Gaceta No.
-
-36,071 en fecha 8 de noviembre del año dos mil veintidós.
+ACUERDA PRIMERO: 1) Derogar el Acuerdo 029-2022, publicado en el Diario Oficial La Gaceta No. 36,000 con fecha 12 de agosto del año 2022; 2) Derogar la Adenda No. 1 del Acuerdo 029-2022 publicada en el Diario Oficial La Gaceta No. 36,071 en fecha 8 de noviembre del año dos mil veintidós.
 
 CENTROS DE DISTRIBUCIÓN:
 

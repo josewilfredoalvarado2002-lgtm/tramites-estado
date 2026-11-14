@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Resolución No. 531-2017"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201016-35401/download"
 extraido: "2026-11-14"
-huella: "e02d8bfff81fc14e"
+huella: "ea850d15b018c565"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Resolución No. 531-2017
@@ -31,9 +31,7 @@ Humanos, Justicia, El infrascrito, Secretario General de la Secretaría de Estad
 
 “RESOLUCIÓN
 
-N°.
-
-531-2017.-
+N°. 531-2017.-
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, diez de marzo de dos mil diecisiete.
 

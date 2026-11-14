@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230118-36132/download"
 extraido: "2026-11-14"
-huella: "edd6874979c5965b"
+huella: "26ba047cb706b293"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -29,9 +29,7 @@ huella: "edd6874979c5965b"
 
 Servicio de Administración de Rentas ACUERDO SAR-No. 544-2022 Tegucigalpa, M.D.C., 30 de diciembre del 2022 EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
-CONSIDERANDO: Que el Artículo 195 del Decreto Legislativo número 170-2016 de fecha 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” N°.
-
-34,224, de fecha 28 de diciembre del 2016 que contiene el Código Tributario, crea la Administración Tributaria como una Entidad Desconcentrada adscrita a la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos con autoridad y competencia a nivel nacional; denominándose SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), mediante el Acuerdo Ejecutivo número 01-2017, publicado en el Diario Oficial “La Gaceta” N°. 34,228 de fecha 02 de enero del 2017.
+CONSIDERANDO: Que el Artículo 195 del Decreto Legislativo número 170-2016 de fecha 15 de diciembre del 2016, publicado en el Diario Oficial “La Gaceta” N°. 34,224, de fecha 28 de diciembre del 2016 que contiene el Código Tributario, crea la Administración Tributaria como una Entidad Desconcentrada adscrita a la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos con autoridad y competencia a nivel nacional; denominándose SERVICIO DE ADMINISTRACIÓN DE RENTAS (SAR), mediante el Acuerdo Ejecutivo número 01-2017, publicado en el Diario Oficial “La Gaceta” N°. 34,228 de fecha 02 de enero del 2017.
 
 Dichos tributos se convierten en recursos financieros para el Estado según lo estipulado el Artículo 361 de la Constitución de la República y, posteriormente, se materializan en obras públicas y asignaciones presupuestarias a los diferentes entes gubernamentales y no gubernamentales; por ende, es una institución de suma importancia dentro del engranaje de la Administración Pública en el país.
 
@@ -39,7 +37,7 @@ CONSIDERANDO: Que, derivado de la importancia de ser un órgano desconcentrado d
 
 CONSIDERANDO: Que el Artículo 31 contenido en la Sección Quinta denominada “Órganos Desconcentrado” del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto No. PCM-008-97 y publicado en el Diario Oficial “La Gaceta” en fecha 07 de junio de 1997 establece que: “Los órganos desconcentrados son creados por ley (tal como es el caso del Servicio de Administración de Rentas), la que determinará su grado de desconcentración, su respectiva competencia, la cual ejercitarán con autonomía técnicaadministrativa y financiera. Sin perjuicio de lo que las leyes dispongan, el personal de estos órganos estará sujeto al régimen del Servicio Civil. Entiéndase por autonomía técnica-administrativa la gestión directa de los asuntos que por Ley les están encomendadas”. Y siendo que, el Código Tributario antes citado dispone que el Director Ejecutivo aprobará el Régimen Laboral del Servicio de Administración de Rentas (SAR), no se estará sujeto a la Ley de Servicio Civil.
 
-CONSIDERANDO: Que conforme a lo estipulado en el numeral 2) del Artículo 197 del Decreto Legislativo número 170-2016, se preceptúa que las relaciones entre la Administración Tributaria y su personal se regirán por un Régimen Laboral que al efecto aprueben la máxima autoridad, es decir, el Director Ejecutivo; por ende, en cumplimiento de dicho mandato, se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas mediante Acuerdo número SAR- 003-2017 publicado en el Diario Oficial “La Gaceta” de fecha 18 de marzo del 2017, el cual fue reformado mediante el Acuerdo número SAR-291-2020, publicado en el Diario Oficial “La Gaceta” de fecha 10 de febrero del 2021. Dicho acto administrativo de carácter general establece en su
+CONSIDERANDO: Que conforme a lo estipulado en el numeral 2) del Artículo 197 del Decreto Legislativo número 170-2016, se preceptúa que las relaciones entre la Administración Tributaria y su personal se regirán por un Régimen Laboral que al efecto aprueben la máxima autoridad, es decir, el Director Ejecutivo; por ende, en cumplimiento de dicho mandato, se aprobó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas mediante Acuerdo número SAR-003-2017 publicado en el Diario Oficial “La Gaceta” de fecha 18 de marzo del 2017, el cual fue reformado mediante el Acuerdo número SAR-291-2020, publicado en el Diario Oficial “La Gaceta” de fecha 10 de febrero del 2021. Dicho acto administrativo de carácter general establece en su
 
 Artículo 1 que el precitado Régimen: “Tiene por finalidad regular la relación de prestación de servicios entre el SAR y sus funcionarios y servidores y que constituye un conjunto de normas de observación obligatoria”.
 
@@ -65,7 +63,7 @@ Acuerdo SAR-18-2019; Acuerdo SAR-222-2019; Acuerdo SAR No. 182-2021; Acuerdo No.
 
 ACUERDA:
 
-PRIMERO: Derogar el artículo 34 del Régimen de la Carrera de Empleados y Funcionarios del Servicio de Administración de Rentas (SAR) y sus reformas contenido en el Acuerdo 003- 2017 publicado en el Diario Oficial “La Gaceta” en fecha 18 de marzo de 2017.
+PRIMERO: Derogar el artículo 34 del Régimen de la Carrera de Empleados y Funcionarios del Servicio de Administración de Rentas (SAR) y sus reformas contenido en el Acuerdo 003-2017 publicado en el Diario Oficial “La Gaceta” en fecha 18 de marzo de 2017.
 
 SEGUNDO: El presente Acuerdo entrará en vigencia a partir de su fecha. PUBLÍQUESE.
 

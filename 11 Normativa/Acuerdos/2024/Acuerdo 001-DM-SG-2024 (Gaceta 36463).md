@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo 001-DM/SG-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240217-36463/download"
 extraido: "2026-11-14"
-huella: "c7750bef2c0bffb1"
+huella: "f71dd4b46478bb36"
 ---
 <!-- portal:inicio -->
 # ACUERDO 001-DM/SG-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el propósito de la desconcentración es claro, al pretender f
 
 CONSIDERANDO: Que el artículo 4 y 5 de la Ley de Procedimiento Administrativo, establecen que el órgano superior podrá delegar el ejercicio de sus funciones en para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la administración de que forma parte el superior y el inferior, indicando el órgano delegante, el objeto de la delegación y el órgano delegado, pudiendo contener instrucciones obligatorias para éste en materia procedimental.
 
-CONSIDERANDO: Que el.- Literalmente establece “En cumplimiento de lo dispuesto por el Artículo 360 de la Constitución de la República y el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
+CONSIDERANDO: Que el.- Literalmente establece “En cumplimiento de lo dispuesto por el Artículo 360 de la Constitución de la República y el Artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de Septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
 
 POR TANTO: En el ejercicio de las facultades legales y en aplicación de los Artículos 1, 247, 248, 249 y 321 de la Constitución de la República, 7, 41, 43, 116, 118 y 119 de la Ley General de Administración Pública; 31 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 11 de la Ley de Contratación del Estado, 19 del Reglamento de la Ley de Contratación del Estado; 1 numerales 1 y 2 de la Ley de Simplificación Administrativa, 4 y 5 Ley de Procedimiento Administrativo.
 

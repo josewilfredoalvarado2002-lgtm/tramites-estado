@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 35-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240507-36527/download"
 extraido: "2026-11-14"
-huella: "f1ff2a5e2f56aa45"
+huella: "d02ab8a5a314c21b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2024
@@ -47,15 +47,15 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar la creación de la FEDERACIÓN H O N D U R E Ñ A D E S A M B O (FEDEHSAMBO), en tal sentido esta Federación debe crear y aprobar sus respectivos Estatutos.
+ARTÍCULO 1.- Aprobar la creación de la FEDERACIÓN HONDUREÑA DE SAMBO (FEDEHSAMBO), en tal sentido esta Federación debe crear y aprobar sus respectivos Estatutos.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Artículo número 3 de la LEY DE PROTECCIÓN DE LA CULTURA FÍSICA Y EL DEPORTE, contenida en el Decreto Legislativo No. 203-84 del 29 de Octubre de 1984, publicado en fecha 15 de Noviembre del año 1984; reformado por adición por los siguientes Decretos Legislativos: 98-87, publicado en fecha 7 de Agosto del año 1987; 51-93, publicado en fecha 8 de Mayo del año 1993; 57- 95, publicado en fecha 24 de Mayo del año 1995; 85-2000, publicado en fecha 3 de Julio del 2000;
+ARTÍCULO 2.- Reformar por adición el Artículo número 3 de la LEY DE PROTECCIÓN DE LA CULTURA FÍSICA Y EL DEPORTE, contenida en el Decreto Legislativo No. 203-84 del 29 de Octubre de 1984, publicado en fecha 15 de Noviembre del año 1984; reformado por adición por los siguientes Decretos Legislativos: 98-87, publicado en fecha 7 de Agosto del año 1987; 51-93, publicado en fecha 8 de Mayo del año 1993; 57-95, publicado en fecha 24 de Mayo del año 1995; 85-2000, publicado en fecha 3 de Julio del 2000;
 
 55-2002, publicado en fecha 7 de Junio del 2002; 82-2022, publicado en fecha 1 de Septiembre del año 2022; 16-2023, aprobado en fecha 22 de Marzo del año 2023 y sus posteriores reformas, el cual deberá leerse de la siguiente forma:
 

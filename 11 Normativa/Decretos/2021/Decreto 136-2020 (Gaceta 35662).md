@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 136-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210720-35662/download"
 extraido: "2026-11-14"
-huella: "7c95755aa7b68e39"
+huella: "a5144618cbab3a66"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 136-2020
@@ -43,7 +43,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Otorgar al ciudadano HERMELINDO CANTARERO con TARJETA DE IDENTIDAD No. 0501- 1955-04345, una pensión vitalicia por la suma de VEINTE MIL LEMPIRAS (L.20,000.00), que deberán ser entregados de manera mensual, a través de la Secretaría de Estado en el Despacho de Finanzas.
+ARTÍCULO 1.- Otorgar al ciudadano HERMELINDO CANTARERO con TARJETA DE IDENTIDAD No. 0501-1955-04345, una pensión vitalicia por la suma de VEINTE MIL LEMPIRAS (L.20,000.00), que deberán ser entregados de manera mensual, a través de la Secretaría de Estado en el Despacho de Finanzas.
 
 Se ordena a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), identificar la fuente de financiamiento y hacer las previsiones presupuestarias y técnicas necesarias para cumplir con las disposiciones contempladas en este Artículo, en el año en curso y siguientes, a partir del día de su vigencia.
 

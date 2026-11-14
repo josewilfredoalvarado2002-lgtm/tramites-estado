@@ -8,10 +8,10 @@ gaceta_numero: 35205
 gaceta_fecha: "2020-03-20"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35205 (2020-03-20)|La Gaceta 35205]]"
 paginas: "A. 1 - 12"
-sumario: "Acuerdo No. 227-2020ALCALDIA MUNICIPAL DEL DISTRITO CENTRALCertificación del Acuerdo No. 009"
+sumario: "Acuerdo No. 227-2020; ALCALDIA MUNICIPAL DEL DISTRITO CENTRAL: Certificación del Acuerdo No. 009"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200320-35205/download"
 extraido: "2026-11-14"
-huella: "cdad9307718a397d"
+huella: "098b9995f232e564"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 227-2020
@@ -23,7 +23,7 @@ huella: "cdad9307718a397d"
 | Emisor | Secretaría de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35205 (2020-03-20)\|La Gaceta 35205]] del 2020-03-20 |
 | Páginas | A. 1 - 12 |
-| Según el sumario de La Gaceta | Acuerdo No. 227-2020ALCALDIA MUNICIPAL DEL DISTRITO CENTRALCertificación del Acuerdo No. 009 |
+| Según el sumario de La Gaceta | Acuerdo No. 227-2020; ALCALDIA MUNICIPAL DEL DISTRITO CENTRAL: Certificación del Acuerdo No. 009 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al numeral 15 del Artículo 29 de la Ley de la 
 
 POR TANTO
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 17, 20 y 104 numeral 3 del Código Tributario; Artículo 15 de la Ley de Responsabilidad Fiscal; Artículo 2 del Reglamento de la Ley de Responsabilidad Fiscal; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas y los Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas, Decreto Ejecutivo Número PCM-005-2020 y Decreto No.29-2020 de fecha 12 de marzo del 2020.
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 17, 20 y 104 numeral 3 del Código Tributario; Artículo 15 de la Ley de Responsabilidad Fiscal; Artículo 2 del Reglamento de la Ley de Responsabilidad Fiscal; Artículos 29 Numeral 15), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas y los Artículos 24, 25, 26 y 33 de la Ley de Procedimiento Administrativo y sus reformas, Decreto Ejecutivo Número PCM-005-2020 y Decreto No. 29-2020 de fecha 12 de marzo del 2020.
 
 ACUERDA:
 
@@ -59,9 +59,7 @@ CAPÍTULO ÚNICO DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO. El presente Instructivo Técnico Tributario Aduanero tiene por objeto desarrollar las disposiciones contenidas en el Decreto Legislativo No.
-
-29-2020 de fecha 12 de marzo de 2020 relacionado a la No Sujeción en el pago del “Impuesto Sobre Ventas” e “Impuesto de Producción y Consumo” a las personas naturales y jurídicas en la compra local e importaciones de materias primas, material de empaque y envases, necesarios para la fabricación de productos sanitizantes y medicamentos para atender la emergencia sanitaria y combatir los efectos del probable riesgo de infección por coronavirus.
+ARTÍCULO 1.- OBJETO. El presente Instructivo Técnico Tributario Aduanero tiene por objeto desarrollar las disposiciones contenidas en el Decreto Legislativo No. 29-2020 de fecha 12 de marzo de 2020 relacionado a la No Sujeción en el pago del “Impuesto Sobre Ventas” e “Impuesto de Producción y Consumo” a las personas naturales y jurídicas en la compra local e importaciones de materias primas, material de empaque y envases, necesarios para la fabricación de productos sanitizantes y medicamentos para atender la emergencia sanitaria y combatir los efectos del probable riesgo de infección por coronavirus.
 
 #### Artículo 2
 
@@ -125,7 +123,7 @@ CAPÍTULO III DE LA APLICACIÓN DE LA EXONERACIÓN
 
 #### Artículo 9
 
-ARTÍCULO 9.- DE LA EXONERACIÓN. A fin de dar cumplimiento a la exoneración establecida en el párrafo tercero del Artículo 1 del Decreto No.29-2020, se instruye a todos los comercios que vendan mascarillas y gel de manos a la población en general dentro de todo el territorio nacional, que al momento de realizar la venta deben colocar en la factura de manera manual, el número de Resolución DGCFAISV-00001-2020 que será el documento acreditativo para el no cobro del Impuesto Sobre Ventas.
+ARTÍCULO 9.- DE LA EXONERACIÓN. A fin de dar cumplimiento a la exoneración establecida en el párrafo tercero del Artículo 1 del Decreto No. 29-2020, se instruye a todos los comercios que vendan mascarillas y gel de manos a la población en general dentro de todo el territorio nacional, que al momento de realizar la venta deben colocar en la factura de manera manual, el número de Resolución DGCFAISV-00001-2020 que será el documento acreditativo para el no cobro del Impuesto Sobre Ventas.
 
 CAPÍTULO IV DISPOSICIONES APLICABLES A LAS INSTITUCIONES DEL ESTADO Y LAS ASOCIACIONES SIN FINES DE LUCRO
 
@@ -159,9 +157,9 @@ ARTÍCULO 14.- VIGENCIA. El presente Acuerdo entrará en vigor el día de su pub
 
 COMUNÍQUESE Y PUBLÍQUESE, ROCIO IZABEL TABORA MORALES
 
-Secretaria de Estado en el Despacho de Finanzas Alcaldía Municipal del Distrito Central MARTHA SUYAPA GUILLEN CARRASCO CERTIFICACIÓN Secretaria General, por Ley LA INFRASCRITA SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA EL ACUERDO No.009 CONTENIDO EN EL ACTA EXTRAORDINARIA No.007 DE FECHA DOCE DE MARZO DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
+Secretaria de Estado en el Despacho de Finanzas Alcaldía Municipal del Distrito Central MARTHA SUYAPA GUILLEN CARRASCO CERTIFICACIÓN Secretaria General, por Ley LA INFRASCRITA SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA EL ACUERDO No. 009 CONTENIDO EN EL ACTA EXTRAORDINARIA No. 007 DE FECHA DOCE DE MARZO DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.009.- CONSIDERANDO: Que una de las funciones esenciales del Gobierno Municipal es garantizar a los habitantes del municipio, la protección de sus vidas y de sus bienes y el ejercicio del derecho a la protección de la salud y la seguridad de conformidad a la ley.
+“ACUERDO No. 009.- CONSIDERANDO: Que una de las funciones esenciales del Gobierno Municipal es garantizar a los habitantes del municipio, la protección de sus vidas y de sus bienes y el ejercicio del derecho a la protección de la salud y la seguridad de conformidad a la ley.
 
 CONSIDERANDO: Que con lugar de la llegada de los primeros dos casos de la pandemia mundial del virus COVID-19, Coronavirus, al territorio nacional hondureño y específicamente uno de ellos a la jurisdicción municipal del Distrito Central, se ha celebrado sesión extraordinaria por parte de la Corporación Municipal como máxima autoridad dentro de los límites de su entidad territorial.
 

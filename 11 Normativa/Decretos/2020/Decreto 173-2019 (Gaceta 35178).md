@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Decreto No. 173-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200218-35178/download"
 extraido: "2026-11-14"
-huella: "edb21b1328dd2c79"
+huella: "51341828fd3960bb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 173-2019
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el derecho a una vivienda digna se encuentra reconocido en el Artículo 178 de la Constitución de la República; derecho fundamental que también forma parte de los compromisos reconocidos en los Tratados y Convenios de Derechos Humanos suscritos por el Estado de Honduras.
 
-CONSIDERANDO: Que en fecha 30 de Octubre de 1991, fue emitida la Ley del Fondo Social para la Vivienda mediante Decreto No.167-91 de fecha 30 de Octubre de 1991, con el fin de establecer y financiar directamente, o a través de intermediarios, la ejecución de las políticas nacionales aplicables a la vivienda, sus servicios y asentamientos humanos.
+CONSIDERANDO: Que en fecha 30 de Octubre de 1991, fue emitida la Ley del Fondo Social para la Vivienda mediante Decreto No. 167-91 de fecha 30 de Octubre de 1991, con el fin de establecer y financiar directamente, o a través de intermediarios, la ejecución de las políticas nacionales aplicables a la vivienda, sus servicios y asentamientos humanos.
 
 CONSIDERANDO: Que no obstante lo anterior, la aplicación de dicha Ley se tornó inaplicable debido a medidas administrativas que redefinieron el papel de la institución creada al efecto, siendo éste el Fondo Social para la Vivienda (FOSOVI).
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -113,7 +113,7 @@ CAPÍTULO I SECTOR DE VIVIENDA Y ASENTAMIENTOS HUMANOS
 
 ARTÍCULO 4.- CREACIÓN DE LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE VIVIENDA Y ASENTAMIENTOS HUMANOS (SEVIAH): Créase la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH), que tiene como propósito la formulación, coordinación, ejecución y evaluación de la política pública de vivienda y asentamientos humanos del país.
 
-La Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH), forma parte de la Administración General del Estado a que se refiere el Artículo 29 del Decreto No.266-2013 de fecha 16 de Diciembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 23 de Enero de 2014, Edición No.33,336, contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
+La Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH), forma parte de la Administración General del Estado a que se refiere el Artículo 29 del Decreto No. 266-2013 de fecha 16 de Diciembre de 2013 y publicado en el Diario Oficial “La Gaceta” el 23 de Enero de 2014, Edición No. 33,336, contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno.
 
 Todas las funciones en materia de política de vivienda y asentamientos humanos que se encuentren a cargo de otras Secretarías de Estado u otras entidades públicas son asumidas por la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH).
 
@@ -425,7 +425,7 @@ ARTÍCULO 21.- ASIGNACIÓN DE RECURSOS PARA
 
 BONOS DE VIVIENDA DE INTERÉS SOCIAL: De los recursos del Presupuesto Nacional se debe asignar una suma anual equivalente y no menor a ciento cincuenta mil (150,000) salarios mínimos mensuales vigentes, tomando como base el salario mínimo de mayor cuantía en sus diferentes categorías proporcionado por la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), para el otorgamiento de bonos para vivienda de interés social, a través del Fondo Social Hondureño para la Vivienda (FONHVIVIENDA).
 
-Los recursos a los que se refiere el presente Artículo deben provenir del tres por ciento (3%) del incremento al Impuesto Sobre Ventas (ISV), incorporado al Fondo de Solidaridad y Protección Social para la reducción de la pobreza extrema a que se refiere el Decreto No.290-2013 de fecha 8 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 5 de abril de 2014, Edición No.33,398 o las normas que lo modifiquen o sustituyan o de cualquier otra fuente de financiamiento del Presupuesto General de la República.
+Los recursos a los que se refiere el presente Artículo deben provenir del tres por ciento (3%) del incremento al Impuesto Sobre Ventas (ISV), incorporado al Fondo de Solidaridad y Protección Social para la reducción de la pobreza extrema a que se refiere el Decreto No. 290-2013 de fecha 8 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 5 de abril de 2014, Edición No. 33,398 o las normas que lo modifiquen o sustituyan o de cualquier otra fuente de financiamiento del Presupuesto General de la República.
 
 #### Artículo 22
 
@@ -541,7 +541,7 @@ Las instituciones públicas que otorguen fondos o créditos cuyo objetivo sea el
 
 #### Artículo 29
 
-ARTÍCULO 29.- GARANTÍA DE LOS CRÉDITOS H I P O T E C A R I O S Y O P E R A C I O N E S D E ARRENDAMIENTO FINANCIERO: Para garantizar la institucionalidad y el buen funcionamiento del sistema de garantía recíproca, cuando el crédito hipotecario y/o arrendamiento financiero, con fines de vivienda, se encuentre respaldado con el otorgamiento de una garantía emitida por la primera sociedad administradora de Fondos de Garantía Recíproca, facultada por el Artículo 39 del Decreto No.205- 2011 de fecha 15 de Noviembre de 2011 y publicado en el Diario Oficial “La Gaceta” el 26 de Enero de 2012, Edición No.32,731, que contiene la Ley del Sistema de Fondos de Garantía Recíproca para la Promoción de las Mipymes, Vivienda Social y Educación Técnica-Profesional o cualquier otra sociedad que se constituya para el efecto, la Comisión Nacional de Bancos y Seguros (CNBS), definirá las condiciones en que el otorgamiento de la garantía incidirá en la disminución de la reserva que debe generar la entidad financiera.
+ARTÍCULO 29.- GARANTÍA DE LOS CRÉDITOS HIPOTECARIOS Y OPERACIONES DE ARRENDAMIENTO FINANCIERO: Para garantizar la institucionalidad y el buen funcionamiento del sistema de garantía recíproca, cuando el crédito hipotecario y/o arrendamiento financiero, con fines de vivienda, se encuentre respaldado con el otorgamiento de una garantía emitida por la primera sociedad administradora de Fondos de Garantía Recíproca, facultada por el Artículo 39 del Decreto No. 205-2011 de fecha 15 de Noviembre de 2011 y publicado en el Diario Oficial “La Gaceta” el 26 de Enero de 2012, Edición No. 32,731, que contiene la Ley del Sistema de Fondos de Garantía Recíproca para la Promoción de las Mipymes, Vivienda Social y Educación Técnica-Profesional o cualquier otra sociedad que se constituya para el efecto, la Comisión Nacional de Bancos y Seguros (CNBS), definirá las condiciones en que el otorgamiento de la garantía incidirá en la disminución de la reserva que debe generar la entidad financiera.
 
 En todo caso la reserva crediticia exigida por la Comisión Nacional de Bancos y Seguros (CNBS), para créditos inmobiliarios con garantía hipotecaria no puede ser superior a la diferencia resultante entre el saldo adeudado del crédito y el setenta por ciento (70%) del valor del avalúo del bien hipotecado en garantía; debiéndose reducir el valor antes exigido en la proporción que sea cubierta por un Fondo de Garantía.
 
@@ -595,7 +595,7 @@ ARTÍCULO 34.- TITULARIZACIÓN DE CARTERA HIPOTECARIA Y ARRENDAMIENTO FINANCIERO
 
 Las entidades financieras también pueden transferir sus créditos y contratos de arrendamiento incluyendo las garantías o los derechos sobre los mismos y sus respectivas garantías, a sociedades titularizadoras o a otras instituciones autorizadas por el Gobierno de la República de Honduras, con el fin que éstas emitan títulos, en las condiciones previstas en el presente artículo, para ser colocadas entre el público.
 
-La Comisión Nacional de Bancos y Seguros (CNBS), debe establecer los requisitos y condiciones para la emisión y colocación de los diferentes títulos que se emitan en desarrollo de lo aquí previsto, en concordancia con las disposiciones del Decreto No.8-2001 de fecha 20 de Febrero de 2001 y publicado en el Diario Oficial “La Gaceta” en fecha 9 de Junio de 2001, Edición 29,499, que contiene la Ley de Mercado de Valores y las normas que la modifiquen, sustituyan o reglamenten.
+La Comisión Nacional de Bancos y Seguros (CNBS), debe establecer los requisitos y condiciones para la emisión y colocación de los diferentes títulos que se emitan en desarrollo de lo aquí previsto, en concordancia con las disposiciones del Decreto No. 8-2001 de fecha 20 de Febrero de 2001 y publicado en el Diario Oficial “La Gaceta” en fecha 9 de Junio de 2001, Edición 29,499, que contiene la Ley de Mercado de Valores y las normas que la modifiquen, sustituyan o reglamenten.
 
 #### Artículo 35
 
@@ -635,7 +635,7 @@ ARTÍCULO 39.- BENEFICIOS EN EL PAGO DEL IMPUESTO DE TRADICIÓN DE VIVIENDA DE I
 
 #### Artículo 40
 
-ARTÍCULO 40.- BENEFICIOS EN EL PAGO DE LA TASA DE REGISTRO PARA VIVIENDA DE INTERÉS SOCIAL. Reformar el Artículo 53 del Decreto No.82-2004 de fecha 28 de Mayo de 2004 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de Junio de 2004, Edición No.30,428, contentivo de la Ley de Propiedad, reformado por el Artículo 1 del Decreto No.150-2010 del 2 de Septiembre de 2010 y publicado en el Diario Oficial “La Gaceta” el 7 de Octubre de 2010, Edición No.32,335, el cual debe leerse así:
+ARTÍCULO 40.- BENEFICIOS EN EL PAGO DE LA TASA DE REGISTRO PARA VIVIENDA DE INTERÉS SOCIAL. Reformar el Artículo 53 del Decreto No. 82-2004 de fecha 28 de Mayo de 2004 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de Junio de 2004, Edición No. 30,428, contentivo de la Ley de Propiedad, reformado por el Artículo 1 del Decreto No. 150-2010 del 2 de Septiembre de 2010 y publicado en el Diario Oficial “La Gaceta” el 7 de Octubre de 2010, Edición No. 32,335, el cual debe leerse así:
 
 “ARTÍCULO 53.- Los actos o contratos que deben inscribirse en los diferentes registros, salvo los expresamente señalados en otras leyes, deben estar sujetos al pago de las tasas siguientes:
 
@@ -667,17 +667,17 @@ TÍTULO VI DISPOSICIONES FINALES TRANSITORIAS Y DEROGATORIAS
 
 ARTÍCULO 43.- LIQUIDACIÓN DEL FONDO SOCIAL
 
-PARA LA VIVIENDA (FOSOVI). Facúltase al Poder Ejecutivo para que reglamente las condiciones en que se debe liquidar el Fondo Social para la Vivienda (FOSOVI), creado mediante Decreto No.167-1991 de fecha 30 de Octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de Diciembre de 1991, Edición No.26,619. Los bienes y derechos que resulten del proceso de liquidación deben pasar a formar parte del patrimonio de la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos, específicamente al Fondo Hondureño de la Vivienda (FONHVIVIENDA).
+PARA LA VIVIENDA (FOSOVI). Facúltase al Poder Ejecutivo para que reglamente las condiciones en que se debe liquidar el Fondo Social para la Vivienda (FOSOVI), creado mediante Decreto No. 167-1991 de fecha 30 de Octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de Diciembre de 1991, Edición No. 26,619. Los bienes y derechos que resulten del proceso de liquidación deben pasar a formar parte del patrimonio de la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos, específicamente al Fondo Hondureño de la Vivienda (FONHVIVIENDA).
 
 #### Artículo 44
 
-ARTÍCULO 44.- Se ordena al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI), y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas, en ejecución del Decreto No.229-2011 de fecha 7 de Diciembre de 2011 y publicado en el Diario Oficial “La Gaceta” el 14 de Enero de 2012, Edición No.32,721, mediante el cual se autorizó el financiamiento para la construcción de cinco mil (5000) viviendas para la Escala Básica de la Policía Nacional y Personal Auxiliar dependientes de la Secretaría de Estado en el Despacho de Seguridad afiliados a la Asociación de Policías y Personal Auxiliar (ASODEPA).
+ARTÍCULO 44.- Se ordena al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI), y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas, en ejecución del Decreto No. 229-2011 de fecha 7 de Diciembre de 2011 y publicado en el Diario Oficial “La Gaceta” el 14 de Enero de 2012, Edición No. 32,721, mediante el cual se autorizó el financiamiento para la construcción de cinco mil (5000) viviendas para la Escala Básica de la Policía Nacional y Personal Auxiliar dependientes de la Secretaría de Estado en el Despacho de Seguridad afiliados a la Asociación de Policías y Personal Auxiliar (ASODEPA).
 
 Se ordena a la Secretaría de Estado en el Despacho de Finanzas trasladar los recursos financieros resultantes de la liquidación que realizó el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos.
 
 #### Artículo 45
 
-ARTÍCULO 45.- Se Instruye al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI) y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas, en ejecución del Decreto No.401-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 26 de Marzo del 2014, Edición No.33,389, mediante el cual se autorizó el financiamiento para la construcción de doce mil (12,000) viviendas para docentes y personal auxiliar de los distintos niveles educativos del país afiliados al COMITÉ PROVIVIENDA DE DOCENTES Y AUXILIARES DE HONDURAS (PROVIDOAH).
+ARTÍCULO 45.- Se Instruye al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI) y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas, en ejecución del Decreto No. 401-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 26 de Marzo del 2014, Edición No. 33,389, mediante el cual se autorizó el financiamiento para la construcción de doce mil (12,000) viviendas para docentes y personal auxiliar de los distintos niveles educativos del país afiliados al COMITÉ PROVIVIENDA DE DOCENTES Y AUXILIARES DE HONDURAS (PROVIDOAH).
 
 Se Instruye a la Secretaría de Estado en el Despacho de Finanzas trasladar los recursos financieros resultantes de la liquidación que realice el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH).
 
@@ -689,15 +689,15 @@ El Poder Ejecutivo debe reglamentar las condiciones en que se efectuará la liqu
 
 #### Artículo 46
 
-ARTÍCULO 46.- DEROGATORIAS. Se deroga expresamente el Decreto No.167-1991 de fecha 30 de Octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de Diciembre de 1991, Edición No.26,619, contentivo de la Ley del Fondo Social para la Vivienda (FOSOVI) y el Decreto No.348-2002 de fecha 24 de Octubre de 2002 y publicado en el Diario Oficial “La Gaceta” el 19 de Noviembre de 2002, en Edición No.29,939, contentivo de la autorización del bono para financiamiento de la vivienda FONAPROVI 2002.
+ARTÍCULO 46.- DEROGATORIAS. Se deroga expresamente el Decreto No. 167-1991 de fecha 30 de Octubre de 1991 y publicado en el Diario Oficial “La Gaceta” el 16 de Diciembre de 1991, Edición No. 26,619, contentivo de la Ley del Fondo Social para la Vivienda (FOSOVI) y el Decreto No. 348-2002 de fecha 24 de Octubre de 2002 y publicado en el Diario Oficial “La Gaceta” el 19 de Noviembre de 2002, en Edición No. 29,939, contentivo de la autorización del bono para financiamiento de la vivienda FONAPROVI 2002.
 
 #### Artículo 47
 
-ARTÍCULO 47.- Derogar el Decreto No.229-2011 de fecha 7 de Diciembre de 2011, publicado en el Diario Oficial “La Gaceta” el 14 de Enero de 2012, Edición No.32,721 y sus reformas, relacionado con la autorización de financiamiento a la Policía Nacional.
+ARTÍCULO 47.- Derogar el Decreto No. 229-2011 de fecha 7 de Diciembre de 2011, publicado en el Diario Oficial “La Gaceta” el 14 de Enero de 2012, Edición No. 32,721 y sus reformas, relacionado con la autorización de financiamiento a la Policía Nacional.
 
 #### Artículo 48
 
-ARTÍCULO 48.- Derogar el Decreto No.401-2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” el 26 de Marzo de 2014, Edición No.33,389 y sus reformas contentivo de la LEY DE FINANCIAMIENTO DE VIVIENDAS A DOCENTES.
+ARTÍCULO 48.- Derogar el Decreto No. 401-2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” el 26 de Marzo de 2014, Edición No. 33,389 y sus reformas contentivo de la LEY DE FINANCIAMIENTO DE VIVIENDAS A DOCENTES.
 
 #### Artículo 49
 

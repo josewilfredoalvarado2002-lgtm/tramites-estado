@@ -11,7 +11,7 @@ paginas: "A. 1 - 39"
 sumario: "Decretos Nos. 111-2019, 112-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20191017-35075/download"
 extraido: "2026-11-14"
-huella: "27e314ecb820c5d0"
+huella: "033a590a4a046e55"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 111-2019
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de confinidad al Artículo 205, Atribución 19), 30) y 36) de 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -153,7 +153,7 @@ ARTÍCULO 7.-CONDICIONES Y ESTIPULACIONES ESPECIALES DE LA FUENTE DE RECURSOS...
 
 Sección 7.01 Fuente de Recursos.......................................
 
-A R T Í C U L O 8 . - D E C L A R A C I O N E S D E L PRESTATARIO....................................................................
+ARTÍCULO 8 . - DECLARACIONES DEL PRESTATARIO....................................................................
 
 Sección 8.01 Existencia Social y Facultades Jurídicas......
 
@@ -233,7 +233,7 @@ Sección 13.03 Obligaciones No Afectadas.........................
 
 Sección 13.04 Reconocimiento de Deuda y Certificación de Saldo Deudor.................................................................
 
-A RT Í C U L O 14.-O T R A S D I S P O S I C I O N E S APLICABLES.....................................................................
+A RT Í C U L O 14.-OTRAS DISPOSICIONES APLICABLES.....................................................................
 
 Sección 14.01 De Origen de los Bienes y Servicios..........
 
@@ -307,7 +307,7 @@ ANEXO M – LISTADO DE EXCLUSIONES..................
 
 COMPARECENCIA DE LAS PARTES
 
-En la ciudad de Tegucigalpa, República de Honduras, a los 27 días del mes de agosto del año dos mil diecinueve; DE UNA PARTE: EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes, acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG- 17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
+En la ciudad de Tegucigalpa, República de Honduras, a los 27 días del mes de agosto del año dos mil diecinueve; DE UNA PARTE: EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes, acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -1111,7 +1111,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -1123,7 +1123,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________”].
+ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 

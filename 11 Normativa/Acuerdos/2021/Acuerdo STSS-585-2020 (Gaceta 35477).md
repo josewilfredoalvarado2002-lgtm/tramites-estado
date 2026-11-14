@@ -11,7 +11,7 @@ paginas: "A. 29"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "ec394df4edacd256"
+huella: "820b7d47cf3ce20f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-585-2020
@@ -35,9 +35,7 @@ PRIMERO: Cancelar a partir del 30 de noviembre de 2020 al ciudadano Selvin Ramó
 
 012 Supervisión y Control de Condiciones Laborales, Sub Programa 00, Actividad/Obra 002, Unidad; Dirección y Coordinación, Número de Puesto; 1420, Grupo 00, Nivel 00, último sueldo devengado Lps.40,400.00 (Cuarenta Mil Cuatrocientos Lempiras Exactos)
 
-SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N°.
-
-171-2019, artículo 125, último párrafo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020.
+SEGUNDO: Autorizar el pago de la Indemnización a que tiene derecho, conforme lo dispuesto en el Decreto N°. 171-2019, artículo 125, último párrafo de las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020.
 
 TERCERO: Agradecer al ciudadano Selvin Ramón Martínez, por los servicios prestados a la Institución, está obligado a presentar su declaración Jurada de Bienes ante el Tribunal Superior de Cuentas que cesa del Cargo.
 

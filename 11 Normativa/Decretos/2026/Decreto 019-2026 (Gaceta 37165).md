@@ -11,7 +11,7 @@ paginas: "A. 169 - 172"
 sumario: "Decreto Ejecutivo Número 019-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/gaceta-11-de-junio-2026-37-165-completa-1/download"
 extraido: "2026-11-09"
-huella: "ba7f2c8f1f637f2e"
+huella: "0e709e8736117bcb"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 019-2026
@@ -47,9 +47,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo Número 5-2026, publicado el 6 de
 
 CONSIDERANDO: Que la ejecución de programas de atención médica, servicios hospitalarios, brigadas sanitarias, clínicas, equipamiento hospitalario y demás acciones necesarias para atender la emergencia sanitaria, particularmente aquellas que sean prestadas por proveedores extranjeros contratados y/o autorizados por el Gobierno de la República por medio de entidades instituciones autorizadas al amparo del Decreto Legislativo Número 5-2026, requiere el ingreso temporal al territorio nacional de vehículos especializados, unidades médicas, equipo médico, instrumental médicoquirúrgico, medicamentos, insumos, repuestos y demás bienes indispensables para el cumplimiento de dichos fines, por lo que resulta necesario adoptar medidas excepcionales de facilitación aduanera que permitan su ingreso oportuno y garanticen la continuidad y eficiencia en la prestación de los servicios de salud.
 
-CONSIDERANDO: Que en el contexto del Estado de Emergencia decretado mediante Decreto Legislativo No.
-
-5-2026, los procedimientos ordinarios aplicables a los regímenes aduaneros temporales, incluyendo la constitución de garantías, pueden afectar la oportunidad y eficacia de las medidas adoptadas para la atención inmediata de la emergencia sanitaria.
+CONSIDERANDO: Que en el contexto del Estado de Emergencia decretado mediante Decreto Legislativo No. 5-2026, los procedimientos ordinarios aplicables a los regímenes aduaneros temporales, incluyendo la constitución de garantías, pueden afectar la oportunidad y eficacia de las medidas adoptadas para la atención inmediata de la emergencia sanitaria.
 
 CONSIDERANDO: Que corresponde a la Administración Aduanera de Honduras facilitar y controlar el comercio internacional, así como ejercer las facultades de supervisión y control respecto del ingreso, permanencia y salida de mercancías, medios de transporte y demás bienes sujetos a regímenes aduaneros especiales, de conformidad con la normativa aduanera vigente.
 
@@ -71,9 +69,7 @@ AUTORIZAR a la Administración Aduanera de Honduras para aplicar procedimientos 
 
 #### Artículo 2
 
-ARTÍCULO 2.- Dispensar, de manera excepcional y temporal, la constitución de garantías aduaneras exigibles para el otorgamiento de regímenes de importación temporal respecto de los bienes descritos en el artículo anterior, siempre que los mismos sean y/o se encuentren destinados exclusivamente al cumplimiento de los objetivos de la emergencia sanitaria decretada mediante el relacionado Decreto Legislativo No.
-
-5-2026.
+ARTÍCULO 2.- Dispensar, de manera excepcional y temporal, la constitución de garantías aduaneras exigibles para el otorgamiento de regímenes de importación temporal respecto de los bienes descritos en el artículo anterior, siempre que los mismos sean y/o se encuentren destinados exclusivamente al cumplimiento de los objetivos de la emergencia sanitaria decretada mediante el relacionado Decreto Legislativo No. 5-2026.
 
 #### Artículo 3
 

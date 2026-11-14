@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Acuerdo Ejecutivo No. 127-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211209-35793/download"
 extraido: "2026-11-14"
-huella: "d9059f44c86ddd00"
+huella: "5b54edbc652e9fa2"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 127-2021
@@ -41,13 +41,9 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 043-2020, de fecha primero 
 
 CONSIDERANDO: Que acorde a lo establecido en el artículo 37 numeral 2 de la Ley Orgánica del Presupuesto, corresponde al Presidente de la República, autorizar las transferencias de fondos presupuestarios entre Secretaría de Estado, Instituciones Descentralizadas y entre ambos.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 182-2020 de fecha 22 de diciembre del año 2020, publicado en el Diario Oficial “La Gaceta” No. 35,468 de fecha 23 de diciembre del año 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio fiscal 2021, incluyendo las Disposiciones Generales que regulan el ejercicio del mismo.
 
-182-2020 de fecha 22 de diciembre del año 2020, publicado en el Diario Oficial “La Gaceta” No. 35,468 de fecha 23 de diciembre del año 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio fiscal 2021, incluyendo las Disposiciones Generales que regulan el ejercicio del mismo.
-
-CONSIDERANDO: Que para dar cumplimiento a lo establecido en el Artículo 145 del Decreto Legislativo No.
-
-182-2020, se asigna apoyo presupuestario para el pago de compensaciones, originadas por prestaciones, cesantías e indemnizaciones establecidas en la Ley, a los empleados de la Empresa Nacional de Artes Gráficas, en virtud de la cooperación interinstitucional entre la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD) y la Empresa Nacional de Artes Gráficas (ENAG), por ser institución desconcentrada adscrita a esta Secretaría de Estado y solicitado mediante Oficio No. ENAG-166- 2021.
+CONSIDERANDO: Que para dar cumplimiento a lo establecido en el Artículo 145 del Decreto Legislativo No. 182-2020, se asigna apoyo presupuestario para el pago de compensaciones, originadas por prestaciones, cesantías e indemnizaciones establecidas en la Ley, a los empleados de la Empresa Nacional de Artes Gráficas, en virtud de la cooperación interinstitucional entre la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD) y la Empresa Nacional de Artes Gráficas (ENAG), por ser institución desconcentrada adscrita a esta Secretaría de Estado y solicitado mediante Oficio No. ENAG-166-2021.
 
 OBJETO ORG.
 
@@ -61,7 +57,7 @@ GASTO
 
 POR TANTO: La Secretaría de Estado en el Despacho de Coordinación General de Gobierno por Ley y el Secretario de Estado en los Despachos de Gobernación, Justicia y Descentralización ambos en uso de las facultades de que están envestidos y de conformidad con los Artículos 245 numeral 2 y 11, 321 y 323 de la Constitución de la Republica;
 
-4, 5, 22, 23, 24, 25, 26, 27 de la Ley de Procedimientos Administrativos; 16 y 36 numerales 1, 8,10 y 12 de la Ley General de la Administración Pública; 37 numeral 2 de la Ley Orgánica del Presupuesto; Decreto Legislativo No. 182- 2020 y Acuerdo de Delegación de firma 043-2020 publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020.
+4, 5, 22, 23, 24, 25, 26, 27 de la Ley de Procedimientos Administrativos; 16 y 36 numerales 1, 8,10 y 12 de la Ley General de la Administración Pública; 37 numeral 2 de la Ley Orgánica del Presupuesto; Decreto Legislativo No. 182-2020 y Acuerdo de Delegación de firma 043-2020 publicado en el Diario Oficial “La Gaceta” el 06 de octubre del 2020.
 
 ACUERDA:
 

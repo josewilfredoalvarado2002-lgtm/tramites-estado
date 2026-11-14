@@ -11,7 +11,7 @@ paginas: "A. 1 - 176"
 sumario: "Decreto No. 44-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211204-35789/download"
 extraido: "2026-11-14"
-huella: "3eb19252f02d94a9"
+huella: "6fa3c1ab1cb5ce3e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 44-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Poder Ejecutivo en el marco de sus atribuciones ha firmado 
 
 CONSIDERANDO: Que Honduras es un país de vocación forestal, dotado de importantes recursos forestales de excepción, que deben ser aprovechados sustentablemente y respetando los derechos de los pueblos originarios, declarado en el Artículo 340 de la Constitución de la República, de interés colectivo, la conservación de los bosques y la reforestación.
 
-CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre contenida en el Decreto Legislativo No.98- 2007 de fecha 19 de Septiembre de 2007, publicado en el Diario Oficial “La Gaceta” del 26 de Febrero de 2008, “Tiene como finalidad establecer el régimen legal a que se sujetará la administración y el manejo de los recursos forestales, las áreas protegidas y la vida silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible de acuerdo con el interés social, económico, ambiental y cultural del país”.
+CONSIDERANDO: Que la Ley Forestal, Áreas Protegidas y Vida Silvestre contenida en el Decreto Legislativo No. 98-2007 de fecha 19 de Septiembre de 2007, publicado en el Diario Oficial “La Gaceta” del 26 de Febrero de 2008, “Tiene como finalidad establecer el régimen legal a que se sujetará la administración y el manejo de los recursos forestales, las áreas protegidas y la vida silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible de acuerdo con el interés social, económico, ambiental y cultural del país”.
 
 CONSIDERANDO: Que Honduras es el primer País de América Latina, en negociar un Acuerdo Voluntario de Asociación (AVA), además de promover el comercio legal aborda las causas subyacentes de la ilegalidad a través del fortalecimiento de la gobernanza forestal y de la aplicación de las leyes del Sector Forestal Bilateral entre la Unión Europea y un país que exporta productos de madera; el AVA no tiene que ver sólo con madera y comercio, es un acuerdo de asociación cuyo objetivo es apoyar al país socio en sus esfuerzos para mejorar la gobernanza forestal y la conservación de los bosques.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que el Artículo 205 numerales 1) y 30) de la Constitución de la 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el ACUERDO No.11-DGAJTC-2021, suscrito en la ciudad de Tegucigalpa, M. D. C., el 15 de Marzo de 2021, mismo que contiene la ratificación del “ACUERDO VOLUNTARIO DE ASOCIACIÓN ENTRE LA UNIÓN EUROPEA Y LA REPÚBLICA DE HONDURAS SOBRE LA APLICACIÓN DE LAS LEYES FORESTALES, LA GOBERNANZA Y EL COMERCIO DE PRODUCTOS DE LA MADERA CON DESTINO A LA UNIÓN EUROPEA Y SUS ANEXOS”, sometido a consideración de este Pleno de conformidad con la ley, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el ACUERDO No. 11-DGAJTC-2021, suscrito en la ciudad de Tegucigalpa, M. D. C., el 15 de Marzo de 2021, mismo que contiene la ratificación del “ACUERDO VOLUNTARIO DE ASOCIACIÓN ENTRE LA UNIÓN EUROPEA Y LA REPÚBLICA DE HONDURAS SOBRE LA APLICACIÓN DE LAS LEYES FORESTALES, LA GOBERNANZA Y EL COMERCIO DE PRODUCTOS DE LA MADERA CON DESTINO A LA UNIÓN EUROPEA Y SUS ANEXOS”, sometido a consideración de este Pleno de conformidad con la ley, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL.
 
@@ -59,13 +59,11 @@ ACUERDO No. 11 - DGAJTC - 2021 Tegucigalpa, M. D. C., 15 de Marzo de 2021 “EL 
 
 CONSIDERANDO: Que Honduras es el primer país de América Latina en negociar un Acuerdo Voluntario de Asociación (AVA), además de promover el comercio legal, el AVA aborda las causas subyacentes de la ilegalidad a través del fortalecimiento de la gobernanza forestal y de la aplicación de las leyes del sector forestal bilateral entre la Unión Europea y un país que exporta productos de madera con el objetivo de mejorar la gobernanza forestal.
 
-CONSIDERANDO: Que con la firma del Acuerdo AVA FLEGT, Honduras espera fortalecer la gobernanza , los derechos de uso y tenencia de la tierra y las leyes del sector forestal; establecer procesos firmes y eficaces para las distintas partes interesadas, creando condiciones que posibiliten inversiones a mayor escala y más transparentes; establecer políticas de uso de la tierra; políticas de inversión que apoyen la producción legal; y apoyar la implementación de políticas de Reducción de emisiones de gases de efecto invernadero causadas por la Deforestación y Degradación de los bosques.
+CONSIDERANDO: Que con la firma del Acuerdo AVA FLEGT, Honduras espera fortalecer la gobernanza, los derechos de uso y tenencia de la tierra y las leyes del sector forestal; establecer procesos firmes y eficaces para las distintas partes interesadas, creando condiciones que posibiliten inversiones a mayor escala y más transparentes; establecer políticas de uso de la tierra; políticas de inversión que apoyen la producción legal; y apoyar la implementación de políticas de Reducción de emisiones de gases de efecto invernadero causadas por la Deforestación y Degradación de los bosques.
 
 CONSIDERANDO: Que la República de Honduras a través del Soberano Congreso Nacional, aprobó mediante Decreto No. 98-2007 de fecha 04 de diciembre de 2007, la “Ley Forestal, Áreas Protegidas y Vida Silvestre”, la cual fue publicada en el Diario Oficial “La Gaceta” el 26 de febrero de 2008, la cual establece el régimen legal a que se sujetará la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” No.35,392 del 07 de octubre de 2020, el Presidente Constitucional de la República delegó en el ciudadano CARLOS ALBERTO MADERO ERAZO, Secretario de Estado en el Despacho de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos;
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 01 de octubre de 2020, publicado en el Diario Oficial “La Gaceta” No. 35,392 del 07 de octubre de 2020, el Presidente Constitucional de la República delegó en el ciudadano CARLOS ALBERTO MADERO ERAZO, Secretario de Estado en el Despacho de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos;
 
 f) Modificaciones Presupuestarias; y, g) Otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
@@ -659,7 +657,7 @@ Persona natural o jurídica propietaria o representante legal de la industria fo
 
 24. Decreto No. 189‑1959, Código del Trabajo.
 
-25. Decreto No.178‑2016, de la Ley de Inspección de Trabajo.
+25. Decreto No. 178‑2016, de la Ley de Inspección de Trabajo.
 
 26. Decreto No. 103, Ley del Salario Mínimo, aprobado el 3 de junio de 1971 y sus reformas.
 

@@ -11,7 +11,7 @@ paginas: "A. 13"
 sumario: "Acuerdos Nos. 006-2019, 038-2020, 039-2020, 034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201103-35418/download"
 extraido: "2026-11-14"
-huella: "bd5a83ed5402b787"
+huella: "9de2f9618b0cfc29"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 039-2020
@@ -27,9 +27,9 @@ huella: "bd5a83ed5402b787"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo. ACUERDA:
 
-1. Delegar al ciudadano: YARO JOSUÉ CÁCERES TERUEL, quien posee la Identidad número 0801- 1990-01285, en su condición de Director Interino de la Dirección de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario, la facultad para firmar solicitudes de:
+1. Delegar al ciudadano: YARO JOSUÉ CÁCERES TERUEL, quien posee la Identidad número 0801-1990-01285, en su condición de Director Interino de la Dirección de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario, la facultad para firmar solicitudes de:
 
 - Modificaciones de expedientes resueltos - Licencias de Transporte resueltas - Constancias de carácter Técnico, vinculadas a las competencias de su dirección - Agotamientos de Etiquetas según corresponda
 

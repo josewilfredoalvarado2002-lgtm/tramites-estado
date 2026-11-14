@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-035-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210321-35550/download"
 extraido: "2026-11-14"
-huella: "2e10d621bbec65c9"
+huella: "e1009855bcd30ebb"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-035-2021
@@ -55,7 +55,7 @@ Convención Americana Sobre Derechos Humanos: Artículo 27; Pacto Internacional 
 
 #### Artículo 4
 
-Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33- 2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM- 022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM- 040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM- 056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM- 073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM- 096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM- 114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM- 146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM-022-2021, PCM-024- 2021, PCM-027-2021; y, PCM-028-2021.
+Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021; y, PCM-028-2021.
 
 DECRETA:
 
@@ -249,11 +249,11 @@ Las Instituciones del Gobierno de la República que abran su atención a los ciu
 
 #### Artículo 4
 
-ARTÍCULO 4.- Ratificar el Artículo 4 del Decreto Ejecutivo Número PCM-001-2021, publicado en el Diario Oficial “La Gaceta” en fecha 03 de enero del 2021 Edición No. 35,476, ratificado mediante los Decretos Ejecutivos Números: PCM- 004-2021, PCM-012-2021, PCM-020-2021, PCM-022- 2021, PCM-024-2021, PCM-027-2021 y PCM-028-2021, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER).
+ARTÍCULO 4.- Ratificar el Artículo 4 del Decreto Ejecutivo Número PCM-001-2021, publicado en el Diario Oficial “La Gaceta” en fecha 03 de enero del 2021 Edición No. 35,476, ratificado mediante los Decretos Ejecutivos Números: PCM-004-2021, PCM-012-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021 y PCM-028-2021, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER).
 
 #### Artículo 5
 
-ARTÍCULO 5.- Ratificar el Artículo 5 del Decreto Ejecutivo Número PCM-004-2021 publicado en el Diario Oficial “La Gaceta” de fecha 10 de enero de 2020, Edición No.35,483, ratificado mediante Decretos Ejecutivos Números: PCM- 012-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021 y PCM-028-2021, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes.
+ARTÍCULO 5.- Ratificar el Artículo 5 del Decreto Ejecutivo Número PCM-004-2021 publicado en el Diario Oficial “La Gaceta” de fecha 10 de enero de 2020, Edición No. 35,483, ratificado mediante Decretos Ejecutivos Números: PCM-012-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021 y PCM-028-2021, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes.
 
 #### Artículo 6
 

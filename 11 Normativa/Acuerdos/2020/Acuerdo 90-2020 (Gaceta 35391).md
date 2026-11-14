@@ -8,10 +8,10 @@ gaceta_numero: 35391
 gaceta_fecha: "2020-10-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35391 (2020-10-05)|La Gaceta 35391]]"
 paginas: "A. 3"
-sumario: "Decreto No. 109-2020SECRETARIA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 90-2020SECRETARIA DE DESARROLLO ECONÓMICOAcuerdo Ministerial número 201-2020AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdos Nos. 005-2020, 006-2020, 013-2020, 021-2020, 030-2020"
+sumario: "Decreto No. 109-2020; SECRETARIA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 90-2020; SECRETARIA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial número 201-2020; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdos Nos. 005-2020, 006-2020, 013-2020, 021-2020, 030-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201005-35391/download"
 extraido: "2026-11-14"
-huella: "f678429ea3b87da9"
+huella: "0c18a316ae39aad3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 90-2020
@@ -23,11 +23,11 @@ huella: "f678429ea3b87da9"
 | Emisor | Secretaría de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35391 (2020-10-05)\|La Gaceta 35391]] del 2020-10-05 |
 | Páginas | A. 3 |
-| Según el sumario de La Gaceta | Decreto No. 109-2020SECRETARIA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 90-2020SECRETARIA DE DESARROLLO ECONÓMICOAcuerdo Ministerial número 201-2020AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdos Nos. 005-2020, 006-2020, 013-2020, 021-2020, 030-2020 |
+| Según el sumario de La Gaceta | Decreto No. 109-2020; SECRETARIA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 90-2020; SECRETARIA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial número 201-2020; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdos Nos. 005-2020, 006-2020, 013-2020, 021-2020, 030-2020 |
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GAB1NETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GAB1NETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

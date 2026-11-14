@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 3920-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240322-36492/download"
 extraido: "2026-11-14"
-huella: "05fd20a6b7499b73"
+huella: "bce2cb4b8328821f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 3920-SE-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Plan de Gobierno para Refundar Honduras 2022-2023 indica co
 
 CONSIDERANDO: Que la aplicación del Programa de Matrícula Gratis proveerá a los Centros Educativos administrados por la Secretaría Estado en el Despacho de Educación, los recursos financieros para su normal funcionamiento, con el propósito de mejorar las condiciones básicas, infraestructura y la calidad educativa.
 
-CONSIDERANDO: Que según Acuerdo Ministerial N°.1905- SE-2022, de fecha 30 de noviembre de 2022, se autorizó la reactivación y ejecución de la Matrícula Gratis en los niveles de Pre-Básica, Básica y Media del Sistema Educativo Nacional.
+CONSIDERANDO: Que según Acuerdo Ministerial N°. 1905- SE-2022, de fecha 30 de noviembre de 2022, se autorizó la reactivación y ejecución de la Matrícula Gratis en los niveles de Pre-Básica, Básica y Media del Sistema Educativo Nacional.
 
 CONSIDERANDO: Que mediante Acuerdo 1801-SE-2022 de fecha 23 de noviembre 2022, se aprobó el Reglamento de Administración de Recursos Financieros del Programa Matricula Gratis.
 

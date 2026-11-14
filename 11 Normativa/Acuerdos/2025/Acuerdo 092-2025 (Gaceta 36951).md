@@ -8,10 +8,10 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 5 - 6"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
-huella: "2374d34af68e036a"
+huella: "3f623458102ab5fe"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 092-2025
@@ -23,7 +23,7 @@ huella: "2374d34af68e036a"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que dentro de las competencias establecidas en el Artículo 36 de 
 
 CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto No. 251-2013 del 10 de diciembre de 2013, publicado, en el Diario Oficial “La Gaceta” el 07 de junio de 2014, aprobó el Tratado de Libre Comercio entre la República de Honduras y Canadá, mismo que entró en vigor el 1 de octubre de 2014.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No. 251- 2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado.
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 251-2013 del 07 de junio de 2013, establece que la Secretaría de Estado en los Despachos de Industria y Comercio, subrogada en sus funciones por la Secretaría de Estado en el Despacho de Desarrollo Económico es la institución responsable de la administración e implementación del Tratado.
 
 CONSIDERANDO: Que la Secretaría de Desarrollo Económico emitió el Acuerdo Ministerial No. 099-2022 de fecha 10 de octubre de 2022, por medio del cual delega la firma para los certificados de importación en el marco del Tratado de Libre Comercio entre Honduras y Canadá y sello autorizados a los funcionarios que tienen los cargos de la Subsecretaría de Integración Económica y Comercio Exterior y sus dependencias.
 

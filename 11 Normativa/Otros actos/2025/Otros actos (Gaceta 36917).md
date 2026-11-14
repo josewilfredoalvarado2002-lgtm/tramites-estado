@@ -11,7 +11,7 @@ paginas: "A. 1 - 52"
 sumario: "Acuerdo CREE-99-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250815-36917/download"
 extraido: "2026-11-09"
-huella: "49620ca1f545883d"
+huella: "01d6f523c8d20fae"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-99-2025
@@ -45,7 +45,7 @@ Resultando
 
 5. Que mediante Acuerdo CREE-099, publicado en el Diario Oficial La Gaceta el dieciocho (18) de diciembre de dos mil veinte (2020), la Comisión modificó los artículos 2, 3, 38, 41, 50, 53, 60, 76 y 86 del Reglamento del Servicio Eléctrico de Distribución aprobado mediante Acuerdo CREE-028.
 
-6. Que las unidades internas de esta Comisión, en el ejercicio constante que emana de la actividad de regulación, identificaron oportunidades de mejora y revisión del “Reglamento de Servicio Eléctrico de Distribución”, por lo que, resultó necesario someter a consulta pública la propuesta para modificar dichos elementos normativos; en tal sentido, esta Comisión llevó a cabo la Consulta Pública CREE-CP-05-2023 denominada “Modificaciones al Reglamento de Servicio Eléctrico de Distribución” aprobada bajo el Acuerdo CREE-69- 2023 de fecha veinte (20) de julio de dos mil veintitrés (2023), con el fin de someter a comentarios del público en general la propuesta de modificación del Reglamento del Servicio Eléctrico de Distribución.
+6. Que las unidades internas de esta Comisión, en el ejercicio constante que emana de la actividad de regulación, identificaron oportunidades de mejora y revisión del “Reglamento de Servicio Eléctrico de Distribución”, por lo que, resultó necesario someter a consulta pública la propuesta para modificar dichos elementos normativos; en tal sentido, esta Comisión llevó a cabo la Consulta Pública CREE-CP-05-2023 denominada “Modificaciones al Reglamento de Servicio Eléctrico de Distribución” aprobada bajo el Acuerdo CREE-69-2023 de fecha veinte (20) de julio de dos mil veintitrés (2023), con el fin de someter a comentarios del público en general la propuesta de modificación del Reglamento del Servicio Eléctrico de Distribución.
 
 7. Que durante el proceso de consulta pública la Comisión mediante Acuerdo CREE-82-2023, realizó una ampliación al período de la Consulta Pública CREE-CP-05-2023 con el fin de que la misma culminara hasta el veintiocho (28) de agosto de dos mil veintitrés (2023).
 
@@ -83,7 +83,7 @@ Por tanto La Comisión Reguladora de Energía Eléctrica (CREE), en uso de sus f
 
 PRIMERO: Aprobar el informe de Resultados de la Consulta Pública CREE-CP-05-2023 preparado por las direcciones de la Comisión Reguladora de Energía Eléctrica (CREE) y que se adjunta como anexo al presente acuerdo.
 
-SEGUNDO: Revocar en toda y cada una de sus partes el Acuerdo CREE-028, publicado en el Diario Oficial La Gaceta el trece (13) de enero de dos mil veinte (2020) y el Acuerdo CREE- 099, publicado en el Diario Oficial La Gaceta el dieciocho (18) de diciembre de dos mil veinte (2020).
+SEGUNDO: Revocar en toda y cada una de sus partes el Acuerdo CREE-028, publicado en el Diario Oficial La Gaceta el trece (13) de enero de dos mil veinte (2020) y el Acuerdo CREE-099, publicado en el Diario Oficial La Gaceta el dieciocho (18) de diciembre de dos mil veinte (2020).
 
 TERCERO: Aprobar en todas y cada una de sus partes el Reglamento del Servicio Eléctrico de Distribución, el cual se deberá leer de la siguiente manera:
 
@@ -169,7 +169,7 @@ i. Copia del Documento Nacional de Identidad (DNI). En el caso de ser extranjero
 
 Copia de la escritura pública de la propiedad, documento emitido por autoridad competente o documento privado que avale la tenencia del inmueble o en su caso, copia del contrato de arrendamiento debidamente inscrito en el Departamento Administrativo de Inquilinato.
 
-Si no se dispone de este último documento, se deberá aplicar el Artículo 3 del PCM 151- 20191. iii.
+Si no se dispone de este último documento, se deberá aplicar el Artículo 3 del PCM 151-20191. iii.
 
 Croquis que facilite la dirección del inmueble, las coordenadas georreferenciadas o la identificación de la estructura de la red eléctrica de distribución más cercana al inmueble.
 

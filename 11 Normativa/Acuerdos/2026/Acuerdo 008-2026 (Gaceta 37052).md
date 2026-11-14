@@ -11,7 +11,7 @@ paginas: "A. 67 - 68"
 sumario: "Acuerdos Ministeriales Nos. 003-2026, 005-2026, 008-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "0162d36fbe8eeba3"
+huella: "17200fab9a89aa59"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 008-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comun
 
 CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para este en materia procedimental.
 
-CONSIDERANDO: Que mediante Acuerdo No.161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
+CONSIDERANDO: Que mediante Acuerdo No. 161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
 
 POR TANTO:
 

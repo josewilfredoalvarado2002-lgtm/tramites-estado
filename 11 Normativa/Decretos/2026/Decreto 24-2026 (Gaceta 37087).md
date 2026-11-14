@@ -11,7 +11,7 @@ paginas: "A. 29 - 41"
 sumario: "Decretos Nos. 18-2026, 20-2026, 23-2026, 24-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260306-37087/download"
 extraido: "2026-11-09"
-huella: "418d914e306ba1ac"
+huella: "73679830d26dba02"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 24-2026
@@ -29,7 +29,7 @@ huella: "418d914e306ba1ac"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No.17-2010 de fecha 22 de abril de 2010, en el Artículo 70 de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No. 17-2010 de fecha 22 de abril de 2010, en el Artículo 70 de la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el combate a la corrupción constituye un deber ético y una prioridad central para el Gobierno de Honduras, ya que limita el desarrollo, la debilidad institucional, la alta informalidad económica y la dependencia del consumo impulsado por remesas dificultan el crecimiento a largo plazo. Además, el país es altamente vulnerable a desastres naturales y al cambio climático, lo que impacta sectores clave como la agricultura, infraestructura y energía, la corrupción, el lavado de dinero y la evasión fiscal agravan la situación al reducir los ingresos del Estado, afectando su capacidad para financiar programas sociales y ambientales.
 
@@ -39,17 +39,17 @@ CONSIDERANDO: Que para abordar los temas previamente mencionados el Gobierno de 
 
 CONSIDERANDO: Que las medidas de política a implementarse constituyen un paso fundamental para que Honduras avance hacia una economía más estable, transparente y sostenible. Un mejor control fiscal y el fortalecimiento en la movilización de ingresos públicos permitirán al Estado disponer de mayores recursos para financiar servicios esenciales, asegurando así un sistema más eficiente y equitativo. A su vez, el acceso a Financiamiento sostenible impulsará inversiones estratégicas en sectores clave, fomentando un crecimiento económico con visión de largo plazo. De igual manera, las reformas ambientales y climáticas fortalecerán la capacidad del país para adaptarse a un contexto global donde la sostenibilidad es un pilar cada vez más determinante en el comercio y la inversión. En conjunto, estas políticas no solo consolidarán la estabilidad macroeconómica, sino que también mejorarán la calidad de vida de la población y fortalecerán la resiliencia del país ante los efectos del cambio climático, sentando así las bases para un desarrollo más inclusivo, próspero y sostenible.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento compuesto de recursos A-Blend No.7703-HN y B-SML No.7702-HN, suscrito el 17 de febrero de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta CIENTO CUARENTA Y CINCO MILLONES TRESCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (USD 145,300,000.00) para la ejecución del. “Primer Financiamiento para Políticas de Desarrollo sobre Transparencia y Sostenibilidad Fiscal y Climática”.
+CONSIDERANDO: Que el Acuerdo de Financiamiento compuesto de recursos A-Blend No. 7703-HN y B-SML No. 7702-HN, suscrito el 17 de febrero de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto total de hasta CIENTO CUARENTA Y CINCO MILLONES TRESCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (USD 145,300,000.00) para la ejecución del. “Primer Financiamiento para Políticas de Desarrollo sobre Transparencia y Sostenibilidad Fiscal y Climática”.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribuciones 1, 19 y 36 de la Constitución de la República es potestad del Congreso Nacional, entre otros, crear, decretar, interpretar, reformar y derogar las leyes; asimismo, aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO COMPUESTO D E R E C U R S O S A - B L E N D NO.7703-HN Y B-SML NO.7702- HN, suscrito el 17 de febrero de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, por un monto total de hasta CIENTO CUARENTA Y CINCO MILLONES TRESCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (USD 145,300,000.00), recursos destinados a la ejecución del “PRIMER F I N A N C I A M I E N TO PA R A POLÍTICAS DE DESARROLLO SOBRE TRANSPARENCIA Y SOSTENIBILIDAD FISCAL Y CLIMÁTICA”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO COMPUESTO DE RECURSOS A - B L E N D NO.7703-HN Y B-SML NO.7702- HN, suscrito el 17 de febrero de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, por un monto total de hasta CIENTO CUARENTA Y CINCO MILLONES TRESCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (USD 145,300,000.00), recursos destinados a la ejecución del “PRIMER FINANCIA MI EN TO PA R A POLÍTICAS DE DESARROLLO SOBRE TRANSPARENCIA Y SOSTENIBILIDAD FISCAL Y CLIMÁTICA”, que literalmente dice:
 
 “NÚMERO DE CRÉDITO 7703- HN
 
@@ -187,17 +187,17 @@ Pilar A--- Fortalecer la transparencia fiscal y las finanzas sostenibles
 
 1. Para fortalecer la integridad financiera y la transparencia fiscal, el Receptor ha ampliado la definición del delito de lavado de activos para incluir todos los delitos penales graves como delitos determinantes (que incluyen el fraude fiscal), como lo demuestra la adopción del Decreto Legislativo 43-2023, publicado en La Gaceta Oficial No. 39,290 el 25 de julio de 2023.
 
-2. Para fortalecer la transparencia tributaria, el Receptor, a través del SAR, ha avanzado hacia la implementación integral del estándar de reporte país por país definido en la Acción 13 del Marco Inclusivo sobre Erosión de la Base Imponible y Traslado de Utilidades (BEPS) de la OCDE, como lo demuestra la aprobación del Acuerdo Ministerial “Acuerdo SAR 653-2023”, publicado en La Gaceta Oficial No.36,489 el 19 de marzo de 2024.
+2. Para fortalecer la transparencia tributaria, el Receptor, a través del SAR, ha avanzado hacia la implementación integral del estándar de reporte país por país definido en la Acción 13 del Marco Inclusivo sobre Erosión de la Base Imponible y Traslado de Utilidades (BEPS) de la OCDE, como lo demuestra la aprobación del Acuerdo Ministerial “Acuerdo SAR 653-2023”, publicado en La Gaceta Oficial No. 36,489 el 19 de marzo de 2024.
 
-3. Para que el Receptor pueda emitir bonos sostenibles para financiar proyectos que tengan beneficios climáticos, ambientales y sociales, el Receptor, a través de la SEFIN, ha aprobado el Marco de Bonos Temáticos Verdes, Sociales y Sostenibles, como lo demuestra la aprobación del Acuerdo Ministerial No.637-2024, publicado en La Gaceta Oficial No.36,692 el 18 de noviembre de 2024.
+3. Para que el Receptor pueda emitir bonos sostenibles para financiar proyectos que tengan beneficios climáticos, ambientales y sociales, el Receptor, a través de la SEFIN, ha aprobado el Marco de Bonos Temáticos Verdes, Sociales y Sostenibles, como lo demuestra la aprobación del Acuerdo Ministerial No. 637-2024, publicado en La Gaceta Oficial No. 36,692 el 18 de noviembre de 2024.
 
 Pilar B--- Promover la sostenibilidad climática
 
-4. Para fomentar la competitividad agrícola y las exportaciones libres de deforestación y garantizar la preparación para el Reglamento de la Unión Europea sobre Productos Libres de Deforestación (“EUDR”), el Receptor ha establecido, a través del ICF, un Comité Técnico Interinstitucional para apoyar el cumplimiento del EUDR, como lo demuestra la aprobación del Acuerdo Ministerial No.050-2024, publicado en La Gaceta Oficial No.36,713 el 12 de diciembre de 2024.
+4. Para fomentar la competitividad agrícola y las exportaciones libres de deforestación y garantizar la preparación para el Reglamento de la Unión Europea sobre Productos Libres de Deforestación (“EUDR”), el Receptor ha establecido, a través del ICF, un Comité Técnico Interinstitucional para apoyar el cumplimiento del EUDR, como lo demuestra la aprobación del Acuerdo Ministerial No. 050-2024, publicado en La Gaceta Oficial No. 36,713 el 12 de diciembre de 2024.
 
-5. Para promover el uso eficiente de la energía, el Receptor ha establecido un marco institucional para regular y promover la eficiencia energética, como lo demuestra la aprobación de la Ley de Uso Racional y Eficiente de la Energía, publicada en La Gaceta Oficial No.36.594 el 24 de julio de 2024.
+5. Para promover el uso eficiente de la energía, el Receptor ha establecido un marco institucional para regular y promover la eficiencia energética, como lo demuestra la aprobación de la Ley de Uso Racional y Eficiente de la Energía, publicada en La Gaceta Oficial No. 36.594 el 24 de julio de 2024.
 
-6. Para mejorar la gestión del riesgo de desastres naturales inducidos por el clima por parte del sector bancario hondureño, el Receptor, a través de la CNBS, ha requerido que los informes regulatorios mensuales presentados por las instituciones financieras supervisadas a la CNBS se amplíen para incluir datos ambientales, sociales y climáticos (que incluyen la ubicación geográfica de los centros de producción que se están financiando), como lo demuestra (a) la RESOLUCIÓN GEE No.169/03-18-2024 de la Comisión Nacional de Bancos y Seguros, publicada a través de la CIRCULAR CNBS No.008/2024 de fecha 21 de marzo de 2024; y, (b) certificación de la Secretaría General del CNBS, respecto del contenido de la sección 4.6 del Manual de Reporte de Datos del CNBS.
+6. Para mejorar la gestión del riesgo de desastres naturales inducidos por el clima por parte del sector bancario hondureño, el Receptor, a través de la CNBS, ha requerido que los informes regulatorios mensuales presentados por las instituciones financieras supervisadas a la CNBS se amplíen para incluir datos ambientales, sociales y climáticos (que incluyen la ubicación geográfica de los centros de producción que se están financiando), como lo demuestra (a) la RESOLUCIÓN GEE No. 169/03-18-2024 de la Comisión Nacional de Bancos y Seguros, publicada a través de la CIRCULAR CNBS No. 008/2024 de fecha 21 de marzo de 2024; y, (b) certificación de la Secretaría General del CNBS, respecto del contenido de la sección 4.6 del Manual de Reporte de Datos del CNBS.
 
 Sección II.
 

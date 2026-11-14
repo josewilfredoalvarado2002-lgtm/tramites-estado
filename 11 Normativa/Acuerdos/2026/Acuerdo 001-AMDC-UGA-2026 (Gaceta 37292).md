@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Acuerdos Nos. 001-AMDC-DM-2026, 002-AMDC-DM-2026, 003-AMDC-DM-2026, 004-AMDC-DM-2026, 005-AMDC-DM-2026, 006-AMDC-DM-2026, 012-AMDC-DM-2026, 013-AMDC-DM-2026, 001-AMDC-SM-2026, 002-AMDC-SM-2026, 003-AMDC-SM-2026, 001-AMDC-UGA-2026, 001-AMDC-GMU-2026Certificaciones de los Acuerdos Nos. 035-2026, 057-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261111-37292/download"
 extraido: "2026-11-13"
-huella: "81710dc72421b740"
+huella: "7f6ac42f904d0dea"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-AMDC-UGA-2026
@@ -35,9 +35,7 @@ CONSIDERANDO: Que, de conformidad con el Manual de Puestos y Funciones, dentro d
 
 CONSIDERANDO: Que, para lograr mayor eficiencia en la Administración General de la Municipalidad del Distrito Central, se hace necesario implementar mecanismos y soluciones que faciliten los procesos administrativos dentro del marco de lo establecido en la Ley de Municipalidades, Ley de Procedimiento Administrativo, Ley de Simplificación Administrativa, Ley de Carrera Administrativa Municipal y su Reglamento, Plan de Arbitrios vigente, Normas Presupuestarias vigentes, Reglamento para los Procesos de Evaluación, Control y Gestión Ambiental y demás legislación aplicable a la función municipal.
 
-CONSIDERANDO: Que en fecha 01 de abril de 2026, se nombró al ciudadano SANTOS TOMAS FUNEZ ALVAREZ, con Documento Nacional de Identificación No.
-
-0610 1985 00884, como Subgerente de la Unidad de Gestión Ambiental de la Alcaldía Municipal del Distrito Central.
+CONSIDERANDO: Que en fecha 01 de abril de 2026, se nombró al ciudadano SANTOS TOMAS FUNEZ ALVAREZ, con Documento Nacional de Identificación No. 0610 1985 00884, como Subgerente de la Unidad de Gestión Ambiental de la Alcaldía Municipal del Distrito Central.
 
 CONSIDERANDO: Que el artículo 4 de la Ley de Procedimiento Administrativo, establece que el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inferior; asimismo, el artículo 5 de la citada ley, dispone que el acto de delegación deberá de indicar el órgano delegante, el objeto de la delegación y el órgano delegado.
 

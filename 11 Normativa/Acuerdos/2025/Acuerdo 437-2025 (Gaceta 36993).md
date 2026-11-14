@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Número 437-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251114-36993/download"
 extraido: "2026-11-09"
-huella: "81fe945b7bf64944"
+huella: "11638a04ee9e7be7"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 437-2025
@@ -57,7 +57,7 @@ En uso de las facultades que está investido y en aplicación de los siguientes 
 
 33, 36 numeral 19, 116, 118 y 122 de la Ley General de la Administración Pública; 4, 5, 19, 27 y 121 de la Ley de Procedimiento Administrativo; 20 y 21 del Código Tributario;
 
-17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo número PCM-008-97; Decreto Ejecutivo PCM-017- 2011; Decreto Ejecutivo número PCM-05-2025.
+17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo número PCM-008-97; Decreto Ejecutivo PCM-017-2011; Decreto Ejecutivo número PCM-05-2025.
 
 ACUERDA:
 

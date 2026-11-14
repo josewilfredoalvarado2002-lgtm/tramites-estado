@@ -8,10 +8,10 @@ gaceta_numero: 35396
 gaceta_fecha: "2020-10-10"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35396 (2020-10-10)|La Gaceta 35396]]"
 paginas: "A. 5 - 16"
-sumario: "Decreto No. 134-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTEAcuerdo No. 06-2020"
+sumario: "Decreto No. 134-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTE: Acuerdo No. 06-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201010-35396/download"
 extraido: "2026-11-14"
-huella: "d13b3212d1d43240"
+huella: "372d809d760d1a31"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 06-2020
@@ -23,15 +23,13 @@ huella: "d13b3212d1d43240"
 | Emisor | Dirección Nacional de Investigación e Inteligencia |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35396 (2020-10-10)\|La Gaceta 35396]] del 2020-10-10 |
 | Páginas | A. 5 - 16 |
-| Según el sumario de La Gaceta | Decreto No. 134-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTEAcuerdo No. 06-2020 |
+| Según el sumario de La Gaceta | Decreto No. 134-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENTE: Acuerdo No. 06-2020 |
 
 ## Texto
 
 EL DIRECTOR NACIONAL DE INVESTIGACIÓN E INTELIGENCIA
 
-CONSIDERANDO: Que la Dirección Nacional de Investigación e Inteligencia en el ejercicio de sus atribuciones mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio de 2014, creó la División de Seguridad Aeroportuaria siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No.
-
-PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial “La Gaceta” el día 25 de agosto del mismo año en el que a partir de su vigencia y por razones de interés y seguridad nacional asume a través de la División de Seguridad Aeroportuaria, las competencias y atribuciones que en materia de seguridad aeroportuaria fueron otorgadas a la Dirección General de Aeronáutica Civil (DGAC) ahora Agencia Hondureña de Aeronáutica Civil (AHAC).
+CONSIDERANDO: Que la Dirección Nacional de Investigación e Inteligencia en el ejercicio de sus atribuciones mediante Acuerdo No. DNII-008-2014 de fecha 11 de julio de 2014, creó la División de Seguridad Aeroportuaria siendo ratificada por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-053-2014 de fecha 22 de agosto de 2014, publicado en el Diario Oficial “La Gaceta” el día 25 de agosto del mismo año en el que a partir de su vigencia y por razones de interés y seguridad nacional asume a través de la División de Seguridad Aeroportuaria, las competencias y atribuciones que en materia de seguridad aeroportuaria fueron otorgadas a la Dirección General de Aeronáutica Civil (DGAC) ahora Agencia Hondureña de Aeronáutica Civil (AHAC).
 
 CONSIDERANDO: Que mediante Decreto No. 119-2018 de fecha 15 de enero de 2019 el Congreso Nacional de la República aprobó la Ley de Seguridad de la Aviación Civil de Honduras publicada en “La Gaceta” Diario Oficial de la República de Honduras en fecha 30 de enero de 2019, la cual tiene por objeto la de asegurar la protección y salvaguarda de los pasajeros, tripulaciones, el personal en tierra y el público en general; así como las aeronaves, aeropuertos y aeródromos, la infraestructura e instalaciones que brinden servicio a la aviación, contra los actos de interferencia ilícita y otros actos, perpetrados en tierra o en el aire, lo anterior sin perjuicio de preservar la regularidad y eficiencia del tránsito aéreo nacional e internacional durante las operaciones normales.
 

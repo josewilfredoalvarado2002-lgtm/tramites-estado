@@ -8,10 +8,10 @@ gaceta_numero: 35190
 gaceta_fecha: "2020-03-03"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)|La Gaceta 35190]]"
 paginas: "A. 3 - 8"
-sumario: "Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020"
+sumario: "Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200303-35190/download"
 extraido: "2026-11-14"
-huella: "19e8dafb1089df1a"
+huella: "4e687e663fa2546b"
 ---
 <!-- portal:inicio -->
 # ACUERDO CIAPEB 001-2018
@@ -23,17 +23,17 @@ huella: "19e8dafb1089df1a"
 | Emisor | Secretaría de Recursos Naturales y Ambiente |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)\|La Gaceta 35190]] del 2020-03-03 |
 | Páginas | A. 3 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020 |
 
 ## Texto
 
 La Comisión Interinstitucional para la Atención y Prevención de la Problemática de la Pesca por Buceo;
 
-CONSIDERANDO: Que en fecha 31 de enero del 2012 el Presidente Constitucional de la República en Consejo de Ministros, aprobó el Decreto Ejecutivo PCM-003- 2012, publicado en el Diario Oficial “La Gaceta” el 14 de marzo de 2012, a través del cual se crea la COMISIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN Y PREVENCIÓN DE LA PROBLEMÁTICA DE LA PESCA POR BUCEO.
+CONSIDERANDO: Que en fecha 31 de enero del 2012 el Presidente Constitucional de la República en Consejo de Ministros, aprobó el Decreto Ejecutivo PCM-003-2012, publicado en el Diario Oficial “La Gaceta” el 14 de marzo de 2012, a través del cual se crea la COMISIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN Y PREVENCIÓN DE LA PROBLEMÁTICA DE LA PESCA POR BUCEO.
 
 CONSIDERANDO: Que con el objeto de dar cumplimiento a lo descrito en el Artículo 5 del Decreto Ejecutivo PCM-003-2012, faculta la elaboración del Reglamento Interno, para la operatividad de la COMISIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN Y PREVENCIÓN DE LA PROBLEMÁTICA DE LA PESCA POR BUCEO.
 
-C O N S I D E R A N D O : Q u e l a C O M I S I Ó N INTERINSTITUCIONAL DE LA ATENCIÓN Y PREVENCIÓN DE LA PROBLEMÁTICA DE LA PESCA POR BUCEO, ha venido brindando servicios eficientes y pertinentes a la solución de la problemática de la pesca por buceo, haciendo el mejor uso de sus recursos técnicos y financieros para la gestión, seguimiento, promoción, defensa y formulación de políticas públicas para favorecer el desarrollo económico-social, la participación igualitaria y los derechos humanos, con identidad de los Pueblos Indígenas y Afrohondureños de Honduras.
+CONSIDERANDO: Que la COMISIÓN INTERINSTITUCIONAL DE LA ATENCIÓN Y PREVENCIÓN DE LA PROBLEMÁTICA DE LA PESCA POR BUCEO, ha venido brindando servicios eficientes y pertinentes a la solución de la problemática de la pesca por buceo, haciendo el mejor uso de sus recursos técnicos y financieros para la gestión, seguimiento, promoción, defensa y formulación de políticas públicas para favorecer el desarrollo económico-social, la participación igualitaria y los derechos humanos, con identidad de los Pueblos Indígenas y Afrohondureños de Honduras.
 
 POR TANTO:
 
@@ -125,7 +125,7 @@ Artículo 10.- En caso de ausencia del representante propietario de las instituc
 
 Artículo 11.- Serán funciones del Presidente las siguientes:
 
-1. Solicitar a los titulares de las instituciones que integran la CIAPEB, el nombramiento de un representante permanente con su respectivo suplente con poder de decisión y respaldo (Artículo 2, párrafo segundo del Decreto PCM- 003-2012).
+1. Solicitar a los titulares de las instituciones que integran la CIAPEB, el nombramiento de un representante permanente con su respectivo suplente con poder de decisión y respaldo (Artículo 2, párrafo segundo del Decreto PCM-003-2012).
 
 2. Velar por el cumplimiento de los objetivos de la CIAPEB.
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 14"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210109-35482/download"
 extraido: "2026-11-14"
-huella: "a1e4134cba94e683"
+huella: "b9c4ec7ab7b2a494"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-141-2020
@@ -49,7 +49,7 @@ CONSIDERANDO: Que el artículo 14 de la misma Ley en su numeral 4, establece que
 
 POR TANTO;
 
-En ejercicio de las atribuciones que le han sido conferidas por los artículos 245, numerales 2 y 11 de la Constitución de la República y 13 y 14 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266- 2013
+En ejercicio de las atribuciones que le han sido conferidas por los artículos 245, numerales 2 y 11 de la Constitución de la República y 13 y 14 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266-2013
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Decreto Ejecutivo Número PCM-014-2026Acuerdos Ejecutivos Números 044-DP-2026, 045-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260717-37196/download"
 extraido: "2026-11-09"
-huella: "9a53a1146e0a65e2"
+huella: "98c846797f9e8c92"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-014-2026
@@ -169,7 +169,7 @@ ARTÍCULO 9.- INFORME ANUAL DE CUMPLIMIENTO.
 
 La Secretaría de Estado en los Despachos de Trabajo y Seguridad Social, en coordinación con la Oficina Presidencial de Comercio Exterior y la Administración Aduanera de Honduras, elaborará y publicará anualmente un Informe de Cumplimiento.
 
-A R T Í C U L O 1 0 . - R E G U L A C I O N E S D E
+ARTÍCULO 1 0 . - REGULACIONES DE
 
 IMPLEMENTACIÓN. Las autoridades competentes designadas en el Artículo 7 emitirán mediante los actos administrativos que correspondan y, en un plazo máximo de 30 días calendario contados a partir de la fecha de publicación del presente Decreto Ejecutivo, en el ámbito de sus respectivas competencias, las regulaciones adicionales o complementarias, en su caso, para la efectiva implementación y/o ejecución del presente Decreto Ejecutivo, todo, bajo la coordinación interinstitucional establecida en el Artículo 8 del presente Decreto Ejecutivo.
 

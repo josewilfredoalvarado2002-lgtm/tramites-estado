@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Acuerdos Números 014-2023, 119-2023 Acuerdos Ejecutivos Números 523-2022, 524-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230419-36207/download"
 extraido: "2026-11-14"
-huella: "fd5e36c714b1ee77"
+huella: "373dcf6658efc666"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 524-2022
@@ -43,7 +43,7 @@ Que el Gobierno de la República ha expuesto la crítica situación en que recib
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -57,7 +57,7 @@ Asimismo, juega un papel esencial en la reducción de la inseguridad alimentaria
 
 CONSIDERANDO:
 
-Que el Congreso Nacional de la República e1 14 de mayo de 2022, mediante Decreto Legislativo No.49-2020 aprobó en todas y cada una de las partes el Contrato de Préstamo No.4936/BL-HO y No.4940/BL-HO, suscrito el 23 de abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del Financiamiento de hasta un monto de Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”.
+Que el Congreso Nacional de la República e1 14 de mayo de 2022, mediante Decreto Legislativo No. 49-2020 aprobó en todas y cada una de las partes el Contrato de Préstamo No. 4936/BL-HO y No. 4940/BL-HO, suscrito el 23 de abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del Financiamiento de hasta un monto de Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”.
 
 CONSIDERANDO: Que el Gobierno de la República de Honduras, a través de la Secretaría de Estado en el Despacho de Finanzas, ha convenido suscribir:
 
@@ -69,7 +69,7 @@ CONSIDERANDO: Que a través del Proyecto Integral de Desarrollo Rural y Producti
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
+Que el Decreto Legislativo No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público en su artículo 68 establece que, la contratación de cada nuevo endeudamiento externo se debe realizar, cuando las condiciones financieras ofrecidas en el mercado permitan un elemento de concesionalidad mínimo de treinta y cinco por ciento (35%), como ocurre en este caso.
 
 POR TANTO:
 

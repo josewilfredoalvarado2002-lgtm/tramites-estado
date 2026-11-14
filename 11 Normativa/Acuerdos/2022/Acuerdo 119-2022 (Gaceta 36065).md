@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdos Ministeriales Nos. 115-2022, 116-2022, 117-2022, 118-2022, 119-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221101-36065/download"
 extraido: "2026-11-14"
-huella: "c82b754a10a3ec73"
+huella: "0f26b1dc74347209"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 119-2022
@@ -47,9 +47,7 @@ POR TANTO:
 
 La Secretaría de Desarrollo Económico en uso de las facultades de que está investida y de conformidad con los
 
-Artículos 80, 321 y 331 de la Constitución de la República de Honduras; Artículo 36 numeral 2) 8); 116 y 118 de la Ley General de la Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículo 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No.
-
-150-2019 de fecha 04 de diciembre de 2019.
+Artículos 80, 321 y 331 de la Constitución de la República de Honduras; Artículo 36 numeral 2) 8); 116 y 118 de la Ley General de la Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículo 23 y 24 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
 
 ACUERDA:
 

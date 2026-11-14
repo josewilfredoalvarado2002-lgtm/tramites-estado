@@ -11,7 +11,7 @@ paginas: "A. 1 - 23"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200630-35299/download"
 extraido: "2026-11-14"
-huella: "f4af0b10129504b6"
+huella: "4abf1af783fa74e1"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -41,7 +41,7 @@ Que mediante Resolución CREE-016 esta Comisión aprobó del Reglamento para el 
 
 Que para reflejar de manera más precisa y completa en la tarifa los costos en que incurre la ENEE para suministrar electricidad a sus clientes, incluyendo, como manda la Ley General de la Industria Eléctrica, los costos derivados de los contratos de suministro que dicha empresa ha suscrito, así como el resultado de las transacciones del Mercado de Oportunidad, se modificó el reglamento antes referido por medio del Acuerdo CREE-065 del 24 de junio de 2020.
 
-En virtud de los impactos de la pandemia del COVID-19 que aún se manifiestan a nivel internacional y nacional, la CREE ha seguido de cerca la evolución de los elementos que impactan en los costos de producción de energía eléctrica, especialmente los costos asociados a los combustibles. En ese sentido, tales Sección A Decretos y Acuerdos COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREE Acuerdos CREE-071, CREE-072 A. 1 - 23 AGENCIA DE REGULACIÓN SANITARIA (ARSA) Acuerdo No. 012-2020 A. 24- 33 INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, AREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) Acuerdo No. 023-2018 A. 34- 40 precios han mostrado una alta volatilidad que los ha llevado a precios históricamente bajos e incrementos importantes que posteriormente se reducen.
+En virtud de los impactos de la pandemia del COVID-19 que aún se manifiestan a nivel internacional y nacional, la CREE ha seguido de cerca la evolución de los elementos que impactan en los costos de producción de energía eléctrica, especialmente los costos asociados a los combustibles. En ese sentido, tales Sección A Decretos y Acuerdos COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREE Acuerdos CREE-071, CREE-072 A. 1 - 23 AGENCIA DE REGULACIÓN SANITARIA (ARSA) Acuerdo No. 012-2020 A. 24-33 INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, AREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) Acuerdo No. 023-2018 A. 34-40 precios han mostrado una alta volatilidad que los ha llevado a precios históricamente bajos e incrementos importantes que posteriormente se reducen.
 
 Que los análisis llevados a cabo muestran que el precio del “HFO 3% S”, combustible principal para la generación de energía eléctrica, fue definido a un valor de USD 23.36 por barril.
 
@@ -53,7 +53,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el cinco (5) de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el cinco (5) de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 
@@ -113,7 +113,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

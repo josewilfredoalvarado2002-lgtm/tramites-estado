@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 610-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241113-36688/download"
 extraido: "2026-11-14"
-huella: "08834fe68dc365d6"
+huella: "7d68d70286d4158d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 610-2024
@@ -229,7 +229,7 @@ AGUA DE EL CASERÍO DEL NARANJO, ALDEA DE GUASORE, MUNICIPIO DE MASAGUARA, DEPAR
 
 TERCERO: La JUNTA ADMINISTRADORA DE
 
-AGUA DE EL CASERÍO DEL NARANJO, ALDEA DE GUASORE, MUNICIPIO DE MASAGUARA, DEPARTAMENTO DE INTIBUCÁ, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS) , los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
+AGUA DE EL CASERÍO DEL NARANJO, ALDEA DE GUASORE, MUNICIPIO DE MASAGUARA, DEPARTAMENTO DE INTIBUCÁ, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones y variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
 
 CUARTO: La JUNTA ADMINISTRADORA DE
 

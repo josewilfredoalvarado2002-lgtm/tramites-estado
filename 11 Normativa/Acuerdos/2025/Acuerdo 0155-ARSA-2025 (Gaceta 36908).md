@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdo No. 0155-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250805-36908/download"
 extraido: "2026-11-09"
-huella: "4a863124f0f2f83d"
+huella: "467c842cc09e2d9e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0155-ARSA-2025
@@ -33,9 +33,7 @@ huella: "4a863124f0f2f83d"
 
 ACUERDA
 
-PRIMERO: Delegar a la ciudadana GREYDY DAMARIS SÁNCHEZ PALMA quien posee el Documento Nacional de Identificación 0714-1986-00170, en el cargo de SECRETARIO GENERAL, las funciones establecidas en el artículo No.
-
-9 del Reglamento Estructura Orgánica de Regulación Sanitaria (ARSA) y artículo No. 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, en ausencia del titular, Abogado SAMUEL ELÍAS AGUILAR SAUCEDA, durante el período comprendido entre el jueves 17 al lunes 28 de julio del 2025.
+PRIMERO: Delegar a la ciudadana GREYDY DAMARIS SÁNCHEZ PALMA quien posee el Documento Nacional de Identificación 0714-1986-00170, en el cargo de SECRETARIO GENERAL, las funciones establecidas en el artículo No. 9 del Reglamento Estructura Orgánica de Regulación Sanitaria (ARSA) y artículo No. 27 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, en ausencia del titular, Abogado SAMUEL ELÍAS AGUILAR SAUCEDA, durante el período comprendido entre el jueves 17 al lunes 28 de julio del 2025.
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial “La Gaceta”.
 

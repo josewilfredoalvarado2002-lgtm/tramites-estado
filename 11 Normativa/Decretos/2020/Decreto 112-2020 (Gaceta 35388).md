@@ -8,10 +8,10 @@ gaceta_numero: 35388
 gaceta_fecha: "2020-10-01"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35388 (2020-10-01)|La Gaceta 35388]]"
 paginas: "A. 1 - 3"
-sumario: "Decreto No. 112-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIAAcuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020"
+sumario: "Decreto No. 112-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIA: Acuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201001-35388/download"
 extraido: "2026-11-14"
-huella: "5c4f900a11d1150a"
+huella: "3eeaa425bef9f618"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 112-2020
@@ -23,7 +23,7 @@ huella: "5c4f900a11d1150a"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35388 (2020-10-01)\|La Gaceta 35388]] del 2020-10-01 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Decreto No. 112-2020DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIAAcuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020 |
+| Según el sumario de La Gaceta | Decreto No. 112-2020; DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA, DIVISIÓN DE SEGURIDAD AEROPORTUARIA: Acuerdos Nos. DNII-001-2020, DNII-002-2020, DNII-003-2020, DNII-004-2020 |
 
 ## Texto
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aquellos operadores de los servicios de radiodifusión sonora, radiodifusión por televisión y canales que brindan servicio a través de un cable operador, que al momento de la entrada en vigencia de este Decreto, no hayan hecho efectiva la cancelación del pago del monto que deben pagar los operadores de servicios a los cuales se les haya asignado bandas de frecuencias del Espectro Radioeléctrico para la planificación, administración y control del uso del mismo, conocido c o m o C a n o n R a d i o e l é c t r i c o , correspondiente al año 2020, pueden realizar el pago adeudado en concepto de canon radioeléctrico correspondiente al año 2020, de la manera siguiente:
+ARTÍCULO 1.- Aquellos operadores de los servicios de radiodifusión sonora, radiodifusión por televisión y canales que brindan servicio a través de un cable operador, que al momento de la entrada en vigencia de este Decreto, no hayan hecho efectiva la cancelación del pago del monto que deben pagar los operadores de servicios a los cuales se les haya asignado bandas de frecuencias del Espectro Radioeléctrico para la planificación, administración y control del uso del mismo, conocido como Canon Radioeléctrico, correspondiente al año 2020, pueden realizar el pago adeudado en concepto de canon radioeléctrico correspondiente al año 2020, de la manera siguiente:
 
 \1) Hasta el cincuenta por ciento (50%) del total, mediante programas educativos, campañas de promoción y acciones de concientización a la población durante y después de la crisis sanitaria producto del Covid-19.
 

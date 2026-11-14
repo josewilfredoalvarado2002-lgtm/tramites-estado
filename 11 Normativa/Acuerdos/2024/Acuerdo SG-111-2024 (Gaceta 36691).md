@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo INHGEOMIN No. SG-111-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241116-36691/download"
 extraido: "2026-11-14"
-huella: "fb7da3bf759b17c5"
+huella: "3494d15f2faced68"
 ---
 <!-- portal:inicio -->
 # ACUERDO INHGEOMIN No. SG-111-2024
@@ -31,9 +31,7 @@ INSTITUTO HONDUREÑO DE GEOLOGÍA Y MINAS
 
 “INHGEOMIN”, Tegucigalpa, municipio del Distrito Central, diez de octubre del año dos mil veinticuatro.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-238-2012 del dos de abril del año dos mil trece, fue publicada en el Diario Oficial La Gaceta, la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013 de la fecha dos de agosto del año dos mil trece fue publicado en el Diario Oficial La Gaceta, el Reglamento de la Ley General de Minería.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 238-2012 del dos de abril del año dos mil trece, fue publicada en el Diario Oficial La Gaceta, la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013 de la fecha dos de agosto del año dos mil trece fue publicado en el Diario Oficial La Gaceta, el Reglamento de la Ley General de Minería.
 
 CONSIDERANDO: Que el artículo 2 de la Ley General de Minería establece que, el Estado de Honduras ejerce dominio eminente, inalienable e imprescriptible, sobre todos los minerales que se encuentren en el territorio nacional, mar territorial, plataforma marítima continental y zona económica exclusiva. En ejercicio de su derecho de dominio, el Estado regula los recursos minerales inorgánicos y fiscaliza el aprovechamiento técnico y racional de los mismos.
 

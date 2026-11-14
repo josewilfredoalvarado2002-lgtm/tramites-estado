@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ejecutivo número 025-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210624-35637/download"
 extraido: "2026-11-14"
-huella: "7940454347171511"
+huella: "2ea5d9883767fef2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 25-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ Las medidas que se implementen en cumplimento del primer párrafo del presente A
 
 #### Artículo 3
 
-ARTÍCULO 3.- Todas las dependencias del Estado, deben incluir dentro de sus planes operativos anuales acciones encaminadas a reforzar y apoyar la ejecución del “Acuerdo de París” adoptada el 22 de Abril de 2016 y su ratificación aprobada el 20 de Julio de 2016, así como también la Ley General del Ambiente, contentiva en el Decreto No.104-93, Ley de Cambio Climático, contentiva en el Decreto No.297-2013, Ley Forestal, Áreas Protegidas y Vida Silvestre, así como otra legislación de esta materia.
+ARTÍCULO 3.- Todas las dependencias del Estado, deben incluir dentro de sus planes operativos anuales acciones encaminadas a reforzar y apoyar la ejecución del “Acuerdo de París” adoptada el 22 de Abril de 2016 y su ratificación aprobada el 20 de Julio de 2016, así como también la Ley General del Ambiente, contentiva en el Decreto No. 104-93, Ley de Cambio Climático, contentiva en el Decreto No. 297-2013, Ley Forestal, Áreas Protegidas y Vida Silvestre, así como otra legislación de esta materia.
 
 #### Artículo 4
 

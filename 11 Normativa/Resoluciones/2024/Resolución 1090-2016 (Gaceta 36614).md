@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Resolución No. 1090-2016"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240816-36614/download"
 extraido: "2026-11-14"
-huella: "8df1d202af922fb3"
+huella: "9ff412bd534e46b2"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1090-2016
@@ -27,7 +27,7 @@ huella: "8df1d202af922fb3"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: "RESOLUCIÓN No.1090-2016.
+El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: "RESOLUCIÓN No. 1090-2016.
 
 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DERECHOS HUMANOS, JUSTICIA, GOBERNACIÓN Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, veintiocho de septiembre del dos mil dieciséis.
 
@@ -39,7 +39,7 @@ RESULTA: Que a la solicitud se le dio el trámite de ley habiéndose mandado oí
 
 CONSIDERANDO: Que el señor Presidente de la República, mediante Acuerdo Ejecutivo No. 46-2014 de fecha 10 de febrero de 2014, nombró a la ciudadana CLARISA EVELIN MORALES REYES, como Subsecretaria en los Despachos de Gobernación y Descentralización.
 
-CONSIDERANDO: Que el señor Secretario de Estado en los despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No.410- 2016 de fecha 15 de junio de 2016, delegó en la ciudadana, CLARISA EVELIN MORALES REYES, Subsecretaria de Estado en los Despachos de Gobernación y Descentralización, la facultad de firmar las resoluciones, acuerdos y demás trámites administrativos cuyo conocimiento corresponde a esta Secretaría de Estado y poder comparecer a las sesiones del Consejo de Secretarios de Estado.
+CONSIDERANDO: Que el señor Secretario de Estado en los despachos de Derechos Humanos, Justicia, Gobernación y Descentralización, mediante Acuerdo Ministerial No. 410-2016 de fecha 15 de junio de 2016, delegó en la ciudadana, CLARISA EVELIN MORALES REYES, Subsecretaria de Estado en los Despachos de Gobernación y Descentralización, la facultad de firmar las resoluciones, acuerdos y demás trámites administrativos cuyo conocimiento corresponde a esta Secretaría de Estado y poder comparecer a las sesiones del Consejo de Secretarios de Estado.
 
 POR TANTO:
 
@@ -231,7 +231,7 @@ Extendida en la ciudad de Tegucigalpa, municipio del Distrito Central, a los vei
 
 NORMAN ALEXANDER ROMERO ANDINO OFICIAL JURÍDICO
 
-ACUERDO DE DELEGACIÓN DE FIRMA No. 605- 2022, DE FECHA 03 DE AGOSTO DE 2022. Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), bajo el No.2016000631 de fecha nueve 09 de diciembre de dos mil dieciséis (2016).
+ACUERDO DE DELEGACIÓN DE FIRMA No. 605-2022, DE FECHA 03 DE AGOSTO DE 2022. Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), bajo el No. 2016000631 de fecha nueve 09 de diciembre de dos mil dieciséis (2016).
 
 Recibo de pago TGR-1 11541567 de fecha 27 de julio del 2023.
 

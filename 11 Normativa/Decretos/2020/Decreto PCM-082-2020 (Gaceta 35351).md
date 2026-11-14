@@ -11,7 +11,7 @@ paginas: "A. 5 - 16"
 sumario: "Decretos Ejecutivos números PCM-080-2020,PCM-082-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200823-35351/download"
 extraido: "2026-11-14"
-huella: "65f571057c073d7a"
+huella: "ae6942f5e2464aa7"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-082-2020
@@ -49,7 +49,7 @@ POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78,
 
 Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 18-2017;
 
-Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42- 2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-011-2014, PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020, PCM-059- 2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020 y PCM- 078-2020.
+Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-011-2014, PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020 y PCM-078-2020.
 
 DECRETA:
 
@@ -65,7 +65,7 @@ Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, s
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 2 numerales 2, 3, 5, y 6, asimismo adicionar el numeral 13 al Decreto Ejecutivo Número PCM-073-2020, publicado en el Diario Oficial “La Gaceta” en fecha 28 de julio del 2020, Edición No. 35,327, reformado mediante Decreto Ejecutivo Número PCM-078- 2020, el cual se leerá de la manera siguiente:
+ARTÍCULO 2.- Reformar el Artículo 2 numerales 2, 3, 5, y 6, asimismo adicionar el numeral 13 al Decreto Ejecutivo Número PCM-073-2020, publicado en el Diario Oficial “La Gaceta” en fecha 28 de julio del 2020, Edición No. 35,327, reformado mediante Decreto Ejecutivo Número PCM-078-2020, el cual se leerá de la manera siguiente:
 
 “ARTÍCULO 2.-LIMITACIONES DE LA REAPERTURA
 

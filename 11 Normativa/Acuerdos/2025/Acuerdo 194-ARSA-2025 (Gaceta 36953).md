@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdo No. 194-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250927-36953/download"
 extraido: "2026-11-09"
-huella: "4851aa9053809307"
+huella: "25a70617996b1c70"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 194-ARSA-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que el Reglamento Para el Control Sanitario de Productos Farmacéu
 
 Artículo 118 dispone “La Farmacovigilancia de los productos farmacéuticos, se regulará de conformidad a la reglamentación especial que para tal fin emita la ARSA”.
 
-CONSIDERANDO: Que, en el marco de las atribuciones y funciones de la ARSA se crea el Centro Nacional de Farmacovigilancia (CNFV) mediante el Acuerdo No. 0534- ARSA-2024, de fecha 03 de diciembre del año 2024 publicado en el Diario Oficial “La Gaceta” No.36726 de fecha 28 de diciembre del 2024, en su acápite NOVENO dispone: Crear el CENTRO NACIONAL DE FARMACOVIGILANCIA (CNFV), adscrito a la Dirección de Productos Farmacéuticos y otros del Ramo de Interés Sanitario (DPF), de la Agencia de Regulación Sanitaria (ARSA), como un centro de referencia nacional en materia de Farmacovigilancia en todo el país, con capacidad científica e indispensable para recopilar, clasificar, analizar, identificar y difundir la información relacionada con la seguridad, calidad y eficacia de los productos farmacéuticos, la administración de la base de datos nacional y con competencia a nivel nacional por medio de las instancias territoriales correspondientes.
+CONSIDERANDO: Que, en el marco de las atribuciones y funciones de la ARSA se crea el Centro Nacional de Farmacovigilancia (CNFV) mediante el Acuerdo No. 0534- ARSA-2024, de fecha 03 de diciembre del año 2024 publicado en el Diario Oficial “La Gaceta” No. 36726 de fecha 28 de diciembre del 2024, en su acápite NOVENO dispone: Crear el CENTRO NACIONAL DE FARMACOVIGILANCIA (CNFV), adscrito a la Dirección de Productos Farmacéuticos y otros del Ramo de Interés Sanitario (DPF), de la Agencia de Regulación Sanitaria (ARSA), como un centro de referencia nacional en materia de Farmacovigilancia en todo el país, con capacidad científica e indispensable para recopilar, clasificar, analizar, identificar y difundir la información relacionada con la seguridad, calidad y eficacia de los productos farmacéuticos, la administración de la base de datos nacional y con competencia a nivel nacional por medio de las instancias territoriales correspondientes.
 
 CONSIDERANDO: Que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias; los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria estarán precedidos por la designación de la autoridad que los emite y seguida por la fórmula “ACUERDA”.
 
@@ -55,9 +55,7 @@ LA SUSCRITA COMISIONADA PRESIDENTA DE
 
 LA AGENCIA DE REGULACIÓN SANITARIA, en uso de las facultades de que está investido y en aplicación a los Artículos 145 y 146 de la Constitución de la República;
 
-116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 4 y 118 del Acuerdo No.
-
-0418-ARSA-2023 contentivo del Reglamento Para el Control Sanitario de Productos Farmacéuticos y otros Productos del Ramo de Interés Sanitario; Decreto 7-2021 contentivo de la Ley de la Agencia de Regulación Sanitaria (ARSA).
+116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 4 y 118 del Acuerdo No. 0418-ARSA-2023 contentivo del Reglamento Para el Control Sanitario de Productos Farmacéuticos y otros Productos del Ramo de Interés Sanitario; Decreto 7-2021 contentivo de la Ley de la Agencia de Regulación Sanitaria (ARSA).
 
 ACUERDA:
 

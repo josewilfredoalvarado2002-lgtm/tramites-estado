@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ejecutivo No. CNE-002-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211210-35794/download"
 extraido: "2026-11-14"
-huella: "d9415a69e4879336"
+huella: "8be9c920f84f8a88"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. CNE-002-2021
@@ -29,7 +29,7 @@ huella: "d9415a69e4879336"
 
 EL PRESIDENTE CONSTITUCIONAL DE LA
 
-CONSIDERANDO: Que mediante Decreto Legislativo N° 262- 2011, publicado en el Diario Oficial “La Gaceta” el 22 de febrero del año 2012, fue aprobada la Ley Fundamental de Educación.
+CONSIDERANDO: Que mediante Decreto Legislativo N° 262-2011, publicado en el Diario Oficial “La Gaceta” el 22 de febrero del año 2012, fue aprobada la Ley Fundamental de Educación.
 
 CONSIDERANDO: Que para dar cumplimiento a la Visión de País 2010-2038 y Plan de Nación 2010-2022, en cuanto al sector educación corresponde, es necesario obtener información oportuna para la implementación de Políticas Educativas.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que los aspectos generales, normativos y operativos del Sistema In
 
 CONSIDERANDO: Que el artículo 41 de la Ley de Procedimiento Administrativo establece que corresponde al Poder Ejecutivo expedir los reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo 043- 2020 de fecha 06 de octubre del año 2020, se delega al Sr.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo 043-2020 de fecha 06 de octubre del año 2020, se delega al Sr.
 
 Carlos Alberto Madero, Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República.
 
@@ -51,7 +51,7 @@ POR TANTO:
 
 En aplicación de los Artículos 245 numeral 11, 19 y 45, 247 y 248 de la Constitución de la República, Artículos 11, 29, 116 y 118 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: APROBAR EL SIGUIENTE:
 

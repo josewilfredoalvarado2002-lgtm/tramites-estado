@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Ejecutivos Nos. 117-2025,45-2025, 49-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250516-36839/download"
 extraido: "2026-11-11"
-huella: "e1304a1d9562de04"
+huella: "ae6ae3d784a60d96"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 49-2025
@@ -31,9 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO: Que, en fecha 2 de noviembre de 2022, el ciudadano Carlos Alberto Díaz, demandó al Estado de Honduras, por intermedio del Instituto Nacional de Migración, para que se le restituyeran sus derechos laborales. Dicha petición fue declarada Procedente, mediante Sentencia definitiva del Juzgado de Letras de lo Contencioso Administrativo, expediente 0801-2022-01785, de fecha 28 de febrero de 2025.
 
-CONSIDERANDO: Según refiere el oficio N°.
-
-161-D-PGR-2025 de fecha 11 de abril de 2025, con procedencia de la Procuraduría General de la República, en fecha 14 de marzo de 2025, el ciudadano Carlos Alberto Díaz, presentó ante esa honorable representación del Estado, “Solicitud de Acuerdo Amistoso, en la demanda promovida ante el Juzgado de Letras de lo Contencioso Administrativo, del departamento de Francisco Morazán, registrada con el expediente 0801-2022-01785”.
+CONSIDERANDO: Según refiere el oficio N°. 161-D-PGR-2025 de fecha 11 de abril de 2025, con procedencia de la Procuraduría General de la República, en fecha 14 de marzo de 2025, el ciudadano Carlos Alberto Díaz, presentó ante esa honorable representación del Estado, “Solicitud de Acuerdo Amistoso, en la demanda promovida ante el Juzgado de Letras de lo Contencioso Administrativo, del departamento de Francisco Morazán, registrada con el expediente 0801-2022-01785”.
 
 CONSIDERANDO: Que, del análisis realizado a la solicitud planteada por el ciudadano Carlos Alberto Díaz, en fecha 3 de abril de 2025, la Unidad de Procuración Judicial responsable del Instituto Nacional de Migración se pronunció, en el sentido de lo conveniente que resulta aceptar la Solicitud de Acuerdo Amistoso, en virtud de que evitaría “una prolongación innecesaria del juicio y con ello, la generación de mayores erogaciones por concepto de salarios no percibidos, lo que resulta en un ahorro significativo para el Estado”.
 

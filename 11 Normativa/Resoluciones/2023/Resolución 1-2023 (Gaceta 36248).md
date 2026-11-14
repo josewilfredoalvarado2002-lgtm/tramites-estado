@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Resolución No. 1-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230607-36248/download"
 extraido: "2026-11-14"
-huella: "3f5898e054b02070"
+huella: "9a3be31cea3da1a7"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 1-2023
@@ -29,7 +29,7 @@ huella: "3f5898e054b02070"
 
 EL CONGRESO NACIONAL, Reunidos en el Congreso Nacional, a los doce días del mes de abril de 2023, en el Pleno de la Cámara Legislativa, para emitir Resolución sobre la misiva enviada a este Poder del Estado, por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a presentar a este Poder del Estado, la solicitud que a su vez le fuere presentada por parte de la República de Eslovenia, contraída a que se conceda al ciudadano hondureño Jorge Alberto Faraj Faraj permiso para aceptar el cargo de Cónsul Honorario de ese país en Honduras, específicamente en la ciudad de San Pedro Sula, departamento de Cortés, Honduras.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No.446-DGAC-2022 remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 446-DGAC-2022 remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, es potestad del Congreso Nacional, conceder o negar permiso a los hondureños para aceptar cargos de otro Estado; el Artículo 255 de la Constitución de la República, y los artículos 82 y 24 numeral 9) de la Ley Orgánica del Poder Legislativo, en reciprocidad el Artículo 19 de la Ley de Servicio Diplomático Exterior, estando incluida en esta categoría legislativa la habilitación para que un ciudadano hondureño, ejerza la calidad de Cónsul Honorario en representación de un tercer Estado.
 

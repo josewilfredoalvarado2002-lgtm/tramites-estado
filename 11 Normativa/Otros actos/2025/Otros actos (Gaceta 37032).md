@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdos CREE-124-2025, CREE-141-2025,CREE-165-2025, CREE-171-2025; Acuerdos C.G. Nos. 018-2025, 019-2025,020-2025, 021-2025, 022-2025, 023-2025,024-2025, 025-2025, 026-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251231-37032/download"
 extraido: "2026-11-09"
-huella: "87305e22d9b10f02"
+huella: "2196e3785fdb4c10"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-124-2025, CREE-141-2025,CREE-165-2025, CREE-171-2025; Acuerdos C.G. Nos. 018-2025, 019-2025,020-2025, 021-2025, 022-2025, 023-2025,024-2025, 025-2025, 026-2025
@@ -51,7 +51,7 @@ a. “Apruebe el presente informe de resultados de la Consulta Pública CREE-CP-
 
 b. Instruya a la Secretaría General para que:
 
-a) comunique el Informe de Resultados a los participantes de la consulta pública que hayan suministrado su correo electrónico, de conformidad con lo establecido en el artículo 10 del Procedimiento de Consulta Pública, b) publique el acto administrativo en la página web de la Comisión Reguladora de Energía Eléctrica (CREE) conforme con lo establecido en el artículo 3 literal D romano XII de la Ley General de la Industria Eléctrica (LGIE).” Considerando Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y reformada mediante decretos legislativos números 61- 2020, 02-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+a) comunique el Informe de Resultados a los participantes de la consulta pública que hayan suministrado su correo electrónico, de conformidad con lo establecido en el artículo 10 del Procedimiento de Consulta Pública, b) publique el acto administrativo en la página web de la Comisión Reguladora de Energía Eléctrica (CREE) conforme con lo establecido en el artículo 3 literal D romano XII de la Ley General de la Industria Eléctrica (LGIE).” Considerando Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y reformada mediante decretos legislativos números 61-2020, 02-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE), el Estado supervisará la operación del subsector eléctrico a través de la Comisión Reguladora de Energía Eléctrica (CREE).
 
@@ -107,19 +107,19 @@ Donde:
 
 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝑚𝑚𝑚𝑚 𝑎𝑎𝑎 = Energía no suministrada estimada del alimentador 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴= 𝑚𝑚𝑚𝑚𝑎𝑎𝑎𝑎𝑚𝑚𝑚𝑚൫𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆, 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆൯ Donde:
 
-𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = Energía no suministrada estimada del alimentador A correspondiente al índice de calidad SAIFI 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = = Energía no suministrada estimada del alimentador A correspondiente al índice de calidad SAIDI 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= ෍𝑚𝑚𝑚𝑚𝑎𝑎𝑎𝑎𝑚𝑚𝑚𝑚൬𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴 𝑆𝑆𝑆𝑆 4380 , 0൰ 𝑠𝑠𝑠𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴 𝑠𝑠𝑠𝑠=1 Donde:
+𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = Energía no suministrada estimada del alimentador A correspondiente al índice de calidad SAIFI 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 = = Energía no suministrada estimada del alimentador A correspondiente al índice de calidad SAIDI 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= ෍𝑚𝑚𝑚𝑚𝑎𝑎𝑎𝑎𝑚𝑚𝑚𝑚൬𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴 𝑆𝑆𝑆𝑆 4380, 0൰ 𝑠𝑠𝑠𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴 𝑠𝑠𝑠𝑠=1 Donde:
 
-𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠𝐸𝐸𝐸𝑓𝑓𝑓𝑚𝑚𝑚𝑓𝑓𝑓𝑚𝑚𝑚𝐴𝐴𝐴𝑠𝑠𝑠 = Energía facturada (kWh) del alimentador A en 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠 el período de control ;
+𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠𝐸𝐸𝐸𝑓𝑓𝑓𝑚𝑚𝑚𝑓𝑓𝑓𝑚𝑚𝑚𝐴𝐴𝐴𝑠𝑠𝑠 = Energía facturada (kWh) del alimentador A en 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠 el período de control;
 
-= Valor del sendero de calidad del índice del 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴 alimentador A en el período de control ;
+= Valor del sendero de calidad del índice del 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴 alimentador A en el período de control;
 
 = Valor final del índice para el alimentador A;
 
 = Cantidad de horas en el período de control.
 
-4380 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= ෍𝑚𝑚𝑚𝑚𝑎𝑎𝑎𝑎𝑚𝑚𝑚𝑚ቆ𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× (𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴) × 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑆𝑆𝑆𝑆 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× 4380 , 0ቇ 𝑠𝑠𝑠𝑠=1 Donde:
+4380 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐴𝐴𝐴𝐴,𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆= ෍𝑚𝑚𝑚𝑚𝑎𝑎𝑎𝑎𝑚𝑚𝑚𝑚ቆ𝐸𝐸𝐸𝐸𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚𝑓𝑓𝑓𝑓𝑚𝑚𝑚𝑚,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× (𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠−𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴) × 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑆𝑆𝑆𝑆 𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝐸𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝑠𝑠𝑠𝑠𝑠𝑠 𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠× 4380, 0ቇ 𝑠𝑠𝑠𝑠=1 Donde:
 
-𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴 = Valor del sendero de calidad del índice del alimentador A en el período de control ;
+𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴,𝑠𝑠𝑠𝑠 𝑠𝑠𝑠𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐴𝐴𝐴 = Valor del sendero de calidad del índice del alimentador A en el período de control;
 
 𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑆𝑆𝑆𝑆𝐴𝐴𝐴𝐴𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝐴𝐴𝐴𝐴
 
@@ -185,9 +185,7 @@ Resultando
 
 6. Que durante la aplicación inicial del Reglamento de Servicio Eléctrico de Distribución (RSED), el Programa Nacional de Reducción de Pérdidas (PNRP) detectó inconsistencias en la fórmula consignada en el Numeral III del Artículo 76, referida al cálculo del Porcentaje de Error cuando los equipos de medición presentan registros fuera de tolerancia.
 
-7. Que en fecha doce (12) de septiembre de dos mil veinticinco (2025), la Dirección de Fiscalización remitió a la Dirección de Asesoría Jurídica el memorándum DF No.
-
-077-2025-2024 mediante el cual, entre otras cosas, solicitó dictamen legal acerca de ajustar la formula establecida en el artículo 76, numeral III del Reglamento Eléctrico de Servicio Eléctrico de Distribución (RSED), lo anterior en atención a las observaciones técnicas formuladas por el Programa Nacional de Reducción de Perdida (PNRP).
+7. Que en fecha doce (12) de septiembre de dos mil veinticinco (2025), la Dirección de Fiscalización remitió a la Dirección de Asesoría Jurídica el memorándum DF No. 077-2025-2024 mediante el cual, entre otras cosas, solicitó dictamen legal acerca de ajustar la formula establecida en el artículo 76, numeral III del Reglamento Eléctrico de Servicio Eléctrico de Distribución (RSED), lo anterior en atención a las observaciones técnicas formuladas por el Programa Nacional de Reducción de Perdida (PNRP).
 
 8. Que en fecha trece (13) de octubre de dos mil veinticinco (2025), la Dirección de Fiscalización de la Comisión, emitió Dictamen Técnico DF-024-2025 recomendando lo siguiente: “Aprobar la corrección propuesta al Artículo 76, Numeral III, del RSED, mediante el acto administrativo que corresponda. Someter el presente informe al análisis de la Dirección de Asesoría Jurídica, a fin de que esta emita el dictamen legal correspondiente, tomando como insumo el contenido técnico aquí desarrollado.
 
@@ -601,7 +599,7 @@ Iris Xiomara Castro Sarmiento Presidenta Constitucional de la República General
 
 CONSIDERANDO (01):
 
-Que el artículo 245 de l a C o n s t i t u c i ó n d e l a República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia específica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
+Que el artículo 245 de la Constitución de la República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia específica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
 
 CONSIDERANDO (02):
 
@@ -631,7 +629,7 @@ Iris Xiomara Castro Sarmiento Presidenta Constitucional de la República General
 
 CONSIDERANDO (01):
 
-Que el artículo 245 de l a C o n s t i t u c i ó n d e l a República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia especifica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
+Que el artículo 245 de la Constitución de la República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia especifica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
 
 CONSIDERANDO (02):
 
@@ -661,7 +659,7 @@ Iris Xiomara Castro Sarmiento Presidenta Constitucional de la República General
 
 CONSIDERANDO (01):
 
-Que el artículo 245 de l a C o n s t i t u c i ó n d e l a República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia específica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
+Que el artículo 245 de la Constitución de la República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia específica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
 
 CONSIDERANDO (02):
 
@@ -693,7 +691,7 @@ Iris Xiomara Castro Sarmiento Presidenta Constitucional de la República General
 
 CONSIDERANDO (01):
 
-Que el artículo 245 de l a C o n s t i t u c i ó n d e l a República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia especifica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
+Que el artículo 245 de la Constitución de la República establece que el Presidente tiene a su cargo la Administración General del Estado y las atribuciones del mismo, dentro de las cuales se hace referencia especifica en el numeral “16) Ejercer el mando en jefe de las Fuerzas Armadas en su carácter de comandante general y adoptar las medidas necesarias para la defensa de la República”.
 
 CONSIDERANDO (02):
 

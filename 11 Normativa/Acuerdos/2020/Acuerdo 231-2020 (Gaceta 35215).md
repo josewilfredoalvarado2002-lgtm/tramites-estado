@@ -11,7 +11,7 @@ paginas: "A. 71 - 72"
 sumario: "Acuerdos Nos. 222-2020, 231-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200401-35215/download"
 extraido: "2026-11-14"
-huella: "caac8080aac61069"
+huella: "ad064088e59f2550"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 231-2020
@@ -57,7 +57,7 @@ CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administraci
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades establecidas en los Artículos 247 y 351 de la Constitución de la República; 8, 9, 63 numeral 1) y 65 del Código Tributario Decreto 170-2016; 29 numeral 15), 36 numeral 8), 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 23, 24 y 26 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-005- 20201; 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; 42, 63 y 73 del Reglamento del Régimen de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas contenido en el Acuerdo 481- 2017 y demás disposiciones legales aplicables.
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades establecidas en los Artículos 247 y 351 de la Constitución de la República; 8, 9, 63 numeral 1) y 65 del Código Tributario Decreto 170-2016; 29 numeral 15), 36 numeral 8), 116, 118, 119 y 122 de la Ley General de la Administración Pública y sus reformas; 23, 24 y 26 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-005-20201; 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; 42, 63 y 73 del Reglamento del Régimen de Facturación, Otros Documentos Fiscales y Registro Fiscal de Imprentas contenido en el Acuerdo 481-2017 y demás disposiciones legales aplicables.
 
 ACUERDA:
 

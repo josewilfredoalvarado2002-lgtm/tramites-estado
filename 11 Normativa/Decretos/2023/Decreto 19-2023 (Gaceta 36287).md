@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 19-2023, 31-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230721-36287/download"
 extraido: "2026-11-14"
-huella: "87b493a747d01c0a"
+huella: "eaa871cf9cbd917b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 19-2023
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Condecorar al ciudadano JOHAN D A V I D R E Y E S C H Á V E Z , confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología.
+ARTÍCULO 1.- Condecorar al ciudadano JOHAN DAVID REYES CHÁVEZ, confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología.
 
 La Condecoración relacionada en el presente Artículo debe ser entregada en la fecha indicada por el Presidente del Poder Legislativo.
 

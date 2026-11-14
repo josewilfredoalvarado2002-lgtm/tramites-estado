@@ -11,7 +11,7 @@ paginas: "A. 14 - 20"
 sumario: "Acuerdo No. 4195-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240608-36555/download"
 extraido: "2026-11-14"
-huella: "3974ae2e72048141"
+huella: "61aa7cdecba81306"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 4195-SE-2023
@@ -39,7 +39,7 @@ CONSIDERANDO (3): Que el Código Civil en su Artículo 2206 establece: “Cuando
 
 CONSIDERANDO (4): Que el Estatuto del Docente Hondureño en su Artículo 9.- Son obligaciones del personal regulado por el Estatuto en mención: 1. Cumplir y hacer cumplir la Constitución de la República, las Leyes y Reglamentos que rigen el Sistema Educativo Nacional y otras Leyes relacionadas con el servicio.
 
-CONSIDERANDO (5): Que el Tribunal Superior de Cuentas (TSC), recomendó a la Secretaría de Estado en el Despacho de Educación; elaborar un Reglamento de Recuperación de Valores por pagos indebidos a los docentes, mediante informe No.01/2017-RLA, derivado de la denuncia No.0106-2015- 259 del periodo comprendido del 01 de enero de 2012 al 30 de junio de 2017.
+CONSIDERANDO (5): Que el Tribunal Superior de Cuentas (TSC), recomendó a la Secretaría de Estado en el Despacho de Educación; elaborar un Reglamento de Recuperación de Valores por pagos indebidos a los docentes, mediante informe No. 01/2017-RLA, derivado de la denuncia No. 0106-2015-259 del periodo comprendido del 01 de enero de 2012 al 30 de junio de 2017.
 
 CONSIDERANDO (6): Créase el presente Reglamento por la necesidad de la Secretaría de Educación de recuperación fondos por pagos indebidos a docentes y regular la aplicación de controles administrativos de acuerdo a lo que establece los Artículos 43, 49, 51, 52, 54 y 55 del Estatuto del Docente Hondureño y el artículo 39, 79 y 89 de la Ley Orgánica del Tribunal Superior de Cuentas.
 

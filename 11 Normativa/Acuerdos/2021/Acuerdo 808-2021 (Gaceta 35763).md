@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdos Ejecutivos números 378-2021, 788-2021, 790-2021, 808-2021, 809-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211104-35763/download"
 extraido: "2026-11-14"
-huella: "13c3e958d671704a"
+huella: "db356db02de9a8b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 808-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquel ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM-155- 2021 de fecha 22 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Finanzas y Presupuesto, únicamente por el período del veintiséis (26) octubre, de dos mil veintiuno (2021); para atender varias reuniones sobre temas presupuestarios en Casa Presidencial; debido a que el Licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, asistirá a las reuniones de la Quinta Misión de Revisión del Programa con el Fondo Monetario Internacional (FMI), junto al Gabinete Económico, en el viaje oficial a la ciudad de Washington D.C., Estados Unidos.
+CONSIDERANDO: Que mediante Memorando DM-155-2021 de fecha 22 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Finanzas y Presupuesto, únicamente por el período del veintiséis (26) octubre, de dos mil veintiuno (2021); para atender varias reuniones sobre temas presupuestarios en Casa Presidencial; debido a que el Licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, asistirá a las reuniones de la Quinta Misión de Revisión del Programa con el Fondo Monetario Internacional (FMI), junto al Gabinete Económico, en el viaje oficial a la ciudad de Washington D.C., Estados Unidos.
 
 POR TANTO:
 

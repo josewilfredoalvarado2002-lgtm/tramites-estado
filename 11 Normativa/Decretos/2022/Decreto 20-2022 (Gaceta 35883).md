@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Decretos Nos. 18-2022, 19-2022, 20-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220326-35883/download"
 extraido: "2026-11-14"
-huella: "282228b76e1fb1d9"
+huella: "e117375f160ce77e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 20-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que es necesario actualizar el marco jurídico del Tribunal Superi
 
 CONSIDERANDO: Que el Presupuesto General de Ingresos y Egresos de la República, incluyendo las Disposiciones Generales de éste, son esencialmente transitorias y vigentes únicamente mientras dura el ejercicio fiscal correspondiente, razón por lo cual, no pueden incluir disposiciones que afecten la legislación secundaria debido que su duración es indeterminada.
 
-CONSIDERANDO: En vista que en fecha 30 de enero del año 2019 mediante Resolución por unanimidad de votos de la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ), declaró inconstitucional por razón de forma el Artículo 238 contenido en el Decreto Legislativo No.141-2017 de fecha 18 de Enero del año 2018, publicado en el Diario Oficial “La Gaceta” No.34,546, y la Fe de Erratas del mismo publicado en el Diario Oficial “La Gaceta” de fecha 26 de Enero de 2018, Edición No. 34,552. En cumplimiento a lo ordenado en la resolución, publicado en el Diario Oficial “La Gaceta” No. 34,862 en fecha 4 de Febrero del año 2019.
+CONSIDERANDO: En vista que en fecha 30 de enero del año 2019 mediante Resolución por unanimidad de votos de la Sala de lo Constitucional de la Corte Suprema de Justicia (CSJ), declaró inconstitucional por razón de forma el Artículo 238 contenido en el Decreto Legislativo No. 141-2017 de fecha 18 de Enero del año 2018, publicado en el Diario Oficial “La Gaceta” No. 34,546, y la Fe de Erratas del mismo publicado en el Diario Oficial “La Gaceta” de fecha 26 de Enero de 2018, Edición No. 34,552. En cumplimiento a lo ordenado en la resolución, publicado en el Diario Oficial “La Gaceta” No. 34,862 en fecha 4 de Febrero del año 2019.
 
 CONSIDERANDO: Que para que el Tribunal Superior de Cuentas (TSC), logre el efectivo cumplimiento de sus atribuciones es necesario reformar su Ley Orgánica, a efecto de armonizar sus preceptos con la Constitución de la República, la Convención Interamericana Contra la Corrupción, los demás convenios suscritos por Honduras al efecto y otras leyes de la Administración Pública.
 
@@ -53,13 +53,13 @@ DECRETA:
 
 ARTÍCULO 1.- Ordénese el cumplimiento inmediato de la sentencia de fecha 30 de Enero del año 2019 de la Sala de lo Constitucional, donde se declara la inconstitucional por razón de forma del
 
-Artículo 238 contenido en el Decreto Legislativo No.141-2017, emitido por el Congreso Nacional en fecha 18 de Enero del año 2018, publicado en el Diario Oficial “La Gaceta” No.34,546, y la Fe de Erratas del mismo, contenido en el Diario Oficial “La Gaceta” No.34,552. La sentencia se publicó en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del año 2019, en “La Gaceta” No.34,862.
+Artículo 238 contenido en el Decreto Legislativo No. 141-2017, emitido por el Congreso Nacional en fecha 18 de Enero del año 2018, publicado en el Diario Oficial “La Gaceta” No. 34,546, y la Fe de Erratas del mismo, contenido en el Diario Oficial “La Gaceta” No. 34,552. La sentencia se publicó en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del año 2019, en “La Gaceta” No. 34,862.
 
 #### Artículo 2
 
 ARTÍCULO 2.- Ordenar al TRIBUNAL SUPERIOR DE CUENTAS (TSC) que en un plazo máximo de QUINCE (15) DÍAS remita al MINISTERIO PÚBLICO
 
-(MP) todos los expedientes recibidos al amparo del Artículo 131-A del Decreto Legislativo No.83-2004 de fecha 28 de Mayo del año 2004, mismos que deben ser remitidos al ente investigador en el estado procesal en que se encuentren a la fecha de publicación del presente Decreto Legislativo.
+(MP) todos los expedientes recibidos al amparo del Artículo 131-A del Decreto Legislativo No. 83-2004 de fecha 28 de Mayo del año 2004, mismos que deben ser remitidos al ente investigador en el estado procesal en que se encuentren a la fecha de publicación del presente Decreto Legislativo.
 
 #### Artículo 3
 

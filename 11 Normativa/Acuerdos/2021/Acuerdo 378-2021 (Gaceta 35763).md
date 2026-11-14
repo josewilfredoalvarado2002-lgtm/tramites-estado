@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Ejecutivos números 378-2021, 788-2021, 790-2021, 808-2021, 809-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211104-35763/download"
 extraido: "2026-11-14"
-huella: "6790ed7b829acf3b"
+huella: "8bc13611d95c77ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 378-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que según Testimonio del Instrumento número setenta y uno (71) d
 
 PRIMERO: EL SEÑOR PROCURADOR, que su representado El ESTADO DE HONDURAS es dueño del siguiente lote de terreno: “LOTE NO. 8 DEL BLOQUE “D” Del Hito 16 al 15 con una distancia de 6.98 metros rumbo sur 15 grados, 58 minutos 01 segundos Este, del Hito 15 al 11 con una distancia de 19.00 metros rumbo Norte 75 grados, 06 minutos 45 segundos Este, del Hito 11 al 10 con una distancia de 8.02 metros, rumbo Norte 16 grados, 14 minutos 06 segundos Oeste, del Hito 10 al 16 con una distancia de 18.97 metros, rumbo Sur 71 grados, 58 minutos 29 segundos Oeste, CON UNA AREA SUPERFICIAL DE CIENTO CUARENTA Y DOS PUNTO VEINTISIETE METROS CUADRADOS (142.27 mts2).- Con las colindancias siguientes: Al Norte: con lote número nueve (9) del mismo bloque “D”; Al Sur; Con lote número siete (7) del mismo bloque “D”; Al Este, con lote número cinco (5) del mismo bloque “D”; y Al Oeste, con lote número cinco (5) del bloque “E” calle de por medio; el cual forma parte de uno de mayor extensión ubicado en la Finca Viera ahora NUEVO BARRIO DE VIERA, el inmueble lo obtuvo por adjudicación judicial que le hiciera el Juzgado de Letras Primero de lo Civil de este departamento, en la demanda ejecutiva promovida por la Dirección General de Tributación dependencia de la Secretaría de Estado en los Despachos de Hacienda y Crédito Público en contra de los señores Manuel David Agurcia Ugarte y Roberto Agurcia Ugarte.- Inscrito bajo Asiento No. 28 del Tomo 130 y la remedida e Individualización bajo No. 33 del Tomo 2,595 ambos del Registro de la Propiedad Inmueble y Mercantil de este departamento”.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 047-2015 de fecha 02 de septiembre de 2015 publicado en el Diario Oficial “La Gaceta” en fecha 14 de septiembre del 2015 establece en su artículo 4 numeral
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-047-2015 de fecha 02 de septiembre de 2015 publicado en el Diario Oficial “La Gaceta” en fecha 14 de septiembre del 2015 establece en su artículo 4 numeral
 
 \2) lo siguiente: “Autorizar de acuerdo al Reglamento respectivo las altas, bajas, transferencias, donaciones, permutas y la venta en pública subasta de bienes fiscales” y en el mismo orden de ideas el artículo 8 párrafo primero preceptúa:
 
@@ -65,7 +65,7 @@ CONSIDERANDO: Que el artículo 228 de la Constitución de la República establec
 
 CONSIDERANDO: Que el artículo 19 de la Ley Orgánica de la Procuraduría General de la República establece que “La sección de Procuraduría tendrá a su cargo la personería del Estado, y serán ejercidas por el Procurador General de la República en el cumplimiento de las siguientes atribuciones: … 3. Comparecer en representación del Estado, conforme a las instrucciones del Poder Ejecutivo, y al otorgamiento de los actos o contratos en que estuviere interesada la Nación…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043- 2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo.
 
 Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 

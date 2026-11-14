@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. SAG-041-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220209-35844/download"
 extraido: "2026-11-14"
-huella: "c699a6fe9155a46f"
+huella: "974114d1de728b79"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-041-2022
@@ -41,9 +41,7 @@ CONSIDERANDO: Que habiéndose creado las Cadenas Agroalimentarias por Rubro y es
 
 CONSIDERANDO: Que la Cadena Hortícola del Rubro de la Cebolla, cuenta con su Comité Hortícola del Rubro de la Cebolla, como espacio de discusión y diálogo para la toma de decisiones de interés nacional para el abastecimiento de la cebolla a los consumidores.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No. 042-2016, de fecha 21 de junio de 2016, la Secretaría de Desarrollo Económico, reformó el Acuerdo Ministerial No.
-
-009-2015, eliminando del Artículo 2, el Inciso f) y del Artículo 3, el Inciso h. Acuerdos que regulan el procedimiento para la gestión, emisión y obtención de licencias de importación de Cebollas.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 042-2016, de fecha 21 de junio de 2016, la Secretaría de Desarrollo Económico, reformó el Acuerdo Ministerial No. 009-2015, eliminando del Artículo 2, el Inciso f) y del Artículo 3, el Inciso h. Acuerdos que regulan el procedimiento para la gestión, emisión y obtención de licencias de importación de Cebollas.
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Agricultura y Ganadería, los miembros del Comité de Hecho de la Cadena Hortícola del Rubro de la Cebolla, así como importadores y comercializadores, durante los años 2020, 2021 y el presente año, se han regido por el denominado Reglamento Interno del Comité de la Cadena Hortícola del Rubro de la Cebolla, el cual fue aprobado y suscrito por la mayoría de los miembros en la reunión llevada a cabo en la ciudad de Sinuapa, departamento de Ocotepeque en fecha 31 de enero del 2020.
 

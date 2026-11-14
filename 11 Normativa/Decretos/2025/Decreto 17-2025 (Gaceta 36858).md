@@ -11,7 +11,7 @@ paginas: "A. 47 - 63"
 sumario: "Decretos Nos. 16-2025, 17-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250607-36858/download"
 extraido: "2026-11-10"
-huella: "bfc048287622acb9"
+huella: "5bad30f4c285212c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 17-2025
@@ -29,7 +29,7 @@ huella: "bfc048287622acb9"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, contenida en el Decreto No.17-2010 del 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 23 de Abril de 2010, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo;
+CONSIDERANDO: Que la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, contenida en el Decreto No. 17-2010 del 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 23 de Abril de 2010, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo;
 
 Aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que el Plan de Gobierno para la Refundación de la Patria y la con
 
 CONSIDERANDO: Que la Política de Estado del Sector Agroalimentario de Honduras 2023-2043 se orientó en la prioridad de lograr seguridad alimentaria, e incursionar en mejorar las cifras de soberanía alimentaria para los principales productos de la dieta alimenticia del hondureño, sin olvidar el potencial de agro industrialización e incremento de la comercialización nacional e internacional.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.15882P, suscrito el 13 de Diciembre de 2024, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del “Proyecto para el Fortalecimiento de la Innovación, Resiliencia y Sostenibilidad de los Sistemas Agroalimentarios en el Centro- Norte de Honduras (INNOVASAN)”, tiene por objetivo mejorar los ingresos, la seguridad alimentaria, nutricional y la resiliencia al cambio climático de las familias de los pequeños productores rurales en condición de vulnerabilidad y pobreza, con el desarrollo de sistemas agroalimentarios sensibles a la nutrición resilientes al cambio climático.
+CONSIDERANDO: Que el Contrato de Préstamo No. 15882P, suscrito el 13 de Diciembre de 2024, entre el Fondo OPEP para el Desarrollo Internacional, en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento para la ejecución del “Proyecto para el Fortalecimiento de la Innovación, Resiliencia y Sostenibilidad de los Sistemas Agroalimentarios en el Centro- Norte de Honduras (INNOVASAN)”, tiene por objetivo mejorar los ingresos, la seguridad alimentaria, nutricional y la resiliencia al cambio climático de las familias de los pequeños productores rurales en condición de vulnerabilidad y pobreza, con el desarrollo de sistemas agroalimentarios sensibles a la nutrición resilientes al cambio climático.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 19) de la Constitución de la República; es potestad del Congreso Nacional: Aprobar o improbar los contratos que lleven involucrados exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos el siguiente período de Gobierno de la República.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
@@ -61,15 +61,15 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO DE PRÉSTAMO
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
-PRÉSTAMO No.15882P. PROYECTO
+PRÉSTAMO No. 15882P. PROYECTO
 
-FORTALECIMIENTO DE LA INNOVACIÓN, RESILIENCIA Y S O S T E N I B I L I D A D D E L O S SISTEMAS AGROALIMENTARIOS EN EL CENTRO-NORTE DE HONDURAS – INNOVASAN.
+FORTALECIMIENTO DE LA INNOVACIÓN, RESILIENCIA Y SOSTENIBILIDAD DE LOS SISTEMAS AGROALIMENTARIOS EN EL CENTRO-NORTE DE HONDURAS – INNOVASAN.
 
 CONTRATO DE PRÉSTAMO ENTRE EL FONDO DE LA OPEP PARA EL DESARROLLO INTERNACIONAL Y LA REPÚBLICA DE HONDURAS.
 
 ACUERDO entre el Fondo de la OPEP para el Desarrollo Internacional (“Fondo OPEP”) y la República de Honduras (“Prestatario”). Considerando que el Prestatario ha solicitado un préstamo del Fondo de la OPEP para el financiamiento parcial del Proyecto descrito en el Anexo 1; y Considerando que el Fondo de la OPEP ha aprobado un préstamo al Prestatario por un monto de quince millones de dólares ($15,000,000) en los términos y condiciones establecidos a continuación (“Préstamo”). Por lo tanto, las partes de este Contrato de Préstamo (“Acuerdo”) acuerdan lo siguiente:
 
-A r t í c u l o 1 . C O N D I C I O N E S GENERALES; DEFINICIONES. 1.01.
+Artículo 1 . CONDICIONES GENERALES; DEFINICIONES. 1.01.
 
 Las Condiciones Generales adjuntas al presente documento constituirán parte integral del presente Acuerdo. 1.02.
 
@@ -105,7 +105,7 @@ Fax: (504) 2237-4142 Correo electrónico: dgcp@sefin.gob.hn
 
 Artículo 5. GOBERNANZA DEL PROYECTO. 5.01 El Prestatario, a través del Organismo de Ejecución, se asegurará de que las actividades de adquisición que se realicen en el marco del Préstamo cumplan con los requisitos de contratación del Fondo Internacional de Desarrollo Agrícola.
 
-PRÉSTAMO No.15882P. EN FE DE LO CUAL, las partes del presente, actuando a través de sus representantes debidamente autorizados, han hecho que este Acuerdo sea firmado y entregado mediante intercambio de correspondencia en dos contrapartes en el idioma inglés, cada uno considerado original y ambos con el mismo y un solo efecto a partir de la Fecha del Acuerdo.
+PRÉSTAMO No. 15882P. EN FE DE LO CUAL, las partes del presente, actuando a través de sus representantes debidamente autorizados, han hecho que este Acuerdo sea firmado y entregado mediante intercambio de correspondencia en dos contrapartes en el idioma inglés, cada uno considerado original y ambos con el mismo y un solo efecto a partir de la Fecha del Acuerdo.
 
 PARA EL FONDO DE LA OPEP PARA EL DESARROLLO INTERNACIONAL:
 

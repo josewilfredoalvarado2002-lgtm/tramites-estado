@@ -11,7 +11,7 @@ paginas: "A. 5 - 11"
 sumario: "Certificación del Acuerdo No. CU-E-025-03-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210521-35605/download"
 extraido: "2026-11-14"
-huella: "50484db138e033b0"
+huella: "e8d09656484ee4cb"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -37,9 +37,7 @@ Que es atribución del Consejo Universitario ejercer la potestad reglamentaria e
 
 CONSIDERANDO: Que, en la Sesión Ordinaria del 25 de septiembre de 2020, se conoció la propuesta de Reglamento de Pluses de la UNAH, presentado por la Secretaría Ejecutiva de Desarrollo de Personal.
 
-CONSIDERANDO: Que el Consejo Universitario cuando se trata de asuntos importantes y específicos, ya sean técnicos, académicos o administrativos y en los que se requiera mayor información y dominio para la adecuada toma de decisiones del pleno, integra comisiones especializadas de su seno, por lo que según Acuerdo N°.
-
-CU-O-072-09-2020, nombró una Comisión de Dictamen integrada por el DR. NABIL KAWAS, Decano de la Facultad de Ciencias; DRA. MARTHA LORENA SUAZO, Decana de la Facultad de Ciencias Sociales y el DR. ODIR AARON FERNÁNDEZ, Representante Suplente por el Claustro de Profesores de la Facultad de Ciencias Jurídicas, quienes elaboraron el dictamen respectivo y lo presentaron al pleno de este honorable Consejo Universitario. CONSIDERANDO: Que es responsabilidad de las más altas autoridades de la UNAH establecer un sistema de remuneración, cuando del ejercicio de actividades académicas de los docentes sobrevengan compromisos de gestión académica administrativa; siempre que los mismos se encuentren amparados en los procesos previamente establecidos en la leyes, reglamentos y acuerdos emitidos por la Universidad. CONSIDERANDO:
+CONSIDERANDO: Que el Consejo Universitario cuando se trata de asuntos importantes y específicos, ya sean técnicos, académicos o administrativos y en los que se requiera mayor información y dominio para la adecuada toma de decisiones del pleno, integra comisiones especializadas de su seno, por lo que según Acuerdo N°. CU-O-072-09-2020, nombró una Comisión de Dictamen integrada por el DR. NABIL KAWAS, Decano de la Facultad de Ciencias; DRA. MARTHA LORENA SUAZO, Decana de la Facultad de Ciencias Sociales y el DR. ODIR AARON FERNÁNDEZ, Representante Suplente por el Claustro de Profesores de la Facultad de Ciencias Jurídicas, quienes elaboraron el dictamen respectivo y lo presentaron al pleno de este honorable Consejo Universitario. CONSIDERANDO: Que es responsabilidad de las más altas autoridades de la UNAH establecer un sistema de remuneración, cuando del ejercicio de actividades académicas de los docentes sobrevengan compromisos de gestión académica administrativa; siempre que los mismos se encuentren amparados en los procesos previamente establecidos en la leyes, reglamentos y acuerdos emitidos por la Universidad. CONSIDERANDO:
 
 Que el Reglamento de Plus o Sobresueldos por Gestión Académica Administrativa es un documento normativo, el cual describe los alcances, montos, beneficiarios y procedimientos a seguir para el otorgamiento de las remuneraciones temporales a los docentes que realicen gestión académica. CONSIDERANDO: Que la UNAH es una institución comprometida con los derechos sociales de los que cada uno de sus trabajadores gozan, principalmente el personal docente que en el ejercicio de sus funciones realizan actividades docentes de gestión administrativa.
 

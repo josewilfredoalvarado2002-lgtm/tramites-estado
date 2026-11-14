@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200627-35296/download"
 extraido: "2026-11-14"
-huella: "e4ce62f9bf7e827f"
+huella: "1f7af02b4a90f178"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -39,7 +39,7 @@ Igualmente, garantiza el derecho a la protección y promoción de la salud por l
 
 CONSIDERANDO: Que el Consejo de Secretarios de Estado, presidido por el Presidente de la República, ha desarrollado mesas de trabajo para analizar el impacto de todas las medidas aprobadas en el ámbito sanitario, para salvar vidas ante la Pandemia del Coronavirus (COVID-19), decisiones en el ámbito económico y las medidas de seguridad para resguardar a la población.
 
-CONSIDERANDO: Que a fin de afrontar los desafíos que plantea la crisis provocada por la Pandemia del COVID-19, mediante Decreto No.33-2020, se aprobó la Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Nos. 77-2020, 79-2020, 81-2020 A. 1 - 11 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREE Acuerdo CREE - 065 A. 12-16 LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, la cual en su Artículo 19, autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL), Inversión Estratégica de Honduras (INVEST- Honduras) y la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales para la contratación en forma directa de las obras, bienes y servicios que considere necesarios para la contención, atención y mitigación de los efectos sanitarios, económicos y sociales derivados de la Pandemia provocada por el virus COVID-19.
+CONSIDERANDO: Que a fin de afrontar los desafíos que plantea la crisis provocada por la Pandemia del COVID-19, mediante Decreto No. 33-2020, se aprobó la Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Nos. 77-2020, 79-2020, 81-2020 A. 1 - 11 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREE Acuerdo CREE - 065 A. 12-16 LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19, la cual en su Artículo 19, autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL), Inversión Estratégica de Honduras (INVEST- Honduras) y la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales para la contratación en forma directa de las obras, bienes y servicios que considere necesarios para la contención, atención y mitigación de los efectos sanitarios, económicos y sociales derivados de la Pandemia provocada por el virus COVID-19.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-056-2019, publicado en el Diario Oficial “La Gaceta”, Edición No. 35,047 en fecha 12 de Septiembre del 2019, se crea la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), la cual debe promover el Desarrollo Comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos, en alianza con gobiernos locales y socios estratégicos, para mejorar la calidad de vida de la población más pobre y vulnerable de Honduras.
 
@@ -49,13 +49,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el preámbulo de la Sección Quinta y el Artículo 19 del Decreto No.
-
-33-2020 de fecha 2 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19”, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en su Edición No.35,217, el cual, de ahora en adelante, debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el preámbulo de la Sección Quinta y el Artículo 19 del Decreto No. 33-2020 de fecha 2 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19”, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en su Edición No. 35,217, el cual, de ahora en adelante, debe leerse de la manera siguiente:
 
 “SECCIÓN QUINTA AUTORIZACIÓN A LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD, INVERSIÓN ESTRATÉGICA DE HONDURAS, SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES, Y LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO PARA HACER CONTRATACIÓN DIRECTA FRENTE A LOS REQUERIMIENTOS DE LAS INSTITUCIONES PÚBLICAS ANTE LA EMERGENCIA NACIONAL” “ARTÍCULO 19.- Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL), Inversión Estratégica de Honduras (INVEST- Honduras), Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales y la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento (SEDECOAS), quien administra al Instituto de Desarrollo Comunitario, Agua y Saneamiento (IDECOAS), Fondo Hondureño de Inversión Social (FHIS), Programa Nacional de Desarrollo Rural y Sostenible (PRONADERS), para la contratación en forma directa de las obras, bienes y servicios que considere necesarios para la contención, atención y mitigación de los efectos sanitarios, económicos y sociales derivados de la Pandemia provocada por el virus COVID-19”.
 

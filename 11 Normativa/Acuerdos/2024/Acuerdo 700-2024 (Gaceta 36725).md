@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Ejecutivos Números 699-2024, 700-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241227-36725/download"
 extraido: "2026-11-14"
-huella: "9f858004fa0e9b9d"
+huella: "2b9597f07aa02270"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 700-2024
@@ -41,7 +41,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -53,7 +53,7 @@ Que el Gobierno de la República ha implementado una serie de medidas y acciones
 
 CONSIDERANDO:
 
-Que el Plan de Gobierno de la Presidenta Xiomara Castro 2022- 2026 dentro de las propuestas de un modelo económico alternativo con crecimiento económico y desarrollo para todos y todas contiene la propuesta de rescate de y fortalecimiento del Banco Nacional de Desarrollo Agrícola (BANADESA) para proveer a la pequeña y mediana producción agrícola, el otorgamiento de créditos y garantías en condiciones flexibles.
+Que el Plan de Gobierno de la Presidenta Xiomara Castro 2022-2026 dentro de las propuestas de un modelo económico alternativo con crecimiento económico y desarrollo para todos y todas contiene la propuesta de rescate de y fortalecimiento del Banco Nacional de Desarrollo Agrícola (BANADESA) para proveer a la pequeña y mediana producción agrícola, el otorgamiento de créditos y garantías en condiciones flexibles.
 
 CONSIDERANDO:
 

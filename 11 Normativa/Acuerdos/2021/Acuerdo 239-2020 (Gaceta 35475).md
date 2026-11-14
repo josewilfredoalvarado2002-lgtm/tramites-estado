@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Acuerdos Ministeriales Nos. 236-2020, 237-2020, (Acuerdo 239-2020), 240-2020, 241-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210102-35475/download"
 extraido: "2026-11-14"
-huella: "c258261037d6ef03"
+huella: "975badefdd4602a4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 239-2020
@@ -31,7 +31,7 @@ LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que corresponde a la Secretaría de Desarrollo Económico lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con el fomento y desarrollo del comercio nacional e internacional de bienes y servicios y la integración económica.
 
-CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No.150-2019, de fecha cuatro de diciembre de 2019, aprobó en todas sus partes el Acuerdo por el que se establece una Asociación entre el Reino Unido de Gran Bretaña e Irlanda del Norte y Centroamérica (el Acuerdo) suscrito en Managua, Nicaragua el día 18 de julio del 2019 siendo el Decreto de aprobación publicado en el Diario Oficial “La Gaceta” en fecha 28 de enero de 2020.
+CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No. 150-2019, de fecha cuatro de diciembre de 2019, aprobó en todas sus partes el Acuerdo por el que se establece una Asociación entre el Reino Unido de Gran Bretaña e Irlanda del Norte y Centroamérica (el Acuerdo) suscrito en Managua, Nicaragua el día 18 de julio del 2019 siendo el Decreto de aprobación publicado en el Diario Oficial “La Gaceta” en fecha 28 de enero de 2020.
 
 CONSIDERANDO: Que mediante Nota No. ESS 30-20 del 17 de diciembre de 2020 la Embajada Británica en San Salvador notificó a la Secretaría General del Sistema de Integración Económica Centroamericana (SG-SICA), que reconoce que los Gobiernos de Centroamérica han depositado en dicha Secretaría el Acuerdo Reino Unido- Centroamérica lo cual de conformidad con el Artículo
 
@@ -49,7 +49,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investida y de conformidad con los Artículo 80, 321 y 331 de la Constitución de la República de Honduras;
 
-Artículos 36 numerales 2) y 8), 116 y 118, de la Ley General de Administración Pública ; 46 y 47 de la Ley de Procedimiento Administrativo; Artículos 23 y 24 del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
+Artículos 36 numerales 2) y 8), 116 y 118, de la Ley General de Administración Pública; 46 y 47 de la Ley de Procedimiento Administrativo; Artículos 23 y 24 del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo No. 150-2019 de fecha 04 de diciembre de 2019.
 
 ACUERDA:
 

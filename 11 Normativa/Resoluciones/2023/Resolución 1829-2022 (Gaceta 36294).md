@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Certificación, Resolución No. 1829-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230729-36294/download"
 extraido: "2026-11-14"
-huella: "920f491a497bdb33"
+huella: "0d35454cf7ec09d8"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1829-2022
@@ -29,7 +29,7 @@ huella: "920f491a497bdb33"
 
 El Suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, CERTIFICA: La Resolución que literalmente dice: RESOLUCION No. 1829-2022. SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACION JUSTICIA Y DESCENTRALIZACION, Tegucigalpa, municipio del Distrito Central, catorce de diciembre del año dos mil veintidós.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de septiembre del año dos mil veintidós, misma que corre a Expediente No. PJ- 02092022-542, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SANTA CRUZ, ALDEA SAN RAFAEL”, con domicilio en la Comunidad de Santa Cruz, Aldea de San Rafael, municipio de Nacaome, Departamento de Valle, contraído a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de septiembre del año dos mil veintidós, misma que corre a Expediente No. PJ-02092022-542, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SANTA CRUZ, ALDEA SAN RAFAEL”, con domicilio en la Comunidad de Santa Cruz, Aldea de San Rafael, municipio de Nacaome, Departamento de Valle, contraído a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes.
 

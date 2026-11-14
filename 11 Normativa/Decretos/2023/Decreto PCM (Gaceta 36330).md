@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo Número PCM 40-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230909-36330/download"
 extraido: "2026-11-14"
-huella: "c487d845e8eb71f4"
+huella: "e96a00eb38c767d8"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 40-2023
@@ -53,7 +53,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. En virtud de la Declaratoria de ESTADO DE EMERGENCIA SANITARIA en todo sistema de salud pública a nivel nacional por el año 2023, aprobada mediante los Decretos Ejecutivos número PCM 16-2022 y PCM 04- 2023; SE AUTORIZA al Fondo Hondureño de Inversión Social (FHIS), a realizar la contratación directa de bienes, servicios, tales como: obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros, que sean necesarios para el desarrollo del Complejo Científico Industrial de Honduras, y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LABHONDURAS), cuyo objetivo es la provisión de servicios, abastecimiento, fabricación y producción de medicamentos, con dispositivos médicos de última generación, que faciliten los análisis genéticos y moleculares así como la fabricación de prototipos de salud para poder brindar una oportuna atención a toda la población hondureña.
+ARTÍCULO 1. En virtud de la Declaratoria de ESTADO DE EMERGENCIA SANITARIA en todo sistema de salud pública a nivel nacional por el año 2023, aprobada mediante los Decretos Ejecutivos número PCM 16-2022 y PCM 04-2023; SE AUTORIZA al Fondo Hondureño de Inversión Social (FHIS), a realizar la contratación directa de bienes, servicios, tales como: obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros, que sean necesarios para el desarrollo del Complejo Científico Industrial de Honduras, y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LABHONDURAS), cuyo objetivo es la provisión de servicios, abastecimiento, fabricación y producción de medicamentos, con dispositivos médicos de última generación, que faciliten los análisis genéticos y moleculares así como la fabricación de prototipos de salud para poder brindar una oportuna atención a toda la población hondureña.
 
 Lo anterior, en estricto cumplimiento de los requisitos y procedimientos establecidos en la Ley de Contratación del Estado y demás legislación aplicable, y de acuerdo al presupuesto que para tal efecto tenga disponible o le sea asignado al Fondo Hondureño de Inversión Social (FHIS).
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo de Donación No. 2260800"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240409-36504/download"
 extraido: "2026-11-14"
-huella: "64f29c642c66a2ab"
+huella: "2ea0942e3bc1df65"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DONACIÓN No. 2260800
@@ -67,9 +67,9 @@ AGENCIA DE COOPERACIÓN INTERNACIONAL DEL JAPÓN
 
 Oficina de JICA en Honduras Octavo Nivel, Edificio Corporativo “777”, Colonia Las Lomas del Guijarro Sur, Tegucigalpa, M.D.C.; HONDURAS Atención: Representante Residente con una copia a:
 
-J A P A N I N T E R N A T I O N A L COOPERATION AGENCY
+JAPAN INTERNATIONAL COOPERATION AGENCY
 
-Financial Cooperation Implementation Department 5-25, Niban-cho, Chiyoda-ku, Tokyo 102- 8012, JAPAN Atención: Director General Para el Receptor Dirección postal:
+Financial Cooperation Implementation Department 5-25, Niban-cho, Chiyoda-ku, Tokyo 102-8012, JAPAN Atención: Director General Para el Receptor Dirección postal:
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD
 

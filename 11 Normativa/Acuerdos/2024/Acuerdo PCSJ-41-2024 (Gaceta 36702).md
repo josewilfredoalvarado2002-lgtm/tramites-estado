@@ -11,7 +11,7 @@ paginas: "A. 5 - 9"
 sumario: "Acuerdos Nos. PCSJ-40-2024,PCSJ-41-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241129-36702/download"
 extraido: "2026-11-14"
-huella: "3565b4582326fc38"
+huella: "151ea3ad083227b3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. PCSJ-41-2024
@@ -61,7 +61,7 @@ Decimotercero. Con la abrogación de la Ley del Consejo de la Judicatura y la Ca
 
 Parte Dispositiva Esta Presidencia de la Corte Suprema de Justicia, en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A C U E R D A
+ACUERDA
 
 Primero. Crear el Observatorio de Justicia y Género, el cual tendrá como objetivo principal la recopilación, análisis, sistematización y difusión de información relativa al acceso a la justicia, la interpretación y aplicación del derecho desde una perspectiva de derechos humanos, género e interseccionalidad, con el fin de contribuir a la mejora de las decisiones judiciales y las políticas públicas en el ámbito judicial.
 

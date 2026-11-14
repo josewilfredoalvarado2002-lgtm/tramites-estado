@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 076-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260828-37232/download"
 extraido: "2026-11-09"
-huella: "2fdfa3f3973e0062"
+huella: "9644780f40f0e995"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 076-2026
@@ -61,9 +61,9 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que está investido y de conformidad con los Artículos 59, 80, 247 y 321 de la Constitución de la República de Honduras; 33, 36 numeral 1, 6, 8, 118 y 119 de la Ley General de la Administración Pública;
 
-23 y 24 del Reglamento de Organización, Funcionamiento del Poder Ejecutivo; Decreto Ley No.549 publicado 24 de noviembre de 1977 se emitió la Ley de Representantes, Distribuidores y Agentes de Empresas Nacionales y Extranjeras; Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas, PCM-086-2020 contentivo del Reglamento sobre el Gobierno Electrónico; y, Decreto publicado en fecha 26 de septiembre de 2020 en el Diario Oficial “La Gaceta”.
+23 y 24 del Reglamento de Organización, Funcionamiento del Poder Ejecutivo; Decreto Ley No. 549 publicado 24 de noviembre de 1977 se emitió la Ley de Representantes, Distribuidores y Agentes de Empresas Nacionales y Extranjeras; Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas, PCM-086-2020 contentivo del Reglamento sobre el Gobierno Electrónico; y, Decreto publicado en fecha 26 de septiembre de 2020 en el Diario Oficial “La Gaceta”.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Implementar en la plataforma de Servicios al Ciudadano en Línea (SOL), las solicitudes de Autorización y Registro de Licencias bajo la Ley de Representantes, Distribuidores y Agentes, y bajo el Tratado de Libre Comercio (RD-CAFTA) con el propósito de agilizar y facilitar el acceso de los usuarios, promoviendo la eficiencia en la gestión administrativa y el cumplimiento de los requisitos establecidos.
 

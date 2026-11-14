@@ -11,7 +11,7 @@ paginas: "A. 12 - 15"
 sumario: "Acuerdo Ministerial No. 066-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230803-36298/download"
 extraido: "2026-11-14"
-huella: "29a2160a31f744fc"
+huella: "80bb872af971d984"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 066-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería mediante Oficio SAG
 
 CONSIDERANDO: Que mediante el Oficio SAG-1039-2023 de fecha 22 de junio de 2023, la Secretaría de Agricultura y Ganadería, reconsidera el volumen del contingente de importación de jugo de concentrado de naranja indicado en el Oficio SAG-842-2023, recomendando un contingente de desabasto por 2,000,000 de kilogramos de concentrado de jugo de naranja, de conformidad a la solicitud recibida de la Asociación Hondureña de Procesadores de Leche (APROLECHE), y a la vez indica la necesidad de establecer la normativa y la regulación apropiada para la determinación de dichos contingentes.
 
-CONSIDERANDO: Que en fecha 14 de julio del año 2023, la Dirección General de Integración Económica y Política Comercial emitió Informe Técnico en base al Oficio SAG- 842-2023 de fecha 23 de mayo del año 2023 y Oficio SAG- 1039-2023 de fecha 22 de junio de 2023, emitidos por la Secretaría de Agricultura y Ganadería, pronunciándose de que es procedente la emisión del Acuerdo por medio el cual se establezca un contingente de importación por desabasto por un volumen de 2,000,000 de kilogramos de concentrado de jugo de naranja clasificado bajo la fracción arancelaria 2009.19.10.00 del Arancel Centroamericano de Importación (ACI), con un Derecho Arancelario de Importación (DAI) del cero por ciento (0%).
+CONSIDERANDO: Que en fecha 14 de julio del año 2023, la Dirección General de Integración Económica y Política Comercial emitió Informe Técnico en base al Oficio SAG-842-2023 de fecha 23 de mayo del año 2023 y Oficio SAG-1039-2023 de fecha 22 de junio de 2023, emitidos por la Secretaría de Agricultura y Ganadería, pronunciándose de que es procedente la emisión del Acuerdo por medio el cual se establezca un contingente de importación por desabasto por un volumen de 2,000,000 de kilogramos de concentrado de jugo de naranja clasificado bajo la fracción arancelaria 2009.19.10.00 del Arancel Centroamericano de Importación (ACI), con un Derecho Arancelario de Importación (DAI) del cero por ciento (0%).
 
 CONSIDERANDO: Que para garantizar que las empresas procesadoras puedan mantener abastecido el mercado nacional y los mercados de exportación, es necesario establecer un contingente arancelario por desabastecimiento para el concentrado de jugo naranja congelado con un DAI de 0% dentro del contingente.
 

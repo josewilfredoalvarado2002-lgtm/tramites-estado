@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 123-2021, 142-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220117-35824/download"
 extraido: "2026-11-14"
-huella: "caa592f9bda2ae04"
+huella: "bb062c0c50cd4c6a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 123-2021
@@ -69,7 +69,7 @@ ARTÍCULO 3.- Exenciones: Los Agentes del Mercado Eléctrico Nacional se except�
 
 #### Artículo 4
 
-ARTÍCULO 4.- Reformar por adición el Artículo 18-A de la LEY GENERAL DE MINERÍA, contenida en el Decreto No.238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta” el 2 de Abril 2013, en la Edición No.33,088 y sus reformas el cual deberá leerse de la manera siguiente:
+ARTÍCULO 4.- Reformar por adición el Artículo 18-A de la LEY GENERAL DE MINERÍA, contenida en el Decreto No. 238-2012 de fecha 23 de Enero de 2013 y publicado en el Diario Oficial “La Gaceta” el 2 de Abril 2013, en la Edición No. 33,088 y sus reformas el cual deberá leerse de la manera siguiente:
 
 “ARTÍCULO 18-A: Además de las operaciones y actividades preparatorias a que se refiere el Artículo precedente, las actividades de explotación comprenden:
 

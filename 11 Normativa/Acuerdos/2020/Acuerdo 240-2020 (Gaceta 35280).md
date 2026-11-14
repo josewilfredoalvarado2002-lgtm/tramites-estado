@@ -11,7 +11,7 @@ paginas: "A. 15"
 sumario: "Acuerdos Ejecutivos números 239-2020, 240-2020, 251-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200611-35280/download"
 extraido: "2026-11-14"
-huella: "e2ba0418831362a3"
+huella: "7c759db80caf098b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 240-2020
@@ -39,7 +39,7 @@ Que en fecha 10 de febrero de 2020 el Gobierno de la República mediante Decreto
 
 CONSIDERANDO:
 
-Que mediante Decreto No.33- 2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta del 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
+Que mediante Decreto No. 33-2020 de fecha 2 de abril de 2020, publicado en el Diario Oficial La Gaceta del 3 de abril de 2020, se aprobó la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19.
 
 CONSIDERANDO:
 

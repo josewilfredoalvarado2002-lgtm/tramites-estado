@@ -8,10 +8,10 @@ gaceta_numero: 35193
 gaceta_fecha: "2020-03-06"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35193 (2020-03-06)|La Gaceta 35193]]"
 paginas: "A. 5 - 8"
-sumario: "Acuerdo número-023-2019PODER EJECUTIVODecreto Ejecutivo número PCM-016-2020"
+sumario: "Acuerdo número-023-2019; PODER EJECUTIVO: Decreto Ejecutivo número PCM-016-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200306-35193/download"
 extraido: "2026-11-14"
-huella: "378b2565ae07a6ac"
+huella: "7ef57c28f156fef0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-016-2020
@@ -23,7 +23,7 @@ huella: "378b2565ae07a6ac"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35193 (2020-03-06)\|La Gaceta 35193]] del 2020-03-06 |
 | Páginas | A. 5 - 8 |
-| Según el sumario de La Gaceta | Acuerdo número-023-2019PODER EJECUTIVODecreto Ejecutivo número PCM-016-2020 |
+| Según el sumario de La Gaceta | Acuerdo número-023-2019; PODER EJECUTIVO: Decreto Ejecutivo número PCM-016-2020 |
 
 ## Texto
 
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Adm
 
 CONSIDERANDO: Que de conformidad con el Artículo 9 de la Ley de Contratación del Estado, la declaración del estado de emergencia se hará mediante Decreto del Presidente de la República en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 005-2020 de fecha 10 de febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-005-2020 de fecha 10 de febrero de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero de 2020, se declaró ESTADO DE EMERGENCIA SANITARIA, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
 
 CONSIDERANDO: Que la seguridad social es un instrumento del Estado al servicio de la justicia social, que tiene como finalidad garantizar el derecho humano a la salud, la asistencia médica, la protección de los medios de subsistencia y los servicios sociales necesarios para el logro del bienestar individual y colectivo.
 

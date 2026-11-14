@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 11-2022, 13-2022, 14-2022, 17-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220328-35884/download"
 extraido: "2026-11-14"
-huella: "4179bd460357bef0"
+huella: "4821b58867690115"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 11-2022
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Artículo 7 agregando un nuevo numeral bajo la denominación de “numeral 10)”, al Decreto Legislativo No.134-90, de fecha 29 de Octubre de 1990, contentivo de la LEY DE MUNICIPALIDADES, publicado en el Diario Oficial “La Gaceta”, del 19 de Noviembre de 1990, el cual, en adelante debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición el Artículo 7 agregando un nuevo numeral bajo la denominación de “numeral 10)”, al Decreto Legislativo No. 134-90, de fecha 29 de Octubre de 1990, contentivo de la LEY DE MUNICIPALIDADES, publicado en el Diario Oficial “La Gaceta”, del 19 de Noviembre de 1990, el cual, en adelante debe leerse de la manera siguiente:
 
 “ARTÍCULO 7.- Son atribuciones del Gobernador Departamental las siguientes:
 
@@ -71,7 +71,7 @@ ARTÍCULO 1.- Reformar por adición el Artículo 7 agregando un nuevo numeral ba
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición agregando el ARTÍCULO 7-A, al Decreto Legislativo No.134-90, del 29 de Octubre de 1990, contentivo de la LEY DE MUNICIPALIDADES, publicado en el Diario Oficial “La Gaceta”, el 19 de Noviembre de 1990, el cual, en adelante debe leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar por adición agregando el ARTÍCULO 7-A, al Decreto Legislativo No. 134-90, del 29 de Octubre de 1990, contentivo de la LEY DE MUNICIPALIDADES, publicado en el Diario Oficial “La Gaceta”, el 19 de Noviembre de 1990, el cual, en adelante debe leerse de la manera siguiente:
 
 “ARTÍCULO 7-A.- El Gobernador Departamental, en conjunto con la Corporación Municipal en cabildo abierto, puede nombrar y renombrar las plazas, calles y avenidas comprendidas a lo interno de la jurisdicción departamental de que se trate, debiendo tomar en consideración la asignación de nombre a partir de las directrices siguientes:
 

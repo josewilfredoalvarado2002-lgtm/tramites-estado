@@ -8,7 +8,7 @@ gaceta_numero: 36136
 gaceta_fecha: "2023-01-23"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)|La Gaceta 36136]]"
 paginas: "A. 6"
-sumario: "Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023"
+sumario: "Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230123-36136/download"
 extraido: "2026-11-14"
 huella: "806331a1f497de61"
@@ -23,7 +23,7 @@ huella: "806331a1f497de61"
 | Emisor | Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)\|La Gaceta 36136]] del 2023-01-23 |
 | Páginas | A. 6 |
-| Según el sumario de La Gaceta | Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023 |
 
 ## Texto
 

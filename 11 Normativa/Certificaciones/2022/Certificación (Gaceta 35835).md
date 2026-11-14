@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220129-35835/download"
 extraido: "2026-11-14"
-huella: "1a2ffb265b421008"
+huella: "a1d8cd85f2317a07"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "1a2ffb265b421008"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 948-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Cental, departamento de Francisco Morazán, dieciocho de mayo del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintidós de febrero del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 22022021-135, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apodrada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA MONTE FRESCO, MUNICIPIO DE SIGUATEPEQUE, DEPARTAMENTO DE COMAYAGUA, con domicilio en la colonia Monte, municipio de Siguatepeque, departamento de Comayagua, contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintidós de febrero del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-22022021-135, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apodrada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA MONTE FRESCO, MUNICIPIO DE SIGUATEPEQUE, DEPARTAMENTO DE COMAYAGUA, con domicilio en la colonia Monte, municipio de Siguatepeque, departamento de Comayagua, contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -39,7 +39,7 @@ MOTIVACIÓN FÁCTICA Y JURÍDICA
 
 PRIMERO: Resulta que en el caso que nos ocupa, la petición formulada por la impetrante, está contraída a pedir la Personalidad Jurídica de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA MONTE FRESCO, MUNICIPIO DE SIGUATEPEQUE, DEPARTAMENTO DE COMAYAGUA, para lo cual acompañó los documentos que se requieren para casos como el indicado y que a nuestro juicio, justifican la petición por él formulada.
 
-SEGUNDO: En este sentido y según el análisis realizado, se logra apreciar que corren agregados a los folios dos, tres, cuatro, cinco, seis, siete al nueve, veintinueve al treinta y uno, diez al quince, dieciséis y dieciocho al veinticuatro (2, 3, 4, 5, 6, 7, 9, 29- 31, 10-15, 16, 18-24) los documentos referentes a: Carta Poder, Certificación para que el presidente para la contratación de un abogado, convocatoria, certificación de nombramiento y elección de Junta Directiva, Certificación de acta de constitución, listado de asistencia, discusión y aprobación de estatutos, Certificación emitida por la corporación municipal de Siguatepeque, copias de las Tarjetas de Identidad de cada uno de los miembros que integran su Junta Directiva, enunciados en su respectivo orden.
+SEGUNDO: En este sentido y según el análisis realizado, se logra apreciar que corren agregados a los folios dos, tres, cuatro, cinco, seis, siete al nueve, veintinueve al treinta y uno, diez al quince, dieciséis y dieciocho al veinticuatro (2, 3, 4, 5, 6, 7, 9, 29-31, 10-15, 16, 18-24) los documentos referentes a: Carta Poder, Certificación para que el presidente para la contratación de un abogado, convocatoria, certificación de nombramiento y elección de Junta Directiva, Certificación de acta de constitución, listado de asistencia, discusión y aprobación de estatutos, Certificación emitida por la corporación municipal de Siguatepeque, copias de las Tarjetas de Identidad de cada uno de los miembros que integran su Junta Directiva, enunciados en su respectivo orden.
 
 TERCERO: La Constitución de la República, dispone en el artículo 78, que: “...Se garantizan las libertades de asociación y de reunión siempre que no sean contrarias al orden público y a las buenas costumbres...” Según lo dispone la norma constitucional antes reproducida, la Libertad de Asociación es un derecho protegido por nuestra Constitución en su artículo 78, derecho que posibilita o permite que los ciudadanos constituyamos todo tipo de asociaciones sin importar las tendencias, siempre y cuando estas no sean contrarias a la Ley, procurando con ello mejorar y defender las condiciones de los grupos de interés con distintas tendencias ideológicas, políticas o religiosas para el fortalecimiento de la sociedad civil y la voz de la opinión pública, necesarias e indispensables en un país democrático.
 

@@ -11,7 +11,7 @@ paginas: "A. 20 - 28"
 sumario: "Acuerdo Ministerial No. 0466-SE-2023, Acuerdo No. 0538-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230626-36265/download"
 extraido: "2026-11-14"
-huella: "7e99ff615577cc91"
+huella: "700aca374c193770"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0538-SE-2023
@@ -41,9 +41,9 @@ CONSIDERANDO: El artículo 23 de la Ley Fundamental de Educación señala que: �
 
 CONSIDERANDO: Que mediante Acuerdo No. 15155- SE-2012, de fecha 27 de abril de 2012, se aprobó en forma permanente, la aplicación de los Planes y Programas de Estudio del Bachillerato Técnico Profesional con las orientaciones en Administración Forestal y Agricultura.
 
-CONSIDERANDO: Que mediante Acuerdo No. 0033-SE- 2014, de fecha 10 de enero de 2014, se aprobó en forma permanente, la aplicación de los Planes y Programas de Estudio del Bachillerato Técnico Profesional con las orientaciones en Desarrollo Agropecuario y Gestión Agroforestal.
+CONSIDERANDO: Que mediante Acuerdo No. 0033-SE-2014, de fecha 10 de enero de 2014, se aprobó en forma permanente, la aplicación de los Planes y Programas de Estudio del Bachillerato Técnico Profesional con las orientaciones en Desarrollo Agropecuario y Gestión Agroforestal.
 
-CONSIDERANDO: Que mediante Acuerdo No. 2145-SE- 2015, de fecha 25 de noviembre de 2015, se aprobó en forma permanente la aplicación del Plan y Programa de Estudio del Bachillerato Técnico Profesional en Producción y Desarrollo Agropecuario.
+CONSIDERANDO: Que mediante Acuerdo No. 2145-SE-2015, de fecha 25 de noviembre de 2015, se aprobó en forma permanente la aplicación del Plan y Programa de Estudio del Bachillerato Técnico Profesional en Producción y Desarrollo Agropecuario.
 
 CONSIDERANDO: Que la oferta académica del Sector Agroforestal iniciará un plan de desgaste. El cual consiste en la transición gradual de un sistema de promoción semestral a un sistema de promoción anual de los planes de estudios vigentes. Iniciando en el año 2023 con el sistema de promoción anual para el décimo grado y para los grados undécimo (2023) y duodécimo (2024) el sistema de promoción semestral, en las carreras que se detallan a continuación:
 
@@ -79,7 +79,7 @@ En uso de las facultades que le confiere la Ley y en aplicación de los Artícul
 
 Artículo 36 numeral 1 y 8, 116, 118 numeral 2, 119, 122 y demás aplicables de la Ley General de la Administración Pública, Artículo 1, 3, 4, 5, 29, 30 y 31 de la Ley Fundamental de Educación, Artículos 7, 8 y 9 del Reglamento General de Educación Media y Artículos 23 y 25, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Aprobar en forma permanente a partir del 01 de febrero del año 2023, los Planes de Estudio y Programas Curriculares del Bachillerato Técnico Profesional con las orientaciones de: Innovación y Desarrollo Agroforestal y Desarrollo Agroempresarial, así como su forma de administración de los espacios curriculares de ambos BTPs, iniciando su funcionamiento a partir del Décimo grado, en la jornada diurna, con un sistema de evaluación anual a través de cuatro parciales.
 
@@ -119,9 +119,9 @@ Los Bachilleratos Técnicos Profesionales son los siguientes:
 
 2. Bachillerato Técnico Profesional en Agricultura creada bajo acuerdo N°15155 SE-2012
 
-3. Bachillerato Técnico Profesional en Gestión Agroforestal creada bajo acuerdo N° 033-SE- 2014.
+3. Bachillerato Técnico Profesional en Gestión Agroforestal creada bajo acuerdo N° 033-SE-2014.
 
-4. Bachillerato Técnico Profesional en Desarrollo Agropecuario creado bajo acuerdo N° 033-SE- 2014
+4. Bachillerato Técnico Profesional en Desarrollo Agropecuario creado bajo acuerdo N° 033-SE-2014
 
 5. Bachillerato Técnico Profesional en Producción y Desarrollo Agropecuario creado bajo acuerdo No. 2145-SE-2015.
 

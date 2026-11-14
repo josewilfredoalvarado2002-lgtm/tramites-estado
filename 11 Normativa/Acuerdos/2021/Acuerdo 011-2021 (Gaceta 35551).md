@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. 011-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210322-35551/download"
 extraido: "2026-11-14"
-huella: "7c71545ae5447548"
+huella: "25d714c38d6ff9ff"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 011-2021
@@ -39,9 +39,9 @@ CONSIDERANDO: Que la Ley Orgánica de la Procuraduría General de la República,
 
 CONSIDERANDO: Que mediante Acuerdo de Nombramiento número 08-2018 de fecha veintisiete de enero del dos mil dieciocho (27/01/2018) y publicado en el Diario Oficial La Gaceta en fecha tres de febrero del dos mil dieciocho (03/02/2018) ejemplar N° 34,559 se Nombra al ciudadano Ebál Jair Díaz Lupián, en el cargo de Secretario de Estado en el Despacho de la Secretaría de la Presidencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 publicado en el Diario Oficial La Gaceta el 07 de Octubre de 2020, el Presidente Constitucional de la República, delegó en el Ingeniero Carlos Alberto Madero Erazo como Secretario de Coordinación General de Gobierno, la potestad de firmar Acuerdos Ejecutivos que según la Ley de la Administración Pública, son su potestad.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial La Gaceta el 07 de Octubre de 2020, el Presidente Constitucional de la República, delegó en el Ingeniero Carlos Alberto Madero Erazo como Secretario de Coordinación General de Gobierno, la potestad de firmar Acuerdos Ejecutivos que según la Ley de la Administración Pública, son su potestad.
 
-CONSIDERANDO: Que mediante instrumento número ochenta y siete (87) de fecha veintisiete (27) de enero del año dos mil veintiuno (2021), inscrito bajo el número de matrícula cero cero cero cero cero cero cinco siete nueve cuatro tres guion cero cero cero cero cero (0000057943- 00000) y número de asiento diez (10) del Libro de Comerciantes Sociales del Registro Mercantil, la sociedad mercantil denominada PRIDE MANUFACTURING, S.
+CONSIDERANDO: Que mediante instrumento número ochenta y siete (87) de fecha veintisiete (27) de enero del año dos mil veintiuno (2021), inscrito bajo el número de matrícula cero cero cero cero cero cero cinco siete nueve cuatro tres guion cero cero cero cero cero (0000057943-00000) y número de asiento diez (10) del Libro de Comerciantes Sociales del Registro Mercantil, la sociedad mercantil denominada PRIDE MANUFACTURING, S.
 
 DE R. L, autorizó la donación de un inmueble inscrito a su favor cuya ubicación del inmueble es denominado “La Magdalena o Santa Cruz de la Enea”, Aldea Montegrande, jurisdicción del Municipio de Quimistán, departamento de Santa Bárbara a favor del Estado de Honduras, con el objetivo que el mismo sea utilizado para desarrollar programas de proyectos de vivienda social a través de Comisión Nacional de Vivienda y Asentamientos Humanos (CONVIVIENDA).
 
@@ -71,7 +71,7 @@ CARLOS ALBERTO MADERO ERAZO
 
 Secretario de Estado Coordinador General de Gobierno por delegación del Presidente de la República.
 
-Acuerdo Ejecutivo No.043-2020 publicado en el Diario Oficial La Gaceta el 07 de octubre de 2020.
+Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial La Gaceta el 07 de octubre de 2020.
 
 EBAL JAIR DÍAZ LUPIÁN SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA
 

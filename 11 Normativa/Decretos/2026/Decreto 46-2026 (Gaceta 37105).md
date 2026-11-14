@@ -11,7 +11,7 @@ paginas: "A. 44 - 45"
 sumario: "Decretos Nos. 35-2026, 36-2026, 37-2026, 46-2026Resolución No. 2-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260327-37105/download"
 extraido: "2026-11-09"
-huella: "b407c4e1231e16ca"
+huella: "3c39ad8999994ebf"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 46-2026
@@ -55,7 +55,7 @@ ARTÍCULO 2.- Aceptar la Renuncia al derecho de comparecencia ante el Pleno del 
 
 ARTÍCULO 3.- Destituir de Forma permanente al señor JOHEL ANTONIO ZELAYA ÁLVAREZ del cargo de FISCAL GENERAL DE LA REPÚBLICA DE HONDURAS por haberse comprobado responsabilidad política e incurrido en las causales numeral 1, 2 y 3 del
 
-Artículo 5 de la Ley Especial de Juicio Político, contenida en el Decreto No.51-2013, garantizándole el acceso a la tutela judicial efectiva a través de las garantías establecidas en la Constitución de la República en base en los artículos 82, 90 y 183 de la Constitución de la República, así como los artículos 8 y 25 de la Convención Americana sobre Derechos Humanos.
+Artículo 5 de la Ley Especial de Juicio Político, contenida en el Decreto No. 51-2013, garantizándole el acceso a la tutela judicial efectiva a través de las garantías establecidas en la Constitución de la República en base en los artículos 82, 90 y 183 de la Constitución de la República, así como los artículos 8 y 25 de la Convención Americana sobre Derechos Humanos.
 
 #### Artículo 4
 

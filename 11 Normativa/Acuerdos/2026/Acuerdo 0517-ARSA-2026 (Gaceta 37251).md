@@ -11,7 +11,7 @@ paginas: "A. 38 - 40"
 sumario: "Acuerdo Número 0517-ARSA-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260921-37251/download"
 extraido: "2026-11-09"
-huella: "fc257244bb77a026"
+huella: "67350bfcd366a204"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 0517-ARSA-2026
@@ -51,7 +51,7 @@ El suscrito Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA)
 
 ACUERDA:
 
-PRIMERO: DELEGAR funcionalmente a la Doctora MARIA FERNANDA MENDOZA RODRÍGUEZ, quien posee el Documento Nacional de Identificación 0615-1992- 00472, quien ostenta el cargo de Directora Nacional de Alimentos y Bebidas, según Acuerdo 0485-ARSA-2026, en el cargo de COMISIONADO PRESIDENTE mismo que tendrá todas las facultades del cargo como ser: Comunicación interna y externa que sea de competencia del Despacho del Comisionado Presidente contenidas en la Ley de Procedimiento Administrativo, Ley de la Agencia de Regulación Sanitaria, Reglamento de Organización, Atribuciones y Competencias del Poder Ejecutivo y demás que le sean asignadas, a partir del día miércoles dieciséis (16) de septiembre al viernes dos
+PRIMERO: DELEGAR funcionalmente a la Doctora MARIA FERNANDA MENDOZA RODRÍGUEZ, quien posee el Documento Nacional de Identificación 0615-1992-00472, quien ostenta el cargo de Directora Nacional de Alimentos y Bebidas, según Acuerdo 0485-ARSA-2026, en el cargo de COMISIONADO PRESIDENTE mismo que tendrá todas las facultades del cargo como ser: Comunicación interna y externa que sea de competencia del Despacho del Comisionado Presidente contenidas en la Ley de Procedimiento Administrativo, Ley de la Agencia de Regulación Sanitaria, Reglamento de Organización, Atribuciones y Competencias del Poder Ejecutivo y demás que le sean asignadas, a partir del día miércoles dieciséis (16) de septiembre al viernes dos
 
 (02) de octubre del año dos mil veintiséis (2026), en virtud que el Doctor LEONARDO ANTONIO SÁNCHEZ NÚÑEZ quien funge como Comisionado Presidente de la Agencia de Regulación Sanitaria mediante Acuerdo de Nombramiento No. 257-2026, considerando que el Comisionado Presidente ha sido invitado a participar en diferentes actividades durante estas fechas del 16 de septiembre al 02 de octubre de 2026, se detalla a continuación: Gira de Trabajo Santa Rosa de Copán (15 al 17 de septiembre); XV Encuentro de la Red de Autoridades en Medicamentos de Iberoamérica, que será desarrollado en Lisboa, Portugal por la Red EAMI. (del 19 al 25 de septiembre de 2026); 44 Reunión anual del programa de la OMS de Farmacovigilancia Internacional (del 26 de septiembre al 28 de septiembre); 1er Foro Centroamericano de la Industria Farmacéutica (29 al 01 de octubre del 2026).
 
@@ -59,9 +59,7 @@ Se hace constar lo anterior para los efectos administrativos y legales correspon
 
 SEGUNDO: La presente delegación tendrá vigencia a partir del día miércoles dieciséis (16) de septiembre al viernes dos (02) de octubre del año dos mil veintiséis (2026), sin perjuicio que pueda ser modificada o revocada mediante el acto administrativo correspondiente.
 
-TERCERO: ESTABLECER que, una vez finalizado el período de vigencia de la presente delegación temporal y se reincorpore el Doctor LEONARDO ANTONIO SÁNCHEZ NÚÑEZ al ejercicio de sus funciones, continuará vigente y surtiendo plenos efectos el Acuerdo de Ejecutivo No.
-
-257-2026 de fecha diecinueve (19) de marzo de dos mil veintiséis (2026), reanudándose el ejercicio de las facultades, atribuciones y responsabilidades conferidas mediante dicho instrumento administrativo.
+TERCERO: ESTABLECER que, una vez finalizado el período de vigencia de la presente delegación temporal y se reincorpore el Doctor LEONARDO ANTONIO SÁNCHEZ NÚÑEZ al ejercicio de sus funciones, continuará vigente y surtiendo plenos efectos el Acuerdo de Ejecutivo No. 257-2026 de fecha diecinueve (19) de marzo de dos mil veintiséis (2026), reanudándose el ejercicio de las facultades, atribuciones y responsabilidades conferidas mediante dicho instrumento administrativo.
 
 CUARTO: Hacer del conocimiento y entregar copia certificada de este Acuerdo a la Doctora MARIA FERNANDA MENDOZA RODRÍGUEZ, para su inmediato cumplimiento.
 

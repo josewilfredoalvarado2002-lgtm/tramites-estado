@@ -11,7 +11,7 @@ paginas: "A. 1 - 39"
 sumario: "Acuerdos Nos. 070-2025, 071-2025, 073-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250819-36920/download"
 extraido: "2026-11-09"
-huella: "c4e9eeb3538263f8"
+huella: "d43f2a7417f71d0a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 070-2025
@@ -85,13 +85,13 @@ PRIMERO: Declarar como Zona de Protección Forestal las microcuencas abastecedor
 
 SEGUNDO: Tener por declarada las siguientes microcuencas:
 
-C o o r d e n a d a s
+Coordenadas
 
 WGS-84
 
 Municipio Depto.
 
-Familias Área (ha) Subcuenca Cuenca X Y Esquipulas del Norte, Guata Olancho 409 35.012045 Mame 1 Olanchito, Esquipulas del Norte Yoro 90 96.278648 Aguan_Alta 2 3 Calpules Abajo 538388 1700412 Olanchito Yoro 66 91.829643 Aguan_Alta 3 4 La Chamuscada 531020 1689750 Olanchito Yoro 92 52.316404 Yaguala 4 5 El Camaron 617826 1757901 Trujillo Colon 100 36.528435 L a g u n a d e Guaymoreto 5 6 Rio Claro 617324 1756058 Trujillo Colon 1130 976.546265 Aguan_Baja 6 7 Trojas Alta 532492 1693989 Olanchito Yoro 376 3.054279 Yaguala 7 8 Mirranchito 595774 1715622 Saba Colon 10 13.99887 Aguan_Media 8 Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
+Familias Área (ha) Subcuenca Cuenca X Y Esquipulas del Norte, Guata Olancho 409 35.012045 Mame 1 Olanchito, Esquipulas del Norte Yoro 90 96.278648 Aguan_Alta 2 3 Calpules Abajo 538388 1700412 Olanchito Yoro 66 91.829643 Aguan_Alta 3 4 La Chamuscada 531020 1689750 Olanchito Yoro 92 52.316404 Yaguala 4 5 El Camaron 617826 1757901 Trujillo Colon 100 36.528435 Laguna de Guaymoreto 5 6 Rio Claro 617324 1756058 Trujillo Colon 1130 976.546265 Aguan_Baja 6 7 Trojas Alta 532492 1693989 Olanchito Yoro 376 3.054279 Yaguala 7 8 Mirranchito 595774 1715622 Saba Colon 10 13.99887 Aguan_Media 8 Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad.
 
 La relación de medida del polígono de las microcuencas declaradas:
 

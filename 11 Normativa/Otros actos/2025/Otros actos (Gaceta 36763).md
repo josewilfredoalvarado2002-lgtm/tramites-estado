@@ -11,7 +11,7 @@ paginas: "A. 1 - 108"
 sumario: "Certificación, Acuerdo"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250211-36763/download"
 extraido: "2026-11-13"
-huella: "889ca5124a0c8dad"
+huella: "4738fbda8247c6db"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Acuerdo
@@ -109,7 +109,7 @@ CAPITULO DESCRIPCION
 
 ARTICULOS PAGINAS
 
-I Presentación 168-168-A 108-109 II Recursos de Reposición 169–170 109-110 III Apelación 171- 173 110 IV Revisión de Oficio 174 110
+I Presentación 168-168-A 108-109 II Recursos de Reposición 169–170 109-110 III Apelación 171-173 110 IV Revisión de Oficio 174 110
 
 TITULO IX DISPOSICIONES FINALES
 
@@ -117,7 +117,7 @@ CAPITULO DESCRIPCION
 
 ARTICULOS PAGINAS
 
-I Disposiciones Generales 175–186 110-113 II Disposiciones Transitorias 186 -188 C E R T I F I C A C I Ó N La infrascrita, Secretaria Municipal de esta ciudad, por este medio CERTIFICA: El Preámbulo del Punto No. 7, Inciso b.) más la parte final del ACTA No.41 de SESIÓN ORDINARIA del día viernes veintinueve (29) de noviembre del año dos mil veinticuatro (2024), que literalmente dice: ACTA No.41.- Reunidos en el Salón de Sesiones del Palacio Municipal.- En la ciudad de La Ceiba, departamento de Atlántida, a las dos con cuarenta y ocho minutos de la tarde del día viernes veintinueve (29) de noviembre del año dos mil veinticuatro (2024), celebró Sesión Ordinaria la Honorable Corporación Municipal bajo la Presidencia del señor Alcalde Municipal Bader Abraham Dip Alvarado, con asistencia del señor Vicealcalde Municipal Alejandro Antonio Canelas Cardona y los señores Regidores por su orden: 1º Vilma Esperanza Bonanno Zaldívar, 2º Gustavo Alonso Irias Irias, 3º Mauricio Cálix Ceballos, 5º Remberto Alexander Zavala Rozales, 6° Mario Roger Pérez Terán, 7° Melissa Soe Moncada Martínez, 8º Oscar René García Hynds.- Presente también los Abogados Alejandra Barahona y Luis Maradiaga Asesores Legales de la Municipalidad de La Ceiba y el señor José Antonio Gonzales miembro de la Comisión Ciudadana de Transparencia Municipal.- Estuvieron ausentes con excusa los Regidores 4º Jerry Francisco Sabio Amaya, 9º German Leonel Cruz Paz, 10° Alba Estela Zepeda Pinto.- Todos ante la Abogada Wanda Argueta Secretaria Municipal que da fe.- Se procedió de la siguiente manera: 1°...2°...3°...4°...5°...6°... 7°.- INFORMES: b.) El señor Bader Dip Alcalde Municipal:
+I Disposiciones Generales 175–186 110-113 II Disposiciones Transitorias 186 -188 CERTIFICACIÓN La infrascrita, Secretaria Municipal de esta ciudad, por este medio CERTIFICA: El Preámbulo del Punto No. 7, Inciso b.) más la parte final del ACTA No. 41 de SESIÓN ORDINARIA del día viernes veintinueve (29) de noviembre del año dos mil veinticuatro (2024), que literalmente dice: ACTA No. 41.- Reunidos en el Salón de Sesiones del Palacio Municipal.- En la ciudad de La Ceiba, departamento de Atlántida, a las dos con cuarenta y ocho minutos de la tarde del día viernes veintinueve (29) de noviembre del año dos mil veinticuatro (2024), celebró Sesión Ordinaria la Honorable Corporación Municipal bajo la Presidencia del señor Alcalde Municipal Bader Abraham Dip Alvarado, con asistencia del señor Vicealcalde Municipal Alejandro Antonio Canelas Cardona y los señores Regidores por su orden: 1º Vilma Esperanza Bonanno Zaldívar, 2º Gustavo Alonso Irias Irias, 3º Mauricio Cálix Ceballos, 5º Remberto Alexander Zavala Rozales, 6° Mario Roger Pérez Terán, 7° Melissa Soe Moncada Martínez, 8º Oscar René García Hynds.- Presente también los Abogados Alejandra Barahona y Luis Maradiaga Asesores Legales de la Municipalidad de La Ceiba y el señor José Antonio Gonzales miembro de la Comisión Ciudadana de Transparencia Municipal.- Estuvieron ausentes con excusa los Regidores 4º Jerry Francisco Sabio Amaya, 9º German Leonel Cruz Paz, 10° Alba Estela Zepeda Pinto.- Todos ante la Abogada Wanda Argueta Secretaria Municipal que da fe.- Se procedió de la siguiente manera: 1°...2°...3°...4°...5°...6°... 7°.- INFORMES: b.) El señor Bader Dip Alcalde Municipal:
 
 Informa que se ha trabajado en conjunto con los departamentos municipales involucrados en las modificaciones al Plan de Arbitrios que entrará en vigencia a partir del 01 de enero del año 2025; en este momento con ayuda audiovisual se procede a realizar la presentación del mismo, brindando una amplia explicación de los artículos sujetos a modificación.- El Plan de Arbitrios que regirán el ejercicio fiscal del año 2025 se detalla a continuación:
 
@@ -879,7 +879,7 @@ b) Domiciliarios o habitacionales: los que se cobrarán de acuerdo al valor del 
 
 Este servicio se cobrará mensualmente de acuerdo al valor del inmueble o casa de habitación y para efectos de cobro para el tren de aseo y alcantarillado sanitario según se describen en el cuadro No. 4 siguiente, y el resto de los servicios conforme al Rango Catastral que forman parte del Plan de Arbitrios.
 
-CUADRO No. 4 TASAS DE SERVICIOS PUBLICOS DOMICILIARIOS TOTAL DESDE HASTA SOLIDOS 0.01 100,000.00 7.97 6.75 13.50 2.70 3.50 2.70 37.12 100,000.01 200,000.00 35.85 30.38 20.25 3.38 4.00 3.38 97.24 200,000.01 300,000.00 37.07 31.38 21.25 3.38 4.00 3.38 99.46 300,000.01 500,000.00 51.78 43.88 27.00 3.38 4.00 3.38 133.42 500,000.01 750,000.00 79.65 67.50 33.75 6.75 5.00 6.75 199.40 750,000.01 1,000,000.00 111.51 94.50 40.50 13.50 6.50 13.50 280.01 1,000,000.01 1,500,000.00 125.08 95.40 41.50 13.50 6.50 13.50 295.58 1,500,000.01 2,000,000.00 139.39 118.13 54.00 13.50 6.50 13.50 345.02 2,000,000.01 en a d e l a n t e 159.30 135.00 81.00 13.50 6.50 13.50 408.80 Con Servicios Individuales 5.06 2.03 4.05 1.35 1.00 1.35 14.84 Con Servicios Múltiples 4.05 2.03 2.70 0.68 1.00 1.35 11.81 Los contribuyentes que residan en colonias que el servicio de tren de aseo sea manejado a través de empresas privadas debidamente regularizadas, están en la obligación de pagar a la Municipalidad la tarifa de Manejo de Desechos Sólidos Relleno Sanitario.
+CUADRO No. 4 TASAS DE SERVICIOS PUBLICOS DOMICILIARIOS TOTAL DESDE HASTA SOLIDOS 0.01 100,000.00 7.97 6.75 13.50 2.70 3.50 2.70 37.12 100,000.01 200,000.00 35.85 30.38 20.25 3.38 4.00 3.38 97.24 200,000.01 300,000.00 37.07 31.38 21.25 3.38 4.00 3.38 99.46 300,000.01 500,000.00 51.78 43.88 27.00 3.38 4.00 3.38 133.42 500,000.01 750,000.00 79.65 67.50 33.75 6.75 5.00 6.75 199.40 750,000.01 1,000,000.00 111.51 94.50 40.50 13.50 6.50 13.50 280.01 1,000,000.01 1,500,000.00 125.08 95.40 41.50 13.50 6.50 13.50 295.58 1,500,000.01 2,000,000.00 139.39 118.13 54.00 13.50 6.50 13.50 345.02 2,000,000.01 en adelante 159.30 135.00 81.00 13.50 6.50 13.50 408.80 Con Servicios Individuales 5.06 2.03 4.05 1.35 1.00 1.35 14.84 Con Servicios Múltiples 4.05 2.03 2.70 0.68 1.00 1.35 11.81 Los contribuyentes que residan en colonias que el servicio de tren de aseo sea manejado a través de empresas privadas debidamente regularizadas, están en la obligación de pagar a la Municipalidad la tarifa de Manejo de Desechos Sólidos Relleno Sanitario.
 
 En las casas de habitación que posean cuartos extras que no son parte de la misma edificación y no son de uso comercial, se cobrará de acuerdo al valor catastral de la propiedad, más la tarifa por cada uno de los cuartos que cuenten con los servicios públicos, se exceptúan bodegas de uso doméstico.
 
@@ -995,7 +995,7 @@ b. Instalación domiciliaria diámetro 4” SDR – 41
 
 c. Diámetros mínimos acometidas diámetro 6” – SDR -41
 
-d. Lateral diámetro 8” o el diámetro necesario SDR- 41 El uso de otro tipo de material será discutido con el personal técnico de esta oficina al momento de realizar la revisión del Proyecto.
+d. Lateral diámetro 8” o el diámetro necesario SDR-41 El uso de otro tipo de material será discutido con el personal técnico de esta oficina al momento de realizar la revisión del Proyecto.
 
 #### Artículo 73
 
@@ -2093,7 +2093,7 @@ EN ALMACEN DE 21 DIAS EN ADELANTE MT² POR DÍA
 
 36.00 8.3
 
-SERVICIOS A IMPORTACION/EXPORTACION (AUTOMOVILES Y VEHICULOS EN GENERAL TODO TIPO) 8.3.1 PARTIDA UNICA DE AUTOMOVIL VEHICULO 2,510.00 8.3.2 AUTOMOVIL DE 0 A 3 DIAS LIBRES VEHICULO - 8.3.3 AUTOMOVIL DE 4 A 10 DIAS VEHICULO 246.00 8.3.4 AUTOMOVIL DE 11 A 20 DIAS VEHICULO 517.00 8.3.5 DE 21 DIAS EN ADELANTE VEHICULO 615.00 8.4 SERVICIOS A IMPORTADORES Y EXPORTADORES (CONTENEDORES) 8.4.1 USO AREA POR REVISION KILOGRAMOS 16.25 8.4.2 SOBRE RUEDAS (DE 1 A 20 ,40, Y 45 PIE DE LARGO) KILOGRAMOS 20.00 8.4.3 MODULO DE 1 A 5 DIAS UNITARIO 518.00 8.4.4 MODULO DE 6 DIAS EN ADELANTE UNITARIO 640.00 8.4.5 RECEPCION Y DESPACHO UNITARIO 665.00 8.5 SOBRE RUEDAS (DE 45 PIE EN ADELANTE) 8.5.1 MODULO DE 1 A 5 DIAS UNITARIO 665.00 8.5.2 MODULO DE 6 DIAS EN ADELANTE UNITARIO 714.00 8.5.3 RECEPCION Y DESPACHO UNITARIO 763.00 8.6 SERVICIOS DE CABOTAJE (RECEPCION Y DESPACHO DE MODULOS) 8.6.1 MODULOS DE CARGA GENERAL DE CABOTAJE 8.6.1.1 RECEPCION Y DESPACHO DE MODULO O CONTENEDOR TIPO CAJA CERRADA UNITARIO 782.00 8.6.1.2 ESTADIA DE MODULO DE 1 A 5 DIAS (POR DIAS Y POR TEUS) UNITARIO 351.00 8.6.1.3 ESTADIA DE MODULO DE 6 DIAS EN ADELANTE (POR DIA Y POR TEUS) UNITARIO 370.00 8.7 SERVICIOS DE CABOTAJE (MERCANCIAS EN ALMACEN GENERAL Y PATIOS PORTUARIOS) 8.7.1 MANEJO DE MERCANCIAS EN ALMACEN GENERAL (MERCADERIAS DE CABOTAJE) 8.7.1.2 EN ALMACEN GENERAL DE 5 A 9 DIAS (MERCADERIA DE CABOTAJE) 8.7.1.3 EN ALMACEN GENERAL DE 10 A 15 DIAS (MERCADERIA DE CABOTAJE) FRACCION 60.00 M³ POR DÍA O FRACCION 66.00 M³ POR DÍA O FRACCION 76.00 8.7.1.4 EN ALMACEN GENERAL DE 16 DIAS EN ADELANTE (MERCADERIA DE CABOTAJE) 8.7.1.5 EN PREDIO NO PAVIMENTADO O (EN PATIO) NO TECHADO (MERCADERIAS DE CABOTAJE) FRACCION 20.00 8.7.1.6 VALOR PALLET UNIDAD 250.00 8.7.1.7 PAQUETERIA (SOBRES, DOCUMENTOS) UNIDAD 10.00 8.7.1.8 CAJA PEQUEÑA (HASTA UN PIE CUADRADO) PIE 15.00 8.7.1.9 CAJA MEDIANA (DE 1 A 2 PIE CUADRADO) PIE 20.00 9 ALQUILER DE EQUIPOS PARA MANEJO DE CARGA EN CABOTAJE Y ADUANA (IMPORTACION/ EXPORTACION).
+SERVICIOS A IMPORTACION/EXPORTACION (AUTOMOVILES Y VEHICULOS EN GENERAL TODO TIPO) 8.3.1 PARTIDA UNICA DE AUTOMOVIL VEHICULO 2,510.00 8.3.2 AUTOMOVIL DE 0 A 3 DIAS LIBRES VEHICULO - 8.3.3 AUTOMOVIL DE 4 A 10 DIAS VEHICULO 246.00 8.3.4 AUTOMOVIL DE 11 A 20 DIAS VEHICULO 517.00 8.3.5 DE 21 DIAS EN ADELANTE VEHICULO 615.00 8.4 SERVICIOS A IMPORTADORES Y EXPORTADORES (CONTENEDORES) 8.4.1 USO AREA POR REVISION KILOGRAMOS 16.25 8.4.2 SOBRE RUEDAS (DE 1 A 20,40, Y 45 PIE DE LARGO) KILOGRAMOS 20.00 8.4.3 MODULO DE 1 A 5 DIAS UNITARIO 518.00 8.4.4 MODULO DE 6 DIAS EN ADELANTE UNITARIO 640.00 8.4.5 RECEPCION Y DESPACHO UNITARIO 665.00 8.5 SOBRE RUEDAS (DE 45 PIE EN ADELANTE) 8.5.1 MODULO DE 1 A 5 DIAS UNITARIO 665.00 8.5.2 MODULO DE 6 DIAS EN ADELANTE UNITARIO 714.00 8.5.3 RECEPCION Y DESPACHO UNITARIO 763.00 8.6 SERVICIOS DE CABOTAJE (RECEPCION Y DESPACHO DE MODULOS) 8.6.1 MODULOS DE CARGA GENERAL DE CABOTAJE 8.6.1.1 RECEPCION Y DESPACHO DE MODULO O CONTENEDOR TIPO CAJA CERRADA UNITARIO 782.00 8.6.1.2 ESTADIA DE MODULO DE 1 A 5 DIAS (POR DIAS Y POR TEUS) UNITARIO 351.00 8.6.1.3 ESTADIA DE MODULO DE 6 DIAS EN ADELANTE (POR DIA Y POR TEUS) UNITARIO 370.00 8.7 SERVICIOS DE CABOTAJE (MERCANCIAS EN ALMACEN GENERAL Y PATIOS PORTUARIOS) 8.7.1 MANEJO DE MERCANCIAS EN ALMACEN GENERAL (MERCADERIAS DE CABOTAJE) 8.7.1.2 EN ALMACEN GENERAL DE 5 A 9 DIAS (MERCADERIA DE CABOTAJE) 8.7.1.3 EN ALMACEN GENERAL DE 10 A 15 DIAS (MERCADERIA DE CABOTAJE) FRACCION 60.00 M³ POR DÍA O FRACCION 66.00 M³ POR DÍA O FRACCION 76.00 8.7.1.4 EN ALMACEN GENERAL DE 16 DIAS EN ADELANTE (MERCADERIA DE CABOTAJE) 8.7.1.5 EN PREDIO NO PAVIMENTADO O (EN PATIO) NO TECHADO (MERCADERIAS DE CABOTAJE) FRACCION 20.00 8.7.1.6 VALOR PALLET UNIDAD 250.00 8.7.1.7 PAQUETERIA (SOBRES, DOCUMENTOS) UNIDAD 10.00 8.7.1.8 CAJA PEQUEÑA (HASTA UN PIE CUADRADO) PIE 15.00 8.7.1.9 CAJA MEDIANA (DE 1 A 2 PIE CUADRADO) PIE 20.00 9 ALQUILER DE EQUIPOS PARA MANEJO DE CARGA EN CABOTAJE Y ADUANA (IMPORTACION/ EXPORTACION).
 
 9.1
 
@@ -2671,7 +2671,7 @@ L. 1,200.00 Maderables No Tradicionales:
 
 ESPECIES ESPECIFICACIONES VALOR
 
-1 a 2 pulgadas de diámetro 13 a 25 pulgadas de diámetro 26 a 40 pulgadas de diámetro 41 a 60 pulgadas de diámetro Mayor a 60 pulgadas de diámetro Muerto 1- 12 pulgadas de diámetro Muerto mayor 12 pulgadas diámetro Ornamentales Entre 1 a 12 pulgadas Mayor 12 Pulg. (especie en veda)
+1 a 2 pulgadas de diámetro 13 a 25 pulgadas de diámetro 26 a 40 pulgadas de diámetro 41 a 60 pulgadas de diámetro Mayor a 60 pulgadas de diámetro Muerto 1-12 pulgadas de diámetro Muerto mayor 12 pulgadas diámetro Ornamentales Entre 1 a 12 pulgadas Mayor 12 Pulg. (especie en veda)
 
 L. 100.00
 
@@ -4113,7 +4113,7 @@ Siempre y cuando sean ingresos menores a L.100,000.00, caso contrario pagará po
 
 • Tasas: Por servicios públicos mensualmente a más tardar dentro de los primeros diez días del mes siguiente;
 
-• Las demás tasas se pagarán al momento de recibir el servicio o contra- prestación respectiva.
+• Las demás tasas se pagarán al momento de recibir el servicio o contraprestación respectiva.
 
 11. Se entiende por morosidad la falta de pago oportuno en los plazos arriba indicados. El jefe de Control Tributario está en la obligación de emitir listados de contribuyentes en mora para ejercer las acciones de cobro respectivas. En el caso de los servicios públicos se ordenará la suspensión del servicio
 

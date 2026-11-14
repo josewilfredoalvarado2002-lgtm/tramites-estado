@@ -8,10 +8,10 @@ gaceta_numero: 36677
 gaceta_fecha: "2024-10-31"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)|La Gaceta 36677]]"
 paginas: "A. 1 - 8"
-sumario: "Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
+sumario: "Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241031-36677/download"
 extraido: "2026-11-14"
-huella: "49ea462ae0367cc7"
+huella: "731bd0bd578b5eb6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 93-2024
@@ -23,7 +23,7 @@ huella: "49ea462ae0367cc7"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)\|La Gaceta 36677]] del 2024-10-31 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
+| Según el sumario de La Gaceta | Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República establece en su Artículo 15
 
 CONSIDERANDO: Que en fecha 28 de Septiembre del año 2023, el Gobierno de la República de Honduras y el Gobierno de la República de Corea suscribieron el Convenio Bilateral denominado “ACUERDO MARCO DE COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA”; el referido instrumento tiene como propósito fortalecer las relaciones de amistad existentes entre ambas naciones, reducir la pobreza en Honduras y promover el desarrollo económico y social sostenible del país a través de la cooperación.
 
-CONSIDERANDO: Que el Poder Ejecutivo, siguiendo el procedimiento de Ley correspondiente, sometió a aprobación de este Congreso Nacional el Acuerdo Ejecutivo No.006-DGAJTC-2024 de fecha 12 de Julio del año 2024, el cual contiene la ratificación del “ACUERDO MARCO DE COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA”.
+CONSIDERANDO: Que el Poder Ejecutivo, siguiendo el procedimiento de Ley correspondiente, sometió a aprobación de este Congreso Nacional el Acuerdo Ejecutivo No. 006-DGAJTC-2024 de fecha 12 de Julio del año 2024, el cual contiene la ratificación del “ACUERDO MARCO DE COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA”.
 
 CONSIDERANDO: Que se expresa formalmente el supremo interés que la República de Honduras ratifique el Convenio supra mencionado, a fin de ser acreedores de los beneficios que este conlleva para la Nación.
 
@@ -55,11 +55,11 @@ CONSIDERANDO: Que el Presidente de la República tiene a su cargo la Administrac
 
 CONSIDERANDO: Que todos los Tratados Internacionales, deben ser aprobados por el Congreso Nacional de la República antes de su ratificación por el Poder Ejecutivo. De igual forma, los Tratados Internacionales celebrados por Honduras con otros Estados, una vez que entran en vigor, forman parte del derecho interno”. CONSIDERANDO: Que la Ratificación es el acto internacional por el cual un Estado hace constar en el ámbito internacional su consentimiento en obligarse por un tratado. POR TANTO: En aplicación de los artículos 15, 16, 60, 213, 245 numerales 1, 11 y 13 de la Constitución de la República de Honduras; 116, 118 y 122, de la Ley General de la Administración Pública y sus reformas; y, 5 del Código Civil. ACUERDA: PRIMERO: Ratificar en todas y cada una de sus partes el “ACUERDO MARCO DE COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA”. que literalmente dice:
 
-A C U E R D O M A R C O
+ACUERDO MARCO
 
 D E
 
-C O O P E R A C I Ó N E N T R E E L GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA. El Gobierno de la República de Honduras y el Gobierno de la República de Corea (en lo sucesivo denominados, las “Partes”), deseando promover la reducción de la pobreza y el desarrollo económico y social sostenible del Gobierno de la República de Honduras a través de la cooperación, así como para fortalecer aún más las relaciones amistosas existentes entre los dos países, Han acordado lo siguiente: ARTÍCULO 1. OBJETIVO
+COOPERACIÓN ENTRE EL GOBIERNO DE LA REPÚBLICA DE HONDURAS Y EL GOBIERNO DE LA REPÚBLICA DE COREA. El Gobierno de la República de Honduras y el Gobierno de la República de Corea (en lo sucesivo denominados, las “Partes”), deseando promover la reducción de la pobreza y el desarrollo económico y social sostenible del Gobierno de la República de Honduras a través de la cooperación, así como para fortalecer aún más las relaciones amistosas existentes entre los dos países, Han acordado lo siguiente: ARTÍCULO 1. OBJETIVO
 
 1. El objeto del presente Acuerdo es establecer los términos y condiciones generales para la cooperación al desarrollo entre las Partes. 2. (a) Otras condiciones y procedimientos detallados relativos a programas de cooperación específicos bajo los términos del presente Acuerdo se establecerán en acuerdos subsidiarios entre las Partes. (b) Los acuerdos subsidiarios deberán hacer referencia específica a este Acuerdo, y los términos de este Acuerdo, a menos que se estipule lo contrario, se aplicarán a este tipo de acuerdos subsidiarios.
 
@@ -71,13 +71,13 @@ Nacionales de Corea con conocimientos y habilidades en determinados sectores, pe
 
 El personal enviado a la República de Honduras por la KOICA para implementar los programas en la República de Honduras; y, (i) personal enviado: Los expertos, voluntarios, representantes y personal tal y como se mencionan en los literales arriba.
 
-A R T Í C U L O 3 . Á R E A S D E COOPERACIÓN CONTRIBUCIONES DEL GOBIERNO DE COREA 1. El Gobierno de Corea deberá planificar e implementar los programas bajo este Acuerdo de manera consistente con las prioridades y planes de desarrollo del Gobierno de Honduras. 2. El Gobierno de Corea, con sujeción a las limitaciones presupuestarias y de conformidad con sus leyes y reglamentos nacionales, llevará a cabo por su propia cuenta una o más de las siguientes formas de cooperación: (A) invitar a nacionales de la República de Honduras a programas de formación en la República de Corea; (B) enviar expertos a la República de Honduras para asesoría y programas de formación in situ; (C) enviar voluntarios a la República de Honduras;
+ARTÍCULO 3 . ÁREAS DE COOPERACIÓN CONTRIBUCIONES DEL GOBIERNO DE COREA 1. El Gobierno de Corea deberá planificar e implementar los programas bajo este Acuerdo de manera consistente con las prioridades y planes de desarrollo del Gobierno de Honduras. 2. El Gobierno de Corea, con sujeción a las limitaciones presupuestarias y de conformidad con sus leyes y reglamentos nacionales, llevará a cabo por su propia cuenta una o más de las siguientes formas de cooperación: (A) invitar a nacionales de la República de Honduras a programas de formación en la República de Corea; (B) enviar expertos a la República de Honduras para asesoría y programas de formación in situ; (C) enviar voluntarios a la República de Honduras;
 
 (D) proporcionar al Gobierno de Honduras con equipo, maquinaria y materiales en relación con los Programas; (E) la construcción de las instalaciones necesarias para la implementación de los Programas;
 
-(F) coordinar con las autoridades competentes para la implementación de los programas; y, (G) proporcionar al Gobierno de Honduras con otras formas de cooperación que puedan ser mutuamente acordadas por las Partes. 3. Antes de concluir acuerdos sobre Programas específicos, el Gobierno de Corea celebrará consultas con el Gobierno de Honduras en un espíritu de colaboración. 4. El Gobierno de Corea tomará todas las medidas posibles para garantizar que, todo el personal enviado a la República de Honduras en el marco de los programas en virtud de este Acuerdo, respeten las leyes y reglamentos de la República de Honduras y mantengan un estrecho contacto con el Gobierno de H o n d u r a s .
+(F) coordinar con las autoridades competentes para la implementación de los programas; y, (G) proporcionar al Gobierno de Honduras con otras formas de cooperación que puedan ser mutuamente acordadas por las Partes. 3. Antes de concluir acuerdos sobre Programas específicos, el Gobierno de Corea celebrará consultas con el Gobierno de Honduras en un espíritu de colaboración. 4. El Gobierno de Corea tomará todas las medidas posibles para garantizar que, todo el personal enviado a la República de Honduras en el marco de los programas en virtud de este Acuerdo, respeten las leyes y reglamentos de la República de Honduras y mantengan un estrecho contacto con el Gobierno de Honduras .
 
-A R T Í C U L O
+ARTÍCULO
 
 4
 

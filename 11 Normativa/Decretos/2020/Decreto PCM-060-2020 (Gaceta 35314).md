@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números PCM-060- 2020, PCM-064-2020, PCM-065-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200715-35314/download"
 extraido: "2026-11-14"
-huella: "9f2492016b411131"
+huella: "4384c49b6e7a4b26"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-060-2020
@@ -33,13 +33,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 245 de la Constitución de la 
 
 CONSIDERANDO: Que Honduras es uno de los países más vulnerables al Cambio Climático y a sus efectos sobre la variabilidad climática nacional, los cuales representan una gran amenaza para la producción agrícola. Durante el período de sequía de 2019, provocada por el efecto del Fenómeno de “El Niño”, las pérdidas durante el ciclo de primero fueron estimadas en cerca al 50%, ya que los cultivos no contaron con el agua necesaria poder satisfacer las necesidades hídricas en sus diferentes etapas fenológicas.
 
-CONSIDERANDO: Que el agua, junto al suelo y la adecuada selección de variedades de cultivos, son recursos esenciales Sección A Decretos y Acuerdos PODER EJECUTIVO Decretos Ejecutivos números PCM-060- 2020, PCM-064-2020, PCM-065-2020 A. 1 - 15 AVANCE A. 16 para tener éxito en los procesos productivos agrícolas. Su disponibilidad y su buen aprovechamiento, permiten a los productores obtener los mejores rendimientos dentro de los ciclos de producción, abastecer los mercados nacionales y asegurar el acceso y la disponibilidad a alimentos.
+CONSIDERANDO: Que el agua, junto al suelo y la adecuada selección de variedades de cultivos, son recursos esenciales Sección A Decretos y Acuerdos PODER EJECUTIVO Decretos Ejecutivos números PCM-060-2020, PCM-064-2020, PCM-065-2020 A. 1 - 15 AVANCE A. 16 para tener éxito en los procesos productivos agrícolas. Su disponibilidad y su buen aprovechamiento, permiten a los productores obtener los mejores rendimientos dentro de los ciclos de producción, abastecer los mercados nacionales y asegurar el acceso y la disponibilidad a alimentos.
 
 CONSIDERANDO: Que las obras orientadas a la captación de aguas lluvias mediante “cosechas de agua”, corresponden, a esfuerzos necesarios y urgentes, que permitan a los productores poder acceder y aprovechar el recurso hídrico disponible en el país a través de la “agricultura de regadío”.
 
 De esta manera se permitirá a los productores beneficiados minimizar el impacto de las temporadas de sequía agrícola, logrando obtener mejores rendimientos y fortaleciendo en general la capacidad del sector agroalimentario del país.
 
-CONSIDERANDO: Que mediante Circular No. CGG- 2138-2019 con fecha de 21 de noviembre de 2019, se aprobó la asignación a la SAG de L. 30,000,000.00 millones de lempiras (treinta millones de lempiras) dedicados a la construcción y finalización de cosechas de agua y de
+CONSIDERANDO: Que mediante Circular No. CGG-2138-2019 con fecha de 21 de noviembre de 2019, se aprobó la asignación a la SAG de L. 30,000,000.00 millones de lempiras (treinta millones de lempiras) dedicados a la construcción y finalización de cosechas de agua y de
 
 L. 20,000,000.00 millones lempiras (veinte millones de lempiras) para la contratación de servicios de perforación de pozos y mediante Circular No. CGG-2187-2019 con fecha de 11 de diciembre de 2019 se aprobó la asignación a la SAG de L. 80,000,000.00 millones (ochenta millones de lempiras) para la construcción y finalización de cosechas de agua y de L. 20,000,000.00 millones (veinte millones de lempiras) para la contratación de servicios de perforación de pozos, como beneficiario, para ser aportados con fondos provenientes del Fideicomiso denominado: “INVERSIONES Y ASIGNACIONES PARA REALIZAR INVERSIONES EN EL SISTEMA NACIONAL DE ADMINISTRACIÓN DE LA PROPIEDAD, INVERSIONES EN LA RED VIAL PRIMARIA, SECUNDARIA Y TERCIARIA DEL PAÍS, INVERSIONES EN PROYECTOS DE GENERACIÓN DE EMPLEO Y OTROS” (FINA 2).
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo C.D.SENASA 002-2024; Declaratoria del Refugio de Vida Silvestre “LA DANTA”"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240822-36619/download"
 extraido: "2026-11-14"
-huella: "e030a2d10d83b57c"
+huella: "204e1b77a936b216"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo C.D.SENASA 002-2024; Declaratoria del Refugio de Vida Silvestre “LA DANTA”
@@ -35,7 +35,7 @@ CONSIDERANDO: Que es función del Estado proteger y preservar el patrimonio agro
 
 CONSIDERANDO: Que para mejorar la competitividad de los sectores productivos nacionales y facilitar las exportaciones de productos agropecuarios, se requiere incrementar la eficiencia y eficacia en la prestación de los servicios de sanidad agroalimentaria, de tal forma que el creciente intercambio comercial de esos productos se efectúe cumpliendo con las normas nacionales e internacionales.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015- 2020, publicado en La Gaceta número 35,361 de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015-2020, publicado en La Gaceta número 35,361 de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
 CONSIDERANDO: Que corresponde al SENASA prevenir la introducción de plagas y enfermedades que puedan afectar la agricultura, ganadería y el ambiente del país, el SENASA debe vigilar el cumplimiento de la normativa nacional sobre el tema, como también de la normativa internacional y tratados ratificados por el estado de Honduras, mediante los cuales participa en la definición de las normas y procedimientos que rigen el movimiento internacional de los vegetales, animales, productos y subproductos del mismo origen, así como de los insumos agropecuarios.
 

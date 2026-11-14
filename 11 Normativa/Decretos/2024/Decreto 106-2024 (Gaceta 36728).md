@@ -11,7 +11,7 @@ paginas: "A. 16 - 20"
 sumario: "Decretos Nos. 105-2024, 106-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241231-36728/download"
 extraido: "2026-11-14"
-huella: "783e39c1291536cf"
+huella: "e9f6933f7d9f08c3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 106-2024
@@ -43,21 +43,21 @@ CONSIDERANDO: Que el Pacto Mundial para una Migración Segura, Ordenada y Regula
 
 CONSIDERANDO: Que la migración a nivel mundial se ha incrementado considerablemente, el flujo de inmigrantes en situación de irregularidad en tránsito por nuestro país ha desencadenado una crisis migratoria debido al alto ingreso de migrantes al territorio hondureño por puntos no habilitados, infringiendo la legislación nacional.
 
-CONSIDERANDO: Que en virtud del aumento de los flujos migratorios irregulares, donde han sido beneficiados en el año 2022 la cantidad de 121,506 migrantes en estado de vulnerabilidad. Esta cifra ascendió a 440,203 a finales de Octubre de 2023, por lo que desde la implementación de la Amnistía Migratoria, más de 561,709 migrantes han sido asistidos en Honduras. En particular, durante los meses de Agosto, Septiembre y Octubre de 2023, se atendió un promedio mensual de 85,252 migrantes sumado a las personas beneficiadas por la amnistía aprobada para el año 2024; resultados resaltan la necesidad de extender la suspensión de la sanción administrativa prescrita en el Artículo 104 numeral 1) de la Ley de Migración y Extranjería, contenida en el Decreto No.208-2003 del 12 de Diciembre de 2003, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Marzo de 2004 y derivada de la infracción enmarcada en el Artículo 101 numeral 5) del mismo cuerpo legal, consistente en “entrar o salir al país sin realizar el control migratorio por puerto habilitado para ello”.
+CONSIDERANDO: Que en virtud del aumento de los flujos migratorios irregulares, donde han sido beneficiados en el año 2022 la cantidad de 121,506 migrantes en estado de vulnerabilidad. Esta cifra ascendió a 440,203 a finales de Octubre de 2023, por lo que desde la implementación de la Amnistía Migratoria, más de 561,709 migrantes han sido asistidos en Honduras. En particular, durante los meses de Agosto, Septiembre y Octubre de 2023, se atendió un promedio mensual de 85,252 migrantes sumado a las personas beneficiadas por la amnistía aprobada para el año 2024; resultados resaltan la necesidad de extender la suspensión de la sanción administrativa prescrita en el Artículo 104 numeral 1) de la Ley de Migración y Extranjería, contenida en el Decreto No. 208-2003 del 12 de Diciembre de 2003, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Marzo de 2004 y derivada de la infracción enmarcada en el Artículo 101 numeral 5) del mismo cuerpo legal, consistente en “entrar o salir al país sin realizar el control migratorio por puerto habilitado para ello”.
 
-CONSIDERANDO: Que el Decreto No.208-2003 del 12 de Diciembre del 2003, contentivo de la Ley de Migración y Extranjería, publicada en el Diario Oficial “La Gaceta” el 3 de Marzo de 2004, en su Artículo 109 establece que: “Cuando las circunstancias lo ameriten el Congreso Nacional por sí o a solicitud de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a extranjeros con el propósito de promover y facilitar la regularización de su situación migratoria”.
+CONSIDERANDO: Que el Decreto No. 208-2003 del 12 de Diciembre del 2003, contentivo de la Ley de Migración y Extranjería, publicada en el Diario Oficial “La Gaceta” el 3 de Marzo de 2004, en su Artículo 109 establece que: “Cuando las circunstancias lo ameriten el Congreso Nacional por sí o a solicitud de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a extranjeros con el propósito de promover y facilitar la regularización de su situación migratoria”.
 
 CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1-B del Decreto Legislativo No.42-2022, de fecha 10 de Mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Julio de 2022, reformado mediante los siguientes: Decreto Legislativo No.79-2022, del 3 de Agosto de 2022, publicado en el Diario Oficial “La Gaceta” el 4 de Agosto de 2022; Decreto Legislativo No.137- 2022, del 24 de Noviembre de 2022, publicado en el Diario Oficial “La Gaceta” el 28 de Noviembre de 2022;
+ARTÍCULO 1.- Reformar el Artículo 1-B del Decreto Legislativo No. 42-2022, de fecha 10 de Mayo de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Julio de 2022, reformado mediante los siguientes: Decreto Legislativo No. 79-2022, del 3 de Agosto de 2022, publicado en el Diario Oficial “La Gaceta” el 4 de Agosto de 2022; Decreto Legislativo No. 137-2022, del 24 de Noviembre de 2022, publicado en el Diario Oficial “La Gaceta” el 28 de Noviembre de 2022;
 
-Decreto Legislativo 39-2023, del 10 de Junio de 2023, publicado en el Diario Oficial “La Gaceta” el 1 de Junio del 2023 y mediante Decreto Legislativo No.6-2024 del 30 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” el 14 de Febrero de 2024, el cual debe leerse de la forma siguiente:
+Decreto Legislativo 39-2023, del 10 de Junio de 2023, publicado en el Diario Oficial “La Gaceta” el 1 de Junio del 2023 y mediante Decreto Legislativo No. 6-2024 del 30 de Enero de 2024, publicado en el Diario Oficial “La Gaceta” el 14 de Febrero de 2024, el cual debe leerse de la forma siguiente:
 
 ● ● “ARTÍCULO 1-B.- El presente Decreto beneficiará a los extranjeros o personas que formen parte de los flujos mixtos en estado de vulnerabilidad hasta el 31 de Diciembre del año 2025”.
 

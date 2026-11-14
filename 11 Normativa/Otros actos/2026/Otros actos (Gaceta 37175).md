@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-44-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260623-37175/download"
 extraido: "2026-11-09"
-huella: "b925aa629ef18799"
+huella: "a0f6aa0b5ac3dfed"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-44-2026
@@ -53,7 +53,7 @@ Resultando:
 
 6. Que en fecha veintiséis (26) de enero de dos mil veintiséis (2026), la Dirección de Regulación emitió el documento denominado “Análisis del Acuerdo CREE-03-2025 para la aplicación del Acuerdo CREE-36-2025”, concluyendo que los supuestos establecidos en el Resultando 6 del Acuerdo CREE-03-2025, que motivaron la emisión de las disposiciones transitorias, no subsistieron durante la aplicación de las referidas disposiciones en el año dos mil veinticinco (2025).
 
-7. Que mediante el acuerda PRIMERO del Acuerdo CREE- 10-2026 de fecha diez (10) de febrero de dos mil veintiséis (2026), la Comisión Reguladora de Energía Eléctrica (CREE) dispuso revocar el Acuerdo CREE-36-2025, en virtud de que los presupuestos fácticos y jurídicos que motivaron su emisión no llegaron a configurarse, reconociendo la procedencia de trasladar los costos efectivamente incurridos por las centrales participantes del MEO en el período comprendido del veinticinco (25) de abril al treinta (30) de junio de dos mil veinticinco (2025).
+7. Que mediante el acuerda PRIMERO del Acuerdo CREE-10-2026 de fecha diez (10) de febrero de dos mil veintiséis (2026), la Comisión Reguladora de Energía Eléctrica (CREE) dispuso revocar el Acuerdo CREE-36-2025, en virtud de que los presupuestos fácticos y jurídicos que motivaron su emisión no llegaron a configurarse, reconociendo la procedencia de trasladar los costos efectivamente incurridos por las centrales participantes del MEO en el período comprendido del veinticinco (25) de abril al treinta (30) de junio de dos mil veinticinco (2025).
 
 8. Que en fecha veintiséis (26) de marzo de dos mil veintiséis (2026), el Centro Nacional de Despacho (CND) presentó el oficio número GD-CND-094-2026, mediante el cual formuló observaciones técnico-legales sobre el Acuerdo CREE-10-2026 y sugirió revisar dicho acuerdo e incorporar, de estimarse pertinente, una declaración de nulidad de oficio con determinación explícita de los efectos retroactivos necesarios para respaldar las reliquidaciones del período analizado.
 

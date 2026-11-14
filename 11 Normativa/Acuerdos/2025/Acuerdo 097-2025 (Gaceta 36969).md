@@ -11,7 +11,7 @@ paginas: "A. 65 - 85"
 sumario: "Acuerdos Nos. 016-2025, 079-2025, 083-2025, 089-2025, 097-2025, Acuerdos Institucionales Nos. ICF-091-2025, 092-2025, DE-DCHA-017-2025, DE-DCHA-031-2025, DE-DCHA-032-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251016-36969-2/download"
 extraido: "2026-11-09"
-huella: "28aa0fea25e2d12f"
+huella: "9f7a9a9ee3ecd7bf"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 097-2025
@@ -59,11 +59,11 @@ La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo
 
 Artículos 1, 2, 3, 6, 7, 9, 11, 17, 18, 19, 20, 45, 46, 48, 57, 63, 68, 70, 72, 73, 74, 77, 90, 91, 103, 126 al 131 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, artículos 1, 2, 3, 4.
 
-6, 8, 9, 91, 94, 99, 126, 127, 128, 129, 130, 131, 132, 133,134, 135,136,137, 138, 150,151, 152, 153, 154, 166, 169, 183, 192, 214, 220, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 469, del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre y los artículos 22, 23, 24, 25, 26, y 27 de la Ley de Procedimiento Administrativo; Acuerdo No.009-2011, Acuerdo No.026A-2013 y demás aplicables.
+6, 8, 9, 91, 94, 99, 126, 127, 128, 129, 130, 131, 132, 133,134, 135,136,137, 138, 150,151, 152, 153, 154, 166, 169, 183, 192, 214, 220, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 469, del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre y los artículos 22, 23, 24, 25, 26, y 27 de la Ley de Procedimiento Administrativo; Acuerdo No. 009-2011, Acuerdo No. 026A-2013 y demás aplicables.
 
 ACUERDA:
 
-PRIMERO: Derogar los Acuerdos 09-2023 y 067- 2025, que contiene el “PROCEDIMIENTO PARA LA COMERCIALIZACIÓN DE LA MADERA DEL BOSQUE DE PINO EN ÁREAS DE TENENCIA NACIONAL, ASIGNADO A LAS ORGANIZACIONES COMUNITARIAS, BENEFICIARIAS DE LA FORESTERÍA COMUNITARIA”, publicados en el Diario La Gaceta.
+PRIMERO: Derogar los Acuerdos 09-2023 y 067-2025, que contiene el “PROCEDIMIENTO PARA LA COMERCIALIZACIÓN DE LA MADERA DEL BOSQUE DE PINO EN ÁREAS DE TENENCIA NACIONAL, ASIGNADO A LAS ORGANIZACIONES COMUNITARIAS, BENEFICIARIAS DE LA FORESTERÍA COMUNITARIA”, publicados en el Diario La Gaceta.
 
 SEGUNDO: Derogar los incisos d), e), f) g) y h) del numeral 8 del Acuerdo 009-2011 que contiene los mecanismos de transparencia en el proceso de comercialización de productos forestales, en el aspecto relacionado con los requisitos que deben de cumplir las Organizaciones Comunitarias y que se encuentran actualizados y contenidos en el presente Acuerdo.
 
@@ -641,7 +641,7 @@ b) Pagos sucesivos (por cada unidad de corta adicional):
 
 • Cada pago deberá realizarse antes del inicio del aprovechamiento de la respectiva unidad de corta.
 
-• Se utilizarán los mismos medios de pago cheque de caja , cheque certificado o transferencia bancaria a nombre de la Organización Agroforestal.
+• Se utilizarán los mismos medios de pago cheque de caja, cheque certificado o transferencia bancaria a nombre de la Organización Agroforestal.
 
 3. Validación ante el ICF:
 

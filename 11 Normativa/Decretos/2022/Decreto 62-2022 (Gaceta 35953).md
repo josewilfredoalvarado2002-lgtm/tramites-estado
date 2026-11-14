@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Legislativos Nos. 62-2022, 63-2022, 65-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220618-35953/download"
 extraido: "2026-11-14"
-huella: "cc3321df213fc1a9"
+huella: "a420ef78e946ad2e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 62-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad al Artículo 60 de la Constitución de la República, todas las personas somos libres e iguales ante la Ley y se declara punible toda discriminación por motivos de sexo, raza, clase y cualquier otra lesiva a la dignidad humana.
 
-CONSIDERANDO: Que el Convenio No.169 de la Organización Internacional del Trabajo (OIT) sobre pueblos indígenas y tribales en el Artículo 2.1 declara que “Los gobiernos deberán asumir la responsabilidad de desarrollar, con la participación de los pueblos interesados, una acción coordinada y sistemática con miras a proteger los derechos de esos pueblos y a garantizar el respeto de su integridad”.
+CONSIDERANDO: Que el Convenio No. 169 de la Organización Internacional del Trabajo (OIT) sobre pueblos indígenas y tribales en el Artículo 2.1 declara que “Los gobiernos deberán asumir la responsabilidad de desarrollar, con la participación de los pueblos interesados, una acción coordinada y sistemática con miras a proteger los derechos de esos pueblos y a garantizar el respeto de su integridad”.
 
 CONSIDERANDO: Que la lucha social ambientalista que inició nuestra compatriota BERTHA ISABEL CÁCERES FLORES debe ir de la mano con la imperante evolución del derecho internacional en el reconocimiento de la legislación hondureña en la implementación de mecanismos que garanticen la preservación de los recursos naturales, las garantías mínimas de protección a los pueblos indígenas y tribales y a la vida de las y los defensores del medio ambiente.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

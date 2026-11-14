@@ -11,7 +11,7 @@ paginas: "A. 17 - 19"
 sumario: "Decretos Nos. 222-2026, 223-2026, 2282026, 229-2026, 231-2026, 232-2026, 2332026, 256-2026, 269-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261107-37289/download"
 extraido: "2026-11-10"
-huella: "34cf0b6e00ccce5f"
+huella: "517a242bc3c9847c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 256-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el artículo 205, atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

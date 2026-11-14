@@ -11,7 +11,7 @@ paginas: "A. 15 - 16"
 sumario: "Acuerdo No. ADUANAS-DE-006-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211230-35810/download"
 extraido: "2026-11-14"
-huella: "88bba42202981c3b"
+huella: "f8ff1b1e07210079"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-006-2021
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 22 enero 2021
 
 CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la Repúlica.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el márco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170- 2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva Administración Aduanera en el márco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
 
 CONSIDERANDO: Que mediante Acuerdo No. 579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al Abogado JUAN JOSÉ VIDES MEJIA como Director Ejecutivo de la Administración Aduanera de Honduras.
 
@@ -41,13 +41,11 @@ CONSIDERANDO: Que a través de la Resolución IM UA No. 17-2017, se aprueba el R
 
 CONSIDERANDO:
 
-Que la instancia Ministerial conformada por el Ministerio de Economía de Guatemala y el Secretario de Estado en el Despacho de Desarrollo Económico de Honduras, a través de la Resolución IM UA No. 18-2017, definieron 10 aduanas periféricas de la Unión Aduanera, entre ellas la Terrestre Tecún Umán y que mediante Resolución IM-UA No. 70-2019 y IM-UA No. 75- 2019 se estableció iniciar el 01 de octubre de 2020.
+Que la instancia Ministerial conformada por el Ministerio de Economía de Guatemala y el Secretario de Estado en el Despacho de Desarrollo Económico de Honduras, a través de la Resolución IM UA No. 18-2017, definieron 10 aduanas periféricas de la Unión Aduanera, entre ellas la Terrestre Tecún Umán y que mediante Resolución IM-UA No. 70-2019 y IM-UA No. 75-2019 se estableció iniciar el 01 de octubre de 2020.
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.
-
-ADUANAS-DE-056-2020 de fecha 27 de noviembre de 2020, se aprobó la asignación mensual que recibirán en compensación por desarraigo correspondiente al año dos mil veinte (2020), para los colaboradores que estén asignados en la Aduana Periférica de Tecún Umán,
+Que mediante Acuerdo No. ADUANAS-DE-056-2020 de fecha 27 de noviembre de 2020, se aprobó la asignación mensual que recibirán en compensación por desarraigo correspondiente al año dos mil veinte (2020), para los colaboradores que estén asignados en la Aduana Periférica de Tecún Umán,
 
 POR TANTO:
 

@@ -8,10 +8,10 @@ gaceta_numero: 37208
 gaceta_fecha: "2026-07-31"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37208 (2026-07-31)|La Gaceta 37208]]"
 paginas: "A. 1 - 4"
-sumario: "Decreto Ejecutivo Número 022-2026AVANCE"
+sumario: "Decreto Ejecutivo Número 022-2026; AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260731-37208/download"
 extraido: "2026-11-09"
-huella: "3bc60762f792fe10"
+huella: "610879ed6d56faad"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 022-2026
@@ -23,7 +23,7 @@ huella: "3bc60762f792fe10"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37208 (2026-07-31)\|La Gaceta 37208]] del 2026-07-31 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número 022-2026AVANCE |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número 022-2026; AVANCE |
 
 ## Texto
 
@@ -51,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Como medida extraordinaria en materia económica por razones de interés público y social y, en estricta aplicación del Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, aprobada mediante Decreto Número 278-2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, que faculta a las instituciones del Poder Ejecutivo que otorgan subsidios para que implementen los mecanismos necesarios para la focalización de los mismos en los beneficiarios, prorrogar en todas sus disposiciones, hasta el treinta y uno (31) de diciembre del año dos mil veintiséis (2026), la vigencia del DECRETO EJECUTIVO NÚMERO 011- 2026, de fecha 30 de abril de 2026 y publicado el 2 de mayo de 2026 en el Diario Oficial "La Gaceta”, mediante el cual se instruye y autoriza a la Secretaría de Estado en el Despacho de Energía (SEN), subsidiar hasta el 50% del diferencial de los precios para la venta de la Gasolina Regular y Diésel que cause el aumento que sufran los precios máximos fijados en el Sistema de Precios Paridad de Importación aprobado por la Secretaría deEstado en el Despacho deEnergía (SEN).
+ARTÍCULO 1.- Como medida extraordinaria en materia económica por razones de interés público y social y, en estricta aplicación del Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, aprobada mediante Decreto Número 278-2013, publicado en el Diario Oficial “La Gaceta” de fecha 30 de diciembre de 2013, que faculta a las instituciones del Poder Ejecutivo que otorgan subsidios para que implementen los mecanismos necesarios para la focalización de los mismos en los beneficiarios, prorrogar en todas sus disposiciones, hasta el treinta y uno (31) de diciembre del año dos mil veintiséis (2026), la vigencia del DECRETO EJECUTIVO NÚMERO 011-2026, de fecha 30 de abril de 2026 y publicado el 2 de mayo de 2026 en el Diario Oficial "La Gaceta”, mediante el cual se instruye y autoriza a la Secretaría de Estado en el Despacho de Energía (SEN), subsidiar hasta el 50% del diferencial de los precios para la venta de la Gasolina Regular y Diésel que cause el aumento que sufran los precios máximos fijados en el Sistema de Precios Paridad de Importación aprobado por la Secretaría deEstado en el Despacho deEnergía (SEN).
 
 #### Artículo 2
 

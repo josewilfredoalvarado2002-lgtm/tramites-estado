@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo Ministerial No. 137-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221226-36112/download"
 extraido: "2026-11-14"
-huella: "8d776bc73b8da584"
+huella: "55af47b8f53c00f1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 137-2022
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el Artículo 247 de la Constitución de la República establec
 
 CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administración Pública, establece que son atribuciones de las Secretarías del Estado, emitir los Acuerdos y Resoluciones sobre los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar de su ejecución.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-29-2011, de fecha 29 de marzo del 2011, se promulgó la Ley de Sistema Nacional de Calidad, con el objetivo de establecer el Sistema Nacional de la Calidad como infraestructura nacional encargada de las actividades de desarrollo y la demostración de la calidad, para promover la competitividad de las empresas nacionales, proporcionar confianza en la transacción de bienes y servicios, facilitar el cumplimiento de los compromisos internacionales en materia de evaluación de la conformidad, promover la cultura de la calidad y brindar apoyo técnico a los entes reguladores.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 29-2011, de fecha 29 de marzo del 2011, se promulgó la Ley de Sistema Nacional de Calidad, con el objetivo de establecer el Sistema Nacional de la Calidad como infraestructura nacional encargada de las actividades de desarrollo y la demostración de la calidad, para promover la competitividad de las empresas nacionales, proporcionar confianza en la transacción de bienes y servicios, facilitar el cumplimiento de los compromisos internacionales en materia de evaluación de la conformidad, promover la cultura de la calidad y brindar apoyo técnico a los entes reguladores.
 
 CONSIDERANDO: Que es competencia de la Secretaría de Desarrollo Económico, la coordinación y ejecución de las políticas orientadas al fomento y desarrollo de la industria, y la promoción de las inversiones y para poder asegurar el cumplimiento de este mandato es necesario ajustar las leyes y reglamentos a las exigencias internas y externas de la nación.
 
@@ -485,7 +483,7 @@ Artículo 44. Publicación en una o más de las siguientes:
 
 (2) diarios de circulación nacional, redes sociales del OHA, redes sociales institucionales, páginas web y otros medios electrónicos que se consideren pertinentes. La convocatoria es general y puede participar cualquier persona natural que goce de plenos derechos según la legislación nacional y, siguiendo los lineamientos establecidos en los procedimientos del OHA y bajo procesos de transparencia e independencia.
 
-El presente Reglamento tiene como objeto establecer las normas y principios para la regulación, organización, funcionamiento, servicios, aplicación y desarrollo del Organismo Nacional de Acreditación , como organismo parte del Sistema Nacional de la Calidad, a efecto de constituir los diversos instrumentos y mecanismos técnicos y jurídicos necesarios para la configuración e implementación de las estrategias y políticas públicas que propendan a la eficaz aplicación de la ley del Sistema Nacional de la Calidad.
+El presente Reglamento tiene como objeto establecer las normas y principios para la regulación, organización, funcionamiento, servicios, aplicación y desarrollo del Organismo Nacional de Acreditación, como organismo parte del Sistema Nacional de la Calidad, a efecto de constituir los diversos instrumentos y mecanismos técnicos y jurídicos necesarios para la configuración e implementación de las estrategias y políticas públicas que propendan a la eficaz aplicación de la ley del Sistema Nacional de la Calidad.
 
 #### Artículo 45
 

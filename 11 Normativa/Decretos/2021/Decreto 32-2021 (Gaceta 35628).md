@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto No. 32-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210615-35628/download"
 extraido: "2026-11-14"
-huella: "c89429e6a4953566"
+huella: "3d78e37f9b66a145"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 32-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -59,11 +59,11 @@ ARTÍCULO 2.- Por tener una consideración de extraterritorialidad, para fines f
 
 #### Artículo 3
 
-ARTÍCULO 3.- Interpretar el Artículo 1 de la LEY DE INGRESO DE DIVISAS PROVENIENTES DE LAS EXPORTACIONES (Decreto No.108-90) en el sentido que el mismo no es aplicable a las Exportaciones que realicen las Zonas de Empleo y Desarrollo Económico (ZEDE) a otros países ni a las exportaciones o ventas que se hagan desde el mercado nacional hacia una ZEDE.
+ARTÍCULO 3.- Interpretar el Artículo 1 de la LEY DE INGRESO DE DIVISAS PROVENIENTES DE LAS EXPORTACIONES (Decreto No. 108-90) en el sentido que el mismo no es aplicable a las Exportaciones que realicen las Zonas de Empleo y Desarrollo Económico (ZEDE) a otros países ni a las exportaciones o ventas que se hagan desde el mercado nacional hacia una ZEDE.
 
 #### Artículo 4
 
-ARTÍCULO 4.- El Poder Ejecutivo debe emitir un Reglamento para regular las relaciones del Poder Ejecutivo con las Zonas de Empleo y Desarrollo Económico (ZEDE). Este Reglamento únicamente podrá ser puesto en vigor, reformarse o derogarse después de un proceso de consulta con las Zonas de Empleo y Desarrollo Económico (ZEDE), a través del Comité para la Adopción de Mejores Prácticas (CAMP) y los Secretarios Técnicos de cada una de las Zonas de Empleo y Desarrollo Económico existentes. Para que la entrada en vigor, reforma o derogación del mismo se considere válida, se requiere la aceptación expresa de la mayoría de estas zonas a través de sus Secretarios Técnicos. Las disputas que se den entre autoridades de las Zonas de Empleo y Desarrollo Económico (ZEDE) y autoridades nacionales o municipales del resto del territorio nacional por la interpretación o aplicación de alguna norma en particular se resolverán mediante arbitraje ante cualquier sede arbitral autorizada en el país y bajo sus reglas. En ausencia de un acuerdo entre las partes para definir la sede arbitral, la misma será la que seleccione la parte que incoe la demanda, siendo aplicable para este efecto lo dispuesto en el Artículo 31 del Decreto No.51-2011 contentivo de la LEY PARA LA PROMOCIÓN Y PROTECCIÓN DE INVERSIONES.
+ARTÍCULO 4.- El Poder Ejecutivo debe emitir un Reglamento para regular las relaciones del Poder Ejecutivo con las Zonas de Empleo y Desarrollo Económico (ZEDE). Este Reglamento únicamente podrá ser puesto en vigor, reformarse o derogarse después de un proceso de consulta con las Zonas de Empleo y Desarrollo Económico (ZEDE), a través del Comité para la Adopción de Mejores Prácticas (CAMP) y los Secretarios Técnicos de cada una de las Zonas de Empleo y Desarrollo Económico existentes. Para que la entrada en vigor, reforma o derogación del mismo se considere válida, se requiere la aceptación expresa de la mayoría de estas zonas a través de sus Secretarios Técnicos. Las disputas que se den entre autoridades de las Zonas de Empleo y Desarrollo Económico (ZEDE) y autoridades nacionales o municipales del resto del territorio nacional por la interpretación o aplicación de alguna norma en particular se resolverán mediante arbitraje ante cualquier sede arbitral autorizada en el país y bajo sus reglas. En ausencia de un acuerdo entre las partes para definir la sede arbitral, la misma será la que seleccione la parte que incoe la demanda, siendo aplicable para este efecto lo dispuesto en el Artículo 31 del Decreto No. 51-2011 contentivo de la LEY PARA LA PROMOCIÓN Y PROTECCIÓN DE INVERSIONES.
 
 #### Artículo 5
 

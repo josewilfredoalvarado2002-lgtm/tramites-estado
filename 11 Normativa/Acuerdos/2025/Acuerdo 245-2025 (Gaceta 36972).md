@@ -8,10 +8,10 @@ gaceta_numero: 36972
 gaceta_fecha: "2025-10-20"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36972 (2025-10-20)|La Gaceta 36972]]"
 paginas: "A. 4 - 6"
-sumario: "Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Número 372-2025"
+sumario: "Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Número 372-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251020-36972/download"
 extraido: "2026-11-09"
-huella: "427d63b036ce2ab1"
+huella: "a32c9f0d7547d71c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 245-2025
@@ -23,7 +23,7 @@ huella: "427d63b036ce2ab1"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36972 (2025-10-20)\|La Gaceta 36972]] del 2025-10-20 |
 | Páginas | A. 4 - 6 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Número 372-2025 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. SEP-234-2025, Acuerdo Ejecutivo Número 245-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Número 372-2025 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO (2): Que, el Poder Ejecutivo se encuentra constituido por: La Presi
 
 CONSIDERANDO (3): Que, con la finalidad de dar cumplimiento a las funciones del Ejecutivo, su titular ejercerá la suprema dirección y coordinación de la Administración Pública, encontrándose para tales efectos legitimada para emitir los actos administrativos que fuesen pertinentes, tal como lo establece el artículo 245 numeral 11) de la Constitución de la República en relación con los artículos: 11, 116, 117 y 118 de la Ley General de la Administración Pública. Mismos que adquirirán la forma de Acuerdos Ejecutivos cuando tuviesen por objeto la toma de decisiones en las cuales no hubiesen intervenido los particulares como parte interesada.
 
-CONSIDERANDO (4): Que en el ejercicio de las facultades contenidas en los artículos: 4 y 22 numeral 3) de la Ley General de la Administración Pública, la Presidenta Constitucional de la República mediante la emisión del Decreto Ejecutivo PCM- 05-2022, el cual fue publicado en el Diario Oficial La Gaceta número 35,892 de fecha 6 de abril de 2022, creó la Secretaría de Estado en el Despacho de Asuntos de la Mujer.
+CONSIDERANDO (4): Que en el ejercicio de las facultades contenidas en los artículos: 4 y 22 numeral 3) de la Ley General de la Administración Pública, la Presidenta Constitucional de la República mediante la emisión del Decreto Ejecutivo PCM-05-2022, el cual fue publicado en el Diario Oficial La Gaceta número 35,892 de fecha 6 de abril de 2022, creó la Secretaría de Estado en el Despacho de Asuntos de la Mujer.
 
 CONSIDERANDO (5): Que, tal como lo establece los artículos: 1 y 2 de la Ley de Casas Refugio Para Mujeres Víctimas Sobrevivientes de Violencia en Honduras, dichas instalaciones tienen por objeto brindar atención a aquellas mujeres que se encuentren en riesgo por una condición especial de vulnerabilidad, ya fuesen éstas; migrantes, migrantes retornadas, desplazadas, víctimas de trata o cualquier tipo de violencia u otras circunstancias análogas.
 

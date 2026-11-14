@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220505-35915/download"
 extraido: "2026-11-14"
-huella: "de68e8f016d3ba4f"
+huella: "69725e0bb5a713dc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-233-2022
@@ -29,9 +29,7 @@ huella: "de68e8f016d3ba4f"
 
 07 de marzo de 2022
 
-CONSIDERANDO: Que mediante Acuerdo N°. STSS-201-2022 de fecha veinticuatro (24) de enero del año 2022, se aprobó a partir del tres (03) de enero al veintiséis (26) de enero del año dos mil veintidós (2022), el Contrato de Servicios, suscrito con el ciudadano CESAR LUIS LANZA ELVIR, como “COORDINADOR DEL SERVICIO DE ATENCIÓN AL CIUDADANO”, Puesto No.
-
-207, en la oficina principal, ubicada en la Ciudad de Tegucigalpa, Departamento de Francisco Morazán
+CONSIDERANDO: Que mediante Acuerdo N°. STSS-201-2022 de fecha veinticuatro (24) de enero del año 2022, se aprobó a partir del tres (03) de enero al veintiséis (26) de enero del año dos mil veintidós (2022), el Contrato de Servicios, suscrito con el ciudadano CESAR LUIS LANZA ELVIR, como “COORDINADOR DEL SERVICIO DE ATENCIÓN AL CIUDADANO”, Puesto No. 207, en la oficina principal, ubicada en la Ciudad de Tegucigalpa, Departamento de Francisco Morazán
 
 CONSIDERANDO: Que según MEMORANDO N°. 284-2022 de fecha 24 de febrero del 2022, la Sub Gerente de Recursos Humanos, solicita el acuerdo de Rescisión, efectivo a partir del 26 de enero de 2022 del Contrato de Servicios suscrito con esta Secretaría de Estado, en el cual el ciudadano prestará sus servicios del tres (03) al veintiséis (26) de enero del año 2022, como “COORDINADOR DEL SERVICIO DE ATENCIÓN AL CIUDADANO”, Puesto No. 207, en la oficina principal, ubicada en la Ciudad de Tegucigalpa, Departamento de Francisco Morazán.
 
@@ -39,9 +37,7 @@ POR TANTO: LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCI
 
 ACUERDA:
 
-No renovar el Contrato de Servicios, suscrito con el ciudadano CESAR LUIS LANZA ELVIR, como “COORDINADOR DEL SERVICIO DE ATENCIÓN AL CIUDADANO”, Puesto No.
-
-207, en la oficina principal, ubicada en la Ciudad de Tegucigalpa, Departamento de Francisco Morazán. Vencido el veintiséis (26) de enero de dos mil veintidós (2022).
+No renovar el Contrato de Servicios, suscrito con el ciudadano CESAR LUIS LANZA ELVIR, como “COORDINADOR DEL SERVICIO DE ATENCIÓN AL CIUDADANO”, Puesto No. 207, en la oficina principal, ubicada en la Ciudad de Tegucigalpa, Departamento de Francisco Morazán. Vencido el veintiséis (26) de enero de dos mil veintidós (2022).
 
 COMUNÍQUESE Y PUBLÍQUESE.
 

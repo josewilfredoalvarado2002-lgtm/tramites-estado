@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Nos. SAG-097-2024, SAG-102-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240530-36547/download"
 extraido: "2026-11-14"
-huella: "a9df2bbac86604b3"
+huella: "3326d623d03389bb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-097-2024
@@ -61,7 +61,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar la facultad de Firma y Administración en el Director Ejecutivo de la Dirección de Ciencia y Tecnología Agropecuaria (DICTA), ciudadano ARTURO GALO GALO, nombrado mediante Acuerdo Ejecutivo No. 378- 2022, de fecha siete (07) de Julio del año dos mil veintidós (2022) para la suscripción de solicitudes de contratación de personal bajo procesos de evaluación (mínimo a aplicar tres
+PRIMERO: Delegar la facultad de Firma y Administración en el Director Ejecutivo de la Dirección de Ciencia y Tecnología Agropecuaria (DICTA), ciudadano ARTURO GALO GALO, nombrado mediante Acuerdo Ejecutivo No. 378-2022, de fecha siete (07) de Julio del año dos mil veintidós (2022) para la suscripción de solicitudes de contratación de personal bajo procesos de evaluación (mínimo a aplicar tres
 
 (3) candidatos; Pagos de planillas contra entrega de productos de los consultores; Autorizar desde el inicio del proceso la compra de insumos para bonos, bienes, obras, servicios y trámites derivados de éstos hasta su ejecución; Autorizar viáticos de todo el personal bajo su cargo y lineamientos de conformidad a la ley, en el marco del PROGRAMA “BONO TECNOLOGICO PRODUCTIVO” y demás actividades que se encuentran detalladas en la CARTA DE ENTENDIMIENTO DE COOPERACION TECNICA Y ADMINISTRACION DE FONDOS PARA APOYAR EL PROGRAMA “BONO TECNOLOGICO PRODUCTIVO AÑO 2024” CELEBRADA ENTRE ESTA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdos Ministeriales Números 041-2023, 071-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230810-36304/download"
 extraido: "2026-11-14"
-huella: "021473f1408446fb"
+huella: "a3dfcbcb8f598c06"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 041-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y A
 
 Dentro de dicho plazo, el Consejo deberá reunirse para considerar la situación, calificar su gravedad y disponer medidas que conjuntamente deban tomarse, incluyendo la posibilidad de resolver sobre la suspensión o modificación de las disposiciones adoptadas unilateralmente o, según el caso, autorizar la prórroga de las mismas. El plazo del párrafo anterior se tendrá por prorrogado hasta la fecha en que el Consejo adopte las medidas que correspondan. El Consejo reglamentará la presente disposición”.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad- Hoc, para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, Comisión integrada por representantes de la Secretaría de Estado en el Despacho de Desarrollo Económico, Secretaría de Estado en los Despachos de Agricultura y Ganadería, Administración Aduanera de Honduras, Consejo Hondureño de la Empresa Privada y de cualquier otra Secretaría de Estado que tenga relación con el tema. En este último caso se convocó a la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad- Hoc, para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, Comisión integrada por representantes de la Secretaría de Estado en el Despacho de Desarrollo Económico, Secretaría de Estado en los Despachos de Agricultura y Ganadería, Administración Aduanera de Honduras, Consejo Hondureño de la Empresa Privada y de cualquier otra Secretaría de Estado que tenga relación con el tema. En este último caso se convocó a la Secretaría de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que en fecha 25 de enero 2023, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud del sector agroindustrial que se dedica a la producción y comercialización de jugo de naranja sobre la “Habilitación o Establecimiento de Salvaguardia para el Concentrado de Naranja Congelado como Materia Prima…”
 
@@ -49,9 +49,7 @@ CONSIDERANDO: Que la Comisión Ad-Hoc se reunió en fecha 11 de abril del 2023, 
 
 CONSIDERANDO: Que el peticionario, solicitó audiencia a la Comisión Ad-Hoc, con el objetivo de exponer los argumentos, sobre la solicitud de “HABILITACIÓN O ESTABLECIMIENTO DE SALVAGUARDIA PARA EL CONCENTRADO DE NARANJA CONGELADO COMO MATERIA PRIMA”. Misma que fue realizada el 26 de abril de 2023, contando con la participación de la Asociación Nacional de Industriales.
 
-CONSIDERANDO: Que de conformidad al procedimiento establecido en el Artículo 12 del Acuerdo Ministerial No.
-
-005-2021 y con la información presentada por el peticionario, la Administración Aduanera de Honduras, la Secretaría de Estado en los Despachos de Agricultura y Ganadería y la Secretaría de Estado en el Despacho de Desarrollo Económico, se elaboró el informe técnico, que fue sometido a consideración de la Comisión Ad-Hoc, quienes revisaron y aprobaron el citado informe, como se puede constar en acta del 05 de mayo de 2023.
+CONSIDERANDO: Que de conformidad al procedimiento establecido en el Artículo 12 del Acuerdo Ministerial No. 005-2021 y con la información presentada por el peticionario, la Administración Aduanera de Honduras, la Secretaría de Estado en los Despachos de Agricultura y Ganadería y la Secretaría de Estado en el Despacho de Desarrollo Económico, se elaboró el informe técnico, que fue sometido a consideración de la Comisión Ad-Hoc, quienes revisaron y aprobaron el citado informe, como se puede constar en acta del 05 de mayo de 2023.
 
 CONSIDERANDO: Que revisados los argumentos del peticionario y de los representantes de la Administración Aduanera de Honduras, la Secretaría de Estado en los Despachos de Agricultura y Ganadería, la Secretaría de Estado en el Despacho de Finanzas y la Secretaría de Estado en el Despacho de Desarrollo Económico y de conformidad a los instrumentos jurídicos aplicables en materia de salvaguardia, la Comisión Ad-Hoc acordó declarar parcialmente con lugar lo solicitado por el peticionario, aplicando la salvaguardia unilateral modificando los Derechos Arancelarios a la Importación al 25% por el término de un (1) año, con el fin de proteger la producción nacional y el consumidor final, así como, fomentar que la agroindustria adquiera la materia prima (naranja) en el mercado nacional.
 

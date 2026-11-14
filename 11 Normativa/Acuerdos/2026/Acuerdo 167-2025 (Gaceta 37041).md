@@ -11,7 +11,7 @@ paginas: "A. 3 - 12"
 sumario: "Acuerdos Ejecutivos Nos. 165-2025, 166-2025, 167-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260112-37041/download"
 extraido: "2026-11-09"
-huella: "06032fd2f5f7ae89"
+huella: "35ecbcdbce889818"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 167-2025
@@ -31,11 +31,11 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos: 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41- 2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41-2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano Raúl Alexis Fuentes Borjas, en el cargo de Comisionado Adjunto de la Comisión Interventora del Sistema Penitenciario Nacional, en el marco del artículo 2, segundo párrafo del Decreto Ejecutivo PCM- 41-2024.
+PRIMERO: Nombrar al ciudadano Raúl Alexis Fuentes Borjas, en el cargo de Comisionado Adjunto de la Comisión Interventora del Sistema Penitenciario Nacional, en el marco del artículo 2, segundo párrafo del Decreto Ejecutivo PCM-41-2024.
 
 SEGUNDO: La vigencia del presente Acuerdo Ejecutivo, será a partir del uno (1) al veintiséis (26) de enero del dos mil veintiséis (2026).
 

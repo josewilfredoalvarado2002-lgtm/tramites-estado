@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdos Nos. SAG-001-2025, SAG-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250129-36752/download"
 extraido: "2026-11-13"
-huella: "3ce32bce2f9f5d7b"
+huella: "2fab02936d06fccc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-002-2025
@@ -55,7 +55,7 @@ CONSIDERANDO: Que en fecha uno (01) de abril del año dos mil veinticuatro (2024
 
 CONSIDERANDO: Que al treinta y uno (31) de octubre del año dos mil veinticuatro (2024) se generaron L. 710,442.31 (SETECIENTOS DIEZ MIL CUATROCIENTOS CUARENTA Y DOS LEMPIRAS CON TREINTA Y UN CENTAVOS) de intereses de la cuenta abierta para el manejo de fondos de la Carta de Entendimiento, y L. 489,557.69 ( CUATROCIENTOS OCHENTA Y NUEVE MIL QUINIENTOS CINCUENTA Y SIETE LEMPIRAS CON SESENTA Y NUEVE CENTAVOS), que representan la proyección de los intereses a generar al treinta (30) de abril del dos mil veinticinco (2025), haciendo un total de L. 1,200,000.00 (UN MILLON DOSCIENTOS MIL LEMPIRAS EXACTOS).
 
-CONSIDERANDO: Que en fecha veintinueve (29) de noviembre del año dos mil veinticuatro (2024), fue firmada la ADENDA No.1, a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Ganadero año 2024”, celebrada entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), mediante la cual las partes acuerdan modificar la Cláusula Segunda: Monto de la Carta de Entendimiento y la Cláusula Novena: Vigencia, Duración y Modificaciones; estableciéndose que la presente Adenda tendrá una vigencia desde la fecha de su firma hasta el treinta (30) de abril del dos mil veinticinco (2025).
+CONSIDERANDO: Que en fecha veintinueve (29) de noviembre del año dos mil veinticuatro (2024), fue firmada la ADENDA No. 1, a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Ganadero año 2024”, celebrada entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), mediante la cual las partes acuerdan modificar la Cláusula Segunda: Monto de la Carta de Entendimiento y la Cláusula Novena: Vigencia, Duración y Modificaciones; estableciéndose que la presente Adenda tendrá una vigencia desde la fecha de su firma hasta el treinta (30) de abril del dos mil veinticinco (2025).
 
 POR TANTO:
 

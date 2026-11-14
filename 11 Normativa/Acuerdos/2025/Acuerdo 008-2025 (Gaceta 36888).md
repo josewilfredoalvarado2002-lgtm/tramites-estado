@@ -11,7 +11,7 @@ paginas: "A. 17 - 28"
 sumario: "Acuerdo No. 008-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250712-36888/download"
 extraido: "2026-11-09"
-huella: "e04c00a2bfa0d8b2"
+huella: "7bbef7b7d0552ea5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 008-2025
@@ -53,7 +53,7 @@ La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo
 
 ACUERDA:
 
-PRIMERO: Derogar el Acuerdo Institucional No. 010- 2015, publicado en el Diario Oficial La Gaceta N° 33,723 de fecha siete (07) de mayo del dos mil quince (2015), contentivo del Instructivo para la Aplicación de las Normas Técnicas en Planes Especiales de Sistemas Agroforestales (PESA) menores a cien hectáreas. Por lo cual, en el presente Acuerdo se aprueba en todas y cada una de sus partes, la Normativa denominada “NORMATIVA TÉCNICA PARA LA ELABORACIÓN E IMPLEMENTACIÓN DE PLANES ESPECIALES EN SISTEMAS AGROFORESTALES (PESAF) EN ÁREAS MENORES A 100 HECTAREAS” que, literalmente dice:
+PRIMERO: Derogar el Acuerdo Institucional No. 010-2015, publicado en el Diario Oficial La Gaceta N° 33,723 de fecha siete (07) de mayo del dos mil quince (2015), contentivo del Instructivo para la Aplicación de las Normas Técnicas en Planes Especiales de Sistemas Agroforestales (PESA) menores a cien hectáreas. Por lo cual, en el presente Acuerdo se aprueba en todas y cada una de sus partes, la Normativa denominada “NORMATIVA TÉCNICA PARA LA ELABORACIÓN E IMPLEMENTACIÓN DE PLANES ESPECIALES EN SISTEMAS AGROFORESTALES (PESAF) EN ÁREAS MENORES A 100 HECTAREAS” que, literalmente dice:
 
 #### Artículo 1
 

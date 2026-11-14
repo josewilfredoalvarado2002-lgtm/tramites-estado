@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Ejecutivos Nos. 018-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260302-37083/download"
 extraido: "2026-11-09"
-huella: "ea954a985cdda9f4"
+huella: "9b52eb091df4a091"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 018-DP-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 12, reformado, de la Ley General de la Administra
 
 CONSIDERANDO: Que mediante DECRETO EJECUTIVO NÚMERO PCM-053-2018, publicado en el Diario Oficial La Gaceta de fecha 15 de agosto de 2018, se creó el CONSEJO NACIONAL DE LOGÍSTICA (CNL) como un ente rector de la política de desarrollo logístico, coadyuvante de los procesos que se realicen con el sector privado para el desarrollo económico y mejoramiento de la competitividad del País. Dependiente de la Presidencia de la República, a la cual rendirá cuenta directa de su funcionamiento y, de conformidad al Artículo 6 del mismo Decreto, la Presidencia del CONSEJO NACIONAL DE LOGÍSTICA (CNL) podrá ser desempeñada únicamente por los representantes del sector público y el mismo será designado por el Presidente de la República.
 
-CONSIDERANDO: Que mediante Decreto Número 30- 2020 de fecha 3 de marzo de 2020 y publicado en el Diario Oficial "La Gaceta" de fecha 13 de marzo de 2020, se reformó el Artículo 13 de la Ley Orgánica de la Empresa Nacional Portuaria (ENP), integrando en adelante como miembro propietario del Consejo Directivo de la EMPRESA NACIONAL PORTUARIA (ENP), al Representante Legal del CONSEJO NACIONAL DE LOGÍSTICA (CNL) o el funcionario que éste designe.
+CONSIDERANDO: Que mediante Decreto Número 30-2020 de fecha 3 de marzo de 2020 y publicado en el Diario Oficial "La Gaceta" de fecha 13 de marzo de 2020, se reformó el Artículo 13 de la Ley Orgánica de la Empresa Nacional Portuaria (ENP), integrando en adelante como miembro propietario del Consejo Directivo de la EMPRESA NACIONAL PORTUARIA (ENP), al Representante Legal del CONSEJO NACIONAL DE LOGÍSTICA (CNL) o el funcionario que éste designe.
 
 POR TANTO;
 

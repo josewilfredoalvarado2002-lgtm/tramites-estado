@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "ac67fad5a1fd3b93"
+huella: "df4e0c3d708fe556"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 149-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras establece que el
 
 CONSIDERANDO: Que la Ley de Municipalidades reconoce a las Municipalidades como órganos de gobierno y administración local, dotados de personalidad jurídica y autonomía para gestionar los asuntos de interés municipal y promover el desarrollo integral de sus habitantes.
 
-CONSIDERANDO: Que el Municipio de Nueva Frontera, Departamento de Santa Bárbara, creado mediante Decreto No.192-97 de fecha 20 de enero de 1997, requiere fortalecer su capacidad operativa para atender con mayor eficiencia las necesidades de sus comunidades y garantizar la adecuada prestación de los servicios públicos municipales.
+CONSIDERANDO: Que el Municipio de Nueva Frontera, Departamento de Santa Bárbara, creado mediante Decreto No. 192-97 de fecha 20 de enero de 1997, requiere fortalecer su capacidad operativa para atender con mayor eficiencia las necesidades de sus comunidades y garantizar la adecuada prestación de los servicios públicos municipales.
 
 CONSIDERANDO: Que las actividades agrícolas y pecuarias constituyen la principal base económica del Municipio, por lo que resulta necesario contar con medios de transporte adecuados que faciliten la supervisión de proyectos, el traslado del personal municipal, la atención de las comunidades y el cumplimiento eficiente de las funciones institucionales.
 
@@ -41,17 +41,17 @@ CONSIDERANDO: Que la adquisición de un vehículo de uso oficial contribuirá a 
 
 CONSIDERANDO: Que la exoneración del pago del impuesto sobre ventas y de los demás tributos aplicables a la adquisición del referido vehículo permitirá destinar una mayor proporción de los recursos municipales a la ejecución de obras, programas y proyectos de desarrollo local, fortaleciendo la inversión pública municipal.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No.170-2016, establece que: EXONERACIÓN. “Es la dispensa total o parcial del pago de una obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, contenido en el Decreto No. 170-2016, establece que: EXONERACIÓN. “Es la dispensa total o parcial del pago de una obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individual corresponde al Poder Ejecutivo por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO:
 
-D E C R E TA :
+D E C R E TA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar a la MUNICIPALIDAD D E N U E VA F R O N T E R A , DEPARTAMENTO DE SANTA BÁRBARA, del pago del Impuesto Sobre Ventas, tasas, sobretasas, derechos arancelarios, gravámenes de importación y cualquier otro tributo legalmente aplicable en el territorio nacional para la compra directa de un (1) vehículo destinado exclusivamente al uso oficial de la Municipalidad, con las siguientes características:
+ARTÍCULO 1.- Exonerar a la MUNICIPALIDAD D E N U E VA FRONTERA, DEPARTAMENTO DE SANTA BÁRBARA, del pago del Impuesto Sobre Ventas, tasas, sobretasas, derechos arancelarios, gravámenes de importación y cualquier otro tributo legalmente aplicable en el territorio nacional para la compra directa de un (1) vehículo destinado exclusivamente al uso oficial de la Municipalidad, con las siguientes características:
 
 TIPO:
 
@@ -87,7 +87,7 @@ CON SETENTA Y CUATRO CENTAVOS ($2,021.74).
 
 VALOR TOTAL QUINCE MIL QUINIENTOS COTIZADO:
 
-D Ó L A R E S E X A C T O S
+DÓLARES EXACTOS
 
 ($15,500.00).
 

@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Resolución No. 2-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221219-36106/download"
 extraido: "2026-11-14"
-huella: "6a4bdcf2af73f996"
+huella: "95f6a7b161e729ef"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 2-2022
@@ -29,7 +29,7 @@ huella: "6a4bdcf2af73f996"
 
 EL CONGRESO NACIONAL, Reunido en el Congreso Nacional, a los seis días del mes de diciembre de 2022, en el Pleno de la Cámara Legislativa, para emitir Resolución sobre la misiva enviada a este Congreso Nacional por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a presentar a este Poder del Estado, la solicitud que a su vez le fuere presentada por parte de la República de El Salvador, contraída a que se conceda al ciudadano hondureño EDIL REINEL MÉNDEZ MEJÍA, permiso para aceptar el cargo de Cónsul General Honorario de ese país en Honduras, específicamente en Islas de la Bahía con jurisdicción en Roatán, Honduras.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 251-DGAC- 2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 251-DGAC-2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la potestad y el deber de conceder permiso a los hondureños para aceptar cargos de otro Estado; Artículo 255 de la Constitución de la República y, los artículos 82 y 24 numeral
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo No. 382-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210812-35685/download"
 extraido: "2026-11-14"
-huella: "dcdde2229a9e96e2"
+huella: "457cc4afc21ac9fb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 382-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en el Artículo 351 establec
 
 CONSIDERANDO: Que mediante el Decreto Legislativo No. 100-2020 publicado en el Diario Oficial La Gaceta el 22 de febrero del año 2021, el Congreso Nacional de la República exonera a las empresas del subsector eléctrico del pago del Impuesto denominado Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV), creado mediante el Decreto No. 131-98 de fecha 30 de abril del año 1998 y sus reformas, asociado a los combustibles fósiles utilizados por sus centrales de generación de electricidad que se comercializa en el Mercado Eléctrico Nacional como lo establece la Ley General de la Industria Eléctrica, sus Reglamentos y Normativas.
 
-CONSIDERANDO: Que el Artículo 3 del Decreto Legislativo No.100-2020 refiere a los Servicios Eléctricos, estableciendo lo siguiente: “Quedan exentos del pago del Impuesto Sobre Ventas el transporte de electricidad y los servicios requeridos para el mantenimiento de la calidad, confiabilidad y seguridad del servicio eléctrico, así como los servicios prestados por la Asociación Operador del Sistema Eléctrico Nacional (ODS), en el ejercicio de la operación del sistema, la Administración del Mercado Mayorista de Electricidad de Honduras cuando los mismos no generen lucro, para lo cual se instruye a la Secretaría de Estado en el Despacho de Finanzas para que en coordinación con la Secretaría de Energía (SEN), la Comisión Reguladora de Energía Eléctrica (CREE) y la Administración Aduanera elaboren el instructivo técnico tributario aduanero que determine los servicios a que se refiere este artículo de conformidad a la regulación del mercado eléctrico, para la correcta aplicación del beneficio”.
+CONSIDERANDO: Que el Artículo 3 del Decreto Legislativo No. 100-2020 refiere a los Servicios Eléctricos, estableciendo lo siguiente: “Quedan exentos del pago del Impuesto Sobre Ventas el transporte de electricidad y los servicios requeridos para el mantenimiento de la calidad, confiabilidad y seguridad del servicio eléctrico, así como los servicios prestados por la Asociación Operador del Sistema Eléctrico Nacional (ODS), en el ejercicio de la operación del sistema, la Administración del Mercado Mayorista de Electricidad de Honduras cuando los mismos no generen lucro, para lo cual se instruye a la Secretaría de Estado en el Despacho de Finanzas para que en coordinación con la Secretaría de Energía (SEN), la Comisión Reguladora de Energía Eléctrica (CREE) y la Administración Aduanera elaboren el instructivo técnico tributario aduanero que determine los servicios a que se refiere este artículo de conformidad a la regulación del mercado eléctrico, para la correcta aplicación del beneficio”.
 
 CONSIDERANDO: Que mediante el Decreto Legislativo No. 404-2013 publicado en el Diario Oficial “La Gaceta”, de fecha veinte (20) de mayo de 2014, se aprobó la Ley General de la Industria Eléctrica, la que tiene por objeto regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio nacional, la importación y exportación de energía eléctrica y la operación del sistema eléctrico nacional.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que es obligación del Estado, velar por que en los diferentes tr�
 
 CONSIDERANDO: Que de conformidad al numeral 15 del Artículo 29 de la Ley de la Administración Pública y sus Reformas, a la Secretaría de Estado en el Despacho de Finanzas, le compete todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas.
 
-CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97, reformado por el Decreto PCM-35- 2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas por conducto de la Dirección General de Política Tributaria, colaborar en la definición, seguimiento y evaluación de la política tributaria para la toma de decisiones de las autoridades superiores a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
+CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97, reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas por conducto de la Dirección General de Política Tributaria, colaborar en la definición, seguimiento y evaluación de la política tributaria para la toma de decisiones de las autoridades superiores a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
 
 POR TANTO
 
@@ -59,13 +59,11 @@ CAPÍTULO I DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO: El presente Instructivo Técnico Tributario tiene por objeto desarrollar las disposiciones contenidas en el Artículo 3 del Decreto Legislativo No.
-
-100-2020 publicado en fecha 22 de febrero del año 2021, relacionadas con los servicios eléctricos de conformidad con la regulación del mercado eléctrico, para la correcta aplicación del beneficio fiscal.
+ARTÍCULO 1.- OBJETO: El presente Instructivo Técnico Tributario tiene por objeto desarrollar las disposiciones contenidas en el Artículo 3 del Decreto Legislativo No. 100-2020 publicado en fecha 22 de febrero del año 2021, relacionadas con los servicios eléctricos de conformidad con la regulación del mercado eléctrico, para la correcta aplicación del beneficio fiscal.
 
 #### Artículo 2
 
-ARTÍCULO 2.- ÁMBITO DE APLICACIÓN: Las normas contenidas en el presente instructivo son de orden público, observancia obligatoria y de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones regulados en el Artículo 3 del Decreto Legislativo No. 100- 2020 de fecha 22 de febrero del año 2021.
+ARTÍCULO 2.- ÁMBITO DE APLICACIÓN: Las normas contenidas en el presente instructivo son de orden público, observancia obligatoria y de aplicación en todo el territorio nacional para todos aquellos actos, hechos y situaciones regulados en el Artículo 3 del Decreto Legislativo No. 100-2020 de fecha 22 de febrero del año 2021.
 
 #### Artículo 3
 
@@ -95,7 +93,7 @@ ELECTRIClDAD, TRANSMISIÓN, DISTRIBUCIÓN Y COMPLEMENTARIOS
 
 #### Artículo 4
 
-ARTÍCULO 4.- GOCE DEL BENEFICIO: Las exenciones contenidas en el artículo 3 del Decreto Legislativo No. 100- 2020 no deben someterse a procedimientos administrativos autorizantes.
+ARTÍCULO 4.- GOCE DEL BENEFICIO: Las exenciones contenidas en el artículo 3 del Decreto Legislativo No. 100-2020 no deben someterse a procedimientos administrativos autorizantes.
 
 #### Artículo 5
 

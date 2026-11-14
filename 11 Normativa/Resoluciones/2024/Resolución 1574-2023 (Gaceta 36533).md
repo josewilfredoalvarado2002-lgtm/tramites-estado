@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1574-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240514-36533/download"
 extraido: "2026-11-14"
-huella: "de81ebdb08175a33"
+huella: "ba4df737c53c35bb"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1574-2023
@@ -271,9 +271,9 @@ NORMAN ALEXANDER ROMERO ANDINO OFICIAL JURIDICO
 
 ACUERDO DE DELEGACIÓN DE FIRMA No. 605-2022 DE FECHA 03 DE AGOSTO DE 2022.
 
-Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) bajo el No.2023000327 de fecha 22 de diciembre de 2023.
+Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) bajo el No. 2023000327 de fecha 22 de diciembre de 2023.
 
-Papel de Seguiridad Habilitado mediante Acuerdo No. 42- 2024 de fecha 03 de enero de 2024, CORRELATIVO DE PAPEL SGJD No. 03968-2022 AL PAPEL SGJD No. 03970- 2022 ___________ Poder Judicial NOTA ACLARATORIA La infrascrita, Secretaria General de la Corte Suprema de Justicia, ACLARA: Que en La Gaceta número 36,530 de fecha 10 de mayo de 2024, se publicó el “REGLAMENTO DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS.- ACUERDO No. CSJ 01-2023” y por un lapsus calami se consignó erróneamente el año de referencia, siendo lo correcto: “REGLAMENTO DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS.- ACUERDO No. CSJ 01-2024”.
+Papel de Seguiridad Habilitado mediante Acuerdo No. 42-2024 de fecha 03 de enero de 2024, CORRELATIVO DE PAPEL SGJD No. 03968-2022 AL PAPEL SGJD No. 03970-2022 ___________ Poder Judicial NOTA ACLARATORIA La infrascrita, Secretaria General de la Corte Suprema de Justicia, ACLARA: Que en La Gaceta número 36,530 de fecha 10 de mayo de 2024, se publicó el “REGLAMENTO DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS.- ACUERDO No. CSJ 01-2023” y por un lapsus calami se consignó erróneamente el año de referencia, siendo lo correcto: “REGLAMENTO DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS.- ACUERDO No. CSJ 01-2024”.
 
 Tegucigalpa, M.D.C., 13 de mayo de 2024
 

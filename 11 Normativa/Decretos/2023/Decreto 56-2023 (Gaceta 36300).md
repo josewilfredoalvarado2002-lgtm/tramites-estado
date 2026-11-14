@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 56-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230805-36300/download"
 extraido: "2026-11-14"
-huella: "73fe3473472b03c0"
+huella: "a72f3a1ca6c4dee9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2023
@@ -41,23 +41,23 @@ CONSIDERANDO: Que las decisiones legislativas de este nuevo Congreso Nacional, d
 
 CONSIDERANDO: Que, en la jerarquía de leyes del Derecho, la Constitución de la República establece en su
 
-Artículo 214 que una Ley Secundaria u ordinaria (como es el caso del Decreto No.116-2019) se crea, reforma o deroga, con los votos de la mayoría simple de los diputados presentes.
+Artículo 214 que una Ley Secundaria u ordinaria (como es el caso del Decreto No. 116-2019) se crea, reforma o deroga, con los votos de la mayoría simple de los diputados presentes.
 
-Por lo que, lo establecido en el Artículo 21 del Decreto No.116- 2019, que establece que su reforma o derogación será con dos tercios (2/3) de votos del total de diputados del Congreso Nacional, NO tienen validez jurídica.
+Por lo que, lo establecido en el Artículo 21 del Decreto No. 116-2019, que establece que su reforma o derogación será con dos tercios (2/3) de votos del total de diputados del Congreso Nacional, NO tienen validez jurídica.
 
 CONSIDERANDO: Que debido a que la Constitución de la República siempre prevalecerá frente a una Ley secundaria, lo que se encuentra claramente establecido en el Artículo 320 de la Constitución que dispone: “En caso de incompatibilidad entre una norma Constitucional y una legal ordinaria se aplicará la primera” y está no es otra que la Constitución de la República.
 
-CONSIDERANDO: Que por lo expresado en los considerandos anteriores, constitucionalmente para reformar o derogar el Decreto No.116-2019, solo se requiere de los votos de la mayoría simple de los congresistas presentes en el Pleno ~del Congreso Nacional.
+CONSIDERANDO: Que por lo expresado en los considerandos anteriores, constitucionalmente para reformar o derogar el Decreto No. 116-2019, solo se requiere de los votos de la mayoría simple de los congresistas presentes en el Pleno ~del Congreso Nacional.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto Legislativo No.116- 2019, contentivo de la LEY ESPECIAL PARA LA GESTIÓN, ASIGNACIÓN, EJECUCIÓN, LIQUIDACIÓN Y RENDICIÓN DE CUENTAS DE FONDOS PÚBLICOS PARA PROYECTOS DE ORDEN SOCIAL, COMUNITARIOS, INFRAESTRUCTURA Y PROGRAMAS SOCIALES, de fecha 16 de Octubre de 2019, publicado en fecha 18 de Octubre de 2019, en el Diario Oficial “La Gaceta”, en la Edición No.35,076.
+ARTÍCULO 1.- Derogar el Decreto Legislativo No. 116-2019, contentivo de la LEY ESPECIAL PARA LA GESTIÓN, ASIGNACIÓN, EJECUCIÓN, LIQUIDACIÓN Y RENDICIÓN DE CUENTAS DE FONDOS PÚBLICOS PARA PROYECTOS DE ORDEN SOCIAL, COMUNITARIOS, INFRAESTRUCTURA Y PROGRAMAS SOCIALES, de fecha 16 de Octubre de 2019, publicado en fecha 18 de Octubre de 2019, en el Diario Oficial “La Gaceta”, en la Edición No. 35,076.
 
 #### Artículo 2
 

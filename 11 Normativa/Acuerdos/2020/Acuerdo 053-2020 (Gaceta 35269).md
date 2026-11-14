@@ -8,7 +8,7 @@ gaceta_numero: 35269
 gaceta_fecha: "2020-05-31"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35269 (2020-05-31)|La Gaceta 35269]]"
 paginas: "A. 5 - 8"
-sumario: "Decreto Ejecutivo número PCM-048-2020SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020"
+sumario: "Decreto Ejecutivo número PCM-048-2020; SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200531-35269-2/download"
 extraido: "2026-11-14"
 huella: "bf8ac2f73f27ca31"
@@ -23,7 +23,7 @@ huella: "bf8ac2f73f27ca31"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35269 (2020-05-31)\|La Gaceta 35269]] del 2020-05-31 |
 | Páginas | A. 5 - 8 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-048-2020SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-048-2020; SECRETARÍA DE DESARROLLO ECONÓMICO Acuerdos Nos. 053-2020, 055-2020 |
 
 ## Texto
 

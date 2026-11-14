@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo No. CU-O-033-04-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230525-36237/download"
 extraido: "2026-11-14"
-huella: "265a75b47122996b"
+huella: "700fdc041902c6c0"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. CU-O-033-04-2023
@@ -29,7 +29,7 @@ huella: "265a75b47122996b"
 
 La infrascrita, Secretaria General a.i., de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA: La Certificación No. 008-2022 contentiva del Acuerdo No. CU-O-033-04-2023, del Acta No. CU-O-002-04-2023, de la Sesión Ordinaria del Consejo Universitario, celebrada el veintiocho de abril de dos mil veintitrés, relativo a la Reforma del Artículo 16 del Reglamento de Plus o Sobresueldos por Gestión Académica Administrativa, que literalmente dice:
 
-“C E R T I F I C A C I Ó N No. 008-2023. El infrascrito, Secretario del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo No.CU-O-033-04-2023, de la Sesión Ordinaria del 28 de abril de 2023, y que, sin perjuicio de la ulterior aprobación del acta, literalmente dice: “Oficio SCU-No.044-2023. 15 de Mayo de 2023. DOCTOR FRANCISCO JOSE HERRERA ALVARADO, RECTOR-UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Ordinaria celebrada el viernes 28 de abril de dos mil veintitrés, en Acta No. CU-O-002-04-2023 levantada al efecto, obra el ACUERDO No. CU-O-033-04-2023, y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-O-033-04-2023.
+“CERTIFICACIÓN No. 008-2023. El infrascrito, Secretario del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo No.CU-O-033-04-2023, de la Sesión Ordinaria del 28 de abril de 2023, y que, sin perjuicio de la ulterior aprobación del acta, literalmente dice: “Oficio SCU-No. 044-2023. 15 de Mayo de 2023. DOCTOR FRANCISCO JOSE HERRERA ALVARADO, RECTOR-UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Ordinaria celebrada el viernes 28 de abril de dos mil veintitrés, en Acta No. CU-O-002-04-2023 levantada al efecto, obra el ACUERDO No. CU-O-033-04-2023, y que, sin perjuicio de la ulterior aprobación del Acta, en su parte resolutiva dice: “ACUERDO No. CU-O-033-04-2023.
 
 CONSIDERANDO: Que el Consejo Universitario es el máximo órgano de dirección superior responsable de concertar y generar las políticas y estrategias de la gestión universitaria. CONSIDERANDO: Que es atribución del Consejo Universitario ejercer la potestad reglamentaria en el marco de sus competencias.
 

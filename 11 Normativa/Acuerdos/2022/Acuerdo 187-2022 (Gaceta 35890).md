@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdos Ejecutivos Nos. 10-2022, 187-2022, 204-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220404-35890/download"
 extraido: "2026-11-14"
-huella: "68ae3da9765f7b67"
+huella: "44956d38c6b33078"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 187-2022
@@ -31,9 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 118-2003, de fecha 20 de agosto de 2003, fue emitida la Ley Marco del Sector Agua Potable y Saneamiento, la cual fue publicada en el Diario Oficial La Gaceta el 08 de octubre de 2003 y con vigencia el 05 de noviembre de 2003, misma que establece en su Artículo 09 la creación de una institución descentralizada, adscrita a la Secretaría de Estado en los Despachos de Salud, con independencia funcional, técnica y administrativa la que se denomina “ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO- (ERSAPS).
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-009-2017, de fecha 28 de septiembre de 2017, el Presidente de la República, nombró como Miembro Integrante del Directorio del ERSAPS, al señor MIGUEL ARNOLDO CARACCIOLI MELENDEZ, como Director Coordinador, por un periodo de cinco (5) años, los que vencen el 07 de noviembre de 2022, tal cual lo dispone la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 009-2017, de fecha 28 de septiembre de 2017, el Presidente de la República, nombró como Miembro Integrante del Directorio del ERSAPS, al señor MIGUEL ARNOLDO CARACCIOLI MELENDEZ, como Director Coordinador, por un periodo de cinco (5) años, los que vencen el 07 de noviembre de 2022, tal cual lo dispone la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento.
 
 CONSIDERANDO: Que conforme a la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento establecen una serie de funciones, atribuciones y obligaciones a las quedan sujetos, una vez nombrados los miembros del Directorio del ERSAPS.
 

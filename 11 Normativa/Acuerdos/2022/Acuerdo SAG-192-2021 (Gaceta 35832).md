@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. SAG-192-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220126-35832/download"
 extraido: "2026-11-14"
-huella: "ed642a7a2a178260"
+huella: "6f7e59140dc9f074"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-192-2021
@@ -41,15 +41,13 @@ CONSIDERANDO (4): Que en fecha 21 de octubre del año 2004, la Secretaría de Es
 
 Permitir temporalmente la captura de Langosta Nasa y escama a las embarcaciones que han operado con licencia para caracol. SEGUNDO: Las embarcaciones mencionadas en el numeral PRIMERO, deberán obtener de la Secretaría de Agricultura y Ganadería, el permiso provisional correspondiente, con el entendido que al viabilizar la actividad del caracol, estas embarcaciones deberán volver a su actividad anterior (explotación de caracol).
 
-CONSIDERANDO (5): Que el armador de la embarcación REY KIM, con Número de Registro U-3321774, en apego al ACUERDO 776-04, de fecha 21 de octubre del año 2004, solicitó ante esta Secretaría de Estado en los Despachos de Agricultura y Ganadería, “autorización para la captura temporal de Langosta, habiéndose extendido su última licencia el 21 de junio del año 2011, con el número CAR- 004-2011 denominada Licencia temporal de Langosta temporada pesquera 2011-2012.
+CONSIDERANDO (5): Que el armador de la embarcación REY KIM, con Número de Registro U-3321774, en apego al ACUERDO 776-04, de fecha 21 de octubre del año 2004, solicitó ante esta Secretaría de Estado en los Despachos de Agricultura y Ganadería, “autorización para la captura temporal de Langosta, habiéndose extendido su última licencia el 21 de junio del año 2011, con el número CAR-004-2011 denominada Licencia temporal de Langosta temporada pesquera 2011-2012.
 
 CONSIDERANDO (6): Que en fecha 10 de febrero del año 2015, la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en uso de sus facultades emitió ACUERDO 249-15, donde se excluye de la flota pesquera nacional a la embarcación REY KIM, con Número de Registro U-3321774, entre otras, por inactividad manifiesta de más de un (1) año, estando abierto dos procesos uno de reserva de cupo y uno administrativo sancionatorio, el primero a favor del armador y el segundo en contra del armador de la embarcación, tal como consta en los expedientes y archivos de esta Secretaría de Estado, en consecuencia no debió excluirse de la flota pesquera de Caracol, mientras estos expedientes no tuviesen la emisión de una resolución firme, que finalizará el procedimiento.
 
 CONSIDERANDO (7): Que en fecha veinticuatro de noviembre del año dos mil veintiuno la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en uso de sus facultades, emitió RESOLUCIÓN-SAG-487-2021, donde
 
-RESUELVE: PRIMERO: DECLARAR CON LUGAR la solicitud de RESERVA DE CUPO POR EL TIEMPO QUE DURE LA MORATORIA O VEDA INDEFINIDA DEL CARACOL, a favor de la embarcación REY KIM, con Número de Registro U-3321774, presentada en fecha veintisiete de agosto del año dos mil doce, por el Abogado Oscar Rolando Palma Rodríguez, inscrito en el Colegio de Abogados de Honduras con carné de colegiación No.
-
-9226, quien actúa en su condición de Apoderado Legal del señor Carmen Vásquez, por el término de veinticuatro meses (24), ya que se acreditó fehacientemente que existía un trámite administrativo abierto; en consecuencia, no fué procedente excluirlo de la flota pesquera nacional de Caracol por inactividad.
+RESUELVE: PRIMERO: DECLARAR CON LUGAR la solicitud de RESERVA DE CUPO POR EL TIEMPO QUE DURE LA MORATORIA O VEDA INDEFINIDA DEL CARACOL, a favor de la embarcación REY KIM, con Número de Registro U-3321774, presentada en fecha veintisiete de agosto del año dos mil doce, por el Abogado Oscar Rolando Palma Rodríguez, inscrito en el Colegio de Abogados de Honduras con carné de colegiación No. 9226, quien actúa en su condición de Apoderado Legal del señor Carmen Vásquez, por el término de veinticuatro meses (24), ya que se acreditó fehacientemente que existía un trámite administrativo abierto; en consecuencia, no fué procedente excluirlo de la flota pesquera nacional de Caracol por inactividad.
 
 CONSIDERANDO (8): Que mediante Decreto Legislativo número 106-2015, se emitió la Ley General de Pesca y Acuicultura, siendo esta publicada en el Diario Oficial La Gaceta número 34,409, en fecha cinco (5) de agosto del año 2017, entrando en vigor veinte (20) días después de la publicación, estableciéndose en su artículo 124.- TRÁMITES INICIADOS ANTES DE LA ENTRADA EN VIGOR DE ESTA LEY. Todos los trámites iniciados con anterioridad a la vigencia de esta ley, continuarán tramitándose de acuerdo con el Decreto N- 154, su reglamento y demás normas aplicables. No obstante, las respectivas renovaciones se harán de conformidad a esta Ley y sus reglamentos y demás normas aplicables.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Ejecutivos Nos. 002-SRECI-SG-2026, 010-SRECI-DSM-2026, 013-SRECI-DSM-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261110-37291/download"
 extraido: "2026-11-12"
-huella: "8007f70b2a3823dc"
+huella: "41edb4f42995cadc"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 002-SRECI-SG-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que compete a la Secretaría de Relaciones Exteriores y Cooperaci�
 
 CONSIDERANDO: Que la Ley de Migración y Extranjería establece que la emisión de los Pasaportes Diplomáticos y Oficiales, será atribución de la Secretaría de Estado en el Despacho de Relaciones Exteriores.
 
-CONSIDERANDO: Que el Presidente de la República en el ejercicio de sus atribuciones mediante Acuerdo Ejecutivo No.002-SRECI-DSM-2026 publicado en el Diario Oficial La Gaceta en fecha 13 de marzo de 2026, declaró la nulidad absoluta del Reglamento de Pasaportes Diplomáticos y Oficiales aprobado en el año 2025, ratificando la plena e ininterrumpida vigencia del Acuerdo Presidencial No. 001 de fecha 30 de julio de 1998 que contiene el Reglamento de Pasaportes Diplomáticos, Oficiales y Especiales.
+CONSIDERANDO: Que el Presidente de la República en el ejercicio de sus atribuciones mediante Acuerdo Ejecutivo No. 002-SRECI-DSM-2026 publicado en el Diario Oficial La Gaceta en fecha 13 de marzo de 2026, declaró la nulidad absoluta del Reglamento de Pasaportes Diplomáticos y Oficiales aprobado en el año 2025, ratificando la plena e ininterrumpida vigencia del Acuerdo Presidencial No. 001 de fecha 30 de julio de 1998 que contiene el Reglamento de Pasaportes Diplomáticos, Oficiales y Especiales.
 
 CONSIDERANDO: Que los Secretarios de Estado podrán delegar en los funcionarios a que se refiere el artículo 30 de la Ley General de la Administración Pública, cualquiera de sus facultades, incluyendo las que hubieren sido delegadas por el Presidente de la República, así como las que por disposición de la ley o de los reglamentos, deban ser ejercidos por ellos mismos.
 

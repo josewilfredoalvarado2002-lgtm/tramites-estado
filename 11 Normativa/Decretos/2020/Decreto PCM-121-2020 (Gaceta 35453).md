@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201208-35453/download"
 extraido: "2026-11-14"
-huella: "89c462ff80333880"
+huella: "3bbcfed7f2c0e302"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-121-2020
@@ -35,13 +35,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 4 de la Ley General de la Admi
 
 CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencia de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
+CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencia de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-044-2020 publicado en el Diario Oficial “La Gaceta” en fecha 19 de mayo del 2020, Edición No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-044-2020 publicado en el Diario Oficial “La Gaceta” en fecha 19 de mayo del 2020, Edición No. 35,257, se creó el Despacho de Prioridades Presidenciales e Innovación Pública, reformado mediante los Decretos Ejecutivos Números PCM-076-2020 y PCM-111-2020.
 
-35,257, se creó el Despacho de Prioridades Presidenciales e Innovación Pública, reformado mediante los Decretos Ejecutivos Números PCM-076-2020 y PCM-111-2020.
-
-POR TANTO, En uso de las facultades que le confieren los Artículos 235, 245 numerales 1, 2, 11 y 45, 246, 252, 255, 321 y 323 de la Constitución de la República; Artículos 4, 7, 9, 10, 11, 14, numeral 1) y 4), 17, 18, 19, 20, 22, numerales 3) y 12), 25, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 1, 26, 27, 28, 29 y 30 de la Ley de Procedimiento Administrativo; Decretos Ejecutivos Números: PCM-044-2020, PCM-076-2020 y PCM-111- 2020.
+POR TANTO, En uso de las facultades que le confieren los Artículos 235, 245 numerales 1, 2, 11 y 45, 246, 252, 255, 321 y 323 de la Constitución de la República; Artículos 4, 7, 9, 10, 11, 14, numeral 1) y 4), 17, 18, 19, 20, 22, numerales 3) y 12), 25, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 1, 26, 27, 28, 29 y 30 de la Ley de Procedimiento Administrativo; Decretos Ejecutivos Números: PCM-044-2020, PCM-076-2020 y PCM-111-2020.
 
 DECRETA:
 

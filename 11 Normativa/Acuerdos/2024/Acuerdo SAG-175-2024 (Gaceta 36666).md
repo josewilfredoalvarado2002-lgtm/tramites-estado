@@ -8,7 +8,7 @@ gaceta_numero: 36666
 gaceta_fecha: "2024-10-17"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)|La Gaceta 36666]]"
 paginas: "A. 15 - 16"
-sumario: "Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
+sumario: "Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241017-36666/download"
 extraido: "2026-11-14"
 huella: "1619629e481fdc6f"
@@ -23,7 +23,7 @@ huella: "1619629e481fdc6f"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)\|La Gaceta 36666]] del 2024-10-17 |
 | Páginas | A. 15 - 16 |
-| Según el sumario de La Gaceta | Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
+| Según el sumario de La Gaceta | Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
 
 ## Texto
 

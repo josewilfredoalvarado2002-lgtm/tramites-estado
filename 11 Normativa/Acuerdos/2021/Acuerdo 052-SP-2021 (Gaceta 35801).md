@@ -11,7 +11,7 @@ paginas: "A. 14"
 sumario: "Acuerdo número 052-SP-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211218-35801/download"
 extraido: "2026-11-14"
-huella: "c3140a36046b7d35"
+huella: "d90691a923db321f"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 052-SP-2021
@@ -33,7 +33,7 @@ En uso de las facultades de que está investido y en aplicación del Acuerdo Eje
 
 CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de la República en la Orientación, Coordinación, Dirección y Supervisión de los órganos y entidades de la Administración Pública Nacional en el área de su competencia.
 
-CONSIDERANDO: Que mediante Acuerdo número 019-SP- 2021, de fecha 24 de mayo de 2021, se nombró bajo la figura de Puesto excluído al ciudadano Luis Roberto Aparicio Godoy, en el cargo de Gerente Administrativo.
+CONSIDERANDO: Que mediante Acuerdo número 019-SP-2021, de fecha 24 de mayo de 2021, se nombró bajo la figura de Puesto excluído al ciudadano Luis Roberto Aparicio Godoy, en el cargo de Gerente Administrativo.
 
 POR TANTO;
 

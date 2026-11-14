@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Ministeriales Nos. 206-2020, 207-2020, 208-2020, 209-2020, 210-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201028-35412/download"
 extraido: "2026-11-14"
-huella: "d15c3923be6a14c4"
+huella: "af1622f7d50ea479"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 208-2020
@@ -41,9 +41,7 @@ CONSIDERANDO: Que para gozar del beneficio del arancel cero por ciento (0%) para
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los Artículos 1, 7, 116 y 122 de la Ley General de la Administración Pública; 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo; Decreto No. 251-2013 del 10 de diciembre del año 2013; Acuerdo No. 357-2014 del 29 de septiembre del año 2014 y Acuerdo Ministerial No.
-
-202-2020 de fecha 12 de octubre de 2020.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los Artículos 1, 7, 116 y 122 de la Ley General de la Administración Pública; 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo; Artículo 54 literal a) contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo; Decreto No. 251-2013 del 10 de diciembre del año 2013; Acuerdo No. 357-2014 del 29 de septiembre del año 2014 y Acuerdo Ministerial No. 202-2020 de fecha 12 de octubre de 2020.
 
 ACUERDA:
 

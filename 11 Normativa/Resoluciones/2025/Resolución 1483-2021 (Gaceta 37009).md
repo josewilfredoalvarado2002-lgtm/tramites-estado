@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Certificaciones, Resoluciones Nos. 1483-2021, 1414-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251203-37009/download"
 extraido: "2026-11-09"
-huella: "ec35df5f4e7fb09f"
+huella: "b9d283d6d2ce7f47"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1483-2021
@@ -29,7 +29,7 @@ huella: "ec35df5f4e7fb09f"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 1483-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintisiete de julio del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha catorce de mayo del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-14052021- 307 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA PINEDA NÚMERO 2, MUNICIPIO DE SAN MANUEL, DEPARTAMENTO DE CORTÉS, contraído a solicitar la Personalidad Jurídica a favor de su representada. ANTECEDENTE DE HECHO En fecha catorce de mayo del año dos mil veintiuno, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA PINEDA NÚMERO 2 , MUNICIPIO DE SAN MANUEL, DEPARTAMENTO DE CORTÉS, a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha catorce de mayo del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-14052021-307 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA PINEDA NÚMERO 2, MUNICIPIO DE SAN MANUEL, DEPARTAMENTO DE CORTÉS, contraído a solicitar la Personalidad Jurídica a favor de su representada. ANTECEDENTE DE HECHO En fecha catorce de mayo del año dos mil veintiuno, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA PINEDA NÚMERO 2, MUNICIPIO DE SAN MANUEL, DEPARTAMENTO DE CORTÉS, a solicitar la Personalidad Jurídica a favor de su representada.
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 
@@ -51,9 +51,7 @@ OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 

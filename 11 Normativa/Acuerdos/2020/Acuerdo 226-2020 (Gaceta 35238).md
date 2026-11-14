@@ -11,7 +11,7 @@ paginas: "A. 27 - 28"
 sumario: "Acuerdos Ejecutivos números 205-2020, 226-2020, 229-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200429-35238/download"
 extraido: "2026-11-14"
-huella: "27ada681d8a30836"
+huella: "4356989f796cf774"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 226-2020
@@ -51,7 +51,7 @@ ARTÍCULO 1: Autorizar a la Licenciada ROCIO IZABEL TABORA MORALES, en su condic
 
 #### Artículo 2
 
-ARTÍCULO 2: Una vez suscrito el Acuerdo de Financiamiento mencionado en el Artículo 1 del presente Acuerdo Ejecutivo, la Secretaría de Estado en el Despacho de Finanzas en atención a lo establecido en Artículo 75 del Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, informará al Congreso Nacional en forma inmediata, sobre este acto. Así mismo, la Secretaría de Estado en el Despacho de Finanzas deberá remitir dicho Acuerdo de Financiamiento a la Empresa Nacional de Artes Gráficas (ENAG) para su correspondiente publicación en el Diario Oficial “La Gaceta”.
+ARTÍCULO 2: Una vez suscrito el Acuerdo de Financiamiento mencionado en el Artículo 1 del presente Acuerdo Ejecutivo, la Secretaría de Estado en el Despacho de Finanzas en atención a lo establecido en Artículo 75 del Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, informará al Congreso Nacional en forma inmediata, sobre este acto. Así mismo, la Secretaría de Estado en el Despacho de Finanzas deberá remitir dicho Acuerdo de Financiamiento a la Empresa Nacional de Artes Gráficas (ENAG) para su correspondiente publicación en el Diario Oficial “La Gaceta”.
 
 #### Artículo 3
 

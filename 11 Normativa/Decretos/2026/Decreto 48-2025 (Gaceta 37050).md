@@ -11,7 +11,7 @@ paginas: "A. 18 - 22"
 sumario: "Decretos Nos. 8-2023, 7-2025, 29-2025, 48-2025, 55-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260122-37050/download"
 extraido: "2026-11-09"
-huella: "a47bf0ac211f734e"
+huella: "039d0112c9d6c2cb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Gobierno de la República tiene el firme e inclaudicable co
 
 CONSIDERANDO: Que el Plan de Gobierno Bicentenario para la refundación de la Patria, incorpora la creación de una nueva institucionalidad comprometida con la transparencia y la rendición de cuentas, por lo que una de las primeras acciones de Gobierno fue la creación de la Secretaría de Estado en el Despacho de Transparencia y Lucha contra la Corrupción, la derogación de la Ley para la Clasificación de Documentos Públicos Relacionados con la Seguridad y Defensa Nacional, contenida en el Decreto No. 458-2013 del 20 de enero de 2014, publicado en el Diario Oficial “La Gaceta” de fecha 7 de marzo de 2014, más conocida como Ley de Secretos y la Instalación de la Comisión Internacional contra la Corrupción y la Impunidad en Honduras (CICIH), con el apoyo de la Organización de las Naciones Unidas (ONU).
 
-CONSIDERANDO: Que, mediante Decreto Legislativo No.4-2022, del 2 de febrero de 2022, publicado en el Diario Oficial “La Gaceta” No.35,840, de fecha 4 de febrero de 2022, que contiene la Ley para la Reconstrucción del Estado Constitucional de Derecho y para que los Hechos no se Repitan, el Congreso Nacional facultó a la Presidencia de la República para gestionar la instalación de la Comisión Internacional contra la Corrupción e Impunidad en Honduras (CICIH), bajo la asesoría de la Organización de las Naciones Unidas (ONU), que funcione de forma independiente efectuando las investigaciones, con énfasis en inteligencia y análisis financiero; así como las acciones punitivas para combatir frontalmente el saqueo de los bienes públicos, entre otros, de alta cuantía y lesividad al erario público.
+CONSIDERANDO: Que, mediante Decreto Legislativo No. 4-2022, del 2 de febrero de 2022, publicado en el Diario Oficial “La Gaceta” No. 35,840, de fecha 4 de febrero de 2022, que contiene la Ley para la Reconstrucción del Estado Constitucional de Derecho y para que los Hechos no se Repitan, el Congreso Nacional facultó a la Presidencia de la República para gestionar la instalación de la Comisión Internacional contra la Corrupción e Impunidad en Honduras (CICIH), bajo la asesoría de la Organización de las Naciones Unidas (ONU), que funcione de forma independiente efectuando las investigaciones, con énfasis en inteligencia y análisis financiero; así como las acciones punitivas para combatir frontalmente el saqueo de los bienes públicos, entre otros, de alta cuantía y lesividad al erario público.
 
 CONSIDERANDO: Que, concluido el diagnóstico por parte del Grupo de Expertos de la Organización de las Naciones Unidas (ONU), le remitió el primer borrador de Convenio por parte de la República de Honduras y aprobado el 22 de diciembre de 2023, en la Asamblea de la ONU, el Mandato al Secretario General su Excelencia António Guterres, se requiere aprobar la normativa que autorice, legitime y dé personalidad jurídica a la Comisión Internacional Contra la Corrupción y la Impunidad (CICIH), para ejercer temporalmente y durante un período de cinco (5) años, las funciones de investigar y combatir con independencia y autonomía, las redes de corrupción público-privada de alto impacto que son responsables del saqueo y la entrega del territorio nacional y se han mantenido en la impunidad.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -51,7 +51,7 @@ LEY ESPECIAL DE LA COMISIÓN INTERNACIONAL CONTRA LA CORRUPCIÓN Y LA IMPUNIDAD 
 
 #### Artículo 1
 
-ARTÍCULO 1.- C O M B A T E A R E D E S D E CORRUPCIÓN. COMISIÓN INTERNACIONAL CONTRA LA CORRUPCIÓN Y LA IMPUNIDAD (CICIH) CON PERSONALIDAD JURÍDICA COMO QUERELLANTE AUTÓNOMO CON ATRIBUCIONES Y FACULTADES DE ACUSADOR PRIVADO POR UN PERÍODO DE CINCO (5) AÑOS. Para combatir las redes de corrupción pública-privada de alto impacto y el saqueo de los bienes públicos, el Estado de Honduras otorga y reconoce personalidad jurídica en carácter de Querellante Autónomo, con atribuciones y facultades de Acusador Privado a la Comisión Internacional Contra la Corrupción y la Impunidad CICIH, que será constituida y establecida en acuerdo con la Organización de las Naciones Unidas (ONU), como un mecanismo internacional, imparcial, independiente y autónomo que durará en sus funciones un período de cinco (5) años, contados a partir de su instalación oficial en el territorio nacional.
+ARTÍCULO 1.- COMBATE A REDES DE CORRUPCIÓN. COMISIÓN INTERNACIONAL CONTRA LA CORRUPCIÓN Y LA IMPUNIDAD (CICIH) CON PERSONALIDAD JURÍDICA COMO QUERELLANTE AUTÓNOMO CON ATRIBUCIONES Y FACULTADES DE ACUSADOR PRIVADO POR UN PERÍODO DE CINCO (5) AÑOS. Para combatir las redes de corrupción pública-privada de alto impacto y el saqueo de los bienes públicos, el Estado de Honduras otorga y reconoce personalidad jurídica en carácter de Querellante Autónomo, con atribuciones y facultades de Acusador Privado a la Comisión Internacional Contra la Corrupción y la Impunidad CICIH, que será constituida y establecida en acuerdo con la Organización de las Naciones Unidas (ONU), como un mecanismo internacional, imparcial, independiente y autónomo que durará en sus funciones un período de cinco (5) años, contados a partir de su instalación oficial en el territorio nacional.
 
 El Fiscal General de la República será responsable de realizar las acreditaciones de la Personalidad Jurídica como Querellante Autónomo a cada miembro que integre y solicite la Comisión Internacional contra la Corrupción y la Impunidad (CICIH), a través de su máxima autoridad.
 
@@ -95,9 +95,9 @@ HECHOS A INVESTIGAR. Para la selección de las denuncias y hechos a investigar, 
 
 #### Artículo 5
 
-ARTÍCULO 5.- C O M P E T E N C I A S .
+ARTÍCULO 5.- COMPETENCIAS .
 
-C U M P L I M I E N T O D E L A CONSTITUCIÓN Y LAS LEYES
+CUMPLIMIENTO DE LA CONSTITUCIÓN Y LAS LEYES
 
 DE HONDURAS. La Comisión Internacional contra la Corrupción y la Impunidad (CICIH) en su carácter de Querellante Autónomo, actuará estrictamente dentro de las competencias que se establecen en esta Ley Especial y el Convenio Bilateral aprobado por el Estado de Honduras y la Organización de las Naciones Unidas (ONU). En el ejercicio de sus atribuciones, la CICIH debe cumplir la Constitución de la República, tratados y convenios internacionales y las leyes y, normativa vigente en Honduras.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdos Nos. 05/2022, 06/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220423-35904/download"
 extraido: "2026-11-14"
-huella: "8309759f0959e965"
+huella: "72230e629501201e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.05/2022.- Sesión No.3963 del 31 de marzo
@@ -39,11 +39,11 @@ Que para las operaciones de compra y venta de divisas que realice el BCH y sus a
 
 CONSIDERANDO:
 
-Que mediante Acuerdo No.03/2022, emitido por el Directorio del BCH el 3 de marzo de 2022, se aprobó la modifi­ cación de Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
+Que mediante Acuerdo No. 03/2022, emitido por el Directorio del BCH el 3 de marzo de 2022, se aprobó la modifi­ cación de Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
 CONSIDERANDO:
 
-Que conforme a la propuesta presenta por el Departamento de Operaciones Cambiarias al Comité de Divisas en la sesión ordinaria No.13/2022 del 25 de marzo 2022, referente a los saldos de tenencia de divisas de los agentes cambiarios, el Comité aprobó que los agentes cambiarios deberán remitir diariamente a más tardar a las 9:00 a.m. del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el reporte diario de las transacciones cambiarias realizadas y el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas; proponiendo remitir la misma a consideración del Directorio de la Institución.
+Que conforme a la propuesta presenta por el Departamento de Operaciones Cambiarias al Comité de Divisas en la sesión ordinaria No. 13/2022 del 25 de marzo 2022, referente a los saldos de tenencia de divisas de los agentes cambiarios, el Comité aprobó que los agentes cambiarios deberán remitir diariamente a más tardar a las 9:00 a.m. del siguiente día hábil al de la realización de las operaciones y por los medios indicados por el BCH, el reporte diario de las transacciones cambiarias realizadas y el dato de los saldos contables de las cuentas del balance analítico que conforman la tenencia de divisas; proponiendo remitir la misma a consideración del Directorio de la Institución.
 
 CONSIDERANDO:
 
@@ -51,13 +51,13 @@ Que con la introducción de esta modificación a la presentación de saldos cont
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Aprobar la modificación de los incisos 8.3 y 8.6, párrafo segundo del Acuerdo No.03/2022, emitido por el Directorio del Banco Central de Honduras el 3 de marzo de 2022, que contiene la Normativa Com­ plementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerá así:
+Aprobar la modificación de los incisos 8.3 y 8.6, párrafo segundo del Acuerdo No. 03/2022, emitido por el Directorio del Banco Central de Honduras el 3 de marzo de 2022, que contiene la Normativa Com­ plementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerá así:
 
 “8...
 
@@ -103,7 +103,7 @@ a) Diferencial de Inflación Interna y Externa: Se entenderá como Tasa de Infla
 
 b) Índice de Tipo de Cambio Efectivo Nominal: Mide la evolución de los tipos de cambio de los principales socios comerciales respecto al dólar de los EUA.
 
-c) C o b e r t u r a d e R e s e r v a s Internacionales: Número de meses de importación que cubre el saldo de los Activos de Reservas Oficiales del BCH.
+c) Cobertura de Reservas Internacionales: Número de meses de importación que cubre el saldo de los Activos de Reservas Oficiales del BCH.
 
 2.2. El Precio Base se calculará cada cinco (5) eventos del MID, tomando en consideración las variables descritas en el numeral anterior.
 
@@ -155,7 +155,7 @@ El monto máximo por cada oferta de compra de divisas será de un millón de dó
 
 Si un participante en el MID ingresa una oferta de compra o venta de divisas, no podrá ingresar una nueva oferta mientras la anterior esté pendiente de calce.
 
-4. I N G R E S O S D E D I V I S A S P O R ACTIVIDADES NO CAMBIARIAS Y POR MOVIMIENTO DE CAPITAL Y FINANCIEROS DEL SECTOR BANCARIO De conformidad a lo dispuesto en el Artículo 19 del Reglamento, se establece lo siguiente:
+4. INGRESOS DE DIVISAS POR ACTIVIDADES NO CAMBIARIAS Y POR MOVIMIENTO DE CAPITAL Y FINANCIEROS DEL SECTOR BANCARIO De conformidad a lo dispuesto en el Artículo 19 del Reglamento, se establece lo siguiente:
 
 4.1. El ingreso de divisas por actividades no cambiarias de los agentes cambiarios y por movimientos de capital y financieros del sector bancario, registrados en la tenencia de divisas por agente cambiario podrá ser utilizado para lo siguiente:
 

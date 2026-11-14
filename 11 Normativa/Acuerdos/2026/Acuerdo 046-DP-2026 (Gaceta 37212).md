@@ -11,7 +11,7 @@ paginas: "A. 1 - 18"
 sumario: "Acuerdo Ejecutivo Número 046-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260805-37212/download"
 extraido: "2026-11-09"
-huella: "af0890bbeb916358"
+huella: "fed0f6871af4e6f6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 046-DP-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 116 de la Ley General de la Administración Públ
 
 CONSIDERANDO: Que el Artículo 118 de la Ley General de la Administración Pública establece que se emitirán por Acuerdo las decisiones de carácter particular que se tomaren fuera de los procedimientos en que los particulares intervengan como parte interesada, lo que refuerza la importancia de utilizar la forma jurídica adecuada según la naturaleza del acto administrativo, asegurando así el debido proceso y la correcta tipificación del acto en el marco del ordenamiento jurídico.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 034-2019 se crea el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República, con personalidad jurídica, independencia técnica, administrativa y financiera; y que conforme al Artículo 6, Literal e) de dicho Decreto Ejecutivo, el Director Ejecutivo se encuentra facultado para aprobar políticas, lineamientos, reglamentos internos, instructivos, manuales y formularios para la operación interna de SENPRENDE.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-034-2019 se crea el Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), como una entidad desconcentrada de la Presidencia de la República, con personalidad jurídica, independencia técnica, administrativa y financiera; y que conforme al Artículo 6, Literal e) de dicho Decreto Ejecutivo, el Director Ejecutivo se encuentra facultado para aprobar políticas, lineamientos, reglamentos internos, instructivos, manuales y formularios para la operación interna de SENPRENDE.
 
 CONSIDERANDO: Que el Decreto Legislativo 135-2008, Ley para el Fomento y Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, obliga al Estado a apoyar a este sector en los campos administrativo, tributario, crediticio y de desempeño económico y, a fortalecer su participación en la vida productiva del país.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que cumplir ese mandato requiere instrumentos concretos de fortale
 
 POR TANTO;
 
-En uso de las facultades de que está investido y en aplicación de los Artículos 245 Numerales 2) y 11), 24 7 y 248 de la Constitución de la República; 11, 116 y 118 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-034- 2019 y demás disposiciones legales aplicables.
+En uso de las facultades de que está investido y en aplicación de los Artículos 245 Numerales 2) y 11), 24 7 y 248 de la Constitución de la República; 11, 116 y 118 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-034-2019 y demás disposiciones legales aplicables.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 31 - 60"
 sumario: "Acuerdo Números 280-2026, 319-2026, 325-2026, 361-2026, 362-2026, 365-2026, 396-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "4d566f231222837b"
+huella: "77a694559370bb3b"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 396-2026
@@ -67,9 +67,7 @@ Que los artículos 116 y 118 de la Ley General de la Administración Pública, e
 
 CONSIDERANDO (9):
 
-Que mediante Decreto Legislativo No.83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de junio de 2004, el Congreso Nacional de conformidad con el artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto, y, a través del Acuerdo No.
-
-419 de fecha 22 de abril de 2005, publicado en el Diario Oficial La Gaceta en fecha 3 de junio del 2005, la Secretaría de Estado en el Despacho de Finanzas, aprobó el Reglamento de Ejecución General de la Ley Orgánica del Presupuesto.
+Que mediante Decreto Legislativo No. 83-2004 de fecha 28 de mayo de 2004, publicado en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de junio de 2004, el Congreso Nacional de conformidad con el artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto, y, a través del Acuerdo No. 419 de fecha 22 de abril de 2005, publicado en el Diario Oficial La Gaceta en fecha 3 de junio del 2005, la Secretaría de Estado en el Despacho de Finanzas, aprobó el Reglamento de Ejecución General de la Ley Orgánica del Presupuesto.
 
 CONSIDERANDO (10):
 
@@ -81,7 +79,7 @@ Que los Artículos 92 de la Ley Orgánica del Presupuesto y 2, 26, 28, 29, 31, 3
 
 CONSIDERANDO (12):
 
-Que mediante Acuerdo Número 217-2014, publicado en el Diario Oficial La Gaceta en fecha 27 de marzo de 2014, la Secretaría de Estado en el Despacho de Finanzas aprobó las Normas Técnicas del Subsistema de Tesorería. En virtud, que mediante Decreto No.70-2026, Publicado en el Diario Oficial La Gaceta en fecha 15 de mayo de 2026, se reformaron los Artículos 16, 17, 33, 84, 85, 86, 89, 90, 94 y 127 de la Ley Orgánica del Presupuesto, la Tesorería General de la República (TGR) se vio en la necesidad modificar las Normas Técnicas antes mencionadas.
+Que mediante Acuerdo Número 217-2014, publicado en el Diario Oficial La Gaceta en fecha 27 de marzo de 2014, la Secretaría de Estado en el Despacho de Finanzas aprobó las Normas Técnicas del Subsistema de Tesorería. En virtud, que mediante Decreto No. 70-2026, Publicado en el Diario Oficial La Gaceta en fecha 15 de mayo de 2026, se reformaron los Artículos 16, 17, 33, 84, 85, 86, 89, 90, 94 y 127 de la Ley Orgánica del Presupuesto, la Tesorería General de la República (TGR) se vio en la necesidad modificar las Normas Técnicas antes mencionadas.
 
 CONSIDERANDO (13):
 
@@ -89,7 +87,7 @@ Que la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en su condición
 
 POR TANTO:
 
-En uso de las facultades que está investido y en aplicación de los siguientes artículos: 247 y 321 de la Constitución de la República; 28, 33, 36, numerales 5, 6 y 8, 116 y 118 de la Ley General de Administración Pública; 4 y 92 de la Ley Orgánica del Presupuesto y sus reformas; 2, 26, 28, 29, 31, 32, 33 y 34 del Reglamento de Ejecución General de la Ley Orgánica del Presupuesto reformado; y, 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM- 008-97.
+En uso de las facultades que está investido y en aplicación de los siguientes artículos: 247 y 321 de la Constitución de la República; 28, 33, 36, numerales 5, 6 y 8, 116 y 118 de la Ley General de Administración Pública; 4 y 92 de la Ley Orgánica del Presupuesto y sus reformas; 2, 26, 28, 29, 31, 32, 33 y 34 del Reglamento de Ejecución General de la Ley Orgánica del Presupuesto reformado; y, 17, 24 y 60 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo contenido en el Decreto Ejecutivo Número PCM-008-97.
 
 ACUERDA:
 
@@ -413,7 +411,7 @@ Estas cuentas se acreditarán con los desembolsos de los convenios de financiami
 
 #### Artículo 25
 
-Artículo 25.- APERTURA DE CUENTAS BANCARIAS E INVENTARIO DE ÉSTAS. En fortalecimiento de la Cuenta Única en lo dispuesto en el Decreto No. 70- 2026, Artículo 84-C de la reforma de la Ley Orgánica del Presupuesto y el Artículo 27-A de su reglamento, solo se aperturarán cuentas en el Sistema Financiero Nacional en los casos excepcionales ya sea por Leyes Especiales, Decretos Legislativos, Ejecutivos, Declaratorias de Emergencia y Fondos Rotatorios, debidamente calificados; la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Tesorería General de la República (TGR) podrá aperturar cuentas bancarias o productos bancarios en la banca privada o nacional a solicitud de las instituciones con el detalle y antecedente de la necesidad de abrir cuentas bancarias o productos financieros, y se autorizarán a las instituciones solicitantes el correspondiente uso de los fondos y en ellas recaerá la responsabilidad de administrar los recursos, tal como lo establece el Artículo 87 de la Ley Orgánica del Presupuesto y sus reformas.
+Artículo 25.- APERTURA DE CUENTAS BANCARIAS E INVENTARIO DE ÉSTAS. En fortalecimiento de la Cuenta Única en lo dispuesto en el Decreto No. 70-2026, Artículo 84-C de la reforma de la Ley Orgánica del Presupuesto y el Artículo 27-A de su reglamento, solo se aperturarán cuentas en el Sistema Financiero Nacional en los casos excepcionales ya sea por Leyes Especiales, Decretos Legislativos, Ejecutivos, Declaratorias de Emergencia y Fondos Rotatorios, debidamente calificados; la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Tesorería General de la República (TGR) podrá aperturar cuentas bancarias o productos bancarios en la banca privada o nacional a solicitud de las instituciones con el detalle y antecedente de la necesidad de abrir cuentas bancarias o productos financieros, y se autorizarán a las instituciones solicitantes el correspondiente uso de los fondos y en ellas recaerá la responsabilidad de administrar los recursos, tal como lo establece el Artículo 87 de la Ley Orgánica del Presupuesto y sus reformas.
 
 Asimismo, la Tesorería General de la República (TGR) mantendrá un inventario actualizado de las cuentas bancarias de instituciones cuyos recursos deban ingresar a la CUT, la TGR requerirá a través de la Comisión Nacional de Bancos y Seguros (CNBS), la información en formato electrónico de todas las Instituciones del Sector Público que mantengan fondos públicos en el Sistema Financiero Nacional, relacionados con los movimientos de las cuentas de ahorro, cuentas corrientes, depósitos a plazos fijos y cualquier otro producto financiero.
 

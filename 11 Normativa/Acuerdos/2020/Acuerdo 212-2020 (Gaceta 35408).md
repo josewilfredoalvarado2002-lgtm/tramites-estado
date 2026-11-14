@@ -8,7 +8,7 @@ gaceta_numero: 35408
 gaceta_fecha: "2020-10-24"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35408 (2020-10-24)|La Gaceta 35408]]"
 paginas: "A. 4 - 6"
-sumario: "Acuerdo SETUR No. 021-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 211-2020, 212-2020, 213-2020"
+sumario: "Acuerdo SETUR No. 021-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 211-2020, 212-2020, 213-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201024-35408/download"
 extraido: "2026-11-14"
 huella: "ea34f304635681c7"
@@ -23,7 +23,7 @@ huella: "ea34f304635681c7"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35408 (2020-10-24)\|La Gaceta 35408]] del 2020-10-24 |
 | Páginas | A. 4 - 6 |
-| Según el sumario de La Gaceta | Acuerdo SETUR No. 021-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 211-2020, 212-2020, 213-2020 |
+| Según el sumario de La Gaceta | Acuerdo SETUR No. 021-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 211-2020, 212-2020, 213-2020 |
 
 ## Texto
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1070-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230513-36227/download"
 extraido: "2026-11-14"
-huella: "824f63d300b85a74"
+huella: "b4cc6f2382bb0fb7"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1070-2022
@@ -27,7 +27,7 @@ huella: "824f63d300b85a74"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA. La Resolución que literalmente dice: “RESOLUCIÓN No. 1070- 2022. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN”, Tegucigalpa, municipio del Distrito Central, doce de agosto del año dos mil veintidós.
+El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA. La Resolución que literalmente dice: “RESOLUCIÓN No. 1070-2022. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN”, Tegucigalpa, municipio del Distrito Central, doce de agosto del año dos mil veintidós.
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinte de abril del año dos mil veintidós, misma que corre a Expediente No. PJ20042022-253, por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA EL HATILLO, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZÁN”, con domicilio en la aldea El Hatillo, municipio de Cantarranas, departamento de Francisco Morazán, contraído a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
 

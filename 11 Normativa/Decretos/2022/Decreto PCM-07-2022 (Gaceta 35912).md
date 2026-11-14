@@ -11,7 +11,7 @@ paginas: "A. 12 - 15"
 sumario: "Decretos Ejecutivos números PCM-07-2022, 08-2022, 12-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220502-35912-2/download"
 extraido: "2026-11-14"
-huella: "4e3ebb72205d217e"
+huella: "dbd41e7ad68fad3e"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-07-2022
@@ -57,7 +57,7 @@ POR TANTO, En aplicación de los Artículos 59, 65, 145, 235, 245 numerales 2, 1
 
 Artículos 11, 22 numerales 5, 10 y 13; 116, 117 y 119 de la Ley General de la Administración Pública; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

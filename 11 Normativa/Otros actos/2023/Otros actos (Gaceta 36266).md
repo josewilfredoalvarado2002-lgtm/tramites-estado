@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230627-36266/download"
 extraido: "2026-11-14"
-huella: "0d344b38258089f2"
+huella: "1b9afed9bd2b562a"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -133,7 +133,7 @@ Lugar donde se desarrollan las actividades de higienización, transformación, m
 
 CONSIDERANDO (10): Que la industria dedicada a la actividad pesquera con el arte de pesca de Buceo Autónomo o SCUBA, se ha comprometido a regular la captura de la Langosta del Caribe Hondureño en coordinación con la SAG/ DIGEPESCA.
 
-CONSIDERANDO (11): Que el Acuerdo Ejecutivo STSS- 577-2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina, vigente en Honduras, establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana a los buzos que trabajan en esta pesquería.
+CONSIDERANDO (11): Que el Acuerdo Ejecutivo STSS-577-2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina, vigente en Honduras, establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana a los buzos que trabajan en esta pesquería.
 
 POR TANTO:
 
@@ -299,7 +299,7 @@ QUINTO: Todas las embarcaciones de la Flota participando en la pesquería de Lan
 
 DÉCIMO
 
-SEXTO: Todas las embarcaciones de la Flota participando en la pesquería de Langosta (Panulirus argus),al zarpar , y su equipo deben ser inspeccionadas cinco (5) días antes del inicio de la temporada de pesca, por los Jefes Regionales, inspectores de pesca o técnicos autorizados por la DIGEPESCA, en coordinación con la Dirección General de Marina Mercante y Fuerza Naval de Honduras, a fin de verificar el cumplimiento de las regulaciones establecidas en la ley para combatir y desalentar la pesca ilegal no declarada y no reglamentada. También se realizará inspecciones a los talleres de fabricación de nasas, a fin de verificar que cumplan con lo establecido en el Reglamento OSP- 02-09, Artículo 21 de la Ley de Pesca y Acuicultura (Decreto N° 106-2015) y Acuerdo Ministerial N° SAG-69-2023
+SEXTO: Todas las embarcaciones de la Flota participando en la pesquería de Langosta (Panulirus argus),al zarpar, y su equipo deben ser inspeccionadas cinco (5) días antes del inicio de la temporada de pesca, por los Jefes Regionales, inspectores de pesca o técnicos autorizados por la DIGEPESCA, en coordinación con la Dirección General de Marina Mercante y Fuerza Naval de Honduras, a fin de verificar el cumplimiento de las regulaciones establecidas en la ley para combatir y desalentar la pesca ilegal no declarada y no reglamentada. También se realizará inspecciones a los talleres de fabricación de nasas, a fin de verificar que cumplan con lo establecido en el Reglamento OSP-02-09, Artículo 21 de la Ley de Pesca y Acuicultura (Decreto N° 106-2015) y Acuerdo Ministerial N° SAG-69-2023
 
 DÉCIMO
 

@@ -8,10 +8,10 @@ gaceta_numero: 36275
 gaceta_fecha: "2023-07-07"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)|La Gaceta 36275]]"
 paginas: "A. 11 - 20"
-sumario: "Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023"
+sumario: "Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230707-36275/download"
 extraido: "2026-11-14"
-huella: "a6ebd6a57028cc2e"
+huella: "f8d84c4b6558bb4e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 020-B-SEDESOL-2023
@@ -23,7 +23,7 @@ huella: "a6ebd6a57028cc2e"
 | Emisor | Secretaría de Estado en los Despachos de Desarrollo Social |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36275 (2023-07-07)\|La Gaceta 36275]] del 2023-07-07 |
 | Páginas | A. 11 - 20 |
-| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIALAcuerdo Ministerial No. 020-B-SEDESOL -2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdo No. SAG-098-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 003-PROASOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 020-B-SEDESOL -2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdo No. SAG-098-2023 |
 
 ## Texto
 
@@ -57,9 +57,7 @@ PRIMERO. - Aprobar el Reglamento del “Programa Becas Solidarias’’ dependie
 
 REGLAMENTO DEL PROGRAMA BECAS SOLIDARIAS
 
-Mediante Decreto Ejecutivo Número PCM 09-2023, de fecha 9 de febrero del año 2023, se creó el Programa de “Becas Solidarias”, dependiente de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), la cual deberá emitir un reglamento para la administración técnica y financiera del programa, que contenga además los requisitos para la calificación de los becarios del mismo; este mandato se operativiza a través del Acuerdo Ministerial No.
-
-035-SEDESOL-2023 que aprueba el presente reglamento.
+Mediante Decreto Ejecutivo Número PCM 09-2023, de fecha 9 de febrero del año 2023, se creó el Programa de “Becas Solidarias”, dependiente de la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), la cual deberá emitir un reglamento para la administración técnica y financiera del programa, que contenga además los requisitos para la calificación de los becarios del mismo; este mandato se operativiza a través del Acuerdo Ministerial No. 035-SEDESOL-2023 que aprueba el presente reglamento.
 
 CAPÍTULO I GENERALIDADES
 

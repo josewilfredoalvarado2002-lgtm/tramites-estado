@@ -11,7 +11,7 @@ paginas: "A. 46 - 48"
 sumario: "Acuerdo Ministerial No. 159-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251209-37014/download"
 extraido: "2026-11-09"
-huella: "b4c9b1a8f29166b2"
+huella: "98edbb72ecd48bae"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 159-SEDESOL-2025
@@ -61,9 +61,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 LIC. MIRTHA CLAUDINA GUTIERREZ REYES
 
-Secretaria de Estado en el Despacho de Desarrollo Social (Sedesol), por Ley, Acuerdo Ejecutivo de Delegación No.
-
-97-2025 de fecha 9 de julio del 2025.
+Secretaria de Estado en el Despacho de Desarrollo Social (Sedesol), por Ley, Acuerdo Ejecutivo de Delegación No. 97-2025 de fecha 9 de julio del 2025.
 
 ABG. ANDREA JESSENIA GÓMEZ RODRÍGUEZ
 

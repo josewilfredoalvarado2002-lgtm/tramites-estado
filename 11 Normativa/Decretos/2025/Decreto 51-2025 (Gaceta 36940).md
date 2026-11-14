@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 51-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250911-36940/download"
 extraido: "2026-11-09"
-huella: "2d73038d14f2c0c9"
+huella: "18c5862d3be8c4ac"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 51-2025
@@ -33,11 +33,11 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 59 establece
 
 CONSIDERANDO: Que la Ley de Transporte Terrestre de Honduras en su Artículo 1 se establece que: “Esta Ley es de orden público, tiene por objeto establecer la estructura administrativa y funcional de los organismos competentes para su aplicación, asimismo, regular la forma, condiciones y requisitos necesarios a que debe estar sujeta la prestación del servicio público y especial de transporte terrestre de personas, carga o mercancías”.
 
-CONSIDERANDO: Que el Estado de Honduras se ha adherido a la Convención de Naciones Unidas Sobre Circulación Vial, decisión que fue aprobada por el Congreso Nacional, mediante Decreto No.107-2019 del 18 de Septiembre de 2019, publicado en el Diario Oficial “La Gaceta” de fecha 14 de Diciembre de 2019; Instrumento Jurídico de carácter vinculante que recomienda la actualización de las legislaciones nacionales en lo relativo a la seguridad vial y especialmente a la estandarización en la emisión de los permisos o licencias de conducir.
+CONSIDERANDO: Que el Estado de Honduras se ha adherido a la Convención de Naciones Unidas Sobre Circulación Vial, decisión que fue aprobada por el Congreso Nacional, mediante Decreto No. 107-2019 del 18 de Septiembre de 2019, publicado en el Diario Oficial “La Gaceta” de fecha 14 de Diciembre de 2019; Instrumento Jurídico de carácter vinculante que recomienda la actualización de las legislaciones nacionales en lo relativo a la seguridad vial y especialmente a la estandarización en la emisión de los permisos o licencias de conducir.
 
-CONSIDERANDO: Que mediante Decreto No.155-2015 del 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Marzo de 2016, se aprueba, la Ley de Transporte Terrestre de Honduras, en su Artículo 20 reformado por el Decreto No.61-2019 del 10 de Julio del 2019, publicado en el Diario Oficial “La Gaceta” de fecha 11 de Octubre de 2019, crea la Escuela Nacional de Transporte Terrestre, dependencia del Instituto Hondureño de Transporte Terrestre (IHTT), quien cumple la función especial de la formación y capacitación de los conductores del servicio público de transporte en todas las modalidades y gradualmente abarcando a los conductores de vehículos particulares, ampliando esta función con la certificación de escuelas privadas.
+CONSIDERANDO: Que mediante Decreto No. 155-2015 del 17 de Diciembre de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Marzo de 2016, se aprueba, la Ley de Transporte Terrestre de Honduras, en su Artículo 20 reformado por el Decreto No. 61-2019 del 10 de Julio del 2019, publicado en el Diario Oficial “La Gaceta” de fecha 11 de Octubre de 2019, crea la Escuela Nacional de Transporte Terrestre, dependencia del Instituto Hondureño de Transporte Terrestre (IHTT), quien cumple la función especial de la formación y capacitación de los conductores del servicio público de transporte en todas las modalidades y gradualmente abarcando a los conductores de vehículos particulares, ampliando esta función con la certificación de escuelas privadas.
 
-CONSIDERANDO: Que el Decreto No.205-2005 del 16 de Agosto de 2005, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Enero de 2006, contentivo de la Ley de Tránsito, establece en su Artículo 48, requisitos para obtener licencia de conducir, Artículo que fue reformado mediante Decreto No.118-2021 del 19 de Diciembre de 2021, publicado en el Diario Oficial “La Gaceta” de fecha 6 de Enero de 2022.
+CONSIDERANDO: Que el Decreto No. 205-2005 del 16 de Agosto de 2005, publicado en el Diario Oficial “La Gaceta” de fecha 3 de Enero de 2006, contentivo de la Ley de Tránsito, establece en su Artículo 48, requisitos para obtener licencia de conducir, Artículo que fue reformado mediante Decreto No. 118-2021 del 19 de Diciembre de 2021, publicado en el Diario Oficial “La Gaceta” de fecha 6 de Enero de 2022.
 
 CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución, de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Artículo 48 reformado del Decreto Legislativo 205-2005, del 16 de Agosto de 2005, contentivo de la LEY DE TRÁNSITO, publicado en el Diario Oficial “La Gaceta” en fecha 3 de Enero del año 2006, bajo Edición No.30,892, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición el Artículo 48 reformado del Decreto Legislativo 205-2005, del 16 de Agosto de 2005, contentivo de la LEY DE TRÁNSITO, publicado en el Diario Oficial “La Gaceta” en fecha 3 de Enero del año 2006, bajo Edición No. 30,892, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 48.- Para obtener el permiso de conducir de vehículos de las categorías C, D y CE, requerirá además de las ya establecidas en la Ley de Tránsito, acreditar adicionalmente lo siguiente:
 

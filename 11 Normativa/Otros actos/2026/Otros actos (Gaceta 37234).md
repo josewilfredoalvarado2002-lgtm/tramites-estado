@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo N°. 001-2026, Reglamento para la Administración y Control del Fondo de Caja Chica de la Empresa de Correos de Honduras (HONDUCOR)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260831-37234/download"
 extraido: "2026-11-09"
-huella: "9c65bde6a7ed4b7b"
+huella: "87e35585d7980bb8"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo N°. 001-2026, Reglamento para la Administración y Control del Fondo de Caja Chica de la Empresa de Correos de Honduras (HONDUCOR)
@@ -41,7 +41,7 @@ CONSIDERANDO: Que para atender las erogaciones de menor cuantía, imprevistas y 
 
 CONSIDERANDO: Que para regular la creación, custodia, ejecución, liquidación y arqueo de los fondos bajo la modalidad de Caja Chica, es indispensable contar con una herramienta normativa actualizada que garantice la transparencia e integridad en la gestión de los recursos.
 
-POR TANTO, En uso de sus facultades administrativas y de conformidad con las leyes vigentes de la República de Honduras, Ley Orgánica de la Empresa de Correos de Honduras, Decreto No.120-93 y el Reglamento de la Ley Orgánica de la Empresa de Correos de Honduras, Acuerdo No.004521-A.
+POR TANTO, En uso de sus facultades administrativas y de conformidad con las leyes vigentes de la República de Honduras, Ley Orgánica de la Empresa de Correos de Honduras, Decreto No. 120-93 y el Reglamento de la Ley Orgánica de la Empresa de Correos de Honduras, Acuerdo No. 004521-A.
 
 RESUELVE:
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Decretos Nos. 19-2020, 59-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200604-35273/download"
 extraido: "2026-11-14"
-huella: "22348f3b5d11fd1b"
+huella: "16c00dc604e8bcb2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 19-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -51,7 +51,7 @@ El beneficio fiscal de reembolso o devolución, que se consigna en el párrafo o
 
 Asimismo, debe entenderse que el reembolso o devolución puede ser otorgado por la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en efectivo o cualquier otro mecanismo de compensación del valor adecuado, pudiendo suscribir inclusive planes y forma de pago o mediante la emisión de instrumentos financieros a favor del peticionario o a favor de a quién o quiénes hayan sido cedidos los derechos de obtención de dichas devoluciones o reembolsos previa negociación satisfactoria de las condiciones de dichos instrumentos con los desarrolladores, contratistas o sus cesionarios.
 
-La Secretaría de Estado el Despacho de Finanzas (SEFIN) como parte del procedimiento de devolución o reembolso y sus requisitos, debe únicamente regirse por lo establecido en la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, Decreto No.70-2007 de fecha 31 de Mayo de 2007 y publicado en el Diario Oficial “La Gaceta” el 2 de Octubre de 2007 y su reforma establecida en el Decreto No. 138-2013 de fecha 1 de Julio de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de Agosto de 2013, absteniéndose de imponer requisitos y obligaciones que no estén expresamente establecidos en la referida Ley, ni imponer tributos, cánones o tasas por cualquier otro concepto; siendo de indispensable cumplimiento los medios necesarios a fin de acreditar solamente las sumas efectivamente pagadas en concepto de impuestos por la compra de bienes o servicios exonerados que consten en la respectiva resolución de exoneración, dispensan o franquicia.
+La Secretaría de Estado el Despacho de Finanzas (SEFIN) como parte del procedimiento de devolución o reembolso y sus requisitos, debe únicamente regirse por lo establecido en la Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, Decreto No. 70-2007 de fecha 31 de Mayo de 2007 y publicado en el Diario Oficial “La Gaceta” el 2 de Octubre de 2007 y su reforma establecida en el Decreto No. 138-2013 de fecha 1 de Julio de 2013 y publicado en el Diario Oficial “La Gaceta” el 1 de Agosto de 2013, absteniéndose de imponer requisitos y obligaciones que no estén expresamente establecidos en la referida Ley, ni imponer tributos, cánones o tasas por cualquier otro concepto; siendo de indispensable cumplimiento los medios necesarios a fin de acreditar solamente las sumas efectivamente pagadas en concepto de impuestos por la compra de bienes o servicios exonerados que consten en la respectiva resolución de exoneración, dispensan o franquicia.
 
 #### Artículo 2
 

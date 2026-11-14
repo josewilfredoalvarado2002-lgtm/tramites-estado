@@ -11,7 +11,7 @@ paginas: "A. 47 - 88"
 sumario: "Acuerdo No. 04/2023, Resolución No. 97-3/2023, 05/2023, 06/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230412-36202/download"
 extraido: "2026-11-14"
-huella: "77e6fa36a367d6de"
+huella: "95be3dd34c740c77"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 97-3/2023
@@ -27,27 +27,27 @@ huella: "77e6fa36a367d6de"
 
 ## Texto
 
-RESOLUCIÓN No.97-3/2023.- Sesión No.4017 del 16 de marzo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+RESOLUCIÓN No. 97-3/2023.- Sesión No. 4017 del 16 de marzo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 342 de la Constitución de la República y 6 y 16 de la Ley del Banco Central de Honduras (BCH), le corresponde al BCH formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país; y, en coordinación con la Comisión Nacional de Bancos y Seguros (CNBS), organizar y reglamentar el funcionamiento del sistema de pagos, de tal forma que se protejan los intereses de los usuarios; asimismo, de acuerdo con el Artículo 29 de la Ley de Sistemas de Pago y Liquidación de Valores, corresponde a esta Institución emitir los reglamentos y aprobar las normas internas de funcionamiento necesarias de cada uno de los sistemas de pago y de liquidación de valores.
 
 CONSIDERANDO: Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de los mercados financieros y de la economía en general, por lo que, es conveniente dictar normas orientadas a propiciar una adecuada operación de tales sistemas, de manera que se asegure el cumplimiento de los principios y estándares internacionales.
 
-CONSIDERANDO: Que mediante Resolución No.159- 4/2016 del 28 de abril de 2016, este Órgano Colegiado aprobó las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO, con el objeto de regular las operaciones electrónicas que se realizan a través de ese sistema.
+CONSIDERANDO: Que mediante Resolución No. 159-4/2016 del 28 de abril de 2016, este Órgano Colegiado aprobó las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO, con el objeto de regular las operaciones electrónicas que se realizan a través de ese sistema.
 
 CONSIDERANDO: Que el Centro de Procesamiento Interbancario, S.A. (Ceproban) ha implementado mejoras en la plataforma tecnológica de su sistema y en su proceso operativo, a fin de que instituciones privadas o públicas tengan acceso al sistema ACH PRONTO mediante la suscripción de un acuerdo de servicios con una institución financiera que participe directamente en el sistema.
 
 CONSIDERANDO: Que el BCH realizó una revisión integral a las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO, con el propósito de definir la figura del participante indirecto, sus requisitos de participación y responsabilidades en el sistema, lo que permitirá potenciar la interoperabilidad entre las cuentas de las instituciones financieras, cooperativas de ahorro y crédito e instituciones no bancarias de dinero electrónico a fin de promover la inclusión financiera.
 
-CONSIDERANDO: Q u e m e d i a n t e O f i c i o No.PDTE-341/2022 del 8 de noviembre de 2022, la CNBS emitió su opinión técnica sobre proyecto de las Normas Operativas de la ACH-PRONTO.
+CONSIDERANDO: Que mediante Oficio No.PDTE-341/2022 del 8 de noviembre de 2022, la CNBS emitió su opinión técnica sobre proyecto de las Normas Operativas de la ACH-PRONTO.
 
-CONSIDERANDO: Que la Gerencia, vista la opinión del Departamento de Sistema de Pagos, mediante memorándum SP- 132/2023 del 8 de febrero de 2023, ha recomendado a este Directorio aprobar las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO.
+CONSIDERANDO: Que la Gerencia, vista la opinión del Departamento de Sistema de Pagos, mediante memorándum SP-132/2023 del 8 de febrero de 2023, ha recomendado a este Directorio aprobar las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana; 2, 6, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; 10, 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores; en el Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago (SCTEP) y vista la opinión del Departamento de Sistema de Pagos de esta Institución,
 
-R E S U E L V E:
+RESUELVE:
 
 I.
 
@@ -589,7 +589,7 @@ ARTÍCULO 57. Vigencia: La presente Resolución entrará en vigencia a partir de
 
 II.
 
-Derogar la Resolución No.159-4/2016 emitida por el Directorio del Banco Central de Honduras el 28 de abril de 2016, contentivo de las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO.
+Derogar la Resolución No. 159-4/2016 emitida por el Directorio del Banco Central de Honduras el 28 de abril de 2016, contentivo de las Normas Operativas de la Cámara de Compensación de Transacciones Electrónicas de Pago, ACH PRONTO.
 
 III.
 
@@ -631,15 +631,15 @@ Los números de los ordenantes deberán cumplir con lo siguiente:
 
 3.1.2. Ofrecer a los ordenantes mecanismos que le permitan contar con niveles de seguridad tales como:
 
-3.1.2.1. U n ( 1 ) C r e a d o r d e Transacciones.
+3.1.2.1. U n ( 1 ) Creador de Transacciones.
 
-3.1.2.2. U n ( 1 ) V e r i f i c a d o r / Autorizador.
+3.1.2.2. U n ( 1 ) Verificador / Autorizador.
 
 3.1.3. Los PD y PI originadores contarán con:
 
 3.1.3.1. Un (1) Receptor/Cargador/ Generador de mensajes electrónicos.
 
-3.1.3.2. U n ( 1 ) V e r i f i c a d o r / Autorizador.
+3.1.3.2. U n ( 1 ) Verificador / Autorizador.
 
 3.1.4. Los PD y PI que reciben deben contar con:
 

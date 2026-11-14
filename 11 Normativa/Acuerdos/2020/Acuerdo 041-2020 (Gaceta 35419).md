@@ -11,7 +11,7 @@ paginas: "A. 8 - 20"
 sumario: "Acuerdo No. 041-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201104-35419/download"
 extraido: "2026-11-14"
-huella: "9c081bf8d37b7e78"
+huella: "0363caac37665a4f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 041-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la ley de Simplificación Administrativa en su artículo 1) es
 
 CONSIDERANDO: Que el cuerpo legal antes mencionado en su artículo 3) instituye que: “Todo órgano del Estado tiene la obligación de realizar, permanentemente, diagnósticos y análisis sobre los diferentes trámites y procedimientos administrativos que deban seguirse en sus dependencias, a fin de diseñar medidas de simplificación las cuales deberán ser adoptadas de acuerdo a los objetivos de la Ley de Simplificación Administrativa”.
 
-CONSIDERANDO: Que por mandato Presidencial mediante Decreto PCM-032-2017, de fecha 28 de abril del 2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017, y reformado los Artículos 1, 4, 6, 7 y 10 del PCM-032-2017, mediante Decreto Ejecutivo No- PCM-013- 2020, publicado en Diario Oficial “La Gaceta” en fecha 03 de septiembre del año 2020: Se crea la Agencia de Regulación Sanitaria (ARSA) como una Entidad Desconcentrada de la Secretaría de Estado en el Despacho de Salud (SESAL) adscrita al Gabinete Sectorial de Desarrollo e Inclusión Social, con independencia funcional, técnica, financiera, administrativa y de seguridad nacional, con personalidad jurídica, responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias, con competencia a nivel nacional…
+CONSIDERANDO: Que por mandato Presidencial mediante Decreto PCM-032-2017, de fecha 28 de abril del 2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017, y reformado los Artículos 1, 4, 6, 7 y 10 del PCM-032-2017, mediante Decreto Ejecutivo No- PCM-013-2020, publicado en Diario Oficial “La Gaceta” en fecha 03 de septiembre del año 2020: Se crea la Agencia de Regulación Sanitaria (ARSA) como una Entidad Desconcentrada de la Secretaría de Estado en el Despacho de Salud (SESAL) adscrita al Gabinete Sectorial de Desarrollo e Inclusión Social, con independencia funcional, técnica, financiera, administrativa y de seguridad nacional, con personalidad jurídica, responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias, con competencia a nivel nacional…
 
 CONSIDERANDO: Que el Código de Salud en su artículo
 
@@ -59,9 +59,7 @@ Artículos 145 y 146 de la Constitución de la República;
 
 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de simplificación Administrativa; 1, 4, y 225, del Código de Salud; 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario;
 
-1, 2, 3 inciso a) b), e) i), j), k), y l), 4, 5, 8, 9 y 10 del PCM No.
-
-032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria; Herramienta Mundial de La OMS para la Evaluación de los Sistemas Regulatorios Nacionales de Productos Médicos.
+1, 2, 3 inciso a) b), e) i), j), k), y l), 4, 5, 8, 9 y 10 del PCM No. 032-2017, reformado mediante PCM-013-2020 de la Agencia de Regulación Sanitaria; Herramienta Mundial de La OMS para la Evaluación de los Sistemas Regulatorios Nacionales de Productos Médicos.
 
 RESUELVE:
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 26"
 sumario: "Decretos Nos. 247-2026, 258-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261030-37282/download"
 extraido: "2026-11-09"
-huella: "7a93ededeb629d98"
+huella: "0253e793baa2ad51"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 258-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que conforme a los artículos 1 y 287 de la Constitución de la Re
 
 CONSIDERANDO: Que el Congreso Nacional de la República de Honduras es la máxima expresión de la voluntad popular y el órgano constitucional encargado de legislar y ejercer control político en nombre del pueblo hondureño, teniendo la obligación primordial en el marco del contrato social, de garantizar la seguridad y la tranquilidad pública que los ciudadanos han confiado al Estado.
 
-CONSIDERANDO: Que el Decreto Legislativo No.84- 2026, de fecha 19 de mayo del año 2026, facultó al Consejo Nacional de Defensa y Seguridad (CNDS) para diseñar y rectorar la Política Criminal en contra de las asociaciones terroristas y de las estructuras criminales, así como para determinar cuándo una organización criminal será considerada como organización terrorista.
+CONSIDERANDO: Que el Decreto Legislativo No. 84-2026, de fecha 19 de mayo del año 2026, facultó al Consejo Nacional de Defensa y Seguridad (CNDS) para diseñar y rectorar la Política Criminal en contra de las asociaciones terroristas y de las estructuras criminales, así como para determinar cuándo una organización criminal será considerada como organización terrorista.
 
 CONSIDERANDO: Que mediante Oficio No.SEP-709-2026 de fecha 21 de septiembre del año 2026, la Secretaría de Estado de la Presidencia remitió a este Poder del Estado el Proyecto de Decreto que surge del Tercer Consejo Nacional de Defensa y Seguridad (CNDS) celebrado el 18 de septiembre del año 2026, orientado a reformar el marco normativo contenido en el Código Penal y el Código Procesal Penal.
 
@@ -313,9 +313,7 @@ Para los efectos de lo anterior, en los delitos de asociación terrorista, tráf
 
 #### Artículo 4
 
-ARTÍCULO 4.- REFORMAR por adición los artículos 21-A, 21-B, 25-A, 56- A, 63- A y 106-B al Decreto No.
-
-64-2012 contentivo de la “Ley del Sistema Penitenciario Nacional” de fecha 14 de mayo del año 2012 publicado en el Diario Oficial "La Gaceta" en fecha 03 de diciembre del año 2012, y sus reformas, el cual en adelante se leerá así:
+ARTÍCULO 4.- REFORMAR por adición los artículos 21-A, 21-B, 25-A, 56- A, 63- A y 106-B al Decreto No. 64-2012 contentivo de la “Ley del Sistema Penitenciario Nacional” de fecha 14 de mayo del año 2012 publicado en el Diario Oficial "La Gaceta" en fecha 03 de diciembre del año 2012, y sus reformas, el cual en adelante se leerá así:
 
 “ARTÍCULO
 
@@ -391,7 +389,7 @@ Lo establecido en el Artículo anterior, tiene preeminencia sobre cualquier disp
 
 ARTÍCULO 6.- ADECUACIÓN Y ARMONIZA-
 
-CIÓN REGLAMENTARIA. Con el fin de garantizar la eficacia del alcance material del Artículo 4 y 5 del presente Decreto, así como de los artículos 1, 2 y 3 del Decreto Legislativo No.208-2026, de fecha 22 de Septiembre de 2026, publicado en el Diario Oficial "La Gaceta" el 26 de Septiembre del año 2026 y asegurar la coherencia normativa, el Poder Ejecutivo, por medio del órgano máximo del Instituto Nacional Penitenciario, emitirá, adecuará o reformará las reglamentaciones necesarias en el marco del Sistema Penitenciario Nacional dentro de un plazo no mayor a treinta (30) días calendario, contados a partir de la vigencia de este Decreto.
+CIÓN REGLAMENTARIA. Con el fin de garantizar la eficacia del alcance material del Artículo 4 y 5 del presente Decreto, así como de los artículos 1, 2 y 3 del Decreto Legislativo No. 208-2026, de fecha 22 de Septiembre de 2026, publicado en el Diario Oficial "La Gaceta" el 26 de Septiembre del año 2026 y asegurar la coherencia normativa, el Poder Ejecutivo, por medio del órgano máximo del Instituto Nacional Penitenciario, emitirá, adecuará o reformará las reglamentaciones necesarias en el marco del Sistema Penitenciario Nacional dentro de un plazo no mayor a treinta (30) días calendario, contados a partir de la vigencia de este Decreto.
 
 ARTÍCULO
 
@@ -441,7 +439,7 @@ Quien incumpla esta prohibición será sancionado conforme a lo establecido en e
 
 #### Artículo 11
 
-ARTÍCULO 11.- DEROGAR el Decreto No.36-2020 aprobado en fecha 24 de abril del año 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de junio del año 2020, que contenía disposiciones en el contexto de la Pandemia del COVID-19.
+ARTÍCULO 11.- DEROGAR el Decreto No. 36-2020 aprobado en fecha 24 de abril del año 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de junio del año 2020, que contenía disposiciones en el contexto de la Pandemia del COVID-19.
 
 #### Artículo 12
 

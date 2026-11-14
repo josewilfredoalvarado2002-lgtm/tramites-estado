@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 23-2022, 24-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220323-35880/download"
 extraido: "2026-11-14"
-huella: "9fa33d80938b97a1"
+huella: "6b733a509a35700c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2022
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205, Atribuci�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Elíjase al ciudadano JULIO CÉSAR NAVARRO como Consejero Propietario d e l C O N S E J O N A C I O N A L ELECTORAL (CNE), en sustitución de la Consejera Propietaria de este Órgano que presentó su renuncia irrevocable ante el Congreso Nacional en el año 2022, por el tiempo que resta del mandato de las actuales autoridades de este Órgano Electoral.
+ARTÍCULO 1.- Elíjase al ciudadano JULIO CÉSAR NAVARRO como Consejero Propietario del CONSEJO NACIONAL ELECTORAL (CNE), en sustitución de la Consejera Propietaria de este Órgano que presentó su renuncia irrevocable ante el Congreso Nacional en el año 2022, por el tiempo que resta del mandato de las actuales autoridades de este Órgano Electoral.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto Ejecutivo número 08-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220829-36014/download"
 extraido: "2026-11-14"
-huella: "80c4fe8a1d62522b"
+huella: "af3407fe208ef169"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 08-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 245 de la Constitución de la 
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número 02-2022, publicado en el Diario Oficial La Gaceta el veintidós (22) de febrero del año dos mil veintidós (2022), Edición No. 35,855, se nombró una Comisión Interventora del Instituto Nacional de Previsión del Magisterio (INPREMA), para su administración y funcionamiento, con el propósito de garantizar a los participantes del sistema el otorgamiento de los beneficios de asistencia y previsión social además de la prestación de los servicios se derivan de su Ley constitutiva.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número 02- 2022, establece que la Comisión Interventora del Instituto Nacional de Previsión del Magisterio (INPREMA), está integrada por tres (3) miembros, quienes fueron nombrados por la Presidenta de la República y permanecerán en funciones por un período de seis (6) meses, pudiendo ser este periodo de tiempo prorrogable, conforme los términos establecidos en el Artículo 2 de dicho Decreto.
+CONSIDERANDO: Que el Decreto Ejecutivo Número 02-2022, establece que la Comisión Interventora del Instituto Nacional de Previsión del Magisterio (INPREMA), está integrada por tres (3) miembros, quienes fueron nombrados por la Presidenta de la República y permanecerán en funciones por un período de seis (6) meses, pudiendo ser este periodo de tiempo prorrogable, conforme los términos establecidos en el Artículo 2 de dicho Decreto.
 
 CONSIDERANDO: Que la Comisión Interventora del Instituto Nacional de Previsión del Magisterio (INPREMA), ha enmarcado su gestión en los objetivos que determina el Artículo 3 del Decreto Ejecutivo Número 02-2022 y en el término de seis (6) meses ha logrado la incorporación de nuevos servicios financieros para la consolidación y/o readecuación de deudas de los docentes, la implementación de requisitos y condiciones accesibles para el otorgamiento de préstamos personales e hipotecarios, reducción de las tasas de interés que han resultado atractivas a los Participantes del Sistema, volviendo la entidad intervenida más eficiente, en un mercado de préstamos altamente competitivo y ha puesto en marcha mecanismos que garantizan la prontitud en el otorgamiento de beneficios y servicios más personalizados y acorde a las necesidades del Magisterio.
 

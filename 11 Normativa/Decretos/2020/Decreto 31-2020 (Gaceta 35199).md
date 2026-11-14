@@ -8,10 +8,10 @@ gaceta_numero: 35199
 gaceta_fecha: "2020-03-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)|La Gaceta 35199]]"
 paginas: "A. 13 - 20"
-sumario: "Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020"
+sumario: "Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200313-35199/download"
 extraido: "2026-11-14"
-huella: "b96a061807a9c494"
+huella: "976f2cfc482214c9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 31-2020
@@ -23,7 +23,7 @@ huella: "b96a061807a9c494"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35199 (2020-03-13)\|La Gaceta 35199]] del 2020-03-13 |
 | Páginas | A. 13 - 20 |
-| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020PODER LEGISLATIVODecretos Nos. 30-2020, 31-2020 |
+| Según el sumario de La Gaceta | Acuerdo No. 01-DGAJTC-2020; PODER EJECUTIVO Decreto Ejecutivo número PCM-018-2020; PODER LEGISLATIVO: Decretos Nos. 30-2020, 31-2020 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la rápida propagación del coronavirus (COVID-19), ahora conv
 
 CONSIDERANDO: Que la seguridad social es un instrumento del Estado al servicio de la Justicia Social, que tiene como finalidad garantizar el derecho humano a la salud, brindando la asistencia médica y protección de los medios económicos de subsistencia, en caso de incapacidad para trabajar, cuya cobertura es necesaria para el logro del bienestar individual y colectivo, de las naciones, especialmente en momentos de vulnerabilidad y crisis individual o colectiva.
 
-CONSIDERANDO: Que de conformidad a los Artículos 7, 18 y 43 de la Ley Marco del Sistema de Protección Social, aprobada mediante Decreto No.56-2015 de fecha 21 de Mayo de 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 2 de Julio de 2015, Edición No. 33,771, se crea el Régimen del Piso de Protección Social y su correspondiente Fondo para la Promoción Solidaria y de Auxilio Recíproco, el cual propicia la implementación del Plan para la Promoción Solidaria y del Auxilio Recíproco (PLAN PRO-SOLIDAR), mismo que tiene entre sus objetivos el incremento de la cobertura, a través del mejoramiento de la Red Integral Pública de Servicios de Salud (RIPSS), para brindar acceso a servicios esenciales y transferencias sociales con énfasis en las personas en condiciones vulnerables.
+CONSIDERANDO: Que de conformidad a los Artículos 7, 18 y 43 de la Ley Marco del Sistema de Protección Social, aprobada mediante Decreto No. 56-2015 de fecha 21 de Mayo de 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 2 de Julio de 2015, Edición No. 33,771, se crea el Régimen del Piso de Protección Social y su correspondiente Fondo para la Promoción Solidaria y de Auxilio Recíproco, el cual propicia la implementación del Plan para la Promoción Solidaria y del Auxilio Recíproco (PLAN PRO-SOLIDAR), mismo que tiene entre sus objetivos el incremento de la cobertura, a través del mejoramiento de la Red Integral Pública de Servicios de Salud (RIPSS), para brindar acceso a servicios esenciales y transferencias sociales con énfasis en las personas en condiciones vulnerables.
 
 CONSIDERANDO: Que en el marco de la crisis del Coronavirus (COVID-19), las implicaciones serán sanitarias pero también de contracción de la actividad económica en diferentes sectores estratégicos del país.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -65,7 +65,7 @@ DE CUENTAS. En la implementación de esta Ley, tanto en sus mecanismos especiale
 
 #### Artículo 2
 
-ARTÍCULO 2.- RED INTEGRAL PÚBLICA DE LOS SERVICIOS DE SALUD (RIPSS). FINANCIAMIENTO DEL FONDO PARA LA PROMOCIÓN SOLIDARIA Y DE AUXILIO RECÍPROCO.- Para alcanzar la suficiencia y sostenibilidad financiera del Fondo para la Promoción Solidaria y de Auxilio Recíproco del PLAN-PROSOLIDAR, relacionado con la contribución establecida en el inciso 3) del AÑO Para la adecuada determinación de los valores antes establecidos, el cálculo de los salarios mínimos mensuales vigentes, debe tomar como base el salario mínimo utilizado para la definición del techo de contribución al Instituto Hondureño de Seguridad Social (IHSS). Los valores resultantes, deben consignarse en el Presupuesto General de la República de cada año, haciendo uso de los recursos generados por el tres por ciento (3%), incorporado al Fondo de Solidaridad y Protección Social para la reducción de la pobreza extrema a que se refiere el Decreto No.290-2013 de fecha 8 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 5 de abril de 2014, Edición No.33,398 o las normas
+ARTÍCULO 2.- RED INTEGRAL PÚBLICA DE LOS SERVICIOS DE SALUD (RIPSS). FINANCIAMIENTO DEL FONDO PARA LA PROMOCIÓN SOLIDARIA Y DE AUXILIO RECÍPROCO.- Para alcanzar la suficiencia y sostenibilidad financiera del Fondo para la Promoción Solidaria y de Auxilio Recíproco del PLAN-PROSOLIDAR, relacionado con la contribución establecida en el inciso 3) del AÑO Para la adecuada determinación de los valores antes establecidos, el cálculo de los salarios mínimos mensuales vigentes, debe tomar como base el salario mínimo utilizado para la definición del techo de contribución al Instituto Hondureño de Seguridad Social (IHSS). Los valores resultantes, deben consignarse en el Presupuesto General de la República de cada año, haciendo uso de los recursos generados por el tres por ciento (3%), incorporado al Fondo de Solidaridad y Protección Social para la reducción de la pobreza extrema a que se refiere el Decreto No. 290-2013 de fecha 8 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 5 de abril de 2014, Edición No. 33,398 o las normas
 
 Artículo 44 de la Ley Marco del Sistema de Protección Social misma que debe ser destinada exclusivamente al pago de los gastos operativos y administrativos de la Red Integral Pública de Servicios de Salud del Instituto Hondureño de Seguridad Social (IHSS), la asignación de recursos presupuestarios debe ser consignada por la Secretaría de Estado en el Despacho de Finanzas dentro del Presupuesto General de la República aprobado cada año por el Congreso Nacional, considerando la tabla incremental de adecuación gradual y progresiva siguiente: que lo reformen, o en su defecto de cualquier otra fuente de financiamiento del Presupuesto General de la República.
 
@@ -99,7 +99,7 @@ E) Automatización de procesos sensitivos para asegurar la calidad, trazabilidad
 
 Los Sistemas y Mecanismos que se deriven de los referidos procesos, deben ser compatibles a nivel de interfaz con el Sistema de Administración Financiera Integrada (SIAFI).
 
-Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y al Comité Técnico del Fideicomiso aprobado a través del Decreto No.307-2013, para que se proceda a la adquisición directa de un contrato de diseño, construcción, financiamiento y operación que conlleve a implementar una solución integrada en aras del Gobierno Digital.
+Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) y al Comité Técnico del Fideicomiso aprobado a través del Decreto No. 307-2013, para que se proceda a la adquisición directa de un contrato de diseño, construcción, financiamiento y operación que conlleve a implementar una solución integrada en aras del Gobierno Digital.
 
 Para lo anterior se autoriza al Comité Técnico del Fideicomiso del Fondo de Inversiones y Telecomunicaciones y las Tecnologías de la Información (TIC´s) que traslade e incorpore los recursos que sean necesarios en las partidas presupuestarias que la Secretaría de Estado en el Despacho de Finanzas (SEFIN) instruya para la ejecución del proyecto con la finalidad de dar cumplimiento a lo indicado en el párrafo precedente.
 
@@ -107,7 +107,7 @@ Todo lo anterior, es con el propósito de eficientar el gasto público en estas 
 
 A RT Í C U L O 6 . - R E F I N A N C I A M I E N TO Y READECUACIÓN FINANCIERA PARA SECTORES ESPECIALES.- Considerando que en el marco de la crisis del Coronavirus las implicaciones serán sanitarias pero también de contracción de la actividad económica en diferentes sectores estratégicos del país, considerando que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) dentro de sus facultades está apoyar el desarrollo nacional mediante el financiamiento de sectores estratégicos a través de su banca de primer y segundo piso. Por lo anterior es importante que para garantizar la reactivación de los sectores estratégicos el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) mediante este Decreto de Emergencia sea facultado para flexibilizar sus productos y servicios financieros a fin de garantizar la inclusión financiera, la generación de empleo, el impulso del crecimiento económico, contribuir para apalear los efectos que causen inflación y otros. Por tanto el Decreto habilita al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a tomar las medidas necesarias que garanticen el financiamiento mediante productos y servicios financieros y otras estrategias que redunden en facilitar el acceso a los sectores productivos.
 
-Se autoriza al Banco Central de Honduras (BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No.175-2008 de fecha 18 de diciembre de 2008; reformado mediante Decreto No. 67- 2009 de fecha 12 de mayo de 2009; Decreto No.57-2013 de fecha 16 de abril de 2013; Decreto No. 95-2014 de fecha 16 de octubre de 2014; Decreto No. 90-2016 del 19 de octubre de 2016; y Decreto No.145-2018 del 28 de noviembre de 2018, pueda realizar gastos e inversiones que propicien la gestión de riesgos y/o el refinanciamiento y readecuación de deudas, a personas naturales o jurídicas deudoras del sistema financiero pertenecientes a sectores productivos, tales como MIPYME, Agropecuario, Forestal y otros sectores prioritarios en generación de empleo y divisas para el país; así como la contratación de billeteras electrónicas u otros mecanismos electrónicos que permitan el acceso a crédito a la Micro y Pequeña empresa de manera expedita y segura en todos los sectores productivos del país mediante las tecnologías de la información y la comunicación.
+Se autoriza al Banco Central de Honduras (BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No. 175-2008 de fecha 18 de diciembre de 2008; reformado mediante Decreto No. 67-2009 de fecha 12 de mayo de 2009; Decreto No. 57-2013 de fecha 16 de abril de 2013; Decreto No. 95-2014 de fecha 16 de octubre de 2014; Decreto No. 90-2016 del 19 de octubre de 2016; y Decreto No. 145-2018 del 28 de noviembre de 2018, pueda realizar gastos e inversiones que propicien la gestión de riesgos y/o el refinanciamiento y readecuación de deudas, a personas naturales o jurídicas deudoras del sistema financiero pertenecientes a sectores productivos, tales como MIPYME, Agropecuario, Forestal y otros sectores prioritarios en generación de empleo y divisas para el país; así como la contratación de billeteras electrónicas u otros mecanismos electrónicos que permitan el acceso a crédito a la Micro y Pequeña empresa de manera expedita y segura en todos los sectores productivos del país mediante las tecnologías de la información y la comunicación.
 
 #### Artículo 7
 
@@ -133,7 +133,7 @@ Los trabajadores sujetos a este régimen gozan de todos los beneficios y protecc
 
 #### Artículo 9
 
-ARTÍCULO 9.- Reformar Artículo 7, del Decreto No. 29- 2020 de fecha 12 de Marzo de 2020, publicado en el Diario Oficial “La Gaceta”, en Edición No. 35,198 en fecha 12 de marzo del 2020, el cual debe leerse así:
+ARTÍCULO 9.- Reformar Artículo 7, del Decreto No. 29-2020 de fecha 12 de Marzo de 2020, publicado en el Diario Oficial “La Gaceta”, en Edición No. 35,198 en fecha 12 de marzo del 2020, el cual debe leerse así:
 
 “Se autoriza a las empresas acogidas a los diferentes regímenes especiales para que donen o vendan el cien por ciento (100%) de su producción dentro del territorio nacional a las instituciones del sector público, los insumos y equipo médico para el tratamiento de la actual pandemia, siempre que sean necesarios para atender la emergencia sanitaria en el marco del presente Decreto. Asimismo, incrementar el equipamiento médico debiendo hacerse en una forma expedita”.
 

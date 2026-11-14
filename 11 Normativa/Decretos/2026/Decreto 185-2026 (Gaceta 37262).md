@@ -11,7 +11,7 @@ paginas: "A. 72 - 85"
 sumario: "Decretos Nos. 176-2026, 178-2026,185-2026, 188-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261005-37262/download"
 extraido: "2026-11-09"
-huella: "112f070ab43eac4b"
+huella: "1e7c5bab1e6f5ff2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 185-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL
 
 CONSIDERANDO: Que el Artículo 15 de la Constitución de la República dispone que Honduras hace suyos los principios y prácticas del Derecho Internacional orientados a la solidaridad humana, la cooperación entre los pueblos, el respeto a la autodeterminación, la no intervención y el fortalecimiento de la paz y la democracia, principios que constituyen la base de la política exterior del Estado hondureño.
 
-CONSIDERANDO: Que el Poder Ejecutivo, mediante Acuerdo Ejecutivo No.09-DGJATC-2025, de fecha veintinueve
+CONSIDERANDO: Que el Poder Ejecutivo, mediante Acuerdo Ejecutivo No. 09-DGJATC-2025, de fecha veintinueve
 
 (29) de abril de dos mil veinticinco (2025), aprobó la adhesión al “Convenio Marco para el Impulso de la Circulación del Talento en el Espacio Iberoamericano”, suscrito en Soldeu, Principado de Andorra, el uno (1) de abril de dos mil veintiuno (2021).
 
@@ -47,13 +47,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “CONVENIO MARCO PARA EL IMPULSO DE LA CIRCULACIÓN DEL TALENTO EN EL ESPACIO IBEROAMERICANO”, suscrito en Soldeu, Principado de Andorra, el uno (1) de abril de dos mil veintiuno (2021), cuya adhesión fue aprobada por el Poder Ejecutivo mediante Acuerdo Ejecutivo No. 09-DGJATC-2025, de fecha veintinueve (29) de abril de dos mil veinticinco (2025), cuyo texto íntegro es el siguiente:
 
-“ A C U E R D O E J E C U T I V O
+“ ACUERDO EJECUTIVO
 
 No. 09 - DGAJTC – 2025 29 de
 
@@ -113,7 +113,7 @@ La Conferencia podrá celebrar sus reuniones por medios telemáticos. 4. La Secr
 
 Artículo 2 en ámbitos, tales como la cooperación en materia educativa o el reconocimiento de grados, diplomas y títulos de enseñanza superior académicos y profesionales o de períodos de formación. Dichos acuerdos no tendrán la consideración de Acuerdos de aplicación del presente Convenio Marco, en el sentido del Artículo 4. Artículo 10.
 
-R e l a c i ó n c o n o t r o s t r a t a d o s internacionales sobre la misma materia:
+Relación con otros tratados internacionales sobre la misma materia:
 
 1. Las disposiciones del Convenio Marco, así como de los Acuerdos de aplicación referidos en el Artículo 4, se entenderán sin perjuicio de las disposiciones más favorables para la circulación de las personas a que se refiere el Artículo 2 que pudieran contenerse en otros tratados internacionales celebrados entre los Estados Parte y que sean compatibles con el Convenio Marco y con los Acuerdos de aplicación. 2. Nada de lo dispuesto en el Convenio Marco o en los Acuerdos de aplicación obstará a la celebración de tratados internacionales entre Estados Parte sobre la misma materia que resulten compatibles con el Convenio Marco y con los Acuerdos de aplicación y que contengan disposiciones más favorables para la circulación de las personas a que se refiere el Artículo 2. 3.
 

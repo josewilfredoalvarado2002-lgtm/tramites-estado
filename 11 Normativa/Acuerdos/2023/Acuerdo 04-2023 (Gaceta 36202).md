@@ -11,7 +11,7 @@ paginas: "A. 33 - 46"
 sumario: "Acuerdo No. 04/2023, Resolución No. 97-3/2023, 05/2023, 06/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230412-36202/download"
 extraido: "2026-11-14"
-huella: "8a54ef84993df67b"
+huella: "e18cbaa2a84c1016"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 04/2023
@@ -27,25 +27,25 @@ huella: "8a54ef84993df67b"
 
 ## Texto
 
-ACUERDO No.04/2023.- Sesión No.4017 del 16 marzo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+ACUERDO No. 04/2023.- Sesión No. 4017 del 16 marzo de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 342 de la Constitución de la República y 6 y 16 de la Ley del Banco Central de Honduras (BCH), le corresponde al BCH formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país; y, en coordinación con la Comisión Nacional de Bancos y Seguros (CNBS), organizar y reglamentar el funcionamiento del sistema de pagos, de tal forma que se protejan los intereses de los usuarios; asimismo, de acuerdo con el Artículo 29 de la Ley de Sistemas de Pago y Liquidación de Valores, corresponde a esta Institución emitir los reglamentos y aprobar las normas internas de funcionamiento necesarias de cada uno de los sistemas de pago y de liquidación de valores.
 
 CONSIDERANDO: Que los sistemas de pagos son esenciales para asegurar el buen funcionamiento de los mercados financieros y de la economía en general, por lo que es conveniente dictar normas orientadas a propiciar una adecuada operación de tales sistemas, de manera que se asegure el cumplimiento de los principios y estándares internacionales.
 
-CONSIDERANDO: Que mediante el Acuerdo No.03/2016 del 13 de octubre de 2016, este Órgano Colegiado aprobó el Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago, con el objeto de regular las operaciones electrónicas que se realicen en ese sistema.
+CONSIDERANDO: Que mediante el Acuerdo No. 03/2016 del 13 de octubre de 2016, este Órgano Colegiado aprobó el Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago, con el objeto de regular las operaciones electrónicas que se realicen en ese sistema.
 
 CONSIDERANDO: Que el BCH realizó una revisión integral del precitado Reglamento, determinando que para promover la inclusión financiera es necesario adecuar el mismo con los principios internacionales aplicables a las infraestructuras del mercado financiero emitidos por el Banco de Pagos Internacionales; por consiguiente, se considera conducente introducir la figura del participante indirecto en el Reglamento en referencia, lo que permitirá potenciar la interoperabilidad entre las instituciones del sistema financiero con otras instituciones supervisadas por la Comisión Nacional de Bancos y Seguros (CNBS) u otra entidad supervisora correspondiente.
 
-CONSIDERANDO: Q u e m e d i a n t e O f i c i o No.PDTE-341/2022 del 8 de noviembre de 2022, la CNBS emitió su opinión técnica sobre el proyecto de Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago.
+CONSIDERANDO: Que mediante Oficio No.PDTE-341/2022 del 8 de noviembre de 2022, la CNBS emitió su opinión técnica sobre el proyecto de Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago.
 
-CONSIDERANDO: Que la Gerencia, vista la opinión del Departamento de Sistema de Pagos, mediante memorándum SP- 132/2023 del 8 de febrero de 2023, ha recomendado a este Directorio aprobar el Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago.
+CONSIDERANDO: Que la Gerencia, vista la opinión del Departamento de Sistema de Pagos, mediante memorándum SP-132/2023 del 8 de febrero de 2023, ha recomendado a este Directorio aprobar el Reglamento de Sistemas de Compensación de Transacciones Electrónicas de Pago.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República; 1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana; 2, 6, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -283,7 +283,7 @@ E l procedimiento neto para realizar la compensación de obligaciones entre los 
 
 \3) Procedimiento de Liquidación:
 
-L o s p r o c e d i m i e n t o s y m e c a n i s m o s o p e r a t i v o s necesarios para efectuar la liquidación de transacciones en las cuentas de depósito de los PD en el BCH, los cuales deben cumplirse por el administrador y los PD.
+Los procedimientos y mecanismos operativos necesarios para efectuar la liquidación de transacciones en las cuentas de depósito de los PD en el BCH, los cuales deben cumplirse por el administrador y los PD.
 
 \4) Liberación de Fondos o Aplicación de Débitos en Cuentas Transaccionales del Ordenante y Destinatario:
 
@@ -339,7 +339,7 @@ Artículo 21. Vigencia: El presente Reglamento entrará en vigencia a partir de 
 
 II.
 
-Derogar el Acuerdo No.03/2016, emitido por el Directorio del Banco Central de Honduras el 13 de octubre de 2016.
+Derogar el Acuerdo No. 03/2016, emitido por el Directorio del Banco Central de Honduras el 13 de octubre de 2016.
 
 III.
 

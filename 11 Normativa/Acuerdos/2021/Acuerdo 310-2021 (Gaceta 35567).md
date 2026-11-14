@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. 310-2021, 311-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210410-35567/download"
 extraido: "2026-11-14"
-huella: "ae2115542f3bcfbc"
+huella: "100a496975c0e0e0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 310-2021
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Acuerdo No. 272- 2020, de fecha 27 de octubre del año 2020, publicado en el Diario Oficial La Gaceta en fecha 30 de octubre del 2020 (edición No. 35,414), se delegó en la Ciudadana ADELA MARÍA SANTOS RAMOS, como Encargada de Servicios Generales y Recursos Materiales, las funciones inherentes al cargo, a partir del 19 de octubre de 2020.
+CONSIDERANDO: Que mediante Acuerdo No. 272-2020, de fecha 27 de octubre del año 2020, publicado en el Diario Oficial La Gaceta en fecha 30 de octubre del 2020 (edición No. 35,414), se delegó en la Ciudadana ADELA MARÍA SANTOS RAMOS, como Encargada de Servicios Generales y Recursos Materiales, las funciones inherentes al cargo, a partir del 19 de octubre de 2020.
 
 CONSIDERANDO: Que mediante Memorando DINAFGA-087-2021 de fecha 07 de abril del 2021, Gerencia Administrativa, solicitó a Secretaría General, dejar sin valor y efecto el Acuerdo de Delegación a favor de la Licenciada ADELA MARÍA SANTOS RAMOS, como Encargada de Servicios Generales y Recursos Materiales, según Acuerdo No. 272-2020 de fecha 27 de octubre del año 2020, a partir del 5 de abril del año 2021.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en la Ley de Procedimiento Adm
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 

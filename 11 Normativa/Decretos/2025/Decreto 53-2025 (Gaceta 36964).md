@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 53-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251011-36964/download"
 extraido: "2026-11-09"
-huella: "310104d5d45919cd"
+huella: "346c381376d83cf0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 53-2025
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 153 manda qu
 
 CONSIDERANDO: Que el derecho a la educación es un Derecho Humano. La formación de docentes es función y responsabilidad exclusiva del Estado. Corresponde preferentemente a los padres, madres o representantes legales el derecho y deber de educar y escoger el tipo de educación que deben de recibir sus hijos o pupilos. El Estado tiene el deber de garantizar, respetar y proteger el ejercicio de este derecho y a la comunidad el deber de contribuir al desarrollo, gestión y perfeccionamiento de la educación.
 
-CONSIDERANDO: Que el Decreto No.262-2011 del 19 de enero de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 22 de febrero de 2012, contentivo de la Ley Fundamental de Educación en su Artículo 5 establece que “La educación es deber ineludible y función esencial del Estado y es su responsabilidad, organizar y dirigir el Sistema Nacional de Educación, así como fomentar y difundir por diversos medios la investigación, ciencia, tecnología, arte, cultura, deportes y fomentar valores que fortalezcan la identidad nacional”.
+CONSIDERANDO: Que el Decreto No. 262-2011 del 19 de enero de 2011, publicado en el Diario Oficial “La Gaceta” de fecha 22 de febrero de 2012, contentivo de la Ley Fundamental de Educación en su Artículo 5 establece que “La educación es deber ineludible y función esencial del Estado y es su responsabilidad, organizar y dirigir el Sistema Nacional de Educación, así como fomentar y difundir por diversos medios la investigación, ciencia, tecnología, arte, cultura, deportes y fomentar valores que fortalezcan la identidad nacional”.
 
 CONSIDERANDO: Que en el marco del Plan 365 de la Refundación de la Educación, en uno de sus proyectos más importantes, manda la creación de bachilleratos pertinentes a las necesidades del país en el Siglo XXI.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- C R E A S E L O S C E N T R O S EDUCATIVOS ESPECIALIZADOS denominados:
+ARTÍCULO 1.- CREASE LOS CENTROS EDUCATIVOS ESPECIALIZADOS denominados:
 
 \1) Escuelas Normales Bilingües;
 
@@ -81,7 +81,7 @@ ARTÍCULO 4.- Para efectos de fortalecer la investigación y cooperación técni
 
 #### Artículo 5
 
-ARTÍCULO 5.- El Plan de Estudio y Programa Curricular de los Centros Educativos Especializados, debe desarrollarse en jornada de ocho (8) horas reloj, los docentes que laboren en éstos, tendrán nombramiento en jornada de dedicación exclusiva, establecida en el Estatuto del Docente Hondureño, en su Artículo 54 reformado, según Decreto Legislativo No.256-2000 del 22 de diciembre del año 2000, publicado en el Diario Oficial “La Gaceta” del 16 de febrero de 2001.
+ARTÍCULO 5.- El Plan de Estudio y Programa Curricular de los Centros Educativos Especializados, debe desarrollarse en jornada de ocho (8) horas reloj, los docentes que laboren en éstos, tendrán nombramiento en jornada de dedicación exclusiva, establecida en el Estatuto del Docente Hondureño, en su Artículo 54 reformado, según Decreto Legislativo No. 256-2000 del 22 de diciembre del año 2000, publicado en el Diario Oficial “La Gaceta” del 16 de febrero de 2001.
 
 #### Artículo 6
 
@@ -99,7 +99,7 @@ ARTÍCULO 8.- El presupuesto para el funcionamiento de los Centros Educativos Es
 
 #### Artículo 9
 
-ARTÍCULO 9.- Derogar el Decreto Legislativo No.63- 2019 del 10 de julio de 2019, publicado en el Diario Oficial “La Gaceta” en fecha 5 de junio del año 2021, Edición 35,619.
+ARTÍCULO 9.- Derogar el Decreto Legislativo No. 63-2019 del 10 de julio de 2019, publicado en el Diario Oficial “La Gaceta” en fecha 5 de junio del año 2021, Edición 35,619.
 
 #### Artículo 10
 

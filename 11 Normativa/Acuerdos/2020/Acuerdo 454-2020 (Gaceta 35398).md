@@ -8,7 +8,7 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 4 - 5"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
 huella: "cd80f153f72ebca2"
@@ -23,7 +23,7 @@ huella: "cd80f153f72ebca2"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 4 - 5 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 

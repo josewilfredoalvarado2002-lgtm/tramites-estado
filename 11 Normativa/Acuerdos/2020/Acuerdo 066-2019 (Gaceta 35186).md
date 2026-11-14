@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdos Nos. 055-2019, 066-2019, 071-2019, 072-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200227-35186/download"
 extraido: "2026-11-14"
-huella: "c861c1621e9b8280"
+huella: "7bf3cac0b0e0e782"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 066-2019
@@ -27,7 +27,7 @@ huella: "c861c1621e9b8280"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. 06-SG-SEDESPA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230603-36245/download"
 extraido: "2026-11-14"
-huella: "428d7e6b958cd2e4"
+huella: "99897b3a7dc18f62"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 06-SG-SEDESPA-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Reglamento Interno es un conjunto de normas obligatorias qu
 
 CONSIDERANDO: Que la Ley de Servicio Civil, artículo 7, numeral 14 define que es potestad de esa Institución dictaminar sobre los anteproyectos de Reglamentos Internos de las Secretarías y demás dependencias del Estado regidas por esta Ley, en lo que se refiere al personal, previamente a su aprobación por el Poder Ejecutivo.
 
-CONSIDERANDO: Que la Dirección General de Servicio Civil a través de su Dictamen No.DL-DGSC- 070-A-2023 de fecha ocho de mayo del dos mil veintitrés, considera Procedente la aplicación del Reglamento Interno de la Secretaría de Coordinación General de Gobierno, después de verificar que dicho Reglamento ha sido elaborado acorde a la Naturaleza de las funciones que desempeñan los servidores públicos de esta Secretaría de Estado, respetando en forma general la Ley de Servicio Civil como derecho prioritario según el artículo 7 de la Ley General de la Administración Pública.
+CONSIDERANDO: Que la Dirección General de Servicio Civil a través de su Dictamen No.DL-DGSC-070-A-2023 de fecha ocho de mayo del dos mil veintitrés, considera Procedente la aplicación del Reglamento Interno de la Secretaría de Coordinación General de Gobierno, después de verificar que dicho Reglamento ha sido elaborado acorde a la Naturaleza de las funciones que desempeñan los servidores públicos de esta Secretaría de Estado, respetando en forma general la Ley de Servicio Civil como derecho prioritario según el artículo 7 de la Ley General de la Administración Pública.
 
 CONSIDERANDO: Que las Disposiciones de este Reglamento son de Orden Público y en consecuencia su observancia es obligatoria para todo el personal que labora en esta Secretaría de Estado.
 

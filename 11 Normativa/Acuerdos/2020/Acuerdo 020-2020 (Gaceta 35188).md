@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. 020-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200229-35188/download"
 extraido: "2026-11-14"
-huella: "96f5074c10de8ed2"
+huella: "ae2b1c19e491726f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 020-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Salud como ente rec
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Salud es el ente rector del Sistema Nacional de Salud y responsable de la respuesta oportuna y eficiente ante alertas epidemiológicas, epidemias y otras emergencias sanitarias en Honduras, deberá disponer de los recursos necesarios en términos de asignación, manejo y disponibilidad inmediata.
 
-POR TANTO: En uso de las facultades de que está investida y en aplicación a los artículos 149 de la Constitución de la República; 186 del Código de Salud, 29, 36 No.6 de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo; 67, 68 y 69 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Que el Artículo 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER) establece que la Secretaría de Estado en el Despacho de salud, será la encargada de declarar las emergencias epidemiológicas y las medias de control y prevención del sector salud, de acuerdo con lo dispuesto en el Decreto No. 65 de fecha 29 de mayo de 1991, contentivo del Código de Salud. La Secretaría de Estado en el Despacho de Salud coordinará y dirigirá a las otras instancias del Sistema Nacional de Gestión de Riesgos (SINAGER) para hacer un efectivo control epidemiológico.
+POR TANTO: En uso de las facultades de que está investida y en aplicación a los artículos 149 de la Constitución de la República; 186 del Código de Salud, 29, 36 No. 6 de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo; 67, 68 y 69 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Que el Artículo 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER) establece que la Secretaría de Estado en el Despacho de salud, será la encargada de declarar las emergencias epidemiológicas y las medias de control y prevención del sector salud, de acuerdo con lo dispuesto en el Decreto No. 65 de fecha 29 de mayo de 1991, contentivo del Código de Salud. La Secretaría de Estado en el Despacho de Salud coordinará y dirigirá a las otras instancias del Sistema Nacional de Gestión de Riesgos (SINAGER) para hacer un efectivo control epidemiológico.
 
 ACUERDA:
 
@@ -191,7 +191,7 @@ A pesar de los avances relativos, alcanzados en algunos indicadores sociales, a 
 
 La población total de Honduras presenta una tendencia creciente al pasar de 8.4 a 9.0 millones de habitantes, en el periodo 2014 a 2018. La población urbana presenta un crecimiento de 4.3 a 4.9 millones de habitantes mientras que la población rural presenta una tendencia al crecimiento al pasar de 3.8 a 4.1 millones de habitantes, en el mismo periodo.
 
-La población de Honduras pasó de una estructura piramidal de base ancha, con franco predominio de personas menores de 19 años en 1990 a una composición poblacional de base más estrecha e incrementos sustanciales en grupos de mayor edad en el 2015, lo cual genera nuevos desafíos al Sistema Nacional de Salud (SNS) al experimentarse cambios en los patrones sociales y epidemiológicos en la población (Instituto Nacional de Estadística INE, 2018) Tal como se muestra en la figura No.1, la pobreza extrema disminuyó en 1.9 puntos porcentuales (pp) en 2017 con respecto al nivel mostrado en 2013, aún se mantiene por arriba de la media del periodo, de 40.3%. Asimismo, el porcentaje de hogares en situación de pobreza relativa subió en 1.7 pp, en 2017 con relación a 2013, y se mantiene también por arriba del promedio del periodo de 23%. Si sólo se consideran los datos de 2013 y 2017, se podría suponer que los hogares que dejaron de ser pobres extremos en el periodo pasaron a engrosar el número de hogares en pobreza relativa, ya que el total de pobres (extremos + relativos) se mantuvo entre 64.5% y 64.3%.
+La población de Honduras pasó de una estructura piramidal de base ancha, con franco predominio de personas menores de 19 años en 1990 a una composición poblacional de base más estrecha e incrementos sustanciales en grupos de mayor edad en el 2015, lo cual genera nuevos desafíos al Sistema Nacional de Salud (SNS) al experimentarse cambios en los patrones sociales y epidemiológicos en la población (Instituto Nacional de Estadística INE, 2018) Tal como se muestra en la figura No. 1, la pobreza extrema disminuyó en 1.9 puntos porcentuales (pp) en 2017 con respecto al nivel mostrado en 2013, aún se mantiene por arriba de la media del periodo, de 40.3%. Asimismo, el porcentaje de hogares en situación de pobreza relativa subió en 1.7 pp, en 2017 con relación a 2013, y se mantiene también por arriba del promedio del periodo de 23%. Si sólo se consideran los datos de 2013 y 2017, se podría suponer que los hogares que dejaron de ser pobres extremos en el periodo pasaron a engrosar el número de hogares en pobreza relativa, ya que el total de pobres (extremos + relativos) se mantuvo entre 64.5% y 64.3%.
 
 Figura No 1 Hogares en Situación de Pobreza (porcentajes) El analfabetismo continúa siendo una importante limitante para el desarrollo del país. El porcentaje de analfabetos en el área urbana es de 6%, mientras que en el área rural supera el 19%, lo cual indica que 3 de cada 4 analfabetos se encuentran en el ámbito rural. Además, el analfabetismo es más alto a medida que la persona es mayor, de manera que para 2017, la tasa era menor al 10% hasta los 35 años, pero a partir de los 36 años aumenta de manera progresiva hasta alcanzar un 30.2% en la población de 60 años. Sin embargo, es más preocupante saber que en 2017 un total de 255 mil jóvenes, entre 15 y 29 años, no saben leer ni escribir.
 
@@ -255,7 +255,7 @@ A continuación se presenta los procesos, actividades y responsables según cada
 
 World Health Organization, pesticides and their application for the control of vectors and pests of public health importance, Sixth edition, . World Health Organization 2006;
 
-World Health Organization, Manual for indoor residual spraying , application of residual sprays for vector control , third edition, World Health Organization2007;
+World Health Organization, Manual for indoor residual spraying, application of residual sprays for vector control, third edition, World Health Organization2007;
 
 World Health Organization, safety of pyrethroids for public health use, World Health Organization 2005;
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 20-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240210-36457/download"
 extraido: "2026-11-14"
-huella: "35c81d105922b5ff"
+huella: "3d444ae4e4fb505e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 20-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es un deber ineludible del Estado de Honduras rescatar, promov
 
 CONSIDERANDO: Que los juegos tradicionales típicos de Honduras que normalmente han propiciado con su práctica espacios de paz, convivencia, tolerancia y hermandad están siendo seriamente amenazados con la importación de tecnologías, costumbres y prácticas consumistas que llevan a la niñez a una cultura alienante, revestida de violencia e inversión de fuertes sumas de dinero que van en detrimento de la economía familiar.
 
-CONSIDERANDO: Que mediante Decreto No.114-2006 de fecha 19 de Septiembre de 2006, Edición No. 31,134 y publicado el 20 de Octubre de 2006 en el Diario Oficial “La Gaceta”, este Poder del Estado decretó al municipio de San Marcos, departamento de Santa Bárbara como “CAPITAL NACIONAL DE LOS JUEGOS TRADICIONALES TÍPICOS DE HONDURAS”, el cual, ha sido asumido con mucho orgullo, liderazgo y compromiso por el pueblo de dicho municipio, representando dignamente los juegos tradicionales y colores patrios en diferentes escenarios de la cultural mundial.
+CONSIDERANDO: Que mediante Decreto No. 114-2006 de fecha 19 de Septiembre de 2006, Edición No. 31,134 y publicado el 20 de Octubre de 2006 en el Diario Oficial “La Gaceta”, este Poder del Estado decretó al municipio de San Marcos, departamento de Santa Bárbara como “CAPITAL NACIONAL DE LOS JUEGOS TRADICIONALES TÍPICOS DE HONDURAS”, el cual, ha sido asumido con mucho orgullo, liderazgo y compromiso por el pueblo de dicho municipio, representando dignamente los juegos tradicionales y colores patrios en diferentes escenarios de la cultural mundial.
 
 CONSIDERANDO: Que actualmente vivimos en una situación con altos índices de violencia, que en parte son producto de la ausencia de promoción de valores como la solidaridad, respeto, convivencia, trabajo en equipo, cultura de paz, que se generen espontáneamente con prácticas saludables como lo son los juegos tradicionales; y conscientes de que es un deber del Estado de Honduras a través de sus instituciones y sus recursos impulsar iniciativas que permitan promover una sociedad menos violenta, invirtiendo más en cultura, educación y promoción de valores.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -113,9 +113,7 @@ CONSIDERANDO: Asimismo, según el estudio precitado, en el Municipio del Distrit
 
 En consecuencia, se deben tomar medidas inmediatas para atender y prevenir esta situación de emergencia ante un posible desabastecimiento.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-25-2021, se declaró hasta el año 2030, en todo el territorio del Estado de Honduras, Emergencia Climática, hasta el cumplimiento de los Objetivos de Desarrollo Sostenible (ODS). Asimismo, se establece que las instituciones gubernamentales, municipales, en todos sus niveles, deben implementar medidas sinérgicas de adaptación-mitigación y sus cobeneficios, con una perspectiva de justicia ambiental, para reducir vulnerabilidades y desarrollar capacidades y resiliencia, frente al cambio climático a corto, mediano y largo plazo (artículos 1 y 2).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 25-2021, se declaró hasta el año 2030, en todo el territorio del Estado de Honduras, Emergencia Climática, hasta el cumplimiento de los Objetivos de Desarrollo Sostenible (ODS). Asimismo, se establece que las instituciones gubernamentales, municipales, en todos sus niveles, deben implementar medidas sinérgicas de adaptación-mitigación y sus cobeneficios, con una perspectiva de justicia ambiental, para reducir vulnerabilidades y desarrollar capacidades y resiliencia, frente al cambio climático a corto, mediano y largo plazo (artículos 1 y 2).
 
 CONSIDERANDO: Que la Ley Marco del Sector Agua Potable y Saneamiento, establece a las municipalidades como las titulares de los servicios de agua potable y saneamiento, correspondiéndoles disponer de la forma y condiciones de la prestación de dichos servicios en su respectiva jurisdicción (artículo 16).
 

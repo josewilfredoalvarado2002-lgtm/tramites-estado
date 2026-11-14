@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 028-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240713-36585/download"
 extraido: "2026-11-14"
-huella: "74049843755d8b46"
+huella: "1eb5e28557540e3d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 028-2024
@@ -51,7 +51,7 @@ CONSIDERANDO: En el segmento del límite definido por la playa, debe considerars
 
 CONSIDERANDO: Que es atribución del ICF aprobar los planes de manejo para la conservación, protección, aprovechamiento racional y sostenible de las áreas forestales, áreas protegidas y vida silvestre, así como en su reglamento general.
 
-CONSIDERANDO: Que según Dictamen Técnico DAP- 066-2023, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización recomienda aprobar el Plan de Manejo del Refugio de Vida Silvestre Cuyamel 2023-2034.
+CONSIDERANDO: Que según Dictamen Técnico DAP-066-2023, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización recomienda aprobar el Plan de Manejo del Refugio de Vida Silvestre Cuyamel 2023-2034.
 
 POR TANTO
 

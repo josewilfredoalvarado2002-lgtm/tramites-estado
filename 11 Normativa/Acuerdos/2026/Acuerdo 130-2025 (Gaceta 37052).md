@@ -11,7 +11,7 @@ paginas: "A. 60 - 62"
 sumario: "Acuerdos Nos. 051-2025, 130-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "54e7c02cfef45460"
+huella: "60f967e6d130c146"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 130-2025
@@ -63,7 +63,7 @@ CONSIDERANDO: Que, teniendo la facultad de dictar el presente acto de carácter 
 
 POR TANTO:
 
-La Dirección Ejecutiva, en uso de las atribuciones que le confiere el Artículo 80, 260 y 340 de la Constitución de la República, los Artículos 1, 2, 3, 4, 11, 17, 18, 19, 20, 71, 135, 140, 142, 143, 144, 145, 146, 147 y 211; de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98- 2007); Artículos 1, 21, 22, 23, 24, 25, 26, 27, de la Ley de Procedimiento Administrativo; Artículos 1, 2, 3, 4, 5, 6, 256, 257, 258, 259, 260, 261, 262, 263, 264, 284, 285, 286, 287, 288 y 289 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre
+La Dirección Ejecutiva, en uso de las atribuciones que le confiere el Artículo 80, 260 y 340 de la Constitución de la República, los Artículos 1, 2, 3, 4, 11, 17, 18, 19, 20, 71, 135, 140, 142, 143, 144, 145, 146, 147 y 211; de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98-2007); Artículos 1, 21, 22, 23, 24, 25, 26, 27, de la Ley de Procedimiento Administrativo; Artículos 1, 2, 3, 4, 5, 6, 256, 257, 258, 259, 260, 261, 262, 263, 264, 284, 285, 286, 287, 288 y 289 del Reglamento General de la Ley Forestal, Áreas Protegidas y Vida Silvestre
 
 ACUERDA:
 

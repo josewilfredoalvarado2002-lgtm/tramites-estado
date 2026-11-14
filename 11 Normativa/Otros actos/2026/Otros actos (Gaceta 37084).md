@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo CREE-11-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260303-37084/download"
 extraido: "2026-11-09"
-huella: "e2402373bae83797"
+huella: "4b03ba2ae22a4813"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-11-2026
@@ -47,7 +47,7 @@ Además, si se trata de distribuidoras que sirven sistemas aislados, deben lleva
 
 (11) de abril de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) aprobó de manera condicionada el procedimiento y fórmulas de ajuste que se aplicaran en la estructura tarifaria de la Empresa Nacional de Energía Eléctrica (ENEE) que se aplica a los usuarios finales en el Municipio de Guanaja.
 
-5. Que mediante Acuerdo CREE-07-2026 de fecha treinta y uno (31) de enero de dos mil veintiséis (2026) la Comisión Reguladora de Energía Eléctrica (CREE) instruyó a la Empresa Nacional de Energía Eléctrica (ENEE) para que a partir del uno (01) de febrero de dos mil veintiséis (2026) continúe aplicando a los usuarios finales ubicados en el Municipio de Guanaja el ajuste a la estructura tarifaria transitoria aprobada mediante el Acuerdo CREE-146- 2025, de fecha treinta y uno (31) de octubre de dos mil veinticinco (2025), manteniéndose dicho ajuste vigente hasta tanto se apruebe el correspondiente ajuste al costo base de generación y su consecuente estructura tarifaria.
+5. Que mediante Acuerdo CREE-07-2026 de fecha treinta y uno (31) de enero de dos mil veintiséis (2026) la Comisión Reguladora de Energía Eléctrica (CREE) instruyó a la Empresa Nacional de Energía Eléctrica (ENEE) para que a partir del uno (01) de febrero de dos mil veintiséis (2026) continúe aplicando a los usuarios finales ubicados en el Municipio de Guanaja el ajuste a la estructura tarifaria transitoria aprobada mediante el Acuerdo CREE-146-2025, de fecha treinta y uno (31) de octubre de dos mil veinticinco (2025), manteniéndose dicho ajuste vigente hasta tanto se apruebe el correspondiente ajuste al costo base de generación y su consecuente estructura tarifaria.
 
 6. Que mediante memorándum número MM-DF-032-2026 de fecha diecisiete (17) de febrero de dos mil veintiséis (2026) la Dirección de Fiscalización remitió a la Dirección de Regulación el Dictamen Técnico DT-DF-007-2026 mediante el cual recomendó, entre otras cosas, lo siguiente:
 
@@ -55,7 +55,7 @@ Además, si se trata de distribuidoras que sirven sistemas aislados, deben lleva
 
 7. Que en los archivos de esta Comisión Reguladora consta la documentación sobre los costos reales en que la Empresa Nacional de Energía Eléctrica (ENEE) incurrió en la Isla de Guanaja correspondientes a los meses de octubre, noviembre y diciembre de dos mil veinticinco (2025). A su vez se informa que, la última documentación presentada por parte de la Empresa Nacional de Energía Eléctrica (ENEE) durante este proceso de ajuste tarifario fue en fecha diecinueve (19) de febrero de dos mil veintiséis (2026).
 
-8. Que mediante oficio número GD-042-02-2026 de fecha nueve (09) de febrero de dos mil veintiséis (2026) el Gerente de Distribución de la Empresa Nacional de Energía Eléctrica (ENEE) remitió a la Comisión Reguladora de Energía Eléctrica (CREE) el Acuerdo Gerencial No. 001- 2026 mediante el cual se delegaba la firma a favor del Ing.
+8. Que mediante oficio número GD-042-02-2026 de fecha nueve (09) de febrero de dos mil veintiséis (2026) el Gerente de Distribución de la Empresa Nacional de Energía Eléctrica (ENEE) remitió a la Comisión Reguladora de Energía Eléctrica (CREE) el Acuerdo Gerencial No. 001-2026 mediante el cual se delegaba la firma a favor del Ing.
 
 Rolando Castillo.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números 036-2021, PCM - 038-2021, 040-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210407-35564/download"
 extraido: "2026-11-14"
-huella: "1f1a9ba8b57ff2d9"
+huella: "d1052ccb23c43c4a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 036-2021
@@ -31,15 +31,13 @@ EL PRESIDENTE DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2 y 11 de la Constitución de la República, le corresponde al Presidente de la República, dirigir la Política General del Estado y representarlo; emitir Acuerdos, Decretos y expedir Reglamentos y Resoluciones conforme a la Ley.
 
-CONSIDERANDO: Que de conformidad con el Artículo 6 párrafo tercero de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266- 2013, el Presidente de la República debe tomar las medidas que sean necesarias para lograr que los planes, políticas, proyectos y programas se cumplan, para lo cual debe crear o modificar las instancias de conducción estratégica que estime necesarias y, cuando corresponda, pueda auxiliarse en los organismos de derecho privado pertinentes para alcanzar los objetivos del Plan de Nación y los planes estratégicos que de él se deriven, así como la continuidad de las políticas, proyectos y programas que son de obligatorio cumplimiento para los Gobiernos sucesivos.
+CONSIDERANDO: Que de conformidad con el Artículo 6 párrafo tercero de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República debe tomar las medidas que sean necesarias para lograr que los planes, políticas, proyectos y programas se cumplan, para lo cual debe crear o modificar las instancias de conducción estratégica que estime necesarias y, cuando corresponda, pueda auxiliarse en los organismos de derecho privado pertinentes para alcanzar los objetivos del Plan de Nación y los planes estratégicos que de él se deriven, así como la continuidad de las políticas, proyectos y programas que son de obligatorio cumplimiento para los Gobiernos sucesivos.
 
 CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-116-2019 de fecha 18 de octubre de 2019 y publicado en el Diario Oficial “La Gaceta” Número 35,076, se aprobó la Ley Especial para la Gestión, Asignación, Ejecución, Liquidación y Rendición de Cuentas de Fondos Públicos para Proyectos de Orden Social, Comunitarios, Infraestructura y Programas Sociales.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 116-2019 de fecha 18 de octubre de 2019 y publicado en el Diario Oficial “La Gaceta” Número 35,076, se aprobó la Ley Especial para la Gestión, Asignación, Ejecución, Liquidación y Rendición de Cuentas de Fondos Públicos para Proyectos de Orden Social, Comunitarios, Infraestructura y Programas Sociales.
 
 CONSIDERANDO. Que el Congreso Nacional de la República mediante Decreto Legislativo Número 11-2020 de fecha 26 de febrero de 2020 y publicado en el Diario Oficial “La Gaceta” el 7 de marzo de 2020 Edición No. 35,194, aprobó, entre otros aspectos que la Unidad Coordinadora de Proyectos (UCP) es el órgano de asistencia técnica, de ejecución de programas, plataformas y proyectos del Fideicomiso del Proyecto “SISTEMA TECNOLÓGICO Y LOGÍSTICO PARA LA ADMINISTRACIÓN DE LOS DERECHOS DE PROPIEDAD EN LA REPÚBLICA DE HONDURAS”.
 
@@ -47,9 +45,9 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-019-2021 de fecha 2 de 
 
 POR TANTO, En uso de las facultades contenidas y en aplicación de los
 
-Artículos 235, 245 numerales 2, 11, 19 y 30, 246, 252, 255, 321, 323 y 355 de la Constitución de la República de Honduras; Artículos 3, 4, 6, 11, 13, 14, 17, 22 numerales 3) y 6), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno; Artículo 4, 7 y demás aplicables del Decreto Legislativo No.11-2020;
+Artículos 235, 245 numerales 2, 11, 19 y 30, 246, 252, 255, 321, 323 y 355 de la Constitución de la República de Honduras; Artículos 3, 4, 6, 11, 13, 14, 17, 22 numerales 3) y 6), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno; Artículo 4, 7 y demás aplicables del Decreto Legislativo No. 11-2020;
 
-Decretos Ejecutivos Números: PCM-142-2020 y PCM-019- 2021; y, Cláusulas Cuarta, Quinta, Sexta, Séptima, Octava y demás aplicables del Contrato de Fideicomiso del Proyecto “Sistema Tecnológico y Logístico para la Administración de los Derechos de Propiedad en la República de Honduras”.
+Decretos Ejecutivos Números: PCM-142-2020 y PCM-019-2021; y, Cláusulas Cuarta, Quinta, Sexta, Séptima, Octava y demás aplicables del Contrato de Fideicomiso del Proyecto “Sistema Tecnológico y Logístico para la Administración de los Derechos de Propiedad en la República de Honduras”.
 
 DECRETA:
 

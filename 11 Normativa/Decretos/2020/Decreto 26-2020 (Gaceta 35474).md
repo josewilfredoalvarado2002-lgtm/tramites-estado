@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Decretos Nos. 26-2020, 167-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201231-35474/download"
 extraido: "2026-11-14"
-huella: "698cd4b0e1577fc8"
+huella: "11b95f8fc2dc9227"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 26-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

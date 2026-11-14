@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdo Ejecutivo Número 118-2025, Acuerdos Ejecutivos Nos. 183-2025, 188-2026, 353-2025, 221-2025, 401-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260123-37051/download"
 extraido: "2026-11-09"
-huella: "f32376272a292043"
+huella: "f769b9c891ad46e7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 183-2025
@@ -35,7 +35,7 @@ En uso de sus atribuciones y en aplicación de los artículos:
 
 ACUERDA:
 
-PRIMERO: Revocar el Acuerdo Ejecutivo No. 157- 2025 de fecha 18 de diciembre de 2025, que contiene la delegación en el ciudadano Jaime Atilio Rodríguez Peñalva, Subsecretario de Estado en el Despacho de Asuntos Administrativos y Financieros, la representación por Ley de la Secretaría de Estado en el Despacho de Educación, a partir del 26 de enero de 2026.
+PRIMERO: Revocar el Acuerdo Ejecutivo No. 157-2025 de fecha 18 de diciembre de 2025, que contiene la delegación en el ciudadano Jaime Atilio Rodríguez Peñalva, Subsecretario de Estado en el Despacho de Asuntos Administrativos y Financieros, la representación por Ley de la Secretaría de Estado en el Despacho de Educación, a partir del 26 de enero de 2026.
 
 SEGUNDO: El presente Acuerdo debe publicarse en el Diario Oficial La Gaceta.
 

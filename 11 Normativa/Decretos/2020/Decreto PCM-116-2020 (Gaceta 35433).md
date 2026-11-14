@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decretos Ejecutivos númerosPCM-116-2020, 118-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201118-35433/download"
 extraido: "2026-11-14"
-huella: "27507e2f1693f65f"
+huella: "34f0c1bd62fab11d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-116-2020
@@ -33,9 +33,9 @@ CONSIDERANDO: Que de conformidad al Artículo 245 numerales 2, 11 y 35 de la Con
 
 CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Despacho Ministerial de Socialización y Acompañamiento Digital de los Proyectos Presidenciales fue creado como un órgano desconcentrado de la Secretaría de Estado en el Despacho de la Presidencia mediante Decreto Ejecutivo Número de creación PCM-049- 2019 publicado en el Diario Oficial “La Gaceta” del 17 de septiembre del 2019; quien coordina todas las actividades en el territorio nacional relacionadas con la Visión de País y el Plan de Nación, planificación al desarrollo y ordenamiento territorial. El DMDPP se encuentra organizado en dieciséis regiones geográficas, definidas en función de las cuencas hidrográficas del país, considerando sus características, capacidades y necesidades particulares e integrando a la población y comunidades de cada región.
+CONSIDERANDO: Que el Despacho Ministerial de Socialización y Acompañamiento Digital de los Proyectos Presidenciales fue creado como un órgano desconcentrado de la Secretaría de Estado en el Despacho de la Presidencia mediante Decreto Ejecutivo Número de creación PCM-049-2019 publicado en el Diario Oficial “La Gaceta” del 17 de septiembre del 2019; quien coordina todas las actividades en el territorio nacional relacionadas con la Visión de País y el Plan de Nación, planificación al desarrollo y ordenamiento territorial. El DMDPP se encuentra organizado en dieciséis regiones geográficas, definidas en función de las cuencas hidrográficas del país, considerando sus características, capacidades y necesidades particulares e integrando a la población y comunidades de cada región.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,317, reformado mediante Decreto Ejecutivo Número PCM-112-2020 y por el Decreto Ejecutivo Número PCM- 115-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical “ETA”, las cuales han causado graves daños a la infraestructura vial y al Sector Agrícola del País, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020, Edición No. 35,317, reformado mediante Decreto Ejecutivo Número PCM-112-2020 y por el Decreto Ejecutivo Número PCM-115-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias provocadas por la Tormenta Tropical “ETA”, las cuales han causado graves daños a la infraestructura vial y al Sector Agrícola del País, configurándose en una nueva crisis humanitaria que se une a la causada por el virus del COVID-19.
 
 CONSIDERANDO: Que según el Centro Nacional de Estudios Atmosféricos, Oceánicos y Sísmicos (Cenaos) de COPECO, se informa que el huracán IOTA se encuentra a unos 310 kilómetros al Este-Sureste del Cabo de Gracias a Dios, manteniendo vientos sostenidos de 225 km/h la cual afectará el territorio nacional.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el Gobierno de la República de Honduras está monitoreando a 
 
 POR TANTO;
 
-En aplicación de los Artículos 59, 245 numerales 2 y 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM- 049-2019, PCM-109-2020, PCM-112-2020 y PCM-115-2020.
+En aplicación de los Artículos 59, 245 numerales 2 y 11, 248, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119, de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado; y, Artículos 1, 20, 26, 29, 44, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decretos Ejecutivos Números: PCM-049-2019, PCM-109-2020, PCM-112-2020 y PCM-115-2020.
 
 DECRETA:
 

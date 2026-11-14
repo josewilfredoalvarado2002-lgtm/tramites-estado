@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 12-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230322-36186/download"
 extraido: "2026-11-14"
-huella: "cb467dfde83be6bd"
+huella: "d9a45687fa666ba9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 12-2023
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad a la Atribución
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -81,9 +81,7 @@ ARTÍCULO 6.- Se instruye a todas las instituciones del Estado a revisar y actua
 
 #### Artículo 7
 
-ARTÍCULO 7.- Derogar el Decreto Legislativo No.58- 2020 del 21 de mayo de 2020, publicado en el Diario Oficial “La Gaceta”, el 23 de mayo del año 2020, en su Edición No.
-
-35,261, contentivo de la LEY DE USO
+ARTÍCULO 7.- Derogar el Decreto Legislativo No. 58-2020 del 21 de mayo de 2020, publicado en el Diario Oficial “La Gaceta”, el 23 de mayo del año 2020, en su Edición No. 35,261, contentivo de la LEY DE USO
 
 OBLIGATORIO DE MASCARILLAS Y APLICACIÓN PROTOCOLOS DE BIOSEGURIDAD.
 

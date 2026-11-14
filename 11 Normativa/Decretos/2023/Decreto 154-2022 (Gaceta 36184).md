@@ -11,7 +11,7 @@ paginas: "A. 1 - 48"
 sumario: "Decreto No. 154-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230320-36184/download"
 extraido: "2026-11-14"
-huella: "bc5fcb0b6892e756"
+huella: "e71dad0071beb51c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 154-2022
@@ -59,7 +59,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -721,7 +721,7 @@ ARTÍCULO 38.- PREVENCIÓN TEMPRANA. Las autoridades competentes deberán adopta
 
 #### Artículo 39
 
-ARTÍCULO 39.- P O L Í T I C A N A C I O N A L D E PREVENCIÓN DEL DESPLAZAMIENTO FORZADO. Se instruye a la Comisión Interinstitucional para la Protección de Personas Desplazadas Forzadamente, a diseñar en el plazo de dos (2) años contados a partir de la entrada en vigencia de la presente Ley, la Política Nacional de Prevención del Desplazamiento Forzado, que entre otros aspectos deberá contemplar medidas acerca de:
+ARTÍCULO 39.- POLÍTICA NACIONAL DE PREVENCIÓN DEL DESPLAZAMIENTO FORZADO. Se instruye a la Comisión Interinstitucional para la Protección de Personas Desplazadas Forzadamente, a diseñar en el plazo de dos (2) años contados a partir de la entrada en vigencia de la presente Ley, la Política Nacional de Prevención del Desplazamiento Forzado, que entre otros aspectos deberá contemplar medidas acerca de:
 
 \1) Uso, vinculación y reclutamiento forzado de niñas, niños y adolescentes por grupos armados y delictivos.
 
@@ -797,7 +797,7 @@ La ayuda humanitaria se prestará de conformidad con los principios humanitarios
 
 #### Artículo 44
 
-ARTÍCULO 44.- D E L A E N T R E G A D E L A ASISTENCIA HUMANITARIA.
+ARTÍCULO 44.- DE LA ENTREGA DE LA ASISTENCIA HUMANITARIA.
 
 Es la ayuda humanitaria entregada a aquellas personas que manifiestan haber sido desplazadas y que se encuentran en situación de vulnerabilidad acentuada y, que de acuerdo al análisis de necesidades requieren de ésta. Esta ayuda será determinada por la Secretaría de Estado en el Despacho de Derechos Humanos, mediante la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia; y por las Unidades Municipales para la Atención y Protección de Personas Desplazadas Forzadamente en coordinación con los órganos e instituciones parte del Sistema Nacional de Respuesta al Desplazamiento Forzado Internamente (SINARDEFI). Está será entregada hasta por tres (3) meses.
 
@@ -813,7 +813,7 @@ EN SALUD. Las instituciones hospitalarias públicas o privadas, del territorio n
 
 #### Artículo 46
 
-ARTÍCULO 46.- ASISTENCIA HUMANITARIA E N D E S P L A Z A M I E N T O S COLECTIVOS. Las municipalidades, en coordinación con la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO), estará a cargo de brindar la asistencia humanitaria a la que se refiere la presente Ley en casos de desplazamientos colectivos, debiendo para tal caso instalar albergues o campamentos temporales, en condiciones dignas y seguras, y apoyar la reglamentación relativa a emergencias y atención de casos colectivos. Para ello, deberá coordinar con la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia.
+ARTÍCULO 46.- ASISTENCIA HUMANITARIA EN DESPLAZAMIENTOS COLECTIVOS. Las municipalidades, en coordinación con la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO), estará a cargo de brindar la asistencia humanitaria a la que se refiere la presente Ley en casos de desplazamientos colectivos, debiendo para tal caso instalar albergues o campamentos temporales, en condiciones dignas y seguras, y apoyar la reglamentación relativa a emergencias y atención de casos colectivos. Para ello, deberá coordinar con la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia.
 
 Las autoridades deberán adoptar medidas para garantizar la disponibilidad de un suministro suficiente y permanente de agua de calidad adecuada, de condiciones de saneamiento y a instalaciones de higiene básicas. Éstas deberán ser accesibles a todas las personas en condiciones de seguridad y considerando las necesidades particulares de género, edad y diversidad.
 
@@ -927,7 +927,7 @@ El Instituto de la Propiedad (IP), las municipalidades, la Policía Nacional, De
 
 #### Artículo 54
 
-ARTÍCULO 54.- P R Ó R R O G A D E P L A Z O A
+ARTÍCULO 54.- PRÓRROGA DE PLAZO A
 
 CRÉDITOS. Cuando como consecuencia del desplazamiento forzado las personas de que trata la presente Ley hayan perdido sus medios de vida y mantengan un crédito sobre sus bienes, las entidades acreedoras deberán otorgar una prórroga de hasta doce (12) meses para el pago de sus obligaciones, tiempo que se sumará a los meses restantes del crédito, sin que haya aumento o recargo de ningún tipo de interés por mora.
 
@@ -1059,7 +1059,7 @@ La Secretaría de Estado en el Despacho de Seguridad está obligada a proporcion
 
 #### Artículo 66
 
-ARTÍCULO 66.- V I G E N C I A P A R A L A S MEDIDAS DE PROTECCIÓN EXTRAORDINARIAS. Las medidas de protección extraordinarias deberán permanecer hasta que la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia realice nueva evaluación de necesidades, en las dos (2) semanas siguientes a la adopción de la medida.
+ARTÍCULO 66.- VIGENCIA PARA LAS MEDIDAS DE PROTECCIÓN EXTRAORDINARIAS. Las medidas de protección extraordinarias deberán permanecer hasta que la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia realice nueva evaluación de necesidades, en las dos (2) semanas siguientes a la adopción de la medida.
 
 #### Artículo 67
 
@@ -1097,7 +1097,7 @@ CAPÍTULO VI RECURSOS
 
 #### Artículo 71
 
-ARTÍCULO 71.- SOBRE LAS DECISIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS H U M A N O S , M E D I A N T E LA DIRECCIÓN PARA LA PROTECCIÓN DE PERSONAS DESPLAZADAS INTERNAMENTE POR LA VIOLENCIA. Toda persona solicitante o beneficiaria que esté en desacuerdo con las decisiones emitidas por la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia y las Unidades Municipales de Atención y Protección de Personas Desplazadas Forzadamente (UMAPPDF), tiene derecho de impugnar la decisión ante el órgano superior jerárquico de conformidad a la Ley de Procedimiento Administrativo.
+ARTÍCULO 71.- SOBRE LAS DECISIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS, MEDIANTE LA DIRECCIÓN PARA LA PROTECCIÓN DE PERSONAS DESPLAZADAS INTERNAMENTE POR LA VIOLENCIA. Toda persona solicitante o beneficiaria que esté en desacuerdo con las decisiones emitidas por la Dirección para la Protección de Personas Desplazadas Internamente por la Violencia y las Unidades Municipales de Atención y Protección de Personas Desplazadas Forzadamente (UMAPPDF), tiene derecho de impugnar la decisión ante el órgano superior jerárquico de conformidad a la Ley de Procedimiento Administrativo.
 
 Las impugnaciones deberán presentarse en un plazo no mayor de cinco (5) días hábiles, después de haber sido notificadas de la resolución, y éstas deberán ser resueltas de manera preferente y urgente, atendiendo al principio pro persona, en el término de veinticuatro (24) horas.
 
@@ -1105,7 +1105,7 @@ CAPÍTULO VII SANCIONES
 
 #### Artículo 72
 
-ARTÍCULO 72.- R E S P O N S A B I L I D A D D E
+ARTÍCULO 72.- RESPONSABILIDAD DE
 
 SERVIDORES PÚBLICOS. Los servidores y servidoras públicas que mediante acciones u omisiones nieguen u obstaculicen el cumplimiento de las medidas de que trata la presente Ley para proteger los derechos humanos de las personas desplazadas forzadamente, incurren en el delito de violación de los deberes de los funcionarios y funcionarias, y otros que según el caso sean aplicables, diligencias que deben ser iniciadas de oficio por el Ministerio Público, sin perjuicio de las responsabilidades civiles y administrativas que correspondan.
 

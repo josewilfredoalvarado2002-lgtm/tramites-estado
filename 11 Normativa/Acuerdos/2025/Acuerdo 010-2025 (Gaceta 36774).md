@@ -11,7 +11,7 @@ paginas: "A. 15 - 20"
 sumario: "Acuerdos Nos. 009-2025, 010-2025,Acuerdo CONAPROFOR-001-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250224-36774/download"
 extraido: "2026-11-12"
-huella: "53ea3214f9551e49"
+huella: "9f0e363194b05817"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 010-2025
@@ -29,7 +29,7 @@ huella: "53ea3214f9551e49"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: La Ley Forestal en el artículo 18 numeral 1, señala que el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) tiene las atribuciones de administrar el ICF y ejercer la representación legal del mismo.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad a lo dispuesto en el artículo 24 y 27 de la Le
 
 CONSIDERANDO: Que la competencia es irrenunciable y será ejercitada por los órganos que la tengan atribuida por Ley, sin embargo, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior. No obstante, la responsabilidad que se derive de la emisión de los actos será imputable al órgano delegado.
 
-CONSIDERANDO: Que mediante Acción de Personal No.483-2024 de fecha quince (15) de agosto del año dos mil veinticuatro (2024), se nombró al ciudadano JORGE LENIN GUTIÉRREZ BARRERA, en el cargo de Jefe Regional de la Región Forestal del Atlántico, del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
+CONSIDERANDO: Que mediante Acción de Personal No. 483-2024 de fecha quince (15) de agosto del año dos mil veinticuatro (2024), se nombró al ciudadano JORGE LENIN GUTIÉRREZ BARRERA, en el cargo de Jefe Regional de la Región Forestal del Atlántico, del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
 
 POR TANTO:
 
@@ -47,9 +47,7 @@ El Director Ejecutivo Instituto Nacional de Conservación y Desarrollo Forestal,
 
 ACUERDA:
 
-PRIMERO: Delegar a partir del tres (3) de febrero hasta el treinta y uno (31) de diciembre del año dos mil veinticinco (2025) o en su defecto a hasta la finalización del Proyecto Apoyo a Centros de Rescate y Rehabilitación de Vida Silvestre de la Región La Ceiba, Atlántida y El Centro de Recate y Liberación de Psitácidos Mabita, Gracias a Dios, en el ciudadano JORGE LENIN GUTIÉRREZ BARRERA, con Documento Nacional de Identificación No.
-
-0209-1990-00454, la facultad de autorizar con su sola firma la documentación contenida en el marco de la implementación del Proyecto “APOYO A CENTROS DE RESCATE Y REHABILITACIÓN DE VIDA SILVESTRE DE LA REGIÓN LA CEIBA, ATLÁNTIDA Y EL CENTRO DE RECATE Y LIBERACIÓN DE PSITÁCIDOS MABITA, GRACIAS A DIOS”, así como la facultad de notificar, remitir las comunicaciones y cualquier otra acto que sea necesario y requerido para la eficaz ejecución del mismo, en nombre de LUIS EDGARDO SOLIZ LOBO, Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
+PRIMERO: Delegar a partir del tres (3) de febrero hasta el treinta y uno (31) de diciembre del año dos mil veinticinco (2025) o en su defecto a hasta la finalización del Proyecto Apoyo a Centros de Rescate y Rehabilitación de Vida Silvestre de la Región La Ceiba, Atlántida y El Centro de Recate y Liberación de Psitácidos Mabita, Gracias a Dios, en el ciudadano JORGE LENIN GUTIÉRREZ BARRERA, con Documento Nacional de Identificación No. 0209-1990-00454, la facultad de autorizar con su sola firma la documentación contenida en el marco de la implementación del Proyecto “APOYO A CENTROS DE RESCATE Y REHABILITACIÓN DE VIDA SILVESTRE DE LA REGIÓN LA CEIBA, ATLÁNTIDA Y EL CENTRO DE RECATE Y LIBERACIÓN DE PSITÁCIDOS MABITA, GRACIAS A DIOS”, así como la facultad de notificar, remitir las comunicaciones y cualquier otra acto que sea necesario y requerido para la eficaz ejecución del mismo, en nombre de LUIS EDGARDO SOLIZ LOBO, Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF).
 
 SEGUNDO: Se instruye a la Jefatura Regional del Atlántico, darle seguimiento a la realización de dicho proyecto desde el inicio, ejecución, hasta la finalización, verificando el cumplimiento, la aplicación de toda la normativa y los procesos legales vigentes.
 

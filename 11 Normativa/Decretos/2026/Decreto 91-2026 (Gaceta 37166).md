@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Decretos Nos. 78-2026, 90-2026, 91-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "8b9c4eb81ef7c92f"
+huella: "c7968e39b854aec7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 91-2026
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Artículo 225 del CÓDIGO DE FAMILIA DE HONDURAS, contenido en el Decreto No.76-84, aprobado por el Congreso Nacional de la República el 11 de Mayo de 1984, y sus reformas.
+ARTÍCULO 1.- Derogar el Artículo 225 del CÓDIGO DE FAMILIA DE HONDURAS, contenido en el Decreto No. 76-84, aprobado por el Congreso Nacional de la República el 11 de Mayo de 1984, y sus reformas.
 
 #### Artículo 2
 

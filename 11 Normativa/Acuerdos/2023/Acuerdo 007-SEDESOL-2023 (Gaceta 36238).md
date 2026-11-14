@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Ministeriales No. 007-SEDESOL-2023, 008-SEDESOL-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230526-36238/download"
 extraido: "2026-11-14"
-huella: "1a0593d06bbabec4"
+huella: "e39f5a86ba43cf2f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 007-SEDESOL-2023
@@ -61,7 +61,7 @@ CONSIDERANDO: Que es de interés público que las instituciones y organismos del
 
 POR TANTO:
 
-En aplicación a lo que establecen los Artículos: 1, 68 de la Convención Americana Sobre Derechos Humanos, 15, 59, 151, 246, 321, de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022. Artículo 3 Decreto Legislativo 157- 2022 de fecha 12 de enero del 2023. Sentencia de la Corte Interamericana de Derechos Humanos de fecha veintiséis (26) de marzo del año dos mil veintiuno (2021).
+En aplicación a lo que establecen los Artículos: 1, 68 de la Convención Americana Sobre Derechos Humanos, 15, 59, 151, 246, 321, de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022. Artículo 3 Decreto Legislativo 157-2022 de fecha 12 de enero del 2023. Sentencia de la Corte Interamericana de Derechos Humanos de fecha veintiséis (26) de marzo del año dos mil veintiuno (2021).
 
 ACUERDA:
 

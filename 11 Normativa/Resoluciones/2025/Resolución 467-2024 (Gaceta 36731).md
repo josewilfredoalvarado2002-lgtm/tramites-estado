@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 467-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250104-36731/download"
 extraido: "2026-11-13"
-huella: "8c6a186e68c54b90"
+huella: "870b3bb52f73938c"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 467-2024
@@ -273,9 +273,7 @@ ACUERDO DE DELEGACIÓN DE FIRMA
 
 No. 406-2024 DE FECHA 27 DE JUNIO DE 2024.
 
-Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) bajo el No. 2024000222 de fecha veinticinco 25 de octubre de dos mil veinticuatro (2024). Papel de Seguridad Habilitado Mediante Acuerdo No.
-
-42-2024. CORRELATIVO DE PAPEL SGJD No. 05350-2022 al SGJD Nº. 05353-2022.
+Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC) bajo el No. 2024000222 de fecha veinticinco 25 de octubre de dos mil veinticuatro (2024). Papel de Seguridad Habilitado Mediante Acuerdo No. 42-2024. CORRELATIVO DE PAPEL SGJD No. 05350-2022 al SGJD Nº. 05353-2022.
 
 ## Fuente
 

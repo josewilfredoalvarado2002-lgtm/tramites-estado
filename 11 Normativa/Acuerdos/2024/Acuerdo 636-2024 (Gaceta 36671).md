@@ -8,10 +8,10 @@ gaceta_numero: 36671
 gaceta_fecha: "2024-10-24"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36671 (2024-10-24)|La Gaceta 36671]]"
 paginas: "A. 41 - 56"
-sumario: "Acuerdos de DeclaratoriaDE-DCHA-009-2024, DE-DCHA-020-2024, DE-DCHA-036-2024, DE-DCHA-043-2024, DE-DCHA-046-2024, DE-DCHA-047-2024, DE-DCHA-048-2024, DE-DCHA-049-2024, DE-DCHA-050-2024, DE-DCHA-051-2024, DE-DCHA-052-2024, DE-DCHA-053-2024, DE-DCHA-054-2024, DE-DCHA-055-2024, DE-DCHA-058-2024, DE-DCHA-059-2024, DE-DCHA-060-2024, DE-DCHA-061-2024, DE-DCHA-064-2024, DE-DCHA-065-2024, DE-DCHA-066-2024, DE-DCHA-068-2024, DE-DCHA-070-2024, DE-DCHA-071-2024, DE-DCHA-072-2024, DE-DCHA-073-2024, DE-DCHA-074-2024, DE-DCHA-079-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 636-2024"
+sumario: "Acuerdos de DeclaratoriaDE-DCHA-009-2024, DE-DCHA-020-2024, DE-DCHA-036-2024, DE-DCHA-043-2024, DE-DCHA-046-2024, DE-DCHA-047-2024, DE-DCHA-048-2024, DE-DCHA-049-2024, DE-DCHA-050-2024, DE-DCHA-051-2024, DE-DCHA-052-2024, DE-DCHA-053-2024, DE-DCHA-054-2024, DE-DCHA-055-2024, DE-DCHA-058-2024, DE-DCHA-059-2024, DE-DCHA-060-2024, DE-DCHA-061-2024, DE-DCHA-064-2024, DE-DCHA-065-2024, DE-DCHA-066-2024, DE-DCHA-068-2024, DE-DCHA-070-2024, DE-DCHA-071-2024, DE-DCHA-072-2024, DE-DCHA-073-2024, DE-DCHA-074-2024, DE-DCHA-079-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 636-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241024-36671/download"
 extraido: "2026-11-14"
-huella: "3e7a819208bb14b9"
+huella: "9dc2233b4a2cdb2b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 636-2024
@@ -23,7 +23,7 @@ huella: "3e7a819208bb14b9"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36671 (2024-10-24)\|La Gaceta 36671]] del 2024-10-24 |
 | Páginas | A. 41 - 56 |
-| Según el sumario de La Gaceta | Acuerdos de DeclaratoriaDE-DCHA-009-2024, DE-DCHA-020-2024, DE-DCHA-036-2024, DE-DCHA-043-2024, DE-DCHA-046-2024, DE-DCHA-047-2024, DE-DCHA-048-2024, DE-DCHA-049-2024, DE-DCHA-050-2024, DE-DCHA-051-2024, DE-DCHA-052-2024, DE-DCHA-053-2024, DE-DCHA-054-2024, DE-DCHA-055-2024, DE-DCHA-058-2024, DE-DCHA-059-2024, DE-DCHA-060-2024, DE-DCHA-061-2024, DE-DCHA-064-2024, DE-DCHA-065-2024, DE-DCHA-066-2024, DE-DCHA-068-2024, DE-DCHA-070-2024, DE-DCHA-071-2024, DE-DCHA-072-2024, DE-DCHA-073-2024, DE-DCHA-074-2024, DE-DCHA-079-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 636-2024 |
+| Según el sumario de La Gaceta | Acuerdos de DeclaratoriaDE-DCHA-009-2024, DE-DCHA-020-2024, DE-DCHA-036-2024, DE-DCHA-043-2024, DE-DCHA-046-2024, DE-DCHA-047-2024, DE-DCHA-048-2024, DE-DCHA-049-2024, DE-DCHA-050-2024, DE-DCHA-051-2024, DE-DCHA-052-2024, DE-DCHA-053-2024, DE-DCHA-054-2024, DE-DCHA-055-2024, DE-DCHA-058-2024, DE-DCHA-059-2024, DE-DCHA-060-2024, DE-DCHA-061-2024, DE-DCHA-064-2024, DE-DCHA-065-2024, DE-DCHA-066-2024, DE-DCHA-068-2024, DE-DCHA-070-2024, DE-DCHA-071-2024, DE-DCHA-072-2024, DE-DCHA-073-2024, DE-DCHA-074-2024, DE-DCHA-079-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 636-2024 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el artículo 255 de la Constitución de la República, estable
 
 POR TANTO:
 
-En uso de las facultades de que está investida la Secretaría de Finanzas y en aplicación de los artículos 246, 247 y 255 de la Constitución de la República; 1, 2, 89, 95, 96 numeral 3), 99, 100, 102 y 122 del Decreto Legislativo No. 83-2004 contentivo de la Ley Orgánica del Presupuesto; 29, 36 numeral 8), 116, 118 numeral 2);122 de la Ley General de la Administración Pública; 150, 229, 230 y 271 del Decreto No.62-2023 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del año 2024; 1 y 31 del Acuerdo No. 1087 que contiene las Normas Técnicas del Subsistema de Contabilidad Gubernamental.
+En uso de las facultades de que está investida la Secretaría de Finanzas y en aplicación de los artículos 246, 247 y 255 de la Constitución de la República; 1, 2, 89, 95, 96 numeral 3), 99, 100, 102 y 122 del Decreto Legislativo No. 83-2004 contentivo de la Ley Orgánica del Presupuesto; 29, 36 numeral 8), 116, 118 numeral 2);122 de la Ley General de la Administración Pública; 150, 229, 230 y 271 del Decreto No. 62-2023 que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República del año 2024; 1 y 31 del Acuerdo No. 1087 que contiene las Normas Técnicas del Subsistema de Contabilidad Gubernamental.
 
 ACUERDA:
 
@@ -375,7 +375,7 @@ Artículo 48.- El Servicio de Administración de Rentas (SAR), debe informar a m
 
 4. Saldos acumulados pendientes de aplicar a favor del Obligado Tributario mediante notas de crédito (Cuentas Impositivas por Pagar), del ejercicio anterior y del actual y el listado detallando los números de los asientos manuales registrados y aprobados en el Sistema de Administración Financiera Integrada (SIAFI) al 31 de diciembre de 2024.
 
-5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante resolución de la Secretaría de Estado en el Despacho de Finanzas y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación de los Decretos No. 26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo, Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones, Acuerdo No.585-2018. Instructivo para el pago de las devoluciones autorizadas en el Marco del Código Tributario y otros que se aprueben en el transcurso del ejercicio 2024. El informe debe detallar el número de decreto, tipo de impuesto y monto aplicado.
+5. Información sobre las Notas de Crédito Fiscal establecidas como instrumento de pago, emitidas mediante resolución de la Secretaría de Estado en el Despacho de Finanzas y el Comité Interinstitucional, ejecutadas y pendientes de aplicar, resultantes de la aplicación de los Decretos No. 26-2013 referente a Notas de Crédito Fiscal, Decreto No. 45-2013 Programa de Infraestructura, Viabilidad Comunitaria y Generación de Empleo, Decreto No. 086-2013 Ley Programa Voluntario de Recorte, Promoción y Fomento del Sector de Comunicaciones, Acuerdo No. 585-2018. Instructivo para el pago de las devoluciones autorizadas en el Marco del Código Tributario y otros que se aprueben en el transcurso del ejercicio 2024. El informe debe detallar el número de decreto, tipo de impuesto y monto aplicado.
 
 6. Información sobre el inventario de las demandas incoadas a favor y en contra del Estado de Honduras que contenga descripción del tipo de demanda, monto e Institución.
 
@@ -515,9 +515,7 @@ Artículo 64.- En cumplimiento de lo previsto por el artículo 271 de las Dispos
 
 Artículo 65.- La Contaduría General de la República, elaborará y remitirá al Tribunal Superior de Cuentas a más tardar el 31 de marzo de 2025, un Informe detallado de los incumplimientos de plazos establecidos en la presente normativa, por cada institución.
 
-SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2024, dará lugar a las sanciones establecidas en la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 de la Ley Orgánica del Presupuesto y el artículo 4 del Decreto Legislativo No.
-
-62-2023 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2024.
+SEGUNDO: El incumplimiento de las presentes Normas para el Cierre Contable del Ejercicio Fiscal 2024, dará lugar a las sanciones establecidas en la Ley Orgánica del Tribunal Superior de Cuentas; el artículo 122 de la Ley Orgánica del Presupuesto y el artículo 4 del Decreto Legislativo No. 62-2023 que contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales para el Ejercicio Fiscal 2024.
 
 TERCERO: El presente Acuerdo es de cumplimiento obligatorio y entrará en vigencia a partir del 30 de septiembre de 2024, debiendo publicarse en el Diario Oficial La Gaceta.
 

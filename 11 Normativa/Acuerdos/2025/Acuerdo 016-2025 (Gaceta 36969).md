@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdos Nos. 016-2025, 079-2025, 083-2025, 089-2025, 097-2025, Acuerdos Institucionales Nos. ICF-091-2025, 092-2025, DE-DCHA-017-2025, DE-DCHA-031-2025, DE-DCHA-032-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251016-36969-2/download"
 extraido: "2026-11-09"
-huella: "29713752707b7e2f"
+huella: "4e1dbaf2d41b0e4c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 016-2025
@@ -45,9 +45,7 @@ La Dirección Ejecutiva del ICF con miras a lograr una buena y sana administraci
 
 ACUERDA:
 
-PRIMERO: 1) Derogar el Acuerdo No. 036-2022, publicado en el Diario Oficial La Gaceta en fecha 24 de diciembre del año 2022 (Gaceta 36,111); 2) Aprobar el presente Acuerdo No. 016-2025 contentivo de la normativa para la ejecución y vigencia de los planes de manejo, su nomenclatura, códigos y simbología. 3) El Acuerdo No. 015-2022 y el Adendum No.
-
-020-2022 mantienen su vigencia en su totalidad.
+PRIMERO: 1) Derogar el Acuerdo No. 036-2022, publicado en el Diario Oficial La Gaceta en fecha 24 de diciembre del año 2022 (Gaceta 36,111); 2) Aprobar el presente Acuerdo No. 016-2025 contentivo de la normativa para la ejecución y vigencia de los planes de manejo, su nomenclatura, códigos y simbología. 3) El Acuerdo No. 015-2022 y el Adendum No. 020-2022 mantienen su vigencia en su totalidad.
 
 SEGUNDO: Establecer como periodo de vigencia de todo Plan de Manejo Forestal la rotación o turno biológico equivalente a cuarenta (40) años o la rotación económica de conformidad a las prescripciones silvícolas de acuerdo al interés del propietario.
 

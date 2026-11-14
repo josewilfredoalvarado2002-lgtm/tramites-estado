@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Decreto No. 91-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241119-36693/download"
 extraido: "2026-11-14"
-huella: "fa93d07746e4bd8f"
+huella: "93e484adf402eefe"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 91-2024
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 245 Atribución 2) establece que la Presidenta tiene a su cargo la Administración General del Estado, correspondiéndole dirigir la política general del Estado y representarlo.
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 22 de Abril de 2010, en su
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 22 de Abril de 2010, en su
 
 Artículo 70, determinó autorizar al Poder Ejecutivo para suscribir los convenios sobre los empréstitos que considere necesarios en virtud del Estado de Emergencia de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la suprema di
 
 CONSIDERANDO: Que el Estado de Honduras ha realizado esfuerzos para adoptar su marco legal e institucional de promoción de la transparencia y la integridad pública en conformidad con las iniciativas internacionales a las que se adhirió. El presente Gobierno ha adoptado medidas para fortalecer la institucionalidad creando la Secretaría de Estado en los Despachos de Transparencia y Lucha Contra la Corrupción (STLCC), como organismo especializado a cargo de prevenir y combatir la corrupción en el ejercicio de la función pública y privada.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5887/ BL-HO, suscrito el 22 de Julio de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para el Programa de Transparencia e Integridad para el Desarrollo Sostenible II, tiene como objetivo apoyar la ejecución de un programa de reforma de políticas consistente en aumentar la rendición de cuentas por parte del Gobierno de Honduras, hasta por un monto de Veinticinco Millones Seiscientos Mil Dólares de los Estados Unidos de América (US$ 25,600,000.00).
+CONSIDERANDO: Que el Contrato de Préstamo No. 5887/ BL-HO, suscrito el 22 de Julio de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para el Programa de Transparencia e Integridad para el Desarrollo Sostenible II, tiene como objetivo apoyar la ejecución de un programa de reforma de políticas consistente en aumentar la rendición de cuentas por parte del Gobierno de Honduras, hasta por un monto de Veinticinco Millones Seiscientos Mil Dólares de los Estados Unidos de América (US$ 25,600,000.00).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, atribuciones 19) y 36) de la Constitución de la República, es potestad del Congreso Nacional aprobar o improbar los contratos que lleven involucrados exenciones, incentivos y concesiones fiscales y los empréstitos, suscritos por el Poder Ejecutivo.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.5887/BL-HO, suscrito el 22 de Julio de 2024, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de VEINTICINCO MILLONES SEISCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$25,600,000.00), recursos destinados a la ejecución DEL PROGRAMA DE TRANSPARENCIA E INTEGRIDAD PARA EL DESARROLLO SOSTENIBLE II, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 5887/BL-HO, suscrito el 22 de Julio de 2024, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de VEINTICINCO MILLONES SEISCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$25,600,000.00), recursos destinados a la ejecución DEL PROGRAMA DE TRANSPARENCIA E INTEGRIDAD PARA EL DESARROLLO SOSTENIBLE II, que literalmente dice:
 
 “SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -579,7 +579,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP Es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m Es el número total de los tramos del Financiamiento del CO Regular. n Es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 

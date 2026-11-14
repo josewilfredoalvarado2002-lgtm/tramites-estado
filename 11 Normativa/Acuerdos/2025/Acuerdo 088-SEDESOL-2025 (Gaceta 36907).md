@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250804-36907-2/download"
 extraido: "2026-11-09"
-huella: "cf52b76d666ab7da"
+huella: "8706ed96eef8e243"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 088-SEDESOL-2025
@@ -37,9 +37,7 @@ CONSIDERANDO: Que el artículo 12 en su numeral 11) del Decreto Ejecutivo PCM 08
 
 CONSIDERANDO: Que El programa de la Red Solidaria en su condición de ente desconcentrado, cuenta con autonomía técnica, financiera y administrativa, que tiene como objetivo ejecutar programas y proyectos tendientes a mejoras las condiciones de vida de los hogares focalizados en pobreza y pobreza extrema en los ejes de: Generación de oportunidades de ingresos, Fortalecimiento Humano, Educación, Protección Social, Salud, Infraestructura y Ambiente.
 
-CONSIDERANDO: Que es necesario actualizar y reformar ciertos artículos del Acuerdo Ministerial No.
-
-036-SEDESOL-2022, publicado en el Diario Oficial La Gaceta el día 31 de octubre del 2022, con el propósito de mejorar la implementación, ejecución y alcance de las Transferencias Monetarias Condicionadas (TMC) y garantizar su alineación con las necesidades actuales de la población.
+CONSIDERANDO: Que es necesario actualizar y reformar ciertos artículos del Acuerdo Ministerial No. 036-SEDESOL-2022, publicado en el Diario Oficial La Gaceta el día 31 de octubre del 2022, con el propósito de mejorar la implementación, ejecución y alcance de las Transferencias Monetarias Condicionadas (TMC) y garantizar su alineación con las necesidades actuales de la población.
 
 POR TANTO, El Secretario de Estado en el Despacho de Desarrollo Social:
 
@@ -61,9 +59,7 @@ ARTÍCULO 85.- Metodología de focalización individual para determinar el punta
 
 #### Artículo 157
 
-ARTÍCULO 157.-Disposición Especial – Normativa en periodo de elecciones. De acuerdo a la establecido en el Decreto No. 44-2004 contentivo de la Ley Electoral y de las Organizaciones Políticas y sus reformas, así como lo establecido en Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos (Decreto No.
-
-137-2016) y sus reformas, no se podrán realizar convocatorias a operativos de entrega, ni entregar TMC en los días calendarios previos a la práctica de elecciones internas o primarias y generales, determinados por la leyes descritas y sus reformas.
+ARTÍCULO 157.-Disposición Especial – Normativa en periodo de elecciones. De acuerdo a la establecido en el Decreto No. 44-2004 contentivo de la Ley Electoral y de las Organizaciones Políticas y sus reformas, así como lo establecido en Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos (Decreto No. 137-2016) y sus reformas, no se podrán realizar convocatorias a operativos de entrega, ni entregar TMC en los días calendarios previos a la práctica de elecciones internas o primarias y generales, determinados por la leyes descritas y sus reformas.
 
 De igual forma, si en el ejercicio de sus funciones, el PRS identifica conductas o hechos que pudieran ser constitutivos de delito o faltas, deberá informarlo y si es procedente, denunciarlo ante las autoridades competentes.
 

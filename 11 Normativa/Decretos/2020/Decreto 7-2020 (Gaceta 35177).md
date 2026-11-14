@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 7-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200217-35177/download"
 extraido: "2026-11-14"
-huella: "de1c6c8ffe3da655"
+huella: "6b8e19d7e3e12cd2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 7-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -107,7 +107,7 @@ ARTÍCULO 12.- …
 
 #### Artículo 14
 
-ARTÍCULO 14.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas, para que incorpore en el presupuesto del ente Administrador de las Aduanas, el cien por ciento (100%) de los montos que depositan las empresas en concepto de canon operacional por el servicio de vigilancia y supervisión aduanera que brinda esta Institución a las Empresas acogidas a regímenes especiales, almacenes de depósito, depósitos temporales y otros recursos que sean percibidos y transferidos a la cuenta receptora de la Tesorería General de la República y de igual forma lo concerniente a los ingresos establecidos según los artículos 50 y 51 del Decreto No.17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial “La Gaceta” el 9 de abril de 2010, Edición No.32,183.
+ARTÍCULO 14.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas, para que incorpore en el presupuesto del ente Administrador de las Aduanas, el cien por ciento (100%) de los montos que depositan las empresas en concepto de canon operacional por el servicio de vigilancia y supervisión aduanera que brinda esta Institución a las Empresas acogidas a regímenes especiales, almacenes de depósito, depósitos temporales y otros recursos que sean percibidos y transferidos a la cuenta receptora de la Tesorería General de la República y de igual forma lo concerniente a los ingresos establecidos según los artículos 50 y 51 del Decreto No. 17-2010 de fecha 28 de marzo del 2010 y publicado en el Diario Oficial “La Gaceta” el 9 de abril de 2010, Edición No. 32,183.
 
 …
 
@@ -271,7 +271,7 @@ ARTÍCULO 175.- Todas las instituciones del Gobierno Central, Desconcentrado y D
 
 ARTÍCULO 176.- Con el propósito de financiar un plan de retiro voluntario, se autoriza a la Empresa Hondureña de Telecomunicaciones (HONDUTEL) para que negocie, contrate y obtenga una línea de crédito en el Sistema Bancario Nacional en las mejores condiciones financieras del mercado hasta por un monto de Ciento Cincuenta Millones de Lempiras (L.150,000,000.00), recursos que serán destinados para el pago de prestaciones laborales del plan de retiro voluntario, lo cual permitirá disminuir el déficit de caja de HONDUTEL. La Empresa Hondureña de Telecomunicaciones (HONDUTEL) registrará contablemente la deuda asumida y la incorporará al rubro de ingresos 32201 Obtención de Préstamos Internos del Sector Privado a Largo Plazo, contenido en el Presupuesto General de la Empresa para el Ejercicio Fiscal 2020, sin que sea necesaria la emisión del Dictamen establecido en el
 
-Artículo 36 del Decreto No. 83-2004 de fecha 28 de mayo del 2004, publicado en el Diario Oficial “La Gaceta” de fecha 21 de Junio del 2004, Edición No.30,421 así como el dictamen establecido en el Artículo 54 de esta misma Ley.
+Artículo 36 del Decreto No. 83-2004 de fecha 28 de mayo del 2004, publicado en el Diario Oficial “La Gaceta” de fecha 21 de Junio del 2004, Edición No. 30,421 así como el dictamen establecido en el Artículo 54 de esta misma Ley.
 
 #### Artículo 182
 
@@ -335,7 +335,7 @@ Artículo 87 de la presente Ley, los procesos de adquisición de Seguros de los 
 
 #### Artículo 248
 
-ARTÍCULO 248.- Queda en suspenso lo establecido en el párrafo segundo del Artículo 39 del Decreto No.56-2015, de fecha 21 de mayo de 2015, publicado en el Diario Oficial “La Gaceta” del 2 de julio de 2019, Edición 33,771, contentivo de la LEY MARCO DE PROTECCIÓN SOCIAL.
+ARTÍCULO 248.- Queda en suspenso lo establecido en el párrafo segundo del Artículo 39 del Decreto No. 56-2015, de fecha 21 de mayo de 2015, publicado en el Diario Oficial “La Gaceta” del 2 de julio de 2019, Edición 33,771, contentivo de la LEY MARCO DE PROTECCIÓN SOCIAL.
 
 #### Artículo 264
 
@@ -361,7 +361,7 @@ La Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentral
 
 #### Artículo 3
 
-ARTÍCULO 3.- Derogar los Artículos 104, 203, 259, 261, 271, 272 y 273 del Decreto No. 171-2019 de fecha 12 de diciembre de 2019, publicado en el Diario Oficial “La Gaceta”, en fecha 31 de diciembre del 2019, Edición No.35,137 contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, Ejercicio Fiscal 2020.
+ARTÍCULO 3.- Derogar los Artículos 104, 203, 259, 261, 271, 272 y 273 del Decreto No. 171-2019 de fecha 12 de diciembre de 2019, publicado en el Diario Oficial “La Gaceta”, en fecha 31 de diciembre del 2019, Edición No. 35,137 contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, Ejercicio Fiscal 2020.
 
 #### Artículo 4
 

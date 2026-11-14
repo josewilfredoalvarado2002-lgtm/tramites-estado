@@ -11,7 +11,7 @@ paginas: "A. 21 - 23"
 sumario: "Acuerdo Ministerial No. 136-2021, 137-2021, 138-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210713-35655/download"
 extraido: "2026-11-14"
-huella: "48b2f00de2f4d426"
+huella: "c94101a0312af5c1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 136-2021
@@ -49,17 +49,15 @@ CONSIDERANDO: Que el Artículo 1 del Acuerdo sobre Salvaguardia de la OMC establ
 
 CONSIDERANDO: Que el Artículo 7 del Acuerdo sobre Salvaguardia de la OMC establece que podrá prorrogarse la medida de salvaguardia cuando sea necesario para prevenir o reparar el daño grave y que haya pruebas de la rama de producción nacional.
 
-CONSIDERANDO: Que Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que el Artículo 7 del Acuerdo Ministerial No. 005-2021 establece que todas las determinaciones que sean establecidas por la Comisión AD HOC deben ser revisadas y analizadas tomando en consideración los instrumentos jurídicos centroamericanos y nacionales que estén relacionados con el establecimiento, modificación o eliminación de medidas de salvaguardia.
 
-CONSIDERANDO: Que en fecha 15 de junio 2021, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de prórroga de Medida de Salvaguardia para el producto denominado Tilapias y Bagres o Peces Gatos, contenida en el Acuerdo Ministerial Número.
-
-110-2020 publicado en el Diario Oficial La Gaceta el 17 de julio de 2020 y vigente cinco días a partir de su publicación.
+CONSIDERANDO: Que en fecha 15 de junio 2021, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de prórroga de Medida de Salvaguardia para el producto denominado Tilapias y Bagres o Peces Gatos, contenida en el Acuerdo Ministerial Número. 110-2020 publicado en el Diario Oficial La Gaceta el 17 de julio de 2020 y vigente cinco días a partir de su publicación.
 
 CONSIDERANDO: Que el Artículo 46 establece que los plazos establecidos en días se computaron únicamente los días hábiles administrativos, por lo que el Acuerdo Ministerial No. 110-2021, entró en vigencia el 23 de julio de 2020 con una duración de un año hasta el 23 de julio de 2021.
 
-CONSIDERANDO: Que el aumento súbito de las importaciones en un 8% en los años 2019- 2020, situación que persiste en los incisos arancelarios 0302.71.00.00;
+CONSIDERANDO: Que el aumento súbito de las importaciones en un 8% en los años 2019-2020, situación que persiste en los incisos arancelarios 0302.71.00.00;
 
 0303.23.00.00; 0304.31.00.00; 0304.32.00.00; 0304.61.00.00;
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos Nos. 160-2025,161-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251220-37024/download"
 extraido: "2026-11-09"
-huella: "7da7355a836bb051"
+huella: "135adc57fb5a94fb"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 160-2025
@@ -33,7 +33,7 @@ CONSIDERANDO: Que dentro de las atribuciones previstas en la Constitución de la
 
 CONSIDERANDO: Que el Capítulo VII, de las Secretarías de Estado, taxativamente en el artículo 246 de la Constitución de la República detalla, que las Secretarías de Estado son órganos de la Administración General del país y dependen directamente del Presidente de la República.
 
-CONSIDERANDO: Que mediante Acuerdos Ejecutivos números 63-2025, publicado en el Diario en el Diario Oficial La Gaceta, el 5 de junio del 2025 (edición No. 36,856) y 74- 2025, publicado en el Diario Oficial La Gaceta en fecha 18 de junio del 2025 (edición No. 36,867), se delegó funciones al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Orlando Enrique Garner Ordóñez.
+CONSIDERANDO: Que mediante Acuerdos Ejecutivos números 63-2025, publicado en el Diario en el Diario Oficial La Gaceta, el 5 de junio del 2025 (edición No. 36,856) y 74-2025, publicado en el Diario Oficial La Gaceta en fecha 18 de junio del 2025 (edición No. 36,867), se delegó funciones al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Orlando Enrique Garner Ordóñez.
 
 CONSIDERANDO: Que el Artículo 16 de la Ley General de la Administración Pública, en su segundo párrafo establece que, el Acuerdo de Delegación emitido por el Presidente de la República, podrá ser revocado por éste en cualquier momento.
 
@@ -45,7 +45,7 @@ En uso de sus atribuciones y en aplicaciones de los Artículos:
 
 ACUERDA:
 
-PRIMERO: Revocar los Acuerdos Ejecutivos números 63- 2025, publicado en el Diario en el Diario Oficial La Gaceta, el 5 de junio del 2025 (edición No. 36,856) y 74-2025, publicado en el Diario Oficial La Gaceta en fecha 18 de junio del 2025 (edición No. 36,867), que contienen las delegaciones de funciones, al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Orlando Enrique Garner Ordóñez, dependiente de la Secretaría de Estado en el Despacho de Defensa Nacional.
+PRIMERO: Revocar los Acuerdos Ejecutivos números 63-2025, publicado en el Diario en el Diario Oficial La Gaceta, el 5 de junio del 2025 (edición No. 36,856) y 74-2025, publicado en el Diario Oficial La Gaceta en fecha 18 de junio del 2025 (edición No. 36,867), que contienen las delegaciones de funciones, al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Orlando Enrique Garner Ordóñez, dependiente de la Secretaría de Estado en el Despacho de Defensa Nacional.
 
 SEGUNDO: El presente Acuerdo es efectivo, a partir del 18 de diciembre de 2025 y debe publicarse en el Diario Oficial La Gaceta.
 

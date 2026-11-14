@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260829-37233/download"
 extraido: "2026-11-09"
-huella: "d00524eb764cbcdf"
+huella: "e8f622584496df5b"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -43,7 +43,7 @@ DEBE LEERSE:
 
 CONSIDERANDO:
 
-Que mediante Decreto Legislativo Número 157-2019 de fecha 4 de diciembre de 2019 y publicado el 5 de diciembre de 2019 en el Diario Oficial "La Gaceta" y, Decreto Legislativo Número 166- 2019 de fecha 12 de diciembre de 2019 y publicado el 12 de diciembre de 2019 en el Diario Oficial "La Gaceta", se reformó el Artículo 2 de la Ley del Foro Nacional de Convergencias (FONAC) estableciendo que "La Asamblea del FORO NACIONAL DE CONVERGENCIA (FONAC) estará integrada por los titulares o en su defecto por quien deleguen las diferentes organizaciones sociales, gremiales y políticas, que ostentando personalidad jurídica sean designadas por el Presidente de la República” y, ordenando, a su vez, que la Iglesia Católica de Honduras y la Confraternidad Evangélica de Honduras integren la Asamblea del FONAC con voz y voto ...”.
+Que mediante Decreto Legislativo Número 157-2019 de fecha 4 de diciembre de 2019 y publicado el 5 de diciembre de 2019 en el Diario Oficial "La Gaceta" y, Decreto Legislativo Número 166-2019 de fecha 12 de diciembre de 2019 y publicado el 12 de diciembre de 2019 en el Diario Oficial "La Gaceta", se reformó el Artículo 2 de la Ley del Foro Nacional de Convergencias (FONAC) estableciendo que "La Asamblea del FORO NACIONAL DE CONVERGENCIA (FONAC) estará integrada por los titulares o en su defecto por quien deleguen las diferentes organizaciones sociales, gremiales y políticas, que ostentando personalidad jurídica sean designadas por el Presidente de la República” y, ordenando, a su vez, que la Iglesia Católica de Honduras y la Confraternidad Evangélica de Honduras integren la Asamblea del FONAC con voz y voto ...”.
 
 SEGUNDO: En el ARTÍCULO 1, página 2A segunda columna y página A3 primera columna, donde se establece:
 

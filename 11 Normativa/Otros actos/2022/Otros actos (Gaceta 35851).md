@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220217-35851/download"
 extraido: "2026-11-14"
-huella: "911336f54180347a"
+huella: "66c15eea5a3924ef"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,9 +35,9 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 se nombró al ciudadano
 
 CONSIDERANDO: Que según lo establecido en el Artículo 199 del Decreto Legislativo número 170-2016 es atribución del Director Ejecutivo seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo a las normas legales aplicables.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 003-2017 de fecha 03 de enero del 2017 y publicado en el Diario Oficial La Gaceta el 18 de marzo de 2017, se aprueba el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas; el cual, rige la relación laboral entre el SAR, sus empleados y funcionarios.
+CONSIDERANDO: Que mediante Acuerdo número SAR-003-2017 de fecha 03 de enero del 2017 y publicado en el Diario Oficial La Gaceta el 18 de marzo de 2017, se aprueba el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas; el cual, rige la relación laboral entre el SAR, sus empleados y funcionarios.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 291-2020 de fecha 04 de diciembre del 2020, se reformó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
+CONSIDERANDO: Que mediante Acuerdo número SAR-291-2020 de fecha 04 de diciembre del 2020, se reformó el Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas.
 
 CONSIDERANDO: Que de acuerdo a lo establecido en el
 
@@ -51,11 +51,11 @@ En uso de las facultades que la Ley le confiere y en aplicación de lo estableci
 
 \7) del Código Tributario; 116,118 y 122 de la Ley General de la Administración Pública; Artículo 5 numeral 2, Artículo 6 numeral 2 y 12 del Régimen de Carrera de Empleados y Funcionarios en el Servicio de Administración de Rentas;
 
-Acuerdo Ejecutivo No. 23-2022, Acuerdo SAR No. 003- 2017, Acuerdo SAR-N°-006-2017, Acuerdo SAR-No. 291- 2020.
+Acuerdo Ejecutivo No. 23-2022, Acuerdo SAR No. 003-2017, Acuerdo SAR-N°-006-2017, Acuerdo SAR-No. 291-2020.
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano CHRISTIAN DAVID DUARTE CHAVEZ, con Tarjeta de Identidad N° 0801- 1991-24487, en el cargo de SUBDIRECTOR EJECUTIVO del Servicio de Administración de Rentas.
+PRIMERO: Nombrar al ciudadano CHRISTIAN DAVID DUARTE CHAVEZ, con Tarjeta de Identidad N° 0801-1991-24487, en el cargo de SUBDIRECTOR EJECUTIVO del Servicio de Administración de Rentas.
 
 SEGUNDO: El ciudadano devengará el salario de acuerdo a la asignación salarial del Subdirector Ejecutivo de las escalas salariales del Servicio de Administración de Rentas, afectando la estructura presupuestaria: Institución 37, Gerencia Administrativa 01, Unidad Ejecutora 01, Programa 11, Actividad 01.
 

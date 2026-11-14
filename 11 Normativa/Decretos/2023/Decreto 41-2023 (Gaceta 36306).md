@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Decreto No. 44-2023, 41-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230812-36306/download"
 extraido: "2026-11-14"
-huella: "e803eb2c79ce543f"
+huella: "393f80fe3d35a975"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 41-2023
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 1 de la Constitución de la República establece que: “Honduras es un Estado de derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social”.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2004, publicado en el Diario Oficial “La Gaceta No.30,390”, en fecha 15 de Mayo de 2004, se constituye el Registro Nacional de las Personas (RNP) como una entidad autónoma.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2004, publicado en el Diario Oficial “La Gaceta No. 30,390”, en fecha 15 de Mayo de 2004, se constituye el Registro Nacional de las Personas (RNP) como una entidad autónoma.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.108-2007, se declaró el Registro Nacional de las Personas
+CONSIDERANDO: Que mediante Decreto Legislativo No. 108-2007, se declaró el Registro Nacional de las Personas
 
 (RNP) como una Institución de Seguridad Nacional y como un Órgano Especial del Estado vinculado estrechamente a la seguridad de la sociedad.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

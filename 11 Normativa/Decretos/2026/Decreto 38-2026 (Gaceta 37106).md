@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Decretos Nos. 38-2026, 39-2026, 40-2026, 45-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260328-37106/download"
 extraido: "2026-11-09"
-huella: "592135c7b2618f6a"
+huella: "ca87e96ef4c53338"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 38-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205, Atribuc
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 Las siguientes:
 

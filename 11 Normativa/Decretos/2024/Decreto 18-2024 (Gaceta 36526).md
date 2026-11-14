@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Decretos Nos. 43-2024, 18-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240506-36526/download"
 extraido: "2026-11-14"
-huella: "38782468247aa439"
+huella: "d353c5fe15277436"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 18-2024
@@ -59,7 +59,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 5) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +67,7 @@ ARTÍCULO 1. Derogar el Decreto No. 252-2013 aprobado en fecha 16 de Diciembre d
 
 #### Artículo 2
 
-ARTÍCULO 2. Derogar el Decreto No.93-2016 aprobado en fecha 20 de julio de 2016, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Octubre de 2017.
+ARTÍCULO 2. Derogar el Decreto No. 93-2016 aprobado en fecha 20 de julio de 2016, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Octubre de 2017.
 
 #### Artículo 3
 
@@ -77,7 +77,7 @@ Artículo 1, cuya disposición en adelante se leerá de la siguiente forma:
 
 “Créase el PARQUE NACIONAL
 
-MONTAÑA DE BOTADEROS, con la denominación de “PARQUE N A C I O N A L M O N T A Ñ A D E BOTADEROS, CARLOS ESCALERAS MEJÍA, ubicada en el límite entre los Departamentos de Colón, Yoro y Olancho, como parte integral e incorporado al Sistema Nacional de Áreas Protegidas y Vida Silvestre de Honduras (SINAPH)”.
+MONTAÑA DE BOTADEROS, con la denominación de “PARQUE NACIONAL MONTAÑA DE BOTADEROS, CARLOS ESCALERAS MEJÍA, ubicada en el límite entre los Departamentos de Colón, Yoro y Olancho, como parte integral e incorporado al Sistema Nacional de Áreas Protegidas y Vida Silvestre de Honduras (SINAPH)”.
 
 #### Artículo 4
 
@@ -91,11 +91,11 @@ ARTÍCULO 5. Ordénese a la Secretaría de Estado en los Despachos de Recursos N
 
 #### Artículo 6
 
-ARTÍCULO 6. Para los efectos de interpretación y aplicación del Decreto No.127- 2012 de fecha 23 de Agosto de 2012, publicado en el Diario Oficial “La Gaceta” número 32,943 de fecha 8 Octubre de 2012, en observancia al Acuerdo de Solución Amistosa de Cumplimiento de las Recomendaciones de la Comisión Interamericana de Derechos Humanos entre el Estado de Honduras, los familiares del señor Carlos Escaleras Mejía y sus representantes, téngase como denominación permanente Parque Nacional Montaña de Botaderos, Carlos Escaleras Mejía.
+ARTÍCULO 6. Para los efectos de interpretación y aplicación del Decreto No. 127-2012 de fecha 23 de Agosto de 2012, publicado en el Diario Oficial “La Gaceta” número 32,943 de fecha 8 Octubre de 2012, en observancia al Acuerdo de Solución Amistosa de Cumplimiento de las Recomendaciones de la Comisión Interamericana de Derechos Humanos entre el Estado de Honduras, los familiares del señor Carlos Escaleras Mejía y sus representantes, téngase como denominación permanente Parque Nacional Montaña de Botaderos, Carlos Escaleras Mejía.
 
 #### Artículo 7
 
-ARTÍCULO 7. Reformar parcialmente el Artículo 48 inciso 1) del Decreto No. 238-2012, el cual se leerá: “Las Áreas Protegidas declaradas, zonas productoras de agua declaradas, las contenidas en el Artículo 123 del Decreto No.98-2007, playas y zonas de bajamar declaradas como de vocación turística”.
+ARTÍCULO 7. Reformar parcialmente el Artículo 48 inciso 1) del Decreto No. 238-2012, el cual se leerá: “Las Áreas Protegidas declaradas, zonas productoras de agua declaradas, las contenidas en el Artículo 123 del Decreto No. 98-2007, playas y zonas de bajamar declaradas como de vocación turística”.
 
 #### Artículo 8
 

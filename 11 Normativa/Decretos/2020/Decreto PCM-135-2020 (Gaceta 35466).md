@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-135-2020,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201221-35466/download"
 extraido: "2026-11-14"
-huella: "548b3d592c7c674c"
+huella: "e971b375813251be"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-135-2020
@@ -35,11 +35,9 @@ CONSIDERANDO: Que el Artículo 246 de la Constitución de la República establec
 
 CONSIDERANDO: Que el Congreso Nacional aprobó el Decreto Legislativo No. 145-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de noviembre de 2020, edición No. 35,420, mediante el cual se Reformó el primer párrafo del
 
-Artículo 1, del Decreto Legislativo No.126-2020, publicado en el Diario Oficial “La Gaceta” el 30 de Septiembre del 2020, en la Edición No.35,387, se establece que con fines turísticos y únicamente durante el año 2020, los feriados correspondientes a las festividades cívicas de los días 3, 12 y 21 de Octubre, se trasladarán a las fechas que determine el Poder Ejecutivo en Consejo de Ministros, para los empleados públicos y para los empleados del sector privado. En el caso de los empleados públicos del Poder Judicial, el Ministerio Público (MP), el Tribunal Superior de Cuentas (TSC) y la Universidad Nacional Autónoma de Honduras (UNAH), y demás empleados públicos y privados que se les haya concedido dicho feriado los días Miércoles 4, Jueves 5, Viernes 6 y Sábado 7 de Noviembre, el feriado se entenderá concedido de conformidad con la Ley.
+Artículo 1, del Decreto Legislativo No. 126-2020, publicado en el Diario Oficial “La Gaceta” el 30 de Septiembre del 2020, en la Edición No. 35,387, se establece que con fines turísticos y únicamente durante el año 2020, los feriados correspondientes a las festividades cívicas de los días 3, 12 y 21 de Octubre, se trasladarán a las fechas que determine el Poder Ejecutivo en Consejo de Ministros, para los empleados públicos y para los empleados del sector privado. En el caso de los empleados públicos del Poder Judicial, el Ministerio Público (MP), el Tribunal Superior de Cuentas (TSC) y la Universidad Nacional Autónoma de Honduras (UNAH), y demás empleados públicos y privados que se les haya concedido dicho feriado los días Miércoles 4, Jueves 5, Viernes 6 y Sábado 7 de Noviembre, el feriado se entenderá concedido de conformidad con la Ley.
 
-POR TANTO, En aplicación de los Artículos 245 numerales 1, 2, 11; 246 321 y 323 de la Constitución de la República; Artículo 1 del Decreto Legislativo No.126-2020, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Septiembre del 2020, Edición No.35,387, reformado mediante el Decreto Legislativo No.
-
-145-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de noviembre de 2020, Edición No. 35,420; Artículos 1, 7, 11, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013.
+POR TANTO, En aplicación de los Artículos 245 numerales 1, 2, 11; 246 321 y 323 de la Constitución de la República; Artículo 1 del Decreto Legislativo No. 126-2020, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Septiembre del 2020, Edición No. 35,387, reformado mediante el Decreto Legislativo No. 145-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de noviembre de 2020, Edición No. 35,420; Artículos 1, 7, 11, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013.
 
 DECRETA:
 
@@ -49,7 +47,7 @@ ARTÍCULO 1.- Conceder los feriados correspondientes a las festividades cívicas
 
 Lo dispuesto en el párrafo anterior, se realiza en observancia del Decreto Legislativo No. 145-2020, publicado en el Diario Oficial “La Gaceta” en fecha 5 de noviembre de 2020, Edición No. 35,420, mediante el cual se reformó el primer párrafo del
 
-Artículo 1, del Decreto Legislativo No.126-2020, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Septiembre del 2020, Edición No.35, 387”.
+Artículo 1, del Decreto Legislativo No. 126-2020, publicado en el Diario Oficial “La Gaceta” en fecha 30 de Septiembre del 2020, Edición No. 35, 387”.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 18"
 sumario: "Acuerdos No.460-2020, 461-2020, Acuerdo Ministerial No. 485-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201130-35445/download"
 extraido: "2026-11-14"
-huella: "1667e5e717b3dc09"
+huella: "20ddde82867a638d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 461-2020
@@ -33,15 +33,15 @@ CONSIDERANDO: Que el Artículo 247 de la Constitución de la República establec
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 351, establece que el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que en fecha 20 de abril de 2018 fue publicado en el Diario Oficial “La Gaceta” el Decreto No.31-2018, que mediante el Artículo 1 reforma el
+CONSIDERANDO: Que en fecha 20 de abril de 2018 fue publicado en el Diario Oficial “La Gaceta” el Decreto No. 31-2018, que mediante el Artículo 1 reforma el
 
 #### Artículo 22
 
 Artículo 22-A de la Ley del Impuesto Sobre la Renta.
 
-CONSIDERANDO: Que el Artículo 1 del Decreto No.31- 2019, publicado en el Diario Oficial La Gaceta de fecha 30 de abril de 2019, interpretó el numeral 1) del Artículo 1 del Decreto No.31-2018 antes citado en el sentido que el cálculo del Impuesto Sobre la Renta para el Período Fiscal 2017 se realizará conforme a las reglas del Artículo 9 del Decreto No.278- 2013, el cual adicionó el Artículo 22-A de la Ley del Impuesto Sobre la Renta.
+CONSIDERANDO: Que el Artículo 1 del Decreto No. 31-2019, publicado en el Diario Oficial La Gaceta de fecha 30 de abril de 2019, interpretó el numeral 1) del Artículo 1 del Decreto No. 31-2018 antes citado en el sentido que el cálculo del Impuesto Sobre la Renta para el Período Fiscal 2017 se realizará conforme a las reglas del Artículo 9 del Decreto No. 278-2013, el cual adicionó el Artículo 22-A de la Ley del Impuesto Sobre la Renta.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto No.31- 2019, reformó el primer párrafo del numeral 1) del Artículo 1 del Decreto No.31-2018 de fecha 21 de marzo de 2018 en el sentido que para el cálculo del Impuesto Sobre la Renta y sus pagos a cuentas correspondientes al Período Fiscal 2018, las personas naturales o jurídicas que hayan obtenido ingresos brutos superiores a TRESCIENTOS MILLONES DE LEMPIRAS (L 300,000,000.00) en el Período Fiscal 2017 pagarán el uno punto cinco por ciento (1.5%) de los ingresos brutos cuando la aplicación de las tarifas señaladas en los literales a) o
+CONSIDERANDO: Que el Artículo 2 del Decreto No. 31-2019, reformó el primer párrafo del numeral 1) del Artículo 1 del Decreto No. 31-2018 de fecha 21 de marzo de 2018 en el sentido que para el cálculo del Impuesto Sobre la Renta y sus pagos a cuentas correspondientes al Período Fiscal 2018, las personas naturales o jurídicas que hayan obtenido ingresos brutos superiores a TRESCIENTOS MILLONES DE LEMPIRAS (L 300,000,000.00) en el Período Fiscal 2017 pagarán el uno punto cinco por ciento (1.5%) de los ingresos brutos cuando la aplicación de las tarifas señaladas en los literales a) o
 
 b) del Artículo 22 de la Ley del Impuesto Sobre la Renta resultaren menores a uno punto cinco por ciento (1.5%) de los ingresos brutos declarados; y, las personas naturales o jurídicas que hayan obtenidos ingresos brutos iguales o inferiores a TRESCIENTOS MILLONES DE LEMPIRAS (L 300,000,000.00) en el Ejercicio Fiscal anterior; tributará para el Período Fiscal 2018 y subsiguientes conforme a lo establecido en el Artículo 22 de la Ley del Impuesto Sobre la Renta.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización
 
 CONSIDERANDO: Que conforme al Artículo 195 Numeral 3 del Código Tributario la misión de la Administración Tributaria y de la Administración Aduanera debe estar orientada a optimizar la recaudación, mediante la administración, aplicación, fiscalización, supervisión, revisión, control eficiente y eficaz, ejecución de cobro, de los tributos internos y aduaneros, según corresponda.
 
-CONSIDERANDO: Que el Artículo 1 Numeral 9) del Decreto No.31-2018 establece que la Secretaría de Estado en el Despacho de Finanzas, debe emitir el instructivo técnico tributario respectivo para la aplicación de lo dispuesto en dicho
+CONSIDERANDO: Que el Artículo 1 Numeral 9) del Decreto No. 31-2018 establece que la Secretaría de Estado en el Despacho de Finanzas, debe emitir el instructivo técnico tributario respectivo para la aplicación de lo dispuesto en dicho
 
 Artículo.
 
@@ -61,7 +61,7 @@ CONSIDERANDO: Que el Artículo 36 numeral 8) de la Ley General de la Administrac
 
 POR TANTO
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos: 96, 246, 247, 255 y 351 de la Constitución de la República; 8, 9, 10, 12, 13 y 195 del Código Tributario; 1 del Decreto No.31-2018; 1, 2 y 3 del Decreto No.31-2019; 29 Numeral 15), 36 Numeral 8), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; 24, 25, 26, 33 de la Ley de Procedimiento Administrativo y sus reformas; y el Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo reformado con el Decreto PCM-35-2015.
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos: 96, 246, 247, 255 y 351 de la Constitución de la República; 8, 9, 10, 12, 13 y 195 del Código Tributario; 1 del Decreto No. 31-2018; 1, 2 y 3 del Decreto No. 31-2019; 29 Numeral 15), 36 Numeral 8), 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; 24, 25, 26, 33 de la Ley de Procedimiento Administrativo y sus reformas; y el Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo reformado con el Decreto PCM-35-2015.
 
 ACUERDA:
 
@@ -75,11 +75,11 @@ CAPÍTULO ÚNICO DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
 
 #### Artículo 1
 
-ARTÍCULO 1.- OBJETO. El presente Instructivo tiene por objeto desarrollar las disposiciones contenidas en el Artículo 1 del Decreto No.31-2018 contentivo de la reforma al Artículo 22-A de la Ley del Impuesto Sobre la Renta.
+ARTÍCULO 1.- OBJETO. El presente Instructivo tiene por objeto desarrollar las disposiciones contenidas en el Artículo 1 del Decreto No. 31-2018 contentivo de la reforma al Artículo 22-A de la Ley del Impuesto Sobre la Renta.
 
 #### Artículo 2
 
-ARTÍCULO 2.- ÁMBITO DE APLICACIÓN. Las normas contenidas en el presente Instructivo son de aplicación en el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Artículo 1 del Decreto No.31- 2018 contentivo de la reforma al Artículo 22-A de la Ley del Impuesto Sobre la Renta y su interpretación y reforma contenida en el Decreto No.31-2019.
+ARTÍCULO 2.- ÁMBITO DE APLICACIÓN. Las normas contenidas en el presente Instructivo son de aplicación en el territorio nacional para todos aquellos actos, hechos y situaciones reguladas en el Artículo 1 del Decreto No. 31-2018 contentivo de la reforma al Artículo 22-A de la Ley del Impuesto Sobre la Renta y su interpretación y reforma contenida en el Decreto No. 31-2019.
 
 #### Artículo 3
 
@@ -115,7 +115,7 @@ CAPÍTULO I DE LA APLICACIÓN DEL ARTÍCULO 22-A DE LA LEY DEL IMPUESTO SOBRE LA
 
 #### Artículo 4
 
-ARTÍCULO 4. El cálculo del Impuesto Sobre la Renta para el período fiscal 2017 se realizará conforme a las reglas del Artículo 9 del Decreto No.278-2013, el cual adicionó el
+ARTÍCULO 4. El cálculo del Impuesto Sobre la Renta para el período fiscal 2017 se realizará conforme a las reglas del Artículo 9 del Decreto No. 278-2013, el cual adicionó el
 
 #### Artículo 22
 
@@ -349,7 +349,7 @@ ARTÍCULO 28.- Las normas contenidas en el Código Tributario, la Ley del Impues
 
 #### Artículo 29
 
-ARTÍCULO 29.- Reformar el Artículo 3 numeral 1 del Acuerdo No.010-2018 de fecha 16 de enero de 2018, publicado en el Diario Oficial “La Gaceta” del 15 de febrero de 2018, contentivo del Registro Especial de Exonerados de la Contribución Especial del Sector Financiero, el que se leería así:
+ARTÍCULO 29.- Reformar el Artículo 3 numeral 1 del Acuerdo No. 010-2018 de fecha 16 de enero de 2018, publicado en el Diario Oficial “La Gaceta” del 15 de febrero de 2018, contentivo del Registro Especial de Exonerados de la Contribución Especial del Sector Financiero, el que se leería así:
 
 “ARTÍCULO 3.- Las personas descritas en los numerales 2, 7 y 9 del Artículo anterior, en la solicitud de Constancia del Registro de Exonerados, deben presentar:
 
@@ -359,7 +359,7 @@ ARTÍCULO 29.- Reformar el Artículo 3 numeral 1 del Acuerdo No.010-2018 de fech
 
 #### Artículo 30
 
-ARTÍCULO 30.- Reformar el Artículo 5 del Acuerdo No.010- 2018 de fecha 16 de enero de 2018 y publicado en el Diario Oficial “La Gaceta” del 15 de febrero de 2018, contentivo del Registro Especial de Exonerados de la Contribución Especial del Sector Financiero, el que se leería así:
+ARTÍCULO 30.- Reformar el Artículo 5 del Acuerdo No. 010-2018 de fecha 16 de enero de 2018 y publicado en el Diario Oficial “La Gaceta” del 15 de febrero de 2018, contentivo del Registro Especial de Exonerados de la Contribución Especial del Sector Financiero, el que se leería así:
 
 “ARTÍCULO 5.- El beneficio de la exención del pago de las Contribuciones Especiales del Sector Financiero establecidas en el Artículo 9 de la Ley de Seguridad Poblacional, se debe aplicar de la forma siguiente:
 

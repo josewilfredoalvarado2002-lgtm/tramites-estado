@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Decreto No. 84-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210930-35733/download"
 extraido: "2026-11-14"
-huella: "cfa3644efb3cc5be"
+huella: "a3caa44899bb65d2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 84-2021
@@ -61,7 +61,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -89,7 +89,7 @@ ARTÍCULO 2.- Autorizar a la Procuraduría General de la República (PGR) para q
 
 Calle de por medio con edificio de la Secretaría de Estado en el Despacho de Salud (SESAL), AL ESTE: con edificio de la Secretaría de Estado en el Despacho de Salud (SESAL), y AL OESTE: Con Instituto de las Hermanas Carmelitas Teresianas Descalzas de San José, y calle de por medio con propiedades de María Magdalena Macías y Juan José Carrasco.
 
-Inmueble inscrito en el Registro de la Propiedad y Mercantil de Francisco Morazán en el Número 82, Tomo 768, bajo la Matrícula No.0001661811-00000.
+Inmueble inscrito en el Registro de la Propiedad y Mercantil de Francisco Morazán en el Número 82, Tomo 768, bajo la Matrícula No. 0001661811-00000.
 
 El inmueble descrito en el párrafo anterior se cede con el objeto exclusivo de que en el mismo se realice la construcción de una moderna clínica destinada a albergar las diferentes actividades de la FUNDACIÓN OPERACIÓN SONRISA HONDURAS, en las diferentes etapas del tratamiento a los pacientes con malformaciones de labio fisurado y/o paladar hendido.
 

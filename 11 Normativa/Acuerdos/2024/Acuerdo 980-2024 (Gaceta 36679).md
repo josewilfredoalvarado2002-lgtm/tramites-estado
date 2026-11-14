@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdo Ministerial No. 980-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241102-36679/download"
 extraido: "2026-11-14"
-huella: "35696430b1317104"
+huella: "8f92e809dbaea9a7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 980-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Conforme a lo dispuesto en la Ley General de la Administración P�
 
 CONSIDERANDO: Los Subsecretarios de Estado son colaboradores inmediatos de los Secretarios de Estado, siendo responsables de las funciones a su cargo y de la coordinación de las áreas sustantivas que les sean atribuidas.
 
-CONSIDERANDO: Mediante Acuerdo Ejecutivo No. 212- 2022 del 23 de marzo del 2022, se nombró al ciudadano MALCOLM BRYAN STUFKENS SALGADO, como Subsecretario de Estado en el Despacho de Ambiente.
+CONSIDERANDO: Mediante Acuerdo Ejecutivo No. 212-2022 del 23 de marzo del 2022, se nombró al ciudadano MALCOLM BRYAN STUFKENS SALGADO, como Subsecretario de Estado en el Despacho de Ambiente.
 
 CONSIDERANDO: El Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (SERNA) LUCKY HALACH MEDINA ESTRADA, durante los días comprendidos del 28 de octubre al 01 de noviembre del 2024, estará participando en el Segmento del Alto Nivel de la Conferencia de Naciones Unidas sobre Biodiversidad, por lo que se hace necesario en su ausencia delegar funciones en el Subsecretario de Ambiente, al ciudadano MALCOLM BRYAN STUFKENS SALGADO, a fin de mantener el normal desarrollo de las actividades de esta Secretaría de Estado.
 

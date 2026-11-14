@@ -8,7 +8,7 @@ gaceta_numero: 35400
 gaceta_fecha: "2020-10-15"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)|La Gaceta 35400]]"
 paginas: "A. 12"
-sumario: "Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
+sumario: "Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201015-35400/download"
 extraido: "2026-11-14"
 huella: "b5bd7f1834e4cc57"
@@ -23,7 +23,7 @@ huella: "b5bd7f1834e4cc57"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35400 (2020-10-15)\|La Gaceta 35400]] del 2020-10-15 |
 | Páginas | A. 12 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 049-SEDIS-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 202-2020, 203-2020, 204-2020 |
 
 ## Texto
 

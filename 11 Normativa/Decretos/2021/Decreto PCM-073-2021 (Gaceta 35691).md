@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-073-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210818-35691/download"
 extraido: "2026-11-14"
-huella: "0ef80bc3e413da25"
+huella: "4553523a8fee68e9"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-073-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que es atribución del Presidente de la República, asegurar la co
 
 POR TANTO;
 
-En el uso de las facultades contenidas en los Artículos: 245 numerales 2, 11, 19 y 35, 248, 252 de la Constitución de la República; Artículos 3, 4, 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266- 2013; Decreto Ejecutivo Número PCM-004-2020.
+En el uso de las facultades contenidas en los Artículos: 245 numerales 2, 11, 19 y 35, 248, 252 de la Constitución de la República; Artículos 3, 4, 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo Número PCM-004-2020.
 
 DECRETA:
 

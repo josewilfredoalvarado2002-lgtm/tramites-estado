@@ -11,7 +11,7 @@ paginas: "A. 1 - 18"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211118-35775/download"
 extraido: "2026-11-14"
-huella: "b58680e26da35924"
+huella: "8e5e33f56ec5c301"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -75,7 +75,7 @@ Que posteriormente, mediante Acuerdo CREE-072 publicado en el Diario Oficial “
 
 X.
 
-Posteriormente, la CREE emitió el Acuerdo CREE- 091 publicado en el Diario Oficial “La Gaceta” en fecha 14 de noviembre del 2020, donde aprobó un nuevo precio de referencia de la potencia a nivel de la generación y modificó el artículo 30 de la NT-MEO.
+Posteriormente, la CREE emitió el Acuerdo CREE-091 publicado en el Diario Oficial “La Gaceta” en fecha 14 de noviembre del 2020, donde aprobó un nuevo precio de referencia de la potencia a nivel de la generación y modificó el artículo 30 de la NT-MEO.
 
 XI.
 

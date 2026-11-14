@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdos Nos. 0122-SE-2025, 0123-SE-2025, 0156-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250303-36780/download"
 extraido: "2026-11-12"
-huella: "6d8bfd67cd96243d"
+huella: "4ca98ff988ab822e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0156-SE-2025
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 05 de febrero de 2025 EL SECRETARIO DE ESTADO EN EL DESPACH
 
 CONSIDERANDO: Que el artículo 36 de la Ley General de la Administración Pública en su numeral 8, establece como atribución de los Secretarios de Estado, emitir Acuerdos y Resoluciones en los asuntos de su competencia.
 
-CONSIDERANDO: Que el Acuerdo No.4841-EP-87, de fecha 31 de agosto de 1987 contiene el Procedimiento para seleccionar el nombre con el cual se designan las promociones del año lectivo para todos los niveles educativos, mismo que figura en los Certificados, diplomas y Títulos que acreditan la finalización de los estudios de los educandos del sistema Educativo Nacional.
+CONSIDERANDO: Que el Acuerdo No. 4841-EP-87, de fecha 31 de agosto de 1987 contiene el Procedimiento para seleccionar el nombre con el cual se designan las promociones del año lectivo para todos los niveles educativos, mismo que figura en los Certificados, diplomas y Títulos que acreditan la finalización de los estudios de los educandos del sistema Educativo Nacional.
 
 CONSIDERANDO: Que la Secretaría de Educación, como ente rector del Sistema Educativo Nacional en los niveles Prebásico, Básico y Medio tiene la potestad promover iniciativas encaminadas a rendir homenaje y enaltecer a los ciudadanos y organizaciones gubernamentales y no gubernamentales, locales y/o nacionales, que han prestado servicios a la comunidad y que contribuyen a y través de su excelente quehacer académico, docente, científico, artísticocultural e institucional, en la construcción y promoción de la identidad nacional y la calidad educativa, el fomento de la creatividad, la protección del ambiente y la preservación de la diversidad multicultural del país.
 
@@ -59,7 +59,7 @@ ACUERDA:
 
 2. Transcribir el presente Acuerdo a las 18 Direcciones Departamentales de Educación para los fines legales pertinentes.
 
-C O M U N Í Q U E S E:
+COMUNÍQUESE:
 
 PROFESOR DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO ABG. EDWIN EMILIO OLIVA SECRETARIO GENERAL Avance Próxima Edición Pendiente Próxima Edición.
 

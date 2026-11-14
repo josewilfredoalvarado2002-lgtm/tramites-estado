@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220419-35900/download"
 extraido: "2026-11-14"
-huella: "ef31fe233b7d66fc"
+huella: "73b0a786fdf29dd7"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "ef31fe233b7d66fc"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 1917-2021, SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, dieciséis de septiembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diez de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 10082021-563 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SABANETAS, MUNICIPIO DE OLANCHITO, DEPARTAMENTO DE YORO, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diez de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-10082021-563 por la Abogada ROSA ISBELA SANTOS AGUILAR, actuando en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SABANETAS, MUNICIPIO DE OLANCHITO, DEPARTAMENTO DE YORO, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -55,9 +55,7 @@ OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeal 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013, de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 78, 245 numeal 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013, de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -111,7 +109,7 @@ CAPÍTULO III DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS, OBLIGACIONES DE LOS MI
 
 ARTÍCULO 7: La Junta Administradora de Agua Potable y Saneamiento “JAAS” tendrá las siguientes categorías de miembros: a) Fundadores. b) Activos:
 
-Miembros Fundadores : Son los que suscriben el acta de Constitución de la Junta Administradora de Agua Potable y Saneamiento “JAAS”. b) Activos: Son los que participar en las Asambleas de Usuarios.
+Miembros Fundadores: Son los que suscriben el acta de Constitución de la Junta Administradora de Agua Potable y Saneamiento “JAAS”. b) Activos: Son los que participar en las Asambleas de Usuarios.
 
 #### Artículo 8
 

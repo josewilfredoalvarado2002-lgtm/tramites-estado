@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Acuerdo Número SAR-513-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231103-36374/download"
 extraido: "2026-11-14"
-huella: "a147ee1669c34bbd"
+huella: "a44e516d6168645b"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-513-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que mediante el Acuerdo Ejecutivo número 435-2022 de fecha 09 de 
 
 CONSIDERANDO: Que el Artículo 197 numeral 1) del Código Tributario determina al Director Ejecutivo de la Administración Tributaria como el responsable de definir y ejecutar, entre otras, las políticas, estrategias, planes y programas administrativos y operativos, conforme a las políticas económicas, fiscal y tributaria del Estado, y, asimismo, el Artículo 199 del mismo Código establece expresamente sus atribuciones, siendo una de ellas la de aprobar los Acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulen la estructura organizacional y funcional de la Administración Tributaria.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), se crearon las siguientes Direcciones, Oficinas Tributarias y Departamentos: Direcciones Nacionales, Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes de San Pedro Sula, Departamento de Fiscalidad Internacional y Precios de Transferencia asignada a la Dirección de Grandes Contribuyentes de Tegucigalpa, Dirección Departamental de Olancho, Dirección Departamental de El Paraíso, Dirección Departamental de Choluteca, Dirección Departamental de Comayagua, Dirección Departamental de Copán, Dirección Departamental de Santa Bárbara, Dirección Departamental de Colón y las Oficinas Tributarias de Nacaome, Marcala, La Esperanza, Gracias, Ocotepeque, Puerto Cortés, Peña Blanca, El Progreso y Roatán.
+CONSIDERANDO: Que mediante Acuerdo número SAR-002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), se crearon las siguientes Direcciones, Oficinas Tributarias y Departamentos: Direcciones Nacionales, Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes de San Pedro Sula, Departamento de Fiscalidad Internacional y Precios de Transferencia asignada a la Dirección de Grandes Contribuyentes de Tegucigalpa, Dirección Departamental de Olancho, Dirección Departamental de El Paraíso, Dirección Departamental de Choluteca, Dirección Departamental de Comayagua, Dirección Departamental de Copán, Dirección Departamental de Santa Bárbara, Dirección Departamental de Colón y las Oficinas Tributarias de Nacaome, Marcala, La Esperanza, Gracias, Ocotepeque, Puerto Cortés, Peña Blanca, El Progreso y Roatán.
 
 CONSIDERANDO: Que después de haber realizado un análisis integral a la gestión de los procesos que se tramitan en la Dirección Nacional de Talento Humano, resulta necesario que la Dirección cuente con una Unidad especializada que le asesore sobre procesos y conflictos labores que se suscitan en la institución, legislación laboral contentiva de derechos y responsabilidades laborales, así como de todas las políticas internas relacionadas a las acciones de personal. Dicha Unidad dependerá directa y exclusivamente del Director(a) de la referida Dirección Nacional.
 
@@ -55,15 +55,7 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 POR TANTO
 
-En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos: 1, 321, 323 y 351 de la Constitución de la República; 8, 195, 197, 198 y 199 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario; 7, 43, 45, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 4, 5, 27, 30, 31 y 92 de la Ley de Procedimiento Administrativo; 1, 31 y 50 de la Ley de Contratación del Estado; 51 del Reglamento de la Ley de Contratación del Estado; 3 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo No. PCM-008-97; Acuerdo Ejecutivo 001-2017; Acuerdo No. SAR-002-2017; Acuerdo No.
-
-SAR-125-2018; Acuerdo No. SAR-190-2018; Acuerdo No.
-
-SAR-18-2019; Acuerdo No. SAR-222-2019; Acuerdo No.
-
-SAR-182-2021; Acuerdo No. SAR-354-2021; Acuerdo No.
-
-SAR-385-2022; Acuerdo No. SAR-227-2023; y, Acuerdo No. SAR-403-2023.
+En uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos: 1, 321, 323 y 351 de la Constitución de la República; 8, 195, 197, 198 y 199 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario; 7, 43, 45, 116, 118, 119 y 122 de la Ley General de la Administración Pública; 4, 5, 27, 30, 31 y 92 de la Ley de Procedimiento Administrativo; 1, 31 y 50 de la Ley de Contratación del Estado; 51 del Reglamento de la Ley de Contratación del Estado; 3 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo No. PCM-008-97; Acuerdo Ejecutivo 001-2017; Acuerdo No. SAR-002-2017; Acuerdo No. SAR-125-2018; Acuerdo No. SAR-190-2018; Acuerdo No. SAR-18-2019; Acuerdo No. SAR-222-2019; Acuerdo No. SAR-182-2021; Acuerdo No. SAR-354-2021; Acuerdo No. SAR-385-2022; Acuerdo No. SAR-227-2023; y, Acuerdo No. SAR-403-2023.
 
 ACUERDA:
 
@@ -93,7 +85,7 @@ La Dirección Nacional de Talento Humano tendrá bajo su cargo a los siguientes 
 
 TERCERO: Modificar el Acuerda número “DÉCIMO
 
-TERCERO” del Acuerdo número SAR-227-2023 publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2023 y su rectificación contenida en el Acuerdo número SAR-403- 2023 publicado en el Diario Oficial “La Gaceta” en fecha 2 de septiembre de 2023, mismo que debe leerse de la siguiente manera:
+TERCERO” del Acuerdo número SAR-227-2023 publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2023 y su rectificación contenida en el Acuerdo número SAR-403-2023 publicado en el Diario Oficial “La Gaceta” en fecha 2 de septiembre de 2023, mismo que debe leerse de la siguiente manera:
 
 “DÉCIMO TERCERO: DIRECCIONES REGIONALES:
 
@@ -117,7 +109,7 @@ Esta Dirección estará integrada por: Secretaría Regional teniendo a su cargo 
 
 CUARTO: Modificar el Acuerda número “DÉCIMO
 
-CUARTO” del Acuerdo número SAR-227-2023 publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2023 y su rectificación contenida en el Acuerdo número SAR-403- 2023 publicado en el Diario Oficial “La Gaceta” en fecha 2 de septiembre de 2023, mismo que debe leerse de la siguiente manera:
+CUARTO” del Acuerdo número SAR-227-2023 publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2023 y su rectificación contenida en el Acuerdo número SAR-403-2023 publicado en el Diario Oficial “La Gaceta” en fecha 2 de septiembre de 2023, mismo que debe leerse de la siguiente manera:
 
 “DÉCIMO CUARTO: DIRECCIONES DE GRANDES CONTRIBUYENTES: DIRECCIÓN GRANDES CONTRIBUYENTES TEGUCIGALPA con sede en la ciudad de Tegucigalpa, dependiente de la Dirección Nacional de Cumplimiento Tributario como su Dirección normativa, ejercerá su competencia y jurisdicción sobre los Obligados Tributarios categorizados como “Grandes” en los Departamentos de Francisco Morazán, Choluteca, El Paraíso, Olancho, Comayagua, Valle, La Paz e Intibucá.
 

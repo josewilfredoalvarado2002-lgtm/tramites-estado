@@ -11,7 +11,7 @@ paginas: "A. 24 - 28"
 sumario: "Acuerdos Ministeriales No. 048-2026, 053-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260711-37191/download"
 extraido: "2026-11-09"
-huella: "b327ee09ce2bb7f1"
+huella: "b0175c05915efb58"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 053-2026
@@ -43,9 +43,7 @@ CONSIDERANDO: Que el Artículo 13 del Decreto Ejecutivo No. PCM-006-2026 publica
 
 CONSIDERANDO: Que en fecha 17 de marzo de 2026, la Sociedad Mercantil Lácteos de Honduras, S.A. de C.V., presentó solicitud de ampliación al tiempo de ejecución o de vigencia del Acuerdo 023-2026 del Contingente de Importación de Concentrado de Jugo de Naranja, ante la Secretaría de Estado en el Despacho de Desarrollo Económico, expresando que han suscitado factores en base a las proyecciones del comportamiento de despacho y teniendo en cuenta algunos imprevistos producto de la situación geopolítica global actual ocasionando retrasos en los embarques lo que ha imposibilitado el incumplimiento de la importación de concentrado de jugo de naranja, por lo que la Sociedad Mercantil considera prudente solicitar la ampliación o extensión de la vigencia hasta el 31 de diciembre de 2026, debido a que el panorama indica que los arribos correspondiente a un segundo contrato de 1000 TM serán distribuidos en 3 embarques entre los meses de marzo a julio de 2026, según la programación efectuada.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No.
-
-023-2026, publicado en el Diario Oficial "La Gaceta" el 19 de marzo de 2026, la Secretaría de Estado en el Despacho de Desarrollo Económico estableció un contingente arancelario por desabasto por un volumen de 2,500,000 de kilogramos de concentrado de jugo naranja clasificado bajo la fracción arancelaria 2009.19.10.00 de Arancel Centroamericano de Importación (ACI), con un Derecho Arancelario de Importación (DAI) del cero por ciento en régimen de nación más favorecida, con vigencia del 19 de marzo de 2026 hasta el 31 de mayo de 2026.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 023-2026, publicado en el Diario Oficial "La Gaceta" el 19 de marzo de 2026, la Secretaría de Estado en el Despacho de Desarrollo Económico estableció un contingente arancelario por desabasto por un volumen de 2,500,000 de kilogramos de concentrado de jugo naranja clasificado bajo la fracción arancelaria 2009.19.10.00 de Arancel Centroamericano de Importación (ACI), con un Derecho Arancelario de Importación (DAI) del cero por ciento en régimen de nación más favorecida, con vigencia del 19 de marzo de 2026 hasta el 31 de mayo de 2026.
 
 CONSIDERANDO: Que en fecha 23 de abril de 2026, la Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo Económico a solicitud de la Dirección General de Integración Económica y Política Comercial remite a la Secretaría de Estado en los Despachos de Agricultura y Ganadería el expediente S/N, a nombre de la Sociedad Mercantil Lácteos de Honduras S.A. de C.V., contentivo de la solicitud de la ampliación al tiempo de ejecución o de vigencia del Acuerdo 023-2026 del contingente de importación de concentrado de jugo de naranja, para que se pronuncie si procede o no en base a los datos de la producción.
 
@@ -67,7 +65,7 @@ PRIMERO: Ampliar la vigencia del tiempo a partir del 01 de junio de 2026 hasta e
 
 SEGUNDO: Las importaciones de concentrado de jugo de naranja dentro del contingente arancelario por desabasto establecido en el Ordinal Primero requerirán de un Certificado de Importación que será emitido por la Secretaría de Estado en el Despacho de Desarrollo Económico, a través de la Dirección General de Integración Económica y Política Comercial.
 
-TERCERO: Los beneficiarios de un certificado del contingente arancelario por desabasto de concentrado de jugo naranja clasificado bajo la fracción arancelaria 2009.19.10.00 del Arancel Centroamericano de Importación (ACI), autorizado mediante Acuerdo Ministerial No. 023- 2026, deberán presentar solicitud de ampliación de dicho certificado ante la Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo Económico, por medio de su apoderado legal, consignando los datos generales:
+TERCERO: Los beneficiarios de un certificado del contingente arancelario por desabasto de concentrado de jugo naranja clasificado bajo la fracción arancelaria 2009.19.10.00 del Arancel Centroamericano de Importación (ACI), autorizado mediante Acuerdo Ministerial No. 023-2026, deberán presentar solicitud de ampliación de dicho certificado ante la Secretaría General de la Secretaría de Estado en el Despacho de Desarrollo Económico, por medio de su apoderado legal, consignando los datos generales:
 
 a) En la solicitud debe consignar la información siguiente:
 

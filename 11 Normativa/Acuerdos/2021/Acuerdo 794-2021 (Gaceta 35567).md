@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo número 794-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210410-35567/download"
 extraido: "2026-11-14"
-huella: "12fd34f084b105d4"
+huella: "00d09a8287fad9ca"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 794-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al artículo 7 numeral 1 y 4 de la Ley Orgánic
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 005-2020 publicado en el Diario Oficial La Gaceta el 10 de febrero del 2020, declaró estado de emergencia sanitaria en todo el Territorio Nacional, mismo que fue reformado de conformidad al Decreto Ejecutivo No. PCM 016-2020 y Decreto Ejecutivo Número 023-2020, declarando este último estado de Emergencia Humanitaria y Sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo dengue; así mismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 146-2020, publicado en el Diario Oficial La Gaceta en fecha veintinueve (29) de diciembre del año 2020, el Presidente de la República en Consejo de Ministros prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM- 016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM 146-2020, publicado en el Diario Oficial La Gaceta en fecha veintinueve (29) de diciembre del año 2020, el Presidente de la República en Consejo de Ministros prorrogó la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
 
 CONSIDERANDO: Que la Dirección de Sanidad de la Policía Nacional ha detectado una alta incidencia de casos por COVID 19 dentro del personal que labora en esta Secretaría de Estado; recomendando la toma de medidas preventivas con carácter urgente a fin de evitar la propagación masiva del virus tanto del personal como de los ciudadanos que a diario frecuentan esta institución.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que atendiendo la recomendación de la Dirección de Sanidad de la
 
 POR TANTO:
 
-En uso de sus atribuciones y en aplicación de los artículos 247, 145 y 59 de la Constitución de la República, 118 y 36 numerales 1 y 8 de la Ley General de la Administración Pública, 7 numerales 1 y 4 Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, Decretos Ejecutivos PCM 005-2020, PCM 016- 2020, PCM-021-2020, PCM 023-2020 y PCM 146-2020.
+En uso de sus atribuciones y en aplicación de los artículos 247, 145 y 59 de la Constitución de la República, 118 y 36 numerales 1 y 8 de la Ley General de la Administración Pública, 7 numerales 1 y 4 Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, Decretos Ejecutivos PCM 005-2020, PCM 016-2020, PCM-021-2020, PCM 023-2020 y PCM 146-2020.
 
 ACUERDA
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Decreto No. 48-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231027-36368-2/download"
 extraido: "2026-11-14"
-huella: "1f7e04ecf65633d6"
+huella: "84f49f164d84b0eb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2023
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 299 de la Constitución de la República establece que: “El desarrollo económico y social de los municipios debe formar parte de los programas de Desarrollo Nacional”.
 
-CONSIDERANDO: Que el Artículo 17 del Código Tributario, del Decreto No.170-2016 del 15 de Noviembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que “la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
+CONSIDERANDO: Que el Artículo 17 del Código Tributario, del Decreto No. 170-2016 del 15 de Noviembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, establece que “la Exoneración es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN)”.
 
 CONSIDERANDO: Que el objetivo primordial de toda Corporación Municipal, es buscar el mejoramiento de la calidad de vida de los habitantes en cada municipio, a fin de alcanzar el desarrollo económico y social de manera integral, en el cual los servicios públicos que ofrecen las mismas, son esenciales para desarrollo integral y el bien común de sus habitantes.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 3 del Decreto No.25-2023 de fecha 18 de Abril del año 2023 publicado en el Diario Oficial “La Gaceta” de fecha 16 de Junio de 2023, Edición No.36,256, el que debe leerse de la forma siguiente:
+ARTÍCULO 1.- Reformar el Artículo 3 del Decreto No. 25-2023 de fecha 18 de Abril del año 2023 publicado en el Diario Oficial “La Gaceta” de fecha 16 de Junio de 2023, Edición No. 36,256, el que debe leerse de la forma siguiente:
 
 “ARTÍCULO 3.- Exonerar a la
 

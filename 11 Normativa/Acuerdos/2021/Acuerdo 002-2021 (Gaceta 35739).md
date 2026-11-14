@@ -11,7 +11,7 @@ paginas: "A. 1 - 56"
 sumario: "Acuerdo Ejecutivo No. 002-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211006-35739/download"
 extraido: "2026-11-14"
-huella: "aadbfba22222f494"
+huella: "41e6b19c5ff8fa72"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 002-2021
@@ -39,9 +39,7 @@ CONSIDERANDO: Que el Reglamento de la Ley General de Aguas, es el instrumento a 
 
 CONSIDERANDO: Que las actividades de uso y aprovechamiento de las aguas a nivel nacional deberán ser autorizadas por la Autoridad del Agua bajo los requisitos que manda la Ley sin perjuicio del cumplimiento de otras obligaciones que la Ley que establece.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre del 2020, el Presidente de la República delegó firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre del 2020, el Presidente de la República delegó firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 

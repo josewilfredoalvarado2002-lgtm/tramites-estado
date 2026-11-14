@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo No. SETRASS-259-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260604-37159/download"
 extraido: "2026-11-09"
-huella: "0f368c7e149948c1"
+huella: "6f33150a58daf895"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-259-2026
@@ -29,7 +29,7 @@ huella: "0f368c7e149948c1"
 
 EL SECRETARIO DE ESTADO DE LA SECRETARÍA DE TRABAJO Y SEGURIDAD SOCIAL Tegucigalpa, M.D.C., 22 de mayo de 2026
 
-CONSIDERANDO (1): Que mediante Acuerdo Ejecutivo No.029-2026 de fecha 27 de enero de 2026, se nombra al Ciudadano FERNANDO PUERTO CASTRO como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
+CONSIDERANDO (1): Que mediante Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, se nombra al Ciudadano FERNANDO PUERTO CASTRO como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
 
 CONSIDERANDO (2): Que la delegación de funciones constituye un mecanismo administrativo orientado a optimizar la gestión institucional, al permitir una toma de decisiones más ágil, oportuna y eficiente; todo ello con el propósito de facilitar la atención adecuada y expedita de los trámites que se deleguen, en el marco del principio de celeridad y eficacia que rige la función pública.
 
@@ -47,7 +47,7 @@ CONSIDERANDO (7): Que el artículo 4, párrafo segundo, de la Ley de Procedimien
 
 CONSIDERANDO (8): Que el Artículo 5 de la Ley de Procedimiento Administrativo establece que el acto de delegación podrá contener instrucciones obligatorias para el órgano delegado en materia procedimental expresándose y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos, será imputable al órgano delegado.
 
-CONSIDERANDO (9): Que la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social tiene dentro de sus dependencias La Unidad Coordinadora de Proyectos, la cual fue creada mediante Decreto Ejecutivo PCM 047- 2005, del veintidós (22) de septiembre del año dos mil cinco (2005), siendo el órgano ad hoc delegado por la STSS para administrar los Programas y Proyectos financiados con fondos de organismos multilaterales, es responsable de coordinar la gestión y ejecución de los mismos; todo esto de conformidad con las regulaciones normativas de cada cooperante y con las leyes y regulaciones nacionales que fueran aplicables, garantizando la eficiencia, la eficacia, transparencia y rendición de cuentas en el manejo de los recursos, teniendo autonomía técnica, económica, administrativa-financiera y de contratación de servicios en la ejecución de los proyectos, subproyectos, convocatorias y actividades.
+CONSIDERANDO (9): Que la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social tiene dentro de sus dependencias La Unidad Coordinadora de Proyectos, la cual fue creada mediante Decreto Ejecutivo PCM 047-2005, del veintidós (22) de septiembre del año dos mil cinco (2005), siendo el órgano ad hoc delegado por la STSS para administrar los Programas y Proyectos financiados con fondos de organismos multilaterales, es responsable de coordinar la gestión y ejecución de los mismos; todo esto de conformidad con las regulaciones normativas de cada cooperante y con las leyes y regulaciones nacionales que fueran aplicables, garantizando la eficiencia, la eficacia, transparencia y rendición de cuentas en el manejo de los recursos, teniendo autonomía técnica, económica, administrativa-financiera y de contratación de servicios en la ejecución de los proyectos, subproyectos, convocatorias y actividades.
 
 CONSIDERANDO (10): Que el artículo 2, inciso b) de la Ley de Simplificación Administrativa establece como uno de los objetivos de la referida simplificación “Clasificar y disminuir en lo posible jerarquías o líneas de responsabilidad entre quienes, de conformidad con la Ley, intervienen en la prestación de servicios con facultades de autorizar, controlar y operar para que no se demore ni entorpezca la toma de decisiones.
 

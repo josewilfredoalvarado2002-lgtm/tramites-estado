@@ -11,7 +11,7 @@ paginas: "A. 13 - 14"
 sumario: "Acuerdo No. SAG-004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250207-36760/download"
 extraido: "2026-11-13"
-huella: "504ea5e6ad78cc87"
+huella: "8a48fdbdef2ed5c8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 004-2025
@@ -29,7 +29,7 @@ huella: "504ea5e6ad78cc87"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre se crea mediante Decreto Legislativo No. 98- 2007, en su artículo 14 establece que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, denominado ICF, es un órgano desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determine esta Ley, la que ejercerá con independencia técnica, administrativa y financiera, dotado de la capacidad jurídica necesaria para emitir los actos en el ejercicio de su competencia.
+CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre se crea mediante Decreto Legislativo No. 98-2007, en su artículo 14 establece que el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, denominado ICF, es un órgano desconcentrado y dependiente de la Presidencia de la República con exclusividad en la competencia que determine esta Ley, la que ejercerá con independencia técnica, administrativa y financiera, dotado de la capacidad jurídica necesaria para emitir los actos en el ejercicio de su competencia.
 
 CONSIDERANDO: Que, el artículo 18 numeral 1 de la Ley Forestal, Áreas Protegidas y Vida Silvestre, señala que el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), tiene las atribuciones de administrar el ICF y ejercer la Representación Legal del mismo.
 

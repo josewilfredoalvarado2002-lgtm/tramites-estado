@@ -11,7 +11,7 @@ paginas: "A. 9 - 19"
 sumario: "Decretos Nos. 47-2024, 48-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240528-36545/download"
 extraido: "2026-11-14"
-huella: "656f89c29314f2aa"
+huella: "a67a78d2642a7361"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la seguridad social es un derecho humano fundamental reconocid
 
 CONSIDERANDO: Que de conformidad al Artículo 142 de la Constitución de la República, corresponde al Instituto Hondureño de Seguridad Social (IHSS) la prestación y administrar de servicios de la seguridad social, la que en conjunto con otras instituciones de asistencia y previsión social, funcionará de manera unificada en un Sistema Unitario Estatal, con la aportación de todas las partes interesadas y el mismo Estado, a fin de implementar de forma gradual y progresiva los riesgos cubiertos, así como, las zonas geográficas y categorías de trabajadores(as) protegidos(as) en la totalidad de servicios y prestaciones de la seguridad social.
 
-CONSIDERANDO: Que la Sala de lo Constitucional de la Corte Suprema de Justicia, declaró mediante Sentencia de inconstitucionalidad recaída en el Recurso No. SCO-858-2015, la derogatoria total del Decreto No.56-2015 del 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Julio de 2015, contentivo de la Ley Marco del Sistema de Protección Social; Sentencia que fue mandada a publicar por este Poder del Estado y que consta en el Diario Oficial “La Gaceta” de fecha 27 de Octubre de 2022.
+CONSIDERANDO: Que la Sala de lo Constitucional de la Corte Suprema de Justicia, declaró mediante Sentencia de inconstitucionalidad recaída en el Recurso No. SCO-858-2015, la derogatoria total del Decreto No. 56-2015 del 21 de Mayo de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 2 de Julio de 2015, contentivo de la Ley Marco del Sistema de Protección Social; Sentencia que fue mandada a publicar por este Poder del Estado y que consta en el Diario Oficial “La Gaceta” de fecha 27 de Octubre de 2022.
 
 CONSIDERANDO:
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -65,7 +65,7 @@ CAPÍTULO UNICO DE LAS TASAS Y TECHOS DE COTIZACIONES
 
 #### Artículo 1
 
-ARTÍCULO 1.- A P O R T E R É G I M E N
+ARTÍCULO 1.- APORTE RÉGIMEN
 
 PREVISIONAL DEL IHSS. Para el beneficio de Invalidez, Vejez y Muerte (IVM), que administra el Instituto Hondureño de Seguridad Social (IHSS) la tasa de cotización será el tres punto cinco por ciento (3.5%) para el empleador, de dos puntos cinco por ciento (2.5%) para el trabajador y de cero puntos cinco por ciento (0.5%) para el Estado. Para el cálculo del aporte del Estado, como contribución a la Seguridad Social, se hará en base del total de los afiliados activos en el Instituto Hondureño de Seguridad Social (IHSS). Estos g porcentajes se aplicarán sobre los techos de cotización vigentes para este régimen.
 
@@ -121,7 +121,7 @@ CONSIDERANDO: Que el artículo 8 de la Ley General de la Industria Eléctrica es
 
 CONSIDERANDO: Que en fecha 09 de agosto de 2022 la Secretaría de Estado en el Despacho de Energía remitió a la Comisión Reguladora de Energía Eléctrica (CREE) el Oficio No 835-2022-SEN-DM, donde manifestó la preocupación en el deterioro de la calidad del suministro eléctrico en la Isla de Guanaja y el incremento de los precios para el servicio de energía eléctrica en esta localidad, a razón de distintas quejas presentadas ante esta Secretaría por parte de residentes y funcionarios de la zona. Seguidamente en fecha 10 de agosto de 2022 la Secretaría de Energía remitió a la CREE, el Oficio No. 841-2022-SEN-DM respecto de la necesidad de conocer el estado actual de la concesión otorgada a la empresa Bonacco Electric Company S. A. de C. V. (BELCO) por parte de la Alcaldía de Guanaja y la pertenencia en propiedad de la red de distribución en la isla.
 
-CONSIDERANDO: Que mediante Oficio No. CREE-228- 2022 producto del proceso de investigación e inspección realizada por la Comisión Reguladora de Energía Eléctrica (CREE), el 21 de noviembre de 2022, se remite informes técnicos y legal con recomendaciones y los resultados de la inspección del sistema aislado del municipio de Guanaja; correspondientes a: I) Informe de Procesos Comerciales, por Dirección de Fiscalización, CREE, octubre 2022: II) Informe de aspectos legales, por Dirección de Asesoría Jurídica, CREE, octubre 2022; III) Informe de generación, por Dirección de Fiscalización, CREE, octubre 2022; IV) Informe de red de distribución, por Dirección de Fiscalización, CREE, octubre 2022; V) Informe Ejecutivo, por CREE, noviembre 2022.
+CONSIDERANDO: Que mediante Oficio No. CREE-228-2022 producto del proceso de investigación e inspección realizada por la Comisión Reguladora de Energía Eléctrica (CREE), el 21 de noviembre de 2022, se remite informes técnicos y legal con recomendaciones y los resultados de la inspección del sistema aislado del municipio de Guanaja; correspondientes a: I) Informe de Procesos Comerciales, por Dirección de Fiscalización, CREE, octubre 2022: II) Informe de aspectos legales, por Dirección de Asesoría Jurídica, CREE, octubre 2022; III) Informe de generación, por Dirección de Fiscalización, CREE, octubre 2022; IV) Informe de red de distribución, por Dirección de Fiscalización, CREE, octubre 2022; V) Informe Ejecutivo, por CREE, noviembre 2022.
 
 CONSIDERANDO: Que esta Secretaría de Estado con el mérito de los informes técnicos recibidos de la Comisión Reguladora de Energía Eléctrica (CREE) con sus respectivas conclusiones y recomendaciones de los resultados de la inspección del sistema aislado del municipio de Guanaja, solicitó a sus Direcciones Técnica y Legal emitir dictamen correspondiente sobre la situación informada y opinión recibida en cuanto a la prestación del servicio eléctrico que abarca desde los sistemas de generación, distribución, gestión comercial y atención a los usuarios finales y la procedencia de acordar la intervención integral del sistema eléctrico administrado y operado de hecho por parte la empresa Bonacco Electric Company S. A. de C. V. (BELCO), en el Municipio de Guanaja, Departamento de Islas de la Bahía.
 
@@ -133,9 +133,7 @@ A. de C. V. (BELCO), ha comprometido por mucho tiempo el desarrollo económico d
 
 A. de C. V. (BELCO), debido a que se cuentan con elementos técnicos reales y suficientes para categorizar una mala calidad del servicio eléctrico y de altos costos ofrecido a la población de la Isla de Guanaja en el Departamento de Islas de la Bahía.
 
-CONSIDERANDO: Que mediante Dictamen Legal No.
-
-DSL-170-2024 emitido por la Dirección de Servicios Legales el nueve de abril de dos mil veinticuatro, esta Dirección en cuanto a la emisión de Dictamen Legal para atender la solicitud contentiva de PROCESO DE INTERVENCIÓN AL SISTEMA AISLADO DEL SERVICIO ELÉCTRICO EN EL MUNICIPIO DE GUANAJA OPERADO POR LA SOCIEDAD MERCANTIL BONACCO ELECTRIC COMPAÑY S.A. DE C.V. PREVIO A GENERAR ACUERDO MINISTERIAL, dictamina “QUE ES PROCEDENTE la intervención del sistema eléctrico de distribución administrado y operado de hecho fuera del marco legal vigente, por parte de la empresa BONACCO ELECTRIC COMPANY S. A. DE C. V. (BELCO), de acuerdo a lo establecido en la Ley General de la Industria Eléctrica artículo 8-B numeral II ya que se cuenta con elementos técnicos, legales y reales suficientes para categorizar una la calidad del servicio eléctrico y de altos costos ofrecidos a la población de la Isla de Guanaja en el Departamento de Islas de la Bahía.
+CONSIDERANDO: Que mediante Dictamen Legal No. DSL-170-2024 emitido por la Dirección de Servicios Legales el nueve de abril de dos mil veinticuatro, esta Dirección en cuanto a la emisión de Dictamen Legal para atender la solicitud contentiva de PROCESO DE INTERVENCIÓN AL SISTEMA AISLADO DEL SERVICIO ELÉCTRICO EN EL MUNICIPIO DE GUANAJA OPERADO POR LA SOCIEDAD MERCANTIL BONACCO ELECTRIC COMPAÑY S.A. DE C.V. PREVIO A GENERAR ACUERDO MINISTERIAL, dictamina “QUE ES PROCEDENTE la intervención del sistema eléctrico de distribución administrado y operado de hecho fuera del marco legal vigente, por parte de la empresa BONACCO ELECTRIC COMPANY S. A. DE C. V. (BELCO), de acuerdo a lo establecido en la Ley General de la Industria Eléctrica artículo 8-B numeral II ya que se cuenta con elementos técnicos, legales y reales suficientes para categorizar una la calidad del servicio eléctrico y de altos costos ofrecidos a la población de la Isla de Guanaja en el Departamento de Islas de la Bahía.
 
 Haciendo las siguientes observaciones y recomendaciones.1.- “De conformidad con el Artículo 3 de la reforma energética contenida en el Decreto Legislativo 46-2022 “Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social”, el Estado de Honduras asume la obligación de garantizar la prestación del servicio de energía eléctrica a toda la población urbana y rural, por lo que procede delegar una entidad, interventora con capacidad técnica y especializada para la administración, operación y mantenimiento del sistema eléctrico operado hasta la fecha por la sociedad BONACCO ELECTRIC COMPANY S. A. DE C.
 
@@ -143,9 +141,7 @@ V. (BELCO) y todas las acciones necesarias de coordinación administrativas y re
 
 CONSIDERANDO: Que de conformidad al Artículo 8 del Decreto No 404-2013 “Ley General de la Industria Eléctrica (LGIE)”, específicamente lo establecido en su literal B) numeral II sobre la “INTERVENCIÓN DE LAS EMPRESAS”, establece, que la Secretaría, previa opinión de la Comisión Reguladora de Energía Eléctrica, puede acordar la intervención de cualquier empresa de generación, transmisión o distribución cuya situación o desempeño amenace afectar la continuidad o seguridad del servicio; cuando se constituya la causa de “I. … II. La gestión irregular de la actividad, cuando le sea imputable y pueda dar lugar a su paralización, con interrupción del suministro a los usuarios…”.
 
-CONSIDERANDO: Que, conforme a los informes técnicos y legales de la Comisión Reguladora de Energía Eléctrica, en el marco de sus competencias como ente regulador y fiscalizador de las actividades de la industria eléctrica remitidos a esta Secretaría de Estado mediante Oficio No. CREE-22 8-2022; asimismo, la Opinión Técnica DGEM-UAME-04-2024 de la Dirección General de Electricidad y Mercados de fecha tres de abril de dos mil veinticuatro y Dictamen Legal No.
-
-DSL-170-2024 emitido por la Dirección de Servicios Legales el nueve de abril de dos mil veinticuatro, se establece QUE ES PROCEDENTE una intervención integral del sistema eléctrico administrado y operado de hecho por parte de la Sociedad Mercantil Bonacco Electric Company S. A. de C. V. (BELCO), debido a que se cuentan con elementos técnicos reales y suficientes para categorizar una mala calidad del servicio eléctrico y de altos costos ofrecido a la población de la Isla de Guanaja en el Departamento de Islas de la Bahía, materializándose la causa de intervención que establece el artículo 8 inciso B numeral II de la Ley General de la Industria Eléctrica, consistente en la gestión irregular de la actividad por la empresa Bonacco Electric Company S. A. de C. V. (BELCO), que le es imputable y puede dar lugar a su paralización, con interrupción del suministro a los usuarios.
+CONSIDERANDO: Que, conforme a los informes técnicos y legales de la Comisión Reguladora de Energía Eléctrica, en el marco de sus competencias como ente regulador y fiscalizador de las actividades de la industria eléctrica remitidos a esta Secretaría de Estado mediante Oficio No. CREE-22 8-2022; asimismo, la Opinión Técnica DGEM-UAME-04-2024 de la Dirección General de Electricidad y Mercados de fecha tres de abril de dos mil veinticuatro y Dictamen Legal No. DSL-170-2024 emitido por la Dirección de Servicios Legales el nueve de abril de dos mil veinticuatro, se establece QUE ES PROCEDENTE una intervención integral del sistema eléctrico administrado y operado de hecho por parte de la Sociedad Mercantil Bonacco Electric Company S. A. de C. V. (BELCO), debido a que se cuentan con elementos técnicos reales y suficientes para categorizar una mala calidad del servicio eléctrico y de altos costos ofrecido a la población de la Isla de Guanaja en el Departamento de Islas de la Bahía, materializándose la causa de intervención que establece el artículo 8 inciso B numeral II de la Ley General de la Industria Eléctrica, consistente en la gestión irregular de la actividad por la empresa Bonacco Electric Company S. A. de C. V. (BELCO), que le es imputable y puede dar lugar a su paralización, con interrupción del suministro a los usuarios.
 
 POR TANTO,
 
@@ -165,9 +161,7 @@ ARTÍCULO 3: La Empresa Nacional de Energía Eléctrica como entidad delegada de
 
 Para tal efecto, la Empresa Nacional de Energía Eléctrica como entidad delegada deberá presentar bimestralmente un informe de gestión de esta intervención a la Secretaría de Estado en el Despacho de Energía y a la Comisión Reguladora de Energía Eléctrica. Además, la entidad delegada, deberá presentar a la CREE y a la Secretaría de energía en un plazo no mayor a 15 días hábiles, un plan de transición y deberá designar un equipo interventor con un gerente interventor a la cabeza para iniciar la fase de toma de control sin perjuicio de los derechos del operador privado defacto, estipulados en la Ley General de la Industria Eléctrica.
 
-La Comisión Reguladora de Energía Eléctrica deberá designar un perito técnico para que realice el avalúo de las inversiones no amortizadas y establezca un monto a pagar, si corresponde, por el valor de dichas inversiones no amortizadas, lo anterior, en consonancia con el artículo 7, literal C de la Ley General de la Industria Eléctrica y con base a la resolución de Junta Directiva de la Empresa Nacional de Energía Eléctrica No.
-
-01-JD-04-2023 contenida en el punto 3, inciso 3.1 del Acta No. JD-04-2023 derivada de la sesión ordinaria celebrada el treinta y uno (31) de octubre de dos mil veintitrés (2023).
+La Comisión Reguladora de Energía Eléctrica deberá designar un perito técnico para que realice el avalúo de las inversiones no amortizadas y establezca un monto a pagar, si corresponde, por el valor de dichas inversiones no amortizadas, lo anterior, en consonancia con el artículo 7, literal C de la Ley General de la Industria Eléctrica y con base a la resolución de Junta Directiva de la Empresa Nacional de Energía Eléctrica No. 01-JD-04-2023 contenida en el punto 3, inciso 3.1 del Acta No. JD-04-2023 derivada de la sesión ordinaria celebrada el treinta y uno (31) de octubre de dos mil veintitrés (2023).
 
 #### Artículo 4
 

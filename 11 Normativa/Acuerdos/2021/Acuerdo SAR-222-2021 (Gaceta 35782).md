@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. sar-222-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211126-35782/download"
 extraido: "2026-11-14"
-huella: "4e0f6e284d0d0f76"
+huella: "15f444451172d17b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-222-2021
@@ -37,9 +37,7 @@ Artículo 197 define: “1) La Administración Tributaria y la Administración A
 
 CONSIDERANDO: Que el mismo Código Tributario en su Artículo 199 dicta las atribuciones de las Direcciones Ejecutivas de la Administración Tributaria y de la Administración Aduanera: “… 1) Ejercer la representación legal y administración general, dirección y manejo de la institución; … 6) Aprobar los acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-01-2017, en cumplimiento a lo establecido en el Artículo 195 del Código Tributario, el Poder Ejecutivo denominó a la Administración Tributaria del Estado de Honduras, SERVICIO DE ADMINISTRACIÓN DE RENTAS o con sus abreviaturas SAR.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 01-2017, en cumplimiento a lo establecido en el Artículo 195 del Código Tributario, el Poder Ejecutivo denominó a la Administración Tributaria del Estado de Honduras, SERVICIO DE ADMINISTRACIÓN DE RENTAS o con sus abreviaturas SAR.
 
 CONSIDERANDO: Que mediante Decreto 36-2007 publicado en el Diario Oficial La Gaceta en fecha 24 de octubre de 2007, se aprobó el “Código de Conducta Ética del Servidor Público”, encaminado al combate de la corrupción y al cumplimiento de las normas éticas en las funciones públicas.
 

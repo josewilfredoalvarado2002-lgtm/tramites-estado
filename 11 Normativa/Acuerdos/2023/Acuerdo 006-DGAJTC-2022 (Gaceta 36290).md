@@ -11,7 +11,7 @@ paginas: "A. 10 - 34"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230725-36290/download"
 extraido: "2026-11-14"
-huella: "169538ea7ad203b3"
+huella: "7b17fba8717429f3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 006-DGAJTC-2022
@@ -927,7 +927,7 @@ Hecho en la ciudad de Bogotá, a los siete días del mes de febrero de mil novec
 
 En fe de lo cual, los plenipotenciarios cuyas firmas figuran al pie, han suscrito el presente Convenio:
 
-Por el Gobierno de la República de Ecuador Gonzalo Apunte Por el Gobierno de la República de Bolivia Tomás Guillermo Elio Por el Gobierno de la República de Colombia Jorge Valencia Jaramillo Por el Gobierno de la República de Chile Salvador Lluch Por el Gobierno de la República del Perú José de La Puente Por el Gobierno de la República de Venezuela Héctor Hurtado A N E X O Enmiendas al Convenio Constitutivo DECISIONES FECHA OBJETO
+Por el Gobierno de la República de Ecuador Gonzalo Apunte Por el Gobierno de la República de Bolivia Tomás Guillermo Elio Por el Gobierno de la República de Colombia Jorge Valencia Jaramillo Por el Gobierno de la República de Chile Salvador Lluch Por el Gobierno de la República del Perú José de La Puente Por el Gobierno de la República de Venezuela Héctor Hurtado ANEXO Enmiendas al Convenio Constitutivo DECISIONES FECHA OBJETO
 
 1. No. 21 A.E.I/74 21-22 Nov 74 Aumento de Capital Social
 
@@ -1005,7 +1005,7 @@ Iris Xiomara Castro Sarmiento Presidenta de la República Eduardo Enrique Reina 
 
 ARTÍCULO 3.- Aprobar en todas y cada una de las partes el Convenio de Suscripción de Acciones de Capital Ordinario y del Convenio de Suscripción de Acciones de Capital de Garantía, que literalmente dice:
 
-CONVENIO DE SUSCRIPCIÓN DE ACCIONES DE CAPITAL ORDINARIO ENTRE LA CORPORACIÓN ANDINA DE FOMENTO Y LA REPÚBLICA DE HONDURAS E INCORPORACIÓN DE LA REPÚBLICA DE HONDURAS COMO PAÍS MIEMBRO Este Convenio de Suscripción de Acciones de Capital Ordinario e Incorporación de la República de Honduras como País Miembro (en adelante, el “Convenio”) se celebra el 18 de julio del año 2022 entre la Corporación Andina de Fomento, representada por su Presidente Ejecutivo, señor Sergio Díaz-Granados Guida, de nacionalidad colombiana e identificado con Pasaporte Diplomático número DP050980, debidamente facultado conforme a lo previsto en el artículo 31 del Convenio Constitutivo de CAF (en adelante, “CAF”), y la República de Honduras, representada por la Secretaria de Estado en el Despacho de Finanzas, señora Rixi Ramona Moncada Godoy, de nacionalidad hondureña e identificada con Documento Nacional de Identificación número 0824- 1965-00062, debidamente facultada conforme al Acuerdo Ejecutivo No.7-2022 de fecha 27 de enero de 2022, suscrito por la señora Iris Xiomara Castro Sarmiento, Presidenta Constitucional de la República de Honduras (en adelante, el “Suscriptor”).
+CONVENIO DE SUSCRIPCIÓN DE ACCIONES DE CAPITAL ORDINARIO ENTRE LA CORPORACIÓN ANDINA DE FOMENTO Y LA REPÚBLICA DE HONDURAS E INCORPORACIÓN DE LA REPÚBLICA DE HONDURAS COMO PAÍS MIEMBRO Este Convenio de Suscripción de Acciones de Capital Ordinario e Incorporación de la República de Honduras como País Miembro (en adelante, el “Convenio”) se celebra el 18 de julio del año 2022 entre la Corporación Andina de Fomento, representada por su Presidente Ejecutivo, señor Sergio Díaz-Granados Guida, de nacionalidad colombiana e identificado con Pasaporte Diplomático número DP050980, debidamente facultado conforme a lo previsto en el artículo 31 del Convenio Constitutivo de CAF (en adelante, “CAF”), y la República de Honduras, representada por la Secretaria de Estado en el Despacho de Finanzas, señora Rixi Ramona Moncada Godoy, de nacionalidad hondureña e identificada con Documento Nacional de Identificación número 0824-1965-00062, debidamente facultada conforme al Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero de 2022, suscrito por la señora Iris Xiomara Castro Sarmiento, Presidenta Constitucional de la República de Honduras (en adelante, el “Suscriptor”).
 
 CAF y el Suscriptor serán designados de manera individual por sus respectivos nombres y de manera conjunta como las “Partes”.
 
@@ -1103,7 +1103,7 @@ La administración de CAF recomendará a su Directorio y, por su intermedio, a l
 
 Luego de ello, el Suscriptor tendría derecho a designar un Director y su Suplente por la Serie “A”.
 
-CONVENIO DE SUSCRIPCIÓN DE ACCIONES DE CAPITAL DE GARANTÍA ENTRE LA CORPORACIÓN ANDINA DE FOMENTO Y LA REPÚBLICA DE HONDURAS Este Convenio de Suscripción de Acciones de Capital de Garantía (en adelante, el “Convenio”) se celebra el 18 de julio del año 2022 entre la Corporación Andina de Fomento, representada por su Presidente Ejecutivo, señor Sergio Díaz- Granados Guida, de nacionalidad colombiana e identificado con Pasaporte Diplomático número DP050980, debidamente facultado conforme a lo previsto en el artículo 31 del Convenio Constitutivo de CAF (en adelante, “CAF”), y la República de Honduras, representada por la Secretaria de Estado en el Despacho de Finanzas, señora Rixi Ramona Moncada Godoy, de nacionalidad hondureña e identificada con Documento Nacional de Identificación número 0824-1965-00062, debidamente facultada conforme al Acuerdo Ejecutivo No.7- 2022 de fecha 27 de enero de 2022, suscrito por la señora Iris Xiomara Castro Sarmiento, Presidenta Constitucional de la República de Honduras (en adelante, el “Suscriptor”).
+CONVENIO DE SUSCRIPCIÓN DE ACCIONES DE CAPITAL DE GARANTÍA ENTRE LA CORPORACIÓN ANDINA DE FOMENTO Y LA REPÚBLICA DE HONDURAS Este Convenio de Suscripción de Acciones de Capital de Garantía (en adelante, el “Convenio”) se celebra el 18 de julio del año 2022 entre la Corporación Andina de Fomento, representada por su Presidente Ejecutivo, señor Sergio Díaz- Granados Guida, de nacionalidad colombiana e identificado con Pasaporte Diplomático número DP050980, debidamente facultado conforme a lo previsto en el artículo 31 del Convenio Constitutivo de CAF (en adelante, “CAF”), y la República de Honduras, representada por la Secretaria de Estado en el Despacho de Finanzas, señora Rixi Ramona Moncada Godoy, de nacionalidad hondureña e identificada con Documento Nacional de Identificación número 0824-1965-00062, debidamente facultada conforme al Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero de 2022, suscrito por la señora Iris Xiomara Castro Sarmiento, Presidenta Constitucional de la República de Honduras (en adelante, el “Suscriptor”).
 
 Este Convenio se enmarca en las condiciones especiales para a la Adhesión de la República de Honduras como País Miembro del CAF, establecidas en el Anexo Único del Convenio de Suscripción de Acciones de Capital Ordinario entre la Corporación Andina de Fomento y la República de Honduras e Incorporación de la República de Honduras como País Miembro, como parte del cumplimiento de los términos para su incorporación.
 

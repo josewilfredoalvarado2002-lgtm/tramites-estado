@@ -11,7 +11,7 @@ paginas: "A. 5 - 28"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221024-36058/download"
 extraido: "2026-11-14"
-huella: "7101e1d226d9376a"
+huella: "79f067d559645df5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-196-2022
@@ -43,7 +43,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de Enero del 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 18 al 22 de Julio del 2022.
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de Enero del 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 18 al 22 de Julio del 2022.
 
 SEGUNDO: La delegación del Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, tendrá vigencia hasta que la Secretaria de Estado se reintegre a sus funciones.
 
@@ -53,7 +53,7 @@ CUMPLASE Y COMUNIQUESE.
 
 LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA MERLIN AZUCENA GALVEZ RAMOS SECRETARIA GENERAL INTERINA
 
-ACUERDO DE DELEGACION No. 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG- 203-2022 Tegucigalpa, M.D.C., 21 de julio 2022 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
+ACUERDO DE DELEGACION No. 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG-203-2022 Tegucigalpa, M.D.C., 21 de julio 2022 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficiencia de la producción en el campo y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país.
 
@@ -75,9 +75,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de agosto del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de agosto del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
 
 No.
 
@@ -93,7 +91,7 @@ LID ROY LAZO RODRIGUEZ
 
 Secretario de Estado en los Despachos de Agricultura y Ganadería Acuerdo No. SAG-196-2022 MERLIN AZUCENA GALVEZ RAMOS Secretaria General Interina Acuerdo Delegación No. SAG-185-2022.
 
-Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG- 206-2022 26 de julio de 2022 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
+Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG-206-2022 26 de julio de 2022 EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 CONSIDERANDO (1): Que la Constitución de la República, en su Artículo 340 declara “de utilidad y necesidad pública, la explotación técnica y racional de los recursos naturales de la nación. El Estado reglamentará su aprovechamiento de acuerdo con el interés social y fijará las condiciones de su otorgamiento a los particulares”.
 
@@ -123,7 +121,7 @@ La cuota de captura para cada una de las catorce (14) embarcaciones industriales
 
 SEGUNDO
 
-Los demás numerales que contiene el Acuerdo No. SAG- 130-2021, de fecha 30 de julio del año 2021 y el Acuerdo No. SAG- 192-2021 de fecha 08 de diciembre de 2021, quedan en vigencia.
+Los demás numerales que contiene el Acuerdo No. SAG-130-2021, de fecha 30 de julio del año 2021 y el Acuerdo No. SAG-192-2021 de fecha 08 de diciembre de 2021, quedan en vigencia.
 
 TERCERO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 
@@ -137,21 +135,21 @@ LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y 
 
 ACUERDO DE DELEGACION SAG 185-2022
 
-Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG- 207-2022 28 de julio de 2022 El SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
+Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG-207-2022 28 de julio de 2022 El SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 
 CONSIDERANDO: Que el Artículo 247 de la Constitución de la República establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficiencia de la producción en el campo y propiciar la justa distribución de la riqueza, así como promover el desarrollo económico, social y la competitividad sostenible de todos los sectores productivos del país.
 
-CONSIDERANDO: Que en fecha 20 de noviembre de 2020, la Empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada (ESCOL, S. de R. L.) interpone Recurso de Amparo contra el Acuerdo No.122-2020 de fecha 09 de noviembre de 2020, emitido por la Secretaría de Agricultura y Ganadería impugnando el Proceso de Asignación de Contenedores de Cebolla para los meses de junio a noviembre de 2020.
+CONSIDERANDO: Que en fecha 20 de noviembre de 2020, la Empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada (ESCOL, S. de R. L.) interpone Recurso de Amparo contra el Acuerdo No. 122-2020 de fecha 09 de noviembre de 2020, emitido por la Secretaría de Agricultura y Ganadería impugnando el Proceso de Asignación de Contenedores de Cebolla para los meses de junio a noviembre de 2020.
 
 CONSIDERANDO: Que mediante Oficio No.SCO-146-2022, de fecha 22 de junio de 2022, se notifica a la Secretaría de Agricultura y Ganadería, la Certificación de la Sentencia emitida por la Corte Suprema de Justicia, Sala de lo Constitucional de fecha tres de junio del año dos mil veintidós, sobre la acción de amparo promovida por la empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada (ESCOL, S. de R. L.).
 
-CONSIDERANDO: Que, en cumplimiento a la sentencia emitida por la Honorable Corte Suprema de Justicia, Sala de lo Constitucional recaída sobre la acción de amparo promovida por la empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada (ESCOL, S. de R. L.), sentencia que en su parte conducente dice: “… FALLA: Otorgar la acción de amparo a favor de la empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada, contra el Acuerdo Número 122- 2020, emitido por la Secretaría de Estado en los Despachos de Agricultura y Ganadería en fecha 09 de noviembre del año 2020, por lo que se debe restituir el derecho de gozar de la autorización de importación de los tres contenedores que originalmente asignada a dicha sociedad”.
+CONSIDERANDO: Que, en cumplimiento a la sentencia emitida por la Honorable Corte Suprema de Justicia, Sala de lo Constitucional recaída sobre la acción de amparo promovida por la empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada (ESCOL, S. de R. L.), sentencia que en su parte conducente dice: “… FALLA: Otorgar la acción de amparo a favor de la empresa Distribuidora e Importadora de Frutas y Verduras Sociedad de Responsabilidad Limitada, contra el Acuerdo Número 122-2020, emitido por la Secretaría de Estado en los Despachos de Agricultura y Ganadería en fecha 09 de noviembre del año 2020, por lo que se debe restituir el derecho de gozar de la autorización de importación de los tres contenedores que originalmente asignada a dicha sociedad”.
 
 CONSIDERANDO: Que la Dirección de Servicios Legales
 
-(SDL) de la Secretaría de Agricultura y Ganadería vista y analizada la Sentencia emite Dictamen Legal DSL-402- 2022 en fecha 27 de julio de 2022, indicando que se elabore el Acuerdo Ministerial que de conformidad a la sentencia dictada por la Sala de lo Constitucional en el caso concreto, recomiende a la Secretaría de Desarrollo Económico habilitar licencias de importación a favor de la empresa ESCOL, S.DE R.L., por el orden de los contenedores de cebolla que no fueron habilitados en el periodo de junio a noviembre de 2020, tiempo en el cual se le autorizo a ESCOL, S. DE R.L., un (01) contenedor por mes y la Sala de lo Constitucional le está reconociendo para ese periodo dos (02) contenedores más por mes.
+(SDL) de la Secretaría de Agricultura y Ganadería vista y analizada la Sentencia emite Dictamen Legal DSL-402-2022 en fecha 27 de julio de 2022, indicando que se elabore el Acuerdo Ministerial que de conformidad a la sentencia dictada por la Sala de lo Constitucional en el caso concreto, recomiende a la Secretaría de Desarrollo Económico habilitar licencias de importación a favor de la empresa ESCOL, S.DE R.L., por el orden de los contenedores de cebolla que no fueron habilitados en el periodo de junio a noviembre de 2020, tiempo en el cual se le autorizo a ESCOL, S. DE R.L., un (01) contenedor por mes y la Sala de lo Constitucional le está reconociendo para ese periodo dos (02) contenedores más por mes.
 
 POR TANTO:
 
@@ -171,7 +169,7 @@ COMUNÍQUESE:
 
 LAURA ELENA SUAZO TORRES
 
-Secretaria de Estado en los Despachos de Agricultura y Ganadería MERLIN AZUCENA GALVEZ RAMOS Secretaria General Interina SAG Acuerdo de Delegación Número 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG- 213-2022 Tegucigalpa, M.D.C., 15 de agosto, 2022 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
+Secretaria de Estado en los Despachos de Agricultura y Ganadería MERLIN AZUCENA GALVEZ RAMOS Secretaria General Interina SAG Acuerdo de Delegación Número 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG-213-2022 Tegucigalpa, M.D.C., 15 de agosto, 2022 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
@@ -187,7 +185,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de enero del 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 16 al 19 de agosto del 2022 .
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero del 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 16 al 19 de agosto del 2022 .
 
 SEGUNDO: La delegación del Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, tendrá vigencia hasta que la Secretaria de Estado se reintegre a sus funciones.
 
@@ -197,7 +195,7 @@ CUMPLASE Y COMUNIQUESE.
 
 LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA MERLIN AZUCENA GALVEZ RAMOS SECRETARIA GENERAL INTERINA
 
-ACUERDO No. 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG- 214-2022 Tegucigalpa, M.D.C., 15 de Agosto, 2022 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
+ACUERDO No. 185-2022 Secretaría de Estado en los Despachos de Agricultura y Ganadería ACUERDO SAG-214-2022 Tegucigalpa, M.D.C., 15 de Agosto, 2022 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
@@ -213,7 +211,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No.55- 2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 22 al 26 de agosto del 2022 .
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, a partir del día 22 al 26 de agosto del 2022 .
 
 SEGUNDO: La delegación del Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, tendrá vigencia hasta que la Secretaria de Estado se reintegre a sus funciones.
 
@@ -237,7 +235,7 @@ CONSIDERANDO: Honduras es signataria de convenios internacionales que tiene como
 
 CONSIDERANDO: Que los Estados deben aplicar ampliamente el Principio Precautorio de la FAO, en la conservación, ordenación y explotación de los recursos acuáticos vivos con el fin de protegerlos y preservar al medio acuático. La falta de información científica adecuada no debería utilizarse como justificación para aplazar o dejar de tomar las medidas de conservación y gestión necesarias.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo STSS-577- 2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras establece regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana de los buzos que trabajan en esta pesquería.
+CONSIDERANDO: Que el Acuerdo Ejecutivo STSS-577-2020 del Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras establece regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana de los buzos que trabajan en esta pesquería.
 
 CONSIDERANDO: Que la SAG a través de la DIGEPESCA procura impulsar el ordenamiento en la pesca de pepinos de mar, velando por su sostenibilidad y sustentabilidad, en consecuencia, continuar con el PROTOCOLO DE EVALUACION BIOLOGICA Y MONITOREO PESQUERO DE PEPINO DE MAR EN EL CARIBE DE HONDURAS, siendo el objetivo general del mismo la identificación del estado de las poblaciones de pepino de mar de la especie Holothuria mexicana (Molongo) con el fin de tomar decisiones y recomendaciones orientadas al diseño e implementación de un Plan de Manejo Pesquero sobre este recurso según lo manda la Ley General de Pesca y Acuicultura.
 
@@ -421,7 +419,7 @@ De incumplir se notificará a la DGMM para suspender los zarpes hasta que dicha 
 
 \10) No se autorizará el desembarque de pepino de mar (Holothuria mexicana) que no presente la BITÁCORA PRODUCTIVA correspondiente al momento de la inspección en el Puerto, entregando.
 
-DÉCIMO SEGUNDO: Quedan prohibidas las siguientes acciones por parte de las embarcaciones, participantes en el protocolo de evaluación Biológica y Monitoreo Pesquero del Pepino de Mar en el Caribe de Honduras temporada 2022- 2023:
+DÉCIMO SEGUNDO: Quedan prohibidas las siguientes acciones por parte de las embarcaciones, participantes en el protocolo de evaluación Biológica y Monitoreo Pesquero del Pepino de Mar en el Caribe de Honduras temporada 2022-2023:
 
 \1) La cuota otorgada por medio de la licencia para participar en el protocolo no es transferible ni es negociable con ninguna embarcación y armador diferente al que establece la Resolución SAG de cada licencia emitida y firmada por la DIGEPESCA, en cumplimiento de la Ley de Pesca Art. 65. Parámetros para otorgar permisos y licencias;
 

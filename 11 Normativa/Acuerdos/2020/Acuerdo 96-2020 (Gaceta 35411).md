@@ -8,10 +8,10 @@ gaceta_numero: 35411
 gaceta_fecha: "2020-10-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)|La Gaceta 35411]]"
 paginas: "A. 1 - 2"
-sumario: "Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020"
+sumario: "Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdos Nos. 256-2020, 258-2020, 271-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201027-35411/download"
 extraido: "2026-11-14"
-huella: "ba15907cdcc087fb"
+huella: "9c15d2fee2652d38"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 96-2020
@@ -23,7 +23,7 @@ huella: "ba15907cdcc087fb"
 | Emisor | SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)\|La Gaceta 35411]] del 2020-10-27 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdos Nos. 256-2020, 258-2020, 271-2020 |
 
 ## Texto
 
@@ -31,9 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 188-2019 de fecha 19 de junio de 2019 se nombró a la ciudadana ZOILA PATRICIA CRUZ CERRATO, como Coordinadora General de Gobierno Adjunta, en el Gabinete Social, con Rango de Secretaria de Estado.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-81-2020 de fecha 05 de agosto del año dos mil veinte 2020, se modificó el Acuerdo Ejecutivo No. 188-2019 de la ciudadana ZOILA PATRICIA CRUZ CERRATO, como Coordinadora General de Gobierno Adjunta, en el Gabinete Social, con Rango de Secretaria de Estado, quien desempeñará el cargo Ad honorem.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 81-2020 de fecha 05 de agosto del año dos mil veinte 2020, se modificó el Acuerdo Ejecutivo No. 188-2019 de la ciudadana ZOILA PATRICIA CRUZ CERRATO, como Coordinadora General de Gobierno Adjunta, en el Gabinete Social, con Rango de Secretaria de Estado, quien desempeñará el cargo Ad honorem.
 
 POR TANTO;
 

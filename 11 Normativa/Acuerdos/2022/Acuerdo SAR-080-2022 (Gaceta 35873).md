@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo número SAR-080-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220315-35873/download"
 extraido: "2026-11-14"
-huella: "2bbfbd9c77a0f658"
+huella: "e1e36d59cdd0cd49"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-080-2022
@@ -37,11 +37,9 @@ CONSIDERANDO: Que el Artículo 198 del Código Tributario establece entre otras 
 
 CONSIDERANDO: Que el Artículo 199 del Código Tributario establece entre otras atribuciones de la Dirección Ejecutiva del Servicio de Administración de Rentas (SAR), “...1) Ejercer la representación legal y administración general, dirección y manejo de la institución; ... 6) Aprobar los acuerdos que contengan las normas internas de la institución. (13) Los demás funciones que le confieran el presente Código y las leyes aplicables”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
-
-CONSIDERANDO: Que mediante Acuerdo Número SAR- 479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre del 2018, se aprueba la Política de Gestión de Riesgo del Servicio de Administración de Rentas y se crea el Comité de Gestión de Riesgos.
+CONSIDERANDO: Que mediante Acuerdo Número SAR-479-2018 de fecha 07 de diciembre del 2018, publicado en el Diario Oficial La Gaceta en fecha 17 de diciembre del 2018, se aprueba la Política de Gestión de Riesgo del Servicio de Administración de Rentas y se crea el Comité de Gestión de Riesgos.
 
 CONSIDERANDO: Que el Comité de Riesgos es el órgano directivo que establece la gobernanta y directrices para cada una de las etapas a lo largo de la aplicación del modelo de gestión de riesgos.
 

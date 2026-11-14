@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos SETRASS Nos. 625-2023, 626-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240119-36438/download"
 extraido: "2026-11-14"
-huella: "214dbc891ce1c4b9"
+huella: "824e43d772fd623c"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETRASS No. 625-2023
@@ -33,7 +33,7 @@ CONSIDERANDO (1): Que la Constitución de la República establece que las Leyes 
 
 CONSIDERANDO (2): Que el Convenio No. 081 sobre la Inspección del Trabajo, suscrito por el Estado de Honduras, instituye que todo miembro de la Organización Internacional del Trabajo deberá mantener un sistema de inspección del trabajo en los establecimientos industriales, y en su artículo 5 inciso a) que: &lt;&lt;…La autoridad competente deberá adoptar medidas pertinentes para fomentar: a) La cooperación efectiva de los servicios de inspección con otros servicios gubernamentales y con instituciones, públicas o privadas que ejerzan actividades similares…>>.
 
-CONSIDERANDO (3): Que el Decreto Legislativo No. 178- 2016 de fecha quince (15) de marzo del año dos mil diecisiete (2017), aprueba la Ley de Inspección de Trabajo la cual tiene por objeto, regular el Sistema Integrado de Inspección de Trabajo y de Seguridad Social, promover, vigilar y garantizar que patronos y trabajadores cumplan y respeten todas las disposiciones legales relativas al trabajo.
+CONSIDERANDO (3): Que el Decreto Legislativo No. 178-2016 de fecha quince (15) de marzo del año dos mil diecisiete (2017), aprueba la Ley de Inspección de Trabajo la cual tiene por objeto, regular el Sistema Integrado de Inspección de Trabajo y de Seguridad Social, promover, vigilar y garantizar que patronos y trabajadores cumplan y respeten todas las disposiciones legales relativas al trabajo.
 
 CONSIDERANDO (4): Que la Ley de Inspección de Trabajo, en su artículo 4 manda la creación del Sistema de Registro Nacional simplificado de Patronos (SRNSP), que estará bajo la responsabilidad de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social a través de la Dirección General de Inspección de Trabajo (DGIT), en el cual debe inscribirse todas las personas naturales o jurídicas, particulares o de derecho público con o sin fines de lucro que realicen actividades industriales, comerciales, de servicios, actividades económicas o sociales, contratistas y agencias privadas de empleo como consecuencia de actividades que empleen personas en cualquiera de las modalidades contenidas en la legislación laboral y que empleen personas en cualquiera de las formas que contiene la Ley sobre la materia.
 

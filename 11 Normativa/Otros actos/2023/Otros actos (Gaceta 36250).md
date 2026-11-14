@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo ADUANAS-DE-035-2023; Decreto Ejecutivo Número PCM 25-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230609-36250/download"
 extraido: "2026-11-14"
-huella: "d6f248afd9dfb33a"
+huella: "eabae10fe1222ad2"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo ADUANAS-DE-035-2023; Decreto Ejecutivo Número PCM 25-2023
@@ -41,7 +41,7 @@ COSIDERANDO (3): Que es una atribución de la administración Aduanera entre otr
 
 Artículo 198 numeral 12) del Código Tributario Aprobar acuerdos para la aplicación eficiente de las disposiciones en materia aduanera, de conformidad al referido Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley.
 
-CONSIDERANDO (4): Que mediante Acuerdo ADUANASDE-No.050-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020) se acordó; aprobar las disposiciones Administrativas Aplicables al Operador Económico Autorizado (OEA) en Honduras, el cual fue publicado en el Diario Oficial “La Gaceta” No. 35, 427 en fecha doce (12) de noviembre del año 2020.
+CONSIDERANDO (4): Que mediante Acuerdo ADUANASDE-No. 050-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020) se acordó; aprobar las disposiciones Administrativas Aplicables al Operador Económico Autorizado (OEA) en Honduras, el cual fue publicado en el Diario Oficial “La Gaceta” No. 35, 427 en fecha doce (12) de noviembre del año 2020.
 
 CONSIDERANDO (5): Que las disposiciones y medidas establecidas en dicho Acuerdo deben ser adecuadas conforme a las necesidades actuales de la Institución, en aras de una mejor gestión administrativa y operativa, por medio del cual se logran los objetivos institucionales que se traducen en beneficio para el Estado de Honduras, en apego a los más altos valores éticos y morales.
 
@@ -61,7 +61,7 @@ ACUERDO-ADUANAS-050-2020.
 
 ACUERDA:
 
-PRIMERO: REFORMAR los Artículos 6, 7, 9, 13, 19 y 20 del Acuerdo ADUANAS-DE-No.050-2020 de fecha 21 de octubre del 2020, contentivo de las disposiciones Administrativas Aplicables al Operador Económico Autorizado (OEA) en Honduras, los cuales se deberán leer de la siguiente forma:
+PRIMERO: REFORMAR los Artículos 6, 7, 9, 13, 19 y 20 del Acuerdo ADUANAS-DE-No. 050-2020 de fecha 21 de octubre del 2020, contentivo de las disposiciones Administrativas Aplicables al Operador Económico Autorizado (OEA) en Honduras, los cuales se deberán leer de la siguiente forma:
 
 CAPÍTULO ÚNICO DISPOSICIONES GENERALES “ARTÍCULO 6. REVISIÓN DE DOCUMENTOS Y CUMPLIMIENTO DE REQUISITOS. La Administración Aduanera de Honduras a través de la dependencia administrativa Operador Económico Autorizado (OEA), iniciará con la comprobación del cumplimiento de los requisitos y el estudio de la información proporcionada por el interesado en ser autorizado como OEA.
 
@@ -275,7 +275,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 008-2010 de fecha 24 de
 
 CONSIDERANDO: Que el precitado Decreto Ejecutivo establece que dentro de las funciones de la Unidad Administradora de Proyectos (UAP), se encuentra la de asegurar la ejecución técnica, física y financiera de los programas y proyectos financiados con fondos nacionales y/o fondos externos que le sean asignados por el Gobierno de la República. Asimismo, realizar funciones de Unidad Ejecutora de programas y proyectos para otras dependencias del Estado, cuando así lo determine el Gobierno de la República (artículo 2 numerales 1 y 3).
 
-CONSIDERANDO: Que los fondos del Programa “FONDO CONTRAVALOR NON PROJECT HONDURAS/JAPÓN” eran administrados como contraparte por la Secretaría de Estado en el Despacho de Coordinación de Gobierno, la cual fue suprimida mediante Decreto Ejecutivo número PCM 05- 2022, publicado en el Diario Oficial “La Gaceta” en fecha 6 de abril del 2022, en su edición número 35,892 (artículo 21 numeral 1).
+CONSIDERANDO: Que los fondos del Programa “FONDO CONTRAVALOR NON PROJECT HONDURAS/JAPÓN” eran administrados como contraparte por la Secretaría de Estado en el Despacho de Coordinación de Gobierno, la cual fue suprimida mediante Decreto Ejecutivo número PCM 05-2022, publicado en el Diario Oficial “La Gaceta” en fecha 6 de abril del 2022, en su edición número 35,892 (artículo 21 numeral 1).
 
 POR TANTO, En uso de las facultades legales establecidas en los artículos 235, 245 numerales 2), 11) y 45) de la Constitución de la República; artículos 11, 14 numeral 4), 22 numeral 3), 116, 117 y 119 de la Ley General de Administración Pública; artículos 1 y 2 del Decreto Ejecutivo número PCM 008-2010; artículo 21 numeral 1) del Decreto Ejecutivo número PCM 05-2022; y demás aplicables.
 

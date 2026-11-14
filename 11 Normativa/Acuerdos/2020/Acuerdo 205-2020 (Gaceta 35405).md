@@ -8,7 +8,7 @@ gaceta_numero: 35405
 gaceta_fecha: "2020-10-20"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35405 (2020-10-20)|La Gaceta 35405]]"
 paginas: "A. 20"
-sumario: "Resolución de Pleno No. 3-2020SECRETARÍA DE FINANZASAcuerdos números 193-A-2020, 455-2020, 463-2020SECRETARÍA DE SALUDAcuerdo No. 1556-2020AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 205-2020"
+sumario: "Resolución de Pleno No. 3-2020; SECRETARÍA DE FINANZAS: Acuerdos números 193-A-2020, 455-2020, 463-2020; SECRETARÍA DE SALUD: Acuerdo No. 1556-2020; AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 205-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201020-35405/download"
 extraido: "2026-11-14"
 huella: "7edb9b8e642c1882"
@@ -23,7 +23,7 @@ huella: "7edb9b8e642c1882"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35405 (2020-10-20)\|La Gaceta 35405]] del 2020-10-20 |
 | Páginas | A. 20 |
-| Según el sumario de La Gaceta | Resolución de Pleno No. 3-2020SECRETARÍA DE FINANZASAcuerdos números 193-A-2020, 455-2020, 463-2020SECRETARÍA DE SALUDAcuerdo No. 1556-2020AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 205-2020 |
+| Según el sumario de La Gaceta | Resolución de Pleno No. 3-2020; SECRETARÍA DE FINANZAS: Acuerdos números 193-A-2020, 455-2020, 463-2020; SECRETARÍA DE SALUD: Acuerdo No. 1556-2020; AGENCIA DE REGULACIÓN SANITARIA (ARSA)Acuerdo No. 037-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 205-2020 |
 
 ## Texto
 

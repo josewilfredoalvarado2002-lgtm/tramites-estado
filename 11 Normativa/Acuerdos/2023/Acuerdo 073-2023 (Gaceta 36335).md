@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 073-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230916-36335/download"
 extraido: "2026-11-14"
-huella: "27cb97e46ddb9d63"
+huella: "ac17f4d724f75417"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 073-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es competencia de los Secretarios de Estado, emitir los acuerd
 
 CONSIDERANDO: Que de conformidad al Artículo 36, numeral 1 de la Ley General de la Administración Pública, son atribuciones y deberes comunes a los Secretarios de Estado el orientar, dirigir, coordinar, supervisar, y controlar las actividades de sus respectivos Despacho, sin perjuicio a las atribuciones que la Constitución y las Leyes confieran a otros órganos.
 
-CONSIDERANDO: Que mediante Acuerdo No.161-98 de fecha 4 de agosto de 1998 fue nombrado el Lic. DACIO R. CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra Suiza.
+CONSIDERANDO: Que mediante Acuerdo No. 161-98 de fecha 4 de agosto de 1998 fue nombrado el Lic. DACIO R. CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra Suiza.
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial No. 011-2023 de fecha diecinueve (19) de enero de dos mil veintitrés (2023), se autorizó a la Gerencia Administrativa de esta Secretaría de Estado para que procediera a pagar mensualmente los Gastos de Representación en el Exterior al Representante de la Organización Mundial del Comercio
 
@@ -51,7 +51,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que le confiere el Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numeral 1), 8), 116, 118, 119, numeral 3) y 122 de la Ley General de la Administración Pública, Decreto 157-2022 contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023 y Acuerdo Ministerial No. 11-2023 de fecha 19 de enero de 2023 emitido por la Secretaría de Desarrollo Económico.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Modificar el ordinal primero del Acuerdo Ministerial No. 011-2023 de fecha 19 de enero de 2023, con el objeto de Autorizar a la Gerencia Administrativa de esta Secretaría de Estado, proceda a pagar mensualmente en concepto de GASTOS DE REPRESENTACION EN EL EXTERIOR, al Representante de la Organización Mundial del Comercio (OMC) en Ginebra Suiza, la cantidad de $13,500.00 (TRECE MIL QUINIENTOS DOLARES EXACTOS), a partir del mes de septiembre del 2023, con la finalidad que los dos mil quinientos dólares ($ 2,500.00) en concepto de aumento, sean destinados para la contratación local de un asistente administrativo.
 
@@ -65,7 +65,7 @@ COMUNÍQUESE Y PUBLÍQUESE
 
 Abg. FREDIS ALONSO CERRATO V.
 
-Secretario de Estado en el Despacho de Desarrollo Económico JOEL EDUARDO SALINAS LANZA Secretario General Secretaría de Estado los Despachos de Agricultura y Ganadería SAG-PRONADERS FE DE ERRATA República de Honduras en el Diario Oficial “La Gaceta”, Edición No.36,300, de fecha 5 de agosto del 2023, específicamente en la publicación del Acuerdo DP-006-2023 aprobado el día 13 de Junio 2023, misma que contiene el REGLAMENTO ADMINISTRATIVO DE CAJA CHICA DEL PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS), y por un error involuntario, se agregó en el sumario del Diario Oficial La Gaceta página A.1 segunda columna, como en el título del mismo en la página A.3 segunda columna “PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERS”, el cual debe ser enmendado con la correcta literalidad y leerse de la siguiente manera: PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SAG/PRONADERS.
+Secretario de Estado en el Despacho de Desarrollo Económico JOEL EDUARDO SALINAS LANZA Secretario General Secretaría de Estado los Despachos de Agricultura y Ganadería SAG-PRONADERS FE DE ERRATA República de Honduras en el Diario Oficial “La Gaceta”, Edición No. 36,300, de fecha 5 de agosto del 2023, específicamente en la publicación del Acuerdo DP-006-2023 aprobado el día 13 de Junio 2023, misma que contiene el REGLAMENTO ADMINISTRATIVO DE CAJA CHICA DEL PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS), y por un error involuntario, se agregó en el sumario del Diario Oficial La Gaceta página A.1 segunda columna, como en el título del mismo en la página A.3 segunda columna “PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERS”, el cual debe ser enmendado con la correcta literalidad y leerse de la siguiente manera: PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SAG/PRONADERS.
 
 Refrendado por Abg. Carlos Roberto Molina Gerente Legal PRONADERS Msc. Diego Andrés Umanzor Saravia Director PRONADERS Avance Próxima Edición
 

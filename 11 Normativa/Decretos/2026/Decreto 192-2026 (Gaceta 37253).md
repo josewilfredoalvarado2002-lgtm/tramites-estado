@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Decretos Nos. 183-2026, 189-2026, 192-2026, 195-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260923-37253/download"
 extraido: "2026-11-09"
-huella: "f3fd3531755a6601"
+huella: "443b319d03a0c70d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 192-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, en su Artículo 59, establece que la persona humana es el fin supremo de la sociedad y del Estado y que la dignidad del ser humano es inviolable.
 
-CONSIDERANDO: Que el Instituto Nacional de Jubilaciones y Pensiones de los Empleados y Funcionarios del Poder Ejecutivo (INJUPEMP), creado mediante el Decreto Legislativo No.357-2013, es una entidad de previsión social cuya misión consiste en garantizar la protección económica y el bienestar de sus afiliados: Empleados activos, jubilados y pensionados del sector público hondureño.
+CONSIDERANDO: Que el Instituto Nacional de Jubilaciones y Pensiones de los Empleados y Funcionarios del Poder Ejecutivo (INJUPEMP), creado mediante el Decreto Legislativo No. 357-2013, es una entidad de previsión social cuya misión consiste en garantizar la protección económica y el bienestar de sus afiliados: Empleados activos, jubilados y pensionados del sector público hondureño.
 
 CONSIDERANDO: Que en el contexto económico actual, marcado por la inflación sostenida, las secuelas de la pandemia de COVID-19 y la reducción del poder adquisitivo de los salarios y pensiones, un número significativo de afiliados ha enfrentado dificultades para cumplir oportunamente con las cuotas de sus préstamos personales, generando la acumulación de intereses moratorios que convierten la deuda en una carga insostenible.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que conforme al Artículo 205 Atribución 1) de la Constitución d
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 0185-ARSA-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250929-36954/download"
 extraido: "2026-11-09"
-huella: "0ef050e2ad095e92"
+huella: "5a6935be12c60543"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0185-ARSA-2025
@@ -59,7 +59,7 @@ LA SUSCRITA COMISIONADA PRESIDENTA DE
 
 LA AGENCIA DE REGULACIÓN SANITARIA, en uso de las facultades de que está investida y en aplicación a los Artículos 145 y 146 de la Constitución de la República;
 
-116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 1, 4, y 225, del Código de Salud; Artículo 78 del Reglamento para el Control Sanitario de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario; Artículo 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 1, 2, 3 inciso a), b), e), i), j), k) y l), 4, 5, 8, 9 y 10 del PCM No. 032-2017, reformado mediante PCM- 013-2020, de la Agencia de Regulación Sanitaria.
+116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41, 123, 124 y 150 de la Ley de Procedimiento Administrativo; 1, 2, 3, 6 y 7 de la Ley de Simplificación Administrativa; 1, 4, y 225, del Código de Salud; Artículo 78 del Reglamento para el Control Sanitario de Dispositivos Médicos y Otros Dispositivos de Interés Sanitario; Artículo 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 1, 2, 3 inciso a), b), e), i), j), k) y l), 4, 5, 8, 9 y 10 del PCM No. 032-2017, reformado mediante PCM-013-2020, de la Agencia de Regulación Sanitaria.
 
 ACUERDA:
 

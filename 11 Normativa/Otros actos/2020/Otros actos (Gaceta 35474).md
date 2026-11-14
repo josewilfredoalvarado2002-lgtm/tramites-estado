@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201231-35474/download"
 extraido: "2026-11-14"
-huella: "0960af05bd91d8b2"
+huella: "f0c9b9fa21a414ee"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -27,7 +27,7 @@ huella: "0960af05bd91d8b2"
 
 ## Texto
 
-DECRETO EJECUTIVO NÚMERO PCM- 007-2020 EL PRESIDENTE DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+DECRETO EJECUTIVO NÚMERO PCM-007-2020 EL PRESIDENTE DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 numeral 11 de la Constitución de la República de Honduras, corresponde al Presidente de la República, la Administración General del Estado, siendo entre otras sus atribuciones la de emitir Acuerdos, Decretos y expedir Reglamentos y Resoluciones conforme a la Ley.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 14 de la Ley General de la Adm
 
 CONSIDERANDO: Que los Actos Administrativos de cualquier órgano del Estado que deban producir efectos jurídicos de carácter general serán publicados en el Diario Oficial “La Gaceta” y su validez se regular conforme a lo dispuesto en la Constitución de la República.
 
-POR TANTO, En aplicación de los Artículos 245 numerales 1, 2, 11 y 45; 252, 321 y 323 de la Constitución de la República; 3, 14, numeral 1), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266- 2013; Decreto Legislativo No. 94-83 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 1983; Decreto Legislativo Número 194-84 publicado en fecha 28 de febrero de 1985 y su reforma mediante el Decreto Legislativo Número 94-85 de fecha 28 de junio de 1985; Artículo 1 y 6 del Decreto Legislativo No. 144-2007 publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2007 que comprende la Ley para la Producción y Consumo de Biocombustibles;
+POR TANTO, En aplicación de los Artículos 245 numerales 1, 2, 11 y 45; 252, 321 y 323 de la Constitución de la República; 3, 14, numeral 1), 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266-2013; Decreto Legislativo No. 94-83 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 1983; Decreto Legislativo Número 194-84 publicado en fecha 28 de febrero de 1985 y su reforma mediante el Decreto Legislativo Número 94-85 de fecha 28 de junio de 1985; Artículo 1 y 6 del Decreto Legislativo No. 144-2007 publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2007 que comprende la Ley para la Producción y Consumo de Biocombustibles;
 
 Decreto Ejecutivo Número PCM 048-2017 de fecha 7 de agosto de 2017; Acuerdo 1276 publicado en fecha 26 de julio de 1985 y demás aplicables.
 
@@ -73,7 +73,7 @@ En consecuencia, la Secretaría en el Despacho de Energía
 
 ARTÍCULO 2. FACULTADES. Designar a la Secretaría en el Despacho de Energía (SEN) como:
 
-a) Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos , conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad; y,
+a) Institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; asimismo, lo relacionado al desarrollo de especificaciones técnicas y jurídicas mínimas para la construcción, instalación, ampliación, operación y comercialización de estaciones de servicio, tanques de almacenamiento y todas las figuras establecidas de la cadena de comercialización de hidrocarburos, con el fin de garantizar su operación dentro de las máximas condiciones de seguridad y funcionalidad; y,
 
 b) Institución responsable en todo lo relativo al fomento, promoción, producción, comercialización, distribución y almacenaje de los biocombustibles, asumiendo las atribuciones en dicha materia desarrolladas en la Ley para la Producción y Consumo de Biocombustibles, contenida en el Decreto Legislativo No. 144-2007 publicado en el Diario Oficial “La Gaceta” en fecha 31 de diciembre de 2007 y sus reformas.
 
@@ -123,7 +123,7 @@ LISANDRO ROSALES BANEGAS SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXT
 
 NICOLE MARRDER AGUILAR SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO.
 
-NELSON JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) MAX ALEJANDRO GONZALES SABILLON SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES MARIA ANDREA MATAMOROS SECRETARIA DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM- 102-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+NELSON JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) MAX ALEJANDRO GONZALES SABILLON SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES MARIA ANDREA MATAMOROS SECRETARIA DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM-102-2020 EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que de conformidad al Artículo 87 de la Constitución de la República, las cárceles son establecimientos de seguridad y defensa social. Se procurará en ellas la rehabilitación del recluido y su preparación para el trabajo.
 
@@ -139,9 +139,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que La Comisión Interventora tiene las facultades y atribuciones consignadas en el Artículo 11 numerales 1 al 14 de Ley del Sistema Penitenciario Nacional.
 
-CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-008-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del año 2020 Edición No.
-
-35,198, se ratifica para el presente Ejercicio Fiscal, el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL declarado mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” del 16 de diciembre de 2019, manteniendo la Comisión Interventora su período de vigencia hasta el 16 de junio del 2020.
+CONSIDERANDO: Que en virtud del Decreto Ejecutivo Número PCM-008-2020, publicado en el Diario Oficial “La Gaceta” en fecha 12 de marzo del año 2020 Edición No. 35,198, se ratifica para el presente Ejercicio Fiscal, el ESTADO DE EMERGENCIA EN EL SISTEMA PENITENCIARIO NACIONAL declarado mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” del 16 de diciembre de 2019, manteniendo la Comisión Interventora su período de vigencia hasta el 16 de junio del 2020.
 
 CONSIDERANDO: Que en virtud del Decreto Legislativo No. 36-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de junio del año 2020 Edición No. 35,279, en la legislación temporal del Artículo 5, ordena al Instituto Nacional Penitenciario (I.N.P.), implementar todas las Medidas de Bioseguridad en todos los Centros Penitenciarios del País, acondicionando los espacios necesarios para aquellas personas privadas de libertad.
 
@@ -149,7 +147,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 87, 245 numerales 2 y 11, 247, 252, 321 y 323 de la Constitución de la República; Artículos 7, 11, 14 numeral 4), 17, 18, 20, 98, 99, 100, 101, 102, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Decreto Legislativo No. 64-2012 contentivo de la Ley del Sistema Penitenciario Nacional;
 
-Decreto Ejecutivo Número PCM-061-2017, Decreto Ejecutivo Número PCM-068-2019, Decreto Ejecutivo Número PCM- 008-2020; y, Resolución No. 20-2014 emitida por el Consejo Nacional de Defensa y Seguridad.
+Decreto Ejecutivo Número PCM-061-2017, Decreto Ejecutivo Número PCM-068-2019, Decreto Ejecutivo Número PCM-008-2020; y, Resolución No. 20-2014 emitida por el Consejo Nacional de Defensa y Seguridad.
 
 DECRETA:
 
@@ -261,7 +259,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 JUAN ORLANDO HERNÁNDEZ ALVARADO PRESIDENTE DE LA REPÚBLICA CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACIÓN GENERAL DE GOBIERNO EBAL JAIR DÍAZ LUPIAN SECRETARIO DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA HECTOR LEONEL AYALA ALVARENGA SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN LISANDRO ROSALES BANEGAS SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL ZOILA PATRICIA CRUZ CERRATO SECRETARIA DE ESTADO EN LOS DESPACHOS DE DESARROLLO E INCLUSIÓN SOCIAL MARÍA ANTONIA RIVERA SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO ROBERTO ANTONIO PINEDA RODRÍGUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y SERVICIOS PÚBLICOS JULIAN PACHECO TINOCO SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD NACIONAL FREDY SANTIAGO DIAZ ZELAYA SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL ALBA CONSUELO FLORES SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD ARNALDO BUESO HERNÁNDEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN OLVIN ANIBAL VILLALOBOS VELÁSQUEZ SECRETARIO DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL, POR LEY MAURICIO GUEVARA PINTO SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERIA ELVIS YOVANNI RODAS FLORES SECRETARIO DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE MARCO ANTONIO MIDENCE MILLA SECRETARIO DE ESTADO EN EL DESPACHO DE FINANZAS KARLA EUGENIA CUEVA AGUILAR SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS.
 
-ROBERTO ANTONIO ORDOÑEZ WOLFOVICH SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA NICOLE MARRDER AGUILAR SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO NELSON JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) MAX ALEJANDRO GONZALES SABILLON SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES MARIA ANDREA MATAMOROS SECRETARIA DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM- 152-2020 EL PRESIDENTE DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
+ROBERTO ANTONIO ORDOÑEZ WOLFOVICH SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA NICOLE MARRDER AGUILAR SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO NELSON JAVIER MARQUEZ EUCEDA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS) MAX ALEJANDRO GONZALES SABILLON SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES MARIA ANDREA MATAMOROS SECRETARIA DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Poder Ejecutivo DECRETO EJECUTIVO NÚMERO PCM-152-2020 EL PRESIDENTE DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTADO,
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 5 determina que el Gobierno de la República debe sustentarse en los principios de la soberanía popular, la autodeterminación de los pueblos y la democracia participativa, de los cuales se derivan la integración nacional, que implica participación de todos los sectores políticos en la Administración Pública, la estabilidad política y la paz social.
 
@@ -275,13 +273,11 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículo 101 y 102, reformados por el Decreto Legislativo No. 266-2013, indican que: “Dentro del plazo que señale el Poder Ejecutivo, la Comisión Interventora rendirá su informe de evaluación en el que se recomendarán las medidas que se estimen adecuadas para mejorar la situación administrativa y financiera de la entidad intervenida. El Poder Ejecutivo, a la vista del informe de la Comisión Interventora, dictará las decisiones que sean necesarias, deduciendo la responsabilidad a que haya lugar…”
 
-CONSIDERANDO: Que mediante Acuerdo No. 031- 2005 del 27 de julio de 2005, el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la Ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230- 2005; consecuentemente mediante Decreto Legislativo No.
-
-233-2005, publicado en el Diario Oficial “La Gaceta” en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio. Posteriormente y mediante Decreto Ejecutivo Número PCM-006-2014 de fecha 06 de marzo del 2014, publicado en el Diario Oficial “La Gaceta” el 10 de abril del 2014 Edición No. 33,402 y de conformidad al Artículo 3, la Cuenta del Desafío del Milenio Honduras (por sus siglas en inglés, MCA-Honduras), adquiere el nombre de Inversión Estratégica de Honduras (INVEST-H).
+CONSIDERANDO: Que mediante Acuerdo No. 031-2005 del 27 de julio de 2005, el Poder Ejecutivo ratifica la suscripción del Convenio del Desafío del Milenio, celebrado en la Ciudad de Washington, D.C., el 13 de junio del 2005, aprobado por el Congreso Nacional según Decreto Legislativo No. 230-2005; consecuentemente mediante Decreto Legislativo No. 233-2005, publicado en el Diario Oficial “La Gaceta” en fecha 21 de septiembre de 2005, se crea la Ley de la Cuenta del Desafío del Milenio. Posteriormente y mediante Decreto Ejecutivo Número PCM-006-2014 de fecha 06 de marzo del 2014, publicado en el Diario Oficial “La Gaceta” el 10 de abril del 2014 Edición No. 33,402 y de conformidad al Artículo 3, la Cuenta del Desafío del Milenio Honduras (por sus siglas en inglés, MCA-Honduras), adquiere el nombre de Inversión Estratégica de Honduras (INVEST-H).
 
 CONSIDERANDO: Que mediante Decreto Legislativo No. 16-2017, publicado en el Diario Oficial “La Gaceta” en fecha 30 de junio de 2017, en el Artículo 1 se amplía de forma indefinida la Ley del Desafío de la Cuenta del Milenio (MCA-Honduras) y en el párrafo segundo adscribe a Inversión Estratégica de Honduras (INVEST-H) a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno.
 
-Consecuentemente mediante Decreto Ejecutivo Número PCM- 009-2018, publicado en el Diario Oficial “La Gaceta” el 23 de marzo del 2018 Edición No.34,600 y su reforma mediante Decreto Ejecutivo Número PCM-025-2018, en su Artículo 1 párrafo segundo, se indica que MCA-Honduras/INVEST-H (Programa Cuenta del Milenio) pasa a ser coordinada por la Secretaría de Estado en el Despacho de Coordinación General de Gobierno que mantendrán su independencia funcional y administrativa de conformidad a sus Leyes respectivas.
+Consecuentemente mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” el 23 de marzo del 2018 Edición No. 34,600 y su reforma mediante Decreto Ejecutivo Número PCM-025-2018, en su Artículo 1 párrafo segundo, se indica que MCA-Honduras/INVEST-H (Programa Cuenta del Milenio) pasa a ser coordinada por la Secretaría de Estado en el Despacho de Coordinación General de Gobierno que mantendrán su independencia funcional y administrativa de conformidad a sus Leyes respectivas.
 
 CONSIDERANDO: Que la Sociedad Civil, ha venido acompañando la gestión acertada que durante estos años realizó Inversión Estratégica de Honduras (INVEST-H), desempeñado con mucho empeño y dedicación su papel de veedora en las diferentes acciones requeridas producto de la Pandemia del COVID-19.
 
@@ -295,7 +291,7 @@ POR TANTO;
 
 En uso de las facultades legales establecidas en los Artículos 5, 245 numerales 2, 11, 19 y 45 y demás aplicables de la Constitución de la República; Artículos 7,11,18,19, 22 numerales 9) y 12), 98, 99, 100, 101, 102, 116, 117 y 119 de la Ley General de la Administración Pública reformados por el Decreto Legislativo No. 266-2013; Decreto Legislativo No. 230-2005, Decreto Legislativo No. 233-2005, Decreto Legislativo No. 16-2017; Decretos Ejecutivos Números:
 
-PCM-006-2014, PCM-009-2018 reformado por el PCM- 025-2018, PCM-071-2020, PCM-080-2020; y, Acuerdos Ejecutivos Nos. 031-2005 y 079-2020.
+PCM-006-2014, PCM-009-2018 reformado por el PCM-025-2018, PCM-071-2020, PCM-080-2020; y, Acuerdos Ejecutivos Nos. 031-2005 y 079-2020.
 
 DECRETA:
 
@@ -305,7 +301,7 @@ ARTÍCULO 1.- Prorrogar hasta el treinta uno (31) de diciembre del año dos mil 
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 3 adicionando los numerales 7, 8 y 9 del Decreto Ejecutivo Número PCM-071- 2020, publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2020, Edición No.35,323, el cual se leerá de la siguiente manera:
+ARTÍCULO 2.- Reformar el Artículo 3 adicionando los numerales 7, 8 y 9 del Decreto Ejecutivo Número PCM-071-2020, publicado en el Diario Oficial “La Gaceta” en fecha 24 de julio de 2020, Edición No. 35,323, el cual se leerá de la siguiente manera:
 
 “ARTÌCULO 3.- Establecer como objetivos primordiales para la gestión de la Comisión Interventora, los siguientes:
 

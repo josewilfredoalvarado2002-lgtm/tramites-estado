@@ -8,10 +8,10 @@ gaceta_numero: 37281
 gaceta_fecha: "2026-10-29"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37281 (2026-10-29)|La Gaceta 37281]]"
 paginas: "A. 1 - 6"
-sumario: "Decretos Nos. 230-2026, 234-2026UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFORCertificación"
+sumario: "Decretos Nos. 230-2026, 234-2026; UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFOR: Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261029-37281/download"
 extraido: "2026-11-09"
-huella: "e904eb4f29ce7414"
+huella: "3ac9b5e7339f7559"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 230-2026
@@ -23,7 +23,7 @@ huella: "e904eb4f29ce7414"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37281 (2026-10-29)\|La Gaceta 37281]] del 2026-10-29 |
 | Páginas | A. 1 - 6 |
-| Según el sumario de La Gaceta | Decretos Nos. 230-2026, 234-2026UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFORCertificación |
+| Según el sumario de La Gaceta | Decretos Nos. 230-2026, 234-2026; UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALESUNACIFOR: Certificación |
 
 ## Texto
 
@@ -39,9 +39,9 @@ CONSIDERANDO: Que los principios generales del Derecho Administrativo relativos 
 
 CONSIDERANDO: Que resulta necesario establecer un mecanismo transitorio y excepcional que permita garantizar el funcionamiento administrativo mínimo indispensable del Consejo Nacional Electoral (CNE) ante situaciones extraordinarias que afecten temporalmente su integración plena, evitando vacíos funcionales que puedan comprometer la continuidad operativa de dicho órgano constitucional, sin que ello implique modificación alguna de su estructura orgánica, alteración de las disposiciones permanentes contenidas en la Ley Electoral, ni afectación a las competencias sustantivas que constitucionalmente le corresponden.
 
-CONSIDERANDO: Que la prohibición general contenida en el Artículo 3 del Decreto Legislativo No.86-2026, relativa a la movilización, traslado o destrucción de material electoral, puede impedir la ejecución de actuaciones administrativas necesarias para la apertura y desmontaje de las maletas electorales, así como para la clasificación, aprovechamiento y disposición final de sus componentes, aun cuando estos no se encuentren vinculados con requerimientos de custodia especial.
+CONSIDERANDO: Que la prohibición general contenida en el Artículo 3 del Decreto Legislativo No. 86-2026, relativa a la movilización, traslado o destrucción de material electoral, puede impedir la ejecución de actuaciones administrativas necesarias para la apertura y desmontaje de las maletas electorales, así como para la clasificación, aprovechamiento y disposición final de sus componentes, aun cuando estos no se encuentren vinculados con requerimientos de custodia especial.
 
-CONSIDERANDO: Que mediante Decreto No.86-2026, publicado en el Diario Oficial “La Gaceta” el 22 de mayo de 2026, el Congreso Nacional estableció un régimen especial, transitorio y excepcional de quorum mínimo de funcionamiento del Pleno del Consejo Nacional Electoral (CNE), permitiendo su instalación con dos (2) Consejeros Propietarios y un (1) Suplente, exclusivamente para la atención de asuntos de carácter administrativo.
+CONSIDERANDO: Que mediante Decreto No. 86-2026, publicado en el Diario Oficial “La Gaceta” el 22 de mayo de 2026, el Congreso Nacional estableció un régimen especial, transitorio y excepcional de quorum mínimo de funcionamiento del Pleno del Consejo Nacional Electoral (CNE), permitiendo su instalación con dos (2) Consejeros Propietarios y un (1) Suplente, exclusivamente para la atención de asuntos de carácter administrativo.
 
 CONSIDERANDO: Que el Artículo 5 del citado Decreto estableció una vigencia de dos (2) meses contados a partir de su publicación, plazo que, atendiendo a la persistencia de la causa que dio origen a la falta de integración plena del Pleno del Consejo Nacional Electoral (CNE), ha resultado insuficiente para garantizar de manera continua el funcionamiento administrativo mínimo indispensable de dicho órgano constitucional.
 
@@ -49,11 +49,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 3 y 4 del Decreto No.86-2026, dado a los 19 días del mes de mayo y publicado en el Diario Oficial “La Gaceta” en fecha 22 de mayo de 2026, Edición No.37,148; el cual se leerá de la siguiente forma:
+ARTÍCULO 1.- Reformar los artículos 3 y 4 del Decreto No. 86-2026, dado a los 19 días del mes de mayo y publicado en el Diario Oficial “La Gaceta” en fecha 22 de mayo de 2026, Edición No. 37,148; el cual se leerá de la siguiente forma:
 
 “ARTÍCULO 3.- ÁMBITO MATERIAL.
 
@@ -85,7 +85,7 @@ Lo dispuesto en el presente Artículo no altera la organización interna ni del 
 
 ARTÍCULO 3.- En virtud de la destitución de Magistrados del Tribunal de Justicia Electoral (TJE) mediante Juicios Políticos celebrados por el Congreso Nacional de la República y ante la falta de nombramiento de sus sustitutos a la fecha de manera excepcional y provisional mientras se produce la designación correspondiente el Tribunal de Justicia Electoral (TJE) podrá adoptar las decisiones que correspondan al Pleno Jurisdiccional con el voto unánime de los miembros, de los dos (2) miembros que actualmente se encuentran en funciones y estén presentes en la respectiva sesión.
 
-Lo dispuesto en el presente Artículo no altera la organización interna del Tribunal de Justicia Electoral (TJE) establecida mediante Acta número TJE- 11-SO-2011-01-2024, de fecha 17 de septiembre del 2024.
+Lo dispuesto en el presente Artículo no altera la organización interna del Tribunal de Justicia Electoral (TJE) establecida mediante Acta número TJE-11-SO-2011-01-2024, de fecha 17 de septiembre del 2024.
 
 #### Artículo 4
 

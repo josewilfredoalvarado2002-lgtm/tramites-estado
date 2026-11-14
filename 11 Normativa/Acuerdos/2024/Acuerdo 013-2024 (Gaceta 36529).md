@@ -11,7 +11,7 @@ paginas: "A. 7 - 40"
 sumario: "Acuerdos Nos. 006-2024, 013-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240509-36529/download"
 extraido: "2026-11-14"
-huella: "1f62d4e569aa06d9"
+huella: "d6813e47d77901ab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 013-2024
@@ -61,13 +61,13 @@ POR TANTO:
 
 La Dirección Ejecutiva, en uso de las atribuciones que le confiere el artículo 340 de la Constitución de la República,
 
-Artículos 1, 2, 3, 11, 18, 19, 48, 70, 72, 77, 78, 90, 91, 96, 126, 127, 128, 129,130,131y 132 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto Legislativo Nº98-2007); Artículos 1, 2 ,3, 4, 6, 7, 8, 9, 96, 97, 99, 100, 131,133, 134, 135, 136, 137, 138, 139, 152, 153, 154, 156, 166,169, 170,172, 173, 183, 184,189,192, 195, 196,197,
+Artículos 1, 2, 3, 11, 18, 19, 48, 70, 72, 77, 78, 90, 91, 96, 126, 127, 128, 129,130,131y 132 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto Legislativo Nº98-2007); Artículos 1, 2,3, 4, 6, 7, 8, 9, 96, 97, 99, 100, 131,133, 134, 135, 136, 137, 138, 139, 152, 153, 154, 156, 166,169, 170,172, 173, 183, 184,189,192, 195, 196,197,
 
 200.458 al 464 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Acuerdo Ejecutivo Nº31- 2010); Acuerdo N°026A-2013, Acuerdo N°015-2020 y el Acuerdo N°009-2023.
 
 ACUERDA:
 
-PRIMERO: DETERMINAR EL NUEVO PRECIO BASE PARA LA COMERCIALIZACIÓN DE LA MADERA DEL BOSQUE DE PINO PUESTO EN YARDA, DE ÁREAS DE TENENCIA NACIONAL, A S I G N A D A S A L A S O R G A N I Z A C I O N E S AGROFORESTALES BENEFICIARIAS DE LA FORESTERÍA COMUNITARIA PARA EL AÑO 2024- 2025, DE ACUERDO A LOS SIGUIENTES PROMEDIOS Y CLASES DIAMÉTRICAS:
+PRIMERO: DETERMINAR EL NUEVO PRECIO BASE PARA LA COMERCIALIZACIÓN DE LA MADERA DEL BOSQUE DE PINO PUESTO EN YARDA, DE ÁREAS DE TENENCIA NACIONAL, ASIGNADAS A LAS ORGANIZACIONES AGROFORESTALES BENEFICIARIAS DE LA FORESTERÍA COMUNITARIA PARA EL AÑO 2024-2025, DE ACUERDO A LOS SIGUIENTES PROMEDIOS Y CLASES DIAMÉTRICAS:
 
 Precio Base de la madera de pino, puesta en yarda (L./M³) Clase Diamétrica (cm/ pulg.) (L./M³) 10-23 cm. (4-9 pulg.) L.3,720.00 24-29.9/ cm. (10-12/ pulg.) L.4,030.00 ≥ 30 cm. ( ≥12 pulg.) L.4,210.00 Otras variables:
 
@@ -111,7 +111,7 @@ Tegucigalpa, Municipio de Distrito Central a los veintiún días de diciembre de
 
 Resultando:
 
-1. Que la Comisión Reguladora de Energía Eléctrica (CREE) cuenta con las facultades administrativas suficientes para asegurar la capacidad técnica necesaria para el cumplimiento de sus objetivos, conforme con lo establecido en la Ley General de la Industria Eléctrica (LGIE) contenida en el Decreto Legislativo No. 404- 2013, de fecha 20 de mayo de 2014.
+1. Que la Comisión Reguladora de Energía Eléctrica (CREE) cuenta con las facultades administrativas suficientes para asegurar la capacidad técnica necesaria para el cumplimiento de sus objetivos, conforme con lo establecido en la Ley General de la Industria Eléctrica (LGIE) contenida en el Decreto Legislativo No. 404-2013, de fecha 20 de mayo de 2014.
 
 2. Que mediante Decreto Legislativo No. 61-2020 se estableció que el personal que preste sus servicios en la Comisión se regirá por las normas de personal que apruebe su Directorio de Comisionados.
 
@@ -123,7 +123,7 @@ Resultando:
 
 Considerando:
 
-Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE) y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica (CREE) es un órgano con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 

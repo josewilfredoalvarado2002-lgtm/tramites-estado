@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200408-35221/download"
 extraido: "2026-11-14"
-huella: "df4c1d97aa6e0004"
+huella: "cfae9b3fe35f5f1d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -31,7 +31,7 @@ El infrascrito, Secretario General de la Secretaría de Estado de Gobernación, 
 
 La Resolución que literalmente dice: “RESOLUCIÓN No. 2277-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinticinco de noviembre del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-18062019- 459, por la Abogada KAREN DOLORES VELASQUEZ GOMEZ, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, con domicilio en el municipio de Santa Cruz de Yojoa, departamento de Cortés aldea de Peña Blanca en la colonia Emanuel; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciocho de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-18062019-459, por la Abogada KAREN DOLORES VELASQUEZ GOMEZ, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, con domicilio en el municipio de Santa Cruz de Yojoa, departamento de Cortés aldea de Peña Blanca en la colonia Emanuel; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -39,7 +39,7 @@ En fecha dieciocho de junio del dos mil diecinueve, compareció ante esta Secret
 
 MOTIVACIÓN FÁCTICA Y JURÍDICA
 
-PRIMERO: Resulta que en el caso que nos ocupa, la petición formulada por la impetrante está contraída a pedir la Personalidad Jurídica, de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, para lo cual, acompañó los documentos que se requieren para casos como el indicado y que a nuestro juicio, justifican la petición por él f o r m u l a d a .
+PRIMERO: Resulta que en el caso que nos ocupa, la petición formulada por la impetrante está contraída a pedir la Personalidad Jurídica, de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, para lo cual, acompañó los documentos que se requieren para casos como el indicado y que a nuestro juicio, justifican la petición por él formulada .
 
 SEGUNDO: En este sentido, y según el análisis realizado, se logra apreciar que corren agregados a los folios tres, cinco, seis al siete, ocho al nueve, diez al quince, dieciocho, veinte al veintinueve, treinta y cinco, treinta y seis, (3, 5, 6 al 7, 8 al 9, 10 al 15, 18, 20 al 29, 35, 36), los documentos referentes a carta poder, autorización al presidente para la contratación de un abogado, nombramiento y elección de Junta Directiva, certificación de acta de constitución, discusión y aprobación de estatutos, enunciados en su respectivo orden, así como también, las copias de las tarjetas de identidad de cada uno de los miembros que integran su Junta Directiva.
 
@@ -55,7 +55,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA EMANUEL, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISION
 

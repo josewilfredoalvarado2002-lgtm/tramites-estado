@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Decretos Nos. 11-2021, 15-2021, 19-2021, 28-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210518-35602/download"
 extraido: "2026-11-14"
-huella: "db44bfb79318913b"
+huella: "0b916c1d566aca08"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 28-2021
@@ -35,13 +35,13 @@ CONSIDERANDO: Que el Artículo 205 numeral 32 de la Constitución de la Repúbli
 
 CONSIDERANDO: Que es necesario reorientar el presupuesto de la Secretaría de Estado en el Despacho de Seguridad Nacional, para realizar el traslado presupuestario, con el objeto de cubrir el pago de sueldos y colaterales del personal bajo la modalidad de contrato, con la cual se logrará la eficacia en el cumplimiento de su mandato constitucional y los objetivos estratégicos y operativos.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.182-2020 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 182-2020 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -59,7 +59,7 @@ INST. FTE ORG PG SRP PY ACT/OBRA OBJETO DESCRIPCIÓN AUMENTO
 
 #### Artículo 3-
 
-ARTÍCULO 3-. Reformar los artículos 81, 130, 149 y 150 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto Legislativo No.182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No.35,468, y reformado mediante el Decreto Legislativo No.18-2021, de fecha 29 de Abril del 2021 y publicado en el Diario Oficial “La Gaceta” el 30 de Abril del 2021, Edición No.35,587, los cuales deberán leerse de la siguiente manera:
+ARTÍCULO 3-. Reformar los artículos 81, 130, 149 y 150 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto Legislativo No. 182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No. 35,468, y reformado mediante el Decreto Legislativo No. 18-2021, de fecha 29 de Abril del 2021 y publicado en el Diario Oficial “La Gaceta” el 30 de Abril del 2021, Edición No. 35,587, los cuales deberán leerse de la siguiente manera:
 
 “ARTÍCULO 81.- La contratación… El contratado… Con el fin… Se exceptúan… Se prohíbe, … Asimismo, se exceptúa… Las prohibiciones… Se exceptúa de esta norma a las instituciones que estén ejecutando recursos con el propósito de mitigar los efectos de la pandemia COVID-19 y las tormentas tropicales ETA e IOTA.
 

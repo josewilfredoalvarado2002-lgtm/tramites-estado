@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdos Ministeriales Nos. 01-2023, 02-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230830-36321/download"
 extraido: "2026-11-14"
-huella: "0f5c643db344662d"
+huella: "5eda9b601d9d88aa"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL 02-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Gobierno de la República ha asumido el compromiso de const
 
 CONSIDERANDO: Que una de las áreas prioritarias del marco institucional de la Política Nacional de la Mujer de Honduras, comprende la planificación pública y los presupuestos nacionales sensibles al género.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 157- 2022 contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, en el Artículo 9, reconoce que el Presupuesto de Género es una herramienta democrática de acción afirmativa en la asignación de recursos destinados para poner en marcha acciones para cerrar la brecha de discriminación entre hombres y mujeres garantizando que los fondos sean empleados de manera ecuánime desde la óptica de género.
+CONSIDERANDO: Que el Decreto Legislativo No. 157-2022 contiene el Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, en el Artículo 9, reconoce que el Presupuesto de Género es una herramienta democrática de acción afirmativa en la asignación de recursos destinados para poner en marcha acciones para cerrar la brecha de discriminación entre hombres y mujeres garantizando que los fondos sean empleados de manera ecuánime desde la óptica de género.
 
 El Estado para poder lograr la igualdad de oportunidades entre hombres y mujeres impulsará de manera transversal, la implementación de la Política Nacional de la Mujer y el Plan Nacional Contra la Violencia hacia las Mujeres, a través de la incorporación de la perspectiva de género en el diseño, implementación y evaluación de políticas, planes y presupuestos de la Administración Pública. Para tal efecto y en cumplimiento al compromiso de la Presidenta Constitucional de la República, señora Xiomara Castro Sarmiento, de defender todos los derechos de las mujeres y a lo contenido en el Plan Bicentenario de Gobierno para Refundar Honduras, específicamente en el Pilar 5 Género:
 
@@ -43,9 +43,7 @@ Nada Sobre Nosotras, Sin Nosotras, a fin de reducir las brechas de desigualdad y
 
 CONSIDERANDO: El Presupuesto Sensible al Género (PSG), se ha transformado en una herramienta reconocida a nivel internacional para apoyar la implementación de compromisos que ayuden a alcanzar la igualdad de género y el respeto de los derechos de las mujeres. El concepto se aprobó en la Cuarta Conferencia Mundial sobre la Mujer de las Naciones Unidas y de la Plataforma de Acción de Beijing de 1995.
 
-CONSIDERANDO: Que el Artículo 13 del Decreto No.
-
-157-2022 mandata que para dar seguimiento al Presupuesto Municipal y al cinco (5%) se conformará la Mesa Municipal de Presupuesto Sensible al Género, integrada por el alcalde municipal, tesorería, Oficina Municipal de la Mujer (OMM), Organizaciones de Mujeres y la Comisión Ciudadana de Transparencia, la que será liderada por el alcalde o alcaldesa municipal y la coordinadora de la Oficina Municipal de la Mujer (OMM).
+CONSIDERANDO: Que el Artículo 13 del Decreto No. 157-2022 mandata que para dar seguimiento al Presupuesto Municipal y al cinco (5%) se conformará la Mesa Municipal de Presupuesto Sensible al Género, integrada por el alcalde municipal, tesorería, Oficina Municipal de la Mujer (OMM), Organizaciones de Mujeres y la Comisión Ciudadana de Transparencia, la que será liderada por el alcalde o alcaldesa municipal y la coordinadora de la Oficina Municipal de la Mujer (OMM).
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), ha desarrollado distintos instrumentos de políticas públicas para impulsar la progresiva consolidación de la institucionalidad de género en el Estado, destacando por su importancia la asignación de recursos municipales para la implementación de la Política Nacional de la Mujer.
 
@@ -123,9 +121,7 @@ Artículo 5- Disposiciones Generales:
 
 1. El Despacho de la Ministra de la Secretaría de Asuntos de la Mujer, solicitará al Alcalde Municipal la instalación de la Mesa Municipal de Presupuestos Sensibles al Género, para dar cumplimiento a lo contenido en el Artículo 2 de este Acuerdo.
 
-2. En virtud de lo establecido en el Decreto Legislativo N°.
-
-157-2022 relativo al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, la vigencia del presente Acuerdo Ministerial será hasta el 31 de diciembre del presenta año, contado a partir de la fecha de su aprobación, el que podrá ser renovado año con año en relación a la norma que le dio nacimiento.
+2. En virtud de lo establecido en el Decreto Legislativo N°. 157-2022 relativo al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, la vigencia del presente Acuerdo Ministerial será hasta el 31 de diciembre del presenta año, contado a partir de la fecha de su aprobación, el que podrá ser renovado año con año en relación a la norma que le dio nacimiento.
 
 3. El presente Acuerdo Ministerial es de ejecución inmediata y deberá publicarse en el Diario Oficial “LA GACETA”.
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ejecutivo No. CNE-003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220120-35827/download"
 extraido: "2026-11-14"
-huella: "43554ef9c0598666"
+huella: "28efe81572f4131a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. CNE-003-2021
@@ -31,7 +31,7 @@ EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO: Que mediante el artículo 28 de la Ley Fundamental de Educación se crea el Consejo Nacional de Educación como el órgano responsable de dar seguimiento a la política educativa nacional, de articular horizontal y verticalmente el Sistema Educativo Nacional.
 
-CONSIDERANDO: Que en el amparo del Plan Estratégico del Sector Educativo 2018-2030, el Consejo Nacional de Educación impulsó la política de Desarrollo Profesional Docente, misma que fue aprobada por éste en fecha quince de noviembre del año 2021, según consta en acta de sesión ordinaria CNE-003- 2021, la política en referencia establece en su marco de resultados impulsar los Lineamientos Estratégicos para la Innovación y Mejora del Prácticum Docente.
+CONSIDERANDO: Que en el amparo del Plan Estratégico del Sector Educativo 2018-2030, el Consejo Nacional de Educación impulsó la política de Desarrollo Profesional Docente, misma que fue aprobada por éste en fecha quince de noviembre del año 2021, según consta en acta de sesión ordinaria CNE-003-2021, la política en referencia establece en su marco de resultados impulsar los Lineamientos Estratégicos para la Innovación y Mejora del Prácticum Docente.
 
 CONSIDERANDO: Que existen abundantes evidencias, que el Prácticum Práctica Profesional, es un factor clave para la mejora de la calidad y equidad de los aprendizajes en los estudiantes de todos los tipos, niveles y modalidades educativas. Para ello es fundamental que el Prácticum sea también de la mejor calidad, pertinencia y equidad posibles.
 
@@ -49,9 +49,9 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo 033-2021, de fecha 16 de agosto del
 
 POR TANTO:
 
-En aplicación de los Artículos 245 numeral 11, 19 y 45, 247 y 248 de la Constitución de la República, Artículos 11, 29, 116 y 118 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266- 2013, artículo 02 del Reglamento del Consejo Nacional de Educación.
+En aplicación de los Artículos 245 numeral 11, 19 y 45, 247 y 248 de la Constitución de la República, Artículos 11, 29, 116 y 118 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013, artículo 02 del Reglamento del Consejo Nacional de Educación.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Oficializar los “LINEAMIENTOS
 

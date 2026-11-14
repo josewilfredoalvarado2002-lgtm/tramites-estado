@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdo No. SAG-221-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "927c68728c62ef4a"
+huella: "d3f8329b97462d9a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-221-2023
@@ -49,9 +49,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaria de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de diciembre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaria de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de diciembre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
 
 No.
 

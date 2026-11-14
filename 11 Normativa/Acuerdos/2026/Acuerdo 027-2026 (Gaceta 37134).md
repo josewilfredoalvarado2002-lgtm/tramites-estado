@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Acuerdos Ministeriales Nos. 027-2026, 036-2026, 037-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260506-37134/download"
 extraido: "2026-11-09"
-huella: "ba9990314c396eaf"
+huella: "6923e1ef435ad1b1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 027-2026
@@ -59,9 +59,7 @@ CONSIDERANDO: Que el cemento hidráulico constituye un insumo esencial en la con
 
 POR TANTO:
 
-En uso de las facultades que le confieren los artículos 245 numeral 11) y 247 de la Constitución de la República; artículos 36 numeral 8), 116 y 118 de la Ley General de la Administración Pública; artículo 41 de la Ley de Protección al Consumidor y su Reglamento; artículo 48 de la Ley del Sistema Nacional de la Calidad; el Acuerdo Ministerial No.
-
-077-2018 que contiene el Reglamento de Funcionamiento de la Comisión lnterinstitucional de Reglamentación Técnica (CIRT); y, demás disposiciones legales aplicables.
+En uso de las facultades que le confieren los artículos 245 numeral 11) y 247 de la Constitución de la República; artículos 36 numeral 8), 116 y 118 de la Ley General de la Administración Pública; artículo 41 de la Ley de Protección al Consumidor y su Reglamento; artículo 48 de la Ley del Sistema Nacional de la Calidad; el Acuerdo Ministerial No. 077-2018 que contiene el Reglamento de Funcionamiento de la Comisión lnterinstitucional de Reglamentación Técnica (CIRT); y, demás disposiciones legales aplicables.
 
 ACUERDA:
 

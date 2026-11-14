@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo No. PRS-DE-02-A-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250603-36854/download"
 extraido: "2026-11-10"
-huella: "1fdaac80897162c6"
+huella: "e4c85f3600e9c4e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. PRS-DE-02-A-2025
@@ -171,9 +171,7 @@ ARTÍCULO 6.- Estructura Programática y Administrativa:
 
 Para la gestión administrativa presupuestaria se deberá realizar las gestiones pertinentes ante la Secretaría de Planificación Estratégica (SPE) y la Secretaría de Finanzas (SEFIN) a fin de incorporar el “Programa Hermana, Hermano, Vuelve a Casa,” al Plan Operativo Anual Institucional, creando la actividad u obra denominada “Gestión para atención de emergencias varias no naturales,” en el Sistema de Administración Financiera (SIAFI/ SIAFI -GES) de la Secretaría de Finanzas.
 
-ARTÍCULO7.-Financiamiento. De conformidad con lo dispuesto en el Artículo 11 del Decreto Ejecutivo PCM No.
-
-08-2025, se autoriza la realización de traslados de asignaciones presupuestarias de gasto de capital a gasto corriente, así como la gestión de recursos externos, provenientes de crédito o apoyo internacional, debiendo efectuarse las operaciones presupuestarias y financieras que resulten necesarias para la atención de la emergencia nacional actualmente declarada.
+ARTÍCULO7.-Financiamiento. De conformidad con lo dispuesto en el Artículo 11 del Decreto Ejecutivo PCM No. 08-2025, se autoriza la realización de traslados de asignaciones presupuestarias de gasto de capital a gasto corriente, así como la gestión de recursos externos, provenientes de crédito o apoyo internacional, debiendo efectuarse las operaciones presupuestarias y financieras que resulten necesarias para la atención de la emergencia nacional actualmente declarada.
 
 El financiamiento del Programa se realizará conforme a la ejecución y liquidación progresiva de los recursos asignados, sin incorporaciones presupuestarias anticipadas. Se establece una proyección total de inversión de hasta Doscientos Veintitrés Millones de Lempiras Exactos (L223,000,000.00), sujeta a disponibilidad financiera y al cumplimiento de las metas del Programa, distribuidos de la siguiente manera:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos números 238-2019, 111-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200118-35152/download"
 extraido: "2026-11-14"
-huella: "9cc25774affa9fee"
+huella: "0f9977752d26e070"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 238-2019
@@ -43,7 +43,7 @@ CONSIDERANDO: Que con el objeto de no paralizar el normal funcionamiento de los 
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 89-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241203-36705/download"
 extraido: "2026-11-14"
-huella: "1d86e8afa74131ef"
+huella: "3d5e41a45ca92775"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 89-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en el Artículo 205 Atribuci
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 290 establece que: “Los grados militares solo se adquieren por riguroso ascenso de acuerdo con la ley respectiva… Los ascensos desde Mayor a General de División inclusive serán otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo. El Estado Mayor Conjunto de las Fuerzas Armadas emitirá Dictamen previo a conferir los ascensos de Oficiales”.
 
-CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No.39-2001 del 16 de Abril del 2001 publicado en el Diario Oficial “La Gaceta” del 29 de Octubre de 2001, en sus artículos: 191 establece que “Los ascensos de los Miembros de las Fuerzas Armadas se otorgarán de conformidad con la Constitución de la República, la presente Ley y su Reglamento” y 194 que: “Todo ascenso debe ser dictaminado previamente por el Estado Mayor Conjunto de las Fuerzas Armadas”.
+CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No. 39-2001 del 16 de Abril del 2001 publicado en el Diario Oficial “La Gaceta” del 29 de Octubre de 2001, en sus artículos: 191 establece que “Los ascensos de los Miembros de las Fuerzas Armadas se otorgarán de conformidad con la Constitución de la República, la presente Ley y su Reglamento” y 194 que: “Todo ascenso debe ser dictaminado previamente por el Estado Mayor Conjunto de las Fuerzas Armadas”.
 
 CONSIDERANDO: Que el Reglamento de Personal para los Miembros de las Fuerzas Armadas, en su Artículo 57 establece:
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

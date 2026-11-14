@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 11-2021, 15-2021, 19-2021, 28-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210518-35602/download"
 extraido: "2026-11-14"
-huella: "860858a79fc145cd"
+huella: "b0806cfb4cee7982"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 11-2021
@@ -49,7 +49,7 @@ CONSIDERANDO: Que el Poder Ejecutivo, por medio de sus dependencias competentes,
 
 CONSIDERANDO: Que el Código de Comercio establece en su Artículo 1033, que “El fideicomiso es un negocio jurídico en virtud del cual se atribuye al banco autorizado para operar como fiduciario la titularidad dominical sobre ciertos bienes, con la limitación, de carácter obligatorio, de realizar sólo aquellos actos exigidos para cumplimiento del fin lícito y determinado al que se destinen”; asimismo el Artículo 1035 señala que “El fideicomiso implica la cesión de los derechos o la traslación del dominio de los bienes en favor del fiduciario”, asimismo el Artículo 1036 señala que “Frente a terceros, el fiduciario tendrá la consideración de dueño de los derechos o bienes Fidel cometidos”.
 
-CONSIDERANDO: Que el 3 de Diciembre de 2020, el Congreso Nacional mediante Decreto Legislativo No.161- 2020 y publicado en el Diario Oficial “La Gaceta” de fecha 9 de Diciembre del mismo año, aprobó el Convenio Cuatri- Partito suscrito entre Inversión Estratégica de Honduras (INVEST-Honduras), Secretaría de Estado en el Despacho de Finanzas (SEFIN), Secretaría de Estado en el Despacho de Transparencia y Banco de América Central Honduras, S.A. (BAC-CREDOMATIC) en su calidad de Fiduciario, de fecha 1 de Diciembre del año 2020. Conforme a dicho Decreto las facilidades financieras por parte del Fiduciario se deberán aplicar A LAS OBRAS DE INFRAESTRUCTURA QUE DETERMINE INVEST-HONDURAS/MCAHONDURAS, COMO ENTIDAD RESPONSABLE DE LA ESTRUCTURACIÓN, EJECUCIÓN Y SUPERVISIÓN DE LOS PROYECTOS DE INFRAESTRUCTURA VIAL A SER FINANCIADOS POR LOS CRÉDITOS, SEAN DE CORTO, MEDIANO Y/O LARGO PLAZO QUE OBTENGA EL FIDEICOMISO.
+CONSIDERANDO: Que el 3 de Diciembre de 2020, el Congreso Nacional mediante Decreto Legislativo No. 161-2020 y publicado en el Diario Oficial “La Gaceta” de fecha 9 de Diciembre del mismo año, aprobó el Convenio Cuatri- Partito suscrito entre Inversión Estratégica de Honduras (INVEST-Honduras), Secretaría de Estado en el Despacho de Finanzas (SEFIN), Secretaría de Estado en el Despacho de Transparencia y Banco de América Central Honduras, S.A. (BAC-CREDOMATIC) en su calidad de Fiduciario, de fecha 1 de Diciembre del año 2020. Conforme a dicho Decreto las facilidades financieras por parte del Fiduciario se deberán aplicar A LAS OBRAS DE INFRAESTRUCTURA QUE DETERMINE INVEST-HONDURAS/MCAHONDURAS, COMO ENTIDAD RESPONSABLE DE LA ESTRUCTURACIÓN, EJECUCIÓN Y SUPERVISIÓN DE LOS PROYECTOS DE INFRAESTRUCTURA VIAL A SER FINANCIADOS POR LOS CRÉDITOS, SEAN DE CORTO, MEDIANO Y/O LARGO PLAZO QUE OBTENGA EL FIDEICOMISO.
 
 CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la República, establece que es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -59,7 +59,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Exonerar durante el año 2021, a los proyectos relacionados con el “FIDEICOMISO DE INFRAESTRUCTURA VIAL” a que hace referencia el Convenio CUATRI-PARTITO, de fecha 1 de diciembre de 2020, aprobado mediante Decreto Legislativo No.161-2020, así como de proyectos financiados con otras fuentes de financiamiento relacionados con la reconstrucción de obras de infraestructura que resultaron perjudicadas en el marco de las tormentas tropicales ETA e IOTA, de la Nota de Prioridad que conforme a la legislación en materia de presupuesto debe emitir la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Dirección General de Inversiones Públicas.
+ARTÍCULO 1.- Exonerar durante el año 2021, a los proyectos relacionados con el “FIDEICOMISO DE INFRAESTRUCTURA VIAL” a que hace referencia el Convenio CUATRI-PARTITO, de fecha 1 de diciembre de 2020, aprobado mediante Decreto Legislativo No. 161-2020, así como de proyectos financiados con otras fuentes de financiamiento relacionados con la reconstrucción de obras de infraestructura que resultaron perjudicadas en el marco de las tormentas tropicales ETA e IOTA, de la Nota de Prioridad que conforme a la legislación en materia de presupuesto debe emitir la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a través de la Dirección General de Inversiones Públicas.
 
 #### Artículo 2
 
@@ -71,7 +71,7 @@ ARTÍCULO 3.- En virtud de los daños causados por las tormentas tropicales ETA 
 
 Las contrataciones a que hace referencia el presente numeral deben respetar los principios de Transparencia en su formulación, ejecución, rendición de cuentas, veeduría social, participación ciudadana, máxima divulgación y publicidad en los actos y contratos que por su naturaleza sean de interés público.
 
-En aplicación de los artículos 1033, 1035, 1036 y 1037 del Código de Comercio, los contratos suscritos en el marco del Fideicomiso de Infraestructura Vial a que hace referencia el Decreto No.161-2020, que trasciendan el presente período de gobierno no requerirán para su ejecución posterior aprobación del Congreso Nacional.
+En aplicación de los artículos 1033, 1035, 1036 y 1037 del Código de Comercio, los contratos suscritos en el marco del Fideicomiso de Infraestructura Vial a que hace referencia el Decreto No. 161-2020, que trasciendan el presente período de gobierno no requerirán para su ejecución posterior aprobación del Congreso Nacional.
 
 #### Artículo 4
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo número SAR-084-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210511-35596/download"
 extraido: "2026-11-14"
-huella: "6d8cefb3d2ff8550"
+huella: "e54d19fbd7d53169"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-084-2021
@@ -37,9 +37,9 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 01-2017, en cumplimiento a 
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 001-A-2017 de fecha 02 de enero de 2017, se nombró a la suscrita, como Directora Ejecutiva del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que el Artículo 2 del Decreto Ley 102- 1974 reformado mediante Artículo 30 del Decreto 51-2003 contentivo de la Ley de Equidad Tributaria, estableció que la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR) llevará un Registro Tributario Nacional (RTN) de los contribuyentes sujetos a los tributos que administra, según los sistemas y métodos que se estimen más adecuados.
+CONSIDERANDO: Que el Artículo 2 del Decreto Ley 102-1974 reformado mediante Artículo 30 del Decreto 51-2003 contentivo de la Ley de Equidad Tributaria, estableció que la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR) llevará un Registro Tributario Nacional (RTN) de los contribuyentes sujetos a los tributos que administra, según los sistemas y métodos que se estimen más adecuados.
 
-CONSIDERANDO: Que el Artículo 45 del Decreto 194- 2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR) para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
+CONSIDERANDO: Que el Artículo 45 del Decreto 194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR) para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
 CONSIDERANDO: Que mediante Acuerdo número CPATSG-102-2016, emitido por la Comisionada Presidencial de la Administración Tributaria y publicado en el Diario Oficial “La Gaceta” en fecha 13 de enero de 2017, se acordó aprobar los Formularios de “Declaración Jurada de Inscripción de Persona Natural”, “Declaración Jurada de Inscripción, Inicio de Actividades y Actualización al Registro Tributario Nacional” y adicionar el Formulario 410-B, anexo a la Declaración Jurada de Inscripción, Inicio de Actividades y Actualización al Registro Tributario Nacional.
 

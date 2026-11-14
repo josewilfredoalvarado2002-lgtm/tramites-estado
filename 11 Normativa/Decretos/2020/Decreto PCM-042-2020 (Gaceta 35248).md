@@ -11,7 +11,7 @@ paginas: "A. 7 - 11"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200510-35248-2/download"
 extraido: "2026-11-14"
-huella: "090bf8b13bf7d0ba"
+huella: "2b50d9aa0995d10f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-042-2020
@@ -31,11 +31,9 @@ EL PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA EN CONSEJO DE SECRETARIOS DE ESTAD
 
 CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-040-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo tres (3) de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo Número PCM-021-2020, reformado por los Decretos Ejecutivos: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031- 2020, PCM-033-2020, PCM-036-2020 y el último precitado.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-040-2020, mediante el cual se prorrogó por siete (7) días más, efectivos a partir del domingo tres (3) de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo Número PCM-021-2020, reformado por los Decretos Ejecutivos: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020 y el último precitado.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-42-2020, publicado en el Diario Oficial “La Gaceta” en fecha 4 de mayo, 2020, edición No. 35,242, el Congreso Nacional ratificó en todas y cada una de sus partes, la restricción de las Garantías Constitucionales, aprobadas por el Presidente de la República en Consejo de Secretarios de Estado, contenida en los Decretos Ejecutivos Números: PCM-028-2020, PCM-031-2020, PCM-033-2020 y PCM-036-2020.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 42-2020, publicado en el Diario Oficial “La Gaceta” en fecha 4 de mayo, 2020, edición No. 35,242, el Congreso Nacional ratificó en todas y cada una de sus partes, la restricción de las Garantías Constitucionales, aprobadas por el Presidente de la República en Consejo de Secretarios de Estado, contenida en los Decretos Ejecutivos Números: PCM-028-2020, PCM-031-2020, PCM-033-2020 y PCM-036-2020.
 
 CONSIDERANDO: Que la información epidemiológica servirá para actualizar el diagnóstico y divulgar el conocimiento de la situación de salud de la comunidad, con el fin de promover la reducción y la prevención de las enfermedades.
 
@@ -51,7 +49,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del domingo 10 de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023- 2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020 y PCM-040-2020.
+Prorrogar por siete (7) días, efectivo a partir del domingo 10 de mayo del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020 y PCM-040-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
@@ -103,7 +101,7 @@ ARTÍCULO 3.- Ratificar la exclusión de la restricción establecida en el Artí
 
 \6) Dirección Nacional de Niñez, Adolescencia y Familia (DINAF), personal autorizado por la Directora de la Institución.
 
-Reiterando que se habilitan asimismo, días y horas inhábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo No.33-2020, en el Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su Artículo 27.
+Reiterando que se habilitan asimismo, días y horas inhábiles a las Instituciones públicas para que puedan realizar Teletrabajo o por medios electrónicos, esto amparado en el Decreto Legislativo No. 33-2020, en el Artículo 38, mediante el cual se reforma la Ley Sobre Firmas Electrónicas, en su Artículo 27.
 
 #### Artículo 4
 

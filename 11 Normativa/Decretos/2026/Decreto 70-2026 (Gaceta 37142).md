@@ -11,7 +11,7 @@ paginas: "A. 33 - 56"
 sumario: "Decreto No. 70-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260515-37142/download"
 extraido: "2026-11-09"
-huella: "82b8fdb3df5ac70d"
+huella: "3553e870492c47e2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 70-2026
@@ -49,19 +49,19 @@ CONSIDERANDO: Que la constitución masiva de contratos de fideicomisos para la a
 
 CONSIDERANDO: Que el Estado de Honduras, garantiza el cumplimiento de sentencias judiciales firmes como consecuencia de las demandas promovidas contra instituciones del sector público. No obstante, la práctica extrema de embargos precautorios a la Cuenta Única de la Tesorería (CUT), ordenados y ejecutados por los juzgados y tribunales de la República, por períodos y plazos indefinidos ocasionan un grave perjuicio en relación con el cumplimiento de las obligaciones financieras del Estado.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.83-2004 de fecha 28 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de Junio de 2004, el Congreso Nacional de conformidad con el Artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto; la cual fue reformada mediante: (i) Decreto Legislativo No.2-2005 de fecha 26 de Enero de 2005, publicado en el Diario Oficial “La Gaceta”, Edición número 30,643 de fecha 10 de Marzo de 2005; y, (ii) Decreto Legislativo No.406-2013 de fecha 24 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, Edición número 33,373 de fecha 7 de Marzo de 2014.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 83-2004 de fecha 28 de Mayo de 2004, publicado en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de Junio de 2004, el Congreso Nacional de conformidad con el Artículo 368 de la Constitución de la República, aprobó la Ley Orgánica del Presupuesto; la cual fue reformada mediante: (i) Decreto Legislativo No. 2-2005 de fecha 26 de Enero de 2005, publicado en el Diario Oficial “La Gaceta”, Edición número 30,643 de fecha 10 de Marzo de 2005; y, (ii) Decreto Legislativo No. 406-2013 de fecha 24 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, Edición número 33,373 de fecha 7 de Marzo de 2014.
 
 CONSIDERANDO: De conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO:
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- REFORMA A LA LEY ORGÁNICA
 
-DEL PRESUPUESTO. Reformar los artículos 16, 17, 33, 84, 85, 86, 87, 89, 90, 94 y 127 de la LEY ORGÁNICA DEL PRESUPUESTO, contenida en el Decreto Legislativo No.83-2004 de fecha 28 de Mayo de 2004, publicada en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de Junio de 2004, los cuales de ahora en adelante se leerán así:
+DEL PRESUPUESTO. Reformar los artículos 16, 17, 33, 84, 85, 86, 87, 89, 90, 94 y 127 de la LEY ORGÁNICA DEL PRESUPUESTO, contenida en el Decreto Legislativo No. 83-2004 de fecha 28 de Mayo de 2004, publicada en el Diario Oficial “La Gaceta”, Edición número 30,421 de fecha 21 de Junio de 2004, los cuales de ahora en adelante se leerán así:
 
 “ARTÍCULO 16.- ÓRGANOS FACULTADOS PARA EFECTUAR LA ADMINISTRACIÓN DE LOS RECURSOS PÚBLICOS.- Los recursos públicos se administrarán bajo el principio constitucional de Caja Única del Tesoro (CUT) cuya administración corresponderá al Poder Ejecutivo por medio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), atribución que será concedida únicamente de manera excepcional, y, a través de una Ley a las Instituciones Descentralizadas o a las demás Instituciones públicas con excepción de los Poderes del Estado en cuyo caso, dichas instituciones deberán regirse bajo, las normas que al efecto establezca la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en su condición de órgano rector del Sistema de Administración Financiera del Sector Público, de conformidad al último párrafo del Artículo 4 de la presente Ley.” “ARTÍCULO 17.- ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE PRESUPUESTO. Son atribuciones de la Dirección General de Presupuesto, en su condición de Órgano Técnico Coordinador del subsistema de presupuesto:
 
@@ -95,7 +95,7 @@ La Secretaría de Estado en el Despacho de Finanzas (SEFIN) por intermedio de la
 
 (BCH) o en el Sistema Financiero Nacional público o privado, para el cumplimiento de mandatos u obligaciones excepcionales. En todos los casos, y como un mecanismo de transparencia y combate a la corrupción, se faculta a la Tesorería General de la República (TGR) para solicitar al Banco Central de Honduras (BCH) y al Sistema Financiero Nacional público o privado, los movimientos y saldos bancarios de las cuentas aperturadas con recursos financieros públicos, así como ordenar el reintegro de dichos recursos al Sistema de Cuenta Única de la Tesorería (CUT).
 
-La Secretaría de Estado en el Despacho de Finanzas (SEFIN) establecerá los mecanismos operativos que garanticen el eficiente y oportuno funcionamiento del Sistema de Cuenta Única de la Tesorería (CUT) tanto en lo que corresponde a la captación de ingresos, administración de flujos y la ejecución de los pagos derivados de obligaciones del Estado, coordinando lo pertinente con el Banco Central de Honduras (BCH).” “ A R T Í C U L O 8 5 . - L A R E C A U D A C I Ó N D E L O S INGRESOS. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) organizará la recaudación de los ingresos en la forma que considere más conveniente, facultándosele para la suscripción de convenios con instituciones del Sistema Financiero Nacional para su concreción, debiendo fijarse en la reglamentación los mecanismos mediante los cuales dichas instituciones transferirán los fondos recaudados al Sistema de Cuenta Única de la Tesorería (CUT) administrado por la Tesorería General de la República (TGR).” “ARTÍCULO 86.- SERVICIOS ESPECIALES DE LA TESORERÍA GENERAL DE LA REPÚBLICA.
+La Secretaría de Estado en el Despacho de Finanzas (SEFIN) establecerá los mecanismos operativos que garanticen el eficiente y oportuno funcionamiento del Sistema de Cuenta Única de la Tesorería (CUT) tanto en lo que corresponde a la captación de ingresos, administración de flujos y la ejecución de los pagos derivados de obligaciones del Estado, coordinando lo pertinente con el Banco Central de Honduras (BCH).” “ ARTÍCULO 8 5 . - LA RECAUDACIÓN DE LOS INGRESOS. La Secretaría de Estado en el Despacho de Finanzas (SEFIN) organizará la recaudación de los ingresos en la forma que considere más conveniente, facultándosele para la suscripción de convenios con instituciones del Sistema Financiero Nacional para su concreción, debiendo fijarse en la reglamentación los mecanismos mediante los cuales dichas instituciones transferirán los fondos recaudados al Sistema de Cuenta Única de la Tesorería (CUT) administrado por la Tesorería General de la República (TGR).” “ARTÍCULO 86.- SERVICIOS ESPECIALES DE LA TESORERÍA GENERAL DE LA REPÚBLICA.
 
 Los Poderes Legislativo y Judicial, y los Órganos Constitucionales sin adscripción específica como: el Ministerio Público (MP), Consejo Nacional Electoral (CNE), Tribunal Superior de Cuentas (TSC), Procuraduría General de la República
 
@@ -111,7 +111,7 @@ Asimismo, los miembros de Junta Directiva u órganos colegiados de las Empresas 
 
 No tendrán responsabilidad alguna los miembros de las Juntas Directivas u órganos colegiados de las Empresas Públicas e Instituciones Desconcentradas y Descentralizadas o Comités Técnicos de Fideicomiso, cuando no hayan tenido el dominio, control, administración, análisis y decisión en los procesos de contratación, y en su defecto éste lo haya tenido los órganos de dirección de las respectivas instituciones.
 
-Por otra parte, garantizando la independencia de los Poderes del Estado se autorizan además de los objetos de gasto dentro de la asignación al Grupo del Gasto 90000, los subgrupos 93000, y objetos 93100, 93200 y 25600 para promover los niveles de optimización dentro de la gestión pública con sus respectivos instrumentos jurídicos. La Institución 100 en su calidad de órgano rector del Sistema de Administración Financiera del Sector Público y en cumplimiento de lo establecido en el numeral 5) del Artículo 5 de la Ley Orgánica del Presupuesto (Decreto No.83- 2004), se limita a ejercer funciones de supervisión, control normativo y evaluación macro fiscal. En ningún caso dicha Secretaría y/o titulares asumen responsabilidad directa por la ejecución operativa de los presupuestos asignados a dicha Secretaría y a las instituciones, ni por los actos, resoluciones, dictámenes técnicos y legales, omisiones o resultados derivados de la gestión financiera cotidiana, los compromisos, pagos o el control interno del gasto que realicen dichas entidades.
+Por otra parte, garantizando la independencia de los Poderes del Estado se autorizan además de los objetos de gasto dentro de la asignación al Grupo del Gasto 90000, los subgrupos 93000, y objetos 93100, 93200 y 25600 para promover los niveles de optimización dentro de la gestión pública con sus respectivos instrumentos jurídicos. La Institución 100 en su calidad de órgano rector del Sistema de Administración Financiera del Sector Público y en cumplimiento de lo establecido en el numeral 5) del Artículo 5 de la Ley Orgánica del Presupuesto (Decreto No. 83-2004), se limita a ejercer funciones de supervisión, control normativo y evaluación macro fiscal. En ningún caso dicha Secretaría y/o titulares asumen responsabilidad directa por la ejecución operativa de los presupuestos asignados a dicha Secretaría y a las instituciones, ni por los actos, resoluciones, dictámenes técnicos y legales, omisiones o resultados derivados de la gestión financiera cotidiana, los compromisos, pagos o el control interno del gasto que realicen dichas entidades.
 
 En el Reglamento de Ejecución de la presente Ley se establecerán los criterios básicos que las instituciones deben aplicar en relación con el grado de delegación administrativa.
 
@@ -187,7 +187,7 @@ En el caso de los activos, la Secretaría de Estado en el Despacho de Finanzas (
 
 ARTÍCULO 2.- REFORMA POR ADICIÓN A LA LEY ORGÁNICA DEL
 
-PRESUPUESTO. Reformar por adición la LEY ORGÁNICA DEL PRESUPUESTO, contenida en el Decreto Legislativo No.83-2004, publicada en el Diario Oficial “La Gaceta” el 21 de Junio de 2004, la cual contendrá los siguientes artículos que formarán parte integral de la Ley y de ahora en adelante se leerán así:
+PRESUPUESTO. Reformar por adición la LEY ORGÁNICA DEL PRESUPUESTO, contenida en el Decreto Legislativo No. 83-2004, publicada en el Diario Oficial “La Gaceta” el 21 de Junio de 2004, la cual contendrá los siguientes artículos que formarán parte integral de la Ley y de ahora en adelante se leerán así:
 
 “ARTÍCULO 83-A.- PROGRAMACIÓN DE CAJA Y GESTIÓN
 
@@ -213,17 +213,17 @@ Con excepción de los institutos públicos de prevención social, instituciones 
 
 ENTRE CUENTAS. Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Tesorería General de la República (TGR), para realizar las operaciones necesarias para trasferir los recursos disponibles entre las cuentas bancarias abiertas en el Banco Central de Honduras (BCH), para uso temporal de la disponibilidad financiera. Los recursos deberán ser devueltos íntegramente a las cuentas de origen de la captación de los ingresos del ejercicio fiscal vigente. Estas operaciones se efectuarán con la finalidad de garantizar la liquidez del Sistema de Cuenta Única de la Tesorería (CUT) y el cumplimiento de las obligaciones de pago con base en la prelación y el orden establecido en las normas técnicas del Subsistema de Tesorería. Se exceptúa de esta disposición las cuentas bancarias de fondos de embargo y garantías”.
 
-“ARTÍCULO 84-A. ADMINISTRACIÓN DE TRANSFERENCIAS DE FONDOS EN EL SISTEMA D E C U E N TA Ú N I C A D E LA TESORERÍA (CUT). Las transferencias que otorguen las instituciones del sector público y entidades públicas o privadas se administraran en el Sistema de Cuenta Única de la Tesorería (CUT), debiendo garantizarse su disponibilidad para cuando los recursos financieros sean efectivamente requeridos para la ejecución de pagos por la entidad beneficiaria. Con el propósito indicado, la Tesorería General de la República
+“ARTÍCULO 84-A. ADMINISTRACIÓN DE TRANSFERENCIAS DE FONDOS EN EL SISTEMA D E C U E N TA ÚNICA DE LA TESORERÍA (CUT). Las transferencias que otorguen las instituciones del sector público y entidades públicas o privadas se administraran en el Sistema de Cuenta Única de la Tesorería (CUT), debiendo garantizarse su disponibilidad para cuando los recursos financieros sean efectivamente requeridos para la ejecución de pagos por la entidad beneficiaria. Con el propósito indicado, la Tesorería General de la República
 
 (TGR) establecerá la reglamentación y las definiciones operativas y procedimientos para facilitar la utilización de mecanismo electrónicos de pago a los titulares de los fondos administrados por el Sistema”.
 
-“ARTÍCULO 84-B. REMISIÓN DE INFORMACIÓN SOBRE RECURSOS FINANCIEROS P Ú B L I C O S E N C U E N TA S BANCARIAS DEL SISTEMA F I N A N C I E R O N A C I O N A L E I N T E R N A C I O N A L ;
+“ARTÍCULO 84-B. REMISIÓN DE INFORMACIÓN SOBRE RECURSOS FINANCIEROS P Ú B L I C O S E N C U E N TA S BANCARIAS DEL SISTEMA FINANCIERO NACIONAL E INTERNACIONAL;
 
 DEVOLUCIÓN DE RECURSOS FINANCIEROS PÚBLICOS NO
 
 UTILIZADOS. La Tesorería General de la República (TGR), por mandato constitucional, está facultada para percibir, custodiar, administrar y erogar recursos financieros públicos; por lo que, para efectos de transparencia, supervisión, evaluación y eficacia de la ejecución presupuestaria, la Tesorería General de la República (TGR) requiera a través de la Comisión Nacional de Bancos y Seguros (CNBS), los extractos bancarios e informes financieros en formato físico y electrónico de todas las instituciones del Sector Público con excepción de los Poderes del Estado que mantengan recursos financieros públicos en el Sistema Financiero Nacional e Internacional (público o privado), relacionados con los saldos, movimientos de las cuentas de ahorro, cuentas corrientes, depósitos a plazo fijo y cualquier otro producto financiero que mantenga o involucre recursos financieros públicos. Las instituciones del sistema financiero nacional o internacional (público o privadas) están en la obligación de remitir la información que fuere requerida por la Tesorería General de la República
 
-(TGR) en un plazo no mayor a tres (3) días calendario, y su incumplimiento g e n e r a r á r e s p o n s a b i l i d a d administrativa, la que se sancionará conforme normativa aplicable, sin perjuicio de las responsabilidades de carácter civil o penal que pudieran corresponder.
+(TGR) en un plazo no mayor a tres (3) días calendario, y su incumplimiento generará responsabilidad administrativa, la que se sancionará conforme normativa aplicable, sin perjuicio de las responsabilidades de carácter civil o penal que pudieran corresponder.
 
 Sin perjuicio de lo anterior, todos los valores en calidad de recursos propios, transferencias y cualquier otro concepto de ingresos que hayan recibido las instituciones del Sector Público no financiero y que no fueron utilizados al término del ejercicio fiscal anterior con excepción de los Poderes del Estado, deberán ser reintegrados al Sistema de Cuenta Única de la Tesorería
 
@@ -283,7 +283,7 @@ De igual forma, se instruye a cualquier persona natural o jurídica que haya per
 
 (CUT) los recursos existentes en cuentas aperturadas por instituciones del sector público. El incumplimiento de la presente disposición generará responsabilidad administrativa, la que se sancionará conforme a normativa aplicable, sin perjuicio de las responsabilidades de carácter civil o penal que pudiera corresponder por la retención de recursos financieros público”.
 
-“ARTÍCULO 84-C. PROHIBICIÓN DE CREACIÓN DE CUENTAS B A N C A R I A S F U E R A D E L SISTEMA DE CUENTA ÚNICA DE LA TESORERÍA (CUT).
+“ARTÍCULO 84-C. PROHIBICIÓN DE CREACIÓN DE CUENTAS BANCARIAS FUERA DEL SISTEMA DE CUENTA ÚNICA DE LA TESORERÍA (CUT).
 
 Se prohíbe a las instituciones del Sector Público la apertura de cuentas bancarias o productos financieros con recursos financieros del Estado fuera del Sistema de Cuenta Única de la Tesorería (CUT) con excepción de los Poderes del Estado. La presente prohibición será aplicable en la misma forma a toda persona cualquiera que sea su naturaleza jurídica, que reciba recursos financieros del Estado para su manejo, funcionamiento e inversión o administración.
 
@@ -327,7 +327,7 @@ La inobservancia de la presente disposición se considera como un incumplimiento
 
 #### Artículo 6
 
-ARTÍCULO 6.- Reformar el ARTÍCULO 279 del Decreto No.62-2026, que se deberá leer de la siguiente manera:
+ARTÍCULO 6.- Reformar el ARTÍCULO 279 del Decreto No. 62-2026, que se deberá leer de la siguiente manera:
 
 “ARTÍCULO 279.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), a realizar las operaciones presupuestarias y financieras para la incorporación en la Secretaría de Estado en los Despachos de Agricultura y ganadería (SAG) de los recursos remanentes de años anteriores y no ejecutados de las cartas de entendimiento de cooperación técnica y administración de fondos suscritos entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), así como la Dirección de Ciencia y Tecnología Agropecuaria (DICTA) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), para apoyo a programas denominados bono tecnológico productivo, bono cafetero u otros para la fertilización en apoyo a pequeños y medianos productores y bono ganadero, recursos que podrán destinar a los mismos propósitos establecidos en las cartas de entendimiento”.
 

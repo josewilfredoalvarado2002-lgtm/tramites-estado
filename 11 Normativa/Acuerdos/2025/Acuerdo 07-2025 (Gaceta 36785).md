@@ -11,7 +11,7 @@ paginas: "A. 14 - 15"
 sumario: "Acuerdos Nos. 07-2025, 045-2025, 48-2025, 49-2025, 90-2025, 91-2025, 92-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250308-36785/download"
 extraido: "2026-11-12"
-huella: "c3d404069651f41c"
+huella: "fafad4dbe5b713dd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 07-2025
@@ -41,13 +41,11 @@ CONSIDERANDO: Que las múltiples ocupaciones encomendadas al Secretario de Estad
 
 POR TANTO:
 
-En aplicación de los artículos: 321 y 323 de la Constitución de la República; 7, 29, numeral 1), 36 numeral 8), 116, 118, 119 y 122 de la Ley General de Administración Pública; 5 y 23 de la Ley de Procedimiento Administrativo; 2 de la Ley Simplificación Administrativa; 11.1 literal c) de la Ley de Contratación del Estado; 4, 6, 7 numeral 1) y 37 numeral 3) de la Ley Orgánica de Presupuesto; Decreto Legislativo No.
-
-62-2023, correspondiente al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal vigente; y 14 del Acuerdo No. 0696 del Reglamento de Viáticos.
+En aplicación de los artículos: 321 y 323 de la Constitución de la República; 7, 29, numeral 1), 36 numeral 8), 116, 118, 119 y 122 de la Ley General de Administración Pública; 5 y 23 de la Ley de Procedimiento Administrativo; 2 de la Ley Simplificación Administrativa; 11.1 literal c) de la Ley de Contratación del Estado; 4, 6, 7 numeral 1) y 37 numeral 3) de la Ley Orgánica de Presupuesto; Decreto Legislativo No. 62-2023, correspondiente al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal vigente; y 14 del Acuerdo No. 0696 del Reglamento de Viáticos.
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo No. 486- 2024, publicado en el Diario Oficial La Gaceta en fecha 10 de octubre de 2024, edición No. 36,661.
+PRIMERO: Dejar sin valor y efecto el Acuerdo No. 486-2024, publicado en el Diario Oficial La Gaceta en fecha 10 de octubre de 2024, edición No. 36,661.
 
 SEGUNDO: Delegar en el ciudadano Dennis Alexander Rodríguez Cuellar, Gerente Administrativo de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, las funciones siguientes:
 

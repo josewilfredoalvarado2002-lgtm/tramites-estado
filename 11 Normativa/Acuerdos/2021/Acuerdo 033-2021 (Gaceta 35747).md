@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Nos. 032-2021, 033-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211015-35747/download"
 extraido: "2026-11-14"
-huella: "2e036162f24ca9e8"
+huella: "b503a6e6cca0dc6c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 033-2021
@@ -33,7 +33,7 @@ El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso 
 
 ACUERDA:
 
-1. Delegar a la ciudadana: CARMEN LARISSA RODRÍGUEZ, quien posee la identidad número 0801- 1994-18844, en su condición de Directora Interina de la Dirección de Productos Farmacéuticos y Otros Productos de Interés Sanitario, la facultad para firmar solicitudes de:
+1. Delegar a la ciudadana: CARMEN LARISSA RODRÍGUEZ, quien posee la identidad número 0801-1994-18844, en su condición de Directora Interina de la Dirección de Productos Farmacéuticos y Otros Productos de Interés Sanitario, la facultad para firmar solicitudes de:
 
 - Modificaciones de expedientes resueltos - Libros de Control de Sustancias Controladas - Constancias de carácter Técnico, vinculadas a las competencias de su dirección - Agotamientos de Etiquetas según corresponda - Liberación de Lotes de Vacunas - Permisos de Importación de Ensayos Clínicos - Denegatorias de Corrección Técnica-Legal
 

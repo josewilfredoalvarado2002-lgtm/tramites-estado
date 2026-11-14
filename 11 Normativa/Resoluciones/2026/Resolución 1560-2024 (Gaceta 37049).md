@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1560-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260121-37049/download"
 extraido: "2026-11-09"
-huella: "085f471ecc6ca38a"
+huella: "9bf1f62a0b15f88d"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1560-2024
@@ -99,7 +99,7 @@ f) Recibir avisos oportunamente de las interrupciones programadas del servicio, 
 
 #### Artículo 9
 
-ARTÍCULO 9.- Son obligaciones de los miembros(usuarios directivos): a.- Conectarse en el acueducto al sistema de saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las reuniones. d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de ,las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.-Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
+ARTÍCULO 9.- Son obligaciones de los miembros(usuarios directivos): a.- Conectarse en el acueducto al sistema de saneamiento. b.- Hacer uso adecuado de los servicios, sin dañar ni poner en riesgo la infraestructura. c.- Asistir puntualmente a las reuniones. d.- Participar en cualquiera de las comisión que se le asigne. e.- Vigilar por el buen estado de,las partes del sistema. f.- Realizar labores de mantenimiento y mejoramiento del sistema cuando la junta los requiera. g.-Mantener limpio los solares, pilas, letrinas y la vivienda para prevenir las enfermedades. h.- Pagar una multa equivalente al valor de un día de trabajo por no asistir a las reunión. i.- Permitir la inspección de las instalaciones, letrinas, pilas a personal autorizado de la junta. j.- Pagar puntualmente la tarifa dentro de los primeros diez días del mes siguiente. k.- Pagar una multa establecida por la junta por el incumplimiento de las obligaciones.
 
 CAPÍTULO IV DE LOS ORGANOS DE GOBIERNO Y SUS ATRIBUCIONES; ASAMBLEA DE USUARIOS, JUNTA DIRECTIVAS Y COMITÉ DE APOYO
 

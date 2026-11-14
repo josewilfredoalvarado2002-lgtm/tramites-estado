@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Decretos Nos. 129-2020, 130-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201017-35402/download"
 extraido: "2026-11-14"
-huella: "33c01bc21e94b2a5"
+huella: "090d2fd6520eb992"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 129-2020
@@ -33,7 +33,7 @@ PODER LEGISLATIVO
 
 Decretos Nos. 129-2020, 130-2020 A. 1 - 48 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2235 Tramo B, suscrito el 1 de Septiembre de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Treinta y Nueve Millones Cuatrocientos Sesenta y Cuatro Mil Trescientos Quince Dólares de los Estados Unidos de Norte América (US$39.464,315.00), está destinado a financiar la ejecución del Proyecto de Modernización del Documento de Identificación en Honduras (Identifícate).
+CONSIDERANDO: Que el Contrato de Préstamo No. 2235 Tramo B, suscrito el 1 de Septiembre de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Treinta y Nueve Millones Cuatrocientos Sesenta y Cuatro Mil Trescientos Quince Dólares de los Estados Unidos de Norte América (US$39.464,315.00), está destinado a financiar la ejecución del Proyecto de Modernización del Documento de Identificación en Honduras (Identifícate).
 
 CONSIDERANDO: Que el Proyecto “Identifícate” tiene como objetivo mejorar los procesos de identificación del Registro Nacional de las Personas, a través de la creación de un nuevo registro digital biométrico de personas y de la producción de nuevos documentos nacionales de identificación, contribuyendo a generar confianza en la población hondureña y eficiencia en la función registral, garantizando la emisión de documentos nacionales de identificación únicos y con altos niveles de confiabilidad.
 
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.2235 Tramo B, suscrito el 1 de Septiembre de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Treinta y Nueve Millones Cuatrocientos Sesenta y Cuatro Mil Trescientos Quince Dólares de los Estados Unidos de Norte América (US$39.464,315.00), recursos destinados a financiar la ejecución del “PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE)”, que literalmente dice:
+ARTICULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 2235 Tramo B, suscrito el 1 de Septiembre de 2020, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Treinta y Nueve Millones Cuatrocientos Sesenta y Cuatro Mil Trescientos Quince Dólares de los Estados Unidos de Norte América (US$39.464,315.00), recursos destinados a financiar la ejecución del “PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE)”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
@@ -475,7 +475,7 @@ A NOMBRE DE: BANCO CENTROAMERIC A N O
 
 D E
 
-I N T E G R A C I O N ECONOMICA REFERENCIA:
+INTEGRACION ECONOMICA REFERENCIA:
 
 PRÉSTAMO No. 2235 Tramo B Igualmente, el BCIE podrá modificar la cuenta y/o lugares en que el Prestatario deberá realizar los pagos en los términos y condiciones contenidos en este Contrato, en cuyo caso el BCIE deberá notificar por escrito al Prestatario, por lo menos con quince (15) días hábiles de anticipación a la fecha en que dicho cambio deba surtir efecto.
 
@@ -1131,7 +1131,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -1143,7 +1143,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero do 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero do 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 

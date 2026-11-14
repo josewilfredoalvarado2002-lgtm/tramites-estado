@@ -8,10 +8,10 @@ gaceta_numero: 36188
 gaceta_fecha: "2023-03-24"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)|La Gaceta 36188]]"
 paginas: "A. 4 - 5"
-sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023"
+sumario: "Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230324-36188/download"
 extraido: "2026-11-14"
-huella: "710501fa185488b4"
+huella: "4316c796162d8633"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 213-2023
@@ -23,7 +23,7 @@ huella: "710501fa185488b4"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36188 (2023-03-24)\|La Gaceta 36188]] del 2023-03-24 |
 | Páginas | A. 4 - 5 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023PODER EJECUTIVOAcuerdo Ejecutivo No. 37-2023COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICAAcuerdo CREE-30-2023 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 36-2023, Acuerdos Nos. 165-2023, 213-2023; PODER EJECUTIVO: Acuerdo Ejecutivo No. 37-2023; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA: Acuerdo CREE-30-2023 |
 
 ## Texto
 
@@ -43,9 +43,7 @@ En aplicación de los artículos 116, 118 y 122 de la Ley General de Administrac
 
 ACUERDA:
 
-PRIMERO: Delegar en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, Oficial Jurídico de Secretaría General, la facultad de firmar los informes, que por disposición legal le corresponde al Jefe de la Unidad de la Unidad de Atención al Ciudadano, hasta que sea nombrado(a) el titular permanente; lo anterior, sin perjuicio del Acuerdo No.
-
-605-2022 de fecha 3 de agosto del 2022, que continua vigente.
+PRIMERO: Delegar en el ciudadano NORMAN ALEXANDER ROMERO ANDINO, Oficial Jurídico de Secretaría General, la facultad de firmar los informes, que por disposición legal le corresponde al Jefe de la Unidad de la Unidad de Atención al Ciudadano, hasta que sea nombrado(a) el titular permanente; lo anterior, sin perjuicio del Acuerdo No. 605-2022 de fecha 3 de agosto del 2022, que continua vigente.
 
 SEGUNDO: El presente acuerdo tendrá vigencia, a partir de la fecha del presente Acuerdo.
 

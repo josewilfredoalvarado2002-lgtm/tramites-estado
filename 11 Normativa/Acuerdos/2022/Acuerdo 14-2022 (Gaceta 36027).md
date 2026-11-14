@@ -11,7 +11,7 @@ paginas: "A. 3 - 12"
 sumario: "Acuerdo No. 14/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220913-36027/download"
 extraido: "2026-11-14"
-huella: "1fd75c57547ee6ac"
+huella: "1bf10ac8cea52dc4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 14/2022
@@ -27,13 +27,13 @@ huella: "1fd75c57547ee6ac"
 
 ## Texto
 
-Sesión No.3988 (Extraordinaria) del 7 de septiembre de 2022.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+Sesión No. 3988 (Extraordinaria) del 7 de septiembre de 2022.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
 CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios, así como las que efectúe el sector público, se aplicará el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, la Normativa Complementaria a dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
-CONSIDERANDO: Que mediante Acuerdo No.07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No.17/2021, No.03/2022, N o . 0 5 / 2 0 2 2 , N o . 1 0 / 2 0 2 2 y No.11/2022, del 9 de diciembre de 2021, 3 y 31 de marzo, 2 de junio y 28 de julio de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 07/2021 del 3 de junio de 2021, se aprobó la Normativa Complementaria del Reglamento para la Negociación en el Mercado Organizado de Divisas, la cual fue reformada mediante acuerdos No. 17/2021, No. 03/2022, N o . 0 5 / 2 0 2 2, N o . 1 0 / 2 0 2 2 y No. 11/2022, del 9 de diciembre de 2021, 3 y 31 de marzo, 2 de junio y 28 de julio de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
 
 CONSIDERANDO: Que producto de situaciones como la reactivación económica y el incremento en los precios de la mayoría de productos importados, entre otros, se ha registrado un incremento en la demanda de divisas, que ha provocado que ciertos sectores económicos como la pequeña y mediana empresa, hayan sentido restringido su acceso a las mismas, producto que los Agentes Cambiarios (AC), se orientan en la atención a sus grandes clientes.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de acuerdo al análisis realizado mediante opinión emitida po
 
 CONSIDERANDO: Que con base en el mismo análisis, con el objetivo de complementar la medida anterior y además dinamizar e impulsar las negociaciones en el MID, para que un mayor número de agentes cambiarios puedan obtener divisas en dicho mercado, se propone reducir de US$1.0 millón a US$500.0 mil, las posturas para la compra de divisas que pueden presentar los agentes cambiarios en cada evento de negociación.
 
-CONSIDERANDO: Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución al Comité de Divisas en la Sesión Extraordinaria No.16/2022 del 7 de septiembre de 2022, acordó someter a consideración del Directorio la modificación al monto diario autorizado para la venta de divisas de los agentes cambiarios a sus clientes del sector privado, de un millón quinientos mil dólares (US$1,500,00.00) que se permite en la actualidad a un millón doscientos mil dólares (US$1,200,000.00); así como, reducir de un millón de dólares (US$1,000,000.00) a quinientos mil dólares (US$500,000.00), las posturas para la compra de divisas que pueden presentar los agentes cambiarios en cada evento de negociación
+CONSIDERANDO: Que conforme con la propuesta presentada por el Departamento de Operaciones Cambiarias de esta Institución al Comité de Divisas en la Sesión Extraordinaria No. 16/2022 del 7 de septiembre de 2022, acordó someter a consideración del Directorio la modificación al monto diario autorizado para la venta de divisas de los agentes cambiarios a sus clientes del sector privado, de un millón quinientos mil dólares (US$1,500,00.00) que se permite en la actualidad a un millón doscientos mil dólares (US$1,200,000.00); así como, reducir de un millón de dólares (US$1,000,000.00) a quinientos mil dólares (US$500,000.00), las posturas para la compra de divisas que pueden presentar los agentes cambiarios en cada evento de negociación
 
 POR TANTO:
 
@@ -49,9 +49,9 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f) y n), 29 y 32 de la Ley del Banco Central de Honduras;
 
-46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -59,7 +59,7 @@ Modificar los numerales 1.2 literal b), 3.1 literal b),
 
 3.4 párrafo quinto, 4.1 literal b) y numeral 7.2 literal
 
-c) párrafo segundo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No.11/2022, emitido por el Directorio del BCH el 28 de julio de 2022, que en lo sucesivo se leerá así:
+c) párrafo segundo de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, contenida en el Acuerdo No. 11/2022, emitido por el Directorio del BCH el 28 de julio de 2022, que en lo sucesivo se leerá así:
 
 “1.2 Las divisas compradas por los agentes cambiarios a sus clientes del sector privado de acuerdo con el numeral anterior, deberán utilizarse para los fines detallados a continuación:
 

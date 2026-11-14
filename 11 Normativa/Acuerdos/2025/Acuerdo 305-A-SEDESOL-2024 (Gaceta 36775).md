@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ministerial No. 305-A-SEDESOL-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250225-36775/download"
 extraido: "2026-11-12"
-huella: "cb2b302ee577731c"
+huella: "925ff34d668811bf"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 305-A-SEDESOL-2024
@@ -53,13 +53,11 @@ CONSIDERANDO: Que la Secretaría de Desarrollo Social, a través de la Unidad de
 
 POR TANTO:
 
-En cumplimiento a los artículos: 59 y 247 de la Constitución de la República de Honduras; 36, de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM 019-2022 en su artículo 1 inciso u; Decreto Ejecutivo Número PCM 017-2022 en sus artículos 2 y 3; Decreto Legislativo Número 04-2022 en su artículo 2; Acuerdo Ministerial No.
-
-257-A- SEDESOL-2024.
+En cumplimiento a los artículos: 59 y 247 de la Constitución de la República de Honduras; 36, de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM 019-2022 en su artículo 1 inciso u; Decreto Ejecutivo Número PCM 017-2022 en sus artículos 2 y 3; Decreto Legislativo Número 04-2022 en su artículo 2; Acuerdo Ministerial No. 257-A- SEDESOL-2024.
 
 ACUERDA:
 
-PRIMERO: Aprobar el Reglamento para la administración técnica y financiera de la Unidad de Atención Social, el cual establece los requisitos para la gestión de las medidas reparatorias del “Programa Social de Atención a las Familias de los Mártires de la Resistencia Hondureña’’, coordinados desde la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), institución encargada de la ejecución de las medidas en cumplimiento de lo dispuesto en el PCM 17- 2022, emitido el 21 de octubre de 2022.
+PRIMERO: Aprobar el Reglamento para la administración técnica y financiera de la Unidad de Atención Social, el cual establece los requisitos para la gestión de las medidas reparatorias del “Programa Social de Atención a las Familias de los Mártires de la Resistencia Hondureña’’, coordinados desde la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL), institución encargada de la ejecución de las medidas en cumplimiento de lo dispuesto en el PCM 17-2022, emitido el 21 de octubre de 2022.
 
 REGLAMENTO PARA LA ADMINISTRACIÓN TÉCNICA Y FINANCIERA DE LA UNIDAD DE ATENCIÓN SOCIAL
 
@@ -261,7 +259,7 @@ CONSIDERANDO: Que, según la Ley General de la Administración Pública, la emis
 
 CONSIDERANDO: Que de conformidad al Decreto Legislativo 170-2006 publicado en el Diario Oficial La Gaceta N°. 31,193 de fecha 30 de diciembre 2006, el Instituto de Acceso a la Información Pública, (IAIP) es el órgano de la Administración Pública encargada de regular y supervisar los procedimientos de las instituciones obligadas, en cuanto a la protección, clasificación y custodia de la información pública.
 
-CONSIDERANDO: Que mediante Acuerdo N°. 002- 2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la Clasificación y Desclasificación como Reservada de la Información que tienen o generan las Instituciones Obligadas por la Ley de Transparencia y Acceso a la Información Pública.
+CONSIDERANDO: Que mediante Acuerdo N°. 002-2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la Clasificación y Desclasificación como Reservada de la Información que tienen o generan las Instituciones Obligadas por la Ley de Transparencia y Acceso a la Información Pública.
 
 CONSIDERANDO: Que tanto la Ley de Transparencia y Acceso a la Información Pública, como su reglamento y los Lineamientos emitidos por el Instituto de Acceso a la Información Pública, establecen que las Instituciones Obligadas, por razón de su naturaleza y especialidad, podrán expedir criterios específicos de clasificación, de conformidad con lo previsto en el artículo 28 del Reglamento de la Ley de Transparencia y Acceso a la información Pública.
 
@@ -271,7 +269,7 @@ CONSIDERANDO: Que es atribución de la Administración Aduanera de Honduras, Adm
 
 CONSIDERANDO: Que, en cumplimiento a lo señalado en la Ley de Transparencia y Acceso a la Información Pública, la Administración Aduanera de Honduras, en apego a los principios de transparencia, rendición de cuentas, publicidad y buena fe, emitió el Acuerdo ADUANAS-DE-023-2021, de fecha 02 de septiembre del 2021 declarando como reservada la información allí señalada, presentando posteriormente en fecha 8 de diciembre del año 2021, ante el Instituto de Acceso a la Información Pública la solicitud de Clasificación de dicha Información como Reservada.
 
-CONSIDERANDO: Que el Instituto de Acceso a la Información Pública, emitió Resolución No. SO-399- 2024 de fecha 09 de octubre de 2024, mediante la cual se pronunció sobre la solicitud de clasificación de la información como reservada relacionada en el Acuerdo ADUANASDE-023-2021, la que declaró Con Lugar parcialmente, e instruye a la Administración Aduanera de Honduras, proceder a emitir el Acuerdo de Clasificación de la Información como Reservada de conformidad a los puntos otorgados en la presente resolución, por consiguiente, se emite el presente Acuerdo de conformidad a los puntos otorgados en la Resolución supra indicada.
+CONSIDERANDO: Que el Instituto de Acceso a la Información Pública, emitió Resolución No. SO-399-2024 de fecha 09 de octubre de 2024, mediante la cual se pronunció sobre la solicitud de clasificación de la información como reservada relacionada en el Acuerdo ADUANASDE-023-2021, la que declaró Con Lugar parcialmente, e instruye a la Administración Aduanera de Honduras, proceder a emitir el Acuerdo de Clasificación de la Información como Reservada de conformidad a los puntos otorgados en la presente resolución, por consiguiente, se emite el presente Acuerdo de conformidad a los puntos otorgados en la Resolución supra indicada.
 
 CONSIDERANDO: Que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones y Providencias.
 

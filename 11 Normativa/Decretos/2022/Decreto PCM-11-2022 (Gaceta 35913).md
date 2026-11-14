@@ -11,7 +11,7 @@ paginas: "A. 15 - 20"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220503-35913/download"
 extraido: "2026-11-14"
-huella: "682114acd8e01092"
+huella: "9a7a0be5a6979a43"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-11-2022
@@ -35,11 +35,11 @@ CONSIDERANDO: Que es un compromiso del presente Gobierno de la República, retom
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 11 establece que la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el artículo 13 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No.266-2013, que contiene la “Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno”, establece que la Presidenta de la República puede crear comisiones integradas por funcionarios públicos, personalidades y representantes de diversos sectores de la vida nacional y asesores nacionales o extranjeros; así mismo puede designar autoridades únicas para el desarrollo de áreas, programas o proyectos especiales, con las atribuciones que determinen los Decretos de su creación.
+CONSIDERANDO: Que el artículo 13 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, que contiene la “Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno”, establece que la Presidenta de la República puede crear comisiones integradas por funcionarios públicos, personalidades y representantes de diversos sectores de la vida nacional y asesores nacionales o extranjeros; así mismo puede designar autoridades únicas para el desarrollo de áreas, programas o proyectos especiales, con las atribuciones que determinen los Decretos de su creación.
 
-CONSIDERANDO: Que de acuerdo con lo establecido en la Ley General de la Administración Pública en su artículo 14 reformado mediante Decreto Legislativo No.266-2013, que contiene la “Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno”, se establece que la Presidenta de la República, actuando en Consejo de Secretarios de Estado, está facultada para crear, modificar, fusionar, suspender, escindir o suprimir Secretarías de Estado, Organismos o Entidades Desconcentradas y dependencias de la Administración Pública.
+CONSIDERANDO: Que de acuerdo con lo establecido en la Ley General de la Administración Pública en su artículo 14 reformado mediante Decreto Legislativo No. 266-2013, que contiene la “Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno”, se establece que la Presidenta de la República, actuando en Consejo de Secretarios de Estado, está facultada para crear, modificar, fusionar, suspender, escindir o suprimir Secretarías de Estado, Organismos o Entidades Desconcentradas y dependencias de la Administración Pública.
 
-CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículos 98, 99 y 100, reformados por el Decreto Legislativo No.266-2013, establece que: el Poder Ejecutivo puede intervenir total o parcialmente, todos los entes, órganos o unidades de la Administración Pública que operen con pérdidas, no cumplan con sus funciones o no presten adecuadamente los servicios por los cuales fueron creados.
+CONSIDERANDO: Que la Ley General de la Administración Pública en sus Artículos 98, 99 y 100, reformados por el Decreto Legislativo No. 266-2013, establece que: el Poder Ejecutivo puede intervenir total o parcialmente, todos los entes, órganos o unidades de la Administración Pública que operen con pérdidas, no cumplan con sus funciones o no presten adecuadamente los servicios por los cuales fueron creados.
 
 CONSIDERANDO: Que el Decreto Ejecutivo PCM-05-2022 aprobado el 6 de abril de 2022, en su Artículo 21 expresa:
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el Decreto Ejecutivo PCM-05-2022 aprobado el 6 de abril de 202
 
 “Crear el Programa de la Red Solidaria, como un ente desconcentrado de la Secretaría de Estado en el Despacho de Desarrollo Social, que tendrá como objetivo la reducción de la pobreza y la pobreza extrema, mediante la ejecución de Programas y Proyectos dirigidos a las poblaciones vulnerables, focalizadas por los sistemas de información social y las herramientas técnicas del Estado disponibles … Los Proyectos que se encuentran bajo la responsabilidad de la Agencia Estratégica de Proyectos Productivos, Ambientales y Sociales (AEPAS-H), se ejecutarán a través del Programa de Red Solidaria”. Así mismo, en su Artículo 22 expresa: “Los programas y proyectos en desarrollo a través del Servicio Nacional de Emprendimiento y de Pequeños Negocios (SENPRENDE), pasarán a formar parte de la Red Solidaria”.
 
-POR TANTO, En uso de las facultades establecidas en los artículos 245 numerales 11 y 19 de la Constitución de la República de Honduras, 2, 7, 9, 10, 11, 13, 33, 98, 99, 100, 116 y 118 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No.266-2013 y Decreto Ejecutivo Número PCM-05-2022 de fecha 6 de abril de 2022.
+POR TANTO, En uso de las facultades establecidas en los artículos 245 numerales 11 y 19 de la Constitución de la República de Honduras, 2, 7, 9, 10, 11, 13, 33, 98, 99, 100, 116 y 118 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013 y Decreto Ejecutivo Número PCM-05-2022 de fecha 6 de abril de 2022.
 
 DECRETA:
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 14"
 sumario: "Acuerdo Ejecutivo Número 037-DP-2026Decretos Ejecutivos Números 017-2026, 018-2026,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260615-37168/download"
 extraido: "2026-11-09"
-huella: "c1f1b772351969da"
+huella: "04b543bd906456a5"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 018-2026
@@ -123,7 +123,7 @@ CONSIDERANDO: Que los Estados deben aplicar el Principio de Precaución, conform
 
 CONSIDERANDO: Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS 557-20) establece las regulaciones y medidas de seguridad que deben cumplirse en esta actividad, a fin de prevenir daños a la salud y a la vida humana.
 
-CONSIDERANDO: Que la DIGEPESCA ha desarrollado, desde la temporada pesquera 2014- 2015 hasta la presente temporada 2025- 2026, investigaciones orientadas al ordenamiento para el aprovechamiento sostenible del pepino de mar (Holothuria mexicana) en el Caribe de Honduras, generando recomendaciones técnicas y científicas para la gestión de este recurso.
+CONSIDERANDO: Que la DIGEPESCA ha desarrollado, desde la temporada pesquera 2014-2015 hasta la presente temporada 2025-2026, investigaciones orientadas al ordenamiento para el aprovechamiento sostenible del pepino de mar (Holothuria mexicana) en el Caribe de Honduras, generando recomendaciones técnicas y científicas para la gestión de este recurso.
 
 CONSIDERANDO: Que la Ley General de Pesca y Acuicultura, en su Artículo 15, establece que todas las especies hidrobiológicas de interés pesquero y acuícola, así como su hábitat, están sujetas a planes de ordenamiento y a un aprovechamiento regulado mediante planes de manejo.
 
@@ -135,7 +135,7 @@ CONSIDERANDO: Que los pueblos indígenas deben gozar del derecho preferente en e
 
 CONSIDERANDO: Que mediante el Acuerdo Ministerial SAG-166-2025, de fecha 31 de octubre del año 2025, se autorizó la pesca de Pepino de Mar (Holothuria mexicana) a partir del 01 de noviembre del año 2025 al 31 de mayo del año 2026.
 
-CONSIDERANDO: Que la Dirección General de Pesca y Acuicultura recibió solicitudes de Asociación de grupos de pescadores de la Mosquitia AGRUPEM y Asociación para Fortalecer Técnica y Científica de la pesca de pepino de mar AFOTEC, se emitió Informe Tecnico DITT- 024- 2026 y Dictamen Tecnico DGPA- 224-2026, donde se realizan las consideraciones técnicas para extender el periodo de pesca de pepino de mar en el caribe de Honduras.
+CONSIDERANDO: Que la Dirección General de Pesca y Acuicultura recibió solicitudes de Asociación de grupos de pescadores de la Mosquitia AGRUPEM y Asociación para Fortalecer Técnica y Científica de la pesca de pepino de mar AFOTEC, se emitió Informe Tecnico DITT-024-2026 y Dictamen Tecnico DGPA-224-2026, donde se realizan las consideraciones técnicas para extender el periodo de pesca de pepino de mar en el caribe de Honduras.
 
 POR TANTO
 

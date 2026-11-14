@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 35-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241115-36690/download"
 extraido: "2026-11-14"
-huella: "b9b1037d6a39d32a"
+huella: "7da24c0dcb506632"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 35-2024
@@ -61,7 +61,7 @@ Su objeto deberá ser determinado y la necesidad que se pretende satisfacer debe
 
 POR TANTO, En uso de las facultades contenidas en los artículos 59, 245 numerales 2, 11, 19 y 45; 248, 252, 321, 323 y 360 de la Constitución de la República; artículos 11, 17, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública; artículos 9, 10 y 63 numeral 1) de la Ley de Contratación del Estado; Ley para la Protección de las Mujeres en Contextos de Crisis Humanitarias, Desastres Naturales y Emergencias (Decreto Legislativo 9-2023); y, demás aplicables.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

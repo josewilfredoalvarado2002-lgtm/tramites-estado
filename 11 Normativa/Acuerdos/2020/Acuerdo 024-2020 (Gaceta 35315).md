@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo No. 024-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200716-35315/download"
 extraido: "2026-11-14"
-huella: "3acf2b7ccdddd3e1"
+huella: "b701023e3d0b11bd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 024-2020
@@ -41,13 +41,13 @@ CONSIDERANDO: Que el Gobierno de la República mediante Decreto Ejecutivo No. PC
 
 CONSIDERANDO: Que el Gobierno de la República mediante Decreto Ejecutivo No. PCM-020-2020 aprobó una serie de medidas fiscales en el marco del estado de emergencia sanitaria, que incluyen entre otras la reorientación de recursos consignados actualmente en el Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 para cubrir los insumos, materiales, suministros y todos los gastos necesarios para hacer frente a la emergencia declarada.
 
-CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas mediante Circular No. 003-DGP- 2020 de fecha 23 de marzo de 2020, indica que entre las medidas para la ejecución presupuestaria ejercicio fiscal 2020, es primordial garantizar el derecho a la salud y la atención de requerimientos urgentes para contrarrestar el virus COVID-19 añadir considerando relacionado con la justificación para la modificación.
+CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas mediante Circular No. 003-DGP-2020 de fecha 23 de marzo de 2020, indica que entre las medidas para la ejecución presupuestaria ejercicio fiscal 2020, es primordial garantizar el derecho a la salud y la atención de requerimientos urgentes para contrarrestar el virus COVID-19 añadir considerando relacionado con la justificación para la modificación.
 
 CONSIDERANDO: Que la Comisión Nacional de Bancos y Seguros, en cumplimiento de las disposiciones emitidas por el Gobierno de la República, ha procedido a implementar medidas de restricción del gasto las que han generado sustanciales ahorros presupuestarios que pueden ser destinados para apoyar al sistema hospitalario público nacional, para la atención de necesidades que la emergencia sanitaria demanda suplir en consideración a la alta nivel de contagio del COVID-19 que está sufriendo la ciudadanía.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.023-2018 de fecha 16 de abril del 2018 y publicado en el Diario Oficial La Gaceta el 20 de abril de 2018, el presidente de la República delegó en la Subsecretaria de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 023-2018 de fecha 16 de abril del 2018 y publicado en el Diario Oficial La Gaceta el 20 de abril de 2018, el presidente de la República delegó en la Subsecretaria de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
-POR TANTO, En el uso de las facultades de que está investido y en aplicación de los artículos: 245 numerales 5 y 11, de la Constitución de la República; 10, 33, 116, 118, 119, 122 de la Ley General de la Administración Pública; 3, 26 de la Ley de Procedimiento Administrativo; artículo 37 de la Ley Orgánica del Presupuesto, artículo 23 de las Normas Técnica del Subsistema de Presupuesto y artículo 34 de las Normas de Ejecución Presupuestaria 2020, aprobadas mediante Decreto Legislativo No.171-2020
+POR TANTO, En el uso de las facultades de que está investido y en aplicación de los artículos: 245 numerales 5 y 11, de la Constitución de la República; 10, 33, 116, 118, 119, 122 de la Ley General de la Administración Pública; 3, 26 de la Ley de Procedimiento Administrativo; artículo 37 de la Ley Orgánica del Presupuesto, artículo 23 de las Normas Técnica del Subsistema de Presupuesto y artículo 34 de las Normas de Ejecución Presupuestaria 2020, aprobadas mediante Decreto Legislativo No. 171-2020
 
 ACUERDA:
 

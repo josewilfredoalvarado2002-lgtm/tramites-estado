@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto Ejecutivo Número PCM 24-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230520-36233/download"
 extraido: "2026-11-14"
-huella: "55865544ec21569f"
+huella: "9b0648927d0b4de2"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 24-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que en cumplimiento a lo establecido en la Constitución de la Rep
 
 CONSIDERANDO: Que en fecha 31 de marzo de 2023, el Consejo Nacional de Defensa y Seguridad (CNDS) aprobó de manera unánime la II etapa del Plan Nacional de Seguridad “SOLUCIÓN CONTRA EL CRIMEN” (SCC), en cuyas medidas se establece dar continuidad a la actual suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99.
 
-CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional, la Dirección Nacional de Investigación e Inteligencia (DNII), y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de la Policía Militar del Orden Público (PMOP), en cumplimiento del Decreto Ejecutivo número PCM 29-2022, del Decreto Ejecutivo número PCM 01-2023, del Decreto Ejecutivo número PCM 10-2023, y del Decreto Ejecutivo número 15- 2023, de suspensión de garantías constitucionales, han rendido muy buenos resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
+CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional, la Dirección Nacional de Investigación e Inteligencia (DNII), y con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de la Policía Militar del Orden Público (PMOP), en cumplimiento del Decreto Ejecutivo número PCM 29-2022, del Decreto Ejecutivo número PCM 01-2023, del Decreto Ejecutivo número PCM 10-2023, y del Decreto Ejecutivo número 15-2023, de suspensión de garantías constitucionales, han rendido muy buenos resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
 
 CONSIDERANDO: Que son de público conocimiento los logros positivos alcanzados a través de los Decretos de Suspensión de Garantías, entre los cuales se encuentran una reducción significativa de homicidios, más de 150 bandas criminales desarticuladas, 3,445 allanamientos de morada exitosos, 3,134 órdenes de captura, 2,263 armas de fuego decomisadas, 4,895 libras de marihuana decomisadas, 475 kilos de cocaína decomisada, 17,633 piedras de droga crack decomisadas, 1,372 vehículos decomisados, 6,441 motocicletas decomisadas, entre otros.
 

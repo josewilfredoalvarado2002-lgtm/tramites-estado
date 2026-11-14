@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "Zona Libre Turística, Islas de la Bahía Acuerdo No. 003-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220615-35950/download"
 extraido: "2026-11-14"
-huella: "bae4a093a4224d05"
+huella: "8303b8c5f5ebcd51"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-2022
@@ -27,7 +27,7 @@ huella: "bae4a093a4224d05"
 
 ## Texto
 
-CONSIDERANDO (1): Que mediante Decreto No. 181- 2006 de fecha 29 de noviembre del 2006, el Soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 del 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha.
+CONSIDERANDO (1): Que mediante Decreto No. 181-2006 de fecha 29 de noviembre del 2006, el Soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 del 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha.
 
 CONSIDERANDO (2): Que la Comisión Administradora de la Zona Libre Turística del departamento de Islas de la Bahía es la entidad responsable de administrar la Zona Libre Turística con criterio administrativo, técnico y financiero propio.
 
@@ -67,7 +67,7 @@ RIXI RAMONA MONCADA GODOY
 
 Presidente de la Comisión Administradora de la Zona Libre Turística de Islas de la Bahía CARLOS EDUARDO FLORES Secretario General Acuerdo No. 05-2010 Avance Próxima Edición
 
-DECRETA: PRIMERO: Reformar los Artículos 1, 3, 8, 9 y 12 del Decreto No.146, contentivo de la LEY DE PROTECCION AL MOVIMIENTO SCOUT, publicado en el Diario Oficial.
+DECRETA: PRIMERO: Reformar los Artículos 1, 3, 8, 9 y 12 del Decreto No. 146, contentivo de la LEY DE PROTECCION AL MOVIMIENTO SCOUT, publicado en el Diario Oficial.
 
 CENTROS DE DISTRIBUCIÓN:
 

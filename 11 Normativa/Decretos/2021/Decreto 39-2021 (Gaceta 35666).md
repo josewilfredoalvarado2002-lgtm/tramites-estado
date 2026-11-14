@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 39-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210724-35666/download"
 extraido: "2026-11-14"
-huella: "5fd2968d96377b9c"
+huella: "c00718a8e2f1b33f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 39-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República, establece en su Artículo 351 que “El sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente”.
 
-CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No.168-2019, de fecha 12 de Diciembre del año 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 24 de Febrero del año 2020, Edición No.35,183, se aprobó Amnistía general de multas y recargos por pago tardío o no pago de obligaciones con el Estado por parte de las personas naturales y jurídicas, para coadyuvar al cumplimiento de las obligaciones de la manera menos onerosa, misma que fue ampliada mediante Decreto No.188- 2020 de fecha 7 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del año 2021, Edición No.35,506, sin embargo, en este último no se incluyó el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) y la Empresa Hondureña de Telecomunicaciones (HONDUTEL).
+CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto No. 168-2019, de fecha 12 de Diciembre del año 2019 y publicado en el Diario Oficial “La Gaceta” de fecha 24 de Febrero del año 2020, Edición No. 35,183, se aprobó Amnistía general de multas y recargos por pago tardío o no pago de obligaciones con el Estado por parte de las personas naturales y jurídicas, para coadyuvar al cumplimiento de las obligaciones de la manera menos onerosa, misma que fue ampliada mediante Decreto No. 188-2020 de fecha 7 de Enero del año 2021 y publicado en el Diario Oficial “La Gaceta” en fecha 4 de Febrero del año 2021, Edición No. 35,506, sin embargo, en este último no se incluyó el Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA) y la Empresa Hondureña de Telecomunicaciones (HONDUTEL).
 
 CONSIDERANDO: Que existe una población de 1,200,000 habitantes de los diferentes barrios y colonias, Instituciones Gubernamentales, la Industria y Comercio que hacen uso del servicio de agua potable y alcantarillado sanitario, siendo así, que de los 123,570 clientes registrados con que cuenta la Institución, aproximadamente 40,000 clientes mantienen una morosidad histórica acumulada de L.1,579,610,216.57 al mes de Marzo del año 2021, de las cuales existen ciento ochenta y cinco (185) Juntas de Agua que representan a más de 47,000 conexiones, que benefician aproximadamente a más de medio millón de habitantes.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240520-36538/download"
 extraido: "2026-11-14"
-huella: "952708c9f3f2e016"
+huella: "fef29c07847fb775"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -61,7 +61,7 @@ Teniendo la facultad, en situaciones de crisis extraordinarias y muy graves, de 
 
 CONSIDERANDO: Que tanto el sistema universal como el sistema interamericano de protección de los derechos humanos, reconocen la posibilidad para un Estado Parte de suspender algunas de sus obligaciones en materia de derechos humanos en situaciones excepcionales (Pacto Internacional de Derechos Civiles y Políticos, artículo 4.1; y, Convención Americana sobre Derechos Humanos, artículo 27.1).
 
-CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos número PCM 29- 2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, y PCM 09-2024 de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad, particularmente por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
+CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, y PCM 09-2024 de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad, particularmente por el delito de extorsión, en los Municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
 
 CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
 

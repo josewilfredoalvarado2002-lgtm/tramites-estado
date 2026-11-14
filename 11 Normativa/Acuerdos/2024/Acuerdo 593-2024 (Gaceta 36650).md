@@ -11,7 +11,7 @@ paginas: "A. 52 - 56"
 sumario: "Acuerdo Ejecutivo No. 593-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "a4a4ec6abb410458"
+huella: "cc0ac90e46d312fb"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 593-2024
@@ -41,17 +41,13 @@ CONSIDERANDO (5): Que mediante Acuerdo Ejecutivo No. 408-2024 de fecha 28 de jun
 
 CONSIDERANDO (6): Que el artículo 338 del Decreto Legislativo No. 62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024 y sus Disposiciones Generales, establece lo siguiente: “Se autoriza una asignación presupuestaria de hasta Novecientos Cincuenta Millones de Lempiras Exactos (L. 950,000,000.00) para el desarrollo de infraestructura menor y obras sociales a petición y en beneficio de las Comunidades, Patronatos, Asociaciones, Alcaldías, Juntas de Agua, Cajas Rurales, entre otros; así como para el otorgamiento de becas de estudio en todos los niveles educativos. Las obras de infraestructura menor, sociales, becas y canchas deportivas se gestionarán a través del Fondo Hondureño de Inversión Social (FHIS), la Secretaría de Infraestructura y Transporte (SIT), Secretaría de Desarrollo Social (SEDESOL), Secretaría de Gobernación, Justicia y Descentralización (SGJD), Instituto de Crédito Educativo (EDUCRÉDITO), Fondo Social de Desarrollo Eléctrico (FOSODE) y la Comisión Nacional de Deportes, Educación Física y Recreación (CONDEPOR). Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que de conformidad con la Ley Orgánica del Presupuesto y la normativa que regula el Sistema de Administración Financiera Integrado SIAFI, realice las operaciones necesarias, previa solicitud de las instituciones referidas”.
 
-CONSIDERANDO (7): Que los artículos 62 y 63 del Acuerdo Ejecutivo No. 266-2024 contentivo del Reglamento de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024, regulan y establecen el procedimiento a seguir para la aplicación del artículo 338 del Decreto Legislativo No.
-
-62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024 y sus Disposiciones Generales.
+CONSIDERANDO (7): Que los artículos 62 y 63 del Acuerdo Ejecutivo No. 266-2024 contentivo del Reglamento de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024, regulan y establecen el procedimiento a seguir para la aplicación del artículo 338 del Decreto Legislativo No. 62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024 y sus Disposiciones Generales.
 
 CONSIDERANDO (8): Que para la adecuada aplicación del artículo 338 del Decreto Legislativo No. 62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024 y sus Disposiciones Generales, es necesaria la aclaración y enmienda de ciertos términos contenidos en los artículos 62 y 63 del Reglamento de las Disposiciones del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024, aprobado mediante Acuerdo Ejecutivo No. 266-2024 de fecha 22 de marzo de 2024, publicado en el Diario Oficial La Gaceta No. 36,501 de fecha 5 de abril de 2024.
 
 POR TANTO:
 
-En uso de las facultades que establecen los artículos 245 numerales 11) y 19) de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; 41 y 42 de la Ley de Procedimiento Administrativo; 1, 2, 5, de la Ley Orgánica del Presupuesto; y, Decreto Legislativo No.
-
-62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024.
+En uso de las facultades que establecen los artículos 245 numerales 11) y 19) de la Constitución de la República; 116 y 118 de la Ley General de la Administración Pública; 41 y 42 de la Ley de Procedimiento Administrativo; 1, 2, 5, de la Ley Orgánica del Presupuesto; y, Decreto Legislativo No. 62-2023, contentivo del Presupuesto General de Ingresos y Egresos de la República correspondiente al Ejercicio Fiscal 2024.
 
 ACUERDA:
 
@@ -65,7 +61,7 @@ ARTÍCULO 1.- Reformar el artículo 62 del Acuerdo Ejecutivo No. 266-2024 conten
 
 Gerencia 1, Unidad Ejecutora 1, programa 1, actividad
 
-012. Las instituciones antes referidas, que no cuenten con una Gerencia Administrativa (GA) exclusiva para la ejecución de estos fondos, deberán crear una GA bajo la denominación “Gerencia para Desarrollo de Proyectos autorizados en el art. 338 del Decreto Legislativo No.62- 2023”, con el propósito de ejecutar, dar seguimiento y liquidar en forma transparente los recursos asignados.
+012. Las instituciones antes referidas, que no cuenten con una Gerencia Administrativa (GA) exclusiva para la ejecución de estos fondos, deberán crear una GA bajo la denominación “Gerencia para Desarrollo de Proyectos autorizados en el art. 338 del Decreto Legislativo No. 62-2023”, con el propósito de ejecutar, dar seguimiento y liquidar en forma transparente los recursos asignados.
 
 La ejecución de los recursos es responsabilidad directa de las Instituciones Ejecutoras antes referidas.
 
@@ -83,7 +79,7 @@ b. FMP-04 detallando las estructuras presupuestarias a incorporar.
 
 c. Ficha de identificación por cada una de las obras de infraestructura menor, obra social y/o becas. La ficha será proporcionada a las Instituciones Ejecutoras por la SEFIN a través de la Dirección General de Inversión Pública.
 
-d. Cumplimiento de los requisitos establecidos en el artículo 230 del Decreto Legislativo No.62-2023.
+d. Cumplimiento de los requisitos establecidos en el artículo 230 del Decreto Legislativo No. 62-2023.
 
 e. Respecto de las ayudas y obras sociales contentivas de prestaciones sociales materiales o entregables (kits escolares, certificados o cupones de alimento), Instituciones Ejecutoras deberán realizar convenios con la Suplidora Nacional de Productos Básicos (BANASUPRO). Estas ayudas sociales, materiales o entregables deberán ser entregadas con el apoyo y productos de BANASUPRO.
 
@@ -91,7 +87,7 @@ e. Respecto de las ayudas y obras sociales contentivas de prestaciones sociales 
 
 5. Al finalizar la ejecución, la Institución Ejecutora debe proceder a la presentación del informe de Liquidación ante el Tribunal Superior de Cuentas, entregando copia a la Presidencia de la República y al Congreso Nacional.
 
-En caso de que los fondos sean orientados a proyectos de Inversión Pública, la Institución Ejecutora deberá seguir el procedimiento establecido en el Decreto Legislativo No.62-2023 y demás normas aplicables vigentes, para lo cual debe coordinar con la Dirección General de Inversión Pública de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+En caso de que los fondos sean orientados a proyectos de Inversión Pública, la Institución Ejecutora deberá seguir el procedimiento establecido en el Decreto Legislativo No. 62-2023 y demás normas aplicables vigentes, para lo cual debe coordinar con la Dirección General de Inversión Pública de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 Asimismo, para efectos de transparencia, las Instituciones Ejecutoras deberán enviar toda la información solicitada por la Dirección General de Inversión Pública de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), con la finalidad de publicar las obras y/o proyectos ejecutados en el portal Honduras Inversiones (https://hondurasinversiones.gob.hn/).
 

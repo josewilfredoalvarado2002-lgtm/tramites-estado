@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdos Nos. SEN-050-2022, SEN-051-2022, SEN-060-2022, SEN-061-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220521-35929/download"
 extraido: "2026-11-14"
-huella: "e3eb45110edc5efb"
+huella: "cc23f1923c6eabb8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-051-2022
@@ -29,9 +29,7 @@ huella: "e3eb45110edc5efb"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo Número 029-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260410-37114/download"
 extraido: "2026-11-09"
-huella: "6b65d374cb5acf5d"
+huella: "a1f85a6a3e941bcd"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 029-DP-2026
@@ -37,7 +37,7 @@ Que la Ley General de la Administración Pública en su Artículo 11 establece q
 
 CONSIDERANDO: Que el Artículo 118 de la Ley General de la Administración Pública establece que se emitirán AVANCE por Acuerdo las decisiones de carácter particular que se tomaren fuera de los procedimientos en que los particulares intervengan como parte interesada, lo que refuerza la importancia de utilizar la forma jurídica adecuada según la naturaleza del acto administrativo, asegurando así el debido proceso y la correcta tipificación del acto en el marco del ordenamiento jurídico.
 
-CONSIDERANDO: Que mediante la Ley Fundamental de Educación, aprobada mediante Decreto Legislativo 262- 2011 de fecha 19 de enero de 2012 y publicado en el Diario Oficial "La Gaceta" en fecha 22 de febrero de 2012, se creó el Consejo Nacional de Educación con la responsabilidad de elaborar y dar seguimiento a la política educativa nacional, así como articular horizontal y verticalmente el Sistema Nacional de Educación.
+CONSIDERANDO: Que mediante la Ley Fundamental de Educación, aprobada mediante Decreto Legislativo 262-2011 de fecha 19 de enero de 2012 y publicado en el Diario Oficial "La Gaceta" en fecha 22 de febrero de 2012, se creó el Consejo Nacional de Educación con la responsabilidad de elaborar y dar seguimiento a la política educativa nacional, así como articular horizontal y verticalmente el Sistema Nacional de Educación.
 
 CONSIDERANDO: Que el Artículo 28 de la Ley Fundamental de Educación establece que el Consejo Nacional de Educación está integrado, entre otros, por el Presidente de la República, quien lo preside.
 

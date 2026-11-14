@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220513-35922/download"
 extraido: "2026-11-14"
-huella: "43fa1ad91eec92db"
+huella: "26c363e43a47e712"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 1-2022
@@ -231,7 +231,7 @@ El participante activo o voluntario que no desea ninguno de los beneficios compl
 
 El monto de las primas por cobertura de seguros se determinará sobre la base de la nota técnica del “Seguro de Vida CAP ahorro”.
 
-A r t í c u l o 2 2 . T I P O S D E B E N E F I C I O S COMPLEMENTARIOS DE LA CAP. El Instituto brinda conforme a lo establecido en el Artículo 49 de la Ley y sus reformas, beneficios complementarios a opción de los participantes que mantengan su Cuenta CAP, siempre y cuando éstos lo requieran.
+Artículo 2 2 . TIPOS DE BENEFICIOS COMPLEMENTARIOS DE LA CAP. El Instituto brinda conforme a lo establecido en el Artículo 49 de la Ley y sus reformas, beneficios complementarios a opción de los participantes que mantengan su Cuenta CAP, siempre y cuando éstos lo requieran.
 
 La contratación de servicios que contienen los beneficios complementarios a favor de los participantes del Instituto debe realizarse en base al mejor precio y condiciones competitivas en el mercado de instituciones de seguros; para lo cual, el Instituto debe atender las disposiciones normativas emitidas por la CNBS en materia de Contratación de los Seguros por parte de las Instituciones Supervisadas.
 

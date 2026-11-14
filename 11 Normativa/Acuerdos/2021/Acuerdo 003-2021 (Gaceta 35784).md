@@ -11,7 +11,7 @@ paginas: "A. 1 - 36"
 sumario: "Acuerdo No. 003-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211129-35784/download"
 extraido: "2026-11-14"
-huella: "b0fc87e14ec4d65f"
+huella: "83a6593a0d1961d7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 003-2021
@@ -883,7 +883,7 @@ Artículo 110: Además de las contenidas en el Código de Trabajo, en los reglam
 
 12. Investigar las denuncias que le hicieran llegar por acoso y hostigamiento sexual, trasladando la misma a la autoridad competente para que deduzca las responsabilidades, conforme a ley;
 
-13. Contratar personas discapacitadas de conformidad a lo contenido en el Decreto No.17-91 “Ley de Promoción de Empleo para Personas Minusválidas”;
+13. Contratar personas discapacitadas de conformidad a lo contenido en el Decreto No. 17-91 “Ley de Promoción de Empleo para Personas Minusválidas”;
 
 14. Inscribir al colaborador(a) desde el primer día hábil laborado en el Instituto Hondureño de Seguridad Social (IHSS) de acuerdo a lo establecido jurídicamente por el referido ente;
 

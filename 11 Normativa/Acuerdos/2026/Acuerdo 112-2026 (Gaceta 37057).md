@@ -11,7 +11,7 @@ paginas: "A. 116 - 118"
 sumario: "Acuerdos No. 111-2026, 112-2026, 114-2026, 562-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260130-37057/download"
 extraido: "2026-11-09"
-huella: "f88f4e6ea066d5af"
+huella: "c085095595fcf4e8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 112-2026
@@ -49,7 +49,7 @@ CONSIDERANDO: Que todos los beneficios que los sistemas urbanos ofrecen para la 
 
 CONSIDERANDO: Que el Gobierno Socialista y Democrático de la Refundación Nacional, ha hecho suyos los principios de la Nueva Agenda Urbana Mundial en pro de la inclusión social y la erradicación de la pobreza para que nadie se quede atrás, asegurar el desarrollo de economías urbanas sostenibles e inclusivas, capaz de ofrecer trabajo productivo y decente para todos y garantizar la sostenibilidad del medio ambiente, con un desarrollo urbano resiliente y ambientalmente amigable.
 
-CONSIDERANDO: Que según los Artículos 1, 22 y 29 de la Ley de Ordenamiento Territorial, contenida en el Decreto Legislativo No.180-2003, el ordenamiento territorial se constituye en una política de Estado que, incorporando a la planificación nacional, promueve la gestión integral, estratégica y eficiente de todos los recursos de la Nación, humanos, naturales y técnicos, mediante la aplicación de políticas, estrategias y planes efectivos que aseguren el desarrollo humano y sostenible, incluyendo a las entidades de integración que corresponden a entidades vinculadas al régimen municipal y departamental.
+CONSIDERANDO: Que según los Artículos 1, 22 y 29 de la Ley de Ordenamiento Territorial, contenida en el Decreto Legislativo No. 180-2003, el ordenamiento territorial se constituye en una política de Estado que, incorporando a la planificación nacional, promueve la gestión integral, estratégica y eficiente de todos los recursos de la Nación, humanos, naturales y técnicos, mediante la aplicación de políticas, estrategias y planes efectivos que aseguren el desarrollo humano y sostenible, incluyendo a las entidades de integración que corresponden a entidades vinculadas al régimen municipal y departamental.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas mediante el Oficio número 585-DGPUSP-AC, emitió la Opinión Favorable con relación al Análisis de Impacto Fiscal (AIF) de la Política Nacional Urbana Territorial de Honduras; y, la Secretaría de Estado en el Despacho de Planificación Estratégica por medio del Dictamen Técnico número DT/DPP-SPE-022-04-11-2025, resolvió como favorable y viable la implementación de la Política Nacional Urbana Territorial de Honduras.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo CREE-12-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260314-37094/download"
 extraido: "2026-11-09"
-huella: "82e90d146aa647ff"
+huella: "3c88732d35536087"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-12-2026
@@ -41,7 +41,7 @@ Resultando:
 
 (4) años y en caso de renuncia, fallecimiento o remoción, la Presidencia de la República nombrará el sustituto por el tiempo restante para completar el período de cuatro (4) años.
 
-4. Que mediante Acuerdo Ejecutivo No.080-2021 emitido por el Presidente de la República de Honduras y publicado en el Diario Oficial La Gaceta en fecha veintiséis (26) de junio del año dos mil veintiuno (2021) se nombró al ciudadano LEONARDO ENRIQUE DERAS VASQUEZ, como Comisionado de la Comisión Reguladora de Energía Eléctrica (CREE).
+4. Que mediante Acuerdo Ejecutivo No. 080-2021 emitido por el Presidente de la República de Honduras y publicado en el Diario Oficial La Gaceta en fecha veintiséis (26) de junio del año dos mil veintiuno (2021) se nombró al ciudadano LEONARDO ENRIQUE DERAS VASQUEZ, como Comisionado de la Comisión Reguladora de Energía Eléctrica (CREE).
 
 5. Que mediante Acuerdo Ejecutivo N°. 171-2026 emitido por el Presidente de la República de Honduras en fecha veinticuatro (24) de febrero de dos mil veintiséis (2026), se nombró en el cargo de Comisionado Presidente de la Comisión Reguladora de Energía Eléctrica al ciudadano HECTOR LUIS CORRALES AGÜERO, tomando posesión de su cargo inmediatamente después de que prestó la promesa de ley contenida en el artículo 322 de la Constitución de la República.
 
@@ -51,7 +51,7 @@ Considerando:
 
 Que la Constitución de la República establece que la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del pueblo el Presidente, correspondiéndole dirigir la política general del Estado y representarlo, así como emitir acuerdos y decretos y expedir reglamentos y resoluciones conforme a Ley.
 
-Que mediante Decreto No. 404-2013 publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y sus reformas mediante Decretos Legislativos 61- 2020, 02-2022 y 46-2022 fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que mediante Decreto No. 404-2013 publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y sus reformas mediante Decretos Legislativos 61-2020, 02-2022 y 46-2022 fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que la Ley General de la Industria Eléctrica (LGIE) reformada a través del Decreto 46-2022, establece que la Comisión Reguladora de Energía Eléctrica (Comisión o CREE), está integrada por tres (3) comisionados de libre remoción y nombramiento de la Presidencia de la República. Los comisionados nombrados durarán cuatro (4) años y en caso de renuncia, fallecimiento o remoción, la Presidencia de la República nombrará el sustituto por el tiempo restante para completar el período de cuatro (4) años.
 

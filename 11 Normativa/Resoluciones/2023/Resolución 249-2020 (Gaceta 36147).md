@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 249-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230204-36147/download"
 extraido: "2026-11-14"
-huella: "939a818d32ea2253"
+huella: "ddf3e48705632d93"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 249-2020
@@ -59,7 +59,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA DE SAN ANDRÉS, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA DE SAN ANDRÉS, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente: en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002- 2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
@@ -97,7 +97,7 @@ ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular y normal e
 
 #### Artículo 5
 
-ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la Ley Marco del Sector Agua Potable y Saneamientoe.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) obtención del área de la microcuenca por medio de la compra , firma de convenios con dueños de terreno 2) mejorando la infraestructura 3) construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la use y maneje el agua adecuadamente y evitando el desperdicio del agua. g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento. Básicos j.- Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
+ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la Ley Marco del Sector Agua Potable y Saneamientoe.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno 2) mejorando la infraestructura 3) construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la use y maneje el agua adecuadamente y evitando el desperdicio del agua. g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento. Básicos j.- Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
 
 #### Artículo 6
 
@@ -125,7 +125,7 @@ CAPÍTULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS,
 
 #### Artículo 10
 
-ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- comités de apoyo integrada por : 1) Comité de Microcuencas.-
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- comités de apoyo integrada por: 1) Comité de Microcuencas.-
 
 \2) Comité de operación y mantenimiento.- 3) Comité de saneamiento y educación de usuarios 4) Comité de vigilancia.
 
@@ -231,7 +231,7 @@ ARTÍCULO 30.- La presente resolución deberá inscribirse en el Registro Especi
 
 ARTÍCULO 31.- Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial LA GACETA con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
 
-SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA DE SAN ANDRES, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de :la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
+SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA DE SAN ANDRES, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de:la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
 TERCERO: La JUNTA ADMINISTRADORA DE
 

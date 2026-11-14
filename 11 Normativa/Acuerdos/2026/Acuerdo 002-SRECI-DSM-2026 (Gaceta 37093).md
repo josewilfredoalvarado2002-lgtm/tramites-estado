@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Acuerdos Ejecutivos Nos. 001-SRECI-DSM-2026,002-SRECI-DSM-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260313-37093/download"
 extraido: "2026-11-09"
-huella: "71ff80f20b81deb5"
+huella: "ed9258c7f738f9a7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 002-SRECI-DSM-2026
@@ -55,9 +55,7 @@ Que mediante Acuerdo Presidencial No. 001, de fecha 30 de julio de 1998, el Pres
 
 CONSIDERANDO:
 
-Que mediante el Acuerdo Ministerial No. 001-SG-2025, emitido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, publicado en el Diario Oficial La Gaceta No. 36,864 del 14 de junio de 2025, se aprobó indebidamente un nuevo “Reglamento de Pasaportes Diplomáticos y Oficiales”, sin haberse derogado el Acuerdo Presidencial No.
-
-001, de fecha 30 de julio de 1998, emitido por el Presidente de la República y relacionado en el considerando anterior, por lo que de manera injustificada, ilegítima y lamentable, actualmente existen dos Reglamentos de Pasaportes Diplomáticos y Oficiales extremo que debe ineludiblemente ser enmendado en estricto derecho y con la contundencia que legalmente corresponde.
+Que mediante el Acuerdo Ministerial No. 001-SG-2025, emitido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, publicado en el Diario Oficial La Gaceta No. 36,864 del 14 de junio de 2025, se aprobó indebidamente un nuevo “Reglamento de Pasaportes Diplomáticos y Oficiales”, sin haberse derogado el Acuerdo Presidencial No. 001, de fecha 30 de julio de 1998, emitido por el Presidente de la República y relacionado en el considerando anterior, por lo que de manera injustificada, ilegítima y lamentable, actualmente existen dos Reglamentos de Pasaportes Diplomáticos y Oficiales extremo que debe ineludiblemente ser enmendado en estricto derecho y con la contundencia que legalmente corresponde.
 
 CONSIDERANDO:
 
@@ -71,9 +69,7 @@ Que la regulación del régimen de pasaportes diplomáticos y oficiales trascien
 
 CONSIDERANDO:
 
-Que el Artículo 6 de la Ley de Reactivación Económica y Desarrollo Humano, contenida en el Decreto Legislativo No.
-
-17-2026, publicada en el Diario Oficial La Gaceta No. 37,081 del 27 de febrero de 2026, autoriza a los titulares de las Instituciones de la Administración Pública a realizar un diagnóstico de identificación de todos aquellos actos que hubieren sido emitidos sin la observancia total o parcial de legalidad, omisión de requisitos o procedimientos, para que procedan a la anulación, cancelación, revocación o rescisión total o parcial de los mismos, a fin de garantizar una responsable administración y manejo de las finanzas públicas.
+Que el Artículo 6 de la Ley de Reactivación Económica y Desarrollo Humano, contenida en el Decreto Legislativo No. 17-2026, publicada en el Diario Oficial La Gaceta No. 37,081 del 27 de febrero de 2026, autoriza a los titulares de las Instituciones de la Administración Pública a realizar un diagnóstico de identificación de todos aquellos actos que hubieren sido emitidos sin la observancia total o parcial de legalidad, omisión de requisitos o procedimientos, para que procedan a la anulación, cancelación, revocación o rescisión total o parcial de los mismos, a fin de garantizar una responsable administración y manejo de las finanzas públicas.
 
 CONSIDERANDO:
 
@@ -95,9 +91,7 @@ Declarar la nulidad absoluta del Acuerdo No. 001-SG-2025, emitido por la Secreta
 
 SEGUNDO:
 
-Quedan sin valor ni efecto los pasaportes diplomáticos y oficiales que hubieren sido emitidos al amparo del Acuerdo No. 001-SG-2025 a favor de personas comprendidas fuera de las categorías establecidas en el Acuerdo Presidencial No. 001 de 1998 que contiene el “Reglamento de Pasaportes Diplomáticos, Oficiales y Especiales”, publicado en el Diario Oficial La Gaceta No.
-
-28,663, del 10 de septiembre de 1998.
+Quedan sin valor ni efecto los pasaportes diplomáticos y oficiales que hubieren sido emitidos al amparo del Acuerdo No. 001-SG-2025 a favor de personas comprendidas fuera de las categorías establecidas en el Acuerdo Presidencial No. 001 de 1998 que contiene el “Reglamento de Pasaportes Diplomáticos, Oficiales y Especiales”, publicado en el Diario Oficial La Gaceta No. 28,663, del 10 de septiembre de 1998.
 
 TERCERO:
 

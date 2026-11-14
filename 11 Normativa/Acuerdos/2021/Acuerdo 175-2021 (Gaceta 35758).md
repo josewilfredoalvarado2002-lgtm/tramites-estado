@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ministeriales Nos. 175-2021, 176-2021, 177-2021, 178-2021, 179-2021, 180-2021."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211029-35758/download"
 extraido: "2026-11-14"
-huella: "71d992df3657fee1"
+huella: "986da6bb0e8c0189"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 175-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Congreso Nacional mediante Decreto No. 188-2007 de fecha 10
 
 CONSIDERANDO: Que mediante Canje de Notas del 15 de enero de 2008, se acordó la corrección del Anexo 3.4 del Capítulo 3 relativo al “Trato Nacional y Acceso de Mercancías al Mercado, Sección Agrícola - Lista de Desgravación de Colombia para El Salvador, Guatemala y Honduras”.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No. 402- 2010 de fecha 18 de marzo de 2010, la Secretaría de Desarrollo Económico, estableció el 26 de marzo de 2010, como fecha de entrada en vigor del Tratado de Libre Comercio entre las Repúblicas El Salvador, Guatemala y Honduras con la República de Colombia.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 402-2010 de fecha 18 de marzo de 2010, la Secretaría de Desarrollo Económico, estableció el 26 de marzo de 2010, como fecha de entrada en vigor del Tratado de Libre Comercio entre las Repúblicas El Salvador, Guatemala y Honduras con la República de Colombia.
 
 CONSIDERANDO: Que de conformidad a las disposiciones de la categoría de desgravación “H” del Anexo 3.4 que refiere al Programa de Desgravación Arancelaria del Tratado de Libre Comercio entre las Repúblicas de El Salvador, Guatemala y Honduras con la República de Colombia, se establece un contingente de importación de 500 Toneladas Métricas, de Alimentos para perros o gatos acondicionados para la venta al por menor, excepto para los alimentos presentados en latas herméticas, clasificados en la partida arancelaria 2309.10.00.00 del Arancel Centroamericano de Importación (ACI).
 

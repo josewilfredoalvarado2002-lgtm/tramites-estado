@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ejecutivo número 037-A-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210904-35708/download"
 extraido: "2026-11-14"
-huella: "639b95712861dde7"
+huella: "fc231e42d44dbad4"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 037-A-2021
@@ -61,7 +61,7 @@ CARLOS ALBERTO MADERO ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE COORDINACIÓN
 
 \1) DECRETA: ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM-093-2021, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de agosto del 2021 Edición No.35,702.. Dicha restricción será efectiva por un plazo de siete
+Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81 y 84 de la Constitución de la República emitidas mediante Decreto Ejecutivo Número PCM-093-2021, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de agosto del 2021 Edición No. 35,702.. Dicha restricción será efectiva por un plazo de siete
 
 (07) días a partir del lunes Seis (06) de Septiembre hasta el domingo doce (12) de septiembre del 2021..
 

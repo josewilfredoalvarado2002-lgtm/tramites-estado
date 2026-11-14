@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdo No. 13/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211018-35749/download"
 extraido: "2026-11-14"
-huella: "47d22bcd989a83b9"
+huella: "664b26c075c9aea0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.13/2021.- Sesión No.3930 del 27 de septiembre
@@ -33,11 +33,11 @@ CONSIDERANDO: Que conforme con la Constitución de la República, la Ley del Ban
 
 CONSIDERANDO: Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de los mercados financieros y de la economía en general, por lo que es conveniente dictar normas orientadas a propiciar una adecuada operación de tales sistemas, de manera que se asegure el cumplimiento de los principios y estándares internacionales.
 
-CONSIDERANDO: Que en el Acuerdo No.08/2021 emitido por el BCH el 1 de julio de 2021, que contiene el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), se establecen las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
+CONSIDERANDO: Que en el Acuerdo No. 08/2021 emitido por el BCH el 1 de julio de 2021, que contiene el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), se establecen las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
 
 CONSIDERANDO: Que el citado Reglamento dispone que el proceso de implementación de truncamiento de cheques se realizará por etapas, efecto para el cual el BCH definirá el valor máximo de los cheques que serán truncados en la CCECH.
 
-CONSIDERANDO: Que mediante Acuerdo No.05/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó que se realice en tres (3) etapas el proceso de implementación del truncamiento de cheques al que se refiere el Artículo 33 del Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), estableciendo como valores máximos para cada una de ellas, los montos siguientes:
+CONSIDERANDO: Que mediante Acuerdo No. 05/2020 del 15 de mayo de 2020, el Directorio del BCH aprobó que se realice en tres (3) etapas el proceso de implementación del truncamiento de cheques al que se refiere el Artículo 33 del Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), estableciendo como valores máximos para cada una de ellas, los montos siguientes:
 
 CONSIDERANDO: Que el referido Acuerdo establece un período de seis (6) meses para el desarrollo de la primera etapa, estipulando que una vez finalizado ese tiempo se daría inicio a la segunda etapa y transcurrido un (1) año desde la implementación del truncamiento, el BCH, con base en el análisis del comportamiento de los cheques truncados, determinaría mediante Acuerdo la fecha de inicio de la tercera etapa con el truncamiento total.
 
@@ -51,7 +51,7 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 118, numeral 2) de la Ley General de la Administración Pública; 1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana; 2, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; 10, 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores; 33 del Reglamento para la Cámara de Compensación Electrónica de Cheques y oída la opinión de la Subgerencia de Operaciones de esta Institución,
 
-A C U E R D A:
+ACUERDA:
 
 1. Extender hasta el 1 de abril de 2022 la segunda etapa del proceso de truncamiento de cheques al que se refiere el Artículo 33 del Reglamento para la Cámara de Compensación Electrónica de Cheques, estableciendo como valor máximo cien mil lempiras (L100,000.00) o su equivalente en dólares estadounidenses.
 

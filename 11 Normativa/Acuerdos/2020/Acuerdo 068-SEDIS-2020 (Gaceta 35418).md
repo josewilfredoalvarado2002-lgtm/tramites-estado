@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ministerial No. 068-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201103-35418/download"
 extraido: "2026-11-14"
-huella: "03134f70ff3616cc"
+huella: "0839933124e1dd1e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 068-SEDIS-2020
@@ -39,9 +39,9 @@ CONSIDERANDO: Que las nuevas concepciones de la Administración Pública se orie
 
 CONSIDERANDO: Que la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia del Gobierno determina las nuevas competencias de la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social, entre las que se encuentran “la planificación, administración y ejecución de los Programas y Proyectos que se derivan de las Políticas Públicas en materia de desarrollo e inclusión social y las dirige a los grupos vulnerables y los orientados a la niñez, juventud, pueblos indígenas y afrohondureños, discapacitados, personas con necesidades especiales y adultos mayores”.
 
-CONSIDERANDO: Que mediante los Acuerdos Ministeriales No.055-SEDIS-2018 y No.055-A-SEDIS-2018 del suscrito, se acordó realizar la reestructuración organizacional, financiera y operativa a la Secretaría para mejorar el desempeño institucional de forma sistemática, expedita y facilitar la supervisión, monitoreo y evaluación de la prestación de servicios a la población; no obstante, para asegurar la regularidad de los procesos y procedimientos administrativos entre todas la dependencias, es necesario la emisión del presente Acuerdo, a efecto de completar procesos y procedimientos, elementos y conceptos que no habían sido considerados para una mejor eficiencia y operatividad, específicamente lo relacionado con la participación en el proceso de las diferentes propuestas de solicitudes de apoyo técnico y financiero de proyectos que ejecuta la SEDIS, a excepción de los proyectos ejecutados por Vivienda Saludable de la SEDIS, la cual ya tiene establecido su proceso de selección de ejecutores de conformidad a los Acuerdos Ministeriales Nos. 065SEDIS-2018 y 066-SEDIS-2018.
+CONSIDERANDO: Que mediante los Acuerdos Ministeriales No. 055-SEDIS-2018 y No. 055-A-SEDIS-2018 del suscrito, se acordó realizar la reestructuración organizacional, financiera y operativa a la Secretaría para mejorar el desempeño institucional de forma sistemática, expedita y facilitar la supervisión, monitoreo y evaluación de la prestación de servicios a la población; no obstante, para asegurar la regularidad de los procesos y procedimientos administrativos entre todas la dependencias, es necesario la emisión del presente Acuerdo, a efecto de completar procesos y procedimientos, elementos y conceptos que no habían sido considerados para una mejor eficiencia y operatividad, específicamente lo relacionado con la participación en el proceso de las diferentes propuestas de solicitudes de apoyo técnico y financiero de proyectos que ejecuta la SEDIS, a excepción de los proyectos ejecutados por Vivienda Saludable de la SEDIS, la cual ya tiene establecido su proceso de selección de ejecutores de conformidad a los Acuerdos Ministeriales Nos. 065SEDIS-2018 y 066-SEDIS-2018.
 
-CONSIDERANDO: Que en virtud de las Recomendaciones realizadas por la Auditoría Interna de la institución, mediante el MEMORANDUM No.022-DAI-SEDIS-2019 y MEMORANDUM No.023-DAI-SEDIS-2019, ambos de fecha 27 de febrero de 2019, es necesario, fortalecer la adjudicación de proyectos con la creación de un “COMITÉ TECNICO FINANCIERO DE REVISIÓN, EVALUACIÓN Y APROBACIÓN DE SOLICITUDES DE APOYO TÉCNICO-FINANCIERO PRESENTADAS A LA SEDIS”, para la mejor toma de decisión al momento de aprobar las propuestas y seleccionar los ejecutores de los proyectos y efectuar el correcto monitoreo, control, capacitación y seguimiento de los mismos.
+CONSIDERANDO: Que en virtud de las Recomendaciones realizadas por la Auditoría Interna de la institución, mediante el MEMORANDUM No. 022-DAI-SEDIS-2019 y MEMORANDUM No. 023-DAI-SEDIS-2019, ambos de fecha 27 de febrero de 2019, es necesario, fortalecer la adjudicación de proyectos con la creación de un “COMITÉ TECNICO FINANCIERO DE REVISIÓN, EVALUACIÓN Y APROBACIÓN DE SOLICITUDES DE APOYO TÉCNICO-FINANCIERO PRESENTADAS A LA SEDIS”, para la mejor toma de decisión al momento de aprobar las propuestas y seleccionar los ejecutores de los proyectos y efectuar el correcto monitoreo, control, capacitación y seguimiento de los mismos.
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial 040-SEDIS-2019, se Crea el “COMITÉ TECNICO FINANCIERO DE REVISIÓN, EVALUACIÓN Y APROBACIÓN DE SOLICITUDES DE APOYO TÉCNICOFINANCIERO PRESENTADAS A LA SEDIS”
 
@@ -49,15 +49,11 @@ CONSIDERANDO: Que a fin de cumplir con los estándares de calidad de servicio, p
 
 POR TANTO:
 
-En el ejercicio de las atribuciones que le confieren los artículos 1, 246, 247 y 321 de la Constitución de la República; 30, 33, 36 numerales 1), 2), 8), l0), 12), 17), de la Ley General de la Administracion Pública; Acuerdo Ministerial No.
-
-040-SEDIS-2019.
+En el ejercicio de las atribuciones que le confieren los artículos 1, 246, 247 y 321 de la Constitución de la República; 30, 33, 36 numerales 1), 2), 8), l0), 12), 17), de la Ley General de la Administracion Pública; Acuerdo Ministerial No. 040-SEDIS-2019.
 
 ACUERDA:
 
-PRIMERO: Modificar el ACUERDO MINISTERIAL No.
-
-040-SEDIS-2019, de fecha treinta (30) días del mes de abril del año dos mil diecinueve (2019).
+PRIMERO: Modificar el ACUERDO MINISTERIAL No. 040-SEDIS-2019, de fecha treinta (30) días del mes de abril del año dos mil diecinueve (2019).
 
 “PRIMERO: Crear el “COMITÉ TECNICO FINANCIERO DE REVISIÓN, EVALUACIÓN Y APROBACIÓN DE SOLICITUDES DE APOYO TÉCNICO-FINANCIERO PRESENTADAS A LA SEDIS” para la mejor toma de decisión al momento de aprobar las propuestas y seleccionar los ejecutores de los proyectos y efectuar el correcto monitoreo, control, capacitación y seguimiento de los mismos; a excepción de los proyectos ejecutados por Vivienda Saludable de la SEDIS, la cual ya tiene establecido su proceso de selección de ejecutores de conformidad a los Acuerdos Ministeriales Nos. 065-SEDIS-2018 y 066-SEDIS-2018.
 

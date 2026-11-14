@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 114 - 136"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "95f795326982ce31"
+huella: "5a061d257b87a874"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.06/2020.- Sesión No.3836 (Extraordinaria)
@@ -23,7 +23,7 @@ huella: "95f795326982ce31"
 | Emisor | Banco Central de Honduras |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 114 - 136 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
@@ -31,19 +31,19 @@ del 20 de mayo de 2020.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que el Gobierno de la República, mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, el cual fue reformado a través de los decretos ejecutivos números PCM-016-2020 del 3 de marzo de 2020 y PCM-023-2020 del 20 de marzo de 2020, declaró estado de emergencia humanitaria y sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por Coronavirus (Covid-19), estableciéndose además que la declaratoria de la referida emergencia tendrá vigencia hasta el 31 de diciembre de 2020.
 
-CONSIDERANDO: Que el Poder Ejecutivo, mediante el Decreto Ejecutivo Número PCM- 021-2020 del 15 de marzo del 2020, restringió ciertas garantías constitucionales establecidas en la Constitución de la República, el cual fue reformado y prorrogado mediante el Decreto Ejecutivo Número PCM-022- 2020 del 20 de marzo de 2020 y luego dicha restricción de garantías constitucionales se prorrogó mediante los decretos ejecutivos números PCM-026-2020 del 28 de marzo de 2020, PCM-028-2020 del 4 de abril de 2020, PCM-031-2020 del 11 de abril de 2020, PCM-033-2020 del 18 de abril de 2020 y PCM-036-2020 del 25 de abril de 2020; en el marco de los referidos decretos se restringió el derecho de libre circulación de las personas en todo el territorio nacional y se implementó un toque de queda absoluto a nivel nacional, como una medida para frenar la rápida expansión del Coronavirus (Covid-19); los referidos decretos ejecutivos fueron ratificados por el Congreso Nacional en todas y cada una de sus partes mediante los decretos legislativos No.33-2020 del 2 de abril de 2020 y No.42-2020 del 30 de abril de 2020.
+CONSIDERANDO: Que el Poder Ejecutivo, mediante el Decreto Ejecutivo Número PCM-021-2020 del 15 de marzo del 2020, restringió ciertas garantías constitucionales establecidas en la Constitución de la República, el cual fue reformado y prorrogado mediante el Decreto Ejecutivo Número PCM-022-2020 del 20 de marzo de 2020 y luego dicha restricción de garantías constitucionales se prorrogó mediante los decretos ejecutivos números PCM-026-2020 del 28 de marzo de 2020, PCM-028-2020 del 4 de abril de 2020, PCM-031-2020 del 11 de abril de 2020, PCM-033-2020 del 18 de abril de 2020 y PCM-036-2020 del 25 de abril de 2020; en el marco de los referidos decretos se restringió el derecho de libre circulación de las personas en todo el territorio nacional y se implementó un toque de queda absoluto a nivel nacional, como una medida para frenar la rápida expansión del Coronavirus (Covid-19); los referidos decretos ejecutivos fueron ratificados por el Congreso Nacional en todas y cada una de sus partes mediante los decretos legislativos No. 33-2020 del 2 de abril de 2020 y No. 42-2020 del 30 de abril de 2020.
 
-Posteriormente, mediante los decretos ejecutivos números PCM-042-2020 de 10 de mayo de 2020 y PCM-045- 2020 del 17 de mayo de 2020, el Gobierno prorrogó nuevamente la restricción de las referidas garantías constitucionales y la implementación de la medida del toque de queda a nivel nacional.
+Posteriormente, mediante los decretos ejecutivos números PCM-042-2020 de 10 de mayo de 2020 y PCM-045-2020 del 17 de mayo de 2020, el Gobierno prorrogó nuevamente la restricción de las referidas garantías constitucionales y la implementación de la medida del toque de queda a nivel nacional.
 
 CONSIDERANDO: Que los efectos de estas restricciones han venido afectando al Sector Mipymes, ya que éstas generan aproximadamente el setenta por ciento (70.0%) de los empleos en Honduras; sin embargo, en muchos casos por carecer de una garantía se les dificulta acceder a financiamientos en el sistema financiero que les permita optar a capital de trabajo o realizar inversiones en sus negocios, lo cual hace necesario crear mecanismos financieros que apoyen a este sector que es de mucha importancia para nuestro país.
 
-CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No.33-2020 del 2 de abril de 2020, aprobó la “Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19”, la cual en su Artículo 17 autoriza al Banco Hondureño para la Producción y la Vivienda (Banhprovi) para que constituya y administre cualquier tipo de fondos de garantía; asimismo, a que otorgue financiamiento al Sector Mipyme a través de todas las Instituciones Financieras Calificadas como Elegibles, aceptando entre otras, un colateral consistente en un Certificado de Garantía emitido por cualquier Entidad autorizada para administrar Fondos de Garantía.
+CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No. 33-2020 del 2 de abril de 2020, aprobó la “Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19”, la cual en su Artículo 17 autoriza al Banco Hondureño para la Producción y la Vivienda (Banhprovi) para que constituya y administre cualquier tipo de fondos de garantía; asimismo, a que otorgue financiamiento al Sector Mipyme a través de todas las Instituciones Financieras Calificadas como Elegibles, aceptando entre otras, un colateral consistente en un Certificado de Garantía emitido por cualquier Entidad autorizada para administrar Fondos de Garantía.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, en su Artículo 24, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, establece que para garantizar los nuevos créditos o los refinanciamientos de créditos existentes se dispondrá del Fondo de Garantías creado en el Artículo 17 del Decreto Legislativo No.33-2020 del 2 de abril de 2020, el cual podrá modularse o graduar los porcentajes de garantía que emita según las prioridades de financiamiento que dicta el Gobierno de la República.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, en su Artículo 24, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, establece que para garantizar los nuevos créditos o los refinanciamientos de créditos existentes se dispondrá del Fondo de Garantías creado en el Artículo 17 del Decreto Legislativo No. 33-2020 del 2 de abril de 2020, el cual podrá modularse o graduar los porcentajes de garantía que emita según las prioridades de financiamiento que dicta el Gobierno de la República.
 
-CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No.38-2020 del 30 de abril del 2020, instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No.2246, suscrito el 25 de abril de 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
+CONSIDERANDO: Que el Congreso Nacional, mediante el Decreto Legislativo No. 38-2020 del 30 de abril del 2020, instruyó al Banco Central de Honduras (BCH) para que con los fondos provenientes y dentro del destino de los recursos estipulados en el Contrato de Línea de Crédito No. 2246, suscrito el 25 de abril de 2020 entre el Banco Centroamericano de Integración Económica (BCIE) y el BCH, constituya cualquier tipo de fondos de garantía para los sectores prioritarios de la economía, para lo cual el BCH deberá emitir los reglamentos que considere necesarios; facultándolo además para constituir en el Banhprovi o en cualquier otra institución del sistema financiero los fideicomisos que considere necesarios para la correcta administración de los referidos fondos de garantía.
 
-CONSIDERANDO: Que la Comisión Fiduciaria del BCH, en Sesión Ordinaria No.02/2020 celebrada el 20 de mayo de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19.
+CONSIDERANDO: Que la Comisión Fiduciaria del BCH, en Sesión Ordinaria No. 02/2020 celebrada el 20 de mayo de 2020, aprobó el Reglamento del Fondo de Garantía para la Reactivación de las Mipymes Afectadas por la Pandemia Provocada por el Covid-19.
 
 POR TANTO:
 
@@ -51,9 +51,9 @@ Con fundamento en los artículos 255, 262 y 343 de la Constitución de la Repúb
 
 6, 13 y 14 de la Ley de la Comisión Nacional de Bancos y Seguros; 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda;
 
-17 de Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; 2 y 3 del Decreto Legislativo No.38-2020 del 30 de abril de 2020; 24 del Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM- 041-2020 del 8 de mayo de 2020 y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos,
+17 de Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; 2 y 3 del Decreto Legislativo No. 38-2020 del 30 de abril de 2020; 24 del Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020 y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos,
 
-A C U E R D A:
+ACUERDA:
 
 1. Aprobar el REGLAMENTO DEL FONDO
 
@@ -79,7 +79,7 @@ Artículo 2. Legislación Aplicable.
 
 El Fondo de Garantía para la Reactivación de las Mipymes afectadas por la pandemia provocada por el Covid-19 debe regirse por el presente Reglamento, el Contrato del Fideicomiso suscrito entre el Banco Central de Honduras
 
-(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
+(BCH) y el Banco Hondureño para la Producción y Vivienda (Banhprovi) al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020, las disposiciones de la Comisión Fiduciaria del Banco Central (Cofid) y en lo pertinente por el Código de Comercio, Ley del Banco Central de Honduras, Ley del Sistema Financiero, Ley de la Comisión Nacional de Bancos y Seguros (CNBS), Ley del Banco Hondureño para la Producción y la Vivienda, Reglamento de Sanciones a ser Aplicado a las Instituciones Supervisadas por la CNBS y demás leyes y normas aplicables.
 
 #### Artículo 3
 
@@ -87,11 +87,11 @@ Artículo 3. Definiciones.
 
 a) BANCO CENTRAL DE HONDURAS (BCH):
 
-Institución que funge como fideicomitente y fideicomisario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+Institución que funge como fideicomitente y fideicomisario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
-b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+b) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución que funge como fiduciario del Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
-c) BENEFICIARIO O PRESTATARIO: Micro, Pequeña y Mediana Empresas (Mipymes) que se han visto afectadas por la disminución de sus flujos de efectivo, derivado de las medidas restrictivas de movilización, tomadas por el Gobierno de la República para evitar la propagación del Covid-19, y que se consideran sectores prioritarios de acuerdo con el Decreto Ejecutivo Número PCM- 030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos: Producción agropecuaria, turismo y alojamiento, industria manufacturera agrícola y no agrícola, industria y servicios de la construcción, comercio al por mayor y menor, transporte, logística, salud, servicios administrativos, actividades profesionales y cualquier otra actividad afectada por los efectos de la pandemia provocada por el Covid-19.
+c) BENEFICIARIO O PRESTATARIO: Micro, Pequeña y Mediana Empresas (Mipymes) que se han visto afectadas por la disminución de sus flujos de efectivo, derivado de las medidas restrictivas de movilización, tomadas por el Gobierno de la República para evitar la propagación del Covid-19, y que se consideran sectores prioritarios de acuerdo con el Decreto Ejecutivo Número PCM-030-2020 del 6 de abril de 2020, reformado mediante el Decreto Ejecutivo Número PCM-041-2020 del 8 de mayo de 2020, siendo éstos: Producción agropecuaria, turismo y alojamiento, industria manufacturera agrícola y no agrícola, industria y servicios de la construcción, comercio al por mayor y menor, transporte, logística, salud, servicios administrativos, actividades profesionales y cualquier otra actividad afectada por los efectos de la pandemia provocada por el Covid-19.
 
 d) CERTIFICADO DE GARANTÍA DE COBERTURA (CGC): Instrumento jurídico accesorio y autónomo que deriva de una obligación crediticia de una Institución Financiera Intermediarias (IFI), en la cual el Fondo de Garantía administrado por el Banhprovi garantiza parcialmente ante las IFIs los préstamos otorgados a las Mipymes de acuerdo a las condiciones detalladas en este Reglamento y que serán respaldadas con el capital del Fondo de Garantía para la Reactivación de las Mipymes afectadas por la pandemia provocada por el Covid-19.
 
@@ -111,7 +111,7 @@ h) CONTRATO DE ADHESIÓN PARA EL USO DEL FONDO DE GARANTÍA: Contrato suscrito e
 
 i) CONTRATO DE FIDEICOMISO: Es el Contrato suscrito entre el BCH y el Banhprovi para la administración del Fondo de Garantía para la Reactivación de las Mipymes afectadas por la pandemia provocada por el Covid-19.
 
-j) FIDEICOMISO BCH-FG MIPYMES: Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No.38-2020 del 30 de abril del 2020.
+j) FIDEICOMISO BCH-FG MIPYMES: Fideicomiso creado al amparo de lo establecido en la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los efectos de la pandemia provocada por el Covid-19 y en el Decreto Legislativo No. 38-2020 del 30 de abril del 2020.
 
 k) FONDO DE GARANTÍA PARA LA REACTIVACIÓN DE LAS MIPYMES AFECTADAS POR LA PANDEMIA PROVOCADA POR EL COVID-19 (FONDO DE GARANTÍA): Recursos patrimoniales destinados a la emisión de CGC que respaldarán parcialmente el financiamiento de créditos otorgados por las IFIs participantes con recursos propios a las Mipymes afectadas por la pandemia provocada por el Covid-19 destinados al apoyo de capital de trabajo.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 51"
 sumario: "Decretos Nos. 123-2022, 124-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221110-36073/download"
 extraido: "2026-11-14"
-huella: "631403c8dcd8d8e4"
+huella: "93ab7e4974b11da6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 123-2022
@@ -29,15 +29,15 @@ huella: "631403c8dcd8d8e4"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, Edición No.32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del Estado de Emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenios correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, Edición No. 32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del Estado de Emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenios correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el Gobierno de la República ha expuesto la crítica situación de las finanzas públicas recibidas después de trece (13) años del Golpe de Estado Militar y la instauración del régimen que destruyó la endeble institucionalidad y ocasionó perjuicios económicos y sociales de gran magnitud, como el endeudamiento, la corrupción y el empobrecimiento del Pueblo, sumado al entorno internacional de profundos desafíos por subsecuentes choques económicos de las crisis cíclicas del sistema; pandemias y desastres naturales provocados por el cambio climático; y concretamente el conflicto bélico en Europa que afecta los precios de los combustibles y la producción de alimentos a nivel mundial, aspectos exógenos que generan inflación (65% de ella importada) y afectan directamente nuestras finanzas y al pueblo hondureño.
 
 CONSIDERANDO: Que el conflicto ha generado una disrupción en los mercados internacionales, principalmente los asociados a los precios internacionales del combustible, energía, alimentos e insumos agrícolas. Ante dicho evento imprevisible y fuera de control nacional, el Gobierno de la República de Honduras, se ha visto obligado a implementar de manera inmediata medidas adicionales contra cíclicas para atenuar y estabilizar los precios internos de los combustibles, canasta básica de alimentos, insumos agrícolas, entre otros, disminuyendo así las afectaciones sobre la población más vulnerable y la economía nacional en su conjunto.
 
-CONSIDERANDO: Que el Gobierno de la República implementó varios mecanismos para reducir los impactos económicos generados por el alza de los combustibles, como ser: i) Decreto Legislativo No.3-2022, en el cual establece la reducción del APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL para una reducción del precio de la Gasolina Súper, Regular y Diésel en $0.4140 (aproximadamente L.10.00) por cada galón; ii) Decreto Ejecutivo No.06-2022, que determina un subsidio para la estabilización del precio de los combustibles líquidos correspondientes a Gasolina Regular y Diésel; y, iii) Decreto Ejecutivo PCM-02-2022, que establece un subsidio en favor de clientes con consumos iguales o inferiores a 150 kWh de energía, beneficiando a más de 900 mil familias.
+CONSIDERANDO: Que el Gobierno de la República implementó varios mecanismos para reducir los impactos económicos generados por el alza de los combustibles, como ser: i) Decreto Legislativo No. 3-2022, en el cual establece la reducción del APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL para una reducción del precio de la Gasolina Súper, Regular y Diésel en $0.4140 (aproximadamente L.10.00) por cada galón; ii) Decreto Ejecutivo No. 06-2022, que determina un subsidio para la estabilización del precio de los combustibles líquidos correspondientes a Gasolina Regular y Diésel; y, iii) Decreto Ejecutivo PCM-02-2022, que establece un subsidio en favor de clientes con consumos iguales o inferiores a 150 kWh de energía, beneficiando a más de 900 mil familias.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2297 suscrito el 23 de Septiembre de 2022, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta un monto de Doscientos Millones de Dólares de los Estados Unidos de América (US$200,000,000.00), recursos destinados a financiar la ejecución del "Programa Temporal de Apoyo ante la Crisis de los Combustibles en Honduras", con el objetivo de financiar las medidas implementadas o a implementar en el país, que reducen la afectación económica de los ciudadanos que tendrían que pagar un mayor precio por los combustibles.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2297 suscrito el 23 de Septiembre de 2022, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta un monto de Doscientos Millones de Dólares de los Estados Unidos de América (US$200,000,000.00), recursos destinados a financiar la ejecución del "Programa Temporal de Apoyo ante la Crisis de los Combustibles en Honduras", con el objetivo de financiar las medidas implementadas o a implementar en el país, que reducen la afectación económica de los ciudadanos que tendrían que pagar un mayor precio por los combustibles.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, numerales 19) y 36) de la Constitución de la República, corresponde al Congreso Nacional, aprobar o improbar los contratos y convenios que llevan involucrados exenciones, incentivos y concesiones fiscales celebrados por el Poder Ejecutivo.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que el Artículo 205 numeral 1) de la Constitución de la Repúbli
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO DE PRÉSTAMO No.2297, suscrito el 23 de Septiembre de 2022, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de DOSCIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$200,000,000.00), recursos destinados a financiar la ejecución del "PROGRAMA TEMPORAL DE APOYO ANTE LA CRISIS DE LOS COMBUSTIBLES EN HONDURAS", que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el CONTRATO DE PRÉSTAMO No. 2297, suscrito el 23 de Septiembre de 2022, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de DOSCIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$200,000,000.00), recursos destinados a financiar la ejecución del "PROGRAMA TEMPORAL DE APOYO ANTE LA CRISIS DE LOS COMBUSTIBLES EN HONDURAS", que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS CONTRATO DE PRÉSTAMO NO. 2297 “Programa Temporal de Apoyo ante la Crisis de los Combustibles en Honduras” Celebrado entre el BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE) y La República de Honduras INDICE COMPARECENCIA DE LAS PARTES ...................................................................
 
@@ -315,9 +315,7 @@ COMPARECENCIA DE LAS PARTES
 
 En la ciudad de Tegucigalpa, República de Honduras, a los [____] días del mes de septiembre del año dos mil veintidós (2022).
 
-DE UNA PARTE: El BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE” “el Banco”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Documento Nacional de Identificación No.
-
-0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: La REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rixi Ramona Moncada Godoy, mayor de edad, casada, hondureña, Abogada, con Documento Nacional de Identificación No. 0824-1965-00062, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, representantes debidamente autorizados y con suficiente capacidad para celebrar el presente acto, han convenido en celebrar, y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato de Préstamo” o “Contrato” o “Préstamo”, por medio del cual el BCIE concede al Prestatario un Préstamo y el Prestatario acepta y se obliga en el mismo, en los términos, pactos, condiciones y estipulaciones siguientes:
+DE UNA PARTE: El BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE” “el Banco”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Documento Nacional de Identificación No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: La REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rixi Ramona Moncada Godoy, mayor de edad, casada, hondureña, Abogada, con Documento Nacional de Identificación No. 0824-1965-00062, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, representantes debidamente autorizados y con suficiente capacidad para celebrar el presente acto, han convenido en celebrar, y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato de Préstamo” o “Contrato” o “Préstamo”, por medio del cual el BCIE concede al Prestatario un Préstamo y el Prestatario acepta y se obliga en el mismo, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -447,7 +445,7 @@ Los pagos que deba realizar el Prestatario en favor del BCIE conforme a este Con
 
 BANCO CORRESPONSAL:
 
-C I T I B A N K , N E W YORK, N.Y.
+CITIBANK, N E W YORK, N.Y.
 
 NUMERO ABA:
 
@@ -1131,7 +1129,7 @@ ANEXO D – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ ___________
+RECIBO POR US$ ___________
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del desembolso [número de desembolso] con cargo al Contrato de Préstamo N° _______ suscrito el [fecha del Préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -1145,7 +1143,7 @@ Cargo:
 
 [Sello y Firma del Prestatario]
 
-ANEXO E – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO E – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decretos Nos. 14-2026, 19-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260320-37099/download"
 extraido: "2026-11-09"
-huella: "fe29a643d2be452e"
+huella: "546b50bcc370504b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 19-2026
@@ -49,11 +49,11 @@ CONSIDERANDO: Que es facultad del Congreso Nacional otorgar exoneraciones fiscal
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- D i s p e n s a r a l C O NS EJO DE MUNICIPIOS DEL SUR DE SANTA BÁRBARA (CODEMUSSBA), del pago de derechos arancelarios, a la importación, impuestos, tasas y sobre tasas aduaneras, cargos, recargos, almacenaje o parqueo y cualquier otro tributo, relacionado a la importación y nacionalización de las siguientes unidades:
+ARTÍCULO 1.- Dispensar alCO NS EJO DE MUNICIPIOS DEL SUR DE SANTA BÁRBARA (CODEMUSSBA), del pago de derechos arancelarios, a la importación, impuestos, tasas y sobre tasas aduaneras, cargos, recargos, almacenaje o parqueo y cualquier otro tributo, relacionado a la importación y nacionalización de las siguientes unidades:
 
 \1) TIPO DE VEHÍCULO: AMBULANCIA MARCA DE CARROCERÍA: TOYOTA AÑO: 2007 NÚMERO DE CHASIS:
 
@@ -135,7 +135,7 @@ NASRY JUAN ASFURA ZABLAH PRESIDENTE DE LA REPÚBLICA SECRETARÍA DE ESTADO EN EL
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el numeral 28) del Artículo 99 de la LEY DE TRÁNSITO, contenida en Decreto No.205-2005 de fecha 3 de enero de 2006 y publicado en el Diario Oficial “La Gaceta” No.30,892, el cual se leerá de la manera siguiente.
+ARTÍCULO 1.- Reformar por adición el numeral 28) del Artículo 99 de la LEY DE TRÁNSITO, contenida en Decreto No. 205-2005 de fecha 3 de enero de 2006 y publicado en el Diario Oficial “La Gaceta” No. 30,892, el cual se leerá de la manera siguiente.
 
 CENTROS DE DISTRIBUCIÓN:
 

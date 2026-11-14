@@ -11,7 +11,7 @@ paginas: "A. 2 - 5"
 sumario: "Decreto No. 12-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220315-35873/download"
 extraido: "2026-11-14"
-huella: "303bb41be05a3a0b"
+huella: "c26d0390d0fe916d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 12-2022
@@ -35,21 +35,21 @@ CONSIDERANDO: Que se debe propiciar una cultura de transparencia, de rendición 
 
 CONSIDERANDO: Que el derecho al acceso a la información pública se incorpora al derecho interno vía la ratificación de la Convención Americana de Derechos Humanos que lo reconoce en su Artículo 13 y de la Convención Internacional Contra la Corrupción, que lo reconoce en su Artículo 10. Siendo un deber del Estado frente a la sociedad ajustar sus actuaciones a sus obligaciones generales de respetar, garantizar y proteger los derechos humanos, incluyendo el desarrollo de su derecho interno para garantizar los derechos en ella reconocidos, lo cual implica que las medidas de derecho interno han de ser efectivas.
 
-CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública, contenida en el Decreto No.170- 2006 de fecha 27 de Noviembre de 2006 ya establece sistemas claros y transparentes para la clasificación de una información determinada como sensible o clasificada, otorgando igualmente al ciudadano los recursos correspondientes en caso de estar en desacuerdo con dicha reserva.
+CONSIDERANDO: Que la Ley de Transparencia y Acceso a la Información Pública, contenida en el Decreto No. 170-2006 de fecha 27 de Noviembre de 2006 ya establece sistemas claros y transparentes para la clasificación de una información determinada como sensible o clasificada, otorgando igualmente al ciudadano los recursos correspondientes en caso de estar en desacuerdo con dicha reserva.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto No.418-2013, de fecha 20 de Enero del 2014, contentivo de la LEY PARA LA CLASIFICACIÓN DE DOCUMENTOS PÚBLICOS RELACIONADOS CON LA SEGURIDAD Y DEFENSA NACIONAL, publicada en el Diario Oficial “La Gaceta” de fecha 7 de Marzo del 2014, Edición No.33,373.
+ARTÍCULO 1.- Derogar el Decreto No. 418-2013, de fecha 20 de Enero del 2014, contentivo de la LEY PARA LA CLASIFICACIÓN DE DOCUMENTOS PÚBLICOS RELACIONADOS CON LA SEGURIDAD Y DEFENSA NACIONAL, publicada en el Diario Oficial “La Gaceta” de fecha 7 de Marzo del 2014, Edición No. 33,373.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Se ordena a partir de la fecha de entrada en vigencia el presente Decreto, desclasificar toda información que haya sido clasificada como reservada en aplicación de la LEY PARA LA CLASIFICACIÓN DE DOCUMENTOS PÚBLICOS R E L A C I O N A D O S C O N L A S E G U R I D A D Y D E F E N S A NACIONAL.
+ARTÍCULO 2.- Se ordena a partir de la fecha de entrada en vigencia el presente Decreto, desclasificar toda información que haya sido clasificada como reservada en aplicación de la LEY PARA LA CLASIFICACIÓN DE DOCUMENTOS PÚBLICOS RELACIONADOS CON LA SEGURIDAD Y DEFENSA NACIONAL.
 
 Los titulares de las instituciones estatales ya sean centralizadas, descentralizadas, desconcentradas, autónomas y demás instituciones obligadas, deberán a partir de la vigencia del presente Decreto, elevar la petición de clasificación de información como reservada, ante el Instituto de Acceso a la Información Pública (IAIP), tal como lo determina la Ley de Transparencia y Acceso a la Información Públicas y sus reglamentos.
 

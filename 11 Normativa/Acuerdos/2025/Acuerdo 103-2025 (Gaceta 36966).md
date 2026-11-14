@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Ministeriales Nos. 101-2025,102-2025, 103-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251013-36966/download"
 extraido: "2026-11-09"
-huella: "c069d0855baba677"
+huella: "10df14df57a25eaa"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 103-2025
@@ -35,7 +35,7 @@ Todo acto que ejecuten fuera de la Ley es nulo e implica responsabilidad”.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, les corresponde el conocimiento y resolución de los asuntos del ramo, pudiendo delegar en los Subsecretarios de Estado el ejercicio de atribuciones específicas.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM- 086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2022 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que en fecha 02 de noviembre de 2022, la Secretaría de Desarrollo Económico puso a disposición la plataforma SOL (Servicios al Ciudadano en Línea) para trámites 100% digitales de alta calidad, con acceso a servicios electrónicos y con mecanismos de seguridad a través de la implementación de firma electrónica, código QR, entre otros.
 
@@ -53,9 +53,7 @@ POR TANTO
 
 El Secretario de Estado en el Despacho de Desarrollo Económico en uso de las facultades que está investido y de conformidad con los Artículos 59, 247, 255 y 321 de la Constitución de la República; 33, 36 numeral 1, 6, 8 y
 
-Artículo 118 y 119 de la Ley General de la Administración Pública; Artículos 23, 24 del Reglamento de Organización, Funcionamiento del Poder Ejecutivo; Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas, Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento Sobre el Gobierno Electrónico, Decreto No. 251-2013 del 10 de diciembre del 2013 y publicado en el Diario Oficial La Gaceta el 07 de junio del 2014, Acuerdo Ministerial No.
-
-202-2020 de fecha 12 de octubre de 2020 que modifica el Acuerdo Ministerial No. 357-2014.
+Artículo 118 y 119 de la Ley General de la Administración Pública; Artículos 23, 24 del Reglamento de Organización, Funcionamiento del Poder Ejecutivo; Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas, Decreto Ejecutivo PCM-086-2020 contentivo del Reglamento Sobre el Gobierno Electrónico, Decreto No. 251-2013 del 10 de diciembre del 2013 y publicado en el Diario Oficial La Gaceta el 07 de junio del 2014, Acuerdo Ministerial No. 202-2020 de fecha 12 de octubre de 2020 que modifica el Acuerdo Ministerial No. 357-2014.
 
 ACUERDA:
 

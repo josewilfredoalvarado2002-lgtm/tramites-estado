@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "INSTITUTO HONDUREÑO DE GEOLOGÍA Y MINAS “INHGEOMIN”Acuerdo INHGEOMIN No. SG-07-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250221-36772/download"
 extraido: "2026-11-12"
-huella: "e11e573ca0f5f0f0"
+huella: "9511133b58d0a2dd"
 ---
 <!-- portal:inicio -->
 # ACUERDO INHGEOMIN No. SG-07-2025
@@ -39,9 +39,7 @@ CONSIDERANDO: Que según lo establece la Ley General de la Administración Públ
 
 CONSIDERANDO: El Instituto Hondureño de Geología y Minas (INHGEOMIN), como órgano rector en la administración y regulación de las actividades mineras en Honduras, tiene la responsabilidad de garantizar el cumplimiento de las obligaciones financieras de los concesionarios, conforme a lo establecido en la Ley General de Minería (Decreto Legislativo No. 238-2012). Estas obligaciones incluyen el pago de cánones, regalías, impuestos, derechos y cualquier otra tasa que derive del otorgamiento y explotación de concesiones mineras.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-126-2023, fue nombrado el ciudadano CARLOS MAURICIO MARADIAGA ROBLES, por la Presidenta de la República de Honduras a partir del 08 de mayo del 2023, en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas “INHGEOMIN”.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 126-2023, fue nombrado el ciudadano CARLOS MAURICIO MARADIAGA ROBLES, por la Presidenta de la República de Honduras a partir del 08 de mayo del 2023, en el cargo de Director Ejecutivo del Instituto Hondureño de Geología y Minas “INHGEOMIN”.
 
 CONSIDERANDO: Que de acuerdo a la Ley General de Minería Artículo 107 literal b, establece que: “Son recursos del INHGEOMIN…b) Los montos provenientes de los ingresos por concepto de tasas por servicios, pago de Canon, penalidades y multas”.
 
@@ -51,9 +49,7 @@ CONSIDERANDO: Que de acuerdo a la Ley General de Minería en el Artículo 4 lite
 
 CONSIDERANDO: Que la Constitución de la República, otorga a la Presidenta de la República la atribución de emitir Decretos y Acuerdos y expedir Reglamentos y Resoluciones.
 
-CONSIDERANDO: Que, mediante Decreto Legislativo No.
-
-238-2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta No. 33,088 de fecha 2 de abril del año 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013 de fecha 2 de agosto del año 2013 publicado en el Diario Oficial La Gaceta, el 4 de septiembre del año 2013, se aprobó el Reglamento de la Ley General de Minería.
+CONSIDERANDO: Que, mediante Decreto Legislativo No. 238-2012 de fecha 23 de enero del año 2013 y publicado en el Diario Oficial La Gaceta No. 33,088 de fecha 2 de abril del año 2013, se aprobó la Ley General de Minería y mediante Acuerdo Ejecutivo No. 042-2013 de fecha 2 de agosto del año 2013 publicado en el Diario Oficial La Gaceta, el 4 de septiembre del año 2013, se aprobó el Reglamento de la Ley General de Minería.
 
 CONSIDERANDO: Que el artículo 340 de la Constitución de la República de Honduras establece que “Se declara de utilidad y necesidad pública, la explotación técnica y racional de los recursos naturales de la Nación. El Estado reglamentará su aprovechamiento, de acuerdo con el interés social y fijará las condiciones de su otorgamiento a los particulares.
 
@@ -65,7 +61,7 @@ CONSIDERANDO: Que son atribuciones de la autoridad del Instituto Hondureño de G
 
 CONSIDERANDO: A lo largo del tiempo, algunos titulares de derechos mineros han acumulado deudas en relación con sus obligaciones de pago ante INHGEOMIN, ya sea por circunstancias económicas adversas, retrasos administrativos o imprevistos operativos. Estas deudas afectan tanto a las finanzas del instituto como al adecuado desarrollo de las actividades mineras en el país.
 
-CONSIDERANDO: Que en fecha 11 de mazo del 2024 el INHGEOMIN publicó en el Diario Oficial La Gaceta el Acuerdo INHGEOMIN No.07/02/2024 y No. 08/02/2024 sobre las Tasas por Concepto de Prestación de Servicios ante el Instituto Hondureño de Geología y Minas (INHGEOMIN).
+CONSIDERANDO: Que en fecha 11 de mazo del 2024 el INHGEOMIN publicó en el Diario Oficial La Gaceta el Acuerdo INHGEOMIN No. 07/02/2024 y No. 08/02/2024 sobre las Tasas por Concepto de Prestación de Servicios ante el Instituto Hondureño de Geología y Minas (INHGEOMIN).
 
 CONSIDERANDO: Que es necesario que la Institución perciba el pago de la tasa correspondiente a la prestación efectiva de los servicios que presta en concepto de inspecciones, monitoreo, toma de muestras, elaboración de mapas y el mantenimiento actualizado del Registro de Derechos Mineros, entre otros.
 
@@ -153,7 +149,7 @@ El incumplimiento de las cuotas acordadas dará lugar a:
 
 - Cancelación del derecho minero, cuando aplique.
 
-A R T Í C U L O 6 . A C T U A L I Z A C I Ó N D E L PROCEDIMIENTO Para asegurar que los avances legales y tecnológicos se reflejen en el procedimiento, la Secretaría General y la Unidad de Modernización evaluarán su vigencia y realizarán las actualizaciones correspondientes de manera conjunta.
+ARTÍCULO 6 . ACTUALIZACIÓN DEL PROCEDIMIENTO Para asegurar que los avances legales y tecnológicos se reflejen en el procedimiento, la Secretaría General y la Unidad de Modernización evaluarán su vigencia y realizarán las actualizaciones correspondientes de manera conjunta.
 
 #### Artículo 7
 

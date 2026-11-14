@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Ministerial SEN-28-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240503-36524/download"
 extraido: "2026-11-14"
-huella: "7170c1d4ab97ec21"
+huella: "192150b92376e23d"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Ministerial SEN-28-2024
@@ -35,15 +35,11 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que el Estado de Honduras, aprobó la Ley sobre Actividades Nucleares y Seguridad Radiológica, mediante Decreto Legislativo No. 195-2009 publicado en el Diario Oficial La Gaceta el 14 de noviembre del año 2009, con el objeto de regular y controlar las actividades relacionadas con los usos pacíficos de la energía nuclear y de las radiaciones ionizantes, en sus aplicaciones en los campos de la salud, la industria, la agricultura, la investigación, la docencia, la generación de energía eléctrica y otras actividades que pudieran producir exposición y daño a las personas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017, publicado en el Diario Oficial La Gaceta en fecha 7 de agosto de 2017, “Artículo 1. Se crea la Secretaría de Estado en el Despacho de Energía, Institución Rectora del sector energético nacional y de la integración energética regional e internacional, la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados de petróleo, biocombustibles o portadores energéticos, el cual, entre otras materias, comprende pero no se limita a los siguientes aspectos […] q. la regulación, control y supervisión de la actividad nuclear, manejo de fuentes radiactivas, energía nuclear, la seguridad de instalaciones y la protección radiológica”. Artículo 3.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017, publicado en el Diario Oficial La Gaceta en fecha 7 de agosto de 2017, “Artículo 1. Se crea la Secretaría de Estado en el Despacho de Energía, Institución Rectora del sector energético nacional y de la integración energética regional e internacional, la regulación, control y supervisión de las actividades de transformación, almacenamiento, transporte, distribución, comercialización y abastecimiento de combustibles derivados de petróleo, biocombustibles o portadores energéticos, el cual, entre otras materias, comprende pero no se limita a los siguientes aspectos […] q. la regulación, control y supervisión de la actividad nuclear, manejo de fuentes radiactivas, energía nuclear, la seguridad de instalaciones y la protección radiológica”. Artículo 3.
 
 Reorganización. […] Queda adscrita a la SEN la Dirección General de Seguridad Radiológica establecida mediante Acuerdo Ejecutivo No. 006-2016”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-73-2019, publicado en el Diario Oficial La Gaceta el 1 de febrero del 2020, se aprueba el del Reglamento General para la Implementación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, que establece en sus artículos 83 al 98 todas las actividades que son aplicables de las sanciones e infracciones a las Disposiciones Legales, Reglamentarias y Normativas Sobre Seguridad Radiológica y Nuclear.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 73-2019, publicado en el Diario Oficial La Gaceta el 1 de febrero del 2020, se aprueba el del Reglamento General para la Implementación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, que establece en sus artículos 83 al 98 todas las actividades que son aplicables de las sanciones e infracciones a las Disposiciones Legales, Reglamentarias y Normativas Sobre Seguridad Radiológica y Nuclear.
 
 CONSIDERANDO: Que es deber del Estado de Honduras a través de la Secretaría de Estado en el Despacho de Energía mediante la Dirección General de Seguridad Radiológica la regulación, fiscalización, control y supervisión de las actividades nucleares, el uso de fuentes radiactivas, energía nuclear, seguridad de instalaciones y protección radiológica que constituyen aspectos esenciales para el desarrollo nacional, así como velar por la seguridad radiológica y nuclear en las actividades nucleares desarrolladas en el país, la aplicación de la acción coercitiva que surjan en el incumplimiento de la Ley sobre Actividades Nucleares y Seguridad Radiológica y sus reglamentos.
 
@@ -51,7 +47,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Energía, a través
 
 POR TANTO:
 
-En aplicación de los Artículos 145, 246, 247, 248, 255 de la Constitución de la República; 36( numerales 5, 8), 116, 118, 119 numeral 3), 122 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266- 2013, de fecha 16 de diciembre de 2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014; Artículo 1 inciso q) y 3 del Decreto Ejecutivo número PCM 048-2017, publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017;
+En aplicación de los Artículos 145, 246, 247, 248, 255 de la Constitución de la República; 36( numerales 5, 8), 116, 118, 119 numeral 3), 122 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo 266-2013, de fecha 16 de diciembre de 2013, publicado en el Diario Oficial La Gaceta el 23 de enero de 2014; Artículo 1 inciso q) y 3 del Decreto Ejecutivo número PCM 048-2017, publicado en el Diario Oficial La Gaceta en fecha 07 de agosto de 2017;
 
 1, 3, 32 de la Ley de Procedimiento Administrativo; 1, 2, 4, 5, 14, 32, 33, 35, 36, del Decreto Legislativo No. 195-2009, contentivo a la Ley Sobre Actividades Nucleares y Seguridad Radiológica, publicado en el Diario Oficial La Gaceta el 14 de noviembre del 2009; 1, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98 del Reglamento General para la Implementación de la Ley Sobre Actividades Nucleares y Seguridad Radiológica, Acuerdo Ejecutivo No. 73-2019 publicado en el Diario Oficial La Gaceta el 1 de febrero del 2020; y, demás aplicables.
 
@@ -59,7 +55,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Establecer el Procedimiento de Aplicación de Sanciones, para los efectos de incumplimiento de lo indicado en el Decreto Legislativo No.195-2009, que aprobó la Ley Sobre Actividades Nucleares y Seguridad Radiológica y el Acuerdo Ejecutivo 073-2019 que aprobó el Reglamento General para la Implementación de la Ley, Reglamentos, Guías de Seguridad, las condiciones de Autorización y otros requisitos emitidos por la Dirección General de Seguridad Radiológica, con la finalidad de:
+ARTÍCULO 1. Establecer el Procedimiento de Aplicación de Sanciones, para los efectos de incumplimiento de lo indicado en el Decreto Legislativo No. 195-2009, que aprobó la Ley Sobre Actividades Nucleares y Seguridad Radiológica y el Acuerdo Ejecutivo 073-2019 que aprobó el Reglamento General para la Implementación de la Ley, Reglamentos, Guías de Seguridad, las condiciones de Autorización y otros requisitos emitidos por la Dirección General de Seguridad Radiológica, con la finalidad de:
 
 1. Apoyar la función general de la Autoridad Reguladora en relación con la protección de la salud y seguridad de las personas, la protección de los bienes y el medio ambiente;
 
@@ -95,7 +91,7 @@ ARTÍCULO 2. Que la aplicación de las sanciones es la respuesta a las infraccio
 
 8. Creación de la Dirección General de Seguridad Radiológica (DGSR), como Autoridad Reguladora Nacional en Seguridad Radiológica (ARNSR), Acuerdo Ejecutivo 006-2016;
 
-9. Registro Nacional de Prestadores de Servicios Técnicos en Protección Radiológica, Acuerdo Ministerial SEN-015- 2021;
+9. Registro Nacional de Prestadores de Servicios Técnicos en Protección Radiológica, Acuerdo Ministerial SEN-015-2021;
 
 10. Guías de Seguridad; y,
 
@@ -127,7 +123,7 @@ ARTÍCULO 5. El presente procedimiento se aplica a todas las actividades desarro
 
 ARTÍCULO 6. Las infracciones, de acuerdo con el riesgo asociado para la salud de las personas, los bienes y el medio ambiente, se categorizan en tres niveles de gravedad:
 
-1. I n f r a c c i o n e s G r a v e s : S e c o n s i d e r a n infracciones graves aquellos incumplimientos que involucran un riesgo elevado para la seguridad radiológica, física y salvaguardias, la salud de las personas, daño significativo a los bienes o al medio ambiente, tipificadas en el artículo 94 del Acuerdo Ejecutivo No. 73-2019.
+1. Infracciones Graves: Se consideran infracciones graves aquellos incumplimientos que involucran un riesgo elevado para la seguridad radiológica, física y salvaguardias, la salud de las personas, daño significativo a los bienes o al medio ambiente, tipificadas en el artículo 94 del Acuerdo Ejecutivo No. 73-2019.
 
 2. Infracciones Menos Graves: Se consideran infracciones menos graves aquellos incumplimientos que tienen una incidencia moderada para la seguridad radiológica, física y salvaguardias, de manera que no exista una amenaza grave e inminente para la seguridad o la salud de las personas, o previsión de daño significativo a los bienes o al medio ambiente, tipificadas en el artículo 96 del Acuerdo Ejecutivo No. 73-2019.
 
@@ -385,7 +381,7 @@ h) Negar el acceso a los inspectores a las instalaciones que emplean fuentes de 
 
 Reincidir en la comisión de una falta leve Multa en cantidad de salarios mínimos promedios a la fecha que se aplique la multa 8 5 El valor de la falta leve más 5 salarios mínimos Tabla No. 3. Infracciones Leves de 5 a 20 Salarios Mínimos.
 
-Infracciones Leves (Acuerdo Ejecutivo No. 073- 2019)
+Infracciones Leves (Acuerdo Ejecutivo No. 073-2019)
 
 a) Incumplir las condiciones de seguridad tecnológica y física en el almacenamiento, depósito, guarda o transporte de fuentes radiactivas de categoría 3 y 4.
 

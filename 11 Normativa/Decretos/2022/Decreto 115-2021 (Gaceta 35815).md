@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 115-2021, 118-2021, 122-2021, 125-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220106-35815/download"
 extraido: "2026-11-14"
-huella: "d240472e1758b953"
+huella: "ec572c4989d72562"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 115-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la Jubilación y la Pensión son figuras jurídicas encaminada
 
 CONSIDERANDO: Que precisamente la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP) establece las normas que deben seguirse para la aplicación de las jubilaciones y pensiones de los empleados y funcionarios del Poder Ejecutivo.
 
-CONSIDERANDO: Que el Artículo 122 del referido Decreto Legislativo No.357-2013 establece los montos de la pensión por jubilación para los afiliados preexistentes, según la relación entre el año de jubilación y los meses base de cálculo del SBM.
+CONSIDERANDO: Que el Artículo 122 del referido Decreto Legislativo No. 357-2013 establece los montos de la pensión por jubilación para los afiliados preexistentes, según la relación entre el año de jubilación y los meses base de cálculo del SBM.
 
 CONSIDERANDO: Que para asegurar una aplicación más racional e inclusiva de las jubilaciones y pensiones para los afiliados preexistentes es necesario reformar el Artículo 122 de la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), específicamente el contenido de la tabla que regula la gradualidad del tiempo del servicio en la función pública.
 
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 122 de la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), contenida en el Decreto Legislativo No.357-2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, Edición No.33,398 del 5 de Abril de 2014 reformado a su vez mediante Decreto Legislativo No.130-2014 del 4 de Diciembre de 2014, publicado en el Diario Oficial “La Gaceta”, Edición No.33,729 del 14 de Mayo de 2015, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 122 de la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), contenida en el Decreto Legislativo No. 357-2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta”, Edición No. 33,398 del 5 de Abril de 2014 reformado a su vez mediante Decreto Legislativo No. 130-2014 del 4 de Diciembre de 2014, publicado en el Diario Oficial “La Gaceta”, Edición No. 33,729 del 14 de Mayo de 2015, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 122.- MONTO DE LA PENSIÓN POR JUBILACIÓN PARA LOS AFILIADOS PREEXISTENTES.- Sin perjuicio … En ningún caso … El salario base mensual … Año de jubilación Meses Base de Cálculo del SBM Entre 2014 y hasta 2025 120 meses Entre 2026 y hasta 2028 150 meses A partir del 2029 180 meses Todos los … Cuando las…”.
 

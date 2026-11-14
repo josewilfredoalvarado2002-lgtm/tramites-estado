@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Acuerdos CREE-70-2025, CREE-78-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250630-36877/download"
 extraido: "2026-11-10"
-huella: "3f3c56ff05471b10"
+huella: "5f038dc0aa02e410"
 ---
 <!-- portal:inicio -->
 # ACUERDO CREE 78-2025
@@ -67,9 +67,7 @@ Que como resultado de las variaciones de los factores que afectan el costo de ge
 
 X.
 
-Que esta Comisión Reguladora de Energía Eléctrica (CREE) se encuentra en proceso de revisión del traslado de los costos asociados a las centrales que actualmente están siendo arrendadas por parte de la Empresa Nacional de Energía Eléctrica (ENEE); así como de la vigencia de las modificaciones realizadas a los contratos aprobados mediante el Decreto No.
-
-03-2025.
+Que esta Comisión Reguladora de Energía Eléctrica (CREE) se encuentra en proceso de revisión del traslado de los costos asociados a las centrales que actualmente están siendo arrendadas por parte de la Empresa Nacional de Energía Eléctrica (ENEE); así como de la vigencia de las modificaciones realizadas a los contratos aprobados mediante el Decreto No. 03-2025.
 
 Considerando Que la Ley General de la Industria Eléctrica (LGIE) fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del año dos mil catorce (2014), y reformada mediante decretos legislativos números 61-2020, 02-2022, 46-2022, siendo la última el seis (6) de junio del año dos mil veintitrés (2023) mediante Decreto 27-2023; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 

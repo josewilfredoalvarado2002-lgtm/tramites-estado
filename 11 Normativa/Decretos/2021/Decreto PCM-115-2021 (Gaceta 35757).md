@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo Número PCM-115-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211028-35757/download"
 extraido: "2026-11-14"
-huella: "64078ca91d89416b"
+huella: "f363c90a8b83a76b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-115-2021
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de acuerdo con lo establecido en el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada, Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que el Congreso Nacional de la República a través del Decreto Legislativo No.266-2013, publicado en el Diario Oficial “La Gaceta”, Edición No.
-
-33,336 de fecha 23 de enero del 2014, aprobó la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, la que tiene por objeto entre otros, la agilización de los mecanismos de la Administración centralizada para una eficaz prestación de los servicios públicos.
+CONSIDERANDO: Que el Congreso Nacional de la República a través del Decreto Legislativo No. 266-2013, publicado en el Diario Oficial “La Gaceta”, Edición No. 33,336 de fecha 23 de enero del 2014, aprobó la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, la que tiene por objeto entre otros, la agilización de los mecanismos de la Administración centralizada para una eficaz prestación de los servicios públicos.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada las normas requeridas para: Determinar, las competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 

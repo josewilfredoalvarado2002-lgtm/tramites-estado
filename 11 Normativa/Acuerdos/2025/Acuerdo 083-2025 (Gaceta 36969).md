@@ -11,7 +11,7 @@ paginas: "A. 19 - 24"
 sumario: "Acuerdos Nos. 016-2025, 079-2025, 083-2025, 089-2025, 097-2025, Acuerdos Institucionales Nos. ICF-091-2025, 092-2025, DE-DCHA-017-2025, DE-DCHA-031-2025, DE-DCHA-032-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251016-36969-2/download"
 extraido: "2026-11-09"
-huella: "0b48d12a37c9e6a6"
+huella: "c9f9ce7532dcbbca"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 083-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que se requiere establecer formalmente su implementación mediante
 
 POR TANTO
 
-La Dirección Ejecutiva en uso de las atribuciones que le confiere el artículo 1, 80 y 340 de la Constitución de la República, los artículos 1, 2, 3, 4, 6, 9, 11, 14, 17, 18, 20, 107, 108, 111, 112, 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre 25, 27 No. 98-2007); los artículos 1, 3, 6, 8, 9, 346, 347, de su Reglamento de la Ley Forestal Áreas Protegidas y Vida Silvestre (Acuerdo Ejecutivo No. 031- 2010); artículos 7, 11, 116, 117, 118 y 119 de la Ley General de la Administración Pública (Decreto No. 146-86) y los artículos 19, 21, 22, 23, 24, 25, 27, 32, 33 de la Ley de Procedimiento Administrativo (Decreto No.152-87).
+La Dirección Ejecutiva en uso de las atribuciones que le confiere el artículo 1, 80 y 340 de la Constitución de la República, los artículos 1, 2, 3, 4, 6, 9, 11, 14, 17, 18, 20, 107, 108, 111, 112, 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre 25, 27 No. 98-2007); los artículos 1, 3, 6, 8, 9, 346, 347, de su Reglamento de la Ley Forestal Áreas Protegidas y Vida Silvestre (Acuerdo Ejecutivo No. 031-2010); artículos 7, 11, 116, 117, 118 y 119 de la Ley General de la Administración Pública (Decreto No. 146-86) y los artículos 19, 21, 22, 23, 24, 25, 27, 32, 33 de la Ley de Procedimiento Administrativo (Decreto No. 152-87).
 
 ACUERDA:
 

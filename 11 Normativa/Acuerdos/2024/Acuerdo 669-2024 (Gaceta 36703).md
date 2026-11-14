@@ -11,7 +11,7 @@ paginas: "A. 4 - 10"
 sumario: "Acuerdos Ejecutivos Números 664-2024,669-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241130-36703/download"
 extraido: "2026-11-14"
-huella: "27350599ac7d1ac1"
+huella: "acd295d250edd513"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 669-2024
@@ -107,7 +107,7 @@ CONSIDERANDO: Que el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (S
 
 En este contexto, resulta imperativo implementar y avalar la instalación de corrales de inspección y descanso que aseguren la movilización de animales bajo los estrictos parámetros sanitarios establecidos, reduciendo así el riesgo de diseminación de enfermedades en el territorio nacional. Para cumplir con estos objetivos, este manual detalla los requisitos técnicos y administrativos necesarios para la habilitación de dichos corrales, ya sea para el ganado destinado a la exportación hacia los Estados Unidos Mexicanos o para la movilización interna de animales.
 
-CONSIDERANDO: Que en fecha 7 de junio del 2024 se publicó en el Diario Oficial La Gaceta No.36,554, ACUERDO MINISTERIAL SAG-107-2024, en el cual se declara Alerta Sanitaria ante el riesgo de introducción de la Enfermedad del Gusano Barrenador del Ganado (GBG) a Honduras.
+CONSIDERANDO: Que en fecha 7 de junio del 2024 se publicó en el Diario Oficial La Gaceta No. 36,554, ACUERDO MINISTERIAL SAG-107-2024, en el cual se declara Alerta Sanitaria ante el riesgo de introducción de la Enfermedad del Gusano Barrenador del Ganado (GBG) a Honduras.
 
 CONSIDERANDO: Que, ante la presencia del GBG, compete al SENASA establecer medidas de prevención para evitar su diseminación por el territorio nacional y hacia otros países de la región, desarrollando acciones como la educación sanitaria dirigida a productores y comunidades, la provisión de insumos necesarios para el control de la plaga, la capacitación de personal en medidas de prevención y erradicación, y la coordinación multisectorial para una respuesta integral.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 2-2022, 3-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220211-35846/download"
 extraido: "2026-11-14"
-huella: "121ea560df1e3e74"
+huella: "5536765f20f6776d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 2-2022
@@ -51,7 +51,7 @@ CONSIDERANDO: Que la actual Ley de la Industria Eléctrica únicamente permite l
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

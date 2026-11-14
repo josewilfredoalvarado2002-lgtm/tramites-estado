@@ -11,7 +11,7 @@ paginas: "A. 10 - 20"
 sumario: "Acuerdo No. 260-2021, Acuerdo Número 489-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "37750f31ff6c36f5"
+huella: "4edb85d8c74b0ace"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 260-2021
@@ -35,11 +35,9 @@ CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la Rep�
 
 CONSIDERANDO: Que de conformidad con el Artículo 9 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario publicado en el Diario Oficial La Gaceta en fecha 28 de diciembre de 2016, establece que el Presidente de la República, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), está facultado para dictar actos administrativos de carácter general denominados Reglamentos, en el ámbito de la competencia de la política tributaria y aduanera y, todas aquellas facultades que por disposición de la Constitución de la República y por Ley le correspondan, por sí o por conducto de la referida Secretaría de Estado.
 
-CONSIDERANDO: Que en los Artículos 71 y 72 del Decreto Legislativo No.170-2016 contentivo del Código Tributario publicado en el Diario Oficial “La Gaceta” el fecha 28 de diciembre de 2016, se regulan los deberes de colaboración de los servidores públicos ajenos a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Superintendencia Tributaria Aduanera (STA), Administración Tributaria y la Administración Aduanera, así como el deber de proporcionar toda clase de datos, informes o antecedentes con trascendencia tributaría o aduanera.
+CONSIDERANDO: Que en los Artículos 71 y 72 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario publicado en el Diario Oficial “La Gaceta” el fecha 28 de diciembre de 2016, se regulan los deberes de colaboración de los servidores públicos ajenos a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Superintendencia Tributaria Aduanera (STA), Administración Tributaria y la Administración Aduanera, así como el deber de proporcionar toda clase de datos, informes o antecedentes con trascendencia tributaría o aduanera.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-181-2012 publicado en el Diario Oficial “La Gaceta” el 4 de diciembre de 2012 se aprobó la Ley de Racionalización a la Exoneración de Combustibles para la Generación de Energía Eléctrica, la cual entre otras establece las regulaciones para el recaudo del Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 181-2012 publicado en el Diario Oficial “La Gaceta” el 4 de diciembre de 2012 se aprobó la Ley de Racionalización a la Exoneración de Combustibles para la Generación de Energía Eléctrica, la cual entre otras establece las regulaciones para el recaudo del Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV).
 
 CONSIDERANDO: Que mediante el Decreto Legislativo No. 404-2013 publicado en el Diario Oficial “La Gaceta” se aprobó la Ley General de la Industria Eléctrica, la que tiene por objeto el regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio nacional, la importación y exportación de energía eléctrica y la operación del sistema eléctrico nacional.
 
@@ -49,9 +47,9 @@ CONSIDERANDO: Que mediante el Decreto Legislativo No. 100-2020 de fecha 06 de ag
 
 CONSIDERANDO: Que de conformidad al numeral 15 del
 
-Artículo 29 de la Ley General de la de Administración Pública, reformada mediante Decreto Legislativo No.266-2013 de fecha 16 diciembre de 2013, le compete a la Secretaría de Estado en el Despacho de Finanzas, todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas, por lo que se debe asegurar la correcta aplicación de las normas jurídicas relacionadas con el funcionamiento del Sistema Tributario Nacional.
+Artículo 29 de la Ley General de la de Administración Pública, reformada mediante Decreto Legislativo No. 266-2013 de fecha 16 diciembre de 2013, le compete a la Secretaría de Estado en el Despacho de Finanzas, todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas, por lo que se debe asegurar la correcta aplicación de las normas jurídicas relacionadas con el funcionamiento del Sistema Tributario Nacional.
 
-CONSIDERANDO: Que de conformidad con el Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM-35- 2015 publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria definir, dar seguimiento y evaluar la política Tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
+CONSIDERANDO: Que de conformidad con el Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97 reformado por el Decreto PCM-35-2015 publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria definir, dar seguimiento y evaluar la política Tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
 
 POR TANTO:
 
@@ -63,7 +61,7 @@ Aprobar el Siguiente:
 
 REGLAMENTO PARA LA APLICACIÓN DEL
 
-DECRETO No.100-2020
+DECRETO No. 100-2020
 
 TÍTULO I DEL OBJETO, ÁMBITO DE APLICACIÓN Y DEFINICIONES
 
@@ -93,7 +91,7 @@ AUTORIDAD ADUANERA: El funcionario del Servicio Aduanero que, en razón de su ca
 
 CERTIFICADO DE CONSUMO: Documento en el cual se detalla las cantidades de los combustibles derivados del petróleo consumidos en las plantas de las empresas generadoras para producir energía eléctrica suministrada al Sistema Interconectado Nacional (SIN), en sistemas eléctricos aislados o micro-redes, y obtenido mediante el control de inventario de combustibles.
 
-CREE: Comisión Reguladora de Energía Eléctrica, Órgano Desconcentrado adscrito a la Presidencia de la República, que actuará en el marco de sus atribuciones con independencia funcional y presupuestaria, con facultades administrativas suficientes para el cumplimiento de sus objetivos según lo dispuesto en el Artículo 3 del Decreto Legislativo No. 404- 2013 de la Ley General de la Industria Eléctrica.
+CREE: Comisión Reguladora de Energía Eléctrica, Órgano Desconcentrado adscrito a la Presidencia de la República, que actuará en el marco de sus atribuciones con independencia funcional y presupuestaria, con facultades administrativas suficientes para el cumplimiento de sus objetivos según lo dispuesto en el Artículo 3 del Decreto Legislativo No. 404-2013 de la Ley General de la Industria Eléctrica.
 
 CRIE: Comisión Regional de Interconexión Eléctrica, ente regulador y normativo del Mercado Eléctrico Regional, con personalidad jurídica propia, capacidad de derecho público internacional, independencia económica, independencia funcional y especialidad técnica, que realizará sus funciones con imparcialidad, y transparencia; Artículo 19 del Tratado Marco del Mercado Eléctrico de América Central.
 
@@ -137,9 +135,7 @@ SISTEMA ELÉCTRICO REGIONAL: Sistema Eléctrico de América Central, compuesto p
 
 SISTEMA INTERCONECTADO NACIONAL (SIN): El sistema eléctrico formado por las centrales generadoras, las redes de distribución y la red nacional de transmisión que los une físicamente sin interrupción.
 
-OPERADOR DEL SISTEMA (ODS): Entidad de capital público, privado o mixto, sin fines de lucro, encargada de la operación del Sistema Interconectado Nacional (SIN) y su coordinación con el Sistema Eléctrico Regional y de la administración del Mercado Eléctrico Nacional y su coordinación con el Mercado Eléctrico Regional, con personalidad jurídica otorgada mediante Resolución No.
-
-1250-2016, de fecha 09 de noviembre de 2016, emitida por la Secretaría de Derechos Humanos, Justicia, Gobernación y Descentralización (SDHJGD).
+OPERADOR DEL SISTEMA (ODS): Entidad de capital público, privado o mixto, sin fines de lucro, encargada de la operación del Sistema Interconectado Nacional (SIN) y su coordinación con el Sistema Eléctrico Regional y de la administración del Mercado Eléctrico Nacional y su coordinación con el Mercado Eléctrico Regional, con personalidad jurídica otorgada mediante Resolución No. 1250-2016, de fecha 09 de noviembre de 2016, emitida por la Secretaría de Derechos Humanos, Justicia, Gobernación y Descentralización (SDHJGD).
 
 UNIDAD DE MEDIDA: Se establece como unidad de medida para la certificación de consumo de combustibles derivados del petróleo, el galón de Estados Unidos de América como medida universal o doscientos treinta y un
 
@@ -197,11 +193,9 @@ ARTÍCULO 9.-DEL REGISTRO EN EL SUBSECTOR
 
 ELÉCTRICO: Sin perjuicio del cumplimiento de otros requisitos especiales, necesarios para su creación, las empresas del subsector eléctrico que utilizan combustibles fósiles, para optar a la exoneración descrita en el Artículo 1 del Decreto No. 100-2020, deben acreditar estar debidamente registradas en el Registro Público de Empresas que lleva la Comisión Reguladora de Energía Eléctrica (CREE) conforme con lo establecido en la Ley General de la Industria Eléctrica contenida en el Decreto Legislativo No. 404-2013 y sus reglamentos, en su defecto presentar una constancia que acredite que tienen en trámite dicha inscripción.
 
-Asimismo, deben estar debidamente inscritas en los Registros que determine la Secretaría de Estado en el Despacho de Energía (SEN) creada mediante Decreto No. PCM 048- 2017, por medio de la Dirección General de Hidrocarburos y Biocombustibles creada mediante Decreto No. PCM-007- 2020, en su defecto presentar una constancia que acredite que tienen en trámite dicha inscripción.
+Asimismo, deben estar debidamente inscritas en los Registros que determine la Secretaría de Estado en el Despacho de Energía (SEN) creada mediante Decreto No. PCM 048-2017, por medio de la Dirección General de Hidrocarburos y Biocombustibles creada mediante Decreto No. PCM-007-2020, en su defecto presentar una constancia que acredite que tienen en trámite dicha inscripción.
 
-Debe igualmente procederse a la inscripción en el Registro de Exonerados de la Dirección General de Control de Franquicias Aduaneras, dependiente de la Secretaría de Finanzas (SEFIN), conforme a lo estatuido en el Artículo 24 del Decreto No.
-
-278-2013 publicado en el Diario Oficial La Gaceta el 30 de diciembre de 2013 y los Artículos 21 y 58 numeral 2) de Código Tributario contenido en el Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta el 28 de diciembre de 2016.
+Debe igualmente procederse a la inscripción en el Registro de Exonerados de la Dirección General de Control de Franquicias Aduaneras, dependiente de la Secretaría de Finanzas (SEFIN), conforme a lo estatuido en el Artículo 24 del Decreto No. 278-2013 publicado en el Diario Oficial La Gaceta el 30 de diciembre de 2013 y los Artículos 21 y 58 numeral 2) de Código Tributario contenido en el Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta el 28 de diciembre de 2016.
 
 #### Artículo 10
 
@@ -243,7 +237,7 @@ Artículo 5 del Decreto No. 100-2020, se crea una Comisión tripartita conformad
 
 #### Artículo 14
 
-ARTÍCULO 14.- OBJETIVO: La Comisión Tripartita tendrá por objeto el elaborar dictámenes técnicos e informes que tengan propuestas de actualización de los planes estratégicos, seguimiento, verificación, fiscalización y demás que se requieran para los componentes objeto del Decreto No. 100- 2020.
+ARTÍCULO 14.- OBJETIVO: La Comisión Tripartita tendrá por objeto el elaborar dictámenes técnicos e informes que tengan propuestas de actualización de los planes estratégicos, seguimiento, verificación, fiscalización y demás que se requieran para los componentes objeto del Decreto No. 100-2020.
 
 #### Artículo 15
 
@@ -329,9 +323,7 @@ ARTÍCULO 22.- INFRACCIÓN: Es toda acción u omisión que contravenga el ordena
 
 #### Artículo 23
 
-ARTÍCULO 23.- VERIFICACIÓN: La Secretaría de Finanzas (SEFIN), debe verificar y comprobar que los obligados tributarios beneficiados con exoneraciones cumplan con los compromisos y objetivos del Decreto Legislativo No.
-
-100-2020.
+ARTÍCULO 23.- VERIFICACIÓN: La Secretaría de Finanzas (SEFIN), debe verificar y comprobar que los obligados tributarios beneficiados con exoneraciones cumplan con los compromisos y objetivos del Decreto Legislativo No. 100-2020.
 
 #### Artículo 24
 
@@ -339,7 +331,7 @@ ARTÍCULO 24.- SANCIÓN: El incumplimiento de alguno o varios compromisos por el
 
 Lo anterior, sin perjuicio de la responsabilidad administrativa, civil o penal a que hubiere lugar.
 
-TÍTULO VIII DISPOSICIONES GENERALES Y TRANSITORIAS A RT Í C U L O 2 5 . - A C T U A L I Z A C I Ó N D E L REGLAMENTO: La Secretaría de Estado en el Despacho de Finanzas en coordinación con la Secretaría de Estado en el Despacho de Energía y la Administración Aduanera de Honduras, en cumplimiento del marco legal correspondiente, deben realizar los cambios, modificaciones y/o actualizaciones del presente Reglamento que sean necesarios para su eficiente aplicación.
+TÍTULO VIII DISPOSICIONES GENERALES Y TRANSITORIAS A RT Í C U L O 2 5 . - ACTUALIZACIÓN DEL REGLAMENTO: La Secretaría de Estado en el Despacho de Finanzas en coordinación con la Secretaría de Estado en el Despacho de Energía y la Administración Aduanera de Honduras, en cumplimiento del marco legal correspondiente, deben realizar los cambios, modificaciones y/o actualizaciones del presente Reglamento que sean necesarios para su eficiente aplicación.
 
 #### Artículo 26
 

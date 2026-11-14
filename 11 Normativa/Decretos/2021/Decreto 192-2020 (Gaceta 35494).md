@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Decreto No. 192-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210122-35494/download"
 extraido: "2026-11-14"
-huella: "21b422c3a13ca0e7"
+huella: "76c91c9288f4665f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 192-2020
@@ -57,7 +57,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 67 y 112 de la CONSTITUCIÓN DE LA REPÚBLICA, contenida en el Decreto No.131, de fecha once de enero de 1982, el que debe leerse de la forma siguiente:
+ARTÍCULO 1.- Reformar los artículos 67 y 112 de la CONSTITUCIÓN DE LA REPÚBLICA, contenida en el Decreto No. 131, de fecha once de enero de 1982, el que debe leerse de la forma siguiente:
 
 “ARTÍCULO 67.- Al que está por nacer....
 

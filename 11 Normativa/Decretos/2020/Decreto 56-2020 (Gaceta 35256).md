@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Decreto Nos. 50-2020, 51-2020, 56-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200518-35256-2/download"
 extraido: "2026-11-14"
-huella: "72a290f30bb599de"
+huella: "a1fdd2fe1ed5b639"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2020
@@ -33,19 +33,19 @@ CONSIDERANDO: Que la Constitución de la República establece que Honduras es un
 
 CONSIDERANDO: Que el Artículo 205 de la Constitución de la República Atribución 32) establece que es potestad del Congreso Nacional, la aprobación anual del Presupuesto General de Ingresos y Egresos de la República, tomando como base el proyecto que remite el Poder Ejecutivo, debidamente desglosado y resolver sobre su modificación.
 
-CONSIDERANDO: Que el 31 de diciembre de 2019, fue publicado en el Diario Oficial “La Gaceta” el Decreto No.171-2019, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2020, aprobado por este Congreso Nacional, en su Salón de Sesiones, el 12 de diciembre de 2019.
+CONSIDERANDO: Que el 31 de diciembre de 2019, fue publicado en el Diario Oficial “La Gaceta” el Decreto No. 171-2019, contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, EJERCICIO FISCAL 2020, aprobado por este Congreso Nacional, en su Salón de Sesiones, el 12 de diciembre de 2019.
 
-CONSIDERANDO: Que es necesario realizar reformas en algunos artículos del Decreto No.171-2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, a fin de que las obligaciones establecidas en el mismo, sean coherentes a la realidad que estamos viviendo debido a la pandemia del COVID-19, utilizando los medios electrónicos para su debido cumplimiento, garantizando así, su eficiente ejecución.
+CONSIDERANDO: Que es necesario realizar reformas en algunos artículos del Decreto No. 171-2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, a fin de que las obligaciones establecidas en el mismo, sean coherentes a la realidad que estamos viviendo debido a la pandemia del COVID-19, utilizando los medios electrónicos para su debido cumplimiento, garantizando así, su eficiente ejecución.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Decreto No.171-2019, de fecha 12 de abril de 2019, publicado en el Diario Oficial “La Gaceta”, Edición No.35,137, de fecha 31 de diciembre del año 2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2020, en sus artículos 193, 194 y 211, los cuales deben leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Decreto No. 171-2019, de fecha 12 de abril de 2019, publicado en el Diario Oficial “La Gaceta”, Edición No. 35,137, de fecha 31 de diciembre del año 2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2020, en sus artículos 193, 194 y 211, los cuales deben leerse de la manera siguiente:
 
 “ARTÍCULO 193.- La Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, transferirá por partidas mensuales y anticipadas a las Corporaciones Municipales, a través del Banco Central de Honduras (BCH), los valores por aporte de Capital de acuerdo a los valores consignados en el Presupuesto General de Ingresos y Egresos para el Ejercicio Fiscal 2020, con base al presupuesto aprobado por el Congreso Nacional; así como lo correspondiente a los municipios Puerto, siempre que las municipalidades acrediten haber entregado a la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, por medio de la Dirección de Fortalecimiento Municipal (DFM), los documentos administrativos y de rendición de cuentas de forma física y en caso de imposibilidad para su presentación en forma física, serán presentados de forma electrónica en estado Aprobado, de la siguiente manera:
 

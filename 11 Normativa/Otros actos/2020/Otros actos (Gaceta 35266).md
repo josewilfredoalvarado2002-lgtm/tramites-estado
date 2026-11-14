@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200528-35266-2/download"
 extraido: "2026-11-14"
-huella: "0fa5eb556856fa6d"
+huella: "c2cf22e3b11ebaad"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,9 +31,7 @@ Secretaría de Gobernación, Justicia y
 
 EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” de fecha 16 de diciembre de 2019, edición No.
-
-35,125, se ordenó la intervención del Sistema Penitenciario Nacional, que incluye el Instituto Nacional Penitenciario y el Instituto Nacional para la Atención de Menores Infractores.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-068-2019, publicado en el Diario Oficial “La Gaceta” de fecha 16 de diciembre de 2019, edición No. 35,125, se ordenó la intervención del Sistema Penitenciario Nacional, que incluye el Instituto Nacional Penitenciario y el Instituto Nacional para la Atención de Menores Infractores.
 
 CONSIDERANDO: Que la Comisión Interventora estará integrada en pleno por miembros de la Fuerza de Seguridad Interinstitucional Nacional (FUSINA).
 

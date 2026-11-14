@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decretos Ejecutivos NúmerosPCM 15-2024, PCM 16-2024; PODER LEGISLATIVOCOMUNICADO"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240601-36549/download"
 extraido: "2026-11-14"
-huella: "16b72207d5a54217"
+huella: "2bfbafa326877a5f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos NúmerosPCM 15-2024, PCM 16-2024; PODER LEGISLATIVOCOMUNICADO
@@ -57,7 +57,7 @@ CONSIDERANDO: Que mediante Acuerdo Ministerial número 406-2014 publicado en el 
 
 CONSIDERANDO: Que en el año 2014 la Secretaría de Estado en el Despacho de Salud (SESAL), oficializó un nuevo enfoque de Desarrollo Organizacional que ha conformado la estructura operativa hasta la fecha. Este cambio ha impulsado la transversalización de los programas, generando un impacto en el ejercicio de la rectoría y gobernanza de la salud dentro del sistema nacional de salud. Sin embargo, se ha observado una debilidad en este ejercicio, lo que ha suscitado la necesidad imperativa de restablecer o crear programas de salud que respalden la prestación de servicios de salud, fortaleciendo así el papel rector en la provisión de atención médica.
 
-CONSIDERANDO: Que durante la administración 2022- 2026, la Secretaría de Estado en el Despacho de Salud (SESAL) ha abordado desafíos significativos con el objetivo primordial de ejercer plenamente sus funciones de rectoría del Sistema Nacional de Salud. En este sentido, se ha llevado a cabo un proceso de fortalecimiento, que incluye modificaciones en su estructura organizativa, la implementación y revitalización de la atención primaria en salud como una estrategia esencial, la garantía fundamental, así como la garantía de la disponibilidad de medicamentos esenciales y la búsqueda continua de la mejora en la calidad en todos los aspectos de la labor institucional. Esta nueva estructura orgánica y funcional tiene como objetivo principal permitir que la Secretaría de Estado en el Despacho de Salud (SESAL) asuma de manera plena y eficiente sus responsabilidades como ente rector en el ámbito de la salud. En Honduras, los programas de salud se integran en esta estructura organizacional desempeñando un papel crucial como entidades de conducción técnico-normativa.
+CONSIDERANDO: Que durante la administración 2022-2026, la Secretaría de Estado en el Despacho de Salud (SESAL) ha abordado desafíos significativos con el objetivo primordial de ejercer plenamente sus funciones de rectoría del Sistema Nacional de Salud. En este sentido, se ha llevado a cabo un proceso de fortalecimiento, que incluye modificaciones en su estructura organizativa, la implementación y revitalización de la atención primaria en salud como una estrategia esencial, la garantía fundamental, así como la garantía de la disponibilidad de medicamentos esenciales y la búsqueda continua de la mejora en la calidad en todos los aspectos de la labor institucional. Esta nueva estructura orgánica y funcional tiene como objetivo principal permitir que la Secretaría de Estado en el Despacho de Salud (SESAL) asuma de manera plena y eficiente sus responsabilidades como ente rector en el ámbito de la salud. En Honduras, los programas de salud se integran en esta estructura organizacional desempeñando un papel crucial como entidades de conducción técnico-normativa.
 
 Estos programas son considerados como herramientas rectoras que orientan, coordinan y organizan la implementación y operativización de las políticas de salud en el marco del Sistema Nacional de Salud.
 

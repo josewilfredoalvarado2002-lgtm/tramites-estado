@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 35-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220427-35908/download"
 extraido: "2026-11-14"
-huella: "db3779fcc7c12d35"
+huella: "87b6d49c590c56a8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que bajo al amparo del Artículo 189 de la Constitución de la República de Honduras, Artículo 51 de la Ley Orgánica del Poder Legislativo, se determina que el Poder Legislativo se reunirá en sesiones ordinarias en la Capital de la República el 25 de Enero de cada año, sin necesidad de convocatoria y clausurará sus sesiones el 31 de Octubre del mismo año.
 
-CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, contenida en el Decreto No.363-2013, del 20 de Enero de 2014, publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la Edición No.33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el 25 de Enero de cada año y concluye el 31 de Octubre del mismo año, aunado a que el período de receso de sesiones del Congreso Nacional, es desde el 1 de Mayo al 31 de Mayo de cada año.
+CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, contenida en el Decreto No. 363-2013, del 20 de Enero de 2014, publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la Edición No. 33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el 25 de Enero de cada año y concluye el 31 de Octubre del mismo año, aunado a que el período de receso de sesiones del Congreso Nacional, es desde el 1 de Mayo al 31 de Mayo de cada año.
 
 CONSIDERANDO: Que la Constitución de la República, así como la Ley Orgánica del Poder Legislativo, se encuentran en armonía en cuanto a que la labor del Poder Legislativo puede prorrogarse por el tiempo que fuese necesario ya sea por la iniciativa de uno o más de sus miembros o a solicitud del Poder Ejecutivo.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

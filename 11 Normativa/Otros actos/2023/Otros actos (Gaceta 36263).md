@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Acuerdo Marco para la Competividad de la Cadena Agroalimentaria del Rubro de Marañón entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería y el Sector Privado (2022-2026)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230624-36263/download"
 extraido: "2026-11-14"
-huella: "c863ff5a6f5b5c90"
+huella: "af4614dacabc62aa"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Marco para la Competividad de la Cadena Agroalimentaria del Rubro de Marañón entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería y el Sector Privado (2022-2026)
@@ -181,7 +181,7 @@ Esta instancia de concertación es el Comité de la Cadena de Marañón que est�
 
 El Comité de Cadena ha facilitado en los últimos años que los actores conectados con la cadena de marañón, establezcan sinergias y complementariedad en sus intervenciones para mejorar la producción, post cosecha, procesamiento y comercialización, a través del espacio de concertación y diálogo institucional.
 
-Actores de la cadena: a- BLOQUE CENTRAL: 6 organizaciones de productores, 7 empresas procesadoras (SUREÑITA, COPRAINEL, COPRAIPUL, ETRASAMOT, C R E P A I M A S U L , E A C T R A S V A L L E y PROMALIPA) y 14 centros de acopio b- INSTITUCIONES DE APOYO Gremiales: 1 asociación y 1 Federación: FEMASUR Técnicas: IBS, Oportunidades Rurales, UT Marañón.
+Actores de la cadena: a- BLOQUE CENTRAL: 6 organizaciones de productores, 7 empresas procesadoras (SUREÑITA, COPRAINEL, COPRAIPUL, ETRASAMOT, CREPAIMASUL, EACTRASVALLE y PROMALIPA) y 14 centros de acopio b- INSTITUCIONES DE APOYO Gremiales: 1 asociación y 1 Federación: FEMASUR Técnicas: IBS, Oportunidades Rurales, UT Marañón.
 
 Gremiales: FEMASUR y Red de Mujeres.
 

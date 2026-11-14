@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-024-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210221-35523/download"
 extraido: "2026-11-14"
-huella: "942cbc8a546802f5"
+huella: "a278f9a3af9f42f5"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-024-2021
@@ -59,7 +59,7 @@ Artículo 27; Pacto Internacional de Derechos Civiles y Políticos, Articulo 4. 
 
 Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números:
 
-PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031- 2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM- 048-2020, PCM-052-2020, PCM-053-2020, PCM-056- 2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM- 073-2020, PCM-078-2020, PCM-082-2020, PCM-085- 2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM- 106-2020, PCM-108-2020, PCM-109-2020, PCM-110- 2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM- 137-2020, PCM-146-2020, PCM-001-2021, PCM-004- 2021, PCM-012-2021 y PCM-015-2021; PCM-020-2021; y, PCM-022-2021.
+PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021 y PCM-015-2021; PCM-020-2021; y, PCM-022-2021.
 
 DECRETA:
 
@@ -77,9 +77,7 @@ De igual forma, la Secretaría de Estado en los Despachos de Relaciones Exterior
 
 #### Artículo 2
 
-ARTÍCULO 2.- Ratificar el Artículo 2 del Decreto Ejecutivo Número PCM-020-2021, publicado en el Diario Oficial “La Gaceta” en fecha 07 de febrero del 2021, Edición 35,509, Reformado mediante el Decreto Ejecutivo Número PCM-022-2021, publicado en el Diario Oficial “La Gaceta” en fecha 14 de febrero de 2021, edición No.
-
-35,516 el cual se leerá de la forma siguiente:
+ARTÍCULO 2.- Ratificar el Artículo 2 del Decreto Ejecutivo Número PCM-020-2021, publicado en el Diario Oficial “La Gaceta” en fecha 07 de febrero del 2021, Edición 35,509, Reformado mediante el Decreto Ejecutivo Número PCM-022-2021, publicado en el Diario Oficial “La Gaceta” en fecha 14 de febrero de 2021, edición No. 35,516 el cual se leerá de la forma siguiente:
 
 “ARTÍCULO 2.- La circulación de la población a nivel nacional, es en un horario comprendido entre las 05:00 A.M. y las 9:00 P.M. Se autoriza al Sistema Financiero, supermercados y comercios en general, la atención a la población utilizando el 50% de la capacidad de cada lugar, solicitando a la Policía Nacional y Policía Municipal para que esta medida sea cumplida según sea el caso.
 
@@ -121,13 +119,11 @@ ARTÍCULO 3.- Ratificar íntegramente el Artículo 3 del Decreto Ejecutivo Núme
 
 #### Artículo 4
 
-ARTÍCULO 4.- Ratificar el Artículo 4 del Decreto Ejecutivo Número PCM-001-2021, publicado en el Diario Oficial “La Gaceta” en fecha 03 de enero del 2021 Edición No. 35,476, ratificado mediante el Decreto Ejecutivo Número PCM-004-2021, publicado en el Diario Oficial “La Gaceta” en fecha 10 de enero del 2021 Edición No. 35,483 y ratificado mediante Decreto Ejecutivo Número PCM-012- 2021 publicado en el Diario Oficial “La Gaceta”, en fecha 24 de enero de 2021, Edición No. 35,496, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER), ratificado nuevamente mediante los Decretos Ejecutivos Números: PCM-020-2021 y PCM-022-2021.
+ARTÍCULO 4.- Ratificar el Artículo 4 del Decreto Ejecutivo Número PCM-001-2021, publicado en el Diario Oficial “La Gaceta” en fecha 03 de enero del 2021 Edición No. 35,476, ratificado mediante el Decreto Ejecutivo Número PCM-004-2021, publicado en el Diario Oficial “La Gaceta” en fecha 10 de enero del 2021 Edición No. 35,483 y ratificado mediante Decreto Ejecutivo Número PCM-012-2021 publicado en el Diario Oficial “La Gaceta”, en fecha 24 de enero de 2021, Edición No. 35,496, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER), ratificado nuevamente mediante los Decretos Ejecutivos Números: PCM-020-2021 y PCM-022-2021.
 
 #### Artículo 5
 
-ARTÍCULO 5.- Ratificar el Artículo 5 del Decreto Ejecutivo Número PCM-004-2021 publicado en el Diario Oficial “La Gaceta” de fecha 10 de enero de 2020, Edición No.35,483, ratificado mediante Decreto Ejecutivo Número PCM-012-2021 publicado en el Diario Oficial “La Gaceta”, en fecha 24 de enero de 2021, Edición No.
-
-35,496, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, ratificado mediante los Decretos Ejecutivos Números: PCM-020-2021 y PCM- 022-2021.
+ARTÍCULO 5.- Ratificar el Artículo 5 del Decreto Ejecutivo Número PCM-004-2021 publicado en el Diario Oficial “La Gaceta” de fecha 10 de enero de 2020, Edición No. 35,483, ratificado mediante Decreto Ejecutivo Número PCM-012-2021 publicado en el Diario Oficial “La Gaceta”, en fecha 24 de enero de 2021, Edición No. 35,496, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, ratificado mediante los Decretos Ejecutivos Números: PCM-020-2021 y PCM-022-2021.
 
 #### Artículo 6
 

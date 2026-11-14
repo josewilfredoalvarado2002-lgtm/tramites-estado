@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo Número PCM-108-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201101-35416/download"
 extraido: "2026-11-14"
-huella: "5fcec6627863ded1"
+huella: "81e96da586326a28"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-108-2020
@@ -39,9 +39,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo Número PCM-108-2020 A. 1 - 4 Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-126-2020, publicado en el Diario Oficial “La Gaceta” el 30 de septiembre del 2020, Edición No. 35,387, señala que con fines turísticos y únicamente durante el año 2020, los feriados correspondientes a las festividades cívicas de los días 3, 12 y 21 de octubre, se trasladan a partir del primer miércoles del mes de noviembre del año 2020 para los empleados públicos y para los empleados del sector privado dicho feriado comenzará a las 12:00 M. hasta el sábado a las 12:00 M. Lo anterior se establece como una excepción al año 2020 y entendiéndose que para los años subsiguientes se mantiene lo establecido en el Decreto Legislativo No. 78-2015.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 126-2020, publicado en el Diario Oficial “La Gaceta” el 30 de septiembre del 2020, Edición No. 35,387, señala que con fines turísticos y únicamente durante el año 2020, los feriados correspondientes a las festividades cívicas de los días 3, 12 y 21 de octubre, se trasladan a partir del primer miércoles del mes de noviembre del año 2020 para los empleados públicos y para los empleados del sector privado dicho feriado comenzará a las 12:00 M. hasta el sábado a las 12:00 M. Lo anterior se establece como una excepción al año 2020 y entendiéndose que para los años subsiguientes se mantiene lo establecido en el Decreto Legislativo No. 78-2015.
 
 CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-106-2020, publicado en el Diario Oficial “La Gaceta” en fecha 25 de octubre del 2020, Edición No. 35,409, mediante el cual se estableció: “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-106-2020, publicado en el Diario Oficial “La Gaceta” en fecha 25 de octubre del 2020, Edición No. 35,409. Dicha restricción será efectiva a partir del veintiséis (26) de octubre hasta el uno (01) de noviembre del año dos mil veinte (2020)”.
 
@@ -55,7 +53,7 @@ CONSIDERANDO: Que en virtud de las restricciones para prevenir el contagio del C
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321, 323 y 333 de la Constitución de la República;
 
-Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62- 2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM- 031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM- 048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM- 063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM- 090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020 y PCM-106-2020.
+Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020 y PCM-106-2020.
 
 DECRETA:
 
@@ -63,9 +61,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-106-2020, publicado en el Diario Oficial “La Gaceta” en fecha 25 de octubre del 2020, Edición No.
-
-35,409. Dicha restricción será efectiva de la siguiente manera:
+Prorrogar la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-106-2020, publicado en el Diario Oficial “La Gaceta” en fecha 25 de octubre del 2020, Edición No. 35,409. Dicha restricción será efectiva de la siguiente manera:
 
 a) Lunes dos (2) y martes tres (3) de noviembre se mantienen las restricción de Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, lo que implica que la circulación se hará mediante la asignación de dígitos; y,
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Decreto No. 104-2026, 164-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260911-37244/download"
 extraido: "2026-11-09"
-huella: "d806fb8d575d155f"
+huella: "7c054fa0072c54c6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 164-2026
@@ -49,11 +49,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el numeral 12) del Artículo 27, artículos 89 y 90 de la LEY DEL REGISTRO NACIONAL DE LAS PERSONAS, contenida en el Decreto No.62-2004, de fecha 11 de mayo del 2004 y publicado en el Diario Oficial “La Gaceta” en fecha 15 de mayo del año 2004, Edición No.30,390 y sus reformas, el cual deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el numeral 12) del Artículo 27, artículos 89 y 90 de la LEY DEL REGISTRO NACIONAL DE LAS PERSONAS, contenida en el Decreto No. 62-2004, de fecha 11 de mayo del 2004 y publicado en el Diario Oficial “La Gaceta” en fecha 15 de mayo del año 2004, Edición No. 30,390 y sus reformas, el cual deberán leerse de la manera siguiente:
 
 #### Artículo 27
 
@@ -105,11 +105,11 @@ ARTÍCULO 90.- MEDIDAS
 
 D E
 
-S E G U R I D A D
+SEGURIDAD
 
 D E
 
-L O S D O C U M E N T O S D E
+LOS DOCUMENTOS DE
 
 IDENTIFICACIÓN. Los documentos de identificación contendrán la información necesaria para la plena individualización de su titular y serán elaborados mediante procedimientos técnicos actualizados, que aseguren altos estándares de seguridad, calidad e intransferibilidad de los datos, minimizando cualquier posibilidad de falsificación, alteración o uso indebido.
 
@@ -117,7 +117,7 @@ El Documento de Identificación de Niños, Niñas y Adolescentes (DINNA), contar
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar el Artículo 72-A a la LEY DEL REGISTRO NACIONAL DE LAS PERSONAS (RNP), contenida en el Decreto No.62-2004 de fecha 11 de Mayo del 2004 y publicado en el Diario Oficial La Gaceta en fecha 15 de mayo del año 2004, Edición No.30,390 y sus reformas, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 2.- Adicionar el Artículo 72-A a la LEY DEL REGISTRO NACIONAL DE LAS PERSONAS (RNP), contenida en el Decreto No. 62-2004 de fecha 11 de Mayo del 2004 y publicado en el Diario Oficial La Gaceta en fecha 15 de mayo del año 2004, Edición No. 30,390 y sus reformas, el cual deberá leerse de la manera siguiente:
 
 #### Artículo 72-A
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decreto Nos. 50-2020, 51-2020, 56-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200518-35256-2/download"
 extraido: "2026-11-14"
-huella: "8d72dc42e0ebbc00"
+huella: "69190b3c02bc65e4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 51-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 LA SIGUIENTE;
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 25-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230616-36256/download"
 extraido: "2026-11-14"
-huella: "f59b69cc2059d88e"
+huella: "57d7d8b1f55c3035"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 25-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 19) de la Constitución de la Rep
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -95,7 +95,7 @@ ARTÍCULO 2.- El vehículo descrito en el Artículo precedente, deberá ser adqu
 
 ARTÍCULO 3.- Exonerar a la CORPORACIÓN
 
-MUNICIPAL DE LA LABOR, D E P A R T A M E N T O
+MUNICIPAL DE LA LABOR, DEPARTAMENTO
 
 D E OCOTEPEQUE, del pago de impuesto, derechos arancelarios, tasas, sobre tasas, aranceles aduaneros, cargas y demás gravámenes a la importación e introducción al país, así como el pago del Impuesto Sobre Ventas por la cantidad de $21,400 americanos para importación de un vehículo tipo AMBULANCIA procedente de Japón por intercambio de Corporación Flores, S.A., misma que será adquirida con fondos donados por el Gobierno de Japón a través de la Embajada de Japón en Honduras y será utilizada exclusivamente para los habitantes de jurisdicción del Municipio de La Labor, el ingreso se llevará a cabo a través de Puerto Cortés, Las características del vehículo son:
 

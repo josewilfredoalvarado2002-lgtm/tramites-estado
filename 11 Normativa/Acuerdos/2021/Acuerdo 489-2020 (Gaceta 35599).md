@@ -11,7 +11,7 @@ paginas: "A. 20 - 24"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210514-35599/download"
 extraido: "2026-11-14"
-huella: "4e6324866bfc5396"
+huella: "bbb20fbf20a53d6b"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 489/2020
@@ -55,7 +55,7 @@ LOTE NÚMERO TRES: Con una extensión superficial de seis hectáreas tres mil qu
 
 c) bar; d) club nocturno; e) lobby; f) comercio; g) piscina pequeña; área total dos mil ciento seis metros cuadrados (2,106 metros cuadrados); B) Edificio de habitaciones cuatro unidades de dos plantas cada uno, separados entre sí y separados del edificio central; área total tres mil novecientos treinta y seis metros cuadrados (3,936 metros cuadrados); C) Edificio de servicio y mantenimiento (un nivel); área total seiscientos cuarenta metros cuadrados (640 metros cuadrados); D) Edificio para alojamiento de empleados (incluso) área total seiscientos cuarenta metros cuadrados (640 metros cuadrados); E) Obras exteriores: a) estacionamiento, doscientos cuarenta metros cuadrados (240 metros cuadrados); b) calle de acceso, mil seiscientos metros cuadrados (1,600 metros cuadrado); c) aceras, cuadrados); d) fosas sépticas dos (2), ciento ochenta metros cuadrados (180 metros cuadrados); e) drenaje, global; f) jardinerías. - Siendo parte integrante del presente contrato de compraventa todo los activos que posee la Corporación Nacional de Inversiones en el Hotel Brisas del Lago, los que se encuentran descritos en el inventario que levantó el Departamento de Bienes Adjudicados de la Corporación Nacional de Inversiones.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 047-2015 de fecha 02 de septiembre de 2015 publicado en el establece en su artículo 4 numeral 2) lo siguiente: “Autorizar Diario Oficial “La Gaceta” en fecha 14 de septiembre del 2015 de acuerdo al Reglamento respectivo las altas, bajas, transferencias, donaciones, permutas y la venta en pública subasta de bienes” y en el mismo orden de ideas el artículo 8 párrafo primero preceptúa: “En todo acto de compra, venta, permuta, donación, indemnización y concesión de inmuebles del Estado, para la debida salvaguarda y transparencia, deberá mediar la autorización de la Dirección Nacional de Bienes del Estado, conforme a los procedimientos en ley y lo dispuesto en los Reglamentos de esta Ley”.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-047-2015 de fecha 02 de septiembre de 2015 publicado en el establece en su artículo 4 numeral 2) lo siguiente: “Autorizar Diario Oficial “La Gaceta” en fecha 14 de septiembre del 2015 de acuerdo al Reglamento respectivo las altas, bajas, transferencias, donaciones, permutas y la venta en pública subasta de bienes” y en el mismo orden de ideas el artículo 8 párrafo primero preceptúa: “En todo acto de compra, venta, permuta, donación, indemnización y concesión de inmuebles del Estado, para la debida salvaguarda y transparencia, deberá mediar la autorización de la Dirección Nacional de Bienes del Estado, conforme a los procedimientos en ley y lo dispuesto en los Reglamentos de esta Ley”.
 
 CONSIDERANDO: Que esta Secretaría de Estado en el Despacho de Finanzas de conformidad a lo dispuesto en la parte resolutiva de la Resolución A.L. 043-2019 de fecha
 

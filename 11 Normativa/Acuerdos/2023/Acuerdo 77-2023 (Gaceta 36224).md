@@ -8,10 +8,10 @@ gaceta_numero: 36224
 gaceta_fecha: "2023-05-10"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36224 (2023-05-10)|La Gaceta 36224]]"
 paginas: "A. 1 - 2"
-sumario: "Acuerdo No. 77-2023AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202"
+sumario: "Acuerdo No. 77-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230510-36224/download"
 extraido: "2026-11-14"
-huella: "37d62452b54b3ecb"
+huella: "febda80fca7cc62b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 77-2023
@@ -23,7 +23,7 @@ huella: "37d62452b54b3ecb"
 | Emisor | SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36224 (2023-05-10)\|La Gaceta 36224]] del 2023-05-10 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Acuerdo No. 77-2023AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202 |
+| Según el sumario de La Gaceta | Acuerdo No. 77-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA Acuerdo No. 192-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 171-202 |
 
 ## Texto
 
@@ -37,9 +37,7 @@ CONSIDERANDO: Que esta Secretaría de Estado, en su carácter de colaborador inm
 
 POR TANTO:
 
-En uso de las facultades que está investido y en aplicación de los artículos: 36 numeral l), 118, 119, 122 de la Ley General de la Administración Pública; 3 de la Ley de Procedimiento Administrativo; 3, 4, 23, 24, 27 del Decreto Ejecutivo No.
-
-PCM-008-97, publicado en fecha 7 de junio de 1997, en el Diario Oficial La Gaceta, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En uso de las facultades que está investido y en aplicación de los artículos: 36 numeral l), 118, 119, 122 de la Ley General de la Administración Pública; 3 de la Ley de Procedimiento Administrativo; 3, 4, 23, 24, 27 del Decreto Ejecutivo No. PCM-008-97, publicado en fecha 7 de junio de 1997, en el Diario Oficial La Gaceta, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

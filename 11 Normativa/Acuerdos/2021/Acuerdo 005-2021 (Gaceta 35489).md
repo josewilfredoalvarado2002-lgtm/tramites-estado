@@ -11,7 +11,7 @@ paginas: "A. 9 - 16"
 sumario: "Acuerdo No. 005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210116-35489/download"
 extraido: "2026-11-14"
-huella: "0a9efcf44ec18958"
+huella: "a7b21ee28f6abb23"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-2021
@@ -49,7 +49,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 Decreto No. 222-92 aprobado por el Congreso Nacional el 10 de diciembre de 1992.
 
-A C U E R D A:
+ACUERDA:
 
 Aprobar el siguiente:
 

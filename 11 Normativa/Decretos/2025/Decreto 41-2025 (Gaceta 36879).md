@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Decretos Nos. 32-2025, 38-2025,41-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250702-36879/download"
 extraido: "2026-11-10"
-huella: "267ee41e255cfaf2"
+huella: "b922a35e980ccf9d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 41-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de acuerdo con el Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

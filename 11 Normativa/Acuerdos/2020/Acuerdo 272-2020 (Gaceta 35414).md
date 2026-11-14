@@ -8,10 +8,10 @@ gaceta_numero: 35414
 gaceta_fecha: "2020-10-30"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35414 (2020-10-30)|La Gaceta 35414]]"
 paginas: "A. 7 - 8"
-sumario: "Acuerdo Ministerial No. 214-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 272-2020"
+sumario: "Acuerdo Ministerial No. 214-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 272-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201030-35414/download"
 extraido: "2026-11-14"
-huella: "553d886deff3976b"
+huella: "b1c350cc2005e821"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 272-2020
@@ -23,7 +23,7 @@ huella: "553d886deff3976b"
 | Emisor | SECRETARÍA DE DESARROLLO ECONÓMICO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35414 (2020-10-30)\|La Gaceta 35414]] del 2020-10-30 |
 | Páginas | A. 7 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 214-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 272-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 214-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 272-2020 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 1
 
 ACUERDA:
 
-PRIMERO: Delegar en la ciudadana ADELA MARÍA SANTOS RAMOS, con Identidad No. 0301- 1983-00513, como Encargada de Servicios Generales y Recursos Materiales, las funciones inherentes al cargo, a partir del 19 de octubre de 2020.
+PRIMERO: Delegar en la ciudadana ADELA MARÍA SANTOS RAMOS, con Identidad No. 0301-1983-00513, como Encargada de Servicios Generales y Recursos Materiales, las funciones inherentes al cargo, a partir del 19 de octubre de 2020.
 
 SEGUNDO: La ciudadana ADELA MARÍA SANTOS RAMOS, será responsable por el ejercicio de la facultad de firma que le ha sido delegada.
 

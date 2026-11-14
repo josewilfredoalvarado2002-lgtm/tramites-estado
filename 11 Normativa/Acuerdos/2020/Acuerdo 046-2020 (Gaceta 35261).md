@@ -8,7 +8,7 @@ gaceta_numero: 35261
 gaceta_fecha: "2020-05-23"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35261 (2020-05-23)|La Gaceta 35261]]"
 paginas: "A. 17 - 20"
-sumario: "Decretos Nos. 58-2020, 62-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 046-2020"
+sumario: "Decretos Nos. 58-2020, 62-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 046-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200523-35261-2/download"
 extraido: "2026-11-14"
 huella: "065f09ea4bc02553"
@@ -23,7 +23,7 @@ huella: "065f09ea4bc02553"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35261 (2020-05-23)\|La Gaceta 35261]] del 2020-05-23 |
 | Páginas | A. 17 - 20 |
-| Según el sumario de La Gaceta | Decretos Nos. 58-2020, 62-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 046-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 58-2020, 62-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 046-2020 |
 
 ## Texto
 

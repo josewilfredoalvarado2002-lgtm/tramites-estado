@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Decreto No. 56-2009"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250423-36820/download"
 extraido: "2026-11-11"
-huella: "8d48f69155ac9d33"
+huella: "efa67c809dc96cf7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2009
@@ -29,7 +29,7 @@ huella: "8d48f69155ac9d33"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que con fundamento en el Artículo 213 de la Constitución de la República, por su digno medio y para que sea aprobado por este Congreso Nacional, se somete a la consideración del Pleno el ACUERDO No.33- DT de fecha 31 de Julio de 2008.
+CONSIDERANDO: Que con fundamento en el Artículo 213 de la Constitución de la República, por su digno medio y para que sea aprobado por este Congreso Nacional, se somete a la consideración del Pleno el ACUERDO No. 33- DT de fecha 31 de Julio de 2008.
 
 CONSIDERANDO: Que mediante el Artículo 205 numeral
 
@@ -41,7 +41,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el ACUERDO No.33-DT de fecha 31 de Julio de 2008, enviado por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Relaciones Exteriores, mismo que contiene el PROTOCOLO SOBRE LA PROHIBICIÓN DEL USO EN LA GUERRA, DE GASES ASFIXIANTES, TÓXICOS O SIMlLARES Y DE MEDIOS BACTERIOLÓGICOS (G.BC). TOMANDO DE DERECHO INTERNACIONAL RELATIVO A LA CONDUCCIÓN DE LAS HOSTILIDADES, CICR, 1996, acordada en Ginebra el 17 de Junio de 1925, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el ACUERDO No. 33-DT de fecha 31 de Julio de 2008, enviado por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Relaciones Exteriores, mismo que contiene el PROTOCOLO SOBRE LA PROHIBICIÓN DEL USO EN LA GUERRA, DE GASES ASFIXIANTES, TÓXICOS O SIMlLARES Y DE MEDIOS BACTERIOLÓGICOS (G.BC). TOMANDO DE DERECHO INTERNACIONAL RELATIVO A LA CONDUCCIÓN DE LAS HOSTILIDADES, CICR, 1996, acordada en Ginebra el 17 de Junio de 1925, que literalmente dice:
 
 “SECRETARÍA
 

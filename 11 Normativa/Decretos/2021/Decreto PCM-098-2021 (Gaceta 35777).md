@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-098-2021, PCM-123-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211120-35777/download"
 extraido: "2026-11-14"
-huella: "29089639237e3e6f"
+huella: "1abd30740a364d5b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-098-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 14 numeral 4) de la Ley General de la Administrac
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-077-2016 publicado en el Diario Oficial “La Gaceta” en fecha 1 de noviembre del año 2016, Edición No. 34,175, se CREA LA OFICINA PRESIDENCIAL DE CAMBIO CLIMÁTICO CLIMA PLUS (Clima+), como un órgano con independencia técnica y presupuestaria, adscrita a la Presidencia de la República, con jurisdicción nacional, la cual tendrá como finalidad, fungir como una instancia superior, que de manera colegiada y representativa, asuma la responsabilidad de aprobar y articular la Política Pública y de las inversiones en materia de Cambio Climático en Honduras.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2019 publicado en el Diario Oficial “La Gaceta” en fecha 8 de enero del año 2020, Edición No. 35,143 SE CREA LA OFICINA PRESIDENCIAL DE ECONOMÍA VERDE (OPEV), como una entidad Desconcentrada adscrita a la Presidencia de la República, con personalidad jurídica, con autonomía técnica, administrativa y financiera, con competencia a nivel nacional y con domicilio en la Ciudad de Tegucigalpa, M.D.C., Departamento de Francisco Morazán, pudiendo establecer oficinas regionales en cualquier lugar del País y será responsable de la aplicación, cumplimiento, monitoreo y evaluación de los compromisos internacionales relacionadas con la protección, manejo y uso sostenible de los recursos naturales para que estos redunde en una mejor calidad de vida de la población en general; mismo que fue reformado mediante Decreto Ejecutivo Número PCM- 126-2020 publicado en el Diario Oficial “La Gaceta” en fecha 28 de diciembre del año 2020, Edición No. 35,471.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-065-2019 publicado en el Diario Oficial “La Gaceta” en fecha 8 de enero del año 2020, Edición No. 35,143 SE CREA LA OFICINA PRESIDENCIAL DE ECONOMÍA VERDE (OPEV), como una entidad Desconcentrada adscrita a la Presidencia de la República, con personalidad jurídica, con autonomía técnica, administrativa y financiera, con competencia a nivel nacional y con domicilio en la Ciudad de Tegucigalpa, M.D.C., Departamento de Francisco Morazán, pudiendo establecer oficinas regionales en cualquier lugar del País y será responsable de la aplicación, cumplimiento, monitoreo y evaluación de los compromisos internacionales relacionadas con la protección, manejo y uso sostenible de los recursos naturales para que estos redunde en una mejor calidad de vida de la población en general; mismo que fue reformado mediante Decreto Ejecutivo Número PCM-126-2020 publicado en el Diario Oficial “La Gaceta” en fecha 28 de diciembre del año 2020, Edición No. 35,471.
 
 CONSIDERANDO: Que es atribución del Presidente de la República, asegurar la coordinación entre los órganos y actividades estatales, ejecutar efectiva y eficientemente los proyectos, hacer sus seguimientos y evaluar sus resultados alcanzados; tomando las medidas que sean necesarias para lo cual debe crear o modificar las instancias de conducción estratégica que estime necesarias.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de acuerdo a la Legislación Ambiental, la Secretaría de Esta
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 245 numerales 2, 11 y 45 y 248 de la Constitución de la República;
 
-Artículos 7, 11, 14 numeral 4), 17, 18, 20, 22 numeral 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-077- 2016, PCM-065-2019 y PCM-126-2020.
+Artículos 7, 11, 14 numeral 4), 17, 18, 20, 22 numeral 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; y, Decretos Ejecutivos Números: PCM-077-2016, PCM-065-2019 y PCM-126-2020.
 
 DECRETA:
 

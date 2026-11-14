@@ -8,10 +8,10 @@ gaceta_numero: 36951
 gaceta_fecha: "2025-09-25"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)|La Gaceta 36951]]"
 paginas: "A. 12 - 13"
-sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024"
+sumario: "Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250925-36951/download"
 extraido: "2026-11-09"
-huella: "112f8061e8eb1eef"
+huella: "5597823aea578d95"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 095-2025
@@ -23,7 +23,7 @@ huella: "112f8061e8eb1eef"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36951 (2025-09-25)\|La Gaceta 36951]] del 2025-09-25 |
 | Páginas | A. 12 - 13 |
-| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025PODER LEGISLATIVODecreto No. 94-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ministeriales Nos. 090-2025,091-2025, 092-2025, 093-2025, 094-2025,095-2025, 096-2025, 097-2025; PODER LEGISLATIVO: Decreto No. 94-2024 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ Todo acto que se ejecute fuera de Ley es nulo e implica responsabilidad”.
 
 CONSIDERANDO: Que dentro de las competencias establecidas en el Artículo 36 de la Ley General de la Administración Pública, los Secretarios de Estado pueden delegar en los funcionarios y empleados, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos, la firma de ciertos documentos.
 
-CONSIDERANDO: Que para efectos de exportación de maíz comprendidas en las fracciones arancelarias 1005.90.20.00 y 1005.90.30.00 los exportadores deberán contar con licencia de exportación valida y vigente, emitida por la Subsecretaría de Integración Económica y Comercio Exterior de la Secretaría de Estado en el Despacho de Desarrollo Económico y sus dependencias abajo descritas, la cual será solicitada con todos los requisitos establecidos en el Acuerdo Ministerial No. 127- 2022 del 09 de noviembre de 2022.
+CONSIDERANDO: Que para efectos de exportación de maíz comprendidas en las fracciones arancelarias 1005.90.20.00 y 1005.90.30.00 los exportadores deberán contar con licencia de exportación valida y vigente, emitida por la Subsecretaría de Integración Económica y Comercio Exterior de la Secretaría de Estado en el Despacho de Desarrollo Económico y sus dependencias abajo descritas, la cual será solicitada con todos los requisitos establecidos en el Acuerdo Ministerial No. 127-2022 del 09 de noviembre de 2022.
 
 CONSIDERANDO: Que la Secretaría de Desarrollo Económico emitió el Acuerdo Ministerial No. 131-2022 de fecha 16 de noviembre de 2022, por medio del cual delega la firma para las Licencias de Exportación de Maíz y sellos autorizados a los funcionarios que tienen los cargos de la Subsecretaría de Integración Económica y Comercio Exterior y la Dirección General de Integración Económica y Política Comercial.
 

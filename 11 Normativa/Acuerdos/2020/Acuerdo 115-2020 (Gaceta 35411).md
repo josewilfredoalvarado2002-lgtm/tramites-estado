@@ -8,7 +8,7 @@ gaceta_numero: 35411
 gaceta_fecha: "2020-10-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)|La Gaceta 35411]]"
 paginas: "A. 5 - 6"
-sumario: "Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020"
+sumario: "Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdos Nos. 256-2020, 258-2020, 271-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201027-35411/download"
 extraido: "2026-11-14"
 huella: "a501aae1863a8870"
@@ -23,7 +23,7 @@ huella: "a501aae1863a8870"
 | Emisor | Secretaría de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35411 (2020-10-27)\|La Gaceta 35411]] del 2020-10-27 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdos Nos. 256-2020, 258-2020, 271-2020 |
+| Según el sumario de La Gaceta | Acuerdos Nos. 96-2020, 102-2020, 103-2020, 111-2020, 112-2020, 113-2020, 114-2020, 115-2020, 116-2020; DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdos Nos. 256-2020, 258-2020, 271-2020 |
 
 ## Texto
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 96-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201110-35425/download"
 extraido: "2026-11-14"
-huella: "c1ff13cea9c39aa9"
+huella: "686c1d40f09736bb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 96-2020
@@ -29,7 +29,7 @@ huella: "c1ff13cea9c39aa9"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Artículo 21 de la LEY DE FORTALECIMIENTO DE INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PÚBLICO, contenido en el Decreto No.17-2010, del día 28 del mes de marzo del año 2010 y publicado en el Diario Oficial La Gaceta No.32,193 de fecha 22 de abril del 2010, estableció la prohibición para la importación de vehículos automotores con más de diez (10) años de uso y los autobuses, camiones cabezales, volquetas y pick up de trabajo con más de trece
+CONSIDERANDO: Que el Artículo 21 de la LEY DE FORTALECIMIENTO DE INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PÚBLICO, contenido en el Decreto No. 17-2010, del día 28 del mes de marzo del año 2010 y publicado en el Diario Oficial La Gaceta No. 32,193 de fecha 22 de abril del 2010, estableció la prohibición para la importación de vehículos automotores con más de diez (10) años de uso y los autobuses, camiones cabezales, volquetas y pick up de trabajo con más de trece
 
 (13) años de uso; asimismo, la importación de vehículos reconstruidos, a título de vehículo irreparable o chatarra.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Artículo 21 de la LEY DE FORTALECIMIENTO DE LOS INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PUBLICO, contenido en el Decreto No.17-2010, del 28 del mes de Marzo del año 2010, el cual debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición el Artículo 21 de la LEY DE FORTALECIMIENTO DE LOS INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PUBLICO, contenido en el Decreto No. 17-2010, del 28 del mes de Marzo del año 2010, el cual debe leerse de la manera siguiente:
 
 “ARTICULO 21.- En la importación de vehículos usados debe aplicarse la valoración aduanera de las normas del GATT (OMC), como base incluyendo la respectiva depreciación conforme al modelo. En la aplicación de la carga tributaria debe adicionarse por una sola vez una ecotasa la que se debe pagar en el momento de la liquidación y pago de la Declaración Única Aduanera (DUA), de acuerdo a la escala vigente:
 

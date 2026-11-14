@@ -8,10 +8,10 @@ gaceta_numero: 27287
 gaceta_fecha: "2026-11-05"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)|La Gaceta 27287]]"
 paginas: "A. 91 - 92"
-sumario: "Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
+sumario: "Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261105-27287/download"
 extraido: "2026-11-09"
-huella: "0bf933c311963111"
+huella: "26c04dd559ecae5a"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 688-2026
@@ -23,7 +23,7 @@ huella: "0bf933c311963111"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 27287 (2026-11-05)\|La Gaceta 27287]] del 2026-11-05 |
 | Páginas | A. 91 - 92 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026PODER LEGISLATIVODecreto No. 209-2026SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 055-DP-2026; PODER LEGISLATIVO: Decreto No. 209-2026; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS Acuerdo Número 688-2026 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO (5): Que corresponde a los Secretarios de Estado emitir acuerdos y 
 
 CONSIDERANDO (6): Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO (7): Que mediante Memorando DM- 188-2026 de fecha 27 de octubre de 2026, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la licenciada LILIAM ODALIS RIVERA OCHOA, Subsecretaria de Crédito e Inversión Pública, por el período comprendido del dos (02) al seis (06) de noviembre del año dos mil veintiséis (2026); en virtud que el Abogado EMILIO HERNÁNDEZ HÉRCULES, Secretario de Estado en el Despacho de Finanzas, participará en la XVI Edición del Encuentro Empresarial Iberoamericano en Madrid 2026, que se celebrará en la Ciudad de Madrid, España.
+CONSIDERANDO (7): Que mediante Memorando DM-188-2026 de fecha 27 de octubre de 2026, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado por Ley en la licenciada LILIAM ODALIS RIVERA OCHOA, Subsecretaria de Crédito e Inversión Pública, por el período comprendido del dos (02) al seis (06) de noviembre del año dos mil veintiséis (2026); en virtud que el Abogado EMILIO HERNÁNDEZ HÉRCULES, Secretario de Estado en el Despacho de Finanzas, participará en la XVI Edición del Encuentro Empresarial Iberoamericano en Madrid 2026, que se celebrará en la Ciudad de Madrid, España.
 
 POR TANTO:
 

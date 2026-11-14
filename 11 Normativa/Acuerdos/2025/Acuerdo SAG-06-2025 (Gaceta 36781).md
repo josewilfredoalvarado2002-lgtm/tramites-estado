@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo SAG-06-2025, Certificación No. 007-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250304-36781/download"
 extraido: "2026-11-12"
-huella: "2ff6b242a59b6a88"
+huella: "6e37483489899c0d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-06-2025
@@ -45,7 +45,7 @@ ACUERDA
 
 PRIMERO
 
-Se declara periodo de veda para la pesquería de Langosta Espinosa (Panulirus argus), bajo los métodos de pesca (nasa-buzo) a partir de las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta (30) de junio del 2025. Los armadores o capitanes de embarcaciones langosteras al finalizar el periodo de pesca y previo al atraque de los barcos en puerto o bases de operación, deberán notificar 48 horas antes de su llegada al inspector de pesca a fin de que este proceda a realizar el inventario de los aparejos de pesca que vengan a bordo, verificando el cumplimiento del Acuerdo Ministerial SAG- 105-2024 y el Reglamento Regional OSP-02-
+Se declara periodo de veda para la pesquería de Langosta Espinosa (Panulirus argus), bajo los métodos de pesca (nasa-buzo) a partir de las 00:00 horas del día uno (01) de marzo hasta las 23:59 horas del día treinta (30) de junio del 2025. Los armadores o capitanes de embarcaciones langosteras al finalizar el periodo de pesca y previo al atraque de los barcos en puerto o bases de operación, deberán notificar 48 horas antes de su llegada al inspector de pesca a fin de que este proceda a realizar el inventario de los aparejos de pesca que vengan a bordo, verificando el cumplimiento del Acuerdo Ministerial SAG-105-2024 y el Reglamento Regional OSP-02-
 
 09. SEGUNDO
 

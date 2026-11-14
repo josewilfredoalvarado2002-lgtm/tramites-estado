@@ -11,7 +11,7 @@ paginas: "A. 6 - 15"
 sumario: "Acuerdo No. 468-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230804-36299/download"
 extraido: "2026-11-14"
-huella: "dbf289fe5a0464ff"
+huella: "86642fe703e256ab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 468-2023
@@ -33,7 +33,7 @@ CONSIDERANDO: Que Honduras es un Estado de Derecho, soberano, constituido como R
 
 CONSIDERANDO: Que el Artículo 43 de la Ley de la Administración Pública establece que la desconcentración funcional se verificará mediante la creación de entidades u órganos que no obstante dependerá jerárquicamente de un órgano central, se les atribuye competencia propia, la cual ejercitan con autonomía técnica administrativa y financiera.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial “La Gaceta” el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013- 2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de septiembre del año 2020, como una Entidad Desconcentrada de la Agencia de Regulación Sanitaria, en el Despacho de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias con competencia a nivel nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial “La Gaceta” el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013-2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de septiembre del año 2020, como una Entidad Desconcentrada de la Agencia de Regulación Sanitaria, en el Despacho de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias con competencia a nivel nacional.
 
 CONSIDERANDO: Que el artículo 2 del Decreto 7-2021 de la Ley de la Agencia de Regulación Sanitaria dispone que. La Agencia de Regulación Sanitaria (ARSA), está a cargo de un Comisionado Presidente, quien es la máxima autoridad y el representante legal de la institución, responsable de definir y ejecutar las políticas, estrategias, planes y programas administrativos y operativos, conforme a la política económica, fiscal y tributaria del Estado, de cumplir con las metas y resultados institucionales establecidos por la Ley y por la Presidencia de la República.
 
@@ -121,7 +121,7 @@ CONSIDERANDO: Que según la Ley Forestal Áreas Protegidas y Vida Silvestre, cap
 
 POR TANTO:
 
-Esta Dirección Ejecutiva con uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120,121,122,123,124, 125 del capítulo IV sobre "Conservación y Protección de Suelos y Aguas" de la Ley Forestal Áreas Protegidas y Vida Silvestre, Decreto 98- 2007; y, los artículos No. 118 y 119 de la Ley General de la Administración Pública.
+Esta Dirección Ejecutiva con uso de las facultades que la Ley le confiere y con fundamento en los artículos No. 120,121,122,123,124, 125 del capítulo IV sobre "Conservación y Protección de Suelos y Aguas" de la Ley Forestal Áreas Protegidas y Vida Silvestre, Decreto 98-2007; y, los artículos No. 118 y 119 de la Ley General de la Administración Pública.
 
 ACUERDA
 

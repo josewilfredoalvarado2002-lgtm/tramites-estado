@@ -11,7 +11,7 @@ paginas: "A. 9 - 10"
 sumario: "Acuerdo No. 484-2022, Acuerdo Ejecutivo Número 488-2022, Acuerdos Números 272-2022, 273-2022, 531-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221223-36110/download"
 extraido: "2026-11-14"
-huella: "cf772ee1145b4a44"
+huella: "026c9101f590477a"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 273-2022
@@ -29,9 +29,7 @@ huella: "cf772ee1145b4a44"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
@@ -45,13 +43,9 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 262-2022 de fecha 29 de marzo del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana CLAUDIA REGINA SALOMÓN MÉNDEZ, en el cargo de Secretaria General de la Secretaría de Estado en el Despacho de Finanzas.
 
-262-2022 de fecha 29 de marzo del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana CLAUDIA REGINA SALOMÓN MÉNDEZ, en el cargo de Secretaria General de la Secretaría de Estado en el Despacho de Finanzas.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-970-2021 de fecha 13 de diciembre del 2021, se nombró al ciudadano JESUS EDUARDO BENDAÑA LAÍNEZ, en el cargo de Asesor Legal de la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas, quien ha fungido en esta dependencia por más de 10 años como Asesor Legal y Asistente.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 970-2021 de fecha 13 de diciembre del 2021, se nombró al ciudadano JESUS EDUARDO BENDAÑA LAÍNEZ, en el cargo de Asesor Legal de la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas, quien ha fungido en esta dependencia por más de 10 años como Asesor Legal y Asistente.
 
 POR TANTO:
 

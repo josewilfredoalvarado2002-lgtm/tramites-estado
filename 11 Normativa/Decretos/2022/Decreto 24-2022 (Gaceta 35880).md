@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 23-2022, 24-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220323-35880/download"
 extraido: "2026-11-14"
-huella: "3075d604519dedc2"
+huella: "e5262fb6aaec240e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 24-2022
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Comisión para la Defensa y Promoción de la Competencia, es un Órgano estatal de mucha importancia para estimular la libre competencia, el derecho de los consumidores y un clima de armonía, equidad y justicia entre los factores de producción.
 
-CONSIDERANDO: Que de conformidad al Decreto No.357-2005 de fecha 16 de Diciembre de 2005, los Comisionados de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, tienen un mandato por el período de siete (7) años cumplidos, el cual el Congreso Nacional debe elegir los sustitutos.
+CONSIDERANDO: Que de conformidad al Decreto No. 357-2005 de fecha 16 de Diciembre de 2005, los Comisionados de la COMISIÓN PARA LA DEFENSA Y PROMOCIÓN DE LA COMPETENCIA, tienen un mandato por el período de siete (7) años cumplidos, el cual el Congreso Nacional debe elegir los sustitutos.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -8,10 +8,10 @@ gaceta_numero: 35243
 gaceta_fecha: "2020-05-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35243 (2020-05-05)|La Gaceta 35243]]"
 paginas: "A. 31 - 36"
-sumario: "Decreto Ejecutivo número PCM-037-2020PODER LEGISLATIVODecretos Nos. 38-2020, 41-2020"
+sumario: "Decreto Ejecutivo número PCM-037-2020; PODER LEGISLATIVO: Decretos Nos. 38-2020, 41-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200505-35243-2/download"
 extraido: "2026-11-14"
-huella: "2af7b4b0252894fc"
+huella: "ec3337d72acecfc1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 41-2020
@@ -23,7 +23,7 @@ huella: "2af7b4b0252894fc"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35243 (2020-05-05)\|La Gaceta 35243]] del 2020-05-05 |
 | Páginas | A. 31 - 36 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-037-2020PODER LEGISLATIVODecretos Nos. 38-2020, 41-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-037-2020; PODER LEGISLATIVO: Decretos Nos. 38-2020, 41-2020 |
 
 ## Texto
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que las operaciones de los fideicomisos se rigen por las disposici
 
 CONSIDERANDO: Que en materia de fideicomisos el fideicomisario por lo general siempre es beneficiario, pero a contrario sensu, no todo beneficiario es Fideicomisario, lo anterior en vista de que, en el caso del primero (fideicomisario), es la persona natural o jurídica en cuyo provecho se constituye el fideicomiso y así se establece en el contrato que se suscribe al efecto, siendo también un sujeto más del fideicomiso en el que adquiere derechos y obligaciones, gozando incluso al final del residual del fideicomiso si los hubiere y en el caso del segundo (beneficiario), no figura como sujeto del fideicomiso, es decir, no forma parte dicho contrato como sujeto del mismo, sin embargo goza de los beneficios que otorga el fideicomiso y esto, no lo convierte en fideicomisario.
 
-CONSIDERANDO: Que el Artículo 17 del Decreto No.33-2020 de fecha 2 de Abril de 2020, autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a que constituya y administre cualquier tipo de FONDOS DE GARANTÍAS.
+CONSIDERANDO: Que el Artículo 17 del Decreto No. 33-2020 de fecha 2 de Abril de 2020, autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a que constituya y administre cualquier tipo de FONDOS DE GARANTÍAS.
 
 CONSIDERANDO: Que el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras faculta al Banco Central de Honduras (BCH) a constituir un Fideicomiso de Administración e Inversión en el Banco Hondureño para la Producción y la Vivienda (BANHPROVI).
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que mediante Artículo 13 del Decreto No. 131-98 de la Ley de Est�
 
 CONSIDERANDO: Que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) en su condición de Fiduciario administra la Línea de Crédito para Bananeros Independientes y Otros, cuyo objetivo es el financiamiento de proyectos productivos de los bananeros independientes, productores independientes y Cooperativas Bananeras.
 
-CONSIDERANDO: Que mediante Decreto No.92-2018 se faculta a CONFIANZA SA-FGR como Administrador del Fondo Para el Sector Cafetero (FONCAFE) por un valor de Trescientos Millones de Lempiras (L.300.000.000.00) con el objetivo inicial de garantizar créditos a productores del sector Cafetero.
+CONSIDERANDO: Que mediante Decreto No. 92-2018 se faculta a CONFIANZA SA-FGR como Administrador del Fondo Para el Sector Cafetero (FONCAFE) por un valor de Trescientos Millones de Lempiras (L.300.000.000.00) con el objetivo inicial de garantizar créditos a productores del sector Cafetero.
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 030-2020 emitido y publicado en el Diario Oficial “La Gaceta” en fecha 09 de Abril de 2020, como respuesta a la crisis sanitaria y económica generada por el COVID-19 que ha afectado a los sectores productivos del país, poniendo en riesgo los puestos de trabajo y sustentos de las familias hondureñas, se autoriza a CONFIANZA SAFGR para que por medio del Fondo para el Sector Cafetero (FONCAFE) pueda otorgar garantías recíprocas a otros sectores prioritarios que incluyan el Sector Agroalimentario, Agroindustria Alimentaria y la Micro, Pequeña, Mediana Empresa.
 
@@ -67,7 +67,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 MEDIDAS DE ACCESO E INCLUSIÓN FINANCIERA DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI) PARA LOS SECTORES PRODUCTIVOS DEL PAÍS
 
@@ -75,9 +75,7 @@ MEDIDAS DE ACCESO E INCLUSIÓN FINANCIERA DEL BANCO HONDUREÑO PARA LA PRODUCCI�
 
 ARTÍCULO 1.- Se autoriza al Banco Central de Honduras
 
-(BCH) en su calidad de Fideicomitente, y al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) en su calidad de Fiduciario, para que los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No.175-2008 de fecha 18 de Diciembre de 2008; reformado mediante Decreto No.
-
-67-2009 de fecha 12 de Mayo de 2009; Decreto No.57-2013 de fecha 16 de Abril de 2013; Decreto No. 95-2014 de fecha 16 de Octubre de 2014; Decreto No. 90-2016 del 20 de Julio de 2016; y, Decreto No.145-2018 del 7 de Noviembre de 2018, se puedan canalizar a los usuarios finales, también a través de la Banca de Primer y Segundo Piso del Banco Hondureño para la Producción y la Vivienda (BANHPROVI).
+(BCH) en su calidad de Fideicomitente, y al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) en su calidad de Fiduciario, para que los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No. 175-2008 de fecha 18 de Diciembre de 2008; reformado mediante Decreto No. 67-2009 de fecha 12 de Mayo de 2009; Decreto No. 57-2013 de fecha 16 de Abril de 2013; Decreto No. 95-2014 de fecha 16 de Octubre de 2014; Decreto No. 90-2016 del 20 de Julio de 2016; y, Decreto No. 145-2018 del 7 de Noviembre de 2018, se puedan canalizar a los usuarios finales, también a través de la Banca de Primer y Segundo Piso del Banco Hondureño para la Producción y la Vivienda (BANHPROVI).
 
 #### Artículo 2
 
@@ -101,7 +99,7 @@ Dado que es un capital de riesgo el mismo puede presentar siniestralidad y por e
 
 ARTÍCULO 5.- Reformar por adición el tercer párrafo del
 
-Artículo 13 del Decreto No.131-98 de fecha 30 de Abril de 1998 y publicado en el Diario Oficial “La Gaceta” el 20 de Mayo de 1998, contentio de la Ley de Estímulo a la Producción a la competitividad y apoyo al Desarrollo Humano, dicho párrafo se debe leer de la manera siguiente:
+Artículo 13 del Decreto No. 131-98 de fecha 30 de Abril de 1998 y publicado en el Diario Oficial “La Gaceta” el 20 de Mayo de 1998, contentio de la Ley de Estímulo a la Producción a la competitividad y apoyo al Desarrollo Humano, dicho párrafo se debe leer de la manera siguiente:
 
 “ARTÍCULO 13.- El Poder Ejecutivo… Los saldos disponibles… Incluir como destino a La Línea Especial de Financiamiento para los Productores Independientes de Banano, el siguiente: la producción y transformación de musáceas”.
 

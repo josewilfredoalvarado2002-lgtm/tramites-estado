@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Nos. 302-2023, 303-2023, 306-DINAF-2023, 310-DINAF-2023, 311-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "4111984e083e75a6"
+huella: "3f8a0c8bcef300e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 303-2023
@@ -31,7 +31,7 @@ LA DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA
 
 CONSIDERANDO: Que nuestro marco legal vigente expresamente determina que los actos administrativos adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
-CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo PCM-27- 2014 de fecha 6 de junio del 2014, la Dirección de Niñez, Adolescencia y Familia (DINAF), será coordinada por la Directora Ejecutiva.
+CONSIDERANDO: Que de conformidad al Artículo 7 del Decreto Ejecutivo PCM-27-2014 de fecha 6 de junio del 2014, la Dirección de Niñez, Adolescencia y Familia (DINAF), será coordinada por la Directora Ejecutiva.
 
 CONSIDERANDO:
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Acuerdo de Delegación No. 170-2023, a partir de la f
 
 CONSIDERANDO: Que mediante Acuerdo de Delegación No. 302-2023 de fecha veintinueve (29) de septiembre del año dos mil veintitrés (2023), se dejó sin valor y efecto el acuerdo No. 170-2023 de fecha dos (02) de mayo del año dos mil veintitrés, mediante el cual se le delegaban las funciones como Coordinadora de Asuntos Legales de la Oficina Regional Norte.
 
-CONSIDERANDO: Que con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos de la Coordinación Legal de Jefatura de la Oficina Regional Norte, es necesario delegar las funciones de la Jefatura antes mencionada. Por lo que la Jefatura de Recursos Humanos, solicita mediante Memorándum RRHH- 754-2023 de fecha veintisiete (27) de septiembre del año dos mil veintitrés (2023) la cancelación de los acuerdos de delegación No. 170-2023; asimismo la emisión de Acuerdo de Delegación a favor de la Abogada PAOLA DENISSE MENDOZA MADRID, con Documento Nacional de Identificación No.0501-1992-06845 Oficial Jurídico de esta Dirección, como Coordinadora de Asuntos Legales de la Oficina Regional Norte.
+CONSIDERANDO: Que con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos de la Coordinación Legal de Jefatura de la Oficina Regional Norte, es necesario delegar las funciones de la Jefatura antes mencionada. Por lo que la Jefatura de Recursos Humanos, solicita mediante Memorándum RRHH-754-2023 de fecha veintisiete (27) de septiembre del año dos mil veintitrés (2023) la cancelación de los acuerdos de delegación No. 170-2023; asimismo la emisión de Acuerdo de Delegación a favor de la Abogada PAOLA DENISSE MENDOZA MADRID, con Documento Nacional de Identificación No. 0501-1992-06845 Oficial Jurídico de esta Dirección, como Coordinadora de Asuntos Legales de la Oficina Regional Norte.
 
 POR TANTO
 
@@ -55,7 +55,7 @@ En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 1
 
 ACUERDA
 
-PRIMERO: Delegar a partir del veintinueve (29) de septiembre del año (2023), en el Abogada PAOLA DENISSE MENDOZA MADRID con Documento Nacional de Identificación No.0501-1992-06845, Oficial Jurídico de la Oficina Regional Norte de esta Dependencia, las funciones que correspondan como Coordinadora de Asuntos Legales de la Regional Norte conforme a los Artículos 1, 2 y 4 del Acuerdo 64-2014 de 24 de noviembre de 2014 emitido por la Dirección de Niñez, Adolescencia y Familia y que fuera publicado en el Diario Oficial “La Gaceta” el 13 de febrero de 2015.
+PRIMERO: Delegar a partir del veintinueve (29) de septiembre del año (2023), en el Abogada PAOLA DENISSE MENDOZA MADRID con Documento Nacional de Identificación No. 0501-1992-06845, Oficial Jurídico de la Oficina Regional Norte de esta Dependencia, las funciones que correspondan como Coordinadora de Asuntos Legales de la Regional Norte conforme a los Artículos 1, 2 y 4 del Acuerdo 64-2014 de 24 de noviembre de 2014 emitido por la Dirección de Niñez, Adolescencia y Familia y que fuera publicado en el Diario Oficial “La Gaceta” el 13 de febrero de 2015.
 
 SEGUNDO: La Abogada PAOLA DENISSE MENDOZA MADRID, será responsable por el ejercicio de la facultad de firma que le ha sido delegada.
 

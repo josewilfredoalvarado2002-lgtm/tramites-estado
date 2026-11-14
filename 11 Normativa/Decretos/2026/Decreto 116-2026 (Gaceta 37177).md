@@ -11,7 +11,7 @@ paginas: "A. 6 - 80"
 sumario: "Decretos Nos. 108-2026, 116-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260625-37177/download"
 extraido: "2026-11-09"
-huella: "b460c704daad5c51"
+huella: "94ea8462519b5365"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 116-2026
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 numeral 19) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato No. SIT-OB-CRBCIE-01-2024, Préstamo/ CT No.2333 que contiene la Construcción de las obras para la Rehabilitación y Mejoramiento de la carretera Danlí-Trojes, ubicada en el Departamento de El Paraíso, Lote No.1: Danlí-El Empalme (22.8km) entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) Y LA EMPRESA DE CONSTRUCCIÓN Y TRANSPORTE ETERNA, S.A. DE C.V., el que en adelante debe leerse de la forma siguiente:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato No. SIT-OB-CRBCIE-01-2024, Préstamo/ CT No. 2333 que contiene la Construcción de las obras para la Rehabilitación y Mejoramiento de la carretera Danlí-Trojes, ubicada en el Departamento de El Paraíso, Lote No. 1: Danlí-El Empalme (22.8km) entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT) Y LA EMPRESA DE CONSTRUCCIÓN Y TRANSPORTE ETERNA, S.A. DE C.V., el que en adelante debe leerse de la forma siguiente:
 
 #### Artículo 2
 
@@ -57,9 +57,7 @@ ARTÍCULO 3.- Aprobar en todas y cada una de sus partes el Contrato de Servicios
 
 #### Artículo 4
 
-ARTÍCULO 4.- Aprobar en todas y cada una de sus partes la Modificación No. 2, Contrato de Servicios de Consultoría No.
-
-SIT-SU-085-2022 para la SUPERVISIÓN DE OBRAS DE CONSTRUCCIÓN Y PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DE LA CARRETERA CENTRAL: MARALE-EMPALME CARRETERA YORO, SUB-TRAMO A: MARALE-SULACO, UBICADA EN EL DEPARTAMENTO DE FRANCISCO MORAZÁN Y YORO, suscrito entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT), Y LA EMPRESA INGENIERÍA, SERVICIOS Y COMERCIO S de R.L. de C.V. el que en adelante debe leerse de la forma siguiente:
+ARTÍCULO 4.- Aprobar en todas y cada una de sus partes la Modificación No. 2, Contrato de Servicios de Consultoría No. SIT-SU-085-2022 para la SUPERVISIÓN DE OBRAS DE CONSTRUCCIÓN Y PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DE LA CARRETERA CENTRAL: MARALE-EMPALME CARRETERA YORO, SUB-TRAMO A: MARALE-SULACO, UBICADA EN EL DEPARTAMENTO DE FRANCISCO MORAZÁN Y YORO, suscrito entre la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT), Y LA EMPRESA INGENIERÍA, SERVICIOS Y COMERCIO S de R.L. de C.V. el que en adelante debe leerse de la forma siguiente:
 
 #### Artículo 5
 

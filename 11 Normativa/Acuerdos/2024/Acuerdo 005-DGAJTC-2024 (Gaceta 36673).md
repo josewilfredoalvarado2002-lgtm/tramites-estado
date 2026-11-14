@@ -8,10 +8,10 @@ gaceta_numero: 36673
 gaceta_fecha: "2024-10-26"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)|La Gaceta 36673]]"
 paginas: "A. 15 - 28"
-sumario: "Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024PODER LEGISLATIVODecreto No. 81-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONALAcuerdo Ejecutivo No. 005-DGAJTC-2024"
+sumario: "Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024; PODER LEGISLATIVO: Decreto No. 81-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL: Acuerdo Ejecutivo No. 005-DGAJTC-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241026-36673/download"
 extraido: "2026-11-14"
-huella: "23cec05a88e5d35f"
+huella: "f251252436eef02c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 005-DGAJTC-2024
@@ -23,7 +23,7 @@ huella: "23cec05a88e5d35f"
 | Emisor | Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36673 (2024-10-26)\|La Gaceta 36673]] del 2024-10-26 |
 | Páginas | A. 15 - 28 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024PODER LEGISLATIVODecreto No. 81-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONALAcuerdo Ejecutivo No. 005-DGAJTC-2024 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 31-2024, PCM 32-2024; PODER LEGISLATIVO: Decreto No. 81-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL: Acuerdo Ejecutivo No. 005-DGAJTC-2024 |
 
 ## Texto
 
@@ -35,7 +35,7 @@ CONSIDERANDO: La importancia de asegurar la determinación y recaudación exacta
 
 CONSIDERANDO: Que, Honduras hace suyos los principios y prácticas del derecho internacional que propenden a la solidaridad humana, al respeto de la autodeterminación de los pueblos, a la no intervención y al afianzamiento de la paz y la democracia universal;
 
-CONSIDERANDO: Que el Artículo No.21 de la Constitución de la República establece que: “El Poder Ejecutivo puede, sobre materias de su exclusiva competencia, celebrar o ratificar convenios internacionales con estados extranjeros u organizaciones internacionales o adherirse a ellos sin el requisito previo de la aprobación del Congreso, al que deberá informar inmediatamente”.
+CONSIDERANDO: Que el Artículo No. 21 de la Constitución de la República establece que: “El Poder Ejecutivo puede, sobre materias de su exclusiva competencia, celebrar o ratificar convenios internacionales con estados extranjeros u organizaciones internacionales o adherirse a ellos sin el requisito previo de la aprobación del Congreso, al que deberá informar inmediatamente”.
 
 POR TANTO:
 

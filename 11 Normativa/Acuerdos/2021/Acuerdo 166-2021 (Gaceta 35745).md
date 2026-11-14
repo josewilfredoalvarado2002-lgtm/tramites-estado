@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdo Ministerial No. 166-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211013-35745/download"
 extraido: "2026-11-14"
-huella: "820eb0c72a450f1a"
+huella: "27ff937b58bbad4f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 166-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que con el objeto de agilizar la administración pública, los Sec
 
 CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de Desarrollo Económico, la formulación y ejecución de políticas relacionadas con los mecanismos internos de comercialización de bienes y servicios y asegurar condiciones adecuadas de abastecimiento, en coordinación con los demás organismos gubernamentales que correspondan.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No.009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
+CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
 
 (ACI) requiere la emisión de una licencia de importación emitida por esta Secretaría de Estado, siendo uno de los requisitos para la emisión de dichas licencias automáticas.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que entre las atribuciones de la Secretaría de Estado en los Desp
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus atribuciones y en aplicación de los Artículos 36 numerales 8) y 19), 116 y 118 numeral 1) de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo y Acuerdo Ministerial No.009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de sus atribuciones y en aplicación de los Artículos 36 numerales 8) y 19), 116 y 118 numeral 1) de la Ley General de la Administración Pública; 4 y 5 de la Ley de Procedimiento Administrativo y Acuerdo Ministerial No. 009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016.
 
 ACUERDA:
 

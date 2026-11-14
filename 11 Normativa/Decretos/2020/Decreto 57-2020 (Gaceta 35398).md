@@ -8,10 +8,10 @@ gaceta_numero: 35398
 gaceta_fecha: "2020-10-13"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)|La Gaceta 35398]]"
 paginas: "A. 7 - 9"
-sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020"
+sumario: "Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201013-35398/download"
 extraido: "2026-11-14"
-huella: "c75037415e89af9f"
+huella: "5779f0060fe8a38b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 57-2020
@@ -23,7 +23,7 @@ huella: "c75037415e89af9f"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35398 (2020-10-13)\|La Gaceta 35398]] del 2020-10-13 |
 | Páginas | A. 7 - 9 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020SECRETARÍA DE FINANZASAcuerdo número 458-2020PODER LEGISLATIVODecreto No. 57-2020, 121-2020SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIALAcuerdo Ministerial No. 048-SEDIS-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo número 045-2020, 454-2020; SECRETARÍA DE FINANZAS: Acuerdo número 458-2020; PODER LEGISLATIVO: Decreto No. 57-2020, 121-2020; SECRETARÍA DE DESARROLLO E INCLUSIÓN SOCIAL: Acuerdo Ministerial No. 048-SEDIS-2020 |
 
 ## Texto
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar los artículos 217, 219 y 220 del CÓDIGO PROCESAL PENAL (CPP), contenido en el Decreto No.9- 99 E, de fecha 19 de Diciembre de 1999, publicado en el Diario Oficial “La Gaceta” el 20 de Mayo del año 2000, en el sentido siguiente:
+ARTÍCULO 1.- Interpretar los artículos 217, 219 y 220 del CÓDIGO PROCESAL PENAL (CPP), contenido en el Decreto No. 9-99 E, de fecha 19 de Diciembre de 1999, publicado en el Diario Oficial “La Gaceta” el 20 de Mayo del año 2000, en el sentido siguiente:
 
 “ARTÍCULO 217.- Interpretar este
 
@@ -59,7 +59,7 @@ Artículo en el sentido que cualquier documento u objetos relacionados en la inv
 
 #### Artículo 2
 
-ARTÍCULO 2.- Interpretar el numeral 1) del Artículo 8 de la LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS, contenida en Decreto No.144-2014, de fecha 13 de Enero del año 2015 y publicado en el Diario Oficial “La Gaceta” el 30 de Abril de 2015, Edición No.33,718, en el sentido de que cuando dicho numeral hace referencia a “cualquier transacción” se refiere a las transacciones realizadas por aquellas personas que no son clientes de los sujetos obligados, y cuando hace referencia a “relación comercial”, se está haciendo referencia a las transacciones realizadas por aquellas personas que son clientes de los sujetos obligados; en tal sentido el plazo de cinco (5) años a que hace referencia dicho numeral para conservar el registro de la información, inicia desde la fecha de cada transacción, indistintamente si se tiene una relación comercial o no. En tal sentido, los sujetos obligados deben guardar sólo por cinco
+ARTÍCULO 2.- Interpretar el numeral 1) del Artículo 8 de la LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS, contenida en Decreto No. 144-2014, de fecha 13 de Enero del año 2015 y publicado en el Diario Oficial “La Gaceta” el 30 de Abril de 2015, Edición No. 33,718, en el sentido de que cuando dicho numeral hace referencia a “cualquier transacción” se refiere a las transacciones realizadas por aquellas personas que no son clientes de los sujetos obligados, y cuando hace referencia a “relación comercial”, se está haciendo referencia a las transacciones realizadas por aquellas personas que son clientes de los sujetos obligados; en tal sentido el plazo de cinco (5) años a que hace referencia dicho numeral para conservar el registro de la información, inicia desde la fecha de cada transacción, indistintamente si se tiene una relación comercial o no. En tal sentido, los sujetos obligados deben guardar sólo por cinco
 
 (5) años la información y documentación de las transacciones que realicen las personas con las que se tenga una relación comercial o no.
 

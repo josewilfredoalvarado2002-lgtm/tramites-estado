@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-067-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200110-35145/download"
 extraido: "2026-11-14"
-huella: "2ca8f8008ec563e1"
+huella: "e8dc0eb278d9be73"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-067-2019
@@ -65,9 +65,7 @@ DECRETA:
 
 ARTÍCULO 1.- Intervenir la Empresa Nacional de Energía Eléctrica (ENEE), por razones de interés público y encontrarse operando con pérdidas que le ocasionan fuertes impactos en detrimento de las finanzas de la Institución y del Estado, nombrando para este efecto, una Comisión Interventora por lo que falte del periodo de gobierno actual, con las facultades establecidas en la Ley General de la Administración Pública, la que se encargará a partir de su nombramiento de la administración de la Empresa Nacional de Energía Eléctrica (ENEE), como entidad intervenida, para ejecutar acciones administrativas encaminadas a lograr el mejoramiento de su situación administrativa, operativa y financiera.
 
-La Comisión Interventora tiene las facultades establecidas en el Artículo 100 reformado por el Decreto Legislativo No.
-
-266-2013 de la Ley General de la Administración Pública, las establecidas en el presente Decreto Ejecutivo y las demás que por norma legal le competan.
+La Comisión Interventora tiene las facultades establecidas en el Artículo 100 reformado por el Decreto Legislativo No. 266-2013 de la Ley General de la Administración Pública, las establecidas en el presente Decreto Ejecutivo y las demás que por norma legal le competan.
 
 #### Artículo 2
 

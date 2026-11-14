@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdo número 551-A-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210821-35694/download"
 extraido: "2026-11-14"
-huella: "54fef55989ad4d9b"
+huella: "58e44a66b87218e9"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 551-A-2021
@@ -35,9 +35,9 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que el Artículo 121 de la Ley de Procedimiento Administrativo establece: El órgano que dictó el acto, podrá anularlo cuando infrinja manifiestamente la ley, siempre que no aparezca firme y consentido. Podrá revocarlo o modificarlo cuando desaparecieren las circunstancias que lo motivaron o sobrevinieren otras que, de haber existido a la razón, el acto no habría sido dictado. También podrá revocarlo o modificarlo cuando no fuere oportuno o conveniente a los fines del servicio para el cual se dicta.
 
-CONSIDERANDO: Que mediante Acuerdo Número 551- 2021 de fecha 05 de agosto de 2021, se delegó a la abogada SELVA CORAL BANEGAS ORDOÑEZ, el cargo de delegada de la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas en la Dirección General de Control de Franquicias Aduaneras.
+CONSIDERANDO: Que mediante Acuerdo Número 551-2021 de fecha 05 de agosto de 2021, se delegó a la abogada SELVA CORAL BANEGAS ORDOÑEZ, el cargo de delegada de la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas en la Dirección General de Control de Franquicias Aduaneras.
 
-CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas mediante Acuerdo Número 614- 2019 de fecha 10 de diciembre de 2019, delegó a la abogada GLENDA SUYAPA UMANZOR, el cargo de delegada de la Secretaría General en la Dirección General de Control de Franquicias Aduaneras.
+CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas mediante Acuerdo Número 614-2019 de fecha 10 de diciembre de 2019, delegó a la abogada GLENDA SUYAPA UMANZOR, el cargo de delegada de la Secretaría General en la Dirección General de Control de Franquicias Aduaneras.
 
 CONSIDERANDO: Que posteriormente mediante Acuerdo Número 551-2021 de fecha 05 de agosto de 2021, se delegó a la abogada SELVA CORAL BANEGAS ORDOÑEZ, el cargo de delegada de la Secretaría General de la Secretaría de Estado en el Despacho de Finanzas en la Dirección General de Control de Franquicias Aduaneras.
 

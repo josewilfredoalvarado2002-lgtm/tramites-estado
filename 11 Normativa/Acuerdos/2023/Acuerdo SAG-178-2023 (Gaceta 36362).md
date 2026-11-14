@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdo No. SAG-178-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231019-36362/download"
 extraido: "2026-11-14"
-huella: "f4fbbadaf4caf043"
+huella: "034d3f9cae0ee50e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-178-2023
@@ -49,9 +49,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de octubre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de octubre del presente año; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas conforme a las cantidades detalladas:
 
 No.
 

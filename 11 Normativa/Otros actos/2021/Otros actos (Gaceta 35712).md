@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Aduanas-DE-021-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210908-35712/download"
 extraido: "2026-11-14"
-huella: "e8fd83d0bdd49893"
+huella: "1422daeb7d23ba09"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Aduanas-DE-021-2021
@@ -33,13 +33,13 @@ ACUERDO ADUANAS-DE-021-2021
 
 CONSIDERANDO: Que el Código Tributario aprobado 195 creó la Administración Aduanera como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la República.
 
-CONSIDERANDO: Que el Decreto Ejecutivo PCM-059- 2019 de fecha treinta (30) de septiembre del año dos mil diecinueve (2019), en su Artículo 2 señala que a partir del uno
+CONSIDERANDO: Que el Decreto Ejecutivo PCM-059-2019 de fecha treinta (30) de septiembre del año dos mil diecinueve (2019), en su Artículo 2 señala que a partir del uno
 
 (01) de enero de dos mil veinte (2020), se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 199 numeral 6) señala que son atribuciones de la Dirección Ejecutiva de la Administración Aduanera aprobar los acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulan la estructura organizacional y funcional, su régimen laboral, de remuneraciones y de contrataciones; así como los relacionados con la implementación de los reglamentos de la materia tributaria y aduanera, según corresponda.
 
-CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No.005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprueba el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras.
+CONSIDERANDO: Que mediante Acuerdo ADUANASDE-No. 005-2020 de fecha ocho (08) de enero del año dos mil veinte (2020) y publicado en el Diario Oficial La Gaceta en fecha catorce (14) de febrero del año dos mil veinte (2020), se aprueba el Régimen de Carrera de los Funcionarios y Servidores de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que de conformidad con los numerales 1, 2 y 3 del Artículo III de la Convención Interamericana Contra la Corrupción, Aprobada mediante Decreto Legislativo No. 100-98 del Veintiuno (21) de abril de mil novecientos noventa y ocho (1998), el Gobierno de Honduras está obligado a crear, mantener y fortalecer normas de conducta y mecanismos para su efectivo cumplimiento.
 
@@ -53,7 +53,7 @@ POR TANTO:
 
 Con fundamento en los Artículos 321 de la Constitución de la República, Código Aduanero Uniforme Centroamericano y su Reglamento; Código Tributario; Ley General de la Administración Pública; Ley de Procedimiento Administrativo;
 
-Decreto Ejecutivo PCM-059-2019, Acuerdo Ejecutivo ADUANAS-DE-No.005-2020.
+Decreto Ejecutivo PCM-059-2019, Acuerdo Ejecutivo ADUANAS-DE-No. 005-2020.
 
 ACUERDA:
 

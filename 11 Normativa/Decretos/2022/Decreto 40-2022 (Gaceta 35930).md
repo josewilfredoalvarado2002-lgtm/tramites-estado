@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Decretos Nos. 40-2022, 41-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220523-35930/download"
 extraido: "2026-11-14"
-huella: "ae5b40830c24d63a"
+huella: "e971693c4f612b51"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 40-2022
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

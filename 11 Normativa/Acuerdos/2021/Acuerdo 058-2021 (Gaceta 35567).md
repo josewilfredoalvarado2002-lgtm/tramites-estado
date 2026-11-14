@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. 058-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210410-35567/download"
 extraido: "2026-11-14"
-huella: "8130eaad22b8693b"
+huella: "005d770bb00257ce"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 058-2021
@@ -43,7 +43,7 @@ En uso de sus atribuciones y en aplicaciones de los Artículos:
 
 246, 247 de la Constitución de la República; 36 numeral 2, 8 y 19, 116 y 118 de la Ley General de la Administración Pública;
 
-1 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112- 2020.
+1 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo y Decreto Ejecutivo PCM-112-2020.
 
 ACUERDA:
 

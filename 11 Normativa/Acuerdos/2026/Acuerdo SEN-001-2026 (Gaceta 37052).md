@@ -11,7 +11,7 @@ paginas: "A. 55"
 sumario: "Acuerdos Nos. SEN-001-2026, SEN-002-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "717d2a7cb164ba3d"
+huella: "f272b35edf4b3d93"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-001-2026
@@ -27,9 +27,7 @@ huella: "717d2a7cb164ba3d"
 
 ## Texto
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. - EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía, mediante Acuerdo de Delegación No. SEN-115- 2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No.
-
-8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
+SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. - EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía, mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos, emitiendo para el efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 

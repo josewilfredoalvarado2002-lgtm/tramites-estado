@@ -11,7 +11,7 @@ paginas: "A. 13 - 17"
 sumario: "Decreto No. 64-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210823-35696/download"
 extraido: "2026-11-14"
-huella: "7955ecb7f1009a22"
+huella: "b2391595af43f706"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 64-2021
@@ -33,13 +33,13 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 1 establece 
 
 CONSIDERANDO: Que Honduras como un Estado moderno, transparente, responsable, eficiente y competitivo enfocado en la reactivación económica, tiene la obligación ineludible de la atención inmediata de los proyectos de interés nacional en todo el territorio nacional, especialmente para dar respuesta efectiva a la crisis generada por la pandemia Covid-19 y las Tormentas Tropicales ETA e IOTA.
 
-CONSIDERANDO: Que mediante Decreto No.182-2020 de fecha 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 23 de diciembre del año 2020, Edición No.35,468, se aprobó el PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
+CONSIDERANDO: Que mediante Decreto No. 182-2020 de fecha 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 23 de diciembre del año 2020, Edición No. 35,468, se aprobó el PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, sin embargo, es preciso realizar algunos ajustes importantes para una mejor efectividad del mismo.
 
 CONSIDERANDO: Que el Artículo 247 de la Constitución de la República, establece que: “Los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional en el área de su competencia”.
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD) por medio de la Unidad de Control, Seguimiento y Liquidación (UCSEL) ha tenido participación directa en el manejo y seguimiento de las Operaciones de Emergencia:
 
-Fuerza Honduras y Fuerza Honduras II; Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de Noviembre del año 2020, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-113-2020, PCM-115-2020, PCM-116-2020 y PCM- 120-2020.
+Fuerza Honduras y Fuerza Honduras II; Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de Noviembre del año 2020, reformado mediante Decretos Ejecutivos Números PCM-112-2020, PCM-113-2020, PCM-115-2020, PCM-116-2020 y PCM-120-2020.
 
 CONSIDERANDO: Que se necesita un aumento de fondos para la Operatividad y Funcionamiento de la Unidad de Control, Seguimiento y Liquidación (UCSEL), debido a que los mismos fueron utilizados para el cumplimiento de los decretos de emergencia y no son suficientes para poder cubrir los gastos de la supervisión y demás gastos operativos necesarios para los proyectos de infraestructura en cuanto al valor requerido para la supervisión y demás gastos operativos.
 
@@ -47,13 +47,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205, Atribuci�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 81, 89, 130, 173, 270 y 282 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto Legislativo No.182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No.
-
-35,468, y reformado mediante el Decreto Legislativo No.18-2021, de fecha 29 de Abril de 2021 y publicado en el Diario Oficial “La Gaceta”, el 30 de Abril del 2021, Edición No.35,587, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 81, 89, 130, 173, 270 y 282 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto Legislativo No. 182-2020, aprobado el 22 de Diciembre del año 2020 y publicado en el Diario Oficial “La Gaceta”, de fecha 23 de Diciembre del 2020, Edición No. 35,468, y reformado mediante el Decreto Legislativo No. 18-2021, de fecha 29 de Abril de 2021 y publicado en el Diario Oficial “La Gaceta”, el 30 de Abril del 2021, Edición No. 35,587, el cual deberá leerse de la manera siguiente:
 
 “ARTÍCULO 81.- La contratación… El contratado… Con el fin… Se exceptúan… También se exceptúa de esta norma, las modificaciones presupuestarias que realicen las instituciones del sector público, con el propósito de realizar auditorías de fondos públicos.
 
@@ -65,7 +63,7 @@ Autorizar al Poder Ejecutivo por medio de las instituciones que están ejecutand
 
 Lo anterior, se realizará en apego al
 
-Artículo 15 del Decreto Legislativo No.83-2004, publicado en el Diario Oficial “La Gaceta” en fecha Veintiuno
+Artículo 15 del Decreto Legislativo No. 83-2004, publicado en el Diario Oficial “La Gaceta” en fecha Veintiuno
 
 (21) de Junio del Dos Mil Cuatro (2004), por lo cual, podrá realizar compromisos para ejercicios fiscales posteriores que hayan de extenderse de acuerdo a la naturaleza de las obligaciones adquiridas.
 
@@ -89,7 +87,7 @@ Debiendo actualizar el Reglamento respectivo…..”
 
 #### Artículo 2
 
-ARTÍCULO 2.- Interpretar el Artículo 133 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto No.182-2020 de fecha 22 de Diciembre de 2020, en el sentido que la equiparación de la indemnización a que hace referencia el Artículo 120, letra d), del Decreto No.150-2008 de fecha 3 de Octubre de 2008, en relación con los beneficios que otorga la Ley de Servicio Civil como Auxilio de Cesantía, en ningún caso podrá exceder de veinticinco (25) meses de salario conforme a los años de servicio laborados”
+ARTÍCULO 2.- Interpretar el Artículo 133 del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA PARA EL EJERCICIO FISCAL 2021, contenido en el Decreto No. 182-2020 de fecha 22 de Diciembre de 2020, en el sentido que la equiparación de la indemnización a que hace referencia el Artículo 120, letra d), del Decreto No. 150-2008 de fecha 3 de Octubre de 2008, en relación con los beneficios que otorga la Ley de Servicio Civil como Auxilio de Cesantía, en ningún caso podrá exceder de veinticinco (25) meses de salario conforme a los años de servicio laborados”
 
 #### Artículo 3
 

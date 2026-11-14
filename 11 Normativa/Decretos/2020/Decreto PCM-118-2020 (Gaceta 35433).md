@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201118-35433/download"
 extraido: "2026-11-14"
-huella: "6b7c992e203084be"
+huella: "b19024cd3a166bb6"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-118-2020
@@ -35,9 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 245 numerale
 
 CONSIDERANDO: Que la Ley General de la Administración Pública en su Artículo 11 indica que, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones, actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020 Edición No.
-
-35,317 y sus reformas de declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias dejados por la Tormenta Tropical “ETA” las cuales han causado graves daños a la infraestructura vial y al sector agrícola del país y las que se pronostican por la nueva Tormenta Tropical y posible formación de Huracán “IOTA” y demás futuros fenómenos naturales similares.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 02 de noviembre del año 2020 Edición No. 35,317 y sus reformas de declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias dejados por la Tormenta Tropical “ETA” las cuales han causado graves daños a la infraestructura vial y al sector agrícola del país y las que se pronostican por la nueva Tormenta Tropical y posible formación de Huracán “IOTA” y demás futuros fenómenos naturales similares.
 
 CONSIDERANDO: Que el Estado de Honduras se encuentra en Alerta Roja emitida por el Comité de Alertas de la Secretaría de Estado en los Despachos de Gestión del Riesgo y Contingencias Nacionales (COPECO), por tiempo indefinido a partir de las 12:00 del mediodía del quince (15) de noviembre del presente año, en virtud de la amenaza el fenómeno natural “IOTA” que se aproxima al país a fin de ejecutar acciones preventivas y salvaguardar la vida de la población, en vista que se prevé podría afectar distintas regiones del país provocando nuevas inundaciones, derrumbes y deslizamientos, por lo que se han activado los protocolos de emergencia a nivel nacional ante la llegada de este nuevo fenómeno.
 
@@ -55,11 +53,9 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Habilitar los días y horas inhábiles exceptuados por el Artículo 47 de la Ley de Procedimiento Administrativo, incluyendo los asuetos laborales decretados por el estado de emergencia para la realización de actos o diligencias cuyo cumplimiento sea urgente, cuando se requiera personal para salvaguardar la integridad de la persona humana y sus bienes, en aquellas Instituciones y entidades que deban realizar adquisición de alimentos, medicamentos, bienes, insumos de bioseguridad para los albergues y atención a la población afectada por la situación de emergencia nacional aprobada mediante Decreto Ejecutivo Número PCM-109- 2020 y sus reformas.
+ARTÍCULO 1.- Habilitar los días y horas inhábiles exceptuados por el Artículo 47 de la Ley de Procedimiento Administrativo, incluyendo los asuetos laborales decretados por el estado de emergencia para la realización de actos o diligencias cuyo cumplimiento sea urgente, cuando se requiera personal para salvaguardar la integridad de la persona humana y sus bienes, en aquellas Instituciones y entidades que deban realizar adquisición de alimentos, medicamentos, bienes, insumos de bioseguridad para los albergues y atención a la población afectada por la situación de emergencia nacional aprobada mediante Decreto Ejecutivo Número PCM-109-2020 y sus reformas.
 
-Lo dispuesto en el párrafo anterior no afecta la suspensión de plazos instruida por el Congreso Nacional en el Decreto No.
-
-33-2020, por lo que los días y horas habilitados en virtud del presente Decreto Ejecutivo no deberán incluirse en el cómputo de los plazos administrativos cuando los mismos afecten a particulares.
+Lo dispuesto en el párrafo anterior no afecta la suspensión de plazos instruida por el Congreso Nacional en el Decreto No. 33-2020, por lo que los días y horas habilitados en virtud del presente Decreto Ejecutivo no deberán incluirse en el cómputo de los plazos administrativos cuando los mismos afecten a particulares.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREEACUERDO CREE-37-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230331-36194/download"
 extraido: "2026-11-14"
-huella: "c6da089b0dd67893"
+huella: "b591bd1b65b0a7b1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA CREEACUERDO CREE-37-2023
@@ -71,7 +71,7 @@ XI. Que como resultado de las variaciones de los factores que afectan el costo d
 
 Considerandos:
 
-Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; la cual tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; la cual tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

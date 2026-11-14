@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdo Ejecutivo número 007-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210126-35498/download"
 extraido: "2026-11-14"
-huella: "36635196a16da349"
+huella: "f05d64a480431ddf"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 007-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquél ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM-17- 2021 de fecha 25 de enero de 2021, el Despacho Ministerial, solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la Licenciada LILIAM ODALIS RIVERA OCHOA, Subsecretaria de Estado en el Despacho de Crédito e Inversión Pública, por el periodo del veintiocho (28) al veintinueve (29) de enero, de dos mil veintiuno (2021), debido a que el Abogado MARCO ANTONIO MIDENCE MILLA, Secretario de Estado en el Despacho de Finanzas, estará viajando al país de Guatemala, con el propósito de atender citas médicas.
+CONSIDERANDO: Que mediante Memorando DM-17-2021 de fecha 25 de enero de 2021, el Despacho Ministerial, solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la Licenciada LILIAM ODALIS RIVERA OCHOA, Subsecretaria de Estado en el Despacho de Crédito e Inversión Pública, por el periodo del veintiocho (28) al veintinueve (29) de enero, de dos mil veintiuno (2021), debido a que el Abogado MARCO ANTONIO MIDENCE MILLA, Secretario de Estado en el Despacho de Finanzas, estará viajando al país de Guatemala, con el propósito de atender citas médicas.
 
 POR TANTO:
 

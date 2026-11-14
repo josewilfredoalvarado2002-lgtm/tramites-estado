@@ -11,7 +11,7 @@ paginas: "A. 10 - 14"
 sumario: "Decretos Nos. 8-2023, 7-2025, 29-2025, 48-2025, 55-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260122-37050/download"
 extraido: "2026-11-09"
-huella: "3892ac2da869dc5f"
+huella: "50fa30570f1425f0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 7-2025
@@ -59,23 +59,23 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Decreto Legislativo No.34-2015 contentivo de la LEY DE PROTECCIÓN PARA LAS Y LOS DEFENSORES DE DERECHOS HUMANOS, PERIODISTAS, COMUNICADORES SOCIALES Y OPERADORES DE JUSTICIA, del 16 de Abril de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Mayo de 2015, bajo el número de Edición 33,730, reformando la denominación de la Ley, el cual a partir de la fecha deberá leerse de la siguiente manera:
+ARTÍCULO 1.- Reformar el Decreto Legislativo No. 34-2015 contentivo de la LEY DE PROTECCIÓN PARA LAS Y LOS DEFENSORES DE DERECHOS HUMANOS, PERIODISTAS, COMUNICADORES SOCIALES Y OPERADORES DE JUSTICIA, del 16 de Abril de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 15 de Mayo de 2015, bajo el número de Edición 33,730, reformando la denominación de la Ley, el cual a partir de la fecha deberá leerse de la siguiente manera:
 
 “LEY DE PROTECCIÓN PARA LAS Y LOS DEFENSORES DE DERECHOS HUMANOS, PERIODISTAS, COMUNICADORES SOCIALES, OPERADORES DE JUSTICIA Y DEFENSORES AMBIENTALES”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Decreto Legislativo No.34-2015 contentivo de la LEY DE PROTECCIÓN PARA LAS Y LOS DEFENSORES DE DERECHOS HUMANOS, PERIODISTAS, COMUNICADORES SOCIALES Y OPERADORES DE JUSTICIA, del 16 de abril de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 15 de mayo de 2015, bajo el número de Edición 33,730, en los artículos 2, 5, 17, 19 y 62; asimismo adicionar el Artículo 15-A, los cuales en adelante deben leerse de la forma siguiente:
+ARTÍCULO 2.- Reformar el Decreto Legislativo No. 34-2015 contentivo de la LEY DE PROTECCIÓN PARA LAS Y LOS DEFENSORES DE DERECHOS HUMANOS, PERIODISTAS, COMUNICADORES SOCIALES Y OPERADORES DE JUSTICIA, del 16 de abril de 2015, publicado en el Diario Oficial “La Gaceta” de fecha 15 de mayo de 2015, bajo el número de Edición 33,730, en los artículos 2, 5, 17, 19 y 62; asimismo adicionar el Artículo 15-A, los cuales en adelante deben leerse de la forma siguiente:
 
-“ A R T Í C U L O 2 . - D E L A NATURALEZA Y OBJETIVO DE
+“ ARTÍCULO 2 . - DE LA NATURALEZA Y OBJETIVO DE
 
 LA LEY. -La presente Ley es … Asimismo, establecerá mecanismos de protección, promoción, prevención y respuesta ante los riesgos que enfrentan los defensores del medio ambiente en el ejercicio de su labor en la defensa de los Derechos Humanos, el medio ambiente, los recursos naturales y los bienes comunes”.
 
-“ A R T Í C U L O 5 . - D E L A S
+“ ARTÍCULO 5 . - DE LAS
 
 DEFINICIONES. Para los efectos de la presente Ley debe entenderse por:
 
@@ -119,11 +119,11 @@ DEFINICIONES. Para los efectos de la presente Ley debe entenderse por:
 
 Persona o colectivo que, de manera individual o colectiva, promueve la defensa y protección del medio ambiente y los recursos naturales”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 1 5 - A . -
 
-P A R T I C I P A C I Ó N D E L A S
+PARTICIPACIÓN DE LAS
 
 COMUNIDADES. Las comunidades afectadas por proyectos de explotación de recursos naturales tendrán el derecho a participar en los procesos de consulta.
 
@@ -153,7 +153,7 @@ El Sistema Nacional de Protección Para Personas Defensoras de Derechos Humanos 
 
 Para el funcionamiento…”
 
-“ A R T Í C U L O 6 2 . - D E L A E L A B O R A C I Ó N D E L O S REGLAMENTOS Y PROTOCOLOS DE LA LEY. En el término de tres (3) … En el mismo plazo … “A partir de la publicación de la presente Ley por medio de la Secretaría de Estado en el Despacho de Derechos Humanos y en colaboración con la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente, se expedirán en un plazo no mayor de tres
+“ ARTÍCULO 6 2 . - DE LA ELABORACIÓN DE LOS REGLAMENTOS Y PROTOCOLOS DE LA LEY. En el término de tres (3) … En el mismo plazo … “A partir de la publicación de la presente Ley por medio de la Secretaría de Estado en el Despacho de Derechos Humanos y en colaboración con la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente, se expedirán en un plazo no mayor de tres
 
 (3) meses las reformas necesarias para adecuar los reglamentos y protocolos para incorporar la protección a los defensores del medio ambiente y los bienes comunes”.
 

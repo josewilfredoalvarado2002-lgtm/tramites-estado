@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "300afd142e7faf52"
+huella: "a61c72ee4d849784"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 102-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

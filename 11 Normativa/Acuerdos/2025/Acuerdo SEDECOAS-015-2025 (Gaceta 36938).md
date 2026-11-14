@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdo No. SEDECOAS-003-2025, Acuerdo de Cancelación No. SEDECOAS-006-2025, Acuerdo Delegación No.SEDECOAS-007-2025, Acuerdo No.SEDECOAS-008-2025, Acuerdo de Delegación, No. SEDECOAS-009-2025, Acuerdos Nos. SEDECOAS-010-2025,SEDECOAS-011-2025, SEDECOAS-012-2025,SEDECOAS-013-2025, SEDECOAS-014-2025,SEDECOAS-015-2025, SEDECOAS-017-2025,SEDECOAS-018-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250909-36938/download"
 extraido: "2026-11-09"
-huella: "ada8e825af80b5f3"
+huella: "5530fc72b9ebae9f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEDECOAS-015-2025
@@ -31,9 +31,7 @@ En la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Fra
 
 El Secretario de Estado en los Despachos de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), creada mediante Decreto Ejecutivo número PCM-056-2019 de fecha 11 de septiembre del 2019, publicado en el Diario Oficial La Gaceta número 35,047 de fecha 12 de septiembre del 2019, órgano legalmente responsable de dirigir y administrar al INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS) y el FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-12-90 de fecha 28 de febrero de 1990, publicado en el Diario Oficial “La Gaceta” No. 26,075 en fecha 02 de marzo de 1990, se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 12-90 de fecha 28 de febrero de 1990, publicado en el Diario Oficial “La Gaceta” No. 26,075 en fecha 02 de marzo de 1990, se crea el Fondo Hondureño de Inversión Social (FHIS), como órgano responsable de promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyentes y equitativos.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 13-2024 de fecha tres (03) de enero del año dos mil veinticuatro (2024), se nombra al ciudadano WARREN ILDEFONSO OCHOA ORELLANA, en el cargo de Director del FONDO HONDUREÑO DE INVERSIÓN SOCIAL (FHIS), con rango de Secretario de Estado, quien de manera interina también asumirá la titularidad de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS).
 

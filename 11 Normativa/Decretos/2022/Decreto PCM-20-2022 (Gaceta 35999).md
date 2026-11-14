@@ -11,7 +11,7 @@ paginas: "A. 11 - 20"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220811-35999/download"
 extraido: "2026-11-14"
-huella: "718fbc40f4442f13"
+huella: "abcf7385151b2484"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-20-2022
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el artículo 8 del precitado Reglamento establece que en cuant
 
 CONSIDERANDO: Que la falta de órganos especializados en la implementación de iniciativas destinadas a grupos en situación de vulnerabilidad ha ocasionado que los proyectos orientados a estas poblaciones sean asumidos por instituciones u órganos que no cuentan con las competencias y capacidades técnicas para llevarlos a cabo de forma efectiva.
 
-POR TANTO, En aplicación de los artículos: 1, 145, 245 numerales 2), 11), 18), 19) y 45), 248 de la Constitución de la República; artículo 10 del Decreto Legislativo No.38-2011, contentivo de la Ley Marco de Políticas Públicas en Materia Social; artículos 14 y 17, 45, 116, 117 y 119, de la Ley General de la Administración Pública reformado mediante Decreto Legislativo 266-2013; Artículos 5, 6, 11, 14 numeral 1), 5), 22 numeral 9) y 12); Artículos 3, 4, 8, 10, 11, 13 y 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Legislativo 125-2016.
+POR TANTO, En aplicación de los artículos: 1, 145, 245 numerales 2), 11), 18), 19) y 45), 248 de la Constitución de la República; artículo 10 del Decreto Legislativo No. 38-2011, contentivo de la Ley Marco de Políticas Públicas en Materia Social; artículos 14 y 17, 45, 116, 117 y 119, de la Ley General de la Administración Pública reformado mediante Decreto Legislativo 266-2013; Artículos 5, 6, 11, 14 numeral 1), 5), 22 numeral 9) y 12); Artículos 3, 4, 8, 10, 11, 13 y 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Decreto Legislativo 125-2016.
 
 DECRETA:
 

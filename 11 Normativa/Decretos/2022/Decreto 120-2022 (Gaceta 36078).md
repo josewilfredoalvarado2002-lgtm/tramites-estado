@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Decretos Nos. 94-2022, 111-2022, 112-2022, 116-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221116-36078/download"
 extraido: "2026-11-14"
-huella: "617cbfddcef98d07"
+huella: "b95cdd364e4be3d1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 120-2022
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

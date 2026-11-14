@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Decreto No. 104-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211126-35782/download"
 extraido: "2026-11-14"
-huella: "9dcb9cc6a2864f9d"
+huella: "c4914c3e53835184"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 104-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

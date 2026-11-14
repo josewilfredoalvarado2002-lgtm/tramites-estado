@@ -11,7 +11,7 @@ paginas: "A. 21 - 24"
 sumario: "Certificación, Resolución No. 691-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230821-36313/download"
 extraido: "2026-11-14"
-huella: "b4613fed62d37e88"
+huella: "f578bd5e2b0222f3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 691-2023
@@ -29,7 +29,7 @@ huella: "b4613fed62d37e88"
 
 El Suscrito, Oficial Jurídico de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, CERTIFICA: La Resolución que literalmente dice: RESOLUCION No. 691-2023. SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, en la ciudad de Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, trece de abril del año dos mil veintitrés.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha cuatro de agosto del año dos mil veintidós, misma que corre a Expediente No. PJ- 04082022-486, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE PACURA, MUNICIPIO DE GUALACO, DEPARTAMENTO DE OLANCHO”, con domicilio en la Comunidad de Pacura, municipio de Gualaco, departamento de Olancho, hecho que se acredita mediante carta poder de fecha cinco de julio del año dos mil veintidós, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha cuatro de agosto del año dos mil veintidós, misma que corre a Expediente No. PJ-04082022-486, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE PACURA, MUNICIPIO DE GUALACO, DEPARTAMENTO DE OLANCHO”, con domicilio en la Comunidad de Pacura, municipio de Gualaco, departamento de Olancho, hecho que se acredita mediante carta poder de fecha cinco de julio del año dos mil veintidós, contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos a favor de su representada.
 
 CONSIDERANDO: Que el Peticionario acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

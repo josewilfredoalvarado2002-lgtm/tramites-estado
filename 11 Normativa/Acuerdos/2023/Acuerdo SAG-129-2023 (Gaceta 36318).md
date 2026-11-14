@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230826-36318/download"
 extraido: "2026-11-14"
-huella: "fb00cc7df874abdc"
+huella: "34547f935d01ec84"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-129-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, para desarticular la administración de las operaciones finan
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial A-001-2015 de fecha 06 de enero de 2015, el titular de la Secretaría de Agricultura y Ganadería, acordó que la administración y presupuesto asignado a la (UAP), quedarán bajo la responsabilidad directa del Coordinador General y el Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), quienes serán los encargados de la ejecución del gasto, así como de la custodia de los expedientes que generen en las diferentes operaciones que realicen en los Programas y/o Proyectos bajo su responsabilidad.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG-123- 2021, el Secretario de Estado en los Despachos de Agricultura y Ganadería (SAG), facultó y autorizó al Coordinador General de la Unidad Administradora de Proyectos (UAP), realizar y llevar a cabo contrataciones y adquisiciones en los Programas/ Proyectos bajo su responsabilidad hasta por un monto de Doscientos Cincuenta Mil Lempiras Exactos (L. 250,000.00).
+CONSIDERANDO: Que mediante Acuerdo No. SAG-123-2021, el Secretario de Estado en los Despachos de Agricultura y Ganadería (SAG), facultó y autorizó al Coordinador General de la Unidad Administradora de Proyectos (UAP), realizar y llevar a cabo contrataciones y adquisiciones en los Programas/ Proyectos bajo su responsabilidad hasta por un monto de Doscientos Cincuenta Mil Lempiras Exactos (L. 250,000.00).
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas en cumplimiento a las Disposiciones Generales del Presupuesto vigente, ha delegado autoridad al Coordinador General y al Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), para que, en nombre y representación del Gobierno de la República, pueda firmar los trámites necesarios y requeridos para efectos administrativos de los Programas adscritos a la Unidad Administradora de Proyectos (UAP).
 
@@ -47,7 +47,7 @@ En uso de las facultades de que está investido y en aplicación del Artículo 2
 
 ACUERDA:
 
-PRIMERO: Aprobar la continuidad de las facultades concedidas mediante Acuerdo Ministerial 001-2015 de fecha 06 de enero de 2015, ampliado mediante Acuerdos No. 123- 2018 de fecha 28 de mayo de 2018, Acuerdo No. 123-2021 de fecha 9 de julio de 2021, a favor del Coordinador General y Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), hasta el veintiséis (26) de enero del año dos mil veintiséis (2026), siendo facultad de la administración (2026-2030) la continuidad de la presente delegación.
+PRIMERO: Aprobar la continuidad de las facultades concedidas mediante Acuerdo Ministerial 001-2015 de fecha 06 de enero de 2015, ampliado mediante Acuerdos No. 123-2018 de fecha 28 de mayo de 2018, Acuerdo No. 123-2021 de fecha 9 de julio de 2021, a favor del Coordinador General y Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), hasta el veintiséis (26) de enero del año dos mil veintiséis (2026), siendo facultad de la administración (2026-2030) la continuidad de la presente delegación.
 
 SEGUNDO: Facultar al Coordinador General de la Unidad Administradora de Proyectos (UAP), para que realice y lleve a cabo contrataciones y adquisiciones en los Programas y Proyectos bajo su responsabilidad hasta por un monto de Cien mil dólares americanos (USD.100,000.00), o su equivalente en lempiras al tipo de cambio al día.
 

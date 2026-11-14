@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "Acuerdo No. CSJ-04-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260616-37169/download"
 extraido: "2026-11-09"
-huella: "7f09ca5c7e98a00c"
+huella: "f9f4cd1fe5177de9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-04-2026
@@ -49,7 +49,7 @@ POR TANTO
 
 El Pleno de la Corte Suprema de Justicia, en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A C U E R D A
+ACUERDA
 
 Aprobar las siguientes:
 

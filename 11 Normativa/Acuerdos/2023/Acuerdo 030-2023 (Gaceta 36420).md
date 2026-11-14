@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Ejecutivos Números 030-2023, 034-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231228-36420/download"
 extraido: "2026-11-14"
-huella: "e370900393546da8"
+huella: "14b8d6b237995ea6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 030-2023
@@ -29,9 +29,7 @@ huella: "e370900393546da8"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO (1): Que la Constitución de la República establece en sus artículos No.
-
-235 y 245 numerales 2), 11) y 16) “Que la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del pueblo el Presidente (a) de la República, correspondiéndole dirigir la Política General del Estado y representarlo, emitir acuerdos y decretos conforme a Ley y ejercer el Mando en Jefe de las Fuerzas Armadas en su carácter de Comandante General. El Presidente (a) de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros”.
+CONSIDERANDO (1): Que la Constitución de la República establece en sus artículos No. 235 y 245 numerales 2), 11) y 16) “Que la titularidad del Poder Ejecutivo la ejerce en representación y para beneficio del pueblo el Presidente (a) de la República, correspondiéndole dirigir la Política General del Estado y representarlo, emitir acuerdos y decretos conforme a Ley y ejercer el Mando en Jefe de las Fuerzas Armadas en su carácter de Comandante General. El Presidente (a) de la República en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Ministros”.
 
 CONSIDERANDO (2): Que la Constitución de la República en su artículo 255 establece lo siguiente:
 
@@ -53,7 +51,7 @@ CONSIDERANDO (7): Que la Ley de Contratación del Estado señala en su artículo
 
 Seguidamente, el artículo 63 establece que para celebrar la contratación directa los organismos públicos, que elude el artículo 1 del mismo cuerpo normativo, debe autorizarla la Presidenta de la República, a su vez exige que debe emitirse mediante Acuerdo, con una motivación detallada.
 
-CONSIDERANDO (8): Como resultado del proceso de Licitación Pública Internacional No. LPI-SAR-BID-015-2017, para la Adquisición de Equipamiento y Licencias para la Modernización de la Infraestructura Tecnológica del Servicio de Administración de Rentas (SAR), en fecha 03 de noviembre del 2017, se suscribió el CONTRATO No. SAR-BID- 3541-B-031-2017, mediante el cual, el Servicio de Administración de Rentas
+CONSIDERANDO (8): Como resultado del proceso de Licitación Pública Internacional No. LPI-SAR-BID-015-2017, para la Adquisición de Equipamiento y Licencias para la Modernización de la Infraestructura Tecnológica del Servicio de Administración de Rentas (SAR), en fecha 03 de noviembre del 2017, se suscribió el CONTRATO No. SAR-BID-3541-B-031-2017, mediante el cual, el Servicio de Administración de Rentas
 
 (SAR) adquirió, entre otros productos, el Lote No. 12: Plataforma de Firma Electrónica, que consta de cuatro (4) equipos de la marca Cryptosec Openkey del fabricante Realsec by Utimaco.
 
@@ -77,17 +75,13 @@ CONSIDERANDO (15): Que, El Presidente(a) de la República podrá delegar en los 
 
 CONSIDERANDO (16): Que la delegación de atribuciones y facultades en funcionarios que dependan del Presidente(a) de la República implica además observar fiel y cabalmente el cumplimiento de los mandatos legales establecidos en las leyes generales y especiales, debiendo rendir las cuentas que oportunamente se les exijan.
 
-CONSIDERANDO (17): Mediante Acuerdo SAR-No.
-
-041-2022 de fecha 28 de enero de 2022, se nombró al ciudadano Christian David Duarte Chávez, en el cargo de Sub Director Ejecutivo del Servicio de Administración de Rentas (SAR) y en el Acuerdo SARNo. 056-2022 de fecha 15 de febrero del 2022, el Director Ejecutivo del Servicio de Administración de Rentas (SAR) le delega “la facultad para firmar en representación de éste, todos los actos y contratos que se deriven del ejercicio de las funciones administrativas financieras”.
+CONSIDERANDO (17): Mediante Acuerdo SAR-No. 041-2022 de fecha 28 de enero de 2022, se nombró al ciudadano Christian David Duarte Chávez, en el cargo de Sub Director Ejecutivo del Servicio de Administración de Rentas (SAR) y en el Acuerdo SARNo. 056-2022 de fecha 15 de febrero del 2022, el Director Ejecutivo del Servicio de Administración de Rentas (SAR) le delega “la facultad para firmar en representación de éste, todos los actos y contratos que se deriven del ejercicio de las funciones administrativas financieras”.
 
 POR TANTO:
 
-En aplicación de los siguientes artículos: 245 numerales 11), 248 y 255 de la Constitución de la República; 1, 11, 12, 36 numeral 8, 116, 118 y 122 de la Ley General de la Administración Pública; 1, 15, 16, 38 numeral 5) y 63 de la Ley de Contratación del Estado numeral 2; 195 numerales 1, 2 y 199 del Código Tributario; 169 y 170 del Reglamento de la Ley de Contratación del Estado; Acuerdo Ejecutivo No.
+En aplicación de los siguientes artículos: 245 numerales 11), 248 y 255 de la Constitución de la República; 1, 11, 12, 36 numeral 8, 116, 118 y 122 de la Ley General de la Administración Pública; 1, 15, 16, 38 numeral 5) y 63 de la Ley de Contratación del Estado numeral 2; 195 numerales 1, 2 y 199 del Código Tributario; 169 y 170 del Reglamento de la Ley de Contratación del Estado; Acuerdo Ejecutivo No. 3-2022; Acuerdo de Nombramiento SAR-No. 041-2022 de fecha 28 de enero de 2022 y demás normativa legal aplicable.
 
-3-2022; Acuerdo de Nombramiento SAR-No. 041-2022 de fecha 28 de enero de 2022 y demás normativa legal aplicable.
-
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Delegar en el ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ, nombrado en el cargo de Subdirector Ejecutivo del Servicio de Administración de Rentas (SAR), con la facultad de firmar en representación del Director Ejecutivo, la potestad y atribución de autorizar la contratación directa, bajo la circunstancia legal del artículo 63 numeral 2 de la Ley de Contratación del Estado, para cumplir las finalidades siguientes: a) la renovación del soporte de infraestructura de la firma electrónica, a fin de asegurar el debido proceso de contratación y la eficacia del sistema de firma electrónica; y,
 

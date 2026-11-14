@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo No. 016-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230605-36246/download"
 extraido: "2026-11-14"
-huella: "c3a39e1e750ca2dd"
+huella: "9f0d6bb1f649c7d5"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 016-2023
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la Convención de Viena sobre Relaciones Diplomáticas contemp
 
 CONSIDERANDO: Que con la ruptura de las relaciones diplomáticas el Estado de Honduras no tendrá contactos con Taiwán, por lo que se debe comunicar oficialmente a todos los entes del Estado e instruirlos acerca de los alcances legales de dicho rompimiento, para tomar las acciones pertinentes con la finalidad de dar por terminado cualquier Acuerdo, Convenio, Memoranda y/o Mecanismos de entendimiento, así como proyectos relacionados con Taiwán.
 
-POR TANTO, En uso de las facultades legales establecidas en los artículos 245 numerales 2, 11, 12, 13 y 19 de la Constitución de la República; artículo 11, 17, 33, 116, 117 y 119 de la Ley General de la Administración Pública; artículos 42 numeral 2), 44 numeral 1), 56, literal b) , 65 numeral 1) y 67 de la Convención de Viena sobre el Derecho de los Tratados; artículo 45 de la Convención de Viena sobre Relaciones Diplomáticas; artículo 59, numeral 1 del Reglamento Interno de Organización y Funcionamiento de la Secretaría de Relaciones Exteriores y Cooperación Internacional; y, demás aplicables.
+POR TANTO, En uso de las facultades legales establecidas en los artículos 245 numerales 2, 11, 12, 13 y 19 de la Constitución de la República; artículo 11, 17, 33, 116, 117 y 119 de la Ley General de la Administración Pública; artículos 42 numeral 2), 44 numeral 1), 56, literal b), 65 numeral 1) y 67 de la Convención de Viena sobre el Derecho de los Tratados; artículo 45 de la Convención de Viena sobre Relaciones Diplomáticas; artículo 59, numeral 1 del Reglamento Interno de Organización y Funcionamiento de la Secretaría de Relaciones Exteriores y Cooperación Internacional; y, demás aplicables.
 
 ACUERDA:
 

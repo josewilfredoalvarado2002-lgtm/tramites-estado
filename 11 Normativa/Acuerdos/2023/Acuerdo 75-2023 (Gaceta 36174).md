@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo Número 75-2023Acuerdo Ejecutivo SETRASS 033-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230308-36174/download"
 extraido: "2026-11-14"
-huella: "07d0776d76372b15"
+huella: "0d098a6d75ab1249"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 75-2023
@@ -43,7 +43,7 @@ CONSIDERANDO: Según la Organización Mundial de la Salud (OMS) la PAE es un mé
 
 CONSIDERANDO: Que en octubre del 2005, la Organización Mundial de la Salud (OMS) determinó que la Píldora Anticonceptiva de Emergencia (PAE) no es abortiva, determinando a través de una revisión cuidadosa de la evidencia “que las Píldoras Anticonceptivas de Emergencia de Levonorgestrel, son muy seguras. No causan aborto ni dañan la fertilidad futura. Los efectos secundarios son infrecuentes y generalmente leves”.
 
-CONSIDERANDO: Que aprovechando la ruptura del orden constitucional en Honduras, en pleno golpe de Estado en el año 2009, grupos extremistas promovieron a través de las autoridades de facto la prohibición de la promoción, uso, venta, compra y cualquier política o programa relacionado con la Píldora Anticonceptiva de Emergencia (PAE), mediante un Acuerdo de la Secretaría de Estado en el Despacho de Salud (Acuerdo No.2744 de fecha 24 de octubre del 2009, publicado en el Diario Oficial “La Gaceta”, en su edición No. 32,045).
+CONSIDERANDO: Que aprovechando la ruptura del orden constitucional en Honduras, en pleno golpe de Estado en el año 2009, grupos extremistas promovieron a través de las autoridades de facto la prohibición de la promoción, uso, venta, compra y cualquier política o programa relacionado con la Píldora Anticonceptiva de Emergencia (PAE), mediante un Acuerdo de la Secretaría de Estado en el Despacho de Salud (Acuerdo No. 2744 de fecha 24 de octubre del 2009, publicado en el Diario Oficial “La Gaceta”, en su edición No. 32,045).
 
 Lo anterior, como una evidente proliferación de discursos de odio o anti-ideología de género aprovechando la ruptura del orden constitucional, con el fin de promover iniciativas que violentan o restringen los derechos de las mujeres.
 
@@ -55,15 +55,15 @@ CONSIDERANDO: Que la Ley de Igualdad de Oportunidades para la Mujer, reconoce lo
 
 CONSIDERANDO: Que en fecha 18 de agosto de 2022, a solicitud de la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), el Colegio Médico de Honduras (CMH) emitió el dictamen por parte de la Sociedad de Ginecología y Obstetricia de Honduras, el cual, en una de sus partes dice que la Píldora Anticonceptiva de Emergencia (PAE), no es abortiva y no impide la implantación de un óvulo fecundado, ya que no tiene efecto sobre el endometrio, por lo cual no existen condiciones médicas conocidas en las cuales no se deba usar la Píldora Anticonceptiva de Emergencia (PAE), y que su eficacia se ciñe a su toma en las primeras cuarenta y ocho horas después de la relación sexual, antes de que el óvulo sea liberado desde el ovario y de que el espermatozoide lo fecunde, por lo que no pueden interrumpir un embarazo ya establecido, ni dañar a un embrión en desarrollo.
 
-CONSIDERANDO: Que mediante Acuerdo Ministerial No. 14874-2022 de la Secretaría de Estado en el Despacho de Salud, emitido el 20 de enero de 2023, publicado en el Diario Oficial “La Gaceta”, en su edición No.36,134, se reformó el Acuerdo Ministerial N°. 2744, con el fin de facilitar una adecuada promoción, uso, venta y compra de la Píldora Anticonceptiva de Emergencia (PAE) para los casos de víctimas sobrevivientes de violencia sexual.
+CONSIDERANDO: Que mediante Acuerdo Ministerial No. 14874-2022 de la Secretaría de Estado en el Despacho de Salud, emitido el 20 de enero de 2023, publicado en el Diario Oficial “La Gaceta”, en su edición No. 36,134, se reformó el Acuerdo Ministerial N°. 2744, con el fin de facilitar una adecuada promoción, uso, venta y compra de la Píldora Anticonceptiva de Emergencia (PAE) para los casos de víctimas sobrevivientes de violencia sexual.
 
 CONSIDERANDO: Que las PAE se distribuyen y utilizan en toda América Latina y en la mayoría de países del mundo, formando un componente clave y básico para el tratamiento de víctimas de violencia sexual, que actúa principalmente previniendo la ovulación. Además, y en observancia a criterios estrictamente científicos, la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés) de los Estados Unidos, estableció oficialmente que la píldora anticonceptiva de emergencia no provoca abortos, información que actualmente se publica en las etiquetas de este medicamento.
 
-POR TANTO, En uso de las facultades establecidas en los artículos 59, 65, 145, 245 numerales 1), 2), 11) y 29) de la Constitución de la República; 11, 36, 116, 117, 118 y 119 de la Ley General de la Administración Pública; 7 y 67 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; artículo 19 de la Ley de Igualdad de Oportunidades para la Mujer; Acuerdo Ministerial No.2744 de la Secretaría de Estado en el Despacho de Salud emitido en fecha 24 de octubre del 2009; Acuerdo Ejecutivo No. 14874-2022 de la Secretaría de Estado en el Despacho de Salud, emitido el 20 de enero de 2023; y demás aplicables.
+POR TANTO, En uso de las facultades establecidas en los artículos 59, 65, 145, 245 numerales 1), 2), 11) y 29) de la Constitución de la República; 11, 36, 116, 117, 118 y 119 de la Ley General de la Administración Pública; 7 y 67 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; artículo 19 de la Ley de Igualdad de Oportunidades para la Mujer; Acuerdo Ministerial No. 2744 de la Secretaría de Estado en el Despacho de Salud emitido en fecha 24 de octubre del 2009; Acuerdo Ejecutivo No. 14874-2022 de la Secretaría de Estado en el Despacho de Salud, emitido el 20 de enero de 2023; y demás aplicables.
 
 ACUERDA:
 
-PRIMERO: Dejar sin ningún valor ni efecto en todas y cada una de sus partes el Acuerdo Ministerial No.2744 de la Secretaría de Estado en el Despacho de Salud, emitido en fecha 24 de octubre del 2009, publicado en el Diario Oficial “La Gaceta”, en su edición No. 32,045.
+PRIMERO: Dejar sin ningún valor ni efecto en todas y cada una de sus partes el Acuerdo Ministerial No. 2744 de la Secretaría de Estado en el Despacho de Salud, emitido en fecha 24 de octubre del 2009, publicado en el Diario Oficial “La Gaceta”, en su edición No. 32,045.
 
 SEGUNDO: Garantizar el libre uso, acceso, venta y compra relacionada con la Píldora Anticonceptiva de Emergencia (PAE), así como su distribución y comercialización en todo el país.
 

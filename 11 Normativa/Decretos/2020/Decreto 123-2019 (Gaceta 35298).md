@@ -11,7 +11,7 @@ paginas: "A. 46 - 47"
 sumario: "Decretos Legislativos Nos. 73-2020, 123-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200629-35298/download"
 extraido: "2026-11-14"
-huella: "ee95ebc1f8dcf848"
+huella: "3586bfb949c164d1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 123-2019
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -51,7 +51,7 @@ AMBULANCIA EQUIPADA 4X4 MECÁNICA LAND CRUISER, 4 PUERTAS, 6 PASAJEROS, 2019 416
 
 Modelo: HZJ78L-RJMRS Año: 2019 Marca: Toyota Cilindrada: 4164 Motor: 1HZ 0925597 Serie: JTERB71J00F002695 Color: BLANCO Capacidad: 6 Pasajeros Combustible: DIESEL #Arancelario: 8703.33.61.00.00 VIN: JTERB71J00F002695 Peso del Vehículo: 2630 KGS.
 
-Cotizado conforme factura proforma No.1000010361, de Corporación Flores, S.A., emitida el 24 de Julio de 2019, por un monto de USD 49,200.00 (CUARENTA Y NUEVE MIL DOSCIENTOS DÓLARES) o su equivalencia en moneda nacional al tipo de cambio vigente.
+Cotizado conforme factura proforma No. 1000010361, de Corporación Flores, S.A., emitida el 24 de Julio de 2019, por un monto de USD 49,200.00 (CUARENTA Y NUEVE MIL DOSCIENTOS DÓLARES) o su equivalencia en moneda nacional al tipo de cambio vigente.
 
 #### Artículo 2
 

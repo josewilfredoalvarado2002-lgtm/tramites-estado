@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ministerial No. 081-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230925-36342/download"
 extraido: "2026-11-14"
-huella: "1d2d9e959c093a93"
+huella: "0d344a817a3296ef"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 081-2023
@@ -35,23 +35,19 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 222-92 de fecha 10 de diciemb
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de, la balanza de pagos; o la deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización del mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio, relacionadas con la modificación de los derechos arancelarios a la importación, durante un plazo máximo de 30 días. Lo anterior, sin perjuicio de otras medidas no arancelarias que adopten los Estados con base en su legislación nacional. Dentro de dicho plazo, el Consejo deberá reunirse para considerar la situación, calificar su gravedad y disponer medidas que conjuntamente deban tomarse, incluyendo la posibilidad de resolver sobre la suspensión o modificación de las disposiciones adoptadas unilateralmente o, según el caso, autorizar la prórroga de las mismas. El plazo del párrafo anterior se tendrá por prorrogado hasta la fecha en que el Consejo adopte las medidas que correspondan. El Consejo reglamentará la presente disposición”.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad-Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial “La Gaceta” el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad-Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
-CONSIDERANDO: Que en fecha 13 de junio de 2023, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de “Modificación vía ampliación de plazo por un año en la medida de salvaguardia para los productos de limas, contenidas en las disposiciones del Acuerdo Ministerial 086-2019, ampliado mediante los Acuerdos Ministeriales No.
-
-158-2020, No. 149-2021 y No. 087-2022”.
+CONSIDERANDO: Que en fecha 13 de junio de 2023, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de “Modificación vía ampliación de plazo por un año en la medida de salvaguardia para los productos de limas, contenidas en las disposiciones del Acuerdo Ministerial 086-2019, ampliado mediante los Acuerdos Ministeriales No. 158-2020, No. 149-2021 y No. 087-2022”.
 
 CONSIDERADO: Que en reunión celebrada en fecha 30 de agosto de 2023, la Comisión Ad Hoc aprobó el informe técnico por medio del cual se determinó declarar parcialmente con lugar lo solicitado por el peticionario, prorrogando la medida de salvaguardia únicamente para las importaciones de limas planas clasificadas en el código arancelario 8203.10.10.00, por el término de un (1) año con el fin de proteger al consumidor final y a la producción nacional.
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en el uso de sus facultades y en aplicación de los artículos 247, 255, 329, 331 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública; 54 literal 1 literal b), d) y e) del Decreto Ejecutivo PCM-008-97, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano contenido en el Decreto Legislativo 222-92 de fecha 10 de diciembre de 1992; Acuerdo Ministerial No. 086-2019; Acuerdo Ministerial No. 158-2020, Acuerdo Ministerial No.149-2021 y Acuerdo Ministerial No.
-
-087-2022.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en el uso de sus facultades y en aplicación de los artículos 247, 255, 329, 331 de la Constitución de la República; 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública; 54 literal 1 literal b), d) y e) del Decreto Ejecutivo PCM-008-97, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano contenido en el Decreto Legislativo 222-92 de fecha 10 de diciembre de 1992; Acuerdo Ministerial No. 086-2019; Acuerdo Ministerial No. 158-2020, Acuerdo Ministerial No. 149-2021 y Acuerdo Ministerial No. 087-2022.
 
 ACUERDA:
 
-PRIMERO: Prorrogar el Acuerdo Ministerial No. 086- 2019, por un plazo de 30 (treinta) días de conformidad con lo establecido en el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, a partir del 27 de septiembre del 2023.
+PRIMERO: Prorrogar el Acuerdo Ministerial No. 086-2019, por un plazo de 30 (treinta) días de conformidad con lo establecido en el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, a partir del 27 de septiembre del 2023.
 
 SEGUNDO: El plazo consignado en el ordinal primero, se tendrá por prorrogado hasta la fecha en que el Consejo Arancelario y Aduanero Centroamericano adopte las medidas que correspondan, de conformidad al segundo párrafo del
 

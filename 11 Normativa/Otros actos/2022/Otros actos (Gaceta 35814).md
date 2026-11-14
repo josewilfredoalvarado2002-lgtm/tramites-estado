@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220105-35814/download"
 extraido: "2026-11-14"
-huella: "3f302067405e6e1e"
+huella: "ac024f99af2983de"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -51,7 +51,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Modificar el Artículo 16 del Acuerdo 303- 2018 del Manual para la Transparencia y Uso de los Fondos Públicos, leyéndose de la siguiente manera:
+ARTÍCULO 1: Modificar el Artículo 16 del Acuerdo 303-2018 del Manual para la Transparencia y Uso de los Fondos Públicos, leyéndose de la siguiente manera:
 
 De conformidad al último desembolso otorgado a las Asociaciones Civiles se publicará los Estados Financieros y el Informe de la Auditoría Externa con base a los Artículos 10 inciso 10 y Artículo 24 inciso 2 del presente Manual en la página web institucional de forma anual como liquidación de los fondos asignados.
 

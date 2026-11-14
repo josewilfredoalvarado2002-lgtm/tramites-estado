@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 60-2024, 63-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240718-36589/download"
 extraido: "2026-11-14"
-huella: "7fc87339448f37d8"
+huella: "bb3620b5f148b70e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 60-2024
@@ -45,7 +45,7 @@ CONSIDERANDO: Que, de conformidad al Artículo 205 Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

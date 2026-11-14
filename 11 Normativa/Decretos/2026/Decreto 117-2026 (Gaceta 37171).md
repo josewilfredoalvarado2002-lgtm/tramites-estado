@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decreto No. 117-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260618-37171/download"
 extraido: "2026-11-09"
-huella: "0f780ade3df39ba9"
+huella: "d2774732ac9e57c6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 117-2026
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 294 de la Constitución de la 
 
 CONSIDERANDO: Que las Municipalidades constituyen la base de la organización territorial del Estado y requieren recursos suficientes para ejecutar programas de inversión social, infraestructura municipal, atención de emergencias, fortalecimiento de la educación, salud, agua potable y saneamiento, en beneficio directo de las comunidades y de los sectores más vulnerables de la población.
 
-CONSIDERANDO: Que el Decreto No.62-2026, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, debe adecuarse a las necesidades operativas y estratégicas de las Instituciones Públicas, permitiendo una gestión más eficiente de los recursos del Estado, el cumplimiento de los compromisos nacionales e internacionales y la continuidad de los servicios públicos esenciales.
+CONSIDERANDO: Que el Decreto No. 62-2026, contentivo del Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, debe adecuarse a las necesidades operativas y estratégicas de las Instituciones Públicas, permitiendo una gestión más eficiente de los recursos del Estado, el cumplimiento de los compromisos nacionales e internacionales y la continuidad de los servicios públicos esenciales.
 
 CONSIDERANDO: Que resulta necesario fortalecer los mecanismos de financiamiento, inversión pública, seguridad ciudadana, defensa nacional, descentralización municipal y cumplimiento de las metas fiscales acordadas por el Estado de Honduras, mediante reformas que permitan una ejecución presupuestaria más ágil, eficiente y orientada a resultados.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Reformar el Artículo 172 del Decreto No.62-2026, el cual se leerá de la manera siguiente:
+ARTÍCULO 1. Reformar el Artículo 172 del Decreto No. 62-2026, el cual se leerá de la manera siguiente:
 
 “ARTÍCULO 172. Del monto total de la Transferencia establecida en el
 
@@ -71,7 +71,7 @@ Debe entenderse que las erogaciones descritas en los numerales 1), 2) y 3) anter
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar los artículos 37 y 134 del Decreto No.62-2026, y el Artículo 279 del Decreto No.70-2026, los cuales se leerán de la siguiente manera:
+ARTÍCULO 2.- Reformar los artículos 37 y 134 del Decreto No. 62-2026, y el Artículo 279 del Decreto No. 70-2026, los cuales se leerán de la siguiente manera:
 
 “ARTÍCULO 37. Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que suscriba Convenios de Financiamiento con Empresas Públicas y Bancos Estatales, con Fondos del Tesoro Nacional (Fuente
 
@@ -89,13 +89,13 @@ Asimismo, cuando sea permitido por las condiciones de la operación respectiva, 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar por adición el Decreto No. 62- 2026, agregando en su orden los artículos No.103-A, 105-A y 237-A, que se leerá de la siguiente manera:
+ARTÍCULO 3.- Reformar por adición el Decreto No. 62-2026, agregando en su orden los artículos No. 103-A, 105-A y 237-A, que se leerá de la siguiente manera:
 
-“ARTÍCULO 103-A. Se autoriza a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y al Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) la contratación directa de obras hasta un monto de DIEZ MILLONES D E L E M P I R A S E X A C T O S (L. 10,000,000.00), con el propósito de atender el programa de ejecución en obras de infraestructura menor, tramos de mantenimiento de la red vial no pavimentada que no están incluidas en los lotes bajo la Licitación Pública Nacional LPN- SIT-006-2026. De igual manera se atenderán otros tipos de obras menores como ser: Cajas puentes, dragados, pavimentos, huellas, cunetas y obras civiles como aulas y techos escolares, alcantarillados, construcción de tanques de agua comunitarios, techos de casas para familias de bajos recursos y cualquier otra obra menor que mejore las condiciones de vida de las comunidades.
+“ARTÍCULO 103-A. Se autoriza a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y al Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS) la contratación directa de obras hasta un monto de DIEZ MILLONES DE LEMPIRAS EXACTOS (L. 10,000,000.00), con el propósito de atender el programa de ejecución en obras de infraestructura menor, tramos de mantenimiento de la red vial no pavimentada que no están incluidas en los lotes bajo la Licitación Pública Nacional LPN- SIT-006-2026. De igual manera se atenderán otros tipos de obras menores como ser: Cajas puentes, dragados, pavimentos, huellas, cunetas y obras civiles como aulas y techos escolares, alcantarillados, construcción de tanques de agua comunitarios, techos de casas para familias de bajos recursos y cualquier otra obra menor que mejore las condiciones de vida de las comunidades.
 
 Para lograr un adecuado control, seguimiento y supervisión en la calidad, tiempo y transparencia de las distintas obras que contiene el presente Artículo, se autoriza a ambas instituciones a contratar en la misma forma una o más firmas consultoras/supervisoras de alta calificación o ingeniería de valor, con el propósito de lograr una eficiente ejecución de las obras antes señaladas”.
 
-“ARTÍCULO 105-A. Se autoriza a la Secretaría de Estado en el Despacho de Seguridad (SEDS), a la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA) y a la Dirección Nacional de Investigación e Inteligencia (DNII) en el marco de la Emergencia de Seguridad Ciudadana que vive el país y dentro de lo aprobado en el Consejo Nacional de Defensa y Seguridad según Acuerdo No.007/CNDS-2026 a suscribir de inmediato los contratos o convenios, así como pactar hasta el porcentaje de anticipo establecido en el Artículo 285 del Decreto Legislativo No.62-2026 para las compras de bienes y servicios a nivel nacional o internacional a fin de fortalecer los cuerpos de Seguridad y Defensa Nacional y luchar contra la delincuencia y narcotráfico. Estas compras estarán exentas de cualquier clase de impuestos y tasas.
+“ARTÍCULO 105-A. Se autoriza a la Secretaría de Estado en el Despacho de Seguridad (SEDS), a la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA) y a la Dirección Nacional de Investigación e Inteligencia (DNII) en el marco de la Emergencia de Seguridad Ciudadana que vive el país y dentro de lo aprobado en el Consejo Nacional de Defensa y Seguridad según Acuerdo No. 007/CNDS-2026 a suscribir de inmediato los contratos o convenios, así como pactar hasta el porcentaje de anticipo establecido en el Artículo 285 del Decreto Legislativo No. 62-2026 para las compras de bienes y servicios a nivel nacional o internacional a fin de fortalecer los cuerpos de Seguridad y Defensa Nacional y luchar contra la delincuencia y narcotráfico. Estas compras estarán exentas de cualquier clase de impuestos y tasas.
 
 Asimismo, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar las modificaciones presupuestarias correspondientes o la celebración de convenios y/o contratos de financiamiento con organismos o instituciones multilaterales, bilaterales o el Sistema Financiero Nacional para el pago de las relaciones contractuales que se realizan en el marco del Acuerdo antes mencionado”.
 

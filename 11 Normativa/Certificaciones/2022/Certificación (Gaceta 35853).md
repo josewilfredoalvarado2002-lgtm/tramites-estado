@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220219-35853/download"
 extraido: "2026-11-14"
-huella: "c9e37d155defcc43"
+huella: "864fbd8eb0facc38"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "c9e37d155defcc43"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 1005-2020. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, tres de diciembre del dos mil veinte.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha tres de noviembre del dos mil veinte, la cual corre agregada al expediente administrativo No. PJ- 03112020-342, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAJAS DEL MUNICIPIO DE YAMARANGUILA DEPARTAMENTO DE INTIBUCÁ, con domicilio en la comunidad de Lajas del municipio de Yamaranguila, departamento de Intibucá; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha tres de noviembre del dos mil veinte, la cual corre agregada al expediente administrativo No. PJ-03112020-342, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAJAS DEL MUNICIPIO DE YAMARANGUILA DEPARTAMENTO DE INTIBUCÁ, con domicilio en la comunidad de Lajas del municipio de Yamaranguila, departamento de Intibucá; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -51,13 +51,11 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAJAS DEL MUNICIPIO DE YAMARANGUILA DEPARTAMENTO DE INTIBUCÁ, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAJAS DEL MUNICIPIO DE YAMARANGUILA DEPARTAMENTO DE INTIBUCÁ, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
-POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No.
-
-80-2018 y Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
+POR TANTO: EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN, en uso de sus facultades y en aplicación a lo establecido en el artículo 245 numeral 40 de la Constitución de la República; 56 y 58 del Código Civil y en aplicación de los Artículos 29 reformado mediante Decreto 266-2013 de fecha 23 de enero de 2014, 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 24, 25 y 83 de la Ley de Procedimiento Administrativo, Acuerdo Ministerial No. 80-2018 y Acuerdo Ministerial No. 58-2019 de fecha 27 de febrero de 2019.
 
 RESUELVE:
 
@@ -101,7 +99,7 @@ ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la 
 
 #### Artículo 6
 
-ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a : 1)Capacidad de pago. 2)Número de familia por vivienda 3) Número de llaves adicionales 4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAM) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
+ARTÍCULO 6. Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades con fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a: 1)Capacidad de pago. 2)Número de familia por vivienda 3) Número de llaves adicionales 4) otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal AJAM) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.
 
 CAPÍTULO III DE LOS MIEMBROS, DE LAS CLASES DE MIEMBROS, OBLIGACIONES DE LOS MIEMBROS
 
@@ -125,7 +123,7 @@ CAPÍTULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS,
 
 #### Artículo 10
 
-ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: al- Asamblea de usuarios.- b.- Junta directiva.- c.- Comités de apoyo integrada por : 1) Comité de Microcuencas.- 2) Comité de operación y mantenimiento.-
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: al- Asamblea de usuarios.- b.- Junta directiva.- c.- Comités de apoyo integrada por: 1) Comité de Microcuencas.- 2) Comité de operación y mantenimiento.-
 
 \3) Comité de saneamiento y educación de usuarios 4) Comité de vigilancia.
 

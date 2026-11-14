@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo No. 026-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200727-35326/download"
 extraido: "2026-11-14"
-huella: "fd3d850ed56bf5fa"
+huella: "370d9be59c69c703"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 026-2020
@@ -47,9 +47,7 @@ Institución: 32; Gastos Administrativos: 01; Unidad Ejecutora: 01; Programa: ll
 
 00; Actividad/Obra: 01; Objeto: 16200; Descripción de Cuentas: Compensaciones
 
-CONSIDERANDO: Que para los efectos relacionados en el Considerando anterior, mediante oficio No.
-
-394-D-PGR-2019 de fecha 11 de diciembre de 2019, 1a Procuraduría General de la República, de conformidad a la Atribución de su Ley Orgánica, ha solicitado ante el “ Poder Ejecutivo la comisión del Acuerdo Ejecutivo mediante el cual se autorice a esta Representación Legal del Estado, para que en nombre del Estado de Honduras ejerza las facultades de Expresa Mención Consignadas en los Artículos 81 y 82 del Código Procesal Civil”.
+CONSIDERANDO: Que para los efectos relacionados en el Considerando anterior, mediante oficio No. 394-D-PGR-2019 de fecha 11 de diciembre de 2019, 1a Procuraduría General de la República, de conformidad a la Atribución de su Ley Orgánica, ha solicitado ante el “ Poder Ejecutivo la comisión del Acuerdo Ejecutivo mediante el cual se autorice a esta Representación Legal del Estado, para que en nombre del Estado de Honduras ejerza las facultades de Expresa Mención Consignadas en los Artículos 81 y 82 del Código Procesal Civil”.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 023-2018 de fecha 16 de abril de 2018, el señor Presidente Constitucional de la República, Abogado Juan Orlando Hernández Alvarado, delegó en la Subsecretaria de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, la potestad de firmar los Acuerdos Ejecutivos que según a la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de Reglamentos, Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado, autorizar al Procurador General de la República para ejecutar facultades de expresa mención en las demandas promovidas contra el Estado de Honduras, Gastos de Representación de Funcionarios, Préstamos, Modificaciones Presupuestarias y otros actos administrativos que deba firmar por Ley el Presidente de la República.
 

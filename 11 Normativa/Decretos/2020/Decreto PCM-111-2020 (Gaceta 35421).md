@@ -11,7 +11,7 @@ paginas: "A. 1 - 11"
 sumario: "Decretos Ejecutivos números PCM-111-2020, PCM-112-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201106-35421/download"
 extraido: "2026-11-14"
-huella: "1edb143c0bdd244d"
+huella: "7ffd8b343631d9f4"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-111-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo establecido en el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada y Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266- 2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
+CONSIDERANDO: Que de conformidad con el Artículo 14 numerales 1) y 4) de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto Ejecutivo en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar la competencias de los Despachos por las Secretarías de Estado y crear dependencias internas que fueren necesarias para la buena administración, reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
 CONSIDERANDO: Que la Ley para el Establecimiento de una Visión de País y la Adopción de un Plan de Nación para Honduras, contenida en el Decreto Legislativo Número 286-2009, publicada en “La Gaceta”, Diario Oficial de la República de fecha 2 de febrero de 2010, específicamente en su Artículo 6 que aprueba la Visión de País al año 2038, establece como Objetivo .4: “Honduras como un Estado moderno, transparente, responsable, eficiente y competitivo”, por lo que resulta necesario crear una institucionalidad capaz de impulsar y coordinar una efectiva política integral de transparencia, probidad y prevención a la corrupción.
 
@@ -223,7 +223,7 @@ Asimismo, el recurso humano, mobiliario, equipos, materiales y plataformas tecno
 
 ARTÍCULO 15.- Derogar el Artículo 3 y el inciso 3 del
 
-Artículo 4 del Decreto Ejecutivo Número 002-2014, publicado en el Diario Oficial “La Gaceta” en fecha 28 de febrero de 2014, reformado mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo de 2018 y por el Decreto Ejecutivo Número PCM-025-2018, publicado en el Diario Oficial “La Gaceta” de fecha 25 de julio de 2018. Asimismo, derogar el inciso 4 del Artículo 1 del Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo de 2018 y por el Decreto Ejecutivo Número PCM-025- 2018 de fecha 25 de junio de 2018. Derogar los artículos 2 y 3 y reformar el Artículo 4 del Decreto Ejecutivo Número PCM 044-2020, publicado en el Diario Oficial “La Gaceta” de fecha 19 de mayo del 2020 y Reformar el Artículo 1 del PCM-076-2020 de fecha 7 de agosto del 2020, publicado en el Diario Oficial “La Gaceta” de fecha 7 de agosto del 2020.
+Artículo 4 del Decreto Ejecutivo Número 002-2014, publicado en el Diario Oficial “La Gaceta” en fecha 28 de febrero de 2014, reformado mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo de 2018 y por el Decreto Ejecutivo Número PCM-025-2018, publicado en el Diario Oficial “La Gaceta” de fecha 25 de julio de 2018. Asimismo, derogar el inciso 4 del Artículo 1 del Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” de fecha 23 de marzo de 2018 y por el Decreto Ejecutivo Número PCM-025-2018 de fecha 25 de junio de 2018. Derogar los artículos 2 y 3 y reformar el Artículo 4 del Decreto Ejecutivo Número PCM 044-2020, publicado en el Diario Oficial “La Gaceta” de fecha 19 de mayo del 2020 y Reformar el Artículo 1 del PCM-076-2020 de fecha 7 de agosto del 2020, publicado en el Diario Oficial “La Gaceta” de fecha 7 de agosto del 2020.
 
 #### Artículo 16
 

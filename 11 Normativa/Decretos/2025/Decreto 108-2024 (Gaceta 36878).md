@@ -11,7 +11,7 @@ paginas: "A. 6 - 20"
 sumario: "Decretos Nos. 23-2025, 24-2025,108-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250701-36878/download"
 extraido: "2026-11-10"
-huella: "d0f88cb20708e44e"
+huella: "3ef1187a7597aee4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 108-2024
@@ -29,9 +29,9 @@ huella: "d0f88cb20708e44e"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que la República de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y el Gobierno de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron Acuerdo de Donación No. 2360740 por un monto de hasta DOS MIL OCHOCIENTOS SESENTA Y TRES MILLONES EXACTOS DE YENES JAPONESES (JPY.2,863,000,000.00), el 11 de enero de 2024, destinada a financiar el “Proyecto de Construcción del Puente en la Carretera Nacional No.6”, a la altura del Kilómetro 16, ubicado en el municipio de San Antonio de Oriente, departamento de Francisco Morazán.
+CONSIDERANDO: Que la República de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y el Gobierno de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), suscribieron Acuerdo de Donación No. 2360740 por un monto de hasta DOS MIL OCHOCIENTOS SESENTA Y TRES MILLONES EXACTOS DE YENES JAPONESES (JPY.2,863,000,000.00), el 11 de enero de 2024, destinada a financiar el “Proyecto de Construcción del Puente en la Carretera Nacional No. 6”, a la altura del Kilómetro 16, ubicado en el municipio de San Antonio de Oriente, departamento de Francisco Morazán.
 
-CONSIDERANDO: Que el Acuerdo de Donación No.2360740, suscrito con JICA, en su Anexo 4, titulado “Obligaciones del Receptor”, numeral 2) cuadro titulado “Durante la Implementación del Proyecto”, numeral 5), establece: Asegurar que los derechos aduaneros, impuestos internos y otras cargas fiscales que se impongan en el país del Beneficiario con respecto a la adquisición de los Productos y/o los Servicios sean eximidos.
+CONSIDERANDO: Que el Acuerdo de Donación No. 2360740, suscrito con JICA, en su Anexo 4, titulado “Obligaciones del Receptor”, numeral 2) cuadro titulado “Durante la Implementación del Proyecto”, numeral 5), establece: Asegurar que los derechos aduaneros, impuestos internos y otras cargas fiscales que se impongan en el país del Beneficiario con respecto a la adquisición de los Productos y/o los Servicios sean eximidos.
 
 CONSIDERANDO: Que la Ley de Contratación del Estado en su Artículo 13 establece que los contratos que contemplen exoneraciones, incentivos o concesiones fiscales, requerirán aprobación del Congreso Nacional, este requisito deberá cumplirse especialmente, cuando se trate de contratos que hayan de producir o prolongar sus efectos al siguiente período de Gobierno.
 
@@ -41,15 +41,15 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “ACUERDO DE DONACIÓN No.2360740 suscrito en fecha 11 de enero de 2024, por un monto de hasta DOS MIL OCHOCIENTOS SESENTA Y TRES MILLONES EXACTOS DE YENES JAPONESES (JPY. 2,863,000,000.00), entre la República de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y el Gobierno de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), destinado a financiar el “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No.6” a la altura del Kilómetro 16, ubicado en el municipio de San Antonio de Oriente, departamento de Francisco Morazán”, mismo que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el “ACUERDO DE DONACIÓN No. 2360740 suscrito en fecha 11 de enero de 2024, por un monto de hasta DOS MIL OCHOCIENTOS SESENTA Y TRES MILLONES EXACTOS DE YENES JAPONESES (JPY. 2,863,000,000.00), entre la República de Honduras, a través de la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) y el Gobierno de Japón, a través de la Agencia de Cooperación Internacional del Japón (JICA), destinado a financiar el “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No. 6” a la altura del Kilómetro 16, ubicado en el municipio de San Antonio de Oriente, departamento de Francisco Morazán”, mismo que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA
 
-Y T R A N S P O R T E . A c u e r d o d e Donación No.2360740. ACUERDO DE DONACIÓN para EL PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No.6.
+Y TRANSPORTE . Acuerdo de Donación No. 2360740. ACUERDO DE DONACIÓN para EL PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No. 6.
 
 Entre LA AGENCIA DE COOPERACIÓN
 
@@ -57,7 +57,7 @@ INTERNACIONAL DEL JAPÓN Y EL GOBIERNO DE LA REPÚBLICA DE
 
 HONDURAS. FECHA: 11 de enero de 2024. De conformidad con el Canje de Notas entre el Gobierno del Japón y el Gobierno de la República de Honduras de fecha 11 de enero 2024, referente a la Cooperación Económica Japonesa que debe ser otorgada con miras a promover el desarrollo económico y social de la República de Honduras (en adelante denominada “C/N”) y con las leyes, reglamentos y asignaciones presupuestarias de Japón, la Agencia de Cooperación Internacional del Japón (en adelante denominada “JICA”) y el Gobierno de la República de Honduras (en adelante denominado “Receptor”) han acordado celebrar el siguiente Acuerdo de Donación (en adelante denominado “A/D”). Artículo
 
-1. Monto y Objetivo de la Donación. JICA otorgará una donación de hasta dos mil ochocientos sesenta y tres millones de Yenes Japoneses (JPY2,863,000,000) que incluye un importe de hasta doscientos sesenta millones de Yenes Japoneses (JPY260,000,000) para contingencias (en adelante denominado “Donación”) al Receptor con el propósito de contribuir a la implementación del Proyecto de Construcción del Puente en la Carretera Nacional No.6 mencionado en el apartado
+1. Monto y Objetivo de la Donación. JICA otorgará una donación de hasta dos mil ochocientos sesenta y tres millones de Yenes Japoneses (JPY2,863,000,000) que incluye un importe de hasta doscientos sesenta millones de Yenes Japoneses (JPY260,000,000) para contingencias (en adelante denominado “Donación”) al Receptor con el propósito de contribuir a la implementación del Proyecto de Construcción del Puente en la Carretera Nacional No. 6 mencionado en el apartado
 
 (1) del párrafo 1 del C/N (en adelante denominado “Proyecto”) cuyos detalles se describen en el Anexo 1 adjunto. Artículo
 
@@ -69,7 +69,7 @@ Administración de la Donación. 19. (1) El Receptor contratará un consultor pa
 
 Para JICA Dirección postal:
 
-A G E N C I A D E C O O P E R A C I Ó N INTERNACIONAL DEL JAPÓN Oficina en Honduras Octavo Nivel, Edificio Corporativo “777”, Colonia Las Lomas del Guijarro Sur, Tegucigalpa, M.D.C; Honduras, Centro América Atención: Representante Residente con una copia a:
+AGENCIA DE COOPERACIÓN INTERNACIONAL DEL JAPÓN Oficina en Honduras Octavo Nivel, Edificio Corporativo “777”, Colonia Las Lomas del Guijarro Sur, Tegucigalpa, M.D.C; Honduras, Centro América Atención: Representante Residente con una copia a:
 
 JAPAN INTERNATTONAL COOPERATION AGENCY
 
@@ -271,13 +271,13 @@ SIT
 
 #### Artículo 2
 
-ARTÍCULO 2.- Se exonera del pago de Derechos Arancelarios de Importación, Impuesto Selectivo al Consumo, Impuesto al Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV) e Impuestos Sobre Ventas, en la importación y compra local de insumos, bienes, equipos, materiales y servicios necesarios, para la construcción, equipamiento y operación del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No.6” a la altura del Kilómetro 16 ubicado en el Municipio de San Antonio de Oriente, Departamento de Francisco Morazán.
+ARTÍCULO 2.- Se exonera del pago de Derechos Arancelarios de Importación, Impuesto Selectivo al Consumo, Impuesto al Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV) e Impuestos Sobre Ventas, en la importación y compra local de insumos, bienes, equipos, materiales y servicios necesarios, para la construcción, equipamiento y operación del “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No. 6” a la altura del Kilómetro 16 ubicado en el Municipio de San Antonio de Oriente, Departamento de Francisco Morazán.
 
 La exoneración prevista en el párrafo anterior es aplicable a las personas jurídicas que ejecuten y supervisen el desarrollo de dicho Proyecto.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Exonerar del Impuesto Sobre la Renta y sus retenciones y todos aquellos impuestos conexos al Impuesto Sobre la Renta, aportación solidaria y activo neto, sobre los pagos de servicios u honorarios profesionales contratados con personas naturales o jurídicas extranjeras y nacionales necesarias para los estudios, desarrollo, diseño, ingeniería, construcción, instalación, administración, seguimiento, monitoreo y supervisión para el “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No.6”, a la altura del Kilómetro 16 ubicado en el Municipio de San Antonio de Oriente, Departamento de Francisco Morazán.
+ARTÍCULO 3.- Exonerar del Impuesto Sobre la Renta y sus retenciones y todos aquellos impuestos conexos al Impuesto Sobre la Renta, aportación solidaria y activo neto, sobre los pagos de servicios u honorarios profesionales contratados con personas naturales o jurídicas extranjeras y nacionales necesarias para los estudios, desarrollo, diseño, ingeniería, construcción, instalación, administración, seguimiento, monitoreo y supervisión para el “PROYECTO DE CONSTRUCCIÓN DEL PUENTE EN LA CARRETERA NACIONAL No. 6”, a la altura del Kilómetro 16 ubicado en el Municipio de San Antonio de Oriente, Departamento de Francisco Morazán.
 
 #### Artículo 4
 
@@ -285,7 +285,7 @@ ARTÍCULO 4.- Se exonera de las tasas, sobre tasas y derechos, por los permisos 
 
 #### Artículo 5
 
-ARTÍCULO 5.- Con el fin de apoyar y facilitar la operatividad administrativa del “Proyecto de Construcción del Puente en la Carretera Nacional No.6”, las exoneraciones establecidas en los artículos 2, 3 y 4 precedentes serán aplicables a partir de la fecha de firma del Acuerdo de Donación No. 2360740 y permanecerán vigentes hasta finalizar el período de disponibilidad de la Donación que es el 31 de Diciembre del 2030, según lo estipulado en el Anexo 1 de dicho Acuerdo de Donación
+ARTÍCULO 5.- Con el fin de apoyar y facilitar la operatividad administrativa del “Proyecto de Construcción del Puente en la Carretera Nacional No. 6”, las exoneraciones establecidas en los artículos 2, 3 y 4 precedentes serán aplicables a partir de la fecha de firma del Acuerdo de Donación No. 2360740 y permanecerán vigentes hasta finalizar el período de disponibilidad de la Donación que es el 31 de Diciembre del 2030, según lo estipulado en el Anexo 1 de dicho Acuerdo de Donación
 
 #### Artículo 6
 

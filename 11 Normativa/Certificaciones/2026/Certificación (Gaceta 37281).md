@@ -11,7 +11,7 @@ paginas: "A. 8 - 48"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261029-37281/download"
 extraido: "2026-11-09"
-huella: "1c0c1ea7ac9bce14"
+huella: "9f6d2fcf02bdeb03"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -41,9 +41,7 @@ FORESTALES, (UNACIFOR). - Consejo de Dirección Universitario, Siguatepeque, Com
 
 CONSIDERANDO: Que la Universidad Nacional de Ciencias Forestales (UNACIFOR), antes Escuela Nacional de Ciencias Forestales (ESNACIFOR), fue creada mediante Decreto Legislativo No. 136-93, de noviembre de 1993, como una entidad descentralizada del Estado, con personalidad jurídica y patrimonio propio, y de duración indefinida.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-193-2013 se decretó convertir la Escuela Nacional de Ciencias Forestales (ESNACIFOR) en Universidad de Ciencias Forestales, y que posteriormente, mediante resolución del Consejo de Educación Superior de fecha 26 de abril de 2016, se aprobó su cambio de categoría a Universidad Nacional de Ciencias Forestales (UNACIFOR), como institución de Educación Superior del Estado hondureño, especializada, autónoma y sin fines de lucro, para el servicio público.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 193-2013 se decretó convertir la Escuela Nacional de Ciencias Forestales (ESNACIFOR) en Universidad de Ciencias Forestales, y que posteriormente, mediante resolución del Consejo de Educación Superior de fecha 26 de abril de 2016, se aprobó su cambio de categoría a Universidad Nacional de Ciencias Forestales (UNACIFOR), como institución de Educación Superior del Estado hondureño, especializada, autónoma y sin fines de lucro, para el servicio público.
 
 CONSIDERANDO: Que en virtud de su carácter autónomo y de la personalidad jurídica y patrimonio propio que le reconoce su Ley Constitutiva, la UNACIFOR tiene capacidad legal para generar, administrar y percibir ingresos propios provenientes de la prestación de servicios académicos, técnicos, de investigación, capacitación, producción y demás actividades vinculadas a su misión institucional.
 
@@ -57,7 +55,7 @@ POR TANTO: El Consejo de Dirección Universitario en uso de las facultades de qu
 
 ACUERDA:
 
-PRIMERO: Emitir y aprobar el Plan de Arbitrios 2026- 2029 siguiente:
+PRIMERO: Emitir y aprobar el Plan de Arbitrios 2026-2029 siguiente:
 
 PLAN DE ARBITRIOS INSTITUCIONAL UNIVERSIDAD NACIONAL DE CIENCIAS FORESTALES (UNACIFOR) UNACIFOR 2026 Universidad Nacional de Ciencias Forestales UNACIFOR (ESNACIFOR desde 1969) Apartado Postal # 2, Siguatepeque, Comayagua, Honduras Teléfono (+504) 2758-0630 Ext 136 www.unacifor.edu.hn INDICE DE CONTENIDO INDICE DE CONTENIDO ....................................................................................................... 3 INTRODUCCIÓN ...................................................................................................................... 4 PLAN DE ARBITRIOS ............................................................................................................. 5
 

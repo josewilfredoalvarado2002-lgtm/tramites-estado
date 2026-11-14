@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdos Ejecutivos Nos. 7-2026, 190-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "a9b05fa122f8dea1"
+huella: "19e035a0b5784017"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 190-2026
@@ -29,9 +29,7 @@ huella: "a9b05fa122f8dea1"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-En el uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República, 11, 12, 28, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto No. 53-2001; Decreto No.
-
-106-2004 y Resolución No. 34-1/2026.
+En el uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República, 11, 12, 28, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto No. 53-2001; Decreto No. 106-2004 y Resolución No. 34-1/2026.
 
 ACUERDA:
 

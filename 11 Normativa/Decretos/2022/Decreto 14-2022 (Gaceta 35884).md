@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Decretos Nos. 11-2022, 13-2022, 14-2022, 17-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220328-35884/download"
 extraido: "2026-11-14"
-huella: "dc0d140749afb38e"
+huella: "3810a7a982fa6fed"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 14-2022
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

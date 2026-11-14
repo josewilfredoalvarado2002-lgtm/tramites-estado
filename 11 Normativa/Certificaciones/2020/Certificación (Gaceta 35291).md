@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación No. 2357-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200622-35291/download"
 extraido: "2026-11-14"
-huella: "b76df6a5db15c580"
+huella: "7f38a1c40af3a428"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -33,7 +33,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 “RESOLUCIÓN No. 2357-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, tres de diciembre del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de octubre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ- 08102019-843, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS TABLAS, con domicilio en la comunidad de Las Tablas del municipio de Maraita, departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de octubre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-08102019-843, por la Abogada ROSA ISBELA SANTOS AGUILAR, en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS TABLAS, con domicilio en la comunidad de Las Tablas del municipio de Maraita, departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 
@@ -61,7 +61,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en los artículos 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS TABLAS, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS TABLAS, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
 DECISIÓN
 
@@ -177,7 +177,7 @@ f) Vocal primero, g) Vocal segundo.
 
 #### Artículo 19
 
-ARTÍCULO 19.- Son atribuciones del PRESIDENTE: A.- Convocar a sesiones.- b.-Abrir, decidir y serrar las sesiones c.- elaborar la agenda con el secretario, d.- Autorizar y aprobar con el secretario las actas de las sesiones e.- Autorizar y aprobar con el Tesorero todo documento que implique erogación de fondos. f.- Representar judicial y extrajudicialmente a la Junta Administradora de Agua y Saneamiento JAAS.- g.- Solicitar un informe por escrito al fontanero y presentarlo a los directivos y usuarios.- h.- Firmar con el Presidente las salidas del dinero de tesorería de la Junta.- A R T I C U L O 2 0 . - S o n A t r i b u c i o n e s d e VICEPRESIDENTE: a.- Sustituir el presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la mayoría simple de la Junta directiva.- b.- Supervisar las comisiones que se asigne. c.- Coordinar el comité de operaciones y mantenimiento d) Nombrar delegado del comité de operación y mantenimiento. e.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea.
+ARTÍCULO 19.- Son atribuciones del PRESIDENTE: A.- Convocar a sesiones.- b.-Abrir, decidir y serrar las sesiones c.- elaborar la agenda con el secretario, d.- Autorizar y aprobar con el secretario las actas de las sesiones e.- Autorizar y aprobar con el Tesorero todo documento que implique erogación de fondos. f.- Representar judicial y extrajudicialmente a la Junta Administradora de Agua y Saneamiento JAAS.- g.- Solicitar un informe por escrito al fontanero y presentarlo a los directivos y usuarios.- h.- Firmar con el Presidente las salidas del dinero de tesorería de la Junta.- ARTICULO 2 0 . - Son Atribuciones de VICEPRESIDENTE: a.- Sustituir el presidente en caso de ausencia temporal o definitiva, en este último caso se requerirá la mayoría simple de la Junta directiva.- b.- Supervisar las comisiones que se asigne. c.- Coordinar el comité de operaciones y mantenimiento d) Nombrar delegado del comité de operación y mantenimiento. e.- Las demás atribuciones que le asigne la Junta Directiva o la Asamblea.
 
 #### Artículo 21
 

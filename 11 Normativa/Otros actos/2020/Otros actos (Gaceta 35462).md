@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201217-35462/download"
 extraido: "2026-11-14"
-huella: "80bd0e899a14ff0b"
+huella: "2dd3f0cbdaca6a32"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -41,7 +41,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera rauda, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 017-2011 del 22 de marzo de 2011, se creó la Dirección General de Control de Franquicias Aduaneras, responsable de conocer y registrar los asuntos relacionados con todas las exenciones y exoneraciones fiscales que se deban otorgar conforme los convenios, tratados internacionales y las demás leyes vigentes, sin perjuicio de las atribuciones que por ley corresponde a cada Secretaría de Estado; y está adscrita a la Subsecretaría de Finanzas y Presupuesto.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-017-2011 del 22 de marzo de 2011, se creó la Dirección General de Control de Franquicias Aduaneras, responsable de conocer y registrar los asuntos relacionados con todas las exenciones y exoneraciones fiscales que se deban otorgar conforme los convenios, tratados internacionales y las demás leyes vigentes, sin perjuicio de las atribuciones que por ley corresponde a cada Secretaría de Estado; y está adscrita a la Subsecretaría de Finanzas y Presupuesto.
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera rauda, económica y eficiente a satisfacer el interés general y que en definitiva, resulte una simplificación de los procesos que se lleven a cabo en la Administración Pública.
 
@@ -67,7 +67,7 @@ El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario
 
 COMUNÍQUESE Y PUBLÍQUESE:
 
-ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No.455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY ACUERDO DE DELEGACION NO. 611-2019
+ROXANA MELANI RODRÍGUEZ ALVARADO SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS, POR LEY Acuerdo de Delegación No. 455-2020 de fecha 7 de septiembre de 2020 MARTHA SUYAPA GUILLEN CARRASCO SECRETARIA GENERAL, POR LEY ACUERDO DE DELEGACION NO. 611-2019
 
 ## Fuente
 

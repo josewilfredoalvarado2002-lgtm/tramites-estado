@@ -8,10 +8,10 @@ gaceta_numero: 36599
 gaceta_fecha: "2024-07-30"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)|La Gaceta 36599]]"
 paginas: "A. 27 - 31"
-sumario: "Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024"
+sumario: "Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240730-36599/download"
 extraido: "2026-11-14"
-huella: "1ea441b1a0b0cad9"
+huella: "35c456a9ce1ce7c5"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 407-2024
@@ -23,7 +23,7 @@ huella: "1ea441b1a0b0cad9"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36599 (2024-07-30)\|La Gaceta 36599]] del 2024-07-30 |
 | Páginas | A. 27 - 31 |
-| Según el sumario de La Gaceta | Decreto No. 65-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo No. 408-2024 |
+| Según el sumario de La Gaceta | Decreto No. 65-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 389-2024, 406-2024, 407-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo No. 408-2024 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -61,7 +61,7 @@ CONSIDERANDO:
 
 Que el Gobierno de la República de Honduras ha priorizado dentro de su programa de inversión pública modernizar y potenciar la infraestructura de una manera sostenible y por tal razón se ha formulado con el apoyo del Banco Centroamericano de Integración Económica (BCIE) el “Programa de Carreteras Resilientes de Honduras (PCR-HN)”, por un monto total de hasta Setecientos Setenta y Cinco Millones de Dólares de los Estados Unidos de América (US$775,000,000.00) el cual consiste en la rehabilitación, mejora y construcción de 351.10 kilómetros de carreteras en las zonas oriente, occidente y norte del país con diferentes tecnologías constructivas en estructuras de pavimento de concreto hidráulico y/o concreto asfáltico en dos, tres y cuatro carriles, incluyendo drenajes mayores y menores, consideraciones ambientales, climáticas, sociales y seguridad vial, beneficiando a tres millones cien mil habitantes de nuestro país (3.1 millones de habitantes).
 
-CONSIDERANDO: Que en el marco del “Programa de Carreteras Resilientes de Honduras (PCR-HN)”, el Gobierno de Honduras suscribió el 14 de diciembre del año 2023 con el Banco Centroamericano de Integración Económica (BCIE) el Contrato de Préstamo No.2333 por un monto de hasta Seiscientos Seis Millones Novecientos Ochenta y Ocho Mil Ciento Once con Catorce Centavos de Dólares de los Estados Unidos de América (US$606,988,111.14) para financiar el Tramo A del programa y fue aprobado por el Congreso Nacional mediante Decreto No.9- 2024, publicado en el Diario Oficial La Gaceta el 7 de marzo de 2024.
+CONSIDERANDO: Que en el marco del “Programa de Carreteras Resilientes de Honduras (PCR-HN)”, el Gobierno de Honduras suscribió el 14 de diciembre del año 2023 con el Banco Centroamericano de Integración Económica (BCIE) el Contrato de Préstamo No. 2333 por un monto de hasta Seiscientos Seis Millones Novecientos Ochenta y Ocho Mil Ciento Once con Catorce Centavos de Dólares de los Estados Unidos de América (US$606,988,111.14) para financiar el Tramo A del programa y fue aprobado por el Congreso Nacional mediante Decreto No. 9-2024, publicado en el Diario Oficial La Gaceta el 7 de marzo de 2024.
 
 CONSIDERANDO:
 

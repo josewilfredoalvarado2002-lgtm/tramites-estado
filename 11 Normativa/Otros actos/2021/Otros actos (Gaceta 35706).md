@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210902-35706/download"
 extraido: "2026-11-14"
-huella: "e52fb970c670932d"
+huella: "f5d40f16c1c7fbfd"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -145,7 +145,7 @@ SEXTO: El cumplimiento de las medidas de bioseguridad para la prevención de con
 
 DÉCIMO
 
-SÉPTIMO: Se deroga en todo y cada una de sus partes el Acuerdo Ministerial SAG-95- 2020 (16 de septiembre del 2020).
+SÉPTIMO: Se deroga en todo y cada una de sus partes el Acuerdo Ministerial SAG-95-2020 (16 de septiembre del 2020).
 
 DÉCIMO
 

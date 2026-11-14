@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ministeriales Nos. 471-SEDESOL-2026, 488-SEDESOL-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260706-37186/download"
 extraido: "2026-11-09"
-huella: "31d6d6316e6411f7"
+huella: "1003e25e874f9ea5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 488-SEDESOL-2026
@@ -47,9 +47,7 @@ CONSIDERANDO: Que el artículo 121 de la Ley de Procedimiento Administrativo est
 
 CONSIDERANDO: Artículo 17 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
-Decreto Ejecutivo No.
-
-PCM-008-97.-Las Secretarías de Estado están a cargo de los Secretarios de Estado correspondientes, quienes para el despacho de los asuntos de su competencia serán asistidos, por uno o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen. Los anteriores funcionarios conforman, en el orden indicado, el nivel jerárquico superior de la Secretaría de Estado.
+Decreto Ejecutivo No. PCM-008-97.-Las Secretarías de Estado están a cargo de los Secretarios de Estado correspondientes, quienes para el despacho de los asuntos de su competencia serán asistidos, por uno o más Subsecretarios, el Secretario General, y los Directores Generales o titulares de otros órganos de autoridad que las leyes determinen. Los anteriores funcionarios conforman, en el orden indicado, el nivel jerárquico superior de la Secretaría de Estado.
 
 CONSIDERANDO: Que, en esta Secretaría de Estado, dentro de sus órganos internos existe la Secretaría General, dependiente de esta Secretaría de Estado, quien será la responsable en los asuntos de su competencia.
 
@@ -61,15 +59,13 @@ POR TANTO:
 
 En aplicación a lo que establecen los Artículos: 1, 247, 248, 249,321 de la Constitución de la República; 7, 33, 34, 36, 116, 118, 119 de la Ley General de la Administración Pública;
 
-Artículos 4 y 5 de la Ley de Procedimiento Administrativo, 26 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo No.
-
-PCM-008-97, Decreto Ejecutivo PCM- 05-2022 y Acuerdo Ejecutivo No. 034-2026.
+Artículos 4 y 5 de la Ley de Procedimiento Administrativo, 26 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo No. PCM-008-97, Decreto Ejecutivo PCM-05-2022 y Acuerdo Ejecutivo No. 034-2026.
 
 ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Delegar en el Ciudadano MAURICIO RENÉ VALLADARES THUMANN con DNI: 0801-1995- 12332, en su condición de Secretario General de la Secretaría de Estado en el Despacho de Desarrollo Social, nombrado mediante Acuerdo Ejecutivo No. 102-2026 de fecha once
+ARTÍCULO 1.- Delegar en el Ciudadano MAURICIO RENÉ VALLADARES THUMANN con DNI: 0801-1995-12332, en su condición de Secretario General de la Secretaría de Estado en el Despacho de Desarrollo Social, nombrado mediante Acuerdo Ejecutivo No. 102-2026 de fecha once
 
 (11) de febrero 2026, las atribuciones inherentes al cargo de la Titular de la Secretaría de Estado en el Despacho de Desarrollo Social, durante los días lunes veintinueve (29) junio al lunes seis (06) de julio de dos mil veintiséis (2026).
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Acuerdos Nos. DNII-001-2021, 002-2021 003-2021, 004-2021, 005-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210705-35647/download"
 extraido: "2026-11-14"
-huella: "582c4bf6f06f45bf"
+huella: "234f283d01e53319"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DNII-001-2021
@@ -37,9 +37,9 @@ CONSIDERANDO. Que el Estado de Honduras, a través de la División de Seguridad 
 
 Implementar el Programa Nacional de Seguridad de la Aviación Civil (PNSAC) con la finalidad de brindar la seguridad, regularidad y eficacia de la aeronavegación nacional e internacional, en forma permanente y sostenida, proporcionando las salvaguardas necesarias contra los actos de interferencia ilícita mediante reglamentos, recomendaciones, métodos procedimientos legales establecidos, tanto en el derecho interno como en el Internacional; igualmente, mantener la seguridad de las personas, los explotadores nacionales y extranjeros debidamente autorizados para operar en el espacio aéreo nacional fundamentalmente en los aeropuertos que prestan servicios tanto a vuelos nacionales, como internacionales.
 
-CONSIDERANDO: Que el Presidente Constitucional de la República mediante Decreto Ejecutivo No. 014- 2014 de fecha 12 de diciembre de 2014, publicado en "La Gaceta" Diario Oficial de la República de Honduras el 16 de diciembre de ese mismo año, reformó el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC); de igual forma en el artículo 4 de dicho estamento legal quedó establecido que para una oportuna y efectiva aplicación de las políticas internacionales que en materia de seguridad de la aviación se implementen, el Director Nacional de Investigación e Inteligencia queda plenamente facultado para aprobar cualquier enmienda o reforma al PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC).
+CONSIDERANDO: Que el Presidente Constitucional de la República mediante Decreto Ejecutivo No. 014-2014 de fecha 12 de diciembre de 2014, publicado en "La Gaceta" Diario Oficial de la República de Honduras el 16 de diciembre de ese mismo año, reformó el PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC); de igual forma en el artículo 4 de dicho estamento legal quedó establecido que para una oportuna y efectiva aplicación de las políticas internacionales que en materia de seguridad de la aviación se implementen, el Director Nacional de Investigación e Inteligencia queda plenamente facultado para aprobar cualquier enmienda o reforma al PROGRAMA NACIONAL DE SEGURIDAD DE LA AVIACIÓN CIVIL (PNSAC).
 
-CONSIDERANDO: Que es facultad de la DIVISIÓN DE SEGURIDAD AEROPORTUARIA (DSA) elaborar, aplicar, revisar y mantener actualizado el Programa Nacional de Seguridad de la Aviación Civil y proponerlo para su aprobación a la Dirección Nacional de Investigación e Inteligencia (DNII); y , en ese ámbito de sus competencias la DSA ha propuesto la reforma de algunos conceptos y disposiciones contenidas en el mismo para una mejor aplicabilidad y efectividad en las funciones que desarrolla esa División y los demás órganos involucrados en los temas de seguridad aeroportuaria.
+CONSIDERANDO: Que es facultad de la DIVISIÓN DE SEGURIDAD AEROPORTUARIA (DSA) elaborar, aplicar, revisar y mantener actualizado el Programa Nacional de Seguridad de la Aviación Civil y proponerlo para su aprobación a la Dirección Nacional de Investigación e Inteligencia (DNII); y, en ese ámbito de sus competencias la DSA ha propuesto la reforma de algunos conceptos y disposiciones contenidas en el mismo para una mejor aplicabilidad y efectividad en las funciones que desarrolla esa División y los demás órganos involucrados en los temas de seguridad aeroportuaria.
 
 CONSIDERANDO: Que analizados los argumentos expuestos por el Jefe de la División de Seguridad Aeroportuaria (DSA) se hace necesario efectuar las reformas propuestas a fin de alcanzar los fines y estar acordes con la normativa nacional e internacional establecida en el Programa Nacional de Seguridad de la Aviación Civil.
 

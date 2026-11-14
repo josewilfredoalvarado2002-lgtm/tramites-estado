@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 99 - 101"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "7cc23c4525133b76"
+huella: "b3ff848c41d27992"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 55-2020
@@ -23,7 +23,7 @@ huella: "7cc23c4525133b76"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 99 - 101 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la situación que se ha presentado en el mundo y ya con la con
 
 CONSIDERANDO: Que la pandemia ocasionada por el COVID-19 ha venido a afectar de manera significativa la economía mundial, y de forma particular la economía nacional, por lo que se hace necesario emitir medidas extraordinarias en materia presupuestaria a efecto de disminuir el impacto ocasionado por la pandemia.
 
-CONSIDERANDO: Que mediante Decreto No. 25-2016 de fecha 7 de Abril del 2016, y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016 Edición No.34,024 se aprobó la Ley de Responsabilidad Fiscal (LRF) que tiene como objeto, establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
+CONSIDERANDO: Que mediante Decreto No. 25-2016 de fecha 7 de Abril del 2016, y publicado en el Diario Oficial “La Gaceta” el 4 de Mayo del 2016 Edición No. 34,024 se aprobó la Ley de Responsabilidad Fiscal (LRF) que tiene como objeto, establecer los lineamientos para una mejor gestión de las finanzas públicas asegurando la consistencia en el tiempo de la política presupuestaria y garantizar la consolidación fiscal, sostenibilidad de la deuda y reducción de la pobreza con responsabilidad, prudencia y transparencia fiscal.
 
 CONSIDERANDO: Que el Artículo 3 de la Ley de Responsabilidad Fiscal (LRF) establece Reglas Plurianuales de Desempeño Fiscal y en su Artículo 4 la misma Ley se establece las Reglas de Excepción de la Ley de Responsabilidad Fiscal
 

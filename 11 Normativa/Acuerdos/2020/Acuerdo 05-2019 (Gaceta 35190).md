@@ -8,7 +8,7 @@ gaceta_numero: 35190
 gaceta_fecha: "2020-03-03"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)|La Gaceta 35190]]"
 paginas: "A. 1 - 2"
-sumario: "Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020"
+sumario: "Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200303-35190/download"
 extraido: "2026-11-14"
 huella: "da82d29f265da163"
@@ -23,7 +23,7 @@ huella: "da82d29f265da163"
 | Emisor | Secretaría de Seguridad |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35190 (2020-03-03)\|La Gaceta 35190]] del 2020-03-03 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019SECRETARÍA DE RECURSOS NATURALES Y AMBIENTEAcuerdo CIAPEB 001-2018, 0346-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020PODER LEGISLATIVODecretos Nos. 10-2020, 22-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 05-2019; SECRETARÍA DE RECURSOS NATURALES Y AMBIENTE: Acuerdo CIAPEB 001-2018, 0346-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 008-2020, 0009-2020, 010-2020; PODER LEGISLATIVO: Decretos Nos. 10-2020, 22-2020 |
 
 ## Texto
 

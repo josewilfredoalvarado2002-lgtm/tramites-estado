@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-072-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200726-35325/download"
 extraido: "2026-11-14"
-huella: "7d32eede33d934e2"
+huella: "50a858ec6744dd4f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-072-2020
@@ -49,9 +49,9 @@ AVANCE
 
 A. 8
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-068-2020, publicado en el Diario Oficial “La Gaceta” en fecha 19 de julio del 2020, Edición No. 35,318 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES”. Decretando, prorrogar por siete (7) días, efectivo a partir del veinte (20) de julio del presente año, hasta el veintiséis (26) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057- 2020, PCM-059-2020 y PCM-063-2020.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-068-2020, publicado en el Diario Oficial “La Gaceta” en fecha 19 de julio del 2020, Edición No. 35,318 mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES”. Decretando, prorrogar por siete (7) días, efectivo a partir del veinte (20) de julio del presente año, hasta el veintiséis (26) del mismo mes y año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020 y PCM-063-2020.
 
-CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto Legislativo Número 86-2020, emitido en fecha 7 de julio, 2020 ha ratificado en todas y cada una de sus partes el Decreto Ejecutivo Número PCM 053-2020, de fecha 13 de Junio del 2020, publicado en el Diario Oficial “La Gaceta”, en la Edición No. 35,283, de fecha 14 de junio del 2020; PCM 056-2020, de fecha 21 de Junio del 2020, publicado en el Diario Oficial “La Gaceta” en la Edición No.35,290, de esa misma fecha; PCM 57-2020, de fecha 28 de Junio del 2020, publicado en el Diario Oficial “La Gaceta” en la edición No. 35,297, de esa misma fecha; y, PCM 59-2020, de fecha 5 de Julio del 2020, contentivo de la prórroga de las medidas de restricción de garantías constitucionales contenidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República y, la Disposición Especial para el MUNICIPIO DEL DISTRITO CENTRAL, DEL DEPARTAMENTO DE FRANCISCO MORAZÁN Y EL MUNICIPIO DE SAN PEDRO SULA, DEPARTAMENTO DE CORTÉS.
+CONSIDERANDO: Que el Congreso Nacional de la República, mediante Decreto Legislativo Número 86-2020, emitido en fecha 7 de julio, 2020 ha ratificado en todas y cada una de sus partes el Decreto Ejecutivo Número PCM 053-2020, de fecha 13 de Junio del 2020, publicado en el Diario Oficial “La Gaceta”, en la Edición No. 35,283, de fecha 14 de junio del 2020; PCM 056-2020, de fecha 21 de Junio del 2020, publicado en el Diario Oficial “La Gaceta” en la Edición No. 35,290, de esa misma fecha; PCM 57-2020, de fecha 28 de Junio del 2020, publicado en el Diario Oficial “La Gaceta” en la edición No. 35,297, de esa misma fecha; y, PCM 59-2020, de fecha 5 de Julio del 2020, contentivo de la prórroga de las medidas de restricción de garantías constitucionales contenidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República y, la Disposición Especial para el MUNICIPIO DEL DISTRITO CENTRAL, DEL DEPARTAMENTO DE FRANCISCO MORAZÁN Y EL MUNICIPIO DE SAN PEDRO SULA, DEPARTAMENTO DE CORTÉS.
 
 CONSIDERANDO: Que según la información epidemiológica en Honduras al 25 de julio del 2020, se reportó un número importante de contagios por la Pandemia de COVID-19 que asciende a: 38,438 casos, 4,713 personas recuperadas y 1,098 fallecidos a nivel nacional, por lo que se hace necesario continuar con las medidas de Restricción de Garantías Constitucionales que contribuyan a contrarrestar el inminente peligro de contagio.
 
@@ -63,7 +63,7 @@ POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 69, 78,
 
 Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 155-2015, Decreto Legislativo No. 103-2018, Decreto Legislativo No. 33-2020; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020, Decreto Legislativo No. 86-2020;
 
-Decretos Ejecutivos Números: PCM-005-2020, PCM-021- 2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM- 036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM- 053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020 y PCM-068-2020.
+Decretos Ejecutivos Números: PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020 y PCM-068-2020.
 
 DECRETA:
 
@@ -73,7 +73,7 @@ ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
 Prorrogar por siete (7) días, efectivo a partir del veintisiete
 
-(27) de julio del presente año, hasta el dos (02) de agosto del año 2020, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059- 2020, PCM-063-2020 y PCM-068-2020.
+(27) de julio del presente año, hasta el dos (02) de agosto del año 2020, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números: PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-063-2020 y PCM-068-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187 numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
@@ -83,7 +83,7 @@ ARTÍCULO 2.- Ratificar en todas y cada una de sus partes el contenido del Artí
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar por adición el Artículo 2 del Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255 reformado por los Decretos Ejecutivos Números: PCM-052-2020, PCM-053-2020 y PCM-056-2020, ratificado por los Decretos Ejecutivos Números: PCM-057- 2020, PCM-063-2020 y PCM-068-2020, el cual se leerá de la siguiente manera:
+ARTÍCULO 3.- Reformar por adición el Artículo 2 del Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255 reformado por los Decretos Ejecutivos Números: PCM-052-2020, PCM-053-2020 y PCM-056-2020, ratificado por los Decretos Ejecutivos Números: PCM-057-2020, PCM-063-2020 y PCM-068-2020, el cual se leerá de la siguiente manera:
 
 “ARTÍCULO 2.- EXCEPCIONES A LOS
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Resolución No.1-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220926-36037/download"
 extraido: "2026-11-14"
-huella: "a6c567d0310b7abf"
+huella: "65cc35cb6340051f"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 1-2022
@@ -29,7 +29,7 @@ huella: "a6c567d0310b7abf"
 
 El CONGRESO NACIONAL Reunido el Congreso Nacional, a los Veintiuno días del mes de Septiembre de 2022, en el Hemiciclo Legislativo, para emitir Resolución sobre la misiva enviada a este Poder del Estado por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a presentar a este Poder del Estado, la solicitud que a su vez le fuere presentada por el Reino de Suecia, contraída a que se conceda a la ciudadana hondureña Juliette Handal permiso para aceptar el cargo de Cónsul General Honoraria de ese país en Honduras, específicamente en esta ciudad de Tegucigalpa.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No.155-DSS-ACM-2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa en fecha 20 de Septiembre de 2022.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 155-DSS-ACM-2022, remitió a este Poder del Estado, conforme a Derecho, solicitud formal para que se conceda tal permiso antes mencionado, la cual fue conocida por esta Augusta Cámara Legislativa en fecha 20 de Septiembre de 2022.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, que le otorga la atribución y el deber de conceder permiso a los hondureños para aceptar cargos de otro Estado; y, el Artículo 255 de la Constitución, y el Artículo 82 y el Artículo 24 numeral 9 de la Ley Orgánica del Poder Legislativo y, en reciprocidad el Artículo 19 de la Ley de Servicio Diplomático Exterior, estando incluida en esta categoría legislativa la habilitación para que un ciudadano hondureño ejerza la calidad de Cónsul Honorario en representación de un tercer Estado.
 

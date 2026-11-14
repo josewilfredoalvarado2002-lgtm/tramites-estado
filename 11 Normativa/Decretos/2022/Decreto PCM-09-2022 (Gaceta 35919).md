@@ -11,7 +11,7 @@ paginas: "A. 21 - 40"
 sumario: "Decreto Ejecutivo número PCM-09-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220510-35919/download"
 extraido: "2026-11-14"
-huella: "841228a54d889950"
+huella: "7a099dc0f40064aa"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-09-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el artículo 355 de la Constitución de la República, estable
 
 CONSIDERANDO: Que el numeral 15) del artículo 29 de la Ley General de la Administración Pública, dispone que: “Las Secretarías de Estado tendrán las competencias fundamentales siguientes: 15) Finanzas. Lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas; la ejecución del Presupuesto General de Ingresos y Egresos de la República; lo relativo al crédito y a la deuda pública, el manejo de la Tesorería y la Pagaduría de la República, el registro, administración, protección y control de los bienes nacionales y la programación de la inversión pública en el marco de las prioridades establecidas por la Presidencia de la República…”.
 
-CONSIDERANDO: Que el artículo 83 de la Ley Orgánica del Presupuesto contenido en el Decreto No.83-2004, publicado en el Diario Oficial La Gaceta el 28 de junio del 2004, establece textualmente que: “El subsistema de Tesorería tendrá por objeto la administración de los recursos financieros, incluyendo su percepción y manejo, así como su posterior distribución y control para atender el pago de las obligaciones financieras, con el fin de cumplir los objetivos programados.
+CONSIDERANDO: Que el artículo 83 de la Ley Orgánica del Presupuesto contenido en el Decreto No. 83-2004, publicado en el Diario Oficial La Gaceta el 28 de junio del 2004, establece textualmente que: “El subsistema de Tesorería tendrá por objeto la administración de los recursos financieros, incluyendo su percepción y manejo, así como su posterior distribución y control para atender el pago de las obligaciones financieras, con el fin de cumplir los objetivos programados.
 
 Las funciones inherentes a este subsistema corresponden a la Tesorería General de la República, que está a cargo de dictar las normas necesarias para aquellos Entes, que, facultados por la Ley recaudan ingresos en forma directa.
 
@@ -45,7 +45,7 @@ La Tesorería General de la República tendrá a su cargo, además, proveer los 
 
 CONSIDERANDO: Que la Constitución de la República, manda que los contratos que el Estado celebre para la ejecución de obras públicas, adquisición de suministros y servicios, de compraventa o arrendamiento de bienes, deberán ejecutarse previa licitación, concurso o subasta de conformidad con la ley. Se exceptúan los contratos que tengan por objeto proveer a las necesidades ocasionadas por un estado de emergencia y los que por su naturaleza no puedan celebrarse sino con persona determinada (artículo 360).
 
-CONSIDERANDO: Que la deuda pública heredada a la que corresponde hacer frente durante este cuatrienio 2022- 2026, asciende a más de ocho mil millones de dólares que, al cambio actual equivalen a más de 197 mil millones de lempiras, mientras en el Presupuesto General de Ingresos y Egresos de la República para este año 2022, la recaudación está proyectada en 118 mil millones de lempiras y los egresos en 179 mil millones de lempiras, razón por la cual ante el evidente déficit se impone la obligación de contraer más deuda para poder cubrirlo. Los vencimientos de deuda interna y externa heredada por el régimen, incluidos los bonos soberanos, se describen a continuación: 1) Bono Soberano por $500.0 mm, colocado en 2013. Tasa de interés de 7.50%, vence en 2024, 2025 y 2026. Se pagó $166.7 mm el pasado mes de marzo; 2) Bono Soberano por $700 mm, colocado en 2017. Tasa de interés de 6.25%, vence en 2027; y 3) Bono Soberano por $600 mm, colocado en 2020. Tasa de interés de 5.625%, vence en 2030.
+CONSIDERANDO: Que la deuda pública heredada a la que corresponde hacer frente durante este cuatrienio 2022-2026, asciende a más de ocho mil millones de dólares que, al cambio actual equivalen a más de 197 mil millones de lempiras, mientras en el Presupuesto General de Ingresos y Egresos de la República para este año 2022, la recaudación está proyectada en 118 mil millones de lempiras y los egresos en 179 mil millones de lempiras, razón por la cual ante el evidente déficit se impone la obligación de contraer más deuda para poder cubrirlo. Los vencimientos de deuda interna y externa heredada por el régimen, incluidos los bonos soberanos, se describen a continuación: 1) Bono Soberano por $500.0 mm, colocado en 2013. Tasa de interés de 7.50%, vence en 2024, 2025 y 2026. Se pagó $166.7 mm el pasado mes de marzo; 2) Bono Soberano por $700 mm, colocado en 2017. Tasa de interés de 6.25%, vence en 2027; y 3) Bono Soberano por $600 mm, colocado en 2020. Tasa de interés de 5.625%, vence en 2030.
 
 CONSIDERANDO: Que el Congreso Nacional, mediante Decreto Legislativo No. 8-2022, publicado en el Diario Oficial La Gaceta el 15 de febrero del año 2022 en su edición número 35,849, declaró Estado de EMERGENCIA FISCAL Y FINANCIERA DEL SECTOR PÚBLICO, para atender de manera integral y responsable la crisis fiscal y financiera heredada del Gobierno anterior a fin de restablecer su equilibrio y reactivar el crecimiento económico sostenible, autorizando a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que adopte las medidas extraordinarias requeridas en el ámbito fiscal y financiero, entre ellas la reasignación del gasto público, gestión de financiamiento de conformidad con las atribuciones conferidas por la Constitución de la República, leyes y reglamentos vigentes. Con base en esta declaratoria, la SEFIN pudo gestionar un préstamo ante el Banco Central de Honduras y pagar cuotas de vencimientos de deuda heredada de la pasada administración, por más de TRECE MIL MILLONES DE LEMPIRAS, ya que por ley el pago de las deudas es prioridad número uno, seguido de los sueldos y salarios.
 
@@ -55,7 +55,7 @@ CONSIDERANDO: Que los fideicomisos son regulados en la Subsección IV del Códig
 
 Cada contrato de fideicomiso constituye y opera como si fuera una ley entre las partes.
 
-Apenas en el año 2019, mediante Decreto Ejecutivo PCM- 029-2019, publicado en el Diario Oficial La Gaceta el 23 de noviembre del año 2019, se creó la Dirección General de Fideicomisos, adscrita a la Subsecretaría de Finanzas y Presupuesto de la SEFIN, como encargada de participar en la creación o estructuración de los fideicomisos, control y monitoreo de su ejecución, apoyar técnicamente a los Comités Técnicos y participar en su momento en la liquidación de todos los fideicomisos públicos existentes y vigentes en la República; así como con los que estén por constituirse o se constituyan en un futuro, así como llevar el control y monitoreo del registro de cada uno de los Fideicomisos.
+Apenas en el año 2019, mediante Decreto Ejecutivo PCM-029-2019, publicado en el Diario Oficial La Gaceta el 23 de noviembre del año 2019, se creó la Dirección General de Fideicomisos, adscrita a la Subsecretaría de Finanzas y Presupuesto de la SEFIN, como encargada de participar en la creación o estructuración de los fideicomisos, control y monitoreo de su ejecución, apoyar técnicamente a los Comités Técnicos y participar en su momento en la liquidación de todos los fideicomisos públicos existentes y vigentes en la República; así como con los que estén por constituirse o se constituyan en un futuro, así como llevar el control y monitoreo del registro de cada uno de los Fideicomisos.
 
 CONSIDERANDO: Que el artículo 364 de la Constitución de la República establece que: “No podrá hacerse ningún compromiso ni efectuarse pago alguno fuera de las asignaciones votadas en el presupuesto o en contravención a las normas presupuestarias. Los infractores serán responsables civil, penal y administrativamente.”; sin embargo, cientos de miles de millones de lempiras se encuentran depositados en bancos públicos y privados, bajo contratos de fideicomisos que son administrados por comités de diversa integración y naturaleza, sus operaciones no se registran en el Presupuesto de la República, deciden de manera independiente sus planes de inversión, hacen préstamos que tampoco son registrados por la SEFIN e invierten hasta en bonos del Estado, sin que el Estado mismo pueda hacer uso de esos recursos para cubrir sus necesidades ingentes, incluidos los vencimientos de cuotas de deuda, teniendo que recurrir de emergencia, iniciando la presente administración 2022-2026, a realizar un préstamo estacional y el uso de los Derechos Especiales de Giro ante el Banco Central de Honduras, para hacer frente a las deudas heredadas.
 
@@ -79,7 +79,8 @@ NOMBRE DEL FIDEICOMISO FIDUCIARIO FIDEICOMITENTE FECHA DEL CONVENIO DISPONIBILID
 
 CONSIDERANDO: Que el 6 de enero de 2021, argumentando la situación de emergencia y calamidad nacional a causa de los efectos de los huracanes y tormentas Eta e Iota, el régimen declaró como megaproyectos de interés nacional los siguientes:
 
- ȀÀ  ͳǤ   ǡ À  ʹǤ ×ǡÀ×  ͵Ǥ    ǡ      ͶǤ  ǡ ͷǤ   ͸Ǥ  À ͹Ǥ   ͺǤ   ͻǤ   ͳͲǤ   ͳͳǤ   ͳʹǤ   ͳ͵Ǥ   ͳͶǤ   Estos 14 proyectos sobre igual número de ríos fueron incorporados al Fideicomiso de Generación de Energía1 suscrito por el Ministro de la SEFIN, el Presidente de la Junta Interventora de la ENEE y el Banco Atlántida.
+ ȀÀ  ͳǤ   
+ǡ À  ʹǤ ×ǡÀ×  ͵Ǥ    ǡ      ͶǤ  ǡ ͷǤ   ͸Ǥ  À ͹Ǥ   ͺǤ   ͻǤ   ͳͲǤ   ͳͳǤ   ͳʹǤ   ͳ͵Ǥ   ͳͶǤ   Estos 14 proyectos sobre igual número de ríos fueron incorporados al Fideicomiso de Generación de Energía1 suscrito por el Ministro de la SEFIN, el Presidente de la Junta Interventora de la ENEE y el Banco Atlántida.
 
 A través de este Contrato de Fideicomiso, la ENEE en su condición de fideicomitente, entrega todos los derechos que posee sobre los proyectos y los derechos de percibir los flujos financieros que se generen por la operación de los proyectos que se desarrollen; las pérdidas las asume la SEFIN, mientras el Banco Fiduciario se debe mantener indemne y tiene la libertad de hacer todo tipo de contrataciones y constituir otros fideicomisos u otra modalidad de negocios sobre éstos bienes.
 
@@ -105,7 +106,7 @@ POR TANTO:
 
 En aplicación de los artículos 9, 10, 11, 12, 13, 245 numerales 2, 11, 19, 20 y 30, 252, 321, 352, 354, 355, 360, 363 y 364 de la Constitución de la República; y los artículos 7, 11, 17, 18, 20 y 22 de la Ley General de la Administración Pública.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -131,7 +132,8 @@ ARTÍCULO 3.- Derogar y dejar sin efecto los Decretos Ejecutivos siguientes:
 
 a) Decreto Ejecutivo PCM-138-2020 publicado en el Diario Oficial La Gaceta el 06 de enero de 2021 a través del cual se declaran como mega proyectos
 
-(14) represas siguientes:͓ priorizados de interés nacional, el diseño, la construcción, ampliación y operación de las catorce  ȀÀ  ͳǤ ǡÀ  ʹǤ ×ǡÀ×  ͵Ǥ  ǡ  ͶǤ  ǡ ͷǤ   ͸Ǥ  À ͹Ǥ   ͺǤ   ͻǤ   ͳͲǤ   ͳͳǤ   ͳʹǤ   ͳ͵Ǥ   ͳͶǤ  
+(14) represas siguientes:͓ priorizados de interés nacional, el diseño, la construcción, ampliación y operación de las catorce  ȀÀ  ͳǤ 
+ǡÀ  ʹǤ ×ǡÀ×  ͵Ǥ  ǡ  ͶǤ  ǡ ͷǤ   ͸Ǥ  À ͹Ǥ   ͺǤ   ͻǤ   ͳͲǤ   ͳͳǤ   ͳʹǤ   ͳ͵Ǥ   ͳͶǤ  
 
 b) Decreto Ejecutivo PCM-017-2014 publicado en el Diario Oficial La Gaceta el 06 de junio de 2014, a través del cual se crea el Fideicomiso de Reactivación del Sector Agroalimentario de Honduras (FIRSA).
 
@@ -195,7 +197,7 @@ WAMPUSIRPI, DEPARTAMENTO DE GRACIAS A DIOS Y SAN LUCAS, DEPARTAMENTO DE EL PARA�
 
 El CONSEJO NACIONAL ELECTORAL (CNE),
 
-CONSIDERANDO (1): Que el Consejo Nacional Electoral en fecha 24 de noviembre emitió resolución EXP. 1241- 2021, mediante la cual resolvió subsanar el domicilio de ciento ochenta y seis (186) ciudadanos, a los que el Registro Nacional de las Personas, les aplicó de manera indebida el Artículo 5 del Decreto 63-2021 y ratificar el domicilio que les corresponde, de acuerdo a su residencia actual, que es en la República de Nicaragua, tal como ellos mismos lo manifestaron al momento del enrolamiento; quienes únicamente podrán ejercer el sufragio en su domicilio actual y no en el municipio de Duyure; asimismo emitió resolución definitiva número CNE-SG-71-2021-EG de fecha veintinueve
+CONSIDERANDO (1): Que el Consejo Nacional Electoral en fecha 24 de noviembre emitió resolución EXP. 1241-2021, mediante la cual resolvió subsanar el domicilio de ciento ochenta y seis (186) ciudadanos, a los que el Registro Nacional de las Personas, les aplicó de manera indebida el Artículo 5 del Decreto 63-2021 y ratificar el domicilio que les corresponde, de acuerdo a su residencia actual, que es en la República de Nicaragua, tal como ellos mismos lo manifestaron al momento del enrolamiento; quienes únicamente podrán ejercer el sufragio en su domicilio actual y no en el municipio de Duyure; asimismo emitió resolución definitiva número CNE-SG-71-2021-EG de fecha veintinueve
 
 (29) de diciembre de dos mil veintiuno (2021), decretando la nulidad de las elecciones generales realizadas el día domingo veintiocho (28) de noviembre de dos mil veintiuno (2021) en el nivel de Corporación Municipal del Municipio de Duyure, Departamento de Choluteca y ordenó la reposición de las mismas.
 
@@ -329,7 +331,7 @@ ARTÍCULO 15. CENTROS DE VOTACIÓN. Para la práctica de la reposición de las e
 
 ARTÍCULO 16. LISTADO DE ELECTORES. Los listados de electores que forman parte de los cuadernos de votación para la reposición de las elecciones anuladas serán los mismos utilizados en las elecciones generales 2021 para los casos de la Junta Receptora número doce mil doscientos diecinueve (12219) del Municipio de Wampusirpi, Departamento de Gracias a Dios y de las Juntas Receptoras número ocho mil cuatrocientos setenta y siete (8477) y ocho mil cuatrocientos setenta y ocho (8478) del Municipio de San Lucas, Departamento de El Paraíso. Para el caso del Municipio de Duyure, departamento de Choluteca, los listados se elaborarán subsanando el domicilio de ciento ochenta y seis
 
-(186) ciudadanos, en cumplimiento de la resolución CNE-SG- 71-2021-EG de fecha veintinueve (29) de diciembre de dos mil veintiuno (2021), dictada por este Consejo, confirmada por el Tribunal de Justicia Electoral en sentencia de fecha 31 de marzo de 2021, cuya Certificación consta en el expediente No. 1821-2021.
+(186) ciudadanos, en cumplimiento de la resolución CNE-SG-71-2021-EG de fecha veintinueve (29) de diciembre de dos mil veintiuno (2021), dictada por este Consejo, confirmada por el Tribunal de Justicia Electoral en sentencia de fecha 31 de marzo de 2021, cuya Certificación consta en el expediente No. 1821-2021.
 
 #### Artículo 17
 

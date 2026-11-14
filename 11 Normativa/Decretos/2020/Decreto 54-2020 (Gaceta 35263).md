@@ -8,10 +8,10 @@ gaceta_numero: 35263
 gaceta_fecha: "2020-05-25"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35263 (2020-05-25)|La Gaceta 35263]]"
 paginas: "A. 1 - 6"
-sumario: "Decreto No. 54-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0049-SE-2020COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREEAcuerdo CREE-051"
+sumario: "Decreto No. 54-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0049-SE-2020; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREE: Acuerdo CREE-051"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200525-35263-2/download"
 extraido: "2026-11-14"
-huella: "166af0f58fde8554"
+huella: "a4c6b9982da80856"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 54-2020
@@ -23,7 +23,7 @@ huella: "166af0f58fde8554"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35263 (2020-05-25)\|La Gaceta 35263]] del 2020-05-25 |
 | Páginas | A. 1 - 6 |
-| Según el sumario de La Gaceta | Decreto No. 54-2020SECRETARÍA DE EDUCACIÓNAcuerdo No. 0049-SE-2020COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREEAcuerdo CREE-051 |
+| Según el sumario de La Gaceta | Decreto No. 54-2020; SECRETARÍA DE EDUCACIÓN: Acuerdo No. 0049-SE-2020; COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA-CREE: Acuerdo CREE-051 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 

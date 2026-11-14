@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Ejecutivos Nos. 026-A-DP-2026, 030-DP-2026,031-DP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260407-37111/download"
 extraido: "2026-11-09"
-huella: "b82cfea993e8b6e1"
+huella: "f9a3e1642f95394a"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 026-A-DP-2026
@@ -39,13 +39,13 @@ CONSIDERANDO: Que mediante el Artículo 7 del Decreto Ejecutivo Número PCM-004-
 
 POR TANTO;
 
-En uso de sus facultades de que está investido y en aplicación de los Artículos 235 y 245 Numerales 2, 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 y demás aplicables de la Ley General de la Administración Pública; Artículo 7 del Decreto Ejecutivo Número PCM- 004-2026, de fecha 24 de febrero de 2026 y publicado en el Diario Oficial "La Gaceta" en fecha 25 de febrero de 2026.
+En uso de sus facultades de que está investido y en aplicación de los Artículos 235 y 245 Numerales 2, 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 y demás aplicables de la Ley General de la Administración Pública; Artículo 7 del Decreto Ejecutivo Número PCM-004-2026, de fecha 24 de febrero de 2026 y publicado en el Diario Oficial "La Gaceta" en fecha 25 de febrero de 2026.
 
 ACUERDA:
 
 PRIMERO: Nombrar al ciudadano JOSÉ ANTONIO MENDOZA OLIVA, en el cargo de Comisionado Presidencial para el Fortalecimiento Municipal y Descentralización.
 
-SEGUNDO: El nombrado dirigirá el PROGRAMA PRESIDENCIAL PARA EL FORTALECIMIENTO MUNICIPAL Y DESCENTRALIZACIÓN, creado mediante el Artículo 7 del Decreto Ejecutivo Número PCM- 004-2026, de fecha 24 de febrero de 2026 y publicado en el Diario Oficial "La Gaceta" en fecha 25 de febrero de 2026.
+SEGUNDO: El nombrado dirigirá el PROGRAMA PRESIDENCIAL PARA EL FORTALECIMIENTO MUNICIPAL Y DESCENTRALIZACIÓN, creado mediante el Artículo 7 del Decreto Ejecutivo Número PCM-004-2026, de fecha 24 de febrero de 2026 y publicado en el Diario Oficial "La Gaceta" en fecha 25 de febrero de 2026.
 
 TERCERO: El nombrado ejercerá sus funciones conforme a la Constitución de la República, la Ley General de la Administración Pública, las leyes especiales del ramo y demás disposiciones legales y reglamentarias aplicables.
 

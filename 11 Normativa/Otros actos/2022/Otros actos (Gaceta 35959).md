@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220625-35959/download"
 extraido: "2026-11-14"
-huella: "4cb9cf596e6a672b"
+huella: "e9ab369d6e262904"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -35,7 +35,7 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, fomentar la eficie
 
 CONSIDERANDO: Que para abastecer el mercado nacional es necesario complementar la oferta de cebolla con importaciones a efecto de evitar desabastecimiento y alza injustificada de los precios a los consumidores, siendo de sus atribuciones y competencia de Secretaría de Agricultura y Ganadería velar por un adecuado abastecimiento de productos esenciales para el consumo nacional.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No.009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
+CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
 
 (ACI) requiere la emisión de una licencia de importación emitida por esta Secretaría de Estado, siendo uno de los requisitos para la emisión de dichas licencias automáticas.
 
@@ -45,15 +45,13 @@ Artículo 3 el inciso h).
 
 CONSIDERANDO: Que es competencia de la Secretaría de Agricultura y Ganadería realizar en forma transitoria y mensualmente la recomendación para la asignación de importación de cebolla entre las empresas importadoras interesadas y que tengan su número de registro de importador de cebolla (NRIC), tal como lo establece el Acuerdo Ministerial No. 042-2016.
 
-CONSIDERANDO: Que en fecha 09 de febrero del 2022 fue publicado en el Diario Oficial “La Gaceta”, el Acuerdo No.
+CONSIDERANDO: Que en fecha 09 de febrero del 2022 fue publicado en el Diario Oficial “La Gaceta”, el Acuerdo No. SAG-041-2022, que contempla el techo de importación de la Cadena Hortícola del Rubro de la Cebolla por cada empresa.
 
-SAG-041-2022, que contempla el techo de importación de la Cadena Hortícola del Rubro de la Cebolla por cada empresa.
-
-CONSIDERANDO: Que en la reunión celebrada el 16 de junio de 2022, con el Comité Nacional de la Cadena Hortícola Rubro de Cebolla, se resuelve, aprobar únicamente la importación de cebolla para el mes de junio de 2022, conforme al techo de importación establecido en el Acuerdo No. SAG- 041-2022, publicado en el Diario Oficial “La Gaceta” en fecha 09 de febrero del 2022.
+CONSIDERANDO: Que en la reunión celebrada el 16 de junio de 2022, con el Comité Nacional de la Cadena Hortícola Rubro de Cebolla, se resuelve, aprobar únicamente la importación de cebolla para el mes de junio de 2022, conforme al techo de importación establecido en el Acuerdo No. SAG-041-2022, publicado en el Diario Oficial “La Gaceta” en fecha 09 de febrero del 2022.
 
 CONSIDERANDO: Que la empresa HORTIFRUTI Honduras S.A. y OPERADORA DEL ORIENTE, S.A. DE C.V., debido a la FUSIÓN POR ABSORCIÓN que se dio entre ambas sociedades, presentaron ante Comité Nacional de la Cadena Hortícola Rubro de Cebolla, solicitud de cambio de la empresa y que ahora en adelante operará con el nombre de OPERADORA DEL ORIENTE, S.A DE C.V. por ser la Sociedad absorbente, petición que fue aprobada por el Comité supra mencionado en la reunión celebrada el 16 de junio de 2022.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG-179- 2022 de fecha 17 de junio de 2022 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de junio del año 2022; clasificadas en los códigos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de importación (ACI).
+CONSIDERANDO: Que mediante Acuerdo No. SAG-179-2022 de fecha 17 de junio de 2022 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de junio del año 2022; clasificadas en los códigos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de importación (ACI).
 
 CONSIDERANDO: Que, entre las atribuciones de la Secretaría de Estado en los Despachos de Desarrollo Económico, figura la administración del régimen de comercio exterior de Honduras.
 
@@ -181,11 +179,11 @@ TOTAL
 
 1,852,320.00
 
-SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No.009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la Dirección General de Integración Económica y Política Comercial (DGIEPC) de esta Secretaría de Estado, por medio de correo solicitud.licencias.cebolla@sde.gob.hn Para aquellos importadores que no cuentan con el Número de Registro supra indicado, la solicitud deberá ser presentada ante la Secretaria General de esta Secretaría de Estado que la trasladará a la DGIEPC para el trámite correspondiente de las Licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
+SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la Dirección General de Integración Económica y Política Comercial (DGIEPC) de esta Secretaría de Estado, por medio de correo solicitud.licencias.cebolla@sde.gob.hn Para aquellos importadores que no cuentan con el Número de Registro supra indicado, la solicitud deberá ser presentada ante la Secretaria General de esta Secretaría de Estado que la trasladará a la DGIEPC para el trámite correspondiente de las Licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
 
-TERCERO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No.009-2015.
+TERCERO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No. 009-2015.
 
-CUARTO: Para los efectos de este Acuerdo son aplicables los Artículos 4, 5, y 8 del Acuerdo Ministerial No.009-2015.
+CUARTO: Para los efectos de este Acuerdo son aplicables los Artículos 4, 5, y 8 del Acuerdo Ministerial No. 009-2015.
 
 QUINTO: El presente Acuerdo deberá ser remitido a las autoridades aduaneras nacionales y a la Secretaría de Estado en los Despachos de Agricultura y Ganadería para que procedan de conformidad a sus competencias.
 

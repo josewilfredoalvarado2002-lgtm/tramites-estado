@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260729-37206/download"
 extraido: "2026-11-09"
-huella: "341b77970f47700d"
+huella: "a7752fceb3afe13b"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -77,13 +77,13 @@ CONSIDERANDO (14): Que mediante Dictamen D=006- (C-3)-2026, la Dirección de Org
 
 CONSIDERANDO (15): Que la Dirección Legal de esta Secretaría de Estado en el Despacho de Defensa Nacional, dictaminó que es PROCEDENTE remitir a firma del señor Secretario de Estado en el Despacho de Defensa Nacional el Dictamen D=006-(C-3)-2026 relativo al acuerdo de creación del Departamento de Sistemas de Información Logística (DSIL) y que no existe impedimento legal para aprobar la creación de dicho departamento dentro de la estructura organizacional de la Dirección de Logística (C-4). Asimismo, que la implementación del referido Departamento no implica, conforme a los antecedentes analizados, la creación de nuevas plazas, vacantes o contratos, ni erogaciones adicionales inmediatas por concepto de asignación de cargo, debiendo funcionar con el personal actualmente asignado a la Dirección de Logística (C-4) y bajo la disponibilidad presupuestaria que corresponda conforme a las gestiones administrativas respectivas.
 
-CONSIDERANDO (16): Q u e l a c r e a c i ó n d e l “Departamento de Sistemas de Información Logística” (DSIL) fortalece la estructura funcional de la Dirección de Logística (C-4), al incorporar una dependencia especializada en la administración, integración y seguimiento de la información logística institucional, contribuyendo a la eficiencia, coordinación y modernización de los procesos internos de las Fuerzas Armadas.
+CONSIDERANDO (16): Que la creación del “Departamento de Sistemas de Información Logística” (DSIL) fortalece la estructura funcional de la Dirección de Logística (C-4), al incorporar una dependencia especializada en la administración, integración y seguimiento de la información logística institucional, contribuyendo a la eficiencia, coordinación y modernización de los procesos internos de las Fuerzas Armadas.
 
 POR TANTO:
 
 En aplicación a los artículos 247, 272 párrafo primero y segundo y 274 párrafo primero de la Constitución de la República; artículo 29 numeral 11), 33 párrafo primero, 36 numerales 1) y 8), 116 y 119 último párrafo de la Ley General de la Administración Pública; artículo 2, 26 numeral 1), 4) inciso a), 8), 38 numeral 10), 49, 50 numeral 3) y 4) de la Ley Constitutiva de las Fuerzas Armadas y demás aplicables al caso en mención.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO:
 

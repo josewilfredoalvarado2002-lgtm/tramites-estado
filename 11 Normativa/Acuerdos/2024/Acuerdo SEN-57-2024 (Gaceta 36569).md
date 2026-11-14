@@ -11,7 +11,7 @@ paginas: "A. 12"
 sumario: "Acuerdos Nos. SEN-114-2023,SEN-120-2023, SEN-136-2023, SEN-01-2024, SEN-03-2024, SEN-17-2024, SEN-037-2024, SEN-38-2024, SEN-51-2024, SEN-54-2024, SEN-57-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240625-36569/download"
 extraido: "2026-11-14"
-huella: "6f0b4b6dabd72e66"
+huella: "d34e9d28fc4cff68"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-57-2024
@@ -39,7 +39,7 @@ ACUERDA:
 
 PRIMERO: Delegar en la Economista I de la Dirección Nacional de Planeamiento Energético y Política Energética Sectorial de la Secretaría de Estado en el Despacho de Energía, LESVI MARIELA MONTOYA ÁLVAREZ, a partir e inclusive del veintinueve (29) de mayo de dos mil veinticuatro (2024) al catorce (14) de junio de dos mil veinticuatro (2024), las funciones y competencias que corresponden al titular de la Dirección Nacional de Planeamiento Energético y Política Energética Sectorial, en la firma de documentos oficiales, dictamenes, correspondencia, comunicados, circulares, memorandos, oficios así como la emisión y firma de opiniones técnicas en asuntos relacionados con las responsabilidades oficiales, de dicha Dirección.
 
-SEGUNDO: La vigencia de la presente delegación se realiza sin perjucio del efecto y alcance del ACUERDO No. SEN- 23-2023 de fecha quince (15) de marzo de dos mil veintitrés (2023), contentivo de delegación a favor del Doctor JORGE ALFREDO CÁRCAMO ARDÓN, como titular de la Dirección de que se hace referencia y quien por viaje oficial estará ausente.
+SEGUNDO: La vigencia de la presente delegación se realiza sin perjucio del efecto y alcance del ACUERDO No. SEN-23-2023 de fecha quince (15) de marzo de dos mil veintitrés (2023), contentivo de delegación a favor del Doctor JORGE ALFREDO CÁRCAMO ARDÓN, como titular de la Dirección de que se hace referencia y quien por viaje oficial estará ausente.
 
 TERCERO: La delegada es responsable de la delegación que se le otorga y presentará a su superior inmediato al finalizar el período de esta, un informe detallado de los actos ejecutados.
 

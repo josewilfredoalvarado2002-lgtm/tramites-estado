@@ -8,7 +8,7 @@ gaceta_numero: 36142
 gaceta_fecha: "2023-01-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)|La Gaceta 36142]]"
 paginas: "A. 4 - 6"
-sumario: "Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
+sumario: "Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230130-36142/download"
 extraido: "2026-11-14"
 huella: "d78865ee9cb9f942"
@@ -23,7 +23,7 @@ huella: "d78865ee9cb9f942"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)\|La Gaceta 36142]] del 2023-01-30 |
 | Páginas | A. 4 - 6 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
 
 ## Texto
 

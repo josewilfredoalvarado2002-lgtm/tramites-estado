@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo No. 001-SG-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240309-36481/download"
 extraido: "2026-11-14"
-huella: "773253ccb32f3b3f"
+huella: "5d231c5609443f65"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-SG-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que según la Ley General de la Administración Pública, la emisi
 
 CONSIDERANDO: Que de conformidad al Decreto Legislativo 170-2006 publicado en el Diario Oficial La Gaceta N°. 31,193 de fecha 30 de diciembre 2006, el Instituto de Acceso a la Información Pública, (IAIP) es el órgano de la Administración Pública encargada de regular y supervisar los procedimientos de las instituciones obligadas, en cuanto a la protección, clasificación y custodia de la información pública.
 
-CONSIDERANDO: Que mediante Acuerdo N°. 002- 2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la clasificación y Desclasificación de la información como Reservada por las instituciones obligadas, según la Ley de Transparencia y Acceso a la Información Pública.
+CONSIDERANDO: Que mediante Acuerdo N°. 002-2010 el Instituto de Acceso a la Información Pública, emitió los Lineamientos Generales para la clasificación y Desclasificación de la información como Reservada por las instituciones obligadas, según la Ley de Transparencia y Acceso a la Información Pública.
 
 CONSIDERANDO: Que tanto la Ley de Transparencia y Acceso a la Información Pública, como su reglamento y los Lineamientos emitido por el Instituto de Acceso a la Información Pública, establecen que las Instituciones Obligadas, por razón de su naturaleza y especialidad, podrán expedir criterios específicos de clasificación, de conformidad con lo previsto en el artículo 28 del Reglamento de la Ley de Transparencia y Acceso a la información Pública.
 

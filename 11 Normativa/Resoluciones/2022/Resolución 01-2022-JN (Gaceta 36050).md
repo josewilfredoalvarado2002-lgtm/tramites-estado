@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Resolución No. 01-2022-JN Convocatoria"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221013-36050/download"
 extraido: "2026-11-14"
-huella: "f21fc7814ed0f409"
+huella: "3748c566d69f8ce0"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 01-2022-JN
@@ -577,7 +577,7 @@ CONGRESO NACIONAL. Una vez conformado el listado definitivo, la Junta entregara�
 
 La documentación completa se presentará simultáneamente al Congreso Nacional y a la ciudadanía en general, dentro de la primera quincena del mes de enero de 2023, el listado final se publicará en el Diario Oficial “La Gaceta”, en el portal oficial de transparencia de la Junta, en tres (3) medios de comunicación social, impresa o digital y en plataformas virtuales para que sea del conocimiento público.
 
-A R T Í C U L O 4 0 . D I S O L U C I Ó N D E L A JUNTA NOMINADORA Y ARCHIVO DE LA DOCUMENTACIÓN. Entregada la nómina de candidatos, procede la disolución de la Junta, acto que será́ notificado al Congreso Nacional, las instituciones y organizaciones que fueron convocadas a su integración y presentará al público un informe final de su gestión en la que explique el proceso de selección y rendirá cuenta sobre el estado financiero del funcionamiento de la Junta Nominadora. El informe contendrá un apartado de recomendaciones y buenas prácticas adjuntando igualmente todos los documentos elaborados por la Junta nominadora 2022.
+ARTÍCULO 4 0 . DISOLUCIÓN DE LA JUNTA NOMINADORA Y ARCHIVO DE LA DOCUMENTACIÓN. Entregada la nómina de candidatos, procede la disolución de la Junta, acto que será́ notificado al Congreso Nacional, las instituciones y organizaciones que fueron convocadas a su integración y presentará al público un informe final de su gestión en la que explique el proceso de selección y rendirá cuenta sobre el estado financiero del funcionamiento de la Junta Nominadora. El informe contendrá un apartado de recomendaciones y buenas prácticas adjuntando igualmente todos los documentos elaborados por la Junta nominadora 2022.
 
 La documentación de respaldo al listado e informe circunstanciado entregado al Congreso Nacional quedará, previo inventario, bajo custodia de la organización o institución que haya tenido a cargo la Secretaría de la Junta y le será aplicable la Ley de Transparencia y Acceso a la Información Pública, así como la normativa que sobre preservación de archivos y documentos haya emitido el Instituto de Acceso a la Información Pública (IAIP).
 

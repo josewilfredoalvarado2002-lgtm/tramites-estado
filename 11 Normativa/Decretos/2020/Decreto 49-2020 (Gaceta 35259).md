@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 39 - 89"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "27c074bee352de0f"
+huella: "17a56ac545737fe5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2020
@@ -23,15 +23,15 @@ huella: "27c074bee352de0f"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 39 - 89 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.4936/ BL-HO y No.4940/BL-HO, suscrito el 23 de Abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Contrato de Préstamo No. 4936/ BL-HO y No. 4940/BL-HO, suscrito el 23 de Abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CINCUENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que es importante invertir en el desarrollo rural, así como generar oportunidades de financiamientos al sector agrícola ya que la banca tradicional debido al riesgo que representa este rubro no facilita préstamos, por ello el gobierno debe crear mecanismos que faciliten el acceso a fondos para desarrollo del sector agrícola nacional y contribuir a la reducción de la pobreza de miles de hondureños, lo cual se puede lograr mediante la facilitación de capital de trabajo para inversión y la implementación de mecanismos técnicos de desarrollo para este sector tan importante del país.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribuciones 19) y 36) de la 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.4936/BL-HO y No.4940/ BL-HO, suscrito el 23 de Abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 4936/BL-HO y No. 4940/ BL-HO, suscrito el 23 de Abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Cincuenta y Cinco Millones de Dólares de los Estados Unidos de América (US$55,000,000.00), recursos destinados a financiar la ejecución del “Proyecto Integral de Desarrollo Rural y Productividad”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 

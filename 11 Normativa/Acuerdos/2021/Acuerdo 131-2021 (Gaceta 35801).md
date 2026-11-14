@@ -11,7 +11,7 @@ paginas: "A. 17 - 26"
 sumario: "Acuerdos Ejecutivos Nos. 131-2021, 1322021, 133-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211218-35801/download"
 extraido: "2026-11-14"
-huella: "6a20f167c8e39575"
+huella: "144c9fded1e88ad6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 131-2021
@@ -43,9 +43,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-041-2021 se autoriza al
 
 CONSIDERANDO: Que el Reglamento de la Ley de Contratación del Estado, establece en su artículo 171 que los contratos a que se refiere el artículo 9 de la ley, requerirán aprobación por Acuerdo dictado por el Presidente de la República por medio de la Secretaría de Estado correspondiente.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 01 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario Coordinador General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos, que según la Ley de la Administración Pública, sea potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos;
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 01 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario Coordinador General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos, que según la Ley de la Administración Pública, sea potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios; e) Préstamos;
 
 f) Modificaciones Presupuestarias; y, g) Otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
@@ -63,9 +61,9 @@ ACUERDA:
 
 PRIMERO: Aprobar el Contrato que literalmente dice:
 
-CONTRATO DE PRESTACIÓN DE SERVICIOS DE C O N S U LT O R I A P A R A A S E S O R Í A Y ACOMPAÑAMIENTO EN LA IMPLEMENTACIÓN DEL SISTEMA INTEGRAL MIGRATORIO (SIM) Y SUMINISTRO DE LIBRETAS DE PASAPORTE ELECTRÓNICOS Y CARNET DE EXTRANJERO RESIDENTE DE LA REPÚBLICA DE HONDURAS.
+CONTRATO DE PRESTACIÓN DE SERVICIOS DE CON SU LT O R I A P A R A A S E S O R Í A Y ACOMPAÑAMIENTO EN LA IMPLEMENTACIÓN DEL SISTEMA INTEGRAL MIGRATORIO (SIM) Y SUMINISTRO DE LIBRETAS DE PASAPORTE ELECTRÓNICOS Y CARNET DE EXTRANJERO RESIDENTE DE LA REPÚBLICA DE HONDURAS.
 
-Nosotros, CARLOS EDUARDO CORDERO MONTOYA, mayor de edad, casado, hondureño y de este domicilio, con Tarjeta de Identidad No.0801-1972-04435, actuando en mi condición de Subdirector Técnico del Instituto Nacional de Migración, nombrado mediante Acuerdo No. 301-2014, de fecha 04 de septiembre del 2014, con facultades para la celebración de este Contrato, según Decretos Ejecutivos PCM- 031-2014, PCM-063-2014 y Acta de Delegación No. 003- 2021 de fecha 20 de abril de 2021, identificado como “EL CONTRATANTE” por una parte y, por otra parte, BRUNO IGOR OPAZO RUIZ, mayor de edad, Ingeniero Informático y Magister en Ingeniería Informática, de nacionalidad chilena, con Tarjeta de Identidad No. 520.501.652 y Pasaporte P19338487, con domicilio en Santiago de Chile, República de Chile, en adelante denominado “EL CONSULTOR”; y Partes que de manera conjunta se denominarán “LAS PARTES CONTRATANTES”, por medio del presente documento hemos convenido celebrar, como en efecto celebramos, el presente CONTRATO DE PRESTACIÓN DE SERVICIOS DE CONSULTORIA PARA ASESORÍA Y ACOMPAÑAMIENTO EN LA IMPLEMENTACIÓN DEL SISTEMA INTEGRAL MIGRATORIO (SIM) Y SUMINISTRO DE LIBRETAS DE PASAPORTE ELECTRÓNICOS Y CARNET DE EXTRANJERO RESIDENTE DE LA REPÚBLICA DE HONDURAS, el cual se regulará bajo las cláusulas y condiciones siguientes:
+Nosotros, CARLOS EDUARDO CORDERO MONTOYA, mayor de edad, casado, hondureño y de este domicilio, con Tarjeta de Identidad No. 0801-1972-04435, actuando en mi condición de Subdirector Técnico del Instituto Nacional de Migración, nombrado mediante Acuerdo No. 301-2014, de fecha 04 de septiembre del 2014, con facultades para la celebración de este Contrato, según Decretos Ejecutivos PCM-031-2014, PCM-063-2014 y Acta de Delegación No. 003-2021 de fecha 20 de abril de 2021, identificado como “EL CONTRATANTE” por una parte y, por otra parte, BRUNO IGOR OPAZO RUIZ, mayor de edad, Ingeniero Informático y Magister en Ingeniería Informática, de nacionalidad chilena, con Tarjeta de Identidad No. 520.501.652 y Pasaporte P19338487, con domicilio en Santiago de Chile, República de Chile, en adelante denominado “EL CONSULTOR”; y Partes que de manera conjunta se denominarán “LAS PARTES CONTRATANTES”, por medio del presente documento hemos convenido celebrar, como en efecto celebramos, el presente CONTRATO DE PRESTACIÓN DE SERVICIOS DE CONSULTORIA PARA ASESORÍA Y ACOMPAÑAMIENTO EN LA IMPLEMENTACIÓN DEL SISTEMA INTEGRAL MIGRATORIO (SIM) Y SUMINISTRO DE LIBRETAS DE PASAPORTE ELECTRÓNICOS Y CARNET DE EXTRANJERO RESIDENTE DE LA REPÚBLICA DE HONDURAS, el cual se regulará bajo las cláusulas y condiciones siguientes:
 
 CLÁUSULA PRIMERA. - ANTECEDENTES: 1) Mediante Decreto Legislativo No. 108-2007, se declaró Organismo de Seguridad Nacional a la Dirección General de Migración y Extranjería, ahora Instituto Nacional de Migración, estableciendo entre sus objetivos el de regular el ingreso y egreso de extranjeros y la emisión de los documentos de viaje de los hondureños y que su función está vinculada a la seguridad nacional; Asimismo, el Artículo 1-A del supra citado Decreto, declara de Seguridad Nacional la emisión de los documentos de viaje de los hondureños y la gestión de los flujos migratorios realizados por la autoridad competente en su caso. 2) Mediante Decreto Ejecutivo No. 009-2018, el Instituto Nacional de Migración está adscrito al Gabinete Sectorial de Seguridad y Defensa. 3) Mediante Decreto Ejecutivo PCM No. 041-2021 de fecha 12 de abril de 2021 se declaró Estado de Emergencia en el Sistema de Emisión de Pasaportes y Servicios Migratorios a nivel nacional y mundial a efecto de asegurar la continuidad, el funcionamiento y operatividad en la prestación de estos servicios garantizando los derechos a la identificación, documentación, circulación, entre otros; y se autorizó al Instituto Nacional de Migración
 
@@ -133,11 +131,11 @@ Serán causas de resolución del presente contrato: 1) Incumplimiento grave y re
 
 “El CONSULTOR” será responsable por todo costo extra en que incurra “EL CONTRATANTE” al adquirir dichos servicios. CLÁUSULA VIGÉSIMA TERCERA. – MODIFICACIONES Y/O AMPLIACIONES AL CONTRATO: El presente Contrato podrá ser modificado y/o ampliado de común acuerdo por “LAS PARTES CONTRATANTES”. La Decisión adoptada requerirá, en todo caso, de la suscripción por escrito por ambas partes a través de una Adenda, con las mismas formalidades con las que se firma el presente Contrato y formará parte integral del mismo. CLÁUSULA VIGÉSIMA CUARTA.- PROHIBICION DE ACTOS DE FRAUDE Y CORRUPCION.-EL CONSULTOR acuerda que en la ejecución o cumplimiento de sus obligaciones de acuerdo a este Contrato, ni él ni su personal, consejeros, funcionarios, representantes, asesores, subcontratistas o agentes suyos que participen en la prestación del servicio, no habrán, ni ofrecerán hacer cualquier soborno, pago incorrecto, pago de corrupción o cualquier pago indebido, a cualquier empleado o directivo de “EL CONTRATANTE”, funcionario o empleado público, con la intención de influenciar la conducta de éstos, con el objeto de obtener o mantener un negocio, obtener una ventaja impropia, o influencia cualquier acto o decisión en relación o conexión con este Contrato. CLÁUSULA VIGÉSIMA QUINTA. - PROPIEDAD DE LOS MATERIALES: Todos los materiales preparados por “EL CONSULTOR” en virtud de este contrato serán propiedad de “EL CONTRATANTE”.
 
-C L Á U S U L A V I G É S I M A S E X T A .
+CLÁUSULA VIGÉSIMA SEXTA .
 
 -
 
-C O N F I D E N C I A L I D A D : “ L A S PA R T E S
+CONFIDENCIALIDAD: “ L A S PA R T E S
 
 CONTRATANTES” mantendrán absoluta confidencialidad y secretividad sobre los documentos, datos u otra información que hubiere sido directa o indirectamente proporcionada por la otra parte en relación con el Contrato, antes, durante o después la ejecución de este. Esto incluye información impresa, oral, escrita, contenida en medios electrónicos o en programas de cómputo de “LAS PARTES CONTRATANTES”.
 

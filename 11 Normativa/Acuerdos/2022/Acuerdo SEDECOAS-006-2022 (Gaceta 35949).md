@@ -11,7 +11,7 @@ paginas: "A. 4 - 12"
 sumario: "Acuerdo de Nombramiento No. SEDECOAS-05-2022, Acuerdos Nos. SEDECOAS-006-2022,012-2022, 014-2022Acuerdos de Cancelación Nos.SEDECOAS-007-2022, 009-2022, 011-2022, Acuerdos de Delegación Nos. SEDECOAS-008-2022, 013-2022, 015-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220614-35949/download"
 extraido: "2026-11-14"
-huella: "9f6b1ac4143c7903"
+huella: "3c7c3dc375fb4f30"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEDECOAS-006-2022
@@ -39,9 +39,7 @@ CONSIDERANDO: Que es atribución del Ministro Director del FONDO HONDUREÑO DE I
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), dentro de sus atribuciones debe promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyente y equitativos, en alianza con gobiernos locales y socios estratégicos, para mejor la calidad de vida de la población más pobre y vulnerable de Honduras.
 
-CONSIDERANDO: El Manual Operativo del Programa de Emergencia en Respuesta a la Tormenta Tropical ETA tiene el propósito de servir como un instrumento complementario a las disposiciones previstas en el Contrato de Préstamo No.
-
-5328/BL-HO-, estableciendo los mecanismos de ejecución de la Operación de financiamiento del Banco Interamericano de Desarrollo (BID) al Gobierno de la República de Honduras, con el cual se da respuesta a los daños enfrentados a raíz de la Tormenta Tropical ETA.
+CONSIDERANDO: El Manual Operativo del Programa de Emergencia en Respuesta a la Tormenta Tropical ETA tiene el propósito de servir como un instrumento complementario a las disposiciones previstas en el Contrato de Préstamo No. 5328/BL-HO-, estableciendo los mecanismos de ejecución de la Operación de financiamiento del Banco Interamericano de Desarrollo (BID) al Gobierno de la República de Honduras, con el cual se da respuesta a los daños enfrentados a raíz de la Tormenta Tropical ETA.
 
 CONSIDERANDO: Que en el Manual Operativo se establecen las normas, procedimientos y obligaciones que deberá cumplir el Fondo Hondureño de Inversión Social, adscrito a la Secretaría de Estado en los Despachos de Desarrollo Comunitario, Agua y Saneamiento, Fondo Hondureño de Inversión Social (SEDECOAS/FHIS) como organismo Ejecutor del Programa y el INSEP Y SGRCN, como instituciones Co-Ejecutoras.
 
@@ -59,7 +57,7 @@ CONSIDERANDO: Que el Manual Operativo del Programa estará vigente durante toda 
 
 El Organismo Ejecutor podrá sugerir modificaciones a este Manual, ajustadas a las disposiciones del Contrato de Préstamo, para adaptarlo a nuevas circunstancias o condiciones que pudieran presentarse durante la ejecución del Programa, como un medio de asegurar el logro de los objetivos de éste. Las modificaciones entrarán en vigor cuando el Banco comunique su No Objeción.
 
-POR TANTO: En el ejercicio de las atribuciones que la ley le confiere y en aplicación de los artículos 321, 323, de la Constitución de la República; artículos 1, 4, 14 de la ley del Fondo Hondureño de Inversión Social FHIS, artículos 1, 5, 6, 116, 118 y 122 de la Ley General de la Administración Pública, artículos 1 y 2 del Decreto Ejecutivo número PCM- 056-2019, de fecha 11 de septiembre del 2019, públicado en el Diario Oficial La Gaceta, número 35,047, de fecha 12 de septiembre del 2019.
+POR TANTO: En el ejercicio de las atribuciones que la ley le confiere y en aplicación de los artículos 321, 323, de la Constitución de la República; artículos 1, 4, 14 de la ley del Fondo Hondureño de Inversión Social FHIS, artículos 1, 5, 6, 116, 118 y 122 de la Ley General de la Administración Pública, artículos 1 y 2 del Decreto Ejecutivo número PCM-056-2019, de fecha 11 de septiembre del 2019, públicado en el Diario Oficial La Gaceta, número 35,047, de fecha 12 de septiembre del 2019.
 
 ACUERDA:
 
@@ -123,9 +121,7 @@ CONSIDERANDO: Que de conformidad al artículo 36 numeral 8 de la Ley General de 
 
 CONSIDERANDO: Que la Secretaría de Estado en los Despachos de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), dentro de sus atribuciones debe promover el desarrollo comunitario por medio de la coordinación, diseño y ejecución de programas y proyectos participativos, incluyente y equitativos, en alianza con gobiernos locales y socios estratégicos, para mejor la calidad de vida de la población más pobre y vulnerable de Honduras.
 
-CONSIDERANDO: Que mediante memorándum No.
-
-120-2022-SE-SEDECOAS-FHIS de fecha veintiséis (26) de enero del dos mil veintidós (2022), se solicita la emisión del Resolución Ejecutiva para la formalización del Manual PEC, versión actualizada septiembre 2021.
+CONSIDERANDO: Que mediante memorándum No. 120-2022-SE-SEDECOAS-FHIS de fecha veintiséis (26) de enero del dos mil veintidós (2022), se solicita la emisión del Resolución Ejecutiva para la formalización del Manual PEC, versión actualizada septiembre 2021.
 
 CONSIDERANDO: Que el Manual de Proyectos Ejecutados por la Comunidad (PEC) será ejecutado a través del Programa Mejora de la Infraestructura Escolar (PROMINE), serán cofinanciados por el Gobierno de la República Federal de Alemania, a través del Banco Alemán de Desarrollo (KFW), los proyectos serán evaluados individualmente para verificar que cumplan los criterios de elegibilidad, teniendo como propósito presentar los términos, condiciones, esquema institucional y procedimientos.
 
@@ -147,7 +143,7 @@ ACUERDO EJECUTIVO PARA LA FORMALIZACIÓN DEL MANUAL DE PROYECTOS EJECUTADOS POR 
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado, entre otros: “Emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que delegue el Presidente de la República” y además ejercer la representación legal de la Institución por delegación expresa del Presidente de la República y dirigir su funcionamiento, lo que permite crear los mecanismos que respondan a la con­ secución de sus fines.
 
-POR TANTO: En el ejercicio de las atribuciones que la ley le confiere y en aplicación de los artículos 321, 323, de la Constitución de la República; artículos 1, 4, 14 de la Ley del Fondo Hondureño de Inversión Social FHIS, artículos 1, 5, 6, 116, 118 y 122 de la Ley General de la Administración Pública, artículos 1 y 2 del Decreto Ejecutivo número PCM- 056-2019, de fecha 11 de septiembre del 2019, públicado en el Diario Oficial La Gaceta, número 35,047, de fecha 12 de septiembre del 2019.
+POR TANTO: En el ejercicio de las atribuciones que la ley le confiere y en aplicación de los artículos 321, 323, de la Constitución de la República; artículos 1, 4, 14 de la Ley del Fondo Hondureño de Inversión Social FHIS, artículos 1, 5, 6, 116, 118 y 122 de la Ley General de la Administración Pública, artículos 1 y 2 del Decreto Ejecutivo número PCM-056-2019, de fecha 11 de septiembre del 2019, públicado en el Diario Oficial La Gaceta, número 35,047, de fecha 12 de septiembre del 2019.
 
 ACUERDA:
 

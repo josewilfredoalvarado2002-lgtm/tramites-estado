@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos C.D. SENASA 001-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230725-36291/download"
 extraido: "2026-11-14"
-huella: "7a91f7f48d9423e8"
+huella: "e3d490fd721fa5d0"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.D. SENASA 001-2023
@@ -39,9 +39,7 @@ CONSIDERANDO: Que corresponde al SENASA planificar y ejecutar acciones para ejer
 
 CONSIDERANDO: Que el país debe adecuar la aplicación de la legislación fitosanitaria y zoosanitaria a los acuerdos regionales e internacionales firmados entre los Gobiernos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), estando a Nivel de la Dirección General, las Direcciones Técnicas de Salud Animal, Sanidad Vegetal y Cuarentena Agropecuaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), estando a Nivel de la Dirección General, las Direcciones Técnicas de Salud Animal, Sanidad Vegetal y Cuarentena Agropecuaria.
 
 CONSIDERANDO: Que es necesario actualizar el Reglamento de Cuarentena Agropecuaria en base a las normas nacionales, regionales e internacionales vigentes.
 
@@ -457,7 +455,7 @@ TÍTULO OCTAVO DISPOSICIONES FINALES
 
 #### Artículo 73
 
-ARTÍCULO 73. Este reglamento deroga, , el Acuerdo 250- 14 Reforma el capítulo 8.6 del Manual de Procedimientos Fitocuarentenarios en Fronteras, aprobado en el mes de julio del año 2000, el Acuerdo 29-2019 Reforma el capítulo 8.4.3 del Manual de Procedimientos Fitocuarentenarios en Fronteras, aprobado en el mes de julio del año 2000 y el Acuerdo 1.618-97, Reglamento de Cuarentena Agropecuaria.
+ARTÍCULO 73. Este reglamento deroga, , el Acuerdo 250-14 Reforma el capítulo 8.6 del Manual de Procedimientos Fitocuarentenarios en Fronteras, aprobado en el mes de julio del año 2000, el Acuerdo 29-2019 Reforma el capítulo 8.4.3 del Manual de Procedimientos Fitocuarentenarios en Fronteras, aprobado en el mes de julio del año 2000 y el Acuerdo 1.618-97, Reglamento de Cuarentena Agropecuaria.
 
 #### Artículo 74
 

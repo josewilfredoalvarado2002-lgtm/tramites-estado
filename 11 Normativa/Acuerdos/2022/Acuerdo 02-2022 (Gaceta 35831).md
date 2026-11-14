@@ -11,7 +11,7 @@ paginas: "A. 29 - 41"
 sumario: "Acuerdos Nos. 01/2022, 02/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220125-35831/download"
 extraido: "2026-11-14"
-huella: "2f1beb0b95e49903"
+huella: "7b5284b62932aded"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.02/2022.- Sesión No.3951 del 13 de enero
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 38 de la Ley del BCH, con el p
 
 CONSIDERANDO: Que, con base en el precepto precitado, compete al BCH emitir la normativa de carácter general que determinará las condiciones, límites de endeudamiento, calidad y forma de documentación y los términos bajo los cuales se aprobará y otorgará la facilidad crediticia.
 
-CONSIDERANDO: Que mediante Resolución No.34- 2/2005 del 3 de febrero de 2005, el Directorio del BCH aprobó el Reglamento de Créditos de Última Instancia para Atender Insuficiencias Temporales de Liquidez.
+CONSIDERANDO: Que mediante Resolución No. 34-2/2005 del 3 de febrero de 2005, el Directorio del BCH aprobó el Reglamento de Créditos de Última Instancia para Atender Insuficiencias Temporales de Liquidez.
 
 CONSIDERANDO: Que de conformidad con el comportamiento de las principales variables de la economía internacional y doméstica, es necesario contar con mecanismos de liquidez que le permita al sistema financiero solventar causales imprevistas de iliquidez y, por lo tanto, se debe actualizar el reglamento que regula los créditos otorgados por el BCH como prestamista de última instancia.
 
@@ -47,7 +47,7 @@ Con fundamento en los artículos 342 de la Constitución de la República; 6, 16
 
 e) y 38 de la Ley del Banco Central de Honduras,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -325,7 +325,7 @@ CAPÍTULO V DISPOSICIONES FINALES
 
 #### Artículo 24
 
-Artículo 24.- DEROGATORIA Derogar el Reglamento de Créditos de Última Instancia para Atender Insuficiencias Temporales de Liquidez contenido en Resolución No.34-2/2005, emitida por el Directorio del BCH el 3 de febrero de 2005.
+Artículo 24.- DEROGATORIA Derogar el Reglamento de Créditos de Última Instancia para Atender Insuficiencias Temporales de Liquidez contenido en Resolución No. 34-2/2005, emitida por el Directorio del BCH el 3 de febrero de 2005.
 
 #### Artículo 25
 

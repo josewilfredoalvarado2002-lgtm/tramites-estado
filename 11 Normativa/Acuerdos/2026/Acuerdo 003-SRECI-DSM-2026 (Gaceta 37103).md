@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ejecutivo No. 003-SRECI-DSM-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260325-37103/download"
 extraido: "2026-11-09"
-huella: "683ad16c963ad011"
+huella: "25112f80e4d75982"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 003-SRECI-DSM-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Servicio Diplomático y Consular es una función pública p
 
 CONSIDERANDO: Que en fecha 09.01.2025, la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional por avocación emitió las Resoluciones 01-SRECI-ED-2025, 02-SRECI-ED-2025, y 03-SRECI-ED-2025, las cuales fueron publicadas en el Diario Oficial "La Gaceta" en fecha 14.06.2025.
 
-CONSIDERANDO: Que después de haber examinado los antecedentes y procedimientos llevados a efecto para la emisión de las Resoluciones supra mencionadas y después de haber escuchado la opinión de la Procuraduría General de la República, la SRECI determinó, mediante Acuerdo Ejecutivo No. 001-SRECI-DSM- 2026, de fecha 11.03.2026, anular las resoluciones ut supra, por considerar que las mismas fueron dictadas prescindiendo total y absolutamente del procedimiento legalmente establecido en la Ley del Servicio Diplomático y Consular (LSDCH) y sus normas supletorias o análogas.
+CONSIDERANDO: Que después de haber examinado los antecedentes y procedimientos llevados a efecto para la emisión de las Resoluciones supra mencionadas y después de haber escuchado la opinión de la Procuraduría General de la República, la SRECI determinó, mediante Acuerdo Ejecutivo No. 001-SRECI-DSM-2026, de fecha 11.03.2026, anular las resoluciones ut supra, por considerar que las mismas fueron dictadas prescindiendo total y absolutamente del procedimiento legalmente establecido en la Ley del Servicio Diplomático y Consular (LSDCH) y sus normas supletorias o análogas.
 
 CONSIDERANDO: Que el Estado, en todos sus ámbitos y jurisdicciones, debe prever que los cargos del sector público sujetos a un régimen de carrera, sean otorgados a personas idóneas, previo «concurso abierto de oposición y antecedentes», siendo éste, el único procedimiento que garantiza a la ciudadanía en general su participación y la igualdad de oportunidades para el acceso a la función pública.
 
@@ -47,7 +47,7 @@ En el uso de las facultades de que está investido y en aplicación a lo estable
 
 ACUERDA:
 
-PRIMERO: Ratificar el Acuerdo Ejecutivo No. 001-SRECIDSM- 2026 de fecha once de marzo de dos mil veintiséis emitido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional.
+PRIMERO: Ratificar el Acuerdo Ejecutivo No. 001-SRECIDSM-2026 de fecha once de marzo de dos mil veintiséis emitido por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional.
 
 SEGUNDO: Instrúyase a la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, para que, dentro del presente ejercicio fiscal, proceda a emitir los reglamentos correspondientes para efectuar las convocatorias de ingreso y ascenso al Escalafón Diplomático y Consular de conformidad a la ley.
 

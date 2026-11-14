@@ -11,7 +11,7 @@ paginas: "A. 12 - 13"
 sumario: "Decretos Nos. 68-2020, 6-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200611-35280/download"
 extraido: "2026-11-14"
-huella: "b8c8f934078cc4bb"
+huella: "c182b9306f2be0a0"
 ---
 <!-- portal:inicio -->
 # DECRETO NÚMERO 6-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 35) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200208-35170/download"
 extraido: "2026-11-14"
-huella: "148deeb4baf8fd76"
+huella: "a39eaf72e90184b3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -31,7 +31,7 @@ El infrascrito, Secretario General de la Secretaría de Estado de Gobernación, 
 
 La Resolución que literalmente dice: “RESOLUCIÓN No. 1550-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, catorce de agosto del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ- 25062019-490, por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS VENTANAS, MUNICIPIO DE LAS FLORES, DEPARTAMENTO DE LEMPIRA, con domicilio en la comunidad de Las Ventanas, municipio de Las Flores, departamento de Lempira; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-25062019-490, por el Abogado EDWIN NATANAHEL SANCHEZ NAVAS, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE LAS VENTANAS, MUNICIPIO DE LAS FLORES, DEPARTAMENTO DE LEMPIRA, con domicilio en la comunidad de Las Ventanas, municipio de Las Flores, departamento de Lempira; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

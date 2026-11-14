@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200829-35357/download"
 extraido: "2026-11-14"
-huella: "13ed6b8aa8d1886a"
+huella: "0403673898058ac2"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-084-2020
@@ -73,7 +73,7 @@ ARTÍCULO 2.- La mencionada Sociedad Anónima, tendrá las siguientes caracterí
 
 a) Denominación: La sociedad se girará bajo la denominación de EMPRESA HONDUREÑA DE INFRAESTRUCTURA Y SERVICIOS AEROPORTUARIOS, S.A. (EHISA);
 
-b) Capital: La sociedad se constituirá con un capital fijo de CIENTO CINCUENTA MILLONES DE LEMPIRAS (L. 150,000,000.00), por lo que se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar la asignación presupuestaria a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), con financiamiento proveniente de los recursos autorizados por Decreto Legislativo 33- 2020. Una vez que la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) presente la Programación de la Ejecución del Presupuesto ante la Secretaría de Estado en el Despacho de Finanzas se procedara con la asignación presupuestaria;
+b) Capital: La sociedad se constituirá con un capital fijo de CIENTO CINCUENTA MILLONES DE LEMPIRAS (L. 150,000,000.00), por lo que se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar la asignación presupuestaria a la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP), con financiamiento proveniente de los recursos autorizados por Decreto Legislativo 33-2020. Una vez que la Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP) presente la Programación de la Ejecución del Presupuesto ante la Secretaría de Estado en el Despacho de Finanzas se procedara con la asignación presupuestaria;
 
 c) Domicilio: El domicilio social será la ciudad de Tegucigalpa, Municipio del Distrito Central, sin perjuicio de que pueda constituir oficinas o sucursales en cualquier lugar dentro de la República de Honduras;
 

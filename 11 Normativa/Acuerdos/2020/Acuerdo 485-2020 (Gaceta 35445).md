@@ -11,7 +11,7 @@ paginas: "A. 18 - 20"
 sumario: "Acuerdos No.460-2020, 461-2020, Acuerdo Ministerial No. 485-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201130-35445/download"
 extraido: "2026-11-14"
-huella: "d1731347e94df5f6"
+huella: "51f6bca0febd6f53"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 485-2020
@@ -29,19 +29,19 @@ huella: "d1731347e94df5f6"
 
 SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que en el Decreto Legislativo 149- 2013 estable la Ley Sobre Firmas Electrónicas, el cual tiene por objeto reconocer y regular el uso de firmas electrónicas aplicable a todo de tipo información en forma de mensaje de datos, otorgándoles, la misma validez y eficacia jurídica que el uso de una firma manuscrita u otra análoga, que conlleve manifestación de voluntad de las partes.
+CONSIDERANDO: Que en el Decreto Legislativo 149-2013 estable la Ley Sobre Firmas Electrónicas, el cual tiene por objeto reconocer y regular el uso de firmas electrónicas aplicable a todo de tipo información en forma de mensaje de datos, otorgándoles, la misma validez y eficacia jurídica que el uso de una firma manuscrita u otra análoga, que conlleve manifestación de voluntad de las partes.
 
-CONSIDERANDO: Que en la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013), fomenta la Utilización de la Firma Electrónica por el Estado tal como lo establece el Artículo 5.-“Se autoriza a los Poderes Legislativo, Ejecutivo y Judicial, al Tribunal Superior de Cuentas, así como a todas las instituciones públicas descentralizadas y entes públicos no estatales y cualquier dependencia del sector público (subrayado es propio), para la utilización de las firmas electrónicas en los documentos electrónicos en sus relaciones internas, entre ellos y con los particulares”.
+CONSIDERANDO: Que en la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), fomenta la Utilización de la Firma Electrónica por el Estado tal como lo establece el Artículo 5.-“Se autoriza a los Poderes Legislativo, Ejecutivo y Judicial, al Tribunal Superior de Cuentas, así como a todas las instituciones públicas descentralizadas y entes públicos no estatales y cualquier dependencia del sector público (subrayado es propio), para la utilización de las firmas electrónicas en los documentos electrónicos en sus relaciones internas, entre ellos y con los particulares”.
 
 CONSIDERANDO: Que el Decreto Legislativo 033-2020 publicado en La Gaceta el 03 de en el Artículo abril del 2020, No. 35,127 en la Sección Octava artículo 38 establece que con el fin de permitir la continuidad del Estado y de las entidades privadas que prestan servicios esenciales para la sostenibilidad de la economía nacional sin causar niveles de exposición innecesarios entre las personas, deben tomarse las siguientes medidas:
 
-A) Reformar los artículos 7 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013), los cuales se deberán leer así:
+A) Reformar los artículos 7 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), los cuales se deberán leer así:
 
 “ARTÍCULO 7.- REQUERIMIENTO DE FIRMA
 
 ELECTRÓNICA AVANZADA. La firma electrónica avanzada será siempre de aplicación general, probando la existencia de obligaciones, dando acceso a la inscripción de estos documentos en los registros públicos. No obstante, con el objeto de promover la transformación digital, la administración podrá otorgar la equivalencia de efectos a la firma electrónica avanzada para ciertos casos a otros tipos de firma o medios de identificación de las personas, entre otros: 1) Híbrido de tecnologías basado en la Infraestructura de Llave Pública (PKI) y Firma Biométrica o cualquier otra tecnología equivalente o substitutiva; 2) Sistemas de firma electrónica en la nube; 3) Sistemas de doble factor; 4) Sistemas biométricos incluyendo medios fotográficos; 5) Otros que puedan ir desarrollándose según el avance de las tecnologías.
 
-CONSIDERANDO: Que el Decreto Legislativo 033- 2020 publicado en La Gaceta el 03 de en el Artículo abril del 2020, No. 35,127 en la Sección Octava artículo 38 reforma el ARTÍCULO 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149-2013), los cuales se deberán leer así:
+CONSIDERANDO: Que el Decreto Legislativo 033-2020 publicado en La Gaceta el 03 de en el Artículo abril del 2020, No. 35,127 en la Sección Octava artículo 38 reforma el ARTÍCULO 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), los cuales se deberán leer así:
 
 RECONOCIMIENTO DE IDENTIDADES, FIRMAS ELECTRÓNICAS Y CERTIFICADOS EXTRANJEROS.
 

@@ -11,7 +11,7 @@ paginas: "A. 25 - 28"
 sumario: "Decretos Legislativos Nos. 89-2020, 92-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200727-35326/download"
 extraido: "2026-11-14"
-huella: "4575a09f3c8fc424"
+huella: "b5ff74027a92e702"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 92-2020
@@ -31,15 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad con el Artículo 245 Atribución 9) de la Constitución de la República, el Presidente de la República tiene dentro de sus atribuciones “Participar en la formación de las leyes presentando proyectos al Congreso Nacional por medio de los Secretarios de Estado”.
 
-CONSIDERANDO: Que la situación que se ha presentado en el mundo y ya con la confirmación de casos de coronavirus en Honduras, el Gobierno mediante Decreto Ejecutivo No.
-
-PCM-005-2020 declaró Estado de Emergencia Sanitaria, en todo el territorio nacional; dicha emergencia sanitaria tiene como propósito fortalecer las acciones de prevención, control y mitigación de los efectos del COVID-19, así como garantizar la atención de salud a las personas que están padeciéndolo.
+CONSIDERANDO: Que la situación que se ha presentado en el mundo y ya con la confirmación de casos de coronavirus en Honduras, el Gobierno mediante Decreto Ejecutivo No. PCM-005-2020 declaró Estado de Emergencia Sanitaria, en todo el territorio nacional; dicha emergencia sanitaria tiene como propósito fortalecer las acciones de prevención, control y mitigación de los efectos del COVID-19, así como garantizar la atención de salud a las personas que están padeciéndolo.
 
 CONSIDERANDO: Que la pandemia ocasionada por el COVID-19 ha venido a afectar de manera significativa la economía mundial y de forma particular la economía nacional, por lo que se hace necesario emitir medidas extraordinarias, a efecto de disminuir el impacto ocasionado por la pandemia.
 
 CONSIDERANDO: Que es obligatorio para el Estado mantener el equilibrio presupuestario y dada la emergencia nacional del COVID-19, efecto que ha conllevado a una baja actividad productiva de los diferentes sectores económicos y productivos del país, situación que tiene como resultado una caída en la captación de los ingresos del Estado y a su vez se tienen requerimientos de recursos presupuestarios y financieros para atender de manera prioritaria los gastos vinculados con la emergencia nacional del COVID-19 y Dengue, para garantizar el bienestar de la población hondureña, haciéndose necesario e ineludible la aplicación de medidas extraordinarias.
 
-CONSIDERANDO: Que mediante Decreto No. 171- 2019, publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, se dispuso en sus artículos 21 y 22 que el otorgamiento de las Transferencias a favor de las instituciones del Sector Público y del Sector Privado que sean financiadas con recursos del Tesoro Nacional, quedan sujetas al valor recaudado en el presente Ejercicio Fiscal, independientemente del valor aprobado, mediando notificación de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a cada institución de los valores que no se le otorgarán.
+CONSIDERANDO: Que mediante Decreto No. 171-2019, publicado en el Diario Oficial “La Gaceta” el 31 de Diciembre de 2019, contentivo del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020, se dispuso en sus artículos 21 y 22 que el otorgamiento de las Transferencias a favor de las instituciones del Sector Público y del Sector Privado que sean financiadas con recursos del Tesoro Nacional, quedan sujetas al valor recaudado en el presente Ejercicio Fiscal, independientemente del valor aprobado, mediando notificación de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a cada institución de los valores que no se le otorgarán.
 
 CONSIDERANDO: Que la Ley Orgánica del Presupuesto dispone en su Artículo 39 que en los casos en que la situación económica y financiera del país lo requiera, cuando la estimación de la percepción de los ingresos sea menor a los gastos a pagar con tales ingresos o en caso de emergencia, se podrá ordenar el recorte de las asignaciones presupuestarias en los presupuestos aprobados a los diferentes órganos u organismos de la administración pública y cuando tenga que ver con las asignaciones del Poder Legislativo y del Poder Judicial, así como de los órganos constitucionales sin adscripción específica como el Ministerio Público (MP), Tribunal Supremo Electoral (TSE), Tribunal Superior de Cuentas (TSC), la Procuraduría General de la República
 
@@ -49,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -65,7 +63,7 @@ Las disposiciones de la presente Ley son de estricto cumplimiento para las Insti
 
 #### Artículo 2
 
-ARTÍCULO 2.- Dados los efectos derivados de la pandemia del COVID-19, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que del monto autorizado en el Artículo 8 del Decreto No.33- 2020 de fecha 2 de Abril del año 2020 y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, Edición No.35,217, pueda destinar recursos para el financiamiento del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 y 2021, así como otros requerimientos ineludibles que fueran necesarios para cubrir el déficit fiscal.
+ARTÍCULO 2.- Dados los efectos derivados de la pandemia del COVID-19, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que del monto autorizado en el Artículo 8 del Decreto No. 33-2020 de fecha 2 de Abril del año 2020 y publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, Edición No. 35,217, pueda destinar recursos para el financiamiento del Presupuesto General de Ingresos y Egresos de la República del Ejercicio Fiscal 2020 y 2021, así como otros requerimientos ineludibles que fueran necesarios para cubrir el déficit fiscal.
 
 #### Artículo 3
 

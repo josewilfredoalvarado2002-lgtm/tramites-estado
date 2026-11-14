@@ -11,7 +11,7 @@ paginas: "A. 7 - 11"
 sumario: "Acuerdos Ejecutivos Nos. 007-2023, 008-2023, 009-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240126-36444/download"
 extraido: "2026-11-14"
-huella: "91a3ed2a3d75635d"
+huella: "ad63a07428a93155"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 008-2023
@@ -29,7 +29,7 @@ huella: "91a3ed2a3d75635d"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que la Presidenta de la República t i e n e a s u c a r g o s u p r e m a dirección y coordinación de la Administración Pública Centralizada y Descentralizada, la Administración General del Estado y por ende, dirigir la política económica y financiera del mismo, pudiendo actuar por sí o en Consejo de Ministros.
+CONSIDERANDO: Que la Presidenta de la República tiene a su cargo suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, la Administración General del Estado y por ende, dirigir la política económica y financiera del mismo, pudiendo actuar por sí o en Consejo de Ministros.
 
 CONSIDERANDO: Que el Artículo 7 numeral 17) de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras dispone: “FUNCIONES DEL SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD.
 

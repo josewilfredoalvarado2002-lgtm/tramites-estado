@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 2461-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230722-36288/download"
 extraido: "2026-11-14"
-huella: "55b28f867f980ba9"
+huella: "e155bfd535b4eb93"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2461-2021
@@ -29,7 +29,7 @@ huella: "55b28f867f980ba9"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 2461-2021 SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, dos de diciembre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de noviembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 25112021-850, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA SUYAPA, SECTOR CERRO LA BANDERA DEL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, con domicilio en la Colonia Nueva Suyapa, Sector Cerro la Bandera, municipio del Distrito Central, departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de noviembre del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-25112021-850, por la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA SUYAPA, SECTOR CERRO LA BANDERA DEL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, con domicilio en la Colonia Nueva Suyapa, Sector Cerro la Bandera, municipio del Distrito Central, departamento de Francisco Morazán; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO, en fecha veinticinco de noviembre del año dos mil veintiuno, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA NUEVA SUYAPA, SECTOR CERRO LA BANDERA DEL MUNICIPIO DEL DISTRITO CENTRAL, DEPARTAMENTO DE FRANCISCO MORAZÁN, con domicilio en la Colonia Nueva Suyapa, Sector Cerro la Bandera, municipio del Distrito Central, departamento de Francisco Morazán, a solicitar la Personalidad Jurídica a favor de su representada.
 
@@ -131,7 +131,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 12
 
-ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y Saneamiento, estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género ; y estará en funciones por un período de dos años y podrá ser nombrada por un período más en forma consecutiva, ejercerán los cargos ad-honores, para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a);
+ARTÍCULO 12.- Después de la Asamblea de usuarios la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora de Agua y Saneamiento, estará integrada por hombres y mujeres mayores de diez y ocho años electos por el voto mayoritario de la asamblea de usuarios o por los presente en la reunión después de una espera de media hora para que se presenten los usuarios; deberá considerar la equidad de género; y estará en funciones por un período de dos años y podrá ser nombrada por un período más en forma consecutiva, ejercerán los cargos ad-honores, para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 13 del Reglamento de Juntas de Agua y Saneamiento de la Ley Marco del Sector de Agua Potable y Saneamiento, estará conformado por siete (7) miembros cinco propietarios y dos vocales: 1.- Un Presidente(a).- 2.- Un Vicepresidente(a);
 
 3.- Secretario(a) .- 4.- Un Tesorero(a).- 5.- Un Fiscal.- 6.- Un Vocal Primero; y 7.- Un vocal segundo.
 

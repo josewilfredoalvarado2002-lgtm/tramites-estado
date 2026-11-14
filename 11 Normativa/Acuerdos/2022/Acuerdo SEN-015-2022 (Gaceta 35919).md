@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. SEN-015-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220510-35919/download"
 extraido: "2026-11-14"
-huella: "ecc7f8e1412408bf"
+huella: "0e0c783b14f6e9ae"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-015-2022
@@ -29,27 +29,21 @@ huella: "ecc7f8e1412408bf"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-100-2021, publicado en el Diario Oficial La Gaceta en fecha 08 de octubre del año 2021, se reformó el Artículo 10 del Decreto Ejecutivo PCM-02-2007 publicado en el Diario Oficial La Gaceta en fecha 20 de enero de 2021, donde establece lo siguiente: “El Gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del Sistema de Precios de Paridad de Importación, cuando lo considere oportuno o conveniente, asimismo la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país”.
 
-PCM-100-2021, publicado en el Diario Oficial La Gaceta en fecha 08 de octubre del año 2021, se reformó el Artículo 10 del Decreto Ejecutivo PCM-02-2007 publicado en el Diario Oficial La Gaceta en fecha 20 de enero de 2021, donde establece lo siguiente: “El Gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del Sistema de Precios de Paridad de Importación, cuando lo considere oportuno o conveniente, asimismo la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país”.
-
-CONSIDERANDO: Que mediante Acuerdo SEN-010- 2022 publicado en el Diario Oficial La Gaceta en fecha 09 de febrero del 2022, se Amplía y Actualiza la cobertura de las distancias en el Sistema de Precios de Paridad de Importación que se utiliza para el cálculo de la Tarifa del Flete Terrestre de la Terminal de Carga a la Estación de Servicio.
+CONSIDERANDO: Que mediante Acuerdo SEN-010-2022 publicado en el Diario Oficial La Gaceta en fecha 09 de febrero del 2022, se Amplía y Actualiza la cobertura de las distancias en el Sistema de Precios de Paridad de Importación que se utiliza para el cálculo de la Tarifa del Flete Terrestre de la Terminal de Carga a la Estación de Servicio.
 
 CONSIDERANDO: Que es necesario para la efectividad del acuerdo mencionado en el párrafo anterior, anexar La “TARIFA DE FLETE TERRESTRE A LAS PRINCIPALES CIUDADES DE HONDURAS”.
 
 POR TANTO, En uso de las facultades legales y en aplicación del
 
-Artículo 247, 248, 255, 321 y 323 y demás aplicables de la Constitución de la República; 7, 28, 33, 36 numeral 1, 5, 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo No.
-
-266-2013; Artículo 8 del Decreto No.94 de fecha 28 de abril de 1983 publicado en el Diario Oficial La Gaceta el 18 de mayo de 1983; Decreto Ejecutivo Número PCM-02-2007 publicado en el Diario Oficial La Gaceta el 20 de enero de 2007; Decreto Ejecutivo No. PCM-048-2017 publicado en el Diario Oficial La Gaceta el 07 de agosto de 2017; Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta el 31 de diciembre de 2020; Decreto Ejecutivo No.
-
-PCM-100-2021 publicado en el Diario Oficial La Gaceta en fecha 08 de octubre del año 2021; mediante Acuerdo SEN- 010-2022 publicado en el Diario Oficial La Gaceta en fecha 09 de febrero de 2022; y demás aplicables.
+Artículo 247, 248, 255, 321 y 323 y demás aplicables de la Constitución de la República; 7, 28, 33, 36 numeral 1, 5, 8, 116, 118, 119 y 122 de la Ley General de la Administración Pública y su reforma mediante el Decreto Legislativo No. 266-2013; Artículo 8 del Decreto No. 94 de fecha 28 de abril de 1983 publicado en el Diario Oficial La Gaceta el 18 de mayo de 1983; Decreto Ejecutivo Número PCM-02-2007 publicado en el Diario Oficial La Gaceta el 20 de enero de 2007; Decreto Ejecutivo No. PCM-048-2017 publicado en el Diario Oficial La Gaceta el 07 de agosto de 2017; Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta el 31 de diciembre de 2020; Decreto Ejecutivo No. PCM-100-2021 publicado en el Diario Oficial La Gaceta en fecha 08 de octubre del año 2021; mediante Acuerdo SEN-010-2022 publicado en el Diario Oficial La Gaceta en fecha 09 de febrero de 2022; y demás aplicables.
 
 ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Reformar por adición el Acuerdo SEN- 010-2022 en los artículos 1 y 2 mismos que deberán leerse de la forma siguiente:
+ARTÍCULO 1. Reformar por adición el Acuerdo SEN-010-2022 en los artículos 1 y 2 mismos que deberán leerse de la forma siguiente:
 
 “ARTÍCULO
 

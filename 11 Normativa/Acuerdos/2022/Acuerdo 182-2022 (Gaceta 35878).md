@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Ejecutivos Nos. 003-2022, 010-SEP-2022, 182-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220321-35878/download"
 extraido: "2026-11-14"
-huella: "698353470b771f4d"
+huella: "3cd85dfaba83a3f4"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 182-2022
@@ -39,7 +39,7 @@ CONSIDERANDO: Que según la Ley de Servicio Civil y su Reglamento, es potestad d
 
 POR TANTO;
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Nombrar a la ciudadana ROCIO LIBETH ZAVALA ALMENDARES, a partir del 10 de marzo del presente año, en la Estructura Presupuestaria siguiente:
 

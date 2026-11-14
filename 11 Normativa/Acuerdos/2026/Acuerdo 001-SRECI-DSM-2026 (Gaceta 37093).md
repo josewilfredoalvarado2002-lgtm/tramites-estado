@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Acuerdos Ejecutivos Nos. 001-SRECI-DSM-2026,002-SRECI-DSM-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260313-37093/download"
 extraido: "2026-11-09"
-huella: "7e6ad4c6febca5c2"
+huella: "071e7e16ebee57da"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 001-SRECI-DSM-2026
@@ -125,9 +125,7 @@ Que en adición a los fundamentos jurídicos supra mencionados, la Ley de Reacti
 
 CONSIDERANDO:
 
-Que mediante Oficio No.
-
-084-D-PGR-2026 de fecha 16.02.2026, la Procuraduría General de la República dictaminó que la SRECI en apego a las competencias correspondientes, puede declarar la nulidad de dichas resoluciones, después de haber verificado el incumplimiento de los procesos y requisitos establecidos en la legislación aplicable.
+Que mediante Oficio No. 084-D-PGR-2026 de fecha 16.02.2026, la Procuraduría General de la República dictaminó que la SRECI en apego a las competencias correspondientes, puede declarar la nulidad de dichas resoluciones, después de haber verificado el incumplimiento de los procesos y requisitos establecidos en la legislación aplicable.
 
 POR TANTO:
 

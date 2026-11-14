@@ -11,7 +11,7 @@ paginas: "A. 20 - 21"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "4863e0250651fe5b"
+huella: "31b22176b1d7fbd4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-540-2022
@@ -31,7 +31,7 @@ LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL
 
 CONSIDERANDO: Que mediante expediente Disciplinario consignado al servidor público Elmer Saady Barrientos Ramos bajo el # 16-2022 y para efectos de garantizar el debido proceso, se procedió a llamar a audiencia de descargo entregándole notificación de citación con indicación de los hechos a él imputados con el objeto de escuchar sus descargos.
 
-CONSIDERANDO: Que la Unidad de Servicios Legales de esta Secretaría de Estado, emitió el Dictamen Legal USL- 584-2022 en el cual es del criterio que el Servidor Público Elmer Saady Barrientos Ramos en el cargo nominal de Sub Gerente de Recursos Materiales y Servicios Generales, ha realizado acciones que acreditan el incumplimiento de obligaciones relativas al cargo o a funciones de trabajo, cometiendo faltas constitutivas de despido, además es del criterio que se le aplique al Servidos Público Elmer Saady Barrientos Ramos el despido de su cargo nominal como Sub Gerente de Recursos Materiales y Servicios Generales sin responsabilidad para la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social.
+CONSIDERANDO: Que la Unidad de Servicios Legales de esta Secretaría de Estado, emitió el Dictamen Legal USL-584-2022 en el cual es del criterio que el Servidor Público Elmer Saady Barrientos Ramos en el cargo nominal de Sub Gerente de Recursos Materiales y Servicios Generales, ha realizado acciones que acreditan el incumplimiento de obligaciones relativas al cargo o a funciones de trabajo, cometiendo faltas constitutivas de despido, además es del criterio que se le aplique al Servidos Público Elmer Saady Barrientos Ramos el despido de su cargo nominal como Sub Gerente de Recursos Materiales y Servicios Generales sin responsabilidad para la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que mediante Dictamen Legal de Despido No. DL-033-2022 emitido por la Suscrita Jefe del Departamento Legal de la Dirección General de Servicio Civil quien tomó en consideración la documentación aportada por esta Secretaría de Estado dictaminó que es Procedente cancelar por despido al Servidor Público Elmer Saady Barrientos Ramos, fundamentándose en los artículos 256, 257 y 321 de la Constitución de la República, Artículo 1, 7 numerales 1) 10), 11), 12), 37 literal a) y c), 45 y 46, 47 numeral 1), 48, 49, 57 y 58 de la Ley de Servicios Civil, 113 numerales 1), 2) y 4), 115 numerales 3), 7) y 9), 145, 157, 165 numeral 1), 174, 175, 176, 177, 178, 179, 186, 195 y 199 y demás aplicables del Reglamento de la Ley de Servicio Civil, 42 literal b) del Reglamento Interno de la Secretaria de Trabajo y Seguridad Social.
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Acuerdos Ministeriales Nos. 029-2024, 031-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240220-36465/download"
 extraido: "2026-11-14"
-huella: "2f26b9eb36ac778e"
+huella: "7ca72236cfd5251e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 031-2024
@@ -37,11 +37,11 @@ CONSIDERANDO: Que los granos básicos representan el principal alimento de los h
 
 CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022, mismo que fue modificado mediante Adendum Número Uno, contemplado en el Acuerdo Ejecutivo Número 158-2023 y publicado en el Diario Oficial “La Gaceta” en fecha 13 de noviembre de 2023.
 
-CONSIDERANDO: Que en el Acuerdo Ejecutivo Número 158-2023 , establece en el Ordinal Segundo lo siguiente: “en atención al Adendum Número Uno del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional (Maíz Blanco), ratificado en el Ordinal Primero del presente Acto Administrativo, las compras de los productores nacionales realizadas por la Industria de la Harina de Maíz Blanco y Alimentos para Consumo Humano, que corresponden al período de compra del primero (01) de septiembre al treinta y uno (31) de diciembre del año dos mil veintitrés (2023), se considerarán válidas para efecto de la emisión de los Certificados de Importación por parte de las Instituciones de Gobierno competentes”.
+CONSIDERANDO: Que en el Acuerdo Ejecutivo Número 158-2023, establece en el Ordinal Segundo lo siguiente: “en atención al Adendum Número Uno del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional (Maíz Blanco), ratificado en el Ordinal Primero del presente Acto Administrativo, las compras de los productores nacionales realizadas por la Industria de la Harina de Maíz Blanco y Alimentos para Consumo Humano, que corresponden al período de compra del primero (01) de septiembre al treinta y uno (31) de diciembre del año dos mil veintitrés (2023), se considerarán válidas para efecto de la emisión de los Certificados de Importación por parte de las Instituciones de Gobierno competentes”.
 
 CONSIDERANDO: Que en el Primer Párrafo del Numeral 12 del Acuerdo Ejecutivo Número 158-2023 establece que la relación de compra/importación de maíz blanco (1005.90.30.00) será por un (1) quintal de maíz blanco comprado a nivel nacional tendrá derecho a importar dos (2) quintales de maíz blanco (1x2 QQ), esta relación será vigente para el período comprendido del 01 de septiembre de 2023 al 31 de agosto de 2024. El Gobierno de la República, revisará la relación de compra/importación para cada Ciclo Agrícola.
 
-CONSIDERANDO: Que en reunión sostenida el día 08 de enero de 2024, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco de la cosecha 2023- 2024 (Primer Corte), que comprende del 01 de septiembre al 31 de diciembre del 2023, compras que fueron realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión de Supervisión del referido Convenio.
+CONSIDERANDO: Que en reunión sostenida el día 08 de enero de 2024, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), en donde la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de maíz blanco de la cosecha 2023-2024 (Primer Corte), que comprende del 01 de septiembre al 31 de diciembre del 2023, compras que fueron realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, siendo aprobado por la Comisión de Supervisión del referido Convenio.
 
 POR TANTO:
 
@@ -61,13 +61,11 @@ c) Fotocopia de la Escritura de Constitución, en el caso de persona jurídica, 
 
 d) Carta de Poder debidamente autenticada;
 
-KG con un DAI del cero por ciento (0%), con una vigencia hasta el 31 de diciembre de 2024, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-007-2024 publicado en el Diario Oficial “La Gaceta” en fecha 26 de enero del 2024, correspondiente al Primer Corte de maíz blanco de la cosecha nacional 2023- 2024, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022 y Acuerdo Ejecutivo 158- 2023), conforme se detalla a continuación:
+KG con un DAI del cero por ciento (0%), con una vigencia hasta el 31 de diciembre de 2024, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-007-2024 publicado en el Diario Oficial “La Gaceta” en fecha 26 de enero del 2024, correspondiente al Primer Corte de maíz blanco de la cosecha nacional 2023-2024, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022 y Acuerdo Ejecutivo 158-2023), conforme se detalla a continuación:
 
 e) Dirección física, teléfono y correo electrónico del apodera­ do legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos adminis­ trativos;
 

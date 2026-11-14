@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "PODER EJECUTIVODECRETO EJECUTIVO PCM 25-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220930-36041/download"
 extraido: "2026-11-14"
-huella: "968a96db7bc12b27"
+huella: "d6a317d5a1ec41d7"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO PCM 25-2022
@@ -47,7 +47,7 @@ CONSIDERANDO: Que debido a la aplicación de focalización de subsidios a client
 
 CONSIDERANDO: Que la Empresa Nacional de Energía Eléctrica (ENEE) en cumplimiento al Acuerdo de la Comisión Reguladora de Energía Eléctrica CREE-036-2022, solicitó diferir el ajuste tarifario correspondiente al período julioseptiembre 2022 para el periodo tarifario octubre-diciembre 2022.
 
-CONSIDERANDO: Que mediante acuerdo CREE-38- 2022 del 30 de junio del 2022, la Comisión Reguladora de Energía Eléctrica (CREE) ordena a la Empresa Nacional de Energía Eléctrica (ENEE), al registro de un monto de USD 98,884,439.06 (NOVENTA Y OCHO MILLONES OCHOCIENTOS OCHENTA Y CUATRO MIL CUATROCIENTOS TREINTA Y NUEVE DÓLARES CON SEIS CENTAVOS), en una cuenta de saldos diferidos que deberán considerarse para ser recuperados en futuros ajustes tarifarios. Aprobar una tasa de interés trimestral de 1.8283 %, conforme con la propuesta presentada por la Empresa Nacional de Energía Eléctrica (ENEE) y que se aplicará al saldo diferido a partir del siguiente ajuste tarifario.
+CONSIDERANDO: Que mediante acuerdo CREE-38-2022 del 30 de junio del 2022, la Comisión Reguladora de Energía Eléctrica (CREE) ordena a la Empresa Nacional de Energía Eléctrica (ENEE), al registro de un monto de USD 98,884,439.06 (NOVENTA Y OCHO MILLONES OCHOCIENTOS OCHENTA Y CUATRO MIL CUATROCIENTOS TREINTA Y NUEVE DÓLARES CON SEIS CENTAVOS), en una cuenta de saldos diferidos que deberán considerarse para ser recuperados en futuros ajustes tarifarios. Aprobar una tasa de interés trimestral de 1.8283 %, conforme con la propuesta presentada por la Empresa Nacional de Energía Eléctrica (ENEE) y que se aplicará al saldo diferido a partir del siguiente ajuste tarifario.
 
 POR TANTO, En uso de las facultades contenidas en los artículos 245 numerales 2 y 11; 328, 331, 333 de la Constitución de la República; artículo 11 de la Ley General de la Administración Pública reformado mediante Decreto Legislativo 266-2013; artículo 1 del Decreto Ejecutivo Número PCM 02-2022, Decreto Legislativo 02-2022 y demás aplicables.
 
@@ -107,11 +107,11 @@ Que para este cuarto trimestre de 2022 se requiere recuperar en concepto de ajus
 
 a) Que en fecha 28 de septiembre de 2022, la Unidad de Tarifas informó al Directorio de Comisionados que como resultado de los cálculos correspondientes se determinó que existe una variación significativa que provocará fluctuaciones del 7.29 % en la tarifa promedio al usuario final, en ese sentido, recomendó comunicar a la ENEE el monto de USD 67,100,345.75 que resultó de la diferencia identificada entre el costo de generación real y el costo base de generación previsto, a fin de dejar expedita la aplicación del mecanismo para ampliar el período de recuperación de los saldos conforme con lo establecido en el artículo 51 del Reglamento para el Cálculo de Tarifas Provisionales.
 
-b) En consecuencia, mediante oficio número CREE- 187-2022 la CREE comunicó a la ENEE sobre el monto a diferir. Asimismo, mediante el referido oficio la CREE le solicitó a la ENEE que en caso de estar de acuerdo con diferir el ajuste identificado debía realizar la remisión de una solicitud formal a la CREE conforme con lo establecido en el artículo 51 del Reglamento para el Cálculo de Tarifas Provisionales.
+b) En consecuencia, mediante oficio número CREE-187-2022 la CREE comunicó a la ENEE sobre el monto a diferir. Asimismo, mediante el referido oficio la CREE le solicitó a la ENEE que en caso de estar de acuerdo con diferir el ajuste identificado debía realizar la remisión de una solicitud formal a la CREE conforme con lo establecido en el artículo 51 del Reglamento para el Cálculo de Tarifas Provisionales.
 
 En la misma comunicación, la CREE solicitó a la ENEE que confirmara si iba a trasladar a tarifa en el presente período trimestral el monto total de USD 98,884,439.06 (que incluye costos de energía y potencia y el tipo de cambio del lempira con respecto al dólar), de conformidad con lo comunicado mediante oficio GGENEE-473-06-2022 de fecha 29 de junio de 2022 y el registro de cuentas de saldos diferidos que ordenó la CREE mediante resolutivo SEGUNDO del Acuerdo CREE-38-2022 de fecha 30 de junio de 2022.
 
-c) Que en fecha 30 de septiembre de 2022 la ENEE presentó ante la CREE el oficio número GG-901-2022, mediante el cual informó que se ha previsto diferir el ajuste completo que se indicó en el oficio CREE-187- 2022 para el período de octubre a diciembre de 2022 en los términos siguientes:
+c) Que en fecha 30 de septiembre de 2022 la ENEE presentó ante la CREE el oficio número GG-901-2022, mediante el cual informó que se ha previsto diferir el ajuste completo que se indicó en el oficio CREE-187-2022 para el período de octubre a diciembre de 2022 en los términos siguientes:
 
 1. “El monto por deferir será de USD 67,100,345.75.
 
@@ -149,7 +149,7 @@ Que en fecha 30 de septiembre de 2022 la Unidad de Tarifas emitió el Informe de
 
 XIII. Que en fecha 30 de septiembre de 2022 la Dirección de Asesoría Jurídica emitió el dictamen legal número DAJ-DL-035-2022 mediante el cual recomendó la emisión del presente acto administrativo.
 
-XIV. Que de conformidad con el Reglamento para el Cálculo de Tarifas Provisionales la CREE puede incorporar en el periodo de revisión trimestral “Otros Ajustes” que le hayan sido comunicados por el Operador del Sistema, en ese sentido, las unidades de la CREE determinaron incorporar como “Otros Ajustes“ el monto de USD 401,662.27 a favor de la demanda en vista de las inconsistencias identificadas en las liquidaciones de los costos variables asociados al contrato No. 012- 2018 suscrito entre la ENEE y la sociedad mercantil Comercial Laeisz, S. A. de C. V. durante el periodo comprendido entre diciembre de 2021 y febrero de 2022, según se identifica en el dictamen técnico UF- 015-2022.
+XIV. Que de conformidad con el Reglamento para el Cálculo de Tarifas Provisionales la CREE puede incorporar en el periodo de revisión trimestral “Otros Ajustes” que le hayan sido comunicados por el Operador del Sistema, en ese sentido, las unidades de la CREE determinaron incorporar como “Otros Ajustes“ el monto de USD 401,662.27 a favor de la demanda en vista de las inconsistencias identificadas en las liquidaciones de los costos variables asociados al contrato No. 012-2018 suscrito entre la ENEE y la sociedad mercantil Comercial Laeisz, S. A. de C. V. durante el periodo comprendido entre diciembre de 2021 y febrero de 2022, según se identifica en el dictamen técnico UF-015-2022.
 
 XV.
 
@@ -161,7 +161,7 @@ XVII. Que mediante el oficio GG-916-2022 de fecha 30 de septiembre de 2022, el G
 
 Considerando:
 
-Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 54"
 sumario: "Decreto No. 63-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210817-35690/download"
 extraido: "2026-11-14"
-huella: "095f226154197b93"
+huella: "c2bef817d336c2ed"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 63-2021
@@ -29,9 +29,9 @@ huella: "095f226154197b93"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario, durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019.
+CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario, durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2262, suscrito el 30 de Junio de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Nueve Millones Cuatrocientos Cincuenta y Nueve Mil Seiscientos Veintidós Dólares con Noventa y Cinco Centavos (US$9,459,622.95), recursos destinados a financiar la ejecución del “PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE) TRAMO C”, se ampara en el Artículo 8 del Decreto Legislativo No.33-2020.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2262, suscrito el 30 de Junio de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Nueve Millones Cuatrocientos Cincuenta y Nueve Mil Seiscientos Veintidós Dólares con Noventa y Cinco Centavos (US$9,459,622.95), recursos destinados a financiar la ejecución del “PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE) TRAMO C”, se ampara en el Artículo 8 del Decreto Legislativo No. 33-2020.
 
 CONSIDERANDO: Que el Proyecto “IDENTIFÍCATE” tiene como objetivo mejorar los procesos de identificación del Registro Nacional de las Personas (RNP), a través de la creación de un nuevo registro digital biométrico de personas y de la producción de nuevos documentos nacionales de identificación, contribuyendo a generar confianza en la población hondureña y eficiencia en la función registral, garantizando la emisión de documentos nacionales de identificación únicos y con altos niveles de confiabilidad.
 
@@ -51,13 +51,13 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.2262, suscrito el 30 de Junio del 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de NUEVE MILLONES CUATROCIENTOS CINCUENTA Y NUEVE MIL SEISCIENTOS VEINTIDÓS DÓLARES CON NOVENTA Y CINCO CENTAVOS (US$9,459,622.95), recursos destinados a financiar la ejecución del “PROYECTO D E M O D E R N I Z A C I Ó N D E L D O C U M E N T O D E IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE) TRAMO C”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 2262, suscrito el 30 de Junio del 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de NUEVE MILLONES CUATROCIENTOS CINCUENTA Y NUEVE MIL SEISCIENTOS VEINTIDÓS DÓLARES CON NOVENTA Y CINCO CENTAVOS (US$9,459,622.95), recursos destinados a financiar la ejecución del “PROYECTO DE MODERNIZACIÓN DEL DOCUMENTO DE IDENTIFICACIÓN EN HONDURAS (IDENTIFÍCATE) TRAMO C”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
 CONTRATO DE PRÉSTAMO
 
-No.2262 SECTOR PÚBLICO.
+No. 2262 SECTOR PÚBLICO.
 
 COMPARECENCIA DE LAS PARTES....................................................................................
 
@@ -431,7 +431,7 @@ Mediante Decreto No. 129-2020 publicado en el Diario Oficial La Gaceta el 17 de 
 
 El BCIE mediante Resolución No. DI-146/2020 aprobó a favor de la República de Honduras una facilidad crediticia para financiar parcialmente el “Proyecto de Modernización del Documento de Identificación en Honduras (Identifícate) Tramo C”.
 
-En tal sentido, el presente Contrato de Préstamo No.2262 corresponde al Tramo C de la facilidad crediticia mencionada en el párrafo precedente.
+En tal sentido, el presente Contrato de Préstamo No. 2262 corresponde al Tramo C de la facilidad crediticia mencionada en el párrafo precedente.
 
 #### Artículo 2
 
@@ -1169,7 +1169,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -1181,7 +1181,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero de 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario(a) de Estado en el Despacho de Finanzas, nombrado(a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero de 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 
@@ -1261,9 +1261,7 @@ A. Además de las condiciones previas a primer desembolso enumeradas en la Secci
 
 5. Evidencia de que cada una de las contrataciones para la adquisición de bienes y servicios realizada con recursos del BCIE se efectuaron de acuerdo con la Política de Adquisiciones y Contrataciones del Programa de las Naciones Unidas para el Desarrollo (PNUD).
 
-6. En caso de que aplique, documentos que evidencien que los recursos de desembolsos anteriores correspondientes al Contrato de Préstamo No. 2235 Tramo A y Contrato de Préstamo No.
-
-2235 Tramo B han sido utilizados para la ejecución de la operación, de conformidad con el Plan Global de Inversiones (PGI) aprobado por el Banco.
+6. En caso de que aplique, documentos que evidencien que los recursos de desembolsos anteriores correspondientes al Contrato de Préstamo No. 2235 Tramo A y Contrato de Préstamo No. 2235 Tramo B han sido utilizados para la ejecución de la operación, de conformidad con el Plan Global de Inversiones (PGI) aprobado por el Banco.
 
 7. Evidencia de la contratación de la auditoría social correspondiente a satisfacción del BCIE.
 
@@ -1489,7 +1487,7 @@ Según han sido utilizados en la Sección I, las siguientes definiciones tendrá
 
 (ii) cualquier evolución o en ese momento de la fórmula de determinación en el mercado para determinar la tasa de interés como reemplazo para el Índice de Referencia vigente en ese momento para las facilidades crediticias sindicadas que tengan el Dólar de Estados Unidos de América como moneda contractual en ese momento; y (b) El Ajuste del Reemplazo del Índice de Referencia, bajo el entendido, que si el BCIE y el Prestatario no han logrado una determinación con respecto a lo previamente expuesto en 30 días calendario contados a partir de las negociaciones de este numeral (3), entonces;
 
-(4) En cualquier fecha de determinación, una tasa anual equivalente a la suma de: (a) el cálculo mayor de: (i) la Federal Funds Rate en esa fecha más 1%, y (ii) la tasa por año en efecto y anunciada públicamente por Citibank, N.A. en efecto en ese día, más, (b) el margen de ese día/ABR , bajo el entendido que cualquiera de las Partes puede solicitar en cualquier momento después del día 45 de cualquier determinación referente a esta cláusula (4) que las partes realicen una nueva determinación de Índice de Referencia de Reemplazo relacionado con las cláusulas (1), (2), (3) y (4) de este término definido;
+(4) En cualquier fecha de determinación, una tasa anual equivalente a la suma de: (a) el cálculo mayor de: (i) la Federal Funds Rate en esa fecha más 1%, y (ii) la tasa por año en efecto y anunciada públicamente por Citibank, N.A. en efecto en ese día, más, (b) el margen de ese día/ABR, bajo el entendido que cualquiera de las Partes puede solicitar en cualquier momento después del día 45 de cualquier determinación referente a esta cláusula (4) que las partes realicen una nueva determinación de Índice de Referencia de Reemplazo relacionado con las cláusulas (1), (2), (3) y (4) de este término definido;
 
 Bajo el entendido que, en el caso de los numerales (1) y (2) anteriores, dicha tasa, o las tasas subyacentes compuestas, o detalladas en la plataforma o cualquier servicio de información que publique dicha tasa o tasas periódicamente como sea seleccionado por el BCIE, en el marco de su razonable discreción. Si el Índice de Referencia de Reemplazo de acuerdo con lo determinado según el criterio de los numerales (1), (2), (3) o (4) antes mencionadas, resultan menores a cero, el Índice de Referencia de Reemplazo será de cero para los fines de este contrato.
 

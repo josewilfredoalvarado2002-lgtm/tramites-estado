@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decretos Ejecutivos Números. 01-2026, 02-2026, 03-2026, 04-2026, 05-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260206-37063/download"
 extraido: "2026-11-09"
-huella: "727f6d09a2423707"
+huella: "2a170f3f2b23e324"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 03-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que mediante Acuerdos Ejecutivos Números 165-2025, 166-2025 y 167
 
 POR TANTO;
 
-En aplicación de lo establecido en los Artículos 235, Numerales 2 y 11 del Artículo 245 de la Constitución de la República; 116 y 117 de la Ley General de la Administración Pública; Artículo 98 y 99, reformados, de la Ley General de la Administración Pública; Acuerdos Ejecutivos Números 165- 2025, 166-2025 y 167-2025, todos de fecha 31 de diciembre de 2025 y publicados en el Diario Oficial "La Gaceta" de fecha 12 de enero de 2026 y demás aplicables.
+En aplicación de lo establecido en los Artículos 235, Numerales 2 y 11 del Artículo 245 de la Constitución de la República; 116 y 117 de la Ley General de la Administración Pública; Artículo 98 y 99, reformados, de la Ley General de la Administración Pública; Acuerdos Ejecutivos Números 165-2025, 166-2025 y 167-2025, todos de fecha 31 de diciembre de 2025 y publicados en el Diario Oficial "La Gaceta" de fecha 12 de enero de 2026 y demás aplicables.
 
 DECRETA:
 

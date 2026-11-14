@@ -11,7 +11,7 @@ paginas: "A. 23 - 27"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "dcd689bb11ceb1d3"
+huella: "74bccdf8f59314d5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 111-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que ante esta realidad, el incremento de las penas para el delito 
 
 CONSIDERANDO: Que el Congreso Nacional de la República es la máxima expresión de la voluntad popular y el órgano constitucional encargado de legislar en nombre del pueblo hondureño, teniendo la obligación primordial, en el marco del contrato social descrito por Cesare Beccaria, de garantizar la seguridad y la tranquilidad pública frente a la grave amenaza que representa el delito de femicidio, como la forma más extrema de violencia machista, que genera miedo colectivo entre las mujeres, perpetúa patrones de dominación y desigualdad de género, destruye el tejido social, afecta gravemente la economía y atenta contra la libertad, la dignidad y los derechos fundamentales de las mujeres hondureñas.
 
-CONSIDERANDO: Que cumpliendo con el mandato constitucional previsto en el Artículo 219 de la Constitución de la República, este Congreso Nacional solicitó la Opinión Jurídica de la Corte Suprema de Justicia (CSJ) respecto al Proyecto de Decreto, recibiéndose mediante Oficio PCSJ No.0302-2026 de fecha 29 de Mayo de 2026, en la cual el Pleno de Magistrados se pronunció sobre el proyecto de reforma haciendo sus observaciones orientadas al tipo penal y al órganos jurisdiccionales especializados para el juzgamiento de estos graves delitos.
+CONSIDERANDO: Que cumpliendo con el mandato constitucional previsto en el Artículo 219 de la Constitución de la República, este Congreso Nacional solicitó la Opinión Jurídica de la Corte Suprema de Justicia (CSJ) respecto al Proyecto de Decreto, recibiéndose mediante Oficio PCSJ No. 0302-2026 de fecha 29 de Mayo de 2026, en la cual el Pleno de Magistrados se pronunció sobre el proyecto de reforma haciendo sus observaciones orientadas al tipo penal y al órganos jurisdiccionales especializados para el juzgamiento de estos graves delitos.
 
 CONSIDERANDO: Que el delito de femicidio, como la forma más extrema de violencia de género, constituye una de las más graves amenazas contra la integridad, la dignidad y la vida de las mujeres en Honduras, generando miedo colectivo entre la población femenina, perpetuando patrones de dominación, control y desigualdad, causando graves afectaciones al tejido social, la economía y el libre ejercicio de los derechos fundamentales de las mujeres hondureñas.
 
@@ -53,11 +53,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 66, 208 y 210 del CÓDIGO PENAL, contenido en el Decreto Legislativo No.130-2017 de fecha 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019 y sus reformas, los cuales en adelante se leerán así:
+ARTÍCULO 1.- Reformar los artículos 66, 208 y 210 del CÓDIGO PENAL, contenido en el Decreto Legislativo No. 130-2017 de fecha 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019 y sus reformas, los cuales en adelante se leerán así:
 
 “ARTÍCULO 66.- CONCURSO REAL………
 
@@ -131,9 +131,9 @@ El Órgano...”
 
 #### Artículo 2
 
-ARTÍCULO 2.- CREACIÓN DE LOS ÓRGANOS J U R I S D I C C I O N A L E S ESPECIALIZADOS PARA EL JUZGAMIENTO DE LOS CASOS DE FEMICIDIO. La Corte Suprema de Justicia (CSJ) creará y fijará la sede de los órganos jurisdiccionales especializados con Competencia Territorial Nacional para el conocimiento y juzgamiento del Delito de FEMICIDIO, delitos conexos y otras formas de violencia contra la mujer.
+ARTÍCULO 2.- CREACIÓN DE LOS ÓRGANOS JURISDICCIONALES ESPECIALIZADOS PARA EL JUZGAMIENTO DE LOS CASOS DE FEMICIDIO. La Corte Suprema de Justicia (CSJ) creará y fijará la sede de los órganos jurisdiccionales especializados con Competencia Territorial Nacional para el conocimiento y juzgamiento del Delito de FEMICIDIO, delitos conexos y otras formas de violencia contra la mujer.
 
-La presente disposición deberá mantener la competencia descrita en los artículos 7 y 8 del Decreto No.247-2010 de fecha 15 de Enero de 2011, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal”, en lo que fuere aplicable.
+La presente disposición deberá mantener la competencia descrita en los artículos 7 y 8 del Decreto No. 247-2010 de fecha 15 de Enero de 2011, contentivo de la “Ley Especial de Órganos Jurisdiccionales con Competencia Territorial Nacional en Materia Penal”, en lo que fuere aplicable.
 
 La Corte Suprema de Justicia (CSJ) deberá emitir en un plazo máximo de noventa (90) días hábiles, el Acuerdo respectivo que regule la competencia objetiva, integración, funcionamiento y nombramiento de las juezas y personal auxiliar de estos órganos jurisdiccionales especializados en primera instancia.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-065-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210628-35641/download"
 extraido: "2026-11-14"
-huella: "a523437e5839d831"
+huella: "31fb746f70ab3804"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-065-2021
@@ -37,9 +37,9 @@ CONSIDERANDO: Que el Artículo 5 reformado de la Ley General de la Administraci�
 
 CONSIDERANDO: Que el Artículo 8 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, establece que: “En cuanto le corresponde la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, el Presidente de la República define los planes y programas del Gobierno, dirige las tareas y orienta las actividades de las Secretarías de Estado y de las instituciones autónomas de conformidad con la Ley”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 056-2014, publicado en el Diario Oficial ¨La Gaceta¨ de fecha 22 de septiembre de 2014, se creó la Dirección Nacional de Intervención Social (DINIS), adscrita y bajo la coordinación de la Secretaría de Estado de la Presidencia y que para el cumplimiento de sus objetivos, la DINIS ha sido financiada con fondos provenientes de la Tasa de Seguridad Poblacional.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-056-2014, publicado en el Diario Oficial ¨La Gaceta¨ de fecha 22 de septiembre de 2014, se creó la Dirección Nacional de Intervención Social (DINIS), adscrita y bajo la coordinación de la Secretaría de Estado de la Presidencia y que para el cumplimiento de sus objetivos, la DINIS ha sido financiada con fondos provenientes de la Tasa de Seguridad Poblacional.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 087-2020, publicado en el Diario Oficial ¨La Gaceta¨ de fecha 14 de septiembre del 2020, se le instruyó a la Secretaría de Estado en el Despacho de Finanzas para que asignara una partida presupuestaria a la Secretaría de Estado en el Despacho de la Presidencia como órgano coordinador de la Dirección Nacional de Intervención Social (DINIS).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-087-2020, publicado en el Diario Oficial ¨La Gaceta¨ de fecha 14 de septiembre del 2020, se le instruyó a la Secretaría de Estado en el Despacho de Finanzas para que asignara una partida presupuestaria a la Secretaría de Estado en el Despacho de la Presidencia como órgano coordinador de la Dirección Nacional de Intervención Social (DINIS).
 
 CONSIDERANDO: Que para fortalecer el funcionamiento y operatividad de la DINIS, es pertinente que su presupuesto provenga de transferencias del Tesoro Nacional, por medio de la Secretaría de Estado en el Despacho de Finanzas a la Secretaría de Estado de la Presidencia, según lo autorizado en la Ley Orgánica del Presupuesto en su artículo 37 numeral 4).
 

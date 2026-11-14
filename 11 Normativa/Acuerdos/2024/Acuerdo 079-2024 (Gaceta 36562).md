@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ministeriales Nos. 077-2024, 078-2024, 079-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240617-36562/download"
 extraido: "2026-11-14"
-huella: "c8753bcc4552436f"
+huella: "9b605ea3abfaf7c7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 079-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que según los artículos 7 y 10 del Reglamento de Constitución y
 
 CONSIDERANDO: Que mediante la Resolución de Instancia Ministerial-UA No. 117-2024, del 6 de marzo de 2024, se autorizó que, a partir del 16 de abril de 2024, la SIECA percibirá cinco dólares de los Estados Unidos de América (US$5.OO), por cada Factura y Declaración Única Centroamericana (FYDUCA) transmitida electrónicamente a través de la Plataforma Informática Comunitaria (PIC);
 
-CONSIDERANDO: Que los Estados Parte desean realizar una campaña de divulgación para informar sobre la medida descrita en la Resolución Instancia Ministerial-UA No. 117- 2024, del 6 de marzo de 2024, a los agentes económicos, autoridades competentes y usuarios de la FYDUCA en general, así como reasignar fondos para cubrir las necesidades de la participación de los funcionarios en las rondas del Proceso de Integración Profunda, por lo que es necesario realizar reasignaciones presupuestarias y adicionar rubros presupuestarios en el Presupuesto del Fondo Estructural y de Inversiones de la Unión Aduanera, correspondiente al período del 1 de enero al 31 de diciembre de 2024,
+CONSIDERANDO: Que los Estados Parte desean realizar una campaña de divulgación para informar sobre la medida descrita en la Resolución Instancia Ministerial-UA No. 117-2024, del 6 de marzo de 2024, a los agentes económicos, autoridades competentes y usuarios de la FYDUCA en general, así como reasignar fondos para cubrir las necesidades de la participación de los funcionarios en las rondas del Proceso de Integración Profunda, por lo que es necesario realizar reasignaciones presupuestarias y adicionar rubros presupuestarios en el Presupuesto del Fondo Estructural y de Inversiones de la Unión Aduanera, correspondiente al período del 1 de enero al 31 de diciembre de 2024,
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Acuerdo Ministerial No. 124-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241101-36678/download"
 extraido: "2026-11-14"
-huella: "4e3f02cd21df2d0e"
+huella: "a75e8b2f4891398b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 124-2024
@@ -37,9 +37,7 @@ Centroamérica y Chile; y los Acuerdos por el que establece una Asociación entr
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre República Dominicana-Centroamérica y Estados Unidos (RDCAFTA), fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año, entrado en vigor 01 de abril del 2006.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No.3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo. Asimismo, el Acuerdo 013-2016 del 04 de febrero del 2016, establece la asignación del contingente arancelario de maíz blanco (1005.90.30.00 del ACI) en dicho Tratado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo. Asimismo, el Acuerdo 013-2016 del 04 de febrero del 2016, establece la asignación del contingente arancelario de maíz blanco (1005.90.30.00 del ACI) en dicho Tratado.
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre Canadá y la República de Honduras, fue aprobado por el Congreso Nacional mediante Decreto No. 251-2013 del 10 de diciembre del 2013 y publicado en el Diario Oficial La Gaceta el 07 de junio del 2014, entrando en vigor el 1 de octubre de 2014.
 

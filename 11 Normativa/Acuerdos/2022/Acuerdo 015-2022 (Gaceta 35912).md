@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdos Ejecutivos Nos. 004-2022, 308-2022, 310-2022, 313-2022, 170-2022, 171-2022, 208-2022, 015-2022, 016-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220502-35912-2/download"
 extraido: "2026-11-14"
-huella: "6b3173362791324f"
+huella: "e6f6552d3bee4cbd"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 015-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que el presente caso se relaciona con la alegada responsabilidad i
 
 CONSIDERANDO: Que el 17 de julio de 2018, la Comisión Interamericana de Derechos Humanos (CIDH), aprobó el Informe de Admisibilidad No. 83/18, en la Petición 455-13 en el caso José Antonio Gutiérrez Navas y otros- Honduras en el cual se declara admisible las presuntas violaciones a los derechos establecidos en los artículos 5 (Integridad Personal), 8 (Garantías Judiciales), 9 (Principio de Legalidad y de Retroactividad), 23 (Derechos Políticos), 25 (Protección Judicial) y 26 (Desarrollo Progresivo) de la Convención Americana de Derechos Humanos en relación con sus artículos 1.1 y 2 de dicho instrumento.
 
-CONSIDERANDO: Que el 25 de noviembre de 2021, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras mediante comunicación de 20 de enero de 2022 sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH- 37-2021- José Antonio Gutiérrez Navas y otros vs Honduras.
+CONSIDERANDO: Que el 25 de noviembre de 2021, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras mediante comunicación de 20 de enero de 2022 sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH-37-2021- José Antonio Gutiérrez Navas y otros vs Honduras.
 
 CONSIDERANDO: Que mediante análisis jurídico: AJDNDDHH-LI-PGR-003-2022, elaborado por la Procuraduría General de la República, luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, se determinó la procedencia de la aprobación de un acuerdo ejecutivo en el cual se otorguen las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar los convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que se pueda hacer uso de las referidas facultades en el caso “CDH-37-2021- Caso Gutiérrez Navas y otros vs. Honduras”.
 

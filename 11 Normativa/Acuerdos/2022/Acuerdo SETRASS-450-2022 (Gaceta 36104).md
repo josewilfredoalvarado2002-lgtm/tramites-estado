@@ -11,7 +11,7 @@ paginas: "A. 18"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "88cc6f1514a0d135"
+huella: "00af27d46ad503d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-450-2022
@@ -35,9 +35,7 @@ PRIMERO: Cancelar por Cesantía al ciudadano José Natanael Laínez con efectivi
 
 Servicios Administrativos y Contables, Número de Puesto;
 
-5810, Grupo-Nivel: 02-06, Sueldo Mensual Lps. 17,000.00 (Diecisiete Mil Lempiras Exactos). Acción de personal N°.
-
-82-2022, aprobada por la Dirección General de Servicio Civil.
+5810, Grupo-Nivel: 02-06, Sueldo Mensual Lps. 17,000.00 (Diecisiete Mil Lempiras Exactos). Acción de personal N°. 82-2022, aprobada por la Dirección General de Servicio Civil.
 
 SEGUNDO: Autorizar el pago de prestaciones e indemnizaciones laborales a que tiene derecho por el tiempo desempeñado en esta Secretaría de Estado, asimismo se le solicita presentar informe, finiquitos para el trámite de pago correspondiente y el descargo inmediato de los bienes asignados.
 

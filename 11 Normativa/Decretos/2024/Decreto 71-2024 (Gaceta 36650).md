@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 71-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "249dcf9711be4a48"
+huella: "13c1e9f225ec14a5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 71-2024
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 59 de la Constitución de la República establece
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 145 reconoce el derecho a la protección de la salud, por lo que corresponde al Estado garantizar a todos los habitantes del país el acceso a este derecho en condiciones de igualdad.
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.153-2022, emitido el 21 de Diciembre de 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 10 de Junio de 2023, este Congreso Nacional autorizó a la Secretaría de Estado en el Despacho de Salud a firmar convenios con organizaciones para facilitar la agilización de los programas, proyectos de construcción, mejoras o remodelación de infraestructura en las diferentes unidades de salud del país.
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 153-2022, emitido el 21 de Diciembre de 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 10 de Junio de 2023, este Congreso Nacional autorizó a la Secretaría de Estado en el Despacho de Salud a firmar convenios con organizaciones para facilitar la agilización de los programas, proyectos de construcción, mejoras o remodelación de infraestructura en las diferentes unidades de salud del país.
 
 CONSIDERANDO: Que la ampliación de este importante convenio es una oportunidad clave para abordar los desafíos constantes en el sector salud, permitiendo la implementación de estrategias innovadoras que aseguren una atención médica de calidad para todas las personas, especialmente las más vulnerables.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL) prorrogar por el año 2024 y en caso de ser necesario hasta el año 2025, la vigencia y plazo de ejecución de los convenios suscritos con la Organización No Gubernamental de Capacitación, Educación, Producción, Unificación, Desarrollo y Organización (CEPUDO) y con las demás Fundaciones y Asociaciones existentes que suscribieron convenios con la SESAL en apego a los artículos 1 y 4 del Decreto Legislativo No.153-2022 de fecha 21 de Diciembre del año 2022 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Junio del 2023, en su Edición Número 36,251.
+ARTÍCULO 1.- Se autoriza a la Secretaría de Estado en el Despacho de Salud (SESAL) prorrogar por el año 2024 y en caso de ser necesario hasta el año 2025, la vigencia y plazo de ejecución de los convenios suscritos con la Organización No Gubernamental de Capacitación, Educación, Producción, Unificación, Desarrollo y Organización (CEPUDO) y con las demás Fundaciones y Asociaciones existentes que suscribieron convenios con la SESAL en apego a los artículos 1 y 4 del Decreto Legislativo No. 153-2022 de fecha 21 de Diciembre del año 2022 y publicado en el Diario Oficial “La Gaceta” en fecha 10 de Junio del 2023, en su Edición Número 36,251.
 
 #### Artículo 2
 
@@ -55,7 +55,7 @@ Artículo precedente y en caso que los mismos requieran un aumento a los recurso
 
 #### Artículo 3
 
-ARTÍCULO 3.- Prorrogar por el año 2024 y en caso de ser necesario hasta el año 2025, los efectos del Decreto Legislativo No.153-2022 de fecha 21 de Diciembre del año 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 10 de Junio de 2023.
+ARTÍCULO 3.- Prorrogar por el año 2024 y en caso de ser necesario hasta el año 2025, los efectos del Decreto Legislativo No. 153-2022 de fecha 21 de Diciembre del año 2022 y publicado en el Diario Oficial “La Gaceta” de fecha 10 de Junio de 2023.
 
 #### Artículo 4
 

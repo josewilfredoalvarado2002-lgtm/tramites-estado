@@ -8,10 +8,10 @@ gaceta_numero: 36136
 gaceta_fecha: "2023-01-23"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)|La Gaceta 36136]]"
 paginas: "A. 1 - 5"
-sumario: "Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023"
+sumario: "Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230123-36136/download"
 extraido: "2026-11-14"
-huella: "ca237f92d1745185"
+huella: "ebc39617660dddbd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 526-2022
@@ -23,7 +23,7 @@ huella: "ca237f92d1745185"
 | Emisor | SECRETARÍA DE FINANZAS |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36136 (2023-01-23)\|La Gaceta 36136]] del 2023-01-23 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Acuerdo No. 526-2022SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales Nos. 321-2023322-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 168-2023, 173-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 526-2022; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales Nos. 321-2023322-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 168-2023, 173-2023 |
 
 ## Texto
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que en fecha veintisiete (27) de julio de dos mil veintidós (2022
 
 Despacho Ministerial, Subsecretaría de Finanzas y Presupuesto y Subsecretaría de Crédito e Inversión Pública.
 
-CONSIDERANDO: Que mediante Resolución A.L.588- 2022 de fecha veintiocho (28) de Julio de dos mil veintidós (2022), la Secretaría de Estado en el Despacho de Finanzas en su parte dispositiva PRIMERA, RESUELVE:
+CONSIDERANDO: Que mediante Resolución A.L.588-2022 de fecha veintiocho (28) de Julio de dos mil veintidós (2022), la Secretaría de Estado en el Despacho de Finanzas en su parte dispositiva PRIMERA, RESUELVE:
 
 AUTORIZAR un Fondo Rotario, por el valor anual de TRESCIENTOS MIL LEMPIRAS EXACTOS (L300,000.00) el cual se depositará en la cuenta No. 1110102000238-1 FONDO ROTATORIO-SECRETARÍA DE FINANZAS que se encuentra registrada en el Banco Central de Honduras. El responsable del manejo de este Fondo Rotatorio es el Gerente Administrativo de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), JUAN ALBERTO MONCADA LAM y el mismo sirve para la atención en los tres Despachos:
 

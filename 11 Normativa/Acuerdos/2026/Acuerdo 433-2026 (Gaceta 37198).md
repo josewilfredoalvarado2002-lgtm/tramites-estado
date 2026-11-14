@@ -11,7 +11,7 @@ paginas: "A. 1 - 48"
 sumario: "Acuerdo Número 433-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260720-37198/download"
 extraido: "2026-11-09"
-huella: "7e8adec7a1eac5ec"
+huella: "1a87f7d2ec7458aa"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 433-2026
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 29 de junio de 2026 LA SECRETARÍA DE ESTADO EN EL DESPACHO
 
 CONSIDERANDO (1):
 
-Que la Presidencia de la República, tiene a su cargo l a s u p r e m a d i r e c c i ó n y c o o r d i n a c i ó n d e l a Administración Pública Centralizada y Descentralizada, y en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Secretarios de Estado. A ese efecto, el artículo 116 de la Ley General de la Administración Pública establece que los actos de los órganos de la administración pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
+Que la Presidencia de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, y en el ejercicio de sus funciones, podrá actuar por sí o en Consejo de Secretarios de Estado. A ese efecto, el artículo 116 de la Ley General de la Administración Pública establece que los actos de los órganos de la administración pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
 CONSIDERANDO (2):
 
@@ -69,17 +69,17 @@ Que la Secretaría de Estado en el Despacho de Finanzas (SEFIN) como institució
 
 Asimismo, en el ámbito de sus competencias, la Secretaría de Estado en el Despacho de Asuntos de la Mujer (SEMUJER), y la Administración Nacional de Servicio Civil (ANSEC), acompañarán técnicamente el proceso de formulación de todas las instituciones públicas, para asegurar el cumplimiento de los lineamientos establecidos en el presente documento en materia de: Enfoque de género y recurso humano, respectivamente.
 
-Para la presente Formulación le corresponde a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP) emitir los lineamientos correspondientes en materia de Planificación, en cumplimiento a lo instruido en el artículo 31 del PCM 004-2026 y el artículo 6 del Decreto Legislativo No.62- 2026, impulsando el retorno a una gestión pública orientada a resultados, mediante la redefinición de los programas p r e s u p u e s t a r i o s c o m o instrumento central para la articulación efectiva entre la planificación y el presupuesto.
+Para la presente Formulación le corresponde a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a través de la Dirección General de Presupuesto (DGP) emitir los lineamientos correspondientes en materia de Planificación, en cumplimiento a lo instruido en el artículo 31 del PCM 004-2026 y el artículo 6 del Decreto Legislativo No. 62-2026, impulsando el retorno a una gestión pública orientada a resultados, mediante la redefinición de los programas presupuestarios como instrumento central para la articulación efectiva entre la planificación y el presupuesto.
 
 De igual manera, se posiciona la descentralización como un eje estratégico para impulsar el desarrollo territorial, orientando los esfuerzos institucionales hacia una planificación más integrada, eficiente y enfocada en la generación de resultados concretos, con mayor impacto en el bienestar de la población y el desarrollo de los territorios.
 
 CONSIDERANDO (10):
 
-Que en la elaboración del presupuesto para el ejercicio fiscal 2027 estará encaminada al cumplimiento de las prioridades del Gobierno de Honduras, aplicando la técnica de presupuesto por programas y su orientación a resultados, lo que implica la revisión del gasto público, orientado a financiar las prioridades anuales o multianuales con resultados directos en favor de la población y dentro de un marco de sostenibilidad fiscal de mediano plazo, para lo cual las instituciones de la administración pública (centralizada y descentralizada) deben revisar todos los programas presupuestarios a s e g u r á n d o s e q u e l a s intervenciones públicas estén visibilizadas en la estructura programática definida.
+Que en la elaboración del presupuesto para el ejercicio fiscal 2027 estará encaminada al cumplimiento de las prioridades del Gobierno de Honduras, aplicando la técnica de presupuesto por programas y su orientación a resultados, lo que implica la revisión del gasto público, orientado a financiar las prioridades anuales o multianuales con resultados directos en favor de la población y dentro de un marco de sostenibilidad fiscal de mediano plazo, para lo cual las instituciones de la administración pública (centralizada y descentralizada) deben revisar todos los programas presupuestarios asegurándose que las intervenciones públicas estén visibilizadas en la estructura programática definida.
 
 CONSIDERANDO (11):
 
-Que el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2027-2030 fue aprobado por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-009-2026, de fecha 29 de mayo de 2026 y publicado en el Diario Oficial La Gaceta No.37,154 en la misma fecha; siendo éste el documento que muestra la gradualidad en el cumplimiento de la Ley de Responsabilidad Fiscal (LRF), lo que permitirá retornar al proceso de consolidación fiscal y mantener niveles prudentes de endeudamiento, además de orientar las decisiones estratégicas de la política económica y fiscal especialmente en la formulación del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2027.
+Que el Marco Macro Fiscal de Mediano Plazo (MMFMP) 2027-2030 fue aprobado por el Presidente de la República en Consejo de Secretarios de Estado mediante Decreto Ejecutivo No. PCM-009-2026, de fecha 29 de mayo de 2026 y publicado en el Diario Oficial La Gaceta No. 37,154 en la misma fecha; siendo éste el documento que muestra la gradualidad en el cumplimiento de la Ley de Responsabilidad Fiscal (LRF), lo que permitirá retornar al proceso de consolidación fiscal y mantener niveles prudentes de endeudamiento, además de orientar las decisiones estratégicas de la política económica y fiscal especialmente en la formulación del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2027.
 
 CONSIDERANDO (12):
 
@@ -237,7 +237,7 @@ b) Elaboración de los Planes Estratégicos Institucionales
 
 (PEI) y Planes Operativos Anuales (POA): Las instituciones del Sector Público deberán formular sus Planes Estratégicos Instituciones (PEI) y Planes Operativos Anuales (POA) aplicando lo siguiente:
 
-i. Tomar en cuenta las 11 políticas, 57 ejes estratégicos y 354 medidas de acción establecidos en el Plan de Gobierno Juntos Vamos a Estar Bien 2026- 2030, con una visión de resultados orientada a la descentralización, atracción de la inversión, creación de empleo, mejora en los servicios de salud, educación y seguridad, entre otros. ii. Formular conforme a los lineamientos metodológicos establecidos por la Secretaría de Estado en el Despacho de Finanzas, (SEFIN) a través Dirección General de Presupuesto, (DGP) mediante Circular DGP-011-2026 (https://www.sefin.gob.hn/formulacion_2027/).
+i. Tomar en cuenta las 11 políticas, 57 ejes estratégicos y 354 medidas de acción establecidos en el Plan de Gobierno Juntos Vamos a Estar Bien 2026-2030, con una visión de resultados orientada a la descentralización, atracción de la inversión, creación de empleo, mejora en los servicios de salud, educación y seguridad, entre otros. ii. Formular conforme a los lineamientos metodológicos establecidos por la Secretaría de Estado en el Despacho de Finanzas, (SEFIN) a través Dirección General de Presupuesto, (DGP) mediante Circular DGP-011-2026 (https://www.sefin.gob.hn/formulacion_2027/).
 
 c) Definición de metas: Las metas deben ser elaboradas por cada institución del Sector Público, las cuales deben ser incorporadas en los Planes Estratégicos Institucionales
 
@@ -791,7 +791,7 @@ B. Módulo de Inversión:
 
 ANEXO C. Balance del Sector Público No Financiero (SPNF) y Administración Central (AC) 2027-2030.
 
-En los siguientes cuadros se puede observar las cifras fiscales de forma detalla por renglón económico a través de la cuenta financiera del SPNF y AC, establecidas en el MMFMP 2027- 2030:
+En los siguientes cuadros se puede observar las cifras fiscales de forma detalla por renglón económico a través de la cuenta financiera del SPNF y AC, establecidas en el MMFMP 2027-2030:
 
 ANEXO D. Flujos SIREP y ANSEC Flujos SIREP Flujo ANSEC ANEXO E. Definiciones y Aspectos Metodológicos para Registro de APP Términos y Definiciones:
 

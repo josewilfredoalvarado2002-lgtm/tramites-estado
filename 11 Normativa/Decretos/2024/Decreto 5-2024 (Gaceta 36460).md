@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Decretos Nos. 59-2023, 63-2023, 5-2024, 6-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240214-36460/download"
 extraido: "2026-11-14"
-huella: "29b2768411b8b68f"
+huella: "f25c6f1b9ad3d27c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 5-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el pago de los impuestos y tasas municipales debe de cumplirse
 
 CONSIDERANDO: Que los tributos se devuelven en obras de beneficio común a la población, por lo que deben implementarse mecanismos flexibles para la obtención de éstos, los cuales deben apegarse a la realidad económica del país.
 
-CONSIDERANDO: Que el Código Tributario vigente contenido en el Decreto No.170-2016 del 15 de Diciembre del 2016, publicado en el Diario Oficial ¨La Gaceta¨ del 28 de Diciembre del 2016 en su Artículo 2, numeral 4), establece que la amnistía es un beneficio que se concede mediante la aprobación de una ley a favor de los deudores tributarios, con el objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
+CONSIDERANDO: Que el Código Tributario vigente contenido en el Decreto No. 170-2016 del 15 de Diciembre del 2016, publicado en el Diario Oficial ¨La Gaceta¨ del 28 de Diciembre del 2016 en su Artículo 2, numeral 4), establece que la amnistía es un beneficio que se concede mediante la aprobación de una ley a favor de los deudores tributarios, con el objeto de condonar el pago parcial o total de las obligaciones pecuniarias accesorias de la deuda tributaria, por lo que, la amnistía constituye un perdón a favor de quien se le aplique y no puede darse un tratamiento discriminatorio, si se cumplen los elementos y presupuestos legales para gozar de dicho beneficio.
 
 CONSIDERANDO: Que existen saldos con órganos de la administración pública, mismos que constituyen la obligación principal, sobre la cual se han generado penalidades contentivas de intereses, multas y recargos, cuyo cumplimiento, alcanzaría la finalidad perseguida por las amnistías tributarias
 
@@ -47,11 +47,11 @@ Artículo 205, Atribución 1) de la Constitución de la República, es potestad 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- A M N I S T Í A T R I B U T A R I A
+ARTÍCULO 1.- AMNISTÍA TRIBUTARIA
 
 MUNICIPAL. Se concede el beneficio de amnistía en todas las municipalidades del país hasta el 31 de Junio del 2024, para el pago de intereses, multas y recargos causadas por la mora en vía administrativa o judicial inclusive las que se encuentran fijadas mediante acuerdos de pagos en vía administrativa, en el período de vigencia del presente Decreto, a petición de parte, que esté acumulada al 1 de Diciembre del año 2023, en el pago de todos los impuestos municipales, tasas y contribuciones, a las personas naturales o jurídicas, para que puedan enterar el pago de sus obligaciones tributarias, libres de intereses por mora, multas, cargos y recargos, en el período de vigencia del presente Decreto de Amnistía Tributaria Municipal, de conformidad con lo establecido en el mismo, autorizando a las Municipalidades para que dentro del período de vigencia de este Artículo puedan establecer los planes de pago, siempre que no sean mayores de un (1) año. De igual manera, las municipalidades que así lo dispongan, pueden otorgar un descuento de hasta el veinte por ciento (20%) del monto de la obligación principal, beneficio que deberá ser aprobado por la Corporación Municipal respectiva, individualmente.
 

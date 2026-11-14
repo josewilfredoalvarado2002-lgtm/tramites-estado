@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Acuerdo Ministerial No. 011-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230818-36311/download"
 extraido: "2026-11-14"
-huella: "c7659561bd3cd317"
+huella: "65cf1cc357111b88"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 011-2023
@@ -53,7 +53,7 @@ CONSIDERANDO: Que las Unidades Desarrollo Social y Registro Minero y Catastral d
 
 RIO GRANDE, el cual está ubicado en los municipios de La Venta y San José, departamento de Francisco Morazán y será utilizado en el Proyecto denominado: CONSTRUCCIÓN Y PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO CARRETERO PORTILLO DEL LOBO REITOCA - CURAREN, ETAPA 1, asimismo las unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica NTBP-07-2023, en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo del Banco de materiales.
 
-CONSIDERANDO: Que en fecha once (11) días del mes de mayo del año dos mil veintitrés (2023), las Unidades de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependientes del Instituto Hondureño de Geología y Minas, emitieron el Dictamen UDS-BP-020-2023, el cual literalmente dice: “las Unidades de Desarrollo Social, Minas y Geología, Ambiente y Seguridad y Registro Minero y Catastral del Instituto Hondureño de Geología y Minas, emiten Normativa Técnica NTBP-07-2023 para el aprovechamiento de material para el banco de préstamo Aluvial “Río Grande”, con un volumen aprobado de 100,000.00 metros cúbicos de acuerdo a lo descrito en el Informe ITCD-019-2023; cuyo material será utilizado en el Proyecto “CONSTRUCCIÓN Y PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO CARRETERO PORTILLO DEL LOBO REITOCA - CURAREN, ETAPA 1”, expediente 1713, sin perjuicio de los demás permisos pertinentes para dicha actividad. Se emite Normativa Técnica NTBP- 07-2023 de aprovechamiento de banco de préstamo la cual es específica para el área delimitada cuadricula de 100x100”… IV.
+CONSIDERANDO: Que en fecha once (11) días del mes de mayo del año dos mil veintitrés (2023), las Unidades de Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependientes del Instituto Hondureño de Geología y Minas, emitieron el Dictamen UDS-BP-020-2023, el cual literalmente dice: “las Unidades de Desarrollo Social, Minas y Geología, Ambiente y Seguridad y Registro Minero y Catastral del Instituto Hondureño de Geología y Minas, emiten Normativa Técnica NTBP-07-2023 para el aprovechamiento de material para el banco de préstamo Aluvial “Río Grande”, con un volumen aprobado de 100,000.00 metros cúbicos de acuerdo a lo descrito en el Informe ITCD-019-2023; cuyo material será utilizado en el Proyecto “CONSTRUCCIÓN Y PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DEL TRAMO CARRETERO PORTILLO DEL LOBO REITOCA - CURAREN, ETAPA 1”, expediente 1713, sin perjuicio de los demás permisos pertinentes para dicha actividad. Se emite Normativa Técnica NTBP-07-2023 de aprovechamiento de banco de préstamo la cual es específica para el área delimitada cuadricula de 100x100”… IV.
 
 REQUERIMIENTOS Y/O RECOMENDACIONES: Se requiere que la empresa. encargada de efectuar los trabajos de aprovechamiento de material a través de la Secretaría de Infraestructura y Transporte (SIT), titular del proyecto agregue al expediente los requisitos establecidos en el artículo 96 del Reglamento de la Ley General de Minería principalmente:
 

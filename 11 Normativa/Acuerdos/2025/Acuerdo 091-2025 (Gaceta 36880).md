@@ -11,7 +11,7 @@ paginas: "A. 17 - 32"
 sumario: "Acuerdo Ministerial No. 091-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250703-36880/download"
 extraido: "2026-11-10"
-huella: "7016b9e6d389c175"
+huella: "522de98d543dfc57"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 091-2025
@@ -63,7 +63,7 @@ CONSIDERANDO:
 
 Que en el marco de la Ley General de Pesca y Acuicultura la pesca de prospección científica se realiza con la finalidad facilitar el conocimiento científico sobre las especies hidrobiológicas, su condición, tamaño y la dinámica poblacional, así como el estado de explotación de estos recursos; prospección pesquera con miras a su eficiente administración y aprovechamiento sustentable.
 
-Y que, la información obtenida debe servir para la elaboración d e p l a n e s d e m a n e j o , determinación de cuotas de captura, técnicas sobre métodos, artes de pesca, demás condiciones de extracción y medidas de protección de la biodiversidad. Los objetivos de la pesca de prospección científica y de la investigación pesquera en general, deben estar encaminados a brindar soluciones y alternativas al sector pesquero nacional y la información que se obtenga es de dominio del Estado.
+Y que, la información obtenida debe servir para la elaboración de planes de manejo, determinación de cuotas de captura, técnicas sobre métodos, artes de pesca, demás condiciones de extracción y medidas de protección de la biodiversidad. Los objetivos de la pesca de prospección científica y de la investigación pesquera en general, deben estar encaminados a brindar soluciones y alternativas al sector pesquero nacional y la información que se obtenga es de dominio del Estado.
 
 CONSIDERANDO:
 
@@ -91,7 +91,7 @@ Que una vez revisada y analizada la solicitud de los Armadores bajo la categorí
 
 CONSIDERANDO:
 
-Que, en el ejercicio de las operaciones de pesca desarrolladas bajo el marco d e l r e f e r i d o A c u e r d o Ministerial, se ha verificado el estricto cumplimiento de las condicionalidades impuestas por la SAG/ DIGEPESCA, en lo relativo a la modalidad denominada Pesca Artesanal Avanzada; no obstante, atendiendo a un análisis técnico-jurídico exhaustivo, se ha determinado que dicha clasificación resulta inapropiada, dado que las embarcaciones autorizadas no reúnen los requisitos estructurales, operativos ni tecnológicos que conforme a la normativa vigente describen a dicha categoría; por ello, y en aras de precautelar los principios de legalidad, sostenibilidad y ordenamiento pesquero, se dispone la transición hacia un régimen de pesca de investigación para la temporada 2025-2026, el cual, bajo supervisión científica y administrativa, permitirá evaluar el recurso langostero con fundamento científico, sin perjuicio de la eventual redefinición de las autorizaciones futuras conforme a la capacidad real de la flota y los estándares aplicables.
+Que, en el ejercicio de las operaciones de pesca desarrolladas bajo el marco del referido Acuerdo Ministerial, se ha verificado el estricto cumplimiento de las condicionalidades impuestas por la SAG/ DIGEPESCA, en lo relativo a la modalidad denominada Pesca Artesanal Avanzada; no obstante, atendiendo a un análisis técnico-jurídico exhaustivo, se ha determinado que dicha clasificación resulta inapropiada, dado que las embarcaciones autorizadas no reúnen los requisitos estructurales, operativos ni tecnológicos que conforme a la normativa vigente describen a dicha categoría; por ello, y en aras de precautelar los principios de legalidad, sostenibilidad y ordenamiento pesquero, se dispone la transición hacia un régimen de pesca de investigación para la temporada 2025-2026, el cual, bajo supervisión científica y administrativa, permitirá evaluar el recurso langostero con fundamento científico, sin perjuicio de la eventual redefinición de las autorizaciones futuras conforme a la capacidad real de la flota y los estándares aplicables.
 
 CONSIDERANDO: Que el Reglamento de Seguridad y Salud Ocupacional de la Pesca Submarina vigente en Honduras (Acuerdo Ejecutivo STSS 557-20), establece las regulaciones y medidas que deben aplicarse para la pesca submarina, las cuales deben evitar daños a la salud y a la vida humana.
 
@@ -123,7 +123,7 @@ TERCERO:
 
 La Pesca de Investigación de langosta espinosa en el Caribe de Honduras se realizará por el método de buzos acreditados en la DIGEPESCA, previo a la verificación de Certificación emitida por el INFOP y a la verificación de que se cuente con el curso básico de seguridad de la DGMM.
 
-CUARTO: La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557- 20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humana.
+CUARTO: La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557-20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humana.
 
 QUINTO:
 

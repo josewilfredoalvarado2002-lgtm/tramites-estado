@@ -11,7 +11,7 @@ paginas: "A. 21 - 23"
 sumario: "Certificaciones, Acuerdos Nos. 032, 033"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241213-36714/download"
 extraido: "2026-11-14"
-huella: "fc46bbd8d97e56d7"
+huella: "31aa0a72ded68f96"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 032
@@ -29,7 +29,7 @@ huella: "fc46bbd8d97e56d7"
 
 EL INFRASCRITO, SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA EL ACUERDO N°. 032 CONTENIDO EN EL ACTA ORDINARIA No. 016 DE FECHA ONCE DE JULIO DEL AÑO DOS MIL VEINTICUATRO, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO N°.032.- CONSIDERANDO: Que la Municipalidad es el órgano gobierno que tiene como finalidad principal la administración del Municipio y existe para lograr el bienestar de sus habitantes, promover su desarrollo integral y preservar el medio ambiente.
+“ACUERDO N°. 032.- CONSIDERANDO: Que la Municipalidad es el órgano gobierno que tiene como finalidad principal la administración del Municipio y existe para lograr el bienestar de sus habitantes, promover su desarrollo integral y preservar el medio ambiente.
 
 CONSIDERANDO: Que corresponde a la Corporación Municipal la declaratoria de emergencia o calamidad pública en su jurisdicción, cuando fuere necesario y ordenar las medidas convenientes.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que los daños también incluyen atribuciones propias de la UNIDAD
 
 CONSIDERANDO: Que las Normas Presupuestarias vigentes de esta Alcaldía Municipal, ya tiene previsto los fondos de emergencia.
 
-CONSIDERANDO: Que conforme al Dictamen Legal GSL No.247-2024 emitido por la Abogada Rosa Irene Villela, Gerente de Servicios Legales, relaciona sucintamente los análisis de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO) y del Centro de Estudios Atmosféricos Oceánicos y Sísmicos, además el mismo dictamen relaciona los fundamentos de derechos que esta Corporación tiene las facultades para emitir un acuerdo de emergencia, en base a su competencia.
+CONSIDERANDO: Que conforme al Dictamen Legal GSL No. 247-2024 emitido por la Abogada Rosa Irene Villela, Gerente de Servicios Legales, relaciona sucintamente los análisis de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO) y del Centro de Estudios Atmosféricos Oceánicos y Sísmicos, además el mismo dictamen relaciona los fundamentos de derechos que esta Corporación tiene las facultades para emitir un acuerdo de emergencia, en base a su competencia.
 
 CONSIDERANDO: Que es urgente tomar las acciones pertinentes para atender la emergencia, brindar la atención adecuada a los albergados y realizar las obras de rehabilitación que fueren necesarias para la tranquilidad de los habitantes de la Capital.- POR TANTO: La Corporación del Municipio del Distrito Central POR UNANIMIDAD DE VOTOS, en uso de las facultades de que está investida y en aplicación de los artículos: 59, 295 y 360 segundo párrafo de la Constitución de la República; 12 numeral 2, 14 y 25 numeral 15 de la Ley de Municipalidades, Artículos 11 y 12 del Reglamento de la Ley de Municipalidades.
 

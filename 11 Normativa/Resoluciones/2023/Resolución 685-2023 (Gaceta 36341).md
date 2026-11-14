@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 685-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230923-36341/download"
 extraido: "2026-11-14"
-huella: "c40a84c986df5403"
+huella: "8a8b495c60fd97e0"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 685-2023
@@ -89,7 +89,7 @@ ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la 
 
 #### Artículo 6
 
-ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de pago de conexiones y tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a :1) Capacidad de pago.
+ARTÍCULO 6.- Para el logro de los objetivos indicados, la organización podrá realizar las siguientes actividades: a.- Recibir las aportaciones ordinarias en concepto de pago de conexiones y tarifa mensual por pagos del servicio de agua potable y extraordinaria en concepto de cuotas como ser actividades sin fines de lucro discutidas y aprobadas por la asamblea de usuarios con su firma respectiva en acta, categorización de la tarifa en base a:1) Capacidad de pago.
 
 \2) Número de familia por vivienda, 3) Número de llaves adicionales, 4) Otras consideraciones establecidas por la junta directiva de acuerdo a la inversión que se requiera hacer al sistema de agua potable y saneamiento estimado por la misma.- b.- Establecer programas de capacitación permanentes a fin de mejorar y mantener la salud de los abonados.- c.- Aumentar el patrimonio económico a fin de asegurar una buena operación y mantenimiento del sistema.- d.- Gestionar, canalizar y ejecutar recursos financieros de entes nacionales e internacionales.- e.- Coordinar y asociarse con otras juntas (Asociación de Juntas Administradoras de Agua a nivel Municipal (AJAAMTE) e instituciones públicas y privadas para mantener y mejorar el sistema.- f.- Promover la integración de la comunidad e involucrarla con el sistema.- g.- Conservar, vigilar, mantener y aumentar el área de la microcuenca cada año.- h.- Realizar cualquier actividad que tienda a mejorar la salud y/o a conservar el sistema de agua potable y saneamiento.-
 

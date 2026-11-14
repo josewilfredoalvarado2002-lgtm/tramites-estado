@@ -11,7 +11,7 @@ paginas: "A. 6 - 7"
 sumario: "Acuerdo número 474-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221027-36061/download"
 extraido: "2026-11-14"
-huella: "1447823f29dff875"
+huella: "da4c40f895a3d64f"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 474-2022
@@ -29,9 +29,7 @@ huella: "1447823f29dff875"
 
 Tegucigalpa, M.D.C., 21 de octubre de 2022 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 7-2022 de fecha 27 de enero del 2022, la señora Presidenta Constitucional de la República nombró a la ciudadana RIXI MONCADA GODOY, en el cargo de Secretaria de Estado en el Despacho de Finanzas.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos desconcentrados o de las instituciones descentralizadas, en el área de su competencia.
 
@@ -47,9 +45,7 @@ CONSIDERANDO: Que el artículo 24 del Reglamento de Organización, Funcionamient
 
 CONSIDERANDO: Que el artículo 31 de la Ley General de la Administración Pública señala: “En cada Secretaría de Estado habrá una Gerencia Administrativa, la que tendrá a su cargo, entre otras, funciones de administración presupuestaria, la administración de los recursos humanos y de los materiales y servicios generales, incluyendo la función de compras y suministros”, asimismo el artículo 36, numeral 12, de la citada ley, establece: “Son atribuciones y deberes comunes a los Secretarios de Estado: Ordenar los gastos de la Secretaría de Estado e intervenir en la tramitación de asignaciones adicionales y demás modificaciones del respectivo presupuesto”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-184-2022 de fecha 03 de marzo del 2022, se nombró al ciudadano JUAN ALBERTO MONCADA LAM, en el cargo de Gerente Administrativo de la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 184-2022 de fecha 03 de marzo del 2022, se nombró al ciudadano JUAN ALBERTO MONCADA LAM, en el cargo de Gerente Administrativo de la Secretaría de Estado en el Despacho de Finanzas.
 
 POR TANTO:
 

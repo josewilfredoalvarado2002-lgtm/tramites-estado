@@ -11,7 +11,7 @@ paginas: "A. 10 - 20"
 sumario: "Acuerdo Ejecutivo No. SETRASS-503-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260804-37211/download"
 extraido: "2026-11-09"
-huella: "d10663f965e7a647"
+huella: "24385ba60c3f5631"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SETRASS-503-2026
@@ -49,7 +49,7 @@ CONSIDERANDO (8): Que mediante Acuerdo Ejecutivo No. 047-2026 de fecha tres (3) 
 
 EVANGELINA ARGUETA CHINCHILLA, en calidad de miembro propietaria y RAMÓN MARÍN AGUILERA, en calidad de miembro suplente; asimismo, por el Consejo Hondureño de la Empresa Privada (COHEP), para que integren la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), en representación del Sector Empleador: GABRIEL ALBERTO MOLINA DELGADO, HELUI GUADALUPE CASTILLO HUNG Y VERA HILANE AZIZE AGUILAR, como Miembros Propietarios; PAOLA CELENIA DIAZ TOME, GUSTAVO RAFAEL SOLÓRZANO DIAZ y ELVIN OSMIN TORRES FLORES, como miembros suplentes; y, por el Colegio Médico de Honduras (CMH) para que integren la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), al ciudadano SAMUEL FRANCISCO SANTOS FUENTES, en calidad de miembro propietario y GLADYS ARGENTINA ORDOÑEZ ELVIR, en calidad de miembro suplente.
 
-CONSIDERANDO (9): Que, mediante Oficio No. 450-06- 26-DE, de fecha veinticinco (25) de junio de dos mil veintiséis (2026), el Director Ejecutivo del consejo Hondureño de la Empresa Privada, atendiendo lo establecido en los artículos 245 numeral 11 de la Constitución de la República, 55, 116 y 122 de la Ley General de la Administración Pública, 11 y 12 de la Ley del Seguro Social y su Reforma del Decreto Legislativo No. 80-2001 del 1 de junio del 2001 y en especial el artículo 57 en lo referente a Juntas Directivas, que expresa lo siguiente: "Cuando la ley prevea representantes del Sector Privado en las Juntas Directivas de los organismos autónomo, estos serán nombrados por el Presidente de la República", solicita a esta Secretaría de Estado, acreditar como delegada suplente en representación del sector empleador (patronal) ante la Junta Directiva del Instituto Hondureño del Seguro Social, derivado de la renuncia del Abogado GUSTAVO RAFAEL SOLORZANO DIAZ, a la Abogada YAZMINA ISABEL BANEGAS ORTEGA.
+CONSIDERANDO (9): Que, mediante Oficio No. 450-06-26-DE, de fecha veinticinco (25) de junio de dos mil veintiséis (2026), el Director Ejecutivo del consejo Hondureño de la Empresa Privada, atendiendo lo establecido en los artículos 245 numeral 11 de la Constitución de la República, 55, 116 y 122 de la Ley General de la Administración Pública, 11 y 12 de la Ley del Seguro Social y su Reforma del Decreto Legislativo No. 80-2001 del 1 de junio del 2001 y en especial el artículo 57 en lo referente a Juntas Directivas, que expresa lo siguiente: "Cuando la ley prevea representantes del Sector Privado en las Juntas Directivas de los organismos autónomo, estos serán nombrados por el Presidente de la República", solicita a esta Secretaría de Estado, acreditar como delegada suplente en representación del sector empleador (patronal) ante la Junta Directiva del Instituto Hondureño del Seguro Social, derivado de la renuncia del Abogado GUSTAVO RAFAEL SOLORZANO DIAZ, a la Abogada YAZMINA ISABEL BANEGAS ORTEGA.
 
 CONSIDERANDO (10): Que, mediante MEMORANDO SETRASS-0614-2026 de fecha catorce (14) de julio de dos mil veintiséis (2026), con instrucciones del Secretario de Estado, se solicita la elaboración del Acuerdo de Nombramiento de la Abogada YAZMINA ISABEL BANEGAS ORTEGA, como representante del Consejo Hondureño de la Empresa Privada (COHEP) ante la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS) en sustitución del Abogado Gustavo Rafael Solórzano Díaz.
 
@@ -73,7 +73,7 @@ Dado en la Ciudad de Tegucigalpa, M.D.C., Departamento de Francisco Morazán a l
 
 NASRY JUAN ASFURA ZABLAH
 
-Presidente Constitucional de la República FERNANDO PUERTO CASTRO Secretario de Estado en los Despachos de Trabajo y Seguridad Social Instituto de la Propiedad CERTIFICACIÓN, ACUERDO CD-IP No. 007-2026 El infrascrito, Secretario del Consejo Directivo del Instituto de la Propiedad, CERTIFICA el Acuerdo adoptado en la Sesión Ordinaria de Consejo Directivo No. 004-2026, el cual literalmente dice: “ACUERDO CD-IP No. 007- 2026. INSTITUTO DE LA PROPIEDAD, CONSEJO DIRECTIVO. Tegucigalpa, municipio del Distrito Central, a los once (11) días de julio de dos mil veintiséis (2026).
+Presidente Constitucional de la República FERNANDO PUERTO CASTRO Secretario de Estado en los Despachos de Trabajo y Seguridad Social Instituto de la Propiedad CERTIFICACIÓN, ACUERDO CD-IP No. 007-2026 El infrascrito, Secretario del Consejo Directivo del Instituto de la Propiedad, CERTIFICA el Acuerdo adoptado en la Sesión Ordinaria de Consejo Directivo No. 004-2026, el cual literalmente dice: “ACUERDO CD-IP No. 007-2026. INSTITUTO DE LA PROPIEDAD, CONSEJO DIRECTIVO. Tegucigalpa, municipio del Distrito Central, a los once (11) días de julio de dos mil veintiséis (2026).
 
 CONSIDERANDO: Que mediante artículo 4 del Decreto No. 82-2004 de fecha veintiocho (28) de mayo del año dos mil cuatro (2004), se creó el Instituto de la Propiedad como ente desconcentrado de la Presidencia de la República atribuyéndole personalidad jurídica y patrimonio propio, funcionando con independencia técnica, administrativa y financiera.
 

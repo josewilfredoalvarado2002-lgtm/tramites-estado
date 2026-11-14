@@ -8,7 +8,7 @@ gaceta_numero: 35201
 gaceta_fecha: "2020-03-16"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35201 (2020-03-16)|La Gaceta 35201]]"
 paginas: "A. 14 - 16"
-sumario: "Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020PRESIDENCIA DE LA REPÚBLICADecreto Ejecutivo No. 005-2020"
+sumario: "Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020; PRESIDENCIA DE LA REPÚBLICA: Decreto Ejecutivo No. 005-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200316-35201/download"
 extraido: "2026-11-14"
 huella: "3790d68d12e33264"
@@ -23,7 +23,7 @@ huella: "3790d68d12e33264"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35201 (2020-03-16)\|La Gaceta 35201]] del 2020-03-16 |
 | Páginas | A. 14 - 16 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020PRESIDENCIA DE LA REPÚBLICADecreto Ejecutivo No. 005-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-019-2020, 020-2020, 021-2020; PRESIDENCIA DE LA REPÚBLICA: Decreto Ejecutivo No. 005-2020 |
 
 ## Texto
 

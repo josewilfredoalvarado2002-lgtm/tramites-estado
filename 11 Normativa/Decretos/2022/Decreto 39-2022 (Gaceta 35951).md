@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 39-2022, 51-52, 52-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220616-35951/download"
 extraido: "2026-11-14"
-huella: "a099d0eb7df1e90f"
+huella: "e5611a52c8245d12"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 39-2022
@@ -51,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 1, 3, 8, 9 y 12 del Decreto No.146, contentivo de la LEY DE PROTECCION AL MOVIMIENTO SCOUT, publicado en el Diario Oficial “LA GACETA No. 17,026 de 11 de marzo de 1960, los cuales deberán leerse de la manera siguiente “ARTÍCULO 1.- Declarar de utilidad pública y otorgar el reconocimiento oficial de organización BENEMÉRITA a la ASOCIACIÓN NACIONAL DE SCOUT HONDURAS, miembro de la ORGANIZACIÓN MUNDIAL DEL MOVIMIENTO SCOUT, a la cual nos referiremos en el presente documento como la Asociación.
+ARTÍCULO 1.- Reformar los Artículos 1, 3, 8, 9 y 12 del Decreto No. 146, contentivo de la LEY DE PROTECCION AL MOVIMIENTO SCOUT, publicado en el Diario Oficial “LA GACETA No. 17,026 de 11 de marzo de 1960, los cuales deberán leerse de la manera siguiente “ARTÍCULO 1.- Declarar de utilidad pública y otorgar el reconocimiento oficial de organización BENEMÉRITA a la ASOCIACIÓN NACIONAL DE SCOUT HONDURAS, miembro de la ORGANIZACIÓN MUNDIAL DEL MOVIMIENTO SCOUT, a la cual nos referiremos en el presente documento como la Asociación.
 
 ARTÍCULO
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 65"
 sumario: "Acuerdo Ministerial No. 771-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210709-35651/download"
 extraido: "2026-11-14"
-huella: "92f1bb740900e191"
+huella: "c3e307b5a5174eab"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 771-2021
@@ -57,7 +57,7 @@ CAPÍTULO I
 
 #### Artículo 1
 
-Artículo 1.- Aprobar las “Políticas Nacionales de Biodiversidad de Honduras 2019-2029”, La actualización de la Política Nacional de Biodiversidad de Honduras responde a las prioridades nacionales que en materia ambiental han sido definidas en el nuevo Plan Estratégico de Gobierno 2018- 2022 “Honduras Avanza” y obviamente las existentes en la Visión de País 2010-2038, el Plan de Nación 2010-2022 y el Programa 2030.
+Artículo 1.- Aprobar las “Políticas Nacionales de Biodiversidad de Honduras 2019-2029”, La actualización de la Política Nacional de Biodiversidad de Honduras responde a las prioridades nacionales que en materia ambiental han sido definidas en el nuevo Plan Estratégico de Gobierno 2018-2022 “Honduras Avanza” y obviamente las existentes en la Visión de País 2010-2038, el Plan de Nación 2010-2022 y el Programa 2030.
 
 CONTENIDO
 
@@ -161,7 +161,7 @@ Para responder a los problemas identificados que sufre la biodiversidad nacional
 
 ▪ Convención de las Naciones Unidas sobre el Derecho del Mar, ratificado el 5 de octubre de 1993.
 
-▪ Convenio 169 de la Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes, ratificado el 28 de marzo de 1995 mediante Decreto No.26-94.
+▪ Convenio 169 de la Organización Internacional del Trabajo sobre Pueblos Indígenas y Tribales en Países Independientes, ratificado el 28 de marzo de 1995 mediante Decreto No. 26-94.
 
 ▪ Convención de la Naciones Unidas para el Cambio Climático (CMNUCC), ratificado 29 de Julio de 1995 mediante Decreto No 26-95.
 
@@ -195,13 +195,13 @@ Las leyes que dan fundamento a la Política Nacional de Biodiversidad son:
 
 ● Ley para la Protección del Patrimonio Cultural, Decreto Legislativo No. 220-97.
 
-● Ley para el Desarrollo Rural Sostenible, Decreto 12- 2000 y su reglamento
+● Ley para el Desarrollo Rural Sostenible, Decreto 12-2000 y su reglamento
 
 ● Ley de Ordenamiento Territorial, Decreto 180-2003.
 
 ● Ley Marco del Sector Agua Potable y Saneamiento, Decreto Legislativo No. 118-2003 y su Reglamento
 
-● Ley Fito Zoosanitaria, Decretos No. 157-94 y No. 344- 2005.
+● Ley Fito Zoosanitaria, Decretos No. 157-94 y No. 344-2005.
 
 ● Ley Forestal, Áreas Protegidas y Vida Silvestre, Decreto 98-2007 y su Reglamento
 
@@ -211,13 +211,13 @@ Las leyes que dan fundamento a la Política Nacional de Biodiversidad son:
 
 ● Ley Especial de Educación y Comunicación Ambiental, Decreto 158-2009
 
-● Ley General de Minería, Decreto Legislativo N°. 238- 2012.
+● Ley General de Minería, Decreto Legislativo N°. 238-2012.
 
 ● Ley de Pesca, Decreto 133-2013 y su reglamento.
 
 ● Ley de Cambio Climático, Decreto No. 297-2013.
 
-● Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, Decretos Legislativos 70- 2007 y No. 138-2013.
+● Ley de Promoción a la Generación de Energía Eléctrica con Recursos Renovables, Decretos Legislativos 70-2007 y No. 138-2013.
 
 ● Ley de Fortalecimiento de la Camaricultura, Decreto Legislativo No. 335-2013.
 
@@ -351,7 +351,7 @@ Ejes de la Política Nacional de Biodiversidad La Política Nacional de Biodiver
 
 Eje No. 1: Gobernanza y Fortalecimiento Institucional.
 
-El eje está alineado con el primer objetivo específico y cuenta con cuatro lineamientos de política, mediante los cuales se busca fortalecer la gobernanza que conduzca a la preservación de la biodiversidad; asimismo se espera impulsar la armonización, creación de instrumentos jurídicos y finalmente establecer mecanismos que eficiente las instituciones y estructuras de base involucradas. Se propone abordar la problemática de las instituciones en cuanto a sus capacidades técnicas y financieras, que limitan sus acciones en una respuesta efectiva y adecuada a las necesidades a nivel local, por lo que es 7 Las acciones por eje estratégico se detallan en el Plan de acción ítem 9 Pagina 47- 51 necesario continuar aunando esfuerzos entre los actores gubernamentales, gobiernos locales y no gubernamentales, que faciliten la gobernanza sobre la biodiversidad, incluyendo la gobernanza local de los pueblos indígenas y de afrodescendientes desde el conocimiento tradicional ecológico de estos pueblos.
+El eje está alineado con el primer objetivo específico y cuenta con cuatro lineamientos de política, mediante los cuales se busca fortalecer la gobernanza que conduzca a la preservación de la biodiversidad; asimismo se espera impulsar la armonización, creación de instrumentos jurídicos y finalmente establecer mecanismos que eficiente las instituciones y estructuras de base involucradas. Se propone abordar la problemática de las instituciones en cuanto a sus capacidades técnicas y financieras, que limitan sus acciones en una respuesta efectiva y adecuada a las necesidades a nivel local, por lo que es 7 Las acciones por eje estratégico se detallan en el Plan de acción ítem 9 Pagina 47-51 necesario continuar aunando esfuerzos entre los actores gubernamentales, gobiernos locales y no gubernamentales, que faciliten la gobernanza sobre la biodiversidad, incluyendo la gobernanza local de los pueblos indígenas y de afrodescendientes desde el conocimiento tradicional ecológico de estos pueblos.
 
 La articulación del marco legal nacional e institucional existente, señalado como una de las principales barreras para la implementación efectiva de políticas, programas y planes existentes deberán de armonizarse; como también identificar y formular normativas nuevas y complementarias que se enfoquen en temas y vacíos específicos.
 
@@ -371,7 +371,7 @@ Este eje de política responde al segundo objetivo específico y cuenta con tres
 
 Asimismo, promover el fortalecimiento de acciones y mecanismos nacionales que conlleven a la conservación de la diversidad biológica como el fortalecimiento del SINAPH, el ordenamiento territorial, normativas para la protección de ecosistemas esenciales, vulnerables, monitoreo e investigación sobre especies amenazadas y en peligro de extinción y de ecosistemas8.
 
-A su vez, hace énfasis en la necesidad de mejorar los esfuerzos nacionales encaminados hacia la investigación y educación del público en general permitiéndoles generar 8 Los mecanismos de Monitoreo y evaluación oportuno de la Biodiversidad a través de SIG se detallan en el ítem 8 Pág. 41- 44 consciencia sobre la importancia de conservar y proteger la diversidad biológica.
+A su vez, hace énfasis en la necesidad de mejorar los esfuerzos nacionales encaminados hacia la investigación y educación del público en general permitiéndoles generar 8 Los mecanismos de Monitoreo y evaluación oportuno de la Biodiversidad a través de SIG se detallan en el ítem 8 Pág. 41-44 consciencia sobre la importancia de conservar y proteger la diversidad biológica.
 
 Lineamientos:
 
@@ -393,7 +393,7 @@ Lineamientos:
 
 7. Financiamiento Fuentes de financiamiento para la ejecución de la Política Nacional de Biodiversidad9.
 
-La puesta en marcha de la Política Nacional de Biodiversidad requiere de la voluntad política mantenida por el gobierno al haber aprobado las leyes ambientales, forestales e hídricas, sumado al cumplimento de compromisos internacionales que en materia de biodiversidad y cambio climático ha refrendado en el Congreso de la República a través de los Convenios de Diversidad Biológica (CBD) y el Convenio Marco de las Naciones Unidas para el Cambio Climático (CMNUCC), la 9 El resumen de implementación de La Política por eje estratégico y con un estimado de costo por acción se detalla en el Plan de Inversión. ítem 10 pág. 52- 54 Convención Ramsar entre otros con el propósito de contribuir a la conservación y desarrollo sostenible de la biodiversidad En la última década, la mayoría del financiamiento invertido en la protección de la biodiversidad ha venido de la cooperación internacional, mediante la implementación de proyectos que contienen salvaguardas de biodiversidad entre otros.
+La puesta en marcha de la Política Nacional de Biodiversidad requiere de la voluntad política mantenida por el gobierno al haber aprobado las leyes ambientales, forestales e hídricas, sumado al cumplimento de compromisos internacionales que en materia de biodiversidad y cambio climático ha refrendado en el Congreso de la República a través de los Convenios de Diversidad Biológica (CBD) y el Convenio Marco de las Naciones Unidas para el Cambio Climático (CMNUCC), la 9 El resumen de implementación de La Política por eje estratégico y con un estimado de costo por acción se detalla en el Plan de Inversión. ítem 10 pág. 52-54 Convención Ramsar entre otros con el propósito de contribuir a la conservación y desarrollo sostenible de la biodiversidad En la última década, la mayoría del financiamiento invertido en la protección de la biodiversidad ha venido de la cooperación internacional, mediante la implementación de proyectos que contienen salvaguardas de biodiversidad entre otros.
 
 Sin embargo, la estructura institucional para la ejecución y monitoreo de esos proyectos y para el cumplimiento global de compromisos institucionales proviene del presupuesto nacional.
 
@@ -507,11 +507,11 @@ Cumplimiento de Plazo plazo Política Acciones Estratégicas Resultado Indicador
 
 No. de fondos gestionados para No. de certificados establecidos para brindar incentivos no brindar incentivos económicos en económicos distintos certificación para los distintos sectores financieros como Estableciendo un buenas prácticas implementando Biodiversidad biodiversidad incentivo a la mecanismos establecidos ambientales sistema de conservación de la 3.2.1 Crear y Fortalecer incentivos responsable sobre el uso sostenible de la biodiversidad. biodiversidad. de gestión consolidará e 3.2 El Estado económicos y no económicos sobre el uso sostenible de la biodiversidad. implementará incentivos flora y fauna enfocado en especies No. de instrumentos de No. de estudios poblacionales de planificación y manejo elaborados prioritarias realizados instrumentos de poblaciones de fauna de interés planificación, manejo y conservación de especies de flora y de las dinámicas de al conocimiento real biodiversidad en base comercial y biológico Definidos captura y estudios de 3.2.2 Establecer sostenible de la poblaciones para la definición de cuotas, vedas, moratorias de aprovechamiento biodiversidad.
 
-No de cadenas productivas Implementado estándares de No. de cuotas/ vedas establecidas sostenibilidad ambiental. producción sostenible conservación de biodiversidad y la bajo mecanismo de Cadenas de valor que favorecen la implementándose económico que 3.2.3 Fomentar las sostenible de la cadenas de valor favorezca el uso y aprovechamiento Biodiversidad 135,000 0 135,000 2019 2020 2021 2022 2023 2019 2020 2021 2022 2023 Indicador Responsable Metas/años Inversión/año (miles de Lempiras) 0 1 1 0 1 0 135,000 Política Nacional de Biodiversidad ,ICF, SAG, MiAmbiente Otros estrategias/program
+No de cadenas productivas Implementado estándares de No. de cuotas/ vedas establecidas sostenibilidad ambiental. producción sostenible conservación de biodiversidad y la bajo mecanismo de Cadenas de valor que favorecen la implementándose económico que 3.2.3 Fomentar las sostenible de la cadenas de valor favorezca el uso y aprovechamiento Biodiversidad 135,000 0 135,000 2019 2020 2021 2022 2023 2019 2020 2021 2022 2023 Indicador Responsable Metas/años Inversión/año (miles de Lempiras) 0 1 1 0 1 0 135,000 Política Nacional de Biodiversidad,ICF, SAG, MiAmbiente Otros estrategias/program
 
 10. Plan de Inversión Eje No. 1: Gobernanza y Fortalecimiento Institucional as elaborados No.de 1.1.1 Diseño e implementación de estrategias, programas y planes de reduzcan la alteración de los prevención de impactos que Acciones estratégicas ecosistemas.
 
-2 1 1 1 0 300,000 150,000 150,000 150,000 Mi Ambiente 0 5 5 5 5 0 120,000 120,000 120,000 120,000 firmados Mi Ambiente 0 2 2 2 2 0 70,000 70,000 70,000 70,000 ,ICF, SAG, MiAmbiente Otros No. instrumentos y No. de convenios No. de instituciones y implementadas organizaciones capacitadas prácticas civil, pueblos indígenas, preservación de la biodiversidad y los tradicionales y culturales de los pueblos indígenas y afrodescendientes para la y ejecución en la conservación de la 1.1.4 Fortalecer la capacidad 1.1.2 Rescatar, reconocer, respetar y preservar los conocimientos institucional de planificación, gestión 1.1.3 Generar compromisos entre el gobierno, sector privado, sociedad diversidad biológica. servicios eco sistémico. afrodescendientes 0 1 1 0 1 0 135,000 135,000 0 135,000 0 1 1 0 1 0 35,000 35,000 o 35,000 0 1 1 1 1 0 60,000 60,000 60,000 60,000 ICF, SAG, ICF, SAG, ICF, SAG, Mi Ambiente, Mi Ambiente, Mi Ambiente, otros otros otros armonizados en convenios revisados y No. de Talleres e No de acuerdos y Planes elaborados y No. de Estrategias y cumplimiento. en ejecución capacitadas instancias vinculación con los convenios climático (CMNUCC) y instancias del Poder Judicial en Desertificación y sequía (UNCCD), internacionales afines como 1.2.2 Fortalecer las capacidades e 1.2.1 Promover las sinergias entre el marco jurídico nacional y su Diversidad Biológica (CDB), Cambio el marco de la conservación de la para alcanzar objetivos comunes en materia ambiental. biodiversidad.
+2 1 1 1 0 300,000 150,000 150,000 150,000 Mi Ambiente 0 5 5 5 5 0 120,000 120,000 120,000 120,000 firmados Mi Ambiente 0 2 2 2 2 0 70,000 70,000 70,000 70,000,ICF, SAG, MiAmbiente Otros No. instrumentos y No. de convenios No. de instituciones y implementadas organizaciones capacitadas prácticas civil, pueblos indígenas, preservación de la biodiversidad y los tradicionales y culturales de los pueblos indígenas y afrodescendientes para la y ejecución en la conservación de la 1.1.4 Fortalecer la capacidad 1.1.2 Rescatar, reconocer, respetar y preservar los conocimientos institucional de planificación, gestión 1.1.3 Generar compromisos entre el gobierno, sector privado, sociedad diversidad biológica. servicios eco sistémico. afrodescendientes 0 1 1 0 1 0 135,000 135,000 0 135,000 0 1 1 0 1 0 35,000 35,000 o 35,000 0 1 1 1 1 0 60,000 60,000 60,000 60,000 ICF, SAG, ICF, SAG, ICF, SAG, Mi Ambiente, Mi Ambiente, Mi Ambiente, otros otros otros armonizados en convenios revisados y No. de Talleres e No de acuerdos y Planes elaborados y No. de Estrategias y cumplimiento. en ejecución capacitadas instancias vinculación con los convenios climático (CMNUCC) y instancias del Poder Judicial en Desertificación y sequía (UNCCD), internacionales afines como 1.2.2 Fortalecer las capacidades e 1.2.1 Promover las sinergias entre el marco jurídico nacional y su Diversidad Biológica (CDB), Cambio el marco de la conservación de la para alcanzar objetivos comunes en materia ambiental. biodiversidad.
 
 SUB TOTAL
 

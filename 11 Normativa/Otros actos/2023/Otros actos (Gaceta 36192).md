@@ -11,7 +11,7 @@ paginas: "A. 1 - 36"
 sumario: "Acuerdos DNII-No. 015-2023, DNII-No. 040-202"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230329-36192/download"
 extraido: "2026-11-14"
-huella: "209e339b57ea83e1"
+huella: "aae3e2826601ec18"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos DNII-No. 015-2023, DNII-No. 040-202
@@ -53,9 +53,7 @@ CONSIDERANDO: Que la Constitución de la República establece que: “Los servid
 
 Todo acto que ejecuten fuera de la ley es nulo e implica responsabilidad”; “los funcionarios son depositarios de la autoridad, responsables legalmente por su conducta oficial, sujetos a la ley y jamás superiores a ella.” De conformidad con los artículos 321 y 323.
 
-CONSIDERANDO: Que en el Diario Oficial “La Gaceta”, Número 35,130, de fecha veintiuno (21) de diciembre del año dos mil diecinueve (2019), se publicó el ACUERDO No.
-
-DNII-RH-002-2019, contentivo del “ESTATUTO DE LA CARRERA DE EMPLEADOS Y FUNCIONARIOS DE LA DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA”, el cual obedeciendo el mandato legal contiene funciones, definiciones, régimen laboral, entre otros; no obstante, a pesar de englobar los procedimientos institucionales, el mismo requiere una actualización, para ampliar y adecuar su marco legal a las necesidades de la DNII y protección de los derechos individuales de los empleados al tenor de los Artículos 3, 24 y 32 de la Ley de Inteligencia Nacional.
+CONSIDERANDO: Que en el Diario Oficial “La Gaceta”, Número 35,130, de fecha veintiuno (21) de diciembre del año dos mil diecinueve (2019), se publicó el ACUERDO No. DNII-RH-002-2019, contentivo del “ESTATUTO DE LA CARRERA DE EMPLEADOS Y FUNCIONARIOS DE LA DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA”, el cual obedeciendo el mandato legal contiene funciones, definiciones, régimen laboral, entre otros; no obstante, a pesar de englobar los procedimientos institucionales, el mismo requiere una actualización, para ampliar y adecuar su marco legal a las necesidades de la DNII y protección de los derechos individuales de los empleados al tenor de los Artículos 3, 24 y 32 de la Ley de Inteligencia Nacional.
 
 POR TANTO:
 
@@ -1285,7 +1283,7 @@ CAPÍTULO II VIGENCIA
 
 #### Artículo 108
 
-ARTÍCULO 108.- A la entrada en vigencia del presente ESTATUTO DE LA CARRERA DE EMPLEADOS Y FUNCIONARIOS DE LA DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA (DNII), creado mediante ACUERDO DNII-No.015-2023 de fecha trece
+ARTÍCULO 108.- A la entrada en vigencia del presente ESTATUTO DE LA CARRERA DE EMPLEADOS Y FUNCIONARIOS DE LA DIRECCIÓN NACIONAL DE INVESTIGACIÓN E INTELIGENCIA (DNII), creado mediante ACUERDO DNII-No. 015-2023 de fecha trece
 
 (13) de febrero del año dos mil veintitrés (2023), se ordena socializarlo a través del órgano institucional competente, para que todas las Divisiones y Unidades de la Dirección Nacional de Investigación e Inteligencia (DNII), observen y adecuen sus procedimientos a las disposiciones establecidas en el mismo.
 
@@ -1323,7 +1321,7 @@ CONSIDERANDO: Que la Ley de Inteligencia Nacional dispone en el “Artículo 1: 
 
 CONSIDERANDO: Que el Artículo 3 de la Ley de Inteligencia Nacional establece: “En el cumplimiento de sus obligaciones legales, la Dirección Nacional de Investigación e Inteligencia, operará como un ente desconcentrado del Consejo Nacional de Defensa y Seguridad y gozará de independencia funcional, administrativa y presupuestaria; para lo cual la Secretaría de Estado en el Despacho de Finanzas, realizará las previsiones presupuestarias correspondientes de acuerdo al Artículo 10 de la Ley Especial del Consejo Nacional de Defensa y Seguridad”.
 
-CONSIDERANDO: Que mediante Decreto Legislativo Número 239-2011 del 8 de diciembre del 2011 y publicado en el Diario Oficial ¨LA GACETA¨ No.32,692, del 12 de diciembre del año 2011, se crea la Ley Especial del Consejo Nacional de Defensa y Seguridad, este como el máximo órgano permanente, encargado de rectorar, diseñar y supervisar las políticas generales en materia de Seguridad, Defensa Nacional e Inteligencia.
+CONSIDERANDO: Que mediante Decreto Legislativo Número 239-2011 del 8 de diciembre del 2011 y publicado en el Diario Oficial ¨LA GACETA¨ No. 32,692, del 12 de diciembre del año 2011, se crea la Ley Especial del Consejo Nacional de Defensa y Seguridad, este como el máximo órgano permanente, encargado de rectorar, diseñar y supervisar las políticas generales en materia de Seguridad, Defensa Nacional e Inteligencia.
 
 CONSIDERANDO: Que mediante Decreto Legislativo 211-2012 de fecha 18 de enero del 2013, publicado en el Diario Oficial “La Gaceta” No. 33,099, de fecha 15 de abril del 2013, se crea la Dirección Nacional de Investigación e Inteligencia, con el objeto de desarrollar actividades de investigación e inteligencia estratégica para proteger los derechos y libertades de los ciudadanos y residentes en el país, prevenir y contrarrestar amenazas internas o externas contra el orden constitucional y ejecutar las políticas públicas que en materia de defensa y seguridad establezca el Consejo Nacional de Defensa y Seguridad.
 

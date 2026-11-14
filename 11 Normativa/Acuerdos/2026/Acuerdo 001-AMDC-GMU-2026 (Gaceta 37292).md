@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdos Nos. 001-AMDC-DM-2026, 002-AMDC-DM-2026, 003-AMDC-DM-2026, 004-AMDC-DM-2026, 005-AMDC-DM-2026, 006-AMDC-DM-2026, 012-AMDC-DM-2026, 013-AMDC-DM-2026, 001-AMDC-SM-2026, 002-AMDC-SM-2026, 003-AMDC-SM-2026, 001-AMDC-UGA-2026, 001-AMDC-GMU-2026Certificaciones de los Acuerdos Nos. 035-2026, 057-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261111-37292/download"
 extraido: "2026-11-13"
-huella: "a0e0a0a520ac6647"
+huella: "569d6cc9b399b553"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-AMDC-GMU-2026
@@ -35,9 +35,7 @@ CONSIDERANDO: Que, de conformidad con el Manual de Puestos y Funciones, dentro d
 
 CONSIDERANDO: Que, para lograr mayor eficiencia en la Administración General de la Municipalidad del Distrito Central, se hace necesario implementar mecanismos y soluciones que faciliten los procesos administrativos dentro del marco de lo establecido en la Ley de Municipalidades, Ley de Procedimiento Administrativo, Ley de Simplificación Administrativa, Ley de Carrera Administrativa Municipal y su Reglamento, Plan de Arbitrios vigente, Normas presupuestarias vigentes y demás legislación aplicable a la función municipal.
 
-CONSIDERANDO: Que en fecha 16 de abril de 2026, se nombró a la ciudadana CARMEN SUYAPA ALVARADO ROSALES, con Documento Nacional de Identificación No.
-
-0801 1992 01384, como Subgerente de Movilidad Urbana de la Alcaldía Municipal del Distrito Central.
+CONSIDERANDO: Que en fecha 16 de abril de 2026, se nombró a la ciudadana CARMEN SUYAPA ALVARADO ROSALES, con Documento Nacional de Identificación No. 0801 1992 01384, como Subgerente de Movilidad Urbana de la Alcaldía Municipal del Distrito Central.
 
 CONSIDERANDO: Que el artículo 4 de la Ley de Procedimiento Administrativo, establece que el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inferior; asimismo, el artículo 5 de la citada ley, dispone que el acto de delegación deberá de indicar el órgano delegante, el objeto de la delegación y el órgano delegado, determinando además que la responsabilidad que se derivare de la emisión de los actos será plenamente imputable al órgano delegado.
 

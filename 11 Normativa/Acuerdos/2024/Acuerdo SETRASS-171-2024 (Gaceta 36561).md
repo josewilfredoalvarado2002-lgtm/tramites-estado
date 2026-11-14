@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Acuerdo No. SETRASS-171-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240615-36561/download"
 extraido: "2026-11-14"
-huella: "fe9ba3982720a240"
+huella: "8c3da90988fb94f5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-171-2024
@@ -29,9 +29,7 @@ huella: "fe9ba3982720a240"
 
 LA SECRETARIA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL.- PRESIDENTA DE LA JUNTA DIRECTIVA DEL INSTITUTO HONDUREÑO DE SEGURIDAD SOCIAL.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado, entre otras facultades la potestad para nombrar o cancelar al Director Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 96-2022 de fecha 16 de febrero del año 2022, la Presidencia de la República delegó a esta Secretaría de Estado, entre otras facultades la potestad para nombrar o cancelar al Director Ejecutivo del Instituto Hondureño de Seguridad Social (IHSS).
 
 CONSIDERANDO: Que mediante Oficio No. 326-2024-DEIHSS, de fecha 27 de mayo del 2024 el Doctor Carlos Roberto Aguilar Pineda presentó ante la Abogada Lesly Sarahí Cerna Secretaria de Estado en los Despachos de Trabajo y Seguridad y Presidenta de la Junta Directiva del Instituto Hondureño de Seguridad Social (IHSS), renuncia irrevocable como Director Ejecutivo del Institutito Hondureño de Seguridad Social, efectiva a partir del 27 de mayo del año 2024.
 
@@ -67,13 +65,13 @@ CONSIDERANDO: Que la NIMF No. 19 Directrices sobre las Listas de Plagas Reglamen
 
 CONSIDERANDO: Que la actualización y publicación de la Lista de Plagas Reglamentadas de Honduras obedece a los compromisos adquiridos, mediante el PROTOCOLO HABILITANTE PARA EL PROCESO DE INTEGRACIÓN PROFUNDA HACIA EL LIBRE TRANSITO DE MERCANCIAS Y DE PERSONAS NATURALES ENTRE LAS REPUBLICAS DE GUATEMALA Y HONDURAS Decreto No. 144-2015, LA INSTANCIA MINISTERIAL DE LA UNION ADUANERA ENTRE LAS REPUBLICAS DE EL SALVADOR, LA REPUBLICA DE GUATEMALA Y LA REPUBLICA DE HONDURAS Resolución Instancia Ministerial – UA No. 53-2019 donde se adhiere la República de El Salvador.
 
-CONSIDERANDO: Que la Ley Fito zoosanitaria DECRETO Nº 157-94 en su reforma DECRETO Nº 344- 2005 publicada en el Diario Oficial LA GACETA No. 30922 del 07 de febrero del 2006, en su Artículo 12 (h) establece que la Secretaría de Agricultura y Ganadería (SAG) a través del SENASA, será la responsable por la declaración y el reconocimiento de áreas libres de plaga y sitios de producción libres de plagas incluyendo la agricultura bajo techo, así como la elaboración del listado oficial de plagas reportadas en Honduras y de plagas de importancia cuarentenaria.
+CONSIDERANDO: Que la Ley Fito zoosanitaria DECRETO Nº 157-94 en su reforma DECRETO Nº 344-2005 publicada en el Diario Oficial LA GACETA No. 30922 del 07 de febrero del 2006, en su Artículo 12 (h) establece que la Secretaría de Agricultura y Ganadería (SAG) a través del SENASA, será la responsable por la declaración y el reconocimiento de áreas libres de plaga y sitios de producción libres de plagas incluyendo la agricultura bajo techo, así como la elaboración del listado oficial de plagas reportadas en Honduras y de plagas de importancia cuarentenaria.
 
-CONSIDERANDO: Que es necesario actualizar el Listado de Plagas Reglamentadas y de Plagas Presentes Bajo Control Oficial en conformidad al Reglamento de Diagnostico, Vigilancia y Campañas Fitosanitarias ACUERDO No. 002- 98 publicado en el Diario Oficial LA GACETA No.28,687 del 10 de octubre de 1998 en sus Artículos 88, 89, 90, 91, 92, 93, 94 y 95, en el cual se establece que el Departamento de Diagnostico, Vigilancia y Campañas Fitosanitarias, elaborará y mantendrá actualizado el listado de plagas, así mismo, en base al inventario de plagas, se encargará de realizar los Análisis de Riesgo correspondientes para cada una de ellas.
+CONSIDERANDO: Que es necesario actualizar el Listado de Plagas Reglamentadas y de Plagas Presentes Bajo Control Oficial en conformidad al Reglamento de Diagnostico, Vigilancia y Campañas Fitosanitarias ACUERDO No. 002-98 publicado en el Diario Oficial LA GACETA No. 28,687 del 10 de octubre de 1998 en sus Artículos 88, 89, 90, 91, 92, 93, 94 y 95, en el cual se establece que el Departamento de Diagnostico, Vigilancia y Campañas Fitosanitarias, elaborará y mantendrá actualizado el listado de plagas, así mismo, en base al inventario de plagas, se encargará de realizar los Análisis de Riesgo correspondientes para cada una de ellas.
 
 POR TANTO.
 
-En aplicación del Artículo 245 No. 11 Constitución de la República, Artículos 116 y 118 Ley General de la Administración Pública, la Ley Fito zoosanitaria Decreto 157-94 y su reforma Decreto 344-05; Artículos 12,17 y 22; Artículo 4 DECRETO EJECUTIVO NUMERO PCM- 015-2020 de la Creación del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA); Reglamento de Diagnóstico Vigilancia y Campañas Fitosanitarias, Acuerdo No. 002-98 Artículos 88, 89, 90, 91, 92, 93, 94 y 95.
+En aplicación del Artículo 245 No. 11 Constitución de la República, Artículos 116 y 118 Ley General de la Administración Pública, la Ley Fito zoosanitaria Decreto 157-94 y su reforma Decreto 344-05; Artículos 12,17 y 22; Artículo 4 DECRETO EJECUTIVO NUMERO PCM-015-2020 de la Creación del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA); Reglamento de Diagnóstico Vigilancia y Campañas Fitosanitarias, Acuerdo No. 002-98 Artículos 88, 89, 90, 91, 92, 93, 94 y 95.
 
 ACUERDA:
 
@@ -1159,7 +1157,7 @@ Maleza Ausente: no hay registros de la
 
 437. Ditylenchus angustus (Butler) Filipjev Nematodo Ausente: no hay registros de la plaga plaga
 
-435. Bursaphelenchus xylophilus (Steiner & Buhrer) DE SHALLOT, GINSENG (RAIZ FRESCA PARA AJO, HARINA DE ALFALFA, PLANTAS DE PHLOX, PUERRO, SEMILLA DE FRESA, BULBOS DE TULIPAN, REMOLACHA AZUCARERA, PLANTAS DE BEGONIA, GRANO, SEMILLA DE RABANO, SEMILLA DE SEMILLA DE COLZA/NABO, SEMILLA DE NABO, PASTO cv. GP3025 CAMELLO, SEMILLA DE PASTO SEMILLA DE RABANO, SEMILLA DE GUISANTE, SEMILLA DE RUTABAGA, SEMILLA DE ACELGA CLAVEL, SEMILLA DE DIANTHUS, SEMILLA DE CAYMAN, SEMILLA DE PASTO COBRA, SEMILLA DE APIO, CEBOLLA FRESCA, CEBOLLINO, CANOLA EN GIRASOL, SEMILLA DE PHLOX, FRIJOL, SEMILLA DE CONSUMO), ESQUEJES DE CAMOTE, SEMILLA DE MESTIZO, SEMILLA DE PASTO MULATO II, SEMILLA SEMILLA DE AVENA, SEMILLA DE REMOLACHA, SEMILLA DE BEGONIA, SEMILLA DE PASTO VERDE, SEMILLA DE EJOTE, ESQUEJES DE PHLOX, SEMILLA DE CEBOLLA , GRANO DE ALFALFA, DE PUERRO, SEMILLA DE AJO, SEMILLA DE ARVEJA, ESQUEJES DE FRESA, SEMILLA DE ARROZ, TABACO (HOJA SECA), SEMILLA DE NICOTIANA, HORTENCIA/HYDRANGEA, ESQUEJES DE SEMILLA DE MAIZ, ESQUEJES DE ESQUEJES DE BEGONIA, SEMILLA DE PUERRO, ESTOLONES DE FRESA, PLANTITAS DE FRESA, BULBOS DE GLADIOLAS, BULBOS DE LILIUM, PHLOX, SEMILLA DE ALFALFA, FRIJOL, SEMILLA DIANTHUS, SEMILLA DE GIRASOL, SEMILLA DE SEMILLA DE PAPA, SEMILLA DE CEBOLLIN AJO, STEVIA, SEMILLA DE MAIZ DULCE, SEMILLA DE NICOTIANA, SEMILLA DE CLAVEL, SEMILLA DE SEMILLA DE CHIVE (CEBOLLINO), ESQUEJES DE SEMILLA DE TABACO
+435. Bursaphelenchus xylophilus (Steiner & Buhrer) DE SHALLOT, GINSENG (RAIZ FRESCA PARA AJO, HARINA DE ALFALFA, PLANTAS DE PHLOX, PUERRO, SEMILLA DE FRESA, BULBOS DE TULIPAN, REMOLACHA AZUCARERA, PLANTAS DE BEGONIA, GRANO, SEMILLA DE RABANO, SEMILLA DE SEMILLA DE COLZA/NABO, SEMILLA DE NABO, PASTO cv. GP3025 CAMELLO, SEMILLA DE PASTO SEMILLA DE RABANO, SEMILLA DE GUISANTE, SEMILLA DE RUTABAGA, SEMILLA DE ACELGA CLAVEL, SEMILLA DE DIANTHUS, SEMILLA DE CAYMAN, SEMILLA DE PASTO COBRA, SEMILLA DE APIO, CEBOLLA FRESCA, CEBOLLINO, CANOLA EN GIRASOL, SEMILLA DE PHLOX, FRIJOL, SEMILLA DE CONSUMO), ESQUEJES DE CAMOTE, SEMILLA DE MESTIZO, SEMILLA DE PASTO MULATO II, SEMILLA SEMILLA DE AVENA, SEMILLA DE REMOLACHA, SEMILLA DE BEGONIA, SEMILLA DE PASTO VERDE, SEMILLA DE EJOTE, ESQUEJES DE PHLOX, SEMILLA DE CEBOLLA, GRANO DE ALFALFA, DE PUERRO, SEMILLA DE AJO, SEMILLA DE ARVEJA, ESQUEJES DE FRESA, SEMILLA DE ARROZ, TABACO (HOJA SECA), SEMILLA DE NICOTIANA, HORTENCIA/HYDRANGEA, ESQUEJES DE SEMILLA DE MAIZ, ESQUEJES DE ESQUEJES DE BEGONIA, SEMILLA DE PUERRO, ESTOLONES DE FRESA, PLANTITAS DE FRESA, BULBOS DE GLADIOLAS, BULBOS DE LILIUM, PHLOX, SEMILLA DE ALFALFA, FRIJOL, SEMILLA DIANTHUS, SEMILLA DE GIRASOL, SEMILLA DE SEMILLA DE PAPA, SEMILLA DE CEBOLLIN AJO, STEVIA, SEMILLA DE MAIZ DULCE, SEMILLA DE NICOTIANA, SEMILLA DE CLAVEL, SEMILLA DE SEMILLA DE CHIVE (CEBOLLINO), ESQUEJES DE SEMILLA DE TABACO
 
 439. Ditylenchus dipsaci (Kuehn) Filipjev Nematodo Ausente: no hay registros de la plaga CEBOLLIN, HARINA DE ALFALFA, PLANTAS DE SHALLOT,BULBOS DE TULIPAN, GINSENG (RAIZ COLZA/NABO, SEMILLA DE NABO, SEMILLA DE RABANO, SEMILLA DE GUISANTE, SEMILLA DE PHLOX, ESQUEJES DE PHLOX, SEMILLA DE DE FRESA, PLANTAS DE BEGONIA, SEMILLA DE DE BEGONIA, ESQUEJES DE STEVIA, SEMILLA DE SEMILLA DE EJOTE, SEMILLA DE HABA, ESQUEJES SEMILLA DE APIO, CANOLA EN GRANO, ESQUEJES ARROZ, BULBOS DE GLADIOLAS, SEMILLA DE FRESCA PARA CONSUMO), ESQUEJES DE CAMOTE, REMOLACHA, SEMILLA DE AVENA, SEMILLA DE FRESA, PLANTITAS DE FRESA, SEMILLA DE BEGONIA, SEMILLA DE PASTO SEMILLA DE ARVEJA, BULBOS DE LILIUM, ESTOLONES DE RUTABAGA, SEMILLA DE CHIVE (CEBOLLINO), FRESA, SEMILLA DE ACELGA VERDE, SEMILLA DE TABACO plaga AJONJOLI DESCORTEZADO plaga PLANTITAS DE DURAZNO plaga SEMILLA DE PAPA plaga SEMILLA DE PAPA plaga plaga plaga plaga plaga
 
@@ -1387,7 +1385,7 @@ Situación.
 
 Articulo Reglamentado. Legislación vigente. importación y comercialización de semilla de papa (Solanum tuberosum). control oficial Semilla de papa.
 
-ACUERDO No.873-2009, Reglamento Técnico para la Producción, SANDIA) plaga plaga plaga
+ACUERDO No. 873-2009, Reglamento Técnico para la Producción, SANDIA) plaga plaga plaga
 
 546. Wheat streak mosaic virus (WSMV00) Virus Ausente: no hay registros de la (WCLaV-1) Virus Ausente: no hay registros de la (WCLaV-2) Virus Ausente: no hay registros de la
 
@@ -1597,7 +1595,7 @@ En aplicación al Artículo 245 numeral 11 de la Constitución de la Republica, 
 
 ACUERDA:
 
-PRIMERO: Modificar por adición el REGLAMENTO SOBRE EL REGISTRO, USO Y CONTROL DE PRODUCTOS FITOSANITARIOS ACUERDO 002- 2023, adicionando el capítulo III DISPOSICIONES TRANSITORIAS y el artículo 183 el cual se leerá así:
+PRIMERO: Modificar por adición el REGLAMENTO SOBRE EL REGISTRO, USO Y CONTROL DE PRODUCTOS FITOSANITARIOS ACUERDO 002-2023, adicionando el capítulo III DISPOSICIONES TRANSITORIAS y el artículo 183 el cual se leerá así:
 
 CAPITULO III DISPOSICIÓN TRANSITORIA
 

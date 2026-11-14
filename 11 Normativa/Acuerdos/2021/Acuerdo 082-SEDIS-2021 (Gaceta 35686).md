@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdo Ministerial número 082-SEDIS-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210813-35686/download"
 extraido: "2026-11-14"
-huella: "04771e29265840c1"
+huella: "c74a38badc2b96eb"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO 082-SEDIS-2021
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo e Inclus
 
 CONSIDERANDO: Que la Ley de Ingresos Complementarios en Zonas Rurales y Urbano Marginales, es de orden público e interés social, y declara de prioridad nacional la complementación de ingresos de la población de las zonas rurales y urbano marginales del país, mediante la ejecución de proyectos que propicien la mejora en sus condiciones de vida; y establece que los lineamiento metodológicos, operativos y de seguimiento y evaluación que permitan asegurar el éxito en la ejecución de los programas, proyectos y actividades propuestos, estará a cargo de un Ente Regulador cuyo funcionamiento se desarrollará en el Reglamento respectivo y será presidido por la Secretaría de Desarrollo e Inclusión Social.
 
-CONSIDERANDO: Que el Decreto Legislativo 278- 2013 de fecha 21 de diciembre 2013, que crea la “Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti evasión”, constituye el ‘‘FONDO DE SOLIDARIDAD Y PROTECCION SOCIAL PARA LA REDUCCIÓN DE LA POBREZA’’, que es manejado mediante Fideicomiso y destinado exclusivamente para garantizar la continuidad y ampliación de programas y proyectos sociales impulsados por la Presidencia de la República a través de la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social.
+CONSIDERANDO: Que el Decreto Legislativo 278-2013 de fecha 21 de diciembre 2013, que crea la “Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti evasión”, constituye el ‘‘FONDO DE SOLIDARIDAD Y PROTECCION SOCIAL PARA LA REDUCCIÓN DE LA POBREZA’’, que es manejado mediante Fideicomiso y destinado exclusivamente para garantizar la continuidad y ampliación de programas y proyectos sociales impulsados por la Presidencia de la República a través de la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social.
 
 POR TANTO:
 
@@ -77,7 +77,7 @@ Para los efectos de estos beneficios adicionales la SEDIS, deberá de suscribir 
 
 SEGUNDO. - Se autoriza a la Subsecretaría de Asuntos Administrativos, para incorporar al Plan Operativo y Presupuestario del Fideicomiso, los montos de incremento del beneficio que serán sufragados con el Fondo de Solidaridad y Protección Social para la Reducción de la Pobreza y sea presentado al Comité Técnico del Fideicomiso para su aprobación.
 
-TERCERO. - Quedan vigentes todas las disposiciones contenidas en los Acuerdos Ministeriales No.047-SEDIS-2019 y 029-SEDIS-2020, siempre y cuando no contravengan las normas establecidas en el presente instrumento legal.
+TERCERO. - Quedan vigentes todas las disposiciones contenidas en los Acuerdos Ministeriales No. 047-SEDIS-2019 y 029-SEDIS-2020, siempre y cuando no contravengan las normas establecidas en el presente instrumento legal.
 
 CUARTO. - Para los efectos legales pertinentes, el presente Acuerdo deberá ser publicado en el Diario Oficial “La Gaceta”.
 

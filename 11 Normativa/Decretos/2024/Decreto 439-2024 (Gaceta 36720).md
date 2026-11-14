@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Decreto Ejecutivo Número PCM 40-2024Acuerdo Ejecutivo Número 439-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241220-36720-2/download"
 extraido: "2026-11-14"
-huella: "c6d0ee897c014cff"
+huella: "ef8699c1e46854b3"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO 439-2024
@@ -47,7 +47,7 @@ No obstante, como resultado de una negociación, se obtuvo una reducción en el 
 
 CONSIDERANDO: Que la Administración Aduanera de Honduras (ADUANAS) cuenta con los recursos presupuestarios para proceder con la adquisición el bien inmueble descrito anteriormente, siendo que el mismo, es óptimo para contribuir con el cumplimiento de sus objetivos institucionales en el ámbito aduanero y para facilitar el comercio.
 
-POR TANTO, En aplicación de los artículos 235 y 245 numerales 2) y 11) de la Constitución de la República de Honduras; artículo 195 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario; artículos 116, 118 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 47- 2015 publicado en el Diario Oficial “La Gaceta” en fecha 14 de Septiembre del 2015; Decreto Ejecutivo No. PCM 083-2016 publicado en el Diario Oficial “La Gaceta” en fecha 22 de noviembre del 2016; Decreto Ejecutivo No. PCM-059-2019 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre del 2019; Resolución No. DNBE-DE-226-2024 de fecha dieciséis (16) de octubre del dos mil veinticuatro (2024); y demás aplicables.
+POR TANTO, En aplicación de los artículos 235 y 245 numerales 2) y 11) de la Constitución de la República de Honduras; artículo 195 del Decreto Legislativo No. 170-2016 contentivo del Código Tributario; artículos 116, 118 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 47-2015 publicado en el Diario Oficial “La Gaceta” en fecha 14 de Septiembre del 2015; Decreto Ejecutivo No. PCM 083-2016 publicado en el Diario Oficial “La Gaceta” en fecha 22 de noviembre del 2016; Decreto Ejecutivo No. PCM-059-2019 publicado en el Diario Oficial “La Gaceta” en fecha 30 de septiembre del 2019; Resolución No. DNBE-DE-226-2024 de fecha dieciséis (16) de octubre del dos mil veinticuatro (2024); y demás aplicables.
 
 ACUERDA:
 

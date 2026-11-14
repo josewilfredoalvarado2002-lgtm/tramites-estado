@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo No. 270-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220606-35942/download"
 extraido: "2026-11-14"
-huella: "e3629c382272580d"
+huella: "e2cfc4f25208b4a0"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUITVO No. 270-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en el artículo 9, numeral 3, del Regl
 
 Por Tanto:
 
-En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 35, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

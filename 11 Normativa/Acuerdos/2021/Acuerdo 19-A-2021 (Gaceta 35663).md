@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 19-A-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210721-35663/download"
 extraido: "2026-11-14"
-huella: "498d8d3c16c25e28"
+huella: "bc457e0fba18aa21"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 19-A-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 19-2021 de fecha 20 de enero de
 
 POR TANTO;
 
-En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

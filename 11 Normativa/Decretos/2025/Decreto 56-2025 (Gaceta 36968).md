@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decreto No. 56-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251015-36968/download"
 extraido: "2026-11-09"
-huella: "679a61f4053fe963"
+huella: "6b149316ac7dfb27"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 56-2025
@@ -39,13 +39,13 @@ CONSIDERANDO: Que el municipio de Danlí, con una población de 229,904 habitant
 
 CONSIDERANDO: Que la Alcaldía Municipal de Danlí, en vista de las necesidades urgentes para la adquisición de maquinaria pesada para el mantenimiento de las vías y camiones para la recolección de basura, requiere ser exonerada de impuestos sobre la compra de esta maquinaria pesada, con el fin de mejorar los servicios de infraestructura vial y de manejo de residuos sólidos y así garantizar un entorno más limpio y seguro para la población.
 
-CONSIDERANDO: Que el Código Tributario contenido en el Decreto No.170-2016, en su Artículo 11, numeral 2), reconoce el Principio de Legalidad y la competencia exclusiva del Congreso Nacional para otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier otra clase de beneficio fiscal; asimismo, en el Artículo 17, establece que la exoneración, es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Código Tributario contenido en el Decreto No. 170-2016, en su Artículo 11, numeral 2), reconoce el Principio de Legalidad y la competencia exclusiva del Congreso Nacional para otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier otra clase de beneficio fiscal; asimismo, en el Artículo 17, establece que la exoneración, es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

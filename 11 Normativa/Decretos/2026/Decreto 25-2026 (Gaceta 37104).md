@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 25-2026, 26-2026, 27-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260326-37104/download"
 extraido: "2026-11-09"
-huella: "fd2104490f8b3f05"
+huella: "3f8ff326f05ef12c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 25-2026
@@ -37,13 +37,13 @@ CONSIDERANDO: Que la Abogada Cossette Alejandra López-Osorio Aguilar, en su cal
 
 CONSIDERANDO: Que la Abogada Ana Paola Hall García, en el ejercicio de sus funciones como Consejera del Consejo Nacional Electoral (CNE), ha demostrado capacidad jurídica, responsabilidad institucional y firmeza en la toma de decisiones, contribuyendo de manera significativa al fortalecimiento de la institucionalidad democrática, la correcta aplicación de la normativa electoral y la generación de confianza en los procesos electorales desarrollados en los últimos años.
 
-CONSIDERANDO: Que según Decreto Legislativo No.240- 89, en su Artículo 2 establece que el Congreso Nacional está facultado para otorgar condecoraciones a los hondureños que se hayan hecho acreedores de una exaltación y reconocimiento del pueblo hondureño, asimismo en su Artículo 9 establece que la Condecoración de la “Gran Cruz con Placa de Oro”, puede concederse entre otros, a personalidades nacionales.
+CONSIDERANDO: Que según Decreto Legislativo No. 240-89, en su Artículo 2 establece que el Congreso Nacional está facultado para otorgar condecoraciones a los hondureños que se hayan hecho acreedores de una exaltación y reconocimiento del pueblo hondureño, asimismo en su Artículo 9 establece que la Condecoración de la “Gran Cruz con Placa de Oro”, puede concederse entre otros, a personalidades nacionales.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

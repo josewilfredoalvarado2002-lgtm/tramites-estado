@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Nos. 013-2025, 015-2025, 018-2025, 021-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250402-36806/download"
 extraido: "2026-11-11"
-huella: "8675a137a641d8f3"
+huella: "7ae9f7692a0870ba"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 015-2025
@@ -77,9 +77,9 @@ TERCERO: Se exceptúan de la presente veda:
 
 CUARTO: Se instruye a las Jefaturas Regionales para que procedan a tomar las medidas necesarias para asegurar el cumplimiento de lo establecido en el Acuerdo que se dicte.
 
-QUINTO: Se deroga en su totalidad el Acuerdo No.029-2024 publicado en el Diario Oficial La Gaceta, en fecha 09 de julio del año 2024, (Gaceta No. 36,581).
+QUINTO: Se deroga en su totalidad el Acuerdo No. 029-2024 publicado en el Diario Oficial La Gaceta, en fecha 09 de julio del año 2024, (Gaceta No. 36,581).
 
-SEXTO: El presente Acuerdo valida todas las acciones, providencias, resoluciones emitidas al amparo del Acuerdo No.029-2024, sin perjuicio de las revisiones técnicas y legales correspondientes.
+SEXTO: El presente Acuerdo valida todas las acciones, providencias, resoluciones emitidas al amparo del Acuerdo No. 029-2024, sin perjuicio de las revisiones técnicas y legales correspondientes.
 
 SÉPTIMO: Por ser parte de las facultades, funciones y prerrogativas del ICF, en cumplimiento de la ley y los objetivos de la misma, el presente Acuerdo es de ejecución y vigencia inmediata y deberá se publicado en el Diario Oficial La Gaceta y en el Portal de Transparencia.
 

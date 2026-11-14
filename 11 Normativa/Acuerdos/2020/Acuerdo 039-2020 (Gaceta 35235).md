@@ -11,7 +11,7 @@ paginas: "A. 41 - 43"
 sumario: "Acuerdos Ministeriales Nos. 033-2020,037-2020 038-2020, 039-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "f3813f9bbf172e1c"
+huella: "fb145a68b641fe8d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 039-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 8 del Decreto Ejecutivo Número PCM-005-2020, pub
 
 CONSIDERANDO: Que esta Secretaría de Estado a través de la Dirección General de Protección al Consumidor, habiendo realizado las inspecciones y monitoreo de precios de los productos necesarios para atender la emergencia sanitaria y combatir los efectos del probable riesgo de infección Coronavirus (COVID-19).
 
-CONSIDERANDO: Que en fecha 26 de marzo se emitió el Acuerdo Ministerial No.027-2020, en el cual se establecen los precios máximos de venta en todo el territorio nacional de los productos de la Canasta Básica Alimentaria Esencial.
+CONSIDERANDO: Que en fecha 26 de marzo se emitió el Acuerdo Ministerial No. 027-2020, en el cual se establecen los precios máximos de venta en todo el territorio nacional de los productos de la Canasta Básica Alimentaria Esencial.
 
 CONSIDERANDO: Que en virtud de las facultades establecidas en el artículo 74 de la Ley de Protección al Consumidor, la vigencia del Acuerdo Ministerial 023-2020 podrá ser prorrogable por igual término mientras persistan las causas que lo originaron, por lo tanto en virtud de persistir las causas, se amplía la vigencia del mismo por el plazo de un mes contado a partir de la fecha de su aprobación.
 
@@ -47,9 +47,9 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico en uso de las f
 
 ACUERDA:
 
-PRIMERO: Prorrogar la vigencia del Acuerdo Ministerial No.027-2020 de fecha veintiséis (26) de marzo de 2020, por UN MES contado a partir del veintisiete (27) de abril al veintisiete (27) de mayo de dos mil veinte (2020), en el cual se establece el precio máximo de venta en todo el territorio nacional al consumidor final de la Canasta Básica Esencial de los productos que se detallan a continuación:
+PRIMERO: Prorrogar la vigencia del Acuerdo Ministerial No. 027-2020 de fecha veintiséis (26) de marzo de 2020, por UN MES contado a partir del veintisiete (27) de abril al veintisiete (27) de mayo de dos mil veinte (2020), en el cual se establece el precio máximo de venta en todo el territorio nacional al consumidor final de la Canasta Básica Esencial de los productos que se detallan a continuación:
 
-SEGUNDO: En cumplimiento del Artículo 4 del Decreto Ejecutivo Número PCM-021-2020 y sus reformas, se instruye a la Dirección General de Protección al Consumidor a realizar las verificaciones necesarias para garantizar el cumplimiento de los precios máximos establecidos en el Acuerdo No.027-2020 de fecha veintiséis (26) de marzo del año dos mil veinte (2020) y el presente Acuerdo, con una fuerte cantidad de personal y el Ministerio Público, debiendo sancionar administrativamente de conformidad con la Ley de Protección al Consumidor y otras leyes administrativas vigentes a todos aquellos proveedores de bienes y servicios que infrinjan lo dispuesto en este Acuerdo.
+SEGUNDO: En cumplimiento del Artículo 4 del Decreto Ejecutivo Número PCM-021-2020 y sus reformas, se instruye a la Dirección General de Protección al Consumidor a realizar las verificaciones necesarias para garantizar el cumplimiento de los precios máximos establecidos en el Acuerdo No. 027-2020 de fecha veintiséis (26) de marzo del año dos mil veinte (2020) y el presente Acuerdo, con una fuerte cantidad de personal y el Ministerio Público, debiendo sancionar administrativamente de conformidad con la Ley de Protección al Consumidor y otras leyes administrativas vigentes a todos aquellos proveedores de bienes y servicios que infrinjan lo dispuesto en este Acuerdo.
 
 TERCERO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial “LA GACETA”.
 

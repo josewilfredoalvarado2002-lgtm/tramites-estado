@@ -11,7 +11,7 @@ paginas: "A. 1 - 31"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220111-35819/download"
 extraido: "2026-11-14"
-huella: "b6b39ea9c8468053"
+huella: "d8466329b4500691"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -43,7 +43,7 @@ CONSIDERANDO: Que la reforma a la Ley del Servicio Diplomático y Consular de Ho
 
 POR TANTO
 
-En uso de las atribuciones que le confieren los artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública; los Artículos 1, 3, 4, 20, 21, 23 reformado, 24 reformado, 25, 26 al 31 reformados, 32, 33 reformado, 34 al 39, 40 reformado, 41 al 47 de la Ley del Servicio Diplomático y Consular de Honduras; y artículo 7 del Decreto Legislativo No.391-2013.
+En uso de las atribuciones que le confieren los artículos 116, 118, 119 y 122 de la Ley General de la Administración Pública; los Artículos 1, 3, 4, 20, 21, 23 reformado, 24 reformado, 25, 26 al 31 reformados, 32, 33 reformado, 34 al 39, 40 reformado, 41 al 47 de la Ley del Servicio Diplomático y Consular de Honduras; y artículo 7 del Decreto Legislativo No. 391-2013.
 
 ACUERDA:
 
@@ -685,7 +685,7 @@ CONSIDERANDO: Que para llevar a cabo su misión la Industria Militar de las Fuer
 
 CONSIDERANDO: Que, para una gestión efectiva en su administración, la Industria Militar de las Fuerzas Armadas (IMFFAA), requiere de una Comisión de Supervisión y Control debidamente reglamentada.
 
-CONSIDERANDO: Que mediante Acuerdo S.D.N. 021- 2020, se autoriza el nombramiento de la Comisión de Supervisión y Control de la Industria Militar de las Fuerzas Armadas, con la finalidad de velar por la sana y correcta administración de los recursos.
+CONSIDERANDO: Que mediante Acuerdo S.D.N. 021-2020, se autoriza el nombramiento de la Comisión de Supervisión y Control de la Industria Militar de las Fuerzas Armadas, con la finalidad de velar por la sana y correcta administración de los recursos.
 
 POR TANTO:
 
@@ -905,7 +905,7 @@ Artículo 20. Son atribuciones del Comisario:
 
 3. Presentar los hallazgos y hacer recomendaciones correspondientes para mejorar el manejo de fondos;
 
-4. Proponer en el seno de la Comisión de Supervisión y Control los asuntos que sean de especial interés para las operaciones de la Industria Militar de las Fuerzas Armadas; y ,
+4. Proponer en el seno de la Comisión de Supervisión y Control los asuntos que sean de especial interés para las operaciones de la Industria Militar de las Fuerzas Armadas; y,
 
 5. Integrar las comisiones en las que sea nombrado para conocer asuntos relacionados a la Industria Militar y presentar los informes respectivos en las fechas estipuladas;
 
@@ -1053,11 +1053,9 @@ CONSIDERANDO: Que el Decreto Legislativo No. 94, del 28 de abril de 1983, public
 
 CONSIDERANDO: Que dada la emergencia por la crisis humanitaria y sanitaria debido a la Pandemia del Coronavirus (COVID-19), desde Marzo de 2020 y posteriormente agravada por la situación de emergencia con los fenómenos naturales ETA e IOTA en Noviembre de 2020, la situación económica del país se ha agudizado para todos los sectores, requiriéndose de medidas compensatorias inmediatas para ayudar a la recuperación y reactivación económica y a su vez mitigar el impacto en los consumidores más vulnerables es necesario implementar el mecanismo de subsidio a los precios de los combustibles en el país, como elementos esenciales para la seguridad nacional, así como vitales para el desarrollo económico del país.
 
-CONSIDERANDO: Que mediante el Decreto Legislativo No.
+CONSIDERANDO: Que mediante el Decreto Legislativo No. 85-2021, publicado en fecha 29 de septiembre del año 2021, en el Diario Oficial “La Gaceta”, se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles. Por lo que, el Presidente de la Republica en Consejo de Secretarios de Estado por medio de un Decreto Ejecutivo, debe emitir los criterios de aplicación de este beneficio para la población en general.
 
-85-2021, publicado en fecha 29 de septiembre del año 2021, en el Diario Oficial “La Gaceta”, se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles. Por lo que, el Presidente de la Republica en Consejo de Secretarios de Estado por medio de un Decreto Ejecutivo, debe emitir los criterios de aplicación de este beneficio para la población en general.
-
-CONSIDERANDO: Que mediante el artículo 1 del Decreto Legislativo No. 128-2021, publicado en fecha 31 de diciembre del año 2021, en el Diario Oficial “La Gaceta”; se amplia la vigencia del otorgamiento de Subsidios de Gas Licuado del Petróleo para las presentaciones de cilindros con capacidad de diez (10), veinte (20) y veinticinco (25) libras, de uso doméstico; así como en caso de ser necesario se otorgue subsidio a los precios de los combustibles, ambos aprobados mediante Decreto Legislativo No.85-2021, Artículos No.2 y No.4, hasta el 27 de Enero del 2022 y se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles.
+CONSIDERANDO: Que mediante el artículo 1 del Decreto Legislativo No. 128-2021, publicado en fecha 31 de diciembre del año 2021, en el Diario Oficial “La Gaceta”; se amplia la vigencia del otorgamiento de Subsidios de Gas Licuado del Petróleo para las presentaciones de cilindros con capacidad de diez (10), veinte (20) y veinticinco (25) libras, de uso doméstico; así como en caso de ser necesario se otorgue subsidio a los precios de los combustibles, ambos aprobados mediante Decreto Legislativo No. 85-2021, Artículos No. 2 y No. 4, hasta el 27 de Enero del 2022 y se faculta al Poder Ejecutivo para que a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles.
 
 CONSIDERANDO: Que el artículo 4 del Decreto Legislativo No. 85-2021, publicado en el Diario Oficial “La Gaceta” de fecha, 29 de septiembre de 2021, faculta al Poder Ejecutivo para que, a través de la Secretaría de Estado en el Despacho de Energía (SEN), en caso de ser necesario, otorgue subsidio a los precios de los combustibles.
 

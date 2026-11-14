@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Número-058-2025,DE-DCHA-046-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250708-36884/download"
 extraido: "2026-11-09"
-huella: "955ad8f9b884e016"
+huella: "b14354449a066e5a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Número-058-2025,DE-DCHA-046-2025
@@ -31,11 +31,11 @@ Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y V
 
 ACUERDO NÚMERO-058-2025 INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)
 
-CONSIDERANDO: Que, de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No.98- 2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país; y en este caso las áreas nacionales de vocación forestal que se describen en la Tabla 1.
+CONSIDERANDO: Que, de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país; y en este caso las áreas nacionales de vocación forestal que se describen en la Tabla 1.
 
 CONSIDERANDO: Que, uno de los principios básicos del Régimen Legal Forestal, Áreas Protegidas y Vida Silvestre es, la regularización, el respeto y la seguridad jurídica de la inversión de la propiedad forestal estatal y la propiedad privada forestal, garantizando la posesión de los grupos campesinos, comunidades, grupos étnicos y determinando sus derechos y sus obligaciones relacionadas con la protección y el manejo sostenible de los recursos forestales.
 
-CONSIDERANDO: Que, la Ley de Propiedad (Decreto No.82-2004) declara prioridad nacional la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 estas áreas como zonas sujetas a regímenes especiales ordenando la regularización de los predios ubicados dentro de las mismas, enfatizando que le corresponde exclusivamente al ICF, realizar los procedimientos de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
+CONSIDERANDO: Que, la Ley de Propiedad (Decreto No. 82-2004) declara prioridad nacional la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 estas áreas como zonas sujetas a regímenes especiales ordenando la regularización de los predios ubicados dentro de las mismas, enfatizando que le corresponde exclusivamente al ICF, realizar los procedimientos de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
 
 CONSIDERANDO: Que la Ley de Propiedad en el artículo 71 establece: “Se consideran zonas sujetas a regímenes especiales: 1) Bosques Nacionales 2) Las áreas protegidas
 
@@ -59,7 +59,7 @@ CONSIDERANDO: Que es facultad del ICF, con el apoyo de otras dependencias del se
 
 POR TANTO
 
-La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 103, 255, 340 y 341 la Constitución de la República; artículos 51 al 59 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No.98-2007) y 102, 108, 109, 112 al 139 de su Reglamento (Acuerdo No.031-2010); 70 y 71 de la Ley de Propiedad; 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 103, 255, 340 y 341 la Constitución de la República; artículos 51 al 59 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) y 102, 108, 109, 112 al 139 de su Reglamento (Acuerdo No. 031-2010); 70 y 71 de la Ley de Propiedad; 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
 
 ACUERDA
 

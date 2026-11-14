@@ -8,7 +8,7 @@ gaceta_numero: 35392
 gaceta_fecha: "2020-10-06"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)|La Gaceta 35392]]"
 paginas: "A. 17"
-sumario: "Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020"
+sumario: "Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201006-35392/download"
 extraido: "2026-11-14"
 huella: "acc3bbef43603926"
@@ -23,7 +23,7 @@ huella: "acc3bbef43603926"
 | Emisor | Secretaría de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35392 (2020-10-06)\|La Gaceta 35392]] del 2020-10-06 |
 | Páginas | A. 17 |
-| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2020, 107-2020PODER EJECUTIVOAcuerdo Ejecutivo número 043-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 131-2020, 132-2020; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2020, 107-2020; PODER EJECUTIVO: Acuerdo Ejecutivo número 043-2020 |
 
 ## Texto
 

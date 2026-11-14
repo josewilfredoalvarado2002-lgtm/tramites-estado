@@ -2,19 +2,19 @@
 tipo: "norma"
 tipo_acto: "Acuerdo"
 numero: "01-2023"
-titulo: "Según el sumario de La Gaceta: Acuerdo CREE-10-2023CONSEJO NACIONAL ELECTORALAcuerdo No. 01-2023"
+titulo: "Según el sumario de La Gaceta: Acuerdo CREE-10-2023; CONSEJO NACIONAL ELECTORAL: Acuerdo No. 01-2023"
 emisor: "COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA"
 gaceta_numero: 36220
 gaceta_fecha: "2023-05-05"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36220 (2023-05-05)|La Gaceta 36220]]"
 paginas: "A. 1 - 8"
-sumario: "Acuerdo CREE-10-2023CONSEJO NACIONAL ELECTORALAcuerdo No. 01-2023"
+sumario: "Acuerdo CREE-10-2023; CONSEJO NACIONAL ELECTORAL: Acuerdo No. 01-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230505-36220/download"
 extraido: "2026-11-14"
 huella: "45a9ae5993eae41f"
 ---
 <!-- portal:inicio -->
-# Según el sumario de La Gaceta: Acuerdo CREE-10-2023CONSEJO NACIONAL ELECTORALAcuerdo No. 01-2023
+# Según el sumario de La Gaceta: Acuerdo CREE-10-2023; CONSEJO NACIONAL ELECTORAL: Acuerdo No. 01-2023
 
 | Dato | Valor |
 | --- | --- |
@@ -23,7 +23,7 @@ huella: "45a9ae5993eae41f"
 | Emisor | COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36220 (2023-05-05)\|La Gaceta 36220]] del 2023-05-05 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Acuerdo CREE-10-2023CONSEJO NACIONAL ELECTORALAcuerdo No. 01-2023 |
+| Según el sumario de La Gaceta | Acuerdo CREE-10-2023; CONSEJO NACIONAL ELECTORAL: Acuerdo No. 01-2023 |
 
 ## Texto
 

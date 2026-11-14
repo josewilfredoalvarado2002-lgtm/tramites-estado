@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdos C.G. Nos. 015-2025, 017-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260115-37044/download"
 extraido: "2026-11-09"
-huella: "ae113d07158a1e5d"
+huella: "308be52b2ea6aa2f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.G. Nos. 015-2025, 017-2025
@@ -83,13 +83,11 @@ CONSIDERANDO (12):
 
 Que el Reglamento de Ascenso para Oficiales de las Fuerzas Armadas de Honduras en su artículo 10 establece los Requisitos para ser declarados aptos para el ascenso a oficiales de las armas, cuerpos y servicios dentro de los cuales se hace referencia especifica en el inciso “a) Ascenso al grado de Subteniente o su equivalente: Haber aprobado satisfactoriamente los estudios en los Centros de Formación de Oficiales, en el país o en el extranjero”.
 
-CONSIDERANDO (13): Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 05 de noviembre del año 2025, mediante Acta No.
-
-010-2025, determinó solicitar al señor Subsecretario de Estado en el Despacho de Defensa Nacional, ORLANDO E N R I Q U E G A R N E R ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, confiera el ascenso al grado de Subteniente o su equivalente de las Armas, Cuerpos y Servicios a ciento catorce (114) Alféreces y Guardiamarinas, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
+CONSIDERANDO (13): Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 05 de noviembre del año 2025, mediante Acta No. 010-2025, determinó solicitar al señor Subsecretario de Estado en el Despacho de Defensa Nacional, ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, confiera el ascenso al grado de Subteniente o su equivalente de las Armas, Cuerpos y Servicios a ciento catorce (114) Alféreces y Guardiamarinas, en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares.
 
 CONSIDERANDO (14):
 
-Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=235(C-1)2025 de fecha 13 de noviembre del año 2025, RECOMIENDA al señor Subsecretario de Estado en el Despacho de Defensa Nacional, ORLANDO E N R I Q U E G A R N E R ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir del 11 de diciembre del año 2025 al grado de Subteniente o su equivalente de las Armas, Cuerpos y Servicios a ciento catorce (114) Alféreces y Guardiamarinas egresados de las diferentes Academias Militares de las Fuerzas Armadas de Honduras.
+Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=235(C-1)2025 de fecha 13 de noviembre del año 2025, RECOMIENDA al señor Subsecretario de Estado en el Despacho de Defensa Nacional, ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir del 11 de diciembre del año 2025 al grado de Subteniente o su equivalente de las Armas, Cuerpos y Servicios a ciento catorce (114) Alféreces y Guardiamarinas egresados de las diferentes Academias Militares de las Fuerzas Armadas de Honduras.
 
 POR TANTO
 
@@ -401,7 +399,7 @@ Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, mediante Act
 
 CONSIDERANDO (14):
 
-Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=243(C-1)2025 de fecha 27 de noviembre del año 2025, RECOMIENDA al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO E N R I Q U E G A R N E R ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir del 11 de diciembre del año 2025, al grado de Subteniente en el Servicio de Sanidad al Alférez A L E J A N D R O J O S É BARAHONA LICONA, graduado en el extranjero y reconocerle antigüedad, salarios y demás derechos dejados de percibir al 01 de septiembre del año 2023, por haber ingresado a la Academia Militar de Honduras “General Francisco Morazán” el 01 de septiembre del año 2019.
+Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=243(C-1)2025 de fecha 27 de noviembre del año 2025, RECOMIENDA al señor Subsecretario de Estado en el Despacho de Defensa Nacional, Licenciado ORLANDO ENRIQUE GARNER ORDÓÑEZ, para que por su medio solicite a la señora Presidenta Constitucional de la República, IRIS XIOMARA CASTRO SARMIENTO, ascender a partir del 11 de diciembre del año 2025, al grado de Subteniente en el Servicio de Sanidad al Alférez ALEJANDRO JOSÉ BARAHONA LICONA, graduado en el extranjero y reconocerle antigüedad, salarios y demás derechos dejados de percibir al 01 de septiembre del año 2023, por haber ingresado a la Academia Militar de Honduras “General Francisco Morazán” el 01 de septiembre del año 2019.
 
 POR TANTO
 

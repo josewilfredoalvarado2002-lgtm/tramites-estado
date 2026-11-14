@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Acuerdo Ministerial No. 168-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211005-35738/download"
 extraido: "2026-11-14"
-huella: "588311dda5e9ebc7"
+huella: "1928a22cf83273a1"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 168-2021
@@ -31,7 +31,7 @@ SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de Desarrollo Económico, la formulación y ejecución de políticas relacionadas con los mecanismos internos de comercialización de bienes y servicios y asegurar condiciones adecuadas de abastecimiento, en coordinación con los demás organismos gubernamentales que correspondan.
 
-CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No.009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
+CONSIDERANDO: Que de conformidad con el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero de 2015 y 042-2016 del 21 de junio del 2016, la importación de cebolla bajo los incisos arancelarios 0703.10.11.00; 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de Importación
 
 (ACI) requiere la emisión de una licencia de importación emitida por esta Secretaría de Estado, siendo uno de los requisitos para la emisión de dichas licencias automáticas.
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que para abastecer el mercado nacional es necesario complementar l
 
 CONSIDERANDO: Que en seguimiento a lo dispuesto en la Reunión Extraordinaria del Comité Técnico de la Cadena Hortícola del Rubro de la Cebolla de fecha 27 de agosto del año 2021, donde de manera unánime los miembros de éste, aprobaron su voluntad de continuar realizando sus actividades de importación de conformidad con las disposiciones y acuerdos de la Cadena Hortícola del Rubro de Cebolla y a los Acuerdos SAG-140-2021 del 27 de agosto y SAG-143-2021 del 7 de septiembre ambos del presente año, siendo este último el instrumento de solución a lo expresado por las empresas importadoras sobre la existencia de solicitudes de producto que no fueron contempladas, habiéndose verificado estos extremos de conformidad con el procedimiento comunicado por esta Secretaría de Estado y presentada la documentación correspondiente ante el Secretario Técnico de la Cadena Hortícola del Rubro de la Cebolla quien indica la procedencia de su inclusión en la recomendación para el mes de septiembre y según el procedimiento citado los mismos serán reducidos o disminuidos en el Acuerdo Ministerial del mes de octubre del 2021 o meses subsiguientes según cada caso concreto y la asignación de cada empresa importadora.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG- 153-2021 de fecha 22 de septiembre de 2021 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de octubre del presente año; clasificadas en los códigos arancelarios 0703.10.11.00;
+CONSIDERANDO: Que mediante Acuerdo No. SAG-153-2021 de fecha 22 de septiembre de 2021 la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el marco del Acuerdo 009-2015 reformado por el Acuerdo Ministerial 042-2016, recomendó a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de octubre del presente año; clasificadas en los códigos arancelarios 0703.10.11.00;
 
 0703.10.12.00; y 0703.10.13.00 del Arancel Centroamericano de importación (ACI).
 
@@ -169,11 +169,11 @@ TOTAL
 
 1,716.12 1,716,120.00
 
-SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No.009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la Dirección General de Integración Económica y Política Comercial (DGIEPC) de esta Secretaría de Estado, por medio de correo solicitud.licencia.cebolla@sde.gob.hn Para aquellos importadores que no cuentan con el Número de Registro supra indicado, la solicitud deberá ser presentada ante la Secretaría General de esta Secretaría de Estado que la trasladará a la DGIEPC para el trámite correspondiente de las Licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
+SEGUNDO: Los beneficiarios de las licencias de importación a las que se refiere el presente Acuerdo, que cuentan con el Registro de Importadores de Cebolla establecido en el Acuerdo Ministerial No. 009-2015 de fecha 21 de enero del 2015 deberán solicitar la correspondiente Licencia ante la Dirección General de Integración Económica y Política Comercial (DGIEPC) de esta Secretaría de Estado, por medio de correo solicitud.licencia.cebolla@sde.gob.hn Para aquellos importadores que no cuentan con el Número de Registro supra indicado, la solicitud deberá ser presentada ante la Secretaría General de esta Secretaría de Estado que la trasladará a la DGIEPC para el trámite correspondiente de las Licencias emitidas al amparo de este Acuerdo serán nominativas, no constituyen título valor, son intransferibles y no transables.
 
-TERCERO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No.009-2015.
+TERCERO: Para la presentación de las solicitudes a las que se refiere el Ordinal anterior, son aplicables los requisitos establecidos en los literales a) al g) del Artículo 3 del Acuerdo Ministerial No. 009-2015.
 
-CUARTO: Para los efectos de este Acuerdo son aplicables los Artículos 4, 5 y 8 del Acuerdo Ministerial No.009-2015.
+CUARTO: Para los efectos de este Acuerdo son aplicables los Artículos 4, 5 y 8 del Acuerdo Ministerial No. 009-2015.
 
 QUINTO: El presente Acuerdo deberá ser remitido a las autoridades aduaneras nacionales y a la Secretaría de Estado en los Despachos de Agricultura y Ganadería para que procedan de conformidad a sus competencias.
 

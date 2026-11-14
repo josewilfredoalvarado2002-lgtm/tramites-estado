@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Ministeriales números 054-2022, 055-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220625-35959/download"
 extraido: "2026-11-14"
-huella: "55a05b429008db56"
+huella: "51dd37dd25af7c37"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 055-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que mediante Acuerdo Ministerial Número 110-2020 publicado en el 
 
 CONSIDERANDO: Que el Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de balanza de pagos; o a deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización de mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio, relacionadas con la modificación de los derechos arancelarios a la importación, durante un plazo máximo de 30 días. Lo anterior, sin perjuicio de otras medidas no arancelarias que adopten los Estados con base en su legislación nacional…” .
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial La Gaceta el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc, para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial La Gaceta el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad Hoc, para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que en fecha 04 de mayo de 2022, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de prórroga de Medida de Salvaguardia para el producto denominado Tilapias y Bagres, contenida en el Acuerdo Ministerial Número. 110-2020 publicado en el Diario Oficial La Gaceta el 17 de julio de 2020 y vigente cinco días a partir de su publicación, solicitud que obra en Expediente No. 2022-SE-1059.
 

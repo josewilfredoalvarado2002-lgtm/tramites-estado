@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 181-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201224-35469/download"
 extraido: "2026-11-14"
-huella: "5a64ae6a2cdcee46"
+huella: "19413726cdb562b2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 181-2020
@@ -29,7 +29,7 @@ huella: "5a64ae6a2cdcee46"
 
 EL CONGRESO NACIONAL
 
-CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 59 de la Constitución de la República, reformado mediante Decreto No.191-94 de fecha 15 de diciembre de 1994 y ratificado por Decreto No.2-95 de fecha 7 de febrero de 1995, fue creada la Institución del Comisionado Nacional de los Derechos Humanos.
+CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 59 de la Constitución de la República, reformado mediante Decreto No. 191-94 de fecha 15 de diciembre de 1994 y ratificado por Decreto No. 2-95 de fecha 7 de febrero de 1995, fue creada la Institución del Comisionado Nacional de los Derechos Humanos.
 
 CONSIDERANDO: Que el Comisionado Nacional de los Derechos Humanos (CONADEH), es una figura de alta significación en la vida nacional que debe poseer atributos indubitables y extraordinaria voluntad, serenidad, firmeza, conocimiento y equidad para cumplir fielmente con las obligaciones que le impone el cargo.
 
@@ -51,7 +51,7 @@ ARTÍCULO 1.- Elíjese como Titular del COMISIONADO NACIONAL DE LOS DERECHOS HUM
 
 ARTÍCULO 2.- La ciudadana elegida en el Artículo precedente tomará posesión de su cargo al prestar su Promesa de Ley correspondiente, por un período de seis
 
-(6) años, contados a partir de la fecha de su juramentación, según lo establecido en el Artículo 4 de la Ley Orgánica del Comisionado Nacional de los Derechos Humanos, contenido en el Decreto No.153-95 de fecha 24 de octubre de 1995.
+(6) años, contados a partir de la fecha de su juramentación, según lo establecido en el Artículo 4 de la Ley Orgánica del Comisionado Nacional de los Derechos Humanos, contenido en el Decreto No. 153-95 de fecha 24 de octubre de 1995.
 
 #### Artículo 3
 
@@ -81,7 +81,7 @@ CONSIDERANDO: Que el marco legal que se ha venido aprobando para incentivar el u
 
 POR TANTO:
 
-En uso de las facultades que la Constitución de la República otorga en los artículos 59, 247, 255 de la Constitución de la República; artículos 33, 36 numeral 1,6,8 y artículos 118 y 119 de la Ley General de la Administración Pública; artículos 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo 149- 2013 contentivo de la Ley Sobre Firmas Electrónicas; Decreto Legislativo 33-2020; Decreto Ejecutivo Número PCM-045- 2020; Acuerdo No.007-SRH-2017 de fecha diez (10) de enero del año dos mil diecisiete (2017).
+En uso de las facultades que la Constitución de la República otorga en los artículos 59, 247, 255 de la Constitución de la República; artículos 33, 36 numeral 1,6,8 y artículos 118 y 119 de la Ley General de la Administración Pública; artículos 23, 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas; Decreto Legislativo 33-2020; Decreto Ejecutivo Número PCM-045-2020; Acuerdo No. 007-SRH-2017 de fecha diez (10) de enero del año dos mil diecisiete (2017).
 
 ACUERDA:
 
@@ -397,7 +397,7 @@ Secretario de Estado
 
 MARTA CAROLINA PINEDA ZAPATA
 
-Encargada de la Secretaría General Secretaría de Trabajo y Seguridad Social ACUERDO No. STSS- 617-2020 El SECRETARIO PRIVADO Y JEFE DEL GABINETE PRESIDENCIAL CON RANGO DE SECRETARIO DE ESTADO En uso de las facultades que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No. 009-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+Encargada de la Secretaría General Secretaría de Trabajo y Seguridad Social ACUERDO No. STSS-617-2020 El SECRETARIO PRIVADO Y JEFE DEL GABINETE PRESIDENCIAL CON RANGO DE SECRETARIO DE ESTADO En uso de las facultades que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No. 009-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

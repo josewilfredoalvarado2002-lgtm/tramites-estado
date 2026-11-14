@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo Ministerial No. 088-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240814-36612/download"
 extraido: "2026-11-14"
-huella: "5c068a6556603026"
+huella: "94034cfced42ee9e"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 088-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para l
 
 CONSIDERANDO: Que en el Primer Párrafo del Numeral 12 del Acuerdo Ejecutivo Número 158-2023 establece que la relación de compra/importación de maíz blanco (1005.90.30.00) será por un (1) quintal de maíz blanco comprado a nivel nacional tendrá derecho a importar dos (2) quintales de maíz blanco (1x2 QQ), esta relación será vigente para el periodo comprendido del 01 de septiembre de 2023 al 31 de agosto de 2024. El Gobierno de la República, revisará la relación de compra/importación para cada Ciclo Agrícola.
 
-CONSIDERANDO: Que en reunión sostenida el día 08 de mayo de 2024, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), la Empresa AGROBOLSA (Ente Contralor), presentó el Informe de Compras de Maíz Blanco Segundo Corte de la Cosecha 2023- 2024), que comprenden del 01 de enero al 30 de abril del 2023, mismas que fueron realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, y aprobado por la Comisión de Supervisión del referido Convenio.
+CONSIDERANDO: Que en reunión sostenida el día 08 de mayo de 2024, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), la Empresa AGROBOLSA (Ente Contralor), presentó el Informe de Compras de Maíz Blanco Segundo Corte de la Cosecha 2023-2024), que comprenden del 01 de enero al 30 de abril del 2023, mismas que fueron realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimento para Consumo Humano, y aprobado por la Comisión de Supervisión del referido Convenio.
 
 POR TANTO:
 
@@ -47,7 +47,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 20,442.79 TM su equivalente a 20,442,790.00 KG con un DAI del cero por ciento (0%), con una vigencia hasta el 31 de diciembre de 2024, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-102-2024 publicado en el Diario Oficial “La Gaceta” en fecha 30 de mayo del 2024, correspondiente al Segundo Corte de maíz blanco de la cosecha nacional 2023- 2024, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG-125-2022 y Acuerdo Ejecutivo No. 158-2023), conforme se detalla a continuación:
+PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 20,442.79 TM su equivalente a 20,442,790.00 KG con un DAI del cero por ciento (0%), con una vigencia hasta el 31 de diciembre de 2024, dicha importación podrá realizarse de cualquier procedencia, en aplicación del Acuerdo No. SAG-102-2024 publicado en el Diario Oficial “La Gaceta” en fecha 30 de mayo del 2024, correspondiente al Segundo Corte de maíz blanco de la cosecha nacional 2023-2024, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG-125-2022 y Acuerdo Ejecutivo No. 158-2023), conforme se detalla a continuación:
 
 VOLUMEN
 

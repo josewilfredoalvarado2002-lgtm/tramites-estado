@@ -11,7 +11,7 @@ paginas: "A. 18 - 19"
 sumario: "Acuerdo Ministerial No. 449-2024Acuerdo No. 438-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240806-36605/download"
 extraido: "2026-11-14"
-huella: "94e0f2384abdf6d3"
+huella: "8d37b404fdc293e7"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 449-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que, debido a la afectación que este tipo de disposiciones genera
 
 CONSIDERANDO: Que, en razón de lo hasta aquí expuesto, el Congreso Nacional, en aras de homologar el marco regulatorio en el tema, actualizó, vía reforma por adición a la Ley de Policía y Corvivencia Social, el Arículo 102-A de ese cuerpo legal, mediante el cual traslada a las municipalidades para que, vía ordenanza, regule el expendio bebidas alcohólicas en un mismo horario para días de semana y determine lo concerniente para los días viernes y sábado.
 
-CONSIDERANDO: Que, en aras de unificar criterios y evitar contradicciones entre lo prescrito en el Acuerdo Ministerial No. 425-2014 y los Decretos Legislativos 226- 2001 - Ley de Policía y Convivencia Social- y el reciente 18-2016, algunas municipalidades han sido del criterio que es necesario dejar sin valor y efecto la disposición legal de menor jerarquía.
+CONSIDERANDO: Que, en aras de unificar criterios y evitar contradicciones entre lo prescrito en el Acuerdo Ministerial No. 425-2014 y los Decretos Legislativos 226-2001 - Ley de Policía y Convivencia Social- y el reciente 18-2016, algunas municipalidades han sido del criterio que es necesario dejar sin valor y efecto la disposición legal de menor jerarquía.
 
 CONSIDERANDO: Que, el artículo 7 de la Ley General de la Administración Pública, sujeta los actos de la Adminístración Pública a una jerarquía normativa, en donde las “Leyes Especiales y Generales vigentes en la República”, priman sobre un Acuerdo Ministerial.
 
@@ -49,9 +49,7 @@ En uso de las facultades que está investido y en aplicación de los artículos:
 
 ACUERDA:
 
-PRIMERO: Derogar en todo y cada una de sus partes, el Acuerdo Ministerial No. 425-2014 de fecha 20 de febrero del año 2014, publicado en el Diario Oficial La Gaceta No.
-
-33,361, de fecha 21 de febrero de 2014.
+PRIMERO: Derogar en todo y cada una de sus partes, el Acuerdo Ministerial No. 425-2014 de fecha 20 de febrero del año 2014, publicado en el Diario Oficial La Gaceta No. 33,361, de fecha 21 de febrero de 2014.
 
 SEGUNDO: El presente Acuerdo entrará en vigencia el día de su publicación en “La Gaceta”, Diario Oficial de la República.
 

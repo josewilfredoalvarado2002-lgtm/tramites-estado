@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 24-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230404-36197/download"
 extraido: "2026-11-14"
-huella: "cd7c48af96733836"
+huella: "c41725f33599b40b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 24-2023
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 189 de la Constitución de la República de Honduras, determina que el Poder Legislativo se reunirá en sesiones ordinarias en la capital de la República el veinticinco de enero de cada año, sin necesidad de convocatoria y clausurará sus sesiones el treinta y uno de Octubre del mismo año.
 
-CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, la cual se encuentra contenida en el Decreto No.363-2013, del 20 de Enero de 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la Edición No.33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el veinticinco de Enero de cada año y concluye el treinta y uno de Octubre del mismo año, aunado a que el período de receso de sesiones del Congreso Nacional es desde el uno de Mayo al treinta y uno de Mayo de cada año.
+CONSIDERANDO: Que en la Ley Orgánica del Poder Legislativo, la cual se encuentra contenida en el Decreto No. 363-2013, del 20 de Enero de 2014 y publicada en el Diario Oficial “La Gaceta”, el 22 de Enero de 2014, bajo la Edición No. 33,335, establece en su Artículo 55, que: El período de sesiones del Congreso Nacional inicia el veinticinco de Enero de cada año y concluye el treinta y uno de Octubre del mismo año, aunado a que el período de receso de sesiones del Congreso Nacional es desde el uno de Mayo al treinta y uno de Mayo de cada año.
 
 CONSIDERANDO: Que la Constitución de la República, así como la Ley Orgánica del Poder Legislativo, se encuentran en armonía en cuanto a que la labor del Poder Legislativo puede prorrogarse por el tiempo que fuese necesario ya sea por la iniciativa de uno o más de sus miembros o a solicitud del Poder Ejecutivo.
 

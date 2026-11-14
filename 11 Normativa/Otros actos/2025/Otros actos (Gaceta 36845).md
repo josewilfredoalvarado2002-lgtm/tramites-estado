@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250523-36845/download"
 extraido: "2026-11-10"
-huella: "d60c4dd972ae9151"
+huella: "16422cb776e1aed0"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ Poder Legislativo
 
 FE DE ERRATA
 
-En el Diario Oficial “La Gaceta”, Edición No.36,759, de fecha 06 de febrero del 2025, específicamente en la publicación del Decreto No. 4-2025 aprobado el día 5 de febrero de 2025, misma que contiene el PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES PARA EL EJERCICIO FISCAL 2025 y por un error involuntario, en los artículos siguientes: En el Artículo 47 se consignaron numerales en lugar de literales; en los artículos 95 y 96 del referido Decreto se incurrió en imprecisiones materiales y manifiestos en los referidos artículos, los cuales deben ser enmendados con la correcta literalidad aprobada en el Pleno de la Cámara Legislativa, en la forma siguiente:
+En el Diario Oficial “La Gaceta”, Edición No. 36,759, de fecha 06 de febrero del 2025, específicamente en la publicación del Decreto No. 4-2025 aprobado el día 5 de febrero de 2025, misma que contiene el PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES PARA EL EJERCICIO FISCAL 2025 y por un error involuntario, en los artículos siguientes: En el Artículo 47 se consignaron numerales en lugar de literales; en los artículos 95 y 96 del referido Decreto se incurrió en imprecisiones materiales y manifiestos en los referidos artículos, los cuales deben ser enmendados con la correcta literalidad aprobada en el Pleno de la Cámara Legislativa, en la forma siguiente:
 
 En las páginas “55A, 56A y 57A” Primera y segunda Columna respectivamente, del Diario Oficial “La Gaceta”, el Artículo en lo conducente a las instituciones debe leerse de la manera siguiente:
 

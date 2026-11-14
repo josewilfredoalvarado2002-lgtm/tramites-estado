@@ -11,7 +11,7 @@ paginas: "A. 16 - 52"
 sumario: "Acuerdo No. SAG-390-2026 COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE) Acuerdos CREE-88-2026, CREE-89-2026, CREE-90-2026, CREE-91-2026 A. 1 - 11 A. 12 - 15 A. 16 - 20 A. 21 - 52"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261001-37260/download"
 extraido: "2026-11-09"
-huella: "5aa6e9e4893750c1"
+huella: "c24ecec761a2d194"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-390-2026
@@ -131,7 +131,7 @@ ARTÍCULO 12. PROHIBICIÓN DE REPRESENTACIÓN
 
 INCONGRUENTE.- A partir de la entrada en vigencia del presente Acuerdo, la Unidad de Comunicación Institucional no deberá aparecer en documentos, organigramas o representaciones oficiales de la estructura institucional como subordinada, adscrita o dependiente de una unidad distinta de la Secretaría General, salvo que una norma de igual o superior jerarquía disponga expresamente lo contrario.
 
-A RT Í C U L O 1 3 . N O A LT E R A C I Ó N D E
+A RT Í C U L O 1 3 . N O A LT E RACIÓN DE
 
 COMPETENCIAS.- Las disposiciones del presente Acuerdo se aplicarán sin perjuicio de las competencias legalmente atribuidas al Secretario de Estado, a la Secretaría General, a la Dirección de Servicios Legales, a la Unidad de Comunicación Institucional y a los demás órganos de la Secretaría de Agricultura y Ganadería.
 
@@ -143,7 +143,7 @@ ING. MOISÉS ABRAHAM MOLINA GUILLÉN SECRETARIO DE ESTADO EN LOS DESPACHOS DE AG
 
 ACUERDO DE DELEGACIÓN No. SAG-053-2026
 
-ANEXO ÚNICO ORGANIGRAMA INSTITUCIONAL – ADECUACIÓN DE LA UNIDAD DE COMUNICACIÓN INSTITUCIONAL La presente representación gráfica constituye parte integral del ACUERDO No. SAG- 390-2026, y refleja la ubicación de la Unidad de Comunicación Institucional bajo la coordinación de la Secretaría General.
+ANEXO ÚNICO ORGANIGRAMA INSTITUCIONAL – ADECUACIÓN DE LA UNIDAD DE COMUNICACIÓN INSTITUCIONAL La presente representación gráfica constituye parte integral del ACUERDO No. SAG-390-2026, y refleja la ubicación de la Unidad de Comunicación Institucional bajo la coordinación de la Secretaría General.
 
 Comisión Reguladora de Energía Eléctrica CREE
 
@@ -183,9 +183,9 @@ NOVENO: Que, el Departamento de Tarifas mediante memorándums No. 021-2026 y 022
 
 DÉCIMO: Que la Dirección de Asesoría Jurídica emitió el dictamen legal número DAJ-DL-087-2026 mediante el cual indicó que la Comisión Reguladora de Energía Eléctrica (CREE) se encuentra facultada para aprobar el ajuste al costo base de generación y su consecuente ajuste al pliego tarifario que aplica la Empresa Nacional de Energía Eléctrica a sus usuarios finales. Asimismo, mediante el referido dictamen legal indicó, entre otras cosas, que: i. La Empresa Nacional de Energía Eléctrica (ENEE) no ha acreditado la documentación necesaria para culminar el análisis de los costos asociados a los contratos trasladados de forma condicionada mediante el Acuerdo CREE-45-2026, por lo que deberán de continuar trasladando de forma condicionada; y, ii. Que los costos asociados al crédito a favor de la Empresa Nacional de Energía Eléctrica (ENEE) producto del contrato de ENERSA indicados en el Memorándum No. 021-2026 deberán de trasladarse de forma condicionada hasta que la Empresa Nacional de Energía Eléctrica (ENEE) acredite la documentación correspondiente.
 
-DÉCIMO PRIMERO: Que mediante oficio número CREE- 330-2026 de fecha veintinueve (29) de septiembre de dos mil veintiséis (2026) la Comisión Reguladora de Energía Eléctrica (CREE) le informó a la Empresa Nacional de Energía Eléctrica (ENEE) la variación entre el costo de base de generación real y costo base de generación estimado y a su vez indicó que conforme con lo dispuesto en el Acuerdo CREE-165-2025 la Empresa Nacional de Energía Eléctrica (ENEE) se encuentra facultada para diferir parte de este ajuste con un límite máximo de USD 104,914,311.0010, por lo que en caso de estar de acuerdo con diferir el ajuste identificado debía de presentar una solicitud formal ante la Comisión Reguladora de Energía Eléctrica (CREE).
+DÉCIMO PRIMERO: Que mediante oficio número CREE-330-2026 de fecha veintinueve (29) de septiembre de dos mil veintiséis (2026) la Comisión Reguladora de Energía Eléctrica (CREE) le informó a la Empresa Nacional de Energía Eléctrica (ENEE) la variación entre el costo de base de generación real y costo base de generación estimado y a su vez indicó que conforme con lo dispuesto en el Acuerdo CREE-165-2025 la Empresa Nacional de Energía Eléctrica (ENEE) se encuentra facultada para diferir parte de este ajuste con un límite máximo de USD 104,914,311.0010, por lo que en caso de estar de acuerdo con diferir el ajuste identificado debía de presentar una solicitud formal ante la Comisión Reguladora de Energía Eléctrica (CREE).
 
-DÉCIMO SEGUNDO: Que mediante oficio número GGENEE-1032-IX-2026 la Empresa Nacional de Energía Eléctrica (ENEE) respondió el oficio número CREE-330- 2026 informó a la Comisión Reguladora de Energía Eléctrica (CREE) lo siguiente: “1. Del monto acumulado actual de USD 104,914,311.001, el monto a diferir será de USD 104,914,311.001 realizando una aplicación en este período tarifario de USD 0.00. 2. El monto se diferirá en los próximos períodos trimestrales. 3. El tipo de cambio 27.0307 HNL/USD
+DÉCIMO SEGUNDO: Que mediante oficio número GGENEE-1032-IX-2026 la Empresa Nacional de Energía Eléctrica (ENEE) respondió el oficio número CREE-330-2026 informó a la Comisión Reguladora de Energía Eléctrica (CREE) lo siguiente: “1. Del monto acumulado actual de USD 104,914,311.001, el monto a diferir será de USD 104,914,311.001 realizando una aplicación en este período tarifario de USD 0.00. 2. El monto se diferirá en los próximos períodos trimestrales. 3. El tipo de cambio 27.0307 HNL/USD
 
 4. El interés trimestral por utilizar será de 2.53167%. 5. El monto total acumulado pendiente es de USD 104,914,311.001 para aplicar en los siguientes períodos trimestrales”.
 
@@ -357,7 +357,7 @@ SEGUNDO: Que, en fecha uno (01) de febrero de dos mil veintitrés (2023) la Comi
 
 (UPCO) identificó la necesidad de implementar las tarifas bajo el marco normativo. En consecuencia, mediante el referido oficio la Comisión Reguladora de Energía Eléctrica (CREE) solicitó a Utila Power Company, S.A. de C.V. (UPCO) la presentación del cálculo del costo de servicio de energía eléctrica, la propuesta de la estructura tarifaria (detallando su metodología de cálculo) y las fórmulas de ajuste de tarifas, así como la información mínima para respaldar la propuesta de estructura tarifaria.
 
-TERCERO: Que, en fecha once (11) de abril de dos mil veintitrés (2023) Utila Power Company, S.A. de C.V. (UPCO) presentó nota mediante la cual en atención al oficio No. CREE- 026-2023 remitió la parte 1 de la documentación requerida e informó que la parte 2 quedaría pendiente.
+TERCERO: Que, en fecha once (11) de abril de dos mil veintitrés (2023) Utila Power Company, S.A. de C.V. (UPCO) presentó nota mediante la cual en atención al oficio No. CREE-026-2023 remitió la parte 1 de la documentación requerida e informó que la parte 2 quedaría pendiente.
 
 CUARTO: Que mediante auto de fecha once (11) de abril de dos mil veintitrés (2023) la Secretaría General de la Comisión Reguladora de Energía Eléctrica (CREE) admitió la documentación presentada por parte de Utila Power Company, S.A. de C.V. (UPCO), en esa misma fecha y la remitió a la Dirección de Asesoría Jurídica y a la Dirección de Regulación.
 
@@ -367,7 +367,7 @@ SEXTO: Que mediante nota de fecha dieciocho (18) de mayo de dos mil veintitrés 
 
 SÉPTIMO: Que, en fecha diecinueve (19) de septiembre del año dos mil veintitrés (2023) la Dirección de Asesoría Jurídica emitió el dictamen legal número DAJ-DL-046-2023 mediante el cual recomendó: “(…) mandar a la sociedad mercantil Utila Power Company (UPCO) para que suspenda temporalmente el ajuste tarifario publicado en su Comunicado de Ajuste Tarifario 2023 #4. Lo anterior hasta que la Comisión Reguladora de Energía Eléctrica (CREE) dé por finalizado el proceso de aprobación del pliego tarifario de la sociedad mercantil Utila Power Company (UPCO), así mismo, que se requiera la sociedad mercantil Utila Power Company (UPCO) la documentación soporte a través de la cual calcularon el Ajuste Tarifario 2023 #4 publicado.”
 
-OCTAVO: Que, en fecha diecinueve (19) de septiembre de dos mil veintitrés (2023) la Comisión Reguladora de Energía Eléctrica (CREE) emitió el Acuerdo CREE-103- 2023 mediante el cual en su acuerda PRIMERO estableció lo siguiente: “Mandar a la sociedad mercantil Utila Power Company (UPCO) para que de manera inmediata suspenda temporalmente el ajuste tarifario publicado en su comunicado de Ajuste Tarifario 2023 #4. Lo anterior hasta que la Comisión Reguladora de Energía Eléctrica (CREE) dé por finalizado el proceso de aprobación del pliego tarifario de la sociedad mercantil Utila Power Company (UPCO).” (Lo subrayado y en negrita es propio).
+OCTAVO: Que, en fecha diecinueve (19) de septiembre de dos mil veintitrés (2023) la Comisión Reguladora de Energía Eléctrica (CREE) emitió el Acuerdo CREE-103-2023 mediante el cual en su acuerda PRIMERO estableció lo siguiente: “Mandar a la sociedad mercantil Utila Power Company (UPCO) para que de manera inmediata suspenda temporalmente el ajuste tarifario publicado en su comunicado de Ajuste Tarifario 2023 #4. Lo anterior hasta que la Comisión Reguladora de Energía Eléctrica (CREE) dé por finalizado el proceso de aprobación del pliego tarifario de la sociedad mercantil Utila Power Company (UPCO).” (Lo subrayado y en negrita es propio).
 
 En consecuencia, la suspensión ordenada quedó sujeta a la conclusión del proceso de aprobación del pliego tarifario de Utila Power Company, S.A. de C.V. (UPCO), proceso que concluye mediante el presente acto administrativo, con lo cual se verifica la condición a la que se sujetó la medida adoptada en el Acuerdo CREE-103-2023.
 
@@ -505,7 +505,7 @@ ACUERDA:
 
 PRIMERO: Aprobar el Procedimiento Comercial y de Facturación UPCO-PCF-PT-001, versión 1.2, presentado por la sociedad mercantil Utila Power Company, S.A. de C.V.
 
-(UPCO), como instrumento para la implementación operativa del pliego tarifario aprobado mediante Acuerdo CREE-90- 2026, en lo relativo a las reglas, fórmulas y algoritmos de cálculo con que se aplicarán en la facturación los cargos y conceptos aprobados por la Comisión Reguladora de Energía Eléctrica (CREE), con sujeción a las adecuaciones ordenadas en el numeral TERCERO del presente Acuerdo, las cuales prevalecen sobre cualquier disposición en contrario contenida en dicho procedimiento. El cual forma parte Integra del presente Acuerdo.
+(UPCO), como instrumento para la implementación operativa del pliego tarifario aprobado mediante Acuerdo CREE-90-2026, en lo relativo a las reglas, fórmulas y algoritmos de cálculo con que se aplicarán en la facturación los cargos y conceptos aprobados por la Comisión Reguladora de Energía Eléctrica (CREE), con sujeción a las adecuaciones ordenadas en el numeral TERCERO del presente Acuerdo, las cuales prevalecen sobre cualquier disposición en contrario contenida en dicho procedimiento. El cual forma parte Integra del presente Acuerdo.
 
 SEGUNDO: Advertir a la sociedad mercantil denominada Utila Power Company, S.A. de C.V. (UPCO) que cualquier modificación posterior al referido procedimiento, incluyendo sus fórmulas, parámetros o criterios de aplicación, deberá ser presentada a la Comisión Reguladora de Energía Eléctrica (CREE) para su aprobación previo a su implementación.
 

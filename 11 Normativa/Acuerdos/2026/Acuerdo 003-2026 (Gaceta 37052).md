@@ -11,7 +11,7 @@ paginas: "A. 63 - 64"
 sumario: "Acuerdos Ministeriales Nos. 003-2026, 005-2026, 008-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260124-37052/download"
 extraido: "2026-11-09"
-huella: "3adcda9c3229ed80"
+huella: "1602308798803d22"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 003-2026
@@ -39,13 +39,13 @@ CONSIDERANDO: Que el Artículo 36 numeral 12 de la Ley General de la Administrac
 
 CONSIDERANDO: Que el día 1º de enero del año 1995 entró oficialmente en funciones la Organización Mundial de Comercio (O.M.C.), la que, en virtud de decisión de las Partes Contratantes, sustituye al GATT de 1947 en todos sus derechos, privilegios y obligaciones.
 
-CONSIDERANDO: Que mediante Acuerdo No.161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
+CONSIDERANDO: Que mediante Acuerdo No. 161-98 de fecha 4 de agosto de 1998 fue nombrado el Licenciado DACIO REMBERTO CASTILLO FLORES, en el cargo de Representante Permanente de Honduras, ante la Organización Mundial del Comercio (O.M.C.) con sede en Ginebra, Suiza.
 
 CONSIDERANDO: Que mediante Comunicación Interna GA- No. 002-2026 de fecha siete (07) de enero del año dos mil veintiséis (2026), emitida por la Abogada Mary Delmi Hernández, Gerente Administrativa de esta Secretaría de Estado, solicitó la elaboración de Acuerdo de Gastos de Representación y Funcionamiento en el exterior al Representante de la Organización Mundial del Comercio (OMC), en Ginebra, Suiza para el funcionamiento operativo, por un monto de $ 11,000.00 dólares americanos mensuales durante el periodo de enero a diciembre del año 2026.
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que le confiere el Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numeral 1), 8), 116, 118, 119, numeral 3) y 122 de la Ley General de la Administración Pública; Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994 publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No.177-94 de fecha 25 de febrero de 1995 publicado en el Diario Oficial “La Gaceta” edición No. 27, 3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No.161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las facultades que le confiere el Artículo 15, 16, 21, 255, 321 de la Constitución de la República; 7, 36 numeral 1), 8), 116, 118, 119, numeral 3) y 122 de la Ley General de la Administración Pública; Artículo 1 del Decreto Legislativo No. 17-94 de fecha 21 de junio de 1994 publicado en el Diario Oficial “La Gaceta” edición No. 27, 379, Artículo 1 del Decreto Legislativo No. 177-94 de fecha 25 de febrero de 1995 publicado en el Diario Oficial “La Gaceta” edición No. 27, 3589, Acuerdo Ministerial No. 356-92 de fecha 23 de septiembre, 1992, Acuerdo Ministerial No. 009-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 10-93 de fecha 18 de enero, 1993, Acuerdo Ministerial No. 567-d.p. de fecha 12 de octubre de 1990, Acuerdo Ministerial No. 16-98 de fecha 7 de enero de 1998, Acuerdo No. 161-98 de fecha 4 de agosto de 1998, Acuerdo No. 171-98 de fecha 19 de agosto de 1998.
 
 ACUERDA:
 

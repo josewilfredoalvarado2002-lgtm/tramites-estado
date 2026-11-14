@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. SO-098-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200108-35143/download"
 extraido: "2026-11-14"
-huella: "8b345222abd992a3"
+huella: "4b7e13a2dcd00b1b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SO-098-2019
@@ -65,7 +65,7 @@ CONSIDERANDO (14): Que para la preservación de la memoria histórica de la Naci
 
 CONSIDERANDO (15): Que se ha identificado un modelo de gestión documental planteado regionalmente y que ha contado con el apoyo de los entes que desarrollan la supervisión de las funciones en transparencia y el derecho de acceso a la información pública de sus respectivos países en América Latina y España reunidos en la Red de Transparencia y Acceso a la Información.
 
-CONSIDERANDO (16): Que en Sesión Ordinaria SO-070- 2019 de fecha cuatro (04) de diciembre de dos mil diecinueve (2019), el PLENO DE COMISIONADOS por unanimidad de votos aprobó: 1. Los LINEAMIENTOS DE ARCHIVO.
+CONSIDERANDO (16): Que en Sesión Ordinaria SO-070-2019 de fecha cuatro (04) de diciembre de dos mil diecinueve (2019), el PLENO DE COMISIONADOS por unanimidad de votos aprobó: 1. Los LINEAMIENTOS DE ARCHIVO.
 
 2. Girar instrucciones a Gerencia Administrativa para que los LINEAMIENTOS DE ARCHIVO se envíe a la Empresa Nacional de Artes Gráfica (ENAG) para su publicación en el Diario Oficial La Gaceta. 3. Una vez realizada la publicación en el Diario Oficial La Gaceta, remitir a las instituciones obligadas los Lineamientos de Archivo para su cumplimiento.
 
@@ -73,7 +73,7 @@ POR TANTO:
 
 EL PLENO DE COMISIONADOS DEL INSTITUTO DE
 
-ACCESO A LA INFORMACIÓN PÚBLICA (IAIP), en uso de las facultades de que está investido y en aplicación de los Artículos 172 constitucional y el Decreto número 220- 97 emitido el d i e z y s e i s ( 16) de diciembre de mil novecientos noventa y siete (1997), 116, 118, 122 de la Ley de la Administración Pública; del Decreto Legislativo Número 170-2006 contentivo de la Ley de Transparencia y Acceso a la Información Pública, el cual fue publicado en el Diario Oficial La Gaceta el 30 de diciembre de 2006; el Artículo 1, 8, 11 numeral 3 de la Ley de Transparencia y Acceso a la Información Pública; el Artículo 67 y 68 del Reglamento de la Ley de Transparencia y Acceso a la Información Pública; el Artículo 15 del Reglamento de Funcionamiento del Instituto de Acceso a la Información Pública y el Punto 7 del Acta No. 12, de la sesión celebrada por el CONGRESO NACIONAL DE LA REPÚBLICA en fecha diez (10) de septiembre del año dos mil diecinueve (2019).
+ACCESO A LA INFORMACIÓN PÚBLICA (IAIP), en uso de las facultades de que está investido y en aplicación de los Artículos 172 constitucional y el Decreto número 220-97 emitido el diez y seis ( 16) de diciembre de mil novecientos noventa y siete (1997), 116, 118, 122 de la Ley de la Administración Pública; del Decreto Legislativo Número 170-2006 contentivo de la Ley de Transparencia y Acceso a la Información Pública, el cual fue publicado en el Diario Oficial La Gaceta el 30 de diciembre de 2006; el Artículo 1, 8, 11 numeral 3 de la Ley de Transparencia y Acceso a la Información Pública; el Artículo 67 y 68 del Reglamento de la Ley de Transparencia y Acceso a la Información Pública; el Artículo 15 del Reglamento de Funcionamiento del Instituto de Acceso a la Información Pública y el Punto 7 del Acta No. 12, de la sesión celebrada por el CONGRESO NACIONAL DE LA REPÚBLICA en fecha diez (10) de septiembre del año dos mil diecinueve (2019).
 
 ACUERDA:
 
@@ -351,11 +351,11 @@ b. Nombre del Titular en el ejercicio del cargo de la dependencia de donde origi
 
 5. Delegados institucionales responsables de la ejecución del expurgo.
 
-En la Inspección in situ deberá participar la institución o persona que hubiese sido designada, o q u i e n a su nombre se hubiese, solicitado el expurgo.
+En la Inspección in situ deberá participar la institución o persona que hubiese sido designada, o quien a su nombre se hubiese, solicitado el expurgo.
 
 #### Artículo 27
 
-Artículo 27.- ELABORACIÓN DEL CATÁLOGO DOCUMENTAL. Posteriormente al proceso de expurgo que estipulan los presentes Lineamientos, la institución que sometió a consideración el expurgo o d e p u r a c i ó n de su archivo para la transferencia al Archivo Nacional de Honduras, deberá proceder a la elaboración de un catálogo documental, el cual consiste en el registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final, de conformidad al plazo establecido en el artículo 32 de la Ley de Transparencia y Acceso a la Información Pública.
+Artículo 27.- ELABORACIÓN DEL CATÁLOGO DOCUMENTAL. Posteriormente al proceso de expurgo que estipulan los presentes Lineamientos, la institución que sometió a consideración el expurgo o depuración de su archivo para la transferencia al Archivo Nacional de Honduras, deberá proceder a la elaboración de un catálogo documental, el cual consiste en el registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final, de conformidad al plazo establecido en el artículo 32 de la Ley de Transparencia y Acceso a la Información Pública.
 
 #### Artículo 28
 

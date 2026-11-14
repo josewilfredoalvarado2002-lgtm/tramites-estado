@@ -8,10 +8,10 @@ gaceta_numero: 36142
 gaceta_fecha: "2023-01-30"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)|La Gaceta 36142]]"
 paginas: "A. 7 - 10"
-sumario: "Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
+sumario: "Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230130-36142/download"
 extraido: "2026-11-14"
-huella: "b0315b7bf7271148"
+huella: "4e03e37bed24d025"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 014-2023
@@ -23,7 +23,7 @@ huella: "b0315b7bf7271148"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36142 (2023-01-30)\|La Gaceta 36142]] del 2023-01-30 |
 | Páginas | A. 7 - 10 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número 01-2023; SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 012-2023, 013-2023, 014-2023, 016-2023 |
 
 ## Texto
 
@@ -39,19 +39,13 @@ CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO), 
 
 CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No.
-
-468-2022 (COMIECO-CII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido de Velocidad Fija, Descarga Libre y sin Ductos de Aire.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No. 468-2022 (COMIECO-CII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido de Velocidad Fija, Descarga Libre y sin Ductos de Aire.
 
 Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. La presente Resolución entrará en vigor para las Repúblicas de Costa Rica, Guatemala, Honduras, Nicaragua y Panamá el 2 de diciembre de 2023 y para la República de El Salvador el 2 de junio de 2023 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No. 469-2022 (COMIECO-CII); que RESUELVE: 1. Aprobar la adhesión, de la República de Panamá, al Reglamento Técnico Centroamericano RTCA 65.05.63:11 Productos Utilizados en Alimentación Animal. Buenas Prácticas de Manufactura y su Lista de Verificación de Buenas Prácticas de Manufactura, aprobados en el Anexo 1 de la Resolución No. 300-2012 (COMIECO LXIV), del 11 de diciembre de 2012. 2. Para mayor certeza, el Anexo 1 de la Resolución No. 300-2012 (COMIECO LXIV), del 11 de diciembre de 2012, que contiene el RTCA y Lista indicados en el numeral 1, aparecen como Anexo de la presente Resolución. 3. La presente Resolución entrará en vigor el 2 de diciembre de 2023 y será publicada por los Estados Parte.
 
-469-2022 (COMIECO-CII); que RESUELVE: 1. Aprobar la adhesión, de la República de Panamá, al Reglamento Técnico Centroamericano RTCA 65.05.63:11 Productos Utilizados en Alimentación Animal. Buenas Prácticas de Manufactura y su Lista de Verificación de Buenas Prácticas de Manufactura, aprobados en el Anexo 1 de la Resolución No. 300-2012 (COMIECO LXIV), del 11 de diciembre de 2012. 2. Para mayor certeza, el Anexo 1 de la Resolución No. 300-2012 (COMIECO LXIV), del 11 de diciembre de 2012, que contiene el RTCA y Lista indicados en el numeral 1, aparecen como Anexo de la presente Resolución. 3. La presente Resolución entrará en vigor el 2 de diciembre de 2023 y será publicada por los Estados Parte.
-
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No.
-
-470-2022 (COMIECO-CII); que RESUELVE: 1. Modificar el numeral 2 de la parte resolutiva de la Resolución No. 451- 2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, de la siguiente manera: “La presente Resolución entrará en vigor para la República de El Salvador el 17 de agosto de 2022; para las Repúblicas de Costa Rica, Honduras, Nicaragua y Panamá el 17 de diciembre de 2022 y para la República de Guatemala, el 17 de junio de 2023 y será publicada por los Estados Parte”.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No. 470-2022 (COMIECO-CII); que RESUELVE: 1. Modificar el numeral 2 de la parte resolutiva de la Resolución No. 451-2021 (COMIECO-XCVIII), del 17 de diciembre de 2021, de la siguiente manera: “La presente Resolución entrará en vigor para la República de El Salvador el 17 de agosto de 2022; para las Repúblicas de Costa Rica, Honduras, Nicaragua y Panamá el 17 de diciembre de 2022 y para la República de Guatemala, el 17 de junio de 2023 y será publicada por los Estados Parte”.
 
 2. Modificar el numeral 11.3.16. del Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos.
 
@@ -63,7 +57,7 @@ La leyenda “(BTU/hW):” (sólo valores enteros), seguida de la REEE o CSPF de
 
 La presente Resolución entra en vigor a partir de esta fecha y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No. 471- 2022 (COMIECO-CII); que RESUELVE: 1. A partir de la entrada en vigor de la presente Resolución, la SIECA percibirá tres dólares de los Estados Unidos de América (US$ 3.00) en concepto del servicio que preste por cada DUCA-F que sea transmitida electrónicamente a través de las plataformas informáticas de la SIECA. 2. Aprobar los “Lineamientos para la administración, rendición de cuentas y fiscalización del mecanismo de sostenibilidad de las plataformas informáticas que administra la SIECA”, en la forma que aparece en el Anexo de esta Resolución y que forma parte integral de la misma. 3. La SIECA realizará las gestiones administrativas necesarias para implementar el numeral 1 de la presente Resolución. 4. El COMIECO revisará lo dispuesto en el numeral 1 de esta Resolución en el mes de diciembre de cada año, para evaluar y asegurar la sostenibilidad de las plataformas informáticas que administra la SIECA. 5. La presente Resolución entrará en vigor el 1 de abril de 2023 y será publicada por los Estados Parte.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 02 de diciembre de 2022, adoptó la RESOLUCIÓN No. 471-2022 (COMIECO-CII); que RESUELVE: 1. A partir de la entrada en vigor de la presente Resolución, la SIECA percibirá tres dólares de los Estados Unidos de América (US$ 3.00) en concepto del servicio que preste por cada DUCA-F que sea transmitida electrónicamente a través de las plataformas informáticas de la SIECA. 2. Aprobar los “Lineamientos para la administración, rendición de cuentas y fiscalización del mecanismo de sostenibilidad de las plataformas informáticas que administra la SIECA”, en la forma que aparece en el Anexo de esta Resolución y que forma parte integral de la misma. 3. La SIECA realizará las gestiones administrativas necesarias para implementar el numeral 1 de la presente Resolución. 4. El COMIECO revisará lo dispuesto en el numeral 1 de esta Resolución en el mes de diciembre de cada año, para evaluar y asegurar la sostenibilidad de las plataformas informáticas que administra la SIECA. 5. La presente Resolución entrará en vigor el 1 de abril de 2023 y será publicada por los Estados Parte.
 
 POR TANTO:
 

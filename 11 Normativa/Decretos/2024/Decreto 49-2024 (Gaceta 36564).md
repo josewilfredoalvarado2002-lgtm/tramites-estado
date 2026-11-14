@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 49-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240619-36564/download"
 extraido: "2026-11-14"
-huella: "6f9f2ecdc1863933"
+huella: "b1817e64cb6af4eb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 49-2024
@@ -39,13 +39,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Se ordena a la Secretaría de Estado en el Despacho de Salud (SESAL) para que con carácter urgente proceda a realizar las acciones necesarias para que la Organización No Gubernamental de Capacitación, Educación, Producción, Unificación, Desarrollo y Organización (CEPUDO), realice la construcción y equipamiento de un Policlínico en el Municipio de Copán Ruinas, en el Departamento de Copán y para que finalice la construcción y realice el equipamiento del Policlínico localizado en el Municipio de Siguatepeque, Departamento de Comayagua.
 
-La construcción y equipamiento de los Policlínicos en ambos municipios deben realizarse en uso de los fondos trasladados a la organización CEPUDO al amparo de lo establecido en el Decreto Legislativo No.153-2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial “La Gaceta” en su Edición No.36,251 en fecha 10 de Junio de 2023 y, bajo los criterios técnicos previamente establecidos por la Secretaría de Estado en el Despacho de Salud (SESAL), quien deberá prestar el apoyo técnico y legal necesario a CEPUDO para el cumplimiento de lo descrito en el presente Artículo.
+La construcción y equipamiento de los Policlínicos en ambos municipios deben realizarse en uso de los fondos trasladados a la organización CEPUDO al amparo de lo establecido en el Decreto Legislativo No. 153-2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial “La Gaceta” en su Edición No. 36,251 en fecha 10 de Junio de 2023 y, bajo los criterios técnicos previamente establecidos por la Secretaría de Estado en el Despacho de Salud (SESAL), quien deberá prestar el apoyo técnico y legal necesario a CEPUDO para el cumplimiento de lo descrito en el presente Artículo.
 
 #### Artículo 2
 
@@ -53,7 +53,7 @@ ARTÍCULO 2.- La Secretaría de Estado en el Despacho de Salud (SESAL) debe elab
 
 #### Artículo 3
 
-ARTÍCULO 3.- La Organización No Gubernamental de Capacitación, Educación, Producción, Unificación, Desarrollo y Organización (CEPUDO) debe brindar los informes técnicos y administrativos establecidos en el Decreto Legislativo No.153- 2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial “La Gaceta” en su Edición No.36,251 en fecha 10 de Junio de 2023, para la construcción y equipamiento de ambos policlínicos, en los tiempos y a las instancias correspondientes.
+ARTÍCULO 3.- La Organización No Gubernamental de Capacitación, Educación, Producción, Unificación, Desarrollo y Organización (CEPUDO) debe brindar los informes técnicos y administrativos establecidos en el Decreto Legislativo No. 153-2022 del 21 de Diciembre de 2022, publicado en el Diario Oficial “La Gaceta” en su Edición No. 36,251 en fecha 10 de Junio de 2023, para la construcción y equipamiento de ambos policlínicos, en los tiempos y a las instancias correspondientes.
 
 #### Artículo 4
 

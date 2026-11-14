@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 95-2024, 99-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241022-36669/download"
 extraido: "2026-11-14"
-huella: "3358c423a33fac82"
+huella: "b20a6a8348580875"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 95-2024
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- A M N I S T Í A T R I B U T A R I A
+ARTÍCULO 1.- AMNISTÍA TRIBUTARIA
 
 MUNICIPAL. Se concede el beneficio de AMNISTÍA en todas las municipalidades del país hasta el 31 de Diciembre del 2024, para el pago de intereses, multas y recargos causadas por la mora que vía administrativa o judicial esté acumulada al 1 de Diciembre del año 2023, en el pago de todos los impuestos municipales, tasas y contribuciones, a las personas naturales o jurídicas, para que puedan enterar el pago de sus obligaciones tributarias, libres de intereses por mora, multas, cargos y recargos, en el período de vigencia del presente Decreto de Amnistía Tributaria Municipal, de conformidad con lo establecido en el mismo se autoriza a las municipalidades para que dentro del período de vigencia de este Artículo puedan establecer los planes de pago, siempre que no sean mayores de un (1) año. De igual manera, las municipalidades que así lo dispongan, pueden otorgar un descuento de hasta el veinte por ciento (20%) del monto de la obligación principal, beneficio que debe aprobarse por la Corporación Municipal respectiva, individualmente.
 

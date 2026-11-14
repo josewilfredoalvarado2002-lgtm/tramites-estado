@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210918-35721/download"
 extraido: "2026-11-14"
-huella: "3bb87d75148b3436"
+huella: "ee8cd0fc08419b44"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-04-2021
@@ -33,7 +33,7 @@ Tegucigalpa, Distrito Central; 30 de agosto de 2021.
 
 EL PLENO DE LA CORTE SUPREMA DE JUSTICIA
 
-Resolviendo en la sesión celebrada por medios electrónicos, emitió el siguiente Acuerdo: C R E A C I Ó N D E L JUZGADO DE LETRAS DE COPÁN RUINAS.
+Resolviendo en la sesión celebrada por medios electrónicos, emitió el siguiente Acuerdo: CREACIÓN DEL JUZGADO DE LETRAS DE COPÁN RUINAS.
 
 Se contó con la participación de los Magistrados: Presidente Rolando Edgardo Argueta Pérez, Lidia Alvarez Sagastume, Reynaldo Antonio Hernández, José Olivio Rodríguez Vásquez, Jorge Alberto Zelaya Zaldaña, Rafael Bustillo Romero, Edgardo Cáceres Castellanos, Wilfredo Méndez Romero, Rina Auxiliadora Alvarado Moreno, Edwin Francisco Ortez Cruz, Reina Auxiliadora Hércules Rosa, Miguel Alberto Pineda Valle, María Fernanda Castro Mendoza, Jorge Abilio Serrano Villanueva y Alma Consuelo Guzmán García.
 
@@ -101,7 +101,7 @@ Séptimo. Finalmente, y con base en lo dispuesto en los artículos 313 numerales
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias;
 
-A c u e r d a Primero. Crear el Juzgado de Letras Seccional de Copán Ruinas, con competencia territorial en los municipios de Cabañas, Copán Ruinas y Santa Rita, departamento de Copán, y competencia objetiva y funcional en asuntos penales, de niñez, de violencia doméstica, de familia, laborales, de inquilinato y civiles.
+Acuerda Primero. Crear el Juzgado de Letras Seccional de Copán Ruinas, con competencia territorial en los municipios de Cabañas, Copán Ruinas y Santa Rita, departamento de Copán, y competencia objetiva y funcional en asuntos penales, de niñez, de violencia doméstica, de familia, laborales, de inquilinato y civiles.
 
 Segundo. Modificar la competencia territorial del Juzgado de Letras Departamental de Santa Rosa de Copán, que, en adelante, conocerá asuntos de niñez, en todos los municipios de Copán, excepto Copán Ruinas, Santa Rita y Cabañas.
 
@@ -137,7 +137,7 @@ ACUERDA:
 
 PRIMERO: CANCELAR POR CESANTÍA, al Ciudadano James Aldana Medina del cargo de Gerente Administrativo, Institución 100 Secretaría de Finanzas, Gerencia Administrativa: 001 Gerencia Central, Unidad Ejecutora: 01 Secretaria de Estado, Programa: 01 Actividades Centrales, Sub-Programa: 00, Proyecto: 00, Actividad u obra:
 
-05 Servicios Administrativos y Contables, Grupo y Nivel: 04- 12, Código de Clase: 209, Puesto No. 5670, Sueldo Ordinario Mensual L. 78,500.00, a partir del 30 de septiembre de 2021.
+05 Servicios Administrativos y Contables, Grupo y Nivel: 04-12, Código de Clase: 209, Puesto No. 5670, Sueldo Ordinario Mensual L. 78,500.00, a partir del 30 de septiembre de 2021.
 
 SEGUNDO: Hacer las transcripciones de Ley.
 
@@ -157,7 +157,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquel ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM-124- 2021 de fecha 10 de septiembre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del veinte
+CONSIDERANDO: Que mediante Memorando DM-124-2021 de fecha 10 de septiembre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del veinte
 
 (20) al veintitrés (23) de septiembre de dos mil veintiuno (2021), debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, formará parte de la delegación que acompañará al señor Presidente Constitucional de la República de Honduras, abogado Juan Orlando Hernández Alvarado, en el viaje oficial a Nueva York, Estados Unidos, con la finalidad de participar en nombre y representación del Gobierno de la República de Honduras en el “Septuagésimo Sexto Período de Sesiones de la Asamblea General de las Naciones Unidas con el tema; “Construir resiliencia a través de la esperanza: recuperarse del COVID-19, reconstruir de manera sostenible, responder a las necesidades del planeta, respetar los derechos de las personas y revitalizar las Naciones Unidas”.
 

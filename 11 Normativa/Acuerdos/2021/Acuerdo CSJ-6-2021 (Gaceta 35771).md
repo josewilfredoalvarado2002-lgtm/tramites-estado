@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdo No. CSJ-6-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211113-35771/download"
 extraido: "2026-11-14"
-huella: "16fec17ac0108cbb"
+huella: "bd85656c1c138ede"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-6-2021
@@ -107,7 +107,7 @@ Además, recomienda la realización de capacitaciones técnicas al personal judi
 
 Séptimo: La prueba efectuada en el Juzgado de Letras Penal de la Sección Judicial de Tegucigalpa, ha tenido resultados muy positivos, ya que ha permitido registrar alertas migratorias en tiempo real, que se han visto reflejadas de forma inmediata en todos los puntos migratorios aéreos, marítimos y terrestres a nivel nacional, sin necesidad de trasladarse al mencionado Instituto Nacional de Migración; asimismo, tanto la Dirección de Infotecnología como la Coordinación de la Unidad Técnico-Jurídica de la Presidencia, han dictaminado que es viable técnica y jurídicamente el uso de esta herramienta tecnológica; razones por las cuales este Pleno de la Corte Suprema de Justicia estima oportuno y necesario proceder a la implementación progresiva del portal web de alertas migratorias en todos los órganos jurisdiccionales del país, competentes en las materias: penal, de niñez y adolescencia, y de familia.
 
-P a r t e D i s p o s i t i v a La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades Constitucionales legales y reglamentarias, A c u e r d a Primero: Aprobar el inicio del Proceso de Implementación del Portal Web de Alertas Migratorias, el cual se desarrollará de la siguiente manera:
+Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades Constitucionales legales y reglamentarias, Acuerda Primero: Aprobar el inicio del Proceso de Implementación del Portal Web de Alertas Migratorias, el cual se desarrollará de la siguiente manera:
 
 CORTE SUPREMA DE JUSTICIA
 

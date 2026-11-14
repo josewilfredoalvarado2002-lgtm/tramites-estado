@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Acuerdos Nos. 01/2021, 02/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210120-35492/download"
 extraido: "2026-11-14"
-huella: "51f0c20060c6ab84"
+huella: "a7d391a04f85c166"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.02/2021.- Sesión No.3876 del 14 de enero
@@ -31,11 +31,11 @@ de 2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
-CONSIDERANDO: Que el Acuerdo No.08/2019 del 23 de diciembre de 2019, contiene el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, por medio de la Resolución No.364- 11/2020 del 19 de noviembre de 2020, el Directorio del BCH modificó la Normativa Complementaria de dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
+CONSIDERANDO: Que el Acuerdo No. 08/2019 del 23 de diciembre de 2019, contiene el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, por medio de la Resolución No. 364-11/2020 del 19 de noviembre de 2020, el Directorio del BCH modificó la Normativa Complementaria de dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
 CONSIDERANDO: Que de acuerdo al proceso de modernización de la política cambiaria y monetaria, es necesario incorporar en el cálculo de la banda cambiaria de la subasta de Divisas y el Mercado Interbancario de Divisas (MID), un elemento de mercado que responda a la oferta y demanda de divisas de los agentes económicos.
 
-CONSIDERANDO: Que conforme a la propuesta del Departamento Internacional, el Comité de Divisas, mediante Acta de la Sesión No.15/2020 celebrada, de manera virtual, el 30 de noviembre de 2020, estuvo de acuerdo en incorporar al centro de la banda cambiaria de la Subasta de Divisas y el MID, la variación absoluta del Tipo de Cambio de Referencia como elemento de mercado, por lo que es necesario someter a la consideración de este Directorio la aprobación de una nueva modificación a la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, acorde al desempeño del Mercado Organizado de Divisas.
+CONSIDERANDO: Que conforme a la propuesta del Departamento Internacional, el Comité de Divisas, mediante Acta de la Sesión No. 15/2020 celebrada, de manera virtual, el 30 de noviembre de 2020, estuvo de acuerdo en incorporar al centro de la banda cambiaria de la Subasta de Divisas y el MID, la variación absoluta del Tipo de Cambio de Referencia como elemento de mercado, por lo que es necesario someter a la consideración de este Directorio la aprobación de una nueva modificación a la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, acorde al desempeño del Mercado Organizado de Divisas.
 
 POR TANTO:
 
@@ -43,11 +43,11 @@ Con fundamento en los artículos 342 de la Constitución de la República; 2, 6,
 
 \11) y 12) de la Ley del Sistema Financiero; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los numerales 3.2, 3.8 y 4.4 de la Resolución No.364-11/2020, contentiva de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán así:
+Modificar los numerales 3.2, 3.8 y 4.4 de la Resolución No. 364-11/2020, contentiva de la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán así:
 
 “3.2.
 

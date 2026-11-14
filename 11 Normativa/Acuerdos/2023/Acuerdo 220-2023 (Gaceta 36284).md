@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo Número 220-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230718-36284/download"
 extraido: "2026-11-14"
-huella: "75580a422d9ac79d"
+huella: "b51c452e15eb4877"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 220-2023
@@ -77,9 +77,7 @@ CONSIDERANDO: Que la Ley Orgánica de la Procuraduría General de la República 
 
 \3) Comparecer en representación del Estado conforme a las instrucciones de la Señora Presidente de la República como titulare del Poder Ejecutivo y el otorgamiento de los actos o contratos en que estuviere interesado el Estado.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-274-2010 de fecha 16 de marzo del 2011, se crea la “Dirección General de Bienes Nacionales”, misma que fue modificada mediante Decreto Ejecutivo PCM-047-2015 de fecha 14 de septiembre del 2015 a “Dirección Nacional de Bienes del Estado” y contempla en su artículo 4 las funciones de dicha Dirección, estando dentro de ellas la administración de los bienes nacionales, entre otras, autorizar de acuerdo al Reglamento las altas, bajas y donaciones; e intervenir en todas las actuaciones administrativas del sector Público que originen movimientos de bienes fiscales.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 274-2010 de fecha 16 de marzo del 2011, se crea la “Dirección General de Bienes Nacionales”, misma que fue modificada mediante Decreto Ejecutivo PCM-047-2015 de fecha 14 de septiembre del 2015 a “Dirección Nacional de Bienes del Estado” y contempla en su artículo 4 las funciones de dicha Dirección, estando dentro de ellas la administración de los bienes nacionales, entre otras, autorizar de acuerdo al Reglamento las altas, bajas y donaciones; e intervenir en todas las actuaciones administrativas del sector Público que originen movimientos de bienes fiscales.
 
 CONSIDERANDO: Que el Código de Notariado en su artículo 92 determina que “Corresponde únicamente a los interesados designar el Notario cuando tengan que cubrir los honorarios de la actuación notarial.
 
@@ -119,7 +117,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 IRIS XIOMARA CASTRO SARMIENTOS PRESIDENTE CONSTITUCIONAL DE LA REPÚBLICA JOSÉ MANUEL ZELAYA ROSALES SECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.- Condecorar al ciudadano JOHAN DAVID REYES CHÁVEZ, confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología. La Condecoración relacionada en el presente Artículo debe ser entregada en la fecha indicada por el Presidente del Poder Legislativo.
+DECRETA: ARTÍCULO 1.- Condecorar al ciudadano JOHAN DAVID REYES CHÁVEZ, confiriéndole reconocimiento consistente en PERGAMINO ESPECIAL Y MEDALLA por sus destacados y relevantes méritos por su aporte a las ciencias como profesional de la Biología. La Condecoración relacionada en el presente Artículo debe ser entregada en la fecha indicada por el Presidente del Poder Legislativo.
 
 CENTROS DE DISTRIBUCIÓN:
 

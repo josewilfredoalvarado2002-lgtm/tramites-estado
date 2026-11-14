@@ -11,7 +11,7 @@ paginas: "A. 35 - 37"
 sumario: "Acuerdos Nos. 01-2026, 02-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260716-37195/download"
 extraido: "2026-11-09"
-huella: "9fd84f7d9a8df2e0"
+huella: "95e2ad1b9c3ce479"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 01-2026
@@ -27,13 +27,11 @@ huella: "9fd84f7d9a8df2e0"
 
 ## Texto
 
-CONSIDERANDO (1): Que mediante Decreto No. 181- 2006 de fecha 29 de Noviembre del 2006, el soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 el 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha.
+CONSIDERANDO (1): Que mediante Decreto No. 181-2006 de fecha 29 de Noviembre del 2006, el soberano Congreso Nacional aprobó la Ley de la Zona Libre Turística del Departamento de Islas de la Bahía, siendo publicada en el Diario Oficial La Gaceta Número 31,199 el 08 de enero del 2007, entrando en vigencia veinte (20) días después de esta fecha.
 
 CONSIDERANDO (2): Que según lo establecido en el artículo 5, primer párrafo, la Organización Administrativa de la Zona Libre Turística del Departamento de Islas de la Bahía, se crea bajo la forma de una entidad de derecho público con desconcentración funcional, geográfica, competencia y jurisdicción propia, la cual será responsable de administrar la Zona Libre Turística del Departamento de Islas de La Bahía con criterio administrativo, técnico y financiero propio. Se denominará Comisión Administradora de la Zona Libre Turística del Departamento de Islas de la Bahía y estará adscrita administrativamente a la Secretaría de Estado en el Despacho de Finanzas.
 
-CONSIDERANDO (3): Que en el marco de la Ley General de la Administración Pública contenida en el Decreto No.
-
-146-86 y la Ley constitutiva de la Zona Libre Turística del Departamento de Islas de la Bahía, bajo el principio de libre nombramiento y remoción para cargos de confianza dentro de la Administración Pública Centralizada, en virtud de la relación de confianza política y administrativa que existe con la autoridad nominadora, se faculta a la Comisión Administradora de la Zona Libre Turística del Departamento, nombrar y remover a los funcionarios de confianza, en el marco de su ley Constitutiva.
+CONSIDERANDO (3): Que en el marco de la Ley General de la Administración Pública contenida en el Decreto No. 146-86 y la Ley constitutiva de la Zona Libre Turística del Departamento de Islas de la Bahía, bajo el principio de libre nombramiento y remoción para cargos de confianza dentro de la Administración Pública Centralizada, en virtud de la relación de confianza política y administrativa que existe con la autoridad nominadora, se faculta a la Comisión Administradora de la Zona Libre Turística del Departamento, nombrar y remover a los funcionarios de confianza, en el marco de su ley Constitutiva.
 
 CONSIDERANDO (4): Que de conformidad al artículo 6 numeral 1 de la Ley constitutiva de la Zona Libre Turística del Departamento de Islas de la Bahía, el o la titular de la Secretaría de Estado en el Despacho de Finanzas, o en su defecto el o la Subsecretaria de Estado correspondiente, presidirá la Comisión Administradora de la Zona Libre Turística del Departamento de Islas de la Bahía.
 

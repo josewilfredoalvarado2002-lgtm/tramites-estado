@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 001-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240207-36454/download"
 extraido: "2026-11-14"
-huella: "072a3cdffba30753"
+huella: "d1e71f3aadfcea63"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2023
@@ -129,7 +129,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veinte d
 
 JOSÉ RAMÓN CÁLIX FIGUEROA PRESIDENTE MARÍA IRMA LAGOS DONAIRE VOCAL I MANUEL ENRIQUE ALVARADO CASCO VOCAL II MARÍA ELENA MATUTE CRUZ TESORERA BÁRBARA GUADALUPE LÓPEZ FUNES SECRETARIA Poder Legislativo FE DE ERRATA Tegucigalpa, M.D.C., Honduras, C.A.
 
-En el Diario Oficial “La Gaceta”, Edición No.36,449, de fecha 1 de Febrero de 2024, específicamente en la publicación del Decreto No.61-2023 del 16 de Enero de 2024, contentivo de la Amnistía de multas, recargos e intereses, así como obligaciones accesorias pendientes de pago con la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE) y por un error involuntario, en el
+En el Diario Oficial “La Gaceta”, Edición No. 36,449, de fecha 1 de Febrero de 2024, específicamente en la publicación del Decreto No. 61-2023 del 16 de Enero de 2024, contentivo de la Amnistía de multas, recargos e intereses, así como obligaciones accesorias pendientes de pago con la EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE) y por un error involuntario, en el
 
 Artículo 1 se consignó una frase incorrecta, los cuales deben ser enmendados con la correcta literalidad de dicho Artículo, en la forma siguiente:
 

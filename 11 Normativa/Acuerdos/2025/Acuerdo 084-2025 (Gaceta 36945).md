@@ -11,7 +11,7 @@ paginas: "A. 17 - 18"
 sumario: "Acuerdos Nos. 077-2025, 082-2025,084-2025, 085-2025, 086-2025, 087-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250918-36945/download"
 extraido: "2026-11-09"
-huella: "e474152cd9bcc6d6"
+huella: "6e0db5ba0aa9e71a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 084-2025
@@ -29,7 +29,7 @@ huella: "e474152cd9bcc6d6"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: La Ley Forestal en el artículo 18 numeral 1, señala que el Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF) tiene las atribuciones de administrar el ICF y ejercer la representación legal del mismo.
 
@@ -51,7 +51,7 @@ SEGUNDO: Se instruye a la Jefatura Regional de Francisco Morazán, darles seguim
 
 TERCERO: El delegado es responsable de la función delegada y presentará al finalizar el periodo de delegación un informe detallado de los actos emitidos y ejecutados.
 
-CUARTO: Dejar sin valor ni efecto el Acuerdo No. 045- 2025, de fecha 13 de mayo del año 2025, a partir de la firma del presente Acuerdo.
+CUARTO: Dejar sin valor ni efecto el Acuerdo No. 045-2025, de fecha 13 de mayo del año 2025, a partir de la firma del presente Acuerdo.
 
 QUINTO: El presente Acuerdo de Delegación, tendrá vigencia a partir de su firma y hasta la finalización de las obras o la rescisión y/o terminación del contrato de obra en relación; debiendo publicarse en el Diario Oficial La Gaceta, el portal de transparencia y en la página web del ICF. COMUNÍQUESE Y PUBLÍQUESE.
 

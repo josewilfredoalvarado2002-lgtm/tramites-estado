@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-057-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200628-35297/download"
 extraido: "2026-11-14"
-huella: "4ad9c4e0eb032075"
+huella: "dfff7d2dffc9554a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-057-2020
@@ -41,7 +41,7 @@ Artículo 11 de la Ley General de la Administración Pública, el Presidente de 
 
 CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-056-2020, publicado en el Diario Oficial “La Gaceta” en fecha 21 de junio del 2020, edición No. 35,290, mediante el cual se estableció la “PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES. Decretando, prorrogar por quince
 
-(15) días, efectivo a partir del 22 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM- 021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM- 028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047- 2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020
+(15) días, efectivo a partir del 22 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020 y PCM-053-2020
 
 CONSIDERANDO: Que el crecimiento sustancial en el número de contagios según la información epidemiológica en Honduras, el total de casos confirmados a la fecha por la Pandemia de Covid-19 asciende a: 18,082 casos, 1,875 personas recuperadas y 479 fallecidos a nivel nacional, por lo que se hace necesario continuar con las medidas de Restricción de Garantías Constitucionales que contribuyan a contrarrestar el inminente peligro de contagio y continuar reforzando las medidas adoptadas para prevenir la propagación del virus.
 
@@ -51,7 +51,7 @@ POR TANTO:
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM- 005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033- 2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020 y PCM-056-2020.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020 y PCM-056-2020.
 
 DECRETA:
 
@@ -59,7 +59,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE LAS MEDIDAS DE RESTRICCIÓN A DERECHOS FUNDAMENTALES.
 
-Prorrogar por siete (7) días, efectivo a partir del 29 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM- 026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM- 045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020 y PCM-056-2020.
+Prorrogar por siete (7) días, efectivo a partir del 29 de junio del presente año, la restricción a nivel nacional de las Garantías Constitucionales establecidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, emitida mediante Decreto Ejecutivo en Consejo de Secretarios de Estado Número PCM-021-2020, reformado por los Decretos Ejecutivos Números PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020 y PCM-056-2020.
 
 Como la norma Constitucional así lo establece en su Artículo 187, numeral 4, se convoca al Congreso Nacional para que dentro del plazo de treinta (30) días, conozca de dicho Decreto y lo ratifique, modifique o impruebe.
 
@@ -101,7 +101,7 @@ Las excepciones específicas relacionadas con el Comercio y la industria para es
 
 ARTÍCULO 3.- Ratificar el Articulo 3 del Decreto Ejecutivo número PCM-056-2020, publicado en el Diario Oficial “La Gaceta” en fecha 21 de junio del 2020, edición No. 35,290 el cual se leerá de la manera siguiente:
 
-“ A RT Í C U L O 2 . - E X C E P C I O N E S A L O S
+“ A RT Í C U L O 2 . - EXCEPCIONES A LOS
 
 FUNCIONARIOS DEL ESTADO: No están sujetos a las restricciones de Garantías Constitucionales los funcionarios y empleados de las siguientes Instituciones del Estado:
 

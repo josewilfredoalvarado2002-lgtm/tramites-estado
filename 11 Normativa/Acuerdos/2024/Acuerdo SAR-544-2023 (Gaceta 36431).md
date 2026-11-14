@@ -11,7 +11,7 @@ paginas: "A. 1 - 96"
 sumario: "Acuerdo Número SAR-544-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240111-36431/download"
 extraido: "2026-11-14"
-huella: "cb76ec21427307ae"
+huella: "ae3be1a97de35814"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-544-2023
@@ -37,17 +37,13 @@ CONSIDERANDO: Que en el Artículo 199 de la norma supra indicada, establece entr
 
 \1) …, 3) Aprobar el Plan Estratégico Institucional.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al ciudadano MARLON DAVID OCHOA MARTÍNEZ, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al ciudadano MARLON DAVID OCHOA MARTÍNEZ, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
+CONSIDERANDO: Que mediante Acuerdo número SAR-526-2022 de fecha 29 de diciembre del 2022, se delegó en el ciudadano MARVIN ANTONIO ARTICA AMADOR, en su condición de Secretario Regional de la Dirección de Grandes Contribuyentes Tegucigalpa del Servicio de Administración de Rentas, las facultades inherentes a la Secretaría General del Servicio de Administración de Rentas (SAR), en ausencia de la titular de dicha Secretaría.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 526-2022 de fecha 29 de diciembre del 2022, se delegó en el ciudadano MARVIN ANTONIO ARTICA AMADOR, en su condición de Secretario Regional de la Dirección de Grandes Contribuyentes Tegucigalpa del Servicio de Administración de Rentas, las facultades inherentes a la Secretaría General del Servicio de Administración de Rentas (SAR), en ausencia de la titular de dicha Secretaría.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 286-2009 de fecha 27 de enero del 2010, publicado en el Diario Oficial “La Gaceta” en fecha 02 de febrero del 2010, contentivo de la Ley para el Establecimiento de una Visión de País y la Aprobación de un Plan de Nación, se aprueba el inicio de la implementación de uno de los más notables esfuerzos dirigidos a estructurar un modelo de gestión pública basada en un sistema de planificación y visión a largo plazo el cual es sustentado en un compromiso con los diferentes sectores de la Administración Pública Central a partir del año 2010.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-286-2009 de fecha 27 de enero del 2010, publicado en el Diario Oficial “La Gaceta” en fecha 02 de febrero del 2010, contentivo de la Ley para el Establecimiento de una Visión de País y la Aprobación de un Plan de Nación, se aprueba el inicio de la implementación de uno de los más notables esfuerzos dirigidos a estructurar un modelo de gestión pública basada en un sistema de planificación y visión a largo plazo el cual es sustentado en un compromiso con los diferentes sectores de la Administración Pública Central a partir del año 2010.
-
-CONSIDERANDO: Que mediante Acuerdo Número SAR- 1220-2017 de fecha 23 de mayo del 2017, publicado en el Diario Oficial La Gaceta No. 34,450 en fecha 23 de septiembre del 2017, se aprobó el Plan Estratégico Institucional (PEI) 2017-2022 del Servicio de Administración de Rentas (SAR), el que fue reformulado mediante los Acuerdos Número SAR- 303-2020 de fecha 22 de diciembre del 2020 y SAR-502-2021 de fecha 27 de diciembre del 2021.
+CONSIDERANDO: Que mediante Acuerdo Número SAR-1220-2017 de fecha 23 de mayo del 2017, publicado en el Diario Oficial La Gaceta No. 34,450 en fecha 23 de septiembre del 2017, se aprobó el Plan Estratégico Institucional (PEI) 2017-2022 del Servicio de Administración de Rentas (SAR), el que fue reformulado mediante los Acuerdos Número SAR-303-2020 de fecha 22 de diciembre del 2020 y SAR-502-2021 de fecha 27 de diciembre del 2021.
 
 CONSIDERANDO: Que es necesario la formulación de un Plan Estratégico Institucional (PEI) por parte del Servicio de Administración de Rentas (SAR), alineado al Plan Estratégico del Gobierno (PEG), a fin de optimizar la recaudación, disminuir el déficit fiscal de la Administración Central, haciendo énfasis en el combate a la evasión y alusión fiscal.
 
@@ -1435,13 +1431,13 @@ Bulmer-Thomas, V. (1991). Honduras since 1930. En L. B.
 
 Cambridge: Cambridge University Press.
 
-43 Euraque, D. (1995). Los recursos económicos del Estado hondureño 1830-1970. En A. y. Taracena, Identidades nacionales y estado moderno in Centroamérica (págs. 135- 150). San José : UCR.
+43 Euraque, D. (1995). Los recursos económicos del Estado hondureño 1830-1970. En A. y. Taracena, Identidades nacionales y estado moderno in Centroamérica (págs. 135-150). San José: UCR.
 
 Euraque, D. (2001). El capitalismo de San Pedro Sula y la historia política hondureña (1870-1972). Tegucigalpa:
 
 Guaymuras.
 
-44 Euraque, D. (1995). Los recursos económicos del Estado hondureño 1830-1970. En A. y. Taracena, Identidades nacionales y estado moderno in Centroamérica (págs. 135- 150). San José : UCR. extranjeros y cimentado con privilegios fiscales, por lo cual la industrialización también tuvo al sistema concesionario como su principal garante. A partir de la década de 1980 las políticas de libre mercado acentuaron un modelo económico basado en la promoción de productos de exportación agropecuarios no tradicionales (camarón, palma africana, piña, okra, sandías, entre otros) y la actividad manufacturera de la confección.
+44 Euraque, D. (1995). Los recursos económicos del Estado hondureño 1830-1970. En A. y. Taracena, Identidades nacionales y estado moderno in Centroamérica (págs. 135-150). San José: UCR. extranjeros y cimentado con privilegios fiscales, por lo cual la industrialización también tuvo al sistema concesionario como su principal garante. A partir de la década de 1980 las políticas de libre mercado acentuaron un modelo económico basado en la promoción de productos de exportación agropecuarios no tradicionales (camarón, palma africana, piña, okra, sandías, entre otros) y la actividad manufacturera de la confección.
 
 La mayoría de estas actividades económicas desarrolladas con el impulso a los regímenes de exoneración. Estos tres momentos del desarrollo económico del país se caracterizan, por un lado, por el desarrollo de rubros económicos con escaso valor agregado y, por otro lado, en la promoción de diversos incentivos fiscales para impulsar tales actividades.
 
@@ -1567,7 +1563,7 @@ b. Fortalecer los controles destinados a verificar el cumplimiento de metas en r
 
 c. Publicación de bases de datos, informes, estudios y campañas de comunicación con una perspectiva decolonial y crítica.
 
-d. Incluir la dimensión del impacto de las inversiones en los pueblos originarios, territorios, barrios populares en el análisis costo- beneficio de las exoneraciones.
+d. Incluir la dimensión del impacto de las inversiones en los pueblos originarios, territorios, barrios populares en el análisis costo-beneficio de las exoneraciones.
 
 e. Cumplimiento del mandato de progresividad contenido en el artículo 351 constitucional.
 

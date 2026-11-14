@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo No. SEN-028-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220428-35909/download"
 extraido: "2026-11-14"
-huella: "7f54ba2de98ccd96"
+huella: "17dc9be0e2332a63"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-028-2022
@@ -29,9 +29,7 @@ huella: "7f54ba2de98ccd96"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA,
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
@@ -45,7 +43,7 @@ POR TANTO: En usos de las facultades de que está investido y en aplicación de 
 
 ACUERDA
 
-PRIMERO: Delegar a los Abogados HILSIAS RUTH COLINDRES VALLADARES y MARCIO SAID CARCAMO POSAS la representación de la Secretaría de Estado en el Despacho de Energía (SEN), para desarrollar conjunta o separadamente las audiencias de descargo que sean solicitadas por la Subgerencia de Recursos Humanos o el Despacho del Secretario de Estado según corresponda; para tal efecto los delegados deben realizar las acciones legales y de procedimiento en el marco de lo señalado en la Ley de Servicio Civil y su Reglamento; el Acuerdo SEN- 75-2019 que comprende Reglamento Interno de Trabajo de la Secretaría de Energía (SEN) publicado en La Gaceta el cuatro de enero de dos mil veinte y, demás disposiciones legales aplicables según corresponda.
+PRIMERO: Delegar a los Abogados HILSIAS RUTH COLINDRES VALLADARES y MARCIO SAID CARCAMO POSAS la representación de la Secretaría de Estado en el Despacho de Energía (SEN), para desarrollar conjunta o separadamente las audiencias de descargo que sean solicitadas por la Subgerencia de Recursos Humanos o el Despacho del Secretario de Estado según corresponda; para tal efecto los delegados deben realizar las acciones legales y de procedimiento en el marco de lo señalado en la Ley de Servicio Civil y su Reglamento; el Acuerdo SEN-75-2019 que comprende Reglamento Interno de Trabajo de la Secretaría de Energía (SEN) publicado en La Gaceta el cuatro de enero de dos mil veinte y, demás disposiciones legales aplicables según corresponda.
 
 SEGUNDO: Los delegados son responsables de la función delegada para actuar conjunta o separadamente y presentarán mensualmente a la Subgerencia de Recursos Humanos un informe detallado de los actos ejecutados en virtud de esta delegación.
 
@@ -57,7 +55,7 @@ Tegucigalpa, municipio del Distrito Central, cinco de abril de dos mil veintidó
 
 DOCTOR ERICK MEDARDO TEJADA CARBAJAL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGIA ERICKA LORENA MOLINA AGUILAR SECRETARIA GENERAL Avance Próxima Edición
 
-ACUERDA: PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2022- 2023, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones suplidoras, cargueros o nodrizas:
+ACUERDA: PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca, para la temporada 2022-2023, de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones suplidoras, cargueros o nodrizas:
 
 CENTROS DE DISTRIBUCIÓN:
 

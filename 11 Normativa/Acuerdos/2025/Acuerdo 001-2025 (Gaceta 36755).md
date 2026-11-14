@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Acuerdo Ejecutivo No. 001-2024,Acuerdos Ministeriales Nos. 001-2025, 002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250201-36755/download"
 extraido: "2026-11-13"
-huella: "ef1e2b19d47db6d3"
+huella: "c67853b5d5decc33"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 001-2025
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el COMIECO se puede reunir de manera virtual mediante el siste
 
 CONSIDERANDO: Que mediante resolución de fecha 20 de octubre de 1995, la Corte Centroamericana de Justicia manifiesta que: “…la publicación no es requisito esencial para la validez de los actos normativos obligatorios del Sistema de Integración Económica Centroamericana…”; que la publicidad se debe realizar para garantizar la efectiva observancia y ejecución de los propósitos y principios.
 
-CONSIDERANDO: Que en el marco de los trabajos de Subsistema de Integración Económica Centroamericana, el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada en fecha 29 de octubre de 2024, suscribió la Resolución No. 489-2024 (COMIECO-EX), Resolución No. 490-2024 (COMIECO-CVIII) y la Resolución No. 11- 2024 (CEIE).
+CONSIDERANDO: Que en el marco de los trabajos de Subsistema de Integración Económica Centroamericana, el Consejo de Ministros de Integración Económica (COMIECO), en reunión realizada en fecha 29 de octubre de 2024, suscribió la Resolución No. 489-2024 (COMIECO-EX), Resolución No. 490-2024 (COMIECO-CVIII) y la Resolución No. 11-2024 (CEIE).
 
 POR TANTO:
 

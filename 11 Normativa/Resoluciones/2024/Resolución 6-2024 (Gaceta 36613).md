@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Resolución Nos. 4-2024, 5-2024, 6-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240815-36613/download"
 extraido: "2026-11-14"
-huella: "55e674eb00f470cf"
+huella: "77958bcfbd66efbc"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No.6-2024
@@ -29,13 +29,13 @@ huella: "55e674eb00f470cf"
 
 EL CONGRESO NACIONAL, Reunido el Congreso Nacional, a los seis días del mes de Agosto del año 2024, en el Pleno de la Cámara Legislativa, para emitir Resolución sobre la misiva enviada a este Poder del Estado, por la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, orientada a remitir a este Poder del Estado, la solicitud que a su vez le fuere presentada por parte del Reino de Tailandia, contraída a conceder permiso al ciudadano hondureño ANDRÉS NICOLÁS KAFATI GEADAH para que pueda ostentar el cargo de Cónsul Honorario en representación del Reino de Tailandia ante el Estado de Honduras en Tegucigalpa.
 
-CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No.016-DGAC-2023 remitió a este Poder del Estado, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
+CONSIDERANDO: Que el Poder Ejecutivo, por medio de la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, mediante su Oficio No. 016-DGAC-2023 remitió a este Poder del Estado, solicitud formal para que se conceda el permiso relacionado en el párrafo precedente, la cual fue conocida por esta Augusta Cámara Legislativa.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 17) de la Constitución de la República, es atribución del Congreso Nacional, conceder permiso a los hondureños para aceptar cargos de otro Estado.
 
 Dichas disposiciones jurídicas que habilitan a un ciudadano hondureño para que ejerza el cargo de Cónsul Honorario en el territorio hondureño, conforme a la nominación del Estado solicitante.
 
-CONSIDERANDO: Que la Ley del Servicio Diplomático y Consular de Honduras, contenida en el Decreto No.80-2013 del 21 de Mayo del 2013, publicado en el Diario Oficial “La Gaceta” de fecha 7 de Junio de 2013, establece en su
+CONSIDERANDO: Que la Ley del Servicio Diplomático y Consular de Honduras, contenida en el Decreto No. 80-2013 del 21 de Mayo del 2013, publicado en el Diario Oficial “La Gaceta” de fecha 7 de Junio de 2013, establece en su
 
 Artículo 19 que: “Honduras podrá nombrar Cónsules Honorarios cuando sea necesario y así lo permita el Estado receptor. La zona en la que haya de ejercerse la jurisdicción deberá tener una población hondureña importante o un interés económico o político de especial relevancia para Honduras.
 

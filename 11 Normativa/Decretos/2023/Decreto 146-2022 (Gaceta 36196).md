@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 146-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230403-36196/download"
 extraido: "2026-11-14"
-huella: "d2bb8945a311fcb3"
+huella: "2a09d2a732de245a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 146-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República declara que el Estado de Hon
 
 CONSIDERANDO: Que el Estado de Honduras, ha adoptado convenios internacionales relacionados con el control de armas de fuego y municiones como el Tratado de Naciones Unidas Sobre el Comercio de Armas y el Protocolo Contra la Fabricación y el Tráfico Ilícito de Armas de Fuego, sus piezas, componentes y municiones, mediante los cuales se obligó a mantener registros de armas de fuego, establecer y mantener un sistema eficaz de autorización de licencias y transacciones y el deber de tomar medidas de seguridad para prevenir el robo, pérdida o desviación de armas de fuego.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.101-2018 de fecha 25 de Septiembre del año 2018, el Congreso Nacional de la República, aprobó la “Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados”, publicada en el Diario Oficial “La Gaceta” en fecha 8 de Febrero del año 2019 en su edición 34,866, con el objetivo de establecer la normativa Jurídica de control y regulación del uso de armas de fuego dentro del territorio nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 101-2018 de fecha 25 de Septiembre del año 2018, el Congreso Nacional de la República, aprobó la “Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados”, publicada en el Diario Oficial “La Gaceta” en fecha 8 de Febrero del año 2019 en su edición 34,866, con el objetivo de establecer la normativa Jurídica de control y regulación del uso de armas de fuego dentro del territorio nacional.
 
 CONSIDERANDO: Que la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados vigente establece en su Artículo 78, que la licencia de portación de armas es un privilegio que otorga el Estado de Honduras a los ciudadanos que cumplen con los requisitos establecidos en dicha Ley y que consecuentemente se permite la portación en los lugares y bajo las condiciones expresamente definidos en la misma.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 22, 24, 33, 64, 79, 84, 95, 101, 102, 103, 114 y 119 de la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No. 101-2018 de 25 de Septiembre de 2018, publicado en el Diario Oficial “La Gaceta”, Edición No.34,866 en fecha 08 de febrero del año 2019, el cual, en adelante debe leerse así:
+ARTÍCULO 1.- Reformar los artículos 22, 24, 33, 64, 79, 84, 95, 101, 102, 103, 114 y 119 de la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No. 101-2018 de 25 de Septiembre de 2018, publicado en el Diario Oficial “La Gaceta”, Edición No. 34,866 en fecha 08 de febrero del año 2019, el cual, en adelante debe leerse así:
 
 “ARTÍCULO 22.- MATERIALES DE USO PERMITIDO PARA PERSONAS PARTICULARES AUTORIZADAS. Son armas de uso permitido por personas autorizadas conforme a Ley, las siguientes:
 
@@ -59,9 +59,7 @@ ARTÍCULO 1.- Reformar los artículos 22, 24, 33, 64, 79, 84, 95, 101, 102, 103,
 
 Bajo las disposiciones de la presente Ley...
 
-Las personas que conforme al Decreto No.274-2005 de fecha 1 de Septiembre de 2005 y la Ley de Control de Armas de Fuego, Municiones, Explosivos y Otros Similares, contenida en el Decreto No.
-
-30-2000 de fecha 11 de Abril del 2000, hayan obtenido legalmente la propiedad y el permiso de portación y tenencia de hasta cinco (5) armas de fuego con sus respectivos calibres, deben conservar su derecho de propiedad, portación y tenencia, asimismo, se reconoce el derecho de adquirir su dominio de manera sucesoria conforme a la Ley a personas que también reúnan los requisitos de hasta cinco (5) armas de fuego, para lo cual, la Secretaría de Estado en el Despacho de Seguridad debe diseñar y aplicar un mecanismo especial de Registro.
+Las personas que conforme al Decreto No. 274-2005 de fecha 1 de Septiembre de 2005 y la Ley de Control de Armas de Fuego, Municiones, Explosivos y Otros Similares, contenida en el Decreto No. 30-2000 de fecha 11 de Abril del 2000, hayan obtenido legalmente la propiedad y el permiso de portación y tenencia de hasta cinco (5) armas de fuego con sus respectivos calibres, deben conservar su derecho de propiedad, portación y tenencia, asimismo, se reconoce el derecho de adquirir su dominio de manera sucesoria conforme a la Ley a personas que también reúnan los requisitos de hasta cinco (5) armas de fuego, para lo cual, la Secretaría de Estado en el Despacho de Seguridad debe diseñar y aplicar un mecanismo especial de Registro.
 
 Son municiones de uso permitido …”
 
@@ -219,13 +217,11 @@ En el caso de explosivos y materiales relacionados a la Secretaría de Estado en
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar los artículos 59, 60, 61, 65, 66, 67, 68 y 69 de la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No.
-
-101-2018 de fecha 25 de Septiembre del año 2018, publicado en el Diario Oficial “La Gaceta”, Edición No.34,866 en fecha 8 de Febrero del año 2019.
+ARTÍCULO 2.- Derogar los artículos 59, 60, 61, 65, 66, 67, 68 y 69 de la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No. 101-2018 de fecha 25 de Septiembre del año 2018, publicado en el Diario Oficial “La Gaceta”, Edición No. 34,866 en fecha 8 de Febrero del año 2019.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar por adición la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No. 101-2018 de fecha 25 de febrero de 2018, publicado en el Diario Oficial “La Gaceta”, Edición No.34,866 en fecha 8 de Febrero del año 2019, adicionado en el Capítulo III denominado “AUTORIZACIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD” del Título IV Actividades, Ocho (8) nuevos artículos, bajo las denominaciones de:
+ARTÍCULO 3.- Reformar por adición la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y MATERIALES RELACIONADOS, contenida en el Decreto Legislativo No. 101-2018 de fecha 25 de febrero de 2018, publicado en el Diario Oficial “La Gaceta”, Edición No. 34,866 en fecha 8 de Febrero del año 2019, adicionado en el Capítulo III denominado “AUTORIZACIONES DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE SEGURIDAD” del Título IV Actividades, Ocho (8) nuevos artículos, bajo las denominaciones de:
 
 95-A, 95-B, 95-C, 95-D, 95-E, 95-F, 95-G, y 95-H, los cuales deben leerse de la manera siguiente:
 
@@ -233,7 +229,7 @@ ARTÍCULO 3.- Reformar por adición la LEY DE CONTROL DE ARMAS DE FUEGO, MUNICIO
 
 Las instalaciones deben cumplir las normas de seguridad que manda la presente Ley y llevar los registros correspondientes a las prácticas de tiro que se efectúen.
 
-Las prácticas de tiro que se realicen en las instalaciones autorizadas deben reportarse a la autoridad competente.” “ARTÍCULO 95-B.- MANEJO DE ARMAS EN ESTABLECIMIENTOS DE TIRO. La práctica de tiro se debe realizar dentro del establecimiento autorizado bajo la supervisión de un instructor de tiro o una persona debidamente autorizada. Las armas y la munición en ningún caso deben ser extraídas del establecimiento por terceros o usuarios.” “ A R T Í C U L O 9 5 - C - P R O H I B I C I O N E S A ESTABLECIMIENTOS DE TIRO.
+Las prácticas de tiro que se realicen en las instalaciones autorizadas deben reportarse a la autoridad competente.” “ARTÍCULO 95-B.- MANEJO DE ARMAS EN ESTABLECIMIENTOS DE TIRO. La práctica de tiro se debe realizar dentro del establecimiento autorizado bajo la supervisión de un instructor de tiro o una persona debidamente autorizada. Las armas y la munición en ningún caso deben ser extraídas del establecimiento por terceros o usuarios.” “ ARTÍCULO 9 5 - C - PROHIBICIONES A ESTABLECIMIENTOS DE TIRO.
 
 Los establecimientos de tiro deben cumplir las medidas de seguridad para evitar los ruidos y neutralizar los efectos de los proyectiles disparados. No se permite la apertura de establecimientos de tiro en áreas pobladas o a distancia inferior de Cinco kilómetros (5km) de polvorines y materiales relacionados.” “ARTÍCULO 95-D- PERMISO DE ORGANIZACIÓN DE EVENTOS DE CACERÍA. Toda actividad mediante la cual una persona autorizada, organiza, gestiona y desarrolla actividades de caza deportiva para sus integrantes o para terceros, debe contar con la respectiva autorización.
 
@@ -275,7 +271,7 @@ a) El taller de reparación o el técnico armero autorizado debe adquirir la pie
 
 Finalizada la reparación, la pieza sustituida debe ser destruida, realizando previamente todas las investigaciones para determinar que el arma no esté involucrada en hechos delictivos;
 
-b) Cuando la pieza sustituida sea el cañón, el percutor o el extractor, la Secretaría de Estado en el Despacho d e S e g u r i d a d , d e b e realizar previamente la correspondiente prueba balística y de marcaje; y,
+b) Cuando la pieza sustituida sea el cañón, el percutor o el extractor, la Secretaría de Estado en el Despacho de Seguridad, debe realizar previamente la correspondiente prueba balística y de marcaje; y,
 
 c) Una vez realizada la reparación, el arma debe ser entregada a la Secretaría de Estado en el Despacho de Seguridad para su verificación, rectificación en los registros y la sustitución de la licencia que consigne los cambios efectuados y entrega al propietario del arma con la nueva licencia.” “ARTICULO 95-H.-PROHIBICIÓN A LOS TITULARES DE LICENCIA DE REPARACIÓN. Se prohíbe a los titulares de licencia de reparación:
 
@@ -295,7 +291,7 @@ c) Una vez realizada la reparación, el arma debe ser entregada a la Secretaría
 
 ARTÍCULO 4.- DISPOSICIÓN TRANSITORIA. A partir de la vigencia del presente Decreto, se establece un período de Seis (6) meses para que toda persona que tenga en su poder cualquier tipo de arma de fuego comercial y que no posea factura de venta de la armería, proceda con la documentación respectiva, a realizar los trámites correspondientes de registro ante la Secretaría de Estado en el Despacho de Seguridad.
 
-Las personas que conforme al Decreto Legislativo No.274-2005 de fecha 1 de Septiembre del 2005 y el Decreto Legislativo No.184-2013 de fecha 1 de Septiembre 2013, tengan vigente la correspondiente licencia para la portación de armas de fuego y sus accesorios permitidos antes de la vigencia de este Decreto; conservan la autorización para su portación y la facultad de renovar sus permisos, mientras las tengan bajo su dominio y siempre que cumplan con los requisitos del Artículo 33 de la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados.
+Las personas que conforme al Decreto Legislativo No. 274-2005 de fecha 1 de Septiembre del 2005 y el Decreto Legislativo No. 184-2013 de fecha 1 de Septiembre 2013, tengan vigente la correspondiente licencia para la portación de armas de fuego y sus accesorios permitidos antes de la vigencia de este Decreto; conservan la autorización para su portación y la facultad de renovar sus permisos, mientras las tengan bajo su dominio y siempre que cumplan con los requisitos del Artículo 33 de la Ley de Control de Armas de Fuego, Municiones, Explosivos y Materiales Relacionados.
 
 #### Artículo 5
 

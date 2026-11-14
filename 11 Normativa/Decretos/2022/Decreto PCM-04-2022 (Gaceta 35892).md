@@ -11,7 +11,7 @@ paginas: "A. 5 - 28"
 sumario: "Decretos Ejecutivos números PCM- 04-2022, 05-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220406-35892/download"
 extraido: "2026-11-14"
-huella: "8e0f8c489ef9ddd1"
+huella: "f8b4831933622fed"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-04-2022
@@ -163,7 +163,7 @@ CONSIDERANDO: Que forma parte de nuestro compromiso, retomar la responsabilidad 
 
 POR TANTO, En uso de las facultades contenidas en los artículos 245 numerales 2), 11) y 45) de la Constitución de la República; artículos 4, 11, 14, 17, 22 numeral 3), 28, 30, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo Número PCM-009-2018 y Decreto Ejecutivo Número PCM-050-2019.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

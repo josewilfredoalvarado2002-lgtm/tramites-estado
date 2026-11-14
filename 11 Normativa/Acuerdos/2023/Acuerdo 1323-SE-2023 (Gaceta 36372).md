@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo No. 1323-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231101-36372/download"
 extraido: "2026-11-14"
-huella: "9fa285cd7e848c58"
+huella: "0839f8add52e79c0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 1323-SE-2023
@@ -29,7 +29,7 @@ huella: "9fa285cd7e848c58"
 
 Tegucigalpa, M.D.C., 18 de octubre de 2023.
 
-Para su conocimiento y demás fines transcribo a usted, el acuerdo que literalmente dice: “ACUERDO No. 1323-SE- 2023.- Tegucigalpa, M.D.C., 13 de octubre de 2023.- EL SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN.
+Para su conocimiento y demás fines transcribo a usted, el acuerdo que literalmente dice: “ACUERDO No. 1323-SE-2023.- Tegucigalpa, M.D.C., 13 de octubre de 2023.- EL SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN.
 
 CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de Educación, autorizar, organizar, dirigir y supervisar la educación en todos los niveles del Sistema Educativo Nacional.
 
@@ -37,9 +37,7 @@ CONSIDERANDO: Que en el artículo 157 de la Constitución de la República de Ho
 
 CONSIDERANDO: Que el artículo 36 numeral 8 de la Ley de la Administración Pública manda que son atribuciones de los Secretarios de Estado, los acuerdos y resoluciones en los asuntos de su competencia; en consecuencia, se encuentra facultado para la emisión de este tipo de actos administrativos enmarcados dentro del principio de legalidad para una sana y efectiva administración en el campo de la educación.
 
-CONSIDERANDO: Que mediante ACUERDO No.
-
-2188-SE-2014, se aprobó el Plan de Estudios de la Carrera de Bachillerato en Ciencias y Humanidades, de carácter obligatorio a nivel nacional en Centros Educativos Gubernamentales y No Gubernamentales.
+CONSIDERANDO: Que mediante ACUERDO No. 2188-SE-2014, se aprobó el Plan de Estudios de la Carrera de Bachillerato en Ciencias y Humanidades, de carácter obligatorio a nivel nacional en Centros Educativos Gubernamentales y No Gubernamentales.
 
 CONSIDERANDO: Que mediante ACUERDO No. 1641- SE-2015, se autoriza a partir del primero de agosto del año 2015, el Plan de Estudios de la Carrera de “Bachillerato Internacional en Ciencias y Humanidades” con una duración de tres años.
 
@@ -57,9 +55,7 @@ CONSIDERANDO: Que el Plan de Estudio para el Bachillerato Internacional en Cienc
 
 CONSIDERANDO: Que los Centros Educativos No Gubernamentales deben impartir los Espacios Curriculares referentes al territorio nacional e historia de Honduras como lo establece la Constitución de la República, en el idioma español y por docentes hondureños.
 
-CONSIDERANDO: Que según Dictamen Técnico No.
-
-009-SDGEM-2023, de fecha 26 de julio de 2023, la Subdirección General de Educación Media, nombrada para emitir Opinión Técnica, se pronunció en lo siguiente: Es procedente emitir el acuerdo de funcionamiento del Plan de Estudios del Bachillerato Internacional en Ciencias y Humanidades, en décimo, undécimo y duodécimo grado.
+CONSIDERANDO: Que según Dictamen Técnico No. 009-SDGEM-2023, de fecha 26 de julio de 2023, la Subdirección General de Educación Media, nombrada para emitir Opinión Técnica, se pronunció en lo siguiente: Es procedente emitir el acuerdo de funcionamiento del Plan de Estudios del Bachillerato Internacional en Ciencias y Humanidades, en décimo, undécimo y duodécimo grado.
 
 CONSIDERANDO: Que la estructura curricular del Bachillerato Internacional en Ciencias y Humanidades sigue el modelo del plan y los programas del Bachillerato en Ciencias y Humanidades (BCH), organizado por áreas académicas con sus respectivos espacios curriculares. A esta estructura se han incorporado los componentes adicionales de los programas internacionales: espacios curriculares electivos por áreas, cursos avanzados con créditos universitarios y los rigurosos espacios curriculares del Bachillerato Internacional.
 
@@ -73,7 +69,7 @@ PRIMERO: Declarar el año 2023, como el año de la Refundación del Sistema Educ
 
 SEGUNDO: Declarar a partir del 01 de septiembre del año 2023, en los Centros Educativos No Gubernamentales Bilingües de (12) grados autorizados, la Oferta Académica del nivel de Educación Media del Bachillerato Internacional en Ciencias y Humanidades, misma que fue aprobada mediante Acuerdo No. 1641-SE-2015 con las adecuaciones curriculares del Sistema Escolar Bilingüe. El Sistema de promoción anual en décimo grado iniciará en el período escolar 2023-2024, en undécimo grado 2024-2025 y duodécimo grado 2025-2026.
 
-PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) Horas anuales Matemática I 5 200 Español I 5 200 Ciencias (Biología I) 7 280 Historia de Honduras 3 120 Inglés 5 200 Informática 2 80 Fundamentos de Psicología 3 120 Educación Física y Deportes 2 80 Arte: Lenguaje Artístico 1 40 Electivas 7 280 Total 40 horas semanales 1600 horas PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) UNDÉCIMO GRADO N° Espacio curricular Horas semanales (45 mn/hora clase) Horas anuales En 40 semanas Matemática II (Álgebra 2 y Lógica Simbólica, Pre cálculo, Trigonometría, IB Matemáticas nivel superior, IB Matemáticas nivel estándar, IB Estudios matemáticos, AP Estadística) 2 Español II 5 200 Ciencia II (Química, AP Biología, AP Química, AP Ciencias de Medio Ambiente, AP Física I, IB Biología, IB Química) Inglés II (Inglés, IB Lengua A1 Inglés, IB Lengua A1 Francés, AP Lenguaje y Composición del Inglés, AP Literatura y Composición) 5 Sociología y Antropología 3 120 6 Historia Universal 3 120 7 Educación Física y Deportes 2 80 8 Apreciación Artística 1 40 9 Informática II (Programación y TIC*) 2 80 Jornada Extendida 10 Electivas 7 280 Total 40 horas semanales 1600 horas PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) DUODÉCIMO GRADO N° Espacio curricular Horas semanales (45 mn/hora clase) Horas anuales En 40 semanas Matemática III (Algebra 3 , Estadística 1, Pre cálculo, Trigonometría, Cálculo 1, IB Matemáticas nivel superior, IB Matemáticas nivel estándar, IB Estudios matemáticos, AP Cálculo AB,AP Cálculo B, AP Estadística ) 2 Español III 4 160 Ciencia III (Física, AP Biología, AP Química, AP Ciencias de Medio Ambiente, AP Física 1, AP Física 2, AP Física C: Electricidad y Magnetismo, AP Física C: Mecánica, IB Biología, IB Química) 4 Introducción a la Economía 3 120 Inglés III (Inglés, IB Lengua A1 Inglés, IB Lengua A1 Francés, AP Lenguaje y Composición del Inglés, AP Literatura y Composición) 6 Informática III (Dibujo Técnico/Asistido por Computadora) 2 80 7 Filosofía 3 120 8 Educación Física y Deportes 2 80 Jornada Extendida 9 Electivas 8 320 Total de Horas Semanales 40 horas semanales 1600 horas
+PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) Horas anuales Matemática I 5 200 Español I 5 200 Ciencias (Biología I) 7 280 Historia de Honduras 3 120 Inglés 5 200 Informática 2 80 Fundamentos de Psicología 3 120 Educación Física y Deportes 2 80 Arte: Lenguaje Artístico 1 40 Electivas 7 280 Total 40 horas semanales 1600 horas PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) UNDÉCIMO GRADO N° Espacio curricular Horas semanales (45 mn/hora clase) Horas anuales En 40 semanas Matemática II (Álgebra 2 y Lógica Simbólica, Pre cálculo, Trigonometría, IB Matemáticas nivel superior, IB Matemáticas nivel estándar, IB Estudios matemáticos, AP Estadística) 2 Español II 5 200 Ciencia II (Química, AP Biología, AP Química, AP Ciencias de Medio Ambiente, AP Física I, IB Biología, IB Química) Inglés II (Inglés, IB Lengua A1 Inglés, IB Lengua A1 Francés, AP Lenguaje y Composición del Inglés, AP Literatura y Composición) 5 Sociología y Antropología 3 120 6 Historia Universal 3 120 7 Educación Física y Deportes 2 80 8 Apreciación Artística 1 40 9 Informática II (Programación y TIC*) 2 80 Jornada Extendida 10 Electivas 7 280 Total 40 horas semanales 1600 horas PLAN DE ESTUDIO BACHILLERATO INTERNACIONAL EN CIENCIAS Y HUMANIDADES (BICH) DUODÉCIMO GRADO N° Espacio curricular Horas semanales (45 mn/hora clase) Horas anuales En 40 semanas Matemática III (Algebra 3, Estadística 1, Pre cálculo, Trigonometría, Cálculo 1, IB Matemáticas nivel superior, IB Matemáticas nivel estándar, IB Estudios matemáticos, AP Cálculo AB,AP Cálculo B, AP Estadística ) 2 Español III 4 160 Ciencia III (Física, AP Biología, AP Química, AP Ciencias de Medio Ambiente, AP Física 1, AP Física 2, AP Física C: Electricidad y Magnetismo, AP Física C: Mecánica, IB Biología, IB Química) 4 Introducción a la Economía 3 120 Inglés III (Inglés, IB Lengua A1 Inglés, IB Lengua A1 Francés, AP Lenguaje y Composición del Inglés, AP Literatura y Composición) 6 Informática III (Dibujo Técnico/Asistido por Computadora) 2 80 7 Filosofía 3 120 8 Educación Física y Deportes 2 80 Jornada Extendida 9 Electivas 8 320 Total de Horas Semanales 40 horas semanales 1600 horas
 
 TERCERO: El Plan de Estudio y Diseño Curricular del Bachillerato Internacional en Ciencias y Humanidades, se impartirá en los centros educativos autorizados por la Secretaría de Educación que respondan a los requerimientos nacionales e internacionales, según entidades acreditadoras del extranjero.
 

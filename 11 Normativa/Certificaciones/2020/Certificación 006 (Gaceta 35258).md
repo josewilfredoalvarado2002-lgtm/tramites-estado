@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Certificación del Acuerdo No. 006"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200520-35258-2/download"
 extraido: "2026-11-14"
-huella: "bc9569d503424ddf"
+huella: "34c9d25a647d42af"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación del Acuerdo No. 006
@@ -29,9 +29,9 @@ huella: "bc9569d503424ddf"
 
 Alcaldía Municipal del Distrito Central
 
-CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No.006 CONTENIDO EN EL ACTA No.005 DE FECHA VEINTISÉIS DE FEBRERO DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
+CERTIFICACIÓN LA INFRASCRITA, SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No. 006 CONTENIDO EN EL ACTA No. 005 DE FECHA VEINTISÉIS DE FEBRERO DEL AÑO DOS MIL VEINTE, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.006.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo y legislativo de la Municipalidad y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos de conformidad con la Ley de Municipalidades. - CONSIDERANDO: Que ha venido a conocimiento y aprobación de la Corporación Municipal, por parte de las Gerencias de Atención al Ciudadano, Recaudación y Control Financiero y Movilidad Urbana, las reformas a los Artículos 19 y 131 del Plan de Arbitrios año dos mil veinte (2020), aprobado mediante Acuerdo No.044 contenido en el Sección A Decretos y Acuerdos ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL Certificación del Acuerdo No. 006 A. 1 - 3 AVANCE A. 4 Acta No.029 de fechas once y doce de diciembre del año dos mil diecinueve, publicado en el Diario Oficial La Gaceta No.35,136 en fecha 30 de diciembre de 2019.- CONSIDERANDO: Que las Corporaciones Municipales emitirán normas de aplicación general dentro del término municipal, en asuntos de su exclusiva competencia, las que deberán comunicarse por cualquier medio idóneo tales como: prensa escrita, radio, televisión, avisos y altavoces.- POR TANTO:
+“ACUERDO No. 006.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo y legislativo de la Municipalidad y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos de conformidad con la Ley de Municipalidades. - CONSIDERANDO: Que ha venido a conocimiento y aprobación de la Corporación Municipal, por parte de las Gerencias de Atención al Ciudadano, Recaudación y Control Financiero y Movilidad Urbana, las reformas a los Artículos 19 y 131 del Plan de Arbitrios año dos mil veinte (2020), aprobado mediante Acuerdo No. 044 contenido en el Sección A Decretos y Acuerdos ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL Certificación del Acuerdo No. 006 A. 1 - 3 AVANCE A. 4 Acta No. 029 de fechas once y doce de diciembre del año dos mil diecinueve, publicado en el Diario Oficial La Gaceta No. 35,136 en fecha 30 de diciembre de 2019.- CONSIDERANDO: Que las Corporaciones Municipales emitirán normas de aplicación general dentro del término municipal, en asuntos de su exclusiva competencia, las que deberán comunicarse por cualquier medio idóneo tales como: prensa escrita, radio, televisión, avisos y altavoces.- POR TANTO:
 
 La Corporación Municipal del Distrito Central por unanimidad de votos y en uso de sus facultades y de conformidad con lo establecido en los Artículos 12 numeral 2), 25 numerales 1), 4) y 7) de la Ley de Municipalidades; 13 de su Reglamento.- ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo C.G. No. 152-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240930-36653/download"
 extraido: "2026-11-14"
-huella: "a219e8a786cb1692"
+huella: "8e3fb44c8fa525df"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo C.G. No. 152-2024
@@ -65,9 +65,7 @@ CONSIDERANDO (09): Qué, el Reglamento de Ascenso para Oficiales en el artículo
 
 CONSIDERANDO (10):
 
-Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No.
-
-005-2024 de fecha 12 de julio de 2024, resolvió aprobar el ascenso al grado de Alférez de Fragata del Cuerpo de Guardacostas a partir del 01 de julio del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2023, por haber ingresado a la Academia Naval de Honduras el 12 de enero de 2020, a favor del Guardiamarina HENRY MIGUEL MATAMOROS FLORES, quien cursó satisfactoriamente su formación como Oficial en la Academia Guarda Costera de New London, Conneticut, Estados Unidos de Norteamérica, obteniendo un promedio final de ochenta y un por ciento (81%).
+Qué, el Consejo General de Ascensos de las Fuerzas Armadas, mediante Acta No. 005-2024 de fecha 12 de julio de 2024, resolvió aprobar el ascenso al grado de Alférez de Fragata del Cuerpo de Guardacostas a partir del 01 de julio del presente año, reconocerle antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre de 2023, por haber ingresado a la Academia Naval de Honduras el 12 de enero de 2020, a favor del Guardiamarina HENRY MIGUEL MATAMOROS FLORES, quien cursó satisfactoriamente su formación como Oficial en la Academia Guarda Costera de New London, Conneticut, Estados Unidos de Norteamérica, obteniendo un promedio final de ochenta y un por ciento (81%).
 
 CONSIDERANDO (11): Qué, en fecha 22 de julio del año 2024, la Dirección de Recursos Humanos del Estado Mayor Conjunto (C-1), emitió DICTAMEN D=120(C-1)2024 en el cual recomendó ascender a partir del 01 de julio del 2024, al grado de Alférez de Fragata del Cuerpo de Guardacostas al Guardiamarina HENRY MIGUEL MATAMOROS FLORES graduado en el extranjero y reconocerle, antigüedad, salarios y demás derechos dejados de percibir al 11 de Diciembre de 2023, por haber ingresado a la Academia Naval de Honduras el 12 de enero del año de 2020.
 

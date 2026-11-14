@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto Ejecutivo Número PCM 09-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240404-36500/download"
 extraido: "2026-11-14"
-huella: "aae08ad9855a825b"
+huella: "fc407ef45b5007c4"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 09-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que dando cumplimiento a lo establecido en la Constitución de la 
 
 CONSIDERANDO: Que en fecha 31 de marzo de 2023, el Consejo Nacional de Defensa y Seguridad (CNDS) aprobó de manera unánime la II etapa del Plan Nacional de Seguridad “SOLUCIÓN CONTRA EL CRIMEN” (SCC), en cuyas medidas se establece dar continuidad a la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99.
 
-CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15- 2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023; y, PCM 06-2024 de suspensión de garantías constitucionales, han rendido excelentes resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
+CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023; y, PCM 06-2024 de suspensión de garantías constitucionales, han rendido excelentes resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
 
 CONSIDERANDO: Que son de público conocimiento los logros positivos alcanzados a través de los Decretos de Suspensión de Garantías, entre los cuales se encuentran, del 06 de diciembre de 2022 al 03 de abril de 2024: 130 municipios en el país con cero incidencia de homicidios (44% de los municipios a nivel nacional); 283 municipios con incidencia de 0 a 8 homicidios (el 95% de los municipios), lo cual se traduce en una reducción del 16% del índice de homicidios; 27 casos de muertes violentas en mujeres, lo cual se traduce en una reducción del 30.71% en relación al año 2023; además, se han desarticulado más de 455 bandas criminales; se han realizado 27,111 allanamientos de morada exitosos; 323 denuncias por extorsión recibidas; 608 detenciones de integrantes de maras y pandillas; 24 personas capturadas con fines de extradición;
 

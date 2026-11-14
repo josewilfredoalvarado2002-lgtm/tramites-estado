@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto Legislativo No. 137-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221128-36088/download"
 extraido: "2026-11-14"
-huella: "e84ba976103e8643"
+huella: "0b676886ca132665"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 137-2022
@@ -43,17 +43,17 @@ CONSIDERANDO: Que a la fecha se observa la necesidad de ampliación de la suspen
 
 \5) de la Ley, para el beneficio de la población afectada.
 
-CONSIDERANDO: Que el Decreto No.208-2003 de fecha 12 de Diciembre de 2003, contentivo de la “Ley de Migración y Extranjería”, aprobado en fecha 12 de Diciembre de 2003 publicado en el Diario Oficial “La Gaceta”, de fecha 3 de Marzo de 2004, en su Artículo 109 establece que “Cuando las circunstancias lo ameriten el Congreso Nacional por si o a solicitud de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a extranjeros con el propósito de promover y facilitar la regularización de su situación migratoria”.
+CONSIDERANDO: Que el Decreto No. 208-2003 de fecha 12 de Diciembre de 2003, contentivo de la “Ley de Migración y Extranjería”, aprobado en fecha 12 de Diciembre de 2003 publicado en el Diario Oficial “La Gaceta”, de fecha 3 de Marzo de 2004, en su Artículo 109 establece que “Cuando las circunstancias lo ameriten el Congreso Nacional por si o a solicitud de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, otorgará la Amnistía Migratoria a extranjeros con el propósito de promover y facilitar la regularización de su situación migratoria”.
 
 CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1-B del Decreto No.42-2022, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Julio de 2022, reformado mediante Decreto No.79-2022, publicado en el Diario Oficial “La Gaceta” el 4 de Agosto de 2022, el cual deberá leerse de la forma siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1-B del Decreto No. 42-2022, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Julio de 2022, reformado mediante Decreto No. 79-2022, publicado en el Diario Oficial “La Gaceta” el 4 de Agosto de 2022, el cual deberá leerse de la forma siguiente:
 
 “ARTÍCULO 1-B.- El presente Decreto beneficiará a las personas migrantes en situación de irregularidad señaladas en el Artículo 1, que ingresen al territorio hondureño antes del 1 de Junio de 2023 y no regularicen su estatus migratorio, otorgándoles el derecho a regularizar su permanencia temporal en el país, para lo cual deberán cumplir con el resto de los procedimientos y requisitos establecidos en la Ley de Migración y Extranjería”.
 

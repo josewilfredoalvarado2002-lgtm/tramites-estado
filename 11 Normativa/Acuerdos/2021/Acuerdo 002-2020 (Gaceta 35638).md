@@ -11,7 +11,7 @@ paginas: "A. 17 - 40"
 sumario: "Acuerdo Ejecutivo No. 002-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210625-35638/download"
 extraido: "2026-11-14"
-huella: "600a33c992bb3921"
+huella: "f6ccbbad00ff9d0c"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 002-2020
@@ -373,7 +373,7 @@ CAPÍTULO VII LA RESPONSABIILDAD EXTENDIDA AL PRODUCTOR Y AL IMPORTADOR
 
 Artículo 15. Responsabilidad Extendida de los Productores e Importadores de Mercurio, Compuestos de Mercurio y Productos con Mercurio Añadido.
 
-1. Las personas naturales y jurídicas que utilicen mercurio o compuestos de mercurio en procesos industriales que no están contenidos en el Anexo A de este Reglamento, quedan obligados a reducir el uso de estas sustancias en un 50% a p a r t i r d e l a e n t r a d a e n v i g e n c i a d e e s t e R e g l a m e n t o .
+1. Las personas naturales y jurídicas que utilicen mercurio o compuestos de mercurio en procesos industriales que no están contenidos en el Anexo A de este Reglamento, quedan obligados a reducir el uso de estas sustancias en un 50% a partir de la entrada en vigencia de este Reglamento .
 
 2. Las personas naturales y jurídicas que son productores e importadores de mercurio, compuestos de mercurio y productos con mercurio añadido quedan obligados a almacenar estas sustancias y productos, de manera ambientalmente racional, de la forma en que se establece en el Artículo 12 de este mismo Reglamento.
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 7"
 sumario: "Acuerdos No. SEN-51-2023, SEN-59-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230808-36302/download"
 extraido: "2026-11-14"
-huella: "711d9752ce60704e"
+huella: "1b499fb1f670538f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-59-2023
@@ -35,25 +35,19 @@ CONSIDERANDO: Que de conformidad al artículo 247 de la Constitución de la Rep�
 
 CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado conforme a lo dispuesto en el artículo 36 numeral 8) de la Ley General de la Administración Pública “Emitir los acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar su ejecución. La firma de los Secretarios de Estado en estos casos será autorizada por los respectivos Secretarios”.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, se estableció el “Sistema de Precios de Paridad de Importación” como el mecanismo automático para determinar los Precios Máximos de Venta al Consumidor Final de los Combustibles Derivados del Petróleo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, se estableció el “Sistema de Precios de Paridad de Importación” como el mecanismo automático para determinar los Precios Máximos de Venta al Consumidor Final de los Combustibles Derivados del Petróleo.
 
 CONSIDERANDO: Que mediante Acuerdo No. 530-2011 publicado en el Diario Oficial La Gaceta el 13 de enero del 2011, se modifica parcialmente el Artículo 2, inciso a) del Decreto Ejecutivo No. PCM-02-2007, del 13 de enero del año 2007.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional.
 
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional.
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-100-2021 publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, se reforma el Artículo 10 del Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, estableciendo lo siguiente “El gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del “Sistema de Precios de Paridad de Importación” cuando lo considere oportuno o conveniente, asimismo, la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-100-2021 publicado en el Diario Oficial La Gaceta el 8 de octubre de 2021, se reforma el Artículo 10 del Decreto Ejecutivo PCM-02-2007 del 13 de enero del 2007, publicado en el Diario Oficial La Gaceta el 20 de enero de 2007, estableciendo lo siguiente “El gobierno de Honduras, por conducto de la Secretaría de Estado en el Despacho de Energía, puede revisar y modificar cada una de las variables del “Sistema de Precios de Paridad de Importación” cuando lo considere oportuno o conveniente, asimismo, la Secretaría de Estado en el Despacho de Energía, tiene la potestad de revisar permanentemente el Sistema de Precios de los Combustibles Derivados del Petróleo y fijar los precios máximos de venta de dichos productos indispensables para la operación de las actividades económicas del país.
 
 POR TANTO: En aplicación de los artículos: 247, 248 de la Constitución de la República; 36 numerales 1, 3, 5, 8, 116, 118, 122 de la Ley General de la Administración Pública;
 
 Artículos 3, 4, 5 de la Ley de Procedimiento Administrativo;
 
-Decreto Ejecutivo Número PCM-02-2007; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo Número PCM- 007-2020; Decreto Ejecutivo PCM-100-2021; Acuerdo No.
-
-530-2011; Acuerdo No. 004-2016; Acuerdo SEN-115-2023; y demás aplicables.
+Decreto Ejecutivo Número PCM-02-2007; Decreto Ejecutivo Número PCM-048-2017; Decreto Ejecutivo Número PCM-007-2020; Decreto Ejecutivo PCM-100-2021; Acuerdo No. 530-2011; Acuerdo No. 004-2016; Acuerdo SEN-115-2023; y demás aplicables.
 
 ACUERDA:
 
@@ -155,7 +149,7 @@ ARTÍCULO 3.- La Secretaría de Estado en el Despacho Energía, ente rector del 
 
 #### Artículo 4
 
-ARTÍCULO 4.- Modificar el Artículo 2 del Acuerdo No. 004- 2016, Gaceta No. 33,928 del 08 de enero de 2016, únicamente en el inciso “c)” de la siguiente forma:
+ARTÍCULO 4.- Modificar el Artículo 2 del Acuerdo No. 004-2016, Gaceta No. 33,928 del 08 de enero de 2016, únicamente en el inciso “c)” de la siguiente forma:
 
 c) Margen del Detallista, se define en dólares por galón, así:
 

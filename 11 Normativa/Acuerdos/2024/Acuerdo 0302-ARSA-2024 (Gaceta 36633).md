@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. 0302-ARSA-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240907-36633/download"
 extraido: "2026-11-14"
-huella: "148bbeab0adf3e6a"
+huella: "eb4642079be77bb9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0302-ARSA-2024
@@ -33,7 +33,7 @@ Dieciséis (16) de agosto del 2024 La suscrita, Comisionada Presidenta de la Age
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801-1964- 05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, Correcciones, Sustancias Controladas y todo lo relacionado con la competencia de la Comisionada Presidenta, desde el día martes veinte (20) al veintitrés
+PRIMERO: Delegar funcionalmente al ciudadano SANTOS DONALDO GARCÍA SERVELLÓN quien posee el Documento Nacional de Identificación 0801-1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, Correcciones, Sustancias Controladas y todo lo relacionado con la competencia de la Comisionada Presidenta, desde el día martes veinte (20) al veintitrés
 
 (23) de agosto del año 2024.
 
@@ -59,9 +59,7 @@ Que es atribución del Consejo Nacional Electoral convocar a los Partidos Polít
 
 POR TANTO:
 
-EL CONSEJO NACIONAL ELECTORAL, como organismo autónomo e independiente, con competencia exclusiva para efectuar los actos y procedimientos electorales, en uso de sus facultades y en aplicación de los artículos 1, 2, 44, 46 y 47 de la Constitución de la República; 6, 8, 12, 14 numeral 3), 20, 168, 177, 178, 179, 182, 183 y demás aplicables de la Ley Electoral de Honduras. La Gaceta No.
-
-36,583 de fecha once (11) de julio de dos mil veinticuatro (2024), por unanimidad de votos,
+EL CONSEJO NACIONAL ELECTORAL, como organismo autónomo e independiente, con competencia exclusiva para efectuar los actos y procedimientos electorales, en uso de sus facultades y en aplicación de los artículos 1, 2, 44, 46 y 47 de la Constitución de la República; 6, 8, 12, 14 numeral 3), 20, 168, 177, 178, 179, 182, 183 y demás aplicables de la Ley Electoral de Honduras. La Gaceta No. 36,583 de fecha once (11) de julio de dos mil veinticuatro (2024), por unanimidad de votos,
 
 ACUERDA:
 

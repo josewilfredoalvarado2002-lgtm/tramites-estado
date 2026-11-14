@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos números 109-2018, 106-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200824-35352/download"
 extraido: "2026-11-14"
-huella: "1020a5f2bf18cc23"
+huella: "e883bfa80aed0303"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 109-2018
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

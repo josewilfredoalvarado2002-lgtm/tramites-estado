@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Decretos Legislativos Nos. 82-2020, 84-2020, 90-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200723-35322/download"
 extraido: "2026-11-14"
-huella: "f332c1a8dc7e8a6c"
+huella: "0a092efabc5e6d3f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 84-2020
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

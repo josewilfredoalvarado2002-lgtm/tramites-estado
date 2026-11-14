@@ -11,7 +11,7 @@ paginas: "A. 3 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220520-35928/download"
 extraido: "2026-11-14"
-huella: "460f20628822981e"
+huella: "70ae2eba5df4abe7"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 322-2022
@@ -51,19 +51,19 @@ Que de acuerdo con lo dispuesto por los artículos 30 y 33 de la Ley General de 
 
 CONSIDERANDO (6):
 
-Que para cumplir con el proceso de supresión y liquidación de las Secretarías de Estado, Programas, Gabinetes E s p e c i a l e s , G a b i n e t e s Sectoriales e Institutos y Direcciones aprobado mediante Decreto Ejecutivo Número PCM-11-2022, dictado en Consejo de Secretarios de Estado y publicado en el Diario Oficial “La Gaceta” en fecha 3 de mayo de 2022, se instruye y faculta a la Secretaría de Estado en el Despacho de Finanzas, para que nombre una Comisión Técnica Liquidadora, con atribuciones plenas en lo conducente a la liquidación del personal por contrato y acuerdo, pago de pasivos y deudas para lo cual puede requerir el auxilio de la Secretaría de Estado en el Despacho de la Presidencia a través de la Dirección General de Servicio Civil, la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), las Gerencias Administrativas de las instituciones suprimidas y otras instituciones del Estado si fuere necesario, quedando esas obligadas a prestar su inmediata colaboración.
+Que para cumplir con el proceso de supresión y liquidación de las Secretarías de Estado, Programas, Gabinetes Especiales, Gabinetes Sectoriales e Institutos y Direcciones aprobado mediante Decreto Ejecutivo Número PCM-11-2022, dictado en Consejo de Secretarios de Estado y publicado en el Diario Oficial “La Gaceta” en fecha 3 de mayo de 2022, se instruye y faculta a la Secretaría de Estado en el Despacho de Finanzas, para que nombre una Comisión Técnica Liquidadora, con atribuciones plenas en lo conducente a la liquidación del personal por contrato y acuerdo, pago de pasivos y deudas para lo cual puede requerir el auxilio de la Secretaría de Estado en el Despacho de la Presidencia a través de la Dirección General de Servicio Civil, la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social (STSS), las Gerencias Administrativas de las instituciones suprimidas y otras instituciones del Estado si fuere necesario, quedando esas obligadas a prestar su inmediata colaboración.
 
 CONSIDERANDO (7):
 
-Que el nombramiento de l a C o m i s i ó n T é c n i c a Liquidadora debe efectuarse en un plazo máximo de 7 días hábiles, contados a partir de la publicación del Decreto Ejecutivo Número PCM-11- 2022, la cual se efectuó en el Diario Oficial La Gaceta, el 3 de mayo de 2022.
+Que el nombramiento de la Comisión Técnica Liquidadora debe efectuarse en un plazo máximo de 7 días hábiles, contados a partir de la publicación del Decreto Ejecutivo Número PCM-11-2022, la cual se efectuó en el Diario Oficial La Gaceta, el 3 de mayo de 2022.
 
 CONSIDERANDO (8):
 
-Que el artículo 2 del Decreto Ejecutivo Número PCM- 11-2022, establece que: las Secretarías de Estado, P r o g r a m a s , G a b i n e t e s Especiales y Gabinetes Sectoriales que se suprimen mediante el Decreto Ejecutivo PCM-05-2022, en su artículo 21 deberán proceder a la inmediata l i q u i d a c i ó n o p e r a t i v a , administrativa y financiera, siendo las instituciones a suprimir: Secretaría de Estado en el Despacho de Coordinación de Gobierno; Secretaría de Estado en el Despacho de Transparencia; Despacho Ministerial de Socialización y Acompañamiento Digital de los Proyectos Presidenciales y la Dirección Nacional de Intervención Social, ambos organismos adscritos a la Secretaría de la Presidencia;
+Que el artículo 2 del Decreto Ejecutivo Número PCM-11-2022, establece que: las Secretarías de Estado, Programas, Gabinetes Especiales y Gabinetes Sectoriales que se suprimen mediante el Decreto Ejecutivo PCM-05-2022, en su artículo 21 deberán proceder a la inmediata liquidación operativa, administrativa y financiera, siendo las instituciones a suprimir: Secretaría de Estado en el Despacho de Coordinación de Gobierno; Secretaría de Estado en el Despacho de Transparencia; Despacho Ministerial de Socialización y Acompañamiento Digital de los Proyectos Presidenciales y la Dirección Nacional de Intervención Social, ambos organismos adscritos a la Secretaría de la Presidencia;
 
 Subsecretaría II, Sub Secretaría III, Unidad de Apoyo Técnico Presidencial, Programa Honduras, Programa de Viviendas y Obras Sociales, todos dependientes de la Secretaría de Estado en el Despacho de la Presidencia;
 
-Proyectos Especial Economía Naranja; Escuela de Alta Gerencia Pública; Consejo Presidencial de Economía Verde; Sistema Presidencial de Gestión por Resultados ( S P G R ) ; D e s p a c h o d e Prioridades Presidenciales e innovación Pública dependiente de la Presidencia de la República; Gabinete Técnico para la Formulación de la Estrategia de Simplificación Administrativa; Dirección de Transformación Digital, como un órgano permanente al interior de la Secretaría de Estado en el Despacho de Finanzas (SEFIN); Inversiones Estratégicas/MCC-Honduras (INVEST-H); Programa Vida Mejor; Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP);
+Proyectos Especial Economía Naranja; Escuela de Alta Gerencia Pública; Consejo Presidencial de Economía Verde; Sistema Presidencial de Gestión por Resultados ( SPGR ); Despacho de Prioridades Presidenciales e innovación Pública dependiente de la Presidencia de la República; Gabinete Técnico para la Formulación de la Estrategia de Simplificación Administrativa; Dirección de Transformación Digital, como un órgano permanente al interior de la Secretaría de Estado en el Despacho de Finanzas (SEFIN); Inversiones Estratégicas/MCC-Honduras (INVEST-H); Programa Vida Mejor; Secretaría de Estado en los Despachos de Infraestructura y Servicios Públicos (INSEP);
 
 Secretaría de Desarrollo e Inclusión Social; Gabinete Especial para la reactivación Económica y Social; el Gabinete de Gobernabilidad; Gabinete Sectorial; Gabinete Económico;
 
@@ -87,7 +87,7 @@ La Comisión Técnica Liquidadora se integrará con personal técnico en el áre
 
 Asimismo, podrá conformar comisiones o equipos de trabajo para efectuar los procesos con la mayor inmediatez.
 
-SEGUNDO: La Comisión Técnica Liquidadora está facultada para ejecutar todas las acciones necesarias y emitir los actos administrativos requeridos para dar cumplimiento al mandato consignado en los Decretos Ejecutivos PCM-05-2022 y PCM-11- 2022 dictados por la Presidenta de la República en Consejo de Secretarios de Estado, en el sentido de liquidar operativa, administrativa y financieramente las siguientes instituciones:
+SEGUNDO: La Comisión Técnica Liquidadora está facultada para ejecutar todas las acciones necesarias y emitir los actos administrativos requeridos para dar cumplimiento al mandato consignado en los Decretos Ejecutivos PCM-05-2022 y PCM-11-2022 dictados por la Presidenta de la República en Consejo de Secretarios de Estado, en el sentido de liquidar operativa, administrativa y financieramente las siguientes instituciones:
 
 \1) Secretaria de Estado en el Despacho de Coordinación de Gobierno; 2) Secretaría de Estado en el Despacho de Transparencia;
 

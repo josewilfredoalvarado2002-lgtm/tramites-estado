@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220806-35995/download"
 extraido: "2026-11-14"
-huella: "cd806c439b32b6e5"
+huella: "0a178c3f0ff5cf0f"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "cd806c439b32b6e5"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 2068-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, doce de octubre del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ- 02082021-543 por la Abogada PATRICIA ELIZABETH REYES HERNANDEZ, actunado en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA SIBONEY, MUNICIPIO DE VILLA NUEVA, DEPARTAMENTO DE CORTÉS, contraido a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-02082021-543 por la Abogada PATRICIA ELIZABETH REYES HERNANDEZ, actunado en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COLONIA SIBONEY, MUNICIPIO DE VILLA NUEVA, DEPARTAMENTO DE CORTÉS, contraido a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

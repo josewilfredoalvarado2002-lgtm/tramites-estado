@@ -11,7 +11,7 @@ paginas: "A. 2 - 20"
 sumario: "Acuerdo No. 11/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210720-35662/download"
 extraido: "2026-11-14"
-huella: "9bcc1f6a2f3b38b1"
+huella: "1260f66f9b0db209"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.11/2021.- Sesión No.3910 del 9 de julio de
@@ -29,15 +29,15 @@ huella: "9bcc1f6a2f3b38b1"
 
 2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
-CONSIDERANDO: Que en atención a lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi) suscribieron el 7 de enero de 2009 el Contrato de Fideicomiso de Administración e Inversión No.009-2009, el cual ha sido modificado en diversas ocasiones con el objeto de adecuarlo a las reformas de dicha ley.
+CONSIDERANDO: Que en atención a lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi) suscribieron el 7 de enero de 2009 el Contrato de Fideicomiso de Administración e Inversión No. 009-2009, el cual ha sido modificado en diversas ocasiones con el objeto de adecuarlo a las reformas de dicha ley.
 
 CONSIDERANDO: Que la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera y el Artículo 14 reformado de la precitada ley facultaron al BCH y al Banhprovi para que, con los recursos de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, pudieran realizar gastos e inversiones que propiciaran la gestión y capitalización de los fondos de garantía que provean garantías a los sectores prioritarios en generación de empleo y divisas bajo el marco legal del Contrato de Fideicomiso BCH-Banhprovi.
 
 CONSIDERANDO: Que la Constitución de la República establece que las instituciones descentralizadas gozan de independencia funcional y administrativa y a este efecto podrán emitir los reglamentos que sean necesarios de conformidad con la ley.
 
-CONSIDERANDO: Que el Directorio del BCH, mediante Resolución No.123-3/2020 del 31 de marzo de 2020, aprobó el Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, normativa aplicable para los créditos redescontados con recursos del Fideicomiso BCH-Banhprovi, como mecanismo para incentivar el acceso al crédito agroalimentario tecnificado y mitigar los efectos del cambio climático en el sector productivo, el cual fue reformado por medio de Resolución No.207-6/2020 del 26 de junio de 2020 y de los acuerdos No.11/2020, No.14/2020, No.17/2020 y No.21/2020 del 24 de julio, 3 y 24 de septiembre y 28 diciembre de 2020, respectivamente.
+CONSIDERANDO: Que el Directorio del BCH, mediante Resolución No. 123-3/2020 del 31 de marzo de 2020, aprobó el Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a los Sectores Prioritarios en Generación de Empleo y/o Divisas para el País, normativa aplicable para los créditos redescontados con recursos del Fideicomiso BCH-Banhprovi, como mecanismo para incentivar el acceso al crédito agroalimentario tecnificado y mitigar los efectos del cambio climático en el sector productivo, el cual fue reformado por medio de Resolución No. 207-6/2020 del 26 de junio de 2020 y de los acuerdos No. 11/2020, No. 14/2020, No. 17/2020 y No. 21/2020 del 24 de julio, 3 y 24 de septiembre y 28 diciembre de 2020, respectivamente.
 
-CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No.05/2021 del 23 de junio de 2021, oída la opinión de la Unidad Administradora de Fideicomisos, con el objetivo de mejorar la aplicabilidad y una mayor cobertura de los fondos de garantía creados por el BCH que redunde en mayores beneficios para los sectores productivos y para apoyar a los afectados por los fenómenos naturales Eta e Iota, recomienda a este Directorio modificar el Artículo 22 del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
+CONSIDERANDO: Que la Comisión Fiduciaria (Cofid) del BCH, en la Sesión Ordinaria No. 05/2021 del 23 de junio de 2021, oída la opinión de la Unidad Administradora de Fideicomisos, con el objetivo de mejorar la aplicabilidad y una mayor cobertura de los fondos de garantía creados por el BCH que redunde en mayores beneficios para los sectores productivos y para apoyar a los afectados por los fenómenos naturales Eta e Iota, recomienda a este Directorio modificar el Artículo 22 del Reglamento del Fondo de Garantía para el Financiamiento de Créditos Redescontados con Recursos del Fideicomiso BCH-Banhprovi, Destinados a Sectores Prioritarios en Generación de Empleo y/o Divisas para el País.
 
 POR TANTO:
 
@@ -45,7 +45,7 @@ Con fundamento en los artículos 255, 262 y 342 de la Constitución de la Repúb
 
 3 y 5 de la Ley del Banco Hondureño para la Producción y la Vivienda; 2 y 3 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras; 14 de la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera y en las Normas para la Constitución, Administración y Supervisión de Fideicomisos emitidas por la Comisión Nacional de Bancos y Seguros,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -71,7 +71,7 @@ CAPÍTULO I GENERALIDADES
 
 Artículo 1. Antecedentes.
 
-El Contrato de Administración e Inversión No.009-2009 suscrito entre el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi), el 7 de enero de 2009, ha sido modificado en varias ocasiones con el fin de adecuar su contenido a las disposiciones contenidas en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas, así como las demás normas jurídicas relacionadas con el mismo, el contrato en referencia estipula entre otros aspectos la constitución de un Fondo de Garantía para el financiamiento de garantías para los sectores prioritarios en generación de empleo y/o divisas del país, comenzando con la emisión de garantías para los destinos estipulados en el “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras” que será administrado por el Banhprovi en su condición de Fiduciario al amparo de los Decretos Legislativos No.172-2019 del 22 de enero de 2020 y No.20- 2020 del 26 de febrero de 2020; derivado de lo anterior, es necesario regular la operatividad del Fondo de Garantía a través del presente Reglamento.
+El Contrato de Administración e Inversión No. 009-2009 suscrito entre el Banco Central de Honduras (BCH) y el Banco Hondureño para la Producción y la Vivienda (Banhprovi), el 7 de enero de 2009, ha sido modificado en varias ocasiones con el fin de adecuar su contenido a las disposiciones contenidas en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas, así como las demás normas jurídicas relacionadas con el mismo, el contrato en referencia estipula entre otros aspectos la constitución de un Fondo de Garantía para el financiamiento de garantías para los sectores prioritarios en generación de empleo y/o divisas del país, comenzando con la emisión de garantías para los destinos estipulados en el “Producto Financiero para el Otorgamiento de Créditos para la Transformación del Sector Agroalimentario de Honduras” que será administrado por el Banhprovi en su condición de Fiduciario al amparo de los Decretos Legislativos No. 172-2019 del 22 de enero de 2020 y No. 20-2020 del 26 de febrero de 2020; derivado de lo anterior, es necesario regular la operatividad del Fondo de Garantía a través del presente Reglamento.
 
 #### Artículo 2
 
@@ -89,11 +89,11 @@ El Fondo de Garantía para el financiamiento de créditos redescontados con recu
 
 Artículo 4. Definiciones.
 
-a) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución creada mediante Decreto Legislativo No.6-2005 del veintiséis (26) de enero del año dos mil cinco (2005), que contiene la Ley del Banco Hondureño Para la Producción y la Vivienda identificado también como la sigla Banhprovi, publicado en el Diario Oficial “La Gaceta” No.30,659 el uno (1) de abril del año dos mil cinco (2005) y reformado mediante Decreto Legislativo No.358-2014 del veinte (20) de enero del año dos mil catorce (2014), publicado en el Diario Oficial “La Gaceta” No.33,431 el veinte (20) de mayo del año dos mil catorce (2014) dicho decreto fue rectificado por Decreto Legislativo No.358-2013, mediante Fe de Errata publicada en el Diario Oficial “La Gaceta” No.33,530 el 12 de septiembre del año dos mil catorce (2014), quien funge como fiduciario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
+a) BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (Banhprovi): Institución creada mediante Decreto Legislativo No. 6-2005 del veintiséis (26) de enero del año dos mil cinco (2005), que contiene la Ley del Banco Hondureño Para la Producción y la Vivienda identificado también como la sigla Banhprovi, publicado en el Diario Oficial “La Gaceta” No. 30,659 el uno (1) de abril del año dos mil cinco (2005) y reformado mediante Decreto Legislativo No. 358-2014 del veinte (20) de enero del año dos mil catorce (2014), publicado en el Diario Oficial “La Gaceta” No. 33,431 el veinte (20) de mayo del año dos mil catorce (2014) dicho decreto fue rectificado por Decreto Legislativo No. 358-2013, mediante Fe de Errata publicada en el Diario Oficial “La Gaceta” No. 33,530 el 12 de septiembre del año dos mil catorce (2014), quien funge como fiduciario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
 
 b) BANCO CENTRAL DE HONDURAS (BCH):
 
-Institución creada mediante Decreto Legislativo No.53 del 3 de febrero de 1950, publicado en el Diario Oficial “La Gaceta”, el 23 de febrero de 1953, quien funge como fideicomitente y fideicomisario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
+Institución creada mediante Decreto Legislativo No. 53 del 3 de febrero de 1950, publicado en el Diario Oficial “La Gaceta”, el 23 de febrero de 1953, quien funge como fideicomitente y fideicomisario del Fideicomiso de Administración e Inversión creado al amparo de lo establecido en la Ley de Apoyo Financiero para los Sectores Productivos de Honduras y sus reformas.
 
 c) BENEFICIARIO: Personas naturales o jurídicas que desarrollen proyectos en los sectores prioritarios que generen empleos y/o divisas para el país y se les otorguen créditos redescontados con recursos del Fideicomiso BCHBanhprovi.
 
@@ -105,9 +105,9 @@ Comité Técnico Administrativo del Fideicomiso al amparo de lo establecido en l
 
 f) CONTRATO DE ADHESIÓN PARA EL USO DEL FONDO DE GARANTÍA: Contrato suscrito entre el Banhprovi y las IFIs calificadas, para el cual se debe contar con una solicitud escrita o mediante correo electrónico oficial de un representante de la IFI. Dicho documento debe reflejar las responsabilidades de la IFI de realizar todas las actividades relacionadas a la gestión crediticia de la cartera sujeta a cobertura por las garantías.
 
-g) CONTRATO DE FIDEICOMISO: Es el Contrato de Administración e Inversión suscrito entre el BCH y el Banhprovi y sus Addéndums de conformidad con los Decretos Legislativos Nos.67-2009, 57-2013, 91-2013, 95-2014, 90-2016, 145-2018 y el párrafo segundo del
+g) CONTRATO DE FIDEICOMISO: Es el Contrato de Administración e Inversión suscrito entre el BCH y el Banhprovi y sus Addéndums de conformidad con los Decretos Legislativos Nos. 67-2009, 57-2013, 91-2013, 95-2014, 90-2016, 145-2018 y el párrafo segundo del
 
-Artículo 14 de la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera, contenido en el Decreto Legislativo No.130-2019 reformado mediante el Decreto Legislativo No.179-2019 e interpretado mediante el Decreto Legislativo No.20-2020.
+Artículo 14 de la Ley para el Fortalecimiento del Sector Productivo de la Palma Aceitera, contenido en el Decreto Legislativo No. 130-2019 reformado mediante el Decreto Legislativo No. 179-2019 e interpretado mediante el Decreto Legislativo No. 20-2020.
 
 h) FIDEICOMISO BCH-Banhprovi (FIBCH):
 
@@ -133,7 +133,7 @@ CAPÍTULO II CAPITAL Y USO DE LOS RECURSOS DEL FONDO DE GARANTÍA
 
 Artículo 5. Del Capital.
 
-El Fondo de Garantía se constituye con un capital de quinientos veinticinco millones de lempiras (L525,000,000.00), de conformidad a lo estatuido en la Cláusula Segunda del Addéndum No.016-2020 del 31 de marzo de 2020 al Contrato de Administración e Inversión del Fideicomiso BCH-Banhprovi, con el objetivo de rendir garantías complementarias a favor de la IFI en los casos en que determine el presente Reglamento.
+El Fondo de Garantía se constituye con un capital de quinientos veinticinco millones de lempiras (L525,000,000.00), de conformidad a lo estatuido en la Cláusula Segunda del Addéndum No. 016-2020 del 31 de marzo de 2020 al Contrato de Administración e Inversión del Fideicomiso BCH-Banhprovi, con el objetivo de rendir garantías complementarias a favor de la IFI en los casos en que determine el presente Reglamento.
 
 Al monto anteriormente establecido se le sumarán los valores siguientes:
 

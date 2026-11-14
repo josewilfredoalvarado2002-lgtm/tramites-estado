@@ -11,7 +11,7 @@ paginas: "A. 32 - 40"
 sumario: "Decretos Nos. 97-2024, 100-2024, 101-2024, 111-2024, 112-2024, 113-2024, 115-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250127-36750/download"
 extraido: "2026-11-13"
-huella: "bd6c2eecc48eae20"
+huella: "a8781a3c48601efc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 115-2024
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el De
 
 CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas en su Artículo 194 establece que: “Todo ascenso debe ser dictaminado previamente por el Estado Mayor Conjunto de las Fuerzas Armadas”.
 
-CONSIDERANDO: Que la Ley de Personal para los Miembros de las Fuerzas Armadas, contenida en el Decreto No.231-2005 del 11 de Octubre de 2005, publicado en el Diario Oficial “Gaceta” de fecha 30 de Agosto de 2005, en su Artículo 42 establece que: “Para el ascenso al grado inmediato superior, debe cumplirse los requisitos siguientes:
+CONSIDERANDO: Que la Ley de Personal para los Miembros de las Fuerzas Armadas, contenida en el Decreto No. 231-2005 del 11 de Octubre de 2005, publicado en el Diario Oficial “Gaceta” de fecha 30 de Agosto de 2005, en su Artículo 42 establece que: “Para el ascenso al grado inmediato superior, debe cumplirse los requisitos siguientes:
 
 1. Que exista la vacante; 2. Tiempo de servicio en el grado; 3.
 
@@ -55,13 +55,13 @@ CONSIDERANDO: Que el Reglamento de Personal para los Miembros de las Fuerzas Arm
 
 Artículo 57 establece que: “Los miembros activos de las Fuerzas Armadas, serán objeto de ascensos, cuando acrediten tener los requisitos exigidos en el Reglamento y directiva respectiva”.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día Veinticuatro (24) de Octubre del año dos mil veinticuatro (2024), mediante Acta No.006-2024, resolvió solicitar a la Señora Secretaria de Estado en el Despacho de Defensa Nacional, Abogada RIXI MONCADA GODOY, para que por su digno medio solicite a la Señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso de ciento veintiocho (128) oficiales al Grado de General de Brigada, al Grado de Coronel de las Armas, al Grado de Coronel de Infantería, al Grado de Coronel de Material de Guerra, al Grado de Teniente Coronel de las Armas, al Grado de Mayor de las Armas, por cumplir antigüedad en el grado y demás requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día Veinticuatro (24) de Octubre del año dos mil veinticuatro (2024), mediante Acta No. 006-2024, resolvió solicitar a la Señora Secretaria de Estado en el Despacho de Defensa Nacional, Abogada RIXI MONCADA GODOY, para que por su digno medio solicite a la Señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso de ciento veintiocho (128) oficiales al Grado de General de Brigada, al Grado de Coronel de las Armas, al Grado de Coronel de Infantería, al Grado de Coronel de Material de Guerra, al Grado de Teniente Coronel de las Armas, al Grado de Mayor de las Armas, por cumplir antigüedad en el grado y demás requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

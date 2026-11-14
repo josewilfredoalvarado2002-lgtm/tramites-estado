@@ -11,7 +11,7 @@ paginas: "A. 1 - 36"
 sumario: "Acuerdo Ejecutivo número 001-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211202-35787/download"
 extraido: "2026-11-14"
-huella: "1051567199fe9248"
+huella: "18035194c7c38ad3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-2021
@@ -57,7 +57,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 043-2020 de fecha 01 de oct
 
 POR TANTO
 
-En la aplicación de los artículos 245, numerales 11, 246, 247, 255, 321, 323 de la Constitución de la República; artículos número 2, 3, 6, 7, 9 y 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales; artículos número 1, 2, 3, 6, 7, 9 y 10 del Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales; artículo número 4 Transitorio del Decreto Legislativo Número 25- 2015 contentivo de la reforma de la Ley Especial sobre VIH/ SIDA; artículos número 11, 116 y 118 de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo Número 266-2013, de la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento a la Transparencia en el Gobierno.
+En la aplicación de los artículos 245, numerales 11, 246, 247, 255, 321, 323 de la Constitución de la República; artículos número 2, 3, 6, 7, 9 y 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales; artículos número 1, 2, 3, 6, 7, 9 y 10 del Protocolo Adicional a la Convención Americana sobre Derechos Humanos en Materia de Derechos Económicos, Sociales y Culturales; artículo número 4 Transitorio del Decreto Legislativo Número 25-2015 contentivo de la reforma de la Ley Especial sobre VIH/ SIDA; artículos número 11, 116 y 118 de la Ley General de Administración Pública y su reforma mediante Decreto Legislativo Número 266-2013, de la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento a la Transparencia en el Gobierno.
 
 ACUERDA
 
@@ -823,9 +823,7 @@ DISPOSICIONES FINALES
 
 #### Artículo 113
 
-Artículo 113: El presente Reglamento se fundamenta en una visión integral y actualizada, conforme a la Ley Especial sobre VIH/SIDA y su Reforma del 2015, y reemplaza al Reglamento previamente establecido por el Acuerdo Ministerial No.
-
-009 del 2003. Podrá ser reformado por el Poder Ejecutivo a petición de la CONASIDA, quien formulará la propuesta de reforma a través de su Secretaría Ejecutiva, tras la aprobación de la asamblea del Consejo Político Decisorio y del Consejo Técnico Consultivo. La Secretaría Ejecutiva de la CONASIDA remitirá la propuesta a la Secretaría de Salud o bien a la Secretaría de Derechos Humanos, para que, cualquiera de estas dos dependencias del Estado, presente la propuesta de reforma ante la autoridad competente.
+Artículo 113: El presente Reglamento se fundamenta en una visión integral y actualizada, conforme a la Ley Especial sobre VIH/SIDA y su Reforma del 2015, y reemplaza al Reglamento previamente establecido por el Acuerdo Ministerial No. 009 del 2003. Podrá ser reformado por el Poder Ejecutivo a petición de la CONASIDA, quien formulará la propuesta de reforma a través de su Secretaría Ejecutiva, tras la aprobación de la asamblea del Consejo Político Decisorio y del Consejo Técnico Consultivo. La Secretaría Ejecutiva de la CONASIDA remitirá la propuesta a la Secretaría de Salud o bien a la Secretaría de Derechos Humanos, para que, cualquiera de estas dos dependencias del Estado, presente la propuesta de reforma ante la autoridad competente.
 
 #### Artículo 114
 

@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Decreto No. 5-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210413-35570/download"
 extraido: "2026-11-14"
-huella: "1b2add91792a803f"
+huella: "5318cc9123d361c5"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 5-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que para garantizar una operación más eficiente y eficaz de los 
 
 CONSIDERANDO: Que la vigilancia cuarentenaria y fitosanitaria se traduce a nivel práctico en velar por la protección de las personas, de los animales y para preservar las especies vegetales, así como la conservación e inocuidad de productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
-CONSIDERANDO: Que para optimizar el servicio de inspección cuarentenaria en todos los aeropuertos de la República a efecto de fortalecer la seguridad alimentaria, protección y sanidad agropecuaria en el país es preciso reformar el Artículo 2 del Decreto No.29-2014, de fecha 15 de Mayo de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Julio de 2014, Edición No.33,477, garantizando de esa forma que los organismos técnico administrativos encargado de esta importante tarea cuenten con los recursos financieros necesarios para tal fin.
+CONSIDERANDO: Que para optimizar el servicio de inspección cuarentenaria en todos los aeropuertos de la República a efecto de fortalecer la seguridad alimentaria, protección y sanidad agropecuaria en el país es preciso reformar el Artículo 2 del Decreto No. 29-2014, de fecha 15 de Mayo de 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Julio de 2014, Edición No. 33,477, garantizando de esa forma que los organismos técnico administrativos encargado de esta importante tarea cuenten con los recursos financieros necesarios para tal fin.
 
 CONSIDERANDO: Que en el Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
@@ -47,9 +47,9 @@ DECRETA:
 
 ARTÍCULO 1.-
 
-Reformar el Artículo 2 del Decreto No.29-2014, aprobado el 15 de mayo del año 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Julio de 2014, Edición No.33,477, el cual se leerá de la manera siguiente:
+Reformar el Artículo 2 del Decreto No. 29-2014, aprobado el 15 de mayo del año 2014 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Julio de 2014, Edición No. 33,477, el cual se leerá de la manera siguiente:
 
-“ARTÍCULO 2.- La Tasa cobrada a la fecha de entrada en vigencia del presente Decreto por el concesionario a las personas en concepto de seguridad aeroportuaria y la tarifa contemplada en el numeral 20) del Artículo 128 del Reglamento General de la Ley de Migración y Extranjería, pasan a ser cobrados por el Estado de Honduras y administrados mediante el fideicomiso del “Fondo de Protección y Seguridad Poblacional”, contenido en el Decreto No.199-2011, de fecha 11 de Noviembre de 2011 y sus reformas y destinados a fortalecer la seguridad aeroportuaria u otros que el Presidente de la República designe.
+“ARTÍCULO 2.- La Tasa cobrada a la fecha de entrada en vigencia del presente Decreto por el concesionario a las personas en concepto de seguridad aeroportuaria y la tarifa contemplada en el numeral 20) del Artículo 128 del Reglamento General de la Ley de Migración y Extranjería, pasan a ser cobrados por el Estado de Honduras y administrados mediante el fideicomiso del “Fondo de Protección y Seguridad Poblacional”, contenido en el Decreto No. 199-2011, de fecha 11 de Noviembre de 2011 y sus reformas y destinados a fortalecer la seguridad aeroportuaria u otros que el Presidente de la República designe.
 
 La tasa por los servicios prestados por el Gobierno en convenio con el Organismo Internacional Regional de Sanidad Agropecuaria (OIRSA)/ SENASA, será cobrada por el SENASA a través del OIRSA con el fin de prestar de manera óptima el servicio de inspección cuarentenaria en todos los aeropuertos de la República a efecto de fortalecer la seguridad alimentaria, protección y sanidad agropecuaria en el país”.
 

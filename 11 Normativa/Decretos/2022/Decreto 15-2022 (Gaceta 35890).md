@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Decreto No. 15-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220404-35890/download"
 extraido: "2026-11-14"
-huella: "537af72fa96bb8b3"
+huella: "d97b7444a19915db"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 15-2022
@@ -31,17 +31,17 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la función tributaria del Estado tiene por objeto la recaudación de los recursos financieros necesarios, para que la institucionalidad pueda ejecutar las acciones tendientes a garantizar el bienestar y el goce de los Derechos de las personas.
 
-CONSIDERANDO: Que el Decreto Legislativo No.153- 2021, emitido en fecha 20 de enero de 2022, consistente en una amnistía vehicular, que contiene un error sustancial y que para la correcta aplicación del Decreto en mención, el mismo debe ser reformado.
+CONSIDERANDO: Que el Decreto Legislativo No. 153-2021, emitido en fecha 20 de enero de 2022, consistente en una amnistía vehicular, que contiene un error sustancial y que para la correcta aplicación del Decreto en mención, el mismo debe ser reformado.
 
 CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1, Numeral 5) del Decreto Legislativo No.153-2021 de fecha 20 de enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 5 de febrero de 2022, edición No.35,841, el cual, a partir de la fecha debe leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1, Numeral 5) del Decreto Legislativo No. 153-2021 de fecha 20 de enero de 2022, publicado en el Diario Oficial “La Gaceta” de fecha 5 de febrero de 2022, edición No. 35,841, el cual, a partir de la fecha debe leerse de la manera siguiente:
 
 “ARTÍCULO 1.- AMNISTÍA
 

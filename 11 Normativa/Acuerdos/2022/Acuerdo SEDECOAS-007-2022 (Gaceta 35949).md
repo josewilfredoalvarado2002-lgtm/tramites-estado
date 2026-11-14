@@ -11,7 +11,7 @@ paginas: "A. 13 - 18"
 sumario: "Acuerdo de Nombramiento No. SEDECOAS-05-2022, Acuerdos Nos. SEDECOAS-006-2022,012-2022, 014-2022Acuerdos de Cancelación Nos.SEDECOAS-007-2022, 009-2022, 011-2022, Acuerdos de Delegación Nos. SEDECOAS-008-2022, 013-2022, 015-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220614-35949/download"
 extraido: "2026-11-14"
-huella: "742d43c3789b6797"
+huella: "4c8dd2db52c53fab"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE CANCELACIÓN No. SEDECOAS-007-2022
@@ -77,7 +77,7 @@ CONSIDERANDO: Que de conformidad al artículo 36 numeral 8 de la Ley General de 
 
 CONSIDERANDO: Que el Secretario de Estado en los Despachos de la SECRETARÍA DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (SEDECOAS), tiene la facultad de nombrar, reasignar y cancelar al personal de la institución, conforme a las normas legales aplicables.
 
-CONSIDERANDO: Que la ciudadana EVA MARÍA VÁSQUEZ VILLANUEVA fue nombrada mediante el ACUERDO DE NOMBRAMIENTO No.20- SEDECOAS-2020 de fecha veintiocho (28) de julio del año dos mil veinte (2020) en el cargo de SUBDIRECTOR DE AGUA Y SANEAMIENTO DEL INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), nombramiento a ser efectivo a partir del tres (03) de agosto del año dos mil veinte (2020); con un sueldo de SETENTA MIL LEMPIRAS EXACTOS (L.70,000.00) monto que es cancelado de forma mensual; además teniendo derecho al pago proporcional del decimotercero y decimocuarto mes, así como al descanso por vacaciones proporcionales.
+CONSIDERANDO: Que la ciudadana EVA MARÍA VÁSQUEZ VILLANUEVA fue nombrada mediante el ACUERDO DE NOMBRAMIENTO No. 20- SEDECOAS-2020 de fecha veintiocho (28) de julio del año dos mil veinte (2020) en el cargo de SUBDIRECTOR DE AGUA Y SANEAMIENTO DEL INSTITUTO DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO (IDECOAS), nombramiento a ser efectivo a partir del tres (03) de agosto del año dos mil veinte (2020); con un sueldo de SETENTA MIL LEMPIRAS EXACTOS (L.70,000.00) monto que es cancelado de forma mensual; además teniendo derecho al pago proporcional del decimotercero y decimocuarto mes, así como al descanso por vacaciones proporcionales.
 
 CONSIDERANDO: Que el pago de la ciudadana en mención devengara su salario con cargo al presupuesto del IDECOAS, fuente 11, Org-001, programa 011, subprograma 00, proyecto 00, actividad/obra 001, objeto 11100, B.Trans:00, FHIS o cualquier componente del FHIS donde exista disponibilidad presupuestaria
 

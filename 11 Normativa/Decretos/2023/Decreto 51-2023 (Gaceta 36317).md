@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Decreto No. 16-2023, 51-2023, 53-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230825-36317/download"
 extraido: "2026-11-14"
-huella: "726ff1b7715f378a"
+huella: "c6374a64c9a3327d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 51-2023
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205, Atribuc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -63,7 +63,7 @@ INGENIERO GUSTAVO ALFREDO LANDAVERDE HERNÁNDEZ, ABOGADO ORLAN ARTURO CHÁVEZ �
 
 ARTÍCULO 3.- Crear los PREMIOS, GUSTAVO
 
-A L F R E D O L A N D AV E R D E HERNÁNDEZ, ORLAN ARTURO CHÁVEZ Y JULIÁN ARÍSTIDES GONZALES, los cuales se otorgarán cada año a distinguidas y distinguidos compatriotas que se destaquen en el campo de la verdad, la justicia y la lucha contra el narcotráfico.
+ALFREDO LAND AV E R D E HERNÁNDEZ, ORLAN ARTURO CHÁVEZ Y JULIÁN ARÍSTIDES GONZALES, los cuales se otorgarán cada año a distinguidas y distinguidos compatriotas que se destaquen en el campo de la verdad, la justicia y la lucha contra el narcotráfico.
 
 #### Artículo 4
 

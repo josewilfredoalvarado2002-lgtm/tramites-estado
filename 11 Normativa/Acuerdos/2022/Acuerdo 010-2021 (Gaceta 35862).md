@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo número 010-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220302-35862/download"
 extraido: "2026-11-14"
-huella: "783277dd2f5f4bfc"
+huella: "f37d7016b39b229d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 010-2021
@@ -27,9 +27,9 @@ huella: "783277dd2f5f4bfc"
 
 ## Texto
 
-CONSIDERANDO: Que de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No.98-2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país; y específicamente en este caso el área forestal nacional denominado Sitio “SALADITO” jurisdicción del Municipio de San Francisco, Departamento de Atlántida, ubicado en la zona de amortiguamiento del Área Protegida “Parque Nacional Pico Bonito”.
+CONSIDERANDO: Que de conformidad con la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene la atribución de iniciar DE OFICIO los trámites de investigación, tenencia, deslinde, amojonamiento, recuperación y titulación a favor del Estado de Honduras, cuando proceda, de todas las tierras nacionales de vocación forestal y áreas protegidas del país; y específicamente en este caso el área forestal nacional denominado Sitio “SALADITO” jurisdicción del Municipio de San Francisco, Departamento de Atlántida, ubicado en la zona de amortiguamiento del Área Protegida “Parque Nacional Pico Bonito”.
 
-CONSIDERANDO: Que la Ley de Propiedad (Decreto No.82-2004) declara PRIORIDAD NACIONAL la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 estas áreas como zonas sujetas a regímenes especiales ordenando la regularización de los predios ubicados dentro de las mismas; enfatizando que le corresponde exclusivamente al ICF, realizar el proceso de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
+CONSIDERANDO: Que la Ley de Propiedad (Decreto No. 82-2004) declara PRIORIDAD NACIONAL la regularización y solución de conflictos sobre la tenencia, posesión y propiedad de bienes inmuebles, la incorporación de los mismos al catastro nacional, la titulación, inscripción en los registros de la propiedad inmueble y en el caso específico de los bosques nacionales, áreas protegidas y parques nacionales, determinando en su artículo 71 estas áreas como zonas sujetas a regímenes especiales ordenando la regularización de los predios ubicados dentro de las mismas; enfatizando que le corresponde exclusivamente al ICF, realizar el proceso de regularización de la ocupación, uso y goce de todas las tierras forestales públicas y áreas protegidas comprendidas en el territorio nacional.
 
 CONSIDERANDO: Que la Ley de Reforma Agraria en su artículo 13 inciso d), dispone que LOS PARQUES, BOSQUES NACIONALES, LAS RESERVAS FORESTALES, LAS ZONAS PROTEGIDAS y las superficies sujetas a procesos de reforestación, NO SE DESTINARÁN A LA REALIZACIÓN DE LA REFORMA AGRARIA.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que es facultad del ICF, con el apoyo de otras dependencias del se
 
 POR TANTO
 
-La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 103, 255, 340 y 341 la Constitución de la República; artículos 51 al 59 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No.98- 2007) y 102, 108, 109, 112 al 139 de su Reglamento (Acuerdo No.031-2010); 70 y 71 de la Ley de Propiedad; 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 103, 255, 340 y 341 la Constitución de la República; artículos 51 al 59 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) y 102, 108, 109, 112 al 139 de su Reglamento (Acuerdo No. 031-2010); 70 y 71 de la Ley de Propiedad; 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo.
 
 ACUERDA
 

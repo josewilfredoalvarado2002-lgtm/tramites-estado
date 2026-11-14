@@ -11,7 +11,7 @@ paginas: "A. 1 - 18"
 sumario: "Acuerdo No. SAG-162-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211122-35778/download"
 extraido: "2026-11-14"
-huella: "4ed9d6da1c464338"
+huella: "8e05394967e3c245"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-162-2021
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el Presidente de la República de Honduras, en Consejo de Secr
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-146-2020 de fecha 29 de diciembre del 2020 el Presidente de la República de Honduras, en Consejo de Secretarios de Estado, en el marco de la Emergencia Nacional ante la amenaza de propagación del COVID-19, decretó ampliar el Estado de Emergencia Nacional hasta el 31 de diciembre 2021.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-147-2020 de fecha 29 de diciembre del 2020 publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020, Decretó: en su Artículo 1 Prorrogar la vigencia de la Declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM- 109-2020 publicado en el Diario Oficial “La Gaceta” en fecha dos (02) de noviembre del 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115- 2020 y PCM-116-2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-147-2020 de fecha 29 de diciembre del 2020 publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre del 2020, Decretó: en su Artículo 1 Prorrogar la vigencia de la Declaratoria de Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País, emitida mediante Decreto Ejecutivo Número PCM-109-2020 publicado en el Diario Oficial “La Gaceta” en fecha dos (02) de noviembre del 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 CONSIDERANDO: Que en fecha 18 de marzo del 2021 fue aprobado el Acuerdo Ministerial No. SAG-060-2021, publicado en el Diario Oficial “La Gaceta” en fecha 08 de mayo del 2021, contentivo del Manual Operativo para el Proyecto de Transformación en Regadío en Ribera del Río Aguán.
 
@@ -491,7 +491,7 @@ ANEXOS
 
 29. Ficha resumen del proyecto por productor
 
-SEGUNDO: El presente Acuerdo deroga totalmente el Acuerdo Ministerial No. SAG- 060-2021.
+SEGUNDO: El presente Acuerdo deroga totalmente el Acuerdo Ministerial No. SAG-060-2021.
 
 TERCERO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

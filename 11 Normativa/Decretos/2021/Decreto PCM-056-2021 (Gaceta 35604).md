@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-056-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210520-35604/download"
 extraido: "2026-11-14"
-huella: "41807178019da748"
+huella: "b1d33d72beb799c0"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-056-2021
@@ -49,7 +49,7 @@ CONSIDERANDO: Que en vista que la Dirección de Asuntos Disciplinarios Policiale
 
 POR TANTO:
 
-En aplicación de los Artículos: 245 numerales 2, 5, 11 y 45, 247, 252, 321, 323 y demás aplicables de la Constitución de la República; Artículos 11, 12, 17, 22 numerales 9) y 12), 29 numeral 11, 116, 117 y 119 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013; Artículos 15 16 y 17 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, contenida en el Decreto Legislativo No.18-2017; y, 16 y 17 del Reglamento de Organización y Funciones de la Dirección de Asuntos Disciplinarios Policiales (DIDADPOL).
+En aplicación de los Artículos: 245 numerales 2, 5, 11 y 45, 247, 252, 321, 323 y demás aplicables de la Constitución de la República; Artículos 11, 12, 17, 22 numerales 9) y 12), 29 numeral 11, 116, 117 y 119 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013; Artículos 15 16 y 17 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y de la Policía Nacional de Honduras, contenida en el Decreto Legislativo No. 18-2017; y, 16 y 17 del Reglamento de Organización y Funciones de la Dirección de Asuntos Disciplinarios Policiales (DIDADPOL).
 
 DECRETA:
 
@@ -73,7 +73,7 @@ RESULTANDO:
 
 I.
 
-Que la Comisión Reguladora de Energía Eléctrica (“CREE” o “Comisión”), mediante el Acuerdo CREE- 075 publicado en el Diario Oficial “La Gaceta” en fecha 03 de julio de 2020, estableció que el valor mínimo demanda que debe de tener un Usuario para ser considerado un Consumidor Calificado al estar conectado a la red de distribución es de tres megavatios (3 MW).
+Que la Comisión Reguladora de Energía Eléctrica (“CREE” o “Comisión”), mediante el Acuerdo CREE-075 publicado en el Diario Oficial “La Gaceta” en fecha 03 de julio de 2020, estableció que el valor mínimo demanda que debe de tener un Usuario para ser considerado un Consumidor Calificado al estar conectado a la red de distribución es de tres megavatios (3 MW).
 
 II.
 
@@ -85,7 +85,7 @@ Que mediante auto de fecha 19 de enero de 2021, la Unidad de Mercados Eléctrico
 
 IV.
 
-Que la CREE solicitó la información detallada anteriormente mediante oficio número CREE-009- 2021 de fecha 25 de enero de 2021.
+Que la CREE solicitó la información detallada anteriormente mediante oficio número CREE-009-2021 de fecha 25 de enero de 2021.
 
 V.
 
@@ -101,7 +101,7 @@ VII.
 
 Que el ODS presentó ante la CREE el oficio número DE-ODS-0035-II-2021 con fecha 10 de febrero de 2021, mediante el cual informó a la CREE, entre otras cosas, que no hay razón imposible de superar en cuanto a la pregunta sobre si existía alguna razón por la cual el ODS recomendara no aprobar un valor menor de 750 kW como el piso de demanda máxima requerida para ser considerado Consumidor Calificado.
 
-VIII. Mediante auto de fecha 22 de febrero de 2021 la Secretaría General de la CREE en atención a la instrucción girada en el memorándum de fecha 16 de febrero de 2021, formó el expediente número SV-03- 2021 y en el mismo auto puso a disposición de manera conjunta a las Unidades de Mercados Eléctricos y Fiscalización el referido expediente, a fin de que estas procedieran de forma conjunta a emitir el documento contentivo del estudio del desarrollo del mercado eléctrico nacional para ampliar la participación de los Consumidores Calificados, conforme a lo establecido en el artículo 17 literal A del Reglamento de la Ley General de la Industria Eléctrica.
+VIII. Mediante auto de fecha 22 de febrero de 2021 la Secretaría General de la CREE en atención a la instrucción girada en el memorándum de fecha 16 de febrero de 2021, formó el expediente número SV-03-2021 y en el mismo auto puso a disposición de manera conjunta a las Unidades de Mercados Eléctricos y Fiscalización el referido expediente, a fin de que estas procedieran de forma conjunta a emitir el documento contentivo del estudio del desarrollo del mercado eléctrico nacional para ampliar la participación de los Consumidores Calificados, conforme a lo establecido en el artículo 17 literal A del Reglamento de la Ley General de la Industria Eléctrica.
 
 IX.
 
@@ -125,7 +125,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma, mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma, mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 

@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 101 - 112"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "fac8e56354e1d2bb"
+huella: "d6afea8e8e88e8c8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.04/2020.- Sesión No.3835 del 15 de mayo
@@ -23,7 +23,7 @@ huella: "fac8e56354e1d2bb"
 | Emisor | Banco Central de Honduras |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 101 - 112 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de 
 
 CONSIDERANDO:
 
-Que mediante la Resolución No.441- 10/2013 del 17 de octubre de 2013 este Órgano Colegiado reformó por última vez las Normas Operativas de la Cámara de Compensación Electrónica de Cheques (CCECH).
+Que mediante la Resolución No. 441-10/2013 del 17 de octubre de 2013 este Órgano Colegiado reformó por última vez las Normas Operativas de la Cámara de Compensación Electrónica de Cheques (CCECH).
 
 CONSIDERANDO:
 
@@ -51,7 +51,7 @@ Que mediante el Oficio No.SEGSEOF-549/2019 del 13 de septiembre de 2019 la CNBS 
 
 CONSIDERANDO:
 
-Que la Gerencia, oída la opinión del Departamento de Sistema de Pagos, mediante memorándum SP- 968/2020, ha recomendado a este Directorio proceder conforme a la misma.
+Que la Gerencia, oída la opinión del Departamento de Sistema de Pagos, mediante memorándum SP-968/2020, ha recomendado a este Directorio proceder conforme a la misma.
 
 POR TANTO:
 
@@ -61,7 +61,7 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 2, 6, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; 10, 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores y oída la opinión de la Subgerencia de Operaciones y del Departamento Jurídico de esta Institución,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -91,7 +91,7 @@ Entidad autorizada por el Banco Central de Honduras (BCH) para la operación y f
 
 Institución encargada de organizar, reglamentar y vigilar el funcionamiento de los sistemas de pago en el país.
 
-2.3. C á m a r a d e C o m p e n s a c i ó n Electrónica de Cheques (CCECH):
+2.3. Cámara de Compensación Electrónica de Cheques (CCECH):
 
 Sistema autorizado por el BCH para efectos de llevar a cabo la compensación, liquidación y truncamiento de cheques entre las instituciones participantes.
 
@@ -457,7 +457,7 @@ Comunicar este Acuerdo al Centro de Procesamiento Interbancario, S.A. (Ceproban)
 
 IV.
 
-A partir de la entrada en vigencia de este Acuerdo quedarán derogadas las resoluciones números 27-1/2005, 344- 8/2007, 167-5/2008, 77-2/2013 y 441-10/2013, emitidas por el Directorio del Banco Central de Honduras el 27 de enero de 2005, el 31 de agosto de 2007, el 8 de mayo de 2008, el 28 de febrero de 2013 y el 17 de octubre de 2013, respectivamente, así como cualquier otra resolución que se oponga a este Acuerdo.
+A partir de la entrada en vigencia de este Acuerdo quedarán derogadas las resoluciones números 27-1/2005, 344-8/2007, 167-5/2008, 77-2/2013 y 441-10/2013, emitidas por el Directorio del Banco Central de Honduras el 27 de enero de 2005, el 31 de agosto de 2007, el 8 de mayo de 2008, el 28 de febrero de 2013 y el 17 de octubre de 2013, respectivamente, así como cualquier otra resolución que se oponga a este Acuerdo.
 
 V.
 

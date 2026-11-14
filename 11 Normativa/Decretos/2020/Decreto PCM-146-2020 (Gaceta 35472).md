@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Ejecutivos números PCM-146-2020, 147-2020, 148-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201229-35472/download"
 extraido: "2026-11-14"
-huella: "2da07720b155c775"
+huella: "5fbec9df1a62fe1a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-146-2020
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No.
-
-35,171, reformado mediante Decretos Ejecutivos Números:
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números:
 
 PCM-016-2020 y PCM-023-2020 se Declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-2019). La Declaratoria de Emergencia a que se refiere este Decreto Ejecutivo tendrá vigencia hasta el 31 de diciembre del año 2020, misma que podrá ser prorrogada.
 
@@ -53,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM- 016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
+ARTÍCULO 1.- Prorrogar la vigencia de la Declaratoria de ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional, mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, Edición No. 35,171, reformado mediante Decretos Ejecutivos Números: PCM-016-2020 y PCM-023-2020, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19).
 
 #### Artículo 2
 

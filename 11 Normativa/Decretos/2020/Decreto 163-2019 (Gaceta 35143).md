@@ -11,7 +11,7 @@ paginas: "A. 14"
 sumario: "Decretos Nos. 149-2019, 163-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200108-35143/download"
 extraido: "2026-11-14"
-huella: "b431c07604fe9bea"
+huella: "1ec3736a903eb642"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 163-2019
@@ -31,7 +31,7 @@ El Congreso Nacional:
 
 CONSIDERANDO: Que es atribución del Poder Ejecutivo someter a consideración del Congreso Nacional, el Ascenso de Oficiales de la Policía Nacional de Honduras.
 
-CONSIDERANDO: Que corresponde a este Congreso Nacional, de conformidad al último párrafo del Artículos 43 de la Ley Orgánica de la Policía Nacional, reformado mediante Decreto No.25-2013 de fecha 27 de febrero de 2013 y publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, edición No.33,083-, conferir los ascensos de la Escala Ejecutiva Superior a propuesta del Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Seguridad, previo dictamen del Directorio Estratégico de la Policía Nacional.
+CONSIDERANDO: Que corresponde a este Congreso Nacional, de conformidad al último párrafo del Artículos 43 de la Ley Orgánica de la Policía Nacional, reformado mediante Decreto No. 25-2013 de fecha 27 de febrero de 2013 y publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, edición No. 33,083-, conferir los ascensos de la Escala Ejecutiva Superior a propuesta del Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Seguridad, previo dictamen del Directorio Estratégico de la Policía Nacional.
 
 CONSIDERANDO: Que los Oficiales enunciados han mantenido una sobresaliente ejecutoria en el desempeño de su carrera profesional y han cumplido con los requisitos que establecen en la Ley Orgánica de la Policía Nacional de Honduras y el Manual de Procedimientos para el Proceso de Ascenso de la Policía Nacional, para ser declarados aptos para el Ascenso al Grado Inmediato Superior.
 

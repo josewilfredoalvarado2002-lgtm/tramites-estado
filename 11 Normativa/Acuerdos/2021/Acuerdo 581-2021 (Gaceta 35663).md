@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo No. 581-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210721-35663/download"
 extraido: "2026-11-14"
-huella: "b782e9c96975c805"
+huella: "4102e1edb238b399"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 581-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la Licenciada Mónica Bran, como Jefe Cooperación Externa y M
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 126 de la Ley de Procedimiento Administrativo; 4 y 42 del Decreto Ejecutivo No.PCM-008-97 de fecha 15 de junio de 1997, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 1 y 6 de la Ley de Simplificación Administrativa; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 126 de la Ley de Procedimiento Administrativo; 4 y 42 del Decreto Ejecutivo No.PCM-008-97 de fecha 15 de junio de 1997, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 1 y 6 de la Ley de Simplificación Administrativa; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 
@@ -121,7 +121,7 @@ En uso de las facultades de que está investido y en aplicación del Artículo 2
 
 ACUERDA:
 
-PRIMERO: Aprobar la continuidad de las facultades concedidas mediante Acuerdo Ministerial 001-2015 de fecha 06 de enero de 2015, ampliado mediante Acuerdo No. 123- 2018 de fecha 28 de mayo de 2018, a favor del Coordinador General y Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), hasta el veintiséis (26) de enero del año dos mil veintidós (2022). Siendo facultad de la administración (2022-2026) la continuidad de la presente delegación.
+PRIMERO: Aprobar la continuidad de las facultades concedidas mediante Acuerdo Ministerial 001-2015 de fecha 06 de enero de 2015, ampliado mediante Acuerdo No. 123-2018 de fecha 28 de mayo de 2018, a favor del Coordinador General y Coordinador Administrativo Financiero de la Unidad Administradora de Proyectos (UAP), hasta el veintiséis (26) de enero del año dos mil veintidós (2022). Siendo facultad de la administración (2022-2026) la continuidad de la presente delegación.
 
 SEGUNDO: Facultar al Coordinador General de la Unidad Administradora de Proyectos (UAP), para que realice y lleve a cabo contrataciones y adquisiciones en los Programas y Proyectos bajo su responsabilidad hasta por un monto de Doscientos Cincuenta Mil Lempiras Exactos (L. 250,000.00).
 

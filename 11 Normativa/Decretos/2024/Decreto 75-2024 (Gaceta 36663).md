@@ -8,10 +8,10 @@ gaceta_numero: 36663
 gaceta_fecha: "2024-10-14"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36663 (2024-10-14)|La Gaceta 36663]]"
 paginas: "A. 1 - 5"
-sumario: "Decreto No. 75-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024ALCALDÍA MUNICIPAL DE LAMANÍ"
+sumario: "Decreto No. 75-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024; ALCALDÍA MUNICIPAL DE LAMANÍ"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241014-36663/download"
 extraido: "2026-11-14"
-huella: "21452b1325295a11"
+huella: "bf154dcbf6b3cdb2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 75-2024
@@ -23,7 +23,7 @@ huella: "21452b1325295a11"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36663 (2024-10-14)\|La Gaceta 36663]] del 2024-10-14 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Decreto No. 75-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024ALCALDÍA MUNICIPAL DE LAMANÍ |
+| Según el sumario de La Gaceta | Decreto No. 75-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024; ALCALDÍA MUNICIPAL DE LAMANÍ |
 
 ## Texto
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición el Artículo 68, de la LEY DE PROTECCIÓN AL CONSUMIDOR, contenido en el Decreto Legislativo No.24-2008, del 1 de Abril de 2008, publicado en el Diario Oficial “La Gaceta” Edición No.31,652, de fecha 7 de Julio del año 2008, adicionándole cinco (5) nuevos numerales, bajo las denominaciones de:
+ARTÍCULO 1.- Reformar por adición el Artículo 68, de la LEY DE PROTECCIÓN AL CONSUMIDOR, contenido en el Decreto Legislativo No. 24-2008, del 1 de Abril de 2008, publicado en el Diario Oficial “La Gaceta” Edición No. 31,652, de fecha 7 de Julio del año 2008, adicionándole cinco (5) nuevos numerales, bajo las denominaciones de:
 
 10), 11), 12,) 13) y 14), el cual, a partir de la fecha, debe leerse de la manera siguiente:
 

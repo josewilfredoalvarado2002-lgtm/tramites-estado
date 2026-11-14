@@ -11,7 +11,7 @@ paginas: "A. 10 - 20"
 sumario: "Decretos Nos. 53-2026, 61-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260424-37125/download"
 extraido: "2026-11-09"
-huella: "5eb5c1c6b03996a7"
+huella: "96098e454bb5d467"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 61-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 11) de la Constit
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -53,7 +53,7 @@ ARTÍCULO 2.- Aceptar la Renuncia de la señora KAREN PATRICIA RODRÍGUEZ ÁLVAR
 
 #### Artículo 3
 
-ARTICULO 3.- En cumplimiento del Artículo 14 del Decreto No.51-2013, contentivo de la “Ley Especial de Juicio Político” fueron citados en legal y debida forma los señores MARLON DAVID OCHOA MARTÍNEZ, MARIO ALEXIS MORAZÁN AGUILERA, LOURDES MARIBEL MEJÍA ESTAPE y GABRIEL GUTIÉRREZ PERALTA.
+ARTICULO 3.- En cumplimiento del Artículo 14 del Decreto No. 51-2013, contentivo de la “Ley Especial de Juicio Político” fueron citados en legal y debida forma los señores MARLON DAVID OCHOA MARTÍNEZ, MARIO ALEXIS MORAZÁN AGUILERA, LOURDES MARIBEL MEJÍA ESTAPE y GABRIEL GUTIÉRREZ PERALTA.
 
 Presentándose únicamente el señor
 
@@ -85,7 +85,7 @@ ARTÍCULO 7.- Destituir de Forma Permanente al señor GABRIEL GUTIÉRREZ PERALTA
 
 #### Artículo 8
 
-ARTÍCULO 8.- Las destituciones de los altos funcionarios antes referidos, se deriva por haberse comprobado responsabilidad política e incurrido en las causales numeral 1), 2) y 3) del Artículo 5 de la Ley Especial de Juicio Político, contenida en el Decreto No.51-2013, garantizándoles el acceso a la Tutela Judicial Efectiva a través de las garantías establecidas en la Constitución de la República en base a los artículos 82, 90 y 183, así como los Artículos 8 y 25 de la Convención Americana sobre Derechos Humanos.
+ARTÍCULO 8.- Las destituciones de los altos funcionarios antes referidos, se deriva por haberse comprobado responsabilidad política e incurrido en las causales numeral 1), 2) y 3) del Artículo 5 de la Ley Especial de Juicio Político, contenida en el Decreto No. 51-2013, garantizándoles el acceso a la Tutela Judicial Efectiva a través de las garantías establecidas en la Constitución de la República en base a los artículos 82, 90 y 183, así como los Artículos 8 y 25 de la Convención Americana sobre Derechos Humanos.
 
 #### Artículo 9
 
@@ -121,7 +121,7 @@ TERCERO: Disponer que las tarifas aprobadas entren en vigencia a partir de su pu
 
 CUARTO: Ordenar a la Empresa de Correos de Honduras, realizar las gestiones correspondientes para la publicación de la presente Resolución en el Diario Oficial “La Gaceta”.
 
-A. Tarifas de Correspondencia Básica, Cartas, Impresos, Pequeños Paquetes y Tarjetas Postales ENVIOS NACIONALES Pesos CARTAS E IMPRESOS VALORES EN LEMPIRAS Libras/Hasta Gramos Dentro del Municipio 0.05 0 - 20 30.00 55.00 0.20 21 - 100 40.00 65.00 1.00 101 - 250 55.00 80.00 1.10 251 - 500 100.00 125.00 2.00 501-1000 110.00 135.00 5.00 1001-2000 130.00 155.00 TARIFAS PEQUEÑOS PAQUETES VALORES EN LEMPIRAS 2.00 501 - 1000 150.00 175.00 3.00 1001 - 1500 210.00 235.00 5.00 1501 - 2000 370.00 395.00 TARJETAS POSTALES Pesos VALORES EN LEMPIRAS 0.05 0 - 20 25.00 40.00 Mosquitia y Amapala tendrán un recargo adicional de veinte y cinco lempiras (25.00) , hasta 2,000 gramos y la cantidad de cincuenta lempiras (L.50.00), a envíos de pequeños paquetes de 500 gramos en adelante.
+A. Tarifas de Correspondencia Básica, Cartas, Impresos, Pequeños Paquetes y Tarjetas Postales ENVIOS NACIONALES Pesos CARTAS E IMPRESOS VALORES EN LEMPIRAS Libras/Hasta Gramos Dentro del Municipio 0.05 0 - 20 30.00 55.00 0.20 21 - 100 40.00 65.00 1.00 101 - 250 55.00 80.00 1.10 251 - 500 100.00 125.00 2.00 501-1000 110.00 135.00 5.00 1001-2000 130.00 155.00 TARIFAS PEQUEÑOS PAQUETES VALORES EN LEMPIRAS 2.00 501 - 1000 150.00 175.00 3.00 1001 - 1500 210.00 235.00 5.00 1501 - 2000 370.00 395.00 TARJETAS POSTALES Pesos VALORES EN LEMPIRAS 0.05 0 - 20 25.00 40.00 Mosquitia y Amapala tendrán un recargo adicional de veinte y cinco lempiras (25.00), hasta 2,000 gramos y la cantidad de cincuenta lempiras (L.50.00), a envíos de pequeños paquetes de 500 gramos en adelante.
 
 Envíos a no videntes GRATUITO hasta 7 kilogramos, cartas depositadas por escolares durante actividades académicas L.5.00 Nota: El peso máximo de los documentos es de 2 kilos equivalente a 5 libras y 2,500 gramos Servicios Adicionales Servicio Certificado: Cincuenta lempiras (50.00) Acuse de Recibo: Veinte y cinco lempiras (25.00) renovación y nuevos contratos.
 
@@ -137,7 +137,7 @@ Visitantes con discapacidad Quince Lempiras (15.00) Visitantes Nacionales Treint
 
 Por cada (5) libras o dos mil quinientos (2,500) gramos adicionales a las 40 libras:
 
-Dentro del municipio, Cien lempiras (100) Resto de país, Ciento cincuenta lempiras (150.00) Envíos aéreos o marítimos hacía , Islas de la Bahia, la Mosquitia y Amapala Doscientos Lempiras (L200.00) Servicio Certificado Cincuenta lempiras (50) D. TARIFAS EMS A NIVEL NACIONAL Pesos VALORES EN LEMPIRAS Dentro de Municipios (Interurbano) 0.10 0 - 20 50.00 80.00 0.20 21 - 100 100.00 130.00 1.00 101-500 200.00 230.00 2.00 501 - 1000 300.00 330.00 3.00 1001 - 1500 400.00 430.00 5.00 1501 - 2000 520.00 550.00 10.00 2001 - 5000 630.00 655.00 20.00 5001 - 10000 750.00 775.00 30.00 10001 - 15000 900.00 925.00 40.00 15001 -20000 1,100.00 1,125.00 Nota: Los envíos aéreos o marítimos a Islas de la Bahia, La Mosquitia y Amapala tendrán un recargo adicional de cincuenta lempiras (50.00), hasta 2,000 gramos y la cantidad de cien lempiras (L.100.00), envíos de pequeños paquetes de 500 gramos en adelante.
+Dentro del municipio, Cien lempiras (100) Resto de país, Ciento cincuenta lempiras (150.00) Envíos aéreos o marítimos hacía, Islas de la Bahia, la Mosquitia y Amapala Doscientos Lempiras (L200.00) Servicio Certificado Cincuenta lempiras (50) D. TARIFAS EMS A NIVEL NACIONAL Pesos VALORES EN LEMPIRAS Dentro de Municipios (Interurbano) 0.10 0 - 20 50.00 80.00 0.20 21 - 100 100.00 130.00 1.00 101-500 200.00 230.00 2.00 501 - 1000 300.00 330.00 3.00 1001 - 1500 400.00 430.00 5.00 1501 - 2000 520.00 550.00 10.00 2001 - 5000 630.00 655.00 20.00 5001 - 10000 750.00 775.00 30.00 10001 - 15000 900.00 925.00 40.00 15001 -20000 1,100.00 1,125.00 Nota: Los envíos aéreos o marítimos a Islas de la Bahia, La Mosquitia y Amapala tendrán un recargo adicional de cincuenta lempiras (50.00), hasta 2,000 gramos y la cantidad de cien lempiras (L.100.00), envíos de pequeños paquetes de 500 gramos en adelante.
 
 Por cada (5) libras o dos mil quinientos (2,500) gramos adicionales en los envíos:
 

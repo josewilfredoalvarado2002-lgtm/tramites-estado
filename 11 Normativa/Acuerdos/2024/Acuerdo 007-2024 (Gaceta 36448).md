@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Números 005-2024, 006-2024, 007-2024, 008-2024, 009-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240131-36448/download"
 extraido: "2026-11-14"
-huella: "f340a3c6db5a2c52"
+huella: "ed18ca7719a9eb9d"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 007-2024
@@ -33,9 +33,9 @@ CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la suprema di
 
 A ese efecto, el artículo 116 de la Ley General de la Administración Pública, establece que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
-CONSIDERANDO: Que mediante Acuerdo No.8-2022 de fecha 27 de enero de 2022, fue nombrada Presidenta del Banco Central de Honduras, la ciudadana REBECA PATRICIA SANTOS RIVERA.
+CONSIDERANDO: Que mediante Acuerdo No. 8-2022 de fecha 27 de enero de 2022, fue nombrada Presidenta del Banco Central de Honduras, la ciudadana REBECA PATRICIA SANTOS RIVERA.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.10-2024 de fecha 3 de enero de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARLON DAVID OCHOA MARTÍNEZ.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 10-2024 de fecha 3 de enero de 2024, fue nombrado Secretario de Estado en el Despacho de Finanzas, el ciudadano MARLON DAVID OCHOA MARTÍNEZ.
 
 CONSIDERANDO: Que es necesario e indispensable para el Gobierno de la República de Honduras, formalizar las designaciones de los Representantes a Gobernadores ante los Organismos Financieros Internacionales tales como el FONDO MONETARIO INTERNACIONAL
 

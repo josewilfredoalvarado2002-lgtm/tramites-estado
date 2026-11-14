@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decretos Nos. 115-2021, 118-2021, 122-2021, 125-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220106-35815/download"
 extraido: "2026-11-14"
-huella: "3b50e91de8241f1f"
+huella: "71b50d92f2c756c7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 118-2021
@@ -29,7 +29,7 @@ huella: "3b50e91de8241f1f"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Gobierno de la República se ha adherido a la Convención de Naciones Unidas Sobre Circulación Vial, decisión que fue ratificada por el Soberano Congreso Nacional mediante Decreto No.107-2019 de fecha 18 de Septiembre de 2019; Instrumento Jurídico de carácter vinculante que recomienda la actualización de las legislaciones nacionales en lo relativo a la seguridad vial y especialmente a la estandarización en la emisión de los permisos o licencias de conducir.
+CONSIDERANDO: Que el Gobierno de la República se ha adherido a la Convención de Naciones Unidas Sobre Circulación Vial, decisión que fue ratificada por el Soberano Congreso Nacional mediante Decreto No. 107-2019 de fecha 18 de Septiembre de 2019; Instrumento Jurídico de carácter vinculante que recomienda la actualización de las legislaciones nacionales en lo relativo a la seguridad vial y especialmente a la estandarización en la emisión de los permisos o licencias de conducir.
 
 CONSIDERANDO: Que en virtud de la creación de la Escuela Nacional de Transporte Terrestre, mediante la Ley de Transporte Terrestre de Honduras en su Artículo 20, dependencia del Instituto Hondureño del Transporte Terrestre (IHTT), ésta ha venido realizando la función especial de la formación y capacitación de los conductores del servicio público de transporte en todas las modalidades y gradualmente abarcando a los conductores de vehículos particulares, ampliando esta función con la certificación de escuelas privadas.
 
@@ -37,13 +37,13 @@ CONSIDERADNO: Que teniendo en cuenta el resultado de estos procesos formativos, 
 
 CONSIDERANDO: Que es oportuno para la sociedad hondureña contar con un cuerpo legal moderno, que regule de manera integral todos los aspectos relacionados con el tránsito vehicular, poniéndolo a tono con las normas internacionales en la materia.
 
-CONSIDERANDO: Que de conformidad al Decreto No. 205- 2005 contentivo de la Ley de Tránsito, publicado en el Diario Oficial “La Gaceta”, de 3 de Enero 2006, Edición No.30,892 en el Artículo 48 establece el procedimiento a seguir para que un hondureño pueda obtener por primera vez la licencia de conducir de vehículos de transporte público y especial de pasajeros y de carga.
+CONSIDERANDO: Que de conformidad al Decreto No. 205-2005 contentivo de la Ley de Tránsito, publicado en el Diario Oficial “La Gaceta”, de 3 de Enero 2006, Edición No. 30,892 en el Artículo 48 establece el procedimiento a seguir para que un hondureño pueda obtener por primera vez la licencia de conducir de vehículos de transporte público y especial de pasajeros y de carga.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

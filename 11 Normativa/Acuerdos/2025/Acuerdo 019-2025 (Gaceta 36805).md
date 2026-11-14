@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. 019-2025, 020-2025Acuerdos DE-DCHA-036-2025, DE-DCHA-037-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250401-36805/download"
 extraido: "2026-11-11"
-huella: "3bf40cd3e2602f78"
+huella: "d80b9a35e4e0adec"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 019-2025
@@ -61,7 +61,7 @@ CONSIDERANDO: Que el Departamento de Protección Forestal, el Departamento de Sa
 
 \2) El monto de la tasa que corresponde al control o combate de plagas y enfermedades forestales por cuadrilla/ hora, en la cantidad de NOVECIENTOS TREINTA LEMPIRAS CON SETENTA Y CINCO CENTAVOS (L. 930.75), monto que abarca todo costo administrativo y técnico que se genere por la intervención derivada de este riesgo.
 
-CONSIDERANDO: Que la Asistencia Legal de la Dirección Ejecutiva, ha emitido opinión legal, recomendando a la Dirección Ejecutiva, aprobar el Acuerdo No.019-2025 que tiene por objetivo definir y actualizar el costo por servicios de intervención control/combate de plagas, que el ICF realice mediante intervención inminente y obligatoria en las áreas forestales nacionales, ejidales y privadas; ya que el ICF como ente rector del sector forestal interviene en la prevención de incendios, la atención de estos y las medidas de restauración de sitios afectados, sin embargo este cobro establecido en el Acuerdo No.013-15 no representa la actual realidad económica ni los costos operativos y de despliegue de los recursos; por lo que la actualización del costo es legal y técnicamente factible.
+CONSIDERANDO: Que la Asistencia Legal de la Dirección Ejecutiva, ha emitido opinión legal, recomendando a la Dirección Ejecutiva, aprobar el Acuerdo No. 019-2025 que tiene por objetivo definir y actualizar el costo por servicios de intervención control/combate de plagas, que el ICF realice mediante intervención inminente y obligatoria en las áreas forestales nacionales, ejidales y privadas; ya que el ICF como ente rector del sector forestal interviene en la prevención de incendios, la atención de estos y las medidas de restauración de sitios afectados, sin embargo este cobro establecido en el Acuerdo No. 013-15 no representa la actual realidad económica ni los costos operativos y de despliegue de los recursos; por lo que la actualización del costo es legal y técnicamente factible.
 
 POR TANTO
 

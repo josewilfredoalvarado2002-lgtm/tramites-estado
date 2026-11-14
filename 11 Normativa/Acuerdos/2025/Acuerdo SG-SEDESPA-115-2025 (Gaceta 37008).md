@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdos Nos. SG-SEDESPA-115-2025,SG-SEDESPA-133-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251202-37008/download"
 extraido: "2026-11-09"
-huella: "c36855f525ccfc77"
+huella: "f8caa42ae8ee09fa"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-115-2025
@@ -35,7 +35,7 @@ CONSIDERANDO (02): Que la Ley General de la Administración Pública establece q
 
 CONSIDERANDO (03): Que el artículo 5 de la Ley de Procedimiento Administrativo determina que el Acto de Delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado podrá contener instrucciones obligatorias para éste en materia procedimental. En los actos dictados por delegación, se expresará esta circunstancia y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos será imputable al órgano delegado.
 
-CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43- 2025, emitido por la Presidencia de la República en fecha 01 de abril de 2025.
+CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), mediante Acuerdo Ejecutivo No. 43-2025, emitido por la Presidencia de la República en fecha 01 de abril de 2025.
 
 CONSIDERANDO (05): Que en fecha veintinueve de julio del dos mil veinticinco mediante Acuerdo No.SGSEDESPA-111-2025 fue nombrado el ciudadano DAVID FERNANDO REYES CERRATO, en el puesto Planificador III con fecha de efectividad a partir del 01 de julio 2025.
 

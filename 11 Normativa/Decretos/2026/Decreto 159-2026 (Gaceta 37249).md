@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Decretos Nos. 101-2026, 121-2026, 154-2026, 157-2026, 158-2026, 159-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260918-37249/download"
 extraido: "2026-11-09"
-huella: "17b9200b7fc38ebc"
+huella: "ff223d9337337095"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 159-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece que: “Los municipios son autónomos y son administrados por corporaciones electas por el pueblo, de conformidad con la ley, correspondiendo al Congreso Nacional ejercer sus atribuciones legislativas dentro del marco constitucional y legal aplicable al régimen municipal”.
 
-CONSIDERANDO: Que la Ley de Municipalidades, contenida en el Decreto No.134-90 de fecha 19 de noviembre de 1990 y sus reformas, establece que: “Los municipios, para su mejor administración, se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos; y que las ciudades se podrán dividir en colonias y barrios”.
+CONSIDERANDO: Que la Ley de Municipalidades, contenida en el Decreto No. 134-90 de fecha 19 de noviembre de 1990 y sus reformas, establece que: “Los municipios, para su mejor administración, se podrán dividir, además de ser cabeceras municipales, en ciudades, aldeas y caseríos; y que las ciudades se podrán dividir en colonias y barrios”.
 
 CONSIDERANDO: Que la Ley de Municipalidades establece asimismo la obligación de las municipalidades de levantar el catastro urbano y rural de su término municipal y elaborar el plan regulador de las ciudades, como instrumento para orientar la distribución de la población, el uso de la tierra, las vías de circulación, los servicios públicos, las facilidades comunales, el saneamiento y la protección ambiental.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -65,7 +65,7 @@ ARTÍCULO 2.- La presente Declaratoria tiene como finalidad fortalecer la identi
 
 #### Artículo 3
 
-ARTÍCULO 3.- L a s i n s t i t u c i o n e s p ú b l i c a s correspondientes, dentro del ámbito de sus competencias, podrán realizar las actualizaciones administrativas, legales, territoriales y cartográficas que resulten necesarias como consecuencia de la presente Declaratoria, sin que ello implique modificación de los límites territoriales del Municipio.
+ARTÍCULO 3.- Las instituciones públicas correspondientes, dentro del ámbito de sus competencias, podrán realizar las actualizaciones administrativas, legales, territoriales y cartográficas que resulten necesarias como consecuencia de la presente Declaratoria, sin que ello implique modificación de los límites territoriales del Municipio.
 
 #### Artículo 4
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Ministeriales Nos. 115-2022, 116-2022, 117-2022, 118-2022, 119-2022, 120-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221101-36065/download"
 extraido: "2026-11-14"
-huella: "ec8b07027d8acdaf"
+huella: "f45f93713608eeb3"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 116-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Tratado de Libre Comercio entre Centroamérica y la Repúbl
 
 CONSIDERANDO: Que la República de Panamá se incorporó al Subsistema de Integración Económica Centroamericana mediante el Protocolo de Incorporación en el cual y de conformidad con lo establecido en el Artículo IV del Título VI (Disposiciones Transitorias) del Protocolo al Tratado General de Integración Centroamericana (Protocolo de Guatemala) suscrito el 29 de octubre de 1993, quedaron definidos los términos, plazos, condiciones y modalidades de su incorporación.
 
-CONSIDERANDO: Que mediante Anexo de la Resolución No.331-2013 del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Partes del Subsistema de Integración Económica con la República de Panamá.
+CONSIDERANDO: Que mediante Anexo de la Resolución No. 331-2013 del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Partes del Subsistema de Integración Económica con la República de Panamá.
 
 CONSIDERANDO: Que en el Apéndice I (Contingentes Arancelarios) de la lista al Anexo 3.04 (Programa de Desgravación Arancelaria, Sección A: Desgravación Arancelaria de Honduras) del Tratado de Libre Comercio Centroamérica – Panamá, quedaron negociadas las mercancías sujetas a contingentes arancelarios, las cuales fueron a su vez incorporadas en el Apéndice a los Anexos
 
@@ -45,7 +45,7 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico (SDE), con fundamento en los Artículos 1, 7, 116, y 122 de la Ley General de la Administración Pública;
 
-Artículos 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo, Artículo 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo, Tratado General de Integración Económica Centroamericana, Protocolo de Incorporación de la República de Panamá al Subsistema de Integración Económica Centroamericana, Resolución No. 331- 2013 del 12 de diciembre de 2013.
+Artículos 1, 19, 23, 60 y 72 de la Ley de Procedimiento Administrativo, Artículo 54 literal a) del Decreto Ejecutivo No. 08-97 contentivo del Reglamento de Organización y Competencias del Poder Ejecutivo, Tratado General de Integración Económica Centroamericana, Protocolo de Incorporación de la República de Panamá al Subsistema de Integración Económica Centroamericana, Resolución No. 331-2013 del 12 de diciembre de 2013.
 
 ACUERDA:
 
@@ -95,7 +95,7 @@ f) Copia de la solicitud en formato digital (USB o CD).
 
 QUINTO: Las personas naturales y jurídicas interesadas en solicitar asignaciones de los contingentes en referencia, deberán cumplir con los requisitos sanitarios y fitosanitarios; de origen, otros requisitos contenidos en la Ley de Protección al Consumidor, así como otras Leyes, que son aplicables a la importación de productos animales y vegetales, de no cumplir con los requisitos supra mencionados no se otorgará el certificado de importación.
 
-SEXTO: Para las mercancías, leche fluida exclusivamente del tipo conocido como UHT y queso fundido excepto el rallado en polvo, deberán solicitar el Número de Registro de Importador de Productos Lácteos (NRIPL) y posteriormente solicitar una licencia de importación de productos lácteos por cada importación de conformidad con el Acuerdo A-024- 2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009.
+SEXTO: Para las mercancías, leche fluida exclusivamente del tipo conocido como UHT y queso fundido excepto el rallado en polvo, deberán solicitar el Número de Registro de Importador de Productos Lácteos (NRIPL) y posteriormente solicitar una licencia de importación de productos lácteos por cada importación de conformidad con el Acuerdo A-024-2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009.
 
 SÉPTIMO: El retiro de los certificados deberá hacerse en la ventanilla Secretaría General de esta Secretaría de Estado, por medio de un apoderado legal debidamente acreditado.
 

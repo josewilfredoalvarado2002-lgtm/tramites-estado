@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Nos. SEN-79-2023, SEN-80-2023, SEN-81-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230918-36336/download"
 extraido: "2026-11-14"
-huella: "ea08fc420260f315"
+huella: "386e3a3075269e5d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-81-2023
@@ -29,9 +29,7 @@ huella: "ea08fc420260f315"
 
 SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-84-2022 de fecha 10 de febrero de 2022, la Señora Presidenta Constitucional de la República, nombró al ciudadano ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 84-2022 de fecha 10 de febrero de 2022, la Señora Presidenta Constitucional de la República, nombró al ciudadano ERICK MEDARDO TEJADA CARBAJAL, como Secretario de Estado en el Despacho de Energía.
 
 CONSIDERANDO: Que los Secretarios de Estado son los colaboradores de la Presidenta de la República en el despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada en el área de su competencia.
 
@@ -39,11 +37,9 @@ CONSIDERNADO: Que los Secretarios de Estado, para el despacho de los asuntos de 
 
 (1) o más Subsecretarios y otros órganos de autoridad que las leyes determinen y tienen la atribución de conocer y resolver los asuntos de su competencia, pudiendo delegar el ejercicio de atribuciones específicas en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación indicar, el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 90-2013 de fecha 23 de mayo de 2013, publicado en La Gaceta, edición de fecha 25 de julio de 2013, se decretó aprobar el CONTRATO PARA LA EXPLORACIÓN Y SUBSIGUIENTE EXPLOTACIÓN DE HIDROCARBUROS SOBRE LA ZONA MATÌRIMA de República de Honduras, suscrito por el Estado de Honduras y la empresa HIGH POWER PETROLEUM HONDURAS, S.A. (antes AZTPETROL HONDURAS, S.A.), y CARIBX UK LIMITED, SUCURSAL HONDURAS; cuyos antecedentes y gestiones de procedimiento administrativo constan comprendidos en el expediente identificado bajo números correlativos No.401000-100901-2012- EF-00029 Tomo I, II, III, IV y V +2020-SE-EEH-0002; diligencias que en atención a su complejidad y conocimiento requieren delegar su atención, seguimiento, y resolución del procedimiento administrativo a un Subsecretario de Estado.
+CONSIDERANDO: Que mediante Decreto Legislativo 90-2013 de fecha 23 de mayo de 2013, publicado en La Gaceta, edición de fecha 25 de julio de 2013, se decretó aprobar el CONTRATO PARA LA EXPLORACIÓN Y SUBSIGUIENTE EXPLOTACIÓN DE HIDROCARBUROS SOBRE LA ZONA MATÌRIMA de República de Honduras, suscrito por el Estado de Honduras y la empresa HIGH POWER PETROLEUM HONDURAS, S.A. (antes AZTPETROL HONDURAS, S.A.), y CARIBX UK LIMITED, SUCURSAL HONDURAS; cuyos antecedentes y gestiones de procedimiento administrativo constan comprendidos en el expediente identificado bajo números correlativos No. 401000-100901-2012- EF-00029 Tomo I, II, III, IV y V +2020-SE-EEH-0002; diligencias que en atención a su complejidad y conocimiento requieren delegar su atención, seguimiento, y resolución del procedimiento administrativo a un Subsecretario de Estado.
 
-CONSIDERANDO: Que mediante ACUERDO EJECUTIVO No.
-
-007-2021, publicado en La Gaceta, Diario Oficial de la República el cuatro de junio de dos mil veintiuno, se establece, designar representantes por parte del Estado de la República de Honduras, en el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, suscrito por el Gobierno de la República de Honduras como Representantes Titulares: Secretario de Estado en el Despacho de Energía y Secretario de Estado en los Despachos de Recursos Naturales y Ambiente…disponiendo que los nombres de los Representantes Titulares y los Representantes Alternos serán nombrados por cada una de las Secretarías de Estado.
+CONSIDERANDO: Que mediante ACUERDO EJECUTIVO No. 007-2021, publicado en La Gaceta, Diario Oficial de la República el cuatro de junio de dos mil veintiuno, se establece, designar representantes por parte del Estado de la República de Honduras, en el Comité de Administración del Contrato de Operación para la Exploración y Subsiguiente Explotación de Hidrocarburos en la Zona Marítima de la República de Honduras, suscrito por el Gobierno de la República de Honduras como Representantes Titulares: Secretario de Estado en el Despacho de Energía y Secretario de Estado en los Despachos de Recursos Naturales y Ambiente…disponiendo que los nombres de los Representantes Titulares y los Representantes Alternos serán nombrados por cada una de las Secretarías de Estado.
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la administración pública.
 

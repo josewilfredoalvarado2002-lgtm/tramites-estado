@@ -8,10 +8,10 @@ gaceta_numero: 35956
 gaceta_fecha: "2022-06-22"
 gaceta: "[[11 Normativa/La Gaceta/2022/La Gaceta 35956 (2022-06-22)|La Gaceta 35956]]"
 paginas: "A. 1 - 3"
-sumario: "Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICFAcuerdo No. 018-2022"
+sumario: "Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022; INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICF: Acuerdo No. 018-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220622-35956/download"
 extraido: "2026-11-14"
-huella: "10ca4f4ab71400b3"
+huella: "6954e3032c7afabe"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 048-2022
@@ -23,7 +23,7 @@ huella: "10ca4f4ab71400b3"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2022/La Gaceta 35956 (2022-06-22)\|La Gaceta 35956]] del 2022-06-22 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICFAcuerdo No. 018-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial No. 048-2022, 049-2022, 051-2022; INSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL - ICF: Acuerdo No. 018-2022 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para l
 
 (SAG) y Desarrollo Económico (SDE) elevado Acuerdo Ejecutivo No. SAG-125-2022, publicado en el Diario Oficial “La GACETA” en fecha 18 de mayo de 2022.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo No. SAG- 125-2022, establece en el ordinal segundo que en atención al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional, ratificado en el ordinal primero del presente Acto Administrativo, las compras a los productores nacionales realizadas por la industria que corresponden al periodo de compra del primero (01) de enero al treinta (30) de abril del año dos mil veintidós (2022), se consideran validas para efecto de la emisión de los Certificados de importación por parte de las instituciones de Gobierno competentes.
+CONSIDERANDO: Que el Acuerdo Ejecutivo No. SAG-125-2022, establece en el ordinal segundo que en atención al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Grano Nacional, ratificado en el ordinal primero del presente Acto Administrativo, las compras a los productores nacionales realizadas por la industria que corresponden al periodo de compra del primero (01) de enero al treinta (30) de abril del año dos mil veintidós (2022), se consideran validas para efecto de la emisión de los Certificados de importación por parte de las instituciones de Gobierno competentes.
 
 CONSIDERANDO: Que en el Numeral 1, Párrafo Segundo del Literal a) del Acuerdo Ejecutivo No. SAG-125-2022, determina: “A fin de dar continuidad con el proceso de compra del Ciclo Agrícola 2021-2022, serán incluidas en el Segundo Corte para efecto de las importaciones las compras efectuadas del 01 al 27 de enero de 2022, manteniendo las condiciones de la relación de compra/importación y precio, determinados en el Acuerdo Ejecutivo No. 117-2020”. Asimismo, en el Numeral 12, del referido Acuerdo expresa: “La relación de compra/importación de maíz a importar dos (2) quintal de maíz blanco (1x2 QQ), esta relación estará vigente para el periodo comprendido del 28 de enero de 2022 al 31 de agosto de 2023…”
 
@@ -53,9 +53,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de CINCO MIL DOSCIENTOS TRES PUNTO CERO TRES TONELADAS MÉTRICAS (5,203.03 TM), con un DAI del cero por ciento (0%), con vigencia hasta el 31 de diciembre de 2022, en aplicación del Acuerdo No.
-
-SAG-170-2022 de fecha 02 de junio de 2022, correspondiente al segundo corte de maíz blanco de la cosecha nacional 2021-2022, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022), detallado a continuación:
+PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de CINCO MIL DOSCIENTOS TRES PUNTO CERO TRES TONELADAS MÉTRICAS (5,203.03 TM), con un DAI del cero por ciento (0%), con vigencia hasta el 31 de diciembre de 2022, en aplicación del Acuerdo No. SAG-170-2022 de fecha 02 de junio de 2022, correspondiente al segundo corte de maíz blanco de la cosecha nacional 2021-2022, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022), detallado a continuación:
 
 No.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 14"
 sumario: "Decretos Nos. 216-2026, 219-2026, 220-2026, 221-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261022-37275/download"
 extraido: "2026-11-09"
-huella: "e3c5b6833e6261da"
+huella: "fe774e5fd58755d1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 216-2026
@@ -31,11 +31,11 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que los artículos 59 y 119 de la Constitución de la República de Honduras establecen que la persona humana constituye el fin supremo de la sociedad y del Estado, imponiendo a todos los poderes públicos el deber de garantizar la protección integral de la niñez y promover el ejercicio efectivo de sus derechos, incluyendo su participación progresiva en los asuntos públicos que les conciernen.
 
-CONSIDERANDO: Que la Convención sobre los Derechos del Niño, ratificada por el Estado de Honduras mediante Decreto No.75-90, reconoce el derecho de niñas, niños y adolescentes a expresar libremente sus opiniones y a participar activamente en todos los asuntos que les afecten, correspondiendo al Estado crear mecanismos permanentes que fortalezcan su formación ciudadana y democrática.
+CONSIDERANDO: Que la Convención sobre los Derechos del Niño, ratificada por el Estado de Honduras mediante Decreto No. 75-90, reconoce el derecho de niñas, niños y adolescentes a expresar libremente sus opiniones y a participar activamente en todos los asuntos que les afecten, correspondiendo al Estado crear mecanismos permanentes que fortalezcan su formación ciudadana y democrática.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.125-2004 el Congreso Nacional institucionalizó el Congreso Nacional Infantil como un espacio permanente de educación cívica, formación parlamentaria y participación ciudadana de la niñez hondureña.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 125-2004 el Congreso Nacional institucionalizó el Congreso Nacional Infantil como un espacio permanente de educación cívica, formación parlamentaria y participación ciudadana de la niñez hondureña.
 
-CONSIDERANDO: Que mediante Decreto No.16-2024 de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” el 16 de Abril del 2024, se emitió la Ley del Congreso Nacional Infantil, cuya aplicación permite identificar la necesidad de perfeccionar determinadas disposiciones para fortalecer su coherencia jurídica, flexibilidad organizativa y adecuada implementación.
+CONSIDERANDO: Que mediante Decreto No. 16-2024 de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” el 16 de Abril del 2024, se emitió la Ley del Congreso Nacional Infantil, cuya aplicación permite identificar la necesidad de perfeccionar determinadas disposiciones para fortalecer su coherencia jurídica, flexibilidad organizativa y adecuada implementación.
 
 CONSIDERANDO: Que resulta conveniente establecer un mecanismo claro y ordenado para la elaboración de la propuesta del Reglamento de la presente Ley, mediante una Comisión Especial nombrada por la Junta Directiva del Congreso Nacional, cuya propuesta será sometida a conocimiento y aprobación de dicha Junta Directiva.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 2, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, y 25 del Decreto No.16- 2024, de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No.36,510, de fecha 16 de Abril 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL, los cuales deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 2, 4, 5, 6, 7, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, y 25 del Decreto No. 16-2024, de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No. 36,510, de fecha 16 de Abril 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL, los cuales deberán leerse de la manera siguiente:
 
 “ARTÍCULO 2.- El Congreso Nacional Infantil se regirá por los principios siguientes:
 
@@ -103,7 +103,7 @@ Corresponde al Pleno conocer, debatir, aprobar o improbar las iniciativas, mocio
 
 “ARTÍCULO 7.- La Junta Directiva constituye el órgano responsable de dirigir las sesiones del Congreso Nacional Infantil y será integrada democráticamente por los propios Diputados Infantiles, conforme al procedimiento establecido en el Reglamento de la presente Ley.
 
-S u i n t e g r a c i ó n p r o c u r a r á l a representación territorial, la igualdad de oportunidades, la inclusión y la participación democrática.
+Su integración procurará la representación territorial, la igualdad de oportunidades, la inclusión y la participación democrática.
 
 El Reglamento desarrollará las normas relativas a su integración, procedimiento de elección, requisitos, funcionamiento y demás aspectos necesarios para garantizar la transparencia y legitimidad del proceso.” “ARTÍCULO 9.- Son atribuciones de la Junta Directiva del Congreso Nacional Infantil:
 
@@ -233,7 +233,7 @@ La Secretaría de Estado en el Despacho de Educación (SEDUC) y las demás insti
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar los artículos 25-A y 25-B, al Decreto No.16-2024, de fecha 21 de febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No.36,510, de fecha 16 de Abril de 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL, los cuales deberán leerse de la manera siguiente:
+ARTÍCULO 2.- Adicionar los artículos 25-A y 25-B, al Decreto No. 16-2024, de fecha 21 de febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No. 36,510, de fecha 16 de Abril de 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL, los cuales deberán leerse de la manera siguiente:
 
 “ARTÍCULO 25-A.- CONGRESO NACIONAL DE LA ADOLESCENCIA
 
@@ -249,7 +249,7 @@ La Secretaría de Estado en el Despacho de Educación (SEDUC) y el Consejo de Ed
 
 #### Artículo 3
 
-ARTÍCULO 3.- Derogar el Artículo 12 del Decreto No.16-2024, de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No. 36,510, de fecha 16 de Abril de 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL. Queda derogada asimismo toda referencia contenida en Ley a las expresiones Congresistas Infantiles, Congresista Infantil, Bancadas Infantiles o denominaciones equivalentes, deberá entenderse sustituida, según corresponda, por Diputados Infantiles o por la estructura organizativa prevista en el presente Decreto. En toda disposición normativa donde aparezcan las expresiones Congresista Infantil o Congresistas Infantiles, deberán entenderse sustituidas por Diputado Infantil o Diputados Infantiles, respectivamente, sin necesidad de reforma adicional.
+ARTÍCULO 3.- Derogar el Artículo 12 del Decreto No. 16-2024, de fecha 21 de Febrero de 2024 y publicado en el Diario Oficial “La Gaceta” Edición No. 36,510, de fecha 16 de Abril de 2024, contentivo de la LEY DEL CONGRESO NACIONAL INFANTIL. Queda derogada asimismo toda referencia contenida en Ley a las expresiones Congresistas Infantiles, Congresista Infantil, Bancadas Infantiles o denominaciones equivalentes, deberá entenderse sustituida, según corresponda, por Diputados Infantiles o por la estructura organizativa prevista en el presente Decreto. En toda disposición normativa donde aparezcan las expresiones Congresista Infantil o Congresistas Infantiles, deberán entenderse sustituidas por Diputado Infantil o Diputados Infantiles, respectivamente, sin necesidad de reforma adicional.
 
 #### Artículo 4
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 36"
 sumario: "Acuerdo No. 08/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220528-35935/download"
 extraido: "2026-11-14"
-huella: "b49679bdb04be7c0"
+huella: "a4f2679200033162"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.08/2022.- Sesión No.3969 del 19 de mayo
@@ -33,7 +33,7 @@ CONSIDERANDO: Que conforme a la Ley del Banco Central de Honduras (BCH) esta ins
 
 CONSIDERANDO:
 
-Que mediante los Acuerdos No.11/2013 del 17 de octubre de 2013 y No.04/2019 del 4 de abril de 2019, el Directorio del Banco Central de Honduras aprobó y reformó, respectivamente, el Reglamento de la Depositaria de Valores del Banco Central de Honduras (DVBCH), cuyo objeto es regular la organización y funcionamiento del Sistema DV-BCH.
+Que mediante los Acuerdos No. 11/2013 del 17 de octubre de 2013 y No. 04/2019 del 4 de abril de 2019, el Directorio del Banco Central de Honduras aprobó y reformó, respectivamente, el Reglamento de la Depositaria de Valores del Banco Central de Honduras (DVBCH), cuyo objeto es regular la organización y funcionamiento del Sistema DV-BCH.
 
 CONSIDERANDO: Que de conformidad al Marco de Modernización de la Gestión de la Política Monetaria del Banco Central de Honduras (BCH), se ha analizado la viabilidad de implementar conexiones entre el sistema DV-BCH y sistemas externos no administrados por el BCH, con el objetivo de promover el desarrollo del mercado secundario, así como facilitar el intercambio y liquidación de los valores entre oferentes y demandantes de manera eficiente, rápida y transparente.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que la Gerencia, con base en la opinión del Departamento de Opera
 
 (BCV) y la Depositaria de Valores del Banco Central de Honduras (DVBCH) para permitir la liquidación y registro de las transferencias de valores gubernamentales negociados en el mercado secundario y en el memorándum JUR-954/2022, emitido por el Departamento Jurídico el 16 de mayo de 2022, sobre la revisión de las reformas al Reglamento de la Depositaria de Valores del Banco Central de Honduras (DV-BCH), recomienda a este Directorio aprobar la reforma del Reglamento de la Depositaria de Valores del Banco Central de Honduras (DV-BCH).
 
-CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), según Acta de la Sesión No.196/16-05- 2022, realizada el 16 de mayo de 2022, acordó recomendar a la Gerencia someter a consideración del Directorio, la reforma del Reglamento de la Depositaria de Valores del Banco Central de Honduras (DVBCH), con el propósito de incluir el funcionamiento de conexiones externas.
+CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), según Acta de la Sesión No. 196/16-05-2022, realizada el 16 de mayo de 2022, acordó recomendar a la Gerencia someter a consideración del Directorio, la reforma del Reglamento de la Depositaria de Valores del Banco Central de Honduras (DVBCH), con el propósito de incluir el funcionamiento de conexiones externas.
 
 POR TANTO:
 
@@ -49,11 +49,11 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 1, 3 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana vigente; 6, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; y 4 inciso g) del Reglamento Interno de la Comisión de Operaciones de Mercado Abierto,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Reformar los artículos 1 primer párrafo, 3, 4, 5 inciso 3), 6 inciso 3) y 4), 7, 8 inciso h) y adicionar el inciso k), 9, la denominación del título del Capítulo IV, 10, 11 inciso c), adicionar el 11-A, 12, 15, 16 inciso c) y adicionar un penúltimo párrafo, 17 último párrafo,18 primer y último párrafo, 19, 21 último párrafo, adicionar un tercer párrafo al 23, 41, 42, 43 segundo párrafo, 45 primer párrafo, 48 segundo y tercer párrafo, 49 segundo párrafo, 50, 52, 53 y 54 del Reglamento de la Depositaria de Valores del Banco Central de Honduras (DV-BCH), contenido en el Acuerdo No.11/2013, emitido por el Directorio del BCH el 17 de octubre de 2013, reformado mediante Acuerdo No.04/2019 del 4 de abril de 2019; artículos que de ahora en adelante se leerán de la manera siguiente:
+Reformar los artículos 1 primer párrafo, 3, 4, 5 inciso 3), 6 inciso 3) y 4), 7, 8 inciso h) y adicionar el inciso k), 9, la denominación del título del Capítulo IV, 10, 11 inciso c), adicionar el 11-A, 12, 15, 16 inciso c) y adicionar un penúltimo párrafo, 17 último párrafo,18 primer y último párrafo, 19, 21 último párrafo, adicionar un tercer párrafo al 23, 41, 42, 43 segundo párrafo, 45 primer párrafo, 48 segundo y tercer párrafo, 49 segundo párrafo, 50, 52, 53 y 54 del Reglamento de la Depositaria de Valores del Banco Central de Honduras (DV-BCH), contenido en el Acuerdo No. 11/2013, emitido por el Directorio del BCH el 17 de octubre de 2013, reformado mediante Acuerdo No. 04/2019 del 4 de abril de 2019; artículos que de ahora en adelante se leerán de la manera siguiente:
 
 “Artículo 1.
 
@@ -349,7 +349,7 @@ El BCH podrá prestar el servicio de custodia y administración de valores priva
 
 #### Artículo 2
 
-Artículo 2. El presente Reglamento se fundamenta en lo establecido en los artículos 3 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana, ratificado mediante el Decreto Legislativo No.134-2008 del 27 de noviembre de 2008; 342 de la Constitución de la República; 6, 16 inciso m), 43, 54 y 55 de la Ley del Banco Central de Honduras; 7, 164 al 172 de la Ley del Mercado de Valores; 34, 35 y 36 de la Ley de Crédito Público; 46 de la Ley del Sistema Financiero y en el Reglamento de Negociación de Valores Gubernamentales.
+Artículo 2. El presente Reglamento se fundamenta en lo establecido en los artículos 3 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana, ratificado mediante el Decreto Legislativo No. 134-2008 del 27 de noviembre de 2008; 342 de la Constitución de la República; 6, 16 inciso m), 43, 54 y 55 de la Ley del Banco Central de Honduras; 7, 164 al 172 de la Ley del Mercado de Valores; 34, 35 y 36 de la Ley de Crédito Público; 46 de la Ley del Sistema Financiero y en el Reglamento de Negociación de Valores Gubernamentales.
 
 SUJETOS OBLIGADOS A SU CUMPLIMIENTO
 

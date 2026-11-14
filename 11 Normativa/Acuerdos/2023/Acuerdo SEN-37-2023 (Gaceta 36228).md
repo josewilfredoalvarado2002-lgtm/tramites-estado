@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Nos. SEN-11-2023, SEN-232023, SEN-25-2023, SEN-37-2023, SEN41-2023, SEN-43-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230515-36228/download"
 extraido: "2026-11-14"
-huella: "b944aa139b365505"
+huella: "2ddfd575b83b5e21"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-37-2023
@@ -27,7 +27,7 @@ huella: "b944aa139b365505"
 
 ## Texto
 
-EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD, En el ejercicio de sus facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto de 2022 y en aplicación a los Artículos 246, 247,248 de la Constitución de la República; 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; Decreto No. 157- 2022 que comprende el Presupuesto General de Ingresos y Egresos de la República. Ejercicio Fiscal 2023; 3, 4, 5 de la Ley de Procedimiento Administrativo.
+EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD, En el ejercicio de sus facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto de 2022 y en aplicación a los Artículos 246, 247,248 de la Constitución de la República; 35, 36 No. 8 y 116, de la Ley General de la Administración Pública; Decreto No. 157-2022 que comprende el Presupuesto General de Ingresos y Egresos de la República. Ejercicio Fiscal 2023; 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en Ley General de la Administración Pública para orientar, coordinar, supervisar y autorizar las actividades de sus respectivos despachos, emitiendo para tal efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 
@@ -51,9 +51,7 @@ ING. TOMAS ANTONIO RODRIGUEZ SANCHEZ SUBSECRETARIO DE ENERGÍA RENOVABLE Y ELECT
 
 ACUERDO No. SEN-41-2023 El SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA (SEN), En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 publicado en el Diario Oficial La Gaceta en fecha 31 de agosto de 2022 y en aplicación a los Artículos 246, 247 y 249 de la Constitución de la República; 28, 33, 36 No. 8, 116, 118 No, 1, 119 y 122 de la Ley General de la Administración Pública, 1, 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que de conformidad al artículo 121 de la Ley General de la Administración Pública, las "PROVIDENCIAS", son la forma que adoptan los actos de los órganos de la administración pública para darle curso al procedimiento administrativo e impulsar el mismo en su mera tramitación conforme a las disposiciones legales correspondientes.
 

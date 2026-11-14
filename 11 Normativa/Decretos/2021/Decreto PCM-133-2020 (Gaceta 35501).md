@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Ejecutivos números PCM-133-2020, 007-2021, 010-2021, 013-2021, 014-2021, 015-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210129-35501/download"
 extraido: "2026-11-14"
-huella: "c38d308b23a8134c"
+huella: "b5f9fe113264f63a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-133-2020
@@ -57,7 +57,7 @@ POR TANTO, En aplicación de los Artículos 178; 179; 245 numerales 2),
 
 \11) y 30); 321; y, 323 de la Constitución de la República;
 
-Artículos 5, 11, 17, 22, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto Legislativo No. 266-2013; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti Evasión; y, Decreto Ejecutivo Número PCM-024-2014, Decreto Ejecutivo número PCM- 019-2015 y Decreto Ejecutivo Número PCM–088-2018
+Artículos 5, 11, 17, 22, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto Legislativo No. 266-2013; Artículo 45 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Anti Evasión; y, Decreto Ejecutivo Número PCM-024-2014, Decreto Ejecutivo número PCM-019-2015 y Decreto Ejecutivo Número PCM–088-2018
 
 DECRETA:
 

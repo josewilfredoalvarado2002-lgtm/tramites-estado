@@ -11,7 +11,7 @@ paginas: "A. 1 - 100"
 sumario: "Certificación de Acuerdo No. SOJD-IHSS-074-XII"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231102-36373/download"
 extraido: "2026-11-14"
-huella: "e9b5466da6afd5f6"
+huella: "f8a89b5db3fbca92"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN DE ACUERDO No. SOJD-IHSS-074-XII
@@ -149,7 +149,7 @@ RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Se
 
 A07EC ACIDO AMINO SALICÍLICO Y AGENTES SIMILARES A07EC01 A07EC001 SULFASALAZINA 500mg tableta. Vía de Administración:
 
-Oral. Uso exclusivo gastroenterología, medicina interna, reumatología TAB 2-3 60- 150Gastroenterol ogía Pediatría:
+Oral. Uso exclusivo gastroenterología, medicina interna, reumatología TAB 2-3 60-150Gastroenterol ogía Pediatría:
 
 180
 
@@ -159,7 +159,7 @@ MESALAZINA tabletas 500mg comprimidos gastrointestinales - tabletas de liberaci�
 
 A07F
 
-MICROORGANISMOS ANTIDIARREICOS A07FA MICROORGANISMOS ANTIDIARREICOS A07FA02 A07FA001 SACCHAROMYCES BOULARDII 200- 250 mg. Polvo para suspensión oral. Sobre. Vía de Administración: Oral.
+MICROORGANISMOS ANTIDIARREICOS A07FA MICROORGANISMOS ANTIDIARREICOS A07FA02 A07FA001 SACCHAROMYCES BOULARDII 200-250 mg. Polvo para suspensión oral. Sobre. Vía de Administración: Oral.
 
 A09
 
@@ -219,7 +219,7 @@ MULTIVITAMÍNICOS, COMBINACIONES A11AA MULTIVITAMÍNICOS CON MINERALES A11AA03 A
 
 A11AA03 A11AA008
 
-VITAMINAS Y MINERALES PRENATALES Hierro elemental 30- 60 mg, Ácido fólico 0.4-1mg, (400mcg - 1000mcg), Vitamina A 4,000 UI, Vitamina D 400 UI, otras vitaminas y minerales. La concentración máxima de vitamina A no debe superar 4,000 UI y la vitamina D no debe superar 400 UI. capsula o tableta. Vía de Administración: Oral.
+VITAMINAS Y MINERALES PRENATALES Hierro elemental 30-60 mg, Ácido fólico 0.4-1mg, (400mcg - 1000mcg), Vitamina A 4,000 UI, Vitamina D 400 UI, otras vitaminas y minerales. La concentración máxima de vitamina A no debe superar 4,000 UI y la vitamina D no debe superar 400 UI. capsula o tableta. Vía de Administración: Oral.
 
 A11C
 
@@ -243,7 +243,7 @@ COLECALCIFEROL (Vitamina D3) 10,000 UI capsula o tableta. Vía de administració
 
 TAB
 
-1-2-3 30- 90(Endocrinología y seguimiento por Medicina Interna S.I.M) A11D VITAMINA B1, SOLA Y EN COMBINACIÓN CON VITAMINAS B6 Y B12 A11DA VITAMINA B1 A11DA01 A11DA001 VITAMINA B1 (TIAMINA) (clorhidrato) 100mg tableta. Vía de administración Oral.
+1-2-3 30-90(Endocrinología y seguimiento por Medicina Interna S.I.M) A11D VITAMINA B1, SOLA Y EN COMBINACIÓN CON VITAMINAS B6 Y B12 A11DA VITAMINA B1 A11DA01 A11DA001 VITAMINA B1 (TIAMINA) (clorhidrato) 100mg tableta. Vía de administración Oral.
 
 A11DA01 A11DA002
 
@@ -551,7 +551,7 @@ Intravenosa. (uso exclusivo intrahospitalario, UCI, emergencia, anestesiología)
 
 C01DA02 C01DA005
 
-NITROGLICERINA (trinitrato de glicerilo) 0.3-0.6mg (300- 600mcg) tableta sublingual. Vía de Administración:
+NITROGLICERINA (trinitrato de glicerilo) 0.3-0.6mg (300-600mcg) tableta sublingual. Vía de Administración:
 
 Sublingual.
 
@@ -787,7 +787,7 @@ ANTIBIÓTICOS Y QUIMIOTERAPICOS PARA USO DERMATOLÓGICO
 
 D06A
 
-ANTIBIÓTICOS PARA USO TÓPICO D06AX OTROS ANTIBIÓTICOS PARA USO TÓPICO D06AX01 D06AX001 ACIDO FUSIDICO 2% crema tópica tubo 15g. Vía de Administración: Tópica D06B QUIMIOTERAPÉUTICA PARA USO TÓPICO D06BA SULFONAMIDAS RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Según indicación Médica (S.I.M) D06BA01 D06BA001 SULFADIAZINA DE PLATA 1% (10mg/g) crema tópica tarro 400g. Vía de Administración: Tópica D07A CORTICOSTEROIDES D07AA CORTICOSTEROIDES, DE BAJA POTENCIA (GRUPO I) D07AA02 D07AA001 HIDROCORTISONA (acetato) 1% (10mg/g) crema tópica tubo 15-30g. Vía de Administración: Tópica D07AC CORTICOSTEROIDES, POTENTES (GRUPO III) D07AC01 D07AC001 BETAMETASONA (valerato) 0.1% crema tópica tubo 20- 30g. Vía de Administración: Tópica TUB 1-2-3 1-2 D08 ANTISÉPTICOS Y DESINFECTANTES D08A ANTISÉPTICOS Y DESINFECTANTES D08AB AGENTES CON ALUMINIO D08AB01 D08AB001 ALUMINIO (acetato) Fórmula de polvo 2-3g para solución, sobre. Vía de Administración: Tópica.
+ANTIBIÓTICOS PARA USO TÓPICO D06AX OTROS ANTIBIÓTICOS PARA USO TÓPICO D06AX01 D06AX001 ACIDO FUSIDICO 2% crema tópica tubo 15g. Vía de Administración: Tópica D06B QUIMIOTERAPÉUTICA PARA USO TÓPICO D06BA SULFONAMIDAS RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Según indicación Médica (S.I.M) D06BA01 D06BA001 SULFADIAZINA DE PLATA 1% (10mg/g) crema tópica tarro 400g. Vía de Administración: Tópica D07A CORTICOSTEROIDES D07AA CORTICOSTEROIDES, DE BAJA POTENCIA (GRUPO I) D07AA02 D07AA001 HIDROCORTISONA (acetato) 1% (10mg/g) crema tópica tubo 15-30g. Vía de Administración: Tópica D07AC CORTICOSTEROIDES, POTENTES (GRUPO III) D07AC01 D07AC001 BETAMETASONA (valerato) 0.1% crema tópica tubo 20-30g. Vía de Administración: Tópica TUB 1-2-3 1-2 D08 ANTISÉPTICOS Y DESINFECTANTES D08A ANTISÉPTICOS Y DESINFECTANTES D08AB AGENTES CON ALUMINIO D08AB01 D08AB001 ALUMINIO (acetato) Fórmula de polvo 2-3g para solución, sobre. Vía de Administración: Tópica.
 
 D09
 
@@ -861,7 +861,7 @@ Uso exclusivo en ginecobstetricia intrahospitalario y emergencia G-O G02C OTROS 
 
 Oral.
 
-Uso exclusivo endocrinología , ginecobstetricia G03 HORMONAS SEXUALES Y MODULADORES DEL SISTEMA GENITAL G03A ANTICONCEPTIVOS HORMONALES PARA USO SISTÉMICO G03A ANTICONCEPTIVOS HORMONALES PARA USO SISTÉMICO G03AA PROGESTÁGENOS Y ESTRÓGENOS, COMBINACIÓN FIJA G03AA05 G03AA005 NORETISTERONA (enantato) + ESTRADIOL (valerato) 50mg + 5mg Solución inyectable ampolla de 1mL o jeringa prellenada de 1ml. Vía de Administración: Intramuscular G03AA16 G03AA006 DIENOGEST 2mg + ETINILESTRADIOL 0.02-0.03mg tableta recubierta. Vía de Administración: Oral.
+Uso exclusivo endocrinología, ginecobstetricia G03 HORMONAS SEXUALES Y MODULADORES DEL SISTEMA GENITAL G03A ANTICONCEPTIVOS HORMONALES PARA USO SISTÉMICO G03A ANTICONCEPTIVOS HORMONALES PARA USO SISTÉMICO G03AA PROGESTÁGENOS Y ESTRÓGENOS, COMBINACIÓN FIJA G03AA05 G03AA005 NORETISTERONA (enantato) + ESTRADIOL (valerato) 50mg + 5mg Solución inyectable ampolla de 1mL o jeringa prellenada de 1ml. Vía de Administración: Intramuscular G03AA16 G03AA006 DIENOGEST 2mg + ETINILESTRADIOL 0.02-0.03mg tableta recubierta. Vía de Administración: Oral.
 
 G03AC PROGESTÁGENOS G03AC03 G03AC001
 
@@ -939,7 +939,7 @@ METILPREDNISOLONA (acetato) 40mg/ml suspensión inyectable frasco 1ml. Vía de a
 
 H02AB04 H02AB012
 
-METILPREDNISOLONA (succinato sódico) 500mg polvo estéril para reconstituir a solución inyectable frasco 8- 14ml con diluyente incluido con preservante. Vía de Administración: Intravenosa, Intramuscular.
+METILPREDNISOLONA (succinato sódico) 500mg polvo estéril para reconstituir a solución inyectable frasco 8-14ml con diluyente incluido con preservante. Vía de Administración: Intravenosa, Intramuscular.
 
 H02AB06 H02AB007
 
@@ -1111,7 +1111,7 @@ S.I.M.
 
 J01F
 
-MACRÓLIDOS, LINCOSAMIDAS Y ESTREPTOGRAMINAS J01FA MACRÓLIDOS J01FA09 J01FA004 CLARITROMICINA 250mg/5ml polvo para reconstituir a suspensión oral frasco con capacidad para reconstituir a 50- 60ml. Vía de Administración: Oral.
+MACRÓLIDOS, LINCOSAMIDAS Y ESTREPTOGRAMINAS J01FA MACRÓLIDOS J01FA09 J01FA004 CLARITROMICINA 250mg/5ml polvo para reconstituir a suspensión oral frasco con capacidad para reconstituir a 50-60ml. Vía de Administración: Oral.
 
 J01FA09 J01FA005
 
@@ -1243,7 +1243,7 @@ Uso exclusivo en infectología J05 ANTIRRETROVIRALES PARA USO SISTÉMICO (Uso Ex
 
 INHIBIDORES DE LA TRANSCRIPTASA REVERSA RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Según indicación Médica (S.I.M) J05AB01 J05AB001 ACICLOVIR (sódica) 250mg polvo liofilizado estéril para reconstituir a solución inyectable frasco. Vía de Administración: Intravenosa.
 
-Uso exclusivo Intrahospitalario en infectología, medicina interna y UCI J05AB01 J05AB003 ACICLOVIR 200mg/5ml suspensión oral frasco 100- 125ml. Vía de Administración: Oral.
+Uso exclusivo Intrahospitalario en infectología, medicina interna y UCI J05AB01 J05AB003 ACICLOVIR 200mg/5ml suspensión oral frasco 100-125ml. Vía de Administración: Oral.
 
 FCO
 
@@ -1583,7 +1583,7 @@ Uso exclusivo Dermatología, Reumatología, gastroenterología Uso exclusivo seg
 
 Vía de Administración: Oral.
 
-Uso exclusivo inmunología, nefrología , reumatología, dermatología y hematología L04AD02 L04AD001 TACROLIMUS (Sal Monohidrato) 1mg cápsula de liberación prolongada. Vía de Administración: Oral.
+Uso exclusivo inmunología, nefrología, reumatología, dermatología y hematología L04AD02 L04AD001 TACROLIMUS (Sal Monohidrato) 1mg cápsula de liberación prolongada. Vía de Administración: Oral.
 
 Uso exclusivo en nefrología
 
@@ -1613,7 +1613,7 @@ Intravenosa, intramuscular.
 
 Evitar en pacientes con riesgo cardiovascular M01AB05 M01AB008 DICLOFENACO (sódico o potásico) 75mg tableta. Vía de Administración: Oral.
 
-Evitar en pacientes con riesgo cardiovascular TAB 2-3 Primer nivel 10 Segundo y tercer nivel 30 Reumatología 60 M01AE DERIVADOS DEL ÁCIDO PROPIÓNICO M01AE01 M01AE007 IBUPROFENO 100mg/5 ml suspensión oral frasco 100- 120ml. Vía de Administración: Oral. uso > 3 meses M01AE01 M01AE004 IBUPROFENO 600mg tableta ranurada. Vía de Administración: Oral.
+Evitar en pacientes con riesgo cardiovascular TAB 2-3 Primer nivel 10 Segundo y tercer nivel 30 Reumatología 60 M01AE DERIVADOS DEL ÁCIDO PROPIÓNICO M01AE01 M01AE007 IBUPROFENO 100mg/5 ml suspensión oral frasco 100-120ml. Vía de Administración: Oral. uso > 3 meses M01AE01 M01AE004 IBUPROFENO 600mg tableta ranurada. Vía de Administración: Oral.
 
 TAB
 
@@ -1703,7 +1703,7 @@ LIDOCAÍNA (clorhidrato) 5 % solución tópica oral frasco de polietileno con bo
 
 N01BB03 N01BB008
 
-MEPIVACAINA (clorhidrato) 3% (30mg/ml) solución inyectable cartucho 1.8ml. Vía de administración :
+MEPIVACAINA (clorhidrato) 3% (30mg/ml) solución inyectable cartucho 1.8ml. Vía de administración:
 
 Intrabucal
 
@@ -1887,7 +1887,7 @@ NEUROLOGÍA
 
 N03AX14 N03AX006
 
-LEVETIRACETAM 100mg/ml, solución oral frasco 150- 300ml. Vía de Administración: Oral Uso exclusivo en neurología pediátrica, neonatología N03AX14 N03AX012 LEVETIRACETAM 1g tableta ranurada. Vía de Administración: Oral.
+LEVETIRACETAM 100mg/ml, solución oral frasco 150-300ml. Vía de Administración: Oral Uso exclusivo en neurología pediátrica, neonatología N03AX14 N03AX012 LEVETIRACETAM 1g tableta ranurada. Vía de Administración: Oral.
 
 Uso exclusivo en neurología
 
@@ -2193,13 +2193,13 @@ Uso exclusivo oftalmología S01F
 
 MIDRIÁTICOS Y CICLOPLEJICOS S01FA ANTICOLINÉRGICOS S01FA01 S01FA001 ATROPINA 1% (equivalente a 10mg/ml) solución oftálmica frasco gotero. Vía de Administración: Oftálmica.
 
-RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Según indicación Médica (S.I.M) Uso exclusivo oftalmología S01FA06 S01FA003 TROPICAMIDA 0.5 -1% + CLORHIDRATO DE FENILEFRINA 5% solución oftálmica frasco gotero 5- 15ml. Vía de Administración: Oftálmica.
+RANGO A PRESCRIBIR SAP DESCRIPCIÓN DEL MEDICAMENTO UNIDAD NIVEL DE ATENCIÓN Según indicación Médica (S.I.M) Uso exclusivo oftalmología S01FA06 S01FA003 TROPICAMIDA 0.5 -1% + CLORHIDRATO DE FENILEFRINA 5% solución oftálmica frasco gotero 5-15ml. Vía de Administración: Oftálmica.
 
 Uso exclusivo oftalmología
 
 S01GA01 S01GA002
 
-NAFAZOLINA 0.1% Solución oftálmica al 0.1% (equivalente a 1mg/ml) de nafazolina frasco gotero 10- 15ml. Vía de Administración: Oftálmica.
+NAFAZOLINA 0.1% Solución oftálmica al 0.1% (equivalente a 1mg/ml) de nafazolina frasco gotero 10-15ml. Vía de Administración: Oftálmica.
 
 S01GX OTROS ANTIALÉRGICOS S01GX07 S01GX002
 
@@ -2213,7 +2213,7 @@ ANESTÉSICOS LOCALES S01HA ANESTÉSICOS LOCALES S01HA03 S01HA001 TETRACAINA 0.5%
 
 S01X
 
-OTROS OFTALMOLÓGICOS S01XA OTROS OFTALMOLÓGICOS S01XA20 S01XA003 METILCELULOSA 0.3-0.5% (equivalente a 3- 5mg/ml) solución oftálmica frasco gotero 10-15ml. Vía de Administración: Oftálmica.
+OTROS OFTALMOLÓGICOS S01XA OTROS OFTALMOLÓGICOS S01XA20 S01XA003 METILCELULOSA 0.3-0.5% (equivalente a 3-5mg/ml) solución oftálmica frasco gotero 10-15ml. Vía de Administración: Oftálmica.
 
 S01XA20 S01XA005
 
@@ -2319,11 +2319,11 @@ Uso exclusivo por Nutrición Hospitalaria, UCIA, UCIP RANGO A PRESCRIBIR SAP DES
 
 Uso exclusivo en UCI, Servicio de apoyo nutriciohospitalario V06D OTROS NUTRIENTES V06DB COMBINACIONES DE LÍPIDOS, CARBOHIDRATOS PROTEÍNAS, MINERALES Y VITAMINAS V06DB04 V06DB004 SUPLEMENTO NUTRICIONAL HIPERCALÓRICO E HIPERPROTEICO polvo lata 380-500 gr. Vía de Administración: Oral.
 
-Uso exclusivo oncología, UCI e Infectología, Servicio de apoyo nutricio- hospitalario V06DE COMBINADOS DE AMINOÁCIDOS, CARBOHIDRATOS, MINERALES, VITAMINAS V06DE04 V06DE004 HIDROLIZADO DE PROTEÍNAS DEL SUERO o Caseína (SEMI-ELEMENTAL) CON MCT polvo 400- 454 g Lata.
+Uso exclusivo oncología, UCI e Infectología, Servicio de apoyo nutricio- hospitalario V06DE COMBINADOS DE AMINOÁCIDOS, CARBOHIDRATOS, MINERALES, VITAMINAS V06DE04 V06DE004 HIDROLIZADO DE PROTEÍNAS DEL SUERO o Caseína (SEMI-ELEMENTAL) CON MCT polvo 400-454 g Lata.
 
 Vía de Administración: oral.
 
-Uso exclusivo en gastroenterología, gastroenterología pediátrica inmunología, UCI Pediátrico y UCI Neonatal, nutrición- hospitalario V06DE06 V06DE001 HIDROLIZADO DE CASEÍNA polvo 357- 454 g Lata. Vía de Administración: oral.
+Uso exclusivo en gastroenterología, gastroenterología pediátrica inmunología, UCI Pediátrico y UCI Neonatal, nutrición- hospitalario V06DE06 V06DE001 HIDROLIZADO DE CASEÍNA polvo 357-454 g Lata. Vía de Administración: oral.
 
 Uso exclusivo en gastroenterología pediátrica, inmunología y cuidados intensivos- pediátricos, Servicio de apoyo nutricio- hospitalario V06DX OTRAS COMBINACIONES DE NUTRIENTES V07AB AGENTES SOLVENTES Y DILUYENTES, INCLUYE SOLUCIONES PARA IRRIGACIÓN V07AB00 B05BB003 AGUA DESTILADA ESTÉRIL para inyección frasco 50ml.
 
@@ -3407,7 +3407,7 @@ Dia Mes Año Uso Exclusivo de la Farmacia (clasificaion de la sospecha de falla)
 
 Marque con una equis Terapeutica Farmaceutica Uso Exclusivo de la Farmacia (Referente a manejo administrativo del Medicamento):
 
-Codigo SAP Referente al medicamento Motivo de la prescripcion o Dosis diaria y via de administracion 1 Descripcion de la falla reportada :
+Codigo SAP Referente al medicamento Motivo de la prescripcion o Dosis diaria y via de administracion 1 Descripcion de la falla reportada:
 
 Patologias que padece el paciente:
 
@@ -3457,7 +3457,7 @@ Dia Mes Año Uso Exclusivo de la Farmacia (resultado del desenlace de la RAM): (
 
 5. En evolucion Uso Exclusivo de la Farmacia (Referente a manejo administrativo del Medicamento):
 
-Codigo SAP Referente al medicamento forma farmaceutica, via de administracion) Dosis diaria y via de administracion Motivo de la prescripcion o 1 Fecha de Inicio de la reacion al medicamento (dia/ mes/ año) Descripcion de la Reaccion Adversa reportada :
+Codigo SAP Referente al medicamento forma farmaceutica, via de administracion) Dosis diaria y via de administracion Motivo de la prescripcion o 1 Fecha de Inicio de la reacion al medicamento (dia/ mes/ año) Descripcion de la Reaccion Adversa reportada:
 
 Fecha de finalizacion de la reacion al medicamento (dia/ mes/ año) Patologias que padece el paciente:
 

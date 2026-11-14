@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Decretos Ejecutivos Números PCM 52-2023, 53-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231227-36419/download"
 extraido: "2026-11-14"
-huella: "6aea194b90423fd8"
+huella: "3f3584484fa55086"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 52-2023, 53-2023
@@ -465,7 +465,7 @@ CONSIDERANDO: Que la Ley de Contratación del Estado establece que se podrá rea
 
 CONSIDERANDO: Que, de conformidad a la Ley de Contratación del Estado, la declaración del estado de emergencia se hará mediante Decreto de la Presidenta de la República en Consejo de Ministros (artículo 9).
 
-POR TANTO, En uso de las facultades legales establecidas en los artículos 59, 65, 145, 245 numerales 2, 11 y 29; 235 y 252 de la Constitución de la República; artículos 11, 17, 18, 116,117 y 119 de la Ley General de la Administración Pública; artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; artículo 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales; Decreto Ejecutivo número PCM 16- 2022; Decreto Ejecutivo Número PCM 04-2023; Decreto Ejecutivo número PCM 40-2023; Decreto Ejecutivo número PCM 48-2023; y, demás aplicables.
+POR TANTO, En uso de las facultades legales establecidas en los artículos 59, 65, 145, 245 numerales 2, 11 y 29; 235 y 252 de la Constitución de la República; artículos 11, 17, 18, 116,117 y 119 de la Ley General de la Administración Pública; artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; artículo 12 del Pacto Internacional de Derechos Económicos, Sociales y Culturales; Decreto Ejecutivo número PCM 16-2022; Decreto Ejecutivo Número PCM 04-2023; Decreto Ejecutivo número PCM 40-2023; Decreto Ejecutivo número PCM 48-2023; y, demás aplicables.
 
 DECRETA:
 

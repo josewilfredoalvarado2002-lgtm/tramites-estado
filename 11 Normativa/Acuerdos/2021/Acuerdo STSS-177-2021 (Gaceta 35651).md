@@ -11,7 +11,7 @@ paginas: "A. 65 - 72"
 sumario: "Acuerdo No. STSS-177-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210709-35651/download"
 extraido: "2026-11-14"
-huella: "ec279aebfa30566d"
+huella: "4c8e9dfee78a63ad"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-177-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Estado de Honduras tiene la obligación de proteger la infa
 
 CONSIDERANDO: Que Honduras es parte de diversos convenios internacionales enfocados a la protección de la niñez, tal como ser: La Convención sobre los Derechos del Niño, Convenio 182 sobre las Peores Formas de Trabajo Infantil y Convenio 138 sobre la Edad Mínima de Admisión al Empleo de la Organización Internacional del Trabajo y otros relacionados, los cuales conjuntamente con nuestra legislación nacional se convierten en herramientas en la lucha contra el trabajo infantil y sus peores formas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 17-98, se creó la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil, la cual su integración fue adecuada mediante PCM-025-2017, dejando así regulado sus miembros, funciones y órganos que la conforman, indicando además que la misma será presidida por la Secretaría de Estado en el Despachos de Trabajo y Seguridad Social.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-17-98, se creó la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil, la cual su integración fue adecuada mediante PCM-025-2017, dejando así regulado sus miembros, funciones y órganos que la conforman, indicando además que la misma será presidida por la Secretaría de Estado en el Despachos de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que la Erradicación Gradual y Progresiva del Trabajo Infantil en Honduras, requiere se involucre y obtenga la participación de todos los sectores en especial en aquellas zonas más vulnerables que por sus condiciones de vida los niños y niñas están más expuestos al trabajo infantil.
 
@@ -51,7 +51,7 @@ En uso de sus facultades y en aplicación de los artículos 119, 123, 124, 126, 
 
 36 numeral 08, 116, 118, 119, 122 de la Ley General de la Administración Pública; 16, 17, 23, 24, 25, 64 del Reglamento de Organización y Competencias del Poder Ejecutivo; 1, 2, 3, 4, 5, 6, 11, 12, 83, 84, 85, 87, 88, 90, 91, 93 del Código de la Niñez y Adolescencia; 1, 2, 3, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26 del Reglamento sobre Trabajo Infantil en Honduras y su Acuerdo número STSS-097-2008 de reforma al artículo 8 del Reglamento del Trabajo Infantil; Decreto Ejecutivo PCM 17-98, Creación de la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil;
 
-Decreto Ejecutivo PCM-025-2017, Adecuación de Integración y funciones de la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil; Decreto Número 75-90, que contiene la ratificación de la Convención sobre Derechos del Niño; Decreto Ejecutivo número PCM-011- 2011, Hoja de Ruta para la Prevención y Erradicación del Trabajo Infantil y sus Peores Formas y su reforma mediante Decreto Ejecutivo número PCM-056-2011; Convenio Número 138: Sobre Edad Mínima de Admisión al Empleo; Convenio número 182: Sobre las Peores Formas de Trabajo Infantil de la Organización Internacional del Trabajo y demás legislación aplicable.
+Decreto Ejecutivo PCM-025-2017, Adecuación de Integración y funciones de la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil; Decreto Número 75-90, que contiene la ratificación de la Convención sobre Derechos del Niño; Decreto Ejecutivo número PCM-011-2011, Hoja de Ruta para la Prevención y Erradicación del Trabajo Infantil y sus Peores Formas y su reforma mediante Decreto Ejecutivo número PCM-056-2011; Convenio Número 138: Sobre Edad Mínima de Admisión al Empleo; Convenio número 182: Sobre las Peores Formas de Trabajo Infantil de la Organización Internacional del Trabajo y demás legislación aplicable.
 
 ACUERDA
 
@@ -69,7 +69,7 @@ Son legalizados para su funcionamiento, en el marco de la legislación nacional 
 
 √ Convención sobre los Derechos del Niño.
 
-√ Decreto Legislativo No.73-96 contentivo del Código de la Niñez y la Adolescencia (CNA).
+√ Decreto Legislativo No. 73-96 contentivo del Código de la Niñez y la Adolescencia (CNA).
 
 √ Decreto Ejecutivo PCM 025-2017; Adecuación de la Comisión Nacional para la Erradicación Gradual y Progresiva del Trabajo Infantil.
 

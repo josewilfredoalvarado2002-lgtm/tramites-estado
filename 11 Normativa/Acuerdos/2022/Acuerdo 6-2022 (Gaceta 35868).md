@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ejecutivos Nos. 4-2022, 5-2022, 6-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220309-35868/download"
 extraido: "2026-11-14"
-huella: "e474042d8bbdc3cd"
+huella: "780699ec5f32d476"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 6-2022
@@ -51,9 +51,7 @@ COMUNÍQUESE Y PUBLÍQUESE
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los 27 días del mes de enero del año 2022.
 
-IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ ADENDUM No. 1 La Empresa Nacional de Artes Gráficas “ENAG”, conforme al derecho que le asiste y de acuerdo con los hallazgos encontrados en la edición del Diario Oficial La Gaceta No.
-
-35,850 de fecha miércoles 16 de febrero del 2022, publicado el Acuerdo Ejecutivo número 003-2021, de la Presidencia de la República, según documento original recibido en nuestra institución, en la publicación en físico por error involuntario se omitió parte del texto, en la página 6.A., segunda columna, línea número 11, antes de la imagen se lee: PALMEROLA, MUNICIPIO DE LA VILLA DE SAN, siendo lo correcto:
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN ________ ADENDUM No. 1 La Empresa Nacional de Artes Gráficas “ENAG”, conforme al derecho que le asiste y de acuerdo con los hallazgos encontrados en la edición del Diario Oficial La Gaceta No. 35,850 de fecha miércoles 16 de febrero del 2022, publicado el Acuerdo Ejecutivo número 003-2021, de la Presidencia de la República, según documento original recibido en nuestra institución, en la publicación en físico por error involuntario se omitió parte del texto, en la página 6.A., segunda columna, línea número 11, antes de la imagen se lee: PALMEROLA, MUNICIPIO DE LA VILLA DE SAN, siendo lo correcto:
 
 PALMEROLA, MUNICIPIO DE LA VILLA DE SAN
 

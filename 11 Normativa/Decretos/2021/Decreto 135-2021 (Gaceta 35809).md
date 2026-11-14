@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Decretos Nos. 110-2021, 116-2021, 135-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211229-35809/download"
 extraido: "2026-11-14"
-huella: "ff058a9c9eaadc5a"
+huella: "79e1439d9cfdafe9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 135-2021
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la persona humana es el fin supremo de la sociedad y del Estado, todos tienen la obligación de respetarla y protegerla.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.173-2019 de fecha 23 de Febrero del año 2020, fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, mismo que fue publicado en el Diario Oficial “La Gaceta” en fecha 18 de Febrero del año 2020.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 173-2019 de fecha 23 de Febrero del año 2020, fue aprobada la Ley Marco de Vivienda y Asentamientos Humanos, mismo que fue publicado en el Diario Oficial “La Gaceta” en fecha 18 de Febrero del año 2020.
 
 CONSIDERANDO: Que mediante el Decreto Legislativo que creó la Ley de Vivienda y Asentamientos Humanos, se ordenó la liquidación de la Comisión Nacional de Vivienda y Asentamientos Humanos.
 
@@ -43,13 +43,13 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
 ARTÍCULO 1.- Reformar el Artículo 45 de la LEY MARCO DE VIVIENDA Y ASENTAMIENTOS HUMANOS, el cual debe leerse así:
 
-“ARTÍCULO 45.- Se Instruye al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI) y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en ejecución del Decreto No.401-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 26 de Marzo del 2014, Edición No.33,389, mediante el cual se autorizó el financiamiento para la construcción de doce mil (12,000) viviendas para docentes y personal auxiliar de los distintos niveles educativos del país afiliados al COMITÉ PROVIVIENDA DE DOCENTES Y AUXILIARES DE HONDURAS (PROVIDOAH).
+“ARTÍCULO 45.- Se Instruye al Banco Hondureño Para la Producción y la Vivienda (BANHPROVI) y demás instituciones participantes a realizar la liquidación de los fondos que trasladó la Secretaría de Estado en el Despacho de Finanzas (SEFIN), en ejecución del Decreto No. 401-2013 de fecha 20 de Enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 26 de Marzo del 2014, Edición No. 33,389, mediante el cual se autorizó el financiamiento para la construcción de doce mil (12,000) viviendas para docentes y personal auxiliar de los distintos niveles educativos del país afiliados al COMITÉ PROVIVIENDA DE DOCENTES Y AUXILIARES DE HONDURAS (PROVIDOAH).
 
 Se Instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), trasladar los recursos financieros resultantes de la liquidación que realice el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a la Secretaría de Estado en los Despachos de Vivienda y Asentamientos Humanos (SEVIAH).
 

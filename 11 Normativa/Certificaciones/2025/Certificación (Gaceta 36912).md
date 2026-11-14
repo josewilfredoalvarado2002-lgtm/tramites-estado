@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1580-2024."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250809-36912/download"
 extraido: "2026-11-09"
-huella: "a5678938c4df2e5b"
+huella: "67b3e396a8fa70a4"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -35,7 +35,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, nueve de diciembre del año dos mil veinticuatro.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de octubre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-08102024- 556, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la "JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO FE Y VIDA DEL CASERÍO LA ERMITA, ALDEA AZACUALPA, MUNICIPIO DE REITOCA, DEPARTAMENTO DE FRANCISCO MORAZÁN, la cual se encuentra domiciliada en la Aldea Azacualpa, municipio de Reitoca, departamento de Francisco Morazán; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha ocho de octubre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-08102024-556, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la "JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO FE Y VIDA DEL CASERÍO LA ERMITA, ALDEA AZACUALPA, MUNICIPIO DE REITOCA, DEPARTAMENTO DE FRANCISCO MORAZÁN, la cual se encuentra domiciliada en la Aldea Azacualpa, municipio de Reitoca, departamento de Francisco Morazán; contraída a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 CONSIDERANDO: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica a favor de su representada.
 
@@ -127,7 +127,7 @@ DE LA JUNTA DIRECTIVA.
 
 ARTÍCULO 13.- Después de la Asamblea de Usuarios; la Junta Directiva, es el órgano de gobierno más importante de la Junta de Agua y Saneamiento; y, estará en funciones por un período de dos años pudiendo ser reelecta por un período más, ejerciendo dichos cargos ad honorem, para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros:
 
-1. - Un Presidente(a) , 2.- Un Vice-Presidente(a), 3.- Un Secretario(a), 4.- Un Tesorero(a). 5.- Un Fiscal. 6.- Un Vocal primero y, 7.- Un Vocal segundo.
+1. - Un Presidente(a), 2.- Un Vice-Presidente(a), 3.- Un Secretario(a), 4.- Un Tesorero(a). 5.- Un Fiscal. 6.- Un Vocal primero y, 7.- Un Vocal segundo.
 
 #### Artículo 14
 
@@ -245,7 +245,7 @@ ESTADO EN EL DESPACHO DE JUSTICIA. (F Y S) CELSO DONADÍN ALVARADO HERNÁNDEZ, S
 
 Extendida en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintiocho (28) días del mes de abril de dos mil veinticinco (2025).
 
-IRIS GEORGINA ANARIBA CASTILLO ENCARGADA DE LA UNIDAD DE ATENCIÓN AL CIUDADANO ACUERDO DE DELEGACIÓN DE FIRMA No.92-2025 DE FECHA 06 DE FEBRERO DE 2025 Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), bajo el No. 2025000144 de fecha (23) veintitrés de abril de dos mil cinco (2025). Papel de Seguridad Habilitado Mediante Acuerdo No.42-2024. CORRELATIVO DE PAPEL SGJD No. 06380-2022 al No. 06383-2022
+IRIS GEORGINA ANARIBA CASTILLO ENCARGADA DE LA UNIDAD DE ATENCIÓN AL CIUDADANO ACUERDO DE DELEGACIÓN DE FIRMA No. 92-2025 DE FECHA 06 DE FEBRERO DE 2025 Inscrita en la Dirección de Regulación, Registro y Seguimiento de Asociaciones Civiles (DIRRSAC), bajo el No. 2025000144 de fecha (23) veintitrés de abril de dos mil cinco (2025). Papel de Seguridad Habilitado Mediante Acuerdo No. 42-2024. CORRELATIVO DE PAPEL SGJD No. 06380-2022 al No. 06383-2022
 
 ## Fuente
 

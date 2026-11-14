@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200402-35216/download"
 extraido: "2026-11-14"
-huella: "6f365b5c2c43c72d"
+huella: "2e9bb54dc6d77363"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -31,9 +31,9 @@ El infrascrito, Secretario General de la Secretaría de Estado en los Despachos 
 
 CERTIFICA: La Resolución que literalmente dice:
 
-“RESOLUCIÓN No.2189-2019.-SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, ocho de noviembre del dos mil diecinueve.
+“RESOLUCIÓN No. 2189-2019.-SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, ocho de noviembre del dos mil diecinueve.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintiocho de octubre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-28102019- 922, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL CASERIO LOS CHORRITOS, ALDEA EL CARRIZAL, municipio de Sabanagrande, departamento de Francisco Morazán, con domicilio en Caserío Los Chorritos Aldea el Carrizal, municipio de Sabanagrande, departamento de Francisco Morazán, contraído a solicitar Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veintiocho de octubre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-28102019-922, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DEL CASERIO LOS CHORRITOS, ALDEA EL CARRIZAL, municipio de Sabanagrande, departamento de Francisco Morazán, con domicilio en Caserío Los Chorritos Aldea el Carrizal, municipio de Sabanagrande, departamento de Francisco Morazán, contraído a solicitar Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

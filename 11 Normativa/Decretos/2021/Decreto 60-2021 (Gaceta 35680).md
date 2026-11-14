@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Decretos Nos. 12-2021, 60-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210807-35680/download"
 extraido: "2026-11-14"
-huella: "102d12e9d4dd7ffe"
+huella: "220769afb7655eae"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 60-2021
@@ -31,15 +31,15 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO:
 
-Que mediante Decreto Legislativo No.182-2020 de fecha 22 de Diciembre de 2020 y publicado en el Diario Oficial “La Gaceta" el 23 de Diciembre de 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, en una estimación de ingresos de la Administración Central la suma de CIENTO SESENTA Y DOS MIL CUATROCIENTOS TREINTA Y CINCO MILLONES SEISCIENTOS OCHENTA Y NUEVE MIL SETECIENTOS CINCUENTA Y TRES LEMPIRAS EXACTOS (L.162,435,689,753.00).
+Que mediante Decreto Legislativo No. 182-2020 de fecha 22 de Diciembre de 2020 y publicado en el Diario Oficial “La Gaceta" el 23 de Diciembre de 2020, se aprobó el Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2020, en una estimación de ingresos de la Administración Central la suma de CIENTO SESENTA Y DOS MIL CUATROCIENTOS TREINTA Y CINCO MILLONES SEISCIENTOS OCHENTA Y NUEVE MIL SETECIENTOS CINCUENTA Y TRES LEMPIRAS EXACTOS (L.162,435,689,753.00).
 
 CONSIDERANDO:
 
-Que mediante Decreto Legislativo No.200-2018 de fecha 24 de Enero de 2019, se reformó el Artículo 51 del Decreto No.131 de fecha 11 de Enero de 1982 contentivo de la Constitución de la República.
+Que mediante Decreto Legislativo No. 200-2018 de fecha 24 de Enero de 2019, se reformó el Artículo 51 del Decreto No. 131 de fecha 11 de Enero de 1982 contentivo de la Constitución de la República.
 
 CONSIDERANDO:
 
-Que mediante Decreto Legislativo No.2-2019 de fecha 29 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 6 de Febrero de 2019, se ratificó constitucionalmente el Decreto No. 200-2018 referido en el Considerando anterior.
+Que mediante Decreto Legislativo No. 2-2019 de fecha 29 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el 6 de Febrero de 2019, se ratificó constitucionalmente el Decreto No. 200-2018 referido en el Considerando anterior.
 
 CONSIDERANDO: Que el Artículo 51 reformado de la Constitución de la República, crea el Consejo Nacional Electoral (CNE), autónomo e independiente sin relación de subordinación con los Poderes del Estado, de seguridad nacional, con personalidad jurídica, jurisdicción y competencia en toda la República.
 

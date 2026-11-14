@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. 181-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211030-35759/download"
 extraido: "2026-11-14"
-huella: "2b25a595d11c9817"
+huella: "8148b0d5339059eb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 181-2021
@@ -39,13 +39,13 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 222-92 de fecha 10 de diciemb
 
 CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y Aduanero Centroamericano, dispone “Cuando alguno de los Estados Contratantes se viere enfrentado a graves problemas de desequilibrio de la balanza de pagos; o a deficiencias repentinas y generalizadas en el abastecimiento de materias primas y bienes finales básicos; o a desorganización de mercado; o a prácticas de comercio desleal; o a cualquier otra circunstancia que amenace derivar en situaciones de emergencia nacional, dicho Estado queda facultado para aplicar unilateralmente las disposiciones previstas en el Capítulo VI de este Convenio, relacionados con la modificación de los Derechos Arancelarios a la Importación durante un plazo máximo de 30 días. Lo anterior, sin perjuicio de otras medidas no arancelarias que adopten los Estados con base en su legislación nacional. Dentro de dicho plazo, el Consejo deberá reunirse para considerar la situación, calificar su gravedad y disponer medidas que conjuntamente deban tomarse, incluyendo la posibilidad de resolver sobre la suspensión o modificación de las disposiciones adoptadas unilateralmente o, según el caso, autorizar la prórroga de las mismas. El plazo del párrafo anterior, se tendrá por prorrogado hasta la fecha en que el Consejo adopte las medidas que correspondan.
 
-CONSIDERANDO: Que mediante Acuerdo Número 030- 2015, vigente a partir del 19 de febrero de 2015, la Secretaría de Estado en el Despacho de Desarrollo Económico, acordó de conformidad con el artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, modificar temporalmente el Derecho Arancelario a la Importación
+CONSIDERANDO: Que mediante Acuerdo Número 030-2015, vigente a partir del 19 de febrero de 2015, la Secretaría de Estado en el Despacho de Desarrollo Económico, acordó de conformidad con el artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, modificar temporalmente el Derecho Arancelario a la Importación
 
 (DAI) al 35%, disposición que es aplicable de conformidad con el principio de Nación Más Favorecida (NMF) para los siguientes códigos arancelarios: 7213.10.00.00, 7214.20.00.00, 7215.10.00.00, 7215.50.00.00, 7215.90.00.00, 7228.30.00.00, 7228.70.00.00.
 
 CONSIDERANDO: Que en fecha 15 de marzo de 2021, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de Eliminación de Salvaguardia Aplicada a la Importación de Vigas H contenidas en el Acuerdo Ministerial No. 030-2015.
 
-CONSIDERANDO: Que el Acuerdo Ministerial No.005- 2021, contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021, contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, en el Artículo 4 establece la creación de la Comisión Ad Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que el Artículo 7 del Acuerdo Ministerial No. 005-2021 establece que todas las determinaciones que sean establecidas por la Comisión AD HOC deben ser revisadas y analizadas tomando en consideración los instrumentos jurídicos centroamericanos y nacionales que estén relacionados con el establecimiento, modificación o eliminación de medidas de salvaguardia.
 
@@ -85,7 +85,7 @@ Dado en la ciudad de Tegucigalpa, M.D.C., a los veinte (20) días del mes de oct
 
 MARIA ANTONIA RIVERA ENCARGADA DE LA SECRETARIA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONOMICO CESAR ANDRES VERDE ENCARGADO DE LA SECRETARIA GENERAL Acuerdo Ministerial de Delegación No. 172-2021 Avance Próxima Edición
 
-DECRETA: ARTÍCULO 1.- Derogar los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596; todos del Decreto No.130-2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
+DECRETA: ARTÍCULO 1.- Derogar los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596; todos del Decreto No. 130-2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
 
 CENTROS DE DISTRIBUCIÓN:
 

@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "2025, 109-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250804-36907-2/download"
 extraido: "2026-11-09"
-huella: "3603b1a81ee5650d"
+huella: "d937d575391cf186"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 109-SEDESOL-2025
@@ -51,7 +51,7 @@ POR TANTO
 
 La Secretaría de Estado en el Despacho de Desarrollo Social, en el ejercicio de las atribuciones que le confieren los artículos 59, 117 y 247 de la Constitución de la República;
 
-36, numerales 6, 8, 10; 116; 116 de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM- 05-2022, Decreto Ejecutivo número PCM-19-2022 y Acuerdo Ministerial No. 108-SEDESOL-2025.
+36, numerales 6, 8, 10; 116; 116 de la Ley General de la Administración Pública, Decreto Ejecutivo Número PCM-05-2022, Decreto Ejecutivo número PCM-19-2022 y Acuerdo Ministerial No. 108-SEDESOL-2025.
 
 ACUERDA
 

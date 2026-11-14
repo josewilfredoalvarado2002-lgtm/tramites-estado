@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Ejecutivos de Delegación Nos. 125-2022, 126-2022,Acuerdos Nos. 128-2022, 130-2022, 132-2022, 133-2022, 134-2022, 135-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220330-35886/download"
 extraido: "2026-11-14"
-huella: "ead70e4778eaf194"
+huella: "ba2e84f50a83e613"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 128-2022
@@ -49,17 +49,13 @@ CONSIDERANDO: Que, con el objeto de no paralizar el normal funcionamiento de los
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No.
-
-64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585- 2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014; 4 y 5 del Acuerdo No. 64-2014, publicado en el Diario Oficial La Gaceta el 13 de febrero del 2015 y su reforma mediante Acuerdos Nos. 585-2015, y 62-2017, publicados en el Diario Oficial La Gaceta el 24 de noviembre del 2015 y 9 de septiembre del 2017, respectivamente.
 
 ACUERDA:
 
 PRIMERO:
 
-Derogar el Acuerdo de Delegación N°.
-
-281-2020 de fecha 25 de noviembre del 2020 y Ampliación al mismo mediante Acuerdo Número 292-2021 de fecha 12 de marzo del 2021, en el cual se delegan facultades a favor del Abogado YERAL JAVIER ROQUE NUÑEZ.
+Derogar el Acuerdo de Delegación N°. 281-2020 de fecha 25 de noviembre del 2020 y Ampliación al mismo mediante Acuerdo Número 292-2021 de fecha 12 de marzo del 2021, en el cual se delegan facultades a favor del Abogado YERAL JAVIER ROQUE NUÑEZ.
 
 SEGUNDO: Delegar en la Abogada OLGA MARINA RODRIGUEZ GONZALEZ, Oficial Jurídico II, las funciones que correspondan al Programa de Consolidación Familiar, partir del dieciséis (16) de marzo del 2022, según Memorandum-CF-078-2022, con las siguientes facultades:
 

@@ -11,7 +11,7 @@ paginas: "A. 12 - 15"
 sumario: "Acuerdo No. CSJ-02-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210813-35686/download"
 extraido: "2026-11-14"
-huella: "6281e0ec0f286fe8"
+huella: "e9a8d08310abcec2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-02-2021
@@ -55,7 +55,7 @@ Sexto. Conforme a lo preceptuado en los artículos 2, 53, 54 y 55 de la Ley de G
 
 5. Esta Comisión contará con un Equipo Técnico de Apoyo y podrá llamar a conformar las Mesas Técnicas Interinstitucionales que considere necesarias para la implementación del mencionado sistema informático de gestión procesal.
 
-P a r t e D i s p o s i t i v a La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias, A c u e r d a Primero. Aprobar el inicio del Proceso de Implementación del Sistema de Expediente Judicial Electrónico (SEJE), cuya primera fase se desarrollará en los siguientes órganos jurisdiccionales:
+Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias, Acuerda Primero. Aprobar el inicio del Proceso de Implementación del Sistema de Expediente Judicial Electrónico (SEJE), cuya primera fase se desarrollará en los siguientes órganos jurisdiccionales:
 
 1. Juzgado de Letras Penal con Competencia Nacional en Materia de Extorsión de Tegucigalpa, Francisco Morazán;
 

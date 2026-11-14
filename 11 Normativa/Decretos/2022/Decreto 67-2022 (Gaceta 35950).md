@@ -11,7 +11,7 @@ paginas: "A. 14 - 18"
 sumario: "Decretos Nos. 50-2022, 61-2022, 66-2022, 67-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220615-35950/download"
 extraido: "2026-11-14"
-huella: "7e5f855304a822fb"
+huella: "ba20906e2a8ecaf1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 67-2022
@@ -29,7 +29,7 @@ huella: "7e5f855304a822fb"
 
 CONGRESO NACIONAL
 
-CONSIDERANDO: Que la Ley del Ministerio Público, contenida en el Decreto No.228-93, de fecha 13 de diciembre de 1993, establece dentro de sus misiones institucionales que tendrá a su cargo el cumplimiento de los fines y objetivos siguientes: Representar, defender y proteger los intereses generales de la sociedad; Colaborar y velar por la pronta, recta y eficaz administración de justicia, especialmente en el ámbito penal; llevando a cabo la investigación de los delitos hasta descubrir a los responsables y requerir ante los tribunales competentes la aplicación de la ley, mediante el ejercicio de la acción penal pública.
+CONSIDERANDO: Que la Ley del Ministerio Público, contenida en el Decreto No. 228-93, de fecha 13 de diciembre de 1993, establece dentro de sus misiones institucionales que tendrá a su cargo el cumplimiento de los fines y objetivos siguientes: Representar, defender y proteger los intereses generales de la sociedad; Colaborar y velar por la pronta, recta y eficaz administración de justicia, especialmente en el ámbito penal; llevando a cabo la investigación de los delitos hasta descubrir a los responsables y requerir ante los tribunales competentes la aplicación de la ley, mediante el ejercicio de la acción penal pública.
 
 CONSIDERANDO: Que durante el periodo comprendido entre 2016 y 2017 la fenecida MACCIH-OEA promovió reformas legislativas e institucionales que resultaron necesarias para enfrentar el problema de corrupción en el país. Entre ellas la creación del Sistema Nacional contra la Corrupción, con la generación de un esquema de fiscalías especiales de competencia nacional para el conocimiento de delitos de corrupción. Asimismo, este sistema creó a una Unidad Fiscal Especial contra la Impunidad de la Corrupción (UFECIC), en enero de 2017, para conocer grandes casos de corrupción.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 ARTÍCULO 1.- L a
 
-U N I D A D F I S C A L ESPECIALIZADA CONTRA REDES DE CORRUPCIÓN (UFERCO), dependencia del Ministerio Público, podrá ejercer la acción pública penal de oficio en los casos de corrupción pública de alto impacto y redes de corrupción, sin que deba someter su decisión a la aprobación previa del Fiscal General ni de ninguna otra autoridad, tal como ha sido la dinámica normal de trabajo con el resto de la Fiscalías comunes, fiscalías locales, regionales, fiscalías especiales y unidades especiales en todo el país.
+UNIDAD FISCAL ESPECIALIZADA CONTRA REDES DE CORRUPCIÓN (UFERCO), dependencia del Ministerio Público, podrá ejercer la acción pública penal de oficio en los casos de corrupción pública de alto impacto y redes de corrupción, sin que deba someter su decisión a la aprobación previa del Fiscal General ni de ninguna otra autoridad, tal como ha sido la dinámica normal de trabajo con el resto de la Fiscalías comunes, fiscalías locales, regionales, fiscalías especiales y unidades especiales en todo el país.
 
 El Jefe de la UFERCO tiene la responsabilidad de informar al Director General de Fiscales sobre las investigaciones que inicie de oficio o instancia de denunciantes y de los requerimientos fiscales que presente a los órganos jurisdiccionales.
 
@@ -59,11 +59,11 @@ El personal de la UFERCO también podrá apersonarse a cualquier institución p�
 
 #### Artículo 2
 
-ARTÍCULO 2.- Los fiscales adscritos a la UNIDAD FISCAL ESPECIALIZADA C O N T R A R E D E S D E C O R R U P C I Ó N ( U F E R C O) podrán informar a la población y los medios de comunicación, sobre los requerimientos fiscales que presenten ante los órganos jurisdiccionales de la República, salvo aquella información que por su propia naturaleza deba ser reservada para la etapa del juicio oral y público, así como todas las incidencias que se produzcan durante las diferentes etapas de un proceso penal.
+ARTÍCULO 2.- Los fiscales adscritos a la UNIDAD FISCAL ESPECIALIZADA CONTRA REDES DE CORRUPCIÓN ( UFERCO) podrán informar a la población y los medios de comunicación, sobre los requerimientos fiscales que presenten ante los órganos jurisdiccionales de la República, salvo aquella información que por su propia naturaleza deba ser reservada para la etapa del juicio oral y público, así como todas las incidencias que se produzcan durante las diferentes etapas de un proceso penal.
 
 #### Artículo 3
 
-ARTÍCULO 3.- El personal que esté asignado e n l a U N I D A D F I S C A L ESPECIALIZADA CONTRA REDES DE CORRUPCIÓN (UFERCO) gozará de inamovilidad de sus cargos mientras dure la vigencia de este Decreto y no podrán ser objeto de sanciones disciplinarias por las investigaciones que realicen ni por el ejercicio de la acción pública penal de oficio, a excepción de aquellas conductas que riñan con la ética y el correcto y eficiente desempeño profesional o que transgredan la normativa disciplinaria del Ministerio Público.
+ARTÍCULO 3.- El personal que esté asignado en la UNIDAD FISCAL ESPECIALIZADA CONTRA REDES DE CORRUPCIÓN (UFERCO) gozará de inamovilidad de sus cargos mientras dure la vigencia de este Decreto y no podrán ser objeto de sanciones disciplinarias por las investigaciones que realicen ni por el ejercicio de la acción pública penal de oficio, a excepción de aquellas conductas que riñan con la ética y el correcto y eficiente desempeño profesional o que transgredan la normativa disciplinaria del Ministerio Público.
 
 El jefe de la UFERCO podrá solicitar restitución, remoción o traslado cuando él lo considere conveniente o pertinente derivado del incumplimiento de sus responsabilidades o a solicitud del servidor. Solicitud que será resuelta de inmediato.
 

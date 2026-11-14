@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Certificación - Acuerdo No. COPRISAONo. 61-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200103-35139/download"
 extraido: "2026-11-14"
-huella: "ca797ffedd2e8b33"
+huella: "a4614ee11522d2ad"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,13 +27,13 @@ huella: "ca797ffedd2e8b33"
 
 ## Texto
 
-El infrascrito, Comisionado Secretario de la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) certifica el ACUERDO COPRISAO No.61 firmado en fecha 24 días del mes de diciembre de 2019 que literalmente dice”:
+El infrascrito, Comisionado Secretario de la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) certifica el ACUERDO COPRISAO No. 61 firmado en fecha 24 días del mes de diciembre de 2019 que literalmente dice”:
 
 ACUERDO No. COPRISAO No. 61-2019 Tegucigalpa, M.D.C., 24 de diciembre del 2019
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-083-2016 del 22 de noviembre de 2016, se crea la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) y mediante Decreto Ejecutivo No. PCM 007-2017 de fecha 21 de marzo del 2017, la Dirección Adjunta de Rentas Aduaneras (DARA), queda bajo autoridad directa de COPRISAO, con el propósito de elevar los niveles de calidad de servicio al usuario, competencia en igualdad de condiciones, competitividad, eficiencia fiscal y administrativa, facilitación comercial, simplificación administrativa y armonización de los procesos aduaneros, transparencia, seguridad y certeza en el servicio aduanero de Honduras, validándolo a través de los parámetros de medición establecidos.
 
-CONSIDERANDO: Que mediante Acuerdo No.72-2019 del 21 de agosto del 2019 se nombra al Abogado JUAN JOSE VIDES MEJÍA como Presidente de la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO).
+CONSIDERANDO: Que mediante Acuerdo No. 72-2019 del 21 de agosto del 2019 se nombra al Abogado JUAN JOSE VIDES MEJÍA como Presidente de la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO).
 
 CONSIDERANDO: Que mediante PCM 059-2019 del 27 de septiembre del 2019, publicado en el Diario Oficial La Gaceta el 30 de septiembre del 2019, se Decreta: Suprimir y liquidar a más tardar el 31 de diciembre del 2019 a la Dirección Adjunta de Rentas Aduaneras (DARA).
 

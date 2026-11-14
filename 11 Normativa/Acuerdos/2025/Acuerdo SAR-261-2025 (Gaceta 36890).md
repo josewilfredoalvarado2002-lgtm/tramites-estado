@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Acuerdos Números SAR-211-2025,SAR-261-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250715-36890/download"
 extraido: "2026-11-09"
-huella: "b62a99b086c84785"
+huella: "c37c87b0f8d93579"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-261-2025
@@ -45,7 +45,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 435-2022 de fecha 09 de sep
 
 CONSIDERANDO: Que el Artículo 197 numeral 1) del Código Tributario determina a la Directora Ejecutiva de la Administración Tributaria como la responsable de definir y ejecutar, entre otras, las políticas, estrategias, planes y programas administrativos y operativos, conforme a las políticas económicas, fiscal y tributaria del Estado y asimismo, el Artículo 199 del mismo Código establece expresamente sus atribuciones, siendo una de ellas la de aprobar los Acuerdos que contengan las normas internas de la institución, incluyendo aquellos instrumentos, normas y manuales que regulen la estructura organizacional y funcional de la Administración Tributaria.
 
-CONSIDERANDO: Que mediante Acuerdo número SAR- 002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), en la que se crearon las siguientes Direcciones, Oficinas Tributarias y Departamentos: Direcciones Nacionales, Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes de San Pedro Sula, Departamento de Fiscalidad Internacional y Precios de Transferencia asignada a la Dirección de Grandes Contribuyentes de Tegucigalpa, Dirección Departamental de Olancho, Dirección Departamental de El Paraíso, Dirección Departamental de Choluteca, Dirección Departamental de Comayagua, Dirección Departamental de Copán, Dirección Departamental de Santa Bárbara, Dirección Departamental de Colón y las Oficinas Tributarias de Nacaome, Marcala, La Esperanza, Gracias, Ocotepeque, Puerto Cortés, Peña Blanca, El Progreso y Roatán.
+CONSIDERANDO: Que mediante Acuerdo número SAR-002-2017 de fecha 03 de enero del 2017, publicado en el Diario Oficial “La Gaceta” número 34,229 de fecha 03 de enero del 2017, se aprobó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), en la que se crearon las siguientes Direcciones, Oficinas Tributarias y Departamentos: Direcciones Nacionales, Dirección Regional Centro Sur, Dirección Regional Noroccidente, Dirección Regional Nororiente, Dirección de Grandes Contribuyentes Tegucigalpa, Dirección de Grandes Contribuyentes de San Pedro Sula, Departamento de Fiscalidad Internacional y Precios de Transferencia asignada a la Dirección de Grandes Contribuyentes de Tegucigalpa, Dirección Departamental de Olancho, Dirección Departamental de El Paraíso, Dirección Departamental de Choluteca, Dirección Departamental de Comayagua, Dirección Departamental de Copán, Dirección Departamental de Santa Bárbara, Dirección Departamental de Colón y las Oficinas Tributarias de Nacaome, Marcala, La Esperanza, Gracias, Ocotepeque, Puerto Cortés, Peña Blanca, El Progreso y Roatán.
 
 CONSIDERANDO: Que mediante Acuerdos número SAR-227-2023 de fecha 30 de junio del 2023, número SAR-513-2023 de fecha 9 de octubre de 2023 y número SAR-403-2023 fecha 07 de agosto de 2023, publicados en el Diario Oficial “La Gaceta” respectivamente, se modificó la Estructura Organizacional del Servicio de Administración de Rentas (SAR), en los cuales se suprimieron, modificaron y adicionaron Direcciones Departamentales, Departamentos, Oficinas Tributarias y Unidades; estableciéndose las siguientes Direcciones: Dirección Ejecutiva, Sub-Dirección Ejecutiva, Secretaría General, Dirección Nacional de Gestión Estratégica, Dirección Nacional Jurídica, Dirección Nacional de Cumplimiento Tributario, Dirección Nacional Administrativa Financiera, Dirección Nacional de Tecnología, Dirección Nacional de Talento Humano, Departamento de Formación y Capacitación, Departamento de Comunicación, Imagen y Relaciones Públicas, Departamento de Auditoría Interna, Departamento de Inspectoría General y Departamento de Género.
 
@@ -69,7 +69,7 @@ CONSIDERANDO: Que como resultado del análisis efectuado a la gestión inherente
 
 CONSIDERANDO: Que dentro del Departamento de Inspectoría General después de haber realizado análisis en el funcionamiento interno del departamento, se ha identificado que por los temas propios de inspectoría e investigaciones que este realiza, es necesario que dichas investigaciones cuenten con evidencia objetiva y confiable, validez legal de la evidencia y protección de los activos digitales, por lo en aras de mejorar el funcionamiento interno se crea un Laboratorio Forense, que tendrá las funciones de apoyo técnico en las investigaciones, prevención de fraudes y corrupción, mejora de la Seguridad Informática y la Ciberseguridad entre otras.
 
-CONSIDERANDO: Que mediante Decretos No. 149- 2013, contentivo de la Ley Sobre Firma Electrónica y su reglamentación contenida en el Decreto No. 41-2024, facultan al Estado de Honduras a implementar y utilizar el uso de la firma electrónica y/o digital en sus actuaciones oficiales, por lo que en el marco del proceso de modernización institucional, el Servicio de Administración de Rentas (SAR), procedió a dar cumplimento legal a efecto de garantizar la autenticidad y seguridad jurídica de los documentos digitales emitidos por esta, desarrollando para tal efecto una herramienta tecnológica que permita la interacción ágil, segura y eficiente entre la Administración Tributaria , los entes Públicos y Privados.
+CONSIDERANDO: Que mediante Decretos No. 149-2013, contentivo de la Ley Sobre Firma Electrónica y su reglamentación contenida en el Decreto No. 41-2024, facultan al Estado de Honduras a implementar y utilizar el uso de la firma electrónica y/o digital en sus actuaciones oficiales, por lo que en el marco del proceso de modernización institucional, el Servicio de Administración de Rentas (SAR), procedió a dar cumplimento legal a efecto de garantizar la autenticidad y seguridad jurídica de los documentos digitales emitidos por esta, desarrollando para tal efecto una herramienta tecnológica que permita la interacción ágil, segura y eficiente entre la Administración Tributaria, los entes Públicos y Privados.
 
 CONSIDERANDO: Que, el Servicio de Administración de Rentas (SAR), desde su creación en el año 2017 ha adquirido equipos tecnológicos de la más alta calidad para poder implementar la Firma Electrónica Avanzada, la que se ha utilizado internamente de forma exitosa y que en el año 2024 ha puesto la disposición de instituciones públicas y obligados tributarios para que, con el nuevo sistema SIISAR puedan presentar todo tipo de solicitudes en línea. Para atender la carga administrativa que implica el enrolamiento de los nuevos usuarios de Firma Electrónica Avanzada se ve necesario la creación de la Unidad Digital, órgano responsable de ejercer las funciones técnicas y administrativas derivadas de Firma Electrónica Avanzada y las demás que se consideren necesarias, esta unidad estará adscrita a Secretaría General para efectos de su coordinación y supervisión.
 
@@ -81,11 +81,11 @@ CONSIDERANDO: Que los actos de los órganos de la Administración Pública adopt
 
 POR TANTO
 
-El Servicio de Administración de Rentas (SAR), en uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos: 1, 321, 323 y 351 de la Constitución de la República; 8, 195, 197, 198 y 199 del Decreto Legislativo No. 170-2016, contentivo del Código Tributario; 7, 43, 45,116, 118, 119 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto No. 149- 2013, contentivo de la Ley Sobre Firma Electrónica y su reglamentación contenida en el Decreto No. 41-2024; 27 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo No. PCM-008-97; Acuerdo Ejecutivo 001-2017; Acuerdo Ejecutivo No. 202-2024; Acuerdo Ejecutivo No. 435-2022;
+El Servicio de Administración de Rentas (SAR), en uso de las facultades que la Ley le confiere y en aplicación de lo establecido en los Artículos: 1, 321, 323 y 351 de la Constitución de la República; 8, 195, 197, 198 y 199 del Decreto Legislativo No. 170-2016, contentivo del Código Tributario; 7, 43, 45,116, 118, 119 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto No. 149-2013, contentivo de la Ley Sobre Firma Electrónica y su reglamentación contenida en el Decreto No. 41-2024; 27 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo No. PCM-008-97; Acuerdo Ejecutivo 001-2017; Acuerdo Ejecutivo No. 202-2024; Acuerdo Ejecutivo No. 435-2022;
 
 Acuerdo No. SAR-002-2017; Acuerdo No. SAR-227-2023;
 
-Acuerdo No. SAR-513-2023; Acuerdo No. SAR- 403-2023; y, disposiciones legales aplicables.
+Acuerdo No. SAR-513-2023; Acuerdo No. SAR-403-2023; y, disposiciones legales aplicables.
 
 ACUERDA:
 
@@ -121,9 +121,7 @@ QUINTO: Se instruye a la Dirección Nacional de Talento Humano (DNTH) realizar l
 
 SEXTO: Se instruye a la Dirección Nacional de Administrativa Financiera (DNAF) que realice las gestiones presupuestarias para cubrir todos los gastos operativos que se deriven de la creación y funcionamiento de las diferentes áreas creadas en el presente acuerdo.
 
-SÉPTIMO: La demás disposiciones en los Acuerdos No.
-
-SAR-227-2023 de fecha 30 de junio del 2023 y sus reformas quedan vigentes.
+SÉPTIMO: La demás disposiciones en los Acuerdos No. SAR-227-2023 de fecha 30 de junio del 2023 y sus reformas quedan vigentes.
 
 OCTAVO: El presente Acuerdo es efectivo a partir del uno
 

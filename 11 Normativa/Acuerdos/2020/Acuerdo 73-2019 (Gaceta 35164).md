@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "Acuerdos Ejecutivos Nos. 73-2019, 076-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200201-35164/download"
 extraido: "2026-11-14"
-huella: "820fdea3c2c352f0"
+huella: "8c931c436b17f3cf"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 73-2019
@@ -217,15 +217,11 @@ ARTÍCULO 19. Las Autoridad Reguladora tendrá la función primordial de otorgar
 
 #### Artículo 20
 
-ARTÍCULO 20. Sin perjuicio a lo establecido en la presente sección, el otorgamiento de autorizaciones para instalaciones radiactivas y equipos generadores de radiaciones ionizantes se regirán por lo establecido en el Acuerdo Ejecutivo No.
-
-003-2014 que comprende el Reglamento de Autorizaciones de instalaciones Radiactivas y Equipos Generadores de Radiaciones Ionizantes, cuyas disposiciones primarán por sobre lo establecido al respecto en el presente reglamento.
+ARTÍCULO 20. Sin perjuicio a lo establecido en la presente sección, el otorgamiento de autorizaciones para instalaciones radiactivas y equipos generadores de radiaciones ionizantes se regirán por lo establecido en el Acuerdo Ejecutivo No. 003-2014 que comprende el Reglamento de Autorizaciones de instalaciones Radiactivas y Equipos Generadores de Radiaciones Ionizantes, cuyas disposiciones primarán por sobre lo establecido al respecto en el presente reglamento.
 
 #### Artículo 21
 
-ARTÍCULO 21. La autorización es un permiso otorgado que puede constituir una licencia o un registro, a petición de un solicitante y apropiada a las especificidades de los elementos objeto de control regulador o según se establezca. Su vigencia estará regida por lo dispuesto en el Acuerdo Ejecutivo No.
-
-003-2014: Reglamento de Autorizaciones para Instalaciones Radiactivas y Equipos Generadores de Radiaciones Ionizantes.
+ARTÍCULO 21. La autorización es un permiso otorgado que puede constituir una licencia o un registro, a petición de un solicitante y apropiada a las especificidades de los elementos objeto de control regulador o según se establezca. Su vigencia estará regida por lo dispuesto en el Acuerdo Ejecutivo No. 003-2014: Reglamento de Autorizaciones para Instalaciones Radiactivas y Equipos Generadores de Radiaciones Ionizantes.
 
 #### Artículo 22
 
@@ -515,9 +511,7 @@ De las Medidas de Seguridad o Protección Física
 
 ARTÍCULO 58. Para prevenir los daños que puedan producirse producto del robo, hurto, pérdida o sabotaje de materiales nucleares o radiactivos, equipos o aparatos que los contengan, de equipos generadores de radiaciones ionizantes, de las instalaciones nucleares o radiactivas, los titulares de licencia deben adoptar medidas de seguridad o protección física de acuerdo con los requisitos establecidos en las regulaciones vigentes y en las condiciones de la autorización otorgada.
 
-Para lo anterior, el solicitante de licencia deberá dar cumplimiento a lo establecido en el Acuerdo Ejecutivo No.
-
-005-2015 que comprende el Reglamento de Protección Física de los Materiales Nucleares y Radiactivos.
+Para lo anterior, el solicitante de licencia deberá dar cumplimiento a lo establecido en el Acuerdo Ejecutivo No. 005-2015 que comprende el Reglamento de Protección Física de los Materiales Nucleares y Radiactivos.
 
 #### Artículo 59
 

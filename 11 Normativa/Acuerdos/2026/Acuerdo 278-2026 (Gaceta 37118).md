@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Acuerdos Ejecutivos Nos. 037-A-2026, 038-A-2026, 049-A-2026, 051-A-2026, 061-2026, 069-A-2026, 170-2026, 178-2026, 180-2026, 181-2026, 182-2026, 183-2026, 191-2026, 196-2026, 198-2026, 201-2026, 221-2026, 241-2026, 242-2026, 253-2026, 254-2026, 255-2026, 256-2026, 278-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260416-37118/download"
 extraido: "2026-11-09"
-huella: "f53bc9a999486cb2"
+huella: "69271bd91cc4bf45"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 278-2026
@@ -57,7 +57,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 33, 47, 49, 57 y 61 de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No.363-2013.
+ARTÍCULO 1.- Reformar los artículos 33, 47, 49, 57 y 61 de la LEY ORGÁNICA DEL PODER LEGISLATIVO, contenida en Decreto No. 363-2013.
 
 CENTROS DE DISTRIBUCIÓN:
 

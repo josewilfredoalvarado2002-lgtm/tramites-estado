@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo SAR-653-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240319-36489/download"
 extraido: "2026-11-14"
-huella: "2dab72252f24b202"
+huella: "63a61d1cd6fc21a7"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAR-653-2023
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 195 del Decreto Legislativo númer
 
 CONSIDERANDO: Que, mediante el Decreto Legislativo No. 232-2011, publicado en el Diario Oficial “La Gaceta” No. 32,621 el 10 de diciembre de 2011, se aprobó la Ley de Regulación de Precios de Transferencia, que tiene como objeto regular las operaciones comerciales y financieras que se realizan entre partes relacionadas o vinculadas, valoradas de acuerdo con el principio de libre o plena competencia.
 
-CONSIDERANDO: Que, mediante el Acuerdo No. 027- 2015, publicado en el Diario Oficial “La Gaceta” el 18 de septiembre de 2015, se aprobó el Reglamento de la Ley de Regulación de Precios de Transferencia, que tiene por objeto desarrollar las disposiciones contenidas en la Ley de Regulación de Precios de Transferencia.
+CONSIDERANDO: Que, mediante el Acuerdo No. 027-2015, publicado en el Diario Oficial “La Gaceta” el 18 de septiembre de 2015, se aprobó el Reglamento de la Ley de Regulación de Precios de Transferencia, que tiene por objeto desarrollar las disposiciones contenidas en la Ley de Regulación de Precios de Transferencia.
 
 CONSIDERANDO: Que la Administración Tributaria (SAR) se propone aumentar la transparencia fiscal internacional y reforzar el acceso de las respectivas autoridades tributarias a la información sobre el reparto de los ingresos, los tributos pagados e indicadores de la asignación de la actividad económica entre las jurisdicciones en las que operan los Grupos Multinacionales. En ese sentido, se recurre al intercambio automático de los Informes País por País anuales, con el objetivo de efectuar una evaluación global de los riesgos de precios de transferencia y otros riesgos relacionados con la erosión de la base imponible y el traslado de beneficios, así como para efecto de realizar análisis económicos y estadísticos, cuando procedan.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que la Agenda de Acción de Addis Abeba de la Tercera Conferencia 
 
 CONSIDERANDO: Que el Artículo 17 de la Ley de Regulación de Precios de Transferencia, señala la obligatoriedad de los obligados tributarios de presentar a la Administración Tributaria la declaración del impuesto, la información, los documentos y los análisis suficientes para valorar sus operaciones con partes relacionadas, obligación establecida sin perjuicio de cualquier información adicional que se requiera a petición de la Administración Tributaria.
 
-CONSIDERANDO: Que el Artículo 149 del Decreto 170- 2016 establece que por infracción se entiende toda acción u omisión que contravenga el ordenamiento jurídico tributario, siempre que se encuentre tipificado como tal en dicho código o en otras leyes tributarias vigentes, definiendo como falta todo incumplimiento de normas tributarias por comisión o por omisión que esté sancionado y tipificado en las leyes tributarias.- En este sentido, el Decreto Legislativo 232- 2011 en su Artículo 18 establece que constituye infracción tributaria, entre otras, no aportar o aportar con datos falsos, o manifiestamente incompletos o inexactos la información o documentación que en su momento se exija por la Administración Tributaria.
+CONSIDERANDO: Que el Artículo 149 del Decreto 170-2016 establece que por infracción se entiende toda acción u omisión que contravenga el ordenamiento jurídico tributario, siempre que se encuentre tipificado como tal en dicho código o en otras leyes tributarias vigentes, definiendo como falta todo incumplimiento de normas tributarias por comisión o por omisión que esté sancionado y tipificado en las leyes tributarias.- En este sentido, el Decreto Legislativo 232-2011 en su Artículo 18 establece que constituye infracción tributaria, entre otras, no aportar o aportar con datos falsos, o manifiestamente incompletos o inexactos la información o documentación que en su momento se exija por la Administración Tributaria.
 
 CONSIDERANDO: Que los Artículos 19 y 36 de la Ley de Regulación de Precios de Transferencia y su Reglamento, respectivamente, establecen el régimen sancionador para la comisión de infracciones tributarias en materia de Precios de Transferencia.
 
@@ -191,7 +191,7 @@ Artículo 160 del Código Tributario.
 
 \1) del Artículo 19 de la Ley de Regulación de Precios de Transferencia, por incumplir lo establecido en el numeral 1) del Artículo 18 de la misma Ley.
 
-OCTAVO: De acuerdo con el Artículo 17 del Decreto 232- 2011, el Informe País por País establecido en este Acuerdo forma parte de la información que debe ser presentada ante la Administración Tributaria, con el objetivo de alinear la documentación de precios de transferencia según lo previsto en la Acción 13 del Proyecto BEPS de la OCDE.
+OCTAVO: De acuerdo con el Artículo 17 del Decreto 232-2011, el Informe País por País establecido en este Acuerdo forma parte de la información que debe ser presentada ante la Administración Tributaria, con el objetivo de alinear la documentación de precios de transferencia según lo previsto en la Acción 13 del Proyecto BEPS de la OCDE.
 
 NOVENO: FECHA DE ENTRADA EN VIGOR
 
@@ -199,7 +199,7 @@ El presente Acuerdo surtirá efectos respecto de los Ejercicios Fiscales Reporta
 
 TRANSITORIO. Las disposiciones previstas en el Numeral 2 del Acuerda SEGUNDO quedan suspendidas hasta que el Director Ejecutivo de la Administración Tributaria las restablezca, mediante un comunicado general.
 
-PUBLÍQUESE. - MARLON DAVID OCHOA MARTÍNEZ DIRECTOR EJECUTIVO NIDIA SARAHÍ BERRÍOS MARTÍNEZ SECRETARIA GENERAL ANEXO ACUERDO SAR- 653-2023 Documentación sobre precios de Transferencia ¨Informe País por País¨.
+PUBLÍQUESE. - MARLON DAVID OCHOA MARTÍNEZ DIRECTOR EJECUTIVO NIDIA SARAHÍ BERRÍOS MARTÍNEZ SECRETARIA GENERAL ANEXO ACUERDO SAR-653-2023 Documentación sobre precios de Transferencia ¨Informe País por País¨.
 
 A. Plantillas Modelo para el ¨Informe País por País¨.
 

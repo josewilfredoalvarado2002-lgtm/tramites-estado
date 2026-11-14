@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 101-2026, 121-2026, 154-2026, 157-2026, 158-2026, 159-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260918-37249/download"
 extraido: "2026-11-09"
-huella: "f48cbe1d27fbc6ac"
+huella: "bb3890a6ebbe7f97"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 101-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que es responsabilidad del Congreso Nacional apoyar a las instituc
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

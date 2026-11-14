@@ -11,7 +11,7 @@ paginas: "A. 5 - 16"
 sumario: "Acuerdo No. 0368-SE-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210603-35617/download"
 extraido: "2026-11-14"
-huella: "6808ab090a7b912d"
+huella: "352cdc973decf489"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0368-SE-2020
@@ -39,9 +39,7 @@ CONSIDERANDO: Que las Modalidades de Educación son las opciones organizativas y
 
 Las modalidades de educación entre otras: f) educación en casa, que es el proceso que desarrolla la educación de personas en el contexto del hogar o en círculos comunitarios fuera de los establecimientos educativos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°.
-
-1367-SE-2014, el Presidente Constitucional de la República, aprueba el Reglamento de Educación en Casa, teniendo como finalidad el establecimiento de las estrategias que permitan dar seguimiento al desarrollo de la educación en casa, en los aspectos administrativos y curriculares; los mecanismos de coordinación entre la Secretaría de Estado en el Despacho de Educación, las personas, asociaciones o instituciones que desarrollen la educación en casa; el proceso de democratización del sistema nacional de educación y elevar la calidad de la educación.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 1367-SE-2014, el Presidente Constitucional de la República, aprueba el Reglamento de Educación en Casa, teniendo como finalidad el establecimiento de las estrategias que permitan dar seguimiento al desarrollo de la educación en casa, en los aspectos administrativos y curriculares; los mecanismos de coordinación entre la Secretaría de Estado en el Despacho de Educación, las personas, asociaciones o instituciones que desarrollen la educación en casa; el proceso de democratización del sistema nacional de educación y elevar la calidad de la educación.
 
 POR TANTO:
 

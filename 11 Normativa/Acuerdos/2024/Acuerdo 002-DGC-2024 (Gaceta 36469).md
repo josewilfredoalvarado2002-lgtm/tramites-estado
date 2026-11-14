@@ -11,7 +11,7 @@ paginas: "A. 1 - 25"
 sumario: "Acuerdo Nos. 002-DGC-2024, 003-DGC2024, 004-DGC-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240224-36469/download"
 extraido: "2026-11-14"
-huella: "66bd205a1a0d908c"
+huella: "f1aa433f25502d22"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 002-DGC-2024
@@ -29,9 +29,7 @@ huella: "66bd205a1a0d908c"
 
 DIRECCIÓN GENERAL DE CINEMATOGRAFÍA
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 3-2019, de fecha 29 de enero de 2019, se crea como ente Rector de las actividades cinematográficas en Honduras a la Dirección General de Cinematografía (DGC), como un Órgano Desconcentrado de la Presidencia de la República, con personalidad jurídica y patrimonio propio, funcionará con independencia técnica, administrativa y financiera, su organización, funcionamiento y atribuciones se regulan en la presente Ley y sus Reglamentos.
 
 CONSIDERANDO: Que mediante Acuerdo No. 106-2023 de fecha 17 de Abril de 2023, se nombró al ciudadano MANUEL ANTONIO VILLA CRUZ, en el cargo de Director General de Cinematografía.
 
@@ -73,13 +71,11 @@ Esta Dirección General de Cinematografía en uso de las facultades que está in
 
 ACUERDA:
 
-PRIMERO: Dar por aprobado el MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS, versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS DE LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No.1. Versión 1.0
+PRIMERO: Dar por aprobado el MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS, versión 1.0 del año 2024 y de aplicación inmediata a todos los agentes participantes que literalmente dice MANUAL BÁSICO DE SOLICITUDES ADMINISTRATIVAS DE LA DIRECCIÓN GENERAL DE CINEMATOGRAFÍA Manual No. 1. Versión 1.0
 
 1. Introducción Este manual está diseñado para brindar a las personas interesadas en la industria cinematográfica una guía detallada sobre los procedimientos y requisitos necesarios para presentar solicitudes ante la Dirección General de Cinematografía coincida bajo su marca como IHCINE.
 
-La Dirección General Cinematografía (DGC) es un órgano desconcentrado de la Presidencia de la República, con personería jurídica y patrimonio propio, creada mediante Decreto Legislativo No.
-
-3-2019 y su implementación debido a la pandemia derivada del COVID-19, comienza el 18 de diciembre del 2020.
+La Dirección General Cinematografía (DGC) es un órgano desconcentrado de la Presidencia de la República, con personería jurídica y patrimonio propio, creada mediante Decreto Legislativo No. 3-2019 y su implementación debido a la pandemia derivada del COVID-19, comienza el 18 de diciembre del 2020.
 
 La Dirección General de Cinematografía se compromete a fomentar y promover el desarrollo del arte cinematográfico en Honduras facilitando el acceso a recursos, permisos y apoyo a los profesionales y entusiastas de la industria del cine.
 

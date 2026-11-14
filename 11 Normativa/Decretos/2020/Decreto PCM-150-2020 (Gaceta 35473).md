@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201230-35473/download"
 extraido: "2026-11-14"
-huella: "f2ab75a289ce5954"
+huella: "01754245be000107"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-150-2020
@@ -37,9 +37,7 @@ Artículo 11 de la Ley General de la Administración Pública, el Presidente de 
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 14 numerales 1 y 4 de la Ley General de la Administración Pública, reformado mediante el Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir, dentro de la Administración Centralizada, las normas requeridas para: Determinar las competencias de los Despachos por las Secretarias Estado y crear dependencias internas que fueren necesarias para la buena administración; reorganizar aquellas dependencias que la eficiencia de la Administración Pública demande.
 
-CONSIDERANDO: Que la actual Secretaría de Estado en el Despacho de Finanzas, precisa de una estructura administrativa adaptada al Reglamento de Gobierno Electrónico, establecido mediante el Decreto Ejecutivo Número PCM-086-2020 publicado en el Diario Oficial “La Gaceta” en fecha del 26 de septiembre del 2020, Edición No.
-
-35,383.
+CONSIDERANDO: Que la actual Secretaría de Estado en el Despacho de Finanzas, precisa de una estructura administrativa adaptada al Reglamento de Gobierno Electrónico, establecido mediante el Decreto Ejecutivo Número PCM-086-2020 publicado en el Diario Oficial “La Gaceta” en fecha del 26 de septiembre del 2020, Edición No. 35,383.
 
 POR TANTO, En ejercicio de las facultades de que está investido y en aplicación de los Artículos 245 numerales 1, 2, 11, 252, 255, 321 y 323 de la Constitución de la República; Artículos 11, 14 numerales 1 y 4, 7, 22 numerales 3), 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013.
 
@@ -61,7 +59,7 @@ b. Crear comités o mesas de trabajo para la atención de temas o proyectos espe
 
 c. Informar al Secretario de Estado en el Despacho de Finanzas, la existencia de desafíos en la adopción de estrategias derivada para la implementación del Reglamento sobre Gobierno Electrónico;
 
-d. Enlace directo con el órgano encargado de la gobernanza del Ecosistema de Gobierno Electrónico establecido en el Decreto Ejecutivo Número PCM- 086-2020; y,
+d. Enlace directo con el órgano encargado de la gobernanza del Ecosistema de Gobierno Electrónico establecido en el Decreto Ejecutivo Número PCM-086-2020; y,
 
 e. Las demás designadas por el Secretario de Estado en el Despacho de Finanzas.
 

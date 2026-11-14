@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo número 079-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220902-36018/download"
 extraido: "2026-11-14"
-huella: "05294c4cdc52c552"
+huella: "5340301088142229"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 079-2022
@@ -45,13 +45,13 @@ CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería, mediante OFICIO-SA
 
 CONSIDERANDO: De conformidad con lo establecido en el artículo 4 del Decreto Ejecutivo PCM-007-2012, la asignación del contingente de desabasto de arroz granza se hará en base a los porcentajes de compra nacional de la cosecha nacional anterior (2021).
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Tercero del Acuerdo No. SAG- 219-2022, que las empresas ARROZ Y DERIVADOS, S.A., UNION GUAYMAS, BENEFICIO GUAYAPE, ARROCERA ELENITA GUZMAN, HONDURICE, BEPROAGRO Y ARROPAC, no se incluye en la distribución del contingente de desabasto de arroz granza para el año 2022, en vista que no realizaron compras de arroz granza nacional durante la cosecha 2021, según informe emitido por AGROBOLSA; por consiguiente, no cumplieron con lo establecido en el Artículo 4 del Decreto Ejecutivo PCM-007-2012.
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería indica en el Ordinal Tercero del Acuerdo No. SAG-219-2022, que las empresas ARROZ Y DERIVADOS, S.A., UNION GUAYMAS, BENEFICIO GUAYAPE, ARROCERA ELENITA GUZMAN, HONDURICE, BEPROAGRO Y ARROPAC, no se incluye en la distribución del contingente de desabasto de arroz granza para el año 2022, en vista que no realizaron compras de arroz granza nacional durante la cosecha 2021, según informe emitido por AGROBOLSA; por consiguiente, no cumplieron con lo establecido en el Artículo 4 del Decreto Ejecutivo PCM-007-2012.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo Económico, Administra los Contingentes de tal manera que se permita la utilización total de los contingentes de importación para asegurar el abastecimiento adecuado de bienes de primera necesidad.
 
 POR TANTO:
 
-En aplicación de los Artículos 80 de la Constitución de la República; 36 Numeral 8); 116 y 118 de la Ley de Administración Pública, 54 del Decreto Ejecutivo No. 08- 97, literal a) contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Decreto PCM-007-2012, Acuerdo No. SAG-219-2022 de fecha 17 de agosto de 2022.
+En aplicación de los Artículos 80 de la Constitución de la República; 36 Numeral 8); 116 y 118 de la Ley de Administración Pública, 54 del Decreto Ejecutivo No. 08-97, literal a) contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Decreto PCM-007-2012, Acuerdo No. SAG-219-2022 de fecha 17 de agosto de 2022.
 
 ACUERDA:
 

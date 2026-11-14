@@ -11,7 +11,7 @@ paginas: "A. 1 - 45"
 sumario: "Decretos Legislativos Nos. 73-2020, 123-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200629-35298/download"
 extraido: "2026-11-14"
-huella: "58f0e2bf5aef5a23"
+huella: "4845b787b8188197"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 73-2020
@@ -29,11 +29,11 @@ huella: "58f0e2bf5aef5a23"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010, en su
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010, en su
 
 Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas, y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2239, suscrito el 18 de Diciembre de 2019, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta por un monto de OCHENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$80,000,000.00), fondos destinados a financiar el “Programa de Mejoramiento Integral de la Infraestructura y Formación Educativa en Honduras”, se ampara en el Artículo 70 del Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2239, suscrito el 18 de Diciembre de 2019, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta por un monto de OCHENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$80,000,000.00), fondos destinados a financiar el “Programa de Mejoramiento Integral de la Infraestructura y Formación Educativa en Honduras”, se ampara en el Artículo 70 del Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivo general fortalecer la educación en Honduras a través del mejoramiento de la infraestructura de los centros educativos que mejoren el acceso, permanencia y promoción con calidad de los educandos de los niveles prebásico, básico y medio, así como la formación docente que permita mejorar la calidad de la educación.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19, 30 y 36 de l
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -53,7 +53,7 @@ En la ciudad de Tegucigalpa, República de Honduras, a los dieciocho días del m
 
 DE UNA PARTE: EL BANCO CENTROAMERICANO DE
 
-INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG- 17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°. de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
+INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE”, representado en este acto por el señor Dante Ariel Mossi Reyes, mayor de edad, soltero, hondureño, Doctor en Economía, con Tarjeta de Identidad No. 0801-1968-02818, actuando en su condición de Presidente Ejecutivo y Representante Legal del BCIE. El señor Dante Ariel Mossi Reyes acredita su representación mediante Resolución de la Asamblea de Gobernadores del BCIE No. AG-17/2018 de fecha 1 de octubre de 2018, mediante la cual fue electo Presidente Ejecutivo del BCIE por un período de cinco años, contados desde el 1°. de diciembre de 2018 hasta el 30 de noviembre de 2023. De conformidad con el Artículo 20 del Convenio Constitutivo del BCIE, el Presidente Ejecutivo es el funcionario de mayor jerarquía en la conducción administrativa del BCIE y tiene la representación legal de la Institución, teniendo facultades suficientes para este otorgamiento; y, DE OTRA PARTE: LA REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por la señora Rocío Izabel Tábora Morales, mayor de edad, soltera, hondureña, Máster en Ciencias Sociales, Tarjeta de Identidad No. 0401-1964-00466, actuando en su condición de Secretaria de Estado en el Despacho de Finanzas, de la República de Honduras. Ambos, debidamente autorizados y con suficiente capacidad para celebrar el presente acto, tal y como se acredita con los documentos de autorización contenidos en el Anexo A del presente; han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato”, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 

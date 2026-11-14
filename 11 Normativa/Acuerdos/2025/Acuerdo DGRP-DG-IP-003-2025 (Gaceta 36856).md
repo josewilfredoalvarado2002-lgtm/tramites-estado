@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdo No. DGRP-DG-IP-003-2025, CD-IP-015-2019, DGRP-DG-IP-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250605-36856/download"
 extraido: "2026-11-10"
-huella: "01a5dddfbb45e4c0"
+huella: "79dec930de9d135b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-DG-IP-003-2025
@@ -29,9 +29,7 @@ huella: "01a5dddfbb45e4c0"
 
 El Director General de Regularización Predial del Instituto de la Propiedad.- Tegucigalpa, M.D.C., 09 de mayo del 2025.
 
-CONSIDERANDO: Que mediante artículo 4 del Decreto Nº.
-
-82-2004 de fecha veintiocho de mayo del año 2004, se creó el Instituto de la Propiedad (IP) como un ente desconcentrado de la Presidencia de la República. Con personalidad jurídica y patrimonio propio, funcionando con independencia técnica administrativa y financiera y ejerciendo sus funciones en todo el territorio nacional.
+CONSIDERANDO: Que mediante artículo 4 del Decreto Nº. 82-2004 de fecha veintiocho de mayo del año 2004, se creó el Instituto de la Propiedad (IP) como un ente desconcentrado de la Presidencia de la República. Con personalidad jurídica y patrimonio propio, funcionando con independencia técnica administrativa y financiera y ejerciendo sus funciones en todo el territorio nacional.
 
 CONSIDERANDO: Que según lo establecido en el Artículo 3 de la Ley de Propiedad. Son objetivos de la presente Ley:
 

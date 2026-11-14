@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo número 502-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221123-36084/download"
 extraido: "2026-11-14"
-huella: "c0cb6e9d1cda0f30"
+huella: "9334ce05c8c71a65"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 502-2022
@@ -45,9 +45,7 @@ CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuan
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, conforme a Ley autorizará las exoneraciones, exenciones y otras franquicias fiscales otorgadas por leyes especiales presentes y futuras previo dictamen facultativo de las Secretarías de Estado y otras entidades competentes sin que estos dictámenes u opiniones tengan el carácter vinculante.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-290-2021, de fecha 20 de mayo del año 2021, se nombró al ciudadano MARIO GUILLERMO VALLADARES ALCERRO, en el cargo de Subdirector de la Dirección General de Control de Franquicias Aduaneras (DGCFA).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 290-2021, de fecha 20 de mayo del año 2021, se nombró al ciudadano MARIO GUILLERMO VALLADARES ALCERRO, en el cargo de Subdirector de la Dirección General de Control de Franquicias Aduaneras (DGCFA).
 
 POR TANTO
 

@@ -11,7 +11,7 @@ paginas: "A. 14 - 20"
 sumario: "Acuerdos Nos. DSEGRCNC-01-2021, 04-2021, 05-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210922-35725/download"
 extraido: "2026-11-14"
-huella: "044f4e05a6632c99"
+huella: "54c3d198ac75dafd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DSEGRCNC-01-2021
@@ -65,7 +65,7 @@ ACUERDO No. DSEGRCNC-04-2021 Tegucigalpa M.D.C., 11 de agosto del 2021 SECRETAR�
 
 CONSIDERANDO: Que según Decreto Ejecutivo número PCM -057-2019, publicado en el Diario Oficial “La Gaceta” en fecha doce (12) de septiembre del año dos mil diecinueve (2019), se crea bajo el artículo 1, Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No.125- 2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), fue nombrado el ciudadano MAX ALEJAN­ DRO GONZALES SABILLÓN como Secretario de Esta­ do en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 125-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), fue nombrado el ciudadano MAX ALEJAN­ DRO GONZALES SABILLÓN como Secretario de Esta­ do en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República de Honduras, la Ley o los que señalen los Reglamentos.
 
@@ -77,7 +77,7 @@ CONSIDERANDO:
 
 Que la Ley General de la Administración Pública en su artículo 36 numeral 1 versa “1).Orientar, dirigir, coordinar, supervisar y controlar las actividades de sus respectivos despachos, sin perjuicio de las atribuciones que la Constitución y las leyes confieran a otros órganos”.
 
-CONSIDERANDO: Que según el Contrato de Servicios Personales No. 698-2021 de fecha uno (01) de junio del año dos mil veintiuno (2021), se contrató a la ciudadana MARÍA JOSÉ MATUTE MORAZÁN, con Identidad 0801-1990- 06235 en el cargo de Sub Director dependiente de la Unidad Médica de Emergencia (UME), de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Na­ cionales (COPECO).
+CONSIDERANDO: Que según el Contrato de Servicios Personales No. 698-2021 de fecha uno (01) de junio del año dos mil veintiuno (2021), se contrató a la ciudadana MARÍA JOSÉ MATUTE MORAZÁN, con Identidad 0801-1990-06235 en el cargo de Sub Director dependiente de la Unidad Médica de Emergencia (UME), de la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Na­ cionales (COPECO).
 
 CONSIDERANDO: Que tomando en consideración las múltiples ocupaciones encomendadas al Secretario de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO) y con el fin de simplificar los diferentes trámites administrativos, que a diario se presentan en esta Secretaría de Estado.
 
@@ -101,9 +101,9 @@ ACUERDO No. DSEGRCNC-05-2021 Tegucigalpa M.D.C., 13 de agosto del 2021 SECRETAR�
 
 CONSIDERANDO: Que según Decreto Ejecutivo número PCM -057-2019, publicado en el Diario Oficial “La Gaceta” en fecha doce (12) de Septiembre del año dos mil diecinueve (2019), se crea bajo el artículo 1, Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
 
-CONSIDERANDO: Que según ACUERDO EJECUTIVO No.125-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), fue nombrado el ciudadano MAX ALEJANDRO GONZALES SABILLÓN como Secretario de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
+CONSIDERANDO: Que según ACUERDO EJECUTIVO No. 125-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), fue nombrado el ciudadano MAX ALEJANDRO GONZALES SABILLÓN como Secretario de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
 
-CONSIDERANDO: Que mediante ACUERDO No. 98- 2021 de fecha doce (12) de agosto del año dos mil veintiuno (2021), fue nombrado el ciudadano JOSUE DAVID MEJÍA RIVERA, como Subcomisionado para la Prevención de Riesgos en la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
+CONSIDERANDO: Que mediante ACUERDO No. 98-2021 de fecha doce (12) de agosto del año dos mil veintiuno (2021), fue nombrado el ciudadano JOSUE DAVID MEJÍA RIVERA, como Subcomisionado para la Prevención de Riesgos en la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales (COPECO).
 
 CONSIDERANDO: Que en fecha doce (12) de agosto del año dos mil veintiuno (2021), se emitió CERTIFICACIÓN del ACUERDO No. 98-2021, asignado al ciudadano JOSUE DAVID MEJÍA RIVERA.
 

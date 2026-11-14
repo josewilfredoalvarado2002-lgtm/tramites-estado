@@ -11,7 +11,7 @@ paginas: "A. 20 - 21"
 sumario: "Acuerdo Números 280-2026, 319-2026, 325-2026, 361-2026, 362-2026, 365-2026, 396-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "a68ab6dd8f1b701d"
+huella: "766b9bf79750c6cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 325-2026
@@ -47,7 +47,7 @@ Que el artículo 10 del Decreto Ejecutivo No. PCM-047-2015, establece: La Direcc
 
 CONSIDERANDO:
 
-Que mediante Acuerdo Número 04- 2026 de fecha 27 de enero del año 2026, el Presidente Constitucional de la República nombra al ciudadano Emilio Hernández Hércules como Secretario de Estado en el Despacho de Finanzas.
+Que mediante Acuerdo Número 04-2026 de fecha 27 de enero del año 2026, el Presidente Constitucional de la República nombra al ciudadano Emilio Hernández Hércules como Secretario de Estado en el Despacho de Finanzas.
 
 ACUERDA:
 
@@ -59,9 +59,7 @@ EDUARDO JOSÉ CARDONA
 
 PAZ, en el cargo de SUB
 
-DIRECTOR EJECUTIVO, Institución 104 Dirección Nacional de Bienes del Estado, Gerencia Administrativa: 001 Gerencia Central, Unidad Ejecutora: 01 Dirección Nacional de Bienes del Estado, Programa: 11 Regulación de Bienes del Estado, Sub-Programa: 00, Proyecto: 00, Actividad u obra: 01 Dirección y Coordinación, Grupo y Nivel: 00- 00, Puesto Excluido, Puesto No.
-
-0020, Sueldo L. 76,992.07, a partir del 04 de mayo de 2026.
+DIRECTOR EJECUTIVO, Institución 104 Dirección Nacional de Bienes del Estado, Gerencia Administrativa: 001 Gerencia Central, Unidad Ejecutora: 01 Dirección Nacional de Bienes del Estado, Programa: 11 Regulación de Bienes del Estado, Sub-Programa: 00, Proyecto: 00, Actividad u obra: 01 Dirección y Coordinación, Grupo y Nivel: 00-00, Puesto Excluido, Puesto No. 0020, Sueldo L. 76,992.07, a partir del 04 de mayo de 2026.
 
 SEGUNDO:
 

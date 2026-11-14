@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201124-35439/download"
 extraido: "2026-11-14"
-huella: "250d2a5a072db6da"
+huella: "9fae0cef2d375162"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 001-SEDH-2020
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el 07 de diciembre de 2018, la Comisión Interamericana de Der
 
 De igual manera, el artículo 7 de la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer.
 
-CONSIDERANDO: Que el 30 de abril de 2019, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras mediante comunicación de 09 de mayo de 2019, sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH- 8-2019 Hernández y otros vs Honduras. Posteriormente, el 11 de agosto de 2020, la Corte IDH notificó al Estado de Honduras la celebración de la audiencia virtual para los días 11 y 12 de noviembre de 2020, para recibir las declaraciones ofrecidas por las partes, escuchar los alegatos y observaciones finales.
+CONSIDERANDO: Que el 30 de abril de 2019, la CIDH sometió el caso a la competencia contenciosa de la Corte Interamericana de Derechos Humanos (Corte IDH), siendo notificado el Estado de Honduras mediante comunicación de 09 de mayo de 2019, sobre el sometimiento y su tramitación ante la Corte IDH con la referencia: CDH-8-2019 Hernández y otros vs Honduras. Posteriormente, el 11 de agosto de 2020, la Corte IDH notificó al Estado de Honduras la celebración de la audiencia virtual para los días 11 y 12 de noviembre de 2020, para recibir las declaraciones ofrecidas por las partes, escuchar los alegatos y observaciones finales.
 
 CONSIDERANDO: Que luego de un minucioso análisis a los términos y documentación que sustenta dicha petición ante el Sistema Interamericano de Derechos Humanos, se ha concluido que resulta conveniente para el Estado de Honduras contar con Acuerdo Ejecutivo mediante el cual se otorguen las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar convenios de conformidad a los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, para que se pueda hacer uso de las referidas facultades durante el litigio del CDH-8-2019 Hernández y otros vs Honduras.
 
@@ -65,7 +65,7 @@ En el ejercicio de las facultades que le otorgan los artículos 228 y 245 inciso
 
 ACUERDA:
 
-PRIMERO: Autorizar a la Procuraduría General de la República, en su condición de representante legal del Estado de Honduras ante la Corte Interamericana de Derechos Humanos, para que ejerza las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar convenios, contempladas en los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, a fin de que las mismas puedan ser ejercidas en el momento procesal oportuno, dada la complejidad del asunto y las particularidades de los hechos alegados, en el Caso CDH- 8-2019 Hernández y otros vs Honduras.
+PRIMERO: Autorizar a la Procuraduría General de la República, en su condición de representante legal del Estado de Honduras ante la Corte Interamericana de Derechos Humanos, para que ejerza las facultades de expresa mención de desistir, absolver posiciones, renunciar de los recursos o los términos legales, conciliar, transigir, aprobar convenios, contempladas en los artículos 81 numeral 2 y 82 numeral 2 del Código Procesal Civil, a fin de que las mismas puedan ser ejercidas en el momento procesal oportuno, dada la complejidad del asunto y las particularidades de los hechos alegados, en el Caso CDH-8-2019 Hernández y otros vs Honduras.
 
 SEGUNDO: El presente Acuerdo Ejecutivo es de ejecución inmediata y deberá publicarse en el Diario Oficial “La Gaceta”.
 

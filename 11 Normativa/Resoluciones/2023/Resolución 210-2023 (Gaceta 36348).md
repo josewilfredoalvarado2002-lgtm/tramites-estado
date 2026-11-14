@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Número No. 210-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231002-36348/download"
 extraido: "2026-11-14"
-huella: "15c3f02046f1f8a3"
+huella: "2533704efb710e66"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 210-2023
@@ -115,7 +115,7 @@ DE LA JUNTA DIRECTIVA
 
 #### Artículo 13
 
-ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora dé Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: a.- Un Presidente(a) . b.- Un vicepresidente(a) ; c.- Un Secretario(a). d.- Un Tesorero(a). e.- Un Fiscal, f.-Un Vocal primero; y, g.- Un Vocal segundo.
+ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva, es el órgano de gobierno más importante de la Junta Administradora dé Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: a.- Un Presidente(a) . b.- Un vicepresidente(a); c.- Un Secretario(a). d.- Un Tesorero(a). e.- Un Fiscal, f.-Un Vocal primero; y, g.- Un Vocal segundo.
 
 #### Artículo 14
 

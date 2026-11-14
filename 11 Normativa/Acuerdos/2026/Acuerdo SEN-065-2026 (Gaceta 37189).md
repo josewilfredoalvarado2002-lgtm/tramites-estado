@@ -11,7 +11,7 @@ paginas: "A. 17 - 21"
 sumario: "Acuerdos Nos. SEN-009-2026, SEN-010-2026, SEN-012-2026, SEN-014-2026, SEN-15-2026, SEN-30-2026, SEN-035-2026, SEN-036-2026, SEN-054-2026, SEN-055-2026, SEN-064-2026, SEN-065-2026, SEN-066-2026, SEN-068-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260709-37189/download"
 extraido: "2026-11-09"
-huella: "71abac3e87c92e6f"
+huella: "e4207fcc49b7260a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-065-2026
@@ -37,9 +37,7 @@ CONSIDERANDO: Que son atribuciones y deberes comunes a los Secretarios de Estado
 
 CONSIDERANDO: Que la Ley General de la Administración Pública dispone que las instituciones del Estado deben organizarse y funcionar bajo principios de eficiencia, eficacia, transparencia, coordinación y control, incorporando mecanismos técnicos que permitan la adecuada gestión de los recursos públicos.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; ampliándose dichas facultades mediante Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta en fecha 31 de diciembre de 2020.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017, se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional, y las políticas relacionadas con el desarrollo integral y sostenible del sector energético, el cual comprende entre otras facultades como: La institución encargada y con competencia en el ámbito de lo relacionado a la importación y refinación de Hidrocarburos, así como la importación, reexportación, exportación, distribución, almacenamiento y comercialización de los productos derivados de los hidrocarburos, conforme a las normas técnicas aprobadas para tal efecto, pudiendo establecer los requisitos jurídicos y técnicos así como los procedimientos y sanciones necesarias para su correcta regulación en atención al interés público y seguridad nacional; ampliándose dichas facultades mediante Decreto Ejecutivo No. PCM-007-2020 publicado en el Diario Oficial La Gaceta en fecha 31 de diciembre de 2020.
 
 CONSIDERANDO: Que los subsidios energéticos constituyen un instrumento de política pública de alto impacto económico y social, orientado a mitigar los efectos de la volatilidad de los precios internacionales sobre la población y la actividad productiva.
 

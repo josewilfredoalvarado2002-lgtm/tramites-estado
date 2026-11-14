@@ -11,7 +11,7 @@ paginas: "A. 22 - 24"
 sumario: "Acuerdos Nos. ADUANAS-DE-065-2023, ADUANAS-DE-066-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230922-36340/download"
 extraido: "2026-11-14"
-huella: "fcafc3ce5f58f750"
+huella: "a93f102e0e344232"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-066-2023
@@ -37,7 +37,7 @@ CONSIDERANDO: Que según lo dispone el Código Tributario en su artículo 197, l
 
 CONSIDERANDO: Que el artículo 98 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo establece que, la ejecución de proyectos financiados con recursos de la cooperación externa corresponderá exclusivamente a las Secretarías de Estado o a las instituciones autónomas, por razón de su competencia.
 
-CONSIDERANDO: Que en fecha 15 de mayo de 2023, se suscribió entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), el contrato de préstamo No.5694/BL-HO por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000.000.00) destinados a la ejecución del proyecto denominado “Proyecto de Fortalecimiento Institucional y Operativo de la Administración Aduanera”.
+CONSIDERANDO: Que en fecha 15 de mayo de 2023, se suscribió entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), el contrato de préstamo No. 5694/BL-HO por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000.000.00) destinados a la ejecución del proyecto denominado “Proyecto de Fortalecimiento Institucional y Operativo de la Administración Aduanera”.
 
 CONSIDERANDO: Que conforme a la CLÁUSULA
 
@@ -53,13 +53,13 @@ POR TANTO:
 
 En uso de las facultades de que está investido y con fundamento en los artículos 321 de la Constitución de la República; 195, 197 y 199 del Código Tributario, 116, 118 numeral 2), 119 y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26 y 27 de Ley de Procedimiento Administrativo;
 
-31 y 98 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Contrato de Préstamo No.5694/BL-HO.
+31 y 98 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Contrato de Préstamo No. 5694/BL-HO.
 
 ACUERDA:
 
 PRIMERO: Crear la Unidad Ejecutora de Proyecto
 
-(UEP) dentro de la Administración Aduanera de Honduras (ADUANAS), como un órgano no permanente y de duración definida por el tiempo que dure la ejecución del contrato, para asegurar la coordinada ejecución, seguimiento y evaluación del contrato de préstamo No.5694/BL-HO por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000.000.00) destinados a la ejecución del proyecto denominado “Fortalecimiento Institucional y Operativo de la Administración Aduanera”, quien tendrá a su cargo la administración de la operación del proyecto financiado con fondos externos ejecutados por ADUANAS, sobre la base de los compromisos establecidos en el referido contrato de préstamo suscrito entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+(UEP) dentro de la Administración Aduanera de Honduras (ADUANAS), como un órgano no permanente y de duración definida por el tiempo que dure la ejecución del contrato, para asegurar la coordinada ejecución, seguimiento y evaluación del contrato de préstamo No. 5694/BL-HO por un monto de Cincuenta Millones de Dólares de los Estados Unidos de América (US$50,000.000.00) destinados a la ejecución del proyecto denominado “Fortalecimiento Institucional y Operativo de la Administración Aduanera”, quien tendrá a su cargo la administración de la operación del proyecto financiado con fondos externos ejecutados por ADUANAS, sobre la base de los compromisos establecidos en el referido contrato de préstamo suscrito entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 SEGUNDO: La Unidad Ejecutora del Proyecto (UEP) tendrá entre otras las siguientes funciones:
 

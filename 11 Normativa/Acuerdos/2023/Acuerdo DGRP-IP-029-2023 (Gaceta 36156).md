@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. DGRP-IP-028-2023,DGRP-IP-029-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230215-36156/download"
 extraido: "2026-11-14"
-huella: "d9613c574bc5cb2f"
+huella: "c35c65a0bf556449"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-IP-029-2023
@@ -65,9 +65,7 @@ En cumplimiento a los deberes y atribuciones señalados en los artículos 321 de
 
 \9) 10), 55,60, 61, 62 y 67 y los Artículos 2, 15, 179, 181 literal
 
-e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No.
-
-CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
+e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No. CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
 
 ACUERDA:
 

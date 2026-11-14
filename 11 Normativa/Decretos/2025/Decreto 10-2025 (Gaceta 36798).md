@@ -11,7 +11,7 @@ paginas: "A. 4 - 16"
 sumario: "Decretos Nos. 8-2025, 10-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250324-36798/download"
 extraido: "2026-11-12"
-huella: "ec28abe7211419a1"
+huella: "0e1e405512332142"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 10-2025
@@ -49,7 +49,7 @@ ARTÍCULO 1.- Exonerar a la MANCOMUNIDAD MANCURISJ, conformada por las Municipal
 
 DIARIO OFICIAL DE LA REPÚBLICA DE HONDURAS DECANO DE LA PRENSA HONDUREÑA PARA MEJOR SEGURIDAD DE SUS PUBLICACIONES EDIS ANTONIO MONCADA Gerente General ELSA XIOMARA GARCIA FLORES Coordinadora y Supervisora EMPRESA NACIONAL DE ARTES GRÁFICAS E.N.A.G.
 
-Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL FACTURA PROFORMA No.230000063-2024CAM Camión:
+Colonia MirafIores Teléfono/Fax: Gerencia 2230-2520, 2230-1821 Administración: 2230-3026 CENTRO CÍVICO GUBERNAMENTAL FACTURA PROFORMA No. 230000063-2024CAM Camión:
 
 CRONER LKE 4X2 RIGIDO CON COMPACTADOR DE BASURA FERRARI DE 11M3/14YD3 Sleeper Cab (CAB-SLP) / Calm White Motor:
 

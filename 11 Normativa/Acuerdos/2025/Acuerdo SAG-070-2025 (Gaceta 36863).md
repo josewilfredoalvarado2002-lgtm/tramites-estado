@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. SAG-068-2025, SAG-069-2025, SAG-070-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250613-36863/download"
 extraido: "2026-11-10"
-huella: "5720d6824893a2d2"
+huella: "e66e67125bd8b0e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-070-2025
@@ -33,9 +33,7 @@ LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No.
-
-32-2025, de fecha veinticinco (25) de marzo del año dos mil venticinco (2025), se nombro al Ciudadano ROGER EMILIO MEDINA ORELLANA, en el cargo de Secretario General, en los Despachos de la Secretaría de Agricultura y Ganadería.
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 32-2025, de fecha veinticinco (25) de marzo del año dos mil venticinco (2025), se nombro al Ciudadano ROGER EMILIO MEDINA ORELLANA, en el cargo de Secretario General, en los Despachos de la Secretaría de Agricultura y Ganadería.
 
 CONSIDERANDO: Que para cumplir con los objetivos de la simplificación, se hace necesario delegar en el Secretario General por medio de quien ejerza su titularidad, el ejercicio de funciones en determinada materia como ser específicamente los actos de trámite cualquiera que sea su naturaleza siempre y cuando no impliquen aquellos que pongan fin al procedimiento administrativo, resuelvan recursos, reconozcan o limiten derechos de los particulares.
 
@@ -45,7 +43,7 @@ CONSIDERANDO: Que el Artículo 123 de la Ley General de la Administración Públ
 
 POR TANTO:
 
-En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos: 1, 2, 3, 4, 5 de la Ley de Procedimiento Administrativo; 36 numeral 8 y 19), 116, 118, 122, 123, de la Ley General de la Administración Pública; 17, 24, 27 y 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo PCM- 008-97 publicado en el Diario Oficial “La Gaceta” del 07 de junio de 1997.
+En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos: 1, 2, 3, 4, 5 de la Ley de Procedimiento Administrativo; 36 numeral 8 y 19), 116, 118, 122, 123, de la Ley General de la Administración Pública; 17, 24, 27 y 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo PCM-008-97 publicado en el Diario Oficial “La Gaceta” del 07 de junio de 1997.
 
 ACUERDA:
 

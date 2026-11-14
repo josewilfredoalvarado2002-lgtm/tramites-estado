@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos No. 47-2020, 63-2020, 66-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200601-35270/download"
 extraido: "2026-11-14"
-huella: "93afa2b6fbdf6fa9"
+huella: "ee6dbd4c126d765d"
 ---
 <!-- portal:inicio -->
 # DECRETO 47-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

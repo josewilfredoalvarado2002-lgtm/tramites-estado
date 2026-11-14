@@ -8,10 +8,10 @@ gaceta_numero: 37140
 gaceta_fecha: "2026-05-13"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37140 (2026-05-13)|La Gaceta 37140]]"
 paginas: "A. 1 - 3"
-sumario: "Resolución No. 4-2026-PLENO/CNPODER JUDICIALCertificación"
+sumario: "Resolución No. 4-2026-PLENO/CNPODER JUDICIAL: Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260513-37140/download"
 extraido: "2026-11-09"
-huella: "e60f84d9233c7490"
+huella: "40177ad326658494"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 4-2026-PLENO/CN
@@ -23,13 +23,13 @@ huella: "e60f84d9233c7490"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37140 (2026-05-13)\|La Gaceta 37140]] del 2026-05-13 |
 | Páginas | A. 1 - 3 |
-| Según el sumario de La Gaceta | Resolución No. 4-2026-PLENO/CNPODER JUDICIALCertificación |
+| Según el sumario de La Gaceta | Resolución No. 4-2026-PLENO/CNPODER JUDICIAL: Certificación |
 
 ## Texto
 
 El Congreso Nacional:
 
-RESOLUCIÓN No.4-2026/PLENO/CN. EL PLENO DEL CONGRESO NACIONAL, REUNIDOS EN LA CIUDAD DE TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL, A LOS CINCO (5) DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTISÉIS. VISTO:
+RESOLUCIÓN No. 4-2026/PLENO/CN. EL PLENO DEL CONGRESO NACIONAL, REUNIDOS EN LA CIUDAD DE TEGUCIGALPA, MUNICIPIO DEL DISTRITO CENTRAL, A LOS CINCO (5) DÍAS DEL MES DE MAYO DEL AÑO DOS MIL VEINTISÉIS. VISTO:
 
 El asunto sometido a la consideración de este Pleno del Congreso Nacional, referente a la necesidad de prorrogar por esta ÚLTIMA VEZ el plazo establecido por este Congreso Nacional de la República, para la designación de las vacantes de los funcionarios del Consejo Nacional Electoral (CNE) y del Tribunal de Justicia Electoral (TJE), con el fin de garantizar un proceso de selección transparente, meritocrático y conforme a los principios constitucionales y legales.
 

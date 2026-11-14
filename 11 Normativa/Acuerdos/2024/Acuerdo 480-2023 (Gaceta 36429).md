@@ -11,7 +11,7 @@ paginas: "A. 7 - 10"
 sumario: "Acuerdos Ejecutivos Números 462-2023, 463-2023, 480-2023, 481-2023, 482-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240109-36429/download"
 extraido: "2026-11-14"
-huella: "307f59dc2db979f1"
+huella: "cebe8f5e4dd19e36"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 480-2023
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto Legislativo No.83- 2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto Legislativo No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 

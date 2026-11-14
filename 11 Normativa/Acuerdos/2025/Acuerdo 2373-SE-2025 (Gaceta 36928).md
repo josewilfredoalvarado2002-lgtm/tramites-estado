@@ -11,7 +11,7 @@ paginas: "A. 5 - 12"
 sumario: "Acuerdo No. 2373-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250828-36928/download"
 extraido: "2026-11-09"
-huella: "1deb5da42c723edc"
+huella: "d2d898d0ea9c11c6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 2373-SE-2025
@@ -33,11 +33,11 @@ POR TANTO:
 
 En aplicación del artículo 36, numerales 1 y 8 de la Ley General de la Administración Pública.
 
-CONSIDERANDO: Que mediante Acuerdo No.1194- SE-2017, de fecha 24 de agosto del 2017, se autorizo en el Nivel Medio el Bachillerato Técnico Profesional con Orientación en Artes Plásticas, Artes Gráficas y en Formación Artística y Gestión Cultural, en la Escuela Nacional de “BELLAS ARTES” con domicilio en el Barrio Concepción, Municipio del Distrito Central, departamento de Francisco Morazán, a partir del 01 de febrero del año 2017 jornadas matutina y vespertina.
+CONSIDERANDO: Que mediante Acuerdo No. 1194- SE-2017, de fecha 24 de agosto del 2017, se autorizo en el Nivel Medio el Bachillerato Técnico Profesional con Orientación en Artes Plásticas, Artes Gráficas y en Formación Artística y Gestión Cultural, en la Escuela Nacional de “BELLAS ARTES” con domicilio en el Barrio Concepción, Municipio del Distrito Central, departamento de Francisco Morazán, a partir del 01 de febrero del año 2017 jornadas matutina y vespertina.
 
 ACUERDA:
 
-AMPLIAR EN CUANTO A INCLUIR: El domicilio en el Acuerdo No.1194 -SE-2017, de fecha 24 de agosto del 2017.
+AMPLIAR EN CUANTO A INCLUIR: El domicilio en el Acuerdo No. 1194 -SE-2017, de fecha 24 de agosto del 2017.
 
 EL CUAL SE LEE: 1.- Autorizar la Conversión en el nivel Medio del Bachillerato Técnico Profesional con Orientación en Artes Plásticas, Bachillerato Técnico Profesional con Orientación en Artes Gráficas al Bachillerato Técnico Profesional en Artes Gráficas, el Plan de Estudios de Maestro de Educación Primaria en Artes Plásticas por el Bachillerato Técnico Profesional en Formación Artística y Gestión Cultural, en la Escuela Nacional de Bellas Artes, con domicilio en el Barrio Concepción, Municipio del Distrito Central, departamento de Francisco Morazán, a partir del 10 de febrero del año 2017 jornada matutina y vespertina, con los planes de estudio y programas curriculares siguientes.
 

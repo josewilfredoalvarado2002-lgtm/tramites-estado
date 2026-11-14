@@ -8,10 +8,10 @@ gaceta_numero: 36276
 gaceta_fecha: "2023-07-08"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36276 (2023-07-08)|La Gaceta 36276]]"
 paginas: "A. 7 - 12"
-sumario: "Acuerdo No. CSJ-003-2023INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAHCertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICFAcuerdo No. 010-2023"
+sumario: "Acuerdo No. CSJ-003-2023; INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAH: CertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICF: Acuerdo No. 010-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230708-36276/download"
 extraido: "2026-11-14"
-huella: "14b5b7495bdc7313"
+huella: "9e81044ae19ced87"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 010-2023
@@ -23,15 +23,13 @@ huella: "14b5b7495bdc7313"
 | Emisor | PODER JUDICIAL |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36276 (2023-07-08)\|La Gaceta 36276]] del 2023-07-08 |
 | Páginas | A. 7 - 12 |
-| Según el sumario de La Gaceta | Acuerdo No. CSJ-003-2023INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAHCertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICFAcuerdo No. 010-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. CSJ-003-2023; INSTITUTO DE PREVISIÓN SOCIAL DE LOS EMPLEADOS DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS INPREUNAH: CertificaciónINSTITUTO NACIONAL DE CONSERVACIÓN FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE ICF: Acuerdo No. 010-2023 |
 
 ## Texto
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF).
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, por sus siglas (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que el ICF es el encargado de diseñar, formular, coordinar, dar seguimiento, ejecutar y evaluar las políticas relacionadas con el Sector Forestal, Áreas Protegidas y Vida Silvestre, siendo este la autoridad estatal encargada de la administración forestal del país.
 

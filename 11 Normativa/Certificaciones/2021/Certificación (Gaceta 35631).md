@@ -11,7 +11,7 @@ paginas: "A. 2 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210618-35631/download"
 extraido: "2026-11-14"
-huella: "956a7ecd1cb731fa"
+huella: "0f5e753627d70130"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "956a7ecd1cb731fa"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica:
 
-La Resolución que literalmente dice: “RESOLUCIÓN No. 1074- 2020. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
+La Resolución que literalmente dice: “RESOLUCIÓN No. 1074-2020. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
 
 Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, catorce de diciembre del dos mil veinte.
 

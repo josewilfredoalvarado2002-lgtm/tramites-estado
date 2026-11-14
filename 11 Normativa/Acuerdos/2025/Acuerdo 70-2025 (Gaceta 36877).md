@@ -11,7 +11,7 @@ paginas: "A. 6 - 12"
 sumario: "Acuerdos CREE-70-2025, CREE-78-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250630-36877/download"
 extraido: "2026-11-10"
-huella: "4c38114cb5716bc1"
+huella: "250344d5e0fbb7d4"
 ---
 <!-- portal:inicio -->
 # ACUERDO CREE 70-2025
@@ -53,7 +53,7 @@ b. Instruya a la Secretaría General para que:
 
 a) comunique el Informe de Resultados a los participantes de la consulta pública que hayan suministrado su correo electrónico, de conformidad con lo establecido en el artículo 10 del Procedimiento de Consulta Pública, b) publicar el acto administrativo en la página web de la Comisión Reguladora de Energía Eléctrica (CREE), conforme con lo establecido en el artículo 3 literal D romano XII de la Ley General de la Industria Eléctrica (LGIE)”.
 
-Considerando Que la Ley General de la Industria Eléctrica (LGIE), fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
+Considerando Que la Ley General de la Industria Eléctrica (LGIE), fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el veinte (20) de mayo del dos mil catorce (2014) y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica (LGIE), el Estado supervisará la operación del subsector eléctrico, a través de la Comisión Reguladora de Energía Eléctrica (CREE).
 

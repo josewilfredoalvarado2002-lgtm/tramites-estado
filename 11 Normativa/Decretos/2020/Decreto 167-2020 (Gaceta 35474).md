@@ -11,7 +11,7 @@ paginas: "A. 18 - 22"
 sumario: "Decretos Nos. 26-2020, 167-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201231-35474/download"
 extraido: "2026-11-14"
-huella: "38d1d0ee08a57eb1"
+huella: "6ae0d83a823779ce"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 167-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que los Oficiales enunciados han mantenido una sobresaliente ejecu
 
 CONSIDERANDO: Que es atribución del Poder Ejecutivo someter a consideración del Congreso Nacional, el Ascenso de Oficiales de la Policía Nacional de Honduras.
 
-CONSIDERANDO: Que corresponde a este Congreso Nacional, de conformidad al último párrafo del Artículo 43 de la Ley Orgánica de la Policía Nacional, reformado por el Decreto No.25-2013; Conferir los ascensos de la Escala Ejecutiva Superior a propuesta del Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Seguridad, previo dictamen del Directorio Estratégico de la Policía Nacional.
+CONSIDERANDO: Que corresponde a este Congreso Nacional, de conformidad al último párrafo del Artículo 43 de la Ley Orgánica de la Policía Nacional, reformado por el Decreto No. 25-2013; Conferir los ascensos de la Escala Ejecutiva Superior a propuesta del Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Seguridad, previo dictamen del Directorio Estratégico de la Policía Nacional.
 
 CONSIDERANDO: Que los Oficiales enunciados han mantenido una sobresaliente ejecutoria en el desempeño de su carrera profesional y han cumplido con los requisitos que establecen en la Ley Orgánica de la Policía Nacional de Honduras y el Manual de Procedimientos para el Proceso de Ascenso de la Policía Nacional, para ser declarados aptos para el Ascenso al Grado Inmediato Superior.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

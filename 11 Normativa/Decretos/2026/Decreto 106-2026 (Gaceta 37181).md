@@ -11,7 +11,7 @@ paginas: "A. 21 - 22"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "7c72085af55750fd"
+huella: "4bb822fbb2fbe5e8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 106-2026
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -89,7 +89,7 @@ PROVEEDOR:
 
 CORPORACIÓN FLORES, S.A.
 
-El vehículo objeto de la presente e x o n e r a c i ó n s e r á d e s t i n a d o exclusivamente al servicio de salud, atención de emergencias médicas, traslado de pacientes y demás actividades de asistencia humanitaria desarrolladas por la Municipalidad de Yauyupe.
+El vehículo objeto de la presente exoneración será destinado exclusivamente al servicio de salud, atención de emergencias médicas, traslado de pacientes y demás actividades de asistencia humanitaria desarrolladas por la Municipalidad de Yauyupe.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 2"
 sumario: "Acuerdos Ejecutivos Nos. 106-2025,107-2025, 108-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250730-36903/download"
 extraido: "2026-11-09"
-huella: "85c4033b928aeab0"
+huella: "378a1a8e06bbba19"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 107-2025
@@ -31,11 +31,11 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 En uso de sus atribuciones y en aplicación de los artículos: 235 y 245 numerales 5 y 11 de la Constitución de la República;
 
-11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41- 2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
+11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM-41-2024, publicado en fecha 30 de diciembre del 2024, edición número 36,727.
 
 ACUERDA:
 
-PRIMERO: Nombrar al ciudadano Luis Alonso Rosales Cardoza, en el cargo de Comisionado Adjunto de la Comisión Interventora del Sistema Penitenciario Nacional, en el marco del artículo 2, segundo párrafo del Decreto Ejecutivo PCM- 41-2024.
+PRIMERO: Nombrar al ciudadano Luis Alonso Rosales Cardoza, en el cargo de Comisionado Adjunto de la Comisión Interventora del Sistema Penitenciario Nacional, en el marco del artículo 2, segundo párrafo del Decreto Ejecutivo PCM-41-2024.
 
 SEGUNDO: La vigencia del presente Acuerdo Ejecutivo, será a partir del dieciséis (16) de julio del dos mil veinticinco (2025) hasta el treinta y uno (31) de diciembre del dos mil veinticinco (2025).
 

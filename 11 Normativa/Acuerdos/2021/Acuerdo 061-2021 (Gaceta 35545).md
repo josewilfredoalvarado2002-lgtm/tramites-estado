@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos ministeriales Nos. 060-2021, 061-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210316-35545/download"
 extraido: "2026-11-14"
-huella: "07399a25f6a8726a"
+huella: "ed4eb6b141fd2c62"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 061-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 247 de la Constitución de la República establec
 
 CONSIDERANDO: Que el Artículo 29 de la Ley General de la Administración Pública estipula que a la Secretaría de Estado en el Despacho de Desarrollo Económico, le compete lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con el fomento y desarrollo de la industria, la tecnología, promo­ ción de inversiones, imagen de país, de los parques indus­ triales y zonas libres, la relación del gobierno nacional con las Zonas de Empleo y Desarrollo Económico (ZEDE), el comercio nacional e internacional de bienes y servicios, la promoción de las exportaciones, la integración económica, el desarrollo empresarial, la inversión privada, la ciencia y la tecnología, la gestión de la calidad, los pesos y medidas, el cumplimiento de lo dispuesto en las Leyes de Protección al Consumidor y la defensa de la competencia; la investi­ gación, rescate y difusión del acervo cultural de la nación, la educación artística y la identificación, conservación y protección del patrimonio histórico y cultural de la nación; el desarrollo de las políticas relacionadas con el turismo, así como fomentar el desarrollo de la oferta turística y promo­ ver su demanda, regular y supervisar la presentación de los servicios turísticos y en general, desarrollar toda clase de actividades que dentro de su competencia, tiendan a favo­ recer y acrecentar las inversiones y las corrientes turísticas nacionales y del exterior.
 
-CONSIDERANDO: Que en fecha 17 de agosto de 2017, mediante el Acuerdo No.078-2017, la Secretaría de Estado en el Despacho de Desarrollo Económico delegó en los órganos administrativos de la Dirección Regional Noroccidental la facultad de firmar resoluciones, autos, provi­ dencias, comunicaciones, dictámenes, constancias y demás actuaciones relacionadas con las solicitudes presentadas en dicha Dirección en sus respectivos ramos.
+CONSIDERANDO: Que en fecha 17 de agosto de 2017, mediante el Acuerdo No. 078-2017, la Secretaría de Estado en el Despacho de Desarrollo Económico delegó en los órganos administrativos de la Dirección Regional Noroccidental la facultad de firmar resoluciones, autos, provi­ dencias, comunicaciones, dictámenes, constancias y demás actuaciones relacionadas con las solicitudes presentadas en dicha Dirección en sus respectivos ramos.
 
 CONSIDERANDO: Que es necesario establecer normas claras en la coordinación de los órganos regionales de la Secretaría de Estado en el Despacho de Desarrollo Econó­ mico.
 

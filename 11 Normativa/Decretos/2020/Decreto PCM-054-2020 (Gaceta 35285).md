@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200616-35285/download"
 extraido: "2026-11-14"
-huella: "4cf7bd78a33f38cb"
+huella: "5318ee146bf4bbfb"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-054-2020
@@ -37,13 +37,9 @@ CONSIDERANDO: Que la Ley General de la Administración Pública establece en el 
 
 CONSIDERANDO: Que el Artículo 22 de la Ley General de la Administración Pública establece: “El Consejo de Secretarios de Estado, tienen entre otras las atribuciones siguientes: 1)…; 2)… 3) Crear, modificar, fusionar, escindir o suprimir dependencias de la Administración Pública; 6) Crear, mantener y suprimir los servicios públicos y tomar las medidas que sean necesarias para el buen funcionamiento de los mismos;…”
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM 067-2019, publicado en el Diario Oficial “La Gaceta” en fecha 10 de enero de 2020 en su Edición No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM 067-2019, publicado en el Diario Oficial “La Gaceta” en fecha 10 de enero de 2020 en su Edición No. 35,145, se creó la Comisión Interventora de la ENEE con facultades para ejecutar acciones administrativas encaminadas a lograr el mejoramiento de su situación administrativa, operativa y financiera.
 
-35,145, se creó la Comisión Interventora de la ENEE con facultades para ejecutar acciones administrativas encaminadas a lograr el mejoramiento de su situación administrativa, operativa y financiera.
-
-CONSIDERANDO: Que la ENEE aprobó en Junta Directiva la escisión de la ENEE como consta en la Resolución No.
-
-01-JD-EX-07-2015, para dar cumplimiento a Ley General de Industria Eléctrica.
+CONSIDERANDO: Que la ENEE aprobó en Junta Directiva la escisión de la ENEE como consta en la Resolución No. 01-JD-EX-07-2015, para dar cumplimiento a Ley General de Industria Eléctrica.
 
 POR TANTO;
 

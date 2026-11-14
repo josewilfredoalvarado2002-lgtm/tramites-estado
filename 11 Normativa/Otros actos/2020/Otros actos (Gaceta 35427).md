@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Aduanas DE-050-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201112-35427/download"
 extraido: "2026-11-14"
-huella: "25b08971a45a1e27"
+huella: "356d99d121f1fdf1"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Aduanas DE-050-2020
@@ -35,13 +35,11 @@ ACUERDO ADUANAS-DE-050-2020 ADMINISTRACIÓN ADUANERA DE HONDURAS Tegucigalpa, M.
 
 CONSIDERANDO: Que el Código Tributario aprobado mediante Decreto Legislativo No. 170-2016, en su Artículo 195 creó a la Administración Aduanera de Honduras como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019, se institucionaliza la nueva Administración Aduanera de Honduras en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019, se institucionaliza la nueva Administración Aduanera de Honduras en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
 
-170-2016, cuya denominación será Administración Aduanera de Honduras, a partir del uno de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Acuerdo No. 579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
 
-CONSIDERANDO: Que mediante Acuerdo No.579-2019 del 14 de noviembre del 2019, el Secretario Privado y Jefe del Gabinete Presidencial nombró al abogado JUAN JOSE VIDES MEJÍA como Director Ejecutivo de la Administración Aduanera de Honduras.
-
-CONSIDERANDO: Que de conformidad al Decreto 170- 2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
+CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
 
 CONSIDERANDO: Que los países miembros de la Organización Mundial de Aduanas (OMA), entre ellos Honduras, el 23 de junio del 2005, adoptaron el Marco Normativo para Asegurar y Facilitar el Comercio Global (Marco SAFE), el cual promueve un comercio mundial más seguro y confiable, con un nuevo enfoque en los métodos de trabajo en las relaciones entre Aduanas y Empresas.
 
@@ -55,9 +53,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 198 numeral 12
 
 CONSIDERANDO: Que el Artículo 28 del Código Aduanero Uniforme Centroamericano (CAUCA), define a los Operadores Económicos Autorizados, en adelante denominado OEA, como personas que podrán ser habilitados por el Servicio Aduanero para facilitar el despacho de sus mercancías, y el Reglamento del Código Aduanero Uniforme Centroamericano (RECAUCA), establece la forma de regular a los OEA en los
 
-Artículos del 159 al 166, reformado mediante Resolución No.
-
-368-2015 (COMIECO-LXXIII) del 22 de octubre del 2015.
+Artículos del 159 al 166, reformado mediante Resolución No. 368-2015 (COMIECO-LXXIII) del 22 de octubre del 2015.
 
 CONSIDERANDO: Que el presente Acuerdo fue sometido a proceso de consulta pública previa del 26 de julio de 2020 al 14 de agosto del mismo año, en cumplimiento a lo establecido en el Acuerdo de Facilitación de Comercio.
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Decretos Nos. 183-2026, 189-2026, 192-2026, 195-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260923-37253/download"
 extraido: "2026-11-09"
-huella: "dd82f8d21bd15d88"
+huella: "81d7968acf4fcff2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 189-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que existe un presupuesto técnico de referencia por DOS MILLONES 
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República de Honduras, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

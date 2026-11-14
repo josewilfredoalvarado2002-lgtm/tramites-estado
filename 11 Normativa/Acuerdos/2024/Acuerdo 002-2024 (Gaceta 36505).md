@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Acuerdos Nos. 001-2024, 002-2024, 005-2024, 010-2024, 012-2024, 023-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240410-36505/download"
 extraido: "2026-11-14"
-huella: "a10986677b40abb6"
+huella: "6c0f8c4e97bd514b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 002-2024
@@ -43,7 +43,7 @@ CONSIDERANDO: Que las áreas protegidas son aquellas áreas, cualquiera fuere su
 
 CONSIDERANDO: Que el Área Protegida “Parque Nacional Capiro y Calentura”, fue creado mediante Decreto Legislativo número 22-2016, publicado en el Diario Oficial La Gaceta en fecha 13 de agosto del año dos mil dieciséis, cuyo objetivo primordial es conservar los recursos naturales y la biodiversidad en los diferentes ecosistemas, regulando las actividades productivas, turísticas, regulación hídrica y pesquera, considerando su importancia en la captación de las principales fuentes de abastecimiento de agua para el municipio de Trujillo y Santa Fe.
 
-CONSIDERANDO: Que según Dictamen Técnico DAP- 167-2023, emitido por el Departamento de Áreas Protegidas, el plan de manejo ha sido elaborado de conformidad con los procedimientos establecidos en la guía para la elaboración de plan de manejo en áreas protegidas del SINAPH vigente, específicamente en lo relacionado a la zonificación, normas de uso de los recursos naturales y las estrategias de manejo del área.- La elaboración del plan de manejo fue liderado por la Oficina Local de Tocoa y la Región Forestal de Atlántida, con el apoyo de la Municipalidad de Trujillo, Municipalidad de Santa Fe, entidad co-manejadora ASIDE, entre otros y fue ampliamente socializado con todos los sectores de interés, particularmente con las dos comunidades del pueblo afrohondureño Garifuna Cristales y Río Negro y la Tribu Pech, ubicada en la comunidad de Silin y Moradel.
+CONSIDERANDO: Que según Dictamen Técnico DAP-167-2023, emitido por el Departamento de Áreas Protegidas, el plan de manejo ha sido elaborado de conformidad con los procedimientos establecidos en la guía para la elaboración de plan de manejo en áreas protegidas del SINAPH vigente, específicamente en lo relacionado a la zonificación, normas de uso de los recursos naturales y las estrategias de manejo del área.- La elaboración del plan de manejo fue liderado por la Oficina Local de Tocoa y la Región Forestal de Atlántida, con el apoyo de la Municipalidad de Trujillo, Municipalidad de Santa Fe, entidad co-manejadora ASIDE, entre otros y fue ampliamente socializado con todos los sectores de interés, particularmente con las dos comunidades del pueblo afrohondureño Garifuna Cristales y Río Negro y la Tribu Pech, ubicada en la comunidad de Silin y Moradel.
 
 CONSIDERANDO: Que la Dirección Legal, ha recomendado mediante Dictamen DL-243-2023 que se declare CON LUGAR la aprobación del Plan de Manejo del Área Protegida “Capiro y Calentura”, con jurisdicción entre los municipios de Trujillo y Santa Fe, departamento de Colón por cumplir con todos los requisitos necesarios, para este tipo de documento a ejecutarse dentro de áreas protegidas.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 9"
 sumario: "Decretos Nos. 45-2023, 47-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230901-36323/download"
 extraido: "2026-11-14"
-huella: "5065c6b1d99c7d53"
+huella: "554408ad8da2449f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 45-2023
@@ -31,17 +31,17 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública y ha asumido el firme compromiso de proteger a la población más vulnerable, fomentando un crecimiento económico inclusivo, combatiendo la corrupción estructural, fortaleciendo la transparencia, publicidad de sus actuaciones y mejorando la gestión financiera desde una visión de lo público, para lo cual es necesario continuar implementando medidas que garanticen la ejecución de la inversión pública.
 
-CONSIDERANDO: Que mediante Decreto No.48-2012 de fecha 17 de abril de 2012 y publicado en el Diario Oficial “La Gaceta” No.32,828 de fecha 24 de mayo de 2012, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No.HND-4, suscrito el 16 de febrero de 2012, entre el Export-Import Bank de Corea y el Gobierno de la República de Honduras, por un monto de hasta Treinta y Tres Millones Veintidós Mil Dólares de los Estados Unidos de América (US$33,022,000.00), fondos destinados a financiar la ejecución del Proyecto:
+CONSIDERANDO: Que mediante Decreto No. 48-2012 de fecha 17 de abril de 2012 y publicado en el Diario Oficial “La Gaceta” No. 32,828 de fecha 24 de mayo de 2012, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No.HND-4, suscrito el 16 de febrero de 2012, entre el Export-Import Bank de Corea y el Gobierno de la República de Honduras, por un monto de hasta Treinta y Tres Millones Veintidós Mil Dólares de los Estados Unidos de América (US$33,022,000.00), fondos destinados a financiar la ejecución del Proyecto:
 
 Construcción del Hospital Regional del Sur en Choluteca, el cual transcurridos once (11) años no se ejecutó, a pesar de estar disponibles casi la totalidad de los recursos.
 
-CONSIDERANDO: Que mediante Decreto No.85-2015 de fecha 27 de agosto de 2015 y publicado en el Diario Oficial “La Gaceta” No.33,881 de fecha 12 de noviembre de 2015, se aprobó en todas y cada una de sus partes el Contrato de Financiación FI No.84859, suscrito en fecha 11 de junio de 2015 entre el Banco Europeo de Inversiones (BEI) y el Gobierno de la República de Honduras, por un monto de hasta Ochenta y Nueve Millones Doscientos Mil Dólares de los Estados Unidos de América (US$89,200,000.00), fondos destinados a financiar la ejecución del Proyecto de Rehabilitación Vial del Corredor de Occidente: La Entrada- Copán Ruinas-El Florido y La Entrada-Santa Rosa de Copán, el cual fue destruido por las Tormentas Tropicales Eta e Iota, presentando quince (15) fallas y quedando a la fecha un remanente de Diez Millones Ciento Sesenta y Cuatro Mil Cuatrocientos Ochenta y Tres Dólares de los Estados Unidos de América con 37/100 (US$10,164,483.37) que pueden ser utilizados para su reparación.
+CONSIDERANDO: Que mediante Decreto No. 85-2015 de fecha 27 de agosto de 2015 y publicado en el Diario Oficial “La Gaceta” No. 33,881 de fecha 12 de noviembre de 2015, se aprobó en todas y cada una de sus partes el Contrato de Financiación FI No. 84859, suscrito en fecha 11 de junio de 2015 entre el Banco Europeo de Inversiones (BEI) y el Gobierno de la República de Honduras, por un monto de hasta Ochenta y Nueve Millones Doscientos Mil Dólares de los Estados Unidos de América (US$89,200,000.00), fondos destinados a financiar la ejecución del Proyecto de Rehabilitación Vial del Corredor de Occidente: La Entrada- Copán Ruinas-El Florido y La Entrada-Santa Rosa de Copán, el cual fue destruido por las Tormentas Tropicales Eta e Iota, presentando quince (15) fallas y quedando a la fecha un remanente de Diez Millones Ciento Sesenta y Cuatro Mil Cuatrocientos Ochenta y Tres Dólares de los Estados Unidos de América con 37/100 (US$10,164,483.37) que pueden ser utilizados para su reparación.
 
-CONSIDERANDO: Que mediante Decreto No.27-2018 de fecha 20 de marzo de 2018 y publicado en el Diario Oficial “La Gaceta” No.34,682 de fecha 3 de julio de 2018, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No.4449/BL-HO, suscrito en fecha 2 de febrero de 2018, entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras, por un monto de hasta Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), fondos destinados a financiar la ejecución del Programa de Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo:
+CONSIDERANDO: Que mediante Decreto No. 27-2018 de fecha 20 de marzo de 2018 y publicado en el Diario Oficial “La Gaceta” No. 34,682 de fecha 3 de julio de 2018, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No. 4449/BL-HO, suscrito en fecha 2 de febrero de 2018, entre el Banco Interamericano de Desarrollo (BID) y el Gobierno de la República de Honduras, por un monto de hasta Sesenta Millones de Dólares de los Estados Unidos de América (US$60,000,000.00), fondos destinados a financiar la ejecución del Programa de Mejora de la Calidad Educativa para el Desarrollo de Habilidades para el Empleo:
 
 Proyecto Joven, el cual vence en fecha 3 de julio de 2023, pero apenas tiene una ejecución acumulada de 52.1%.
 
-CONSIDERANDO: Que mediante Decreto No.79-2021 de fecha 7 de septiembre de 2021 y publicado en el Diario Oficial “La Gaceta” No.35,735 de fecha 2 de octubre de 2021, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No. 2282, suscrito en fecha 20 de agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE) y el Gobierno de la República de Honduras, por un monto de hasta Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), fondos destinados a financiar la ejecución del Programa Bono de Alivio a Familias Vulnerables Afectadas por Fenómenos Naturales Producto del Cambio Climático, con vencimiento el 12 de mayo de 2023, con una ejecución acumulada del 20%.
+CONSIDERANDO: Que mediante Decreto No. 79-2021 de fecha 7 de septiembre de 2021 y publicado en el Diario Oficial “La Gaceta” No. 35,735 de fecha 2 de octubre de 2021, se aprobó en todas y cada una de sus partes el Contrato de Préstamo No. 2282, suscrito en fecha 20 de agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE) y el Gobierno de la República de Honduras, por un monto de hasta Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), fondos destinados a financiar la ejecución del Programa Bono de Alivio a Familias Vulnerables Afectadas por Fenómenos Naturales Producto del Cambio Climático, con vencimiento el 12 de mayo de 2023, con una ejecución acumulada del 20%.
 
 CONSIDERANDO: Que según lo estipulado en el Artículo 123, numeral 5) del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, las ampliaciones de plazo de cierre, ejecución y período de desembolso requieren contar con el setenta y cinco por ciento (75.0%) de los recursos comprometidos (independientemente de la fuente de financiamiento) según contrato suscrito del monto total del proyecto.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205, atribuc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ ARTÍCULO 1.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (S
 
 #### Artículo 2
 
-ARTÍCULO 2.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que solicite la ampliación del período de desembolso y ejecución del Contrato de Financiación FI No.84859, suscrito en fecha 11 de Junio de 2015 entre el Banco Europeo de Inversiones
+ARTÍCULO 2.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que solicite la ampliación del período de desembolso y ejecución del Contrato de Financiación FI No. 84859, suscrito en fecha 11 de Junio de 2015 entre el Banco Europeo de Inversiones
 
 (BEI) y el Gobierno de la República de Honduras, por un monto de hasta OCHENTA Y NUEVE MILLONES DOSCIENTOS MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$89,200,000.00), para financiar la ejecución del PROYECTO DE REHABILITACIÓN VIAL DEL CORREDOR DE OCCIDENTE:
 
@@ -73,7 +73,7 @@ ARTÍCULO 4.- Autorizar a la Secretaría de Estado en el Despacho de Finanzas (S
 
 #### Artículo 5
 
-ARTÍCULO 5.- Reformar del Artículo 123, el párrafo 2 así como el numeral 5) del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES EJERCICIO FISCAL 2023, contenido en el Decreto No.157-2022, del 12 de Enero de 2023, publicado en el Diario Oficial “La Gaceta” de fecha 12 de Enero de 2023, el cual deberá leerse de la manera siguiente:
+ARTÍCULO 5.- Reformar del Artículo 123, el párrafo 2 así como el numeral 5) del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES EJERCICIO FISCAL 2023, contenido en el Decreto No. 157-2022, del 12 de Enero de 2023, publicado en el Diario Oficial “La Gaceta” de fecha 12 de Enero de 2023, el cual deberá leerse de la manera siguiente:
 
 “ARTÍCULO 123.- Las ampliaciones...
 

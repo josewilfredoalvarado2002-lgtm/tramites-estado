@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 61-2021, 62-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210810-35683/download"
 extraido: "2026-11-14"
-huella: "f1890c7a4176d54b"
+huella: "f8f16201007de89e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 61-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la nueva Ley Electoral de Honduras entró en vigencia el 26 de
 
 (6) meses para la realización de las Elecciones Generales, hecho que dificulta la realización de los procesos de compras y adquisiciones siguiendo los procedimientos previstos por la Ley de Contratación del Estado y los reglamentos, especialmente la adquisición de los equipos de tecnología, debido a la inmediatez de los plazos.
 
-CONSIDERANDO: Que el Artículo 278 del Decreto No.35- 2021 de fecha 25 de mayo del año 2021, publicado el 26 de Mayo del 2021, en el Diario Oficial “La Gaceta”, en la Edición No.35,610, contentivo de la Ley Electoral de Honduras, ordena al Consejo Nacional Electoral (CNE) tener adjudicado el Sistema de Transmisión y Divulgación de Resultados Preliminares (TREP) cuatro (4) meses antes de la celebración de las elecciones generales, plazo que se cumple el 27 de Julio de 2021.
+CONSIDERANDO: Que el Artículo 278 del Decreto No. 35-2021 de fecha 25 de mayo del año 2021, publicado el 26 de Mayo del 2021, en el Diario Oficial “La Gaceta”, en la Edición No. 35,610, contentivo de la Ley Electoral de Honduras, ordena al Consejo Nacional Electoral (CNE) tener adjudicado el Sistema de Transmisión y Divulgación de Resultados Preliminares (TREP) cuatro (4) meses antes de la celebración de las elecciones generales, plazo que se cumple el 27 de Julio de 2021.
 
 CONSIDERANDO: Que ante la reciente aprobación de la Ley Electoral de Honduras, para garantizar la realización de las Elecciones Generales 2021, es oportuno aprobar un mecanismo extraordinario y transitorio que habilite al Consejo Nacional Electoral (CNE) contratar, bajo un proceso especial o de forma directa, el sistema de Transmisión y Divulgación de Resultados Preliminares (TREP) que se utilizará en las Elecciones Generales a celebrarse en Noviembre del año 2021, así como para lo relativo a la adquisición de suministros, bienes y servicios, ejecución de obras, arrendamiento de bienes y prestación de servicios de consultoría que sean necesarios para el desarrollo de dicho proceso electoral, cuya modalidad de contratación de acuerdo al monto, esté sujeto a proceso de Licitación o Concursos.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -75,7 +75,7 @@ En los casos no previstos en los párrafos anteriores, se aplicará de forma sup
 
 #### Artículo 3
 
-ARTÍCULO 3.- ADQUISICIONES MENORES. Los procesos de adquisiciones menores, que comprenden montos de CERO PUNTO CERO UNO CENTAVOS DE LEMPIRA A SEISCIENTOS MIL LEMPIRAS (L.0.01 A L.600,000.00), se ejecutarán conforme a lo establecido en el Artículo 71 de las Normas de Ejecución Presupuestaria del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, contenido en el Decreto No.182-2020, reformado mediante Decreto No.18-2021, de fecha 29 de Abril del 2021, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Abril del 2021, en su Edición No.35,587.
+ARTÍCULO 3.- ADQUISICIONES MENORES. Los procesos de adquisiciones menores, que comprenden montos de CERO PUNTO CERO UNO CENTAVOS DE LEMPIRA A SEISCIENTOS MIL LEMPIRAS (L.0.01 A L.600,000.00), se ejecutarán conforme a lo establecido en el Artículo 71 de las Normas de Ejecución Presupuestaria del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, contenido en el Decreto No. 182-2020, reformado mediante Decreto No. 18-2021, de fecha 29 de Abril del 2021, publicado en el Diario Oficial “La Gaceta” de fecha 30 de Abril del 2021, en su Edición No. 35,587.
 
 #### Artículo 4
 

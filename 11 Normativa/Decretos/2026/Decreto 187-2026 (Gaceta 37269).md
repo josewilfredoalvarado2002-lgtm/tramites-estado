@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Decretos Nos. 184-2026, 187-2026,194-2026, 200-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261014-37269/download"
 extraido: "2026-11-09"
-huella: "f9b5db939fdb22f6"
+huella: "c11d52c651505894"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 187-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

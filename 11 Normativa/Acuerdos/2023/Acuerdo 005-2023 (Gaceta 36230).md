@@ -8,7 +8,7 @@ gaceta_numero: 36230
 gaceta_fecha: "2023-05-17"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36230 (2023-05-17)|La Gaceta 36230]]"
 paginas: "A. 1 - 4"
-sumario: "Acuerdo Ejecutivo Número 005-2023PODER LEGISLATIVO Convocatoria"
+sumario: "Acuerdo Ejecutivo Número 005-2023; PODER LEGISLATIVO Convocatoria"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230517-36230/download"
 extraido: "2026-11-14"
 huella: "388a6dc5f6155c73"
@@ -23,7 +23,7 @@ huella: "388a6dc5f6155c73"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36230 (2023-05-17)\|La Gaceta 36230]] del 2023-05-17 |
 | Páginas | A. 1 - 4 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 005-2023PODER LEGISLATIVO Convocatoria |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 005-2023; PODER LEGISLATIVO Convocatoria |
 
 ## Texto
 

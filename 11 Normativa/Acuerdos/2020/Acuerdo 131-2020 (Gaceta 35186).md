@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdos Nos. 131-2020, 149-2020, 150-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200227-35186/download"
 extraido: "2026-11-14"
-huella: "dfe08985699ba84c"
+huella: "84c9781bada678b7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 131-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en la Ley General de la Admini
 
 CONSIDERANDO: Que nuestro marco legal establece la figura de desconcentración funcional, la cual se verifica mediante la creación de entidades u órganos a los que se les atribuye competencia propia, la cual ejercitan con autonomía técnica-administrativa y financiera.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 27-2014, fue creada la Dirección de Niñez, Adolescencia y Familia (DINAF), con el objetivo general de garantizar el principio del INTERÉS SUPERIOR DEL NIÑO, atendiendo de manera oportuna y eficiente la necesidad de protección social que la sociedad y el Estado de Honduras están obligados a brindar a la niñez y a la adolescencia en el marco de la Constitución de la República, las convenciones internacionales de protección a la niñez, el Código de la Niñez y la Adolescencia y demás legislación aplicable.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-27-2014, fue creada la Dirección de Niñez, Adolescencia y Familia (DINAF), con el objetivo general de garantizar el principio del INTERÉS SUPERIOR DEL NIÑO, atendiendo de manera oportuna y eficiente la necesidad de protección social que la sociedad y el Estado de Honduras están obligados a brindar a la niñez y a la adolescencia en el marco de la Constitución de la República, las convenciones internacionales de protección a la niñez, el Código de la Niñez y la Adolescencia y demás legislación aplicable.
 
 CONSIDERANDO: Que la Ley Especial de Adopciones en su Artículo 32 establece: “El Comité de Asignaciones es un mecanismo de transparencia para la asignación de los (las) niños(as) en estado de adoptabilidad”.
 

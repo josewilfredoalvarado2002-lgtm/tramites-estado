@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Acuerdos Ministeriales Nos. 027-2026, 036-2026, 037-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260506-37134/download"
 extraido: "2026-11-09"
-huella: "b8ea4840509e04e1"
+huella: "05503d4c23fdbb0a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 036-2026
@@ -41,9 +41,7 @@ CONSIDERANDO: El acto de delegación, además de indicar el órgano delegante, e
 
 CONSIDERANDO: Que el Artículo 71 de la Ley de Servicio Civil, estipula que, para los efectos de esta misma Ley, se entiende como autoridad nominadora al Presidente de la República, a través de la respectiva Secretaría de Estado y todo funcionario o entidad que tenga facultades legales para nombrar servidores públicos.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-112-2021 de fecha 01 de diciembre del año 2021, se nombró al ciudadano RENE MIGUEL BARAHONA AMADOR, en el puesto de Auxiliar Jurídico de esta Secretaría de Estado.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 112-2021 de fecha 01 de diciembre del año 2021, se nombró al ciudadano RENE MIGUEL BARAHONA AMADOR, en el puesto de Auxiliar Jurídico de esta Secretaría de Estado.
 
 POR TANTO
 

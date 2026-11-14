@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decretos Ejecutivos Números. PCM 25-2024, PCM 26-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240904-36630/download"
 extraido: "2026-11-14"
-huella: "5f8638b0b730d0e6"
+huella: "8fd3f6338c4becb6"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números. PCM 25-2024, PCM 26-2024
@@ -81,9 +81,7 @@ CONSIDERANDO: Que la Ley Orgánica del Presupuesto establece que para mantener e
 
 CONSIDERANDO: Que en la Ley Orgánica del Presupuesto se establece que los casos en que la situación económica y financiera del país lo requieran, cuando la estimación de la percepción de los ingresos sea menor a los gastos proyectados a pagar con tales ingresos o en caso de emergencia, la Presidenta de la República, en Consejo de Secretarios de Estado, emitirá el Decreto correspondiente ordenando el recorte o congelamiento de las distintas asignaciones presupuestarias en los presupuestos aprobados a los diferentes órganos u organismos de la Administración Pública (artículo 39).
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-62-2023, publicado en el Diario Oficial “La Gaceta”, en fecha 18 de enero de 2024, edición número 36,437, contentivo al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, su Reglamento aprobado mediante Acuerdo Ejecutivo No. 266- 2024 publicado en el Diario Oficial “La Gaceta” en fecha 5 de abril de 2024, edición número 36,501 y su reforma mediante Acuerdo Ejecutivo No. 408-2024 publicado en el Diario Oficial “La Gaceta” en fecha 28 de junio de 2024, edición número 36,572, se establecen una serie de medidas de estricto cumplimiento para el uso eficiente de los recursos presupuestarios aprobados por el Congreso Nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2023, publicado en el Diario Oficial “La Gaceta”, en fecha 18 de enero de 2024, edición número 36,437, contentivo al Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales, Ejercicio Fiscal 2024, su Reglamento aprobado mediante Acuerdo Ejecutivo No. 266-2024 publicado en el Diario Oficial “La Gaceta” en fecha 5 de abril de 2024, edición número 36,501 y su reforma mediante Acuerdo Ejecutivo No. 408-2024 publicado en el Diario Oficial “La Gaceta” en fecha 28 de junio de 2024, edición número 36,572, se establecen una serie de medidas de estricto cumplimiento para el uso eficiente de los recursos presupuestarios aprobados por el Congreso Nacional.
 
 CONSIDERANDO: Que la Constitución de la República establece que la Presidenta tiene a su cargo la Administración General del Estado, encontrándose entre sus atribuciones dirigir la política general del Estado y representarlo; emitir Acuerdos, Decretos, expedir Reglamentos y Resoluciones conforme a la Ley; administrar la Hacienda Pública; y, dirigir la política económica y financiera del Estado (artículo 245 numerales 2,11, 19 y 30).
 

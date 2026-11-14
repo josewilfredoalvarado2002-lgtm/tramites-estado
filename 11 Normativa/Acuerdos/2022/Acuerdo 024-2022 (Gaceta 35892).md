@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdos Ministeriales Nos. 023-2022, 024-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220406-35892/download"
 extraido: "2026-11-14"
-huella: "f9f40ee5899c1f92"
+huella: "ae44b20bf633326c"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 024-2022
@@ -49,9 +49,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las 
 
 ACUERDA:
 
-PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No.
-
-01-2022; que ACUERDA: 1. Modificar el Acuerdo de la Instancia Ministerial No. 4-2017, del 16 de junio de 2017, en el sentido de establecer el horario de atención a los usuarios del Puesto Fronterizo Integrado de Corinto, de la forma siguiente: lunes a domingo de 5:00 a.m. a 10:00 p.m., para todas las operaciones relacionadas con el paso de mercancías, medios de transporte vacíos y turismo. 2. El horario de atención de los Puestos Fronterizos Integrados de El Florido y Agua Caliente será el establecido en el Acuerdo de la Instancia Ministerial No. 4-2017, del 16 de junio de 2017. 3. El presente Acuerdo entra en vigor a partir de esta fecha y será publicado por los Estados Parte. 4. No obstante lo establecido en el numeral anterior, este Acuerdo no entrará en vigor para la República de El Salvador.
+PRIMERO: Hacer del conocimiento público para su observancia, el Acuerdo Instancia Ministerial-UA No. 01-2022; que ACUERDA: 1. Modificar el Acuerdo de la Instancia Ministerial No. 4-2017, del 16 de junio de 2017, en el sentido de establecer el horario de atención a los usuarios del Puesto Fronterizo Integrado de Corinto, de la forma siguiente: lunes a domingo de 5:00 a.m. a 10:00 p.m., para todas las operaciones relacionadas con el paso de mercancías, medios de transporte vacíos y turismo. 2. El horario de atención de los Puestos Fronterizos Integrados de El Florido y Agua Caliente será el establecido en el Acuerdo de la Instancia Ministerial No. 4-2017, del 16 de junio de 2017. 3. El presente Acuerdo entra en vigor a partir de esta fecha y será publicado por los Estados Parte. 4. No obstante lo establecido en el numeral anterior, este Acuerdo no entrará en vigor para la República de El Salvador.
 
 SEGUNDO: Ordenar que para hacer del conocimiento público y observancia en general, la Resolución aquí nominada, debe ser publicada en la página web de la Secretaría de Estado en el Despacho de Desarrollo Económico, www.sde.gob.hn.
 

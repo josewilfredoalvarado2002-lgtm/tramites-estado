@@ -11,7 +11,7 @@ paginas: "A. 5 - 10"
 sumario: "Acuerdo Ministerial No. 147-SEDESOL-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251022-36973/download"
 extraido: "2026-11-09"
-huella: "d7f2d2dc1b535979"
+huella: "f9f54bd981c0e0f9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 147-SEDESOL-2025
@@ -53,9 +53,7 @@ CONSIDERANDO: Que mediante Acuerdo Ministerial 305-A-SEDESOL-2024, publicado en 
 
 POR TANTO:
 
-En cumplimiento a los artículos: 59 y 247 de la Constitución de la República de Honduras; 36 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 019-2022 en su artículo 1 inciso u; Decreto Ejecutivo Número PCM 017-2022 en sus artículos 2 y 3; Decreto Legislativo número 04-2022 en su artículo 2; Acuerdo Ministerial No.
-
-257-A-SEDESOL-2024.
+En cumplimiento a los artículos: 59 y 247 de la Constitución de la República de Honduras; 36 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM 019-2022 en su artículo 1 inciso u; Decreto Ejecutivo Número PCM 017-2022 en sus artículos 2 y 3; Decreto Legislativo número 04-2022 en su artículo 2; Acuerdo Ministerial No. 257-A-SEDESOL-2024.
 
 ACUERDA:
 

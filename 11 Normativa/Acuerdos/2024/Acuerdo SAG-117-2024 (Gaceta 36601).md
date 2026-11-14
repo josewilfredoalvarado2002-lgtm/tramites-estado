@@ -11,7 +11,7 @@ paginas: "A. 1 - 13"
 sumario: "Acuerdos Ministeriales Nos. SAG-117-2024, 121-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240801-36601/download"
 extraido: "2026-11-14"
-huella: "2452629537899005"
+huella: "5d663d379696c5c0"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SAG-117-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la SAG y la Dirección General de Pesca y Acuicultura (DIGEPES
 
 CONSIDERANDO: Que la pesca y la acuicultura constituyen rubros estratégicos del sector productivo nacional, siendo una fuente relevante para fomentar el desarrollo en beneficio de la calidad de vida de las personas, con apertura en mercados nacionales e internacionales y requerimientos de seguridad alimentaria.
 
-CONSIDERANDO: Que los riesgos de sobreexplotación actual de los recursos obligan a la adopción de regulaciones para el ordenamiento, gestión y protección de los recursos hidrobiológicos e x i s t e n t e s a s e g u r a n d o s u aprovechamiento sustentable en beneficio las generaciones presentes y futuras.
+CONSIDERANDO: Que los riesgos de sobreexplotación actual de los recursos obligan a la adopción de regulaciones para el ordenamiento, gestión y protección de los recursos hidrobiológicos existentes asegurando su aprovechamiento sustentable en beneficio las generaciones presentes y futuras.
 
 CONSIDERANDO: Que Honduras en el año 1985, ratificó la Convención sobre el Comercio Internacional de Especies Amenazadas de la Fauna y Flora Silvestre (CITES), la que tiene por finalidad velar porque el comercio internacional de especímenes de animales y plantas silvestres no constituya una amenaza para la supervivencia de las especies.
 
@@ -283,7 +283,7 @@ VIGÉSIMO
 
 SÉPTIMO:
 
-La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557- 20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Gigante (Strombus gigas) dentro de nuestra ZEE.
+La aplicación del Acuerdo Ejecutivo del Ministerio del Trabajo No. STSS-557-20 vigente, es de carácter obligatorio con el fin de evitar actos y condiciones inseguras en alta y bajamar, así como afectaciones a la integridad física de los buzos o la pérdida de vidas humanas en las labores de extracción del Caracol Gigante (Strombus gigas) dentro de nuestra ZEE.
 
 VIGÉSIMO
 

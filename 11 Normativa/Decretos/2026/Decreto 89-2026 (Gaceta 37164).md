@@ -11,7 +11,7 @@ paginas: "A. 49 - 50"
 sumario: "Decretos Nos. 83-2026, 89- 2026, 93-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260610-37164/download"
 extraido: "2026-11-09"
-huella: "d1bfe8cf4d541069"
+huella: "f56f61caf5bc9a7d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 89-2026
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- E x o n e r a r y a u t o r i z a r a l a MUNICIPALIDAD DE ALAUCA, D E PA RTA M E N T O D E E L PARAÍSO, del pago del Impuesto Sobre Ventas y del arancel de importación aplicable a la compra de un vehículo automotor tipo Ambulancia Nuevo, con las siguientes características:
+ARTÍCULO 1.- Exonerar y autorizar a la MUNICIPALIDAD DE ALAUCA, D E PA RTA MENTO DE EL PARAÍSO, del pago del Impuesto Sobre Ventas y del arancel de importación aplicable a la compra de un vehículo automotor tipo Ambulancia Nuevo, con las siguientes características:
 
 VEHÍCULO: TOYOTA AÑO:
 
@@ -65,7 +65,7 @@ SERIE:
 
 JTERB71J80F039770 VIN:
 
-JTERB71J80F039770 ARANCELARIO: 8703.33.61.00.00 PESO: 2555 KGS VALOR TOTAL: CINCUENTA Y CUATRO MIL SEISCIENTOS DÓLARES (USD $54,600.00) P R O C E D E N T E D E J A P Ó N POR INTERMEDIACIÓN DE CORPORACIÓN FLORES S.A., INGRESANDO POR LA ADUANA DE TONCONTÍN.
+JTERB71J80F039770 ARANCELARIO: 8703.33.61.00.00 PESO: 2555 KGS VALOR TOTAL: CINCUENTA Y CUATRO MIL SEISCIENTOS DÓLARES (USD $54,600.00) PROCEDENTE DE JAPÓN POR INTERMEDIACIÓN DE CORPORACIÓN FLORES S.A., INGRESANDO POR LA ADUANA DE TONCONTÍN.
 
 #### Artículo 2
 

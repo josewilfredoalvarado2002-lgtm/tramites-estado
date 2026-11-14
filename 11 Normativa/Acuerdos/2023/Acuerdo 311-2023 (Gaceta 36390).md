@@ -11,7 +11,7 @@ paginas: "A. 16 - 18"
 sumario: "Acuerdos Nos. 302-2023, 303-2023, 306-DINAF-2023, 310-DINAF-2023, 311-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231122-36390/download"
 extraido: "2026-11-14"
-huella: "31d0a7b29b1318a4"
+huella: "160075a5be9e0cf0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 311-2023
@@ -43,9 +43,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 151-2023 de fecha quince (1
 
 CONSIDERANDO: Que el artículo 123 de la Ley General de la Administración Pública, que literalmente dice: “En defecto de disposición expresa, el titular de un órgano, en caso de ausencia o impedimento legal será sustituido por el subalterno más elevado en grado y en caso de paridad de grado por el funcionario con más antigüedad en el servicio, en su defecto, por el funcionario que ostente el título profesional superior. En ese sentido y en virtud de ausencia de la Directora Ejecutiva será sustituido por el Secretario General.
 
-CONSIDERANDO: Que en fecha seis (6) de septiembre del año dos mil veintitrés, mediante Acuerdo No.
-
-297-A-DINAF-2023, se delegó al abogado MARLON FABRIZIO PACHECO MORALES, con Documento Nacional de Identificación 0801-1980-15220, Asesor Jurídico en Materia de Niñez y Familia, para que represente a la Directora Ejecutiva en los diferentes Comités de Asignaciones que esta Dirección de Niñez, Adolescencia y Familia (DINAF) lleve a cabo, teniendo voz y voto y facultándole para que pueda tomar decisiones que considere necesarias para el mejor desarrollo del mismo debiendo firmar el Acta de Comité y los documentos que correspondan.
+CONSIDERANDO: Que en fecha seis (6) de septiembre del año dos mil veintitrés, mediante Acuerdo No. 297-A-DINAF-2023, se delegó al abogado MARLON FABRIZIO PACHECO MORALES, con Documento Nacional de Identificación 0801-1980-15220, Asesor Jurídico en Materia de Niñez y Familia, para que represente a la Directora Ejecutiva en los diferentes Comités de Asignaciones que esta Dirección de Niñez, Adolescencia y Familia (DINAF) lleve a cabo, teniendo voz y voto y facultándole para que pueda tomar decisiones que considere necesarias para el mejor desarrollo del mismo debiendo firmar el Acta de Comité y los documentos que correspondan.
 
 CONSIDERANDO: Que mediante Memorándum DINAFDE-No. 372-2023 de fecha seis (6) de noviembre de 2023, emitido por la Dirección Ejecutiva donde solicita dejar sin efecto y valor el Acuerdo de Delegación a favor del Abogado Marlon Fabrizio Pacheco Morales, Asesor Jurídico en Materia de Niñez y Familia.
 

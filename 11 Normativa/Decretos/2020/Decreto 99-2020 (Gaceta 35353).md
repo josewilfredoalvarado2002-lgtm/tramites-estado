@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Decretos Nos. 2-2020, 99-2020, 101-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200825-35353/download"
 extraido: "2026-11-14"
-huella: "f794e121ed3f603f"
+huella: "682d004f6335eb42"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 99-2020
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 MEDIDAS ESPECIALES DE DIFUSIÓN, PREVENCIÓN, Y ATENCIÓN DE LA VIOLENCIA CONTRA LA MUJER Y ACCIONES PARA GARANTIZAR LA IGUALDAD DE GÉNERO, DURANTE LA VIGENCIA DE LA EMERGENCIA NACIONAL DECLARADA A RAÍZ DE LA PANDEMIA COVID-19
 
@@ -89,7 +89,7 @@ ARTÍCULO 8.- Es responsabilidad del patrono, el abastecimiento de los materiale
 
 #### Artículo 9
 
-ARTÍCULO 9.- Se autoriza a la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social para que la entrega del BONO 10,000 a las madres solteras beneficiarias, correspondiente al mes de Junio y subsiguientes del año 2020, durante dure la emergencia sanitaria declarada por el COVID-19, se realice a través de cualquier medio de transferencia y/o pago electrónico, tales como: billetera electrónica móvil, banca digital o análogos, cuentas básicas, corresponsales bancarios y otros que faciliten transferencias y entregas de dinero efectivo de forma directa, segura y confiable, conforme a lo establecido en el Decreto No.50-2020, de fecha 14 de Mayo del año 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Mayo del 2020, Edición No.35,256.
+ARTÍCULO 9.- Se autoriza a la Secretaría de Estado en el Despacho de Desarrollo e Inclusión Social para que la entrega del BONO 10,000 a las madres solteras beneficiarias, correspondiente al mes de Junio y subsiguientes del año 2020, durante dure la emergencia sanitaria declarada por el COVID-19, se realice a través de cualquier medio de transferencia y/o pago electrónico, tales como: billetera electrónica móvil, banca digital o análogos, cuentas básicas, corresponsales bancarios y otros que faciliten transferencias y entregas de dinero efectivo de forma directa, segura y confiable, conforme a lo establecido en el Decreto No. 50-2020, de fecha 14 de Mayo del año 2020, y publicado en el Diario Oficial “La Gaceta” de fecha 18 de Mayo del 2020, Edición No. 35,256.
 
 #### Artículo 10
 

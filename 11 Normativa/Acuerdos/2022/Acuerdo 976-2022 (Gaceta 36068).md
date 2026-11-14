@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo No. 976-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221104-36068/download"
 extraido: "2026-11-14"
-huella: "b255deb10a2ca5b8"
+huella: "b6051a8116ce9b1d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 976-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en la Ley General de la Administració
 
 CONSIDERANDO: Los Subsecretarios de Estado son colaboradores inmediatos de los Secretarios de Estado, siendo responsables de las funciones a su cargo y de la coordinación de las áreas sustantivas que les sean atribuidas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-107-2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado en el Despacho de Recursos Naturales.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 107-2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado en el Despacho de Recursos Naturales.
 
 CONSIDERANDO: Que el Secretario de Estado de Recursos Naturales y Ambiente LUCKY HALACH MEDINA ESTRADA, asistirá en representación del Gobierno de Honduras en el Evento de Alto Nivel “Conferencia de las Naciones Unidas para el Cambio Climático 2022”, conocida como COP 27 que se llevará a cabo en Egipto; se hace necesario delegar funciones en el Subsecretario de Recursos Naturales, ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, a fin de no dificultar los trámites que se realizan en esta Secretaría de Estado.
 

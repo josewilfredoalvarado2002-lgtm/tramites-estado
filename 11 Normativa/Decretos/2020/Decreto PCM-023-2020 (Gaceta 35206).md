@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200321-35206/download"
 extraido: "2026-11-14"
-huella: "7e3f14c9abf752cd"
+huella: "f259586b5f5aa1d6"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-023-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que a la fecha el Sistema de Vigilancia Epidemiológica de la Secr
 
 POR TANTO;
 
-En aplicación de las disposiciones establecidas en los Artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29, 45, artículos 248, 321 y 323 de la Constitución de la República; Artículos 11, 17, 18, 22 incisos, 9), 29 numeral 5), 116, 117, 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Artículos 9, 63 y demás aplicables de la Ley de Contratación del Estado; artículos 5 y 9 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), Artículo 67 numeral 1 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Artículos 1, 2, 3, 4, 5, 8, 9, 10, 177, 179, 180, 181, 188 del Código de Salud y Decreto Ejecutivo número PCM- 005-2020.
+En aplicación de las disposiciones establecidas en los Artículos 59, 65, 145, 235, 245 numerales 1, 2, 11, 29, 45, artículos 248, 321 y 323 de la Constitución de la República; Artículos 11, 17, 18, 22 incisos, 9), 29 numeral 5), 116, 117, 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Artículos 9, 63 y demás aplicables de la Ley de Contratación del Estado; artículos 5 y 9 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), Artículo 67 numeral 1 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Artículos 1, 2, 3, 4, 5, 8, 9, 10, 177, 179, 180, 181, 188 del Código de Salud y Decreto Ejecutivo número PCM-005-2020.
 
 DECRETA:
 

@@ -8,10 +8,10 @@ gaceta_numero: 35262
 gaceta_fecha: "2020-05-24"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35262 (2020-05-24)|La Gaceta 35262]]"
 paginas: "A. 1 - 5"
-sumario: "Decreto Ejecutivo número PCM-046-2020, 047-2020SECRETARÍA DE FINANZASAcuerdo No. 241-2020"
+sumario: "Decreto Ejecutivo número PCM-046-2020, 047-2020; SECRETARÍA DE FINANZAS: Acuerdo No. 241-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200524-35262-2/download"
 extraido: "2026-11-14"
-huella: "ea26304f12003519"
+huella: "03a0227476be4ba4"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-046-2020
@@ -23,7 +23,7 @@ huella: "ea26304f12003519"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35262 (2020-05-24)\|La Gaceta 35262]] del 2020-05-24 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-046-2020, 047-2020SECRETARÍA DE FINANZASAcuerdo No. 241-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-046-2020, 047-2020; SECRETARÍA DE FINANZAS: Acuerdo No. 241-2020 |
 
 ## Texto
 
@@ -35,9 +35,9 @@ CONSIDERANDO: Que de acuerdo a lo establecido en el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada y Descentralizada, quien en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, reformado por los Decretos Ejecutivos Números PCM-016-2020 y PCM- 023-2020 del 3 y 20 de marzo de 2020, respectivamente, se Declaró Estado de Emergencia Humanitaria y Sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-046-2020, 047-2020 A. 1 - 8 SECRETARÍA DE FINANZAS Acuerdo No. 241-2020 A. 9 - 31 AVANCE A. 32 la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19). La declaratoria de emergencia tiene vigencia hasta el 31 de diciembre de 2020, misma que podrá ser prorrogada.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, reformado por los Decretos Ejecutivos Números PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente, se Declaró Estado de Emergencia Humanitaria y Sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-046-2020, 047-2020 A. 1 - 8 SECRETARÍA DE FINANZAS Acuerdo No. 241-2020 A. 9 - 31 AVANCE A. 32 la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (COVID-19). La declaratoria de emergencia tiene vigencia hasta el 31 de diciembre de 2020, misma que podrá ser prorrogada.
 
-CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No.033-2020, publicado en el Diario Oficial “La Gaceta” en fecha 3 de abril de 2020 contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID–19; en su Artículo 8, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019.
+CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 033-2020, publicado en el Diario Oficial “La Gaceta” en fecha 3 de abril de 2020 contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID–19; en su Artículo 8, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019.
 
 CONSIDERANDO: Que el Gobierno de la República está realizando las acciones necesarias con el objetivo de activar los diferentes mecanismos de financiamiento que han sido puestos a disposición por parte de los organismos internacionales de crédito para hacer frente a los efectos de la emergencia humanitaria y sanitaria en el país.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de acuerdo al Artículo 79 de la Ley Orgánica del Presupuesto
 
 POR TANTO;
 
-En uso de las facultades de que está investido y en aplicación de las disposiciones establecidas en el Artículo 245 numerales 1), 2), 11), 19), 20), 29) y 30) y Artículo 335 de la Constitución de la República; Artículos 6, 11, 17, 22 numerales 5), 9) y 12), 33, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No.033- 2020; Decreto Ejecutivo Número PCM-005-2020 y sus reformas según Decretos Ejecutivo Número PCM-016-2020 y Decretos Ejecutivo Número PCM-023-2020
+En uso de las facultades de que está investido y en aplicación de las disposiciones establecidas en el Artículo 245 numerales 1), 2), 11), 19), 20), 29) y 30) y Artículo 335 de la Constitución de la República; Artículos 6, 11, 17, 22 numerales 5), 9) y 12), 33, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 033-2020; Decreto Ejecutivo Número PCM-005-2020 y sus reformas según Decretos Ejecutivo Número PCM-016-2020 y Decretos Ejecutivo Número PCM-023-2020
 
 DECRETA:
 

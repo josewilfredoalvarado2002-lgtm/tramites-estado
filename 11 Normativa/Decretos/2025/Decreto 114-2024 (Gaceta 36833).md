@@ -11,7 +11,7 @@ paginas: "A. 7 - 9"
 sumario: "Decreto No. 114-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250509-36833/download"
 extraido: "2026-11-11"
-huella: "52d246e1675fef0d"
+huella: "11d3ccdf40fb4e2d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 114-2024
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 175 establece que: “El Estado promoverá y apoyará la divulgación de producciones de autores nacionales o extranjeros que siendo legítimas creaciones filosóficas, científicas o literarias contribuyan al desarrollo nacional”.
 
-CONSIDERANDO: Que la Ley de Fomento para la Lectura y El Libro, contenida en el Decreto No.218-2012, del 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 23 de Abril de 2013, establece que la Secretaría de Estado en el Despacho de Educación y la Secretaría de Estado en los Despachos de las Cultura, las Artes y los Patrimonios del Pueblos de Honduras les corresponde Fomentar el Acceso al Libro y la Lectura en el Sistema Educativo Nacional; asimismo, impulsar programas, proyectos y acciones que promuevan la cultura escrita.
+CONSIDERANDO: Que la Ley de Fomento para la Lectura y El Libro, contenida en el Decreto No. 218-2012, del 18 de Enero de 2013, publicado en el Diario Oficial “La Gaceta” de fecha 23 de Abril de 2013, establece que la Secretaría de Estado en el Despacho de Educación y la Secretaría de Estado en los Despachos de las Cultura, las Artes y los Patrimonios del Pueblos de Honduras les corresponde Fomentar el Acceso al Libro y la Lectura en el Sistema Educativo Nacional; asimismo, impulsar programas, proyectos y acciones que promuevan la cultura escrita.
 
 CONSIDERANDO: Que las comunidades de las y los escritores claman por el cumplimiento de la política de la Ley de Fomento para la Lectura y el Libro, para impulsar la Cultura Literaria y que esté dirigido por personas conocedoras de la literatura del país que sean capaces de concientizar el apoyo y la colaboración de todos los sectores de nuestra sociedad.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Reformar por adición la LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, contenida en el Decreto No.218-2012, de fecha 18 de Enero del 2013, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril del año 2013, Edición 33,106, agregando a este cuerpo normativo los artículos 8-A, 8-B y 8-C; los cuales debe leerse de la manera siguiente:
+ARTICULO 1.- Reformar por adición la LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, contenida en el Decreto No. 218-2012, de fecha 18 de Enero del 2013, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril del año 2013, Edición 33,106, agregando a este cuerpo normativo los artículos 8-A, 8-B y 8-C; los cuales debe leerse de la manera siguiente:
 
 “ARTÍCULO 8-A.- La Secretaría de Estado en los Despachos de las Culturas, las Artes y Patrimonios de los Pueblos de Honduras (SECAPPH), debe nombrar una Comisión Especial para que la misma proceda a seleccionar cada año al menos diez (10) autores nacionales, que serán beneficiados con la publicación de Mil Quinientos (1,500) ejemplares de una de sus obras más reconocidas, para impulsar la Cultura Literaria Hondureña.
 

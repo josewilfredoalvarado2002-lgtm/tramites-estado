@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decretos Nos. 108-2026, 116-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260625-37177/download"
 extraido: "2026-11-09"
-huella: "794b62a72742d9d3"
+huella: "72b058cd205addb9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 108-2026
@@ -31,19 +31,19 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que corresponde al Estado de Honduras promover políticas públicas orientadas al fortalecimiento de la economía nacional, procurando mecanismos extraordinarios que faciliten a los ciudadanos el cumplimiento de sus obligaciones tributarias, sin menoscabo de los principios de legalidad, equidad y seguridad jurídica que rigen el Sistema Tributario Nacional.
 
-CONSIDERANDO: Que mediante Decreto No.7-2026, el Congreso Nacional aprobó una Amnistía Vehicular de carácter temporal con el propósito de otorgar facilidades administrativas y tributarias a los obligados tributarios con mora correspondiente al período fiscal 2025 y años anteriores, permitiendo la regularización de obligaciones derivadas del pago de la Tasa Única Anual por Matrícula de Vehículos, tasas registrales vehiculares, tasas viales municipales y demás contribuciones vinculadas al Registro de la Propiedad Vehicular administrado por el Instituto de la Propiedad (IP).
+CONSIDERANDO: Que mediante Decreto No. 7-2026, el Congreso Nacional aprobó una Amnistía Vehicular de carácter temporal con el propósito de otorgar facilidades administrativas y tributarias a los obligados tributarios con mora correspondiente al período fiscal 2025 y años anteriores, permitiendo la regularización de obligaciones derivadas del pago de la Tasa Única Anual por Matrícula de Vehículos, tasas registrales vehiculares, tasas viales municipales y demás contribuciones vinculadas al Registro de la Propiedad Vehicular administrado por el Instituto de la Propiedad (IP).
 
 CONSIDERANDO: Que las medidas extraordinarias de alivio tributario constituyen instrumentos legítimos para incentivar el cumplimiento voluntario de las obligaciones fiscales, disminuir índices de mora acumulada, fortalecer la cultura tributaria y contribuir a la actualización y depuración de registros administrativos nacionales, generando simultáneamente mayores niveles de recaudación efectiva para el Estado.
 
-CONSIDERANDO: Que la vigencia inicial establecida en el Decreto No.7-2026 ha evidenciado resultados positivos en materia de regularización vehicular y recuperación de ingresos públicos; no obstante, un número significativo de personas naturales y jurídicas aún no ha logrado acogerse al beneficio otorgado, por lo cual resulta necesario ampliar el plazo inicialmente concedido para maximizar el alcance social y fiscal de la medida.
+CONSIDERANDO: Que la vigencia inicial establecida en el Decreto No. 7-2026 ha evidenciado resultados positivos en materia de regularización vehicular y recuperación de ingresos públicos; no obstante, un número significativo de personas naturales y jurídicas aún no ha logrado acogerse al beneficio otorgado, por lo cual resulta necesario ampliar el plazo inicialmente concedido para maximizar el alcance social y fiscal de la medida.
 
-CONSIDERANDO: Que la prórroga del beneficio contenido en el Decreto No.7-2026 constituye una medida excepcional, temporal y de interés nacional, encaminada a ampliar las oportunidades de regularización tributaria, fortalecer la sostenibilidad recaudatoria del Estado y contribuir al bienestar económico de la población hondureña.
+CONSIDERANDO: Que la prórroga del beneficio contenido en el Decreto No. 7-2026 constituye una medida excepcional, temporal y de interés nacional, encaminada a ampliar las oportunidades de regularización tributaria, fortalecer la sostenibilidad recaudatoria del Estado y contribuir al bienestar económico de la población hondureña.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

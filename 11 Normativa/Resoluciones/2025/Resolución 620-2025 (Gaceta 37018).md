@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 620-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251213-37018/download"
 extraido: "2026-11-09"
-huella: "225d80dc5e251c9e"
+huella: "effc1b124116ae92"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 620-2025
@@ -47,9 +47,7 @@ CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No
 
 POR TANTO: La Secretaria de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua Potable y Saneamiento;
 
-34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de delegación No.
-
-282-2024 de fecha 20 de mayo del año 2024.
+34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de delegación No. 282-2024 de fecha 20 de mayo del año 2024.
 
 RESUELVE:
 

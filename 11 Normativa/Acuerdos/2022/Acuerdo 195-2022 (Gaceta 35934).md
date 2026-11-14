@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Nos. 193-2022, 195-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220527-35934/download"
 extraido: "2026-11-14"
-huella: "a1c439f6fbbe97b1"
+huella: "5fa422454dcc3b5b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 195-2022
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Memorando DINAF RRHH No.308-2022 de fecha 19 de mayo del 2022, se solicitó a Secretaría General el Acuerdo de Delegación de funciones a favor del Abogado GUSTAVO ADOLFO ÁVILA FLORES, Oficial jurídico II, de la Jefatura de Recursos Humanos.
+CONSIDERANDO: Que mediante Memorando DINAF RRHH No. 308-2022 de fecha 19 de mayo del 2022, se solicitó a Secretaría General el Acuerdo de Delegación de funciones a favor del Abogado GUSTAVO ADOLFO ÁVILA FLORES, Oficial jurídico II, de la Jefatura de Recursos Humanos.
 
 CONSIDERANDO: Que de conformidad a lo establecido en la Ley de Procedimiento Administrativo, en cualquier momento, el órgano delegante, cuando lo considere conveniente u oportuno, podrá revocar la delegación y recobrar el ejercicio de la competencia delegada.
 

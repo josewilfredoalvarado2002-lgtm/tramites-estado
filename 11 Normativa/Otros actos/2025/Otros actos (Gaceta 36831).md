@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo SAG-023-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250507-36831/download"
 extraido: "2026-11-11"
-huella: "e3cbeee9e44451ce"
+huella: "6c3a6c7a16dd09c2"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo SAG-023-2025
@@ -587,7 +587,7 @@ DÉCIMO SÉPTIMO: Las solicitudes de renovación para licencias de escama, camar
 
 DÉCIMO OCTAVO: Toda solicitud de renovación de licencia de pesca industrial, deberá tener al día sus obligaciones con el Estado de Honduras a través del pago del Canon Contributivo por Pesca (12309). Para el cual, deberán solicitar ante la DIGEPESCA el TGR-1, y hacer el pago que por Ley corresponde, acreditándolo como requisito indispensable para la renovación de licencia. El cálculo se hará considerando los valores dispuestos en la Tabla de Tarifas por libra capturada de acuerdo con lo establecido en el Artículo 78 de la Ley de Pesca vigente.
 
-DÉCIMO NOVENO: Con relación a la presentación de recibos TGR-1 a los diferentes tributos por concepto de: emisión de constancias, certificados y otros (12121); otras licencias (12209); multas y penas diversas (12499); ingresos por subastas (12801); otros ingresos no tributarios (12899); venta de materiales y producción agropecuario (15102), y alquiler de tierras y terrenos (17601), con el código (140) perteneciente a la Secretaría de Agricultura y Ganadería, y que serán procesados mediante recibo de pago TGR-1, deberán ser entregados a las oficinas de DIGEPESCA ,el mismo mes que fue cancelado ante cualquier institución bancaria, tal como lo establece artículo 21 del presupuesto general de ingresos y egresos de la República. Los recibos que no sean presentados en la temporalidad antes establecida no serán aceptados por la DIGEPESCA.
+DÉCIMO NOVENO: Con relación a la presentación de recibos TGR-1 a los diferentes tributos por concepto de: emisión de constancias, certificados y otros (12121); otras licencias (12209); multas y penas diversas (12499); ingresos por subastas (12801); otros ingresos no tributarios (12899); venta de materiales y producción agropecuario (15102), y alquiler de tierras y terrenos (17601), con el código (140) perteneciente a la Secretaría de Agricultura y Ganadería, y que serán procesados mediante recibo de pago TGR-1, deberán ser entregados a las oficinas de DIGEPESCA,el mismo mes que fue cancelado ante cualquier institución bancaria, tal como lo establece artículo 21 del presupuesto general de ingresos y egresos de la República. Los recibos que no sean presentados en la temporalidad antes establecida no serán aceptados por la DIGEPESCA.
 
 VIGÉSIMO: Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial SAG 074-2024.
 

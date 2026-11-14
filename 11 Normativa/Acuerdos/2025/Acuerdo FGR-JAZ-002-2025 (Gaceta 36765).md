@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. FGR-JAZ-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250213-36765/download"
 extraido: "2026-11-13"
-huella: "64638e38b6cbe615"
+huella: "2a574b45aebb6405"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-JAZ-002-2025
@@ -251,7 +251,7 @@ ARTÍCULO 2. En cuanto a las Solicitudes y Liquidaciones de Viáticos y Gastos d
 
 #### Artículo 3
 
-ARTÍCULO 3. Se deja sin valor y efecto la Circular FGR- 006-2024 que contempla el pago y liquidación de viáticos y las demás que contravengan las presentes reformas.
+ARTÍCULO 3. Se deja sin valor y efecto la Circular FGR-006-2024 que contempla el pago y liquidación de viáticos y las demás que contravengan las presentes reformas.
 
 #### Artículo 4
 

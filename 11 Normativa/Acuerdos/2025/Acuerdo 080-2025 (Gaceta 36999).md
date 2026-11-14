@@ -11,7 +11,7 @@ paginas: "A. 7 - 16"
 sumario: "Acuerdos Nos. 038-2025, 080-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251121-36999/download"
 extraido: "2026-11-09"
-huella: "bb370d00190f59dc"
+huella: "e3b769d77d2c9222"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 080-2025
@@ -29,9 +29,7 @@ huella: "bb370d00190f59dc"
 
 EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)
 
-CONSIDERANDO: Que mediante (Decreto Legislativo No.
-
-98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
+CONSIDERANDO: Que mediante (Decreto Legislativo No. 98-2007) contentivo de la Ley Forestal se creó al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), como la institución rectora del régimen legal a que se sujeta la administración y manejo de los Recursos Forestales, Áreas Protegidas y Vida Silvestre, incluyendo su protección, restauración, aprovechamiento, conservación y fomento, propiciando el desarrollo sostenible, de acuerdo con el interés social, económico, ambiental y cultural del país.
 
 CONSIDERANDO: Que, de conformidad con la Constitución de la República, es de interés nacional el manejo racional y sostenible de los recursos naturales, por tratarse de un recurso estratégico para el desarrollo económico, social y ambiental de Honduras.
 
@@ -49,11 +47,11 @@ CONSIDERANDO: Que el Instituto Nacional de Conservación y Desarrollo Forestal, 
 
 POR TANTO:
 
-El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal Áreas Protegidas y Vida Silvestre en uso de sus facultades y con fundamentado en los artículos 1, 247, 340 y 341 de la Constitución de la República; Artículos 1, 3, 14, 18 , 19, 76 de la Ley Forestal, Áreas Protegidas y Vida Silvestre; Artículos 3, 7, 152, 174, 183, 186, 187, 188, 189, 190, 191 y 211 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; 1, 7, 8 y 122 de la Ley General de la Administración Pública; artículos 1, 3, 19, 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo; 6, 7, 20 y 22 del Código Procesal Civil; 27 numeral 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo.
+El Director Ejecutivo del Instituto Nacional de Conservación y Desarrollo Forestal Áreas Protegidas y Vida Silvestre en uso de sus facultades y con fundamentado en los artículos 1, 247, 340 y 341 de la Constitución de la República; Artículos 1, 3, 14, 18, 19, 76 de la Ley Forestal, Áreas Protegidas y Vida Silvestre; Artículos 3, 7, 152, 174, 183, 186, 187, 188, 189, 190, 191 y 211 del Reglamento de la Ley Forestal, Áreas Protegidas y Vida Silvestre; 1, 7, 8 y 122 de la Ley General de la Administración Pública; artículos 1, 3, 19, 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Administrativo; 6, 7, 20 y 22 del Código Procesal Civil; 27 numeral 7 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo Decreto Ejecutivo.
 
 ACUERDA:
 
-PRIMERO: 1) Derogar parcialmente el Acuerdo No. 032- 2022, publicado en el Diario Oficial La Gaceta No. 36,016, con fecha 31 de agosto del año 2022; en cuanto a la gestión de los certificados de plantación, quedando vigente el proceso de certificado de regeneración natural.
+PRIMERO: 1) Derogar parcialmente el Acuerdo No. 032-2022, publicado en el Diario Oficial La Gaceta No. 36,016, con fecha 31 de agosto del año 2022; en cuanto a la gestión de los certificados de plantación, quedando vigente el proceso de certificado de regeneración natural.
 
 SEGUNDO: Aprobar y oficializar en todas y cada una de sus partes la “NORMATIVA TÉCNICA PARA LA APROBACIÓN Y EMISIÓN DE CERTIFICADOS DE PLANTACIONES FORESTALES Y SU APROVECHAMIENTO”, que literalmente dice:
 

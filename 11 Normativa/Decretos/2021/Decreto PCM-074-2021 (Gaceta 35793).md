@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-074-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211209-35793/download"
 extraido: "2026-11-14"
-huella: "b75429620b28b0f9"
+huella: "c80836ebcf3a7469"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-074-2021
@@ -33,9 +33,7 @@ CONSIDERANDO: Que conforme a lo dispuesto en el Artículo 106 de Ia Constitució
 
 CONSIDERANDO: Que Ia Ley de Propiedad en su
 
-Artículo 77, reformado mediante Decreto Legislativo No.
-
-205-2012 publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, Edición No. 33,083, establece:
+Artículo 77, reformado mediante Decreto Legislativo No. 205-2012 publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo de 2013, Edición No. 33,083, establece:
 
 “Es de necesidad pública Ia regularización de Ia propiedad inmueble en Ia que se encuentren los asentamientos humanos establecidos antes del 31 de diciembre del año 2010 y en los que no pueda establecerse claramente la titularidad de los mismos o existiesen entre terceros no poseedores del inmueble respecto de su dominio. El procedimiento señalado en esta sección no podrá ser aplicado a urbanizaciones o proyectos habitacionales debidamente constituidos en cumplimiento de los requisitos exigidos por la Ley.”
 
@@ -49,13 +47,11 @@ CONSIDERANDO: Que en las Audiencias de Conciliación descritas en el considerand
 
 Comparecieron Liliam María Cruz Medina, en su condición de heredera ab intestato de su difunto padre el señor Juan Francisco Cruz y Adán López Lacayo, quien comparece en representación del señor Daniel López Rodríguez y Eduardo Alejandro Andino Cardona, en su condición de apoderado legal de la Alcaldía Municipal del Distrito Central”.
 
-CONSIDERANDO: Que en cada una las Actas de las Audiencias de Conciliación que fueron declaradas fracasadas por no haberse llegado a un acuerdo conciliatorio las partes o presuntos propietarios, en los procedimientos de expropiación, consta el nombre de los intervinientes y las incidencias, que por su orden rolan en los registros siguientes: No. 42 Tomo 492; No. 44 Tomo 492; No.43 Tomo 492; No. 11 Tomo 492; y, No. 40 Tomo 292 del Registro de Sentencias que al efecto lleva el Registro de la Propiedad Inmueble y Mercantil de Tegucigalpa, Francisco Morazán.
+CONSIDERANDO: Que en cada una las Actas de las Audiencias de Conciliación que fueron declaradas fracasadas por no haberse llegado a un acuerdo conciliatorio las partes o presuntos propietarios, en los procedimientos de expropiación, consta el nombre de los intervinientes y las incidencias, que por su orden rolan en los registros siguientes: No. 42 Tomo 492; No. 44 Tomo 492; No. 43 Tomo 492; No. 11 Tomo 492; y, No. 40 Tomo 292 del Registro de Sentencias que al efecto lleva el Registro de la Propiedad Inmueble y Mercantil de Tegucigalpa, Francisco Morazán.
 
 CONSIDERANDO: Que las solicitudes se encuentran registradas y resueltas según su relación de la forma siguiente:
 
-COLONIA ALTOS DE LA CASCADA, Expediente No.
-
-SR-UEE-021-2018, Resolución de Declaratoria No. UEE- 012-2019 de fecha diecinueve (19) de julio del año dos mil diecinueve (2019): COLONIA JOSÉ TRINIDAD CABAÑAS, Expediente No. SR-UEE-001-2019, Resolución de Declaratoria No. UEE-013-2019 de fecha veintitrés (23) de julio del año dos mil diecinueve (2019): COLONIA ALTOS DE LA QUEZADA, Expediente No. SR-UEE-018-2018, Resolución de Declaratoria No. UEE-015-2019, de fecha veinticuatro (24) de julio del año dos mil diecinueve (2019): COLONIA ALTOS DE LA CENTROAMÉRICA, Expediente No. 1802-2014-21-E, Resolución de Declaratoria No. UEE-016-2019 de fecha veintitrés (23) de julio del año dos mil diecinueve (2019); y, ALDEA LA SOLEDAD NO. 2, Expediente No. SR-UEE-020-2018, Resolución de Declaratoria No. UEE-017-2019 de fecha veinticuatro (24) de julio del año dos mil diecinueve (2019), emitidas por el Instituto de la Propiedad a través de la Unidad Especial de Expropiación, en las que declara de Necesidad Pública Ia Regularización de los predios correspondientes a los bienes inmuebles que ocupan los Asentamientos Humanos denominados “COLONIA ALTOS DE LA CASCADA”, “COLONIA JOSÉ TRINIDAD CABAÑAS”, “COLONIA ALTOS DE LA QUEZADA”, “COLONIA ALTOS DE LA CENTROAMÉRICA”, y “ALDEA LA SOLEDAD NO. 2”, situadas en Comayagüela, municipio del Distrito Central, Departamento de Francisco Morazán, mismas que fueron declaradas fracasadas.
+COLONIA ALTOS DE LA CASCADA, Expediente No. SR-UEE-021-2018, Resolución de Declaratoria No. UEE-012-2019 de fecha diecinueve (19) de julio del año dos mil diecinueve (2019): COLONIA JOSÉ TRINIDAD CABAÑAS, Expediente No. SR-UEE-001-2019, Resolución de Declaratoria No. UEE-013-2019 de fecha veintitrés (23) de julio del año dos mil diecinueve (2019): COLONIA ALTOS DE LA QUEZADA, Expediente No. SR-UEE-018-2018, Resolución de Declaratoria No. UEE-015-2019, de fecha veinticuatro (24) de julio del año dos mil diecinueve (2019): COLONIA ALTOS DE LA CENTROAMÉRICA, Expediente No. 1802-2014-21-E, Resolución de Declaratoria No. UEE-016-2019 de fecha veintitrés (23) de julio del año dos mil diecinueve (2019); y, ALDEA LA SOLEDAD NO. 2, Expediente No. SR-UEE-020-2018, Resolución de Declaratoria No. UEE-017-2019 de fecha veinticuatro (24) de julio del año dos mil diecinueve (2019), emitidas por el Instituto de la Propiedad a través de la Unidad Especial de Expropiación, en las que declara de Necesidad Pública Ia Regularización de los predios correspondientes a los bienes inmuebles que ocupan los Asentamientos Humanos denominados “COLONIA ALTOS DE LA CASCADA”, “COLONIA JOSÉ TRINIDAD CABAÑAS”, “COLONIA ALTOS DE LA QUEZADA”, “COLONIA ALTOS DE LA CENTROAMÉRICA”, y “ALDEA LA SOLEDAD NO. 2”, situadas en Comayagüela, municipio del Distrito Central, Departamento de Francisco Morazán, mismas que fueron declaradas fracasadas.
 
 CONSIDERANDO: Que el Instituto de Ia Propiedad, en cumplimiento del Artículo 79 de la Ley de Propiedad, solicitó mediante oficio al Poder Ejecutivo la expropiación de los inmuebles relacionados, en razón de haberse acreditado el cumplimiento de los requisitos de la Ley de Propiedad y su reglamento, para declarar la regularización por causa de necesidad pública, de los inmuebles donde se ubican los asentamientos humanos previamente relacionados.
 
@@ -71,15 +67,13 @@ ARTÍCULO 1.- Declarar Ia Expropiación Forzosa por Causa de Necesidad Pública 
 
 “COLONIA ALTOS DE LA CASCADA”, con las siguientes características: ÁREA: Veintidós hectáreas (22 Has).
 
-COLINDANCIAS: AL NORTE, con predio 0801-5034- 00012. AL SUR, con predio 0801-5035-00002. AL ESTE, Colonia Monte de los Olivos. AL OESTE, El Mogote.
+COLINDANCIAS: AL NORTE, con predio 0801-5034-00012. AL SUR, con predio 0801-5035-00002. AL ESTE, Colonia Monte de los Olivos. AL OESTE, El Mogote.
 
 “COLONIA JOSÉ TRINIDAD CABAÑAS”, con las siguientes características: ÁREA: Cuatro punto setenta y ocho hectáreas (4.78 Has). COLINDANCIAS: AL NORTE, con la Colonia Berlín. AL SUR, con la Colonia Monte de los Olivos. AL ESTE, Colonia Unidad y Fuerza. AL OESTE, con predio 0801-5034-00010.
 
 “COLONIA ALTOS DE LA QUEZADA”, con las siguientes características: ÁREA: Uno punto cero cuatro hectáreas (1.04 Has). COLINDANCIAS: AL NORTE, con la Colonia Australia. AL SUR, con la Colonia Nueva España. AL ESTE, Colonia Residencial La Huerta. AL OESTE, Colonia Vicente López.
 
-“COLONIA ALTOS DE LA CENTROAMÉRICA”, con las siguientes características: ÁREA: Nueve punto cuarenta y cinco hectáreas (9.45 Has). COLINDANCIAS: AL NORTE, Cementerio Divino Paraíso. AL SUR, aldea La Soledad No.
-
-2 y Colonia El Manzanal. AL ESTE, Colonia Centroamérica Oeste, Colonia El Manzanal, con Anillo Periférico de por medio. AL OESTE, Colonia Buena Vista y “Aldea La Soledad No. 2”.
+“COLONIA ALTOS DE LA CENTROAMÉRICA”, con las siguientes características: ÁREA: Nueve punto cuarenta y cinco hectáreas (9.45 Has). COLINDANCIAS: AL NORTE, Cementerio Divino Paraíso. AL SUR, aldea La Soledad No. 2 y Colonia El Manzanal. AL ESTE, Colonia Centroamérica Oeste, Colonia El Manzanal, con Anillo Periférico de por medio. AL OESTE, Colonia Buena Vista y “Aldea La Soledad No. 2”.
 
 “ALDEA LA SOLEDAD NO. 2”, con las siguientes características: ÁREA: Treinta y dos punto cincuenta y nueve hectáreas (32.59 Has). COLINDANCIAS: AL NORTE, Colonia Nueva Capital, Colonia Mary Flake, Colonia Linda Vista; y, Colonia Altos de La Centroamérica. AL SUR, Colonia Australia, Barrio Los Robles, Colonia Unidad y Fuerza. AL ESTE, Colonia Ciudad Lempira, predio de Rufino Casco y calle de por medio (Anillo Periférico, con Colonia Altos de La Fuente). AL OESTE, Colonia Unidad y Fuerza.
 

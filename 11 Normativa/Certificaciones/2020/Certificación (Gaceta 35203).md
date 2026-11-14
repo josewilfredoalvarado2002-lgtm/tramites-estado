@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200318-35203/download"
 extraido: "2026-11-14"
-huella: "053b02db0a2f5ace"
+huella: "39cb44b40f9afa75"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,7 +27,7 @@ huella: "053b02db0a2f5ace"
 
 ## Texto
 
-El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice:. “RESOLUCIÓN No.2076-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiocho de octubre del dos mil diecinueve.
+El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice:. “RESOLUCIÓN No. 2076-2019. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veintiocho de octubre del dos mil diecinueve.
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha diecisiete de septiembre del dos mil diecinueve, la cual corre agregada al expediente administrativo No. PJ-17092019-798, por el Abogado LEONEL DAMIAN SUAZO CASTILLO, en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA SAN AGUSTIN, MUNICIPIO DE EL NEGRITO, DEPARTAMENTO DE YORO, con domicilio en la Aldea San Agustín, municipio de El Negrito, departamento de Yoro; contraída a solicitar la Personalidad Jurídica a favor de su representada.
 
@@ -53,9 +53,7 @@ SEXTO: Que la Asociación Civil de beneficio mutuo, denominada JUNTA ADMINISTRAD
 
 SÉPTIMO: Que de acuerdo a lo establecido en el artículo 11 de los Estatutos aprobados por la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA SAN AGUSTIN, MUNICIPIO DE EL NEGRITO, DEPARTAMENTO DE YORO, la Asamblea General, es la máxima autoridad de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA SAN AGUSTIN, MUNICIPIO DE EL NEGRITO, DEPARTAMENTO DE YORO, expresa la voluntad colectiva de los usuarios debidamente convocados. Para tratar los asuntos relacionados con el sistema y crear una comunicación y coordinación en su comunidad, se harán reuniones así: a) Trimestralmente en forma ordinaria con los usuarios del servicio y cuando fuese necesario de urgencia en forma extraordinaria. Esta resolución no le da validez a cualquier disposición contenida en los mismos, que sean contrarias a la Constitución de la República y las Leyes.
 
-OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No.
-
-002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los
+OCTAVO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los
 
 Artículos 11, 16, 119 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -137,7 +135,7 @@ ARTÍCULO 12.- Son funciones de la Asamblea de Usuarios: a.- Elegir o distribuir
 
 #### Artículo 13
 
-ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva es el órgano de gobierno más importante de la Junta Administradora de Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente(a) . 2.- Un Vicepresidente(a) ; 3.- Secretario (a) . 4.- Un Tesorero(a). 5.- Un Fiscal, 6.-Un Vocal primero, y; 7.- Un Vocal segundo.
+ARTÍCULO 13.- Después de la Asamblea de Usuarios, la Junta Directiva es el órgano de gobierno más importante de la Junta Administradora de Agua; y estará en funciones por un período de dos años pudiendo ser reelectos por un período más, ejerciendo dichos cargos ad honorem.- Para ser miembro de la Junta Directiva deberá cumplir con los requisitos establecidos en los artículos 36, 37 del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento y estará conformada por siete (7) miembros: 1.- Un Presidente(a) . 2.- Un Vicepresidente(a); 3.- Secretario (a) . 4.- Un Tesorero(a). 5.- Un Fiscal, 6.-Un Vocal primero, y; 7.- Un Vocal segundo.
 
 #### Artículo 14
 

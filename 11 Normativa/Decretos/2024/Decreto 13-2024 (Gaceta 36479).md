@@ -11,7 +11,7 @@ paginas: "A. 93 - 152"
 sumario: "Decretos Nos. 9-2024, 12-2024, 13-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240307-36479/download"
 extraido: "2026-11-14"
-huella: "83ec67370321dca2"
+huella: "f699a9135333f2e8"
 ---
 <!-- portal:inicio -->
 # DECRETO No.13-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el 46% de la población hondureña se encuentra en zonas rural
 
 CONSIDERANDO: Que la contribución de la agricultura familiar a la producción sectorial se estima en 56.5% y genera alrededor del 76.0% del empleo en el área rural, siendo esta una área estratégica para alcanzar la seguridad alimentaria y nutricional de la población, que proveerá una diversidad de productos alimenticios y generará desarrollo económico, ya que la agricultura familiar está inmersa en la producción nacional de maíz, frijol y café, así como en diferentes cultivos y actividades pecuarias.
 
-CONSIDERANDO: Que el Poder Ejecutivo autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) la suscripción con el Banco Centroamericano de Integración Económica (BCIE), del Contrato de Préstamo No.2332, suscrito en fecha 14 de diciembre de 2023, por un monto de veinticinco millones de dólares americano (US$25,000,000.00) recursos destinados a la ejecución del “Programa de Crédito para la Agroindustria y Cajas Rurales”, que tiene por objetivo contribuir a mejorar las condiciones de vida de la población en pobreza y pobreza extrema de Honduras a través del fortalecimiento de habilidades productivas y asociativas de micro, pequeños y medianos productores, emprendedores integrados en cajas rurales, así como facilitar el acceso a crédito en condiciones favorables para incrementar la seguridad alimentaria y el desarrollo del sector agropecuario y agroindustrial del país.
+CONSIDERANDO: Que el Poder Ejecutivo autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) la suscripción con el Banco Centroamericano de Integración Económica (BCIE), del Contrato de Préstamo No. 2332, suscrito en fecha 14 de diciembre de 2023, por un monto de veinticinco millones de dólares americano (US$25,000,000.00) recursos destinados a la ejecución del “Programa de Crédito para la Agroindustria y Cajas Rurales”, que tiene por objetivo contribuir a mejorar las condiciones de vida de la población en pobreza y pobreza extrema de Honduras a través del fortalecimiento de habilidades productivas y asociativas de micro, pequeños y medianos productores, emprendedores integrados en cajas rurales, así como facilitar el acceso a crédito en condiciones favorables para incrementar la seguridad alimentaria y el desarrollo del sector agropecuario y agroindustrial del país.
 
 CONSIDERANDO: Que la Ley de Contratación del Estado en su Artículo 13 establece que los contratos que contemplen exoneraciones, incentivos o concesiones fiscales, requerirán aprobación del Congreso Nacional, este requisito deberá cumplirse especialmente, cuando se trate de contratos que hayan de producir o prolongar sus efectos al siguiente período de Gobierno.
 
@@ -49,11 +49,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.2332 ENTRE EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE), EN SU CONDICIÓN DE PRESTAMISTA Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, EN SU CONDICIÓN DE PRESTATARIO DEL FINANCIAMIENTO DE HASTA VEINTICINCO MILLONES DE DÓLARES (US$25,000,000.00), RECURSOS DESTINADOS A LA EJECUCIÓN DEL “PROGRAMA DE CRÉDITO PARA LA AGROINDUSTRIA Y CAJAS RURALES”, suscrito el 14 de diciembre de 2023, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 2332 ENTRE EL BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE), EN SU CONDICIÓN DE PRESTAMISTA Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, EN SU CONDICIÓN DE PRESTATARIO DEL FINANCIAMIENTO DE HASTA VEINTICINCO MILLONES DE DÓLARES (US$25,000,000.00), RECURSOS DESTINADOS A LA EJECUCIÓN DEL “PROGRAMA DE CRÉDITO PARA LA AGROINDUSTRIA Y CAJAS RURALES”, suscrito el 14 de diciembre de 2023, que literalmente dice:
 
 ¨SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONTRATO DE PRÉSTAMO No.2332 “Programa de Creditito para la Agroindustria y Cajas Rurales” Celebrado entre el BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE) y la República de Honduras CONTRATO DE PRÉSTAMO NO. 2332 SECTOR PÚBLICO REPÚBLICA DE HONDURAS COMPARECENCIA DE LAS PARTES .............................................................................
+CONTRATO DE PRÉSTAMO No. 2332 “Programa de Creditito para la Agroindustria y Cajas Rurales” Celebrado entre el BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA (BCIE) y la República de Honduras CONTRATO DE PRÉSTAMO NO. 2332 SECTOR PÚBLICO REPÚBLICA DE HONDURAS COMPARECENCIA DE LAS PARTES .............................................................................
 
 #### Artículo 1
 
@@ -499,9 +499,9 @@ NUMERO ABA:
 
 CODIGO SWIFT:
 
-CITIUS33 NUMERO DE CUENTA: 36018528 A NOMBRE DE: BANCO CENTROAMERICANO D E I N T E G R A C I Ó N ECONÓMICA REFERENCIA:
+CITIUS33 NUMERO DE CUENTA: 36018528 A NOMBRE DE: BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA REFERENCIA:
 
-PRÉSTAMO No.2332, REPÚBLICA DE HONDURAS.
+PRÉSTAMO No. 2332, REPÚBLICA DE HONDURAS.
 
 Igualmente, el BCIE podrá modificar la cuenta y/o lugares en que el Prestatario deberá realizar los pagos en los términos y condiciones contenidos en este Contrato, en cuyo caso el BCIE, deberá notificar por escrito al Prestatario, por lo menos con quince (15) días hábiles de anticipación a la fecha en que dicho cambio deba surtir efecto.
 
@@ -1137,7 +1137,7 @@ Sin perjuicio de lo anterior declaramos conocer y aceptar que esta solicitud de 
 
 Atentamente, [Nombre del Prestatario] _______________________ [Nombre Impreso del Firmante] [Cargo del Firmante] Representante Autorizado Anexo 1 Al ANEXO B DE LA SOLICITUD PARA DESEMBOLSO DE FONDO ROTATORIO Nombre del Organismo Ejecutor Nombre del Programa Préstamo No. [ ] Control del Fondo Rotatorio Período del dd/mm/yy al dd/mm/yy Montos en USD Item Descripción Montos a Suma inicial del Fondo o saldo anterior Menos: b Gastos justificados del período c (=) Saldo pendiente de justificar (a - b) c.1 Fondos en cuenta bancaria c.2 Gastos pendientes de justificar Mas: d Monto no admitido para justificar e (=) Fondos disponibles (c.1 + d) Período de solicitud (Q):
 
-Más: g Gastos planificados del nuevo período h (=) Monto del desembolso (g - e) Nivel del Fondo Rotatorio (c + d + h) Nombre y Firma Representante Legal: ___________________________________ Fecha: ___________________________________ Nombre y Firma del Supervisor Externo (Si aplica): _________________________________ Fecha: __________________________________ ANEXO C – FORMATO DE NOTIFICACIÓN DE FIRMAS DEL PRESTATARIO En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero do 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218- 96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaria de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE ESTADOS UNIDOS DE AMÉRICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+Más: g Gastos planificados del nuevo período h (=) Monto del desembolso (g - e) Nivel del Fondo Rotatorio (c + d + h) Nombre y Firma Representante Legal: ___________________________________ Fecha: ___________________________________ Nombre y Firma del Supervisor Externo (Si aplica): _________________________________ Fecha: __________________________________ ANEXO C – FORMATO DE NOTIFICACIÓN DE FIRMAS DEL PRESTATARIO En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero do 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaria de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE ESTADOS UNIDOS DE AMÉRICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 [En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 

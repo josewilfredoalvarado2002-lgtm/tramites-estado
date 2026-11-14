@@ -11,7 +11,7 @@ paginas: "A. 10 - 11"
 sumario: "Acuerdos números: 203-2021, 218-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210416-35573/download"
 extraido: "2026-11-14"
-huella: "b05e14076d67fd57"
+huella: "ff43096fbbd43e8c"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 218-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administraci
 
 Son atribuciones y deberes comunes a los Secretarios de Estado, emitir Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y la firma de esos actos será autorizado por el Secretario General respectivo.
 
-CONSIDERANDO: Que mediante Acuerdo Número 86- 2020 de fecha 20 de agosto del año 2020, el Presidente Constitucional de la República nombra al Abog. Marco Antonio Midence Milla, como Secretario de Estado en el Despacho de Finanzas.
+CONSIDERANDO: Que mediante Acuerdo Número 86-2020 de fecha 20 de agosto del año 2020, el Presidente Constitucional de la República nombra al Abog. Marco Antonio Midence Milla, como Secretario de Estado en el Despacho de Finanzas.
 
 ACUERDA:
 

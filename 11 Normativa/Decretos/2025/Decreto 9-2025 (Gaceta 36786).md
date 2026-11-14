@@ -11,7 +11,7 @@ paginas: "A. 274 - 275"
 sumario: "Decretos Nos. 3-2025, 9-2025, 12-2025, 13-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250310-36786/download"
 extraido: "2026-11-12"
-huella: "7188bfb2bf0bf95d"
+huella: "6b4acf99c00ebe92"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 9-2025
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 1 y 2 del Decreto Legislativo No.104-2024 del 21 de noviembre de 2024, publicado en el Diario Oficial “La Gaceta” en fecha 28 de enero del 2025, bajo Edición No.36,751, contentivo de la AMNISTÍA REGISTRAL, los cuales deberán leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 1 y 2 del Decreto Legislativo No. 104-2024 del 21 de noviembre de 2024, publicado en el Diario Oficial “La Gaceta” en fecha 28 de enero del 2025, bajo Edición No. 36,751, contentivo de la AMNISTÍA REGISTRAL, los cuales deberán leerse de la manera siguiente:
 
 “ARTÍCULO 1.- AMNISTÍA
 

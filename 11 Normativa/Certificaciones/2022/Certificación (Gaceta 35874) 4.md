@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Certificaciones de los Acuerdos Nos. 041-2021, 042-2021, 043-2021, 001-2022, 002-2022, 005-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220316-35874/download"
 extraido: "2026-11-14"
-huella: "1721384ab2eebde5"
+huella: "cf613c0bfaa634b7"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "1721384ab2eebde5"
 
 La infrascrita Secretaria General de la Agencia de Regulación Sanitaria, CERTIFICA: El Acuerdo que literalmente dice:
 
-ACUERDO No. 001-2022. _ El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo Ejecutivo No. 110-C de fecha 30 de septiembre de 2021, Artículos 4 y 5 de la Ley de Procedimiento Administrativo, ACUERDA: 1. Delegar funcionalmente a la ciudadana DILCIA ANABEL MEDINA ESPINO, quien posee la identidad número 0615-1985- 01171, en el cargo de SECRETARIA GENERAL, misma que tendrá las facultades del cargo contenidas en la Ley de Administración Pública, Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Ley de Procedimiento Administrativo. 2. Hacer la transcripción del Presente Acuerdo. – COMUNÍQUESE Y PUBLÍQUESE.
+ACUERDO No. 001-2022. _ El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo Ejecutivo No. 110-C de fecha 30 de septiembre de 2021, Artículos 4 y 5 de la Ley de Procedimiento Administrativo, ACUERDA: 1. Delegar funcionalmente a la ciudadana DILCIA ANABEL MEDINA ESPINO, quien posee la identidad número 0615-1985-01171, en el cargo de SECRETARIA GENERAL, misma que tendrá las facultades del cargo contenidas en la Ley de Administración Pública, Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo, Ley de Procedimiento Administrativo. 2. Hacer la transcripción del Presente Acuerdo. – COMUNÍQUESE Y PUBLÍQUESE.
 
 – Dado en la ciudad de Comayagüela, municipio del Distrito Central. a los tres (03) días del mes de enero del año dos mil veintidós. (F y S) DR. FRANCIS RAFAEL CONTRERAS RIVERA, Comisionado Presidente ARSA.
 

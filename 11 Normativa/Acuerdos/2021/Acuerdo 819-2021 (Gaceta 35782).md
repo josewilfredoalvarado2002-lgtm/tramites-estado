@@ -11,7 +11,7 @@ paginas: "A. 13 - 17"
 sumario: "Acuerdos números 819-2021, 856-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211126-35782/download"
 extraido: "2026-11-14"
-huella: "1d745d830aec2ac4"
+huella: "327e2fa95fa1cc5a"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 819-2021
@@ -33,11 +33,9 @@ CONSIDERANDO: Que el Artículo No. 247 de la Constitución de la República esta
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo No. 351, establece que el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que mediante Decreto No.185-86 publicado en el Diario Oficial La Gaceta del 21 de noviembre de 1986, se establece el período comprendido del 15 de noviembre al 15 de enero de cada año, como los meses del hondureño en el extranjero, para que puedan ingresar al país libre de todo gravamen, tasas o recargo alguno, ropa, efectos personales, así como aparatos eléctricos portátiles; como estímulo para que los hondureños residentes permanentemente en el extranjero.
+CONSIDERANDO: Que mediante Decreto No. 185-86 publicado en el Diario Oficial La Gaceta del 21 de noviembre de 1986, se establece el período comprendido del 15 de noviembre al 15 de enero de cada año, como los meses del hondureño en el extranjero, para que puedan ingresar al país libre de todo gravamen, tasas o recargo alguno, ropa, efectos personales, así como aparatos eléctricos portátiles; como estímulo para que los hondureños residentes permanentemente en el extranjero.
 
-CONSIDERANDO: Que conforme al mandato contenido en el Artículo 6 del Decreto No. 185-86, mediante Acuerdo No.
-
-1482-B publicado en el Diario Oficial La Gaceta de fecha 10 de diciembre de 1986, se aprobó el reglamento que desarrolla las disposiciones contenidas en el citado Decreto, incluido el listado de mercancías que gozarán del beneficio de exención de gravamen, tasas o recargo.
+CONSIDERANDO: Que conforme al mandato contenido en el Artículo 6 del Decreto No. 185-86, mediante Acuerdo No. 1482-B publicado en el Diario Oficial La Gaceta de fecha 10 de diciembre de 1986, se aprobó el reglamento que desarrolla las disposiciones contenidas en el citado Decreto, incluido el listado de mercancías que gozarán del beneficio de exención de gravamen, tasas o recargo.
 
 CONSIDERANDO: Que habiendo transcurridos más de treinta y cuatro (34) años de la aprobación emisión del Reglamento del Decreto 185-86, se vuelve imperiosa la necesidad de su actualización conforme a la revolución tecnológica e innovación disruptiva en la industria de aparatos eléctricos portátiles y necesidades de la población hondureña.
 
@@ -47,17 +45,15 @@ CONSIDERANDO: Que el Artículo 36 numeral 8 de la Ley General de la Administraci
 
 CONSIDERANDO: Que el Artículo 9 numeral 1 del Código Tributario establece lo siguiente: el Presidente de la República por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) está facultado para dictar actos administrativos de carácter general denominados reglamentos, en el ámbito de su competencia de política tributaria y aduanera, y todos aquellas facultades que por disposición de la Constitución de la República y por Ley le correspondan, por sí o por conducta de la Secretaría de Estado…
 
-CONSIDERANDO: Que el Artículo 41 de la Ley de Procedimiento Administrativo, reformado con el Artículo 2 del Decreto Legislativo No.266-2013 establece que corresponde al Poder Ejecutivo expedir los reglamentos de la Administración Pública, salvo disposición contraria a la Ley.
+CONSIDERANDO: Que el Artículo 41 de la Ley de Procedimiento Administrativo, reformado con el Artículo 2 del Decreto Legislativo No. 266-2013 establece que corresponde al Poder Ejecutivo expedir los reglamentos de la Administración Pública, salvo disposición contraria a la Ley.
 
 CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas a través de la Dirección General de Política Tributaria, definir, dar seguimiento y evaluar la política tributaria, a fin de lograr una política fiscal sostenible en beneficio de la sociedad hondureña.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la ley de administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, el Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la ley de administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 29 numeral 15), 36 numeral 8, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; Artículo 9 numeral 1 del Código Tributario; Artículo 2 numeral 3 del Decreto No.278-2013, Decreto No.185-86 publicado en el Diario Oficial La Gaceta del 21 de noviembre de 1986; Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder ejecutivo, contenido en el Decreto PCM-35-2015.
+La Secretaría de Estado en el Despacho de Finanzas en uso de las facultades que establecen los Artículos 247, 255 y 351 de la Constitución de la República; Artículos 29 numeral 15), 36 numeral 8, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas; Artículo 9 numeral 1 del Código Tributario; Artículo 2 numeral 3 del Decreto No. 278-2013, Decreto No. 185-86 publicado en el Diario Oficial La Gaceta del 21 de noviembre de 1986; Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder ejecutivo, contenido en el Decreto PCM-35-2015.
 
 ACUERDA:
 
@@ -65,7 +61,7 @@ Aprobar el:
 
 REGLAMENTO A LAS DISPOSICIONES
 
-CONTENIDAS EN EL DECRETO No.185-86 QUE
+CONTENIDAS EN EL DECRETO No. 185-86 QUE
 
 REGULA EL PERIODO DEL HONDUREÑO EN EL EXTRANJERO
 
@@ -265,7 +261,7 @@ Que no se trate de mercancías de importación prohibida;
 
 #### Artículo 9
 
-ARTÍCULO 9. ATENCIÓN A VIAJEROS. Con el propósito de agilizar la recepción y otorgar un trámite preferencial amparados en el Decreto No.185-86, las diferentes Guardaturas Aéreas, Administraciones de Aduana Terrestres y Marítimas, así como los Puestos Fronterizos Integrados, deberán disponer del lugar y el personal adecuado.
+ARTÍCULO 9. ATENCIÓN A VIAJEROS. Con el propósito de agilizar la recepción y otorgar un trámite preferencial amparados en el Decreto No. 185-86, las diferentes Guardaturas Aéreas, Administraciones de Aduana Terrestres y Marítimas, así como los Puestos Fronterizos Integrados, deberán disponer del lugar y el personal adecuado.
 
 CAPÍTULO III DISPOSICIONES FINALES
 

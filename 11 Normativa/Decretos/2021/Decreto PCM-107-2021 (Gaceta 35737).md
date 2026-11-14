@@ -11,7 +11,7 @@ paginas: "A. 16 - 20"
 sumario: "Decretos Ejecutivos númerosPCM-107-2021, PCM-108-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211004-35737/download"
 extraido: "2026-11-14"
-huella: "b9cb5332743cf0af"
+huella: "1b501c634a5c9c53"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NUMERO PCM-107-2021
@@ -47,9 +47,9 @@ CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Se
 
 CONSIDERANDO: Que de conformidad con la Ley de Contratación del Estado en su Artículo 9, señala que la declaración del estado de emergencia se hará́ mediante Decreto del Presidente de la República en Consejo de Ministros o por el voto de las dos terceras partes de la respectiva Corporación Municipal.
 
-POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11 y 45, 248 y 252 de la Constitución de la República; Artículos 22 numerales 9) y 12), 116,117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266- 2013; Artículo 9 de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-005-2020, PCM-016-2020, PCM-023-2020 y PCM-146-2020.
+POR TANTO, En aplicación de los Artículos 59, 245 numerales 2, 11 y 45, 248 y 252 de la Constitución de la República; Artículos 22 numerales 9) y 12), 116,117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266-2013; Artículo 9 de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-005-2020, PCM-016-2020, PCM-023-2020 y PCM-146-2020.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

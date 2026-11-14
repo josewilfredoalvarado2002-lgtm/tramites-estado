@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1756-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230227-36166/download"
 extraido: "2026-11-14"
-huella: "9d0b69d01accf847"
+huella: "b66d23acd02d4348"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1756-2021
@@ -91,7 +91,7 @@ ARTÍCULO 4.- El fin primordial de los presentes Estatutos es regular y normal e
 
 #### Artículo 5
 
-ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamiento.- e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) Obtención del área de la microcuenca por medio de la compra , firma de convenios con dueños de terreno.
+ARTÍCULO 5.- La Organización tendrá los siguientes objetivos: a.- Mejorar la condición de salud de los abonados y de las comunidades en general.- b.- Asegurar una correcta administración del sistema. c.- Lograr un adecuado mantenimiento y operación del sistema.- d.- Solicitar capacitación y asesoría a las instituciones competentes según la ley Marco del Sector Agua Potable y Saneamiento.- e.- Gestionar financiamiento para mejorar el servicio de abastecimiento de agua potable y el saneamiento básico de la forma siguiente: 1) Obtención del área de la microcuenca por medio de la compra, firma de convenios con dueños de terreno.
 
 \2) Mejorando la infraestructura. 3) Construyendo obras que ayuden a mejorar el saneamiento de la comunidad.- f.- Vigilar porque la población use y maneje el agua adecuada mente y evitando el desperdicio del agua. g.- Gestionar la asistencia de técnica de SANAA necesaria para mantener adecuadamente el sistema.- h.- Realizar labores de vigilancia en todos los componentes del sistema: 1) Microcuencas 2) Acueducto 3) Saneamiento Básico).- i.- Asegurar la sostenibilidad de los servicios de agua potable y saneamiento básicos.- j.- Vigilar que la población practique hábitos higiénicos y sanitarios en los hogares.
 
@@ -119,7 +119,7 @@ CAPÍTULO IV DE LOS MIEMBROS, ATRIBUCIONES DE CADA ORGANO, ASAMBLEA DE USUARIOS,
 
 #### Artículo 10
 
-ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- Comités de apoyo integrada por : 1) Comité de Microcuencas.-
+ARTÍCULO 10.- La dirección, administración, operación y mantenimiento en el ámbito de todo el sistema estará a cargo de: a.- Asamblea de usuarios.- b.- Junta directiva.- c.- Comités de apoyo integrada por: 1) Comité de Microcuencas.-
 
 \2) Comité de operación y mantenimiento.- 3) Comité de saneamiento y educación de usuarios 4) Comité de vigilancia.
 
@@ -227,7 +227,7 @@ ARTÍCULO 30.- La presente resolución deberá inscribirse en el Registro Especi
 
 ARTÍCULO 31.- Los presentes Estatutos entrarán en vigencia luego de ser aprobados por el Poder Ejecutivo, publicados en el Diario Oficial LA GACETA con las limitaciones establecidas en la Constitución de la República y las Leyes; sus reformas o modificaciones se someterán al mismo procedimiento de su aprobación.
 
-SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE DELICIAS, DEL MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de :la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
+SEGUNDO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE DELICIAS, DEL MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ, se inscribirá en la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, indicando nombre completo, dirección exacta, así como los nombres de sus representantes y demás integrantes de:la Junta Directiva; asimismo, se sujetará a las disposiciones que dentro su marco jurídico le corresponden a esta Secretaría de Estado, a través del respectivo órgano interno verificando el cumplimiento de los objetivos para los cuales fue constituida.
 
 TERCERO: La JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE DELICIAS, DEL MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ, presentará anualmente ante el ENTE REGULADOR DE LOS SERVICIOS DE AGUA POTABLE Y SANEAMIENTO (ERSAPS), los estados financieros auditados que reflejen los ingresos, egresos y todo movimiento económico y contable, indicando su patrimonio actual, así como las modificaciones v variaciones del mismo, incluyendo herencias, legados y donaciones a través de un sistema contable legalizado. Las herencias, legados y donaciones provenientes del extranjero, se sujetarán a la normativa jurídica imperante en el país, aplicable según sea el caso, a través de los órganos Estatales constituidos para verificar la transparencia de los mismos.
 

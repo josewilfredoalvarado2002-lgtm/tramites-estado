@@ -11,7 +11,7 @@ paginas: "A. 15 - 20"
 sumario: "Decreto No. 236-2026, 237-2026, 2382026, 239-2026, 240-2026, 241-2026, 2422026, 243-2026, 248-2026, 249-2026, 2512026, 265-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "60869dc2410120cf"
+huella: "f44c8e474e3f2ba4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 241-2026
@@ -33,11 +33,9 @@ CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 
 
 CONSIDERANDO: Que la Municipalidad de Danlí, Departamento de El Paraíso, requiere de terrenos adecuados para la ejecución de proyectos orientados al desarrollo social, seguridad ciudadana y fortalecimiento institucional.
 
-CONSIDERANDO: Que mediante Decreto No.63-2019 se autorizó el traspaso de un terreno denominado “San Marcos”, con una extensión de treinta (30) manzanas, a favor de la Municipalidad de Danlí.
+CONSIDERANDO: Que mediante Decreto No. 63-2019 se autorizó el traspaso de un terreno denominado “San Marcos”, con una extensión de treinta (30) manzanas, a favor de la Municipalidad de Danlí.
 
-CONSIDERANDO: Que el Decreto No.63-2019 fue derogado expresamente por el Artículo 9 del Decreto No.
-
-53-2025, por lo que resulta necesario otorgar una nueva autorización legislativa para la transferencia del inmueble y regular su destino y condiciones de utilización.
+CONSIDERANDO: Que el Decreto No. 63-2019 fue derogado expresamente por el Artículo 9 del Decreto No. 53-2025, por lo que resulta necesario otorgar una nueva autorización legislativa para la transferencia del inmueble y regular su destino y condiciones de utilización.
 
 CONSIDERANDO: Que el terreno referido forma parte de una extensión mayor actualmente subutilizada, pese a existir una alta demanda municipal para fines de interés público.
 
@@ -53,7 +51,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241224-36723/download"
 extraido: "2026-11-14"
-huella: "1b84f00f70fa1e22"
+huella: "1235b5ca40a755fa"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ Secretaría de Estado en el Despacho de Defensa ACUERDO C.G. No. 017-2024 LA PRE
 
 CONSIDERANDO (01): Que la Constitución de la República en su artículo 245 numerales 2) y 25) establece que la Presidenta tiene a su cargo la Administración General del Estado, encontrándose entre sus atribuciones conferir condecoraciones conforme a la Ley.
 
-CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 párrafo primero, establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su AVANCE funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
+CONSIDERANDO (02): Que la Constitución de la República en el artículo 274 párrafo primero, establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su AVANCE funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad y reforma agraria.
 
 CONSIDERANDO (03): Que la Ley Constitutiva de las Fuerzas Armadas en su artículo 200 establece que se otorgarán condecoraciones y distinciones militares, a los miembros de las Fuerzas Armadas, a militares de naciones amigas y a personas e instituciones civiles, nacionales o extranjeras, en reconocimiento a actos heroicos, servicios distinguidos y méritos relevantes.
 
@@ -39,17 +39,17 @@ Todo miembro de las Fuerzas Armadas que cause baja por haber cumplido el tiempo 
 
 CONSIDERANDO (04): Que la Ley Constitutiva de las Fuerzas Armadas, en su artículo 201, establece que las condecoraciones y distinciones militares serán otorgadas de conformidad con lo establecido en el Reglamento respectivo.
 
-CONSIDERANDO (05): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en su artículo 1 literal
+CONSIDERANDO (05): Que el Reglamento de Condecoraciones y Distinciones Militares en su artículo 1 literal
 
-a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos m e r i t o r i o s , c r é a n s e l a s Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
+a) establece que con el fin de premiar a los miembros de las Fuerzas Armadas de Honduras y personas civiles, nacionales o extranjeras y militares de naciones amigas en reconocimiento a relevantes servicios prestados a la patria mediante actos de valor excepcional, capacidad profesional y demás hechos meritorios, créanse las Condecoraciones y Distinciones Militares: a) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (06): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares, en su artículo 7 establece que la Condecoración Medalla “GRAN CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Comandante General de las Fuerzas Armadas, Jefe del Estado Mayor Conjunto, Cargos Análogos Civiles, Nacionales y Extranjeros, titulares o presidentes de los Poderes del Estado, así como de las diferentes iglesias.
+CONSIDERANDO (06): Que el Reglamento de Condecoraciones y Distinciones Militares, en su artículo 7 establece que la Condecoración Medalla “GRAN CRUZ DE LAS FF.AA.”, será otorgada por la Presidenta Constitucional de la República, a propuesta del Consejo General de Condecoraciones y Distinciones Militares, a través de la Jefatura del Estado Mayor Conjunto a: Comandante General de las Fuerzas Armadas, Jefe del Estado Mayor Conjunto, Cargos Análogos Civiles, Nacionales y Extranjeros, titulares o presidentes de los Poderes del Estado, así como de las diferentes iglesias.
 
-CONSIDERANDO (07): Q u e e l R e g l a m e n t o d e Condecoraciones y Distinciones Militares en el artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes:
+CONSIDERANDO (07): Que el Reglamento de Condecoraciones y Distinciones Militares en el artículo 45 establece las atribuciones del Consejo General de Condecoraciones y Distinciones Militares, dentro de las cuales se hace referencia específica en el inciso a) Conocer y resolver sobre el otorgamiento de las condecoraciones y distinciones militares siguientes:
 
 \1) MEDALLA “GRAN CRUZ DE LAS FF.AA.”.
 
-CONSIDERANDO (08): Que en fecha 12 de junio del 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 009- 2024, otorgar la condecoración;
+CONSIDERANDO (08): Que en fecha 12 de junio del 2024, el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas, resolvió mediante Acta No. 009-2024, otorgar la condecoración;
 
 Medalla “GRAN CRUZ DE
 
@@ -63,7 +63,7 @@ RICHARSON.
 
 POR TANTO:
 
-En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal b), 7,45 literal a) numeral 1) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 009- 2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 12 de junio del 2024 y Dictamen D=101(C-1) 2024 de fecha 14 de junio del 2024.
+En aplicación a los artículos 245 numeral 25), 274 párrafo primero de la Constitución de la República; artículos 200 y 201 de la Ley Constitutiva de las Fuerzas Armadas; artículos 1 literal b), 7,45 literal a) numeral 1) del Reglamento de Condecoraciones y Distinciones Militares; Acta No. 009-2024 emitida por el Consejo General de Condecoraciones y Distinciones Militares de las Fuerzas Armadas en fecha 12 de junio del 2024 y Dictamen D=101(C-1) 2024 de fecha 14 de junio del 2024.
 
 ACUERDA:
 

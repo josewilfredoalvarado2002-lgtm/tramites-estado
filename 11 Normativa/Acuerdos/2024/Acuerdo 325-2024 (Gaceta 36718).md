@@ -11,7 +11,7 @@ paginas: "A. 1 - 40"
 sumario: "Acuerdo No. 325-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241218-36718/download"
 extraido: "2026-11-14"
-huella: "30f84d3f198c6b4f"
+huella: "6bd8244b1479505a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 325-2024
@@ -39,7 +39,7 @@ CONSIDERANDO: Que, el artículo 118 de la Ley General de la Administración Púb
 
 CONSIDERANDO: Que, la Ley General de la Administración Pública regula la jerarquía de los actos administrativos en el artículo 119, los cuales los establece en el siguiente orden: “…1. Decretos; 2. Acuerdos del Presidente de la República; 3. Acuerdos de los Secretarios de Estados; y, 4. Acuerdos de los órganos subordinados, según el orden de su jerarquía. Los Decretos, así como los Acuerdos del Presidente de la República y de los Secretarios de Estados, serán publicados en el Diario Oficial “La Gaceta”.
 
-CONSIDERANDO: Que, la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), se creó mediante Decreto Ejecutivo número PCM-41-2023, publicado en el Diario Oficial “La Gaceta” No.36,357 en fecha 13 de octubre del año 2023, como la institución responsable de la rectoría, formulación, coordinación, gestión, monitoreo y evaluación de la política pública y la normativa de la garantía y la protección integral de los derechos de la niñez, adolescencia y familia, así como de los programas y servicios especializados en la materia.
+CONSIDERANDO: Que, la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), se creó mediante Decreto Ejecutivo número PCM-41-2023, publicado en el Diario Oficial “La Gaceta” No. 36,357 en fecha 13 de octubre del año 2023, como la institución responsable de la rectoría, formulación, coordinación, gestión, monitoreo y evaluación de la política pública y la normativa de la garantía y la protección integral de los derechos de la niñez, adolescencia y familia, así como de los programas y servicios especializados en la materia.
 
 CONSIDERANDO: Que, la Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), tiene la atribución de proponer, diseñar y asegurar la implementación de programas de fortalecimiento de entornos familiares orientados a proveer competencias integrales para el cuidado de los niños, niñas y adolescentes; asimismo, establecer, monitorear y evaluar los entandares de calidad de operación de las instituciones que presten servicios dirigidos al cuidado y protección de niños, niñas, adolescentes y familias; así como transferir recursos financieros a los organismos responsables de la ejecución directa de estos programas de cuidado alternativo y otros servicios necesarios para la protección de la niñez.
 
@@ -205,7 +205,7 @@ Bajo ese marco conceptual, se inicia en el año 2018, el pilotaje del Protocolo 
 
 A partir del año 2022, los aprendizajes derivados del Protocolo de Familias de Protección Temporal lograron consolidar una medida de protección que se destaca por su alineación con la normativa nacional e internacional, así como por su calidad técnica y metodológica, diferenciándose de las medidas tradicionales.
 
-Es importante destacar que, el Estado de Honduras, ante la obligación que le corresponde de garantizar la cobertura de los derechos de las niñas, niños y adolescentes y la responsabilidad de protegerla de manera prioritaria, aprobó el 13 de octubre del año 2023, el Decreto Ejecutivo PCM- 41- 2023, a través del cual autorizó la creación de la “Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia”.
+Es importante destacar que, el Estado de Honduras, ante la obligación que le corresponde de garantizar la cobertura de los derechos de las niñas, niños y adolescentes y la responsabilidad de protegerla de manera prioritaria, aprobó el 13 de octubre del año 2023, el Decreto Ejecutivo PCM-41-2023, a través del cual autorizó la creación de la “Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia”.
 
 El Decreto determina como prioritaria la “Promoción e integración de la familia como el espacio más adecuado para el desarrollo y protección de la niñez y la adolescencia, así como para el fortalecimiento del tejido social”; en concordancia con la Observación 52 del documento Observaciones Finales en los Informes Periódicos Cuarto y Quinto Combinados de Honduras (2015), del Comité Internacional de los Derechos del Niño, al Estado Hondureño, que determina como prioritario “brindar asistencia apropiada a los padres para el cumplimiento de sus obligaciones en el cuidado y educación de sus hijos, particularmente en las necesidades de los niños de familias monoparentales”.
 

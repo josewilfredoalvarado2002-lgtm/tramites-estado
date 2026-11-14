@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221121-36082/download"
 extraido: "2026-11-14"
-huella: "cb3e71a42b64315a"
+huella: "c74d5a2295b7ee8b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-27-2022
@@ -41,11 +41,11 @@ CONSIDERANDO: Que la Ley General de la Administración Pública en su artículo 
 
 CONSIDERANDO: Que la Unidad Técnica de Seguridad Alimentaria y Nutricional (UTSAN) mediante Decreto Ejecutivo número PCM 009-2018 artículo 1 numeral 5), publicado en el Diario Oficial “La Gaceta” el 23 de marzo de 2018 en su edición 34,600, la UTSAN fue adscrita a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 05-2022 de fecha 6 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” de esa misma fecha en su edición No.35,892, en su artículo 21 numeral 1), fue suprimida la Secretaría de Estado en el Despacho de Coordinación General de Gobierno, por lo que resulta necesario adscribir dicha Unidad a otra Secretaría de Estado.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM 05-2022 de fecha 6 de abril del año 2022, publicado en el Diario Oficial “La Gaceta” de esa misma fecha en su edición No. 35,892, en su artículo 21 numeral 1), fue suprimida la Secretaría de Estado en el Despacho de Coordinación General de Gobierno, por lo que resulta necesario adscribir dicha Unidad a otra Secretaría de Estado.
 
 POR TANTO, En aplicación de los Artículos 245 numerales 2 y 11 y 345 de la Constitución de la República; Artículos 11, 14 numeral, 4, 22 numeral 3, 116, 117 y 119 de la Ley General de la Administración Pública; Decreto Ejecutivo Número PCM 009-2018; Decreto Ejecutivo Número PCM 05-2022; y demás aplicables.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

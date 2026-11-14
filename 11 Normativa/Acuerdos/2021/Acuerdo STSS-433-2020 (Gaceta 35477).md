@@ -11,7 +11,7 @@ paginas: "A. 18 - 19"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "e8cd9cc484ccd91a"
+huella: "9b0529dec8a24848"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-433-2020
@@ -33,7 +33,7 @@ ACUERDA:
 
 PRIMERO: Cancelar por Defunción al ciudadano Wilfredo Paz, en el puesto de Conductor de Automóviles, Institución 130 Secretaría de Trabajo y Seguridad Social, Programa; 002, Unidades de Apoyo, Unidad Ejecutora;
 
-002 Unidades de Apoyo, Subprograma; 00, Versión 1, Actividad/Obra 009, Unidad; Servicios de Coordinación Regional, Número de Puesto; 0740, Grupo-Nivel; 01-02, Sueldo Mensual Lps.13,460.00 (Trece Mil Cuatrocientos Sesenta Lempiras Exactos), Acción de Personal N°. 033- 2020, aprobada por la Dirección General de Servicio Civil, Efectividad: 09 de junio del 2020.
+002 Unidades de Apoyo, Subprograma; 00, Versión 1, Actividad/Obra 009, Unidad; Servicios de Coordinación Regional, Número de Puesto; 0740, Grupo-Nivel; 01-02, Sueldo Mensual Lps.13,460.00 (Trece Mil Cuatrocientos Sesenta Lempiras Exactos), Acción de Personal N°. 033-2020, aprobada por la Dirección General de Servicio Civil, Efectividad: 09 de junio del 2020.
 
 SEGUNDO: El presente Acuerdo debe publicarse en el Diario Oficial “La Gaceta”.
 

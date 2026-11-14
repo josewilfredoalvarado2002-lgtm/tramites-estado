@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo No. CSJ-8-2023, CSJ-9-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230914-36334/download"
 extraido: "2026-11-14"
-huella: "c8fd2b961dc83781"
+huella: "9853651b7b834034"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-9-2023
@@ -35,7 +35,7 @@ El Pleno de la Corte Suprema de Justicia Parte Considerativa Considerando (1): Q
 
 Considerando (2): Que por disposición constitucional le corresponde a la Corte Suprema de Justicia, entre otras, la atribución de “… 11) Fijar la división del territorio para efectos jurisdiccionales; 12) Crear, suprimir, fusionar o trasladar los Juzgados, Cortes de Apelaciones y demás dependencias del Poder Judicial…”.
 
-Considerando (3): Que mediante Acuerdo No 02- 2016, de fecha tres de mayo de 2016, la Corte Suprema de Justicia creó el Juzgado de Letras, Tribunal de Sentencia y Corte de Apelaciones con Competencia Nacional en materia de Extorsión, a los cuales se les asignó conocer del delito de Extorsión, contemplado en el artículo 222 del Código Penal, contenido en el Decreto No 144-83, y sus delitos conexos conforme a las reglas de conexión del Código Procesal Penal.
+Considerando (3): Que mediante Acuerdo No 02-2016, de fecha tres de mayo de 2016, la Corte Suprema de Justicia creó el Juzgado de Letras, Tribunal de Sentencia y Corte de Apelaciones con Competencia Nacional en materia de Extorsión, a los cuales se les asignó conocer del delito de Extorsión, contemplado en el artículo 222 del Código Penal, contenido en el Decreto No 144-83, y sus delitos conexos conforme a las reglas de conexión del Código Procesal Penal.
 
 Y se creó un Tribunal de Sentencia de Extorsión, cuya sede sería en la ciudad de Tegucigalpa, Francisco Morazán, con competencia territorial a nivel nacional.
 
@@ -45,7 +45,7 @@ Considerando (5): Que es imperativo para el Estado de Honduras fortalecer el sis
 
 Parte Dispositiva La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias; artículos: 313 numeral 1 de la Constitución de la República, reformado mediante Decreto Legislativo No 282-2010, ratificado mediante Decreto Legislativo No 5-2011; y 3 transitorio de los Decretos mencionados:
 
-A c u e r d a Primero: Integrar un Tribunal de Sentencia con Competencia Territorial Nacional en Materia Penal de Criminalidad Organizada y Corrupción, con sede en la ciudad de San Pedro Sula, departamento de Cortés, que estará constituido por los jueces que integran actualmente la Sala Cuarta del Tribunal de Sentencia de la Sección Judicial de San Pedro Sula, departamento de Cortés y todo su personal auxiliar; que dependerán jerárquicamente de la Corte de Apelaciones de lo Penal con Competencia Nacional en Criminalidad Organizada y Corrupción, creada mediante Acuerdo No CSJ-8-2023 de 23 de junio de 2023.
+Acuerda Primero: Integrar un Tribunal de Sentencia con Competencia Territorial Nacional en Materia Penal de Criminalidad Organizada y Corrupción, con sede en la ciudad de San Pedro Sula, departamento de Cortés, que estará constituido por los jueces que integran actualmente la Sala Cuarta del Tribunal de Sentencia de la Sección Judicial de San Pedro Sula, departamento de Cortés y todo su personal auxiliar; que dependerán jerárquicamente de la Corte de Apelaciones de lo Penal con Competencia Nacional en Criminalidad Organizada y Corrupción, creada mediante Acuerdo No CSJ-8-2023 de 23 de junio de 2023.
 
 Segundo: El mencionado Tribunal de Sentencia tendrá competencia territorial en los departamentos de Ocotepeque, Copán, Santa Bárbara, Cortés, Atlántida, Yoro, Colón, Gracias a Dios e Islas de la Bahía, y conocerá exclusivamente del delito de Extorsión y sus delitos conexos, según las reglas de conexión que establece el Código Procesal Penal.
 

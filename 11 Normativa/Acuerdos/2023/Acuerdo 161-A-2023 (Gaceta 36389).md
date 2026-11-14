@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo SDN No. 161-A-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231121-36389/download"
 extraido: "2026-11-14"
-huella: "9a06b033e8d45e42"
+huella: "66ea38e0af7354e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO SDN No. 161-A-2023
@@ -35,9 +35,7 @@ CONSIDERANDO: Que conforme el artículo 87 de la Constitución de la República,
 
 CONSIDERANDO: Que conforme el Capítulo X de la Constitución de la República, las Fuerzas Armadas de Honduras son una institución nacional de carácter permanente, esencialmente profesional, apolítica, obediente y no deliberante. Se instituyen para defender la integridad territorial y la soberanía de la república, mantener la paz y cooperar con la Policía Nacional en la conservación del orden público. Las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás Leyes y reglamentos que regulen su funcionamiento.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No. 168-2013 (publicado en el Diario Oficial La Gaceta No.
-
-33,211 de fecha 24 de agosto de 2013), se crea la Policía Militar del Orden Público de las Fuerzas Armadas (PMOP), con competencia en todo el país, integrada por efectivos de las Fuerzas Armadas de Honduras, cuya función principal es dar cumplimiento a lo establecido en los artículos 272 y 274 de la Constitución de la República para garantizar la soberanía de la República, el mantenimiento y conservación del orden público, así como acudir en auxilio de la ciudadanía para salvaguardar la seguridad de las personas y sus bienes.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 168-2013 (publicado en el Diario Oficial La Gaceta No. 33,211 de fecha 24 de agosto de 2013), se crea la Policía Militar del Orden Público de las Fuerzas Armadas (PMOP), con competencia en todo el país, integrada por efectivos de las Fuerzas Armadas de Honduras, cuya función principal es dar cumplimiento a lo establecido en los artículos 272 y 274 de la Constitución de la República para garantizar la soberanía de la República, el mantenimiento y conservación del orden público, así como acudir en auxilio de la ciudadanía para salvaguardar la seguridad de las personas y sus bienes.
 
 Asimismo, el artículo 128 de la Ley Constitutiva de las Fuerzas Armadas de Honduras establece: “Son comandos especiales de las Fuerzas Armadas, los siguientes: 1) Comando de doctrina conjunta y educación militar; 2) Comando de Reservas Militares; 3) Comando Logístico; 4) La Policía Militar del Orden Público; y, 5) Otros que establezca la Secretaría de Estado en el Despacho de Defensa Nacional”.
 

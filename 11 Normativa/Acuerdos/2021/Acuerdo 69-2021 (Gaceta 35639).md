@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos Nos. 69-2021, 71-2021, 73-2021, 74-2021, 78-2021, 80-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210626-35639/download"
 extraido: "2026-11-14"
-huella: "f085240b0e0cb505"
+huella: "aac4544e266e05d1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 69-2021
@@ -31,7 +31,7 @@ EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO D
 
 ACUERDA:
 
-PRIMERO: Cancelar a la ciudadana LISSI MARCELA MATUTE CANO, de los cargos de Subsecretaria de Integración Social y como Encargada del Programa de Asignación Familiar (PRAF) , con la representación Legal y Firma de la Institución, a quien se le rinden las gracias por los servicios prestados.
+PRIMERO: Cancelar a la ciudadana LISSI MARCELA MATUTE CANO, de los cargos de Subsecretaria de Integración Social y como Encargada del Programa de Asignación Familiar (PRAF), con la representación Legal y Firma de la Institución, a quien se le rinden las gracias por los servicios prestados.
 
 SEGUNDO: El presente acuerdo es efectivo a partir de su fecha y debe publicarse en “La Gaceta” el Diario Oficial de la República.
 

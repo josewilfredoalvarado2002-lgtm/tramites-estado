@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ejecutivos números 009-2020, 013-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200721-35320/download"
 extraido: "2026-11-14"
-huella: "40fdf51be686e62d"
+huella: "439c3b10869dd454"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 013-2020
@@ -37,13 +37,9 @@ CONSIDERANDO: Que corresponde a la Procuraduría General de la República compar
 
 CONSIDERANDO: Que la Procuraduría General de la República, para poder ejercer las facultades de expresa mención consignadas en el Artículo 81 y 82 del Código Procesal Civil, para la cual se requiere la emisión de Acuerdo Ejecutivo suscrito por el Presidente de la República, según lo dispuesto en el Artículo 19, numeral 1° de su Ley Orgánica.
 
-CONSIDERANDO: Que mediante Resolución SB N°.
+CONSIDERANDO: Que mediante Resolución SB N°. 1654/17-12-2014 del 17 de diciembre de 2014, la Comisión Nacional de Bancos y Seguros resolvió declarar sin lugar los descargos presentados por el Licenciado Rodolfo Irías López, Presidente Ejecutivo de Financiera Popular Ceibeña, S.A., en virtud de que los mismos no desvanecen el incumplimiento a lo establecido en el Artículo 22, numeral 8) de la Resolución GE N°. 1769/12-11-2012 “Normas Complementarias para el Fortalecimiento de la Transparencia, la Cultura Financiera y Atención al Usuario Financiero”, notificado mediante Oficio SEGSE-OF-2044/2014 y ordenar a Financiera Popular Ceibeña, S.A., descontinuar de forma inmediata el cobro de comisiones por seguros de vida y daños (sobreprecio), en exceso al monto de la prima contratada en nombre de sus clientes y eximir a Financiera Popular Ceibeña, S.A., de las sanciones y multas establecidas en el Artículo 21, numeral 40 de la Resolución CNBS GE N°. 450/19-03-2012 Reglamento de Sanciones a ser aplicadas a las Instituciones Supervisadas “, a fin de coadyuvar al cumplimiento de los Planes de Regularización y Saneamiento de la Institución.
 
-1654/17-12-2014 del 17 de diciembre de 2014, la Comisión Nacional de Bancos y Seguros resolvió declarar sin lugar los descargos presentados por el Licenciado Rodolfo Irías López, Presidente Ejecutivo de Financiera Popular Ceibeña, S.A., en virtud de que los mismos no desvanecen el incumplimiento a lo establecido en el Artículo 22, numeral 8) de la Resolución GE N°. 1769/12-11-2012 “Normas Complementarias para el Fortalecimiento de la Transparencia, la Cultura Financiera y Atención al Usuario Financiero”, notificado mediante Oficio SEGSE-OF-2044/2014 y ordenar a Financiera Popular Ceibeña, S.A., descontinuar de forma inmediata el cobro de comisiones por seguros de vida y daños (sobreprecio), en exceso al monto de la prima contratada en nombre de sus clientes y eximir a Financiera Popular Ceibeña, S.A., de las sanciones y multas establecidas en el Artículo 21, numeral 40 de la Resolución CNBS GE N°. 450/19-03-2012 Reglamento de Sanciones a ser aplicadas a las Instituciones Supervisadas “, a fin de coadyuvar al cumplimiento de los Planes de Regularización y Saneamiento de la Institución.
-
-CONSIDERANDO: Que mediante Resolución SB N°.
-
-407/15-04-2015 del 15 de abril de 2015, la Comisión Nacional de Bancos y Seguros resolvió declarar sin lugar el recurso de reposición presentado por Financiera Popular Ceibeña, S.A., contra la Resolución SB N°. 1654/17-12-2014, en virtud que los argumentos presentados no desvanecen la práctica abusiva regulada por el Artículo 22, numeral 8) de la Resolución GE N°. 1769/12-11-2012 y ratificar en todas y cada una de sus partes la Resolución SB N°. 1654/17-12-2014 del 17 de diciembre de 2014, por haber sido dictada conforme a derecho.
+CONSIDERANDO: Que mediante Resolución SB N°. 407/15-04-2015 del 15 de abril de 2015, la Comisión Nacional de Bancos y Seguros resolvió declarar sin lugar el recurso de reposición presentado por Financiera Popular Ceibeña, S.A., contra la Resolución SB N°. 1654/17-12-2014, en virtud que los argumentos presentados no desvanecen la práctica abusiva regulada por el Artículo 22, numeral 8) de la Resolución GE N°. 1769/12-11-2012 y ratificar en todas y cada una de sus partes la Resolución SB N°. 1654/17-12-2014 del 17 de diciembre de 2014, por haber sido dictada conforme a derecho.
 
 CONSIDERANDO: Que en fecha ocho (08) de junio de 2015, la Abogada Brenda Ramona Hernández Reyes en su condición de Apoderada Legal de Financiera Popular Ceibeña, S.A., interpuso en el Juzgado de Letras de lo Contencioso Administrativo demanda contra el Estado de Honduras, por medio de la Comisión Nacional de Bancos y Seguros, solicitando el reconocimiento de una situación jurídica individualizada y la Nulidad de un acto administrativo consistente en la Resolución SB N°. 407/15-04-2015 del 15 de abril de 2015 emitida por la Comisión Nacional de Bancos y Seguros que declara sin lugar el Recurso de Reposición contra la Resolución SB N°. 1654/17-12-2014 del 17 de diciembre de 2014.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdos Nos. 273-2020, 276-2020, 278-2020, 280-2020, 281-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201219-35464/download"
 extraido: "2026-11-14"
-huella: "97d09099eb08c328"
+huella: "86b62aa0c79d1400"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 273-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que para cumplir con los objetivos de dicha eficacia, agilidad y s
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral I), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral I), 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27, 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 

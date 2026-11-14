@@ -11,7 +11,7 @@ paginas: "A. 1 - 454"
 sumario: "Decreto No. 96-2026Tomo I"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260629-37180/download"
 extraido: "2026-11-09"
-huella: "a6c770a908033da0"
+huella: "418b5a9e5f2b0893"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 96-2026
@@ -37,7 +37,7 @@ Tomo I
 
 CONSIDERANDO: Que el Artículo 13 de la Ley de Contratación del Estado establece la obligatoriedad de la aprobación legislativa de contratos cuyos efectos se extiendan al siguiente período gubernamental, constituyendo un mecanismo de control, transparencia y legalidad en la administración de recursos públicos y obligaciones contractuales del Estado.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.10-2024 se aprobó el Contrato de Préstamo No.2329 suscrito entre el Banco Centroamericano de Integración Económica (BCIE) y el Gobierno de la República de Honduras, por un monto de hasta CIENTO TREINTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$135,000,000.00), destinado a la ejecución del Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH), orientado al fortalecimiento integral del sistema nacional de salud.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 10-2024 se aprobó el Contrato de Préstamo No. 2329 suscrito entre el Banco Centroamericano de Integración Económica (BCIE) y el Gobierno de la República de Honduras, por un monto de hasta CIENTO TREINTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$135,000,000.00), destinado a la ejecución del Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH), orientado al fortalecimiento integral del sistema nacional de salud.
 
 CONSIDERANDO: Que en el marco del Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH), la Secretaría de Estado en el Despacho de Salud (SESAL) desarrolló procesos de contratación internacional para el diseño, construcción, equipamiento y puesta en marcha del Nuevo Hospital Regional del Sur en Choluteca y del Nuevo Hospital San Isidro de Tocoa, proyectos estratégicos destinados a incrementar la capacidad hospitalaria nacional y mejorar la cobertura sanitaria especializada.
 
@@ -57,13 +57,13 @@ Crear, decretar, interpretar, reformar y derogar las Leyes.
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
 ARTÍCULO 1.- Aprobar en todas y cada una de sus partes los contratos denominados:
 
-1. CONTRATO No.UEP-PARH- 0 0 1 - 2 0 2 4 - S S “ D I S E Ñ O , CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS” entre la SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD (SESAL) y el CONSORCIO HOSPITAL DE TOCOA por un monto de CINCUENTA Y OCHO MILLONES NOVECIENTOS NOVENTA MIL NOVENTA Y DOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 40/100 (US$. 58,990,092.40) y con un plazo de ejecución seiscientos treinta y ocho (638) días calendario posteriores a la orden de inicio del contrato siendo la fecha prevista para su finalización el 21 de julio de 2026, el que se lee literalmente de la manera siguiente: “CONTRATO NO.UEPPARH-001-2024-SS “DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS…” y su Enmienda de fecha 24 de Noviembre de 2025 la que se lee literalmente de la manera siguiente: “ENMIENDA NO.01-2025 CONTRATO NO. UEPPARH-001-2024-SS “DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS” CONTRATO PARA DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA Llave en Mano Nombre de la Operación:
+1. CONTRATO No.UEP-PARH-0 0 1 - 2 0 2 4 - S S “ DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS” entre la SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD (SESAL) y el CONSORCIO HOSPITAL DE TOCOA por un monto de CINCUENTA Y OCHO MILLONES NOVECIENTOS NOVENTA MIL NOVENTA Y DOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 40/100 (US$. 58,990,092.40) y con un plazo de ejecución seiscientos treinta y ocho (638) días calendario posteriores a la orden de inicio del contrato siendo la fecha prevista para su finalización el 21 de julio de 2026, el que se lee literalmente de la manera siguiente: “CONTRATO NO.UEPPARH-001-2024-SS “DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS…” y su Enmienda de fecha 24 de Noviembre de 2025 la que se lee literalmente de la manera siguiente: “ENMIENDA NO.01-2025 CONTRATO NO. UEPPARH-001-2024-SS “DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS” CONTRATO PARA DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA Llave en Mano Nombre de la Operación:
 
 Programa de Apoyo a la Red Hospitalaria Número de la Operación:
 
@@ -73,7 +73,7 @@ Contratación de Diseño, Construcción Equipamiento y Puesta en Marcha del Nuev
 
 DECLARA EL CONTRATANTE:
 
-a. CARLA MARINA PAREDES REYES, con Documento Nacional de Identificación DNI 0506-1966-01347, nombrada mediante Acuerdo Ejecutivo Número 12-2024 de fecha 03 de enero de 2024, SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, (SESAL), ubicada en el Barrio El Centro, Avenida Cervantes, contiguo al Correo Nacional de Honduras. Código Postal No. 11101, Tegucigalpa, Francisco Morazán, Honduras, Centroamérica, con teléfonos (504) 2242-8461 y (504) 2242- 8460, y quien aprueba la adjudicación del proceso de CONTRATACIÓN DE DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS; Nº. LPI-UAFCE-BCIE-002- 2024-SS.
+a. CARLA MARINA PAREDES REYES, con Documento Nacional de Identificación DNI 0506-1966-01347, nombrada mediante Acuerdo Ejecutivo Número 12-2024 de fecha 03 de enero de 2024, SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, (SESAL), ubicada en el Barrio El Centro, Avenida Cervantes, contiguo al Correo Nacional de Honduras. Código Postal No. 11101, Tegucigalpa, Francisco Morazán, Honduras, Centroamérica, con teléfonos (504) 2242-8461 y (504) 2242-8460, y quien aprueba la adjudicación del proceso de CONTRATACIÓN DE DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS; Nº. LPI-UAFCE-BCIE-002-2024-SS.
 
 b. Que convocó a LICITACIÓN PÚBLICA INTERNACIONAL para el DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS y que ha aceptado la oferta del CONTRATISTA para la ejecución de dichas Obras, por el monto de CINCUENTA Y OCHO MILLONES NOVECIENTOS NOVENTA MIL NOVENTA Y DOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA CON 40/100. US$. 58,990,092.40 (en adelante el “Precio del Contrato”).
 
@@ -85,13 +85,13 @@ El señor JOSÉ LUIS GALEOTE RUBIO, actúa en su calidad de Representante de cad
 
 a. El Representante de la Sociedad Mercantil SERVICIOS Y PRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN S. de R.L. de C.V. (SERPIC), lo cual, acredita mediante Carta Poder otorgada por CÉSAR SAÚL BRAN BARAHONA, en su calidad de Gerente General de la Sociedad Mercantil SERVICIOS Y PRESENTACIONES PARA LA INDUSTRIA Y LA CONSTRUCCIÓN S. de R.L. de C.V.
 
-(SERPIC), en que se le faculta para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la CONTRATACIÓN DEL DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y P U E S TA E N M A R C H A D E L NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, acta autorizada en Tegucigalpa, Municipio del Distrito Central, Francisco Morazán, Honduras, Centroamérica a los dos (02) días del mes de mayo de 2024, por el Notario Julio César Raudales Lanza,
+(SERPIC), en que se le faculta para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la CONTRATACIÓN DEL DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUES TA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, acta autorizada en Tegucigalpa, Municipio del Distrito Central, Francisco Morazán, Honduras, Centroamérica a los dos (02) días del mes de mayo de 2024, por el Notario Julio César Raudales Lanza,
 
 b. El Representante de la Sociedad Mercantil INGENIEROS CONSULT O R E S Y C O N S T R U C T O R E S ELECTROMECÁNICOS S.A. DE C.V.
 
 (ICCE), lo cual, acredita mediante Carta Poder otorgada por ARNALDO MARTÍNEZ ARGUETA, en su calidad de Gerente General de la Sociedad Mercantil INGENIEROS CONSULTORES Y CONSTRUCTORES ELECTROMECÁNICOS S.A. DE C.V.
 
-(ICCE), en que se le faculta para actuar en todo lo relacionado a la LICITACIÓN P Ú B L I C A I N T E R N A C I O N A L para la Contratación del DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, Acta autorizada en Tegucigalpa, M.D.C, Francisco Morazán, Tegucigalpa, Honduras, Centroamérica a los dos días (02) del mes de mayo de 2024, por el Notario Jaime Omar Silva Murillo.
+(ICCE), en que se le faculta para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la Contratación del DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, Acta autorizada en Tegucigalpa, M.D.C, Francisco Morazán, Tegucigalpa, Honduras, Centroamérica a los dos días (02) del mes de mayo de 2024, por el Notario Jaime Omar Silva Murillo.
 
 c. El Representante de la Sociedad Mercantil EDUCTRADE S.A. lo cual, acredita mediante Carta Poder otorgada por FRANCISCO JOSÉ MOZOS RODRÍGUEZ, en su calidad de Gerente General de la Sociedad Mercantil EDUCTRADE S.A. en que se le faculta para actuar en la República de Honduras en Representación de la referida Sociedad, Acta autorizada en Madrid, España, a los veintitrés (23) días del mes de mayo de 2024, por la Notaria Rocío Rodríguez Martin.
 
@@ -1179,7 +1179,7 @@ Si la garantía es emitida por una institución financiera bancaria situada fuer
 
 57.1 El monto de indemnización por daños y perjuicios está establecido conforme Ley de la Republica de Honduras.
 
-El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, se sancionará con multa equivalente a Ref. en Condiciones Particulares del Contrato (CPC) CGC CERO PUNTO TREINTA Y SEIS POR CIENTO (0.36%), por cada día de retraso, en relación con el monto total del saldo del contrato.
+El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, se sancionará con multa equivalente a Ref. en Condiciones Particulares del Contrato (CPC) CGC CERO PUNTO TREINTA Y SEIS POR CIENTO (0.36%), por cada día de retraso, en relación con el monto total del saldo del contrato.
 
 El monto máximo de la indemnización por daños y perjuicios para la totalidad de las obras es del 10% del precio total del Contrato.
 
@@ -1329,9 +1329,7 @@ Esta Garantía expirará no más tarde de treinta días contados a partir de la 
 
 Consecuentemente, cualquier solicitud de pago bajo esta Garantía deberá recibirse en esta institución en o antes de esta fecha.
 
-El Garante conviene en una sola extensión de esta Garantía por un plazo no superior a (seis meses) / (un año), en respuesta a una solicitud por escrito del Contratante de dicha extensión, la que será presentada al Garante antes de que expire la Garantía.” Esta Garantía está sujeta a las Reglas uniformes de la CCI relativas a las garantías pagaderas _________________________________ 9 Indique la fecha que corresponda treinta días después de la Fecha de terminación Prevista. contra primera solicitud (Uniform Rules for Demand Guarantees), Publicación del CCI No.
-
-758. (ICC, por sus siglas en inglés), excepto que el subpárrafo (ii) del subartículo 20 (a) está aquí excluido.
+El Garante conviene en una sola extensión de esta Garantía por un plazo no superior a (seis meses) / (un año), en respuesta a una solicitud por escrito del Contratante de dicha extensión, la que será presentada al Garante antes de que expire la Garantía.” Esta Garantía está sujeta a las Reglas uniformes de la CCI relativas a las garantías pagaderas _________________________________ 9 Indique la fecha que corresponda treinta días después de la Fecha de terminación Prevista. contra primera solicitud (Uniform Rules for Demand Guarantees), Publicación del CCI No. 758. (ICC, por sus siglas en inglés), excepto que el subpárrafo (ii) del subartículo 20 (a) está aquí excluido.
 
 ____________________________________________ (Firma(s) del (los) representante(s) autorizado(s) del banco) _______________________________________ Garantía Bancaria por Pago de Anticipo Garantía a primer requerimiento (El Banco / Oferente seleccionado que presenta esta Garantía deberá completar este formulario de acuerdo con las instrucciones indicadas entre corchetes, si en virtud del Contrato se hará un pago anticipado) (Membrete o código de identificación SWIFT del Garante) (Indique el Nombre del Banco, y la dirección de la sucursal u oficina que emite la garantía) Beneficiario: (indique el Nombre y dirección del Contratante) Llamado a Licitación SDO No.: (indique número de referencia del Llamado a Licitación o del proceso de selección) Fecha: (indique la fecha de emisión) Garante: (Indique el nombre y la dirección del lugar de emisión salvo que esté indicado en el membrete) GARANTÍA POR PAGO DE ANTICIPO No.: (indique el número de referencia de la Garantía) Se nos ha informado que (indique nombre del Contratista) (en adelante denominado “el Contratista”, (el cual en caso de APCA será el nombre de esta asociación si está legalmente constituida o por constituir, o los nombres de sus miembros)) ha celebrado con ustedes el contrato No. (número de referencia del contrato) denominado (indique el nombre del contrato, en caso de existir) de fecha (indique la fecha del contrato), para la ejecución de (indique el nombre del contrato y una breve descripción de las Obras) (en adelante denominado “el Contrato”).
 
@@ -1389,9 +1387,9 @@ FIRMA AUTORIZADA
 
 ENMIENDA No. 01-2025 CONTRATO Nº UEP-PARH-001-2024-SS CORRESPONDIENTE AL PROYECTO:
 
-D I S E Ñ O , C O N S T R U C C I Ó N , EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS En la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el 24 de noviembre de 2025, por una parte, La SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actúo en calidad de SUB SECRETARIA DE REDES EN EL DESPACHO DE SALUD, nombrada mediante Acuerdo Ejecutivo No. 57-2022 de fecha 02 de febrero del año 2022 y firma delegada mediante Acuerdo Ministerial No. 10391- 2025 de fecha 19 de noviembre de 2025; con el cual se me delega para que en representación del Secretaría de Estado en el Despacho de Salud (SESAL) suscriba la presente ENMIENDA No. 01-2025 y la empresa CONSORCIO HOSPITAL TOCOA, en adelante el Contratista, representado por JOSÉ LUIS GALEOTE RUBIO, con Documento Nacional de Identidad número 07.220.607-X extendido en España, con número de pasaporte PAV146547, número de identificación migratorio 01-2710-2017- 01984, quien actúa con nombramiento de representación de CONSORCIO HOSPITAL TOCOA.
+DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS En la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el 24 de noviembre de 2025, por una parte, La SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actúo en calidad de SUB SECRETARIA DE REDES EN EL DESPACHO DE SALUD, nombrada mediante Acuerdo Ejecutivo No. 57-2022 de fecha 02 de febrero del año 2022 y firma delegada mediante Acuerdo Ministerial No. 10391-2025 de fecha 19 de noviembre de 2025; con el cual se me delega para que en representación del Secretaría de Estado en el Despacho de Salud (SESAL) suscriba la presente ENMIENDA No. 01-2025 y la empresa CONSORCIO HOSPITAL TOCOA, en adelante el Contratista, representado por JOSÉ LUIS GALEOTE RUBIO, con Documento Nacional de Identidad número 07.220.607-X extendido en España, con número de pasaporte PAV146547, número de identificación migratorio 01-2710-2017-01984, quien actúa con nombramiento de representación de CONSORCIO HOSPITAL TOCOA.
 
-Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No. 1-2025 al CONTRATO Nº UEP-PARH- 001-2024-SS correspondiente al Proyecto:
+Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No. 1-2025 al CONTRATO Nº UEP-PARH-001-2024-SS correspondiente al Proyecto:
 
 Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital San Isidro de Tocoa, Honduras, en los términos, pactos, condiciones y estipulaciones siguientes:
 
@@ -1439,7 +1437,7 @@ Contexto actual: la coexistencia de las figuras “Director de Proyecto” y “
 
 Propuesta de inclusión:
 
-I n c o r p o r a r e n e l n u m e r a l 2 “INTERPRETACIÓN” de las Condiciones Generales del Contrato, la subcláusula 2.7, que se lee:
+Incorporar en el numeral 2 “INTERPRETACIÓN” de las Condiciones Generales del Contrato, la subcláusula 2.7, que se lee:
 
 2.7 Clarificación de denominación de roles:
 
@@ -1493,7 +1491,7 @@ Para la aprobación de marcas y modelos propuestas se mantienen los requerimient
 
 CLÁUSULA CUARTA RATIFICACIÓN Y ACEPTACIÓN
 
-Las partes manifiestan que dejan firme y ratifican todas y cada una de las disposiciones contenidas en el Contrato Nº UEP-PARH- 001-2024-SS correspondiente al Proyecto:
+Las partes manifiestan que dejan firme y ratifican todas y cada una de las disposiciones contenidas en el Contrato Nº UEP-PARH-001-2024-SS correspondiente al Proyecto:
 
 Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital San Isidro de Tocoa, Honduras, que no hubieren sido enmendadas por el presente documento, las que mantienen su vigencia y plena eficacia legal, aceptando además la presente Enmienda número *uno** guión dos mil veinticinco (**-2025) en lo que a cada una de ellas concierne y lo suscriben en señal de conformidad y constancia, en dos (2) ejemplares de un mismo tenor e igual fuerza obligatoria, uno para cada parte, en el lugar y fecha mencionados al principio del mismo.
 
@@ -1509,7 +1507,7 @@ Por parte de la empresa Ingenieros Consultores y Constructores Electromecánicos
 
 2024-SS “DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS” suscrito entre LA SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD, (SESAL) y la Empresa CHINA SFECO GROUP por un monto de SESENTA Y UN MILLONES DOSCIENTOS CUARENTA Y SEIS MIL VEINTITRÉS DOLARES DE ESTADOS UNIDOS DE AMERICA CON 28/100 (US$. 61,246,023.28) y con un plazo de ejecución de seiscientos cincuenta y nueve (659) días calendario posteriores a la orden de inicio del contrato posteriores a la orden de inicio del contrato siendo la fecha prevista para su finalización el 12 de agosto de 2026 el que se lee literalmente de la manera siguiente: “CONTRATO No.:
 
-UEP-PARH-002-2024-SS CONTRATACIÓN D E D I S E Ñ O , C O N S T R U C C I Ó N , EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS…” y su Enmienda de fecha 24 de noviembre de 2025 el que se lee literalmente de la manera siguiente: “ENMIENDA 01-2025 DEL CONTRATO No.: UEP-PARH-002- 2024-SS CONTRATACIÓN DE DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS ” C O N T R AT O PA R A D I S E Ñ O , CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA Llave en Mano Nombre de la Operación:
+UEP-PARH-002-2024-SS CONTRATACIÓN DE DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS…” y su Enmienda de fecha 24 de noviembre de 2025 el que se lee literalmente de la manera siguiente: “ENMIENDA 01-2025 DEL CONTRATO No.: UEP-PARH-002-2024-SS CONTRATACIÓN DE DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS ” CONTR AT O PA R A D I S E Ñ O, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA Llave en Mano Nombre de la Operación:
 
 Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH) Número de la Operación:
 
@@ -1525,7 +1523,7 @@ b. Que convocó a Licitación Pública Internacional para el Diseño, Construcci
 
 DECLARA EL CONTRATISTA:
 
-1. LIUZI ZHONG, con número de Pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa con nombramiento de representación de CHINA SFECO GROUP, ubicada en Calle Xiaomuqiao 681, SFECO MANSI 681, Piso 10, Shanghái, China 200032. Teléfono: 0086- 21-61952888. Fax: 0086-21-61952889. La señora Zhong actúa en su calidad de:
+1. LIUZI ZHONG, con número de Pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa con nombramiento de representación de CHINA SFECO GROUP, ubicada en Calle Xiaomuqiao 681, SFECO MANSI 681, Piso 10, Shanghái, China 200032. Teléfono: 0086-21-61952888. Fax: 0086-21-61952889. La señora Zhong actúa en su calidad de:
 
 a) Administrador y Representante Legal de la entidad mercantil CHINA SFECO GROUP lo que acredita con el Acta Notarial de Nombramiento N° (2024) H.J.Z.W.J.Z. N° 327, autorizada en Shanghái, China en fecha 13 de junio de 2024 por la Notaria Luo Dongping.
 
@@ -2443,7 +2441,7 @@ Si la garantía es emitida por una institución financiera bancaria situada fuer
 
 57.1 El monto de indemnización por daños y perjuicios está establecido conforme Ley de la Republica de Honduras.
 
-El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, se sancionará con multa equivalente a CERO PUNTO TREINTA Y SEIS POR CIENTO (0.36%), por cada día de retraso, en Ref. en Condiciones Particulares del Contrato (CPC) CGC relación con el monto total del saldo del contrato.
+El incumplimiento de los plazos parciales previstos al tenor del Artículo 72, párrafos segundo y tercero, de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de Julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, se sancionará con multa equivalente a CERO PUNTO TREINTA Y SEIS POR CIENTO (0.36%), por cada día de retraso, en Ref. en Condiciones Particulares del Contrato (CPC) CGC relación con el monto total del saldo del contrato.
 
 El monto máximo de la indemnización por daños y perjuicios para la totalidad de las obras es del 10% del precio total del Contrato.
 
@@ -2635,9 +2633,7 @@ El Garante conviene en una sola extensión de esta Garantía por un plazo no sup
 
 3 Indique la fecha que corresponda treinta días después de la Fecha de terminación Prevista.
 
-2 3 meses) / (un año), en respuesta a una solicitud por escrito del Contratante de dicha extensión, la que será presentada al Garante antes de que expire la Garantía.” Esta Garantía está sujeta a las Reglas uniformes de la CCI relativas a las garantías pagaderas contra primera solicitud (Uniform Rules for Demand Guarantees), Publicación del CCI No.
-
-758. (ICC, por sus siglas en inglés), excepto que el subpárrafo (ii) del subartículo 20 (a) está aquí excluido.
+2 3 meses) / (un año), en respuesta a una solicitud por escrito del Contratante de dicha extensión, la que será presentada al Garante antes de que expire la Garantía.” Esta Garantía está sujeta a las Reglas uniformes de la CCI relativas a las garantías pagaderas contra primera solicitud (Uniform Rules for Demand Guarantees), Publicación del CCI No. 758. (ICC, por sus siglas en inglés), excepto que el subpárrafo (ii) del subartículo 20 (a) está aquí excluido.
 
 (Firma(s) del (los) representante(s) autorizado(s) del banco) Garantía Bancaria por Pago de Anticipo Garantía a primer requerimiento (El Banco / Oferente seleccionado que presenta esta Garantía deberá completar este formulario de acuerdo con las instrucciones indicadas entre corchetes, si en virtud del Contrato se hará un pago anticipado) (Membrete o código de identificación SWIFT del Garante) (Indique el Nombre del Banco, y la dirección de la sucursal u oficina que emite la garantía) Beneficiario: ­ (indique el Nombre y dirección del Contratante) Llamado a Licitación SDO No.: (indique número de referencia del Llamado a Licitación o del proceso de selección) Fecha: (indique la fecha de emisión) Garante: (Indique el nombre y la dirección del lugar de emisión salvo que esté indicado en el membrete) GARANTÍA POR PAGO DE ANTICIPO No.: (indique el número de referencia de la Garantía) Se nos ha informado que (indique nombre del Contratista) (en adelante denominado “el Contratista”, (el cual en caso de APCA será el nombre de esta asociación si está legalmente constituida o por constituir, o los nombres de sus miembros)) ha celebrado con ustedes el contrato No. (número de referencia del contrato) denominado (indique el nombre del contrato, en caso de existir) de fecha (indique la fecha del contrato), para la ejecución de (indique el nombre del contrato y una breve descripción de las Obras) (en adelante denominado “el Contrato”).
 
@@ -2651,9 +2647,7 @@ El monto máximo de esta garantía se reducirá progresivamente a medida que el 
 
 Nosotros convenimos en una sola extensión de esta Garantía por un plazo no superior a (seis meses o un año), en respuesta a una solicitud por escrito del Contratante de dicha extensión, la que nos será presentada antes de que expire la Garantía.
 
-Esta garantía está sujeta a los Reglas Uniformes de la CCI relativas a las garantías pagaderas contra primera solicitud (Uniform Rules for Demand Guarantees), ICC Publicación No.
-
-758. (firma(s) del (de los) representante(s) autorizado(s) del Banco) ______________________ FORMATO GARANTÍA / FIANZA DE CALIDAD ASEGURADORA/BANCO GARANTÍA / FIANZA DE CALIDAD: __________________________________ FECHA DE EMISIÓN: __________________________ AFIANZADO/GARANTIZADO:_____________________ DIRECCION Y TELÉFONO:________________________ Fianza / Garantía a favor de _________________________ _____________, para garantizar la calidad DE SUMINISTRO del Proyecto: “____________ ___________________________” ubicado en ______________________________________ ________. Construido/entregado por el Afianzado/Garantizado ________________________ __________________________.
+Esta garantía está sujeta a los Reglas Uniformes de la CCI relativas a las garantías pagaderas contra primera solicitud (Uniform Rules for Demand Guarantees), ICC Publicación No. 758. (firma(s) del (de los) representante(s) autorizado(s) del Banco) ______________________ FORMATO GARANTÍA / FIANZA DE CALIDAD ASEGURADORA/BANCO GARANTÍA / FIANZA DE CALIDAD: __________________________________ FECHA DE EMISIÓN: __________________________ AFIANZADO/GARANTIZADO:_____________________ DIRECCION Y TELÉFONO:________________________ Fianza / Garantía a favor de _________________________ _____________, para garantizar la calidad DE SUMINISTRO del Proyecto: “____________ ___________________________” ubicado en ______________________________________ ________. Construido/entregado por el Afianzado/Garantizado ________________________ __________________________.
 
 SUMA AFIANZADA/ GARANTIZADA:
 
@@ -2679,13 +2673,9 @@ En fe de lo cual, se emite la presente Fianza/Garantía, en la ciudad de _______
 
 FIRMA AUTORIZADA
 
-ENMIENDA No. 01-2025 CONTRATO Nº UEP-PARH-002-2024-SS CORRESPONDIENTE AL PROYECTO: DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS En la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el 24 de noviembre de 2025, por una parte, La SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actuó en calidad de SUBSECRETARIA DE REDES EN EL DESPACHO DE SALUD, nombrada mediante Acuerdo Ejecutivo No. 57-2022 de fecha 02 de febrero del año 2022 y firma delegada mediante Acuerdo Ministerial No. 10391-2025 de fecha 19 de noviembre de 2025; con el cual se me delega para que en representación de la Secretaría de Estado en el Despacho de Salud (SESAL) suscriba la presente ENMIENDA No.
+ENMIENDA No. 01-2025 CONTRATO Nº UEP-PARH-002-2024-SS CORRESPONDIENTE AL PROYECTO: DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL REGIONAL DEL SUR EN CHOLUTECA, HONDURAS En la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el 24 de noviembre de 2025, por una parte, La SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actuó en calidad de SUBSECRETARIA DE REDES EN EL DESPACHO DE SALUD, nombrada mediante Acuerdo Ejecutivo No. 57-2022 de fecha 02 de febrero del año 2022 y firma delegada mediante Acuerdo Ministerial No. 10391-2025 de fecha 19 de noviembre de 2025; con el cual se me delega para que en representación de la Secretaría de Estado en el Despacho de Salud (SESAL) suscriba la presente ENMIENDA No. 01-2025 y la empresa CHINA SFECO GROUP, en adelante el Contratista, representado por LIUZI ZHONG, de nacionalidad china, con número de pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa en su calidad de representante legal de la entidad mercantil China Sfeco Group lo que acredita con Carta Poder de nombramiento ante la (el) notaría Luo Dongping, vigente del 12 de junio de 2025 al 11 de junio de 2026, Sociedad constituida en la República Popular de China e Inscrita en la Cámara de Comercio de Industria de Tegucigalpa, Centro Asociado del Instituto de la Propiedad Registro Mercantil bajo matrícula 2613030, inscripción 100481.
 
-01-2025 y la empresa CHINA SFECO GROUP, en adelante el Contratista, representado por LIUZI ZHONG, de nacionalidad china, con número de pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa en su calidad de representante legal de la entidad mercantil China Sfeco Group lo que acredita con Carta Poder de nombramiento ante la (el) notaría Luo Dongping, vigente del 12 de junio de 2025 al 11 de junio de 2026, Sociedad constituida en la República Popular de China e Inscrita en la Cámara de Comercio de Industria de Tegucigalpa, Centro Asociado del Instituto de la Propiedad Registro Mercantil bajo matrícula 2613030, inscripción 100481.
-
-Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No.
-
-1-2025 al CONTRATO Nº UEP-PARH-002- 2024-SS correspondiente al Proyecto: Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital Regional del Sur en Choluteca, Honduras, en los términos, pactos, condiciones y estipulaciones siguientes:
+Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No. 1-2025 al CONTRATO Nº UEP-PARH-002-2024-SS correspondiente al Proyecto: Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital Regional del Sur en Choluteca, Honduras, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 CLÁUSULA PRIMERA ANTECEDENTES
 
@@ -2717,7 +2707,7 @@ Contexto actual: la coexistencia de las figuras “director de Proyecto” y “
 
 Propuesta de inclusión:
 
-I n c o r p o r a r e n e l n u m e r a l 2 “INTERPRETACIÓN” de las Condiciones Generales del Contrato, la subcláusula 2.7, que se lee:
+Incorporar en el numeral 2 “INTERPRETACIÓN” de las Condiciones Generales del Contrato, la subcláusula 2.7, que se lee:
 
 “ 2.7 Clarificación de denominación de roles Donde se mencione o haga alusión al “director de Proyecto” deberá leerse y entenderse siempre que se refiere al “Superintendente de Construcción”. Esta será la única figura reconocida como representante del contratista para efectos de supervisión y dirección de la obra.
 
@@ -2773,11 +2763,11 @@ d) Cuarto pago de 20% con instalación, pruebas de funcionamiento, capacitación
 
 En caso de que el Contratista no cumpla con la entrega de los bienes conforme a lo requerido, o la orden de compra resulte inválida / incumplida, se realizará la devolución del Pago Inicial Para la aprobación de marcas y modelos propuestas se mantienen los requerimientos en cuanto a presentación de documentación en base a lo solicitado en los términos de referencia
 
-5. M O D I F I C A C I Ó N D E P L A Z O CONTRACTUAL
+5. MODIFICACIÓN DE PLAZO CONTRACTUAL
 
 Texto original: “
 
-EN LAS CONDICIONES PARTICULARES DEL CONTRATO (CPC), A. DISPOSICIONES G E N E R A L E S L I T E R A L “ 1 . 1 ( t ) ACTUALMENTE SE LEE ASÍ El plazo para la ejecución de las obras es de QUINIENTOS DIEZ (510) DÍAS CALENDARIO La Fecha Prevista de Terminación de la totalidad de las Obras es: QUINIENTOS DIEZ
+EN LAS CONDICIONES PARTICULARES DEL CONTRATO (CPC), A. DISPOSICIONES GENERALES LITERAL “ 1 . 1 ( t ) ACTUALMENTE SE LEE ASÍ El plazo para la ejecución de las obras es de QUINIENTOS DIEZ (510) DÍAS CALENDARIO La Fecha Prevista de Terminación de la totalidad de las Obras es: QUINIENTOS DIEZ
 
 (510) DÍAS CALENDARIO posterior a la orden de inicio- Debiendo leerse ahora de la manera siguiente:
 
@@ -2787,7 +2777,7 @@ La contratista deberá realizar las gestiones para ampliar el plazo de la garant
 
 CLÁUSULA CUARTA RATIFICACIÓN Y ACEPTACIÓN
 
-Las partes manifiestan que dejan firme y ratifican todas y cada una de las disposiciones contenidas en el CONTRATO Nº UEP-PARH- 002-2024-SS correspondiente al Proyecto:
+Las partes manifiestan que dejan firme y ratifican todas y cada una de las disposiciones contenidas en el CONTRATO Nº UEP-PARH-002-2024-SS correspondiente al Proyecto:
 
 Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital Regional del Sur en Choluteca, Honduras, que no hubieren sido enmendadas por el presente documento, las que mantienen su vigencia y plena eficacia legal, aceptando además la presente Enmienda número uno*** guión dos mil veinticinco (**- 2025) en lo que a cada una de ellas concierne y lo suscriben en señal de conformidad y constancia, en dos (2) ejemplares de un mismo tenor e igual fuerza obligatoria, uno para cada parte, en el lugar y fecha mencionados al principio del mismo.
 
@@ -2811,7 +2801,7 @@ SS MIEMBRO ÚNICO DAAB (DISPUTE ADJUDICATION AND AVOIDANCE BOARD) DEL CONTRATO D
 
 − Parte 2: El Contratante, la SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD, representada por la Doctora CARLA MARINA PAREDES REYES, con Documento Nacional de Identificación DNI 0506-1966-01347, en su condición de Secretaria de Estado de la Secretaría de Salud, nombrada mediante Acuerdo Ejecutivo Número 12-2024 de fecha 03 de enero de 2024, en lo sucesivo identificado como “EL CONTRATANTE” o “SESAL”.
 
-− Parte 3: El Contratista, la empresa CHINA SFECO GROUP, representada en este contrato por la señora LIUZI ZHONG, de nacionalidad china, con número de pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa en su calidad de administradora y representante legal con nombramiento de representación CHINA SFECO GROUP ubicada en Calle de Xiaomuqiao 681, SFECO MANSI 681, Piso 10 Shangái, China 200032. Teléfono 0086-21- 61952888 Fax: 0086-21-61952889. La señora Zhong actúa en su calidad de:
+− Parte 3: El Contratista, la empresa CHINA SFECO GROUP, representada en este contrato por la señora LIUZI ZHONG, de nacionalidad china, con número de pasaporte E400I4623, número de identificación migratorio 01-2710-2017-01984, quien actúa en su calidad de administradora y representante legal con nombramiento de representación CHINA SFECO GROUP ubicada en Calle de Xiaomuqiao 681, SFECO MANSI 681, Piso 10 Shangái, China 200032. Teléfono 0086-21-61952888 Fax: 0086-21-61952889. La señora Zhong actúa en su calidad de:
 
 a) Administrador y Representante Legal de la entidad mercantil CHINA SFECO GROUP lo que acredita con el Acta Notarial de Nombramiento No (2024) H.J.Z.W.J.Z. No 327, autorizada en Shangái, China en fecha 13 de junio de 2024 por la Notaria Luo Dongping.
 
@@ -2869,7 +2859,7 @@ b) una visita intermedia durante su ejecución y
 
 c) una visita al final del contrato.
 
-Cada visita al sitio del Proyecto tendrá una duración máxima de tres (3) días calendario, correspondiente al valor de Cinco Mil Cuatrocientos Dólares de Estados Unidos de América (USD 5,400.00); por lo que, el total a pagar por las tres visitas por los tres días, equivale a Dieciséis Mil Doscientos Dólares de los Estados Unidos de América (USD 16,200.00), y sumado el pago de la comisión del Banco Central de Honduras por transferencia internacional , el costo asciende a un total de Dieciséis Mil Doscientos Cuarenta y Ocho Dólares de los Estados Unidos de América (USD 16,248.00). De acuerdo a lo establecido en el Anexo III que detalla el desglose de los costos.
+Cada visita al sitio del Proyecto tendrá una duración máxima de tres (3) días calendario, correspondiente al valor de Cinco Mil Cuatrocientos Dólares de Estados Unidos de América (USD 5,400.00); por lo que, el total a pagar por las tres visitas por los tres días, equivale a Dieciséis Mil Doscientos Dólares de los Estados Unidos de América (USD 16,200.00), y sumado el pago de la comisión del Banco Central de Honduras por transferencia internacional, el costo asciende a un total de Dieciséis Mil Doscientos Cuarenta y Ocho Dólares de los Estados Unidos de América (USD 16,248.00). De acuerdo a lo establecido en el Anexo III que detalla el desglose de los costos.
 
 La tarifa diaria será aplicable las visitas, en el entendido que incluye la participación en reuniones, audiencias, asistencia informal si fuese requerida, así como a la preparación y análisis de documentación escrita y argumentos de las partes en caso de controversias, entre otros.
 
@@ -3335,7 +3325,7 @@ b. SERVICIOS Y PRESENTACIONES PARA
 
 LA INDUSTRIA Y LA CONSTRUCCIÓN S. de R.L. de C.V. (SERPIC), representada por el señor CÉSAR SAÚL BRAN BARAHONA, en su calidad de Gerente General de dicha sociedad, facultado para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la CONTRATACIÓN DEL DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, acta autorizada en Tegucigalpa, Municipio del Distrito Central, Francisco Morazán, Honduras, Centroamérica a los dos (02) días del mes de mayo de 2024, por el Notario Julio César Raudales Lanza,
 
-c. I N G E N I E R O S C O N S U LT O R E S Y C O N S T R U C T O R E S ELECTROMECÁNICOS S.A. DE C.V. (ICCE), representada por el señor ARNALDO MARTÍNEZ ARGUETA, en su calidad de Gerente General de sociedad mercantil, facultado para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la Contratación d e l D I S E Ñ O , C O N S T R U C C I Ó N , EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, Acta autorizada en Tegucigalpa, M.D.C., Francisco Morazán, Tegucigalpa, Honduras, Centroamérica, a los dos días (02) del mes de mayo de 2024, por el Notario Jaime Omar Silva Murillo.
+c. INGENIEROS CON SU LT O R E S Y C O N S T R U C T O R E S ELECTROMECÁNICOS S.A. DE C.V. (ICCE), representada por el señor ARNALDO MARTÍNEZ ARGUETA, en su calidad de Gerente General de sociedad mercantil, facultado para actuar en todo lo relacionado a la LICITACIÓN PÚBLICA INTERNACIONAL para la Contratación del DISEÑO, CONSTRUCCIÓN, EQUIPAMIENTO Y PUESTA EN MARCHA DEL NUEVO HOSPITAL SAN ISIDRO DE TOCOA, HONDURAS, Acta autorizada en Tegucigalpa, M.D.C., Francisco Morazán, Tegucigalpa, Honduras, Centroamérica, a los dos días (02) del mes de mayo de 2024, por el Notario Jaime Omar Silva Murillo.
 
 Consorcio identificado como “EL CONTRATISTA” y como representante de cada uno de los miembros del Consorcio y todos los comparecientes, en lo sucesivo designados conjuntamente como “LAS PARTES”.
 
@@ -3833,9 +3823,7 @@ $ $ $ - 6,800.00 6,800.00 $ $ $ 8,550.00 8,550.00 17,100.00 $ $ $ 4,050.00 4,050
 
 5. CONTRATO No. UEP-PARH-009-
 
-2025-SS “APOYO A LA GESTIÓN Y SUPERVISIÓN PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS” entre la Secretaría de Estado en el Despacho de Salud, (SESAL) y el CONSORCIO VIELCA-CONCREMAT por un monto de CINCO MILLONES CUATROCIENTOS NOVENTA Y OCHO MIL TRESCIENTOS CUARENTA Y SEIS DOLARES DE ESTADOS UNIDOS DE AMERICA CON 90/100 ($ 5,498,346.90) y con un plazo de ejecución de veinticuatro (24) meses posteriores a la orden de inicio del contrato siendo la fecha prevista para su finalización el 27 de febrero de 2027, el que se lee literalmente de la manera siguiente: “CONTRATO No.
-
-UEP-PARH-009-2025-SS “APOYO A LA GESTIÓN Y SUPERVISIÓN PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS” CONTRATO PARA SERVICIOS DE CONSULTORÍA Tiempo Trabajado Nombre de la Operación: Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH) Número de la Operación: Contrato de Préstamo No. 2329 Nombre de la Consultoría:
+2025-SS “APOYO A LA GESTIÓN Y SUPERVISIÓN PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS” entre la Secretaría de Estado en el Despacho de Salud, (SESAL) y el CONSORCIO VIELCA-CONCREMAT por un monto de CINCO MILLONES CUATROCIENTOS NOVENTA Y OCHO MIL TRESCIENTOS CUARENTA Y SEIS DOLARES DE ESTADOS UNIDOS DE AMERICA CON 90/100 ($ 5,498,346.90) y con un plazo de ejecución de veinticuatro (24) meses posteriores a la orden de inicio del contrato siendo la fecha prevista para su finalización el 27 de febrero de 2027, el que se lee literalmente de la manera siguiente: “CONTRATO No. UEP-PARH-009-2025-SS “APOYO A LA GESTIÓN Y SUPERVISIÓN PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS” CONTRATO PARA SERVICIOS DE CONSULTORÍA Tiempo Trabajado Nombre de la Operación: Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH) Número de la Operación: Contrato de Préstamo No. 2329 Nombre de la Consultoría:
 
 Apoyo a la Gestión y Supervisión para el Programa de Apoyo a la Red Hospitalaria de la República de Honduras.
 
@@ -3939,13 +3927,9 @@ Contrato No: UEP-PARH-009-2025-SS Entre _________________(f.s)__________________
 
 51. PAGOS A LA TERMINACIÓN.......................................................................................................................................21 G. EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES GENERADOS POR EL CONTRATO..................21
 
-52. EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES.......................................................................................21 CONDICIONES PARTICULARES DEL CONTRATO..................................................................................................22 ANEXO I: TÉRMINOS DE REFERENCIA CONCERTADOS.....................................................................................30 ANEXO II: DISPOSICIONES DE INTEGRIDAD..........................................................................................................67 ANEXO III: REQUISITOS DE INFORMES....................................................................................................................71 ANEXO IV: PERSONAL PROFESIONAL CLAVE DEL CONSULTOR Y SUBCONSULTORES........................76 ANEXO V: COSTOS DE REMUNERACIÓN Y GASTOS REEMBOLSABLES.......................................................86 ANEXO VI: FORMULARIOS DE GARANTÍAS............................................................................................................96 NO APLICA..............................................................................................................................................................................96 Contrato de Prestación de Servicios de Consultoría Tiempo Trabajado El presente Contrato de prestación de servicios de consultoría se celebra en la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el veintisiete (27) del mes de febrero de 2025 entre La SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actuó en calidad de Subsecretaria de Redes en el Despacho de Salud nombrada mediante Acuerdo Ejecutivo No. 169- 2025 de fecha 18 de febrero del año 2025 y firma delegada mediante Acuerdo Ministerial para el período de delegación del 24 de febrero de 2025 hasta el 28 de febrero de 2025; con el cual se me delega para que en representación de la Secretaría de Estado en el Despacho de Salud suscriba el presente contrato, como Ministra, por Ley, y CONSORCIO VIELCA CONCREMAT, en adelante el Consultor, representado por EDUARDO LUIS LÓPEZ ALFARO, mayor de edad, Ingeniero, salvadoreño, con domicilio en Tegucigalpa, República de Honduras, con Número Único de Identidad 004487090-0 y Pasaporte número B04487090, quien actúa en su calidad de representante del Consorcio VIELCA
+52. EXTINCIÓN DE LOS DERECHOS Y OBLIGACIONES.......................................................................................21 CONDICIONES PARTICULARES DEL CONTRATO..................................................................................................22 ANEXO I: TÉRMINOS DE REFERENCIA CONCERTADOS.....................................................................................30 ANEXO II: DISPOSICIONES DE INTEGRIDAD..........................................................................................................67 ANEXO III: REQUISITOS DE INFORMES....................................................................................................................71 ANEXO IV: PERSONAL PROFESIONAL CLAVE DEL CONSULTOR Y SUBCONSULTORES........................76 ANEXO V: COSTOS DE REMUNERACIÓN Y GASTOS REEMBOLSABLES.......................................................86 ANEXO VI: FORMULARIOS DE GARANTÍAS............................................................................................................96 NO APLICA..............................................................................................................................................................................96 Contrato de Prestación de Servicios de Consultoría Tiempo Trabajado El presente Contrato de prestación de servicios de consultoría se celebra en la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el veintisiete (27) del mes de febrero de 2025 entre La SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por NERZA GLORIA PAZ RODRIGUEZ, mayor de edad, casada, hondureña, Médico Especialista y vecina de este Distrito Central, con Documento Nacional de Identificación No. 1707-1949-00309, Actuó en calidad de Subsecretaria de Redes en el Despacho de Salud nombrada mediante Acuerdo Ejecutivo No. 169-2025 de fecha 18 de febrero del año 2025 y firma delegada mediante Acuerdo Ministerial para el período de delegación del 24 de febrero de 2025 hasta el 28 de febrero de 2025; con el cual se me delega para que en representación de la Secretaría de Estado en el Despacho de Salud suscriba el presente contrato, como Ministra, por Ley, y CONSORCIO VIELCA CONCREMAT, en adelante el Consultor, representado por EDUARDO LUIS LÓPEZ ALFARO, mayor de edad, Ingeniero, salvadoreño, con domicilio en Tegucigalpa, República de Honduras, con Número Único de Identidad 004487090-0 y Pasaporte número B04487090, quien actúa en su calidad de representante del Consorcio VIELCA
 
-– CONCREMAT, conformado por las sociedades mercantiles: (i) VIELCA INGENIEROS, S.A., Sociedad constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019020233863, de la sociedad denominada VIELCA INGENIEROS, S.A., identificada con NIF No. A98030604, debidamente constituida de conformidad con la legislación española mediante Escritura No.
-
-759 de Escisión Total autorizada por la Notario Ana Julia Rosello García en fecha 14 de abril de 2008, inscrita en el Registro Mercantil de Valencia, España, al folio 120, del tomo 8874, libro 6160, sección 8, hoja V-128587, inscripción 1. Dicha Sucursal se encuentra inscrita con Matrícula No. 2580875, número 60247 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; (ii) CONCREMAT ENGENHARIA E TECNOLOGIA S.A., constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019023575696, de la sociedad denominada CONCREMAT ENGENHARIA E TECNOLOGIA S.A., identificada con No.
-
-33.146.648/0001-20, debidamente constituida de conformidad con la legislación brasileña mediante escritura inscrita en Rio de Janeiro, Brasil con el número 6.218 en el libro A-4.
+– CONCREMAT, conformado por las sociedades mercantiles: (i) VIELCA INGENIEROS, S.A., Sociedad constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019020233863, de la sociedad denominada VIELCA INGENIEROS, S.A., identificada con NIF No. A98030604, debidamente constituida de conformidad con la legislación española mediante Escritura No. 759 de Escisión Total autorizada por la Notario Ana Julia Rosello García en fecha 14 de abril de 2008, inscrita en el Registro Mercantil de Valencia, España, al folio 120, del tomo 8874, libro 6160, sección 8, hoja V-128587, inscripción 1. Dicha Sucursal se encuentra inscrita con Matrícula No. 2580875, número 60247 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; (ii) CONCREMAT ENGENHARIA E TECNOLOGIA S.A., constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019023575696, de la sociedad denominada CONCREMAT ENGENHARIA E TECNOLOGIA S.A., identificada con No. 33.146.648/0001-20, debidamente constituida de conformidad con la legislación brasileña mediante escritura inscrita en Rio de Janeiro, Brasil con el número 6.218 en el libro A-4.
 
 Dicha Sucursal se encuentra inscrita con Matrícula No. 2607277, número 85846 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; constituidos de conformidad con Acuerdo de Constitución de Consorcio y Funcionamiento firmado en fecha 18 de diciembre de 2023 y certificadas las firmas ante notario de Honduras Isaac Ynestroza Tejeda el 21 de diciembre de 2023; quienes en su conjunto se les denominará como “el Consultor” o “el Consorcio”, en adelante el Consultor, representado por EDUARDO LUIS LÓPEZ ALFARO.
 
@@ -3961,13 +3945,7 @@ Los alcances, funciones y actividades descritos en los términos de referencia s
 
 DECLARA EL CONSULTOR:
 
-1. Carta Poder del señor EDUARDO LUIS LÓPEZ ALFARO, mayor de edad, Ingeniero, salvadoreño, con domicilio en Tegucigalpa, República de Honduras, con Número Único de Identidad 004487090-0 y Pasaporte número B04487090, quien actúa en su calidad de representante del Consorcio VIELCA – CONCREMAT, conformado por las sociedades mercantiles: (i) VIELCA INGENIEROS, S.A., Sociedad constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019020233863, de la sociedad denominada VIELCA INGENIEROS, S.A., identificada con NIF No. A98030604, debidamente constituida de conformidad con la legislación española mediante Escritura No.
-
-759 de Escisión Total autorizada por la Notario Ana Julia Rosello García en fecha 14 de abril de 2008, inscrita en el Registro Mercantil de Valencia, España, al folio 120, del tomo 8874, libro 6160, sección 8, hoja V-128587, inscripción 1. Dicha Sucursal se encuentra inscrita con Matrícula No. 2580875, número 60247 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; (ii) CONCREMAT ENGENHARIA E TECNOLOGIA S.A., constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019023575696, de la sociedad denominada CONCREMAT ENGENHARIA E TECNOLOGIA S.A., identificada con No.
-
-33.146.648/0001-20, debidamente constituida de conformidad con la legislación brasileña mediante escritura inscrita en Rio de Janeiro, Brasil con el número 6.218 en el libro A-4. Dicha Sucursal se encuentra inscrita con Matrícula No.
-
-2607277, número 85846 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; constituidos de conformidad con Acuerdo de Constitución de Consorcio y Funcionamiento firmado en fecha 18 de diciembre de 2023 y certificadas las firmas ante notario de Honduras Isaac Ynestroza Tejeda el 21 de diciembre de 2023; quienes en su conjunto se les denominará como “el Consultor” o “el Consorcio”, en adelante el Consultor
+1. Carta Poder del señor EDUARDO LUIS LÓPEZ ALFARO, mayor de edad, Ingeniero, salvadoreño, con domicilio en Tegucigalpa, República de Honduras, con Número Único de Identidad 004487090-0 y Pasaporte número B04487090, quien actúa en su calidad de representante del Consorcio VIELCA – CONCREMAT, conformado por las sociedades mercantiles: (i) VIELCA INGENIEROS, S.A., Sociedad constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019020233863, de la sociedad denominada VIELCA INGENIEROS, S.A., identificada con NIF No. A98030604, debidamente constituida de conformidad con la legislación española mediante Escritura No. 759 de Escisión Total autorizada por la Notario Ana Julia Rosello García en fecha 14 de abril de 2008, inscrita en el Registro Mercantil de Valencia, España, al folio 120, del tomo 8874, libro 6160, sección 8, hoja V-128587, inscripción 1. Dicha Sucursal se encuentra inscrita con Matrícula No. 2580875, número 60247 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; (ii) CONCREMAT ENGENHARIA E TECNOLOGIA S.A., constituida como sucursal en la República de Honduras identificada con R.T.N. No. 08019023575696, de la sociedad denominada CONCREMAT ENGENHARIA E TECNOLOGIA S.A., identificada con No. 33.146.648/0001-20, debidamente constituida de conformidad con la legislación brasileña mediante escritura inscrita en Rio de Janeiro, Brasil con el número 6.218 en el libro A-4. Dicha Sucursal se encuentra inscrita con Matrícula No. 2607277, número 85846 del Libro de Registro de Comerciantes Sociales del Registro Mercantil de Francisco Morazán; constituidos de conformidad con Acuerdo de Constitución de Consorcio y Funcionamiento firmado en fecha 18 de diciembre de 2023 y certificadas las firmas ante notario de Honduras Isaac Ynestroza Tejeda el 21 de diciembre de 2023; quienes en su conjunto se les denominará como “el Consultor” o “el Consorcio”, en adelante el Consultor
 
 2. Que ha aceptado la adjudicación respecto de los servicios de consultoría consistentes en el Apoyo a la Gestión y Supervisión para el Programa de Apoyo a la Red Hospitalaria de la República de Honduras y que las remuneraciones previstas en el Contrato corresponden a su oferta por dichos Servicios de consultoría.
 
@@ -4757,15 +4735,11 @@ Ref. en Condiciones Particulares del Contrato CGC ALCANCE DE LOS SERVICIOS DE CO
 
 El Consultor brindará sus servicios enmarcados en el Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH), por un período de veinte y cuatro (24) meses para brindar apoyo en las actividades de ejecución del PARH y supervisar administrativa y técnicamente la correcta ejecución de los siguientes contratos:
 
-Contrato No.
-
-UEP-PARH-001-2024-SS
+Contrato No. UEP-PARH-001-2024-SS
 
 “Contratación de Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital San Isidro de Tocoa, Honduras”.
 
-Contrato No.
-
-UEP-PARH-002-2024-SS
+Contrato No. UEP-PARH-002-2024-SS
 
 “Contratación de Diseño, Construcción, Equipamiento y Puesta en Marcha del Nuevo Hospital Regional del Sur en Choluteca, Honduras”.
 
@@ -4861,7 +4835,7 @@ El monto máximo para pagos en moneda extranjera es: CINCO MILLONES CUATROCIENTO
 
 43.1 El Consultor ESTARÁ SUJETO a impuestos nacionales sobre los gastos y montos pagaderos bajo este contrato, no obstante, si el Consultor presenta Constancia de Pagos a Cuenta y Solvencia Fiscal emitida por el Servicio de Administración de Rentas (SAR), la UEPARH no hará dicha retención.
 
-En consonancia con la publicación del Contrato de Préstamo No. 2329 del Diario Oficial la Gaceta de fecha 27 de febrero del año 2024, con numero de edición 36,471 en el artículo No.15 OTRAS DISPOSICIONES APLICABLE; 15.06, textualmente se lee;
+En consonancia con la publicación del Contrato de Préstamo No. 2329 del Diario Oficial la Gaceta de fecha 27 de febrero del año 2024, con numero de edición 36,471 en el artículo No. 15 OTRAS DISPOSICIONES APLICABLE; 15.06, textualmente se lee;
 
 Sección 15.06 Exención de Impuestos. Este Contrato y el acto que contiene, están exentos del pago de toda clase de impuestos, en virtud del Convenio Constitutivo del BCIE.
 
@@ -5885,7 +5859,7 @@ Programación del avance de obras para el siguiente periodo
 
 Avance en la consulta y participación comunitaria, si aplica 6.4 Seguimiento medias seguridad e higiene laboral
 
-7. C O N C L U S I O N E S
+7. CONCLUSIONES
 
 Y
 
@@ -5979,7 +5953,7 @@ Gastos reembolsables – estimación de costos Cantidad N° Tipo de Gasto Unidad
 
 6. CONTRATO No. UEP-PARH-010-2025
 
-SS, “SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)”, entre la SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD, (SESAL) y Deloitte & Touche S. de R.L., por un monto de NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA Y DOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$. 98,852.00) y con un plazo de 22 de julio de 2025 al 31 de mayo de 2026 el que se lee literalmente de la manera siguiente: “CONTRATO No. UEP-PARH- 010-2025-SS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)…” y su enmienda de fecha 26 de septiembre del año 2026 que literalmente se lee de la siguiente manera: “ENMIENDA No. 01- 2025 CONTRATO UEP-PARH-010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)” CONTRATO PARA SERVICIOS DE AUDITORÍA EXTERNA Suma Global Nombre de la Operación:
+SS, “SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)”, entre la SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD, (SESAL) y Deloitte & Touche S. de R.L., por un monto de NOVENTA Y OCHO MIL OCHOCIENTOS CINCUENTA Y DOS DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$. 98,852.00) y con un plazo de 22 de julio de 2025 al 31 de mayo de 2026 el que se lee literalmente de la manera siguiente: “CONTRATO No. UEP-PARH-010-2025-SS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)…” y su enmienda de fecha 26 de septiembre del año 2026 que literalmente se lee de la siguiente manera: “ENMIENDA No. 01-2025 CONTRATO UEP-PARH-010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH)” CONTRATO PARA SERVICIOS DE AUDITORÍA EXTERNA Suma Global Nombre de la Operación:
 
 Programa de Apoyo a la Red Hospitalaria de la República de Honduras (PARH) Número de la Operación:
 
@@ -6307,7 +6281,7 @@ Las personas designadas como representantes autorizados indicadas en las CPC pod
 
 12. Confidencialidad 12.1.
 
-Las Partes mantendrán la más estricta confidencialidad respecto de toda la información, indicada en las CPC como confidencial, a la que tendrán o han tenido acceso en virtud de la suscripción del Contrato y que incluye la información que haya sido proporcionada por una Parte a la otra de manera escrita, ya sea por medio electrónico y/o impreso, o aquella información a la que hayan tenido acceso directa o indirectamente proporcionada por la otra parte en relación con el Contrato antes , durante o después de su ejecución.
+Las Partes mantendrán la más estricta confidencialidad respecto de toda la información, indicada en las CPC como confidencial, a la que tendrán o han tenido acceso en virtud de la suscripción del Contrato y que incluye la información que haya sido proporcionada por una Parte a la otra de manera escrita, ya sea por medio electrónico y/o impreso, o aquella información a la que hayan tenido acceso directa o indirectamente proporcionada por la otra parte en relación con el Contrato antes, durante o después de su ejecución.
 
 Esta obligación de confidencialidad se hace extensiva a todos los subconsultores, el personal y funcionarios que las Partes utilicen o estén vinculados con la prestación y ejecución de los Servicios de Auditoría objeto del Contrato.
 
@@ -7153,7 +7127,7 @@ UNIDAD DE N. ESTRUCTURA NOMBRE ACTIVIDAD DESCRIPCION PRODUCTO Diseño, Construcc
 
 Diseño, Construcción, Equipamiento y puesta en 20-0-34-02 marcha de nuevo Hospital Básico San Isidro de Tocoa.
 
-20-0-34-03 Fortalecimiento Institucional 20-0-34-04 Gastos de Administración y Auditoria del Programa Diseñado , Construido, Informe de Equipado y Supervisado el 3 avance Nuevo Hospital General de Choluteca Diseñado, Construido, Equipado y Supervisado el Informe de 3 Nuevo Hospital Básico San avance Isidro de Tocoa Fortalecidas las capacidades de la SESAL para la Informe 5 administración de los hospitales Realizada la gestión de gastos de administración del Informe 55 proyecto.
+20-0-34-03 Fortalecimiento Institucional 20-0-34-04 Gastos de Administración y Auditoria del Programa Diseñado, Construido, Informe de Equipado y Supervisado el 3 avance Nuevo Hospital General de Choluteca Diseñado, Construido, Equipado y Supervisado el Informe de 3 Nuevo Hospital Básico San avance Isidro de Tocoa Fortalecidas las capacidades de la SESAL para la Informe 5 administración de los hospitales Realizada la gestión de gastos de administración del Informe 55 proyecto.
 
 B. Estructura Presupuestaria Periodo 2025 N.
 
@@ -7163,7 +7137,7 @@ Diseño, Construcción, DESCRIPCION
 
 UNIDAD DE META PRODUCTO MEDIDA
 
-Diseñado , Construido, Equipado y Supervisado el Nuevo Hospital General de general de Choluteca.
+Diseñado, Construido, Equipado y Supervisado el Nuevo Hospital General de general de Choluteca.
 
 Diseño, Construcción, Equipamiento y puesta en Choluteca Diseñado, Construido, Equipado y Supervisado el Nuevo Hospital Básico San Tocoa.
 
@@ -7351,15 +7325,15 @@ Por el presente, confirmamos que hemos acordado pagar a los siguientes Expertos,
 
 - 449 - Conformación del panel Formulario tipo I por mes 34,308 34.7% Auditoría 14,784 15.94% 10% 14,784 20% US$ 610 15,394 15.6% trabajo1 9,372 9.5% de 20% US$ acordada por mes trabajo de Auditoría 33,088 35.67% 20% 33,088 20% 1,220 la sede fuera de trabajo 2 9,372 auditoría US$ 9,372 10.10% US$ sociales1 día/mes/año de trabajo Heydi Martinez Gerente de Flora Flores Senior de Ronald Fiallos Socio de Sede 10,492 10.6% 29,286 29.6% 98,852 100% 92,752 100% US$ 6,100 US$ Silvia Barrantes Especialista 8,052 8.68% 40% 8,052 20% 2,440 Auditoría 27,456 29.60% 30% 27,456 20% 1,830 100% 100% US$ Totales US$ 92,752 Tania Vasquez Staff de Trabajo en el país del Contratante 1 Expresado como porcentaje de 2 Expresado como porcentaje de 4.
 
-FORMULARIO ECO- 2
+FORMULARIO ECO-2
 
 Honorarios profesionales de auditoría US$ 92,752.00 US$ 6,100.00 US$ 98,852.00 US$ 13,912.80 - - US$13,912.80 Formulario ECO-3 Resumen de Horas y Precios y Gastos ITEM CONCEPTO CARGO 1 Honorarios Profesionales Socio de 1.1 Ronald Fiallos Auditoría Gerente de 1.2 Heydi Martinez Auditoría Senior de 1.3 Flora Flores Auditoría TARIFA DE TOTAL REMUNERACIONES MES MESES-PERSONA US$ Base: US$ 12,496 0.75 9,372 Campo: US$ 12,496 Base: US$ 9,856 1.50 14,784 Campo: US$ 9,856 Base: US$ 8,272 4.00 33,088 Campo: US$ 8,272 1.4 Tania Vasquez Staff de Auditoría Base: US$ 6,864 4.00 27,456 1.5 Silvia Barrantes Especialista Campo: US$ 6,864 0.250093 2,684 Base: US$ 10,732 0.500186 5,368 Campo: US$ 10,732 Total Horas 11.000279 Subtotal Honorarios Profesionales US$ 92,752 Gastos 6,100 COSTOS TOTALES US$ 98,852 ENMIENDA No. 01-2025 CONTRATO UEP-PARH-010-2025- SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH) En la Ciudad de Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán el 26 de septiembre de 2025, por una parte, La SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD (SESAL), en adelante el Contratante, representado por CARLA MARINA PAREDES REYES, con Documento Nacional de Identificación DNI 0506-1966-01347, nombrada mediante Acuerdo Ejecutivo Número 12-2024 de fecha 03 de enero de 2024 y la Empresa DELOITTE & TOUCHÉ S. DE R.L., en adelante la Firma Auditora, representado por RONALD ARTURO FIALLOS WILLIAMS, de nacionalidad hondureña, con Documento de Identificación Nacional 0605-1981-01155, quien actúa con Poder General de Administración y Representación de DELOITTE & TOUCHÉ S. DE R.L.
 
-Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No. 01-2025 al CONTRATO No. UEP-PARH- 010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH), en los términos, pactos, condiciones y estipulaciones siguientes:
+Debidamente autorizados y con suficiente capacidad para celebrar el presente acto, hemos convenido en celebrar la Enmienda No. 01-2025 al CONTRATO No. UEP-PARH-010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH), en los términos, pactos, condiciones y estipulaciones siguientes:
 
 CLÁUSULA PRIMERA ANTECEDENTES
 
-Con fecha veintidós (22) de julio de 2025 se suscribió el CONTRATO No. UEP-PARH- 010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH).
+Con fecha veintidós (22) de julio de 2025 se suscribió el CONTRATO No. UEP-PARH-010-2025-SS CORRESPONDIENTE A LOS SERVICIOS DE AUDITORÍA EXTERNA PARA EL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH).
 
 El objetivo de esta auditoría externa es obtener del Auditor:
 
@@ -7443,7 +7417,7 @@ Las partes manifiestan que dejan firme y ratifican todas y cada una de las dispo
 
 _________________________________ Por y en nombre del Contratante CARLA MARINA PAREDES REYES FIALLOS SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD _____________________________________ Por y en nombre de la Firma Auditora RONALD ARTURO WILLIAMS DELOITTE & TOUCHE S. DE R.L.
 
-7.CONTRATO NO. UEP-PARH-001-2026- SS “PARA SERVICIOS DE CONSULTOR I N D I V I D U A L C O O R D I N A C I Ó N GENERAL DEL PROGRAMA” entre la Secretaría de Estado en el Despacho de Salud, (SESAL) e Irochka Alejandra Enamorado Interiano por un monto de CINCO MIL DOLARES (US$. 5,000.00) mensuales y con un plazo de ejecución desde el 01 de enero al 30 de junio de 2026; el que se lee literalmente de la manera siguiente:
+7.CONTRATO NO. UEP-PARH-001-2026- SS “PARA SERVICIOS DE CONSULTOR INDIVIDUAL COORDINACIÓN GENERAL DEL PROGRAMA” entre la Secretaría de Estado en el Despacho de Salud, (SESAL) e Irochka Alejandra Enamorado Interiano por un monto de CINCO MIL DOLARES (US$. 5,000.00) mensuales y con un plazo de ejecución desde el 01 de enero al 30 de junio de 2026; el que se lee literalmente de la manera siguiente:
 
 “CONTRATO PARA SERVICIOS DE CONSULTOR INDIVIDUAL SUMA GLOBAL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH) Contrato No. UEP-PARH-001-2026 SS” CONTRATO PARA SERVICIOS DE CONSULTOR INDIVIDUAL SUMA GLOBAL PROGRAMA DE APOYO A LA RED HOSPITALARIA DE LA REPÚBLICA DE HONDURAS (PARH) Nombre de la Consultoría: Coordinación General del Programa Contrato No: UEP-PARH-001-2026-SS entre ______________________________________ DRA. CARLA MARINA PAREDES REYES SECRETARÍA DE ESTADO EN EL DESPACHO DE SALUD (SESAL). e ____________________________________ IROCHKA ALEJANDRA ENAMORADO INTERIANO Fecha: 01 DE ENERO DE 2026 CONTRATO PARA CONSULTORES INDIVIDUALES (SUMA GLOBAL) El presente Contrato de Prestación de Servicios de Consultoría se celebra en la Ciudad de Tegucigalpa el 01 de enero de 2026 entre la Secretaría de Estado en el Despacho de Salud -SESAL-, en adelante el Contratante, representado por CARLA MARINA PAREDES REYES, e IROCHKA ALEJANDRA ENAMORADO INTERIANO en adelante el Consultor.
 

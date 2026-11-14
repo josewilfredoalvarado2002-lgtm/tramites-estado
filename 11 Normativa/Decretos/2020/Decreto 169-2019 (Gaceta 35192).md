@@ -8,10 +8,10 @@ gaceta_numero: 35192
 gaceta_fecha: "2020-03-05"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)|La Gaceta 35192]]"
 paginas: "A. 18 - 20"
-sumario: "Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019"
+sumario: "Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200305-35192/download"
 extraido: "2026-11-14"
-huella: "cd8f37fe391dc12d"
+huella: "fdf01ab7f053aac6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 169-2019
@@ -23,7 +23,7 @@ huella: "cd8f37fe391dc12d"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35192 (2020-03-05)\|La Gaceta 35192]] del 2020-03-05 |
 | Páginas | A. 18 - 20 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020PODER LEGISLATIVODecretos Nos. 133-2019, 145-2019, 169-2019 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-009-2020; PODER LEGISLATIVO: Decretos Nos. 133-2019, 145-2019, 169-2019 |
 
 ## Texto
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribuciones 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Artículo 4 del Decreto No. 171- 2018 de Fecha 6 de Diciembre del año 2018 y publicado en el Diario Oficial “La Gaceta” de fecha 29 de Diciembre de 2018.
+ARTÍCULO 1.- Derogar el Artículo 4 del Decreto No. 171-2018 de Fecha 6 de Diciembre del año 2018 y publicado en el Diario Oficial “La Gaceta” de fecha 29 de Diciembre de 2018.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto No. 54-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231030-36370/download"
 extraido: "2026-11-14"
-huella: "6f30a5c253ed727b"
+huella: "104549893d8df414"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 54-2023
@@ -251,7 +251,7 @@ ARTÍCULO 13.- CONVOCATORIA. El Secretario de la Comisión convocará a instanci
 
 #### Artículo 14
 
-ARTÍCULO 14.- I N V E N T A R I O N A C I O N A L D E G A S E S D E E F E C T O INVERNADERO. La Comisión debe tomar las medidas administrativas, técnicas y financieras correspondientes para mantener actualizado el Inventario Nacional de Gases de Efecto Invernadero. Este inventario debe sustentarse en los pagos basados en resultados financieramente con los ingresos provenientes de las tasas de transacciones de carbono y otros ingresos asociados.
+ARTÍCULO 14.- INVENTARIO NACIONAL DE GASES DE EFECTO INVERNADERO. La Comisión debe tomar las medidas administrativas, técnicas y financieras correspondientes para mantener actualizado el Inventario Nacional de Gases de Efecto Invernadero. Este inventario debe sustentarse en los pagos basados en resultados financieramente con los ingresos provenientes de las tasas de transacciones de carbono y otros ingresos asociados.
 
 CAPÍTULO TERCERO TRANSACCIONES DE CARBONO.
 
@@ -265,7 +265,7 @@ Todo lo anterior gestionado bajo las directrices de los órganos reguladores de 
 
 #### Artículo 16
 
-ARTÍCULO 16.- M O D A L I D A D E S D E L A S TRANSACCIONES DE CARBONO.
+ARTÍCULO 16.- MODALIDADES DE LAS TRANSACCIONES DE CARBONO.
 
 Las transacciones de carbono son un mecanismo multimodal cuyo objeto es acercar la realidad hondureña a la justicia climática. Entre las modalidades permitidas están:
 
@@ -401,11 +401,11 @@ ARTÍCULO 25.- Todo lo no regulado en la presente Ley se rige por lo dispuesto e
 
 #### Artículo 26
 
-ARTÍCULO 26.- Derogar el Artículo 40 del Decreto Legislativo No.297-2013 contentivo de la LEY DE CAMBIO CLIMÁTICO, publicado en fecha 10 de noviembre del año 2014, en el Diario Oficial “La Gaceta”, número 33,577.
+ARTÍCULO 26.- Derogar el Artículo 40 del Decreto Legislativo No. 297-2013 contentivo de la LEY DE CAMBIO CLIMÁTICO, publicado en fecha 10 de noviembre del año 2014, en el Diario Oficial “La Gaceta”, número 33,577.
 
 #### Artículo 27
 
-ARTÍCULO 27.- Derogar el numeral 15) del Artículo 3 del Decreto Legislativo No.98-2007, contentivo de la LEY FORESTAL DE ÁREAS PROTEGIDAS Y VIDA SILVESTRE, publicado en fecha 26 de febrero del 2008, en el Diario Oficial La “Gaceta”, Edición Número 31,544.
+ARTÍCULO 27.- Derogar el numeral 15) del Artículo 3 del Decreto Legislativo No. 98-2007, contentivo de la LEY FORESTAL DE ÁREAS PROTEGIDAS Y VIDA SILVESTRE, publicado en fecha 26 de febrero del 2008, en el Diario Oficial La “Gaceta”, Edición Número 31,544.
 
 #### Artículo 28
 

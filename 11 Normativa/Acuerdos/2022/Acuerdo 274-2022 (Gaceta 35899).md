@@ -11,7 +11,7 @@ paginas: "A. 9"
 sumario: "Acuerdos Ejecutivos Nos. 139-2022, 140-2022, 161-2022, 162-2022, 274-2022, 275-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220418-35899/download"
 extraido: "2026-11-14"
-huella: "2ee27001c33cf98f"
+huella: "c241125c67455488"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 274-2022
@@ -27,9 +27,7 @@ huella: "2ee27001c33cf98f"
 
 ## Texto
 
-EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No.
-
-46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública.
+EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACIÓN En uso de las facultades de que fue investido por la Presidenta de la República, mediante Acuerdo Ejecutivo No. 46-2022, de fecha 28 de enero 2022 y en aplicaciones de los artículos 235, 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119, 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

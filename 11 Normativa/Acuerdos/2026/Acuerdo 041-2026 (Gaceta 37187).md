@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo Ministerial No. 041-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260707-37187/download"
 extraido: "2026-11-09"
-huella: "ffd67699a6be9b7d"
+huella: "185d2e0ee2a3fe27"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 041-2026
@@ -37,11 +37,11 @@ CONSIDERANDO: Que el Artículo 26 del Convenio Sobre el Régimen Arancelario y A
 
 Dentro de dicho plazo, el Consejo deberá reunirse para considerar la situación, calificar su gravedad y disponer medidas que conjuntamente deban tomarse, incluyendo la posibilidad de resolver sobre la suspensión o modificación de las disposiciones adoptadas unilateralmente o, según el caso, autorizar la prórroga de las mismas. El plazo del párrafo anterior se tendrá por prorrogado hasta la fecha en que el Consejo adopte las medidas que correspondan. El Consejo reglamentará la presente disposición".
 
-CONSIDERANDO: Que el Acuerdo Ministerial No. 005- 2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial "La Gaceta" el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad-Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Acuerdo Ministerial No. 005-2021 contentivo del Procedimiento para el Establecimiento, Modificación o Eliminación de Medidas de Salvaguardia, publicado en el Diario Oficial "La Gaceta" el 16 de enero del 2021, en el Artículo 4 establece la creación de la Comisión Ad-Hoc para emitir el informe técnico sobre las solicitudes de establecimiento, modificación o eliminación de medidas de salvaguardia conforme al Artículo 26 del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 CONSIDERANDO: Que en fecha 26 de junio de 2025, la Secretaría de Estado en el Despacho de Desarrollo Económico, recibió solicitud de "Establecimiento de Medidas de Salvaguardia mediante la modificación arancelaria de los derechos a la importación del 35% aplicables al alambrón clasificado en los incisos arancelarios 7227.90.10.00, 7227.90.90.00, 7228.30.10.00, 7228.30.90.00, 7228.50.10.00 y 7228.50.90.00 en razón de una amenaza grave e inminente a la industria nacional".
 
-CONSIDERADO: Que mediante resolución número 186- 2026 de fecha 20 de abril de 2026, se determinó declarar parcialmente con lugar lo solicitado por el peticionario, aplicando la medida de salvaguardia únicamente para las importaciones de los incisos arancelarios 7227.90.10.00, 7227.90.90.00, 7228.30.10.00, 7228.30.90.00, 7228.50.10.00 y 7228.50.90.00, por el término de dos (2) años con el fin de proteger la producción nacional.
+CONSIDERADO: Que mediante resolución número 186-2026 de fecha 20 de abril de 2026, se determinó declarar parcialmente con lugar lo solicitado por el peticionario, aplicando la medida de salvaguardia únicamente para las importaciones de los incisos arancelarios 7227.90.10.00, 7227.90.90.00, 7228.30.10.00, 7228.30.90.00, 7228.50.10.00 y 7228.50.90.00, por el término de dos (2) años con el fin de proteger la producción nacional.
 
 POR TANTO:
 

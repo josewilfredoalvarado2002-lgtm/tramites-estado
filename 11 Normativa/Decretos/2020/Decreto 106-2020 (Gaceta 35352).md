@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos números 109-2018, 106-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200824-35352/download"
 extraido: "2026-11-14"
-huella: "667b6b296ac4315f"
+huella: "887a43aa23955da4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 106-2020
@@ -83,7 +83,7 @@ La municipalidad de Orica, en el departamento de Francisco Morazán, realizará 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Dispensar de manera total a la ALCALDÍA M U N I C I PA L D E VA L L E D E ÁNGELES, DEL DEPARTAMENTO DE FRANCISCO MORAZÁN, del pago de todo tipo de impuestos y tasas asociadas a la importación e introducción al país, de un vehículo pesado, proveniente de China, Taiwán, mismo que su especialidad es la recolección de basura y cuyas características son las siguientes:
+ARTÍCULO 3.- Dispensar de manera total a la ALCALDÍA MUNICI PA L D E VA LL E DE ÁNGELES, DEL DEPARTAMENTO DE FRANCISCO MORAZÁN, del pago de todo tipo de impuestos y tasas asociadas a la importación e introducción al país, de un vehículo pesado, proveniente de China, Taiwán, mismo que su especialidad es la recolección de basura y cuyas características son las siguientes:
 
 MARCA: ISUZU.
 

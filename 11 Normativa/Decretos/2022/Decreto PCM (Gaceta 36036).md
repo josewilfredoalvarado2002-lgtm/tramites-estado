@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 24-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220924-36036/download"
 extraido: "2026-11-14"
-huella: "4121490a5bd6d79c"
+huella: "f7ffb6da89ab9f36"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 24-2022
@@ -49,7 +49,7 @@ POR TANTO, En aplicación de los Artículos 59, 245 numerales 2,11 y 19, 248, 25
 
 Artículos 7, 11, 17, 18, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto No. 266-2013; y, Artículos 9 y 63 numeral 1 de la Ley de Contratación del Estado.
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

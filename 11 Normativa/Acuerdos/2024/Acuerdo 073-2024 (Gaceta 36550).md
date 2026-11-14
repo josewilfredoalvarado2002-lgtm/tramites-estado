@@ -8,7 +8,7 @@ gaceta_numero: 36550
 gaceta_fecha: "2024-06-03"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36550 (2024-06-03)|La Gaceta 36550]]"
 paginas: "A. 44"
-sumario: "Acuerdo No. 018-2024MUNICIPALIDAD DE DANLÍAcuerdo No. 073-2024"
+sumario: "Acuerdo No. 018-2024; MUNICIPALIDAD DE DANLÍ: Acuerdo No. 073-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240603-36550/download"
 extraido: "2026-11-14"
 huella: "fe69bf95e7c1b005"
@@ -23,7 +23,7 @@ huella: "fe69bf95e7c1b005"
 | Emisor | Municipalidad de Danlí |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36550 (2024-06-03)\|La Gaceta 36550]] del 2024-06-03 |
 | Páginas | A. 44 |
-| Según el sumario de La Gaceta | Acuerdo No. 018-2024MUNICIPALIDAD DE DANLÍAcuerdo No. 073-2024 |
+| Según el sumario de La Gaceta | Acuerdo No. 018-2024; MUNICIPALIDAD DE DANLÍ: Acuerdo No. 073-2024 |
 
 ## Texto
 

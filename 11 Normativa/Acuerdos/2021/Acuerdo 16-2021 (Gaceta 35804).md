@@ -11,7 +11,7 @@ paginas: "A. 4 - 12"
 sumario: "Acuerdos Nos. 16/2021, 17/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211222-35804/download"
 extraido: "2026-11-14"
-huella: "f86883413559cb53"
+huella: "70de36fdec291cdb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.16/2021.- Sesión No.3943 del 9 de diciembre
@@ -31,7 +31,7 @@ de 2021.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en la Ley del Banco Central de Honduras (BCH), corresponde a esta Institución formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país.
 
-CONSIDERANDO: Que mediante Acuerdo No.06/2021 emitido por el Directorio del BCH el 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
+CONSIDERANDO: Que mediante Acuerdo No. 06/2021 emitido por el Directorio del BCH el 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
 CONSIDERANDO: Que conforme al plan de modernización del marco operacional de la política monetaria y cambiaria orientada hacia la implementación gradual de un esquema de Metas de Inflación, el BCH, estableció una hoja de ruta que contiene las actividades a realizar encaminadas hacia el logro de dicho objetivo.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que en línea con el objetivo de una mayor flexibilización del ti
 
 CONSIDERANDO: Que de acuerdo con las disposiciones establecidas en el Reglamento para la Negociación en el Mercado Organizado de Divisas únicamente las instituciones bancarias y el Banco Central de Honduras pueden participar en el MID por lo que, dando cumplimiento al objetivo de contribuir con el sano desarrollo de dicho mercado, se hace necesario la inclusión de las Casas de Cambio en el mismo.
 
-CONSIDERANDO: Que vista la propuesta de los d e p a r t a m e n t o s d e A n á l i s i s Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No.18/2021 celebrada el 23 de septiembre de 2021 y de acuerdo con lo acordado en la Sesión No.23/2021 del 23 de noviembre de 2021, el Comité de Divisas decidió someter a consideración de este Directorio, la incorporación de una nueva metodología de cálculo para la determinación del nuevo Centro de la Banda Cambiaria y la incorporación de las Casas de Cambio al MID, respectivamente.
+CONSIDERANDO: Que vista la propuesta de los departamentos de Análisis Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No. 18/2021 celebrada el 23 de septiembre de 2021 y de acuerdo con lo acordado en la Sesión No. 23/2021 del 23 de noviembre de 2021, el Comité de Divisas decidió someter a consideración de este Directorio, la incorporación de una nueva metodología de cálculo para la determinación del nuevo Centro de la Banda Cambiaria y la incorporación de las Casas de Cambio al MID, respectivamente.
 
 CONSIDERANDO: Que para la inclusión de las Casas de Cambio en el MID y la incorporación de una nueva metodología de cálculo para la determinación del nuevo centro de la banda cambiaria se hace necesaria la modificación de varios artículos del Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
@@ -51,9 +51,9 @@ POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República;
 
-54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.213-6/2017 del 9 de junio de 2017,
+54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 213-6/2017 del 9 de junio de 2017,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 

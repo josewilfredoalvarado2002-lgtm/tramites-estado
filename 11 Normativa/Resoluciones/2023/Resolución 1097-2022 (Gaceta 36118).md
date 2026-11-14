@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1097-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230102-36118/download"
 extraido: "2026-11-14"
-huella: "2db565eafda43442"
+huella: "9505450e96d97a88"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1097-2022
@@ -37,13 +37,13 @@ RESULTA: Que el peticionario acompañó a su solicitud los documentos correspond
 
 CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No. 002-2002 de fecha veintiocho de enero del año dos mil dos, por el que delega al Secretario de Estado en los Despachos de Gobernación y Justicia, competencia específica para la emisión de este acto administrativo de conformidad con los Artículos 16, 119 y 122 de la Ley General de la Administración Pública, 4 y 5 de la Ley de Procedimiento Administrativo.
 
-POR TANTO: El Secretario de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266- 2013 publicado en fecha 23 de enero de 2014;
+POR TANTO: El Secretario de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículos 18 de la Ley Marco del Sector Agua Potable y Saneamiento; 34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014;
 
 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo Ministerial No. 14-2022 de fecha ocho de febrero de dos mil veintidós.
 
 RESUELVE: PRIMERO: Conceder Personalidad Jurídica a la JUNTA ADMINISTRADORA CENTRAL DE AGUA POTABLE Y SANEAMIENTO DE PUEBLO NUEVO +5 (ISLA DE LA BOCA DEL RIO VIEJO, COLONIA TRES DE FEBRERO, COLONIA JOSE INES CARRANZA, COLONIA NUEVA BOCA DEL RIO VIEJO Y BRISAS DEL PACIFICO) MUNICIPIO DE MARCOVIA, DEPARTAMENTO DE CHOLUTECA, asimismo se aprueban sus estatutos en la forma siguiente:
 
-ESTATUTOS DE LA JUNTA ADMINISTRADORA CENTRAL DE AGUA POTABLE Y SANEAMIENTO DE PUEBLO NUEVO +5 (ISLA DE LA BOCA DEL RIO VIEJO, COLONIA TRES DE FEBRERO, COLONIA JOSÉ INÉS CARRANZA, COLONIA NUEVA BOCA DEL RIO VIEJO Y BRISAS DEL PACIFICO) , MUNICIPIO DE MARCOVIA, DEPARTAMENTO DE CHOLUTECA
+ESTATUTOS DE LA JUNTA ADMINISTRADORA CENTRAL DE AGUA POTABLE Y SANEAMIENTO DE PUEBLO NUEVO +5 (ISLA DE LA BOCA DEL RIO VIEJO, COLONIA TRES DE FEBRERO, COLONIA JOSÉ INÉS CARRANZA, COLONIA NUEVA BOCA DEL RIO VIEJO Y BRISAS DEL PACIFICO), MUNICIPIO DE MARCOVIA, DEPARTAMENTO DE CHOLUTECA
 
 CAPÍTULO I CONSTITUCIÓN, DENOMINACIÓN, DURACIÓN Y DOMICILIO
 

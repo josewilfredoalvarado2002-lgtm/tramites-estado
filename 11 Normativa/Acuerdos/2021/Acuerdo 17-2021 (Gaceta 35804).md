@@ -11,7 +11,7 @@ paginas: "A. 13 - 24"
 sumario: "Acuerdos Nos. 16/2021, 17/2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211222-35804/download"
 extraido: "2026-11-14"
-huella: "bb7be2f3b9465248"
+huella: "7e38f3154ec14077"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.17/2021.- Sesión No.3943 del 9 de diciembre
@@ -33,11 +33,11 @@ CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en 
 
 CONSIDERANDO: Que para las operaciones de compra y venta de divisas que realice el BCH y sus agentes cambiarios, así como las que efectúe el sector público, se aplicará el Reglamento para la Negociación en el Mercado Organizado de Divisas; asimismo, la Normativa Complementaria a dicho Reglamento, a fin de facilitar su cumplimiento y aplicación.
 
-CONSIDERANDO: Que mediante Acuerdo No.07/2021, emitido por el Directorio del BCH el 3 de junio de 2021, se aprobó la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
+CONSIDERANDO: Que mediante Acuerdo No. 07/2021, emitido por el Directorio del BCH el 3 de junio de 2021, se aprobó la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas.
 
-CONSIDERANDO: Que vista la propuesta de los d e p a r t a m e n t o s d e A n á l i s i s Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No.18/2021 celebrada el 23 de septiembre de 2021 y de acuerdo con lo acordado en la Sesión No.23/2021 del 23 de noviembre de 2021, el Comité de Divisas decidió someter a consideración de este Directorio, la incorporación de una nueva metodología de cálculo para la determinación del nuevo Centro de la Banda Cambiaria y la incorporación de las Casas de Cambio al Mercado Intercambiario de Divisas.
+CONSIDERANDO: Que vista la propuesta de los departamentos de Análisis Macroeconómico y Operaciones Cambiarias presentada al Comité de Divisas en Sesión No. 18/2021 celebrada el 23 de septiembre de 2021 y de acuerdo con lo acordado en la Sesión No. 23/2021 del 23 de noviembre de 2021, el Comité de Divisas decidió someter a consideración de este Directorio, la incorporación de una nueva metodología de cálculo para la determinación del nuevo Centro de la Banda Cambiaria y la incorporación de las Casas de Cambio al Mercado Intercambiario de Divisas.
 
-CONSIDERANDO: Que con la incorporación de dichos cambios se modificó el Reglamento para la Negociación en el Mercado Organizado de Divisas, mediante Acuerdo No.16/2021 del 9 de diciembre de 2021, por lo que también se hace necesario modificar su Normativa Complementaria para adecuarla a dichos cambios.
+CONSIDERANDO: Que con la incorporación de dichos cambios se modificó el Reglamento para la Negociación en el Mercado Organizado de Divisas, mediante Acuerdo No. 16/2021 del 9 de diciembre de 2021, por lo que también se hace necesario modificar su Normativa Complementaria para adecuarla a dichos cambios.
 
 POR TANTO:
 
@@ -45,11 +45,11 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, incisos a), f), l) y n), 29 y 32 de la Ley del Banco Central de Honduras; 46, numerales 11 y 12 de la Ley del Sistema Financiero; 3 de la Ley Monetaria; en el Reglamento para la Negociación en el Mercado Organizado de Divisas y en las Normas Generales del Comité de Divisas del Banco Central de Honduras,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar los numerales 1.2, 3.4, 4.1 y 7.2 del Acuerdo No.07/2021 del 3 de junio de 2021, que contiene la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán de la manera siguiente:
+Modificar los numerales 1.2, 3.4, 4.1 y 7.2 del Acuerdo No. 07/2021 del 3 de junio de 2021, que contiene la Normativa Complementaria al Reglamento para la Negociación en el Mercado Organizado de Divisas, que en lo sucesivo se leerán de la manera siguiente:
 
 “1… 1.1…
 

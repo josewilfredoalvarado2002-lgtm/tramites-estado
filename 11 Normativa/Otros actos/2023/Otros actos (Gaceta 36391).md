@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decretos Ejecutivos Números PCM 48-2023, PCM 49-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231123-36391/download"
 extraido: "2026-11-14"
-huella: "7cfc914fe60e89c4"
+huella: "65dd91b17c508285"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decretos Ejecutivos Números PCM 48-2023, PCM 49-2023
@@ -51,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. En virtud de la Declaratoria de ESTADO DE EMERGENCIA SANITARIA en todo sistema de salud pública a nivel nacional para el año 2023, aprobada mediante los Decretos Ejecutivos número PCM 16-2022 y PCM 04- 2023; con el objetivo de garantizar el derecho a la salud y mejorar el acceso de la población hondureña a servicios de atención médica de calidad mediante la construcción de clínicas y hospitales públicos eficientes y adecuadamente equipados, priorizando el rescate y fortalecimiento del Sistema Sanitario Público Nacional, SE AUTORIZA a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) a realizar la contratación directa de los bienes y servicios, tales como obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros que sean necesarios para la construcción y puesta marcha de los siguientes Hospitales:
+ARTÍCULO 1. En virtud de la Declaratoria de ESTADO DE EMERGENCIA SANITARIA en todo sistema de salud pública a nivel nacional para el año 2023, aprobada mediante los Decretos Ejecutivos número PCM 16-2022 y PCM 04-2023; con el objetivo de garantizar el derecho a la salud y mejorar el acceso de la población hondureña a servicios de atención médica de calidad mediante la construcción de clínicas y hospitales públicos eficientes y adecuadamente equipados, priorizando el rescate y fortalecimiento del Sistema Sanitario Público Nacional, SE AUTORIZA a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) a realizar la contratación directa de los bienes y servicios, tales como obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros que sean necesarios para la construcción y puesta marcha de los siguientes Hospitales:
 
 1. Hospital Básico de Ocotepeque;
 

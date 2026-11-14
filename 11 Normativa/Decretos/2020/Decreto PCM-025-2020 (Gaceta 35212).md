@@ -8,10 +8,10 @@ gaceta_numero: 35212
 gaceta_fecha: "2020-03-27"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)|La Gaceta 35212]]"
 paginas: "A. 1 - 9"
-sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
+sumario: "Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200327-35212/download"
 extraido: "2026-11-14"
-huella: "4485c69ac8d3410e"
+huella: "b8d71c42ad62454d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-025-2020
@@ -23,7 +23,7 @@ huella: "4485c69ac8d3410e"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35212 (2020-03-27)\|La Gaceta 35212]] del 2020-03-27 |
 | Páginas | A. 1 - 9 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-025-2020, 026-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 017-2020, 024-2020, 027-2020 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de conformidad al Artículo 245, numeral 2 de la Constitución
 
 CONSIDERANDO: Que la política, estrategia y objetivos del Gobierno los define el Presidente de la República y sus acciones se discuten y aprueban por medio del Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numeral 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes”.
+CONSIDERANDO: Que según lo establece el Artículo 22 numeral 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “las demás que le confieren la Constitución de la República y las leyes”.
 
 CONSIDERANDO: Considerando que mediante Decreto Ejecutivo PCM 005-2020 publicado en el Diario Oficial “La Gaceta” en fecha 10 de febrero del 2020, reformado por el Decreto Ejecutivo número PCM 016-2020 con fecha de publicación 6 de marzo del 2020 y Decreto Ejecutivo número PCM-023-2020, publicado en el Diario Oficial “La Gaceta”, en fecha 21 de marzo del 2020, en virtud del cual se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA, en el Sistema de Salud Pública a nivel nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19).
 
@@ -45,9 +45,7 @@ CONSIDERANDO: Que es de apremiante necesidad que las diferentes instituciones de
 
 POR TANTO, En uso de las facultades contenidas en los Artículos 59, 111, 245 numerales 2), 11) y 45, 321, 323 de la Constitución de la República; Declaración Universal de Derechos Humanos de 1948; 1 párrafo primero y artículo 11 del Pacto Internacional de Derechos Económicos, Sociales y Culturales (1996);
 
-Artículos 4, 11, 14 numeral 1), 17, 22 numeral 5), 12), 28, 30, 43, 47, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No.
-
-266-2013 y Artículo 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo;
+Artículos 4, 11, 14 numeral 1), 17, 22 numeral 5), 12), 28, 30, 43, 47, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013 y Artículo 32 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo;
 
 Decreto Ejecutivo número PCM 005-2020 y sus reformas mediante Decreto Ejecutivo número PCM-016-2020 y Decreto Ejecutivo número PCM-023-2020.
 
@@ -101,7 +99,7 @@ A. RESPONSABILIDADES DE LOS EQUIPOS:
 
 5. La Secretaría de Estado en el Despacho de Defensa a través de las Fuerzas Armadas de Honduras y con el apoyo del Registro Nacional de las Personas (RNP), la Secretaría de Estado en el Despacho de Desarrollo e Inclusión (SEDIS) y el Servicio Nacional de Emprendimiento y Pequeños Negocios (SENPRENDE) conformarán el EQUIPO DE DISTRIBUCIÓN, teniendo como responsabilidades: el diseño y desarrollo de la estrategia para la distribución de los alimentos e insumos para los beneficiarios.
 
-6. Secretaría de Estado en el Despacho de Finanzas (SEFIN), será responsable de garantizar los recursos económicos requeridos para la ejecución de la operación “HONDURAS SOLIDARIA”, en el marco de la Disciplina Presupuestaria y la aplicación del Decreto Ejecutivo número PCM- 020-2020.
+6. Secretaría de Estado en el Despacho de Finanzas (SEFIN), será responsable de garantizar los recursos económicos requeridos para la ejecución de la operación “HONDURAS SOLIDARIA”, en el marco de la Disciplina Presupuestaria y la aplicación del Decreto Ejecutivo número PCM-020-2020.
 
 B. RESPONSABILIDADES POR INSTITUCIÓN
 

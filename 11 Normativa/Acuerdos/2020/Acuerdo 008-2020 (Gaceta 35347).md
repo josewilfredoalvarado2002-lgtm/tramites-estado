@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdo DGMM No. 008/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200819-35347/download"
 extraido: "2026-11-14"
-huella: "527608e29f8aee0f"
+huella: "ba8410dd5546e3b0"
 ---
 <!-- portal:inicio -->
 # ACUERDO DGMM No. 008/2020
@@ -31,11 +31,9 @@ Tegucigalpa, M.D.C., 17 de agosto de 2020
 
 CONSIDERANDO: Que son atribuciones de la Dirección General de la Marina Mercante, velar por la prevención de la contaminación del medio marino, dirigir, regular, autorizar y controlar las actividades marítimas relacionadas al uso, protección y preservación de los litorales, dragados, rellenos, vertimientos y demás obras de ingeniería oceánica; asimismo; coordinar la implementación y actualización del Plan Nacional de Contingencia ante derrames de hidrocarburos y sustancias nocivas y potencialmente peligrosas (SNPP).
 
-CONSIDERANDO: Que la Dirección General de la Marina Mercante, a través del Departamento de Protección de Medio Marino es el responsable de velar por la prevención y contención de la contaminación marina en el territorio nacional, razón por la cual mediante Acuerdo No.004-2020 esta Autoridad Marítima faculta al referido Departamento como el encargado de todo lo relacionado con el Reglamento de las Potestades Ambientales de la Marina Mercante.
+CONSIDERANDO: Que la Dirección General de la Marina Mercante, a través del Departamento de Protección de Medio Marino es el responsable de velar por la prevención y contención de la contaminación marina en el territorio nacional, razón por la cual mediante Acuerdo No. 004-2020 esta Autoridad Marítima faculta al referido Departamento como el encargado de todo lo relacionado con el Reglamento de las Potestades Ambientales de la Marina Mercante.
 
-CONSIDERANDO: Que mediante Acuerdo DGMM No.
-
-022-2015 se aprobó el Reglamento de Prevención y Control de la Contaminación Marina por Derrames y Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas y Potencialmente Peligrosas, con el objetivo de prevenir, mitigar y controlar los daños en los ecosistemas generados por vertimiento de desechos, hidrocarburos y sustancias nocivas y potencialmente peligrosas en aguas jurisdiccionales de la República de Honduras.
+CONSIDERANDO: Que mediante Acuerdo DGMM No. 022-2015 se aprobó el Reglamento de Prevención y Control de la Contaminación Marina por Derrames y Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas y Potencialmente Peligrosas, con el objetivo de prevenir, mitigar y controlar los daños en los ecosistemas generados por vertimiento de desechos, hidrocarburos y sustancias nocivas y potencialmente peligrosas en aguas jurisdiccionales de la República de Honduras.
 
 POR TANTO:
 
@@ -45,7 +43,7 @@ DGMM 004-2020 del Reglamento Relativo a las Potestades Ambientales de la Direcci
 
 ACUERDA:
 
-PRIMERO: Reformar los artículos 4, 11 y 14 del Reglamento de Prevención y Control de la Contaminación Marina por Derrames y Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas y Potencialmente Peligrosas aprobado mediante Acuerdo DGMM No.022-2015 de fecha 27 de agosto de 2015, de la siguiente forma:
+PRIMERO: Reformar los artículos 4, 11 y 14 del Reglamento de Prevención y Control de la Contaminación Marina por Derrames y Vertimiento de Desechos, Hidrocarburos y Sustancias Nocivas y Potencialmente Peligrosas aprobado mediante Acuerdo DGMM No. 022-2015 de fecha 27 de agosto de 2015, de la siguiente forma:
 
 … “Artículo 4.- Corresponde a la Dirección General de Marina Mercante a través del Departamento de Protección del Medio Marino y de las Unidades especializadas de la propia Dirección la aplicación de este Reglamento respecto del cumplimiento de sus disposiciones aspectos técnicos y otorgamiento de los permisos.” … “Artículo 11.- Cada marina deportiva, astillero, diques seco, taller de reparación y demás empresas a las que aplica el presente reglamento basado en una evaluación de riesgos y en el Plan de Contingencia Local debidamente revisado y aprobado por la Dirección General de Marina Mercante a través del Departamento de Protección del Medio Marino deberán asegurar que en las áreas de su actividad exista un mínimo de equipamiento y material de contención y recuperación de derrames, tanto para hidrocarburos como para sustancias nocivas y potencialmente peligrosas.
 

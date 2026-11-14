@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1556-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260509-37137/download"
 extraido: "2026-11-09"
-huella: "4c4495de9ff74423"
+huella: "d624a4f155ca03a7"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Resolución No. 1556-2025
@@ -33,7 +33,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 “RESOLUCIÓN No. 1556-2025. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, Tegucigalpa, Municipio del Distrito Central, Departamento de Francisco Morazán, veintiséis de noviembre del año dos mil veinticinco.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ- 25062025- 327, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA SICATACARE, MUNICIPIO DE SANTA ANA, DEPARTAMENTO DE FRANCISCO MORAZÁN, la cual se encuentra domiciliada en la Aldea Sicatacare, Municipio de Santa Ana, Departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha veinticinco de junio del año dos mil veinticinco, misma que corre a expediente administrativo No. PJ-25062025-327, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA ALDEA SICATACARE, MUNICIPIO DE SANTA ANA, DEPARTAMENTO DE FRANCISCO MORAZÁN, la cual se encuentra domiciliada en la Aldea Sicatacare, Municipio de Santa Ana, Departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS.
 
 RESULTA: Que la peticionaria acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica.
 

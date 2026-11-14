@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Ejecutivos números 378-2021, 788-2021, 790-2021, 808-2021, 809-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211104-35763/download"
 extraido: "2026-11-14"
-huella: "3fbb4337a5329296"
+huella: "9763a9ce0e819377"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 788-2021
@@ -55,7 +55,7 @@ CONSIDERANDO: Que el artículo 19 de la Ley Orgánica de la Procuraduría Genera
 
 Comparecer en representación del Estado, conforme a las instrucciones del Poder Ejecutivo y al otorgamiento de los actos o contratos en que estuviere interesada la Nación…”.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 publicado en el Diario Oficial “La Gaceta” en fecha 6 de octubre de 2020, el Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado, acordó delegar en el Secretario de Coordinación General de Gobierno Carlos Alberto Madero Erazo.
 
 Secretario de Coordinación General de Gobierno, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley General de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 

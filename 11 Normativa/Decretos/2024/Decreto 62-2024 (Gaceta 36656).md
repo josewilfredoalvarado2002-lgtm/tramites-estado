@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 62-2024, 69-2024,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241004-36656/download"
 extraido: "2026-11-14"
-huella: "9686e7ea295a22a1"
+huella: "8344d6a99b9b7063"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 62-2024
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Estado de Honduras es miembro del Foro de Presidentes de Po
 
 CONSIDERANDO: Que el Foro de Presidentes de Poderes Legislativos constituye un organismo internacional, con autonomía propia que se fundamenta en los principios y normas del ordenamiento jurídico-político nacional y la práctica del derecho internacional que propenden a la solidaridad humana, al respeto de la autodeterminación de los pueblos, a la no intervención y al afianzamiento de la paz y la democracia universal.
 
-CONSIDERANDO: Que los Presidentes y Presidentas de los Poderes Legislativos que conforman el Foro de Presidentes de Poderes Legislativos con la aprobación del Presidente del Congreso Nacional de Honduras, el Congresista Luis Rolando Redondo Guifarro, acordaron de manera unánime mediante la Resolución RE-XXVIII-06- 03062023 de fecha 3 de Junio del 2023, establecer la Sede de la Secretaría Permanente del FOPREL en la República de Honduras.
+CONSIDERANDO: Que los Presidentes y Presidentas de los Poderes Legislativos que conforman el Foro de Presidentes de Poderes Legislativos con la aprobación del Presidente del Congreso Nacional de Honduras, el Congresista Luis Rolando Redondo Guifarro, acordaron de manera unánime mediante la Resolución RE-XXVIII-06-03062023 de fecha 3 de Junio del 2023, establecer la Sede de la Secretaría Permanente del FOPREL en la República de Honduras.
 
 CONSIDERANDO: Que la buena voluntad del Congreso de la República de Honduras de acoger la sede de la Secretaría Permanente del Foro de Presidentes de Poderes Legislativos sintetiza el propósito de contribuir a fortalecer vínculos de cooperación interparlamentaria tanto en forma regional como internacional, necesarios para el bien común, la Integración y Desarrollo Sostenible de la Región.
 
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 Lo siguiente:
 

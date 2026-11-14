@@ -11,7 +11,7 @@ paginas: "A. 7 - 32"
 sumario: "Acuerdos Ministeriales Nos. 057-2020, 59-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200612-35281/download"
 extraido: "2026-11-14"
-huella: "5114960fae84fa14"
+huella: "963fa59ff6072379"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 59-2020
@@ -59,7 +59,7 @@ Funcionamiento y Competencia del Poder Ejecutivo; y el Decreto Ejecutivo Número
 
 ACUERDA:
 
-PRIMERO: Que en virtud de persistir las causas que originaron la emisión del Acuerdo Ministerial No.040-2020 de fecha seis (06) de mayo del año dos mil veinte (2020) se acuerda prorrogar la vigencia del por UN MES contado a partir del trece (13) de Junio al trece(13) de Julio del año dos mil veinte (2020), en el cual se establece el precio máximo de venta al consumidor final en todo el territorio nacional de los productos que se detallan a continuación:
+PRIMERO: Que en virtud de persistir las causas que originaron la emisión del Acuerdo Ministerial No. 040-2020 de fecha seis (06) de mayo del año dos mil veinte (2020) se acuerda prorrogar la vigencia del por UN MES contado a partir del trece (13) de Junio al trece(13) de Julio del año dos mil veinte (2020), en el cual se establece el precio máximo de venta al consumidor final en todo el territorio nacional de los productos que se detallan a continuación:
 
 TERCERO: Establecer el precio máximo de venta en todo el territorio nacional de materia prima para la producción de gel Antimaterial que se detalla a continuación:
 
@@ -73,9 +73,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 MARÍA ANTONIA RIVERA ENCARGADA DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO, DUNIA GRISEL FUENTEZ CÁRCAMO SECRETARIA GENERAL Universidad Nacional Autónoma de Honduras CERTIFICACIÓN La Infrascrita, Secretaria General a.i., de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA: El Acuerdo N°. CU-E-43-04-2020 del Acta N°. CU-E-002-03-2020, de la Sesión Extraordinaria del Consejo Universitario, celebrada de manera virtual el jueves 26 de marzo y sábado 04 de abril de dos mil veinte, relativo a la aprobación del Reglamento General del Servicio Social Universitario de las Carreras el Área de la Salud de la Universidad Nacional Autónoma de Honduras, que literalmente dice:
 
-“Certificación N°. 003-2020. El Infrascrito, Secretario del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo N°. CU-E-043-04-2020, contenido en el Acta N°. CU-E-002-03-2020 de la Sesión Extraordinaria de manera virtual el 26 de marzo y 04 de abril de 2020, que literalmente dice: “Oficio SCU-N°.
-
-049-2020. 14 de abril del 2020. Doctor FRANCISCO JOSÉ HERRERA ALVARADO, Rector a.i., UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que en la Sesión Extraordinaria realizada de manera virtual, celebrada el jueves 26 de marzo y sábado 04 de abril de dos mil veinte, en Acta N°. CU-E-002-03-2020 levantada al efecto y obra el ACUERDO N°. CU-E-43-04-2020, y que sin perjuicio de la ulterior aprobación del acta, en su parte resolutiva dice: “ACUERDO N° CU-E-043-04-2020.
+“Certificación N°. 003-2020. El Infrascrito, Secretario del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo N°. CU-E-043-04-2020, contenido en el Acta N°. CU-E-002-03-2020 de la Sesión Extraordinaria de manera virtual el 26 de marzo y 04 de abril de 2020, que literalmente dice: “Oficio SCU-N°. 049-2020. 14 de abril del 2020. Doctor FRANCISCO JOSÉ HERRERA ALVARADO, Rector a.i., UNAH. Su Oficina. Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que en la Sesión Extraordinaria realizada de manera virtual, celebrada el jueves 26 de marzo y sábado 04 de abril de dos mil veinte, en Acta N°. CU-E-002-03-2020 levantada al efecto y obra el ACUERDO N°. CU-E-43-04-2020, y que sin perjuicio de la ulterior aprobación del acta, en su parte resolutiva dice: “ACUERDO N° CU-E-043-04-2020.
 
 CONSIDERANDO: Que de conformidad al artículo 160 de la Constitución de la República, la Universidad Nacional Autónoma de Honduras (UNAH) goza de la exclusividad de organizar, dirigir y desarrollar la educación superior y profesional; y responsabiliza a la UNAH de programar su participación en la transformación de la sociedad hondureña, según Decreto 131-82.
 
@@ -225,9 +223,7 @@ Establecimiento: Son las diferentes empresas, organismos e instituciones públic
 
 Facultad: Es la Facultad a la que pertenece el o la estudiante en Servicio Social Universitario. La Comisión. Comisión Ejecutiva de Facultad del Servicio Social Universitario.
 
-Protocolo: Es la normativa interna que elaborará la Comisión una vez instalada. Reglamento: Es el Reglamento General del Servicio Social Universitario de las Carreras del Área de la Salud de la UNAH, establecido en el Reglamento General de la Ley Orgánica, Artículo 132, publicado en el Diario Oficial “La Gaceta” N°. 31,379. Reglamento de Estudiantes: Es el Reglamento de Estudiantes de la UNAH, publicado en el Diario Oficial “La Gaceta” N°.
-
-31,545. SSU: Servicio Social Universitario. UNAH: Es la Universidad Nacional Autónoma de Honduras. VOAE:
+Protocolo: Es la normativa interna que elaborará la Comisión una vez instalada. Reglamento: Es el Reglamento General del Servicio Social Universitario de las Carreras del Área de la Salud de la UNAH, establecido en el Reglamento General de la Ley Orgánica, Artículo 132, publicado en el Diario Oficial “La Gaceta” N°. 31,379. Reglamento de Estudiantes: Es el Reglamento de Estudiantes de la UNAH, publicado en el Diario Oficial “La Gaceta” N°. 31,545. SSU: Servicio Social Universitario. UNAH: Es la Universidad Nacional Autónoma de Honduras. VOAE:
 
 Vicerrectoría de Orientación y Asuntos Estudiantiles.
 
@@ -335,7 +331,7 @@ La estructura del sector, los acuerdos del mercado y las instituciones están ar
 
 La Comisión Reguladora: A la CREE se le ha asignado la función de desarrollar y hacer cumplir el marco regulatorio para implementar la Ley, y se le ha otorgado la autoridad para ejercer sus funciones regulatorias, incluyendo: (i) licencias de transmisión y distribución; (ii) revisión y aprobación de los documentos de licitación para contratos de compra de capacidad y energía por parte de las empresas de distribución y de los contratos adjudicados; (iii) monitoreo del mercado; (iv) aprobación de los planes de expansión de transmisión; (v) establecer un esquema de calidad de servicio y estándares de desempeño para las empresas de transmisión y distribución, con sanciones o compensaciones para los usuarios; y, vi) establecer el marco regulatorio para las tarifas de electricidad, ingresos permitidos para distribución y transmisión y cargos. El marco legal establece funciones específicas para los roles regulatorios de las tarifas de electricidad, que incluyen establecer las regulaciones y la metodología para la determinación de las tarifas de transmisión y distribución y garantizar su correcta implementación; revisión y aprobación de propuestas tarifarias por parte de compañías de transmisión y distribución; establecer parámetros clave para la fijación de precios y tarifas, como el costo de la energía no suministrada (CENS), los bloques horarios para las tarifas y la tasa de descuento permitida; y desarrollar e implementar el marco regulatorio de las tarifas (“Reglamento de Tarifas”).
 
-El Reglamento de Tarifas, que incorpora todos los elementos necesarios para la transición a un modelo que refleje los costos basados en el enfoque de “costo eficiente para entregar el servicio” para establecer las tarifas de electricidad, fue aprobado por la CREE el 24 de junio de 2019 (Resolución CREE- 148) y ha fortalecido la capacidad a nivel de institución reguladora.
+El Reglamento de Tarifas, que incorpora todos los elementos necesarios para la transición a un modelo que refleje los costos basados en el enfoque de “costo eficiente para entregar el servicio” para establecer las tarifas de electricidad, fue aprobado por la CREE el 24 de junio de 2019 (Resolución CREE-148) y ha fortalecido la capacidad a nivel de institución reguladora.
 
 De acuerdo con la Ley, los estudios para determinar el Valor Agregado de Distribución (VAD), así como la estructura tarifaria y sus mecanismos de ajuste, serán realizados por una firma consultora contratada de acuerdo con los términos de referencia preparados por la CREE (estos documentos).
 

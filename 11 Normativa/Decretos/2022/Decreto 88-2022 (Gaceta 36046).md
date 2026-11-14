@@ -11,7 +11,7 @@ paginas: "A. 26 - 36"
 sumario: "Decretos Nos. 86-2022, 87-2022, 88-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221007-36046/download"
 extraido: "2026-11-14"
-huella: "da4ffcb8f758b202"
+huella: "9e8a5a517baaff8d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 88-2022
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 atribuciones 1) y 19) de la Co
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Nos. 59-A-2021, 59-B-2021, 84-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210621-35634/download"
 extraido: "2026-11-14"
-huella: "eb47fde0595cd0b8"
+huella: "0f8433bc07506cdd"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 84-2021
@@ -27,7 +27,7 @@ huella: "eb47fde0595cd0b8"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

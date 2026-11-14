@@ -8,7 +8,7 @@ gaceta_numero: 36293
 gaceta_fecha: "2023-07-28"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)|La Gaceta 36293]]"
 paginas: "A. 3 - 4"
-sumario: "Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023"
+sumario: "Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230728-36293/download"
 extraido: "2026-11-14"
 huella: "fc296c8112148e99"
@@ -23,7 +23,7 @@ huella: "fc296c8112148e99"
 | Emisor | Secretaría de Estado en el Despacho de Finanzas |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)\|La Gaceta 36293]] del 2023-07-28 |
 | Páginas | A. 3 - 4 |
-| Según el sumario de La Gaceta | Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023 |
+| Según el sumario de La Gaceta | Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023 |
 
 ## Texto
 

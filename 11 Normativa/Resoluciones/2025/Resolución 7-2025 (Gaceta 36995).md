@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 7-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251117-36995/download"
 extraido: "2026-11-09"
-huella: "d5de7235eb7b2822"
+huella: "d6e89d9d4a3a68c3"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 7-2025
@@ -33,9 +33,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 “RESOLUCIÓN
 
-No.
-
-7-2025
+No. 7-2025
 
 SECRETARÍA
 

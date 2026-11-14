@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Nos. 007-2022, 276-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220523-35930/download"
 extraido: "2026-11-14"
-huella: "62fddad696834f57"
+huella: "7c6db833cd320cdc"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 276-2022
@@ -35,15 +35,13 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece que los Subsecretarios de Estados por un acto de delegación del Señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos y sustituirlos en caso de ausencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-60-2022 de fecha 03 de febrero de 2022, se nombró a la ciudadana CARMEN HAYDEÉ LOPEZ FLORES, como Subsecretaria de Estado en el Despacho de Justicia.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 60-2022 de fecha 03 de febrero de 2022, se nombró a la ciudadana CARMEN HAYDEÉ LOPEZ FLORES, como Subsecretaria de Estado en el Despacho de Justicia.
 
 CONSIDERANDO: Que en ausencia temporal de sus labores por enfermedad o por el desempeño de sus actividades inherentes al cargo, puede delegar las mismas inmediatamente en la ciudadana CARMEN HAYDEÉ LOPEZ FLORES, Subsecretaria de Estado en el Despacho de Justicia, con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos ventilados en esta Secretaría de Estado.
 
 POR TANTO:
 
-En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM- 008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En uso de sus atribuciones y en aplicaciones de los Artículos 30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97 que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

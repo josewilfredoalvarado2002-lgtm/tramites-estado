@@ -11,7 +11,7 @@ paginas: "A. 12 - 32"
 sumario: "Decreto No. 46-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220516-35924/download"
 extraido: "2026-11-14"
-huella: "b30812b96abd524f"
+huella: "21fa19f6ff46d895"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 46-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que en base a los artículos 1), 59) y 64) de la Constitución de 
 
 CONSIDERANDO: Que el modelo privatizador impuesto durante la última década a través de la Ley General de la Industria Eléctrica e institucionalizado con el ente regulador denominado Comisión Reguladora de la Energía Eléctrica (CREE), el Organismo Operador del Sistema (ODS) con carácter de ONG, sin fines de lucro pero responsable de la administración, el despacho y la planificación de la expansión del sistema y decidir cada hora del día, durante todo el año, que plantas deben generar energía para cubrir la demanda nacional; integrado el que en su mayoría por el sector privado con cuatro (4) personas y apenas 1 representante del sector público (Estado-ENEE), utiliza las instalaciones propiedad de la Empresa Nacional de Energía Eléctrica (ENEE); y los contratos de FIDEICOMISO para reducción de pérdidas (lectura, facturación y cobro); Transmisión y Generación de Energía, no solo han fracasado, sino que constituyen un verdadero modelo orientado a la destrucción total de la Empresa. Los activos de la Empresa Nacional de Energía Eléctrica (ENEE) están valorados en $ 3,597 millones de dólares.
 
-CONSIDERANDO: Que desde el año 2010 hasta el 2021, la Empresa Nacional de Energía Eléctrica (ENEE), ha recibido Cincuenta y Ocho Mil Millones de Lempiras (L.58,000,000,000.00) en préstamos y, Doscientos Setenta Millones de Lempiras (L.270,000,000.00) en donaciones, por parte de los organismos financieros internacionales y cooperantes. No obstante haber recibido tal cantidad de préstamos para mejorar sus condiciones, la Empresa Nacional de Energía Eléctrica (ENEE) enfrenta una deuda total de Setenta y Cinco Mil Seiscientos Millones de Lempiras (L.75,600,000,000.00) que equivale al diez punto cero cinco por ciento (10.05%) del Producto Interno Bruto (PIB) Setecientos Cuarenta y Siete Mil Ochocientos Cuatro Millones de Lempiras (L.747,804,000,000.00) con 75 contratos de generación en operación comercial que facturan aproximadamente Mil Ochocientos Setenta y Cinco Millones de Lempiras (L.1,875,000,000.00) mensuales, y que en estas graves condiciones de privatización la Empresa Nacional de Energía Eléctrica (ENEE) no genera los recursos para pagar estos servicios de energía, cuyo costo medio es de aproximadamente 0.1336 US$/kwh calculado con el precio del barril de petróleo a 62 US$/bbl, incrementándose actualmente a un precio de 100 US$/bbl y en consecuencia el costo medio aumenta aproximadamente 0.18 US$Kwh en el presente año 2022, siendo por todas estas causas el más alto de la región. De igual manera las pérdidas técnicas y no técnicas han continuado aumentando hasta el treinta y ocho por ciento (38%), representando un valor de Diecisiete Millones de Dólares anuales cada punto porcentual. Existe un alto déficit en cuanto a la instalación de medidores y demandas millonarias interpuestas por la Empresa Energía Honduras (EEH) que ha incumplido en forma evidente el contrato que suscribió con la Empresa Nacional de Energía Eléctrica (ENEE) y su Fideicomiso según Decreto No.118- 2013 de fecha 12 de Junio de 2013, para la recuperación de pérdida en los servicios prestados por la Empresa Nacional de Energía Eléctrica (ENEE), para la ejecución del componente de distribución y flujo financiero mediante la constitución de una alianza público-privada (APP).
+CONSIDERANDO: Que desde el año 2010 hasta el 2021, la Empresa Nacional de Energía Eléctrica (ENEE), ha recibido Cincuenta y Ocho Mil Millones de Lempiras (L.58,000,000,000.00) en préstamos y, Doscientos Setenta Millones de Lempiras (L.270,000,000.00) en donaciones, por parte de los organismos financieros internacionales y cooperantes. No obstante haber recibido tal cantidad de préstamos para mejorar sus condiciones, la Empresa Nacional de Energía Eléctrica (ENEE) enfrenta una deuda total de Setenta y Cinco Mil Seiscientos Millones de Lempiras (L.75,600,000,000.00) que equivale al diez punto cero cinco por ciento (10.05%) del Producto Interno Bruto (PIB) Setecientos Cuarenta y Siete Mil Ochocientos Cuatro Millones de Lempiras (L.747,804,000,000.00) con 75 contratos de generación en operación comercial que facturan aproximadamente Mil Ochocientos Setenta y Cinco Millones de Lempiras (L.1,875,000,000.00) mensuales, y que en estas graves condiciones de privatización la Empresa Nacional de Energía Eléctrica (ENEE) no genera los recursos para pagar estos servicios de energía, cuyo costo medio es de aproximadamente 0.1336 US$/kwh calculado con el precio del barril de petróleo a 62 US$/bbl, incrementándose actualmente a un precio de 100 US$/bbl y en consecuencia el costo medio aumenta aproximadamente 0.18 US$Kwh en el presente año 2022, siendo por todas estas causas el más alto de la región. De igual manera las pérdidas técnicas y no técnicas han continuado aumentando hasta el treinta y ocho por ciento (38%), representando un valor de Diecisiete Millones de Dólares anuales cada punto porcentual. Existe un alto déficit en cuanto a la instalación de medidores y demandas millonarias interpuestas por la Empresa Energía Honduras (EEH) que ha incumplido en forma evidente el contrato que suscribió con la Empresa Nacional de Energía Eléctrica (ENEE) y su Fideicomiso según Decreto No. 118-2013 de fecha 12 de Junio de 2013, para la recuperación de pérdida en los servicios prestados por la Empresa Nacional de Energía Eléctrica (ENEE), para la ejecución del componente de distribución y flujo financiero mediante la constitución de una alianza público-privada (APP).
 
 CONSIDERANDO: Que el Gobierno de la República debe asegurar la continuidad en el suministro y los costos reales del mercado en las tarifas, las cuales deben ser transparentes y justas; hacer inversiones en el sistema de transmisión y distribución; construir plantas de generación renovable y control de inundaciones bajo una modalidad de llave en mano y mediante convenios bilaterales con otros países; desarrollar un programa masivo de control de pérdidas, y la revisión de contratos y concesiones otorgadas que lesionan los intereses, especialmente económicos del pueblo hondureño, porque impactan en los precios de las tarifas y en las condiciones de vida de los consumidores.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 213 de la Constitución de la 
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 La siguiente:
 
@@ -67,7 +67,7 @@ PÚBLICO DE SEGURIDAD NACIONAL. El Estado de Honduras declara el servicio de la 
 
 ARTÍCULO 2.- DECLARATORIA DE EMERGENCIA.
 
-El Estado de Honduras declara en emergencia nacional el subsector eléctrico que comprende las estructuras de la Empresa Nacional de Energía Eléctrica (ENEE), como ente encargado de las actividades de generación, transmisión, distribución y comercialización de la energía eléctrica según Decreto Legislativo No.48 de 1957 en el territorio nacional; la importación y exportación de energía eléctrica en forma complementaria; la operación del sistema eléctrico nacional, y la gestión en el mercado eléctrico regional centroamericano, y autoriza al Poder Ejecutivo y la Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) para la implementación de un Plan de Emergencia para la Recuperación del Subsector y el rescate de la Empresa Pública.
+El Estado de Honduras declara en emergencia nacional el subsector eléctrico que comprende las estructuras de la Empresa Nacional de Energía Eléctrica (ENEE), como ente encargado de las actividades de generación, transmisión, distribución y comercialización de la energía eléctrica según Decreto Legislativo No. 48 de 1957 en el territorio nacional; la importación y exportación de energía eléctrica en forma complementaria; la operación del sistema eléctrico nacional, y la gestión en el mercado eléctrico regional centroamericano, y autoriza al Poder Ejecutivo y la Junta Directiva de la Empresa Nacional de Energía Eléctrica (ENEE) para la implementación de un Plan de Emergencia para la Recuperación del Subsector y el rescate de la Empresa Pública.
 
 #### Artículo 3
 
@@ -95,9 +95,9 @@ ARTICULO 6.- AUTORIZACION PARA LA ADQUISICIÓN DE PLANTAS DE GENERACIÓN DE ENER
 
 #### Artículo 7
 
-ARTÍCULO 7.- DEROGACION DEL CONTRATO DE FIDEICOMISO QUE ENTREGA 14 SUBCUENCAS DE RÍO PARA LA CONSTRUCCIÓN Y GENERACIÓN DE ENERGÍA. Derogar el Decreto Legislativo No.33- 2021, de fecha 24 de Mayo de 2021, publicado en el Diario Oficial “La Gaceta” el 8 de Junio del 2021 contentivo del contrato de fideicomiso que entrega catorce (14) subcuencas de ríos para la construcción y generación de energía, por considerarlo lesivo a las finanzas del Estado y a la Empresa Nacional de Energía Eléctrica (ENEE), bajo las prerrogativas y facultades, y por razones de interés público, en el cual se aprueba la REFORMA AL CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA Y DESARROLLO DE PROYECTOS PÚBLICOS PARA CONTROL DE INUNDACIONES, MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICO-PRIVADA, suscrito en fecha 13 de Mayo del año 2021, así como el Decreto Legislativo No.373–2013, de fecha del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Marzo de 2014, a través del cual se entregan catorce (14) sitios para el desarrollo de proyectos de generación de energía eléctrica, los que se describen a continuación incluyendo los estudios realizados por la Empresa Nacional de Energía Eléctrica (ENEE) para Jicatuyo y Los Llanitos a un costo de Once Millones de Dólares:
+ARTÍCULO 7.- DEROGACION DEL CONTRATO DE FIDEICOMISO QUE ENTREGA 14 SUBCUENCAS DE RÍO PARA LA CONSTRUCCIÓN Y GENERACIÓN DE ENERGÍA. Derogar el Decreto Legislativo No. 33-2021, de fecha 24 de Mayo de 2021, publicado en el Diario Oficial “La Gaceta” el 8 de Junio del 2021 contentivo del contrato de fideicomiso que entrega catorce (14) subcuencas de ríos para la construcción y generación de energía, por considerarlo lesivo a las finanzas del Estado y a la Empresa Nacional de Energía Eléctrica (ENEE), bajo las prerrogativas y facultades, y por razones de interés público, en el cual se aprueba la REFORMA AL CONTRATO DE FIDEICOMISO PARA LA GENERACIÓN DE ENERGÍA Y DESARROLLO DE PROYECTOS PÚBLICOS PARA CONTROL DE INUNDACIONES, MITIGACIÓN DE LOS EFECTOS DEL CAMBIO CLIMÁTICO, MEDIANTE LA CONSTITUCIÓN DE UNA ALIANZA PÚBLICO-PRIVADA, suscrito en fecha 13 de Mayo del año 2021, así como el Decreto Legislativo No. 373–2013, de fecha del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Marzo de 2014, a través del cual se entregan catorce (14) sitios para el desarrollo de proyectos de generación de energía eléctrica, los que se describen a continuación incluyendo los estudios realizados por la Empresa Nacional de Energía Eléctrica (ENEE) para Jicatuyo y Los Llanitos a un costo de Once Millones de Dólares:
 
-Asimismo, se deroga el Decreto No.163-2013, del 7 de Agosto de 2013, publicado en el Diario Oficial “La Gaceta” el 18 de Septiembre del 2013 contentivo del Contrato de Fideicomiso para la Reducción de Pérdidas en los Servicios Prestados por la Empresa Nacional de Energía Eléctrica (ENEE) para la ejecución del componente de servicio de transmisión, despacho y flujo financiero, mediante la constitución de una alianza público-privado.
+Asimismo, se deroga el Decreto No. 163-2013, del 7 de Agosto de 2013, publicado en el Diario Oficial “La Gaceta” el 18 de Septiembre del 2013 contentivo del Contrato de Fideicomiso para la Reducción de Pérdidas en los Servicios Prestados por la Empresa Nacional de Energía Eléctrica (ENEE) para la ejecución del componente de servicio de transmisión, despacho y flujo financiero, mediante la constitución de una alianza público-privado.
 
 #### Artículo 8
 
@@ -117,7 +117,7 @@ La Empresa Nacional de Energía Eléctrica (ENEE) debe proceder de inmediato a r
 
 ARTICULO 10.- DEROGACIÓN DEL ACUERDO DE
 
-LA CREE-91-2020. Derogar el Acuerdo No.91-2020 emitido por la Comisión Reguladora de Energía Eléctrica (CREE) y publicada en el Diario Oficial “La Gaceta” en fecha 14 de Noviembre de 2020, por ocasionar perjuicios económicos a los consumidores y a la Empresa Nacional de Energía Eléctrica (ENEE) en virtud de aumentar de forma injustificada el precio del costo base de la potencia firme de energía.
+LA CREE-91-2020. Derogar el Acuerdo No. 91-2020 emitido por la Comisión Reguladora de Energía Eléctrica (CREE) y publicada en el Diario Oficial “La Gaceta” en fecha 14 de Noviembre de 2020, por ocasionar perjuicios económicos a los consumidores y a la Empresa Nacional de Energía Eléctrica (ENEE) en virtud de aumentar de forma injustificada el precio del costo base de la potencia firme de energía.
 
 #### Artículo 11
 
@@ -185,13 +185,13 @@ Asimismo, la Comisión debe rendir un Informe Público a la Nación, establecien
 
 #### Artículo 18
 
-ARTÍCULO 18.- EVALUACIÓN DEL RECURSO H U M A N O Y R E E S T R U C T U R A C I Ó N ADMINISTRATIVA Y TÉCNICA. Autorizar a la Empresa Nacional de Energía Eléctrica (ENEE) para que, a través de la Junta Directiva y la Gerencia, proceda a la evaluación del recurso humano y la reestructuración administrativa y técnica que sea necesaria, respetando las leyes laborales.
+ARTÍCULO 18.- EVALUACIÓN DEL RECURSO HUMANO Y REESTRUCTURACIÓN ADMINISTRATIVA Y TÉCNICA. Autorizar a la Empresa Nacional de Energía Eléctrica (ENEE) para que, a través de la Junta Directiva y la Gerencia, proceda a la evaluación del recurso humano y la reestructuración administrativa y técnica que sea necesaria, respetando las leyes laborales.
 
 CAPÍTULO II REFORMAS A LA LEY GENERAL DE LA INDUSTRIA ELÉCTRICA
 
 #### Artículo 19
 
-ARTÍCULO 19.- Reformar los artículos 1, 3 reformado, 5, 9, 10, 11, 15, 27, 28 y 29 de la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, contenida en el Decreto No.404-2013 del 20 de Enero de 2014, los cuales se leerán de la forma siguiente:
+ARTÍCULO 19.- Reformar los artículos 1, 3 reformado, 5, 9, 10, 11, 15, 27, 28 y 29 de la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, contenida en el Decreto No. 404-2013 del 20 de Enero de 2014, los cuales se leerán de la forma siguiente:
 
 “ARTÍCULO 1. OBJETO DE LA LEY.
 
@@ -227,7 +227,7 @@ Los comisionados de la Comisión Reguladora de Energía Eléctrica (CREE), tiene
 
 Los comisionados de la Comisión Reguladora de Energía Eléctrica (CREE) serán responsables administrativa, civil y penalmente por todas sus acciones que ocasionen perjuicio económico al Estado de Honduras y los bienes públicos.
 
-R E Q U I S I T O S PA R A S E R
+REQUISITOS PA R A S E R
 
 COMISIONADO DE LA CREE. Los comisionados de la Comisión Reguladora de Energía Eléctrica (CREE), deben cumplir con los requisitos siguientes:
 
@@ -245,11 +245,11 @@ COMISIONADO DE LA CREE. Los comisionados de la Comisión Reguladora de Energía 
 
 C.
 
-NOMINACIÓN DEL PRESIDENTE Y SECRETARIO DE LA COMISIÓN R E G U L A D O R A D E E N E R G Í A ELÉCTRICA (CREE). Los comisionados elegirán de entre ellos a un Presidente y a un Secretario. Estos cargos serán rotatorios cada año, el primer comisionado Presidente y Secretario serán designados por la Presidencia de la República.
+NOMINACIÓN DEL PRESIDENTE Y SECRETARIO DE LA COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE). Los comisionados elegirán de entre ellos a un Presidente y a un Secretario. Estos cargos serán rotatorios cada año, el primer comisionado Presidente y Secretario serán designados por la Presidencia de la República.
 
 D.
 
-FUNCIONES DE LA COMISIÓN R E G U L A D O R A D E E N E R G Í A ELÉCTRICA (CREE). La Comisión Reguladora de Energía Eléctrica (CREE), tiene las funciones siguientes:
+FUNCIONES DE LA COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE). La Comisión Reguladora de Energía Eléctrica (CREE), tiene las funciones siguientes:
 
 I.
 
@@ -313,15 +313,15 @@ ENERGÍA ELÉCTRICA (CREE). La Comisión Reguladora de Energía Eléctrica (CREE
 
 F.
 
-PERSONAL DE LA COMISIÓN R E G U L A D O R A D E E N E R G Í A ELÉCTRICA (CREE). El personal que preste sus servicios en la Comisión Reguladora de Energía Eléctrica (CREE), con excepción de los de carácter directivo, será seleccionado mediante concurso público.
+PERSONAL DE LA COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE). El personal que preste sus servicios en la Comisión Reguladora de Energía Eléctrica (CREE), con excepción de los de carácter directivo, será seleccionado mediante concurso público.
 
 G.
 
-R E S O L U C I O N E S D E L A COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE) Y MEDIOS DE IMPUGNACIÓN. Contra las resoluciones adoptadas por la Comisión Reguladora de Energía Eléctrica (CREE), en el ejercicio de sus funciones procederá el recurso de reposición ante la propia Comisión, el cual le pondrá fin a la vía administrativa, sin perjuicio de que las Partes de común acuerdo podrán poner fin a su controversia o disputa a través de la Conciliación y el Arbitraje.” “ARTÍCULO 5.- EMPRESAS DE GENERACIÓN. Las empresas generadoras deberán inscribirse en el Registro Público de Empresas del Sector Eléctrico que llevará la Comisión Reguladora de Energía Eléctrica (CREE), suministrando toda la información que se les pida en el formulario de inscripción.
+RESOLUCIONES DE LA COMISIÓN REGULADORA DE ENERGÍA ELÉCTRICA (CREE) Y MEDIOS DE IMPUGNACIÓN. Contra las resoluciones adoptadas por la Comisión Reguladora de Energía Eléctrica (CREE), en el ejercicio de sus funciones procederá el recurso de reposición ante la propia Comisión, el cual le pondrá fin a la vía administrativa, sin perjuicio de que las Partes de común acuerdo podrán poner fin a su controversia o disputa a través de la Conciliación y el Arbitraje.” “ARTÍCULO 5.- EMPRESAS DE GENERACIÓN. Las empresas generadoras deberán inscribirse en el Registro Público de Empresas del Sector Eléctrico que llevará la Comisión Reguladora de Energía Eléctrica (CREE), suministrando toda la información que se les pida en el formulario de inscripción.
 
 Cada vez que se produzcan cambios en las características de las instalaciones o de su operación, las empresas deberán notificar a la Comisión Reguladora de Energía Eléctrica (CREE), para los fines de la actualización de su inscripción en el registro antes referido.
 
-Las Empresas generadoras que utilicen recursos hidráulicos, deben obtener la respectiva concesión de derechos de aprovechamiento de aguas, de acuerdo con lo establecido en la Ley de Incentivos a la Generación de Energía Renovable. Decreto No.70-2007 y sus reformas y la Ley General de Aguas, dicha concesión contendrá el plazo, condiciones, alcances y el área correspondiente donde se encuentre el recurso natural renovable y la infraestructura del proceso.
+Las Empresas generadoras que utilicen recursos hidráulicos, deben obtener la respectiva concesión de derechos de aprovechamiento de aguas, de acuerdo con lo establecido en la Ley de Incentivos a la Generación de Energía Renovable. Decreto No. 70-2007 y sus reformas y la Ley General de Aguas, dicha concesión contendrá el plazo, condiciones, alcances y el área correspondiente donde se encuentre el recurso natural renovable y la infraestructura del proceso.
 
 Para todas las empresas generadoras que utilicen fuentes de energías renovables la duración de la respectiva concesión, la licencia de uso del recurso renovable no hídrico y la licencia ambiental será igual a la vida útil del proyecto, la cual será definida por la Comisión Reguladora de Energía Eléctrica (CREE), para cada tecnología mediante disposiciones reglamentarias.”
 
@@ -339,7 +339,7 @@ DEL SISTEMA. El incumplimiento de las órdenes emitidas por el Operador del Sist
 
 C.
 
-R E Q U E R I M I E N T O
+REQUERIMIENTO
 
 Y
 
@@ -421,7 +421,7 @@ Las Demás que le correspondan en virtud de esta Ley y el Tratado Marco del Merc
 
 F.
 
-P R O C E D I M I E N T O S D E IMPUGNACION DE DECISIONES DEL OPERADOR DEL SISTEMA. Cualquier empresa que se considere afectada por las decisiones del Centro Nacional de Despacho
+PROCEDIMIENTOS DE IMPUGNACION DE DECISIONES DEL OPERADOR DEL SISTEMA. Cualquier empresa que se considere afectada por las decisiones del Centro Nacional de Despacho
 
 (CND) en su calidad de Operador del Sistema
 
@@ -497,7 +497,7 @@ Los plazos de estas contrataciones serán definidos por la Empresa Nacional de E
 
 E. Las disposiciones reglamentarias que establezcan las normas de calidad del servicio tanto para la transmisión como para la distribución, deberán prever su aplicación de manera gradual durante un período de transición, teniendo en cuenta la condición inicial de las redes y el tiempo que llevará realizar las obras para su reforzamiento y expansión”.
 
-“ARTÍCULO 29.- SEPARACIÓN T É C N I C A , A D M I N I S T R AT I VA Y FINANCIERA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE). Con la finalidad de salvaguardar su naturaleza pública, la Empresa Nacional de Energía Eléctrica (ENEE) deberá realizar el proceso de separación técnica, administrativa y financiera por unidades de centros de costos de la actividad de generación, transmisión, Centro Nacional de Despacho y Distribución.
+“ARTÍCULO 29.- SEPARACIÓN TÉCNICA, A D M I N I S T R AT I VA Y FINANCIERA DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (ENEE). Con la finalidad de salvaguardar su naturaleza pública, la Empresa Nacional de Energía Eléctrica (ENEE) deberá realizar el proceso de separación técnica, administrativa y financiera por unidades de centros de costos de la actividad de generación, transmisión, Centro Nacional de Despacho y Distribución.
 
 La estructura organizativa del Centro Nacional de Despacho (CND) será definida por el reglamento que al efecto se emita.
 
@@ -507,7 +507,7 @@ CAPÍTULO III DEROGATORIA Y VIGENCIA
 
 #### Artículo 20
 
-ARTÍCULO 20.- Se derogan todas las disposiciones contenidas en otras Leyes, decretos, reglamentos y disposiciones en lo que se opongan a la presente Ley, exceptuando el Decreto No.279-2010, de fecha 19 de enero de 2011 y publicado en fecha 5 de febrero de 2011, contentivo de la LEY ESPECIAL REGULADORA DE PROYECTOS PÚBLICOS DE ENERGÍA RENOVABLE.
+ARTÍCULO 20.- Se derogan todas las disposiciones contenidas en otras Leyes, decretos, reglamentos y disposiciones en lo que se opongan a la presente Ley, exceptuando el Decreto No. 279-2010, de fecha 19 de enero de 2011 y publicado en fecha 5 de febrero de 2011, contentivo de la LEY ESPECIAL REGULADORA DE PROYECTOS PÚBLICOS DE ENERGÍA RENOVABLE.
 
 #### Artículo 21
 

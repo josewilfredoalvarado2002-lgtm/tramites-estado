@@ -11,7 +11,7 @@ paginas: "A. 30 - 35"
 sumario: "Decretos Nos. 97-2026, 99-2026, 100-2026, 102-2026, 103-2026, 106-2026, 111-2026, 112-2026, 113-2026, 114-2026, 115-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260630-37181/download"
 extraido: "2026-11-09"
-huella: "6cfa14ecf6684926"
+huella: "5eff0868c3aabbf4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 113-2026
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- REFORMAR el Artículo 6 del Decreto No.132-97 de fecha 11 de Septiembre de 1997, publicado en el Diario Oficial “La Gaceta” en fecha 15 de noviembre de 1997, contentivo de la “LEY CONTRA LA VIOLENCIA DOMÉSTICA” y sus reformas, el cual en adelante deberá leerse así:
+ARTÍCULO 1.- REFORMAR el Artículo 6 del Decreto No. 132-97 de fecha 11 de Septiembre de 1997, publicado en el Diario Oficial “La Gaceta” en fecha 15 de noviembre de 1997, contentivo de la “LEY CONTRA LA VIOLENCIA DOMÉSTICA” y sus reformas, el cual en adelante deberá leerse así:
 
 “ARTÍCULO 6.- Para tutelar o restituir los derechos de las mujeres que sufran de violencia doméstica se establecerán mecanismos de protección que consisten en Medidas de Seguridad, Precautorias y Cautelares.
 
@@ -87,7 +87,7 @@ En cualquier…..”
 
 #### Artículo 2
 
-ARTÍCULO 2.- REFORMAR por adición los artículos 20-C y 20-D del Decreto No.132-97 de fecha 11 de septiembre de 1997, publicado en el Diario Oficial “La Gaceta” en fecha 15 de noviembre de 1997, contentivo de la “LEY CONTRA LA VIOLENCIA DOMÉSTICA” y sus reformas, el cual en adelante deberán leerse así:
+ARTÍCULO 2.- REFORMAR por adición los artículos 20-C y 20-D del Decreto No. 132-97 de fecha 11 de septiembre de 1997, publicado en el Diario Oficial “La Gaceta” en fecha 15 de noviembre de 1997, contentivo de la “LEY CONTRA LA VIOLENCIA DOMÉSTICA” y sus reformas, el cual en adelante deberán leerse así:
 
 “ARTÍCULO 20-C: Se crea el Registro de Agresores Contra la Mujer con el objetivo de determinar la incidencia de la violencia doméstica contra la mujer en nuestra sociedad, evaluar los resultados de esta Ley y prevenir reincidencia, el Juzgado Especial Contra la Violencia Doméstica de la Corte Suprema de Justicia (CSJ) será el ente responsable de la administración, actualización y custodia de éste.
 

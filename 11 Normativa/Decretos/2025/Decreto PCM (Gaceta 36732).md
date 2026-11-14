@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto Ejecutivo Número PCM 03-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250106-36732/download"
 extraido: "2026-11-13"
-huella: "dbbb36c6c47b0f26"
+huella: "78140788f20473b0"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 03-2025
@@ -63,7 +63,7 @@ CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadís
 
 CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
 
-POR TANTO, En uso de las facultades contenidas en los artículos 59, 62, 65, 69, 78, 81, 84, 93, 99, 187, 245 numerales 2), 4), 7), 11), 16) y 19), 252, 321, 323 de la Constitución de la República; artículos 11, 116, 117 y 119 de la Ley General de la Administración Pública; artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras; Decretos Ejecutivos PCM número 29-2022, PCM 01-2023, PCM 10-2023, PCM 15- 2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024, PCM 24- 2024, PCM 30-2024 y PCM 36-2024; y, demás aplicables.
+POR TANTO, En uso de las facultades contenidas en los artículos 59, 62, 65, 69, 78, 81, 84, 93, 99, 187, 245 numerales 2), 4), 7), 11), 16) y 19), 252, 321, 323 de la Constitución de la República; artículos 11, 116, 117 y 119 de la Ley General de la Administración Pública; artículo 2 de la Ley Orgánica de la Secretaría de Estado en el Despacho de Seguridad y Policía Nacional de Honduras; Decretos Ejecutivos PCM número 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024, PCM 24-2024, PCM 30-2024 y PCM 36-2024; y, demás aplicables.
 
 DECRETA:
 

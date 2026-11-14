@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. 711-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210531-35614/download"
 extraido: "2026-11-14"
-huella: "59b29420e09d38de"
+huella: "5cbba14abc44365c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 711-2021
@@ -33,7 +33,7 @@ CONSIDERANDO: Que nuestro marco legal vigente expresamente determina que los act
 
 CONSIDERANDO: Que de conformidad con el Artículo 4 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, los superiores jerárquicos de la Administración Pública, dentro del ámbito de su competencia y de los niveles que corresponda, ejercerán control permanente del funcionamiento de sus respectivas dependencias y del personal de éstas, así como lo referente a la eficiencia y eficacia en el cumplimiento de los fines y objetivos establecidos, como la legalidad y oportunidad de las actuaciones administrativas.
 
-CONSIDERANDO: Que según Memorando SGRH-0298- 2021, se hizo de conocimiento que la ciudadana AMMY ALEJANDRA CANIZALES ARGUETA, asumió el cargo como Jefa Interina de la Unidad de Transparencia, Género y Participación Ciudadana a partir del 01 de Marzo del 2021.
+CONSIDERANDO: Que según Memorando SGRH-0298-2021, se hizo de conocimiento que la ciudadana AMMY ALEJANDRA CANIZALES ARGUETA, asumió el cargo como Jefa Interina de la Unidad de Transparencia, Género y Participación Ciudadana a partir del 01 de Marzo del 2021.
 
 CONSIDERANDO: Que para cumplir con los objetivos de eficacia, agilidad y simplificación, es necesario delegar las funciones de la Unidad de Transparencia, Género y Participación Ciudadana, en un funcionario con perfil para ello.
 

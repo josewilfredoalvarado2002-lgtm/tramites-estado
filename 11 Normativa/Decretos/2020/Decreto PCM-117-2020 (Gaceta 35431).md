@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-117-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201116-35431/download"
 extraido: "2026-11-14"
-huella: "c8ee60eeee6b90ef"
+huella: "f2fef9c574101f65"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-117-2020
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo a lo que establece el
 
 Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266- 2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
+CONSIDERANDO: Que según lo establece el Artículo 22 numerales 5) y 12) de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Consejo de Secretarios de Estado tiene las atribuciones de “Dictar medidas extraordinarias en materia económica y financiera cuando así lo requiera el interés nacional, debiendo dar cuenta al Congreso Nacional”; así como “Las demás que le confieren la Constitución de la República y las Leyes”.
 
 CONSIDERANDO: Que el Presidente Constitucional de la República en Consejo de Secretarios de Estado, emitió el Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” en fecha diez (10) de febrero del año dos mil veinte (2020), Edición No. 35,171, reformado por el Decreto Ejecutivo Número PCM-016-2020, con fecha de publicación seis (06) de marzo del año dos mil veinte (2020) Edición No. 35,193 y Decreto Ejecutivo Número PCM-023-2020, publicado en el Diario Oficial “La Gaceta” en fecha veintiuno (21) de marzo del año dos mil veinte (2020) Edición No. 35,206, en virtud del cual se Declara Estado de Emergencia Humanitaria y Sanitaria, en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por Coronavirus (COVID-19); la referida Declaratoria de Emergencia tendrá una vigencia hasta el 31 de diciembre del año 2020, misma que podrá ser prorrogada.
 
@@ -49,9 +49,9 @@ CONSIDERANDO: Que en el espacio de la Mesa Multisectorial de Reactivación Econ�
 
 CONSIDERANDO: Que los municipios cuentan con una estructura administrativa descentralizada que permite la administración de recursos transferidos desde el nivel central para ejecución local, con los sistemas administrativos automatizados y vinculados a la rendición de cuentas, establecida por la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD), incluyendo el registro de la gestión descentralizada de recursos.
 
-CONSIDERANDO: Que en el marco de la Emergencia Humanitaria y Sanitaria en la cual nos encontramos, la Operación “FUERZA HONDURAS” ha cumplido con los objetivos establecidos en el Decreto Ejecutivo Número PCM- 061-2020, realizando acciones de prevención y brindando atención a la población en general que ha sido afectada por la Pandemia por COVID-19.
+CONSIDERANDO: Que en el marco de la Emergencia Humanitaria y Sanitaria en la cual nos encontramos, la Operación “FUERZA HONDURAS” ha cumplido con los objetivos establecidos en el Decreto Ejecutivo Número PCM-061-2020, realizando acciones de prevención y brindando atención a la población en general que ha sido afectada por la Pandemia por COVID-19.
 
-POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 245 numerales 2, 11 y 45, 248, 252, 321 y 323 de la Constitución de la República; Declaración Universal de Derechos Humanos de 1948; Artículos 1, 2, 3, 4, 8, 9, 10, 180 y 181 del Código de Salud; Artículos 11, 17, 22 numerales 5) y 12), 28, 30, 47, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo Número PCM-005-2020 y sus reformas mediante Decretos Ejecutivos Números: PCM-016-2020, PCM-023- 2020 y PCM-61-2020.
+POR TANTO, En uso de las facultades contenidas en los Artículos 59, 65, 245 numerales 2, 11 y 45, 248, 252, 321 y 323 de la Constitución de la República; Declaración Universal de Derechos Humanos de 1948; Artículos 1, 2, 3, 4, 8, 9, 10, 180 y 181 del Código de Salud; Artículos 11, 17, 22 numerales 5) y 12), 28, 30, 47, 116 y 117 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo Número PCM-005-2020 y sus reformas mediante Decretos Ejecutivos Números: PCM-016-2020, PCM-023-2020 y PCM-61-2020.
 
 DECRETA:
 

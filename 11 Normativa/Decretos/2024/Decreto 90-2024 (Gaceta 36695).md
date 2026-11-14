@@ -11,7 +11,7 @@ paginas: "A. 1 - 96"
 sumario: "Decreto No. 90-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241121-36695/download"
 extraido: "2026-11-14"
-huella: "bb30cb9e3c0514b7"
+huella: "6eed1cdc78fbda4c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 90-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 17-2010 de fecha 22 de Abril 
 
 CONSIDERANDO: Que según datos proporcionados por la la Secretaría de Estado en el Despacho de Finanzas (SEFIN), la economía creció basada en aumentos de mano de obra y capital, la productividad se ha mantenido estancada con contribuciones nulas al crecimiento. Esto se refleja en una elevada informalidad laboral (73% en 2022) y en importantes desafios sociales (tasa de pobreza de 64.1% y Coeficiente de Gini de 0.489 en 2022), convirtiendo a Honduras en uno de los países con mayor informalidad, pobreza y desigualdad de América Latina y El Caribe.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5878/ BL-HO, suscrito el 22 de Julio de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para el Programa de Apoyo para la Inserción Laboral en Honduras, tiene como objetivo mejorar las oportunidades de inserción laboral en el sector formal de los buscadores de empleo en el país, hasta por un monto de Veinte Millones de Dólares de los Estados Unidos de América (US$20,000,000.00).
+CONSIDERANDO: Que el Contrato de Préstamo No. 5878/ BL-HO, suscrito el 22 de Julio de 2024, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para el Programa de Apoyo para la Inserción Laboral en Honduras, tiene como objetivo mejorar las oportunidades de inserción laboral en el sector formal de los buscadores de empleo en el país, hasta por un monto de Veinte Millones de Dólares de los Estados Unidos de América (US$20,000,000.00).
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 19) de la Constitución de la República, es potestad del Congreso Nacional: Aprobar o improbar los contratos que lleven involucrados exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos el siguiente período de Gobierno de la República.
 
@@ -627,7 +627,7 @@ A
 
 VPP
 
-    − × j i m n 1 1 ,   ∑∑ , j i 365 j i = =   = AT donde:
+    − × j i m n 1 1,   ∑∑ , j i 365 j i = =   = AT donde:
 
 VPP es la vida promedio ponderada de todos los tramos del Financiamiento del CO Regular, expresada en años. m es el número total de los tramos del Financiamiento del CO Regular. n es el número total de pagos de amortización para cada tramo del Financiamiento del CO Regular.
 
@@ -637,7 +637,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 113. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales
 
@@ -1187,9 +1187,9 @@ ARTÍCULO 5.13. Conversiones de Protección contra Catástrofes. Cada Conversió
 
 (B) Costos. El Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la totalidad de los costos pendientes, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco.
 
-(C) Primas – Monto de protección no agotado. En el supuesto que el Monto de Liquidación en Efectivo no agote el Monto de la Protección de la Conversión d e P r o t e c c i ó n c o n t r a Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco, hasta un máximo del cincuenta por ciento (50%) del Monto de Liquidación en Efectivo.
+(C) Primas – Monto de protección no agotado. En el supuesto que el Monto de Liquidación en Efectivo no agote el Monto de la Protección de la Conversión de Protección contra Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco, hasta un máximo del cincuenta por ciento (50%) del Monto de Liquidación en Efectivo.
 
-(D) P r i m a s – M o n t o d e protección agotado. En el supuesto que el Monto de Liquidación en Efectivo agote el Monto de la Protección de la Conversión de Protección contra Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la totalidad de la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco (iii) Saldo restante. En caso de que el Evento de Liquidación en Efectivo agote el Monto de la Protección y, después de deducir del Monto de Liquidación en Efectivo las correspondientes comisiones, costos y primas descritas anteriormente, el Prestatario aún debe al Banco cualquier monto de comisiones, costos o primas, entonces el Prestatario deberá prontamente efectuar el pago de dicho monto al Banco de acuerdo con los términos y forma indicada por el Banco.
+(D) Primas – Monto de protección agotado. En el supuesto que el Monto de Liquidación en Efectivo agote el Monto de la Protección de la Conversión de Protección contra Catástrofes, el Banco podrá deducir de cualquier Monto de Liquidación en Efectivo la totalidad de la prima pendiente, incluidos los montos adeudados pero aún no vencidos según el cronograma de cuotas correspondiente acordado entre el Prestatario y el Banco (iii) Saldo restante. En caso de que el Evento de Liquidación en Efectivo agote el Monto de la Protección y, después de deducir del Monto de Liquidación en Efectivo las correspondientes comisiones, costos y primas descritas anteriormente, el Prestatario aún debe al Banco cualquier monto de comisiones, costos o primas, entonces el Prestatario deberá prontamente efectuar el pago de dicho monto al Banco de acuerdo con los términos y forma indicada por el Banco.
 
 (d) Todas las determinaciones y cálculos realizados por el Agente de Cálculo del Evento en un Reporte del Evento tendrán un carácter final, obligatorio y vinculante para el Prestatario.
 
@@ -1357,7 +1357,7 @@ ARTÍCULO 8.01. Suspensión de desembolsos. El Banco, mediante notificación al 
 
 #### Artículo 8
 
-ARTÍCULO 8.02. V e n c i m i e n t o a n t i c i p a d o o cancelaciones de montos no desembolsados. (a) El Banco, mediante notificación al Prestatario, podrá declarar vencida y pagadera de inmediato una parte o la totalidad del Préstamo, con los intereses, comisiones y cualesquiera otros cargos devengados hasta la fecha del pago, y podrá cancelar la parte no desembolsada del Préstamo, si:
+ARTÍCULO 8.02. Vencimiento anticipado o cancelaciones de montos no desembolsados. (a) El Banco, mediante notificación al Prestatario, podrá declarar vencida y pagadera de inmediato una parte o la totalidad del Préstamo, con los intereses, comisiones y cualesquiera otros cargos devengados hasta la fecha del pago, y podrá cancelar la parte no desembolsada del Préstamo, si:
 
 (i) alguna de las circunstancias previstas en los incisos (a), (b), (c) y (d) del
 
@@ -1657,7 +1657,7 @@ Teniendo la facultad, en situaciones de crisis extraordinarias y muy graves, de 
 
 CONSIDERANDO: Que tanto el sistema universal como el sistema interamericano de protección de los derechos humanos, reconocen la posibilidad para un Estado Parte de suspender algunas de sus obligaciones en materia de derechos humanos en situaciones excepcionales (Pacto Internacional de Derechos Civiles y Políticos, artículo 4.1; y, Convención Americana sobre Derechos Humanos, artículo 27.1).
 
-CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos números PCM 29- 2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024, PCM 24-2024 y PCM 30-2024 de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad, particularmente por el delito de extorsión, en los municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
+CONSIDERANDO: Que la Policía Nacional, a través de un análisis de la estadística policial y de las acciones realizadas en aplicación de los Decretos Ejecutivos números PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024, PCM 24-2024 y PCM 30-2024 de suspensión de garantías constitucionales, ha establecido la permanencia de miembros de maras y pandillas e incidencia de delitos cometidos por estos grupos, identificando sectores en situación crítica de inseguridad, particularmente por el delito de extorsión, en los municipios del Distrito Central, San Pedro Sula y otros ubicados en varios departamentos del país, en los cuales se ha registrado una perturbación grave de la paz.
 
 CONSIDERANDO: Que es deber ineludible de la Presidenta de la República en Consejo de Ministros, tomar las acciones necesarias para mantener el orden, la seguridad y la paz en la Nación.
 
@@ -2611,9 +2611,9 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los veintiú
 
 COMUNÍQUESE Y PUBLÍQUESE IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA LESLY SARAHÍ CERNA SECRETARIA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA JOSÉ CARLOS CARDONA ERAZO SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL CHRISTIAN DAVID DUARTE CHÁVEZ SECRETARIO DE ESTADO EN EL DESPACHO DE FINANZAS TOMÁS EDUARDO VAQUERO MORRIS SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN EDUARDO ENRIQUE REINA GARCÍA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL SERGIO VLADIMIR COELLO DÍAZ SECRETARIO DE ESTADO EN EL DESPACHO DE TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN RICARDO ARTURO SALGADO SECRETARIO DE ESTADO EN EL DESPACHO DE PLANIFICACIÓN ESTRATÉGICA FREDIS ALONSO CERRATO VALLADARES SECRETARIO DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO DORIS YOLANY GARCÍA PAREDES SECRETARIA DE ESTADO EN EL DESPACHO DE ASUNTOS DE LA MUJER HECTOR GUSTAVO SÁNCHEZ VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE SEGURIDAD RIXI RAMONA MONCADA GODOY SECRETARIA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL CARLA MARINA PAREDES REYES SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD LUCKY HALACH MEDINA ESTRADA SECRETARIO DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE DANIEL ENRIQUE ESPONDA VELÁSQUEZ SECRETARIO DE ESTADO EN EL DESPACHO DE EDUCACIÓN ANGÉLICA LIZETH ÁLVAREZ MORALES SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS, POR LEY LAURA ELENA SUAZO TORRES SECRETARIA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA ERICK MEDARDO TEJADA CARBAJAL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA OCTAVIO JOSÉ PINEDA PAREDES SECRETARIO DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE WILMER JAVIER FERNÁNDEZ ALACHÁN SECRETARIO DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL YADIRA ESTHER GÓMEZ CHAVARRÍA SECRETARIA DE ESTADO EN EL DESPACHO DE TURISMO GLORIA ANNARELLA VÉLEZ OSEJO SECRETARIA DE ESTADO EN LOS DESPACHOS DE LAS CULTURAS, LAS ARTES Y LOS PATRIMONIOS DE LOS PUEBLOS DE HONDURAS WARREN OCHOA ORELLANA SECRETARIO DE ESTADO EN LOS DESPACHOS DE DESARROLLO COMUNITARIO, AGUA Y SANEAMIENTO JOSÉ JORGE FORTÍN AGUILAR SECRETARIO DE ESTADO EN LOS DESPACHOS DE GESTIÓN DE RIESGOS Y CONTINGENCIAS NACIONALES (COPECO) FABIOLA CLAUDETT ABUDOJ MENA SECRETARIA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS LIZETH ARMANDINA COELLO GÓMEZ SECRETARIA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.-
+DECRETA: ARTÍCULO 1.-
 
-Aprobar en todas y cada una de sus partes el Contrato de Préstamo No.2335, suscrito por el Estado de Honduras el 5 de Agosto de 2024 entre el Banco Centroamericano de Integración Económica (BCIE) en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario del financiamiento, hasta por un monto de NOVENTA Y SEIS MILLONES TRESCIENTOS MIL DÓLARES (US$ 96,300,000.00), recursos destinados a la ejecución del “Programa de Carreteras Resilientes de Honduras (PCR-HN)- Tramo B-1 Libramiento El Progreso”.
+Aprobar en todas y cada una de sus partes el Contrato de Préstamo No. 2335, suscrito por el Estado de Honduras el 5 de Agosto de 2024 entre el Banco Centroamericano de Integración Económica (BCIE) en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario del financiamiento, hasta por un monto de NOVENTA Y SEIS MILLONES TRESCIENTOS MIL DÓLARES (US$ 96,300,000.00), recursos destinados a la ejecución del “Programa de Carreteras Resilientes de Honduras (PCR-HN)- Tramo B-1 Libramiento El Progreso”.
 
 CENTROS DE DISTRIBUCIÓN:
 

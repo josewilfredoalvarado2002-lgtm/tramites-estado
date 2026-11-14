@@ -8,10 +8,10 @@ gaceta_numero: 36293
 gaceta_fecha: "2023-07-28"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)|La Gaceta 36293]]"
 paginas: "A. 1 - 2"
-sumario: "Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023"
+sumario: "Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230728-36293/download"
 extraido: "2026-11-14"
-huella: "09a0113568c623b8"
+huella: "4ac571fb50f07cb2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 52-2023
@@ -23,7 +23,7 @@ huella: "09a0113568c623b8"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)\|La Gaceta 36293]] del 2023-07-28 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023 |
+| Según el sumario de La Gaceta | Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ CONSIDERANDO: Que, la Constitución de la República de Honduras en su Artículo
 
 CONSIDERANDO: Que, la Constitución de la República de Honduras en su Artículo 172 establece que: “Toda riqueza antropológica, arqueológica, histórica y artística de Honduras forma parte del Patrimonio Cultural de la Nación”, esto con el objetivo de fortalecer el desarrollo del turismo incluyendo a las comunidades rurales en actividades turísticas.
 
-CONSIDERANDO: Que, en la Ley para la Protección del Patrimonio Cultural de la Nación, emitido mediante Decreto No.220-97, de fecha 17 de Diciembre de 1997 y publicado en Diario Oficial “La Gaceta” en fecha 21 de Febrero de 1998, se reconoce el deber del Estado de preservar y contribuir al fortalecimiento del arte y la cultura nacional en todas sus formas de expresión.
+CONSIDERANDO: Que, en la Ley para la Protección del Patrimonio Cultural de la Nación, emitido mediante Decreto No. 220-97, de fecha 17 de Diciembre de 1997 y publicado en Diario Oficial “La Gaceta” en fecha 21 de Febrero de 1998, se reconoce el deber del Estado de preservar y contribuir al fortalecimiento del arte y la cultura nacional en todas sus formas de expresión.
 
 CONSIDERANDO: Que la Ley de Municipalidades en su Artículo 14 establece que, para lograr el bienestar de los habitantes, promover su desarrollo integral, las Municipalidades tienen como objetivo preservar el patrimonio histórico y las tradiciones cívico-culturales del municipio, así como, fomentarlas y difundirlas por sí o en colaboración con otras entidades públicas o privadas.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

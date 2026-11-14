@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo SETUR No. 012-2021, 013-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211020-35751/download"
 extraido: "2026-11-14"
-huella: "b5f62123102a98fe"
+huella: "5e465ebe754f742d"
 ---
 <!-- portal:inicio -->
 # ACUERDO SETUR No. 012-2021
@@ -43,9 +43,7 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No 02-2018 de fecha veintidós (22)
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 084-A-2015 de fecha tres (03) de agosto del año don mil quince (2015), se nombró a la ciudadana ANALESKY FONSECA TREJO, como Secretaria General del Instituto Hondureño de Turismo.
 
-CONSIDERANDO: Que mediante Acuerdo SETUR No.
-
-006-2018 de fecha diecisiete (17) de septiembre del año dos mil dieciocho (2018), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO en el cargo de Director Legal en la Secretaría General de Estado en el Despacho de Turismo, cargo que desempeña AD HONOREM.
+CONSIDERANDO: Que mediante Acuerdo SETUR No. 006-2018 de fecha diecisiete (17) de septiembre del año dos mil dieciocho (2018), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO en el cargo de Director Legal en la Secretaría General de Estado en el Despacho de Turismo, cargo que desempeña AD HONOREM.
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 022-2016 de fecha dieciséis (16) de febrero del año dos mil dieciséis (2016), se nombró al ciudadano ALEX EDGARDO SANCHEZ PERDOMO en el cargo de Director Legal del Instituto Hondureño de Turismo.
 

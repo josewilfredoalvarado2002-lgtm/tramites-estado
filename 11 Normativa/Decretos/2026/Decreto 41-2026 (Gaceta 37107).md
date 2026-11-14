@@ -11,7 +11,7 @@ paginas: "A. 20 - 23"
 sumario: "Acuerdos Ejecutivos Nos. 209-2026, 219-2026, 229-2026, 235-2026, 236-2026, 237-2026, 238-2026, 240-2026, 241-2026, 242-2026, 243-2026, 244-2026, 246-2026, 250-2026, 251-2026, 253-2026, 255-2026, 256-2026, 257-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260330-37107/download"
 extraido: "2026-11-09"
-huella: "e854d3af5cc5c5a7"
+huella: "29e62e507ad628cd"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 41-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Ley Electoral de Honduras, contenida en el Decreto No. 35-2
 
 CONSIDERANDO: Que mediante reforma constitucional contenida en el Decreto No. 200-2018 del 24 de Enero de 2019, ratificada mediante Decreto No. 2-2019 de fecha 29 de Enero de 2019 y publicado en el Diario Oficial “La Gaceta” el día 6 de Febrero de 2019, se creó para el ejercicio de la función electoral, un Consejo Nacional Electoral (CNE) y un Tribunal de Justicia Electoral (TJE), ambos organismos autónomos, independientes, sin relaciones de subordinación con ninguno de los Poderes del Estado, con personalidad jurídica, jurisdicción y competencia en toda la República.
 
-CONSIDERANDO: Que la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contenida en el Decreto No.137-2016 del 2 de Noviembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero del 2017, regula el Sistema de Financiamiento, Transparencia y Fiscalización de los Ingresos y Egresos de los Recursos de los Partidos Políticos, Movimientos Internos de los Partidos Políticos, sus Candidatos y Candidatas, Alianzas entre los Partidos Políticos y Candidaturas Independientes aplicable en el país, así como los principios que se aplican al proceso de fiscalización de forma pertinente a lo largo del mismo, considerándose la rendición de cuentas como el mecanismo de prevención del ingreso de financiamientos de origen ilícito dentro de los procesos electorales.
+CONSIDERANDO: Que la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contenida en el Decreto No. 137-2016 del 2 de Noviembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero del 2017, regula el Sistema de Financiamiento, Transparencia y Fiscalización de los Ingresos y Egresos de los Recursos de los Partidos Políticos, Movimientos Internos de los Partidos Políticos, sus Candidatos y Candidatas, Alianzas entre los Partidos Políticos y Candidaturas Independientes aplicable en el país, así como los principios que se aplican al proceso de fiscalización de forma pertinente a lo largo del mismo, considerándose la rendición de cuentas como el mecanismo de prevención del ingreso de financiamientos de origen ilícito dentro de los procesos electorales.
 
 CONSIDERANDO: Que los candidatos de los Partidos Políticos, como sujetos obligados se encontraban en la fase de impugnaciones y recuentos especiales ante el Consejo Nacional Electoral (CNE), como parte del proceso de elecciones generales celebrado el pasado 30 de Noviembre de 2025, lo que imposibilitó que muchos sujetos obligados cumplieran con el término establecido de presentar los informes financieros quince (15) días después de haberse llevado a cabo el proceso electoral. Por lo que, resulta necesario que se dé una prórroga para garantizar que los sujetos obligados cumplan con esta responsabilidad, promoviendo así el control adecuado y la transparencia en el financiamiento político.
 
@@ -47,15 +47,15 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Se Ordena a la UNIDAD DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS (UFTF), para que todos los Informes Financieros presentados por los sujetos obligados en cualquiera de sus niveles electivos, después de la fecha establecida en el Decreto Legislativo No.137-2016 de fecha 2 de Noviembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No. 34,242, el cual venció el 15 de Diciembre del año 2025, se tengan por recibido hasta el día 30 de Abril del año 2026, como presentados en tiempo y forma.
+ARTÍCULO 1.- Se Ordena a la UNIDAD DE FINANCIAMIENTO, TRANSPARENCIA Y FISCALIZACIÓN A PARTIDOS POLÍTICOS Y CANDIDATOS (UFTF), para que todos los Informes Financieros presentados por los sujetos obligados en cualquiera de sus niveles electivos, después de la fecha establecida en el Decreto Legislativo No. 137-2016 de fecha 2 de Noviembre del 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero de 2017, Edición No. 34,242, el cual venció el 15 de Diciembre del año 2025, se tengan por recibido hasta el día 30 de Abril del año 2026, como presentados en tiempo y forma.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 48 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contenida en el Decreto No.137-2016 del 2 de Noviembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero del 2017, el que en adelante debe leerse de la manera siguiente:
+ARTÍCULO 2.- Reformar el Artículo 48 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, contenida en el Decreto No. 137-2016 del 2 de Noviembre de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 18 de Enero del 2017, el que en adelante debe leerse de la manera siguiente:
 
 #### Artículo 48
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Decreto No. 73-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260528-37153/download"
 extraido: "2026-11-09"
-huella: "29cdced51effbbbc"
+huella: "26d1c2a8fc9cbd78"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 73-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con Artículo 205, Atribución 1) de la Constit
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 La siguiente:
 
@@ -237,7 +237,7 @@ Que conforme con la normativa vigente el Centro Nacional de Despacho (CND) en su
 
 V.
 
-Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante el Acuerdo CREE-077 publicado en el Diario Oficial “La Gaceta” en fecha tres (03) de julio de dos mil veinte (2020) aprobó la Norma Técnica de Programación de la Operación. Asimismo, mediante los Acuerdos CREE-60-2021; CREE-47-2024; CREE- 106-2024 y CREE-07-2025 la Comisión Reguladora de Energía Eléctrica (CREE) aprobó modificaciones a la referida norma técnica.
+Que la Comisión Reguladora de Energía Eléctrica (CREE) mediante el Acuerdo CREE-077 publicado en el Diario Oficial “La Gaceta” en fecha tres (03) de julio de dos mil veinte (2020) aprobó la Norma Técnica de Programación de la Operación. Asimismo, mediante los Acuerdos CREE-60-2021; CREE-47-2024; CREE-106-2024 y CREE-07-2025 la Comisión Reguladora de Energía Eléctrica (CREE) aprobó modificaciones a la referida norma técnica.
 
 VI.
 
@@ -537,7 +537,7 @@ Resultando:
 
 2. Que mediante el Decreto Legislativo número 46-2022 el Congreso Nacional de la República de Honduras aprobó la Ley especial para garantizar el servicio de la energía eléctrica como un bien público de seguridad nacional y un derecho humano de naturaleza económica y social.
 
-3. Que en fecha quince (15) de mayo de dos mil veinticuatro (2024) la Comisión Reguladora de Energía Eléctrica (CREE) recibió el oficio número 362-2024-SEN-DM-DG remitido por parte de la Secretaría de Energía, mediante el cual compartió copia certificada del Acuerdo SEN-41- 2024 de fecha dos (02) de mayo del dos mil veinticuatro (2024), en el cual en su artículo 1 y 2 dispuso lo siguiente:
+3. Que en fecha quince (15) de mayo de dos mil veinticuatro (2024) la Comisión Reguladora de Energía Eléctrica (CREE) recibió el oficio número 362-2024-SEN-DM-DG remitido por parte de la Secretaría de Energía, mediante el cual compartió copia certificada del Acuerdo SEN-41-2024 de fecha dos (02) de mayo del dos mil veinticuatro (2024), en el cual en su artículo 1 y 2 dispuso lo siguiente:
 
 “Artículo 1.- Para garantizar el servicio de energía eléctrica en la Isla de Guanaja, Departamento de Islas de la Bahía, como un bien público de seguridad nacional y un derecho humano de naturaleza económica y social, la Secretaría de Estado en el Despacho de Energía, fundamentada en lo dispuesto en el artículo 8, literal B de la Ley General de la Industria Eléctrica, acuerda intervenir integralmente el sistema eléctrico administrado y operado-de hecho- por parte de la sociedad mercantil Bonacco Electric Company S. A. de C. V. (BELCO), por la mala calidad del servicio público de energía eléctrica y los altos costos ofrecidos a la población y en consecuencia porque su situación de desempeño amenaza afectar la continuidad o seguridad del servicio eléctrico; sin que hasta la fecha dicha empresa haya implementado acciones de calidad del servicio y asequibilidad conforme a los estándares requeridos y normas regulatorias aplicables para garantizar el servicio eléctrico en las Islas de Guanaja; sustentado lo antes esgrimido, a través de los informes técnicos y legales de la Comisión Reguladora de Energía Eléctrica, remitidos a esta Secretaría de Estado mediante oficio No. CREE-228-2022; de la opinión técnica DGEM.UAME-04-2024 emitida por la Dirección General de Electricidad y Mercados en fecha tres de abril de dos mil veinticuatro; mismos que se consideran como parte integral del presente acuerdo ministerial y respaldados dichos informes y dictámenes, además, por las Asambleas Públicas realizadas el 16 de noviembre del 2023 en las comunidades de Savannah Beight y El Cayo en la Isla de Guanaja y ratificadas dichas quejas sobre la calidad del servicio eléctrico mediante sesión de cabildo abierto celebrada por la Corporación Municipal de Guanaja, Departamento de Islas de la Bahía el día dieciséis de noviembre de dos mil veintitrés, conforme a Acta Número Veinticuatro (24).
 
@@ -545,7 +545,7 @@ Resultando:
 
 Artículo 2: Delegar a la Empresa Nacional de Energía Eléctrica (ENEE) como ente técnico especializado y como empresa pública responsable de la generación, transmisión, distribución y comercialización de la energía eléctrica, para asumir y ejercer el control de las responsables inherentes al suministro, distribución y comercialización de la energía en la Isla de Guanaja, la administración, operación y mantenimiento del sistema eléctrico operado- de hecho- hasta la fecha por la sociedad mercantil Bonacco Electric Company S. A. de C. V. (BELCO) y todas las accione necesarias de coordinación con dicha empresa y autoridades del sector, administrativas y regulatorias para garantizar el suministro de energía eléctrica a la población de manera eficiente y sostenible de conformidad con lo artículo 1 y 3 y demás aplicables de la reforma energética contenida en el Decreto Legislativo No 46-2022, Ley Especial para Garantizar el Servicio de Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social; cumpliendo con las disposiciones legales aplicables”.
 
-4. Que mediante el acuerda PRIMERO del Acuerdo CREE- 06-2025 de fecha veintisiete (27) de enero de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) realizó lo siguiente: “PRIMERO:
+4. Que mediante el acuerda PRIMERO del Acuerdo CREE-06-2025 de fecha veintisiete (27) de enero de dos mil veinticinco (2025) la Comisión Reguladora de Energía Eléctrica (CREE) realizó lo siguiente: “PRIMERO:
 
 Aprobar el Costo de Servicio y la Estructura Tarifaria Transitoria que la Empresa Nacional de Energía Eléctrica (ENEE) en su calidad de operador de la Isla de Guanaja deberá de aplicar a sus usuarios a partir del uno (01) de febrero de dos mil veinticinco (2025), mientras dure el período de intervención, el cual no podrá exceder de dos años conforme con lo establecido en el artículo 8 de la Ley General de la Industria Eléctrica. La Estructura Tarifaria Provisional es la siguiente: (…)”
 

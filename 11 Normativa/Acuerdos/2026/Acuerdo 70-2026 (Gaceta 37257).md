@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 70-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260928-37257/download"
 extraido: "2026-11-09"
-huella: "f94c5ebb2d046358"
+huella: "1e09f16dd7fba497"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 70-2026
@@ -29,7 +29,7 @@ huella: "f94c5ebb2d046358"
 
 MANUAL OPERATIVO DEL PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS) EL SUSCRITO DIRECTOR EJECUTIVO DEL PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS)
 
-CONSIDERANDO: Que mediante Decreto No. 12-2000 se creó el Programa Nacional de Desarrollo Rural y Urbano Sostenible PRONADERS, publicado en Diario Oficial La Gaceta número 29,163 en fecha viernes 05 de mayo del año 2000; posteriormente reformado mediante Decreto 137- 201l publicado en Diario Oficial La Gaceta número 32,633 en fecha 08 de noviembre del año 2011.
+CONSIDERANDO: Que mediante Decreto No. 12-2000 se creó el Programa Nacional de Desarrollo Rural y Urbano Sostenible PRONADERS, publicado en Diario Oficial La Gaceta número 29,163 en fecha viernes 05 de mayo del año 2000; posteriormente reformado mediante Decreto 137-201l publicado en Diario Oficial La Gaceta número 32,633 en fecha 08 de noviembre del año 2011.
 
 CONSIDERANDO: Que corresponde al Director Ejecutivo del PRONADERS la Administración y Organización Institucional encaminada al logro de los objetivos mediante la aprobación del Manual Operativo a fin de contar con una herramienta eficaz para establecer una buena administración de los Recursos mediante la estructuración y asignación de funciones a los diferentes niveles operativos para eficientar su desempeño.
 

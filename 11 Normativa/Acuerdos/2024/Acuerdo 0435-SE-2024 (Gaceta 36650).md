@@ -11,7 +11,7 @@ paginas: "A. 13 - 17"
 sumario: "Acuerdos Nos. 0214-SE-2024, 0434-SE-2024, 0435-SE-2024, 0464-SE-2024, 0747-SE-2024, 0748-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240926-36650/download"
 extraido: "2026-11-14"
-huella: "285255887d664530"
+huella: "4fc6d0568e3c375a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 0435-SE-2024
@@ -47,13 +47,13 @@ CONSIDERANDO (8): Que la Ley Fundamental de Educación en el Capítulo IV DE LAS
 
 CONSIDERANDO (9): Que la Ley General de la Administración Pública, en el artículo 36 establece: Son atribuciones y deberes comunes a los Secretarios de Estado… numerales 1 y 8; emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delega el Presidente de la República y cuidar su ejecución.
 
-CONSIDERANDO (10): Que por Acuerdo No. 1819-EP- 92 del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
+CONSIDERANDO (10): Que por Acuerdo No. 1819-EP-92 del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
 
-CONSIDERANDO (11): Que los Centros de Estudio Identificados podrán ofrecer una nueva forma de entrega al personal de tropa de las Fuerzas Armadas de Honduras con el Bachillerato en Ciencias y Humanidades con Orientación Militar Acelerado serán: el primero en el Departamento de Francisco Morazán, T/Cnel. Malcon Donaldo Sánchez, ubicado en el 1er. Btn. de Cmms./Las Mesas Tegucigalpa, con el Acuerdo No. 197-95; el segundo en Comayagua, ubicado en la Escuela de Formación de Suboficiales Gustavo Zeron Cruz (EFSOFAH), con Acuerdo No. 0307-SE-04; el tercero en Cortés, ubicado en el Instituto Rafael Pineda Ponce (Base Aérea AEE/S.P.S, con Acuerdo No. 0191-SE-2022; el cuarto en Atlántida, ubicado en Liceo Militar Aeronáutico Francisco Morazán Ramon Zepeda Andino (Base Aérea HCM/La Ceiba; y, el quinto en el Departamento de Francisco Morazán, ubicado en el Primer Batallón de Infantería Mayor José López Aguilar, con Acuerdo No.0912-SE-2016.
+CONSIDERANDO (11): Que los Centros de Estudio Identificados podrán ofrecer una nueva forma de entrega al personal de tropa de las Fuerzas Armadas de Honduras con el Bachillerato en Ciencias y Humanidades con Orientación Militar Acelerado serán: el primero en el Departamento de Francisco Morazán, T/Cnel. Malcon Donaldo Sánchez, ubicado en el 1er. Btn. de Cmms./Las Mesas Tegucigalpa, con el Acuerdo No. 197-95; el segundo en Comayagua, ubicado en la Escuela de Formación de Suboficiales Gustavo Zeron Cruz (EFSOFAH), con Acuerdo No. 0307-SE-04; el tercero en Cortés, ubicado en el Instituto Rafael Pineda Ponce (Base Aérea AEE/S.P.S, con Acuerdo No. 0191-SE-2022; el cuarto en Atlántida, ubicado en Liceo Militar Aeronáutico Francisco Morazán Ramon Zepeda Andino (Base Aérea HCM/La Ceiba; y, el quinto en el Departamento de Francisco Morazán, ubicado en el Primer Batallón de Infantería Mayor José López Aguilar, con Acuerdo No. 0912-SE-2016.
 
 CONSIDERANDO (12): Que, dada la naturaleza del Bachillerato en Ciencias y Humanidades con Orientación Militar Acelerado, la Secretaría de Educación establece Convenio con la Institución Militar de las Fuerzas Armadas de Honduras y el Comando de Doctrina Conjunta y Educación Militar, para que el pago del personal docente de los espacios curriculares y personal administrativo (Director, Coordinador Académico y el Secretario), será responsabilidad de la Secretaría de Educación.
 
-CONSIDERANDO (13): Que mediante Acuerdo No.0166- SE-2023 de fecha 16 de febrero de 2023; se implementó a partir del 01 de febrero del año 2023 la adecuación de los Planes de Estudio del décimo grado, quedando pendiente la actualización curricular del undécimo grado.
+CONSIDERANDO (13): Que mediante Acuerdo No. 0166- SE-2023 de fecha 16 de febrero de 2023; se implementó a partir del 01 de febrero del año 2023 la adecuación de los Planes de Estudio del décimo grado, quedando pendiente la actualización curricular del undécimo grado.
 
 POR TANTO:
 
@@ -211,7 +211,7 @@ DERECHOS HUMANOS AVANZADO
 
 16
 
-TECNICAS DE SALVAMENTO BASICO. (TECNICAS DE SUPERVIVENCIA) (LECTURA DE MAPAS) + Practica 2 TECNICAS DE SALVAMENTO AVANZADO + Practica 2 TOTAL HORAS CLASES 11 TOTAL HORAS CLASES 11 TOTAL HORAS SEMANALES 43 TOTAL HORAS SEMANALES 43 TOTAL DE HORAS SEMESTRALES 103 2 TOTAL DE HORAS TOTAL DE HORAS ANUALES FORMACIÓN DE FUNDAMENTO: 1536 TOTAL DE HORAS ANUALES ORIENTACIÓN MILITAR : 528
+TECNICAS DE SALVAMENTO BASICO. (TECNICAS DE SUPERVIVENCIA) (LECTURA DE MAPAS) + Practica 2 TECNICAS DE SALVAMENTO AVANZADO + Practica 2 TOTAL HORAS CLASES 11 TOTAL HORAS CLASES 11 TOTAL HORAS SEMANALES 43 TOTAL HORAS SEMANALES 43 TOTAL DE HORAS SEMESTRALES 103 2 TOTAL DE HORAS TOTAL DE HORAS ANUALES FORMACIÓN DE FUNDAMENTO: 1536 TOTAL DE HORAS ANUALES ORIENTACIÓN MILITAR: 528
 
 9. El Campo Curricular de Educación Física y Deportes será fortalecida diariamente con las prácticas que ejecuta la tropa militar.
 

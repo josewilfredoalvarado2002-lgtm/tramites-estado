@@ -11,7 +11,7 @@ paginas: "A. 1 - 40"
 sumario: "Acuerdo CREE-12-2021; Acuerdo S.D.N. No. 015-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210421-35578/download"
 extraido: "2026-11-14"
-huella: "184bf39a23399d5f"
+huella: "e36295cccc8fd18f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-12-2021; Acuerdo S.D.N. No. 015-2021
@@ -69,7 +69,7 @@ CONSIDERANDO:
 
 Que mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, fue aprobada la Ley General de la Industria Eléctrica que tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, se creó la Comisión Reguladora de Energía Eléctrica con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 
@@ -133,9 +133,7 @@ CONSIDERANDO: Que el artículo 3 de la Ley Constitutiva de las Fuerzas Armadas e
 
 CONSIDERANDO: Que el artículo 128 numeral 4) de la Ley Constitutiva de las Fuerzas Armadas expresa que son Comandos Especiales de las Fuerzas Armadas aquellos que establezca la Secretaría de Estado en el Despacho de Defensa Nacional.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-052-2019 de fecha 5 de septiembre de 2019, aprobado por el Presidente de la República en Consejo de Ministros y publicado en el Diario Oficial La Gaceta No.
-
-35,076 de fecha 18 de octubre de 2019, mediante el cual se crea el “Programa de Desarrollo Agrícola de Honduras” (PDAH), el cual tendrá como objetivo incrementar la productividad y rentabilidad agrícola, mediante la inversión en activos productivos, así como el establecimiento de una mentalidad emprendedora, desarrollando conocimientos, capacidades, actitudes y habilidades como elemento esencial generador de riqueza y bienestar para los productores.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-052-2019 de fecha 5 de septiembre de 2019, aprobado por el Presidente de la República en Consejo de Ministros y publicado en el Diario Oficial La Gaceta No. 35,076 de fecha 18 de octubre de 2019, mediante el cual se crea el “Programa de Desarrollo Agrícola de Honduras” (PDAH), el cual tendrá como objetivo incrementar la productividad y rentabilidad agrícola, mediante la inversión en activos productivos, así como el establecimiento de una mentalidad emprendedora, desarrollando conocimientos, capacidades, actitudes y habilidades como elemento esencial generador de riqueza y bienestar para los productores.
 
 CONSIDERANDO: Que el artículo 1, párrafo segundo del Decreto Ejecutivo PCM-052-2019, dispone que el Programa de Desarrollo Agrícola de Honduras (PDAH), queda adscrito a la Secretaría de Estado en el Despacho de Defensa Nacional y la creación de una Dirección de Desarrollo Agrícola (C-10), en la Jefatura del Estado Mayor Conjunto, para la ejecución del Programa y quien será el ente encargado de estructurar, ejecutar y administrar el Programa.
 
@@ -187,7 +185,7 @@ Artículo 3. Definiciones. Para los fines interpretativos del presente Reglament
 
 6. ASISTENCIA TÉCNICA: Son los servicios profesionales o especializados contratados por el Programa de Desarrollo Agrícola de Honduras (PDAH) y que sirven de apoyo a los Grupos de Productores/as Agropecuarios (GPA) para fortalecer sus capacidades y habilidades técnicas para la adopción de tecnologías modernas y buenas prácticas agropecuarias con el propósito de mejorar la productividad y rentabilidad en sus unidades de producción.
 
-7. A S O C I A C I Ó N D E P R O D U C T O R E S
+7. ASOCIACIÓN DE PRODUCTORES
 
 AGROPECUARIOS: Son Grupos de Productores/as Agropecuarios (GPA) beneficiarios/as del Programa de Desarrollo Agrícola de Honduras (PDAH), organizados de acuerdo con un propósito en común, con el fin de incrementar su productividad y rentabilidad en sus medios de producción.
 
@@ -237,11 +235,11 @@ Profesional certificado por la ONCAE para realizar las compras y contrataciones 
 
 27. CONVENIO DE APOYO: Acuerdo en el cual se establece la relación inicial entre el Programa de Desarrollo Agrícola de Honduras (PDAH) y el Grupo de Productores Agropecuarios (GPA) beneficiario, con el fin de tener acceso a la documentación legal del Grupo, realizar los estudios y análisis técnicos necesarios, para determinar la viabilidad de la inversión.
 
-28. C O N V E N I O
+28. CONVENIO
 
 D E
 
-C O O P E R A C I Ó N
+COOPERACIÓN
 
 INTERINSTITUCIONAL: Acuerdo celebrado entre el Programa de Desarrollo Agrícola de Honduras (PDAH), adscrito a la Secretaría de Defensa Nacional (SEDENA) y las Instituciones del Estado, en el marco de lo establecido en el artículo 5 del Decreto Ejecutivo No. PCM 052-2019, con la finalidad de realizar acciones conjuntas que aseguren el efectivo cumplimiento de los objetivos del Programa.
 
@@ -803,7 +801,7 @@ El PDAH no hará transferencia de estos fondos a los GPA beneficiarios ni a otra
 
 #### Artículo 34
 
-Artículo 34. Para garantizar la operatividad del PDAH, SEFIN está autorizada según Decreto Ejecutivo PCM-052- 2019, a realizar la asignación de recursos a la SEDENA para la ejecución de este, así como otros recursos que se encuentran contenidos en el artículo 3 del referido instrumento legal.
+Artículo 34. Para garantizar la operatividad del PDAH, SEFIN está autorizada según Decreto Ejecutivo PCM-052-2019, a realizar la asignación de recursos a la SEDENA para la ejecución de este, así como otros recursos que se encuentran contenidos en el artículo 3 del referido instrumento legal.
 
 Además, el PDAH podrá ejecutar recursos provenientes de aportes, donaciones y asignaciones de entidades nacionales e internacionales; otras transferencias, legados y donaciones de personas naturales o jurídicas de derecho público o privado, siempre y cuando se compruebe la huella financiera de su procedencia.
 
@@ -1411,7 +1409,7 @@ Artículo 100. Las compras y contrataciones que realice la Dirección de Desarro
 
 Artículo 101. Los procedimientos de contratación que realizará la Dirección de Desarrollo Agrícola (C-10) en relación al gasto operativo, serán los enfocados en los procesos definidos como Compras Menores (hasta 3 cotizaciones) en sus diferentes modalidades, enmarcados en los montos exigibles que establezcan las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal vigente; mismos que podrán ser ratificados o modificados en los Ejercicios Fiscales siguientes.
 
-Los procesos de contratación, enfocados a la Inversión Social Agropecuaria, se llevarán a cabo bajo la misma modalidad de Compra Menor (hasta 3 cotizaciones) según lo enmarcado en las Disposiciones Generales de Presupuesto Vigentes, teniendo en consideración las solicitudes y necesidades que presenten los GPA beneficiarios, de acuerdo a las particularidades de cada uno de ellos y conforme al cumplimiento de los requisitos establecidos en el artículo 49 del presente Reglamento, la estacionalidad climática y la forma de desembolsos por parte de la SEFIN provenientes de los Fondos de Fideicomiso referidos en el artículo 3 del Decreto Ejecutivo No. PCM- 052-2019.
+Los procesos de contratación, enfocados a la Inversión Social Agropecuaria, se llevarán a cabo bajo la misma modalidad de Compra Menor (hasta 3 cotizaciones) según lo enmarcado en las Disposiciones Generales de Presupuesto Vigentes, teniendo en consideración las solicitudes y necesidades que presenten los GPA beneficiarios, de acuerdo a las particularidades de cada uno de ellos y conforme al cumplimiento de los requisitos establecidos en el artículo 49 del presente Reglamento, la estacionalidad climática y la forma de desembolsos por parte de la SEFIN provenientes de los Fondos de Fideicomiso referidos en el artículo 3 del Decreto Ejecutivo No. PCM-052-2019.
 
 #### Artículo 102
 
@@ -1995,9 +1993,7 @@ Artículo 177. En caso de que sea necesario incluir o reglamentar alguna situaci
 
 #### Artículo 178
 
-Artículo 178. La vigencia del presente Reglamento está sujeta a la duración del Programa de Desarrollo Agrícola de Honduras (PDAH), creado mediante Decreto Ejecutivo No.
-
-PCM-052-2019 de fecha 5 de septiembre de 2019, aprobado por el Presidente de la República en Consejo de Ministros y publicado en el Diario Oficial La Gaceta No. 35,076 de fecha 18 de octubre de 2019.
+Artículo 178. La vigencia del presente Reglamento está sujeta a la duración del Programa de Desarrollo Agrícola de Honduras (PDAH), creado mediante Decreto Ejecutivo No. PCM-052-2019 de fecha 5 de septiembre de 2019, aprobado por el Presidente de la República en Consejo de Ministros y publicado en el Diario Oficial La Gaceta No. 35,076 de fecha 18 de octubre de 2019.
 
 #### Artículo 179
 

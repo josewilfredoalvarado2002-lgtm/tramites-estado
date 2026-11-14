@@ -11,7 +11,7 @@ paginas: "A. 45 - 48"
 sumario: "Acuerdos Nos. SAR-236-2024, SAR-237-2024, SAR-238-2024, SAR-239-2024, SAR-240-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240520-36538/download"
 extraido: "2026-11-14"
-huella: "111f6e7a635b63d5"
+huella: "d0d833d09cc5d8f2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-240-2024
@@ -33,11 +33,7 @@ EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que el Artículo 199 del Decreto en mención, establece las atribuciones del Director Ejecutivo del Servicio de Administración de Rentas (SAR), tales como:
 
@@ -53,19 +49,15 @@ CONSIDERANDO: Que el Artículo 205 numeral 1) del Código Tributario, autoriza a
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
-435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que el Artículo 9 del Decreto 189-2004 contentivo de la Ley Sobre Normas de Contabilidad y de Auditoría establece que todo comerciante y demás personas jurídicas están obligados a llevar y mantener en su establecimiento registros de contabilidad.
 
-CONSIDERANDO: Que el Artículo 9 del Decreto 189- 2004 contentivo de la Ley Sobre Normas de Contabilidad y de Auditoría establece que todo comerciante y demás personas jurídicas están obligados a llevar y mantener en su establecimiento registros de contabilidad.
-
-CONSIDERANDO: Que el Artículo 45 del Decreto No.
-
-194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
+CONSIDERANDO: Que el Artículo 45 del Decreto No. 194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
 CONSIDERANDO: Que el Artículo 8 de Ley de Impuesto Sobre Ventas designa a los contribuyentes emisores u operadoras y concesionarios de servicios de tarjetas de crédito o débito como agentes de retención del Impuesto Sobre Ventas causado por las transferencias de bienes o prestaciones de servicios gravados y realizados por los negocios afiliados, cuando reciban el pago con el uso de tarjetas de sus clientes.
 
-CONSIDERANDO: Que mediante Resolución No. DEI- 9382-J-2003, emitida por la Dirección Ejecutiva de Ingresos
+CONSIDERANDO: Que mediante Resolución No. DEI-9382-J-2003, emitida por la Dirección Ejecutiva de Ingresos
 
 (DEI) publicada en el Diario Oficial “La Gaceta” en fecha 01 de noviembre de 2003, se aprobó el “Procedimiento Administrativo para las Retenciones del Impuesto Sobre Ventas por Tarjetas de Crédito y/o Débito”, mismo que contempla la presentación de la Declaración Informativa dentro de los primeros diez días calendarios del mes siguiente al que se efectuó la liquidación que dio lugar a la retención.
 
@@ -79,9 +71,7 @@ POR TANTO
 
 En uso de las facultades que la ley le confiere y en aplicación de los Artículos: 255, 321 y 351 de la Constitución de la República; 13 numeral 4), 62 numeral 1), 63 numerales 2) y 6), 160, 195, 197 numeral 1), 198 numerales 1), 6), 12) y 14), 199 numerales 1), 10) y 13) y 205 numeral 1) del Código Tributario; 8 de la Ley de Impuesto Sobre Ventas;
 
-45 Decreto No. 194-2002 de la Ley de Equilibrio Financiero y Protección Social; Decreto 189-2004 de la Ley Sobre Normas de Contabilidad y de Auditoría; 116 y 122 de la Ley General de la Administración Pública; Resolución No.
-
-DEI-9382-J-2003; Acuerdo Ejecutivo No. 01-2017; Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435-2022; y, demás disposiciones aplicables.
+45 Decreto No. 194-2002 de la Ley de Equilibrio Financiero y Protección Social; Decreto 189-2004 de la Ley Sobre Normas de Contabilidad y de Auditoría; 116 y 122 de la Ley General de la Administración Pública; Resolución No. DEI-9382-J-2003; Acuerdo Ejecutivo No. 01-2017; Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435-2022; y, demás disposiciones aplicables.
 
 ACUERDA
 

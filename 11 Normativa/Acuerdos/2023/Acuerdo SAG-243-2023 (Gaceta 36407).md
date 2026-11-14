@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdo No. SAG-243-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231212-36407/download"
 extraido: "2026-11-14"
-huella: "41c20c0ed0c77c2c"
+huella: "ba7f334db5abd9a0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-243-2023
@@ -43,7 +43,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Caficultura de la Secretaría de Estado en los Despachos de Agricultura y Ganadería, Ciudadano CARLOS ROBERTO MURILLO TEJADA, nombrado mediante Acuerdo Ejecutivo No. 246- 2023, de fecha veintiséis (26) de Octubre del año dos mil veintitrés, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República o quien quede facultado en dicho cargo; como Secretario de Estado por Ley, durante el periodo comprendido del cinco (05) al doce (12) de Diciembre del año 2023.
+PRIMERO: Delegar en el Subsecretario de Caficultura de la Secretaría de Estado en los Despachos de Agricultura y Ganadería, Ciudadano CARLOS ROBERTO MURILLO TEJADA, nombrado mediante Acuerdo Ejecutivo No. 246-2023, de fecha veintiséis (26) de Octubre del año dos mil veintitrés, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República o quien quede facultado en dicho cargo; como Secretario de Estado por Ley, durante el periodo comprendido del cinco (05) al doce (12) de Diciembre del año 2023.
 
 SEGUNDO: El presente acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

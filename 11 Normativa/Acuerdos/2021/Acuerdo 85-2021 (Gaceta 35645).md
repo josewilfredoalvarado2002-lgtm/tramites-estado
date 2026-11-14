@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdo número 85-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210702-35645/download"
 extraido: "2026-11-14"
-huella: "0da2a43506f9255b"
+huella: "fbe117c27a01d53e"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 85-2021
@@ -41,19 +41,17 @@ CONSIDERANDO: Que los tratados internacionales celebrados por Honduras con otros
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Relaciones Exteriores y Cooperación Internacional, es la encargada directa de ejecutar la Política Exterior del Estado de Honduras, en un escenario internacional que demanda la renovación constante de la gestión administrativa, con el objetivo de equiparar en correlación al contexto dinámico de la situación global, la especialización de las áreas y competencias de una dirección, superior. Lo cual sólo es posible, a partir de una mayor fluidez dinamismo en el funcionamiento de esta Secretaría de Estado.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 208- 2003, de fecha doce de diciembre de dos mil tres, que contiene la Ley de Migración y Extranjería, en su artículo No. 68, párrafo tercero de manera expresa establece "La emisión de pasaportes y salvoconductos en el exterior, estará a cargo de la Secretaría de Estado en el actual contexto mundial, futuros escenarios y desafíos extraordinarios, así como estados de emergencia y/o de calamidad comprobada en los países en los que se encuentren los hondureños en el extranjero, es necesario hacer uso de medios de Asistencia Consular y Atención Migratoria que conlleven a dar pronta y expedita solución, mediante los mecanismos electrónicos disponibles y seguros que permitan el encuentro virtual de verificación entre el funcionario consular y el ciudadano hondureño, independientemente de la región en donde resida.
+CONSIDERANDO: Que el Decreto Legislativo No. 208-2003, de fecha doce de diciembre de dos mil tres, que contiene la Ley de Migración y Extranjería, en su artículo No. 68, párrafo tercero de manera expresa establece "La emisión de pasaportes y salvoconductos en el exterior, estará a cargo de la Secretaría de Estado en el actual contexto mundial, futuros escenarios y desafíos extraordinarios, así como estados de emergencia y/o de calamidad comprobada en los países en los que se encuentren los hondureños en el extranjero, es necesario hacer uso de medios de Asistencia Consular y Atención Migratoria que conlleven a dar pronta y expedita solución, mediante los mecanismos electrónicos disponibles y seguros que permitan el encuentro virtual de verificación entre el funcionario consular y el ciudadano hondureño, independientemente de la región en donde resida.
 
 CONSIDERANDO: Que el Pasaporte es el documento legal de viaje aceptado internacionalmente y; qué, en el extranjero, constituye el único medio probatorio de la nacionalidad hondureña y de la identidad de su titular, para la salida del territorio nacional e ingreso a otros países, salvo casos especiales derivados de convenios y/o tratados.
 
 CONSIDERANDO: Que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, El Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 043-2020 de fecha 1 de octubre del 2020 y publicado en el Diario Oficial “La Gaceta” el 6 de octubre de 2020, El Presidente de la República delegó la firma en el Secretario de Coordinación General de Gobierno, CARLOS ALBERTO MADERO ERAZO, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO;
 
-En uso de las facultades de que está investido y las que le confiere la Ley y en aplicación de los artículos 1, 16, 59, 247, 321 y 323 de la Constitución de la República de Honduras-, 33, 36 numeral 8), 116, 118 y 122 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; Artículos 1, 66, 67, 68, 108 del, Decreto Legislativo No. 208-2003 de la Ley de Migración y Extranjería; Artículos 1, 2, 94, 95, 96, 98, 99, 130, 138 del Reglamento de Ley de Migración y Extranjería; acuerdo de delegación No.043-2020 de fecha 01 de octubre de 2020 y demás disposiciones legales que en derecho correspondan.
+En uso de las facultades de que está investido y las que le confiere la Ley y en aplicación de los artículos 1, 16, 59, 247, 321 y 323 de la Constitución de la República de Honduras-, 33, 36 numeral 8), 116, 118 y 122 de la Ley General de la Administración Pública y sus reformas mediante el Decreto Legislativo No. 266-2013; Artículos 1, 66, 67, 68, 108 del, Decreto Legislativo No. 208-2003 de la Ley de Migración y Extranjería; Artículos 1, 2, 94, 95, 96, 98, 99, 130, 138 del Reglamento de Ley de Migración y Extranjería; acuerdo de delegación No. 043-2020 de fecha 01 de octubre de 2020 y demás disposiciones legales que en derecho correspondan.
 
 ACUERDA:
 
@@ -63,7 +61,7 @@ ARTÍCULO 1. Reformar el Reglamento de la Ley de Migración y Extranjería, cont
 
 En situaciones o circunstancias excepcionales debidamente justificadas que impidan al hondureño movilizarse a un Consulado o Sección Consular, como ser desastres naturales, emergencias sanitarias, conflictos políticos o bélicos, restricciones extraordinarias de viaje o ingreso impuestas por el país en que reside, o cualquier situación personal de calamidad o fuerza mayor que le impidan movilizarse; el pasaporte podrá ser gestionado cumpliendo con los requisitos siguientes:
 
-1. Llenar solicitud de manera virtual ante Consulado o Sección Consular de Honduras de su conveniencia, en términos de cercanía geográfica o accesibilidad ;
+1. Llenar solicitud de manera virtual ante Consulado o Sección Consular de Honduras de su conveniencia, en términos de cercanía geográfica o accesibilidad;
 
 2. Comprar MONEY ORDER y/o un giro postal a nombre del Consulado o Embajada en la que se realizará la gestión o de la Tesorería General de la República de Honduras en cualesquiera de las oficinas o agentes autorizados del servicio postal; transferencia o depósito bancario;
 

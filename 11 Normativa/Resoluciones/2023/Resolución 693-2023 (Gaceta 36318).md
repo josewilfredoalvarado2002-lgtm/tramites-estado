@@ -11,7 +11,7 @@ paginas: "A. 11 - 17"
 sumario: "Certificación, Resolución No. 693-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230826-36318/download"
 extraido: "2026-11-14"
-huella: "2a207ca7a82b6ea6"
+huella: "fe436faf114430e6"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 693-2023
@@ -45,9 +45,7 @@ CONSIDERANDO: Que el Presidente de la República emitió el Decreto Ejecutivo No
 
 POR TANTO: La Secretaría de Estado en los Despachos de Gobernación Justicia y Descentralización, en uso de sus facultades y en aplicación a lo establecido en los Artículo 18 de la Ley Marco del Sector Agua Potable y Saneamiento;
 
-34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de Ministerial No.
-
-14-2022 de fecha ocho de febrero de dos mil veintidós.
+34, 35, 36, 37, 38 y 39 del Reglamento General de la Ley Marco del Sector de Agua Potable y Saneamiento, 245 numeral 40 de la Constitución de la República; 29 reformado mediante Decreto 266-2013 publicado en fecha 23 de enero de 2014; 116 y 120 de la Ley General de la Administración Pública; 56 y 58 del Código Civil; 24, 25 y 83 de la Ley de Procedimiento Administrativo. Acuerdo de Ministerial No. 14-2022 de fecha ocho de febrero de dos mil veintidós.
 
 RESUELVE:
 

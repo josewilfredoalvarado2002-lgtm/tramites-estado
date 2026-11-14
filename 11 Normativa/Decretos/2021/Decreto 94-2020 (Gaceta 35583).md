@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 94-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210426-35583/download"
 extraido: "2026-11-14"
-huella: "2ba221cac8e4708e"
+huella: "2e9034a4bfccbde1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 94-2020
@@ -43,7 +43,7 @@ DECRETA:
 
 ARTÍCULO 1.- Autorizar a la MUNICIPALIDAD DE SAN LORENZO, DEPARTAMENTO DE VALLE, en el marco de lo dispuesto en el Artículo constitucional 205, numeral 19) de la Constitución de la República de Honduras, para que pueda suscribir Convenio de readecuación de deuda con la institución bancaria del Sistema Financiero Nacional que ofrezca las mejores condiciones de interés, en las condiciones financieras siguientes:
 
-MONTO: CINCUENTA Y CINCO M I L L O N E S D O S C I E N T O S CUARENTA Y TRES MIL LEMPIRAS (L.55,243,000.00).
+MONTO: CINCUENTA Y CINCO MILLONES DOSCIENTOS CUARENTA Y TRES MIL LEMPIRAS (L.55,243,000.00).
 
 PLAZO: Diez (10) años.
 
@@ -85,7 +85,7 @@ CONSIDERANDO: Que el Decreto Legislativo No. 79-98 publicado en el Diario Oficia
 
 CONSIDERANDO: Que de conformidad al Acuerdo S.D.N No. 001-2018 de fecha 20 de febrero de 2018, publicado en el Diario Oficial La Gaceta y que contiene el Reglamento de Prestación de Servicio Médico Hospitalario brindado por el Hospital Militar a sus Beneficiarios, el cual establece en su artículo 92 que: “Con el propósito de contribuir a la mejora continua, velar por la calidad de atención y la seguridad de los pacientes, la Administración y la Dirección del Hospital Militar crearán los Comités que consideren necesarios como organismos asesores y de apoyo a su gestión”.
 
-CONSIDERANDO: Que mediante Resolución del Comité de Supervisión y Control del Hospital Militar No. 05-04- 2020 fue autorizada la creación del Comité de Ajustes del Hospital Militar como órgano de apoyo y asesoramiento, que colaborará con la evaluación y opinión en temas relacionados con ajustes contables con efecto económico. La organización, integración y funcionamiento del Comité se regulará a través del reglamento que al efecto se emita.
+CONSIDERANDO: Que mediante Resolución del Comité de Supervisión y Control del Hospital Militar No. 05-04-2020 fue autorizada la creación del Comité de Ajustes del Hospital Militar como órgano de apoyo y asesoramiento, que colaborará con la evaluación y opinión en temas relacionados con ajustes contables con efecto económico. La organización, integración y funcionamiento del Comité se regulará a través del reglamento que al efecto se emita.
 
 CONSIDERANDO: Que es una atribución del Presidente Constitucional de la República emitir acuerdos, decretos, expedir reglamentos y resoluciones conforme a la Ley y que conforme al artículo número 36 numeral 6) de la Ley General de la Administración Pública, es atribución del Secretario de Estado emitir los Reglamentos de organización interna de sus respectivos despachos.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Certificación, Acuerdo Número 04-2023-JDU-UNAH"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230529-36240/download"
 extraido: "2026-11-14"
-huella: "586f57bfdd11f2ee"
+huella: "05c06cc97ea2c6fe"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Acuerdo Número 04-2023-JDU-UNAH
@@ -31,7 +31,7 @@ Universidad Nacional Autónoma de Honduras UNAH
 
 CERTIFICACIÓN, ACUERDO NÚMERO 04-2023-JDU-UNAH
 
-La infrascrita, Directora Secretaria de la Junta de Dirección Universitaria de la Universidad Nacional Autónoma de Honduras (JDU-UNAH), por este acto CERTIFICA: El Acuerdo Número 4-2023 JDU-UNAH, contenido en el Acta de la Sesión Ordinaria No.4 de fecha veinticinco (25) de mayo de dos mil veintitrés (2023), que en su parte conducente dice: Lectura, discusión y aprobación del Reglamento para la Selección, Elección y Nombramiento de Autoridades y demás funcionarios de la Universidad Nacional Autónoma de Honduras y su acuerdo respectivo.
+La infrascrita, Directora Secretaria de la Junta de Dirección Universitaria de la Universidad Nacional Autónoma de Honduras (JDU-UNAH), por este acto CERTIFICA: El Acuerdo Número 4-2023 JDU-UNAH, contenido en el Acta de la Sesión Ordinaria No. 4 de fecha veinticinco (25) de mayo de dos mil veintitrés (2023), que en su parte conducente dice: Lectura, discusión y aprobación del Reglamento para la Selección, Elección y Nombramiento de Autoridades y demás funcionarios de la Universidad Nacional Autónoma de Honduras y su acuerdo respectivo.
 
 UNIVERSIDAD NACIONAL AUTÓNOMA DE HONDURAS (UNAH). JUNTA DE DIRECCIÓN UNIVERSITARIA (JDU). Ciudad Universitaria “José Trinidad Reyes”, Tegucigalpa, municipio del Distrito Central, veinticinco (25) de mayo del dos mil veintitrés (2023).
 

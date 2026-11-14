@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Decreto Ejecutivo número PCM-067-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210621-35634/download"
 extraido: "2026-11-14"
-huella: "cc90eeab40887ef6"
+huella: "3c1f7afc32f02979"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-067-2021
@@ -35,13 +35,9 @@ CONSIDERANDO: Que conforme al Artículo 245 numerales 2 y 11 de la Constitución
 
 CONSIDERANDO: Que de acuerdo con el Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-030-2020 publicado en el Diario Oficial “La Gaceta” en fecha 09 de abril de 2020 en la Edición No. 35,222 se declara prioridad y necesidad nacional, así como de interés público y estratégico para la nación el sector productor y de procesamiento de alimentos. El Poder Ejecutivo, el sector agroindustrial alimentario, el sector financiero, el sector de transporte y demás sectores relacionados deben reorientar sus esfuerzos en el sentido de asegurar que el país cuente con reservas suficientes de alimentos para hacer frente a la emergencia humanitaria y sanitaria que afecta la Nación, priorizando mantener las cadenas productivas y de distribución de alimentos activas en todo momento; acciones que deben ser sostenibles en el tiempo para paliar los efectos posteriores a la crisis.
 
-PCM-030-2020 publicado en el Diario Oficial “La Gaceta” en fecha 09 de abril de 2020 en la Edición No. 35,222 se declara prioridad y necesidad nacional, así como de interés público y estratégico para la nación el sector productor y de procesamiento de alimentos. El Poder Ejecutivo, el sector agroindustrial alimentario, el sector financiero, el sector de transporte y demás sectores relacionados deben reorientar sus esfuerzos en el sentido de asegurar que el país cuente con reservas suficientes de alimentos para hacer frente a la emergencia humanitaria y sanitaria que afecta la Nación, priorizando mantener las cadenas productivas y de distribución de alimentos activas en todo momento; acciones que deben ser sostenibles en el tiempo para paliar los efectos posteriores a la crisis.
-
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-33-2020 se aprueba la “Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19”, misma que en su Artículo 8 señala que en el marco del Estado de Emergencia Humanitaria y Sanitaria declarada en todo el territorio nacional, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público; destinados para dotar al sistema sanitario nacional de capacidades de respuesta inmediata para el control, contención y propagación de la epidemia del coronavirus.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 33-2020 se aprueba la “Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19”, misma que en su Artículo 8 señala que en el marco del Estado de Emergencia Humanitaria y Sanitaria declarada en todo el territorio nacional, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público; destinados para dotar al sistema sanitario nacional de capacidades de respuesta inmediata para el control, contención y propagación de la epidemia del coronavirus.
 
 Asimismo, se orientarán recursos para la implementación de medidas de compensación social y orientación de recursos para el impulso de los sectores estratégicos a fin de generar empleo e impulsar un proceso de crecimiento económico sostenido.
 
@@ -63,25 +59,19 @@ CONSIDERANDO: Que en la actualidad, Honduras tiene dentro de sus prioridades gar
 
 CONSIDERANDO: Que la Constitución de la República faculta al Poder Ejecutivo, para que dentro del ámbito y materias de su exclusiva competencia, celebre o ratifique convenios internacionales con estados extranjeros u organizaciones internacionales o adherirse a ellos sin el requisito previo de la aprobación del Congreso Nacional, al que deberá informar inmediatamente.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-146-2020 de fecha 29 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, se prorroga el Estado de Emergencia Humanitaria y Sanitaria hasta el 31 de diciembre de 2021 declarada para todo el territorio nacional.
 
-PCM-146-2020 de fecha 29 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, se prorroga el Estado de Emergencia Humanitaria y Sanitaria hasta el 31 de diciembre de 2021 declarada para todo el territorio nacional.
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-147-2020 de fecha 29 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, se prorroga el Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” , hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-147-2020 de fecha 29 de diciembre de 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 29 de diciembre de 2020, se prorroga el Estado de Emergencia a nivel nacional, por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA” , hasta el 31 de diciembre del 2021, decretada en todo el territorio nacional en la infraestructura vial y el Sector Productivo del País.
 
 CONSIDERANDO: Que mediante PCM-016-2021 publicado en el Diario Oficial “La Gaceta” en fecha 3 de febrero 2021 se declara el sector agropecuario como prioridad nacional y de interés público. El Poder Ejecutivo y los demás sectores relacionados deben coadyuvar sus esfuerzos para la implementación de acciones eficientes y eficaces para el fortalecimiento de dicho sector.
 
 CONSIDERANDO: Que por medio del Decreto Ejecutivo No. PCM-017-2014 se crea el Programa Nacional de Reactivación del Sector Agroalimentario de Honduras, el cual se define como un conjunto de recursos e incentivos destinados a facilitar los procesos de expansión, tecnificación y modernización del sector agrícola del país, mediante la puesta en servicio de un paquete de financiamiento, asistencia técnica y apoyo a la comercialización, que derive en un aumento significativo de sus aportes al desarrollo económico y social del país, la generación masiva de empleo y la consolidación de modelos inclusivos que favorezcan la creación de nuevas y mejores oportunidades de desarrollo para pequeños y medianos productores.
 
-CONSIDERANDO: Que el Decreto Ejecutivo No. PCM-017- 2014, determina que los recursos financieros del Programa Nacional para la Reactivación del Sector Agroalimentario serán destinados, entre otros, a Programas de Apoyo a Sectores Productivos en situación de emergencia.
+CONSIDERANDO: Que el Decreto Ejecutivo No. PCM-017-2014, determina que los recursos financieros del Programa Nacional para la Reactivación del Sector Agroalimentario serán destinados, entre otros, a Programas de Apoyo a Sectores Productivos en situación de emergencia.
 
-CONSIDERANDO: Que el Decreto Ejecutivo No. PCM-017- 2014 establece que el Programa Nacional para la Reactivación del Sector Agroalimentario debe ser un instrumento dinámico, capaz de adaptarse a la evolución natural del sector y a los condicionantes que inciden positiva o negativamente en la producción agrícola nacional. Asimismo, faculta al Comité Técnico Administrativo (CTA) del fideicomiso constituido para cumplir los objetivos de (FIRSA) y aprobar cualquier nueva condición que le permita dar cumplimiento con su objeto constitutivo contenido en los artículos 1 y 3 del Decreto Ejecutivo en mención.
+CONSIDERANDO: Que el Decreto Ejecutivo No. PCM-017-2014 establece que el Programa Nacional para la Reactivación del Sector Agroalimentario debe ser un instrumento dinámico, capaz de adaptarse a la evolución natural del sector y a los condicionantes que inciden positiva o negativamente en la producción agrícola nacional. Asimismo, faculta al Comité Técnico Administrativo (CTA) del fideicomiso constituido para cumplir los objetivos de (FIRSA) y aprobar cualquier nueva condición que le permita dar cumplimiento con su objeto constitutivo contenido en los artículos 1 y 3 del Decreto Ejecutivo en mención.
 
-CONSIDERANDO: Que conforme a Decreto Ejecutivo No.
-
-PCM-77-2014 emitido en fecha 19 de diciembre de 2014 y publicado el 29 de diciembre de 2014 en el Diario Oficial “La Gaceta” se faculta al Comité Técnico Administrativo
+CONSIDERANDO: Que conforme a Decreto Ejecutivo No. PCM-77-2014 emitido en fecha 19 de diciembre de 2014 y publicado el 29 de diciembre de 2014 en el Diario Oficial “La Gaceta” se faculta al Comité Técnico Administrativo
 
 (CTA) del fideicomiso para cumplir los objetivos de (FIRSA) para aprobar cualquier nueva condición que le permita dar cumplimiento con su objeto constitutivo contenido en los artículos 1 y 3 del Decreto Ejecutivo No. PCM-017-2014.
 
@@ -91,7 +81,7 @@ CONSIDERANDO: Honduras ratificó el Protocolo de San Salvador, que dispone en el
 
 POR TANTO: En uso de las facultades contenidas en los
 
-Artículos 21, 245 numerales 2,11, 12, 13 y 32 Artículos 248 y 360 de la Constitución de la República; Artículos 11 y 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266- 2013; Artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 33-2020; Decretos Ejecutivos No PCM-017-2014. PCM-005-2020, PCM-030- 2020, PCM-146-2020 y PCM-147-2020.
+Artículos 21, 245 numerales 2,11, 12, 13 y 32 Artículos 248 y 360 de la Constitución de la República; Artículos 11 y 16, 116, 118 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Artículo 9 y 63 numeral 1) de la Ley de Contratación del Estado; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 33-2020; Decretos Ejecutivos No PCM-017-2014. PCM-005-2020, PCM-030-2020, PCM-146-2020 y PCM-147-2020.
 
 DECRETA:
 

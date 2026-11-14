@@ -11,7 +11,7 @@ paginas: "A. 8 - 20"
 sumario: "Acuerdo No. SEN-028-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250429-36825/download"
 extraido: "2026-11-11"
-huella: "5ca19dceae1fc00a"
+huella: "5e1869885438da81"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-028-2025
@@ -27,15 +27,15 @@ huella: "5ca19dceae1fc00a"
 
 ## Texto
 
-SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. - EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115- 2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 30, 35, 36 No. 8 y 116, de la Ley General de la Administración Pública;
+SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA. - EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD. - En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022 del 12 de agosto del 2022 y en aplicación a los Artículos 246, 247, 248 de la Constitución de la República; 30, 35, 36 No. 8 y 116, de la Ley General de la Administración Pública;
 
 3, 4, 5 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM-048-2017; Decreto Ejecutivo PCM-007-2020.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones y deberes comunes señaladas en la Constitución de la República y en la Ley General de la Administración Pública para orientar, coordinar, supervisar y analizar las actividades de sus respectivos despachos, emitiendo para el efecto los acuerdos y resoluciones que correspondan al ámbito de su competencia.
 
-CONSIDERANDO: Que en fecha treinta (30) de mayo del año dos mil veintitrés (2023), mediante Acuerdo SEN- 49-2023, fue nombrada la ciudadana Abogada BETSABE MEJIA MAIRENA.
+CONSIDERANDO: Que en fecha treinta (30) de mayo del año dos mil veintitrés (2023), mediante Acuerdo SEN-49-2023, fue nombrada la ciudadana Abogada BETSABE MEJIA MAIRENA.
 
-CONSIDERANDO: Que en fecha diez (10) de abril del año dos mil veinticinco (2025), mediante Acuerdo SEN-026- 2025, fue cancelada como Directora de Servicios Legales de esta Secretaría de Estado, la Abogada Luz Marina Barahona Hernández.
+CONSIDERANDO: Que en fecha diez (10) de abril del año dos mil veinticinco (2025), mediante Acuerdo SEN-026-2025, fue cancelada como Directora de Servicios Legales de esta Secretaría de Estado, la Abogada Luz Marina Barahona Hernández.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia al órgano inmediatamente inferior, debiendo el acto de delegación, además de indicar el órgano delegante, el objeto de delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 
@@ -49,7 +49,7 @@ PRIMERO: Delegar a la Abogada BETSABE MEJIA MAIRENA de la Secretaría de Estado 
 
 SEGUNDO: La delegada es responsable de la función delegada conforme a las atribuciones establecidas en la Ley.
 
-TERCERO: Por lo expuesto en el Acuerda Primero del presente, se deja Sin Valor Ni Efecto el Acuerdo SEN-027- 2025, emitido en fecha once (11) de abril del año dos mil veinticinco (2025).
+TERCERO: Por lo expuesto en el Acuerda Primero del presente, se deja Sin Valor Ni Efecto el Acuerdo SEN-027-2025, emitido en fecha once (11) de abril del año dos mil veinticinco (2025).
 
 CUARTO: El presente Acuerdo es efectivo a partir de la fecha y debe publicarse en el Diario Oficial La Gaceta.
 
@@ -87,7 +87,7 @@ ABG. TELMA CRISTINA MARTÍNEZ SECRETARIA GENERAL
 
 Cert. 1120-2025, acta 23-2025 (10 páginas) Avance Próxima Edición
 
-ACUERDA: PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No.55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo; como Secretario de Estado, por Ley, durante el período comprendido del dos (02) de abril al seis (06) de abril del dos mil veinticinco (2025).
+ACUERDA: PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo; como Secretario de Estado, por Ley, durante el período comprendido del dos (02) de abril al seis (06) de abril del dos mil veinticinco (2025).
 
 CENTROS DE DISTRIBUCIÓN:
 

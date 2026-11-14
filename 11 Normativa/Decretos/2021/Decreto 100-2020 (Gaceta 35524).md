@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 100-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210222-35524/download"
 extraido: "2026-11-14"
-huella: "544a2add0f074769"
+huella: "d4d55fcacb418458"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 100-2020
@@ -33,9 +33,9 @@ CONSIDERANDO: Que de conformidad con el Artículo 351 de la Constitución de la 
 
 CONSIDERANDO: Que el Artículo 11 numeral 1) del Código Tributario señala que compete exclusivamente al Congreso Nacional crear, modificar o suprimir tributos, definir el hecho imponible generador de la obligación tributaria y aduanera, fijar la base imponible, la tarifa y el plazo del tributo, establecer el devengo, las sanciones y definir el sujeto activo y el obligado tributario.
 
-CONSIDERANDO: Que el Decreto No.181-2012 de fecha 28 de de Noviembre de 2012 y publicado en el Diario Oficial “La Gaceta” el 4 de Diciembre de 2012, Edición No.32,991, contentivo de la LEY DE RACIONALIZACIÓN A LA EXONERACIÓN DE COMBUSTIBLES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA, establece regulaciones para el pago del impuesto en la importación de combustibles derivados del petróleo; mismas que deben ser adecuadas al alcance de lo dispuesto en la Ley General de la Industria Eléctrica a fin de buscar la eficiencia económica en las actividades del subsector eléctrico, garantizando precios eficientes sin distorsiones al usuario final.
+CONSIDERANDO: Que el Decreto No. 181-2012 de fecha 28 de de Noviembre de 2012 y publicado en el Diario Oficial “La Gaceta” el 4 de Diciembre de 2012, Edición No. 32,991, contentivo de la LEY DE RACIONALIZACIÓN A LA EXONERACIÓN DE COMBUSTIBLES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA, establece regulaciones para el pago del impuesto en la importación de combustibles derivados del petróleo; mismas que deben ser adecuadas al alcance de lo dispuesto en la Ley General de la Industria Eléctrica a fin de buscar la eficiencia económica en las actividades del subsector eléctrico, garantizando precios eficientes sin distorsiones al usuario final.
 
-CONSIDERANDO: Que el 20 de Mayo de 2014, Edición No.33,431 fue publicado el Decreto No.404-2013, contentivo de la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, el cual contiene modificaciones significativas al ordenamiento legal de Honduras, con el fin de darle sostenibilidad al suministro de capacidad y energía a los usuarios del servicio de electricidad en Honduras, sumado a que propicia la interacción de todos los agentes que participan en el mercado eléctrico nacional, para obtener los menores precios de energía eléctrica posibles, fomentando la eficacia económica y la competitividad de las actividades de la industria eléctrica.
+CONSIDERANDO: Que el 20 de Mayo de 2014, Edición No. 33,431 fue publicado el Decreto No. 404-2013, contentivo de la LEY GENERAL DE LA INDUSTRIA ELÉCTRICA, el cual contiene modificaciones significativas al ordenamiento legal de Honduras, con el fin de darle sostenibilidad al suministro de capacidad y energía a los usuarios del servicio de electricidad en Honduras, sumado a que propicia la interacción de todos los agentes que participan en el mercado eléctrico nacional, para obtener los menores precios de energía eléctrica posibles, fomentando la eficacia económica y la competitividad de las actividades de la industria eléctrica.
 
 CONSIDERANDO: Que conforme lo establecido en la Ley General de la Industria Eléctrica las tarifas se deben basar en los costos eficientes de generación, transmisión, distribución y demás costos de proveer el servicio eléctrico, evitando trasladar costos adicionales causados por distorsiones del pago de tributos en las diferentes actividades de la cadena de la industria eléctrica que impacten en el consumidor final.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 ARTÍCULO 1.- USO DE COMBUSTIBLES PARA
 
-GENERACIÓN.- Se exonera a las empresas del subsector eléctrico del pago del Impuesto denominado Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV), creado mediante el Decreto No.131-98, de fecha 30 de Abril de 1998 y sus reformas, asociado a los combustibles fósiles utilizados por sus centrales de generación y que se utilizan exclusivamente para la generación de electricidad que se comercializa en el Mercado Eléctrico Nacional como lo establece la Ley General de la Industria Eléctrica y sus reglamentos. Lo anterior no es aplicable a los combustibles utilizados en la generación de energía para autoconsumo. En el caso de empresas que además de generar electricidad para autoconsumo, están habilitadas para comercializar el excedente de dicha generación en el Mercado Eléctrico Nacional; la exoneración se aplicará únicamente a la cantidad de combustible proporcional a la energía eléctrica inyectada al Sistema interconectado nacional y registrada en el mercado mayorista de electricidad.
+GENERACIÓN.- Se exonera a las empresas del subsector eléctrico del pago del Impuesto denominado Aporte para la Atención a Programas Sociales y Conservación del Patrimonio Vial (ACPV), creado mediante el Decreto No. 131-98, de fecha 30 de Abril de 1998 y sus reformas, asociado a los combustibles fósiles utilizados por sus centrales de generación y que se utilizan exclusivamente para la generación de electricidad que se comercializa en el Mercado Eléctrico Nacional como lo establece la Ley General de la Industria Eléctrica y sus reglamentos. Lo anterior no es aplicable a los combustibles utilizados en la generación de energía para autoconsumo. En el caso de empresas que además de generar electricidad para autoconsumo, están habilitadas para comercializar el excedente de dicha generación en el Mercado Eléctrico Nacional; la exoneración se aplicará únicamente a la cantidad de combustible proporcional a la energía eléctrica inyectada al Sistema interconectado nacional y registrada en el mercado mayorista de electricidad.
 
 Asimismo, se exonera a las empresas del subsector eléctrico del pago del impuesto denominado APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL (ACPV) asociado al combustible fósil usado exclusivamente para la generación de electricidad en sistemas eléctricos aislados y que prestan un servicio público a través de empresas eléctricas distribuidoras y sistemas de micro-redes eléctricas interconectadas o aisladas del Sistema Interconectado Nacional (SIN), de conformidad con la Ley General de la Industria Electica y regulaciones de la Comisión Reguladora de Energía Eléctrica (CREE).
 
@@ -67,7 +67,7 @@ ARTÍCULO 3.- SERVICIOS ELÉCTRICOS.- Quedan exentos del pago del Impuesto Sobre
 
 ARTÍCULO 4.- EXCEDENTES DE COMBUSTIBLES.-
 
-Los excedentes de combustibles que resulten del control de inventarios generados en los depósitos aduaneros, tipificados en el Artículo 16 del Decreto No.113-2011, de fecha 24 de junio de 2011, y publicado en el Diario Oficial “La Gaceta” el 8 de julio de 2011, Edición No.32,562, contentivo de LA LEY DE EFICIENCIA EN LOS INGRESOS Y EL GASTO PÚBLICO, deberán ser nacionalizados por el depositario aduanero previa verificación de la Administración Aduanera de Honduras mediante los mecanismos que disponga.
+Los excedentes de combustibles que resulten del control de inventarios generados en los depósitos aduaneros, tipificados en el Artículo 16 del Decreto No. 113-2011, de fecha 24 de junio de 2011, y publicado en el Diario Oficial “La Gaceta” el 8 de julio de 2011, Edición No. 32,562, contentivo de LA LEY DE EFICIENCIA EN LOS INGRESOS Y EL GASTO PÚBLICO, deberán ser nacionalizados por el depositario aduanero previa verificación de la Administración Aduanera de Honduras mediante los mecanismos que disponga.
 
 #### Artículo 5
 
@@ -93,7 +93,7 @@ ARTÍCULO 8.- DISPOSICIÓN TRANSITORIA.- Se autoriza a la Administración Aduane
 
 #### Artículo 9
 
-ARTÍCULO 9.- DEROGATORIA.- Derogar el párrafo segundo del numeral 2 del Artículos 1; Artículos 2 y 3 del Decreto No.181-2012, de fecha 28 de noviembre del año 2012 y publicado en el Diario Oficial “La Gaceta” el 4 de Diciembre de 2012, Edición No.32,991, contentivo de la LEY DE RACIONALIZACIÓN A LA EXONERACIÓN DE COMBUSTIBLES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA.
+ARTÍCULO 9.- DEROGATORIA.- Derogar el párrafo segundo del numeral 2 del Artículos 1; Artículos 2 y 3 del Decreto No. 181-2012, de fecha 28 de noviembre del año 2012 y publicado en el Diario Oficial “La Gaceta” el 4 de Diciembre de 2012, Edición No. 32,991, contentivo de la LEY DE RACIONALIZACIÓN A LA EXONERACIÓN DE COMBUSTIBLES PARA LA GENERACIÓN DE ENERGÍA ELÉCTRICA.
 
 #### Artículo 10
 

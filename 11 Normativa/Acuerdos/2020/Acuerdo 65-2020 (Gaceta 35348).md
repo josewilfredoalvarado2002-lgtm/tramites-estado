@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "Acuerdos números 65-2020, 66-2020, 67-2020, 68-2020, 69-2020, 78-2020,84-2020, 85-2020, 86-2020, 127-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200820-35348/download"
 extraido: "2026-11-14"
-huella: "f4fc984a8ff4fc18"
+huella: "45160eb661703133"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 65-2020
@@ -27,7 +27,7 @@ huella: "f4fc984a8ff4fc18"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO, En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Legislativo No. 18-2017.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO, En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Legislativo No. 18-2017.
 
 ACUERDA:
 

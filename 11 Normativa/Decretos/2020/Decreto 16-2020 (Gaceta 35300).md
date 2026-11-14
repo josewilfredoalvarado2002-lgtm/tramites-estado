@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decretos Nos. 16-2020, 70-2020, 74-2020, 76-2020."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200701-35300/download"
 extraido: "2026-11-14"
-huella: "2361bc499287d660"
+huella: "0d86086fe2469b4c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 16-2020
@@ -49,7 +49,7 @@ A. 24
 
 POR TANTO
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +67,7 @@ Pagos mensuales de capital más intereses.
 
 GARANTÍA: Fiduciaria Institucional.
 
-Los recursos antes citados se deben destinar a la adquisición del siguiente equipo de construcción d e m a n t e n i m i e n t o v i a l : a ) Una motoniveladora, b) Una retroexcavadora, c) una volqueta y d) Un vehículo tipo pick up.
+Los recursos antes citados se deben destinar a la adquisición del siguiente equipo de construcción de mantenimiento vial: a ) Una motoniveladora, b) Una retroexcavadora, c) una volqueta y d) Un vehículo tipo pick up.
 
 #### Artículo 2
 

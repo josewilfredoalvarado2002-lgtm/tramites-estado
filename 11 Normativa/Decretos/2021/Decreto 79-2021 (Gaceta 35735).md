@@ -11,7 +11,7 @@ paginas: "A. 1 - 116"
 sumario: "Decreto No. 79-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211002-35735/download"
 extraido: "2026-11-14"
-huella: "49e50491bc53cd89"
+huella: "f2785f57c834f15c"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 79-2021
@@ -31,11 +31,11 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Artículo 59 de la Constitución de la República establece que “La persona humana es el fin supremo de la sociedad” y es función del Estado, promover y facilitar el acceso a los servicios públicos, a fin de mejorar condiciones sanitarias y la calidad de vida de las personas.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5289/ BL-HO, suscrito el 20 de Agosto de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), destinados para financiar la ejecución del “Proyecto de Apoyo a Poblaciones Vulnerables Afectadas por Coronavirus”, el cual tiene como objetivo contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19 y los dos (2) huracanes ETA e IOTA.
+CONSIDERANDO: Que el Contrato de Préstamo No. 5289/ BL-HO, suscrito el 20 de Agosto de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), destinados para financiar la ejecución del “Proyecto de Apoyo a Poblaciones Vulnerables Afectadas por Coronavirus”, el cual tiene como objetivo contribuir a asegurar niveles mínimos de calidad de vida de las personas vulnerables frente a la crisis causada por el COVID-19 y los dos (2) huracanes ETA e IOTA.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6918-HN, suscrito el 20 de Agosto de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), para la ejecución del Financiamiento Adicional al Proyecto de Integración de la Protección Social, tiene como objetivo mejorar los resultados del Programa de TMC, incluida la respuesta del Programa de TMC al COVID-19 y fortalecer la integración del sistema de protección social para los pobres extremos y los vulnerables.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6918-HN, suscrito el 20 de Agosto de 2021, entre el Banco Mundial (BM) y la República de Honduras hasta por un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), para la ejecución del Financiamiento Adicional al Proyecto de Integración de la Protección Social, tiene como objetivo mejorar los resultados del Programa de TMC, incluida la respuesta del Programa de TMC al COVID-19 y fortalecer la integración del sistema de protección social para los pobres extremos y los vulnerables.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.2282, suscrito el 20 de Agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), destinados para financiar la ejecución del “Programa Bono de Alivio a Familias Vulnerables Afectadas por Fenómenos Naturales Producto del Cambio Climático”, el cual tiene como objetivo general mejorar el ingreso, calidad de vida e incentivar la actividad económica local de las familias vulnerables en los territorios a los cuales está dirigido.
+CONSIDERANDO: Que el Contrato de Préstamo No. 2282, suscrito el 20 de Agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), destinados para financiar la ejecución del “Programa Bono de Alivio a Familias Vulnerables Afectadas por Fenómenos Naturales Producto del Cambio Climático”, el cual tiene como objetivo general mejorar el ingreso, calidad de vida e incentivar la actividad económica local de las familias vulnerables en los territorios a los cuales está dirigido.
 
 CONSIDERANDO: Que la firma de Convenios de financiamiento relacionados a los temas antes señalados traen consigo beneficios de impacto a la población nacional, especialmente la población de municipios postergados en condición de pobreza y pobreza extrema, ya que estos convenios tiene como objetivo la facilitación de capital para la ampliación de programas de desarrollo social, ampliación de los alcances de las transferencias condicionadas a un mayor número de familias, mejorar el ingreso, calidad de vida e incentivar la actividad económica local de las familias vulnerables afectadas por Fenómenos Naturales Producto del Cambio Climático, capacidad de atender emergencias, todo ello como mecanismos que permitan alcanzar un desarrollo sostenible e integral, acorde a los objetivos de país y como una respuesta a las necesidades de la población hondureña.
 
@@ -45,17 +45,15 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.5289/ BL-HO, suscrito el 20 de Agosto de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE APOYO A POBLACIONES VULNERABLES AFECTADAS POR CORONAVIRUS”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 5289/ BL-HO, suscrito el 20 de Agosto de 2021, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CUARENTA Y CINCO MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$45,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE APOYO A POBLACIONES VULNERABLES AFECTADAS POR CORONAVIRUS”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 
-CONTRATO DE PRÉSTAMO No.
-
-5289/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO I N T E R A M E R I C A N O D E DESARROLLO, Proyecto de Apoyo a Poblaciones Vulnerables afectadas por Coronavirus. 20 de Agosto de 2021 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES.
+CONTRATO DE PRÉSTAMO No. 5289/BL-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO, Proyecto de Apoyo a Poblaciones Vulnerables afectadas por Coronavirus. 20 de Agosto de 2021 CONTRATO DE PRÉSTAMO ESTIPULACIONES ESPECIALES.
 
 Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario” y el BANCO INTERAMERICANO DE DESARROLLO, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 20 de Agosto de 2021.
 
@@ -511,7 +509,7 @@ FPi,j es la fecha de pago referente al pago i del tramo j.
 
 FS es la fecha de suscripción de este Contrato.
 
-AT es la suma de todos los Ai,j , calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
+AT es la suma de todos los Ai,j, calculada en Dólares, o en el caso de una Conversión, en el equivalente en Dólares, a la fecha del cálculo a la tasa de cambio determinada por el Agente de Cálculo.
 
 86. “VPP Original” significa la VPP del Financiamiento del CO Regular vigente en la fecha de suscripción de este Contrato y establecida en las Estipulaciones Especiales.
 
@@ -1335,7 +1333,7 @@ ARTÍCULO 2.- Aprobar en todas y cada una de las partes el
 
 ACUERDO DE FINANCIAMIENTO
 
-No.6918-HN, suscrito el 20 de Agosto de 2021, entre el Banco Mundial
+No. 6918-HN, suscrito el 20 de Agosto de 2021, entre el Banco Mundial
 
 (BM) y la República de Honduras, hasta por un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70.000,000.00), para la Ejecución del “FINANCIAMIENTO ADICIONAL AL PROYECTO DE INTEGRACIÓN DE LA PROTECCIÓN SOCIAL”, que literalmente dice:
 
@@ -1587,7 +1585,7 @@ Definiciones
 
 2. “Directrices Anticorrupción” significa, para los fines del párrafo 5 del Apéndice de las Condiciones Generales, las “Directrices para Prevenir y Combatir el Fraude y la Corrupción en Proyectos Financiados por los préstamos del BIRF y los Créditos y Subvenciones de la AIF”, de fecha 15 de octubre de 2006 y revisadas en enero del 2011 y a partir del 1 de julio del 2016.
 
-3. “Políticas de Salvaguardias de la Asociación” significa las Políticas Operacionales (PO) y los Procedimientos Bancarios (BP) del Banco, PO/ BP 4.01 (Evaluación Ambiental), PO/BP 4.04 (Habitats Naturales), PO/BP 4.09 (Manejo de Plagas) , PO/BP 4.10 (Pueblos Indígenas), PO/ BP 4.11 (Recursos Físicos Culturales ), PO/ BP 4.12 (Reasentamiento Involuntario), PO/BP
+3. “Políticas de Salvaguardias de la Asociación” significa las Políticas Operacionales (PO) y los Procedimientos Bancarios (BP) del Banco, PO/ BP 4.01 (Evaluación Ambiental), PO/BP 4.04 (Habitats Naturales), PO/BP 4.09 (Manejo de Plagas), PO/BP 4.10 (Pueblos Indígenas), PO/ BP 4.11 (Recursos Físicos Culturales ), PO/ BP 4.12 (Reasentamiento Involuntario), PO/BP
 
 4.36 (Bosques), y PO/BP 4.37 (Seguridad de las Represas); Se pueden encontrar en https://policies. worldbank.org.
 
@@ -1605,9 +1603,7 @@ Definiciones
 
 “Bono Vida Mejor”, el programa presidencial de transferencia de efectivo condicionadas del Receptor en Salud y Educación, cuyo objetivo principal es crear nuevas oportunidades para las familias en extrema pobreza, creado por el Decreto Ejecutivo del Receptor No. 010-2010 y actualizado por el Acuerdo Ejecutivo del Receptor No.- SEDIS-03-2015 (publicado en el Boletín Oficial del Receptor el 7 de febrero de 2015), tal y como el mismo puede ser modificado en su momento con el acuerdo de la Asociación.
 
-10. “Comité Técnico del Programa TMC” significa el comité establecido por el Decreto Presidencial No.
-
-PCM-010-2010 con fecha 14 de mayo de 2010, o cualquier sucesor del mismo aceptable para la Asociación.
+10. “Comité Técnico del Programa TMC” significa el comité establecido por el Decreto Presidencial No. PCM-010-2010 con fecha 14 de mayo de 2010, o cualquier sucesor del mismo aceptable para la Asociación.
 
 11. “CENISS” o “Centro Nacional de Información del Sector Social” significa el Centro Nacional de Información sobre el Sector Social del Receptor, o cualquier sucesor del mismo que sea aceptable para la Asociación.
 
@@ -1619,9 +1615,7 @@ PCM-010-2010 con fecha 14 de mayo de 2010, o cualquier sucesor del mismo aceptab
 
 15. “Parte Contingente de Respuesta a Emergencias” significa cualquier actividad o actividades que se lleven a cabo bajo la Parte 4 del Proyecto para responder a una Crisis o Emergencia Elegible.
 
-16. “Crédito Solidario” significa un programa independiente dentro de SEDIS creado por el Receptor mediante Decreto Ejecutivo No.
-
-PCM-05-2015 con fecha 3 de marzo de 2015 y actualizado por el Receptor mediante el Decreto Ejecutivo No. PCM-070-2018 con fecha 23 de noviembre de 2018, cuyo principal objetivo es brindar asistencia técnica y dar acceso a préstamos solidarios a empresarios en el territorio del Receptor, que deseen construir una microempresa.
+16. “Crédito Solidario” significa un programa independiente dentro de SEDIS creado por el Receptor mediante Decreto Ejecutivo No. PCM-05-2015 con fecha 3 de marzo de 2015 y actualizado por el Receptor mediante el Decreto Ejecutivo No. PCM-070-2018 con fecha 23 de noviembre de 2018, cuyo principal objetivo es brindar asistencia técnica y dar acceso a préstamos solidarios a empresarios en el territorio del Receptor, que deseen construir una microempresa.
 
 17. “TMC de Educación” significa una transferencia monetaria condicionada, por un importe calculado según lo establecido en el Manual de Operaciones del Proyecto, realizada con los ingresos de la Financiación a un Beneficiario Elegible que cumpla con las Corresponsabilidades de TMC de Educación, de acuerdo con los criterios y procedimientos establecidos en el Manual de Operaciones del Proyecto.
 
@@ -1691,7 +1685,7 @@ PCM-05-2015 con fecha 3 de marzo de 2015 y actualizado por el Receptor mediante 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.2282, suscrito el 20 de Agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), recursos destinados a financiar la ejecución del “PROGRAMA BONO DE ALIVIO A FAMILIAS VULNERABLES AFECTADAS POR FENÓMENOS NATURALES PRODUCTO DEL CAMBIO CLIMÁTICO”, que literalmente dice:
+ARTÍCULO 3.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 2282, suscrito el 20 de Agosto de 2021, entre el Banco Centroamericano de Integración Económica (BCIE), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de SETENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$70,000,000.00), recursos destinados a financiar la ejecución del “PROGRAMA BONO DE ALIVIO A FAMILIAS VULNERABLES AFECTADAS POR FENÓMENOS NATURALES PRODUCTO DEL CAMBIO CLIMÁTICO”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. CONTRATO DE PRÉSTAMO No. 2282.
 
@@ -2109,7 +2103,7 @@ CITIUS33 NUMERO DE CUENTA:
 
 A NOMBRE DE:
 
-BANCO CENTROAMERICANO D E I N T E G R A C I Ó N ECONOMICA REFERENCIA:
+BANCO CENTROAMERICANO DE INTEGRACIÓN ECONOMICA REFERENCIA:
 
 PRÉSTAMO No. 2282 Igualmente, el BCIE podrá modificar la cuenta y/o lugares en que el Prestatario deberá realizar los pagos en los términos y condiciones contenidos en este Contrato, en cuyo caso el BCIE deberá notificar por escrito al Prestatario, por lo menos con quince (15) días hábiles de anticipación a la fecha en que dicho cambio deba surtir efecto.
 
@@ -2793,7 +2787,7 @@ ANEXO E – FORMATO DE RECIBO DE DESEMBOLSO
 
 [Membrete del Prestatario]
 
-R E C I B O POR US$ _____
+RECIBO POR US$ _____
 
 Recibimos del Banco Centroamericano de Integración Económica (BCIE), la cantidad de [_______ dólares (US$ _____)], en concepto del [número de desembolso] desembolso con cargo al Contrato de Préstamo suscrito el [fecha del préstamo] y conforme a la solicitud de desembolso de fecha [fecha de la solicitud de desembolso].
 
@@ -2805,7 +2799,7 @@ Cargo:
 
 (Sello y Firma)
 
-ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero do 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+ANEXO F – FORMATO DE CERTIFICACION DE FIRMAS DEL PRESTATARIO DELEGACIÓN DE AUTORIDAD En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero do 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaría de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPUBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE NORTEAMERICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 

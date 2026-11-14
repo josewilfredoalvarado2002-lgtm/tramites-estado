@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Acuerdos Nos. FGR-JAZ-003-2024, FGR-JAZ-004-2024, FGR-JAZ-006-2024, FGR-JAZ-007-2024, FGR-JAZ-008-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240401-36497/download"
 extraido: "2026-11-14"
-huella: "500922cf460bef8e"
+huella: "0ae66cd834b06485"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. FGR-JAZ-003-2024
@@ -617,7 +617,7 @@ Artículo 5. El artículo 71-D entrara en vigencia en un (1) año posterior a la
 
 #### Artículo 6
 
-Artículo 6. Se derogan las circulares FGR-04-2016 que contempla el Procedimiento de Faltas Leves, FGR-006-2016 que contempla Procedimiento de Reposición previo a agotar impugnación ante el Consejo y Fiscalía General, FGR- 002-2018 que contempla el Procedimiento en el Consejo de Recepción de Agravios, traslados a la parte cuyo derecho fuere reconocido por el Tribunal Disciplinario y posterior emisión de resolución recomendando lo pertinente a la Fiscalía General de la República, FGR-005-2016 y las demás que contravengan las presentes reformas.
+Artículo 6. Se derogan las circulares FGR-04-2016 que contempla el Procedimiento de Faltas Leves, FGR-006-2016 que contempla Procedimiento de Reposición previo a agotar impugnación ante el Consejo y Fiscalía General, FGR-002-2018 que contempla el Procedimiento en el Consejo de Recepción de Agravios, traslados a la parte cuyo derecho fuere reconocido por el Tribunal Disciplinario y posterior emisión de resolución recomendando lo pertinente a la Fiscalía General de la República, FGR-005-2016 y las demás que contravengan las presentes reformas.
 
 El presente Acuerdo entrará en vigencia a partir de la fecha de su publicación a excepción del Artículo 5, en el Diario Oficial La Gaceta y deberá hacerse del conocimiento de todos los servidores y funcionarios del Ministerio Público a nivel nacional y de la población en general, por medio de la Secretaría General y de la División de Relaciones Públicas, Educación y Comunicación, respectivamente.
 

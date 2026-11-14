@@ -8,7 +8,7 @@ gaceta_numero: 36660
 gaceta_fecha: "2024-10-09"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36660 (2024-10-09)|La Gaceta 36660]]"
 paginas: "A. 2"
-sumario: "Acuerdo Ejecutivo No. 187-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024"
+sumario: "Acuerdo Ejecutivo No. 187-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241009-36660/download"
 extraido: "2026-11-14"
 huella: "63c5f5f4644dc3fe"
@@ -23,7 +23,7 @@ huella: "63c5f5f4644dc3fe"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36660 (2024-10-09)\|La Gaceta 36660]] del 2024-10-09 |
 | Páginas | A. 2 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 187-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo No. 187-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Ejecutivos Nos. 172-2024, 183-2024, 189-2024, 197-2024, 198-2024, 199-2024 SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo Ejecutivo Número 624-2024,Acuerdos Números 629-2024, 630-2024, 631-2024, 632-2024, 633-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA Acuerdo Ejecutivo No. SEN-106-2024 |
 
 ## Texto
 

@@ -11,7 +11,7 @@ paginas: "A. 3"
 sumario: "Acuerdos Nos. 138-2018, 139-2018, 174-2018, 184-2018"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201212-35457/download"
 extraido: "2026-11-14"
-huella: "33108bfe29f34c4b"
+huella: "38f3930a3b6a03ed"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 174-2018
@@ -27,7 +27,7 @@ huella: "33108bfe29f34c4b"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. 09/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200619-35288/download"
 extraido: "2026-11-14"
-huella: "c5278e4f8fa1c39b"
+huella: "bc1b57f5316a8c15"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.09/2020.- Sesión No.3842 del 18 de junio de 2020.-
@@ -31,19 +31,19 @@ EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que la Constitución de la República y la Ley del Banco Central de Honduras establecen que le corresponde al Banco Central de Honduras (BCH) formular, desarrollar y ejecutar la política monetaria, crediticia y cambiaria del país y organizar y reglamentar el funcionamiento del sistema de pagos de conformidad con las disposiciones legales vigentes.
 
-CONSIDERANDO: Que el Directorio del BCH, mediante el Acuerdo No.03/2020, del 6 de abril de 2020, publicado en el Diario Oficial La Gaceta el 7 de abril de 2020, reformó el Reglamento de Negociación de Valores Gubernamentales.
+CONSIDERANDO: Que el Directorio del BCH, mediante el Acuerdo No. 03/2020, del 6 de abril de 2020, publicado en el Diario Oficial La Gaceta el 7 de abril de 2020, reformó el Reglamento de Negociación de Valores Gubernamentales.
 
-CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), en Sesión No.175/15-6-2020 celebrada el 15 de junio de 2020, evaluó lo dispuesto en el Reglamento de Negociación de Valores Gubernamentales relativo a la Subasta de Compra de Valores del Banco Central de Honduras, el cual establece que la compra de valores se realizará mediante el mecanismo de subasta dirigida exclusivamente a las instituciones del sistema financiero, quienes presentarán sus ofertas, por lo que recomendó a este Directorio modificar los criterios necesarios respecto a la presentación de las ofertas de venta cuando el BCH efectúe operaciones de compra de valores gubernamentales; así como, permitir que las instituciones financieras que requieran mayores recursos líquidos puedan vender directamente a esta Institución, antes de su vencimiento, bonos del BCH.
+CONSIDERANDO: Que la Comisión de Operaciones de Mercado Abierto (COMA), en Sesión No. 175/15-6-2020 celebrada el 15 de junio de 2020, evaluó lo dispuesto en el Reglamento de Negociación de Valores Gubernamentales relativo a la Subasta de Compra de Valores del Banco Central de Honduras, el cual establece que la compra de valores se realizará mediante el mecanismo de subasta dirigida exclusivamente a las instituciones del sistema financiero, quienes presentarán sus ofertas, por lo que recomendó a este Directorio modificar los criterios necesarios respecto a la presentación de las ofertas de venta cuando el BCH efectúe operaciones de compra de valores gubernamentales; así como, permitir que las instituciones financieras que requieran mayores recursos líquidos puedan vender directamente a esta Institución, antes de su vencimiento, bonos del BCH.
 
 POR TANTO:
 
 Con fundamento en los artículos 255 y 342 de la Constitución de la República; 2, 6, 16, incisos a), f) y m), 23, 43 y 54 de la Ley del Banco Central de Honduras; 43 de la Ley del Sistema Financiero y 32 de la Ley de Procedimiento Administrativo,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Modificar el inciso a) del Artículo 36 del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No.03/2020 emitido por este Directorio el 6 de abril de 2020, el cual en adelante se leerá de la manera siguiente:
+Modificar el inciso a) del Artículo 36 del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No. 03/2020 emitido por este Directorio el 6 de abril de 2020, el cual en adelante se leerá de la manera siguiente:
 
 “ARTÍCULO 36. La adjudicación de las ofertas de venta aceptadas se hará en la forma siguiente:
 
@@ -57,7 +57,7 @@ d) En las subastas de reporto sólo se aceptarán las ofertas cuya tasa premio s
 
 Modificar el Artículo 26 y adicionar el Capítulo VI,
 
-Artículo 39 del Título III de las Subastas de Compra de Valores del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No.03/2020 emitido por este Directorio el 6 de abril de 2020, los que en adelante se leerán de la manera siguiente:
+Artículo 39 del Título III de las Subastas de Compra de Valores del Reglamento de Negociación de Valores Gubernamentales, contenido en el Acuerdo No. 03/2020 emitido por este Directorio el 6 de abril de 2020, los que en adelante se leerán de la manera siguiente:
 
 “TÍTULO III DE LAS SUBASTAS DE COMPRA Y NEGOCIACIÓN DIRECTA DE VALORES GUBERNAMENTALES
 

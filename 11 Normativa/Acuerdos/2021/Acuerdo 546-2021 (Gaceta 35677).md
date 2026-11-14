@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdo Ejecutivo número 380-2021, 546-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210804-35677/download"
 extraido: "2026-11-14"
-huella: "592f7b2b44e21c5e"
+huella: "dc9adff3412dea7b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 546-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquel ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM-107- 2021 de fecha 29 de julio de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del treinta (30) al treinta y uno (31) de julio, de dos mil veintiuno (2021), debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, formará parte de la delegación que acompañará al señor Presidente Constitucional de la República de Honduras, abogado Juan Orlando Hernández Alvarado, en el viaje oficial a la ciudad de México D.F., con la finalidad de participar en varias reuniones.
+CONSIDERANDO: Que mediante Memorando DM-107-2021 de fecha 29 de julio de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Ministra, por Ley en la ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del treinta (30) al treinta y uno (31) de julio, de dos mil veintiuno (2021), debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, formará parte de la delegación que acompañará al señor Presidente Constitucional de la República de Honduras, abogado Juan Orlando Hernández Alvarado, en el viaje oficial a la ciudad de México D.F., con la finalidad de participar en varias reuniones.
 
 POR TANTO:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 168"
 sumario: "Acuerdo CREE-37-2026; Resolución, Regulación de Aeronáutica Civil (RAC - 19); AVANCE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260601-37156/download"
 extraido: "2026-11-09"
-huella: "daf2358c450947fd"
+huella: "0aa6c34d7e2306da"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-37-2026; Resolución, Regulación de Aeronáutica Civil (RAC - 19); AVANCE
@@ -75,9 +75,7 @@ La estimación del cargo unitario de alumbrado público de 0.5113 L/kWh para el 
 
 Asimismo, mediante el referido dictamen, recomendó, entre otras cosas lo siguiente:
 
-i. Reconocer los costos asociados a la renta de la embarcación espaciadora como parte del costo de combustible (facturas No.
-
-000-001-01-00239826 y No. 000-001-01- 00240020), considerando que dichos costos se encuentran directamente vinculados al proceso de recepción del mismo y responden a una condición operativa debidamente justificada.
+i. Reconocer los costos asociados a la renta de la embarcación espaciadora como parte del costo de combustible (facturas No. 000-001-01-00239826 y No. 000-001-01-00240020), considerando que dichos costos se encuentran directamente vinculados al proceso de recepción del mismo y responden a una condición operativa debidamente justificada.
 
 IX.
 
@@ -141,7 +139,7 @@ Agencia Hondureña de Aeronáutica Civil
 
 REGULACIÓN DE AERONÁUTICA CIVIL RESOLUCIÓN.- REGULACION AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" AGENCIA HONDUREÑA DE AERONÁUTICA CIVIL. - COMAYAGÜELA, AGENCIA HONDUREÑA DE AERONÁUTICA CIVIL.- COMAYAGÜELA, MUNICIPIO EL DISTRITO CENTRAL.- Ocho (08) de diciembre de dos mil veinticinco (2025).- VISTA: Para aprobación de la Regulación de Aeronáutica Civil denominada RAC 19, contentiva "REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL". - El Director Ejecutivo de la Agencia Hondureña de Aeronaútica Civil valora lo siguiente: CONSIDERANDO (1): Que la Agencia Hondureña de Aeronáutica Civil (AHAC) en su condición de Autoridad Aeronáutica, es la encargada de dictar las normas y ejercer supervisión y vigilancia sobre todas las actividades relacionadas a la aviación civil que se desarrolla en la República de Honduras, asimismo dentro de las facultades de regulación se encuentra la competencia de emitir, aprobar, revisar, reformar o derogar las Regulaciones de Aeronáutica Civil de conformidad con la normativa aeronáutica nacional vigente.- CONSIDERANDO (2): Que las Regulaciones Aeronáuticas Civiles de Honduras, son normas de carácter eminentemente técnico, emitidas por la Agencia Hondureña de Aeronáutica Civil (AHAC), de conformidad con la Ley de Aeronáutica Civil, su Reglamento y las Recomendaciones de la Organización de Aviación Civil Internacional (OACI) o cualquier otro legalmente reconocidos por el Estado de Honduras.- CONSIDERADO (3): Que, en el Manual de Políticas y Procedimientos aprobado por esta Agencia, se estableció el procedimiento según código GEN-PRO-002 consistente en la ELABORACIÓN Y REVISIÓN DE LAS REGULACIONES DE AERONÁUTICA CIVIL, con vigencia en julio de 2018, atribuyendo a los departomentos técnicos la facultad de presentar un borrador de propuesta de enmienda y que la jefatura de la regulación afectada, considere que la propuesta es viable justificándola mediante un dictamen técnico por escrito.- CONSIDERANDO (4):
 
-Que en fecha veinte (20) de junio del año dos mil veinticinco (2025), el Departamento de Biblioteca Técnica, mediante oficio número REF-BT-033-2025, notifica al departamento SSP, las discrepancias encontradas en la revisión de la Regulación de Aeronáutica Civil REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", adjuntando copia de la lista de verificación documental en cumplimiento con lo establecido en el procedimiento GEN-PRO-002, con las observaciones y correcciones requeridas al documento en mención.- CONSIDERANDO (5): Que el departamento del Programa Estatal de Seguridad Operacional (SSP) mediante oficio AHAC-SSP-085-2025 de fecha 30 de julio del año 2025, remite a la Jefatura de la Biblioteca Técnica, las subsanaciones de las observaciones planteadas conforme a lo requerido.- CONSIDERANDO (6): Que el departamento de Biblioteca Técnica mediante oficio REFBT-047-2025 de fecha treinta y uno (31) de julio de dos mil veinticinco (2025) notifica al departamento del Programa Estatal de Seguridad Operacional (SSP) que se revisó la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" y se acepta por encontrarse conforme técnicamente y lo establecido por el procedimiento.- CONSIDERANDO (7): Que la Biblioteca Técnica mediante Oficio REFBT-064-2025 de fecha 14 de octubre del 2025, dando cumplimiento a lo establecido en el Procedimiento GENPRO-002 inciso 7, remite al departamento informática, copia digital de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", a fin de que se notifique por medio del sitio web oficial de la AHAC a la industria y proveedores pertinentes para que emita sus comentarios. Contando con 10 días calendario a partir de la comunicación, siendo la misma subida a la web en fecha veinte (20) de octubre del año dos mil veinticinco (2025).- CONSIDERANDO (8): Que el departamento de Biblioteca Técnica mediante oficio REF-BT-061-2025, de fecha 14 de octubre del 2025, Solicita a la Jefatura de la Seccion de AIS de la AHAC, se realice publicación de una AIC serie C para dar a conocer a los explotadores aéreos, proveedores de servicios y toda la industria de la aviación civil, que en el apartado de la página web "Proyectos de Regulaciones" se encuentra el borrador de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", a fin de que estos pueda emitir sus comentarios, contando con 10 días calendario a partir de la comunicación, asimismo, los comentarios deberán enviar a los correos rpas@ahac.gob.hn y gmazzoni@ahac.gob.hn, realizándose dicha publificación en fecha 29 de octubre del año 2025.- CONSIDERANDO (9): Que el departamento de Informática mediante oficio DTl- 053- 2025, de fecha 03 de noviembre de 2025, informa que el viernes 31 de octubre del año 2025, se cumplió el tiempo de publicación de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" por lo que ya se retiró de la página web de proyecto de regulaciones, dando cumplimiento al procedimiento GEN-PRO-002.- CONSIDERANDO (10):
+Que en fecha veinte (20) de junio del año dos mil veinticinco (2025), el Departamento de Biblioteca Técnica, mediante oficio número REF-BT-033-2025, notifica al departamento SSP, las discrepancias encontradas en la revisión de la Regulación de Aeronáutica Civil REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", adjuntando copia de la lista de verificación documental en cumplimiento con lo establecido en el procedimiento GEN-PRO-002, con las observaciones y correcciones requeridas al documento en mención.- CONSIDERANDO (5): Que el departamento del Programa Estatal de Seguridad Operacional (SSP) mediante oficio AHAC-SSP-085-2025 de fecha 30 de julio del año 2025, remite a la Jefatura de la Biblioteca Técnica, las subsanaciones de las observaciones planteadas conforme a lo requerido.- CONSIDERANDO (6): Que el departamento de Biblioteca Técnica mediante oficio REFBT-047-2025 de fecha treinta y uno (31) de julio de dos mil veinticinco (2025) notifica al departamento del Programa Estatal de Seguridad Operacional (SSP) que se revisó la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" y se acepta por encontrarse conforme técnicamente y lo establecido por el procedimiento.- CONSIDERANDO (7): Que la Biblioteca Técnica mediante Oficio REFBT-064-2025 de fecha 14 de octubre del 2025, dando cumplimiento a lo establecido en el Procedimiento GENPRO-002 inciso 7, remite al departamento informática, copia digital de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", a fin de que se notifique por medio del sitio web oficial de la AHAC a la industria y proveedores pertinentes para que emita sus comentarios. Contando con 10 días calendario a partir de la comunicación, siendo la misma subida a la web en fecha veinte (20) de octubre del año dos mil veinticinco (2025).- CONSIDERANDO (8): Que el departamento de Biblioteca Técnica mediante oficio REF-BT-061-2025, de fecha 14 de octubre del 2025, Solicita a la Jefatura de la Seccion de AIS de la AHAC, se realice publicación de una AIC serie C para dar a conocer a los explotadores aéreos, proveedores de servicios y toda la industria de la aviación civil, que en el apartado de la página web "Proyectos de Regulaciones" se encuentra el borrador de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL", a fin de que estos pueda emitir sus comentarios, contando con 10 días calendario a partir de la comunicación, asimismo, los comentarios deberán enviar a los correos rpas@ahac.gob.hn y gmazzoni@ahac.gob.hn, realizándose dicha publificación en fecha 29 de octubre del año 2025.- CONSIDERANDO (9): Que el departamento de Informática mediante oficio DTl- 053-2025, de fecha 03 de noviembre de 2025, informa que el viernes 31 de octubre del año 2025, se cumplió el tiempo de publicación de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" por lo que ya se retiró de la página web de proyecto de regulaciones, dando cumplimiento al procedimiento GEN-PRO-002.- CONSIDERANDO (10):
 
 Que el departamento de Biblioteca Técnica mediante oficio REF-BT-066-2025 de fecha cuatro (04) de noviembre del año dos mil veinticinco (2025), remite en formato digital y físico la regulación. REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" al departamento de Asesoría Técnico Legal para que emita el dictamen técnico vinculante que conforme a derecho corresponde, y así continuar con el proceso de aprobación de dichas regulaciones; emitiéndose dictamen legal en fecha doce (12) de noviembre de dos mil veinticinco (2025), en el cual se dictamina FAVORABLE a la aprobación de la REGULACIÓN AERONÁUTICA CIVIL RAC-19 "GESTIÓN DE LA SEGURIDAD OPERACIONAL" PRIMERA EDICIÓN, por haberse cumplido el procedimiento GEN-PRO-002 de Elaboración. y Revisión de las Regulaciones de Aeronáutica Civil, las cuales derivan de las normas y métodos recomendados por la Organización Internacional de Aviación Civil (OACI).-
 
@@ -479,7 +477,7 @@ RAC 19.015 Aplicabilidad
 
 (a) Este RAC 19 prescribe las normas que regulan un Sistema de Gestión de la Seguridad
 
-(1) Organizaciones de instrucción reconocidas, de conformidad con el RAC-LPTA, RAC- 141, regulación de las Escuelas de Aviación vigente, que están expuestas a riesgos de seguridad operacional relacionados con las operaciones de aeronaves al prestar sus servicios;
+(1) Organizaciones de instrucción reconocidas, de conformidad con el RAC-LPTA, RAC-141, regulación de las Escuelas de Aviación vigente, que están expuestas a riesgos de seguridad operacional relacionados con las operaciones de aeronaves al prestar sus servicios;
 
 (2) Explotadores de aviones o helicópteros autorizados para llevar a cabo actividades de transporte aéreo comercial internacional, de conformidad con el RAC OPS 1, el RAC 02, y la RAC OPS 3 Transporte Aéreo Comercial Nacional e Internacional (Helicópteros).
 
@@ -531,7 +529,7 @@ RAC 19.020 Enunciado de los Componentes y Elementos del SMS (Ver Apéndice 5) (a
 
 (ii) Comunicación de la seguridad operacional.
 
-RAC 19.025 Reconocimiento del SMS de Organizaciones de Instrucción de otros Estados Para toda organización de instrucción reconocida extranjera, a la cual se le haya aceptado debidamente un SMS por la autoridad civil del Estado responsable, la Dirección Ejecutiva de la Julio del 2025 1-C-2 Primera Edición RAC 19 Agencia Hondureña de Aeronáutica Civil (AHAC) , a través del Departamento del Programa Estatal de Seguridad Operacional (SSP), podrá reconocer como bueno y válido dicho SMS para los efectos de cumplimiento con lo relativo a entrenamiento y evaluación de personal aeronáutico prescritos bajo el RAC-LPTA, previa evaluación por parte del SSP de la documentación del Estado responsable.
+RAC 19.025 Reconocimiento del SMS de Organizaciones de Instrucción de otros Estados Para toda organización de instrucción reconocida extranjera, a la cual se le haya aceptado debidamente un SMS por la autoridad civil del Estado responsable, la Dirección Ejecutiva de la Julio del 2025 1-C-2 Primera Edición RAC 19 Agencia Hondureña de Aeronáutica Civil (AHAC), a través del Departamento del Programa Estatal de Seguridad Operacional (SSP), podrá reconocer como bueno y válido dicho SMS para los efectos de cumplimiento con lo relativo a entrenamiento y evaluación de personal aeronáutico prescritos bajo el RAC-LPTA, previa evaluación por parte del SSP de la documentación del Estado responsable.
 
 En caso necesario, el SSP coordinará una auditoría dirigida al organismo de instrucción de otros Estados de acuerdo con lo establecido en la presente regulación en lo que respecta a la aceptación y auditorías del SMS.
 
@@ -1185,7 +1183,7 @@ Julio del 2025 1-I-1 Primera Edición Sección 1 RAC 19
 
 (c) Designación del personal clave de seguridad operacional:
 
-(1) Identifique al Gerente de Seguridad Operacional, que será responsable de administrar el sistema en nombre del Ejecutivo Responsable, de conformidad con lo requerido en las subsecciones RAC-19.070 y RAC- 19.080.
+(1) Identifique al Gerente de Seguridad Operacional, que será responsable de administrar el sistema en nombre del Ejecutivo Responsable, de conformidad con lo requerido en las subsecciones RAC-19.070 y RAC-19.080.
 
 (2) Defina la conformación y el establecimiento de la oficina de servicios de
 
@@ -1213,7 +1211,7 @@ Julio del 2025 1-I-2 Primera Edición Sección 1 RAC 19
 
 (b) Obligación de rendición de cuentas sobre la seguridad operacional
 
-(1) Defina y comunique las responsabilidades de la seguridad operacional en toda la organización, de conformidad con lo requerido en la subsección RAC- 19.060;
+(1) Defina y comunique las responsabilidades de la seguridad operacional en toda la organización, de conformidad con lo requerido en la subsección RAC-19.060;
 
 (2) Establezca el comité de revisión de la seguridad operacional (SRB), de conformidad con lo requerido en la subsección RAC-19.085 (a);
 
@@ -1231,7 +1229,7 @@ Julio del 2025 1-I-2 Primera Edición Sección 1 RAC 19
 
 (3) Establezca la coordinación entre los diferentes ERP, de conformidad con lo requerido en la subsección RAC-19.090 (b);
 
-(4) Desarrolle un ERP, de conformidad con lo requerido en la subsección RAC- 19.090; y
+(4) Desarrolle un ERP, de conformidad con lo requerido en la subsección RAC-19.090; y
 
 (5) Realice ensayos por medio de ejercicios, de conformidad con lo requerido en
 
@@ -1255,13 +1253,13 @@ Todo proveedor de servicios bajo el componente III, debe establecer procesos de 
 
 (1) Establezca un procedimiento de notificación voluntaria, de conformidad con lo requerido en la subsección RAC-19.230 (h) (2);
 
-(2) Establezca un programa/plan para la revisión sistemática de todos los procesos/equipos relacionados con la seguridad operacional que sean idóneos para la identificación de peligros, de conformidad con lo requerido en la subsección RAC- 19.230; y
+(2) Establezca un programa/plan para la revisión sistemática de todos los procesos/equipos relacionados con la seguridad operacional que sean idóneos para la identificación de peligros, de conformidad con lo requerido en la subsección RAC-19.230; y
 
-(3) Establezca un procedimiento para la identificación de peligros, de conformidad con lo requerido en las subsecciones RAC-19.235 y RAC- 19.245.
+(3) Establezca un procedimiento para la identificación de peligros, de conformidad con lo requerido en las subsecciones RAC-19.235 y RAC-19.245.
 
 (b) Evaluación y mitigación de riesgos de seguridad operacional:
 
-(1) Establezca un procedimiento de gestión de riesgos de la seguridad operacional, de conformidad con lo requerido en las subsecciones RAC- 19.235, RAC-19.240 y RAC-19.245; y
+(1) Establezca un procedimiento de gestión de riesgos de la seguridad operacional, de conformidad con lo requerido en las subsecciones RAC-19.235, RAC-19.240 y RAC-19.245; y
 
 (2) Desarrolle y establezca matrices de riesgos de seguridad operacional pertinentes para los procesos operacionales y de producción de la organización, de conformidad con lo requerido en la subsección RAC-19.240.
 
@@ -1279,7 +1277,7 @@ Todo proveedor de servicios bajo el componente III, debe establecer procesos de 
 
 (2) Garantice que los procedimientos de la gestión del cambio aborden el impacto de los registros existentes de rendimiento en materia de seguridad operacional y de mitigación de riesgos antes de implementar nuevos cambios, de conformidad con lo requerido en la subsección RAC-19.125; y
 
-(3) Establezca procedimientos para garantizar que se lleve a cabo (o se considere) la evaluación de seguridad operacional de las operaciones, los procesos y los equipos relacionados con la seguridad operacional de la aviación, según corresponda, antes de ponerlos en servicio, de conformidad con lo requerido en la subsección RAC- 19.125.
+(3) Establezca procedimientos para garantizar que se lleve a cabo (o se considere) la evaluación de seguridad operacional de las operaciones, los procesos y los equipos relacionados con la seguridad operacional de la aviación, según corresponda, antes de ponerlos en servicio, de conformidad con lo requerido en la subsección RAC-19.125.
 
 (e) Mejora continua
 
@@ -1287,7 +1285,7 @@ Todo proveedor de servicios bajo el componente III, debe establecer procesos de 
 
 (2) Defina un proceso de auditoría externa y de conformidad con lo requerido en las sección RAC-19.120 (c);
 
-(3) Defina un programa para la evaluación de instalaciones, equipos, documentación y procedimientos que se deben completar mediante auditorías y estudios de conformidad con lo requerido en la subsección RAC- 19.130; y
+(3) Defina un programa para la evaluación de instalaciones, equipos, documentación y procedimientos que se deben completar mediante auditorías y estudios de conformidad con lo requerido en la subsección RAC-19.130; y
 
 (f) Instrucción y educación
 
@@ -2005,7 +2003,7 @@ Observación del rendimiento en materia de seguridad operacional Una vez que la 
 
 Deberían establecerse mecanismos para la observación y medición del rendimiento de la organización en materia de seguridad operacional a efectos de identificar los cambios que puedan ser necesarios si el progreso alcanzado no es el esperado y reforzar el compromiso de la organización para satisfacer sus objetivos de seguridad operacional.
 
-Rendimiento básico en materia de seguridad operacional La comprensión de la forma en que los planes de la organización avanzan hacia sus objetivos de seguridad operacional exige saber dónde se encuentra en relación con la misma. Una vez establecida y funcionando la estructura de rendimiento en materia de seguridad operacional de la organización (objetivos, indicadores, metas, activadores de seguridad operacional), es posible conocer su rendimiento básico en la materia a través de un período de control y observación. El rendimiento básico en materia de seguridad operacional es el desempeño de seguridad operacional al inicio del proceso de medición de dicho rendimiento, el punto de referencia a partir del cual pueda medirse el progreso. En el ejemplo de las Figuras 5-2 y 5- 3, el rendimiento básico en materia de seguridad operacional para ese objetivo determinado “100 salidas de pistas por millón de movimientos durante el año (2018)”. A partir de esta base sólida, pueden registrarse indicadores y metas precisas y significativas.
+Rendimiento básico en materia de seguridad operacional La comprensión de la forma en que los planes de la organización avanzan hacia sus objetivos de seguridad operacional exige saber dónde se encuentra en relación con la misma. Una vez establecida y funcionando la estructura de rendimiento en materia de seguridad operacional de la organización (objetivos, indicadores, metas, activadores de seguridad operacional), es posible conocer su rendimiento básico en la materia a través de un período de control y observación. El rendimiento básico en materia de seguridad operacional es el desempeño de seguridad operacional al inicio del proceso de medición de dicho rendimiento, el punto de referencia a partir del cual pueda medirse el progreso. En el ejemplo de las Figuras 5-2 y 5-3, el rendimiento básico en materia de seguridad operacional para ese objetivo determinado “100 salidas de pistas por millón de movimientos durante el año (2018)”. A partir de esta base sólida, pueden registrarse indicadores y metas precisas y significativas.
 
 Perfeccionamiento de los SPI y los SPT Los SPI y las SPT conexas deben revisarse para determinar si están proporcionando la información necesaria para el seguimiento de los progresos alcanzados hacia los objetivos de seguridad operacional y garantizar que las metas son realistas y pueden alcanzarse.
 

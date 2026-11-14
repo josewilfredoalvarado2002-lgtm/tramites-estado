@@ -11,7 +11,7 @@ paginas: "A. 25 - 27"
 sumario: "Acuerdo Números 280-2026, 319-2026, 325-2026, 361-2026, 362-2026, 365-2026, 396-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260612-37166/download"
 extraido: "2026-11-09"
-huella: "980e5fccdb4deba0"
+huella: "90fdf030178dc2cb"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 362-2026
@@ -49,7 +49,7 @@ CONSIDERANDO (9): Que la Cámara de Comercio e Industria de Cortés (CCIC), es u
 
 CONSIDERANDO (10): Que es conveniente que ambas instituciones coordinen acciones y colaboren para fortalecer la eficiencia y transparencia en la gestión pública; para contribuir al cumplimiento eficiente en sus fines y objetivos institucionales.
 
-CONSIDERANDO (11): Que mediante Acuerdo Ejecutivo Número 023-2026 de fecha 27 de enero del año 2026, el señor Presidente Constitucional de la República nombró al ciudadano R O B E R T O E N R I Q U E CHANG LÓPEZ, en el cargo de Subsecretario de Finanzas y Presupuesto de la Secretaría de Estado en el Despacho de Finanzas.
+CONSIDERANDO (11): Que mediante Acuerdo Ejecutivo Número 023-2026 de fecha 27 de enero del año 2026, el señor Presidente Constitucional de la República nombró al ciudadano ROBERTO ENRIQUE CHANG LÓPEZ, en el cargo de Subsecretario de Finanzas y Presupuesto de la Secretaría de Estado en el Despacho de Finanzas.
 
 POR TANTO:
 
@@ -63,7 +63,7 @@ PRIMERO:
 
 Delegar en el ciudadano ROBERTO
 
-E N R I Q U E C H A N G L Ó P E Z , Subsecretario de Finanzas y Presupuesto, l a f i r m a d e l C O N V E N I O D E COOPERACIÓN MUTUA ENTRE LA CÁMARA DE COMERCIO E INDUSTRIA DE CORTÉS (CCIC) Y LA SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS, A TRAVÉS DE LA OFICINA NORMATIVA DE CONTRATACIÓN Y ADQUISICIONES DEL ESTADO (ONCAE).
+ENRIQUE CHANG LÓPEZ, Subsecretario de Finanzas y Presupuesto, la firma del CONVENIO DE COOPERACIÓN MUTUA ENTRE LA CÁMARA DE COMERCIO E INDUSTRIA DE CORTÉS (CCIC) Y LA SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS, A TRAVÉS DE LA OFICINA NORMATIVA DE CONTRATACIÓN Y ADQUISICIONES DEL ESTADO (ONCAE).
 
 SEGUNDO:
 

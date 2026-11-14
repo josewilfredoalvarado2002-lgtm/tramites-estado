@@ -8,10 +8,10 @@ gaceta_numero: 36135
 gaceta_fecha: "2023-01-21"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36135 (2023-01-21)|La Gaceta 36135]]"
 paginas: "A. 3 - 5"
-sumario: "Acuerdo No. 004-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 007-2023, 008-2023"
+sumario: "Acuerdo No. 004-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 007-2023, 008-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230121-36135/download"
 extraido: "2026-11-14"
-huella: "8aaa8569525deac4"
+huella: "d85058263fbcd475"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 007-2023
@@ -23,7 +23,7 @@ huella: "8aaa8569525deac4"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36135 (2023-01-21)\|La Gaceta 36135]] del 2023-01-21 |
 | Páginas | A. 3 - 5 |
-| Según el sumario de La Gaceta | Acuerdo No. 004-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdos Ministeriales Nos. 007-2023, 008-2023 |
+| Según el sumario de La Gaceta | Acuerdo No. 004-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdos Ministeriales Nos. 007-2023, 008-2023 |
 
 ## Texto
 
@@ -47,15 +47,11 @@ CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería (SAG) mediante Ofic
 
 POR TANTO:
 
-La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los artículos 255 de la Constitución de la República; 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No.
-
-SAG-125-2022 de fecha 18 de mayo de 2022; Acuerdo No.
-
-SAG-002-2023 de fecha 09 de enero de 2023.
+La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los artículos 255 de la Constitución de la República; 36 Numeral 8), 116, 118, 119 Numeral 3) y 122 de la Ley General de la Administración Pública; 80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No. SAG-125-2022 de fecha 18 de mayo de 2022; Acuerdo No. SAG-002-2023 de fecha 09 de enero de 2023.
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de SETENTA Y CUATRO MIL CIENTO SESENTA Y OCHO PUNTO CINCUENTA Y CUATRO TONELADAS MÉTRICAS (74,168.54 TM), con un DAI del cero por ciento (0%), con vigencia hasta el 31 de diciembre de 2023, en aplicación del Acuerdo No. SAG-002- 2023 de fecha 09 de enero de 2023, correspondiente al primer corte de maíz blanco de la cosecha nacional 2022-2023, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022), detallado a continuación:
+PRIMERO: Aperturar un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de SETENTA Y CUATRO MIL CIENTO SESENTA Y OCHO PUNTO CINCUENTA Y CUATRO TONELADAS MÉTRICAS (74,168.54 TM), con un DAI del cero por ciento (0%), con vigencia hasta el 31 de diciembre de 2023, en aplicación del Acuerdo No. SAG-002-2023 de fecha 09 de enero de 2023, correspondiente al primer corte de maíz blanco de la cosecha nacional 2022-2023, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo SAG-125-2022), detallado a continuación:
 
 No.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220607-35943/download"
 extraido: "2026-11-14"
-huella: "58f33984bd827133"
+huella: "95403e08d0b6b754"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -91,7 +91,7 @@ PARTE DISPOSITIVA
 
 La Corte Suprema de Justicia, por unanimidad de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias,
 
-A C U E R D A
+ACUERDA
 
 PRIMERO. Crear y organizar el Tribunal de Sentencia de Roatán, Islas de la Bahía, con competencia territorial en todos los municipios de dicho departamento.
 

@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Acuerdo No. SETRASS-549-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260911-37244/download"
 extraido: "2026-11-09"
-huella: "46c5ad578b97e00b"
+huella: "2d0ad6c984afb489"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-549-2026
@@ -29,7 +29,7 @@ huella: "46c5ad578b97e00b"
 
 EL SECRETARIO DE ESTADO DE LA SECRETARÍA DE TRABAJO Y SEGURIDAD SOCIAL Tegucigalpa, M. D. C., 26 de agosto de 2026
 
-CONSIDERANDO (1): Que, mediante Acuerdo Ejecutivo No.029-2026 de fecha 27 de enero de 2026, se nombra al ciudadano FERNANDO PUERTO CASTRO, como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
+CONSIDERANDO (1): Que, mediante Acuerdo Ejecutivo No. 029-2026 de fecha 27 de enero de 2026, se nombra al ciudadano FERNANDO PUERTO CASTRO, como Secretario de Estado de la Secretaría de Trabajo y Seguridad Social.
 
 CONSIDERANDO (2): Que, el artículo 36 de la Ley General de la Administración Pública, en su numeral 1, establece que corresponde a los Secretarios de Estado, como atribuciones y deberes comunes, orientar, dirigir, coordinar, supervisar y controlar las actividades de sus respectivos despachos, sin perjuicio de las competencias que la Constitución de la República y las leyes confieran a otros órganos del Estado.
 
@@ -39,7 +39,7 @@ CONSIDERANDO (4): Que, el artículo 4, párrafo segundo, de la Ley de Procedimie
 
 CONSIDERANDO (5): Que, el Artículo 5 de la Ley de Procedimiento Administrativo establece que el acto de delegación podrá contener instrucciones obligatorias para el órgano delegado en materia procedimental expresándose y se entenderán adoptados por el órgano delegante. No obstante, la responsabilidad que se derivare de la emisión de los actos, será imputable al órgano delegado.
 
-CONSIDERANDO (6): Que, mediante el Decreto Ejecutivo PCM 04-2014 publicado en el Diario Oficial “La Gaceta” en fecha veintiocho (28) de febrero de dos mil catorce (2014), edición número 33,367, se crea el PROGRAMA PRESIDENCIAL DE EMPLEO CON CHAMBA VIVÍS MEJOR y los Proyectos de Empleo que lo conforman, adscrito a la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL por un periodo de cuatro (4) años comprendidos entre el dos mil catorce al dos mil dieciocho (2014-2018) y prorrogada su existencia mediante Decreto Ejecutivo número PCM-039- 2019 publicado en el Diario Oficial “La Gaceta” en fecha quince (15) de agosto de dos mil diecinueve (2019), edición número 35,023.
+CONSIDERANDO (6): Que, mediante el Decreto Ejecutivo PCM 04-2014 publicado en el Diario Oficial “La Gaceta” en fecha veintiocho (28) de febrero de dos mil catorce (2014), edición número 33,367, se crea el PROGRAMA PRESIDENCIAL DE EMPLEO CON CHAMBA VIVÍS MEJOR y los Proyectos de Empleo que lo conforman, adscrito a la SECRETARÍA DE ESTADO EN LOS DESPACHOS DE TRABAJO Y SEGURIDAD SOCIAL por un periodo de cuatro (4) años comprendidos entre el dos mil catorce al dos mil dieciocho (2014-2018) y prorrogada su existencia mediante Decreto Ejecutivo número PCM-039-2019 publicado en el Diario Oficial “La Gaceta” en fecha quince (15) de agosto de dos mil diecinueve (2019), edición número 35,023.
 
 CONSIDERANDO (7): Que, el PROGRAMA
 

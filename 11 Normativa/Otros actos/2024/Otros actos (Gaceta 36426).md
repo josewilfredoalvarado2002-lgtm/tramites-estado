@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo Número PCM 54-2023; Certificación"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240105-36426/download"
 extraido: "2026-11-14"
-huella: "a849152f2f0df8ca"
+huella: "1869941fdd114770"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 54-2023; Certificación
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Ley General de la Administración Pública dispone que la P
 
 CONSIDERANDO: Que la Ley General de la Administración Pública establece que el Consejo de Secretarios de Estado tiene la atribución de crear, modificar, fusionar, escindir o suprimir dependencias de la Administración Pública (artículo 22 numeral 3).
 
-CONSIDERANDO: Que mediante Decreto No.903, emitido por la Junta Militar de Gobierno en Consejo de Ministros de fecha 24 de Marzo de 1980 y publicada en el Diario Oficial “La Gaceta” en fecha 28 de Marzo de 1980, en su edición número 23,067, así como sus reformas contentivas en el Decreto No.31-92 de fecha 5 de Marzo de 1992 publicado en el Diario Oficial “La Gaceta” en fecha 6 de abril de 1992, se creó el Banco Nacional de Desarrollo Agrícola (BANADESA), como una institución autónoma de duración indefinida con personería y capacidad jurídica propia, que tiene por objetivo canalizar recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas.
+CONSIDERANDO: Que mediante Decreto No. 903, emitido por la Junta Militar de Gobierno en Consejo de Ministros de fecha 24 de Marzo de 1980 y publicada en el Diario Oficial “La Gaceta” en fecha 28 de Marzo de 1980, en su edición número 23,067, así como sus reformas contentivas en el Decreto No. 31-92 de fecha 5 de Marzo de 1992 publicado en el Diario Oficial “La Gaceta” en fecha 6 de abril de 1992, se creó el Banco Nacional de Desarrollo Agrícola (BANADESA), como una institución autónoma de duración indefinida con personería y capacidad jurídica propia, que tiene por objetivo canalizar recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas.
 
 CONSIDERANDO: Que el Decreto Legislativo número 27-2020 de fecha 12 de marzo de 2020, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Junio de 2020, en su edición número 35,279, se dejó en suspenso el artículo 5 de la Ley del Banco Nacional de Desarrollo Agrícola (BANADESA), contenida en el Decreto No. 903 de fecha 28 de marzo de 1980, medida que fue adoptada en ese momento con el objeto de sustituir el Gobierno Corporativo de la Institución. Esta intervención tuvo como resultado la paralización del proceso de recuperación de créditos, del seguimiento de los procesos de inversión, debilitamiento de los controles internos, reducción del personal, limitando la realización de actividades fundamentales del banco para el desarrollo del sector agropecuario y apoyo a la MIPYME.
 
@@ -111,7 +111,7 @@ COMUNÍQUESE Y PUBLÍQUESE IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚB
 
 CONSIDERANDO: Que mediante Decreto Legislativo 59-2012, se crea la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT), como un órgano desconcentrado del Poder Ejecutivo, con personalidad jurídica, autonomía organizativa, técnica, financiera y presupuestaría.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 59- 2012 artículo 14 de la Ley Contra la Trata de Personas; el Secretario Ejecutivo será nombrado por la Junta Directiva de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT), en base a convocatoria pública y según los términos de referencia para su contratación, quien será representante legal y administrador(a) de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT). La duración en el cargo será de tres (3) años, prorrogable, el ejercicio de sus funciones será a tiempo completo, debiendo reunir los requisitos siguientes:
+CONSIDERANDO: Que mediante Decreto Legislativo 59-2012 artículo 14 de la Ley Contra la Trata de Personas; el Secretario Ejecutivo será nombrado por la Junta Directiva de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT), en base a convocatoria pública y según los términos de referencia para su contratación, quien será representante legal y administrador(a) de la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT). La duración en el cargo será de tres (3) años, prorrogable, el ejercicio de sus funciones será a tiempo completo, debiendo reunir los requisitos siguientes:
 
 1. Ser hondureño(a) por nacimiento
 

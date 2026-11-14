@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto 212-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260930-37259/download"
 extraido: "2026-11-09"
-huella: "b294db8c06af39c5"
+huella: "b46cff40a6eafd33"
 ---
 <!-- portal:inicio -->
 # DECRETO 212-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -93,13 +93,13 @@ Asimismo, se instruye a los fideicomitentes de los respectivos fideicomisos para
 
 #### Artículo 6
 
-ARTÍCULO 6.- Reformar los artículos 37 y 238 del Decreto No.62-2026 contentivo de las DISPOSICIONES DEL PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, el cual debe leerse de la forma siguiente:
+ARTÍCULO 6.- Reformar los artículos 37 y 238 del Decreto No. 62-2026 contentivo de las DISPOSICIONES DEL PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, el cual debe leerse de la forma siguiente:
 
 “ARTÍCULO 37.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que suscriba Convenios de Financiamiento con Empresas Públicas y Bancos Estatales, con Fondos del Tesoro Nacional (Fuente 11) u otra fuente que se identifique, pudiendo transferirlo en las mismas condiciones que se adquieran los recursos, en condiciones financieras más favorables o en carácter no reembolsable.
 
 La Secretaría de Estado en el Despacho de Finanzas (SEFIN), las Empresas Públicas y Bancos Estatales deben crear las partidas presupuestarias de ingresos y gastos necesarios en el Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2026, para el registro de las operaciones derivadas de la aplicación de la presente disposición, durante la vigencia de dichas obligaciones.
 
-Lo anterior, en el marco de la Ley de Responsabilidad Fiscal, contenida en el Decreto No.25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016.
+Lo anterior, en el marco de la Ley de Responsabilidad Fiscal, contenida en el Decreto No. 25-2016 del 7 de abril de 2016, publicado en el Diario Oficial “La Gaceta” de fecha 4 de mayo de 2016.
 
 Asimismo, cuando sea permitido por las condiciones de la operación respectiva, se podrán suscribir enmiendas para registrar y transferir los recursos en carácter no reembolsables a las empresas públicas, de los programas de inversión pública para que estén bajo ejecución”.
 
@@ -111,7 +111,7 @@ Artículo a la Institución 412, Secretaría de Estado en el Despacho de Desarro
 
 #### Artículo 7
 
-ARTÍCULO 7.- Reformar por adición los artículos 3-A, 95-A, 299-A y 306-A, del Decreto No.62- 2026, contentivo de las DISPOSICIONES DEL PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, los cuales se leerán así:
+ARTÍCULO 7.- Reformar por adición los artículos 3-A, 95-A, 299-A y 306-A, del Decreto No. 62-2026, contentivo de las DISPOSICIONES DEL PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA, los cuales se leerán así:
 
 “ARTÍCULO 3-A.- La auditoría interna de la Institución 100 deberá de emitir constancia de solvencia/finiquito a los delegados de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) en las Juntas Directivas u órganos colegiados de las empresas públicas e instituciones Desconcentradas y Descentralizadas o Comités Técnicos de Fideicomisos a más tardar el quince (15) de enero de cada año.
 
@@ -127,13 +127,13 @@ Las máximas autoridades de las instituciones serán responsables de promover op
 
 “ARTÍCULO 299-A.- Para el Ejercicio Fiscal 2026, se autoriza e instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, a su discreción y con base en sus análisis, programación y proyecciones de ejecución presupuestaria y financiera, identifique dentro del presupuesto vigente de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) las asignaciones presupuestarias disponibles, con baja o nula ejecución, o aquellas que, conforme a las proyecciones de la Secretaría de Estado en los Despachos de Finanzas (SEFIN), se estime que no serán ejecutadas total o parcialmente durante el presente Ejercicio Fiscal.
 
-La Secretaría de Estado en el Despacho de Finanzas (SEFIN) queda autorizada para que, por una sola vez, efectúe directamente las modificaciones y redistribuciones presupuestarias correspondientes sobre las asignaciones identificadas, hasta por un monto de CIENTO CINCUENTA M I L L O N E S D E L E M P I R A S EXACTOS (L.150,000,000.00), para su traslado al Instituto Hondureño de Mercadeo Agrícola (IHMA), con el objeto de la Compra y Comercialización de Granos Básicos mediante la Institución 109 y la Secretaría de Estado en el Despacho Desarrollo Económico (SDE).
+La Secretaría de Estado en el Despacho de Finanzas (SEFIN) queda autorizada para que, por una sola vez, efectúe directamente las modificaciones y redistribuciones presupuestarias correspondientes sobre las asignaciones identificadas, hasta por un monto de CIENTO CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L.150,000,000.00), para su traslado al Instituto Hondureño de Mercadeo Agrícola (IHMA), con el objeto de la Compra y Comercialización de Granos Básicos mediante la Institución 109 y la Secretaría de Estado en el Despacho Desarrollo Económico (SDE).
 
 Los recursos se destinarán exclusivamente a la compra de granos básicos producidos en el territorio nacional, sólo para pequeños y medianos productores, así como a las operaciones directamente relacionadas con su almacenamiento, manejo, movilización y comercialización, con el propósito de fortalecer la producción nacional, las reservas estratégicas, la seguridad alimentaria y el abastecimiento del mercado interno.
 
 Las compras realizadas con los presentes recursos deberán estar debidamente documentadas y respaldadas mediante comprobantes fiscales válidos y vigentes autorizados por el Servicio de Administración de Rentas (SAR), incluyendo el Código de Autorización de Impresión (CAI), cuando corresponda conforme a la normativa tributaria aplicable. El Instituto Hondureño de Mercadeo Agrícola (IHMA) deberá identificar y mantener registro de los pequeños y medianos productores beneficiados, cantidades adquiridas, precios pagados, procedencia del producto y documentación fiscal que respalde cada operación.
 
-Para el cumplimiento del presente Artículo, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) queda facultada, a su discreción y de conformidad con sus proyecciones de cierre del Ejercicio Fiscal 2026, para determinar las asignaciones, estructuras presupuestarias y montos que serán objeto de redistribución, así como para realizar las modificaciones, d i s m i n u c i o n e s , a m p l i a c i o n e s , transferencias, incorporaciones y demás operaciones presupuestarias y financieras necesarias, observando las fuentes de financiamiento, disponibilidades y demás normativa aplicable.
+Para el cumplimiento del presente Artículo, la Secretaría de Estado en el Despacho de Finanzas (SEFIN) queda facultada, a su discreción y de conformidad con sus proyecciones de cierre del Ejercicio Fiscal 2026, para determinar las asignaciones, estructuras presupuestarias y montos que serán objeto de redistribución, así como para realizar las modificaciones, disminuciones, ampliaciones, transferencias, incorporaciones y demás operaciones presupuestarias y financieras necesarias, observando las fuentes de financiamiento, disponibilidades y demás normativa aplicable.
 
 Los ingresos y recuperaciones que obtenga el Instituto Hondureño de Mercadeo Agrícola (IHMA) producto de la venta de los granos adquiridos con estos recursos deberán reintegrarse a la Institución 109, conservando su naturaleza de control y destinándose exclusivamente a nuevas operaciones de compra y comercialización de granos básicos a través de la Secretaría de Estado en el Despacho de Desarrollo Económico (SDE).
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 15"
 sumario: "Decretos Nos. 49-2026, 84-2026, 86-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260522-37148/download"
 extraido: "2026-11-09"
-huella: "aec74c8c57be1f70"
+huella: "d1bd914e84b55329"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 84-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Congreso Nacional de la República es la máxima expresión
 
 CONSIDERANDO: Que el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Seguridad (SEDS) presentó iniciativa de reforma a varios artículos del Código Penal y del Código Procesal Penal, con el propósito de fortalecer la persecución del delito de extorsión y de las maras y pandillas, actualizando sus elementos típicos, agravantes, atenuantes por colaboración eficaz y las herramientas procesales necesarias para desarticular sus mandos, finanzas, control territorial y capacidad de generar terror y sometimiento colectivo en la población.
 
-CONSIDERANDO: Que cumpliendo con el mandato constitucional previsto en el Artículo 219 de la Constitución de la República, este Congreso Nacional solicitó la Opinión Jurídica de la Corte Suprema de Justicia respecto al proyecto de decreto, recibiéndose mediante Oficio PCSJ No. 0181- 2026 de fecha 16 de Marzo de 2026, en la cual el Pleno de Magistrados respalda sustancialmente la mayoría de las reformas propuestas, particularmente las relativas a los artículos 373, 374, 375, 522, 237-A y 237-B, así como las disposiciones complementarias dirigidas a mejorar la investigación y judicialización de estos graves delitos.
+CONSIDERANDO: Que cumpliendo con el mandato constitucional previsto en el Artículo 219 de la Constitución de la República, este Congreso Nacional solicitó la Opinión Jurídica de la Corte Suprema de Justicia respecto al proyecto de decreto, recibiéndose mediante Oficio PCSJ No. 0181-2026 de fecha 16 de Marzo de 2026, en la cual el Pleno de Magistrados respalda sustancialmente la mayoría de las reformas propuestas, particularmente las relativas a los artículos 373, 374, 375, 522, 237-A y 237-B, así como las disposiciones complementarias dirigidas a mejorar la investigación y judicialización de estos graves delitos.
 
 CONSIDERANDO: Que el delito de extorsión, impulsado principalmente por maras y pandillas, constituye una de las más graves amenazas a la seguridad ciudadana, al generar miedo colectivo, control territorial, sometimiento de comunidades enteras y graves afectaciones al tejido social, la economía y el libre ejercicio de los derechos fundamentales de los hondureños.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 272, 373, 374, 375, 415, 473, 522 y 587 del CÓDIGO PENAL, contenido en el Decreto Legislativo No.130-2017 de fecha 18 de enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de mayo de 2019 y sus reformas, los cuales en adelante se leerá así:
+ARTÍCULO 1.- Reformar los artículos 272, 373, 374, 375, 415, 473, 522 y 587 del CÓDIGO PENAL, contenido en el Decreto Legislativo No. 130-2017 de fecha 18 de enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de mayo de 2019 y sus reformas, los cuales en adelante se leerá así:
 
 “ARTÍCULO 272.- DESCUBRIMIENTO Y REVELACIÓN DE
 
@@ -119,7 +119,7 @@ La pena a imponer debe ser la de prisión de ocho (8) a diez (10) años si el un
 
 D E
 
-C L I E N T E S
+CLIENTES
 
 Y S U
 
@@ -223,7 +223,7 @@ Los recursos que se obtengan con base a lo establecido en el párrafo anterior s
 
 #### Artículo 7
 
-ARTÍCULO 7.- A C T I V I D A D E S PA R A E L COMBATE DE TERRORISMO, TRÁFICO DE ARMAS Y CRIMEN ORGANIZADO. Se instruye a la Secretaría de Estado en el Despacho de Seguridad para que solicite cooperación a las Fuerzas Armadas de Honduras para el combate de terrorismo, tráfico de armas, crimen organizado por lo que deberán establecer una estrategia común de medida de seguridad ciudadana y lucha contra la delincuencia incluyendo actividades con el Instituto Nacional Penitenciario (INP) para el control y funcionamiento de cada uno de los centros penitenciarios. Estas instituciones deberán establecer un Plan de Control de Seguridad Ciudadana y de los centros penitenciarios en el plazo de tres (3) meses que será presentado ante el Consejo Nacional de Defensa y Seguridad, a quienes se le informará su cumplimiento y avances cada seis (6) meses.
+ARTÍCULO 7.- ACTIVIDADES PA R A E L COMBATE DE TERRORISMO, TRÁFICO DE ARMAS Y CRIMEN ORGANIZADO. Se instruye a la Secretaría de Estado en el Despacho de Seguridad para que solicite cooperación a las Fuerzas Armadas de Honduras para el combate de terrorismo, tráfico de armas, crimen organizado por lo que deberán establecer una estrategia común de medida de seguridad ciudadana y lucha contra la delincuencia incluyendo actividades con el Instituto Nacional Penitenciario (INP) para el control y funcionamiento de cada uno de los centros penitenciarios. Estas instituciones deberán establecer un Plan de Control de Seguridad Ciudadana y de los centros penitenciarios en el plazo de tres (3) meses que será presentado ante el Consejo Nacional de Defensa y Seguridad, a quienes se le informará su cumplimiento y avances cada seis (6) meses.
 
 #### Artículo 8
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 9"
 sumario: "Decreto Ejecutivo número PCM-049-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210612-35626/download"
 extraido: "2026-11-14"
-huella: "f8b91764cba2b127"
+huella: "8baf11fa64728fb7"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-049-2021
@@ -39,15 +39,11 @@ CONSIDERANDO: Que mediante Decreto Legislativo No. 95-2015, el Estado de Hondura
 
 CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-021-2020, publicado en el Diario Oficial “La Gaceta” en fecha 16 de marzo de 2020, Edición No. 35,201, mediante el cual el Gobierno restringió por siete (7) días a nivel nacional las garantías constitucionales establecidas en los Artículos 69, 71, 72, 78, 81, 84, 93, 99 y 103 de la Constitución de la República, ordenando entre otros en el Artículo 2 numeral 6) del mismo, el cierre de todas las fronteras aéreas, terrestres y marítimas en el territorio nacional, con la finalidad de evitar la propagación del COVID-19, medida que hasta la fecha ha sido objeto de prórroga.
 
-CONSIDERANDO: Que según Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No.
-
-35,255, estableciendo entre otras Disposiciones Especiales en cuanto al Manejo de la Pandemia Covid-19 y Apertura Inteligente de Actividades Esenciales de la Sociedad Hondureña. Asimismo, mediante Decreto Ejecutivo Número PCM-077-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de agosto de 2020, Edición No. 35,338.
+CONSIDERANDO: Que según Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255, estableciendo entre otras Disposiciones Especiales en cuanto al Manejo de la Pandemia Covid-19 y Apertura Inteligente de Actividades Esenciales de la Sociedad Hondureña. Asimismo, mediante Decreto Ejecutivo Número PCM-077-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de agosto de 2020, Edición No. 35,338.
 
 Se ordena la ACTIVACIÓN DEL TRANSPORTE AÉREO COMERCIAL tomando como base la ESTRATEGIA TÉCNICO – OPERACIONAL PARA LA ACTIVACIÓN DEL TRANSPORTE AÉREO COMERCIAL establecida por la Agencia Hondureña de Aeronáutica Civil.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-097-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de octubre de 2020, Edición No.
-
-35, 395. Se ordena la Reapertura Gradual y Condicionada de las Fronteras Terrestres de Honduras, para ingreso y salida del país de nacionales y extranjeros, tomando como base LA ESTRATÉGIA TÉCNICO - OPERACIONAL PARA LA REAPERTURA GRADUAL Y CONDICIONADA DE LAS FRONTERAS TERRESTRES.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-097-2020, publicado en el Diario Oficial “La Gaceta” en fecha 9 de octubre de 2020, Edición No. 35, 395. Se ordena la Reapertura Gradual y Condicionada de las Fronteras Terrestres de Honduras, para ingreso y salida del país de nacionales y extranjeros, tomando como base LA ESTRATÉGIA TÉCNICO - OPERACIONAL PARA LA REAPERTURA GRADUAL Y CONDICIONADA DE LAS FRONTERAS TERRESTRES.
 
 CONSIDERANDO: Que la necesidad de reducir al mínimo las perturbaciones del turismo, comercio y las cadenas mundiales de suministro durante la Pandemia de Coronavirus (COVID-19) y el esfuerzo esgrimido por la República de Honduras dirigido a que las redes logísticas se mantengan abiertas y sigan funcionando de manera eficiente.
 
@@ -63,9 +59,9 @@ En uso de las facultades contenidas en los Artículos: 59, 65, 81, 84, 145, 187,
 
 Artículos 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013;
 
-Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículos 8, 79, 80, 81 de la Ley de Migración y Extranjería; Artículos 1, 5, 91 y 92 de la Ley Orgánica de la Marina Mercante Nacional, Decreto Legislativo No. 32- 2020; Decreto Legislativo No.40-2020; Decretos Ejecutivos Números:
+Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículos 8, 79, 80, 81 de la Ley de Migración y Extranjería; Artículos 1, 5, 91 y 92 de la Ley Orgánica de la Marina Mercante Nacional, Decreto Legislativo No. 32-2020; Decreto Legislativo No. 40-2020; Decretos Ejecutivos Números:
 
-PCM-031-2014, PCM-063-2014, PCM-005-2020, PCM- 016-2020, PCM-021-2020, PCM-022-2020, PCM-023- 2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM- 042- 2020, PCM-045-2020, PCM-073-2020 y demás aplicables; y, Artículos 112, 113 y 114 del Reglamento de la Ley de Migración y Extranjería.
+PCM-031-2014, PCM-063-2014, PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-073-2020 y demás aplicables; y, Artículos 112, 113 y 114 del Reglamento de la Ley de Migración y Extranjería.
 
 DECRETA:
 
@@ -151,7 +147,7 @@ ARTÍCULO 4. MEDIDAS A TOMAR EN CUANTO A LA TRIPULACIÓN EN CASO DE DESEMBARCO P
 
 1.- Todo tripulante debe presentar resultado negativo de la prueba Reacción en Cadena de la Polimerasa (PCR) en tiempo real o prueba ELISA o de Antígeno para COVID-19, realizada en un periodo no mayor a setenta y dos (72) horas antes del ingreso al País. En caso fortuito o de fuerza mayor, el pasajero se someterá a la evaluación clínica por el personal de la Oficina Sanitaria Internacional.
 
-En caso fortuito o de fuerza mayor, la tripulacion que no presenten Prueba COVID- 19, en los términos y condiciones enunciados anteriormente, se someterán a evaluación clínica por el personal de la Oficina Sanitaria Internacional (OSI), quien emitirá opinión médica en relación con el diagnóstico que permita o no el ingreso del tripulante debiendose realizar la prueba Reacción en Cadena de la Polimerasa
+En caso fortuito o de fuerza mayor, la tripulacion que no presenten Prueba COVID-19, en los términos y condiciones enunciados anteriormente, se someterán a evaluación clínica por el personal de la Oficina Sanitaria Internacional (OSI), quien emitirá opinión médica en relación con el diagnóstico que permita o no el ingreso del tripulante debiendose realizar la prueba Reacción en Cadena de la Polimerasa
 
 (PCR) en tiempo real o prueba ELISA o de Antígeno para COVID-19 a costo del operador del buque o representante naviero.
 

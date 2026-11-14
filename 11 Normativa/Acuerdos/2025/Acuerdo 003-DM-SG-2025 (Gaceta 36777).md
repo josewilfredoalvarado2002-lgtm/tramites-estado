@@ -11,7 +11,7 @@ paginas: "A. 17 - 20"
 sumario: "Acuerdo 003-DM/SG-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250227-36777/download"
 extraido: "2026-11-12"
-huella: "f93eb57f18efedff"
+huella: "8f3e46e71fda7c1e"
 ---
 <!-- portal:inicio -->
 # ACUERDO 003-DM/SG-2025
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el propósito de la desconcentración es claro, al pretender f
 
 CONSIDERANDO: Que el artículo 4 y 5 de la Ley de Procedimiento Administrativo, establecen que el órgano superior podrá delegar el ejercicio de sus funciones en para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la administración de que forma parte el superior y el inferior, indicando el órgano delegante, el objeto de la delegación y el órgano delegado, pudiendo contener instrucciones obligatorias para éste en materia procedimental.
 
-CONSIDERANDO: Que el artículo 111. del Decreto Legislativo No. 4-2025, publicado en el Diario Oficial La Gaceta número 36,759, de fecha jueves 6 de febrero del 2025; contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2025, el cual en su apartado sobre “Umbrales y Modalidades de Contratación” Literalmente establece “En cumplimiento de lo dispuesto por el artículo 360 de la Constitución de la República y el artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No.74-2001 del 1 de julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
+CONSIDERANDO: Que el artículo 111. del Decreto Legislativo No. 4-2025, publicado en el Diario Oficial La Gaceta número 36,759, de fecha jueves 6 de febrero del 2025; contentivo del PRESUPUESTO GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2025, el cual en su apartado sobre “Umbrales y Modalidades de Contratación” Literalmente establece “En cumplimiento de lo dispuesto por el artículo 360 de la Constitución de la República y el artículo 38 de la Ley de Contratación del Estado, contenida en el Decreto No. 74-2001 del 1 de julio de 2001, publicado en el Diario Oficial “La Gaceta” de fecha 17 de septiembre de 2001, que definen los procedimientos y forma de contratación de obras públicas, adquisición de suministros y servicios, compra venta o arrendamiento de bienes, se determinan los siguientes tipos y modalidades de contrato, así como los montos exigibles y las compras menores:
 
 POR TANTO: En el ejercicio de las facultades legales y en aplicación de los Artículos 1, 247, 248, 249 y 321 de la Constitución de la República, 7, 41, 43, 116, 118 y 119 de la Ley General de Administración Pública; 31 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; 11 de la Ley de Contratación del Estado, 19 del Reglamento de la Ley de Contratación del Estado; 1 numerales 1 y 2 de la Ley de Simplificación Administrativa, 4 y 5 Ley de Procedimiento Administrativo.
 

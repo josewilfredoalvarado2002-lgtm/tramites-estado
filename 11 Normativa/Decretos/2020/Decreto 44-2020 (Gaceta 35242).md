@@ -8,10 +8,10 @@ gaceta_numero: 35242
 gaceta_fecha: "2020-05-04"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)|La Gaceta 35242]]"
 paginas: "A. 24 - 26"
-sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020"
+sumario: "Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200504-35242-2/download"
 extraido: "2026-11-14"
-huella: "2fd2267ebe56eec0"
+huella: "4c42ec5e52cdcff8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 44-2020
@@ -23,7 +23,7 @@ huella: "2fd2267ebe56eec0"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35242 (2020-05-04)\|La Gaceta 35242]] del 2020-05-04 |
 | Páginas | A. 24 - 26 |
-| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIAAcuerdo /Senasa No. 006-2020SECRETARÍA DE SEGURIDADAcuerdos números 0400-2020, 0507-2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 40-2020, 42-2020, 43-2020, 44-2020, 45-2020SAG-SENASASERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA: Acuerdo /Senasa No. 006-2020; SECRETARÍA DE SEGURIDAD: Acuerdos números 0400-2020, 0507-2020 |
 
 ## Texto
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que en el Artículo 205 Atribución 1) de la Constitución de la R
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

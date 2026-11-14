@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo CREE-23-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220331-35887/download"
 extraido: "2026-11-14"
-huella: "8ff3a2cda2933c53"
+huella: "ac7d6059ee792d0c"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo CREE-23-2022
@@ -79,13 +79,13 @@ c) Que en el año 2017 la Empresa Nacional de Energía Eléctrica realizó la Li
 
 (ENERSA).
 
-Esta Comisión recibió copia del oficio SUGCG- 063-I-2022 de la Subgerencia de Contratos de Generación de la Empresa Nacional de Energía Eléctrica mediante el cual el ingeniero Eduardo Bóleres, representante de la ENEE en el Comité Operativo del Contrato No. 071/2018 y subgerente técnico de contratos de generación de la ENEE comunica al representante de ENERSA que, “no se podrá seguir tramitando para pago de facturas por concepto de suministro de energía eléctrica y potencia del Contrato No. 071 /2018, que traspasen del 27 de enero de 2022 a las 00:00 horas ya que al día de hoy (26 enero 2022), el Contrato No. 071 /2018 no ha sido aprobado por el Honorable Congreso Nacional.” Si bien es cierto el Contrato No. 71/2018 requiere del proceso de aprobación por el Congreso Nacional de la República de Honduras para que se sigan produciendo sus efectos a partir del 27 de enero de 2022, también es cierto que en atención a lo que manda la LGIE, a fin de no afectar las finanzas del subsector eléctrico ni perjudicar a los usuarios finales, se hace necesario trasladar a la tarifa el costo de la energía y potencia entregadas por la central a precios no mayores a los establecidos en el contrato, para el período del 27 de enero al 28 de febrero de 2022.
+Esta Comisión recibió copia del oficio SUGCG-063-I-2022 de la Subgerencia de Contratos de Generación de la Empresa Nacional de Energía Eléctrica mediante el cual el ingeniero Eduardo Bóleres, representante de la ENEE en el Comité Operativo del Contrato No. 071/2018 y subgerente técnico de contratos de generación de la ENEE comunica al representante de ENERSA que, “no se podrá seguir tramitando para pago de facturas por concepto de suministro de energía eléctrica y potencia del Contrato No. 071 /2018, que traspasen del 27 de enero de 2022 a las 00:00 horas ya que al día de hoy (26 enero 2022), el Contrato No. 071 /2018 no ha sido aprobado por el Honorable Congreso Nacional.” Si bien es cierto el Contrato No. 71/2018 requiere del proceso de aprobación por el Congreso Nacional de la República de Honduras para que se sigan produciendo sus efectos a partir del 27 de enero de 2022, también es cierto que en atención a lo que manda la LGIE, a fin de no afectar las finanzas del subsector eléctrico ni perjudicar a los usuarios finales, se hace necesario trasladar a la tarifa el costo de la energía y potencia entregadas por la central a precios no mayores a los establecidos en el contrato, para el período del 27 de enero al 28 de febrero de 2022.
 
 CONSIDERANDO:
 
 Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, con el objeto, entre otros, de regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61- 2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 05 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facultades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 

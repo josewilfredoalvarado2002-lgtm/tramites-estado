@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 1 - 38"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "3eaf7b0deda39132"
+huella: "400270e4f9807a55"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2020
@@ -23,7 +23,7 @@ huella: "3eaf7b0deda39132"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 1 - 38 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que por iniciativa del señor Presidente de la República, a través de la Secretaría de Estado en el Despacho de la Presidencia, con fundamento en el Artículo 213 de la Constitución de la República, se presentó al Congreso Nacional, para su discusión y aprobación el CONTRATO DE PRÉSTAMO NO.5017/BL-HO ENTRE LA REPÚBLICA DE HONDURAS Y EL BANCO INTERAMERICANO DE DESARROLLO (BID) PARA FINANCIAR LA EJECUCIÓN DEL “PROGRAMA DE REFORMAS DEL SECTOR TRANSPORTE Y LOGÍSTICA DE CARGA DE HONDURAS II”.
 
-CONSIDERANDO: Que el Contrato de Préstamo No.5017/BL-HO, suscrito el 30 de abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIENTO ONCE MILLONES SEISCIENTOS CINCUENTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$111,650,000.00), recursos destinados a financiar la ejecución del “Programa de Reformas del Sector Transporte y Logística de Carga Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020 A. 1-101 BANCO CENTRAL DE HONDURAS Acuerdos Nos. 04/2020, 05/2020, 06/2020 A. 101-135 AVANCE A. 136 de Honduras II”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Contrato de Préstamo No. 5017/BL-HO, suscrito el 30 de abril de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de CIENTO ONCE MILLONES SEISCIENTOS CINCUENTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$111,650,000.00), recursos destinados a financiar la ejecución del “Programa de Reformas del Sector Transporte y Logística de Carga Sección A Decretos y Acuerdos PODER LEGISLATIVO Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020 A. 1-101 BANCO CENTRAL DE HONDURAS Acuerdos Nos. 04/2020, 05/2020, 06/2020 A. 101-135 AVANCE A. 136 de Honduras II”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el Artículo 205 de la Constitución de la República establece en sus numerales 19 y 36 que entre otras, corresponde al Congreso Nacional “Aprobar o improbar los contratos que lleven involucradas exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos al siguiente período de gobierno de la República; y aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo”.
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato de Préstamo No.5017/BL-HO, enviado al Congreso Nacional por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de la Presidencia, para su discusión y aprobación, dicho contrato fue suscrito a los 30 días del mes de Abril del 2020, entre el Gobierno de la República Honduras, en su condición de prestatario y el Banco Interamericano de Desarrollo (BID), en su condición de prestamista del financiamiento hasta por un monto DE CIENTO ONCE MILLONES SEISCIENTOS CINCUENTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$111,650,000.00), cuyos recursos serán destinados a financiar la ejecución del “Programa de Reformas del Sector Transporte y Logística de Carga de Honduras II” , que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato de Préstamo No. 5017/BL-HO, enviado al Congreso Nacional por el Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de la Presidencia, para su discusión y aprobación, dicho contrato fue suscrito a los 30 días del mes de Abril del 2020, entre el Gobierno de la República Honduras, en su condición de prestatario y el Banco Interamericano de Desarrollo (BID), en su condición de prestamista del financiamiento hasta por un monto DE CIENTO ONCE MILLONES SEISCIENTOS CINCUENTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$111,650,000.00), cuyos recursos serán destinados a financiar la ejecución del “Programa de Reformas del Sector Transporte y Logística de Carga de Honduras II” , que literalmente dice:
 
 “SECRETARIA DE ESTADO EN EL DESPACHO DE
 

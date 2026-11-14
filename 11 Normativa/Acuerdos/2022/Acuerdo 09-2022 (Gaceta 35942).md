@@ -11,7 +11,7 @@ paginas: "A. 6 - 14"
 sumario: "Acuerdos Nos. 09/2022, 10/2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220606-35942/download"
 extraido: "2026-11-14"
-huella: "9164f37d6d18ab74"
+huella: "e98eaf230c9ca802"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.09/2022.- Sesión No.3972 del 2 de junio
@@ -33,21 +33,21 @@ CONSIDERANDO: Que según lo dispuesto en la Constitución de la República y en 
 
 CONSIDERANDO: Que en el marco del plan de modernización operacional de la política cambiaria y de la estrategia de desarrollo del Mercado Organizado de Divisas, desde junio de 2021, el BCH culminó con el proceso gradual de liberalización del 100% de la entrega de divisas por parte de los agentes cambiarios al BCH, trasladando de esta forma la atención de la demanda de divisas del sector privado de la economía a los agentes cambiarios.
 
-CONSIDERANDO: Que mediante Acuerdo No.06/2021 del 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual fue reformado mediante acuerdos No.16/2021 y No.04/2022, del 16 de diciembre de 2021 y 5 de marzo de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
+CONSIDERANDO: Que mediante Acuerdo No. 06/2021 del 3 de junio de 2021, se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas, el cual fue reformado mediante acuerdos No. 16/2021 y No. 04/2022, del 16 de diciembre de 2021 y 5 de marzo de 2022, respectivamente, todos emitidos por el Directorio del Banco Central de Honduras.
 
 CONSIDERANDO: Que de acuerdo con el comportamiento de la oferta y demanda de divisas se determinó que la economía genera los flujos de divisas que permiten a los agentes cambiarios atender directamente la demanda de divisas del sector privado de la economía.
 
-CONSIDERANDO: Que en el Punto 3 del Acta de la Sesión Ordinaria No.14/2022 del Comité de Divisas, celebrada el 27 de mayo de 2022, y de acuerdo con el análisis del comportamiento del mercado cambiario, se acordó someter a consideración de este Directorio la modificación a la normativa cambiaria, en el sentido de eliminar de la misma el Artículo 5 del Reglamento para la Negociación en el Mercado Organizado de Divisas, relacionado con la potestad del BCH de vender divisas directamente.
+CONSIDERANDO: Que en el Punto 3 del Acta de la Sesión Ordinaria No. 14/2022 del Comité de Divisas, celebrada el 27 de mayo de 2022, y de acuerdo con el análisis del comportamiento del mercado cambiario, se acordó someter a consideración de este Directorio la modificación a la normativa cambiaria, en el sentido de eliminar de la misma el Artículo 5 del Reglamento para la Negociación en el Mercado Organizado de Divisas, relacionado con la potestad del BCH de vender divisas directamente.
 
 POR TANTO:
 
-Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206- 4/2021 del 29 de abril de 2021,
+Con fundamento en los artículos 342 de la Constitución de la República; 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16, 29 y 32 de la Ley del Banco Central de Honduras; 1, 2, 3 y 9 de la Ley de Casas de Cambio; 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
-Derogar el Artículo 5 del Reglamento para la Negociación en el Mercado Organizado de Divisas, contenido en el Acuerdo No.04/2022, emitido por este Directorio el 5 de marzo de 2022.
+Derogar el Artículo 5 del Reglamento para la Negociación en el Mercado Organizado de Divisas, contenido en el Acuerdo No. 04/2022, emitido por este Directorio el 5 de marzo de 2022.
 
 II.
 

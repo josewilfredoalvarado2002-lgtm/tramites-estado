@@ -8,7 +8,7 @@ gaceta_numero: 36677
 gaceta_fecha: "2024-10-31"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)|La Gaceta 36677]]"
 paginas: "A. 9 - 12"
-sumario: "Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
+sumario: "Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241031-36677/download"
 extraido: "2026-11-14"
 huella: "278ba691e118497c"
@@ -23,7 +23,7 @@ huella: "278ba691e118497c"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36677 (2024-10-31)\|La Gaceta 36677]] del 2024-10-31 |
 | Páginas | A. 9 - 12 |
-| Según el sumario de La Gaceta | Decreto No. 93-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 121-2024INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
+| Según el sumario de La Gaceta | Decreto No. 93-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 121-2024; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREA PROTEGIDAS Y VIDA SILVESTRE Acuerdo No. 047-2024 |
 
 ## Texto
 

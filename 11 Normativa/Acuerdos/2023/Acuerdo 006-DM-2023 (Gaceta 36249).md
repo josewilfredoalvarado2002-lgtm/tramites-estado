@@ -11,7 +11,7 @@ paginas: "A. 1 - 32"
 sumario: "Acuerdo 006-DM-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230608-36249/download"
 extraido: "2026-11-14"
-huella: "cf802bd37bc44e0c"
+huella: "ca9903f32f5ef099"
 ---
 <!-- portal:inicio -->
 # ACUERDO 006-DM-2023
@@ -57,9 +57,7 @@ POR TANTO:
 
 En el ejercicio de las atribuciones que le otorgan los Artículos 255 y 321 de la Constitución de la República de Honduras,
 
-Artículos 116, 118 de la Ley General de Administración Pública, 3, 4 y 5 Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM 05-2022, Acuerdo Ejecutivo No.
-
-181-2022 y PCM 28-2022.
+Artículos 116, 118 de la Ley General de Administración Pública, 3, 4 y 5 Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM 05-2022, Acuerdo Ejecutivo No. 181-2022 y PCM 28-2022.
 
 ACUERDA:
 

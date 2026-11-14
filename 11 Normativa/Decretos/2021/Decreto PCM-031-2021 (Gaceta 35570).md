@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210413-35570/download"
 extraido: "2026-11-14"
-huella: "6f49f9921b37e0f6"
+huella: "a57dca8db37d9213"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-031-2021
@@ -53,7 +53,7 @@ CONSIDERANDO: Que la transparencia y la rendición de cuentas son garantías par
 
 POR TANTO;
 
-En aplicación de los Artículos 59, 145, 245 numerales 2, 11 y 45, 248, 252, 255, 321 y 323 de la Constitución de la República; Artículo 11, 22 Numerales 5) y 12), 116, 117 y 119 de la Ley General de Administración Pública; 9 y 63 Numeral 1) y párrafo final de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-002-2020; PCM- 030-2020; PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
+En aplicación de los Artículos 59, 145, 245 numerales 2, 11 y 45, 248, 252, 255, 321 y 323 de la Constitución de la República; Artículo 11, 22 Numerales 5) y 12), 116, 117 y 119 de la Ley General de Administración Pública; 9 y 63 Numeral 1) y párrafo final de la Ley de Contratación del Estado; Decretos Ejecutivos Números PCM-002-2020; PCM-030-2020; PCM-109-2020, PCM-112-2020, PCM-115-2020 y PCM-116-2020.
 
 DECRETA:
 

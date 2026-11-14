@@ -11,7 +11,7 @@ paginas: "A. 16 - 22"
 sumario: "Acuerdo Ejecutivo número 050-2020,Acuerdo Ejecutivo No. SEN-014-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201210-35455/download"
 extraido: "2026-11-14"
-huella: "dc182da2414022ce"
+huella: "8f5ee9885d7a5212"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SEN-014-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Artículo 169 del referido Decreto Legislativo autoriza a l
 
 CONSIDERANDO: Que el Artículo 2 del Decreto Legislativo No. 151-2019 del 4 de diciembre de 2019, publicado en el Diario Oficial “La Gaceta” el 7 de diciembre de ese mismo año establece que el nuevo endeudamiento y gestión de pasivos que realice la Empresa Nacional de Energía Eléctrica en 2019 y 2020, contará con Garantía Soberana del Estado de Honduras, con base a lo establecido en el Artículo 78 de la Ley Orgánica del Presupuesto.
 
-CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No.043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial "La Gaceta" el 06 de octubre de 2020018, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, delegó en la Subsecretaría de Coordinación General de Gobierno, al Licenciado Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de Administración Pública, son potestad del Presidente Constitucional de la República.
+CONSIDERANDO: Que mediante el Acuerdo Ejecutivo No. 043-2020 del 01 de octubre de 2020, publicado en el Diario Oficial "La Gaceta" el 06 de octubre de 2020018, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, delegó en la Subsecretaría de Coordinación General de Gobierno, al Licenciado Carlos Alberto Madero Erazo, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de Administración Pública, son potestad del Presidente Constitucional de la República.
 
 CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 41 de la Ley de Procedimiento Administrativo, corresponde al Poder Ejecutivo expedir los Reglamentos de la Administración Pública, salvo disposición contraria de la Ley.
 
@@ -45,7 +45,7 @@ Con fundamento en las facultades que le confieren los artículos 245, numeral 11
 
 116 y 118 de la Ley General de la Administración Pública; 41 de la Ley de Procedimiento Administrativo; 55 y 57 de la Ley del Banco Central de Honduras; 7 de la Ley de Mercado de Valores; 65 numeral 4) de la Ley Orgánica del Presupuesto;
 
-2 y 169 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020; 2 del Decreto Legislativo No.151-2019 del 4 de diciembre de 2019.
+2 y 169 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2020; 2 del Decreto Legislativo No. 151-2019 del 4 de diciembre de 2019.
 
 ACUERDA:
 
@@ -77,7 +77,7 @@ Los valores gubernamentales podrán emitirse en moneda nacional, dólares de los
 
 El monto mínimo de cada operación de colocación en el mercado primario será de CIEN MIL LEMPIRAS EXACTOS (L100,000.00) y en múltiplos de UN MIL LEMPIRAS EXACTOS (L1,000.00) para montos superiores en la emisión de valores en moneda nacional y de DIEZ MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$10,000.00) y en múltiplos de UN MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$1,000.00), para montos superiores en la emisión de valores en dólares de los Estados Unidos de América y denominados en dólares de los Estados Unidos de América.
 
-Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No.301- 2018 del 5 de marzo de 2018.
+Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa, en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018.
 
 La tasa de descuento o de rendimiento para determinar el precio de corte a aceptar para cada una de las subemisiones, será fijada por la Empresa Nacional de Energía Eléctrica, a través de su Gerencia.
 

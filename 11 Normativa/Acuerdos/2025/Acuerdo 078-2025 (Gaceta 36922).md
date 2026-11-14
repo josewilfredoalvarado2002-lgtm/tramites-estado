@@ -11,7 +11,7 @@ paginas: "A. 8 - 56"
 sumario: "Acuerdos Nos. 074-2025, 078-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250821-36922/download"
 extraido: "2026-11-09"
-huella: "a5dc106f36e01eb3"
+huella: "91b3004e5557acb2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 078-2025
@@ -29,7 +29,7 @@ huella: "a5dc106f36e01eb3"
 
 LA DIRECCIÓN EJECUTIVA DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF), EN LA CIUDAD DE COMAYAGÜELA, MUNICIPIO DEL DISTRITO CENTRAL, A LOS DIEZ (10) DIAS DE JULIO DEL AÑO DOS MIL VEINTICINCO (2025).
 
-VISTA: Para declarar como zonas de protección forestal, diecinueve (19) Microcuencas de Oficio localizadas en el Departamento de Copán y Ocotepeque; en el Municipio de Concepción, Santa Rosa de Copán, La Unión, San Agustín, Santa Rita, Belén Gualcho, San Jorge, El Paraíso, San Antonio, Florida, Copán Ruinas, Nueva Arcadia, San Jerónimo, La Jigua y Cabañas de los expedientes conformados conteniendo los documentos necesarios para iniciar el proceso, tal y como lo establece el Acuerdo 040- 2024.
+VISTA: Para declarar como zonas de protección forestal, diecinueve (19) Microcuencas de Oficio localizadas en el Departamento de Copán y Ocotepeque; en el Municipio de Concepción, Santa Rosa de Copán, La Unión, San Agustín, Santa Rita, Belén Gualcho, San Jorge, El Paraíso, San Antonio, Florida, Copán Ruinas, Nueva Arcadia, San Jerónimo, La Jigua y Cabañas de los expedientes conformados conteniendo los documentos necesarios para iniciar el proceso, tal y como lo establece el Acuerdo 040-2024.
 
 CONSIDERANDO: Que, el Plan de Gobierno para la Refundación de la Patria y la Construcción del Estado Socialista y Democrático establece recuperar las zonas de recarga hídrica (cuencas hidrográficas) retomando la iniciativa interrumpida del Poder Ciudadano de reforestar, y los compromisos del país de restaurar el bosque perdido y reducir en 40 % el consumo doméstico de leña verde al 2030.
 
@@ -89,7 +89,7 @@ SEGUNDO: Tener por declarada las siguientes microcuencas:
 
 Las que a partir de la fecha forman parte de las áreas sujetas a régimen especial de manejo por lo que debe protegerse y conservarse a perpetuidad La relación de medida del polígono de las microcuencas declaradas:
 
-C o o r d e n a d a s
+Coordenadas
 
 WGS-84
 

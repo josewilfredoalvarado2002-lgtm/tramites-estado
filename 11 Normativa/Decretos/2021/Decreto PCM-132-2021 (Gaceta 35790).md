@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-132-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211206-35790/download"
 extraido: "2026-11-14"
-huella: "19187f8497a953ca"
+huella: "96cfac04a2c9426f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-132-2021
@@ -35,11 +35,9 @@ CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2, 11 y 45 de la
 
 Dirigir la Política General del Estado y representarlo; emitir Acuerdos, Decretos, expedir Reglamentos y Resoluciones conforme a la Ley; y, las demás que le confiere la Constitución y las Leyes.”
 
-CONSIDERANDO: Que el Artículo 4 del Decreto Legislativo No.266-2013, contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno establece: “La creación, modificación o supresión de las Secretarías de Estado o de los Organismos o Entidades Desconcentradas, solamente puede ser hecha por el Presidente de la República en Consejo de Secretarios de Estado.”
+CONSIDERANDO: Que el Artículo 4 del Decreto Legislativo No. 266-2013, contentivo de la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno establece: “La creación, modificación o supresión de las Secretarías de Estado o de los Organismos o Entidades Desconcentradas, solamente puede ser hecha por el Presidente de la República en Consejo de Secretarios de Estado.”
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo del 2018 Edición No.
-
-34,600, mediante el cual se emiten una serie de reformas al Sector Público, la cual incluye reformas a la estructura de las dependencias pertenecientes a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno, mismo que fue reformado mediante Decreto Ejecutivo Número PCM-025- 2018, publicado en el Diario Oficial “La Gaceta” en fecha 25 de julio del 2018.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-009-2018, publicado en el Diario Oficial “La Gaceta” en fecha 23 de marzo del 2018 Edición No. 34,600, mediante el cual se emiten una serie de reformas al Sector Público, la cual incluye reformas a la estructura de las dependencias pertenecientes a la Secretaría de Estado en el Despacho de Coordinación General de Gobierno, mismo que fue reformado mediante Decreto Ejecutivo Número PCM-025-2018, publicado en el Diario Oficial “La Gaceta” en fecha 25 de julio del 2018.
 
 CONSIDERANDO: Que según lo establecido en el Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada. El Presidente de la República en el ejercicio de sus funciones podrá actuar por sí o en Consejo de Ministros.
 
@@ -63,9 +61,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Derogar el Artículo 2 del Decreto Ejecutivo Número PCM-071-2014, publicado en el Diario Oficial “La Gaceta” en fecha 15 de octubre del 2014 Edición No.
-
-33,556, mediante el cual se adscribe el Centro Nacional de Información del Sector Social (CENISS) a la Presidencia de la República.
+ARTÍCULO 1: Derogar el Artículo 2 del Decreto Ejecutivo Número PCM-071-2014, publicado en el Diario Oficial “La Gaceta” en fecha 15 de octubre del 2014 Edición No. 33,556, mediante el cual se adscribe el Centro Nacional de Información del Sector Social (CENISS) a la Presidencia de la República.
 
 #### Artículo 2
 

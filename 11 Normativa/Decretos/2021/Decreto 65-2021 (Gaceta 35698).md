@@ -11,7 +11,7 @@ paginas: "A. 1 - 14"
 sumario: "Decretos Nos. 65-2021, 66-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210825-35698/download"
 extraido: "2026-11-14"
-huella: "ecdcf7c1cf7dece0"
+huella: "726c563ed80d87f0"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 65-2021
@@ -29,9 +29,9 @@ huella: "ecdcf7c1cf7dece0"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No.33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No.171-2019.
+CONSIDERANDO: Que el Artículo 8 del Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de Dos Mil Quinientos Millones de Dólares de los Estados Unidos de América (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado mediante el Artículo 1 del Decreto Legislativo No. 171-2019.
 
-CONSIDERANDO: Que el Convenio de Financiación No. 2000002595 suscrito el 7 de Junio de 2021, entre el Fondo Internacional de Desarrollo Agrícola (FIDA), en su condición de Prestamista y la República de Honduras, en su condición de Prestatario del financiamiento de hasta por un monto de DIECISÉIS MILLONES TRECIENTOS TREINTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$16,330,000.00) para la ejecución del PROYECTO DE INCLUSIÓN ECONÓMICA Y SOCIAL DE PEQUEÑOS PRODUCTORES RURALES EN LA REGIÓN NORESTE DE HONDURAS (PROINORTE), se ampara en el Artículo 8 del Decreto Legislativo No.33-2020.
+CONSIDERANDO: Que el Convenio de Financiación No. 2000002595 suscrito el 7 de Junio de 2021, entre el Fondo Internacional de Desarrollo Agrícola (FIDA), en su condición de Prestamista y la República de Honduras, en su condición de Prestatario del financiamiento de hasta por un monto de DIECISÉIS MILLONES TRECIENTOS TREINTA MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$16,330,000.00) para la ejecución del PROYECTO DE INCLUSIÓN ECONÓMICA Y SOCIAL DE PEQUEÑOS PRODUCTORES RURALES EN LA REGIÓN NORESTE DE HONDURAS (PROINORTE), se ampara en el Artículo 8 del Decreto Legislativo No. 33-2020.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivo incrementar ingresos y mejorar la nutrición de pequeños productores rurales y sus familias, mejorando su productividad, diversificación, transformación y capacidades de comercialización, incorporando a ellos en las cadenas de valor priorizados y aumentando su resiliencia en el contexto de cambio climático.
 

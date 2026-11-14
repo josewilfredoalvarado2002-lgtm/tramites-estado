@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 113 - 114"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "ccf20ff413aa3ccb"
+huella: "cdf63cabce8cf831"
 ---
 <!-- portal:inicio -->
 # ACUERDO No.05/2020.- Sesión No.3835 del 15 de mayo
@@ -23,7 +23,7 @@ huella: "ccf20ff413aa3ccb"
 | Emisor | Banco Central de Honduras |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 113 - 114 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ Que los sistemas de pago son esenciales para asegurar el buen funcionamiento de 
 
 CONSIDERANDO:
 
-Que mediante el Acuerdo No.04/2020 del 15 de mayo de 2020, este órgano colegiado aprobó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), el cual tiene por objeto establecer las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
+Que mediante el Acuerdo No. 04/2020 del 15 de mayo de 2020, este órgano colegiado aprobó el Reglamento para la Cámara de Compensación Electrónica de Cheques (CCECH), el cual tiene por objeto establecer las reglas y disposiciones que deben aplicarse en los procesos de compensación, liquidación y truncamiento de cheques en la CCECH.
 
 CONSIDERANDO:
 
@@ -55,7 +55,7 @@ Con fundamento en los artículos 342 de la Constitución de la República;
 
 118, numeral 2) de la Ley General de la Administración Pública; 1 y 11 del Tratado sobre Sistemas de Pagos y de Liquidación de Valores de Centroamérica y República Dominicana; 2, 6, 16, incisos b) y f) y 54 de la Ley del Banco Central de Honduras; 10, 19, 20, 28 y 29 de la Ley de Sistemas de Pago y Liquidación de Valores; 32 del Reglamento de la Cámara de Compensación Electrónica de Cheques y oída la opinión de la Subgerencia de Operaciones de esta Institución,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 

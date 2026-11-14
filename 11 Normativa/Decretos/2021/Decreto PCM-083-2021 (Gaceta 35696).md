@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-083-2021Decreto Ejecutivo número PCM-088-2021Acuerdo Ejecutivo número 022-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210823-35696/download"
 extraido: "2026-11-14"
-huella: "a0b4e2a29df23f25"
+huella: "cbd1138f67e0f554"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-083-2021
@@ -47,9 +47,7 @@ CONSIDERANDO: Que Inversión Estratégica de Honduras (INVEST-H), también conoc
 
 POR TANTO;
 
-En uso de las facultades legales establecidas en los Artículos 5, 245 numerales 2, 11, 19, 30 y 45 y demás aplicables de la Constitución de la República; Artículos 2, 11, 17, 18, 19, 20, 21, 22 numerales 9) y 12), 23, 24, 25, 26, 27, 116, 117 y 119 de la Ley General de la Administración Pública reformados mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 16-2017, Decreto Legislativo No.97-2018, Decreto Legislativo No. 181-2018, Decreto Legislativo No.
-
-161-2018; y, Decretos Ejecutivos Números: PCM-034-2018 y PCM-056-2018.
+En uso de las facultades legales establecidas en los Artículos 5, 245 numerales 2, 11, 19, 30 y 45 y demás aplicables de la Constitución de la República; Artículos 2, 11, 17, 18, 19, 20, 21, 22 numerales 9) y 12), 23, 24, 25, 26, 27, 116, 117 y 119 de la Ley General de la Administración Pública reformados mediante Decreto Legislativo No. 266-2013; Decreto Legislativo No. 16-2017, Decreto Legislativo No. 97-2018, Decreto Legislativo No. 181-2018, Decreto Legislativo No. 161-2018; y, Decretos Ejecutivos Números: PCM-034-2018 y PCM-056-2018.
 
 DECRETA:
 

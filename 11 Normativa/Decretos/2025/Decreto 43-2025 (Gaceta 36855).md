@@ -11,7 +11,7 @@ paginas: "A. 10 - 13"
 sumario: "Decretos Nos. 42-2025, 43-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250604-36855/download"
 extraido: "2026-11-10"
-huella: "59b9ba7836471206"
+huella: "9ae6a8e4e79f0362"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2025
@@ -73,7 +73,7 @@ PRESUPUESTO DE TRANSFERENCIAS DE LEY A PARTIDOS POLÍTICOS EN CONCEРТО DE FIN
 
 ARTÍCULO 1.- FINANCIAMIENTO PÚBLICO.
 
-A p r o b a r e l p r e s u p u e s t o d e Transferencias de Ley a los Partidos Políticos legalmente inscritos en concepto de financiamiento público para el proceso de Elecciones Generales 2025, hasta por un monto total de DOSCIENTOS SETENTA Y SIETE MILLONES DOSCIENTOS SIETE MIL TRESCIENTOS NOVENTA Y CUATRO LEMPIRAS CON ONCE CENTAVOS (L.277,207,394.11), mismo que deberá adicionarse al presupuesto ordinario del Consejo Nacional Electoral (CNE) para su transferencia a los Partidos Políticos respectivos.
+Aprobar el presupuesto de Transferencias de Ley a los Partidos Políticos legalmente inscritos en concepto de financiamiento público para el proceso de Elecciones Generales 2025, hasta por un monto total de DOSCIENTOS SETENTA Y SIETE MILLONES DOSCIENTOS SIETE MIL TRESCIENTOS NOVENTA Y CUATRO LEMPIRAS CON ONCE CENTAVOS (L.277,207,394.11), mismo que deberá adicionarse al presupuesto ordinario del Consejo Nacional Electoral (CNE) para su transferencia a los Partidos Políticos respectivos.
 
 #### Artículo 2
 

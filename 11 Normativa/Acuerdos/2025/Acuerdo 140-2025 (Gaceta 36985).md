@@ -11,7 +11,7 @@ paginas: "A. 23 - 24"
 sumario: "Acuerdos Ejecutivos Nos. 139-2025, 140-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251105-36985/download"
 extraido: "2026-11-09"
-huella: "6f400e3f182b5819"
+huella: "984524b03c01f30d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 140-2025
@@ -29,9 +29,7 @@ huella: "6f400e3f182b5819"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que, el Decreto legislativo N° 155- 94 crea el Foro Nacional de Convergencia, (FONAC por sus siglas), mismo que, mediante Decreto Legislativo N°.
-
-286-2009, se le define como la instancia de “verificación y seguimiento independiente del cumplimiento de la Visión de País y el Plan de Nación”.
+CONSIDERANDO: Que, el Decreto legislativo N° 155-94 crea el Foro Nacional de Convergencia, (FONAC por sus siglas), mismo que, mediante Decreto Legislativo N°. 286-2009, se le define como la instancia de “verificación y seguimiento independiente del cumplimiento de la Visión de País y el Plan de Nación”.
 
 CONSIDERANDO: Que, desde septiembre de 2023, la asamblea del Foro Nacional de Convergencia, se encuentra acéfala, lo cual desnaturaliza y resta legalidad a las actuaciones de dicha instancia, ya que desde ese entonces está sin órganos de gobierno legalmente reconocidos.
 

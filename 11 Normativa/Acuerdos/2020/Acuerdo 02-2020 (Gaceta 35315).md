@@ -11,7 +11,7 @@ paginas: "A. 35 - 40"
 sumario: "Certificación Acuerdo No. 02-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200716-35315/download"
 extraido: "2026-11-14"
-huella: "3f7eb662ca240829"
+huella: "1953b28fd312ecf8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 02-2020
@@ -29,7 +29,7 @@ huella: "3f7eb662ca240829"
 
 El infrascrito, Secretario General del Consejo Nacional Electoral por este medio CERTIFICA el Punto V (Asunto Plazos para Partidos Políticos en Formación y Expedientes Administrativos pendientes de resolución), numeral uno
 
-(01) del Acta Número 08-2020, correspondiente a la Sesión Extraordinaria, celebrada por el Pleno de este Organismo Electoral, el día sábado cuatro (04) de julio de dos mil veinte (2020), que literalmente dice: “ACUERDO N°. 02- 2020. El PLENO DE CONSEJEROS DEL CONSEJO NACIONAL ELECTORAL (CNE).
+(01) del Acta Número 08-2020, correspondiente a la Sesión Extraordinaria, celebrada por el Pleno de este Organismo Electoral, el día sábado cuatro (04) de julio de dos mil veinte (2020), que literalmente dice: “ACUERDO N°. 02-2020. El PLENO DE CONSEJEROS DEL CONSEJO NACIONAL ELECTORAL (CNE).
 
 CONSIDERANDO (1): Que la Constitución de la República establece en su Artículo 51 que, el Consejo Nacional Electoral es un órgano autónomo e independiente, sin relaciones de subordinación con los Poderes del Estado, de seguridad nacional, con personalidad jurídica, jurisdicción y competencia en toda la República. Le corresponderán los actos y procedimientos administrativos, técnicos y de logística. En armonía con esta disposición constitucional, el Artículo 1 de la Ley Especial para la Selección y Nombramiento de Autoridades Electorales. Atribuciones, Competencias y Prohibiciones reafirma el contenido de la disposición constitucional citada.
 
@@ -39,7 +39,7 @@ CONSIDERANDO (3): Que, posteriormente, mediante Decretos Ejecutivos de 2020: PCM
 
 PCM-022 (de 20 de marzo); PCM-026 (de 28 de marzo); y PCM 28-2020 (de 4 de abril), PCM-31 (de 13 de marzo);
 
-PCM-33 (de 18 de abril); PCM-36 (de 25 de abril); PCM- 40 (de 3 de mayo); PCM-47 (de 24 de mayo); PCM 52 (de 7 de junio); PCM-53 (de 13 de junio); PCM-56 (de 21 de junio), se restringieron las garantías constitucionales contenidas en los Artículos 69 (libertad personal); 78 (libertad de asociación y reunión); 81 (derecho a la libre circulación); 84 (garantías propias de ,arresto y detención);
+PCM-33 (de 18 de abril); PCM-36 (de 25 de abril); PCM-40 (de 3 de mayo); PCM-47 (de 24 de mayo); PCM 52 (de 7 de junio); PCM-53 (de 13 de junio); PCM-56 (de 21 de junio), se restringieron las garantías constitucionales contenidas en los Artículos 69 (libertad personal); 78 (libertad de asociación y reunión); 81 (derecho a la libre circulación); 84 (garantías propias de,arresto y detención);
 
 99 (inviolabilidad del domicilio); y 103 (derecho a la propiedad privada). Además, se decretó la suspensión de labores en los sectores público y privado, durante el tiempo de excepción comprendido entre el 16 de marzo hasta el 11 de abril de 2020; regulando excepciones específicas de circulación de funcionarios públicos y sector privado que ahí se detallan, tiempo que fue ampliándose hasta la fecha.
 
@@ -69,7 +69,7 @@ CONSIDERANDO (11): Que es atribución de la Consejera Presidenta conforme al art
 
 POR TANTO: El Consejo Nacional Electoral, en uso de sus facultades y con fundamento en los Artículos 45, 51, 69, 71, 72, 78, 81, 93, 99, 103, 145, 187, 188, 255, 321 y demás aplicables de la Constitución de la República;
 
-65, 66, 73 y demás aplicables de la Ley Electoral y de las Organizaciones Políticas; 1, 11 y 15 de la Ley Especial para la Selección y el Nombramiento de Autoridades Electorales, Atribuciones, Competencias y Prohibiciones (Decreto 71- 2019); 114 de la Ley General de la Administración Pública;
+65, 66, 73 y demás aplicables de la Ley Electoral y de las Organizaciones Políticas; 1, 11 y 15 de la Ley Especial para la Selección y el Nombramiento de Autoridades Electorales, Atribuciones, Competencias y Prohibiciones (Decreto 71-2019); 114 de la Ley General de la Administración Pública;
 
 Decreto Legislativo 31-2020; Decretos Ejecutivos Números:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 19"
 sumario: "Decreto No. 93-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211101-35760/download"
 extraido: "2026-11-14"
-huella: "cf83a85381a9df2f"
+huella: "51bf948b3ff07095"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 93-2021
@@ -33,11 +33,11 @@ CONSIDERANDO: Que en los últimos treinta (30) años hemos experimentado alterac
 
 CONSIDERANDO: Que los índices de criminalidad de nuestro país demandan el fortalecimiento de las herramientas legislativas apropiadas para combatir el Delito en todas sus modalidades.
 
-CONSIDERANDO: Que en fecha 10 de Mayo del 2019, fue publicado en el Diario Oficial “La Gaceta” el Decreto No.130-2017, el cual fue aprobado por este Poder del Estado, en fecha 18 de Enero del 2018, y contiene el Nuevo Código Penal de Honduras.
+CONSIDERANDO: Que en fecha 10 de Mayo del 2019, fue publicado en el Diario Oficial “La Gaceta” el Decreto No. 130-2017, el cual fue aprobado por este Poder del Estado, en fecha 18 de Enero del 2018, y contiene el Nuevo Código Penal de Honduras.
 
 CONSIDERANDO: Que luego de la publicación en el Diario Oficial “La Gaceta” del Decreto antes referido, se vio la necesidad de abrir un espacio de revisión y socialización para que los sectores que tuviesen algún planteamiento o alarma pudiesen presentar con más detalle sus inquietudes, y así, luego de presentar las valoraciones técnicas, de ser necesario, se pudieran hacer los ajustes requeridos en el texto del Código.
 
-CONSIDERANDO: Que resultado del diálogo antes referido, se consideró oportuno que para garantizar de mejor forma la protección contra la trata de personas y seguridad ciudadana en general, así como la promoción de inversiones, es necesario realizar ajustes en varios artículos del nuevo Código Penal contenido en el Decreto No.130-2017.
+CONSIDERANDO: Que resultado del diálogo antes referido, se consideró oportuno que para garantizar de mejor forma la protección contra la trata de personas y seguridad ciudadana en general, así como la promoción de inversiones, es necesario realizar ajustes en varios artículos del nuevo Código Penal contenido en el Decreto No. 130-2017.
 
 CONSIDERANDO: Que la Propiedad Privada es esencial para el funcionamiento del sistema de libre mercado, siendo un medio de progreso de las naciones, incentivando la inversión tanto extranjera y nacional, brindando reglas claras para la protección jurídica de las inversiones.
 
@@ -45,25 +45,25 @@ CONSIDERANDO: Que los órganos jurisdiccionales carecen de una norma ágil y efi
 
 CONSIDERANDO: Que el Código Procesal Penal consagra dentro de sus principios la Neutralización de los Efectos del Delito, pues es menester del Poder Judicial realizar dicha neutralización, en el caso de la usurpación por la naturaleza propia del delito, se deberá hacer de forma preventiva, evitando la consolidación de dicho delito con la edificación de cualquier infraestructura que permita a los autores materiales o intelectuales del delito, la consolidación de un acto simulado de posesión pacífica, que es la razón por la cual interponen recursos de amparo, pidiendo el respeto de garantías que, mediante actos simulados pretenden obtener.
 
-CONSIDERANDO: Que posterior a la vigencia del Decreto No.144-2014 que contiene la “Ley Especial Contra el Lavado de Activos”, es conveniente hacer una revisión, implementación y homologación de procedimientos administrativos, para lograr una efectiva lucha integral contra la comisión de los diferentes tipos penales que derivan en la legitimación de las ganancias económicas que genera la criminalidad organizada, sin lesionar derechos constitucionales de los investigados.
+CONSIDERANDO: Que posterior a la vigencia del Decreto No. 144-2014 que contiene la “Ley Especial Contra el Lavado de Activos”, es conveniente hacer una revisión, implementación y homologación de procedimientos administrativos, para lograr una efectiva lucha integral contra la comisión de los diferentes tipos penales que derivan en la legitimación de las ganancias económicas que genera la criminalidad organizada, sin lesionar derechos constitucionales de los investigados.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes”.
 
 POR TANTO;
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596; todos del Decreto No.130- 2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
+ARTÍCULO 1.- Derogar los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596; todos del Decreto No. 130-2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar los artículos 28 y 153 del Decreto No.130-2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
+ARTÍCULO 2.- Derogar los artículos 28 y 153 del Decreto No. 130-2017 de fecha 18 de Enero de 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar los artículos 428 y 429 del Decreto No.130-2017 de fecha 18 de Enero del 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, los que se deben leer de la siguiente manera:
+ARTÍCULO 3.- Reformar los artículos 428 y 429 del Decreto No. 130-2017 de fecha 18 de Enero del 2018, que contiene el CÓDIGO PENAL, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, los que se deben leer de la siguiente manera:
 
 “ARTÍCULO 428.- CONTRABANDO.
 
@@ -105,7 +105,7 @@ Estas penas se imponen sin perjuicio de las que, además correspondan por los pa
 
 #### Artículo 4
 
-ARTÍCULO 4.- Reformar los artículos 219, 248, 312, 325, 328, 373, 374, 378, 379, 386 y 439, del Decreto No.130-2017, del 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS, los que de ahora en adelante se leerán de la forma siguiente:
+ARTÍCULO 4.- Reformar los artículos 219, 248, 312, 325, 328, 373, 374, 378, 379, 386 y 439, del Decreto No. 130-2017, del 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS, los que de ahora en adelante se leerán de la forma siguiente:
 
 “ARTÍCULO 219.- TRATA DE
 
@@ -135,7 +135,7 @@ Se agravará en un tercio (1/3) la pena cuando concurra cualquiera de las circun
 
 El consentimiento … Aun cuando…”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 2 4 8 . -
 
@@ -293,7 +293,7 @@ Las conductas…
 
 #### Artículo 5
 
-ARTÍCULO 5.- Adicionar el Artículo 378-A al Decreto No.130-2017, de fecha 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS.
+ARTÍCULO 5.- Adicionar el Artículo 378-A al Decreto No. 130-2017, de fecha 18 de Enero del 2018, publicado en el Diario Oficial “La Gaceta” en fecha 10 de Mayo de 2019, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS.
 
 “ARTÍCULO 378-A.- AGRAVANTES DEL DELITO DE USURPACIÓN.
 
@@ -321,11 +321,11 @@ Con la pena correspondiente a la usurpación agravada será sancionado quien ind
 
 #### Artículo 6
 
-ARTÍCULO 6.- Derogar los artículos 296, 353 y 613 del Decreto No.130-2017, de 18 de Enero del 2018, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS.
+ARTÍCULO 6.- Derogar los artículos 296, 353 y 613 del Decreto No. 130-2017, de 18 de Enero del 2018, que contiene el Nuevo CÓDIGO PENAL DE HONDURAS.
 
 #### Artículo 7
 
-ARTÍCULO 7.- Reformar el CÓDIGO PROCESAL PENAL contenido en el Decreto No.9- 99-E, de fecha 19 de Diciembre 1999 y sus reformas, mediante la modificación del Artículo 54 y la adición de los artículos 26-B y 224-A, los cuales de ahora en adelante deberán leerse de la manera siguiente:
+ARTÍCULO 7.- Reformar el CÓDIGO PROCESAL PENAL contenido en el Decreto No. 9-99-E, de fecha 19 de Diciembre 1999 y sus reformas, mediante la modificación del Artículo 54 y la adición de los artículos 26-B y 224-A, los cuales de ahora en adelante deberán leerse de la manera siguiente:
 
 “ARTÍCULO 54. JURISDICCIÓN
 
@@ -365,7 +365,7 @@ Lo anterior sin perjuicio de la obligación que tiene la Policía Nacional de ap
 
 #### Artículo 8
 
-ARTÍCULO 8.- Reformar los artículos 2, 26, 29, 30 y 47 del Decreto No.144-2014 que contiene la “LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS”, aprobado en fecha 13 del mes de Enero del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril del año 2015, los que se leerán de la siguiente forma:
+ARTÍCULO 8.- Reformar los artículos 2, 26, 29, 30 y 47 del Decreto No. 144-2014 que contiene la “LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS”, aprobado en fecha 13 del mes de Enero del año 2015 y publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril del año 2015, los que se leerán de la siguiente forma:
 
 “ARTÍCULO 2.- DEFINICIONES. -
 
@@ -457,7 +457,7 @@ Para efectos de investigaciones penales o causas judiciales, la revisión de la 
 
 El Juez competente recibirá la solicitud y los hechos que la fundamentan y resolverá en un término no mayor de 15 días.
 
-C u a n d o e l J u e z c o m p e t e n t e autorice la petición de revisión de información financiera, enviará los correspondientes oficios a la Unidad de Inteligencia Financiera (UIF), quienes cumplimentarán la petición en el término que el Juez señale. Para tales efectos el ente supervisado está obligado a remitir la información a la Unidad de Inteligencia Financiera (UIF), dentro del plazo señalado por dicha Unidad.
+Cuando el Juez competente autorice la petición de revisión de información financiera, enviará los correspondientes oficios a la Unidad de Inteligencia Financiera (UIF), quienes cumplimentarán la petición en el término que el Juez señale. Para tales efectos el ente supervisado está obligado a remitir la información a la Unidad de Inteligencia Financiera (UIF), dentro del plazo señalado por dicha Unidad.
 
 El registro de información financiera, será ordenada por el juez como una medida excepcional, sólo cuando sea necesario para la obtención de información respecto a la investigación de delitos tipificados en los Títulos XXV y XXXII del Código Penal y en los supuestos de privación definitiva de dominio y no exista otro mecanismo para la investigación efectiva de los mismos”.
 
@@ -511,15 +511,15 @@ El Secreto Bancario debe ser suspendido únicamente en las investigaciones por l
 
 #### Artículo 9
 
-ARTÍCULO 9.- Interpretar el Artículo 274 tercer párrafo del CÓDIGO PROCESAL PENAL contenido en Decreto No.9-99-E, de fecha 19 de Diciembre 1999 y sus reformas, en el sentido de que cuando dicho párrafo dice que “Los funcionarios de las instituciones que formen parte del Sistema Financiero Nacional, deberán proporcionarle a la autoridad correspondiente, la información que les solicite, previo mandato judicial”, significa que los funcionarios de las instituciones que formen parte del Sistema Financiero Nacional únicamente podrán proporcionar información financiera, a autoridades o personas particulares distintas de su titular, si se cuenta con una orden judicial que lo ordene expresamente.
+ARTÍCULO 9.- Interpretar el Artículo 274 tercer párrafo del CÓDIGO PROCESAL PENAL contenido en Decreto No. 9-99-E, de fecha 19 de Diciembre 1999 y sus reformas, en el sentido de que cuando dicho párrafo dice que “Los funcionarios de las instituciones que formen parte del Sistema Financiero Nacional, deberán proporcionarle a la autoridad correspondiente, la información que les solicite, previo mandato judicial”, significa que los funcionarios de las instituciones que formen parte del Sistema Financiero Nacional únicamente podrán proporcionar información financiera, a autoridades o personas particulares distintas de su titular, si se cuenta con una orden judicial que lo ordene expresamente.
 
 #### Artículo 10
 
-ARTÍCULO 10.- Derogar únicamente el Artículo de la Vigencia de la Derogación de los artículos 28 y 153 del Decreto No.130- 2017, aprobadas el 19 de Febrero de 2020; así como el Artículo de la Vigencia de las Reformas a los artículos 428 y 429 del Decreto No.130-2017, aprobadas el 4 de Marzo de 2020, las cuales, junto con la derogación aprobada en fecha 5 de Noviembre de 2019, de los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596 del Decreto No.130-2017, para efectos de publicación y vigencia se incorporán al presente Decreto en el orden cronológico correspondiente.
+ARTÍCULO 10.- Derogar únicamente el Artículo de la Vigencia de la Derogación de los artículos 28 y 153 del Decreto No. 130-2017, aprobadas el 19 de Febrero de 2020; así como el Artículo de la Vigencia de las Reformas a los artículos 428 y 429 del Decreto No. 130-2017, aprobadas el 4 de Marzo de 2020, las cuales, junto con la derogación aprobada en fecha 5 de Noviembre de 2019, de los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596 del Decreto No. 130-2017, para efectos de publicación y vigencia se incorporán al presente Decreto en el orden cronológico correspondiente.
 
 #### Artículo 11
 
-ARTÍCULO 11.- VIGENCIA. El presente Decreto y la derogación aprobada en fecha 5 de Noviembre de 2019, de los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596 del Decreto No.130-2017; la derogación de los artículos 28 y 153 del Decreto No.130-2017, aprobadas el 19 de Febrero de 2020; así como las reformas a los artículos 428 y 429 del Decreto No.130-2017, aprobadas el 4 de Marzo de 2020, las cuales, junto con la derogación aprobada en fecha 5 de Noviembre de 2019, entran en vigencia al día siguiente de la publicación del presente Decreto en el Diario Oficial “La Gaceta”.
+ARTÍCULO 11.- VIGENCIA. El presente Decreto y la derogación aprobada en fecha 5 de Noviembre de 2019, de los artículos 102, 103, 104, 105, 106, 176, 182, 225, 263, 275, 309, 317, 337, 346, 368, 397, 403, 411, 417, 430, 434, 437, 444, 469, 511, 569 y 596 del Decreto No. 130-2017; la derogación de los artículos 28 y 153 del Decreto No. 130-2017, aprobadas el 19 de Febrero de 2020; así como las reformas a los artículos 428 y 429 del Decreto No. 130-2017, aprobadas el 4 de Marzo de 2020, las cuales, junto con la derogación aprobada en fecha 5 de Noviembre de 2019, entran en vigencia al día siguiente de la publicación del presente Decreto en el Diario Oficial “La Gaceta”.
 
 Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, en la Sesión celebrada por el Congreso Nacional de manera Virtual, a los siete días del mes de octubre de dos mil veintiuno.
 

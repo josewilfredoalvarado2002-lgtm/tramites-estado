@@ -8,10 +8,10 @@ gaceta_numero: 37154
 gaceta_fecha: "2026-05-29"
 gaceta: "[[11 Normativa/La Gaceta/2026/La Gaceta 37154 (2026-05-29)|La Gaceta 37154]]"
 paginas: "A. 349 - 350"
-sumario: "Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026PODER LEGISLATIVODecretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo C.G. No. 002-2026INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
+sumario: "Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026; PODER LEGISLATIVO: Decretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo C.G. No. 002-2026; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF)"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260529-37154/download"
 extraido: "2026-11-09"
-huella: "ac1621876550fdee"
+huella: "1b2e0deea32d9d10"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 74-2026
@@ -23,7 +23,7 @@ huella: "ac1621876550fdee"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2026/La Gaceta 37154 (2026-05-29)\|La Gaceta 37154]] del 2026-05-29 |
 | Páginas | A. 349 - 350 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026PODER LEGISLATIVODecretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo C.G. No. 002-2026INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) |
+| Según el sumario de La Gaceta | Decretos Ejecutivos Números PCM 009-2026, PCM 010-2026, 015-2026Acuerdos Ejecutivos Números 033-DP-2026, 034-DP-2026; PODER LEGISLATIVO: Decretos Nos. 71-2026, 72-2026, 74-2026, 80-2026, 82-2026, SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo C.G. No. 002-2026; INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SILVESTRE (ICF) |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 

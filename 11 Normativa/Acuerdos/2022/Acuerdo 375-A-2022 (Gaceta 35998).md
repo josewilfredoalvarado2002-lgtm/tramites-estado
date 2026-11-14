@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Acuerdos Ejecutivos Nos. 375-A-2022, 375-B-2022, 390-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220810-35998/download"
 extraido: "2026-11-14"
-huella: "84552a65e474c777"
+huella: "10e3ec41aca27cef"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 375-A-2022
@@ -37,9 +37,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el artículo 245 numerales 
 
 CONSIDERANDO: Que de conformidad a lo establecido en el artículo 11 de la Ley General de la Administración Pública, la Presidenta de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública, Centralizada y Descentralizada.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-136-97 aprobado 11 de septiembre de 1997 y publicado en el Diario Oficial “La Gaceta” el 15 de noviembre de 1997 de fecha 11 de septiembre de 1997 publicado en el Diario Oficial “La Gaceta” de fecha 15 de noviembre de 1997 en su Edición No. 28,414, en cumplimiento del mandato impostergable instituido en el Artículo 165 de la Constitución de la República, se aprobó el Estatuto del Docente Hondureño, el cual establece el régimen de administración de personal que tutela la Carrera Docente en Instituciones Oficiales, Semioficiales y Privadas regidas por la Secretaría de Estado en el Despacho de Educación.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 136-97 aprobado 11 de septiembre de 1997 y publicado en el Diario Oficial “La Gaceta” el 15 de noviembre de 1997 de fecha 11 de septiembre de 1997 publicado en el Diario Oficial “La Gaceta” de fecha 15 de noviembre de 1997 en su Edición No. 28,414, en cumplimiento del mandato impostergable instituido en el Artículo 165 de la Constitución de la República, se aprobó el Estatuto del Docente Hondureño, el cual establece el régimen de administración de personal que tutela la Carrera Docente en Instituciones Oficiales, Semioficiales y Privadas regidas por la Secretaría de Estado en el Despacho de Educación.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el artículo 4 numeral 1) y 3) del Estatuto del Docente Hondureño, los fines del Estatuto, entre otros es la de regular la carrera docente que es el ingreso, promoción y permanencia de quien ejerce la docencia en el Sistema Nacional de Educación.
 

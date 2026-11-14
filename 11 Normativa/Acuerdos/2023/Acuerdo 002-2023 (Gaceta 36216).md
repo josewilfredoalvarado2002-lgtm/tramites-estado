@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdo Ejecutivo 001-2023, 002-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230429-36216/download"
 extraido: "2026-11-14"
-huella: "e43b27502ae78044"
+huella: "4170f461d9a382a3"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 002-2023
@@ -103,7 +103,7 @@ IRIS XIOMARA CASTRO SARMIENTO
 
 Presidenta Constitucional de la República RAMÓN ANTONIO SABILLON PINEDA Secretario de Estado en el Despacho de Seguridad Avance Próxima Edición
 
-D E C R E T A La siguiente: LEY PARA LA PROTECCIÓN DE LAS MUJERES EN CONTEXTOS DE CRISIS HUMANITARIAS, DESASTRES NATURALES Y EMERGENCIAS ARTÍCULO 1.- La presente Ley tiene por objeto garantizar la protección de las mujeres en el marco de crisis humanitarias por inseguridad alimentaria, desastres naturales, cambio climático y emergencias.
+DECRETA La siguiente: LEY PARA LA PROTECCIÓN DE LAS MUJERES EN CONTEXTOS DE CRISIS HUMANITARIAS, DESASTRES NATURALES Y EMERGENCIAS ARTÍCULO 1.- La presente Ley tiene por objeto garantizar la protección de las mujeres en el marco de crisis humanitarias por inseguridad alimentaria, desastres naturales, cambio climático y emergencias.
 
 CENTROS DE DISTRIBUCIÓN:
 

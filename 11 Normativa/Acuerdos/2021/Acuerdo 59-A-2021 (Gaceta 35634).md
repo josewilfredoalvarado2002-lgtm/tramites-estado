@@ -11,7 +11,7 @@ paginas: "A. 10"
 sumario: "Acuerdos Nos. 59-A-2021, 59-B-2021, 84-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210621-35634/download"
 extraido: "2026-11-14"
-huella: "743bd0b2b0e9e402"
+huella: "df01698c7947c649"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 59-A-2021
@@ -33,13 +33,13 @@ CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 59-2021 de fecha 24 de mayo de 
 
 POR TANTO;
 
-En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+En uso de sus facultades de que fue investido por el Presidente de la República, mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 
 PRIMERO: Modificar el Acuerdo Ejecutivo No. 59-2021 el cual debe leerse de la siguiente forma: Nombrar al ciudadano ABRAHAM ALVARENGA URBINA, en el cargo de Secretario de Estado en el Despacho de la Secretaría de la Presidencia, el nombrado desempeñará el cargo Ad honorem.
 
-SEGUNDO: El presente Acuerdo Ejecutivo es efectivo a partir ,de su fecha y debe publicarse en "La Gaceta" el Diario Oficial de la República.
+SEGUNDO: El presente Acuerdo Ejecutivo es efectivo a partir,de su fecha y debe publicarse en "La Gaceta" el Diario Oficial de la República.
 
 COMUNÍQUESE Y PUBLÍQUESE.
 

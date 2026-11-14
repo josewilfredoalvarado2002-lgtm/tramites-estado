@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Acuerdos C.G. No. 019-2024, 020-2024, 021-2024, 022-2024, 023-2024, 025-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250111-36737/download"
 extraido: "2026-11-13"
-huella: "f45ed402f99a3df1"
+huella: "03a9f003ec5669c2"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos C.G. No. 019-2024, 020-2024, 021-2024, 022-2024, 023-2024, 025-2024
@@ -33,7 +33,7 @@ CONSIDERANDO (1): Que la Constitución de la República en su artículo 245 nume
 
 CONSIDERANDO (2): Que la Constitución de la República en su artículo 247 establece que los Secretarios de Estado son colaboradores de la Presidenta de la República, en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración AVANCE pública nacional, en el área de su competencia.
 
-CONSIDERANDO (3): Que la Constitución de la República en el artículo 274 párrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, e d u c a c i ó n , a g r i c u l t u r a , protección del ambiente, vialidad, comunicaciones, sanidad, y reforma agraria.
+CONSIDERANDO (3): Que la Constitución de la República en el artículo 274 párrafo primero establece que las Fuerzas Armadas estarán sujetas a las disposiciones de su Ley Constitutiva y a las demás leyes y reglamentos que regulen su funcionamiento. Cooperarán con las Secretarías de Estado y demás instituciones, a pedimento de éstas, en labores de alfabetización, educación, agricultura, protección del ambiente, vialidad, comunicaciones, sanidad, y reforma agraria.
 
 CONSIDERANDO (4): Que la Constitución de la República en su artículo 290 establece que los grados militares sólo se adquieren por riguroso ascenso de acuerdo con la ley respectiva. Los militares no podrán ser privados de sus grados, honores y pensiones en otra forma que la fijada por la Ley. Los ascensos desde Subteniente hasta Capitán inclusive serán otorgados por la Presidenta de la República a propuesta del Secretario(a) de Estado en el Despacho de Defensa Nacional; los ascensos desde Mayor hasta General de División inclusive serán otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo. El Estado Mayor Conjunto de las Fuerzas Armadas emitirá dictamen previo a conferir los ascensos de Oficiales.
 
@@ -643,7 +643,7 @@ Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras 
 
 \3) Haber aprobado el curso de capacitación correspondiente a su grado. 4) Haber prestado el 75% de su tiempo de servicio en el grado, ejerciendo funciones propias de su arma, cuerpo o servicio.
 
-CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras, en su artículo 12 establece SON REQUISITOS COMUNES P A R A A S C E N S O D E LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas. c) Condición moral puesta de manifiesto, por el carácter y buena conducta militar. d) Aptitud intelectual, espíritu militar y competencia para el desempeño en el grado inmediato superior. e) No estar sometido a juicio en el que se haya dictado auto de prisión, ni haber sido condenado por delito alguno en el año anterior a su promoción. f) Condición física necesaria, la que se será comprobada por: 1) Ficha Médica. 2) Haber alcanzado el puntaje mínimo en las pruebas físicas acumulativas y en el año de ascenso. 3) Haber aprobado el examen físico final. g) Aprobar el examen de conocimientos correspondientes a su grado.
+CONSIDERANDO (13): Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras, en su artículo 12 establece SON REQUISITOS COMUNES PARA ASCENSO DE LOS OFICIALES DE LAS FUERZAS ARMADAS: a) Haber cumplido con el tiempo mínimo de servicio requerido en cada grado. b) Existir la vacante a nivel de Fuerzas Armadas. c) Condición moral puesta de manifiesto, por el carácter y buena conducta militar. d) Aptitud intelectual, espíritu militar y competencia para el desempeño en el grado inmediato superior. e) No estar sometido a juicio en el que se haya dictado auto de prisión, ni haber sido condenado por delito alguno en el año anterior a su promoción. f) Condición física necesaria, la que se será comprobada por: 1) Ficha Médica. 2) Haber alcanzado el puntaje mínimo en las pruebas físicas acumulativas y en el año de ascenso. 3) Haber aprobado el examen físico final. g) Aprobar el examen de conocimientos correspondientes a su grado.
 
 h) Estar apto según evaluación psicológica realizada. i) Tener un índice de evaluación de eficiencia en el desempeño profesional no menor del setenta por ciento (70%), en el cual se deberá considerar un puntaje del cinco por ciento (5%) por su habilidad para el disparo con sus armas de reglamento, el que se obtendrá proporcionalmente con las pruebas realizadas por la Inspectoría General del Fuerzas Armadas o Inspectorías de Fuerza, así como un puntaje de cinco por ciento (5%) del idioma inglés. j) No haber alcanzado la edad cronológica correspondiente al grado, en los casos que aplica.
 
@@ -657,9 +657,7 @@ Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante 
 
 POR TANTO
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No.
-
-007-2024 de fecha 28 de octubre del año 2024, emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=185(C-1)2024 de fecha 30 de octubre del año 2024, emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No. 007-2024 de fecha 28 de octubre del año 2024, emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=185(C-1)2024 de fecha 30 de octubre del año 2024, emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
 
 ACUERDA
 
@@ -1531,9 +1529,7 @@ Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante 
 
 POR TANTO
 
-En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No.
-
-007-2024 de fecha 28 de octubre del año 2024 emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=190(C-1)2024 de fecha 30 de octubre del año 2024 emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
+En aplicación a los artículos 245 numeral 36), 274 párrafo primero y 290 de la Constitución de la República; artículo 191, 192, 194 y 196 de la Ley Constitutiva de las Fuerzas Armadas; artículo 42 de la Ley de Personal para los Miembros de las Fuerzas Armadas; artículo 54 del Reglamento de Personal para los Miembros de las Fuerzas Armadas de Honduras; artículos 4, 6 inciso b), 10 y 12 del Reglamento de Ascensos para Oficiales de las Fuerzas Armadas de Honduras; Acta No. 007-2024 de fecha 28 de octubre del año 2024 emitida por el Consejo General de Ascensos de las Fuerzas Armadas y el Dictamen D=190(C-1)2024 de fecha 30 de octubre del año 2024 emitido por la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto.
 
 ACUERDA
 

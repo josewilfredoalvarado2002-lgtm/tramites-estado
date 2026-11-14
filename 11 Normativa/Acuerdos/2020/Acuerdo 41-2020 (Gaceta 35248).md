@@ -8,10 +8,10 @@ gaceta_numero: 35248
 gaceta_fecha: "2020-05-10"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35248 (2020-05-10)|La Gaceta 35248]]"
 paginas: "A. 15 - 40"
-sumario: "Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo No. 41-2020"
+sumario: "Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo No. 41-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200510-35248-2/download"
 extraido: "2026-11-14"
-huella: "70f778504a709df8"
+huella: "fe023a1eb68bd3fb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 41-2020
@@ -23,7 +23,7 @@ huella: "70f778504a709df8"
 | Emisor | Secretaría de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35248 (2020-05-10)\|La Gaceta 35248]] del 2020-05-10 |
 | Páginas | A. 15 - 40 |
-| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo No. 41-2020 |
+| Según el sumario de La Gaceta | Decretos Ejecutivos números PCM-041-2020, 042-2020, 043-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo No. 41-2020 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que de acuerdo al Artículo 23 del Reglamento de Organización, fu
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 023-2018 publicado en el Diario Oficial La Gaceta en fecha 20 de abril de 2018 el Presidente de la República delega en la Subsecretaria de Coordinación General de Gobierno la facultad de firmar los actos administrativos que según la Ley General de la Administración Pública, sean de potestad del Presidente Constitucional de la República.
 
-CONSIDERANDO: Que mediante Acuerdo Número 43- 2009 del 21 de diciembre de 2009, se emitió el Reglamento a la Ley de Zonas Libres, con el objeto de regular las diferentes situaciones jurídicas que corresponden a las Zonas Libres.
+CONSIDERANDO: Que mediante Acuerdo Número 43-2009 del 21 de diciembre de 2009, se emitió el Reglamento a la Ley de Zonas Libres, con el objeto de regular las diferentes situaciones jurídicas que corresponden a las Zonas Libres.
 
 CONSIDERANDO: Que mediante Decreto No. 8-2020, publicado en el Diario Oficial La Gaceta en fecha 14 de febrero de 2020, se reforma la Ley de Zonas Libres y establece la emisión de un nuevo reglamento de dicha ley y sus reformas.
 
@@ -53,7 +53,7 @@ El Presidente de la República, en uso de las facultades de que está investido 
 
 \1) y 11), 247 y 255 de la Constitución de la República;
 
-116, 118 numeral 2, 119 numeral 2 y 122 de la Ley General de la Administración Pública; artículos 32 y 33 de la Ley de Procedimiento Administrativo; Resolución 223-2008 contentivo del Código Aduanero Uniforme Centroamericano (CAUCA) y 224-2008 del Reglamento del Código Aduanero Uniforme Centroamericano (RECAUCA), Decreto 170- 2016 contentivo del Código Tributario, Decreto número 356 contentivo de la Ley de Zonas Libres y Decreto No. 8-2020 del 14 de febrero de 2020.
+116, 118 numeral 2, 119 numeral 2 y 122 de la Ley General de la Administración Pública; artículos 32 y 33 de la Ley de Procedimiento Administrativo; Resolución 223-2008 contentivo del Código Aduanero Uniforme Centroamericano (CAUCA) y 224-2008 del Reglamento del Código Aduanero Uniforme Centroamericano (RECAUCA), Decreto 170-2016 contentivo del Código Tributario, Decreto número 356 contentivo de la Ley de Zonas Libres y Decreto No. 8-2020 del 14 de febrero de 2020.
 
 ACUERDA
 
@@ -289,13 +289,11 @@ ARTÍCULO 16.- Las Usuarias podrán ampliar sus operaciones en otras áreas rest
 
 ARTÍCULO 17.- Las empresas autorizadas para operar bajo el régimen de Zona Libre, gozarán de los beneficios fiscales que otorga la ley, mientras las mismas estén acogidas y operando en el régimen, a excepción del Impuesto Sobre la Renta e Impuestos Conexos, los cuales quedan sujetos a los plazos siguientes:
 
-a. La exoneración del Impuesto Sobre la Renta e Impuestos Conexos contenidos en la Ley de Zonas Libres, sujeta al plazo de doce (12) años establecidos en el Artículo 23 del Decreto No. 278-2013 de fecha 21 de diciembre de 2013, finaliza su goce en la fecha en que entró en vigencia el Decreto No.8-2020 del 14 de febrero de 2020.
+a. La exoneración del Impuesto Sobre la Renta e Impuestos Conexos contenidos en la Ley de Zonas Libres, sujeta al plazo de doce (12) años establecidos en el Artículo 23 del Decreto No. 278-2013 de fecha 21 de diciembre de 2013, finaliza su goce en la fecha en que entró en vigencia el Decreto No. 8-2020 del 14 de febrero de 2020.
 
-b. A partir de la fecha de entrada en vigencia del Decreto No.8-2020 del 14 de febrero de 2020, las empresas acogidas al Régimen de Zona Libre, tendrán derecho ipso jure (en forma automática) al plazo de quince (15) años para el beneficio de exoneración del Impuesto Sobre la Renta y sus Impuestos Conexos.
+b. A partir de la fecha de entrada en vigencia del Decreto No. 8-2020 del 14 de febrero de 2020, las empresas acogidas al Régimen de Zona Libre, tendrán derecho ipso jure (en forma automática) al plazo de quince (15) años para el beneficio de exoneración del Impuesto Sobre la Renta y sus Impuestos Conexos.
 
-c. Al vencimiento del plazo de quince (15) años, establecido en el artículo 4-B del Decreto No.
-
-8-2020, del 14 de febrero de 2020, por ser este plazo prorrogable, la beneficiaria del régimen podrá solicitar una prórroga de diez (10) años, antes del vencimiento del plazo de 15 años, para el beneficio de exoneración del Impuesto Sobre la Renta e Impuestos Conexos, ante la Secretaría de Estado en el Despacho de Desarrollo Económico, para lo cual deberán cumplir con los requisitos siguientes:
+c. Al vencimiento del plazo de quince (15) años, establecido en el artículo 4-B del Decreto No. 8-2020, del 14 de febrero de 2020, por ser este plazo prorrogable, la beneficiaria del régimen podrá solicitar una prórroga de diez (10) años, antes del vencimiento del plazo de 15 años, para el beneficio de exoneración del Impuesto Sobre la Renta e Impuestos Conexos, ante la Secretaría de Estado en el Despacho de Desarrollo Económico, para lo cual deberán cumplir con los requisitos siguientes:
 
 1. Estadísticas de las exportaciones de los últimos (5) cinco años.
 
@@ -653,7 +651,7 @@ ARTÍCULO 65.- Los beneficiarios del Régimen, deberán llevar libros y registro
 
 ARTÍCULO 66. - Las Entidades del Estado relacionadas con el control, normativa, y cumplimiento de las actividades de los Centros de Atención de Llamadas (Call Center) y empresas generadoras de energía, localizadas en las Zonas Libres, brindarán toda la información necesaria a la Administración Aduanera de Honduras y a la Secretaría de Estado en el Despacho de Desarrollo Económico, con el fin de establecer los controles que conforme a Ley correspondan.
 
-A RT Í C U L O 6 7 . - E X P O RTA C I O N E S N O
+A RT Í C U L O 6 7 . - EXPO RTA CIONES NO
 
 PERFECCIONADAS. Las exportaciones realizadas por las empresas beneficiaras desde el área restringida y éstas una vez arribadas a la aduana de salida no se exporten por causas no imputables a la empresa, las mercancías podrán retornar a la Zona Libre mediante una Declaración de Mercancías de Tránsito Interno, cumpliéndose para tal efecto el procedimiento como si se tratara de una nueva importación bajo el beneficio.
 
@@ -739,7 +737,7 @@ ARTÍCULO 81: La Operadora u Operadora Usuaria que a la entrada en vigencia del 
 
 #### Artículo 82
 
-ARTICULO 82: Conforme a lo establecido en el párrafo segundo del Artículo 4B, del Decreto No.8-2020 del 14 de febrero de 2020, para otorgar los beneficios e incentivos fiscales que establece esta Ley, las empresas que a la fecha de entrada en vigencia del referido Decreto gocen de los beneficios de la Ley de Zonas Libres, tendrán un plazo de tres
+ARTICULO 82: Conforme a lo establecido en el párrafo segundo del Artículo 4B, del Decreto No. 8-2020 del 14 de febrero de 2020, para otorgar los beneficios e incentivos fiscales que establece esta Ley, las empresas que a la fecha de entrada en vigencia del referido Decreto gocen de los beneficios de la Ley de Zonas Libres, tendrán un plazo de tres
 
 (3) meses, prorrogables por un periodo igual, contados a partir de la vigencia del presente Reglamento, para que acrediten ante la Secretaría de Estado en el Despacho de Desarrollo Económico, la continuación de sus operaciones dentro del referido régimen, debiendo presentar ante la Secretaría General de esta Institución, una solicitud para la emisión de la Resolución de validación del goce de beneficios.
 
@@ -747,7 +745,7 @@ Adicionalmente deberán acompañar el formulario con la información que para fi
 
 #### Artículo 83
 
-ARTÍCULO 83.- En el caso que las empresas a que se refiere el Artículo anterior, no cumplan con la acreditación de la continuidad de sus operaciones bajo el Régimen, la Secretaría de Estado en el Despacho de Desarrollo Económico, a través de la Dirección General de Sectores Productivos, procederá a la cancelación de oficio de los beneficios otorgados bajo la Ley de Zonas Libres, establecida en el Artículo 5B del Decreto No.8-2020, debiendo notificar de la misma a la Secretaría de Estado en el Despacho de Finanzas y Administración Aduanera
+ARTÍCULO 83.- En el caso que las empresas a que se refiere el Artículo anterior, no cumplan con la acreditación de la continuidad de sus operaciones bajo el Régimen, la Secretaría de Estado en el Despacho de Desarrollo Económico, a través de la Dirección General de Sectores Productivos, procederá a la cancelación de oficio de los beneficios otorgados bajo la Ley de Zonas Libres, establecida en el Artículo 5B del Decreto No. 8-2020, debiendo notificar de la misma a la Secretaría de Estado en el Despacho de Finanzas y Administración Aduanera
 
 #### Artículo 84
 

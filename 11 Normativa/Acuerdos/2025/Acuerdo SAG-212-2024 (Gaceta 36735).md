@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo No. SAG-212-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250109-36735/download"
 extraido: "2026-11-13"
-huella: "294b4e7150da3f4d"
+huella: "2c7b5bd0d536bcc4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-212-2024
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 20 de Diciembre 2024 LA SECRETARÍA DE ESTADO EN LOS DESPAC
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la Administración Pública Nacional, en el área de su competencia.
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No. 146- 2024, de fecha dos (2) de junio del año dos mil venticuatro (2024), se nombró al ciudadano HENRY ALEXIS MENDOZA ZELAYA, en el cargo de Secretario General, en los Despachos de la Secretaría de Agricultura y Ganadería.
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 146-2024, de fecha dos (2) de junio del año dos mil venticuatro (2024), se nombró al ciudadano HENRY ALEXIS MENDOZA ZELAYA, en el cargo de Secretario General, en los Despachos de la Secretaría de Agricultura y Ganadería.
 
 CONSIDERANDO: Que para cumplir con los objetivos de la simplificación, se hace necesario delegar en el Secretario General, por medio de quien ejerza su titularidad, el ejercicio de funciones en determinada materia como ser específicamente los actos de trámite cualquiera que sea su naturaleza siempre y cuando no impliquen aquellos que pongan fin al procedimiento administrativo, resuelvan recursos, reconozcan o limiten derechos de los particulares.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el Artículo 123 de la Ley General de la Administración Públ
 
 POR TANTO:
 
-En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos: 1, 2, 3, 4, 5, de la Ley de Procedimiento Administrativo; 36 numeral 8 y 19), 116, 118, 122, 123, de la Ley General de la Administración Pública; 17, 24, 27 y 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo PCM- 008-97 publicado en el Diario Oficial “La Gaceta” del 07 de Junio de 1997.
+En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los Artículos: 1, 2, 3, 4, 5, de la Ley de Procedimiento Administrativo; 36 numeral 8 y 19), 116, 118, 122, 123, de la Ley General de la Administración Pública; 17, 24, 27 y 28 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Ejecutivo PCM-008-97 publicado en el Diario Oficial “La Gaceta” del 07 de Junio de 1997.
 
 ACUERDA:
 

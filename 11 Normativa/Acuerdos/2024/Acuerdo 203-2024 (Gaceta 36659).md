@@ -8,10 +8,10 @@ gaceta_numero: 36659
 gaceta_fecha: "2024-10-08"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36659 (2024-10-08)|La Gaceta 36659]]"
 paginas: "A. 4 - 7"
-sumario: "Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo S.D.N. No. 167-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024PROGRAMA DE LA RED SOLIDARIAAcuerdo No. PRS-013-2024"
+sumario: "Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo S.D.N. No. 167-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024; PROGRAMA DE LA RED SOLIDARIA: Acuerdo No. PRS-013-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241008-36659/download"
 extraido: "2026-11-14"
-huella: "f5333602e92f4f57"
+huella: "4bd4ea7e50288c99"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 203-2024
@@ -23,7 +23,7 @@ huella: "f5333602e92f4f57"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36659 (2024-10-08)\|La Gaceta 36659]] del 2024-10-08 |
 | Páginas | A. 4 - 7 |
-| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONALAcuerdo S.D.N. No. 167-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024PROGRAMA DE LA RED SOLIDARIAAcuerdo No. PRS-013-2024 |
+| Según el sumario de La Gaceta | Acuerdos Ejecutivos Nos. 185-2024, 201-2024, 202-2024, 203-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL: Acuerdo S.D.N. No. 167-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE INFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo Ministerial No. 0142-2024; PROGRAMA DE LA RED SOLIDARIA: Acuerdo No. PRS-013-2024 |
 
 ## Texto
 
@@ -57,7 +57,7 @@ Presidenta Constitucional de la República TOMAS EDUARDO VAQUERO MORRIS Secretar
 
 CONSIDERANDO (1): Qué, la Abogada Rixi Moncada Godoy, fue nombrada como Secretaria de Estado en el Despacho de Defensa Nacional, mediante Acuerdo Ejecutivo No. 192-2024 de fecha 01 de septiembre del 2024, por la Señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas.
 
-CONSIDERANDO (2): Qué, la Constitución de la República en el artículo 247 establece que “Los Secretarios de Estado son colaboradores d e l P r e s i d e n t e d e l a República, en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia”.
+CONSIDERANDO (2): Qué, la Constitución de la República en el artículo 247 establece que “Los Secretarios de Estado son colaboradores del Presidente de la República, en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia”.
 
 CONSIDERANDO (3): Qué, la Ley General de la Administración Pública en el artículo 36, establece las atribuciones y deberes comunes a los Secretarios de Estado, dentro de las cuales se hace referencia específica en su numeral “19) Delegar atribuciones en los Subsecretarios y Secretarios Generales.”
 
@@ -69,7 +69,7 @@ Colaborar con el Secretario de Estado en la formulación de la política y plane
 
 Las demás que el Secretario de Estado le asigne”.
 
-CONSIDERANDO (5): Qué, la Ley de Procedimiento A d m i n i s t r a t i v o e n e l artículo 4 establece que “Sin perjuicio de lo dispuesto en el artículo anterior, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior. En defecto de disposición legal, el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al Ramo de la Administración de que forman parte el superior y el inferior”.
+CONSIDERANDO (5): Qué, la Ley de Procedimiento Administrativo en el artículo 4 establece que “Sin perjuicio de lo dispuesto en el artículo anterior, el órgano superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior. En defecto de disposición legal, el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al Ramo de la Administración de que forman parte el superior y el inferior”.
 
 CONSIDERANDO (6): Qué, los Secretarios de Estado podrán delegar al órgano inmediatamente inferior, el ejercicio de sus funciones siempre que la competencia sea atribuida al ramo de la administración.
 

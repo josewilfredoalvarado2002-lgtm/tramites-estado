@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Acuerdo Ejecutivo número 027-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210809-35682/download"
 extraido: "2026-11-14"
-huella: "1d9d2865e72010df"
+huella: "c56f4f211fbbd62b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 027-2021
@@ -59,9 +59,7 @@ POR TANTO:
 
 En uso de las facultades contenidas en los Artículos 245 numerales 1, 2, 11 y 28 de la Constitución de la República,
 
-Artículos 11 de la Ley General de la Administración Pública; Artículo 63, inciso 6) de la Ley de Contratación del Estado, Decreto Legislativo No. 369-2013, Decretos Ejecutivos números PCM-005-2020, PCM-109-2020, PCM-112-202, PCM-113-2020, PCM-016-2020, PCM- 023-2020, PCM-034-2021; Acuerdo Ejecutivo No.
-
-043-2020.
+Artículos 11 de la Ley General de la Administración Pública; Artículo 63, inciso 6) de la Ley de Contratación del Estado, Decreto Legislativo No. 369-2013, Decretos Ejecutivos números PCM-005-2020, PCM-109-2020, PCM-112-202, PCM-113-2020, PCM-016-2020, PCM-023-2020, PCM-034-2021; Acuerdo Ejecutivo No. 043-2020.
 
 ACUERDA:
 

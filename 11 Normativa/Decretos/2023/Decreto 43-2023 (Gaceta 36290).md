@@ -11,7 +11,7 @@ paginas: "A. 35 - 44"
 sumario: "Decretos Nos. 38-2023, 43-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230725-36290/download"
 extraido: "2026-11-14"
-huella: "bb12ab1260838a90"
+huella: "4ab038f16946ef61"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 43-2023
@@ -39,27 +39,27 @@ CONSIDERANDO: Que con la creación de leyes que vayan en beneficio de la mayorí
 
 CONSIDERANDO: Que la sociedad hondureña ha hecho una depuración exhaustiva mediante el ejercicio de la democracia electoral; el que es claro y demanda un cambio radical para el ejercicio de la función legislativa, mismo que va desde la desinstalación de la estructura legal que fomenta la corrupción, hasta la total certeza de aprobación de leyes que combatan la impunidad en Honduras.
 
-CONSIDERANDO: Que consta en los archivos de este Poder del Estado la opinión enviada por la Honorable Corte Suprema de Justicia mediante el Oficio PCSJ No.140-2022 de fecha 16 de marzo de 2022, en la que da respuesta a los oficios:
+CONSIDERANDO: Que consta en los archivos de este Poder del Estado la opinión enviada por la Honorable Corte Suprema de Justicia mediante el Oficio PCSJ No. 140-2022 de fecha 16 de marzo de 2022, en la que da respuesta a los oficios:
 
-No.14-2022/CN y No.22-2022/CN, para dar cumplimiento al Artículo 219 de la Constitución de la República.
+No. 14-2022/CN y No. 22-2022/CN, para dar cumplimiento al Artículo 219 de la Constitución de la República.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Derogar el Decreto Legislativo No.57- 2020, mismo que fue aprobado en fecha 21 de Mayo de 2020 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,398 de fecha 13 de Octubre de 2020. Dejando sin valor y efecto la interpretación de los Artículos 217, 219 y 220 del Código Procesal Penal (CPP), contenido en el Decreto No.9-99 E, de fecha 19 de Diciembre de 1999, publicado en el Diario Oficial “La Gaceta” el 20 de Mayo del año 2000 y Artículo 8 numeral
+ARTÍCULO 1.- Derogar el Decreto Legislativo No. 57-2020, mismo que fue aprobado en fecha 21 de Mayo de 2020 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,398 de fecha 13 de Octubre de 2020. Dejando sin valor y efecto la interpretación de los Artículos 217, 219 y 220 del Código Procesal Penal (CPP), contenido en el Decreto No. 9-99 E, de fecha 19 de Diciembre de 1999, publicado en el Diario Oficial “La Gaceta” el 20 de Mayo del año 2000 y Artículo 8 numeral
 
 \1) de la Ley Especial Contra el Lavado de Activos, contenida en Decreto No.144- 2014, de fecha 13 de Enero del año 2015 y publicado en el Diario Oficial “La Gaceta” el 30 de Abril de 2015, Edición No.33,718.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Decreto Legislativo No.93- 2021, aprobado en fecha 7 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha primero de Noviembre de 2021, dejando sin valor ni efecto de su Artículo 1 la derogación de los artículos 102 y 444 del Decreto No.130-2017, así como dejando sin valor ni efecto la reforma al Artículo 439 del mismo Decreto No.130-2017, la cual se encuentre contenido en el Artículo 4 del Decreto Legislativo No.93-2021; asimismo, se reforma por adición los artículos 102, 439, 444 y 587-A contenidos en el Decreto No.130-2017, de fecha 18 del mes de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en la Edición 34,940 de fecha 10 de Mayo de 2019, los que en adelante deberán leerse de la forma siguiente:
+ARTÍCULO 2.- Reformar el Decreto Legislativo No. 93-2021, aprobado en fecha 7 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha primero de Noviembre de 2021, dejando sin valor ni efecto de su Artículo 1 la derogación de los artículos 102 y 444 del Decreto No. 130-2017, así como dejando sin valor ni efecto la reforma al Artículo 439 del mismo Decreto No. 130-2017, la cual se encuentre contenido en el Artículo 4 del Decreto Legislativo No. 93-2021; asimismo, se reforma por adición los artículos 102, 439, 444 y 587-A contenidos en el Decreto No. 130-2017, de fecha 18 del mes de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en la Edición 34,940 de fecha 10 de Mayo de 2019, los que en adelante deberán leerse de la forma siguiente:
 
-“ARTÍCULO 102.- PERSONAS J U R I D I C A S P E N A L M E N T E RESPONSABLES. En los supuestos previstos en el presente Código, las personas jurídicas son penalmente responsables de los delitos dolosos cometidos en nombre o por cuenta de las mismas y en su beneficio, por sus representantes legales o administradores de hecho o de derecho.
+“ARTÍCULO 102.- PERSONAS JURIDICAS PENALMENTE RESPONSABLES. En los supuestos previstos en el presente Código, las personas jurídicas son penalmente responsables de los delitos dolosos cometidos en nombre o por cuenta de las mismas y en su beneficio, por sus representantes legales o administradores de hecho o de derecho.
 
 La concurrencia, en las personas que materialmente hayan realizado los hechos, de circunstancias que afecten a la culpabilidad del acusado o agraven su responsabilidad o, el hecho de que dichas personas hayan fallecido o se hubieren sustraído a la acción de la justicia, no excluirá ni modificará la responsabilidad penal de las personas jurídicas, sin perjuicio de lo que se dispone en el Artículo siguiente. Del mismo modo, aunque la persona jurídica deje de existir antes de recaer sentencia firme, no excluirá la responsabilidad penal de las personas naturales.
 
@@ -91,7 +91,7 @@ Las penas anteriores se deben aumentar en un cuarto (1/4) en los casos siguiente
 
 \4) En los delitos contra la administración pública”.
 
-“ A R T Í C U L O
+“ ARTÍCULO
 
 4 4 4 . -
 
@@ -125,7 +125,7 @@ El delito de financiamiento existe y será sancionado independientemente que los
 
 #### Artículo 3
 
-ARTÍCULO 3.- Derogar el Artículo 8 del Decreto Legislativo No.93-2021, aprobado en fecha 7 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha Primero de Noviembre de 2021, que reforma los artículos 2, 26, 29, 30 y 47 del Decreto No.144-2014 que contiene la “LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS”, mismos artículos que a partir de la fecha deben leerse de la forma siguiente:
+ARTÍCULO 3.- Derogar el Artículo 8 del Decreto Legislativo No. 93-2021, aprobado en fecha 7 de Octubre de 2021 y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha Primero de Noviembre de 2021, que reforma los artículos 2, 26, 29, 30 y 47 del Decreto No. 144-2014 que contiene la “LEY ESPECIAL CONTRA EL LAVADO DE ACTIVOS”, mismos artículos que a partir de la fecha deben leerse de la forma siguiente:
 
 “ARTÍCULO 2.- DEFINICIONES. -
 
@@ -145,7 +145,7 @@ Para efectos de esta Ley, se entenderán así:
 
 \33) D-RISKING O LA NO GESTIÓN
 
-DEL RIESGO: El D-risking o la no gestión del riesgo, es cuando los sujetos obligados terminan, restringen, abandonan o reducen las relaciones financieras o comerciales con clientes o categorías de clientes para evitar riesgos regulatorios y de cumplimiento; se caracteriza por la completa y exagerada reacción al riesgo, adoptada por las instituciones financieras, que simplemente están abdicando de ejercer su función institucional y social de gerenciamiento del riesgo y no de su administración; y, 3 4 ) P E R S O N A E X P U E S T A POLITICAMENTE (PEP): Aquellas que desempeñan o han desempeñado funciones públicas destacadas en el país o en un país extranjero, conforme a la definición de funcionario público establecida en la Convención de las Naciones Unidas contra la Corrupción, los nacionales o extranjeros a quienes una organización internacional les ha confiado una función destacada dentro o fuera del país, funcionarios o miembros de partidos políticos que por su capacidad de influencia en las decisiones estatales, sus relaciones de negocio con personas o sociedades, o sobre procesos públicos de cualquier naturaleza, pueden utilizar su influencia para su propio beneficio o de un tercero. Esta definición no pretende cubrir a individuos en un rango medio o más subalterno en las categorías anteriores.
+DEL RIESGO: El D-risking o la no gestión del riesgo, es cuando los sujetos obligados terminan, restringen, abandonan o reducen las relaciones financieras o comerciales con clientes o categorías de clientes para evitar riesgos regulatorios y de cumplimiento; se caracteriza por la completa y exagerada reacción al riesgo, adoptada por las instituciones financieras, que simplemente están abdicando de ejercer su función institucional y social de gerenciamiento del riesgo y no de su administración; y, 3 4 ) PERSONA EXPUESTA POLITICAMENTE (PEP): Aquellas que desempeñan o han desempeñado funciones públicas destacadas en el país o en un país extranjero, conforme a la definición de funcionario público establecida en la Convención de las Naciones Unidas contra la Corrupción, los nacionales o extranjeros a quienes una organización internacional les ha confiado una función destacada dentro o fuera del país, funcionarios o miembros de partidos políticos que por su capacidad de influencia en las decisiones estatales, sus relaciones de negocio con personas o sociedades, o sobre procesos públicos de cualquier naturaleza, pueden utilizar su influencia para su propio beneficio o de un tercero. Esta definición no pretende cubrir a individuos en un rango medio o más subalterno en las categorías anteriores.
 
 Las personas categorizadas como PEP permanecerán en dicha categoría hasta por cinco (5) años después de haber cesado en el cargo.” “ARTÍCULO 26.- DISPONIBILIDAD DE LOS REGISTROS. Los registros que establece este Capítulo deben estar a disposición de los Órganos Jurisdiccionales Competentes, del Ministerio Público y de la Unidad de Inteligencia Financiera
 
@@ -199,17 +199,17 @@ Adicionalmente…:
 
 \1) …; y, 2)...”
 
-“ A R T Í C U L O 4 7 . R E S E R V A BANCARIA, PROFESIONAL
+“ ARTÍCULO 4 7 . RESERVA BANCARIA, PROFESIONAL
 
-O TRIBUTARIA. Para efectos de la aplicación de esta Ley y siempre s a l v a g u a r d a n d o l o s d e r e c h o s fundamentales de la persona, no puede invocarse el resguardo, reserva o secreto bancario, profesional o tributario”.
+O TRIBUTARIA. Para efectos de la aplicación de esta Ley y siempre salvaguardando los derechos fundamentales de la persona, no puede invocarse el resguardo, reserva o secreto bancario, profesional o tributario”.
 
 #### Artículo 4
 
-ARTÍCULO 4.- Derogar el Artículo 9 del Decreto Legislativo No.93-2021, aprobado en fecha 7 de Octubre de 2021, y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha Primero de Noviembre de 2021.
+ARTÍCULO 4.- Derogar el Artículo 9 del Decreto Legislativo No. 93-2021, aprobado en fecha 7 de Octubre de 2021, y publicado en el Diario Oficial “La Gaceta” en la Edición 35,760 de fecha Primero de Noviembre de 2021.
 
 #### Artículo 5
 
-ARTÍCULO 5.- Reformar en el Decreto Legislativo No.130-2017, de fecha 18 del mes de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en la Edición 34,940 de fecha 10 de Mayo de 2019, en el TITULO XXV refiriéndose al bien jurídico protegido, el cual deberá leerse de la siguiente manera: “TITULO XXV OTROS DELITOS CONTRA EL ORDEN SOCIOECONOMICO”.
+ARTÍCULO 5.- Reformar en el Decreto Legislativo No. 130-2017, de fecha 18 del mes de Enero de 2018 y publicado en el Diario Oficial “La Gaceta” en la Edición 34,940 de fecha 10 de Mayo de 2019, en el TITULO XXV refiriéndose al bien jurídico protegido, el cual deberá leerse de la siguiente manera: “TITULO XXV OTROS DELITOS CONTRA EL ORDEN SOCIOECONOMICO”.
 
 #### Artículo 6
 

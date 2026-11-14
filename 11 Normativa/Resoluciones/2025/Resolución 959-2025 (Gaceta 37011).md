@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 959-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251205-37011/download"
 extraido: "2026-11-09"
-huella: "bfc3cc2f13c66a78"
+huella: "6da034474c786c80"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 959-2025
@@ -35,7 +35,7 @@ CERTIFICA: La Resolución que literalmente dice:
 
 ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, veinte de junio del año dos mil veinticinco.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha siete de octubre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-07102024- 554, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA ALDEA MONTAÑITA EL EDÉN, MUNICIPIO DE SANTA LUCÍA DEPARTAMENTO DE FRANCISCO MORAZÁN”, la cual se encuentra domiciliada en la aldea Montañita El Edén, municipio de Santa Lucía, departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha siete de octubre del año dos mil veinticuatro, misma que corre a expediente administrativo No. PJ-07102024-554, por la Abogada GLICELDA ELIZABETH LOPEZ URBINA, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA Y SANEAMIENTO DE LA ALDEA MONTAÑITA EL EDÉN, MUNICIPIO DE SANTA LUCÍA DEPARTAMENTO DE FRANCISCO MORAZÁN”, la cual se encuentra domiciliada en la aldea Montañita El Edén, municipio de Santa Lucía, departamento de Francisco Morazán, República de Honduras; contraído a solicitar que se le conceda la PERSONALIDAD JURÍDICA Y APROBACIÓN DE ESTATUTOS, a favor de su representada.
 
 CONSIDERANDO: Que el peticionario acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica a favor de su representada.
 

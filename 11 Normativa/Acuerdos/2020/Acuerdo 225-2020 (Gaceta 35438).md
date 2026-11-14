@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdos Ministeriales No. 225-2020, 227-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201123-35438/download"
 extraido: "2026-11-14"
-huella: "8cc067d7aef59b9c"
+huella: "b0acd4e4daab34e4"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 225-2020
@@ -31,7 +31,7 @@ LA SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO,
 
 CONSIDERANDO: Que el Tratado de Libre Comercio entre República Dominicana, Centroamérica y los Estados Unidos (RD-CAFTA) fue aprobado por el Congreso Nacional mediante Decreto No. 10-2005 del 03 de marzo de 2005 y publicado en el Diario Oficial “La Gaceta” el 02 de julio del mismo año.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No.3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 16-2006 publicado el 24 de marzo de 2006, fue emitido el Reglamento sobre la Distribución y Asignación de Contingentes Arancelarios de Importación de Productos Agropecuarios acordados en las Notas Generales de las listas arancelarias de Honduras comprendidas en el Anexo No. 3 del Tratado RD-CAFTA, siendo la Secretaría de Desarrollo Económico el órgano responsable de distribuir, asignar y administrar los contingentes arancelarios de importación de conformidad con el citado Acuerdo.
 
 CONSIDERANDO: Que de conformidad con la Constitución de la República, el Estado reconoce, garantiza y fomenta las libertades de consumo y competencia; sin embargo, por razones de orden público e interés social, podrá dictar medidas para encauzar, estimular, supervisar, orientar y suplir la iniciativa privada, con fundamento en una política económica racional y planificada.
 

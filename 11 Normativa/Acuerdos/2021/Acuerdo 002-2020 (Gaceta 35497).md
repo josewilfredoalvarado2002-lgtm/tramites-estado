@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo Ejecutivo No. 002-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210125-35497/download"
 extraido: "2026-11-14"
-huella: "42372d790ec2840a"
+huella: "3662340387423278"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 002-2020
@@ -41,13 +41,13 @@ CONSIDERANDO: Que es responsabilidad de la Comisión para el Control de Inundaci
 
 CONSIDERANDO: Que es obligatorio el mantenimiento, protección y vigilancia constante por parte de las autoridades, pobladores de las diferentes comunidades y de todas las entidades del Estado su participación, bajo principios de corresponsabilidad, solidaridad y autogestión, en relación a las obras que la Comisión para el Control de Inundaciones del Valle de Sula ejecuta a lo largo de la zona del Valle de Sula, en las cuencas de los Ríos Ulúa y Chamelecón.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 023-2018 de fecha dieciséis (16) de abril del año dos mil dieciocho (2018), publicado en el Diario Oficial La Gaceta el veinte (20) de abril del año dos mil dieciocho (2018) en su edición No.34,620, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, Delega en la Subsecretaria de Coordinación General de Gobierno, Licenciada Martha Vicenta Doblado Andara, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios;
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 023-2018 de fecha dieciséis (16) de abril del año dos mil dieciocho (2018), publicado en el Diario Oficial La Gaceta el veinte (20) de abril del año dos mil dieciocho (2018) en su edición No. 34,620, el Presidente Constitucional de la República Abogado Juan Orlando Hernández Alvarado, Delega en la Subsecretaria de Coordinación General de Gobierno, Licenciada Martha Vicenta Doblado Andara, la potestad de firmar los Acuerdos Ejecutivos que según la Ley General de Administración Pública, sean potestad del Presidente Constitucional de la República su sanción, cuyo contenido vaya orientado a autorizar la legalización de: a) Reglamentos; b) Contrataciones de Bienes y Servicios mediante la modalidad de Contratación Directa según los supuestos establecidos en la Ley de Contratación del Estado; c) Autorizaciones al Procurador General de la República para Ejecutar Facultades de Expresa Mención en las demandas promovidas contra el Estado de Honduras; d) Gastos de Representación de Funcionarios;
 
 e) Préstamos f) Modificaciones Presupuestarias; y, g) Otros actos administrativos que deba firmar por Ley el Presidente de la República.
 
 POR TANTO:
 
-En uso de las Facultades de que está investida y en aplicación de los Artículos 245 numeral 2 y 11) de la Constitución de la República, artículos 1, 11, 116 y 118 de la Ley General de la Administración Pública, Artículo 1, de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículo 41 de la Ley de Procedimiento Administrativo, artículo 34, 38, 65 y 105 de la Ley General de Medio Ambiente; Principios y Fundamentos de la Ley General de Aguas, Decreto No.181/2009; Decreto Ejecutivo Número PCM-017-2010 de fecha cuatro (04) de mayo de 2010, publicado en el Diario Oficial La Gaceta de fecha el 14 de mayo de 2010 y Acuerdo Ejecutivo Número 023-2018 de fecha dieciséis (16) de abril del año dos mil dieciocho (2018), publicado en el Diario Oficial La Gaceta el veinte (20) de abril del año dos mil dieciocho (2018).
+En uso de las Facultades de que está investida y en aplicación de los Artículos 245 numeral 2 y 11) de la Constitución de la República, artículos 1, 11, 116 y 118 de la Ley General de la Administración Pública, Artículo 1, de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículo 41 de la Ley de Procedimiento Administrativo, artículo 34, 38, 65 y 105 de la Ley General de Medio Ambiente; Principios y Fundamentos de la Ley General de Aguas, Decreto No. 181/2009; Decreto Ejecutivo Número PCM-017-2010 de fecha cuatro (04) de mayo de 2010, publicado en el Diario Oficial La Gaceta de fecha el 14 de mayo de 2010 y Acuerdo Ejecutivo Número 023-2018 de fecha dieciséis (16) de abril del año dos mil dieciocho (2018), publicado en el Diario Oficial La Gaceta el veinte (20) de abril del año dos mil dieciocho (2018).
 
 ACUERDA:
 
@@ -65,7 +65,7 @@ Asimismo en el presente Reglamento se contempla en forma clara y precisa todas l
 
 #### Artículo 2
 
-Artículo 2.- El presente Reglamento se fundamenta en las estipulaciones que la Constitución de la República establece, en la Ley General del Ambiente, en la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER) Decreto 151- 2009 de fecha veintiséis (26) de diciembre de dos mil nueve (2009) y la Ley General de Aguas, para dictar normas con el objeto de normar la preservación del medio ambiente, para proteger la vida, la salud y el patrimonio de las personas, por tanto se declara de utilidad y necesidad pública la Protección y Mantenimiento de las Obras para la mitigación y protección de Inundaciones en el Valle de Sula, con la participación responsable de todas las instancias de gobierno central y local y sociedad civil.
+Artículo 2.- El presente Reglamento se fundamenta en las estipulaciones que la Constitución de la República establece, en la Ley General del Ambiente, en la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER) Decreto 151-2009 de fecha veintiséis (26) de diciembre de dos mil nueve (2009) y la Ley General de Aguas, para dictar normas con el objeto de normar la preservación del medio ambiente, para proteger la vida, la salud y el patrimonio de las personas, por tanto se declara de utilidad y necesidad pública la Protección y Mantenimiento de las Obras para la mitigación y protección de Inundaciones en el Valle de Sula, con la participación responsable de todas las instancias de gobierno central y local y sociedad civil.
 
 #### Artículo 3
 

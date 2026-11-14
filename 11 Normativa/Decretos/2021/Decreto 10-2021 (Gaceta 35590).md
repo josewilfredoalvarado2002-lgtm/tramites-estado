@@ -11,7 +11,7 @@ paginas: "A. 1 - 60"
 sumario: "Decreto No. 10-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210505-35590/download"
 extraido: "2026-11-14"
-huella: "6cfc33561dae8ce5"
+huella: "597c165cc36e93b9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 10-2021
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Contrato de Préstamo No. 4926/ GN-HO, suscrito el 24 de Noviembre de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Diez Millones Setecientos Treinta y Siete Mil Trescientos Cuarenta y Nueve Dólares de los Estados Unidos de América (US$10,737,349.00), tiene por objeto financiar la ejecución del “Programa de Restauración de Bosques Resilientes al Clima y Silvicultura para la Sostenibilidad de los Servicios Ecosistémicos Relacionados con el Agua”, el cual tiene como objetivo contribuir a mejorar la resiliencia climática de los bosques localizados en zonas críticas para la provisión de agua.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6822-HN, suscrito el 8 de Marzo de 2021 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Cincuenta Millones de Dólares de los Estados Unidos de América (US$150,000,000.00), está destinado a financiar la ejecución del “Proyecto de Recuperación de Emergencia a causa de los Ciclones Tropicales Eta e Iota en Honduras”, programa que tiene como objetivo general apoyar las necesidades de respuesta y de recuperación de Honduras y fortalecer la capacidad institucional para gestionar una recuperación y reconstrucción resiliente e inclusiva.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6822-HN, suscrito el 8 de Marzo de 2021 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Cincuenta Millones de Dólares de los Estados Unidos de América (US$150,000,000.00), está destinado a financiar la ejecución del “Proyecto de Recuperación de Emergencia a causa de los Ciclones Tropicales Eta e Iota en Honduras”, programa que tiene como objetivo general apoyar las necesidades de respuesta y de recuperación de Honduras y fortalecer la capacidad institucional para gestionar una recuperación y reconstrucción resiliente e inclusiva.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6680-HN, suscrito el 8 de Marzo de 2021 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), está destinado a financiar la ejecución del “Proyecto de Seguridad Hídrica en el Corredor Seco de Honduras”, el cual tiene como objetivo general mejorar la prestación del servicio de agua y fortalecer la gobernanza del agua en áreas seleccionadas del Corredor Seco de Honduras.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6680-HN, suscrito el 8 de Marzo de 2021 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), está destinado a financiar la ejecución del “Proyecto de Seguridad Hídrica en el Corredor Seco de Honduras”, el cual tiene como objetivo general mejorar la prestación del servicio de agua y fortalecer la gobernanza del agua en áreas seleccionadas del Corredor Seco de Honduras.
 
 CONSIDERANDO: Que los proyectos antes relacionados traen consigo beneficios de impacto a la población, siendo los tres (3) proyectos de vital necesidad para la población, alcanzando de esta manera el equilibrio económico y social los cuales son necesarios en este tiempo de Emergencia Sanitaria y Crisis Nacional.
 
@@ -41,15 +41,15 @@ CONSIDERANDO: Que de conformidad al Artículo 205, numerales 19 y 36 de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No.4926/GN-HO, suscrito el 24 de Noviembre de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de prestamista y el Gobierno de la República de Honduras, en su condición de prestatario del financiamiento de hasta un monto de Diez Millones Setecientos Treinta y Siete Mil Trescientos Cuarenta y Nueve Dólares de los Estados Unidos de América (US$10,737,349.00), recursos destinados a financiar la ejecución del “PROGRAMA DE RESTAURACIÓN DE BOSQUES RESILIENTES AL CLIMA Y SILVICULTURA PARA LA SOSTENIBILIDAD DE LOS SERVICIOS ECOSISTÉMICOS RELACIONADOS CON EL AGUA”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Contrato de Préstamo No. 4926/GN-HO, suscrito el 24 de Noviembre de 2020, entre el Banco Interamericano de Desarrollo (BID), en su condición de prestamista y el Gobierno de la República de Honduras, en su condición de prestatario del financiamiento de hasta un monto de Diez Millones Setecientos Treinta y Siete Mil Trescientos Cuarenta y Nueve Dólares de los Estados Unidos de América (US$10,737,349.00), recursos destinados a financiar la ejecución del “PROGRAMA DE RESTAURACIÓN DE BOSQUES RESILIENTES AL CLIMA Y SILVICULTURA PARA LA SOSTENIBILIDAD DE LOS SERVICIOS ECOSISTÉMICOS RELACIONADOS CON EL AGUA”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
-FINANZAS. CONTRATO DE PRÉSTAMO No.4926/ GN-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO en su calidad de agencia implementadora del Fondo Verde para el Clima. Programa de Restauración de Bosques Resilientes al Clima y Silvicultura para la Sostenibilidad de los Servicios Ecosistémicos Relacionados con el Agua 24 de noviembre de 2020. CONTRATO DE PRÉSTAMO.
+FINANZAS. CONTRATO DE PRÉSTAMO No. 4926/ GN-HO entre la REPÚBLICA DE HONDURAS y el BANCO INTERAMERICANO DE DESARROLLO en su calidad de agencia implementadora del Fondo Verde para el Clima. Programa de Restauración de Bosques Resilientes al Clima y Silvicultura para la Sostenibilidad de los Servicios Ecosistémicos Relacionados con el Agua 24 de noviembre de 2020. CONTRATO DE PRÉSTAMO.
 
 ESTIPULACIONES ESPECIALES. Este contrato de préstamo, en adelante el “Contrato”, se celebra entre la REPÚBLICA DE HONDURAS, en adelante el “Prestatario”, y el BANCO INTERAMERICANO DE DESARROLLO, actuando en su calidad de agencia implementadora del Fondo Verde para el Clima, en adelante individualmente el “Banco” y, conjuntamente con el Prestatario, las “Partes”, el 24 de noviembre de 2020. Este Contrato se celebra en virtud del Acuerdo Maestro de Acreditación suscrito el 29 de agosto de 2017, entre el Fondo Verde para el Clima y el Banco, así como del Convenio de Actividad Financiada suscrito por las mismas partes el 20 de julio de 2020, vigente a partir del 23 de noviembre de 2020.
 
@@ -905,7 +905,7 @@ Ejecución 4.01 La ejecución del proyecto estará a cargo de AEPAS-H, con la re
 
 #### Artículo 2
 
-ARTÍCULO 2.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6822-HN, suscrito el 8 de Marzo de 2021, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Cincuenta Millones de Dólares de los Estados Unidos de América (US$150,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE RECUPERACIÓN DE EMERGENCIA A CAUSA DE LOS CICLONES TROPICALES ETA E IOTA EN HONDURAS”, que literalmente dice:
+ARTÍCULO 2.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6822-HN, suscrito el 8 de Marzo de 2021, entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento de hasta un monto de Ciento Cincuenta Millones de Dólares de los Estados Unidos de América (US$150,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE RECUPERACIÓN DE EMERGENCIA A CAUSA DE LOS CICLONES TROPICALES ETA E IOTA EN HONDURAS”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. NÚMERO DE CRÉDITO 6822-HN Acuerdo de Financiamiento (Proyecto de Recuperación de Emergencia a causa de los Ciclones Tropicales Eta e Iota en Honduras) Entre LA REPUBLICA DE HONDURAS y LA ASOCIACIÓN INTERNACIONAL DE FOMENTO. NÚMERO DE CRÉDITO 6822-HN.
 
@@ -931,7 +931,7 @@ Honduras, C.A.; y
 
 Fax:
 
-Correo Electrónico :
+Correo Electrónico:
 
 (504) 2237-4142 dgcp@sefin.gob.hn
 
@@ -1123,7 +1123,7 @@ Un individuo identificable es aquel que puede ser identificado por medios razona
 
 #### Artículo 3
 
-ARTÍCULO 3.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6680-HN, suscrito el 8 de Marzo de 2021, entre el Banco Mundial (BM), en su condición de prestamista y el Gobierno de la República de Honduras, en su condición de prestatario del financiamiento de hasta un monto de Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE SEGURIDAD HÍDRICA EN EL CORREDOR SECO DE HONDURAS” que literalmente dice:
+ARTÍCULO 3.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6680-HN, suscrito el 8 de Marzo de 2021, entre el Banco Mundial (BM), en su condición de prestamista y el Gobierno de la República de Honduras, en su condición de prestatario del financiamiento de hasta un monto de Setenta Millones de Dólares de los Estados Unidos de América (US$70,000,000.00), recursos destinados a financiar la ejecución del “PROYECTO DE SEGURIDAD HÍDRICA EN EL CORREDOR SECO DE HONDURAS” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE
 
@@ -1423,7 +1423,7 @@ Definiciones
 
 7. “Manual de Contingencia de Respuesta a Emergencias” y el acrónimo “Manual de CRE” se refiere al manual mencionado en la Sección I.D. 1 del Anexo 2 de este Acuerdo, que debe ser adoptado por el Receptor de la Parte de Respuesta a Emergencia y forma parte del Manual Operativo del Proyecto de acuerdo con las disposiciones de dicha Sección.
 
-8. “COPECO” significa la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales del Receptor, creada de conformidad con el Decreto Ejecutivo del Receptor No. PCM-057- 2019, de fecha 11 de septiembre de 2019 y publicado en La Gaceta Oficial el 12 de septiembre de 2019. El Ministerio antes mencionado absorbe a la “Comisión Permanente de Contingencias”.
+8. “COPECO” significa la Secretaría de Estado en los Despachos de Gestión de Riesgos y Contingencias Nacionales del Receptor, creada de conformidad con el Decreto Ejecutivo del Receptor No. PCM-057-2019, de fecha 11 de septiembre de 2019 y publicado en La Gaceta Oficial el 12 de septiembre de 2019. El Ministerio antes mencionado absorbe a la “Comisión Permanente de Contingencias”.
 
 9. “Corredor Seco” significa una región localizada al suroeste en el territorio del Receptor, a lo largo de la costa del Pacífico y que cubre 20,000 km2, principalmente a lo largo de cinco cuencas (Sampile, Choluteca, Nacaome, Lempa and Goascorán) y áreas circundantes, que tienen precipitaciones de menos de 6 meses al año, y son cada vez más vulnerables a la inestabilidad climática severa y las crisis climáticas.
 
@@ -1447,7 +1447,7 @@ Participación de los Interesados y Divulgación de Información”; vigente el 
 
 16. “Condiciones Generales” significa las “Condiciones Generales de la Asociación Internacional de Fomento para el Financiamiento de la AIF, Financiamiento de Proyectos de Inversión”, de fecha 14 de diciembre del 2018.
 
-17. “ICF” o “Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre”, establecido de conformidad con el Decreto Ejecutivo del Receptor 98-2007 del 26 de febrero de 2008 , o cualquier sucesor aceptable para la Asociación.
+17. “ICF” o “Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre”, establecido de conformidad con el Decreto Ejecutivo del Receptor 98-2007 del 26 de febrero de 2008, o cualquier sucesor aceptable para la Asociación.
 
 18. “Acuerdo interinstitucional” significa cualquiera de los acuerdos mencionados en la Sección I.A.2,4,5 y 6 del Anexo 2 de este Acuerdo.
 
@@ -1463,7 +1463,7 @@ Participación de los Interesados y Divulgación de Información”; vigente el 
 
 24. “Declaración legal” significa la declaración legal emitida por el Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre
 
-(ICF) a solicitud de comunidades o municipios, de conformidad con el Artículo 65 del Decreto Legislativo No.156-2007, con fecha 26 de febrero de 2008 estableciendo una zona de producción de agua.
+(ICF) a solicitud de comunidades o municipios, de conformidad con el Artículo 65 del Decreto Legislativo No. 156-2007, con fecha 26 de febrero de 2008 estableciendo una zona de producción de agua.
 
 25. “MIAMBIENTE” o “Secretaría de Recursos Naturales y Ambiente” establecida de conformidad con el Decreto Legislativo No. 218-96 con fecha 30 de diciembre de 1996, o cualquier sucesor del mismo que sea aceptable para la Asociación.
 

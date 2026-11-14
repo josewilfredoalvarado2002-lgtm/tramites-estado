@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Decreto No. 42-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230822-36314/download"
 extraido: "2026-11-14"
-huella: "11709fba2056f82a"
+huella: "5d3e80cf3cc558fb"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 42-2023
@@ -29,23 +29,23 @@ huella: "11709fba2056f82a"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que en fecha 19 de Febrero de 2020, se llevó a cabo la Modificación No.2 al Contrato No.0375/ GLCSI/AMDC/2019, Código No. 2202 entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la Supervisión de la Construcción de Túnel en Bulevar San Juan Bosco.
+CONSIDERANDO: Que en fecha 19 de Febrero de 2020, se llevó a cabo la Modificación No. 2 al Contrato No. 0375/ GLCSI/AMDC/2019, Código No. 2202 entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la Supervisión de la Construcción de Túnel en Bulevar San Juan Bosco.
 
-CONSIDERANDO: Que en fecha 19 de Enero de 2021, se llevó a cabo la Modificación No.2 al Contrato No.1659/ GLCSI/AMDC/2018, Código No.1273 entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la Supervisión de la Construcción del Paso a Desnivel Paseo La Reforma - Avenida La Paz.
+CONSIDERANDO: Que en fecha 19 de Enero de 2021, se llevó a cabo la Modificación No. 2 al Contrato No. 1659/ GLCSI/AMDC/2018, Código No. 1273 entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la Supervisión de la Construcción del Paso a Desnivel Paseo La Reforma - Avenida La Paz.
 
-CONSIDERANDO: Que en fecha 11 de Marzo de 2020, se llevó a cabo la Modificación No.2 al Contrato No.0407/ GLCSI/AMDC/2019 Código No.1852 entre la Municipalidad del Distrito Central y la Empresa Saybe y Asociados, S. de R.L., cuyo objeto es la Supervisión de la Construcción de la Vía Rápida Casa Presidencial- Bulevar San Juan Bosco.
+CONSIDERANDO: Que en fecha 11 de Marzo de 2020, se llevó a cabo la Modificación No. 2 al Contrato No. 0407/ GLCSI/AMDC/2019 Código No. 1852 entre la Municipalidad del Distrito Central y la Empresa Saybe y Asociados, S. de R.L., cuyo objeto es la Supervisión de la Construcción de la Vía Rápida Casa Presidencial- Bulevar San Juan Bosco.
 
 CONSIDERANDO: Que según el Artículo 205 Atribución 1, de la Constitución de la República, es facultad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, la Modificación No.2 al Contrato No.0375/GLCSI/AMDC/2019, entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO y que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, la Modificación No. 2 al Contrato No. 0375/GLCSI/AMDC/2019, entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO y que literalmente dice:
 
-MODIFICACIÓN No. 2 CONTRATO No. 0375/GLCSI/ AMDC/2019.- CÓDIGO 2202 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO – BULEVAR LA HACIENDA”, CÓDIGO 2202 CONCURSO PÚBLICO No. CPuNO-02-AMDC-140-2018 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004- 2018 de fecha diecinueve (19) de enero del año dos mil dieciocho (2018), quien para los efectos legales de esta modificación se denominará “EL CONTRATANTE” por una parte y PEDRO EDMUNDO PINEDA COBOS, mayor de edad, Hondureño, Ingeniero Civil, con Tarjeta de Identidad No. 1301-1947-00059 actuando en su condición de Gerente General de la Sociedad Mercantil denominada TÉCNICA DE INGENIERÍA, S.A.
+MODIFICACIÓN No. 2 CONTRATO No. 0375/GLCSI/ AMDC/2019.- CÓDIGO 2202 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO – BULEVAR LA HACIENDA”, CÓDIGO 2202 CONCURSO PÚBLICO No. CPuNO-02-AMDC-140-2018 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve (19) de enero del año dos mil dieciocho (2018), quien para los efectos legales de esta modificación se denominará “EL CONTRATANTE” por una parte y PEDRO EDMUNDO PINEDA COBOS, mayor de edad, Hondureño, Ingeniero Civil, con Tarjeta de Identidad No. 1301-1947-00059 actuando en su condición de Gerente General de la Sociedad Mercantil denominada TÉCNICA DE INGENIERÍA, S.A.
 
 DE C.V. (TECNISA), con RTN 08019999400270, condición que acredita con Escritura Pública No. 7 de fecha 23 de enero de 2002 y extendida por el Abogado y Notario Juan Benjamín Cruz C. e inscrita en el Registro de la Propiedad mercantil de Francisco Morazán, con Nº 52, Tomo 498, Registro de Comerciantes Sociales de fecha 06 de febrero de 2002, quien en lo sucesivo y para efectos de esta modificación se denominará “EL CONSULTOR” por la otra parte, hemos acordado celebrar la presente Modificación N.
 
@@ -65,9 +65,7 @@ DEFINICIONES. - Siempre que en la presente modificación se empleen los siguient
 
 4.- FINANCIAMIENTO: Fondos Municipales.
 
-CONSIDERANDO No.1: Que a los siete (07) días del mes de enero del año dos mil diecinueve (2019) se suscribió el CONTRATO No.
-
-0375/GLCSI/AMDC/2019.-CÓDIGO 2202 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO
+CONSIDERANDO No. 1: Que a los siete (07) días del mes de enero del año dos mil diecinueve (2019) se suscribió el CONTRATO No. 0375/GLCSI/AMDC/2019.-CÓDIGO 2202 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TÚNEL EN BULEVAR SAN JUAN BOSCO
 
 – BULEVAR LA HACIENDA”, CÓDIGO 2202”. entre la Alcaldía Municipal del Distrito Central y el CONSULTOR TÉCNICA DE INGENIERÍA, S.A. DE C.V.
 
@@ -77,27 +75,23 @@ MILLONES SETECIENTOS MIL DOSCIENTOS OCHO LEMPIRAS
 
 25/100 (L.8,700,208.25) con un plazo de ejecución del contrato de trescientos treinta (330) días calendario.
 
-CONSIDERANDO No.2: Que se emitió orden de inicio con fecha ocho
+CONSIDERANDO No. 2: Que se emitió orden de inicio con fecha ocho
 
 (08) de enero del año dos mil diecinueve (2019) y fecha de terminación tres (03) de diciembre del año dos mil diecinueve (2019).
 
-CONSIDERANDO No.3: Que en fecha ocho (08) de abril del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al Contrato No. 1853/ GLCSI/AMDC/2018.- CÓDIGO No.
+CONSIDERANDO No. 3: Que en fecha ocho (08) de abril del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al Contrato No. 1853/ GLCSI/AMDC/2018.- CÓDIGO No. 2202 donde se cambió el “Apéndice B” mediante una readecuación de cantidades y se modificaron las especificaciones técnicas sin modificar su plazo ni su monto.
 
-2202 donde se cambió el “Apéndice B” mediante una readecuación de cantidades y se modificaron las especificaciones técnicas sin modificar su plazo ni su monto.
-
-CONSIDERANDO No.4: Que en fecha diecinueve (19) de noviembre del año dos mil diecinueve (2019) se suscribió la Modificación N. 2 al Contrato No.
-
-1853/GLCSI/AMDC/2018.- CÓDIGO
+CONSIDERANDO No. 4: Que en fecha diecinueve (19) de noviembre del año dos mil diecinueve (2019) se suscribió la Modificación N. 2 al Contrato No. 1853/GLCSI/AMDC/2018.- CÓDIGO
 
 No. 2202 ampliando el plazo contractual a trescientos noventa (390) días calendario.
 
-CONSIDERANDO No.5: Que en fecha veinticinco (25) de noviembre del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al contrato 0375/ GLCSI/AMDC/2019 ampliando el plazo en noventa (90) días calendario y el monto en un millón novecientos sesenta y seis mil novecientos sesenta lempiras con 21/100 (L. 1,966,960.21) para un total de DIEZ MILLONES SEISCIENTOS SESENTA Y SIETE MIL CIENTO SESENTA Y OCHO LEMPIRAS CON 46/100 (L. 10,667,168.46).
+CONSIDERANDO No. 5: Que en fecha veinticinco (25) de noviembre del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al contrato 0375/ GLCSI/AMDC/2019 ampliando el plazo en noventa (90) días calendario y el monto en un millón novecientos sesenta y seis mil novecientos sesenta lempiras con 21/100 (L. 1,966,960.21) para un total de DIEZ MILLONES SEISCIENTOS SESENTA Y SIETE MIL CIENTO SESENTA Y OCHO LEMPIRAS CON 46/100 (L. 10,667,168.46).
 
-CONSIDERANDO No.6: Que en fecha catorce (14) de febrero del año dos mil veinte (2020) se suscribió la modificación N.3 al contrato 1853/ GLCSI/AMDC/2018 ampliando el plazo contractual a cuatrocientos ochenta
+CONSIDERANDO No. 6: Que en fecha catorce (14) de febrero del año dos mil veinte (2020) se suscribió la modificación N.3 al contrato 1853/ GLCSI/AMDC/2018 ampliando el plazo contractual a cuatrocientos ochenta
 
 (480) días calendario.
 
-CONSIDERANDO No.7: Que con fecha diecisiete (17) de febrero del año dos mil veinte (2020) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en noventa (90) días calendario y un incremento de UN MILLÓN NOVECIENTOS SESENTA Y SEIS MIL NOVECIENTOS SESENTA LEMPIRAS CON 21/100 (L. 1,966,960.21) equivalente a un aumento acumulado del 45.22% del monto contractual.
+CONSIDERANDO No. 7: Que con fecha diecisiete (17) de febrero del año dos mil veinte (2020) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en noventa (90) días calendario y un incremento de UN MILLÓN NOVECIENTOS SESENTA Y SEIS MIL NOVECIENTOS SESENTA LEMPIRAS CON 21/100 (L. 1,966,960.21) equivalente a un aumento acumulado del 45.22% del monto contractual.
 
 CONSIDERANDO No. 8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
 
@@ -113,17 +107,15 @@ Asimismo, la construcción del nuevo sistema de drenaje de las aguas lluvias del
 
 Para poder dar el correcto control y seguimiento de todas las actividades del contratista, Inspeccionar continuamente la ejecución de las obras, llevando un control permanente de las cantidades de obra ejecutadas y de las pendientes de ejecución, practicar inspecciones de campo, realizando controles de calidad de obra mediante pruebas y ensayos, certificación de cantidades de obra, documentando las diferentes fases de la construcción con informes que incluyan fotografías, asesoría técnica y el cierre respectivo del proyecto, es necesario la ampliación del plazo contractual de la supervisión 90 días calendario adicionales y el monto contractual de esta supervisión en un 22.61% adicional.
 
-CONSIDERANDO No.9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dieciocho (18) de febrero del año dos mil veinte (2020), memorándum AMDC-DCS-189-2020 y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
+CONSIDERANDO No. 9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dieciocho (18) de febrero del año dos mil veinte (2020), memorándum AMDC-DCS-189-2020 y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
 
-Fundamentamos esta solicitud de modificación No.2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral
+Fundamentamos esta solicitud de modificación No. 2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral
 
 \1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
 
 POR TANTO:
 
-En base a los numerales 11 de las Condiciones Generales del Contrato y los artículos 103, 119 numeral 2), 121, 122, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202, 240 inciso B del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No.
-
-2 de conformidad con las estipulaciones siguientes:
+En base a los numerales 11 de las Condiciones Generales del Contrato y los artículos 103, 119 numeral 2), 121, 122, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202, 240 inciso B del Reglamento de la Ley de Contratación del Estado; las partes convienen en suscribir la presente Modificación No. 2 de conformidad con las estipulaciones siguientes:
 
 PRIMERO: Se modifica la CLAUSULA TERCERA y se deberá leer de la siguiente manera: CLAUSULA TERCERA. - EL Consultor por este medio se obliga a desarrollar los servicios de consultoría contratados con apego estricto a los documentos componentes del Contrato, de acuerdo con el programa de trabajo aprobado, en un plazo total de quinientos diez (510) días calendario.
 
@@ -155,7 +147,7 @@ Dos Pagos de SEISCIENTOS
 
 CINCUENTA Y CINCO MIL SEISCIENTOS CINCUENTA Y TRES LEMPIRAS CON 40/100 CENTAVOS (L. 655,653.40) contra entrega y aprobación de los Informes de Avance de NOVIEMBRE 2019 y DICIEMBRE 2019, entregados en el mes correspondiente.
 
-U n p a g o d e S E I S C I E N T O S
+Un pago de SEISCIENTOS
 
 CINCUENTA Y CINCO MIL SEISCIENTOS CINCUENTA Y TRES LEMPIRAS CON 41/100 CENTAVOS (L. 655,653.41) contra entrega y aprobación del Informes de Avance de ENERO 2020, entregados en el mes correspondiente.
 
@@ -163,7 +155,7 @@ Dos Pagos de SEISCIENTOS
 
 CINCUENTA Y CINCO MIL SEISCIENTOS CINCUENTA Y TRES LEMPIRAS CON 40/100 CENTAVOS (L. 655,653.40) contra entrega y aprobación de los Informes de Avance de FEBRERO 2020 y MARZO 2020, entregados en el mes correspondiente.
 
-U n p a g o d e S E I S C I E N T O S
+Un pago de SEISCIENTOS
 
 CINCUENTA Y CINCO MIL SEISCIENTOS CINCUENTA Y TRES LEMPIRAS CON 41/100 CENTAVOS (L. 655,653.41) contra entrega y aprobación del Informes de Avance de ABRIL 2020 y el Informe de Avance del 1-25 DE MAYO 2020, entregados en el mes correspondiente.
 
@@ -175,7 +167,7 @@ Cláusula 14 – Condiciones Especiales del Contrato. Precio del Contrato (Cláu
 
 QUINTO: Se modifica la Cláusula 14 de las Condiciones Especiales del Contrato y se deberá leer de la siguiente manera: 14. Precio del Contrato (Cláusula 36 de las CGC): El monto total del Contrato en Lempiras es de DOCE MILLONES SEISCIENTOS TREINTA Y CUATRO MIL CIENTO VEINTIOCHO LEMPIRAS CON 67/100 (L. 12,634,128.67).
 
-SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 En testimonio de lo cual las partes firmamos la presente Modificación de contrato de conformidad con las Leyes de la República de Honduras, a los diecinueve (19) días del mes de febrero del año dos mil veinte (2020) F Y S __________________________ Nasry Juan Asfura Zablah Alcalde Municipal Contratante F Y S _______________________ Pedro Edmundo Pineda Cobos Técnica de Ingenieria, S.A. de C.V.
 
@@ -185,7 +177,7 @@ Consultor
 
 #### Artículo 2
 
-ARTÍCULO 2.- Aprobar en todas y cada una de sus partes, la Modificación No.2 al Contrato No.0407/GLCSI/AMDC/2019, entre la Municipalidad del Distrito Central y la Empresa Saybe y Asociados S. de R. L., cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA VÍA RÁPIDA CASA PRESIDENCIALBULEVAR SAN JUAN BOSCO, y que literalmente dice:
+ARTÍCULO 2.- Aprobar en todas y cada una de sus partes, la Modificación No. 2 al Contrato No. 0407/GLCSI/AMDC/2019, entre la Municipalidad del Distrito Central y la Empresa Saybe y Asociados S. de R. L., cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DE LA VÍA RÁPIDA CASA PRESIDENCIALBULEVAR SAN JUAN BOSCO, y que literalmente dice:
 
 MODIFICACIÓN No. 2 CONTRATO No. 0407/GLCSI/AMDC/2019.- CODIGO 1852 “SUPERVISION DE LA CONSTRUCCION DE LA VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO” CONCURSO PUBLICO No. CPuNO-01-AMDC-139-2018 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve
 
@@ -205,23 +197,23 @@ Saybe y Asociados, S. de R.L.
 
 Fondos Municipales
 
-CONSIDERANDO No.1: Que con fecha ocho (08) días del mes de enero del año dos mil diecinueve (2019) suscribió el CONTRATO No. 0407/GLCSI/AMDC/2019.-CODIGO 1852 “SUPERVISION DE LA CONSTRUCCION DE LA VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, entre la Alcaldía Municipal del Distrito Central y el CONSULTOR Saybe y Asociados, S. de R.L. por un monto de QUINCE MILLONES OCHOCIENTOS NOVENTA Y SIETE MIL SEISCIENTOS DOS LEMPIRAS CON 34/100 (L. 15,897,602.34) con un plazo de ejecución del contrato de cuatrocientos cincuenta (450) días calendario.
+CONSIDERANDO No. 1: Que con fecha ocho (08) días del mes de enero del año dos mil diecinueve (2019) suscribió el CONTRATO No. 0407/GLCSI/AMDC/2019.-CODIGO 1852 “SUPERVISION DE LA CONSTRUCCION DE LA VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, entre la Alcaldía Municipal del Distrito Central y el CONSULTOR Saybe y Asociados, S. de R.L. por un monto de QUINCE MILLONES OCHOCIENTOS NOVENTA Y SIETE MIL SEISCIENTOS DOS LEMPIRAS CON 34/100 (L. 15,897,602.34) con un plazo de ejecución del contrato de cuatrocientos cincuenta (450) días calendario.
 
-CONSIDERANDO No.2: Que se emitió orden de inicio con fecha quince (15) de enero del año dos mil diecinueve (2019) y fecha de terminación ocho (08) de abril del año dos mil veinte (2020).
+CONSIDERANDO No. 2: Que se emitió orden de inicio con fecha quince (15) de enero del año dos mil diecinueve (2019) y fecha de terminación ocho (08) de abril del año dos mil veinte (2020).
 
-CONSIDERANDO No.3: Que en fecha veintitrés (23) de septiembre del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al Contrato No. 1854/GLCSI/ AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, donde se aumentó el monto del contrato a la cantidad de CIENTO OCHENTA Y UN MILLONES OCHOCIENTOS CUARENTA Y UN MIL SEISCIENTOS TREINTA Y OCHO LEMPIRAS CON 61/100 (L. 181,841,638.61).
+CONSIDERANDO No. 3: Que en fecha veintitrés (23) de septiembre del año dos mil diecinueve (2019) se suscribió la Modificación N.1 al Contrato No. 1854/GLCSI/ AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, donde se aumentó el monto del contrato a la cantidad de CIENTO OCHENTA Y UN MILLONES OCHOCIENTOS CUARENTA Y UN MIL SEISCIENTOS TREINTA Y OCHO LEMPIRAS CON 61/100 (L. 181,841,638.61).
 
-CONSIDERANDO No.4: Que en fecha dieciocho (18) de febrero del año dos mil veinte (2020), se suscribió la Modificación N. 2 al Contrato No. 1854/GLCSI/ AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, ampliando el plazo contractual a quinientos setenta (570) días calendario.
+CONSIDERANDO No. 4: Que en fecha dieciocho (18) de febrero del año dos mil veinte (2020), se suscribió la Modificación N. 2 al Contrato No. 1854/GLCSI/ AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, ampliando el plazo contractual a quinientos setenta (570) días calendario.
 
-CONSIDERANDO No.5: Que en fecha diez (10) de marzo del año dos mil veinte se suscribió la Modificación No.1 al CONTRATO No. 0407/GLCSI/AMDC/2019.- CODIGO 1852 “SUPERVISION DE LA CONSTRUCCION DE LA VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, mediante el cual se incrementó el monto a DIECINUEVE MILLONES OCHOCIENTOS DOS MIL CUARENTA Y DOS LEMPIRAS CON 97/100 (L. 19,802,042.97) y se amplió el plazo del contrato a seiscientos (600) días calendario.
+CONSIDERANDO No. 5: Que en fecha diez (10) de marzo del año dos mil veinte se suscribió la Modificación No. 1 al CONTRATO No. 0407/GLCSI/AMDC/2019.- CODIGO 1852 “SUPERVISION DE LA CONSTRUCCION DE LA VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, mediante el cual se incrementó el monto a DIECINUEVE MILLONES OCHOCIENTOS DOS MIL CUARENTA Y DOS LEMPIRAS CON 97/100 (L. 19,802,042.97) y se amplió el plazo del contrato a seiscientos (600) días calendario.
 
-CONSIDERANDO No.6: Que con fecha ocho (08) de enero del año dos mil veintiuno (2021) se suscribió la Modificación N. 3 al Contrato No. 1854/GLCSI/AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, ampliando el plazo contractual a setecientos cincuenta (750) días calendario sin incrementar el monto del contrato.
+CONSIDERANDO No. 6: Que con fecha ocho (08) de enero del año dos mil veintiuno (2021) se suscribió la Modificación N. 3 al Contrato No. 1854/GLCSI/AMDC/2018.- CÓDIGO No. 1852 “CONSTRUCCION VIA RAPIDA CASA PRESIDENCIAL-BULEVAR SAN JUAN BOSCO”, ampliando el plazo contractual a setecientos cincuenta (750) días calendario sin incrementar el monto del contrato.
 
-CONSIDERANDO No.7: Que con fecha quince (15) de enero del año dos veintiuno (2021) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento ochenta
+CONSIDERANDO No. 7: Que con fecha quince (15) de enero del año dos veintiuno (2021) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento ochenta
 
 (180) días calendario y un incremento de SEIS MILLONES DOSCIENTOS VEINTE MIL CUATROCIENTOS CATORCE LEMPIRAS CON 76/100 (L. 6,220,414.76) QUEDANDO EL TOTAL EN VEINTISÉIS MILLONES VEINTIDÓS MIL CUATROCIENTOS CINCUENTA Y SIETE LEMPIRAS CON 73/100 (L. 26,022,457.73) equivalente a un aumento acumulado del 63.69% del monto contractual.
 
-CONSIDERANDO No.8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
+CONSIDERANDO No. 8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
 
 Debido a los cambios suscitados en el proyecto, y a la ampliación de plazo y monto de obras adicionales presentada en la modificación #3 del contrato No. 1854/GLCSI/ AMDC/2018, CONSTRUCCION LA VIA RAPIDA CASA PRESIDENCIAL – BULEVAR SAN JUAN BOSCO, que justifica:
 
@@ -239,15 +231,15 @@ Dentro del sistema eléctrico surgen cambios en las cantidades contractuales par
 
 • AMPLIACIÓN DE TIEMPO
 
-Debido al incremento de 180 días adicionales para la ejecución de las siguientes actividades como ser; ordenamiento de postes adicionales Rotonda San Miguel y obras complementarias; obras adicionales en sistema eléctrico; construcción de pilotes en estribo #1 (baja capacidad suelo predominante en zona proyecto, incorporación de pilotes); por estructura de base y estabilización con geomalla en zonas inestables bajo estructura de pavimento ; por rediseño de rotonda en BANHCAFE, inclusión de rellenos, obras complementarias muros, rediseño barrera Jersey en puente ; por trabajos de realineamiento tuberías descargas de Aguas Lluvias, reubicación pozos y tragantes INDUFESA-BANHCAFE y Mall Multiplaza; construcción de estructuras de muro ciclópeos, desplantes en niveles, demoliciones de pavimento existente para estructura nueva ampliaciones.
+Debido al incremento de 180 días adicionales para la ejecución de las siguientes actividades como ser; ordenamiento de postes adicionales Rotonda San Miguel y obras complementarias; obras adicionales en sistema eléctrico; construcción de pilotes en estribo #1 (baja capacidad suelo predominante en zona proyecto, incorporación de pilotes); por estructura de base y estabilización con geomalla en zonas inestables bajo estructura de pavimento; por rediseño de rotonda en BANHCAFE, inclusión de rellenos, obras complementarias muros, rediseño barrera Jersey en puente; por trabajos de realineamiento tuberías descargas de Aguas Lluvias, reubicación pozos y tragantes INDUFESA-BANHCAFE y Mall Multiplaza; construcción de estructuras de muro ciclópeos, desplantes en niveles, demoliciones de pavimento existente para estructura nueva ampliaciones.
 
 Para algunas actividades se hace un incremento en el tiempo cuya duración es mayor en base al rendimiento contractual (Donde existen trabajos de cuadrillas o de mayor cantidad de personal) debido a las restricciones existentes producto de la Emergencia Sanitaria por COVID-19.
 
 Para poder dar el correcto control y seguimiento de todas las actividades del contratista, inspeccionar continuamente la ejecución de las obras, llevando un control permanente de las cantidades de obra ejecutadas y de las pendientes de ejecución, practicar inspecciones de campo, realizando controles de calidad de obra mediante pruebas y ensayos, certificación de cantidades de obra, documentando las diferentes fases de la construcción con informes que incluyan fotografías, asesoría técnica y el cierre respectivo del proyecto, es necesario la ampliación del plazo contractual de la supervisión 180 días calendario y el monto contractual de esta supervisión en un 39.13%
 
-CONSIDERANDO No.9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dieciocho (18) de enero del año dos mil veintiuno (2021), memorándum AMDCDCS-022-2021, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
+CONSIDERANDO No. 9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha dieciocho (18) de enero del año dos mil veintiuno (2021), memorándum AMDCDCS-022-2021, y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
 
-CONSIDERANDO No. 10: Fundamentamos esta solicitud de modificación No.2 en los artículos 103, 119 numeral 2), 121, 122, 123, 124 numeral 1) y 2) y 125 de la Ley de Contratación del Estado, artículo 202, y 205 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
+CONSIDERANDO No. 10: Fundamentamos esta solicitud de modificación No. 2 en los artículos 103, 119 numeral 2), 121, 122, 123, 124 numeral 1) y 2) y 125 de la Ley de Contratación del Estado, artículo 202, y 205 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
 
 POR TANTO:
 
@@ -309,7 +301,7 @@ El monto total del Contrato en Lempiras es de VEINTISÉIS MILLONES VEINTIDÓS MI
 
 26,022,457.73).
 
-SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 En testimonio de lo cual las partes firmamos la presente Modificación de contrato de conformidad con las Leyes de la República de Honduras, a los diecinueve (19) días del mes de enero del año dos mil veintiuno (2021).
 
@@ -321,7 +313,7 @@ CONSULTOR
 
 #### Artículo 3
 
-ARTÍCULO 3.- Aprobar en todas y cada una de sus partes, la Modificación No.2 al Contrato No.1659/GLCSI/ AMDC/2018, entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DEL PASO A DESNIVEL PASEO LA REFORMAAVENIDA LA PAZ, y que literalmente dice:
+ARTÍCULO 3.- Aprobar en todas y cada una de sus partes, la Modificación No. 2 al Contrato No. 1659/GLCSI/ AMDC/2018, entre la Municipalidad del Distrito Central y la Empresa TECNISA, cuyo objeto es la SUPERVISIÓN DE LA CONSTRUCCIÓN DEL PASO A DESNIVEL PASEO LA REFORMAAVENIDA LA PAZ, y que literalmente dice:
 
 MODIFICACIÓN No. 2 CONTRATO No. 1659/GLCSI/AMDC/2018.- CÓDIGO 1273 “SUPERVISIÓN DE LA CONSTRUCCIÓN PASO A DESNIVEL PASEO LA REFORMA – AVENIDA LA PAZ”, CÓDIGO 1273 CONCURSO PÚBLICO No. CPuNO-014- AMDC-285-2017 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, casado, empresario, hondureño y de este domicilio, portador de la Tarjeta de Identidad 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombrado para tal cargo mediante Acta Especial de Juramentación número GDFM 004-2018 de fecha diecinueve
 
@@ -343,23 +335,23 @@ TÉCNICA DE INGENIERIA, S.A. DE C.V.
 
 Fondos Municipales
 
-CONSIDERANDO No.1: Que con fecha diez (10) días del mes de septiembre del año dos mil dieciocho (2018), suscribió el CONTRATO No. 1659/GLCSI/AMDC/2018.-CÓDIGO 1273. “SUPERVISIÓN DE LA CONSTRUCCIÓN PASO A DESNIVEL PASEO LA REFORMA – AVENIDA LA PAZ”, CÓDIGO 1273”. entre la Alcaldía Municipal del Distrito Central y el CONSULTOR TÉCNICA DE INGENIERIA, S.A. DE C.V. (TECNISA) por un monto de SIETE MILLONES NOVECIENTOS TREINTA MIL CUATROCIENTOS CINCUENTA LEMPIRAS 00/100 (L. 7,930,450.00) con un plazo de ejecución del contrato de trescientos treinta (330) días calendario.
+CONSIDERANDO No. 1: Que con fecha diez (10) días del mes de septiembre del año dos mil dieciocho (2018), suscribió el CONTRATO No. 1659/GLCSI/AMDC/2018.-CÓDIGO 1273. “SUPERVISIÓN DE LA CONSTRUCCIÓN PASO A DESNIVEL PASEO LA REFORMA – AVENIDA LA PAZ”, CÓDIGO 1273”. entre la Alcaldía Municipal del Distrito Central y el CONSULTOR TÉCNICA DE INGENIERIA, S.A. DE C.V. (TECNISA) por un monto de SIETE MILLONES NOVECIENTOS TREINTA MIL CUATROCIENTOS CINCUENTA LEMPIRAS 00/100 (L. 7,930,450.00) con un plazo de ejecución del contrato de trescientos treinta (330) días calendario.
 
-CONSIDERANDO No.2: Que se emitió orden de inicio con fecha dos (02) de enero del año dos mil diecinueve (2019) y fecha de terminación veintisiete (27) de noviembre del año dos mil diecinueve (2019).
+CONSIDERANDO No. 2: Que se emitió orden de inicio con fecha dos (02) de enero del año dos mil diecinueve (2019) y fecha de terminación veintisiete (27) de noviembre del año dos mil diecinueve (2019).
 
-CONSIDERANDO No.3: Que en fecha seis (06) de mayo del año dos mil diecinueve (2019), se suscribió la Modificación N.1 al Contrato No. 1725/GLCSI/AMDC/2018.- CÓDIGO No. 1273, donde se cambió el “Apéndice B” mediante una readecuación de cantidades.
+CONSIDERANDO No. 3: Que en fecha seis (06) de mayo del año dos mil diecinueve (2019), se suscribió la Modificación N.1 al Contrato No. 1725/GLCSI/AMDC/2018.- CÓDIGO No. 1273, donde se cambió el “Apéndice B” mediante una readecuación de cantidades.
 
-CONSIDERANDO No.4: Que en fecha treinta y uno (31) de octubre del año dos mil diecinueve (2019), se suscribió la Modificación N. 2 al Contrato No. 1725/GLCSI/ AMDC/2018.- CÓDIGO No. 1273 ampliando el plazo contractual a cuatrocientos cincuenta (450) días calendario.
+CONSIDERANDO No. 4: Que en fecha treinta y uno (31) de octubre del año dos mil diecinueve (2019), se suscribió la Modificación N. 2 al Contrato No. 1725/GLCSI/ AMDC/2018.- CÓDIGO No. 1273 ampliando el plazo contractual a cuatrocientos cincuenta (450) días calendario.
 
-CONSIDERANDO No.5: Que en fecha catorce (14) de noviembre del año dos mil diecinueve se suscribió la Modificación N.1 al contrato 1659/GLCSI/AMDC/2018, mediante el cual se aumentó el monto del contrato en UN MILLÓN NOVECIENTOS SETENTA Y TRES MIL CUATROCIENTOS VEINTINUEVE LEMPIRAS CON 50/100 (L. 1,973,429.50) y el plazo en ciento cincuenta (150) días calendario.
+CONSIDERANDO No. 5: Que en fecha catorce (14) de noviembre del año dos mil diecinueve se suscribió la Modificación N.1 al contrato 1659/GLCSI/AMDC/2018, mediante el cual se aumentó el monto del contrato en UN MILLÓN NOVECIENTOS SETENTA Y TRES MIL CUATROCIENTOS VEINTINUEVE LEMPIRAS CON 50/100 (L. 1,973,429.50) y el plazo en ciento cincuenta (150) días calendario.
 
-CONSIDERANDO No.6: Que en fecha cinco (05) de marzo del año dos mil veinte (2020), se suscribió la Modificación N. 3 al Contrato No. 1725/GLCSI/AMDC/2018.- CÓDIGO No. 1273 ampliando el plazo contractual a seiscientos
+CONSIDERANDO No. 6: Que en fecha cinco (05) de marzo del año dos mil veinte (2020), se suscribió la Modificación N. 3 al Contrato No. 1725/GLCSI/AMDC/2018.- CÓDIGO No. 1273 ampliando el plazo contractual a seiscientos
 
 (600) días calendario y aumentando el monto a CIENTO VEINTISIETE MILLONES QUINIENTOS CUARENTA Y SIETE MIL SETENTA Y NUEVE LEMPIRAS CON 30/100. (L. 127,547,079.30).
 
-CONSIDERANDO No.7: Que con fecha nueve (09) de marzo del año dos mil veinte (2020) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento cincuenta (150) días calendario y un incremento de TRES MILLONES QUINIENTOS OCHO MIL CUATROCIENTOS TREINTA LEMPIRAS CON 31/100 (L. 3,508,430.31) equivalente a un aumento acumulado del 69.12% del monto contractual.
+CONSIDERANDO No. 7: Que con fecha nueve (09) de marzo del año dos mil veinte (2020) el CONSULTOR remitió a la Dirección de Control y Seguimiento el Informe Especial de Modificación N.2 al Contrato de Supervisión, donde solicita ampliación del plazo contractual en ciento cincuenta (150) días calendario y un incremento de TRES MILLONES QUINIENTOS OCHO MIL CUATROCIENTOS TREINTA LEMPIRAS CON 31/100 (L. 3,508,430.31) equivalente a un aumento acumulado del 69.12% del monto contractual.
 
-CONSIDERANDO No.8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
+CONSIDERANDO No. 8: Que mediante informe aprobado por la Dirección de Control y Seguimiento se justifica esta modificación al contrato original debido a lo siguiente:
 
 La presente Modificación se basa en los siguientes puntos:
 
@@ -383,9 +375,9 @@ Dentro de esta modificación también se realiza la reducción del Suministro e 
 
 Se debe realizar control de calidad de la obra mediante pruebas y ensayos, certificación de cantidades de obra, realización de diseños, informes, asesoría técnica y el respectivo cierre del proyecto, por lo que es necesario ampliar el plazo contractual de la supervisión en 150 días adicionales.
 
-CONSIDERANDO No.9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha diez (10) de marzo del año dos mil veinte (2020), memorándum AMDC-DCS-278-2020 y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
+CONSIDERANDO No. 9: Que la Dirección de Control y Seguimiento ha revisado, analizado y aprobado mediante Resumen Ejecutivo de fecha diez (10) de marzo del año dos mil veinte (2020), memorándum AMDC-DCS-278-2020 y el informe emitido por el CONSULTOR; por lo que esta modificación al contrato está debidamente justificada y soportada.
 
-Fundamentamos esta solicitud de modificación No.2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
+Fundamentamos esta solicitud de modificación No. 2 en los artículos 119 numeral 2), 121, 122, 123, 124 numeral 1) y 125 de la Ley de Contratación del Estado, artículo 202 del Reglamento de la Ley de Contratación del Estado y Modificaciones del contrato, Numeral 11 de las Condiciones Generales del Contrato.
 
 POR TANTO:
 
@@ -437,7 +429,7 @@ QUINTO: Se modifica la Cláusula 14 de las Condiciones Especiales del Contrato y
 
 14. Precio del Contrato (Cláusula 36 de las CGC): El monto total del Contrato en Lempiras es de TRECE MILLONES CUATROCIENTOS DOCE MIL TRESCIENTOS NUEVE LEMPIRAS CON 81/100 (L. 13,412,309.81).
 
-SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No.2 al Contrato, continúan en vigencia con su pleno valor y efecto.
+SEXTO: Todas las disposiciones y Cláusulas contenidas en el contrato original, que no se alteren mediante esta Modificación No. 2 al Contrato, continúan en vigencia con su pleno valor y efecto.
 
 En testimonio de lo cual las partes firmamos la presente Modificación de contrato de conformidad con las Leyes de la República de Honduras, a los once (11) días del mes de marzo del año dos mil veinte (2020).
 
@@ -463,7 +455,7 @@ Tegucigalpa, M.D.C., 21 de julio de 2023.
 
 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN Avance Próxima Edición
 
-D E C R E T A: ARTÍCULO 1.- Aprobar la creación de la FEDERACIÓN HONDUREÑA DE POLE SPORT & AERIAL (FEHPSA), en tal sentido esta Federación debe crear y aprobar sus respectivos estatutos.
+DECRETA: ARTÍCULO 1.- Aprobar la creación de la FEDERACIÓN HONDUREÑA DE POLE SPORT & AERIAL (FEHPSA), en tal sentido esta Federación debe crear y aprobar sus respectivos estatutos.
 
 CENTROS DE DISTRIBUCIÓN:
 

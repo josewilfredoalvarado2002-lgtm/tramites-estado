@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251111-36990/download"
 extraido: "2026-11-09"
-huella: "9e99941ef0efb657"
+huella: "9d0f9ce08b31b5bb"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,15 +27,13 @@ huella: "9e99941ef0efb657"
 
 ## Texto
 
-El infrascrito, Secretario General de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA: La Certificación No. 010-2025 contentiva del Acuerdo No. CU-O-147-09-2025, del Acta No.
+El infrascrito, Secretario General de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto CERTIFICA: La Certificación No. 010-2025 contentiva del Acuerdo No. CU-O-147-09-2025, del Acta No. CU-O-006-09-2025, de la Sesión Ordinaria del Consejo Universitario, celebrada el veinticinco de septiembre de dos mil veinticinco, relativo a la aprobación de la “REFORMA POR ADICIÓN DEL ARTÍCULO 16 DEL REGLAMENTO DE VIÁTICOS Y GASTOS DE VIAJE PARA SERVIDORES PÚBLICOS DE LA UNAH”, que literalmente dice:
 
-CU-O-006-09-2025, de la Sesión Ordinaria del Consejo Universitario, celebrada el veinticinco de septiembre de dos mil veinticinco, relativo a la aprobación de la “REFORMA POR ADICIÓN DEL ARTÍCULO 16 DEL REGLAMENTO DE VIÁTICOS Y GASTOS DE VIAJE PARA SERVIDORES PÚBLICOS DE LA UNAH”, que literalmente dice:
-
-“C E R T I F I C A C I Ó N No. 010-2025 La infrascrita, Secretaria del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo No.CU-O-147-09-2025 de la Sesión Ordinaria del 25 de septiembre de 2025, referente a la aprobación de la reforma por adición del
+“CERTIFICACIÓN No. 010-2025 La infrascrita, Secretaria del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA: El Acuerdo No.CU-O-147-09-2025 de la Sesión Ordinaria del 25 de septiembre de 2025, referente a la aprobación de la reforma por adición del
 
 Artículo 16 del REGLAMENTO DE VIÁTICOS Y GASTOS DE VIAJE PARA SERVIDORES PÚBLICOS DE LA UNAH, que literalmente dice: “Oficio SCUNo.154-2025. 06 de octubre de 2025. PHD ODIR AARON FERNANDEZ FLORES, RECTOR-UNAH. Su Oficina.
 
-Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Ordinaria celebrada el jueves veinticinco (25) de septiembre de dos mil veinticinco (2025), en Acta No. CU-O-006-09- 2025 levantada al efecto, obra el ACUERDO No. CUO-147-09-2025 y sin perjuicio de la ulterior aprobación del acta, que en su parte resolutiva dice: “ACUERDO No. CU-O-147-09-2025. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras, es una institución autónoma del Estado, con personalidad jurídica y patrimonio propio, cuya autonomía se establece en la Constitución de la República y su organización, funcionamiento y atribuciones se regulan por la Ley Orgánica y sus reglamentos. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras (UNAH), es una institución autónoma del Estado, cuya Ley fijan su organización, funcionamiento y atribuciones, otorgándole la facultad para gestionar y administrar sus propios recursos con transparencia y rendición de cuentas, así como para manejar sus relaciones laborales. CONSIDERANDO:
+Señor Rector: La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que, en la Sesión Ordinaria celebrada el jueves veinticinco (25) de septiembre de dos mil veinticinco (2025), en Acta No. CU-O-006-09-2025 levantada al efecto, obra el ACUERDO No. CUO-147-09-2025 y sin perjuicio de la ulterior aprobación del acta, que en su parte resolutiva dice: “ACUERDO No. CU-O-147-09-2025. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras, es una institución autónoma del Estado, con personalidad jurídica y patrimonio propio, cuya autonomía se establece en la Constitución de la República y su organización, funcionamiento y atribuciones se regulan por la Ley Orgánica y sus reglamentos. CONSIDERANDO: Que la Universidad Nacional Autónoma de Honduras (UNAH), es una institución autónoma del Estado, cuya Ley fijan su organización, funcionamiento y atribuciones, otorgándole la facultad para gestionar y administrar sus propios recursos con transparencia y rendición de cuentas, así como para manejar sus relaciones laborales. CONSIDERANDO:
 
 Que, en la Sesión Ordinaria del Consejo Universitario del 25 de septiembre de 2025, se presentó la solicitud de reforma por adición al REGLAMENTO DE VIÁTICOS Y GASTOS DE VIAJE PARA SERVIDORES PÚBLICOS DE LA UNAH, agregando un capítulo donde se regule los gastos de estadía para los profesores e investigadores visitantes internacionales, con dictámenes correspondientes.
 

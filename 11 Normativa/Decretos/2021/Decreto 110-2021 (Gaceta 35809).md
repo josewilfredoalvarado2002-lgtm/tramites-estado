@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Decretos Nos. 110-2021, 116-2021, 135-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211229-35809/download"
 extraido: "2026-11-14"
-huella: "f9176fa3df85dd19"
+huella: "b60a399b6b6686db"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 110-2021
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República, establece en su Artículo 351 que “El sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente”.
 
-CONSIDERANDO: Que mediante Decreto No.170-2016 de fecha 15 de Diciembre del 2016 y publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016 bajo la Edición No.34,224 contentivo del Código Tributario, el cual entró en vigencia a partir del 1 de Enero de 2017.
+CONSIDERANDO: Que mediante Decreto No. 170-2016 de fecha 15 de Diciembre del 2016 y publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016 bajo la Edición No. 34,224 contentivo del Código Tributario, el cual entró en vigencia a partir del 1 de Enero de 2017.
 
 CONSIDERANDO: Que la crisis de la COVID-19 además de sanitaria ha sido catalogada por expertos como crisis económica de grandes dimensiones, por lo que para colaborar con la población es necesario dictar medidas para aminorar el costo del cumplimiento de las obligaciones tributarias, sin que ello implique evadir el pago de las mismas, tal como la implementación de mecanismos que incentiven a la población al pago de sus obligaciones principales, liberándolo del pago de sanciones pecuniarias por el incumplimiento o cumplimiento tardío de sus obligaciones.
 
 CONSIDERANDO: Que una amnistía constituye un perdón a favor de quien le aplique o le solicite y no puede darse un tratamiento discriminatorio si un obligado tributario cumple con los elementos objetivos y subjetivos para gozar de dicho beneficio en el marco legal correspondiente.
 
-CONSIDERANDO: Que la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), fue aprobada mediante el Decreto No. 357- 2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” Edición No.33,398 del 5 de Abril de 2014.
+CONSIDERANDO: Que la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), fue aprobada mediante el Decreto No. 357-2013 del 20 de Enero de 2014, publicado en el Diario Oficial “La Gaceta” Edición No. 33,398 del 5 de Abril de 2014.
 
 CONSIDERANDO: Que la Constitución de la República consagra el derecho que toda persona tiene a la seguridad de sus medios económicos de subsistencia en caso de incapacidad para trabajar u obtener trabajo retribuido.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -77,7 +77,7 @@ En caso de los beneficios amparados en el PCM-09-2018 u otros beneficios otorgad
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar los artículos 30 y 47 de la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES D E L O S E M P L E A D O S Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), contenida en el Decreto No.357-2013 del 20 de Enero de 2014, reformado mediante Decreto No.130-2014 del 4 de Diciembre de 2014, publicado en el Diario Oficial “La Gaceta” bajo la Edición No.33,398 del 5 de Abril del 2014, los cuales deberán leerse de la siguiente manera:
+ARTÍCULO 2.- Reformar los artículos 30 y 47 de la LEY DEL INSTITUTO DE JUBILACIONES Y PENSIONES DE LOS EMPLEADOS Y FUNCIONARIOS DEL PODER EJECUTIVO (INJUPEMP), contenida en el Decreto No. 357-2013 del 20 de Enero de 2014, reformado mediante Decreto No. 130-2014 del 4 de Diciembre de 2014, publicado en el Diario Oficial “La Gaceta” bajo la Edición No. 33,398 del 5 de Abril del 2014, los cuales deberán leerse de la siguiente manera:
 
 “ARTÍCULO 30.- COTIZACIÓN
 
@@ -105,15 +105,15 @@ En tal caso los participantes voluntarios pueden optar por una de las modalidade
 
 #### Artículo 3
 
-ARTÍCULO 3.- Habilitar los días y reanudar todos los plazos legales en materia tributaria, ya sean éstos en horas, días, meses o años que se encontraban suspendidos ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Administración Tributaria y Administración Aduanera por disposición del Decreto No.33-2020.
+ARTÍCULO 3.- Habilitar los días y reanudar todos los plazos legales en materia tributaria, ya sean éstos en horas, días, meses o años que se encontraban suspendidos ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Administración Tributaria y Administración Aduanera por disposición del Decreto No. 33-2020.
 
 #### Artículo 4
 
 ARTÍCULO 4.- Derogar las disposiciones legales siguientes:
 
-a. Decreto No.168-2019 de fecha 12 de Diciembre de 2019, publicado en el Diario Oficial “La Gaceta” Edición No.35,183 de fecha 24 de Febrero de 2020.
+a. Decreto No. 168-2019 de fecha 12 de Diciembre de 2019, publicado en el Diario Oficial “La Gaceta” Edición No. 35,183 de fecha 24 de Febrero de 2020.
 
-b. Artículo 5 del Decreto No.33-2020 de fecha 2 de Abril del año 2020, y publicado en fecha 3 de Abril del 2020.
+b. Artículo 5 del Decreto No. 33-2020 de fecha 2 de Abril del año 2020, y publicado en fecha 3 de Abril del 2020.
 
 #### Artículo 5
 

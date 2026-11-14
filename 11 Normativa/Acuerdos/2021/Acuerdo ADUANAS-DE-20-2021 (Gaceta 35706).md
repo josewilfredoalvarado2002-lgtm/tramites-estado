@@ -11,7 +11,7 @@ paginas: "A. 11 - 24"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210902-35706/download"
 extraido: "2026-11-14"
-huella: "53483cb2349ebce4"
+huella: "cdf9ddc1bffbf0e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-20-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 del veintisiete (27) d
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 anteriormente mencionado, se institucionaliza la nueva Administración Aduanera en el marco de lo preceptuado en el Código Tributario, cuya denominación será Administración Aduanera de Honduras, en consecuencia, asume, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero (1) de enero de dos mil veinte (2020).
 
-CONSIDERANDO: Que de conformidad al Decreto 170- 2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
+CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
 
 CONSIDERANDO: Que el Director Ejecutivo tiene plena potestad de administrar el sistema aduanero ejerciendo todas las atribuciones y facultades establecidas en el Código Tributario, Código Aduanero Uniforme Centroamericano (CAUCA) y su Reglamento, leyes y reglamentos relacionados con la materia aduanera y tributaria según corresponda.
 

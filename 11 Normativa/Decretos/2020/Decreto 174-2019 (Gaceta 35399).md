@@ -8,10 +8,10 @@ gaceta_numero: 35399
 gaceta_fecha: "2020-10-14"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35399 (2020-10-14)|La Gaceta 35399]]"
 paginas: "A. 1 - 2"
-sumario: "Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOPAcuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020"
+sumario: "Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP: Acuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201014-35399/download"
 extraido: "2026-11-14"
-huella: "8c06953ef3506549"
+huella: "f14452d285c44bca"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 174-2019
@@ -23,7 +23,7 @@ huella: "8c06953ef3506549"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35399 (2020-10-14)\|La Gaceta 35399]] del 2020-10-14 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAFAcuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOPAcuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020 |
+| Según el sumario de La Gaceta | Decretos números 174-2019, 120-2020,133-2020 SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdo 98-2020 DIRECCIÓN DE NIÑEZ, ADOLESCENCIA Y FAMILIA DINAF: Acuerdo No. 268-2020 CONSEJO NACIONAL SUPERVISOR DE COOPERATIVAS CONSUCOOP: Acuerdos Nos. J.D. 001-21-04-2020,J.D. 001-30-06-2020, J.D. 001-30-09-2020 |
 
 ## Texto
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Prorrogar por un espacio de seis (6) meses más contados a partir de la vigencia de este Decreto, el plazo para que los productores que mantengan préstamos en mora con el Banco Nacional de Desarrollo Agrícola (BANADESA), los paguen o puedan realizar las gestiones para el refinanciamiento o readecuación de sus préstamos, al tenor de lo establecido en el Decreto No.47-2018 de fecha 7 de Junio del 2018 y publicado en el Diario Oficial “La Gaceta” de fecha 1 de Agosto del 2018 y reformado mediante Decreto No.30-2019 de fecha 10 de Abril del 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril del 2019.
+ARTÍCULO 1.- Prorrogar por un espacio de seis (6) meses más contados a partir de la vigencia de este Decreto, el plazo para que los productores que mantengan préstamos en mora con el Banco Nacional de Desarrollo Agrícola (BANADESA), los paguen o puedan realizar las gestiones para el refinanciamiento o readecuación de sus préstamos, al tenor de lo establecido en el Decreto No. 47-2018 de fecha 7 de Junio del 2018 y publicado en el Diario Oficial “La Gaceta” de fecha 1 de Agosto del 2018 y reformado mediante Decreto No. 30-2019 de fecha 10 de Abril del 2019 y publicado en el Diario Oficial “La Gaceta” en fecha 30 de Abril del 2019.
 
 #### Artículo 2
 

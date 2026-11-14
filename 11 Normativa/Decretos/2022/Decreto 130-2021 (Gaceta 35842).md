@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 130-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220207-35842/download"
 extraido: "2026-11-14"
-huella: "4ff0786dd3add60f"
+huella: "affe6e2ce57533a9"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 130-2021
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -61,7 +61,7 @@ INSUMOS MÉDICOS HOSPITALARIOS POR PARTE DE LA MUNICIPALIDAD DE SAN PEDRO SULA A
 
 (23) de Enero de dos mil dieciocho (2018) de la Gobernación Departamental de Cortés, Institución Pública con Registro Tributario Nacional Número 05019000044717 y que en adelante se denominará LA MUNICIPALIDAD por una parte y por la otra el señor JOSE ARMANDO RAMIREZ, mayor de edad, hondureño, casado, Ingeniero Forestal, con Tarjeta de Identidad: 0301-1979-00593, actuando en su condición de Presidente-Comisión Interventora del “HOSPITAL MARIO CATARINO RIVAS”, nombramiento que consta mediante PCM número 03-2020, publicado en “La Gaceta” de fecha veinticuatro (24) de enero, del año dos mil veinte (2020) y prorrogado la vigencia de la comisión mediante PCM Número 071-2021 de fecha veintinueve (29) de junio, del año dos mil veintiuno (2021), publicada en Diario Oficial “La Gaceta” en fecha treinta (30) de junio, del año dos mil veintiuno (2021) y su nombramiento consta en el Acuerdo Número 32-A-2020, emitido por el Secretario Privado y Jefe de Gabinete Presidencial, de fecha seis (6) de marzo del año dos mil veinte (2020), quien en adelante se denominará HOSPITAL MARIO CATARINO RIVAS; por medio del presente documento declaramos que dejaremos establecidas las condiciones para la suscripción del presente CONVENIO PARA DONACIÓN DE EQUIPO MEDICO, MEDICAMENTOS, MATERIALES E INSUMOS MEDICOS HOSPITALARIOS POR PARTE DE LA MUNICIPALIDAD DE SAN PEDRO SULA AL HOSPITAL MARIO CATARINO RIVAS, consistente en equipo médico, medicamentos, materiales e insumos médicos hospitalarios; bajo los términos y consideraciones siguientes:
 
-PRIMERO: DE LA SOLICITUD: Que mediante los Oficios No.249 CI-HNMCR-PCM-071 2021 y 250-CIHNMCR-PCM-071 2021, ambos de fecha catorce (14), de Diciembre, del año dos mil veintiuno (2021), el Presidente de la Comisión Interventora del HOSPITAL MARIO CATARINO RIVAS, solicitó a la MUNICIPALIDAD DE SAN PEDRO SULA, el apoyo con Equipo Médico, medicamentos, materiales e insumos médicos hospitalarios de la UNIDAD ESTABILIZADORA de pacientes con COVID 19, con la finalidad de habilitar las “Salas de Hospitalización” ubicadas en el cuarto nivel del HOSPITAL MARIO CATARINO RIVAS y de esta forma disminuir el hacinamiento en las Salas de Emergencia. La Corporación Municipal con el objeto de satisfacer la necesidad de atención y disminuir el hacinamiento en las Salas de Emergencia en el HOSPITAL MARIO CATARINO RIVAS, autorizó, mediante punto número cuatro (4), del acta número ciento sesenta y cuatro (164), de fecha veinte (20) de diciembre del año dos mil veintiuno (2021), al señor Alcalde Municipal la firma de un Convenio en el que se le otorgó en DONACIÓN al HOSPITAL MARIO CATARINO RIVAS, cuyo valor y características el cual se detalla el equipo de la siguiente manera:
+PRIMERO: DE LA SOLICITUD: Que mediante los Oficios No. 249 CI-HNMCR-PCM-071 2021 y 250-CIHNMCR-PCM-071 2021, ambos de fecha catorce (14), de Diciembre, del año dos mil veintiuno (2021), el Presidente de la Comisión Interventora del HOSPITAL MARIO CATARINO RIVAS, solicitó a la MUNICIPALIDAD DE SAN PEDRO SULA, el apoyo con Equipo Médico, medicamentos, materiales e insumos médicos hospitalarios de la UNIDAD ESTABILIZADORA de pacientes con COVID 19, con la finalidad de habilitar las “Salas de Hospitalización” ubicadas en el cuarto nivel del HOSPITAL MARIO CATARINO RIVAS y de esta forma disminuir el hacinamiento en las Salas de Emergencia. La Corporación Municipal con el objeto de satisfacer la necesidad de atención y disminuir el hacinamiento en las Salas de Emergencia en el HOSPITAL MARIO CATARINO RIVAS, autorizó, mediante punto número cuatro (4), del acta número ciento sesenta y cuatro (164), de fecha veinte (20) de diciembre del año dos mil veintiuno (2021), al señor Alcalde Municipal la firma de un Convenio en el que se le otorgó en DONACIÓN al HOSPITAL MARIO CATARINO RIVAS, cuyo valor y características el cual se detalla el equipo de la siguiente manera:
 
 EQUIPO MÉDICO
 

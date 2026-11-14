@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 170-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200125-35157/download"
 extraido: "2026-11-14"
-huella: "c8860af27fcf1eb1"
+huella: "679cbf2a99996f80"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 170-2019
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Artículo 213 de la Constitución de la República establec
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 351 establece que el sistema tributarios se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el Decreto No.170-2016 de fecha 15 de Diciembre de 2016, contentivo del Código Tributario y publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016 y vigente a partir del 1 de Enero de 2017, en su Artículo 55 numeral 3) establece el derecho al carácter reservado de los datos, informes y antecedentes tributarios y aduaneros, así como de la información contenida en las declaraciones, informes y estudios de los obligados tributarios presentados ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Superintendencia Tributaria Aduanera, Administración Tributaria y Administración Aduanera, en los términos previsto en Ley, asimismo, en su Artículo 70 preceptúa los deberes de reserva de los servidores públicos y otros colaboradores de la Secretaría de Estado en el Despacho Finanzas, la Superintendencia Tributaria Aduanera, estableciendo que estos están obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los obligados tributarios o por terceros, así como de la información obtenida en el ejercicio de las facultades de fiscalización, detallando además las instituciones con las que si pueden compartir información, excluyendo al Banco Central de Honduras (BCH).
+CONSIDERANDO: Que el Decreto No. 170-2016 de fecha 15 de Diciembre de 2016, contentivo del Código Tributario y publicado en el Diario Oficial “La Gaceta” el 28 de Diciembre de 2016 y vigente a partir del 1 de Enero de 2017, en su Artículo 55 numeral 3) establece el derecho al carácter reservado de los datos, informes y antecedentes tributarios y aduaneros, así como de la información contenida en las declaraciones, informes y estudios de los obligados tributarios presentados ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN), Superintendencia Tributaria Aduanera, Administración Tributaria y Administración Aduanera, en los términos previsto en Ley, asimismo, en su Artículo 70 preceptúa los deberes de reserva de los servidores públicos y otros colaboradores de la Secretaría de Estado en el Despacho Finanzas, la Superintendencia Tributaria Aduanera, estableciendo que estos están obligados a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los obligados tributarios o por terceros, así como de la información obtenida en el ejercicio de las facultades de fiscalización, detallando además las instituciones con las que si pueden compartir información, excluyendo al Banco Central de Honduras (BCH).
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 342 establece que el Estado por medio del Banco Central de Honduras (BCH) tendrá a su cargo la formulación y desarrollo de la política monetaria, crediticia y cambiaria del país, debidamente coordinada con la política económica planificada.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

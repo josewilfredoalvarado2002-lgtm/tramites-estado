@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo Ejecutivo Número 118-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250828-36928/download"
 extraido: "2026-11-09"
-huella: "2532ee4dbe443469"
+huella: "0e5fdb7c5349a069"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 118-2025
@@ -83,7 +83,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los siete (0
 
 COMUNÍQUESE Y PUBLÍQUESE.
 
-IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA ORLANDO ENRIQUE GARNER ORDOÑEZ SUBSECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Firma Según Acuerdos Ejecutivos No.063 y 074-2025
+IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA DE LA REPÚBLICA ORLANDO ENRIQUE GARNER ORDOÑEZ SUBSECRETARIO DE ESTADO EN EL DESPACHO DE DEFENSA NACIONAL Firma Según Acuerdos Ejecutivos No. 063 y 074-2025
 
 ## Fuente
 

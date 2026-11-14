@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200828-35356/download"
 extraido: "2026-11-14"
-huella: "f6896db0530d28c2"
+huella: "2780e131cef0ee80"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 79-2020
@@ -27,7 +27,7 @@ huella: "f6896db0530d28c2"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM-071-2020.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018 y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo número PCM-071-2020.
 
 ACUERDA:
 
@@ -57,7 +57,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir Acuerdos y Reso
 
 CONSIDERANDO: Que la delegación de funciones se entiende posible siempre y cuando se dirija de manera expedita, económica y eficiente a satisfacer el interés general y que, en definitiva, resulte en una simplificación de los procesos que se llevan a cabo en la Administración Pública.
 
-CONSIDERANDO: Que la Licenciada ROCÍO IZABEL TÁBORA MORALES, Secretaria de Estado en el Despacho de Finanzas, está incapacitada de salud, por lo que no puede realizar sus labores como titular de la Secretaría de Estado, de conformidad al Certificado Médico No.133115.
+CONSIDERANDO: Que la Licenciada ROCÍO IZABEL TÁBORA MORALES, Secretaria de Estado en el Despacho de Finanzas, está incapacitada de salud, por lo que no puede realizar sus labores como titular de la Secretaría de Estado, de conformidad al Certificado Médico No. 133115.
 
 POR TANTO
 
@@ -71,7 +71,7 @@ DELEGAR en la Ingeniera
 
 ROXANA MELANI RODRÍGUEZ
 
-ALVARADO, Subsecretaria de Finanzas y Presupuesto, para que ejerza las funciones correspondientes como Secretaria de Estado en el Despacho de Finanzas, por el periodo del 18 de agosto al 15 septiembre, de 2020, debido a que está incapacitada de salud, la Licenciada ROCÍO IZABEL TÁBORA MORALES, Secretaria de Estado en el Despacho de Finanzas de conformidad al Certificado Médico No.133115.
+ALVARADO, Subsecretaria de Finanzas y Presupuesto, para que ejerza las funciones correspondientes como Secretaria de Estado en el Despacho de Finanzas, por el periodo del 18 de agosto al 15 septiembre, de 2020, debido a que está incapacitada de salud, la Licenciada ROCÍO IZABEL TÁBORA MORALES, Secretaria de Estado en el Despacho de Finanzas de conformidad al Certificado Médico No. 133115.
 
 SEGUNDO:
 

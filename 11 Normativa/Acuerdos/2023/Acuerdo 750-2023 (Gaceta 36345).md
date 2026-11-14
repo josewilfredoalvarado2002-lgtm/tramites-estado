@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ministerial No. 750-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230928-36345/download"
 extraido: "2026-11-14"
-huella: "9e1229139554b31b"
+huella: "e799138409dacaae"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 750-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Conforme a lo dispuesto en la Ley General de la Administración P�
 
 CONSIDERANDO: Los Subsecretarios de Estado son colaboradores inmediatos de los Secretarios de Estado, siendo responsables de las funciones a su cargo y de la coordinación de las áreas sustantivas que les sean atribuidas.
 
-CONSIDERANDO: Mediante Acuerdo Ejecutivo No. 107- 2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado de Recursos Naturales.
+CONSIDERANDO: Mediante Acuerdo Ejecutivo No. 107-2022 del 21 de febrero del 2022 se nombró al ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, como Subsecretario de Estado de Recursos Naturales.
 
 CONSIDERANDO: El Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (SERNA) LUCKY HALACH MEDINA ESTRADA, durante los días comprendidos del 20 al 25 de septiembre del 2023 estará cumpliendo funciones especiales designadas por la Presidente de la República, por lo que se hace necesario en su ausencia delegar las funciones en el Subsecretario de Recursos Naturales, ciudadano JORGE EMILIO SALAVERRI HENRIQUEZ, a fin de mantener el normal desarrollo de las actividades de esta Secretaría de Estado.
 

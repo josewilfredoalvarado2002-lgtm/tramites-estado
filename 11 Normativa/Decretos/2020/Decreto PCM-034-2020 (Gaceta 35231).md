@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Decreto Ejecutivo número PCM-034-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200421-35231/download"
 extraido: "2026-11-14"
-huella: "e5b7ffc032813307"
+huella: "d431c9d927f15e6f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-034-2020
@@ -37,19 +37,19 @@ CONSIDERANDO: Que el Directorio Ejecutivo del Fondo Monetario Internacional apro
 
 CONSIDERANDO: Que el 18 de diciembre de 2019 el Directorio Ejecutivo del FMI concluyó las primeras revisiones del desempeño de Honduras en el marco del Programa Económico con el FMI, respaldado por el Acuerdo Stand-By y el Acuerdo Stand-By Credit Facility, obteniendo resultados positivos que le permiten a Honduras acceder a recursos por un total de DEG104,916,000.00 equivalentes a US$143,282,261.25.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, el cual fue reformado por los Decretos Ejecutivos números PCM- 016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente, se declaró estado de emergencia humanitaria y sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (Covid-19).
+CONSIDERANDO: Que mediante el Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, el cual fue reformado por los Decretos Ejecutivos números PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente, se declaró estado de emergencia humanitaria y sanitaria en todo el territorio nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo, fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la actual ocurrencia de infección por coronavirus (Covid-19).
 
 La declaratoria de emergencia tendrá vigencia hasta el 31 de diciembre de 2020, misma que podrá ser prorrogada.
 
-CONSIDERANDO: Que con la finalidad de salvaguardar la vida humana, fin supremo de la sociedad y del Estado mediante Decreto Ejecutivo Número PCM-021-2020 del 15 de marzo de 2020, se restringió a nivel nacional, por un plazo de siete (7) días a partir de la aprobación y publicación del referido Decreto Ejecutivo, algunos derechos constitucionales establecidos en la Constitución de la República y, en el marco del referido Decreto, el Gobierno de la República adoptó varias medidas, siendo una de estas la restricción al derecho de libre circulación de las personas en todo el territorio nacional implementándose un toque de queda absoluto a nivel nacional como una medida para frenar la rápida expansión del coronavirus (Covid-19). Posteriormente, mediante los Decretos Ejecutivos números PCM-022-2020 del 20 de marzo de 2020, PCM-026-2020 del 28 de marzo de 2020, PCM- 028-2020 del 4 de abril de 2020, PCM-031-2020 del 11 de abril de 2020 y PCM-033-2020 del 18 de abril de 2020 se ha prorrogado la restricción de ciertas garantías constitucionales y en el marco de ésta, la medida del toque de queda a nivel nacional.
+CONSIDERANDO: Que con la finalidad de salvaguardar la vida humana, fin supremo de la sociedad y del Estado mediante Decreto Ejecutivo Número PCM-021-2020 del 15 de marzo de 2020, se restringió a nivel nacional, por un plazo de siete (7) días a partir de la aprobación y publicación del referido Decreto Ejecutivo, algunos derechos constitucionales establecidos en la Constitución de la República y, en el marco del referido Decreto, el Gobierno de la República adoptó varias medidas, siendo una de estas la restricción al derecho de libre circulación de las personas en todo el territorio nacional implementándose un toque de queda absoluto a nivel nacional como una medida para frenar la rápida expansión del coronavirus (Covid-19). Posteriormente, mediante los Decretos Ejecutivos números PCM-022-2020 del 20 de marzo de 2020, PCM-026-2020 del 28 de marzo de 2020, PCM-028-2020 del 4 de abril de 2020, PCM-031-2020 del 11 de abril de 2020 y PCM-033-2020 del 18 de abril de 2020 se ha prorrogado la restricción de ciertas garantías constitucionales y en el marco de ésta, la medida del toque de queda a nivel nacional.
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Finanzas, en representación del Gobierno de la República mediante el Oficio DPMF-110-2020 del 20 de marzo del 2020, con base en lo establecido en los artículos 40, párrafo segundo de la Ley del Banco Central de Honduras y 73 y 75 de la Ley Orgánica del Presupuesto, solicitó al BCH se otorgue un crédito por US$144.0 millones al Gobierno de la República, dada la situación de emergencia y calamidad pública actual, en las mismas condiciones otorgadas por el FMI al BCH, el cual será trasladado a la Cuenta Única de la Tesorería General de la República como apoyo presupuestario para atender la emergencia humanitaria y sanitaria declarada en todo el territorio nacional por el Covid-19.
 
-CONSIDERANDO: Que mediante la Resolución No.118- 3/2020 del 22 de marzo de 2020 el Directorio del Banco Central de Honduras autorizó al Presidente del BCH para que efectuara las gestiones necesarias ante el Fondo Monetario Internacional, orientadas a solicitar el préstamo y que solicite los desembolsos provenientes del Acuerdo Stand-By (SBA) por DEG79,936,000.00 (US$109,167,437.14) y del Acuerdo Stand-By Credit Facility (SCF) por DEG24,980,000.00 (US$34,114,824.11), totalizando entre ambas modalidades DEG104,916,000.00, equivalente a US$143,282,261.25, solicitud que fue resuelta favorablemente por dicho organismo internacional.
+CONSIDERANDO: Que mediante la Resolución No. 118-3/2020 del 22 de marzo de 2020 el Directorio del Banco Central de Honduras autorizó al Presidente del BCH para que efectuara las gestiones necesarias ante el Fondo Monetario Internacional, orientadas a solicitar el préstamo y que solicite los desembolsos provenientes del Acuerdo Stand-By (SBA) por DEG79,936,000.00 (US$109,167,437.14) y del Acuerdo Stand-By Credit Facility (SCF) por DEG24,980,000.00 (US$34,114,824.11), totalizando entre ambas modalidades DEG104,916,000.00, equivalente a US$143,282,261.25, solicitud que fue resuelta favorablemente por dicho organismo internacional.
 
 CONSIDERANDO: Que el crédito solicitado por la Secretaría de Estado en el Despacho de Finanzas en representación del Gobierno de la República se enmarca dentro de lo establecido en el Artículo 40, párrafo segundo de la Ley del Banco Central de Honduras, que establece que dicha institución podrá otorgar créditos al Gobierno en casos de emergencia o de grave calamidad pública y su aprobación requerirá el voto unánime de los miembros del Directorio, así como su ratificación mediante Decreto emitido por el Presidente de la República en Consejo de Ministros, debiendo darse inmediata cuenta al Congreso Nacional de la República de la emisión del mismo.
 
-CONSIDERANDO: Que el Directorio del Banco Central de Honduras mediante la Resolución No.142-4/2020 del 19 de abril de 2020, aprobó por unanimidad de votos de sus miembros el otorgamiento de un crédito al Gobierno de la República, con fondos provenientes del desembolso dentro del Acuerdo Stand-By vigente con el Fondo Monetario Internacional (FMI), solicitado por medio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dado el caso de emergencia y calamidad pública nacional causado por la crisis provocada por la pandemia del Coronavirus (Covid-19), facultando al Presidente del Banco Central de Honduras para que en su condición de Representante Legal de la Institución suscribiera el Convenio de Crédito correspondiente, una vez que la mencionada aprobación de otorgamiento de préstamo sea ratificada mediante Decreto emitido por el Presidente de la República en Consejo de Ministros, de la emisión de tal Decreto deberá darse inmediata cuenta al Congreso Nacional de la República.
+CONSIDERANDO: Que el Directorio del Banco Central de Honduras mediante la Resolución No. 142-4/2020 del 19 de abril de 2020, aprobó por unanimidad de votos de sus miembros el otorgamiento de un crédito al Gobierno de la República, con fondos provenientes del desembolso dentro del Acuerdo Stand-By vigente con el Fondo Monetario Internacional (FMI), solicitado por medio de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dado el caso de emergencia y calamidad pública nacional causado por la crisis provocada por la pandemia del Coronavirus (Covid-19), facultando al Presidente del Banco Central de Honduras para que en su condición de Representante Legal de la Institución suscribiera el Convenio de Crédito correspondiente, una vez que la mencionada aprobación de otorgamiento de préstamo sea ratificada mediante Decreto emitido por el Presidente de la República en Consejo de Ministros, de la emisión de tal Decreto deberá darse inmediata cuenta al Congreso Nacional de la República.
 
 CONSIDERANDO: Que el Presidente de la República convoca y preside el Consejo de Ministros y se reunirá por iniciativa del Presidente para tomar resolución en todos los asuntos que juzgue de importancia nacional y para conocer de los casos que señale la Ley.
 
@@ -57,43 +57,43 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 245 numerales 1), 11), 30) y 45) 252, y 365 de la Constitución de la República; Artículos 6, 16 y 40 de la Ley del Banco Central de Honduras; Artículos 7, 11, 17, 18, 20, 22 numeral 13), 23, 116 y 117 de la Ley General de la Administración Pública;
 
-Artículos 73 y 75 de la Ley Orgánica del Presupuesto; Artículo 1 del Decreto Legislativo No.32-2020 del 2 de abril de 2020;
+Artículos 73 y 75 de la Ley Orgánica del Presupuesto; Artículo 1 del Decreto Legislativo No. 32-2020 del 2 de abril de 2020;
 
-Artículo 8 del Decreto Legislativo No.33-2020 del 2 de abril de 2020, que contiene la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Artículo 1 del Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, reformado mediante los Decretos Ejecutivos números PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente;
+Artículo 8 del Decreto Legislativo No. 33-2020 del 2 de abril de 2020, que contiene la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Artículo 1 del Decreto Ejecutivo Número PCM-005-2020 del 10 de febrero de 2020, reformado mediante los Decretos Ejecutivos números PCM-016-2020 y PCM-023-2020 del 3 y 20 de marzo de 2020, respectivamente;
 
-Artículos 1 y 2 del Decreto Ejecutivo Número PCM-021- 2020 del 15 de marzo de 2020; Artículos 1 y 2 del Decreto Ejecutivo Número PCM-022-2020 del 20 de marzo de 2020;
+Artículos 1 y 2 del Decreto Ejecutivo Número PCM-021-2020 del 15 de marzo de 2020; Artículos 1 y 2 del Decreto Ejecutivo Número PCM-022-2020 del 20 de marzo de 2020;
 
-Artículo 1 del Decreto Ejecutivo Número PCM-026-2020 del 28 de marzo de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-028-2020 del 4 de abril de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-031-2020 del 11 de abril de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-033- 2020 del 18 de abril de 2020 y la Resolución No.142-4/2020 del 19 de abril de 2020 emitida por el Directorio del Banco Central de Honduras,
+Artículo 1 del Decreto Ejecutivo Número PCM-026-2020 del 28 de marzo de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-028-2020 del 4 de abril de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-031-2020 del 11 de abril de 2020; Artículo 1 del Decreto Ejecutivo Número PCM-033-2020 del 18 de abril de 2020 y la Resolución No. 142-4/2020 del 19 de abril de 2020 emitida por el Directorio del Banco Central de Honduras,
 
 DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ratificar la aprobación del crédito al Gobierno de la República, con fondos provenientes del desembolso dentro del Acuerdo Stand-By vigente con el Fondo Monetario Internacional (FMI), otorgado por el Banco Central de Honduras (BCH) mediante Resolución No.142- 4/2020 del 19 de abril de 2020 aprobada por el voto unánime de los miembros de su Directorio. El referido crédito ha sido otorgado por el BCH en respuesta a la solicitud presentada por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dado el caso de emergencia y calamidad pública nacional causado por la crisis provocada por la pandemia del Coronavirus (Covid-19). Los términos y condiciones financieras del crédito se detallan a continuación:
+ARTÍCULO 1.- Ratificar la aprobación del crédito al Gobierno de la República, con fondos provenientes del desembolso dentro del Acuerdo Stand-By vigente con el Fondo Monetario Internacional (FMI), otorgado por el Banco Central de Honduras (BCH) mediante Resolución No. 142-4/2020 del 19 de abril de 2020 aprobada por el voto unánime de los miembros de su Directorio. El referido crédito ha sido otorgado por el BCH en respuesta a la solicitud presentada por la Secretaría de Estado en el Despacho de Finanzas (SEFIN), dado el caso de emergencia y calamidad pública nacional causado por la crisis provocada por la pandemia del Coronavirus (Covid-19). Los términos y condiciones financieras del crédito se detallan a continuación:
 
 MONTO:
 
-Ciento cuatro millones novecientos dieciséis mil Derechos Especiales de Giro (DEG104,916,000.00), de los cuales DEG79,936,000.00 asignados para la Línea de Crédito No.1 y DEG24,980,000.00 para la Línea de Crédito No.2. Lo anterior equivale a US$143,282,261.25 recibidos del FMI por el BCH.
+Ciento cuatro millones novecientos dieciséis mil Derechos Especiales de Giro (DEG104,916,000.00), de los cuales DEG79,936,000.00 asignados para la Línea de Crédito No. 1 y DEG24,980,000.00 para la Línea de Crédito No. 2. Lo anterior equivale a US$143,282,261.25 recibidos del FMI por el BCH.
 
 PLAZO:
 
-Cinco (5) años, incluyendo un período de gracia de tres años y un cuarto (3¼) para la Línea de Crédito No.1 y ocho
+Cinco (5) años, incluyendo un período de gracia de tres años y un cuarto (3¼) para la Línea de Crédito No. 1 y ocho
 
-(8) años, incluyendo un período de gracia de cuatro (4) años para la Línea de Crédito No.2.
+(8) años, incluyendo un período de gracia de cuatro (4) años para la Línea de Crédito No. 2.
 
 FORMA DE DESEMBOLSO:
 
-Desembolso en dólares de los Estados Unidos de América con crédito a la Cuenta Única de la Tesorería General de la República No.11101200004641, que la Secretaría de Estado en el Despacho de Finanzas mantiene en el Banco Central de Honduras, una vez formalizado el correspondiente Convenio de Crédito.
+Desembolso en dólares de los Estados Unidos de América con crédito a la Cuenta Única de la Tesorería General de la República No. 11101200004641, que la Secretaría de Estado en el Despacho de Finanzas mantiene en el Banco Central de Honduras, una vez formalizado el correspondiente Convenio de Crédito.
 
 FORMA DE PAGO:
 
-Pagadero en cuotas trimestrales para la Línea de Crédito No.1 y cuotas semestrales para la Línea de Crédito No.2.
+Pagadero en cuotas trimestrales para la Línea de Crédito No. 1 y cuotas semestrales para la Línea de Crédito No. 2.
 
-TASA DE INTERÉS: Tasa de cargo básica para la Línea de Crédito No.1, compuesta por: tasa de interés DEG determinada por el mercado (0.05%) más un margen establecido por la Junta Ejecutiva del FMI cada 2 años (actualmente 100 pb) y cero por ciento (0.0%) para la Línea de Crédito No.2.
+TASA DE INTERÉS: Tasa de cargo básica para la Línea de Crédito No. 1, compuesta por: tasa de interés DEG determinada por el mercado (0.05%) más un margen establecido por la Junta Ejecutiva del FMI cada 2 años (actualmente 100 pb) y cero por ciento (0.0%) para la Línea de Crédito No. 2.
 
 CARGO POR SERVICIO:
 
-0.5% solamente para la Línea de Crédito No.1.
+0.5% solamente para la Línea de Crédito No. 1.
 
 DESTINO:
 

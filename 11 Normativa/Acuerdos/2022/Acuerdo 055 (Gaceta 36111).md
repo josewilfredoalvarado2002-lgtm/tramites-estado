@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Certificación, Acuerdo No. 055"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221224-36111/download"
 extraido: "2026-11-14"
-huella: "8af4a3bdbee10b8f"
+huella: "ffd398f2d55ea939"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 055
@@ -27,7 +27,7 @@ huella: "8af4a3bdbee10b8f"
 
 ## Texto
 
-EL INFRASCRITO, SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO N°.055 CONTENIDO EN EL ACTA ORDINARIA N°.033 DE FECHA TRECE DE DICIEMBRE DEL AÑO DOS MIL VEINTIDÓS, EL CUAL LITERALMENTE DICE:
+EL INFRASCRITO, SECRETARIO MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO N°. 055 CONTENIDO EN EL ACTA ORDINARIA N°. 033 DE FECHA TRECE DE DICIEMBRE DEL AÑO DOS MIL VEINTIDÓS, EL CUAL LITERALMENTE DICE:
 
 “ACUERDO N°. 055.- LA ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL, EN USO DE LAS ATRIBUCIONES Y FACULTADES QUE LA LEY LE CONFIERE A LA CIUDADANÍA EN GENERAL. “ORDENANZA PARA LA REGULACIÓN DE LAS RUTAS DE TRANSPORTE INTERURBANO QUE PROVENGAN DE LA ZONA SUR DEL PAÍS, HACIA EL MUNICIPIO DEL DISTRITO CENTRAL”.- CONSIDERANDO: Que la Municipalidad es la máxima autoridad dentro del término municipal y el órgano de gobierno que tiene como finalidad principal la administración del Municipio y existe para lograr el bienestar de sus habitantes y promover su desarrollo integral, con las facultades de planificar, organizar y administrar los servicios públicos e implementar las medidas el desarrollo urbano determinado en beneficio de los vecinos del municipio y de la colectividad en general.- CONSIDERANDO: Que la municipalidad tiene dentro de sus atribuciones, el control y regulación del desarrollo urbano, uso y administración de las tierras municipales, el mantenimiento, limpieza y control sobre las vías públicas urbanas, aceras, parques y playas que incluyen su ordenamiento, ocupación, señalamiento vial urbano, terminales de transporte urbano e interurbano, la prestación de los servicios públicos locales; y el mejoramiento de las poblaciones.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo de la Municipalidad, electa por el pueblo y máxima autoridad dentro del término municipal, en consecuencia, le corresponde ejercer la facultad de crear, reformar y derogar los instrumentos normativos locales, dictar todas las medidas de ordenamiento urbano; disponer lo conveniente sobre trazado, apertura, ensanche y arreglo de las calles de las poblaciones y caseríos, sancionar las infracciones a los acuerdos que reglamenten el urbanismo y planeamiento de las ciudades; así como ejercitar de acuerdo con su autonomía, toda acción dentro de la ley.-
 

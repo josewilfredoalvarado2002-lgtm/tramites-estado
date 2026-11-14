@@ -11,7 +11,7 @@ paginas: "A. 19 - 20"
 sumario: "Acuerdos Ejecutivos Nos. 166-2022, 167-2022, 282-2022, 283-2022, 284-2022, 285-2022, 286-2022, 287-2022, 288-2022, 289-2022, 290-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220510-35919/download"
 extraido: "2026-11-14"
-huella: "fcd3166d7d7a6409"
+huella: "b80f52418343483d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 289-2022
@@ -29,7 +29,7 @@ huella: "fcd3166d7d7a6409"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05- 2022.
+En uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto Ejecutivo PCM-05-2022.
 
 ACUERDA:
 

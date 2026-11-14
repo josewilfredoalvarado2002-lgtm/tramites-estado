@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Nos. DM-SEDESPA-01-2025, SG-SEDESPA-001-2025,SG-SEDESPA-002-2025,SG-SEDESPA-003-2025,SG-SEDESPA-021-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250812-36914/download"
 extraido: "2026-11-09"
-huella: "f9a8474e8fefc6fa"
+huella: "a5e275ee0934b8c0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-002-2025
@@ -39,13 +39,13 @@ CONSIDERANDO (04): Que, de conformidad con la Ley de Procedimiento Administrativ
 
 CONSIDERANDO (05): Que la ciudadana HEIDY MAGALI MONTOYA FLORES, ostenta el cargo de SECRETARIA DE ESTADO, POR LEY DE LA SECRETARÍA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA), en vista de la renuncia irrevocable de la ciudadana FABIOLA CLAUDETT ABUDOJ MENA y siendo que el artículo 123 de la Ley General de la Administración Pública que literalmente expresa: En defecto de disposición expresa, el titular de un órgano, en caso de ausencia o impedimento legal será sustituido por el subalterno más elevado en grado, y en caso de paridad en grado, por el funcionario con más antigüedad en el servicio, en su defecto, por el funcionario que ostente el título profesional superior.
 
-CONSIDERANDO (06): Que en fecha dos (02) de enero del dos mil veinticinco (2025), LA SECRETARÍA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS, POR LEY (SEDESPA) Suscribió CONTRATO PERSONAL NO PERMANENTE No.001-2025, de fecha dos (02) de enero del año dos mil veinticinco (2025), con la Abogada INGRID VIVIANA CHIRINOS RAMIREZ, en el cargo de Asesor Especial Técnico del Despacho Ministerial, por lo que es necesario realizar las modificaciones pertinentes en la delegación anteriormente autorizada a la Abogada Chirinos como Gerente Administrativo de la SEDESPA.
+CONSIDERANDO (06): Que en fecha dos (02) de enero del dos mil veinticinco (2025), LA SECRETARÍA DE ESTADO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS, POR LEY (SEDESPA) Suscribió CONTRATO PERSONAL NO PERMANENTE No. 001-2025, de fecha dos (02) de enero del año dos mil veinticinco (2025), con la Abogada INGRID VIVIANA CHIRINOS RAMIREZ, en el cargo de Asesor Especial Técnico del Despacho Ministerial, por lo que es necesario realizar las modificaciones pertinentes en la delegación anteriormente autorizada a la Abogada Chirinos como Gerente Administrativo de la SEDESPA.
 
 CONSIDERANDO (07): La competencia es irrenunciable y se ejercerá por los órganos que la tengan atribuida en la Ley; sin embargo, el Órgano Superior podrá delegar el ejercicio de sus funciones en determinada materia al órgano inmediatamente inferior; debiendo el acto de delegación indicar el órgano delegante, el objeto de la delegación y el órgano delegado.
 
 POR TANTO
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -53,7 +53,7 @@ ACUERDA:
 
 PRIMERO:
 
-Revocar el Acuerdo No.03-SGSEDESPA-2024, de fecha veintitrés de julio del año dos mil veinticuatro (2024), en el cual se delega las funciones inherentes al cargo de GERENTE ADMINISTRATIVO, a la ciudadana INGRID VIVIANA CHIRINOS RAMIREZ, quien fungía en ese momento como Asesor Especial Técnico del Despacho Ministerial.
+Revocar el Acuerdo No. 03-SGSEDESPA-2024, de fecha veintitrés de julio del año dos mil veinticuatro (2024), en el cual se delega las funciones inherentes al cargo de GERENTE ADMINISTRATIVO, a la ciudadana INGRID VIVIANA CHIRINOS RAMIREZ, quien fungía en ese momento como Asesor Especial Técnico del Despacho Ministerial.
 
 SEGUNDO: Delegar las funciones inherentes al cargo de Gerente Administrativo en la ciudadana INGRID VIVIANA CHIRINOS RAMIREZ, a partir del dos (02) de enero del año dos mil veinticinco (2025).
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 12"
 sumario: "Decreto No. 1-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240202-36450/download"
 extraido: "2026-11-14"
-huella: "24d62e8b771a1bd2"
+huella: "b51c790e1f33ee8b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 1-2024
@@ -29,7 +29,7 @@ huella: "24d62e8b771a1bd2"
 
 El Congreso Nacional:
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo ÚNICO
 

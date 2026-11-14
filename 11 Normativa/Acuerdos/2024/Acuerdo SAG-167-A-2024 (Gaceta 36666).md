@@ -8,10 +8,10 @@ gaceta_numero: 36666
 gaceta_fecha: "2024-10-17"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)|La Gaceta 36666]]"
 paginas: "A. 14"
-sumario: "Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
+sumario: "Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241017-36666/download"
 extraido: "2026-11-14"
-huella: "a91f3d387fd1b400"
+huella: "5cfbad9dc98881eb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-167-A-2024
@@ -23,7 +23,7 @@ huella: "a91f3d387fd1b400"
 | Emisor | Secretaría de Estado en los Despachos de Agricultura y Ganadería |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36666 (2024-10-17)\|La Gaceta 36666]] del 2024-10-17 |
 | Páginas | A. 14 |
-| Según el sumario de La Gaceta | Decreto No. 88-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 116-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍAAcuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
+| Según el sumario de La Gaceta | Decreto No. 88-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 116-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA: Acuerdos Nos. SAG-166-2024, SAG-167-A-2024, SAG-175-2024 |
 
 ## Texto
 
@@ -43,7 +43,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55- 2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla como Secretario de Estado, por Ley en la reunión a celebrarse en Consejo de Ministros el día nueve (9) de septiembre del dos mil veinticuatro (2024), convocada por la Excelentísima Señora Presidenta de la República.
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla como Secretario de Estado, por Ley en la reunión a celebrarse en Consejo de Ministros el día nueve (9) de septiembre del dos mil veinticuatro (2024), convocada por la Excelentísima Señora Presidenta de la República.
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.-
 

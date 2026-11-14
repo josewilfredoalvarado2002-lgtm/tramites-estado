@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdo No. SAG-112-2025, Acuerdo Ministerial No. 113-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250830-36930/download"
 extraido: "2026-11-09"
-huella: "b4aae8867f2509e2"
+huella: "d12fd4580475e059"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-112-2025
@@ -47,7 +47,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No.55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo; Como Secretario de Estado, por Ley, durante el período comprendido del dieciocho (18) al veinte (20) de agosto del dos mil veinticinco (2025).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Ganadería, ciudadano JOSE ANGEL ACOSTA ZAVALA, nombrado mediante Acuerdo Ejecutivo No. 55-2022, de fecha 01 de Febrero del año 2022, las atribuciones que en cuanto a Ley corresponden a la titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República o quien quede facultado en dicho cargo; Como Secretario de Estado, por Ley, durante el período comprendido del dieciocho (18) al veinte (20) de agosto del dos mil veinticinco (2025).
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.-
 

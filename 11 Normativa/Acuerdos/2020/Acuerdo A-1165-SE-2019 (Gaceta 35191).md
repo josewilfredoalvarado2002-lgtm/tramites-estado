@@ -8,10 +8,10 @@ gaceta_numero: 35191
 gaceta_fecha: "2020-03-04"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35191 (2020-03-04)|La Gaceta 35191]]"
 paginas: "A. 1 - 8"
-sumario: "Acuerdo Ministerial número A-1165-SE-2019UNIVERSIDAD NACIONAL AUTONÓMA DE HONDURASCertificación del Acuerdo No. CU-O-022 01-2020"
+sumario: "Acuerdo Ministerial número A-1165-SE-2019; UNIVERSIDAD NACIONAL AUTONÓMA DE HONDURAS: Certificación del Acuerdo No. CU-O-022 01-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200304-35191/download"
 extraido: "2026-11-14"
-huella: "4eb77fc7c67a6c0c"
+huella: "94a2d9b43afd1b63"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO A-1165-SE-2019
@@ -23,7 +23,7 @@ huella: "4eb77fc7c67a6c0c"
 | Emisor | Secretaría de Educación |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35191 (2020-03-04)\|La Gaceta 35191]] del 2020-03-04 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Acuerdo Ministerial número A-1165-SE-2019UNIVERSIDAD NACIONAL AUTONÓMA DE HONDURASCertificación del Acuerdo No. CU-O-022 01-2020 |
+| Según el sumario de La Gaceta | Acuerdo Ministerial número A-1165-SE-2019; UNIVERSIDAD NACIONAL AUTONÓMA DE HONDURAS: Certificación del Acuerdo No. CU-O-022 01-2020 |
 
 ## Texto
 
@@ -77,7 +77,7 @@ Secretaria General Universidad Nacional Autónoma de Honduras La infrascrita, Se
 
 “Certificación No. 002-2020 El Infrascrito, Secretario del Consejo Universitario de la Universidad Nacional Autónoma de Honduras (UNAH), por este acto, CERTIFICA:
 
-El Acuerdo No.CU-O-022-01-2020, contenido en el Acta No.CU-O-001-01-2020 del 31 de enero de 2020, que literalmente dice: “Oficio SCU-No.02-2020. 3 de febrero del 2020. Doctor FRANCISCO JOSE HERRERA ALVARADO, Rector UNAH. Su Oficina. Señor Rector:
+El Acuerdo No.CU-O-022-01-2020, contenido en el Acta No.CU-O-001-01-2020 del 31 de enero de 2020, que literalmente dice: “Oficio SCU-No. 02-2020. 3 de febrero del 2020. Doctor FRANCISCO JOSE HERRERA ALVARADO, Rector UNAH. Su Oficina. Señor Rector:
 
 La Secretaría del Consejo Universitario de la Universidad Nacional Autónoma de Honduras, hace de su conocimiento, que en la Sesión Ordinaria celebrada el viernes 31 de enero de dos mil veinte, en Acta No.CU-O-001-01-2020 levantada al efecto, obra el ACUERDO No. CU-O-022-01-2020 y sin perjuicio de la ulterior aprobación del acta, que en su parte resolutiva dice: “ACUERDO No. CU-O-022-01-2020.
 
@@ -99,7 +99,7 @@ a) Enriquecimiento de los conocimientos; b) Mejores prácticas pedagógicas y di
 
 Que la Dirección de Investigación Científica para el ejercicio de sus funciones se auxilia de un Sistema de Investigación Científica y Tecnológica y son funciones del SICyT (artículo 6 del Reglamento del SICyT): Desarrollar la investigación científica y tecnológica buscando la pertinencia, relevancia, calidad, ética y oportunidad dentro del marco de las atribuciones que la Constitución de la República le confiere a la UNAH; Fortalecer la estructura de investigación de la UNAH conformada por las instancias de coordinación y seguimiento, de gestión y de ejecución de la investigación científica y tecnológica.
 
-CONSIDERANDO: Que la nueva visión de desarrollo de la DICU y del SICYT se ven afectados para su funcionamiento y cumplimiento de fines y objetivos, con la actual estructura organizativa establecida en el Artículo 29 del Reglamento del SICyT, el proyecto propone su reforma amparado en el artículo 28 inciso Y del Reglamento SICYT, así como en los dictámenes de las unidades correspondientes mencionados en el considerando tercero, para que posteriormente a la aprobación de reforma actual sea trasladado a la Junta de Dirección Universitaria para su aprobación. CONSIDERANDO: Que esta Reforma cuenta con el dictamen favorable de la Comisión de Dictamen nombrada para este efecto, recomendando su aprobación y su ejecución inmediata con el propósito de fortalecer la función sustantiva de investigación de la UNAH. POR TANTO: En cumplimiento a los Decretos Legislativos No.75-2017 del 31 de agosto de 2017 y 88- 2018 del 20 de noviembre de 2018 y en aplicación a los
+CONSIDERANDO: Que la nueva visión de desarrollo de la DICU y del SICYT se ven afectados para su funcionamiento y cumplimiento de fines y objetivos, con la actual estructura organizativa establecida en el Artículo 29 del Reglamento del SICyT, el proyecto propone su reforma amparado en el artículo 28 inciso Y del Reglamento SICYT, así como en los dictámenes de las unidades correspondientes mencionados en el considerando tercero, para que posteriormente a la aprobación de reforma actual sea trasladado a la Junta de Dirección Universitaria para su aprobación. CONSIDERANDO: Que esta Reforma cuenta con el dictamen favorable de la Comisión de Dictamen nombrada para este efecto, recomendando su aprobación y su ejecución inmediata con el propósito de fortalecer la función sustantiva de investigación de la UNAH. POR TANTO: En cumplimiento a los Decretos Legislativos No. 75-2017 del 31 de agosto de 2017 y 88-2018 del 20 de noviembre de 2018 y en aplicación a los
 
 Artículos 1, 6 literal a) numeral 1; 7, 8, 9, 10 numerales 2 y 3 de la Ley Orgánica de la UNAH, Artículos 3 literales
 

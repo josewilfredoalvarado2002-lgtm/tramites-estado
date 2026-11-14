@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decreto Ejecutivo número PCM-012-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200604-35273/download"
 extraido: "2026-11-14"
-huella: "d66219f4d431f48d"
+huella: "9b734cb692058c57"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-012-2020
@@ -55,7 +55,7 @@ Artículo 4 del Decreto Ejecutivo Número PCM-041-2019.
 
 CONSIDERANDO: Que Mediante Memorándum- SEDISGAF-494-2919, de fecha 3 de diciembre de 2019, la Gerencia Administrativa Financiera de la Secretaría de Desarrollo e Inclusión Social (SEDIS) manifiesta que de acuerdo a comunicación recibida por parte del Gobierno de China Taiwán la Donación de Arroz originalmente era de 100 contenedores, ahora será de 140 contenedores, por lo que solicita ampliación presupuestaria.
 
-CONSIDERANDO: Que el Decreto Legislativo No. 171- 2019 publicado en el Diario Oficial “La Gaceta” de fecha 31 de diciembre de 2019 y que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos para el presente Ejercicio Fiscal 2020, en la última parte del párrafo segundo del Artículo 93 señala: Quedan prohibidas las compras amparadas en decretos de emergencia emitidos y aprobados antes del 31 de diciembre de 2019.
+CONSIDERANDO: Que el Decreto Legislativo No. 171-2019 publicado en el Diario Oficial “La Gaceta” de fecha 31 de diciembre de 2019 y que contiene las Disposiciones Generales del Presupuesto General de Ingresos y Egresos para el presente Ejercicio Fiscal 2020, en la última parte del párrafo segundo del Artículo 93 señala: Quedan prohibidas las compras amparadas en decretos de emergencia emitidos y aprobados antes del 31 de diciembre de 2019.
 
 POR TANTO:
 
@@ -69,11 +69,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ratificar para el presente Ejercicio Fiscal, el Estado de Emergencia a nivel nacional en el Sector Productivo Agrícola por el comportamiento incierto del curso y evolución del fenómeno natural denominado “El Niño”, declarado mediante el Decreto Ejecutivo Número PCM- 041-2019, publicado en el Diario Oficial “La Gaceta” el 18 de julio de 2019 y su reforma mediante Decreto Ejecutivo Número PCM-047-2019, publicado en el Diario Oficial La Gaceta el nueve de agosto del 2019.
+ARTÍCULO 1.- Ratificar para el presente Ejercicio Fiscal, el Estado de Emergencia a nivel nacional en el Sector Productivo Agrícola por el comportamiento incierto del curso y evolución del fenómeno natural denominado “El Niño”, declarado mediante el Decreto Ejecutivo Número PCM-041-2019, publicado en el Diario Oficial “La Gaceta” el 18 de julio de 2019 y su reforma mediante Decreto Ejecutivo Número PCM-047-2019, publicado en el Diario Oficial La Gaceta el nueve de agosto del 2019.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar el Artículo 4 del Decreto Ejecutivo Número PCM-041- 2019, publicado en el Diario Oficial “La Gaceta” el 18 de julio de 2019, reformado mediante Decreto Ejecutivo Número PCM-047-2019, el cual debe leerse de la siguiente manera.
+ARTÍCULO 2.- Reformar el Artículo 4 del Decreto Ejecutivo Número PCM-041-2019, publicado en el Diario Oficial “La Gaceta” el 18 de julio de 2019, reformado mediante Decreto Ejecutivo Número PCM-047-2019, el cual debe leerse de la siguiente manera.
 
 “ARTíCULO 4.- Dándole cumplimiento a las disposiciones del Artículo 9 de la Ley de Contratación del Estado, los contratos que se suscriban al amparo del presente Decreto Ejecutivo, requerirán de aprobación posterior, por Acuerdo del Presidente de la República, la Secretaría de Estado en los Despachos de Agricultura y Ganadería, deberá remitir dentro de los diez (10) días hábiles siguientes al Acuerdo de aprobación, los contratos con sus antecedentes al Tribunal Superior de Cuentas (TSC).
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdos Nos. DM-SEDESPA-01-2025, SG-SEDESPA-001-2025,SG-SEDESPA-002-2025,SG-SEDESPA-003-2025,SG-SEDESPA-021-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250812-36914/download"
 extraido: "2026-11-09"
-huella: "699645008bf5dad6"
+huella: "3266b1ca6e703ff1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-021-2025
@@ -33,7 +33,7 @@ CONSIDERANDO (02): Que las Secretarías de Estado son los órganos superiores de
 
 CONSIDERANDO (03): Que mediante Decreto Ejecutivo número PCM-05-2022 de fecha seis (6) de abril de dos mil veintidós (2022) y que mediante FE DE ERRATA al PCM-05-2022 en La Gaceta Número 35,892 del miércoles 06 de abril de 2022 se crea la Secretaría de Estado para el Desarrollo y Seguimiento de Proyectos y Acuerdos como la institución que coordina y asesora técnicamente el desarrollo, seguimiento y evaluación de programas, proyectos y políticas de la administración pública para impulsar la creación de valor público en las instituciones ejecutoras de proyectos, municipalidades y mancomunidades; así como el seguimiento de los acuerdos que designe la Presidencia de la República.
 
-CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA) mediante Acuerdo Ejecutivo No. 43- 2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
+CONSIDERANDO (04): Que el ciudadano JUAN CARLOS COELLO DÍAZ, ostenta el cargo de SECRETARIO DE ESTADO EN EL DESPACHO PARA EL DESARROLLO Y SEGUIMIENTO DE PROYECTOS Y ACUERDOS (SEDESPA) mediante Acuerdo Ejecutivo No. 43-2025 emitido por la Presidencia de la República en fecha uno (01) de abril de dos mil veinticinco (2025).
 
 CONSIDERANDO (05): Que el artículo 36 de la Ley General de la Administración Pública numeral 8 establece que: son atribuciones y deberes comunes a los Secretarios de Estado: “…8) emitir acuerdos y resoluciones en los asuntos de su competencia y aquellos que le delegue el Presidente de la República y cuidar se su ejecución.
 
@@ -43,7 +43,7 @@ CONSIDERANDO (07): Que el Artículo 176 del Reglamento de la Ley de Servicio Civ
 
 POR TANTO
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 
@@ -55,9 +55,7 @@ Revocar el
 
 ACUERDO
 
-No.
-
-SGSEDESPA-003-2025, de fecha diecisiete (17) de enero del año dos mil veinticinco (2025), en el cual se delega las funciones inherentes a procedimientos disciplinarios en la ciudadana CLAUDIA MARIELA VALLECILLO FUENTES, Subgerente de Recursos.
+No. SGSEDESPA-003-2025, de fecha diecisiete (17) de enero del año dos mil veinticinco (2025), en el cual se delega las funciones inherentes a procedimientos disciplinarios en la ciudadana CLAUDIA MARIELA VALLECILLO FUENTES, Subgerente de Recursos.
 
 SEGUNDO:
 

@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdos Nos. SEN-11-2023, SEN-232023, SEN-25-2023, SEN-37-2023, SEN41-2023, SEN-43-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230515-36228/download"
 extraido: "2026-11-14"
-huella: "64c4f34d5db661bf"
+huella: "b94157925bf42b27"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-25-2023
@@ -27,11 +27,9 @@ huella: "64c4f34d5db661bf"
 
 ## Texto
 
-EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA (SEN), En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022, publicado en el Diario Oficial La Gaceta en fecha 31 de agosto de 2022 y en aplicación a los Artículos 246, 247 y 249 de la Constitución de la República; 28, 33, 36 No. 8, 116, 118 No.1,119 y 122 de la Ley General de la Administración Pública, 1, 3, 4, 5 de la Ley de Procedimiento Administrativo.
+EL SUBSECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA RENOVABLE Y ELECTRICIDAD DE LA SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA (SEN), En el ejercicio de las facultades de que fue investido por el señor Secretario de Estado en el Despacho de Energía mediante Acuerdo de Delegación No. SEN-115-2022, publicado en el Diario Oficial La Gaceta en fecha 31 de agosto de 2022 y en aplicación a los Artículos 246, 247 y 249 de la Constitución de la República; 28, 33, 36 No. 8, 116, 118 No. 1,119 y 122 de la Ley General de la Administración Pública, 1, 3, 4, 5 de la Ley de Procedimiento Administrativo.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en los Despachos de Energía como Institución Rectora del sector energético nacional, de la integración energética regional e internacional y de proponer las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que el órgano superior podrá delegar el ejercicio de funciones en determinada materia al órgano inmediatamente inferior, debiendo el acto de delegación, además de indicar el órgano delegante, el objeto de la delegación y el órgano delegado; expresándose esta circunstancia en los actos dictados por delegación.
 

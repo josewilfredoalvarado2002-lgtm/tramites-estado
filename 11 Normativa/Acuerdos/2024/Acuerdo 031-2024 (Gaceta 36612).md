@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo No. 031-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240814-36612/download"
 extraido: "2026-11-14"
-huella: "46b0d877a180c8d3"
+huella: "e8696d01b4467a45"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No.031-2024
@@ -39,21 +39,15 @@ CONSIDERANDO: Que la Ley General de la Administración Pública, dispone que la 
 
 CONSIDERANDO: Que uno de los principales objetivos del Gobierno de la República de Honduras, es la promoción y desarrollo de todas las acciones que permitan garantizar la soberanía del sistema nacional de salud, mediante el acceso eficiente y oportuno a medicamentos, análisis esenciales, mejores diagnósticos y dispositivos médicos en el área sanitaria alineado a lo establecido en el Pacto Internacional de Derechos Económicos, Sociales y Culturales del cual Honduras es Parte. (Artículo 12).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-16-2022 publicado en el Diario Oficial "La Gaceta" en fecha 10 de junio de 2022, se declara Estado de Emergencia Sanitaria en todo el Sistema de Salud Pública a nivel nacional por el año 2022, la cual fue prorrogada para el año 2023 conforme a Decreto Ejecutivo No. PCM-04-2023 publicado en el Diario Oficial "La Gaceta" en fecha 16 de enero del 2023, siendo esta nuevamente prorrogada para el ejercicio 2024 mediante Decreto Ejecutivo No. PCM-53-2023, publicado en el Diario Oficial "La Gaceta" en fecha 27 de diciembre de 2023, en su edición número 36,419.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-16-2022 publicado en el Diario Oficial "La Gaceta" en fecha 10 de junio de 2022, se declara Estado de Emergencia Sanitaria en todo el Sistema de Salud Pública a nivel nacional por el año 2022, la cual fue prorrogada para el año 2023 conforme a Decreto Ejecutivo No. PCM-04-2023 publicado en el Diario Oficial "La Gaceta" en fecha 16 de enero del 2023, siendo esta nuevamente prorrogada para el ejercicio 2024 mediante Decreto Ejecutivo No. PCM-53-2023, publicado en el Diario Oficial "La Gaceta" en fecha 27 de diciembre de 2023, en su edición número 36,419.
 
 CONSIDERANDO: Que en virtud de la Declaratoria de Estado de Emergencia Sanitaria en todo el Sistema de Salud Pública a nivel nacional por el año 2023, se autorizó al Fondo Hondureño de Inversión Social (FHIS), a realizar la contratación directa de bienes y servicios, tales como obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros que sean necesarios para el desarrollo del Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LAB-HONDURAS).
 
 CONSIDERANDO: Que derivado de la naturaleza, complejidad y magnitud que representa la implementación del proyecto denominado "Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LAB-HONDURAS), teniendo como fin ulterior agilizar la implementación del mismo, se determina que dicho proyecto debe ser trasladado del Fondo Hondureño de Inversión Social (FHIS) y su vez asumido por la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-01-2024, publicado en el Diario Oficial "La Gaceta" en fecha 05 de febrero de 2024, SE AUTORIZA a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), a realizar la contratación directa de bienes, servicios, obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros que sean necesarios para el desarrollo del Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LABHONDURAS), cuyo objetivo es la provisión de servicios, abastecimiento, fabricación y producción de medicamentos, con dispositivos médicos de última generación que faciliten los análisis genéticos y moleculares, así como la fabricación de prototipos de salud, para poder brindar una oportuna atención a toda la población hondureña,
 
-PCM-01-2024, publicado en el Diario Oficial "La Gaceta" en fecha 05 de febrero de 2024, SE AUTORIZA a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), a realizar la contratación directa de bienes, servicios, obras, diseño, consultorías, suministros, construcción, instalación y supervisión, entre otros que sean necesarios para el desarrollo del Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LABHONDURAS), cuyo objetivo es la provisión de servicios, abastecimiento, fabricación y producción de medicamentos, con dispositivos médicos de última generación que faciliten los análisis genéticos y moleculares, así como la fabricación de prototipos de salud, para poder brindar una oportuna atención a toda la población hondureña,
-
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-01-2024, se instruye al Fondo Hondureño de Inversión Social (FHIS), a trasladar a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), dentro del término de 15 días a partir de la vigencia del presente Decreto Ejecutivo, todos los procesos con su respectiva documentación, que se encuentren pendientes o en trámite, relacionados con el Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LAB-HONDURAS).
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-01-2024, se instruye al Fondo Hondureño de Inversión Social (FHIS), a trasladar a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), dentro del término de 15 días a partir de la vigencia del presente Decreto Ejecutivo, todos los procesos con su respectiva documentación, que se encuentren pendientes o en trámite, relacionados con el Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH / LAB-HONDURAS).
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-01-2024 se instruye a la Dirección Nacional de Bienes del Estado (DNBE), a realizar todas las operaciones necesarias en el ámbito de sus competencias, para el traspaso del bien inmueble ubicado en el Municipio de Quimistán, Departamento de Santa Bárbara, donde se construirán las instalaciones físicas del COCINH/ LAB-HONDURAS.
 
@@ -79,11 +73,7 @@ ACUERDA:
 
 PRIMERO: Con fundamento en el Decreto Ejecutivo No.
 
-PCM 01-2024 publicado en el Diario Oficial La Gaceta No.
-
-36,452 de fecha 5 de febrero de 2024, SE AUTORIZA E INSTRUYE a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), a aceptar la donación del inmueble que se encuentra inscrito en el Libro de Registro de la Propiedad, Hipotecas y Anotaciones Preventivas del Instituto de la Propiedad de Santa Bárbara, bajo el asiento No.
-
-99 del Tomo 2325, con un área territorial de DIECISIETE MANZANAS CON CIENTO TREINTA Y SIETE PUNTO NOVENTA Y SIETE VARAS CUADRADAS, (17 Mz.
+PCM 01-2024 publicado en el Diario Oficial La Gaceta No. 36,452 de fecha 5 de febrero de 2024, SE AUTORIZA E INSTRUYE a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), a aceptar la donación del inmueble que se encuentra inscrito en el Libro de Registro de la Propiedad, Hipotecas y Anotaciones Preventivas del Instituto de la Propiedad de Santa Bárbara, bajo el asiento No. 99 del Tomo 2325, con un área territorial de DIECISIETE MANZANAS CON CIENTO TREINTA Y SIETE PUNTO NOVENTA Y SIETE VARAS CUADRADAS, (17 Mz.
 
 137.97 vr2), ubicado en la Magdalena o Santa Cruz de la Enea, aldea La Laguna, municipio de Quimistán, departamento de Santa Bárbara, inscrito a favor de la sociedad mercantil denominada "INVERSIÓN Y DESARROLLO LA LAGUNA S. DE R.L. DE C..", con el objetivo de construir y desarrollar el Complejo Científico Industrial de Honduras y el Laboratorio Nacional de Moléculas Biológicas, Genética y Prototipos de Salud (COCINH /LAB-HONDURAS).
 

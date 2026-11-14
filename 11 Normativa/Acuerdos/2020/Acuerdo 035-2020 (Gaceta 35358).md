@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo Ejecutivo número 035-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200831-35358/download"
 extraido: "2026-11-14"
-huella: "f8b163b09f0e7874"
+huella: "a6d5b5a1f5229807"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 035-2020
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Acuerdo Número 023-2018, publicado en el Diario Ofic
 
 POR TANTO:
 
-En el ejercicio de las facultades legales y en aplicación de los artículos 245 de la Constitución d e l a R e p ú b l i c a ; 1 1 , 2 9 n u m e r a l l ) , 1 1 8 y 1 1 9 d e l a L e y G e n e r a l d e Administración Pública y sus reformas contenidas en la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno; Decreto Ejecutivo PCM-002-2014;
+En el ejercicio de las facultades legales y en aplicación de los artículos 245 de la Constitución de la República; 1 1, 2 9 n u m e r a l l ), 1 1 8 y 1 1 9 d e l a L e y G e n e r a l d e Administración Pública y sus reformas contenidas en la Ley para Optimizar la Administración Pública, Mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno; Decreto Ejecutivo PCM-002-2014;
 
 Decreto Ejecutivo PCM 009-2028, Decreto Ejecutivo PCM 025-2018
 
@@ -125,7 +125,7 @@ Mecanismos de gobierno abierto en fomento de la transparencia, participación ci
 
 ARTÍCULO 7. ROLES INSTITUCIONALES EN LA IMPLEMENTACIÓN DEL MODELO DE GESTIÓN POR RESULTADOS Secretaría de Estado en el Despacho de Coordinación General de Gobierno (SCGG), como ente rector de la Gestión por Resultados deberá garantizar la institucionalidad de soporte del modelo para facilitar su implementación en las instituciones públicas y garantizar su sostenibilidad. Para ello, deberá: a) definir un esquema de coordinación interno que articule el trabajo de los Coordinadores Generales Adjuntos y sus respectivos Gabinetes Técnicos Sectoriales, con las direcciones presidenciales en la implementación del Modelo de Gestión por Resultados en el sector público, b) Contar con un enlace para coordinar internamente las actividades de apoyo para la implementación del Modelo de Gestión por Resultados, c) Fortalecer gradualmente la institucionalización del modelo de gestión por resultados en el sector público mediante la elaboración y promoción de la normativa necesaria a nivel de leyes, Decretos Ejecutivos (PCM), políticas, lineamientos, instrumentos, circulares, entre otros, d) Hacer seguimiento a la implementación del modelo de Gestión por Resultados de acuerdo con lo establecido en el PEI de la SCGG y tomar los correctivos necesarios para garantizar el avance según las metas previstas,
 
-e) Mantener una estrecha coordinación con la Escuela de Alta Gerencia Pública (EAGP) para garantizar que la oferta de formación sea pertinente a los requerimientos del modelo y a las capacidades de las instituciones públicas, f) Coordinar con la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (S G J D), la implementación del modelo de Gestión por Resultados (GxR) a nivel de gobierno local. g) Promover y apoyar a las instituciones públicas en la aplicación de la herramienta técnica para la medición del grado de madurez en la implementación del Modelo de gestión por Resultados, y proponer un plan de fortalecimiento institucional para implementar el modelo.
+e) Mantener una estrecha coordinación con la Escuela de Alta Gerencia Pública (EAGP) para garantizar que la oferta de formación sea pertinente a los requerimientos del modelo y a las capacidades de las instituciones públicas, f) Coordinar con la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización (SGJD), la implementación del modelo de Gestión por Resultados (GxR) a nivel de gobierno local. g) Promover y apoyar a las instituciones públicas en la aplicación de la herramienta técnica para la medición del grado de madurez en la implementación del Modelo de gestión por Resultados, y proponer un plan de fortalecimiento institucional para implementar el modelo.
 
 Secretaría de Estado en el Despacho de Finanzas (SEFIN), es una institución corresponsable junto con la SCGG en la implementación efectiva del Modelo de Gestión por Resultados, particularmente en el pilar de presupuesto por resultados, por ello, el rol de la SEFIN en el marco del Modelo de Gestión por Resultados estará orientado a: a) Elaborar en coordinación con la SCGG la Política Presupuestaria como marco de asignación y uso de recursos públicos, b) Elaborar en coordinación con la SCGG el Marco de Gasto de Mediano Plazo (MGMP) asignando los recursos públicos en función de las prioridades del Plan Estratégico de Gobierno.
 

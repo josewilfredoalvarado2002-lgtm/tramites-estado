@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto Ejecutivo número PCM-069-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210627-35640/download"
 extraido: "2026-11-14"
-huella: "6df127a6655dc8a6"
+huella: "3cf8732c66e9609f"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-069-2021
@@ -41,7 +41,7 @@ Artículo 11 de la Ley General de la Administración Pública, el Presidente de 
 
 CONSIDERANDO: Que en virtud de las obligaciones internacionales que tiene el Estado de Honduras con la Organización de los Estados Americanos (OEA) y la Organización de las Naciones Unidas (ONU), la Secretaría de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional debe notificar las restricciones establecidas en el presente Decreto. Lo anterior, dando cumplimiento a lo establecido en la Convención Americana Sobre Derechos Humanos: “Artículo 27. Todo Estado Parte que haga uso del derecho de suspensión deberá informar inmediatamente a los demás Estados Parte en la presente Convención, por conducto del Secretario General de la Organización de los Estados Americanos, de las disposiciones cuya aplicación haya suspendido, de los motivos que hayan suscitado la suspensión y de la fecha en que haya dado por terminada tal suspensión.” El Pacto Internacional de Derechos Civiles y Políticos en el Artículo 4. 3. establece que: “Todo Estado Parte en el presente Pacto que haga uso del derecho de suspensión deberá informar inmediatamente a los demás Estados Parte en el presente Pacto, por conducto del Secretario General de las Naciones Unidas, de las disposiciones cuya aplicación haya suspendido y de los motivos que hayan suscitado la suspensión. Se hará una nueva comunicación por el mismo conducto en la fecha en que se haya dado por terminada tal suspensión.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-068-2021, publicado en el Diario Oficial “La Gaceta” en fecha 20 de junio del 2021 Edición No.35,633, mediante el cual se realizan las medidas de restricción a nivel nacional de las Garantías Constitucionales establecidas en los
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-068-2021, publicado en el Diario Oficial “La Gaceta” en fecha 20 de junio del 2021 Edición No. 35,633, mediante el cual se realizan las medidas de restricción a nivel nacional de las Garantías Constitucionales establecidas en los
 
 Artículos 69, 78, 81 y 84 de la Constitución de la República, decretando que la restricción será efectiva por un plazo de siete días (7) días a partir del lunes veintiuno (21) de junio hasta el domingo veintisiete (27) de junio del 2021.
 
@@ -57,9 +57,9 @@ Convención Americana Sobre Derechos Humanos: Artículo 27; Pacto Internacional 
 
 #### Artículo 4
 
-Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33- 2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-010-2014, PCM-005-2020, PCM- 021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM- 036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM- 053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM- 072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM- 094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM- 110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM- 137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM- 022-2021, PCM-024-2021, PCM-027-2021; PCM-028-2021;
+Artículo 4. 3; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud; Artículos 7, 11, 17, 18, 20, 22 numerales 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 1, 4 inciso 2), 5, 20, 26, 29, 41, 44, 45, 47 y 48 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020 y Decreto Legislativo No. 86-2020; Decretos Ejecutivos Números: PCM-010-2014, PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020, PCM-052-2020, PCM-053-2020, PCM-056-2020, PCM-057-2020, PCM-059-2020, PCM-061-2020, PCM-063-2020, PCM-068-2020, PCM-072-2020, PCM-073-2020, PCM-078-2020, PCM-082-2020, PCM-085-2020, PCM-090-2020, PCM-092-2020, PCM-094-2020, PCM-096-2020, PCM-100-2020, PCM-105-2020, PCM-106-2020, PCM-108-2020, PCM-109-2020, PCM-110-2020, PCM-114-2020, PCM-119-2020, PCM-122-2020, PCM-123-2020, PCM-125-2020, PCM-129-2020, PCM-137-2020, PCM-146-2020, PCM-001-2021, PCM-004-2021, PCM-012-2021, PCM-015-2021, PCM-020-2021, PCM-022-2021, PCM-024-2021, PCM-027-2021; PCM-028-2021;
 
-PCM-035-2021; PCM-037-2021, PCM-039-2021, PCM- 042-2021, PCM-045-2021; PCM-050-2021; PCM-057-2021;
+PCM-035-2021; PCM-037-2021, PCM-039-2021, PCM-042-2021, PCM-045-2021; PCM-050-2021; PCM-057-2021;
 
 PCM-059-2021, PCM-063-2021 y PCM-068-2021.
 
@@ -83,7 +83,7 @@ De igual forma, la Secretaría de Estado en los Despachos de Relaciones Exterior
 
 ARTÍCULO 2.- Ratificar el Artículo 2 del Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” en fecha veintiuno (21) de marzo del 2021, Edición 35,550, reformado por los Decretos Ejecutivos Números:
 
-PCM-037-2021 y PCM-039-2021 y ratificado por los Decretos Ejecutivos Números: PCM-042-2021, PCM-045-2021, PCM- 050-2021, PCM-057-2021, PCM-059-2021, PCM-063-2021 y PCM-068-2021, relacionado con: La circulación de la población a nivel nacional, es en un horario comprendido entre las 05:00 A.M. y las 10:00 P.M. Se autoriza al Sistema Financiero, supermercados y comercios en general la atención de la población utilizando el 50% de la capacidad de cada lugar.
+PCM-037-2021 y PCM-039-2021 y ratificado por los Decretos Ejecutivos Números: PCM-042-2021, PCM-045-2021, PCM-050-2021, PCM-057-2021, PCM-059-2021, PCM-063-2021 y PCM-068-2021, relacionado con: La circulación de la población a nivel nacional, es en un horario comprendido entre las 05:00 A.M. y las 10:00 P.M. Se autoriza al Sistema Financiero, supermercados y comercios en general la atención de la población utilizando el 50% de la capacidad de cada lugar.
 
 Pueden circular en horario no permitido, el personal debidamente identificado que trabaja turnos durante los siete (7) días de la semana y por las noches de los rubros relacionados con actividades claves del País en la industria y el comercio siguientes:
 
@@ -121,9 +121,9 @@ Están excluidos para operar a nivel nacional los comercios siguientes: Bares, d
 
 ARTÍCULO 3.- Ratificar los siguientes Artículos:
 
-Artículo 3, relativo a las Excepciones a los Funcionarios y Empleados del Estado que no están sujetos a las restricciones de Garantías Constitucionales; Artículo 4, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER); y el Artículo 5, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, dichos Artículos contenidos en el Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” de fecha 21 de marzo del 2021, Edición No.35,550, ratificados por los Decretos Ejecutivos Números:
+Artículo 3, relativo a las Excepciones a los Funcionarios y Empleados del Estado que no están sujetos a las restricciones de Garantías Constitucionales; Artículo 4, el cual establece la Aplicación de Medidas de Restricción Diferenciadas en Distintas Regiones del Territorio Nacional por el Sistema Nacional de Gestión de Riesgos (SINAGER); y el Artículo 5, referente a que la Comisión Interinstitucional verifique y garantice el cumplimiento de los protocolos de bioseguridad correspondientes, dichos Artículos contenidos en el Decreto Ejecutivo Número PCM-035-2021, publicado en el Diario Oficial “La Gaceta” de fecha 21 de marzo del 2021, Edición No. 35,550, ratificados por los Decretos Ejecutivos Números:
 
-PCM-037-2021, PCM-039-2021, PCM-042-2021, PCM- 045-2021, PCM-050-2021, PCM-057-2021, PCM-059-2021, PCM-063-2021 y PCM-068-2021.
+PCM-037-2021, PCM-039-2021, PCM-042-2021, PCM-045-2021, PCM-050-2021, PCM-057-2021, PCM-059-2021, PCM-063-2021 y PCM-068-2021.
 
 #### Artículo 4
 

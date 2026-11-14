@@ -11,7 +11,7 @@ paginas: "A. 1 - 17"
 sumario: "Acuerdos Nos. 2923-SE-2025, 2924-SE-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251103-36983/download"
 extraido: "2026-11-09"
-huella: "b665617bcc9b3143"
+huella: "624b9012f8125e8a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 2923-SE-2025
@@ -45,13 +45,13 @@ CONSIDERANDO (6): Que la Constitución de la República de Honduras en su Artíc
 
 CONSIDERANDO (7): Que la Ley General de la Administración Pública, en el artículo 36 establece: Son atribuciones y deberes comunes a los Secretarios de Estado... numerales 1 y 8; emitir los Acuerdos y Resoluciones en los asuntos de su competencia y aquellos que le delega el Presidente de la República y cuidar su ejecución.
 
-CONSIDERANDO (8): Que por Acuerdo No. 1819–EP- 92, del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
+CONSIDERANDO (8): Que por Acuerdo No. 1819–EP-92, del 21 de diciembre de 1992, la Secretaría de Estado en el Despacho de Educación, creó el Sistema de Educación Media a Distancia, con el propósito de incorporar al proceso educativo a todos los hondureños y hondureñas mayores de quince (15) años, que por diversas razones no han tenido acceso a la Educación Media convencional o presencial y/o no han proseguido estudios en dicho nivel.
 
 CONSIDERANDO (9): Que la Ley Fundamental de Educación, en el Capítulo II, artículo 23 manifiesta: La Educación Media tiene como propósito ofrecer la experiencia formativa para incorporarse al mundo del trabajo y/o proseguir estudios en el nivel superior, mediante la adquisición y construcción de conocimientos, habilidades y actitudes relevantes para su vida personal y social, así como para el desarrollo económico, sociocultural, científico y tecnológico del país.
 
 CONSIDERANDO (10): Que la Educación de Jóvenes y Adultos es una opción curricular que propone la Ley Fundamental en el numeral 2, Capítulo IV, Artículo 27 de las Modalidades de Educación la que se Preceptúa de la siguiente manera: Comprende un conjunto de procesos de Aprendizaje Formales y No Formales, que se ofrecen de forma abierta y flexible para promover el acceso de Jóvenes y Adultos a diferentes Alternativas de Educación. Los Jóvenes y Adultos podrán iniciar, interrumpir y retomar su propio programa formativo de acuerdo con sus necesidades particulares y posibilidades de desarrollo. Esta modalidad incluye programas de alfabetización.
 
-CONSIDERANDO (11): Que mediante el Acuerdo 2334- 247-2010, del Consejo de Educación Superior se aprueba a partir del año 2010 el ingreso de los graduados de Bachilleratos Técnicos Profesionales, a toda la oferta educativa del Nivel de Educación Superior; respetando los criterios de requisitos y admisión vigentes de cada Institución de Educación Superior.
+CONSIDERANDO (11): Que mediante el Acuerdo 2334-247-2010, del Consejo de Educación Superior se aprueba a partir del año 2010 el ingreso de los graduados de Bachilleratos Técnicos Profesionales, a toda la oferta educativa del Nivel de Educación Superior; respetando los criterios de requisitos y admisión vigentes de cada Institución de Educación Superior.
 
 CONSIDERANDO (12): Que según el Acuerdo Ejecutivo 1371-SE-2014, en su Artículo 3, Inciso c) Se debe ofrecer diferentes opciones o modalidades de estudio con entregas flexibles y currículos abiertos y pertinentes. Inciso d) Se deben consolidar los procesos de mejoras en la enseñanza y los aprendizajes con dominio de competencias. Inciso e) Garantizar la oportunidad de alfabetización y finalización de la Educación Básica y Secundaria Acelerada y la formación ocupacional de Jóvenes y Adultos.
 
@@ -67,9 +67,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere la Ley en los Artículos, 151, 152,153, 154,157, 159 de la Constitución de la República;
 
-Ley General de la Administración Pública, en el artículo 36, en su artículo 1, 8. Capítulo II, Art. 23; Capítulo IV del Artículo 27 de la Ley Fundamental de Educación y en Acuerdo No.
-
-1819-EP92, del 21 de diciembre de 1992; Acuerdo Ejecutivo 1371-SE-2014, Art. 3;
+Ley General de la Administración Pública, en el artículo 36, en su artículo 1, 8. Capítulo II, Art. 23; Capítulo IV del Artículo 27 de la Ley Fundamental de Educación y en Acuerdo No. 1819-EP92, del 21 de diciembre de 1992; Acuerdo Ejecutivo 1371-SE-2014, Art. 3;
 
 ACUERDA:
 

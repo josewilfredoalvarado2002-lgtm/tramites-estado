@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ejecutivo No. 001-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230214-36155/download"
 extraido: "2026-11-14"
-huella: "777a2fe1bef54f05"
+huella: "62a08d3e67ab9f63"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 001-2023
@@ -53,7 +53,7 @@ CONSIDERANDO: Que el Secretario de Estado como máxima autoridad, ha visualizado
 
 CONSIDERANDO: Que es menester del Secretario de Estado procurar la eficiencia, eficacia y supervisión directa de la Secretaría para la evaluación institucional, en virtud de identificar las necesidades para realizar los cambios estructurales profundos en la Institución.
 
-POR TANTO: En aplicación de los artículos 247 de la Constitución de la República; 5, 33, 36 numeral 1, 3, 5 ,8, de la Ley General de la Administración Pública; 1, 2, 3, 4, 17, 23, 24, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+POR TANTO: En aplicación de los artículos 247 de la Constitución de la República; 5, 33, 36 numeral 1, 3, 5,8, de la Ley General de la Administración Pública; 1, 2, 3, 4, 17, 23, 24, del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA
 

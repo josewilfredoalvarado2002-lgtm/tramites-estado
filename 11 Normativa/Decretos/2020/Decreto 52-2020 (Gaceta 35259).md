@@ -8,10 +8,10 @@ gaceta_numero: 35259
 gaceta_fecha: "2020-05-21"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)|La Gaceta 35259]]"
 paginas: "A. 89 - 99"
-sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020"
+sumario: "Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200521-35259-2/download"
 extraido: "2026-11-14"
-huella: "efb22c0ed71ee667"
+huella: "4333354751928989"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 52-2020
@@ -23,15 +23,15 @@ huella: "efb22c0ed71ee667"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35259 (2020-05-21)\|La Gaceta 35259]] del 2020-05-21 |
 | Páginas | A. 89 - 99 |
-| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020BANCO CENTRAL DE HONDURASAcuerdos Nos. 04/2020, 05/2020, 06/2020 |
+| Según el sumario de La Gaceta | Decretos Nos. 48-2020, 49-2020, 52-2020, 55-2020; BANCO CENTRAL DE HONDURAS: Acuerdos Nos. 04/2020, 05/2020, 06/2020 |
 
 ## Texto
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No.17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010 Edición No.32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO: Que el Congreso Nacional, mediante Decreto No. 17-2010 de fecha 28 de Marzo de 2010 y publicado en el Diario Oficial “La Gaceta” en fecha 22 de Abril de 2010 Edición No. 32,193, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
-CONSIDERANDO: Que el Acuerdo de Financiamiento No.6626-HN suscrito el 23 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto DE VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados únicamente para financiar la ejecución del “Proyecto de Respuesta a Emergencias Honduras COVID-19”, se ampara en el Artículo 70 del Decreto No.17-2010.
+CONSIDERANDO: Que el Acuerdo de Financiamiento No. 6626-HN suscrito el 23 de abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto DE VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados únicamente para financiar la ejecución del “Proyecto de Respuesta a Emergencias Honduras COVID-19”, se ampara en el Artículo 70 del Decreto No. 17-2010.
 
 CONSIDERANDO: Que el Proyecto tiene como objetivo detectar y responder a la amenaza que representa COVID-19 en la República de Honduras, constituyendo una fase del Programa de Enfoque Programático Multifase (EPM), constando de dos partes, la Parte 1 de Respuesta de emergencia del COVID-19 y la Parte 2 Gestión de implementación y monitoreo y evaluación.
 
@@ -39,11 +39,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, atribuciones 19) y 36) de la 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No.6626-HN suscrito el 23 de Abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados únicamente para financiar la ejecución del “Proyecto de Respuesta a Emergencias Honduras COVID-19” que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el Acuerdo de Financiamiento No. 6626-HN suscrito el 23 de Abril de 2020 entre el Banco Mundial (BM), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento por un monto de VEINTE MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$20,000,000.00), recursos destinados únicamente para financiar la ejecución del “Proyecto de Respuesta a Emergencias Honduras COVID-19” que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS.
 

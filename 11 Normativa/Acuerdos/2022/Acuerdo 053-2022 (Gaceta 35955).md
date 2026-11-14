@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial número 053-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220621-35955/download"
 extraido: "2026-11-14"
-huella: "998de0bf47b50710"
+huella: "6372ad47e3fb63c3"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL NÚMERO 053-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que es de interés público mantener el adecuado abastecimiento en
 
 CONSIDERANDO: Que la apertura, administración, supervisión y correcto funcionamiento de los contingentes de importación de desabasto son una responsabilidad indelegable del gobierno de Honduras, haciendo un sacrificio fiscal para contribuir al sostenimiento de precios tanto al productor como al consumidor final de la leche, promoviendo la armonía, balance y equidad en la cadena de comercialización.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG-007- 2022, publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2022, emitido por la Secretaría de Agricultura y Ganadería (SAG), se crea el reglamento de organización, atribuciones y funcionamiento de la comisión nacional de la leche y productos lácteos (CONALE). Así mismo, en el
+CONSIDERANDO: Que mediante Acuerdo No. SAG-007-2022, publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2022, emitido por la Secretaría de Agricultura y Ganadería (SAG), se crea el reglamento de organización, atribuciones y funcionamiento de la comisión nacional de la leche y productos lácteos (CONALE). Así mismo, en el
 
 Artículo 11, de referido Acuerdo, contempla el procedimiento para la aprobación de un contingente por desabasto de leche entera en polvo, leche en polvo descremada, grasa butírica y otros derivados de la leche, a fin de evitar la discrecionalidad y colusión, ordenar y regular apropiadamente la determinación y utilización de los volúmenes de importación de leche por desabasto. Asimismo establece el procedimiento de asignación de conformidad a los beneficiarios del contingente por desabasto.
 
@@ -41,9 +41,7 @@ CONSIDERANDO: Que en fecha 05 de abril de 2022, la Asociación Hondureña de Pro
 
 CONSIDERANDO: Que en fecha 06 de junio de 2022, se reunió la Comisión Nacional de la Leche y Productos Lácteos (CONALE), en donde se presentó el Informe de Análisis de Oferta y Demanda Nacional Estimada de Leche en Polvo, realizado por la Secretaría de Agricultura y Ganadería (SAG) y Secretaría Desarrollo Económico (SDE), para las recomendaciones pertinentes de la Comisión Supra mencionada. La SAG y la SDE, tomando en cuenta el resultado del Análisis Técnico y las recomendaciones de la CONALE, consideran necesario la apertura de un Contingente por Desabasto de Leche en Polvo Descremada, clasificada en el inciso arancelario 0402.10.00.00, por un volumen de Tres mil Cuatrocientos Noventa y Seis Toneladas Métricas (3,496.00 TM) y Mil Toneladas Métricas (1,000.00 TM) de Leche Íntegra en Polvo, clasificada en el inciso arancelario 0402.21.22.00, las cuales serán importadas de junio a diciembre de 2022.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAG- 175-2022 de fecha 13 de junio del año 2022, la Secretaría de Agricultura y Ganadería de conformidad al Acuerdo No.
-
-SAG-007-2022 publicado en el Diario Oficial La Gaceta en fecha 20 de enero de 2022, solicita a la Secretaría de Desarrollo Económico, la apertura de un Contingente por Desabasto de Leche en Polvo Descremada, clasificada en la partida arancelaria 0402.10.00.00, por un volumen de Tres Mil Cuatrocientos Noventa y Seis Toneladas Métricas (3,496.00 TM) y Mil Toneladas Métricas (1,000.00 TM) de Leche Íntegra en Polvo, clasificada en el inciso arancelario 0402.21.22.00, las cuales serán importadas de junio a diciembre de 2022.
+CONSIDERANDO: Que mediante Acuerdo No. SAG-175-2022 de fecha 13 de junio del año 2022, la Secretaría de Agricultura y Ganadería de conformidad al Acuerdo No. SAG-007-2022 publicado en el Diario Oficial La Gaceta en fecha 20 de enero de 2022, solicita a la Secretaría de Desarrollo Económico, la apertura de un Contingente por Desabasto de Leche en Polvo Descremada, clasificada en la partida arancelaria 0402.10.00.00, por un volumen de Tres Mil Cuatrocientos Noventa y Seis Toneladas Métricas (3,496.00 TM) y Mil Toneladas Métricas (1,000.00 TM) de Leche Íntegra en Polvo, clasificada en el inciso arancelario 0402.21.22.00, las cuales serán importadas de junio a diciembre de 2022.
 
 Con Derecho Arancelario a la Importación (DAI) del cero por ciento (0%), con una vigencia comprendida de junio a diciembre de 2022.
 
@@ -53,11 +51,11 @@ CONSIDERANDO: Que es necesario se establezcan las disposiciones para la administ
 
 POR TANTO:
 
-La Secretaría en el Despacho de Desarrollo Económico en aplicación de los Artículos 255, 321 y 347 de la Constitución de la República, 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública y sus reformas, 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Acuerdo A-024-2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009, Acuerdo No. SAG-007-2022 y Acuerdo No. SAG- 175-2022.
+La Secretaría en el Despacho de Desarrollo Económico en aplicación de los Artículos 255, 321 y 347 de la Constitución de la República, 36 numeral 8, 116, 118, 119 y 122 de la Ley de Administración Pública y sus reformas, 54 literal a) del Decreto Ejecutivo No. 08-97, contentivo del Reglamento de Organización y Competencia del Poder Ejecutivo, Acuerdo A-024-2009 del 24 de septiembre de 2009 y 41-2009 del 18 de noviembre de 2009, Acuerdo No. SAG-007-2022 y Acuerdo No. SAG-175-2022.
 
 ACUERDA:
 
-PRIMERO: Aperturar un contingente de importación por desabasto de leche descremada, clasificado en el inciso arancelario 0402.10.00.00, por un volumen de Tres Mil Cuatrocientos Noventa y Seis Toneladas Métricas (3,496.00 TM ) y leche íntegra en polvo clasificado en el inciso arancelario 0402.21.22.00 por la cantidad de Mil Toneladas Métricas (1,000 TM), con Derecho Arancelario a la Importación (DAI) del cero por ciento (0%) con una vigencia comprendida del 13 junio al 31 de diciembre de 2022, en aplicación del Acuerdo No. SAG-175-2022 de fecha 13 de junio de 2022, en marco del procedimiento establecido mediante Acuerdo No. SAG- 007-2022 publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2022, de conformidad al siguiente detalle:
+PRIMERO: Aperturar un contingente de importación por desabasto de leche descremada, clasificado en el inciso arancelario 0402.10.00.00, por un volumen de Tres Mil Cuatrocientos Noventa y Seis Toneladas Métricas (3,496.00 TM ) y leche íntegra en polvo clasificado en el inciso arancelario 0402.21.22.00 por la cantidad de Mil Toneladas Métricas (1,000 TM), con Derecho Arancelario a la Importación (DAI) del cero por ciento (0%) con una vigencia comprendida del 13 junio al 31 de diciembre de 2022, en aplicación del Acuerdo No. SAG-175-2022 de fecha 13 de junio de 2022, en marco del procedimiento establecido mediante Acuerdo No. SAG-007-2022 publicado en el Diario Oficial “La Gaceta” en fecha 20 de enero de 2022, de conformidad al siguiente detalle:
 
 CONTINGENTE DESABASTO DE LECHE EN POLVO/ 2022
 

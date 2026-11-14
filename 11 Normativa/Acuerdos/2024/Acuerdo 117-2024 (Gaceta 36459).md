@@ -11,7 +11,7 @@ paginas: "A. 4 - 56"
 sumario: "Acuerdo Ejecutivo No. 22-2024, Acuerdos Nos. 42-2024, 100-2024, 117-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240213-36459/download"
 extraido: "2026-11-14"
-huella: "f9dd5dd8563d6b85"
+huella: "7f2dadc70236e8f0"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 117-2024
@@ -1423,7 +1423,7 @@ En caso de poder extenderse la vida útil del lote en cuestión, el registrante 
 
 XIII.
 
-REQUISITOS PARA LA RENOVACIÓN D E L R E G I S T R O D E P R O D U C T O S FITOSANITARIOS Expediente
+REQUISITOS PARA LA RENOVACIÓN DEL REGISTRO DE PRODUCTOS FITOSANITARIOS Expediente
 
 a. Formulario de solicitud de renovación de registro con nombre y firma del Apoderado o Representante Legal y el Regente Técnico. Al mismo se le deben adjuntar los respectivos timbres de colegios de profesionales de Ciencias Agrícolas.
 

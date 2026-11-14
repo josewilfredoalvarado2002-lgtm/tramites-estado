@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Acuerdo No. 029"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220114-35823/download"
 extraido: "2026-11-14"
-huella: "6ba326811bed7b63"
+huella: "b22de918abc461eb"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Certificación, Acuerdo No. 029
@@ -29,13 +29,13 @@ huella: "6ba326811bed7b63"
 
 Distrito Central
 
-CERTIFICACIÓN LA INFRASCRITA SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No.029 CONTENIDO EN EL ACTA No.016 DE FECHA VEINTE DE DICIEMBRE DEL AÑO DOS MIL VEINTIUNO, EL CUAL LITERALMENTE DICE:
+CERTIFICACIÓN LA INFRASCRITA SECRETARIA MUNICIPAL DEL DISTRITO CENTRAL, CERTIFICA: EL ACUERDO No. 029 CONTENIDO EN EL ACTA No. 016 DE FECHA VEINTE DE DICIEMBRE DEL AÑO DOS MIL VEINTIUNO, EL CUAL LITERALMENTE DICE:
 
-“ACUERDO No.029.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo y legislativo de la Municipalidad y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos de conformidad con la Ley de Municipalidades.-
+“ACUERDO No. 029.- CONSIDERANDO: Que la Corporación Municipal es el órgano deliberativo y legislativo de la Municipalidad y tiene entre sus atribuciones crear, reformar y derogar los instrumentos normativos de conformidad con la Ley de Municipalidades.-
 
 CONSIDERANDO: Que la autonomía municipal se basa, entre otros postulados, en la libre administración de los intereses locales y la adopción de decisiones propias dentro de la Ley, los intereses generales de la Nación y sus programas de desarrollo, así como en la planificación, organización y administración de los servicios públicos municipales, estando facultadas las Municipalidades para crear su propia estructura administrativa y forma de funcionamiento, de acuerdo con la realidad y necesidades.-
 
-CONSIDERANDO: Que mediante Decreto No.118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad es permanente e intransferible.-
+CONSIDERANDO: Que mediante Decreto No. 118-2003, el Congreso Nacional aprobó la Ley Marco del Sector Agua Potable y Saneamiento (LMSAPS), misma que fue publicada en el Diario Oficial La Gaceta en fecha ocho de octubre de dos mil tres, en donde establece que corresponde a las municipalidades, en su carácter de titulares de los servicios de agua potable y saneamiento, disponer la forma y condiciones de prestación de dichos servicios en su respectiva jurisdicción, observando lo prescrito en la Ley y demás normas aplicables; así mismo estipula que la titularidad es permanente e intransferible.-
 
 CONSIDERANDO: Que el agua y el saneamiento es un derecho humano y universal consagrado en la Constitución de la República y que los vecinos del término municipal tienen derecho a recibir los beneficios de los servicios públicos municipales, pagando las tarifas correspondientes previstas en el plan de arbitrios, así como a participar en los programas y proyectos de inversión municipal y en la gestión y desarrollo de los asuntos locales.-
 
@@ -43,13 +43,13 @@ CONSIDERANDO: Que el Artículo 38 de la Ley Marco del Sector Agua Potable y Sane
 
 CONSIDERANDO: Que la Junta Directiva del Servicio Autónomo Nacional de Acueductos y Alcantarillados (SANAA), mediante Punto Ocho (08) del Acta número 761 de la sesión ordinaria celebrada el 17 de diciembre del 2009, aprobó la modificación de tarifas para el cobro del servicio de agua potable del acueducto de Tegucigalpa y su correspondiente aplicación a partir de la facturación del mes de diciembre del 2009, en atención a la No Objeción emitida por el Directorio del Ente Regulador de los Servicios de Agua Potable y Saneamiento (ERSAPS) de fecha 30 de marzo del 2009.-
 
-CONSIDERANDO: Que mediante el Acuerdo 007 contenido en el Acta 001 de fecha 13 y 14 de enero del año 2021, emitido por la Junta Directiva de la Unidad Municipal de Agua y Saneamiento (UMAPS), se autorizó al Gerente General para que turne a conocimiento y aprobación de la Corporación Municipal del Distrito Central, las tarifas contenidas en el Pliego Tarifario vigentes en el SANAA, de conformidad con el Punto No.8 del Acta 761 de la Sesión Ordinaria de la Junta Directiva del Servicio Autónomo de Acueductos y Alcantarillados (SANAA), celebrada en fecha 17 de diciembre del año 2009 y publicado en el Diario Oficial La Gaceta en su edición No.32,100 de fecha 29 de diciembre del año 2009.-
+CONSIDERANDO: Que mediante el Acuerdo 007 contenido en el Acta 001 de fecha 13 y 14 de enero del año 2021, emitido por la Junta Directiva de la Unidad Municipal de Agua y Saneamiento (UMAPS), se autorizó al Gerente General para que turne a conocimiento y aprobación de la Corporación Municipal del Distrito Central, las tarifas contenidas en el Pliego Tarifario vigentes en el SANAA, de conformidad con el Punto No. 8 del Acta 761 de la Sesión Ordinaria de la Junta Directiva del Servicio Autónomo de Acueductos y Alcantarillados (SANAA), celebrada en fecha 17 de diciembre del año 2009 y publicado en el Diario Oficial La Gaceta en su edición No. 32,100 de fecha 29 de diciembre del año 2009.-
 
-CONSIDERANDO: Que el Ente Regulador de los Servicios de Agua Potable y Saneamiento (ERSAPS) en fecha 25 de agosto del 2021, mediante el Oficio ER-065-2021, manifestó lo siguiente: “En atención al Oficio Alcalde/AMDC No.089- 2021, donde nos informa que en vista del proceso gradual de transferencia y traspaso de los sistemas de agua potable y saneamiento de la División Metropolitana del SANAA a la Alcaldía Municipal del Distrito Central, la Junta Directiva del Prestador Municipal ha determinado mantener las tarifas del Acueducto de Tegucigalpa, vigentes desde el año 2009, conforme la recomendación del ERSAPS y de la cual nos damos por enterados.”.-
+CONSIDERANDO: Que el Ente Regulador de los Servicios de Agua Potable y Saneamiento (ERSAPS) en fecha 25 de agosto del 2021, mediante el Oficio ER-065-2021, manifestó lo siguiente: “En atención al Oficio Alcalde/AMDC No. 089-2021, donde nos informa que en vista del proceso gradual de transferencia y traspaso de los sistemas de agua potable y saneamiento de la División Metropolitana del SANAA a la Alcaldía Municipal del Distrito Central, la Junta Directiva del Prestador Municipal ha determinado mantener las tarifas del Acueducto de Tegucigalpa, vigentes desde el año 2009, conforme la recomendación del ERSAPS y de la cual nos damos por enterados.”.-
 
 CONSIDERANDO: Que las Corporaciones Municipales emitirán normas de aplicación general dentro del término municipal, en asuntos de su exclusiva competencia, las que deberán publicarse en el Diario Oficial La Gaceta.
 
-CONSIDERANDO: Que la Corporación Municipal del Distrito Central, mediante el Acuerdo No.044 contenido en el Acta No.029 de fechas 11 y 12 del mes de diciembre del año 2019, aprobó el Plan de Arbitrios para el Ejercicio Fiscal año dos mil veinte (2020), publicado en el Diario Oficial “La Gaceta” en su edición No. 35,136 de fecha 30 de diciembre del año 2019.-
+CONSIDERANDO: Que la Corporación Municipal del Distrito Central, mediante el Acuerdo No. 044 contenido en el Acta No. 029 de fechas 11 y 12 del mes de diciembre del año 2019, aprobó el Plan de Arbitrios para el Ejercicio Fiscal año dos mil veinte (2020), publicado en el Diario Oficial “La Gaceta” en su edición No. 35,136 de fecha 30 de diciembre del año 2019.-
 
 POR TANTO: La Corporación Municipal del Distrito Central por unanimidad de votos y en uso de sus facultades y de conformidad con lo establecido en los Artículos 12, 12-A numerales 2), 3), 6); 13 numeral 4); 14 numeral 3) y 8); 25 numerales 1), 4), 7) y 21); 73, 74, 84 de la Ley de Municipalidades; 16, 29, 37, 38 y 40 de la Ley Marco del Sector Agua Potable y Saneamiento; 13, 146, 147 y 152 literal a) numerales 5) y 6) del Reglamento General de la Ley de Municipalidades; 25, 31, 41, 48, 49 y 57 literal c) del Reglamento General de la Ley Marco del Sector Agua Potable y Saneamiento; Artículo 1 del Acuerdo 011 contenido en el Acta 008 del 08 de mayo del año 2015; Artículos 1 y 3 literal f) del Reglamento General de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS); Artículos 51 y 56 del Reglamento de Funcionamiento de la Unidad Municipal de Agua Potable y Saneamiento (UMAPS).-
 
@@ -57,7 +57,7 @@ ACUERDA:
 
 #### Artículo PRIMERO
 
-ARTÍCULO PRIMERO: Reformar el Plan de Arbitrios vigente para el Ejercicio Fiscal del año dos mil veinte (2020), aprobado mediante el Acuerdo No.044 contenido en el Acta No. 029 de fechas 11 y 12 del mes de diciembre del año 2019, publicado en el Diario Oficial La Gaceta No.35136 de fecha 30 de diciembre del año 2019, en su Artículo 37 párrafo tercero, el cual de ahora en adelante deberá leerse íntegramente así:
+ARTÍCULO PRIMERO: Reformar el Plan de Arbitrios vigente para el Ejercicio Fiscal del año dos mil veinte (2020), aprobado mediante el Acuerdo No. 044 contenido en el Acta No. 029 de fechas 11 y 12 del mes de diciembre del año 2019, publicado en el Diario Oficial La Gaceta No. 35136 de fecha 30 de diciembre del año 2019, en su Artículo 37 párrafo tercero, el cual de ahora en adelante deberá leerse íntegramente así:
 
 #### Artículo 37
 
@@ -105,7 +105,7 @@ c. Son servicios eventuales:
 
 #### Artículo SEGUNDO
 
-ARTÍCULO SEGUNDO: Reformar por adición el Plan de Arbitrios vigente para el Ejercicio Fiscal del año dos mil veinte (2020), aprobado mediante el Acuerdo No.044 contenido en el Acta No.029 de fechas 11 y 12 del mes de diciembre del año 2019, en el que se incorpora el Título XIII, el cual deberá leerse íntegramente así:
+ARTÍCULO SEGUNDO: Reformar por adición el Plan de Arbitrios vigente para el Ejercicio Fiscal del año dos mil veinte (2020), aprobado mediante el Acuerdo No. 044 contenido en el Acta No. 029 de fechas 11 y 12 del mes de diciembre del año 2019, en el que se incorpora el Título XIII, el cual deberá leerse íntegramente así:
 
 TÍTULO XIII TARIFA POR SERVICIO DE AGUA POTABLE Y SANEAMIENTO UNIDAD MUNICIPAL DE AGUA POTABLE Y SANEAMIENTO (UMAPS)
 

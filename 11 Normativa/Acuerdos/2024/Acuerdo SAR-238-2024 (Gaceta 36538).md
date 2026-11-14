@@ -11,7 +11,7 @@ paginas: "A. 36 - 40"
 sumario: "Acuerdos Nos. SAR-236-2024, SAR-237-2024, SAR-238-2024, SAR-239-2024, SAR-240-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240520-36538/download"
 extraido: "2026-11-14"
-huella: "b92362c4876dce6b"
+huella: "a040d905173555f1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAR-238-2024
@@ -33,11 +33,7 @@ EL DIRECTOR EJECUTIVO DEL SERVICIO DE ADMINISTRACIÓN DE RENTAS
 
 CONSIDERANDO: Que de conformidad al Artículo 351 de la Constitución de la República, el Sistema Tributario Nacional se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el artículo 195 del Decreto No.
-
-170-2016 publicado en el Diario Oficial La Gaceta No.
-
-34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
+CONSIDERANDO: Que el artículo 195 del Decreto No. 170-2016 publicado en el Diario Oficial La Gaceta No. 34,224 de fecha veintiocho (28) de diciembre de dos mil dieciséis (2016), contentivo del Código Tributario, crea la Administración Tributaria como entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional y con domicilio en la Capital de la República, como Servicio de Administración de Rentas (SAR), mediante Acuerdo Ejecutivo No. 01-2017.
 
 CONSIDERANDO: Que en el Artículo 199 del Decreto en mención, se establecen las atribuciones del Director Ejecutivo del Servicio de Administración de Rentas (SAR), tales como: 1) Ejercer la representación legal, administración general, dirección y manejo de la institución; 10) Celebrar los actos que sean de su competencia; y, 13) Las demás funciones que le confieran el Código Tributario y las leyes aplicables.
 
@@ -55,19 +51,15 @@ CONSIDERANDO: Que el Artículo 205 numeral 1) del Código Tributario, autoriza a
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2024 de fecha 18 de enero del 2024, se nombró al ciudadano CHRISTIAN DAVID DUARTE CHÁVEZ en el cargo de Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango Ministerial y con facultades para emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
-435-2022 de fecha 09 de septiembre del 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRÍOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
-
-CONSIDERANDO: Que el Artículo 45 del Decreto No.
-
-194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
+CONSIDERANDO: Que el Artículo 45 del Decreto No. 194-2002 contentivo de la Ley de Equilibrio Financiero y la Protección Social, faculta a la Dirección Ejecutiva de Ingresos (DEI), ahora Servicio de Administración de Rentas (SAR), para el uso de medios electrónicos para el registro, copia, archivo y administración de documentos y declaraciones de los diferentes tributos, garantizando la confidencialidad y seguridad del sistema, para preservar los intereses del Fisco y de los contribuyentes.
 
 CONSIDERANDO: Que mediante Acuerdo DEISG-155-2011, emitido por la Dirección Ejecutiva de Ingresos
 
 (DEI) y publicado en el Diario Oficial “La Gaceta” en fecha 27 de julio de 2011, se aprobó el módulo Declaración Mensual de Retenciones (DET-MR), que forma parte del aplicativo informático “Declaración Electrónica de Tributos” (DET), con el cual se genera la “Declaración Jurada Informativa DEI-540”.
 
-CONSIDERANDO: Que mediante Acuerdo No. SAR-007- 2017, emitido por el Servicio de Administración de Rentas
+CONSIDERANDO: Que mediante Acuerdo No. SAR-007-2017, emitido por el Servicio de Administración de Rentas
 
 (SAR) y publicado en el Diario Oficial “La Gaceta” en fecha 01 de junio del 2017, se aprobaron temporalmente los formatos de los formularios que fueron utilizados por la Comisionada Presidencial de la Administración Tributaria (CPAT), hasta que el Servicio de Administración de Rentas (SAR) apruebe los nuevos formularios, declaraciones e informes que deben de presentar los obligados tributarios.
 
@@ -83,7 +75,7 @@ En uso de las facultades que la ley le confiere y en aplicación de los Artícul
 
 \2) y 6), 74, 160, 195, 197 numeral 1), 198 numerales 1), 6), 12) y 14), 199 numerales 1), 10) y 13) y 205 numeral 1) del Código Tributario; 45 Decreto 194-2022 de la Ley de Equilibrio Financiero y la Protección Social; 2 del Decreto Legislativo No. 66-2015; 116 y 122 de la Ley General de la Administración Pública; Acuerdo Ejecutivo No. 01-2017;
 
-Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435- 2022; y, demás disposiciones aplicables.
+Acuerdo Ejecutivo No. 23-2024; Acuerdo Ejecutivo No. 435-2022; y, demás disposiciones aplicables.
 
 ACUERDA
 

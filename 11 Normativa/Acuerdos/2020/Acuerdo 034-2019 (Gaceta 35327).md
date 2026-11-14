@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Acuerdo No. 034-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200728-35327/download"
 extraido: "2026-11-14"
-huella: "5d660d45b1704c44"
+huella: "5882d5f96855efce"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 034-2019
@@ -27,7 +27,7 @@ huella: "5d660d45b1704c44"
 
 ## Texto
 
-INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL , ÁREAS PROTEGIDAS Y VIDA SlLVESTRE (ICF).
+INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORESTAL, ÁREAS PROTEGIDAS Y VIDA SlLVESTRE (ICF).
 
 CONSIDERANDO: Que el manejo sostenible de los recursos forestales, hídricos, biodiversidad, genéticos, recreativos, paisajísticos y culturales, se gestionará a través de planes concebidos en función de su categoría y los objetivos de racionalidad, sostenibilidad, integralidad y funcionabilidad.
 
@@ -49,7 +49,7 @@ CONSIDERANDO: Que mediante DICTAMEN TECNICO DAP-209-2017, el Departamento de Ár
 
 CONSIDERANDO: El artículo 113 de la Ley Forestal, manda: PLAN DE MANEJO EN ÁREAS PROTEGIDAS Y VIDA SILVESTRE. Es obligación del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), la elaboración y actualización de los Planes de Manejo y Planes Operativos de las Áreas Protegidas y Vida Silvestre Públicas; así como, la vigilancia del adecuado cumplimiento de los mismos ya sea en forma directa o a través de terceros.
 
-Para ese propósito dará participación a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente, las municipalidades, comunidades locales organizadas, sector privado y demás organizaciones de la sociedad civil, particularmente a las organizaciones campesinas, pueblos indígenas y afro- hondureños residentes en la zona. El financiamiento para estas actividades provendrá del Fondo para el Manejo de Áreas Protegidas, entre otros.
+Para ese propósito dará participación a la Secretaría de Estado en los Despachos de Recursos Naturales y Ambiente, las municipalidades, comunidades locales organizadas, sector privado y demás organizaciones de la sociedad civil, particularmente a las organizaciones campesinas, pueblos indígenas y afro-hondureños residentes en la zona. El financiamiento para estas actividades provendrá del Fondo para el Manejo de Áreas Protegidas, entre otros.
 
 POR TANTO:
 

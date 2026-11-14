@@ -11,7 +11,7 @@ paginas: "A. 39 - 40"
 sumario: "Acuerdos Ministeriales Nos. 033-2020,037-2020 038-2020, 039-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200425-35235/download"
 extraido: "2026-11-14"
-huella: "f0fe558b753c252f"
+huella: "23271d740154116f"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 038-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que Honduras es un Estado Miembro del Sistema de Integración Cent
 
 CONSIDERANDO: Que según el Decreto Número 222-92, de fecha 10 de diciembre de 1992, se aprobó el Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, en el cual se delega la atribución a la Secretaría de Industria y Comercio, actualmente Secretaría de Estado en el Despacho de Desarrollo Económico, como la encargada de dirigir la política nacional en todo lo relacionado con la aplicación del referido Convenio.
 
-CONSIDERANDO: Que en fecha 30 de septiembre del año 2009, la Comisión Nacional Arancelaria (CNA), emitió Resolución CNA- 004-2009 y Resuelve lo siguiente:
+CONSIDERANDO: Que en fecha 30 de septiembre del año 2009, la Comisión Nacional Arancelaria (CNA), emitió Resolución CNA-004-2009 y Resuelve lo siguiente:
 
 “Clasificar el producto denominado comercialmente “elotitos con limón” marca “DIANA” en el inciso Arancelario 1905.90.00.00”.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: De acuerdo a los análisis realizados, los elotitos con sabor lim�
 
 CONSIDERANDO: Que la Comisión Nacional Arancelaria
 
-(CNA) ya no se encuentra vigente en Honduras y que la competencia sobre la correcta clasificación de las mercancías le corresponde a la Administración Aduanera de Honduras, se solicitó se emitiera criterio de clasificación en base al dictamen del Laboratorio Aduanero conforme a la muestra analizada y no en base en la Resolución CNA- 004-2009.
+(CNA) ya no se encuentra vigente en Honduras y que la competencia sobre la correcta clasificación de las mercancías le corresponde a la Administración Aduanera de Honduras, se solicitó se emitiera criterio de clasificación en base al dictamen del Laboratorio Aduanero conforme a la muestra analizada y no en base en la Resolución CNA-004-2009.
 
 CONSIDERANDO: Que el Servicio Aduanero está constituido por los órganos de la Administración Pública de los Estados partes, facultado para aplicar la normativa sobre la materia, comprobar su correcta aplicación, así como facilitar y controlar el comercio Internacional en lo que le corresponde y recaudar los tributos a que esté sujeto el ingreso o la salida o mercancía, de acuerdo a los distintos regímenes que se establezcan, incluyendo la clasificación arancelaria de las mercancías.
 
@@ -55,15 +55,13 @@ POR TANTO:
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico, en aplicación de los Artículos 247, 255 y 335 de la Constitución de la República; 36 numeral 8, 116 y 118 de la Ley General de la Administración Pública y sus Reformas;
 
-54 del Reglamento de Organizaciones, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo 222- 92 de fecha 10 de diciembre 1992, del Código Aduanero Uniforme Centro Americano (CAUCA), Convenio sobre el Régimen Arancelario y Aduanero Centro Americano.
+54 del Reglamento de Organizaciones, Funcionamiento y Competencia del Poder Ejecutivo; Decreto Legislativo 222-92 de fecha 10 de diciembre 1992, del Código Aduanero Uniforme Centro Americano (CAUCA), Convenio sobre el Régimen Arancelario y Aduanero Centro Americano.
 
 ACUERDA:
 
-PRIMERO: Dejar sin valor y efecto la Resolución CNA- 004-2009 emitida por la Comisión Nacional Arancelaria, de fecha 30 de septiembre del año 2009
+PRIMERO: Dejar sin valor y efecto la Resolución CNA-004-2009 emitida por la Comisión Nacional Arancelaria, de fecha 30 de septiembre del año 2009
 
-SEGUNDO: Remitir el presente Acuerdo a la Administración Aduanera de Honduras, para que establezca la correcta clasificación arancelaria en base al dictamen técnico del Laboratorio Aduanero DARA-SLA-352 y al Oficio No.
-
-ADUANAS-SA-08-2020, y que proceda a realizar las demás actuaciones de conformidad con sus competencias.
+SEGUNDO: Remitir el presente Acuerdo a la Administración Aduanera de Honduras, para que establezca la correcta clasificación arancelaria en base al dictamen técnico del Laboratorio Aduanero DARA-SLA-352 y al Oficio No. ADUANAS-SA-08-2020, y que proceda a realizar las demás actuaciones de conformidad con sus competencias.
 
 TERCERO: El presente Acuerdo entrará en vigencia a partir del día de su aprobación y debe ser publicado en el Diario Oficial “La Gaceta” y en la página web de la Secretaría de Estado del Despacho de Desarrollo Económico.
 

@@ -11,7 +11,7 @@ paginas: "A. 11 - 38"
 sumario: "Decretos Nos. 35-2026, 36-2026, 37-2026, 46-2026Resolución No. 2-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260327-37105/download"
 extraido: "2026-11-09"
-huella: "e7b002ce9f6dcfc9"
+huella: "d85184ffd471eafc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2026
@@ -41,21 +41,21 @@ Actualmente se ha ampliado este enfoque, impulsando una estrategia de conectivid
 
 CONSIDERANDO: Que el mejoramiento de la accesibilidad, la resiliencia climática y la seguridad de la conectividad vial en los Departamentos de Atlántida y Colón constituye un eje estratégico para facilitar el acceso a los mercados, asegurar una conectividad confiable a servicios esenciales como la salud, la educación y la atención de emergencias, así como para generar nuevas oportunidades de empleo. Estas acciones se implementarán tanto a través de la rehabilitación y el mantenimiento de la infraestructura vial, como mediante el fortalecimiento del acceso al empleo y a los medios de vida en toda la región.
 
-CONSIDERANDO: Que a través del Acuerdo de Financiamiento No.7879-HN, suscrito el 13 de Agosto de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para la ejecución del Proyecto de Gestión Resiliente para el Corredor Vial La Ceiba-Puerto Castilla, Honduras, el cual tiene como objetivo mejorar la accesibilidad, la resiliencia climática, la seguridad y la gestión del Corredor CA-13 entre La Ceiba y Puerto Castilla.
+CONSIDERANDO: Que a través del Acuerdo de Financiamiento No. 7879-HN, suscrito el 13 de Agosto de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, para la ejecución del Proyecto de Gestión Resiliente para el Corredor Vial La Ceiba-Puerto Castilla, Honduras, el cual tiene como objetivo mejorar la accesibilidad, la resiliencia climática, la seguridad y la gestión del Corredor CA-13 entre La Ceiba y Puerto Castilla.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribuciones 1), 19) y 36) de la Constitución de la República, es potestad del Congreso Nacional, entre otros, crear, decretar, interpretar, reformar y derogar las leyes; asimismo, aprobar o improbar los contratos que llevan involucrados exenciones, incentivos y concesiones fiscales; y, aprobar o improbar los empréstitos o convenios similares que se relacionan con el crédito público, celebrados por el Poder Ejecutivo.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO NO.7879-HN, suscrito el 13 de Agosto de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta por un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a la ejecución del PROYECTO DE GESTIÓN R E S I L I E N T E P A R A E L CORREDOR VIAL LA CEIBAPUERTO CASTILLA, HONDURAS, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el ACUERDO DE FINANCIAMIENTO NO.7879-HN, suscrito el 13 de Agosto de 2025, entre la Asociación Internacional de Fomento (AIF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, de hasta por un monto de CIEN MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$100,000,000.00), recursos destinados a la ejecución del PROYECTO DE GESTIÓN RESILIENTE PARA EL CORREDOR VIAL LA CEIBAPUERTO CASTILLA, HONDURAS, que literalmente dice:
 
 “ACUERDO DE FINANCIAMIENTO
 
-No.7879-HN. ”Acuerdo de Financiamiento. (Proyecto de Gestión Resiliente para el Corredor Vial La Ceiba-Puerto Castilla, en Honduras) entre LA REPÚBLICA DE HONDURAS y LA ASOCIACIÓN INTERNACIONAL DE FOMENTO. ACUERDO DE FINANCIAMIENTO. ACUERDO celebrado en la fecha de la firma, entre la REPÚBLICA DE HONDURAS (el “Receptor”) y la ASOCIACIÓN INTERNACIONAL DE FOMENTO (la “Asociación”). CONSIDERANDO:
+No. 7879-HN. ”Acuerdo de Financiamiento. (Proyecto de Gestión Resiliente para el Corredor Vial La Ceiba-Puerto Castilla, en Honduras) entre LA REPÚBLICA DE HONDURAS y LA ASOCIACIÓN INTERNACIONAL DE FOMENTO. ACUERDO DE FINANCIAMIENTO. ACUERDO celebrado en la fecha de la firma, entre la REPÚBLICA DE HONDURAS (el “Receptor”) y la ASOCIACIÓN INTERNACIONAL DE FOMENTO (la “Asociación”). CONSIDERANDO:
 
 El costo del proyecto descrito en el anexo 1 de este Acuerdo (el “Proyecto”) se estima en ciento setenta y nueve millones ochocientos setenta y siete mil dólares ($179,877,000), que el Receptor se propone financiar con recursos del Reino de España (“España”) y de la Asociación, de la siguiente manera: (a) de la Asociación, un monto equivalente a cien millones de dólares ($100,000,000); y, b) de España un importe equivalente a setenta millones de euros (€70,000,000). El Receptor y la Asociación acuerdan lo siguiente:
 
@@ -299,7 +299,7 @@ a) del Anexo 2 de este Acuerdo.
 
 28. “Fecha de la firma” significa aquella que sea posterior entre las dos fechas en que el Receptor y la Asociación firmaron este Acuerdo y esta definición se aplica a todas las referencias que se hagan en las Condiciones Generales a “la fecha del Acuerdo de Financiamiento”.
 
-29. “SIT” significa la Secretaría de Infraestructura y Transporte del Receptor, establecida de conformidad con el Decreto del Presidente del Receptor en el Consejo de Ministros No. PCM- 005-2022 del 6 de abril de 2022, publicada en el Diario Oficial La Gaceta, edición No. 35.892 del 6 de abril de 2022, en el artículo No. 7, o cualquiera que la suceda aceptable al Colegio.
+29. “SIT” significa la Secretaría de Infraestructura y Transporte del Receptor, establecida de conformidad con el Decreto del Presidente del Receptor en el Consejo de Ministros No. PCM-005-2022 del 6 de abril de 2022, publicada en el Diario Oficial La Gaceta, edición No. 35.892 del 6 de abril de 2022, en el artículo No. 7, o cualquiera que la suceda aceptable al Colegio.
 
 30. “Capacitación” significa los gastos (distintos de los de servicios de consultoría) en que se incurra en relación con viajes de estudio, cursos de capacitación, seminarios, talleres y otras actividades de capacitación, no incluidos en contratos de proveedores de bienes o servicios, incluidos los costos de materiales de capacitación, alquiler de espacio y equipo, viajes, costos de viáticos para los aprendices y los instructores y los honorarios de los instructores (según corresponda), todos ellos basados en el AWPB satisfactorios para la Asociación.
 

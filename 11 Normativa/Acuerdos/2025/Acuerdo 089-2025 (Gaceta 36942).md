@@ -8,7 +8,7 @@ gaceta_numero: 36942
 gaceta_fecha: "2025-09-13"
 gaceta: "[[11 Normativa/La Gaceta/2025/La Gaceta 36942 (2025-09-13)|La Gaceta 36942]]"
 paginas: "A. 7 - 8"
-sumario: "Decreto Ejecutivo Número PCM 27-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 089-2025"
+sumario: "Decreto Ejecutivo Número PCM 27-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 089-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250913-36942/download"
 extraido: "2026-11-09"
 huella: "eb5683756dc2afaf"
@@ -23,7 +23,7 @@ huella: "eb5683756dc2afaf"
 | Emisor | Secretaría de Estado en el Despacho de Desarrollo Económico |
 | Publicado en | [[11 Normativa/La Gaceta/2025/La Gaceta 36942 (2025-09-13)\|La Gaceta 36942]] del 2025-09-13 |
 | Páginas | A. 7 - 8 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 27-2025SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 089-2025 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 27-2025; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 089-2025 |
 
 ## Texto
 

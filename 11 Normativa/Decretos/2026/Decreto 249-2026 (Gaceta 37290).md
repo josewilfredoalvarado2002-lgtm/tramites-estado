@@ -11,7 +11,7 @@ paginas: "A. 28 - 30"
 sumario: "Decreto No. 236-2026, 237-2026, 2382026, 239-2026, 240-2026, 241-2026, 2422026, 243-2026, 248-2026, 249-2026, 2512026, 265-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261109-37290/download"
 extraido: "2026-11-11"
-huella: "fa5fcfcda251f1bd"
+huella: "0f7d644e837406c7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 249-2026
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Ordenar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) gestionar y asignar en el Ejercicio Fiscal 2027, al PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS), un monto de CUATRO MILLONES NOVECIENTOS OCHENTA Y UN MIL TRESCIENTOS VEINTINUEVE LEMPIRAS CON VEINTINUEVE CENTAVOS (L.4,981,329.29), d e s t i n a d o s e x c l u s i v a m e n t e a la ejecución del Proyecto denominado “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DE 4,000 PSI, SECTOR DEL H O S P I TA L A L I V I O D E L SUFRIMIENTO, MUNICIPIO DE EL PARAÍSO, DEPARTAMENTO DE EL PARAÍSO”, con una longitud aproximada de cuatrocientos cuarenta y cinco metros lineales (445 m).
+ARTÍCULO 1.- Ordenar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) gestionar y asignar en el Ejercicio Fiscal 2027, al PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE (PRONADERS), un monto de CUATRO MILLONES NOVECIENTOS OCHENTA Y UN MIL TRESCIENTOS VEINTINUEVE LEMPIRAS CON VEINTINUEVE CENTAVOS (L.4,981,329.29), destinados exclusivamente a la ejecución del Proyecto denominado “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO DE 4,000 PSI, SECTOR DEL H O S P I TA LA LIVIO DEL SUFRIMIENTO, MUNICIPIO DE EL PARAÍSO, DEPARTAMENTO DE EL PARAÍSO”, con una longitud aproximada de cuatrocientos cuarenta y cinco metros lineales (445 m).
 
 #### Artículo 2
 

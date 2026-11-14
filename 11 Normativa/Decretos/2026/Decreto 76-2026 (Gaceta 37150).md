@@ -11,7 +11,7 @@ paginas: "A. 51 - 53"
 sumario: "Decretos Nos. 75-2026, 76-2026, 77-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260525-37150/download"
 extraido: "2026-11-09"
-huella: "49028013c54bca83"
+huella: "bd7a54a73e61a77a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 76-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

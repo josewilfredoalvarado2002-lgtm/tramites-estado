@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Ministeriales Nos. 015-2022, 016-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220212-35847/download"
 extraido: "2026-11-14"
-huella: "689f45c5abac2dd8"
+huella: "e5a54cb3dfed50cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 015-2022
@@ -41,35 +41,31 @@ CONSIDERANDO: Que en Resolución de fecha 20 de octubre de 1995, la Corte Centro
 
 CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó el Acuerdo No. 01-2021 (COMIECO-XCVIII); que ACUERDA: 1. Aprobar la Hoja de Ruta del Proceso de Incorporación de Panamá al Subsistema de Integración Económica Centroamericana, de fecha 5 de abril de 2021 y sus modificaciones acordadas en la reunión del COMIECO del 17 de diciembre de 2021, en la forma que aparecen en el Anexo de este Acuerdo y que forman parte integral del mismo. 2. El presente Acuerdo entrará en vigor a partir de esta fecha y será publicado por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 451- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con Flujo de Refrigerante Variable Descarga Libre y sin Ductos de Aire. Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. La presente Resolución entrará en vigor para las Repúblicas de El Salvador, Honduras y Nicaragua el 17 de agosto de 2022 y para las Repúblicas de Costa Rica, Guatemala y Panamá el 17 de diciembre de 2022 y será publicada por los Estados Parte.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 451-2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar el Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con Flujo de Refrigerante Variable Descarga Libre y sin Ductos de Aire. Especificaciones de Eficiencia Energética, en la forma en que aparece el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. La presente Resolución entrará en vigor para las Repúblicas de El Salvador, Honduras y Nicaragua el 17 de agosto de 2022 y para las Repúblicas de Costa Rica, Guatemala y Panamá el 17 de diciembre de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 452- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar la modificación de los Derechos Arancelarios a la Importación
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 452-2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar la modificación de los Derechos Arancelarios a la Importación
 
 (DAI) del Arancel Centroamericano de Importación, Anexo “A” del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, en la forma siguiente: CÓDIGO 38.12 y 3812.20.00.00; 2. La modificación de DAI anterior forma parte integrante del Arancel Centroamericano de Importación, Anexo “A”, del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano. 3. La presente Resolución entrará en vigor el 17 de junio de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 453- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar las aperturas arancelarias del Arancel Centroamericano de Importación, Anexo “A” del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, en la forma siguiente: CÓDIGO 76.06; 760612; 7606.12.9; 7606.12.99.00;
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 453-2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar las aperturas arancelarias del Arancel Centroamericano de Importación, Anexo “A” del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, en la forma siguiente: CÓDIGO 76.06; 760612; 7606.12.9; 7606.12.99.00;
 
 7606.12.99; 7606.12.99.10; 7606.12.99.90. 2. Las aperturas arancelarias anteriores forman parte integrante del Arancel Centroamericano de Importación, Anexo “A”, del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 3. La presente Resolución entrará en vigor el 17 de junio de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 454- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Modificar, por sustitución total, el Procedimiento Centroamericano para la Facilitación del Tránsito Terrestre de Envíos de Socorro, aprobado mediante la Resolución No. 386-2017 (COMIECOEX), del 27 de abril de 2017, en la forma que aparece en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Derogar la Resolución No. 386- 2017 (COMIECO-EX) y su Anexo, del 27 de abril de 2017.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 454-2021 (COMIECO-XCVIII); que RESUELVE: 1. Modificar, por sustitución total, el Procedimiento Centroamericano para la Facilitación del Tránsito Terrestre de Envíos de Socorro, aprobado mediante la Resolución No. 386-2017 (COMIECOEX), del 27 de abril de 2017, en la forma que aparece en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Derogar la Resolución No. 386-2017 (COMIECO-EX) y su Anexo, del 27 de abril de 2017.
 
 3. El Procedimiento que aparece en el Anexo de la presente Resolución, quedará sin efecto una vez el procedimiento para el tránsito de envíos de socorro sea regulado en el Reglamento sobre el Régimen de Tránsito Aduanero Internacional Terrestre. 4. Solicitar a la SIECA y al Centro de Coordinación para la Prevención de los Desastres en América Central y República Dominicana (CEPREDENAC), el apoyo para la debida socialización e implementación del Procedimiento Centroamericano para la Facilitación del Tránsito Terrestre de Envíos de Socorro. 5. La presente Resolución entrará en vigor el 17 de junio de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 455- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar las adecuaciones y modificaciones al Sistema Arancelario Centroamericano (SAC), contenidas en la Resolución No.
-
-450-2021 (COMIECO-EX), del 22 de julio de 2021, tal y como aparecen en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Las adecuaciones y modificaciones anteriores forman parte integrante del Arancel Centroamericano de Importación, Anexo “A”, del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 455-2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar las adecuaciones y modificaciones al Sistema Arancelario Centroamericano (SAC), contenidas en la Resolución No. 450-2021 (COMIECO-EX), del 22 de julio de 2021, tal y como aparecen en el Anexo de la presente Resolución y que forma parte integrante de la misma. 2. Las adecuaciones y modificaciones anteriores forman parte integrante del Arancel Centroamericano de Importación, Anexo “A”, del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano.
 
 3. La presente Resolución entrará en vigor el 17 de junio de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 456- 2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar, para la República de Panamá, la adopción de los formatos del Certificado Fitosanitario de Exportación y el Certificado Sanitario de Exportación, con sus respectivos instructivos de llenado, en la forma que aparecen en el Anexo I y Anexo II de la presente Resolución, respectivamente y que forman parte integrante de la misma. 2. El Certificado Fitosanitario de Exportación y el Certificado Sanitario de Exportación contenidos en los Anexos I y II de la presente Resolución, serán los documentos que respaldarán el comercio de mercancías y envíos, con origen en la República de Panamá y con destino a algún país de la región Centroamericana. 3.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 456-2021 (COMIECO-XCVIII); que RESUELVE: 1. Aprobar, para la República de Panamá, la adopción de los formatos del Certificado Fitosanitario de Exportación y el Certificado Sanitario de Exportación, con sus respectivos instructivos de llenado, en la forma que aparecen en el Anexo I y Anexo II de la presente Resolución, respectivamente y que forman parte integrante de la misma. 2. El Certificado Fitosanitario de Exportación y el Certificado Sanitario de Exportación contenidos en los Anexos I y II de la presente Resolución, serán los documentos que respaldarán el comercio de mercancías y envíos, con origen en la República de Panamá y con destino a algún país de la región Centroamericana. 3.
 
 Los envíos y mercancías que, al momento de la entrada en vigor de la presente Resolución, cuenten con una certificación previamente emitida por las autoridades competentes de la República de Panamá, podrán completar la operación para la cual fueron destinados con dicha certificación, conforme a la regulación aplicable. 4. La presente Resolución entrará en vigor el 17 de marzo de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No.
-
-457-2021 (COMIECO-XCVIII); que RESUELVE: 1.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 457-2021 (COMIECO-XCVIII); que RESUELVE: 1.
 
 Aprobar las aperturas arancelarias y modificación de los Derechos Arancelarios a la Importación (DAI) del Arancel Centroamericano de Importación, Anexo “A” del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, en la forma siguiente: CODIGO 38.24; 3824.9; 3824.99;
 
@@ -77,9 +73,7 @@ Aprobar las aperturas arancelarias y modificación de los Derechos Arancelarios 
 
 3. La presente Resolución entrará en vigor el 17 de junio de 2022 y será publicada por los Estados Parte.
 
-CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No.
-
-458-2021 (COMIECO-XCVIII); que RESUELVE: 1.
+CONSIDERANDO: Que el Consejo de Ministros de Integración Económica (COMIECO); en reunión realizada el 17 de diciembre de 2021, adoptó la Resolución No. 458-2021 (COMIECO-XCVIII); que RESUELVE: 1.
 
 Aprobar la modificación de los Derechos Arancelarios a la Importación (DAI), únicamente para El Salvador, en el Arancel Centroamericano de Importación, Anexo “A” del Convenio sobre el Régimen Arancelario y Aduanero Centroamericano, de la siguiente manera: CODIGO: 03.02, 0302.71.00.00; 03.03; 0303.23.00.00; 03.04; 0304.31.00.00;
 

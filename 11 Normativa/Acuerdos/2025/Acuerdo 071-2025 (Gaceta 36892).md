@@ -11,7 +11,7 @@ paginas: "A. 21 - 32"
 sumario: "Acuerdos Ministeriales Nos. 064-2025,065-2025, 066-2025, 067-2025, 068-2025, 069-2025, 070-2025, 071-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250717-36892/download"
 extraido: "2026-11-09"
-huella: "59bade94cc7d0055"
+huella: "a5927f9fc6749a94"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 071-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que de acuerdo con los artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que mediante la Resolución No. 419- 2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, el cual entró en vigor el 5 de junio de 2020.
+CONSIDERANDO: Que mediante la Resolución No. 419-2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019, el COMIECO aprobó el Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, el cual entró en vigor el 5 de junio de 2020.
 
 CONSIDERANDO: Que de conformidad con el numeral 7 y Anexo C del RTCA mencionado, se creó la Comisión Centroamericana de Aditivos Alimentarios (CCAA) que entre otras atribuciones, debe evaluar las solicitudes presentadas para la aceptación o rechazo de inclusiones, modificaciones o exclusiones de aditivos, debiendo elevar las actualizaciones para consideración y aprobación del COMIECO.
 
@@ -59,7 +59,7 @@ PRIMERO: Publicar de conformidad a lo establecido en el
 
 Artículo 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala) el presente Acuerdo contentivo de las disposiciones emitidas por el Consejo de Ministros de Integración Económica (COMIECO) mediante la Resolución No. 495-2025 (COMIECO-CX); que
 
-RESUELVE: 1. Excluir, de los Anexos A (NORMATIVO) y B (NORMATIVO), del Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, aprobado mediante la Resolución No. 419- 2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019 y sus reformas; el aditivo alimentario “INS 127 eritrosina (rojo No. 3)”. En consecuencia, se elimina de dichos Anexos toda referencia, denominación, número INS, dosis máxima permitida, legislación de referencia, clase funcional y observaciones, al aditivo alimentario eritrosina (INS 127) para todas las categorías de alimentos en ellos listadas. 2. La presente Resolución entrará en vigor el 15 de julio de 2025 y será publicada por los Estados Parte. 3. No obstante, lo anterior, los titulares de un registro que deban realizar los cambios correspondientes en la formulación, el etiquetado y agotar el inventario de etiquetas como consecuencia de la exclusión del aditivo alimentario referido en el numeral 1 de esta Resolución, tendrán un plazo de doce (12) meses contados a partir de la entrada en vigor de la presente Resolución.
+RESUELVE: 1. Excluir, de los Anexos A (NORMATIVO) y B (NORMATIVO), del Reglamento Técnico Centroamericano RTCA 67.04.54:18 Alimentos y Bebidas Procesadas. Aditivos Alimentarios, aprobado mediante la Resolución No. 419-2019 (COMIECO-LXXXIX), del 5 de diciembre de 2019 y sus reformas; el aditivo alimentario “INS 127 eritrosina (rojo No. 3)”. En consecuencia, se elimina de dichos Anexos toda referencia, denominación, número INS, dosis máxima permitida, legislación de referencia, clase funcional y observaciones, al aditivo alimentario eritrosina (INS 127) para todas las categorías de alimentos en ellos listadas. 2. La presente Resolución entrará en vigor el 15 de julio de 2025 y será publicada por los Estados Parte. 3. No obstante, lo anterior, los titulares de un registro que deban realizar los cambios correspondientes en la formulación, el etiquetado y agotar el inventario de etiquetas como consecuencia de la exclusión del aditivo alimentario referido en el numeral 1 de esta Resolución, tendrán un plazo de doce (12) meses contados a partir de la entrada en vigor de la presente Resolución.
 
 SEGUNDO: Ordenar que, para hacer del conocimiento público, la resolución aquí nominada, deba ser publicada en la página Web Oficial de la Secretaría de Estado en el Despacho de Desarrollo Económico, www.sde.gob.hn
 

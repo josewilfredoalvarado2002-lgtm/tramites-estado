@@ -8,10 +8,10 @@ gaceta_numero: 36293
 gaceta_fecha: "2023-07-28"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)|La Gaceta 36293]]"
 paginas: "A. 5 - 6"
-sumario: "Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023"
+sumario: "Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230728-36293/download"
 extraido: "2026-11-14"
-huella: "2cc1feb65abb94fe"
+huella: "e2182fb68b6bf694"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 042-SEDESOL-2023
@@ -23,7 +23,7 @@ huella: "2cc1feb65abb94fe"
 | Emisor | Secretaría de Estado en el Despacho de Desarollo Social |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36293 (2023-07-28)\|La Gaceta 36293]] del 2023-07-28 |
 | Páginas | A. 5 - 6 |
-| Según el sumario de La Gaceta | Decreto No. 52-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZASAcuerdo No. 167-2023SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIALAcuerdo Ministerial No. 042-SEDESOL-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTEAcuerdos Ministeriales No. 405-2023, No. 406-2023 |
+| Según el sumario de La Gaceta | Decreto No. 52-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS: Acuerdo No. 167-2023; SECRETARÍA DE ESTADO EN EL DESPACHO DE DESARROLLO SOCIAL: Acuerdo Ministerial No. 042-SEDESOL-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RECURSOS NATURALES Y AMBIENTE: Acuerdos Ministeriales No. 405-2023, No. 406-2023 |
 
 ## Texto
 
@@ -47,17 +47,15 @@ CONSIDERANDO: Que para alcanzar una sociedad más justa, con igualdad de oportun
 
 POR TANTO:
 
-En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Acuerdo Ministerial No.008-SEDESOL-2023.
+En aplicación a lo que establecen los Artículos: 1, 59, 246, 247, 248, 255, 321 de la Constitución de la República; 7, 30, 33, 36, 116, 118 y 119 de la Ley General de la Administración Pública, Artículo 11 PCM-05-2022, de fecha seis (6) de abril del año 2022, Acuerdo Ministerial No. 008-SEDESOL-2023.
 
 ACUERDA:
 
-PRIMERO.- Modificar el Acuerdo Ministerial No.
-
-008-SEDESOL-2023 de fecha seis (06) de febrero de dos mil veintitrés (2023) en lo que respecta al artículo
+PRIMERO.- Modificar el Acuerdo Ministerial No. 008-SEDESOL-2023 de fecha seis (06) de febrero de dos mil veintitrés (2023) en lo que respecta al artículo
 
 SEGUNDO capítulo I, el que se leerá así: SEGUNDO: Los fondos aprobados en el artículo anterior están destinados a los siguientes componentes: ayudas en salud: compra de medicamento, productos higiénicos, cirugías, pasajes, insumos de bioseguridad; en Educación: compra de uniformes escolares, uniformes deportivos, útiles escolares; alimentación: compra de raciones de alimento, merienda, bebidas no alcohólicas; patrimoniales: incendios, explosión, fulminación o accidentes de naturaleza semejante, impactos de rayo, derrumbes parciales y filtraciones de aguas lluvias, aguas negras; hospedaje, transporte; gastos fúnebres; emergencias sanitarias, desastres naturales: huracanes, vientos tempestuosos, granizo, terremoto, temblores de tierra, maremotos, erupción volcánicas, o fuerzas subterráneas, inundaciones; contribuciones para organizar eventos culturales, tradicionales, artísticas, deportes y otras análogas que necesiten cubrir las personas naturales en el marco de actividades desarrolladas por la Secretaría de Estado en el Despacho de Desarrollo Social.
 
-SEGUNDO: El presente Acuerdo modifica el Acuerdo Ministerial No.008-SEDESOL-2023, en el artículo especificado, dejando válidos y existentes y con la misma fuerza legal, todos aquellos no expresamente mencionados.
+SEGUNDO: El presente Acuerdo modifica el Acuerdo Ministerial No. 008-SEDESOL-2023, en el artículo especificado, dejando válidos y existentes y con la misma fuerza legal, todos aquellos no expresamente mencionados.
 
 TERCERO: El presente Acuerdo, entra en vigencia a partir de su firma y deberá ser publicado en el Diario Oficial “La Gaceta”.
 

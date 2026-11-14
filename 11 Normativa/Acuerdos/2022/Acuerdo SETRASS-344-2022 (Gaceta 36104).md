@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221216-36104/download"
 extraido: "2026-11-14"
-huella: "2adee08e90fcf4ca"
+huella: "0c80c5d2f424aa77"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-344-2022
@@ -35,9 +35,7 @@ CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencia d
 
 CONSIDERANDO: Que la Constitución de la República y la Ley General de Administración Publica, señalan que el Secretario de Estado podrá delegar temporalmente en los Subsecretarios de Estado, el ejercicio específico de funciones por efectos de oportunidad y conveniencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°.
-
-116-2022 de fecha veintitrés (23) de febrero del año dos mil veintidós (2022), se nombró al ciudadano Percy Manuel Duron Rubio, en el cargo de Subsecretario de Estado en el Despacho de Empleo y Seguridad Social.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo N°. 116-2022 de fecha veintitrés (23) de febrero del año dos mil veintidós (2022), se nombró al ciudadano Percy Manuel Duron Rubio, en el cargo de Subsecretario de Estado en el Despacho de Empleo y Seguridad Social.
 
 CONSIDERANDO: Que la ciudadana Lesly Sarahí Cerna, en su condición de Secretaria de Estado, por motivos de viaje oficial fuera del país, la obliga a ausentarse del despacho desde el día veintiséis (26) de mayo al día tres (03) de junio del año dos mil veintidós (2022).
 

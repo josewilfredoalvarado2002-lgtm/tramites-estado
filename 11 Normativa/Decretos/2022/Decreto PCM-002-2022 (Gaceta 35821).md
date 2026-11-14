@@ -11,7 +11,7 @@ paginas: "A. 11 - 16"
 sumario: "Decreto Ejecutivo número PCM-002-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220113-35821/download"
 extraido: "2026-11-14"
-huella: "add583ccb12a13af"
+huella: "9abc74858ecc386a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-002-2022
@@ -35,21 +35,17 @@ CONSIDERANDO: Que el Artículo 245 de la Constitución de la República de Hondu
 
 CONSIDERANDO: Que, en base a lo establecido en la Ley General de la Administración Pública, en su Artículo 11, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión comprendida en el Decreto Legislativo No.278-2013, en referencia a la Focalización de Subsidios, faculta a las Instituciones del Poder Ejecutivo para que implementen los mecanismos necesarios para la focalización de éstos a los beneficiarios.
+CONSIDERANDO: Que el Artículo 31 de la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión comprendida en el Decreto Legislativo No. 278-2013, en referencia a la Focalización de Subsidios, faculta a las Instituciones del Poder Ejecutivo para que implementen los mecanismos necesarios para la focalización de éstos a los beneficiarios.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No. 85-2021 publicado en el Diario Oficial La Gaceta No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 85-2021 publicado en el Diario Oficial La Gaceta No. 35,732 de fecha 29 de septiembre de 2021, se faculta a la Comisión Reguladora de Energía Eléctrica (CREE) a la no publicación del pliego tarifarlo a la energía eléctrica y a la Empresa Nacional de Energía Eléctrica (ENEE) y a la no aplicación del mismo, hasta el 31 de diciembre del año 2021.
 
-35,732 de fecha 29 de septiembre de 2021, se faculta a la Comisión Reguladora de Energía Eléctrica (CREE) a la no publicación del pliego tarifarlo a la energía eléctrica y a la Empresa Nacional de Energía Eléctrica (ENEE) y a la no aplicación del mismo, hasta el 31 de diciembre del año 2021.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 85-2021 publicado en el Diario Oficial La Gaceta No. 35,732 de fecha 29 de septiembre de 2021, se faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, en el caso de requerirse, en la revisión de tarifa del primer trimestre del 2022 otorgue subsidio a los consumidores de energía eléctrica en tarifa residencial cuyo consumo mensual sea menor o igual a 350 kwh y a pequeños y medianos comercios en tarifa de baja tensión cuyo consumo mensual sea menor o igual a 3,000 kwh. El subsidio será otorgado únicamente al titular del servicio eléctrico, mediante un crédito que se señalará claramente en la facturación mensual de cada cliente.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No. 85-2021 publicado en el Diario Oficial La Gaceta No.
-
-35,732 de fecha 29 de septiembre de 2021, se faculta al Poder Ejecutivo a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que, en el caso de requerirse, en la revisión de tarifa del primer trimestre del 2022 otorgue subsidio a los consumidores de energía eléctrica en tarifa residencial cuyo consumo mensual sea menor o igual a 350 kwh y a pequeños y medianos comercios en tarifa de baja tensión cuyo consumo mensual sea menor o igual a 3,000 kwh. El subsidio será otorgado únicamente al titular del servicio eléctrico, mediante un crédito que se señalará claramente en la facturación mensual de cada cliente.
-
-CONSIDERANDO: Que mediante Acuerdo CREE-69- 2021 publicado en el Diario Oficial “La Gaceta” No. 35,811 de fecha 31 de diciembre de 2021, se aprobó un ajuste al costo base de generación resultando en un valor de 157.50 USD/MWh a trasladar a las tarifas finales de los usuarios de la ENEE a partir de enero de 2022, así como el cargo de la demanda los costos regionales que derivan de la aplicación del Tratado Marco del Mercado Eléctrico de América Central, al igual que la aprobación de un ajuste a la estructura tarifaría para la facturación que debe practicar la ENEE a partir del mes de enero del año 2022.
+CONSIDERANDO: Que mediante Acuerdo CREE-69-2021 publicado en el Diario Oficial “La Gaceta” No. 35,811 de fecha 31 de diciembre de 2021, se aprobó un ajuste al costo base de generación resultando en un valor de 157.50 USD/MWh a trasladar a las tarifas finales de los usuarios de la ENEE a partir de enero de 2022, así como el cargo de la demanda los costos regionales que derivan de la aplicación del Tratado Marco del Mercado Eléctrico de América Central, al igual que la aprobación de un ajuste a la estructura tarifaría para la facturación que debe practicar la ENEE a partir del mes de enero del año 2022.
 
 POR TANTO;
 
-En uso de las facultades contenidas en el Artículo 245 numerales 2 y 11 de la Constitución de la República; Artículo 11 de la Ley General de la Administración Pública y Decreto Legislativo No.85-2021.
+En uso de las facultades contenidas en el Artículo 245 numerales 2 y 11 de la Constitución de la República; Artículo 11 de la Ley General de la Administración Pública y Decreto Legislativo No. 85-2021.
 
 DECRETA:
 

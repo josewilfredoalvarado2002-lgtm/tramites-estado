@@ -11,7 +11,7 @@ paginas: "A. 8 - 28"
 sumario: "Acuerdos Nos. 3735-SE-2024, 4235-SE-2024, 4655-SE-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250107-36733/download"
 extraido: "2026-11-13"
-huella: "d4b27dd560dc056a"
+huella: "c7f1ddef8b218b8e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 4655-SE-2024
@@ -51,9 +51,7 @@ CONSIDERANDO: Que en virtud que ya existe un Convenio Interinstitucional de Afil
 
 POR TANTO:
 
-En uso de las facultades establecidos en los artículos; 151, 153, 157, 247, 255 de la Constitución de la República; 36 numerales 7 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública; Convenio 01-2022; Decreto No.
-
-266-98.
+En uso de las facultades establecidos en los artículos; 151, 153, 157, 247, 255 de la Constitución de la República; 36 numerales 7 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública; Convenio 01-2022; Decreto No. 266-98.
 
 ACUERDA:
 

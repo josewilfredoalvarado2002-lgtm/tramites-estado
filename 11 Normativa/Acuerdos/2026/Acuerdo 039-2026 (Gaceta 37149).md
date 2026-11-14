@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 039-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260523-37149/download"
 extraido: "2026-11-09"
-huella: "798d5e17b722f4d8"
+huella: "6f14d1455159a6c3"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 039-2026
@@ -57,7 +57,7 @@ CONSIDERANDO: Que el artículo 12 del Decreto 41-2014 del Reglamento de la Ley S
 
 Los Certificados Electrónicos son Certificados Electrónicos los expedidos por una Autoridad Certificadora o Prestador de Servicios de Certificación (PSC) que cumpla los requisitos establecidos en la Ley y el presente Reglamento y dentro de la Infraestructura Oficial de la Firma Electrónica, en cuanto a la comprobación de la identidad y demás circunstancias de los solicitantes y a la fiabilidad y las garantías de los servicios de certificación que presten. (agregado).
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM- 086-2020, contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2020 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo PCM-086-2020, contentivo del Reglamento sobre Gobierno Electrónico, publicado en fecha 26 de septiembre de 2020 en el Diario Oficial “La Gaceta”, reconoce el derecho de los ciudadanos a relacionarse con la Administración Pública en todos sus niveles por medios electrónicos y regula los aspectos básicos de la utilización de las tecnologías de la información y comunicaciones en la actividad administrativa y establece el marco legal, operativo y procesal en el cual se sustanciará el procedimiento administrativo electrónico en cumplimiento del mandato establecido en el párrafo segundo del artículo primero de la Ley de Procedimiento Administrativo.
 
 CONSIDERANDO: Que en fecha 02 de noviembre de 2022, la Secretaría de Desarrollo Económico puso a disposición la plataforma SOL (Servicios de Ciudadano en Línea) con el objetivo de realizar los trámites 100% digitales de alta calidad, con acceso a servicios electrónicos y con mecanismos de seguridad a través de la implementación de firma electrónica, código QR, entre otros.
 

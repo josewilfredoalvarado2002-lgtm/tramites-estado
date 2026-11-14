@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 006-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220604-35941/download"
 extraido: "2026-11-14"
-huella: "af978874fdd85cea"
+huella: "61e489f14dc02f38"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 006-2022
@@ -31,7 +31,7 @@ EL DIRECTOR EJECUTIVO DEL INSTITUTO NACIONAL DE CONSERVACIÓN Y DESARROLLO FORES
 
 APROBACIÓN PLAN DE MANEJO REFUGIO DE VIDA SILVESTRE MARINO BAHÍA DE TELA.
 
-CONSIDERANDO: Que la Ley Forestal Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98- 2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre ICF, las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
+CONSIDERANDO: Que la Ley Forestal Áreas Protegidas y Vida Silvestre aprobada mediante Decreto Legislativo 98-2007, en su artículo 111 concede al Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre ICF, las facultades de Manejo y Administración de Áreas Protegidas y Vida Silvestre del País.
 
 CONSIDERANDO: Que el marco jurídico forestal vigente determina que se declara de prioridad nacional y de interés general el manejo racional y sostenible de los recursos forestales, áreas protegidas y vida silvestre que se realizará de manera compatible con la conservación de los ecosistemas, la biodiversidad, los recursos genéticos y la reducción de la vulnerabilidad ambiental y antropológica.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que el objetivo General del Plan de Manejo es contribuir a la cons
 
 CONSIDERANDO: Que es atribución del ICF aprobar los planes de manejo para la conservación, protección, aprovechamiento racional y sostenible de las áreas forestales, áreas protegidas y vida silvestre así como en su reglamento general.
 
-CONSIDERANDO: Que según Dictamen Técnico DAP- 108-2021, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización recomienda aprobar el Plan de Manejo para el refugio de Vida Silvestre Marino Bahía de Tela 2022-2033.
+CONSIDERANDO: Que según Dictamen Técnico DAP-108-2021, emitido por el Departamento de Áreas Protegidas, el documento fue elaborado de conformidad con la Guía para la Elaboración de Planes de Manejo de Áreas Protegidas del SINAPH y bajo amplios procesos de construcción participativa, así como consulta/socialización recomienda aprobar el Plan de Manejo para el refugio de Vida Silvestre Marino Bahía de Tela 2022-2033.
 
 POR TANTO
 

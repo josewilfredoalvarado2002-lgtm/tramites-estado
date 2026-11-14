@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Certificación, Resolución No. 1473-2021, 2146-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230927-36344/download"
 extraido: "2026-11-14"
-huella: "19c35131110af5c2"
+huella: "818ef92f4048db55"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 2146-2021
@@ -29,7 +29,7 @@ huella: "19c35131110af5c2"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica:
 
-La Resolución que literalmente dice: “RESOLUCIÓN No. 2146- 2021.- SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
+La Resolución que literalmente dice: “RESOLUCIÓN No. 2146-2021.- SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN.
 
 Tegucigalpa, municipio del Distrito Central, veinte de octubre del año dos mil veintiuno.
 
@@ -37,7 +37,7 @@ VISTA: Para resolver la solicitud presentada ante esta Secretaría de Estado, po
 
 Se procede en los siguientes términos: ANTECEDENTES
 
-PRIMERO: En fecha veintiséis de julio del año dos mil veintiuno, esta Secretaría de Estado, emitió la Resolución número 1473- 2021, mediante la cual se le otorgó Personalidad Jurídica a la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SANTA ROSITA, MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ.
+PRIMERO: En fecha veintiséis de julio del año dos mil veintiuno, esta Secretaría de Estado, emitió la Resolución número 1473-2021, mediante la cual se le otorgó Personalidad Jurídica a la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SANTA ROSITA, MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ.
 
 SEGUNDO: En fecha uno de octubre del año dos mil veintiuno, compareció ante esta Secretaría de Estado, la Abogada ROSA ISBELA SANTOS AGUILAR, en la condición con la que actúa, a solicitar RECTIFICACIÓN DE LA RESOLUCIÓN NÚMERO 1473-2021. MOTIVACIÓN FÁCTICA Y JURÍDICA
 
@@ -53,7 +53,7 @@ CUARTO: Que la Ley de Procedimiento Administrativo, refiere en el artículo 128 
 
 QUINTO: Que según lo normado en la disposición legal antes reproducida, la rectificación se refiere a la corrección de un error material del acto administrativo, especialmente cuando tal error sea manifiesto y de fácil verificación y si bien modifica materialmente el contenido del primer acto, no altera su sustancia, siendo su procedencia excepcional y con efectos retroactivos. 1Que a los fines de la corrección o rectificación de una resolución resulta necesario que se trate -efectivamente- de un simple error material de copia o tipeo, transcripción o redacción, concordancia entre el considerando (motivación) con los antecedentes de hecho y derecho que preceden al acto.
 
-SEXTO: Que en la citada resolución se ha incurrido en un error involuntario al consignar de forma errónea en el artículo número uno (1) de los estatutos el nombre de la Comunidad, “COMUNIDAD DE POTRERO GRANDE, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA”, siendo lo correcto y debiendo leerse “COMUNIDAD DE SANTA ROSITA, DEL MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ”, según se observa la Certificación emitida por la municipalidad de Guajiquiro, La Paz, la cual corre agregada a folio once (11) , de las presentes diligencias, por lo que atento lo indicado precedentemente, corresponde rectificar los errores materiales involuntarios referidos, dado que la rectificación propuesta no altera la substancia del acto administrativo que le sirve de antecedente.
+SEXTO: Que en la citada resolución se ha incurrido en un error involuntario al consignar de forma errónea en el artículo número uno (1) de los estatutos el nombre de la Comunidad, “COMUNIDAD DE POTRERO GRANDE, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA”, siendo lo correcto y debiendo leerse “COMUNIDAD DE SANTA ROSITA, DEL MUNICIPIO DE GUAJIQUIRO, DEPARTAMENTO DE LA PAZ”, según se observa la Certificación emitida por la municipalidad de Guajiquiro, La Paz, la cual corre agregada a folio once (11), de las presentes diligencias, por lo que atento lo indicado precedentemente, corresponde rectificar los errores materiales involuntarios referidos, dado que la rectificación propuesta no altera la substancia del acto administrativo que le sirve de antecedente.
 
 SÉPTIMO: De conformidad con las disposiciones transcritas y con fundamento en una interpretación sistemática de la disposición invocada, es decir, una interpretación acorde con la unidad y la coherencia del ordenamiento legal aplicable en el caso concreto, 1 conf. Juan C. Cassagne en Derecho Administrativo, Tomo II, Pags.
 

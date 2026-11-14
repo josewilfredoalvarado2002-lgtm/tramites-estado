@@ -11,7 +11,7 @@ paginas: "A. 14 - 17"
 sumario: "Acuerdo No. SAG-195-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231113-36382/download"
 extraido: "2026-11-14"
-huella: "9e2cbca719f36b2e"
+huella: "ddb416570f4461fe"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-195-2023
@@ -39,7 +39,7 @@ CONSIDERANDO: Que la Secretaría en los Despachos de Agricultura y Ganadería (S
 
 CONSIDERANDO: Que mediante Acuerdo Ministerial 072-2012, las embarcaciones CAPT. BODDEN, con Registro U-1924721 (Langosta Nasa), LADY MYRA, con Registro U-1924722 (Langosta Nasa), CABINDA, con Registro RHU-24418 (Camarón REDES) fueron excluidas de la flota pesquera nacional, por inactividad manifiesta.
 
-CONSIDERANDO: Que mediante Oficio No. 344-2017 emitido por el Juzgado de Letras Departamental de Islas de la Bahía, de fecha 02 de Marzo del año 2017, comunica a esta Secretaría de Estado sobre el Sobreseimiento definitivo otorgado a favor de los señores MYRA ALEJANDRINA SALOMON RAMOS y ELVERT DOWIE BODDEN GALE, por el delito de lavado de activos en perjuicio de la economía del Estado de Honduras; en la cual ordena la devolución definitiva de las motonaves que se denominan CAPT. BODDEN, con registro U-1924721 y CABINDA con registro RHU-24418; según Expediente Judicial 169- 2006.
+CONSIDERANDO: Que mediante Oficio No. 344-2017 emitido por el Juzgado de Letras Departamental de Islas de la Bahía, de fecha 02 de Marzo del año 2017, comunica a esta Secretaría de Estado sobre el Sobreseimiento definitivo otorgado a favor de los señores MYRA ALEJANDRINA SALOMON RAMOS y ELVERT DOWIE BODDEN GALE, por el delito de lavado de activos en perjuicio de la economía del Estado de Honduras; en la cual ordena la devolución definitiva de las motonaves que se denominan CAPT. BODDEN, con registro U-1924721 y CABINDA con registro RHU-24418; según Expediente Judicial 169-2006.
 
 CONSIDERANDO: Que, mediante Oficio emitido por el Tribunal de Sentencia de la ciudad de La Ceiba, departamento de Atlántida, de fecha 30 de octubre del año 2020, informa a esta Secretaría de Estado que según consta en las diligencias, la embarcación LADY MYRA con registro U-1924722, se encuentra desembargada según Oficio No. 60-2008 de fecha 18 de enero del año 2008, emitido por el Juzgado de Letras de Roatán, Islas de la Bahía.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que mediante Acta de Audiencia ADOC Expediente TSLCP-1101-2017-003
 
 CONSIDERANDO: Que mediante Oficio emitido por el Tribunal de Sentencia de la ciudad de La Ceiba, departamento de Atlántida, de fecha 15 de Febrero del año 2021, informa a esta Secretaría de Estado que según consta en el Expediente Judicial No. 1101-2017-00397 instruido en contra de los señores MYRA ALEJANDRINA SALOMON RAMOS y ELVERT DOWIE BODDEN GALE; Que mediante Oficio No. 60-2008 de fecha 18 de enero del año 2008, emitido por el Juzgado de Letras de Roatán, Islas de la Bahía, fueron desaseguradas las siguientes embarcaciones: CABINDA con registro RHU-24418, CAPT. BODDEN con registro U-1924721 y LADY MYRA con registro U-1924722.
 
-CONSIDERANDO: Que en la RESOLUCIÓN SAG No.407-2022, de fecha 14 de octubre del año 2022, emitida por la Secretaría de Estado en los Despachos de Agricultura y Ganadería, RESUELVE: PRIMERO: Declarar con Lugar la Solicitud de Restitución de Tres (03) Cupos de Pesca a favor del ciudadano ELVERT DOWIE BODDEN GALE.
+CONSIDERANDO: Que en la RESOLUCIÓN SAG No. 407-2022, de fecha 14 de octubre del año 2022, emitida por la Secretaría de Estado en los Despachos de Agricultura y Ganadería, RESUELVE: PRIMERO: Declarar con Lugar la Solicitud de Restitución de Tres (03) Cupos de Pesca a favor del ciudadano ELVERT DOWIE BODDEN GALE.
 
 SEGUNDO: Que el Apoderado Legal de ELVERT DOWIE BODDEN GALE presente solicitud de Adjudicación de dos (02) cupos de langosta Nasa y uno (01) de Camarón y emisión de Licencias de Pesca, presentando documentación de las tres (03) embarcaciones que se propongan con características similares a las que anteriormente se tenían de acuerdo al Artículo 46 de la Ley de Pesca y Acuicultura, así mismo los cupos de langosta que se concedan deberán de ser actividad Nasa y no Buzo de conformidad a los compromisos regionales que el país ha adoptado y se mantienen vigentes.
 
@@ -61,9 +61,7 @@ POR TANTO:
 
 En uso de sus facultades y en aplicación de los artículos: 255, 328, 330, 331, 332, 339, 340 y 341 de la Constitución de la República; 5, 7, 8 numeral 4, 28, 29 numeral 9, 36 numeral 8, 116, 118, 119 numeral 3 y párrafo último y 122 de la Ley General de la Administración Pública; 3, 5 inciso f), 16, 17, 23, 24, 43 y 80 numeral 1, inciso b), f) y g) del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo; 1, 19, 22, 23, 24, 25, 26, 27, 30, 32, 33 y 83 de la Ley de Procedimiento Administrativo; 1, 2, 3, 4, 5 numeral 4, 8, 10, 11 y 12 de la Ley de Pesca Vigente;
 
-Acuerdo Regional OSPESCA 07-2009; Oficio No. 344-2017 de fecha 02 de marzo del año 2017; Resolución SAG No.
-
-407-2022 de fecha 14 de octubre del año 2022.
+Acuerdo Regional OSPESCA 07-2009; Oficio No. 344-2017 de fecha 02 de marzo del año 2017; Resolución SAG No. 407-2022 de fecha 14 de octubre del año 2022.
 
 RESUELVE:
 
@@ -75,7 +73,7 @@ SEGUNDO: De los tres cupos que se restituyen al CIUDADANO ELVERT DOWIE BODDEN GA
 
 Adjudicar en este acto, Un (01) Cupo de Pesca de Langosta con el método de Nasa a favor de la embarcación EX CAPT. BODDEN ahora BRAVE con Registro U-1924721, propiedad del señor ELVERT DOWIE BODDEN GALE.
 
-TERCERO.- Los dos cupos restantes: Uno (01) de langosta nasa y Uno (01) de Camarón, deberán solicitarse de forma independiente, con características similares a las que tenían cuando se cancelaron mediante Acuerdo Ministerial 072- 2012. - Y ser adjudicados mediante la correspondiente Resolución Ministerial.
+TERCERO.- Los dos cupos restantes: Uno (01) de langosta nasa y Uno (01) de Camarón, deberán solicitarse de forma independiente, con características similares a las que tenían cuando se cancelaron mediante Acuerdo Ministerial 072-2012. - Y ser adjudicados mediante la correspondiente Resolución Ministerial.
 
 CUARTO: La asignación del Cupo Pesquero estará asociado al número correlativo de licencia ya establecida en el Registro Pesquero y en la Flota Nacional Pesquera.
 

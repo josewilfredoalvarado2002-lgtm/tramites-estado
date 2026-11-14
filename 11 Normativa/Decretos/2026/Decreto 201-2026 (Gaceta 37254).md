@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 201-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260924-37254/download"
 extraido: "2026-11-09"
-huella: "542f0b9386d21a66"
+huella: "057a37a2142291e8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 201-2026
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República de Honduras establece como obligación fundamental del Estado garantizar a la población el acceso a la salud, la seguridad y los servicios públicos esenciales, debiendo adoptar las medidas presupuestarias, administrativas y financieras necesarias para asegurar la continuidad y eficiencia de dichos servicios, especialmente en áreas estratégicas de interés nacional.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias AVANCE pertinentes para atender obligaciones prioritarias de interés público nacional.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 62-2026 se aprobó el Presupuesto General de Ingresos y Egresos de la República, para el Ejercicio Fiscal 2026, siendo necesario incorporar reformas y disposiciones especiales orientadas a fortalecer la continuidad operativa de los servicios de salud, seguridad y funcionamiento institucional del Estado, así como autorizar las modificaciones presupuestarias AVANCE pertinentes para atender obligaciones prioritarias de interés público nacional.
 
 CONSIDERANDO: Que el Congreso Nacional de la República de Honduras, es el único Órgano Constitucional que puede regular sobre los temas tributarios, tal como lo señala el Artículo 109 de la Constitución de la República de Honduras, tomando que en esa materia la interpretación que realizan las autoridades administrativas debe ser estrictas.
 
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 155-F del Decreto No.62-2026 de fecha 21 de Abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026 y sus reformas, el cual se deberá leer de la manera siguiente:
+ARTÍCULO 1.- Reformar el Artículo 155-F del Decreto No. 62-2026 de fecha 21 de Abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril de 2026, contentivo de las DISPOSICIONES PRESUPUESTARIAS AÑO 2026 y sus reformas, el cual se deberá leer de la manera siguiente:
 
 “ARTÍCULO 155-F. En cumplimiento de… El Contrato antes mencionado gozará de un régimen de exoneración y exención tributaria y aduanera………… régimen tributario de exoneración y exención aquí señalado”.
 

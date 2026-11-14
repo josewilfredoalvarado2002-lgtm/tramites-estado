@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdo No. SAG-119-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201104-35419/download"
 extraido: "2026-11-14"
-huella: "eadf8bcaf2425d35"
+huella: "7b7fa3b794c603e6"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-119-2020
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 29 de octubre, 2020 EL SECRETARIO DE ESTADO EN LOS DESPACHO
 
 CONSIDERANDO (01): Que el Poder Ejecutivo, a través de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), es la autoridad rectora del sector pesquero y acuícola, responsable de formular las políticas, en materia de pesca y sus conexos, pudiendo dictar medidas, procedimientos y requisitos necesarios para las investigaciones científicas y el aprovechamiento sostenible de los recursos marinos, teniendo como unidad ejecutora a la Dirección General de Pesca y Acuicultura
 
-CONSIDERANDO (02): Q u e m e d i a n t e A c u e r d o Ministerial No. SAG-091- 2020 de fecha 31 de agosto de 2020, se aprobó el seguimiento d e l P R O T O C O L O D E EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DE PEPINO DE MAR EN EL CARIBE DE HONDURAS, para la temporada 2020-2021 para la especie: Molongo (Holothuria mexicana) a partir del quince (15) de septiembre del año dos mil veinte (2020) al veintiocho (28) de febrero del año dos mil veinte y uno (2021).
+CONSIDERANDO (02): Que mediante Acuerdo Ministerial No. SAG-091-2020 de fecha 31 de agosto de 2020, se aprobó el seguimiento del PROTOCOLO DE EVALUACIÓN BIOLÓGICA Y MONITOREO PESQUERO DE PEPINO DE MAR EN EL CARIBE DE HONDURAS, para la temporada 2020-2021 para la especie: Molongo (Holothuria mexicana) a partir del quince (15) de septiembre del año dos mil veinte (2020) al veintiocho (28) de febrero del año dos mil veinte y uno (2021).
 
 Quedando las demás especies de Pepino de mar en veda indefinida y su captura y tenencia se sancionará con base a la Ley de Pesca y Acuicultura vigente y Leyes conexas.
 
@@ -43,13 +43,13 @@ CONSIDERANDO (03): Que en atención a informe presentado por la Dirección Gener
 
 CONSIDERANDO:
 
-Que en atención a Memorándum SAG 654-2020, de fecha 14 de octubre de 2020, se ha remitido a Secretaría General Nota de fecha 06 de octubre del año en curso, presentada por una Planta Procesadora de Recursos Pesqueros en forma artesanal, la cual cuenta con Permiso de Operación Vigente emitido por esta Secretaría de Estado, según Resolución SAG 654-2019 de fecha 18 de diciembre de 2019, y solicita ser incorporada al Protocolo de Investigación y Monitoreo Pesquero del Pepino de mar. La Dirección de Servicios Legales de esta Secretaría de Estado ha emitido Dictamen Legal DSL-E249-2020 en fecha 25 de octubre del año en curso, recomendando modificar el Acuerdo Ministerial SAG-091- 2020 en sus Acuerdas SEXTO y TRIGESIMO CUARTO, a efecto de no limitar derechos subjetivos e interés legítimos de terceros, por lo cual se ha determinado que es oportuno realizar modificaciones al Acuerdo SAG 091-2020 que permitan simplificar el proceso de emisión de los Contratos de Servicios entre Plantas Procesadoras y los armadores seleccionados para continuar con la programación establecida.
+Que en atención a Memorándum SAG 654-2020, de fecha 14 de octubre de 2020, se ha remitido a Secretaría General Nota de fecha 06 de octubre del año en curso, presentada por una Planta Procesadora de Recursos Pesqueros en forma artesanal, la cual cuenta con Permiso de Operación Vigente emitido por esta Secretaría de Estado, según Resolución SAG 654-2019 de fecha 18 de diciembre de 2019, y solicita ser incorporada al Protocolo de Investigación y Monitoreo Pesquero del Pepino de mar. La Dirección de Servicios Legales de esta Secretaría de Estado ha emitido Dictamen Legal DSL-E249-2020 en fecha 25 de octubre del año en curso, recomendando modificar el Acuerdo Ministerial SAG-091-2020 en sus Acuerdas SEXTO y TRIGESIMO CUARTO, a efecto de no limitar derechos subjetivos e interés legítimos de terceros, por lo cual se ha determinado que es oportuno realizar modificaciones al Acuerdo SAG 091-2020 que permitan simplificar el proceso de emisión de los Contratos de Servicios entre Plantas Procesadoras y los armadores seleccionados para continuar con la programación establecida.
 
 POR TANTO
 
 En uso de sus facultades y en aplicación de los artículos 340 de la Constitución de la República; 36 numeral 8, 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimientos Administrativos;
 
-8, 10 inciso 3, 44, 47, 69, 78 de la Ley General de Pesca y Acuícola vigente; Acuerdos Ministeriales Nos. 32-2020; 36- 2020; y, 77-2020, y otras Leyes y reglamentos Conexos.
+8, 10 inciso 3, 44, 47, 69, 78 de la Ley General de Pesca y Acuícola vigente; Acuerdos Ministeriales Nos. 32-2020; 36-2020; y, 77-2020, y otras Leyes y reglamentos Conexos.
 
 ACUERDA
 

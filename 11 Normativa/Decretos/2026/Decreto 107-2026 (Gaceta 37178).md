@@ -11,7 +11,7 @@ paginas: "A. 148 - 156"
 sumario: "Decreto No. 107-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260626-37178/download"
 extraido: "2026-11-09"
-huella: "1c3670b3d1d78b4b"
+huella: "936c650ffb32a56d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 107-2026
@@ -43,13 +43,13 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 “LEY PARA EL FORTALECIMIENTO Y PROTECCIÓN DEL SECTOR AGROINDUSTRIAL, PROYECTOS DE ENERGÍA, TURÍSMO, GANADERÍA, PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS”
 
 #### Artículo 1
 
-ARTÍCULO 1.- I N T E R É S , P R I O R I D A D Y PROTECCIÓN NACIONAL DE LA PRODUCCIÓN AGROINDUSTRIAL, P R O Y E C TO S D E E N E R G Í A , TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Se declara de orden público, interés y prioridad nacional, la protección de la actividad Agroindustrial, Proyectos de Energía y Turismo, actividad Ganadera y Agrícola, incluyendo las inversiones de producción agroindustrial, las tierras y propiedades destinadas a la producción agroindustrial, proyectos de energía, turismo, ganadería y pequeños productores agrícolas en Honduras, la infraestructura productiva, las cadenas logísticas y el transporte de los bienes y productos agroindustriales; los proyectos agroindustriales, energética, turismo, ganadería y pequeños productores agrícolas y las personas naturales o jurídicas que ejecuten efectivamente proyectos para la producción y aprovechamiento de materias primas destinadas a la producción agroindustrial, energética, turística, ganadería y pequeños productores agrícolas incluyendo aquellos proyectos que se encontraban destinados a la producción y que sean o hayan sido objeto de invasiones, bloqueos logísticos y/o paralizaciones forzosas de actividades económicas, gozan de todos los beneficios y protecciones establecidos en la presente Ley. Esta norma es compatible con la aplicación de derecho a la Consulta Libre e Informada a los Pueblos Indígenas y Tribales en los casos de tierras comunitarias que estén registradas a su nombre.
+ARTÍCULO 1.- INTERÉS, PRIORIDAD Y PROTECCIÓN NACIONAL DE LA PRODUCCIÓN AGROINDUSTRIAL, PROYEC TO S D E E N E R G Í A, TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Se declara de orden público, interés y prioridad nacional, la protección de la actividad Agroindustrial, Proyectos de Energía y Turismo, actividad Ganadera y Agrícola, incluyendo las inversiones de producción agroindustrial, las tierras y propiedades destinadas a la producción agroindustrial, proyectos de energía, turismo, ganadería y pequeños productores agrícolas en Honduras, la infraestructura productiva, las cadenas logísticas y el transporte de los bienes y productos agroindustriales; los proyectos agroindustriales, energética, turismo, ganadería y pequeños productores agrícolas y las personas naturales o jurídicas que ejecuten efectivamente proyectos para la producción y aprovechamiento de materias primas destinadas a la producción agroindustrial, energética, turística, ganadería y pequeños productores agrícolas incluyendo aquellos proyectos que se encontraban destinados a la producción y que sean o hayan sido objeto de invasiones, bloqueos logísticos y/o paralizaciones forzosas de actividades económicas, gozan de todos los beneficios y protecciones establecidos en la presente Ley. Esta norma es compatible con la aplicación de derecho a la Consulta Libre e Informada a los Pueblos Indígenas y Tribales en los casos de tierras comunitarias que estén registradas a su nombre.
 
 Las disposiciones de esta Ley no serán aplicables en territorios indígenas y tribales reconocidos sin que previamente haya realizado la Consulta Libre Previa e Informada conforme al Convenio 169 de la Organización Internacional del Trabajo
 
@@ -59,7 +59,7 @@ Sin perjuicio de las tierras ancestrales de los nueve (9) pueblos Indígenas y A
 
 #### Artículo 2
 
-ARTÍCULO 2.- INAFECTABILIDAD DE TIERRAS AGROINDUSTRIALES, PROYECTOS D E E N E R G Í A y T U R I S M O , G A N A D E R Í A Y P E Q U E Ñ O S PRODUCTORES AGRÍCOLAS DE HONDURAS. Declárese inafectables, de manera inmediata y obligatoria, las tierras y mejoras que se encuentren efectivamente destinadas a la actividad agroindustrial, proyectos de energía, turismo, ganadería y pequeños productores agrícolas de Honduras y al cultivo de especies vegetales utilizadas como materias primas para la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas, cuya propiedad o titularidad esté legalmente definida y debidamente inscrita a su nombre en el Registro de la Propiedad correspondiente, incluyendo aquellas tierras y mejoras que se encontraban destinadas a la actividad industrial y que sean o hayan sido objetos de invasiones, bloqueos logísticos y/o paralizaciones forzadas de las actividades económicas.
+ARTÍCULO 2.- INAFECTABILIDAD DE TIERRAS AGROINDUSTRIALES, PROYECTOS DE ENERGÍA y TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Declárese inafectables, de manera inmediata y obligatoria, las tierras y mejoras que se encuentren efectivamente destinadas a la actividad agroindustrial, proyectos de energía, turismo, ganadería y pequeños productores agrícolas de Honduras y al cultivo de especies vegetales utilizadas como materias primas para la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas, cuya propiedad o titularidad esté legalmente definida y debidamente inscrita a su nombre en el Registro de la Propiedad correspondiente, incluyendo aquellas tierras y mejoras que se encontraban destinadas a la actividad industrial y que sean o hayan sido objetos de invasiones, bloqueos logísticos y/o paralizaciones forzadas de las actividades económicas.
 
 La inafectabilidad establecida en el presente
 
@@ -71,11 +71,11 @@ En ningún caso se justificará la ocupación, invasión o usurpación de tierra
 
 #### Artículo 3
 
-ARTÍCULO 3.- PRIORIDAD ADMINISTRATIVA P A R A
+ARTÍCULO 3.- PRIORIDAD ADMINISTRATIVA PARA
 
 L A
 
-P R O D U C C I Ó N AGROINDUSTRIAL, PROYECTOS DE ENERGÍA Y TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Con el objeto de garantizar la seguridad alimentaria del país y el abastecimiento de la población hondureña, especialmente de los productos de consumo popular que integran la Canasta Básica los proyectos agroindustriales, energética, turismo, ganadería y pequeños productores agrícolas gozarán de tramitación preferente y plazos abreviados.
+PRODUCCIÓN AGROINDUSTRIAL, PROYECTOS DE ENERGÍA Y TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Con el objeto de garantizar la seguridad alimentaria del país y el abastecimiento de la población hondureña, especialmente de los productos de consumo popular que integran la Canasta Básica los proyectos agroindustriales, energética, turismo, ganadería y pequeños productores agrícolas gozarán de tramitación preferente y plazos abreviados.
 
 Las personas naturales y jurídicas dedicadas a la producción agroindustrial gozan de prioridad absoluta y preferente en todos los trámites administrativos ante las Instituciones del Estado, incluyendo licencias ambientales, permisos de operación, registros, autorizaciones de transporte y demás actos necesarios para el desarrollo de sus actividades.
 
@@ -97,7 +97,7 @@ Todo acto emitido en contravención a lo dispuesto en este Artículo será nulo 
 
 #### Artículo 5
 
-ARTÍCULO 5.- T R Á N S I TO D E P R O D U C TO S AGROINDUSTRIALES, PROYECTOS D E E N E R G Í A Y T U R I S M O , G A N A D E R Í A Y P E Q U E Ñ O S PRODUCTORES AGRÍCOLAS DE HONDURAS. Se garantiza el libre tránsito continuo e ininterrumpido de productos agroindustriales especialmente perecederos, así como de insumos, maquinaria, combustibles, equipos, animales vivos y personal esencial para la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas en todo el territorio nacional.
+ARTÍCULO 5.- T R Á N S I TO D E P R O D U C TO S AGROINDUSTRIALES, PROYECTOS DE ENERGÍA Y TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Se garantiza el libre tránsito continuo e ininterrumpido de productos agroindustriales especialmente perecederos, así como de insumos, maquinaria, combustibles, equipos, animales vivos y personal esencial para la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas en todo el territorio nacional.
 
 Atendiendo a la naturaleza de los productos agroindustriales, energética, turismo, ganadería y pequeños productores agrícolas y al riesgo de deterioro de los productos agrícolas, se autoriza a las personas naturales y jurídicas dedicadas a la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas el tránsito ininterrumpido de los vehículos destinados al transporte de dichos productos, incluyendo camiones, carretas, rastras y furgones, por todo el territorio nacional, en cualquier horario, con el fin de preservar productos considerados de prioridad e interés nacional. Las autoridades deberán garantizar el libre tránsito de los vehículos incluso en las situaciones extraordinarias, como ser: Huelgas, manifestaciones, utilizando todos los medios y recursos para su libre circulación.
 
@@ -115,7 +115,7 @@ La presente disposición no pretende limitar ni vulnerar el derecho constitucion
 
 #### Artículo 6
 
-ARTÍCULO 6.- P R O T E C C I Ó N D E T I E R R A S AGROINDUSTRIALES, PROYECTOS D E E N E R G Í A Y T U R I S M O , G A N A D E R Í A Y P E Q U E Ñ O S PRODUCTORES AGRÍCOLAS DE HONDURAS. Las tierras y mejoras declaradas inafectables conforme al Artículo 2 del presente Decreto constituyen bienes de interés y prioridad nacional, por lo que se prohíbe toda forma de ocupación, invasión o usurpación de éstas.
+ARTÍCULO 6.- PROTECCIÓN DE TIERRAS AGROINDUSTRIALES, PROYECTOS DE ENERGÍA Y TURISMO, GANADERÍA Y PEQUEÑOS PRODUCTORES AGRÍCOLAS DE HONDURAS. Las tierras y mejoras declaradas inafectables conforme al Artículo 2 del presente Decreto constituyen bienes de interés y prioridad nacional, por lo que se prohíbe toda forma de ocupación, invasión o usurpación de éstas.
 
 Ninguna autoridad administrativa podrá reconocer, tolerar, validar o legitimar actos de ocupación material sobre dichas tierras, aun cuando éstos se presenten bajo la forma de conflictos sociales, reivindicaciones colectivas, protestas, huelgas o reclamos sobre el uso, goce y posesión de la tierra que se realicen en propiedades privadas.
 
@@ -143,13 +143,13 @@ La responsabilidad será civil, administrativa y penal, según corresponda, sin 
 
 #### Artículo 8
 
-ARTÍCULO 8.- A P L I C A C I Ó N A L S E C T O R
+ARTÍCULO 8.- APLICACIÓN AL SECTOR
 
 ENERGÉTICO. Las disposiciones de la presente Ley serán igualmente aplicables, en todo su sentido y alcance, a los proyectos energéticos, incluyendo los bienes inmuebles y la infraestructura necesaria para su construcción, operación, mantenimiento y funcionamiento, tales como instalaciones, servidumbres, derechos de vía, líneas de transmisión, subestaciones y centrales de generación. Lo anterior, dada su importancia para el desarrollo económico y social del país, la continuidad de los servicios públicos esenciales y la seguridad energética nacional.
 
 #### Artículo 9
 
-ARTÍCULO 9.- C A R Á C T E R P R E V E N T I V O
+ARTÍCULO 9.- CARÁCTER PREVENTIVO
 
 Y EJECUCIÓN INMEDIATA. Las medidas establecidas en la presente Ley tienen carácter preventivo, prioritario y de ejecución inmediata, orientadas a evitar daños irreversibles a la producción agroindustrial, energética, turismo, ganadería y pequeños productores agrícolas, sin perjuicio de los procesos judiciales posteriores.
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 7"
 sumario: "Acuerdo No. SETRASS 411-2023; OTROS"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230816-36309/download"
 extraido: "2026-11-14"
-huella: "4e86e2ae0c57f256"
+huella: "198d3d5613f36e46"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo No. SETRASS 411-2023; OTROS
@@ -39,7 +39,7 @@ CONSIDERANDO (4): Que, actuando de buena fe y demostrando una verdadera voluntad
 
 POR TANTO: En uso de sus facultades y en aplicación de lo dispuesto en los artículos 128 numeral 5) y 245 numeral 42), 246, 247, 248 y 255 de la Constitución de la República;
 
-317, 381, 382 y 383 del Código de Trabajo; 1, 2 y 15 de la Ley de Salario Mínimo 117, 118 y 119 de la Ley General de la Administración Pública, Acuerdo Ejecutivo número STSS- 006-2019 publicado en el Diario Oficial La Gaceta número 34,840, de fecha nueve (9) de enero del año dos mil diecinueve (2019), y cláusula novena del Acuerdo para la Promoción de la Inversión, Generación, Protección y Desarrollo del Empleo Decente, la Salud, el Acceso al Crédito, la Consolidación de Deuda y el Acceso a Vivienda de las y los Trabajadores del Sector Textil Maquilador Hondureño y demás empresas de Zonas Libres.
+317, 381, 382 y 383 del Código de Trabajo; 1, 2 y 15 de la Ley de Salario Mínimo 117, 118 y 119 de la Ley General de la Administración Pública, Acuerdo Ejecutivo número STSS-006-2019 publicado en el Diario Oficial La Gaceta número 34,840, de fecha nueve (9) de enero del año dos mil diecinueve (2019), y cláusula novena del Acuerdo para la Promoción de la Inversión, Generación, Protección y Desarrollo del Empleo Decente, la Salud, el Acceso al Crédito, la Consolidación de Deuda y el Acceso a Vivienda de las y los Trabajadores del Sector Textil Maquilador Hondureño y demás empresas de Zonas Libres.
 
 ACUERDA:
 

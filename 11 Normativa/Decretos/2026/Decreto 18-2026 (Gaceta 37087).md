@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decretos Nos. 18-2026, 20-2026, 23-2026, 24-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260306-37087/download"
 extraido: "2026-11-09"
-huella: "ba4bdf5040264ae2"
+huella: "aedc66e81bd4043d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 18-2026
@@ -97,7 +97,7 @@ ARTÍCULO 3.- Instruir a la Secretaría de Estado en el Despacho de Finanzas (SE
 
 ARTÍCULO 4.- Se autoriza al Poder Legislativo realizar la compra directa de dos (2) elevadores (ascensores eléctricos), destinados a fortalecer la infraestructura del edificio del Congreso Nacional, mejorar la accesibilidad universal y garantizar la plena inclusión y movilidad de todos sus usuarios, especialmente de los funcionarios, empleados y visitantes que forman parte de grupos vulnerables, tales como personas con discapacidad, adultos mayores o con movilidad reducida, por razones de interés público y necesidad institucional impostergable.
 
-Esta adquisición responde al cumplimiento de los principios de accesibilidad universal y no discriminación establecidos en la Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad (Decreto No.160-2005), así como a la obligación del Estado de eliminar barreras arquitectónicas en edificios públicos para promover la igualdad de oportunidades y la participación plena en el ámbito laboral e institucional.
+Esta adquisición responde al cumplimiento de los principios de accesibilidad universal y no discriminación establecidos en la Ley de Equidad y Desarrollo Integral para las Personas con Discapacidad (Decreto No. 160-2005), así como a la obligación del Estado de eliminar barreras arquitectónicas en edificios públicos para promover la igualdad de oportunidades y la participación plena en el ámbito laboral e institucional.
 
 #### Artículo 5
 

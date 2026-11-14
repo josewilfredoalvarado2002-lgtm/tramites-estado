@@ -11,7 +11,7 @@ paginas: "A. 16 - 20"
 sumario: "Acuerdo No. 005-SG-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240704-36577/download"
 extraido: "2026-11-14"
-huella: "4587f98fd3373c7a"
+huella: "a409da22b1c4205d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 005-SG-2024
@@ -61,7 +61,7 @@ Artículo 1. Aprobar el cambio de categoría de visa a los nacionales del Reino 
 
 #### Artículo 2
 
-Artículo 2. El procedimiento de solicitud y emisión de visa consular para los nacionales descritos en el artículo 1 y su ingreso al territorio nacional se regulará de conformidad al Acuerdo No.009-SG-2016, publicado en el Diario Oficial La Gaceta el 23 de agosto de 2016.
+Artículo 2. El procedimiento de solicitud y emisión de visa consular para los nacionales descritos en el artículo 1 y su ingreso al territorio nacional se regulará de conformidad al Acuerdo No. 009-SG-2016, publicado en el Diario Oficial La Gaceta el 23 de agosto de 2016.
 
 #### Artículo 3
 

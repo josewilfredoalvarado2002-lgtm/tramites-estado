@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231016-36359/download"
 extraido: "2026-11-14"
-huella: "380eb43af389ed71"
+huella: "3a3673d9ede45ef2"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Artículo 8 de la Ley Especial del Consejo Nacional de Defe
 
 CONSIDERANDO: Que la Ley de Inteligencia Nacional, en sus artículos No. 23 y 24, establece que la Dirección Nacional de Investigación e Inteligencia (DNII) contará con un régimen especial en materia laboral y de previsión social, y que un estatuto establecerá los márgenes de la contratación, deberes, derechos, sistemas de remuneración, categorías, régimen disciplinario, seguro médico-hospitalario y de vida y demás aspectos inherentes al régimen laboral.
 
-CONSIDERANDO: Que mediante Acuerdo DNII-No- 015-2023 se aprobó el Estatuto de la Carrera de Empleados y funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial ¨La Gaceta¨ No.36,192, de fecha 29 de marzo del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), es necesario reformar el mismo.
+CONSIDERANDO: Que mediante Acuerdo DNII-No- 015-2023 se aprobó el Estatuto de la Carrera de Empleados y funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), el cual se publicó en el Diario Oficial ¨La Gaceta¨ No. 36,192, de fecha 29 de marzo del 2023 y con la finalidad de facilitar los procesos administrativos disciplinarios y aplicación del Estatuto de la Carrera de Empleados y Funcionarios de la Dirección Nacional de Investigación e Inteligencia (DNII), es necesario reformar el mismo.
 
 POR TANTO: El Director Nacional de Investigación e Inteligencia (DNII), en nombre del Estado de Honduras, en uso de las facultades que la Ley le confiere y en aplicación de los Artículos 287, 321 y 323 de la Constitución de la República; Artículos 1, 7, 41, 42, 43, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Artículos 1, 19, 22, 23, 24, 25, 26, 27 y 72 de la Ley de Procedimiento Administrativo; Artículos 6, 7 numeral 5) y 8 de la Ley Especial del Consejo Nacional de Defensa y Seguridad;
 

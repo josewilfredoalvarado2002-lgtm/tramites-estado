@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Acuerdos Nos. 201-2024, 203-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240215-36461/download"
 extraido: "2026-11-14"
-huella: "7c5dbc0ffc264a58"
+huella: "444f3377eb0331e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 203-2024
@@ -43,7 +43,7 @@ CONSIDERANDO (6): Que el numeral 5 del artículo 82 de la Ley Orgánica del Pres
 
 CONSIDERANDO (7): Que el artículo 90 de la Ley Orgánica del Presupuesto, reformado mediante artículo 213 del Decreto Legislativo No. 62-2023, publicado en el Diario Oficial La Gaceta el 18 de enero de 2024, autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para emitir instrumentos financieros de corto plazo que le permitan cubrir insuficiencias estacionales de caja. Estos instrumentos financieros de corto plazo no tendrán efecto presupuestario en los ingresos y gastos, siempre que sean cancelados en el mismo ejercicio fiscal no incrementarán el saldo de la deuda pública.
 
-CONSIDERANDO (8): Que el artículo 38 del Decreto Legislativo No. 62-2023 establece que la negociación de valores se regirá a través del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301- 2018 del 5 de marzo de 2018, publicado en el Diario Oficial La Gaceta el 12 de marzo de 2018.
+CONSIDERANDO (8): Que el artículo 38 del Decreto Legislativo No. 62-2023 establece que la negociación de valores se regirá a través del Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018, publicado en el Diario Oficial La Gaceta el 12 de marzo de 2018.
 
 CONSIDERANDO (9): Que el artículo 5 del referido Reglamento General, establece que la formalización del monto a vender y/o comprar durante cada ejercicio fiscal, monto para operaciones de gestión de pasivos y Letras de Tesorería se realizará mediante un Acuerdo Ministerial.
 

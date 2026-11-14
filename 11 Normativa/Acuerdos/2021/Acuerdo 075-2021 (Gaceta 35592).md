@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 075-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210507-35592/download"
 extraido: "2026-11-14"
-huella: "08aeffabd54e6e14"
+huella: "6cf6b98b7ad35505"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 075-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que es de interés público disponer de un instrumento jurídico q
 
 CONSIDERANDO: Que el ámbito de aplicación para la contratación de obra pública, suministro de bienes o servicios y de consultoría que celebren los órganos de la Administración Pública Centralizada y Descentralizada, se regirán por la Ley de Contratación del Estado y sus normas reglamentarias.
 
-CONSIDERANDO: Que el artículo 9 de la Ley de Contratación del Estado, último párrafo establece “Cuando ocurran situaciones de emergencia ocasionados por desastres naturales, epidemias, calamidad pública, necesidades de la defensa o relacionadas con estados de excepción, u otras circunstancias excepcionales que afectaren sustancialmente la continuidad o la prestación oportuna y eficiente de los servicios públicos, podrá contratarse la construcción de obras públicas, el suministro de bienes o de servicios o la prestación de servicios de consultoría que fueren estrictamente necesarios, sin sujetarse a los requisitos de licitación y demás disposiciones reglamentarias , sin perjuicio de las funciones de fiscalización”.
+CONSIDERANDO: Que el artículo 9 de la Ley de Contratación del Estado, último párrafo establece “Cuando ocurran situaciones de emergencia ocasionados por desastres naturales, epidemias, calamidad pública, necesidades de la defensa o relacionadas con estados de excepción, u otras circunstancias excepcionales que afectaren sustancialmente la continuidad o la prestación oportuna y eficiente de los servicios públicos, podrá contratarse la construcción de obras públicas, el suministro de bienes o de servicios o la prestación de servicios de consultoría que fueren estrictamente necesarios, sin sujetarse a los requisitos de licitación y demás disposiciones reglamentarias, sin perjuicio de las funciones de fiscalización”.
 
 CONSIDERANDO: Que el artículo 33 de la Ley de Contratación del Estado establece que se deberá crear una Comisión de Evaluación. Para la revisión y análisis de las ofertas en los procedimientos de selección de contratistas, el órgano responsable de la contratación designará una Comisión de Evaluación integrada por tres (3) o cinco (5) funcionarios de amplia experiencia y capacidad, la cual formulará la recomendación correspondiente. Asimismo, No podrá participar en esta Comisión, quien tenga un conflicto de interés que hagan presumir que su evaluación no será objetiva e imparcial; quien se encontrare en esta situación podrá ser recusado por cualquier interesado.
 

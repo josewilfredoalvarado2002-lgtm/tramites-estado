@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 51-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240530-36547/download"
 extraido: "2026-11-14"
-huella: "5a7de7701a37d9d2"
+huella: "bf2c7fb5acca45d2"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 51-2024
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Otorgar al distinguido ciudadano de origen Cubano NESTOR DE JESÚS PLASENCIA FERNÁNDEZ, C o n d e c o r a c i ó n c o n s i s t e n t e en “MEDALLA DE ORO Y PERGAMINO”, en reconocimiento y testimonio de los servicios relevantes prestados al país como empresario tabaquero residente del país, por sus logros en pro de la economía nacional al impulsar un mercado de exportación de cigarros habanos de alta calidad, con una significante generación de empleo y por su responsabilidad social en las comunidades donde han operado, cambiando el perfil económico de la zona oriente del país.
+ARTÍCULO 1.- Otorgar al distinguido ciudadano de origen Cubano NESTOR DE JESÚS PLASENCIA FERNÁNDEZ, Condecoración consistente en “MEDALLA DE ORO Y PERGAMINO”, en reconocimiento y testimonio de los servicios relevantes prestados al país como empresario tabaquero residente del país, por sus logros en pro de la economía nacional al impulsar un mercado de exportación de cigarros habanos de alta calidad, con una significante generación de empleo y por su responsabilidad social en las comunidades donde han operado, cambiando el perfil económico de la zona oriente del país.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 2 - 33"
 sumario: "Acuerdo No. 071-2022 Acuerdos Nos. SAG-072-2022, 102-2022, 106-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220430-35911/download"
 extraido: "2026-11-14"
-huella: "14982edd73a02df7"
+huella: "413793eff3455e7d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 071-2022
@@ -125,9 +125,7 @@ DECIMO
 
 QUINTO:
 
-Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial No.
-
-001-2021.
+Queda derogado en todas y cada una de sus partes el Acuerdo Ministerial No. 001-2021.
 
 DECIMO
 
@@ -227,7 +225,7 @@ En uso de sus facultades y en aplicación de los artículos:
 
 ACUERDA:
 
-PRIMERO: Reformar el numeral segundo del Acuerdo SAG-141-2021 del estudio biométrico de medusa bola de cañón (Stomolophus meleagris) para la temporada 2021- 2022; el cual deberá leerse de la siguiente manera:
+PRIMERO: Reformar el numeral segundo del Acuerdo SAG-141-2021 del estudio biométrico de medusa bola de cañón (Stomolophus meleagris) para la temporada 2021-2022; el cual deberá leerse de la siguiente manera:
 
 SEGUNDO: La cuota inicial de captura precautoria de medusa bola de cañón (Stomolophus meleagris) en la temporada 2021-2022 es de 2, 620,105.80 libras de medusa procesada, distribuida entre las plantas procesadoras registradas en DIGEPESCA y SENASA, capturas realizadas por las asociaciones y organizaciones pesqueras en las comunidades costera del departamento de Gracias a Dios, municipios de Villeda Morales, Puerto Lempira, Brus Laguna y Juan Francisco Bulnes.
 
@@ -253,7 +251,7 @@ CONSIDERANDO: Que el artículo 4 del Código de Conducta Ética del Servidor Pú
 
 En caso de discrepancia entre las normas generales de este Código y las normas específicas emitidas por una institución sujeta a este Código, prevalecerá siempre lo dispuesto en el presente Código”.
 
-CONSIDERANDO: Que atendiendo solicitud del Tribunal Superior de Cuentas y en aplicación del Código de Conducta Ética del Servidor Público aprobado según Decreto No. 36- 2007 del 24 de Octubre de 2007; la Secretaría de Agricultura y Ganadería procede a la APROBACION DEL CODIGO DE CONDUCTA ETICA DE LOS FUNCIONARIOS(AS) Y EMPLEADOS(AS) DE ESTA SECRETARIA DE ESTADO, mismo que establece el conjunto de deberes, prohibiciones e incompatibilidades aplicables sin excepción para todos sus servidores públicos.
+CONSIDERANDO: Que atendiendo solicitud del Tribunal Superior de Cuentas y en aplicación del Código de Conducta Ética del Servidor Público aprobado según Decreto No. 36-2007 del 24 de Octubre de 2007; la Secretaría de Agricultura y Ganadería procede a la APROBACION DEL CODIGO DE CONDUCTA ETICA DE LOS FUNCIONARIOS(AS) Y EMPLEADOS(AS) DE ESTA SECRETARIA DE ESTADO, mismo que establece el conjunto de deberes, prohibiciones e incompatibilidades aplicables sin excepción para todos sus servidores públicos.
 
 POR TANTO:
 
@@ -451,7 +449,7 @@ t. Emitir y apoyar normas o resoluciones en su propio beneficio.
 
 u. Participar en negociaciones o transacciones financieras utilizando información que no es pública o permitiendo el mal uso de esa información, para posteriormente lograr beneficios privados.
 
-A r t í c u l o 6 . S O B R E L A I N F O R M A C I Ó N INSTITUCIONAL.
+Artículo 6 . SOBRE LA INFORMACIÓN INSTITUCIONAL.
 
 El servidor(a) público que desempeña un cargo en la SAG, está obligado a conducirse conforme a los principios de transparencia, lealtad, honorabilidad, moralidad, veracidad y eficacia, así mismo resguardar la documentación e información Institucional que tiene bajo su responsabilidad.
 
@@ -769,7 +767,7 @@ El cargo de miembro del Comité de Ética será Ad-honorem y constituye un recon
 
 Sin embargo, la Administración de la SAG, podrá autorizar el permiso correspondiente del empleado(a) de sus labores habituales, a fin de que pueda cumplir con los deberes inherentes al cargo. La SAG, aportará los recursos financieros, humanos, materiales y logísticos que requiera el Comité.
 
-P R O C E D I M I E N T O P A R A E VA L U A R IRREGULARIDADES
+PROCEDIMIENTO PARA E VA L U A R IRREGULARIDADES
 
 #### Artículo 25
 

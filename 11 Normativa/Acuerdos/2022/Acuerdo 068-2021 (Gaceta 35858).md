@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdos Nos. 068-2021, C.D. SENASA-005-2021, 007-2021,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220225-35858/download"
 extraido: "2026-11-14"
-huella: "b35c4bb1b882573b"
+huella: "d4be35d187bdeb71"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 068-2021
@@ -141,7 +141,7 @@ X
 
 M AU R IC IO G U E V AR A
 
-Pre sid e n te d e l C o n se jo D ire ctivo d e l S E N AS A X ANABEL GALLARDO PONCE Directiva Titular FENAGH X JUAN JOSE CRUZ Directivo Suplente COHEP X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo
+Pre sid e n te del Con se jo D ire ctivo d e l S E N AS A X ANABEL GALLARDO PONCE Directiva Titular FENAGH X JUAN JOSE CRUZ Directivo Suplente COHEP X JUAN RAMON VELASQUEZ PAGOAGA Secretario Ejecutivo del Consejo Directivo
 
 Artículo 10 De los alimentos o medicamentos prohibidos
 
@@ -163,7 +163,7 @@ X
 
 D O R IS M A D R ID
 
-S u b d ire cto ra E je cu tiva d e A D U A N A S X H ANS R U D O LF CR AM E R KR E TSCH M E R D irectivo Su p len te F PX X G ERARD O G U ILLEN D irectivo CO HEP SAG-SENASA Servicio Nacional de Sanidad e Inocuidad Agroalimentaria ACUERDO C.D. SENASA-007-2021 República de Honduras, Tegucigalpa, M.D.C., 16 de noviembre del 2021 EL CONSEJO DIRECTIVO DEL SERVICIO ACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA
+S u b d ire cto ra E je cu tiva d e A D U A N A S X H ANS RUDO LF CR AM E R KR E TSCH M E R D irectivo Su p len te F PX X G ERARD O G U ILLEN D irectivo CO HEP SAG-SENASA Servicio Nacional de Sanidad e Inocuidad Agroalimentaria ACUERDO C.D. SENASA-007-2021 República de Honduras, Tegucigalpa, M.D.C., 16 de noviembre del 2021 EL CONSEJO DIRECTIVO DEL SERVICIO ACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARIA
 
 CONSIDERANDO: Que corresponde al Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), la formulación, coordinación, ejecución y evaluación de las políticas sobre producción, conservación y comercialización de alimentos; la modernización de la agricultura y la ganadería, la pesca, la acuicultura, la apicultura y la sanidad animal, entre otras atribuciones.
 
@@ -171,7 +171,7 @@ CONSIDERANDO: Que es función del Estado proteger y preservar el patrimonio agro
 
 CONSIDERANDO: Que para mejorar la competitividad de los sectores productivos nacionales y facilitar las exportaciones de productos agropecuarios, se requiere incrementar la eficiencia y eficacia en la prestación de los servicios de sanidad agroalimentaria, de tal forma que el creciente intercambio comercial de esos productos se efectúe cumpliendo con las normas nacionales e internacionales.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015- 2020, publicado en La Gaceta número 35,361 de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo número PCM-015-2020, publicado en La Gaceta número 35,361 de fecha 3 de septiembre del 2020, se crea el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
 CONSIDERANDO: Que mediante Acuerdo CDSENASA-006-2020, se aprobó el Reglamento General de Autorización de Terceros, mediante el cual, se establece que el SENASA, será la autoridad competente responsable de determinar y regular las actividades de su competencia que podrán ser ejecutadas por terceros autorizados.
 

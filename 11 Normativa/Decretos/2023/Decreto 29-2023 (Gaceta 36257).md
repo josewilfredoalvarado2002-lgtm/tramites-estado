@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 18-2023, 29-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230617-36257/download"
 extraido: "2026-11-14"
-huella: "1717ce3d66672141"
+huella: "80ad3d6fd471bcc7"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 29-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

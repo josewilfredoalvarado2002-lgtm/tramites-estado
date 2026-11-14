@@ -11,7 +11,7 @@ paginas: "A. 1 - 992"
 sumario: "Decreto No. 127-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230225-36165/download"
 extraido: "2026-11-14"
-huella: "364122a061bece83"
+huella: "43d2b0aa7c7e65e4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 127-2022
@@ -43,7 +43,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, CONTRATO N° AMDC-UEPBID-B-01-16, DE BIENES Y SERVICIOS CONEXOS PARA LA ADQUISICIÓN E INSTALACIÓN DE SEMÁFOROS PARA EL SISTEMA BTR, SUSCRITO EN FECHA 12 DE SEPTIEMBRE DE 2016, Y SU MODIFICACIÓN SUSCRITO EN FECHA 10 DE NOVIEMBRE DE 2021, ENTRE LA MUNICIPALIDAD DEL DISTRITO CENTRAL POR MEDIO DEL SEÑOR ALCALDE DEL DISTRITO CENTRAL NASRY JUAN ASFURA ZABLAH Y LA SEÑORA LAURA ALICIA ORDOÑEZ VILLEDA, EN SU CONDICIÓN DE REPRESENTANTE L E G A L D E L A E M P R E S A CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX, EL QUE LITERALMENTE DICE:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes, CONTRATO N° AMDC-UEPBID-B-01-16, DE BIENES Y SERVICIOS CONEXOS PARA LA ADQUISICIÓN E INSTALACIÓN DE SEMÁFOROS PARA EL SISTEMA BTR, SUSCRITO EN FECHA 12 DE SEPTIEMBRE DE 2016, Y SU MODIFICACIÓN SUSCRITO EN FECHA 10 DE NOVIEMBRE DE 2021, ENTRE LA MUNICIPALIDAD DEL DISTRITO CENTRAL POR MEDIO DEL SEÑOR ALCALDE DEL DISTRITO CENTRAL NASRY JUAN ASFURA ZABLAH Y LA SEÑORA LAURA ALICIA ORDOÑEZ VILLEDA, EN SU CONDICIÓN DE REPRESENTANTE LEGAL DE LA EMPRESA CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX, EL QUE LITERALMENTE DICE:
 
 República de Honduras Alcaldía Municipal del Distrito Central Programa de Transporte Público para el Distrito Central, (Tegucigalpa y Comayagüela) Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/OP-HO Contrato AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e instalación de semáforos para el sistema BTR Proceso LPI N°. 01-BRT-191-LPI-B-2016 Entre ______________________________________ La Alcaldía Municipal del Distrito Central y _____________________________________ Consorcio Megatechnology Informática-SEMEX Fechado: 12 de septiembre de 2016 Tegucigalpa, M.D.C., Honduras, C.A.
 
@@ -221,9 +221,9 @@ Planos o Diseños Sección I. Convenio de contrato AMDC-UEP-BID-B-01-16 de Biene
 
 ENTRE
 
-1. LA ALCALDÍA DEL DISTRITO CENTRAL REPRESENTADA POR NASRY JUAN ASFURA ZABLAH, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958- 03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la credencial emitida por la Gobernación Departamental de Francisco Morazán mediante certificación de acta N°. GDFM-N°.001-2014 de fecha 20 de enero del 2014, (en adelante denominado “el Comprador”); y,
+1. LA ALCALDÍA DEL DISTRITO CENTRAL REPRESENTADA POR NASRY JUAN ASFURA ZABLAH, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la credencial emitida por la Gobernación Departamental de Francisco Morazán mediante certificación de acta N°. GDFM-N°. 001-2014 de fecha 20 de enero del 2014, (en adelante denominado “el Comprador”); y,
 
-2. LAURA ALICIA ORDÓÑEZ VILLEDA, mayor de edad, soltera, arquitecta, con domicilio en Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., hondureña, con Tarjeta de Identidad N°. 0801- 1981-03513, actuando en su condición de Representante Legal de la sociedad mercantil “CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX”, una corporación incorporada bajo las leyes de Honduras físicamente ubicada en colonia Castaño Sur, Bulevar Morazán, Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., (en adelante denominada “el Proveedor”).
+2. LAURA ALICIA ORDÓÑEZ VILLEDA, mayor de edad, soltera, arquitecta, con domicilio en Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., hondureña, con Tarjeta de Identidad N°. 0801-1981-03513, actuando en su condición de Representante Legal de la sociedad mercantil “CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX”, una corporación incorporada bajo las leyes de Honduras físicamente ubicada en colonia Castaño Sur, Bulevar Morazán, Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., (en adelante denominada “el Proveedor”).
 
 POR CUANTO el Comprador ha llamado a licitación respecto de ciertos Bienes y Servicios Conexos, para la adquisición e instalación de semáforos para el sistema BTR y ha aceptado una oferta del Proveedor para el suministro de dichos Bienes y Servicios por la suma de setenta y siete millones cuatrocientos setenta y seis mil ciento noventa y nueve Lempiras con 20/100 (L. 77,476,199.20), (en adelante denominado “Precio del Contrato”).
 
@@ -663,7 +663,7 @@ La versión de la edición de los Incoterms será: 2010 4.2 (b) GCC El idioma se
 
 5.1 Para notificaciones, la dirección del Comprador será:
 
-8.1 Atención: Eduardo Antonio Pavón Cámbar/Coordinador General del Programa Dirección: Alcaldía Municipal del Distrito Central/Unidad Ejecutora del Programa de Transporte Público del Distrito Central (UEP) Colonia Lomas del Guijarro, calle Enrique Tierno Galván, casa N°.3515 Ciudad:
+8.1 Atención: Eduardo Antonio Pavón Cámbar/Coordinador General del Programa Dirección: Alcaldía Municipal del Distrito Central/Unidad Ejecutora del Programa de Transporte Público del Distrito Central (UEP) Colonia Lomas del Guijarro, calle Enrique Tierno Galván, casa N°. 3515 Ciudad:
 
 Tegucigalpa, M.D.C.
 
@@ -1749,7 +1749,7 @@ Reparación de aceras y calzadas La reparación de aceras y calzadas estará a c
 
 Los trabajos deberán restituir la zona de trabajo las condiciones iniciales como mínimo, sólo pudiendo alterarse esta condición si se decide una terminación de características superiores a las inicialmente existentes.
 
-2.4 Acometida eléctrica Se deberá de considerar que el suministro de energía se hará tomando la energía eléctrica de baja tensión bifásica utilizando conectores bipartidos calibre N°.2 y bajándola a través de un poste Hg, con una mufa a una altura mínima de 3 m previamente fijado al poste, realizando una conexión a través de un centro de carga QO-2 con un interruptor tipo termo magnético de 30 amperios, hasta el registro próximo al controlador, mediante una canalización bajo banqueta, en donde se deberá instalar una tierra física tipo 15 x 45 CAW.
+2.4 Acometida eléctrica Se deberá de considerar que el suministro de energía se hará tomando la energía eléctrica de baja tensión bifásica utilizando conectores bipartidos calibre N°. 2 y bajándola a través de un poste Hg, con una mufa a una altura mínima de 3 m previamente fijado al poste, realizando una conexión a través de un centro de carga QO-2 con un interruptor tipo termo magnético de 30 amperios, hasta el registro próximo al controlador, mediante una canalización bajo banqueta, en donde se deberá instalar una tierra física tipo 15 x 45 CAW.
 
 .
 
@@ -1787,7 +1787,7 @@ d) Cable tetrapolar para semáforos vehiculares 4 x 1 14 x 0.30
 
 e) Cable desnudo de cobre, heptafilar, para puesta a tierra
 
-c) Aislación La aislación de los conductores serán compuestos de policloruro de vinilo (PVC), aplicados concéntricamente alrededor de los conductores y cuyas características sean tales, que puedan cumplir los ensayos físicos estipulados más adelante. Los espesores de aislación serán indicados en la tabla N°.2.
+c) Aislación La aislación de los conductores serán compuestos de policloruro de vinilo (PVC), aplicados concéntricamente alrededor de los conductores y cuyas características sean tales, que puedan cumplir los ensayos físicos estipulados más adelante. Los espesores de aislación serán indicados en la tabla N°. 2.
 
 TABLA N°. 2
 
@@ -1901,7 +1901,7 @@ Procesador y memoria Procesador Intel® Xeon® X5450 Quad Corea 3GHz procesador 
 
 \667) funcionando a 667 MHz con intercalado de 4:1 Ocho(8) ranuras por tarjeta de memoria, hasta dos (2) memoria tarjetas de memoria Unidades internas La configuración estándar no incluye ninguna unidad de duro interna disco duro Velocidad de la No aplicable unidad de disco duro Controlador HP Smart Array P400/512 MB con caché de escritura respaldada por batería (RAID 0/1/1+0/5/6), similar o mejor.
 
-Nueve (9) ranuras de expansión en total; Ocho (8) disponibles: seis (6) PCI-Express x 4 y dos (2) PCI-X de 64 bits/133 MHz Unidad de disco Ninguna de serie flexible Dieciséis (16), requiere una segunda caja para unidades para unidades y un controlador internas Unidades ópticas Unidad de DVD-ROM 1,168 TB (8 x 146 GB) máximo masivo interno Características del sistema Tipo de chasis Rack de 5U Chipset Intel® 5000P Interfaz de red Dos (2) adaptadores de red Gigabit NC373i multifunción integrados con TCP/IP Offload Engine compatibles con iSCSI acelerado por medio de un kit de licencias opcional Serie - 1 (2º puerto serie y paralelo disponibles con un kit de opciones); Dispositivo de puntero (ratón) - 1; VGA - 1 (+1 VGA frontal en modelos para bastidor); teclado - 1; Red RJ- 45 - 2; Puerto de gestión remota iLO2 - 1; USB 2.0 - 5 (2 en la parte posterior, 2 en la parte delantera, 1 interno); Puerto USB 2.0 dedicado- 1 (disponible para conectividad de cinta USB DAT) Nueve (9) ranuras de expansión en total; Ocho (8) disponibles: seis (6) PCI-Express x4 y dos (2) PCI-X de 64 bits/133 MHz Fuente de alimentación de 800 W de conexión en caliente, (línea alta de 1000 W) La segunda fuente de alimentación opcional proporciona redundancia, CE similar o mejor.
+Nueve (9) ranuras de expansión en total; Ocho (8) disponibles: seis (6) PCI-Express x 4 y dos (2) PCI-X de 64 bits/133 MHz Unidad de disco Ninguna de serie flexible Dieciséis (16), requiere una segunda caja para unidades para unidades y un controlador internas Unidades ópticas Unidad de DVD-ROM 1,168 TB (8 x 146 GB) máximo masivo interno Características del sistema Tipo de chasis Rack de 5U Chipset Intel® 5000P Interfaz de red Dos (2) adaptadores de red Gigabit NC373i multifunción integrados con TCP/IP Offload Engine compatibles con iSCSI acelerado por medio de un kit de licencias opcional Serie - 1 (2º puerto serie y paralelo disponibles con un kit de opciones); Dispositivo de puntero (ratón) - 1; VGA - 1 (+1 VGA frontal en modelos para bastidor); teclado - 1; Red RJ-45 - 2; Puerto de gestión remota iLO2 - 1; USB 2.0 - 5 (2 en la parte posterior, 2 en la parte delantera, 1 interno); Puerto USB 2.0 dedicado- 1 (disponible para conectividad de cinta USB DAT) Nueve (9) ranuras de expansión en total; Ocho (8) disponibles: seis (6) PCI-Express x4 y dos (2) PCI-X de 64 bits/133 MHz Fuente de alimentación de 800 W de conexión en caliente, (línea alta de 1000 W) La segunda fuente de alimentación opcional proporciona redundancia, CE similar o mejor.
 
 90 - 132 VCA, 180 - 264 VCA a 47 a 63 Hz alimentación Microsoft® Windows® Server 2000; Microsoft® Windows® Server2003;
 
@@ -2777,7 +2777,7 @@ Además de las pruebas el proveedor deberá de entregar dos
 
 Apéndice G: Planos o Diseños Estos documentos incluyen los siguientes planos esquemáticos:
 
-Lista de Planos o Diseños Pliego Hoja Tramo 1 Complemento TR1-C01 Intersección frente Estadio Nacional SEM01 1 TR1-C02 Intersección frente Estadio Nacional SEM02 2 TR1-C03 Intersección frente Estadio Nacional SEM03 3 TR1-C04 Intersección frente Estadio Nacional SEM04 4 TR1-C05 Intersección barrio Morazán SEM05 5 TR1-C06 Intersección barrio Morazán frente centro de salud SEM06 6 TR1-C07 Intersección barrio Morazán SEM07 7 TR1-C08 Cruce peatonal estación barrio Morazán SEM08 8 Tramo 1 y Tramo 3 Parcial TR1 y TR3P 09 Intersección La Pagoda SEM09 9 TR1 y TR3P 10 Intersección Hospital Escuela SEM10 10 TR1 y TR3P 11 Intersección Hospital Escuela SEM11 11 TR1 y TR3P 12 Intersección Hospital Escuela SEM12 12 TR1 y TR3P 13 Intersección BCIE, colonia Miramontes SEM13 13 TR1 y TR3P 14 Intersección colonia Loma Linda SEM14 14 TR1 y TR3P 15 Cruce peatonal frente Davivienda Loma Linda SEM15 15 TR1 y TR3P 16 intersección boulevard Suyapa Defomin SEM16 16 TR1 y TR3P 17 Intersección frente BAC credomatic SEM17 17 TR1 y TR3P 18 Intersección frente a Metrópolis SEM18 18 TR1 y TR3P 19 Cruce peatonal frente Emisoras Unidas SEM19 19 TR1 y TR3P 20 Giro en U frente antiguo local de Stock SEM20 20 Tramo 3 TR3-21 Cruce peatonal estación La Florencia SEM21 21 TR3-22 Giro en U colonia La Florencia SEM22 22 TR3-23 Intersección paso Paz y Esperanza SEM23 23 TR3-24 Cruce peatonal estación La Hacienda SEM24 Lista de Planos o Diseños Pliego Hoja TR3-25 Cruce salida BTR de estación UNAH SEM25 25 TR3-26 Cruce peatonal 1 UNAH SEM26 26 TR3-27 Cruce acceso BTR a estación UNAH SEM27 27 Tramo 2 TR2-28 Cruce BTR acceso a boulevard Centro América (Colprosumah) SEM28 28 TR2-29 Cruce BTR acceso a boulevard Centro América (Defomin) SEM29 29 TR2-30 Cruce BTR acceso a boulevard Centro América (Hondutel) SEM30 30 TR2-31 Intersección colonia El Hogar SEM31 31 TR2-32 Intersección Diunsa SEM32 32 TR2-33 Intersección Plaza Miraflores SEM33 33 TR2-34 Cruce peatonal INFOP SEM34 34 TR2-35 Intersección primera entrada colonia Kennedy SEM35 35 TR2-36 Intersección primera entrada colonia Kennedy SEM36 35 TR2-37 Intersección segunda entrada colonia Kennedy SEM37 36 TR2-38 Intersección tercera entrada colonia Kennedy SEM38 37 TR2-39 Intersección IHMA- colonia Las Palmas SEM39 38 TOTAL 38 hojas Modificación N°. 1 al Contrato AMDC-UEPBID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR Proceso LPI N°. 01-BRT-191-LPI-B-2016 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-H Nosotros, Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°. GDFM-N°. 001-2014 de fecha 20 de enero del 2014 y que en adelante en este acto se llamará “El Comprador”, y Laura Alicia Ordóñez Villeda, mayor de edad, soltera, arquitecta, con domicilio en Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., hondureña, con Tarjeta de Identidad N°. 0801-1981- 03513, actuando en mi condición de Representante Legal de la Sociedad Mercantil “Consorcio Megatechnology Informática-SEMEX”, que en adelante se denominará como “El Proveedor”, convenimos en celebrar y al efecto celebramos la presente Modificación N°. 1 al Contrato N°. AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
+Lista de Planos o Diseños Pliego Hoja Tramo 1 Complemento TR1-C01 Intersección frente Estadio Nacional SEM01 1 TR1-C02 Intersección frente Estadio Nacional SEM02 2 TR1-C03 Intersección frente Estadio Nacional SEM03 3 TR1-C04 Intersección frente Estadio Nacional SEM04 4 TR1-C05 Intersección barrio Morazán SEM05 5 TR1-C06 Intersección barrio Morazán frente centro de salud SEM06 6 TR1-C07 Intersección barrio Morazán SEM07 7 TR1-C08 Cruce peatonal estación barrio Morazán SEM08 8 Tramo 1 y Tramo 3 Parcial TR1 y TR3P 09 Intersección La Pagoda SEM09 9 TR1 y TR3P 10 Intersección Hospital Escuela SEM10 10 TR1 y TR3P 11 Intersección Hospital Escuela SEM11 11 TR1 y TR3P 12 Intersección Hospital Escuela SEM12 12 TR1 y TR3P 13 Intersección BCIE, colonia Miramontes SEM13 13 TR1 y TR3P 14 Intersección colonia Loma Linda SEM14 14 TR1 y TR3P 15 Cruce peatonal frente Davivienda Loma Linda SEM15 15 TR1 y TR3P 16 intersección boulevard Suyapa Defomin SEM16 16 TR1 y TR3P 17 Intersección frente BAC credomatic SEM17 17 TR1 y TR3P 18 Intersección frente a Metrópolis SEM18 18 TR1 y TR3P 19 Cruce peatonal frente Emisoras Unidas SEM19 19 TR1 y TR3P 20 Giro en U frente antiguo local de Stock SEM20 20 Tramo 3 TR3-21 Cruce peatonal estación La Florencia SEM21 21 TR3-22 Giro en U colonia La Florencia SEM22 22 TR3-23 Intersección paso Paz y Esperanza SEM23 23 TR3-24 Cruce peatonal estación La Hacienda SEM24 Lista de Planos o Diseños Pliego Hoja TR3-25 Cruce salida BTR de estación UNAH SEM25 25 TR3-26 Cruce peatonal 1 UNAH SEM26 26 TR3-27 Cruce acceso BTR a estación UNAH SEM27 27 Tramo 2 TR2-28 Cruce BTR acceso a boulevard Centro América (Colprosumah) SEM28 28 TR2-29 Cruce BTR acceso a boulevard Centro América (Defomin) SEM29 29 TR2-30 Cruce BTR acceso a boulevard Centro América (Hondutel) SEM30 30 TR2-31 Intersección colonia El Hogar SEM31 31 TR2-32 Intersección Diunsa SEM32 32 TR2-33 Intersección Plaza Miraflores SEM33 33 TR2-34 Cruce peatonal INFOP SEM34 34 TR2-35 Intersección primera entrada colonia Kennedy SEM35 35 TR2-36 Intersección primera entrada colonia Kennedy SEM36 35 TR2-37 Intersección segunda entrada colonia Kennedy SEM37 36 TR2-38 Intersección tercera entrada colonia Kennedy SEM38 37 TR2-39 Intersección IHMA- colonia Las Palmas SEM39 38 TOTAL 38 hojas Modificación N°. 1 al Contrato AMDC-UEPBID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR Proceso LPI N°. 01-BRT-191-LPI-B-2016 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-H Nosotros, Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°. GDFM-N°. 001-2014 de fecha 20 de enero del 2014 y que en adelante en este acto se llamará “El Comprador”, y Laura Alicia Ordóñez Villeda, mayor de edad, soltera, arquitecta, con domicilio en Tegucigalpa, M.D.C., departamento de Francisco Morazán, Honduras, C.A., hondureña, con Tarjeta de Identidad N°. 0801-1981-03513, actuando en mi condición de Representante Legal de la Sociedad Mercantil “Consorcio Megatechnology Informática-SEMEX”, que en adelante se denominará como “El Proveedor”, convenimos en celebrar y al efecto celebramos la presente Modificación N°. 1 al Contrato N°. AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
 
 CONSIDERANDO 1: Que con fecha 12 de septiembre del año 2016, fue suscrito por La Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y la sociedad mercantil Consorcio Megatechnology Informática-SEMEX, el Contrato N°. AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR por un Precio del Contrato de setenta y siete millones cuatrocientos setenta y seis mil ciento noventa y nueve Lempiras con 20/100 (L. 77,476,199.20). Las fechas previstas de Entrega de los Bienes y Cumplimiento de los Servicios Conexos fueron establecidos de acuerdo con el Apéndice A: “Lista de Precios y Plan de Entregas” y el Apéndice B:
 
@@ -3293,7 +3293,7 @@ Intersección Hoja/ Intersección Tramo 1
 
 40. Colonia Kennedy Quinta Entrada - Estadio Emilio Larach
 
-41. Colonia Kennedy Calle Hibueras - Estadio Emilio Larach N°. 2 al Contrato AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos N°. 2 al Contrato AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e instalación de semáforos para el sistema BTR Proceso LPI N°. 01-BRT-191-LPI-B-2016 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-H Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°. GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 y que en adelante en este acto se llamará “EL COMPRADOR”, y LUIS ALONZO MORÁN SERVELLÓN, mayor de edad, casado, Licenciado en Administración de Empresas, con domicilio en Tegucigalpa, M.D.C., Departamento de Francisco Morazán, Honduras, C.A., hondureño, con Tarjeta de Identidad N°. 0801-1971- 04401, actuando en mi condición de Representante Legal de la sociedad mercantil “CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX”, que en adelante se denominará como “EL PROVEEDOR”, convenimos en celebrar y al efecto celebramos la presente Modificación N°. 2 al Contrato N°. AMDC-UEP-BID-B-01-16 DE BIENES Y SERVICIOS CONEXOS PARA LA ADQUISICIÓN E INSTALACIÓN DE SEMÁFOROS PARA EL SISTEMA BTR, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
+41. Colonia Kennedy Calle Hibueras - Estadio Emilio Larach N°. 2 al Contrato AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos N°. 2 al Contrato AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e instalación de semáforos para el sistema BTR Proceso LPI N°. 01-BRT-191-LPI-B-2016 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-H Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°. GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 y que en adelante en este acto se llamará “EL COMPRADOR”, y LUIS ALONZO MORÁN SERVELLÓN, mayor de edad, casado, Licenciado en Administración de Empresas, con domicilio en Tegucigalpa, M.D.C., Departamento de Francisco Morazán, Honduras, C.A., hondureño, con Tarjeta de Identidad N°. 0801-1971-04401, actuando en mi condición de Representante Legal de la sociedad mercantil “CONSORCIO MEGATECHNOLOGY INFORMÁTICA-SEMEX”, que en adelante se denominará como “EL PROVEEDOR”, convenimos en celebrar y al efecto celebramos la presente Modificación N°. 2 al Contrato N°. AMDC-UEP-BID-B-01-16 DE BIENES Y SERVICIOS CONEXOS PARA LA ADQUISICIÓN E INSTALACIÓN DE SEMÁFOROS PARA EL SISTEMA BTR, de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
 
 CONSIDERANDO 1: Que con fecha doce (12) de septiembre de dos mil dieciséis (2016), fue suscrito por La Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y la sociedad mercantil Consorcio Megatechnology Informática- SEMEX, el contrato N°. AMDC-UEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR por un Precio del Contrato de setenta y siete millones cuatrocientos setenta y seis mil ciento noventa y nueve Lempiras con 20/100 (L 77,476,199.20). Las fechas previstas de Entrega de los Bienes y Cumplimiento de los Servicios Conexos fueron establecidos de acuerdo con el Apéndice A: “Lista de Precios y Plan de Entregas” y el Apéndice B: “Lista de Precios y Cronograma de Cumplimiento: Servicios Conexos” con fecha límite de la totalidad de Entrega de los Bienes y Cumplimiento de los Servicios Conexos de seiscientos cinco (605) días contado a partir de la firma de Contrato.
 
@@ -3323,9 +3323,7 @@ CONSIDERANDO 9: Que con fecha once (11) de marzo del dos mil veinte (2020), se c
 
 (16) meses, la situación de pandemia continua, pero poco a poco, se ha realizado la reapertura y reactivación de otras actividades, viviéndose una nueva realidad con restricciones según los protocolos de bioseguridad, en la cual muchas instituciones y empresas trabajan a la mitad de su capacidad, en jornadas laborales alternadas, o mediante el sistema de teletrabajo.
 
-CONSIDERANDO 10: Que con fecha xxxxx (xx) de julio del dos mil veintiuno (2021), fue aprobado el Contrato N°.
-
-AMDC-UEP-BID-B-01-16, en el Congreso Nacional de la República, el mismo fue publicado en el Diario Oficial La Gaceta el xxxxx (xx) de julio del dos mil veintiuno (2021).
+CONSIDERANDO 10: Que con fecha xxxxx (xx) de julio del dos mil veintiuno (2021), fue aprobado el Contrato N°. AMDC-UEP-BID-B-01-16, en el Congreso Nacional de la República, el mismo fue publicado en el Diario Oficial La Gaceta el xxxxx (xx) de julio del dos mil veintiuno (2021).
 
 CONSIDERANDO 11: Que a la fecha se han dado las condiciones establecidas en el Acta de Acuerdos para la Suspensión Temporal de Contrato, para la revocación de la Suspensión Temporal del Contrato, EL COMPRADOR solicitó al CONSULTOR ESPECIALISTA EN SEMAFORIZACIÓN, analizar y recomendar la optimización de los bienes adquiridos mediante el Contrato N°. AMDCUEP-BID-B-01-16 de Bienes y Servicios Conexos para la Adquisición e Instalación de Semáforos para el Sistema BTR, para atender las nuevas soluciones viales implementadas por EL COMPRADOR en las intersecciones del corredor del BTR, proponiendo la(s) modificación(es) al contrato de EL PROVEEDOR, a la fecha ha presentado un Informe Ejecutivo Preliminar conteniendo las Planillas de Ejecución de cada rubro para modificación del Contrato.
 
@@ -3647,7 +3645,7 @@ Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO.
 
 Este CONTRATO (el “Contrato”) se celebra el veintiocho
 
-(28) del mes de septiembre, del año 2020, entre, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°.004 - 2018 de fecha 19 de enero de 2018 (el “Cliente”) de una parte, y, JOSÉ FRANCISCO SAYBE HANDAL, mayor de edad, casado, Ingeniero Civil, de domicilio en San Pedro Sula, departamento de Cortés, hondureño, con Tarjeta de Identidad N°. 0101-1936-00222, actuando en su condición de Gerente General y Representante Legal de la sociedad SAYBE Y ASOCIADOS SOCIEDAD DE RESPONSABILIDAD LIMITADA, sociedad legalmente constituida según consta en la Escritura Pública N°.162 de Constitución de la Sociedad, autorizada en la Notaría del Abogado Francisco Ruiz Paz en fecha 09 de noviembre de 1970, e inscrita bajo el Número 25 del Tomo 41 Folio 62 al 68 del Libro de Registro Mercantil del Registro de la Propiedad Inmueble y Mercantil de Cortés (el “Consultor”) de la otra parte, para la prestación de “Servicios de consultoría para la supervisión de la construcción de Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2);
+(28) del mes de septiembre, del año 2020, entre, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 (el “Cliente”) de una parte, y, JOSÉ FRANCISCO SAYBE HANDAL, mayor de edad, casado, Ingeniero Civil, de domicilio en San Pedro Sula, departamento de Cortés, hondureño, con Tarjeta de Identidad N°. 0101-1936-00222, actuando en su condición de Gerente General y Representante Legal de la sociedad SAYBE Y ASOCIADOS SOCIEDAD DE RESPONSABILIDAD LIMITADA, sociedad legalmente constituida según consta en la Escritura Pública N°. 162 de Constitución de la Sociedad, autorizada en la Notaría del Abogado Francisco Ruiz Paz en fecha 09 de noviembre de 1970, e inscrita bajo el Número 25 del Tomo 41 Folio 62 al 68 del Libro de Registro Mercantil del Registro de la Propiedad Inmueble y Mercantil de Cortés (el “Consultor”) de la otra parte, para la prestación de “Servicios de consultoría para la supervisión de la construcción de Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2);
 
 Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1); Lote 3: Estación de Parada IHMA (Tramo 2)” (los “Servicios”) que se describen en los Términos de Referencia en el Apéndice A.
 
@@ -3675,7 +3673,7 @@ Términos de Referencia Apéndice B:
 
 Expertos Clave Apéndice C:
 
-E s t i m a c i ó n d e C o s t o d e Remuneración (Desglose de precios de contrato) En caso de no concordancia entre los documentos, prevalecerá el siguiente orden de precedencia: las Condiciones Especiales de Contrato; las Condiciones Generales de Contrato, incluido el Anexo 1; Apéndice A; Apéndice B; Apéndice C. Cualquier referencia a este Contrato incluirá, donde el contexto lo permita, una referencia a sus Apéndices.
+Estimación de Costo de Remuneración (Desglose de precios de contrato) En caso de no concordancia entre los documentos, prevalecerá el siguiente orden de precedencia: las Condiciones Especiales de Contrato; las Condiciones Generales de Contrato, incluido el Anexo 1; Apéndice A; Apéndice B; Apéndice C. Cualquier referencia a este Contrato incluirá, donde el contexto lo permita, una referencia a sus Apéndices.
 
 2. Los derechos y obligaciones mutuas del Cliente y del Consultor serán las que se estipulan en este Contrato, en particular:
 
@@ -4245,71 +4243,71 @@ Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tram
 
 • Entrega y aceptación de informe inicial e informe inicial 1A porción de socio-ambiental según el anexo A. precio de contrato Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 7% de la
-
-• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
-
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 7% de la
+
+• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de precio
 
-• Entrega y aceptación de informes semanales según el 7A de contrato anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el 7A de contrato anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el Anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 8A porción de anexo A, correspondiente al mes N°.7 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 8A porción de anexo A, correspondiente al mes N°. 7 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
@@ -4345,75 +4343,75 @@ Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1) Equival
 
 • Entrega y aceptación de informe inicial e informe inicial 1A porción de socio-ambiental según el anexo A. precio de contrato Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
 3 La estimación de obra que confirme el 66% de avance físico acumulado del Contratista debe haber sido Certificada.
 
 4 La estimación de obra que confirme el 100% de avance físico acumulado del Contratista debe haber sido Certificada.
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 7% de la
-
-• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
-
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 7% de la
+
+• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de precio
 
-• Entrega y aceptación de informes semanales según el 7A de contrato anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el 7A de contrato anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales según el 8A porción de anexo A, correspondiente al mes N°.7 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 8A porción de anexo A, correspondiente al mes N°. 7 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
@@ -4453,61 +4451,61 @@ Lote 3: Estación de Parada IHMA (Tramo 2) Equivalente Pago a Pago 10% de la E. 
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 2A porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 8.33% de la
-
-• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
-
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 3A porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 4A porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 8.33% de la
+
+• Entrega y aceptación de informes semanales según el 5A porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el 6A porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según anexo A cuando corresponda.
 
 Pago 8.35% de
 
-• Entrega y aceptación de informes semanales según el 7A precio de anexo A, correspondiente al mes N°.6 de ejecución de la contrato obra;
+• Entrega y aceptación de informes semanales según el 7A precio de anexo A, correspondiente al mes N°. 6 de ejecución de la contrato obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según anexo A cuando corresponda.
 
@@ -4649,7 +4647,7 @@ En este escenario, la Alcaldía Municipal del Distrito Central (AMDC), con el ap
 
 Con fondos provenientes del Banco Interamericano de Desarrollo (BID) Préstamo BID/ N°. 2465 BL-HO, del Banco Centroamericano de Integración Económica (BCIE) Préstamo BCIE N°. 2130, y fondos propios de La Alcaldía Municipal del Distrito Central (AMDC), han construido o se encuentran en construcción obras en los Tramos 1, 2 y 3 del sistema BTR: tales como: tramos exclusivos para el BTR, carriles mixtos, aceras, estaciones, retornos operacionales, pasos a desnivel y túneles peatonales y un patio de estacionamiento para los buses articulados de doble cuerpo y buses alimentadores Antes que el sistema BTR pueda dar inicio con la operación, se requiere construir el Patio de Estacionamiento en el Tramo 2, un edificio administrativo donde se instalará el centro de control de la operación, un taller y obras que brinden seguridad a los peatones que transitan por la zona y a los usuarios del sistema BTR, y que a su vez la velocidad comercial del tráfico no se vea afectada, por lo que los pasos peatonales se realizarán mediante la construcción de obras de infraestructura tipo: túnel subterráneo peatonal, asimismo se requiere construir una estación de parada al final del tramo 2 a inmediaciones donde se construirá el Patio de Estacionamiento para incorporar la población desde a 5ta entrada de la colonia Kennedy y los usuarios que provienen de la Residencial Honduras, Los Pino, etc.
 
-Por lo que para proseguir con la realización del programa, la AMDC, con el apoyo del Fondo OPEC3 para el Desarrollo OPEC12 13 Internacional (OFID4) , fondo que es administrado por el (OFID14), Banco Interamericano de Desarrollo (BID), han estructurado 12 OPEC: Organization of the Petroleum Exporting Countries.
+Por lo que para proseguir con la realización del programa, la AMDC, con el apoyo del Fondo OPEC3 para el Desarrollo OPEC12 13 Internacional (OFID4), fondo que es administrado por el (OFID14), Banco Interamericano de Desarrollo (BID), han estructurado 12 OPEC: Organization of the Petroleum Exporting Countries.
 
 13 OFID: The OPEC Fund For International Development. bajo el Préstamo BID/OFID N°. 1525 OP-HO, la continuidad del Programa de Transporte Público para las ciudades de Tegucigalpa y Comayagüela.
 
@@ -5313,71 +5311,71 @@ Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tram
 
 • Entrega y aceptación de informe inicial e informe inicial porción de socio-ambiental según el anexo A. precio de contrato Pago 2A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 3A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 4A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 5A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 6A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 7A 7% de precio
 
-• Entrega y aceptación de informes semanales según el de contrato anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el de contrato anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 8A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.7 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 7 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -5411,71 +5409,71 @@ Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1) C. Pago
 
 • Entrega y aceptación de informe inicial e informe inicial porción de socio-ambiental según el anexo A. precio de contrato Pago 2A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 3A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 4A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 5A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 6A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 7A 7% de precio
 
-• Entrega y aceptación de informes semanales según el de contrato anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el de contrato anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 8A 7% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.7 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 7 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -5503,9 +5501,9 @@ D. Pagos por avance del Contratista Pago Equivalente a Requisito, producto y/o a
 
 • Entrega y aceptación de informe inicial e informe inicial porción de socio-ambiental según el anexo A. precio de contrato Pago 2A 8.33% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.1 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 1 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
 21 La estimación de obra que confirme el 33% de avance físico acumulado del Contratista debe haber sido Certificada.
 
@@ -5513,57 +5511,57 @@ D. Pagos por avance del Contratista Pago Equivalente a Requisito, producto y/o a
 
 23 La estimación de obra que confirme el 100% de avance físico acumulado del Contratista debe haber sido Certificada.
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 3A 8.33% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.2 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 2 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 4A 8.33% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.3 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 3 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 5A 8.33% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.4 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 4 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 6A 8.33% de la
 
-• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°.5 de ejecución de la precio de obra; contrato
+• Entrega y aceptación de informes semanales según el porción de anexo A, correspondiente al mes N°. 5 de ejecución de la precio de obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 7A 8.35% de
 
-• Entrega y aceptación de informes semanales según el precio de anexo A, correspondiente al mes N°.6 de ejecución de la contrato obra;
+• Entrega y aceptación de informes semanales según el precio de anexo A, correspondiente al mes N°. 6 de ejecución de la contrato obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6075,7 +6073,7 @@ Actividades y responsabilidades asignadas. las zonas donde se construirán las o
 
  Realizar la revisión y verificación del diseño eléctrico de las obras complementarias;  Evaluar las condiciones existentes en las zonas donde se construirán los proyectos y obras complementarias en términos de su especialidad;  Coordinar las actividades entre terceros (como son instituciones públicas y privadas) que pudiesen intervenir en el desarrollo de las obras con relación a sistemas relacionados con su disciplina;  Colaborar con el jefe de proyecto / residente en la elaboración del plan de aseguramiento de la calidad;  Participar en la elaboración de los informes, planos y documentos contractuales requeridos por UEP/AMDC;  Participar en las visitas de reconocimiento que de acuerdo a su especialidad sean necesarias;  Colaborar en la revisión de programa ejecución de las obras, plan de gestión de calidad, presentados por el Contratista;  Revisión de estimación de obra eléctrica del proyecto;  Participar en las reuniones periódicas del proyecto y especiales, de acuerdo a su especialidad;  Realizar inspecciones en el sitio de las obras, de acuerdo a las necesidades de su especialidad, elaborando los respectivos informes técnico.
 
- Mantener un programa de sanidad y seguridad vial para el personal involucrado en el proyecto;  Monitoreo del cumplimiento de disposiciones ambientales aplicables, de acuerdo a la normativa ambiental vigente para el proyecto;  Participar en las visitas de reconocimiento y reuniones que de acuerdo a su especialidad sean necesarias;  Revisión y evaluación de los diseños en los componentes de su especialidad, así como de todas la información a ser de su especialidad, así como de todas la información a ser proporcionada por el Experto ambiental de la UEP/AMDC (diagnóstico ambiental cualitativo, contrato, licencia ambiental, disposiciones UGAM/AMDC y Mi Ambiente);  Revisión programa ejecución de las obras, plan de gestión ambiental y social (PGAS), plan de manejo de tráfico, señalización vial y desvíos temporales presentados por el Contratista, así como de su correcta implementación, en los temas de su especialidad;  Participar en la inspección inicial de campo;  Supervisar permanente de las medidas ambientales en los procedimientos de construcción y en los aspectos sociales y de divulgación pública definidas por la UEP/AMDC en el contrato de obra;  Capacitar al personal técnico y de apoyo de campo en el conocimiento e interpretación del PGAS y especificaciones ambientales, revisar los registros a ser llenados por este personal y entrenarlos sobre su nivel de responsabilidad;  Colaborar en la coordinación de las actividades entre el Contratista y Subcontratistas de la zona y terceros (instituciones públicas y privadas) que pudiesen intervenir en el desarrollo de las obras;  Verificar permanente del cumplimiento de planos, especificaciones técnicas, reglamentación legal ambiental aplicable, contrato de obras del Contratista;  Velar por la implementación del Plan de Sanidad y Seguridad del Contratista;  Participar en las reuniones periódicas del proyecto y especiales, de acuerdo a su especialidad;  Participar en la inspección final del proyecto y de las obras complementarias, así como en la correcta recepción de las obras (provisional y final) ;  Verificar el retiro de las instalaciones del lugar de trabajo y de la reposición de los terrenos y lugares a su estado normal por parte del Contratista;  Elaborar los informes contractuales del proyecto requeridos por UEP/AMDC: Informe Inicial Ambiental, Informe Ambiental Semanal, Informe Mensual de Progreso Ambiental, Informe Final Ambiental;  Colaborar en la elaboración de los otros informes contractuales requeridos por la UEP/AMDC.
+ Mantener un programa de sanidad y seguridad vial para el personal involucrado en el proyecto;  Monitoreo del cumplimiento de disposiciones ambientales aplicables, de acuerdo a la normativa ambiental vigente para el proyecto;  Participar en las visitas de reconocimiento y reuniones que de acuerdo a su especialidad sean necesarias;  Revisión y evaluación de los diseños en los componentes de su especialidad, así como de todas la información a ser de su especialidad, así como de todas la información a ser proporcionada por el Experto ambiental de la UEP/AMDC (diagnóstico ambiental cualitativo, contrato, licencia ambiental, disposiciones UGAM/AMDC y Mi Ambiente);  Revisión programa ejecución de las obras, plan de gestión ambiental y social (PGAS), plan de manejo de tráfico, señalización vial y desvíos temporales presentados por el Contratista, así como de su correcta implementación, en los temas de su especialidad;  Participar en la inspección inicial de campo;  Supervisar permanente de las medidas ambientales en los procedimientos de construcción y en los aspectos sociales y de divulgación pública definidas por la UEP/AMDC en el contrato de obra;  Capacitar al personal técnico y de apoyo de campo en el conocimiento e interpretación del PGAS y especificaciones ambientales, revisar los registros a ser llenados por este personal y entrenarlos sobre su nivel de responsabilidad;  Colaborar en la coordinación de las actividades entre el Contratista y Subcontratistas de la zona y terceros (instituciones públicas y privadas) que pudiesen intervenir en el desarrollo de las obras;  Verificar permanente del cumplimiento de planos, especificaciones técnicas, reglamentación legal ambiental aplicable, contrato de obras del Contratista;  Velar por la implementación del Plan de Sanidad y Seguridad del Contratista;  Participar en las reuniones periódicas del proyecto y especiales, de acuerdo a su especialidad;  Participar en la inspección final del proyecto y de las obras complementarias, así como en la correcta recepción de las obras (provisional y final);  Verificar el retiro de las instalaciones del lugar de trabajo y de la reposición de los terrenos y lugares a su estado normal por parte del Contratista;  Elaborar los informes contractuales del proyecto requeridos por UEP/AMDC: Informe Inicial Ambiental, Informe Ambiental Semanal, Informe Mensual de Progreso Ambiental, Informe Final Ambiental;  Colaborar en la elaboración de los otros informes contractuales requeridos por la UEP/AMDC.
 
 Apéndice C Estimación de Costo de Remuneración (Desglose de precios de contrato) del Contrato N°. AMDC-UEP-BID-OFID-CC-xx-20 de Servicios de consultoría para la supervisión de la construcción de Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2); Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1); Lote 3: Estación de Parada IHMA (Tramo 2)” C.1 Resumen de precios Rubro Precio Total ofertado [Lempiras] Precio de la Propuesta de Precio Total Incluye:
 
@@ -6127,11 +6125,9 @@ Proceso SP N°. 251-SBCC-CF-01-19 Nosotros, NASRY JUAN ASFURA ZABLAH, mayor de e
 
 CONSIDERANDO 1: Que con fecha 28 de septiembre de 2020, fue suscrito entre La Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y la sociedad Saybe y Asociados, S. de R. L., el contrato N°. AMDC-UEP-BID-OFID-CC-01-20 de Servicios de consultoría para la supervisión de la construcción de Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2); Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1); Lote 3: Estación de Parada IHMA (Tramo 2), (Proceso SP N°. BRT-251-SBCC-CF-01-19); con Precio del Contrato de siete millones quinientos noventa y cinco mil cuatrocientos tres Lempiras con 49/100 (L. 7,595,403.49), y con un plazo de contrato de nueve (9) meses, contados a partir de la orden de inicio, establecida en 19 de octubre del 2020 para el lote 1 y el lote 2, y el 25 de enero de 2021 para el lote 3.
 
-CONSIDERANDO 2: Que en el contrato del Consultor, se establece la obligatoriedad de alcanzar los objetivos de la consultoría y supervisar la ejecución de la totalidad de las obras, a ejecutarse en los tres contratos de obra y que son: Contrato N°. AMDC-UEP-BID-OFID-CO-05-19 de Construcción de obras del sistema BTR: Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2); Contrato N°.
+CONSIDERANDO 2: Que en el contrato del Consultor, se establece la obligatoriedad de alcanzar los objetivos de la consultoría y supervisar la ejecución de la totalidad de las obras, a ejecutarse en los tres contratos de obra y que son: Contrato N°. AMDC-UEP-BID-OFID-CO-05-19 de Construcción de obras del sistema BTR: Lote 1: Túnel Peatonal Subterráneo Torre Metrópolis – Emisoras Unidas (Tramo 3) y Túnel Subterráneo Peatonal Cámara de Comercio e Industria de Tegucigalpa – Hondutel (Tramo 2); Contrato N°. AMDC-UEP-BID-OFID-CO-03-19 de Construcción de obras del sistema BTR: Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1); Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 de Construcción de obras del sistema BTR:
 
-AMDC-UEP-BID-OFID-CO-03-19 de Construcción de obras del sistema BTR: Lote 2: Túnel Peatonal Subterráneo Hospital Escuela – URLA (Tramo 1); Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 de Construcción de obras del sistema BTR:
-
-Lote 3: Estación de Parada IHMA (Tramo 2); por tal razón, realizar la supervisión continua y completa de todos los trabajos ejecutados por los contratistas de las obras, trabajos que a la fecha fueron ampliados por las razones siguientes: i) Rediseño de la geometría de los túneles, ii) Cambios en diseño estructural en los muros de bloque sustituyéndolos por pilotes y pantalla de concreto, iii) Rediseño del sistema de drenaje de aguas lluvias del proyecto, iv) Rediseño y construcción del sistema de aguas residuales en Zona de estación No.1 del Túnel peatonal subterráneo Metrópolis-Emisoras Unidas,
+Lote 3: Estación de Parada IHMA (Tramo 2); por tal razón, realizar la supervisión continua y completa de todos los trabajos ejecutados por los contratistas de las obras, trabajos que a la fecha fueron ampliados por las razones siguientes: i) Rediseño de la geometría de los túneles, ii) Cambios en diseño estructural en los muros de bloque sustituyéndolos por pilotes y pantalla de concreto, iii) Rediseño del sistema de drenaje de aguas lluvias del proyecto, iv) Rediseño y construcción del sistema de aguas residuales en Zona de estación No. 1 del Túnel peatonal subterráneo Metrópolis-Emisoras Unidas,
 
 v) Rediseño de acceso/salida de las diferentes estaciones en ambos Túneles peatonales, vi) Cambio en el diseño del sistema eléctrico y de inyección de aire de los túneles y vii) Redistribución de locales comerciales de ambos túneles.
 
@@ -6149,9 +6145,7 @@ CONSIDERANDO 6: Que se cambia el Cronograma de pagos conforme a las ampliaciones
 
 CONSIDERANDO 7: Que existe presupuesto para cubrir el aumento en Precio del Contrato con fondos del préstamo OFID N°. 1525 OP-HO.
 
-CONSIDERANDO 8: Fundamentamos la modificación N°.
-
-1 al contrato de Consultoría, en las cláusulas CGC 16, 19, 38 y 41 de las Condiciones Generales, CEC 19.1.1. (e), 38.1 y
+CONSIDERANDO 8: Fundamentamos la modificación N°. 1 al contrato de Consultoría, en las cláusulas CGC 16, 19, 38 y 41 de las Condiciones Generales, CEC 19.1.1. (e), 38.1 y
 
 41.2 de las Condiciones Especiales, así como en los artículos de la Ley de Contratación del Estado 4, 119, 121 122, 123, 126, 127 y 130 y del Reglamento de la Ley de Contratación del Estado 202, 203, 204, 205.
 
@@ -6183,91 +6177,91 @@ Cronograma de pagos:
 
 • Entrega y aceptación de informe inicial e informe 1A porción de inicial socio-ambiental según el anexo A. precio de contrato original Pago 7% de la
 
-• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°.1 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°. 1 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.1 original según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 original según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 7% de la
-
-• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°.2 de precio de ejecución de la obra; contrato
-
-• Entrega y aceptación de informe mensual N°.2 original según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°.3 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°. 2 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 original según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 original según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°.4 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°. 3 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 original según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 original según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 7% de la
+
+• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°. 4 de precio de ejecución de la obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 original según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°.5 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°. 5 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 original según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 original según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de
 
-• Entrega y aceptación de informes semanales 7A precio de según el anexo A, correspondiente al mes N°.6 de contrato ejecución de la obra; original
+• Entrega y aceptación de informes semanales 7A precio de según el anexo A, correspondiente al mes N°. 6 de contrato ejecución de la obra; original
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el Anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 8A porción de según el anexo A, correspondiente al mes N°.7 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 8A porción de según el anexo A, correspondiente al mes N°. 7 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 original según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 original según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
-
-Pago L
-
-• Entrega y aceptación de informes semanales L 9A 211,521.88 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago L
 
-• Entrega y aceptación de informes semanales L 10A 211,521.88 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra;
+• Entrega y aceptación de informes semanales L 9A 211,521.88 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
+
+Pago L
+
+• Entrega y aceptación de informes semanales L 10A 211,521.88 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
@@ -6303,7 +6297,7 @@ a. Pagos por productos Requisito, producto y/o actividad
 
 • Entrega y aceptación de informe inicial e informe 1A porción de inicial socio-ambiental según el anexo A. precio de contrato original Pago 7% de la
 
-• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°.1 de precio de ejecución de la obra;
+• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°. 1 de precio de ejecución de la obra;
 
 128 La estimación de obra que confirme el 33% de avance físico acumulado del Contratista debe haber sido Certificada.
 
@@ -6311,77 +6305,77 @@ a. Pagos por productos Requisito, producto y/o actividad
 
 03 La estimación de obra que confirme el 100% de avance físico acumulado del Contratista debe haber sido Certificada. contrato
 
-• Entrega y aceptación de informe mensual N°.1 original según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 original según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 7% de la
-
-• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°.2 de precio de ejecución de la obra; contrato
-
-• Entrega y aceptación de informe mensual N°.2 original según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°.3 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°. 2 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 original según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 original según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°.4 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°. 3 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 original según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 original según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 7% de la
+
+• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°. 4 de precio de ejecución de la obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 original según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°.5 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°. 5 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 original según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 original según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 Pago 7% de la
 
-• Entrega y aceptación de informes semanales 8A porción de según el anexo A, correspondiente al mes N°.7 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 8A porción de según el anexo A, correspondiente al mes N°. 7 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.7 original según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 original según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
 L 227,609.92
 
-• Entrega y aceptación de informes semanales 9A según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
+• Entrega y aceptación de informes semanales 9A según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A cuando corresponda.
 
@@ -6419,7 +6413,7 @@ a. Pagos por productos Requisito, producto y/o actividad
 
 • Entrega y aceptación de informe inicial e informe 1A porción de inicial socio-ambiental según el anexo A. precio de contrato Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informes semanales 2A porción de según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
 314 La estimación de obra que confirme el 33% de avance físico acumulado del Contratista debe haber sido Certificada.
 
@@ -6427,59 +6421,59 @@ a. Pagos por productos Requisito, producto y/o actividad
 
 33 6 La estimación de obra que confirme el 100% de avance físico acumulado del Contratista debe haber sido Certificada. precio de
 
-• Entrega y aceptación de informe mensual N°.1 contrato según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 contrato según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
-
-• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
-
-Pago 8.33% de la
-
-• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°.2 de precio de ejecución de la obra; contrato
-
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
-
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°.3 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 3A porción de según el anexo A, correspondiente al mes N°. 2 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°.4 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 4A porción de según el anexo A, correspondiente al mes N°. 3 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
+
+• Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
+
+Pago 8.33% de la
+
+• Entrega y aceptación de informes semanales 5A porción de según el anexo A, correspondiente al mes N°. 4 de precio de ejecución de la obra; contrato
+
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
+
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago 8.33% de la
 
-• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°.5 de precio de ejecución de la obra; contrato
+• Entrega y aceptación de informes semanales 6A porción de según el anexo A, correspondiente al mes N°. 5 de precio de ejecución de la obra; contrato
 
-• Entrega y aceptación de informe mensual N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.5 según el anexo A, correspondiente al mes N°.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 5 según el anexo A, correspondiente al mes N°. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según anexo A cuando corresponda.
 
 Pago 8.35% de
 
-• Entrega y aceptación de informes semanales 7A precio de según el anexo A, correspondiente al mes N°.6 de contrato ejecución de la obra;
+• Entrega y aceptación de informes semanales 7A precio de según el anexo A, correspondiente al mes N°. 6 de contrato ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.6 según el anexo A, correspondiente al mes N°.6 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 6 según el anexo A, correspondiente al mes N°. 6 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según anexo A cuando corresponda.
 
@@ -6589,7 +6583,7 @@ Realizar la supervisión continua y completa de todos los trabajos ejecutados po
 
 Levantamientos topográficos, dibujo y digitalización de planos en formato dwg en su totalidad, rediseño de cimentaciones conforme a condiciones físicas del proyecto, diseños eléctricos, rediseños estructurales, rediseño de cimentaciones en las taquillas, diseños de planos hidrosanitarios, rediseños de distribución de la estructura de los techos.
 
-CONSIDERANDO 3: Que el consultor mediante informe especial de fecha 02 agosto de 2021, ha solicitado la ampliación de plazo para el lote 1, lote 2 y lote 3 monto del contrato para el lote 1, lote 2 y lote 3, misma que la Unidad Ejecutora del Programa, mediante la Dirección de Control y Seguimiento, ha aprobado la modificación por ampliación de monto y plazo del contrato N O AMDC-UEP-BID-OFID-CC01-20, como se detalla: Lote 1, por tres punto cuatro (3.4) meses calendario adicionales, con fecha de finalización 31 diciembre de 2021 y por incremento contractual de L. 744,432.28 para un total de L. 3,688,325.80 y Lote 2, por (4.4) meses calendario adicional, con fecha de finalización 31 diciembre de 2021 y por incremento contractual de L. 1,114,425.12 para un total de L. 3,984,883.91 y Lote 3 , por tres punto dos (3.2) meses calendario adicional con fecha de finalización 31 de diciembre de 2021 y por un incremento contractual de L.915,776.27 para un total de L. 3,347,481.13
+CONSIDERANDO 3: Que el consultor mediante informe especial de fecha 02 agosto de 2021, ha solicitado la ampliación de plazo para el lote 1, lote 2 y lote 3 monto del contrato para el lote 1, lote 2 y lote 3, misma que la Unidad Ejecutora del Programa, mediante la Dirección de Control y Seguimiento, ha aprobado la modificación por ampliación de monto y plazo del contrato N O AMDC-UEP-BID-OFID-CC01-20, como se detalla: Lote 1, por tres punto cuatro (3.4) meses calendario adicionales, con fecha de finalización 31 diciembre de 2021 y por incremento contractual de L. 744,432.28 para un total de L. 3,688,325.80 y Lote 2, por (4.4) meses calendario adicional, con fecha de finalización 31 diciembre de 2021 y por incremento contractual de L. 1,114,425.12 para un total de L. 3,984,883.91 y Lote 3, por tres punto dos (3.2) meses calendario adicional con fecha de finalización 31 de diciembre de 2021 y por un incremento contractual de L.915,776.27 para un total de L. 3,347,481.13
 
 CONSIDERANDO 4: Que el consultor ha enviado su propuesta económica (se anexa en el apéndice A de esta modificación), para extender la cobertura de los trabajos contratados en la realización de los servicios de supervisión continua y completa del trabajo ejecutado por el contratista de la obra, la cual ha sido analizada, revisada, negociada y aprobada por la Dirección de Control y Seguimiento, con un reconocimiento de costos adicionales en un valor de Lote 1, L. 744,432.28 para un total de L. 3,688,325.80 y Lote 2, L.1,114,425.12 para un total de L. 3,984,883.91, y Lote 3, L.915,776.27 para un total de L.3,347,481.13 monto acumulado total de L. 2,774,633.67 valor negociado equivalente al 45.10% sobre del monto original del contrato, para un total acumulado de once millones veinte mil seiscientos noventa con 84/100 (L.11,020,690.84).
 
@@ -6685,11 +6679,11 @@ Pago 7A 7% de
 
 Pago 8A 7% de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.7 según el anexo A, correspondiente al mes N°.7 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 7 según el anexo A, correspondiente al mes N°. 7 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6697,11 +6691,11 @@ Pago 9A
 
 L. 211,521.88
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.8 según el anexo A, correspondiente al mes N°.8 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 8 según el anexo A, correspondiente al mes N°. 8 de ejecución de la obra; y
 
 •  Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6709,11 +6703,11 @@ Pago 10A
 
 L. 211,521.88
 
-• entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.9 de ejecución de la obra;
+• entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra; y
 
 •  Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6721,11 +6715,11 @@ Pago 11A
 
 L. 218,950.67
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.10 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.10 según el anexo A, correspondiente al mes N°.10 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 10 según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.10 según el anexo A, correspondiente al mes N°.10 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 10 según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra; y
 
 •  Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6733,29 +6727,29 @@ Pago 12A
 
 L. 218,950.67
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.11 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.11 según el anexo A, correspondiente al mes N°.11 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 11 según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.11 según el anexo A, correspondiente al mes N°.11 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 11 según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 13A L. 218,950.67
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.12 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.12 según el anexo A, correspondiente al mes N°.12 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 12 según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.12 según el anexo A, correspondiente al mes N°.12 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 12 según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
 Pago 14A L. 87,580.27
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra; Entrega y aceptación de informe mensual N°.12.4 según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 12.4 según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.12.4 según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 12.4 según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6763,7 +6757,7 @@ Pago 15A 10 % de la
 
 • A la firma de la Certificación de Terminación de Obras del Contratista,
 
-• Entrega y aceptación de informe final e informe final socio- ambiental según el anexo A, Certificación de revisión de los planos tal como construido y de los manuales de operación y mantenimiento.
+• Entrega y aceptación de informe final e informe final socio-ambiental según el anexo A, Certificación de revisión de los planos tal como construido y de los manuales de operación y mantenimiento.
 
 • Certificación de revisión de los planos tal como construido y de los manuales de operación y mantenimiento.
 
@@ -6855,9 +6849,9 @@ Pago 10A
 
 L. 253,278.44
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.9 de ejecución de la obra; Entrega y aceptación de informe mensual N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.9 según el anexo A, correspondiente al mes N°.9 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 9 según el anexo A, correspondiente al mes N°. 9 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6865,9 +6859,9 @@ Pago 11A
 
 L. 253,278.44
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.10 de ejecución de la obra; Entrega y aceptación de informe mensual N°.10 según el anexo A, correspondiente al mes N°.10 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 10 según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.10 según el anexo A, correspondiente al mes N°.10 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 10 según el anexo A, correspondiente al mes N°. 10 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6875,9 +6869,9 @@ Pago 12A
 
 L. 253,278.44
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.11 de ejecución de la obra; Entrega y aceptación de informe mensual N°.11 según el anexo A, correspondiente al mes N°.11 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 11 según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.11 según el anexo A, correspondiente al mes N°.11 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 11 según el anexo A, correspondiente al mes N°. 11 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6885,9 +6879,9 @@ Pago 13A
 
 L. 253,278.44
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.12 de ejecución de la obra; Entrega y aceptación de informe mensual N°.12 según el anexo A, correspondiente al mes N°.12 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 12 según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.12 según el anexo A, correspondiente al mes N°.12 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 12 según el anexo A, correspondiente al mes N°. 12 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6895,9 +6889,9 @@ Pago 14A
 
 L. 101,311.36
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra; Entrega y aceptación de informe mensual N°.12.4 según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra; Entrega y aceptación de informe mensual N°. 12.4 según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.12.4 según el anexo A, correspondiente al mes N°.12.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 12.4 según el anexo A, correspondiente al mes N°. 12.4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales cuando corresponda.
 
@@ -6961,15 +6955,15 @@ Pago 5A 8.33%0 de
 
 • Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes NO.4 de ejecución de la obra; Entrega y aceptación de informe mensual NO.4 según el anexo A, correspondiente al mes NO.4 de ejecución de la obra; Entrega y aceptación de informe mensual socio-ambiental
 
-• No.4 según el anexo A, correspondiente al mes No..4 de ejecución de la obra; y
+• No. 4 según el anexo A, correspondiente al mes No..4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según Anexo A cuando corresponda.
 
 Pago 6A 8.33%0 de
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes NO.5 de ejecución de la obra; Entrega y aceptación de informe mensual No.5 según el anexo A, correspondiente al mes N O.5 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes NO.5 de ejecución de la obra; Entrega y aceptación de informe mensual No. 5 según el anexo A, correspondiente al mes N O.5 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental No.5 según el anexo A, corres pondiente al mes No.5 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental No. 5 según el anexo A, corres pondiente al mes No. 5 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según anexo A cuando corresponda.
 
@@ -7149,7 +7143,7 @@ Remuneración mediante pago de una suma global.
 
 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO.
 
-Este CONTRATO (el “Contrato”) se celebra el veinte y siete (27) del mes de julio, del año 2021, entre, La Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958- 03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que se acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM
+Este CONTRATO (el “Contrato”) se celebra el veinte y siete (27) del mes de julio, del año 2021, entre, La Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que se acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM
 
 - N°.004 - 2018 de fecha 19 de enero de 2018, (el “Cliente”) de una parte y, Pedro Edmundo Pineda Cobos, mayor de edad, casado, ingeniero civil, de domicilio en Tegucigalpa, M.D.C., hondureño, con Tarjeta de Identidad N°. 1301- 1947-00059, actuando en su condición de Gerente General de la sociedad Técnica de Ingeniería S.A. (TECNISA), sociedad legalmente constituida según consta en la Escritura Pública N°.44 de Constitución de la Sociedad, autorizada en la Notaría del Abogado Anibal E. Quiñonez en fecha trece de septiembre de 1976, e inscrita bajo el Número 6249 del Tomo V, Folio 3378 del Libro de Registro Mercantil del Registro de la Propiedad Inmueble y Mercantil de Francisco Morazán, de otra parte, para la prestación de los “Servicios de consultoría para la supervisión de la construcción de las obras complementarias en la Estación Terminal ESTADIO Nacional (ETEN) del Sistema BTR” (los “Servicios”) que se describen en los Términos de Referencia en el Apéndice A.
 
@@ -7175,7 +7169,7 @@ EL CLIENTE Y EL CONSULTOR (las “Partes”) ACUERDAN LO SIGUIENTE:
 
 (b) Apéndices:
 
-Apéndice A: T é r m i n o s d e R e f e r e n c i a y Requerimientos de Reporte Apéndice B: Expertos Clave Apéndice C: Desglose del Precio del Contrato EN TESTIMONIO DE LO CUAL, las partes han causado que este Contrato sea firmado en sus respectivos nombres en la fecha escrita al comienzo.
+Apéndice A: Términos de Referencia y Requerimientos de Reporte Apéndice B: Expertos Clave Apéndice C: Desglose del Precio del Contrato EN TESTIMONIO DE LO CUAL, las partes han causado que este Contrato sea firmado en sus respectivos nombres en la fecha escrita al comienzo.
 
 Por y nombre de:
 
@@ -7241,7 +7235,7 @@ c. Medidas a 5.4 Una Parte afectada por un evento de Fuerza Mayor deberá contin
 
 5.7 Durante el tiempo de su incapacidad de prestar los Servicios como resultado de un evento de Fuerza Mayor, el Consultor, por instrucciones del Cliente, deberá:
 
-(a) desmovilizarse, en cuyo caso, se reembolsarán al Consultor los costos adicionales en que haya incurrido razonable y necesariamente, y, si así lo exige el Cliente, en la reactivación de los Servicios ; o
+(a) desmovilizarse, en cuyo caso, se reembolsarán al Consultor los costos adicionales en que haya incurrido razonable y necesariamente, y, si así lo exige el Cliente, en la reactivación de los Servicios; o
 
 (b) continuará con los Servicios en la medida que sea razonablemente posible, en cuyo caso, deberá seguírsele pagando al Consultor de acuerdo con los términos y condiciones de este Contrato y se le reembolsarán los costos adicionales en que haya incurrido, razonable y necesariamente.
 
@@ -7419,11 +7413,11 @@ A. Pagos por productos Pago Equivalente a Requisito, producto y/o actividad Pago
 
 • Entrega y aceptación de informe inicial e informe inicial socio-ambiental según el anexo A.
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
@@ -7431,19 +7425,19 @@ Pago Equivalente a Requisito, producto y/o actividad Pago 13% del precio 3A de c
 
 L. 281,244.35
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y Pago 14% del precio 4A de contrato L.302,878.53 Pago 15% del precio 5A de contrato L.324,512.71
+• Entrega y aceptación de informe mensual socio-ambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y Pago 14% del precio 4A de contrato L.302,878.53 Pago 15% del precio 5A de contrato L.324,512.71
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
-• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informes semanales según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socio-ambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socio-ambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
@@ -7987,7 +7981,7 @@ Así como las recomendaciones ambientales que surjan durante la ejecución de la
 
  Protocolo de bioseguridad.
 
- Programa de salud ocupacional v i g e n t e , f i r m a d o p o r e l representante legal respectivo del Contratista.
+ Programa de salud ocupacional vigente, firmado por el representante legal respectivo del Contratista.
 
  Cronograma de capacitaciones ambientales, de seguridad industrial y salud ocupacional, y bioseguridad (fechas exactas).
 
@@ -8003,9 +7997,9 @@ Así también, supervisar que efectivamente se realizó el viaje al botadero aut
 
  Anexo fotográfico de los sitios objeto del proyecto, del sitio de campamento y del estado de las vías a utilizar para el ingreso de materiales y evacuación de escombros (área de influencia directa de las obras).
 
- M a t r i z d e e l e m e n t o d e protección personal, de acuerdo a la identificación técnica de las necesidades de los mismos por cargo y actividad, de acuerdo a los factores de riesgo identificados.
+ Matriz de elemento de protección personal, de acuerdo a la identificación técnica de las necesidades de los mismos por cargo y actividad, de acuerdo a los factores de riesgo identificados.
 
- A n á l i s i s d e a m e n a z a s y vulnerabilidad / su correspondiente plan de contingencias.
+ Análisis de amenazas y vulnerabilidad / su correspondiente plan de contingencias.
 
  Programa de inspecciones para el cumplimiento del PGAS.
 
@@ -8351,7 +8345,7 @@ Arquitecto  Alimentar el programa del sistema de aseguramiento de la calidad de
 
  Revisión programa ejecución de las obras, plan de gestión ambiental y social (PGAS), plan de manejo de tráfico, señalización vial y desvíos temporales, Protocolo de Bioseguridad, Plan de Higiene y Seguridad laboral, plan de contingencias, plan de capacitaciones, entre otros presentados por el Contratista, así como de su correcta implementación, en los temas de su especialidad;  Participar en la inspección inicial de campo;  Supervisar permanente de las medidas ambientales en los procedimientos de construcción y en los aspectos sociales y de divulgación pública definidas por la UEP/AMDC en los contratos de obra;  Capacitar al personal técnico y de apoyo de campo en el conocimiento e interpretación del PGAS y especificaciones ambientales, PMT, Bioseguridad, seguridad y salud laboral, revisar los registros a ser llenados por este personal y entrenarlos sobre su nivel de responsabilidad;  Colaborar en la coordinación de las actividades entre el Contratista y Subcontratistas de la zona y terceros (instituciones públicas y privadas) que pudiesen intervenir en el desarrollo de la obra;  Verificar permanente del cumplimiento de planos, especificaciones técnicas, reglamentación legal ambiental aplicable, contrato de obras del Contratista;
 
- Velar por la implementación del Plan de Sanidad y Seguridad del Contratista;  Participar en las reuniones periódicas del proyecto y especiales, de acuerdo a su especialidad;  Participar en la inspección final del proyecto, así como en la correcta recepción de la obra (provisional y final) ;  Verificar el retiro de las instalaciones del lugar de trabajo y de la reposición de los terrenos y lugares a su estado normal por parte del Contratista;  Elaborar los informes contractuales del proyecto requeridos por UEP/AMDC: Informe Inicial Ambiental, Informe Ambiental Semanal, Informe Mensual Nombre del Cargo N°. experto asignado Actividades y responsabilidades asignadas de Progreso Ambiental, Informe Final Ambiental;  Colaborar en la elaboración de los otros informes contractuales requeridos por la UEP/AMDC.
+ Velar por la implementación del Plan de Sanidad y Seguridad del Contratista;  Participar en las reuniones periódicas del proyecto y especiales, de acuerdo a su especialidad;  Participar en la inspección final del proyecto, así como en la correcta recepción de la obra (provisional y final);  Verificar el retiro de las instalaciones del lugar de trabajo y de la reposición de los terrenos y lugares a su estado normal por parte del Contratista;  Elaborar los informes contractuales del proyecto requeridos por UEP/AMDC: Informe Inicial Ambiental, Informe Ambiental Semanal, Informe Mensual Nombre del Cargo N°. experto asignado Actividades y responsabilidades asignadas de Progreso Ambiental, Informe Final Ambiental;  Colaborar en la elaboración de los otros informes contractuales requeridos por la UEP/AMDC.
 
  Realizar la revisión y verificación del diseño eléctrico de cada uno del proyecto y de las obras complementarias;  Evaluar las condiciones existentes en las zonas donde se construirán los proyectos y obras complementarias en términos de su especialidad;
 
@@ -8391,11 +8385,9 @@ Proceso SP N° BRT-237-SCC-CF-AMDC-BID-
 
 OFID-02-19
 
-Préstamos BID N° 2465/BL-HO y OFID N° 1525/0P-HO Nosotros, Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Documento Nacional de Identificación N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán, mediante Certificación de Acta N°. GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 (referido en adelante el “Contratante”) y, de otra parte, Pedro Edmundo Pineda Cobos, mayor de edad, casado, Ingeniero Civil, de domicilio en Tegucigalpa, M.D.C., hondureño, con Documento Nacional de Identificación N°.
+Préstamos BID N° 2465/BL-HO y OFID N° 1525/0P-HO Nosotros, Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Documento Nacional de Identificación N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán, mediante Certificación de Acta N°. GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 (referido en adelante el “Contratante”) y, de otra parte, Pedro Edmundo Pineda Cobos, mayor de edad, casado, Ingeniero Civil, de domicilio en Tegucigalpa, M.D.C., hondureño, con Documento Nacional de Identificación N°. 1301-1947-00059, actuando en su condición de Gerente General de la sociedad Técnica de Ingeniería S.A.
 
-1301-1947-00059, actuando en su condición de Gerente General de la sociedad Técnica de Ingeniería S.A.
-
-(TECNISA), sociedad legalmente constituida según consta en la Escritura Pública N°.44 de Constitución de la Sociedad, autorizada en la Notaría del Abogado Aníbal E. Quiñonez en fecha trece de septiembre de 1976, e inscrita bajo el Número 6249 del Tomo V, Folio 3378 del Libro de Registro Mercantil del Registro de la Propiedad Inmueble y Mercantil de Francisco Morazán, (referido en adelante el “Consultor”); convenimos en celebrar y en efecto celebramos la presente Modificación N°1 al contrato N°AMDC-UEP-BID-OFIDCC-02-21 de “Servicios de consultoría para la supervisión de la construcción de las obras complementarias en la Estación Terminal ESTADIO Nacional (ETEN) del Sistema BTR”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
+(TECNISA), sociedad legalmente constituida según consta en la Escritura Pública N°. 44 de Constitución de la Sociedad, autorizada en la Notaría del Abogado Aníbal E. Quiñonez en fecha trece de septiembre de 1976, e inscrita bajo el Número 6249 del Tomo V, Folio 3378 del Libro de Registro Mercantil del Registro de la Propiedad Inmueble y Mercantil de Francisco Morazán, (referido en adelante el “Consultor”); convenimos en celebrar y en efecto celebramos la presente Modificación N°1 al contrato N°AMDC-UEP-BID-OFIDCC-02-21 de “Servicios de consultoría para la supervisión de la construcción de las obras complementarias en la Estación Terminal ESTADIO Nacional (ETEN) del Sistema BTR”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se indican:
 
 CONSIDERANDO 1: Que en fecha veintisiete (27) de julio del año 2021, se suscribió el contrato N° AMDC-UEPBID-OFID-CC-02-21 de “Servicios de consultoría para la supervisión de la construcción de las obras complementarias en la Estación Terminal ESTADIO Nacional (ETEN) del Sistema BTR”, entre la Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y la Firma Técnica de Ingeniería S.A.
 
@@ -8403,11 +8395,11 @@ CONSIDERANDO 1: Que en fecha veintisiete (27) de julio del año 2021, se suscrib
 
 CONSIDERANDO 2: Que el “Consultor”, ha notificado que el cronograma de pagos, contenido en la cláusula CEC 18.1 del Contrato no incluye el porcentaje de pago para el informe mensual N°4.
 
-CONSIDERANDO 3: Que de acuerdo al análisis realizado por la Unidad Ejecutora del Programa, se determinó que es necesario se ajuste el cronograma de pagos, para que la cláusula CEC 18.1 del Contrato incluya el porcentaje de pago para el informe mensual N°.4
+CONSIDERANDO 3: Que de acuerdo al análisis realizado por la Unidad Ejecutora del Programa, se determinó que es necesario se ajuste el cronograma de pagos, para que la cláusula CEC 18.1 del Contrato incluya el porcentaje de pago para el informe mensual N°. 4
 
 CONSIDERANDO 4: Que no altera el presupuesto ni el plazo del contrato, y que es necesario redistribuir de forma correcta y equitativa los pagos de cada entregable requerido al Consultor, la administración del contrato, considera procedente dichos cambios.
 
-CONSIDERANDO 5: Que Fundamentamos la Modificación N°.1 al contrato, en reconocimiento a la solicitud presentada en las siguientes cláusulas de las Condiciones Generales del Contrato 16.1; 16.2; 24; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202 y 204 del Reglamento de la Ley de Contratación del Estado.
+CONSIDERANDO 5: Que Fundamentamos la Modificación N°. 1 al contrato, en reconocimiento a la solicitud presentada en las siguientes cláusulas de las Condiciones Generales del Contrato 16.1; 16.2; 24; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202 y 204 del Reglamento de la Ley de Contratación del Estado.
 
 POR TANTO
 
@@ -8429,49 +8421,49 @@ A. Pagos por productos Equivalente Pago a Pago 15% del Requisito, producto y/o a
 
 • Entrega y aceptación de informe inicial e informe 1ª precio de inicial socio-ambiental según el anexo A. contrato L.324,512.71 Pago 10% del
 
-• Entrega y aceptación de informes semanales según 2A precio de el anexo A, correspondiente al mes N°.1 de ejecución contrato de la obra;
+• Entrega y aceptación de informes semanales según 2A precio de el anexo A, correspondiente al mes N°. 1 de ejecución contrato de la obra;
 
 L.216,341.81
 
-• Entrega y aceptación de informe mensual N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.1 según el anexo A, correspondiente al mes N°.1 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 1 según el anexo A, correspondiente al mes N°. 1 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 10% del
 
-• Entrega y aceptación de informes semanales según 3A precio de el anexo A, correspondiente al mes N°.2 de ejecución contrato de la obra;
+• Entrega y aceptación de informes semanales según 3A precio de el anexo A, correspondiente al mes N°. 2 de ejecución contrato de la obra;
 
 L.216,341.81
 
-• Entrega y aceptación de informe mensual N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.2 según el anexo A, correspondiente al mes N°.2 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 2 según el anexo A, correspondiente al mes N°. 2 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Equivalente Pago a Requisito, producto y/o actividad Pago 10% del
 
-• Entrega y aceptación de informes semanales según 4A precio de el anexo A, correspondiente al mes N°.3 de ejecución contrato de la obra;
+• Entrega y aceptación de informes semanales según 4A precio de el anexo A, correspondiente al mes N°. 3 de ejecución contrato de la obra;
 
 L.216,341.81
 
-• Entrega y aceptación de informe mensual N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.3 según el anexo A, correspondiente al mes N°.3 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 3 según el anexo A, correspondiente al mes N°. 3 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
 Pago 10% del
 
-• Entrega y aceptación de informes semanales según 5A precio de el anexo A, correspondiente al mes N°.4 de ejecución contrato de la obra;
+• Entrega y aceptación de informes semanales según 5A precio de el anexo A, correspondiente al mes N°. 4 de ejecución contrato de la obra;
 
 L.216,341.80
 
-• Entrega y aceptación de informe mensual N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra;
+• Entrega y aceptación de informe mensual N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra;
 
-• Entrega y aceptación de informe mensual socioambiental N°.4 según el anexo A, correspondiente al mes N°.4 de ejecución de la obra; y
+• Entrega y aceptación de informe mensual socioambiental N°. 4 según el anexo A, correspondiente al mes N°. 4 de ejecución de la obra; y
 
 • Entrega y aceptación de informes especiales según el anexo A, cuando corresponda.
 
@@ -8533,7 +8525,7 @@ Todos los pagos bajo este Contrato se harán a las cuentas del Consultor.
 
 Para moneda nacional: Técnica de Ingeniería S.A. (TECNISA), comunicará por escrito la información de la cuenta en moneda nacional, es decir en Lempiras No aplica intereses sobre pagos en mora, si el Cliente ha demorado los pagos más de lo previsto, no se pagarán intereses al Consultor sobre cualquier monto adeudado y no pagado en tiempo.
 
-SEGUNDO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°.1.
+SEGUNDO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°. 1.
 
 En fe de lo cual, firmamos la presente Modificación N° 1 al contrato de Servicios de consultoría, en la ciudad de Tegucigalpa, Municipio del Distrito Central a los 05 días del mes de noviembre de 2021.
 
@@ -8553,9 +8545,7 @@ Convenio Contractual N°. AMDC-UEP-BID-OFIDCO-01-21 de Construcción de Obras Co
 
 Proceso SP N°. BRT-236-LPN-O-AMDC-BID-OFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO _____________________________________________ Este Convenio contractual se celebra el trece (13) de julio, de 2021, entre La Alcaldía municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en su condición de Alcalde municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°. GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018, (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con Tarjeta de Identidad número 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica, carácter que acredita en la Escritura Pública N°. 96, inscrita con el número 55498, matrícula 2523072/2513531/2532011 del Registro Mercantil de Francisco Morazán en fecha 21 de agosto de 2019, autorizada por la Notaria Rebeca Lizette Ráquel Obando; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según este Contrato, es decir Geo Construcciones, S.A. de C.V., representada por OCTAVIO JOSÉ PINEDA PAREDES; PROYECTO DE INGENIERÍA CENTROAMERICANA, S. DE R.L. (PROINCA), representada por ALLAN FABRICIO FIALLOS WILLIAMS y EMPRESA EN OBRAS DE CONSTRUCCIÓN, S.A. DE C.V. (ENOC,SA), representada por EDDUIN ENOC GARCÍA MATUTE (en adelante denominado “el Contratista”) por la otra parte;
 
-Por cuanto el Contratante desea que el Contratista ejecute la “Construcción de Obras Complementarias en la Estación Terminal Estadio Nacional (ETEN) del Sistema BTR”, Contrato N°.
-
-AMDC-UEP-BID-OFID-CO-01-21
+Por cuanto el Contratante desea que el Contratista ejecute la “Construcción de Obras Complementarias en la Estación Terminal Estadio Nacional (ETEN) del Sistema BTR”, Contrato N°. AMDC-UEP-BID-OFID-CO-01-21
 
 (en adelante denominado “las Obras”) y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de estas;
 
@@ -10109,7 +10099,7 @@ De las Obligaciones de los Trabajadores Según la normativa del país el Contrat
 
 J.
 
-Permanencia de Cobertura de Medidas Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad ocupacional- vialambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día , los 7 días de la semana, así como la señalización y de limitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original. Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.) que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento.
+Permanencia de Cobertura de Medidas Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad ocupacional- vialambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día, los 7 días de la semana, así como la señalización y de limitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original. Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.) que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento.
 
 K.
 
@@ -10259,7 +10249,7 @@ Las Capacitaciones a programar abordarán los siguientes temas:
 
 Temas Frecuencia de Tiempo.
 
-(Tipo : CG-CE) Inducción del Programa de Al inicio del proyecto y a todo personal de nuevo ingreso al proyecto. (CG) Uso de EPP.
+(Tipo: CG-CE) Inducción del Programa de Al inicio del proyecto y a todo personal de nuevo ingreso al proyecto. (CG) Uso de EPP.
 
 Primeros Auxilios Al inicio del proyecto y a todo personal de nuevo al proyecto. (CG) Uso de extintores Durante el primer mes después de la orden de inicio y 4 meses de ejecución.
 
@@ -11241,7 +11231,7 @@ Las zapatas aisladas deberán ser construidas según las líneas y secciones tra
 
 a. Descripción.
 
-Este trabajo consistirá en la construcción de un Pedestal de Concreto denominado de acuerdo a planos “Pedestal Tipo C-01, de 50x50 cm armado con 8 varillas No. 6 y No.3 a/c 20cms, (el concreto deberá de tener una resistencia a la compresión de 280 kg/cm2 las varillas serán grado 60, deberá fabricarse sobre una superficie impermeable y limpia, haciéndose la mezcla en seco hasta lograr un aspecto uniforme, agregando después el agua en pequeñas cantidades hasta obtener un producto homogéneo y cuidando que durante la operación no se mezcle tierra ni impureza alguna, deberá tener la humedad estipulada en la proporción propuesta, que permita una consistencia plástica y trabajable a fin de llenar la sección encofrada sin dejar cavidades interiores. Todos los encofrados se construirán y mantendrán según el diseño de tal modo que el hormigón terminado tenga la forma y dimensiones indicadas en los planos. Previamente al vaciado del hormigón, las superficies interiores de los encofrados estarán limpias de toda suciedad, mortero y materia extraña y recubierta con aceite para moldes. Todo el hormigón será colocado en horas del día. Los métodos de colocación y compactación del hormigón serán tales como para obtener una masa uniforme y densa, evitando la segregación de materiales y el desplazamiento de la armadura. El hormigón será colocado dentro de los 30 minutos siguientes de su mezclado. Se cuidará de mantener continuamente húmeda la superficie del concreto durante los siete (7) días posteriores al vaciado. El encofrado no podrá ser retirado hasta transcurrido 48 horas desde la fundición y el elemento no se será sujeto de carga hasta que el hormigón haya alcanzado el 50% de su resistencia. El acabado final de la estructura consistirá en rellenar huecos, remover áreas sobresalientes o manchadas y reparar cualquier zona de panales u otros desperfectos que haya en la superficie. El acero de refuerzo se limpiará de toda suciedad y óxido no adherente. Las varillas se doblarán en frío, ajustándolas a los planos sin errores mayores de (1 cm.). Ninguna varilla deberá doblarse después de ser parcialmente embebida en concreto a menos que se indique o se autorice por la Supervisión.
+Este trabajo consistirá en la construcción de un Pedestal de Concreto denominado de acuerdo a planos “Pedestal Tipo C-01, de 50x50 cm armado con 8 varillas No. 6 y No. 3 a/c 20cms, (el concreto deberá de tener una resistencia a la compresión de 280 kg/cm2 las varillas serán grado 60, deberá fabricarse sobre una superficie impermeable y limpia, haciéndose la mezcla en seco hasta lograr un aspecto uniforme, agregando después el agua en pequeñas cantidades hasta obtener un producto homogéneo y cuidando que durante la operación no se mezcle tierra ni impureza alguna, deberá tener la humedad estipulada en la proporción propuesta, que permita una consistencia plástica y trabajable a fin de llenar la sección encofrada sin dejar cavidades interiores. Todos los encofrados se construirán y mantendrán según el diseño de tal modo que el hormigón terminado tenga la forma y dimensiones indicadas en los planos. Previamente al vaciado del hormigón, las superficies interiores de los encofrados estarán limpias de toda suciedad, mortero y materia extraña y recubierta con aceite para moldes. Todo el hormigón será colocado en horas del día. Los métodos de colocación y compactación del hormigón serán tales como para obtener una masa uniforme y densa, evitando la segregación de materiales y el desplazamiento de la armadura. El hormigón será colocado dentro de los 30 minutos siguientes de su mezclado. Se cuidará de mantener continuamente húmeda la superficie del concreto durante los siete (7) días posteriores al vaciado. El encofrado no podrá ser retirado hasta transcurrido 48 horas desde la fundición y el elemento no se será sujeto de carga hasta que el hormigón haya alcanzado el 50% de su resistencia. El acabado final de la estructura consistirá en rellenar huecos, remover áreas sobresalientes o manchadas y reparar cualquier zona de panales u otros desperfectos que haya en la superficie. El acero de refuerzo se limpiará de toda suciedad y óxido no adherente. Las varillas se doblarán en frío, ajustándolas a los planos sin errores mayores de (1 cm.). Ninguna varilla deberá doblarse después de ser parcialmente embebida en concreto a menos que se indique o se autorice por la Supervisión.
 
 Las varillas serán fijadas entre sí con alambre de amarre de modo que no puedan desplazarse durante el fundido y que el concreto pueda envolverlas completamente. Los pedestales de concreto deberán ser construidos según las líneas y secciones transversales
 
@@ -11467,7 +11457,7 @@ B Medición y Forma de Pago La medición y pago de esta actividad se realizará 
 
 5.2 Paredes de bloque de concreto de 15x20x40cm con 2#2 en la ciza refuerzo vertical #3 @40 cm todas las celdas llenas de concreto f´c= 210 kg/cm2 Unidad: m2
 
-• Descripción Este trabajo consistirá en la construcción de pared de bloque conformada por bloques de concreto Rellenando sus agujeros con Hormigón 1:2:3, ligando con mortero de cemento en una proporción 1:4. y armada con 1 Varilla No.3 cada 40 cms en sentido vertical y 2 No.2 a cada Hilada, en sentido horizontal. El mortero deberá mezclarse en bateas especiales, preferiblemente de madera, para que se consiga una mezcla homogénea y libre de impurezas El mortero deberá colocarse en la base y en los lados de los bloques en un espesor no menor de 1.2 cm.-El concreto debe fabricarse sobre una superficie impermeable y limpia, haciéndose la mezcla en seco hasta lograr un aspecto uniforme, agregando después el agua en pequeñas cantidades hasta obtener un producto homogéneo y cuidando que durante la operación no se mezcle tierra ni impureza alguna, deberá tener la humedad estipulada en la proporción propuesta, que permita una consistencia plástica y trabajable a fin de llenar los huecos del bloque sin dejar cavidades interiores. Los métodos de colocación y compactación del hormigón serán tales como para obtener una masa uniforme y densa, evitando la segregación de materiales y el desplazamiento de la armadura. El hormigón será colocado dentro de los 30 minutos siguientes de su mezclado. Se cuidará de mantener continuamente húmeda la superficie de los bloques rellenos de concreto durante los siete (7) días posteriores al vaciado. Toda la pared deberá ser construida a plomo de acuerdo con las dimensiones y líneas generales indicadas en los planos, uniendo los bloques de concreto con el mortero. Ningún mortero seco podrá ser mezclado nuevamente y utilizado en la obra. Los bloques deben estar secos al momento de pegarlos con el mortero, en hileras perfectamente niveladas y aplomadas con las uniones verticales sobre el centro del bloque inferior, para obtener una buena adherencia. Todas las unidades de bloques que se tenga que cortar, deberá de ser realizado a plomo y escuadra, para asegurar un buen ajuste. Antes de su colocación el acero de refuerzo se limpiará de toda suciedad y óxido no adherente.
+• Descripción Este trabajo consistirá en la construcción de pared de bloque conformada por bloques de concreto Rellenando sus agujeros con Hormigón 1:2:3, ligando con mortero de cemento en una proporción 1:4. y armada con 1 Varilla No. 3 cada 40 cms en sentido vertical y 2 No. 2 a cada Hilada, en sentido horizontal. El mortero deberá mezclarse en bateas especiales, preferiblemente de madera, para que se consiga una mezcla homogénea y libre de impurezas El mortero deberá colocarse en la base y en los lados de los bloques en un espesor no menor de 1.2 cm.-El concreto debe fabricarse sobre una superficie impermeable y limpia, haciéndose la mezcla en seco hasta lograr un aspecto uniforme, agregando después el agua en pequeñas cantidades hasta obtener un producto homogéneo y cuidando que durante la operación no se mezcle tierra ni impureza alguna, deberá tener la humedad estipulada en la proporción propuesta, que permita una consistencia plástica y trabajable a fin de llenar los huecos del bloque sin dejar cavidades interiores. Los métodos de colocación y compactación del hormigón serán tales como para obtener una masa uniforme y densa, evitando la segregación de materiales y el desplazamiento de la armadura. El hormigón será colocado dentro de los 30 minutos siguientes de su mezclado. Se cuidará de mantener continuamente húmeda la superficie de los bloques rellenos de concreto durante los siete (7) días posteriores al vaciado. Toda la pared deberá ser construida a plomo de acuerdo con las dimensiones y líneas generales indicadas en los planos, uniendo los bloques de concreto con el mortero. Ningún mortero seco podrá ser mezclado nuevamente y utilizado en la obra. Los bloques deben estar secos al momento de pegarlos con el mortero, en hileras perfectamente niveladas y aplomadas con las uniones verticales sobre el centro del bloque inferior, para obtener una buena adherencia. Todas las unidades de bloques que se tenga que cortar, deberá de ser realizado a plomo y escuadra, para asegurar un buen ajuste. Antes de su colocación el acero de refuerzo se limpiará de toda suciedad y óxido no adherente.
 
 Todas las barras de refuerzo se doblarán lentamente y en frío para darles la forma indicada en los planos. En ningún caso el traslape de las varillas No. 3 será menor de 30 cms por barra.
 
@@ -11777,7 +11767,7 @@ B Medición y Forma de Pago Se medirá por metro lineal, se pagará por el núme
 
 Estos precios y pagos constituirán la compensación total por suministro de material, mano de obra, equipo, herramientas y operaciones conexas necesarias para ejecutar la actividad.
 
-10.5 Tubería PVC SDR 13.5 de 1/2” de diámetro agua potable Unidad: m A Descripción La actividad consiste en el suministro e instalación de tubería PVC 1/2” RD- 13.5, el trazado y marcado con aparato de topografía, accesorios, etc. Además, debe considerar que las espigas y campanas deben limpiarse, aun y cuando aparentemente estén limpias, luego se le aplica el pegamento para PVC y se ensamblan las piezas, este procedimiento debe durar máximo 1 minuto y se debe realizar en condiciones secas.
+10.5 Tubería PVC SDR 13.5 de 1/2” de diámetro agua potable Unidad: m A Descripción La actividad consiste en el suministro e instalación de tubería PVC 1/2” RD-13.5, el trazado y marcado con aparato de topografía, accesorios, etc. Además, debe considerar que las espigas y campanas deben limpiarse, aun y cuando aparentemente estén limpias, luego se le aplica el pegamento para PVC y se ensamblan las piezas, este procedimiento debe durar máximo 1 minuto y se debe realizar en condiciones secas.
 
 CONSIDERACIONES DEL CÁLCULO DEL ANÁLISIS DE COSTO:
 
@@ -12557,11 +12547,11 @@ Según la normativa del país el Contratista debe contar con un Reglamento Inter
 
 1.F. Permanencia de Cobertura de Medidas:
 
-Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad y bioseguridad ocupacional- vial- ambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día, los 7 días de la Semana, así como la señalización y delimitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original.
+Queda establecido además, que El Contratista es el responsable de mantener las medidas de seguridad y bioseguridad ocupacional-vial- ambiental y de higiene (incluyendo la cobertura obligatoria de los seguros acá mencionados) con carácter permanente en el área total de influencia del Proyecto tanto en cobertura al personal laboral, así como a personas y vehículos que circulen transitoriamente o de visita y se responsabiliza por las consecuencias de daños ocasionados por no asignar personal capacitado para vigilar el cumplimiento de dichas medidas las 24 horas del día, los 7 días de la Semana, así como la señalización y delimitación aprobada.- Dicha cobertura deberá ser extendida a raíz de cualquier ampliación de obras y/o tiempo del contrato original.
 
 Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.) que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento. (Inc. Tipo L).
 
-2. P R O T O C O L O D E S E G U R I D A D Y BIOSEGURIDAD OCUPACIONAL
+2. PROTOCOLO DE SEGURIDAD Y BIOSEGURIDAD OCUPACIONAL
 
 2. A. Revisión y Aprobación del Protocolo de Bioseguridad:
 
@@ -13053,7 +13043,7 @@ Complementariamente, se llevará un Registro de Accidentes, que será remitido e
 
 4.3.h Presentar para aprobación los distintos Permisos de Trabajo con las medidas que garanticen la integridad física de los obreros, identificadas en los formatos preestablecidos en este documento y complementado con las medidas requeridas que se identifican en la Visita de Inspección previa de cada actividad del Programa de Trabajo.
 
-5 . - C A U S A L E S D E S A N C I O N E S P O R INCUMPLIMIENTOS DE SEGURIDAD.
+5 . - CAUSALES DE SANCIONES POR INCUMPLIMIENTOS DE SEGURIDAD.
 
 • Las áreas desatendidas de medidas de seguridad por más de 48 horas (incluye personal, señalizaciones, delimitación, dispositivos individuales y colectivos, etc.), que fueran reportadas por escrito por parte de la Supervisión y documentadas ante El Propietario serán sancionadas con multas definidas en este documento (Inc. Tipo L).
 
@@ -13107,19 +13097,19 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - ALTURA TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - ALTURA TRABAJO:
 
-FECHA :
+FECHA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
 USUARIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES:
 
@@ -13175,19 +13165,19 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - EXCAVACIONES Y TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - EXCAVACIONES Y TRABAJO:
 
 FECHA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
 USUARIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES:
 
@@ -13221,17 +13211,17 @@ Versión:
 
 Fecha de aprobación:
 
-PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - IZAJE Y GRÚAS TRABAJO :
+PERMISO ESCRITO PARA TRABAJOS DE ALTO RIESGO (PETAR) - IZAJE Y GRÚAS TRABAJO:
 
-UBICACIÓN :
+UBICACIÓN:
 
 CONTRATISTA USUARIO:
 
 FECHA:
 
-HORA INICIO :
+HORA INICIO:
 
-HORA FINAL :
+HORA FINAL:
 
 INSTRUCCIONES
 
@@ -13259,17 +13249,17 @@ Línea de anclaje sin absorbedor de impacto Filtro para polvo P100 5.- HERRAMIEN
 
 VERSION:
 
-PERMISO DE TRABAJO PARA TRAFICO Y SEGURIDAD VIAL TRABAJO :
+PERMISO DE TRABAJO PARA TRAFICO Y SEGURIDAD VIAL TRABAJO:
 
-VIGENCIA :
+VIGENCIA:
 
-UBICACIÓN :
+UBICACIÓN:
 
-HORA INICIO :
+HORA INICIO:
 
-CONTRATISTA :
+CONTRATISTA:
 
-HORA FINAL :
+HORA FINAL:
 
 × NA √
 
@@ -15285,7 +15275,7 @@ Total_Revisado Puerta P-C marco de ángulo metálico 1-1/2"x1- 1/2"x1/8", con re
 
 7.9 unidad
 
-3.00 23,493.60 70,480.80 7.10 Ventana V-1 de virio claro transparente , marco PVC claro medida unidad 3.00 3,263.00 9,789.00 7.11 Ventana V-2 de virio claro transparente , marco PVC claro medida unidad 2.00 3,654.56 7,309.12 7.12 Ventana V-5 marco de ángulo metálico 1-1/2"x1- 1/2"x1/8", con rejilla metálica adiamantada dim ancho variavble x 108 mm. Pintura anticorrosiva esmalte tipo fast dry color de pared con cerradura tipo gancho en cada ventana.
+3.00 23,493.60 70,480.80 7.10 Ventana V-1 de virio claro transparente, marco PVC claro medida unidad 3.00 3,263.00 9,789.00 7.11 Ventana V-2 de virio claro transparente, marco PVC claro medida unidad 2.00 3,654.56 7,309.12 7.12 Ventana V-5 marco de ángulo metálico 1-1/2"x1- 1/2"x1/8", con rejilla metálica adiamantada dim ancho variavble x 108 mm. Pintura anticorrosiva esmalte tipo fast dry color de pared con cerradura tipo gancho en cada ventana.
 
 7.13 unidad 3.00 19,578.00 58,734.00 unidad 4.00 23,493.60 93,974.40 Total PUERTAS Y VENTANAS 433,979.00 8 ACABADOS m2 150.00 420.67 63,100.50 8.2 Repello de paredes de bloque y losa de techo m2 741.30 122.97 91,157.66 8.3 Pulido de paredes de bloques y losa de techo m2 741.30 93.35 69,200.36 m2 130.00 585.47 76,111.10 9 ACABADOS ESTACIÓN 299,569.62 9.1 m2 513.68 915.80 470,428.14 9.2 Suminstro e instalación de tope de hule para andenes de 1.20x0.05x0.16m m 25.00 1,329.42 33,235.50 Total ACABADOS 503,663.64 10 INSTALACIONES HIDROSANITARIAS 10.2 Suministro e instalación de lavamanos color blanco, similar o mejor modelo Saturno 4" No. 401 de Incesa Standard unidad 5.00 5,310.35 26,551.75 unidad 5.00 3,358.32 16,791.60 10.3 Tubería PVC de 4" sdr de 41 aguas negras m 40.00 258.69 10,347.60 Total_Revisado ÍTEM DESCRIPCIÓN UNIDAD CANT P.U. (L)
 
@@ -15345,15 +15335,13 @@ Total_Revisado Puerta P-C marco de ángulo metálico 1-1/2"x1- 1/2"x1/8", con re
 
 ARTÍCULO 5.- Aprobar en todas y cada una de sus partes EL CONTRATO N°. AMDC-UEP-BIDOFID-CO-06-19 DE CONSTRUCCIÓN DE OBRAS DEL SISTEMA BTR:
 
-LOTE 3: ESTACIÓN DE PARADA IHMA (TRAMO 2) SUSCRITO EN FECHA 06 DE AGOSTO DE 2020 Y SU MODIFICACIÓN SUSCRITO EN FECHA 06 DE AGOSTO DE 2021, ENTRE LA MUNICIPALIDAD DEL DISTRITO CENTRAL POR MEDIO DEL SEÑOR ALCALDE DEL DISTRITO CENTRAL NASRY JUAN ASFURA ZABLAH Y EL SEÑOR ALLAN FABRICIO FIALLOS WILLIAMS, EN SU CONDICIÓN DE REPRESENTANTE LEGAL DE LA EMPRESA CONSORCIO D Y N A M I C A . , E L Q U E LITERALMENTE DICE:
+LOTE 3: ESTACIÓN DE PARADA IHMA (TRAMO 2) SUSCRITO EN FECHA 06 DE AGOSTO DE 2020 Y SU MODIFICACIÓN SUSCRITO EN FECHA 06 DE AGOSTO DE 2021, ENTRE LA MUNICIPALIDAD DEL DISTRITO CENTRAL POR MEDIO DEL SEÑOR ALCALDE DEL DISTRITO CENTRAL NASRY JUAN ASFURA ZABLAH Y EL SEÑOR ALLAN FABRICIO FIALLOS WILLIAMS, EN SU CONDICIÓN DE REPRESENTANTE LEGAL DE LA EMPRESA CONSORCIO DYNAMICA . , EL QUE LITERALMENTE DICE:
 
 Contrato N°. AMDC-UEP-BID-OFID-CO-06-19 de Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) Proceso SP N°. BRT-250-LPI-O-AMDC-BID-OFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO Este Convenio se celebra el seis (06) de agosto, de 2020 entre La Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con Tarjeta de Identidad N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.
 
 GDFM - N°. 004 - 2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con Tarjeta de Identidad número 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica, carácter que acredita en la Escritura Pública N° 96, inscrita con el número 55498, matrícula 2523072/2513531/2532011 del Registro Mercantil de Francisco Morazán en fecha 21 de agosto de 2019, autorizada por la Notaria Rebera Lizette Ráquel Obando; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según este Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte;
 
-Por cuanto el Contratante desea que el Contratista ejecute el proyecto: “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, Contrato N°.
-
-AMDC-UEP-BID-OFID-CO-06-19 (en adelante denominado “las Obras”) y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de estas;
+Por cuanto el Contratante desea que el Contratista ejecute el proyecto: “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, Contrato N°. AMDC-UEP-BID-OFID-CO-06-19 (en adelante denominado “las Obras”) y el Contratante ha aceptado la Oferta para la ejecución y terminación de dichas Obras y la subsanación de cualquier defecto de estas;
 
 En consecuencia, este Convenio atestigua lo siguiente:
 
@@ -17315,7 +17303,7 @@ No se vaciará el concreto hasta tanto la supervisión no haya aprobado el nivel
 
 Adicionalmente, deberá presentarse para aprobación de la supervisión el programa debidamente detallado del vaciado del concreto de la zapata, indicando si éste se realizará en una o varias etapas. En caso de fundición en varias etapas, deberá someterse a aprobación de la supervisión, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad, y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura entre las caras inferior y exterior de los dados o zapatas.
 
@@ -17341,7 +17329,7 @@ No se vaciará el concreto hasta tanto la supervisión no haya aprobado el nivel
 
 Adicionalmente, deberá presentarse para aprobación de la supervisión el programa debidamente detallado del vaciado del concreto de la viga, indicando si éste se realizará en una o varias etapas. En caso de fundición en varias etapas, deberá someterse a aprobación de la supervisión, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad, y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura entre las caras inferior y exterior de la viga.
 
@@ -17389,7 +17377,7 @@ Adicionalmente, deberá presentarse para aprobación del supervisor el programa 
 
 En caso de fundición en varias etapas, deberá someterse a aprobación del supervisor, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad, y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura caras del elemento.
 
@@ -17421,7 +17409,7 @@ Adicionalmente, deberá presentarse para aprobación del supervisor el programa 
 
 En caso de fundición en varias etapas, deberá someterse a aprobación del supervisor, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad, y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura caras del elemento.
 
@@ -17543,7 +17531,7 @@ Adicionalmente, deberá presentarse para aprobación del supervisor el programa 
 
 En caso de fundición en varias etapas, deberá someterse a aprobación del supervisor, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad, y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura caras del elemento.
 
@@ -17565,7 +17553,7 @@ Pintura cara exterior pared sobrecimiento.
 
 Unidad: metro cuadrado (m2) Definición y Alcance: Esta actividad consiste en la aplicación de pintura especificada en planos en las paredes pulidas indicadas en los planos y cuadros de acabados. Todas las superficies pulidas, llevarán aplicación de pintura de color elegido por la Supervisión o el Propietario, de acuerdo a los colores mostrados en las imágenes Render del Juego de Planos. Antes de aplicar pintura a las superficies pulidas, se eliminará toda arenilla y polvo adherido y se enmasillaran las juntas, ranuras, fisuras, nudosidades y los puntos donde se vean las cabezas de los clavos y tornillos. La marca de la pintura será, aprobada por la Supervisión. Se deberá colocar pintura para interior y exterior respectivamente. Todas las superficies a las que se le aplicará pintura, deberán estar secas y limpias. Cada mano deberá secarse por lo menos 24 horas antes de aplicar la siguiente. Todo lugar debe ser barrido a escoba antes de comenzar a pintar y se deberá remover de las superficies todo polvo, suciedad, asperezas, grasa y otras materias que afecten el trabajo terminado. El trabajo de pintura no se hará durante tiempo de extrema humedad.
 
-Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendaciones del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°.6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
+Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendaciones del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°. 6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
 
 Medición: Se medirá el área obtenida del producto de las longitudes por las alturas indicadas en los planos, dicha medida será expresada en metros cuadrados.
 
@@ -17731,7 +17719,7 @@ Adicionalmente, deberá presentarse para aprobación del supervisor el programa 
 
 En caso de fundición en varias etapas, deberá someterse a aprobación del supervisor, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura caras del elemento.
 
@@ -17761,9 +17749,7 @@ Medición: Se medirá el área obtenida en metros cuadrados, según lo indicado 
 
 Forma de Pago: Se pagará el número de metros cuadrados de firme de concreto medidos al precio unitario tratado en el Contrato.
 
-Piso vibrastone granito antideslizante gris 0.40X0.40m No.
-
-01002-081 Unidad: metro cuadrado (m2) Definición y Alcance: El trabajo corresponderá a instalación de piso de granito previamente codaleados, en los lugares indicados en los planos y cuadros de acabados. El piso a utilizar será de 40x40cm antiderrapante, de alto tráfico, del color y textura elegidos por la Supervisión y el Propietario. La moldura será del mismo material de la cerámica y será cortada en piezas de 7x30cm.El piso de granito debe ser de estructura firme y compacta, libre de grietas y rajaduras o de cualquier otro defecto que en la opinión de la Supervisión pueda afectar su resistencia o durabilidad.El agua debe ser limpia y clara, libre de elementos orgánicos. El piso de granito será instalado con mortero especial tipo Pegamix F15, Laticrete o similares recomendados por el vendedor y aprobados por la Supervisión. Sera fraguada con fragua de color similar al piso y especificaciones a elección y aprobación del Supervisor o siguiendo las recomendaciones e instrucciones del fabricante.
+Piso vibrastone granito antideslizante gris 0.40X0.40m No. 01002-081 Unidad: metro cuadrado (m2) Definición y Alcance: El trabajo corresponderá a instalación de piso de granito previamente codaleados, en los lugares indicados en los planos y cuadros de acabados. El piso a utilizar será de 40x40cm antiderrapante, de alto tráfico, del color y textura elegidos por la Supervisión y el Propietario. La moldura será del mismo material de la cerámica y será cortada en piezas de 7x30cm.El piso de granito debe ser de estructura firme y compacta, libre de grietas y rajaduras o de cualquier otro defecto que en la opinión de la Supervisión pueda afectar su resistencia o durabilidad.El agua debe ser limpia y clara, libre de elementos orgánicos. El piso de granito será instalado con mortero especial tipo Pegamix F15, Laticrete o similares recomendados por el vendedor y aprobados por la Supervisión. Sera fraguada con fragua de color similar al piso y especificaciones a elección y aprobación del Supervisor o siguiendo las recomendaciones e instrucciones del fabricante.
 
 El Contratista deberá de proveer la herramienta y equipo necesarios para efectuar este trabajo. La superficie de los pisos debe ser uniforme, sin resalte entre ladrillos. Las piezas de corte a mano o a máquina deben colocarse con el lado donde se practicó el corte, hacia la pared. El fraguado debe ser uniforme en todas las juntas, cuidando de fraguar la junta.
 
@@ -17783,7 +17769,7 @@ Adicionalmente, deberá presentarse para aprobación del supervisor el programa 
 
 En caso de fundición en varias etapas, deberá someterse a aprobación del supervisor, las medidas que garanticen el adecuado trabajo monolítico del elemento estructural, su baja permeabilidad y en términos generales, la no generación de zonas de vulnerabilidad considerando los esfuerzos y cargas a los que se somete el elemento en el punto específico que se generan juntas de construcción.
 
-Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC- 08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
+Se procederá a verificar antes del respectivo vaciado del concreto, el correcto armado del refuerzo y la geometría propuesta por parte de la supervisión. Los parámetros de calidad deberán ser de acuerdo a lo estipulado en el CHOC-08 o en su defecto el ACI-318 y cualquier otra norma que la supervisión estime aplicable.
 
 Debe tenerse especial cuidado durante el fraguado del concreto, frente a la humedad relativa, temperatura y viento, para tomar las medidas que se consideren pertinentes para impedir la generación de fisuraciones por gradientes de temperatura caras del elemento.
 
@@ -17951,7 +17937,7 @@ Forma de Pago: Se pagará el número de metros cuadrados de azulejo instalado, m
 
 Pintura en paredes internas y externas, cielo según plano de acabados Unidad: metro cuadrado (m2) Definición y Alcance: Esta actividad consiste en la aplicación de pintura especificada en planos en las paredes pulidas indicadas en los planos y cuadros de acabados. Todas las superficies pulidas, llevarán aplicación de pintura de color elegido por la Supervisión o el Propietario, de acuerdo a los colores mostrados en las imágenes Render del Juego de Planos. Antes de aplicar pintura a las superficies pulidas, se eliminará toda arenilla y polvo adherido y se enmasillaran las juntas, ranuras, fisuras, nudosidades y los puntos donde se vean las cabezas de los clavos y tornillos. La marca de la pintura será, aprobada por la Supervisión. Se deberá colocar pintura para interior y exterior respectivamente. Todas las superficies a las que se le aplicará pintura, deberán estar secas y limpias. Cada mano deberá secarse por lo menos 24 horas antes de aplicar la siguiente. Todo lugar debe ser barrido a escoba antes de comenzar a pintar y se deberá remover de las superficies todo polvo, suciedad, asperezas, grasa y otras materias que afecten el trabajo terminado. El trabajo de pintura no se hará durante tiempo de extrema humedad.
 
-Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendacines del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°.6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
+Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendacines del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°. 6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
 
 Medición: Se medirá el área obtenida del producto de las longitudes por las alturas indicadas en los planos, dicha medida será expresada en metros cuadrados.
 
@@ -18027,7 +18013,7 @@ Forma de Pago: Se pagará el número de metros cuadrados de pulido, medidos al p
 
 Pintura en paredes laterales latex semibrillante color azul Unidad: metro cuadrado (m2) Definición y Alcance: Esta actividad consiste en la aplicación de pintura especificada en planos en las paredes pulidas indicadas en los planos y cuadros de acabados. Todas las superficies pulidas, llevarán aplicación de pintura de color elegido por la Supervisión o el Propietario, de acuerdo a los colores mostrados en las imágenes Render del Juego de Planos. Antes de aplicar pintura a las superficies pulidas, se eliminará toda arenilla y polvo adherido y se enmasillarán las juntas, ranuras, fisuras, nudosidades y los puntos donde se vean las cabezas de los clavos y tornillos. La marca de la pintura será, aprobada por la Supervisión. Se deberá colocar pintura para interior y exterior respectivamente. Todas las superficies a las que se le aplicará pintura, deberán estar secas y limpias. Cada mano deberá secarse por lo menos 24 horas antes de aplicar la siguiente. Todo lugar debe ser barrido a escoba antes de comenzar a pintar y se deberá remover de las superficies todo polvo, suciedad, asperezas, grasa y otras materias que afecten el trabajo terminado. El trabajo de pintura no se hará durante tiempo de extrema humedad.
 
-Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendaciones del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°.6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
+Todas las superficies sobre las que se apliquen los materiales de esta sección se preparan según las recomendaciones del fabricante respectivo. Toda superficie se lijará entre mano de pintura con lija N°. 6/0220 o más fina. Se aplicarán dos manos de pintura para cubrir la superficie totalmente con el color escogido. Previo a la aplicación de la pintura se deberá aplicar un sellador a toda el área a pintar.
 
 Medición: Se medirá el área obtenida del producto de las longitudes por las alturas indicadas en los planos, dicha medida será expresada en metros cuadrados.
 
@@ -18767,15 +18753,11 @@ MM.
 
 MM MM
 
-MM. cuadrada 1 ½” a 1 ½” 100 90 a 25 a 1” ¾” 1/2” 3/8” No.
-
-25.4 19.05 12.7M 95 No. 4 5 MM MM.
+MM. cuadrada 1 ½” a 1 ½” 100 90 a 25 a 1” ¾” 1/2” 3/8” No. 25.4 19.05 12.7M 95 No. 4 5 MM MM.
 
 M MM
 
-60 - 0 a 15 - 0 a 5 - - - - 2 ½” a 1 ½” - - 100 90 a 35 a 70 0 a 15 - 0 a 5 - - - - 2” a No. 4 - - - 100 95 a 100 - 1 ½” a No.
-
-4 - - - - 100 95 a 35 a 10 a 70 - 30 - 0 a 5 - 100 - 35 a 70 - 10 a 30 0 a 5 - 1” a No. 4 - - - - - 100 95 a ¼” a No. 4 - - - - - - 100 90 a ½” A No. 4 - - - - - - - 100 90 a 2” a 1” - - - - 100 90 a 100 0 a 15 - 0 a 5 - - - 1 ½” a ¾” - - - - - 100 20 a Características: Las cantidades de sustancias perjudiciales en el agregado grueso, determinadas en muestras que cumplan con los requisitos de granulometría especificados anteriormente, no excederán los límites prescritos en la siguiente tabla:
+60 - 0 a 15 - 0 a 5 - - - - 2 ½” a 1 ½” - - 100 90 a 35 a 70 0 a 15 - 0 a 5 - - - - 2” a No. 4 - - - 100 95 a 100 - 1 ½” a No. 4 - - - - 100 95 a 35 a 10 a 70 - 30 - 0 a 5 - 100 - 35 a 70 - 10 a 30 0 a 5 - 1” a No. 4 - - - - - 100 95 a ¼” a No. 4 - - - - - - 100 90 a ½” A No. 4 - - - - - - - 100 90 a 2” a 1” - - - - 100 90 a 100 0 a 15 - 0 a 5 - - - 1 ½” a ¾” - - - - - 100 20 a Características: Las cantidades de sustancias perjudiciales en el agregado grueso, determinadas en muestras que cumplan con los requisitos de granulometría especificados anteriormente, no excederán los límites prescritos en la siguiente tabla:
 
 PORCENTAJES MÁXIMOS PERMITIDOS DE SUSTANCIAS PERJUDICIALES DEL AGREGADO GRUESO Sustancia Porcentaje Máximo en Peso de la Muestra Total Grumos de arcilla 0.25 Partículas suaves 5.00 Pedernal fácilmente desintegrable 1.00 Material que pasa por la malla No. 200
 
@@ -18821,7 +18803,7 @@ Agregado Fino Este agregado fino consiste de arena natural, fabricada o la combi
 
 Dependiendo de dónde se colocará el concreto, las substancias deletéreas no deben exceder los siguientes porcentajes:
 
-Substancias Deletéreas C l a s e A (%max) Terrones de arcilla y partículas desmenuzables 3.0 Carbónde piedra y lignito 0.25 Material fino que pasa el tamiz Nº200(0.075mm.): a)En concreto sujeto asuperficie de abrasión
+Substancias Deletéreas Clase A (%max) Terrones de arcilla y partículas desmenuzables 3.0 Carbónde piedra y lignito 0.25 Material fino que pasa el tamiz Nº200(0.075mm.): a)En concreto sujeto asuperficie de abrasión
 
 b) Otras clases de concreto 2.0 3.0 0.5 Otras substancias de letéreas (tales como esquisto, álcali,mica,partículas revestidas,partículas blandas y laminadas) Sanidad: No debe tener una pérdida mayor que el10% con la prueba del sulfato de sodio durante 5 ciclos.
 
@@ -18833,7 +18815,7 @@ Tamaño deTamiz % que pasa 3/8”(9.50mm.) 100 No 4(4.75mm.) 95-100 No. 16(1.18m
 
 3.2 al estar usando el agregado fino de una misma fuente no debe variar en más de 0.20. Para calcular el módulo de finura habrá que usar todos los tamices que no están especificados en la graduación, es decir, hay que usar los tamices siguientes:
 
-3/8”, No.4, No.8, No.16, No.30, No.50 y No.100.
+3/8”, No. 4, No. 8, No. 16, No. 30, No. 50 y No. 100.
 
 Agregado grueso El agregado grueso consistirá de piedra quebrada, grava, escorias de altos hornos, u otro material inerte, aprobado de similares características o combinaciones, debiendo ser duro, resistente, libre de capas adherentes y de acuerdo a las especificaciones AASHTOM-80-87. Deberá cumplir con los requerimientos siguientes:
 
@@ -18841,7 +18823,7 @@ Substancias deletéreas:
 
 Dependiendo en qué tipo de estructura se usará el concreto, las substancias deletéreas, no deben exceder los siguientes porcentajes:
 
-Substancias Deletéreas C l a s e A (%max) Terrones de arcilla y partículas desmenuzables 2.0 Partículasblandas(con peso específico menor que2.40) 3.0 Suma de(a) y (b) 3.0 Material fino que pasa eltamizNº200 3.0 Carbón de piedra y lignito 0.5 Porcentaje de desgaste:
+Substancias Deletéreas Clase A (%max) Terrones de arcilla y partículas desmenuzables 2.0 Partículasblandas(con peso específico menor que2.40) 3.0 Suma de(a) y (b) 3.0 Material fino que pasa eltamizNº200 3.0 Carbón de piedra y lignito 0.5 Porcentaje de desgaste:
 
 Realizado mediante la prueba de Los Ángeles, no será mayor que 40%.
 
@@ -19145,7 +19127,7 @@ El mortero será compuesto de tres partes de arena lavada y una parte de cemento
 
 La arena deberá cumplir con la siguiente graduación:
 
-Tamaño deTamiz No.4 (4.75mm.) % que pasa100 No.8 (2.36mm.) 80-95 No.16 (1.18mm.) 60-85 No.50 (0.30mm.) 15-35 No.100 (0.15mm.) 0-5 Método constructivo Se usará el mortero dentro de los 30 minutos de haber sido mezclado y no se permitirá el retemplado del mismo.
+Tamaño deTamiz No. 4 (4.75mm.) % que pasa100 No. 8 (2.36mm.) 80-95 No. 16 (1.18mm.) 60-85 No. 50 (0.30mm.) 15-35 No. 100 (0.15mm.) 0-5 Método constructivo Se usará el mortero dentro de los 30 minutos de haber sido mezclado y no se permitirá el retemplado del mismo.
 
 Las piedras y las ligas deben presentarse en un aspecto nítido, las obras de mampostería que obstaculicen el libre drenaje de las aguas, deberán tener capas filtrantes en sus superficies de contacto con el terreno natural, núcleo de pavimento o terraplén y además conductos de tubería a través de la mampostería para evacuar tales aguas, según ordene el Supervisor.
 
@@ -19441,7 +19423,7 @@ Unidad 170 Puerta P-5 y P-8 cortina troquelada microperforada con motor eléctri
 
 Unidad N° Concepto de Obra Unidad Cantidad Precio Unitario Total Unidad Total "XVI" 262,706.97 XVII PGAS Y PMT 173 PGAS (Plan de Gestiòn Ambiental y Social) Global 1 95,000.00 95,000.00 174 PMT (Plan de Manejo de Trafico) Global 1 95,000.00 95,000.00 Total "XVII" 190,000.00 ∑TOTAL (I+II+III+IV+V+VI+VII+VIII+IX+X+XI+XII+XIII+XIV+XV+XVI+XVII) 5,345,406.93 U VARIACIONES 174 (5%) ∑ TOTAL.
 
-Global 1 267,270.3 3 267,270.33 Total "U" 267,270.33 TOTAL PROYECTO EN LEMPIRAS 5,612,677.26 Modificación N°.1 al Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) Proceso SP N°. BRT-250-LPI-O-AMDC-BIDOFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO Nosotros, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con documento nacional de identificación N°.0801-1958- 03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°.004-2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con documento nacional de identificación N°.0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según el Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte; convenimos en celebrar y en efecto celebramos la presente Modificación N°.1 al contrato No. AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se detallan:
+Global 1 267,270.3 3 267,270.33 Total "U" 267,270.33 TOTAL PROYECTO EN LEMPIRAS 5,612,677.26 Modificación N°. 1 al Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) Proceso SP N°. BRT-250-LPI-O-AMDC-BIDOFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO Nosotros, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con documento nacional de identificación N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°. 004-2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con documento nacional de identificación N°. 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según el Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte; convenimos en celebrar y en efecto celebramos la presente Modificación N°. 1 al contrato No. AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se detallan:
 
 CONSIDERANDO 1: Que en fecha seis (06) de agosto de 2020, se suscribió el contrato, entre la Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y el Consorcio Dynamica, para la “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, por un monto de cinco millones seiscientos doce mil seiscientos setenta y siete lempiras con 26/100 (L 5,612,677.26) y cuyo plazo de ejecución es de seis
 
@@ -19457,7 +19439,7 @@ CONSIDERANDO 5: Que el Contratista, solicitó sustitución del ingeniero Residen
 
 Omar Napoleón Ávila Rodríguez, todos parte del personal clave establecido en el contrato, debido a que por motivos personales y de fuerza mayor, dejaron de laborar para el Consorcio, por lo que este ha propuesto los reemplazos, cuyos curriculum vitae han sido evaluados por la supervisión y la administración del contrato, cumpliendo con los requerimientos solicitados en el documento de licitación para cada uno, y que han sido aceptados.
 
-CONSIDERANDO 6: Que la Empresa Supervisora Saybe y Asociados, en su calidad de Gerente de Obras, en base a los análisis y cálculos realizados, según consta en el Informe Especial Modificación # 1, luego de evaluadas las diferentes propuestas, determina aceptables las justificaciones planteadas, considerándose fuerza mayor o caso fortuito durante el proceso de ejecución del proyecto; por lo que ha emitido su dictamen que textualmente indica que: “Es procedente la aprobación de la modificación No.1 al contrato N°. AMDC-UEP-BID-OFID-CO-06-19, Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) y que las actividades contenidas en dicha Modificación son necesarias, en beneficio del proyecto y para los mejores intereses del propietario”.
+CONSIDERANDO 6: Que la Empresa Supervisora Saybe y Asociados, en su calidad de Gerente de Obras, en base a los análisis y cálculos realizados, según consta en el Informe Especial Modificación # 1, luego de evaluadas las diferentes propuestas, determina aceptables las justificaciones planteadas, considerándose fuerza mayor o caso fortuito durante el proceso de ejecución del proyecto; por lo que ha emitido su dictamen que textualmente indica que: “Es procedente la aprobación de la modificación No. 1 al contrato N°. AMDC-UEP-BID-OFID-CO-06-19, Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) y que las actividades contenidas en dicha Modificación son necesarias, en beneficio del proyecto y para los mejores intereses del propietario”.
 
 CONSIDERANDO 7: Que del análisis que llevó a cabo el Gerente de Obras, se determina procedente la sustitución del personal clave y ampliar el plazo de ejecución de obras en tres y medio (3.5) meses; por lo que la nueva Fecha Prevista de Terminación de las Obras es de nueve y medio (9.5) meses, a partir de la fecha indicada en la orden de inicio definitiva, establecida el 15 de febrero de 2021, para una nueva fecha de finalización de contrato el 30 de noviembre de 2021.
 
@@ -19465,7 +19447,7 @@ CONSIDERANDO 8: Fundamentamos el reconocimiento de la solicitud presentada por e
 
 POR TANTO
 
-En base a lo indicado en los considerandos anteriores, a los análisis técnicos realizados por el Gerente de obras, conforme a las cláusulas de las Condiciones Generales del Contrato CGC 9.1, 10.1, 11.1, 12.1, 13.1, 16.1, 17.1, 27.2, 27.4, 28.1, 28.2, 30.1, 32.1, 32.2, 44.1 (f), (g), (h), 44.2, 52.1, de las Condiciones Especiales del Contrato CEC 13.1, 27.1, 28.2, 52.1; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202; 203 y 240 del Reglamento de la Ley de Contratación del Estado, las partes convienen en suscribir la presente Modificación N°.1 al contrato, de conformidad con las estipulaciones especiales siguientes:
+En base a lo indicado en los considerandos anteriores, a los análisis técnicos realizados por el Gerente de obras, conforme a las cláusulas de las Condiciones Generales del Contrato CGC 9.1, 10.1, 11.1, 12.1, 13.1, 16.1, 17.1, 27.2, 27.4, 28.1, 28.2, 30.1, 32.1, 32.2, 44.1 (f), (g), (h), 44.2, 52.1, de las Condiciones Especiales del Contrato CEC 13.1, 27.1, 28.2, 52.1; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202; 203 y 240 del Reglamento de la Ley de Contratación del Estado, las partes convienen en suscribir la presente Modificación N°. 1 al contrato, de conformidad con las estipulaciones especiales siguientes:
 
 PRIMERO: Se modifica la cláusula CGC 1.1(r) de las Condiciones Especiales del Contrato para que se lea de la siguiente forma:
 
@@ -19499,9 +19481,9 @@ CUARTO: De conformidad a la cláusula CGC 51 de las CGC y CEC, El Contratista de
 
 QUINTO: De conformidad a la cláusula CGC 52 de las CGC y CEC, El Contratista deberá ampliar la vigencia de la Garantía bancaria de cumplimiento.
 
-SEXTO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°.1.
+SEXTO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°. 1.
 
-En fe de lo cual, firmamos la presente Modificación N°.1 del contrato de construcción del Proyecto, en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los 06 días del mes de agosto de 2021.
+En fe de lo cual, firmamos la presente Modificación N°. 1 del contrato de construcción del Proyecto, en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los 06 días del mes de agosto de 2021.
 
 Por y en representación de la Alcaldía Municipal del Distrito Central “El Contratante”:
 
@@ -19511,25 +19493,23 @@ _____________________________ Nasry Juan Asfura Zablah Alcalde Municipal Alcald�
 
 FYS
 
-_____________________________ Allan Fabricio Fiallos Williams Representante Legal Consorcio Dynamica Modificación N°.2 al Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) Proceso SP N°. BRT-250-LPI-O-AMDC-BIDOFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO Nosotros, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con documento nacional de identificación N°.0801-1958- 03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°.004-2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con documento nacional de identificación N°.0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según el Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte; convenimos en celebrar y en efecto celebramos la presente Modificación N°.2 al contrato No. AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se detallan:
+_____________________________ Allan Fabricio Fiallos Williams Representante Legal Consorcio Dynamica Modificación N°. 2 al Contrato N°. AMDC-UEP-BIDOFID-CO-06-19 Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2) Proceso SP N°. BRT-250-LPI-O-AMDC-BIDOFID-02-19 Préstamos BID N°. 2465/BL-HO y OFID N°. 1525/0P-HO Nosotros, la Alcaldía Municipal del Distrito Central representada por Nasry Juan Asfura Zablah, mayor de edad, empresario, hondureño y de este domicilio, con documento nacional de identificación N°. 0801-1958-03886, actuando en su condición de Alcalde Municipal del Distrito Central, nombramiento que acredita con la Credencial emitida por la Gobernación Departamental de Francisco Morazán mediante Certificación de Acta N°.GDFM - N°. 004-2018 de fecha 19 de enero de 2018 (en adelante denominado “el Contratante”) por una parte, y Allan Fabricio Fiallos Williams, mayor de edad, con documento nacional de identificación N°. 0605-1982-00708, de este domicilio, en su condición de Representante Legal del Consorcio Dynamica; el consorcio consistente de las siguientes entidades, cada integrante de la cual será conjunta y solidariamente responsable para con el Cliente por todas las obligaciones del Consultor según el Contrato, es decir Geo Construcciones S.A. de C.V., representada por Octavio José Pineda Paredes; Proyecto de Ingeniería Centroamericana, S. de R.L. (PROINCA), representada por Allan Fabricio Fiallos Williams y Empresa en Obras de Construcción, S.A. de C.V. (ENOC,SA), representada por Edduin Enoc García Matute (en adelante denominado “el Contratista”) por la otra parte; convenimos en celebrar y en efecto celebramos la presente Modificación N°. 2 al contrato No. AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, del Programa de Transporte Público para el Distrito Central (Tegucigalpa y Comayagüela), de acuerdo con los antecedentes y estipulaciones que a continuación se detallan:
 
 CONSIDERANDO 1: Que en fecha seis (06) de agosto de 2020, se suscribió el contrato, entre la Alcaldía Municipal del Distrito Central, ejecutor del Programa de Trasporte Público para el Distrito Central y el Consorcio Dynamica, para la “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, por un monto de cinco millones seiscientos doce mil seiscientos setenta y siete lempiras con 26/100 (L 5,612,677.26) y cuyo plazo de ejecución es de seis
 
 (6) meses, a partir de la fecha indicada en la orden de inicio definitiva, establecida el 15 de febrero de 2021, para una fecha de finalización de contrato el 14 de agosto de 2021.
 
-CONSIDERANDO 2: Que en fecha seis (06) de agosto de 2021, se suscribió la Modificación N°.1 al contrato N°.
+CONSIDERANDO 2: Que en fecha seis (06) de agosto de 2021, se suscribió la Modificación N°. 1 al contrato N°. AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, misma que consistió en la ampliación del plazo contractual por tres y medio meses, ya que se presentaron situaciones imprevistas y de fuerza mayor, que afectó el programa de trabajo y cuyo plazo de ejecución se modificó a nueve y medio (9.5) meses, a partir de la fecha indicada en la orden de inicio definitiva, y sustitución de miembros del personal clave.
 
-AMDC-UEP-BID-OFID-CO-06-19, “Construcción de obras del sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”, misma que consistió en la ampliación del plazo contractual por tres y medio meses, ya que se presentaron situaciones imprevistas y de fuerza mayor, que afectó el programa de trabajo y cuyo plazo de ejecución se modificó a nueve y medio (9.5) meses, a partir de la fecha indicada en la orden de inicio definitiva, y sustitución de miembros del personal clave.
-
-CONSIDERANDO 3: Que el contratista presentó solicitud de ajuste de cantidades al Contrato por variaciones en la lista de cantidades consistentes en la reducción e incremento de cantidades de obra contratadas e inclusión de actividades nuevas, todas requeridas con la finalidad que el proyecto cumpla con todas las especificaciones, normas de seguridad, funcionalidad y calidad establecidas para el buen funcionamiento del proyecto y que no fueron contempladas en el contrato original ni en modificaciones anteriores; los ajustes a la lista de cantidades han sido analizados, justificado y aprobado según Informe Especial Modificación No.2 al contrato AMDC-UEP-BID-OFID-CO-06-19, de justificación de ampliación de monto contractual, rendido por el Gerente de Obras, la empresa Saybe y Asociados.
+CONSIDERANDO 3: Que el contratista presentó solicitud de ajuste de cantidades al Contrato por variaciones en la lista de cantidades consistentes en la reducción e incremento de cantidades de obra contratadas e inclusión de actividades nuevas, todas requeridas con la finalidad que el proyecto cumpla con todas las especificaciones, normas de seguridad, funcionalidad y calidad establecidas para el buen funcionamiento del proyecto y que no fueron contempladas en el contrato original ni en modificaciones anteriores; los ajustes a la lista de cantidades han sido analizados, justificado y aprobado según Informe Especial Modificación No. 2 al contrato AMDC-UEP-BID-OFID-CO-06-19, de justificación de ampliación de monto contractual, rendido por el Gerente de Obras, la empresa Saybe y Asociados.
 
 CONSIDERANDO 4: Que de la revisión realizada por el Gerente de Obras, este determinó que hay actividades que es necesario modificar la cantidad, ya que está aumenta o disminuye y adicionar actividades nuevas requeridas para el proyecto, cambios motivados por:
 
 i) que en las revisiones realizadas a la lista de cantidades durante la ejecución de las obras se ha determinado la necesidad de ajuste a las cantidades, determinando que existen muchas actividades contractuales que disminuyen ya que no será necesario ejecutarlas y el incremento de las actividades contractuales cuyo alcance supera lo considerado originalmente, cambios que surgen producto de las mejoras que se han realizado al diseño original; ii) Sustitución de perfiles W por tubos estructurales a causa de la inexistencia en el mercado nacional y regional de perfiles estructurales tipo W especificados para la estación como una repercusión de la demanda y producción en fábricas, ocasionada por la pandemia del COVID-19 a partir del segundo semestre del año 2020 y que aún siguen vigentes; iii) Incorporación de actividades eléctricas adicionales a causa de la reubicación de dos postes de tendido eléctrico y despeje de líneas primarias en la zona del proyecto, la complejidad de las obras y las demoras en la gestión de los permisos tienen un impacto económico en el proyecto que no estaba considerado originalmente; iv) Incorporación de la actividad de construcción de bordillos de seguridad de características especiales en los costados de la estación para evitar accidentes de choque de los buses que circularan por el carril del BTR con las plataformas de abordaje en la estación.
 
-CONSIDERANDO 5: Que el análisis que realizó la empresa Saybe y Asociados en su calidad de Gerente de Obras, debido a los rediseños realizados y a los trabajos nuevos requeridos, luego de haber revisado, analizado y aprobado la lista de cantidades recomienda modificar según anexo adjunto. La cuantificación de las nuevas cantidades resultantes del análisis de la supervisión se detalla: por aumento de obra de contrato (+ L 46,994.75 = +0.84%), por disminución de obra del contrato ( - L 932,525.59 = - 16.61%), por incorporación de obra nueva (+ L 1,649,498.08 = + 29.39%); lo que genera un resultado de ampliación del monto para extender la cobertura de los trabajos contratados, mediante esta modificación No.2, por el valor de setecientos sesenta y tres mil novecientos sesenta y siete lempiras con 24/100 (L 763,967.24), equivalente a un 13.61% del monto original del contrato, para un monto total acumulado de contrato que asciende a seis millones trescientos setenta y seis mil seiscientos cuarenta y cuatro lempiras con 50/100 (L 6,376,644.50).
+CONSIDERANDO 5: Que el análisis que realizó la empresa Saybe y Asociados en su calidad de Gerente de Obras, debido a los rediseños realizados y a los trabajos nuevos requeridos, luego de haber revisado, analizado y aprobado la lista de cantidades recomienda modificar según anexo adjunto. La cuantificación de las nuevas cantidades resultantes del análisis de la supervisión se detalla: por aumento de obra de contrato (+ L 46,994.75 = +0.84%), por disminución de obra del contrato ( - L 932,525.59 = - 16.61%), por incorporación de obra nueva (+ L 1,649,498.08 = + 29.39%); lo que genera un resultado de ampliación del monto para extender la cobertura de los trabajos contratados, mediante esta modificación No. 2, por el valor de setecientos sesenta y tres mil novecientos sesenta y siete lempiras con 24/100 (L 763,967.24), equivalente a un 13.61% del monto original del contrato, para un monto total acumulado de contrato que asciende a seis millones trescientos setenta y seis mil seiscientos cuarenta y cuatro lempiras con 50/100 (L 6,376,644.50).
 
-CONSIDERANDO 6: Que la empresa Saybe y Asociados en su calidad de Gerente de Obras ha emitido su dictamen que textualmente indica que: “Es procedente la aprobación de la Modificación No.2 al contrato No. AMDC-UEP-BIDOFID-CO-06-19 de manera que se pueda continuar con el proyecto “Construcción de Obras del Sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”.
+CONSIDERANDO 6: Que la empresa Saybe y Asociados en su calidad de Gerente de Obras ha emitido su dictamen que textualmente indica que: “Es procedente la aprobación de la Modificación No. 2 al contrato No. AMDC-UEP-BIDOFID-CO-06-19 de manera que se pueda continuar con el proyecto “Construcción de Obras del Sistema BTR: Lote 3: Estación de Parada IHMA (Tramo 2)”.
 
 CONSIDERANDO 7: Que del análisis que llevó a cabo el Gerente de Obras, se determina procedente modificar la lista de planos y modificar la lista de cantidades; por el valor de setecientos sesenta y tres mil novecientos sesenta y siete lempiras con 24/100 (L 763,967.24), equivalente a un 13.61% del monto original del contrato, para un monto total acumulado de contrato que asciende a seis millones trescientos setenta y seis mil seiscientos cuarenta y cuatro lempiras con 50/100 (L 6,376,644.50).
 
@@ -19537,7 +19517,7 @@ CONSIDERANDO 8: Fundamentamos el reconocimiento de la solicitud presentada por e
 
 POR TANTO
 
-En base a lo indicado en los considerandos anteriores, a los análisis técnicos realizados por el Gerente de obras, conforme a las cláusulas de las Condiciones Generales del Contrato CGC 10.1, 11.1, 12.1, 13.1, 16.1, 17.1, 27.2, 27.4, 28.1, 28.2, 30.1, 32.1, 32.2, 44.1 (f), (g), (h), 44.2, 52.1, de las Condiciones Especiales del Contrato CEC 13.1, 27.1, 28.2, 52.1; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202; 203 y 240 del Reglamento de la Ley de Contratación del Estado, las partes convienen en suscribir la presente Modificación N°.2 al contrato, de conformidad con las estipulaciones especiales siguientes:
+En base a lo indicado en los considerandos anteriores, a los análisis técnicos realizados por el Gerente de obras, conforme a las cláusulas de las Condiciones Generales del Contrato CGC 10.1, 11.1, 12.1, 13.1, 16.1, 17.1, 27.2, 27.4, 28.1, 28.2, 30.1, 32.1, 32.2, 44.1 (f), (g), (h), 44.2, 52.1, de las Condiciones Especiales del Contrato CEC 13.1, 27.1, 28.2, 52.1; así como en el art. 4; 119; 121; 123 de la Ley de Contratación del Estado y art. 202; 203 y 240 del Reglamento de la Ley de Contratación del Estado, las partes convienen en suscribir la presente Modificación N°. 2 al contrato, de conformidad con las estipulaciones especiales siguientes:
 
 PRIMERO: Se modifica la cláusula tres del contrato para que se lea de la siguiente forma:
 
@@ -19549,9 +19529,9 @@ TERCERO: Se modifica la lista de planos del contrato original, según lista modi
 
 CUARTO: Se modifica la lista de cantidades del contrato original, según lista modificada en anexo B.
 
-QUINTO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°.2.
+QUINTO: Continúan vigentes las demás condiciones del contrato establecidas originalmente que no se modifican en la presente Modificación N°. 2.
 
-En fe de lo cual, firmamos la presente Modificación N°.2 del contrato de construcción del Proyecto, en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los 06 días del mes de octubre de 2021.
+En fe de lo cual, firmamos la presente Modificación N°. 2 del contrato de construcción del Proyecto, en la ciudad de Tegucigalpa, Municipio del Distrito Central, a los 06 días del mes de octubre de 2021.
 
 Por y en representación de la Alcaldía Municipal del Distrito Central “El Contratante”:
 

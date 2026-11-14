@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Ejecutivo Número 118-2025, Acuerdos Ejecutivos Nos. 183-2025, 188-2026, 353-2025, 221-2025, 401-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260123-37051/download"
 extraido: "2026-11-09"
-huella: "3f15f16b487b7841"
+huella: "2a18de300c130450"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 118-2025
@@ -37,9 +37,7 @@ CONSIDERANDO: Que es prioridad del Gobierno de la República, a través de la Se
 
 CONSIDERANDO: Que en fecha 24 de marzo de 2022, se suscribió el Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH), Asociación Nacional de Productores de Granos Básicos (PROGRANO), El Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH), Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL), Asociación de Productores Agrícolas Negriteños (APRANE), Asociación de Productores de Maíz de Honduras (APROMAIZH) y por el Gobierno de la República, las Secretarías de Agricultura y Ganadería
 
-(SAG) y Desarrollo Económico (SDE), elevado Acuerdo No.
-
-SAG- 125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
+(SAG) y Desarrollo Económico (SDE), elevado Acuerdo No. SAG-125-2022, publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo del 2022.
 
 CONSIDERANDO: Que en fecha 23 de julio de 2024, se suscribió el Addendum Número dos al Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, entre la Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA);
 
@@ -47,11 +45,11 @@ Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH); Asociaci�
 
 Unión de Organizaciones de Productores Agropecuarios Oriente Limitada (UNOPROL); Asociación de Productores Agrícolas Negriteños (APRANE); Asociación de Productores de Maíz de Honduras (APROMAIZH); Asociación Hondureña de Agricultores (ASOHAGRI) y por el Gobierno de la República, las Secretarías de Agricultura y Ganadería (SAG) y Desarrollo Económico (SDE), elevado Acuerdo Ejecutivo Número 137-2024, publicado en el Diario Oficial “La Gaceta” en fecha 14 de marzo de 2025.
 
-CONSIDERANDO: Que en las fechas 27 de mayo de 2025 y 11 de junio de 2025, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, en donde acordaron las condiciones para la compra de maíz de la Cosecha Nacional 2025-2026, tal como consta en el Acta No.096- 2025; procediendo a firmar del Addendum Número Tres al referido Convenio; asegurando la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano, la compra de la producción de maíz blanco, en apoyo a los Productores, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
+CONSIDERANDO: Que en las fechas 27 de mayo de 2025 y 11 de junio de 2025, se reunió la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos, en donde acordaron las condiciones para la compra de maíz de la Cosecha Nacional 2025-2026, tal como consta en el Acta No. 096-2025; procediendo a firmar del Addendum Número Tres al referido Convenio; asegurando la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano, la compra de la producción de maíz blanco, en apoyo a los Productores, con un precio justo y así contribuir con el eslabón principal de la cadena productiva de maíz.
 
 POR TANTO:
 
-En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No.129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG- 125-2022 y Acuerdo Ejecutivo Numero 137-2024.
+En uso de las facultades y en aplicación de los Artículos 245 Numeral 11, de la Constitución de la República; 33, 116, 118, 119 Numeral 2 y 122 de la Ley General de la Administración Pública, 12,14 y 19 de la Ley de Modernización y Desarrollo del Sector Agrícola; 54 del Decreto Ejecutivo PCM-008-97 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo; Decreto No. 129 y Decreto No. 222-92 del Protocolo de Adhesión de Honduras al Convenio sobre el Régimen Arancelario y Aduanero Centroamericano y sus Reformas; Acuerdo No. SAG-125-2022 y Acuerdo Ejecutivo Numero 137-2024.
 
 ACUERDA:
 
@@ -71,7 +69,7 @@ b) del Numeral 13, y Segundo Párrafo del Numeral 19 del Convenio para las Negoc
 
 1. VOLUMEN DE COMPRA.
 
-a) La Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), aseguran a los productores nacionales que acrediten mediante el respectivo carné, que forman parte de cualquiera de las Organizaciones de Productores de Maíz Blanco firmantes del presente Convenio, la compra mínima de un millón cuatrocientos mil quintales (1.400,000.00), de maíz seco para el Ciclo Agrícola 2025- 2026, conforme al siguiente cuadro:
+a) La Industria de Harinas de Maíz y Alimentos para Consumo Humano (DEMAHSA, IMSA, MATURAVE, ALBECASA), aseguran a los productores nacionales que acrediten mediante el respectivo carné, que forman parte de cualquiera de las Organizaciones de Productores de Maíz Blanco firmantes del presente Convenio, la compra mínima de un millón cuatrocientos mil quintales (1.400,000.00), de maíz seco para el Ciclo Agrícola 2025-2026, conforme al siguiente cuadro:
 
 Nombre de la Empresa Compromiso de Compra QQ Ciclo Agrícola 2025-2026 DEMAHSA 868,613.00 IMSA 270,803.00 MATURAVE 153,285.00 ALBECASA 107,299.00 TOTAL 1.400,000.00
 

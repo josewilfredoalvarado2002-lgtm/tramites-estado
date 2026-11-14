@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200224-35183/download"
 extraido: "2026-11-14"
-huella: "bdd95f4d608f0a0b"
+huella: "d4bc527c654c06c0"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -335,7 +335,7 @@ CAPÍTULO II SUSTANCIACIÓN DEL PROCEDIMIENTO
 
 Artículo 40: EFECTO DE LAS ACTAS. - Las normas contenidas en este Capítulo son aplicables al procedimiento que originen las actas levantadas por los inspectores del trabajo, relativas a los incumplimientos en materia laboral.
 
-A r t í c u l o 4 1 : A C R E D I TA C I Ó N D E L A REPRESENTACIÓN DE LAS PARTES.- La representación de las partes en las audiencias que originen los emplazamientos para comparecer en las mismas, se acreditará de la siguiente forma:
+Artículo 4 1 : A CREDI TA CIÓN DE LA REPRESENTACIÓN DE LAS PARTES.- La representación de las partes en las audiencias que originen los emplazamientos para comparecer en las mismas, se acreditará de la siguiente forma:
 
 a) Cuando el trabajador afectado comparezca a la audiencia por causa propia, no requerirá acreditar representación. En el caso de que el trabajador comparezca a la audiencia acompañado de un profesional del derecho, podrá conferirle la representación verbalmente en el acto.
 

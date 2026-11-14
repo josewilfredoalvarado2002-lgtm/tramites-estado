@@ -11,7 +11,7 @@ paginas: "A. 1 - 588"
 sumario: "Decreto No. 151-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260908-37241/download"
 extraido: "2026-11-09"
-huella: "755c44ea28edc02b"
+huella: "d0c9572cd91fc7b6"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 151-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que la Constitución de la República de Honduras en su Artículo 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -55,7 +55,7 @@ ARTÍCULO 1.- Aprobar en todas y cada una de sus partes los siguientes Contratos
 
 AMDC/2024.- CÓDIGO № 3503 “ESTUDIOS, DISEÑOS FINALES Y SUPERVISIÓN DE OBRAS DE INFRAESTRUCTURA PARA EL DISTRITO CENTRAL: 1.
 
-INTERSECCIÓN AVENIDA B E R L I N Y AV E N I D A REPÚBLICA DOMINICANA (ESCUELA AMERICANA) 2.
+INTERSECCIÓN AVENIDA BERLIN Y AV E N I D A REPÚBLICA DOMINICANA (ESCUELA AMERICANA) 2.
 
 COLONIA NUEVA CAPITAL
 
@@ -127,7 +127,7 @@ A la inhabilitación para contratar con el Estado, sin perjuicio de las responsa
 
 CLÁUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 62-2023, Art. No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 62-2023, Art. No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagara en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios. ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -469,7 +469,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 La garantía presentada deberá ser acompañada de una Declaración expresa de Responsabilidad (formulario No. 7), extendida por el Representante Legal de la institución garante que las emita, cuya firma deberá ser autenticada por Notario, dicho representante deberá expresar en la misma que quienes suscribieron la garantía poseen firma autorizada Página | 45 para emitir tales documentos de acuerdo al Artículo 242 del Reglamento de la Ley de Contratación del Estado, asimismo, en dicha declaración se hará constar que su representada no se encuentra comprendida en alguna de las situaciones señaladas en los literales a), b), c) y
 
@@ -855,7 +855,7 @@ PERSONAL
 
 2. CONTRATO No. 1651/GLA/
 
-AMDC/2025.- CÓDIGO № SEM- 002- 2025 “SUPERVISIÓN DE
+AMDC/2025.- CÓDIGO № SEM-002-2025 “SUPERVISIÓN DE
 
 CASA REFUGIO”, LPN CPuNO-001- AMDC003-2025, por un monto total TRES MILLONES NOVECIENTOS SETENTA Y UN MIL DOSCIENTOS DIECIOCHO LEMPIRAS CON 25/100 (L. 3,971,218.25), suscrito el 02 de junio del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado El Contratante y la Sociedad Mercantil, DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA); denominado el Consultor. Mismo que literalmente dice:
 
@@ -863,7 +863,7 @@ CONTRATO No. 1651/GLA/AMDC/2025.
 
 CODIGO № SEM-002-2025 “SUPERVISIÓN DE CASA REFUGIO”
 
-Concurso Público Nacional CPuNO-001-AMDC-003-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM- 2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y DAVID ARMANDO MURILLO TORRES, hondureño y de este domicilio, Documento Nacional de Identificación número 0801-1973-03819, en su condición de Representante Legal de la Empresa DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA) legalmente constituida en Testimonio de Escritura Pública № 191 de fecha Veintidós de Junio del año 2011, Autorizado por el Abogado y Notario Carlos Alfonso Castro M. e inscrita bajo el número 9851, Matrícula 2521078 del Registro Mercantil de Francisco Morazán, centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE CASA REFUGIO”.- Concurso Público Nacional No CPuNO-001-AMDC-003-2025; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+Concurso Público Nacional CPuNO-001-AMDC-003-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y DAVID ARMANDO MURILLO TORRES, hondureño y de este domicilio, Documento Nacional de Identificación número 0801-1973-03819, en su condición de Representante Legal de la Empresa DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA) legalmente constituida en Testimonio de Escritura Pública № 191 de fecha Veintidós de Junio del año 2011, Autorizado por el Abogado y Notario Carlos Alfonso Castro M. e inscrita bajo el número 9851, Matrícula 2521078 del Registro Mercantil de Francisco Morazán, centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE CASA REFUGIO”.- Concurso Público Nacional No CPuNO-001-AMDC-003-2025; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -913,7 +913,7 @@ i. A la inhabilitación para contratar con el Estado, sin perjuicio de las respo
 
 CLÁUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO. DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO. DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios, ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -1257,7 +1257,7 @@ b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equiv
 
 (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C., siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -1327,17 +1327,17 @@ CASA REFUGIO
 
 Coordenadas: 475382.57 m E 1563011.02 m N
 
-1.4 Fotografías No.1 Actividad: Reconocimiento de las autoridades del terreno propuesto Proyecto: Casa Refugio Fecha:
+1.4 Fotografías No. 1 Actividad: Reconocimiento de las autoridades del terreno propuesto Proyecto: Casa Refugio Fecha:
 
-09/2024 No.2 Actividad: Vista del acceso al terreno Proyecto: Casa Refugio Fecha:
+09/2024 No. 2 Actividad: Vista del acceso al terreno Proyecto: Casa Refugio Fecha:
 
-09/2024 No.3 Actividad: Vista del punto de acceso propuesto desde la calle hacia Cerro Grande Z8 Proyecto: Casa Refugio Fecha:
+09/2024 No. 3 Actividad: Vista del punto de acceso propuesto desde la calle hacia Cerro Grande Z8 Proyecto: Casa Refugio Fecha:
 
-09/2024 No.4 Actividad: Vista actual del terreno propuesto Proyecto: Casa Refugio Fecha:
+09/2024 No. 4 Actividad: Vista actual del terreno propuesto Proyecto: Casa Refugio Fecha:
 
-09/2024 No.5 Actividad: Vista del Acceso al lugar actualmente solo existe un sendero Proyecto: Casa Refugio Fecha:
+09/2024 No. 5 Actividad: Vista del Acceso al lugar actualmente solo existe un sendero Proyecto: Casa Refugio Fecha:
 
-09/2024 No.6 Actividad: Calle de entrada a la Col. Cerro Grande Zona 8, donde está el punto inicial del acceso hacia el proyecto Proyecto: Casa Refugio Fecha:
+09/2024 No. 6 Actividad: Calle de entrada a la Col. Cerro Grande Zona 8, donde está el punto inicial del acceso hacia el proyecto Proyecto: Casa Refugio Fecha:
 
 09/2024
 
@@ -1643,9 +1643,9 @@ REMUNERACIONES PERSONALES
 
 3. CONTRATO No. 0917/GLA/
 
-A M D C / 2 0 2 4 . - C Ó D I G O № 3 5 0 3 “ E S T U D I O S , D I S E Ñ O S F I N A L E S Y SUPERVISIÓN DE OBRAS DE INFRAESTRUCTURA PARA EL DISTRITO CENTRAL: 1.
+AMDC / 2 0 2 4 . - CÓDIGO № 3 5 0 3 “ ESTUDIOS, DISEÑOS FINALES Y SUPERVISIÓN DE OBRAS DE INFRAESTRUCTURA PARA EL DISTRITO CENTRAL: 1.
 
-INTERSECCIÓN AVENIDA B E R L I N Y AV E N I D A REPÚBLICA DOMINICANA (ESCUELA AMERICANA) 2 . C O L O N I A N U E VA CAPITAL 3. COLONIA VILLA CEPUDO” LPN CPuNO-018- AMDC-159- 2023, “ЕТАРА II: SUPERVISIÓN DE LAS OBRAS DE INTERSECCIÓN AVENIDA BERLIN Y AVENIDA REPÚBLICА DOMINICANA (ESCUELA AMERICANA)” por un monto total de DIEZ MILLONES QUINIENTOS T R E C E M I L N O V E N TA LEMPIRAS CON 90/100 (L. 10,513,090.90), suscrito el 21 de marzo del año 2024, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA); denominado el Consultor.
+INTERSECCIÓN AVENIDA BERLIN Y AV E N I D A REPÚBLICA DOMINICANA (ESCUELA AMERICANA) 2 . C O L O N I A N U E VA CAPITAL 3. COLONIA VILLA CEPUDO” LPN CPuNO-018- AMDC-159-2023, “ЕТАРА II: SUPERVISIÓN DE LAS OBRAS DE INTERSECCIÓN AVENIDA BERLIN Y AVENIDA REPÚBLICА DOMINICANA (ESCUELA AMERICANA)” por un monto total de DIEZ MILLONES QUINIENTOS T R E C E M I L N O V E N TA LEMPIRAS CON 90/100 (L. 10,513,090.90), suscrito el 21 de marzo del año 2024, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA); denominado el Consultor.
 
 CONTRATO No. 0917/GLA/AMDC/2024.
 
@@ -1709,7 +1709,7 @@ A la inhabilitación para contratar con el Estado, sin perjuicio de las responsa
 
 CLÁUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 62-2023, Art. No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 62-2023, Art. No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios, ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -2057,7 +2057,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras. La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 La garantía presentada deberá ser acompañada de una Declaración expresa de Responsabilidad (formulario No. 7), extendida por el Representante Legal de la institución garante que las emita, cuya firma deberá ser autenticada por Notario, dicho representante deberá expresar en la misma que quienes suscribieron la garantía poseen firma autorizada Página | 45 para emitir tales documentos de acuerdo al Artículo 242 del Reglamento de la Ley de Contratación del Estado, asimismo, en dicha declaración se hará constar que su representada no se encuentra comprendida en alguna de las situaciones señaladas en los literales a), b), c) y
 
@@ -2431,7 +2431,7 @@ III. Fotografías
 
 4. CONTRATO No. 3000/GLA/ AMDC/2024.- CÓDIGO No.
 
-U M G I R 0 0 0 5 “ О B R A S D E PROTECCIÓN DE CAUCE Y MEJORAMIENTO HIDRÁULICO EN LA COL. BERNARDO DAZZY” LPN No. LPuNO-007- AMDC- 044-2024, por un monto total de TRES MILLONES NOVECIENTOS N O V E N TA Y O C H O M I L TRESCIENTOS TREINTA Y OCHO LEMPIRAS CON 21/100 (L. 3,998,338.21), suscrito el 17 de octubre del año 2024, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CONGRESO NACIONAL CONSTRUCCIONES Y EQUIPOS BARUCH, S. DE R.L.
+UMGIR 0 0 0 5 “ О B R A S D E PROTECCIÓN DE CAUCE Y MEJORAMIENTO HIDRÁULICO EN LA COL. BERNARDO DAZZY” LPN No. LPuNO-007- AMDC-044-2024, por un monto total de TRES MILLONES NOVECIENTOS N O V E N TA Y O C H O M I L TRESCIENTOS TREINTA Y OCHO LEMPIRAS CON 21/100 (L. 3,998,338.21), suscrito el 17 de octubre del año 2024, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, CONGRESO NACIONAL CONSTRUCCIONES Y EQUIPOS BARUCH, S. DE R.L.
 
 DE C.V, denominado El Contratista.
 
@@ -2439,11 +2439,7 @@ CONTRATO No. 3000/GLA/AMDC/2024.- CÓDIGO No. UMGIR-0005 “OBRAS DE PROTECCIÓN
 
 BERNARDO DAZZY”
 
-LPN No. LPuNO-007-AMDC-044-2024 Este Contrato se celebra entre JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ALLAN OSWALDO GALO OYUELA, nacionalidad hondureña, mayor de edad, con Documento Nacional de Identificación No. 0601-1986- 00037, en su condición de Representante Legal de la sociedad mercantil denominada CONSTRUCCIONES Y EQUIPOS BARUCH, S. DE R.L. DE C.V., Representación que se acredita mediante Instrumento Público No. 38 de fecha 23 del mes de marzo del año 2017 Autorizado por el Abogado y Notario Mario Enrique Boquín Hernández, he inscrita con No.
-
-39715, Matrícula: 2559100 del Registro Mercantil Francisco Morazán; quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “OBRAS DE PROTECCIÓN DE CAUCE Y MEJORAMIENTO HIDRÁULICO EN LA COL. BERNARDO DAZZY”, CÓDIGO No.
-
-UMGIR-0005.- LPN No. LPuNO-007-AMDC-044-2024; en adelante denominado “Las Obras” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas;
+LPN No. LPuNO-007-AMDC-044-2024 Este Contrato se celebra entre JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y ALLAN OSWALDO GALO OYUELA, nacionalidad hondureña, mayor de edad, con Documento Nacional de Identificación No. 0601-1986-00037, en su condición de Representante Legal de la sociedad mercantil denominada CONSTRUCCIONES Y EQUIPOS BARUCH, S. DE R.L. DE C.V., Representación que se acredita mediante Instrumento Público No. 38 de fecha 23 del mes de marzo del año 2017 Autorizado por el Abogado y Notario Mario Enrique Boquín Hernández, he inscrita con No. 39715, Matrícula: 2559100 del Registro Mercantil Francisco Morazán; quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “OBRAS DE PROTECCIÓN DE CAUCE Y MEJORAMIENTO HIDRÁULICO EN LA COL. BERNARDO DAZZY”, CÓDIGO No. UMGIR-0005.- LPN No. LPuNO-007-AMDC-044-2024; en adelante denominado “Las Obras” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas;
 
 En consecuencia, este Contrato atestigua lo siguiente:
 
@@ -2543,7 +2539,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO, DECRETO No. 62- 2023, Art. No.115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO, DECRETO No. 62-2023, Art. No. 115 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA: “CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -2679,7 +2675,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -2735,7 +2731,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 * DV = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira : US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
 * Una vez que la ONCAE realice las validaciones del caso, la Divisa como Indicador de Alza podrá sustituirse íntegramente por el Índice de Repuestos (IR) que en un futuro se emita en el Boletín de la CHICO o mediante las respectivas Certificaciones de Precios, como un valor más representativo de las variaciones que en el mercado local experimentan los Repuestos, llantas, partes y otros conceptos afines al Equipo y Maquinaria, empleada en la ejecución de las obras.
 
@@ -2783,7 +2779,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -3161,7 +3157,7 @@ G. Constancia de Volumen de ventas o copia del recibo de pago del banco (deberá
 
 H. Constancia de inscripción de proyecto en la Cámara Hondureña de la Industria y de la Construcción (CHICO). ORIGINAL primer pago o anticipo y en las subsiguientes estimaciones se adjuntará copia.
 
-Apendice B LPuNO-007-AMDC-044-2024 Financiado con Fondos Municipales PROYECTO :
+Apendice B LPuNO-007-AMDC-044-2024 Financiado con Fondos Municipales PROYECTO:
 
 OBRAS DE PROTECCIÓN DE CAUCE Y MEJORAMIENTO HIDRÁULICO EN LA COL.
 
@@ -3169,7 +3165,7 @@ BERNARDO DAZZY
 
 Código No. UMGIR-0005
 
-UBICADO EN :
+UBICADO EN:
 
 Municipio del Distrito Central, Francisco Morazán Construcciones y Equipos Baruch, S. de R.L. de C.V.
 
@@ -3225,13 +3221,13 @@ AMDC/2025.- CÓDIGO
 
 N o .
 
-I N F R A 0 0 3 4 D “ PAV I M E N TA C I Ó N D E CALLE CON CONCRETО HIDRÁULICO EN COL.
+INFRA 0 0 3 4 D “ PAV I M E N TA CIÓN DE CALLE CON CONCRETО HIDRÁULICO EN COL.
 
 SAUCIQUE” LICITACIÓN No.
 
 LPrNO-022-AMDC-076-2024, por un monto total de TRES MILLONES DOSCIENTOS SIETE MIL QUINIENTOS QUINCE LEMPIRAS CON 38/100, (L. 3,207,515.38), Total de Costo de Obra L 3,998,338.21 suscrito el 12 de noviembre del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, SEGURIDAD Y SEÑALES, S. DE R.L., denominado El Contratista.
 
-CONTRATO No. 3381/GLA/AMDC/2025.- CÓDIGO No. INFRA-0034D “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO EN COL. SAUCIQUE” LICITACIÓN PRIVADA NACIONAL No. LPrNO-022-AMDC-076-2024 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y HECTOR VIRGILIO MARTINEZ LOZANO, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación número 1802-1981-00056, en su condición de Gerente General de la sociedad mercantil SEGURIDAD Y SEÑALES, S. DE R.L., condición que acredita mediante Testimonio de Escritura Pública No. 97 de fecha 30 del mes de Enero del año 2024, Autorizada por el Abogado y Notario Guillermo Enrique Osorio Medina e inscrito bajo el número 87978, matrícula: 2555973 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO EN COL. SAUCIQUE”, CÓDIGO No. INFRA-0034D.- Licitación Privada Nacional No. LPrNO-022-AMDC-076-2024, en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia, este contrato atestigua lo siguiente:
+CONTRATO No. 3381/GLA/AMDC/2025.- CÓDIGO No. INFRA-0034D “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO EN COL. SAUCIQUE” LICITACIÓN PRIVADA NACIONAL No. LPrNO-022-AMDC-076-2024 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y HECTOR VIRGILIO MARTINEZ LOZANO, de nacionalidad hondureña y de este domicilio, con Documento Nacional de Identificación número 1802-1981-00056, en su condición de Gerente General de la sociedad mercantil SEGURIDAD Y SEÑALES, S. DE R.L., condición que acredita mediante Testimonio de Escritura Pública No. 97 de fecha 30 del mes de Enero del año 2024, Autorizada por el Abogado y Notario Guillermo Enrique Osorio Medina e inscrito bajo el número 87978, matrícula: 2555973 de la Cámara de Comercio e Industria de Tegucigalpa, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN DE CALLE CON CONCRETO HIDRÁULICO EN COL. SAUCIQUE”, CÓDIGO No. INFRA-0034D.- Licitación Privada Nacional No. LPrNO-022-AMDC-076-2024, en adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia, este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: Las palabras y expresiones utilizadas en este Contrato, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato.
 
@@ -3243,7 +3239,7 @@ Alcaldía Municipal del Distrito Central
 
 R.L.
 
-EL SUPERVISOR DE OBRAS: Firma Consultora q u e a s i g n e l a Dirección de Control y Seguimiento FINANCIAMIENTO:
+EL SUPERVISOR DE OBRAS: Firma Consultora que asigne la Dirección de Control y Seguimiento FINANCIAMIENTO:
 
 Fondos Municipales
 
@@ -3287,7 +3283,7 @@ A la inhabilitación para contratar con el Estado, sin perjuicio de las responsa
 
 CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA OCTAVA: CLÁUSULA PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de lealtad y cumplimiento contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios. ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -4067,7 +4063,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste:(Precio actual - Precio oferta) /FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -4151,7 +4147,7 @@ Apéndice “A”
 
 REQUISITOS EMPRESA CONSTRUCTORA (ANTICIPO)
 
-A. El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°.13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
+A. El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°. 13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
 
 Los contratistas deben respetar el orden y los requisitos de todos documentos enumerados a continuación, su forma de presentación debe ser preferiblemente en un folder y fasteners (lado izquierdo) con su ORIGINAL junto con un juego de COPIA ADICIONAL:
 
@@ -4191,7 +4187,7 @@ El informe deberá de presentar entre otros, copias de las facturas u otros docu
 
 El anticipo estará destinado exclusivamente a los gastos de movilización y a su inversión en materiales y equipos, o servicios directamente relacionados con la ejecución de la obra.
 
-Este informe será requisito para el pago de la estimación N°1 REQUISITOS EMPRESA CONSTRUCTORA (ESTIMACIONES) Requisitos exclusivamente para la estimación N°.1:
+Este informe será requisito para el pago de la estimación N°1 REQUISITOS EMPRESA CONSTRUCTORA (ESTIMACIONES) Requisitos exclusivamente para la estimación N°. 1:
 
 A. El contratista deberá contratar una póliza de seguro según lo enunciado en la cláusula N°. 13 de las Condiciones generales del contrato, el cual presentará antes de la aprobación de la orden de inicio.
 
@@ -4837,7 +4833,7 @@ Ejemplo de logos obligatorios para dispositivos de seguridad vial RÓTULO DEL PR
 
 PAVIMENTACION TRAMO 1 INICIO FINAL
 
-477935.00 m E 1561609.00 m N 477972.21 m E 1561745.25 m N FOTOGRAFÍAS No.1 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No.2 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No.3 Actividad: Pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No.4 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No.5 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” PRESUPUESTO DE OBRA LPrNO-022-AMDC-076-2024 PROYECTO :
+477935.00 m E 1561609.00 m N 477972.21 m E 1561745.25 m N FOTOGRAFÍAS No. 1 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No. 2 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No. 3 Actividad: Pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No. 4 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” No. 5 Actividad: pavimentación con concreto hidráulico Proyecto: “pavimentación con concreto hidráulico en la Colonia saucique” PRESUPUESTO DE OBRA LPrNO-022-AMDC-076-2024 PROYECTO:
 
 Pavimentación de calle con concreto hidráulico en Col. Saucique INFRA-0034D N° DESCRIPCIÓN Seguridad y Señales, S. de R.L.
 
@@ -4865,7 +4861,7 @@ GENERALES DEL PROYECTO B.1 RÓTULO DEL PROYECTO unidad 1.00 9,402.15 9,402.15 B.
 
 LPrNO-019- AMDC-035-2025, por un monto total de DOS MILLONES OCHOCIENTOS TREINTA MIL QUINIENTOS TRECE LEMPIRAS CON 14/100, (L. 2,830,513.14), suscrito el 22 de agosto del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, PROYECTOS, OBRAS Y SERVICIOS DE INGENIERÍA, S. DE R.L. (PROSIN), denominado El Contratista.
 
-CONTRATO No. 2481/GLA/AMDC/2025.- CÓDIGO No. FEX-GOB-0004 “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN LA COLONIA PRIMERO DE DICIEMBRE” LICITACIÓN PRIVADA NACIONAL No. LPrNO-019-AMDC-035-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y EDUARDO JOSE MELENDEZ ZELAYA, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación número 0801-1982-09319, en su condición de Gerente General de la Sociedad Mercantil PROYECTOS, OBRAS Y SERVICIOS DE INGENIERIA, S. DE R.L. (PROSIN)., condición que acredita mediante Testimonio de Escritura Pública No. 92 de fecha 14 del mes de mayo del año 2021, autorizada por el Abogado y Notario Alfredo Banegas Cruz e inscrito bajo el número 66462, matrícula: 2532336 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN LA COLONIA
+CONTRATO No. 2481/GLA/AMDC/2025.- CÓDIGO No. FEX-GOB-0004 “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN LA COLONIA PRIMERO DE DICIEMBRE” LICITACIÓN PRIVADA NACIONAL No. LPrNO-019-AMDC-035-2025 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y EDUARDO JOSE MELENDEZ ZELAYA, de nacionalidad hondureña y de éste domicilio, con Documento Nacional de Identificación número 0801-1982-09319, en su condición de Gerente General de la Sociedad Mercantil PROYECTOS, OBRAS Y SERVICIOS DE INGENIERIA, S. DE R.L. (PROSIN)., condición que acredita mediante Testimonio de Escritura Pública No. 92 de fecha 14 del mes de mayo del año 2021, autorizada por el Abogado y Notario Alfredo Banegas Cruz e inscrito bajo el número 66462, matrícula: 2532336 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “PAVIMENTACIÓN CON CONCRETO HIDRÁULICO EN LA COLONIA
 
 PRIMERO DE DICIEMBRE”, CÓDIGO No. FEXGOB-0004.- Licitación Privada Nacional No LPrNO-019- AMDC-035-2025.- En adelante denominado “Las Obras” y El Contratante ha aceptado la licitación para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
@@ -4921,7 +4917,7 @@ i. A la inhabilitación para contratar con el Estado, sin perjuicio de las respo
 
 CLÁUSULA SÉPTIMA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA OCTAVA: CLÁUSULA PENAL: Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios, ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -5723,7 +5719,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste:(Precio actual - Precio oferta) /FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa (90) días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -6503,7 +6499,7 @@ Malla plastificada Será de color naranja, a utilizar en las delimitaciones de l
 
 Cinta de color amarilla con letras negras, en mayúscula con la leyenda de “PRECAUCIÓN” será utilizadas para las delimitaciones de excavaciones menores, bultos de materiales, centros de acopio de materiales.
 
-Ejemplo de logos obligatorios para dispositivos de seguridad vial RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS No.1 Actividad: pavimentación con concreto hidráulico en primer tramo Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.2 Actividad: pavimentación con concreto hidráulico en primer tramo Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.3 Actividad: Pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.4 Actividad: pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.5 Actividad: pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.6 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.7 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No.8 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” CROQUIS DE UBICACIÓN N PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 1 PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 2 CALLEJONES PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 3 Coordenadas UTM:
+Ejemplo de logos obligatorios para dispositivos de seguridad vial RÓTULO DEL PROYECTO RÓTULO DEL PROYECTO FIJO FOTOGRAFÍAS No. 1 Actividad: pavimentación con concreto hidráulico en primer tramo Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 2 Actividad: pavimentación con concreto hidráulico en primer tramo Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 3 Actividad: Pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 4 Actividad: pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 5 Actividad: pavimentación con concreto hidráulico tramo 2 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 6 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 7 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” No. 8 Actividad: Pavimentación con concreto hidráulico tramo 3 Proyecto: “pavimentación con concreto hidráulico en la colonia Primero de diciembre” CROQUIS DE UBICACIÓN N PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 1 PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 2 CALLEJONES PAVIMENTACIÓN CON CONCRETO HIDRÁULICO TRAMO 3 Coordenadas UTM:
 
 PAVIMENTACION TRAMO 1 INICIO FINAL
 
@@ -6515,7 +6511,7 @@ PAVIMENTACION TRAMO 2 CALLEJON #1 INICIO FINAL
 
 PAVIMENTACION TRAMO 2 CALLEJON #2 INICIO FINAL
 
-474950.00 m E 1557956.00 m N 474927.00 m E 1557886.00 m N PAVIMENTACION TRAMO 2 CALLEJON #3 INICIO FINAL 474961.00 m E 1557877.00 m N PAVIMENTACION TRAMO 3 INICIO FINAL 474663.00 m E 1558396.00 m N PRESUPUESTO DE OBRA LPRNO-019-AMDC-035-2025 PROYECTO :
+474950.00 m E 1557956.00 m N 474927.00 m E 1557886.00 m N PAVIMENTACION TRAMO 2 CALLEJON #3 INICIO FINAL 474961.00 m E 1557877.00 m N PAVIMENTACION TRAMO 3 INICIO FINAL 474663.00 m E 1558396.00 m N PRESUPUESTO DE OBRA LPRNO-019-AMDC-035-2025 PROYECTO:
 
 PAVIMENTACION CON CONCRETO HIDRAULICO EN LA COLONIA PRIMERO DE DICIEMBRE FEX-GOB-0004 Item DESCRIPCIÓN Proyectos, Obras y Servicios de Ingeniería, S. de R.L.
 
@@ -6565,7 +6561,7 @@ AMDC/2023.- CÓDIGO № 3371 “REMODELACIÓN DEL SISTEMA ELÉCTRICO MERCADO SAN
 
 CONTRATO No. 2639/GLA/AMDC/2023.-
 
-CÓDIGO № 3371 “REMODELACIÓN DEL SISTEMA ELÉCTRICO MERCADO SAN PABLO Y ANEXOS” LICITACIÓN No LPrNO-054-AMDC-113-2023 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación (DNI) número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y SELVIN YOVANI ZELAYA MUNGUIA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 1807-1974-01363 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada INVERSIONES LA FE, S.A. de C.V., representación que se acredita mediante Instrumento Público N° 184 de fecha 13 de marzo del año 2014; autorizado por el Abogado y Notario Hernán Sosa Valladares e inscrito bajo el N°191, folio: 34, Tomo XV del Registro Mercantil de Comayagua, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “REMODELACIÓN DEL SISTEMA ELÉCTRICO MERCADO SAN PABLO Y ANEXOS”, Código 3371.- Licitación No LPrNO-057-AMDC-116-2023; en adelante denominado “Las Obras” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+CÓDIGO № 3371 “REMODELACIÓN DEL SISTEMA ELÉCTRICO MERCADO SAN PABLO Y ANEXOS” LICITACIÓN No LPrNO-054-AMDC-113-2023 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación (DNI) número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y SELVIN YOVANI ZELAYA MUNGUIA, de nacionalidad hondureña, mayor de edad, portador del Documento Nacional de Identificación No. 1807-1974-01363 y de este domicilio, quien actúa en su condición de Representante de la Sociedad Mercantil denominada INVERSIONES LA FE, S.A. de C.V., representación que se acredita mediante Instrumento Público N° 184 de fecha 13 de marzo del año 2014; autorizado por el Abogado y Notario Hernán Sosa Valladares e inscrito bajo el N°191, folio: 34, Tomo XV del Registro Mercantil de Comayagua, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONTRATISTA” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “REMODELACIÓN DEL SISTEMA ELÉCTRICO MERCADO SAN PABLO Y ANEXOS”, Código 3371.- Licitación No LPrNO-057-AMDC-116-2023; en adelante denominado “Las Obras” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 Contrato que se regirá por las cláusulas y condiciones legales siguientes:
 
@@ -7295,7 +7291,7 @@ I. Carga suspendida J. Maquinaria trabajando K. Riesgo eléctrico .1.4.10 Rótul
 
 APENDICE B
 
-8. CONTRATO No. 1062/GLA/ AMDC/2025.- CÓDIGO No. EME- 0013 “OBRAS HIDRÁULICAS D E A D A P T A C I O N U R B A N A A L C A M B I O CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” CDE-016- AMDC-099- 2024, por un monto total de: DIEZ MILLONES TRESCIENTOS NOVENTA MIL QUINIENTOS T R E I N TA Y C U AT R O LEMPIRAS CON 03/100 (L. 10,390,534.03), suscrito el 10 de abril del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, EMPRESA EN OBRAS DE CONSTRUCCIÓN, S.A.
+8. CONTRATO No. 1062/GLA/ AMDC/2025.- CÓDIGO No. EME-0013 “OBRAS HIDRÁULICAS DE ADAPTACION URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.” CDE-016- AMDC-099-2024, por un monto total de: DIEZ MILLONES TRESCIENTOS NOVENTA MIL QUINIENTOS T R E I N TA Y C U AT R O LEMPIRAS CON 03/100 (L. 10,390,534.03), suscrito el 10 de abril del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, EMPRESA EN OBRAS DE CONSTRUCCIÓN, S.A.
 
 DE C.V., (ENOC S.A. DE C.V.), denominado El Contratista.
 
@@ -7305,13 +7301,9 @@ CÓDIGO No. EME-0013
 
 “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C” CONTRATACIÓN DIRECTA DE EMERGENCIA CDE-016-AMDC-099-2024 Contratación mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
-Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y el señor EDDUIN ENOC GARCIA MATUTE, de Nacionalidad hondureña, mayor de edad, Documento Nacional de Identificación No.
+Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y el señor EDDUIN ENOC GARCIA MATUTE, de Nacionalidad hondureña, mayor de edad, Documento Nacional de Identificación No. 0801-1982-00651 del domicilio de Tegucigalpa, M.D.C., en su condición de Administrador Único, de la Sociedad Mercantil denominada EMPRESA EN OBRAS DE CONSTRUCCIÓN, S.A. DE C.V., (ENOC S.A. DE C.V.), Representación que se acredita mediante Instrumento Público No. 46 de fecha 09 de julio del año 2013; autorizado por el Abogado y Notario Félix Antonio Irías Rodezno e inscrito bajo el No. 18770, Matrícula: 2532011 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien para los efectos de este contrato se denominará EL CONTRATISTA.
 
-0801-1982-00651 del domicilio de Tegucigalpa, M.D.C., en su condición de Administrador Único, de la Sociedad Mercantil denominada EMPRESA EN OBRAS DE CONSTRUCCIÓN, S.A. DE C.V., (ENOC S.A. DE C.V.), Representación que se acredita mediante Instrumento Público No. 46 de fecha 09 de julio del año 2013; autorizado por el Abogado y Notario Félix Antonio Irías Rodezno e inscrito bajo el No. 18770, Matrícula: 2532011 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien para los efectos de este contrato se denominará EL CONTRATISTA.
-
-Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de el se deriven, convienen en suscribir el presente Contrato para el proyecto “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.”.- CÓDIGO No.
-
-EME-0013 Contratación Directa de Emergencia No. CDE- 016-AMDC-099-2024.
+Ambos EL CONTRATANTE y EL CONTRATISTA con facultades suficientes para celebrar este tipo de actos y cumplir con las obligaciones que de el se deriven, convienen en suscribir el presente Contrato para el proyecto “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZÁN SECTOR LAS JUCAS, TEGUCIGALPA, M.D.C.”.- CÓDIGO No. EME-0013 Contratación Directa de Emergencia No. CDE-016-AMDC-099-2024.
 
 Contrato que se regirá por las cláusulas y condiciones legales siguientes:
 
@@ -7407,9 +7399,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO, DECRETO No.
-
-4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA: “CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -7525,7 +7515,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -7581,7 +7571,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 * DV = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira : US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
 * Una vez que la ONCAE realice las validaciones del caso, la Divisa como Indicador de Alza podrá sustituirse íntegramente por el Índice de Repuestos (IR) que en un futuro se emita en el Boletín de la CHICO o mediante las respectivas Certificaciones de Precios, como un valor más representativo de las variaciones que en el mercado local experimentan los Repuestos, llantas, partes y otros conceptos afines al Equipo y Maquinaria, empleada en la ejecución de las obras.
 
@@ -7629,7 +7619,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los 618 gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -8013,9 +8003,9 @@ DESGLOSE DE PRESUPUESTO DE OFERTAS CDE-016-AMDC-099-2024
 
 Financiado con Fondos Municipales
 
-PROYECTO :
+PROYECTO:
 
-OBRAS HIDRAULICAS DE ADAPTACION URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZAN SECTOR LAS JUCAS, TEGUCIGALPA Código No. EME 0013 UBICADO EN :
+OBRAS HIDRAULICAS DE ADAPTACION URBANA AL CAMBIO CLIMATICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA QUEBRADA LA OREJONA, BARRIO MORAZAN SECTOR LAS JUCAS, TEGUCIGALPA Código No. EME 0013 UBICADO EN:
 
 Municipio del Distrito Central, Francisco Morazán It e m DESCRIPCIÓN PRESUPUESTO Empresa en Obras de Construccion S.A de C.V.
 
@@ -8083,13 +8073,13 @@ Precio Unitario Ofertado Total Ofertado Eval. (Lps.) Unid Cantidad ad Lempira s 
 
 9. CONTRATO No. 0185/GLA/
 
-AMDC/2025.- CÓDIGO № ТЕСНO-0002 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERIOS Y ALDEAS EN EL DISTRITO CENTRAL” CPuNO-008- AMDC-066-2024, por un monto total de: NUEVE MILLONES OCHOCIENTOS CINCUENTA Y SEIS MIL TRESCIENTOS SETENTA Y NUEVE LEMPIRAS CON 54/100 (L. 9,856,379.54), suscrito el 19 de febrero del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, DISEÑO, CONSTRUCCIÓN Y MEDIO A M B I E N T E S . DE R .L.
+AMDC/2025.- CÓDIGO № ТЕСНO-0002 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERIOS Y ALDEAS EN EL DISTRITO CENTRAL” CPuNO-008- AMDC-066-2024, por un monto total de: NUEVE MILLONES OCHOCIENTOS CINCUENTA Y SEIS MIL TRESCIENTOS SETENTA Y NUEVE LEMPIRAS CON 54/100 (L. 9,856,379.54), suscrito el 19 de febrero del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTES . DE R .L.
 
 (DICOMA), denominado El Consultor.
 
 CONTRATO No. 0185/GLA/AMDC/2025.-
 
-CÓDIGO № TECHO-0002 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL” Concurso Público Nacional CPuNO-008-AMDC-066-2024 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975- 02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM- 2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y DAVID ARMANDO MURILLO TORRES, hondureño y de éste domicilio, Documento Nacional de Identificación número 0801-1973-03819, en su condición de Representante Legal de la Empresa DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA) legalmente constituida en Testimonio de Escritura Pública № 191 de fecha veintidós de junio del año 2011, Autorizado por el Abogado y Notario Carlos Alfonso Castro M. e inscrita bajo el número 9851, Matrícula 2521078 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL”; CÓDIGO No. TECHO-0002.- Concurso Público Nacional No. CPuNO-008-AMDC-066-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
+CÓDIGO № TECHO-0002 “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL” Concurso Público Nacional CPuNO-008-AMDC-066-2024 Este contrato se celebra entre: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, portador del Documento Nacional de Identificación Número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, y en consecuencia Representante Legal de la Alcaldía Municipal del Distrito Central, nombrado para tal cargo mediante Acta de Juramentación número 001-GDFM-2022 de fecha veinticinco (25) de enero del año dos mil veintidós (2022), quien para los efectos legales de este contrato se denominará “EL CONTRATANTE” por una parte y DAVID ARMANDO MURILLO TORRES, hondureño y de éste domicilio, Documento Nacional de Identificación número 0801-1973-03819, en su condición de Representante Legal de la Empresa DISEÑO, CONSTRUCCIÓN Y MEDIO AMBIENTE S. DE R.L. (DICOMA) legalmente constituida en Testimonio de Escritura Pública № 191 de fecha veintidós de junio del año 2011, Autorizado por el Abogado y Notario Carlos Alfonso Castro M. e inscrita bajo el número 9851, Matrícula 2521078 del Registro Mercantil de Francisco Morazán, Centro Asociado I.P., quien en lo sucesivo y para efectos de este contrato se denominará “EL CONSULTOR” por la otra parte; por cuanto El Contratante desea que El Contratista ejecute por su cuenta y riesgo el contrato “SUPERVISIÓN DE LA CONSTRUCCIÓN DE TECHOS Y FIRMES DE CONCRETO EN BARRIOS, COLONIAS, CASERÍOS Y ALDEAS EN EL DISTRITO CENTRAL”; CÓDIGO No. TECHO-0002.- Concurso Público Nacional No. CPuNO-008-AMDC-066-2024; en adelante denominado “Los Servicios” y El Contratante ha aceptado la oferta para la ejecución y terminación de dichas obras y la subsanación de cualquier defecto de las mismas; en consecuencia este contrato atestigua lo siguiente:
 
 CLÁUSULA PRIMERA: En este contrato las palabras y expresiones utilizadas, tendrán el mismo significado que en las respectivas Condiciones Generales y Especiales del Contrato a las que se hace referencia en adelante y las mismas se considerarán parte de este contrato y se leerán e interpretarán como parte del mismo.
 
@@ -8139,7 +8129,7 @@ A la inhabilitación para contratar con el Estado, sin perjuicio de las responsa
 
 CLÁUSULA OCTAVA: CLÁUSULA RECORTE
 
-PRESUPUESTARIO, DECRETO No. 4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+PRESUPUESTARIO, DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA NOVENA: CLÁUSULA PENAL. Las partes, en cumplimiento a lo establecido en el Artículo 3B a la Ley de Contratación del Estado, aprobado mediante Decreto No. 266-2013 que contiene la Ley para Optimizar la Administración Pública, mejorar los Servicios a la Ciudadanía y Fortalecimiento de la Transparencia en el Gobierno, en la que se estipule la indemnización que se pagará en caso de incumplimiento de las partes, nos comprometemos libre y voluntariamente: 1) A mantener el más alto nivel de Lealtad y cumplimiento Contractual en la ejecución de los contratos de consultoría, bienes, servicios y obra pública. 2) Que si durante la ejecución del Contrato, este se resolviera por causas imputables: a) Al contratista la administración declarará de oficio y hará efectiva la garantía de cumplimiento cuando fuere firme el acuerdo correspondiente. b) A la administración de las cláusulas del contrato originará su resolución solo en los casos previstos en la Ley de Contratación del Estado, en tal caso el contratista tendrá derecho al pago de la parte de la prestación ejecutada y al pago de los daños y perjuicios que por tal causa se le ocasionaren. 3) En caso de que el Contratista no realice las actividades comprendidas en el contrato, en cuanto a la entrega de los bienes, servicios o la obra pública y no concluya las responsabilidades señaladas en el mismo en el plazo estipulado pagará al Órgano Contratante por daños y perjuicios ocasionados por el incumplimiento una suma equivalente al porcentaje del precio de entrega de los servicios, bienes y obra pública atrasados. Hasta alcanzar el máximo de lo establecido. 4) A aceptar las consecuencias a que hubiere lugar, en caso de declararse el incumplimiento de alguno de los compromisos de esta Cláusula por Tribunal competente, y sin perjuicio de la responsabilidad civil o penal en la que incurra, el Proveedor al no cumplir con la entrega de la totalidad o parte de las actividades, bienes, servicios y obra pública dentro del período especificado en el Contrato, sin perjuicio de los demás recursos que el Órgano Contratante tenga en virtud del Contrato, éste podrá deducir del precio del Contrato por concepto de liquidación de daños y perjuicios.
 
@@ -8481,7 +8471,7 @@ EL CONSULTOR queda obligado a constituir, antes de dar inicio a la ejecución de
 
 Se constituirá mediante retenciones equivalentes al Diez Por Ciento (10%) de cada pago parcial por concepto de los honorarios. b) Adicionalmente será exigible una Garantía de Cumplimiento de Contrato equivalente al Quince Por Ciento (15%) de los honorarios con exclusión de costos, con una vigencia hasta tres (3) meses después del plazo previsto al tiempo de ejecución de los trabajos de consultoría; Estas Garantías deberán ser emitidas por un Banco o Compañía de Seguros legalmente establecida y autorizada para operar por la República de Honduras- La retención antes señalada serán devueltas al Consultor después de finalizados y aceptados los trabajos de Consultoría mediante la emisión de la recepción definitiva a satisfacción de la A.M.D.C. siempre y cuando no hayan reclamos de terceros y previa presentación del Informe Final. Las garantías, deberán contener la cláusula siguiente: “Esta Garantía será ejecutada a simple requerimiento de la A.M.D.C., con la simple presentación de Nota de incumplimiento.
 
-La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No.6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
+La Garantía será presentada por el Consultor adjudicado diez (10) días calendarios después de la suscripción del contrato, a entera satisfacción de la A.M.D.C., de acuerdo al formulario No. 6 del Documento Base del Concurso y deberá ser extendida por un Banco o Compañía Aseguradora legalmente constituido en el país.
 
 17. Garantía de Anticipo:
 
@@ -8537,7 +8527,7 @@ Se considera realizar una mejora a viviendas de bajos recursos que se encuentran
 
 Croquis de ubicación Margen este del Río Choluteca abarcando el lado este del Distrito Central (Tegucigalpa) N Croquis de ubicación Margen oeste del Río Choluteca abarcando el lado oeste del Distrito Central (Comayagüela) N
 
-1.4 Fotografías Imágenes de Referencia No.1 Actividad: Se requiere cambio de techo en viviendas de bajos recursos Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No.2 Actividad: Techos de lámina dañados con oxido y goteras Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No.3 Actividad: Techos de lámina en mal estado en asentamientos informales Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No.4 Actividad: Se observa la necesidad de un techo adecuado Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No.5 Actividad: Pisos en mal estado requiere un firme de concreto Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No.6 Actividad: Se requiere firme de concreto en casas que se encuentran con piso de tierra.
+1.4 Fotografías Imágenes de Referencia No. 1 Actividad: Se requiere cambio de techo en viviendas de bajos recursos Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No. 2 Actividad: Techos de lámina dañados con oxido y goteras Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No. 3 Actividad: Techos de lámina en mal estado en asentamientos informales Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No. 4 Actividad: Se observa la necesidad de un techo adecuado Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No. 5 Actividad: Pisos en mal estado requiere un firme de concreto Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central Imágenes de Referencia No. 6 Actividad: Se requiere firme de concreto en casas que se encuentran con piso de tierra.
 
 Proyecto: Construcción de Techos y Firmes de Concreto en el Distrito Central
 
@@ -8559,7 +8549,7 @@ COMAYAGÜELA TEGUCIGALPA
 
 Ubicación de Relleno Sanitario Cantidades de Obra Estimada Margen Este del Río Choluteca ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL GERENCIA DE OBRAS CIVILES CODIGO:
 
-DATOS TECHO- 0001 A PROYECTO: LOTE DE OBRAS DE EMERGENCIA Y MEJORAS (CONSTRUCCION DE TECHOS Y FIRMES DE CONCRETO EN EL DISTRITO CENTRAL (MARGEN ESTE DEL RIO CHOLUTECA) INCLUYENDO: BARRIOS, UBICACION: PARTE ESTE DEL DISTRITO CENTRAL, (TEGUCIGALPA) N.º OBRA A REALIZAR UNIDAD CANTIDAD PRECIO U.
+DATOS TECHO-0001 A PROYECTO: LOTE DE OBRAS DE EMERGENCIA Y MEJORAS (CONSTRUCCION DE TECHOS Y FIRMES DE CONCRETO EN EL DISTRITO CENTRAL (MARGEN ESTE DEL RIO CHOLUTECA) INCLUYENDO: BARRIOS, UBICACION: PARTE ESTE DEL DISTRITO CENTRAL, (TEGUCIGALPA) N.º OBRA A REALIZAR UNIDAD CANTIDAD PRECIO U.
 
 TOTAL CAMBIO DE TECHO
 
@@ -8571,7 +8561,7 @@ Margen Oeste del Río Choluteca
 
 ALCALDÍA MUNICIPAL DEL DISTRITO CENTRAL GERENCIA DE OBRAS CIVILES CODIGO:
 
-DATOS TECHO- 0001 B PROYECTO: LOTE DE OBRAS DE EMERGENCIA Y MEJORAS (CONSTRUCCION DE TECHOS Y FIRMES DE CONCRETO EN EL DISTRITO CENTRAL (MARGEN OESTE DEL RIO CHOLUTECA) INCLUYENDO: BARRIOS, UBICACION: PARTE OESTE DEL DISTRITO CENTRAL, INCLUYE COMAYAGÜELA N.º OBRA A REALIZAR UNIDAD CANTIDAD PRECIO U.
+DATOS TECHO-0001 B PROYECTO: LOTE DE OBRAS DE EMERGENCIA Y MEJORAS (CONSTRUCCION DE TECHOS Y FIRMES DE CONCRETO EN EL DISTRITO CENTRAL (MARGEN OESTE DEL RIO CHOLUTECA) INCLUYENDO: BARRIOS, UBICACION: PARTE OESTE DEL DISTRITO CENTRAL, INCLUYE COMAYAGÜELA N.º OBRA A REALIZAR UNIDAD CANTIDAD PRECIO U.
 
 TOTAL CAMBIO DE TECHO
 
@@ -8837,13 +8827,9 @@ PERSONAL
 
 1 Remuneraciones Personales 1.1.1 Gerente de proyecto Hombres/mes 9.00 70,000.00 L 630,000.00 L 1.1.2 Ingeniero Residente Hombres/mes 9.00 60,000.00 L 540,000.00 L 1.1.3 Ingeniero Asistente Hombres/mes 8.00 45,000.00 L 360,000.00 L 1.1.4 Ingeniero Asistente Hombres/mes 8.00 45,000.00 L 360,000.00 L 1.1.5 Ingeniero En Costos y presupuestos Hombres/mes 8.00 50,000.00 L 400,000.00 L Sub-total 1 2,290,000.00 L 2 Personal Administrativo Auxiliar y otros 1.2.1 Administrador Hombres/mes 8.00 18,000.00 L 144,000.00 L 1.2.2 Secretaria Hombres/mes 8.00 15,000.00 L 120,000.00 L 1.2.3 Inspectores (6) Hombres/mes 32.00 20,000.00 L 640,000.00 L 1.2.4 Dibujante AutoCAD Calculista Hombres/mes 8.00 20,000.00 L 160,000.00 L 1.2.5 Motorista Hombres/mes 16.00 15,000.00 L 240,000.00 L 1.2.6 Tiempo extra personal (25% de 1.2.2 a 1.2.4) 260,000.00 L Sub-total 2 1,564,000.00 L 3,854,000.00 L II BENEFICIOS SOCIALES 2.1 Beneficios Sociales (46.23% sobre la suma de 1+2) 1,781,704.20 L 1,781,704.20 L III COSTOS OPERATIVOS 3.1 Servicios públicos de oficina mes 8.00 10,000.00 L 80,000.00 L 3.2 Papelería y gastos de reproducción mes 8.00 10,000.00 L 80,000.00 L 3.3 Comunicaciones mes 8.00 10,000.00 L 80,000.00 L 3.4 Alquiler o depreciación de oficina mes 8.00 10,000.00 L 80,000.00 L 3.5 Uso de vehículo mes 45.50 25,000.00 L 1,137,500.00 L 3.6 Uso de equipo de oficina y cómputo mes 8.00 10,000.00 L 80,000.00 L 3.7 Laboratorio mes 6.00 30,000.00 L 180,000.00 L 3.8 Servicios de topografía mes 8.00 60,000.00 L 480,000.00 L 2,197,500.00 L IV GASTOS GENERALES 4.1 20% de (I + II) 1,127,140.84 L 1,127,140.84 L V MANEJO DE GASTOS DIRECTOS 5.1 10% de III 219,750.00 L 219,750.00 L VI HONORARIOS/UTILIDAD 6.1 10% de (I + II + IV) 676,284.50 L GRAN TOTAL 9,856,379.54 L
 
-10. CONTRATO No. 0948/GLA/ AMDC/2025.- CÓDIGO No. EME- 0015 “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, MD.C.” No.
+10. CONTRATO No. 0948/GLA/ AMDC/2025.- CÓDIGO No. EME-0015 “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, MD.C.” No. CDE-019-AMDC-102-2024, por un monto total de: SIETE MILLONES DOSCIENTOS CINCUENTA Y CUATRO MIL NOVECIENTOS OCHENTA Y SIETE LEMPIRAS CON 73/100 (L. 7,254,987.73), suscrito el 02 de abril del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, SERVICIOS PROFESIONALES DE INGENIERÍA PADGETT, S. DE R.L. (SERPIP, S. DE R.L.), denominado El Contratista.
 
-CDE-019-AMDC-102-2024, por un monto total de: SIETE MILLONES DOSCIENTOS CINCUENTA Y CUATRO MIL NOVECIENTOS OCHENTA Y SIETE LEMPIRAS CON 73/100 (L. 7,254,987.73), suscrito el 02 de abril del año 2025, entre la Municipalidad del Distrito Central (AMDC) denominado el contratante y la Sociedad Mercantil, SERVICIOS PROFESIONALES DE INGENIERÍA PADGETT, S. DE R.L. (SERPIP, S. DE R.L.), denominado El Contratista.
-
-CONTRATO No. 0948/GLA/AMDC/2025.- CÓDIGO No. EME-0015 “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” CONTRATACIÓN DIRECTA DE EMERGENCIA No. CDE-019-AMDC-102-2024 Contratación mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No.
-
-032-2024.
+CONTRATO No. 0948/GLA/AMDC/2025.- CÓDIGO No. EME-0015 “OBRAS HIDRÁULICAS DE ADAPTACIÓN URBANA AL CAMBIO CLIMÁTICO MEDIANTE EL CONTROL INTEGRADO DE INUNDACIONES EN LA CALLE MODESTO RODAS, SECTOR ENTRADA COL. CANAÁN/VILLA DELMY (PLANTEL DE LOS COBRAS) / BARRIO EL RINCÓN, TEGUCIGALPA, M.D.C.” CONTRATACIÓN DIRECTA DE EMERGENCIA No. CDE-019-AMDC-102-2024 Contratación mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
 Nosotros: JORGE ALEJANDRO ALDANA BARDALES, mayor de edad, soltero, Licenciado en Periodismo, hondureño y de este domicilio, con Documento Nacional de Identificación número 0801-1975-02901, actuando en mi condición de Alcalde Municipal del Distrito Central, nombramiento que acredito con el Acta Especial de Juramentación número 001-GDFM-2022 de fecha veinticinco de enero de dos mil veintidós (2022), para efectos de este contrato en adelante denominado “EL CONTRATANTE”, y el señor CARLOS ROBERTO PADGETT LAGOS, de Nacionalidad hondureña, mayor de edad, Documento Nacional de Identificación No. 0801-1957-01076 del domicilio de Tegucigalpa, M.D.C., en su condición de Administrador Único, de la Sociedad Mercantil denominada SERVICIOS PROFESIONALES DE INGENIERÍA PADGETT, S.
 
@@ -8873,7 +8859,7 @@ Fondos Municipales
 
 2. Los siguientes documentos constituyen parte integral del presente Contrato, corren adjunto a este y serán leídos e interpretados en forma conjunta con el:
 
-a. Contratación mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032- 2024.
+a. Contratación mediante el Acuerdo de Emergencia emitido por la Corporación Municipal del Distrito Central con No. 032-2024.
 
 b. Las Condiciones Generales del Contrato.
 
@@ -8943,9 +8929,7 @@ De parte del Contratista o Consultor: A la inhabilitación para contratar con el
 
 CLÁUSULA DÉCIMA SEGUNDA: CLÁUSULA
 
-RECORTE PRESUPUESTARIO., DECRETO No.
-
-4-2025, Art. No.122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
+RECORTE PRESUPUESTARIO., DECRETO No. 4-2025, Art. No. 122 DGP del año vigente: En todo contrato financiado con fondos externos, la suspensión o cancelación del préstamo o donación, dará lugar a la rescisión o resolución del contrato, sin más obligación por parte del Estado, que el pago correspondiente a las obras o servicios ya ejecutados a la fecha de la rescisión o resolución del contrato. Igual medida se aplicará en los casos previstos en el artículo 39, párrafo primero de la Ley Orgánica del Presupuesto.
 
 CLÁUSULA DÉCIMA TERCERA: “CLÁUSULA ANTIFRAUDE Y PREVENCIÓN DE LA CORRUPCIÓN:
 
@@ -9077,7 +9061,7 @@ RT = Reconocimiento total en una determinada estimación de obra, igual a la sum
 
 RI = Reconocimientos Individuales en cada ítem, según los rubros sujetos a ajuste.
 
-RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ) , siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
+RI = Monto ejecutado del ítem x ( FAMnc + FAMc + FAE + FACL + FAMT ), siendo FAMnc, FAMc, FAE, FACL y FAMT los Factores de Ajuste correspondientes al ítem bajo ajuste, cuya forma de cálculo se describe a continuación:
 
 I. MANO DE OBRA EN GENERAL
 
@@ -9133,7 +9117,7 @@ b) CONTRATOS SIN OTORGAMIENTO DE DIVISAS Fórmula de Reconocimiento FAE = IPE ( 
 
 * DV = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente al período de la estimación de obra bajo ajuste.
 
-* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira : US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
+* DVo = Valor de la divisa, o tasa cambiaria de compra, Lempira: US $ emitida por el Banco Central de Honduras, correspondiente a la fecha de 15 días antes de la respectiva licitación o recepción de oferta o el correspondiente a la fecha de la negociación de un nuevo Ítem durante la ejecución.
 
 * Una vez que la ONCAE realice las validaciones del caso, la Divisa como Indicador de Alza podrá sustituirse íntegramente por el Índice de Repuestos (IR) que en un futuro se emita en el Boletín de la CHICO o mediante las respectivas Certificaciones de Precios, como un valor más representativo de las variaciones que en el mercado local experimentan los Repuestos, llantas, partes y otros conceptos afines al Equipo y Maquinaria, empleada en la ejecución de las obras.
 
@@ -9181,7 +9165,7 @@ Cuando el Contratista utilice elementos estructurales prefabricados de alta comp
 
 Precio utilizado para Ajuste: (Precio actual - Precio oferta) / FS Ajuste = Precio de Ajuste x Cantidad de Obra consumida en el período Lo anterior en virtud que no se efectúa ningún ajuste en la porción de los gastos indirectos. A estos propósitos, el Gobierno efectuará las revisiones e investigaciones que considere necesarias y el Contratista deviene obligado a brindar todas las facilidades del caso Cuando se utilice Concreto Premezclado en cualquier tipo de elemento o estructura, independientemente de su complejidad o magnitud, (soleras, zapatas, muros, columnas, vigas, etc.), la llamada “Canasta de Materiales” fijada para denotar los Ajustes en el renglón de los Materiales, se sustituirá directamente por el Precio del Concreto Premezclado que figure en el Boletín de la CHICO, como Índice para ajustar dicho renglón.
 
-El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira : US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
+El ajuste en Equipos o aditamentos especiales que se incorporen a la obra, tales como ascensores, aires acondicionados, equipos de seguridad, aparatos electrónicos o de telecomunicaciones, luminarias no convencionales, artículos suntuarios, pintura vial, señales viales y otros bienes especializados similares, los cuales no puedan ser certificados la variación de precio por la CHICO entonces se hará por medio de la variación en la Divisa (tasa cambiaria de compra Lempira: US$), entre la fecha del compra del bien y el valor ofertado originalmente, agregándole un dos por ciento (2 %) anual aplicado proporcionalmente si fuere el caso, para cubrir la propia inflación en el país de origen, siempre y cuando haya transcurrido al menos noventa días calendario entre la presentación de la Oferta y la compra del bien.
 
 Los valores de los Índices de ajuste y los precios de los Materiales representativos para un proyecto en particular, de la naturaleza que fuere, deben ser obtenidos de una misma fuente confiable y con iguales características, a fin de mantener la homogeneidad y consistencia del procedimiento, a lo largo del desarrollo de la obra.
 
@@ -9571,13 +9555,13 @@ CDE-019-AMDC-102-2024
 
 Financiado con Fondos Municipales
 
-PROYECTO :
+PROYECTO:
 
 Obras Hidráulicas de Adaptación Urbana al Cambio Climático Mediante el Control Integrado de Inundaciones en la Calle Modesto Rodas, Sector entrada Col. Canaán/Villa Delmy (Plantel de los Cobras) / Barrio El Rincón, Tegucigalpa, MD.C.
 
 Código: EME-0015
 
-UBICADO EN :
+UBICADO EN:
 
 Municipio del Distrito Central, Francisco Morazán It e m DESCRIPCIÓN Servicios Profesionales de Ingeniería Padgett, S. de R.L. (SERPIP) Canti Precio Unitario Total Evaluado Unid ad dad (LPS) (LPS.) A ACTIVIDADES GENERALES Desvío del Cauce globa l 1.00 L 103,545.00 L 103,545.00 Limpieza del Cauce m2 148.48 L 163.35 L 24,254.21 Sub-Total A L 805,421.63 B CONSTRUCCIÓN DE CAJA SIMPLE DE 3.50X2.00 m.
 

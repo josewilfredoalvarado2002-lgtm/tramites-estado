@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 23-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210827-35700/download"
 extraido: "2026-11-14"
-huella: "390d92b3a109e31f"
+huella: "5e9eddb033198dc3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 23-2021
@@ -39,9 +39,9 @@ CONSIDERANDO: Que los Colegios Magisteriales surgieron de la necesidad organizat
 
 CONSIDERANDO: Que en la actualidad distintos Colegios Magisteriales mantienen deudas millonarias con el Instituto Nacional de Previsión del Magisterio (INPREMA), derivado de una situación de insolvencia económica lo que les impide honrar los compromisos de pago al Instituto Nacional de Previsión del Magisterio (INPREMA), debido a la falta de recaudación de las cuotas mensuales de los afiliados a nivel nacional tanto del sector educativo público como No Gubernamental, lo que también ha provocado la pérdida de beneficios por causa de muerte de docentes y seguro por jubilación.
 
-CONSIDERANDO: Que el Primer Colegio Profesional Hondureño de Maestros (PRICPHMA), y otros colegios magisteriales se encuentran en una precaria situación financiera, desde la vigencia del Decreto No.267-2013 de fecha 16 de Diciembre de 2013, cuando se aprobaron artículos que limitan los valores recaudados y la forma de recaudación que tenían las Organizaciones Magisteriales y que era la garantía ofrecida al Instituto Nacional de Previsión del Magisterio (INPREMA), por dos (2) préstamos hipotecarios otorgados, así como los beneficios a los que tienen derecho los afiliados a la Organización Magisterial.
+CONSIDERANDO: Que el Primer Colegio Profesional Hondureño de Maestros (PRICPHMA), y otros colegios magisteriales se encuentran en una precaria situación financiera, desde la vigencia del Decreto No. 267-2013 de fecha 16 de Diciembre de 2013, cuando se aprobaron artículos que limitan los valores recaudados y la forma de recaudación que tenían las Organizaciones Magisteriales y que era la garantía ofrecida al Instituto Nacional de Previsión del Magisterio (INPREMA), por dos (2) préstamos hipotecarios otorgados, así como los beneficios a los que tienen derecho los afiliados a la Organización Magisterial.
 
-CONSIDERANDO: Que mediante Decreto No.18-2020 de fecha 26 de Febrero de 2020, publicado en el Diario Oficial “La Gaceta” No.35,354 del 26 de Agosto de 2020, se concedió Amnistía a favor de los Centros Educativos No Gubernamentales en lo que respecta a los recargos, intereses moratorios y sobre cargos por mora en el pago de planillas por concepto de pago de las cotizaciones y aportaciones obrero patronales que se adeudan al Instituto Nacional de Previsión del Magisterio (INPREMA) que se hayan acumulado a la fecha de publicación del presente Decreto, por lo que se considera procedente brindar análoga oportunidad a los Colegios Magisteriales, que les permita ponerse al día en sus obligaciones crediticias con el Instituto Nacional de Previsión del Magisterio (INPREMA) y poder salvaguardar su patrimonio en beneficio de todos sus agremiados.
+CONSIDERANDO: Que mediante Decreto No. 18-2020 de fecha 26 de Febrero de 2020, publicado en el Diario Oficial “La Gaceta” No. 35,354 del 26 de Agosto de 2020, se concedió Amnistía a favor de los Centros Educativos No Gubernamentales en lo que respecta a los recargos, intereses moratorios y sobre cargos por mora en el pago de planillas por concepto de pago de las cotizaciones y aportaciones obrero patronales que se adeudan al Instituto Nacional de Previsión del Magisterio (INPREMA) que se hayan acumulado a la fecha de publicación del presente Decreto, por lo que se considera procedente brindar análoga oportunidad a los Colegios Magisteriales, que les permita ponerse al día en sus obligaciones crediticias con el Instituto Nacional de Previsión del Magisterio (INPREMA) y poder salvaguardar su patrimonio en beneficio de todos sus agremiados.
 
 CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 

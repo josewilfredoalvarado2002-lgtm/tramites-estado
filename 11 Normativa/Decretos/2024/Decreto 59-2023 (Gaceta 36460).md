@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Decretos Nos. 59-2023, 63-2023, 5-2024, 6-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240214-36460/download"
 extraido: "2026-11-14"
-huella: "e3c09da1d247883c"
+huella: "fc6b259a37be7606"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 59-2023
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición los artículos 3 y 30 del Decreto No.199-2006, de fecha 15 de Enero de 2007, contentivo de la LEY INTEGRAL DE PROTECCIÓN AL ADULTO MAYOR Y JUBILADOS, y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Julio del 2007, bajo la Edición No. 31,361, los cuales en adelante deben leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar por adición los artículos 3 y 30 del Decreto No. 199-2006, de fecha 15 de Enero de 2007, contentivo de la LEY INTEGRAL DE PROTECCIÓN AL ADULTO MAYOR Y JUBILADOS, y publicado en el Diario Oficial “La Gaceta” en fecha 21 de Julio del 2007, bajo la Edición No. 31,361, los cuales en adelante deben leerse de la manera siguiente:
 
 “ARTÍCULO 3.- GLOSARIO. Para los efectos de la presente Ley se entenderá por:
 

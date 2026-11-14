@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo Ejecutivo No. STSS-561-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200829-35357/download"
 extraido: "2026-11-14"
-huella: "eda4aaf4ac7d0691"
+huella: "1306a205fa60e225"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. STSS-561-2020
@@ -37,9 +37,7 @@ CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de 
 
 CONSIDERANDO: Que según el artículo 37 numeral 2 de la Ley Orgánica del Presupuesto, le corresponde al Presidente de la República autorizar las transferencias de fondos presupuestarios entre Secretarías de Estado, Instituciones Descentralizadas y entre ambas.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-023-2018 de fecha 16 de abril del 2018 y publicado en el Diario Oficial La Gaceta el 20 de abril de 2018, el Presidente de la República delegó la firma en la Secretaria de Estado, por Ley en los Despachos de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 023-2018 de fecha 16 de abril del 2018 y publicado en el Diario Oficial La Gaceta el 20 de abril de 2018, el Presidente de la República delegó la firma en la Secretaria de Estado, por Ley en los Despachos de Coordinación General de Gobierno, MARTHA VICENTA DOBLADO ANDARA, la potestad de firmar los Acuerdos Ejecutivos que, según la Ley de la Administración Pública, sean potestad del Presidente Constitucional de la República su sanción.
 
 POR TANTO, En el uso de las facultades de que está investido y en aplicación de los artículos: 245 numerales 5 y 11, de la Constitución de la República; 10, 33, 116, 118, 119, 122 de la Ley General de la Administración Pública; 3, 26 de la Ley de Procedimiento Administrativo; artículo 37 de la Ley Orgánica del Presupuesto.
 

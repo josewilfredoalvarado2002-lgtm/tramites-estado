@@ -11,7 +11,7 @@ paginas: "A. 13 - 16"
 sumario: "Decretos Nos. 122-2026, 130-2026, 131-2026, 133-2026, 134-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260701-37182/download"
 extraido: "2026-11-09"
-huella: "f97a197ce2abf60c"
+huella: "78db7a16f0afab68"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 130-2026
@@ -45,7 +45,7 @@ CONSIDERANDO: Que, para la rehabilitación, mantenimiento de las vías públicas
 
 CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
-POR TANTO, D E C R E TA :
+POR TANTO, D E C R E TA:
 
 #### Artículo 1
 

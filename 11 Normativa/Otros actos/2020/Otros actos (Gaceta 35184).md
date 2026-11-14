@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo número: 195-2020, 203-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200225-35184/download"
 extraido: "2026-11-14"
-huella: "0a083fb3977c1b39"
+huella: "55cdc33d59598b0f"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo número: 195-2020, 203-2020
@@ -57,7 +57,7 @@ b) Las acciones conducentes para dar cumplimiento a la regla macrofiscal señala
 
 CONSIDERANDO: Que la Ley de Responsabilidad Fiscal, en su artículo 25 y su Reglamento en el artículo 6 establece que a través de la Unidad de Contingencias Fiscales se debe de identificar, valorar y evaluar los riesgos fiscales por desastres asociados a fenómenos de la naturaleza en un periodo de tres años, debe publicar un informe de dichos riesgos incluyendo los planes de mitigación de los mismos.
 
-CONSIDERANDO: Que de acuerdo al Decreto No.151- 2009 que contiene la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), en su Artículo 4, numeral 4, estipula que la coordinación es uno de los Principios Orientadores del SINAGER y se pone en práctica a partir del reconocimiento de las competencias, jurisdicción y autonomía de sus miembros, pero a la vez, dirigiendo las acciones de cada una de ellas, en forma sistémica, articulada, concertada y armónica hacia propósitos y objetivos comunes.
+CONSIDERANDO: Que de acuerdo al Decreto No. 151-2009 que contiene la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER), en su Artículo 4, numeral 4, estipula que la coordinación es uno de los Principios Orientadores del SINAGER y se pone en práctica a partir del reconocimiento de las competencias, jurisdicción y autonomía de sus miembros, pero a la vez, dirigiendo las acciones de cada una de ellas, en forma sistémica, articulada, concertada y armónica hacia propósitos y objetivos comunes.
 
 CONSIDERANDO: Que es prioritario establecer responsabilidades y directrices dentro de la Secretaría de Finanzas para la gestión financiera del riesgo de desastres y el manejo de las contingencias fiscales relacionadas a fenómenos naturales, con el objetivo de mantener la estabilidad macrofiscal y el cumplimiento de la Ley de Responsabilidad Fiscal.
 

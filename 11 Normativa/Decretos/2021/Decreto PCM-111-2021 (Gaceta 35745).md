@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Decreto Ejecutivo Número PCM-111-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211013-35745/download"
 extraido: "2026-11-14"
-huella: "ddf947dcfa0ec9a9"
+huella: "6078e7ec03562973"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-111-2021
@@ -61,7 +61,7 @@ CONSIDERANDO: Que el Artículo 11 de la Ley General de la Administración Públi
 
 CONSIDERANDO: Que el artículo 29 del Decreto Ejecutivo Número PCM-009-2018, establece en su numeral 6, que dentro de las funciones del Secretario de Estado de la Presidencia está: “6. Remitir al Congreso Nacional las Iniciativas de Ley del Poder Ejecutivo por instrucciones del Presidente de la República”.
 
-POR TANTO, En aplicación de los Artículos: 12, 245 numerales 1, 2, 11, 13 y 45 de los Artículos 248, 252 y 335 de la Constitución de la República; Declaración Conjunta emitida en Managua el 25 de agosto de 2014; Artículos 11, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266-2013; Artículos 40, 41 y 49 de la Ley de Promoción y Protección de Inversiones y los Artículos 2, 3, 4 y 5 del Decreto Legislativo N°. 373- 2013; Artículo 29, numeral 6 del Decreto Ejecutivo Número PCM-09-2018.
+POR TANTO, En aplicación de los Artículos: 12, 245 numerales 1, 2, 11, 13 y 45 de los Artículos 248, 252 y 335 de la Constitución de la República; Declaración Conjunta emitida en Managua el 25 de agosto de 2014; Artículos 11, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas contenidas en el Decreto No. 266-2013; Artículos 40, 41 y 49 de la Ley de Promoción y Protección de Inversiones y los Artículos 2, 3, 4 y 5 del Decreto Legislativo N°. 373-2013; Artículo 29, numeral 6 del Decreto Ejecutivo Número PCM-09-2018.
 
 DECRETA:
 

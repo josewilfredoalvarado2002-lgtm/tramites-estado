@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250212-36764/download"
 extraido: "2026-11-13"
-huella: "65969740f5d4010a"
+huella: "cb3cbdb0c86ac416"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -55,7 +55,7 @@ CONSIDERANDO: Que garantizar el acceso a una vivienda digna para aquellos equipo
 
 POR TANTO, En uso de las facultades contenidas en los artículos 59, 178, 245 numerales 2, 11, 19 y 30 de la Constitución de la República; artículos 3, 4, 11, 12, 13, 14, 17, 22 numeral 3);
 
-28, 30, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266- 2013; Decreto Ejecutivo número PCM 11-2022; y, demás aplicables.
+28, 30, 116, 117 y 119 de la Ley General de la Administración Pública y su reforma mediante Decreto Legislativo No. 266-2013; Decreto Ejecutivo número PCM 11-2022; y, demás aplicables.
 
 DECRETA:
 

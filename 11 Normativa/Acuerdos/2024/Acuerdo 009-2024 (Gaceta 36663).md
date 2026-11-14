@@ -8,10 +8,10 @@ gaceta_numero: 36663
 gaceta_fecha: "2024-10-14"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36663 (2024-10-14)|La Gaceta 36663]]"
 paginas: "A. 5 - 12"
-sumario: "Decreto No. 75-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024ALCALDÍA MUNICIPAL DE LAMANÍ"
+sumario: "Decreto No. 75-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024; ALCALDÍA MUNICIPAL DE LAMANÍ"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241014-36663/download"
 extraido: "2026-11-14"
-huella: "b495298235ab44f1"
+huella: "33361269e74e465f"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 009-2024
@@ -23,7 +23,7 @@ huella: "b495298235ab44f1"
 | Emisor | PODER LEGISLATIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36663 (2024-10-14)\|La Gaceta 36663]] del 2024-10-14 |
 | Páginas | A. 5 - 12 |
-| Según el sumario de La Gaceta | Decreto No. 75-2024SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024ALCALDÍA MUNICIPAL DE LAMANÍ |
+| Según el sumario de La Gaceta | Decreto No. 75-2024; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE NIÑEZ, ADOLESCENCIA Y FAMILIA (SENAF)Acuerdo Ejecutivo No. 009-2024; ALCALDÍA MUNICIPAL DE LAMANÍ |
 
 ## Texto
 
@@ -47,7 +47,7 @@ En aplicación de los Artículos 116, 119 y 321 de la Constitución de la Repúb
 
 ACUERDA
 
-PRIMERO: Delegar a la Abogada CARMEN EMILSE PORTILLO ALVARADO, con Documento Nacional de Identificación Número 0301- 1982-00527, como Coordinadora de Servicios Legales de esta Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), quien deberá realizar funciones con el objetivo de restituir el derecho que tienen los niños, niñas y adolescentes que se encuentran en estado de adoptabilidad a crecer en una familia idónea ya sea nacional o internacional siguiendo los requisitos establecidos en la Ley Especial de Adopciones y su reglamento, basado en enfoque de derechos humanos.
+PRIMERO: Delegar a la Abogada CARMEN EMILSE PORTILLO ALVARADO, con Documento Nacional de Identificación Número 0301-1982-00527, como Coordinadora de Servicios Legales de esta Secretaría de Estado en los Despachos de Niñez, Adolescencia y Familia (SENAF), quien deberá realizar funciones con el objetivo de restituir el derecho que tienen los niños, niñas y adolescentes que se encuentran en estado de adoptabilidad a crecer en una familia idónea ya sea nacional o internacional siguiendo los requisitos establecidos en la Ley Especial de Adopciones y su reglamento, basado en enfoque de derechos humanos.
 
 SEGUNDO: La Abogada CARMEN EMILSE PORTILLO ALVARADO, será responsable de los actos realizados en función de la delegación otorgada en este acuerdo y le serán imputables conforme a lo establecido en el artículo 5 párrafo final de la Ley de Procedimiento Administrativo.
 

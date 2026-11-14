@@ -11,7 +11,7 @@ paginas: "A. 98 - 120"
 sumario: "Acuerdo Número-014-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240511-36531/download"
 extraido: "2026-11-14"
-huella: "6f7be00b2a3a7021"
+huella: "5f615cd769385758"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 014-2024
@@ -47,7 +47,7 @@ CONSIDERANDO: Que la ENRF Adopta un enfoque de “restauración forestal”, el 
 
 CONSIDERANDO: Que el Director del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre, tiene entre sus facultades la de aprobar los Acuerdos institucionales, reglamentos Internos, manuales e Instructivos para realizar la gestión del sector forestal, áreas protegidas y vida silvestre.
 
-CONSIDERANDO: Que la referida La Estrategia Nacional de Restauración Forestal de Honduras (ENRF) 2023- 2030, es un documento técnico-operativo y legal de carácter administrativo, que permitirá incrementar los esfuerzos actuales de forma masiva, la demanda creciente de productos forestales, así como la mejora en la seguridad alimentaria y oportunidades socioeconómicas en las comunidades, enfatizan la urgencia de restauración de los paisajes rurales del país. Las prioridades y lineamientos de esta estrategia se sustentan en los instrumentos de planificación y gestión como el Plan de Gobierno para Refundar Honduras, Programa Nacional Forestal (PRONAFOR), Política Nacional Forestal, Acuerdo de París, Plan de Acción Nacional de Lucha Contra la Desertificación y Sequia (PAN-LCD), Estrategia Nacional de Cambio Climático y en concordancia con la Agenda 2030 y los Objetivos de Desarrollo Sostenibles (ODS).
+CONSIDERANDO: Que la referida La Estrategia Nacional de Restauración Forestal de Honduras (ENRF) 2023-2030, es un documento técnico-operativo y legal de carácter administrativo, que permitirá incrementar los esfuerzos actuales de forma masiva, la demanda creciente de productos forestales, así como la mejora en la seguridad alimentaria y oportunidades socioeconómicas en las comunidades, enfatizan la urgencia de restauración de los paisajes rurales del país. Las prioridades y lineamientos de esta estrategia se sustentan en los instrumentos de planificación y gestión como el Plan de Gobierno para Refundar Honduras, Programa Nacional Forestal (PRONAFOR), Política Nacional Forestal, Acuerdo de París, Plan de Acción Nacional de Lucha Contra la Desertificación y Sequia (PAN-LCD), Estrategia Nacional de Cambio Climático y en concordancia con la Agenda 2030 y los Objetivos de Desarrollo Sostenibles (ODS).
 
 CONSIDERANDO: Que el Programa Nacional de Reforestación emitió el DICTAMEN TECNICO DT–PNR–004-2024, mediante el cual DICTAMINO FAVORABLEMENTE el seguimiento, la aprobación y la oficialización de la Estrategia Nacional de Restauración Forestal.
 
@@ -197,7 +197,7 @@ Según el Nivel de Referencia Forestal para Honduras, en adición a lo ya mencio
 
 3.3 Incentivos a la restauración En la actualidad, Honduras no posee un programa bien definido de incentivos para la ordenación forestal sostenible, aunque en 1993 fue creada la “Ley de incentivos a la forestación, reforestación y a la protección del bosque”, en la práctica no se generaron las suficientes garantías e incentivos para invertir en la ordenación de los bosques naturales al no contar con una reglamentación adecuada, con un fondo de incentivos, ni con voluntad para su aplicación, permitiendo que la Ley fue derogada. Esta Ley contemplaba más de 20 diferentes incentivos, desde la exoneración del Impuesto Sobre la Renta para su inversión en actividades de reforestación, hasta el pago de asistencia técnica para elaborar e implementar proyectos de reforestación, suministros de plantas y otros insumos, en terrenos nacionales, ejidales y privados.
 
-En 2007 se creó la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No.98-2007), único instrumento con que se cuenta para aplicar incentivos a la restauración y que establece que las actividades a incentivar incluyen:
+En 2007 se creó la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007), único instrumento con que se cuenta para aplicar incentivos a la restauración y que establece que las actividades a incentivar incluyen:
 
 1. Incentivos a la inversión: asistencia técnica y gratuita por parte de ICF (Artículo 134); medidas de protección y fomento (Artículo 135); exoneración de impuestos en la importación o adquisición local: actividad efectuada por personas naturales o jurídicas que se dediquen a la conservación, reforestación y protección de los bosques (Artículo 137); garantía de inversión para todo aquel que invierta en plantaciones forestales y regeneración natural (Artículo 138).
 
@@ -325,7 +325,7 @@ Restauración de 1.3 millones de hectáreas de bosque al 2030 y reducir en un 39
 
 ▪ Política institucional de género del ICF 2020-2025
 
-▪ Estrategia Nacional de Salud y Sanidad Forestal 2020- 2030 (ENSSF)
+▪ Estrategia Nacional de Salud y Sanidad Forestal 2020-2030 (ENSSF)
 
 ▪ Estrategia Nacional de Uso y Manejo de Fuego 2018-2028 y su Plan de Acción
 
@@ -447,7 +447,7 @@ a. Alcance geográfico Las iniciativas cuyas intervenciones contribuirán al log
 
 b. Mapa de oportunidades de restauración El mapa actualizado de oportunidades de restauración elaborado por el ICF, es una herramienta de planificación y gestión forestal, que facilitará la toma de decisiones a todos los niveles y que permitirá dar información de referencia para las actividades de intervención en campo y la edificación de líneas base para las actividades de restauración forestal.
 
-La construcción de este análisis multicriterio, fue elaborado usando el programa de ArcGis 10.8 de ArcMap ESRI©, mismo que generó resultados de oportunidades de restauración. Este análisis presenta cinco actividades que incluyen la restauración activa y pasiva, y que muestran una jerarquía basada en los objetivos de país, el uso potencial de la tierra o funciones ambientales del suelo, conflicto de tierras y restricciones legales (Ley Forestal Decreto No.98-2007).
+La construcción de este análisis multicriterio, fue elaborado usando el programa de ArcGis 10.8 de ArcMap ESRI©, mismo que generó resultados de oportunidades de restauración. Este análisis presenta cinco actividades que incluyen la restauración activa y pasiva, y que muestran una jerarquía basada en los objetivos de país, el uso potencial de la tierra o funciones ambientales del suelo, conflicto de tierras y restricciones legales (Ley Forestal Decreto No. 98-2007).
 
 Como resultado de este análisis se identificaron 2,217,235 hectáreas con oportunidad de restauración forestal, las cuales se encuentran distribuidas en las actividades de regeneración natural (232,667 ha), plantaciones productivas (228,496 ha), plantaciones de protección (667,023 ha), SAF (946,868 ha), y forestería urbana (142,178 ha). La información completa se puede verificar en la metodología usada para generar del mapa de restauración forestal de 2022.
 

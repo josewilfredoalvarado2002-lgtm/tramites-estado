@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Decretos Nos. 105-2021, 117-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220214-35848/download"
 extraido: "2026-11-14"
-huella: "e18fbcbfc32bbddb"
+huella: "2bcc9b9d47832644"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 117-2021
@@ -41,21 +41,21 @@ CONSIDERANDO: Que el Poder Legislativo teniendo como prioridad la voluntad de so
 
 CONSIDERANDO: Que las disposiciones contenidas en leyes relativas a las relaciones de trabajo deben ser coherentes con las disposiciones que en la misma materia contienen el Código del Trabajo, a fin de evitar interpretaciones erróneas que tergiversen su sentido en perjuicio de la armonía que debe de existir en la relación obrero-patronal y en las relaciones de las empresas para con el Estado.
 
-CONSIDERANDO: Que las compensaciones sociales contenidas en el Decreto No.112-82 de fecha 28 de Octubre del año 1982, contentivo de la Ley del Séptimo Día y Décimo Tercer Mes en concepto de Aguinaldo, están orientadas a beneficiar al trabajador en forma directa y además las mismas forman parte de su salario, con el propósito que al pagárseles los derechos y beneficios que las leyes laborales les otorgan, dichas compensaciones sociales formen parte del cálculo de los derechos o prestaciones laborales e indemnizaciones sociales que por ley le corresponden a cada trabajador.
+CONSIDERANDO: Que las compensaciones sociales contenidas en el Decreto No. 112-82 de fecha 28 de Octubre del año 1982, contentivo de la Ley del Séptimo Día y Décimo Tercer Mes en concepto de Aguinaldo, están orientadas a beneficiar al trabajador en forma directa y además las mismas forman parte de su salario, con el propósito que al pagárseles los derechos y beneficios que las leyes laborales les otorgan, dichas compensaciones sociales formen parte del cálculo de los derechos o prestaciones laborales e indemnizaciones sociales que por ley le corresponden a cada trabajador.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Interpretar el numeral 1) del Artículo 113 del CÓDIGO TRIBUTARIO, contenido en el Decreto No.170-2016 de fecha 15 de Diciembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre del 2016, en la Edición No.34,224 y sus reformas; en el sentido que dicha disposición al referirse a: “1) La Administración Tributaria o la Administración Aduanera, según el caso, para la determinación de las obligaciones tributarias, de acuerdo con la Ley para la Regulación de Precios de Transferencia, debe verificar la existencia de precios de transferencia en las operaciones realizadas entre personas naturales o jurídicas domiciliadas o residentes en Honduras con sus partes relacionadas, vinculadas o asociadas y aquellas amparadas en regímenes especiales que gocen de beneficios fiscales; y…” no está incluyendo a los regímenes especiales que gozan de beneficios fiscales dentro de las operaciones que determinan las obligaciones tributarias relacionadas con los precios de transferencia, ya que la intención del legislador se orienta a que tales obligaciones aplican únicamente para las personas naturales o jurídicas domiciliadas o residentes en Honduras, que estén relacionadas, vinculadas o asociadas con empresas acogidas a regímenes especiales y no a estas últimas.
+ARTÍCULO 1.- Interpretar el numeral 1) del Artículo 113 del CÓDIGO TRIBUTARIO, contenido en el Decreto No. 170-2016 de fecha 15 de Diciembre de 2016 y publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre del 2016, en la Edición No. 34,224 y sus reformas; en el sentido que dicha disposición al referirse a: “1) La Administración Tributaria o la Administración Aduanera, según el caso, para la determinación de las obligaciones tributarias, de acuerdo con la Ley para la Regulación de Precios de Transferencia, debe verificar la existencia de precios de transferencia en las operaciones realizadas entre personas naturales o jurídicas domiciliadas o residentes en Honduras con sus partes relacionadas, vinculadas o asociadas y aquellas amparadas en regímenes especiales que gocen de beneficios fiscales; y…” no está incluyendo a los regímenes especiales que gozan de beneficios fiscales dentro de las operaciones que determinan las obligaciones tributarias relacionadas con los precios de transferencia, ya que la intención del legislador se orienta a que tales obligaciones aplican únicamente para las personas naturales o jurídicas domiciliadas o residentes en Honduras, que estén relacionadas, vinculadas o asociadas con empresas acogidas a regímenes especiales y no a estas últimas.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Interpretar el Artículo 3 del Decreto 112- 82 contentivo de la LEY DEL SÉPTIMO DÍA Y DÉCIMO TERCER MES EN CONCEPTO DE AGUINALDO, de fecha 28 de Octubre de 1982 y publicada en el Diario Oficial “La Gaceta”, Edición No.23,848 del primero de Noviembre de 1982, en el sentido que: cuando se hace referencia a que el pago del Séptimo Día y Décimo Tercer Mes en concepto de Aguinaldo, integran el concepto de salario para todos los efectos legales, es únicamente para efectos del cálculo y pago de prestaciones, derechos e indemnizaciones laborales, ésto quiero decir, que el Décimo Tercer Mes o Aguinaldo está exento del pago de todo impuesto, descuentos, cotizaciones y deducciones de cualquier naturaleza, salvo las relativas al cumplimiento de las obligaciones de prestar alimentos.
+ARTÍCULO 2.- Interpretar el Artículo 3 del Decreto 112-82 contentivo de la LEY DEL SÉPTIMO DÍA Y DÉCIMO TERCER MES EN CONCEPTO DE AGUINALDO, de fecha 28 de Octubre de 1982 y publicada en el Diario Oficial “La Gaceta”, Edición No. 23,848 del primero de Noviembre de 1982, en el sentido que: cuando se hace referencia a que el pago del Séptimo Día y Décimo Tercer Mes en concepto de Aguinaldo, integran el concepto de salario para todos los efectos legales, es únicamente para efectos del cálculo y pago de prestaciones, derechos e indemnizaciones laborales, ésto quiero decir, que el Décimo Tercer Mes o Aguinaldo está exento del pago de todo impuesto, descuentos, cotizaciones y deducciones de cualquier naturaleza, salvo las relativas al cumplimiento de las obligaciones de prestar alimentos.
 
 #### Artículo 3
 

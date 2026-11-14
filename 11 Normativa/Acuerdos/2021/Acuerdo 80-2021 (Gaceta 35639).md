@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Acuerdos Nos. 69-2021, 71-2021, 73-2021, 74-2021, 78-2021, 80-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210626-35639/download"
 extraido: "2026-11-14"
-huella: "144878c71ae2a938"
+huella: "7895c865a71bafb8"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 80-2021
@@ -27,7 +27,7 @@ huella: "144878c71ae2a938"
 
 ## Texto
 
-EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09- 2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto 404-2013 que contiene La ley General De La Industria Eléctrica.
+EL SECRETARIO PRIVADO Y JEFE DE GABINETE PRESIDENCIAL, CON RANGO DE SECRETARIO DE ESTADO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo 09-2018 de fecha 27 de enero del año 2018, y en aplicación de los artículos 235 y 245 atribuciones 5 y 11 de la Constitución de la República; 11, 12, 116, 118, 119 y 122 de la Ley General de la Administración Pública; Decreto 404-2013 que contiene La ley General De La Industria Eléctrica.
 
 ACUERDA:
 
@@ -75,7 +75,7 @@ ACUERDA:
 
 “PRIMERO: Modificar el Acuerdo SAG-080-2019 en su parte dispositiva, el cual se leerá de la siguiente forma:
 
-PRIMERO: Proceder al cobro del Canon Contributivo establecido en la Ley General de Pesca y Acuicultura a todos los miembros de la Flota Pesquera Nacional que obtuvieron una Licencia de Pesca a partir de la Temporada Pesquera 2018-2019, 2019-2020; de igual aplicación para las embarcaciones que realizaron la renovación de conformidad con las disposiciones de los Acuerdos SAG-077-2020, SAG-090-2020, SAG-113-2020, SAG- 035-2021, SAG-081-2021 para la temporada 2020-2021, para las que obtendrán renovaciones de conformidad al acuerdo SAG-073-2021 para la temporada 2021-2022 y subsiguientes.
+PRIMERO: Proceder al cobro del Canon Contributivo establecido en la Ley General de Pesca y Acuicultura a todos los miembros de la Flota Pesquera Nacional que obtuvieron una Licencia de Pesca a partir de la Temporada Pesquera 2018-2019, 2019-2020; de igual aplicación para las embarcaciones que realizaron la renovación de conformidad con las disposiciones de los Acuerdos SAG-077-2020, SAG-090-2020, SAG-113-2020, SAG-035-2021, SAG-081-2021 para la temporada 2020-2021, para las que obtendrán renovaciones de conformidad al acuerdo SAG-073-2021 para la temporada 2021-2022 y subsiguientes.
 
 SEGUNDO: Ordenar a la Secretaría General de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), que en todas las resoluciones que recaigan sobre las solicitudes de renovación de Licencia de Pesca presentadas ante esta Secretaría de Estado, deberá ordenarse el pago del Canon Contributivo de acuerdo a lo establecido en el presente Acuerdo.
 
@@ -83,7 +83,7 @@ TERCERO: Ordenar a la Dirección General de Pesca y Acuicultura (DIGEPESCA), que
 
 CUARTO: Ordenar a la Gerencia Administrativa de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), que proceda a realizar las acciones necesarias y coordinar las mismas, con la Secretaría de Estado en el Despacho de Finanzas, para constituir fideicomiso para la captación y administración de los recursos provenientes del canon contributivo, de acuerdo a lo establecido en el Artículo 69 de la Ley General de Pesca y Acuicultura.
 
-QUINTO: Los pagos ordenados por esta Secretaría de Estado, deberá efectuarse una vez establecido el fideicomiso respectivo por parte de aquellos que hayan obtenido una Licencia de Pesca durante la Temporada Pesquera 2018-2019, 2019-2020; de igual aplicación para las embarcaciones que realizaron la renovación de conformidad con las disposiciones de los Acuerdos SAG- 077-2020, SAG-090-2020, SAG-113-2020, SAG-035- 2021, SAG-081-2021 para la temporada 2020-2021, por lo que la no acreditación del pago no será una limitante para la emisión de la Licencia de Pesca para la Temporada Pesquera 2021-2022, sin embargo la vigencia de la misma estará supeditada a la acreditación del pago una vez constituido en fideicomiso respectivo; pago que deberá ser efectuado a más tardar 3 días después de la notificación de la existencia del fideicomiso”.
+QUINTO: Los pagos ordenados por esta Secretaría de Estado, deberá efectuarse una vez establecido el fideicomiso respectivo por parte de aquellos que hayan obtenido una Licencia de Pesca durante la Temporada Pesquera 2018-2019, 2019-2020; de igual aplicación para las embarcaciones que realizaron la renovación de conformidad con las disposiciones de los Acuerdos SAG-077-2020, SAG-090-2020, SAG-113-2020, SAG-035-2021, SAG-081-2021 para la temporada 2020-2021, por lo que la no acreditación del pago no será una limitante para la emisión de la Licencia de Pesca para la Temporada Pesquera 2021-2022, sin embargo la vigencia de la misma estará supeditada a la acreditación del pago una vez constituido en fideicomiso respectivo; pago que deberá ser efectuado a más tardar 3 días después de la notificación de la existencia del fideicomiso”.
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá publicarse en el Diario Oficial “La Gaceta”.
 

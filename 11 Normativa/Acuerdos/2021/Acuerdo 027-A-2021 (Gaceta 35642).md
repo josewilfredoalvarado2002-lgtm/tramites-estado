@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Acuerdo Ejecutivo número 027-A-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210629-35642/download"
 extraido: "2026-11-14"
-huella: "8ff5fbe6e6fa3c74"
+huella: "c7bf69bdcf727441"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 027-A-2021
@@ -53,7 +53,7 @@ En uso de las facultades de que está investido y en aplicación de los Artícul
 
 116 y 118 de la Ley General de Administración Pública;
 
-1, Atribución Primera y 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República; 81 numeral 2 y 82 numeral 2 del Código Procesal Civil y Acuerdo Ejecutivo Número 043-2020, Decretos Legislativos 121-2018 y 109- 2020.
+1, Atribución Primera y 19 numeral 1 de la Ley Orgánica de la Procuraduría General de la República; 81 numeral 2 y 82 numeral 2 del Código Procesal Civil y Acuerdo Ejecutivo Número 043-2020, Decretos Legislativos 121-2018 y 109-2020.
 
 ACUERDA:
 

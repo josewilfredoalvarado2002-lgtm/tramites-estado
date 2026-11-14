@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 258-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221018-36054/download"
 extraido: "2026-11-14"
-huella: "0b86782ee4820767"
+huella: "ce3b729225c55a59"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 258-2022
@@ -33,7 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 145) estable
 
 CONSIDERANDO: Que la Ley de Simplificación Administrativa en su artículo 3) instituye que: “Todo órgano del Estado tiene la obligación de realizar, permanentemente, diagnósticos y análisis sobre los diferentes trámites y procedimientos administrativos que deban seguirse en sus dependencias, a fin de diseñar medidas de simplificación las cuales deberán ser adoptadas de acuerdo a los objetivos de la Ley de Simplificación Administrativa.
 
-CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial La Gaceta el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de Mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013- 2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de Septiembre del año 2020, como una Entidad Desconcentrada de Secretaría de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias. La Agencia de Regulación Sanitaria (ARSA) tiene competencia a nivel nacional y con domicilio en el Municipio del Distrito Central.
+CONSIDERANDO: Que mediante Decreto Legislativo 7-2021, publicado en el Diario Oficial La Gaceta el 12 de junio de 2021, se ratificó la creación de la AGENCIA DE REGULACIÓN SANITARIA (ARSA), creada mediante Decreto Ejecutivo Número PCM-032-2017, publicado en Diario Oficial “La Gaceta” en fecha 19 de Mayo del año 2017, reformado mediante Decreto Ejecutivo Número PCM-013-2020, publicado en Diario Oficial “La Gaceta” en fecha 3 de Septiembre del año 2020, como una Entidad Desconcentrada de Secretaría de Salud (SESAL), con independencia funcional, técnica, financiera y administrativa y de seguridad nacional, con personalidad jurídica propia, la cual es la entidad responsable de la supervisión, revisión, verificación, control, vigilancia y fiscalización del cumplimiento de la normativa legal, técnica y administrativa de los establecimientos, proveedores, productos y servicios de interés sanitario y de los que realicen actividades o practiquen conductas que repercutan o puedan repercutir en la salud de la población; y de la regulación, otorgamiento, renovación, modificación, suspensión o cancelación de los registros, permisos, licencias, certificaciones y otras autorizaciones sanitarias. La Agencia de Regulación Sanitaria (ARSA) tiene competencia a nivel nacional y con domicilio en el Municipio del Distrito Central.
 
 CONSIDERANDO: Que la Agencia de Regulación Sanitaria, es el ente garante del estricto cumplimiento de la normativa, cuyo fin primordial es la protección de la salud en el ámbito de la regulación sanitaria de los establecimientos y productos de interés sanitario de la población hondureña, en lo referente a las autorizaciones de tipo sanitario de una forma eficiente, procurando en todo momento hacerse valer de los mecanismos permitidos por la normativa técnico-legal vigente, así como de la simplificación de procedimientos, teniendo a disposición de las partes interesadas, sus servicios en lo referente al fomento, orientación y capacitación de su personal técnico-legal, procurando en todo momento que estos procedimientos sean culminados de manera eficaz y precisa.
 
@@ -49,7 +49,7 @@ POR TANTO:
 
 La suscrita Comisionada Presidenta de la Agencia de Regulación Sanitaria, en uso de las facultades de que está investido y en aplicación a los Artículos 145 y 146 de la Constitución de la República; 116, 118, 119 y 122 de la Ley General de la Administración Pública; 1, 3, 19, 24, 26, 32, 33, 40, 41 y 150 de la Ley de Procedimiento Administrativo;
 
-1,4 , 73, 74, 76, 78, 79, 225 del Código de Salud; 3, 44, 45, 46, 47, 48, 49, 56, 69, 70, 71, 143, 144, 145, 183 al 189, 191, 192, 193, 194, 195, 196 y 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 2, 5 y 7 del Decreto Legislativo 7-2021.
+1,4, 73, 74, 76, 78, 79, 225 del Código de Salud; 3, 44, 45, 46, 47, 48, 49, 56, 69, 70, 71, 143, 144, 145, 183 al 189, 191, 192, 193, 194, 195, 196 y 241 del Reglamento para el Control Sanitario de Productos, Servicios y Establecimientos de Interés Sanitario; 2, 5 y 7 del Decreto Legislativo 7-2021.
 
 ACUERDA:
 

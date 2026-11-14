@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "f23368e268d0fa6e"
+huella: "337146f8d095d7f9"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 039-2024
@@ -35,9 +35,7 @@ CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al
 
 CONSIDERANDO: Que según los artículos 7 y 26 del Protocolo de Guatemala, los Estados Parte han convenido en establecer un proceso de armonización regional de la normativa técnica.
 
-CONSIDERANDO: Que el COMIECO, mediante la Resolución No. 401-2018 (COMIECO-LXXXIII), del 28 de junio de 2018, aprobó el Reglamento Técnico Centroamericano RTCA 65.05.67:18 INSUMOS AGRÍCOLAS. INGREDIENTE ACTIVO GRADO TÉCNICO, PLAGUICIDAS QUÍMICOS FORMULADOS, SUSTANCIAS AFINES, COADYUVANTES Y VEHÍCULOS FÍSICOS DE USO AGRÍCOLA. REQUISITOS PARA LA ELABORACIÓN DE ETIQUETAS Y PANFLETOS, que fue modificado, por sustitución total, mediante la Resolución No.
-
-434-2020 (COMIECO-XCIII), del 10 de diciembre de 2020.
+CONSIDERANDO: Que el COMIECO, mediante la Resolución No. 401-2018 (COMIECO-LXXXIII), del 28 de junio de 2018, aprobó el Reglamento Técnico Centroamericano RTCA 65.05.67:18 INSUMOS AGRÍCOLAS. INGREDIENTE ACTIVO GRADO TÉCNICO, PLAGUICIDAS QUÍMICOS FORMULADOS, SUSTANCIAS AFINES, COADYUVANTES Y VEHÍCULOS FÍSICOS DE USO AGRÍCOLA. REQUISITOS PARA LA ELABORACIÓN DE ETIQUETAS Y PANFLETOS, que fue modificado, por sustitución total, mediante la Resolución No. 434-2020 (COMIECO-XCIII), del 10 de diciembre de 2020.
 
 CONSIDERANDO: Que el numeral 14.1 del mencionado RTCA, establece que las autoridades nacionales competentes de los Estados Parte tendrán un plazo de hasta un (1) año, para evaluar la información presentada por el administrado y emitir la resolución de aprobación o negación de etiquetas y panfletos y algunos Estados Parte han determinado que requieren un plazo mayor para tales efectos.
 

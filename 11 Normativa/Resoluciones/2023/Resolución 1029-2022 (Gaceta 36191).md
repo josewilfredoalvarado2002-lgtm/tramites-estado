@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Certificación, Resolución No. 1029-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230328-36191/download"
 extraido: "2026-11-14"
-huella: "899321cf22674531"
+huella: "6f3488786af9bb55"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1029-2022
@@ -27,9 +27,9 @@ huella: "899321cf22674531"
 
 ## Texto
 
-El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCION No. 1029- 2022. SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, Tegucigalpa, municipio del Distrito Central, ocho de agosto del año dos mil veintidós.
+El suscrito, Oficial Jurídico de Secretaría General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCION No. 1029-2022. SECRETARIA DE ESTADO EN LOS DESPACHOS DE GOBERNACION, JUSTICIA Y DESCENTRALIZACION, Tegucigalpa, municipio del Distrito Central, ocho de agosto del año dos mil veintidós.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de mayo del año dos mil veintidós, misma que corre a Expediente No. PJ-02052022- 293, por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE BARRIOS LOS PROFESORES, PEDREGAL Y ALGODONAL, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZAN, contraído a solicitar el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos de mayo del año dos mil veintidós, misma que corre a Expediente No. PJ-02052022-293, por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, quien actúa en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE BARRIOS LOS PROFESORES, PEDREGAL Y ALGODONAL, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZAN, contraído a solicitar el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
 
 RESULTA Que el peticionario acompañó a su solicitud los documentos correspondientes para el otorgamiento de la Personalidad Jurídica. CONSIDERANDO: Que la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE BARRIOS LOS PROFESORES, PEDREGAL Y ALGODONAL, MUNICIPIO DE CANTARRANAS, DEPARTAMENTO DE FRANCISCO MORAZAN, se crea como asociación de Servicio Comunal, de duración Que la indefinida, sin fines de lucro y que tendrá como finalidad obtener la participación efectiva de la comunidad para la construcción, operación y mantenimiento del sistema de agua potable de acuerdo con las normas, procedimientos y reglamentaciones vigentes, establecidos en la Ley Marco del Sector Agua Potable y Saneamiento y su Reglamento.
 

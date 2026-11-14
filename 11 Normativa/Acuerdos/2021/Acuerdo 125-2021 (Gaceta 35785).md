@@ -11,7 +11,7 @@ paginas: "A. 87 - 88"
 sumario: "Acuerdo No. 125-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211130-35785/download"
 extraido: "2026-11-14"
-huella: "5eb0048b623185eb"
+huella: "02552dbb11e19d11"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 125-2021
@@ -73,9 +73,7 @@ Que resulta necesario rectificar de oficio el Acuerdo CREE-60-2021, en tanto que
 
 Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014, la cual tiene por objeto, entre otros, regular las actividades de generación, transmisión, distribución y comercialización de electricidad en el territorio de la República de Honduras.
 
-Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No.
-
-61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facul­ tades administrativas suficientes para el cumplimiento de sus objetivos.
+Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica y su reforma mediante el Decreto No. 61-2020, publicado en el Diario Oficial “La Gaceta” el 5 de junio de 2020, la Comisión Reguladora de Energía Eléctrica cuenta con independencia funcional, presupuestaria y facul­ tades administrativas suficientes para el cumplimiento de sus objetivos.
 
 Que de conformidad con la Ley General de la Industria Eléctrica, la Comisión Reguladora de Energía Eléctrica adopta sus resoluciones por mayoría de sus miembros, los que desempeñarán sus funciones con absoluta independencia de criterio y bajo su exclusiva responsabilidad.
 

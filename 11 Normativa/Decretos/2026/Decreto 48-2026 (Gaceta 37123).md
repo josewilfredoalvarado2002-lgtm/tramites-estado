@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decreto No. 48-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260422-37123/download"
 extraido: "2026-11-09"
-huella: "db280a55a8a650b2"
+huella: "5745d9e76d33b677"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

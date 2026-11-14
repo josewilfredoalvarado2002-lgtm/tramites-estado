@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-053-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200614-35283/download"
 extraido: "2026-11-14"
-huella: "8bf3fc88f67d77a0"
+huella: "5daa4ab8cb6dc190"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-053-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 245 numerales 2 y 11 de la Con
 
 CONSIDERANDO: Que de conformidad con el Artículo 11 de la Ley General de la Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-052-2020, publicado en el Diario Oficial “La Gaceta” en fecha 07 de junio del 2020, Edición No. 35,276, mediante el cual se estableció la “PRÓRROGA DE RESTRICCIÓN GRADUAL A NIVEL NACIONAL DE LAS GARANTÍAS CONSTITUCIONALES PARA REFORZAR EL DISTANCIAMIENTO SOCIAL Y EVITAR LA PROPAGACIÓN DE LA PANDEMIA COVID-19, CONTENIDA EN EL DECRETO Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-053-2020 A. 1 - 4 EJECUTIVO NÚMERO PCM-045-2020. Dicha prórroga se decretó por siete (7) días efectivo a partir del día ocho (8) de junio del año dos mil veinte (2020) hasta el día catorce (14) del mismo mes y año, siendo ratificada previamente mediante Decretos Ejecutivos Números PCM-047-2020 y PCM-48- 2020 por igual periodo de tiempo.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado, aprobó el Decreto Ejecutivo Número PCM-052-2020, publicado en el Diario Oficial “La Gaceta” en fecha 07 de junio del 2020, Edición No. 35,276, mediante el cual se estableció la “PRÓRROGA DE RESTRICCIÓN GRADUAL A NIVEL NACIONAL DE LAS GARANTÍAS CONSTITUCIONALES PARA REFORZAR EL DISTANCIAMIENTO SOCIAL Y EVITAR LA PROPAGACIÓN DE LA PANDEMIA COVID-19, CONTENIDA EN EL DECRETO Sección A Decretos y Acuerdos PODER EJECUTIVO Decreto Ejecutivo número PCM-053-2020 A. 1 - 4 EJECUTIVO NÚMERO PCM-045-2020. Dicha prórroga se decretó por siete (7) días efectivo a partir del día ocho (8) de junio del año dos mil veinte (2020) hasta el día catorce (14) del mismo mes y año, siendo ratificada previamente mediante Decretos Ejecutivos Números PCM-047-2020 y PCM-48-2020 por igual periodo de tiempo.
 
 CONSIDERANDO: Que la Mesa Multisectorial en estricto apego y vigilancia al cumplimiento de las medidas de bioseguridad, continúa con el proceso de la implementación del Plan Nacional para Reapertura Inteligente Gradual y Progresiva de la Economía y los Sectores Sociales de Honduras, priorizando la salud y la vida de la población hondureña.
 
@@ -45,7 +45,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos 59, 65, 69, 78, 81, 84, 99, 103, 145, 187, 245 numerales 2, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020 y PCM-052-2020.
+Artículos 7, 11, 17, 18, 20, 22 numeral 9, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Decreto Legislativo No. 33-2020, contentivo de la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el COVID-19; Decreto Legislativo No. 42-2020, Decreto Legislativo No. 62-2020; Decretos Ejecutivos Números PCM-005-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM 040-2020, PCM 042-2020, PCM-045-2020, PCM-047-2020, PCM-048-2020 y PCM-052-2020.
 
 DECRETA:
 
@@ -53,7 +53,7 @@ DECRETA:
 
 ARTÍCULO 1.- PRÓRROGA DE RESTRICCIÓN GRADUAL A NIVEL NACIONAL DE LAS GARANTÍAS CONSTITUCIONALES PARA REFORZAR EL DISTANCIAMIENTO SOCIAL Y EVITAR LA PROPAGACIÓN DE LA PANDEMIA COVID-19, CONTENIDA EN EL DECRETO EJECUTIVO NÚMERO PCM-045-2020.
 
-Ratificar en todas y cada una de sus partes el contenido del Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255, ratificado mediante los Decretos Ejecutivos Números PCM-047-2020, PCM-048-2020 y PCM- 052-2020; prorrogando por quince (15) días la Restricción Gradual de las Garantías Constitucionales a nivel nacional contenidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, efectivo a partir del día quince
+Ratificar en todas y cada una de sus partes el contenido del Decreto Ejecutivo Número PCM-045-2020, publicado en el Diario Oficial “La Gaceta” en fecha 17 de mayo del 2020, Edición No. 35,255, ratificado mediante los Decretos Ejecutivos Números PCM-047-2020, PCM-048-2020 y PCM-052-2020; prorrogando por quince (15) días la Restricción Gradual de las Garantías Constitucionales a nivel nacional contenidas en los Artículos 69, 78, 81, 84, 99 y 103 de la Constitución de la República, efectivo a partir del día quince
 
 (15) de junio del año dos mil veinte (2020) hasta el día veintinueve (29) del mismo mes y año.
 

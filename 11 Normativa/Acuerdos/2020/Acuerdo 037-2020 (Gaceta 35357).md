@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto Ejecutivo número 084-2020 Acuerdo Ejecutivo número 037-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200829-35357/download"
 extraido: "2026-11-14"
-huella: "a3d050070d1764f6"
+huella: "b4e0530ba3771075"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 037-2020
@@ -39,7 +39,7 @@ CONSIDERANDO: Que el concepto de trabajo decente en el servicio público, trae c
 
 CONSIDERANDO: Que de acuerdo al análisis efectuado, se confirmó la necesidad imperativa de efectuar un ajuste salarial a efecto de satisfacer las necesidades básicas de los empleados públicos y consecuentemente ser congruente con la política social y salarial del Gobierno.
 
-CONSIDERANDO: Que según Acuerdo Ejecutivo No. 023- 2018, publicado en el Diario Oficial “La Gaceta” el 16 de abril del año 2018, el Presidente de la República delegó la facultad de firmar Decretos Ejecutivos en la ciudadana Martha Vicenta Doblado Andara, como Secretaria Coordinadora General de Gobierno, por Ley.
+CONSIDERANDO: Que según Acuerdo Ejecutivo No. 023-2018, publicado en el Diario Oficial “La Gaceta” el 16 de abril del año 2018, el Presidente de la República delegó la facultad de firmar Decretos Ejecutivos en la ciudadana Martha Vicenta Doblado Andara, como Secretaria Coordinadora General de Gobierno, por Ley.
 
 POR TANTO: En el ejercicio de sus atribuciones y en la aplicación de los Artículos: 128 numeral 3, 235 y 245 párrafo primero, numerales 11 y 19 y 248 de la Constitución de la República; 11, 29, 116 y 117 de la Ley General de la Administración Pública.
 

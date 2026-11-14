@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdo No. 337-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230617-36257/download"
 extraido: "2026-11-14"
-huella: "03ccd165dc5cb81c"
+huella: "c683474f4c130d7a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 337-2023
@@ -33,7 +33,7 @@ La suscrita, Comisionada Presidenta de la Agencia de Regulación Sanitaria (ARSA
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano SERGIO MAURICIO ENAMORADO MARTÍNEZ quien posee el Documento Nacional de Identificación 0801-1984-20347, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas, y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028- 2022, los días miércoles 24, jueves 25 y viernes 26 de mayo del año 2023.
+PRIMERO: Delegar funcionalmente al ciudadano SERGIO MAURICIO ENAMORADO MARTÍNEZ quien posee el Documento Nacional de Identificación 0801-1984-20347, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas, y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028-2022, los días miércoles 24, jueves 25 y viernes 26 de mayo del año 2023.
 
 SEGUNDO: El presente Acuerdo es efectivo a partir del 24 de mayo del 2023.
 
@@ -77,7 +77,7 @@ ARTÍCULO 3. El presente Decreto Ejecutivo es de ejecución inmediata y debe ser
 
 Considerando:
 
-Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61- 2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras. Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica se creó la Comisión Reguladora de Energía Eléctrica, con independencia funcional, presupuestaria, financiera y facultades administrativas suficientes para asegurar la capacidad técnica y financiera necesaria para el cumplimiento de sus objetivos.
+Que la Ley General de la Industria Eléctrica fue aprobada mediante Decreto No. 404-2013, publicado en el Diario Oficial “La Gaceta” el 20 de mayo del 2014 y reformada mediante Decretos Legislativos números 61-2020, 2-2022 y 46-2022; esta tiene por objeto, entre otros, regular las actividades de generación, transmisión y distribución de electricidad en el territorio de la República de Honduras. Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica se creó la Comisión Reguladora de Energía Eléctrica, con independencia funcional, presupuestaria, financiera y facultades administrativas suficientes para asegurar la capacidad técnica y financiera necesaria para el cumplimiento de sus objetivos.
 
 Que de acuerdo con lo establecido en la Ley General de la Industria Eléctrica, el Estado supervisará la operación del Subsector Eléctrico a través de la Comisión Reguladora de Energía Eléctrica.
 

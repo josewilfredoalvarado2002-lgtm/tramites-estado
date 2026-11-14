@@ -11,7 +11,7 @@ paginas: "A. 14 - 16"
 sumario: "Acuerdos Ejecutivos Números 462-2023, 463-2023, 480-2023, 481-2023, 482-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240109-36429/download"
 extraido: "2026-11-14"
-huella: "b804330bd1726363"
+huella: "92479db1a78f6049"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 482-2023
@@ -39,7 +39,7 @@ Que, el artículo 248 de la Constitución de la República en su párrafo primer
 
 CONSIDERANDO:
 
-Que, el Decreto Legislativo No.83-2004, que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación. Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública y la Política de Endeudamiento Público, en relación con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
+Que, el Decreto Legislativo No. 83-2004, que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables. En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación. Esta negociación y la posterior formalización estarán determinadas por las prioridades del Programa de Inversión Pública y la Política de Endeudamiento Público, en relación con el Marco Macroeconómico y Programa Financiero de Mediano y Largo Plazo que defina el Gobierno de la República.
 
 CONSIDERANDO:
 
@@ -47,7 +47,7 @@ Que, el artículo 39 de la Constitución de la República estipula que todos los
 
 CONSIDERANDO:
 
-Que el artículo 2 de la Ley del Registro Nacional de las Personas (RNP) acordado en el Decreto Legislativo No.62- 2004, establece que el RNP, tiene por finalidad planificar, organizar, dirigir, desarrollar y administrar exclusivamente el sistema integrado del registro civil e identificación de las personas naturales.
+Que el artículo 2 de la Ley del Registro Nacional de las Personas (RNP) acordado en el Decreto Legislativo No. 62-2004, establece que el RNP, tiene por finalidad planificar, organizar, dirigir, desarrollar y administrar exclusivamente el sistema integrado del registro civil e identificación de las personas naturales.
 
 CONSIDERANDO:
 

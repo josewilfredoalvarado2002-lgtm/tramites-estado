@@ -8,10 +8,10 @@ gaceta_numero: 36222
 gaceta_fecha: "2023-05-08"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36222 (2023-05-08)|La Gaceta 36222]]"
 paginas: "A. 7 - 8"
-sumario: "Acuerdo S.D.N. No. 047-2023AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 211-2023"
+sumario: "Acuerdo S.D.N. No. 047-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 211-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230508-36222/download"
 extraido: "2026-11-14"
-huella: "bcf43057460563e5"
+huella: "66ea1006ff1152e2"
 ---
 <!-- portal:inicio -->
 # ACUERDO 211-2023
@@ -23,7 +23,7 @@ huella: "bcf43057460563e5"
 | Emisor | Agencia de Regulación Sanitaria (ARSA) |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36222 (2023-05-08)\|La Gaceta 36222]] del 2023-05-08 |
 | Páginas | A. 7 - 8 |
-| Según el sumario de La Gaceta | Acuerdo S.D.N. No. 047-2023AGENCIA DE REGULACIÓN SANITARIA ARSAAcuerdo No. 211-2023 |
+| Según el sumario de La Gaceta | Acuerdo S.D.N. No. 047-2023; AGENCIA DE REGULACIÓN SANITARIA ARSA: Acuerdo No. 211-2023 |
 
 ## Texto
 
@@ -33,7 +33,7 @@ La suscrita, Comisionada Presidenta de la Agencia de Regulación Sanitaria (ARSA
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano SERGIO MAURICIO ENAMORADO MARTÍNEZ quien posee el Documento Nacional de Identificación 0801-1984- 20347, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas, y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028-2022. a partir del día lunes 24 al 28 de abril del año 2023.
+PRIMERO: Delegar funcionalmente al ciudadano SERGIO MAURICIO ENAMORADO MARTÍNEZ quien posee el Documento Nacional de Identificación 0801-1984-20347, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas, y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028-2022. a partir del día lunes 24 al 28 de abril del año 2023.
 
 SEGUNDO: El presente acuerdo es efectivo a partir del 24 de abril del 2023.
 

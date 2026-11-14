@@ -11,7 +11,7 @@ paginas: "A. 8 - 16"
 sumario: "Decretos Nos. 44-2022, 47-2022, 48-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download"
 extraido: "2026-11-14"
-huella: "ed05035f03310eec"
+huella: "514da842f0f54181"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 48-2022
@@ -41,7 +41,7 @@ CONSIDERANDO: Que es función esencial del Estado velar por el desarrollo equita
 
 CONSIDERANDO: Que de conformidad al Artículo 337 de la Constitución de la República la industria y el comercio en pequeña escala constituyen el patrimonio de los hondureños y que su protección será objeto de una ley.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.135-2008, de fecha 1 de Octubre de 2008, publicado en el Diario Oficial “La Gaceta” el 14 de Enero del 2009, en su edición 31,811, fue aprobada la “Ley para el Fomento y Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa”, cuya finalidad de conformidad a su
+CONSIDERANDO: Que mediante Decreto Legislativo No. 135-2008, de fecha 1 de Octubre de 2008, publicado en el Diario Oficial “La Gaceta” el 14 de Enero del 2009, en su edición 31,811, fue aprobada la “Ley para el Fomento y Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa”, cuya finalidad de conformidad a su
 
 Artículo 1 es el fomento del desarrollo de la competitividad y productividad de la micro, pequeña y mediana empresa urbana y rurales, a objeto de promover el empleo y el bienestar social y económico de todos los participantes en dichas unidades económicas. Para tal efecto, el Estado brindará su apoyo a este sector, en el campo tributario.
 
@@ -127,7 +127,7 @@ b) Exención del pago del cincuenta por ciento (50%) en el Impuesto Sobre la Ren
 
 #### Artículo 7
 
-ARTÍCULO 7.- EXENCIONES FISCALES NO INCLUIDAS EN LA PRESENTE LEY. No se encuentran comprendidos en la presente exención, el Impuesto Sobre Ganancias de Capital, el Impuesto Sobre Dividendos o cualquier otra forma de participación de utilidades, el Impuesto Único del diez por ciento (10%), los Intereses Sobre las Rentas; la obligación de la retención del uno por ciento (1%) en concepto de Anticipo del Impuesto Sobre la Renta, la cual debe retenerse a proveedores y contratistas nacionales y extranjeros, conforme a lo establecido en el Artículo número 19 de la “LEY DE FORTALECIMIENTO DE LOS INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PÚBLICO”, aprobado mediante el Decreto Legislativo No.17-2010 de fecha 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010, de las tasas de retención del Impuesto Sobre la Renta por pagos realizados a personas naturales y jurídicas residentes y no residentes y de la modalidad del Impuesto Sobre la Renta correspondiente al uno punto cinco por ciento (1.5%) de los ingresos brutos declarados contenidos en el
+ARTÍCULO 7.- EXENCIONES FISCALES NO INCLUIDAS EN LA PRESENTE LEY. No se encuentran comprendidos en la presente exención, el Impuesto Sobre Ganancias de Capital, el Impuesto Sobre Dividendos o cualquier otra forma de participación de utilidades, el Impuesto Único del diez por ciento (10%), los Intereses Sobre las Rentas; la obligación de la retención del uno por ciento (1%) en concepto de Anticipo del Impuesto Sobre la Renta, la cual debe retenerse a proveedores y contratistas nacionales y extranjeros, conforme a lo establecido en el Artículo número 19 de la “LEY DE FORTALECIMIENTO DE LOS INGRESOS, EQUIDAD SOCIAL Y RACIONALIZACIÓN DEL GASTO PÚBLICO”, aprobado mediante el Decreto Legislativo No. 17-2010 de fecha 28 de Marzo de 2010, publicado en el Diario Oficial “La Gaceta” el 22 de Abril de 2010, de las tasas de retención del Impuesto Sobre la Renta por pagos realizados a personas naturales y jurídicas residentes y no residentes y de la modalidad del Impuesto Sobre la Renta correspondiente al uno punto cinco por ciento (1.5%) de los ingresos brutos declarados contenidos en el
 
 #### Artículo 22
 
@@ -135,7 +135,7 @@ Artículo 22-A de la Ley del Impuesto Sobre la Renta y sus reformas.
 
 #### Artículo 8
 
-ARTÍCULO 8.- DE LOS BENEFICIOS PARA MICRO Y PEQUEÑA EMPRESAS C O N S T I T U I D A S Y E N OPERACIÓN. Las Micro y Pequeñas Empresas (MYPE) mencionadas en el
+ARTÍCULO 8.- DE LOS BENEFICIOS PARA MICRO Y PEQUEÑA EMPRESAS CONSTITUIDAS Y EN OPERACIÓN. Las Micro y Pequeñas Empresas (MYPE) mencionadas en el
 
 Artículo 4 numeral 3) de la presente Ley, que se encuentren constituidas y en operación con anterioridad a la vigencia de la presente Ley, pueden acogerse y gozar de los beneficios contenidos en los numerales 1), literal
 

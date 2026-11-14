@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdos Ministeriales Nos. 099-2022, 100-2022, 101-2022, 102-2022, 103-2022, 104-2022, 105-2022, 106-2022, 107-2022, 108-2022, 112-2022, 113-2022,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221025-36059/download"
 extraido: "2026-11-14"
-huella: "3ca0accc4b9b63a3"
+huella: "051a05e98c300084"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 104-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Congreso Nacional de la República mediante Decreto 7-2008 
 
 CONSIDERANDO: Que la República de Panamá se incorporó al Subsistema de Integración Económica Centroamericana mediante el Protocolo de Incorporación en el cual y de conformidad con lo establecido en el Artículo IV del Título VI (Disposiciones Transitorias) del Protocolo al Tratado General de Integración Centroamericana (Protocolo de Guatemala) suscrito el 29 de octubre de 1993, quedaron definidos los términos, plazos, condiciones y modalidades de su incorporación.
 
-CONSIDERANDO: Que mediante Anexo de la Resolución No.331-2013 (COMIECO-LXVI) del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Parte del Subsistema de Integración Económica con la República de Panamá.
+CONSIDERANDO: Que mediante Anexo de la Resolución No. 331-2013 (COMIECO-LXVI) del 12 de diciembre del 2013, se incorporan al Anexo “A” del Tratado General de Integración Económica Centroamericana, los regímenes bilaterales de excepción al libre comercio de las mercancías de cada uno de los Estados Parte del Subsistema de Integración Económica con la República de Panamá.
 
 CONSIDERANDO: Que en el Apéndice I (Contingentes Arancelarios) de la lista al Anexo 3.04 (Programa de Desgravación Arancelaria, Sección A: Desgravación Arancelaria de Honduras) del Tratado de Libre Comercio Centroamérica – Panamá, quedaron negociadas las mercancías sujetas a contingentes arancelarios, las cuales fueron a su vez incorporadas en el Apéndice a los Anexos 4.2 y 4.3 del Protocolo de Incorporación de Panamá al Subsistema Económico de Integración Centroamericana, constituyendo así los contingentes de importación bilaterales aplicables de la República de Panamá a Honduras, siendo en lo aplicable, el Protocolo de incorporación de Panamá la normativa aplicable al régimen de contingentes a partir de la vigencia del mismo.
 

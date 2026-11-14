@@ -11,7 +11,7 @@ paginas: "A. 4 - 6"
 sumario: "Decretos Nos. 40-2022, 41-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220523-35930/download"
 extraido: "2026-11-14"
-huella: "431f14990493554b"
+huella: "a5a55ed792ed87ec"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 41-2022
@@ -65,7 +65,7 @@ ARTÍCULO 4.- Las autoridades educativas de todos los niveles impulsarán en el 
 
 #### Artículo 5
 
-ARTÍCULO 5.- Créase el premio nacional “DÍA N A C I O N A L D E L A L U C H A CONTRA LA CORRUPCIÓN Y POR LA DIGNIDAD NACIONAL”, el cual será entregado a personas que con sus ejecutorias contribuyan al esclarecimiento en los actos de corrupción. La selección de los postulantes y la entrega de dicho premio se realizará siguiendo el procedimiento que para tal efecto establezca el Congreso Nacional.
+ARTÍCULO 5.- Créase el premio nacional “DÍA NACIONAL DE LA LUCHA CONTRA LA CORRUPCIÓN Y POR LA DIGNIDAD NACIONAL”, el cual será entregado a personas que con sus ejecutorias contribuyan al esclarecimiento en los actos de corrupción. La selección de los postulantes y la entrega de dicho premio se realizará siguiendo el procedimiento que para tal efecto establezca el Congreso Nacional.
 
 #### Artículo 6
 

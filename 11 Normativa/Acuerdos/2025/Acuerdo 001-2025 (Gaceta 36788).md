@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdo No. 001-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250312-36788/download"
 extraido: "2026-11-12"
-huella: "6058476bce9f58bf"
+huella: "d8b1717f2a73af74"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2025
@@ -59,7 +59,7 @@ En aplicación de los artículos 36.19, 116, 118 y 122 de la Ley General de la A
 
 ACUERDA:
 
-PRIMERO: Delegar al Abogado MARCOS ANTONIO PALACIOS CASTRO, nombrado en el cargo de Secretario General del Instituto Nacional de Migración, mediante Acuerdo Ejecutivo No.199-2022 de fecha 17/03/2022, las potestades, atribuciones y facultades de firmar Providencias de admisión, requerimientos, autorizaciones de movimientos migratorios y de constancias varias que se soliciten ante el Instituto Nacional de Migración.
+PRIMERO: Delegar al Abogado MARCOS ANTONIO PALACIOS CASTRO, nombrado en el cargo de Secretario General del Instituto Nacional de Migración, mediante Acuerdo Ejecutivo No. 199-2022 de fecha 17/03/2022, las potestades, atribuciones y facultades de firmar Providencias de admisión, requerimientos, autorizaciones de movimientos migratorios y de constancias varias que se soliciten ante el Instituto Nacional de Migración.
 
 SEGUNDO: Establecer que el funcionario delegado es responsable del ejercicio de la función delegada y del respeto de los procedimientos conforme a la Ley y Reglamentos que sean aplicables.
 

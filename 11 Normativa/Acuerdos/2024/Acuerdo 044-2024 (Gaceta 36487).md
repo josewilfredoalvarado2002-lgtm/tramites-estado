@@ -11,7 +11,7 @@ paginas: "A. 13 - 15"
 sumario: "Acuerdos Ministeriales Nos. 039-2024, 040-2024, 041-2024, 042-2024, 043-2024, 044-2024, 045-2024, 046-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240316-36487/download"
 extraido: "2026-11-14"
-huella: "338ec0622b711060"
+huella: "51a1de8d405dac0b"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 044-2024
@@ -33,9 +33,7 @@ CONSIDERANDO: Que Honduras es un Estado Miembro del Sistema de Integración Cent
 
 CONSIDERANDO: Que de conformidad con los artículos 38, 39 y 55 del Protocolo al Tratado General de Integración Económica Centroamericana (Protocolo de Guatemala), modificado por la Enmienda del 27 de febrero de 2002, el Consejo de Ministros de Integración Económica (COMIECO), tiene bajo su competencia los asuntos de la Integración Económica Centroamericana y, como tal, le corresponde aprobar los actos administrativos aplicables en los Estados Parte del Subsistema Económico.
 
-CONSIDERANDO: Que mediante la Resolución No.
-
-314-2013 (COMIECO-EX), del 5 de julio de 2013, se aprobó el Reglamento Técnico Centroamericano RTCA 65.05.54:09 FERTILIZANTES Y ENMIENDAS DE USO AGRÍCOLA. REQUISITOS PARA EL REGISTRO, el cual fue modificado por sustitución total, por el Reglamento Técnico Centroamericano RTCA 65.05.54:15 FERTILIZANTES Y ENMIENDAS DE USO AGRÍCOLA. REQUISITOS PARA EL REGISTRO, mediante la Resolución No. 374- 2015 (COMIECO- LXXIV), del 4 de diciembre de 2015 y modificado por la Resolución No. 415-2019 (COMIECOLXXXVIII), del 25 de octubre de 2019.
+CONSIDERANDO: Que mediante la Resolución No. 314-2013 (COMIECO-EX), del 5 de julio de 2013, se aprobó el Reglamento Técnico Centroamericano RTCA 65.05.54:09 FERTILIZANTES Y ENMIENDAS DE USO AGRÍCOLA. REQUISITOS PARA EL REGISTRO, el cual fue modificado por sustitución total, por el Reglamento Técnico Centroamericano RTCA 65.05.54:15 FERTILIZANTES Y ENMIENDAS DE USO AGRÍCOLA. REQUISITOS PARA EL REGISTRO, mediante la Resolución No. 374-2015 (COMIECO- LXXIV), del 4 de diciembre de 2015 y modificado por la Resolución No. 415-2019 (COMIECOLXXXVIII), del 25 de octubre de 2019.
 
 CONSIDERANDO: Que las autoridades competentes de los Estados Parte han identificado la necesidad de actualizar algunas disposiciones del Reglamento Técnico Centroamericano mencionado y han elevado a consideración de este Foro una propuesta de modificación parcial;
 

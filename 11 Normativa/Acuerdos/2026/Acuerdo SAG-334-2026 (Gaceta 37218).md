@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Acuerdo No. SAG-334-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260812-37218/download"
 extraido: "2026-11-09"
-huella: "ce0a6503317bc7b4"
+huella: "f3e144a28192da49"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-334-2026
@@ -123,19 +123,19 @@ CONSIDERANDO (14):
 
 Que en fecha veinticuatro
 
-(24) de febrero del dos mil veintiséis (2026), la Fuerza Naval de Honduras emitió Nota Aclaratoria con REGISTRO FNH/CMDCIA/No.0474- 2 0 2 6 , E X P E D I E N T E :
+(24) de febrero del dos mil veintiséis (2026), la Fuerza Naval de Honduras emitió Nota Aclaratoria con REGISTRO FNH/CMDCIA/No. 0474-2 0 2 6, EXPEDIENTE:
 
 OF/1A1, mediante la cual informó que la Fuerza Naval de Honduras asumirá, el presupuesto destinado para la creación de la Estación de Guardacostas de la Fuerza Naval de Honduras. Tanto el personal como logística necesaria serán asignados a partir de la estructura organizacional y presupuestaria existente dentro de la misma Fuerza.
 
 CONSIDERANDO (15):
 
-Que en fecha veinticinco (25) de febrero del dos mil veintiséis (2026), mediante Opinión Jurídica con REGISTRO A J M F F A A - 2 3 - 0 2 6 , EXPEDIENTE No. 433, la Auditoría Jurídico Militar de las Fuerzas Armadas determinó que es procedente la solicitud de revisión y aprobación para la creación de la Estación de Guardacostas, por cuanto la misma responde a una necesidad estratégica institucional, orientada a fortalecer la presencia permanente del Estado en los espacios marítimos jurisdiccionales, incrementar la capacidad operativa de prevención y combate de amenazas transnacionales tales como el narcotráfico, pesca ilegal, contrabando y tráfico ilícito de personas, en concordancia con los fines de seguridad y defensa nacional.
+Que en fecha veinticinco (25) de febrero del dos mil veintiséis (2026), mediante Opinión Jurídica con REGISTRO A J M F F A A - 2 3 - 0 2 6, EXPEDIENTE No. 433, la Auditoría Jurídico Militar de las Fuerzas Armadas determinó que es procedente la solicitud de revisión y aprobación para la creación de la Estación de Guardacostas, por cuanto la misma responde a una necesidad estratégica institucional, orientada a fortalecer la presencia permanente del Estado en los espacios marítimos jurisdiccionales, incrementar la capacidad operativa de prevención y combate de amenazas transnacionales tales como el narcotráfico, pesca ilegal, contrabando y tráfico ilícito de personas, en concordancia con los fines de seguridad y defensa nacional.
 
 CONSIDERANDO (16):
 
 Que en fecha veintisiete
 
-(27) de febrero del dos mil veintiséis (2026), mediante Recomendación c o n R E G I S T R O D . P . P . P . - 0 1 2 - 2 0 2 6 , EXPEDIENTE No. 0354, el Director de Planeamiento, Programación y Presupuesto del Estado Mayor Conjunto opinó que la solicitud de creación de la Estación de Guardacostas de la (FNH) es procedente.
+(27) de febrero del dos mil veintiséis (2026), mediante Recomendación c o n R E G I S T R O D . P . P . P . - 0 1 2 - 2 0 2 6, EXPEDIENTE No. 0354, el Director de Planeamiento, Programación y Presupuesto del Estado Mayor Conjunto opinó que la solicitud de creación de la Estación de Guardacostas de la (FNH) es procedente.
 
 CONSIDERANDO (17): Que en fecha uno (01) de junio del dos mil veintiséis (2026) mediante Dictamen D=003- (C-3)-2026, emitido por la Dirección de Organización, Operaciones, Adiestramiento, Manejo de Crisis, Educación Física y Deportes y Asuntos Internacionales (C-3) del Estado Mayor Conjunto, solicitó al señor Secretario de Estado en el Despacho de Defensa Nacional la creación y acuerdo de la “Estación de Guardacostas” como parte de la estructura orgánica de la Fuerza Naval de Honduras.
 
@@ -149,7 +149,7 @@ En aplicación de los artículos 12, 247, 272 y 274 párrafo primero de la Const
 
 ACUERDA:
 
-PRIMERO: C R E A R l a “ E S T A C I Ó N D E GUARDACOSTAS” como parte de la estructura orgánica de la Fuerza Naval de Honduras, exclusivamente con la finalidad de garantizar la seguridad marítima, la protección de la soberanía nacional, la prevención y combate de actividades ilícitas en el mar, la salvaguarda de la vida humana y la protección de los recursos naturales y del medio ambiente marino, ejecutando operaciones permanentes de vigilancia, control e interdicción marítima así como de búsqueda y rescate, en estricto apego al marco jurídico vigente.
+PRIMERO: CREAR la “ ESTACIÓN DE GUARDACOSTAS” como parte de la estructura orgánica de la Fuerza Naval de Honduras, exclusivamente con la finalidad de garantizar la seguridad marítima, la protección de la soberanía nacional, la prevención y combate de actividades ilícitas en el mar, la salvaguarda de la vida humana y la protección de los recursos naturales y del medio ambiente marino, ejecutando operaciones permanentes de vigilancia, control e interdicción marítima así como de búsqueda y rescate, en estricto apego al marco jurídico vigente.
 
 SEGUNDO: Organizar y nombrar, el personal de señores Oficiales, Suboficiales, Tropa y personal auxiliar, que serán asignados a su estructura orgánica.
 

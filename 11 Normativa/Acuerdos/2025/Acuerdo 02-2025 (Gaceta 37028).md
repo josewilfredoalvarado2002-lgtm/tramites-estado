@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Acuerdos Números 01-2025, 02-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251226-37028/download"
 extraido: "2026-11-09"
-huella: "d97e9c7800b8547f"
+huella: "22eb759f03fa72e1"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 02-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de lo que hoy es el Sistema Penitenciario Nacional, es la Peni
 
 CONSIDERANDO: Que es necesario establecer doctrina y bases históricas que marquen la importancia de lo que las instituciones representan para el Estado y la sociedad hondureña, siendo que en esta parte el Sistema Penitenciario Nacional cumple y tiene asignada una función fundamental en la seguridad y defensa de la sociedad, la que es meritorio reconocer y conmemorar.
 
-POR TANTO, El Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, General de Brigada JOSÉ MIGUEL MEJÍA MEDINA y los demás miembros de la Comisión Interventora y autoridades del Instituto Nacional Penitenciario, en uso de las facultades de que esta investida y en aplicación de los artículos 59, 87 y 119 de la Constitución de la República; 41 reformado de la Ley de Procedimiento Administrativo; artículo 11 numeral (3) 4) y artículo 16 numeral (13) de la Ley del Sistema penitenciario Nacional; artículo 29 numeral 1) párrafo segundo de la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y fortalecimiento de la transparencia en el gobierno; Decreto Ejecutivo PCM-028 -2023 publicado en el Diario Oficial de La Gaceta el 23 de junio del 2023, PCM-18-2024, PCM-041-2024 y Acuerdo Ejecutivo 106- 2025 publicado en el Diario Oficial La Gaceta el 30 de julio del 2025.
+POR TANTO, El Comisionado Presidente de la Comisión Interventora del Sistema Penitenciario Nacional, General de Brigada JOSÉ MIGUEL MEJÍA MEDINA y los demás miembros de la Comisión Interventora y autoridades del Instituto Nacional Penitenciario, en uso de las facultades de que esta investida y en aplicación de los artículos 59, 87 y 119 de la Constitución de la República; 41 reformado de la Ley de Procedimiento Administrativo; artículo 11 numeral (3) 4) y artículo 16 numeral (13) de la Ley del Sistema penitenciario Nacional; artículo 29 numeral 1) párrafo segundo de la Ley para Optimizar la Administración Pública, mejorar los servicios a la ciudadanía y fortalecimiento de la transparencia en el gobierno; Decreto Ejecutivo PCM-028 -2023 publicado en el Diario Oficial de La Gaceta el 23 de junio del 2023, PCM-18-2024, PCM-041-2024 y Acuerdo Ejecutivo 106-2025 publicado en el Diario Oficial La Gaceta el 30 de julio del 2025.
 
 ACUERDA
 

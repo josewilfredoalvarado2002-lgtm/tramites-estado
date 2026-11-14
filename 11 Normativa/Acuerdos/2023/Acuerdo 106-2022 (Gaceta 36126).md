@@ -8,10 +8,10 @@ gaceta_numero: 36126
 gaceta_fecha: "2023-01-11"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36126 (2023-01-11)|La Gaceta 36126]]"
 paginas: "A. 4 - 6"
-sumario: "Acuerdo Ejecutivo Número 002-SEP-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2022, 906-2022"
+sumario: "Acuerdo Ejecutivo Número 002-SEP-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2022, 906-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230111-36126/download"
 extraido: "2026-11-14"
-huella: "c7763f92ebfaa401"
+huella: "e7892919b043d164"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 106-2022
@@ -23,7 +23,7 @@ huella: "c7763f92ebfaa401"
 | Emisor | Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36126 (2023-01-11)\|La Gaceta 36126]] del 2023-01-11 |
 | Páginas | A. 4 - 6 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 002-SEP-2023SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 106-2022, 906-2022 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo Número 002-SEP-2023; SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 106-2022, 906-2022 |
 
 ## Texto
 
@@ -41,9 +41,7 @@ CONSIDERANDO: Que la Ley de Contratación del Estado, establece en su Artículo 
 
 \1) En la Administración Central: c) Los Gerentes Administrativos de las Secretarías de Estado en los casos y hasta los límites que le sean por el Secretario de Estado correspondiente.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-83-2004 de fecha 28 mayo de 2004, se aprobó la Ley Orgánica de Presupuesto y a través del Acuerdo Ejecutivo No. 0419 de fecha 10 de mayo de 2005, se aprobó el Reglamento de Ejecución de dicha Ley Orgánica.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 83-2004 de fecha 28 mayo de 2004, se aprobó la Ley Orgánica de Presupuesto y a través del Acuerdo Ejecutivo No. 0419 de fecha 10 de mayo de 2005, se aprobó el Reglamento de Ejecución de dicha Ley Orgánica.
 
 CONSIDERANDO: Que el Articulo 37 numeral 3 de la Ley Orgánica de Presupuesto, señala que corresponde a las Secretarías de Estado por medio de sus titulares; o sus substitutos legales, autorizar las transferencias de fondos presupuestarios entre objetos específicos del gasto o entre categorías de un mismo programa, siguiendo el procedimiento que al efecto establece la Secretaría de Estado en los Despachos Finanzas.
 

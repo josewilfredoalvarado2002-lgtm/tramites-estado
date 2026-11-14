@@ -11,7 +11,7 @@ paginas: "A. 4"
 sumario: "Acuerdo No. 010-IHT-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220411-35896/download"
 extraido: "2026-11-14"
-huella: "ab1af7a6d7a2619d"
+huella: "d98ee4a62b3be5c9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 010-IHT-2022
@@ -29,17 +29,17 @@ huella: "ab1af7a6d7a2619d"
 
 LA PRESIDENTA EJECUTIVA DEL INSTITUTO HONDUREÑO DE TURISMO
 
-CONSIDERANDO: Que Mediante Decreto Número 103- 93 de fecha catorce (14) de julio de 1993, publicado en el Diario Oficial La Gaceta de fecha veintisiete (27) de mayo de 1993 se creó la Instituto Hondureño de Turismo.
+CONSIDERANDO: Que Mediante Decreto Número 103-93 de fecha catorce (14) de julio de 1993, publicado en el Diario Oficial La Gaceta de fecha veintisiete (27) de mayo de 1993 se creó la Instituto Hondureño de Turismo.
 
-CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No.32-2022 de fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública, en la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA, en el cargo de Secretaria de Estado en el Despacho de Turismo y Presidenta Ejecutiva del Instituto Hondureño de Turismo.
+CONSIDERANDO: Que, mediante Acuerdo Ejecutivo No. 32-2022 de fecha 27 de enero de 2022, la Presidenta Constitucional de la República, en uso de sus atribuciones y en aplicación de los artículos 235 y 245 numerales 5 y 11 de la Constitución de la República; 11, 12, 28, 29, 116, 118, 119 y 122 de la Ley General de la Administración Pública, en la ciudadana YADIRA ESTHER GÓMEZ CHAVARRIA, en el cargo de Secretaria de Estado en el Despacho de Turismo y Presidenta Ejecutiva del Instituto Hondureño de Turismo.
 
-POR TANTO LA PRESIDENTA EJECUTIVA DEL INSTITUTO HONDUREÑO DE TURISMO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No.32-2022 de fecha 27 de enero de 2022 y en aplicación de los artículos 235 y 245 atribuciones 1,12 y 14 de la Ley del Instituto Hondureño de Turismo; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
+POR TANTO LA PRESIDENTA EJECUTIVA DEL INSTITUTO HONDUREÑO DE TURISMO En uso de sus facultades de que fue investido por el Presidente de la República mediante Acuerdo Ejecutivo No. 32-2022 de fecha 27 de enero de 2022 y en aplicación de los artículos 235 y 245 atribuciones 1,12 y 14 de la Ley del Instituto Hondureño de Turismo; 11, 116, 118, 119 y 122 de la Ley General de la Administración Pública.
 
 ACUERDA:
 
 PRIMERO: Nombrar al ciudadano RICARDO ALFREDO MARTINEZ CASTAÑEDA, quien ostenta en el cargo Asesor de Desarrollo Estratégico de la Secretaría de Estado en el Despacho de Turismo, según contrato No 004-2022-SETUR de fecha siete (7) de febrero del año 2022; en el cargo de Asesor de Desarrollo Estratégico del Instituto Hondureño de Turismo, cargo que desempeñará AD HONOREM.
 
-SEGUNDO: Nombrar al ciudadano MARIO ROBERTO NUILA COTO, quien ostenta el cargo de Asesor Ejecutivo de Despacho de la Secretaría de Estado en el Despacho de Turismo, según Contrato No.003-2022-SETUR de fecha dos
+SEGUNDO: Nombrar al ciudadano MARIO ROBERTO NUILA COTO, quien ostenta el cargo de Asesor Ejecutivo de Despacho de la Secretaría de Estado en el Despacho de Turismo, según Contrato No. 003-2022-SETUR de fecha dos
 
 (2) de febrero del año 2022; en el cargo Asesor Ejecutivo de Despacho del Instituto Hondureño de Turismo, cargo que desempeñará AD HONOREM.
 

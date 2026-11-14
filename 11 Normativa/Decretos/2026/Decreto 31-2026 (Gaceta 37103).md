@@ -11,7 +11,7 @@ paginas: "A. 8 - 10"
 sumario: "Decretos Nos. 28-2026, 29-2026, 31-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260325-37103/download"
 extraido: "2026-11-09"
-huella: "9f499d5ea1a0c72c"
+huella: "137e1a6f8f090a6a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 31-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

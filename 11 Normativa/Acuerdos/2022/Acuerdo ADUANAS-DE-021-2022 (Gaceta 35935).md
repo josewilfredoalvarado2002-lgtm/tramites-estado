@@ -11,7 +11,7 @@ paginas: "A. 2 - 4"
 sumario: "Acuerdo No. ADUANAS-DE-021-2022, 022-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220528-35935/download"
 extraido: "2026-11-14"
-huella: "5d3bef990c091411"
+huella: "557be72b2a72581c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. ADUANAS-DE-021-2022
@@ -33,13 +33,13 @@ Tegucigalpa M.D.C., 09 de mayo del año 2022
 
 CONSIDERANDO: Que la Administración Aduanera es una entidad desconcentrada de la Presidencia de la República, con autonomía funcional, técnica, administrativa y de seguridad nacional, con personalidad jurídica propia, responsable del control, verificación, fiscalización y recaudación de los tributos aduaneros, con autoridad y competencia a nivel nacional y con domicilio en la capital de la República de Honduras, creada según lo preceptuado en el artículo 195 del Decreto Legislativo Número 170-2016 contentivo del Código Tributario, aprobado el quince (15) de diciembre de dos mil dieciséis (2016) y publicado en el Diario Oficial “La Gaceta” el veintiocho (28) de diciembre de dos mil dieciséis (2016).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 059-2019 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, desde el uno (1) de enero de dos mil veinte (2020).
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, desde el uno (1) de enero de dos mil veinte (2020).
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo número 118-2022 de fecha 23 de febrero de 2022, se nombró a FAUSTO MANUEL CALIX MARQUEZ, como Director Ejecutivo con Rango Ministerial de la Administración Aduanera de Honduras.
 
 CONSIDERANDO: Que el Código Tributario en su artículo 197 numeral 1) establece que la máxima autoridad de la Administración Aduanera están a cargo de un(a) Director(a) Ejecutivo(a), nombrado por el Presidente de la República, con Rango Ministerial, quien es la máxima autoridad y el representante legal de la institución, responsable de definir y ejecutar las políticas, estrategias, planes y programas administrativos y operativos, metas y resultados, conforme a la política económica, fiscal y tributaria del Estado.
 
-CONSIDERANDO: Que de conformidad al Decreto 170- 2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
+CONSIDERANDO: Que de conformidad al Decreto 170-2016, el Director Ejecutivo de la Administración Aduanera de Honduras tiene facultades autorizantes, directoras, administradoras y supervisoras del Servicio Aduanero.
 
 CONSIDERANDO: Que el Director Ejecutivo tiene plena potestad para delegar las funciones en los funcionarios competentes, aprobar los acuerdos que contengan las normas internas de la institución, seleccionar, nombrar, contratar, evaluar, promover y remover al personal de acuerdo con las normas aplicables.
 

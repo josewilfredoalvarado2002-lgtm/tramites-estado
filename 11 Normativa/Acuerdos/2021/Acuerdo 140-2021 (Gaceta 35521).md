@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Nos. 138-2021, 139-2021, 140-2021, 141-2021, 142-2021, 143-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210219-35521/download"
 extraido: "2026-11-14"
-huella: "3fc6c6a20e135466"
+huella: "9978137177e45dab"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 140-2021
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en la Ley de Procedimiento Adm
 
 POR TANTO:
 
-En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27- 2014 del 04 de junio del 2014.
+En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 122 de la Ley General de la Administración Pública; 3, 4, 5, 22, 24, 25, 26, 27 y 30 de la Ley de Procedimiento Administrativo; Decreto Ejecutivo PCM 27-2014 del 04 de junio del 2014.
 
 ACUERDA:
 

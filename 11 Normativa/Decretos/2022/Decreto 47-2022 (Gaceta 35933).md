@@ -11,7 +11,7 @@ paginas: "A. 3 - 7"
 sumario: "Decretos Nos. 44-2022, 47-2022, 48-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220526-35933/download"
 extraido: "2026-11-14"
-huella: "1aa05977c917aff0"
+huella: "5662d3a99a77e749"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 47-2022
@@ -31,7 +31,7 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que el Estado debe crear mecanismos de fomento y de desarrollo para la educación de la población, y que no se podrá ofrecer conocimientos de calidad inferior a los niveles que le corresponde conforme a Ley.
 
-CONSIDERANDO: Que el Congreso Nacional, de conformidad al Decreto No.172-2016, de fecha 10 de Enero del 2017 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Enero del año 2017, en uso de sus atribuciones legales procedió a crear la “Comisión Interventora de la Universidad Nacional de Agricultura” con el objetivo de fortalecer la estructura institucional, para resolver los conflictos internos en esta Universidad y transformar la Institución. Sin embargo, tal medida no generó los resultados esperados, profundizando aún más la crisis al no considerar a los actores internos en los distintos procesos como ser: la formulación de una nueva Ley Orgánica y el correspondiente plan estratégico, por lo que, los mismos no gozan de legitimidad, limitando la participación y la integración de los actores en el desarrollo y avance de dicha Universidad, lo que se traduce en deterioro de la institucionalidad.
+CONSIDERANDO: Que el Congreso Nacional, de conformidad al Decreto No. 172-2016, de fecha 10 de Enero del 2017 y publicado en el Diario Oficial “La Gaceta” en fecha 12 de Enero del año 2017, en uso de sus atribuciones legales procedió a crear la “Comisión Interventora de la Universidad Nacional de Agricultura” con el objetivo de fortalecer la estructura institucional, para resolver los conflictos internos en esta Universidad y transformar la Institución. Sin embargo, tal medida no generó los resultados esperados, profundizando aún más la crisis al no considerar a los actores internos en los distintos procesos como ser: la formulación de una nueva Ley Orgánica y el correspondiente plan estratégico, por lo que, los mismos no gozan de legitimidad, limitando la participación y la integración de los actores en el desarrollo y avance de dicha Universidad, lo que se traduce en deterioro de la institucionalidad.
 
 CONSIDERANDO: Que existen una serie de aspectos que la “Comisión Interventora de la Universidad Nacional de Agricultura (UNAG)” no concluyó como ser: la gestión administrativa, gobierno digital, carrera administrativa, profesionalización docente, carrera docente, disparidades salariales en todos los ámbitos.
 
@@ -47,7 +47,7 @@ CONSIDERANDO: Que es potestad del Congreso Nacional de la República de Honduras
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

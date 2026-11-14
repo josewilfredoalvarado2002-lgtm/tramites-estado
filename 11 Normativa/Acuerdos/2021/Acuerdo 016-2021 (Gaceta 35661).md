@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ejecutivos números 016-2021, 020-A-2021, 020-B-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210719-35661/download"
 extraido: "2026-11-14"
-huella: "9e031dcb1a8130d5"
+huella: "6f1f491e8fddf1b9"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 016-2021
@@ -39,11 +39,9 @@ CONSIDERANDO: Que la Procuraduría General de la República, para poder ejercer 
 
 CONSIDERANDO: Que los señores CARLOS ANTONIO ZAPATA RODRÍGUEZ y JULIO GUILLERMO ESCOTO CÓRDOVA, presentaron demanda Contencioso Administrativo, en contra del Estado de Honduras por intermedio de la Suprimida y liquidada Dirección Ejecutiva de Ingresos (DEI), en fecha cuatro (4) de agosto del año dos mil catorce (2014), con número de registro 309-2014, por no ser conforme a derecho el acto administrativo impugnado y que a su vez solicitan su nulidad y piden se les reconozca la situación jurídica individualizada por la cancelación ilegal e injustificada de que fuimos objeto y como media para el restablecimiento de sus derechos que se les reintegre a su antiguo puesto de trabajo, más el pago de los salarios dejados de percibir con todos los aumentos y demás colaterales, desde la fecha de cancelación hasta la fecha de ejecución de la sentencia.
 
-CONSIDERANDO: Que el tres (3) de julio del año dos mil catorce (2014), la Dirección Ejecutiva de Ingresos (DEI), emitió los Acuerdos de Cancelación por Cesantía DEI-No. 152/2014 y DEI-No.153/2014, mediante los cuales cancelan a los señores Carlos Antonio Zapata Rodríguez y Julio Guillermo Escoto Córdova, en los cargos Investigador Antifraude Aduanero y Subjefe Antifraude.
+CONSIDERANDO: Que el tres (3) de julio del año dos mil catorce (2014), la Dirección Ejecutiva de Ingresos (DEI), emitió los Acuerdos de Cancelación por Cesantía DEI-No. 152/2014 y DEI-No. 153/2014, mediante los cuales cancelan a los señores Carlos Antonio Zapata Rodríguez y Julio Guillermo Escoto Córdova, en los cargos Investigador Antifraude Aduanero y Subjefe Antifraude.
 
-CONSIDERANDO: Que el Juzgado de Letras de lo Contencioso Administrativo en fecha veintinueve (29) de octubre del año dos mil veinte (2020), dictó Sentencia Definitiva en la que resuelve: 1. Declarar procedente la acción incoada por los señores Carlos Antonio Zapata Rodríguez y Julio Guillermo Escoto Córdova, por no ajustarse a derecho los actos impugnados consistentes en los Acuerdos de Cancelación por Cesantía DEI-No. 152/2014 y DEI-No.
-
-153/2014, en consecuencia se anulan en su totalidad los mismos 2. Reconocer la situación Jurídica individualizada de los demandantes, resuelve no se concede el reintegro por ser imposible, se condena al Estado de Honduras al pago de la indemnización de los demandantes en concepto de auxilio de cesantía, más el pago de los salarios dejados de percibir desde la cancelación de los demandantes hasta que la Sentencia adquiera el carácter de Firme.
+CONSIDERANDO: Que el Juzgado de Letras de lo Contencioso Administrativo en fecha veintinueve (29) de octubre del año dos mil veinte (2020), dictó Sentencia Definitiva en la que resuelve: 1. Declarar procedente la acción incoada por los señores Carlos Antonio Zapata Rodríguez y Julio Guillermo Escoto Córdova, por no ajustarse a derecho los actos impugnados consistentes en los Acuerdos de Cancelación por Cesantía DEI-No. 152/2014 y DEI-No. 153/2014, en consecuencia se anulan en su totalidad los mismos 2. Reconocer la situación Jurídica individualizada de los demandantes, resuelve no se concede el reintegro por ser imposible, se condena al Estado de Honduras al pago de la indemnización de los demandantes en concepto de auxilio de cesantía, más el pago de los salarios dejados de percibir desde la cancelación de los demandantes hasta que la Sentencia adquiera el carácter de Firme.
 
 CONSIDERANDO: Que en fecha cuatro (4) de diciembre del año dos mil veinte (2020), la parte demandada presentó Recurso de Apelación en contra de la Sentencia de fecha veintinueve (29) de octubre del año dos mil veinte (2020) dictada por el Juzgado de Letras de lo Contencioso Administrativo, el cual se encuentra pendiente de fallo en la Corte de Apelaciones de lo Contencioso Administrativo.
 

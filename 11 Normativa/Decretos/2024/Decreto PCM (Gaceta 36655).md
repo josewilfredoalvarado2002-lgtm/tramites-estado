@@ -2,19 +2,19 @@
 tipo: "norma"
 tipo_acto: "Decreto"
 numero: "PCM"
-titulo: "Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 30-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIAAcuerdo Número-SEP-289-2024, SEP-290-2024"
+titulo: "Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 30-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA: Acuerdo Número-SEP-289-2024, SEP-290-2024"
 emisor: "PODER EJECUTIVO"
 gaceta_numero: 36655
 gaceta_fecha: "2024-10-02"
 gaceta: "[[11 Normativa/La Gaceta/2024/La Gaceta 36655 (2024-10-02)|La Gaceta 36655]]"
 paginas: "A. 1 - 16"
-sumario: "Decreto Ejecutivo Número PCM 30-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIAAcuerdo Número-SEP-289-2024, SEP-290-2024"
+sumario: "Decreto Ejecutivo Número PCM 30-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA: Acuerdo Número-SEP-289-2024, SEP-290-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241002-36655/download"
 extraido: "2026-11-14"
-huella: "f1829492f2889632"
+huella: "285836aa136e3769"
 ---
 <!-- portal:inicio -->
-# Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 30-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIAAcuerdo Número-SEP-289-2024, SEP-290-2024
+# Según el sumario de La Gaceta: Decreto Ejecutivo Número PCM 30-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA: Acuerdo Número-SEP-289-2024, SEP-290-2024
 
 | Dato | Valor |
 | --- | --- |
@@ -23,7 +23,7 @@ huella: "f1829492f2889632"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2024/La Gaceta 36655 (2024-10-02)\|La Gaceta 36655]] del 2024-10-02 |
 | Páginas | A. 1 - 16 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 30-2024SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIAAcuerdo Número-SEP-289-2024, SEP-290-2024 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM 30-2024; SECRETARÍA DE ESTADO EN EL DESPACHO DE LA PRESIDENCIA: Acuerdo Número-SEP-289-2024, SEP-290-2024 |
 
 ## Texto
 
@@ -37,7 +37,7 @@ CONSIDERANDO: Que dando cumplimiento a lo establecido en la Constitución de la 
 
 CONSIDERANDO: Que en fecha 31 de marzo de 2023, el Consejo Nacional de Defensa y Seguridad (CNDS) aprobó de manera unánime la II etapa del Plan Nacional de Seguridad “SOLUCIÓN CONTRA EL CRIMEN” (SCC), en cuyas medidas se establece dar continuidad a la suspensión de las garantías establecidas en la Constitución de la República en los artículos 69, 78, 81, 84, 93 y 99.
 
-CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42- 2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024 y PCM 24-2024 de suspensión de garantías constitucionales, han rendido excelentes resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
+CONSIDERANDO: Que las acciones ejecutadas por la Secretaría de Estado en el Despacho de Seguridad a través de la Policía Nacional y la Dirección Nacional de Investigación e Inteligencia (DNII), con la cooperación de la Secretaría de Estado en el Despacho de Defensa Nacional a través de las Fuerzas Armadas y de la Policía Militar del Orden Público (PMOP), en cumplimiento de los Decretos Ejecutivos número PCM 29-2022, PCM 01-2023, PCM 10-2023, PCM 15-2023, PCM 24-2023, PCM 33-2023, PCM 37-2023, PCM 42-2023, PCM 46-2023, PCM 52-2023, PCM 06-2024, PCM 09-2024, PCM 13-2024, PCM 19-2024 y PCM 24-2024 de suspensión de garantías constitucionales, han rendido excelentes resultados frente a la grave perturbación de la paz y la seguridad que se sufre en las principales ciudades del país.
 
 CONSIDERANDO: Que son de público conocimiento los logros positivos alcanzados a través de los Decretos de Suspensión parcial de Garantías y la implementación del Plan Solución Contra el Crimen, en particular durante el año 2024, en el cual 79 municipios en el país han registrado cero incidencia de homicidios (27% de los municipios a nivel nacional); 245 municipios con incidencia de 0 a 8 homicidios (el 82% de los municipios), lo cual se traduce en una reducción de 14.7 puntos de la tasa anual de homicidios por cada 100 mil habitantes. Asimismo, se ha logrado una reducción de 699 muertes violentas en relación al mismo periodo del año anterior, así como una reducción de 148 muertes violentas de mujeres.
 
@@ -1023,7 +1023,7 @@ CONSIDERANDO 1: Que el artículo 33 de la Ley General. la Administración Públi
 
 CONSIDERANDO 2: Que el artículo 5 de la Ley de Procedimiento Administrativo establece que el acto de delegación, debe indicar además del órgano delegante, el objeto de la delegación y el órgano delegado, tal como se ha consignado en el Acuerdo Número 114-SEP-2023 de fecha veintidós de agosto del año dos mil veintitrés (22.08.2023), en que se delegó a la ciudadana BELKY JANETH JÍMENEZ GUEVARA, las facultades y funciones como Secretaria General de la Secretaría de Estado en el Despacho de Presidencia; esto en caso de ausencia temporal del titular en el cargo en mención.
 
-CONSIDERANDO 3: Que el artículo 122 literalmente establece que: “el superior podrá anular, revocar o modificar de oficio los actos...”, por lo que, contemplando que el objeto de delegación de ausencia no está previsto en este momento para el Secretario General en funciones, nombrado mediante el Acuerdo 174-2024, se cancela el Acuerdo número 114-SEP- 2023 de fecha veintidós de agosto del año dos mil veintitrés (22.08.2023).
+CONSIDERANDO 3: Que el artículo 122 literalmente establece que: “el superior podrá anular, revocar o modificar de oficio los actos...”, por lo que, contemplando que el objeto de delegación de ausencia no está previsto en este momento para el Secretario General en funciones, nombrado mediante el Acuerdo 174-2024, se cancela el Acuerdo número 114-SEP-2023 de fecha veintidós de agosto del año dos mil veintitrés (22.08.2023).
 
 POR TANTO
 

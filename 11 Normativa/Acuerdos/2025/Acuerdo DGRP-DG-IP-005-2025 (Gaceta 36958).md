@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdos Nos. DGRP-DG-IP-005-2025, Comunicado, DGRP-DG-IP-006-2025, Comunicado"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251004-36958/download"
 extraido: "2026-11-09"
-huella: "25d55bdb072f28f5"
+huella: "0cfc1de4a458fe7e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGRP-DG-IP-005-2025
@@ -65,9 +65,7 @@ POR TANTO:
 
 En cumplimiento a los deberes y atribuciones señalados en los artículos 321 de la Constitución de la República y 116 y 118 de la Ley General de Administración Pública y haciendo uso de las facultades de la Ley de Propiedad, según los Artículos 1, 3 numerales 1), 2), 3); 5 numerales 1), 2) y 14); 24 numerales 1) 9), 10), 55, 60, 61, 62 y 67 y los Artículos 2, 15, 179, 181 literal
 
-e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No.
-
-CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
+e) 183 numeral 3), 186 y 203 del Reglamento de la Ley de Propiedad. Y demás artículos aplicables en las Leyes vigentes del país. Y lo estipulado según Acuerdo de Delegación No. CD-IP-015-2019; publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021.
 
 ACUERDA:
 
@@ -81,9 +79,7 @@ TERCERO: Este Acuerdo deberá publicarse en el Diario Oficial La Gaceta y en un 
 
 CUARTO: El presente Acuerdo entrará en vigencia el día de su publicación en el Diario Oficial La Gaceta.- NOTIFÍQUESE Y CÚMPLASE.
 
-DANIEL EDUARDO RIVERA UMAÑA DIRECTOR GENERAL DE REGULARIZACIÓN PREDIAL ______ Instituto de la Propiedad COMUNICADO El Instituto de la Propiedad, a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No.
-
-CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA:
+DANIEL EDUARDO RIVERA UMAÑA DIRECTOR GENERAL DE REGULARIZACIÓN PREDIAL ______ Instituto de la Propiedad COMUNICADO El Instituto de la Propiedad, a través de la Dirección General de Regularización Predial (DGRP), facultada bajo el Acuerdo No. CD-IP-015-2019, publicado en el Diario Oficial La Gaceta con fecha 30 de abril de 2021, al público en general INFORMA:
 
 Que habiéndose vencido el plazo de la Vista Pública Administrativa establecido en el Artículo No. 64 de la Ley de Propiedad, equivalente a 30 días, para que los propietarios(as), ocupantes y tenedores(as) de terrenos que se encuentran dentro del área que comprenden las comunidades siguientes:
 

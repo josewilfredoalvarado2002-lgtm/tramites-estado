@@ -11,7 +11,7 @@ paginas: "A. 25 - 32"
 sumario: "Decreto Ejecutivo número PCM-064-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210712-35654/download"
 extraido: "2026-11-14"
-huella: "ee825a07014532fc"
+huella: "7e3e808544263a65"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-064-2021
@@ -49,9 +49,7 @@ CONSIDERANDO: Que Honduras ratificó el Pacto Internacional de Derechos Económi
 
 POR TANTO;
 
-En uso de las facultades contenidas en los Artículos 145, 245 numerales 1, 2, 11, 28 y 45, y 248 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numeral 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No.
-
-266-2013; Decretos Legislativos: 325-2013 y 369-2013, Decretos Ejecutivos Números: PCM-146-2020 y PCM-147- 2020; artículo 5, 6, 7 y 63 Ley de Contratación del Estado.
+En uso de las facultades contenidas en los Artículos 145, 245 numerales 1, 2, 11, 28 y 45, y 248 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numeral 9 y 12, 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas mediante Decreto Legislativo No. 266-2013; Decretos Legislativos: 325-2013 y 369-2013, Decretos Ejecutivos Números: PCM-146-2020 y PCM-147-2020; artículo 5, 6, 7 y 63 Ley de Contratación del Estado.
 
 DECRETA:
 

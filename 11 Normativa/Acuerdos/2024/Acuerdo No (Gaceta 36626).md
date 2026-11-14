@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número No. 105-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240830-36626/download"
 extraido: "2026-11-14"
-huella: "23dc70961f671a2a"
+huella: "8d3f7273dbb4827a"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdo Número No. 105-2024
@@ -31,7 +31,7 @@ Secretaría de Estado en el Despacho de Desarrollo Económico ACUERDO NÚMERO No
 
 CONSIDERANDO: Que es competencia de la Secretaría de Estado en el Despacho de Desarrollo Económico, lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con el comercio nacional e internacional de bienes y servicios, la integración económica entre otras, en coordinación con las instituciones pertinentes según sea el caso.
 
-CONSIDERANDO: Que el Decreto Ejecutivo PCM-007- 2012, publicado en el Diario Oficial “La Gaceta”, en fecha 17 de abril de 2012, contempla el procedimiento para la apertura de los contingentes de Desabasto de Arroz Granza (SAC.
+CONSIDERANDO: Que el Decreto Ejecutivo PCM-007-2012, publicado en el Diario Oficial “La Gaceta”, en fecha 17 de abril de 2012, contempla el procedimiento para la apertura de los contingentes de Desabasto de Arroz Granza (SAC.
 
 1006.10.90.00) para cada año calendario.
 
@@ -41,7 +41,7 @@ CONSIDERANDO: Que en fecha 13 de junio de 2024, la Asociación Nacional de Molin
 
 CONSIDERANDO: Que la Comisión Técnica conformada por la Secretaría de Agricultura y Ganadería (SAG) y la Secretaría de Desarrollo Económico (SDE), procedió a realizar el análisis técnico que incluye las condiciones de oferta y la demanda nacional de Arroz Granza para el año 2024, de conformidad a la solicitud presentada por la ANAMH.
 
-CONSIDERANDO: Que en fecha 28 de agosto de 2024 la Comisión de Seguimiento de Desabasto de Arroz Granza establecida en el Artículo 2, del Decreto Ejecutivo PCM-007- 2012, se reunió para conocer el informe sobre el análisis de la oferta y demanda de Arroz Granza en el mercado nacional; informe que se incluye en el Acta No. 001-2024 de la reunión.
+CONSIDERANDO: Que en fecha 28 de agosto de 2024 la Comisión de Seguimiento de Desabasto de Arroz Granza establecida en el Artículo 2, del Decreto Ejecutivo PCM-007-2012, se reunió para conocer el informe sobre el análisis de la oferta y demanda de Arroz Granza en el mercado nacional; informe que se incluye en el Acta No. 001-2024 de la reunión.
 
 CONSIDERANDO: Que en base a las conclusiones del análisis de la oferta y demanda de Arroz Granza en el mercado nacional 2024, las autoridades de la SAG y SDE, aprobaron la apertura de un contingente por desabasto de Diez mil Quinientos Cuatro punto Cincuenta y Cuatro Toneladas Métricas (10,504.54 TM) de Arroz Granza para el año 2024, a fin de mantener el adecuado abastecimiento en el país y evitar el alza en los precios del arroz al consumidor final.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo Económi
 
 POR TANTO:
 
-En aplicación de los Artículos 80 de la Constitución de la República; 36 Numeral 8); 116 y 118 de la Ley General de la Administración Pública, 54 del Decreto Ejecutivo No. 08- 97, literal a) contentivo del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto PCM-007-2012, contentivo del Procedimiento Interno para la Determinación y Establecimiento Anual de los Desabastos de Arroz Granza y el Acuerdo No. SAG-162-2024 de fecha 28 de agosto de 2024.
+En aplicación de los Artículos 80 de la Constitución de la República; 36 Numeral 8); 116 y 118 de la Ley General de la Administración Pública, 54 del Decreto Ejecutivo No. 08-97, literal a) contentivo del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, Decreto PCM-007-2012, contentivo del Procedimiento Interno para la Determinación y Establecimiento Anual de los Desabastos de Arroz Granza y el Acuerdo No. SAG-162-2024 de fecha 28 de agosto de 2024.
 
 ACUERDA:
 
@@ -163,9 +163,7 @@ b) Carta de Poder debidamente autenticada;
 
 c) Dirección física, teléfono y correo electrónico del Apoderado Legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-d) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+d) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 e) Recibo oficial de la Tesorería General de La República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los Actos Administrativos;
 

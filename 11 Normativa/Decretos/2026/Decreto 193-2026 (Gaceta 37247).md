@@ -11,7 +11,7 @@ paginas: "A. 286 - 288"
 sumario: "Decretos Nos. 155-2026, 193-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260916-37247/download"
 extraido: "2026-11-09"
-huella: "c8d8ee8f14fa53a4"
+huella: "6f1ec8f2adcf1bd3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 193-2026
@@ -47,11 +47,11 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- INTERPRETAR el Artículo 106 del Decreto No.10-2002-E, de fecha 5 de Diciembre del 2002, contentivo de LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Enero de 2003 y sus reformas, en el sentido siguiente:
+ARTÍCULO 1.- INTERPRETAR el Artículo 106 del Decreto No. 10-2002-E, de fecha 5 de Diciembre del 2002, contentivo de LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE CUENTAS, publicado en el Diario Oficial “La Gaceta” en fecha 20 de Enero de 2003 y sus reformas, en el sentido siguiente:
 
 “La facultad de nombrar, remover, evaluar administrativamente y ejercer la dirección inmediata del Jefe de la Unidad de Auditoría Interna como de sus auxiliares corresponde a la autoridad superior de cada órgano constitucional, institución descentralizada, ente desconcentrado o entidad creada por ley especial, de conformidad con su ley de creación, su régimen jurídico y sus normas de gobierno institucional.
 
-La competencia del Tribunal Superior de Cuentas (TSC), para emitir normas generales, políticas, manuales, lineamientos, m e t o d o l o g í a s y d e m á s disposiciones técnicas que regulan el Sistema Nacional de Control de los Recursos Públicos, así como para supervisar, evaluar y fiscalizar el funcionamiento de las Unidades de Auditoría Interna, permanece íntegra y deberá ser observada obligatoriamente por todas las instituciones sujetas a su control.
+La competencia del Tribunal Superior de Cuentas (TSC), para emitir normas generales, políticas, manuales, lineamientos, metodologías y demás disposiciones técnicas que regulan el Sistema Nacional de Control de los Recursos Públicos, así como para supervisar, evaluar y fiscalizar el funcionamiento de las Unidades de Auditoría Interna, permanece íntegra y deberá ser observada obligatoriamente por todas las instituciones sujetas a su control.
 
 En consecuencia, las atribuciones técnicas y de control del Tribunal Superior de Cuentas (TSC), no comprenden la potestad de nombrar o remover al Jefe de la Unidad de Auditoría Interna ni de sus auxiliares, por lo que no se requiere el Visto Bueno o No Objeción del Tribunal para este tipo de acciones; ni podrán interpretarse en ese sentido.
 

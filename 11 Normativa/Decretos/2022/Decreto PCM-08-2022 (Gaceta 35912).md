@@ -11,7 +11,7 @@ paginas: "A. 16 - 30"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220502-35912-2/download"
 extraido: "2026-11-14"
-huella: "50c9152bc3d60a98"
+huella: "2145f8ba7431b949"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-08-2022
@@ -179,7 +179,7 @@ ARTÍCULO 10.- Fases de Operatividad: Para la puesta en marcha del Programa de l
 
 10. Organización de Asambleas Comunitarias;
 
-11. Firma de Convenio con Familias beneficiarias; 1 2 . C u m p l i m i e n t o y Ve r i f i c a c i ó n d e corresponsabilidades;
+11. Firma de Convenio con Familias beneficiarias; 1 2 . Cumplimiento y Ve r i f i c a c i ó n d e corresponsabilidades;
 
 13. Entrega de servicios y/o paquetes básicos de la Red Solidaria.
 

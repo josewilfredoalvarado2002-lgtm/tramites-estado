@@ -8,10 +8,10 @@ gaceta_numero: 36121
 gaceta_fecha: "2023-01-05"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36121 (2023-01-05)|La Gaceta 36121]]"
 paginas: "A. 1 - 12"
-sumario: "Acuerdo Ejecutivo 192-SEP-2022SECRETARIA DE ESTADO EN LOS DESPACHOS DEINFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo 0058"
+sumario: "Acuerdo Ejecutivo 192-SEP-2022; SECRETARIA DE ESTADO EN LOS DESPACHOS DEINFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo 0058"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230105-36121/download"
 extraido: "2026-11-14"
-huella: "cc63617b9af0bbcc"
+huella: "c913610a9c7bcdd4"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO 192-SEP-2022
@@ -23,7 +23,7 @@ huella: "cc63617b9af0bbcc"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36121 (2023-01-05)\|La Gaceta 36121]] del 2023-01-05 |
 | Páginas | A. 1 - 12 |
-| Según el sumario de La Gaceta | Acuerdo Ejecutivo 192-SEP-2022SECRETARIA DE ESTADO EN LOS DESPACHOS DEINFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo 0058 |
+| Según el sumario de La Gaceta | Acuerdo Ejecutivo 192-SEP-2022; SECRETARIA DE ESTADO EN LOS DESPACHOS DEINFRAESTRUCTURA Y TRANSPORTE (SIT)Acuerdo 0058 |
 
 ## Texto
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que según el artículo 19 de la Ley de Procedimiento Administrati
 
 CONSIDERANDO: Que el artículo 50 de la Ley de Procedimiento Administrativo indica “En toda Secretaría de Estado, órgano desconcentrado o institución descentralizada, habrá un registro donde se llevarán los libros en los que se hará el correspondiente asiento de todo escrito que se presente y de los documentos que se acompañen, así como de las comunicaciones u oficios que se reciban o se despachen... En las Secretarías de Estado, el registro está bajo la dependencia de la Secretaría respectiva, los órganos centrales que radiquen en inmuebles distintos llevarán su correspondiente registro”, norma que hace imperante la necesidad de mantener vigente el contrato de arrendamiento de las instalaciones físicas en las que funcionan los archivos por ser aún conveniente en cuanto a precio para esta Secretaría de Estado.
 
-CONSIDERANDO: Que según el artículo 87 numeral 2 del Decreto Legislativo Número 107-2021 contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales del Ejercicio Fiscal 2022, Publicado en el Diario Oficial “La Gaceta”, según ejemplar Núm. 35,800 de fecha diecisiete de diciembre del año dos mil veintiuno (17.12.2021), vigente al momento de emitir el presente Acuerdo Ejecutivo, se exceptúan de la obligación de someter a la licitación pública los contratos de arrendamiento de bienes inmuebles del sector público, cuando ellos representen mayores costos a la institución por movilización , precio, ubicación y calidad del servicio, en estos casos se autoriza la prórroga de los contratos suscritos por anualidades, dichas prorrogas no podrán superar un periodo de cuatro (4) años, debiendo después de esta prórroga someterse a un nuevo proceso de licitación.
+CONSIDERANDO: Que según el artículo 87 numeral 2 del Decreto Legislativo Número 107-2021 contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales del Ejercicio Fiscal 2022, Publicado en el Diario Oficial “La Gaceta”, según ejemplar Núm. 35,800 de fecha diecisiete de diciembre del año dos mil veintiuno (17.12.2021), vigente al momento de emitir el presente Acuerdo Ejecutivo, se exceptúan de la obligación de someter a la licitación pública los contratos de arrendamiento de bienes inmuebles del sector público, cuando ellos representen mayores costos a la institución por movilización, precio, ubicación y calidad del servicio, en estos casos se autoriza la prórroga de los contratos suscritos por anualidades, dichas prorrogas no podrán superar un periodo de cuatro (4) años, debiendo después de esta prórroga someterse a un nuevo proceso de licitación.
 
 Dicha prorroga se autorizará previo Dictamen que contenga opinión legal, técnica y financiera emitido por la Institución y se formalizará mediante Acuerdo Ministerial en el caso de las Secretarías de Estado.
 

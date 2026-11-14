@@ -11,7 +11,7 @@ paginas: "A. 16 - 68"
 sumario: "Decretos Nos. 18-2025, 22-2025, 35-2025,36-2025, 37-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250529-36850/download"
 extraido: "2026-11-10"
-huella: "07d5be7de1895802"
+huella: "25e4c9e89c6cd03d"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 35-2025
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República, establece que la producció
 
 CONSIDERANDO: Que el Plan de Gobierno para la Refundación de la Patria y la Construcción del Estado Socialista y Democrático 2022-2026 en su numeral 6.1 inciso VI, establece que dentro de las propuestas de un modelo económico alternativo con crecimiento económico y desarrollo para todos y todas contiene la propuesta de rescate y fortalecimiento del Banco Nacional de Desarrollo Agrícola (BANADESA) para proveer a la pequeña y mediana producción agrícola, el otorgamiento de créditos y garantías en condiciones flexibles.
 
-CONSIDERANDO: Que el Banco Nacional de Desarrollo Agrícola (BANADESA), es una institución autónoma de duración indefinida con personería y personalidad jurídica propia, que tiene por objetivo canalizar recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas (Decreto No.903, publicado en el Diario Oficial “La Gaceta” en fecha 28 de marzo de 1980, en su edición número 23,067).
+CONSIDERANDO: Que el Banco Nacional de Desarrollo Agrícola (BANADESA), es una institución autónoma de duración indefinida con personería y personalidad jurídica propia, que tiene por objetivo canalizar recursos financieros para el desarrollo de la producción y productividad en la agricultura y otras actividades relacionadas (Decreto No. 903, publicado en el Diario Oficial “La Gaceta” en fecha 28 de marzo de 1980, en su edición número 23,067).
 
 CONSIDERANDO: Que la reestructuración de BANADESA incluye la mejora de su solvencia y eficiencia, además de la modernización de su estructura administrativa, la actualización de sistemas informáticos y la reorganización de su red de agencias con el objetivo de mejorar la gestión interna y optimizar los recursos del banco para poder atender con eficiencia a los productores, especialmente a aquellos del sector agrícola más vulnerable.
 
@@ -51,7 +51,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO, suscrito el 30 de diciembre de 2024, entre la Corporación Andina de Fomento (CAF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de CUARENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$40,000,000.00), recursos destinados a la ejecución del “PROGRAMA DE CRÉDITO PARA EL SUBSECTOR CAFETALERO Y F O R T A L E C I M I E N T O INSTITUCIONAL AL BANCO NACIONAL DE DESARROLLO AGRÍCOLA (BANADESA)”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO, suscrito el 30 de diciembre de 2024, entre la Corporación Andina de Fomento (CAF), en su condición de Prestamista y el Gobierno de la República de Honduras, en su condición de Prestatario del financiamiento, hasta por un monto de CUARENTA MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$40,000,000.00), recursos destinados a la ejecución del “PROGRAMA DE CRÉDITO PARA EL SUBSECTOR CAFETALERO Y FORTALECIMIENTO INSTITUCIONAL AL BANCO NACIONAL DE DESARROLLO AGRÍCOLA (BANADESA)”, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN EL DESPACHO DE FINANZAS. CONTRATO DE PRÉSTAMO ENTRE República de Honduras y Corporación Andina de Fomento.
 
@@ -1125,7 +1125,7 @@ G. Modificaciones El contenido de las disposiciones anteriores podrá ser revisa
 
 H. Indicadores Con el fin de monitorear y verificar las acciones emprendidas por BANADESA para la ejecución de este Programa en el marco del Contrato de Préstamo, se ha desarrollado una matriz preliminar de indicadores, detallando los indicadores de resultados y un método de cálculo.
 
-Matriz de Indicadores Preliminar Valor del Indicador Periodo de Desembolso Indicador Método de Cálculo Año 1- 3 Indicadores de Resultado Indicador 16: Pymes beneficiadas por operaciones de CAF a través de intermediarios (#) Número de Pymes beneficiadas por operaciones de CAF a través de intermediarios Indicador 43: Mujeres directamente beneficiadas por intervenciones de CAF (#) Número de Mujeres directamente beneficiadas por operaciones de CAF Indicadores de Producto Componente 1: Financiamiento al subsector cafetalero: Productores, Cooperativas Productoras y Asociaciones de productores Indicador 22:
+Matriz de Indicadores Preliminar Valor del Indicador Periodo de Desembolso Indicador Método de Cálculo Año 1-3 Indicadores de Resultado Indicador 16: Pymes beneficiadas por operaciones de CAF a través de intermediarios (#) Número de Pymes beneficiadas por operaciones de CAF a través de intermediarios Indicador 43: Mujeres directamente beneficiadas por intervenciones de CAF (#) Número de Mujeres directamente beneficiadas por operaciones de CAF Indicadores de Producto Componente 1: Financiamiento al subsector cafetalero: Productores, Cooperativas Productoras y Asociaciones de productores Indicador 22:
 
 Microempresarios beneficiados por un Microcrédito (#) Número de Microempresarios beneficiados por operaciones de CAF Número de prácticas de Gobierno Corporativo implementadas a partir del diagnóstico y la hoja de ruta proporcionada.
 

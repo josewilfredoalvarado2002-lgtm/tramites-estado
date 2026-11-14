@@ -11,7 +11,7 @@ paginas: "A. 42 - 43"
 sumario: "Acuerdos Ejecutivos Nos. 279-2026, 280-2026, 281-2026, 282-2026, 286-2026, 287-2026, 288-2026, 289-2026, 295-2026, 296-2026, 297-2026, 298-2026, 299-2026, 300-2026, 303-2026, 304-2026, 305-2026, 306-2026, 308-2026, 309-2026, 310-2026, 316-2026, 317-2026, 320-2026, 322-2026, 323-2026, 324-2026, 325-2026, 331-2026, 332-2026, 333-2026, 334-2026, 335-2026, 336-2026, 337-2026, 338-2026, 343-2026, 346-2026, 347-2026, 348-2026, 349-2026, 350-2026, 351-2026, 353-2026, 354-2026, 355-2026, 356-2026, 359-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260817-37222/download"
 extraido: "2026-11-09"
-huella: "2f6351548c507290"
+huella: "67a21e4bb8a5cfa7"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 351-2026
@@ -33,9 +33,7 @@ CONSIDERANDO: Que la Constitución de la República en su artículo 245, numeral
 
 CONSIDERANDO: Que, mediante el Acuerdo Ejecutivo No. 017-DP-2026, de fecha dos (2) de febrero de dos mil veintiséis (2026), publicado en el Diario Oficial La Gaceta, el Presidente de la República delegó en el Coordinador General de Gabinete de Gobierno y Secretario Privado del Presidente de la República, ciudadano LUIS ALONSO CASTRO CÁCERES, con rango de Secretario de Estado y adscrito a la Presidencia de la República, la facultad de firmar los Acuerdos Ejecutivos de Nombramiento y Cancelación en las Secretarías de Estado y, cuando corresponda, en las como otras acciones de personal que deban ser firmadas por el Presidente de la República, de conformidad con la Ley de Servicio Civil y demás leyes aplicables.
 
-CONSIDERANDO: Que, mediante el Acuerdo Ejecutivo No.
-
-281-2026, fue nombrado el ciudadano EVIN ARMANDO ANDRADE LARA, en el cargo de representante de la Asociación Hondureña de Instituciones Bancarias (AHIBA) ante el Fondo de Seguros de Depósitos (FOSEDE).
+CONSIDERANDO: Que, mediante el Acuerdo Ejecutivo No. 281-2026, fue nombrado el ciudadano EVIN ARMANDO ANDRADE LARA, en el cargo de representante de la Asociación Hondureña de Instituciones Bancarias (AHIBA) ante el Fondo de Seguros de Depósitos (FOSEDE).
 
 POR TANTO:
 

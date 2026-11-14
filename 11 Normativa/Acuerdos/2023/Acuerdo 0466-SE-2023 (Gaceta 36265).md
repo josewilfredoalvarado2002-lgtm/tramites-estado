@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo Ministerial No. 0466-SE-2023, Acuerdo No. 0538-SE-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230626-36265/download"
 extraido: "2026-11-14"
-huella: "a0ed2e8a9aa813d3"
+huella: "b28cd4a0166faf36"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 0466-SE-2023
@@ -53,9 +53,7 @@ CONSIDERANDO: Que en virtud que ya existe un Convenio Interinstitucional de Afil
 
 POR TANTO:
 
-En uso de las facultades establecidos en los artículos; 151, 153, 157, 247, 255 de la Constitución de la República; 36 numerales 1 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública; Convenio 01-2022; Decreto No.
-
-266-98.
+En uso de las facultades establecidos en los artículos; 151, 153, 157, 247, 255 de la Constitución de la República; 36 numerales 1 y 8, 116, 117, 119 y 122 de la Ley General de la Administración Pública; Convenio 01-2022; Decreto No. 266-98.
 
 ACUERDA:
 
@@ -875,7 +873,7 @@ CAPÍTULO XV DISTRIBUCIÓN DE LA ESCALA SALARIAL AL INSTRUCTOR EDUCATIVO PROHECO
 
 #### Artículo 48
 
-ARTÍCULO 48.- Los Instructores Educativos PROHECO, que ostentan el grado de Licenciatura en el área Educativa, se les asignará un sueldo de acuerdo el convenio 01- 2022 aprobado por la Presidencia de la República, del programa de Educación Comunitario PROHECO.
+ARTÍCULO 48.- Los Instructores Educativos PROHECO, que ostentan el grado de Licenciatura en el área Educativa, se les asignará un sueldo de acuerdo el convenio 01-2022 aprobado por la Presidencia de la República, del programa de Educación Comunitario PROHECO.
 
 El sueldo mensual de los Instructores Educativos PROHECO se desglosa de la siguiente manera: Por el periodo comprendido de los años 2022 al año 2025, según convenio 001-2022 se hará el incremento salarial al Instructor Educativo PROHECO que ostenta el Título de Licenciatura en el área Educativa en el programa de Educación Comunitario PROHECO, detallándose en el cuadro siguiente, los montos por año:
 

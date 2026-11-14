@@ -11,7 +11,7 @@ paginas: "A. 26 - 28"
 sumario: "Acuerdos de Delegación Nos. 06-DN-INP-2026, 08-DN-INP-2026, 09-DN-INP-2026, 07-SG-INP-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261022-37275/download"
 extraido: "2026-11-09"
-huella: "bce5b8dc03dd5eb6"
+huella: "b6ea679d42873483"
 ---
 <!-- portal:inicio -->
 # ACUERDO DE DELEGACIÓN No. 08-DN-INP-2026
@@ -53,9 +53,7 @@ ACUERDA:
 
 #### Artículo 1
 
-ARTÍCULO 1: Delegar en la ciudadana CLAUDIA SUYAPA ARDON GIRON con Documento Nacional de Identificación No.
-
-0801-1981-07137, quien se desempeña en el Cargo de Subdirectora Nacional de Desarrollo Institucional la facultad de autorizar con su sola firma los siguientes actos administrativos:
+ARTÍCULO 1: Delegar en la ciudadana CLAUDIA SUYAPA ARDON GIRON con Documento Nacional de Identificación No. 0801-1981-07137, quien se desempeña en el Cargo de Subdirectora Nacional de Desarrollo Institucional la facultad de autorizar con su sola firma los siguientes actos administrativos:
 
 1. Resoluciones Administrativas de procesos disciplinarios por Faltas Graves del Personal que labora en este Instituto Nacional Penitenciario.
 

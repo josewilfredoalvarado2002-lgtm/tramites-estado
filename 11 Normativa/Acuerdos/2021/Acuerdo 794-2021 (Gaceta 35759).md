@@ -11,7 +11,7 @@ paginas: "A. 3 - 4"
 sumario: "Acuerdos Ejecutivos números 793-2021, 794-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211030-35759/download"
 extraido: "2026-11-14"
-huella: "d5a7627cde0afc7d"
+huella: "49f24c878553425b"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 794-2021
@@ -37,7 +37,7 @@ CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y reso
 
 CONSIDERANDO: Que el legislador sabiamente ha dispuesto para los funcionarios públicos la facultad de delegar el ejercicio de sus funciones en el titular de la Secretaría General o en quien en ausencia de aquel ejerza sus funciones por disposición de la Ley o de autoridad superior.
 
-CONSIDERANDO: Que mediante Memorando DM-149- 2021 de fecha 20 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado, por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del cinco
+CONSIDERANDO: Que mediante Memorando DM-149-2021 de fecha 20 de octubre de 2021, el Despacho Ministerial de la Secretaría de Estado en el Despacho de Finanzas solicitó a esta Secretaría General la emisión de Acuerdo de Delegación como Secretaria de Estado, por Ley en la Ingeniera Roxana Melaní Rodríguez Alvarado, Subsecretaria de Estado en los Despachos de Finanzas y Presupuesto, por el período del cinco
 
 (05) al cuatro (09) de noviembre, de dos mil veintiuno (2021); debido a que el licenciado Luis Fernando Mata Echeverri, Secretario de Estado en el Despacho de Finanzas, estará atendiendo asuntos personales, previo autorización del señor Presidente Constitucional de la República, abogado Juan Orlando Hernández Alvarado.
 

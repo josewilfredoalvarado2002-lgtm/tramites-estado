@@ -11,7 +11,7 @@ paginas: "A. 1 - 15"
 sumario: "Acuerdo No. 015-2023, AcuerdoNúmero-019-2023, DE-DCHA-013-2023, DE-DCHA-014-2023, DE-DCHA-015-2023,DE-DCHA-016-2023, DE-DCHA-017-2023,DE-DCHA-018-2023, DE-DCHA-020-2023,DE-DCHA-021-2023, DE-DCHA-023-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231106-36376/download"
 extraido: "2026-11-14"
-huella: "6317f12918f0d950"
+huella: "0d6eeae68fec9e36"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 015-2023
@@ -131,7 +131,7 @@ ARTICULO 1.- Declarar sitio de importancia para la Vida Silvestre (SIPVS) al sit
 
 ARTICULO 2.- Que la Laguna El Pedregal es un área de bosque seco que está ubicada al Oeste de la Ciudad de Tegucigalpa, cuenta con tres (3) afluentes principales:
 
-Guajire, Quiscamote y Guaralalao (Informe Técnico RFFM- 218-2018).
+Guajire, Quiscamote y Guaralalao (Informe Técnico RFFM-218-2018).
 
 #### Artículo 3
 

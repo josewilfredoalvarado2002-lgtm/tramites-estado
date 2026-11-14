@@ -11,7 +11,7 @@ paginas: "A. 16 - 18"
 sumario: "Decretos Nos. 202-2026, 205-2026, 206-2026, 210-2026, 211-2026, 214-2026, 217-2026, 218-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261020-37274/download"
 extraido: "2026-11-09"
-huella: "937580dd08207993"
+huella: "058b056f08de2b22"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 211-2026
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Instruir a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) para que, en el marco de sus competencias, proceda a realizar los estudios técnicos especializados, así como la planificación, diseño y construcción de una vía de acceso segura y permanente en el tramo carretero que conduce del M U N I C I P I O D E B O N I TO ORIENTAL AL MUNICIPIO DE LIMÓN, LLEGANDO HASTA LA COMUNIDAD DE FRANCIA EN LIMÓN, con una longitud aproximada de diecinueve (19) kilómetros.
+ARTÍCULO 1.- Instruir a la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT) para que, en el marco de sus competencias, proceda a realizar los estudios técnicos especializados, así como la planificación, diseño y construcción de una vía de acceso segura y permanente en el tramo carretero que conduce del MUNICIPIO DEBO NI TO ORIENTAL AL MUNICIPIO DE LIMÓN, LLEGANDO HASTA LA COMUNIDAD DE FRANCIA EN LIMÓN, con una longitud aproximada de diecinueve (19) kilómetros.
 
 #### Artículo 2
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Ministerial No. 123-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241106-36682/download"
 extraido: "2026-11-14"
-huella: "1ffe0a41bd523fa1"
+huella: "1e4b0494f5ea23da"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 123-2024
@@ -87,9 +87,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

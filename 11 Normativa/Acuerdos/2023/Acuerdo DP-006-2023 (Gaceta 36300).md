@@ -8,10 +8,10 @@ gaceta_numero: 36300
 gaceta_fecha: "2023-08-05"
 gaceta: "[[11 Normativa/La Gaceta/2023/La Gaceta 36300 (2023-08-05)|La Gaceta 36300]]"
 paginas: "A. 3 - 11"
-sumario: "PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERSAcuerdo No. DP-006-2023"
+sumario: "PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERS: Acuerdo No. DP-006-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230805-36300/download"
 extraido: "2026-11-14"
-huella: "f8289ce8f5a04fb8"
+huella: "7992c9a49e9752d7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DP-006-2023
@@ -23,7 +23,7 @@ huella: "f8289ce8f5a04fb8"
 | Emisor | No consta en la fuente |
 | Publicado en | [[11 Normativa/La Gaceta/2023/La Gaceta 36300 (2023-08-05)\|La Gaceta 36300]] del 2023-08-05 |
 | Páginas | A. 3 - 11 |
-| Según el sumario de La Gaceta | PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERSAcuerdo No. DP-006-2023 |
+| Según el sumario de La Gaceta | PROGRAMA NACIONAL DE DESARROLLO RURAL Y URBANO SOSTENIBLE SEDECOAS/PRONADERS: Acuerdo No. DP-006-2023 |
 
 ## Texto
 
@@ -31,7 +31,7 @@ REGLAMENTO ADMINISTRATIVO DE CAJA CHICA
 
 En la ciudad de Tegucigalpa, municipio del Distrito Central, a los trece (13) días del mes de junio del año dos mil veintitrés (2023):
 
-CONSIDERANDO: Que el Estado cuenta con el Programa Nacional de Desarrollo Rural Sostenible (PRONADERS), Institución creada mediante Decreto Legislativo número 12- 2000 del 07 de marzo del año 2000 y reformada mediante Decreto Legislativo número 137-2011, del 30 de agosto del año 2011, como una entidad orientada esencialmente para financiar y promover el mejoramiento de las condiciones de vida rural y urbanas de la población hondureña.
+CONSIDERANDO: Que el Estado cuenta con el Programa Nacional de Desarrollo Rural Sostenible (PRONADERS), Institución creada mediante Decreto Legislativo número 12-2000 del 07 de marzo del año 2000 y reformada mediante Decreto Legislativo número 137-2011, del 30 de agosto del año 2011, como una entidad orientada esencialmente para financiar y promover el mejoramiento de las condiciones de vida rural y urbanas de la población hondureña.
 
 CONSIDERANDO: Que el Programa Nacional de Desarrollo Rural y Urbano Sostenible (PRONADERS), es un órgano desconcentrado de la administración pública, adscrito a la Secretaría de Agricultura y Ganadería (SAG), con Autonomía financiera, técnica y administrativa, cuyo domicilio es en la ciudad de Tegucigalpa pudiendo establecer oficinas regionales en el país, que contribuye al fortalecimiento de la capacidad humana en materia de autogestión y participación ciudadana, con el propósito de mejorar la calidad de vida de las comunidades rurales y urbanas de manera sostenible, y fomentando la producción agrícola e infraestructura para el desarrollo económico rural y urbano.
 

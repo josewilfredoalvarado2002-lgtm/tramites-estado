@@ -11,7 +11,7 @@ paginas: "A. 1"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240710-36582/download"
 extraido: "2026-11-14"
-huella: "948ac3c93657a317"
+huella: "2681795a2f175aae"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -27,9 +27,7 @@ huella: "948ac3c93657a317"
 
 ## Texto
 
-Universidad Nacional de Ciencias Forestales (UNACIFOR) FE DE ERRATAS La infrascrita Secretaria General de la Universidad Nacional de Ciencias Forestales, (UNACIFOR), dando cumplimiento a lo ordenado por el Consejo de Dirección Universitario en el punto único de la sesión extraordinaria número 6, celebrada el 8 de julio de 2024, y en aplicación del artículo 128 de la Ley de Procedimiento Administrativo, procede a solicitar la corrección de la publicación en La Gaceta No.
-
-36,551, de fecha 4 de junio de 2024, específicamente de la Resolución del Punto número ocho (8), de la sesión número setenta y cinco (75), celebrada por el Consejo de Dirección Universitario el 5 de abril de 2024, misma que contiene el Reglamento de Valoración de Puestos, Escala Salarial y Política de Administración Salarial del Personal Administrativo, Técnico y de Servicios y de la Carrera Docente de la Universidad Nacional de Ciencias Forestales (UNACIFOR); en la que por un error involuntario se omitió contenido del artículo 201, el cual debe leerse de la manera siguiente:
+Universidad Nacional de Ciencias Forestales (UNACIFOR) FE DE ERRATAS La infrascrita Secretaria General de la Universidad Nacional de Ciencias Forestales, (UNACIFOR), dando cumplimiento a lo ordenado por el Consejo de Dirección Universitario en el punto único de la sesión extraordinaria número 6, celebrada el 8 de julio de 2024, y en aplicación del artículo 128 de la Ley de Procedimiento Administrativo, procede a solicitar la corrección de la publicación en La Gaceta No. 36,551, de fecha 4 de junio de 2024, específicamente de la Resolución del Punto número ocho (8), de la sesión número setenta y cinco (75), celebrada por el Consejo de Dirección Universitario el 5 de abril de 2024, misma que contiene el Reglamento de Valoración de Puestos, Escala Salarial y Política de Administración Salarial del Personal Administrativo, Técnico y de Servicios y de la Carrera Docente de la Universidad Nacional de Ciencias Forestales (UNACIFOR); en la que por un error involuntario se omitió contenido del artículo 201, el cual debe leerse de la manera siguiente:
 
 #### Artículo 201
 

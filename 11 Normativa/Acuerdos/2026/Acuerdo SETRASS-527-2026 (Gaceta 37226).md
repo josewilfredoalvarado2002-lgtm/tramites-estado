@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "Acuerdo No. SETRASS-527-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260821-37226/download"
 extraido: "2026-11-09"
-huella: "1f398fdcf72a3265"
+huella: "5a2c6bdd4ad2f5ea"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SETRASS-527-2026
@@ -45,9 +45,7 @@ CONSIDERANDO (7): Que los Artículos 25 y 26 de la Ley de Procedimiento Administ
 
 CONSIDERANDO (8): Que los Artículos 80 y 82 de la Constitución de la República garantizan el derecho de petición y la garantía de defensa, y que la Ley de Procedimiento Administrativo resulta aplicable de pleno derecho a los actos que emita esta Secretaría de Estado, correspondiendo a este Acuerdo únicamente regular el ejercicio de tales derechos y no constituirlos.
 
-CONSIDERANDO (9): Que mediante Oficio No.
-
-133-DESPACHO-OPCE-2026 del 20 de julio de 2026, la Oficina Presidencial de Comercio Exterior, en ejercicio de la rectoría y coordinación interinstitucional que le confiere el Artículo 7 literal a del Decreto Ejecutivo, planteó criterios técnicos para el desarrollo de estos instrumentos, los cuales han sido valorados e incorporados en el presente Acuerdo.
+CONSIDERANDO (9): Que mediante Oficio No. 133-DESPACHO-OPCE-2026 del 20 de julio de 2026, la Oficina Presidencial de Comercio Exterior, en ejercicio de la rectoría y coordinación interinstitucional que le confiere el Artículo 7 literal a del Decreto Ejecutivo, planteó criterios técnicos para el desarrollo de estos instrumentos, los cuales han sido valorados e incorporados en el presente Acuerdo.
 
 CONSIDERANDO (10): Que la Comisión Técnica Permanente constituida en esta Secretaría de Estado rindió su Primer Informe Técnico y Jurídico el 14 de agosto de 2026, en el que concluyó que las fuentes técnicas internacionales consultadas (entre ellas informes de la OIT, del Relator Especial de la ONU, de Walk Free y del Departamento de Trabajo de los EE. UU.), si bien acreditan la existencia de prácticas de trabajo forzoso en determinados países o sectores, no identifican la entidad productora ni la cadena de suministro específica, por lo que incorporar a partir de ellas países o regiones a la Lista supondría asumir que la totalidad de sus mercancías está vinculada al trabajo forzoso, lo cual generaría escenarios de discriminación y barreras al comercio contrarias al propio Artículo 6 del Decreto Ejecutivo PCM-014-2026.
 
@@ -75,7 +73,7 @@ ARTÍCULO 1.- Objeto. El presente Acuerdo tiene por objeto establecer la regulac
 
 ARTÍCULO 2.- Ámbito de aplicación. Las disposiciones del presente Acuerdo serán aplicables, en el ámbito de competencia de esta Secretaría de Estado, a la valoración de las fuentes técnicas internacionales, la homologación de determinaciones de autoridades competentes extranjeras o internacionales, la elaboración, contenido, administración, actualización y exclusión de registros de la Lista de Mercancías con Prohibición de Importación, así como al procedimiento para la modificación o exclusión de registros a petición de parte y a la coordinación con la Administración Aduanera de Honduras para su implementación.
 
-Las disposiciones del presente Acuerdo no comprenden las regulaciones, procedimientos o actuaciones que, de conformidad con el Artículo 10 del Decreto Ejecutivo PCM- 014-2026, correspondan a otras autoridades competentes.
+Las disposiciones del presente Acuerdo no comprenden las regulaciones, procedimientos o actuaciones que, de conformidad con el Artículo 10 del Decreto Ejecutivo PCM-014-2026, correspondan a otras autoridades competentes.
 
 #### Artículo 3
 
@@ -287,9 +285,7 @@ Subpartidas:
 
 7307.1930, 7307.1990, 7307.911000, 7307.915010, 7307.915050, 7307.923010, 7307.929000, 7307.933000, 7307.939030, 7307.991000, 7307.995015, and 7307.995045.
 
-Tianjin Malleable Iron Factory, también conocida como Tianjin Tongbao Fittings Company; Tianjin No. 2 Malleable Iron Plant; Tianjin Secondary Mugging Factory; Tianjin No.
-
-2 prison Qinghai Hide & Garment Factory, también conocida como Qinghai Leather and Wool Bedding and Garment Factory y Qinghai Fur and Cloth Factory Xuzhou Forging and Pressing Machine Works Yunnan Machinery, también conocida como Golden Horse (JinMa) Diesel Factory y Yunnan 1st Prison La referencia al Sistema Armonizado es indicativa. La identificación arancelaria exacta conforme al Arancel Centroamericano de Importación será determinada por la Administración Aduanera de Honduras en coordinación con la Oficina Presidencial de Comercio Exterior conforme al Artículo 15 de este Acuerdo. El alcance de cada registro queda delimitado por la mercancía y su productor identificado.
+Tianjin Malleable Iron Factory, también conocida como Tianjin Tongbao Fittings Company; Tianjin No. 2 Malleable Iron Plant; Tianjin Secondary Mugging Factory; Tianjin No. 2 prison Qinghai Hide & Garment Factory, también conocida como Qinghai Leather and Wool Bedding and Garment Factory y Qinghai Fur and Cloth Factory Xuzhou Forging and Pressing Machine Works Yunnan Machinery, también conocida como Golden Horse (JinMa) Diesel Factory y Yunnan 1st Prison La referencia al Sistema Armonizado es indicativa. La identificación arancelaria exacta conforme al Arancel Centroamericano de Importación será determinada por la Administración Aduanera de Honduras en coordinación con la Oficina Presidencial de Comercio Exterior conforme al Artículo 15 de este Acuerdo. El alcance de cada registro queda delimitado por la mercancía y su productor identificado.
 
 ## Fuente
 

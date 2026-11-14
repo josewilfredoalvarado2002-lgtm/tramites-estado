@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos CREE-023, 024, 025; Acuerdo número: 625-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200107-35142/download"
 extraido: "2026-11-14"
-huella: "2a22257b9778f805"
+huella: "c49743f42b72d274"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Acuerdos CREE-023, 024, 025; Acuerdo número: 625-2019
@@ -229,7 +229,7 @@ C) Comuníquese.
 
 JOSÉ ANTONIO MORÁN MARADIAGA OSCAR WALTHER GROSS CABRERA GERARDO ANTONIO SALGADO OCHOA Secretaría de Finanzas ACUERDO NÚMERO: 625-2019 Tegucigalpa, M.D.C. 30 de diciembre de 2019 LA SECRETARIA DE ESTADO EN EL DESPACHO DE FINANZAS
 
-CONSIDERANDO: Que mediante Acuerdo No. 497- 2019, de fecha 26 de agosto del 2019, se aprobaron las Normas para el Cierre Contable del Ejercicio Fiscal 2019 y modificaciones realizadas mediante Acuerdos números 591, 606, 606-A, 620 y 623/2019, que concluye el 31 de diciembre del 2019 y Disposiciones Operativas de cumplimiento obligatorio para el Sector Público.
+CONSIDERANDO: Que mediante Acuerdo No. 497-2019, de fecha 26 de agosto del 2019, se aprobaron las Normas para el Cierre Contable del Ejercicio Fiscal 2019 y modificaciones realizadas mediante Acuerdos números 591, 606, 606-A, 620 y 623/2019, que concluye el 31 de diciembre del 2019 y Disposiciones Operativas de cumplimiento obligatorio para el Sector Público.
 
 CONSIDERANDO: Que de conformidad a la Programación Mensual de Gastos todas las Instituciones deben realizar la Ejecución Presupuestaria en tiempo y forma.
 

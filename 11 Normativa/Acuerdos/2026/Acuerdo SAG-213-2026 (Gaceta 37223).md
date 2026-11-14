@@ -11,7 +11,7 @@ paginas: "A. 3 - 12"
 sumario: "Acuerdo No. SAG-213-2026, Fe de Errata No. 001-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260818-37223/download"
 extraido: "2026-11-09"
-huella: "3f4025263e6af9d7"
+huella: "b0a86c156e5ca61e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-213-2026
@@ -39,7 +39,7 @@ CONSIDERANDO: Que es de interés público mantener el adecuado abastecimiento en
 
 CONSIDERANDO: Que mediante Acuerdo Ejecutivo Número 001-2026, publicado en el Diario Oficial "La Gaceta" en fecha 05 junio de 2026, se autoriza la apertura de un contingente arancelario de arroz granza, clasificado en el inciso arancelario 1006.10.90.00 del Arancel Centroamericano de Importación (ACI), por Sesenta Mil Toneladas Métricas (60,000 TM), con un Derecho Arancelario a la Importación (DAI) de cero por ciento (0%); con vigencia hasta el 31 de diciembre de 2026, el cual se podrá importar de cualquier procedencia.
 
-CONSIDERANDO: Que el Acuerdo Ejecutivo Número 001- 2026, establece en el Órdinal Segundo, que la asignación del contingente arancelario de arroz granza se hará en base a los porcentajes de compra nacional de arroz granza reportada, expresados en toneladas métricas de la cosecha nacional producida en el año 2025. Asimismo, en el Ordinal Tercero Instruye a la Oficina Presidencia, de Comercio Exterior (OPCE) y la Secretaría en los Despachos de Agricultura y Ganadería (SAG) que emitan los Acuerdos Ministeriales conforme a sus competencias.
+CONSIDERANDO: Que el Acuerdo Ejecutivo Número 001-2026, establece en el Órdinal Segundo, que la asignación del contingente arancelario de arroz granza se hará en base a los porcentajes de compra nacional de arroz granza reportada, expresados en toneladas métricas de la cosecha nacional producida en el año 2025. Asimismo, en el Ordinal Tercero Instruye a la Oficina Presidencia, de Comercio Exterior (OPCE) y la Secretaría en los Despachos de Agricultura y Ganadería (SAG) que emitan los Acuerdos Ministeriales conforme a sus competencias.
 
 POR TANTO;
 
@@ -161,7 +161,7 @@ Artículo 2: Se consideran donaciones:
 
 1. Donaciones en efectivo.
 
-2. D o n a c i o n e s d e B i e n e s y M a t e r i a l e s en desuso a personas Naturales o Ju Públicas y Privadas.
+2. Donaciones de Bienes y Materiales en desuso a personas Naturales o Ju Públicas y Privadas.
 
 3. Donación de Materiales, Equipos y Activos.
 

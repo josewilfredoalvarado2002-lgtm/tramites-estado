@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240731-36600/download"
 extraido: "2026-11-14"
-huella: "d4d47b84912886be"
+huella: "d2d0e37b5fc9497f"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 032-2024
@@ -81,7 +81,7 @@ En caso de la revocatoria de la inscripción, no se reinscribirá nuevamente has
 
 Segundo: El resto del contenido y los preceptos técnicolegales-administrativos del Acuerdo 039-2024 quedan de la misma forma y se deben cumplir y ejecutar tal como fueron aprobados y publicados.
 
-Tercero: En virtud de que el COLPROFORH acordó y pactó desistir, rechazar y retirar la impugnación y la pronta resolución tramitadas en el Expediente ICF-150- 2024, se instruye a la Secretaría General para que realice el trámite correspondiente de conformidad con la Ley.
+Tercero: En virtud de que el COLPROFORH acordó y pactó desistir, rechazar y retirar la impugnación y la pronta resolución tramitadas en el Expediente ICF-150-2024, se instruye a la Secretaría General para que realice el trámite correspondiente de conformidad con la Ley.
 
 Cuarto: El presente Acuerdo entrará en vigencia a partir de su publicación en el Diario Oficial La Gaceta.
 

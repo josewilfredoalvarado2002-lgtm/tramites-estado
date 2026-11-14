@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Decretos Nos. 27-2020, 36-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200610-35279/download"
 extraido: "2026-11-14"
-huella: "6624dab1fd5d6d1b"
+huella: "f40761fb4321d660"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2020
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 numeral 1) de la Constitución
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -111,9 +111,7 @@ Se ordena al Instituto Nacional Penitenciario, el acondicionamiento de espacios 
 
 #### Artículo 6
 
-ARTÍCULO 6.- TRANSITORIO. De manera excepcional a las disposiciones reguladas en la Ley del Sistema Penitenciario Nacional contenida en Decreto No. 64-2012 de fecha 14 de Mayo del 2012 y publicado en el Diario Oficial “La Gaceta” del 3 de Diciembre de 2012, edición No.
-
-32,990 sus reformas, así como el Reglamento de la misma, durante la vigencia de la emergencia decretada por el del COVID-19, las personas que están gozando del beneficio de preliberación quedan exentas de retornar al centro penitenciario los días que conforme a otorgamiento del beneficio les corresponde; para garantizar que se logren los objetivos del beneficio, el Instituto Nacional Penitenciario debe implementar las medidas de control y vigilancia que considere oportunas, pudiendo contar con el apoyo de la Policía Nacional y cualquier otra institución de seguridad del Estado, o mediante el uso de soportes informáticos.
+ARTÍCULO 6.- TRANSITORIO. De manera excepcional a las disposiciones reguladas en la Ley del Sistema Penitenciario Nacional contenida en Decreto No. 64-2012 de fecha 14 de Mayo del 2012 y publicado en el Diario Oficial “La Gaceta” del 3 de Diciembre de 2012, edición No. 32,990 sus reformas, así como el Reglamento de la misma, durante la vigencia de la emergencia decretada por el del COVID-19, las personas que están gozando del beneficio de preliberación quedan exentas de retornar al centro penitenciario los días que conforme a otorgamiento del beneficio les corresponde; para garantizar que se logren los objetivos del beneficio, el Instituto Nacional Penitenciario debe implementar las medidas de control y vigilancia que considere oportunas, pudiendo contar con el apoyo de la Policía Nacional y cualquier otra institución de seguridad del Estado, o mediante el uso de soportes informáticos.
 
 #### Artículo 7
 

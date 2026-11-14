@@ -11,7 +11,7 @@ paginas: "A. 4 - 5"
 sumario: "Decretos No. 47-2020, 63-2020, 66-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200601-35270/download"
 extraido: "2026-11-14"
-huella: "2ae0b05c5c7968bc"
+huella: "7fd55a2854732271"
 ---
 <!-- portal:inicio -->
 # DECRETO 63-2020
@@ -29,7 +29,7 @@ huella: "2ae0b05c5c7968bc"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.128-2019 de fecha 7 de Noviembre de 2019, publicado en el Diario Oficial “La Gaceta” el 15 de Noviembre de 2019, Edición No.35,099, se autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que emita Bonos Soberanos de la República de Honduras en el mercado de capitales internacional hasta por un monto máximo de NOVECIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$900,000,000.00) lo cual incluye gestión de pasivos de los bonos soberanos externos colocados.
+CONSIDERANDO: Que mediante Decreto No. 128-2019 de fecha 7 de Noviembre de 2019, publicado en el Diario Oficial “La Gaceta” el 15 de Noviembre de 2019, Edición No. 35,099, se autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), para que emita Bonos Soberanos de la República de Honduras en el mercado de capitales internacional hasta por un monto máximo de NOVECIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$900,000,000.00) lo cual incluye gestión de pasivos de los bonos soberanos externos colocados.
 
 CONSIDERANDO: Que el Artículo 76 de la Ley Orgánica del Presupuesto, faculta al Poder Ejecutivo, para que, a través de la Secretaría de Estado en el Despacho de Finanzas (SEFIN), emita bonos, títulos u obligaciones de la Deuda Pública, de acuerdo con el monto autorizado por el Congreso Nacional al aprobar el Presupuesto General de Ingresos y Egresos de la República. Asimismo, dichoArtículo estipula en su segundo párrafo que, para efectuar una emisión adicional a la aprobada en dicho presupuesto, se requiere la autorización del Congreso Nacional.
 
@@ -43,11 +43,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1, mediante la modificación de su primer y cuarto párrafo, y la eliminación de los párrafos 2 y 3, del Decreto No.128-2019, de fecha 7 de Noviembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 15 de Noviembre de 2019, Edición No.35,099, el cual de ahora en adelante debe leerse de la forma siguiente:
+ARTÍCULO 1.- Reformar el Artículo 1, mediante la modificación de su primer y cuarto párrafo, y la eliminación de los párrafos 2 y 3, del Decreto No. 128-2019, de fecha 7 de Noviembre de 2019 y publicado en el Diario Oficial “La Gaceta” el 15 de Noviembre de 2019, Edición No. 35,099, el cual de ahora en adelante debe leerse de la forma siguiente:
 
 “ARTÍCULO 1.- Ordenar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que emita Bonos Soberanos de la República de Honduras en el mercado de capitales internacional hasta por un monto máximo de SEISCIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$600,000,000.00) a las condiciones financieras que obtenga al momento de su negociación.
 

@@ -11,7 +11,7 @@ paginas: "A. 14 - 17"
 sumario: "Decretos Nos. 176-2020, 177-2020, 178-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201222-35467/download"
 extraido: "2026-11-14"
-huella: "52433fd03ba9e103"
+huella: "d894540439c483f3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 178-2020
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 145 manda “Se reconoce el derecho a la protección de la salud. Es deber de todos participar en la promoción y preservación de la salud personal y de la comunidad. El Estado conservará el medio ambiente adecuado para proteger la salud de las personas.
 
-CONSIDERANDO: Que el Gobierno de la República mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” Edición No.35,171 en fecha 10 de Febrero de 2020, declaró de Estado de Emergencia Sanitaria en todo el territorio nacional, mismo que fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020, en su Artículo primero donde establece:
+CONSIDERANDO: Que el Gobierno de la República mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta” Edición No. 35,171 en fecha 10 de Febrero de 2020, declaró de Estado de Emergencia Sanitaria en todo el territorio nacional, mismo que fue reformado de conformidad al Decreto Ejecutivo Número PCM-016-2020, en su Artículo primero donde establece:
 
 “Declarar Estado de Emergencia Sanitaria, en el Sistema de Salud Pública a nivel nacional, con el propósito de continuar y fortalecer las acciones de prevención y control y garantizar la atención a las personas que están padeciendo de dengue; asimismo fortalecer las acciones de vigilancia, prevención, control y garantizar la atención a las personas ante la probable ocurrencia de infección por coronavirus (COVID-19)”.
 
-CONSIDERANDO: Que, en el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No.33-2020 de fecha 2 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No.35,217.
+CONSIDERANDO: Que, en el marco de la Emergencia Nacional Sanitaria decretada por el Poder Ejecutivo, el Congreso Nacional aprobó el Decreto No. 33-2020 de fecha 2 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No. 35,217.
 
-CONSIDERANDO: Que mediante Decreto No.83-2020 publicado en el Diario Oficial “La Gaceta” en fecha 16 de Abril del 2020, se reformaron los artículos 33 y 34 del Decreto No.33-2020 de fecha 3 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19”.
+CONSIDERANDO: Que mediante Decreto No. 83-2020 publicado en el Diario Oficial “La Gaceta” en fecha 16 de Abril del 2020, se reformaron los artículos 33 y 34 del Decreto No. 33-2020 de fecha 3 de Abril de 2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19”.
 
 CONSIDERANDO: Que, mediante el Sistema de Protección Social integrado por el Régimen del Seguro de Previsión Social y Régimen del Seguro de Cobertura Laboral, entre otros, se constituyen programas generadores de prestaciones y servicios que garantizan la protección de los sujetos de cobertura establecidos en la Ley y que están financiados por las contribuciones obligatorias que los trabajadores y empleadores realizan a las Cuentas Individuales de Capitalización respectivas. En este mismo contexto, se faculta al Régimen de Aportaciones Privadas (RAP), a captar y administrar las Cuentas de Capitalización Individual derivadas del Régimen Previsional y del Régimen del Seguro de Cobertura Laboral, a fin de dar cumplimiento a las prestaciones y servicios que se derivan de la Ley Marco del Sistema de Protección Social, Ley del Seguro Social, sus Reglamentos y demás normativas aplicables.
 
@@ -49,7 +49,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 28, 33 y 34 del Decreto No.33-2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No.35,217, reformado mediante el Decreto No.83-2020, los cuales deben leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 28, 33 y 34 del Decreto No. 33-2020, contentivo de la “LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No. 35,217, reformado mediante el Decreto No. 83-2020, los cuales deben leerse de la manera siguiente:
 
 “ARTÍCULO 28.- PROCEDIMI-
 
@@ -85,7 +85,7 @@ ARTÍCULO 34.- CESE TEMPORAL DE COBRO DE COTIZACIONES Y APORTACIONES OBREROPATRO
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Decreto No.33-2020, contentivo de la “LEY D E A U X I L I O A L S E C TO R P R O D U C T I V O Y A L O S TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No.35,217, adicionando el
+ARTÍCULO 2.- Reformar por adición el Decreto No. 33-2020, contentivo de la “LEY D E A U X I L I O A L S E C TO R P R O D U C T I V O Y A L O S TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19” publicado en el Diario Oficial “La Gaceta” de fecha 3 de Abril del año 2020, en la Edición No. 35,217, adicionando el
 
 #### Artículo 28
 
@@ -97,11 +97,11 @@ Artículo 28-A, el cual debe leerse de la manera siguiente:
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar el Artículo 2 del Decreto No.83-2020, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Julio del año 2020, en la Edición No.35,315, el cual debe leerse de la manera siguiente:
+ARTÍCULO 3.- Reformar el Artículo 2 del Decreto No. 83-2020, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Julio del año 2020, en la Edición No. 35,315, el cual debe leerse de la manera siguiente:
 
-“ARTÍCULO 2.- Las empresas y trabajadores que hayan reactivado su operación normal de negocio durante el período establecido en los artículos 33 y 34 reformados del Decreto No.33-2020, podrán continuar de manera regular con sus cotizaciones y aportaciones de los regímenes obligatorios antes relacionados en cumplimiento a la Ley Marco del Sistema de Protección Social.
+“ARTÍCULO 2.- Las empresas y trabajadores que hayan reactivado su operación normal de negocio durante el período establecido en los artículos 33 y 34 reformados del Decreto No. 33-2020, podrán continuar de manera regular con sus cotizaciones y aportaciones de los regímenes obligatorios antes relacionados en cumplimiento a la Ley Marco del Sistema de Protección Social.
 
-Asimismo, para aquellas empresas que continúen con la suspensión de los contratos de trabajo de sus trabajadores, conforme a lo establecido en el Código de Trabajo, durante un plazo mayor a los diez (10) meses relacionados en los artículos 33 y 34 reformados del Decreto No.33-2020, se les autoriza para que mantengan el beneficio de suspensión de las cotizaciones y aportaciones obreropatronales obligatorias correspondientes a las cuentas de capitalización individual derivadas del Régimen del Seguro de Previsión Social y del Régimen del Seguro de Cobertura Laboral, hasta que dichas empresas y sus trabajadores se reintegren a su trabajo conforme al plazo máximo de suspensión autorizado por ley. Para tal fin, cada empresa deberá de acreditar de forma fehaciente ante el RAP copia de la Constancia emitida por autoridad competente que acredite la Suspensión del Contrato de Trabajo de sus trabajadores.
+Asimismo, para aquellas empresas que continúen con la suspensión de los contratos de trabajo de sus trabajadores, conforme a lo establecido en el Código de Trabajo, durante un plazo mayor a los diez (10) meses relacionados en los artículos 33 y 34 reformados del Decreto No. 33-2020, se les autoriza para que mantengan el beneficio de suspensión de las cotizaciones y aportaciones obreropatronales obligatorias correspondientes a las cuentas de capitalización individual derivadas del Régimen del Seguro de Previsión Social y del Régimen del Seguro de Cobertura Laboral, hasta que dichas empresas y sus trabajadores se reintegren a su trabajo conforme al plazo máximo de suspensión autorizado por ley. Para tal fin, cada empresa deberá de acreditar de forma fehaciente ante el RAP copia de la Constancia emitida por autoridad competente que acredite la Suspensión del Contrato de Trabajo de sus trabajadores.
 
 #### Artículo 4
 

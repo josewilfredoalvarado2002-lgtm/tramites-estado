@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdo No. CSJ-01-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210615-35628/download"
 extraido: "2026-11-14"
-huella: "5a1daf6d52bead0f"
+huella: "8d206142f01cb168"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CSJ-01-2021
@@ -49,7 +49,7 @@ Cuarto. La Constitución de la República, establece los alcances que debe tener
 
 Quinto. Al tener de lo dispuesto en los artículos 313 numerales 11) y 12) de la Constitución de la República, y 6 numerales 1), 6) y 12) del Reglamento Interior de la Corte Suprema de Justicia, le corresponde a este Alto Tribunal, entre otras atribuciones, fijar la división del territorio para efectos jurisdiccionales, así como crear, suprimir, fusionar o trasladar los juzgados, las cortes de apelaciones y demás dependencias del Poder Judicial.
 
-P a r t e D i s p o s i t i v a La Corte Suprema de Justicia, por mayoría de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias, A c u e r d a Único: Establecer de conformidad con los artículos 303 y 329 de la Constitución de la República, la Jurisdicción Especial de las Zonas de Empleo y Desarrollo Económico (ZEDE), creada por mandato constitucional; la cual estará conformada por órganos jurisdiccionales que formarán parte integral del Poder Judicial de Honduras, con competencia exclusiva sobre dichas zonas.
+Parte Dispositiva La Corte Suprema de Justicia, por mayoría de votos, en nombre del Estado de Honduras y en uso de sus facultades constitucionales, legales y reglamentarias, Acuerda Único: Establecer de conformidad con los artículos 303 y 329 de la Constitución de la República, la Jurisdicción Especial de las Zonas de Empleo y Desarrollo Económico (ZEDE), creada por mandato constitucional; la cual estará conformada por órganos jurisdiccionales que formarán parte integral del Poder Judicial de Honduras, con competencia exclusiva sobre dichas zonas.
 
 Dicha jurisdicción especial conocerá de los asuntos en las materias penal, niñez y adolescencia de conformidad con la Constitución, tratados internacionales vigentes en la República de Honduras y demás leyes aplicables.
 

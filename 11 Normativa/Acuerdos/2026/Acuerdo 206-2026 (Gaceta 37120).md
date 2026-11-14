@@ -11,7 +11,7 @@ paginas: "A. 9 - 12"
 sumario: "Acuerdo Ministerial N°. 206-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260418-37120/download"
 extraido: "2026-11-09"
-huella: "79af754ec6fd6121"
+huella: "b0c5afa9f3060f52"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL N° 206-2026
@@ -37,7 +37,7 @@ CONSIDERANDO: Conforme a lo dispuesto en el artículo 27 numeral 27 del Reglamen
 
 CONSIDERANDO: Que la Secretaría General es el órgano de apoyo técnico-administrativo encargado de la coordinación, control y seguimiento de los asuntos administrativos internos de la Secretaría.
 
-CONSIDERANDO: Mediante Acuerdo Ejecutivo N° 086- 2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
+CONSIDERANDO: Mediante Acuerdo Ejecutivo N° 086-2026 del diez (10) de febrero del dos mil veintiséis (2026), se nombró al ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, como Secretario General de la Secretaría de Recursos Naturales y Ambiente (SERNA).
 
 CONSIDERANDO: El Secretario de Estado en el Despacho de Recursos Naturales y Ambiente (SERNA), JUAN CARLOS RAMOS RAMÍREZ, durante los días comprendidos del 07 al 10 de abril del dos mil veintiséis (2026), asistirá a el encuentro LXXVI Reunión Extraordinaria del Consejo de Ministros de la Comisión Centroamericana de Ambiente y Desarrollo (CCAD) que se desarrollará en la Ciudad de Santo Domingo, República Dominicana, por lo que se hace necesario en su ausencia delegar las funciones en el Secretario General de la Secretaría de Recursos Naturales y Ambiente, ciudadano ÁNGEL GUSTAVO REYES RODRÍGUEZ, a fin de mantener el normal desarrollo de las actividades de esta Secretaría de Estado.
 

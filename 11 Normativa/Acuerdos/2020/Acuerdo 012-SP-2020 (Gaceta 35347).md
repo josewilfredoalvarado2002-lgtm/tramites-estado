@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdo Ejecutivo número 012-SP-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200819-35347/download"
 extraido: "2026-11-14"
-huella: "6c3c7fa75fd8c147"
+huella: "72ea196b2bc30cf6"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 012-SP-2020
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el Presidente de la República tiene a su cargo la suprema dir
 
 CONSIDERANDO: Que el Presidente de la República podrá delegar en los Secretarios de Estado, el ejercicio de la potestad de decidir en determinadas materias o en casos concretos. A efecto de descongestionar y a la vez volver más expedita la gestión de la administración pública centralizada.
 
-C O N S I D E R A N D O : Q u e l o s S e c r e t a r i o s d e Estado son colaboradores del Presidente de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos Descentralizados o de las instituciones Descentralizadas, en las áreas de su competencia.
+CONSIDERANDO: Que los Secretarios de Estado son colaboradores del Presidente de la República en el Despacho de los asuntos públicos y en la orientación, coordinación, dirección y supervisión de los órganos de la Administración Pública Centralizada y la coordinación de las entidades y órganos Descentralizados o de las instituciones Descentralizadas, en las áreas de su competencia.
 
 CONSIDERANDO: Que la Oficina Normativa de Contratación y Adquisiciones, como un órgano técnico y consultivo del Estado tiene la responsabilidad de dictar normas e instructivos de carácter general para desarrollar o mejorar los sistemas de contratación administrativa en sus aspectos operacionales, técnicos y económicos, así como, la prestación de asesoría y la coordinación de actividades que orienten y sistematicen los procesos de contratación del sector público
 

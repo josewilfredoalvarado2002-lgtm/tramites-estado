@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Certificación del Acuerdo No. ADUANAS-DE-12-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200226-35185/download"
 extraido: "2026-11-14"
-huella: "fd737e1762a53e69"
+huella: "c7ae7debf77bdf16"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -27,9 +27,7 @@ huella: "fd737e1762a53e69"
 
 ## Texto
 
-La infrascrita, Secretaria General a nivel nacional de la Administración Aduanera de Honduras, certifica el ACUERDO No. ADUANAS-DE-12-2020 de fecha 16 de enero del 2020, que literalmente dice: "ACUERDO No.
-
-ADUANAS-DE-12-2020 ADMINISTRACIÓN ADUANERA
+La infrascrita, Secretaria General a nivel nacional de la Administración Aduanera de Honduras, certifica el ACUERDO No. ADUANAS-DE-12-2020 de fecha 16 de enero del 2020, que literalmente dice: "ACUERDO No. ADUANAS-DE-12-2020 ADMINISTRACIÓN ADUANERA
 
 DE HONDURAS, Tegucigalpa, M.D.C., 16 de enero del año 2020.- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-059-2019 del veintisiete (27) de septiembre del año dos mil diecinueve (2019), publicado en el Diario Oficial La Gaceta en fecha treinta (30) de septiembre del año dos mil diecinueve (2019) el Presidente Constitucional en Consejo de Secretarios de Estado, suprimir y liquidar a más tardar el treinta y uno (31) de diciembre de dos mil diecinueve (2019) a la Dirección Adjunta de Rentas Aduaneras (DARA).- CONSIDERANDO: Que mediante Decreto Ejecutivo PCM - 059-2019 anteriormente mencionado, se institucionaliza la nueva administración aduanera en el marco de lo preceptuado en el Código Tributario, contenido en el Decreto Legislativo No. 170-2016, cuya denominación será Administración Aduanera de Honduras, en consecuencia, las atribuciones y facultades otorgadas a la Comisión Presidencial de Reforma Integral del Sistema Aduanero y Operadores de Comercio (COPRISAO) desde el primero
 

@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Acuerdo Ejecutivo No. 360-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221114-36076/download"
 extraido: "2026-11-14"
-huella: "2a650e9d1471e63b"
+huella: "9e9d617386c5644d"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. 360-2022
@@ -31,7 +31,7 @@ LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
 CONSIDERANDO: Qué mediante Decreto Legislativo 59-2012, se crea la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT), como un órgano desconcentrado del Poder Ejecutivo, con personalidad jurídica, autonomía organizativa, técnica, financiera y presupuestaria.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo PCM- 035-2018, la Presidencia de la República, decidió adscribir la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT) a la Secretaría de Estado en el Despacho de Derechos Humanos.
+CONSIDERANDO: Que mediante Decreto Ejecutivo PCM-035-2018, la Presidencia de la República, decidió adscribir la Comisión Interinstitucional Contra la Explotación Sexual Comercial y Trata de Personas (CICESCT) a la Secretaría de Estado en el Despacho de Derechos Humanos.
 
 CONSIDERANDO: Que de Acuerdo al artículo 11 de la Ley General de la Administración Pública, la Presidenta de la República, tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada.
 
@@ -63,7 +63,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a un (1) día 
 
 IRIS XIOMARA CASTRO SARMIENTO PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA MELINA NATALIE ROQUE SANDOVAL SECRETARIA DE ESTADO EN EL DESPACHO DE DERECHOS HUMANOS Avance Próxima Edición
 
-DECRETA: ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.5132/BL-HO, suscrito el 13 de Septiembre del año 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de UN MILLÓN SEISCIENTOS MIL DÓLARES AMERICANOS (US$.1,600,000.00) CENTROS DE DISTRIBUCIÓN:
+DECRETA: ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No. 5132/BL-HO, suscrito el 13 de Septiembre del año 2022, entre el BANCO INTERAMERICANO DE DESARROLLO (BID), en su condición de Prestamista Y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Prestatario del financiamiento, hasta por un monto de UN MILLÓN SEISCIENTOS MIL DÓLARES AMERICANOS (US$.1,600,000.00) CENTROS DE DISTRIBUCIÓN:
 
 TEGUCIGALPA
 

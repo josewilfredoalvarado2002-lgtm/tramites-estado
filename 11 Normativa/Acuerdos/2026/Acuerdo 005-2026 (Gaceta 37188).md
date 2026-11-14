@@ -11,7 +11,7 @@ paginas: "A. 6 - 9"
 sumario: "Acuerdos Nos. 004-2026, 005-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260708-37188/download"
 extraido: "2026-11-09"
-huella: "75d4964dc7a63f05"
+huella: "870ebe57fdd2014b"
 ---
 <!-- portal:inicio -->
 # ACUERDO No 005-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que son atribuciones y deberes de los Secretarios de Estados, emit
 
 CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-006-2026, publicado en el Diario Oficial “La Gaceta”, en fecha 11 de marzo del 2026, se crea la Oficina Presidencial de Comercio Exterior (OPCE), como el ente desconcentrado de la Presidencia de la República, responsable de la formulación y evaluación de la política de comercio exterior y la administración general del régimen de comercio exterior, así como coordinar y ejecutar acciones vinculadas a la facilitación y administración del comercio internacional, en coordinación con las instituciones competentes.
 
-CONSIDERANDO: Que el Decreto Ejecutivo Número PCM- 006-2026 establece que la Oficina Presidencial de Comercio Exterior estará a cargo de un Comisionado Presidencial con rango de Secretario de Estado que reportará directamente al Presidente de la República.
+CONSIDERANDO: Que el Decreto Ejecutivo Número PCM-006-2026 establece que la Oficina Presidencial de Comercio Exterior estará a cargo de un Comisionado Presidencial con rango de Secretario de Estado que reportará directamente al Presidente de la República.
 
 CONSIDERANDO: Que es prioridad del Gobierno de la República fortalecer la competitividad de los sectores productivos nacionales y garantizar condiciones adecuadas de abastecimiento para el consumo nacional, mediante la implementación de medidas de comercio exterior.
 
@@ -63,11 +63,9 @@ BENEFICIO DE GRANOS MATURAVE, S.A.
 
 Consumo Humano, siendo aprobado por la Comisión de Supervisión del referido Convenio.
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería en base al informe de AGROBOLSA, determinó la necesidad de proceder con importaciones de maíz blanco, tomando en consideración la relación antes indicada, procedió mediante Oficio SAG-503-2026 de fecha 8 de mayo de 2026, remitir a la Oficina Presidencial de Comercio Exterior (OPCE), el Acuerdo Ministerial No. SAG-181-2026, de fecha 08 de mayo de 2026, en el marco del Acuerdo Ejecutivo No.
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería en base al informe de AGROBOLSA, determinó la necesidad de proceder con importaciones de maíz blanco, tomando en consideración la relación antes indicada, procedió mediante Oficio SAG-503-2026 de fecha 8 de mayo de 2026, remitir a la Oficina Presidencial de Comercio Exterior (OPCE), el Acuerdo Ministerial No. SAG-181-2026, de fecha 08 de mayo de 2026, en el marco del Acuerdo Ejecutivo No. 096-2026, publicado en el Diario Oficial “La Gaceta” el 05 de mayo de 2026, y solicitar a la OPCE, proceder a la emisión de los Certificados para la Importación de Maíz Blanco del segundo corte por la cantidad de 8,539.93 TM, clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), con un DAI del cero por ciento (0%), y con una vigencia hasta al 31 de diciembre del 2026, de conformidad a la siguiente distribución:
 
-096-2026, publicado en el Diario Oficial “La Gaceta” el 05 de mayo de 2026, y solicitar a la OPCE, proceder a la emisión de los Certificados para la Importación de Maíz Blanco del segundo corte por la cantidad de 8,539.93 TM, clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), con un DAI del cero por ciento (0%), y con una vigencia hasta al 31 de diciembre del 2026, de conformidad a la siguiente distribución:
-
-Maíz comprado Derecho a Importación Importar Autorizada Cosecha Nacional Relación Priemer Corte /TM VOLUMEN KILOGRAMOS Según Convenio 2025- 2026/QQ /QQ 58,517.00 105,330.60 4,777.72 4,777,720.00 20,183.98 36,331.16 1,647.95 1,647,950.00 25,490.00 45,882.00 2,081.17 2,081,170.00 405.24 729.43 33.09 33,090.00 TOTAL 104,596.22 188,273.20 8,539.93 8,539,930.00
+Maíz comprado Derecho a Importación Importar Autorizada Cosecha Nacional Relación Priemer Corte /TM VOLUMEN KILOGRAMOS Según Convenio 2025-2026/QQ /QQ 58,517.00 105,330.60 4,777.72 4,777,720.00 20,183.98 36,331.16 1,647.95 1,647,950.00 25,490.00 45,882.00 2,081.17 2,081,170.00 405.24 729.43 33.09 33,090.00 TOTAL 104,596.22 188,273.20 8,539.93 8,539,930.00
 
 POR TANTO:
 
@@ -119,9 +117,7 @@ d) Carta de poder debidamente autenticada;
 
 e) Dirección física, teléfono y correo electrónico del apoderado legal y de la empresa a fin de efectuar las notificaciones pertinentes;
 
-f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No.
-
-PCM-052-2013;
+f) Constancia de solvencia de las obligaciones tributarias de conformidad con el artículo 3 del Decreto Ejecutivo No. PCM-052-2013;
 
 g) Recibo oficial de la Tesorería General de República TGR-1 por L. 200.00 en el código 12121, a nombre de la Secretaría de Desarrollo Económico, para cada solicitud, por concepto de pago de la emisión de los actos administrativos;
 

@@ -11,7 +11,7 @@ paginas: "A. 3 - 12"
 sumario: "Acuerdo No. 032-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220831-36016/download"
 extraido: "2026-11-14"
-huella: "7d200744618582e2"
+huella: "792ff89e890621da"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 032-2022
@@ -55,9 +55,7 @@ Artículos 1, 3, 19, 21, 22, 23, 24, 25, 26, 27 de la Ley de Procedimiento Admin
 
 ACUERDA:
 
-PRIMERO: Derogar el Acuerdo No. 025-2012 de fecha 17 de octubre del año dos mil doce y el ACUERDO No.
-
-022-2018 de fecha 22 de mayo del año dos mil dieciocho.
+PRIMERO: Derogar el Acuerdo No. 025-2012 de fecha 17 de octubre del año dos mil doce y el ACUERDO No. 022-2018 de fecha 22 de mayo del año dos mil dieciocho.
 
 SEGUNDO: Aprobar la “NORMATIVA TÉCNICA PARA LA CERTIFICACIÓN Y APROVECHAMIENTO DE ÁRBOLES Y PLANTACIONES FORESTALES Y REGENERACIÓN NATURAL”, que literalmente dice:
 

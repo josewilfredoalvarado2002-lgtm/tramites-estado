@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 30-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260313-37093/download"
 extraido: "2026-11-09"
-huella: "8dcb132585ef106a"
+huella: "447d710683a37f8e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 30-2026
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que conforme al Artículo 1 de la Constitución de la República, Honduras es un Estado de Derecho, soberano, constituido como República libre, democrática e independiente para asegurar a sus habitantes el goce de la justicia, la libertad, la cultura y el bienestar económico y social.
 
-CONSIDERANDO: Que mediante Decreto No.137-2016, de fecha 2 de Noviembre de 2016, se aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos.
+CONSIDERANDO: Que mediante Decreto No. 137-2016, de fecha 2 de Noviembre de 2016, se aprobó la Ley de Financiamiento, Transparencia y Fiscalización de Partidos Políticos y Candidatos.
 
 CONSIDERANDO: Que según el Artículo 7 de la Ley de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos, la Unidad de Financiamiento, Transparencia y Fiscalización debe estar dirigida por tres
 
 (3) Comisionados electos por el Congreso Nacional, quienes deben cumplir con los mismos requisitos exigidos para ser Magistrados del Tribunal de Justicia Electoral (TJE), y en el Artículo 8 de dicha Ley se regula el mecanismo de designación por parte del Congreso Nacional de los Comisionados de dicha Unidad.
 
-CONSIDERANDO: Que mediante Decreto No.21-2024 de fecha 28 de Febrero de 2024, se designó al ciudadano Emilio Enrique Hernández Hércules, como Comisionado en propiedad de la UNIDAD DE FINANCIAMIENTO TRANSPARENCIA Y FISCALIZACIÓN (UFTF), por un período de seis (6) años.
+CONSIDERANDO: Que mediante Decreto No. 21-2024 de fecha 28 de Febrero de 2024, se designó al ciudadano Emilio Enrique Hernández Hércules, como Comisionado en propiedad de la UNIDAD DE FINANCIAMIENTO TRANSPARENCIA Y FISCALIZACIÓN (UFTF), por un período de seis (6) años.
 
 CONSIDERANDO: Que en fecha 25 de Enero del año en curso, el ciudadano Emilio Enrique Hernández Hércules, presentó formal renuncia al Pleno de la Cámara Legislativa a su cargo de Comisionado de la Unidad de Financiamiento, Transparencia y Fiscalización a Partidos Políticos y Candidatos.
 

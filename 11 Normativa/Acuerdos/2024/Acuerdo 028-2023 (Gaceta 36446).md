@@ -11,7 +11,7 @@ paginas: "A. 15 - 20"
 sumario: "Acuerdos No. 026-2023, No. 028-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240129-36446/download"
 extraido: "2026-11-14"
-huella: "12c8649870782ffb"
+huella: "6afd1ac68c45ae55"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 028-2023
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el área denominada “Centro de Conservación para la Vida Si
 
 Al Este: Por el Departamento de Choluteca y Al Oeste: Por la República de El Salvador.
 
-CONSIDERANDO: Que el Centro de Información y Patrimonio Forestal (CIPF) emitió Dictamen Técnico CIPF- 1002-2023 el SIPLVS “Centro de Conservación para la Vida Silvestre DINANT Zacate Grande (CCVSD-ZG)”, el área física corresponde a 1266.3192 hectáreas, asimismo, dictamina traslapes con áreas protegidas, siendo el desglose siguiente: AMHE Bahía de Chismuyo 49.35 hectáreas, la Zona de Amortiguamiento en la Subzona Uso Sostenible de los recursos extensiva y Sector Pesca; 18.28 hectáreas con la Subzona Uso Sostenible de los recursos de extensiva y Sector Producción Agropecuaria; Archipiélago del Golfo de Fonseca 766.91 hectáreas en la Zona de Amortiguamiento; del Archipiélago del Golfo de Fonseca y en el Parque Nacional Marino en la Zona de Amortiguamiento en la Subzona Uso Sostenible de recurso extensivo sector y producción agropecuaria 5.76 hectáreas; el total del traslape con el Archipiélago del Golfo de Fonseca y el Parque Nacional Marino es de 840.24 hectáreas, quedando 426.08 hectáreas fuera de áreas protegidas declaradas. No traslapa con Microcuencas, Planes de Manejo, Áreas Asignadas, Catálogo del Patrimonio Público Forestal Inalienable, Áreas en Proceso de Titulación a favor del Estado de Honduras y con la Base de Solicitudes.
+CONSIDERANDO: Que el Centro de Información y Patrimonio Forestal (CIPF) emitió Dictamen Técnico CIPF-1002-2023 el SIPLVS “Centro de Conservación para la Vida Silvestre DINANT Zacate Grande (CCVSD-ZG)”, el área física corresponde a 1266.3192 hectáreas, asimismo, dictamina traslapes con áreas protegidas, siendo el desglose siguiente: AMHE Bahía de Chismuyo 49.35 hectáreas, la Zona de Amortiguamiento en la Subzona Uso Sostenible de los recursos extensiva y Sector Pesca; 18.28 hectáreas con la Subzona Uso Sostenible de los recursos de extensiva y Sector Producción Agropecuaria; Archipiélago del Golfo de Fonseca 766.91 hectáreas en la Zona de Amortiguamiento; del Archipiélago del Golfo de Fonseca y en el Parque Nacional Marino en la Zona de Amortiguamiento en la Subzona Uso Sostenible de recurso extensivo sector y producción agropecuaria 5.76 hectáreas; el total del traslape con el Archipiélago del Golfo de Fonseca y el Parque Nacional Marino es de 840.24 hectáreas, quedando 426.08 hectáreas fuera de áreas protegidas declaradas. No traslapa con Microcuencas, Planes de Manejo, Áreas Asignadas, Catálogo del Patrimonio Público Forestal Inalienable, Áreas en Proceso de Titulación a favor del Estado de Honduras y con la Base de Solicitudes.
 
 CONSIDERANDO Que de acuerdo con lo establecido en los lineamientos para la declaratoria de Sitios de Importancia para la Vida Silvestre (SIPVS), los SIPVS son áreas naturales de tenencia nacional, ejidal y/o privada con condiciones adecuadas para el mantenimiento de los organismos silvestres en peligro de extinción, endémicas y distribución restringida; por lo que el área solicitada para dicha declaratoria, es de naturaleza jurídica privada, de conformidad a la Tradición de Dominio inscrita en el Asiento N°84, Tomo N°774 del Registro de la Propiedad Inmueble y Mercantil de Nacaome, Valle.
 

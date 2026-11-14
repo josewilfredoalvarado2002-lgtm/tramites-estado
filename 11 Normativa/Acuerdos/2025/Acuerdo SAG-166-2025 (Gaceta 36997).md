@@ -11,7 +11,7 @@ paginas: "A. 1 - 20"
 sumario: "Acuerdo No. SAG-166-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251119-36997/download"
 extraido: "2026-11-09"
-huella: "bce4d8352fd8ff4c"
+huella: "1b3aacf11cda329d"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. SAG-166-2025
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el Poder Ejecutivo, a través de la Secretaría de Estado en l
 
 CONSIDERANDO: Que la Dirección General de Pesca y Acuicultura (DIGEPESCA) es la autoridad rectora del sector pesquero y acuícola, responsable de formular políticas en materia de pesca y sus actividades conexas, pudiendo establecer medidas, procedimientos y requisitos para la investigación científica y el aprovechamiento sostenible de los recursos hidrobiológicos.
 
-CONSIDERANDO: Que Honduras es signataria de diversos convenios internacionales orientados a la protección y conservación de los ecosistemas marino- costeros y su biodiversidad, lo que obliga al Estado a implementar medidas eficaces para prevenir la sobreexplotación de dichos recursos.
+CONSIDERANDO: Que Honduras es signataria de diversos convenios internacionales orientados a la protección y conservación de los ecosistemas marino-costeros y su biodiversidad, lo que obliga al Estado a implementar medidas eficaces para prevenir la sobreexplotación de dichos recursos.
 
 CONSIDERANDO: Los Estados están obligados a aplicar el Principio de Precaución, conforme a lo establecido por la FAO, en la conservación, ordenación y aprovechamiento de los recursos acuáticos vivos, con el fin de protegerlos y salvaguardar el medio marino. La ausencia de información científica suficiente no debe ser utilizada como justificación para aplazar o abstenerse de adoptar las medidas de conservación y gestión que resulten necesarias.
 
@@ -57,7 +57,7 @@ POR TANTO
 
 En uso de sus facultades y en aplicación de los artículos 340 de la Constitución de la República; 36 numeral 8, 116, 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública; 32 y 33 de la Ley de Procedimientos Administrativos;
 
-8, 10 inciso 3, 15, 44, 47, 69, 78 de la Ley de Pesca y Acuicultura vigente; Acuerdo Ministerial SAG- 189-2024- de fecha 16 de octubre del 2024 y otras Leyes Conexas.
+8, 10 inciso 3, 15, 44, 47, 69, 78 de la Ley de Pesca y Acuicultura vigente; Acuerdo Ministerial SAG-189-2024- de fecha 16 de octubre del 2024 y otras Leyes Conexas.
 
 ACUERDA
 
@@ -221,7 +221,7 @@ NOVENO: El solicitante de Licencia de Pesca para embarcación artesanal como par
 
 14. Presentar la Licencia de Pesca original emitida para la temporada 2023–2024 o, en su defecto, la correspondiente a la temporada 2024–2025.
 
-DÉCIMO: Participarán en las actividades de Pesca para la formulación del Plan de Manejo de la Pesquería de Pepino de mar (Holothuria mexicana), embarcaciones artesanales propiedad de pescadores pertenecientes a pueblos originarios de la Mosquitia, residentes en la Moskitia, que hayan cumplido con todas las regulaciones establecidas en la temporada de pesca 2024- 2025.
+DÉCIMO: Participarán en las actividades de Pesca para la formulación del Plan de Manejo de la Pesquería de Pepino de mar (Holothuria mexicana), embarcaciones artesanales propiedad de pescadores pertenecientes a pueblos originarios de la Mosquitia, residentes en la Moskitia, que hayan cumplido con todas las regulaciones establecidas en la temporada de pesca 2024-2025.
 
 DECIMOPRIMERO: Las áreas de pesca para embarcaciones artesanales comprenderán los 54 cayos de la Mosquitia hondureña en las siguientes áreas de pesca:
 
@@ -271,7 +271,7 @@ DECIMOSEGUNDO: La extracción de pepino de mar a escala Artesanal estará sujeta
 
 9. Cada embarcación artesanal debe portar su Licencia de Pesca original de Pepino de Mar vigente extendida por la DIGEPESCA y los carnés vigentes con la respectiva fotografía de sus buzos y marinos.
 
-10. Las Bitácoras de la pesca artesanal, al momento del desembarque, deberán ser firmadas y selladas por el Jefe Regional de Puerto L e m p i r a y p o s t e r i o r m e n t e enviadas a las oficinas centrales de DIGEPESCA, específicamente a l a U n i d a d d e E s t a d í s t i c a s (estadistica.dgpa@sag.gob.hn), en un plazo no mayor a veinte días hábiles.
+10. Las Bitácoras de la pesca artesanal, al momento del desembarque, deberán ser firmadas y selladas por el Jefe Regional de Puerto Lempira y posteriormente enviadas a las oficinas centrales de DIGEPESCA, específicamente a la Unidad de Estadísticas (estadistica.dgpa@sag.gob.hn), en un plazo no mayor a veinte días hábiles.
 
 11. No se autorizará el desembarque de Pepino de Mar (Holothuria mexicana) que no presente la Bitácora de Pesca correspondiente al momento de la inspección en el puerto, entregando la original al Jefe Regional de la DIGEPESCA y una copia para el inspector de Planta y la planta procesadora respectiva.
 
@@ -361,7 +361,7 @@ VIGESIMOSEGUNDO: Los organismos de la especie de pepino de mar (Holothuria mexic
 
 1. Los ejemplares de pepino de mar que no cumplan con las especificaciones de talla mínima de captura deberán ser devueltos al mar de manera inmediata por orden de los capitanes y el observador a bordo. En caso de no llegar a un acuerdo, se deberá informar del caso dentro de la Bitácora de Pesca, igualmente notificar al jefe del departamento de Investigación y Jefe Regional de la DIGEPESCA al llegar a puerto.
 
-2. E l J e f e R e g i o n a l c o r r e s p o n d i e n t e , Observador a bordo, y el Inspector de Planta, están en la obligación de personarse en la planta procesadora donde se descargará el producto, con el fin de verificar el cumplimiento de la Ley de Pesca y el presente Acuerdo Ministerial; levantando el Acta de Inspección de embarcación pesquera en planta procesadora, de igual manera el informe para cada caso en particular deberá de contener medios de verificación fotografías, etc., remitiendo dichos documentos a la Directora de DIGEPESCA, al correo electrónico estadistica. dgpa@sag.gob.hn dejando una copia en la Regional correspondiente, lo anterior con el fin de darle seguimiento al trámite administrativo.
+2. El Jefe Regional correspondiente, Observador a bordo, y el Inspector de Planta, están en la obligación de personarse en la planta procesadora donde se descargará el producto, con el fin de verificar el cumplimiento de la Ley de Pesca y el presente Acuerdo Ministerial; levantando el Acta de Inspección de embarcación pesquera en planta procesadora, de igual manera el informe para cada caso en particular deberá de contener medios de verificación fotografías, etc., remitiendo dichos documentos a la Directora de DIGEPESCA, al correo electrónico estadistica. dgpa@sag.gob.hn dejando una copia en la Regional correspondiente, lo anterior con el fin de darle seguimiento al trámite administrativo.
 
 3. A las embarcaciones no autorizadas, que se les encuentre Pepino de Mar a bordo, se les decomisará el producto por parte de los Inspectores, Técnicos de la DIGEPESCA, en coordinación con la Fuerza Naval de Honduras, quienes deberán reportar el hecho al correo electrónico notificaciones. digepesca@sag.gob.hn
 

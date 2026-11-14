@@ -8,10 +8,10 @@ gaceta_numero: 35194
 gaceta_fecha: "2020-03-07"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)|La Gaceta 35194]]"
 paginas: "A. 56 - 57"
-sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019"
+sumario: "Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200307-35194/download"
 extraido: "2026-11-14"
-huella: "64222015c9def07d"
+huella: "0f2eae643744332e"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 21-2020
@@ -23,7 +23,7 @@ huella: "64222015c9def07d"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35194 (2020-03-07)\|La Gaceta 35194]] del 2020-03-07 |
 | Páginas | A. 56 - 57 |
-| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020COPECOAcuerdos Nos. 001-2019, 002-2019SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓNAcuerdos Nos. 21-2020, 79-2019 |
+| Según el sumario de La Gaceta | Decretos Nos. 9-2020, 11-2020, 12-2020, 21-2020; COPECO: Acuerdos Nos. 001-2019, 002-2019; SECRETARÍA DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN: Acuerdos Nos. 21-2020, 79-2019 |
 
 ## Texto
 
@@ -39,7 +39,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribuciones 18) y 31) de la C
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

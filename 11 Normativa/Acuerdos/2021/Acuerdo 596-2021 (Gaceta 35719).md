@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo No. 596-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210916-35719/download"
 extraido: "2026-11-14"
-huella: "3b3dcf60d8cffed9"
+huella: "57e224fc6e400e23"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 596-2021
@@ -33,29 +33,25 @@ CONSIDERANDO: Que el Artículo 247, de la Constitución de la República estable
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 351, establece que, el sistema tributario se regirá por los principios de legalidad, proporcionalidad, generalidad y equidad, de acuerdo con la capacidad económica del contribuyente.
 
-CONSIDERANDO: Que el Artículo 50 del Decreto No.17- 2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, faculta a la Secretaría de Estado en el Despacho de Finanzas para que a través de la Dirección Ejecutiva de Ingresos cobre una tasa en lempiras por el equivalente a cinco dólares ($5.00) de los Estados Unidos de América por cada Declaración Única Aduanera (DUA) o por el formulario Aduanero Único Centroamericano FAUCA que se registre en el sistema de información Aduanera.
+CONSIDERANDO: Que el Artículo 50 del Decreto No. 17-2010 que contiene la Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, faculta a la Secretaría de Estado en el Despacho de Finanzas para que a través de la Dirección Ejecutiva de Ingresos cobre una tasa en lempiras por el equivalente a cinco dólares ($5.00) de los Estados Unidos de América por cada Declaración Única Aduanera (DUA) o por el formulario Aduanero Único Centroamericano FAUCA que se registre en el sistema de información Aduanera.
 
 Los recursos que se perciban por ese concepto deben ser depositados en la cuenta de ingresos que la Tesorería General de la República que mantiene en el Banco Central de Honduras, los cuales deben ser transferidos vía presupuestaria a la Dirección Ejecutiva de Ingresos.
 
 CONSIDERANDO: Que el Código Tributario en su Artículo 195, crea la Administración Tributaria y la Administración Aduanera, responsables del control, verificación, fiscalización y recaudación de los tributos, con autoridad y competencia a nivel nacional.
 
-CONSIDERANDO: Que conforme la Resolución No.409- 2018 emitida por COMIECO adoptada por el Consejo de Ministros de Integración Económica el 07 de diciembre del 2018, con la cual se aprueba el formato único de Declaración Única Centroamericana (DUCA), la cual reemplaza al Formulario Aduanero Único Centroamericano (FAUCA), Asimismo, reemplaza la declaración única de mercancías para tránsito aduanero internacional terrestre (DUT).
+CONSIDERANDO: Que conforme la Resolución No. 409-2018 emitida por COMIECO adoptada por el Consejo de Ministros de Integración Económica el 07 de diciembre del 2018, con la cual se aprueba el formato único de Declaración Única Centroamericana (DUCA), la cual reemplaza al Formulario Aduanero Único Centroamericano (FAUCA), Asimismo, reemplaza la declaración única de mercancías para tránsito aduanero internacional terrestre (DUT).
 
 La DUCA se presentará mediante transmisión electrónica, cumpliendo además con las obligaciones aduaneras aplicables conforme a la legislación regional vigente.
 
-CONSIDERANDO: Que el Artículo 10B del Decreto No.
+CONSIDERANDO: Que el Artículo 10B del Decreto No. 8-2020 contentivo a la reforma de la Ley de Zonas Libres, establece lo relacionado a los movimientos internos de mercancías entre empresas que operen en las zonas libres.
 
-8-2020 contentivo a la reforma de la Ley de Zonas Libres, establece lo relacionado a los movimientos internos de mercancías entre empresas que operen en las zonas libres.
-
-CONSIDERANDO: Que el Artículo 41 del Acuerdo No.
-
-41-2020 establece que la autoridad aduanera podrá autorizar el traspaso temporal o definitivo de mercancías entre Operadoras-Usuarias o Usuarias, autorizadas para operar al amparo del Régimen, cumpliendo con la formalidad aduanera mediante los formatos que al efecto establezca la Administración Aduanera
+CONSIDERANDO: Que el Artículo 41 del Acuerdo No. 41-2020 establece que la autoridad aduanera podrá autorizar el traspaso temporal o definitivo de mercancías entre Operadoras-Usuarias o Usuarias, autorizadas para operar al amparo del Régimen, cumpliendo con la formalidad aduanera mediante los formatos que al efecto establezca la Administración Aduanera
 
 CONSIDERANDO: Que es necesario aplicar medidas para lograr la simplificación administrativa para asegurar una adecuada administración y eficiencia en los procesos en trámites tributarios y aduaneros.
 
 CONSIDERANDO: Que de conformidad al numeral 15 del Artículo 29 de la Ley de la Administración Pública y sus Reformas, establece que a la Secretaría de Estado en el Despacho de Finanzas, le compete todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas.
 
-CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM- 008-97, reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas por conducto de la Dirección General de Política Tributaria, colaborar en la definición, seguimiento y evaluación de la política tributaria, para la toma de decisiones de las autoridades superiores a fin de lograr un política fiscal sostenible en beneficio de la sociedad hondureña.
+CONSIDERANDO: Que de conformidad al Artículo 60 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo contenido en el Decreto Ejecutivo PCM-008-97, reformado por el Decreto PCM-35-2015, publicado en el Diario Oficial La Gaceta el 26 de junio de 2015, compete a la Secretaría de Estado en el Despacho de Finanzas por conducto de la Dirección General de Política Tributaria, colaborar en la definición, seguimiento y evaluación de la política tributaria, para la toma de decisiones de las autoridades superiores a fin de lograr un política fiscal sostenible en beneficio de la sociedad hondureña.
 
 POR TANTO
 
@@ -65,7 +61,7 @@ ACUERDA
 
 El siguiente:
 
-INSTRUCTIVO PARA EL COBRO DE LA TASA CONTENIDA EN EL ARTÍCULO 50, DEL DECRETO LEGISLATIVO No.17-2010 SOBRE LOS TRASLADOS TEMPORALES O DEFINITIVOS DE MERCANCÍAS ENTRE EMPRESAS OPERADORAS USUARIAS O USUARIAS DE ZONAS LIBRES
+INSTRUCTIVO PARA EL COBRO DE LA TASA CONTENIDA EN EL ARTÍCULO 50, DEL DECRETO LEGISLATIVO No. 17-2010 SOBRE LOS TRASLADOS TEMPORALES O DEFINITIVOS DE MERCANCÍAS ENTRE EMPRESAS OPERADORAS USUARIAS O USUARIAS DE ZONAS LIBRES
 
 TÍTULO I DISPOSICIONES PRELIMINARES
 
@@ -77,7 +73,7 @@ ARTÍCULO 1.- El presente Instructivo Técnico Tributario Aduanero tiene por obj
 
 #### Artículo 2
 
-ARTÍCULO 2.- Las normas contenidas en el presente instructivo son de orden público, observancia obligatoria y de aplicación para todas aquellas empresas incorporadas en el régimen de Zonas Libres en todos aquellos actos, hechos y situaciones regulados en el Artículo 50 del Decreto Legislativo No. 17-2010 contentivo del Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, publicado en el Diario Oficial “La Gaceta” de fecha 22 de abril del año 2010 y Artículo 10 Ley de Zonas Libres reformada mediante Decreto No. 8-2020, Artículo 41 del Acuerdo 41- 2020 contentivo del Reglamento de la Ley de Zonas Libres.
+ARTÍCULO 2.- Las normas contenidas en el presente instructivo son de orden público, observancia obligatoria y de aplicación para todas aquellas empresas incorporadas en el régimen de Zonas Libres en todos aquellos actos, hechos y situaciones regulados en el Artículo 50 del Decreto Legislativo No. 17-2010 contentivo del Ley de Fortalecimiento de los Ingresos, Equidad Social y Racionalización del Gasto Público, publicado en el Diario Oficial “La Gaceta” de fecha 22 de abril del año 2010 y Artículo 10 Ley de Zonas Libres reformada mediante Decreto No. 8-2020, Artículo 41 del Acuerdo 41-2020 contentivo del Reglamento de la Ley de Zonas Libres.
 
 #### Artículo 3
 

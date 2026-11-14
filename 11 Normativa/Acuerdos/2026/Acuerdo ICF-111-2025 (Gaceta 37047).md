@@ -11,7 +11,7 @@ paginas: "A. 5 - 9"
 sumario: "Acuerdos Institucionales Nos. ICF-111-2025, ICF-112-2025, 114-2025, ICF-115-2025, ICF-118-2025, ICF-123-2025, ICF-125-2025, ICF-127-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260119-37047/download"
 extraido: "2026-11-09"
-huella: "bb0c603c16797f03"
+huella: "0c190c191cd997e9"
 ---
 <!-- portal:inicio -->
 # ACUERDO INSTITUCIONAL No. ICF-111-2025
@@ -49,7 +49,7 @@ CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre en el Art
 
 CONSIDERANDO: Que, la Ley Forestal, Áreas Protegidas y Vida Silvestre establece en el Artículo 124 se declarará zonas de protección las microcuencas que abastecen o podrían abastecer de agua a poblaciones a tal efecto, se reglamentará la zonificación y protección en función del tamaño de estas.
 
-CONSIDERANDO: Que, las disposiciones del Acuerdo 040- 2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
+CONSIDERANDO: Que, las disposiciones del Acuerdo 040-2024 contentivo del “MANUAL DE PROCEDIMIENTOS ADMINISTRATIVOS PARA LA DECLARATORIA DE MICROCUENCAS COMO ZONAS DE PROTECCIÓN FORESTAL, EL MANEJO Y REDEFINICIÓN DE LÍMITES GEOGRÁFICOS DE MICROCUENCAS DECLARADAS”, el cual establece en su artículo 1 que las declaratorias de microcuencas como zonas de protección forestal, se realizarán de oficio por el ICF o a petición de las Corporaciones Municipales o las comunidades de conformidad con la ley.
 
 CONSIDERANDO: Que, consta en el presente expediente Memorándums y Vistos Buenos de Dirección Ejecutiva para la declaratorias de Zonas de Protección Forestal de las ¨Microcuencas Granada, Palitos, Plomocita, El Peñón y Quebrada Arriba San Benito Nuevo¨, las cuales se localizan en la jurisdicción de los Municipios de Concepción de María y El Corpus, Departamento de Choluteca, presentada por los representantes y presidentes de la Junta de agua de las Comunidades de Palo Solo, El Peñon, Quebrada Arriba San Benito Nuevo, de los municipios de Concepción de María, Palitos y Plomocita del municipio de El Corpus, Departamento de Choluteca.
 

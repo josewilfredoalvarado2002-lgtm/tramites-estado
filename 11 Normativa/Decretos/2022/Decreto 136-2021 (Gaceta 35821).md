@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decretos Nos. 136-2021, 131-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220113-35821/download"
 extraido: "2026-11-14"
-huella: "59bb8eaab5d159e1"
+huella: "8d89d887d5c39a6f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 136-2021
@@ -29,7 +29,7 @@ huella: "59bb8eaab5d159e1"
 
 EL CONGRESO NACIONAL,
 
-CONSIDERANDO: Que mediante Decreto No.8-2001 el Soberano Congreso Nacional de Honduras aprobó la Ley de Mercado de Valores, con el fin de regular de forma integral, coordinada y sistemática, las actividades de los intermediarios en operaciones de valores y bolsa de valores; así como para establecer los requisitos que debían cumplir los emisores de valores de oferta pública y definir las facultades de la Comisión Nacional de Bancos y Seguros (CNBS) como Ente Regulador y Supervisor de dicho mercado.
+CONSIDERANDO: Que mediante Decreto No. 8-2001 el Soberano Congreso Nacional de Honduras aprobó la Ley de Mercado de Valores, con el fin de regular de forma integral, coordinada y sistemática, las actividades de los intermediarios en operaciones de valores y bolsa de valores; así como para establecer los requisitos que debían cumplir los emisores de valores de oferta pública y definir las facultades de la Comisión Nacional de Bancos y Seguros (CNBS) como Ente Regulador y Supervisor de dicho mercado.
 
 CONSIDERANDO: Que el mercado de valores es una herramienta de importancia para el desarrollo económico de los países, debido a que es el punto de convergencia entre los inversionistas y los sectores que requieren financiamiento para el desarrollo de sus proyectos. Asimismo, promueve la creación de una amplia gama de instrumentos financieros en términos de estructura, rendimiento y vencimiento de los valores.
 
@@ -45,7 +45,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1. Reformar los artículos: 6, 11, 20, 21, 22, 24, 25, 26, 27, 35, 48, 49 y 79 de la LEY DE MERCADO DE VALORES, contenida en el Decreto No.8-2001, de fecha 20 de Febrero de 2001, los cuales se deberán leer de la manera siguiente:
+ARTÍCULO 1. Reformar los artículos: 6, 11, 20, 21, 22, 24, 25, 26, 27, 35, 48, 49 y 79 de la LEY DE MERCADO DE VALORES, contenida en el Decreto No. 8-2001, de fecha 20 de Febrero de 2001, los cuales se deberán leer de la manera siguiente:
 
 “ARTÍCULO 6.- Para efectos de esta Ley se entenderá por:
 
@@ -247,7 +247,7 @@ Una vez otorgado el registro respectivo, las casas de bolsa deberán solicitar a
 
 #### Artículo 2
 
-ARTÍCULO 2.- Adicionar los artículos 11-A, 11-B, 49-A y 229-A, a la LEY DE MERCADO DE VALORES, contenida en Decreto No.8- 2001, de fecha 20 de Febrero de 2001, los que se deberán leer de la manera siguiente:
+ARTÍCULO 2.- Adicionar los artículos 11-A, 11-B, 49-A y 229-A, a la LEY DE MERCADO DE VALORES, contenida en Decreto No. 8-2001, de fecha 20 de Febrero de 2001, los que se deberán leer de la manera siguiente:
 
 #### Artículo 11-A
 
@@ -311,7 +311,7 @@ Los techos de las inversiones relacionadas en el párrafo anterior deberán ser 
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar el numeral 17) del Artículo 11, de la LEY DEL INSTITUTO DE PREVISIÓN MILITAR, contenida en Decreto No.167-2006, el cual de ahora en adelante se lee así:
+ARTÍCULO 3.- Reformar el numeral 17) del Artículo 11, de la LEY DEL INSTITUTO DE PREVISIÓN MILITAR, contenida en Decreto No. 167-2006, el cual de ahora en adelante se lee así:
 
 “17) Autorizar todo tipo de operaciones o actividades financieras, comerciales, industriales o de cualquier otra índole, que redunden en beneficio de la institución, conforme al Reglamento de Inversiones y que para tal efecto emita la Comisión”.
 

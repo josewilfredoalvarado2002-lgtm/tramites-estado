@@ -11,7 +11,7 @@ paginas: "A. 5 - 10"
 sumario: "Acuerdos Nos. 001-2025, ICF-002-2025,003-2025, 004-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250207-36760/download"
 extraido: "2026-11-13"
-huella: "0a8bcd7112b5a8f8"
+huella: "9d825d5a36b13004"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 001-2025
@@ -37,7 +37,7 @@ CONSIDERANDO: Que la competencia es irrenunciable y ejercitada por los órganos 
 
 POR TANTO:
 
-La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 1, 2, 3, 4 y 5 de la Ley de Procedimientos Administrativos, artículos 1 y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No. 98- 2007) el Reglamento de Organización, Funcionamiento y Competencias de Poder Ejecutivo.
+La Dirección Ejecutiva del Instituto Nacional de Conservación y Desarrollo Forestal, Áreas Protegidas y Vida Silvestre (ICF), en uso de las facultades que la Ley le confiere y con fundamento en los artículos 1, 2, 3, 4 y 5 de la Ley de Procedimientos Administrativos, artículos 1 y 18, de la Ley Forestal Áreas Protegidas y Vida Silvestre (Decreto No. 98-2007) el Reglamento de Organización, Funcionamiento y Competencias de Poder Ejecutivo.
 
 ACUERDA:
 
@@ -179,7 +179,7 @@ Cualquier compra, contratación o adquisición, se realizará de conformidad con
 
 #### Artículo 12
 
-Artículo 12: De la Cuantía del Fondo a Disponer: Por la naturaleza de creación de la cuenta No. 02-001-001208- 6: ICF- Parque Nacional La Muralla, siendo un fondo semilla de 65,069.39 (sesenta y cinco mil sesenta y nueve lempiras con 39/100), al trece de diciembre del año dos mil veinticuatro, la cuenta cierra con un disponible de ciento once mil ochocientos cincuenta y nueve lempiras con 39/100 (L.111,859.39), mismo que es la suma del capital semilla más los ingresos por pago de entrada de los visitantes, giras educativas, giras de investigación, hospedaje entre los otros refugios.
+Artículo 12: De la Cuantía del Fondo a Disponer: Por la naturaleza de creación de la cuenta No. 02-001-001208-6: ICF- Parque Nacional La Muralla, siendo un fondo semilla de 65,069.39 (sesenta y cinco mil sesenta y nueve lempiras con 39/100), al trece de diciembre del año dos mil veinticuatro, la cuenta cierra con un disponible de ciento once mil ochocientos cincuenta y nueve lempiras con 39/100 (L.111,859.39), mismo que es la suma del capital semilla más los ingresos por pago de entrada de los visitantes, giras educativas, giras de investigación, hospedaje entre los otros refugios.
 
 #### Artículo 13
 

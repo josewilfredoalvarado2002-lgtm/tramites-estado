@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. SG-SEDESPA-023-2025, SG-SEDESPA-062-2025, SG-SEDESPA-073-2025, SG-SEDESPA-087-2025, SG-SEDESPA-106-2025."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250814-36916/download"
 extraido: "2026-11-09"
-huella: "32c6263cede3d66c"
+huella: "72fa16b3a51802b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SG-SEDESPA-062-2025
@@ -43,7 +43,7 @@ CONSIDERANDO (07): La competencia es irrenunciable y se ejercerá por los órgan
 
 POR TANTO
 
-En aplicación del Artículo 29 del Decreto Legislativo 266- 2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
+En aplicación del Artículo 29 del Decreto Legislativo 266-2013, Artículo 36 de la Ley General de la Administración Pública, Artículos 24 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo,
 
 Artículos 4 y 5 de la Ley de Procedimiento Administrativo.
 

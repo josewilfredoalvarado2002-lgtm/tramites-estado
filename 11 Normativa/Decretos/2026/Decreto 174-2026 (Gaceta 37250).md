@@ -11,7 +11,7 @@ paginas: "A. 39 - 41"
 sumario: "Decretos Nos. 173-2026, 174-2026,175-2026,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260919-37250/download"
 extraido: "2026-11-09"
-huella: "038e9eb22255af08"
+huella: "963ede6ec6f237b1"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 174-2026
@@ -35,7 +35,7 @@ CONSIDERANDO: Que el Municipio de Marcovia constituye una de las zonas con mayor
 
 CONSIDERANDO: Que de conformidad con la Ley de Municipalidades y la Ley Orgánica de Presupuesto, los gobiernos locales requieren de la aprobación expresa del Congreso Nacional para contratar operaciones de crédito público cuyos plazos de amortización excedan el período constitucional de la administración municipal requirente.
 
-CONSIDERANDO: Que este Poder Legislativo aprobó recientemente el Decreto No.134-2026 para el saneamiento e inversión en la Zona Sur, estableciendo un precedente de viabilidad para otorgar condiciones de financiamiento a largo plazo (hasta 30 años) a los municipios, siempre que estos fondos se destinen a obras que impulsen la productividad y el bienestar general.
+CONSIDERANDO: Que este Poder Legislativo aprobó recientemente el Decreto No. 134-2026 para el saneamiento e inversión en la Zona Sur, estableciendo un precedente de viabilidad para otorgar condiciones de financiamiento a largo plazo (hasta 30 años) a los municipios, siempre que estos fondos se destinen a obras que impulsen la productividad y el bienestar general.
 
 CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 45) de la Constitución de la República de Honduras, es potestad del Congreso Nacional: Autorizar, aprobar o improbar los contratos que involucren el crédito público o comprometan las finanzas de las instituciones del Estado.
 

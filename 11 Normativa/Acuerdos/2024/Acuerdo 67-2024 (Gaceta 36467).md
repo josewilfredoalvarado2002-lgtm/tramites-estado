@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 67-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240222-36467/download"
 extraido: "2026-11-14"
-huella: "98cbcad81a0ad01d"
+huella: "7470ede2737f9de7"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 67-2024
@@ -79,7 +79,7 @@ Se mantiene el periodo de veda indefinida de las especies de pepino de mar café
 
 SEPTIMO:
 
-Se declara periodo de veda para la pesquería Pepino de Mar Holoturia mexicana (Molongo) el periodo comprendido desde de las 00:00 horas del día uno (01) de mayo hasta las 23:59 horas del día treinta (30) de agosto de 2024, su continuidad estará sujeta a los resultados obtenidos del informe final del PROTOCOLO DE EVALUACION B I O L Ó G I C A Y M O N I T O R E O PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS temporada 2023-2024.
+Se declara periodo de veda para la pesquería Pepino de Mar Holoturia mexicana (Molongo) el periodo comprendido desde de las 00:00 horas del día uno (01) de mayo hasta las 23:59 horas del día treinta (30) de agosto de 2024, su continuidad estará sujeta a los resultados obtenidos del informe final del PROTOCOLO DE EVALUACION BIOLÓGICA Y MONITOREO PESQUERO DEL PEPINO DE MAR EN EL CARIBE DE HONDURAS temporada 2023-2024.
 
 OCTAVO:
 
@@ -109,9 +109,7 @@ DECIMO
 
 TERCERO:
 
-Una vez concluida la temporada de pesca los Jefes e Inspectores de las Oficinas Regionales de la DIGEPESCA deberán levantar las actas de inspección de toda la flota pesquera nacional durante el mes de marzo con el propósito de verificar que las mismas estén en los respectivos puertos, en coordinación con la Marina Mercante y la Fuerza Naval de Honduras y también deberán hacer lo antes señalado con las embarcaciones artesanales avanzadas que capturaron langosta bajo el Convenio firmado entre la SAG y Pescadores Artesanales el doce (12) de julio del 2023; así mismo deberán inspeccionar las embarcaciones artesanales participantes en el Protocolo de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar en el Caribe de Honduras temporada 2023-2024 al finalizar el período de ampliación que finalizará el treinta (30) de abril del dos mil veinticuatro (2024) conforme a lo establecido en el Acuerdo Ministerial No.
-
-55-2024.- Las embarcaciones que incumplan lo dispuesto en el presente Acuerdo serán sancionadas conforme a la Ley General de Pesca y Acuicultura.
+Una vez concluida la temporada de pesca los Jefes e Inspectores de las Oficinas Regionales de la DIGEPESCA deberán levantar las actas de inspección de toda la flota pesquera nacional durante el mes de marzo con el propósito de verificar que las mismas estén en los respectivos puertos, en coordinación con la Marina Mercante y la Fuerza Naval de Honduras y también deberán hacer lo antes señalado con las embarcaciones artesanales avanzadas que capturaron langosta bajo el Convenio firmado entre la SAG y Pescadores Artesanales el doce (12) de julio del 2023; así mismo deberán inspeccionar las embarcaciones artesanales participantes en el Protocolo de Evaluación Biológica y Monitoreo Pesquero de Pepino de Mar en el Caribe de Honduras temporada 2023-2024 al finalizar el período de ampliación que finalizará el treinta (30) de abril del dos mil veinticuatro (2024) conforme a lo establecido en el Acuerdo Ministerial No. 55-2024.- Las embarcaciones que incumplan lo dispuesto en el presente Acuerdo serán sancionadas conforme a la Ley General de Pesca y Acuicultura.
 
 DECIMO
 

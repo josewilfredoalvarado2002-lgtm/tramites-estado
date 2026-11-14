@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 165-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210517-35601/download"
 extraido: "2026-11-14"
-huella: "a8f02b54c045fc08"
+huella: "7a079fe693342f54"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 165-2020
@@ -91,7 +91,7 @@ EL SECRETARIO DE ESTADO EN LOS DESPACHOS DE AGRICULTURA Y GANADERÍA
 
 CONSIDERANDO: Que la Constitución de la República, en su Artículo 340 declara “de utilidad y necesidad pública, la explotación técnica y racional de los recursos naturales de la nación. El Estado reglamentará su aprovechamiento de acuerdo con el interés social y fijará las condiciones de sus otorgamiento a los particulares”.
 
-CONSIDERANDO: Que el Poder Ejecutivo a través de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), es la Autoridad Rectora del Sector Pesquero y Acuícola , responsable de formular las políticas, estrategias y planes que determinen el esfuerzo pesquero y acuícola nacional.
+CONSIDERANDO: Que el Poder Ejecutivo a través de la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG), es la Autoridad Rectora del Sector Pesquero y Acuícola, responsable de formular las políticas, estrategias y planes que determinen el esfuerzo pesquero y acuícola nacional.
 
 CONSIDERANDO: Que la Secretaría en los Despachos de Agricultura y Ganadería (SAG) a través de La Dirección General de Pesca y Acuicultura (DIGEPESCA), tiene la finalidad de establecer el marco regulatorio para el ordenamiento, protección y fomento de los recursos hidrobiológicos correspondiente a la actividad pesquera y acuícola del Estado de Honduras, incluyendo su extracción, cultivo, aprovechamiento, procesamiento, transporte, comercialización y otras actividades conexas.
 
@@ -109,11 +109,11 @@ POR TANTO:
 
 En uso de sus facultades y en aplicación de los artículos:
 
-255, 328, 330, 332, 339, 340 y 341 de la Constitución de la República; 5, 7, 8 No 4, 29 párrafo 12, 36 No 8, 116, 118, 119 No.3 y párrafo último, y 122 de la Ley General de la Administración Pública; 3, 5 inciso f), 16, 23, 24, 43 y 80 No. 1 Inciso b) y f) del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo;
+255, 328, 330, 332, 339, 340 y 341 de la Constitución de la República; 5, 7, 8 No 4, 29 párrafo 12, 36 No 8, 116, 118, 119 No. 3 y párrafo último, y 122 de la Ley General de la Administración Pública; 3, 5 inciso f), 16, 23, 24, 43 y 80 No. 1 Inciso b) y f) del Reglamento de Organización Funcionamiento y Competencia del Poder Ejecutivo;
 
 24, 25, 26, 27, 30, 32 y 33 de la Ley de Procedimiento Administrativo; 1, 2, 3, 4, 7, 8,10, 12, 21; 35, 40, 46, 47, 50, 61,70,71 de la Ley de Pesca Vigente.
 
-A C U E R D A
+ACUERDA
 
 PRIMERO: Presentar los siguientes requisitos para la renovación de licencias de pesca de las embarcaciones que pertenecen a la Flota Pesquera Nacional, así como a las embarcaciones Suplidoras, Cargueros o Nodrizas:
 
@@ -327,7 +327,7 @@ g) En el caso de ser una ONG, asociación u otra variante de organización, el s
 
 h) Copia de Patente de Navegación.
 
-i) Presentar licencia original temporada 2019- 2020 ó 2020-2021 para los casos que se emitió licencia en físico.
+i) Presentar licencia original temporada 2019-2020 ó 2020-2021 para los casos que se emitió licencia en físico.
 
 j) Acompañar a la solicitud, la documentación soporte necesaria que acredite la causa que motiva la solicitud de reserva de cupo.
 

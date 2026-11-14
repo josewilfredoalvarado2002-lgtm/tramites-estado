@@ -11,7 +11,7 @@ paginas: "A. 1 - 2"
 sumario: "Decreto No. 39-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240605-36552/download"
 extraido: "2026-11-14"
-huella: "a1a93f18d6ab8f97"
+huella: "d2e78813d78f232b"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 39-2024
@@ -47,7 +47,7 @@ DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONVENIO INTERNACIONAL PARA LA SIMPLIFICACION Y ARMONIZACIÓN DE LOS R E G Í M E N E S A D U A N E R O S ( C O N V E N I O D E K Y O T O REVISADO), referente a la armonización y simplificación de los procedimientos y las prácticas aduaneras en el país, para facilitar e integrar el comercio a un nuevo esquema de integración regional, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONVENIO INTERNACIONAL PARA LA SIMPLIFICACION Y ARMONIZACIÓN DE LOS REGÍMENES ADUANEROS ( CONVENIO DE KYOTO REVISADO), referente a la armonización y simplificación de los procedimientos y las prácticas aduaneras en el país, para facilitar e integrar el comercio a un nuevo esquema de integración regional, que literalmente dice:
 
 “SECRETARÍA DE ESTADO EN LOS DESPACHOS DE RELACIONES EXTERIORES Y COOPERACIÓN INTERNACIONAL.
 

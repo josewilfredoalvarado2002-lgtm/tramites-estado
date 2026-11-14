@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Decretos Nos. 129-2026, 135-2026Resolución No. 7-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260702-37183/download"
 extraido: "2026-11-09"
-huella: "3202f1dc30751126"
+huella: "78795b5083badb70"
 ---
 <!-- portal:inicio -->
 # RESOLUCIÓN No. 7-2026
@@ -91,7 +91,7 @@ Por Tanto: Publíquese.
 
 Avance Próxima Edición
 
-D E C R E T A: La siguiente:
+DECRETA: La siguiente:
 
 LEY DE TRANSPARENCIA Y REGISTRO CENTRALIZADO DE BENEFICIARIO FINAL CENTROS DE DISTRIBUCIÓN:
 

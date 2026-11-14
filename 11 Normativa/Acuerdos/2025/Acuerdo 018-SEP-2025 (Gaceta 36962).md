@@ -11,7 +11,7 @@ paginas: "A. 1 - 6"
 sumario: "Acuerdo Ejecutivo Número 018-SEP-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20251009-36962/download"
 extraido: "2026-11-09"
-huella: "c87674d0f9e2cc3a"
+huella: "cf7e651cfc207803"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 018-SEP-2025
@@ -73,15 +73,11 @@ CONSIDERANDO: Que, mediante Memorando de fecha 20 de noviembre del año 2024, la
 
 CONSIDERANDO:
 
-Que, mediante Oficio No.
-
-357-D-PGR-2024 de fecha 25 de noviembre del año 2024, el Procurador General de la República, Abogado Manuel Antonio Díaz Galeas, informa a la Secretaría de Estado en el despacho de la Presidencia. Abogada Lesly Sarahí Cerna, “la procedencia de la emisión de Acuerdo Ejecutivo para hacer uso de las facultades de expresa mención, como ser renunciar de los recursos o los términos legales, conciliar y transigir en la demanda promovida por el señor Adán Gustavo Mora Rodríguez, contra el Estado de Honduras, a través del Instituto de Acceso a la Información Pública (IAIP), por lo que manifiesta se estima procedente ponerle fin al proceso por medio de la emisión del Acuerdo Ejecutivo”.
+Que, mediante Oficio No. 357-D-PGR-2024 de fecha 25 de noviembre del año 2024, el Procurador General de la República, Abogado Manuel Antonio Díaz Galeas, informa a la Secretaría de Estado en el despacho de la Presidencia. Abogada Lesly Sarahí Cerna, “la procedencia de la emisión de Acuerdo Ejecutivo para hacer uso de las facultades de expresa mención, como ser renunciar de los recursos o los términos legales, conciliar y transigir en la demanda promovida por el señor Adán Gustavo Mora Rodríguez, contra el Estado de Honduras, a través del Instituto de Acceso a la Información Pública (IAIP), por lo que manifiesta se estima procedente ponerle fin al proceso por medio de la emisión del Acuerdo Ejecutivo”.
 
 POR TANTO:
 
-En uso de las facultades que establece los artículos 228, 235, 245 incisos 2) y 11) de la Constitución de la República, artículos 81 numeral 2, 82 numeral 2) y 3) del Código Procesal Civil; artículo 1, 19 numerales 1) 2) y 3) de la Ley Orgánica de la Procuraduría General de la República; siguiendo las recomendaciones dadas en el Oficio No. IAIP-CP-338-2024 de fecha 4 de noviembre del año 2024, emitido por el Instituto de Acceso a la Información Pública (IAIP); y, conforme el Oficio No.
-
-357-D-PGR-2024 de fecha 25 de noviembre del año 2024, emitido por la Procuraduría General de la República (PGR).
+En uso de las facultades que establece los artículos 228, 235, 245 incisos 2) y 11) de la Constitución de la República, artículos 81 numeral 2, 82 numeral 2) y 3) del Código Procesal Civil; artículo 1, 19 numerales 1) 2) y 3) de la Ley Orgánica de la Procuraduría General de la República; siguiendo las recomendaciones dadas en el Oficio No. IAIP-CP-338-2024 de fecha 4 de noviembre del año 2024, emitido por el Instituto de Acceso a la Información Pública (IAIP); y, conforme el Oficio No. 357-D-PGR-2024 de fecha 25 de noviembre del año 2024, emitido por la Procuraduría General de la República (PGR).
 
 ACUERDA:
 

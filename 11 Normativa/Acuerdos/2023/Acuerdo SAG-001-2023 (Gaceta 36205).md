@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdos Nos. SAG-001-2023, SAG008-2023, SAG-44-2023, SAG-057-2023, SAG-063-2023, SAG-002-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230417-36205/download"
 extraido: "2026-11-14"
-huella: "07ae54d776061d47"
+huella: "1a9306b36b57616e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-001-2023
@@ -43,9 +43,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.
-
-12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República, como Secretario de Estado por Ley, los días once (11) y doce (12) de Enero del dos mil veintitrés (2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de ésta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima Señora Presidenta de la República, como Secretario de Estado por Ley, los días once (11) y doce (12) de Enero del dos mil veintitrés (2023).
 
 SEGUNDO: El presente Acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 
@@ -73,7 +71,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, durante el período comprendido del veintitrés (23) al veintiocho (28) de enero del dos mil veintitrés (2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, durante el período comprendido del veintitrés (23) al veintiocho (28) de enero del dos mil veintitrés (2023).
 
 SEGUNDO: El presente acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 
@@ -101,11 +99,9 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 4 y 5 de la Ley de Procedimiento Administrativo; 17, 24 y 26 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo, según Decreto Ejecutivo PCM-008-97, publicado en el Diario Oficial “La Gaceta”, el 07 de junio de 1997.
 
-A C U E R D A:
+ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, al ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.
-
-12-2022, de fecha 27 de enero 2022, con las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarle en todo aquello que corresponda, así como en las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, del día diecinueve (19) de febrero al uno (1) de marzo del año dos mil veintitrés ( 2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, al ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de enero 2022, con las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarle en todo aquello que corresponda, así como en las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, del día diecinueve (19) de febrero al uno (1) de marzo del año dos mil veintitrés ( 2023).
 
 SEGUNDO: La delegación del Sub Secretario de Estado en el Despacho de Agricultura, al ciudadano LID ROY LAZO RODRIGUEZ, tendrá vigencia hasta que la Secretaria de Estado se reintegre a sus funciones.
 
@@ -135,7 +131,7 @@ CONSIDERANDO: Que en la Cláusula Novena.-Vigencia, Duración y Modificaciones d
 
 (31) de marzo del año dos mil veintitrés (2023) y que los términos podrán ser modificados por acuerdo expreso de las partes, mediante suscripción de adenda que pasará a ser parte integral de la Presente Carta de Entendimiento.
 
-CONSIDERANDO: Que mediante la Adenda No.1 a la Carta de Entendimiento antes descrita se acuerda modificar entre otros aspectos, la Cláusula Segunda.- Monto de la Carta de Entendimiento.- Estableciendo que el monto de recursos a transferir al Instituto Interamericano de Cooperación para la Agricultura (IICA), para su administración será hasta por Setecientos Cuatro Millones Doscientos Mil Lempiras Exactos (L.704,200,000.00), los cuales se deberán destinar para la compra de fertilizantes e insumos agrícolas, contratación del personal que brinde servicios de capacitación y de asistencia técnica; así como el personal administrativo necesario y otros gastos necesarios en que se pueda incurrir durante la ejecución del Programa “Bono Tecnológico Productivo”, el cual incluye el equivalente al 5% (ciento por ciento) que se otorgará al IICA por concepto de Recuperación de Costos Indirectos (RCI); asimismo se detalle la forma en que se harán los desembolsos al IICA, señalando que el Presupuesto pendiente a ejecutarse en el año dos mil veintitrés (2023) es por la cantidad de Nueve Millones Cuatrocientos Mil Seiscientos Noventa y Cinco Lempiras con Treinta y Seis Centavos (L. 9,400,695.36).
+CONSIDERANDO: Que mediante la Adenda No. 1 a la Carta de Entendimiento antes descrita se acuerda modificar entre otros aspectos, la Cláusula Segunda.- Monto de la Carta de Entendimiento.- Estableciendo que el monto de recursos a transferir al Instituto Interamericano de Cooperación para la Agricultura (IICA), para su administración será hasta por Setecientos Cuatro Millones Doscientos Mil Lempiras Exactos (L.704,200,000.00), los cuales se deberán destinar para la compra de fertilizantes e insumos agrícolas, contratación del personal que brinde servicios de capacitación y de asistencia técnica; así como el personal administrativo necesario y otros gastos necesarios en que se pueda incurrir durante la ejecución del Programa “Bono Tecnológico Productivo”, el cual incluye el equivalente al 5% (ciento por ciento) que se otorgará al IICA por concepto de Recuperación de Costos Indirectos (RCI); asimismo se detalle la forma en que se harán los desembolsos al IICA, señalando que el Presupuesto pendiente a ejecutarse en el año dos mil veintitrés (2023) es por la cantidad de Nueve Millones Cuatrocientos Mil Seiscientos Noventa y Cinco Lempiras con Treinta y Seis Centavos (L. 9,400,695.36).
 
 CONSIDERANDO: Que la Constitución de la República de Honduras, establece que los Secretarios de Estado son colaboradores del Presidente de la República en la orientación, coordinación, dirección y supervisión de los órganos y entidades de la administración pública nacional, en el área de su competencia.
 
@@ -153,7 +149,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Director Ejecutivo de la Dirección de Ciencia y Tecnología Agropecuaria (DICTA), Ciudadano ARTURO GALO GALO, nombrado mediante Acuerdo Ejecutivo No.378-2022, de fecha siete (07) de Julio del año dos mil veintidós (2022), la facultad de firmar toda la documentación derivada del Presupuesto pendiente de ejecutar en el año dos mil veintitrés (2023) del Programa “Bono Tecnológico Productivo” hasta por un monto de L. Nueve Millones Cuatrocientos Mil Seiscientos Noventa y Cinco Lempiras con Treinta y Seis Centavos (L.
+PRIMERO: Delegar en el Director Ejecutivo de la Dirección de Ciencia y Tecnología Agropecuaria (DICTA), Ciudadano ARTURO GALO GALO, nombrado mediante Acuerdo Ejecutivo No. 378-2022, de fecha siete (07) de Julio del año dos mil veintidós (2022), la facultad de firmar toda la documentación derivada del Presupuesto pendiente de ejecutar en el año dos mil veintitrés (2023) del Programa “Bono Tecnológico Productivo” hasta por un monto de L. Nueve Millones Cuatrocientos Mil Seiscientos Noventa y Cinco Lempiras con Treinta y Seis Centavos (L.
 
 9,400,695.36).
 
@@ -185,7 +181,7 @@ En ejercicio de las atribuciones que la Ley le confiere y en aplicación de los 
 
 ACUERDA:
 
-PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No.12-2022, de fecha 27 de Enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, los días dieciséis (16) y diecisiete (17) de Marzo del dos mil veintitrés (2023).
+PRIMERO: Delegar en el Subsecretario de Estado en el Despacho de Agricultura, Ciudadano LID ROY LAZO RODRIGUEZ, nombrado mediante Acuerdo Ejecutivo No. 12-2022, de fecha 27 de Enero del año 2022, las atribuciones que en cuanto a Ley corresponden al titular de esta Secretaría de Estado, quedando autorizado el delegado a sustituirla y representarla en todo aquello que corresponda, así como las reuniones que convoque la Excelentísima señora Presidenta de la República, como Secretario de Estado por Ley, los días dieciséis (16) y diecisiete (17) de Marzo del dos mil veintitrés (2023).
 
 SEGUNDO: El presente acuerdo es de ejecución inmediata y deberá ser publicado en el Diario Oficial “La Gaceta”.
 
@@ -217,7 +213,7 @@ ACUERDA:
 
 PRIMERO: En el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo No. SAG-125-2022) y con base al Informe de Compras de maíz realizadas por las empresas de la Industria de Harinas de Maíz y Alimento para Consumo Humano, del 01 de septiembre al 31 de diciembre del 2022 de la cosecha 2022-2023, presentado por el Ente Contralor (AGROBOLSA) y aprobado por la Comisión de Supervisión del referido Convenio; se solicita a la Secretaría de Desarrollo Económico, por medio de la Dirección General de Integración Económica y Política Comercial, proceda a la emisión de los Certificados para la Importación de Maíz Blanco, clasificados en las partidas arancelarias SAC. 1005.90.30.00 respectivamente, con un DAI del cero por ciento (0%), con vigencia hasta 31 de diciembre del 2023, tal como lo establece el Numeral 13, Literal e) del convenio antes mencionado, a las siguientes empresas:
 
-Importaciones de Maiz Blanco con base a las Compras del 01 septiembre al 31 de diciembre de 2022 Cosecha Nacional 2022-2023/ Primer Corte Maiz Comprado Derecho a Importar Relacion Cosecha Nacional 2022- 2023 /QQ Primer Corte /TM 1 08019995108424 DEMAHSA 397,403.88 794,807.76 36,051.88 2 05019995107041 IMSA 192,783.63 385,567.26 17,489.04 3 08019007068256 MATURAVE 157,043.28 314,086.56 14,246.73 4 05019016884386 ALBECASA 70,337.20 140,674.40 6,380.89 TOTAL 817,567.99 1,635,135.98 74,168.54
+Importaciones de Maiz Blanco con base a las Compras del 01 septiembre al 31 de diciembre de 2022 Cosecha Nacional 2022-2023/ Primer Corte Maiz Comprado Derecho a Importar Relacion Cosecha Nacional 2022-2023 /QQ Primer Corte /TM 1 08019995108424 DEMAHSA 397,403.88 794,807.76 36,051.88 2 05019995107041 IMSA 192,783.63 385,567.26 17,489.04 3 08019007068256 MATURAVE 157,043.28 314,086.56 14,246.73 4 05019016884386 ALBECASA 70,337.20 140,674.40 6,380.89 TOTAL 817,567.99 1,635,135.98 74,168.54
 
 SEGUNDO: Las empresas nominadas en el Ordinal Primero, podrán realizar la importación del volumen asignado de maíz blanco de manera total o parcial a su conveniencia, para lo cual deberán presentar la solicitud de los Certificados de Importación correspondientes ante la Secretaría General de la Secretaría de Desarrollo Económico.
 

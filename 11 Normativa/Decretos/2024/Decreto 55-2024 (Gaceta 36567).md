@@ -11,7 +11,7 @@ paginas: "A. 1 - 408"
 sumario: "Decreto No. 55-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240622-36567/download"
 extraido: "2026-11-14"
-huella: "d3fb2500cb319c0b"
+huella: "3d71ac54032e7c05"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 55-2024
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el sistema de salud en Honduras está estructurado por varios 
 
 CONSIDERANDO: Que la deficiente infraestructura y el escaso equipamiento hospitalario, son de las determinantes que limitan el acceso de la población hondureña a servicios de calidad y especializados en salud, repercutiendo en el tiempo para realizar diagnóstico y hospitalización. En ese sentido, es necesario realizar esfuerzos para optimizar la inversión física y la gestión hospitalaria con el fin de disminuir la brecha de atención en salud de la población.
 
-CONSIDERANDO: Que el Código Tributario contenido en el Decreto No.170-2016 del 15 del mes de Diciembre del año 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, en su Artículo 11, numeral 2, reconoce el principio de legalidad y la competencia exclusiva del Congreso Nacional para otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier otra clase de beneficio fiscal; asimismo, en el Artículo 17, establece que la exoneración, es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
+CONSIDERANDO: Que el Código Tributario contenido en el Decreto No. 170-2016 del 15 del mes de Diciembre del año 2016, publicado en el Diario Oficial “La Gaceta” de fecha 28 de Diciembre de 2016, en su Artículo 11, numeral 2, reconoce el principio de legalidad y la competencia exclusiva del Congreso Nacional para otorgar exenciones, exoneraciones, deducciones, liberaciones o cualquier otra clase de beneficio fiscal; asimismo, en el Artículo 17, establece que la exoneración, es la dispensa total o parcial del pago de la obligación tributaria o aduanera aprobada por el Congreso Nacional, cuya tramitación individualmente corresponde al Poder Ejecutivo, por conducto de la Secretaría de Estado en el Despacho de Finanzas (SEFIN).
 
 CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Salud y la Empresa TOKURA CORPORATION, JAPON suscribieron el 1 de Junio del año 2023 con vigencia al 30 de Septiembre de 2024 prorrogable a voluntad de las Partes, el Contrato de PROYECTO PARA LA CONSTRUCCION DEL LABORATORIO NACIONAL DE VIGILANCIA DE LA SALUD, por un monto de UN MIL CIENTO OCHENTA MILLONES DE YENES JAPONESES (JP¥ 1,180,000,000), mismo que será Financiado con Fondos de la Donación realizada mediante Acuerdo de Convenio suscrito el 10 de Octubre del Año 2016, entre e! Gobierno de la República de Honduras y la Agencia de Cooperación Internacional del Japón (JICA) y es de urgente necesidad la Aprobación por el Congreso Nacional.
 
@@ -51,11 +51,11 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el “CONTRATO PARA LA CONSTRUCCIÓN DEL LABORATORIO NACIONAL DE VIGILANCIA DE LA SALUD”, suscrito el 1 de Junio del año 2023, entre EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Contratante y la Empresa T O K U R A C O R P O R A T I O N JAPÓN, en su condición de Contratista, por un monto de UN MIL CIENTO OCHENTA MILLONES DE YENES JAPONESES (JP¥ 1,180,000,000.00), el cual está verificado por la Agencia de Cooperación Internacional Japón (en adelante se denominará “JICA”) conforme al Acuerdo de Donación de fecha 10 de Octubre de 2016 entre JICA y el Gobierno de la República de Honduras, concerniente a la donación japonesa para el PROYECTO DE CONSTRUCCIÓN DEL LABORATORIO NACIONAL DE VIGILANCIA DE LA SALUD, mismo que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el “CONTRATO PARA LA CONSTRUCCIÓN DEL LABORATORIO NACIONAL DE VIGILANCIA DE LA SALUD”, suscrito el 1 de Junio del año 2023, entre EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, en su condición de Contratante y la Empresa TOKURA CORPORATION JAPÓN, en su condición de Contratista, por un monto de UN MIL CIENTO OCHENTA MILLONES DE YENES JAPONESES (JP¥ 1,180,000,000.00), el cual está verificado por la Agencia de Cooperación Internacional Japón (en adelante se denominará “JICA”) conforme al Acuerdo de Donación de fecha 10 de Octubre de 2016 entre JICA y el Gobierno de la República de Honduras, concerniente a la donación japonesa para el PROYECTO DE CONSTRUCCIÓN DEL LABORATORIO NACIONAL DE VIGILANCIA DE LA SALUD, mismo que literalmente dice:
 
 “SECRETARIA DE ESTADO EN EL DESPACHO DE SALUD.
 
@@ -451,9 +451,7 @@ El Proyecto para la Construcción del Laboratorio Nacional de Vigilancia Sanitar
 
 2. Costo del equipo
 
-2.1 Precio de adquisición (equipo, flete y seguro) ¥ 19,000,000 Total del costo del equipo ¥ 19,000,000 GRAN PRECIO TOTAL DE LA OFERTA ¥ 1,180,000,000 Osamu OZEKI Gerente General División Internacional FormularioE-7 Lista de Precios del Equipo Lista de Precios del Equipo Equipo Fabricante Modelo Cantidad FOB CIP País de No.
-
-1
+2.1 Precio de adquisición (equipo, flete y seguro) ¥ 19,000,000 Total del costo del equipo ¥ 19,000,000 GRAN PRECIO TOTAL DE LA OFERTA ¥ 1,180,000,000 Osamu OZEKI Gerente General División Internacional FormularioE-7 Lista de Precios del Equipo Lista de Precios del Equipo Equipo Fabricante Modelo Cantidad FOB CIP País de No. 1
 
 REFRIGERADOR
 
@@ -1547,7 +1545,7 @@ Durante dicha suspensión, el Contratista protegerá, guardará y resguardará l
 
 12.2 Suspensión de las Obras por Parte del Contratista (1) El Contratista podrá, con previa notificación al Cliente con una antelación mínima de veintiún (21) días, suspender los trabajos (o reducir el ritmo de trabajo) salvo y hasta que el Contratista haya recibido una respuesta razonable, evidencia, o pago o el Cliente haya remediado su incumplimiento de realizar los trabajos, conforme proceda y según se indique en la notificación si:
 
-(a) el Consultor no cumple con la emisión o rechazo del Certificado de Terminación pertinente, de conformidad con la Sub-Cláusula 8.1(1) [Prueba de Terminación], (b) el Cliente no cumple con lo dispuesto en la Sub-Cláusula 4.7(1) [Arreglos Financieros del Cliente], (c) el Contratista no recibe el monto del Precio del Contrato adeudado de conformidad con la Sub-Cláusula 9.1 [Precio del Contrato y Pago] (salvo el monto de deducción de conformidad con la Sub-Cláusula 18.1 [Reclamaciones del Cliente]) dentro de un plazo de cincuenta y seis (56) días después de la fecha en la que todas las condiciones para el pago, establecidas en el Calendario de Pago, se cumplen, o ;
+(a) el Consultor no cumple con la emisión o rechazo del Certificado de Terminación pertinente, de conformidad con la Sub-Cláusula 8.1(1) [Prueba de Terminación], (b) el Cliente no cumple con lo dispuesto en la Sub-Cláusula 4.7(1) [Arreglos Financieros del Cliente], (c) el Contratista no recibe el monto del Precio del Contrato adeudado de conformidad con la Sub-Cláusula 9.1 [Precio del Contrato y Pago] (salvo el monto de deducción de conformidad con la Sub-Cláusula 18.1 [Reclamaciones del Cliente]) dentro de un plazo de cincuenta y seis (56) días después de la fecha en la que todas las condiciones para el pago, establecidas en el Calendario de Pago, se cumplen, o;
 
 , (d) el Cliente no cumple sustancialmente sus obligaciones en virtud del Contrato a tal forma de afectar sustancial y adversamente el balance económico del Contrato y/o la capacidad del Contratista para cumplir el Contrato.
 
@@ -1569,9 +1567,9 @@ Cláusula 13 TERMINACIÓN POR PARTE DEL CLIENTE 13.1 Notificación Para Hacer Co
 
 (a) no cumple con lo dispuesto en la Sub-Cláusula 6.2 [Garantía de Cumplimiento] o con las instrucciones del Consultor de conformidad con la Sub-Cláusula 13.1 [Notificación Para Hacer Correcciones] con respecto a cualquier obligación material bajo el Contrato, (b) abandona las Obras o demuestra claramente de otra manera que no tiene intenciones de continuar cumpliendo sus obligaciones bajo el Contrato, (c) sin una excusa razonable:
 
-(i) no procede con o completa las Obras de conformidad con las Sub-Cláusulas 7.1 [Inicio de las Obras] y 7.2 [Plazo de Terminación], o , (ii) no cumple con la instrucción emitida de conformidad con la Sub- Cláusula 7.6 [Rechazo] o 7.7 [Medidas Correctivas], (d) subcontrata la totalidad de las Obras o cede el Contrato sin el acuerdo requerido, (e) quiebra o se vuelve insolvente, entra en liquidación, se dicta en su contra una orden de administración judicial, entra en concurso de acreedores, prosigue sus actividades bajo la autoridad de un administrador judicial, un fiduciario o un administrador en beneficio de sus acreedores, o si se realiza cualquier acto o se produce cualquier hecho que (bajo las Leyes pertinentes) tenga un efecto análogo a cualquiera de los actos o hecho señalados supra, o (f) da u ofrece dar (directa o indirectamente) a cualquier persona cualquier soborno, regalo, gratificación, comisión u otra cosa de valor como incentivo o recompensa:
+(i) no procede con o completa las Obras de conformidad con las Sub-Cláusulas 7.1 [Inicio de las Obras] y 7.2 [Plazo de Terminación], o, (ii) no cumple con la instrucción emitida de conformidad con la Sub- Cláusula 7.6 [Rechazo] o 7.7 [Medidas Correctivas], (d) subcontrata la totalidad de las Obras o cede el Contrato sin el acuerdo requerido, (e) quiebra o se vuelve insolvente, entra en liquidación, se dicta en su contra una orden de administración judicial, entra en concurso de acreedores, prosigue sus actividades bajo la autoridad de un administrador judicial, un fiduciario o un administrador en beneficio de sus acreedores, o si se realiza cualquier acto o se produce cualquier hecho que (bajo las Leyes pertinentes) tenga un efecto análogo a cualquiera de los actos o hecho señalados supra, o (f) da u ofrece dar (directa o indirectamente) a cualquier persona cualquier soborno, regalo, gratificación, comisión u otra cosa de valor como incentivo o recompensa:
 
-(i) por hacer o no hacer cualquier acción relacionada con el Contrato, o , ;
+(i) por hacer o no hacer cualquier acción relacionada con el Contrato, o, ;
 
 (ii) por mostrar o no mostrar favor u oposición a alguna persona en relación con el Contrato, o si cualquier miembro del Personal del Contratista, representante o Subcontratista del Contratista da u ofrece (directa o indirectamente) a cualquier persona cualquiera de esos incentivos o recompensas que se describen en esta Sub- Cláusula 13.2(1)(f) supra. Sin embargo, los incentivos y recompensas de carácter lícito para el Personal del Contratista no darán lugar a la terminación del Contrato.
 
@@ -1629,7 +1627,7 @@ Cláusula 14 TERMINACIÓN POR PARTE DEL CONTRATISTA
 
 14.3 Cese de las Obras y Retiro de los Bienes Después de que entre en vigencia una notificación de terminación con arreglo a la Sub-Cláusula 14.1 [Terminación por parte del Contratista], el Contratista deberá, sin demora:
 
-(a) suspender todo trabajo adicional, con excepción del que pueda haber ordenado el Consultor para la protección de la vida o la propiedad, o para la seguridad de las Obras, (b) entregar al Cliente, a través del Consultor, los Documentos del Contratista, los Equipos, los Materiales y los demás trabajos por los que haya recibido pago, y , ;
+(a) suspender todo trabajo adicional, con excepción del que pueda haber ordenado el Consultor para la protección de la vida o la propiedad, o para la seguridad de las Obras, (b) entregar al Cliente, a través del Consultor, los Documentos del Contratista, los Equipos, los Materiales y los demás trabajos por los que haya recibido pago, y, ;
 
 (c) retirar todos los demás Bienes del Lugar de las Obras, salvo los que sea necesario dejar por razones de seguridad, y abandonar el Lugar de las Obras.
 
@@ -1637,7 +1635,7 @@ Cláusula 14 TERMINACIÓN POR PARTE DEL CONTRATISTA
 
 14.5 Pago a la Terminación (1) Después de que entre en vigencia una notificación de terminación con arreglo a la Sub-Cláusula 14.1 [Terminación por parte del Contratista], el Cliente devolverá la Garantía de Cumplimiento. Tras la terminación de la valoración con arreglo a la Sub-Cláusula 14.4 [Valoración en la Fecha de Terminación], el Consultor tomará inmediatamente el procedimiento de conformidad con la Sub-Cláusula 5.5(1) [Discusión y Decisión] para llegar a un acuerdo en los siguientes asuntos:
 
-(a) el monto pagadero por el Cliente al Contratista por el valor de las Obras y cualesquiera otros montos por trabajos ejecutados, acordados o determinados en virtud de las Sub-Cláusulas 14.4 y 5.5(2), y , ;
+(a) el monto pagadero por el Cliente al Contratista por el valor de las Obras y cualesquiera otros montos por trabajos ejecutados, acordados o determinados en virtud de las Sub-Cláusulas 14.4 y 5.5(2), y, ;
 
 (b) el monto pagadero por el Cliente al Contratista por cualquier pérdida o daño sufrido por el Contratista como consecuencia de esta terminación.
 
@@ -1665,7 +1663,7 @@ Cláusula 15 INDEMNIZACIONES Y RESPONSABILIDADES
 
 (3) El Cliente indemnizará y amparará al Contratista contra y de cualquier reclamación en la que se alegue una violación que se produce o se produjo:
 
-(a) como resultado inevitable del cumplimiento del Contrato por parte del Contratista, o , ;
+(a) como resultado inevitable del cumplimiento del Contrato por parte del Contratista, o, ;
 
 (b) como resultado del uso de cualquiera de las Obras por parte del Cliente:
 
@@ -1697,7 +1695,7 @@ SEGURO
 
 (6) La Parte aseguradora pertinente presentará a la otra Parte, dentro de los plazos respectivos que figuren en los Datos del Contrato (calculados a partir de la Fecha de Inicio):
 
-(a) evidencia de que se han contratado los seguros descritos en esta Cláusula 16, y , ;
+(a) evidencia de que se han contratado los seguros descritos en esta Cláusula 16, y, ;
 
 (b) copias de las pólizas de los seguros que se señalan en las Sub- Cláusulas 16.2 [Seguro de las Obras y Equipos del Contratista] y 16.3.
 
@@ -1727,9 +1725,9 @@ Cualquiera de los montos no asegurados o no recuperados de las aseguradoras ser�
 
 (a) deberán ser contratados y mantenidos por el Contratista como Parte aseguradora, (b) deberán estar a nombre conjunto de las Partes, quienes tendrán derecho a recibir conjuntamente pagos de las aseguradoras y pagos retenidos o asignados a la Parte que asuma efectivamente los costos de rectificación por pérdidas o daños, (c) deberán cubrir todas las pérdidas y daños que se deban a cualquier causa, excluyendo (i) las pérdidas o daños a una parte de las Obras atribuibles al uso o la ocupación de otra parte de las Obras por parte del Cliente, (ii) las pérdidas o daños debido a una Fuerza mayor, y (iii) las pérdidas o daños causadas por el error de diseño de cualquier parte de las Obras solamente por el Personal del Cliente u otras personas bajo responsabilidad del Cliente.
 
-(d) deberán cubrir, asimismo, hasta donde sea específicamente requerido en los documentos de licitación del Proyecto, pérdidas o daños excluidos en la Sub-Cláusula 16.2(4)(c)(i) y (ii) mencionado arriba, excluidas las pérdidas o daños que no sean asegurables bajo términos comercialmente razonables, con deducibles por incidente no mayores al monto señalado en los Datos del Contrato (de no indicarse un monto, esta Sub-Cláusula 16.2(4)(d) no será aplicable), y , (e) podrá, sin embargo, excluir la pérdida, los daños y el reacondicionamiento de:
+(d) deberán cubrir, asimismo, hasta donde sea específicamente requerido en los documentos de licitación del Proyecto, pérdidas o daños excluidos en la Sub-Cláusula 16.2(4)(c)(i) y (ii) mencionado arriba, excluidas las pérdidas o daños que no sean asegurables bajo términos comercialmente razonables, con deducibles por incidente no mayores al monto señalado en los Datos del Contrato (de no indicarse un monto, esta Sub-Cláusula 16.2(4)(d) no será aplicable), y, (e) podrá, sin embargo, excluir la pérdida, los daños y el reacondicionamiento de:
 
-(i) una parte de las Obras que esté en condiciones defectuosas debido a un vicio de diseño, materiales o mano de obra (pero la cobertura incluirá cualesquiera otras partes que se pierdan o dañen como resultado directo de esta condición defectuosa y no según se describe en la Sub-Cláusula 16.2(4)(e)(ii)), (ii) una parte de las Obras que se pierda o dañe por el reacondicionamiento de cualquier otra parte de las Obras que esté en condiciones defectuosas debido a un defecto de diseño, materiales o mano de obra, (iii) una parte de las Obras que haya sido recibida por el Cliente, salvo en la medida en que el Contratista sea responsable por la pérdida o daño, y , ;
+(i) una parte de las Obras que esté en condiciones defectuosas debido a un vicio de diseño, materiales o mano de obra (pero la cobertura incluirá cualesquiera otras partes que se pierdan o dañen como resultado directo de esta condición defectuosa y no según se describe en la Sub-Cláusula 16.2(4)(e)(ii)), (ii) una parte de las Obras que se pierda o dañe por el reacondicionamiento de cualquier otra parte de las Obras que esté en condiciones defectuosas debido a un defecto de diseño, materiales o mano de obra, (iii) una parte de las Obras que haya sido recibida por el Cliente, salvo en la medida en que el Contratista sea responsable por la pérdida o daño, y, ;
 
 (iv) Bienes mientras no estén en el País, sujeto a la Sub-Cláusula 14.3(c) [Cese de las Obras y Retiro de los Bienes].
 
@@ -1761,7 +1759,7 @@ FUERZA MAYOR
 
 (2) Fuerza mayor puede incluir, pero no está limitado a, eventos excepcionales o circunstancias como las que están listadas abajo, siempre que las condiciones establecidas en esta Sub-Cláusula 17.1(1) se cumplan:
 
-(a) guerra, hostilidades (ya sea que la guerra sea declarada o no), invasión, actos de enemigos extranjeros, (b) rebelión, terrorismo, sabotaje por personas aparte del Personal del Contratista, revolución, insurrección, usurpación del poder o asunción del poder por los militares, o guerra civil, (c) disturbio, conmoción, huelga o cierre patronal por personas distintas al Personal del Contratista, (d) municiones de guerra, materiales explosivos, radiación ionizante o contaminación por radioactividad, excepto cuando sea atribuible al Contratista el uso de tales municiones, explosivos, radiación o radioactividad, (e) catástrofes naturales como terremoto, tsunami, huracán, tifón o actividad volcánica, y , ;
+(a) guerra, hostilidades (ya sea que la guerra sea declarada o no), invasión, actos de enemigos extranjeros, (b) rebelión, terrorismo, sabotaje por personas aparte del Personal del Contratista, revolución, insurrección, usurpación del poder o asunción del poder por los militares, o guerra civil, (c) disturbio, conmoción, huelga o cierre patronal por personas distintas al Personal del Contratista, (d) municiones de guerra, materiales explosivos, radiación ionizante o contaminación por radioactividad, excepto cuando sea atribuible al Contratista el uso de tales municiones, explosivos, radiación o radioactividad, (e) catástrofes naturales como terremoto, tsunami, huracán, tifón o actividad volcánica, y, ;
 
 (f) decisión de evacuación tomada por el Ministerio de Asuntos Exteriores del Japón o JICA.
 
@@ -1799,7 +1797,7 @@ FUERZA MAYOR
 
 (b) otros Costos en que dentro de las circunstancias haya incurrido razonable y necesariamente el Contratista con la expectativa de terminar las Obras;
 
-(c) el Costo de retirar las Obras Temporales y los Equipos del Contratista del Lugar de las Obras y el de devolverlos a los trabajos del Contratista en su país (o cualquier otro destino que no suponga un costo mayor); y , (d) el Costo de repatriar, en la fecha de terminación, al Personal del Contratista empleado totalmente en relación con las Obras.
+(c) el Costo de retirar las Obras Temporales y los Equipos del Contratista del Lugar de las Obras y el de devolverlos a los trabajos del Contratista en su país (o cualquier otro destino que no suponga un costo mayor); y, (d) el Costo de repatriar, en la fecha de terminación, al Personal del Contratista empleado totalmente en relación con las Obras.
 
 (5) Tomando en cuenta el resultado de decisión de conformidad con la Sub-Cláusula 17.7(4), el Contratista podrá solicitar una discusión, sujeto a la Sub-Cláusula 17.8 [Procedimientos de Discusión Respecto al Costo Causado por Fuerza Mayor] con el Cliente sobre el monto basado en la terminación pagadera al Contratista y sobre la carga de cualquier Costo que surja del evento o circunstancia de conformidad con la Sub-Cláusula 17.5(2) [Consecuencia de la Fuerza Mayor], si las hubiere, incluida la solicitud por el Cliente para usar el saldo restante o la contingencia de la Donación.
 
@@ -2049,7 +2047,7 @@ Salvo que el Contrato haya sido terminado de conformidad con el Contrato, el Con
 
 (c) las disposiciones que incluyen la palabra “acordar”, “acordado” o “acuerdo” exigen que el acuerdo se haga constar por escrito;
 
-(d) “escrito” o “por escrito” significa escrito a mano, mecanografiado, impreso o elaborado de manera electrónica (incluyendo documentos PDF o facsímil, pero se excluye el simple intercambio de e-mails u otros mensajes electrónicos), lo cual produce un registro permanente; y , (e) la palabra “licitación” es sinónimo de “oferta”, y “licitador”, de “postor” y las palabras “documentos de licitación”, de “pliego de condiciones”.
+(d) “escrito” o “por escrito” significa escrito a mano, mecanografiado, impreso o elaborado de manera electrónica (incluyendo documentos PDF o facsímil, pero se excluye el simple intercambio de e-mails u otros mensajes electrónicos), lo cual produce un registro permanente; y, (e) la palabra “licitación” es sinónimo de “oferta”, y “licitador”, de “postor” y las palabras “documentos de licitación”, de “pliego de condiciones”.
 
 (2) Incoterms Los Términos Comerciales incluyendo los términos CIP, CPT, CIF, FCA y otros términos similares usados en el Contrato se interpretarán de conformidad con Incoterms. En caso de que cualquier disposición del Contrato no sea coherente con la interpretación de los términos comerciales de Incoterms, incluidas la Sub- Cláusula 7.4 (Transporte de los Equipos), 7.8 (Recepción de los Equipos para los Trabajos de Adquisición) y 7.10 (Recepción de los Equipos para los Trabajos de Instalación), dichas disposiciones del Contrato prevalecerán.
 
@@ -2779,7 +2777,7 @@ Moore: Moorcraft Super Spec Látex Flat #2750 o similar III.
 
 S-W: ProMar 200 Látex Flat B30W 200 o similar
 
-b. Acabado Final: Pintura a base de latex , interior mate.
+b. Acabado Final: Pintura a base de latex, interior mate.
 
 I.
 
@@ -3979,9 +3977,9 @@ b. Herramientas de lubricación; Como se especificó.
 
 PARTE - 2 PRODUCTOS 14B.2.01 GENERAL
 
-A. Tipo y Cantidad : Cabina, 1 unidad B. Modelo :AC-VVVF cables de acero C. Capacidad :1,600 Kg D. Velocidad :1.0 m/s E. Paradas y Entradas :3 paradas con 3 puertas (1,2,3 del mismo lado del hueco de ascensor) F. Altura de Recorrido : 12.6 m G. Dimensiones de Cabina : 1,100 mm (W) x 1,400mm (D) x 2,200 mm (H) H. Dimensiones de Puerta : 900 mm (W) x 2110 mm (H) (one side opening)
+A. Tipo y Cantidad: Cabina, 1 unidad B. Modelo:AC-VVVF cables de acero C. Capacidad:1,600 Kg D. Velocidad:1.0 m/s E. Paradas y Entradas:3 paradas con 3 puertas (1,2,3 del mismo lado del hueco de ascensor) F. Altura de Recorrido: 12.6 m G. Dimensiones de Cabina: 1,100 mm (W) x 1,400mm (D) x 2,200 mm (H) H. Dimensiones de Puerta: 900 mm (W) x 2110 mm (H) (one side opening)
 
-I. Dimensión del eje : 1850 mm (W) x 1900 mm (D) 14B.2.02 PANELES OPERATIVOS E INDICADORES DE CABINA A. Panel de control de la cabina 1 juego del panel de mando de cabina con pulsador Braille por ascensor y el panel de la placa frontal es de acero inoxidable.
+I. Dimensión del eje: 1850 mm (W) x 1900 mm (D) 14B.2.02 PANELES OPERATIVOS E INDICADORES DE CABINA A. Panel de control de la cabina 1 juego del panel de mando de cabina con pulsador Braille por ascensor y el panel de la placa frontal es de acero inoxidable.
 
 1. Tablero principal
 
@@ -4025,55 +4023,55 @@ A. Cabina
 
 1. Tipo de cable
 
-a. Retorno Frontal :
+a. Retorno Frontal:
 
 Acero Inoxidable fino
 
-b. Panel lateral :
+b. Panel lateral:
 
 Acero Inoxidable fino
 
-c. Panel Posterior :
+c. Panel Posterior:
 
 Acero Inoxidable fino
 
-d. Puerta :
+d. Puerta:
 
 Acero Inoxidable fino
 
-e. Cielo :
+e. Cielo:
 
 Acero Inoxidable fino
 
-f. Piso :
+f. Piso:
 
 Granito Artificial Negro
 
-g. Rodapié :
+g. Rodapié:
 
 Aluminio
 
-h. Umbrales :
+h. Umbrales:
 
 Aluminio
 
 2. Marco de Puerta de aterrizaje
 
-a. Primer nivel :
+a. Primer nivel:
 
 Jamba estrecha en acero inoxidable fino
 
-b. Demás niveles :
+b. Demás niveles:
 
 Jamba estrecha en acero inoxidable fino
 
 3. Panel en puerta de aterrizaje
 
-a. Primer nivel :
+a. Primer nivel:
 
 Acero Inoxidable fino
 
-b. Demás niveles :
+b. Demás niveles:
 
 Acero Inoxidable fino
 
@@ -5685,7 +5683,7 @@ PARTE - 2 PRODUCTOS 16C.2.01 CONDUCTOR
 
 Cumplir con IEC, NEC, UL o regulación y normativa local.
 
-16C.2.02 13.800V CABLE DE CLORURO DE POLIVINILO ISOLADO DE POLIETILENO CROSS-LINKED (XLPE) Cumplir con el Código Eléctrico Nacional (NEC por sus siglas en inglés), ICEA S-95- 658/NEMA WC70, “PARA USO CT” en 1/0 AWG y mayor de acuerdo con el NEC, UL 44 Tipo RHH/RHW-2, UL Archivo # E90494, UL 854 Tipo USE-2, UL Archivo # E90499, UL 1581 VW-1, EPA 40 CFR, Parte 261 Para el plomo lixiviable.
+16C.2.02 13.800V CABLE DE CLORURO DE POLIVINILO ISOLADO DE POLIETILENO CROSS-LINKED (XLPE) Cumplir con el Código Eléctrico Nacional (NEC por sus siglas en inglés), ICEA S-95-658/NEMA WC70, “PARA USO CT” en 1/0 AWG y mayor de acuerdo con el NEC, UL 44 Tipo RHH/RHW-2, UL Archivo # E90494, UL 854 Tipo USE-2, UL Archivo # E90499, UL 1581 VW-1, EPA 40 CFR, Parte 261 Para el plomo lixiviable.
 
 16C.2.03 ALAMBRE TERMOPLÁSTICOS AISLADOS A CALOR (THHN)
 
@@ -6621,7 +6619,7 @@ FIN DE LA DIVISIÓN 1
 
 Nombre de equipo 1 Refrigerador con dos Unidad Unidad 5 1 1 1 1 1 Cantidad Desglose de números Tuberc ul osis ① Malaria ② Transm Enferm Sexual i sible e dad ③ Bacterio l ogía ④ Parasit ol ogía ⑤ Leishm Chaga niasis ⑥ s/ a Citolog ⑦ í a Meningi m onía is/Neu ⑧ t Entomol ogía ⑨ Biología Molecul ⑩ ar amiento congela a ción y Almace refriger c ión ⑪ de n Lavado esteriliz a ción ⑫ y reactivo medios Prepar cultivo ac ión ⑬ de de y s equipo agua Sala pura s de ⑭ de Capacita ción ⑮ Hoja de especificaciones Núm. de equipo：1 Nombre de equipo：Refrigerador con dos puertas Cantidad：5 Núm. de componente del equipo： Nombre de componente del equipo： Cantidad： Objetivo de uso, etc Para guardar y conservar los productos químicos, etc Composición del equipo
 
-1. Cuerpo principal del equipo :1 unidad Especificaciones
+1. Cuerpo principal del equipo:1 unidad Especificaciones
 
 1. Cuerpo principal del equipo
 
@@ -6645,7 +6643,7 @@ Para el almacenamiento a largo plazo de muestras, productos químicos, etc.
 
 Composición del equipo
 
-1. Cuerpo principal del equipo :1 unidad Especificaciones
+1. Cuerpo principal del equipo:1 unidad Especificaciones
 
 1. Cuerpo principal del equipo ：Congelador vertical
 
@@ -6673,7 +6671,7 @@ Almacenar productos químicos durante mucho tiempo.
 
 Composición del equipo
 
-1. Cuerpo principal del equipo :1 unidad Especificaciones
+1. Cuerpo principal del equipo:1 unidad Especificaciones
 
 1. Cuerpo principal del equipo ：Congelador vertical
 

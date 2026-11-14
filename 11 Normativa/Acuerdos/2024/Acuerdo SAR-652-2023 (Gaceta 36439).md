@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo Número SAR-652-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240120-36439/download"
 extraido: "2026-11-14"
-huella: "58c26ad2c2b4bd8b"
+huella: "4b6d5c47c052aabb"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO SAR-652-2023
@@ -33,13 +33,9 @@ CONSIDERANDO: Que mediante el Artículo 195 del Decreto Legislativo número 170-
 
 CONSIDERANDO: Que el Artículo 198 del Decreto en mención, se establecen las atribuciones de la Administración Tributaria: 1)…; 12) Aprobar Acuerdos para la aplicación eficiente de las disposiciones en materia tributaria y aduanera, de conformidad con el presente Código, Código Aduanero Uniforme Centroamericano (CAUCA) y la Ley; 13)…; y 15) Cualquier otra facultad o atribución que establezca la Ley, en sus respectivas competencias.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
 
-23-2022 de fecha 27 de enero del 2022 se nombró al suscrito, como Director Ejecutivo del Servicio de Administración de Rentas (SAR), con rango de Secretario de Estado.
-
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 435-2022 de fecha 09 de septiembre de 2022, se nombró a la ciudadana NIDIA SARAHÍ BERRIOS MARTÍNEZ, en el cargo de Secretaria General del Servicio de Administración de Rentas (SAR).
 
 CONSIDERANDO: Que la intervención del Estado en la economía tendrá por base el interés público y social y por límite los derechos y libertades reconocidos, según lo dispuesto en el Artículo 333 de la Constitución de la República.
 

@@ -11,7 +11,7 @@ paginas: "A. 7 - 15"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200826-35354/download"
 extraido: "2026-11-14"
-huella: "85a51f0aa405f069"
+huella: "3f8d6f75815d9025"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 101-2020
@@ -37,27 +37,27 @@ En tal sentido, además de la Banca de Segundo Piso, se está impulsando el fina
 
 CONSIDERANDO: Que la actual crisis provocada por el COVID-19, impactará los Sectores Productivos del país, y el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) debe actuar en la reactivación financiando por medio de su banca de primero y segundo piso, guardando el estricto cumplimiento de las normas establecidas por su regulador y garantizando que la elegibilidad de los intermediarios que realicen redescuentos, cuenten con los indicadores que permitan hacer el uso adecuado de los recursos y no poner en riesgo los fondos de BANHPROVI.
 
-CONSIDERANDO: Que con el objetivo de generar una mayor inclusión y profundización financiera mediante los Decretos No.33-2020, del 3 de Abril de 2020 y 41-2020, del 5 de Mayo de 2020, se autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a crear mecanismos financieros y tecnológicos que requieren de inversión en tecnología, así como la contratación de recursos especializados; y, mediante Decreto No.66-2020 se aprobó a la Secretaría de Estado en el Despacho de Finanzas el primer tramo del préstamo del BCIE para ser redireccionado al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) para financiar MIPYME y crear un fondo de garantía.
+CONSIDERANDO: Que con el objetivo de generar una mayor inclusión y profundización financiera mediante los Decretos No. 33-2020, del 3 de Abril de 2020 y 41-2020, del 5 de Mayo de 2020, se autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a crear mecanismos financieros y tecnológicos que requieren de inversión en tecnología, así como la contratación de recursos especializados; y, mediante Decreto No. 66-2020 se aprobó a la Secretaría de Estado en el Despacho de Finanzas el primer tramo del préstamo del BCIE para ser redireccionado al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) para financiar MIPYME y crear un fondo de garantía.
 
 CONSIDERANDO: Que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) en aras de cumplir con su objetivo de financiar a los sectores estratégicos que requieren de financiamiento para reactivar la economía, así como de contar con instalaciones adecuadas para realizar su trabajo, requiere de algunas inversiones que generarán gastos administrativos controlados.
 
-CONSIDERANDO: Que la gestión del Banco Hondureño para la Producción y la Vivienda (BANHPROVI) antes, durante y después de la crisis por COVID 19 se encuentra priorizada por el Gobierno de Honduras y en su plan de acción de reactivación de la economía a través de su quehacer del acceso a crédito a todos los sectores, por lo que, mediante Decreto No.33-2020, señala que es importante para garantizar la reactivación de los sectores estratégicos que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) sea facultado para flexibilizar sus productos y servicios financieros a fin de garantizar la inclusión financiera, la generación de empleo, el impulso del crecimiento económico, contribuir para mitigar los efectos que causen inflación y otros.
+CONSIDERANDO: Que la gestión del Banco Hondureño para la Producción y la Vivienda (BANHPROVI) antes, durante y después de la crisis por COVID 19 se encuentra priorizada por el Gobierno de Honduras y en su plan de acción de reactivación de la economía a través de su quehacer del acceso a crédito a todos los sectores, por lo que, mediante Decreto No. 33-2020, señala que es importante para garantizar la reactivación de los sectores estratégicos que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI) sea facultado para flexibilizar sus productos y servicios financieros a fin de garantizar la inclusión financiera, la generación de empleo, el impulso del crecimiento económico, contribuir para mitigar los efectos que causen inflación y otros.
 
-CONSIDERANDO: Que el Decreto No.33-2020 correspondiente a la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19 en su Artículo 11 faculta al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a contratar en forma directa aquellos servicios y bienes que den continuidad y promoción del negocio y la expansión de sus servicios de primer y segundo piso.
+CONSIDERANDO: Que el Decreto No. 33-2020 correspondiente a la Ley de Auxilio al Sector Productivo y a los Trabajadores ante los Efectos de la Pandemia Provocada por el Covid-19 en su Artículo 11 faculta al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a contratar en forma directa aquellos servicios y bienes que den continuidad y promoción del negocio y la expansión de sus servicios de primer y segundo piso.
 
 CONSIDERANDO: Que de acuerdo con lo establecido en el Artículo 25 numeral 9) reformado de la Ley de el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), es una atribución exclusiva del Consejo Directivo, autorizar la constitución de reservas de previsión y saneamiento y su aplicación, de conformidad a las normas aprobadas por la Comisión Nacional de Bancos y Seguros (CNBS).
 
-CONSIDERANDO. Que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), en el marco de la pandemia del Coronavirus COVID-19 y en apego al Decreto No.33-2020, suspendió y trasladó al final de los créditos de forma automática las cuotas de capital e intereses que se tenían que pagar en los meses de marzo, abril y mayo del 2020 de toda la cartera crediticia, impactando en la liquidez del Banco en MIL CIENTO CUARENTA MILLONES DE LEMPIRAS (L.1,140,000,000).
+CONSIDERANDO. Que el Banco Hondureño para la Producción y la Vivienda (BANHPROVI), en el marco de la pandemia del Coronavirus COVID-19 y en apego al Decreto No. 33-2020, suspendió y trasladó al final de los créditos de forma automática las cuotas de capital e intereses que se tenían que pagar en los meses de marzo, abril y mayo del 2020 de toda la cartera crediticia, impactando en la liquidez del Banco en MIL CIENTO CUARENTA MILLONES DE LEMPIRAS (L.1,140,000,000).
 
 CONSIDERANDO: Que lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTICULO 1.- Reformar los artículos número 3, 11, 12 y 37 de la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), contenida en Decreto No.6-2005, del 26 de enero del 2005, reformado mediante Decreto No.358- 2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014, los cuales, de ahora en adelante, deben leerse de la siguiente manera:
+ARTICULO 1.- Reformar los artículos número 3, 11, 12 y 37 de la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), contenida en Decreto No. 6-2005, del 26 de enero del 2005, reformado mediante Decreto No. 358-2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014, los cuales, de ahora en adelante, deben leerse de la siguiente manera:
 
 “ARTÍCULO 3.- El Banco Hondureño para la Producción y la Vivienda (BANHPROVI), tiene por objeto promover, a través de los servicios financieros que brinda, el crecimiento y desarrollo socioeconómico de todos los hondureños, mediante el financiamiento inclusivo para los sectores estratégicos que generen divisas, empleo y crecimiento económico, con mayor énfasis en la producción, vivienda y a la micro, pequeña y mediana empresa (MIPYME), así como, en la construcción y autoconstrucción progresiva de vivienda social y la inversión en obras y proyectos de infraestructura rentables, que promuevan la competitividad nacional y el empleo digno.
 
@@ -135,11 +135,11 @@ En la gestión de la recuperación de la cartera crediticia en mora se puede rea
 
 #### Artículo 2
 
-ARTÍCULO 2.- Derogar los artículos 34 y 35 del Decreto No.6-2005 de fecha 26 de enero de 2005, contentivo de la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), reformado mediante Decreto No.358-2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014.
+ARTÍCULO 2.- Derogar los artículos 34 y 35 del Decreto No. 6-2005 de fecha 26 de enero de 2005, contentivo de la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), reformado mediante Decreto No. 358-2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014.
 
 #### Artículo 3
 
-ARTÍCULO 3.- Adicionar el Artículo 40-A, a la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), contenida en Decreto No.6-2005, de fecha 26 de enero de 2005, reformado mediante Decreto No.358-2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014, el cual se leerá de la manera siguiente:
+ARTÍCULO 3.- Adicionar el Artículo 40-A, a la LEY DEL BANCO HONDUREÑO PARA LA PRODUCCIÓN Y LA VIVIENDA (BANHPROVI), contenida en Decreto No. 6-2005, de fecha 26 de enero de 2005, reformado mediante Decreto No. 358-2013 del 20 de enero de 2014 y publicado en el Diario Oficial “La Gaceta” el 20 de mayo de 2014, el cual se leerá de la manera siguiente:
 
 #### Artículo 40-A
 

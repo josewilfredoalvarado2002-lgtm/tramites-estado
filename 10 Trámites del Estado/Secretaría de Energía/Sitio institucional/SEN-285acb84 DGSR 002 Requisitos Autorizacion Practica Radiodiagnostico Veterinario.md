@@ -292,7 +292,7 @@ la Autorización para una fecha determinada.
 > [!info] Decretos, acuerdos y resoluciones que menciona el texto de arriba, buscados por número entre los actos de La Gaceta que están en la bóveda (publicados desde 2019). «Posible» quiere decir que el número coincide pero no se pudo confirmar que lo haya emitido esta institución: revisalo antes de usarlo.
 
 - Acuerdo Ministerial 002-2019 → posible: [[Acuerdo 002-2019 (Gaceta 35194)]] (PODER LEGISLATIVO)
-- Acuerdo Ministerial SEN-015-2021 → no aparece en la colección de La Gaceta de la bóveda
+- Acuerdo Ministerial SEN-015-2021 → [[Otros actos (Gaceta 35673)]] (La Gaceta del 2021-07-31; emisor: No consta en la fuente)
 <!-- normas:fin -->
 <!-- portal:fin -->
 

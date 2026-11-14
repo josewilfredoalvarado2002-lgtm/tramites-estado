@@ -11,7 +11,7 @@ paginas: "A. 10 - 12"
 sumario: "Certificaciones Nos. 038-2026, 039-2026, 049-2026, 053-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260619-37172/download"
 extraido: "2026-11-09"
-huella: "0e6a9c0d1c3f2076"
+huella: "9da3f3e93528257b"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 053-2026
@@ -35,9 +35,7 @@ Que la Municipalidad tiene como finalidad principal la administración del munic
 
 Que la Corporación Municipal del Distrito Central, según Acuerdo No. 11 contenido en el Acta No. 008 de fecha 08 de mayo de 2015, creó la Unidad Municipal de Agua Potable y Saneamiento del Distrito Central (UMAPS), como un órgano desconcentrado de la Municipalidad del Distrito Central, encargada de la administración prestación de los servicios públicos municipales de agua potable, alcantarillado sanitario y drenaje pluvial, la cual en ejercicio de sus funciones, actuará en nombre y representación de la AMDC con amplia participación ciudadana y respeto ambiental.
 
-CONSIDERANDO: Que conforme a los informes técnicos presentados por la Unidad Municipal de Agua Potable Saneamiento (UMAPS), el Distrito Central enfrenta un severo estrés hídrico y una reducción importante en la disponibilidad de agua potable para abastecer a la población, situación que obliga a implementar medidas extraordinarias y temporales orientadas a proteger el recurso hídrico y priorizar el consumo humano. CONSIDERANDO: Que esta Corporación Municipal del Distrito Central, mediante Acuerdo No. 52-2026 emitido en su Sesión Ordinaria No.
-
-11- 2026, declaró estado de Emergencia Hídrica en el Municipio del Distrito Central por un período inicial de noventa (90) días calendario, debido al descenso crítico en los niveles de almacenamiento de las represas Los Laureles y La Concepción, la reducción sostenida de las lluvias derivadas de las condiciones climáticas actuales y el riesgo inminente de afectación al abastecimiento de agua potable para la población capitalina, situación ampliamente difundida por distintos medios de comunicación nacionales.
+CONSIDERANDO: Que conforme a los informes técnicos presentados por la Unidad Municipal de Agua Potable Saneamiento (UMAPS), el Distrito Central enfrenta un severo estrés hídrico y una reducción importante en la disponibilidad de agua potable para abastecer a la población, situación que obliga a implementar medidas extraordinarias y temporales orientadas a proteger el recurso hídrico y priorizar el consumo humano. CONSIDERANDO: Que esta Corporación Municipal del Distrito Central, mediante Acuerdo No. 52-2026 emitido en su Sesión Ordinaria No. 11-2026, declaró estado de Emergencia Hídrica en el Municipio del Distrito Central por un período inicial de noventa (90) días calendario, debido al descenso crítico en los niveles de almacenamiento de las represas Los Laureles y La Concepción, la reducción sostenida de las lluvias derivadas de las condiciones climáticas actuales y el riesgo inminente de afectación al abastecimiento de agua potable para la población capitalina, situación ampliamente difundida por distintos medios de comunicación nacionales.
 
 CONSIDERANDO: Que el artículo 3 de la Ley Marco del Sector de Agua Potable y Saneamiento establece que, "el abastecimiento de agua para consumo humano tiene prioridad sobre cualquier otro uso de este recurso" por lo que, el acceso al agua potable constituye un servicio esencial para la vida, la salud y el bienestar de la población, siendo deber de la Municipalidad del Distrito Central adoptar todas las medidas necesarias para garantizar su uso racional, responsable y sostenible. CONSIDERANDO: Que el desperdicio irresponsable del agua potable en actividades no esenciales, afecta directamente la capacidad de distribución y suministro para miles de familias capitalinas, especialmente en momentos de emergencia y racionamiento.
 

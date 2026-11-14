@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto No. 70-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211020-35751/download"
 extraido: "2026-11-14"
-huella: "df5bc6b394c63b1c"
+huella: "ee08a5f7353e5fc8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 70-2021
@@ -31,9 +31,9 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 19) de la Constitución de la República, corresponde al Congreso Nacional, Aprobar o improbar los contratos que lleven involucradas exenciones, incentivos y concesiones fiscales, o cualquier otro contrato que haya de producir o prolongar sus efectos al siguiente período de gobierno de la República.
 
-CONSIDERANDO: Que en el Decreto No.208-2004, de fecha 17 de diciembre de 2004 y publicado en el Diario Oficial “La Gaceta” del 19 de febrero de 2005 No. 30,627, el Congreso Nacional aprueba por un plazo de treinta (30) años, el Contrato Privado de Usufructo celebrado entre la Municipalidad de Roatán, departamento de Islas de la Bahía y el Instituto Hondureño de Turismo (IHT), respecto de un terreno sin mejoras ubicado en el Barrio Willie Warren de Roatán, Municipio de Roatán, departamento de Islas de la Bahía.
+CONSIDERANDO: Que en el Decreto No. 208-2004, de fecha 17 de diciembre de 2004 y publicado en el Diario Oficial “La Gaceta” del 19 de febrero de 2005 No. 30,627, el Congreso Nacional aprueba por un plazo de treinta (30) años, el Contrato Privado de Usufructo celebrado entre la Municipalidad de Roatán, departamento de Islas de la Bahía y el Instituto Hondureño de Turismo (IHT), respecto de un terreno sin mejoras ubicado en el Barrio Willie Warren de Roatán, Municipio de Roatán, departamento de Islas de la Bahía.
 
-CONSIDERANDO: Que en el Decreto No. 228-2004, de fecha 20 de enero de 2005 y publicado en el Diario Oficial “La Gaceta” del 1 de marzo de 2005 No.30,635, el Congreso Nacional aprueba por un plazo de treinta (30) años, el Contrato de Usufructo celebrado entre la Empresa Nacional Portuaria
+CONSIDERANDO: Que en el Decreto No. 228-2004, de fecha 20 de enero de 2005 y publicado en el Diario Oficial “La Gaceta” del 1 de marzo de 2005 No. 30,635, el Congreso Nacional aprueba por un plazo de treinta (30) años, el Contrato de Usufructo celebrado entre la Empresa Nacional Portuaria
 
 (ENP) y el Instituto Hondureño de Turismo (IHT) respecto la infraestructura portuaria básica ubicada en el Barrio Willye Warren, Aldea de Roatán, Municipio de Roatán, departamento de Islas de la Bahía, incluyendo inmueble, mejoras y equipo tal y como se señala en la Cláusula Primera del Decreto antes descrito.
 
@@ -55,11 +55,11 @@ CONSIDERANDO: Que el Estado de Honduras es la Nuda Propietaria del Puerto de Cru
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar la renovación del plazo por trece (13) años adicionales al plazo original de los Contratos de Usufructo, contenidos en el Decreto No.208-2004 y el Decreto No.228-2004, celebrados entre la Municipalidad de Roatán, departamento de Islas de la Bahía (“MUNICIPALIDAD”) y el Instituto Hondureño de Turismo (IHT); y entre la Empresa Nacional Portuaria (ENP) y el Instituto Hondureño de Turismo (“IHT”), respectivamente.
+ARTÍCULO 1.- Aprobar la renovación del plazo por trece (13) años adicionales al plazo original de los Contratos de Usufructo, contenidos en el Decreto No. 208-2004 y el Decreto No. 228-2004, celebrados entre la Municipalidad de Roatán, departamento de Islas de la Bahía (“MUNICIPALIDAD”) y el Instituto Hondureño de Turismo (IHT); y entre la Empresa Nacional Portuaria (ENP) y el Instituto Hondureño de Turismo (“IHT”), respectivamente.
 
 #### Artículo 2
 

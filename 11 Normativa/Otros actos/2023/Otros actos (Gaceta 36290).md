@@ -11,7 +11,7 @@ paginas: "A. 1 - 10"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230725-36290/download"
 extraido: "2026-11-14"
-huella: "51d1d2091e8cd79a"
+huella: "5a6c62e99ad93eac"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -53,7 +53,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1), de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -83,7 +83,7 @@ ACUERDA:
 
 PRIMERO: Aprobar en toda y cada una de sus partes el “CONVENIO SOBRE INMUNIDADES, EXENCIONES Y PRIVILEGIOS ENTRE LA REPÚBLICA DE HONDURAS Y LA CORPORACIÓN ANDINA DE FOMENTO” que literalmente dice:
 
-CONVENIO SOBRE INMUNIDADES, EXENCIONES Y PRIVILEGIOS ENTRE LA REPÚBLICA DE HONDURAS Y LA CORPORACIÓN ANDINA DE FOMENTO La República de Honduras (denominada en adelante, Honduras), representada por el Secretario de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, Eduardo Enrique Reina García, debidamente facultado conforme Acuerdo Ejecutivo No.4-2022 de fecha 27 de enero de 2022 y el inciso a) numeral 2, Artículo 7, Parte II, Sección Primera, de la Convención de Viena sobre el Derecho de los Tratados y la CORPORACIÓN ANDINA DE FOMENTO (denominada en adelante, la Corporación), representada en este acto por su Gerente Corporativo de Países, Sr. Emilio José Uquillas Freire, debidamente autorizado.
+CONVENIO SOBRE INMUNIDADES, EXENCIONES Y PRIVILEGIOS ENTRE LA REPÚBLICA DE HONDURAS Y LA CORPORACIÓN ANDINA DE FOMENTO La República de Honduras (denominada en adelante, Honduras), representada por el Secretario de Estado en los Despachos de Relaciones Exteriores y Cooperación Internacional, Eduardo Enrique Reina García, debidamente facultado conforme Acuerdo Ejecutivo No. 4-2022 de fecha 27 de enero de 2022 y el inciso a) numeral 2, Artículo 7, Parte II, Sección Primera, de la Convención de Viena sobre el Derecho de los Tratados y la CORPORACIÓN ANDINA DE FOMENTO (denominada en adelante, la Corporación), representada en este acto por su Gerente Corporativo de Países, Sr. Emilio José Uquillas Freire, debidamente autorizado.
 
 CONSIDERANDO
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240510-36530/download"
 extraido: "2026-11-14"
-huella: "bb72351bca0d1297"
+huella: "edda56f340c7d576"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -31,7 +31,7 @@ PODER JUDICIAL
 
 ACUERDO No. CSJ 01-2023
 
-C E R T I F I C A C I Ó N
+CERTIFICACIÓN
 
 La infrascrita, Secretaria General de la Corte Suprema de Justicia, CERTIFICA: El Acuerdo que literalmente dice:
 

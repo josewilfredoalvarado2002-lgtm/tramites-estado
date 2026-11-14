@@ -11,7 +11,7 @@ paginas: "A. 16 - 19"
 sumario: "Decreto No. 157-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201230-35473/download"
 extraido: "2026-11-14"
-huella: "1b59f4b7bfb053a1"
+huella: "f5ab7aeaea61b995"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 157-2020
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- A U T O R I Z A C I Ó N
+ARTÍCULO 1.- AUTORIZACIÓN
 
 D E
 

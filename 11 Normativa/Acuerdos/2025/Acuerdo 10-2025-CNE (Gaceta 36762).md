@@ -11,7 +11,7 @@ paginas: "A. 26 - 28"
 sumario: "Certificación, Acuerdo No. 10-2025-CNE"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250210-36762/download"
 extraido: "2026-11-13"
-huella: "d69ccad5cd33d90f"
+huella: "76f2557c7faa4487"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, ACUERDO No. 10-2025-CNE
@@ -63,7 +63,7 @@ Artículo 7. Liquidación de Gastos. Toda liquidación deberá cumplir con los r
 
 1. Facturas emitidas conforme al Reglamento del régimen de facturación del Servicio de Administración de Rentas (SAR), las que además de cumplir con todos los requisitos fiscales, deberán contar con el Código de Autorización de Impresión (CAI) a nombre del Partido Político respectivo, debiendo presentar original y copia para conservar su contenido.
 
-2. Boletas de Compra autorizadas por el Servicio de Administración de Rentas (SAR), en cuyo caso, no podrán liquidarse más del cinco por ciento (5%) del total de fondos transferidos por concepto de canon de capacitación y cinco por ciento (5%) por canon de funcionamiento, conforme a los requisitos establecidos en los artículos 20, 21 y 22 del Reglamento del Régimen de Facturación, otros documentos fiscales y registros fiscales de imprentas, contenido en Acuerdo Ejecutivo 481- 2017 de 4 de julio de 2017.
+2. Boletas de Compra autorizadas por el Servicio de Administración de Rentas (SAR), en cuyo caso, no podrán liquidarse más del cinco por ciento (5%) del total de fondos transferidos por concepto de canon de capacitación y cinco por ciento (5%) por canon de funcionamiento, conforme a los requisitos establecidos en los artículos 20, 21 y 22 del Reglamento del Régimen de Facturación, otros documentos fiscales y registros fiscales de imprentas, contenido en Acuerdo Ejecutivo 481-2017 de 4 de julio de 2017.
 
 3. Gastos de alimentación y transporte podrán liquidarse adjuntando listado de asistencia que detalle nombre completo, copia de DNI que acredite a los participantes y sus respectivas firmas.
 

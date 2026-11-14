@@ -11,7 +11,7 @@ paginas: "A. 5 - 8"
 sumario: "Acuerdos Nos. SAG-001-2025, SAG-002-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250129-36752/download"
 extraido: "2026-11-13"
-huella: "7e3869f38ab7dcf2"
+huella: "848ff36f5482490a"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-001-2025
@@ -41,7 +41,7 @@ CONSIDERANDO: Que el objeto general de la Ley de Simplificación Administrativa 
 
 CONSIDERANDO: Que es deber del Estado asegurar por todos los medios a su alcance, el derecho a la seguridad alimentaria del pueblo hondureño, en virtud de lo cual resulta indispensable tomar medidas de carácter extraordinario; por consiguiente, la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) realizará arduos e incansables esfuerzos para mitigar los daños irreversibles y sin precedentes que los fenómenos naturales han ocasionado al Sector Cafetalero, dejando a la población hondureña en un estado de total vulnerabilidad e inseguridad alimentaria, en virtud de las cuantiosas pérdidas sufridas producto de los cambios climáticos.
 
-CONSIDERANDO: Que el Programa Bono Cafetalero para la fertilización en apoyo a pequeños y medianos caficultores, se faculta mediante la priorización del sector agroalimentario adscrito en la política del sector agroalimentario 2023- 2043, así como en el PCM-04-2022, que declara al sector agropecuario como prioridad nacional y de interés público.
+CONSIDERANDO: Que el Programa Bono Cafetalero para la fertilización en apoyo a pequeños y medianos caficultores, se faculta mediante la priorización del sector agroalimentario adscrito en la política del sector agroalimentario 2023-2043, así como en el PCM-04-2022, que declara al sector agropecuario como prioridad nacional y de interés público.
 
 CONSIDERANDO: Que mediante Decreto No. 62-2023 se aprobaron las Disposiciones Generales del Presupuesto General de Ingresos y Egresos de la República para el Ejercicio Fiscal 2024, mediante el cual, se aprueba el Presupuesto de la Secretaría de Estado en los Despachos de Agricultura y Ganadería, en el que se incorporaron dentro del Programa No. 23 y Actividad Obra No. 003, DOSCIENTOS CINCUENTA MILLONES DE LEMPIRAS EXACTOS (L. 250,000,000.00), destinados a la ejecución del Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores”, año 2024.
 
@@ -51,7 +51,7 @@ CONSIDERANDO: Que en fecha 20 de mayo del año 2024, el Instituto Interamericano
 
 CONSIDERANDO: Que mediante Oficio SSC-237-2024 el Dr. Carlos Roberto Murillo Tejada, Sub-Secretario de Estado en el Despacho de Caficultura (SAG) solicita incluir la cantidad de L.4,500,000.00 (Cuatro Millones Quinientos Mil Lempiras Exactos) de los cuales L. 3,183,122.14 (Tres Millones Ciento Ochenta y Tres Mil Ciento Veintidós Lempiras con Catorce Centavos) provienen de la generación de intereses de la cuenta abierta para el manejo de fondos de la Carta de Entendimiento generados al treinta y uno (31) de octubre del dos mil veinticuatro (2024), y, L. 1,316,877.86 (Un Millón Trescientos Dieciséis Mil Ochocientos Setenta y Siete Lempiras con Ochenta y Seis Centavos) representan la proyección de los intereses a generar al treinta (30) de abril del dos mil veinticinco (2025).
 
-CONSIDERANDO: Que en fecha doce (12) de diciembre del año dos mil veinticuatro (2024), fue firmada la ADENDA No.1, a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2024” celebrada entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), mediante la cual las partes acuerdan modificar la Clausula Segunda: Monto de la Carta de Entendimiento y la Clausula Novena: Vigencia, Duración y Modificaciones; estableciéndose que la presente Adenda tendrá una vigencia desde la fecha de su firma hasta el treinta (30) de abril del dos mil veinticinco (2025).
+CONSIDERANDO: Que en fecha doce (12) de diciembre del año dos mil veinticuatro (2024), fue firmada la ADENDA No. 1, a la Carta de Entendimiento de Cooperación Técnica y Administración de Fondos para Apoyar el Programa “Bono Cafetalero para la Fertilización en Apoyo a Pequeños y Medianos Productores año 2024” celebrada entre la Secretaría de Estado en los Despachos de Agricultura y Ganadería (SAG) y el Instituto Interamericano de Cooperación para la Agricultura (IICA), mediante la cual las partes acuerdan modificar la Clausula Segunda: Monto de la Carta de Entendimiento y la Clausula Novena: Vigencia, Duración y Modificaciones; estableciéndose que la presente Adenda tendrá una vigencia desde la fecha de su firma hasta el treinta (30) de abril del dos mil veinticinco (2025).
 
 POR TANTO:
 

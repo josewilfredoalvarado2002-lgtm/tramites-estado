@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250712-36888/download"
 extraido: "2026-11-09"
-huella: "201384daee2659e6"
+huella: "e6b520fd83e56032"
 ---
 <!-- portal:inicio -->
 # No consta en la fuente
@@ -43,7 +43,7 @@ CONSIDERANDO: Que corresponde al SENASA verificar y exigir el cumplimiento de lo
 
 POR TANTO:
 
-En aplicación al Artículo 245 numeral 11 de la Constitución de la República, 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fito zoosanitaria, Decreto Nº 157-94 y los artículos 1 y 8 del Decreto Ejecutivo PCM- 015-2020,; artículos 2, 12, 17c),h), 18 b) del Acuerdo CD.
+En aplicación al Artículo 245 numeral 11 de la Constitución de la República, 116 y 118 de la Ley General de la Administración Pública; Artículos 1, 2, 3, 6, 9, 11, 12, 13, 17, 18, 25, 38, 39, 41 y 21 A del Decreto 344-2005 que reforma por adición la Ley Fito zoosanitaria, Decreto Nº 157-94 y los artículos 1 y 8 del Decreto Ejecutivo PCM-015-2020,; artículos 2, 12, 17c),h), 18 b) del Acuerdo CD.
 
 SENASA-007-2020 contentivo del Reglamento del Consejo Directivo del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA).
 

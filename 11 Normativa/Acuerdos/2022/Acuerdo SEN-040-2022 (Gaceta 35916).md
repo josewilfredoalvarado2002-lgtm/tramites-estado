@@ -11,7 +11,7 @@ paginas: "A. 3 - 16"
 sumario: "Acuerdo No. SEN-040-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220506-35916/download"
 extraido: "2026-11-14"
-huella: "389fc60ee8ec26f2"
+huella: "df196d0f7fc69ce4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SEN-040-2022
@@ -29,9 +29,7 @@ huella: "389fc60ee8ec26f2"
 
 EL SECRETARIO DE ESTADO EN EL DESPACHO DE ENERGÍA
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-048-2017 del 7 de agosto de 2017 se crea la Secretaría de Estado en el Despacho de Energía como Institución Rectora del sector energético nacional y de la integración energética regional e internacional y las políticas relacionadas con el desarrollo integral y sostenible del sector energético.
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado las atribuciones comunes previstas en la Constitución de la República y en la Ley; asimismo, el conocimiento y resolución de los asuntos del ramo.
 
@@ -41,11 +39,11 @@ CONSIDERANDO: La competencia es irrenunciable y se ejercerá por los órganos qu
 
 CONSIDERANDO: Que el Doctor MIGUEL ANGEL FIGUEROA RIVERA, funge en el cargo de Director General de la Dirección General de Electricidad y Mercados (DGEM); asimismo el Ingeniero FERNANDO ENRIQUE LOBO SIERRA, se desempeña como Jefe de la Unidad Técnica de Biocombustibles, de la Dirección General de Hidrocarburos y Biocombustibles también identificada como Dirección de Comercialización de Hidrocarburos, de esta Secretaría de Estado.
 
-POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36,116 y 118 de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 100- 2020; Decreto Ejecutivo Número PCM-048-2017; Acuerdo No. 260-2021.
+POR TANTO: En usos de las facultades de que está investido y en aplicación de los artículos 321 de la Constitución de la República; 36,116 y 118 de la Ley General de la Administración Pública; Artículos 4 y 5 de la Ley de Procedimiento Administrativo; Decreto Legislativo No. 100-2020; Decreto Ejecutivo Número PCM-048-2017; Acuerdo No. 260-2021.
 
 ACUERDA:
 
-PRIMERO: Delegar la representación por parte de la Secretaría de Estado en el Despacho de Energía (SEN), en la Integración de la Comisión Tripartita, creada mediante el Decreto Legislativo No. 100-2020, Artículo 5, publicado en el Diario Oficial La Gaceta en fecha 22 de febrero del 2021 a los ciudadanos: Doctor MIGUEL ANGEL FIGUEROA RIVERA, Director General de la Dirección General de Electricidad y Mercados (DGEM) como titular y al Ingeniero FERNANDO ENRIQUE LOBO SIERRA, Jefe de la Unidad Técnica de Biocombustibles, de la Dirección General de Hidrocarburos y Biocombustibles también identificada como Dirección de Comercialización de Hidrocarburos, como suplente, para que integren en representación de esta Secretaría de Estado dicha Comisión y efectúen el marco de su competencia, la evaluación de solicitudes de exoneración presentadas por las empresas del subsector eléctrico del pago del impuesto denominado APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL (ACPV) asociado al combustible fósil usado exclusivamente para la generación de electricidad que se comercialice en el mercado eléctrico nacional a través del Sistema Interconectado Nacional (SIN) y las empresas operadoras de sistemas eléctricos aislados que prestan un servicio público, de conformidad a lo establecido en el Decreto Legislativo No.404-2013 contentivo de Ley General de la Industria Eléctrica y regulaciones de la Comisión Reguladora de Energía Eléctrica (CREE); para lo cual deben contar con la información y respaldo que corresponda de la Dirección General de Hidrocarburos y Biocombustibles de esta Secretaría de Estado y de otras Direcciones y/o instituciones internas o externas que consideren pertinente.
+PRIMERO: Delegar la representación por parte de la Secretaría de Estado en el Despacho de Energía (SEN), en la Integración de la Comisión Tripartita, creada mediante el Decreto Legislativo No. 100-2020, Artículo 5, publicado en el Diario Oficial La Gaceta en fecha 22 de febrero del 2021 a los ciudadanos: Doctor MIGUEL ANGEL FIGUEROA RIVERA, Director General de la Dirección General de Electricidad y Mercados (DGEM) como titular y al Ingeniero FERNANDO ENRIQUE LOBO SIERRA, Jefe de la Unidad Técnica de Biocombustibles, de la Dirección General de Hidrocarburos y Biocombustibles también identificada como Dirección de Comercialización de Hidrocarburos, como suplente, para que integren en representación de esta Secretaría de Estado dicha Comisión y efectúen el marco de su competencia, la evaluación de solicitudes de exoneración presentadas por las empresas del subsector eléctrico del pago del impuesto denominado APORTE PARA LA ATENCIÓN A PROGRAMAS SOCIALES Y CONSERVACIÓN DEL PATRIMONIO VIAL (ACPV) asociado al combustible fósil usado exclusivamente para la generación de electricidad que se comercialice en el mercado eléctrico nacional a través del Sistema Interconectado Nacional (SIN) y las empresas operadoras de sistemas eléctricos aislados que prestan un servicio público, de conformidad a lo establecido en el Decreto Legislativo No. 404-2013 contentivo de Ley General de la Industria Eléctrica y regulaciones de la Comisión Reguladora de Energía Eléctrica (CREE); para lo cual deben contar con la información y respaldo que corresponda de la Dirección General de Hidrocarburos y Biocombustibles de esta Secretaría de Estado y de otras Direcciones y/o instituciones internas o externas que consideren pertinente.
 
 En el ejercicio de esta delegación se faculta a los delegados MIGUEL ANGEL FIGUEROA RIVERA y FERNANDO ENRIQUE LOBO SIERRA, para suscribir conjunta o separadamente los informes y dictámenes correspondientes y en general ejercer las funciones establecidas en el Artículo 5, párrafo segundo del Decreto Legislativo No. 100-2020 y demás que se deriven de la aplicación de este Decreto y su Reglamento.
 

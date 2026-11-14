@@ -11,7 +11,7 @@ paginas: "A. 1 - 5"
 sumario: "Acuerdo Ministerial No. 042-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260507-37135/download"
 extraido: "2026-11-09"
-huella: "4986d839fccc991f"
+huella: "edf101df66edb3cc"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 042-2026
@@ -57,9 +57,7 @@ CONSIDERANDO: Que la Secretaría de Estado en el Despacho de Desarrollo Económi
 
 (SDE) está implementado el proyecto de transformación digital, que tiene como principal objetivo mejorar la calidad de los servicios que se entregan a los ciudadanos a través de la reconfiguración de los modelos organizativos, la innovación, optimización de los procesos e implementación de nuevas tecnologías.
 
-CONSIDERANDO: Que mediante Decreto 02-2026 publicado el 06 de febrero del año 2026, se Decretó Ampliar por el término de cinco (5) periodos fiscales la vigencias de los beneficios e incentivos fiscales que concede el Régimen de Importación Temporal (RIT), contenido en el Decreto No.
-
-37 del 20 de diciembre de 1984 y todas sus reformas, cuya vigencia se encuentra contenida en el artículo 23 del Decreto 278-2013, que contiene la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, publicado en el Diario Oficial “La Gaceta” el 30 de diciembre del 2013.
+CONSIDERANDO: Que mediante Decreto 02-2026 publicado el 06 de febrero del año 2026, se Decretó Ampliar por el término de cinco (5) periodos fiscales la vigencias de los beneficios e incentivos fiscales que concede el Régimen de Importación Temporal (RIT), contenido en el Decreto No. 37 del 20 de diciembre de 1984 y todas sus reformas, cuya vigencia se encuentra contenida en el artículo 23 del Decreto 278-2013, que contiene la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, publicado en el Diario Oficial “La Gaceta” el 30 de diciembre del 2013.
 
 CONSIDERANDO: Que el presente Acuerdo Ministerial tiene como finalidad la implementación de nuevos trámites digitales lo cual permitirá ampliar la oferta de servicios en línea, brindando a los usuarios la posibilidad de realizar sus gestiones de manera ágil, segura y desde cualquier lugar, contribuyendo así a la mejora continua de la calidad del servicio público.
 
@@ -69,7 +67,7 @@ La Secretaría de Estado en el Despacho de Desarrollo Económico, en uso de las 
 
 23 y 24 del Reglamento de Organización, Funcionamiento del Poder Ejecutivo; Decreto 02-2026 contentivo a la ampliación de los beneficios del Régimen de Importación Temporal (RIT); Decreto Legislativo 149-2013 contentivo de la Ley Sobre Firmas Electrónicas, PCM-086-2020 contentivo del Reglamento sobre el Gobierno Electrónico; y Decreto publicado en fecha 26 de septiembre de 2020 en el Diario Oficial “La Gaceta”.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Implementar la plataforma de Servicios al Ciudadano en Línea (SOL), de las solicitudes de Regímenes Especiales de Importación Temporal (RIT) con el propósito de agilizar y facilitar el acceso de los beneficiarios, promoviendo la eficiencia en la gestión administrativa y el cumplimiento de los requisitos establecidos, para los siguientes trámites:
 

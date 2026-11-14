@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Certificación, Resolución No. 1069-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250530-36851/download"
 extraido: "2026-11-10"
-huella: "86ed848a461a40aa"
+huella: "7b7f931b46ee4465"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN, RESOLUCIÓN No. 1069-2024
@@ -27,7 +27,7 @@ huella: "86ed848a461a40aa"
 
 ## Texto
 
-El infrascrito, Jefe de la Unidad de Atención al ciudadano de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No.1069- 2024. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los doce (12) días del mes de agosto del año dos mil veinticuatro (2024).
+El infrascrito, Jefe de la Unidad de Atención al ciudadano de Secretaría General, de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización. CERTIFICA: La Resolución que literalmente dice: “RESOLUCIÓN No. 1069-2024. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN JUSTICIA Y DESCENTRALIZACIÓN, en la ciudad de Tegucigalpa, municipio del Distrito Central, a los doce (12) días del mes de agosto del año dos mil veinticuatro (2024).
 
 VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dos (02) de noviembre del año dos mil veintitrés (2023), misma que corre a Expediente No. PJ-02112023-682, por la Abogada LINDA YAMILETH ROSA VALLE, quien actúa en su condición de Apoderada Legal de la “JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE SANTA ROSITA CENTRO, MUNICIPIO MARCALA, DEPARTAMENTO DE LA PAZ”, con domicilio en la comunidad de Santa Rosita Centro, del municipio de Marcala, departamento de la paz contraída a pedir el otorgamiento de la Personalidad Jurídica y aprobación de sus Estatutos.
 

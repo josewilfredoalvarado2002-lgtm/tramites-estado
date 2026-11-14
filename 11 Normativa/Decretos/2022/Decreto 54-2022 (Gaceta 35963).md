@@ -11,7 +11,7 @@ paginas: "A. 7 - 8"
 sumario: "Decreto No. 54-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220630-35963/download"
 extraido: "2026-11-14"
-huella: "4e4365efeca163c3"
+huella: "20777845edc6deca"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 54-2022
@@ -37,7 +37,7 @@ CONSIDERANDO: Que el 10 de diciembre de 1948 en la Asamblea General de las Nacio
 
 CONSIDERANDO: Que en el año 2015 fueron adoptados los Objetivos de Desarrollo Sostenible (ODS) como un compromiso universal de poner fin a la pobreza, proteger el planeta, promover la prosperidad y el bienestar para todos y hacer frente al cambio climático a nivel mundial; en ese sentido los Estados Miembro deben orientar sus estrategias, mecanismos y políticas públicas para garantizar el cumplimiento de lo establecido en los 17 Objetivos de Desarrollo Sostenible (ODS).
 
-CONSIDERANDO: Que mediante Decreto No.329 del 23 de julio de 1974 se creó el Banco Nacional de Suministros y Productos, modificándose en el año 1997 con el nombre de Suplidora Nacional de Productos Básicos (BANASUPRO), cuyo objetivo es contribuir al bienestar económico y social de la población en general y en particular de los sectores más vulnerables económicamente, mediante el abastecimiento de productos de la canasta básica con estándares de calidad y principalmente como un ente estabilizador de precios de mercado; lo cual ha permitido que gran parte de la población a nivel nacional puedan adquirir mayor cantidad de productos con sus ingresos disponibles.
+CONSIDERANDO: Que mediante Decreto No. 329 del 23 de julio de 1974 se creó el Banco Nacional de Suministros y Productos, modificándose en el año 1997 con el nombre de Suplidora Nacional de Productos Básicos (BANASUPRO), cuyo objetivo es contribuir al bienestar económico y social de la población en general y en particular de los sectores más vulnerables económicamente, mediante el abastecimiento de productos de la canasta básica con estándares de calidad y principalmente como un ente estabilizador de precios de mercado; lo cual ha permitido que gran parte de la población a nivel nacional puedan adquirir mayor cantidad de productos con sus ingresos disponibles.
 
 CONSIDERANDO: Que la Suplidora Nacional de Productos Básicos (BANASUPRO) cumple un rol fundamental en la seguridad alimentaria nacional mediante el abastecimiento de los productos y alimentos de consumo básico por las familias hondureñas, la retribución justa a los productores por la compra de sus productos, la venta de productos y alimentos al consumidor a precios justos y competitivos en el mercado nacional. En ese sentido, como un mecanismo para fortalecer la operatividad de la institución es pertinente aprobar la exoneración de impuestos, tasas y contribuciones.
 
@@ -45,7 +45,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

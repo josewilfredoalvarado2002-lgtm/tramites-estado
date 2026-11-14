@@ -11,7 +11,7 @@ paginas: "A. 45 - 48"
 sumario: "Decretos Nos. 129-2020, 130-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201017-35402/download"
 extraido: "2026-11-14"
-huella: "7c44498311983f65"
+huella: "4b6a7be00e052eda"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 130-2020
@@ -49,7 +49,7 @@ LEY DE DISPOSICIONES ESPECIALES PARA LAS ELECCIONES PRIMARIAS 2021
 
 #### Artículo 1
 
-ARTÍCULO 1.- CENSO NACIONAL ELECTORAL P R O V I S I O N A L PA R A L A S ELECCIONES PRIMARIAS DE 2021.
+ARTÍCULO 1.- CENSO NACIONAL ELECTORAL PROVISIONAL PA R A L A S ELECCIONES PRIMARIAS DE 2021.
 
 Conforme a la Constitución de la República, el Censo Nacional Electoral Provisional que será utilizado para efectos de las elecciones primarias 2021, debe ser elaborado por el Consejo Nacional Electoral conforme a la base registral completa y actualizada que elabora el Registro Nacional de las Personas (RNP); incluyendo en el los ciudadanos mayores de 18 años que se registren en campo a través del Proyecto Identifícate y del Sistema de Identificación Nacional (SIN) para la obtención del documento nacional de identificación única (DNI), mediante el sistema digital biométrico que registra los datos personales, la imagen facial y las huellas dactilares de cada ciudadano.
 

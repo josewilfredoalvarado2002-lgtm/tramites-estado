@@ -8,10 +8,10 @@ gaceta_numero: 35395
 gaceta_fecha: "2020-10-09"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)|La Gaceta 35395]]"
 paginas: "A. 1 - 8"
-sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
+sumario: "Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20201009-35395/download"
 extraido: "2026-11-14"
-huella: "83f4af6816f4a4cf"
+huella: "f8dc63be3c8dcf8b"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-097-2020
@@ -23,7 +23,7 @@ huella: "83f4af6816f4a4cf"
 | Emisor | PODER EJECUTIVO |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35395 (2020-10-09)\|La Gaceta 35395]] del 2020-10-09 |
 | Páginas | A. 1 - 8 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020PODER LEGISLATIVODecreto No. 125-2020MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
+| Según el sumario de La Gaceta | Decreto Ejecutivo Número PCM-097-2020,PCM-098-2020, PCM-099-2020; PODER LEGISLATIVO: Decreto No. 125-2020; MINISTERIO PÚBLICO ACUERDO NO. FGAR-009-DSB-2020; SECRETARÍA DE ESTADO EN EL DESPACHO DE ENERGÍA |
 
 ## Texto
 
@@ -55,7 +55,7 @@ POR TANTO;
 
 En uso de las facultades contenidas en los Artículos: 59, 65, 81, 84, 145, 187, 245 numerales 2, 7, 11 y 29, 248, 252, 321 y 323 de la Constitución de la República; Artículos 1, 2, 3, 4, 8, 9, 10, 15, 177, 180, 181 y 188 del Código de Salud;
 
-Artículos 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículos 8, 79, 80, 81 de la Ley de Migración y Extranjería; Decreto Legislativo No. 32- 2020; Decreto Legislativo No. 40-2020; Decretos Ejecutivos Números PCM-031-2014, PCM -063-2014, PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM-022-2020, PCM- 023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042- 2020, PCM-045-2020, PCM-073-2020 y demás aplicables; y, Artículos 112, 113 y 114 del Reglamento de la Ley de Migración y Extranjería.
+Artículos 7, 11, 17, 18, 20, 22 numerales 9) y 12), 116, 117 y 119 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo No. 266-2013; Artículos 4 inciso 2), 5, 41 y 45 de la Ley del Sistema Nacional de Gestión de Riesgos (SINAGER); Artículos 8, 79, 80, 81 de la Ley de Migración y Extranjería; Decreto Legislativo No. 32-2020; Decreto Legislativo No. 40-2020; Decretos Ejecutivos Números PCM-031-2014, PCM -063-2014, PCM-005-2020, PCM-016-2020, PCM-021-2020, PCM-022-2020, PCM-023-2020, PCM-026-2020, PCM-028-2020, PCM-031-2020, PCM-033-2020, PCM-036-2020, PCM-040-2020, PCM-042-2020, PCM-045-2020, PCM-073-2020 y demás aplicables; y, Artículos 112, 113 y 114 del Reglamento de la Ley de Migración y Extranjería.
 
 DECRETA:
 

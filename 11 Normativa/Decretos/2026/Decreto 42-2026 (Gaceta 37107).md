@@ -11,7 +11,7 @@ paginas: "A. 23 - 25"
 sumario: "Acuerdos Ejecutivos Nos. 209-2026, 219-2026, 229-2026, 235-2026, 236-2026, 237-2026, 238-2026, 240-2026, 241-2026, 242-2026, 243-2026, 244-2026, 246-2026, 250-2026, 251-2026, 253-2026, 255-2026, 256-2026, 257-2026."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260330-37107/download"
 extraido: "2026-11-09"
-huella: "28c67690ae490912"
+huella: "cda7a4397b6470e3"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 42-2026
@@ -41,7 +41,7 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 

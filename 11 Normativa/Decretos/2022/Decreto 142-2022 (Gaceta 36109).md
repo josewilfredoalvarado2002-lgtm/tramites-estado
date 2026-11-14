@@ -11,7 +11,7 @@ paginas: "A. 3 - 8"
 sumario: "Decreto No. 142-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20221222-36109/download"
 extraido: "2026-11-14"
-huella: "e56139d78163fc2d"
+huella: "8515c0407ea7b1dc"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 142-2022
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la Constitución de la República en el Artículo 205, Atribuc
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 290 establece que: “Los grados militares solo se adquieren por riguroso ascenso de acuerdo con la Ley respectiva… Los ascensos desde Mayor a General de División inclusive serán otorgados por el Congreso Nacional a propuesta del Poder Ejecutivo. El Estado Mayor Conjunto de las Fuerzas Armadas emitirá Dictamen previo a conferir los ascensos de oficiales”.
 
-CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No.39-2001 del 16 de Abril de 2001, publicado en el Diario Oficial “La Gaceta”, de fecha 29 de Octubre de 2001, en su Artículo 191 establece que:
+CONSIDERANDO: Que la Ley Constitutiva de las Fuerzas Armadas, contenida en el Decreto No. 39-2001 del 16 de Abril de 2001, publicado en el Diario Oficial “La Gaceta”, de fecha 29 de Octubre de 2001, en su Artículo 191 establece que:
 
 “Los ascensos de los Miembros de las Fuerzas Armadas se otorgarán de conformidad con la Constitución de la República, la presente Ley y su Reglamento” y en su Artículo 194 enuncia: “Todo ascenso debe ser dictaminado previamente por el Estado Mayor Conjunto de las Fuerzas Armadas”.
 
@@ -47,9 +47,9 @@ CONSIDERANDO: Que el Reglamento de Ascensos para Oficiales de las Fuerzas Armada
 
 Ascensos de Oficiales al Grado General de Brigada o su equivalente; al Grado de Coronel o su equivalente de las Armas, Cuerpos y Servicios; al Grado de Teniente Coronel o su equivalente de las Armas, Cuerpos y Servicios; al Grado de Teniente Coronel en el Arma de Infantería; al Grado de Capitán de Corbeta del Cuerpo General y al Grado de Mayor o su Equivalente.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 9 de Noviembre del año 2022, mediante Acta Especial No.006- 2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso al Grado de General de Brigada o su equivalente LEONEL RODOLFO MAZZONI HERNÁNDEZ, FRANCISCO JAVIER SERRANO ALVARADO, PABLO ANTONIO RODRÍGUEZ SAUCEDA, CÉSAR AUGUSTO ROSALES RUBIO.
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 9 de Noviembre del año 2022, mediante Acta Especial No. 006-2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso al Grado de General de Brigada o su equivalente LEONEL RODOLFO MAZZONI HERNÁNDEZ, FRANCISCO JAVIER SERRANO ALVARADO, PABLO ANTONIO RODRÍGUEZ SAUCEDA, CÉSAR AUGUSTO ROSALES RUBIO.
 
-CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 4 de Noviembre del año 2022, mediante Acta Especial No.003- 2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, Señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso al Grado de Coronel o su equivalente de las Armas, Cuerpos y Servicios, a veintitrés (23), señores Oficiales con el Grado de Teniente Coronel o su equivalente de las Armas, Cuerpos y Servicios; al Grado de Teniente Coronel o su equivalente de las Armas, Cuerpos y Servicios, a veintisiete
+CONSIDERANDO: Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión celebrada el día 4 de Noviembre del año 2022, mediante Acta Especial No. 003-2022, resolvió solicitar al señor Secretario de Estado en el Despacho de Defensa Nacional, para que por su digno medio solicite a la señora Presidenta Constitucional de la República y Comandante General de las Fuerzas Armadas de Honduras, Señora IRIS XIOMARA CASTRO SARMIENTO, proponga al Soberano Congreso Nacional de la República el ascenso al Grado de Coronel o su equivalente de las Armas, Cuerpos y Servicios, a veintitrés (23), señores Oficiales con el Grado de Teniente Coronel o su equivalente de las Armas, Cuerpos y Servicios; al Grado de Teniente Coronel o su equivalente de las Armas, Cuerpos y Servicios, a veintisiete
 
 (27) señores Oficiales con el Grado de Mayor o su equivalente de las Armas, Cuerpos y Servicios; al Grado de Teniente Coronel en el Arma de Infantería al Mayor de Infantería DEM MARCO ANTONIO CARRANZA BUSTILLO; al Grado de Teniente Coronel en el Arma de Infantería al Mayor de Infantería DEM MARCO ANTONIO CARRANZA BUSTILLO; al Grado de Capitán de Corbeta del Cuerpo General al Teniente de Navío C.G. HAROLD EDUARDO MANLEY TORO y al Grado de Mayor o su equivalente de las Armas, Cuerpos y Servicios, a cincuenta y nueve (59) señores Oficiales con el Grado de Capitán o su equivalente de las Armas en vista de haber cumplido con los requisitos exigidos por las Leyes y Reglamentos Militares vigentes.
 
@@ -129,7 +129,7 @@ GERARDO ENRIQUE MOLINA RODRÍGUEZ.
 
 \17) TTE. CNEL. INF. D.E.M.
 
-J U A N CARLOS OSORTO CASTILLO.
+JUAN CARLOS OSORTO CASTILLO.
 
 \18) TTE. CNEL. INF. D.E.M. OSCAR DONALDO CASTILLO SORTO.
 

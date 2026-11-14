@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo Ministerial No. 078-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220901-36017/download"
 extraido: "2026-11-14"
-huella: "4cb23525a870067a"
+huella: "dfbf54bb95131b83"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 078-2022
@@ -57,9 +57,7 @@ COMUNÍQUESE Y PUBLÍQUESE.
 
 PEDRO JOSÉ BARQUERO TERCERO
 
-Secretario de Estado en el Despacho de Desarrollo Económico JOEL EDUARDO SALINAS LANZA Secretario General ADENDUM No. 2 La Empresa Nacional de Artes Gráficas "ENAG", conforme al derecho que le asiste y de acuerdo con los hallazgos encontrados en la edición del Diario Oficial La Gaceta No.
-
-36,000 de fecha viernes 12 de agosto del 2022, publicado el Acuerdo C.D. SENASA 005-2022, de Servicio Nacional de Sanidad e Inocuidad Agroalimentaria, según documento original recibido en nuestra institución, en la publicación en físico por error involuntario en la página A.6, se omitió la numeración de la línea número 14 última celda siendo lo correcto: 267.00, se publica mediante Adendum por Enmienda.
+Secretario de Estado en el Despacho de Desarrollo Económico JOEL EDUARDO SALINAS LANZA Secretario General ADENDUM No. 2 La Empresa Nacional de Artes Gráficas "ENAG", conforme al derecho que le asiste y de acuerdo con los hallazgos encontrados en la edición del Diario Oficial La Gaceta No. 36,000 de fecha viernes 12 de agosto del 2022, publicado el Acuerdo C.D. SENASA 005-2022, de Servicio Nacional de Sanidad e Inocuidad Agroalimentaria, según documento original recibido en nuestra institución, en la publicación en físico por error involuntario en la página A.6, se omitió la numeración de la línea número 14 última celda siendo lo correcto: 267.00, se publica mediante Adendum por Enmienda.
 
 LA GERENCIA
 

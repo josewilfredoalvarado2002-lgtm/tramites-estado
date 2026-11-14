@@ -8,7 +8,7 @@ gaceta_numero: 35196
 gaceta_fecha: "2020-03-10"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35196 (2020-03-10)|La Gaceta 35196]]"
 paginas: "A. 1 - 2"
-sumario: "Decreto No. 15-2020ADMINISTRACIÓN ADUANERA DE HONDURASCertificación del Acuerdo No. ADUANAS-022-2020Adendum cinco (05) al Contrato No. 01/2016"
+sumario: "Decreto No. 15-2020; ADMINISTRACIÓN ADUANERA DE HONDURAS: Certificación del Acuerdo No. ADUANAS-022-2020Adendum cinco (05) al Contrato No. 01/2016"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200310-35196/download"
 extraido: "2026-11-14"
 huella: "5c8f77b4b4b85310"
@@ -23,7 +23,7 @@ huella: "5c8f77b4b4b85310"
 | Emisor | Poder Legislativo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35196 (2020-03-10)\|La Gaceta 35196]] del 2020-03-10 |
 | Páginas | A. 1 - 2 |
-| Según el sumario de La Gaceta | Decreto No. 15-2020ADMINISTRACIÓN ADUANERA DE HONDURASCertificación del Acuerdo No. ADUANAS-022-2020Adendum cinco (05) al Contrato No. 01/2016 |
+| Según el sumario de La Gaceta | Decreto No. 15-2020; ADMINISTRACIÓN ADUANERA DE HONDURAS: Certificación del Acuerdo No. ADUANAS-022-2020Adendum cinco (05) al Contrato No. 01/2016 |
 
 ## Texto
 

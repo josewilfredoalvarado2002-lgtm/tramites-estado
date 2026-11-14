@@ -11,7 +11,7 @@ paginas: "A. 16 - 24"
 sumario: "Decretos Nos. 49-2026, 84-2026, 86-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260522-37148/download"
 extraido: "2026-11-09"
-huella: "5856f18c6ef9ef5c"
+huella: "a09dec6cdab19058"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 86-2026
@@ -51,7 +51,7 @@ CONSIDERANDO: Que el Artículo 205 Atribución 1) de la Constitución de la Rep�
 
 POR TANTO:
 
-D E C R E T A:
+DECRETA:
 
 EL DECRETO ESPECIAL DE RÉGIMEN TRANSITORIO Y EXCEPCIONAL DE QUORUM MÍNIMO DE FUNCIONAMIENTO DEL PLENO DEL CONSEJO NACIONAL ELECTORAL (CNE)
 
@@ -157,7 +157,7 @@ Que el Consejo Selector General de Ascensos de las Fuerzas Armadas, en sesión c
 
 CONSIDERANDO (14):
 
-Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=024(C-1)2026 de fecha 09 de marzo del año 2026, RECOMIENDA al señor Secretario de Estado en el Despacho de Defensa Nacional, ENRIQUE RODRÍGUEZ BURCHARD, para que por su medio solicite al señor Presidente Constitucional de la República, NASRY JUAN ASFURA ZABLAH, ascender a partir del 11 de diciembre del 2025 al grado de Subteniente en el Arma de Aviación a los Alféreces FABRIZIO D A N I E L C Á R C A M O FERRERA y JAVIER MILLA ORDÓÑEZ, graduados en el extranjero y reconocerles antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre del 2024, por haber ingresado a la Academia de Aviación “Capitán Roberto Raúl Barahona Lagos” el 17 de enero del 2021.
+Que la Dirección de Recursos Humanos (C-1) del Estado Mayor Conjunto, mediante Dictamen D=024(C-1)2026 de fecha 09 de marzo del año 2026, RECOMIENDA al señor Secretario de Estado en el Despacho de Defensa Nacional, ENRIQUE RODRÍGUEZ BURCHARD, para que por su medio solicite al señor Presidente Constitucional de la República, NASRY JUAN ASFURA ZABLAH, ascender a partir del 11 de diciembre del 2025 al grado de Subteniente en el Arma de Aviación a los Alféreces FABRIZIO DANIEL CÁRCAMO FERRERA y JAVIER MILLA ORDÓÑEZ, graduados en el extranjero y reconocerles antigüedad, salarios y demás derechos dejados de percibir al 11 de diciembre del 2024, por haber ingresado a la Academia de Aviación “Capitán Roberto Raúl Barahona Lagos” el 17 de enero del 2021.
 
 POR TANTO
 

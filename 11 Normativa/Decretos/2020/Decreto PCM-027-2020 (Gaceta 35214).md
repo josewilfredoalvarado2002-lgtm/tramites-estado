@@ -8,10 +8,10 @@ gaceta_numero: 35214
 gaceta_fecha: "2020-03-31"
 gaceta: "[[11 Normativa/La Gaceta/2020/La Gaceta 35214 (2020-03-31)|La Gaceta 35214]]"
 paginas: "A. 1 - 5"
-sumario: "Decreto Ejecutivo número PCM-027-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 025-2020, 028-2020"
+sumario: "Decreto Ejecutivo número PCM-027-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 025-2020, 028-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200331-35214/download"
 extraido: "2026-11-14"
-huella: "1048e6bf45202b81"
+huella: "4661790bb7330f0a"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-027-2020
@@ -23,7 +23,7 @@ huella: "1048e6bf45202b81"
 | Emisor | Poder Ejecutivo |
 | Publicado en | [[11 Normativa/La Gaceta/2020/La Gaceta 35214 (2020-03-31)\|La Gaceta 35214]] del 2020-03-31 |
 | Páginas | A. 1 - 5 |
-| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-027-2020SECRETARÍA DE DESARROLLO ECONÓMICOAcuerdo Ministerial No. 025-2020, 028-2020 |
+| Según el sumario de La Gaceta | Decreto Ejecutivo número PCM-027-2020; SECRETARÍA DE DESARROLLO ECONÓMICO: Acuerdo Ministerial No. 025-2020, 028-2020 |
 
 ## Texto
 
@@ -41,9 +41,9 @@ El tiempo que durará ésta. Además se convocará en el mismo decreto al Cong
 
 (30) treinta días, conozca de dicho decreto y lo ratifique, modifique o impruebe. ...”
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo 21- 2020, emitido en fecha 15 de marzo del 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 16 de marzo del mismo año, se cumple con este requerimiento constitucional por lo que se hace necesario y urgente convocar al Congreso Nacional para que conozca de esta medida adoptada por el Poder Ejecutivo.
+CONSIDERANDO: Que mediante Decreto Ejecutivo 21-2020, emitido en fecha 15 de marzo del 2020 y publicado en el Diario Oficial “La Gaceta” en fecha 16 de marzo del mismo año, se cumple con este requerimiento constitucional por lo que se hace necesario y urgente convocar al Congreso Nacional para que conozca de esta medida adoptada por el Poder Ejecutivo.
 
-CONSIDERANDO: Que las medidas de restricción de garantías constitucionales para lograr el confinamiento en sus hogares de todas las personas en el territorio nacional con las excepciones establecidas en el mismo Decreto Ejecutivo 21- 2020 del 15 de marzo del 2020 y publicado en el Diario Oficial “La Gaceta” No 35,202 de fecha 16 de marzo del mismo año, reformado mediante Decretos Ejecutivos número PCM- 022-2020 y PCM-026-2020, inevitablemente ha provocado la merma de la actividad económica lo que imposibilita el cumplimiento de las obligaciones tributarias materiales y formales por parte de los obligados tributarios.
+CONSIDERANDO: Que las medidas de restricción de garantías constitucionales para lograr el confinamiento en sus hogares de todas las personas en el territorio nacional con las excepciones establecidas en el mismo Decreto Ejecutivo 21-2020 del 15 de marzo del 2020 y publicado en el Diario Oficial “La Gaceta” No 35,202 de fecha 16 de marzo del mismo año, reformado mediante Decretos Ejecutivos número PCM-022-2020 y PCM-026-2020, inevitablemente ha provocado la merma de la actividad económica lo que imposibilita el cumplimiento de las obligaciones tributarias materiales y formales por parte de los obligados tributarios.
 
 CONSIDERANDO: Que es necesario brindar protección social a las personas más vulnerables socio económicamente, por lo que el Estado debe destinar recursos de manera especial para atender esta necesidad y se requiere que de manera urgente el Congreso Nacional sesione, a fin de conocer los temas que mediante Iniciativa de Ley del Presidente de la República, son urgentes para atender las necesidades más sensibles de la ciudadanía.
 
@@ -53,7 +53,7 @@ CONSIDERANDO: Que debido a la duración de esta pandemia y a las dificultades ma
 
 CONSIDERANDO: Que el Presidente de la República ha sostenido conversaciones con el Presidente del Congreso Nacional, a efecto de hacer posible esta convocatoria extraordinaria para conocer de una Agenda mínima que permita al Poder Ejecutivo tener más herramientas para hacer frente a los efectos de la pandemia.
 
-POR TANTO, En uso de las facultades constitucionales contenidas en los artículos 187 numeral 4 y 190 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013; y, Decreto Ejecutivo número PCM-021-2020, Decreto Ejecutivo número PCM-022-2020 y Decreto Ejecutivo número PCM- 026-2020.
+POR TANTO, En uso de las facultades constitucionales contenidas en los artículos 187 numeral 4 y 190 de la Constitución de la República; Artículos 7, 11, 17, 18, 20, 22 numerales 9, 116 y 117 de la Ley General de la Administración Pública y sus reformas según Decreto Legislativo Número 266-2013; y, Decreto Ejecutivo número PCM-021-2020, Decreto Ejecutivo número PCM-022-2020 y Decreto Ejecutivo número PCM-026-2020.
 
 DECRETA:
 

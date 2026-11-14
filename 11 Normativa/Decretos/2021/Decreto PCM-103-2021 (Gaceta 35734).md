@@ -11,7 +11,7 @@ paginas: "A. 7 - 12"
 sumario: "Decretos Ejecutivos números PCM-099-2021, PCM-103-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211001-35734/download"
 extraido: "2026-11-14"
-huella: "6227744ea6355c7e"
+huella: "32a889be851c7efe"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-103-2021
@@ -37,27 +37,19 @@ Dirigir la Política General del Estado y representarlo; emitir Acuerdos, Decret
 
 CONSIDERANDO: Que de acuerdo al Artículo 11 de la Ley General de Administración Pública, el Presidente de la República tiene a su cargo la suprema dirección y coordinación de la Administración Pública Centralizada y Descentralizada, pudiendo en el ejercicio de sus funciones actuar por sí o en Consejo de Ministros.
 
-CONSIDERANDO: Que la Ley General de Administración Pública reformada mediante Decreto Legislativo No. 266- 2013, establece en una de sus partes: “Artículo 28. Las Secretarías de Estado son órganos de la Administración General del País, y dependen directamente del Presidente de la República…” y el “Artículo 29. Para la Administración General del País que la Constitución de la República confiere al Poder Ejecutivo, las Secretarías de Estado tendrán las siguientes competencias … 4) Desarrollo e Inclusión Social:
+CONSIDERANDO: Que la Ley General de Administración Pública reformada mediante Decreto Legislativo No. 266-2013, establece en una de sus partes: “Artículo 28. Las Secretarías de Estado son órganos de la Administración General del País, y dependen directamente del Presidente de la República…” y el “Artículo 29. Para la Administración General del País que la Constitución de la República confiere al Poder Ejecutivo, las Secretarías de Estado tendrán las siguientes competencias … 4) Desarrollo e Inclusión Social:
 
 Lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas públicas en materia de desarrollo e inclusión social, de reducción de la pobreza; así como de la planificación, administración y ejecución de los programas y proyectos que se derivan de esas políticas y los que vayan dirigidos a grupos vulnerables y los orientados a la niñez, juventud, pueblos indígenas y afro hondureños, discapacitados y personas con necesidades especiales, y adultos mayores”.
 
 Así mismo, es la responsable de Velar por la adecuada ejecución y transparencia de los programas sociales bajo su jurisdicción, del posicionamiento de las políticas públicas y la conformación de la Red de Protección Social y es la Institución del Estado rectora de las políticas sociales, articuladora de programas y proyectos orientados a la reducción de la pobreza, a la inclusión y el desarrollo humano de forma integral de los sectores más vulnerables de la población, en condiciones de riesgo y en exclusión social, creando condiciones para una vida mejor.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
+CONSIDERANDO: Que mediante Decreto Legislativo No. 38-2011, publicado en fecha 13 de junio de 2013 en el Diario Oficial “La Gaceta”, Edición No. 33,149, se decretó la Ley Marco de Políticas Públicas en Materia Social, la cual establece en su Artículo 1: “OBJETO. La presente Ley tiene por objeto crear el marco legal de las política públicas en materia social, en el marco de la Visión de País y Plan de Nación, así como las competencias institucionales para regular, rectorar y coordinar las acciones orientadas a transformar las condiciones humanas, socio culturales y materiales, con énfasis en la población en condiciones de pobreza y los grupos vulnerables; de acuerdo a los principios establecidos en esta Ley, en consonancia con las estrategias establecidas para tal efecto por el Estado o por Tratados y Convenios Internacionales ratificados por Honduras.”
 
-38-2011, publicado en fecha 13 de junio de 2013 en el Diario Oficial “La Gaceta”, Edición No. 33,149, se decretó la Ley Marco de Políticas Públicas en Materia Social, la cual establece en su Artículo 1: “OBJETO. La presente Ley tiene por objeto crear el marco legal de las política públicas en materia social, en el marco de la Visión de País y Plan de Nación, así como las competencias institucionales para regular, rectorar y coordinar las acciones orientadas a transformar las condiciones humanas, socio culturales y materiales, con énfasis en la población en condiciones de pobreza y los grupos vulnerables; de acuerdo a los principios establecidos en esta Ley, en consonancia con las estrategias establecidas para tal efecto por el Estado o por Tratados y Convenios Internacionales ratificados por Honduras.”
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” Edición No. 35,171 del 10 febrero 2020; Decreto Ejecutivo Número PCM-016-2020, publicado en El Diario Oficial “La Gaceta” Edición No. 35,123 del 06 de marzo del 2020; Decreto Ejecutivo Número PCM-023-2020, publicado en El Diario Oficial “La Gaceta” Edición No. 35,206 del 21 de marzo del 2020; y sus reformas; y, Decreto Legislativo No. 31-2020, publicado en el Diario Oficial “La Gaceta” Edición No. 35,199 del 13 de marzo 2020; se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, por el Coronavirus (COVID-19).
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020, publicado en el Diario Oficial “La Gaceta” Edición No. 35,171 del 10 febrero 2020; Decreto Ejecutivo Número PCM-016-2020, publicado en El Diario Oficial “La Gaceta” Edición No.35,123 del 06 de marzo del 2020; Decreto Ejecutivo Número PCM-023-2020, publicado en El Diario Oficial “La Gaceta” Edición No.35,206 del 21 de marzo del 2020; y sus reformas; y, Decreto Legislativo No.
+CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado aprobó el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” de fecha 2 de noviembre del 2020 Edición No. 35,417, reformado mediante Decretos Ejecutivos Números:
 
-31-2020, publicado en el Diario Oficial “La Gaceta” Edición No. 35,199 del 13 de marzo 2020; se declaró ESTADO DE EMERGENCIA HUMANITARIA Y SANITARIA en todo el territorio nacional, por el Coronavirus (COVID-19).
-
-CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado aprobó el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” de fecha 2 de noviembre del 2020 Edición No.
-
-35,417, reformado mediante Decretos Ejecutivos Números:
-
-PCM-112-2020, PCM-115-2020 y PCM-116-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del País a nivel nacional. Mediante Ejecutivo Número PCM-120-2020, publicado en el Diario Oficial “La Gaceta” de fecha 1 de diciembre del 2020 No.
-
-35,446, se declaró situación de calamidad pública nacional, por el estado emergencia en el País, en virtud de los efectos destructivos causados por el paso de las Tormentas Tropicales “ETA” e “IOTA”, sumados a la crisis sanitaria y humanitaria causada por el Virus del Covid-19.
+PCM-112-2020, PCM-115-2020 y PCM-116-2020, se declaró estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” y otros fenómenos climáticos que ocasionen daño a la infraestructura productiva del País a nivel nacional. Mediante Ejecutivo Número PCM-120-2020, publicado en el Diario Oficial “La Gaceta” de fecha 1 de diciembre del 2020 No. 35,446, se declaró situación de calamidad pública nacional, por el estado emergencia en el País, en virtud de los efectos destructivos causados por el paso de las Tormentas Tropicales “ETA” e “IOTA”, sumados a la crisis sanitaria y humanitaria causada por el Virus del Covid-19.
 
 POR TANTO;
 
@@ -79,9 +71,7 @@ ARTÍCULO 2.- El “Bono de Alivio a Familias Vulnerables Afectadas por Fenómen
 
 #### Artículo 3
 
-ARTÍCULO 3.- La inversión total aproximada es de hasta Setenta Millones de Dólares de los Estados Unidos de América (US$ 70,000,000.00), equivalente en moneda nacional, el cual será ejecutado con fondos de financiamiento otorgado por el Banco Centroamericano de Integración Económica (BCIE) mediante el Contrato de Préstamo No.
-
-2282.
+ARTÍCULO 3.- La inversión total aproximada es de hasta Setenta Millones de Dólares de los Estados Unidos de América (US$ 70,000,000.00), equivalente en moneda nacional, el cual será ejecutado con fondos de financiamiento otorgado por el Banco Centroamericano de Integración Económica (BCIE) mediante el Contrato de Préstamo No. 2282.
 
 #### Artículo 4
 
@@ -131,9 +121,7 @@ ARTÍCULO 9.- Para la selección geográfica se identificarán las zonas más af
 
 ARTÍCULO 10.- Se consideran hogares elegibles aquellos que viven en pobreza extrema monetaria, que residen en las zonas identificadas con afectación y riesgo climático, ya sea en la zona urbana o rural del País y que no sean participantes del Bono Vida Mejor, ni otra compensación monetaria, de acuerdo a los parámetros definidos en el Manual Operativo.
 
-Para identificar los hogares que cumplen con el criterio de pobreza extrema monetaria, se utilizará el “Algoritmo de Focalización para la Identificación Individual de Hogares Participantes en los Programas Sociales del Gobierno de Honduras” aprobado según Acuerdo Ministerial No.
-
-468-2018. Para esta identificación se utilizarán los hogares existentes en el Registro Único de Participantes que tengan datos de la Ficha Socioeconómica Única más reciente.
+Para identificar los hogares que cumplen con el criterio de pobreza extrema monetaria, se utilizará el “Algoritmo de Focalización para la Identificación Individual de Hogares Participantes en los Programas Sociales del Gobierno de Honduras” aprobado según Acuerdo Ministerial No. 468-2018. Para esta identificación se utilizarán los hogares existentes en el Registro Único de Participantes que tengan datos de la Ficha Socioeconómica Única más reciente.
 
 Además, se permitirá la demanda del beneficio a través del autorregistro.
 

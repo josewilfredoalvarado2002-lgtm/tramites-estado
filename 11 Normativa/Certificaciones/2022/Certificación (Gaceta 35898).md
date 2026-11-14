@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220413-35898/download"
 extraido: "2026-11-14"
-huella: "4d9070e92ce3d79d"
+huella: "087173aba7e896d0"
 ---
 <!-- portal:inicio -->
 # CERTIFICACIÓN
@@ -29,7 +29,7 @@ huella: "4d9070e92ce3d79d"
 
 El infrascrito, Secretario General de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización, Certifica: La Resolución que literalmente dice: “RESOLUCIÓN No. 1692-2021. SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN. Tegucigalpa, municipio del Distrito Central, departamento de Francisco Morazán, diecinueve de agosto del año dos mil veintiuno.
 
-VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciséis de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-16082018- 591 por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAUCERIQUE, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
+VISTA: Para resolver la solicitud presentada al Poder Ejecutivo, por medio de esta Secretaría de Estado, en fecha dieciséis de agosto del año dos mil veintiuno, la cual corre agregada al expediente administrativo No. PJ-16082018-591 por el Abogado LEONEL DAMIÁN SUAZO CASTILLO, actuando en su condición de Apoderado Legal de la JUNTA ADMINISTRADORA DE AGUA POTABLE Y SANEAMIENTO DE LA COMUNIDAD DE TAUCERIQUE, MUNICIPIO DE DOLORES, DEPARTAMENTO DE INTIBUCA, contraído a solicitar la Personalidad Jurídica a favor de su representada.
 
 ANTECEDENTE DE HECHO
 

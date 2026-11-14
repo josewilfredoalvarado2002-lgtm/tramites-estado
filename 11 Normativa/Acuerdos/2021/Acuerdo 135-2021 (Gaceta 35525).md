@@ -11,7 +11,7 @@ paginas: "A. 3 - 5"
 sumario: "Acuerdos Nos. 134-2021, 135-2021, 136-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210223-35525/download"
 extraido: "2026-11-14"
-huella: "27ac92ffbc570644"
+huella: "fb20cff2843e2d76"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 135-2021
@@ -39,9 +39,7 @@ Que la Dirección de Niñez, Adolescencia y Familia (DINAF), es un Ente Desconce
 
 CONSIDERANDO: Que el Estado de Honduras al ratificar la Convención Sobre los Derechos del Niño, asumió el compromiso de realizar las adecuaciones normativas, institucionales y de inversión social necesarias para efectivizar progresivamente los derechos de niños, niñas y adolescentes.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-020-2019, emitido por el Presidente de la República en Consejo de Ministros en fecha 3 de junio del año 2019 y publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-020-2019, emitido por el Presidente de la República en Consejo de Ministros en fecha 3 de junio del año 2019 y publicado en el Diario Oficial La Gaceta, el 29 de junio del 2019, se creó el Sistema Integral de Garantía de Derechos de Niñez y Adolescencia en Honduras (SIGADENAH), como el conjunto de órganos, entidades, mecanismos e instancias públicas y privadas articuladas a nivel nacional, departamental y municipal, que constituyen el andamiaje fundamental para la promoción de los derechos, la prevención, la protección, defensa y reparación del daño ante la vulneración de los mismos, a través de políticas, programas y acciones intersectoriales orientadas.
 
 CONSIDERANDO: Que el mismo marco legal dispone que dicho Sistema estará conformado por: 1) Órganos Deliberativos, 2) Órganos Ejecutivos; y, 3) Órganos Auxiliares.
 
@@ -63,7 +61,7 @@ En aplicación de los Artículos 36, numerales 8) y 19), 116, 118 numeral 1) y 1
 
 ACUERDA:
 
-PRIMERO: Delegar en la Licenciada CATY SUYAPA MATAMOROS OCHOA, con Identidad No. 0801-1969- 09760, las funciones de Especialista en Monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia específicamente lo siguiente: 1) Responsable de liderar el seguimiento sobre el progreso en la implementación del Plan Estratégico del Consejo Nacional; 2) Contribuir en la generación de información la toma de decisiones; y, 3) Recopilación, organización, sistematización y la presentación de información en los tres niveles territoriales.
+PRIMERO: Delegar en la Licenciada CATY SUYAPA MATAMOROS OCHOA, con Identidad No. 0801-1969-09760, las funciones de Especialista en Monitoreo de la Unidad Ejecutora de la Secretaría Ejecutiva que Asume la Dirección de Niñez, Adolescencia y Familia (DINAF) en el Consejo Nacional de Niñez y Adolescencia específicamente lo siguiente: 1) Responsable de liderar el seguimiento sobre el progreso en la implementación del Plan Estratégico del Consejo Nacional; 2) Contribuir en la generación de información la toma de decisiones; y, 3) Recopilación, organización, sistematización y la presentación de información en los tres niveles territoriales.
 
 SEGUNDO: La delegación señalada, comprende a partir del uno (1) de febrero del año dos mil veintiuno (2021).
 

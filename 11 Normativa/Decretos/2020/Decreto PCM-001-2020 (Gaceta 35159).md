@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto Ejecutivo número PCM-001-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200127-35159/download"
 extraido: "2026-11-14"
-huella: "3dac20e994e69a23"
+huella: "3f94fde9a65ca16d"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-001-2020
@@ -35,9 +35,7 @@ CONSIDERANDO: Que la política, estrategia y objetivos del Gobierno los define e
 
 CONSIDERANDO: Que de acuerdo al Artículo 4 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, la creación, modificación o suspensión de las Secretarías de Estado o de los Organismo o Entidades Desconcentradas, solamente puede ser hecha por el Presidente de la República en Consejo de Secretarios de Estado.
 
-CONSIDERANDO: Que de conformidad al Artículo 14 numeral 1 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No.
-
-266-2013, el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada las normas requeridas para determinar, la competencia de los Despachos por las Secretarías de Estado y crear las dependencias internas que fueren necesarias para la buena administración, además estas disposiciones pueden ser emitidas por el Presidente de la República en Consejo de Secretarios de Estado aun cuando la dependencia o función haya sido creada u otorgada mediante una disposición legal.
+CONSIDERANDO: Que de conformidad al Artículo 14 numeral 1 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No. 266-2013, el Presidente de la República, por Decreto en Consejo de Secretarios de Estado, puede emitir dentro de la Administración Centralizada las normas requeridas para determinar, la competencia de los Despachos por las Secretarías de Estado y crear las dependencias internas que fueren necesarias para la buena administración, además estas disposiciones pueden ser emitidas por el Presidente de la República en Consejo de Secretarios de Estado aun cuando la dependencia o función haya sido creada u otorgada mediante una disposición legal.
 
 CONSIDERANDO: Que según lo establece el Artículo 22 numeral 3 de la Ley General de la Administración Pública, reformado mediante Decreto Legislativo No 266-2013, el Consejo de Secretarios de Estado tienen las atribuciones entre otras de crear, modificar, fusionar, escindir o suprimir dependencias de la Administración Pública.
 

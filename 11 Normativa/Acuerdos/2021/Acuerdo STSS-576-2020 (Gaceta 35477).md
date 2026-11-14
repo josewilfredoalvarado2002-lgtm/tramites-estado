@@ -11,7 +11,7 @@ paginas: "A. 31 - 32"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210104-35477/download"
 extraido: "2026-11-14"
-huella: "f61ef10929fc521d"
+huella: "12ae1a14406c91e3"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. STSS-576-2020
@@ -31,7 +31,7 @@ Tegucigalpa, M.D.C., 23 de octubre de 2020 EL SECRETARIO DE ESTADO EN LOS DESPAC
 
 CONSIDERANDO: Que mediante Acuerdo No. 129-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombró al ciudadano Olvin Aníbal Villalobos Velásquez en el cargo de Secretario de Estado en los Despachos de Trabajo y Seguridad Social.
 
-CONSIDERANDO: Que mediante Acuerdo No. 131- 2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombró al ciudadano Cosberth Cristóbal Corrales Ramírez en el cargo de Subsecretario de Estado en el Despacho de Empleo y Seguridad Social de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social.
+CONSIDERANDO: Que mediante Acuerdo No. 131-2020 de fecha veintiuno (21) de octubre del año dos mil veinte (2020), se nombró al ciudadano Cosberth Cristóbal Corrales Ramírez en el cargo de Subsecretario de Estado en el Despacho de Empleo y Seguridad Social de la Secretaría de Estado en los Despachos de Trabajo y Seguridad Social.
 
 CONSIDERANDO: Que la delegación de atribuciones, constituye uno de los instrumentos fundamentales que contribuyen a asegurar la buena marcha de la Administración Pública.
 

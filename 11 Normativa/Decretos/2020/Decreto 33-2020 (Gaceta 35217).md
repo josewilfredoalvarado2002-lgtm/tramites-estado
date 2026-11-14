@@ -11,7 +11,7 @@ paginas: "A. 11 - 27"
 sumario: "Decretos Nos. 24-2020, 32-2020, 33-2020,"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200403-35217/download"
 extraido: "2026-11-14"
-huella: "e547119febb7db75"
+huella: "1c6fa2ee2cd2c5c4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 33-2020
@@ -43,9 +43,7 @@ CONSIDERANDO: Que la Organización Mundial de la Salud (OMS) declaró el 11 de M
 
 CONSIDERANDO: Que la propagación de la Pandemia del COVID-19 (Coronavirus) en el país ha puesto en precario el mundo del trabajo, por lo que es imperativo que, en el marco de la Emergencia Nacional Sanitaria declarada por el Poder Ejecutivo, se adopten medidas y acciones orientadas a garantizar la estabilidad en los puestos de trabajo, así como la sostenibilidad productiva de las empresas.
 
-CONSIDERANDO: Que mediante el Decreto Ejecutivo No.
-
-PCM-021-2020 de fecha 15 de Marzo del 2020, reformado mediante PCM-022-2020 de fecha 21 de marzo del 2020, el Gobierno de la República restringió a nivel nacional, por un plazo de siete (07) días las garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República; estableciendo en el Artículo 2 del mismo, prohibiciones específicas, dentro de las cuales se encuentra la suspensión de labores en el sector público y privados durante el tiempo de excepción.
+CONSIDERANDO: Que mediante el Decreto Ejecutivo No. PCM-021-2020 de fecha 15 de Marzo del 2020, reformado mediante PCM-022-2020 de fecha 21 de marzo del 2020, el Gobierno de la República restringió a nivel nacional, por un plazo de siete (07) días las garantías constitucionales establecidas en los artículos 69, 78, 81, 84, 99, y 103 de la Constitución de la República; estableciendo en el Artículo 2 del mismo, prohibiciones específicas, dentro de las cuales se encuentra la suspensión de labores en el sector público y privados durante el tiempo de excepción.
 
 CONSIDERANDO: Que, ante el impacto económico ocasionado por la pandemia, es necesario dictar medidas para aliviar las condiciones de los obligados tributarios, a fin de que puedan mantener sus operaciones y dinamicen la economía.
 
@@ -73,7 +71,7 @@ CONSIDERANDO: Que la suspensión total o parcial de contratos de trabajo no impl
 
 CONSIDERANDO: Que de acuerdo con la Organización Internacional del Trabajo (OIT), el diálogo social comprende todo tipo de negociaciones y consultas entre los principales actores del mundo del trabajo promoviendo el consenso y la implicación democrática, sobre temas de interés común relativos a las políticas económicas y sociales. Pudiendo tratarse de un proceso tripartito, en el que el gobierno interviene como parte oficial en el diálogo, o bien consistir en relaciones bipartitas establecidas exclusivamente entre los trabajadores y las empresas, con o sin la participación indirecta del gobierno.
 
-CONSIDERANDO: Que mediante Decreto No.56-2015 de fecha veintiuno de Mayo del dos mil quince, se aprueba la Ley Marco del Sistema de Protección Social en la cual se crean las disposiciones legales de las políticas públicas en materia de protección social, en el contexto de los convenios, principios y mejores prácticas nacionales e internacionales que rigen la materia; a fin de permitir a los habitantes, alcanzar de forma progresiva y sostenible financieramente, una cobertura digna, a través de la promoción social, prevención y el manejo de los riesgos que conlleva la vida de las personas, asegurando la asistencia médica, la protección de los medios de subsistencia y los demás derechos sociales necesarios para el logro del bienestar individual y colectivo.
+CONSIDERANDO: Que mediante Decreto No. 56-2015 de fecha veintiuno de Mayo del dos mil quince, se aprueba la Ley Marco del Sistema de Protección Social en la cual se crean las disposiciones legales de las políticas públicas en materia de protección social, en el contexto de los convenios, principios y mejores prácticas nacionales e internacionales que rigen la materia; a fin de permitir a los habitantes, alcanzar de forma progresiva y sostenible financieramente, una cobertura digna, a través de la promoción social, prevención y el manejo de los riesgos que conlleva la vida de las personas, asegurando la asistencia médica, la protección de los medios de subsistencia y los demás derechos sociales necesarios para el logro del bienestar individual y colectivo.
 
 CONSIDERANDO: Que, mediante el Sistema de Protección Social integrado por el Régimen del Seguro de Previsión Social y Régimen del Seguro de Cobertura Laboral, entre otros, se constituyen programas generadores de prestaciones y servicios que garantizan la protección de los sujetos de cobertura establecidos en la Ley y que están financiados por las contribuciones obligatorias que los trabajadores y empleadores realizan a las Cuentas Individuales de Capitalización respectivas. En este mismo contexto, se faculta al Régimen de Aportaciones Privadas (RAP), a captar y administrar las Cuentas de Capitalización Individual derivadas del Régimen Previsional y del Régimen del Seguro de Cobertura Laboral, a fin de dar cumplimiento a las prestaciones y servicios que se derivan de la Ley Marco del Sistema de Protección Social, Ley del Seguro Social, sus Reglamentos y demás normativas aplicables.
 
@@ -93,7 +91,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205 Atribució
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 LEY DE AUXILIO AL SECTOR PRODUCTIVO Y A LOS TRABAJADORES ANTE LOS EFECTOS DE LA PANDEMIA PROVOCADA POR EL COVID-19
 
@@ -149,7 +147,7 @@ ARTÍCULO 8.- En el marco del ESTADO DE
 
 EMERGENCIA HUMANITARIA Y SANITARIA declarada en todo el territorio nacional, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) para que en caso de ser necesario durante los ejercicios fiscales 2020 y 2021, realice la contratación directa de préstamos internos o externos, redistribución o reasignación de recursos externos disponibles, colocación de títulos de deuda en el mercado doméstico o internacional y otras operaciones de crédito público a las condiciones financieras que obtenga al momento de su negociación, hasta por un monto de DOS MIL QUINIENTOS MILLONES DE DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA (US$2,500,000,000.00) adicionales al monto de endeudamiento autorizado en el
 
-Artículo 1 del Decreto No.171-2019, para la creación de un fondo de emergencia destinado a atender los efectos originados por el coronavirus (COVID-19), los cuales serán formalizados mediante los instrumentos respectivos y procedimientos correspondientes que determinarán el monto adicional por colocación de títulos de deuda y/o obtención de préstamos; estableciéndose un techo máximo de endeudamiento público del Sector Público no Financiero en relación al Producto Interno Bruto (PIB) de cincuenta y cinco por ciento (55%) y una concesionalidad ponderada mínima de la cartera de deuda externa total vigente de veinte por ciento (20%); y deberán estar contemplados dentro de los análisis macroecómicos y fiscales respectivos.
+Artículo 1 del Decreto No. 171-2019, para la creación de un fondo de emergencia destinado a atender los efectos originados por el coronavirus (COVID-19), los cuales serán formalizados mediante los instrumentos respectivos y procedimientos correspondientes que determinarán el monto adicional por colocación de títulos de deuda y/o obtención de préstamos; estableciéndose un techo máximo de endeudamiento público del Sector Público no Financiero en relación al Producto Interno Bruto (PIB) de cincuenta y cinco por ciento (55%) y una concesionalidad ponderada mínima de la cartera de deuda externa total vigente de veinte por ciento (20%); y deberán estar contemplados dentro de los análisis macroecómicos y fiscales respectivos.
 
 Dichos recursos serán destinados para dotar al Sistema Sanitario Nacional de capacidades de respuesta inmediata para el control, contención y propagación de la epidemia del coronavirus. Asimismo, se orientarán recursos para la implementación de medidas de compensación social y orientación de recursos para el impulso de los sectores estratégicos, a fin de generar empleo, crear una mesa técnica de crisis e impulsar un proceso de crecimiento económico sostenido.
 
@@ -159,7 +157,7 @@ Se instruye a la Secretaría de Estado en el Despacho de Finanzas la conformaci�
 
 ARTÍCULO 9.- Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN), crear las partidas presupuestarias de ingresos y gastos necesarios en el Presupuesto General de Ingresos y Egresos de la República para el registro de las operaciones derivadas de la aplicación del presente Decreto y en cada ejercicio fiscal durante la vigencia de las obligaciones.
 
-SECCIÓN TERCERA AUTORIZACIÓN ESPECIAL A LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN PARA T R A N S F E R I R P R E S U P U E S T O A L A S CORPORACIONES MUNICIPALES
+SECCIÓN TERCERA AUTORIZACIÓN ESPECIAL A LA SECRETARÍA DE ESTADO EN LOS DESPACHOS DE GOBERNACIÓN, JUSTICIA Y DESCENTRALIZACIÓN PARA TRANSFERIR PRESUPUESTO A LAS CORPORACIONES MUNICIPALES
 
 #### Artículo 10
 
@@ -181,7 +179,7 @@ En el marco de la crisis del Coronavirus y postcrisis, las implicaciones serán 
 
 Por tanto se faculta al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) a suspender el pago y readecuar las cuotas por pagar de capital e intereses de los usuarios (personas naturales y jurídicas) finales del total de la cartera correspondientes a los meses de marzo, abril y mayo del año 2020, las que se tendrán que trasladar al final del vencimiento de cada crédito, otorgando una ampliación al plazo del crédito por tres meses más a cada deudor que reciba dicha readecuación, así mismo se autoriza al Banco Hondureño para la Producción y la Vivienda (BANHPROVI) para que pueda readecuar y refinanciar con sus fondos propios todos los nuevos préstamos y los existentes en su cartera, que por cualquier índole requieran de esta operación crediticia, otorgándoles las condiciones (plazo, forma de pago, monto y tasa) que de conformidad a sus condiciones económicas y financieras puedan hacerle frente a las nuevas obligaciones por pagar; así como otras estrategias que faciliten el acceso al crédito a todos los sectores económicos del país, que sean prioritarios en generación de empleo y divisas, realizando la gestión de riesgos que establece el marco normativo correspondiente; solicitando las garantías que permiten las normas vigentes emitidas por la Comisión Nacional de Bancos y Seguros (CNBS); y contratar en forma directa aquellos servicios y bienes que den continuidad y promoción del negocio y la expansión de sus servicios de primer y segundo piso.
 
-Se autoriza al Banco Central de Honduras (BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No.175-2008 de fecha 18 de diciembre de 2008; reformado mediante Decreto No. 67- 2009 de fecha 12 de mayo de 2009; Decreto No.57-2013 de fecha 16 de abril de 2013; Decreto No. 95-2014 de fecha 16 de octubre de 2014; Decreto No. 90-2016 del 19 de octubre de 2016; y, Decreto No.145-2018 del 28 de noviembre de 2018, pueda realizar gastos e inversiones que propicien la gestión de riesgos y/o el refinanciamiento y readecuación de deudas, a personas naturales o jurídicas deudoras del sistema financiero pertenecientes a sectores productivos, tales como MIPYME, Agropecuario, Forestal y otros sectores prioritarios en generación de empleo y/o divisas para el país; así como la contratación directa de billeteras electrónicas u otros mecanismos electrónicos que permitan el acceso a crédito a la Micro y Pequeña empresa de manera expedita y segura en todos los sectores productivos del país mediante las tecnologías de la información y la comunicación.
+Se autoriza al Banco Central de Honduras (BCH) y al Banco Hondureño de la Producción y Vivienda (BANHPROVI), en su calidad de Fideicomitente y Fiduciario respectivamente, para que con los recursos definidos en el Artículo 2 de la Ley de Apoyo Financiero para los Sectores Productivos de Honduras, contenida en el Decreto No. 175-2008 de fecha 18 de diciembre de 2008; reformado mediante Decreto No. 67-2009 de fecha 12 de mayo de 2009; Decreto No. 57-2013 de fecha 16 de abril de 2013; Decreto No. 95-2014 de fecha 16 de octubre de 2014; Decreto No. 90-2016 del 19 de octubre de 2016; y, Decreto No. 145-2018 del 28 de noviembre de 2018, pueda realizar gastos e inversiones que propicien la gestión de riesgos y/o el refinanciamiento y readecuación de deudas, a personas naturales o jurídicas deudoras del sistema financiero pertenecientes a sectores productivos, tales como MIPYME, Agropecuario, Forestal y otros sectores prioritarios en generación de empleo y/o divisas para el país; así como la contratación directa de billeteras electrónicas u otros mecanismos electrónicos que permitan el acceso a crédito a la Micro y Pequeña empresa de manera expedita y segura en todos los sectores productivos del país mediante las tecnologías de la información y la comunicación.
 
 #### Artículo 12
 
@@ -247,7 +245,7 @@ ARTÍCULO 23.- Se autoriza al Comité Técnico del Fondo de Inversión en Teleco
 
 ARTÍCULO 24.- Se autoriza al Comité Técnico del Fondo de Inversión en Telecomunicaciones y las Tecnologías de la Información y las Comunicaciones (FITT) para que mediante procesos abreviados, realice la adquisición de equipo, servicios, licencias informáticas que la Comisión Nacional de Telecomunicaciones (CONATEL) requiera, para dar cumplimiento a su mandato y garantizar el desarrollo del sector de Telecomunicaciones en el país en temas de regulación, supervisión y reducción de brecha digital, gobierno digital y desarrollo de teleeducación, teletrabajo, telesalud y demás sectores que se beneficiarán de la implementación de las herramientas de transformación tecnológica.
 
-SECCIÓN SÉPTIMA A P O R TA C I Ó N S O L I D A R I A PA R A E L MANTENIMIENTO TEMPORAL DE EMPLEOS E INGRESOS PARA LOS TRABAJADORES DURANTE LA VIGENCIA DE LA EMERGENCIA NACIONAL
+SECCIÓN SÉPTIMA A POR TA CIÓN SOLIDARIA PA R A E L MANTENIMIENTO TEMPORAL DE EMPLEOS E INGRESOS PARA LOS TRABAJADORES DURANTE LA VIGENCIA DE LA EMERGENCIA NACIONAL
 
 #### Artículo 25
 
@@ -353,7 +351,7 @@ ARTÍCULO 36.- SUSPENSIÓN DE INTERESES, MULTAS Y RECARGOS: Las medidas temporal
 
 ARTÍCULO 37.- REFORMA DE LA LEY DEL RAP:
 
-Reformar el Artículo 42 del Decreto No.107-2013, contentivo de la Ley del Régimen del Aportaciones Privadas (RAP), mismo que deberá leerse de la forma siguiente:
+Reformar el Artículo 42 del Decreto No. 107-2013, contentivo de la Ley del Régimen del Aportaciones Privadas (RAP), mismo que deberá leerse de la forma siguiente:
 
 “ARTÍCULO 42.- Obligaciones de Registro: Todas las empresas que cuentan con diez (10) o más empleados y aquellas que no estén inscritas a la fecha en el Régimen de Aportaciones Privadas (RAP) - Fondo Social para la Vivienda (FOSOVI), están obligadas a inscribirse e inscribir a sus trabajadores en el registro de cotizantes del Régimen de Aportaciones Privadas (RAP) a más tardar dentro de los sesenta (60) días siguientes a la publicación de esta Ley en el Diario Oficial “La Gaceta”; igualmente deben notificar al Régimen de Aportaciones Privadas (RAP) las nuevas contrataciones de trabajadores obligados a cotizar, o del cese de los mismos, dentro de los sesenta (60) días posteriores a la fecha de ocurrencia nombramiento o cesantía.
 
@@ -361,13 +359,13 @@ Asimismo, se faculta al Régimen de Aportaciones Privadas
 
 (RAP) a establecer mecanismos de afiliación voluntaria para que la micro y pequeña empresa puedan afiliar a sus trabajadores, o bien que cada persona natural pueda afiliarse voluntariamente” .
 
-SECCIÓN OCTAVA SIMPLIFICACIÓN ADMINISTRATIVA EN LA I M P L E M E N TA C I Ó N D E M E C A N I S M O S DE COMERCIO ELECTRÓNICO Y LA FIRMA E L E C T R Ó N I C A . A U TO R I Z A C I Ó N A L A IMPORTACIÓN DE MATERIAS PRIMAS E INSUMOS ZONAS LIBRES.
+SECCIÓN OCTAVA SIMPLIFICACIÓN ADMINISTRATIVA EN LA IMPLEMEN TA C I Ó N D E M E C A N I S M O S DE COMERCIO ELECTRÓNICO Y LA FIRMA ELECTRÓ N I C A . A U TO RIZACIÓN A LA IMPORTACIÓN DE MATERIAS PRIMAS E INSUMOS ZONAS LIBRES.
 
 #### Artículo 38
 
 ARTÍCULO 38.- Con el fin de permitir la continuidad en el funcionamiento del Estado y de las entidades privadas que prestan servicios esenciales para la sostenibilidad de la economía nacional sin causar niveles de exposición innecesarios entre las personas, deben tomarse las medidas siguientes:
 
-A) Reformar los artículos 7 y 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No.149- 2013), los cuales se deberán leer así:
+A) Reformar los artículos 7 y 27 de la LEY SOBRE FIRMAS ELECTRÓNICAS (Decreto No. 149-2013), los cuales se deberán leer así:
 
 “ARTÍCULO 7.- REQUERIMIENTO DE
 
@@ -413,7 +411,7 @@ Las entidades gubernamentales deben habilitar las cuentas que correspondan para 
 
 El formato electrónico que se emplee para pagar equivaldrá a un TGR en formato electrónico a fin de que el mismo pueda hacerse en línea al hacer el pago correspondiente.
 
-F) Todas las entidades gubernamentales en cumplimiento a lo dispuesto en los artículos 61, 87 y 88 de la Ley de Procedimiento Administrativo reformados mediante Decreto No.266-2013, deben realizar todas las notificaciones de actos administrativos incluyendo autos y resoluciones mediante el uso de correo electrónico. Para dar cumplimiento a esta disposición, los secretarios generales o funcionarios que ejerzan dicha función en las instituciones deberán requerir a los solicitantes y sus apoderados legales las direcciones de correo electrónico a las cuales deban realizarse las notificaciones correspondientes en el plazo de una semana a partir de la entrada en vigencia de esta Ley. La notificación electrónica surte los mismos efectos que la notificación personal y deberá hacerse tanto al apoderado legal como al beneficiario del trámite dentro de los plazos establecidos en la Ley de Procedimiento Administrativo.
+F) Todas las entidades gubernamentales en cumplimiento a lo dispuesto en los artículos 61, 87 y 88 de la Ley de Procedimiento Administrativo reformados mediante Decreto No. 266-2013, deben realizar todas las notificaciones de actos administrativos incluyendo autos y resoluciones mediante el uso de correo electrónico. Para dar cumplimiento a esta disposición, los secretarios generales o funcionarios que ejerzan dicha función en las instituciones deberán requerir a los solicitantes y sus apoderados legales las direcciones de correo electrónico a las cuales deban realizarse las notificaciones correspondientes en el plazo de una semana a partir de la entrada en vigencia de esta Ley. La notificación electrónica surte los mismos efectos que la notificación personal y deberá hacerse tanto al apoderado legal como al beneficiario del trámite dentro de los plazos establecidos en la Ley de Procedimiento Administrativo.
 
 G) Durante el período que dure la emergencia del COVID-19, las empresas para entrega a domicilio o de ventas en línea que se creen en el país no requerirán tramitar permiso alguno para operar.
 

@@ -11,7 +11,7 @@ paginas: "A. 5 - 7"
 sumario: "Acuerdos Ejecutivos Nos. 013-2023, 1712023, Acuerdos Nos. 125-2023, 0169-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230519-36232/download"
 extraido: "2026-11-14"
-huella: "0263bbbff2dc0adf"
+huella: "ae7d6d5ea1c7a13d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 125-2023
@@ -41,17 +41,15 @@ CONSIDERANDO: Que la delegación de funciones se ha concebido con el propósito 
 
 CONSIDERANDO: Que el Artículo 4, párrafo segundo de la Ley de Procedimiento Administrativo establece que el superior podrá delegar el ejercicio de sus funciones para asuntos concretos, siempre que la competencia sea atribuida genéricamente al ramo de la Administración de que forman parte el superior y el inferior.
 
-CONSIDERANDO: Que mediante Memorándum RRHH- 188-2023 la Jefatura de Recursos Humanos Por Delegación, solicitó a Secretaría General el Acuerdo de Delegación a favor del Abogado JOSÉ JOAQUIN CASTRO DUBON, Oficial Jurídico I, asignado al Programa de Consolidación Familiar facultades correspondientes al programa, a partir del día uno (1) de abril del año dos mil veintitrés (2023).
+CONSIDERANDO: Que mediante Memorándum RRHH-188-2023 la Jefatura de Recursos Humanos Por Delegación, solicitó a Secretaría General el Acuerdo de Delegación a favor del Abogado JOSÉ JOAQUIN CASTRO DUBON, Oficial Jurídico I, asignado al Programa de Consolidación Familiar facultades correspondientes al programa, a partir del día uno (1) de abril del año dos mil veintitrés (2023).
 
 POR TANTO
 
-En aplicación de los Artículos 116, 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM- 27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM- 027-2014 de fecha 4 de junio de 2014.
+En aplicación de los Artículos 116, 119 y 321 de la Constitución de la República, 36, numerales 8 y 19; 116, 122 y 123 de la Ley General de la Administración Pública; 3, 4, 5, 22, 23, 24, 25, 26, 27, 30 y 92 de la Ley de Procedimiento Administrativo, Decreto Ejecutivo PCM-27-2014 del 06 de junio de 2014, artículo 2 del Decreto Legislativo Número 34-2021 publicado en el Diario Oficial La Gaceta, en fecha 16 de julio del año 2021, mediante el cual se ratifican las disposiciones contenidas en el Decreto Ejecutivo No. PCM-027-2014 de fecha 4 de junio de 2014.
 
 ACUERDA
 
-PRIMERO: Dejar sin valor y efecto el Acuerdo N°.
-
-424-2022, de fecha 22 de septiembre del 2022, mediante el cual se delegan facultades correspondientes al Programa de Consolidación Familiar al abogado JOSÉ ENRIQUE AGUILAR.
+PRIMERO: Dejar sin valor y efecto el Acuerdo N°. 424-2022, de fecha 22 de septiembre del 2022, mediante el cual se delegan facultades correspondientes al Programa de Consolidación Familiar al abogado JOSÉ ENRIQUE AGUILAR.
 
 SEGUNDO: Delegar en el Abogado JOSÉ JOAQUIN CASTRO DUBON, con Documento Nacional de Identificación 0801-1990-10397, Oficial Jurídico I de esta Dirección, las funciones que correspondan al Programa de Consolidación Familiar, a partir del uno (1) de abril del año 2023, según Memorandum- RRHH-188-2023, con las siguientes facultades:
 

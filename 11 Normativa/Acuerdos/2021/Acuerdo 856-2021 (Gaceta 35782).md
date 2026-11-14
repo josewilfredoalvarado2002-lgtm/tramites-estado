@@ -11,7 +11,7 @@ paginas: "A. 18 - 19"
 sumario: "Acuerdos números 819-2021, 856-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211126-35782/download"
 extraido: "2026-11-14"
-huella: "ceccf4ad8e18238f"
+huella: "9e9feaa8facd5c92"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 856-2021
@@ -35,7 +35,7 @@ CONSIDERANDO: Que los citados funcionarios les corresponden el conocimiento y re
 
 CONSIDERANDO: Que corresponde a los Secretarios de Estado emitir acuerdos y resoluciones en los asuntos de su competencia y en aquellos que les delegue el Presidente de la República y que la firma de esos actos será autorizada por el Secretario General respectivo.
 
-CONSIDERANDO: Que el artículo 34 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, reformado mediante Decreto No. 18- 2021, establece: “Excepcionalmente y para mitigar los efectos de la pandemia del COVID-19 y de las tormentas tropicales ETA e IOTA, se podrá dar autorización de modificaciones presupuestarias que afecten asignaciones consignadas para gastos de capital para financiar gastos corrientes de cualquier fuente de financiamiento, debiendo contar con la aprobación del Presidente de la República y el mismo se formalizará mediante Acuerdo Ejecutivo, previo a su aprobación, se deberá conocer la opinión de la Comisión Intrainstitucional de la Secretaría de Estado en el Despacho de Finanzas”.
+CONSIDERANDO: Que el artículo 34 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, reformado mediante Decreto No. 18-2021, establece: “Excepcionalmente y para mitigar los efectos de la pandemia del COVID-19 y de las tormentas tropicales ETA e IOTA, se podrá dar autorización de modificaciones presupuestarias que afecten asignaciones consignadas para gastos de capital para financiar gastos corrientes de cualquier fuente de financiamiento, debiendo contar con la aprobación del Presidente de la República y el mismo se formalizará mediante Acuerdo Ejecutivo, previo a su aprobación, se deberá conocer la opinión de la Comisión Intrainstitucional de la Secretaría de Estado en el Despacho de Finanzas”.
 
 CONSIDERANDO: Que esta Secretaría de Estado en el Despacho de Finanzas deviene obligada a conformar la mencionada Comisión Intrainstitucional que señala el artículo 34 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, a efecto que sus integrantes cuenten así con la debida autorización para emitir opiniones sobre modificaciones presupuestarias que afecten asignaciones consignadas para gastos de capital para financiar gastos corrientes de cualquier fuente de financiamiento, como paso previo a la aprobación de esas modificaciones por parte del Presidente de la República, autorización que se formalizará mediante acuerdo ejecutivo.
 
@@ -47,7 +47,7 @@ ACUERDA:
 
 PRIMERO:
 
-C o n f o r m a r l a C o m i s i ó n Intrainstitucional de esta Secretaría de Estado, señalada en el artículo 34 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, reformado mediante Decreto No. 18-2021, dicha Comisión estará integrada por los titulares de la Dirección General de Política Macro Fiscal fungiendo como coordinador, Dirección General de Presupuesto y la Dirección General de Inversión Pública.
+Conformar la Comisión Intrainstitucional de esta Secretaría de Estado, señalada en el artículo 34 del Presupuesto General de Ingresos y Egresos de la República, Ejercicio Fiscal 2021, reformado mediante Decreto No. 18-2021, dicha Comisión estará integrada por los titulares de la Dirección General de Política Macro Fiscal fungiendo como coordinador, Dirección General de Presupuesto y la Dirección General de Inversión Pública.
 
 SEGUNDO:
 

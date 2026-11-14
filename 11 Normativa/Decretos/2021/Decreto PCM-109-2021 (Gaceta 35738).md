@@ -11,7 +11,7 @@ paginas: "A. 12 - 16"
 sumario: "Decreto Ejecutivo número PCM-109-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211005-35738/download"
 extraido: "2026-11-14"
-huella: "4920b3935b24bdaf"
+huella: "8e5d350244d793be"
 ---
 <!-- portal:inicio -->
 # DECRETO EJECUTIVO NÚMERO PCM-109-2021
@@ -39,9 +39,7 @@ CONSIDERANDO: Que el Consejo de Secretarios de Estado tiene entre otras atribuci
 
 CONSIDERANDO: Que el Gobierno de la República tiene como primer objetivo dentro de la Visión de País contar con una Honduras sin pobreza extrema, educada, sana y con sistemas de previsión social.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,171 del 10 febrero 2020; Decreto Ejecutivo número PCM-016-2020 publicado en el Diario Oficial “La Gaceta”, Edición No.35,123 del 06 de marzo del 2020; Decreto Ejecutivo número PCM 020-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,201 del 16 de marzo del 2020; Decreto Ejecutivo número PCM-023- 2020 publicado en el Diario Oficial “La Gaceta”, Edición No.
-
-35,206 del 21 de marzo del 2020; Decreto Ejecutivo número PCM-025-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,212 del 28 de marzo del 2020; el Decreto Legislativo No. 31-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,199 del 13 de marzo 2020; Decreto Ejecutivo número PCM-146-2020 publicado en el Diario Oficial “La Gaceta”, Edición No.35,472 del 29 de diciembre de 2020; se declara y prorroga la Emergencia por la pandemia COVID-19.
+CONSIDERANDO: Que mediante Decreto Ejecutivo Número PCM-005-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,171 del 10 febrero 2020; Decreto Ejecutivo número PCM-016-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,123 del 06 de marzo del 2020; Decreto Ejecutivo número PCM 020-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,201 del 16 de marzo del 2020; Decreto Ejecutivo número PCM-023-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,206 del 21 de marzo del 2020; Decreto Ejecutivo número PCM-025-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,212 del 28 de marzo del 2020; el Decreto Legislativo No. 31-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,199 del 13 de marzo 2020; Decreto Ejecutivo número PCM-146-2020 publicado en el Diario Oficial “La Gaceta”, Edición No. 35,472 del 29 de diciembre de 2020; se declara y prorroga la Emergencia por la pandemia COVID-19.
 
 CONSIDERANDO: Que el Presidente de la República en Consejo de Secretarios de Estado aprobó el Decreto Ejecutivo Número PCM-109-2020, publicado en el Diario Oficial “La Gaceta” en fecha 2 de noviembre del 2020, reformado mediante Decretos Ejecutivos Números: PCM-112-2020, PCM-115-2020, PCM-116-2020 y PCM-147-2020 publicado en el Diario Oficial “La Gaceta” Edición No. 35,472 del 29 de diciembre de 2020; se declara y prorroga el estado de emergencia a nivel nacional por los efectos de las fuertes lluvias ocasionadas por las Tormentas Tropicales “ETA” e “IOTA”.
 
@@ -59,11 +57,9 @@ POR TANTO:
 
 En aplicación de los Artículos: 245 numerales 2, 11, 19 y 35, 252 de la Constitución de la República; 7, 11, 17, 18, 20 y 22 de la Ley General de la Administración Pública y su reforma;
 
-Decreto Legislativo No. 31-2020, Decreto Legislativo No.
+Decreto Legislativo No. 31-2020, Decreto Legislativo No. 182-2020, Artículo 283; y, Decretos Ejecutivos números:
 
-182-2020, Artículo 283; y, Decretos Ejecutivos números:
-
-PCM-010-2010, PCM-005-2020, PCM-016-2020, PCM 020-2020, PCM-023-2020, PCM 025-2020, PCM-109-2020, PCM-112-2020, PCM-115-2020, PCM-116-2020, PCM-146- 2020 y PCM-147-2020.
+PCM-010-2010, PCM-005-2020, PCM-016-2020, PCM 020-2020, PCM-023-2020, PCM 025-2020, PCM-109-2020, PCM-112-2020, PCM-115-2020, PCM-116-2020, PCM-146-2020 y PCM-147-2020.
 
 DECRETA:
 

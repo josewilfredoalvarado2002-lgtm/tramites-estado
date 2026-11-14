@@ -11,7 +11,7 @@ paginas: "A. 36 - 44"
 sumario: "Decreto No. 8-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200214-35175/download"
 extraido: "2026-11-14"
-huella: "cc84eb7d8083bc1f"
+huella: "92e72a76e9066291"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 8-2020
@@ -35,7 +35,7 @@ CONSIDERANDO: Que la generación masiva de empleo que como objetivo tuvieron los
 
 CONSIDERANDO: Que los incentivos fiscales contenidos en la Ley, constituyen el hecho generador de la atracción de inversión generado por las Zonas Libres, por lo que cualquier distorsión en el goce de estos beneficios, puede generar deserción de la inversión y la desmotivación para atraer nuevas inversiones, considerando que Honduras compite con países que en el afán de superar a nuestro país han creado leyes con beneficios fiscales que en el tiempo resultan más atractivos que los nuestros.
 
-CONSIDERANDO: Que el Decreto No.131-98, de fecha 30 de Abril de 1998, que contiene la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, en su Artículo 17, establece lo siguiente: “Cambiar la denominación de la Ley Constitutiva de la Zona Libre de Puerto Cortés, contenida en el Decreto No.356 del 19 de Julio de 1976 y publicado en el Diario Oficial “ La Gaceta” el 21 de Julio 1976, Edición No.21,947 por Ley de Zonas Libres y extender los beneficios y las disposiciones de la misma en todo el territorio nacional”.
+CONSIDERANDO: Que el Decreto No. 131-98, de fecha 30 de Abril de 1998, que contiene la Ley de Estímulo a la Producción, a la Competitividad y Apoyo al Desarrollo Humano, en su Artículo 17, establece lo siguiente: “Cambiar la denominación de la Ley Constitutiva de la Zona Libre de Puerto Cortés, contenida en el Decreto No. 356 del 19 de Julio de 1976 y publicado en el Diario Oficial “ La Gaceta” el 21 de Julio 1976, Edición No. 21,947 por Ley de Zonas Libres y extender los beneficios y las disposiciones de la misma en todo el territorio nacional”.
 
 CONSIDERANDO: Que Honduras requiere del aumento de la Inversión nacional y extranjera para continuar creciendo en fuentes de trabajo que generen empleo masivo, objetivo que no podríamos lograr sin hacer reformas a la Ley de Zona Libre de Puerto Cortés que nos hagan más competitivos como país, garantizando el goce de beneficios fiscales en el tiempo, haciendo expeditos los trámites a que están sujetas las empresas que se adhieren al Régimen de Zona Libre y garantizando la Seguridad Jurídica en la aplicación de esta Ley mediante normas orientadas al alcance de estos objetivos.
 
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad a lo establecido en el Artículo 205, Atribuci�
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los Artículos 1, 2, 3, 5, 12, 16 y 19 del Decreto No.356, de fecha 19 de Julio de 1976, que contiene la LEY CONSTITUTIVA DE LA ZONA LIBRE DE PUERTO CORTÉS, publicado en el Diario Oficial “La Gaceta” en fecha 21 de Julio de 1976, Edición No. 21, 947; reformada mediante Decreto No.131-98, fechado 30 de Abril de 1998, publicado en el Diario Oficial La Gaceta en fecha 20 de Mayo de 1998, Edición No. 28, 566, mediante el cual se cambió la denominación de la referida Ley por el de LEY DE ZONAS LIBRES, los que deben leerse de la manera siguiente:
+ARTÍCULO 1.- Reformar los Artículos 1, 2, 3, 5, 12, 16 y 19 del Decreto No. 356, de fecha 19 de Julio de 1976, que contiene la LEY CONSTITUTIVA DE LA ZONA LIBRE DE PUERTO CORTÉS, publicado en el Diario Oficial “La Gaceta” en fecha 21 de Julio de 1976, Edición No. 21, 947; reformada mediante Decreto No. 131-98, fechado 30 de Abril de 1998, publicado en el Diario Oficial La Gaceta en fecha 20 de Mayo de 1998, Edición No. 28, 566, mediante el cual se cambió la denominación de la referida Ley por el de LEY DE ZONAS LIBRES, los que deben leerse de la manera siguiente:
 
 “ARTÍCULO 1.- Créase el Régimen de Zonas Libres, el cual tiene por objeto brindar facilidades a la industria, comercio, exportación y reexportación de bienes y/o servicios por medio de empresas nacionales y extranjeras mediante una regulación especial para el desarrollo de sus actividades que deben estar sujetas a las disposiciones de esta Ley y su Reglamento.
 
@@ -85,7 +85,7 @@ Las Operadoras-Usuarias y Usuarias tienen la obligación de mantener un registro
 
 #### Artículo 2
 
-ARTÍCULO 2.- Reformar por adición el Decreto No.356 del 19 de julio de 1976, que contiene la LEY DE ZONA LIBRE y publicado en el Diario Oficial “La Gaceta” el 21 de julio de 1976, edición No.21,947 en el sentido de adicionar los Artículos 2-A, 2-B, 4-A, 4-B, 4-C, 5-A, 5-B, 9-A, 10-A, 10-B, 10-C, 15-A y 15-B, los cuales deben leerse de la forma siguiente:
+ARTÍCULO 2.- Reformar por adición el Decreto No. 356 del 19 de julio de 1976, que contiene la LEY DE ZONA LIBRE y publicado en el Diario Oficial “La Gaceta” el 21 de julio de 1976, edición No. 21,947 en el sentido de adicionar los Artículos 2-A, 2-B, 4-A, 4-B, 4-C, 5-A, 5-B, 9-A, 10-A, 10-B, 10-C, 15-A y 15-B, los cuales deben leerse de la forma siguiente:
 
 “ARTÍCULO 2-A.- Para efectos de la presente Ley, se entiende por:
 
@@ -95,7 +95,7 @@ EMPRESA: Clasificación de las empresas conforme a la clasificación para efecto
 
 \2) BENEFICIOS E INCENTIVOS
 
-F I S C A L E S : E x e n c i o n e s y exoneraciones que concede la Ley a las empresas acogidas al Régimen de Zonas Libres;
+FISCALES: Exenciones y exoneraciones que concede la Ley a las empresas acogidas al Régimen de Zonas Libres;
 
 \3) EXPORTACIÓN: Es la salida de mercancías del área restringida con destino al extranjero, después de haber sufrido un proceso de transformación o manufactura;
 
@@ -133,7 +133,7 @@ La exoneración del Impuesto Sobre la Renta (ISR) y Conexos, se debe autorizar a
 
 La exención del pago de impuestos y contribuciones municipales contenida en esta Ley exime el cumplimiento de las obligaciones formales y materiales derivadas de dichos impuestos, con excepción de las obligaciones formales y materiales derivadas del impuesto vecinal.” “ARTÍCULO 4-B.- Los beneficios e incentivos fiscales que concede esta Ley a las empresas que operan en zona libre, se otorgan mientras las mismas estén acogidas y operando en el citado régimen, con excepción del Impuesto Sobre la Renta (ISR) e impuestos conexos, los cuales se conceden por un término de quince (15) años prorrogables, a su terminación, por diez (10) años más; esta prórroga es autorizada por la Secretaría de Estado en el Despacho de Desarrollo Económico, bajo los criterios establecidos en el Reglamento de la presente Ley.
 
-Las empresas a quienes se les haya autorizado operar dentro del Régimen de Zona Libre al amparo del Decreto No.356 del 19 de julio de 1976, Edición No. 21,947 publicado en el Diario Oficial La “Gaceta” el 21 de julio de 1976 y del Decreto No.278-2013 de fecha 21 de diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 30 de diciembre de 2013, Edición No. 33,316 que contiene la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, quedan comprendidas dentro de lo que establece el párrafo anterior, en consecuencia, gozan de dichos beneficios en la forma establecida en esta disposición.” “ARTÍCULO 4-C.- Autorizar las empresas que operan bajo este régimen para hacer donaciones de maquinaria, equipo, producto terminado o materias primas a instituciones del Sector Público.
+Las empresas a quienes se les haya autorizado operar dentro del Régimen de Zona Libre al amparo del Decreto No. 356 del 19 de julio de 1976, Edición No. 21,947 publicado en el Diario Oficial La “Gaceta” el 21 de julio de 1976 y del Decreto No. 278-2013 de fecha 21 de diciembre del 2013 y publicado en el Diario Oficial “La Gaceta” el 30 de diciembre de 2013, Edición No. 33,316 que contiene la Ley de Ordenamiento de las Finanzas Públicas, Control de las Exoneraciones y Medidas Antievasión, quedan comprendidas dentro de lo que establece el párrafo anterior, en consecuencia, gozan de dichos beneficios en la forma establecida en esta disposición.” “ARTÍCULO 4-C.- Autorizar las empresas que operan bajo este régimen para hacer donaciones de maquinaria, equipo, producto terminado o materias primas a instituciones del Sector Público.
 
 La Secretaría de Estado en el Despacho de Desarrollo Económico en conjunto con la Autoridad Aduanera debe emitir el Acuerdo Ejecutivo que debe reglamentar el procedimiento de Donación.” “ARTÍCULO 5-A.- Las empresas nacionales o extranjeras, una vez incorporadas al Régimen de Zona Libre deben realizar su inscripción en el Registro de Exonerados, a cargo de la Dirección General de Control de Franquicias Aduaneras de la Secretaría de Estado en el Despacho de Finanzas, dentro de un plazo de quince (15) días hábiles, después de firme la resolución de incorporación emitida por la Secretaría de Estado en el Despacho de Desarrollo Económico; la Secretaría de Estado en el Despacho de Finanzas, conforme al principio de simplificación administrativa y tutelando el derecho de los obligados tributarios, debe compartir de manera electrónica con el Servicio Aduanero, la documentación que obra en el Expediente Único del Registro de Exonerados.
 
@@ -173,7 +173,7 @@ En caso de modificación a sus planes iniciales debe solicitar la aprobación pr
 
 #### Artículo 3
 
-ARTÍCULO 3.- Reformar el Artículo 31 del Decreto No.113-2011, de fecha 24 de junio de 2011 que contiene la LEY DE EFICIENCIA EN LOS INGRESOS Y EL GASTO PÚBLICO, publicada en el Diario Oficial “La Gaceta” el 8 de julio de 2011, Edición No 32,562 y sus reformas, el cual debe leerse de la manera siguiente:
+ARTÍCULO 3.- Reformar el Artículo 31 del Decreto No. 113-2011, de fecha 24 de junio de 2011 que contiene la LEY DE EFICIENCIA EN LOS INGRESOS Y EL GASTO PÚBLICO, publicada en el Diario Oficial “La Gaceta” el 8 de julio de 2011, Edición No 32,562 y sus reformas, el cual debe leerse de la manera siguiente:
 
 “ARTÍCULO 31.- AUTORIZACIÓN.
 
@@ -187,7 +187,7 @@ Los importadores del mercado nacional que adquieran bienes o servicios producido
 
 #### Artículo 4
 
-ARTÍCULO 4.- Derogar el Artículo 45 del Decreto No.51- 2003, de fecha 03 de abril 2003 que contiene la LEY DE EQUIDAD TRIBUTARIA, publicada en el Diario Oficial “La Gaceta”, el 10 de abril del 2003, Edición No. 30,059.
+ARTÍCULO 4.- Derogar el Artículo 45 del Decreto No. 51-2003, de fecha 03 de abril 2003 que contiene la LEY DE EQUIDAD TRIBUTARIA, publicada en el Diario Oficial “La Gaceta”, el 10 de abril del 2003, Edición No. 30,059.
 
 #### Artículo 5
 

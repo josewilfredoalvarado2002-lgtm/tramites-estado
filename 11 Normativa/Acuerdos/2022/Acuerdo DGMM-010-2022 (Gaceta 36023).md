@@ -11,7 +11,7 @@ paginas: "A. 11 - 12"
 sumario: "Acuerdo No. DGMM/010-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220908-36023/download"
 extraido: "2026-11-14"
-huella: "0f6c64826cd476bc"
+huella: "9cc6fe90f75b3090"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. DGMM/010-2022
@@ -35,9 +35,9 @@ CONSIDERANDO: Que de conformidad al artículo 118, numeral 2 de la Ley General d
 
 CONSIDERANDO: Que la Dirección General de la Marina Mercante está a cargo de la administración, control y coordinación de todas las actividades relacionadas con la marina mercante, el transporte marítimo, la seguridad marítima, la protección del medio ambiente marino, en particular la formación y titulación de gente de mar.
 
-CONSIDERANDO: Mediante Acuerdo DGMM No.016- 2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
+CONSIDERANDO: Mediante Acuerdo DGMM No. 016-2015 de fecha 03 de junio de 2015, se aprobaron los Requisitos para el Reconocimiento de Centros de Formación Marítima acorde al STCW 78 en su forma enmendada.
 
-CONSIDERANDO: Que la Aplicación del Acuerdo 016- 2015 reformado, ha permitido la consideración de la reforma de sus disposiciones, con el propósito de desarrollar medidas de control que permitan garantizar el efectivo cumplimiento de la normativa nacional e internacional.
+CONSIDERANDO: Que la Aplicación del Acuerdo 016-2015 reformado, ha permitido la consideración de la reforma de sus disposiciones, con el propósito de desarrollar medidas de control que permitan garantizar el efectivo cumplimiento de la normativa nacional e internacional.
 
 POR TANTO
 

@@ -11,7 +11,7 @@ paginas: "A. 4 - 8"
 sumario: "Decreto No. 59-2024, 61-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240725-36595/download"
 extraido: "2026-11-14"
-huella: "b8ad364a6bdcc766"
+huella: "b8f8bdbf5eab3269"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 61-2024
@@ -55,7 +55,7 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 LA SIGUIENTE:
 
@@ -89,7 +89,7 @@ ARTÍCULO 6.- CAPACITACIÓN. La Secretaría de Estado en el Despacho de Educaci�
 
 Asimismo, deben realizar guías multimedia con programas y proyectos para actividades de restauración y preservación ambiental, incluidas las técnicas de reforestación, reciclaje, conservación del agua y manejo de residuos.
 
-E s t a s a c t i v i d a d e s d e b e n s e r complementarias a lo establecido en el Decreto No.117-2022, del 25 de Octubre de 2022, publicado en el Diario Oficia “La Gaceta” de fecha 21 de Noviembre de 2022, relativo a la Educación Ambiental y Cambio Climático en el Currículo Nacional Básico.
+Estas actividades deben ser complementarias a lo establecido en el Decreto No. 117-2022, del 25 de Octubre de 2022, publicado en el Diario Oficia “La Gaceta” de fecha 21 de Noviembre de 2022, relativo a la Educación Ambiental y Cambio Climático en el Currículo Nacional Básico.
 
 #### Artículo 7
 

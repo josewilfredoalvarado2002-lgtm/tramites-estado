@@ -11,7 +11,7 @@ paginas: "A. 28"
 sumario: "Acuerdo No. 518-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230922-36340/download"
 extraido: "2026-11-14"
-huella: "bdafd8b0140169ed"
+huella: "680160f830b75cc5"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 518-2023
@@ -33,7 +33,7 @@ huella: "bdafd8b0140169ed"
 
 ACUERDA
 
-PRIMERO: Delegar funcionalmente al ciudadano, SANTOS DONALDO GARCÍA SERVELLÓN, quien posee el Documento Nacional de Identificación 0801-1964- 05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028- 2022, desde el día 18 al día 27 de septiembre del año 2023.
+PRIMERO: Delegar funcionalmente al ciudadano, SANTOS DONALDO GARCÍA SERVELLÓN, quien posee el Documento Nacional de Identificación 0801-1964-05064, en el cargo de COMISIONADO PRESIDENTE, con la facultad de Firmar; Certificados, Licencias, Registros, Modificaciones, correcciones, sustancias controladas y todo lo relacionado con la competencia de la Comisionada Presidenta a excepción de lo delegado en Acuerdo No. 028-2022, desde el día 18 al día 27 de septiembre del año 2023.
 
 SEGUNDO: El presente Acuerdo es efectivo a partir del 18 al 27 de septiembre del 2023.
 

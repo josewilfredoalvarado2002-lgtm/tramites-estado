@@ -11,7 +11,7 @@ paginas: "A. 13 - 48"
 sumario: "Acuerdos Nos. 004-PROASOL-2023, Convenio 008-SG-PROASOL-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230829-36320/download"
 extraido: "2026-11-14"
-huella: "b3cc656b67e439dc"
+huella: "ad71f31a01862b3d"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 004-PROASOL-2023
@@ -33,7 +33,7 @@ CONSIDERANDO: Que el artículo 255 de la Constitución de la República establec
 
 CONSIDERANDO: Que el artículo 30 párrafo tercero de la Ley General de la Administración Pública establece que el Secretario General tendrá funciones de fedatario y será responsable de coordinar los servicios legales, la comunicación institucional y la cooperación externa relacionada con la correspondiente Secretaría de Estado.
 
-CONSIDERANDO: El artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerán jerárquicamente de un órgano central, se les tribuye competencia propia, la cual ejercitan con autonomía técnica- administrativa y financiera.
+CONSIDERANDO: El artículo 43 de la Ley General de la Administración Pública establece que la desconcentración funcional se verifica mediante la creación de entidades u órganos que, no obstante, dependerán jerárquicamente de un órgano central, se les tribuye competencia propia, la cual ejercitan con autonomía técnica-administrativa y financiera.
 
 CONSIDERANDO: El artículo 116 de la Ley General de la Administración Pública establece que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias.
 
@@ -1067,7 +1067,7 @@ LIC. OLGA LYDIA DIAZ MELENDEZ
 
 Directora Ejecutiva del Programa de Acción Solidaria (PROASOL) ABG. YESICA CAROLINA MOLINA ROMERO Secretaria General ACUERDO No. 004-PROASOL-2023 –PAG. 33-33 ESTRUCTURA ORGANIZATIVA DEL PROGRAMA DE ACCION SOLIDARIA (PROASOL) Programa de Acción Solidaria (PROASOL) CONVENIO 008-SG-PROASOL-2023 CONVENIO DE COOPERACIÓN INTERINSTITUCIONAL, ENTRE EL PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL) Y LA FUNDACIÓN HONDUREÑA PARA EL NIÑO CON CÁNCER, PARA LA ENTREGA DE TRANSFERENCIAS MONETARIAS A NIÑOS Y NIÑAS CON CUALQUIER PATOLOGIA DE CANCER DENOMINADO “BONO VALIENTE”.
 
-Nosotros, OLGA LYDIA DIAZ MELENDEZ, mayor de edad, Licenciada en Educación, hondureña, de este domicilio, con Documento Nacional de Identificación (DNI) No.1503- 1966-00160, actuando en mi condición de Directora Ejecutiva del PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL), adscrita a la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL) nombrada mediante Acuerdo Ejecutivo número 415-2022 de fecha veinticuatro (24) de agosto de dos mil veintidós (2022), quien en lo sucesivo se denominará “PROASOL” y NUBIA GERALDINA MENDOZA GALLARDO, mayor de edad, hondureña, casada, Licenciada en Administración de Empresas, portadora del Documento Nacional de Identificación (DNI) No. 0801-1963-03918, con domicilio en la ciudad de Tegucigalpa, actuando en mi condición de Presidente y Representante Legal de la FUNDACIÓN HONDUREÑA PARA EL NIÑO CON CÁNCER, Organización No Gubernamental, con cobertura a nivel nacional, con Personalidad Jurídica otorgada por la Secretaría de Estado en los Despachos de Gobernación y Justicia, mediante Resolución número 28-89, de fecha 7 de abril de 1989 y, registrada en la URSAC con Número 2003002260, en adelante denominada “LA FUNDACIÓN”; ambas partes con facultades legales, hemos convenido en celebrar el presente CONVENIO DE COOPERACIÓN INTERINSTITUCIONAL, ENTRE EL PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL) Y LA FUNDACIÓN HONDUREÑA PARA EL NIÑO CON CÁNCER, PARA LA ENTREGA DE TRANSFERENCIAS MONETARIAS A NIÑOS Y NIÑAS CON CUALQUIER PATOLOGIA DE CÁNCER DENOMINADO “BONO VALIENTE” de acuerdo a las cláusulas siguientes:
+Nosotros, OLGA LYDIA DIAZ MELENDEZ, mayor de edad, Licenciada en Educación, hondureña, de este domicilio, con Documento Nacional de Identificación (DNI) No. 1503-1966-00160, actuando en mi condición de Directora Ejecutiva del PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL), adscrita a la Secretaría de Estado en el Despacho de Desarrollo Social (SEDESOL) nombrada mediante Acuerdo Ejecutivo número 415-2022 de fecha veinticuatro (24) de agosto de dos mil veintidós (2022), quien en lo sucesivo se denominará “PROASOL” y NUBIA GERALDINA MENDOZA GALLARDO, mayor de edad, hondureña, casada, Licenciada en Administración de Empresas, portadora del Documento Nacional de Identificación (DNI) No. 0801-1963-03918, con domicilio en la ciudad de Tegucigalpa, actuando en mi condición de Presidente y Representante Legal de la FUNDACIÓN HONDUREÑA PARA EL NIÑO CON CÁNCER, Organización No Gubernamental, con cobertura a nivel nacional, con Personalidad Jurídica otorgada por la Secretaría de Estado en los Despachos de Gobernación y Justicia, mediante Resolución número 28-89, de fecha 7 de abril de 1989 y, registrada en la URSAC con Número 2003002260, en adelante denominada “LA FUNDACIÓN”; ambas partes con facultades legales, hemos convenido en celebrar el presente CONVENIO DE COOPERACIÓN INTERINSTITUCIONAL, ENTRE EL PROGRAMA DE ACCIÓN SOLIDARIA (PROASOL) Y LA FUNDACIÓN HONDUREÑA PARA EL NIÑO CON CÁNCER, PARA LA ENTREGA DE TRANSFERENCIAS MONETARIAS A NIÑOS Y NIÑAS CON CUALQUIER PATOLOGIA DE CÁNCER DENOMINADO “BONO VALIENTE” de acuerdo a las cláusulas siguientes:
 
 ANTECEDENTES
 
@@ -1183,7 +1183,7 @@ Centro Cívico Gubernamental, Torre 2, piso 1, Boulevard Juan Pablo II, Teguciga
 
 LA FUNDACION HONDUREÑA PARA EL NIÑO CON
 
-CÁNCER: Oficina Principal, Colonia Alameda, calle Alfonso Guillén Zelaya, Casa No. 1236, Tegucigalpa, Municipio del Distrito Central, Honduras, C.A. Teléfonos: 2235-8774/ 2235- 6108, FAX: 2222-7642.
+CÁNCER: Oficina Principal, Colonia Alameda, calle Alfonso Guillén Zelaya, Casa No. 1236, Tegucigalpa, Municipio del Distrito Central, Honduras, C.A. Teléfonos: 2235-8774/ 2235-6108, FAX: 2222-7642.
 
 CLÁUSULA DÉCIMA TERCERA: NOMBRAMIENTO DEL ENLACE.
 

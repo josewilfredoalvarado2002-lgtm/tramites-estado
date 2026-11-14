@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Acuerdos Ministeriales Nos. 009-2023, 010-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230621-36260/download"
 extraido: "2026-11-14"
-huella: "7212a4cfe09a715c"
+huella: "016e7c36af1fc10a"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 010-2023
@@ -35,7 +35,7 @@ CONSIDERANDO: Que de conformidad a lo establecido en el artículo trece (13) de 
 
 CONSIDERANDO: Que de conformidad a lo establecido en el artículo treinta y seis (36) de la Ley General de la Administración Pública, en el numeral ocho (8), los Secretarios de Estado tienen las atribuciones y deberes comunes de emitir los acuerdos y resoluciones de los asuntos de su competencia y aquellos que le delegue el Presidente de la República, y cuidar de su ejecución. La firma de los Secretarios de Estado en estos actos, será autorizada por los respectivos Secretarios Generales.
 
-CONSIDERANDO: Que en el Decreto Ejecutivo PCM-05- 2022, publicado en el Diario Oficial “La Gaceta” en su edición No. 35,892 de fecha seis (06) de abril de dos mil veintidós (2022), en su Artículo siete (7), se crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura. Esta Secretaría contará con dos Subsecretarías:
+CONSIDERANDO: Que en el Decreto Ejecutivo PCM-05-2022, publicado en el Diario Oficial “La Gaceta” en su edición No. 35,892 de fecha seis (06) de abril de dos mil veintidós (2022), en su Artículo siete (7), se crea la Secretaría de Estado en los Despachos de Infraestructura y Transporte (SIT), con la finalidad de desarrollar los proyectos y programas de infraestructura. Esta Secretaría contará con dos Subsecretarías:
 
 \1) Subsecretaría de Obras Públicas y, 2) Subsecretaría de Transporte. Y, además, se le otorgan las atribuciones y competencias de la Inversión Estratégica/MCC-Honduras (INVEST-H), así como, los programas y proyectos pasarán a formar parte de esta Secretaría de Estado, con excepción de lo relacionado al sector salud y el sector agro.
 

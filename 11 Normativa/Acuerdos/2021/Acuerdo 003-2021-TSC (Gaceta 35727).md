@@ -11,7 +11,7 @@ paginas: "A. 1 - 44"
 sumario: "Acuerdo Administrativo No. 003-2021-TSC"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210924-35727/download"
 extraido: "2026-11-14"
-huella: "37e9e93a467ced1c"
+huella: "ea441b07e367272c"
 ---
 <!-- portal:inicio -->
 # ACUERDO ADMINISTRATIVO No. 003-2021-TSC
@@ -545,7 +545,7 @@ Artículo 52.- EVALUACIÓN DE LA CALIDAD DE LOS CONTROLES INTERNOS.- Es obligaci
 
 Artículo 53.- OBJETIVOS DE LA FUNCIÓN DE AUDITORÍA INTERNA.- Entre los objetivos de las Auditorías Internas está el de confirmar que los funcionarios y empleados responsables de la ejecución de los trámites administrativos correspondientes, los han ejecutado de conformidad con las disposiciones legales establecidas para cada una de las operaciones que se ejecutan en la institución evaluada, la confiabilidad del sistema integrado de información contable, financiera, administrativa y operativa y la aplicación de los principios de eficacia, economía, eficiencia, equidad, veracidad y legalidad en la gestión pública.
 
-A r t í c u l o 5 4 . - D E T E R M I N A C I Ó N D E INCUMPLIMIENTO.- Si como resultado del seguimiento de las recomendaciones establecido en el artículo 50 del presente Reglamento, la Unidad de Auditoría Interna determina la existencia de incumplimiento por parte de los funcionarios y empleados responsables de estas acciones, dichas Unidades de Auditoría Interna, deberán remitir informe con los respectivos pliegos de responsabilidad al Tribunal Superior de Cuentas, para su revisión y aprobación.
+Artículo 5 4 . - DETERMINACIÓN DE INCUMPLIMIENTO.- Si como resultado del seguimiento de las recomendaciones establecido en el artículo 50 del presente Reglamento, la Unidad de Auditoría Interna determina la existencia de incumplimiento por parte de los funcionarios y empleados responsables de estas acciones, dichas Unidades de Auditoría Interna, deberán remitir informe con los respectivos pliegos de responsabilidad al Tribunal Superior de Cuentas, para su revisión y aprobación.
 
 CAPÍTULO VI EL CONTROL DE PROBIDAD Y ÉTICA PÚBLICAS
 
@@ -571,7 +571,7 @@ e) PROBIDAD.- Mantener una conducta intachable en sus actuaciones al administrar
 
 f) TRANSPARENCIA.- Mantener una organización moderna y adecuada de información que permita determinar los manejos y gestiones que realizan en el cumplimiento de sus funciones e implementar métodos y procedimientos necesarios para que sus acciones reflejen el apego a las leyes y las políticas generales del Estado.
 
-g) O B J E T I V I D A D , I M PA R C I A L I D A D E INDEPENDENCIA.- Cumplir con las responsabilidades asignadas con la alta objetividad que indican las leyes, cumpliendo la aplicación de las mismas, sin inclinaciones subjetivas; demostrar un juicio independiente sin dejar entrever influencias internas o externas que impliquen erróneas o incorrectas actuaciones.
+g) OBJETIVIDAD, I M PA R C I A L I D A D E INDEPENDENCIA.- Cumplir con las responsabilidades asignadas con la alta objetividad que indican las leyes, cumpliendo la aplicación de las mismas, sin inclinaciones subjetivas; demostrar un juicio independiente sin dejar entrever influencias internas o externas que impliquen erróneas o incorrectas actuaciones.
 
 h) SEGURIDAD, CONFIANZA Y CREDIBILIDAD.- Las conductas deben reflejar alto compromiso ante la sociedad en el cumplimiento de sus funciones, sus actuaciones deben indicar carácter en la toma de decisiones y conocimiento de sus responsabilidades para ser generador de respeto y el consiguiente respaldo que necesita todo servidor público en el cumplimiento de sus deberes.
 
@@ -1043,11 +1043,11 @@ Si se determina la continuación del procedimiento, se notificará el informe co
 
 (10) días hábiles. El Tribunal podrá disponer de oficio y en cualquier momento de cuantas pruebas considere pertinentes previo a emitir la resolución que corresponda, la cual tendrá el carácter de definitiva.
 
-A r t í c u l o 1 0 3 . - I M P U G N A C I Ó N D E L A S FISCALIZACIONES.- Concluida una intervención fiscalizadora, sus resultados se consignarán en un informe, el cual se individualizará en Pliegos conteniendo las responsabilidades formuladas al servidor objeto de reparo, los que se notificarán a cada uno de los afectados para que dentro de los sesenta (60) días hábiles siguientes, presenten ante el Tribunal las alegaciones de descargo conducentes a su defensa.
+Artículo 1 0 3 . - IMPUGNACIÓN DE LAS FISCALIZACIONES.- Concluida una intervención fiscalizadora, sus resultados se consignarán en un informe, el cual se individualizará en Pliegos conteniendo las responsabilidades formuladas al servidor objeto de reparo, los que se notificarán a cada uno de los afectados para que dentro de los sesenta (60) días hábiles siguientes, presenten ante el Tribunal las alegaciones de descargo conducentes a su defensa.
 
 Los afectados pueden ejercer el término de prueba, el cual es de veinte (20) días hábiles comunes para la proposición y evacuación de los medios probatorios.
 
-A r t í c u l o 1 0 4 . - R E S O L U C I Ó N D E L A S FISCALIZACIONES.- Expirado el plazo de la impugnación o agotado el término para la proposición y evacuación de medios probatorios señalado en el artículo anterior, y una vez emitidos los dictámenes correspondientes, el Pleno del Tribunal emitirá la resolución definitiva, dentro del término de noventa (90) días hábiles, en la cual confirmará o desvanecerá los reparos o responsabilidades contenidos en los Pliegos.
+Artículo 1 0 4 . - RESOLUCIÓN DE LAS FISCALIZACIONES.- Expirado el plazo de la impugnación o agotado el término para la proposición y evacuación de medios probatorios señalado en el artículo anterior, y una vez emitidos los dictámenes correspondientes, el Pleno del Tribunal emitirá la resolución definitiva, dentro del término de noventa (90) días hábiles, en la cual confirmará o desvanecerá los reparos o responsabilidades contenidos en los Pliegos.
 
 No obstante lo anterior, las resoluciones podrán dictarse después del plazo señalado por excusas debidamente justificadas; las cuales se consignarán en el expediente mediante diligencia firmada por el Presidente del Tribunal.
 
@@ -1261,7 +1261,7 @@ Ejemplos:
 
 1. Gastos corrientes: L 150,000,000.00 entre 12 = 12,500,000.00 x .50 = 6,250,000.00 La caución o fianza será de L 500,000.00.
 
-2. Gastos corrientes: L l, 000,000.00 entre 12 = 83,333.33 x .50 = 41 ,666.67 La caución o fianza será de L 41,667.00.
+2. Gastos corrientes: L l, 000,000.00 entre 12 = 83,333.33 x .50 = 41,666.67 La caución o fianza será de L 41,667.00.
 
 3. Gastos corrientes: L 500,000.00 entre 12 = 41,666.67 x .50 = 20,833.33 La caución o fianza será de L 25,000.00.
 
@@ -1425,9 +1425,7 @@ En aplicación de los artículos 255 de la Constitución de la República; 36 Nu
 
 ACUERDA:
 
-PRIMERO: En el marco del Acuerdo Ministerial No.
-
-042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de septiembre del año 2021; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas en las cantidades detalladas para cada una:
+PRIMERO: En el marco del Acuerdo Ministerial No. 042-2016, se recomienda a la Secretaría de Desarrollo Económico habilitar las licencias de importación de cebolla, exclusivamente para el mes de septiembre del año 2021; clasificadas en las Partidas Arancelarias 0703.10.11, 0703.10.12 y 0703.10.13 del Arancel Centroamericano de Importación (ACI), a las siguientes empresas en las cantidades detalladas para cada una:
 
 SEGUNDO: Las empresas nominadas en el Numeral Primero, podrán realizar la importación del volumen asignado de Ce­ bolla de manera total o parcial, para lo cual deberán presentar la solicitud de las Licencias de Importación ante la Dirección General de Integración Económica y Política Comercial de la Secretaría de Desarrollo Económico.
 

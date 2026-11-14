@@ -11,7 +11,7 @@ paginas: "A. 3 - 6"
 sumario: "Decretos Nos. 166-2026, 167-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260914-37246/download"
 extraido: "2026-11-09"
-huella: "c26c6e39df9b1891"
+huella: "574e981c318aa4b8"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 166-2026
@@ -55,11 +55,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- A U T O R I Z A C I Ó N D E L A
+ARTÍCULO 1.- AUTORIZACIÓN DE LA
 
 DONACIÓN.- Se autoriza al Instituto Nacional de Jubilaciones y Pensiones de los Empleados y Funcionarios del Poder Ejecutivo (INJUPEMP) y al Instituto Nacional de Previsión del Magisterio (INPREMA) a donar, de forma conjunta e irrevocable, a favor de la Secretaría de Estado en e l Despacho de Salud (SESAL), la totalidad de los equipos médicos oftalmológicos, mobiliario clínico y administrativo, instrumental quirúrgico, equipos tecnológicos e insumos técnicos adquiridos con fondos de dichas instituciones, en el marco del Convenio de Cooperación Interinstitucional de fecha 2 de Enero de 2025, suscrito entre dichas instituciones, la Secretaría de Planificación Estratégica (SPE), la Secretaría de Estado en Despacho de Salud (SESAL) y las Municipalidades de San José de Colinas (Santa Bárbara), Arada (Santa Bárbara) y Catacamas (Olancho), para la instalación y operación de CENTROS OFTALMOLÓGICOS Y ÓPTICAS DEL PUEBLO DEL PROGRAMA OPERACIÓN MILAGRO, así como en el marco del Convenio de Asistencia Administrativa y Técnica, suscrito con la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI) y sus respectivas adendas, mediante el cual se administraron los fondos y se adquirieron los bienes objeto de la presente donación.”
 

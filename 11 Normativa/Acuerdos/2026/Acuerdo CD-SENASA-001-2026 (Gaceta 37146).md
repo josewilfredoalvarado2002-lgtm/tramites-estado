@@ -11,7 +11,7 @@ paginas: "A. 2 - 12"
 sumario: "Acuerdo No. CD-SENASA-001-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260520-37146/download"
 extraido: "2026-11-09"
-huella: "3a3ebd6b80cf3999"
+huella: "db088d953a2feb51"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. CD-SENASA-001-2026
@@ -31,9 +31,7 @@ EL CONSEJO DIRECTIVO DEL SERVICIO NACIONAL DE SANIDAD E INOCUIDAD AGROALIMENTARI
 
 CONSIDERANDO: Que la Constitución de la República de Honduras en su Capítulo VII de la Salud, Artículo 145, reconoce el derecho a la protección de la Salud de las personas.
 
-CONSIDERANDO: Que mediante Decreto Ejecutivo No.
-
-PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
+CONSIDERANDO: Que mediante Decreto Ejecutivo No. PCM-015-2020, se creó el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), como un Ente de Seguridad Nacional, Desconcentrado de la Secretaría de Agricultura y Ganadería (SAG), ejerciendo su competencia a nivel nacional, con autonomía técnica, administrativa y financiera, de duración indefinida y con plena capacidad para adquirir, ejercer derechos y contraer obligaciones, facultades para suscribir Convenios de Cooperación Técnica y Administrativa con organismos nacionales e internacionales en materia Sanitaria, Fitosanitaria y de Inocuidad Alimentaria con el objetivo de velar por la protección de las personas, de los animales y para preservar los vegetales, así como la conservación e inocuidad de sus productos y subproductos contra la acción perjudicial de las plagas y enfermedades de importancia económica y cuarentenaria.
 
 CONSIDERANDO: Que dentro de la estructura institucional del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), funciona el Consejo Directivo del SENASA como su Órgano Técnico Superior, integrado por representantes del sector público y privado, constituyéndose como la máxima instancia colegiada de dirección superior institucional, con facultades para discutir y aprobar reglamentos, aprobar planes estratégicos, presupuesto, planes operativos, convenios nacionales e internacionales, creación o modificación de dependencias institucionales, así como adoptar las decisiones técnicas, administrativas y normativas necesarias para el adecuado funcionamiento del Servicio Nacional de Sanidad e Inocuidad Agroalimentaria (SENASA), de conformidad con su normativa especial y el Reglamento del Consejo Directivo.
 
@@ -195,7 +193,7 @@ CONSIDERANDO (04): Que, conforme al Decreto Legislativo No. 98-2007, el Institut
 
 CONSIDERANDO (05): Que, el ICF es el encargado de diseñar, formular, coordinar, dar seguimiento, ejecutar y evaluar las políticas relacionadas con el Sector Forestal, Áreas Protegidas y Vida Silvestre, siendo este la autoridad estatal encargada de la administración forestal del país.
 
-CONSIDERANDO (06): Que, el ICF cuenta con un nuevo plan estratégico institucional (PEI) para el periodo 2025- 2030, el cual incluye objetivos y actividades relacionadas a los temas de cambio climático, requerimientos de reporte internacionales y gestión de la información. La inclusión de estos temas demuestra el compromiso institucional en la gestión del cambio climático y sienta las bases para el desarrollo de un sistema MRV robusto.
+CONSIDERANDO (06): Que, el ICF cuenta con un nuevo plan estratégico institucional (PEI) para el periodo 2025-2030, el cual incluye objetivos y actividades relacionadas a los temas de cambio climático, requerimientos de reporte internacionales y gestión de la información. La inclusión de estos temas demuestra el compromiso institucional en la gestión del cambio climático y sienta las bases para el desarrollo de un sistema MRV robusto.
 
 CONSIDERANDO (07): Que, la Ley de Cambio Climático (Decreto No. 297-2013) establece, la organización administrativa de la gestión nacional del cambio climático a través del Comité Interinstitucional de Cambio Climático (CICC) del cual forma parte el ICF. Entre las atribuciones del CICC está el dar el seguimiento y evaluar el avance y cumplimiento de los planes y políticas aprobadas en temas de cambio climático. Además, se establece el mandato para las entidades públicas y privadas de proporcionar información relacionada a cambio climático, según lo solicitado por la Dirección Nacional de Cambio Climático (DNCC) de la Secretaría de Recursos Naturales y Ambiente (SERNA).
 

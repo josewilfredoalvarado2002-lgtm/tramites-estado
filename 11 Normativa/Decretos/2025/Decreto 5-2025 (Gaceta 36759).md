@@ -11,7 +11,7 @@ paginas: "A. 186 - 188"
 sumario: "Decretos Nos. 4-2025, 5-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250206-36759/download"
 extraido: "2026-11-13"
-huella: "bc39817fe1ddcd69"
+huella: "00b84d288a6c0255"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 5-2025
@@ -33,9 +33,7 @@ CONSIDERANDO: Que la Constitución de la República establece los derechos polí
 
 CONSIDERANDO: Que la Convención Americana de Derechos Humanos (CADH), concurre la obligación por parte de los Estados Miembro de garantizar la existencia de un régimen electoral que responda a los requisitos establecidos en la misma, ésto es, que brinde a los ciudadanos el derecho y la oportunidad de votar y ser elegidos en elecciones periódicas auténticas, realizadas por sufragio universal e igual y por voto secreto que garantice la libre expresión de la voluntad de los electores.
 
-CONSIDERANDO: Que mediante Decreto Legislativo No.
-
-82-2024 de fecha 7 de Septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” el 8 de Septiembre de 2024, se aprobó el Presupuesto Especial para las Elecciones Primarias e Internas 2025 por un monto de UN MIL CUATROCIENTOS NOVENTA Y DOS MILLONES DE LEMPIRAS EXACTOS (L.1,492,000,000.00).
+CONSIDERANDO: Que mediante Decreto Legislativo No. 82-2024 de fecha 7 de Septiembre de 2024 y publicado en el Diario Oficial “La Gaceta” el 8 de Septiembre de 2024, se aprobó el Presupuesto Especial para las Elecciones Primarias e Internas 2025 por un monto de UN MIL CUATROCIENTOS NOVENTA Y DOS MILLONES DE LEMPIRAS EXACTOS (L.1,492,000,000.00).
 
 CONSIDERANDO: Que, de acuerdo con la Ley Electoral, el Consejo Nacional Electoral (CNE) debe garantizar que las votaciones y los escrutinios reflejen la voluntad real, libre y espontánea que los ciudadanos expresen a través de su voto directo y secreto, para lo cual deberá implementar medidas basadas en los más altos estándares de seguridad informática en todas las áreas del proceso. Para tales efectos, este órgano electoral debe diseñar e implementar los sistemas relacionados con el cómputo, transmisión y divulgación de resultados, incluyendo los simulacros y demás procesos, incorporando mecanismos y prácticas de seguridad apropiadas.
 
@@ -55,7 +53,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205, Atribución 1) de la Cons
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -67,7 +65,7 @@ Aprobar la ampliación presupuestaria al “PRESUPUESTO ESPECIAL DEL PROCESO DE 
 
 ARTÍCULO 2.- PREVISIÓN PRESUPUESTARIA.
 
-Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar operaciones presupuestarias y financieras necesarias en el Presupuesto General de Ingresos y Egresos de la República, en el Ejercicio Fiscal 2025, para atender el presente Decreto, hasta por un monto de QUINIENTOS SESENTA Y UN MILLONES CUARENTA Y CINCO MIL DOSCIENTOS OCHENTA LEMPIRAS EXACTOS (L.561,045,280.00), adicionales a los recursos presupuestarios aprobados mediante Decreto Legislativo No.82- 2024 y publicado en el Diario Oficial “La Gaceta” en fecha 8 de Septiembre del 2024, a efecto de garantizar la realización de las Elecciones Primarias e Internas en el 2025, para lo cual se deberán identificar y asignar fondos nacionales y/o externos de los saldos disponibles en las asignaciones presupuestarias de diversa índole, consignadas en las instituciones del Sector Público, inclusive las de gasto de capital o gasto corriente, a fin de efectuar las ampliaciones o creaciones presupuestarias que fueren necesarias para asignarse al Presupuesto del Consejo Nacional Electoral (CNE) en el Ejercicio Fiscal 2025.
+Se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar operaciones presupuestarias y financieras necesarias en el Presupuesto General de Ingresos y Egresos de la República, en el Ejercicio Fiscal 2025, para atender el presente Decreto, hasta por un monto de QUINIENTOS SESENTA Y UN MILLONES CUARENTA Y CINCO MIL DOSCIENTOS OCHENTA LEMPIRAS EXACTOS (L.561,045,280.00), adicionales a los recursos presupuestarios aprobados mediante Decreto Legislativo No. 82-2024 y publicado en el Diario Oficial “La Gaceta” en fecha 8 de Septiembre del 2024, a efecto de garantizar la realización de las Elecciones Primarias e Internas en el 2025, para lo cual se deberán identificar y asignar fondos nacionales y/o externos de los saldos disponibles en las asignaciones presupuestarias de diversa índole, consignadas en las instituciones del Sector Público, inclusive las de gasto de capital o gasto corriente, a fin de efectuar las ampliaciones o creaciones presupuestarias que fueren necesarias para asignarse al Presupuesto del Consejo Nacional Electoral (CNE) en el Ejercicio Fiscal 2025.
 
 #### Artículo 3
 

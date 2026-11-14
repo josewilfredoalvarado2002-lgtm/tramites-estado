@@ -11,7 +11,7 @@ paginas: "A. 7 - 16"
 sumario: "No consta en la fuente"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250830-36930/download"
 extraido: "2026-11-09"
-huella: "613a9f70397a2b95"
+huella: "e2cf81dbe0391ff4"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-113-2025
@@ -109,7 +109,7 @@ Todas las embarcaciones autorizadas y pertenecientes a la Flota Pesquera Naciona
 
 CUARTO:
 
-Todas las embarcaciones industriales de la Flota Pesquera Nacional (FPN) dedicadas a la pesca de camarón deberán contar, previo al zarpe y durante toda la temporalidad del período de pesca autorizado, con un Sistema de Monitoreo Satelital y Seguimiento Pesquero (VMS), consistente en una baliza bidireccional debidamente instalada, activa y operativa las veinticuatro (24) horas del día, en estricto cumplimiento de lo dispuesto en el artículo 57 de la Ley General de Pesca y Acuicultura, así como del Reglamento OSP- 03-10 de OSPESCA. Dicho sistema deberá garantizar la trazabilidad en tiempo real de las actividades pesqueras, contribuyendo al aprovechamiento sostenible del recurso y al combate de la pesca Ilegal, No Declarada y No Reglamentada (INDNR).
+Todas las embarcaciones industriales de la Flota Pesquera Nacional (FPN) dedicadas a la pesca de camarón deberán contar, previo al zarpe y durante toda la temporalidad del período de pesca autorizado, con un Sistema de Monitoreo Satelital y Seguimiento Pesquero (VMS), consistente en una baliza bidireccional debidamente instalada, activa y operativa las veinticuatro (24) horas del día, en estricto cumplimiento de lo dispuesto en el artículo 57 de la Ley General de Pesca y Acuicultura, así como del Reglamento OSP-03-10 de OSPESCA. Dicho sistema deberá garantizar la trazabilidad en tiempo real de las actividades pesqueras, contribuyendo al aprovechamiento sostenible del recurso y al combate de la pesca Ilegal, No Declarada y No Reglamentada (INDNR).
 
 La información generada por el VMS deberá transmitirse de manera obligatoria, continua e ininterrumpida a la Unidad de Monitoreo Satelital de la DIGEPESCA, conforme a los protocolos técnicos establecidos por dicha autoridad, siendo responsabilidad exclusiva del armador, capitán o patrono de la embarcación el cumplimiento de esta disposición. El incumplimiento de lo aquí dispuesto podrá dar lugar al procedimiento administrativo que corresponda.
 
@@ -199,7 +199,7 @@ DÉCIMO
 
 QUINTO:
 
-Toda embarcación dedicada a la pesca de camarón de arrastre deberá registrar y reportar de manera obligatoria la fauna acompañante capturada, separada por especie o nombre común, en el formato oficial proporcionado por la Dirección General de Pesca y Acuicultura ( D I G E P E S C A ) , c o n f o r m e a las especificaciones técnicas establecidas por dicha autoridad.
+Toda embarcación dedicada a la pesca de camarón de arrastre deberá registrar y reportar de manera obligatoria la fauna acompañante capturada, separada por especie o nombre común, en el formato oficial proporcionado por la Dirección General de Pesca y Acuicultura ( DIGEPESCA ), conforme a las especificaciones técnicas establecidas por dicha autoridad.
 
 Dicho registro deberá consignarse de manera diaria y por cada viaje de pesca, garantizando la veracidad, integridad y trazabilidad de la información, bajo responsabilidad administrativa y sin perjuicio de las sanciones previstas en la legislación pesquera vigente por incumplimiento. La DIGEPESCA supervisará el cumplimiento de esta disposición y podrá requerir la presentación de los registros originales para su verificación, quedando el propietario de la embarcación y en caso de venderla, también el comprador obligado en la responsabilidad de conservar dicha documentación por un plazo mínimo de cinco (5) años.
 
@@ -213,7 +213,7 @@ DÉCIMO
 
 SEPTIMO:
 
-La renovación de las licencias de pesca correspondientes a la temporada 2025- 2026 estará sujeta al cumplimiento de los requisitos establecidos en el Acuerdo Ministerial de Requisitos SAG No. 023-2025, el cual regula los procedimientos aplicables en la materia. Para efectos de hacer efectiva dicha renovación, todas las embarcaciones deberán acreditar el cumplimiento de sus obligaciones contributivas ante el Estado de Honduras, mediante la presentación del comprobante de pago del canon contributivo de pesca que valide que no hay deudas pendientes. La falta de este pago dejará en suspenso el proceso de licenciamiento, sin perjuicio de los procesos administrativos que pudieran derivarse del incumplimiento.
+La renovación de las licencias de pesca correspondientes a la temporada 2025-2026 estará sujeta al cumplimiento de los requisitos establecidos en el Acuerdo Ministerial de Requisitos SAG No. 023-2025, el cual regula los procedimientos aplicables en la materia. Para efectos de hacer efectiva dicha renovación, todas las embarcaciones deberán acreditar el cumplimiento de sus obligaciones contributivas ante el Estado de Honduras, mediante la presentación del comprobante de pago del canon contributivo de pesca que valide que no hay deudas pendientes. La falta de este pago dejará en suspenso el proceso de licenciamiento, sin perjuicio de los procesos administrativos que pudieran derivarse del incumplimiento.
 
 DÉCIMO
 
@@ -225,9 +225,7 @@ DÉCIMO
 
 NOVENO:
 
-Se deroga en todas y cada una de sus partes el Acuerdo Ministerial No.
-
-SAG-159-2024 de fecha 28 de agosto del 2024.
+Se deroga en todas y cada una de sus partes el Acuerdo Ministerial No. SAG-159-2024 de fecha 28 de agosto del 2024.
 
 VIGÉSIMO:
 

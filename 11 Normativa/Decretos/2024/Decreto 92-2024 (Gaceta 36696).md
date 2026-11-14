@@ -11,7 +11,7 @@ paginas: "A. 1 - 68"
 sumario: "Decreto No. 92-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241122-36696/download"
 extraido: "2026-11-14"
-huella: "8a8cf081f9ee66ac"
+huella: "c6bf7502861f5bce"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 92-2024
@@ -31,13 +31,13 @@ EL CONGRESO NACIONAL,
 
 CONSIDERANDO: Que la Constitución de la República en el Artículo 245 Atribución 2) establece que la Presidenta de la República tiene a su cargo la Administración General del Estado, correspondiéndole dirigir la política general del Estado y representarlo.
 
-CONSIDERANDO Que el Congreso Nacional de la República, mediante Decreto No.17-2010 de fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
+CONSIDERANDO Que el Congreso Nacional de la República, mediante Decreto No. 17-2010 de fecha 22 de abril de 2010, en su Artículo 70, autoriza al Poder Ejecutivo para que suscriba los convenios sobre los empréstitos que considere necesarios en virtud del estado de emergencia actual de las Finanzas Públicas y que deban ser financiados con capital externo; aprobándose para tal efecto los proyectos de convenio correspondientes, sin perjuicio de su posterior ratificación por parte del Congreso Nacional, una vez firmados los mismos por el Poder Ejecutivo y el Organismo de Crédito Externo de que se trate.
 
 CONSIDERANDO: Que el Gobierno de la República de Honduras, se ha comprometido firmemente a revitalizar la infraestructura vial del país en el corto y mediano plazo.
 
 El Plan de Gobierno de la Presidenta Constitucional de la República, ciudadana Iris Xiomara Castro Sarmiento, contempla el impulso a proyectos de construcción y mejora o pavimentación de carreteras que permitan una movilización segura y eficiente entre asentamientos, centros productivos y mercados de consumo con una visión integral, generando de esta forma las condiciones de creación de empleos directos e indirectos que permitan contribuir al proceso de desarrollo económico en distintas zonas de influencia del país.
 
-CONSIDERANDO: Que la Presidenta de la República autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a suscribir con el Banco Centroamericano de Integración Económica (BCIE), el Contrato de Préstamo No.2335 del 14 de diciembre de 2023, por un monto de hasta SEISCIENTOS SEIS MILLONES NOVECIENTOS OCHENTA Y OCHO MIL CIENTO ONCE PUNTO CATORCE DÓLARES (US$606,988,111.14), recursos destinados a la ejecución del “PROGRAMA DE CARRETERAS RESILIENTES DE HONDURAS (PCR-HN)”, que tiene por objetivo impulsar el crecimiento económico y social en el área de influencia del programa y en el territorio nacional, fortaleciendo la capacidad productiva y turística, mejorando el acceso a mercados y promoviendo un comercio equilibrado de exportaciones e importaciones de bienes, servicios y productos así como reducir significativamente los tiempos y costos de transporte de mercancías y personas que circulan por los tramos carreteros.
+CONSIDERANDO: Que la Presidenta de la República autorizó a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a suscribir con el Banco Centroamericano de Integración Económica (BCIE), el Contrato de Préstamo No. 2335 del 14 de diciembre de 2023, por un monto de hasta SEISCIENTOS SEIS MILLONES NOVECIENTOS OCHENTA Y OCHO MIL CIENTO ONCE PUNTO CATORCE DÓLARES (US$606,988,111.14), recursos destinados a la ejecución del “PROGRAMA DE CARRETERAS RESILIENTES DE HONDURAS (PCR-HN)”, que tiene por objetivo impulsar el crecimiento económico y social en el área de influencia del programa y en el territorio nacional, fortaleciendo la capacidad productiva y turística, mejorando el acceso a mercados y promoviendo un comercio equilibrado de exportaciones e importaciones de bienes, servicios y productos así como reducir significativamente los tiempos y costos de transporte de mercancías y personas que circulan por los tramos carreteros.
 
 CONSIDERANDO: Que con la ejecución del Tramo A del Programa se llevará a cabo la rehabilitación, mejora y construcción de TRESCIENTOS OCHO PUNTO CERO OCHO KILÓMETROS (308.08 Km) en las zonas oriente y norte del país con diferentes características geométricas, lo cual generará un enorme beneficio económico y social en distintas zonas del país.
 
@@ -49,11 +49,11 @@ CONSIDERANDO: Que conforme al Artículo 205, Atribución 1) de la Constitución 
 
 POR TANTO,
 
-D E C R E T A
+DECRETA
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato de Préstamo No.2335, suscrito por el Estado de Honduras el 5 de agosto de 2024, entre el Banco Centroamericano de Integración Económica (BCIE) en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario del financiamiento, hasta por un monto de NOVENTA Y SEIS MILLONES TRESCIENTOS MIL DÓLARES (US$ 96,300,000.00), recursos destinados a la ejecución del “Programa de Carreteras Resilientes de Honduras (PCR-HN)- Tramo B-1 Libramiento El Progreso”, que literalmente dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de sus partes el Contrato de Préstamo No. 2335, suscrito por el Estado de Honduras el 5 de agosto de 2024, entre el Banco Centroamericano de Integración Económica (BCIE) en su condición de Prestamista y el Gobierno de la República de Honduras en su condición de Prestatario del financiamiento, hasta por un monto de NOVENTA Y SEIS MILLONES TRESCIENTOS MIL DÓLARES (US$ 96,300,000.00), recursos destinados a la ejecución del “Programa de Carreteras Resilientes de Honduras (PCR-HN)- Tramo B-1 Libramiento El Progreso”, que literalmente dice:
 
 CONTRATO DE PRÉSTAMO NO. 2335
 
@@ -327,7 +327,7 @@ COMPARECENCIA DE LAS PARTES
 
 En los lugares y fechas señalados al final del presente Contrato;
 
-DE UNA PARTE: El BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE” “el Banco”, representado en este acto por el señor Manuel José Torres Lezama, mayor de edad, casado, nicaragüense Licenciado en Economía Agrícola , con pasaporte No.CO2235283, actuando en su condición de Gerente de Países y Proyectos y Apoderado del BCIE, calidad que acredita con Testimonio de Instrumento Número 24 de Poder de General de Representación, otorgado ante la Notario Edith María López Rivera el 11 de marzo de 2020 y debidamente inscrito bajo el No.83, Tomo 285 del Registro Especial de Poderes del Instituto de la Propiedad del departamento de Francisco Morazán con fecha 7 de mayo de 2020 donde consta que tiene facultades suficientes para este otorgamiento; y, DE OTRA PARTE: La REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por el señor Marlon David Ochoa Martínez, mayor de edad, casado, hondureño, Licenciado en Relaciones Internacionales, con Documento Nacional de Identificación No.0801-1992-08924, actuando en su condición de Secretario de Estado en el Despacho de Finanzas de la República de Honduras. Ambos, representantes debidamente autorizados y con suficiente capacidad para celebrar el presente acto, han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato de Préstamo” o “Contrato” o “Préstamo”, por medio del cual el BCIE concede al Prestatario un Préstamo y el Prestatario acepta y se obliga en el mismo, en los términos, pactos, condiciones y estipulaciones siguientes:
+DE UNA PARTE: El BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA, persona jurídica de carácter internacional, con domicilio en la ciudad de Tegucigalpa, Distrito Central, República de Honduras, que en adelante y para los efectos de este contrato se denominará el “BCIE” “el Banco”, representado en este acto por el señor Manuel José Torres Lezama, mayor de edad, casado, nicaragüense Licenciado en Economía Agrícola, con pasaporte No.CO2235283, actuando en su condición de Gerente de Países y Proyectos y Apoderado del BCIE, calidad que acredita con Testimonio de Instrumento Número 24 de Poder de General de Representación, otorgado ante la Notario Edith María López Rivera el 11 de marzo de 2020 y debidamente inscrito bajo el No. 83, Tomo 285 del Registro Especial de Poderes del Instituto de la Propiedad del departamento de Francisco Morazán con fecha 7 de mayo de 2020 donde consta que tiene facultades suficientes para este otorgamiento; y, DE OTRA PARTE: La REPÚBLICA DE HONDURAS, que en lo sucesivo se denominará el “Prestatario”, representada en este acto por el señor Marlon David Ochoa Martínez, mayor de edad, casado, hondureño, Licenciado en Relaciones Internacionales, con Documento Nacional de Identificación No. 0801-1992-08924, actuando en su condición de Secretario de Estado en el Despacho de Finanzas de la República de Honduras. Ambos, representantes debidamente autorizados y con suficiente capacidad para celebrar el presente acto, han convenido en celebrar y al efecto celebran, el presente Contrato de Préstamo, que en adelante se denominará “Contrato de Préstamo” o “Contrato” o “Préstamo”, por medio del cual el BCIE concede al Prestatario un Préstamo y el Prestatario acepta y se obliga en el mismo, en los términos, pactos, condiciones y estipulaciones siguientes:
 
 #### Artículo 1
 
@@ -501,7 +501,7 @@ A NOMBRE DE:
 
 BANCO CENTROAMERICANO DE INTEGRACIÓN ECONÓMICA REFERENCIA:
 
-PRÉSTAMO No.2335, REPÚBLICA DE HONDURAS.
+PRÉSTAMO No. 2335, REPÚBLICA DE HONDURAS.
 
 Igualmente, el BCIE podrá modificar la cuenta y/o lugares en que el Prestatario deberá realizar los pagos en los términos y condiciones contenidos en este Contrato, en cuyo caso el BCIE deberá notificar por escrito al Prestatario, por lo menos con quince (15) días hábiles de anticipación a la fecha en que dicho cambio deba surtir efecto.
 
@@ -1179,7 +1179,7 @@ Fecha:
 
 ANEXO C – FORMATO DE NOTIFICACIÓN DE FIRMAS DEL PRESTATARIO
 
-En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No.129 del 5 de Febrero do 1971, reformado mediante Decreto No.35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No.218- 96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No.28,148 del 30 de Diciembre de 1996, que crea la Secretaria de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE ESTADOS UNIDOS DE AMÉRICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
+En mi carácter de Secretario (a) de Estado en el Despacho de Finanzas, nombrado (a) mediante Acuerdo No. [_________] del [___] de [____] de [20 __], emitido por la Secretaría de Estado en los Despachos de Gobernación y Justicia y con base al Decreto Legislativo No. [_______] de fecha [___] de [______] de [20__] que contiene la Ley Orgánica de Presupuesto, Decreto Legislativo No. 129 del 5 de Febrero do 1971, reformado mediante Decreto No. 35 emitido por el Congreso Nacional el 18 de Marzo de 1983, reformado mediante Decreto No. 218-96 del 17 de Diciembre de 1996 y publicado en el Diario Oficial “La Gaceta” No. 28,148 del 30 de Diciembre de 1996, que crea la Secretaria de Finanzas, otorgándome facultades para representar al Gobierno de la República de Honduras en la ejecución del Contrato de Préstamo No.[_____], suscrito el [___] de [_______] de 20 [__], entre el BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE), en su condición de Prestamista y el GOBIERNO DE LA REPÚBLICA DE HONDURAS en su condición de Prestatario del financiamiento hasta por un monto de [______________________] DOLARES DE ESTADOS UNIDOS DE AMÉRICA (US$_________________), fondos destinados a financiar la ejecución del [“ _______________________”].
 
 [En el marco de este Contrato de Préstamo, la Secretaría de Estado en el Despacho de Finanzas, se reserva la representatividad exclusiva para los siguientes conceptos:
 
@@ -1335,7 +1335,7 @@ BCIE
 
 2. SIT implementará las condiciones ambientales y sociales para que el Programa se ejecute de conformidad con las Salvaguardas Ambientales y Sociales del BCIE y sus Normas de Desempeño (ND).
 
-En este Plan SIEMAS se establecen las condiciones de 6 El presente Plan SIEMAS corresponde al Programa de Carreteras Resilientes de Honduras, que incluye el Tramo A aprobado mediante DI- 136/2023 (Préstamo 2333) y el Tramo B-1 (Operación 501114). estricto cumplimiento, así como el plazo para llevar a cabo cada una de ellas.
+En este Plan SIEMAS se establecen las condiciones de 6 El presente Plan SIEMAS corresponde al Programa de Carreteras Resilientes de Honduras, que incluye el Tramo A aprobado mediante DI-136/2023 (Préstamo 2333) y el Tramo B-1 (Operación 501114). estricto cumplimiento, así como el plazo para llevar a cabo cada una de ellas.
 
 3. SIT también cumplirá con las disposiciones de todos los instrumentos de gestión ambiental y social requeridos en virtud de la Política Ambiental y Social del BCIE, mencionados en este Plan, además de los cronogramas especificados en dichos documentos ambientales y sociales.
 

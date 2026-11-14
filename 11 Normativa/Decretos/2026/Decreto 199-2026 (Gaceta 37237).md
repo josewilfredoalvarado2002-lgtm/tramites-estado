@@ -11,7 +11,7 @@ paginas: "A. 8 - 18"
 sumario: "Decreto No. 199-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260903-37237/download"
 extraido: "2026-11-09"
-huella: "9afef2077b5d110d"
+huella: "637c9c90ac88b880"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 199-2026
@@ -33,15 +33,15 @@ CONSIDERANDO: Que el Congreso Nacional, como Poder del Estado y órgano constitu
 
 CONSIDERANDO: Que resulta necesario garantizar un financiamiento mínimo para la remodelación, modernización y acondicionamiento de los edificios del Congreso Nacional, a fin de adecuar sus instalaciones a las actuales necesidades de seguridad, accesibilidad, tecnología y funcionalidad.
 
-CONSIDERANDO: Que mediante Decreto No.88-2026 se adicionó el Artículo 155-F al Decreto No.62-2026, estableciendo disposiciones para atender compromisos vinculados con el fortalecimiento de la seguridad y control aeroportuario, resultando necesario complementar el régimen aplicable al contrato identificado en dicha disposición.
+CONSIDERANDO: Que mediante Decreto No. 88-2026 se adicionó el Artículo 155-F al Decreto No. 62-2026, estableciendo disposiciones para atender compromisos vinculados con el fortalecimiento de la seguridad y control aeroportuario, resultando necesario complementar el régimen aplicable al contrato identificado en dicha disposición.
 
 CONSIDERANDO: Que el beneficio tributario y aduanero aplicable deberá limitarse exclusivamente a las operaciones directamente vinculadas con la ejecución del contrato y sujetarse a los procedimientos y controles establecidos en la legislación vigente.
 
-CONSIDERANDO: Que mediante Decreto No.161-2026 se reformó el Artículo 186 del Decreto No.62-2026, aprobándose una asignación de hasta MIL TRESCIENTOS MILLONES DE LEMPIRAS EXACTOS (L.1,300,000,000.00) para mantener la estabilidad de la tarifa del transporte urbano durante el año 2026.
+CONSIDERANDO: Que mediante Decreto No. 161-2026 se reformó el Artículo 186 del Decreto No. 62-2026, aprobándose una asignación de hasta MIL TRESCIENTOS MILLONES DE LEMPIRAS EXACTOS (L.1,300,000,000.00) para mantener la estabilidad de la tarifa del transporte urbano durante el año 2026.
 
 CONSIDERANDO: Que resulta necesario fortalecer los mecanismos tecnológicos de seguimiento y verificación del transporte subsidiado, contribuyendo a una mayor trazabilidad, control y transparencia en el uso de los recursos públicos.
 
-CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 1) de la Constitución d e l a R e p ú b l i c a , c o r r e s p o n d e a l C o n g r e s o Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
+CONSIDERANDO: Que de conformidad con lo establecido en el Artículo 205 Atribución 1) de la Constitución de la República, corresponde al Congreso Nacional: Crear, decretar, interpretar, reformar y derogar las leyes.
 
 POR TANTO:
 
@@ -53,7 +53,7 @@ ARTÍCULO 1.- Reformar el literal a) del numeral 2) del Artículo 103, el Artíc
 
 Artículo 186 del PRESUPUESTO
 
-GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y S U S D I S P O S I C I O N E S GENERALES, EJERCICIO FISCAL 2026, contenido en el Decreto No.62-2026 de fecha 21 de Abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril de 2026 y sus reformas, contenidas en el Decreto No.88-2026 de fecha 19 de Mayo de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 21 de Mayo de 2026 y el Decreto No.161- 2026 de fecha 6 de Agosto de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 7 de Agosto de 2026, los cuales en adelante se deberán leer de la manera siguiente:
+GENERAL DE INGRESOS Y EGRESOS DE LA REPÚBLICA Y SUS DISPOSICIONES GENERALES, EJERCICIO FISCAL 2026, contenido en el Decreto No. 62-2026 de fecha 21 de Abril de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 23 de Abril de 2026 y sus reformas, contenidas en el Decreto No. 88-2026 de fecha 19 de Mayo de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 21 de Mayo de 2026 y el Decreto No. 161-2026 de fecha 6 de Agosto de 2026, publicado en el Diario Oficial “La Gaceta” en fecha 7 de Agosto de 2026, los cuales en adelante se deberán leer de la manera siguiente:
 
 “ARTÍCULO 103. En cumplimiento de… El monto… En cumplimiento… En lo que respecta… Las contrataciones… Las contrataciones… Cualquier orientación … Si a la entrada… Asimismo… Asimismo …
 
@@ -77,7 +77,7 @@ d. Servicios…
 
 “ARTÍCULO 155-F. En cumplimiento de… El Contrato antes mencionado gozará de un régimen de exoneración y extensión tributaria y aduanera. Para tal efecto, la empresa adjudicataria mantiene las condiciones tributarias y aduaneras pactadas al momento de la suscripción del contrato, volviendo a su vigencia a partir de la vigencia del presente Decreto y hasta la terminación del contrato, del pago de impuestos, tasas, contribuciones y derechos arancelarios de carácter nacional que recaigan directamente sobre los actos, operaciones, bienes, servicios e importaciones necesarios para su ejecución. El beneficio será de carácter personalísimo, se limitará exclusivamente a dicho contrato y se tramitará ante la Secretaría de Estado en el Despacho de Finanzas (SEFIN), conforme al Código Tributario y demás normativa aplicable. La exoneración no comprende obligaciones tributarias ajenas al contrato ni dispensa del cumplimiento de los deberes formales o de retención que correspondan. Se instruye a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar los pagos correspondientes a dicho contrato considerando el régimen tributario de exoneración y extensión aquí señalado”.
 
-“ARTÍCULO 186. Para mantener la estabilidad en la tarifa del servicio de transporte urbano de pasajeros mediante buses, en beneficio de los usuarios, se aprueba una asignación de hasta MIL TRESCIENTOS MILLONES D E L E M P I R A S E X A C T O S (L.1,300,000,000.00), en concepto de subsidio correspondiente al año 2026.
+“ARTÍCULO 186. Para mantener la estabilidad en la tarifa del servicio de transporte urbano de pasajeros mediante buses, en beneficio de los usuarios, se aprueba una asignación de hasta MIL TRESCIENTOS MILLONES DE LEMPIRAS EXACTOS (L.1,300,000,000.00), en concepto de subsidio correspondiente al año 2026.
 
 Para tal efecto, se autoriza a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) a realizar las modificaciones presupuestarias necesarias para consignar dicha asignación, durante el presente ejercicio fiscal, en el presupuesto del Instituto Hondureño del Transporte Terrestre (IHTT). Este último queda igualmente autorizado para efectuar los pagos correspondientes a los subsidios de los meses de Noviembre y Diciembre del año 2025.
 
@@ -103,9 +103,7 @@ CONSIDERANDO: Que la Dirección de Gestión por Resultados (DIGER), funciona com
 
 CONSIDERANDO: Que el artículo 31 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece, con relación a los órganos desconcentrados, que se entiende por autonomía técnicaadministrativa la gestión directa de los asuntos que por Ley les están encomendados.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-127-2026 se nombró al ciudadano ELMER MANUEL FERRERA PADILLA en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS CON RANGO DE MINISTRO ASESOR con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 127-2026 se nombró al ciudadano ELMER MANUEL FERRERA PADILLA en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS CON RANGO DE MINISTRO ASESOR con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
 CONSIDERANDO: Que los Órganos de la Administración Pública desarrollarán sus actividades sujetándose a la jerarquía normativa establecida en el artículo 7 de la Ley General de la Administración Pública y en arreglo de las normas de la economía, celeridad y eficacia a fin de lograr una pronta y efectiva satisfacción del interés general.
 
@@ -147,9 +145,7 @@ CONSIDERANDO: Que la Dirección de Gestión por Resultados (DIGER), funciona com
 
 CONSIDERANDO: Que el artículo 31 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece, con relación a los órganos desconcentrados, que se entiende por autonomía técnicaadministrativa la gestión directa de los asuntos que por Ley les están encomendados.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-127-2026 se nombró al ciudadano ELMER MANUEL FERRERA PADILLA, en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS elevando su cargo con Rango de SECRETARIO DE ESTADO mediante Acuerdo Ejecutivo No. 230-2026, con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 127-2026 se nombró al ciudadano ELMER MANUEL FERRERA PADILLA, en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS elevando su cargo con Rango de SECRETARIO DE ESTADO mediante Acuerdo Ejecutivo No. 230-2026, con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
 CONSIDERANDO: Que los Órganos de la Administración Pública desarrollarán sus actividades sujetándose a la jerarquía normativa establecida en el artículo 7 de la Ley General de la Administración Pública y en arreglo de las normas de la economía, celeridad y eficacia a fin de lograr una pronta y efectiva satisfacción del interés general.
 
@@ -191,9 +187,7 @@ CONSIDERANDO: Que la Dirección de Gestión por Resultados (DIGER), funciona com
 
 CONSIDERANDO: Que el artículo 31 del Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece, con relación a los órganos desconcentrados, que se entiende por autonomía técnica-administrativa la gestión directa de los asuntos que por ley les están encomendados.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-127-2026, se nombró al ciudadano ELMER MANUEL FERRERA PADILLA, en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS elevando su cargo con Rango de SECRETARIO DE ESTADO mediante Acuerdo Ejecutivo No. 230-2026, con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 127-2026, se nombró al ciudadano ELMER MANUEL FERRERA PADILLA, en el cargo de DIRECTOR DE GESTIÓN POR RESULTADOS elevando su cargo con Rango de SECRETARIO DE ESTADO mediante Acuerdo Ejecutivo No. 230-2026, con facultades emitir y ejecutar los actos administrativos necesarios y pertinentes para el ejercicio de las funciones.
 
 CONSIDERANDO: Que los Órganos de la Administración Pública desarrollarán sus actividades sujetándose a la jerarquía normativa establecida en el artículo 7 de la Ley General de la Administración Pública y en arreglo de las normas de la economía, celeridad y eficacia a fin de lograr una pronta y efectiva satisfacción del interés general.
 

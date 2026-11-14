@@ -11,7 +11,7 @@ paginas: "A. 2 - 3"
 sumario: "Acuerdo Ejecutivo No. 22-2024, Acuerdos Nos. 42-2024, 100-2024, 117-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240213-36459/download"
 extraido: "2026-11-14"
-huella: "75ccec43d5ce4b6d"
+huella: "4b7309c43baa7c1c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 42-2024
@@ -37,9 +37,7 @@ CONSIDERANDO: Que mediante Acuerdo No. 77-2023, publicado en el Diario Oficial L
 
 POR TANTO:
 
-En uso de las facultades que está investido y en aplicación de los artículos: 36 numeral 1), 118, 119, 122 de la Ley General de la Administración Pública; 3 de la Ley de Procedimiento Administrativo; 3, 4, 23, 24, 27 del Decreto Ejecutivo No.
-
-PCM-008-97, publicado en fecha 7 de junio de 1997, en el Diario Oficial La Gaceta, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+En uso de las facultades que está investido y en aplicación de los artículos: 36 numeral 1), 118, 119, 122 de la Ley General de la Administración Pública; 3 de la Ley de Procedimiento Administrativo; 3, 4, 23, 24, 27 del Decreto Ejecutivo No. PCM-008-97, publicado en fecha 7 de junio de 1997, en el Diario Oficial La Gaceta, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

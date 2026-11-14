@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Acuerdo Número 508-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260721-37199/download"
 extraido: "2026-11-09"
-huella: "d35db7a8fb56fdeb"
+huella: "bd413dc1bb068641"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 508-2026
@@ -39,9 +39,7 @@ CONSIDERANDO (02): Que de conformidad con los artículos 246, 247 y 248 de la Co
 
 CONSIDERANDO (03):
 
-Que de conformidad con los artículos 29 numeral 15), 116 y 118 numeral 2) de la Ley General de la Administración Pública contenida en el Decreto Legislativo No.
-
-146-86, compete a la Secretaría de Estado en el Despacho de Finanzas todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas; disponiéndose a su vez que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias, emitiéndose mediante Acuerdo los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria.
+Que de conformidad con los artículos 29 numeral 15), 116 y 118 numeral 2) de la Ley General de la Administración Pública contenida en el Decreto Legislativo No. 146-86, compete a la Secretaría de Estado en el Despacho de Finanzas todo lo concerniente a la formulación, coordinación, ejecución y evaluación de las políticas relacionadas con las Finanzas Públicas; disponiéndose a su vez que los actos de los órganos de la Administración Pública adoptarán la forma de Decretos, Acuerdos, Resoluciones o Providencias, emitiéndose mediante Acuerdo los actos de carácter general que se dictaren en el ejercicio de la potestad reglamentaria.
 
 CONSIDERANDO (04):
 
@@ -51,11 +49,7 @@ En ese sentido, los órganos administrativos desarrollarán su actividad con arr
 
 CONSIDERANDO (05):
 
-Que mediante Decreto Legislativo No. 108-90 de fecha 20 de septiembre del año 1990, publicado en el Diario Oficial "La Gaceta" en fecha 08 de octubre del mismo año, se emitió la Ley de Ingreso de Divisas Provenientes de las Exportaciones, para ejercer el control efectivo sobre el ingreso y venta de divisas generadas por las exportaciones, la cual fue reformada mediante los Decretos Legislativos Nos.
-
-59-94, 194-2002 y 278-2013 e interpretada mediante Decreto Legislativo No.
-
-32-2021, publicados en el Diario Oficial "La Gaceta" en fecha 07 de junio del año 1994, 05 de junio del año 2002, 30 de diciembre del año 2013 y 15 de junio del año 2021.
+Que mediante Decreto Legislativo No. 108-90 de fecha 20 de septiembre del año 1990, publicado en el Diario Oficial "La Gaceta" en fecha 08 de octubre del mismo año, se emitió la Ley de Ingreso de Divisas Provenientes de las Exportaciones, para ejercer el control efectivo sobre el ingreso y venta de divisas generadas por las exportaciones, la cual fue reformada mediante los Decretos Legislativos Nos. 59-94, 194-2002 y 278-2013 e interpretada mediante Decreto Legislativo No. 32-2021, publicados en el Diario Oficial "La Gaceta" en fecha 07 de junio del año 1994, 05 de junio del año 2002, 30 de diciembre del año 2013 y 15 de junio del año 2021.
 
 CONSIDERANDO (06):
 
@@ -63,11 +57,7 @@ Que, de conformidad con lo establecido en el artículo 20 de la Ley de Ingreso d
 
 CONSIDERANDO (07):
 
-Que mediante Acuerdo No.
-
-0630 de fecha 11 de abril del año 2003, publicado en el Diario Oficial "La Gaceta" en fecha 30 de junio del mismo año se creó el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones contenida en el Decreto Legislativo No.
-
-108-90, el cual contiene las normas y procedimientos descritos en su Ley. Sin embargo, se ha determinado la necesidad de adecuar su contenido a la estructura organizativa vigente del BCH, incorporando mecanismos electrónicos para la gestión y seguimiento de la información relacionada con el ingreso de divisas provenientes de las exportaciones, por lo que, se deben adecuar los plazos establecidos para su ingreso, simplificar los procedimientos administrativos y eliminar disposiciones que han perdido aplicabilidad práctica, a fin de armonizar la normativa con la operatividad institucional actual.
+Que mediante Acuerdo No. 0630 de fecha 11 de abril del año 2003, publicado en el Diario Oficial "La Gaceta" en fecha 30 de junio del mismo año se creó el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones contenida en el Decreto Legislativo No. 108-90, el cual contiene las normas y procedimientos descritos en su Ley. Sin embargo, se ha determinado la necesidad de adecuar su contenido a la estructura organizativa vigente del BCH, incorporando mecanismos electrónicos para la gestión y seguimiento de la información relacionada con el ingreso de divisas provenientes de las exportaciones, por lo que, se deben adecuar los plazos establecidos para su ingreso, simplificar los procedimientos administrativos y eliminar disposiciones que han perdido aplicabilidad práctica, a fin de armonizar la normativa con la operatividad institucional actual.
 
 CONSIDERANDO (08):
 
@@ -75,11 +65,7 @@ Que, con la finalidad de agilizar, simplificar y fortalecer la gestión logísti
 
 ACUERDA:
 
-Aprobar el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones como instrumento normativo que regula las normas y procedimientos descritos en la Ley de Ingreso de Divisas Provenientes de las Exportaciones contenida en el Decreto Legislativo No.
-
-108-90 en aplicación de las disposiciones establecidas en los artículos 235, 245, numeral 11), 246, 247, 248 y 255 de la Constitución de la República contenida en el Decreto No.
-
-131-1982; 20 de la Ley de Ingreso de Divisas Provenientes de las Exportaciones contenida en el Decreto Legislativo 108-90 y sus reformas; 29 numeral 15), 116 y 118 de la Ley General de la Administración Pública contenida en el Decreto Legislativo No. 146-86; 19, 30, 32, 41 y 42 de la Ley de Procedimiento Administrativo; cuyo texto íntegro se leerá de la manera siguiente:
+Aprobar el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones como instrumento normativo que regula las normas y procedimientos descritos en la Ley de Ingreso de Divisas Provenientes de las Exportaciones contenida en el Decreto Legislativo No. 108-90 en aplicación de las disposiciones establecidas en los artículos 235, 245, numeral 11), 246, 247, 248 y 255 de la Constitución de la República contenida en el Decreto No. 131-1982; 20 de la Ley de Ingreso de Divisas Provenientes de las Exportaciones contenida en el Decreto Legislativo 108-90 y sus reformas; 29 numeral 15), 116 y 118 de la Ley General de la Administración Pública contenida en el Decreto Legislativo No. 146-86; 19, 30, 32, 41 y 42 de la Ley de Procedimiento Administrativo; cuyo texto íntegro se leerá de la manera siguiente:
 
 REGLAMENTO A LA LEY DE INGRESO DE DIVISAS PROVENIENTE DE LAS EXPORTACIONES
 
@@ -87,7 +73,7 @@ CAPÍTULO I OBJETO
 
 #### Artículo 1
 
-Artículo 1. El presente Reglamento contiene las normas y procedimientos relacionados con la aplicación de la Ley de Ingreso de Divisas Provenientes de las Exportaciones, contenida en el Decreto Legislativo No.108-90 del 20 de septiembre de 1990, publicado en el Diario Oficial "La Gaceta" el 08 de octubre del mismo año y sus reformas.
+Artículo 1. El presente Reglamento contiene las normas y procedimientos relacionados con la aplicación de la Ley de Ingreso de Divisas Provenientes de las Exportaciones, contenida en el Decreto Legislativo No. 108-90 del 20 de septiembre de 1990, publicado en el Diario Oficial "La Gaceta" el 08 de octubre del mismo año y sus reformas.
 
 CAPÍTULO II DEFINICIONES
 
@@ -137,9 +123,7 @@ En casos que los exportadores requieran un plazo adicional a las facilidades ant
 
 Así mismo, cuando se trate de promoción de las exportaciones, el Directorio del Banco Central de Honduras (BCH) podrá establecer nuevos términos, en relación con los plazos establecidos en el cuadro antes referido.
 
-Para las ampliaciones antes descritas será necesario que el exportador presente su solicitud de prórroga de conformidad con lo establecido en el artículo 44 de la Ley de Procedimiento Administrativo contenidas en el Decreto Legislativo No.
-
-152-87.
+Para las ampliaciones antes descritas será necesario que el exportador presente su solicitud de prórroga de conformidad con lo establecido en el artículo 44 de la Ley de Procedimiento Administrativo contenidas en el Decreto Legislativo No. 152-87.
 
 Los plazos para la repatriación de divisas provenientes de exportaciones serán revisados por el Banco Central de Honduras (BCH), de acuerdo con la posición externa del país, tomando como referencia la evolución del Indicador de Suficiencia de Reservas Internacionales, medido conforme a la metodología Assessing Reserve Adequacy (ARA) del Fondo Monetario Internacional (FMI). De ubicarse dicho indicador por debajo del límite inferior del rango de referencia sugerido por el FMI por un período consecutivo de dos trimestres, el Banco Central de Honduras (BCH) podrá ajustar los referidos plazos.
 
@@ -219,7 +203,7 @@ Artículo 16. Lo no previsto en este Reglamento será resuelto por la Secretarí
 
 #### Artículo 17
 
-Artículo 17. Derogar el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones contenido en el Acuerdo No.0630 del 11 de abril del año 2003, publicado en el Diario Oficial "La Gaceta" el 30 de junio del mismo año, emitido por el Poder Ejecutivo por medio de la Secretaría de Estado en el Despacho de Finanzas y sus reformas.
+Artículo 17. Derogar el Reglamento a la Ley de Ingreso de Divisas Proveniente de las Exportaciones contenido en el Acuerdo No. 0630 del 11 de abril del año 2003, publicado en el Diario Oficial "La Gaceta" el 30 de junio del mismo año, emitido por el Poder Ejecutivo por medio de la Secretaría de Estado en el Despacho de Finanzas y sus reformas.
 
 #### Artículo 18
 

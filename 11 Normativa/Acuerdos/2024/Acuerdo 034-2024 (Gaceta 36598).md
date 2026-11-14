@@ -11,7 +11,7 @@ paginas: "A. 1 - 28"
 sumario: "Acuerdo No. 034-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240729-36598/download"
 extraido: "2026-11-14"
-huella: "20f26246a85d12a7"
+huella: "861422dbb12c024e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 034-2024
@@ -55,7 +55,7 @@ CONSIDERANDO: Que el Instituto Nacional de Conservación y Desarrollo Forestal, 
 
 POR TANTO:
 
-La Dirección Ejecutiva, en uso de las facultades legales que le confiere el Artículos 1, 127, 128, 129,130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142 y 265 de la Constitución de la República; 116 de la Ley de Procedimiento Administrativo; 1, 2, 3, 4, 11, 14, 17, 18, 198, 199 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98- 2007); 21, 22, 23, 24, 25, 26, 27, 54, 76, 77, 154 de la Ley de Procedimiento Administrativo; los pronunciamientos técnico y legal, así como los demás preceptos legales aplicables.
+La Dirección Ejecutiva, en uso de las facultades legales que le confiere el Artículos 1, 127, 128, 129,130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142 y 265 de la Constitución de la República; 116 de la Ley de Procedimiento Administrativo; 1, 2, 3, 4, 11, 14, 17, 18, 198, 199 y 211 de la Ley Forestal, Áreas Protegidas y Vida Silvestre (Decreto 98-2007); 21, 22, 23, 24, 25, 26, 27, 54, 76, 77, 154 de la Ley de Procedimiento Administrativo; los pronunciamientos técnico y legal, así como los demás preceptos legales aplicables.
 
 ACUERDA:
 

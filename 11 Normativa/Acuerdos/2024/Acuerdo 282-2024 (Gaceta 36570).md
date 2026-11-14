@@ -11,7 +11,7 @@ paginas: "A. 5 - 6"
 sumario: "Acuerdo Ejecutivo No. 149-2024,Acuerdos Nos. 282-2024, 341-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240626-36570/download"
 extraido: "2026-11-14"
-huella: "4957989d20ce08e4"
+huella: "60933e56d66e6ceb"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 282-2024
@@ -35,9 +35,7 @@ CONSIDERANDO: Que con el objeto de agilizar la Administración Pública, los Sec
 
 CONSIDERANDO: Que el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo establece que los Subsecretarios de Estados por un acto de delegación del señor Secretario de Estado del ramo podrán conocer y resolver asuntos determinados o específicos y sustituirlos en caso de ausencia.
 
-CONSIDERANDO: Que mediante Acuerdo Ejecutivo No.
-
-45-2024 de fecha 12 de febrero del año dos mil veinticuatro (2024), se nombró a la ciudadana Heidy Walezka Barahona Alachán, en el cargo de Subsecretaria de Justicia de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
+CONSIDERANDO: Que mediante Acuerdo Ejecutivo No. 45-2024 de fecha 12 de febrero del año dos mil veinticuatro (2024), se nombró a la ciudadana Heidy Walezka Barahona Alachán, en el cargo de Subsecretaria de Justicia de la Secretaría de Estado en los Despachos de Gobernación, Justicia y Descentralización.
 
 CONSIDERANDO: Que en ausencia temporal de sus labores por enfermedad o por el desempeño de sus actividades inherentes al cargo, puede delegar las mismas inmediatamente en la ciudadana Heidy Walezka Barahona Alachán, Subsecretaria de Estado en el Despacho de Justicia, con el objeto de no paralizar el normal funcionamiento de los diferentes trámites administrativos ventilados en esta Secretaría de Estado.
 
@@ -45,7 +43,7 @@ POR TANTO:
 
 En uso de sus atribuciones y en aplicaciones de los Artículos:
 
-30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM- 008-97, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
+30, 36 numerales 8 y 19, 116 y 118 de la Ley General de la Administración Pública; 1, 4 y 5 de la Ley de Procedimiento Administrativo; 24 y 26 del Decreto Ejecutivo PCM-008-97, que contiene el Reglamento de Organización, Funcionamiento y Competencias del Poder Ejecutivo.
 
 ACUERDA:
 

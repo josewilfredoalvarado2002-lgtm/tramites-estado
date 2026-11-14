@@ -11,7 +11,7 @@ paginas: "A. 8 - 14"
 sumario: "Proyecto de Reglamento para Regular el funcionamiento de los movimientos internos del Pricphma, en los procesos electorales para elegir los organismos de dirección nacional del Pricphma/Acuerdo No. 001-2021/Reforma al Reglamento del Programa de anticipo del veinte por ciento (20%) del Seguro de vida."
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211223-35805/download"
 extraido: "2026-11-14"
-huella: "547553db99b9fc65"
+huella: "1f4214d43099f014"
 ---
 <!-- portal:inicio -->
 # ACUERDO N°. 001-2021
@@ -27,13 +27,11 @@ huella: "547553db99b9fc65"
 
 ## Texto
 
-La LV Asamblea General Ordinaria del Primer Colegio Profesional Hondureño de Maestros PRICPHMA “Profesor JOSÉ FRANCISCO GARCÍA” Q.D.D.G., celebrada en la ciudad de San Pedro Sula, departamento de Cortés del 10 al 11 de Diciembre de 2021, una vez recibido de la Junta Directiva Central del Primer Colegio Profesional Hondureño de Maestros PRICPHMA, el PROYECTO DE REGLAMENTO PARA REGULAR EL FUNCIONAMIENTO DE LOS MOVIMIENTOS INTERNOS DEL PRICPHMA, EN LOS PROCESOS ELECTORALES PARA ELEGIR LOS ORGANISMOS DE DIRECCIÓN NACIONAL DEL PRICPHMA; el cual fue sometido a la lectura, discusión y aprobación por unanimidad; en uso de las atribuciones que le confiere la Ley Orgánica del PRICPHMA, en el Artículo N°.
-
-13 numeral 4, ACUERDA:
+La LV Asamblea General Ordinaria del Primer Colegio Profesional Hondureño de Maestros PRICPHMA “Profesor JOSÉ FRANCISCO GARCÍA” Q.D.D.G., celebrada en la ciudad de San Pedro Sula, departamento de Cortés del 10 al 11 de Diciembre de 2021, una vez recibido de la Junta Directiva Central del Primer Colegio Profesional Hondureño de Maestros PRICPHMA, el PROYECTO DE REGLAMENTO PARA REGULAR EL FUNCIONAMIENTO DE LOS MOVIMIENTOS INTERNOS DEL PRICPHMA, EN LOS PROCESOS ELECTORALES PARA ELEGIR LOS ORGANISMOS DE DIRECCIÓN NACIONAL DEL PRICPHMA; el cual fue sometido a la lectura, discusión y aprobación por unanimidad; en uso de las atribuciones que le confiere la Ley Orgánica del PRICPHMA, en el Artículo N°. 13 numeral 4, ACUERDA:
 
 PRIMERO: Aprobar el presente:
 
-R E G L A M E N T O P A R A R E G U L A R E L FUNCIONAMIENTO DE LOS MOVIMIENTOS INTERNOS DEL PRICPHMA, EN LOS PROCESOS ELECTORALES PARA ELEGIR LOS ORGANISMOS DE DIRECCIÓN NACIONAL DEL PRICPHMA.
+REGLAMENTO PARA REGULAR EL FUNCIONAMIENTO DE LOS MOVIMIENTOS INTERNOS DEL PRICPHMA, EN LOS PROCESOS ELECTORALES PARA ELEGIR LOS ORGANISMOS DE DIRECCIÓN NACIONAL DEL PRICPHMA.
 
 CAPÍTULO I DISPOSICIONES GENERALES
 

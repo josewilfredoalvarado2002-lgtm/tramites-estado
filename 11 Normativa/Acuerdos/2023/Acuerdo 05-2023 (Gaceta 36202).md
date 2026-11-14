@@ -11,7 +11,7 @@ paginas: "A. 89 - 96"
 sumario: "Acuerdo No. 04/2023, Resolución No. 97-3/2023, 05/2023, 06/2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20230412-36202/download"
 extraido: "2026-11-14"
-huella: "398e49e2b78a4af2"
+huella: "5b09fdfe127bfe73"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 05/2023
@@ -27,7 +27,7 @@ huella: "398e49e2b78a4af2"
 
 ## Texto
 
-ACUERDO No.­05/2023.- Sesión No.4020 (Extraordinaria) del 10 de abril de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
+ACUERDO No.­05/2023.- Sesión No. 4020 (Extraordinaria) del 10 de abril de 2023.- EL DIRECTORIO DEL BANCO CENTRAL DE HONDURAS,
 
 CONSIDERANDO: Que de acuerdo con el Artículo 342 de la Constitución de la República, el Estado por medio del Banco Central de Honduras (BCH), tendrá a su cargo la formulación y desarrollo de la política monetaria, crediticia y cambiaria del país, debidamente coordinada con la política económica planificada.
 
@@ -45,15 +45,15 @@ CONSIDERANDO: Que el BCH y el sistema financiero nacional, cuentan con la experi
 
 CONSIDERANDO: Que la economía hondureña pese a las condiciones adversas internacionales reporta un buen desempeño, registrando al cierre de marzo de 2023 flujos de ingresos de divisas por US$4,486.5 millones, que representa un incremento de US$198.1 millones respecto a lo registrado en igual período del año anterior.
 
-CONSIDERANDO: Que en base a la recomendación del equipo técnico del BCH, discutida ampliamente en el seno de la sesión extraordinaria No.03/2023 del Comité de Divisas celebrada el 3 de abril de 2023, por unanimidad de votos se decidió someter a consideración del Directorio del BCH la propuesta de retomar la Subasta de Divisas como mecanismo de asignación de divisas.
+CONSIDERANDO: Que en base a la recomendación del equipo técnico del BCH, discutida ampliamente en el seno de la sesión extraordinaria No. 03/2023 del Comité de Divisas celebrada el 3 de abril de 2023, por unanimidad de votos se decidió someter a consideración del Directorio del BCH la propuesta de retomar la Subasta de Divisas como mecanismo de asignación de divisas.
 
 POR TANTO:
 
 Con fundamento en los artículos 342 de la Constitución de la República, 54 y 118 de la Ley General de la Administración Pública; 2, 6, 16 inciso a), f), l), n) y v), 29 y 32 de la Ley del Banco Central de Honduras;
 
-46 numerales 11) y 12) de la ley del Sistema Financiero, 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No.206-4/2021 del 29 de abril de 2021,
+46 numerales 11) y 12) de la ley del Sistema Financiero, 3 de la Ley Monetaria y en las Normas Generales del Comité de Divisas del Banco Central de Honduras, contenidas en la Resolución No. 206-4/2021 del 29 de abril de 2021,
 
-A C U E R D A:
+ACUERDA:
 
 I.
 
@@ -259,7 +259,7 @@ II. Instruir a la Secretaría del Directorio para que comunique este acuerdo a l
 
 III.
 
-Derogar el Acuerdo No.06/2021 del 3 de junio de 2021, mediante el cual se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas y todas sus reformas emitidas por el Directorio del Banco Central de Honduras, incluyendo el Acuerdo No.02/2023 del 9 de febrero de 2023.
+Derogar el Acuerdo No. 06/2021 del 3 de junio de 2021, mediante el cual se aprobó el Reglamento para la Negociación en el Mercado Organizado de Divisas y todas sus reformas emitidas por el Directorio del Banco Central de Honduras, incluyendo el Acuerdo No. 02/2023 del 9 de febrero de 2023.
 
 IV.
 

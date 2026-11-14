@@ -11,7 +11,7 @@ paginas: "A. 9"
 sumario: "Acuerdos números 002-2020, 003-2020,004-2020, 005-2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200125-35157/download"
 extraido: "2026-11-14"
-huella: "6049d195029e47d4"
+huella: "7838a5357f30b8d5"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 003-2020
@@ -41,7 +41,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere el Artículo 33, 36 Nº. 1, 8, 116 y 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública y Artículo 1 del Decreto Legislativo Nº. 266-2013 y Decreto Ejecutivo Número 402-2002 del 13 de marzo del 2002.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Autorizar a la Gerencia Administrativa de esta Secretaría de Estado, proceda a pagar mensualmente los GASTOS DE REPRESENTACIÓN EN EL EXTERIOR, al Representante de la Organización Mundial del Comercio en Ginebra, Suiza, para el funcionamiento Operativo de dicha Organización, la cantidad de $14,900.00 (CATORCE MIL NOVECIENTOS DOLARES EXACTOS), a partir del 01 de enero del presente año al 31 de diciembre del 2020.
 

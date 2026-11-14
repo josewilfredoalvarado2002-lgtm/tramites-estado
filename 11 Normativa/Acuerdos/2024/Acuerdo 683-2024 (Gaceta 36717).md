@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Acuerdos Ejecutivos Números 683-2024, 684-2024, 685-2024, 686-2024, 687-2024, 689-2024, 691-2024, 702-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241217-36717/download"
 extraido: "2026-11-14"
-huella: "5c70a472f3e07491"
+huella: "a9851c8dca842dbe"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO NÚMERO 683-2024
@@ -39,7 +39,7 @@ Que el artículo 248 de la Constitución de la República en su párrafo primero
 
 CONSIDERANDO:
 
-Que el Decreto No.83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
+Que el Decreto No. 83-2004 que contiene la Ley Orgánica del Presupuesto, en su artículo 73 establece que la negociación de los empréstitos del Sector Público corresponderá a la Secretaría de Estado en el Despacho de Finanzas, por medio de la Dirección General de Crédito Público, de conformidad a los lineamientos contenidos en esta Ley y demás leyes aplicables.
 
 En la negociación se definirán las condiciones contractuales, como ser: Destino del financiamiento, plazos de amortización, período de gracia, tasas máximas de interés y moneda para el pago, sin perjuicio de las demás condiciones que son propias en esta clase de negociación.
 
@@ -89,7 +89,7 @@ Presidenta de la República de Honduras
 
 ROSA ELIZABETH RIVERA HENRÍQUEZ
 
-Subsecretaria de Finanzas y Presupuesto Acuerdo No.176-2022 / Acuerdo No.626-2024
+Subsecretaria de Finanzas y Presupuesto Acuerdo No. 176-2022 / Acuerdo No. 626-2024
 
 ## Fuente
 

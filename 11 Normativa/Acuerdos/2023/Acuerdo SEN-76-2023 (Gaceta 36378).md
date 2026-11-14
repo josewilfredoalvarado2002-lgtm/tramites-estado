@@ -11,7 +11,7 @@ paginas: "A. 8 - 12"
 sumario: "Acuerdo Ejecutivo No. SEN-76-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231108-36378/download"
 extraido: "2026-11-14"
-huella: "60f0e05763e53e1f"
+huella: "a8e900b341cf5433"
 ---
 <!-- portal:inicio -->
 # ACUERDO EJECUTIVO No. SEN-76-2023
@@ -29,11 +29,11 @@ huella: "60f0e05763e53e1f"
 
 LA PRESIDENTA CONSTITUCIONAL DE LA REPÚBLICA
 
-CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No.157-2022, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, autorizó en su Artículo 3 a la Empresa Nacional de Energía Eléctrica (ENEE), adquirir nuevo endeudamiento con Fuente 13 – Crédito Interno, hasta un monto de TRES MIL CINCUENTA Y TRES MILLONES CINCUENTA MIL NOVECIENTOS SETENTA Y CUATRO LEMPIRAS EXACTOS (L3,053,050,974.00); asimismo, en su Artículo 192 autoriza a esta empresa estatal a realizar las colocaciones de los saldos disponibles del endeudamiento ya autorizado, mediante los Decretos Legislativos No.107-2021 y No.30- 2022, contentivos de Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2022 y su modificación respectivamente.
+CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 157-2022, contentivo del Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2023, autorizó en su Artículo 3 a la Empresa Nacional de Energía Eléctrica (ENEE), adquirir nuevo endeudamiento con Fuente 13 – Crédito Interno, hasta un monto de TRES MIL CINCUENTA Y TRES MILLONES CINCUENTA MIL NOVECIENTOS SETENTA Y CUATRO LEMPIRAS EXACTOS (L3,053,050,974.00); asimismo, en su Artículo 192 autoriza a esta empresa estatal a realizar las colocaciones de los saldos disponibles del endeudamiento ya autorizado, mediante los Decretos Legislativos No. 107-2021 y No. 30-2022, contentivos de Presupuesto General de Ingresos y Egresos de la República y sus Disposiciones Generales Ejercicio Fiscal 2022 y su modificación respectivamente.
 
-CONSIDERANDO: Que los saldos disponibles para endeudamiento de la Empresa Nacional de Energía Eléctrica (ENEE), autorizados en los Decretos Legislativos No.107- 2021 y No.30-2022 antes referidos, ascienden a la cantidad TRES MIL CIENTO SESENTA Y SEIS MILLONES SEISCIENTOS VEINTE MIL CUATROCIENTOS SESENTA Y NUEVE LEMPIRAS EXACTOS (L3,166,620,469.00).
+CONSIDERANDO: Que los saldos disponibles para endeudamiento de la Empresa Nacional de Energía Eléctrica (ENEE), autorizados en los Decretos Legislativos No. 107-2021 y No. 30-2022 antes referidos, ascienden a la cantidad TRES MIL CIENTO SESENTA Y SEIS MILLONES SEISCIENTOS VEINTE MIL CUATROCIENTOS SESENTA Y NUEVE LEMPIRAS EXACTOS (L3,166,620,469.00).
 
-CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No.157-2022, autorizó en su Artículo 192 a la ENEE para realizar operaciones de gestión de pasivos de los bonos vigentes con el propósito de minimizar el riesgo y mejorar el perfil del portafolio de deuda. Las operaciones de gestión de pasivos que realice la ENEE no contarán contra su techo presupuestario de endeudamiento autorizado para el 2023 y podrá realizarlas a través de operaciones de permuta, refinanciamiento, rescate anticipado de títulos, contratación de préstamos u otro mecanismo financiero legalmente viable, pudiendo acceder el mercado doméstico e internacional; asimismo, se autorizó que el nuevo endeudamiento y gestión de pasivos que realice ENEE, contará con Garantía Soberana del Estado de Honduras con base en lo establecido en el
+CONSIDERANDO: Que el Congreso Nacional mediante Decreto Legislativo No. 157-2022, autorizó en su Artículo 192 a la ENEE para realizar operaciones de gestión de pasivos de los bonos vigentes con el propósito de minimizar el riesgo y mejorar el perfil del portafolio de deuda. Las operaciones de gestión de pasivos que realice la ENEE no contarán contra su techo presupuestario de endeudamiento autorizado para el 2023 y podrá realizarlas a través de operaciones de permuta, refinanciamiento, rescate anticipado de títulos, contratación de préstamos u otro mecanismo financiero legalmente viable, pudiendo acceder el mercado doméstico e internacional; asimismo, se autorizó que el nuevo endeudamiento y gestión de pasivos que realice ENEE, contará con Garantía Soberana del Estado de Honduras con base en lo establecido en el
 
 Artículo 78 de la Ley Orgánica del Presupuesto.
 
@@ -61,7 +61,7 @@ PRIMERO: Aprobar el Reglamento de las Características, Términos y Condiciones 
 
 Artículo 1.- Se reglamenta la emisión de valores gubernamentales denominada “VALORES GUBERNAMENTALES DE LA EMPRESA NACIONAL DE ENERGÍA ELÉCTRICA (VGE)” hasta por un monto de SEIS MIL DOSCIENTOS DIECINUEVE MILLONES SEISCIENTOS SETENTA Y UN MIL CUATROCIENTOS CUARENTA Y TRES LEMPIRAS EXACTOS (L6,219,671,443.00), para el financiamiento de las obligaciones financieras de la Empresa Nacional de Energía Eléctrica, según lo autorizado en los
 
-Artículos 3 y 192 del Decreto Legislativo No.157-2022.
+Artículos 3 y 192 del Decreto Legislativo No. 157-2022.
 
 La formalización de esta emisión se realizará mediante Acta suscrita por el titular de la Empresa Nacional de Energía Eléctrica (ENEE), la Presidenta del Banco Central de Honduras (BCH) y la titular de la Secretaría de Estado en el Despacho de Finanzas.
 
@@ -77,7 +77,7 @@ Artículo 3.- Los valores gubernamentales de la presente emisión, tendrán las 
 
 Los valores gubernamentales podrán emitirse en moneda nacional, dólares de los Estados Unidos de América o denominados en dólares de los Estados Unidos de América bajo diferentes modalidades, incluyendo, pero no limitándose a cupón fijo y cupón variable.
 
-El monto mínimo de cada operación de colocación en el mercado primario será de CIEN MIL LEMPIRAS EXACTOS (L100,000.00) y en múltiplos de UN MIL LEMPIRAS EXACTOS (L1,000.00), para montos superiores en la emisión de valores en moneda nacional y de DIEZ MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$10,000.00) y en múltiplos de UN MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$1,000.00), para montos superiores en la emisión de valores en dólares de los Estados Unidos de América y denominados en dólares de los Estados Unidos de América Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No.301- 2018 del 5 de marzo de 2018.
+El monto mínimo de cada operación de colocación en el mercado primario será de CIEN MIL LEMPIRAS EXACTOS (L100,000.00) y en múltiplos de UN MIL LEMPIRAS EXACTOS (L1,000.00), para montos superiores en la emisión de valores en moneda nacional y de DIEZ MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$10,000.00) y en múltiplos de UN MIL DÓLARES DE LOS ESTADOS UNIDOS DE AMÉRICA EXACTOS (US$1,000.00), para montos superiores en la emisión de valores en dólares de los Estados Unidos de América y denominados en dólares de los Estados Unidos de América Los valores gubernamentales podrán ser colocados a un precio a la par, bajo la par o sobre la par entre inversionistas institucionales, instituciones financieras y público en general, mediante el mecanismo de subasta o colocación directa en apego a lo establecido en el Reglamento General de Negociación de Valores Gubernamentales del Gobierno de Honduras, aprobado mediante Acuerdo Ejecutivo No. 301-2018 del 5 de marzo de 2018.
 
 La tasa de descuento o de rendimiento para determinar el precio de corte a aceptar para cada una de las sub-emisiones, será fijada por la Empresa Nacional de Energía Eléctrica, a través de su Gerencia General.
 
@@ -151,7 +151,7 @@ b) Cubrir los costos por la comisión de administración que pagará al Banco Ce
 
 Artículo 14.- El Banco Central de Honduras efectuará automáticamente los créditos a la cuenta que autorice la Empresa Nacional de Energía Eléctrica por el producto de las colocaciones o los cargos por el pago de comisiones, intereses y amortizaciones de capital, si a la fecha de los pagos respectivos, la Empresa Nacional de Energía Eléctrica no ha efectuado las transferencias de los fondos necesarios al Banco Central de Honduras.
 
-El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 192 del Decreto Legislativo No.157-2022, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica.
+El pago del servicio de la deuda de esta Emisión cuenta con Garantía Soberana del Estado de Honduras, conforme a lo establecido en el Artículo 192 del Decreto Legislativo No. 157-2022, por ende el Banco Central de Honduras está autorizado a efectuar automáticamente los cargos o débitos a la cuenta de la Tesorería General de la República, si en la fecha de pago hay insuficiencia de recursos en las cuentas de la Empresa Nacional de Energía Eléctrica.
 
 #### Artículo 15
 

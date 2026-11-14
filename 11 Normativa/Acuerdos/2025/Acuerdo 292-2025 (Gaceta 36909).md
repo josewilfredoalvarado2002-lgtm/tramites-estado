@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Acuerdo Número 292-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250806-36909/download"
 extraido: "2026-11-09"
-huella: "8eaa0c0fa3f417a2"
+huella: "41f7a4e4bfcfd687"
 ---
 <!-- portal:inicio -->
 # ACUERDO NÚMERO 292-2025
@@ -43,9 +43,7 @@ Que la Ley del Banco Central de Honduras establece que el Directorio del Banco C
 
 CONSIDERANDO (03):
 
-Que mediante Acuerdo No.
-
-197-2021 de fecha 04 de febrero de 2021 se nombró al ciudadano EFRAÍN CONCEPCIÓN SUÁREZ TORRES en el cargo de Director del Banco Central de Honduras a partir del 04 de febrero de 2021 hasta el 27 de enero de 2025; quedando vacante desde esa fecha el cargo de Director.
+Que mediante Acuerdo No. 197-2021 de fecha 04 de febrero de 2021 se nombró al ciudadano EFRAÍN CONCEPCIÓN SUÁREZ TORRES en el cargo de Director del Banco Central de Honduras a partir del 04 de febrero de 2021 hasta el 27 de enero de 2025; quedando vacante desde esa fecha el cargo de Director.
 
 CONSIDERANDO (04):
 

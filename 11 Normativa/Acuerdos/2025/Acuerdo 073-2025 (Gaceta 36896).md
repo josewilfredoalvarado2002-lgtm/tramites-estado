@@ -11,7 +11,7 @@ paginas: "A. 4 - 7"
 sumario: "Acuerdos Ministeriales Nos. 072-2025,073-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250722-36896/download"
 extraido: "2026-11-09"
-huella: "7ee96eb7ac03fa04"
+huella: "8c11eb47c675e0f8"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 073-2025
@@ -43,19 +43,17 @@ CONSIDERANDO: Que en el Primer Párrafo del Numeral 12 del Acuerdo Ejecutivo Nú
 
 CONSIDERANDO: Que en la reunión sostenida el día 08 de mayo de 2025, con la Comisión de Supervisión del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Maíz Blanco), la Empresa AGROBOLSA (Ente Contralor), presentó el informe de compras de Maíz Blanco (Segundo Corte), de la Cosecha Nacional 2024-2025, que comprende del 01 de enero al 30 de abril de 2025, compras que fueron realizadas por las empresas de la Industria de Harinas de Maíz Blanco y Alimentos para Consumo Humano, siendo aprobado por la Comisión de Supervisión del referido Convenio.
 
-CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería mediante Oficio SAG-722-2025, remite a la Secretaría de Desarrollo Económico el Acuerdo No. SAG- 057-2025, de fecha 08 de mayo de 2025 publicado en fecha 09 de junio de 2025 en el Diario Oficial “La Gaceta”, en el marco del Acuerdo Ejecutivo No. SA-125-2022, modificado mediante Acuerdo Ejecutivo No. 137-2024, por medio del cual solicita a esta Secretaría de Estado proceder a la emisión de los Certificados para la Importación de maíz blanco segundo corte por la cantidad de 27,491.40 TM, clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), con un DAI del cero por ciento (0%), y con una vigencia hasta al 31 de diciembre del 2025.
+CONSIDERANDO: Que la Secretaría de Agricultura y Ganadería mediante Oficio SAG-722-2025, remite a la Secretaría de Desarrollo Económico el Acuerdo No. SAG-057-2025, de fecha 08 de mayo de 2025 publicado en fecha 09 de junio de 2025 en el Diario Oficial “La Gaceta”, en el marco del Acuerdo Ejecutivo No. SA-125-2022, modificado mediante Acuerdo Ejecutivo No. 137-2024, por medio del cual solicita a esta Secretaría de Estado proceder a la emisión de los Certificados para la Importación de maíz blanco segundo corte por la cantidad de 27,491.40 TM, clasificado en el inciso arancelario 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), con un DAI del cero por ciento (0%), y con una vigencia hasta al 31 de diciembre del 2025.
 
 POR TANTO:
 
 En aplicación de los artículos 255 de la Constitución de la República; Artículo 36 Numeral 8), 116, 118, 119 y 122 de la Ley General de la Administración Pública;
 
-80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No.
-
-SAG-125-2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022; Acuerdo Ejecutivo 137-2024, publicado en el Diario Oficial “La Gaceta” en fecha 14 de marzo de 2025 y Acuerdo No. SAG-057-2025, publicado en el Diario Oficial “La Gaceta” en fecha 09 de junio de 2025.
+80 del Reglamento de Organización, Funcionamiento y Competencia del Poder Ejecutivo; Acuerdo Ejecutivo No. SAG-125-2022 publicado en el Diario Oficial “La Gaceta” en fecha 18 de mayo de 2022; Acuerdo Ejecutivo 137-2024, publicado en el Diario Oficial “La Gaceta” en fecha 14 de marzo de 2025 y Acuerdo No. SAG-057-2025, publicado en el Diario Oficial “La Gaceta” en fecha 09 de junio de 2025.
 
 ACUERDA:
 
-PRIMERO: Establecer un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 27,491.40 TM su equivalente a 27,491,400.00 KG con un DAI del cero por ciento (0%), en aplicación del Acuerdo No. SAG-057-2025, publicado en el Diario Oficial “La Gaceta” en fecha 09 de junio de 2025, correspondiente al segundo corte de maíz blanco de la cosecha nacional 2024-2025, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG- 125-2022 y Acuerdo Ejecutivo No. 137-2024), conforme se detalla a continuación:
+PRIMERO: Establecer un contingente de importación de maíz blanco clasificado en la fracción arancelaria 1005.90.30.00 del Arancel Centroamericano de Importación (ACI), por la cantidad de 27,491.40 TM su equivalente a 27,491,400.00 KG con un DAI del cero por ciento (0%), en aplicación del Acuerdo No. SAG-057-2025, publicado en el Diario Oficial “La Gaceta” en fecha 09 de junio de 2025, correspondiente al segundo corte de maíz blanco de la cosecha nacional 2024-2025, en el marco del Convenio para las Negociaciones de una Alianza Estratégica de Compra y Venta de Granos Básicos (Acuerdo Ejecutivo No. SAG-125-2022 y Acuerdo Ejecutivo No. 137-2024), conforme se detalla a continuación:
 
 VOLUMEN
 

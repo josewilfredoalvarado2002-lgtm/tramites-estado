@@ -11,7 +11,7 @@ paginas: "A. 1 - 12"
 sumario: "Decreto No. 226-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261102-37284/download"
 extraido: "2026-11-09"
-huella: "167fa03d0a87784d"
+huella: "37d464797ccb0f3f"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 226-2026
@@ -47,7 +47,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -137,11 +137,9 @@ ANTECEDENTES DE HECHO:
 
 PRIMERO: Que, en fecha trece (13) de mayo de dos mil veintiuno (2021) la Comisión Reguladora de Energía Eléctrica (CREE) emitió el Acuerdo CREE-20-2021, publicado en el Diario Oficial “La Gaceta” en fecha veinte (20) de mayo de dos mil veintiuno (2021), mediante el cual fijó en cuatrocientos kilovatios (400 kW), con vigencia a partir del dos (2) de agosto de dos mil veintiuno (2021), el valor de demanda máxima que debía exceder un Usuario o consumidor conectado a la red de distribución para ser considerado Consumidor Calificado.
 
-SEGUNDO: Que mediante el Decreto Legislativo No.
+SEGUNDO: Que mediante el Decreto Legislativo No. 46-2022, publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de mayo de dos mil veintidós (2022), se promulgó la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social, la cual, a través de su artículo 19, reformó el artículo 10 de la Ley General de la Industria Eléctrica (LGIE) y dispuso directamente en la Ley que ningún consumidor con una demanda máxima de potencia inferior a cinco megavatios (5 MW) podía ser Consumidor Calificado; en consecuencia, a partir de la entrada en vigencia de dicho Decreto, el valor fijado mediante el Acuerdo CREE-20-2021 quedó desplazado por la norma de rango legal.
 
-46-2022, publicado en el Diario Oficial “La Gaceta” en fecha dieciséis (16) de mayo de dos mil veintidós (2022), se promulgó la Ley Especial para Garantizar el Servicio de la Energía Eléctrica como un Bien Público de Seguridad Nacional y un Derecho Humano de Naturaleza Económica y Social, la cual, a través de su artículo 19, reformó el artículo 10 de la Ley General de la Industria Eléctrica (LGIE) y dispuso directamente en la Ley que ningún consumidor con una demanda máxima de potencia inferior a cinco megavatios (5 MW) podía ser Consumidor Calificado; en consecuencia, a partir de la entrada en vigencia de dicho Decreto, el valor fijado mediante el Acuerdo CREE-20-2021 quedó desplazado por la norma de rango legal.
-
-TERCERO: Que mediante el Decreto Legislativo No. 198- 2026, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de septiembre de dos mil veintiséis (2026), se promulgó la Ley de Justicia Energética, a través de la cual se reformó el artículo 10 de la Ley General de la Industria Eléctrica (LGIE), que en lo pertinente dispone lo siguiente:
+TERCERO: Que mediante el Decreto Legislativo No. 198-2026, publicado en el Diario Oficial “La Gaceta” en fecha veintinueve (29) de septiembre de dos mil veintiséis (2026), se promulgó la Ley de Justicia Energética, a través de la cual se reformó el artículo 10 de la Ley General de la Industria Eléctrica (LGIE), que en lo pertinente dispone lo siguiente:
 
 “La Comisión Reguladora de Energía Eléctrica fijará el valor de la demanda que los Consumidores Calificados deberán exceder para ser reconocidos como tal. Los consumidores calificados que actúen como agentes del mercado deberán tener contratada capacidad firme suficiente para cubrir el porcentaje de su demanda máxima de potencia que reglamentariamente establezca la Comisión Reguladora de Energía Eléctrica (CREE) (…)”.
 
@@ -149,7 +147,7 @@ CUARTO: Que, en fecha uno (01) de octubre de dos mil veintiséis (2026) la Comis
 
 QUINTO: Que, en fecha veinte (20) de octubre de dos mil veintiséis (2026) la Empresa Nacional de Energía Eléctrica (ENEE) en atención al oficio No. CREE-335-2026 presentó ante la Comisión Reguladora de Energía Eléctrica (CREE) el oficio No. GD-434-10-2026, junto con la documentación solicitada mediante el referido oficio.
 
-SEXTO: Que, en fecha veintidós (22) de octubre de dos mil veintiséis (2026) la Empresa Nacional de Energía Eléctrica (ENEE) presentó ante la Comisión Reguladora de Energía Eléctrica (CREE) el oficio No. GD-443-10-2026 a efectos de remitir doce (12) archivos adicionales en complemento a la documentación remitida mediante el oficio No. GD-434- 10-2026.
+SEXTO: Que, en fecha veintidós (22) de octubre de dos mil veintiséis (2026) la Empresa Nacional de Energía Eléctrica (ENEE) presentó ante la Comisión Reguladora de Energía Eléctrica (CREE) el oficio No. GD-443-10-2026 a efectos de remitir doce (12) archivos adicionales en complemento a la documentación remitida mediante el oficio No. GD-434-10-2026.
 
 SÉPTIMO: Que, en fecha veintiocho (28) de octubre de dos mil veintiséis (2026) la Dirección de Fiscalización emitió el documento intitulado “Determinación del valor de demanda para ser considerado Consumidor Calificado”, mediante el cual recomendó, entre otras cosas, al Directorio de Comisionados de la Comisión Reguladora de Energía Eléctrica (CREE) fijar en 400 kW la demanda mínima para los usuarios conectados a la red de distribución y en cero para los conectados en alta tensión (60 kV o más).
 

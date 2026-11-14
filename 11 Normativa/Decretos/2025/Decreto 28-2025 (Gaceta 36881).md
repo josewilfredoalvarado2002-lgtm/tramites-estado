@@ -11,7 +11,7 @@ paginas: "A. 8 - 9"
 sumario: "Decretos Nos. 26-2025, 27-2025, 28-2025"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20250704-36881/download"
 extraido: "2026-11-10"
-huella: "f677f16ff5837e1a"
+huella: "04c7810ffe7bb994"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 28-2025
@@ -49,7 +49,7 @@ DECRETA:
 
 ARTÍCULO 1.- Declárase la celebración anual de las “FERIAS DE EMPRENDEDORES AFRODESCENDIENTES”, durante el mes de Abril, en el marco del MES DE LA HERENCIA AFRICANA EN HONDURAS, con el propósito de fomentar el emprendimiento, promover el desarrollo económico local y visibilizar la riqueza cultural de los pueblos garífunas, negros(as) de habla inglesa y del pueblo miskito. Estas ferias se llevarán a cabo en las instalaciones del Congreso Nacional y podrán contar con el respaldo institucional necesario para su ejecución, incluyendo logística, seguridad, promoción, contratación de grupos culturales y demás recursos que se requieran.
 
-El Congreso Nacional mediante la Comisión de Enlace con Grupos, Indígenas y Afro-Hondureños, debe realizar las coordinaciones necesarias con las dependencias institucionales c o m p e t e n t e s , o r g a n i z a c i o n e s comunitarias y actores clave, a fin de asegurar el cumplimiento efectivo de lo dispuesto en el presente Artículo.
+El Congreso Nacional mediante la Comisión de Enlace con Grupos, Indígenas y Afro-Hondureños, debe realizar las coordinaciones necesarias con las dependencias institucionales competentes, organizaciones comunitarias y actores clave, a fin de asegurar el cumplimiento efectivo de lo dispuesto en el presente Artículo.
 
 #### Artículo 2
 

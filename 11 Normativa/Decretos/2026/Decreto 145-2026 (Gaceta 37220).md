@@ -11,7 +11,7 @@ paginas: "A. 16 - 17"
 sumario: "Decretos Nos. 141-2026, 143-2026, 144-2026, 145-2026, 146-2026, 148-2026, 149-2026, 150-2026, 152-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260814-37220/download"
 extraido: "2026-11-09"
-huella: "85e6c4be9d4ab680"
+huella: "4a46bae4ce2357bd"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 145-2026
@@ -43,7 +43,7 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO:
 
-D E C R E TA :
+D E C R E TA:
 
 #### Artículo 1
 

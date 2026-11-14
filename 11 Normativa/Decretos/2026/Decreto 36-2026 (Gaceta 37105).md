@@ -11,7 +11,7 @@ paginas: "A. 39 - 41"
 sumario: "Decretos Nos. 35-2026, 36-2026, 37-2026, 46-2026Resolución No. 2-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20260327-37105/download"
 extraido: "2026-11-09"
-huella: "e1087b62e4de5cc8"
+huella: "93a03906d512c472"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 36-2026
@@ -45,11 +45,11 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar por adición a la LEY DE MUNICIPALIDADES, contenida en el Decreto No.134-90 de fecha 29 de Octubre de 1990 y publicado en el Diario Oficial “La Gaceta” el 19 de noviembre de 1990, Edición No.26,292, adicionando el Artículo 91-A, el que de ahora en adelante se leerá de la siguiente manera:
+ARTÍCULO 1.- Reformar por adición a la LEY DE MUNICIPALIDADES, contenida en el Decreto No. 134-90 de fecha 29 de Octubre de 1990 y publicado en el Diario Oficial “La Gaceta” el 19 de noviembre de 1990, Edición No. 26,292, adicionando el Artículo 91-A, el que de ahora en adelante se leerá de la siguiente manera:
 
 “ARTÍCULO 91-A.- Se prohíbe el embargo judicial o cualquier retención sobre las transferencias que el Estado realice a cada municipalidad, por ejecución de Sentencias Firmes o cualquier otro título ejecutivo, cuando afecte más del treinta por ciento (30%) del monto de dichas transferencias.
 

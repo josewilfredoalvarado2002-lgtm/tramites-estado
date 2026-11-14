@@ -11,7 +11,7 @@ paginas: "A. 1 - 24"
 sumario: "Reglamento del Plan de Arbitrios de la Universidad de Defensa de Honduras"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261007-37264/download"
 extraido: "2026-11-09"
-huella: "4914e53600f36ad7"
+huella: "a01f86814f38aac4"
 ---
 <!-- portal:inicio -->
 # Según el sumario de La Gaceta: Reglamento del Plan de Arbitrios de la Universidad de Defensa de Honduras
@@ -31,7 +31,7 @@ Universidad de Defensa
 
 REGLAMENTO, PLAN DE ARBITRIOS CONSEJO SUPERIOR UNIVERSITARIO DE LA UNIVERSIDAD DE DEFENSA DE HONDURAS.
 
-CONSIDERANDO: Que el 11 de octubre del 2005, mediante el Acuerdo No. 1469- 186-2005, el Consejo de Educación Superior aprueba la creación de la Universidad de Defensa de Honduras.
+CONSIDERANDO: Que el 11 de octubre del 2005, mediante el Acuerdo No. 1469-186-2005, el Consejo de Educación Superior aprueba la creación de la Universidad de Defensa de Honduras.
 
 CONSIDERANDO: Que la Universidad de Defensa de Honduras, se define como un centro de estudios Superiores Estatal, que depende de la Secretaría de Estado en el Despacho de Defensa Nacional (SEDENA), su actividad principal es la formación, capacitación y especialización en el nivel de educación superior, metodológica y científica que requiera la institución armada.
 
@@ -87,7 +87,7 @@ Artículo 4. Definiciones: En el presente Plan de Arbitrios, se establece los t�
 
 9. Cotización: Documento informativo que no genera registro contable y que se emplea para fijar el precio de un servicio educativo que se le ofrece a un cliente.
 
-10. Derecho: Facultad concedida por las Leyes y Reglamentos a estudiantes que participan en el proceso, enseñanza- aprendizaje que imparte la UDH.
+10. Derecho: Facultad concedida por las Leyes y Reglamentos a estudiantes que participan en el proceso, enseñanza-aprendizaje que imparte la UDH.
 
 11. Derechos de Graduación: Es el pago que recibe la UDH, de parte del estudiante previo a obtener un título académico, habiendo cumplido con los requisitos académicos y administrativos que las normas y reglamentos establece.
 
@@ -693,9 +693,9 @@ Artículo 38.- Vigencia: El presente Plan de Arbitrios es efectivo a partir de l
 
 #### Artículo 39
 
-Artículo 39.- El presente Plan de Arbitrios deja sin valor y efecto el Plan de Arbitrios aprobado en Acuerdo No.2674- 270-2013 del Consejo de Educación Superior (CES), del 20 de marzo del 2013 y publicado en la Gaceta No. 33,147 del 11 de junio del 2013.
+Artículo 39.- El presente Plan de Arbitrios deja sin valor y efecto el Plan de Arbitrios aprobado en Acuerdo No. 2674-270-2013 del Consejo de Educación Superior (CES), del 20 de marzo del 2013 y publicado en la Gaceta No. 33,147 del 11 de junio del 2013.
 
-Dado en la Universidad de Defensa de Honduras, a los 20 días del mes de febrero del año 2026, bajo Acuerdo No 6096-410- 2026 del Consejo de Educación Superior (CES).
+Dado en la Universidad de Defensa de Honduras, a los 20 días del mes de febrero del año 2026, bajo Acuerdo No 6096-410-2026 del Consejo de Educación Superior (CES).
 
 PRESIDENTE CSU-UDH SECRETARIO CSU-UDH EMPRESA NACIONAL DE ARTES GRÁFICAS CONOCEMOS DEL TEMA, MÁS DE LO QUE IMAGINAS SOBRE REVISTAS BROCHUR VOLANTES BANNER EMPASTAR LIBROS tus ideas, LAs diseñamos y plasmamos el concepto con creatividad y lo imprimimos al formato que mas te guste www.enag.gob.hn Empresa Nacional de Artes Gráficas gaceta digital@enag.gob.hn www.lagaceta.hn Avance Próxima Edición Pendiente Próxima Edición...
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Decreto No. 106-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211220-35802/download"
 extraido: "2026-11-14"
-huella: "9f78071acf3622c6"
+huella: "7b2e67430ad23bf4"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 106-2021
@@ -41,11 +41,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constituc
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar los artículos 3, 4, 5, 6, 7, 10 y 11 de LA LEY ESPECIAL DE PROTECCIÓN A ALTOS FUNCIONARIOS Y EXFUNCIONARIOS EN RIESGO EXTRAORDINARIO, contenida en Decreto No.323-2013, publicado en el Diario Oficial “La Gaceta”, Edición No.33,467, en fecha 1 de Julio de 2014, reformado mediante Decreto No.93- 2014 y Decreto No.184-2016, los cuales se leerán de la manera siguiente:
+ARTÍCULO 1.- Reformar los artículos 3, 4, 5, 6, 7, 10 y 11 de LA LEY ESPECIAL DE PROTECCIÓN A ALTOS FUNCIONARIOS Y EXFUNCIONARIOS EN RIESGO EXTRAORDINARIO, contenida en Decreto No. 323-2013, publicado en el Diario Oficial “La Gaceta”, Edición No. 33,467, en fecha 1 de Julio de 2014, reformado mediante Decreto No. 93-2014 y Decreto No. 184-2016, los cuales se leerán de la manera siguiente:
 
 “ARTÍCULO 3.- Los funcionarios y exfuncionarios sujetos a la protección especial del Estado y a la aplicación de la presente Ley, se dividen conforme a las categorías siguientes:
 

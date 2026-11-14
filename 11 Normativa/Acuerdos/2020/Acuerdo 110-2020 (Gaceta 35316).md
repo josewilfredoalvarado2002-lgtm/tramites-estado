@@ -11,7 +11,7 @@ paginas: "A. 1 - 8"
 sumario: "Acuerdo No. 110 - 2020"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20200717-35316/download"
 extraido: "2026-11-14"
-huella: "e4111703fc886e81"
+huella: "79bfabdcc160956e"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 110-2020
@@ -111,7 +111,7 @@ CONSIDERANDO: Que la normativa antes relacionada concede al Estado de Honduras, 
 
 CONSIDERANDO: Que en fecha tres de febrero del año 2020, las Unidades Técnicas de registro minero y catastral dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN), emitió informe técnico ITCD-003-2020 sobre inspección realizada el 30 de enero del 2020, a cuatro (04) banco de préstamos de materiales, ubicados en los municipios de Villa de San Antonio y Comayagua del departamento de Comayagua; los cuales serán utilizados en el proyecto: “Diseño, Construcción y Financiamiento del Aeropuerto Internacional de Palmerola”, así mismo las Unidades de Desarrollo Social, Ambiente y Seguridad, Registro Minero y Catastral y Minas y Geología, emitieron la Norma Técnica No.NTPB-03-2020 en donde emiten las normas técnicas aplicables para el aprovechamiento de la extracción y acarreo de los bancos de materiales.
 
-CONSIDERANDO: Que en fecha tres (03) días del mes de febrero de dos mil veinte (2020), el Instituto Hondureño de Geología y Minas (INHGEOMIN), emitió Dictamen UDS- 004-2020 en donde manifiesta que después de haber efectuado la correspondiente revisión de documentos existentes en el expediente y realizada la inspección de campo en fecha 30 de enero del 2020, por solicitud de normativa técnica, para bancos de préstamos denominados: Banco Jaragua, Banco Maragua, Banco San José y Banco El Conejo, en donde el material extraído será utilizado en el proyecto: “Diseño, Construcción y Financiamiento del Aeropuerto Internacional de Palmerola”, y que los bancos inspeccionados cumplen con las expectativas para el otorgamiento de Normativa Técnica de aprovechamiento de acuerdo al informe de inspección ITCD- 003-2020; mismo que esta firmado por las unidades técnicas, Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN).
+CONSIDERANDO: Que en fecha tres (03) días del mes de febrero de dos mil veinte (2020), el Instituto Hondureño de Geología y Minas (INHGEOMIN), emitió Dictamen UDS-004-2020 en donde manifiesta que después de haber efectuado la correspondiente revisión de documentos existentes en el expediente y realizada la inspección de campo en fecha 30 de enero del 2020, por solicitud de normativa técnica, para bancos de préstamos denominados: Banco Jaragua, Banco Maragua, Banco San José y Banco El Conejo, en donde el material extraído será utilizado en el proyecto: “Diseño, Construcción y Financiamiento del Aeropuerto Internacional de Palmerola”, y que los bancos inspeccionados cumplen con las expectativas para el otorgamiento de Normativa Técnica de aprovechamiento de acuerdo al informe de inspección ITCD-003-2020; mismo que esta firmado por las unidades técnicas, Ambiente y Seguridad, Minas y Geología y Desarrollo Social, dependientes del Instituto Hondureño de Geología y Minas (INHGEOMIN).
 
 POR TANTO:
 

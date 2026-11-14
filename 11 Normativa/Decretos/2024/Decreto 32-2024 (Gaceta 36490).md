@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Decreto No. 32-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240320-36490/download"
 extraido: "2026-11-14"
-huella: "756bdda488382338"
+huella: "650d8227f8d3a02a"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 32-2024
@@ -39,13 +39,13 @@ CONSIDERANDO: Que la Constitución de la República en su Artículo 54 establece
 
 CONSIDERANDO: Que la Constitución de la República en su Artículo 43-A establece que “…El Registro Nacional de las Personas será administrado por una Comisión Permanente, que estará integrada por tres (3) Comisionados Propietarios y dos (2) Suplentes, que sustituirán a los Propietarios en sus ausencias, electos por las dos terceras partes de la totalidad de los miembros del Congreso Nacional y ejercerán sus cargos por un período de cinco (5) años, pudiendo ser reelectos…”.
 
-CONSIDERANDO: Que la Ley de Promoción de la Alianza Público-Privada contenida en el Decreto No.143-2010, del 11 de Agosto de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Septiembre de 2010, establece en su Artículo 22 que la “La Superintendencia de las Alianzas Público-Privada, es dirigida y administrada por tres (3) Superintendentes. Su nombramiento corresponde al Poder Legislativo previo a la realización de una audiencia pública…”.
+CONSIDERANDO: Que la Ley de Promoción de la Alianza Público-Privada contenida en el Decreto No. 143-2010, del 11 de Agosto de 2010, publicado en el Diario Oficial “La Gaceta” de fecha 16 de Septiembre de 2010, establece en su Artículo 22 que la “La Superintendencia de las Alianzas Público-Privada, es dirigida y administrada por tres (3) Superintendentes. Su nombramiento corresponde al Poder Legislativo previo a la realización de una audiencia pública…”.
 
 CONSIDERANDO: Que de conformidad al Artículo 205 Atribución 1) de la Constitución de la República es potestad del Congreso Nacional: Crear, decretar, interpretar, reformar y derogar la Ley.
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
@@ -57,7 +57,7 @@ ARTÍCULO 1.- Elegir a los ciudadanos:
 
 \3) COSSETTE ALEJANDRA LÓPEZ.
 
-Como Consejeros Propietarios d e l C O N S E J O N A C I O N A L ELECTORAL (CNE).
+Como Consejeros Propietarios del CONSEJO NACIONAL ELECTORAL (CNE).
 
 Y a los ciudadanos:
 

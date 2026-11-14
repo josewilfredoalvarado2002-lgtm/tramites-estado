@@ -11,7 +11,7 @@ paginas: "A. 6 - 8"
 sumario: "Acuerdos Nos. 564-2024, 583-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20241203-36705/download"
 extraido: "2026-11-14"
-huella: "c760de6c117e0d42"
+huella: "e406dceae31733b2"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 583-2024
@@ -55,9 +55,7 @@ Dado en la ciudad de Tegucigalpa, municipio del Distrito Central, a los cuatro (
 
 Abg. Heidy Waleska Barahona Secretaria de Estado, por Ley Abg. Celso Donadín Alvarado Secretario General Avance Próxima Edición
 
-ACUERDA: PRIMERO: Reformar parcialmente el Artículo 2 del Decreto Ejecutivo Número PCM-085-2016, Gaceta No.
-
-34,197 del 26 de noviembre de 2016 y que se relaciona con el Decreto Ejecutivo No. PCM-02-2007, Gaceta No. 31,2007 de fecha 20 de enero del 2007 y sus reformas.
+ACUERDA: PRIMERO: Reformar parcialmente el Artículo 2 del Decreto Ejecutivo Número PCM-085-2016, Gaceta No. 34,197 del 26 de noviembre de 2016 y que se relaciona con el Decreto Ejecutivo No. PCM-02-2007, Gaceta No. 31,2007 de fecha 20 de enero del 2007 y sus reformas.
 
 CENTROS DE DISTRIBUCIÓN:
 

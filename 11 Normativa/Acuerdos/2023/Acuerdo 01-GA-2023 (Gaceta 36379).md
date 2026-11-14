@@ -11,7 +11,7 @@ paginas: "A. 1 - 4"
 sumario: "Acuerdo No. 01-GA-2023"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20231109-36379/download"
 extraido: "2026-11-14"
-huella: "adcbb71bdba86fff"
+huella: "8246cf4d8c522740"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 01-GA-2023
@@ -83,7 +83,7 @@ JOSÉ CARLOS CARDONA ERAZO
 
 Secretario de Estado en el Despacho de Desarrollo Social ABG. ROGER EMILIO MEDINA ORELLANA Secretario General Avance Próxima Edición
 
-A C U E R D A Primero. Reformar los artículos 16, 24 y 29 del Reglamento del Registro de Antecedentes Penales.
+ACUERDA Primero. Reformar los artículos 16, 24 y 29 del Reglamento del Registro de Antecedentes Penales.
 
 CENTROS DE DISTRIBUCIÓN:
 

@@ -11,7 +11,7 @@ paginas: "A. 1 - 3"
 sumario: "Decretos Nos. 184-2026, 187-2026,194-2026, 200-2026"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20261014-37269/download"
 extraido: "2026-11-09"
-huella: "f693e035d00c5f9d"
+huella: "33f3a28f4ff1ca29"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 184-2026
@@ -45,17 +45,17 @@ CONSIDERANDO: Que de conformidad con el Artículo 205 Atribución 1) de la Const
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No.133-2015, de fecha 18 de Noviembre de 2015, publicado en la Edición No.34,125 del Diario Oficial “La Gaceta”, en fecha 30 de Agosto de 2016, el cual en adelante se leerá de la siguiente manera:
+ARTÍCULO 1.- Reformar el Artículo 1 del Decreto No. 133-2015, de fecha 18 de Noviembre de 2015, publicado en la Edición No. 34,125 del Diario Oficial “La Gaceta”, en fecha 30 de Agosto de 2016, el cual en adelante se leerá de la siguiente manera:
 
-“ARTÍCULO 1.- Consignar en el Presupuesto General de Ingresos y Egresos de la República, en el Ejercicio Fiscal del año Dos Mil Veintiséis (2026), la asignación de una partida presupuestaria por un monto de DOS MILLONES D E L E M P I R A S E X A C T O S (L.2,000,000.00) ANUALES, durante los años de existencia del ASILO DE ANCIANOS SAN VICENTE DE PAÚL, UBICADO EN LA CIUDAD DE CHOLUTECA, DEPARTAMENTO DE CHOLUTECA, de conformidad con las disponibilidades presupuestarias y las disposiciones legales aplicables”.
+“ARTÍCULO 1.- Consignar en el Presupuesto General de Ingresos y Egresos de la República, en el Ejercicio Fiscal del año Dos Mil Veintiséis (2026), la asignación de una partida presupuestaria por un monto de DOS MILLONES DE LEMPIRAS EXACTOS (L.2,000,000.00) ANUALES, durante los años de existencia del ASILO DE ANCIANOS SAN VICENTE DE PAÚL, UBICADO EN LA CIUDAD DE CHOLUTECA, DEPARTAMENTO DE CHOLUTECA, de conformidad con las disponibilidades presupuestarias y las disposiciones legales aplicables”.
 
 #### Artículo 2
 
-ARTÍCULO 2.- Ordenar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) realizar las modificaciones, ampliaciones e inclusiones necesarias en el Presupuesto General de Ingresos y Egresos de la República, a partir del Ejercicio Fiscal del año Dos Mil Veintisiete (2027), a fin de incrementar la asignación presupuestaria destinada a la Asociación Nacional para el Desarrollo de las Personas Ciegas de Honduras (ANDEPCIH), hasta consolidar un monto total de DOS MILLONES DE LEMPIRAS E X A C TO S ( L . 2 , 0 0 0 , 0 0 0 . 0 0 ) ANUALES, de conformidad con la disponibilidad presupuestaria y el marco jurídico aplicable.
+ARTÍCULO 2.- Ordenar a la Secretaría de Estado en el Despacho de Finanzas (SEFIN) realizar las modificaciones, ampliaciones e inclusiones necesarias en el Presupuesto General de Ingresos y Egresos de la República, a partir del Ejercicio Fiscal del año Dos Mil Veintisiete (2027), a fin de incrementar la asignación presupuestaria destinada a la Asociación Nacional para el Desarrollo de las Personas Ciegas de Honduras (ANDEPCIH), hasta consolidar un monto total de DOS MILLONES DE LEMPIRAS EXAC TO S ( L . 2, 0 0 0, 0 0 0 . 0 0 ) ANUALES, de conformidad con la disponibilidad presupuestaria y el marco jurídico aplicable.
 
 La asignación establecida en el presente Artículo estará destinada al fortalecimiento de los servicios, programas y actividades de asistencia, autonomía, inclusión y atención de las personas ciegas y con discapacidad visual beneficiarias de la Institución.
 

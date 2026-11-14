@@ -11,7 +11,7 @@ paginas: "A. 5 - 9"
 sumario: "Acuerdo No. SAG-007-2022"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20220120-35827/download"
 extraido: "2026-11-14"
-huella: "985b5e3e47f32e42"
+huella: "32862d1b0341827c"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. SAG-007-2022
@@ -153,7 +153,7 @@ a) En el seno de la CONALE se propiciará la negociación de un precio base de c
 
 b) La CONALE revisará semestralmente o a solicitud de las partes los parámetros de clasificación por calidad y precios pagados por litro de leche al productor proveedor de las plantas artesanales, semi-industriales e industriales y su relación con el mercado y demás variables que influyen en este.
 
-c) Las plantas de procesamiento artesanal, semiindustrial e industrial de lácteos harán las deducciones o retenciones estipuladas en el Decreto 143- 2013, contentivo en la Ley del Fondo Nacional para la Competitividad del Sector Agropecuario (FONACSAH) y otras obligaciones fiscales o parafiscales; según procedimiento que la legislación de Honduras estipule. Para efectos del presente acuerdo ministerial las empresas que integran las asociaciones de procesadores entregarán a las organizaciones de productores nacionales registradas en el FONACSAH en los primeros 15 días de cada mes los comprobantes de la deducción correspondiente sobre las compras de leche cruda efectuadas mensualmente a dichos productores y o proveedores.
+c) Las plantas de procesamiento artesanal, semiindustrial e industrial de lácteos harán las deducciones o retenciones estipuladas en el Decreto 143-2013, contentivo en la Ley del Fondo Nacional para la Competitividad del Sector Agropecuario (FONACSAH) y otras obligaciones fiscales o parafiscales; según procedimiento que la legislación de Honduras estipule. Para efectos del presente acuerdo ministerial las empresas que integran las asociaciones de procesadores entregarán a las organizaciones de productores nacionales registradas en el FONACSAH en los primeros 15 días de cada mes los comprobantes de la deducción correspondiente sobre las compras de leche cruda efectuadas mensualmente a dichos productores y o proveedores.
 
 #### Artículo 7
 
@@ -205,7 +205,7 @@ DESABASTO.- Para efectos de la ley entiéndase por desabasto: la ausencia físic
 
 A fin de evitar la discrecionalidad y colusión, ordenar y regular apropiadamente la determinación y utilización de los volúmenes de importación por desabasto de la leche entera en polvo, leche en polvo descremada, grasa butírica y otros derivados de la leche, se establece el mecanismo siguiente:
 
-a) La solicitud realizada por parte de las empresas o plantas de procesamiento artesanal, semi- industrial e industrial para la apertura de contingentes por desabasto; deberá ser expresada en toneladas métricas y será presentada ante la SDE con copia a la SAG.
+a) La solicitud realizada por parte de las empresas o plantas de procesamiento artesanal, semiindustrial e industrial para la apertura de contingentes por desabasto; deberá ser expresada en toneladas métricas y será presentada ante la SDE con copia a la SAG.
 
 b) Las Secretarías de Estado SAG y SDE harán un análisis de oferta (Producción nacional, inventarios físicos existentes, el volumen de los contingentes arancelarios vigentes) y la demanda según sea el caso del solicitante: artesanal, semi-industrial e industrial de leche fluida y derivados lácteos para determinar la existencia y el volumen de desabasto.
 

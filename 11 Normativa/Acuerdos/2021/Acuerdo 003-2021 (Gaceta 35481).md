@@ -11,7 +11,7 @@ paginas: "A. 15"
 sumario: "Acuerdos Ministeriales Nos. 001-2021, 002-2021, 003-2021, 004-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20210108-35481/download"
 extraido: "2026-11-14"
-huella: "3fc8b4d7bf6f7108"
+huella: "942c8828acdedee3"
 ---
 <!-- portal:inicio -->
 # ACUERDO MINISTERIAL No. 003-2021
@@ -39,7 +39,7 @@ POR TANTO:
 
 En uso de las facultades que le confiere el Artículo 33, 36 N.º 1, 8, 116 y 118, 119 numeral 3 y 122 de la Ley General de la Administración Pública y Artículo 1 del Decreto Legislativo N.º 266-2013 y Decreto Ejecutivo Número 402-2002 del 13 de marzo del 2002.
 
-A C U E R D A:
+ACUERDA:
 
 PRIMERO: Autorizar a la Gerencia Administrativa de esta Secretaría de Estado, proceda a pagar mensualmente los GASTOS DE REPRESENTACIÓN EN EL EXTERIOR, al Representante de la Organización Mundial del Comercio en Ginebra Suiza, para el funcionamiento Operativo de dicha Organización, la cantidad de $14,900.00 (CATORCE MIL NOVECIENTOS DOLARES EXACTOS), a partir del mes de enero al mes de diciembre del año dos mil veintiuno.
 

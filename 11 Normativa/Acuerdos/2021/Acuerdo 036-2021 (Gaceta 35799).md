@@ -11,7 +11,7 @@ paginas: "A. 6"
 sumario: "Acuerdo No. 036-2021"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20211216-35799/download"
 extraido: "2026-11-14"
-huella: "44b89dfc52d1bba0"
+huella: "0f7a206cd7a263f9"
 ---
 <!-- portal:inicio -->
 # ACUERDO No. 036-2021
@@ -27,7 +27,7 @@ huella: "44b89dfc52d1bba0"
 
 ## Texto
 
-El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072- 2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo no. 110-2021, de fecha 30 de septiembre del año 2021, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
+El Comisionado Presidente de la Agencia de Regulación Sanitaria (ARSA), en uso de las facultades de que está investido y en aplicación del Acuerdo Ejecutivo No. 072-2017, de fecha 20 de junio de 2017, modificado mediante Acuerdo no. 110-2021, de fecha 30 de septiembre del año 2021, Art. 4 y 5 de la Ley de Procedimiento Administrativo.
 
 ACUERDA:
 

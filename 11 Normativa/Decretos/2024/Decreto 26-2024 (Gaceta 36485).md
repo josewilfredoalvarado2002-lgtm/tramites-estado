@@ -11,7 +11,7 @@ paginas: "A. 1 - 16"
 sumario: "Decreto No. 26-2024"
 url_pdf: "https://enag.gob.hn/index.php/gaceta-digital/20240314-36485/download"
 extraido: "2026-11-14"
-huella: "712c65128f1c2867"
+huella: "c7cec32ac6e15267"
 ---
 <!-- portal:inicio -->
 # DECRETO No. 26-2024
@@ -47,11 +47,11 @@ CONSIDERANDO: Que de conformidad al Artículo 205, Atribución 1) de la Constitu
 
 POR TANTO,
 
-D E C R E T A:
+DECRETA:
 
 #### Artículo 1
 
-ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.HO-C3, suscrito el 11 de enero de 2024, entre la AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN (JICA) y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, hasta por un monto de TRECE MIL TRESCIENTOS NOVENTA MILLONES DE YENES JAPONESES (¥13,390,000,000) recursos destinados a financiar la ejecución del Préstamo d e l “ P R O G R A M A P A R A MEJORAR LA TRANSPARENCIA Y LA INTEGRIDAD PARA EL DESARROLLO SOSTENIBLE”, mismo que literalmente que dice:
+ARTÍCULO 1.- Aprobar en todas y cada una de las partes el CONTRATO DE PRÉSTAMO No.HO-C3, suscrito el 11 de enero de 2024, entre la AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN (JICA) y EL GOBIERNO DE LA REPÚBLICA DE HONDURAS, hasta por un monto de TRECE MIL TRESCIENTOS NOVENTA MILLONES DE YENES JAPONESES (¥13,390,000,000) recursos destinados a financiar la ejecución del Préstamo d e l “ PROGRAMA PARA MEJORAR LA TRANSPARENCIA Y LA INTEGRIDAD PARA EL DESARROLLO SOSTENIBLE”, mismo que literalmente que dice:
 
 “SECRETARÍA DE ESTADO EN EL
 
@@ -65,9 +65,9 @@ Artículo II Reembolso, Intereses y Comisión Inicial Sección 1. Reembolso del 
 
 Artículo III Acuerdos Particulares Sección 1. Términos y Condiciones Generales Sección 2. Procedimiento de Adquisición Sección 3. Procedimiento de Desembolso Sección 4. Administración del Préstamo Sección 5. Tabla de Contenido y Encabezados Sección 6.
 
-Avisos y Solicitudes Apéndice 1 Descripción del Programa Apéndice 2 Utilización de Fondos del Préstamo Apéndice 3 Plan de Amortización Apéndice 4 Procedimiento de Adquisición Apéndice 5 Procedimiento de Desembolso Contrato de Préstamo No. HO-C3, de fecha 11 de enero de 2024, entre la AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN y el GOBIERNO DE LA REPÚBLICA DE HONDURAS. En base al Canje de Notas entre el GOBIERNO DE JAPÓN y el GOBIERNO DE LA REPÚBLICA DE HONDURAS con fecha 11 de enero de 2024, sobre un préstamo japonés que será proporcionado para promover la estabilización económica y los esfuerzos para el desarrollo de la República de H o n d u r a s , l a A G E N C I A D E COOPERACIÓN INTERNACIONAL DE JAPÓN (en adelante denominada como “JICA”) y el GOBIERNO DE LA REPÚBLICA DE HONDURAS (en adelante denominado como el “Prestatario”) convienen en celebrar el siguiente Contrato de Préstamo (en adelante denominado como el “Contrato de Préstamo”, el cual incluye todos los acuerdos suplementarios adjuntos).
+Avisos y Solicitudes Apéndice 1 Descripción del Programa Apéndice 2 Utilización de Fondos del Préstamo Apéndice 3 Plan de Amortización Apéndice 4 Procedimiento de Adquisición Apéndice 5 Procedimiento de Desembolso Contrato de Préstamo No. HO-C3, de fecha 11 de enero de 2024, entre la AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN y el GOBIERNO DE LA REPÚBLICA DE HONDURAS. En base al Canje de Notas entre el GOBIERNO DE JAPÓN y el GOBIERNO DE LA REPÚBLICA DE HONDURAS con fecha 11 de enero de 2024, sobre un préstamo japonés que será proporcionado para promover la estabilización económica y los esfuerzos para el desarrollo de la República de Honduras, la AGENCIA DE COOPERACIÓN INTERNACIONAL DE JAPÓN (en adelante denominada como “JICA”) y el GOBIERNO DE LA REPÚBLICA DE HONDURAS (en adelante denominado como el “Prestatario”) convienen en celebrar el siguiente Contrato de Préstamo (en adelante denominado como el “Contrato de Préstamo”, el cual incluye todos los acuerdos suplementarios adjuntos).
 
-Artículo I. Préstamo. Sección 1. Monto y Propósito del Préstamo. JICA acuerda prestar al Prestatario un monto que no excederá de TRECE MIL TRESCIENTOS NOVENTA MILLONES de yenes japoneses (¥13,390,000,000) como el monto principal para la implementación del Préstamo del Programa para Mejorar la Transparencia y la Integridad para el Desarrollo Sostenible descrito en el Apéndice 1 adjunto al presente (en adelante denominado como el “ P r o g r a m a ” ) e n f o r m a d e cofinanciamiento con el Programa de Transparencia e Integridad para el Desarrollo Sostenible extendido por el Banco Interamericano de Desarrollo (en adelante denominado como “BID”) bajo los términos y condiciones establecidos en el Contrato de Préstamo y de conformidad con las leyes y reglamentos relevantes de Japón (en adelante denominado como el “Préstamo”) sin embargo, cuando el total acumulado de los desembolsos bajo el Contrato de Préstamo alcance el monto máximo arriba mencionado del Préstamo, JICA no hará más desembolsos. Sección 2.
+Artículo I. Préstamo. Sección 1. Monto y Propósito del Préstamo. JICA acuerda prestar al Prestatario un monto que no excederá de TRECE MIL TRESCIENTOS NOVENTA MILLONES de yenes japoneses (¥13,390,000,000) como el monto principal para la implementación del Préstamo del Programa para Mejorar la Transparencia y la Integridad para el Desarrollo Sostenible descrito en el Apéndice 1 adjunto al presente (en adelante denominado como el “ Programa ” ) en forma de cofinanciamiento con el Programa de Transparencia e Integridad para el Desarrollo Sostenible extendido por el Banco Interamericano de Desarrollo (en adelante denominado como “BID”) bajo los términos y condiciones establecidos en el Contrato de Préstamo y de conformidad con las leyes y reglamentos relevantes de Japón (en adelante denominado como el “Préstamo”) sin embargo, cuando el total acumulado de los desembolsos bajo el Contrato de Préstamo alcance el monto máximo arriba mencionado del Préstamo, JICA no hará más desembolsos. Sección 2.
 
 Utilización de los Fondos del Préstamo.
 
